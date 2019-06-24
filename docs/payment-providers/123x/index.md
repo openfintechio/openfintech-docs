@@ -1,0 +1,61 @@
+
+# 123x 
+![123x](https://static.openfintech.io/payment_providers/123x/logo.png?w=400&c=v0.59.26#w100)  
+
+## General 
+ 
+**Code:** `123x` 
+ 
+**Vendor:** `123x` 
+ 
+**Name:** 
+ 
+:	[EN] 123x 
+ 
+
+## Images 
+
+### Logo 
+ 
+![123x](https://static.openfintech.io/payment_providers/123x/logo.png?w=400&c=v0.59.26#w100)  
+
+```
+https://static.openfintech.io/payment_providers/123x/logo.png?w=400&c=v0.59.26#w100
+```  
+
+### Icon 
+ 
+![123x](https://static.openfintech.io/payment_providers/123x/icon.png?w=278&c=v0.59.26#w100)  
+
+```
+https://static.openfintech.io/payment_providers/123x/icon.png?w=278&c=v0.59.26#w100
+```  
+
+## Payment Methods 
+ 
+The list of supported [Payment Methods](#) 
+
+|Code| 
+|:---| 
+|[bank_card](/payment-methods/bank_card)| 
+ 
+
+## JSON Object 
+
+```json
+{
+  "code":"123x",
+  "description":null,
+  "vendor":"123x",
+  "categories":null,
+  "countries":null,
+  "payment_method":[
+    "bank_card"
+  ],
+  "payout_method":null,
+  "metadata":null,
+  "name":{
+    "en":"123x"
+  }
+}
+```  

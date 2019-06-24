@@ -1,0 +1,62 @@
+
+# Suhyup Bank 
+![suhyup_bank](https://static.openfintech.io/payment_methods/suhyup_bank/logo.svg?w=400&c=v0.59.26#w200)  
+
+## General 
+**Code:** `suhyup_bank` 
+ 
+**Name:** 
+ 
+:	[EN] Suhyup Bank 
+ 
+**Category:** `bank_transfer` 
+ 
+
+## Images 
+
+### Logo 
+![suhyup_bank](https://static.openfintech.io/payment_methods/suhyup_bank/logo.svg?w=400&c=v0.59.26#w200)  
+
+```
+https://static.openfintech.io/payment_methods/suhyup_bank/logo.svg?w=400&c=v0.59.26#w200
+```  
+
+### Icon 
+![suhyup_bank](https://static.openfintech.io/payment_methods/suhyup_bank/icon.svg?w=278&c=v0.59.26#w100)  
+
+```
+https://static.openfintech.io/payment_methods/suhyup_bank/icon.svg?w=278&c=v0.59.26#w100
+```  
+
+## Payment Services 
+ 
+The list of [Payment Services](#) based on the _Suhyup Bank_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![suhyup_bank](https://static.openfintech.io/payment_methods/suhyup_bank/icon.svg?w=278&c=v0.59.26#w100) |[suhyup_bank_krw_hpp](#)|`suhyup_bank_krw_hpp`| 
+ 
+
+## Payment Providers 
+ 
+The list of [Payment Providers](/providers) that support the _Suhyup Bank_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![paysec](https://static.openfintech.io/payment_providers/paysec/icon.png?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec)|`paysec`| 
+ 
+
+## JSON Object 
+
+```json
+{
+  "code":"suhyup_bank",
+  "vendor":null,
+  "name":{
+    "en":"Suhyup Bank"
+  },
+  "description":null,
+  "countries":null,
+  "category":"bank_transfer"
+}
+```  
