@@ -1,6 +1,6 @@
-# PayСore.io documentation
+# OpenFinTech.io documentation
 
-This repository contains PayСore.io public documentation.
+This repository contains OpenFinTech.io public documentation.
 
 
 
