@@ -4,7 +4,7 @@ install:
 - pip install mkdocs mkdocs-material
 script:
 - git clean -f -d -x;
-- while true; do echo -en "\a" sleep 5 done
+- while true; do echo -en "\a"; sleep 5; done
 - travis_wait 30 mkdocs build
 deploy:
   provider: script
