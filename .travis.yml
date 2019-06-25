@@ -2,6 +2,8 @@ sudo: false
 language: python
 install:
 - pip install mkdocs mkdocs-material
+before_script:
+  - chmod +x script.sh
 script:
 - git clean -f -d -x;
 - travis_wait 30 ./script.sh
