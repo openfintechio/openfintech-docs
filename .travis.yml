@@ -6,7 +6,7 @@ before_script:
   - chmod +x script.sh
 script:
 - git clean -f -d -x;
-- "travis_wait 30 sleep 1800 &"
+- "travis_wait 30 sleep 3600 &"
 - ./script.sh
 before_deploy:
   - chmod +x deploy.sh
