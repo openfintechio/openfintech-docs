@@ -7,4 +7,4 @@ keep_alive() {
     done
 }
 
-travis wait 30 keep_alive & mkdocs build
+keep_alive & mkdocs build
