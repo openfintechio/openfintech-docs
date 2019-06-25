@@ -1,4 +1,9 @@
-site_name: 'OFT docs'
+site_name: 'Documentation'
+site_description: 'OpenFinTech.io public documentation'
+site_author: 'OpenFinTech.io (c)'
+site_url: 'https://paycoreio.github.io/'
+
+copyright: '© 2016-2048 OpenFinTech.io<sup>®</sup>. All Rights Reserved.'
 
 theme:
   name: 'material'
