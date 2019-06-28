@@ -1,0 +1,682 @@
+
+
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+        <meta name="description" content="OpenFinTech.io public documentation">
+      
+      
+        <link rel="canonical" href="https://paycoreio.github.io/openfintech-docs/">
+      
+      
+        <meta name="author" content="OpenFinTech.io (c)">
+      
+      
+        <meta name="lang:clipboard.copy" content="Copy to clipboard">
+      
+        <meta name="lang:clipboard.copied" content="Copied to clipboard">
+      
+        <meta name="lang:search.language" content="en">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="No matching documents">
+      
+        <meta name="lang:search.result.one" content="1 matching document">
+      
+        <meta name="lang:search.result.other" content="# matching documents">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="/images/favicon/favicon.ico">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-4.4.0">
+    
+    
+      
+        <title>Documentation</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/application.0284f74d.css">
+      
+        <link rel="stylesheet" href="assets/stylesheets/application-palette.01803549.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#3f51b5">
+      
+    
+    
+      <script src="assets/javascripts/modernizr.74668098.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="assets/fonts/material-icons.css">
+    
+    
+      <link rel="stylesheet" href="extra.css">
+    
+    
+      
+    
+    
+
+  <link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/images/favicon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/images/favicon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="/images/favicon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/images/favicon/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+  <meta property="og:url" content="https://paycoreio.github.io/openfintech-docs/">
+  
+    <meta property="og:title" content="Documentation">
+  
+  <meta property="og:description" content="OpenFinTech.io public documentation">
+  <meta property="og:image" content="https://og-image.now.sh/Introduction.png?theme=dark&md=1&fontSize=150px&images=https%3A%2F%2Fassets.zeit.co%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fhyper-bw-logo.svg&images=https%3A%2F%2Fopenfintech.io%2Foft-logo.png">
+  <meta property="og:image:alt" content="OpenFinTech.io<sup>®</sup> Documentation">
+  <meta property="og:image:type" content="images/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@paycoreio">
+  <meta name="twitter:creator" content="@paycoreio">
+  
+    <meta property="twitter:title" content="Documentation">
+  
+  <meta name="twitter:description" content="OpenFinTech.io public documentation">
+  <meta name="twitter:image" content="https://og-image.now.sh/Introduction.png?theme=dark&md=1&fontSize=150px&images=https%3A%2F%2Fassets.zeit.co%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fhyper-bw-logo.svg&images=https%3A%2F%2Fopenfintech.io%2Foft-logo.png">
+  <meta name="twitter:image:alt" content="OpenFinTech.io<sup>®</sup> Documentation">
+
+
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#open-fintech-standards-and-data" tabindex="1" class="md-skip">
+        Skip to content
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="https://paycoreio.github.io/openfintech-docs/" title="Documentation" class="md-header-nav__button md-logo">
+          
+            <img src="images/oft-logo.svg" width="24" height="24">
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            <span class="md-header-nav__topic">
+              Documentation
+            </span>
+            <span class="md-header-nav__topic">
+              
+                Introduction
+              
+            </span>
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+          
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Type to start searching
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        
+      </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+        
+
+<nav class="md-tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href="." title="Introduction" class="md-tabs__link md-tabs__link--active">
+        Introduction
+      </a>
+    
+  </li>
+
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href="payment-providers/" title="Payment Providers" class="md-tabs__link md-tabs__link--active">
+        Payment Providers
+      </a>
+    
+  </li>
+
+      
+        
+      
+        
+      
+        
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href="payout-services/" title="Payout Services" class="md-tabs__link md-tabs__link--active">
+        Payout Services
+      </a>
+    
+  </li>
+
+      
+    </ul>
+  </div>
+</nav>
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href="https://paycoreio.github.io/openfintech-docs/" title="Documentation" class="md-nav__button md-logo">
+      
+        <img src="images/oft-logo.svg" width="48" height="48">
+      
+    </a>
+    Documentation
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Introduction
+      </label>
+    
+    <a href="." title="Introduction" class="md-nav__link md-nav__link--active">
+      Introduction
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#about" title="About" class="md-nav__link">
+    About
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#overview" title="Overview" class="md-nav__link">
+    Overview
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#data" title="Data" class="md-nav__link">
+    Data
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uml" title="UML" class="md-nav__link">
+    UML
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#agreement" title="Agreement" class="md-nav__link">
+    Agreement
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community" title="Community" class="md-nav__link">
+    Community
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#testimonials" title="Testimonials" class="md-nav__link">
+    Testimonials
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="payment-providers/" title="Payment Providers" class="md-nav__link">
+      Payment Providers
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="payment-methods/index.md" title="Payment Methods" class="md-nav__link">
+      Payment Methods
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="payment-services/index.md" title="Payment Services" class="md-nav__link">
+      Payment Services
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="payout-methods/index.md" title="Payout Methods" class="md-nav__link">
+      Payout Methods
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="payout-services/" title="Payout Services" class="md-nav__link">
+      Payout Services
+    </a>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#about" title="About" class="md-nav__link">
+    About
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#overview" title="Overview" class="md-nav__link">
+    Overview
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#data" title="Data" class="md-nav__link">
+    Data
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uml" title="UML" class="md-nav__link">
+    UML
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#agreement" title="Agreement" class="md-nav__link">
+    Agreement
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community" title="Community" class="md-nav__link">
+    Community
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#testimonials" title="Testimonials" class="md-nav__link">
+    Testimonials
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <p><img alt="OpenFinTech.io Logo" src="images/oft-logo.svg" title="OpenFinTech.io" /></p>
+<h1 id="open-fintech-standards-and-data">Open FinTech standards and data<a class="headerlink" href="#open-fintech-standards-and-data" title="Permanent link">&para;</a></h1>
+<p><a href="https://travis-ci.org/paycoreio/openfintech"><img alt="Build Status" src="https://img.shields.io/travis/paycoreio/openfintech.svg?style=flat-square" /></a>
+<a href="https://packagist.org/packages/paycore/openfintech-data"><img alt="Total Downloads" src="https://poser.pugx.org/paycore/openfintech-data/downloads?format=flat-square" /></a>
+<a href="https://packagist.org/packages/paycore/openfintech-data"><img alt="License" src="https://poser.pugx.org/paycore/openfintech-data/license?format=flat-square" /></a></p>
+<h2 id="about">About<a class="headerlink" href="#about" title="Permanent link">&para;</a></h2>
+<p><strong>Mission:</strong> speeds up development and helps FinTech-services to communicate in <em>one language</em>.</p>
+<p><strong>Provides:</strong> open data for vendors, companies, organizations, currencies, banks, digital exchangers, payment providers (PSP), payment methods, etc.</p>
+<p><strong>Created for:</strong> communication of cross-integrated micro-services in "one language". </p>
+<p><strong>The goal is:</strong> to standardize entity identifiers that are used to exchange information among different web-services.</p>
+<h2 id="overview">Overview<a class="headerlink" href="#overview" title="Permanent link">&para;</a></h2>
+<p>International standards yield technological, economic and social advantages.</p>
+<p>Benefits for community:</p>
+<ul>
+<li>Development boost. Standards speed up the development of new applications and simplify the process of communication between the services.</li>
+<li>It's Free! Data and service is available under the MIT License.</li>
+<li>Collaboration. It is an open standard and open data, every player of FinTech market can contribute to development and enhancement.</li>
+<li>Easy integration. All data is available through native JSON data sources with JSON-Schemas.</li>
+<li>Rich development tools. SDKs, UI Viewer and Editor (in-progress), data convertors, validators, formaters, etc.</li>
+</ul>
+<h2 id="data">Data<a class="headerlink" href="#data" title="Permanent link">&para;</a></h2>
+<p>OpenFinTech catalog includes Data and <strong>Unified Identification Codes</strong> of the FinTech industry and world-wide services like:</p>
+<ul>
+<li>Vendors: Organizations and companies.</li>
+<li>Currencies: National, Digital, Virtual, Cryptocurrencies, etc.</li>
+<li>Banks and Branches.</li>
+<li>Payment Service Providers (PSP): Distributors, Aggregators, Collectors, Acquirers, etc.</li>
+<li>Payment &amp; Payout Methods: E-wallets, Bank Cards, Prepaid Cards, SSK, Alternative Methods, etc.</li>
+<li>Digital Exchangers: Online, Offline, Stock, etc. </li>
+</ul>
+<p>It also includes different resources like entity logos and icons.</p>
+<h2 id="uml">UML<a class="headerlink" href="#uml" title="Permanent link">&para;</a></h2>
+<p><img alt="Class Diagram" src="images/uml-class-diagram.png" title="Domain Model" /></p>
+<h2 id="agreement">Agreement<a class="headerlink" href="#agreement" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Identification code (natural key) MUST be <ul>
+<li>Unique in data collection</li>
+<li>Not less than 3 symbols and </li>
+<li>Consist of: <ul>
+<li>Characters a to z</li>
+<li>Digits 0 through 9</li>
+<li>Hyphen (-), Dot (.), Underscore (_), But cannot start nor end with them</li>
+</ul>
+</li>
+<li>Good example: "paypal", "walletone", "webmoney-transfer", "ingbank.pl"</li>
+<li>Bad example: "pay_pal", "w1", "wm_trn", "ingbpl"</li>
+</ul>
+</li>
+<li>Resources COULD contains such files as:<ul>
+<li>Icon<ul>
+<li>Filename: icon.[png|svg]</li>
+<li>Format: Only PNG or SVG (is more preferable).</li>
+<li>Shape: Icons are made to fit in squares (‘quadratic’), while logos do not have shape restrictions.</li>
+<li>Size: Icons are usually in 16x16 (favicon) or 512x512 (large size is more preferable).</li>
+</ul>
+</li>
+<li>Logo<ul>
+<li>Filename: logo.[png|svg]</li>
+<li>Format: Only PNG or SVG (is more preferable).</li>
+<li>Shape: Logos on the other hand are vector based, and can be scaled into any size without losing quality since they also need to be used in different materials related to the organization it represents such as brochures, business cards, website, banner, signage etc.</li>
+<li>Size: Min width is 200 px. Max width is 2000 px. Large size is more preferable.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><em>Translatable</em> values MUST be:<ul>
+<li>Format: key-value array, where key is 2-char ISO language code (example: "en", "ge", "uk"). </li>
+<li>Example: "name": {"en": "Yandex.Money", "ru": "Яндрекс.Деньги"}  </li>
+</ul>
+</li>
+</ul>
+<h2 id="community">Community<a class="headerlink" href="#community" title="Permanent link">&para;</a></h2>
+<p>Feel free to contribute new FinTech entities and data.</p>
+<p>Contact us: <a href="mailto:info@openfintech.io">info@openfintech.io</a></p>
+<h2 id="testimonials">Testimonials<a class="headerlink" href="#testimonials" title="Permanent link">&para;</a></h2>
+<p><em>"Fintech international standards are only on the stage of development. That's why we created OpenFinTech.io and made it accessible to the entire community!"</em>, Founder <a href="https://paycore.io/">PayCore.io</a>, <a href="https://www.facebook.com/denkiri">Denys Kyrychenko</a>.</p>
+<p><em>"With a constant increase in the number of services, communication between them becomes more and more complicated. OpenFinTech.io - is just-in-time and what we need!"</em>, Founder <a href="https://sdk.finance/">SDK.Finance</a>, <a href="https://www.facebook.com/pavlo.sidelov">Pavlo Sidelev</a>.                     </p>
+<h1 id="svg-optimization">SVG optimization<a class="headerlink" href="#svg-optimization" title="Permanent link">&para;</a></h1>
+<div class="codehilite"><pre><span></span>find . -name *svg -exec mv <span class="o">{}</span> /tmp/to_be_optimized.svg <span class="se">\;</span> -exec scour -i /tmp/to_be_optimized.svg -o <span class="o">{}</span> --enable-viewboxing --enable-id-stripping --enable-comment-stripping --shorten-ids --indent<span class="o">=</span>none <span class="se">\;</span>
+</pre></div>
+
+<h1 id="links">Links<a class="headerlink" href="#links" title="Permanent link">&para;</a></h1>
+<h2 id="libraries">Libraries<a class="headerlink" href="#libraries" title="Permanent link">&para;</a></h2>
+<p><a href="https://github.com/moneyphp/iso-currencies">github.com/moneyphp/iso-currencies</a>
+Provides up-to-date list of ISO 4217 currencies</p>
+<p><a href="https://github.com/musalbas/mcc-mnc-table">github.com/musalbas/mcc-mnc-table</a>
+Mobile Country Codes (MCC) and Mobile Network Codes (MNC) table in CSV, JSON and XML. Updated daily.</p>
+<p><a href="https://github.com/greggles/mcc-codes">github.com/greggles/mcc-codes</a>
+A public repository of Merchant Category Codes (MCC) in formats easier to read than most places (i.e. not a PDF).</p>
+<p><a href="https://github.com/umpirsky/currency-list">github.com/umpirsky/currency-list</a>
+List of all currencies with names and ISO 4217 codes in all languages and all data formats.</p>
+<p><a href="https://github.com/umpirsky/country-list">github.com/umpirsky/country-list</a>
+List of all countries with names and ISO 3166-1 codes in all languages and all data formats.</p>
+<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
+<p><a href="https://www.jsonschemavalidator.net/">www.jsonschemavalidator.net/</a></p>
+<p><a href="https://www.jsonschema.net/">www.jsonschema.net/</a></p>
+<p><a href="https://stedolan.github.io/jq/">stedolan.github.io/jq/</a></p>
+<p><a href="https://jqplay.org/">jqplay.org/</a></p>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+        
+          <a href ="payment-providers/" title="Payment Providers" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Payment Providers
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            © 2016-2048 OpenFinTech.io. All Rights Reserved.
+          </div>
+        
+        <a href="/LICENSE/" target="_blank" rel="noopener">Privacy & Terms</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    <link rel="stylesheet" href="assets/fonts/font-awesome.css">
+    
+      <a href="https://facebook.com/paycore.io/" class="md-footer-social__link fa fa-facebook"></a>
+    
+      <a href="https://twitter.com/paycoreio" class="md-footer-social__link fa fa-twitter"></a>
+    
+      <a href="https://www.linkedin.com/company/paycore/" class="md-footer-social__link fa fa-linkedin"></a>
+    
+      <a href="https://github.com/paycoreio/openfintech" class="md-footer-social__link fa fa-github"></a>
+    
+  </div>
+
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="assets/javascripts/application.245445c6.js"></script>
+      
+      <script>app.initialize({version:"1.0.4",url:{base:"."}})</script>
+      
+    
+  </body>
+</html>
