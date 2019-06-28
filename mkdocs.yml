@@ -20,8 +20,8 @@ theme:
   palette:
     primary: 'indigo'
     accent: 'indigo'
-  feature:
-    tabs: true
+  #feature:
+  #  tabs: true
   font:
     text: Roboto
     code: Roboto Mono
@@ -37,8 +37,14 @@ extra:
       link: 'https://www.linkedin.com/company/paycore/'
     - type: 'github'
       link: 'https://github.com/paycoreio/openfintech'
+  manifest: 'images/favicon/manifest.json'
 extra_css:
   - extra.css
+
+# Google Analytics
+google_analytics:
+  - 'UA-72023338-3'
+  - 'auto'
 
 # Extensions
 markdown_extensions:
