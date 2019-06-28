@@ -42,7 +42,7 @@ It also includes different resources like entity logos and icons.
 
 ## UML
 
-![Class Diagram](images/uml-class-diagram.png "Domain Model")
+[![Class Diagram](images/uml-class-diagram.png "Domain Model")](images/uml-class-diagram.png)
 
 ## Agreement
 
