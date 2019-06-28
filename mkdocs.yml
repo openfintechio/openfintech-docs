@@ -9,8 +9,7 @@ theme:
   name: 'material'
   custom_dir: 'theme'
   favicon: '/images/favicon/favicon.ico'
-  logo:
-    icon: 'import_contacts'
+  logo: 'images/oft-logo.svg'
   palette:
     primary: 'indigo'
     accent: 'indigo'
