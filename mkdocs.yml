@@ -1,23 +1,27 @@
+# Project information
 site_name: 'Documentation'
 site_description: 'OpenFinTech.io public documentation'
 site_author: 'OpenFinTech.io (c)'
 site_url: 'https://paycoreio.github.io/openfintech-docs/'
 
+# Repository
 repo_name: 'paycoreio/openfintech'
 repo_url: 'https://github.com/paycoreio/openfintech'
 
+# Copyright
 copyright: '© 2016-2048 OpenFinTech.io. All Rights Reserved.'
 
+# Configuration
 theme:
   name: 'material'
   custom_dir: 'theme'
-  favicon: '/images/favicon/favicon.ico'
-  logo: 'images/oft-logo.svg'
+  favicon: 'images/favicon/favicon.ico'
+  logo: 'images/oft-icon.svg'
   palette:
     primary: 'indigo'
     accent: 'indigo'
-  feature:
-    tabs: true
+  #feature:
+  #  tabs: true
   font:
     text: Roboto
     code: Roboto Mono
@@ -33,8 +37,14 @@ extra:
       link: 'https://www.linkedin.com/company/paycore/'
     - type: 'github'
       link: 'https://github.com/paycoreio/openfintech'
+  manifest: 'images/favicon/manifest.json'
 extra_css:
   - extra.css
+
+# Google Analytics
+google_analytics:
+  - 'UA-72023338-3'
+  - 'auto'
 
 # Extensions
 markdown_extensions:
