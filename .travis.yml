@@ -8,7 +8,7 @@ script:
   while sleep 2m; do
     echo "====[ $SECONDS seconds running... ]===="
   done &
-- mkdocs build
+- mkdocs build -q
 deploy:
   provider: script
   script: if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then ./deploy.sh; else echo "PR skip deploy"; fi
