@@ -25,7 +25,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`token`|✔|`string`|`/^[a-zA-Z_0-9]{32,96}$/`| 
+|`token`|✔|`string`|`/^[a-zA-Z_0-9]{32,128}$/`| 
  
 
 ### Details 
@@ -34,7 +34,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[a-zA-Z_0-9]{32,96}$/` 
+	Regexp: `/^[a-zA-Z_0-9]{32,128}$/` 
  
 	Required: `1` 
  
@@ -71,7 +71,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u043e\u043a\u0435\u043d",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u043e\u043a\u0435\u043d"
       },
-      "regexp":"\/^[a-zA-Z_0-9]{32,96}$\/",
+      "regexp":"\/^[a-zA-Z_0-9]{32,128}$\/",
       "required":true,
       "position":1
     }

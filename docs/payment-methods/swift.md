@@ -37,6 +37,21 @@ https://static.openfintech.io/payment_methods/swift/logo.svg?w=400&c=v0.59.26#w2
 https://static.openfintech.io/payment_methods/swift/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _SWIFT_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![swift](https://static.openfintech.io/payment_methods/swift/icon.svg?w=278&c=v0.59.26#w100) |[swift_usd_invoice](/payment-services/swift_usd_invoice/)|`swift_usd_invoice`| 
+|![swift](https://static.openfintech.io/payment_methods/swift/icon.svg?w=278&c=v0.59.26#w100) |[swift_eur_invoice](/payment-services/swift_eur_invoice/)|`swift_eur_invoice`| 
+|![swift](https://static.openfintech.io/payment_methods/swift/icon.svg?w=278&c=v0.59.26#w100) |[swift_gbp_invoice](/payment-services/swift_gbp_invoice/)|`swift_gbp_invoice`| 
+|![swift](https://static.openfintech.io/payment_methods/swift/icon.svg?w=278&c=v0.59.26#w100) |[swift_cny_invoice](/payment-services/swift_cny_invoice/)|`swift_cny_invoice`| 
+|![swift](https://static.openfintech.io/payment_methods/swift/icon.svg?w=278&c=v0.59.26#w100) |[swift_jpy_invoice](/payment-services/swift_jpy_invoice/)|`swift_jpy_invoice`| 
+|![swift](https://static.openfintech.io/payment_methods/swift/icon.svg?w=278&c=v0.59.26#w100) |[swift_rub_invoice](/payment-services/swift_rub_invoice/)|`swift_rub_invoice`| 
+|![swift](https://static.openfintech.io/payment_methods/swift/icon.svg?w=278&c=v0.59.26#w100) |[swift_kzt_invoice](/payment-services/swift_kzt_invoice/)|`swift_kzt_invoice`| 
+ 
+
 ## JSON Object 
 
 ```json

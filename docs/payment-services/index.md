@@ -262,6 +262,13 @@
 |![State Bank of India](https://static.openfintech.io/payment_methods/state_bank_of_india/logo.svg?w=400&c=v0.59.26#w200)  [**State Bank of India**](/payment-methods/state_bank_of_india/)|[`state_bank_of_india_inr_hpp`](state_bank_of_india_inr_hpp/)|`INR`| 
 |![Suhyup Bank](https://static.openfintech.io/payment_methods/suhyup_bank/logo.svg?w=400&c=v0.59.26#w200)  [**Suhyup Bank**](/payment-methods/suhyup_bank/)|[`suhyup_bank_krw_hpp`](suhyup_bank_krw_hpp/)|`KRW`| 
 |![Svyaznoy](https://static.openfintech.io/payment_methods/svyaznoy/logo.svg?w=400&c=v0.59.26#w200)  [**Svyaznoy**](/payment-methods/svyaznoy/)|[`svyaznoy_rub_hpp`](svyaznoy_rub_hpp/)|`RUB`| 
+|![SWIFT](https://static.openfintech.io/payment_methods/swift/logo.svg?w=400&c=v0.59.26#w200)  [**SWIFT**](/payment-methods/swift/)|[`swift_cny_invoice`](swift_cny_invoice/)|`CNY`| 
+|![SWIFT](https://static.openfintech.io/payment_methods/swift/logo.svg?w=400&c=v0.59.26#w200)  [**SWIFT**](/payment-methods/swift/)|[`swift_eur_invoice`](swift_eur_invoice/)|`EUR`| 
+|![SWIFT](https://static.openfintech.io/payment_methods/swift/logo.svg?w=400&c=v0.59.26#w200)  [**SWIFT**](/payment-methods/swift/)|[`swift_gbp_invoice`](swift_gbp_invoice/)|`GBP`| 
+|![SWIFT](https://static.openfintech.io/payment_methods/swift/logo.svg?w=400&c=v0.59.26#w200)  [**SWIFT**](/payment-methods/swift/)|[`swift_jpy_invoice`](swift_jpy_invoice/)|`JPY`| 
+|![SWIFT](https://static.openfintech.io/payment_methods/swift/logo.svg?w=400&c=v0.59.26#w200)  [**SWIFT**](/payment-methods/swift/)|[`swift_kzt_invoice`](swift_kzt_invoice/)|`KZT`| 
+|![SWIFT](https://static.openfintech.io/payment_methods/swift/logo.svg?w=400&c=v0.59.26#w200)  [**SWIFT**](/payment-methods/swift/)|[`swift_rub_invoice`](swift_rub_invoice/)|`RUB`| 
+|![SWIFT](https://static.openfintech.io/payment_methods/swift/logo.svg?w=400&c=v0.59.26#w200)  [**SWIFT**](/payment-methods/swift/)|[`swift_usd_invoice`](swift_usd_invoice/)|`USD`| 
 || **T** ||
 |![Techom Bank](https://static.openfintech.io/payment_methods/techom_bank/logo.svg?w=400&c=v0.59.26#w200)  [**Techom Bank**](/payment-methods/techom_bank/)|[`techom_bank_vnd_hpp`](techom_bank_vnd_hpp/)|`VND`| 
 |![Tele2](https://static.openfintech.io/payment_methods/tele2ru/logo.svg?w=400&c=v0.59.26#w200)  [**Tele2**](/payment-methods/tele2ru/)|[`tele2ru_rub_hpp`](tele2ru_rub_hpp/)|`RUB`| 
