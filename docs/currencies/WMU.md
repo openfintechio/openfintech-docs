@@ -1,0 +1,59 @@
+
+# WMU 
+![WMU](https://static.openfintech.io/currencies/WMU/icon.svg?w=278&c=v0.59.26#w100)  
+
+## General 
+ 
+**Code:** `WMU` 
+ 
+**Name:** 
+ 
+:	[EN] WMU 
+ 
+**Category:** `electronic` 
+ 
+**Type:** `digital` 
+ 
+**Exponent:** `2` 
+ 
+**Parent currency multiplier:** `1` 
+ 
+**Metadata:** 
+ 
+:	estandards_code: `WMU` 
+ 
+:	jsons_code: `WMU` 
+ 
+
+## Images 
+
+### Icon 
+ 
+![WMU](https://static.openfintech.io/currencies/WMU/icon.svg?w=278&c=v0.59.26#w100)  
+
+```
+https://static.openfintech.io/currencies/WMU/icon.svg?w=278&c=v0.59.26#w100
+```  
+
+## JSON Object 
+
+```json
+{
+  "code":"WMU",
+  "name":{
+    "en":"WMU"
+  },
+  "type":"digital",
+  "exponent":2,
+  "parent_currency_multiplier":1,
+  "category":"electronic",
+  "iso_numeric3_code":null,
+  "iso_alpha3_code":null,
+  "symbol":null,
+  "native_symbol":null,
+  "metadata":{
+    "estandards_code":"WMU",
+    "jsons_code":"WMU"
+  }
+}
+```  
