@@ -2,11 +2,11 @@
 site_name: 'OpenFinTech.io'
 site_description: 'OpenFinTech.io public documentation'
 site_author: 'OpenFinTech.io (c)'
-site_url: 'https://paycoreio.github.io/openfintech-docs/'
+site_url: 'https://openfintech.io/'
 
 # Repository
 repo_name: 'paycoreio/openfintech'
-repo_url: 'https://openfintech.io/'
+repo_url: 'https://github.com/paycoreio/openfintech'
 
 # Copyright
 copyright: '© 2016-2048 OpenFinTech.io. All Rights Reserved.'
