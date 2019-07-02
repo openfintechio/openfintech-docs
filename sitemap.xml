@@ -11,22 +11,32 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://paycoreio.github.io/openfintech-docs/payment-methods/</loc>
+     <lastmod>2019-07-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://paycoreio.github.io/openfintech-docs/payment-services/</loc>
+     <lastmod>2019-07-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://paycoreio.github.io/openfintech-docs/payout-methods/</loc>
+     <lastmod>2019-07-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://paycoreio.github.io/openfintech-docs/payout-services/</loc>
+     <lastmod>2019-07-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://paycoreio.github.io/openfintech-docs/vendors/</loc>
+     <lastmod>2019-07-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://paycoreio.github.io/openfintech-docs/currencies/</loc>
      <lastmod>2019-07-02</lastmod>
      <changefreq>daily</changefreq>
     </url>

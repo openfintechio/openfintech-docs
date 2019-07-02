@@ -1,0 +1,608 @@
+
+
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+        <meta name="description" content="OpenFinTech.io public documentation">
+      
+      
+        <link rel="canonical" href="https://paycoreio.github.io/openfintech-docs/vendors/filspay/">
+      
+      
+        <meta name="author" content="OpenFinTech.io (c)">
+      
+      
+        <meta name="lang:clipboard.copy" content="Copy to clipboard">
+      
+        <meta name="lang:clipboard.copied" content="Copied to clipboard">
+      
+        <meta name="lang:search.language" content="en">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="No matching documents">
+      
+        <meta name="lang:search.result.one" content="1 matching document">
+      
+        <meta name="lang:search.result.other" content="# matching documents">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../../images/favicon/favicon.ico">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-4.4.0">
+    
+    
+      
+        <title>FilsPay - OpenFinTech.io</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/application.0284f74d.css">
+      
+        <link rel="stylesheet" href="../../assets/stylesheets/application-palette.01803549.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#3f51b5">
+      
+    
+    
+      <script src="../../assets/javascripts/modernizr.74668098.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../../assets/fonts/material-icons.css">
+    
+      <link rel="manifest" href="../../images/favicon/manifest.json">
+    
+    
+      <link rel="stylesheet" href="../../extra.css">
+    
+    
+      
+        
+<script>
+  window.ga = window.ga || function() {
+    (ga.q = ga.q || []).push(arguments)
+  }
+  ga.l = +new Date
+  /* Setup integration and send page view */
+  ga("create", "UA-72023338-3", "auto")
+  ga("set", "anonymizeIp", true)
+  ga("send", "pageview")
+  /* Register handler to log search on blur */
+  document.addEventListener("DOMContentLoaded", () => {
+    if (document.forms.search) {
+      var query = document.forms.search.query
+      query.addEventListener("blur", function() {
+        if (this.value) {
+          var path = document.location.pathname;
+          ga("send", "pageview", path + "?q=" + this.value)
+        }
+      })
+    }
+  })
+</script>
+<script async src="https://www.google-analytics.com/analytics.js"></script>
+      
+    
+    
+
+  <link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/images/favicon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/images/favicon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="/images/favicon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/images/favicon/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+  <meta property="og:url" content="https://paycoreio.github.io/openfintech-docs/vendors/filspay/">
+  
+    <meta property="og:title" content="FilsPay - OpenFinTech.io">
+  
+  <meta property="og:description" content="OpenFinTech.io public documentation">
+  <meta property="og:image" content="https://og-image.now.sh/FilsPay.png?theme=dark&md=1&fontSize=150px&images=https%3A%2F%2Fassets.zeit.co%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fhyper-bw-logo.svg&images=https%3A%2F%2Fopenfintech.io%2Foft-logo.png">
+  <meta property="og:image:alt" content="OpenFinTech.io<sup>®</sup> Documentation">
+  <meta property="og:image:type" content="images/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@paycoreio">
+  <meta name="twitter:creator" content="@paycoreio">
+  
+    <meta property="twitter:title" content="FilsPay - OpenFinTech.io">
+  
+  <meta name="twitter:description" content="OpenFinTech.io public documentation">
+  <meta name="twitter:image" content="https://og-image.now.sh/FilsPay.png?theme=dark&md=1&fontSize=150px&images=https%3A%2F%2Fassets.zeit.co%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fhyper-bw-logo.svg&images=https%3A%2F%2Fopenfintech.io%2Foft-logo.png">
+  <meta name="twitter:image:alt" content="OpenFinTech.io<sup>®</sup> Documentation">
+
+
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#filspay" tabindex="1" class="md-skip">
+        Skip to content
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="https://paycoreio.github.io/openfintech-docs/" title="OpenFinTech.io" class="md-header-nav__button md-logo">
+          
+            <img src="../../images/oft-icon.svg" width="24" height="24">
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            <span class="md-header-nav__topic">
+              OpenFinTech.io
+            </span>
+            <span class="md-header-nav__topic">
+              
+                FilsPay
+              
+            </span>
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+          
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Type to start searching
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+<a href="https://openfintech.io/" title="Go to repository" class="md-source" data-md-source="">
+  
+  <div class="md-source__repository">
+    paycoreio/openfintech
+  </div>
+</a>
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href="https://paycoreio.github.io/openfintech-docs/" title="OpenFinTech.io" class="md-nav__button md-logo">
+      
+        <img src="../../images/oft-icon.svg" width="48" height="48">
+      
+    </a>
+    OpenFinTech.io
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+<a href="https://openfintech.io/" title="Go to repository" class="md-source" data-md-source="">
+  
+  <div class="md-source__repository">
+    paycoreio/openfintech
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../.." title="Introduction" class="md-nav__link">
+      Introduction
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../payment-providers/" title="Payment Providers" class="md-nav__link">
+      Payment Providers
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../payment-methods/" title="Payment Methods" class="md-nav__link">
+      Payment Methods
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../payment-services/" title="Payment Services" class="md-nav__link">
+      Payment Services
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../payout-methods/" title="Payout Methods" class="md-nav__link">
+      Payout Methods
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../payout-services/" title="Payout Services" class="md-nav__link">
+      Payout Services
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../" title="Vendors" class="md-nav__link">
+      Vendors
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../currencies/" title="Currencies" class="md-nav__link">
+      Currencies
+    </a>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#general" title="General" class="md-nav__link">
+    General
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#images" title="Images" class="md-nav__link">
+    Images
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#logo" title="Logo" class="md-nav__link">
+    Logo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#icon" title="Icon" class="md-nav__link">
+    Icon
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#json-object" title="JSON Object" class="md-nav__link">
+    JSON Object
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="filspay">FilsPay<a class="headerlink" href="#filspay" title="Permanent link">&para;</a></h1>
+<p><img alt="filspay" src="https://static.openfintech.io/vendors/filspay/logo.svg?w=400&amp;c=v0.59.26#w200" />  </p>
+<h2 id="general">General<a class="headerlink" href="#general" title="Permanent link">&para;</a></h2>
+<p><strong>Code:</strong> <code>filspay</code> </p>
+<dl>
+<dt><strong>Name:</strong> </dt>
+<dd>
+<p>[EN] FilsPay </p>
+</dd>
+</dl>
+<p><strong>Status:</strong> <code>active</code> </p>
+<dl>
+<dt><strong>Description:</strong> </dt>
+<dd>
+<p>[EN]  FilsPay is the most comprehensive online payment solution in Middle East and South East Asia a buyer will ever need. It empowers users to shop from over 22,000 merchants online and buy Internet connectivity, fixed and mobile communication services, airline tickets, stock market solutions, educational resources and much more.  It can be used by teenagers, collage students, workers, businessmen and even housewives! Anyone who does not have or is cautious about using their credit/debit cards or revealing their financial or personal details online; can find a great solution in using FilsPay and shop online with no more fear of theft and fraud! FilsPay account can be topup through FilsPay prepaid cards with 4 dominations (3, 10, 35 and 100 Fils). Many other topup options are available online.  </p>
+</dd>
+<dt><strong>Countries:</strong> </dt>
+<dd>
+<p><img alt="AF" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/af.svg#w24" />  <img alt="AM" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/am.svg#w24" />  <img alt="AZ" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/az.svg#w24" />  <img alt="BH" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/bh.svg#w24" />  <img alt="BD" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/bd.svg#w24" />  <img alt="BT" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/bt.svg#w24" />  <img alt="IO" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/io.svg#w24" />  <img alt="KH" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/kh.svg#w24" />  <img alt="CL" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/cl.svg#w24" />  <img alt="CX" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/cx.svg#w24" />  <img alt="CC" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/cc.svg#w24" />  <img alt="CY" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/cy.svg#w24" />  <img alt="EG" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/eg.svg#w24" />  <img alt="GE" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ge.svg#w24" />  <img alt="HK" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/hk.svg#w24" />  <img alt="IN" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/in.svg#w24" />  <img alt="ID" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/id.svg#w24" />  <img alt="IR" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ir.svg#w24" />  <img alt="IL" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/il.svg#w24" />  <img alt="JP" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/jp.svg#w24" />  <img alt="JO" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/jo.svg#w24" />  <img alt="KZ" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/kz.svg#w24" />  <img alt="KW" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/kw.svg#w24" />  <img alt="LB" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/lb.svg#w24" />  <img alt="MO" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/mo.svg#w24" />  <img alt="MY" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/my.svg#w24" />  <img alt="MV" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/mv.svg#w24" />  <img alt="MN" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/mn.svg#w24" />  <img alt="MM" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/mm.svg#w24" />  <img alt="NP" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/np.svg#w24" />  <img alt="PK" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/pk.svg#w24" />  <img alt="PH" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ph.svg#w24" />  <img alt="SA" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/sa.svg#w24" />  <img alt="SG" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/sg.svg#w24" />  <img alt="LK" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/lk.svg#w24" />  <img alt="TW" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/tw.svg#w24" />  <img alt="TJ" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/tj.svg#w24" />  <img alt="TH" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/th.svg#w24" />  <img alt="TR" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/tr.svg#w24" />  <img alt="TM" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/tm.svg#w24" />  <img alt="UA" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ua.svg#w24" />  <img alt="UZ" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/uz.svg#w24" />  <img alt="VN" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/vn.svg#w24" />  <img alt="YE" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ye.svg#w24" /><br />
+<strong>Address:</strong> 
+street:  246 C &amp; D,Bangunan, Peguam,Batu 2 Jalan Ipoh51200 Kuala LumpurMalaysia  </p>
+</dd>
+</dl>
+<h2 id="images">Images<a class="headerlink" href="#images" title="Permanent link">&para;</a></h2>
+<h3 id="logo">Logo<a class="headerlink" href="#logo" title="Permanent link">&para;</a></h3>
+<p><img alt="filspay" src="https://static.openfintech.io/vendors/filspay/logo.svg?w=400&amp;c=v0.59.26#w200" />  </p>
+<div class="codehilite"><pre><span></span>https://static.openfintech.io/vendors/filspay/logo.svg?w=400&amp;c=v0.59.26#w200
+</pre></div>
+
+<h3 id="icon">Icon<a class="headerlink" href="#icon" title="Permanent link">&para;</a></h3>
+<p><img alt="filspay" src="https://static.openfintech.io/vendors/filspay/icon.svg?w=278&amp;c=v0.59.26#w100" />  </p>
+<div class="codehilite"><pre><span></span>https://static.openfintech.io/vendors/filspay/icon.svg?w=278&amp;c=v0.59.26#w100
+</pre></div>
+
+<h2 id="json-object">JSON Object<a class="headerlink" href="#json-object" title="Permanent link">&para;</a></h2>
+<div class="codehilite"><pre><span></span><span class="p">{</span>
+  <span class="nt">&quot;code&quot;</span><span class="p">:</span><span class="s2">&quot;filspay&quot;</span><span class="p">,</span>
+  <span class="nt">&quot;name&quot;</span><span class="p">:{</span>
+    <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;FilsPay&quot;</span>
+  <span class="p">},</span>
+  <span class="nt">&quot;status&quot;</span><span class="p">:</span><span class="s2">&quot;active&quot;</span><span class="p">,</span>
+  <span class="nt">&quot;description&quot;</span><span class="p">:{</span>
+    <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot; FilsPay is the most comprehensive online payment solution in Middle East and South East Asia a buyer will ever need. It empowers users to shop from over 22,000 merchants online and buy Internet connectivity, fixed and mobile communication services, airline tickets, stock market solutions, educational resources and much more.\u00a0 It can be used by teenagers, collage students, workers, businessmen and even housewives! Anyone who does not have or is cautious about using their credit\/debit cards or revealing their financial or personal details online; can find a great solution in using FilsPay and shop online with no more fear of theft and fraud! FilsPay account can be topup through FilsPay prepaid cards with 4 dominations (3, 10, 35 and 100 Fils). Many other topup options are available online. &quot;</span>
+  <span class="p">},</span>
+  <span class="nt">&quot;links&quot;</span><span class="p">:</span><span class="kc">null</span><span class="p">,</span>
+  <span class="nt">&quot;countries&quot;</span><span class="p">:[</span>
+    <span class="s2">&quot;AF&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;AM&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;AZ&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;BH&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;BD&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;BT&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;IO&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;KH&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;CL&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;CX&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;CC&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;CY&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;EG&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;GE&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;HK&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;IN&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;ID&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;IR&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;IL&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;JP&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;JO&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;KZ&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;KW&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;LB&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;MO&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;MY&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;MV&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;MN&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;MM&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;NP&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;PK&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;PH&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;SA&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;SG&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;LK&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;TW&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;TJ&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;TH&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;TR&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;TM&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;UA&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;UZ&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;VN&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;YE&quot;</span>
+  <span class="p">],</span>
+  <span class="nt">&quot;contacts&quot;</span><span class="p">:</span><span class="kc">null</span><span class="p">,</span>
+  <span class="nt">&quot;address&quot;</span><span class="p">:{</span>
+    <span class="nt">&quot;street&quot;</span><span class="p">:</span><span class="s2">&quot; 246 C &amp; D,Bangunan, Peguam,Batu 2 Jalan Ipoh51200 Kuala LumpurMalaysia &quot;</span>
+  <span class="p">},</span>
+  <span class="nt">&quot;social_profiles&quot;</span><span class="p">:</span><span class="kc">null</span>
+<span class="p">}</span>
+</pre></div>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            © 2016-2048 OpenFinTech.io. All Rights Reserved.
+          </div>
+        
+        <a href="/LICENSE/" rel="noopener">Privacy & Terms</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    <link rel="stylesheet" href="../../assets/fonts/font-awesome.css">
+    
+      <a href="https://facebook.com/paycore.io/" class="md-footer-social__link fa fa-facebook"></a>
+    
+      <a href="https://twitter.com/paycoreio" class="md-footer-social__link fa fa-twitter"></a>
+    
+      <a href="https://www.linkedin.com/company/paycore/" class="md-footer-social__link fa fa-linkedin"></a>
+    
+      <a href="https://github.com/paycoreio/openfintech" class="md-footer-social__link fa fa-github"></a>
+    
+  </div>
+
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../assets/javascripts/application.245445c6.js"></script>
+      
+      <script>app.initialize({version:"1.0.4",url:{base:"../.."}})</script>
+      
+    
+  </body>
+</html>

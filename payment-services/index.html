@@ -1,0 +1,1986 @@
+
+
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+        <meta name="description" content="OpenFinTech.io public documentation">
+      
+      
+        <link rel="canonical" href="https://paycoreio.github.io/openfintech-docs/payment-services/">
+      
+      
+        <meta name="author" content="OpenFinTech.io (c)">
+      
+      
+        <meta name="lang:clipboard.copy" content="Copy to clipboard">
+      
+        <meta name="lang:clipboard.copied" content="Copied to clipboard">
+      
+        <meta name="lang:search.language" content="en">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="No matching documents">
+      
+        <meta name="lang:search.result.one" content="1 matching document">
+      
+        <meta name="lang:search.result.other" content="# matching documents">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../images/favicon/favicon.ico">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-4.4.0">
+    
+    
+      
+        <title>OpenFinTech.io</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/application.0284f74d.css">
+      
+        <link rel="stylesheet" href="../assets/stylesheets/application-palette.01803549.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#3f51b5">
+      
+    
+    
+      <script src="../assets/javascripts/modernizr.74668098.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../assets/fonts/material-icons.css">
+    
+      <link rel="manifest" href="../images/favicon/manifest.json">
+    
+    
+      <link rel="stylesheet" href="../extra.css">
+    
+    
+      
+        
+<script>
+  window.ga = window.ga || function() {
+    (ga.q = ga.q || []).push(arguments)
+  }
+  ga.l = +new Date
+  /* Setup integration and send page view */
+  ga("create", "UA-72023338-3", "auto")
+  ga("set", "anonymizeIp", true)
+  ga("send", "pageview")
+  /* Register handler to log search on blur */
+  document.addEventListener("DOMContentLoaded", () => {
+    if (document.forms.search) {
+      var query = document.forms.search.query
+      query.addEventListener("blur", function() {
+        if (this.value) {
+          var path = document.location.pathname;
+          ga("send", "pageview", path + "?q=" + this.value)
+        }
+      })
+    }
+  })
+</script>
+<script async src="https://www.google-analytics.com/analytics.js"></script>
+      
+    
+    
+
+  <link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/images/favicon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/images/favicon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="/images/favicon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/images/favicon/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+  <meta property="og:url" content="https://paycoreio.github.io/openfintech-docs/payment-services/">
+  
+    <meta property="og:title" content="OpenFinTech.io">
+  
+  <meta property="og:description" content="OpenFinTech.io public documentation">
+  <meta property="og:image" content="https://og-image.now.sh/Payment%20Services.png?theme=dark&md=1&fontSize=150px&images=https%3A%2F%2Fassets.zeit.co%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fhyper-bw-logo.svg&images=https%3A%2F%2Fopenfintech.io%2Foft-logo.png">
+  <meta property="og:image:alt" content="OpenFinTech.io<sup>®</sup> Documentation">
+  <meta property="og:image:type" content="images/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@paycoreio">
+  <meta name="twitter:creator" content="@paycoreio">
+  
+    <meta property="twitter:title" content="OpenFinTech.io">
+  
+  <meta name="twitter:description" content="OpenFinTech.io public documentation">
+  <meta name="twitter:image" content="https://og-image.now.sh/Payment%20Services.png?theme=dark&md=1&fontSize=150px&images=https%3A%2F%2Fassets.zeit.co%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fhyper-bw-logo.svg&images=https%3A%2F%2Fopenfintech.io%2Foft-logo.png">
+  <meta name="twitter:image:alt" content="OpenFinTech.io<sup>®</sup> Documentation">
+
+
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#payment-services" tabindex="1" class="md-skip">
+        Skip to content
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="https://paycoreio.github.io/openfintech-docs/" title="OpenFinTech.io" class="md-header-nav__button md-logo">
+          
+            <img src="../images/oft-icon.svg" width="24" height="24">
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            <span class="md-header-nav__topic">
+              OpenFinTech.io
+            </span>
+            <span class="md-header-nav__topic">
+              
+                Payment Services
+              
+            </span>
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+          
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Type to start searching
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+<a href="https://openfintech.io/" title="Go to repository" class="md-source" data-md-source="">
+  
+  <div class="md-source__repository">
+    paycoreio/openfintech
+  </div>
+</a>
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href="https://paycoreio.github.io/openfintech-docs/" title="OpenFinTech.io" class="md-nav__button md-logo">
+      
+        <img src="../images/oft-icon.svg" width="48" height="48">
+      
+    </a>
+    OpenFinTech.io
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+<a href="https://openfintech.io/" title="Go to repository" class="md-source" data-md-source="">
+  
+  <div class="md-source__repository">
+    paycoreio/openfintech
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href=".." title="Introduction" class="md-nav__link">
+      Introduction
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../payment-providers/" title="Payment Providers" class="md-nav__link">
+      Payment Providers
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../payment-methods/" title="Payment Methods" class="md-nav__link">
+      Payment Methods
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+    <a href="./" title="Payment Services" class="md-nav__link md-nav__link--active">
+      Payment Services
+    </a>
+    
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../payout-methods/" title="Payout Methods" class="md-nav__link">
+      Payout Methods
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../payout-services/" title="Payout Services" class="md-nav__link">
+      Payout Services
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../vendors/" title="Vendors" class="md-nav__link">
+      Vendors
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../currencies/" title="Currencies" class="md-nav__link">
+      Currencies
+    </a>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="payment-services">Payment Services<a class="headerlink" href="#payment-services" title="Permanent link">&para;</a></h1>
+<table>
+<thead>
+<tr>
+<th align="center">Method</th>
+<th align="center">Code</th>
+<th align="center">Currency</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>A</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="ACB Bank" src="https://static.openfintech.io/payment_methods/acb_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/acb_bank/"><strong>ACB Bank</strong></a></td>
+<td align="center"><a href="acb_bank_vnd_hpp/"><code>acb_bank_vnd_hpp</code></a></td>
+<td align="center"><code>VND</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="AdvCash" src="https://static.openfintech.io/payment_methods/advcash_wallet/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/advcash_wallet/"><strong>AdvCash</strong></a></td>
+<td align="center"><a href="advcash_wallet_brl_hpp/"><code>advcash_wallet_brl_hpp</code></a></td>
+<td align="center"><code>BRL</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="AdvCash" src="https://static.openfintech.io/payment_methods/advcash_wallet/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/advcash_wallet/"><strong>AdvCash</strong></a></td>
+<td align="center"><a href="advcash_wallet_eur_hpp/"><code>advcash_wallet_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="AdvCash" src="https://static.openfintech.io/payment_methods/advcash_wallet/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/advcash_wallet/"><strong>AdvCash</strong></a></td>
+<td align="center"><a href="advcash_wallet_gbp_hpp/"><code>advcash_wallet_gbp_hpp</code></a></td>
+<td align="center"><code>GBP</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="AdvCash" src="https://static.openfintech.io/payment_methods/advcash_wallet/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/advcash_wallet/"><strong>AdvCash</strong></a></td>
+<td align="center"><a href="advcash_wallet_kzt_hpp/"><code>advcash_wallet_kzt_hpp</code></a></td>
+<td align="center"><code>KZT</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="AdvCash" src="https://static.openfintech.io/payment_methods/advcash_wallet/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/advcash_wallet/"><strong>AdvCash</strong></a></td>
+<td align="center"><a href="advcash_wallet_rub_hpp/"><code>advcash_wallet_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="AdvCash" src="https://static.openfintech.io/payment_methods/advcash_wallet/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/advcash_wallet/"><strong>AdvCash</strong></a></td>
+<td align="center"><a href="advcash_wallet_uah_hpp/"><code>advcash_wallet_uah_hpp</code></a></td>
+<td align="center"><code>UAH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="AdvCash" src="https://static.openfintech.io/payment_methods/advcash_wallet/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/advcash_wallet/"><strong>AdvCash</strong></a></td>
+<td align="center"><a href="advcash_wallet_usd_hpp/"><code>advcash_wallet_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Agricultural Bank of China" src="https://static.openfintech.io/payment_methods/agricultural_bank_of_china/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/agricultural_bank_of_china/"><strong>Agricultural Bank of China</strong></a></td>
+<td align="center"><a href="agricultural_bank_of_china_cny_hpp/"><code>agricultural_bank_of_china_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Alfa Click" src="https://static.openfintech.io/payment_methods/alfaclick/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/alfaclick/"><strong>Alfa Click</strong></a></td>
+<td align="center"><a href="alfaclick_rub_hpp/"><code>alfaclick_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Alipay.com" src="https://static.openfintech.io/payment_methods/alipay/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/alipay/"><strong>Alipay.com</strong></a></td>
+<td align="center"><a href="alipay_cny_hpp/"><code>alipay_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Alipay.com" src="https://static.openfintech.io/payment_methods/alipay/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/alipay/"><strong>Alipay.com</strong></a></td>
+<td align="center"><a href="alipay_eur_hpp/"><code>alipay_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="American Express" src="https://static.openfintech.io/payment_methods/americanexpress/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/americanexpress/"><strong>American Express</strong></a></td>
+<td align="center"><a href="americanexpress_eur_hpp/"><code>americanexpress_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Apple Pay" src="https://static.openfintech.io/payment_methods/applepay/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/applepay/"><strong>Apple Pay</strong></a></td>
+<td align="center"><a href="applepay_uah_hpp/"><code>applepay_uah_hpp</code></a></td>
+<td align="center"><code>UAH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Astropay - Cash / Invoice" src="https://static.openfintech.io/payment_methods/astropaycash/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/astropaycash/"><strong>Astropay - Cash / Invoice</strong></a></td>
+<td align="center"><a href="astropaycash_eur_hpp/"><code>astropaycash_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Astropay - Direct Bank Transfer" src="https://static.openfintech.io/payment_methods/astropaydirect/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/astropaydirect/"><strong>Astropay - Direct Bank Transfer</strong></a></td>
+<td align="center"><a href="astropaydirect_eur_hpp/"><code>astropaydirect_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Astropay - Manual Bank Transfer" src="https://static.openfintech.io/payment_methods/astropaymanual/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/astropaymanual/"><strong>Astropay - Manual Bank Transfer</strong></a></td>
+<td align="center"><a href="astropaymanual_eur_hpp/"><code>astropaymanual_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Astropay - Unionpay" src="https://static.openfintech.io/payment_methods/astropayunion/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/astropayunion/"><strong>Astropay - Unionpay</strong></a></td>
+<td align="center"><a href="astropayunion_eur_hpp/"><code>astropayunion_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Australia and New Zealand Banking Group" src="https://static.openfintech.io/payment_methods/australia_and_new_zealand_banking_group/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/australia_and_new_zealand_banking_group/"><strong>Australia and New Zealand Banking Group</strong></a></td>
+<td align="center"><a href="australia_and_new_zealand_banking_group_aud_hpp/"><code>australia_and_new_zealand_banking_group_aud_hpp</code></a></td>
+<td align="center"><code>AUD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Axis Bank" src="https://static.openfintech.io/payment_methods/axis_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/axis_bank/"><strong>Axis Bank</strong></a></td>
+<td align="center"><a href="axis_bank_inr_hpp/"><code>axis_bank_inr_hpp</code></a></td>
+<td align="center"><code>INR</code></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>B</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="Bangkok Bank" src="https://static.openfintech.io/payment_methods/bangko_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bangko_bank/"><strong>Bangkok Bank</strong></a></td>
+<td align="center"><a href="bangko_bank_thb_hpp/"><code>bangko_bank_thb_hpp</code></a></td>
+<td align="center"><code>THB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Card" src="https://static.openfintech.io/payment_methods/bank_card/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bank_card/"><strong>Card</strong></a></td>
+<td align="center"><a href="bank_card_eur_hpp/"><code>bank_card_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Card" src="https://static.openfintech.io/payment_methods/bank_card/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bank_card/"><strong>Card</strong></a></td>
+<td align="center"><a href="bank_card_gbp_hpp/"><code>bank_card_gbp_hpp</code></a></td>
+<td align="center"><code>GBP</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Card" src="https://static.openfintech.io/payment_methods/bank_card/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bank_card/"><strong>Card</strong></a></td>
+<td align="center"><a href="bank_card_gel_hpp/"><code>bank_card_gel_hpp</code></a></td>
+<td align="center"><code>GEL</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Card" src="https://static.openfintech.io/payment_methods/bank_card/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bank_card/"><strong>Card</strong></a></td>
+<td align="center"><a href="bank_card_rub_hpp/"><code>bank_card_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Card" src="https://static.openfintech.io/payment_methods/bank_card/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bank_card/"><strong>Card</strong></a></td>
+<td align="center"><a href="bank_card_try_hpp/"><code>bank_card_try_hpp</code></a></td>
+<td align="center"><code>TRY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Card" src="https://static.openfintech.io/payment_methods/bank_card/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bank_card/"><strong>Card</strong></a></td>
+<td align="center"><a href="bank_card_uah_hpp/"><code>bank_card_uah_hpp</code></a></td>
+<td align="center"><code>UAH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Card" src="https://static.openfintech.io/payment_methods/bank_card/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bank_card/"><strong>Card</strong></a></td>
+<td align="center"><a href="bank_card_usd_hpp/"><code>bank_card_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Bank Central Asia" src="https://static.openfintech.io/payment_methods/bank_central_asia/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bank_central_asia/"><strong>Bank Central Asia</strong></a></td>
+<td align="center"><a href="bank_central_asia_idr_hpp/"><code>bank_central_asia_idr_hpp</code></a></td>
+<td align="center"><code>IDR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Bank Negara Indonesia" src="https://static.openfintech.io/payment_methods/bank_negara_indonesia/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bank_negara_indonesia/"><strong>Bank Negara Indonesia</strong></a></td>
+<td align="center"><a href="bank_negara_indonesia_idr_hpp/"><code>bank_negara_indonesia_idr_hpp</code></a></td>
+<td align="center"><code>IDR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Bank of Baroda" src="https://static.openfintech.io/payment_methods/bank_of_baroda/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bank_of_baroda/"><strong>Bank of Baroda</strong></a></td>
+<td align="center"><a href="bank_of_baroda_inr_hpp/"><code>bank_of_baroda_inr_hpp</code></a></td>
+<td align="center"><code>INR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Bank of China" src="https://static.openfintech.io/payment_methods/bank_of_china/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bank_of_china/"><strong>Bank of China</strong></a></td>
+<td align="center"><a href="bank_of_china_cny_hpp/"><code>bank_of_china_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Bank of Communication" src="https://static.openfintech.io/payment_methods/bank_of_communication/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bank_of_communication/"><strong>Bank of Communication</strong></a></td>
+<td align="center"><a href="bank_of_communication_cny_hpp/"><code>bank_of_communication_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Bank of India" src="https://static.openfintech.io/payment_methods/bank_of_india/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bank_of_india/"><strong>Bank of India</strong></a></td>
+<td align="center"><a href="bank_of_india_inr_hpp/"><code>bank_of_india_inr_hpp</code></a></td>
+<td align="center"><code>INR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Bank Rakyat Indonesia" src="https://static.openfintech.io/payment_methods/bank_rakyat_indonesia/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bank_rakyat_indonesia/"><strong>Bank Rakyat Indonesia</strong></a></td>
+<td align="center"><a href="bank_rakyat_indonesia_idr_hpp/"><code>bank_rakyat_indonesia_idr_hpp</code></a></td>
+<td align="center"><code>IDR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Beeline" src="https://static.openfintech.io/payment_methods/beeline/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/beeline/"><strong>Beeline</strong></a></td>
+<td align="center"><a href="beeline_rub_hpp/"><code>beeline_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="BIDV Bank" src="https://static.openfintech.io/payment_methods/bidv_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bidv_bank/"><strong>BIDV Bank</strong></a></td>
+<td align="center"><a href="bidv_bank_vnd_hpp/"><code>bidv_bank_vnd_hpp</code></a></td>
+<td align="center"><code>VND</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Bitcoin" src="https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bitcoin/"><strong>Bitcoin</strong></a></td>
+<td align="center"><a href="bitcoin_bch_hpp/"><code>bitcoin_bch_hpp</code></a></td>
+<td align="center"><code>BCH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Bitcoin" src="https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bitcoin/"><strong>Bitcoin</strong></a></td>
+<td align="center"><a href="bitcoin_btc_hpp/"><code>bitcoin_btc_hpp</code></a></td>
+<td align="center"><code>BTC</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Bitcoin Cash" src="https://static.openfintech.io/payment_methods/bitcoin_cash/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bitcoin_cash/"><strong>Bitcoin Cash</strong></a></td>
+<td align="center"><a href="bitcoin_cash_bch_hpp/"><code>bitcoin_cash_bch_hpp</code></a></td>
+<td align="center"><code>BCH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Bitcoin Cash" src="https://static.openfintech.io/payment_methods/bitcoin_cash/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bitcoin_cash/"><strong>Bitcoin Cash</strong></a></td>
+<td align="center"><a href="bitcoin_cash_btc_hpp/"><code>bitcoin_cash_btc_hpp</code></a></td>
+<td align="center"><code>BTC</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Bitcoin Cash" src="https://static.openfintech.io/payment_methods/bitcoin_cash/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bitcoin_cash/"><strong>Bitcoin Cash</strong></a></td>
+<td align="center"><a href="bitcoin_cash_eth_hpp/"><code>bitcoin_cash_eth_hpp</code></a></td>
+<td align="center"><code>ETH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Bitcoin Cash" src="https://static.openfintech.io/payment_methods/bitcoin_cash/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bitcoin_cash/"><strong>Bitcoin Cash</strong></a></td>
+<td align="center"><a href="bitcoin_cash_eur_hpp/"><code>bitcoin_cash_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Bitcoin Cash" src="https://static.openfintech.io/payment_methods/bitcoin_cash/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bitcoin_cash/"><strong>Bitcoin Cash</strong></a></td>
+<td align="center"><a href="bitcoin_cash_ltc_hpp/"><code>bitcoin_cash_ltc_hpp</code></a></td>
+<td align="center"><code>LTC</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Bitcoin Cash" src="https://static.openfintech.io/payment_methods/bitcoin_cash/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bitcoin_cash/"><strong>Bitcoin Cash</strong></a></td>
+<td align="center"><a href="bitcoin_cash_usd_hpp/"><code>bitcoin_cash_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Bitcoin" src="https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bitcoin/"><strong>Bitcoin</strong></a></td>
+<td align="center"><a href="bitcoin_eth_hpp/"><code>bitcoin_eth_hpp</code></a></td>
+<td align="center"><code>ETH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Bitcoin" src="https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bitcoin/"><strong>Bitcoin</strong></a></td>
+<td align="center"><a href="bitcoin_eur_hpp/"><code>bitcoin_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Bitcoin" src="https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bitcoin/"><strong>Bitcoin</strong></a></td>
+<td align="center"><a href="bitcoin_ltc_hpp/"><code>bitcoin_ltc_hpp</code></a></td>
+<td align="center"><code>LTC</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Bitcoin" src="https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bitcoin/"><strong>Bitcoin</strong></a></td>
+<td align="center"><a href="bitcoin_rub_hpp/"><code>bitcoin_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Bitcoin" src="https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bitcoin/"><strong>Bitcoin</strong></a></td>
+<td align="center"><a href="bitcoin_usd_hpp/"><code>bitcoin_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="BRI Bank" src="https://static.openfintech.io/payment_methods/bri_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/bri_bank/"><strong>BRI Bank</strong></a></td>
+<td align="center"><a href="bri_bank_cny_hpp/"><code>bri_bank_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="BTN Bank" src="https://static.openfintech.io/payment_methods/btn_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/btn_bank/"><strong>BTN Bank</strong></a></td>
+<td align="center"><a href="btn_bank_idr_hpp/"><code>btn_bank_idr_hpp</code></a></td>
+<td align="center"><code>IDR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Busan Bank" src="https://static.openfintech.io/payment_methods/busan_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/busan_bank/"><strong>Busan Bank</strong></a></td>
+<td align="center"><a href="busan_bank_krw_hpp/"><code>busan_bank_krw_hpp</code></a></td>
+<td align="center"><code>KRW</code></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>C</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="Canara Bank" src="https://static.openfintech.io/payment_methods/canara_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/canara_bank/"><strong>Canara Bank</strong></a></td>
+<td align="center"><a href="canara_bank_inr_hpp/"><code>canara_bank_inr_hpp</code></a></td>
+<td align="center"><code>INR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="CartaSi" src="https://static.openfintech.io/payment_methods/cartasi/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/cartasi/"><strong>CartaSi</strong></a></td>
+<td align="center"><a href="cartasi_eur_hpp/"><code>cartasi_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Carte Bleue" src="https://static.openfintech.io/payment_methods/cartebleue/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/cartebleue/"><strong>Carte Bleue</strong></a></td>
+<td align="center"><a href="cartebleue_eur_hpp/"><code>cartebleue_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Cash" src="https://static.openfintech.io/payment_methods/cash/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/cash/"><strong>Cash</strong></a></td>
+<td align="center"><a href="cash_eur_hpp/"><code>cash_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Cash" src="https://static.openfintech.io/payment_methods/cash/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/cash/"><strong>Cash</strong></a></td>
+<td align="center"><a href="cash_rub_hpp/"><code>cash_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Cash" src="https://static.openfintech.io/payment_methods/cash/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/cash/"><strong>Cash</strong></a></td>
+<td align="center"><a href="cash_uah_hpp/"><code>cash_uah_hpp</code></a></td>
+<td align="center"><code>UAH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Cash" src="https://static.openfintech.io/payment_methods/cash/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/cash/"><strong>Cash</strong></a></td>
+<td align="center"><a href="cash_usd_hpp/"><code>cash_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Central Bank of India" src="https://static.openfintech.io/payment_methods/central_bank_of_india/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/central_bank_of_india/"><strong>Central Bank of India</strong></a></td>
+<td align="center"><a href="central_bank_of_india_inr_hpp/"><code>central_bank_of_india_inr_hpp</code></a></td>
+<td align="center"><code>INR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="China Citic Bank" src="https://static.openfintech.io/payment_methods/china_citic_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/china_citic_bank/"><strong>China Citic Bank</strong></a></td>
+<td align="center"><a href="china_citic_bank_cny_hpp/"><code>china_citic_bank_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="China Construction Bank" src="https://static.openfintech.io/payment_methods/china_construction_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/china_construction_bank/"><strong>China Construction Bank</strong></a></td>
+<td align="center"><a href="china_construction_bank_cny_hpp/"><code>china_construction_bank_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="China Everbright Bank" src="https://static.openfintech.io/payment_methods/china_everbright_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/china_everbright_bank/"><strong>China Everbright Bank</strong></a></td>
+<td align="center"><a href="china_everbright_bank_cny_hpp/"><code>china_everbright_bank_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="China Guangfa Bank" src="https://static.openfintech.io/payment_methods/china_guangfa_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/china_guangfa_bank/"><strong>China Guangfa Bank</strong></a></td>
+<td align="center"><a href="china_guangfa_bank_cny_hpp/"><code>china_guangfa_bank_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="China Merchants Bank" src="https://static.openfintech.io/payment_methods/china_merchants_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/china_merchants_bank/"><strong>China Merchants Bank</strong></a></td>
+<td align="center"><a href="china_merchants_bank_cny_hpp/"><code>china_merchants_bank_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="China Minsheng Bank" src="https://static.openfintech.io/payment_methods/china_minsheng_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/china_minsheng_bank/"><strong>China Minsheng Bank</strong></a></td>
+<td align="center"><a href="china_minsheng_bank_cny_hpp/"><code>china_minsheng_bank_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="China Postal Savings Bank" src="https://static.openfintech.io/payment_methods/china_postal_savings_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/china_postal_savings_bank/"><strong>China Postal Savings Bank</strong></a></td>
+<td align="center"><a href="china_postal_savings_bank_cny_hpp/"><code>china_postal_savings_bank_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="China Union Pay" src="https://static.openfintech.io/payment_methods/china_union_pay/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/china_union_pay/"><strong>China Union Pay</strong></a></td>
+<td align="center"><a href="china_union_pay_cny_hpp/"><code>china_union_pay_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="CIMB Clicks Bank" src="https://static.openfintech.io/payment_methods/cimb_clicks_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/cimb_clicks_bank/"><strong>CIMB Clicks Bank</strong></a></td>
+<td align="center"><a href="cimb_clicks_bank_myr_hpp/"><code>cimb_clicks_bank_myr_hpp</code></a></td>
+<td align="center"><code>MYR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="CIMB Clicks Indonesia" src="https://static.openfintech.io/payment_methods/cimb_clicks_indonesia/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/cimb_clicks_indonesia/"><strong>CIMB Clicks Indonesia</strong></a></td>
+<td align="center"><a href="cimb_clicks_indonesia_idr_hpp/"><code>cimb_clicks_indonesia_idr_hpp</code></a></td>
+<td align="center"><code>IDR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Citibank Korea" src="https://static.openfintech.io/payment_methods/citibank_korea/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/citibank_korea/"><strong>Citibank Korea</strong></a></td>
+<td align="center"><a href="citibank_korea_krw_hpp/"><code>citibank_korea_krw_hpp</code></a></td>
+<td align="center"><code>KRW</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="CoinGate" src="https://static.openfintech.io/payment_methods/coingate/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/coingate/"><strong>CoinGate</strong></a></td>
+<td align="center"><a href="coingate_eur_hpp/"><code>coingate_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="CoinGate" src="https://static.openfintech.io/payment_methods/coingate/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/coingate/"><strong>CoinGate</strong></a></td>
+<td align="center"><a href="coingate_usd_hpp/"><code>coingate_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Commonwealth Bank" src="https://static.openfintech.io/payment_methods/commonwealth_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/commonwealth_bank/"><strong>Commonwealth Bank</strong></a></td>
+<td align="center"><a href="commonwealth_bank_aud_hpp/"><code>commonwealth_bank_aud_hpp</code></a></td>
+<td align="center"><code>AUD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="CRYPTO" src="https://static.openfintech.io/payment_methods/crypto/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/crypto/"><strong>CRYPTO</strong></a></td>
+<td align="center"><a href="crypto_btc_hpp/"><code>crypto_btc_hpp</code></a></td>
+<td align="center"><code>BTC</code></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>D</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="Daegu Bank" src="https://static.openfintech.io/payment_methods/daegu_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/daegu_bank/"><strong>Daegu Bank</strong></a></td>
+<td align="center"><a href="daegu_bank_krw_hpp/"><code>daegu_bank_krw_hpp</code></a></td>
+<td align="center"><code>KRW</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Danamon Bank" src="https://static.openfintech.io/payment_methods/danamon_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/danamon_bank/"><strong>Danamon Bank</strong></a></td>
+<td align="center"><a href="danamon_bank_idr_hpp/"><code>danamon_bank_idr_hpp</code></a></td>
+<td align="center"><code>IDR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Dankort" src="https://static.openfintech.io/payment_methods/dankort/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/dankort/"><strong>Dankort</strong></a></td>
+<td align="center"><a href="dankort_eur_hpp/"><code>dankort_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Diners Club International" src="https://static.openfintech.io/payment_methods/dinersclub/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/dinersclub/"><strong>Diners Club International</strong></a></td>
+<td align="center"><a href="dinersclub_eur_hpp/"><code>dinersclub_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Direct Debit" src="https://static.openfintech.io/payment_methods/directdebit/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/directdebit/"><strong>Direct Debit</strong></a></td>
+<td align="center"><a href="directdebit_eur_hpp/"><code>directdebit_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Dong A Bank" src="https://static.openfintech.io/payment_methods/dong_a_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/dong_a_bank/"><strong>Dong A Bank</strong></a></td>
+<td align="center"><a href="dong_a_bank_vnd_hpp/"><code>dong_a_bank_vnd_hpp</code></a></td>
+<td align="center"><code>VND</code></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>E</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="EasyPay" src="https://static.openfintech.io/payment_methods/easypay/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/easypay/"><strong>EasyPay</strong></a></td>
+<td align="center"><a href="easypay_uah_hpp/"><code>easypay_uah_hpp</code></a></td>
+<td align="center"><code>UAH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="ePay.bg" src="https://static.openfintech.io/payment_methods/epaybg/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/epaybg/"><strong>ePay.bg</strong></a></td>
+<td align="center"><a href="epaybg_eur_hpp/"><code>epaybg_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="eps e-payment" src="https://static.openfintech.io/payment_methods/eps/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/eps/"><strong>eps e-payment</strong></a></td>
+<td align="center"><a href="eps_eur_hpp/"><code>eps_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Ethereum" src="https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/ethereum/"><strong>Ethereum</strong></a></td>
+<td align="center"><a href="ethereum_bch_hpp/"><code>ethereum_bch_hpp</code></a></td>
+<td align="center"><code>BCH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Ethereum" src="https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/ethereum/"><strong>Ethereum</strong></a></td>
+<td align="center"><a href="ethereum_btc_hpp/"><code>ethereum_btc_hpp</code></a></td>
+<td align="center"><code>BTC</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Ethereum" src="https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/ethereum/"><strong>Ethereum</strong></a></td>
+<td align="center"><a href="ethereum_eth_hpp/"><code>ethereum_eth_hpp</code></a></td>
+<td align="center"><code>ETH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Ethereum" src="https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/ethereum/"><strong>Ethereum</strong></a></td>
+<td align="center"><a href="ethereum_eur_hpp/"><code>ethereum_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Ethereum" src="https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/ethereum/"><strong>Ethereum</strong></a></td>
+<td align="center"><a href="ethereum_ltc_hpp/"><code>ethereum_ltc_hpp</code></a></td>
+<td align="center"><code>LTC</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Ethereum" src="https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/ethereum/"><strong>Ethereum</strong></a></td>
+<td align="center"><a href="ethereum_usd_hpp/"><code>ethereum_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Euroset" src="https://static.openfintech.io/payment_methods/euroset/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/euroset/"><strong>Euroset</strong></a></td>
+<td align="center"><a href="euroset_rub_hpp/"><code>euroset_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="EVERRICH Postal Savings and Insurance Bank" src="https://static.openfintech.io/payment_methods/everrich_postal_savings_and_insurance_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/everrich_postal_savings_and_insurance_bank/"><strong>EVERRICH Postal Savings and Insurance Bank</strong></a></td>
+<td align="center"><a href="everrich_postal_savings_and_insurance_bank_krw_hpp/"><code>everrich_postal_savings_and_insurance_bank_krw_hpp</code></a></td>
+<td align="center"><code>KRW</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Exim Bank" src="https://static.openfintech.io/payment_methods/exim_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/exim_bank/"><strong>Exim Bank</strong></a></td>
+<td align="center"><a href="exim_bank_vnd_hpp/"><code>exim_bank_vnd_hpp</code></a></td>
+<td align="center"><code>VND</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Exmo" src="https://static.openfintech.io/payment_methods/exmo/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/exmo/"><strong>Exmo</strong></a></td>
+<td align="center"><a href="exmo_eur_hpp/"><code>exmo_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Exmo" src="https://static.openfintech.io/payment_methods/exmo/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/exmo/"><strong>Exmo</strong></a></td>
+<td align="center"><a href="exmo_rub_hpp/"><code>exmo_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Exmo" src="https://static.openfintech.io/payment_methods/exmo/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/exmo/"><strong>Exmo</strong></a></td>
+<td align="center"><a href="exmo_uah_hpp/"><code>exmo_uah_hpp</code></a></td>
+<td align="center"><code>UAH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Exmo" src="https://static.openfintech.io/payment_methods/exmo/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/exmo/"><strong>Exmo</strong></a></td>
+<td align="center"><a href="exmo_usd_hpp/"><code>exmo_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>G</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="GE Money" src="https://static.openfintech.io/payment_methods/gemoney/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/gemoney/"><strong>GE Money</strong></a></td>
+<td align="center"><a href="gemoney_gel_hpp/"><code>gemoney_gel_hpp</code></a></td>
+<td align="center"><code>GEL</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="GEO Pay" src="https://static.openfintech.io/payment_methods/geopaynet/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/geopaynet/"><strong>GEO Pay</strong></a></td>
+<td align="center"><a href="geopaynet_grn_hpp/"><code>geopaynet_grn_hpp</code></a></td>
+<td align="center"><code>GRN</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="GEO Pay" src="https://static.openfintech.io/payment_methods/geopaynet/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/geopaynet/"><strong>GEO Pay</strong></a></td>
+<td align="center"><a href="geopaynet_uah_hpp/"><code>geopaynet_uah_hpp</code></a></td>
+<td align="center"><code>UAH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Giropay" src="https://static.openfintech.io/payment_methods/giropay/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/giropay/"><strong>Giropay</strong></a></td>
+<td align="center"><a href="giropay_eur_hpp/"><code>giropay_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>H</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="Hana Bank" src="https://static.openfintech.io/payment_methods/hana_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/hana_bank/"><strong>Hana Bank</strong></a></td>
+<td align="center"><a href="hana_bank_krw_hpp/"><code>hana_bank_krw_hpp</code></a></td>
+<td align="center"><code>KRW</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="HDFC Bank" src="https://static.openfintech.io/payment_methods/hdfc_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/hdfc_bank/"><strong>HDFC Bank</strong></a></td>
+<td align="center"><a href="hdfc_bank_inr_hpp/"><code>hdfc_bank_inr_hpp</code></a></td>
+<td align="center"><code>INR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Hong Leong Bank" src="https://static.openfintech.io/payment_methods/hong_leong_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/hong_leong_bank/"><strong>Hong Leong Bank</strong></a></td>
+<td align="center"><a href="hong_leong_bank_myr_hpp/"><code>hong_leong_bank_myr_hpp</code></a></td>
+<td align="center"><code>MYR</code></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>I</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="ICICI Bank" src="https://static.openfintech.io/payment_methods/icici_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/icici_bank/"><strong>ICICI Bank</strong></a></td>
+<td align="center"><a href="icici_bank_inr_hpp/"><code>icici_bank_inr_hpp</code></a></td>
+<td align="center"><code>INR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="IDBI Bank" src="https://static.openfintech.io/payment_methods/idbi_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/idbi_bank/"><strong>IDBI Bank</strong></a></td>
+<td align="center"><a href="idbi_bank_inr_hpp/"><code>idbi_bank_inr_hpp</code></a></td>
+<td align="center"><code>INR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="iDEAL" src="https://static.openfintech.io/payment_methods/ideal/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/ideal/"><strong>iDEAL</strong></a></td>
+<td align="center"><a href="ideal_eur_hpp/"><code>ideal_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Indian Bank" src="https://static.openfintech.io/payment_methods/indian_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/indian_bank/"><strong>Indian Bank</strong></a></td>
+<td align="center"><a href="indian_bank_inr_hpp/"><code>indian_bank_inr_hpp</code></a></td>
+<td align="center"><code>INR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Industrial and Commercial Bank of China" src="https://static.openfintech.io/payment_methods/industrial_and_commercial_bank_of_china/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/industrial_and_commercial_bank_of_china/"><strong>Industrial and Commercial Bank of China</strong></a></td>
+<td align="center"><a href="industrial_and_commercial_bank_of_china_cny_hpp/"><code>industrial_and_commercial_bank_of_china_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Industrial Bank" src="https://static.openfintech.io/payment_methods/industrial_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/industrial_bank/"><strong>Industrial Bank</strong></a></td>
+<td align="center"><a href="industrial_bank_cny_hpp/"><code>industrial_bank_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Industrial Bank of Korea" src="https://static.openfintech.io/payment_methods/industrial_bank_of_korea/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/industrial_bank_of_korea/"><strong>Industrial Bank of Korea</strong></a></td>
+<td align="center"><a href="industrial_bank_of_korea_krw_hpp/"><code>industrial_bank_of_korea_krw_hpp</code></a></td>
+<td align="center"><code>KRW</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="ING Bank(Poland)" src="https://static.openfintech.io/payment_methods/ingpl/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/ingpl/"><strong>ING Bank(Poland)</strong></a></td>
+<td align="center"><a href="ingbankpl_pln_hpp/"><code>ingbankpl_pln_hpp</code></a></td>
+<td align="center"><code>PLN</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Interkassa" src="https://static.openfintech.io/payment_methods/interkassa/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/interkassa/"><strong>Interkassa</strong></a></td>
+<td align="center"><a href="interkassa_eur_hpp/"><code>interkassa_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Interkassa" src="https://static.openfintech.io/payment_methods/interkassa/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/interkassa/"><strong>Interkassa</strong></a></td>
+<td align="center"><a href="interkassa_rub_hpp/"><code>interkassa_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Interkassa" src="https://static.openfintech.io/payment_methods/interkassa/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/interkassa/"><strong>Interkassa</strong></a></td>
+<td align="center"><a href="interkassa_uah_hpp/"><code>interkassa_uah_hpp</code></a></td>
+<td align="center"><code>UAH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Interkassa" src="https://static.openfintech.io/payment_methods/interkassa/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/interkassa/"><strong>Interkassa</strong></a></td>
+<td align="center"><a href="interkassa_usd_hpp/"><code>interkassa_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Interkassa" src="https://static.openfintech.io/payment_methods/interkassa/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/interkassa/"><strong>Interkassa</strong></a></td>
+<td align="center"><a href="interkassa_wme_hpp/"><code>interkassa_wme_hpp</code></a></td>
+<td align="center"><code>WME</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Interkassa" src="https://static.openfintech.io/payment_methods/interkassa/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/interkassa/"><strong>Interkassa</strong></a></td>
+<td align="center"><a href="interkassa_wmr_hpp/"><code>interkassa_wmr_hpp</code></a></td>
+<td align="center"><code>WMR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Interkassa" src="https://static.openfintech.io/payment_methods/interkassa/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/interkassa/"><strong>Interkassa</strong></a></td>
+<td align="center"><a href="interkassa_wmu_hpp/"><code>interkassa_wmu_hpp</code></a></td>
+<td align="center"><code>WMU</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Interkassa" src="https://static.openfintech.io/payment_methods/interkassa/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/interkassa/"><strong>Interkassa</strong></a></td>
+<td align="center"><a href="interkassa_wmz_hpp/"><code>interkassa_wmz_hpp</code></a></td>
+<td align="center"><code>WMZ</code></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>J</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="JCB" src="https://static.openfintech.io/payment_methods/jcb/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/jcb/"><strong>JCB</strong></a></td>
+<td align="center"><a href="jcb_eur_hpp/"><code>jcb_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>K</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="Karnataka Bank" src="https://static.openfintech.io/payment_methods/karnataka_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/karnataka_bank/"><strong>Karnataka Bank</strong></a></td>
+<td align="center"><a href="karnataka_bank_inr_hpp/"><code>karnataka_bank_inr_hpp</code></a></td>
+<td align="center"><code>INR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Kasikorn Bank" src="https://static.openfintech.io/payment_methods/kasikorn_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/kasikorn_bank/"><strong>Kasikorn Bank</strong></a></td>
+<td align="center"><a href="kasikorn_bank_thb_hpp/"><code>kasikorn_bank_thb_hpp</code></a></td>
+<td align="center"><code>THB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Klarna" src="https://static.openfintech.io/payment_methods/klarna/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/klarna/"><strong>Klarna</strong></a></td>
+<td align="center"><a href="klarna_eur_hpp/"><code>klarna_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Kookmin Bank" src="https://static.openfintech.io/payment_methods/kookmin_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/kookmin_bank/"><strong>Kookmin Bank</strong></a></td>
+<td align="center"><a href="kookmin_bank_krw_hpp/"><code>kookmin_bank_krw_hpp</code></a></td>
+<td align="center"><code>KRW</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Korea Development Bank" src="https://static.openfintech.io/payment_methods/korea_development_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/korea_development_bank/"><strong>Korea Development Bank</strong></a></td>
+<td align="center"><a href="korea_development_bank_krw_hpp/"><code>korea_development_bank_krw_hpp</code></a></td>
+<td align="center"><code>KRW</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Kotak Mahindra Bank" src="https://static.openfintech.io/payment_methods/kotak_mahindra_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/kotak_mahindra_bank/"><strong>Kotak Mahindra Bank</strong></a></td>
+<td align="center"><a href="kotak_mahindra_bank_inr_hpp/"><code>kotak_mahindra_bank_inr_hpp</code></a></td>
+<td align="center"><code>INR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Krung Thai Bank" src="https://static.openfintech.io/payment_methods/krung_thai_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/krung_thai_bank/"><strong>Krung Thai Bank</strong></a></td>
+<td align="center"><a href="krung_thai_bank_thb_hpp/"><code>krung_thai_bank_thb_hpp</code></a></td>
+<td align="center"><code>THB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Krungsri (Bank of Ayudhya Public Company Limited)" src="https://static.openfintech.io/payment_methods/krungsri/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/krungsri/"><strong>Krungsri (Bank of Ayudhya Public Company Limited)</strong></a></td>
+<td align="center"><a href="krungsri_thb_hpp/"><code>krungsri_thb_hpp</code></a></td>
+<td align="center"><code>THB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Kwangju Bank" src="https://static.openfintech.io/payment_methods/kwangju_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/kwangju_bank/"><strong>Kwangju Bank</strong></a></td>
+<td align="center"><a href="kwangju_bank_krw_hpp/"><code>kwangju_bank_krw_hpp</code></a></td>
+<td align="center"><code>KRW</code></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>L</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="LiqPay" src="https://static.openfintech.io/payment_methods/liqpay/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/liqpay/"><strong>LiqPay</strong></a></td>
+<td align="center"><a href="liqpay_eur_hpp/"><code>liqpay_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="LiqPay" src="https://static.openfintech.io/payment_methods/liqpay/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/liqpay/"><strong>LiqPay</strong></a></td>
+<td align="center"><a href="liqpay_rub_hpp/"><code>liqpay_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="LiqPay" src="https://static.openfintech.io/payment_methods/liqpay/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/liqpay/"><strong>LiqPay</strong></a></td>
+<td align="center"><a href="liqpay_uah_hpp/"><code>liqpay_uah_hpp</code></a></td>
+<td align="center"><code>UAH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="LiqPay" src="https://static.openfintech.io/payment_methods/liqpay/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/liqpay/"><strong>LiqPay</strong></a></td>
+<td align="center"><a href="liqpay_usd_hpp/"><code>liqpay_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="LiqPay wallet" src="https://static.openfintech.io/payment_methods/liqpay_wallet/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/liqpay_wallet/"><strong>LiqPay wallet</strong></a></td>
+<td align="center"><a href="liqpay_wallet_eur_hpp/"><code>liqpay_wallet_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="LiqPay wallet" src="https://static.openfintech.io/payment_methods/liqpay_wallet/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/liqpay_wallet/"><strong>LiqPay wallet</strong></a></td>
+<td align="center"><a href="liqpay_wallet_rub_hpp/"><code>liqpay_wallet_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="LiqPay wallet" src="https://static.openfintech.io/payment_methods/liqpay_wallet/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/liqpay_wallet/"><strong>LiqPay wallet</strong></a></td>
+<td align="center"><a href="liqpay_wallet_uah_hpp/"><code>liqpay_wallet_uah_hpp</code></a></td>
+<td align="center"><code>UAH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="LiqPay wallet" src="https://static.openfintech.io/payment_methods/liqpay_wallet/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/liqpay_wallet/"><strong>LiqPay wallet</strong></a></td>
+<td align="center"><a href="liqpay_wallet_usd_hpp/"><code>liqpay_wallet_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Litecoin" src="https://static.openfintech.io/payment_methods/litecoin/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/litecoin/"><strong>Litecoin</strong></a></td>
+<td align="center"><a href="litecoin_bch_hpp/"><code>litecoin_bch_hpp</code></a></td>
+<td align="center"><code>BCH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Litecoin" src="https://static.openfintech.io/payment_methods/litecoin/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/litecoin/"><strong>Litecoin</strong></a></td>
+<td align="center"><a href="litecoin_btc_hpp/"><code>litecoin_btc_hpp</code></a></td>
+<td align="center"><code>BTC</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Litecoin" src="https://static.openfintech.io/payment_methods/litecoin/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/litecoin/"><strong>Litecoin</strong></a></td>
+<td align="center"><a href="litecoin_eth_hpp/"><code>litecoin_eth_hpp</code></a></td>
+<td align="center"><code>ETH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Litecoin" src="https://static.openfintech.io/payment_methods/litecoin/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/litecoin/"><strong>Litecoin</strong></a></td>
+<td align="center"><a href="litecoin_eur_hpp/"><code>litecoin_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Litecoin" src="https://static.openfintech.io/payment_methods/litecoin/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/litecoin/"><strong>Litecoin</strong></a></td>
+<td align="center"><a href="litecoin_ltc_hpp/"><code>litecoin_ltc_hpp</code></a></td>
+<td align="center"><code>LTC</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Litecoin" src="https://static.openfintech.io/payment_methods/litecoin/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/litecoin/"><strong>Litecoin</strong></a></td>
+<td align="center"><a href="litecoin_usd_hpp/"><code>litecoin_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>M</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="Maestro" src="https://static.openfintech.io/payment_methods/maestro/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/maestro/"><strong>Maestro</strong></a></td>
+<td align="center"><a href="maestro_eur_hpp/"><code>maestro_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Maestro" src="https://static.openfintech.io/payment_methods/maestro/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/maestro/"><strong>Maestro</strong></a></td>
+<td align="center"><a href="maestro_rub_hpp/"><code>maestro_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Mandiri Bank" src="https://static.openfintech.io/payment_methods/mandiri_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/mandiri_bank/"><strong>Mandiri Bank</strong></a></td>
+<td align="center"><a href="mandiri_bank_idr_hpp/"><code>mandiri_bank_idr_hpp</code></a></td>
+<td align="center"><code>IDR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="MasterCard" src="https://static.openfintech.io/payment_methods/mastercard/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/mastercard/"><strong>MasterCard</strong></a></td>
+<td align="center"><a href="mastercard_eur_hpp/"><code>mastercard_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="MasterCard" src="https://static.openfintech.io/payment_methods/mastercard/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/mastercard/"><strong>MasterCard</strong></a></td>
+<td align="center"><a href="mastercard_rub_hpp/"><code>mastercard_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Masterpass" src="https://static.openfintech.io/payment_methods/masterpass/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/masterpass/"><strong>Masterpass</strong></a></td>
+<td align="center"><a href="masterpass_eur_hpp/"><code>masterpass_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Masterpass" src="https://static.openfintech.io/payment_methods/masterpass/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/masterpass/"><strong>Masterpass</strong></a></td>
+<td align="center"><a href="masterpass_rub_hpp/"><code>masterpass_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Masterpass" src="https://static.openfintech.io/payment_methods/masterpass/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/masterpass/"><strong>Masterpass</strong></a></td>
+<td align="center"><a href="masterpass_uah_hpp/"><code>masterpass_uah_hpp</code></a></td>
+<td align="center"><code>UAH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Masterpass" src="https://static.openfintech.io/payment_methods/masterpass/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/masterpass/"><strong>Masterpass</strong></a></td>
+<td align="center"><a href="masterpass_usd_hpp/"><code>masterpass_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="May Bank" src="https://static.openfintech.io/payment_methods/may_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/may_bank/"><strong>May Bank</strong></a></td>
+<td align="center"><a href="may_bank_cny_hpp/"><code>may_bank_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="May Bank" src="https://static.openfintech.io/payment_methods/may_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/may_bank/"><strong>May Bank</strong></a></td>
+<td align="center"><a href="may_bank_myr_hpp/"><code>may_bank_myr_hpp</code></a></td>
+<td align="center"><code>MYR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Megafon" src="https://static.openfintech.io/payment_methods/megafon/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/megafon/"><strong>Megafon</strong></a></td>
+<td align="center"><a href="megafon_rub_hpp/"><code>megafon_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="MG Bank (Saemmul)" src="https://static.openfintech.io/payment_methods/mg_bank_saemmul/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/mg_bank_saemmul/"><strong>MG Bank (Saemmul)</strong></a></td>
+<td align="center"><a href="mg_bank_saemmul_krw_hpp/"><code>mg_bank_saemmul_krw_hpp</code></a></td>
+<td align="center"><code>KRW</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="" src="https://static.openfintech.io/payment_methods/mir/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/mir/">****</a></td>
+<td align="center"><a href="mir_rub_hpp/"><code>mir_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="MM Invoicing" src="https://static.openfintech.io/payment_methods/mminvoicing/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/mminvoicing/"><strong>MM Invoicing</strong></a></td>
+<td align="center"><a href="mminvoicing_gel_hpp/"><code>mminvoicing_gel_hpp</code></a></td>
+<td align="center"><code>GEL</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="MTS" src="https://static.openfintech.io/payment_methods/mts/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/mts/"><strong>MTS</strong></a></td>
+<td align="center"><a href="mts_rub_hpp/"><code>mts_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>N</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="National Australia Bank" src="https://static.openfintech.io/payment_methods/national_australia_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/national_australia_bank/"><strong>National Australia Bank</strong></a></td>
+<td align="center"><a href="national_australia_bank_aud_hpp/"><code>national_australia_bank_aud_hpp</code></a></td>
+<td align="center"><code>AUD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="NETELLER" src="https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/neteller/"><strong>NETELLER</strong></a></td>
+<td align="center"><a href="neteller_eur_hpp/"><code>neteller_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Nonghyup Bank" src="https://static.openfintech.io/payment_methods/nonghyup_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/nonghyup_bank/"><strong>Nonghyup Bank</strong></a></td>
+<td align="center"><a href="nonghyup_bank_krw_hpp/"><code>nonghyup_bank_krw_hpp</code></a></td>
+<td align="center"><code>KRW</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Nordea Solo" src="https://static.openfintech.io/payment_methods/nordeasolo/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/nordeasolo/"><strong>Nordea Solo</strong></a></td>
+<td align="center"><a href="nordeasolo_eur_hpp/"><code>nordeasolo_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>P</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="Payeer" src="https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/payeer/"><strong>Payeer</strong></a></td>
+<td align="center"><a href="payeer_eur_hpp/"><code>payeer_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Payeer" src="https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/payeer/"><strong>Payeer</strong></a></td>
+<td align="center"><a href="payeer_rub_hpp/"><code>payeer_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Payeer" src="https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/payeer/"><strong>Payeer</strong></a></td>
+<td align="center"><a href="payeer_usd_hpp/"><code>payeer_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Payment card email" src="https://static.openfintech.io/payment_methods/payment_card_email/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/payment_card_email/"><strong>Payment card email</strong></a></td>
+<td align="center"><a href="payment_card_email_eur_hpp/"><code>payment_card_email_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Payment card" src="https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/payment_card/"><strong>Payment card</strong></a></td>
+<td align="center"><a href="payment_card_eur_hpp/"><code>payment_card_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Payment card" src="https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/payment_card/"><strong>Payment card</strong></a></td>
+<td align="center"><a href="payment_card_gbp_hpp/"><code>payment_card_gbp_hpp</code></a></td>
+<td align="center"><code>GBP</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Payment card" src="https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/payment_card/"><strong>Payment card</strong></a></td>
+<td align="center"><a href="payment_card_gel_hpp/"><code>payment_card_gel_hpp</code></a></td>
+<td align="center"><code>GEL</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Payment card" src="https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/payment_card/"><strong>Payment card</strong></a></td>
+<td align="center"><a href="payment_card_rub_hpp/"><code>payment_card_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Payment card by token" src="https://static.openfintech.io/payment_methods/payment_card_token/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/payment_card_token/"><strong>Payment card by token</strong></a></td>
+<td align="center"><a href="payment_card_token_eur_hpp/"><code>payment_card_token_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Payment card by token" src="https://static.openfintech.io/payment_methods/payment_card_token/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/payment_card_token/"><strong>Payment card by token</strong></a></td>
+<td align="center"><a href="payment_card_token_rub_hpp/"><code>payment_card_token_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Payment card by token" src="https://static.openfintech.io/payment_methods/payment_card_token/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/payment_card_token/"><strong>Payment card by token</strong></a></td>
+<td align="center"><a href="payment_card_token_uah_hpp/"><code>payment_card_token_uah_hpp</code></a></td>
+<td align="center"><code>UAH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Payment card by token" src="https://static.openfintech.io/payment_methods/payment_card_token/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/payment_card_token/"><strong>Payment card by token</strong></a></td>
+<td align="center"><a href="payment_card_token_usd_hpp/"><code>payment_card_token_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Payment card" src="https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/payment_card/"><strong>Payment card</strong></a></td>
+<td align="center"><a href="payment_card_try_hpp/"><code>payment_card_try_hpp</code></a></td>
+<td align="center"><code>TRY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Payment card" src="https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/payment_card/"><strong>Payment card</strong></a></td>
+<td align="center"><a href="payment_card_uah_hpp/"><code>payment_card_uah_hpp</code></a></td>
+<td align="center"><code>UAH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Payment card" src="https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/payment_card/"><strong>Payment card</strong></a></td>
+<td align="center"><a href="payment_card_usd_hpp/"><code>payment_card_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="PayPal" src="https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/paypal/"><strong>PayPal</strong></a></td>
+<td align="center"><a href="paypal_aud_hpp/"><code>paypal_aud_hpp</code></a></td>
+<td align="center"><code>AUD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="PayPal" src="https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/paypal/"><strong>PayPal</strong></a></td>
+<td align="center"><a href="paypal_cad_hpp/"><code>paypal_cad_hpp</code></a></td>
+<td align="center"><code>CAD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="PayPal" src="https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/paypal/"><strong>PayPal</strong></a></td>
+<td align="center"><a href="paypal_eur_hpp/"><code>paypal_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="PayPal" src="https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/paypal/"><strong>PayPal</strong></a></td>
+<td align="center"><a href="paypal_gbp_hpp/"><code>paypal_gbp_hpp</code></a></td>
+<td align="center"><code>GBP</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="PayPal" src="https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/paypal/"><strong>PayPal</strong></a></td>
+<td align="center"><a href="paypal_huf_hpp/"><code>paypal_huf_hpp</code></a></td>
+<td align="center"><code>HUF</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="PayPal" src="https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/paypal/"><strong>PayPal</strong></a></td>
+<td align="center"><a href="paypal_usd_hpp/"><code>paypal_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Paysafecard" src="https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/paysafecard/"><strong>Paysafecard</strong></a></td>
+<td align="center"><a href="paysafecard_bgn_hpp/"><code>paysafecard_bgn_hpp</code></a></td>
+<td align="center"><code>BGN</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Paysafecard" src="https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/paysafecard/"><strong>Paysafecard</strong></a></td>
+<td align="center"><a href="paysafecard_chf_hpp/"><code>paysafecard_chf_hpp</code></a></td>
+<td align="center"><code>CHF</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Paysafecard" src="https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/paysafecard/"><strong>Paysafecard</strong></a></td>
+<td align="center"><a href="paysafecard_czk_hpp/"><code>paysafecard_czk_hpp</code></a></td>
+<td align="center"><code>CZK</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Paysafecard" src="https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/paysafecard/"><strong>Paysafecard</strong></a></td>
+<td align="center"><a href="paysafecard_dkk_hpp/"><code>paysafecard_dkk_hpp</code></a></td>
+<td align="center"><code>DKK</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Paysafecard" src="https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/paysafecard/"><strong>Paysafecard</strong></a></td>
+<td align="center"><a href="paysafecard_eur_hpp/"><code>paysafecard_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Paysafecard" src="https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/paysafecard/"><strong>Paysafecard</strong></a></td>
+<td align="center"><a href="paysafecard_gbp_hpp/"><code>paysafecard_gbp_hpp</code></a></td>
+<td align="center"><code>GBP</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Paysafecard" src="https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/paysafecard/"><strong>Paysafecard</strong></a></td>
+<td align="center"><a href="paysafecard_hrk_hpp/"><code>paysafecard_hrk_hpp</code></a></td>
+<td align="center"><code>HRK</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Paysafecard" src="https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/paysafecard/"><strong>Paysafecard</strong></a></td>
+<td align="center"><a href="paysafecard_huf_hpp/"><code>paysafecard_huf_hpp</code></a></td>
+<td align="center"><code>HUF</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Paysafecard" src="https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/paysafecard/"><strong>Paysafecard</strong></a></td>
+<td align="center"><a href="paysafecard_nok_hpp/"><code>paysafecard_nok_hpp</code></a></td>
+<td align="center"><code>NOK</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Paysafecard" src="https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/paysafecard/"><strong>Paysafecard</strong></a></td>
+<td align="center"><a href="paysafecard_pln_hpp/"><code>paysafecard_pln_hpp</code></a></td>
+<td align="center"><code>PLN</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Paysafecard" src="https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/paysafecard/"><strong>Paysafecard</strong></a></td>
+<td align="center"><a href="paysafecard_ron_hpp/"><code>paysafecard_ron_hpp</code></a></td>
+<td align="center"><code>RON</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Paysafecard" src="https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/paysafecard/"><strong>Paysafecard</strong></a></td>
+<td align="center"><a href="paysafecard_sek_hpp/"><code>paysafecard_sek_hpp</code></a></td>
+<td align="center"><code>SEK</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Paysafecash" src="https://static.openfintech.io/payment_methods/paysafecash/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/paysafecash/"><strong>Paysafecash</strong></a></td>
+<td align="center"><a href="paysafecash_eur_hpp/"><code>paysafecash_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Perfect Money Account" src="https://static.openfintech.io/payment_methods/perfectmoney_account/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/perfectmoney_account/"><strong>Perfect Money Account</strong></a></td>
+<td align="center"><a href="perfectmoney_account_btc_hpp/"><code>perfectmoney_account_btc_hpp</code></a></td>
+<td align="center"><code>BTC</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Perfect Money Account" src="https://static.openfintech.io/payment_methods/perfectmoney_account/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/perfectmoney_account/"><strong>Perfect Money Account</strong></a></td>
+<td align="center"><a href="perfectmoney_account_eur_hpp/"><code>perfectmoney_account_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Perfect Money Account" src="https://static.openfintech.io/payment_methods/perfectmoney_account/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/perfectmoney_account/"><strong>Perfect Money Account</strong></a></td>
+<td align="center"><a href="perfectmoney_account_usd_hpp/"><code>perfectmoney_account_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Perfect Money" src="https://static.openfintech.io/payment_methods/perfectmoney/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/perfectmoney/"><strong>Perfect Money</strong></a></td>
+<td align="center"><a href="perfectmoney_eur_hpp/"><code>perfectmoney_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Perfect Money" src="https://static.openfintech.io/payment_methods/perfectmoney/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/perfectmoney/"><strong>Perfect Money</strong></a></td>
+<td align="center"><a href="perfectmoney_usd_hpp/"><code>perfectmoney_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Perfect Money Voucher" src="https://static.openfintech.io/payment_methods/perfectmoney_voucher/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/perfectmoney_voucher/"><strong>Perfect Money Voucher</strong></a></td>
+<td align="center"><a href="perfectmoney_voucher_btc_hpp/"><code>perfectmoney_voucher_btc_hpp</code></a></td>
+<td align="center"><code>BTC</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Perfect Money Voucher" src="https://static.openfintech.io/payment_methods/perfectmoney_voucher/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/perfectmoney_voucher/"><strong>Perfect Money Voucher</strong></a></td>
+<td align="center"><a href="perfectmoney_voucher_eur_hpp/"><code>perfectmoney_voucher_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Perfect Money Voucher" src="https://static.openfintech.io/payment_methods/perfectmoney_voucher/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/perfectmoney_voucher/"><strong>Perfect Money Voucher</strong></a></td>
+<td align="center"><a href="perfectmoney_voucher_usd_hpp/"><code>perfectmoney_voucher_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Permata Bank" src="https://static.openfintech.io/payment_methods/permata_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/permata_bank/"><strong>Permata Bank</strong></a></td>
+<td align="center"><a href="permata_bank_cny_hpp/"><code>permata_bank_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Permata Bank" src="https://static.openfintech.io/payment_methods/permata_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/permata_bank/"><strong>Permata Bank</strong></a></td>
+<td align="center"><a href="permata_bank_idr_hpp/"><code>permata_bank_idr_hpp</code></a></td>
+<td align="center"><code>IDR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Ping An Bank" src="https://static.openfintech.io/payment_methods/ping_an_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/ping_an_bank/"><strong>Ping An Bank</strong></a></td>
+<td align="center"><a href="ping_an_bank_cny_hpp/"><code>ping_an_bank_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="POLi Payments" src="https://static.openfintech.io/payment_methods/polipayonline/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/polipayonline/"><strong>POLi Payments</strong></a></td>
+<td align="center"><a href="polipayonline_aud_hpp/"><code>polipayonline_aud_hpp</code></a></td>
+<td align="center"><code>AUD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Postepay" src="https://static.openfintech.io/payment_methods/postepay/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/postepay/"><strong>Postepay</strong></a></td>
+<td align="center"><a href="postepay_eur_hpp/"><code>postepay_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Privat24" src="https://static.openfintech.io/payment_methods/privat24/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/privat24/"><strong>Privat24</strong></a></td>
+<td align="center"><a href="privat24_eur_hpp/"><code>privat24_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Privat24" src="https://static.openfintech.io/payment_methods/privat24/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/privat24/"><strong>Privat24</strong></a></td>
+<td align="center"><a href="privat24_rub_hpp/"><code>privat24_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Privat24" src="https://static.openfintech.io/payment_methods/privat24/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/privat24/"><strong>Privat24</strong></a></td>
+<td align="center"><a href="privat24_uah_hpp/"><code>privat24_uah_hpp</code></a></td>
+<td align="center"><code>UAH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Privat24" src="https://static.openfintech.io/payment_methods/privat24/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/privat24/"><strong>Privat24</strong></a></td>
+<td align="center"><a href="privat24_usd_hpp/"><code>privat24_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Privatbank Terminals" src="https://static.openfintech.io/payment_methods/privatbank_ssk/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/privatbank_ssk/"><strong>Privatbank Terminals</strong></a></td>
+<td align="center"><a href="privatbank_ssk_eur_hpp/"><code>privatbank_ssk_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Privatbank Terminals" src="https://static.openfintech.io/payment_methods/privatbank_ssk/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/privatbank_ssk/"><strong>Privatbank Terminals</strong></a></td>
+<td align="center"><a href="privatbank_ssk_rub_hpp/"><code>privatbank_ssk_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Privatbank Terminals" src="https://static.openfintech.io/payment_methods/privatbank_ssk/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/privatbank_ssk/"><strong>Privatbank Terminals</strong></a></td>
+<td align="center"><a href="privatbank_ssk_uah_hpp/"><code>privatbank_ssk_uah_hpp</code></a></td>
+<td align="center"><code>UAH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Privatbank Terminals" src="https://static.openfintech.io/payment_methods/privatbank_ssk/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/privatbank_ssk/"><strong>Privatbank Terminals</strong></a></td>
+<td align="center"><a href="privatbank_ssk_usd_hpp/"><code>privatbank_ssk_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Przelewy24" src="https://static.openfintech.io/payment_methods/przelewy24/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/przelewy24/"><strong>Przelewy24</strong></a></td>
+<td align="center"><a href="przelewy24_eur_hpp/"><code>przelewy24_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="PSB-Retail" src="https://static.openfintech.io/payment_methods/psbretail/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/psbretail/"><strong>PSB-Retail</strong></a></td>
+<td align="center"><a href="psbretail_rub_hpp/"><code>psbretail_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Public Bank" src="https://static.openfintech.io/payment_methods/public_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/public_bank/"><strong>Public Bank</strong></a></td>
+<td align="center"><a href="public_bank_myr_hpp/"><code>public_bank_myr_hpp</code></a></td>
+<td align="center"><code>MYR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Punjab National Bank" src="https://static.openfintech.io/payment_methods/punjab_national_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/punjab_national_bank/"><strong>Punjab National Bank</strong></a></td>
+<td align="center"><a href="punjab_national_bank_inr_hpp/"><code>punjab_national_bank_inr_hpp</code></a></td>
+<td align="center"><code>INR</code></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>Q</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="VISA QIWI Wallet" src="https://static.openfintech.io/payment_methods/qiwi/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/qiwi/"><strong>VISA QIWI Wallet</strong></a></td>
+<td align="center"><a href="qiwi_eur_hpp/"><code>qiwi_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="VISA QIWI Wallet" src="https://static.openfintech.io/payment_methods/qiwi/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/qiwi/"><strong>VISA QIWI Wallet</strong></a></td>
+<td align="center"><a href="qiwi_rub_hpp/"><code>qiwi_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="VISA QIWI Wallet" src="https://static.openfintech.io/payment_methods/qiwi/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/qiwi/"><strong>VISA QIWI Wallet</strong></a></td>
+<td align="center"><a href="qiwi_usd_hpp/"><code>qiwi_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="QQPay" src="https://static.openfintech.io/payment_methods/qqpay/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/qqpay/"><strong>QQPay</strong></a></td>
+<td align="center"><a href="qqpay_cny_hpp/"><code>qqpay_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>R</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="Rapid Transfer" src="https://static.openfintech.io/payment_methods/rapidtransfer/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/rapidtransfer/"><strong>Rapid Transfer</strong></a></td>
+<td align="center"><a href="rapidtransfer_eur_hpp/"><code>rapidtransfer_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="RBK Money" src="https://static.openfintech.io/payment_methods/rbkmoney/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/rbkmoney/"><strong>RBK Money</strong></a></td>
+<td align="center"><a href="rbkmoney_rub_hpp/"><code>rbkmoney_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Resurs bank" src="https://static.openfintech.io/payment_methods/resursbank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/resursbank/"><strong>Resurs bank</strong></a></td>
+<td align="center"><a href="resursbank_eur_hpp/"><code>resursbank_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="RHB Bank" src="https://static.openfintech.io/payment_methods/rhb_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/rhb_bank/"><strong>RHB Bank</strong></a></td>
+<td align="center"><a href="rhb_bank_myr_hpp/"><code>rhb_bank_myr_hpp</code></a></td>
+<td align="center"><code>MYR</code></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>S</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="SACOM Bank" src="https://static.openfintech.io/payment_methods/sacom_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/sacom_bank/"><strong>SACOM Bank</strong></a></td>
+<td align="center"><a href="sacom_bank_vnd_hpp/"><code>sacom_bank_vnd_hpp</code></a></td>
+<td align="center"><code>VND</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Shanghai Pudong Development Bank" src="https://static.openfintech.io/payment_methods/shanghai_pudong_development_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/shanghai_pudong_development_bank/"><strong>Shanghai Pudong Development Bank</strong></a></td>
+<td align="center"><a href="shanghai_pudong_development_bank_cny_hpp/"><code>shanghai_pudong_development_bank_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Shinhan Bank" src="https://static.openfintech.io/payment_methods/shinhan_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/shinhan_bank/"><strong>Shinhan Bank</strong></a></td>
+<td align="center"><a href="shinhan_bank_krw_hpp/"><code>shinhan_bank_krw_hpp</code></a></td>
+<td align="center"><code>KRW</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Siam Commercial Bank" src="https://static.openfintech.io/payment_methods/siam_commercial_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/siam_commercial_bank/"><strong>Siam Commercial Bank</strong></a></td>
+<td align="center"><a href="siam_commercial_bank_thb_hpp/"><code>siam_commercial_bank_thb_hpp</code></a></td>
+<td align="center"><code>THB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Skrill Wallet" src="https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/skrill/"><strong>Skrill Wallet</strong></a></td>
+<td align="center"><a href="skrill_eur_hpp/"><code>skrill_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Standard Charter Bank" src="https://static.openfintech.io/payment_methods/standard_charter_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/standard_charter_bank/"><strong>Standard Charter Bank</strong></a></td>
+<td align="center"><a href="standard_charter_bank_inr_hpp/"><code>standard_charter_bank_inr_hpp</code></a></td>
+<td align="center"><code>INR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Standard Chartered Bank Korea" src="https://static.openfintech.io/payment_methods/standard_chartered_bank_korea/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/standard_chartered_bank_korea/"><strong>Standard Chartered Bank Korea</strong></a></td>
+<td align="center"><a href="standard_chartered_bank_korea_krw_hpp/"><code>standard_chartered_bank_korea_krw_hpp</code></a></td>
+<td align="center"><code>KRW</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="State Bank of India" src="https://static.openfintech.io/payment_methods/state_bank_of_india/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/state_bank_of_india/"><strong>State Bank of India</strong></a></td>
+<td align="center"><a href="state_bank_of_india_inr_hpp/"><code>state_bank_of_india_inr_hpp</code></a></td>
+<td align="center"><code>INR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Suhyup Bank" src="https://static.openfintech.io/payment_methods/suhyup_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/suhyup_bank/"><strong>Suhyup Bank</strong></a></td>
+<td align="center"><a href="suhyup_bank_krw_hpp/"><code>suhyup_bank_krw_hpp</code></a></td>
+<td align="center"><code>KRW</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Svyaznoy" src="https://static.openfintech.io/payment_methods/svyaznoy/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/svyaznoy/"><strong>Svyaznoy</strong></a></td>
+<td align="center"><a href="svyaznoy_rub_hpp/"><code>svyaznoy_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>T</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="Techom Bank" src="https://static.openfintech.io/payment_methods/techom_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/techom_bank/"><strong>Techom Bank</strong></a></td>
+<td align="center"><a href="techom_bank_vnd_hpp/"><code>techom_bank_vnd_hpp</code></a></td>
+<td align="center"><code>VND</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Tele2" src="https://static.openfintech.io/payment_methods/tele2ru/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/tele2ru/"><strong>Tele2</strong></a></td>
+<td align="center"><a href="tele2ru_rub_hpp/"><code>tele2ru_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Test" src="https://static.openfintech.io/payment_methods/test/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/test/"><strong>Test</strong></a></td>
+<td align="center"><a href="test_eur_test/"><code>test_eur_test</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Test" src="https://static.openfintech.io/payment_methods/test/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/test/"><strong>Test</strong></a></td>
+<td align="center"><a href="test_uah_test/"><code>test_uah_test</code></a></td>
+<td align="center"><code>UAH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Test" src="https://static.openfintech.io/payment_methods/test/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/test/"><strong>Test</strong></a></td>
+<td align="center"><a href="test_usd_test/"><code>test_usd_test</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Test" src="https://static.openfintech.io/payment_methods/test/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/test/"><strong>Test</strong></a></td>
+<td align="center"><a href="test_xts_test/"><code>test_xts_test</code></a></td>
+<td align="center"><code>XTS</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Trustly" src="https://static.openfintech.io/payment_methods/trustly/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/trustly/"><strong>Trustly</strong></a></td>
+<td align="center"><a href="trustly_eur_hpp/"><code>trustly_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>U</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="Union Bank of India" src="https://static.openfintech.io/payment_methods/union_bank_of_india/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/union_bank_of_india/"><strong>Union Bank of India</strong></a></td>
+<td align="center"><a href="union_bank_of_india_inr_hpp/"><code>union_bank_of_india_inr_hpp</code></a></td>
+<td align="center"><code>INR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Unionpay_QR" src="https://static.openfintech.io/payment_methods/unionpay_qr/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/unionpay_qr/"><strong>Unionpay_QR</strong></a></td>
+<td align="center"><a href="unionpay_qr_cny_hpp/"><code>unionpay_qr_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="UOBT" src="https://static.openfintech.io/payment_methods/uobt/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/uobt/"><strong>UOBT</strong></a></td>
+<td align="center"><a href="uobt_thb_hpp/"><code>uobt_thb_hpp</code></a></td>
+<td align="center"><code>THB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Tether" src="https://static.openfintech.io/payment_methods/usdt/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/usdt/"><strong>Tether</strong></a></td>
+<td align="center"><a href="usdt_usd_hpp/"><code>usdt_usd_hpp</code></a></td>
+<td align="center"><code>USD</code></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>V</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="VIETCOM Bank" src="https://static.openfintech.io/payment_methods/vietcom_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/vietcom_bank/"><strong>VIETCOM Bank</strong></a></td>
+<td align="center"><a href="vietcom_bank_vnd_hpp/"><code>vietcom_bank_vnd_hpp</code></a></td>
+<td align="center"><code>VND</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="VIETIN Bank" src="https://static.openfintech.io/payment_methods/vietin_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/vietin_bank/"><strong>VIETIN Bank</strong></a></td>
+<td align="center"><a href="vietin_bank_vnd_hpp/"><code>vietin_bank_vnd_hpp</code></a></td>
+<td align="center"><code>VND</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Visa" src="https://static.openfintech.io/payment_methods/visa/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/visa/"><strong>Visa</strong></a></td>
+<td align="center"><a href="visa_eur_hpp/"><code>visa_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Visa" src="https://static.openfintech.io/payment_methods/visa/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/visa/"><strong>Visa</strong></a></td>
+<td align="center"><a href="visa_rub_hpp/"><code>visa_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Visa Checkout" src="https://static.openfintech.io/payment_methods/visacheckout/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/visacheckout/"><strong>Visa Checkout</strong></a></td>
+<td align="center"><a href="visacheckout_uah_hpp/"><code>visacheckout_uah_hpp</code></a></td>
+<td align="center"><code>UAH</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Visa Electron" src="https://static.openfintech.io/payment_methods/visaelectron/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/visaelectron/"><strong>Visa Electron</strong></a></td>
+<td align="center"><a href="visaelectron_eur_hpp/"><code>visaelectron_eur_hpp</code></a></td>
+<td align="center"><code>EUR</code></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>W</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="WebMoney Transfer" src="https://static.openfintech.io/payment_methods/webmoneytransfer/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/webmoneytransfer/"><strong>WebMoney Transfer</strong></a></td>
+<td align="center"><a href="webmoneytransfer_rub_hpp/"><code>webmoneytransfer_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="WebMoney Transfer" src="https://static.openfintech.io/payment_methods/webmoneytransfer/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/webmoneytransfer/"><strong>WebMoney Transfer</strong></a></td>
+<td align="center"><a href="webmoneytransfer_wmb_hpp/"><code>webmoneytransfer_wmb_hpp</code></a></td>
+<td align="center"><code>WMB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="WebMoney Transfer" src="https://static.openfintech.io/payment_methods/webmoneytransfer/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/webmoneytransfer/"><strong>WebMoney Transfer</strong></a></td>
+<td align="center"><a href="webmoneytransfer_wme_hpp/"><code>webmoneytransfer_wme_hpp</code></a></td>
+<td align="center"><code>WME</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="WebMoney Transfer" src="https://static.openfintech.io/payment_methods/webmoneytransfer/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/webmoneytransfer/"><strong>WebMoney Transfer</strong></a></td>
+<td align="center"><a href="webmoneytransfer_wmk_hpp/"><code>webmoneytransfer_wmk_hpp</code></a></td>
+<td align="center"><code>WMK</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="WebMoney Transfer" src="https://static.openfintech.io/payment_methods/webmoneytransfer/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/webmoneytransfer/"><strong>WebMoney Transfer</strong></a></td>
+<td align="center"><a href="webmoneytransfer_wmr_hpp/"><code>webmoneytransfer_wmr_hpp</code></a></td>
+<td align="center"><code>WMR</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="WebMoney Transfer" src="https://static.openfintech.io/payment_methods/webmoneytransfer/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/webmoneytransfer/"><strong>WebMoney Transfer</strong></a></td>
+<td align="center"><a href="webmoneytransfer_wmu_hpp/"><code>webmoneytransfer_wmu_hpp</code></a></td>
+<td align="center"><code>WMU</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="WebMoney Transfer" src="https://static.openfintech.io/payment_methods/webmoneytransfer/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/webmoneytransfer/"><strong>WebMoney Transfer</strong></a></td>
+<td align="center"><a href="webmoneytransfer_wmx_hpp/"><code>webmoneytransfer_wmx_hpp</code></a></td>
+<td align="center"><code>WMX</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="WebMoney Transfer" src="https://static.openfintech.io/payment_methods/webmoneytransfer/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/webmoneytransfer/"><strong>WebMoney Transfer</strong></a></td>
+<td align="center"><a href="webmoneytransfer_wmz_hpp/"><code>webmoneytransfer_wmz_hpp</code></a></td>
+<td align="center"><code>WMZ</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Wechat" src="https://static.openfintech.io/payment_methods/wechat/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/wechat/"><strong>Wechat</strong></a></td>
+<td align="center"><a href="wechat_cny_hpp/"><code>wechat_cny_hpp</code></a></td>
+<td align="center"><code>CNY</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Westpac" src="https://static.openfintech.io/payment_methods/westpac/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/westpac/"><strong>Westpac</strong></a></td>
+<td align="center"><a href="westpac_aud_hpp/"><code>westpac_aud_hpp</code></a></td>
+<td align="center"><code>AUD</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Woori Bank" src="https://static.openfintech.io/payment_methods/woori_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/woori_bank/"><strong>Woori Bank</strong></a></td>
+<td align="center"><a href="woori_bank_krw_hpp/"><code>woori_bank_krw_hpp</code></a></td>
+<td align="center"><code>KRW</code></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"><strong>Y</strong></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img alt="Yandex.Money" src="https://static.openfintech.io/payment_methods/yandexmoney/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/yandexmoney/"><strong>Yandex.Money</strong></a></td>
+<td align="center"><a href="yandexmoney_rub_hpp/"><code>yandexmoney_rub_hpp</code></a></td>
+<td align="center"><code>RUB</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="Yes Bank" src="https://static.openfintech.io/payment_methods/yes_bank/logo.svg?w=400&amp;c=v0.59.26#w200" />  <a href="/payment-methods/yes_bank/"><strong>Yes Bank</strong></a></td>
+<td align="center"><a href="yes_bank_inr_hpp/"><code>yes_bank_inr_hpp</code></a></td>
+<td align="center"><code>INR</code></td>
+</tr>
+</tbody>
+</table>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href ="../payment-methods/" title="Payment Methods" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Payment Methods
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href ="../payout-methods/" title="Payout Methods" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Payout Methods
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            © 2016-2048 OpenFinTech.io. All Rights Reserved.
+          </div>
+        
+        <a href="/LICENSE/" rel="noopener">Privacy & Terms</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    <link rel="stylesheet" href="../assets/fonts/font-awesome.css">
+    
+      <a href="https://facebook.com/paycore.io/" class="md-footer-social__link fa fa-facebook"></a>
+    
+      <a href="https://twitter.com/paycoreio" class="md-footer-social__link fa fa-twitter"></a>
+    
+      <a href="https://www.linkedin.com/company/paycore/" class="md-footer-social__link fa fa-linkedin"></a>
+    
+      <a href="https://github.com/paycoreio/openfintech" class="md-footer-social__link fa fa-github"></a>
+    
+  </div>
+
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../assets/javascripts/application.245445c6.js"></script>
+      
+      <script>app.initialize({version:"1.0.4",url:{base:".."}})</script>
+      
+    
+  </body>
+</html>
