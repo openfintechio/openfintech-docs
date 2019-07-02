@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://paycoreio.github.io/openfintech-docs/</loc>
+     <loc>https://openfintech.io/</loc>
      <lastmod>2019-07-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://paycoreio.github.io/openfintech-docs/payment-providers/</loc>
+     <loc>https://openfintech.io/payment-providers/</loc>
      <lastmod>2019-07-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://paycoreio.github.io/openfintech-docs/payment-methods/</loc>
+     <loc>https://openfintech.io/payment-methods/</loc>
      <lastmod>2019-07-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://paycoreio.github.io/openfintech-docs/payment-services/</loc>
+     <loc>https://openfintech.io/payment-services/</loc>
      <lastmod>2019-07-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://paycoreio.github.io/openfintech-docs/payout-methods/</loc>
+     <loc>https://openfintech.io/payout-methods/</loc>
      <lastmod>2019-07-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://paycoreio.github.io/openfintech-docs/payout-services/</loc>
+     <loc>https://openfintech.io/payout-services/</loc>
      <lastmod>2019-07-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://paycoreio.github.io/openfintech-docs/vendors/</loc>
+     <loc>https://openfintech.io/vendors/</loc>
      <lastmod>2019-07-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://paycoreio.github.io/openfintech-docs/currencies/</loc>
+     <loc>https://openfintech.io/currencies/</loc>
      <lastmod>2019-07-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
