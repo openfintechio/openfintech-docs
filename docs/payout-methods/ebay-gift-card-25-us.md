@@ -1,0 +1,57 @@
+
+# eBay Gift Card $ 25 (US) 
+![ebay-gift-card-25-us](https://static.openfintech.io/payment_methods/ebay-gift-card-25-us/logo.svg?w=400&c=v0.59.26#w200)  
+
+## General 
+**Code:** `ebay-gift-card-25-us` 
+ 
+**Name:** 
+ 
+:	[EN] eBay Gift Card $ 25 (US) 
+:	[UK] eBay Gift Card 25 $ (US) 
+:	[RU] eBay Gift Card 25 $ (US) 
+ 
+**Category:** `entertainment` 
+ 
+
+## Images 
+
+### Logo 
+![ebay-gift-card-25-us](https://static.openfintech.io/payment_methods/ebay-gift-card-25-us/logo.svg?w=400&c=v0.59.26#w200)  
+
+```
+https://static.openfintech.io/payment_methods/ebay-gift-card-25-us/logo.svg?w=400&c=v0.59.26#w200
+```  
+
+### Icon 
+![ebay-gift-card-25-us](https://static.openfintech.io/payment_methods/ebay-gift-card-25-us/icon.svg?w=278&c=v0.59.26#w100)  
+
+```
+https://static.openfintech.io/payment_methods/ebay-gift-card-25-us/icon.svg?w=278&c=v0.59.26#w100
+```  
+
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _eBay Gift Card $ 25 (US)_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![ebay-gift-card-25-us](https://static.openfintech.io/payout_methods/ebay-gift-card-25-us/icon.svg?w=278&c=v0.59.26#w40) |[ebay-gift-card-25-us_uah](/payout-services/ebay-gift-card-25-us_uah/)|`ebay-gift-card-25-us_uah`| 
+ 
+
+## JSON Object 
+
+```json
+{
+  "code":"ebay-gift-card-25-us",
+  "vendor":null,
+  "name":{
+    "en":"eBay Gift Card $ 25 (US)",
+    "uk":"eBay Gift Card 25 $ (US)",
+    "ru":"eBay Gift Card 25 $ (US)"
+  },
+  "description":null,
+  "countries":null,
+  "category":"entertainment"
+}
+```  

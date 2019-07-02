@@ -1,0 +1,66 @@
+
+# Ethereum 
+![ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200)  
+
+## General 
+**Code:** `ethereum` 
+ 
+**Name:** 
+ 
+:	[EN] Ethereum 
+:	[UK] Ethereum 
+:	[RU] Ethereum 
+ 
+**Category:** `alternative` 
+ 
+
+## Images 
+
+### Logo 
+![ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200)  
+
+```
+https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200
+```  
+
+### Icon 
+![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100)  
+
+```
+https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100
+```  
+
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _Ethereum_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![ethereum](https://static.openfintech.io/payout_methods/ethereum/icon.svg?w=278&c=v0.59.26#w40) |[ethereum_eth](/payout-services/ethereum_eth/)|`ethereum_eth`| 
+ 
+
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Ethereum_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![coingate](https://static.openfintech.io/payment_providers/coingate/icon.svg?w=278&c=v0.59.26#w100) |[CoinGate](/payment-providers/coingate/)|`coingate`| 
+ 
+
+## JSON Object 
+
+```json
+{
+  "code":"ethereum",
+  "vendor":null,
+  "name":{
+    "en":"Ethereum",
+    "uk":"Ethereum",
+    "ru":"Ethereum"
+  },
+  "description":null,
+  "countries":null,
+  "category":"alternative"
+}
+```  

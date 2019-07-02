@@ -6,7 +6,7 @@ site_url: 'https://paycoreio.github.io/openfintech-docs/'
 
 # Repository
 repo_name: 'paycoreio/openfintech'
-repo_url: 'https://github.com/paycoreio/openfintech'
+repo_url: 'https://openfintech.io/'
 
 # Copyright
 copyright: '© 2016-2048 OpenFinTech.io. All Rights Reserved.'
@@ -94,3 +94,5 @@ nav:
   - Payment Services: payment-services/index.md
   - Payout Methods: payout-methods/index.md
   - Payout Services: payout-services/index.md
+  - Vendors: vendors/index.md
+  - Currencies: currencies/index.md

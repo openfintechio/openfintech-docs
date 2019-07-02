@@ -1,0 +1,123 @@
+
+# Skrill 
+![skrill](https://static.openfintech.io/payment_providers/skrill/logo.svg?w=400&c=v0.59.26#w100)  
+
+## General 
+ 
+**Code:** `skrill` 
+ 
+**Vendor:** `skrill` [show -->](/vendors/skrill/) 
+ 
+**Name:** 
+ 
+:	[EN] Skrill 
+ 
+
+## Images 
+
+### Logo 
+ 
+![skrill](https://static.openfintech.io/payment_providers/skrill/logo.svg?w=400&c=v0.59.26#w100)  
+
+```
+https://static.openfintech.io/payment_providers/skrill/logo.svg?w=400&c=v0.59.26#w100
+```  
+
+### Icon 
+ 
+![skrill](https://static.openfintech.io/payment_providers/skrill/icon.svg?w=278&c=v0.59.26#w100)  
+
+```
+https://static.openfintech.io/payment_providers/skrill/icon.svg?w=278&c=v0.59.26#w100
+```  
+
+## Payment Methods 
+ 
+The list of supported [Payment Methods](/payment-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill](/payment-methods/skrill/)|`skrill`| 
+|![neteller](https://static.openfintech.io/payment_methods/neteller/icon.svg?w=278&c=v0.59.26#w100) |[neteller](/payment-methods/neteller/)|`neteller`| 
+|![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
+|![paysafecash](https://static.openfintech.io/payment_methods/paysafecash/icon.svg?w=278&c=v0.59.26#w100) |[paysafecash](/payment-methods/paysafecash/)|`paysafecash`| 
+|![resursbank](https://static.openfintech.io/payment_methods/resursbank/icon.svg?w=278&c=v0.59.26#w100) |[resursbank](/payment-methods/resursbank/)|`resursbank`| 
+|![visa](https://static.openfintech.io/payment_methods/visa/icon.svg?w=278&c=v0.59.26#w100) |[visa](/payment-methods/visa/)|`visa`| 
+|![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
+|![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.svg?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
+|![maestro](https://static.openfintech.io/payment_methods/maestro/icon.svg?w=278&c=v0.59.26#w100) |[maestro](/payment-methods/maestro/)|`maestro`| 
+|![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
+|![dinersclub](https://static.openfintech.io/payment_methods/dinersclub/icon.svg?w=278&c=v0.59.26#w100) |[dinersclub](/payment-methods/dinersclub/)|`dinersclub`| 
+|![jcb](https://static.openfintech.io/payment_methods/jcb/icon.svg?w=278&c=v0.59.26#w100) |[jcb](/payment-methods/jcb/)|`jcb`| 
+|![cartebleue](https://static.openfintech.io/payment_methods/cartebleue/icon.svg?w=278&c=v0.59.26#w100) |[cartebleue](/payment-methods/cartebleue/)|`cartebleue`| 
+|![dankort](https://static.openfintech.io/payment_methods/dankort/icon.svg?w=278&c=v0.59.26#w100) |[dankort](/payment-methods/dankort/)|`dankort`| 
+|![postepay](https://static.openfintech.io/payment_methods/postepay/icon.svg?w=278&c=v0.59.26#w100) |[postepay](/payment-methods/postepay/)|`postepay`| 
+|![cartasi](https://static.openfintech.io/payment_methods/cartasi/icon.svg?w=278&c=v0.59.26#w100) |[cartasi](/payment-methods/cartasi/)|`cartasi`| 
+|![rapidtransfer](https://static.openfintech.io/payment_methods/rapidtransfer/icon.svg?w=278&c=v0.59.26#w100) |[rapidtransfer](/payment-methods/rapidtransfer/)|`rapidtransfer`| 
+|![giropay](https://static.openfintech.io/payment_methods/giropay/icon.svg?w=278&c=v0.59.26#w100) |[giropay](/payment-methods/giropay/)|`giropay`| 
+|![directdebit](https://static.openfintech.io/payment_methods/directdebit/icon.svg?w=278&c=v0.59.26#w100) |[directdebit](/payment-methods/directdebit/)|`directdebit`| 
+|![klarna](https://static.openfintech.io/payment_methods/klarna/icon.svg?w=278&c=v0.59.26#w100) |[klarna](/payment-methods/klarna/)|`klarna`| 
+|![nordeasolo](https://static.openfintech.io/payment_methods/nordeasolo/icon.svg?w=278&c=v0.59.26#w100) |[nordeasolo](/payment-methods/nordeasolo/)|`nordeasolo`| 
+|![ideal](https://static.openfintech.io/payment_methods/ideal/icon.svg?w=278&c=v0.59.26#w100) |[ideal](/payment-methods/ideal/)|`ideal`| 
+|![eps](https://static.openfintech.io/payment_methods/eps/icon.svg?w=278&c=v0.59.26#w100) |[eps](/payment-methods/eps/)|`eps`| 
+|![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/icon.svg?w=278&c=v0.59.26#w100) |[polipayonline](/payment-methods/polipayonline/)|`polipayonline`| 
+|![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.svg?w=278&c=v0.59.26#w100) |[przelewy24](/payment-methods/przelewy24/)|`przelewy24`| 
+|![epaybg](https://static.openfintech.io/payment_methods/epaybg/icon.svg?w=278&c=v0.59.26#w100) |[epaybg](/payment-methods/epaybg/)|`epaybg`| 
+|![trustly](https://static.openfintech.io/payment_methods/trustly/icon.svg?w=278&c=v0.59.26#w100) |[trustly](/payment-methods/trustly/)|`trustly`| 
+|![astropaydirect](https://static.openfintech.io/payment_methods/astropaydirect/icon.svg?w=278&c=v0.59.26#w100) |[astropaydirect](/payment-methods/astropaydirect/)|`astropaydirect`| 
+|![astropaymanual](https://static.openfintech.io/payment_methods/astropaymanual/icon.svg?w=278&c=v0.59.26#w100) |[astropaymanual](/payment-methods/astropaymanual/)|`astropaymanual`| 
+|![astropaycash](https://static.openfintech.io/payment_methods/astropaycash/icon.svg?w=278&c=v0.59.26#w100) |[astropaycash](/payment-methods/astropaycash/)|`astropaycash`| 
+|![astropayunion](https://static.openfintech.io/payment_methods/astropayunion/icon.svg?w=278&c=v0.59.26#w100) |[astropayunion](/payment-methods/astropayunion/)|`astropayunion`| 
+ 
+
+## JSON Object 
+
+```json
+{
+  "code":"skrill",
+  "description":null,
+  "vendor":"skrill",
+  "categories":null,
+  "countries":null,
+  "payment_method":[
+    "skrill",
+    "neteller",
+    "paysafecard",
+    "paysafecash",
+    "resursbank",
+    "visa",
+    "mastercard",
+    "visaelectron",
+    "maestro",
+    "americanexpress",
+    "dinersclub",
+    "jcb",
+    "cartebleue",
+    "dankort",
+    "postepay",
+    "cartasi",
+    "rapidtransfer",
+    "giropay",
+    "directdebit",
+    "klarna",
+    "nordeasolo",
+    "ideal",
+    "eps",
+    "polipayonline",
+    "przelewy24",
+    "epaybg",
+    "trustly",
+    "astropaydirect",
+    "astropaymanual",
+    "astropaycash",
+    "astropayunion"
+  ],
+  "payout_method":null,
+  "metadata":{
+    "about_payments_code":"skrill"
+  },
+  "name":{
+    "en":"Skrill"
+  }
+}
+```  
