@@ -7,6 +7,7 @@ site_url: 'https://openfintech.io/'
 # Repository
 repo_name: 'paycoreio/openfintech'
 repo_url: 'https://github.com/paycoreio/openfintech'
+edit_uri: ""
 
 # Copyright
 copyright: '© 2016-2048 OpenFinTech.io. All Rights Reserved.'
@@ -44,7 +45,7 @@ extra_css:
 # Google Analytics
 google_analytics:
   - 'UA-72023338-3'
-  - 'auto'
+  - 'auto'  
 
 # Extensions
 markdown_extensions:
