@@ -24,12 +24,12 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`card_number`|✔|`string`|`/^41001[0-9]{7,11}$/`| 
+|`wallet_id`|✔|`string`|`/^41001[0-9]{7,11}$/`| 
  
 
 ### Details 
  
-1. **`card_number`** 
+1. **`wallet_id`** 
  
 	Type: `string` 
  
@@ -57,7 +57,7 @@
   "currency":"RUB",
   "fields":[
     {
-      "key":"card_number",
+      "key":"wallet_id",
       "type":"string",
       "label":{
         "en":"Account number",
