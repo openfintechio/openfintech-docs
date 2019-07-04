@@ -1,6 +1,6 @@
 
 # Uniteller 
-![uniteller](https://static.openfintech.io/vendors/uniteller/logo.svg?w=400&c=v0.59.26#w200)  
+![uniteller](https://static.openfintech.io/vendors/uniteller/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  19 Zvyozdniy Blvd., Building 1 MoscowRussian Federation
 
 ### Logo 
  
-![uniteller](https://static.openfintech.io/vendors/uniteller/logo.svg?w=400&c=v0.59.26#w200)  
+![uniteller](https://static.openfintech.io/vendors/uniteller/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/uniteller/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/uniteller/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![uniteller](https://static.openfintech.io/vendors/uniteller/icon.svg?w=278&c=v0.59.26#w100)  
+![uniteller](https://static.openfintech.io/vendors/uniteller/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/uniteller/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/uniteller/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

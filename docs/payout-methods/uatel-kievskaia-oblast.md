@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _UATEL (Kiev regio
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![uatel-kievskaia-oblast](https://static.openfintech.io/payout_methods/uatel-kievskaia-oblast/icon.svg?w=278&c=v0.59.26#w40) |[uatel-kievskaia-oblast_uah](/payout-services/uatel-kievskaia-oblast_uah/)|`uatel-kievskaia-oblast_uah`| 
+|![uatel-kievskaia-oblast](https://static.openfintech.io/payout_methods/uatel-kievskaia-oblast/icon.png?w=278&c=v0.59.26#w40) |[uatel-kievskaia-oblast_uah](/payout-services/uatel-kievskaia-oblast_uah/)|`uatel-kievskaia-oblast_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # net mobile AG 
-![netmobileag](https://static.openfintech.io/vendors/netmobileag/logo.svg?w=400&c=v0.59.26#w200)  
+![netmobileag](https://static.openfintech.io/vendors/netmobileag/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Fritz-Vomfelde-Str. 26-3040547 DüsseldorfGermany
 
 ### Logo 
  
-![netmobileag](https://static.openfintech.io/vendors/netmobileag/logo.svg?w=400&c=v0.59.26#w200)  
+![netmobileag](https://static.openfintech.io/vendors/netmobileag/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/netmobileag/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/netmobileag/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![netmobileag](https://static.openfintech.io/vendors/netmobileag/icon.svg?w=278&c=v0.59.26#w100)  
+![netmobileag](https://static.openfintech.io/vendors/netmobileag/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/netmobileag/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/netmobileag/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

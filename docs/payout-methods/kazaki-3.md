@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Cossacks 3_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kazaki-3](https://static.openfintech.io/payout_methods/kazaki-3/icon.svg?w=278&c=v0.59.26#w40) |[kazaki-3_uah](/payout-services/kazaki-3_uah/)|`kazaki-3_uah`| 
+|![kazaki-3](https://static.openfintech.io/payout_methods/kazaki-3/icon.png?w=278&c=v0.59.26#w40) |[kazaki-3_uah](/payout-services/kazaki-3_uah/)|`kazaki-3_uah`| 
  
 
 ## JSON Object 

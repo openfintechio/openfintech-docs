@@ -1,6 +1,6 @@
 
 # IVR Billing 
-![ivrbilling](https://static.openfintech.io/payment_methods/ivrbilling/logo.svg?w=400&c=v0.59.26#w200)  
+![ivrbilling](https://static.openfintech.io/payment_methods/ivrbilling/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `ivrbilling` 
@@ -21,17 +21,17 @@
 ## Images 
 
 ### Logo 
-![ivrbilling](https://static.openfintech.io/payment_methods/ivrbilling/logo.svg?w=400&c=v0.59.26#w200)  
+![ivrbilling](https://static.openfintech.io/payment_methods/ivrbilling/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/ivrbilling/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/ivrbilling/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![ivrbilling](https://static.openfintech.io/payment_methods/ivrbilling/icon.svg?w=278&c=v0.59.26#w100)  
+![ivrbilling](https://static.openfintech.io/payment_methods/ivrbilling/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/ivrbilling/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/ivrbilling/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -40,11 +40,11 @@ The list of [Payment Providers](/payment-providers/) that support the _IVR Billi
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![hipay](https://static.openfintech.io/payment_providers/hipay/icon.svg?w=278&c=v0.59.26#w100) |[HiPay](/payment-providers/hipay/)|`hipay`| 
-|![paygol](https://static.openfintech.io/payment_providers/paygol/icon.svg?w=278&c=v0.59.26#w100) |[PayGol](/payment-providers/paygol/)|`paygol`| 
-|![acapture](https://static.openfintech.io/payment_providers/acapture/icon.svg?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
-|![hipaymobile](https://static.openfintech.io/payment_providers/hipaymobile/icon.svg?w=278&c=v0.59.26#w100) |[HiPay Mobile](/payment-providers/hipaymobile/)|`hipaymobile`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![hipay](https://static.openfintech.io/payment_providers/hipay/icon.png?w=278&c=v0.59.26#w100) |[HiPay](/payment-providers/hipay/)|`hipay`| 
+|![paygol](https://static.openfintech.io/payment_providers/paygol/icon.png?w=278&c=v0.59.26#w100) |[PayGol](/payment-providers/paygol/)|`paygol`| 
+|![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
+|![hipaymobile](https://static.openfintech.io/payment_providers/hipaymobile/icon.png?w=278&c=v0.59.26#w100) |[HiPay Mobile](/payment-providers/hipaymobile/)|`hipaymobile`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
  
 
 ## JSON Object 

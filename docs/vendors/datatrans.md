@@ -1,6 +1,6 @@
 
 # Datatrans 
-![datatrans](https://static.openfintech.io/vendors/datatrans/logo.svg?w=400&c=v0.59.26#w200)  
+![datatrans](https://static.openfintech.io/vendors/datatrans/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Kreuzbühlstrasse 268001 ZürichSwitzerland
 
 ### Logo 
  
-![datatrans](https://static.openfintech.io/vendors/datatrans/logo.svg?w=400&c=v0.59.26#w200)  
+![datatrans](https://static.openfintech.io/vendors/datatrans/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/datatrans/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/datatrans/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![datatrans](https://static.openfintech.io/vendors/datatrans/icon.svg?w=278&c=v0.59.26#w100)  
+![datatrans](https://static.openfintech.io/vendors/datatrans/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/datatrans/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/datatrans/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

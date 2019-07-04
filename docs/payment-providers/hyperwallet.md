@@ -1,6 +1,6 @@
 
 # hyperWALLET 
-![hyperwallet](https://static.openfintech.io/payment_providers/hyperwallet/logo.svg?w=400&c=v0.59.26#w100)  
+![hyperwallet](https://static.openfintech.io/payment_providers/hyperwallet/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![hyperwallet](https://static.openfintech.io/payment_providers/hyperwallet/logo.svg?w=400&c=v0.59.26#w100)  
+![hyperwallet](https://static.openfintech.io/payment_providers/hyperwallet/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/hyperwallet/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/hyperwallet/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![hyperwallet](https://static.openfintech.io/payment_providers/hyperwallet/icon.svg?w=278&c=v0.59.26#w100)  
+![hyperwallet](https://static.openfintech.io/payment_providers/hyperwallet/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/hyperwallet/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/hyperwallet/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

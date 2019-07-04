@@ -1,6 +1,6 @@
 
 # QuickPay 
-![quickpay](https://static.openfintech.io/vendors/quickpay/logo.svg?w=400&c=v0.59.26#w200)  
+![quickpay](https://static.openfintech.io/vendors/quickpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  Østergade 25, 1. tv8000 Aarhus CDenmark
 
 ### Logo 
  
-![quickpay](https://static.openfintech.io/vendors/quickpay/logo.svg?w=400&c=v0.59.26#w200)  
+![quickpay](https://static.openfintech.io/vendors/quickpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/quickpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/quickpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![quickpay](https://static.openfintech.io/vendors/quickpay/icon.svg?w=278&c=v0.59.26#w100)  
+![quickpay](https://static.openfintech.io/vendors/quickpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/quickpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/quickpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

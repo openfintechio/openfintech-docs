@@ -1,6 +1,6 @@
 
 # Test 
-![test](https://static.openfintech.io/payment_methods/test/logo.svg?w=400&c=v0.59.26#w200)  
+![test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `test` 
@@ -17,10 +17,10 @@
 ## Images 
 
 ### Logo 
-![test](https://static.openfintech.io/payment_methods/test/logo.svg?w=400&c=v0.59.26#w200)  
+![test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/test/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 

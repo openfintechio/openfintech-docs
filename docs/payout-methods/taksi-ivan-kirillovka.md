@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Ivan (Kirill
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-ivan-kirillovka](https://static.openfintech.io/payout_methods/taksi-ivan-kirillovka/icon.svg?w=278&c=v0.59.26#w40) |[taksi-ivan-kirillovka_uah](/payout-services/taksi-ivan-kirillovka_uah/)|`taksi-ivan-kirillovka_uah`| 
+|![taksi-ivan-kirillovka](https://static.openfintech.io/payout_methods/taksi-ivan-kirillovka/icon.png?w=278&c=v0.59.26#w40) |[taksi-ivan-kirillovka_uah](/payout-services/taksi-ivan-kirillovka_uah/)|`taksi-ivan-kirillovka_uah`| 
  
 
 ## JSON Object 

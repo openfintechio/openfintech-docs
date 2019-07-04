@@ -1,6 +1,6 @@
 
 # iyzico 
-![iyzipayments](https://static.openfintech.io/vendors/iyzipayments/logo.svg?w=400&c=v0.59.26#w200)  
+![iyzipayments](https://static.openfintech.io/vendors/iyzipayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Nidakule Göztepe İş Merkezi Merdivenköy M. Bora S. No:1 Kat:19 Kad�
 
 ### Logo 
  
-![iyzipayments](https://static.openfintech.io/vendors/iyzipayments/logo.svg?w=400&c=v0.59.26#w200)  
+![iyzipayments](https://static.openfintech.io/vendors/iyzipayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/iyzipayments/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/iyzipayments/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![iyzipayments](https://static.openfintech.io/vendors/iyzipayments/icon.svg?w=278&c=v0.59.26#w100)  
+![iyzipayments](https://static.openfintech.io/vendors/iyzipayments/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/iyzipayments/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/iyzipayments/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Ivan (Zaporo
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-ivan-zaporozhe](https://static.openfintech.io/payout_methods/taksi-ivan-zaporozhe/icon.svg?w=278&c=v0.59.26#w40) |[taksi-ivan-zaporozhe_uah](/payout-services/taksi-ivan-zaporozhe_uah/)|`taksi-ivan-zaporozhe_uah`| 
+|![taksi-ivan-zaporozhe](https://static.openfintech.io/payout_methods/taksi-ivan-zaporozhe/icon.png?w=278&c=v0.59.26#w40) |[taksi-ivan-zaporozhe_uah](/payout-services/taksi-ivan-zaporozhe_uah/)|`taksi-ivan-zaporozhe_uah`| 
  
 
 ## JSON Object 

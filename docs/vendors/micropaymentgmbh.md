@@ -1,6 +1,6 @@
 
 # micropayment™ GmbH 
-![micropaymentgmbh](https://static.openfintech.io/vendors/micropaymentgmbh/logo.svg?w=400&c=v0.59.26#w200)  
+![micropaymentgmbh](https://static.openfintech.io/vendors/micropaymentgmbh/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Scharnweberstrasse 69D-12587 BerlinGermany
 
 ### Logo 
  
-![micropaymentgmbh](https://static.openfintech.io/vendors/micropaymentgmbh/logo.svg?w=400&c=v0.59.26#w200)  
+![micropaymentgmbh](https://static.openfintech.io/vendors/micropaymentgmbh/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/micropaymentgmbh/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/micropaymentgmbh/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![micropaymentgmbh](https://static.openfintech.io/vendors/micropaymentgmbh/icon.svg?w=278&c=v0.59.26#w100)  
+![micropaymentgmbh](https://static.openfintech.io/vendors/micropaymentgmbh/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/micropaymentgmbh/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/micropaymentgmbh/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

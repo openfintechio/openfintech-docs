@@ -1,6 +1,6 @@
 
 # Paytrail 
-![paytrail](https://static.openfintech.io/payment_providers/paytrail/logo.svg?w=400&c=v0.59.26#w100)  
+![paytrail](https://static.openfintech.io/payment_providers/paytrail/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![paytrail](https://static.openfintech.io/payment_providers/paytrail/logo.svg?w=400&c=v0.59.26#w100)  
+![paytrail](https://static.openfintech.io/payment_providers/paytrail/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paytrail/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paytrail/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![paytrail](https://static.openfintech.io/payment_providers/paytrail/icon.svg?w=278&c=v0.59.26#w100)  
+![paytrail](https://static.openfintech.io/payment_providers/paytrail/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paytrail/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paytrail/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

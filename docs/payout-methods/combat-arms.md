@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Combat Arms_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![combat-arms](https://static.openfintech.io/payout_methods/combat-arms/icon.svg?w=278&c=v0.59.26#w40) |[combat-arms_uah](/payout-services/combat-arms_uah/)|`combat-arms_uah`| 
+|![combat-arms](https://static.openfintech.io/payout_methods/combat-arms/icon.png?w=278&c=v0.59.26#w40) |[combat-arms_uah](/payout-services/combat-arms_uah/)|`combat-arms_uah`| 
  
 
 ## JSON Object 

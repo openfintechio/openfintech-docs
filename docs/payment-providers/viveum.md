@@ -1,6 +1,6 @@
 
 # VIVEUM 
-![viveum](https://static.openfintech.io/payment_providers/viveum/logo.svg?w=400&c=v0.59.26#w100)  
+![viveum](https://static.openfintech.io/payment_providers/viveum/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![viveum](https://static.openfintech.io/payment_providers/viveum/logo.svg?w=400&c=v0.59.26#w100)  
+![viveum](https://static.openfintech.io/payment_providers/viveum/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/viveum/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/viveum/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![viveum](https://static.openfintech.io/payment_providers/viveum/icon.svg?w=278&c=v0.59.26#w100)  
+![viveum](https://static.openfintech.io/payment_providers/viveum/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/viveum/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/viveum/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

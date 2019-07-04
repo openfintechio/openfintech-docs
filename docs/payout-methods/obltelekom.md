@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _OBLTELECOM_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![obltelekom](https://static.openfintech.io/payout_methods/obltelekom/icon.svg?w=278&c=v0.59.26#w40) |[obltelekom_uah](/payout-services/obltelekom_uah/)|`obltelekom_uah`| 
+|![obltelekom](https://static.openfintech.io/payout_methods/obltelekom/icon.png?w=278&c=v0.59.26#w40) |[obltelekom_uah](/payout-services/obltelekom_uah/)|`obltelekom_uah`| 
  
 
 ## JSON Object 

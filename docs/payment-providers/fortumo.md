@@ -1,6 +1,6 @@
 
 # Fortumo 
-![fortumo](https://static.openfintech.io/payment_providers/fortumo/logo.svg?w=400&c=v0.59.26#w100)  
+![fortumo](https://static.openfintech.io/payment_providers/fortumo/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![fortumo](https://static.openfintech.io/payment_providers/fortumo/logo.svg?w=400&c=v0.59.26#w100)  
+![fortumo](https://static.openfintech.io/payment_providers/fortumo/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/fortumo/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/fortumo/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![fortumo](https://static.openfintech.io/payment_providers/fortumo/icon.svg?w=278&c=v0.59.26#w100)  
+![fortumo](https://static.openfintech.io/payment_providers/fortumo/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/fortumo/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/fortumo/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

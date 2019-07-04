@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Sky2Fly_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![sky2fly](https://static.openfintech.io/payout_methods/sky2fly/icon.svg?w=278&c=v0.59.26#w40) |[sky2fly_uah](/payout-services/sky2fly_uah/)|`sky2fly_uah`| 
+|![sky2fly](https://static.openfintech.io/payout_methods/sky2fly/icon.png?w=278&c=v0.59.26#w40) |[sky2fly_uah](/payout-services/sky2fly_uah/)|`sky2fly_uah`| 
  
 
 ## JSON Object 

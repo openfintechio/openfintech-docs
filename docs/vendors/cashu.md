@@ -1,6 +1,6 @@
 
 # CASHU 
-![cashu](https://static.openfintech.io/vendors/cashu/logo.svg?w=400&c=v0.59.26#w200)  
+![cashu](https://static.openfintech.io/vendors/cashu/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@ email: sales@cashu.comphone: (+962) 6 5826097fax: (+962) 6 5826089
 
 ### Logo 
  
-![cashu](https://static.openfintech.io/vendors/cashu/logo.svg?w=400&c=v0.59.26#w200)  
+![cashu](https://static.openfintech.io/vendors/cashu/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/cashu/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/cashu/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![cashu](https://static.openfintech.io/vendors/cashu/icon.svg?w=278&c=v0.59.26#w100)  
+![cashu](https://static.openfintech.io/vendors/cashu/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/cashu/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/cashu/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

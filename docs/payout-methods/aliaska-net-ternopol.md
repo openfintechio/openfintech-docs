@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Alaska.net (Terno
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![aliaska-net-ternopol](https://static.openfintech.io/payout_methods/aliaska-net-ternopol/icon.svg?w=278&c=v0.59.26#w40) |[aliaska-net-ternopol_uah](/payout-services/aliaska-net-ternopol_uah/)|`aliaska-net-ternopol_uah`| 
+|![aliaska-net-ternopol](https://static.openfintech.io/payout_methods/aliaska-net-ternopol/icon.png?w=278&c=v0.59.26#w40) |[aliaska-net-ternopol_uah](/payout-services/aliaska-net-ternopol_uah/)|`aliaska-net-ternopol_uah`| 
  
 
 ## JSON Object 

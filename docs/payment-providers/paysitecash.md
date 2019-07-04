@@ -1,6 +1,6 @@
 
 # Paysite-cash 
-![paysitecash](https://static.openfintech.io/payment_providers/paysitecash/logo.svg?w=400&c=v0.59.26#w100)  
+![paysitecash](https://static.openfintech.io/payment_providers/paysitecash/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![paysitecash](https://static.openfintech.io/payment_providers/paysitecash/logo.svg?w=400&c=v0.59.26#w100)  
+![paysitecash](https://static.openfintech.io/payment_providers/paysitecash/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paysitecash/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paysitecash/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![paysitecash](https://static.openfintech.io/payment_providers/paysitecash/icon.svg?w=278&c=v0.59.26#w100)  
+![paysitecash](https://static.openfintech.io/payment_providers/paysitecash/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paysitecash/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paysitecash/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

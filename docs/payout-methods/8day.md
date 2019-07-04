@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _8day_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![8day](https://static.openfintech.io/payout_methods/8day/icon.svg?w=278&c=v0.59.26#w40) |[8day_uah](/payout-services/8day_uah/)|`8day_uah`| 
+|![8day](https://static.openfintech.io/payout_methods/8day/icon.png?w=278&c=v0.59.26#w40) |[8day_uah](/payout-services/8day_uah/)|`8day_uah`| 
  
 
 ## JSON Object 

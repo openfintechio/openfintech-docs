@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Jazz (Odessa
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-dzhaz-odessa](https://static.openfintech.io/payout_methods/taksi-dzhaz-odessa/icon.svg?w=278&c=v0.59.26#w40) |[taksi-dzhaz-odessa_uah](/payout-services/taksi-dzhaz-odessa_uah/)|`taksi-dzhaz-odessa_uah`| 
+|![taksi-dzhaz-odessa](https://static.openfintech.io/payout_methods/taksi-dzhaz-odessa/icon.png?w=278&c=v0.59.26#w40) |[taksi-dzhaz-odessa_uah](/payout-services/taksi-dzhaz-odessa_uah/)|`taksi-dzhaz-odessa_uah`| 
  
 
 ## JSON Object 

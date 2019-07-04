@@ -1,6 +1,6 @@
 
 # Payobin 
-![payobin](https://static.openfintech.io/vendors/payobin/logo.svg?w=400&c=v0.59.26#w200)  
+![payobin](https://static.openfintech.io/vendors/payobin/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  113B, Paola Road, Tarxien, TXN 1807, MALTATXN 1807 TarxienMalta
 
 ### Logo 
  
-![payobin](https://static.openfintech.io/vendors/payobin/logo.svg?w=400&c=v0.59.26#w200)  
+![payobin](https://static.openfintech.io/vendors/payobin/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payobin/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payobin/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payobin](https://static.openfintech.io/vendors/payobin/icon.svg?w=278&c=v0.59.26#w100)  
+![payobin](https://static.openfintech.io/vendors/payobin/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payobin/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payobin/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

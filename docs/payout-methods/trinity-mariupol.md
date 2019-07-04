@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _TRINITY (Mariupol
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![trinity-mariupol](https://static.openfintech.io/payout_methods/trinity-mariupol/icon.svg?w=278&c=v0.59.26#w40) |[trinity-mariupol_uah](/payout-services/trinity-mariupol_uah/)|`trinity-mariupol_uah`| 
+|![trinity-mariupol](https://static.openfintech.io/payout_methods/trinity-mariupol/icon.png?w=278&c=v0.59.26#w40) |[trinity-mariupol_uah](/payout-services/trinity-mariupol_uah/)|`trinity-mariupol_uah`| 
  
 
 ## JSON Object 

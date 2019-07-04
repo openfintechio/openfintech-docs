@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Class (Kiev)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-klass-kiev](https://static.openfintech.io/payout_methods/taksi-klass-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-klass-kiev_uah](/payout-services/taksi-klass-kiev_uah/)|`taksi-klass-kiev_uah`| 
+|![taksi-klass-kiev](https://static.openfintech.io/payout_methods/taksi-klass-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-klass-kiev_uah](/payout-services/taksi-klass-kiev_uah/)|`taksi-klass-kiev_uah`| 
  
 
 ## JSON Object 

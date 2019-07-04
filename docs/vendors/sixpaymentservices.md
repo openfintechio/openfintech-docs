@@ -1,6 +1,6 @@
 
 # SIX Payment Services 
-![sixpaymentservices](https://static.openfintech.io/vendors/sixpaymentservices/logo.svg?w=400&c=v0.59.26#w200)  
+![sixpaymentservices](https://static.openfintech.io/vendors/sixpaymentservices/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Hardturmstrasse 201CH-8021 ZürichSwitzerland
 
 ### Logo 
  
-![sixpaymentservices](https://static.openfintech.io/vendors/sixpaymentservices/logo.svg?w=400&c=v0.59.26#w200)  
+![sixpaymentservices](https://static.openfintech.io/vendors/sixpaymentservices/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/sixpaymentservices/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/sixpaymentservices/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![sixpaymentservices](https://static.openfintech.io/vendors/sixpaymentservices/icon.svg?w=278&c=v0.59.26#w100)  
+![sixpaymentservices](https://static.openfintech.io/vendors/sixpaymentservices/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/sixpaymentservices/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/sixpaymentservices/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -38,8 +38,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![webmoneytransfer](https://static.openfintech.io/payment_methods/webmoneytransfer/icon.svg?w=278&c=v0.59.26#w100) |[webmoneytransfer](/payment-methods/webmoneytransfer/)|`webmoneytransfer`| 
-|![easypay](https://static.openfintech.io/payment_methods/easypay/icon.svg?w=278&c=v0.59.26#w100) |[easypay](/payment-methods/easypay/)|`easypay`| 
-|![nsmep](https://static.openfintech.io/payment_methods/nsmep/icon.svg?w=278&c=v0.59.26#w100) |[nsmep](/payment-methods/nsmep/)|`nsmep`| 
+|![easypay](https://static.openfintech.io/payment_methods/easypay/icon.png?w=278&c=v0.59.26#w100) |[easypay](/payment-methods/easypay/)|`easypay`| 
+|![nsmep](https://static.openfintech.io/payment_methods/nsmep/icon.png?w=278&c=v0.59.26#w100) |[nsmep](/payment-methods/nsmep/)|`nsmep`| 
 |![privat24](https://static.openfintech.io/payment_methods/privat24/icon.svg?w=278&c=v0.59.26#w100) |[privat24](/payment-methods/privat24/)|`privat24`| 
 |![test](https://static.openfintech.io/payment_methods/test/icon.svg?w=278&c=v0.59.26#w100) |[test](/payment-methods/test/)|`test`| 
 |![bank_card](https://static.openfintech.io/payment_methods/bank_card/icon.svg?w=278&c=v0.59.26#w100) |[bank_card](/payment-methods/bank_card/)|`bank_card`| 

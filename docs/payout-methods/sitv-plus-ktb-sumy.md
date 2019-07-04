@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _SITV PLUS - KTV (
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![sitv-plus-ktb-sumy](https://static.openfintech.io/payout_methods/sitv-plus-ktb-sumy/icon.svg?w=278&c=v0.59.26#w40) |[sitv-plus-ktb-sumy_uah](/payout-services/sitv-plus-ktb-sumy_uah/)|`sitv-plus-ktb-sumy_uah`| 
+|![sitv-plus-ktb-sumy](https://static.openfintech.io/payout_methods/sitv-plus-ktb-sumy/icon.png?w=278&c=v0.59.26#w40) |[sitv-plus-ktb-sumy_uah](/payout-services/sitv-plus-ktb-sumy_uah/)|`sitv-plus-ktb-sumy_uah`| 
  
 
 ## JSON Object 

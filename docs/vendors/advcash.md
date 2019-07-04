@@ -1,6 +1,6 @@
 
 # AdvCash 
-![advcash](https://static.openfintech.io/vendors/advcash/logo.svg?w=400&c=v0.59.26#w200)  
+![advcash](https://static.openfintech.io/vendors/advcash/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -20,18 +20,18 @@
 
 ### Logo 
  
-![advcash](https://static.openfintech.io/vendors/advcash/logo.svg?w=400&c=v0.59.26#w200)  
+![advcash](https://static.openfintech.io/vendors/advcash/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/advcash/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/advcash/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![advcash](https://static.openfintech.io/vendors/advcash/icon.svg?w=278&c=v0.59.26#w100)  
+![advcash](https://static.openfintech.io/vendors/advcash/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/advcash/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/advcash/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Mix Taxi (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![miks-taksi-kiev](https://static.openfintech.io/payout_methods/miks-taksi-kiev/icon.svg?w=278&c=v0.59.26#w40) |[miks-taksi-kiev_uah](/payout-services/miks-taksi-kiev_uah/)|`miks-taksi-kiev_uah`| 
+|![miks-taksi-kiev](https://static.openfintech.io/payout_methods/miks-taksi-kiev/icon.png?w=278&c=v0.59.26#w40) |[miks-taksi-kiev_uah](/payout-services/miks-taksi-kiev_uah/)|`miks-taksi-kiev_uah`| 
  
 
 ## JSON Object 

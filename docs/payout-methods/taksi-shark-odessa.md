@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Shark (Odess
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-shark-odessa](https://static.openfintech.io/payout_methods/taksi-shark-odessa/icon.svg?w=278&c=v0.59.26#w40) |[taksi-shark-odessa_uah](/payout-services/taksi-shark-odessa_uah/)|`taksi-shark-odessa_uah`| 
+|![taksi-shark-odessa](https://static.openfintech.io/payout_methods/taksi-shark-odessa/icon.png?w=278&c=v0.59.26#w40) |[taksi-shark-odessa_uah](/payout-services/taksi-shark-odessa_uah/)|`taksi-shark-odessa_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _UNIT_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![u-n-i-t](https://static.openfintech.io/payout_methods/u-n-i-t/icon.svg?w=278&c=v0.59.26#w40) |[u-n-i-t_uah](/payout-services/u-n-i-t_uah/)|`u-n-i-t_uah`| 
+|![u-n-i-t](https://static.openfintech.io/payout_methods/u-n-i-t/icon.png?w=278&c=v0.59.26#w40) |[u-n-i-t_uah](/payout-services/u-n-i-t_uah/)|`u-n-i-t_uah`| 
  
 
 ## JSON Object 

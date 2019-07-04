@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Telegroup (Intern
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![telegroup-internet](https://static.openfintech.io/payout_methods/telegroup-internet/icon.svg?w=278&c=v0.59.26#w40) |[telegroup-internet_uah](/payout-services/telegroup-internet_uah/)|`telegroup-internet_uah`| 
+|![telegroup-internet](https://static.openfintech.io/payout_methods/telegroup-internet/icon.png?w=278&c=v0.59.26#w40) |[telegroup-internet_uah](/payout-services/telegroup-internet_uah/)|`telegroup-internet_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Privatbank Terminals 
-![privatbank_ssk](https://static.openfintech.io/payment_methods/privatbank_ssk/logo.svg?w=400&c=v0.59.26#w200)  
+![privatbank_ssk](https://static.openfintech.io/payment_methods/privatbank_ssk/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `privatbank_ssk` 
@@ -20,17 +20,17 @@
 ## Images 
 
 ### Logo 
-![privatbank_ssk](https://static.openfintech.io/payment_methods/privatbank_ssk/logo.svg?w=400&c=v0.59.26#w200)  
+![privatbank_ssk](https://static.openfintech.io/payment_methods/privatbank_ssk/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/privatbank_ssk/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/privatbank_ssk/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![privatbank_ssk](https://static.openfintech.io/payment_methods/privatbank_ssk/icon.svg?w=278&c=v0.59.26#w100)  
+![privatbank_ssk](https://static.openfintech.io/payment_methods/privatbank_ssk/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/privatbank_ssk/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/privatbank_ssk/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -39,10 +39,10 @@ The list of [Payment Services](/payment-services/) based on the _Privatbank Term
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![privatbank_ssk](https://static.openfintech.io/payment_methods/privatbank_ssk/icon.svg?w=278&c=v0.59.26#w100) |[privatbank_ssk_uah_hpp](/payment-services/privatbank_ssk_uah_hpp/)|`privatbank_ssk_uah_hpp`| 
-|![privatbank_ssk](https://static.openfintech.io/payment_methods/privatbank_ssk/icon.svg?w=278&c=v0.59.26#w100) |[privatbank_ssk_usd_hpp](/payment-services/privatbank_ssk_usd_hpp/)|`privatbank_ssk_usd_hpp`| 
-|![privatbank_ssk](https://static.openfintech.io/payment_methods/privatbank_ssk/icon.svg?w=278&c=v0.59.26#w100) |[privatbank_ssk_rub_hpp](/payment-services/privatbank_ssk_rub_hpp/)|`privatbank_ssk_rub_hpp`| 
-|![privatbank_ssk](https://static.openfintech.io/payment_methods/privatbank_ssk/icon.svg?w=278&c=v0.59.26#w100) |[privatbank_ssk_eur_hpp](/payment-services/privatbank_ssk_eur_hpp/)|`privatbank_ssk_eur_hpp`| 
+|![privatbank_ssk](https://static.openfintech.io/payment_methods/privatbank_ssk/icon.png?w=278&c=v0.59.26#w100) |[privatbank_ssk_uah_hpp](/payment-services/privatbank_ssk_uah_hpp/)|`privatbank_ssk_uah_hpp`| 
+|![privatbank_ssk](https://static.openfintech.io/payment_methods/privatbank_ssk/icon.png?w=278&c=v0.59.26#w100) |[privatbank_ssk_usd_hpp](/payment-services/privatbank_ssk_usd_hpp/)|`privatbank_ssk_usd_hpp`| 
+|![privatbank_ssk](https://static.openfintech.io/payment_methods/privatbank_ssk/icon.png?w=278&c=v0.59.26#w100) |[privatbank_ssk_rub_hpp](/payment-services/privatbank_ssk_rub_hpp/)|`privatbank_ssk_rub_hpp`| 
+|![privatbank_ssk](https://static.openfintech.io/payment_methods/privatbank_ssk/icon.png?w=278&c=v0.59.26#w100) |[privatbank_ssk_eur_hpp](/payment-services/privatbank_ssk_eur_hpp/)|`privatbank_ssk_eur_hpp`| 
  
 
 ## JSON Object 

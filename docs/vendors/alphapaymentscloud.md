@@ -1,6 +1,6 @@
 
 # Alpha Payments Cloud 
-![alphapaymentscloud](https://static.openfintech.io/vendors/alphapaymentscloud/logo.svg?w=400&c=v0.59.26#w200)  
+![alphapaymentscloud](https://static.openfintech.io/vendors/alphapaymentscloud/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Ireland
 
 ### Logo 
  
-![alphapaymentscloud](https://static.openfintech.io/vendors/alphapaymentscloud/logo.svg?w=400&c=v0.59.26#w200)  
+![alphapaymentscloud](https://static.openfintech.io/vendors/alphapaymentscloud/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/alphapaymentscloud/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/alphapaymentscloud/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![alphapaymentscloud](https://static.openfintech.io/vendors/alphapaymentscloud/icon.svg?w=278&c=v0.59.26#w100)  
+![alphapaymentscloud](https://static.openfintech.io/vendors/alphapaymentscloud/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/alphapaymentscloud/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/alphapaymentscloud/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

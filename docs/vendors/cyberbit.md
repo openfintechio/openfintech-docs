@@ -1,6 +1,6 @@
 
 # Cyberbit 
-![cyberbit](https://static.openfintech.io/vendors/cyberbit/logo.svg?w=400&c=v0.59.26#w200)  
+![cyberbit](https://static.openfintech.io/vendors/cyberbit/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Dannebrogsgade 25000 Odense CDenmark
 
 ### Logo 
  
-![cyberbit](https://static.openfintech.io/vendors/cyberbit/logo.svg?w=400&c=v0.59.26#w200)  
+![cyberbit](https://static.openfintech.io/vendors/cyberbit/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/cyberbit/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/cyberbit/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![cyberbit](https://static.openfintech.io/vendors/cyberbit/icon.svg?w=278&c=v0.59.26#w100)  
+![cyberbit](https://static.openfintech.io/vendors/cyberbit/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/cyberbit/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/cyberbit/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

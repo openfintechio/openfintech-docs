@@ -1,6 +1,6 @@
 
 # PayZang 
-![payzang](https://static.openfintech.io/vendors/payzang/logo.svg?w=400&c=v0.59.26#w200)  
+![payzang](https://static.openfintech.io/vendors/payzang/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Holladay, UT84117 Holladay, UTUnited States of America
 
 ### Logo 
  
-![payzang](https://static.openfintech.io/vendors/payzang/logo.svg?w=400&c=v0.59.26#w200)  
+![payzang](https://static.openfintech.io/vendors/payzang/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payzang/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payzang/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payzang](https://static.openfintech.io/vendors/payzang/icon.svg?w=278&c=v0.59.26#w100)  
+![payzang](https://static.openfintech.io/vendors/payzang/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payzang/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payzang/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

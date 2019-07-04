@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _YourNet / CityNet
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tvoinet-sitinet-zaporozhe](https://static.openfintech.io/payout_methods/tvoinet-sitinet-zaporozhe/icon.svg?w=278&c=v0.59.26#w40) |[tvoinet-sitinet-zaporozhe_uah](/payout-services/tvoinet-sitinet-zaporozhe_uah/)|`tvoinet-sitinet-zaporozhe_uah`| 
+|![tvoinet-sitinet-zaporozhe](https://static.openfintech.io/payout_methods/tvoinet-sitinet-zaporozhe/icon.png?w=278&c=v0.59.26#w40) |[tvoinet-sitinet-zaporozhe_uah](/payout-services/tvoinet-sitinet-zaporozhe_uah/)|`tvoinet-sitinet-zaporozhe_uah`| 
  
 
 ## JSON Object 

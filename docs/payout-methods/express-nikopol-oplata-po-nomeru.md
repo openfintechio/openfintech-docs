@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Express (Nikopol)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![express-nikopol-oplata-po-nomeru](https://static.openfintech.io/payout_methods/express-nikopol-oplata-po-nomeru/icon.svg?w=278&c=v0.59.26#w40) |[express-nikopol-oplata-po-nomeru_uah](/payout-services/express-nikopol-oplata-po-nomeru_uah/)|`express-nikopol-oplata-po-nomeru_uah`| 
+|![express-nikopol-oplata-po-nomeru](https://static.openfintech.io/payout_methods/express-nikopol-oplata-po-nomeru/icon.png?w=278&c=v0.59.26#w40) |[express-nikopol-oplata-po-nomeru_uah](/payout-services/express-nikopol-oplata-po-nomeru_uah/)|`express-nikopol-oplata-po-nomeru_uah`| 
  
 
 ## JSON Object 

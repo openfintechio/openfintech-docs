@@ -1,6 +1,6 @@
 
 # Euroset 
-![euroset](https://static.openfintech.io/payment_methods/euroset/logo.svg?w=400&c=v0.59.26#w200)  
+![euroset](https://static.openfintech.io/payment_methods/euroset/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `euroset` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![euroset](https://static.openfintech.io/payment_methods/euroset/logo.svg?w=400&c=v0.59.26#w200)  
+![euroset](https://static.openfintech.io/payment_methods/euroset/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/euroset/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/euroset/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![euroset](https://static.openfintech.io/payment_methods/euroset/icon.svg?w=278&c=v0.59.26#w100)  
+![euroset](https://static.openfintech.io/payment_methods/euroset/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/euroset/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/euroset/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -36,7 +36,7 @@ The list of [Payment Services](/payment-services/) based on the _Euroset_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![euroset](https://static.openfintech.io/payment_methods/euroset/icon.svg?w=278&c=v0.59.26#w100) |[euroset_rub_hpp](/payment-services/euroset_rub_hpp/)|`euroset_rub_hpp`| 
+|![euroset](https://static.openfintech.io/payment_methods/euroset/icon.png?w=278&c=v0.59.26#w100) |[euroset_rub_hpp](/payment-services/euroset_rub_hpp/)|`euroset_rub_hpp`| 
  
 
 ## Payment Providers 
@@ -46,7 +46,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Euroset_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
-|![payeer](https://static.openfintech.io/payment_providers/payeer/icon.svg?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
+|![payeer](https://static.openfintech.io/payment_providers/payeer/icon.png?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
  
 
 ## JSON Object 

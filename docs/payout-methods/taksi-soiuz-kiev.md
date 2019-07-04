@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Union (Kiev)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-soiuz-kiev](https://static.openfintech.io/payout_methods/taksi-soiuz-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-soiuz-kiev_uah](/payout-services/taksi-soiuz-kiev_uah/)|`taksi-soiuz-kiev_uah`| 
+|![taksi-soiuz-kiev](https://static.openfintech.io/payout_methods/taksi-soiuz-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-soiuz-kiev_uah](/payout-services/taksi-soiuz-kiev_uah/)|`taksi-soiuz-kiev_uah`| 
  
 
 ## JSON Object 

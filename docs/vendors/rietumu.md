@@ -1,6 +1,6 @@
 
 # Rietumu Banka 
-![rietumu](https://static.openfintech.io/vendors/rietumu/logo.svg?w=400&c=v0.59.26#w200)  
+![rietumu](https://static.openfintech.io/vendors/rietumu/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  7 Vesetas Street1013 RigaLatvia
 
 ### Logo 
  
-![rietumu](https://static.openfintech.io/vendors/rietumu/logo.svg?w=400&c=v0.59.26#w200)  
+![rietumu](https://static.openfintech.io/vendors/rietumu/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/rietumu/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/rietumu/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![rietumu](https://static.openfintech.io/vendors/rietumu/icon.svg?w=278&c=v0.59.26#w100)  
+![rietumu](https://static.openfintech.io/vendors/rietumu/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/rietumu/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/rietumu/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

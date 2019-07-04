@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Real TV LLC_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ooo-real-tv](https://static.openfintech.io/payout_methods/ooo-real-tv/icon.svg?w=278&c=v0.59.26#w40) |[ooo-real-tv_uah](/payout-services/ooo-real-tv_uah/)|`ooo-real-tv_uah`| 
+|![ooo-real-tv](https://static.openfintech.io/payout_methods/ooo-real-tv/icon.png?w=278&c=v0.59.26#w40) |[ooo-real-tv_uah](/payout-services/ooo-real-tv_uah/)|`ooo-real-tv_uah`| 
  
 
 ## JSON Object 

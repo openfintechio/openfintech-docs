@@ -1,6 +1,6 @@
 
 # Linkpay 
-![linkpay](https://static.openfintech.io/vendors/linkpay/logo.svg?w=400&c=v0.59.26#w200)  
+![linkpay](https://static.openfintech.io/vendors/linkpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  3129 Tiger Run Court3129 California
 
 ### Logo 
  
-![linkpay](https://static.openfintech.io/vendors/linkpay/logo.svg?w=400&c=v0.59.26#w200)  
+![linkpay](https://static.openfintech.io/vendors/linkpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/linkpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/linkpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![linkpay](https://static.openfintech.io/vendors/linkpay/icon.svg?w=278&c=v0.59.26#w100)  
+![linkpay](https://static.openfintech.io/vendors/linkpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/linkpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/linkpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Coinzone BV 
-![coinzone](https://static.openfintech.io/vendors/coinzone/logo.svg?w=400&c=v0.59.26#w200)  
+![coinzone](https://static.openfintech.io/vendors/coinzone/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Prins Hendriklaan 261075 BD AmsterdamNetherlands
 
 ### Logo 
  
-![coinzone](https://static.openfintech.io/vendors/coinzone/logo.svg?w=400&c=v0.59.26#w200)  
+![coinzone](https://static.openfintech.io/vendors/coinzone/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/coinzone/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/coinzone/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![coinzone](https://static.openfintech.io/vendors/coinzone/icon.svg?w=278&c=v0.59.26#w100)  
+![coinzone](https://static.openfintech.io/vendors/coinzone/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/coinzone/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/coinzone/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

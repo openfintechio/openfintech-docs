@@ -1,6 +1,6 @@
 
 # MistralPay 
-![mistralpay2](https://static.openfintech.io/vendors/mistralpay2/logo.svg?w=400&c=v0.59.26#w200)  
+![mistralpay2](https://static.openfintech.io/vendors/mistralpay2/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  FRN9011 FlorianaVallettaMalta
 
 ### Logo 
  
-![mistralpay2](https://static.openfintech.io/vendors/mistralpay2/logo.svg?w=400&c=v0.59.26#w200)  
+![mistralpay2](https://static.openfintech.io/vendors/mistralpay2/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/mistralpay2/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/mistralpay2/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![mistralpay2](https://static.openfintech.io/vendors/mistralpay2/icon.svg?w=278&c=v0.59.26#w100)  
+![mistralpay2](https://static.openfintech.io/vendors/mistralpay2/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/mistralpay2/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/mistralpay2/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

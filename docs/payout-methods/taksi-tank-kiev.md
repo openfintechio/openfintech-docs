@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Tank (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-tank-kiev](https://static.openfintech.io/payout_methods/taksi-tank-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-tank-kiev_uah](/payout-services/taksi-tank-kiev_uah/)|`taksi-tank-kiev_uah`| 
+|![taksi-tank-kiev](https://static.openfintech.io/payout_methods/taksi-tank-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-tank-kiev_uah](/payout-services/taksi-tank-kiev_uah/)|`taksi-tank-kiev_uah`| 
  
 
 ## JSON Object 

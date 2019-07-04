@@ -1,6 +1,6 @@
 
 # Inteligo 
-![inteligo](https://static.openfintech.io/payment_methods/inteligo/logo.svg?w=400&c=v0.59.26#w200)  
+![inteligo](https://static.openfintech.io/payment_methods/inteligo/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `inteligo` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![inteligo](https://static.openfintech.io/payment_methods/inteligo/logo.svg?w=400&c=v0.59.26#w200)  
+![inteligo](https://static.openfintech.io/payment_methods/inteligo/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/inteligo/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/inteligo/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![inteligo](https://static.openfintech.io/payment_methods/inteligo/icon.svg?w=278&c=v0.59.26#w100)  
+![inteligo](https://static.openfintech.io/payment_methods/inteligo/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/inteligo/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/inteligo/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

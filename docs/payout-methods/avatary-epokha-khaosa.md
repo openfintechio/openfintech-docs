@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Avatars: The Age 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![avatary-epokha-khaosa](https://static.openfintech.io/payout_methods/avatary-epokha-khaosa/icon.svg?w=278&c=v0.59.26#w40) |[avatary-epokha-khaosa_uah](/payout-services/avatary-epokha-khaosa_uah/)|`avatary-epokha-khaosa_uah`| 
+|![avatary-epokha-khaosa](https://static.openfintech.io/payout_methods/avatary-epokha-khaosa/icon.png?w=278&c=v0.59.26#w40) |[avatary-epokha-khaosa_uah](/payout-services/avatary-epokha-khaosa_uah/)|`avatary-epokha-khaosa_uah`| 
  
 
 ## JSON Object 

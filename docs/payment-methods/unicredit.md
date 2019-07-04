@@ -1,6 +1,6 @@
 
 # UniCredit 
-![unicredit](https://static.openfintech.io/payment_methods/unicredit/logo.svg?w=400&c=v0.59.26#w200)  
+![unicredit](https://static.openfintech.io/payment_methods/unicredit/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `unicredit` 
@@ -26,17 +26,17 @@
 ## Images 
 
 ### Logo 
-![unicredit](https://static.openfintech.io/payment_methods/unicredit/logo.svg?w=400&c=v0.59.26#w200)  
+![unicredit](https://static.openfintech.io/payment_methods/unicredit/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/unicredit/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/unicredit/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![unicredit](https://static.openfintech.io/payment_methods/unicredit/icon.svg?w=278&c=v0.59.26#w100)  
+![unicredit](https://static.openfintech.io/payment_methods/unicredit/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/unicredit/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/unicredit/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -45,12 +45,12 @@ The list of [Payment Providers](/payment-providers/) that support the _UniCredit
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![trustpay](https://static.openfintech.io/payment_providers/trustpay/icon.svg?w=278&c=v0.59.26#w100) |[TrustPay](/payment-providers/trustpay/)|`trustpay`| 
-|![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.svg?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
-|![acapture](https://static.openfintech.io/payment_providers/acapture/icon.svg?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![trustpay](https://static.openfintech.io/payment_providers/trustpay/icon.png?w=278&c=v0.59.26#w100) |[TrustPay](/payment-providers/trustpay/)|`trustpay`| 
+|![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
+|![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
-|![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.svg?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
+|![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.png?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
  
 
 ## JSON Object 

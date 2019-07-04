@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ARTNETPLUS (Artyo
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![artnetplus-artemovsk](https://static.openfintech.io/payout_methods/artnetplus-artemovsk/icon.svg?w=278&c=v0.59.26#w40) |[artnetplus-artemovsk_uah](/payout-services/artnetplus-artemovsk_uah/)|`artnetplus-artemovsk_uah`| 
+|![artnetplus-artemovsk](https://static.openfintech.io/payout_methods/artnetplus-artemovsk/icon.png?w=278&c=v0.59.26#w40) |[artnetplus-artemovsk_uah](/payout-services/artnetplus-artemovsk_uah/)|`artnetplus-artemovsk_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # PAY4 
-![pay4](https://static.openfintech.io/vendors/pay4/logo.svg?w=400&c=v0.59.26#w200)  
+![pay4](https://static.openfintech.io/vendors/pay4/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Hanauer Landstraße 135-13760314 FrankfurtGermany
 
 ### Logo 
  
-![pay4](https://static.openfintech.io/vendors/pay4/logo.svg?w=400&c=v0.59.26#w200)  
+![pay4](https://static.openfintech.io/vendors/pay4/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/pay4/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/pay4/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![pay4](https://static.openfintech.io/vendors/pay4/icon.svg?w=278&c=v0.59.26#w100)  
+![pay4](https://static.openfintech.io/vendors/pay4/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/pay4/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/pay4/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

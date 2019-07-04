@@ -1,6 +1,6 @@
 
 # mopay 
-![mopay](https://static.openfintech.io/vendors/mopay/logo.svg?w=400&c=v0.59.26#w200)  
+![mopay](https://static.openfintech.io/vendors/mopay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Marcel Breuer Strasse 1880807 MunichGermany
 
 ### Logo 
  
-![mopay](https://static.openfintech.io/vendors/mopay/logo.svg?w=400&c=v0.59.26#w200)  
+![mopay](https://static.openfintech.io/vendors/mopay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/mopay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/mopay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![mopay](https://static.openfintech.io/vendors/mopay/icon.svg?w=278&c=v0.59.26#w100)  
+![mopay](https://static.openfintech.io/vendors/mopay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/mopay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/mopay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

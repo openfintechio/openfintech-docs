@@ -1,6 +1,6 @@
 
 # DirecPay 
-![direcpay](https://static.openfintech.io/payment_providers/direcpay/logo.svg?w=400&c=v0.59.26#w100)  
+![direcpay](https://static.openfintech.io/payment_providers/direcpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![direcpay](https://static.openfintech.io/payment_providers/direcpay/logo.svg?w=400&c=v0.59.26#w100)  
+![direcpay](https://static.openfintech.io/payment_providers/direcpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/direcpay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/direcpay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![direcpay](https://static.openfintech.io/payment_providers/direcpay/icon.svg?w=278&c=v0.59.26#w100)  
+![direcpay](https://static.openfintech.io/payment_providers/direcpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/direcpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/direcpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

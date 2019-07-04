@@ -1,6 +1,6 @@
 
 # Setcom Payment Solutions 
-![setcompaymentsolutions](https://static.openfintech.io/vendors/setcompaymentsolutions/logo.svg?w=400&c=v0.59.26#w200)  
+![setcompaymentsolutions](https://static.openfintech.io/vendors/setcompaymentsolutions/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Sandhaven Office Park, 12 Pongola Crescent2199 SandtonGautengSouth Afri
 
 ### Logo 
  
-![setcompaymentsolutions](https://static.openfintech.io/vendors/setcompaymentsolutions/logo.svg?w=400&c=v0.59.26#w200)  
+![setcompaymentsolutions](https://static.openfintech.io/vendors/setcompaymentsolutions/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/setcompaymentsolutions/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/setcompaymentsolutions/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![setcompaymentsolutions](https://static.openfintech.io/vendors/setcompaymentsolutions/icon.svg?w=278&c=v0.59.26#w100)  
+![setcompaymentsolutions](https://static.openfintech.io/vendors/setcompaymentsolutions/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/setcompaymentsolutions/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/setcompaymentsolutions/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Teremki @ LAN (Ki
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![teremki-lan-kiev](https://static.openfintech.io/payout_methods/teremki-lan-kiev/icon.svg?w=278&c=v0.59.26#w40) |[teremki-lan-kiev_uah](/payout-services/teremki-lan-kiev_uah/)|`teremki-lan-kiev_uah`| 
+|![teremki-lan-kiev](https://static.openfintech.io/payout_methods/teremki-lan-kiev/icon.png?w=278&c=v0.59.26#w40) |[teremki-lan-kiev_uah](/payout-services/teremki-lan-kiev_uah/)|`teremki-lan-kiev_uah`| 
  
 
 ## JSON Object 

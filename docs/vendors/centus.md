@@ -1,6 +1,6 @@
 
 # Centus 
-![centus](https://static.openfintech.io/vendors/centus/logo.svg?w=400&c=v0.59.26#w200)  
+![centus](https://static.openfintech.io/vendors/centus/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -26,18 +26,18 @@ street:  United Kingdom
 
 ### Logo 
  
-![centus](https://static.openfintech.io/vendors/centus/logo.svg?w=400&c=v0.59.26#w200)  
+![centus](https://static.openfintech.io/vendors/centus/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/centus/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/centus/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![centus](https://static.openfintech.io/vendors/centus/icon.svg?w=278&c=v0.59.26#w100)  
+![centus](https://static.openfintech.io/vendors/centus/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/centus/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/centus/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Edge of the World
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![krai-mira](https://static.openfintech.io/payout_methods/krai-mira/icon.svg?w=278&c=v0.59.26#w40) |[krai-mira_uah](/payout-services/krai-mira_uah/)|`krai-mira_uah`| 
+|![krai-mira](https://static.openfintech.io/payout_methods/krai-mira/icon.png?w=278&c=v0.59.26#w40) |[krai-mira_uah](/payout-services/krai-mira_uah/)|`krai-mira_uah`| 
  
 
 ## JSON Object 

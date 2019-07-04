@@ -1,6 +1,6 @@
 
 # Ypsilon Payment Solutions 
-![ypsilonpaymentsolutions](https://static.openfintech.io/payment_providers/ypsilonpaymentsolutions/logo.svg?w=400&c=v0.59.26#w100)  
+![ypsilonpaymentsolutions](https://static.openfintech.io/payment_providers/ypsilonpaymentsolutions/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![ypsilonpaymentsolutions](https://static.openfintech.io/payment_providers/ypsilonpaymentsolutions/logo.svg?w=400&c=v0.59.26#w100)  
+![ypsilonpaymentsolutions](https://static.openfintech.io/payment_providers/ypsilonpaymentsolutions/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/ypsilonpaymentsolutions/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/ypsilonpaymentsolutions/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![ypsilonpaymentsolutions](https://static.openfintech.io/payment_providers/ypsilonpaymentsolutions/icon.svg?w=278&c=v0.59.26#w100)  
+![ypsilonpaymentsolutions](https://static.openfintech.io/payment_providers/ypsilonpaymentsolutions/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/ypsilonpaymentsolutions/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/ypsilonpaymentsolutions/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

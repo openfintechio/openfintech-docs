@@ -1,6 +1,6 @@
 
 # CashRun 
-![cashrun](https://static.openfintech.io/vendors/cashrun/logo.svg?w=400&c=v0.59.26#w200)  
+![cashrun](https://static.openfintech.io/vendors/cashrun/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  1 Fifth Avenue #04-02 Guthrie House2608802 SingaporeSingapore
 
 ### Logo 
  
-![cashrun](https://static.openfintech.io/vendors/cashrun/logo.svg?w=400&c=v0.59.26#w200)  
+![cashrun](https://static.openfintech.io/vendors/cashrun/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/cashrun/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/cashrun/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![cashrun](https://static.openfintech.io/vendors/cashrun/icon.svg?w=278&c=v0.59.26#w100)  
+![cashrun](https://static.openfintech.io/vendors/cashrun/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/cashrun/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/cashrun/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

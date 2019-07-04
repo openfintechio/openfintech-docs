@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _QLan (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![qlan-kiev](https://static.openfintech.io/payout_methods/qlan-kiev/icon.svg?w=278&c=v0.59.26#w40) |[qlan-kiev_uah](/payout-services/qlan-kiev_uah/)|`qlan-kiev_uah`| 
+|![qlan-kiev](https://static.openfintech.io/payout_methods/qlan-kiev/icon.png?w=278&c=v0.59.26#w40) |[qlan-kiev_uah](/payout-services/qlan-kiev_uah/)|`qlan-kiev_uah`| 
  
 
 ## JSON Object 

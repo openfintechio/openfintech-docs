@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Optimal (Khe
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-optimalnoe-kherson](https://static.openfintech.io/payout_methods/taksi-optimalnoe-kherson/icon.svg?w=278&c=v0.59.26#w40) |[taksi-optimalnoe-kherson_uah](/payout-services/taksi-optimalnoe-kherson_uah/)|`taksi-optimalnoe-kherson_uah`| 
+|![taksi-optimalnoe-kherson](https://static.openfintech.io/payout_methods/taksi-optimalnoe-kherson/icon.png?w=278&c=v0.59.26#w40) |[taksi-optimalnoe-kherson_uah](/payout-services/taksi-optimalnoe-kherson_uah/)|`taksi-optimalnoe-kherson_uah`| 
  
 
 ## JSON Object 

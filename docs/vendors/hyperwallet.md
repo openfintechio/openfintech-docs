@@ -1,6 +1,6 @@
 
 # hyperWALLET 
-![hyperwallet](https://static.openfintech.io/vendors/hyperwallet/logo.svg?w=400&c=v0.59.26#w200)  
+![hyperwallet](https://static.openfintech.io/vendors/hyperwallet/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Suite 1200, 736 Granville Street Canada
 
 ### Logo 
  
-![hyperwallet](https://static.openfintech.io/vendors/hyperwallet/logo.svg?w=400&c=v0.59.26#w200)  
+![hyperwallet](https://static.openfintech.io/vendors/hyperwallet/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/hyperwallet/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/hyperwallet/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![hyperwallet](https://static.openfintech.io/vendors/hyperwallet/icon.svg?w=278&c=v0.59.26#w100)  
+![hyperwallet](https://static.openfintech.io/vendors/hyperwallet/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/hyperwallet/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/hyperwallet/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

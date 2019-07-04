@@ -1,6 +1,6 @@
 
 # Dankort 
-![dankort](https://static.openfintech.io/vendors/dankort/logo.svg?w=400&c=v0.59.26#w200)  
+![dankort](https://static.openfintech.io/vendors/dankort/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![dankort](https://static.openfintech.io/vendors/dankort/logo.svg?w=400&c=v0.59.26#w200)  
+![dankort](https://static.openfintech.io/vendors/dankort/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/dankort/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/dankort/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![dankort](https://static.openfintech.io/vendors/dankort/icon.svg?w=278&c=v0.59.26#w100)  
+![dankort](https://static.openfintech.io/vendors/dankort/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/dankort/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/dankort/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

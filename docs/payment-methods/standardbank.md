@@ -1,6 +1,6 @@
 
 # Standart Bank 
-![standardbank](https://static.openfintech.io/payment_methods/standardbank/logo.svg?w=400&c=v0.59.26#w200)  
+![standardbank](https://static.openfintech.io/payment_methods/standardbank/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `standardbank` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![standardbank](https://static.openfintech.io/payment_methods/standardbank/logo.svg?w=400&c=v0.59.26#w200)  
+![standardbank](https://static.openfintech.io/payment_methods/standardbank/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/standardbank/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/standardbank/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![standardbank](https://static.openfintech.io/payment_methods/standardbank/icon.svg?w=278&c=v0.59.26#w100)  
+![standardbank](https://static.openfintech.io/payment_methods/standardbank/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/standardbank/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/standardbank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

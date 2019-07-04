@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Fantastic Fishing
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![fantastic-fishing](https://static.openfintech.io/payout_methods/fantastic-fishing/icon.svg?w=278&c=v0.59.26#w40) |[fantastic-fishing_uah](/payout-services/fantastic-fishing_uah/)|`fantastic-fishing_uah`| 
+|![fantastic-fishing](https://static.openfintech.io/payout_methods/fantastic-fishing/icon.png?w=278&c=v0.59.26#w40) |[fantastic-fishing_uah](/payout-services/fantastic-fishing_uah/)|`fantastic-fishing_uah`| 
  
 
 ## JSON Object 

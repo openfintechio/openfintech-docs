@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Maximum Net - Int
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![maximum-net-internet](https://static.openfintech.io/payout_methods/maximum-net-internet/icon.svg?w=278&c=v0.59.26#w40) |[maximum-net-internet_uah](/payout-services/maximum-net-internet_uah/)|`maximum-net-internet_uah`| 
+|![maximum-net-internet](https://static.openfintech.io/payout_methods/maximum-net-internet/icon.png?w=278&c=v0.59.26#w40) |[maximum-net-internet_uah](/payout-services/maximum-net-internet_uah/)|`maximum-net-internet_uah`| 
  
 
 ## JSON Object 

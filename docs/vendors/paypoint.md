@@ -1,6 +1,6 @@
 
 # Pay360 by Capita 
-![paypoint](https://static.openfintech.io/vendors/paypoint/logo.svg?w=400&c=v0.59.26#w200)  
+![paypoint](https://static.openfintech.io/vendors/paypoint/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  1, Finsbury SquareEC2A 1AE LondonUnited Kingdom
 
 ### Logo 
  
-![paypoint](https://static.openfintech.io/vendors/paypoint/logo.svg?w=400&c=v0.59.26#w200)  
+![paypoint](https://static.openfintech.io/vendors/paypoint/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paypoint/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paypoint/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paypoint](https://static.openfintech.io/vendors/paypoint/icon.svg?w=278&c=v0.59.26#w100)  
+![paypoint](https://static.openfintech.io/vendors/paypoint/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paypoint/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paypoint/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

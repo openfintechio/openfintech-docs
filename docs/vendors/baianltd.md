@@ -1,6 +1,6 @@
 
 # Baian Ltd. 
-![baianltd](https://static.openfintech.io/vendors/baianltd/logo.svg?w=400&c=v0.59.26#w200)  
+![baianltd](https://static.openfintech.io/vendors/baianltd/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  4F, No 67, Sec.2, Chang-an E. Rd.104 Taipei CityTaiwan
 
 ### Logo 
  
-![baianltd](https://static.openfintech.io/vendors/baianltd/logo.svg?w=400&c=v0.59.26#w200)  
+![baianltd](https://static.openfintech.io/vendors/baianltd/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/baianltd/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/baianltd/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![baianltd](https://static.openfintech.io/vendors/baianltd/icon.svg?w=278&c=v0.59.26#w100)  
+![baianltd](https://static.openfintech.io/vendors/baianltd/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/baianltd/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/baianltd/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _HAPPY.NET_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![happy-net](https://static.openfintech.io/payout_methods/happy-net/icon.svg?w=278&c=v0.59.26#w40) |[happy-net_uah](/payout-services/happy-net_uah/)|`happy-net_uah`| 
+|![happy-net](https://static.openfintech.io/payout_methods/happy-net/icon.png?w=278&c=v0.59.26#w40) |[happy-net_uah](/payout-services/happy-net_uah/)|`happy-net_uah`| 
  
 
 ## JSON Object 

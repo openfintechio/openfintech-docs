@@ -1,6 +1,6 @@
 
 # Klik & Pay 
-![klikpay](https://static.openfintech.io/vendors/klikpay/logo.svg?w=400&c=v0.59.26#w200)  
+![klikpay](https://static.openfintech.io/vendors/klikpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Rue des Jordils 401025 Saint SulpiceVDSwitzerland
 
 ### Logo 
  
-![klikpay](https://static.openfintech.io/vendors/klikpay/logo.svg?w=400&c=v0.59.26#w200)  
+![klikpay](https://static.openfintech.io/vendors/klikpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/klikpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/klikpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![klikpay](https://static.openfintech.io/vendors/klikpay/icon.svg?w=278&c=v0.59.26#w100)  
+![klikpay](https://static.openfintech.io/vendors/klikpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/klikpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/klikpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

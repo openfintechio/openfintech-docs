@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _WIFI.IN.UA_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![wifi-in-ua](https://static.openfintech.io/payout_methods/wifi-in-ua/icon.svg?w=278&c=v0.59.26#w40) |[wifi-in-ua_uah](/payout-services/wifi-in-ua_uah/)|`wifi-in-ua_uah`| 
+|![wifi-in-ua](https://static.openfintech.io/payout_methods/wifi-in-ua/icon.png?w=278&c=v0.59.26#w40) |[wifi-in-ua_uah](/payout-services/wifi-in-ua_uah/)|`wifi-in-ua_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Alpha-Internet_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![alfa-inet](https://static.openfintech.io/payout_methods/alfa-inet/icon.svg?w=278&c=v0.59.26#w40) |[alfa-inet_uah](/payout-services/alfa-inet_uah/)|`alfa-inet_uah`| 
+|![alfa-inet](https://static.openfintech.io/payout_methods/alfa-inet/icon.png?w=278&c=v0.59.26#w40) |[alfa-inet_uah](/payout-services/alfa-inet_uah/)|`alfa-inet_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _BKM (Bila Tserkva
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bkm-g-belaia-tserkov](https://static.openfintech.io/payout_methods/bkm-g-belaia-tserkov/icon.svg?w=278&c=v0.59.26#w40) |[bkm-g-belaia-tserkov_uah](/payout-services/bkm-g-belaia-tserkov_uah/)|`bkm-g-belaia-tserkov_uah`| 
+|![bkm-g-belaia-tserkov](https://static.openfintech.io/payout_methods/bkm-g-belaia-tserkov/icon.png?w=278&c=v0.59.26#w40) |[bkm-g-belaia-tserkov_uah](/payout-services/bkm-g-belaia-tserkov_uah/)|`bkm-g-belaia-tserkov_uah`| 
  
 
 ## JSON Object 

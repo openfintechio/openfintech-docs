@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Fox (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-foks-kiev](https://static.openfintech.io/payout_methods/taksi-foks-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-foks-kiev_uah](/payout-services/taksi-foks-kiev_uah/)|`taksi-foks-kiev_uah`| 
+|![taksi-foks-kiev](https://static.openfintech.io/payout_methods/taksi-foks-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-foks-kiev_uah](/payout-services/taksi-foks-kiev_uah/)|`taksi-foks-kiev_uah`| 
  
 
 ## JSON Object 

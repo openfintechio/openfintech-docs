@@ -1,6 +1,6 @@
 
 # PaySec 
-![paysec](https://static.openfintech.io/vendors/paysec/logo.svg?w=400&c=v0.59.26#w200)  
+![paysec](https://static.openfintech.io/vendors/paysec/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  115 B, Suite 3, Old Mint StreetVLT 1515 ValletaMalta
 
 ### Logo 
  
-![paysec](https://static.openfintech.io/vendors/paysec/logo.svg?w=400&c=v0.59.26#w200)  
+![paysec](https://static.openfintech.io/vendors/paysec/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paysec/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paysec/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paysec](https://static.openfintech.io/vendors/paysec/icon.svg?w=278&c=v0.59.26#w100)  
+![paysec](https://static.openfintech.io/vendors/paysec/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paysec/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paysec/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

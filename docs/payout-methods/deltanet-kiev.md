@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _DeltaNet (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![deltanet-kiev](https://static.openfintech.io/payout_methods/deltanet-kiev/icon.svg?w=278&c=v0.59.26#w40) |[deltanet-kiev_uah](/payout-services/deltanet-kiev_uah/)|`deltanet-kiev_uah`| 
+|![deltanet-kiev](https://static.openfintech.io/payout_methods/deltanet-kiev/icon.png?w=278&c=v0.59.26#w40) |[deltanet-kiev_uah](/payout-services/deltanet-kiev_uah/)|`deltanet-kiev_uah`| 
  
 
 ## JSON Object 

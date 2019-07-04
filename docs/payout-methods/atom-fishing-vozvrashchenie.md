@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Atom fishing Retu
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![atom-fishing-vozvrashchenie](https://static.openfintech.io/payout_methods/atom-fishing-vozvrashchenie/icon.svg?w=278&c=v0.59.26#w40) |[atom-fishing-vozvrashchenie_uah](/payout-services/atom-fishing-vozvrashchenie_uah/)|`atom-fishing-vozvrashchenie_uah`| 
+|![atom-fishing-vozvrashchenie](https://static.openfintech.io/payout_methods/atom-fishing-vozvrashchenie/icon.png?w=278&c=v0.59.26#w40) |[atom-fishing-vozvrashchenie_uah](/payout-services/atom-fishing-vozvrashchenie_uah/)|`atom-fishing-vozvrashchenie_uah`| 
  
 
 ## JSON Object 

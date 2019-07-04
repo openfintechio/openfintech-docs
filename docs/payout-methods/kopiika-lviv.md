@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Kopiyka (Lviv)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kopiika-lviv](https://static.openfintech.io/payout_methods/kopiika-lviv/icon.svg?w=278&c=v0.59.26#w40) |[kopiika-lviv_uah](/payout-services/kopiika-lviv_uah/)|`kopiika-lviv_uah`| 
+|![kopiika-lviv](https://static.openfintech.io/payout_methods/kopiika-lviv/icon.png?w=278&c=v0.59.26#w40) |[kopiika-lviv_uah](/payout-services/kopiika-lviv_uah/)|`kopiika-lviv_uah`| 
  
 
 ## JSON Object 

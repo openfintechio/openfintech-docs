@@ -1,6 +1,6 @@
 
 # net mobile AG 
-![netmobileag](https://static.openfintech.io/payment_providers/netmobileag/logo.svg?w=400&c=v0.59.26#w100)  
+![netmobileag](https://static.openfintech.io/payment_providers/netmobileag/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![netmobileag](https://static.openfintech.io/payment_providers/netmobileag/logo.svg?w=400&c=v0.59.26#w100)  
+![netmobileag](https://static.openfintech.io/payment_providers/netmobileag/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/netmobileag/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/netmobileag/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![netmobileag](https://static.openfintech.io/payment_providers/netmobileag/icon.svg?w=278&c=v0.59.26#w100)  
+![netmobileag](https://static.openfintech.io/payment_providers/netmobileag/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/netmobileag/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/netmobileag/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

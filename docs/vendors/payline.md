@@ -1,6 +1,6 @@
 
 # Payline 
-![payline](https://static.openfintech.io/vendors/payline/logo.svg?w=400&c=v0.59.26#w200)  
+![payline](https://static.openfintech.io/vendors/payline/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Paris ParisFrance
 
 ### Logo 
  
-![payline](https://static.openfintech.io/vendors/payline/logo.svg?w=400&c=v0.59.26#w200)  
+![payline](https://static.openfintech.io/vendors/payline/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payline/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payline/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payline](https://static.openfintech.io/vendors/payline/icon.svg?w=278&c=v0.59.26#w100)  
+![payline](https://static.openfintech.io/vendors/payline/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payline/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payline/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

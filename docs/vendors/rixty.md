@@ -1,6 +1,6 @@
 
 # Rixty 
-![rixty](https://static.openfintech.io/vendors/rixty/logo.svg?w=400&c=v0.59.26#w200)  
+![rixty](https://static.openfintech.io/vendors/rixty/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@ phone: info@rixty.com
 
 ### Logo 
  
-![rixty](https://static.openfintech.io/vendors/rixty/logo.svg?w=400&c=v0.59.26#w200)  
+![rixty](https://static.openfintech.io/vendors/rixty/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/rixty/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/rixty/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![rixty](https://static.openfintech.io/vendors/rixty/icon.svg?w=278&c=v0.59.26#w100)  
+![rixty](https://static.openfintech.io/vendors/rixty/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/rixty/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/rixty/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

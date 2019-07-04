@@ -1,6 +1,6 @@
 
 # HiPay 
-![hipay](https://static.openfintech.io/vendors/hipay/logo.svg?w=400&c=v0.59.26#w200)  
+![hipay](https://static.openfintech.io/vendors/hipay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  6 place du Colonel Bourgoin75012 ParisFrance
 
 ### Logo 
  
-![hipay](https://static.openfintech.io/vendors/hipay/logo.svg?w=400&c=v0.59.26#w200)  
+![hipay](https://static.openfintech.io/vendors/hipay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/hipay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/hipay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![hipay](https://static.openfintech.io/vendors/hipay/icon.svg?w=278&c=v0.59.26#w100)  
+![hipay](https://static.openfintech.io/vendors/hipay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/hipay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/hipay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

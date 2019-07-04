@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _EXPRES.NET (Trans
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![expres-net-zakarpatskaia-obl](https://static.openfintech.io/payout_methods/expres-net-zakarpatskaia-obl/icon.svg?w=278&c=v0.59.26#w40) |[expres-net-zakarpatskaia-obl_uah](/payout-services/expres-net-zakarpatskaia-obl_uah/)|`expres-net-zakarpatskaia-obl_uah`| 
+|![expres-net-zakarpatskaia-obl](https://static.openfintech.io/payout_methods/expres-net-zakarpatskaia-obl/icon.png?w=278&c=v0.59.26#w40) |[expres-net-zakarpatskaia-obl_uah](/payout-services/expres-net-zakarpatskaia-obl_uah/)|`expres-net-zakarpatskaia-obl_uah`| 
  
 
 ## JSON Object 

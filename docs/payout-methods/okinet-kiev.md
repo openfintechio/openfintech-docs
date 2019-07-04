@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Okinet (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![okinet-kiev](https://static.openfintech.io/payout_methods/okinet-kiev/icon.svg?w=278&c=v0.59.26#w40) |[okinet-kiev_uah](/payout-services/okinet-kiev_uah/)|`okinet-kiev_uah`| 
+|![okinet-kiev](https://static.openfintech.io/payout_methods/okinet-kiev/icon.png?w=278&c=v0.59.26#w40) |[okinet-kiev_uah](/payout-services/okinet-kiev_uah/)|`okinet-kiev_uah`| 
  
 
 ## JSON Object 

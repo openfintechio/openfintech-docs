@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _STRUMIN (Kharkov)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![strumin-kharkov](https://static.openfintech.io/payout_methods/strumin-kharkov/icon.svg?w=278&c=v0.59.26#w40) |[strumin-kharkov_uah](/payout-services/strumin-kharkov_uah/)|`strumin-kharkov_uah`| 
+|![strumin-kharkov](https://static.openfintech.io/payout_methods/strumin-kharkov/icon.png?w=278&c=v0.59.26#w40) |[strumin-kharkov_uah](/payout-services/strumin-kharkov_uah/)|`strumin-kharkov_uah`| 
  
 
 ## JSON Object 

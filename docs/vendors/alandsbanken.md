@@ -1,6 +1,6 @@
 
 # Älandsbanken 
-![alandsbanken](https://static.openfintech.io/vendors/alandsbanken/logo.svg?w=400&c=v0.59.26#w200)  
+![alandsbanken](https://static.openfintech.io/vendors/alandsbanken/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![alandsbanken](https://static.openfintech.io/vendors/alandsbanken/logo.svg?w=400&c=v0.59.26#w200)  
+![alandsbanken](https://static.openfintech.io/vendors/alandsbanken/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/alandsbanken/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/alandsbanken/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![alandsbanken](https://static.openfintech.io/vendors/alandsbanken/icon.svg?w=278&c=v0.59.26#w100)  
+![alandsbanken](https://static.openfintech.io/vendors/alandsbanken/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/alandsbanken/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/alandsbanken/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

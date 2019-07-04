@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _LLC Sana plus_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ooo-sana-plius](https://static.openfintech.io/payout_methods/ooo-sana-plius/icon.svg?w=278&c=v0.59.26#w40) |[ooo-sana-plius_uah](/payout-services/ooo-sana-plius_uah/)|`ooo-sana-plius_uah`| 
+|![ooo-sana-plius](https://static.openfintech.io/payout_methods/ooo-sana-plius/icon.png?w=278&c=v0.59.26#w40) |[ooo-sana-plius_uah](/payout-services/ooo-sana-plius_uah/)|`ooo-sana-plius_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Triolan - TV_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![triolan-tv](https://static.openfintech.io/payout_methods/triolan-tv/icon.svg?w=278&c=v0.59.26#w40) |[triolan-tv_uah](/payout-services/triolan-tv_uah/)|`triolan-tv_uah`| 
+|![triolan-tv](https://static.openfintech.io/payout_methods/triolan-tv/icon.png?w=278&c=v0.59.26#w40) |[triolan-tv_uah](/payout-services/triolan-tv_uah/)|`triolan-tv_uah`| 
  
 
 ## JSON Object 

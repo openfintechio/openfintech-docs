@@ -1,6 +1,6 @@
 
 # TrustCommerce 
-![trustcommerce](https://static.openfintech.io/vendors/trustcommerce/logo.svg?w=400&c=v0.59.26#w200)  
+![trustcommerce](https://static.openfintech.io/vendors/trustcommerce/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  IrvineUnited States of America
 
 ### Logo 
  
-![trustcommerce](https://static.openfintech.io/vendors/trustcommerce/logo.svg?w=400&c=v0.59.26#w200)  
+![trustcommerce](https://static.openfintech.io/vendors/trustcommerce/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/trustcommerce/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/trustcommerce/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![trustcommerce](https://static.openfintech.io/vendors/trustcommerce/icon.svg?w=278&c=v0.59.26#w100)  
+![trustcommerce](https://static.openfintech.io/vendors/trustcommerce/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/trustcommerce/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/trustcommerce/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

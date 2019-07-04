@@ -1,6 +1,6 @@
 
 # DirectPay Services BV 
-![directpay](https://static.openfintech.io/vendors/directpay/logo.svg?w=400&c=v0.59.26#w200)  
+![directpay](https://static.openfintech.io/vendors/directpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Oslo 9 BarendrechtZuid-HollandNetherlands
 
 ### Logo 
  
-![directpay](https://static.openfintech.io/vendors/directpay/logo.svg?w=400&c=v0.59.26#w200)  
+![directpay](https://static.openfintech.io/vendors/directpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/directpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/directpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![directpay](https://static.openfintech.io/vendors/directpay/icon.svg?w=278&c=v0.59.26#w100)  
+![directpay](https://static.openfintech.io/vendors/directpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/directpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/directpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

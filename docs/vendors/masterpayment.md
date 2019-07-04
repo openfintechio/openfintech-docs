@@ -1,6 +1,6 @@
 
 # Masterpayment 
-![masterpayment](https://static.openfintech.io/vendors/masterpayment/logo.svg?w=400&c=v0.59.26#w200)  
+![masterpayment](https://static.openfintech.io/vendors/masterpayment/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Germany
 
 ### Logo 
  
-![masterpayment](https://static.openfintech.io/vendors/masterpayment/logo.svg?w=400&c=v0.59.26#w200)  
+![masterpayment](https://static.openfintech.io/vendors/masterpayment/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/masterpayment/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/masterpayment/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![masterpayment](https://static.openfintech.io/vendors/masterpayment/icon.svg?w=278&c=v0.59.26#w100)  
+![masterpayment](https://static.openfintech.io/vendors/masterpayment/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/masterpayment/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/masterpayment/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

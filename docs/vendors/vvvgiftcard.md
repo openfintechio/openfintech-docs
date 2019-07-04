@@ -1,6 +1,6 @@
 
 # VVV Giftcard 
-![vvvgiftcard](https://static.openfintech.io/vendors/vvvgiftcard/logo.svg?w=400&c=v0.59.26#w200)  
+![vvvgiftcard](https://static.openfintech.io/vendors/vvvgiftcard/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@ fax: -
 
 ### Logo 
  
-![vvvgiftcard](https://static.openfintech.io/vendors/vvvgiftcard/logo.svg?w=400&c=v0.59.26#w200)  
+![vvvgiftcard](https://static.openfintech.io/vendors/vvvgiftcard/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/vvvgiftcard/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/vvvgiftcard/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![vvvgiftcard](https://static.openfintech.io/vendors/vvvgiftcard/icon.svg?w=278&c=v0.59.26#w100)  
+![vvvgiftcard](https://static.openfintech.io/vendors/vvvgiftcard/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/vvvgiftcard/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/vvvgiftcard/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Intraffics_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![intraffik](https://static.openfintech.io/payout_methods/intraffik/icon.svg?w=278&c=v0.59.26#w40) |[intraffik_uah](/payout-services/intraffik_uah/)|`intraffik_uah`| 
+|![intraffik](https://static.openfintech.io/payout_methods/intraffik/icon.png?w=278&c=v0.59.26#w40) |[intraffik_uah](/payout-services/intraffik_uah/)|`intraffik_uah`| 
  
 
 ## JSON Object 

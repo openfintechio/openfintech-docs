@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Zastava.Net_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![zastava-net](https://static.openfintech.io/payout_methods/zastava-net/icon.svg?w=278&c=v0.59.26#w40) |[zastava-net_uah](/payout-services/zastava-net_uah/)|`zastava-net_uah`| 
+|![zastava-net](https://static.openfintech.io/payout_methods/zastava-net/icon.png?w=278&c=v0.59.26#w40) |[zastava-net_uah](/payout-services/zastava-net_uah/)|`zastava-net_uah`| 
  
 
 ## JSON Object 

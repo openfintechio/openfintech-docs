@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Bee (Poltava
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-pchiolka-poltava](https://static.openfintech.io/payout_methods/taksi-pchiolka-poltava/icon.svg?w=278&c=v0.59.26#w40) |[taksi-pchiolka-poltava_uah](/payout-services/taksi-pchiolka-poltava_uah/)|`taksi-pchiolka-poltava_uah`| 
+|![taksi-pchiolka-poltava](https://static.openfintech.io/payout_methods/taksi-pchiolka-poltava/icon.png?w=278&c=v0.59.26#w40) |[taksi-pchiolka-poltava_uah](/payout-services/taksi-pchiolka-poltava_uah/)|`taksi-pchiolka-poltava_uah`| 
  
 
 ## JSON Object 

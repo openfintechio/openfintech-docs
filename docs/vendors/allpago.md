@@ -1,6 +1,6 @@
 
 # allpago - accept payments in Latin America 
-![allpago](https://static.openfintech.io/vendors/allpago/logo.svg?w=400&c=v0.59.26#w200)  
+![allpago](https://static.openfintech.io/vendors/allpago/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  Schumannstr. 510117 BerlinGermany
 
 ### Logo 
  
-![allpago](https://static.openfintech.io/vendors/allpago/logo.svg?w=400&c=v0.59.26#w200)  
+![allpago](https://static.openfintech.io/vendors/allpago/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/allpago/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/allpago/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![allpago](https://static.openfintech.io/vendors/allpago/icon.svg?w=278&c=v0.59.26#w100)  
+![allpago](https://static.openfintech.io/vendors/allpago/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/allpago/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/allpago/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

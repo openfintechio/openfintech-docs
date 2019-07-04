@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ITNET (Kolomiya)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![itnet-kolomiia](https://static.openfintech.io/payout_methods/itnet-kolomiia/icon.svg?w=278&c=v0.59.26#w40) |[itnet-kolomiia_uah](/payout-services/itnet-kolomiia_uah/)|`itnet-kolomiia_uah`| 
+|![itnet-kolomiia](https://static.openfintech.io/payout_methods/itnet-kolomiia/icon.png?w=278&c=v0.59.26#w40) |[itnet-kolomiia_uah](/payout-services/itnet-kolomiia_uah/)|`itnet-kolomiia_uah`| 
  
 
 ## JSON Object 

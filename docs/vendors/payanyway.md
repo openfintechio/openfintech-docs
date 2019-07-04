@@ -1,6 +1,6 @@
 
 # PayAnyWay.com 
-![payanyway](https://static.openfintech.io/vendors/payanyway/logo.svg?w=400&c=v0.59.26#w200)  
+![payanyway](https://static.openfintech.io/vendors/payanyway/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Russian Federation
 
 ### Logo 
  
-![payanyway](https://static.openfintech.io/vendors/payanyway/logo.svg?w=400&c=v0.59.26#w200)  
+![payanyway](https://static.openfintech.io/vendors/payanyway/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payanyway/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payanyway/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payanyway](https://static.openfintech.io/vendors/payanyway/icon.svg?w=278&c=v0.59.26#w100)  
+![payanyway](https://static.openfintech.io/vendors/payanyway/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payanyway/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payanyway/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

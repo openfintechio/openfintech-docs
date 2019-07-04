@@ -1,6 +1,6 @@
 
 # Netbanx 
-![netbanx](https://static.openfintech.io/vendors/netbanx/logo.svg?w=400&c=v0.59.26#w200)  
+![netbanx](https://static.openfintech.io/vendors/netbanx/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  United Kingdom
 
 ### Logo 
  
-![netbanx](https://static.openfintech.io/vendors/netbanx/logo.svg?w=400&c=v0.59.26#w200)  
+![netbanx](https://static.openfintech.io/vendors/netbanx/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/netbanx/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/netbanx/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![netbanx](https://static.openfintech.io/vendors/netbanx/icon.svg?w=278&c=v0.59.26#w100)  
+![netbanx](https://static.openfintech.io/vendors/netbanx/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/netbanx/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/netbanx/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

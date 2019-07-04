@@ -1,6 +1,6 @@
 
 # BBVA 
-![bbva](https://static.openfintech.io/vendors/bbva/logo.svg?w=400&c=v0.59.26#w200)  
+![bbva](https://static.openfintech.io/vendors/bbva/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![bbva](https://static.openfintech.io/vendors/bbva/logo.svg?w=400&c=v0.59.26#w200)  
+![bbva](https://static.openfintech.io/vendors/bbva/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/bbva/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/bbva/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![bbva](https://static.openfintech.io/vendors/bbva/icon.svg?w=278&c=v0.59.26#w100)  
+![bbva](https://static.openfintech.io/vendors/bbva/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/bbva/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/bbva/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

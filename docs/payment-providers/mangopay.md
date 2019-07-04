@@ -1,6 +1,6 @@
 
 # MangoPay 
-![mangopay](https://static.openfintech.io/payment_providers/mangopay/logo.svg?w=400&c=v0.59.26#w100)  
+![mangopay](https://static.openfintech.io/payment_providers/mangopay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![mangopay](https://static.openfintech.io/payment_providers/mangopay/logo.svg?w=400&c=v0.59.26#w100)  
+![mangopay](https://static.openfintech.io/payment_providers/mangopay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/mangopay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/mangopay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![mangopay](https://static.openfintech.io/payment_providers/mangopay/icon.svg?w=278&c=v0.59.26#w100)  
+![mangopay](https://static.openfintech.io/payment_providers/mangopay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/mangopay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/mangopay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

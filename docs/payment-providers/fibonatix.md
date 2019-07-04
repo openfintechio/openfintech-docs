@@ -1,6 +1,6 @@
 
 # Fibonatix 
-![fibonatix](https://static.openfintech.io/payment_providers/fibonatix/logo.svg?w=400&c=v0.59.26#w100)  
+![fibonatix](https://static.openfintech.io/payment_providers/fibonatix/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -23,18 +23,18 @@
 
 ### Logo 
  
-![fibonatix](https://static.openfintech.io/payment_providers/fibonatix/logo.svg?w=400&c=v0.59.26#w100)  
+![fibonatix](https://static.openfintech.io/payment_providers/fibonatix/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/fibonatix/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/fibonatix/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![fibonatix](https://static.openfintech.io/payment_providers/fibonatix/icon.svg?w=278&c=v0.59.26#w100)  
+![fibonatix](https://static.openfintech.io/payment_providers/fibonatix/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/fibonatix/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/fibonatix/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -44,10 +44,10 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.svg?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
-|![cartebleue](https://static.openfintech.io/payment_methods/cartebleue/icon.svg?w=278&c=v0.59.26#w100) |[cartebleue](/payment-methods/cartebleue/)|`cartebleue`| 
+|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![cartebleue](https://static.openfintech.io/payment_methods/cartebleue/icon.png?w=278&c=v0.59.26#w100) |[cartebleue](/payment-methods/cartebleue/)|`cartebleue`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
-|![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.svg?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
+|![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.png?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
 |![maestro](https://static.openfintech.io/payment_methods/maestro/icon.svg?w=278&c=v0.59.26#w100) |[maestro](/payment-methods/maestro/)|`maestro`| 
  
 

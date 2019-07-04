@@ -1,6 +1,6 @@
 
 # UOL BoaCompra 
-![boacompra](https://static.openfintech.io/vendors/boacompra/logo.svg?w=400&c=v0.59.26#w200)  
+![boacompra](https://static.openfintech.io/vendors/boacompra/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -30,18 +30,18 @@ street:  Rua Castilho 90, 4dto 1250-071 LisboaPortugal
 
 ### Logo 
  
-![boacompra](https://static.openfintech.io/vendors/boacompra/logo.svg?w=400&c=v0.59.26#w200)  
+![boacompra](https://static.openfintech.io/vendors/boacompra/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/boacompra/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/boacompra/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![boacompra](https://static.openfintech.io/vendors/boacompra/icon.svg?w=278&c=v0.59.26#w100)  
+![boacompra](https://static.openfintech.io/vendors/boacompra/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/boacompra/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/boacompra/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

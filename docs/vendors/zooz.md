@@ -1,6 +1,6 @@
 
 # Zooz, Inc 
-![zooz](https://static.openfintech.io/vendors/zooz/logo.svg?w=400&c=v0.59.26#w200)  
+![zooz](https://static.openfintech.io/vendors/zooz/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  485 Pacific Ave94133 San FranciscoCAUnited States of America
 
 ### Logo 
  
-![zooz](https://static.openfintech.io/vendors/zooz/logo.svg?w=400&c=v0.59.26#w200)  
+![zooz](https://static.openfintech.io/vendors/zooz/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/zooz/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/zooz/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![zooz](https://static.openfintech.io/vendors/zooz/icon.svg?w=278&c=v0.59.26#w100)  
+![zooz](https://static.openfintech.io/vendors/zooz/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/zooz/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/zooz/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

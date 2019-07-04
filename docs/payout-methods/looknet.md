@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _LookNet_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![looknet](https://static.openfintech.io/payout_methods/looknet/icon.svg?w=278&c=v0.59.26#w40) |[looknet_uah](/payout-services/looknet_uah/)|`looknet_uah`| 
+|![looknet](https://static.openfintech.io/payout_methods/looknet/icon.png?w=278&c=v0.59.26#w40) |[looknet_uah](/payout-services/looknet_uah/)|`looknet_uah`| 
  
 
 ## JSON Object 

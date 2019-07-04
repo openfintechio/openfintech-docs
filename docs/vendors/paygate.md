@@ -1,6 +1,6 @@
 
 # PayGate 
-![paygate](https://static.openfintech.io/vendors/paygate/logo.svg?w=400&c=v0.59.26#w200)  
+![paygate](https://static.openfintech.io/vendors/paygate/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  South Africa
 
 ### Logo 
  
-![paygate](https://static.openfintech.io/vendors/paygate/logo.svg?w=400&c=v0.59.26#w200)  
+![paygate](https://static.openfintech.io/vendors/paygate/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paygate/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paygate/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paygate](https://static.openfintech.io/vendors/paygate/icon.svg?w=278&c=v0.59.26#w100)  
+![paygate](https://static.openfintech.io/vendors/paygate/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paygate/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paygate/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Banana Wars_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![banana-wars](https://static.openfintech.io/payout_methods/banana-wars/icon.svg?w=278&c=v0.59.26#w40) |[banana-wars_uah](/payout-services/banana-wars_uah/)|`banana-wars_uah`| 
+|![banana-wars](https://static.openfintech.io/payout_methods/banana-wars/icon.png?w=278&c=v0.59.26#w40) |[banana-wars_uah](/payout-services/banana-wars_uah/)|`banana-wars_uah`| 
  
 
 ## JSON Object 

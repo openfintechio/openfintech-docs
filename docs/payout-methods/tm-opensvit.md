@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _TM 'Opensvit'_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tm-opensvit](https://static.openfintech.io/payout_methods/tm-opensvit/icon.svg?w=278&c=v0.59.26#w40) |[tm-opensvit_uah](/payout-services/tm-opensvit_uah/)|`tm-opensvit_uah`| 
+|![tm-opensvit](https://static.openfintech.io/payout_methods/tm-opensvit/icon.png?w=278&c=v0.59.26#w40) |[tm-opensvit_uah](/payout-services/tm-opensvit_uah/)|`tm-opensvit_uah`| 
  
 
 ## JSON Object 

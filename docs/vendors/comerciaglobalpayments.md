@@ -1,6 +1,6 @@
 
 # Comercia Global Payments 
-![comerciaglobalpayments](https://static.openfintech.io/vendors/comerciaglobalpayments/logo.svg?w=400&c=v0.59.26#w200)  
+![comerciaglobalpayments](https://static.openfintech.io/vendors/comerciaglobalpayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  C/ Gran Via Carles III, 98, pl.entl. - Torre Nord. 08028 BarcelonaBarce
 
 ### Logo 
  
-![comerciaglobalpayments](https://static.openfintech.io/vendors/comerciaglobalpayments/logo.svg?w=400&c=v0.59.26#w200)  
+![comerciaglobalpayments](https://static.openfintech.io/vendors/comerciaglobalpayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/comerciaglobalpayments/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/comerciaglobalpayments/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![comerciaglobalpayments](https://static.openfintech.io/vendors/comerciaglobalpayments/icon.svg?w=278&c=v0.59.26#w100)  
+![comerciaglobalpayments](https://static.openfintech.io/vendors/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/comerciaglobalpayments/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

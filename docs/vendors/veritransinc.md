@@ -1,6 +1,6 @@
 
 # VeriTrans Inc. 
-![veritransinc](https://static.openfintech.io/vendors/veritransinc/logo.svg?w=400&c=v0.59.26#w200)  
+![veritransinc](https://static.openfintech.io/vendors/veritransinc/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Tokyo150-0022 TokyoJapan
 
 ### Logo 
  
-![veritransinc](https://static.openfintech.io/vendors/veritransinc/logo.svg?w=400&c=v0.59.26#w200)  
+![veritransinc](https://static.openfintech.io/vendors/veritransinc/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/veritransinc/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/veritransinc/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![veritransinc](https://static.openfintech.io/vendors/veritransinc/icon.svg?w=278&c=v0.59.26#w100)  
+![veritransinc](https://static.openfintech.io/vendors/veritransinc/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/veritransinc/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/veritransinc/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Europay Solutions 
-![europaysolutions](https://static.openfintech.io/vendors/europaysolutions/logo.svg?w=400&c=v0.59.26#w200)  
+![europaysolutions](https://static.openfintech.io/vendors/europaysolutions/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Limassol3311 Limassol, LemesosCyprus
 
 ### Logo 
  
-![europaysolutions](https://static.openfintech.io/vendors/europaysolutions/logo.svg?w=400&c=v0.59.26#w200)  
+![europaysolutions](https://static.openfintech.io/vendors/europaysolutions/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/europaysolutions/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/europaysolutions/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![europaysolutions](https://static.openfintech.io/vendors/europaysolutions/icon.svg?w=278&c=v0.59.26#w100)  
+![europaysolutions](https://static.openfintech.io/vendors/europaysolutions/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/europaysolutions/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/europaysolutions/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

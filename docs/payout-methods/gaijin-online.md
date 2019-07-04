@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Gaijin Online_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![gaijin-online](https://static.openfintech.io/payout_methods/gaijin-online/icon.svg?w=278&c=v0.59.26#w40) |[gaijin-online_uah](/payout-services/gaijin-online_uah/)|`gaijin-online_uah`| 
+|![gaijin-online](https://static.openfintech.io/payout_methods/gaijin-online/icon.png?w=278&c=v0.59.26#w40) |[gaijin-online_uah](/payout-services/gaijin-online_uah/)|`gaijin-online_uah`| 
  
 
 ## JSON Object 

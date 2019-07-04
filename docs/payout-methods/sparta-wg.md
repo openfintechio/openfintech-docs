@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Sparta (WG)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![sparta-wg](https://static.openfintech.io/payout_methods/sparta-wg/icon.svg?w=278&c=v0.59.26#w40) |[sparta-wg_uah](/payout-services/sparta-wg_uah/)|`sparta-wg_uah`| 
+|![sparta-wg](https://static.openfintech.io/payout_methods/sparta-wg/icon.png?w=278&c=v0.59.26#w40) |[sparta-wg_uah](/payout-services/sparta-wg_uah/)|`sparta-wg_uah`| 
  
 
 ## JSON Object 

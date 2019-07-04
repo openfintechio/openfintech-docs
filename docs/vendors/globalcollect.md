@@ -1,6 +1,6 @@
 
 # GlobalCollect 
-![globalcollect](https://static.openfintech.io/vendors/globalcollect/logo.svg?w=400&c=v0.59.26#w200)  
+![globalcollect](https://static.openfintech.io/vendors/globalcollect/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Hoofddorp HoofddorpNoord HollandNetherlands
 
 ### Logo 
  
-![globalcollect](https://static.openfintech.io/vendors/globalcollect/logo.svg?w=400&c=v0.59.26#w200)  
+![globalcollect](https://static.openfintech.io/vendors/globalcollect/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/globalcollect/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/globalcollect/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![globalcollect](https://static.openfintech.io/vendors/globalcollect/icon.svg?w=278&c=v0.59.26#w100)  
+![globalcollect](https://static.openfintech.io/vendors/globalcollect/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/globalcollect/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/globalcollect/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Länsförsäkringar 
-![lansforsakringar](https://static.openfintech.io/payment_methods/lansforsakringar/logo.svg?w=400&c=v0.59.26#w200)  
+![lansforsakringar](https://static.openfintech.io/payment_methods/lansforsakringar/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `lansforsakringar` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![lansforsakringar](https://static.openfintech.io/payment_methods/lansforsakringar/logo.svg?w=400&c=v0.59.26#w200)  
+![lansforsakringar](https://static.openfintech.io/payment_methods/lansforsakringar/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/lansforsakringar/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/lansforsakringar/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![lansforsakringar](https://static.openfintech.io/payment_methods/lansforsakringar/icon.svg?w=278&c=v0.59.26#w100)  
+![lansforsakringar](https://static.openfintech.io/payment_methods/lansforsakringar/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/lansforsakringar/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/lansforsakringar/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

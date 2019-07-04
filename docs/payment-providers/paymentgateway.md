@@ -1,6 +1,6 @@
 
 # PayGateway 
-![paymentgateway](https://static.openfintech.io/payment_providers/paymentgateway/logo.svg?w=400&c=v0.59.26#w100)  
+![paymentgateway](https://static.openfintech.io/payment_providers/paymentgateway/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![paymentgateway](https://static.openfintech.io/payment_providers/paymentgateway/logo.svg?w=400&c=v0.59.26#w100)  
+![paymentgateway](https://static.openfintech.io/payment_providers/paymentgateway/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paymentgateway/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paymentgateway/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![paymentgateway](https://static.openfintech.io/payment_providers/paymentgateway/icon.svg?w=278&c=v0.59.26#w100)  
+![paymentgateway](https://static.openfintech.io/payment_providers/paymentgateway/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paymentgateway/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paymentgateway/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

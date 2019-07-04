@@ -1,6 +1,6 @@
 
 # maxiPago! 
-![maxipago](https://static.openfintech.io/payment_providers/maxipago/logo.svg?w=400&c=v0.59.26#w100)  
+![maxipago](https://static.openfintech.io/payment_providers/maxipago/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![maxipago](https://static.openfintech.io/payment_providers/maxipago/logo.svg?w=400&c=v0.59.26#w100)  
+![maxipago](https://static.openfintech.io/payment_providers/maxipago/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/maxipago/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/maxipago/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![maxipago](https://static.openfintech.io/payment_providers/maxipago/icon.svg?w=278&c=v0.59.26#w100)  
+![maxipago](https://static.openfintech.io/payment_providers/maxipago/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/maxipago/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/maxipago/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

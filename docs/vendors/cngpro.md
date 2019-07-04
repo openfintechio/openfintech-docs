@@ -1,6 +1,6 @@
 
 # CNG Pro 
-![cngpro](https://static.openfintech.io/vendors/cngpro/logo.svg?w=400&c=v0.59.26#w200)  
+![cngpro](https://static.openfintech.io/vendors/cngpro/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  56, AmagerfælledvejDK-2300 CopenhagenDenmark
 
 ### Logo 
  
-![cngpro](https://static.openfintech.io/vendors/cngpro/logo.svg?w=400&c=v0.59.26#w200)  
+![cngpro](https://static.openfintech.io/vendors/cngpro/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/cngpro/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/cngpro/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![cngpro](https://static.openfintech.io/vendors/cngpro/icon.svg?w=278&c=v0.59.26#w100)  
+![cngpro](https://static.openfintech.io/vendors/cngpro/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/cngpro/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/cngpro/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

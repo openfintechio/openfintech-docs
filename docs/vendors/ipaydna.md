@@ -1,6 +1,6 @@
 
 # iPayDNA 
-![ipaydna](https://static.openfintech.io/vendors/ipaydna/logo.svg?w=400&c=v0.59.26#w200)  
+![ipaydna](https://static.openfintech.io/vendors/ipaydna/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Kuala Lumpur Malaysia
 
 ### Logo 
  
-![ipaydna](https://static.openfintech.io/vendors/ipaydna/logo.svg?w=400&c=v0.59.26#w200)  
+![ipaydna](https://static.openfintech.io/vendors/ipaydna/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ipaydna/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ipaydna/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ipaydna](https://static.openfintech.io/vendors/ipaydna/icon.svg?w=278&c=v0.59.26#w100)  
+![ipaydna](https://static.openfintech.io/vendors/ipaydna/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ipaydna/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ipaydna/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

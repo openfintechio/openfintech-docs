@@ -1,6 +1,6 @@
 
 # BILLPRO.com 
-![billpro](https://static.openfintech.io/vendors/billpro/logo.svg?w=400&c=v0.59.26#w200)  
+![billpro](https://static.openfintech.io/vendors/billpro/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Singel 2501016AB AmsterdamNetherlands
 
 ### Logo 
  
-![billpro](https://static.openfintech.io/vendors/billpro/logo.svg?w=400&c=v0.59.26#w200)  
+![billpro](https://static.openfintech.io/vendors/billpro/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/billpro/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/billpro/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![billpro](https://static.openfintech.io/vendors/billpro/icon.svg?w=278&c=v0.59.26#w100)  
+![billpro](https://static.openfintech.io/vendors/billpro/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/billpro/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/billpro/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Trimob-account re
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![trimob-popovnennia-rakhunku-za-nomerom-telefonu](https://static.openfintech.io/payout_methods/trimob-popovnennia-rakhunku-za-nomerom-telefonu/icon.svg?w=278&c=v0.59.26#w40) |[trimob-popovnennia-rakhunku-za-nomerom-telefonu_uah](/payout-services/trimob-popovnennia-rakhunku-za-nomerom-telefonu_uah/)|`trimob-popovnennia-rakhunku-za-nomerom-telefonu_uah`| 
+|![trimob-popovnennia-rakhunku-za-nomerom-telefonu](https://static.openfintech.io/payout_methods/trimob-popovnennia-rakhunku-za-nomerom-telefonu/icon.png?w=278&c=v0.59.26#w40) |[trimob-popovnennia-rakhunku-za-nomerom-telefonu_uah](/payout-services/trimob-popovnennia-rakhunku-za-nomerom-telefonu_uah/)|`trimob-popovnennia-rakhunku-za-nomerom-telefonu_uah`| 
  
 
 ## JSON Object 

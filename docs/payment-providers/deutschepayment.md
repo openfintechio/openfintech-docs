@@ -1,6 +1,6 @@
 
 # Deutsche Payment 
-![deutschepayment](https://static.openfintech.io/payment_providers/deutschepayment/logo.svg?w=400&c=v0.59.26#w100)  
+![deutschepayment](https://static.openfintech.io/payment_providers/deutschepayment/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![deutschepayment](https://static.openfintech.io/payment_providers/deutschepayment/logo.svg?w=400&c=v0.59.26#w100)  
+![deutschepayment](https://static.openfintech.io/payment_providers/deutschepayment/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/deutschepayment/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/deutschepayment/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![deutschepayment](https://static.openfintech.io/payment_providers/deutschepayment/icon.svg?w=278&c=v0.59.26#w100)  
+![deutschepayment](https://static.openfintech.io/payment_providers/deutschepayment/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/deutschepayment/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/deutschepayment/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

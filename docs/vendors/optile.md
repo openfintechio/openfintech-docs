@@ -1,6 +1,6 @@
 
 # Optile 
-![optile](https://static.openfintech.io/vendors/optile/logo.svg?w=400&c=v0.59.26#w200)  
+![optile](https://static.openfintech.io/vendors/optile/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Ganghoferstraße 3980339 MünchenBayernGermany
 
 ### Logo 
  
-![optile](https://static.openfintech.io/vendors/optile/logo.svg?w=400&c=v0.59.26#w200)  
+![optile](https://static.openfintech.io/vendors/optile/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/optile/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/optile/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![optile](https://static.openfintech.io/vendors/optile/icon.svg?w=278&c=v0.59.26#w100)  
+![optile](https://static.openfintech.io/vendors/optile/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/optile/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/optile/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

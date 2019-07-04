@@ -1,6 +1,6 @@
 
 # SACOM Bank 
-![sacom_bank](https://static.openfintech.io/payment_methods/sacom_bank/logo.svg?w=400&c=v0.59.26#w200)  
+![sacom_bank](https://static.openfintech.io/payment_methods/sacom_bank/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `sacom_bank` 
@@ -15,17 +15,17 @@
 ## Images 
 
 ### Logo 
-![sacom_bank](https://static.openfintech.io/payment_methods/sacom_bank/logo.svg?w=400&c=v0.59.26#w200)  
+![sacom_bank](https://static.openfintech.io/payment_methods/sacom_bank/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/sacom_bank/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/sacom_bank/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![sacom_bank](https://static.openfintech.io/payment_methods/sacom_bank/icon.svg?w=278&c=v0.59.26#w100)  
+![sacom_bank](https://static.openfintech.io/payment_methods/sacom_bank/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/sacom_bank/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/sacom_bank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payout Services 
@@ -34,7 +34,7 @@ The list of [Payout Services](/payout-services/) based on the _SACOM Bank_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![sacom_bank](https://static.openfintech.io/payout_methods/sacom_bank/icon.svg?w=278&c=v0.59.26#w40) |[sacom_bank_vnd](/payout-services/sacom_bank_vnd/)|`sacom_bank_vnd`| 
+|![sacom_bank](https://static.openfintech.io/payout_methods/sacom_bank/icon.png?w=278&c=v0.59.26#w40) |[sacom_bank_vnd](/payout-services/sacom_bank_vnd/)|`sacom_bank_vnd`| 
  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _SACOM Ban
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![paysec](https://static.openfintech.io/payment_providers/paysec/icon.svg?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
+|![paysec](https://static.openfintech.io/payment_providers/paysec/icon.png?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
  
 
 ## JSON Object 

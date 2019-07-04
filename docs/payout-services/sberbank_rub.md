@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`card_number`|✔|`string`|`/^([245]{1}[\d]{15}|[6]{1}[\d]{17})$/`| 
+|`card_number`|✔|`string`|`/^([245]{1}[\d]{15}\|[6]{1}[\d]{17})$/`| 
  
 
 ### Details 

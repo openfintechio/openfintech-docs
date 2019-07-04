@@ -1,6 +1,6 @@
 
 # Masterpayment 
-![masterpayment](https://static.openfintech.io/payment_providers/masterpayment/logo.svg?w=400&c=v0.59.26#w100)  
+![masterpayment](https://static.openfintech.io/payment_providers/masterpayment/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![masterpayment](https://static.openfintech.io/payment_providers/masterpayment/logo.svg?w=400&c=v0.59.26#w100)  
+![masterpayment](https://static.openfintech.io/payment_providers/masterpayment/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/masterpayment/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/masterpayment/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![masterpayment](https://static.openfintech.io/payment_providers/masterpayment/icon.svg?w=278&c=v0.59.26#w100)  
+![masterpayment](https://static.openfintech.io/payment_providers/masterpayment/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/masterpayment/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/masterpayment/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

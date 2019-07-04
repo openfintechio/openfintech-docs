@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Kolobok (Pol
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-kolobok-poltava](https://static.openfintech.io/payout_methods/taksi-kolobok-poltava/icon.svg?w=278&c=v0.59.26#w40) |[taksi-kolobok-poltava_uah](/payout-services/taksi-kolobok-poltava_uah/)|`taksi-kolobok-poltava_uah`| 
+|![taksi-kolobok-poltava](https://static.openfintech.io/payout_methods/taksi-kolobok-poltava/icon.png?w=278&c=v0.59.26#w40) |[taksi-kolobok-poltava_uah](/payout-services/taksi-kolobok-poltava_uah/)|`taksi-kolobok-poltava_uah`| 
  
 
 ## JSON Object 

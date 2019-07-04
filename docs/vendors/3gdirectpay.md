@@ -1,6 +1,6 @@
 
 # 3G Direct Pay 
-![3gdirectpay](https://static.openfintech.io/vendors/3gdirectpay/logo.svg?w=400&c=v0.59.26#w200)  
+![3gdirectpay](https://static.openfintech.io/vendors/3gdirectpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Jumuia Place, Block #1, Lenana road. NairobiKenya
 
 ### Logo 
  
-![3gdirectpay](https://static.openfintech.io/vendors/3gdirectpay/logo.svg?w=400&c=v0.59.26#w200)  
+![3gdirectpay](https://static.openfintech.io/vendors/3gdirectpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/3gdirectpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/3gdirectpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![3gdirectpay](https://static.openfintech.io/vendors/3gdirectpay/icon.svg?w=278&c=v0.59.26#w100)  
+![3gdirectpay](https://static.openfintech.io/vendors/3gdirectpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/3gdirectpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/3gdirectpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

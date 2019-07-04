@@ -1,6 +1,6 @@
 
 # BKM Express 
-![bkmexpress](https://static.openfintech.io/payment_methods/bkmexpress/logo.svg?w=400&c=v0.59.26#w200)  
+![bkmexpress](https://static.openfintech.io/payment_methods/bkmexpress/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `bkmexpress` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![bkmexpress](https://static.openfintech.io/payment_methods/bkmexpress/logo.svg?w=400&c=v0.59.26#w200)  
+![bkmexpress](https://static.openfintech.io/payment_methods/bkmexpress/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/bkmexpress/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/bkmexpress/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![bkmexpress](https://static.openfintech.io/payment_methods/bkmexpress/icon.svg?w=278&c=v0.59.26#w100)  
+![bkmexpress](https://static.openfintech.io/payment_methods/bkmexpress/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/bkmexpress/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/bkmexpress/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _BKM Expre
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![iyzipayments](https://static.openfintech.io/payment_providers/iyzipayments/icon.svg?w=278&c=v0.59.26#w100) |[iyzico](/payment-providers/iyzipayments/)|`iyzipayments`| 
+|![iyzipayments](https://static.openfintech.io/payment_providers/iyzipayments/icon.png?w=278&c=v0.59.26#w100) |[iyzico](/payment-providers/iyzipayments/)|`iyzipayments`| 
  
 
 ## JSON Object 

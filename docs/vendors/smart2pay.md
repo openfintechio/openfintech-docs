@@ -1,6 +1,6 @@
 
 # Smart2Pay 
-![smart2pay](https://static.openfintech.io/vendors/smart2pay/logo.svg?w=400&c=v0.59.26#w200)  
+![smart2pay](https://static.openfintech.io/vendors/smart2pay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  Brink, 27c1251 KS LarenNetherlands
 
 ### Logo 
  
-![smart2pay](https://static.openfintech.io/vendors/smart2pay/logo.svg?w=400&c=v0.59.26#w200)  
+![smart2pay](https://static.openfintech.io/vendors/smart2pay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/smart2pay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/smart2pay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![smart2pay](https://static.openfintech.io/vendors/smart2pay/icon.svg?w=278&c=v0.59.26#w100)  
+![smart2pay](https://static.openfintech.io/vendors/smart2pay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/smart2pay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/smart2pay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

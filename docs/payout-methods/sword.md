@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Sword_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![sword](https://static.openfintech.io/payout_methods/sword/icon.svg?w=278&c=v0.59.26#w40) |[sword_uah](/payout-services/sword_uah/)|`sword_uah`| 
+|![sword](https://static.openfintech.io/payout_methods/sword/icon.png?w=278&c=v0.59.26#w40) |[sword_uah](/payout-services/sword_uah/)|`sword_uah`| 
  
 
 ## JSON Object 

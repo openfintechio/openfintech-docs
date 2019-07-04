@@ -1,6 +1,6 @@
 
 # iPayDNA 
-![ipaydna](https://static.openfintech.io/payment_providers/ipaydna/logo.svg?w=400&c=v0.59.26#w100)  
+![ipaydna](https://static.openfintech.io/payment_providers/ipaydna/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![ipaydna](https://static.openfintech.io/payment_providers/ipaydna/logo.svg?w=400&c=v0.59.26#w100)  
+![ipaydna](https://static.openfintech.io/payment_providers/ipaydna/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/ipaydna/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/ipaydna/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![ipaydna](https://static.openfintech.io/payment_providers/ipaydna/icon.svg?w=278&c=v0.59.26#w100)  
+![ipaydna](https://static.openfintech.io/payment_providers/ipaydna/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/ipaydna/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/ipaydna/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Aktia 
-![aktia](https://static.openfintech.io/vendors/aktia/logo.svg?w=400&c=v0.59.26#w200)  
+![aktia](https://static.openfintech.io/vendors/aktia/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![aktia](https://static.openfintech.io/vendors/aktia/logo.svg?w=400&c=v0.59.26#w200)  
+![aktia](https://static.openfintech.io/vendors/aktia/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/aktia/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/aktia/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![aktia](https://static.openfintech.io/vendors/aktia/icon.svg?w=278&c=v0.59.26#w100)  
+![aktia](https://static.openfintech.io/vendors/aktia/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/aktia/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/aktia/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

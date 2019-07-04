@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Mafia Wars_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![voiny-mafii](https://static.openfintech.io/payout_methods/voiny-mafii/icon.svg?w=278&c=v0.59.26#w40) |[voiny-mafii_uah](/payout-services/voiny-mafii_uah/)|`voiny-mafii_uah`| 
+|![voiny-mafii](https://static.openfintech.io/payout_methods/voiny-mafii/icon.png?w=278&c=v0.59.26#w40) |[voiny-mafii_uah](/payout-services/voiny-mafii_uah/)|`voiny-mafii_uah`| 
  
 
 ## JSON Object 

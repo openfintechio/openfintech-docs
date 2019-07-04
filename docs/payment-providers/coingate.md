@@ -41,8 +41,8 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bitcoin_cash](https://static.openfintech.io/payment_methods/bitcoin_cash/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_cash](/payment-methods/bitcoin_cash/)|`bitcoin_cash`| 
-|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.svg?w=278&c=v0.59.26#w100) |[litecoin](/payment-methods/litecoin/)|`litecoin`| 
+|![bitcoin_cash](https://static.openfintech.io/payment_methods/bitcoin_cash/icon.png?w=278&c=v0.59.26#w100) |[bitcoin_cash](/payment-methods/bitcoin_cash/)|`bitcoin_cash`| 
+|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin](/payment-methods/litecoin/)|`litecoin`| 
 |![coingate](https://static.openfintech.io/payment_methods/coingate/icon.svg?w=278&c=v0.59.26#w100) |[coingate](/payment-methods/coingate/)|`coingate`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin](/payment-methods/bitcoin/)|`bitcoin`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum](/payment-methods/ethereum/)|`ethereum`| 

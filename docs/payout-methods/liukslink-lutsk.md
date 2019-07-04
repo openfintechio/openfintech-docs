@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Lyukslink (Lutsk)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![liukslink-lutsk](https://static.openfintech.io/payout_methods/liukslink-lutsk/icon.svg?w=278&c=v0.59.26#w40) |[liukslink-lutsk_uah](/payout-services/liukslink-lutsk_uah/)|`liukslink-lutsk_uah`| 
+|![liukslink-lutsk](https://static.openfintech.io/payout_methods/liukslink-lutsk/icon.png?w=278&c=v0.59.26#w40) |[liukslink-lutsk_uah](/payout-services/liukslink-lutsk_uah/)|`liukslink-lutsk_uah`| 
  
 
 ## JSON Object 

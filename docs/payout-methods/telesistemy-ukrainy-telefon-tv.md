@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Telesystems of Uk
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![telesistemy-ukrainy-telefon-tv](https://static.openfintech.io/payout_methods/telesistemy-ukrainy-telefon-tv/icon.svg?w=278&c=v0.59.26#w40) |[telesistemy-ukrainy-telefon-tv_uah](/payout-services/telesistemy-ukrainy-telefon-tv_uah/)|`telesistemy-ukrainy-telefon-tv_uah`| 
+|![telesistemy-ukrainy-telefon-tv](https://static.openfintech.io/payout_methods/telesistemy-ukrainy-telefon-tv/icon.png?w=278&c=v0.59.26#w40) |[telesistemy-ukrainy-telefon-tv_uah](/payout-services/telesistemy-ukrainy-telefon-tv_uah/)|`telesistemy-ukrainy-telefon-tv_uah`| 
  
 
 ## JSON Object 

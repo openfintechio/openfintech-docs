@@ -1,6 +1,6 @@
 
 # Litecoin 
-![litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.svg?w=400&c=v0.59.26#w200)  
+![litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `litecoin` 
@@ -15,17 +15,17 @@
 ## Images 
 
 ### Logo 
-![litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.svg?w=400&c=v0.59.26#w200)  
+![litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/litecoin/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.svg?w=278&c=v0.59.26#w100)  
+![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/litecoin/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -34,12 +34,12 @@ The list of [Payment Services](/payment-services/) based on the _Litecoin_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.svg?w=278&c=v0.59.26#w100) |[litecoin_ltc_hpp](/payment-services/litecoin_ltc_hpp/)|`litecoin_ltc_hpp`| 
-|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.svg?w=278&c=v0.59.26#w100) |[litecoin_btc_hpp](/payment-services/litecoin_btc_hpp/)|`litecoin_btc_hpp`| 
-|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.svg?w=278&c=v0.59.26#w100) |[litecoin_bch_hpp](/payment-services/litecoin_bch_hpp/)|`litecoin_bch_hpp`| 
-|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.svg?w=278&c=v0.59.26#w100) |[litecoin_eth_hpp](/payment-services/litecoin_eth_hpp/)|`litecoin_eth_hpp`| 
-|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.svg?w=278&c=v0.59.26#w100) |[litecoin_usd_hpp](/payment-services/litecoin_usd_hpp/)|`litecoin_usd_hpp`| 
-|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.svg?w=278&c=v0.59.26#w100) |[litecoin_eur_hpp](/payment-services/litecoin_eur_hpp/)|`litecoin_eur_hpp`| 
+|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_ltc_hpp](/payment-services/litecoin_ltc_hpp/)|`litecoin_ltc_hpp`| 
+|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_btc_hpp](/payment-services/litecoin_btc_hpp/)|`litecoin_btc_hpp`| 
+|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_bch_hpp](/payment-services/litecoin_bch_hpp/)|`litecoin_bch_hpp`| 
+|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_eth_hpp](/payment-services/litecoin_eth_hpp/)|`litecoin_eth_hpp`| 
+|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_usd_hpp](/payment-services/litecoin_usd_hpp/)|`litecoin_usd_hpp`| 
+|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_eur_hpp](/payment-services/litecoin_eur_hpp/)|`litecoin_eur_hpp`| 
  
 
 ## Payment Providers 

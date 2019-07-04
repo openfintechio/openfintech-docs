@@ -1,6 +1,6 @@
 
 # Adyen 
-![adyen](https://static.openfintech.io/vendors/adyen/logo.svg?w=400&c=v0.59.26#w200)  
+![adyen](https://static.openfintech.io/vendors/adyen/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  Amsterdam1011 DJ AmsterdamNetherlands
 
 ### Logo 
  
-![adyen](https://static.openfintech.io/vendors/adyen/logo.svg?w=400&c=v0.59.26#w200)  
+![adyen](https://static.openfintech.io/vendors/adyen/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/adyen/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/adyen/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![adyen](https://static.openfintech.io/vendors/adyen/icon.svg?w=278&c=v0.59.26#w100)  
+![adyen](https://static.openfintech.io/vendors/adyen/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/adyen/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/adyen/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Bavaria (Kie
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-bavariia-kiev](https://static.openfintech.io/payout_methods/taksi-bavariia-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-bavariia-kiev_uah](/payout-services/taksi-bavariia-kiev_uah/)|`taksi-bavariia-kiev_uah`| 
+|![taksi-bavariia-kiev](https://static.openfintech.io/payout_methods/taksi-bavariia-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-bavariia-kiev_uah](/payout-services/taksi-bavariia-kiev_uah/)|`taksi-bavariia-kiev_uah`| 
  
 
 ## JSON Object 

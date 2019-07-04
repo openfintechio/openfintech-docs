@@ -1,6 +1,6 @@
 
 # Gate2Payments  
-![gate2payments](https://static.openfintech.io/payment_providers/gate2payments/logo.svg?w=400&c=v0.59.26#w100)  
+![gate2payments](https://static.openfintech.io/payment_providers/gate2payments/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![gate2payments](https://static.openfintech.io/payment_providers/gate2payments/logo.svg?w=400&c=v0.59.26#w100)  
+![gate2payments](https://static.openfintech.io/payment_providers/gate2payments/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/gate2payments/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/gate2payments/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![gate2payments](https://static.openfintech.io/payment_providers/gate2payments/icon.svg?w=278&c=v0.59.26#w100)  
+![gate2payments](https://static.openfintech.io/payment_providers/gate2payments/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/gate2payments/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/gate2payments/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

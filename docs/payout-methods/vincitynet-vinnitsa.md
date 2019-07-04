@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _VinCityNet (Vinni
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![vincitynet-vinnitsa](https://static.openfintech.io/payout_methods/vincitynet-vinnitsa/icon.svg?w=278&c=v0.59.26#w40) |[vincitynet-vinnitsa_uah](/payout-services/vincitynet-vinnitsa_uah/)|`vincitynet-vinnitsa_uah`| 
+|![vincitynet-vinnitsa](https://static.openfintech.io/payout_methods/vincitynet-vinnitsa/icon.png?w=278&c=v0.59.26#w40) |[vincitynet-vinnitsa_uah](/payout-services/vincitynet-vinnitsa_uah/)|`vincitynet-vinnitsa_uah`| 
  
 
 ## JSON Object 

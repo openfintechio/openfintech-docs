@@ -1,6 +1,6 @@
 
 # Payment Asia 
-![paymentasia](https://static.openfintech.io/vendors/paymentasia/logo.svg?w=400&c=v0.59.26#w200)  
+![paymentasia](https://static.openfintech.io/vendors/paymentasia/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  15-16/F, SML Tower, 165 Hoi Bun Road, Kwun Tong KowloonHong Kong
 
 ### Logo 
  
-![paymentasia](https://static.openfintech.io/vendors/paymentasia/logo.svg?w=400&c=v0.59.26#w200)  
+![paymentasia](https://static.openfintech.io/vendors/paymentasia/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paymentasia/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paymentasia/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paymentasia](https://static.openfintech.io/vendors/paymentasia/icon.svg?w=278&c=v0.59.26#w100)  
+![paymentasia](https://static.openfintech.io/vendors/paymentasia/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paymentasia/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paymentasia/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

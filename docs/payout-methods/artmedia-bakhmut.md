@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ARTMEDIA (Bakhmut
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![artmedia-bakhmut](https://static.openfintech.io/payout_methods/artmedia-bakhmut/icon.svg?w=278&c=v0.59.26#w40) |[artmedia-bakhmut_uah](/payout-services/artmedia-bakhmut_uah/)|`artmedia-bakhmut_uah`| 
+|![artmedia-bakhmut](https://static.openfintech.io/payout_methods/artmedia-bakhmut/icon.png?w=278&c=v0.59.26#w40) |[artmedia-bakhmut_uah](/payout-services/artmedia-bakhmut_uah/)|`artmedia-bakhmut_uah`| 
  
 
 ## JSON Object 

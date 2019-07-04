@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _City TV_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![misto-tb](https://static.openfintech.io/payout_methods/misto-tb/icon.svg?w=278&c=v0.59.26#w40) |[misto-tb_uah](/payout-services/misto-tb_uah/)|`misto-tb_uah`| 
+|![misto-tb](https://static.openfintech.io/payout_methods/misto-tb/icon.png?w=278&c=v0.59.26#w40) |[misto-tb_uah](/payout-services/misto-tb_uah/)|`misto-tb_uah`| 
  
 
 ## JSON Object 

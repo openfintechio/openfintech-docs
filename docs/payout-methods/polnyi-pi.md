@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Full Pi_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![polnyi-pi](https://static.openfintech.io/payout_methods/polnyi-pi/icon.svg?w=278&c=v0.59.26#w40) |[polnyi-pi_uah](/payout-services/polnyi-pi_uah/)|`polnyi-pi_uah`| 
+|![polnyi-pi](https://static.openfintech.io/payout_methods/polnyi-pi/icon.png?w=278&c=v0.59.26#w40) |[polnyi-pi_uah](/payout-services/polnyi-pi_uah/)|`polnyi-pi_uah`| 
  
 
 ## JSON Object 

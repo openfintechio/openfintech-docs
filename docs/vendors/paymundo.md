@@ -1,6 +1,6 @@
 
 # Paymundo 
-![paymundo](https://static.openfintech.io/vendors/paymundo/logo.svg?w=400&c=v0.59.26#w200)  
+![paymundo](https://static.openfintech.io/vendors/paymundo/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  40 Villa FairholmeXBX1095 Sir Augustus Bartolo StreetTa'XbiexMalta
 
 ### Logo 
  
-![paymundo](https://static.openfintech.io/vendors/paymundo/logo.svg?w=400&c=v0.59.26#w200)  
+![paymundo](https://static.openfintech.io/vendors/paymundo/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paymundo/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paymundo/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paymundo](https://static.openfintech.io/vendors/paymundo/icon.svg?w=278&c=v0.59.26#w100)  
+![paymundo](https://static.openfintech.io/vendors/paymundo/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paymundo/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paymundo/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Direct Debit 
-![directdebit](https://static.openfintech.io/vendors/directdebit/logo.svg?w=400&c=v0.59.26#w200)  
+![directdebit](https://static.openfintech.io/vendors/directdebit/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![directdebit](https://static.openfintech.io/vendors/directdebit/logo.svg?w=400&c=v0.59.26#w200)  
+![directdebit](https://static.openfintech.io/vendors/directdebit/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/directdebit/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/directdebit/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![directdebit](https://static.openfintech.io/vendors/directdebit/icon.svg?w=278&c=v0.59.26#w100)  
+![directdebit](https://static.openfintech.io/vendors/directdebit/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/directdebit/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/directdebit/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

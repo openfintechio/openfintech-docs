@@ -1,6 +1,6 @@
 
 # PayJunction 
-![payjunction](https://static.openfintech.io/vendors/payjunction/logo.svg?w=400&c=v0.59.26#w200)  
+![payjunction](https://static.openfintech.io/vendors/payjunction/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Santa Barbara United States of America
 
 ### Logo 
  
-![payjunction](https://static.openfintech.io/vendors/payjunction/logo.svg?w=400&c=v0.59.26#w200)  
+![payjunction](https://static.openfintech.io/vendors/payjunction/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payjunction/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payjunction/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payjunction](https://static.openfintech.io/vendors/payjunction/icon.svg?w=278&c=v0.59.26#w100)  
+![payjunction](https://static.openfintech.io/vendors/payjunction/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payjunction/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payjunction/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

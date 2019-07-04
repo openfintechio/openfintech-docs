@@ -1,6 +1,6 @@
 
 # Text2Pay 
-![text2pay](https://static.openfintech.io/vendors/text2pay/logo.svg?w=400&c=v0.59.26#w200)  
+![text2pay](https://static.openfintech.io/vendors/text2pay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  New YorkNY 10119 New YorkUnited States of America
 
 ### Logo 
  
-![text2pay](https://static.openfintech.io/vendors/text2pay/logo.svg?w=400&c=v0.59.26#w200)  
+![text2pay](https://static.openfintech.io/vendors/text2pay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/text2pay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/text2pay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![text2pay](https://static.openfintech.io/vendors/text2pay/icon.svg?w=278&c=v0.59.26#w100)  
+![text2pay](https://static.openfintech.io/vendors/text2pay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/text2pay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/text2pay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

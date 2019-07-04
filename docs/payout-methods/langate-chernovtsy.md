@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _LanGate (Chernivt
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![langate-chernovtsy](https://static.openfintech.io/payout_methods/langate-chernovtsy/icon.svg?w=278&c=v0.59.26#w40) |[langate-chernovtsy_uah](/payout-services/langate-chernovtsy_uah/)|`langate-chernovtsy_uah`| 
+|![langate-chernovtsy](https://static.openfintech.io/payout_methods/langate-chernovtsy/icon.png?w=278&c=v0.59.26#w40) |[langate-chernovtsy_uah](/payout-services/langate-chernovtsy_uah/)|`langate-chernovtsy_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # ASSIST 
-![assist](https://static.openfintech.io/vendors/assist/logo.svg?w=400&c=v0.59.26#w200)  
+![assist](https://static.openfintech.io/vendors/assist/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -26,18 +26,18 @@ street:  9, Komissara Smirnova Str. St. PetersburgRussian Federation
 
 ### Logo 
  
-![assist](https://static.openfintech.io/vendors/assist/logo.svg?w=400&c=v0.59.26#w200)  
+![assist](https://static.openfintech.io/vendors/assist/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/assist/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/assist/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![assist](https://static.openfintech.io/vendors/assist/icon.svg?w=278&c=v0.59.26#w100)  
+![assist](https://static.openfintech.io/vendors/assist/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/assist/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/assist/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

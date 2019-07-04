@@ -1,6 +1,6 @@
 
 # Coinsnap 
-![coinsnap](https://static.openfintech.io/vendors/coinsnap/logo.svg?w=400&c=v0.59.26#w200)  
+![coinsnap](https://static.openfintech.io/vendors/coinsnap/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Jonkerbosplein 52-17e ètage6534 AB NijmegenNetherlands
 
 ### Logo 
  
-![coinsnap](https://static.openfintech.io/vendors/coinsnap/logo.svg?w=400&c=v0.59.26#w200)  
+![coinsnap](https://static.openfintech.io/vendors/coinsnap/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/coinsnap/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/coinsnap/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![coinsnap](https://static.openfintech.io/vendors/coinsnap/icon.svg?w=278&c=v0.59.26#w100)  
+![coinsnap](https://static.openfintech.io/vendors/coinsnap/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/coinsnap/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/coinsnap/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

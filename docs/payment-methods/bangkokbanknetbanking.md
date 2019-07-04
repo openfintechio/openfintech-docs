@@ -1,6 +1,6 @@
 
 # Bangkok Bank netbanking 
-![bangkokbanknetbanking](https://static.openfintech.io/payment_methods/bangkokbanknetbanking/logo.svg?w=400&c=v0.59.26#w200)  
+![bangkokbanknetbanking](https://static.openfintech.io/payment_methods/bangkokbanknetbanking/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `bangkokbanknetbanking` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![bangkokbanknetbanking](https://static.openfintech.io/payment_methods/bangkokbanknetbanking/logo.svg?w=400&c=v0.59.26#w200)  
+![bangkokbanknetbanking](https://static.openfintech.io/payment_methods/bangkokbanknetbanking/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/bangkokbanknetbanking/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/bangkokbanknetbanking/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![bangkokbanknetbanking](https://static.openfintech.io/payment_methods/bangkokbanknetbanking/icon.svg?w=278&c=v0.59.26#w100)  
+![bangkokbanknetbanking](https://static.openfintech.io/payment_methods/bangkokbanknetbanking/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/bangkokbanknetbanking/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/bangkokbanknetbanking/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,8 +43,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Bangkok B
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
-|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.svg?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.png?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
  
 
 ## JSON Object 

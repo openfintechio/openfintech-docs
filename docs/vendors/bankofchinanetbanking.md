@@ -1,6 +1,6 @@
 
 # Bank of China netbanking 
-![bankofchinanetbanking](https://static.openfintech.io/vendors/bankofchinanetbanking/logo.svg?w=400&c=v0.59.26#w200)  
+![bankofchinanetbanking](https://static.openfintech.io/vendors/bankofchinanetbanking/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![bankofchinanetbanking](https://static.openfintech.io/vendors/bankofchinanetbanking/logo.svg?w=400&c=v0.59.26#w200)  
+![bankofchinanetbanking](https://static.openfintech.io/vendors/bankofchinanetbanking/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/bankofchinanetbanking/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/bankofchinanetbanking/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![bankofchinanetbanking](https://static.openfintech.io/vendors/bankofchinanetbanking/icon.svg?w=278&c=v0.59.26#w100)  
+![bankofchinanetbanking](https://static.openfintech.io/vendors/bankofchinanetbanking/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/bankofchinanetbanking/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/bankofchinanetbanking/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

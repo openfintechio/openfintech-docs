@@ -1,6 +1,6 @@
 
 # Payment Center 
-![paymentcenter](https://static.openfintech.io/payment_providers/paymentcenter/logo.svg?w=400&c=v0.59.26#w100)  
+![paymentcenter](https://static.openfintech.io/payment_providers/paymentcenter/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![paymentcenter](https://static.openfintech.io/payment_providers/paymentcenter/logo.svg?w=400&c=v0.59.26#w100)  
+![paymentcenter](https://static.openfintech.io/payment_providers/paymentcenter/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paymentcenter/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paymentcenter/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![paymentcenter](https://static.openfintech.io/payment_providers/paymentcenter/icon.svg?w=278&c=v0.59.26#w100)  
+![paymentcenter](https://static.openfintech.io/payment_providers/paymentcenter/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paymentcenter/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paymentcenter/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payout Methods 

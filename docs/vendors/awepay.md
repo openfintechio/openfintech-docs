@@ -1,6 +1,6 @@
 
 # AWEpay 
-![awepay](https://static.openfintech.io/vendors/awepay/logo.svg?w=400&c=v0.59.26#w200)  
+![awepay](https://static.openfintech.io/vendors/awepay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Kuala Lumpur Kuala LumpurMalaysia
 
 ### Logo 
  
-![awepay](https://static.openfintech.io/vendors/awepay/logo.svg?w=400&c=v0.59.26#w200)  
+![awepay](https://static.openfintech.io/vendors/awepay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/awepay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/awepay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![awepay](https://static.openfintech.io/vendors/awepay/icon.svg?w=278&c=v0.59.26#w100)  
+![awepay](https://static.openfintech.io/vendors/awepay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/awepay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/awepay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

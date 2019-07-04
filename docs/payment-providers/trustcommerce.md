@@ -1,6 +1,6 @@
 
 # TrustCommerce 
-![trustcommerce](https://static.openfintech.io/payment_providers/trustcommerce/logo.svg?w=400&c=v0.59.26#w100)  
+![trustcommerce](https://static.openfintech.io/payment_providers/trustcommerce/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![trustcommerce](https://static.openfintech.io/payment_providers/trustcommerce/logo.svg?w=400&c=v0.59.26#w100)  
+![trustcommerce](https://static.openfintech.io/payment_providers/trustcommerce/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/trustcommerce/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/trustcommerce/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![trustcommerce](https://static.openfintech.io/payment_providers/trustcommerce/icon.svg?w=278&c=v0.59.26#w100)  
+![trustcommerce](https://static.openfintech.io/payment_providers/trustcommerce/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/trustcommerce/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/trustcommerce/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

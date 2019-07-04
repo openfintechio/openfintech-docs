@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _GeoNik (South)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![geonik-iuzhne](https://static.openfintech.io/payout_methods/geonik-iuzhne/icon.svg?w=278&c=v0.59.26#w40) |[geonik-iuzhne_uah](/payout-services/geonik-iuzhne_uah/)|`geonik-iuzhne_uah`| 
+|![geonik-iuzhne](https://static.openfintech.io/payout_methods/geonik-iuzhne/icon.png?w=278&c=v0.59.26#w40) |[geonik-iuzhne_uah](/payout-services/geonik-iuzhne_uah/)|`geonik-iuzhne_uah`| 
  
 
 ## JSON Object 

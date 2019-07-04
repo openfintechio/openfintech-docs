@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Comfort (Vin
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-komfort-vinnitsa](https://static.openfintech.io/payout_methods/taksi-komfort-vinnitsa/icon.svg?w=278&c=v0.59.26#w40) |[taksi-komfort-vinnitsa_uah](/payout-services/taksi-komfort-vinnitsa_uah/)|`taksi-komfort-vinnitsa_uah`| 
+|![taksi-komfort-vinnitsa](https://static.openfintech.io/payout_methods/taksi-komfort-vinnitsa/icon.png?w=278&c=v0.59.26#w40) |[taksi-komfort-vinnitsa_uah](/payout-services/taksi-komfort-vinnitsa_uah/)|`taksi-komfort-vinnitsa_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _CONTECH_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kontekh](https://static.openfintech.io/payout_methods/kontekh/icon.svg?w=278&c=v0.59.26#w40) |[kontekh_uah](/payout-services/kontekh_uah/)|`kontekh_uah`| 
+|![kontekh](https://static.openfintech.io/payout_methods/kontekh/icon.png?w=278&c=v0.59.26#w40) |[kontekh_uah](/payout-services/kontekh_uah/)|`kontekh_uah`| 
  
 
 ## JSON Object 

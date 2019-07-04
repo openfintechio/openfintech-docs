@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Malta (Zhytomyr)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![malta-zhitomir](https://static.openfintech.io/payout_methods/malta-zhitomir/icon.svg?w=278&c=v0.59.26#w40) |[malta-zhitomir_uah](/payout-services/malta-zhitomir_uah/)|`malta-zhitomir_uah`| 
+|![malta-zhitomir](https://static.openfintech.io/payout_methods/malta-zhitomir/icon.png?w=278&c=v0.59.26#w40) |[malta-zhitomir_uah](/payout-services/malta-zhitomir_uah/)|`malta-zhitomir_uah`| 
  
 
 ## JSON Object 

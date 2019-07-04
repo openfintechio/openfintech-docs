@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _CISGT (Artemovsk)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kmkpt-artemovsk](https://static.openfintech.io/payout_methods/kmkpt-artemovsk/icon.svg?w=278&c=v0.59.26#w40) |[kmkpt-artemovsk_uah](/payout-services/kmkpt-artemovsk_uah/)|`kmkpt-artemovsk_uah`| 
+|![kmkpt-artemovsk](https://static.openfintech.io/payout_methods/kmkpt-artemovsk/icon.png?w=278&c=v0.59.26#w40) |[kmkpt-artemovsk_uah](/payout-services/kmkpt-artemovsk_uah/)|`kmkpt-artemovsk_uah`| 
  
 
 ## JSON Object 

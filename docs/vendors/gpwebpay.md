@@ -1,6 +1,6 @@
 
 # GP webpay 
-![gpwebpay](https://static.openfintech.io/vendors/gpwebpay/logo.svg?w=400&c=v0.59.26#w200)  
+![gpwebpay](https://static.openfintech.io/vendors/gpwebpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  100 00 PragueCzech Republic
 
 ### Logo 
  
-![gpwebpay](https://static.openfintech.io/vendors/gpwebpay/logo.svg?w=400&c=v0.59.26#w200)  
+![gpwebpay](https://static.openfintech.io/vendors/gpwebpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/gpwebpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/gpwebpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![gpwebpay](https://static.openfintech.io/vendors/gpwebpay/icon.svg?w=278&c=v0.59.26#w100)  
+![gpwebpay](https://static.openfintech.io/vendors/gpwebpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/gpwebpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/gpwebpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

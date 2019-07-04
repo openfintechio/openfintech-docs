@@ -1,6 +1,6 @@
 
 # LianlianPay 
-![lianlianpay](https://static.openfintech.io/vendors/lianlianpay/logo.svg?w=400&c=v0.59.26#w200)  
+![lianlianpay](https://static.openfintech.io/vendors/lianlianpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  6th Floor, Chaorenhui Plaza, No.3688 Jiangnan Avenue, Binjiang District
 
 ### Logo 
  
-![lianlianpay](https://static.openfintech.io/vendors/lianlianpay/logo.svg?w=400&c=v0.59.26#w200)  
+![lianlianpay](https://static.openfintech.io/vendors/lianlianpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/lianlianpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/lianlianpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![lianlianpay](https://static.openfintech.io/vendors/lianlianpay/icon.svg?w=278&c=v0.59.26#w100)  
+![lianlianpay](https://static.openfintech.io/vendors/lianlianpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/lianlianpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/lianlianpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ISP Imperial (Kir
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![isp-imperial-kirovograd](https://static.openfintech.io/payout_methods/isp-imperial-kirovograd/icon.svg?w=278&c=v0.59.26#w40) |[isp-imperial-kirovograd_uah](/payout-services/isp-imperial-kirovograd_uah/)|`isp-imperial-kirovograd_uah`| 
+|![isp-imperial-kirovograd](https://static.openfintech.io/payout_methods/isp-imperial-kirovograd/icon.png?w=278&c=v0.59.26#w40) |[isp-imperial-kirovograd_uah](/payout-services/isp-imperial-kirovograd_uah/)|`isp-imperial-kirovograd_uah`| 
  
 
 ## JSON Object 

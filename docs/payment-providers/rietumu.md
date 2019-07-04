@@ -1,6 +1,6 @@
 
 # Rietumu Banka 
-![rietumu](https://static.openfintech.io/payment_providers/rietumu/logo.svg?w=400&c=v0.59.26#w100)  
+![rietumu](https://static.openfintech.io/payment_providers/rietumu/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![rietumu](https://static.openfintech.io/payment_providers/rietumu/logo.svg?w=400&c=v0.59.26#w100)  
+![rietumu](https://static.openfintech.io/payment_providers/rietumu/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/rietumu/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/rietumu/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![rietumu](https://static.openfintech.io/payment_providers/rietumu/icon.svg?w=278&c=v0.59.26#w100)  
+![rietumu](https://static.openfintech.io/payment_providers/rietumu/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/rietumu/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/rietumu/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

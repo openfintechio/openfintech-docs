@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Skype_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![skype](https://static.openfintech.io/payout_methods/skype/icon.svg?w=278&c=v0.59.26#w40) |[skype_uah](/payout-services/skype_uah/)|`skype_uah`| 
+|![skype](https://static.openfintech.io/payout_methods/skype/icon.png?w=278&c=v0.59.26#w40) |[skype_uah](/payout-services/skype_uah/)|`skype_uah`| 
  
 
 ## JSON Object 

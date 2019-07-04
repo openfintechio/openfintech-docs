@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ARS (Odessa regio
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ars-odesskaia-oblast](https://static.openfintech.io/payout_methods/ars-odesskaia-oblast/icon.svg?w=278&c=v0.59.26#w40) |[ars-odesskaia-oblast_uah](/payout-services/ars-odesskaia-oblast_uah/)|`ars-odesskaia-oblast_uah`| 
+|![ars-odesskaia-oblast](https://static.openfintech.io/payout_methods/ars-odesskaia-oblast/icon.png?w=278&c=v0.59.26#w40) |[ars-odesskaia-oblast_uah](/payout-services/ars-odesskaia-oblast_uah/)|`ars-odesskaia-oblast_uah`| 
  
 
 ## JSON Object 

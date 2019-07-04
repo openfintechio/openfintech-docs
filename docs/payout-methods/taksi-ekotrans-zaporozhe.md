@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Ecotrans (Za
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-ekotrans-zaporozhe](https://static.openfintech.io/payout_methods/taksi-ekotrans-zaporozhe/icon.svg?w=278&c=v0.59.26#w40) |[taksi-ekotrans-zaporozhe_uah](/payout-services/taksi-ekotrans-zaporozhe_uah/)|`taksi-ekotrans-zaporozhe_uah`| 
+|![taksi-ekotrans-zaporozhe](https://static.openfintech.io/payout_methods/taksi-ekotrans-zaporozhe/icon.png?w=278&c=v0.59.26#w40) |[taksi-ekotrans-zaporozhe_uah](/payout-services/taksi-ekotrans-zaporozhe_uah/)|`taksi-ekotrans-zaporozhe_uah`| 
  
 
 ## JSON Object 

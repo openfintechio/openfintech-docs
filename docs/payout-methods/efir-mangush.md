@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Ether (Mangush)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![efir-mangush](https://static.openfintech.io/payout_methods/efir-mangush/icon.svg?w=278&c=v0.59.26#w40) |[efir-mangush_uah](/payout-services/efir-mangush_uah/)|`efir-mangush_uah`| 
+|![efir-mangush](https://static.openfintech.io/payout_methods/efir-mangush/icon.png?w=278&c=v0.59.26#w40) |[efir-mangush_uah](/payout-services/efir-mangush_uah/)|`efir-mangush_uah`| 
  
 
 ## JSON Object 

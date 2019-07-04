@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Shark (Dnipr
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-shark-dnepr](https://static.openfintech.io/payout_methods/taksi-shark-dnepr/icon.svg?w=278&c=v0.59.26#w40) |[taksi-shark-dnepr_uah](/payout-services/taksi-shark-dnepr_uah/)|`taksi-shark-dnepr_uah`| 
+|![taksi-shark-dnepr](https://static.openfintech.io/payout_methods/taksi-shark-dnepr/icon.png?w=278&c=v0.59.26#w40) |[taksi-shark-dnepr_uah](/payout-services/taksi-shark-dnepr_uah/)|`taksi-shark-dnepr_uah`| 
  
 
 ## JSON Object 

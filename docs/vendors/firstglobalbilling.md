@@ -1,6 +1,6 @@
 
 # First Global Billing 
-![firstglobalbilling](https://static.openfintech.io/vendors/firstglobalbilling/logo.svg?w=400&c=v0.59.26#w200)  
+![firstglobalbilling](https://static.openfintech.io/vendors/firstglobalbilling/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Ballston Spa, NY Ballston Spa, NYUnited States of America
 
 ### Logo 
  
-![firstglobalbilling](https://static.openfintech.io/vendors/firstglobalbilling/logo.svg?w=400&c=v0.59.26#w200)  
+![firstglobalbilling](https://static.openfintech.io/vendors/firstglobalbilling/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/firstglobalbilling/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/firstglobalbilling/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![firstglobalbilling](https://static.openfintech.io/vendors/firstglobalbilling/icon.svg?w=278&c=v0.59.26#w100)  
+![firstglobalbilling](https://static.openfintech.io/vendors/firstglobalbilling/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/firstglobalbilling/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/firstglobalbilling/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

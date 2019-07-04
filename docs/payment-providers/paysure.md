@@ -1,6 +1,6 @@
 
 # Paysure 
-![paysure](https://static.openfintech.io/payment_providers/paysure/logo.svg?w=400&c=v0.59.26#w100)  
+![paysure](https://static.openfintech.io/payment_providers/paysure/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![paysure](https://static.openfintech.io/payment_providers/paysure/logo.svg?w=400&c=v0.59.26#w100)  
+![paysure](https://static.openfintech.io/payment_providers/paysure/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paysure/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paysure/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![paysure](https://static.openfintech.io/payment_providers/paysure/icon.svg?w=278&c=v0.59.26#w100)  
+![paysure](https://static.openfintech.io/payment_providers/paysure/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paysure/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paysure/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _TravelSIM_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![travelsim](https://static.openfintech.io/payout_methods/travelsim/icon.svg?w=278&c=v0.59.26#w40) |[travelsim_uah](/payout-services/travelsim_uah/)|`travelsim_uah`| 
+|![travelsim](https://static.openfintech.io/payout_methods/travelsim/icon.png?w=278&c=v0.59.26#w40) |[travelsim_uah](/payout-services/travelsim_uah/)|`travelsim_uah`| 
  
 
 ## JSON Object 

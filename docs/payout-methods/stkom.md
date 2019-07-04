@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _STKT_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![stkom](https://static.openfintech.io/payout_methods/stkom/icon.svg?w=278&c=v0.59.26#w40) |[stkom_uah](/payout-services/stkom_uah/)|`stkom_uah`| 
+|![stkom](https://static.openfintech.io/payout_methods/stkom/icon.png?w=278&c=v0.59.26#w40) |[stkom_uah](/payout-services/stkom_uah/)|`stkom_uah`| 
  
 
 ## JSON Object 

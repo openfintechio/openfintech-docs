@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _UAProstir_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![uaprostir](https://static.openfintech.io/payout_methods/uaprostir/icon.svg?w=278&c=v0.59.26#w40) |[uaprostir_uah](/payout-services/uaprostir_uah/)|`uaprostir_uah`| 
+|![uaprostir](https://static.openfintech.io/payout_methods/uaprostir/icon.png?w=278&c=v0.59.26#w40) |[uaprostir_uah](/payout-services/uaprostir_uah/)|`uaprostir_uah`| 
  
 
 ## JSON Object 

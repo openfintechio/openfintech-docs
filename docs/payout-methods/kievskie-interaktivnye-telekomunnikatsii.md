@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Kiev Interactive 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kievskie-interaktivnye-telekomunnikatsii](https://static.openfintech.io/payout_methods/kievskie-interaktivnye-telekomunnikatsii/icon.svg?w=278&c=v0.59.26#w40) |[kievskie-interaktivnye-telekomunnikatsii_uah](/payout-services/kievskie-interaktivnye-telekomunnikatsii_uah/)|`kievskie-interaktivnye-telekomunnikatsii_uah`| 
+|![kievskie-interaktivnye-telekomunnikatsii](https://static.openfintech.io/payout_methods/kievskie-interaktivnye-telekomunnikatsii/icon.png?w=278&c=v0.59.26#w40) |[kievskie-interaktivnye-telekomunnikatsii_uah](/payout-services/kievskie-interaktivnye-telekomunnikatsii_uah/)|`kievskie-interaktivnye-telekomunnikatsii_uah`| 
  
 
 ## JSON Object 

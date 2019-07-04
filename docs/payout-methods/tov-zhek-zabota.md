@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _LLC ZHEK Care_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tov-zhek-zabota](https://static.openfintech.io/payout_methods/tov-zhek-zabota/icon.svg?w=278&c=v0.59.26#w40) |[tov-zhek-zabota_uah](/payout-services/tov-zhek-zabota_uah/)|`tov-zhek-zabota_uah`| 
+|![tov-zhek-zabota](https://static.openfintech.io/payout_methods/tov-zhek-zabota/icon.png?w=278&c=v0.59.26#w40) |[tov-zhek-zabota_uah](/payout-services/tov-zhek-zabota_uah/)|`tov-zhek-zabota_uah`| 
  
 
 ## JSON Object 

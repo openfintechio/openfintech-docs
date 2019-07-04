@@ -1,6 +1,6 @@
 
 # AltaPay 
-![altapay](https://static.openfintech.io/vendors/altapay/logo.svg?w=400&c=v0.59.26#w200)  
+![altapay](https://static.openfintech.io/vendors/altapay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  Gyngemose Parkvej 50DK-2860 SøborgDenmark
 
 ### Logo 
  
-![altapay](https://static.openfintech.io/vendors/altapay/logo.svg?w=400&c=v0.59.26#w200)  
+![altapay](https://static.openfintech.io/vendors/altapay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/altapay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/altapay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![altapay](https://static.openfintech.io/vendors/altapay/icon.svg?w=278&c=v0.59.26#w100)  
+![altapay](https://static.openfintech.io/vendors/altapay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/altapay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/altapay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

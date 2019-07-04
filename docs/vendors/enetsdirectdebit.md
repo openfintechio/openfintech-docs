@@ -1,6 +1,6 @@
 
 # eNETS Direct Debit 
-![enetsdirectdebit](https://static.openfintech.io/vendors/enetsdirectdebit/logo.svg?w=400&c=v0.59.26#w200)  
+![enetsdirectdebit](https://static.openfintech.io/vendors/enetsdirectdebit/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![enetsdirectdebit](https://static.openfintech.io/vendors/enetsdirectdebit/logo.svg?w=400&c=v0.59.26#w200)  
+![enetsdirectdebit](https://static.openfintech.io/vendors/enetsdirectdebit/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/enetsdirectdebit/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/enetsdirectdebit/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![enetsdirectdebit](https://static.openfintech.io/vendors/enetsdirectdebit/icon.svg?w=278&c=v0.59.26#w100)  
+![enetsdirectdebit](https://static.openfintech.io/vendors/enetsdirectdebit/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/enetsdirectdebit/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/enetsdirectdebit/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

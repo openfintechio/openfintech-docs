@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _WEB service (logi
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![web-service-login-zhitomirskaia-obl](https://static.openfintech.io/payout_methods/web-service-login-zhitomirskaia-obl/icon.svg?w=278&c=v0.59.26#w40) |[web-service-login-zhitomirskaia-obl_uah](/payout-services/web-service-login-zhitomirskaia-obl_uah/)|`web-service-login-zhitomirskaia-obl_uah`| 
+|![web-service-login-zhitomirskaia-obl](https://static.openfintech.io/payout_methods/web-service-login-zhitomirskaia-obl/icon.png?w=278&c=v0.59.26#w40) |[web-service-login-zhitomirskaia-obl_uah](/payout-services/web-service-login-zhitomirskaia-obl_uah/)|`web-service-login-zhitomirskaia-obl_uah`| 
  
 
 ## JSON Object 

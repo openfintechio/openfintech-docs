@@ -1,6 +1,6 @@
 
 # LTC 
-![LTC](https://static.openfintech.io/currencies/LTC/icon.svg?w=278&c=v0.59.26#w100)  
+![LTC](https://static.openfintech.io/currencies/LTC/icon.png?w=278&c=v0.59.26#w100)  
 
 ## General 
  
@@ -31,10 +31,10 @@
 
 ### Icon 
  
-![LTC](https://static.openfintech.io/currencies/LTC/icon.svg?w=278&c=v0.59.26#w100)  
+![LTC](https://static.openfintech.io/currencies/LTC/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/currencies/LTC/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/currencies/LTC/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _PRIMONET (Lviv an
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![primonet-lviv-ta-lvivska-obl](https://static.openfintech.io/payout_methods/primonet-lviv-ta-lvivska-obl/icon.svg?w=278&c=v0.59.26#w40) |[primonet-lviv-ta-lvivska-obl_uah](/payout-services/primonet-lviv-ta-lvivska-obl_uah/)|`primonet-lviv-ta-lvivska-obl_uah`| 
+|![primonet-lviv-ta-lvivska-obl](https://static.openfintech.io/payout_methods/primonet-lviv-ta-lvivska-obl/icon.png?w=278&c=v0.59.26#w40) |[primonet-lviv-ta-lvivska-obl_uah](/payout-services/primonet-lviv-ta-lvivska-obl_uah/)|`primonet-lviv-ta-lvivska-obl_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # micropayment™ GmbH 
-![micropaymentgmbh](https://static.openfintech.io/payment_providers/micropaymentgmbh/logo.svg?w=400&c=v0.59.26#w100)  
+![micropaymentgmbh](https://static.openfintech.io/payment_providers/micropaymentgmbh/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![micropaymentgmbh](https://static.openfintech.io/payment_providers/micropaymentgmbh/logo.svg?w=400&c=v0.59.26#w100)  
+![micropaymentgmbh](https://static.openfintech.io/payment_providers/micropaymentgmbh/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/micropaymentgmbh/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/micropaymentgmbh/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![micropaymentgmbh](https://static.openfintech.io/payment_providers/micropaymentgmbh/icon.svg?w=278&c=v0.59.26#w100)  
+![micropaymentgmbh](https://static.openfintech.io/payment_providers/micropaymentgmbh/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/micropaymentgmbh/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/micropaymentgmbh/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

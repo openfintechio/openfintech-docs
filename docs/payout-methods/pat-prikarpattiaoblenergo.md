@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _PJSC Prykarpattya
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![pat-prikarpattiaoblenergo](https://static.openfintech.io/payout_methods/pat-prikarpattiaoblenergo/icon.svg?w=278&c=v0.59.26#w40) |[pat-prikarpattiaoblenergo_uah](/payout-services/pat-prikarpattiaoblenergo_uah/)|`pat-prikarpattiaoblenergo_uah`| 
+|![pat-prikarpattiaoblenergo](https://static.openfintech.io/payout_methods/pat-prikarpattiaoblenergo/icon.png?w=278&c=v0.59.26#w40) |[pat-prikarpattiaoblenergo_uah](/payout-services/pat-prikarpattiaoblenergo_uah/)|`pat-prikarpattiaoblenergo_uah`| 
  
 
 ## JSON Object 

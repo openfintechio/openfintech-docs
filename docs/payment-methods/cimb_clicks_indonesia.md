@@ -1,6 +1,6 @@
 
 # CIMB Clicks Indonesia 
-![cimb_clicks_indonesia](https://static.openfintech.io/payment_methods/cimb_clicks_indonesia/logo.svg?w=400&c=v0.59.26#w200)  
+![cimb_clicks_indonesia](https://static.openfintech.io/payment_methods/cimb_clicks_indonesia/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `cimb_clicks_indonesia` 
@@ -15,17 +15,17 @@
 ## Images 
 
 ### Logo 
-![cimb_clicks_indonesia](https://static.openfintech.io/payment_methods/cimb_clicks_indonesia/logo.svg?w=400&c=v0.59.26#w200)  
+![cimb_clicks_indonesia](https://static.openfintech.io/payment_methods/cimb_clicks_indonesia/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/cimb_clicks_indonesia/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/cimb_clicks_indonesia/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![cimb_clicks_indonesia](https://static.openfintech.io/payment_methods/cimb_clicks_indonesia/icon.svg?w=278&c=v0.59.26#w100)  
+![cimb_clicks_indonesia](https://static.openfintech.io/payment_methods/cimb_clicks_indonesia/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/cimb_clicks_indonesia/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/cimb_clicks_indonesia/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -34,7 +34,7 @@ The list of [Payment Services](/payment-services/) based on the _CIMB Clicks Ind
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![cimb_clicks_indonesia](https://static.openfintech.io/payment_methods/cimb_clicks_indonesia/icon.svg?w=278&c=v0.59.26#w100) |[cimb_clicks_indonesia_idr_hpp](/payment-services/cimb_clicks_indonesia_idr_hpp/)|`cimb_clicks_indonesia_idr_hpp`| 
+|![cimb_clicks_indonesia](https://static.openfintech.io/payment_methods/cimb_clicks_indonesia/icon.png?w=278&c=v0.59.26#w100) |[cimb_clicks_indonesia_idr_hpp](/payment-services/cimb_clicks_indonesia_idr_hpp/)|`cimb_clicks_indonesia_idr_hpp`| 
  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _CIMB Clic
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![paysec](https://static.openfintech.io/payment_providers/paysec/icon.svg?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
+|![paysec](https://static.openfintech.io/payment_providers/paysec/icon.png?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
  
 
 ## JSON Object 

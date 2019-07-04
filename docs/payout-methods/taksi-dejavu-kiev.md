@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi DEJAVU (Kiev
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-dejavu-kiev](https://static.openfintech.io/payout_methods/taksi-dejavu-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-dejavu-kiev_uah](/payout-services/taksi-dejavu-kiev_uah/)|`taksi-dejavu-kiev_uah`| 
+|![taksi-dejavu-kiev](https://static.openfintech.io/payout_methods/taksi-dejavu-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-dejavu-kiev_uah](/payout-services/taksi-dejavu-kiev_uah/)|`taksi-dejavu-kiev_uah`| 
  
 
 ## JSON Object 

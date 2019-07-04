@@ -1,6 +1,6 @@
 
 # OTP Bank 
-![otpbank](https://static.openfintech.io/payment_methods/otpbank/logo.svg?w=400&c=v0.59.26#w200)  
+![otpbank](https://static.openfintech.io/payment_methods/otpbank/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `otpbank` 
@@ -26,17 +26,17 @@
 ## Images 
 
 ### Logo 
-![otpbank](https://static.openfintech.io/payment_methods/otpbank/logo.svg?w=400&c=v0.59.26#w200)  
+![otpbank](https://static.openfintech.io/payment_methods/otpbank/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/otpbank/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/otpbank/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![otpbank](https://static.openfintech.io/payment_methods/otpbank/icon.svg?w=278&c=v0.59.26#w100)  
+![otpbank](https://static.openfintech.io/payment_methods/otpbank/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/otpbank/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/otpbank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

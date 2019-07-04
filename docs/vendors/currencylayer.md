@@ -1,6 +1,6 @@
 
 # Currencylayer 
-![currencylayer](https://static.openfintech.io/vendors/currencylayer/logo.svg?w=400&c=v0.59.26#w200)  
+![currencylayer](https://static.openfintech.io/vendors/currencylayer/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -20,18 +20,18 @@
 
 ### Logo 
  
-![currencylayer](https://static.openfintech.io/vendors/currencylayer/logo.svg?w=400&c=v0.59.26#w200)  
+![currencylayer](https://static.openfintech.io/vendors/currencylayer/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/currencylayer/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/currencylayer/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![currencylayer](https://static.openfintech.io/vendors/currencylayer/icon.svg?w=278&c=v0.59.26#w100)  
+![currencylayer](https://static.openfintech.io/vendors/currencylayer/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/currencylayer/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/currencylayer/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

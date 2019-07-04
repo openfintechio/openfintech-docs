@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _TV Center_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tsentr-tv](https://static.openfintech.io/payout_methods/tsentr-tv/icon.svg?w=278&c=v0.59.26#w40) |[tsentr-tv_uah](/payout-services/tsentr-tv_uah/)|`tsentr-tv_uah`| 
+|![tsentr-tv](https://static.openfintech.io/payout_methods/tsentr-tv/icon.png?w=278&c=v0.59.26#w40) |[tsentr-tv_uah](/payout-services/tsentr-tv_uah/)|`tsentr-tv_uah`| 
  
 
 ## JSON Object 

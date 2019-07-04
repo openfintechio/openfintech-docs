@@ -1,6 +1,6 @@
 
 # Payment21 
-![payment21](https://static.openfintech.io/vendors/payment21/logo.svg?w=400&c=v0.59.26#w200)  
+![payment21](https://static.openfintech.io/vendors/payment21/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Switzerland
 
 ### Logo 
  
-![payment21](https://static.openfintech.io/vendors/payment21/logo.svg?w=400&c=v0.59.26#w200)  
+![payment21](https://static.openfintech.io/vendors/payment21/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payment21/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payment21/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payment21](https://static.openfintech.io/vendors/payment21/icon.svg?w=278&c=v0.59.26#w100)  
+![payment21](https://static.openfintech.io/vendors/payment21/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payment21/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payment21/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

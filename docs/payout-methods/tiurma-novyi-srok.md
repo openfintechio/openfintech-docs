@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Prison. New Term_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tiurma-novyi-srok](https://static.openfintech.io/payout_methods/tiurma-novyi-srok/icon.svg?w=278&c=v0.59.26#w40) |[tiurma-novyi-srok_uah](/payout-services/tiurma-novyi-srok_uah/)|`tiurma-novyi-srok_uah`| 
+|![tiurma-novyi-srok](https://static.openfintech.io/payout_methods/tiurma-novyi-srok/icon.png?w=278&c=v0.59.26#w40) |[tiurma-novyi-srok_uah](/payout-services/tiurma-novyi-srok_uah/)|`tiurma-novyi-srok_uah`| 
  
 
 ## JSON Object 

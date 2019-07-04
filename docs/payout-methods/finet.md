@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _FiNET_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![finet](https://static.openfintech.io/payout_methods/finet/icon.svg?w=278&c=v0.59.26#w40) |[finet_uah](/payout-services/finet_uah/)|`finet_uah`| 
+|![finet](https://static.openfintech.io/payout_methods/finet/icon.png?w=278&c=v0.59.26#w40) |[finet_uah](/payout-services/finet_uah/)|`finet_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _MEGOGO (maximum)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![megogo-maksimalnaia](https://static.openfintech.io/payout_methods/megogo-maksimalnaia/icon.svg?w=278&c=v0.59.26#w40) |[megogo-maksimalnaia_uah](/payout-services/megogo-maksimalnaia_uah/)|`megogo-maksimalnaia_uah`| 
+|![megogo-maksimalnaia](https://static.openfintech.io/payout_methods/megogo-maksimalnaia/icon.png?w=278&c=v0.59.26#w40) |[megogo-maksimalnaia_uah](/payout-services/megogo-maksimalnaia_uah/)|`megogo-maksimalnaia_uah`| 
  
 
 ## JSON Object 

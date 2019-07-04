@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _KP 'Kharkiv Heati
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kp-kharkivski-teplovi-merezhi-gariache-vodopostachannia](https://static.openfintech.io/payout_methods/kp-kharkivski-teplovi-merezhi-gariache-vodopostachannia/icon.svg?w=278&c=v0.59.26#w40) |[kp-kharkivski-teplovi-merezhi-gariache-vodopostachannia_uah](/payout-services/kp-kharkivski-teplovi-merezhi-gariache-vodopostachannia_uah/)|`kp-kharkivski-teplovi-merezhi-gariache-vodopostachannia_uah`| 
+|![kp-kharkivski-teplovi-merezhi-gariache-vodopostachannia](https://static.openfintech.io/payout_methods/kp-kharkivski-teplovi-merezhi-gariache-vodopostachannia/icon.png?w=278&c=v0.59.26#w40) |[kp-kharkivski-teplovi-merezhi-gariache-vodopostachannia_uah](/payout-services/kp-kharkivski-teplovi-merezhi-gariache-vodopostachannia_uah/)|`kp-kharkivski-teplovi-merezhi-gariache-vodopostachannia_uah`| 
  
 
 ## JSON Object 

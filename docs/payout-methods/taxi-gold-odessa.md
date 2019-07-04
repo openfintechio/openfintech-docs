@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _TAXI GOLD (Odessa
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taxi-gold-odessa](https://static.openfintech.io/payout_methods/taxi-gold-odessa/icon.svg?w=278&c=v0.59.26#w40) |[taxi-gold-odessa_uah](/payout-services/taxi-gold-odessa_uah/)|`taxi-gold-odessa_uah`| 
+|![taxi-gold-odessa](https://static.openfintech.io/payout_methods/taxi-gold-odessa/icon.png?w=278&c=v0.59.26#w40) |[taxi-gold-odessa_uah](/payout-services/taxi-gold-odessa_uah/)|`taxi-gold-odessa_uah`| 
  
 
 ## JSON Object 

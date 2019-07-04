@@ -1,6 +1,6 @@
 
 # ecardon payments 
-![ecardon](https://static.openfintech.io/vendors/ecardon/logo.svg?w=400&c=v0.59.26#w200)  
+![ecardon](https://static.openfintech.io/vendors/ecardon/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Essen EssenGermany
 
 ### Logo 
  
-![ecardon](https://static.openfintech.io/vendors/ecardon/logo.svg?w=400&c=v0.59.26#w200)  
+![ecardon](https://static.openfintech.io/vendors/ecardon/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ecardon/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ecardon/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ecardon](https://static.openfintech.io/vendors/ecardon/icon.svg?w=278&c=v0.59.26#w100)  
+![ecardon](https://static.openfintech.io/vendors/ecardon/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ecardon/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ecardon/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Vantiv 
-![vantiv](https://static.openfintech.io/vendors/vantiv/logo.svg?w=400&c=v0.59.26#w200)  
+![vantiv](https://static.openfintech.io/vendors/vantiv/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  United States of America
 
 ### Logo 
  
-![vantiv](https://static.openfintech.io/vendors/vantiv/logo.svg?w=400&c=v0.59.26#w200)  
+![vantiv](https://static.openfintech.io/vendors/vantiv/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/vantiv/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/vantiv/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![vantiv](https://static.openfintech.io/vendors/vantiv/icon.svg?w=278&c=v0.59.26#w100)  
+![vantiv](https://static.openfintech.io/vendors/vantiv/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/vantiv/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/vantiv/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

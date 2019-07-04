@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Economy 7000
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-ekonom-7000-kiev](https://static.openfintech.io/payout_methods/taksi-ekonom-7000-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-ekonom-7000-kiev_uah](/payout-services/taksi-ekonom-7000-kiev_uah/)|`taksi-ekonom-7000-kiev_uah`| 
+|![taksi-ekonom-7000-kiev](https://static.openfintech.io/payout_methods/taksi-ekonom-7000-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-ekonom-7000-kiev_uah](/payout-services/taksi-ekonom-7000-kiev_uah/)|`taksi-ekonom-7000-kiev_uah`| 
  
 
 ## JSON Object 

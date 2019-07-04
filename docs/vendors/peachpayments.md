@@ -1,6 +1,6 @@
 
 # Peach Payments 
-![peachpayments](https://static.openfintech.io/vendors/peachpayments/logo.svg?w=400&c=v0.59.26#w200)  
+![peachpayments](https://static.openfintech.io/vendors/peachpayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Cape Town7925 Cape TownSouth Africa
 
 ### Logo 
  
-![peachpayments](https://static.openfintech.io/vendors/peachpayments/logo.svg?w=400&c=v0.59.26#w200)  
+![peachpayments](https://static.openfintech.io/vendors/peachpayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/peachpayments/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/peachpayments/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![peachpayments](https://static.openfintech.io/vendors/peachpayments/icon.svg?w=278&c=v0.59.26#w100)  
+![peachpayments](https://static.openfintech.io/vendors/peachpayments/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/peachpayments/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/peachpayments/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

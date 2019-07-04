@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _PE Chreda (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![pp-chereda-kiev](https://static.openfintech.io/payout_methods/pp-chereda-kiev/icon.svg?w=278&c=v0.59.26#w40) |[pp-chereda-kiev_uah](/payout-services/pp-chereda-kiev_uah/)|`pp-chereda-kiev_uah`| 
+|![pp-chereda-kiev](https://static.openfintech.io/payout_methods/pp-chereda-kiev/icon.png?w=278&c=v0.59.26#w40) |[pp-chereda-kiev_uah](/payout-services/pp-chereda-kiev_uah/)|`pp-chereda-kiev_uah`| 
  
 
 ## JSON Object 

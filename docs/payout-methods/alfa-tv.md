@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Alpha TV_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![alfa-tv](https://static.openfintech.io/payout_methods/alfa-tv/icon.svg?w=278&c=v0.59.26#w40) |[alfa-tv_uah](/payout-services/alfa-tv_uah/)|`alfa-tv_uah`| 
+|![alfa-tv](https://static.openfintech.io/payout_methods/alfa-tv/icon.png?w=278&c=v0.59.26#w40) |[alfa-tv_uah](/payout-services/alfa-tv_uah/)|`alfa-tv_uah`| 
  
 
 ## JSON Object 

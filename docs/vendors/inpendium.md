@@ -1,6 +1,6 @@
 
 # Inpendium 
-![inpendium](https://static.openfintech.io/vendors/inpendium/logo.svg?w=400&c=v0.59.26#w200)  
+![inpendium](https://static.openfintech.io/vendors/inpendium/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  SingaporeSingapore
 
 ### Logo 
  
-![inpendium](https://static.openfintech.io/vendors/inpendium/logo.svg?w=400&c=v0.59.26#w200)  
+![inpendium](https://static.openfintech.io/vendors/inpendium/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/inpendium/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/inpendium/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![inpendium](https://static.openfintech.io/vendors/inpendium/icon.svg?w=278&c=v0.59.26#w100)  
+![inpendium](https://static.openfintech.io/vendors/inpendium/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/inpendium/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/inpendium/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

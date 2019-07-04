@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Campana (Sum
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-kampania-sumy](https://static.openfintech.io/payout_methods/taksi-kampania-sumy/icon.svg?w=278&c=v0.59.26#w40) |[taksi-kampania-sumy_uah](/payout-services/taksi-kampania-sumy_uah/)|`taksi-kampania-sumy_uah`| 
+|![taksi-kampania-sumy](https://static.openfintech.io/payout_methods/taksi-kampania-sumy/icon.png?w=278&c=v0.59.26#w40) |[taksi-kampania-sumy_uah](/payout-services/taksi-kampania-sumy_uah/)|`taksi-kampania-sumy_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # VoguePay 
-![voguepay](https://static.openfintech.io/vendors/voguepay/logo.svg?w=400&c=v0.59.26#w200)  
+![voguepay](https://static.openfintech.io/vendors/voguepay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  1, Dipeolu Street Allen Avenue Junction, Awolowo Way Ikeja234 01 LagosN
 
 ### Logo 
  
-![voguepay](https://static.openfintech.io/vendors/voguepay/logo.svg?w=400&c=v0.59.26#w200)  
+![voguepay](https://static.openfintech.io/vendors/voguepay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/voguepay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/voguepay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![voguepay](https://static.openfintech.io/vendors/voguepay/icon.svg?w=278&c=v0.59.26#w100)  
+![voguepay](https://static.openfintech.io/vendors/voguepay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/voguepay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/voguepay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Groupe Credit Mutuel 
-![groupecreditmutuel](https://static.openfintech.io/vendors/groupecreditmutuel/logo.svg?w=400&c=v0.59.26#w200)  
+![groupecreditmutuel](https://static.openfintech.io/vendors/groupecreditmutuel/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  France
 
 ### Logo 
  
-![groupecreditmutuel](https://static.openfintech.io/vendors/groupecreditmutuel/logo.svg?w=400&c=v0.59.26#w200)  
+![groupecreditmutuel](https://static.openfintech.io/vendors/groupecreditmutuel/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/groupecreditmutuel/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/groupecreditmutuel/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![groupecreditmutuel](https://static.openfintech.io/vendors/groupecreditmutuel/icon.svg?w=278&c=v0.59.26#w100)  
+![groupecreditmutuel](https://static.openfintech.io/vendors/groupecreditmutuel/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/groupecreditmutuel/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/groupecreditmutuel/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

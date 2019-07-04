@@ -1,6 +1,6 @@
 
 # Beanstream 
-![beanstream](https://static.openfintech.io/vendors/beanstream/logo.svg?w=400&c=v0.59.26#w200)  
+![beanstream](https://static.openfintech.io/vendors/beanstream/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  VictoriaV8T 4M3 VictoriaCanada
 
 ### Logo 
  
-![beanstream](https://static.openfintech.io/vendors/beanstream/logo.svg?w=400&c=v0.59.26#w200)  
+![beanstream](https://static.openfintech.io/vendors/beanstream/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/beanstream/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/beanstream/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![beanstream](https://static.openfintech.io/vendors/beanstream/icon.svg?w=278&c=v0.59.26#w100)  
+![beanstream](https://static.openfintech.io/vendors/beanstream/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/beanstream/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/beanstream/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

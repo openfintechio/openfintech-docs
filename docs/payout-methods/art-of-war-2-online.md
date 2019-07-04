@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Art Of War 2: Onl
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![art-of-war-2-online](https://static.openfintech.io/payout_methods/art-of-war-2-online/icon.svg?w=278&c=v0.59.26#w40) |[art-of-war-2-online_uah](/payout-services/art-of-war-2-online_uah/)|`art-of-war-2-online_uah`| 
+|![art-of-war-2-online](https://static.openfintech.io/payout_methods/art-of-war-2-online/icon.png?w=278&c=v0.59.26#w40) |[art-of-war-2-online_uah](/payout-services/art-of-war-2-online_uah/)|`art-of-war-2-online_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Mercenaries_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![naemniki](https://static.openfintech.io/payout_methods/naemniki/icon.svg?w=278&c=v0.59.26#w40) |[naemniki_uah](/payout-services/naemniki_uah/)|`naemniki_uah`| 
+|![naemniki](https://static.openfintech.io/payout_methods/naemniki/icon.png?w=278&c=v0.59.26#w40) |[naemniki_uah](/payout-services/naemniki_uah/)|`naemniki_uah`| 
  
 
 ## JSON Object 

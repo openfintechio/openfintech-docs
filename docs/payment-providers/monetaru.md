@@ -1,6 +1,6 @@
 
 # Moneta.RU 
-![monetaru](https://static.openfintech.io/payment_providers/monetaru/logo.svg?w=400&c=v0.59.26#w100)  
+![monetaru](https://static.openfintech.io/payment_providers/monetaru/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![monetaru](https://static.openfintech.io/payment_providers/monetaru/logo.svg?w=400&c=v0.59.26#w100)  
+![monetaru](https://static.openfintech.io/payment_providers/monetaru/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/monetaru/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/monetaru/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![monetaru](https://static.openfintech.io/payment_providers/monetaru/icon.svg?w=278&c=v0.59.26#w100)  
+![monetaru](https://static.openfintech.io/payment_providers/monetaru/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/monetaru/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/monetaru/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

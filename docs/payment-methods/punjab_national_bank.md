@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Punjab Na
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![paysec](https://static.openfintech.io/payment_providers/paysec/icon.svg?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
+|![paysec](https://static.openfintech.io/payment_providers/paysec/icon.png?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # PayNetSecure 
-![paynetsecure](https://static.openfintech.io/vendors/paynetsecure/logo.svg?w=400&c=v0.59.26#w200)  
+![paynetsecure](https://static.openfintech.io/vendors/paynetsecure/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  1802 N. Carson Street89701 Carson CityNVUnited States of America
 
 ### Logo 
  
-![paynetsecure](https://static.openfintech.io/vendors/paynetsecure/logo.svg?w=400&c=v0.59.26#w200)  
+![paynetsecure](https://static.openfintech.io/vendors/paynetsecure/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paynetsecure/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paynetsecure/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paynetsecure](https://static.openfintech.io/vendors/paynetsecure/icon.svg?w=278&c=v0.59.26#w100)  
+![paynetsecure](https://static.openfintech.io/vendors/paynetsecure/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paynetsecure/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paynetsecure/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

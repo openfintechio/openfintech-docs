@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _XTRA TV_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![xtra-tv](https://static.openfintech.io/payout_methods/xtra-tv/icon.svg?w=278&c=v0.59.26#w40) |[xtra-tv_uah](/payout-services/xtra-tv_uah/)|`xtra-tv_uah`| 
+|![xtra-tv](https://static.openfintech.io/payout_methods/xtra-tv/icon.png?w=278&c=v0.59.26#w40) |[xtra-tv_uah](/payout-services/xtra-tv_uah/)|`xtra-tv_uah`| 
  
 
 ## JSON Object 

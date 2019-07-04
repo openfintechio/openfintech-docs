@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Crazy Network_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![srazy-network](https://static.openfintech.io/payout_methods/srazy-network/icon.svg?w=278&c=v0.59.26#w40) |[srazy-network_uah](/payout-services/srazy-network_uah/)|`srazy-network_uah`| 
+|![srazy-network](https://static.openfintech.io/payout_methods/srazy-network/icon.png?w=278&c=v0.59.26#w40) |[srazy-network_uah](/payout-services/srazy-network_uah/)|`srazy-network_uah`| 
  
 
 ## JSON Object 

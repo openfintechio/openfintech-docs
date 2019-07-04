@@ -1,6 +1,6 @@
 
 # Handelsbanken 
-![handelsbanken](https://static.openfintech.io/vendors/handelsbanken/logo.svg?w=400&c=v0.59.26#w200)  
+![handelsbanken](https://static.openfintech.io/vendors/handelsbanken/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![handelsbanken](https://static.openfintech.io/vendors/handelsbanken/logo.svg?w=400&c=v0.59.26#w200)  
+![handelsbanken](https://static.openfintech.io/vendors/handelsbanken/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/handelsbanken/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/handelsbanken/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![handelsbanken](https://static.openfintech.io/vendors/handelsbanken/icon.svg?w=278&c=v0.59.26#w100)  
+![handelsbanken](https://static.openfintech.io/vendors/handelsbanken/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/handelsbanken/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/handelsbanken/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

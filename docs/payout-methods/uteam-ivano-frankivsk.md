@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Uteam (Ivano-Fran
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![uteam-ivano-frankivsk](https://static.openfintech.io/payout_methods/uteam-ivano-frankivsk/icon.svg?w=278&c=v0.59.26#w40) |[uteam-ivano-frankivsk_uah](/payout-services/uteam-ivano-frankivsk_uah/)|`uteam-ivano-frankivsk_uah`| 
+|![uteam-ivano-frankivsk](https://static.openfintech.io/payout_methods/uteam-ivano-frankivsk/icon.png?w=278&c=v0.59.26#w40) |[uteam-ivano-frankivsk_uah](/payout-services/uteam-ivano-frankivsk_uah/)|`uteam-ivano-frankivsk_uah`| 
  
 
 ## JSON Object 

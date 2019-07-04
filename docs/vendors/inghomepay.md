@@ -1,6 +1,6 @@
 
 # Home'Pay 
-![inghomepay](https://static.openfintech.io/vendors/inghomepay/logo.svg?w=400&c=v0.59.26#w200)  
+![inghomepay](https://static.openfintech.io/vendors/inghomepay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![inghomepay](https://static.openfintech.io/vendors/inghomepay/logo.svg?w=400&c=v0.59.26#w200)  
+![inghomepay](https://static.openfintech.io/vendors/inghomepay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/inghomepay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/inghomepay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![inghomepay](https://static.openfintech.io/vendors/inghomepay/icon.svg?w=278&c=v0.59.26#w100)  
+![inghomepay](https://static.openfintech.io/vendors/inghomepay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/inghomepay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/inghomepay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Todito Cash 
-![toditocash](https://static.openfintech.io/vendors/toditocash/logo.svg?w=400&c=v0.59.26#w200)  
+![toditocash](https://static.openfintech.io/vendors/toditocash/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@ fax: -
 
 ### Logo 
  
-![toditocash](https://static.openfintech.io/vendors/toditocash/logo.svg?w=400&c=v0.59.26#w200)  
+![toditocash](https://static.openfintech.io/vendors/toditocash/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/toditocash/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/toditocash/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![toditocash](https://static.openfintech.io/vendors/toditocash/icon.svg?w=278&c=v0.59.26#w100)  
+![toditocash](https://static.openfintech.io/vendors/toditocash/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/toditocash/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/toditocash/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

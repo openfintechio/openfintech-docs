@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _AccessNet_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![accessnet](https://static.openfintech.io/payout_methods/accessnet/icon.svg?w=278&c=v0.59.26#w40) |[accessnet_uah](/payout-services/accessnet_uah/)|`accessnet_uah`| 
+|![accessnet](https://static.openfintech.io/payout_methods/accessnet/icon.png?w=278&c=v0.59.26#w40) |[accessnet_uah](/payout-services/accessnet_uah/)|`accessnet_uah`| 
  
 
 ## JSON Object 

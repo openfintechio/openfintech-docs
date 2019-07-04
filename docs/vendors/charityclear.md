@@ -1,6 +1,6 @@
 
 # CharityClear 
-![charityclear](https://static.openfintech.io/vendors/charityclear/logo.svg?w=400&c=v0.59.26#w200)  
+![charityclear](https://static.openfintech.io/vendors/charityclear/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Somerset TauntonSomersetUnited Kingdom
 
 ### Logo 
  
-![charityclear](https://static.openfintech.io/vendors/charityclear/logo.svg?w=400&c=v0.59.26#w200)  
+![charityclear](https://static.openfintech.io/vendors/charityclear/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/charityclear/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/charityclear/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![charityclear](https://static.openfintech.io/vendors/charityclear/icon.svg?w=278&c=v0.59.26#w100)  
+![charityclear](https://static.openfintech.io/vendors/charityclear/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/charityclear/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/charityclear/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

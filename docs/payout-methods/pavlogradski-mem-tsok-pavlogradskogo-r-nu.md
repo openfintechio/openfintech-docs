@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Pavlograd MES (CS
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![pavlogradski-mem-tsok-pavlogradskogo-r-nu](https://static.openfintech.io/payout_methods/pavlogradski-mem-tsok-pavlogradskogo-r-nu/icon.svg?w=278&c=v0.59.26#w40) |[pavlogradski-mem-tsok-pavlogradskogo-r-nu_uah](/payout-services/pavlogradski-mem-tsok-pavlogradskogo-r-nu_uah/)|`pavlogradski-mem-tsok-pavlogradskogo-r-nu_uah`| 
+|![pavlogradski-mem-tsok-pavlogradskogo-r-nu](https://static.openfintech.io/payout_methods/pavlogradski-mem-tsok-pavlogradskogo-r-nu/icon.png?w=278&c=v0.59.26#w40) |[pavlogradski-mem-tsok-pavlogradskogo-r-nu_uah](/payout-services/pavlogradski-mem-tsok-pavlogradskogo-r-nu_uah/)|`pavlogradski-mem-tsok-pavlogradskogo-r-nu_uah`| 
  
 
 ## JSON Object 

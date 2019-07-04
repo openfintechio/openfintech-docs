@@ -1,6 +1,6 @@
 
 # Scanpay 
-![scanpay](https://static.openfintech.io/vendors/scanpay/logo.svg?w=400&c=v0.59.26#w200)  
+![scanpay](https://static.openfintech.io/vendors/scanpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -19,18 +19,18 @@ street:  Denmark
 
 ### Logo 
  
-![scanpay](https://static.openfintech.io/vendors/scanpay/logo.svg?w=400&c=v0.59.26#w200)  
+![scanpay](https://static.openfintech.io/vendors/scanpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/scanpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/scanpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![scanpay](https://static.openfintech.io/vendors/scanpay/icon.svg?w=278&c=v0.59.26#w100)  
+![scanpay](https://static.openfintech.io/vendors/scanpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/scanpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/scanpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

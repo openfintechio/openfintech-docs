@@ -1,6 +1,6 @@
 
 # Prosum 
-![prosum](https://static.openfintech.io/vendors/prosum/logo.svg?w=400&c=v0.59.26#w200)  
+![prosum](https://static.openfintech.io/vendors/prosum/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Dubai DubaiUnited Arab Emirates
 
 ### Logo 
  
-![prosum](https://static.openfintech.io/vendors/prosum/logo.svg?w=400&c=v0.59.26#w200)  
+![prosum](https://static.openfintech.io/vendors/prosum/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/prosum/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/prosum/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![prosum](https://static.openfintech.io/vendors/prosum/icon.svg?w=278&c=v0.59.26#w100)  
+![prosum](https://static.openfintech.io/vendors/prosum/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/prosum/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/prosum/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

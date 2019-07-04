@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _MEGOGO (light)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![megogo-legkaia](https://static.openfintech.io/payout_methods/megogo-legkaia/icon.svg?w=278&c=v0.59.26#w40) |[megogo-legkaia_uah](/payout-services/megogo-legkaia_uah/)|`megogo-legkaia_uah`| 
+|![megogo-legkaia](https://static.openfintech.io/payout_methods/megogo-legkaia/icon.png?w=278&c=v0.59.26#w40) |[megogo-legkaia_uah](/payout-services/megogo-legkaia_uah/)|`megogo-legkaia_uah`| 
  
 
 ## JSON Object 

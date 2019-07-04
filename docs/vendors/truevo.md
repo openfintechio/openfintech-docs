@@ -1,6 +1,6 @@
 
 # Truevo Payments 
-![truevo](https://static.openfintech.io/vendors/truevo/logo.svg?w=400&c=v0.59.26#w200)  
+![truevo](https://static.openfintech.io/vendors/truevo/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  MWH Building, Oratory StreetNXR 2504 NaxxarMalta
 
 ### Logo 
  
-![truevo](https://static.openfintech.io/vendors/truevo/logo.svg?w=400&c=v0.59.26#w200)  
+![truevo](https://static.openfintech.io/vendors/truevo/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/truevo/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/truevo/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![truevo](https://static.openfintech.io/vendors/truevo/icon.svg?w=278&c=v0.59.26#w100)  
+![truevo](https://static.openfintech.io/vendors/truevo/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/truevo/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/truevo/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

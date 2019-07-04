@@ -1,6 +1,6 @@
 
 # MultiSafepay 
-![fastcheckoutmultisafepay](https://static.openfintech.io/payment_methods/fastcheckoutmultisafepay/logo.svg?w=400&c=v0.59.26#w200)  
+![fastcheckoutmultisafepay](https://static.openfintech.io/payment_methods/fastcheckoutmultisafepay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `fastcheckoutmultisafepay` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![fastcheckoutmultisafepay](https://static.openfintech.io/payment_methods/fastcheckoutmultisafepay/logo.svg?w=400&c=v0.59.26#w200)  
+![fastcheckoutmultisafepay](https://static.openfintech.io/payment_methods/fastcheckoutmultisafepay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/fastcheckoutmultisafepay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/fastcheckoutmultisafepay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![fastcheckoutmultisafepay](https://static.openfintech.io/payment_methods/fastcheckoutmultisafepay/icon.svg?w=278&c=v0.59.26#w100)  
+![fastcheckoutmultisafepay](https://static.openfintech.io/payment_methods/fastcheckoutmultisafepay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/fastcheckoutmultisafepay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/fastcheckoutmultisafepay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _MultiSafe
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![multisafepay](https://static.openfintech.io/payment_providers/multisafepay/icon.svg?w=278&c=v0.59.26#w100) |[MultiSafepay](/payment-providers/multisafepay/)|`multisafepay`| 
+|![multisafepay](https://static.openfintech.io/payment_providers/multisafepay/icon.png?w=278&c=v0.59.26#w100) |[MultiSafepay](/payment-providers/multisafepay/)|`multisafepay`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Paymentez 
-![paymentez](https://static.openfintech.io/vendors/paymentez/logo.svg?w=400&c=v0.59.26#w200)  
+![paymentez](https://static.openfintech.io/vendors/paymentez/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  501 Brickell Key Drive, Suite 50933131 MiamiFlorida
 
 ### Logo 
  
-![paymentez](https://static.openfintech.io/vendors/paymentez/logo.svg?w=400&c=v0.59.26#w200)  
+![paymentez](https://static.openfintech.io/vendors/paymentez/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paymentez/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paymentez/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paymentez](https://static.openfintech.io/vendors/paymentez/icon.svg?w=278&c=v0.59.26#w100)  
+![paymentez](https://static.openfintech.io/vendors/paymentez/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paymentez/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paymentez/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

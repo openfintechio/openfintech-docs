@@ -1,6 +1,6 @@
 
 # PaySquare 
-![paysquare](https://static.openfintech.io/payment_providers/paysquare/logo.svg?w=400&c=v0.59.26#w100)  
+![paysquare](https://static.openfintech.io/payment_providers/paysquare/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![paysquare](https://static.openfintech.io/payment_providers/paysquare/logo.svg?w=400&c=v0.59.26#w100)  
+![paysquare](https://static.openfintech.io/payment_providers/paysquare/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paysquare/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paysquare/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![paysquare](https://static.openfintech.io/payment_providers/paysquare/icon.svg?w=278&c=v0.59.26#w100)  
+![paysquare](https://static.openfintech.io/payment_providers/paysquare/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paysquare/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paysquare/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

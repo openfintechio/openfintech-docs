@@ -1,6 +1,6 @@
 
 # card complete 
-![cardcomplete](https://static.openfintech.io/payment_providers/cardcomplete/logo.svg?w=400&c=v0.59.26#w100)  
+![cardcomplete](https://static.openfintech.io/payment_providers/cardcomplete/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![cardcomplete](https://static.openfintech.io/payment_providers/cardcomplete/logo.svg?w=400&c=v0.59.26#w100)  
+![cardcomplete](https://static.openfintech.io/payment_providers/cardcomplete/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/cardcomplete/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/cardcomplete/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![cardcomplete](https://static.openfintech.io/payment_providers/cardcomplete/icon.svg?w=278&c=v0.59.26#w100)  
+![cardcomplete](https://static.openfintech.io/payment_providers/cardcomplete/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/cardcomplete/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/cardcomplete/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

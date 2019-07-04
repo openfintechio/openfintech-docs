@@ -1,6 +1,6 @@
 
 # Spryng Payments 
-![spryng](https://static.openfintech.io/vendors/spryng/logo.svg?w=400&c=v0.59.26#w200)  
+![spryng](https://static.openfintech.io/vendors/spryng/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Stationsplein 51-53 1012 AB AmsterdamNoord-HollandNetherlands
 
 ### Logo 
  
-![spryng](https://static.openfintech.io/vendors/spryng/logo.svg?w=400&c=v0.59.26#w200)  
+![spryng](https://static.openfintech.io/vendors/spryng/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/spryng/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/spryng/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![spryng](https://static.openfintech.io/vendors/spryng/icon.svg?w=278&c=v0.59.26#w100)  
+![spryng](https://static.openfintech.io/vendors/spryng/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/spryng/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/spryng/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

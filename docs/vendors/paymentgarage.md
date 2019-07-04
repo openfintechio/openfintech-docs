@@ -1,6 +1,6 @@
 
 # PaymentGarage 
-![paymentgarage](https://static.openfintech.io/vendors/paymentgarage/logo.svg?w=400&c=v0.59.26#w200)  
+![paymentgarage](https://static.openfintech.io/vendors/paymentgarage/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -26,18 +26,18 @@ street:  Am Drais 7 61118 Bad Vilbel Germany
 
 ### Logo 
  
-![paymentgarage](https://static.openfintech.io/vendors/paymentgarage/logo.svg?w=400&c=v0.59.26#w200)  
+![paymentgarage](https://static.openfintech.io/vendors/paymentgarage/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paymentgarage/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paymentgarage/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paymentgarage](https://static.openfintech.io/vendors/paymentgarage/icon.svg?w=278&c=v0.59.26#w100)  
+![paymentgarage](https://static.openfintech.io/vendors/paymentgarage/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paymentgarage/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paymentgarage/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

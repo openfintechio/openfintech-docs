@@ -1,6 +1,6 @@
 
 # DebitWay 
-![debitway](https://static.openfintech.io/vendors/debitway/logo.svg?w=400&c=v0.59.26#w200)  
+![debitway](https://static.openfintech.io/vendors/debitway/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Montreal MontrealCanada
 
 ### Logo 
  
-![debitway](https://static.openfintech.io/vendors/debitway/logo.svg?w=400&c=v0.59.26#w200)  
+![debitway](https://static.openfintech.io/vendors/debitway/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/debitway/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/debitway/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![debitway](https://static.openfintech.io/vendors/debitway/icon.svg?w=278&c=v0.59.26#w100)  
+![debitway](https://static.openfintech.io/vendors/debitway/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/debitway/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/debitway/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Kriita AB 
-![kriita2](https://static.openfintech.io/payment_methods/kriita2/logo.svg?w=400&c=v0.59.26#w200)  
+![kriita2](https://static.openfintech.io/payment_methods/kriita2/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `kriita2` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![kriita2](https://static.openfintech.io/payment_methods/kriita2/logo.svg?w=400&c=v0.59.26#w200)  
+![kriita2](https://static.openfintech.io/payment_methods/kriita2/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/kriita2/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/kriita2/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![kriita2](https://static.openfintech.io/payment_methods/kriita2/icon.svg?w=278&c=v0.59.26#w100)  
+![kriita2](https://static.openfintech.io/payment_methods/kriita2/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/kriita2/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/kriita2/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Kriita AB
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
  
 
 ## JSON Object 

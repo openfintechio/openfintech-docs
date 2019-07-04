@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Garden_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![vgorode](https://static.openfintech.io/payout_methods/vgorode/icon.svg?w=278&c=v0.59.26#w40) |[vgorode_uah](/payout-services/vgorode_uah/)|`vgorode_uah`| 
+|![vgorode](https://static.openfintech.io/payout_methods/vgorode/icon.png?w=278&c=v0.59.26#w40) |[vgorode_uah](/payout-services/vgorode_uah/)|`vgorode_uah`| 
  
 
 ## JSON Object 

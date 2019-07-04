@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Tanks online_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tanki-onlain](https://static.openfintech.io/payout_methods/tanki-onlain/icon.svg?w=278&c=v0.59.26#w40) |[tanki-onlain_uah](/payout-services/tanki-onlain_uah/)|`tanki-onlain_uah`| 
+|![tanki-onlain](https://static.openfintech.io/payout_methods/tanki-onlain/icon.png?w=278&c=v0.59.26#w40) |[tanki-onlain_uah](/payout-services/tanki-onlain_uah/)|`tanki-onlain_uah`| 
  
 
 ## JSON Object 

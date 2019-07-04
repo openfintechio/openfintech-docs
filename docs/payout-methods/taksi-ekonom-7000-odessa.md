@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Economy 7000
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-ekonom-7000-odessa](https://static.openfintech.io/payout_methods/taksi-ekonom-7000-odessa/icon.svg?w=278&c=v0.59.26#w40) |[taksi-ekonom-7000-odessa_uah](/payout-services/taksi-ekonom-7000-odessa_uah/)|`taksi-ekonom-7000-odessa_uah`| 
+|![taksi-ekonom-7000-odessa](https://static.openfintech.io/payout_methods/taksi-ekonom-7000-odessa/icon.png?w=278&c=v0.59.26#w40) |[taksi-ekonom-7000-odessa_uah](/payout-services/taksi-ekonom-7000-odessa_uah/)|`taksi-ekonom-7000-odessa_uah`| 
  
 
 ## JSON Object 

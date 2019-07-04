@@ -1,6 +1,6 @@
 
 # BBVA 
-![bbva](https://static.openfintech.io/payment_methods/bbva/logo.svg?w=400&c=v0.59.26#w200)  
+![bbva](https://static.openfintech.io/payment_methods/bbva/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `bbva` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![bbva](https://static.openfintech.io/payment_methods/bbva/logo.svg?w=400&c=v0.59.26#w200)  
+![bbva](https://static.openfintech.io/payment_methods/bbva/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/bbva/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/bbva/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![bbva](https://static.openfintech.io/payment_methods/bbva/icon.svg?w=278&c=v0.59.26#w100)  
+![bbva](https://static.openfintech.io/payment_methods/bbva/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/bbva/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/bbva/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _BBVA_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
  
 

@@ -1,6 +1,6 @@
 
 # GoInterpay 
-![gointerpay](https://static.openfintech.io/vendors/gointerpay/logo.svg?w=400&c=v0.59.26#w200)  
+![gointerpay](https://static.openfintech.io/vendors/gointerpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  2300, 700 2nd Street SW AlbertaCanada
 
 ### Logo 
  
-![gointerpay](https://static.openfintech.io/vendors/gointerpay/logo.svg?w=400&c=v0.59.26#w200)  
+![gointerpay](https://static.openfintech.io/vendors/gointerpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/gointerpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/gointerpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![gointerpay](https://static.openfintech.io/vendors/gointerpay/icon.svg?w=278&c=v0.59.26#w100)  
+![gointerpay](https://static.openfintech.io/vendors/gointerpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/gointerpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/gointerpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Top (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-top-kiev](https://static.openfintech.io/payout_methods/taksi-top-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-top-kiev_uah](/payout-services/taksi-top-kiev_uah/)|`taksi-top-kiev_uah`| 
+|![taksi-top-kiev](https://static.openfintech.io/payout_methods/taksi-top-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-top-kiev_uah](/payout-services/taksi-top-kiev_uah/)|`taksi-top-kiev_uah`| 
  
 
 ## JSON Object 

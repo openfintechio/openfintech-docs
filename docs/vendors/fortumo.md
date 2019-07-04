@@ -1,6 +1,6 @@
 
 # Fortumo 
-![fortumo](https://static.openfintech.io/vendors/fortumo/logo.svg?w=400&c=v0.59.26#w200)  
+![fortumo](https://static.openfintech.io/vendors/fortumo/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Ülikooli 6A51003 TartuTartumaaEstonia
 
 ### Logo 
  
-![fortumo](https://static.openfintech.io/vendors/fortumo/logo.svg?w=400&c=v0.59.26#w200)  
+![fortumo](https://static.openfintech.io/vendors/fortumo/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/fortumo/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/fortumo/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![fortumo](https://static.openfintech.io/vendors/fortumo/icon.svg?w=278&c=v0.59.26#w100)  
+![fortumo](https://static.openfintech.io/vendors/fortumo/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/fortumo/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/fortumo/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

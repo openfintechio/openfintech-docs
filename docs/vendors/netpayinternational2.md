@@ -1,6 +1,6 @@
 
 # NetPay International 
-![netpayinternational2](https://static.openfintech.io/vendors/netpayinternational2/logo.svg?w=400&c=v0.59.26#w200)  
+![netpayinternational2](https://static.openfintech.io/vendors/netpayinternational2/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -26,18 +26,18 @@ street:  11 HaSadnaot street4672839 HerzeliyaIsrael
 
 ### Logo 
  
-![netpayinternational2](https://static.openfintech.io/vendors/netpayinternational2/logo.svg?w=400&c=v0.59.26#w200)  
+![netpayinternational2](https://static.openfintech.io/vendors/netpayinternational2/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/netpayinternational2/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/netpayinternational2/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![netpayinternational2](https://static.openfintech.io/vendors/netpayinternational2/icon.svg?w=278&c=v0.59.26#w100)  
+![netpayinternational2](https://static.openfintech.io/vendors/netpayinternational2/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/netpayinternational2/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/netpayinternational2/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

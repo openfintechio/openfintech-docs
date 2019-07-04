@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ILAN_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ilan](https://static.openfintech.io/payout_methods/ilan/icon.svg?w=278&c=v0.59.26#w40) |[ilan_uah](/payout-services/ilan_uah/)|`ilan_uah`| 
+|![ilan](https://static.openfintech.io/payout_methods/ilan/icon.png?w=278&c=v0.59.26#w40) |[ilan_uah](/payout-services/ilan_uah/)|`ilan_uah`| 
  
 
 ## JSON Object 

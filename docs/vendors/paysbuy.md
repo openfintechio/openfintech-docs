@@ -1,6 +1,6 @@
 
 # PAYSBUY 
-![paysbuy](https://static.openfintech.io/vendors/paysbuy/logo.svg?w=400&c=v0.59.26#w200)  
+![paysbuy](https://static.openfintech.io/vendors/paysbuy/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@ email: support@paysbuy.comphone: 02-160-5463-5
 
 ### Logo 
  
-![paysbuy](https://static.openfintech.io/vendors/paysbuy/logo.svg?w=400&c=v0.59.26#w200)  
+![paysbuy](https://static.openfintech.io/vendors/paysbuy/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paysbuy/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paysbuy/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paysbuy](https://static.openfintech.io/vendors/paysbuy/icon.svg?w=278&c=v0.59.26#w100)  
+![paysbuy](https://static.openfintech.io/vendors/paysbuy/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paysbuy/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paysbuy/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

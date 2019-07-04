@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Optimal (Dne
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-optimalnoe-dnepropetrovsk](https://static.openfintech.io/payout_methods/taksi-optimalnoe-dnepropetrovsk/icon.svg?w=278&c=v0.59.26#w40) |[taksi-optimalnoe-dnepropetrovsk_uah](/payout-services/taksi-optimalnoe-dnepropetrovsk_uah/)|`taksi-optimalnoe-dnepropetrovsk_uah`| 
+|![taksi-optimalnoe-dnepropetrovsk](https://static.openfintech.io/payout_methods/taksi-optimalnoe-dnepropetrovsk/icon.png?w=278&c=v0.59.26#w40) |[taksi-optimalnoe-dnepropetrovsk_uah](/payout-services/taksi-optimalnoe-dnepropetrovsk_uah/)|`taksi-optimalnoe-dnepropetrovsk_uah`| 
  
 
 ## JSON Object 

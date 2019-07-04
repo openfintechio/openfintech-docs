@@ -1,6 +1,6 @@
 
 # UGSPay 
-![ugspaycom](https://static.openfintech.io/vendors/ugspaycom/logo.svg?w=400&c=v0.59.26#w200)  
+![ugspaycom](https://static.openfintech.io/vendors/ugspaycom/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  London United Kingdom
 
 ### Logo 
  
-![ugspaycom](https://static.openfintech.io/vendors/ugspaycom/logo.svg?w=400&c=v0.59.26#w200)  
+![ugspaycom](https://static.openfintech.io/vendors/ugspaycom/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ugspaycom/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ugspaycom/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ugspaycom](https://static.openfintech.io/vendors/ugspaycom/icon.svg?w=278&c=v0.59.26#w100)  
+![ugspaycom](https://static.openfintech.io/vendors/ugspaycom/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ugspaycom/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ugspaycom/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

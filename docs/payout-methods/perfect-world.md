@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Perfect World_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![perfect-world](https://static.openfintech.io/payout_methods/perfect-world/icon.svg?w=278&c=v0.59.26#w40) |[perfect-world_uah](/payout-services/perfect-world_uah/)|`perfect-world_uah`| 
+|![perfect-world](https://static.openfintech.io/payout_methods/perfect-world/icon.png?w=278&c=v0.59.26#w40) |[perfect-world_uah](/payout-services/perfect-world_uah/)|`perfect-world_uah`| 
  
 
 ## JSON Object 

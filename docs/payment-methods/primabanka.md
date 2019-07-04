@@ -1,6 +1,6 @@
 
 # Prima Banka 
-![primabanka](https://static.openfintech.io/payment_methods/primabanka/logo.svg?w=400&c=v0.59.26#w200)  
+![primabanka](https://static.openfintech.io/payment_methods/primabanka/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `primabanka` 
@@ -26,17 +26,17 @@
 ## Images 
 
 ### Logo 
-![primabanka](https://static.openfintech.io/payment_methods/primabanka/logo.svg?w=400&c=v0.59.26#w200)  
+![primabanka](https://static.openfintech.io/payment_methods/primabanka/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/primabanka/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/primabanka/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![primabanka](https://static.openfintech.io/payment_methods/primabanka/icon.svg?w=278&c=v0.59.26#w100)  
+![primabanka](https://static.openfintech.io/payment_methods/primabanka/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/primabanka/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/primabanka/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

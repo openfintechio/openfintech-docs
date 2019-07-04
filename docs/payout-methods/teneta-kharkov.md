@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Teneta (Kharkov)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![teneta-kharkov](https://static.openfintech.io/payout_methods/teneta-kharkov/icon.svg?w=278&c=v0.59.26#w40) |[teneta-kharkov_uah](/payout-services/teneta-kharkov_uah/)|`teneta-kharkov_uah`| 
+|![teneta-kharkov](https://static.openfintech.io/payout_methods/teneta-kharkov/icon.png?w=278&c=v0.59.26#w40) |[teneta-kharkov_uah](/payout-services/teneta-kharkov_uah/)|`teneta-kharkov_uah`| 
  
 
 ## JSON Object 

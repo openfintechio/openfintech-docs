@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Fragoria_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![fragoriia](https://static.openfintech.io/payout_methods/fragoriia/icon.svg?w=278&c=v0.59.26#w40) |[fragoriia_uah](/payout-services/fragoriia_uah/)|`fragoriia_uah`| 
+|![fragoriia](https://static.openfintech.io/payout_methods/fragoriia/icon.png?w=278&c=v0.59.26#w40) |[fragoriia_uah](/payout-services/fragoriia_uah/)|`fragoriia_uah`| 
  
 
 ## JSON Object 

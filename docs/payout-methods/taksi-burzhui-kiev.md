@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Bourgeois (K
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-burzhui-kiev](https://static.openfintech.io/payout_methods/taksi-burzhui-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-burzhui-kiev_uah](/payout-services/taksi-burzhui-kiev_uah/)|`taksi-burzhui-kiev_uah`| 
+|![taksi-burzhui-kiev](https://static.openfintech.io/payout_methods/taksi-burzhui-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-burzhui-kiev_uah](/payout-services/taksi-burzhui-kiev_uah/)|`taksi-burzhui-kiev_uah`| 
  
 
 ## JSON Object 

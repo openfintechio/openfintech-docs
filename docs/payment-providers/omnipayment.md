@@ -1,6 +1,6 @@
 
 # OmniPayment 
-![omnipayment](https://static.openfintech.io/payment_providers/omnipayment/logo.svg?w=400&c=v0.59.26#w100)  
+![omnipayment](https://static.openfintech.io/payment_providers/omnipayment/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -23,18 +23,18 @@
 
 ### Logo 
  
-![omnipayment](https://static.openfintech.io/payment_providers/omnipayment/logo.svg?w=400&c=v0.59.26#w100)  
+![omnipayment](https://static.openfintech.io/payment_providers/omnipayment/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/omnipayment/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/omnipayment/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![omnipayment](https://static.openfintech.io/payment_providers/omnipayment/icon.svg?w=278&c=v0.59.26#w100)  
+![omnipayment](https://static.openfintech.io/payment_providers/omnipayment/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/omnipayment/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/omnipayment/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -44,11 +44,11 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.svg?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
-|![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.svg?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
+|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.png?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
 |![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
-|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.svg?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
-|![account2account](https://static.openfintech.io/payment_methods/account2account/icon.svg?w=278&c=v0.59.26#w100) |[account2account](/payment-methods/account2account/)|`account2account`| 
+|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.png?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
+|![account2account](https://static.openfintech.io/payment_methods/account2account/icon.png?w=278&c=v0.59.26#w100) |[account2account](/payment-methods/account2account/)|`account2account`| 
 |![wiretransfer](https://static.openfintech.io/payment_methods/wiretransfer/icon.svg?w=278&c=v0.59.26#w100) |[wiretransfer](/payment-methods/wiretransfer/)|`wiretransfer`| 
  
 

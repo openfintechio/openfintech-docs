@@ -1,6 +1,6 @@
 
 # Tranzzo 
-![tranzzo](https://static.openfintech.io/payment_methods/tranzzo/logo.svg?w=400&c=v0.59.26#w200)  
+![tranzzo](https://static.openfintech.io/payment_methods/tranzzo/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `tranzzo` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![tranzzo](https://static.openfintech.io/payment_methods/tranzzo/logo.svg?w=400&c=v0.59.26#w200)  
+![tranzzo](https://static.openfintech.io/payment_methods/tranzzo/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/tranzzo/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/tranzzo/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![tranzzo](https://static.openfintech.io/payment_methods/tranzzo/icon.svg?w=278&c=v0.59.26#w100)  
+![tranzzo](https://static.openfintech.io/payment_methods/tranzzo/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/tranzzo/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/tranzzo/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

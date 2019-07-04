@@ -1,6 +1,6 @@
 
 # Moip 
-![moip](https://static.openfintech.io/vendors/moip/logo.svg?w=400&c=v0.59.26#w200)  
+![moip](https://static.openfintech.io/vendors/moip/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  01452-000 Sao PauloBrazil
 
 ### Logo 
  
-![moip](https://static.openfintech.io/vendors/moip/logo.svg?w=400&c=v0.59.26#w200)  
+![moip](https://static.openfintech.io/vendors/moip/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/moip/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/moip/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![moip](https://static.openfintech.io/vendors/moip/icon.svg?w=278&c=v0.59.26#w100)  
+![moip](https://static.openfintech.io/vendors/moip/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/moip/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/moip/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

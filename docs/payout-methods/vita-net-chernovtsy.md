@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _VITA.NET (Cherniv
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![vita-net-chernovtsy](https://static.openfintech.io/payout_methods/vita-net-chernovtsy/icon.svg?w=278&c=v0.59.26#w40) |[vita-net-chernovtsy_uah](/payout-services/vita-net-chernovtsy_uah/)|`vita-net-chernovtsy_uah`| 
+|![vita-net-chernovtsy](https://static.openfintech.io/payout_methods/vita-net-chernovtsy/icon.png?w=278&c=v0.59.26#w40) |[vita-net-chernovtsy_uah](/payout-services/vita-net-chernovtsy_uah/)|`vita-net-chernovtsy_uah`| 
  
 
 ## JSON Object 

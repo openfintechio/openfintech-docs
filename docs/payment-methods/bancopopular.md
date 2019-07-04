@@ -1,6 +1,6 @@
 
 # Banco Popular 
-![bancopopular](https://static.openfintech.io/payment_methods/bancopopular/logo.svg?w=400&c=v0.59.26#w200)  
+![bancopopular](https://static.openfintech.io/payment_methods/bancopopular/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `bancopopular` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![bancopopular](https://static.openfintech.io/payment_methods/bancopopular/logo.svg?w=400&c=v0.59.26#w200)  
+![bancopopular](https://static.openfintech.io/payment_methods/bancopopular/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/bancopopular/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/bancopopular/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![bancopopular](https://static.openfintech.io/payment_methods/bancopopular/icon.svg?w=278&c=v0.59.26#w100)  
+![bancopopular](https://static.openfintech.io/payment_methods/bancopopular/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/bancopopular/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/bancopopular/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,8 +43,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Banco Pop
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![boacompra](https://static.openfintech.io/payment_providers/boacompra/icon.svg?w=278&c=v0.59.26#w100) |[UOL BoaCompra](/payment-providers/boacompra/)|`boacompra`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![boacompra](https://static.openfintech.io/payment_providers/boacompra/icon.png?w=278&c=v0.59.26#w100) |[UOL BoaCompra](/payment-providers/boacompra/)|`boacompra`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
  
 

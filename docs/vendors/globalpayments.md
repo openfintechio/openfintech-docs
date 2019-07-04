@@ -1,6 +1,6 @@
 
 # Global Payments 
-![globalpayments](https://static.openfintech.io/vendors/globalpayments/logo.svg?w=400&c=v0.59.26#w200)  
+![globalpayments](https://static.openfintech.io/vendors/globalpayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  51 De Montfort StreetLE1 7BB LeicesterUnited Kingdom
 
 ### Logo 
  
-![globalpayments](https://static.openfintech.io/vendors/globalpayments/logo.svg?w=400&c=v0.59.26#w200)  
+![globalpayments](https://static.openfintech.io/vendors/globalpayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/globalpayments/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/globalpayments/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![globalpayments](https://static.openfintech.io/vendors/globalpayments/icon.svg?w=278&c=v0.59.26#w100)  
+![globalpayments](https://static.openfintech.io/vendors/globalpayments/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/globalpayments/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/globalpayments/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

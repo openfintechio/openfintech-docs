@@ -1,6 +1,6 @@
 
 # ChronoPay 
-![chronopay](https://static.openfintech.io/payment_providers/chronopay/logo.svg?w=400&c=v0.59.26#w100)  
+![chronopay](https://static.openfintech.io/payment_providers/chronopay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![chronopay](https://static.openfintech.io/payment_providers/chronopay/logo.svg?w=400&c=v0.59.26#w100)  
+![chronopay](https://static.openfintech.io/payment_providers/chronopay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/chronopay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/chronopay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![chronopay](https://static.openfintech.io/payment_providers/chronopay/icon.svg?w=278&c=v0.59.26#w100)  
+![chronopay](https://static.openfintech.io/payment_providers/chronopay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/chronopay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/chronopay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

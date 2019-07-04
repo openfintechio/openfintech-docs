@@ -1,6 +1,6 @@
 
 # PaymentNetworks.com 
-![paymentnetworks](https://static.openfintech.io/vendors/paymentnetworks/logo.svg?w=400&c=v0.59.26#w200)  
+![paymentnetworks](https://static.openfintech.io/vendors/paymentnetworks/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  111 North Bridge Road, #08-11 Peninsula Plaza179098 SingaporeSGSingapor
 
 ### Logo 
  
-![paymentnetworks](https://static.openfintech.io/vendors/paymentnetworks/logo.svg?w=400&c=v0.59.26#w200)  
+![paymentnetworks](https://static.openfintech.io/vendors/paymentnetworks/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paymentnetworks/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paymentnetworks/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paymentnetworks](https://static.openfintech.io/vendors/paymentnetworks/icon.svg?w=278&c=v0.59.26#w100)  
+![paymentnetworks](https://static.openfintech.io/vendors/paymentnetworks/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paymentnetworks/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paymentnetworks/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

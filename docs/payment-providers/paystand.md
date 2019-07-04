@@ -1,6 +1,6 @@
 
 # PayStand 
-![paystand](https://static.openfintech.io/payment_providers/paystand/logo.svg?w=400&c=v0.59.26#w100)  
+![paystand](https://static.openfintech.io/payment_providers/paystand/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![paystand](https://static.openfintech.io/payment_providers/paystand/logo.svg?w=400&c=v0.59.26#w100)  
+![paystand](https://static.openfintech.io/payment_providers/paystand/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paystand/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paystand/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![paystand](https://static.openfintech.io/payment_providers/paystand/icon.svg?w=278&c=v0.59.26#w100)  
+![paystand](https://static.openfintech.io/payment_providers/paystand/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paystand/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paystand/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

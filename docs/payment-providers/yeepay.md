@@ -1,6 +1,6 @@
 
 # YeePay 
-![yeepay](https://static.openfintech.io/payment_providers/yeepay/logo.svg?w=400&c=v0.59.26#w100)  
+![yeepay](https://static.openfintech.io/payment_providers/yeepay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![yeepay](https://static.openfintech.io/payment_providers/yeepay/logo.svg?w=400&c=v0.59.26#w100)  
+![yeepay](https://static.openfintech.io/payment_providers/yeepay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/yeepay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/yeepay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![yeepay](https://static.openfintech.io/payment_providers/yeepay/icon.svg?w=278&c=v0.59.26#w100)  
+![yeepay](https://static.openfintech.io/payment_providers/yeepay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/yeepay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/yeepay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

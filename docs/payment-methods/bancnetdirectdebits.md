@@ -1,6 +1,6 @@
 
 # BancNet 
-![bancnetdirectdebits](https://static.openfintech.io/payment_methods/bancnetdirectdebits/logo.svg?w=400&c=v0.59.26#w200)  
+![bancnetdirectdebits](https://static.openfintech.io/payment_methods/bancnetdirectdebits/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `bancnetdirectdebits` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![bancnetdirectdebits](https://static.openfintech.io/payment_methods/bancnetdirectdebits/logo.svg?w=400&c=v0.59.26#w200)  
+![bancnetdirectdebits](https://static.openfintech.io/payment_methods/bancnetdirectdebits/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/bancnetdirectdebits/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/bancnetdirectdebits/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![bancnetdirectdebits](https://static.openfintech.io/payment_methods/bancnetdirectdebits/icon.svg?w=278&c=v0.59.26#w100)  
+![bancnetdirectdebits](https://static.openfintech.io/payment_methods/bancnetdirectdebits/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/bancnetdirectdebits/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/bancnetdirectdebits/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,9 +43,9 @@ The list of [Payment Providers](/payment-providers/) that support the _BancNet_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
-|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.svg?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
-|![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.svg?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.png?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
+|![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.png?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
  
 
 ## JSON Object 

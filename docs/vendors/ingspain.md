@@ -1,6 +1,6 @@
 
 # ING Bank | Spain 
-![ingspain](https://static.openfintech.io/vendors/ingspain/logo.svg?w=400&c=v0.59.26#w200)  
+![ingspain](https://static.openfintech.io/vendors/ingspain/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![ingspain](https://static.openfintech.io/vendors/ingspain/logo.svg?w=400&c=v0.59.26#w200)  
+![ingspain](https://static.openfintech.io/vendors/ingspain/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ingspain/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ingspain/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ingspain](https://static.openfintech.io/vendors/ingspain/icon.svg?w=278&c=v0.59.26#w100)  
+![ingspain](https://static.openfintech.io/vendors/ingspain/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ingspain/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ingspain/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

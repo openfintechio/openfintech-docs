@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Our Space (Exactl
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![nash-prostir-rivne](https://static.openfintech.io/payout_methods/nash-prostir-rivne/icon.svg?w=278&c=v0.59.26#w40) |[nash-prostir-rivne_uah](/payout-services/nash-prostir-rivne_uah/)|`nash-prostir-rivne_uah`| 
+|![nash-prostir-rivne](https://static.openfintech.io/payout_methods/nash-prostir-rivne/icon.png?w=278&c=v0.59.26#w40) |[nash-prostir-rivne_uah](/payout-services/nash-prostir-rivne_uah/)|`nash-prostir-rivne_uah`| 
  
 
 ## JSON Object 

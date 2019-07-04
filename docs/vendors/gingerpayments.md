@@ -1,6 +1,6 @@
 
 # Ginger Payments 
-![gingerpayments](https://static.openfintech.io/vendors/gingerpayments/logo.svg?w=400&c=v0.59.26#w200)  
+![gingerpayments](https://static.openfintech.io/vendors/gingerpayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Donauweg 101043AJ AmsterdamNHNetherlands
 
 ### Logo 
  
-![gingerpayments](https://static.openfintech.io/vendors/gingerpayments/logo.svg?w=400&c=v0.59.26#w200)  
+![gingerpayments](https://static.openfintech.io/vendors/gingerpayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/gingerpayments/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/gingerpayments/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![gingerpayments](https://static.openfintech.io/vendors/gingerpayments/icon.svg?w=278&c=v0.59.26#w100)  
+![gingerpayments](https://static.openfintech.io/vendors/gingerpayments/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/gingerpayments/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/gingerpayments/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

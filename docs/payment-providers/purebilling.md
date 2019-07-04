@@ -1,6 +1,6 @@
 
 # purebilling.com 
-![purebilling](https://static.openfintech.io/payment_providers/purebilling/logo.svg?w=400&c=v0.59.26#w100)  
+![purebilling](https://static.openfintech.io/payment_providers/purebilling/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![purebilling](https://static.openfintech.io/payment_providers/purebilling/logo.svg?w=400&c=v0.59.26#w100)  
+![purebilling](https://static.openfintech.io/payment_providers/purebilling/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/purebilling/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/purebilling/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![purebilling](https://static.openfintech.io/payment_providers/purebilling/icon.svg?w=278&c=v0.59.26#w100)  
+![purebilling](https://static.openfintech.io/payment_providers/purebilling/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/purebilling/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/purebilling/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

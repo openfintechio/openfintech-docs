@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Diet against canc
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![diti-proti-raku-mbf-tsspm](https://static.openfintech.io/payout_methods/diti-proti-raku-mbf-tsspm/icon.svg?w=278&c=v0.59.26#w40) |[diti-proti-raku-mbf-tsspm_uah](/payout-services/diti-proti-raku-mbf-tsspm_uah/)|`diti-proti-raku-mbf-tsspm_uah`| 
+|![diti-proti-raku-mbf-tsspm](https://static.openfintech.io/payout_methods/diti-proti-raku-mbf-tsspm/icon.png?w=278&c=v0.59.26#w40) |[diti-proti-raku-mbf-tsspm_uah](/payout-services/diti-proti-raku-mbf-tsspm_uah/)|`diti-proti-raku-mbf-tsspm_uah`| 
  
 
 ## JSON Object 

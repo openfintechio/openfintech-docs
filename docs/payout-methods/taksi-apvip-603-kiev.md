@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi APvip 603 (K
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-apvip-603-kiev](https://static.openfintech.io/payout_methods/taksi-apvip-603-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-apvip-603-kiev_uah](/payout-services/taksi-apvip-603-kiev_uah/)|`taksi-apvip-603-kiev_uah`| 
+|![taksi-apvip-603-kiev](https://static.openfintech.io/payout_methods/taksi-apvip-603-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-apvip-603-kiev_uah](/payout-services/taksi-apvip-603-kiev_uah/)|`taksi-apvip-603-kiev_uah`| 
  
 
 ## JSON Object 

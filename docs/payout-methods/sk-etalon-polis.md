@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _IC Etalon-Polis_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![sk-etalon-polis](https://static.openfintech.io/payout_methods/sk-etalon-polis/icon.svg?w=278&c=v0.59.26#w40) |[sk-etalon-polis_uah](/payout-services/sk-etalon-polis_uah/)|`sk-etalon-polis_uah`| 
+|![sk-etalon-polis](https://static.openfintech.io/payout_methods/sk-etalon-polis/icon.png?w=278&c=v0.59.26#w40) |[sk-etalon-polis_uah](/payout-services/sk-etalon-polis_uah/)|`sk-etalon-polis_uah`| 
  
 
 ## JSON Object 

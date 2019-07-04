@@ -1,6 +1,6 @@
 
 # Alternative Payments 
-![alternativepayments](https://static.openfintech.io/vendors/alternativepayments/logo.svg?w=400&c=v0.59.26#w200)  
+![alternativepayments](https://static.openfintech.io/vendors/alternativepayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Mesiniu 5LT-01133 VilniusLithuania
 
 ### Logo 
  
-![alternativepayments](https://static.openfintech.io/vendors/alternativepayments/logo.svg?w=400&c=v0.59.26#w200)  
+![alternativepayments](https://static.openfintech.io/vendors/alternativepayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/alternativepayments/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/alternativepayments/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![alternativepayments](https://static.openfintech.io/vendors/alternativepayments/icon.svg?w=278&c=v0.59.26#w100)  
+![alternativepayments](https://static.openfintech.io/vendors/alternativepayments/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/alternativepayments/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/alternativepayments/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

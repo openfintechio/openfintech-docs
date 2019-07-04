@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Maxi Taxi (Poltav
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![maksi-taksi-poltava](https://static.openfintech.io/payout_methods/maksi-taksi-poltava/icon.svg?w=278&c=v0.59.26#w40) |[maksi-taksi-poltava_uah](/payout-services/maksi-taksi-poltava_uah/)|`maksi-taksi-poltava_uah`| 
+|![maksi-taksi-poltava](https://static.openfintech.io/payout_methods/maksi-taksi-poltava/icon.png?w=278&c=v0.59.26#w40) |[maksi-taksi-poltava_uah](/payout-services/maksi-taksi-poltava_uah/)|`maksi-taksi-poltava_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Skyforge_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![skyforge](https://static.openfintech.io/payout_methods/skyforge/icon.svg?w=278&c=v0.59.26#w40) |[skyforge_uah](/payout-services/skyforge_uah/)|`skyforge_uah`| 
+|![skyforge](https://static.openfintech.io/payout_methods/skyforge/icon.png?w=278&c=v0.59.26#w40) |[skyforge_uah](/payout-services/skyforge_uah/)|`skyforge_uah`| 
  
 
 ## JSON Object 

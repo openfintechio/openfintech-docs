@@ -1,6 +1,6 @@
 
 # Flocash 
-![flocash](https://static.openfintech.io/vendors/flocash/logo.svg?w=400&c=v0.59.26#w200)  
+![flocash](https://static.openfintech.io/vendors/flocash/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Level 39, One Canada Square, Canary WharfE14 5AB LondonUnited Kingdom
 
 ### Logo 
  
-![flocash](https://static.openfintech.io/vendors/flocash/logo.svg?w=400&c=v0.59.26#w200)  
+![flocash](https://static.openfintech.io/vendors/flocash/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/flocash/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/flocash/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![flocash](https://static.openfintech.io/vendors/flocash/icon.svg?w=278&c=v0.59.26#w100)  
+![flocash](https://static.openfintech.io/vendors/flocash/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/flocash/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/flocash/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

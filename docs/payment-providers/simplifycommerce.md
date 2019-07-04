@@ -1,6 +1,6 @@
 
 # Simplify Commerce 
-![simplifycommerce](https://static.openfintech.io/payment_providers/simplifycommerce/logo.svg?w=400&c=v0.59.26#w100)  
+![simplifycommerce](https://static.openfintech.io/payment_providers/simplifycommerce/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![simplifycommerce](https://static.openfintech.io/payment_providers/simplifycommerce/logo.svg?w=400&c=v0.59.26#w100)  
+![simplifycommerce](https://static.openfintech.io/payment_providers/simplifycommerce/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/simplifycommerce/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/simplifycommerce/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![simplifycommerce](https://static.openfintech.io/payment_providers/simplifycommerce/icon.svg?w=278&c=v0.59.26#w100)  
+![simplifycommerce](https://static.openfintech.io/payment_providers/simplifycommerce/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/simplifycommerce/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/simplifycommerce/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

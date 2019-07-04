@@ -45,18 +45,18 @@ The list of [Payment Providers](/payment-providers/) that support the _Yandex.Mo
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ikajo](https://static.openfintech.io/payment_providers/ikajo/icon.svg?w=278&c=v0.59.26#w100) |[Ikajo](/payment-providers/ikajo/)|`ikajo`| 
+|![ikajo](https://static.openfintech.io/payment_providers/ikajo/icon.png?w=278&c=v0.59.26#w100) |[Ikajo](/payment-providers/ikajo/)|`ikajo`| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[SafeCharge ](/payment-providers/safecharge/)|`safecharge`| 
 |![walletone](https://static.openfintech.io/payment_providers/walletone/icon.svg?w=278&c=v0.59.26#w100) |[Wallet One](/payment-providers/walletone/)|`walletone`| 
-|![payboutique](https://static.openfintech.io/payment_providers/payboutique/icon.svg?w=278&c=v0.59.26#w100) |[Payboutique ](/payment-providers/payboutique/)|`payboutique`| 
-|![klikpay](https://static.openfintech.io/payment_providers/klikpay/icon.svg?w=278&c=v0.59.26#w100) |[Klik & Pay](/payment-providers/klikpay/)|`klikpay`| 
+|![payboutique](https://static.openfintech.io/payment_providers/payboutique/icon.png?w=278&c=v0.59.26#w100) |[Payboutique ](/payment-providers/payboutique/)|`payboutique`| 
+|![klikpay](https://static.openfintech.io/payment_providers/klikpay/icon.png?w=278&c=v0.59.26#w100) |[Klik & Pay](/payment-providers/klikpay/)|`klikpay`| 
 |![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
-|![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.svg?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
-|![assist](https://static.openfintech.io/payment_providers/assist/icon.svg?w=278&c=v0.59.26#w100) |[ASSIST](/payment-providers/assist/)|`assist`| 
+|![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.png?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
+|![assist](https://static.openfintech.io/payment_providers/assist/icon.png?w=278&c=v0.59.26#w100) |[ASSIST](/payment-providers/assist/)|`assist`| 
 |![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
 |![advcash](https://static.openfintech.io/payment_providers/advcash/icon.svg?w=278&c=v0.59.26#w100) |[AdvCash](/payment-providers/advcash/)|`advcash`| 
-|![payeer](https://static.openfintech.io/payment_providers/payeer/icon.svg?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
+|![payeer](https://static.openfintech.io/payment_providers/payeer/icon.png?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
  
 
 ## JSON Object 

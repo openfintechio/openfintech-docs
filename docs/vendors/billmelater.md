@@ -1,6 +1,6 @@
 
 # PayPal Credit 
-![billmelater](https://static.openfintech.io/vendors/billmelater/logo.svg?w=400&c=v0.59.26#w200)  
+![billmelater](https://static.openfintech.io/vendors/billmelater/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![billmelater](https://static.openfintech.io/vendors/billmelater/logo.svg?w=400&c=v0.59.26#w200)  
+![billmelater](https://static.openfintech.io/vendors/billmelater/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/billmelater/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/billmelater/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![billmelater](https://static.openfintech.io/vendors/billmelater/icon.svg?w=278&c=v0.59.26#w100)  
+![billmelater](https://static.openfintech.io/vendors/billmelater/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/billmelater/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/billmelater/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

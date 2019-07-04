@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _LINET (Zaporozhye
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![linet-zaporozhskaia-obl](https://static.openfintech.io/payout_methods/linet-zaporozhskaia-obl/icon.svg?w=278&c=v0.59.26#w40) |[linet-zaporozhskaia-obl_uah](/payout-services/linet-zaporozhskaia-obl_uah/)|`linet-zaporozhskaia-obl_uah`| 
+|![linet-zaporozhskaia-obl](https://static.openfintech.io/payout_methods/linet-zaporozhskaia-obl/icon.png?w=278&c=v0.59.26#w40) |[linet-zaporozhskaia-obl_uah](/payout-services/linet-zaporozhskaia-obl_uah/)|`linet-zaporozhskaia-obl_uah`| 
  
 
 ## JSON Object 

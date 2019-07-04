@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Infotech (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![infotech-kiev](https://static.openfintech.io/payout_methods/infotech-kiev/icon.svg?w=278&c=v0.59.26#w40) |[infotech-kiev_uah](/payout-services/infotech-kiev_uah/)|`infotech-kiev_uah`| 
+|![infotech-kiev](https://static.openfintech.io/payout_methods/infotech-kiev/icon.png?w=278&c=v0.59.26#w40) |[infotech-kiev_uah](/payout-services/infotech-kiev_uah/)|`infotech-kiev_uah`| 
  
 
 ## JSON Object 

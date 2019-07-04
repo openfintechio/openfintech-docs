@@ -1,6 +1,6 @@
 
 # ProvinciaPagos 
-![provinciapagos](https://static.openfintech.io/payment_methods/provinciapagos/logo.svg?w=400&c=v0.59.26#w200)  
+![provinciapagos](https://static.openfintech.io/payment_methods/provinciapagos/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `provinciapagos` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![provinciapagos](https://static.openfintech.io/payment_methods/provinciapagos/logo.svg?w=400&c=v0.59.26#w200)  
+![provinciapagos](https://static.openfintech.io/payment_methods/provinciapagos/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/provinciapagos/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/provinciapagos/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![provinciapagos](https://static.openfintech.io/payment_methods/provinciapagos/icon.svg?w=278&c=v0.59.26#w100)  
+![provinciapagos](https://static.openfintech.io/payment_methods/provinciapagos/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/provinciapagos/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/provinciapagos/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

@@ -1,6 +1,6 @@
 
 # Zaakpay 
-![zaakpay](https://static.openfintech.io/vendors/zaakpay/logo.svg?w=400&c=v0.59.26#w200)  
+![zaakpay](https://static.openfintech.io/vendors/zaakpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  New Delhi110075 Dwarka, New DelhiIndia
 
 ### Logo 
  
-![zaakpay](https://static.openfintech.io/vendors/zaakpay/logo.svg?w=400&c=v0.59.26#w200)  
+![zaakpay](https://static.openfintech.io/vendors/zaakpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/zaakpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/zaakpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![zaakpay](https://static.openfintech.io/vendors/zaakpay/icon.svg?w=278&c=v0.59.26#w100)  
+![zaakpay](https://static.openfintech.io/vendors/zaakpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/zaakpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/zaakpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

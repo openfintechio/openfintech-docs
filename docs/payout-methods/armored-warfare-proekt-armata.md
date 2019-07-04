@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Armored Warfare A
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![armored-warfare-proekt-armata](https://static.openfintech.io/payout_methods/armored-warfare-proekt-armata/icon.svg?w=278&c=v0.59.26#w40) |[armored-warfare-proekt-armata_uah](/payout-services/armored-warfare-proekt-armata_uah/)|`armored-warfare-proekt-armata_uah`| 
+|![armored-warfare-proekt-armata](https://static.openfintech.io/payout_methods/armored-warfare-proekt-armata/icon.png?w=278&c=v0.59.26#w40) |[armored-warfare-proekt-armata_uah](/payout-services/armored-warfare-proekt-armata_uah/)|`armored-warfare-proekt-armata_uah`| 
  
 
 ## JSON Object 

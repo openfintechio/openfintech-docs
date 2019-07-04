@@ -1,6 +1,6 @@
 
 # PaySpace 
-![payspace](https://static.openfintech.io/vendors/payspace/logo.svg?w=400&c=v0.59.26#w200)  
+![payspace](https://static.openfintech.io/vendors/payspace/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  P.Brieža 15/11067 Latvia
 
 ### Logo 
  
-![payspace](https://static.openfintech.io/vendors/payspace/logo.svg?w=400&c=v0.59.26#w200)  
+![payspace](https://static.openfintech.io/vendors/payspace/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payspace/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payspace/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payspace](https://static.openfintech.io/vendors/payspace/icon.svg?w=278&c=v0.59.26#w100)  
+![payspace](https://static.openfintech.io/vendors/payspace/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payspace/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payspace/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

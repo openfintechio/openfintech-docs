@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Telegroup (teleph
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![telegroup-telefoniia](https://static.openfintech.io/payout_methods/telegroup-telefoniia/icon.svg?w=278&c=v0.59.26#w40) |[telegroup-telefoniia_uah](/payout-services/telegroup-telefoniia_uah/)|`telegroup-telefoniia_uah`| 
+|![telegroup-telefoniia](https://static.openfintech.io/payout_methods/telegroup-telefoniia/icon.png?w=278&c=v0.59.26#w40) |[telegroup-telefoniia_uah](/payout-services/telegroup-telefoniia_uah/)|`telegroup-telefoniia_uah`| 
  
 
 ## JSON Object 

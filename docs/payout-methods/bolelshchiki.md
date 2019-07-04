@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Fans_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bolelshchiki](https://static.openfintech.io/payout_methods/bolelshchiki/icon.svg?w=278&c=v0.59.26#w40) |[bolelshchiki_uah](/payout-services/bolelshchiki_uah/)|`bolelshchiki_uah`| 
+|![bolelshchiki](https://static.openfintech.io/payout_methods/bolelshchiki/icon.png?w=278&c=v0.59.26#w40) |[bolelshchiki_uah](/payout-services/bolelshchiki_uah/)|`bolelshchiki_uah`| 
  
 
 ## JSON Object 

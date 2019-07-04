@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Certus transfer_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![certus_transfer](https://static.openfintech.io/payout_methods/certus_transfer/icon.svg?w=278&c=v0.59.26#w40) |[certus_transfer_uah](/payout-services/certus_transfer_uah/)|`certus_transfer_uah`| 
+|![certus_transfer](https://static.openfintech.io/payout_methods/certus_transfer/icon.png?w=278&c=v0.59.26#w40) |[certus_transfer_uah](/payout-services/certus_transfer_uah/)|`certus_transfer_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Elo 
-![elo](https://static.openfintech.io/vendors/elo/logo.svg?w=400&c=v0.59.26#w200)  
+![elo](https://static.openfintech.io/vendors/elo/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![elo](https://static.openfintech.io/vendors/elo/logo.svg?w=400&c=v0.59.26#w200)  
+![elo](https://static.openfintech.io/vendors/elo/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/elo/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/elo/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![elo](https://static.openfintech.io/vendors/elo/icon.svg?w=278&c=v0.59.26#w100)  
+![elo](https://static.openfintech.io/vendors/elo/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/elo/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/elo/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

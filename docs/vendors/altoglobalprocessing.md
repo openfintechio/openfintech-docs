@@ -1,6 +1,6 @@
 
 # Alto Global Processing 
-![altoglobalprocessing](https://static.openfintech.io/vendors/altoglobalprocessing/logo.svg?w=400&c=v0.59.26#w200)  
+![altoglobalprocessing](https://static.openfintech.io/vendors/altoglobalprocessing/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Miami Beach, FL Miami Beach, FLUSA
 
 ### Logo 
  
-![altoglobalprocessing](https://static.openfintech.io/vendors/altoglobalprocessing/logo.svg?w=400&c=v0.59.26#w200)  
+![altoglobalprocessing](https://static.openfintech.io/vendors/altoglobalprocessing/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/altoglobalprocessing/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/altoglobalprocessing/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![altoglobalprocessing](https://static.openfintech.io/vendors/altoglobalprocessing/icon.svg?w=278&c=v0.59.26#w100)  
+![altoglobalprocessing](https://static.openfintech.io/vendors/altoglobalprocessing/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/altoglobalprocessing/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/altoglobalprocessing/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

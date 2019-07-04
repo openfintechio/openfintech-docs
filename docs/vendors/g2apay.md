@@ -1,6 +1,6 @@
 
 # G2A PAY 
-![g2apay](https://static.openfintech.io/vendors/g2apay/logo.svg?w=400&c=v0.59.26#w200)  
+![g2apay](https://static.openfintech.io/vendors/g2apay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  36/F, Tower Two, Times Square, 1 Matheson Street, Causeway Bay Hong Kon
 
 ### Logo 
  
-![g2apay](https://static.openfintech.io/vendors/g2apay/logo.svg?w=400&c=v0.59.26#w200)  
+![g2apay](https://static.openfintech.io/vendors/g2apay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/g2apay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/g2apay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![g2apay](https://static.openfintech.io/vendors/g2apay/icon.svg?w=278&c=v0.59.26#w100)  
+![g2apay](https://static.openfintech.io/vendors/g2apay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/g2apay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/g2apay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

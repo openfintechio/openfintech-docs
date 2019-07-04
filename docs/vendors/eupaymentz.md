@@ -1,6 +1,6 @@
 
 # EUPaymentz.com 
-![eupaymentz](https://static.openfintech.io/vendors/eupaymentz/logo.svg?w=400&c=v0.59.26#w200)  
+![eupaymentz](https://static.openfintech.io/vendors/eupaymentz/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -26,18 +26,18 @@ street:  Serbia
 
 ### Logo 
  
-![eupaymentz](https://static.openfintech.io/vendors/eupaymentz/logo.svg?w=400&c=v0.59.26#w200)  
+![eupaymentz](https://static.openfintech.io/vendors/eupaymentz/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/eupaymentz/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/eupaymentz/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![eupaymentz](https://static.openfintech.io/vendors/eupaymentz/icon.svg?w=278&c=v0.59.26#w100)  
+![eupaymentz](https://static.openfintech.io/vendors/eupaymentz/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/eupaymentz/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/eupaymentz/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

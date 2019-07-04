@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Lineage 2_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![lineage-2](https://static.openfintech.io/payout_methods/lineage-2/icon.svg?w=278&c=v0.59.26#w40) |[lineage-2_uah](/payout-services/lineage-2_uah/)|`lineage-2_uah`| 
+|![lineage-2](https://static.openfintech.io/payout_methods/lineage-2/icon.png?w=278&c=v0.59.26#w40) |[lineage-2_uah](/payout-services/lineage-2_uah/)|`lineage-2_uah`| 
  
 
 ## JSON Object 

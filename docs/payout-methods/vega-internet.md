@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Vega Internet_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![vega-internet](https://static.openfintech.io/payout_methods/vega-internet/icon.svg?w=278&c=v0.59.26#w40) |[vega-internet_uah](/payout-services/vega-internet_uah/)|`vega-internet_uah`| 
+|![vega-internet](https://static.openfintech.io/payout_methods/vega-internet/icon.png?w=278&c=v0.59.26#w40) |[vega-internet_uah](/payout-services/vega-internet_uah/)|`vega-internet_uah`| 
  
 
 ## JSON Object 

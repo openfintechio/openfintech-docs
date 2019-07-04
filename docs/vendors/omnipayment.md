@@ -1,6 +1,6 @@
 
 # OmniPayment 
-![omnipayment](https://static.openfintech.io/vendors/omnipayment/logo.svg?w=400&c=v0.59.26#w200)  
+![omnipayment](https://static.openfintech.io/vendors/omnipayment/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  P. O. Box 11-203 BeirutLebanon
 
 ### Logo 
  
-![omnipayment](https://static.openfintech.io/vendors/omnipayment/logo.svg?w=400&c=v0.59.26#w200)  
+![omnipayment](https://static.openfintech.io/vendors/omnipayment/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/omnipayment/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/omnipayment/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![omnipayment](https://static.openfintech.io/vendors/omnipayment/icon.svg?w=278&c=v0.59.26#w100)  
+![omnipayment](https://static.openfintech.io/vendors/omnipayment/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/omnipayment/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/omnipayment/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

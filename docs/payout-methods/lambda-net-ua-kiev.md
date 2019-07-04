@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _LAMBDA.NET.UA (Ki
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![lambda-net-ua-kiev](https://static.openfintech.io/payout_methods/lambda-net-ua-kiev/icon.svg?w=278&c=v0.59.26#w40) |[lambda-net-ua-kiev_uah](/payout-services/lambda-net-ua-kiev_uah/)|`lambda-net-ua-kiev_uah`| 
+|![lambda-net-ua-kiev](https://static.openfintech.io/payout_methods/lambda-net-ua-kiev/icon.png?w=278&c=v0.59.26#w40) |[lambda-net-ua-kiev_uah](/payout-services/lambda-net-ua-kiev_uah/)|`lambda-net-ua-kiev_uah`| 
  
 
 ## JSON Object 

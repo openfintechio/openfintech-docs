@@ -1,6 +1,6 @@
 
 # Inatec Payment 
-![inatecpayment](https://static.openfintech.io/payment_providers/inatecpayment/logo.svg?w=400&c=v0.59.26#w100)  
+![inatecpayment](https://static.openfintech.io/payment_providers/inatecpayment/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![inatecpayment](https://static.openfintech.io/payment_providers/inatecpayment/logo.svg?w=400&c=v0.59.26#w100)  
+![inatecpayment](https://static.openfintech.io/payment_providers/inatecpayment/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/inatecpayment/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/inatecpayment/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![inatecpayment](https://static.openfintech.io/payment_providers/inatecpayment/icon.svg?w=278&c=v0.59.26#w100)  
+![inatecpayment](https://static.openfintech.io/payment_providers/inatecpayment/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/inatecpayment/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/inatecpayment/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

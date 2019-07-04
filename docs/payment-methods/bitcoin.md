@@ -52,20 +52,20 @@ The list of [Payment Providers](/payment-providers/) that support the _Bitcoin_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![webmoney](https://static.openfintech.io/payment_providers/webmoney/icon.svg?w=278&c=v0.59.26#w100) |[WebMoney](/payment-providers/webmoney/)|`webmoney`| 
-|![magnius](https://static.openfintech.io/payment_providers/magnius/icon.svg?w=278&c=v0.59.26#w100) |[Magnius](/payment-providers/magnius/)|`magnius`| 
-|![mollie](https://static.openfintech.io/payment_providers/mollie/icon.svg?w=278&c=v0.59.26#w100) |[Mollie](/payment-providers/mollie/)|`mollie`| 
+|![magnius](https://static.openfintech.io/payment_providers/magnius/icon.png?w=278&c=v0.59.26#w100) |[Magnius](/payment-providers/magnius/)|`magnius`| 
+|![mollie](https://static.openfintech.io/payment_providers/mollie/icon.png?w=278&c=v0.59.26#w100) |[Mollie](/payment-providers/mollie/)|`mollie`| 
 |![coingate](https://static.openfintech.io/payment_providers/coingate/icon.svg?w=278&c=v0.59.26#w100) |[CoinGate](/payment-providers/coingate/)|`coingate`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
-|![aretosystems](https://static.openfintech.io/payment_providers/aretosystems/icon.svg?w=278&c=v0.59.26#w100) |[Areto Systems](/payment-providers/aretosystems/)|`aretosystems`| 
-|![ebanx](https://static.openfintech.io/payment_providers/ebanx/icon.svg?w=278&c=v0.59.26#w100) |[EBANX](/payment-providers/ebanx/)|`ebanx`| 
-|![dengionline](https://static.openfintech.io/payment_providers/dengionline/icon.svg?w=278&c=v0.59.26#w100) |[Dengi Online](/payment-providers/dengionline/)|`dengionline`| 
-|![quickpay](https://static.openfintech.io/payment_providers/quickpay/icon.svg?w=278&c=v0.59.26#w100) |[QuickPay](/payment-providers/quickpay/)|`quickpay`| 
-|![paymentasia](https://static.openfintech.io/payment_providers/paymentasia/icon.svg?w=278&c=v0.59.26#w100) |[Payment Asia](/payment-providers/paymentasia/)|`paymentasia`| 
-|![2000charge](https://static.openfintech.io/payment_providers/2000charge/icon.svg?w=278&c=v0.59.26#w100) |[2000Charge.com](/payment-providers/2000charge/)|`2000charge`| 
-|![multicards](https://static.openfintech.io/payment_providers/multicards/icon.svg?w=278&c=v0.59.26#w100) |[MultiCards Internet Billing](/payment-providers/multicards/)|`multicards`| 
+|![aretosystems](https://static.openfintech.io/payment_providers/aretosystems/icon.png?w=278&c=v0.59.26#w100) |[Areto Systems](/payment-providers/aretosystems/)|`aretosystems`| 
+|![ebanx](https://static.openfintech.io/payment_providers/ebanx/icon.png?w=278&c=v0.59.26#w100) |[EBANX](/payment-providers/ebanx/)|`ebanx`| 
+|![dengionline](https://static.openfintech.io/payment_providers/dengionline/icon.png?w=278&c=v0.59.26#w100) |[Dengi Online](/payment-providers/dengionline/)|`dengionline`| 
+|![quickpay](https://static.openfintech.io/payment_providers/quickpay/icon.png?w=278&c=v0.59.26#w100) |[QuickPay](/payment-providers/quickpay/)|`quickpay`| 
+|![paymentasia](https://static.openfintech.io/payment_providers/paymentasia/icon.png?w=278&c=v0.59.26#w100) |[Payment Asia](/payment-providers/paymentasia/)|`paymentasia`| 
+|![2000charge](https://static.openfintech.io/payment_providers/2000charge/icon.png?w=278&c=v0.59.26#w100) |[2000Charge.com](/payment-providers/2000charge/)|`2000charge`| 
+|![multicards](https://static.openfintech.io/payment_providers/multicards/icon.png?w=278&c=v0.59.26#w100) |[MultiCards Internet Billing](/payment-providers/multicards/)|`multicards`| 
 |![advcash](https://static.openfintech.io/payment_providers/advcash/icon.svg?w=278&c=v0.59.26#w100) |[AdvCash](/payment-providers/advcash/)|`advcash`| 
-|![payeer](https://static.openfintech.io/payment_providers/payeer/icon.svg?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
+|![payeer](https://static.openfintech.io/payment_providers/payeer/icon.png?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Kwixo 
-![kwixo](https://static.openfintech.io/payment_methods/kwixo/logo.svg?w=400&c=v0.59.26#w200)  
+![kwixo](https://static.openfintech.io/payment_methods/kwixo/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `kwixo` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![kwixo](https://static.openfintech.io/payment_methods/kwixo/logo.svg?w=400&c=v0.59.26#w200)  
+![kwixo](https://static.openfintech.io/payment_methods/kwixo/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/kwixo/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/kwixo/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![kwixo](https://static.openfintech.io/payment_methods/kwixo/icon.svg?w=278&c=v0.59.26#w100)  
+![kwixo](https://static.openfintech.io/payment_methods/kwixo/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/kwixo/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/kwixo/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Kwixo_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.svg?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
+|![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
  
 
 ## JSON Object 

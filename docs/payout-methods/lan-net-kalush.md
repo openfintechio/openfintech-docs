@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Lan & Net (Kalush
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![lan-net-kalush](https://static.openfintech.io/payout_methods/lan-net-kalush/icon.svg?w=278&c=v0.59.26#w40) |[lan-net-kalush_uah](/payout-services/lan-net-kalush_uah/)|`lan-net-kalush_uah`| 
+|![lan-net-kalush](https://static.openfintech.io/payout_methods/lan-net-kalush/icon.png?w=278&c=v0.59.26#w40) |[lan-net-kalush_uah](/payout-services/lan-net-kalush_uah/)|`lan-net-kalush_uah`| 
  
 
 ## JSON Object 

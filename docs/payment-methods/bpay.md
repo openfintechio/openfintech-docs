@@ -1,6 +1,6 @@
 
 # BPAY 
-![bpay](https://static.openfintech.io/payment_methods/bpay/logo.svg?w=400&c=v0.59.26#w200)  
+![bpay](https://static.openfintech.io/payment_methods/bpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `bpay` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![bpay](https://static.openfintech.io/payment_methods/bpay/logo.svg?w=400&c=v0.59.26#w200)  
+![bpay](https://static.openfintech.io/payment_methods/bpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/bpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/bpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![bpay](https://static.openfintech.io/payment_methods/bpay/icon.svg?w=278&c=v0.59.26#w100)  
+![bpay](https://static.openfintech.io/payment_methods/bpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/bpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/bpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _BPAY_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![acapture](https://static.openfintech.io/payment_providers/acapture/icon.svg?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
+|![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
 |![walletone](https://static.openfintech.io/payment_providers/walletone/icon.svg?w=278&c=v0.59.26#w100) |[Wallet One](/payment-providers/walletone/)|`walletone`| 
  
 

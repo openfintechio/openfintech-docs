@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Student (Ber
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-student-berdiansk](https://static.openfintech.io/payout_methods/taksi-student-berdiansk/icon.svg?w=278&c=v0.59.26#w40) |[taksi-student-berdiansk_uah](/payout-services/taksi-student-berdiansk_uah/)|`taksi-student-berdiansk_uah`| 
+|![taksi-student-berdiansk](https://static.openfintech.io/payout_methods/taksi-student-berdiansk/icon.png?w=278&c=v0.59.26#w40) |[taksi-student-berdiansk_uah](/payout-services/taksi-student-berdiansk_uah/)|`taksi-student-berdiansk_uah`| 
  
 
 ## JSON Object 

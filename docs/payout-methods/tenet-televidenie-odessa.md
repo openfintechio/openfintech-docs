@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Tenet - Televisio
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tenet-televidenie-odessa](https://static.openfintech.io/payout_methods/tenet-televidenie-odessa/icon.svg?w=278&c=v0.59.26#w40) |[tenet-televidenie-odessa_uah](/payout-services/tenet-televidenie-odessa_uah/)|`tenet-televidenie-odessa_uah`| 
+|![tenet-televidenie-odessa](https://static.openfintech.io/payout_methods/tenet-televidenie-odessa/icon.png?w=278&c=v0.59.26#w40) |[tenet-televidenie-odessa_uah](/payout-services/tenet-televidenie-odessa_uah/)|`tenet-televidenie-odessa_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _GenTel_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![gentel](https://static.openfintech.io/payout_methods/gentel/icon.svg?w=278&c=v0.59.26#w40) |[gentel_uah](/payout-services/gentel_uah/)|`gentel_uah`| 
+|![gentel](https://static.openfintech.io/payout_methods/gentel/icon.png?w=278&c=v0.59.26#w40) |[gentel_uah](/payout-services/gentel_uah/)|`gentel_uah`| 
  
 
 ## JSON Object 

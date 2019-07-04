@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Windows Phone Sto
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![windows-phone-store-gift-card-us-15](https://static.openfintech.io/payout_methods/windows-phone-store-gift-card-us-15/icon.svg?w=278&c=v0.59.26#w40) |[windows-phone-store-gift-card-us-15_uah](/payout-services/windows-phone-store-gift-card-us-15_uah/)|`windows-phone-store-gift-card-us-15_uah`| 
+|![windows-phone-store-gift-card-us-15](https://static.openfintech.io/payout_methods/windows-phone-store-gift-card-us-15/icon.png?w=278&c=v0.59.26#w40) |[windows-phone-store-gift-card-us-15_uah](/payout-services/windows-phone-store-gift-card-us-15_uah/)|`windows-phone-store-gift-card-us-15_uah`| 
  
 
 ## JSON Object 

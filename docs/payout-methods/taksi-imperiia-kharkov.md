@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Empire (Khar
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-imperiia-kharkov](https://static.openfintech.io/payout_methods/taksi-imperiia-kharkov/icon.svg?w=278&c=v0.59.26#w40) |[taksi-imperiia-kharkov_uah](/payout-services/taksi-imperiia-kharkov_uah/)|`taksi-imperiia-kharkov_uah`| 
+|![taksi-imperiia-kharkov](https://static.openfintech.io/payout_methods/taksi-imperiia-kharkov/icon.png?w=278&c=v0.59.26#w40) |[taksi-imperiia-kharkov_uah](/payout-services/taksi-imperiia-kharkov_uah/)|`taksi-imperiia-kharkov_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi 797 (Zaporiz
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-797-zaporozhe](https://static.openfintech.io/payout_methods/taksi-797-zaporozhe/icon.svg?w=278&c=v0.59.26#w40) |[taksi-797-zaporozhe_uah](/payout-services/taksi-797-zaporozhe_uah/)|`taksi-797-zaporozhe_uah`| 
+|![taksi-797-zaporozhe](https://static.openfintech.io/payout_methods/taksi-797-zaporozhe/icon.png?w=278&c=v0.59.26#w40) |[taksi-797-zaporozhe_uah](/payout-services/taksi-797-zaporozhe_uah/)|`taksi-797-zaporozhe_uah`| 
  
 
 ## JSON Object 

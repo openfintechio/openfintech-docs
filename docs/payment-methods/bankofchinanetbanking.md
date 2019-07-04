@@ -1,6 +1,6 @@
 
 # Bank of China netbanking 
-![bankofchinanetbanking](https://static.openfintech.io/payment_methods/bankofchinanetbanking/logo.svg?w=400&c=v0.59.26#w200)  
+![bankofchinanetbanking](https://static.openfintech.io/payment_methods/bankofchinanetbanking/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `bankofchinanetbanking` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![bankofchinanetbanking](https://static.openfintech.io/payment_methods/bankofchinanetbanking/logo.svg?w=400&c=v0.59.26#w200)  
+![bankofchinanetbanking](https://static.openfintech.io/payment_methods/bankofchinanetbanking/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/bankofchinanetbanking/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/bankofchinanetbanking/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![bankofchinanetbanking](https://static.openfintech.io/payment_methods/bankofchinanetbanking/icon.svg?w=278&c=v0.59.26#w100)  
+![bankofchinanetbanking](https://static.openfintech.io/payment_methods/bankofchinanetbanking/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/bankofchinanetbanking/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/bankofchinanetbanking/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,9 +43,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank of C
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![dinpay](https://static.openfintech.io/payment_providers/dinpay/icon.svg?w=278&c=v0.59.26#w100) |[Dinpay](/payment-providers/dinpay/)|`dinpay`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
-|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.svg?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
+|![dinpay](https://static.openfintech.io/payment_providers/dinpay/icon.png?w=278&c=v0.59.26#w100) |[Dinpay](/payment-providers/dinpay/)|`dinpay`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.png?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
  
 
 ## JSON Object 

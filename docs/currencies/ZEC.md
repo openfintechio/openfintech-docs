@@ -1,6 +1,6 @@
 
 # ZEC 
-![ZEC](https://static.openfintech.io/currencies/ZEC/icon.svg?w=278&c=v0.59.26#w100)  
+![ZEC](https://static.openfintech.io/currencies/ZEC/icon.png?w=278&c=v0.59.26#w100)  
 
 ## General 
  
@@ -29,10 +29,10 @@
 
 ### Icon 
  
-![ZEC](https://static.openfintech.io/currencies/ZEC/icon.svg?w=278&c=v0.59.26#w100)  
+![ZEC](https://static.openfintech.io/currencies/ZEC/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/currencies/ZEC/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/currencies/ZEC/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Shark (Khark
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-shark-kharkov](https://static.openfintech.io/payout_methods/taksi-shark-kharkov/icon.svg?w=278&c=v0.59.26#w40) |[taksi-shark-kharkov_uah](/payout-services/taksi-shark-kharkov_uah/)|`taksi-shark-kharkov_uah`| 
+|![taksi-shark-kharkov](https://static.openfintech.io/payout_methods/taksi-shark-kharkov/icon.png?w=278&c=v0.59.26#w40) |[taksi-shark-kharkov_uah](/payout-services/taksi-shark-kharkov_uah/)|`taksi-shark-kharkov_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Transact Europe 
-![transact](https://static.openfintech.io/vendors/transact/logo.svg?w=400&c=v0.59.26#w200)  
+![transact](https://static.openfintech.io/vendors/transact/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  52-54 Dimitar Hadjikotzev Str.1000 SofiaBulgaria
 
 ### Logo 
  
-![transact](https://static.openfintech.io/vendors/transact/logo.svg?w=400&c=v0.59.26#w200)  
+![transact](https://static.openfintech.io/vendors/transact/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/transact/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/transact/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![transact](https://static.openfintech.io/vendors/transact/icon.svg?w=278&c=v0.59.26#w100)  
+![transact](https://static.openfintech.io/vendors/transact/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/transact/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/transact/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

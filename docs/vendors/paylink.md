@@ -1,6 +1,6 @@
 
 # PayLink 
-![paylink](https://static.openfintech.io/vendors/paylink/logo.svg?w=400&c=v0.59.26#w200)  
+![paylink](https://static.openfintech.io/vendors/paylink/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -20,18 +20,18 @@
 
 ### Logo 
  
-![paylink](https://static.openfintech.io/vendors/paylink/logo.svg?w=400&c=v0.59.26#w200)  
+![paylink](https://static.openfintech.io/vendors/paylink/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paylink/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paylink/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paylink](https://static.openfintech.io/vendors/paylink/icon.svg?w=278&c=v0.59.26#w100)  
+![paylink](https://static.openfintech.io/vendors/paylink/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paylink/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paylink/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

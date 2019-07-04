@@ -1,6 +1,6 @@
 
 # paylib 
-![frenchonlinepaymentmethodewalletpaylib](https://static.openfintech.io/vendors/frenchonlinepaymentmethodewalletpaylib/logo.svg?w=400&c=v0.59.26#w200)  
+![frenchonlinepaymentmethodewalletpaylib](https://static.openfintech.io/vendors/frenchonlinepaymentmethodewalletpaylib/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![frenchonlinepaymentmethodewalletpaylib](https://static.openfintech.io/vendors/frenchonlinepaymentmethodewalletpaylib/logo.svg?w=400&c=v0.59.26#w200)  
+![frenchonlinepaymentmethodewalletpaylib](https://static.openfintech.io/vendors/frenchonlinepaymentmethodewalletpaylib/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/frenchonlinepaymentmethodewalletpaylib/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/frenchonlinepaymentmethodewalletpaylib/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![frenchonlinepaymentmethodewalletpaylib](https://static.openfintech.io/vendors/frenchonlinepaymentmethodewalletpaylib/icon.svg?w=278&c=v0.59.26#w100)  
+![frenchonlinepaymentmethodewalletpaylib](https://static.openfintech.io/vendors/frenchonlinepaymentmethodewalletpaylib/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/frenchonlinepaymentmethodewalletpaylib/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/frenchonlinepaymentmethodewalletpaylib/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

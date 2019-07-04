@@ -1,6 +1,6 @@
 
 # DIBS Payment Services 
-![dibspaymentservices](https://static.openfintech.io/vendors/dibspaymentservices/logo.svg?w=400&c=v0.59.26#w200)  
+![dibspaymentservices](https://static.openfintech.io/vendors/dibspaymentservices/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  StockholmSE-101 23 StockholmSweden
 
 ### Logo 
  
-![dibspaymentservices](https://static.openfintech.io/vendors/dibspaymentservices/logo.svg?w=400&c=v0.59.26#w200)  
+![dibspaymentservices](https://static.openfintech.io/vendors/dibspaymentservices/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/dibspaymentservices/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/dibspaymentservices/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![dibspaymentservices](https://static.openfintech.io/vendors/dibspaymentservices/icon.svg?w=278&c=v0.59.26#w100)  
+![dibspaymentservices](https://static.openfintech.io/vendors/dibspaymentservices/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/dibspaymentservices/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/dibspaymentservices/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Ivan (Berdya
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-ivan-berdiansk](https://static.openfintech.io/payout_methods/taksi-ivan-berdiansk/icon.svg?w=278&c=v0.59.26#w40) |[taksi-ivan-berdiansk_uah](/payout-services/taksi-ivan-berdiansk_uah/)|`taksi-ivan-berdiansk_uah`| 
+|![taksi-ivan-berdiansk](https://static.openfintech.io/payout_methods/taksi-ivan-berdiansk/icon.png?w=278&c=v0.59.26#w40) |[taksi-ivan-berdiansk_uah](/payout-services/taksi-ivan-berdiansk_uah/)|`taksi-ivan-berdiansk_uah`| 
  
 
 ## JSON Object 

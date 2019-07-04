@@ -1,6 +1,6 @@
 
 # VÚB Banka 
-![vubbanka](https://static.openfintech.io/vendors/vubbanka/logo.svg?w=400&c=v0.59.26#w200)  
+![vubbanka](https://static.openfintech.io/vendors/vubbanka/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![vubbanka](https://static.openfintech.io/vendors/vubbanka/logo.svg?w=400&c=v0.59.26#w200)  
+![vubbanka](https://static.openfintech.io/vendors/vubbanka/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/vubbanka/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/vubbanka/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![vubbanka](https://static.openfintech.io/vendors/vubbanka/icon.svg?w=278&c=v0.59.26#w100)  
+![vubbanka](https://static.openfintech.io/vendors/vubbanka/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/vubbanka/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/vubbanka/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

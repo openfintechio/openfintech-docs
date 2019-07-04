@@ -1,6 +1,6 @@
 
 # Hipercard 
-![hipercard](https://static.openfintech.io/vendors/hipercard/logo.svg?w=400&c=v0.59.26#w200)  
+![hipercard](https://static.openfintech.io/vendors/hipercard/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![hipercard](https://static.openfintech.io/vendors/hipercard/logo.svg?w=400&c=v0.59.26#w200)  
+![hipercard](https://static.openfintech.io/vendors/hipercard/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/hipercard/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/hipercard/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![hipercard](https://static.openfintech.io/vendors/hipercard/icon.svg?w=278&c=v0.59.26#w100)  
+![hipercard](https://static.openfintech.io/vendors/hipercard/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/hipercard/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/hipercard/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

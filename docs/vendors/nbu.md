@@ -1,6 +1,6 @@
 
 # National Bank of Ukraine 
-![nbu](https://static.openfintech.io/vendors/nbu/logo.svg?w=400&c=v0.59.26#w200)  
+![nbu](https://static.openfintech.io/vendors/nbu/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![nbu](https://static.openfintech.io/vendors/nbu/logo.svg?w=400&c=v0.59.26#w200)  
+![nbu](https://static.openfintech.io/vendors/nbu/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/nbu/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/nbu/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![nbu](https://static.openfintech.io/vendors/nbu/icon.svg?w=278&c=v0.59.26#w100)  
+![nbu](https://static.openfintech.io/vendors/nbu/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/nbu/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/nbu/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

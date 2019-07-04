@@ -1,6 +1,6 @@
 
 # YapStone 
-![yapstone](https://static.openfintech.io/payment_providers/yapstone/logo.svg?w=400&c=v0.59.26#w100)  
+![yapstone](https://static.openfintech.io/payment_providers/yapstone/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![yapstone](https://static.openfintech.io/payment_providers/yapstone/logo.svg?w=400&c=v0.59.26#w100)  
+![yapstone](https://static.openfintech.io/payment_providers/yapstone/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/yapstone/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/yapstone/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![yapstone](https://static.openfintech.io/payment_providers/yapstone/icon.svg?w=278&c=v0.59.26#w100)  
+![yapstone](https://static.openfintech.io/payment_providers/yapstone/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/yapstone/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/yapstone/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

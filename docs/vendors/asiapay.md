@@ -1,6 +1,6 @@
 
 # AsiaPay 
-![asiapay](https://static.openfintech.io/vendors/asiapay/logo.svg?w=400&c=v0.59.26#w200)  
+![asiapay](https://static.openfintech.io/vendors/asiapay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  191 Java Road North PointHong Kong
 
 ### Logo 
  
-![asiapay](https://static.openfintech.io/vendors/asiapay/logo.svg?w=400&c=v0.59.26#w200)  
+![asiapay](https://static.openfintech.io/vendors/asiapay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/asiapay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/asiapay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![asiapay](https://static.openfintech.io/vendors/asiapay/icon.svg?w=278&c=v0.59.26#w100)  
+![asiapay](https://static.openfintech.io/vendors/asiapay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/asiapay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/asiapay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

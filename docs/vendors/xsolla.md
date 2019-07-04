@@ -1,6 +1,6 @@
 
 # Xsolla 
-![xsolla](https://static.openfintech.io/vendors/xsolla/logo.svg?w=400&c=v0.59.26#w200)  
+![xsolla](https://static.openfintech.io/vendors/xsolla/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  15301 Ventura Blvd Building E, Suite 10091403 Sherman OaksCAUnited Stat
 
 ### Logo 
  
-![xsolla](https://static.openfintech.io/vendors/xsolla/logo.svg?w=400&c=v0.59.26#w200)  
+![xsolla](https://static.openfintech.io/vendors/xsolla/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/xsolla/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/xsolla/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![xsolla](https://static.openfintech.io/vendors/xsolla/icon.svg?w=278&c=v0.59.26#w100)  
+![xsolla](https://static.openfintech.io/vendors/xsolla/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/xsolla/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/xsolla/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

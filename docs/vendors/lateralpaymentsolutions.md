@@ -1,6 +1,6 @@
 
 # Lateral Payment Solutions 
-![lateralpaymentsolutions](https://static.openfintech.io/vendors/lateralpaymentsolutions/logo.svg?w=400&c=v0.59.26#w200)  
+![lateralpaymentsolutions](https://static.openfintech.io/vendors/lateralpaymentsolutions/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  United Kingdom
 
 ### Logo 
  
-![lateralpaymentsolutions](https://static.openfintech.io/vendors/lateralpaymentsolutions/logo.svg?w=400&c=v0.59.26#w200)  
+![lateralpaymentsolutions](https://static.openfintech.io/vendors/lateralpaymentsolutions/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/lateralpaymentsolutions/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/lateralpaymentsolutions/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![lateralpaymentsolutions](https://static.openfintech.io/vendors/lateralpaymentsolutions/icon.svg?w=278&c=v0.59.26#w100)  
+![lateralpaymentsolutions](https://static.openfintech.io/vendors/lateralpaymentsolutions/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/lateralpaymentsolutions/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/lateralpaymentsolutions/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

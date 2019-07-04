@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _TV-NET_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tv-net](https://static.openfintech.io/payout_methods/tv-net/icon.svg?w=278&c=v0.59.26#w40) |[tv-net_uah](/payout-services/tv-net_uah/)|`tv-net_uah`| 
+|![tv-net](https://static.openfintech.io/payout_methods/tv-net/icon.png?w=278&c=v0.59.26#w40) |[tv-net_uah](/payout-services/tv-net_uah/)|`tv-net_uah`| 
  
 
 ## JSON Object 

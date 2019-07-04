@@ -1,6 +1,6 @@
 
 # V.me by Visa 
-![vmevisa](https://static.openfintech.io/payment_methods/vmevisa/logo.svg?w=400&c=v0.59.26#w200)  
+![vmevisa](https://static.openfintech.io/payment_methods/vmevisa/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `vmevisa` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![vmevisa](https://static.openfintech.io/payment_methods/vmevisa/logo.svg?w=400&c=v0.59.26#w200)  
+![vmevisa](https://static.openfintech.io/payment_methods/vmevisa/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/vmevisa/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/vmevisa/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![vmevisa](https://static.openfintech.io/payment_methods/vmevisa/icon.svg?w=278&c=v0.59.26#w100)  
+![vmevisa](https://static.openfintech.io/payment_methods/vmevisa/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/vmevisa/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/vmevisa/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,8 +43,8 @@ The list of [Payment Providers](/payment-providers/) that support the _V.me by V
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![atosworldline](https://static.openfintech.io/payment_providers/atosworldline/icon.svg?w=278&c=v0.59.26#w100) |[Worldline](/payment-providers/atosworldline/)|`atosworldline`| 
-|![altapay](https://static.openfintech.io/payment_providers/altapay/icon.svg?w=278&c=v0.59.26#w100) |[AltaPay](/payment-providers/altapay/)|`altapay`| 
+|![atosworldline](https://static.openfintech.io/payment_providers/atosworldline/icon.png?w=278&c=v0.59.26#w100) |[Worldline](/payment-providers/atosworldline/)|`atosworldline`| 
+|![altapay](https://static.openfintech.io/payment_providers/altapay/icon.png?w=278&c=v0.59.26#w100) |[AltaPay](/payment-providers/altapay/)|`altapay`| 
 |![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
  
 

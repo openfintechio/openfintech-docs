@@ -1,6 +1,6 @@
 
 # Integrapay 
-![integrapay](https://static.openfintech.io/vendors/integrapay/logo.svg?w=400&c=v0.59.26#w200)  
+![integrapay](https://static.openfintech.io/vendors/integrapay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  QueenslandAustralia
 
 ### Logo 
  
-![integrapay](https://static.openfintech.io/vendors/integrapay/logo.svg?w=400&c=v0.59.26#w200)  
+![integrapay](https://static.openfintech.io/vendors/integrapay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/integrapay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/integrapay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![integrapay](https://static.openfintech.io/vendors/integrapay/icon.svg?w=278&c=v0.59.26#w100)  
+![integrapay](https://static.openfintech.io/vendors/integrapay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/integrapay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/integrapay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

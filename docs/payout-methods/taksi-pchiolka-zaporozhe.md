@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Bee (Zaporoz
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-pchiolka-zaporozhe](https://static.openfintech.io/payout_methods/taksi-pchiolka-zaporozhe/icon.svg?w=278&c=v0.59.26#w40) |[taksi-pchiolka-zaporozhe_uah](/payout-services/taksi-pchiolka-zaporozhe_uah/)|`taksi-pchiolka-zaporozhe_uah`| 
+|![taksi-pchiolka-zaporozhe](https://static.openfintech.io/payout_methods/taksi-pchiolka-zaporozhe/icon.png?w=278&c=v0.59.26#w40) |[taksi-pchiolka-zaporozhe_uah](/payout-services/taksi-pchiolka-zaporozhe_uah/)|`taksi-pchiolka-zaporozhe_uah`| 
  
 
 ## JSON Object 

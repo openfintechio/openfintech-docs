@@ -1,6 +1,6 @@
 
 # StreamPay 
-![streampay](https://static.openfintech.io/payment_providers/streampay/logo.svg?w=400&c=v0.59.26#w100)  
+![streampay](https://static.openfintech.io/payment_providers/streampay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![streampay](https://static.openfintech.io/payment_providers/streampay/logo.svg?w=400&c=v0.59.26#w100)  
+![streampay](https://static.openfintech.io/payment_providers/streampay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/streampay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/streampay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![streampay](https://static.openfintech.io/payment_providers/streampay/icon.svg?w=278&c=v0.59.26#w100)  
+![streampay](https://static.openfintech.io/payment_providers/streampay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/streampay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/streampay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

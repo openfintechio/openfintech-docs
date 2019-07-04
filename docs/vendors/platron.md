@@ -1,6 +1,6 @@
 
 # Platron 
-![platron](https://static.openfintech.io/vendors/platron/logo.svg?w=400&c=v0.59.26#w200)  
+![platron](https://static.openfintech.io/vendors/platron/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Tverskaya st 9/7 MoscowRussian Federation
 
 ### Logo 
  
-![platron](https://static.openfintech.io/vendors/platron/logo.svg?w=400&c=v0.59.26#w200)  
+![platron](https://static.openfintech.io/vendors/platron/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/platron/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/platron/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![platron](https://static.openfintech.io/vendors/platron/icon.svg?w=278&c=v0.59.26#w100)  
+![platron](https://static.openfintech.io/vendors/platron/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/platron/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/platron/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

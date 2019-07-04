@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ELAN - Internet (
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![elan-internet-odessa](https://static.openfintech.io/payout_methods/elan-internet-odessa/icon.svg?w=278&c=v0.59.26#w40) |[elan-internet-odessa_uah](/payout-services/elan-internet-odessa_uah/)|`elan-internet-odessa_uah`| 
+|![elan-internet-odessa](https://static.openfintech.io/payout_methods/elan-internet-odessa/icon.png?w=278&c=v0.59.26#w40) |[elan-internet-odessa_uah](/payout-services/elan-internet-odessa_uah/)|`elan-internet-odessa_uah`| 
  
 
 ## JSON Object 

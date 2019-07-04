@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ADAMANT-TELECOM -
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![adamant-telekom-vps-i-kolokeishn](https://static.openfintech.io/payout_methods/adamant-telekom-vps-i-kolokeishn/icon.svg?w=278&c=v0.59.26#w40) |[adamant-telekom-vps-i-kolokeishn_uah](/payout-services/adamant-telekom-vps-i-kolokeishn_uah/)|`adamant-telekom-vps-i-kolokeishn_uah`| 
+|![adamant-telekom-vps-i-kolokeishn](https://static.openfintech.io/payout_methods/adamant-telekom-vps-i-kolokeishn/icon.png?w=278&c=v0.59.26#w40) |[adamant-telekom-vps-i-kolokeishn_uah](/payout-services/adamant-telekom-vps-i-kolokeishn_uah/)|`adamant-telekom-vps-i-kolokeishn_uah`| 
  
 
 ## JSON Object 

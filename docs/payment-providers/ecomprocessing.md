@@ -1,6 +1,6 @@
 
 # E-Comprocessing (ECP) 
-![ecomprocessing](https://static.openfintech.io/payment_providers/ecomprocessing/logo.svg?w=400&c=v0.59.26#w100)  
+![ecomprocessing](https://static.openfintech.io/payment_providers/ecomprocessing/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![ecomprocessing](https://static.openfintech.io/payment_providers/ecomprocessing/logo.svg?w=400&c=v0.59.26#w100)  
+![ecomprocessing](https://static.openfintech.io/payment_providers/ecomprocessing/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/ecomprocessing/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/ecomprocessing/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![ecomprocessing](https://static.openfintech.io/payment_providers/ecomprocessing/icon.svg?w=278&c=v0.59.26#w100)  
+![ecomprocessing](https://static.openfintech.io/payment_providers/ecomprocessing/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/ecomprocessing/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/ecomprocessing/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

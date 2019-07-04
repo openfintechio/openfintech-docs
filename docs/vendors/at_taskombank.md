@@ -1,6 +1,6 @@
 
 # ПАТ 'ТАСКОМБАНК' 
-![at_taskombank](https://static.openfintech.io/vendors/at_taskombank/logo.svg?w=400&c=v0.59.26#w200)  
+![at_taskombank](https://static.openfintech.io/vendors/at_taskombank/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@ street: вул. Симона Петлюри, 30
 
 ### Logo 
  
-![at_taskombank](https://static.openfintech.io/vendors/at_taskombank/logo.svg?w=400&c=v0.59.26#w200)  
+![at_taskombank](https://static.openfintech.io/vendors/at_taskombank/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/at_taskombank/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/at_taskombank/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![at_taskombank](https://static.openfintech.io/vendors/at_taskombank/icon.svg?w=278&c=v0.59.26#w100)  
+![at_taskombank](https://static.openfintech.io/vendors/at_taskombank/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/at_taskombank/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/at_taskombank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

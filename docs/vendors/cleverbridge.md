@@ -1,6 +1,6 @@
 
 # cleverbridge 
-![cleverbridge](https://static.openfintech.io/vendors/cleverbridge/logo.svg?w=400&c=v0.59.26#w200)  
+![cleverbridge](https://static.openfintech.io/vendors/cleverbridge/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Brabanter Str. 2-4 CologneGermany
 
 ### Logo 
  
-![cleverbridge](https://static.openfintech.io/vendors/cleverbridge/logo.svg?w=400&c=v0.59.26#w200)  
+![cleverbridge](https://static.openfintech.io/vendors/cleverbridge/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/cleverbridge/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/cleverbridge/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![cleverbridge](https://static.openfintech.io/vendors/cleverbridge/icon.svg?w=278&c=v0.59.26#w100)  
+![cleverbridge](https://static.openfintech.io/vendors/cleverbridge/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/cleverbridge/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/cleverbridge/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

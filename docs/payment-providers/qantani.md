@@ -1,6 +1,6 @@
 
 # Qantani 
-![qantani](https://static.openfintech.io/payment_providers/qantani/logo.svg?w=400&c=v0.59.26#w100)  
+![qantani](https://static.openfintech.io/payment_providers/qantani/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![qantani](https://static.openfintech.io/payment_providers/qantani/logo.svg?w=400&c=v0.59.26#w100)  
+![qantani](https://static.openfintech.io/payment_providers/qantani/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/qantani/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/qantani/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![qantani](https://static.openfintech.io/payment_providers/qantani/icon.svg?w=278&c=v0.59.26#w100)  
+![qantani](https://static.openfintech.io/payment_providers/qantani/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/qantani/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/qantani/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

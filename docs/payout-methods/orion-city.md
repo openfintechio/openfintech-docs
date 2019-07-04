@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Orion city_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![orion-city](https://static.openfintech.io/payout_methods/orion-city/icon.svg?w=278&c=v0.59.26#w40) |[orion-city_uah](/payout-services/orion-city_uah/)|`orion-city_uah`| 
+|![orion-city](https://static.openfintech.io/payout_methods/orion-city/icon.png?w=278&c=v0.59.26#w40) |[orion-city_uah](/payout-services/orion-city_uah/)|`orion-city_uah`| 
  
 
 ## JSON Object 

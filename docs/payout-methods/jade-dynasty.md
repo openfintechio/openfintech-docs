@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Jade Dynasty_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![jade-dynasty](https://static.openfintech.io/payout_methods/jade-dynasty/icon.svg?w=278&c=v0.59.26#w40) |[jade-dynasty_uah](/payout-services/jade-dynasty_uah/)|`jade-dynasty_uah`| 
+|![jade-dynasty](https://static.openfintech.io/payout_methods/jade-dynasty/icon.png?w=278&c=v0.59.26#w40) |[jade-dynasty_uah](/payout-services/jade-dynasty_uah/)|`jade-dynasty_uah`| 
  
 
 ## JSON Object 

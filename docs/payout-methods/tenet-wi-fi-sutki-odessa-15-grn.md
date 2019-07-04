@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Tenet Wi-Fi - Dai
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tenet-wi-fi-sutki-odessa-15-grn](https://static.openfintech.io/payout_methods/tenet-wi-fi-sutki-odessa-15-grn/icon.svg?w=278&c=v0.59.26#w40) |[tenet-wi-fi-sutki-odessa-15-grn_uah](/payout-services/tenet-wi-fi-sutki-odessa-15-grn_uah/)|`tenet-wi-fi-sutki-odessa-15-grn_uah`| 
+|![tenet-wi-fi-sutki-odessa-15-grn](https://static.openfintech.io/payout_methods/tenet-wi-fi-sutki-odessa-15-grn/icon.png?w=278&c=v0.59.26#w40) |[tenet-wi-fi-sutki-odessa-15-grn_uah](/payout-services/tenet-wi-fi-sutki-odessa-15-grn_uah/)|`tenet-wi-fi-sutki-odessa-15-grn_uah`| 
  
 
 ## JSON Object 

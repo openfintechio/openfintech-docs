@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _dobovo.com_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![dobovo-com](https://static.openfintech.io/payout_methods/dobovo-com/icon.svg?w=278&c=v0.59.26#w40) |[dobovo-com_uah](/payout-services/dobovo-com_uah/)|`dobovo-com_uah`| 
+|![dobovo-com](https://static.openfintech.io/payout_methods/dobovo-com/icon.png?w=278&c=v0.59.26#w40) |[dobovo-com_uah](/payout-services/dobovo-com_uah/)|`dobovo-com_uah`| 
  
 
 ## JSON Object 

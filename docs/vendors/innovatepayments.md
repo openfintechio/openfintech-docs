@@ -1,6 +1,6 @@
 
 # Innovate Payments 
-![innovatepayments](https://static.openfintech.io/vendors/innovatepayments/logo.svg?w=400&c=v0.59.26#w200)  
+![innovatepayments](https://static.openfintech.io/vendors/innovatepayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  PO Box 333882 DubaiU.A.E.
 
 ### Logo 
  
-![innovatepayments](https://static.openfintech.io/vendors/innovatepayments/logo.svg?w=400&c=v0.59.26#w200)  
+![innovatepayments](https://static.openfintech.io/vendors/innovatepayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/innovatepayments/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/innovatepayments/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![innovatepayments](https://static.openfintech.io/vendors/innovatepayments/icon.svg?w=278&c=v0.59.26#w100)  
+![innovatepayments](https://static.openfintech.io/vendors/innovatepayments/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/innovatepayments/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/innovatepayments/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

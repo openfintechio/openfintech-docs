@@ -35,7 +35,7 @@ The list of [Payout Services](/payout-services/) based on the _Shanghai Rural Co
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![shanghai_rural_commercial_bank](https://static.openfintech.io/payout_methods/shanghai_rural_commercial_bank/icon.svg?w=278&c=v0.59.26#w40) |[shanghai_rural_commercial_bank_cny](/payout-services/shanghai_rural_commercial_bank_cny/)|`shanghai_rural_commercial_bank_cny`| 
+|![shanghai_rural_commercial_bank](https://static.openfintech.io/payout_methods/shanghai_rural_commercial_bank/icon.png?w=278&c=v0.59.26#w40) |[shanghai_rural_commercial_bank_cny](/payout-services/shanghai_rural_commercial_bank_cny/)|`shanghai_rural_commercial_bank_cny`| 
  
 
 ## JSON Object 

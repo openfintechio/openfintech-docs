@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Ukrlink Group (Ki
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ukrlink-grup-kiev](https://static.openfintech.io/payout_methods/ukrlink-grup-kiev/icon.svg?w=278&c=v0.59.26#w40) |[ukrlink-grup-kiev_uah](/payout-services/ukrlink-grup-kiev_uah/)|`ukrlink-grup-kiev_uah`| 
+|![ukrlink-grup-kiev](https://static.openfintech.io/payout_methods/ukrlink-grup-kiev/icon.png?w=278&c=v0.59.26#w40) |[ukrlink-grup-kiev_uah](/payout-services/ukrlink-grup-kiev_uah/)|`ukrlink-grup-kiev_uah`| 
  
 
 ## JSON Object 

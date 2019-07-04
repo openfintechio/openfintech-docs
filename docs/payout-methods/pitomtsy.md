@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Pets_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![pitomtsy](https://static.openfintech.io/payout_methods/pitomtsy/icon.svg?w=278&c=v0.59.26#w40) |[pitomtsy_uah](/payout-services/pitomtsy_uah/)|`pitomtsy_uah`| 
+|![pitomtsy](https://static.openfintech.io/payout_methods/pitomtsy/icon.png?w=278&c=v0.59.26#w40) |[pitomtsy_uah](/payout-services/pitomtsy_uah/)|`pitomtsy_uah`| 
  
 
 ## JSON Object 

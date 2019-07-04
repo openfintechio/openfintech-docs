@@ -1,6 +1,6 @@
 
 # Megafon 
-![megafon](https://static.openfintech.io/payment_methods/megafon/logo.svg?w=400&c=v0.59.26#w200)  
+![megafon](https://static.openfintech.io/payment_methods/megafon/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `megafon` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![megafon](https://static.openfintech.io/payment_methods/megafon/logo.svg?w=400&c=v0.59.26#w200)  
+![megafon](https://static.openfintech.io/payment_methods/megafon/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/megafon/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/megafon/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![megafon](https://static.openfintech.io/payment_methods/megafon/icon.svg?w=278&c=v0.59.26#w100)  
+![megafon](https://static.openfintech.io/payment_methods/megafon/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/megafon/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/megafon/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -36,7 +36,7 @@ The list of [Payment Services](/payment-services/) based on the _Megafon_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![megafon](https://static.openfintech.io/payment_methods/megafon/icon.svg?w=278&c=v0.59.26#w100) |[megafon_rub_hpp](/payment-services/megafon_rub_hpp/)|`megafon_rub_hpp`| 
+|![megafon](https://static.openfintech.io/payment_methods/megafon/icon.png?w=278&c=v0.59.26#w100) |[megafon_rub_hpp](/payment-services/megafon_rub_hpp/)|`megafon_rub_hpp`| 
  
 
 ## Payment Providers 
@@ -48,7 +48,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Megafon_
 |![webmoney](https://static.openfintech.io/payment_providers/webmoney/icon.svg?w=278&c=v0.59.26#w100) |[WebMoney](/payment-providers/webmoney/)|`webmoney`| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![walletone](https://static.openfintech.io/payment_providers/walletone/icon.svg?w=278&c=v0.59.26#w100) |[Wallet One](/payment-providers/walletone/)|`walletone`| 
-|![payeer](https://static.openfintech.io/payment_providers/payeer/icon.svg?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
+|![payeer](https://static.openfintech.io/payment_providers/payeer/icon.png?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
  
 
 ## JSON Object 

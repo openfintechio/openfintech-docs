@@ -1,6 +1,6 @@
 
 # Acapture 
-![acapture](https://static.openfintech.io/vendors/acapture/logo.svg?w=400&c=v0.59.26#w200)  
+![acapture](https://static.openfintech.io/vendors/acapture/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  Molenpad 21016 GM AmsterdamNetherlands
 
 ### Logo 
  
-![acapture](https://static.openfintech.io/vendors/acapture/logo.svg?w=400&c=v0.59.26#w200)  
+![acapture](https://static.openfintech.io/vendors/acapture/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/acapture/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/acapture/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![acapture](https://static.openfintech.io/vendors/acapture/icon.svg?w=278&c=v0.59.26#w100)  
+![acapture](https://static.openfintech.io/vendors/acapture/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/acapture/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/acapture/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

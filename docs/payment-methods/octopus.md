@@ -1,6 +1,6 @@
 
 # Octopus 
-![octopus](https://static.openfintech.io/payment_methods/octopus/logo.svg?w=400&c=v0.59.26#w200)  
+![octopus](https://static.openfintech.io/payment_methods/octopus/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `octopus` 
@@ -20,17 +20,17 @@
 ## Images 
 
 ### Logo 
-![octopus](https://static.openfintech.io/payment_methods/octopus/logo.svg?w=400&c=v0.59.26#w200)  
+![octopus](https://static.openfintech.io/payment_methods/octopus/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/octopus/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/octopus/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![octopus](https://static.openfintech.io/payment_methods/octopus/icon.svg?w=278&c=v0.59.26#w100)  
+![octopus](https://static.openfintech.io/payment_methods/octopus/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/octopus/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/octopus/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -39,7 +39,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Octopus_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.svg?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
+|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.png?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
  
 
 ## JSON Object 

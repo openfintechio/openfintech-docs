@@ -1,6 +1,6 @@
 
 # PagBrasil 
-![pagbrasil](https://static.openfintech.io/vendors/pagbrasil/logo.svg?w=400&c=v0.59.26#w200)  
+![pagbrasil](https://static.openfintech.io/vendors/pagbrasil/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Av. Dr. Nilo Peçanha, 1221 cj.90291330-000 Porto AlegreRio Grande do S
 
 ### Logo 
  
-![pagbrasil](https://static.openfintech.io/vendors/pagbrasil/logo.svg?w=400&c=v0.59.26#w200)  
+![pagbrasil](https://static.openfintech.io/vendors/pagbrasil/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/pagbrasil/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/pagbrasil/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![pagbrasil](https://static.openfintech.io/vendors/pagbrasil/icon.svg?w=278&c=v0.59.26#w100)  
+![pagbrasil](https://static.openfintech.io/vendors/pagbrasil/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/pagbrasil/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/pagbrasil/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # RadiantPay 
-![radiantpay](https://static.openfintech.io/vendors/radiantpay/logo.svg?w=400&c=v0.59.26#w200)  
+![radiantpay](https://static.openfintech.io/vendors/radiantpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  145-157 St.John streetEC1V 4PW LondonUnited Kingdom
 
 ### Logo 
  
-![radiantpay](https://static.openfintech.io/vendors/radiantpay/logo.svg?w=400&c=v0.59.26#w200)  
+![radiantpay](https://static.openfintech.io/vendors/radiantpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/radiantpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/radiantpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![radiantpay](https://static.openfintech.io/vendors/radiantpay/icon.svg?w=278&c=v0.59.26#w100)  
+![radiantpay](https://static.openfintech.io/vendors/radiantpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/radiantpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/radiantpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

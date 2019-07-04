@@ -1,6 +1,6 @@
 
 # Prostir 
-![nsmep](https://static.openfintech.io/payment_methods/nsmep/logo.svg?w=400&c=v0.59.26#w200)  
+![nsmep](https://static.openfintech.io/payment_methods/nsmep/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `nsmep` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![nsmep](https://static.openfintech.io/payment_methods/nsmep/logo.svg?w=400&c=v0.59.26#w200)  
+![nsmep](https://static.openfintech.io/payment_methods/nsmep/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/nsmep/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/nsmep/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![nsmep](https://static.openfintech.io/payment_methods/nsmep/icon.svg?w=278&c=v0.59.26#w100)  
+![nsmep](https://static.openfintech.io/payment_methods/nsmep/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/nsmep/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/nsmep/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

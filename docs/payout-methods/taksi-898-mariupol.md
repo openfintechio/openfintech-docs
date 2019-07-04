@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi 898 (Mariupo
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-898-mariupol](https://static.openfintech.io/payout_methods/taksi-898-mariupol/icon.svg?w=278&c=v0.59.26#w40) |[taksi-898-mariupol_uah](/payout-services/taksi-898-mariupol_uah/)|`taksi-898-mariupol_uah`| 
+|![taksi-898-mariupol](https://static.openfintech.io/payout_methods/taksi-898-mariupol/icon.png?w=278&c=v0.59.26#w40) |[taksi-898-mariupol_uah](/payout-services/taksi-898-mariupol_uah/)|`taksi-898-mariupol_uah`| 
  
 
 ## JSON Object 

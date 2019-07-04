@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _SkyNet (Ishmael)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![skynet-izmail](https://static.openfintech.io/payout_methods/skynet-izmail/icon.svg?w=278&c=v0.59.26#w40) |[skynet-izmail_uah](/payout-services/skynet-izmail_uah/)|`skynet-izmail_uah`| 
+|![skynet-izmail](https://static.openfintech.io/payout_methods/skynet-izmail/icon.png?w=278&c=v0.59.26#w40) |[skynet-izmail_uah](/payout-services/skynet-izmail_uah/)|`skynet-izmail_uah`| 
  
 
 ## JSON Object 

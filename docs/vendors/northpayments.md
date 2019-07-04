@@ -1,6 +1,6 @@
 
 # North Payments 
-![northpayments](https://static.openfintech.io/vendors/northpayments/logo.svg?w=400&c=v0.59.26#w200)  
+![northpayments](https://static.openfintech.io/vendors/northpayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Wilson House, 2 Lorne Park RoadBH1 1JN BournemouthDorsetUnited Kingdom
 
 ### Logo 
  
-![northpayments](https://static.openfintech.io/vendors/northpayments/logo.svg?w=400&c=v0.59.26#w200)  
+![northpayments](https://static.openfintech.io/vendors/northpayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/northpayments/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/northpayments/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![northpayments](https://static.openfintech.io/vendors/northpayments/icon.svg?w=278&c=v0.59.26#w100)  
+![northpayments](https://static.openfintech.io/vendors/northpayments/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/northpayments/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/northpayments/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

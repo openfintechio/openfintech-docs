@@ -1,6 +1,6 @@
 
 # Judo Payments 
-![judopayments](https://static.openfintech.io/vendors/judopayments/logo.svg?w=400&c=v0.59.26#w200)  
+![judopayments](https://static.openfintech.io/vendors/judopayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  LondonUnited Kingdom
 
 ### Logo 
  
-![judopayments](https://static.openfintech.io/vendors/judopayments/logo.svg?w=400&c=v0.59.26#w200)  
+![judopayments](https://static.openfintech.io/vendors/judopayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/judopayments/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/judopayments/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![judopayments](https://static.openfintech.io/vendors/judopayments/icon.svg?w=278&c=v0.59.26#w100)  
+![judopayments](https://static.openfintech.io/vendors/judopayments/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/judopayments/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/judopayments/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # GiroSolution 
-![girosolution](https://static.openfintech.io/payment_providers/girosolution/logo.svg?w=400&c=v0.59.26#w100)  
+![girosolution](https://static.openfintech.io/payment_providers/girosolution/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![girosolution](https://static.openfintech.io/payment_providers/girosolution/logo.svg?w=400&c=v0.59.26#w100)  
+![girosolution](https://static.openfintech.io/payment_providers/girosolution/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/girosolution/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/girosolution/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![girosolution](https://static.openfintech.io/payment_providers/girosolution/icon.svg?w=278&c=v0.59.26#w100)  
+![girosolution](https://static.openfintech.io/payment_providers/girosolution/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/girosolution/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/girosolution/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

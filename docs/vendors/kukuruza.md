@@ -1,6 +1,6 @@
 
 # Кукуруза 
-![kukuruza](https://static.openfintech.io/vendors/kukuruza/logo.svg?w=400&c=v0.59.26#w200)  
+![kukuruza](https://static.openfintech.io/vendors/kukuruza/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![kukuruza](https://static.openfintech.io/vendors/kukuruza/logo.svg?w=400&c=v0.59.26#w200)  
+![kukuruza](https://static.openfintech.io/vendors/kukuruza/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/kukuruza/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/kukuruza/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![kukuruza](https://static.openfintech.io/vendors/kukuruza/icon.svg?w=278&c=v0.59.26#w100)  
+![kukuruza](https://static.openfintech.io/vendors/kukuruza/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/kukuruza/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/kukuruza/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

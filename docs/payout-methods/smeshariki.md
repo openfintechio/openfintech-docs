@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Smeshariki_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![smeshariki](https://static.openfintech.io/payout_methods/smeshariki/icon.svg?w=278&c=v0.59.26#w40) |[smeshariki_uah](/payout-services/smeshariki_uah/)|`smeshariki_uah`| 
+|![smeshariki](https://static.openfintech.io/payout_methods/smeshariki/icon.png?w=278&c=v0.59.26#w40) |[smeshariki_uah](/payout-services/smeshariki_uah/)|`smeshariki_uah`| 
  
 
 ## JSON Object 

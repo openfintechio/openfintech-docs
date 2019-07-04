@@ -1,6 +1,6 @@
 
 # Viber 
-![viber](https://static.openfintech.io/payment_methods/viber/logo.svg?w=400&c=v0.59.26#w200)  
+![viber](https://static.openfintech.io/payment_methods/viber/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `viber` 
@@ -15,17 +15,17 @@
 ## Images 
 
 ### Logo 
-![viber](https://static.openfintech.io/payment_methods/viber/logo.svg?w=400&c=v0.59.26#w200)  
+![viber](https://static.openfintech.io/payment_methods/viber/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/viber/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/viber/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![viber](https://static.openfintech.io/payment_methods/viber/icon.svg?w=278&c=v0.59.26#w100)  
+![viber](https://static.openfintech.io/payment_methods/viber/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/viber/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/viber/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

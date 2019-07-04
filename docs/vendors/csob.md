@@ -1,6 +1,6 @@
 
 # CSOB 
-![csob](https://static.openfintech.io/vendors/csob/logo.svg?w=400&c=v0.59.26#w200)  
+![csob](https://static.openfintech.io/vendors/csob/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![csob](https://static.openfintech.io/vendors/csob/logo.svg?w=400&c=v0.59.26#w200)  
+![csob](https://static.openfintech.io/vendors/csob/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/csob/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/csob/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![csob](https://static.openfintech.io/vendors/csob/icon.svg?w=278&c=v0.59.26#w100)  
+![csob](https://static.openfintech.io/vendors/csob/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/csob/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/csob/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

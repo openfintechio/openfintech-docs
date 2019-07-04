@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _MixNet (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![mixnet-kiev](https://static.openfintech.io/payout_methods/mixnet-kiev/icon.svg?w=278&c=v0.59.26#w40) |[mixnet-kiev_uah](/payout-services/mixnet-kiev_uah/)|`mixnet-kiev_uah`| 
+|![mixnet-kiev](https://static.openfintech.io/payout_methods/mixnet-kiev/icon.png?w=278&c=v0.59.26#w40) |[mixnet-kiev_uah](/payout-services/mixnet-kiev_uah/)|`mixnet-kiev_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ІТ-LUX (Kalush)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![it-liuks-kalush-ofis-vul-karakaia-9](https://static.openfintech.io/payout_methods/it-liuks-kalush-ofis-vul-karakaia-9/icon.svg?w=278&c=v0.59.26#w40) |[it-liuks-kalush-ofis-vul-karakaia-9_uah](/payout-services/it-liuks-kalush-ofis-vul-karakaia-9_uah/)|`it-liuks-kalush-ofis-vul-karakaia-9_uah`| 
+|![it-liuks-kalush-ofis-vul-karakaia-9](https://static.openfintech.io/payout_methods/it-liuks-kalush-ofis-vul-karakaia-9/icon.png?w=278&c=v0.59.26#w40) |[it-liuks-kalush-ofis-vul-karakaia-9_uah](/payout-services/it-liuks-kalush-ofis-vul-karakaia-9_uah/)|`it-liuks-kalush-ofis-vul-karakaia-9_uah`| 
  
 
 ## JSON Object 

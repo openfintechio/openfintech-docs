@@ -1,6 +1,6 @@
 
 # Globebill 
-![globebill](https://static.openfintech.io/payment_providers/globebill/logo.svg?w=400&c=v0.59.26#w100)  
+![globebill](https://static.openfintech.io/payment_providers/globebill/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![globebill](https://static.openfintech.io/payment_providers/globebill/logo.svg?w=400&c=v0.59.26#w100)  
+![globebill](https://static.openfintech.io/payment_providers/globebill/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/globebill/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/globebill/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![globebill](https://static.openfintech.io/payment_providers/globebill/icon.svg?w=278&c=v0.59.26#w100)  
+![globebill](https://static.openfintech.io/payment_providers/globebill/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/globebill/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/globebill/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

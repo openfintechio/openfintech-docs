@@ -1,6 +1,6 @@
 
 # 4Cash 
-![4cash](https://static.openfintech.io/vendors/4cash/logo.svg?w=400&c=v0.59.26#w200)  
+![4cash](https://static.openfintech.io/vendors/4cash/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  K. Matsi 3 & Anexartisias Corner, Rousos Limassol Tower, 4th floor, Fla
 
 ### Logo 
  
-![4cash](https://static.openfintech.io/vendors/4cash/logo.svg?w=400&c=v0.59.26#w200)  
+![4cash](https://static.openfintech.io/vendors/4cash/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/4cash/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/4cash/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![4cash](https://static.openfintech.io/vendors/4cash/icon.svg?w=278&c=v0.59.26#w100)  
+![4cash](https://static.openfintech.io/vendors/4cash/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/4cash/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/4cash/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

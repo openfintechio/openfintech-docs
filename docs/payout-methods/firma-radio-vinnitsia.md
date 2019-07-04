@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Firma 'RADIO' (Vi
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![firma-radio-vinnitsia](https://static.openfintech.io/payout_methods/firma-radio-vinnitsia/icon.svg?w=278&c=v0.59.26#w40) |[firma-radio-vinnitsia_uah](/payout-services/firma-radio-vinnitsia_uah/)|`firma-radio-vinnitsia_uah`| 
+|![firma-radio-vinnitsia](https://static.openfintech.io/payout_methods/firma-radio-vinnitsia/icon.png?w=278&c=v0.59.26#w40) |[firma-radio-vinnitsia_uah](/payout-services/firma-radio-vinnitsia_uah/)|`firma-radio-vinnitsia_uah`| 
  
 
 ## JSON Object 

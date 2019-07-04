@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Merlin Telecom (K
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![merlin-telecom-kiev](https://static.openfintech.io/payout_methods/merlin-telecom-kiev/icon.svg?w=278&c=v0.59.26#w40) |[merlin-telecom-kiev_uah](/payout-services/merlin-telecom-kiev_uah/)|`merlin-telecom-kiev_uah`| 
+|![merlin-telecom-kiev](https://static.openfintech.io/payout_methods/merlin-telecom-kiev/icon.png?w=278&c=v0.59.26#w40) |[merlin-telecom-kiev_uah](/payout-services/merlin-telecom-kiev_uah/)|`merlin-telecom-kiev_uah`| 
  
 
 ## JSON Object 

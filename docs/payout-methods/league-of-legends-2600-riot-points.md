@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _League of Legends
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![league-of-legends-2600-riot-points](https://static.openfintech.io/payout_methods/league-of-legends-2600-riot-points/icon.svg?w=278&c=v0.59.26#w40) |[league-of-legends-2600-riot-points_uah](/payout-services/league-of-legends-2600-riot-points_uah/)|`league-of-legends-2600-riot-points_uah`| 
+|![league-of-legends-2600-riot-points](https://static.openfintech.io/payout_methods/league-of-legends-2600-riot-points/icon.png?w=278&c=v0.59.26#w40) |[league-of-legends-2600-riot-points_uah](/payout-services/league-of-legends-2600-riot-points_uah/)|`league-of-legends-2600-riot-points_uah`| 
  
 
 ## JSON Object 

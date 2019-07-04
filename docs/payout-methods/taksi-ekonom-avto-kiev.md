@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Economy-Auto
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-ekonom-avto-kiev](https://static.openfintech.io/payout_methods/taksi-ekonom-avto-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-ekonom-avto-kiev_uah](/payout-services/taksi-ekonom-avto-kiev_uah/)|`taksi-ekonom-avto-kiev_uah`| 
+|![taksi-ekonom-avto-kiev](https://static.openfintech.io/payout_methods/taksi-ekonom-avto-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-ekonom-avto-kiev_uah](/payout-services/taksi-ekonom-avto-kiev_uah/)|`taksi-ekonom-avto-kiev_uah`| 
  
 
 ## JSON Object 

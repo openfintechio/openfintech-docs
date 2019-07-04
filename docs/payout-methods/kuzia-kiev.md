@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _KUZYA (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kuzia-kiev](https://static.openfintech.io/payout_methods/kuzia-kiev/icon.svg?w=278&c=v0.59.26#w40) |[kuzia-kiev_uah](/payout-services/kuzia-kiev_uah/)|`kuzia-kiev_uah`| 
+|![kuzia-kiev](https://static.openfintech.io/payout_methods/kuzia-kiev/icon.png?w=278&c=v0.59.26#w40) |[kuzia-kiev_uah](/payout-services/kuzia-kiev_uah/)|`kuzia-kiev_uah`| 
  
 
 ## JSON Object 

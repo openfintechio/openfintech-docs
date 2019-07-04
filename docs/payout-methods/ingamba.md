@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Inghamba_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ingamba](https://static.openfintech.io/payout_methods/ingamba/icon.svg?w=278&c=v0.59.26#w40) |[ingamba_uah](/payout-services/ingamba_uah/)|`ingamba_uah`| 
+|![ingamba](https://static.openfintech.io/payout_methods/ingamba/icon.png?w=278&c=v0.59.26#w40) |[ingamba_uah](/payout-services/ingamba_uah/)|`ingamba_uah`| 
  
 
 ## JSON Object 

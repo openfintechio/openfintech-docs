@@ -1,6 +1,6 @@
 
 # Moneta.RU 
-![monetaru](https://static.openfintech.io/vendors/monetaru/logo.svg?w=400&c=v0.59.26#w200)  
+![monetaru](https://static.openfintech.io/vendors/monetaru/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Moscow109129 Russian Federation
 
 ### Logo 
  
-![monetaru](https://static.openfintech.io/vendors/monetaru/logo.svg?w=400&c=v0.59.26#w200)  
+![monetaru](https://static.openfintech.io/vendors/monetaru/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/monetaru/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/monetaru/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![monetaru](https://static.openfintech.io/vendors/monetaru/icon.svg?w=278&c=v0.59.26#w100)  
+![monetaru](https://static.openfintech.io/vendors/monetaru/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/monetaru/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/monetaru/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Victoria (Od
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-viktoriia-odecsa](https://static.openfintech.io/payout_methods/taksi-viktoriia-odecsa/icon.svg?w=278&c=v0.59.26#w40) |[taksi-viktoriia-odecsa_uah](/payout-services/taksi-viktoriia-odecsa_uah/)|`taksi-viktoriia-odecsa_uah`| 
+|![taksi-viktoriia-odecsa](https://static.openfintech.io/payout_methods/taksi-viktoriia-odecsa/icon.png?w=278&c=v0.59.26#w40) |[taksi-viktoriia-odecsa_uah](/payout-services/taksi-viktoriia-odecsa_uah/)|`taksi-viktoriia-odecsa_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Optimal (Exa
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-optimalnoe-rovno](https://static.openfintech.io/payout_methods/taksi-optimalnoe-rovno/icon.svg?w=278&c=v0.59.26#w40) |[taksi-optimalnoe-rovno_uah](/payout-services/taksi-optimalnoe-rovno_uah/)|`taksi-optimalnoe-rovno_uah`| 
+|![taksi-optimalnoe-rovno](https://static.openfintech.io/payout_methods/taksi-optimalnoe-rovno/icon.png?w=278&c=v0.59.26#w40) |[taksi-optimalnoe-rovno_uah](/payout-services/taksi-optimalnoe-rovno_uah/)|`taksi-optimalnoe-rovno_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Arena (Kiev)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-arena-kiev](https://static.openfintech.io/payout_methods/taksi-arena-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-arena-kiev_uah](/payout-services/taksi-arena-kiev_uah/)|`taksi-arena-kiev_uah`| 
+|![taksi-arena-kiev](https://static.openfintech.io/payout_methods/taksi-arena-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-arena-kiev_uah](/payout-services/taksi-arena-kiev_uah/)|`taksi-arena-kiev_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Pagofacil 
-![pagofacil](https://static.openfintech.io/payment_methods/pagofacil/logo.svg?w=400&c=v0.59.26#w200)  
+![pagofacil](https://static.openfintech.io/payment_methods/pagofacil/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `pagofacil` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![pagofacil](https://static.openfintech.io/payment_methods/pagofacil/logo.svg?w=400&c=v0.59.26#w200)  
+![pagofacil](https://static.openfintech.io/payment_methods/pagofacil/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/pagofacil/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/pagofacil/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![pagofacil](https://static.openfintech.io/payment_methods/pagofacil/icon.svg?w=278&c=v0.59.26#w100)  
+![pagofacil](https://static.openfintech.io/payment_methods/pagofacil/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/pagofacil/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/pagofacil/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

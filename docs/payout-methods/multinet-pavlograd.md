@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _MultiNet (Pavlogr
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![multinet-pavlograd](https://static.openfintech.io/payout_methods/multinet-pavlograd/icon.svg?w=278&c=v0.59.26#w40) |[multinet-pavlograd_uah](/payout-services/multinet-pavlograd_uah/)|`multinet-pavlograd_uah`| 
+|![multinet-pavlograd](https://static.openfintech.io/payout_methods/multinet-pavlograd/icon.png?w=278&c=v0.59.26#w40) |[multinet-pavlograd_uah](/payout-services/multinet-pavlograd_uah/)|`multinet-pavlograd_uah`| 
  
 
 ## JSON Object 

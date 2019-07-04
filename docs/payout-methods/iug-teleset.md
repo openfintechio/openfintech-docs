@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _South TV Network_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![iug-teleset](https://static.openfintech.io/payout_methods/iug-teleset/icon.svg?w=278&c=v0.59.26#w40) |[iug-teleset_uah](/payout-services/iug-teleset_uah/)|`iug-teleset_uah`| 
+|![iug-teleset](https://static.openfintech.io/payout_methods/iug-teleset/icon.png?w=278&c=v0.59.26#w40) |[iug-teleset_uah](/payout-services/iug-teleset_uah/)|`iug-teleset_uah`| 
  
 
 ## JSON Object 

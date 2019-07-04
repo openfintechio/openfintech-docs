@@ -1,6 +1,6 @@
 
 # Total Web Solutions 
-![totalwebsolutions](https://static.openfintech.io/vendors/totalwebsolutions/logo.svg?w=400&c=v0.59.26#w200)  
+![totalwebsolutions](https://static.openfintech.io/vendors/totalwebsolutions/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  12 Riverview, The Embankment Business ParkSK4 3GN StockportCheshireUnit
 
 ### Logo 
  
-![totalwebsolutions](https://static.openfintech.io/vendors/totalwebsolutions/logo.svg?w=400&c=v0.59.26#w200)  
+![totalwebsolutions](https://static.openfintech.io/vendors/totalwebsolutions/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/totalwebsolutions/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/totalwebsolutions/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![totalwebsolutions](https://static.openfintech.io/vendors/totalwebsolutions/icon.svg?w=278&c=v0.59.26#w100)  
+![totalwebsolutions](https://static.openfintech.io/vendors/totalwebsolutions/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/totalwebsolutions/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/totalwebsolutions/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

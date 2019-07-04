@@ -1,6 +1,6 @@
 
 # Fat Zebra 
-![fatzebra](https://static.openfintech.io/vendors/fatzebra/logo.svg?w=400&c=v0.59.26#w200)  
+![fatzebra](https://static.openfintech.io/vendors/fatzebra/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  GPO Box 9362601 New Zealand
 
 ### Logo 
  
-![fatzebra](https://static.openfintech.io/vendors/fatzebra/logo.svg?w=400&c=v0.59.26#w200)  
+![fatzebra](https://static.openfintech.io/vendors/fatzebra/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/fatzebra/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/fatzebra/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![fatzebra](https://static.openfintech.io/vendors/fatzebra/icon.svg?w=278&c=v0.59.26#w100)  
+![fatzebra](https://static.openfintech.io/vendors/fatzebra/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/fatzebra/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/fatzebra/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 
