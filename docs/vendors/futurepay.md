@@ -1,6 +1,6 @@
 
 # FuturePay 
-![futurepay](https://static.openfintech.io/vendors/futurepay/logo.png?w=400&c=v0.59.26#w200)  
+![futurepay](https://static.openfintech.io/vendors/futurepay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![futurepay](https://static.openfintech.io/vendors/futurepay/logo.png?w=400&c=v0.59.26#w200)  
+![futurepay](https://static.openfintech.io/vendors/futurepay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/futurepay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/futurepay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![futurepay](https://static.openfintech.io/vendors/futurepay/icon.png?w=278&c=v0.59.26#w100)  
+![futurepay](https://static.openfintech.io/vendors/futurepay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/futurepay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/futurepay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

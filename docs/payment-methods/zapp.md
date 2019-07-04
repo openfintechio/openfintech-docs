@@ -1,6 +1,6 @@
 
 # Zapp 
-![zapp](https://static.openfintech.io/payment_methods/zapp/logo.png?w=400&c=v0.59.26#w200)  
+![zapp](https://static.openfintech.io/payment_methods/zapp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `zapp` 
@@ -21,17 +21,17 @@
 ## Images 
 
 ### Logo 
-![zapp](https://static.openfintech.io/payment_methods/zapp/logo.png?w=400&c=v0.59.26#w200)  
+![zapp](https://static.openfintech.io/payment_methods/zapp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/zapp/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/zapp/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![zapp](https://static.openfintech.io/payment_methods/zapp/icon.png?w=278&c=v0.59.26#w100)  
+![zapp](https://static.openfintech.io/payment_methods/zapp/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/zapp/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/zapp/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

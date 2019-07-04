@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ITLucks (Kharkiv)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![itlucks-kharkov](https://static.openfintech.io/payout_methods/itlucks-kharkov/icon.png?w=278&c=v0.59.26#w40) |[itlucks-kharkov_uah](/payout-services/itlucks-kharkov_uah/)|`itlucks-kharkov_uah`| 
+|![itlucks-kharkov](https://static.openfintech.io/payout_methods/itlucks-kharkov/icon.svg?w=278&c=v0.59.26#w40) |[itlucks-kharkov_uah](/payout-services/itlucks-kharkov_uah/)|`itlucks-kharkov_uah`| 
  
 
 ## JSON Object 

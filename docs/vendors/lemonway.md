@@ -1,6 +1,6 @@
 
 # Lemon Way 
-![lemonway](https://static.openfintech.io/vendors/lemonway/logo.png?w=400&c=v0.59.26#w200)  
+![lemonway](https://static.openfintech.io/vendors/lemonway/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  14 rue de la beaune 93100 Montreuil France
 
 ### Logo 
  
-![lemonway](https://static.openfintech.io/vendors/lemonway/logo.png?w=400&c=v0.59.26#w200)  
+![lemonway](https://static.openfintech.io/vendors/lemonway/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/lemonway/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/lemonway/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![lemonway](https://static.openfintech.io/vendors/lemonway/icon.png?w=278&c=v0.59.26#w100)  
+![lemonway](https://static.openfintech.io/vendors/lemonway/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/lemonway/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/lemonway/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

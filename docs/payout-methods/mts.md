@@ -1,6 +1,6 @@
 
 # MTS 
-![mts](https://static.openfintech.io/payment_methods/mts/logo.png?w=400&c=v0.59.26#w200)  
+![mts](https://static.openfintech.io/payment_methods/mts/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `mts` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![mts](https://static.openfintech.io/payment_methods/mts/logo.png?w=400&c=v0.59.26#w200)  
+![mts](https://static.openfintech.io/payment_methods/mts/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/mts/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/mts/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![mts](https://static.openfintech.io/payment_methods/mts/icon.png?w=278&c=v0.59.26#w100)  
+![mts](https://static.openfintech.io/payment_methods/mts/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/mts/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/mts/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payout Services 
@@ -47,7 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _MTS_
 |:---:|:---:|:---:| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![walletone](https://static.openfintech.io/payment_providers/walletone/icon.svg?w=278&c=v0.59.26#w100) |[Wallet One](/payment-providers/walletone/)|`walletone`| 
-|![payeer](https://static.openfintech.io/payment_providers/payeer/icon.png?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
+|![payeer](https://static.openfintech.io/payment_providers/payeer/icon.svg?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
  
 
 ## JSON Object 

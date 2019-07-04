@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Favorite (Ki
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-favorit-kiev-pozyvnye-1-999](https://static.openfintech.io/payout_methods/taksi-favorit-kiev-pozyvnye-1-999/icon.png?w=278&c=v0.59.26#w40) |[taksi-favorit-kiev-pozyvnye-1-999_uah](/payout-services/taksi-favorit-kiev-pozyvnye-1-999_uah/)|`taksi-favorit-kiev-pozyvnye-1-999_uah`| 
+|![taksi-favorit-kiev-pozyvnye-1-999](https://static.openfintech.io/payout_methods/taksi-favorit-kiev-pozyvnye-1-999/icon.svg?w=278&c=v0.59.26#w40) |[taksi-favorit-kiev-pozyvnye-1-999_uah](/payout-services/taksi-favorit-kiev-pozyvnye-1-999_uah/)|`taksi-favorit-kiev-pozyvnye-1-999_uah`| 
  
 
 ## JSON Object 

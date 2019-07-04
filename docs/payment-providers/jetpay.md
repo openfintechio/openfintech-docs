@@ -1,6 +1,6 @@
 
 # JetPay 
-![jetpay](https://static.openfintech.io/payment_providers/jetpay/logo.png?w=400&c=v0.59.26#w100)  
+![jetpay](https://static.openfintech.io/payment_providers/jetpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![jetpay](https://static.openfintech.io/payment_providers/jetpay/logo.png?w=400&c=v0.59.26#w100)  
+![jetpay](https://static.openfintech.io/payment_providers/jetpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/jetpay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/jetpay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![jetpay](https://static.openfintech.io/payment_providers/jetpay/icon.png?w=278&c=v0.59.26#w100)  
+![jetpay](https://static.openfintech.io/payment_providers/jetpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/jetpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/jetpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

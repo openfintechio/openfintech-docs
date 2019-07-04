@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _DOMOnet_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![domonet](https://static.openfintech.io/payout_methods/domonet/icon.png?w=278&c=v0.59.26#w40) |[domonet_uah](/payout-services/domonet_uah/)|`domonet_uah`| 
+|![domonet](https://static.openfintech.io/payout_methods/domonet/icon.svg?w=278&c=v0.59.26#w40) |[domonet_uah](/payout-services/domonet_uah/)|`domonet_uah`| 
  
 
 ## JSON Object 

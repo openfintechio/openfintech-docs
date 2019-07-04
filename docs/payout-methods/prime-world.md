@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Prime World_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![prime-world](https://static.openfintech.io/payout_methods/prime-world/icon.png?w=278&c=v0.59.26#w40) |[prime-world_uah](/payout-services/prime-world_uah/)|`prime-world_uah`| 
+|![prime-world](https://static.openfintech.io/payout_methods/prime-world/icon.svg?w=278&c=v0.59.26#w40) |[prime-world_uah](/payout-services/prime-world_uah/)|`prime-world_uah`| 
  
 
 ## JSON Object 

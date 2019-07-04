@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Garden Empire_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![sadovaia-imperiia](https://static.openfintech.io/payout_methods/sadovaia-imperiia/icon.png?w=278&c=v0.59.26#w40) |[sadovaia-imperiia_uah](/payout-services/sadovaia-imperiia_uah/)|`sadovaia-imperiia_uah`| 
+|![sadovaia-imperiia](https://static.openfintech.io/payout_methods/sadovaia-imperiia/icon.svg?w=278&c=v0.59.26#w40) |[sadovaia-imperiia_uah](/payout-services/sadovaia-imperiia_uah/)|`sadovaia-imperiia_uah`| 
  
 
 ## JSON Object 

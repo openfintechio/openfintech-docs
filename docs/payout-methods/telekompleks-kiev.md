@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Telecomplex (Kiev
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![telekompleks-kiev](https://static.openfintech.io/payout_methods/telekompleks-kiev/icon.png?w=278&c=v0.59.26#w40) |[telekompleks-kiev_uah](/payout-services/telekompleks-kiev_uah/)|`telekompleks-kiev_uah`| 
+|![telekompleks-kiev](https://static.openfintech.io/payout_methods/telekompleks-kiev/icon.svg?w=278&c=v0.59.26#w40) |[telekompleks-kiev_uah](/payout-services/telekompleks-kiev_uah/)|`telekompleks-kiev_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi 3933 (Odessa
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-3933-odessa](https://static.openfintech.io/payout_methods/taksi-3933-odessa/icon.png?w=278&c=v0.59.26#w40) |[taksi-3933-odessa_uah](/payout-services/taksi-3933-odessa_uah/)|`taksi-3933-odessa_uah`| 
+|![taksi-3933-odessa](https://static.openfintech.io/payout_methods/taksi-3933-odessa/icon.svg?w=278&c=v0.59.26#w40) |[taksi-3933-odessa_uah](/payout-services/taksi-3933-odessa_uah/)|`taksi-3933-odessa_uah`| 
  
 
 ## JSON Object 

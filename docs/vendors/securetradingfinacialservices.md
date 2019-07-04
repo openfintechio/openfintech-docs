@@ -1,6 +1,6 @@
 
 # Secure Trading Financial Services 
-![securetradingfinacialservices](https://static.openfintech.io/vendors/securetradingfinacialservices/logo.png?w=400&c=v0.59.26#w200)  
+![securetradingfinacialservices](https://static.openfintech.io/vendors/securetradingfinacialservices/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  227 Psaila StreetBKR 9078 BirkirkaraMalta
 
 ### Logo 
  
-![securetradingfinacialservices](https://static.openfintech.io/vendors/securetradingfinacialservices/logo.png?w=400&c=v0.59.26#w200)  
+![securetradingfinacialservices](https://static.openfintech.io/vendors/securetradingfinacialservices/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/securetradingfinacialservices/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/securetradingfinacialservices/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![securetradingfinacialservices](https://static.openfintech.io/vendors/securetradingfinacialservices/icon.png?w=278&c=v0.59.26#w100)  
+![securetradingfinacialservices](https://static.openfintech.io/vendors/securetradingfinacialservices/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/securetradingfinacialservices/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/securetradingfinacialservices/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

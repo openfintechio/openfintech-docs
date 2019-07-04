@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Totallink (Cherni
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![totallink-chernivtsi](https://static.openfintech.io/payout_methods/totallink-chernivtsi/icon.png?w=278&c=v0.59.26#w40) |[totallink-chernivtsi_uah](/payout-services/totallink-chernivtsi_uah/)|`totallink-chernivtsi_uah`| 
+|![totallink-chernivtsi](https://static.openfintech.io/payout_methods/totallink-chernivtsi/icon.svg?w=278&c=v0.59.26#w40) |[totallink-chernivtsi_uah](/payout-services/totallink-chernivtsi_uah/)|`totallink-chernivtsi_uah`| 
  
 
 ## JSON Object 

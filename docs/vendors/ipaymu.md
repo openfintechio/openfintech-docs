@@ -1,6 +1,6 @@
 
 # IPAYMU 
-![ipaymu](https://static.openfintech.io/vendors/ipaymu/logo.png?w=400&c=v0.59.26#w200)  
+![ipaymu](https://static.openfintech.io/vendors/ipaymu/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Suite 1501, 15th Floor, SCBD Jl. Jend. Sudirman Kav. 52-53 Selatan, DKI
 
 ### Logo 
  
-![ipaymu](https://static.openfintech.io/vendors/ipaymu/logo.png?w=400&c=v0.59.26#w200)  
+![ipaymu](https://static.openfintech.io/vendors/ipaymu/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ipaymu/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ipaymu/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ipaymu](https://static.openfintech.io/vendors/ipaymu/icon.png?w=278&c=v0.59.26#w100)  
+![ipaymu](https://static.openfintech.io/vendors/ipaymu/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ipaymu/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ipaymu/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

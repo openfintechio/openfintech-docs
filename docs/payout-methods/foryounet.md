@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ForYouNet_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![foryounet](https://static.openfintech.io/payout_methods/foryounet/icon.png?w=278&c=v0.59.26#w40) |[foryounet_uah](/payout-services/foryounet_uah/)|`foryounet_uah`| 
+|![foryounet](https://static.openfintech.io/payout_methods/foryounet/icon.svg?w=278&c=v0.59.26#w40) |[foryounet_uah](/payout-services/foryounet_uah/)|`foryounet_uah`| 
  
 
 ## JSON Object 

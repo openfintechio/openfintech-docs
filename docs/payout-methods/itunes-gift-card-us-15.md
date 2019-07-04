@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _iTunes Gift Card 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![itunes-gift-card-us-15](https://static.openfintech.io/payout_methods/itunes-gift-card-us-15/icon.png?w=278&c=v0.59.26#w40) |[itunes-gift-card-us-15_uah](/payout-services/itunes-gift-card-us-15_uah/)|`itunes-gift-card-us-15_uah`| 
+|![itunes-gift-card-us-15](https://static.openfintech.io/payout_methods/itunes-gift-card-us-15/icon.svg?w=278&c=v0.59.26#w40) |[itunes-gift-card-us-15_uah](/payout-services/itunes-gift-card-us-15_uah/)|`itunes-gift-card-us-15_uah`| 
  
 
 ## JSON Object 

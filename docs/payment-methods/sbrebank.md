@@ -1,6 +1,6 @@
 
 # SberBank 
-![sbrebank](https://static.openfintech.io/payment_methods/sbrebank/logo.png?w=400&c=v0.59.26#w200)  
+![sbrebank](https://static.openfintech.io/payment_methods/sbrebank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `sbrebank` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![sbrebank](https://static.openfintech.io/payment_methods/sbrebank/logo.png?w=400&c=v0.59.26#w200)  
+![sbrebank](https://static.openfintech.io/payment_methods/sbrebank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/sbrebank/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/sbrebank/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![sbrebank](https://static.openfintech.io/payment_methods/sbrebank/icon.png?w=278&c=v0.59.26#w100)  
+![sbrebank](https://static.openfintech.io/payment_methods/sbrebank/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/sbrebank/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/sbrebank/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

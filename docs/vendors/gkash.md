@@ -1,6 +1,6 @@
 
 # GKASH 
-![gkash](https://static.openfintech.io/vendors/gkash/logo.png?w=400&c=v0.59.26#w200)  
+![gkash](https://static.openfintech.io/vendors/gkash/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Malaysia
 
 ### Logo 
  
-![gkash](https://static.openfintech.io/vendors/gkash/logo.png?w=400&c=v0.59.26#w200)  
+![gkash](https://static.openfintech.io/vendors/gkash/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/gkash/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/gkash/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![gkash](https://static.openfintech.io/vendors/gkash/icon.png?w=278&c=v0.59.26#w100)  
+![gkash](https://static.openfintech.io/vendors/gkash/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/gkash/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/gkash/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

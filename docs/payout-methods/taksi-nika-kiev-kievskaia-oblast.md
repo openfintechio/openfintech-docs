@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Nika (Kiev, 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-nika-kiev-kievskaia-oblast](https://static.openfintech.io/payout_methods/taksi-nika-kiev-kievskaia-oblast/icon.png?w=278&c=v0.59.26#w40) |[taksi-nika-kiev-kievskaia-oblast_uah](/payout-services/taksi-nika-kiev-kievskaia-oblast_uah/)|`taksi-nika-kiev-kievskaia-oblast_uah`| 
+|![taksi-nika-kiev-kievskaia-oblast](https://static.openfintech.io/payout_methods/taksi-nika-kiev-kievskaia-oblast/icon.svg?w=278&c=v0.59.26#w40) |[taksi-nika-kiev-kievskaia-oblast_uah](/payout-services/taksi-nika-kiev-kievskaia-oblast_uah/)|`taksi-nika-kiev-kievskaia-oblast_uah`| 
  
 
 ## JSON Object 

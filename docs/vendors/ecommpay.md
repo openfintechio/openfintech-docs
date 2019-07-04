@@ -1,6 +1,6 @@
 
 # ECommPay 
-![ecommpay](https://static.openfintech.io/vendors/ecommpay/logo.png?w=400&c=v0.59.26#w200)  
+![ecommpay](https://static.openfintech.io/vendors/ecommpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  15 Stratton StreetW1J 8LQ LondonUnited Kingdom
 
 ### Logo 
  
-![ecommpay](https://static.openfintech.io/vendors/ecommpay/logo.png?w=400&c=v0.59.26#w200)  
+![ecommpay](https://static.openfintech.io/vendors/ecommpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ecommpay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ecommpay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ecommpay](https://static.openfintech.io/vendors/ecommpay/icon.png?w=278&c=v0.59.26#w100)  
+![ecommpay](https://static.openfintech.io/vendors/ecommpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ecommpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ecommpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

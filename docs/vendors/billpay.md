@@ -1,6 +1,6 @@
 
 # BIllpay 
-![billpay](https://static.openfintech.io/vendors/billpay/logo.png?w=400&c=v0.59.26#w200)  
+![billpay](https://static.openfintech.io/vendors/billpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@ email: sales@billpay.dephone: +49 30 609 85 507 0fax: +49 30 609 89 355 0
 
 ### Logo 
  
-![billpay](https://static.openfintech.io/vendors/billpay/logo.png?w=400&c=v0.59.26#w200)  
+![billpay](https://static.openfintech.io/vendors/billpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/billpay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/billpay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![billpay](https://static.openfintech.io/vendors/billpay/icon.png?w=278&c=v0.59.26#w100)  
+![billpay](https://static.openfintech.io/vendors/billpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/billpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/billpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

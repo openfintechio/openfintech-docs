@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Colonialists_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kolonizatory](https://static.openfintech.io/payout_methods/kolonizatory/icon.png?w=278&c=v0.59.26#w40) |[kolonizatory_uah](/payout-services/kolonizatory_uah/)|`kolonizatory_uah`| 
+|![kolonizatory](https://static.openfintech.io/payout_methods/kolonizatory/icon.svg?w=278&c=v0.59.26#w40) |[kolonizatory_uah](/payout-services/kolonizatory_uah/)|`kolonizatory_uah`| 
  
 
 ## JSON Object 

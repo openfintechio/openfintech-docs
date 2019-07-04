@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _TriLogiC Group (K
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![trilogic-group-kherson](https://static.openfintech.io/payout_methods/trilogic-group-kherson/icon.png?w=278&c=v0.59.26#w40) |[trilogic-group-kherson_uah](/payout-services/trilogic-group-kherson_uah/)|`trilogic-group-kherson_uah`| 
+|![trilogic-group-kherson](https://static.openfintech.io/payout_methods/trilogic-group-kherson/icon.svg?w=278&c=v0.59.26#w40) |[trilogic-group-kherson_uah](/payout-services/trilogic-group-kherson_uah/)|`trilogic-group-kherson_uah`| 
  
 
 ## JSON Object 

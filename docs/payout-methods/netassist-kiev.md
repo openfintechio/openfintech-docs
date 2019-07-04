@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _NetAssist (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![netassist-kiev](https://static.openfintech.io/payout_methods/netassist-kiev/icon.png?w=278&c=v0.59.26#w40) |[netassist-kiev_uah](/payout-services/netassist-kiev_uah/)|`netassist-kiev_uah`| 
+|![netassist-kiev](https://static.openfintech.io/payout_methods/netassist-kiev/icon.svg?w=278&c=v0.59.26#w40) |[netassist-kiev_uah](/payout-services/netassist-kiev_uah/)|`netassist-kiev_uah`| 
  
 
 ## JSON Object 

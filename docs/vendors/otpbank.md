@@ -1,6 +1,6 @@
 
 # OTP Bank 
-![otpbank](https://static.openfintech.io/vendors/otpbank/logo.png?w=400&c=v0.59.26#w200)  
+![otpbank](https://static.openfintech.io/vendors/otpbank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![otpbank](https://static.openfintech.io/vendors/otpbank/logo.png?w=400&c=v0.59.26#w200)  
+![otpbank](https://static.openfintech.io/vendors/otpbank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/otpbank/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/otpbank/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![otpbank](https://static.openfintech.io/vendors/otpbank/icon.png?w=278&c=v0.59.26#w100)  
+![otpbank](https://static.openfintech.io/vendors/otpbank/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/otpbank/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/otpbank/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

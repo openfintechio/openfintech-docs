@@ -1,6 +1,6 @@
 
 # Elavon 
-![elavoneu](https://static.openfintech.io/payment_providers/elavoneu/logo.png?w=400&c=v0.59.26#w100)  
+![elavoneu](https://static.openfintech.io/payment_providers/elavoneu/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![elavoneu](https://static.openfintech.io/payment_providers/elavoneu/logo.png?w=400&c=v0.59.26#w100)  
+![elavoneu](https://static.openfintech.io/payment_providers/elavoneu/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/elavoneu/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/elavoneu/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![elavoneu](https://static.openfintech.io/payment_providers/elavoneu/icon.png?w=278&c=v0.59.26#w100)  
+![elavoneu](https://static.openfintech.io/payment_providers/elavoneu/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/elavoneu/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/elavoneu/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

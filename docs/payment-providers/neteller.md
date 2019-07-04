@@ -29,10 +29,10 @@ https://static.openfintech.io/payment_providers/neteller/logo.svg?w=400&c=v0.59.
 
 ### Icon 
  
-![neteller](https://static.openfintech.io/payment_providers/neteller/icon.png?w=278&c=v0.59.26#w100)  
+![neteller](https://static.openfintech.io/payment_providers/neteller/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/neteller/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/neteller/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -49,7 +49,7 @@ The list of supported [Payout Methods](/payout-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller](payout-methodsneteller/)|`neteller`| 
+|![neteller](https://static.openfintech.io/payout_methods/neteller/icon.svg?w=278&c=v0.59.26#w40) |[neteller](payout-methodsneteller/)|`neteller`| 
  
 
 ## JSON Object 

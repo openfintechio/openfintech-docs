@@ -1,6 +1,6 @@
 
 # PaymentOne 
-![paymentone](https://static.openfintech.io/vendors/paymentone/logo.png?w=400&c=v0.59.26#w200)  
+![paymentone](https://static.openfintech.io/vendors/paymentone/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  San Jose, CA San Jose, CAUnited States of America
 
 ### Logo 
  
-![paymentone](https://static.openfintech.io/vendors/paymentone/logo.png?w=400&c=v0.59.26#w200)  
+![paymentone](https://static.openfintech.io/vendors/paymentone/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paymentone/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paymentone/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paymentone](https://static.openfintech.io/vendors/paymentone/icon.png?w=278&c=v0.59.26#w100)  
+![paymentone](https://static.openfintech.io/vendors/paymentone/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paymentone/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paymentone/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # SecureNet LLC 
-![securenetllc](https://static.openfintech.io/payment_providers/securenetllc/logo.png?w=400&c=v0.59.26#w100)  
+![securenetllc](https://static.openfintech.io/payment_providers/securenetllc/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![securenetllc](https://static.openfintech.io/payment_providers/securenetllc/logo.png?w=400&c=v0.59.26#w100)  
+![securenetllc](https://static.openfintech.io/payment_providers/securenetllc/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/securenetllc/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/securenetllc/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![securenetllc](https://static.openfintech.io/payment_providers/securenetllc/icon.png?w=278&c=v0.59.26#w100)  
+![securenetllc](https://static.openfintech.io/payment_providers/securenetllc/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/securenetllc/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/securenetllc/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -40,7 +40,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.svg?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
 |![dinersclub](https://static.openfintech.io/payment_methods/dinersclub/icon.svg?w=278&c=v0.59.26#w100) |[dinersclub](/payment-methods/dinersclub/)|`dinersclub`| 
 |![discover](https://static.openfintech.io/payment_methods/discover/icon.svg?w=278&c=v0.59.26#w100) |[discover](/payment-methods/discover/)|`discover`| 
 |![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 

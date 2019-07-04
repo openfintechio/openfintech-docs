@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _HomeNet_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![homenet](https://static.openfintech.io/payout_methods/homenet/icon.png?w=278&c=v0.59.26#w40) |[homenet_uah](/payout-services/homenet_uah/)|`homenet_uah`| 
+|![homenet](https://static.openfintech.io/payout_methods/homenet/icon.svg?w=278&c=v0.59.26#w40) |[homenet_uah](/payout-services/homenet_uah/)|`homenet_uah`| 
  
 
 ## JSON Object 

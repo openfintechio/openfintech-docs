@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _МКП МУКАЧ
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![mkp-mukachivvodokanal](https://static.openfintech.io/payout_methods/mkp-mukachivvodokanal/icon.png?w=278&c=v0.59.26#w40) |[mkp-mukachivvodokanal_uah](/payout-services/mkp-mukachivvodokanal_uah/)|`mkp-mukachivvodokanal_uah`| 
+|![mkp-mukachivvodokanal](https://static.openfintech.io/payout_methods/mkp-mukachivvodokanal/icon.svg?w=278&c=v0.59.26#w40) |[mkp-mukachivvodokanal_uah](/payout-services/mkp-mukachivvodokanal_uah/)|`mkp-mukachivvodokanal_uah`| 
  
 
 ## JSON Object 

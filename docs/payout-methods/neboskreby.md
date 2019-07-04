@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Skyscrapers_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![neboskreby](https://static.openfintech.io/payout_methods/neboskreby/icon.png?w=278&c=v0.59.26#w40) |[neboskreby_uah](/payout-services/neboskreby_uah/)|`neboskreby_uah`| 
+|![neboskreby](https://static.openfintech.io/payout_methods/neboskreby/icon.svg?w=278&c=v0.59.26#w40) |[neboskreby_uah](/payout-services/neboskreby_uah/)|`neboskreby_uah`| 
  
 
 ## JSON Object 

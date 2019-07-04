@@ -1,6 +1,6 @@
 
 # MultiSafepay 
-![fastcheckoutmultisafepay](https://static.openfintech.io/vendors/fastcheckoutmultisafepay/logo.png?w=400&c=v0.59.26#w200)  
+![fastcheckoutmultisafepay](https://static.openfintech.io/vendors/fastcheckoutmultisafepay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@ email: info@multisafepay.comphone: +31 20 8500 500
 
 ### Logo 
  
-![fastcheckoutmultisafepay](https://static.openfintech.io/vendors/fastcheckoutmultisafepay/logo.png?w=400&c=v0.59.26#w200)  
+![fastcheckoutmultisafepay](https://static.openfintech.io/vendors/fastcheckoutmultisafepay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/fastcheckoutmultisafepay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/fastcheckoutmultisafepay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![fastcheckoutmultisafepay](https://static.openfintech.io/vendors/fastcheckoutmultisafepay/icon.png?w=278&c=v0.59.26#w100)  
+![fastcheckoutmultisafepay](https://static.openfintech.io/vendors/fastcheckoutmultisafepay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/fastcheckoutmultisafepay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/fastcheckoutmultisafepay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

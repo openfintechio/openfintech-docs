@@ -1,6 +1,6 @@
 
 # AcceptEmail 
-![acceptemail](https://static.openfintech.io/vendors/acceptemail/logo.png?w=400&c=v0.59.26#w200)  
+![acceptemail](https://static.openfintech.io/vendors/acceptemail/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@ email: contact@acceptemail.comphone: 020 261 0020
 
 ### Logo 
  
-![acceptemail](https://static.openfintech.io/vendors/acceptemail/logo.png?w=400&c=v0.59.26#w200)  
+![acceptemail](https://static.openfintech.io/vendors/acceptemail/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/acceptemail/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/acceptemail/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![acceptemail](https://static.openfintech.io/vendors/acceptemail/icon.png?w=278&c=v0.59.26#w100)  
+![acceptemail](https://static.openfintech.io/vendors/acceptemail/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/acceptemail/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/acceptemail/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

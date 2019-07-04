@@ -1,6 +1,6 @@
 
 # PayWizard 
-![paywizard](https://static.openfintech.io/vendors/paywizard/logo.png?w=400&c=v0.59.26#w200)  
+![paywizard](https://static.openfintech.io/vendors/paywizard/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  London LondonUnited Kingdom
 
 ### Logo 
  
-![paywizard](https://static.openfintech.io/vendors/paywizard/logo.png?w=400&c=v0.59.26#w200)  
+![paywizard](https://static.openfintech.io/vendors/paywizard/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paywizard/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paywizard/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paywizard](https://static.openfintech.io/vendors/paywizard/icon.png?w=278&c=v0.59.26#w100)  
+![paywizard](https://static.openfintech.io/vendors/paywizard/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paywizard/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paywizard/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

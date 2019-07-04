@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _TRC Fox (Internet
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![trk-lis-internet](https://static.openfintech.io/payout_methods/trk-lis-internet/icon.png?w=278&c=v0.59.26#w40) |[trk-lis-internet_uah](/payout-services/trk-lis-internet_uah/)|`trk-lis-internet_uah`| 
+|![trk-lis-internet](https://static.openfintech.io/payout_methods/trk-lis-internet/icon.svg?w=278&c=v0.59.26#w40) |[trk-lis-internet_uah](/payout-services/trk-lis-internet_uah/)|`trk-lis-internet_uah`| 
  
 
 ## JSON Object 

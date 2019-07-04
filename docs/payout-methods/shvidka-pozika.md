@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _First loan_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![shvidka-pozika](https://static.openfintech.io/payout_methods/shvidka-pozika/icon.png?w=278&c=v0.59.26#w40) |[shvidka-pozika_uah](/payout-services/shvidka-pozika_uah/)|`shvidka-pozika_uah`| 
+|![shvidka-pozika](https://static.openfintech.io/payout_methods/shvidka-pozika/icon.svg?w=278&c=v0.59.26#w40) |[shvidka-pozika_uah](/payout-services/shvidka-pozika_uah/)|`shvidka-pozika_uah`| 
  
 
 ## JSON Object 

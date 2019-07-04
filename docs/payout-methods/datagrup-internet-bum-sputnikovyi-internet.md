@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Datagroup - Inter
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![datagrup-internet-bum-sputnikovyi-internet](https://static.openfintech.io/payout_methods/datagrup-internet-bum-sputnikovyi-internet/icon.png?w=278&c=v0.59.26#w40) |[datagrup-internet-bum-sputnikovyi-internet_uah](/payout-services/datagrup-internet-bum-sputnikovyi-internet_uah/)|`datagrup-internet-bum-sputnikovyi-internet_uah`| 
+|![datagrup-internet-bum-sputnikovyi-internet](https://static.openfintech.io/payout_methods/datagrup-internet-bum-sputnikovyi-internet/icon.svg?w=278&c=v0.59.26#w40) |[datagrup-internet-bum-sputnikovyi-internet_uah](/payout-services/datagrup-internet-bum-sputnikovyi-internet_uah/)|`datagrup-internet-bum-sputnikovyi-internet_uah`| 
  
 
 ## JSON Object 

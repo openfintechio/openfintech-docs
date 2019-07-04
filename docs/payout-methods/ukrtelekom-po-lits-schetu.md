@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Ukrtelecom (by pe
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ukrtelekom-po-lits-schetu](https://static.openfintech.io/payout_methods/ukrtelekom-po-lits-schetu/icon.png?w=278&c=v0.59.26#w40) |[ukrtelekom-po-lits-schetu_uah](/payout-services/ukrtelekom-po-lits-schetu_uah/)|`ukrtelekom-po-lits-schetu_uah`| 
+|![ukrtelekom-po-lits-schetu](https://static.openfintech.io/payout_methods/ukrtelekom-po-lits-schetu/icon.svg?w=278&c=v0.59.26#w40) |[ukrtelekom-po-lits-schetu_uah](/payout-services/ukrtelekom-po-lits-schetu_uah/)|`ukrtelekom-po-lits-schetu_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # SmartDebit 
-![smartdebit](https://static.openfintech.io/vendors/smartdebit/logo.png?w=400&c=v0.59.26#w200)  
+![smartdebit](https://static.openfintech.io/vendors/smartdebit/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Windlesham Court, 51 Guildford Road, BagshotGU19 5NG Bagshot, SurreyUni
 
 ### Logo 
  
-![smartdebit](https://static.openfintech.io/vendors/smartdebit/logo.png?w=400&c=v0.59.26#w200)  
+![smartdebit](https://static.openfintech.io/vendors/smartdebit/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/smartdebit/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/smartdebit/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![smartdebit](https://static.openfintech.io/vendors/smartdebit/icon.png?w=278&c=v0.59.26#w100)  
+![smartdebit](https://static.openfintech.io/vendors/smartdebit/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/smartdebit/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/smartdebit/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

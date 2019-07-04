@@ -1,6 +1,6 @@
 
 # Checkout.com 
-![checkoutcom](https://static.openfintech.io/vendors/checkoutcom/logo.png?w=400&c=v0.59.26#w200)  
+![checkoutcom](https://static.openfintech.io/vendors/checkoutcom/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  32 Wigmore StreetW1U 2RP LondonUnited Kingdom
 
 ### Logo 
  
-![checkoutcom](https://static.openfintech.io/vendors/checkoutcom/logo.png?w=400&c=v0.59.26#w200)  
+![checkoutcom](https://static.openfintech.io/vendors/checkoutcom/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/checkoutcom/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/checkoutcom/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![checkoutcom](https://static.openfintech.io/vendors/checkoutcom/icon.png?w=278&c=v0.59.26#w100)  
+![checkoutcom](https://static.openfintech.io/vendors/checkoutcom/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/checkoutcom/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/checkoutcom/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

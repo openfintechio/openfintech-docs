@@ -1,6 +1,6 @@
 
 # Capayable 
-![capayable](https://static.openfintech.io/payment_methods/capayable/logo.png?w=400&c=v0.59.26#w200)  
+![capayable](https://static.openfintech.io/payment_methods/capayable/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `capayable` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![capayable](https://static.openfintech.io/payment_methods/capayable/logo.png?w=400&c=v0.59.26#w200)  
+![capayable](https://static.openfintech.io/payment_methods/capayable/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/capayable/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/capayable/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![capayable](https://static.openfintech.io/payment_methods/capayable/icon.png?w=278&c=v0.59.26#w100)  
+![capayable](https://static.openfintech.io/payment_methods/capayable/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/capayable/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/capayable/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,8 +43,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Capayable
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![magnius](https://static.openfintech.io/payment_providers/magnius/icon.png?w=278&c=v0.59.26#w100) |[Magnius](/payment-providers/magnius/)|`magnius`| 
-|![paynl](https://static.openfintech.io/payment_providers/paynl/icon.png?w=278&c=v0.59.26#w100) |[Pay.nl](/payment-providers/paynl/)|`paynl`| 
+|![magnius](https://static.openfintech.io/payment_providers/magnius/icon.svg?w=278&c=v0.59.26#w100) |[Magnius](/payment-providers/magnius/)|`magnius`| 
+|![paynl](https://static.openfintech.io/payment_providers/paynl/icon.svg?w=278&c=v0.59.26#w100) |[Pay.nl](/payment-providers/paynl/)|`paynl`| 
  
 
 ## JSON Object 

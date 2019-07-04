@@ -1,6 +1,6 @@
 
 # Zong 
-![zong](https://static.openfintech.io/vendors/zong/logo.png?w=400&c=v0.59.26#w200)  
+![zong](https://static.openfintech.io/vendors/zong/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Silicon Valley, CA Menlo Park, CAUnited States of America
 
 ### Logo 
  
-![zong](https://static.openfintech.io/vendors/zong/logo.png?w=400&c=v0.59.26#w200)  
+![zong](https://static.openfintech.io/vendors/zong/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/zong/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/zong/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![zong](https://static.openfintech.io/vendors/zong/icon.png?w=278&c=v0.59.26#w100)  
+![zong](https://static.openfintech.io/vendors/zong/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/zong/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/zong/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

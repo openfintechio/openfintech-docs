@@ -1,6 +1,6 @@
 
 # WEBINC 
-![webinc](https://static.openfintech.io/vendors/webinc/logo.png?w=400&c=v0.59.26#w200)  
+![webinc](https://static.openfintech.io/vendors/webinc/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Wiesbaden65183 WiesbadenGermany
 
 ### Logo 
  
-![webinc](https://static.openfintech.io/vendors/webinc/logo.png?w=400&c=v0.59.26#w200)  
+![webinc](https://static.openfintech.io/vendors/webinc/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/webinc/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/webinc/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![webinc](https://static.openfintech.io/vendors/webinc/icon.png?w=278&c=v0.59.26#w100)  
+![webinc](https://static.openfintech.io/vendors/webinc/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/webinc/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/webinc/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

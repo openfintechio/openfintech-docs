@@ -1,6 +1,6 @@
 
 # Zaypay 
-![zaypay](https://static.openfintech.io/payment_providers/zaypay/logo.png?w=400&c=v0.59.26#w100)  
+![zaypay](https://static.openfintech.io/payment_providers/zaypay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![zaypay](https://static.openfintech.io/payment_providers/zaypay/logo.png?w=400&c=v0.59.26#w100)  
+![zaypay](https://static.openfintech.io/payment_providers/zaypay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/zaypay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/zaypay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![zaypay](https://static.openfintech.io/payment_providers/zaypay/icon.png?w=278&c=v0.59.26#w100)  
+![zaypay](https://static.openfintech.io/payment_providers/zaypay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/zaypay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/zaypay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

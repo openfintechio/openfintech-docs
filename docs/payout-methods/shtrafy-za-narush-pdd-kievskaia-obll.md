@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Fines for traffic
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![shtrafy-za-narush-pdd-kievskaia-obll](https://static.openfintech.io/payout_methods/shtrafy-za-narush-pdd-kievskaia-obll/icon.png?w=278&c=v0.59.26#w40) |[shtrafy-za-narush-pdd-kievskaia-obll_uah](/payout-services/shtrafy-za-narush-pdd-kievskaia-obll_uah/)|`shtrafy-za-narush-pdd-kievskaia-obll_uah`| 
+|![shtrafy-za-narush-pdd-kievskaia-obll](https://static.openfintech.io/payout_methods/shtrafy-za-narush-pdd-kievskaia-obll/icon.svg?w=278&c=v0.59.26#w40) |[shtrafy-za-narush-pdd-kievskaia-obll_uah](/payout-services/shtrafy-za-narush-pdd-kievskaia-obll_uah/)|`shtrafy-za-narush-pdd-kievskaia-obll_uah`| 
  
 
 ## JSON Object 

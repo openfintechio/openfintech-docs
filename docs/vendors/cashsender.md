@@ -1,6 +1,6 @@
 
 # CashSender 
-![cashsender](https://static.openfintech.io/vendors/cashsender/logo.png?w=400&c=v0.59.26#w200)  
+![cashsender](https://static.openfintech.io/vendors/cashsender/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Canada
 
 ### Logo 
  
-![cashsender](https://static.openfintech.io/vendors/cashsender/logo.png?w=400&c=v0.59.26#w200)  
+![cashsender](https://static.openfintech.io/vendors/cashsender/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/cashsender/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/cashsender/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![cashsender](https://static.openfintech.io/vendors/cashsender/icon.png?w=278&c=v0.59.26#w100)  
+![cashsender](https://static.openfintech.io/vendors/cashsender/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/cashsender/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/cashsender/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

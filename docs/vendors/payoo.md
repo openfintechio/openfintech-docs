@@ -1,6 +1,6 @@
 
 # Payoo 
-![payoo](https://static.openfintech.io/vendors/payoo/logo.png?w=400&c=v0.59.26#w200)  
+![payoo](https://static.openfintech.io/vendors/payoo/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Vietnam
 
 ### Logo 
  
-![payoo](https://static.openfintech.io/vendors/payoo/logo.png?w=400&c=v0.59.26#w200)  
+![payoo](https://static.openfintech.io/vendors/payoo/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payoo/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payoo/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payoo](https://static.openfintech.io/vendors/payoo/icon.png?w=278&c=v0.59.26#w100)  
+![payoo](https://static.openfintech.io/vendors/payoo/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payoo/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payoo/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

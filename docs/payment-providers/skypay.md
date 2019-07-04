@@ -1,6 +1,6 @@
 
 # Skypay 
-![skypay](https://static.openfintech.io/payment_providers/skypay/logo.png?w=400&c=v0.59.26#w100)  
+![skypay](https://static.openfintech.io/payment_providers/skypay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![skypay](https://static.openfintech.io/payment_providers/skypay/logo.png?w=400&c=v0.59.26#w100)  
+![skypay](https://static.openfintech.io/payment_providers/skypay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/skypay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/skypay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![skypay](https://static.openfintech.io/payment_providers/skypay/icon.png?w=278&c=v0.59.26#w100)  
+![skypay](https://static.openfintech.io/payment_providers/skypay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/skypay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/skypay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

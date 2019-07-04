@@ -1,6 +1,6 @@
 
 # Payssion 
-![payssion](https://static.openfintech.io/vendors/payssion/logo.png?w=400&c=v0.59.26#w200)  
+![payssion](https://static.openfintech.io/vendors/payssion/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  No. 72-74, Wing Lok Street, Sheung Wan Hong KongHong Kong
 
 ### Logo 
  
-![payssion](https://static.openfintech.io/vendors/payssion/logo.png?w=400&c=v0.59.26#w200)  
+![payssion](https://static.openfintech.io/vendors/payssion/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payssion/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payssion/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payssion](https://static.openfintech.io/vendors/payssion/icon.png?w=278&c=v0.59.26#w100)  
+![payssion](https://static.openfintech.io/vendors/payssion/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payssion/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payssion/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

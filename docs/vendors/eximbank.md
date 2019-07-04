@@ -1,6 +1,6 @@
 
 #  
-![eximbank](https://static.openfintech.io/vendors/eximbank/logo.png?w=400&c=v0.59.26#w200)  
+![eximbank](https://static.openfintech.io/vendors/eximbank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![eximbank](https://static.openfintech.io/vendors/eximbank/logo.png?w=400&c=v0.59.26#w200)  
+![eximbank](https://static.openfintech.io/vendors/eximbank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/eximbank/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/eximbank/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![eximbank](https://static.openfintech.io/vendors/eximbank/icon.png?w=278&c=v0.59.26#w100)  
+![eximbank](https://static.openfintech.io/vendors/eximbank/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/eximbank/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/eximbank/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

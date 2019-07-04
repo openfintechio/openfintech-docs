@@ -1,6 +1,6 @@
 
 # PencePay 
-![pencepay](https://static.openfintech.io/vendors/pencepay/logo.png?w=400&c=v0.59.26#w200)  
+![pencepay](https://static.openfintech.io/vendors/pencepay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Marka Miljanova 46 PodgoricaMontenegro
 
 ### Logo 
  
-![pencepay](https://static.openfintech.io/vendors/pencepay/logo.png?w=400&c=v0.59.26#w200)  
+![pencepay](https://static.openfintech.io/vendors/pencepay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/pencepay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/pencepay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![pencepay](https://static.openfintech.io/vendors/pencepay/icon.png?w=278&c=v0.59.26#w100)  
+![pencepay](https://static.openfintech.io/vendors/pencepay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/pencepay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/pencepay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

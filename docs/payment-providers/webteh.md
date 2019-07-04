@@ -1,6 +1,6 @@
 
 # Webteh 
-![webteh](https://static.openfintech.io/payment_providers/webteh/logo.png?w=400&c=v0.59.26#w100)  
+![webteh](https://static.openfintech.io/payment_providers/webteh/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![webteh](https://static.openfintech.io/payment_providers/webteh/logo.png?w=400&c=v0.59.26#w100)  
+![webteh](https://static.openfintech.io/payment_providers/webteh/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/webteh/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/webteh/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![webteh](https://static.openfintech.io/payment_providers/webteh/icon.png?w=278&c=v0.59.26#w100)  
+![webteh](https://static.openfintech.io/payment_providers/webteh/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/webteh/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/webteh/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

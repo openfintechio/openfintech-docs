@@ -1,6 +1,6 @@
 
 # PaySquare 
-![paysquare](https://static.openfintech.io/vendors/paysquare/logo.png?w=400&c=v0.59.26#w200)  
+![paysquare](https://static.openfintech.io/vendors/paysquare/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Utrecht UtrechtNetherlands
 
 ### Logo 
  
-![paysquare](https://static.openfintech.io/vendors/paysquare/logo.png?w=400&c=v0.59.26#w200)  
+![paysquare](https://static.openfintech.io/vendors/paysquare/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paysquare/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paysquare/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paysquare](https://static.openfintech.io/vendors/paysquare/icon.png?w=278&c=v0.59.26#w100)  
+![paysquare](https://static.openfintech.io/vendors/paysquare/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paysquare/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paysquare/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

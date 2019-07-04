@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Crystal Telecom_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kristall-telekom](https://static.openfintech.io/payout_methods/kristall-telekom/icon.png?w=278&c=v0.59.26#w40) |[kristall-telekom_uah](/payout-services/kristall-telekom_uah/)|`kristall-telekom_uah`| 
+|![kristall-telekom](https://static.openfintech.io/payout_methods/kristall-telekom/icon.svg?w=278&c=v0.59.26#w40) |[kristall-telekom_uah](/payout-services/kristall-telekom_uah/)|`kristall-telekom_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Wizards World WID
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![wizards-world-oplata-po-wid](https://static.openfintech.io/payout_methods/wizards-world-oplata-po-wid/icon.png?w=278&c=v0.59.26#w40) |[wizards-world-oplata-po-wid_uah](/payout-services/wizards-world-oplata-po-wid_uah/)|`wizards-world-oplata-po-wid_uah`| 
+|![wizards-world-oplata-po-wid](https://static.openfintech.io/payout_methods/wizards-world-oplata-po-wid/icon.svg?w=278&c=v0.59.26#w40) |[wizards-world-oplata-po-wid_uah](/payout-services/wizards-world-oplata-po-wid_uah/)|`wizards-world-oplata-po-wid_uah`| 
  
 
 ## JSON Object 

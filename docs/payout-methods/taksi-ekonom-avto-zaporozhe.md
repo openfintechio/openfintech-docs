@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Economy-Auto
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-ekonom-avto-zaporozhe](https://static.openfintech.io/payout_methods/taksi-ekonom-avto-zaporozhe/icon.png?w=278&c=v0.59.26#w40) |[taksi-ekonom-avto-zaporozhe_uah](/payout-services/taksi-ekonom-avto-zaporozhe_uah/)|`taksi-ekonom-avto-zaporozhe_uah`| 
+|![taksi-ekonom-avto-zaporozhe](https://static.openfintech.io/payout_methods/taksi-ekonom-avto-zaporozhe/icon.svg?w=278&c=v0.59.26#w40) |[taksi-ekonom-avto-zaporozhe_uah](/payout-services/taksi-ekonom-avto-zaporozhe_uah/)|`taksi-ekonom-avto-zaporozhe_uah`| 
  
 
 ## JSON Object 

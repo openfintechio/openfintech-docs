@@ -1,6 +1,6 @@
 
 # Pagantis 
-![pagantis](https://static.openfintech.io/vendors/pagantis/logo.png?w=400&c=v0.59.26#w200)  
+![pagantis](https://static.openfintech.io/vendors/pagantis/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Paseo de la Castellana 95 - Torre Europa planta 1628046 MadridMadridSpa
 
 ### Logo 
  
-![pagantis](https://static.openfintech.io/vendors/pagantis/logo.png?w=400&c=v0.59.26#w200)  
+![pagantis](https://static.openfintech.io/vendors/pagantis/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/pagantis/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/pagantis/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![pagantis](https://static.openfintech.io/vendors/pagantis/icon.png?w=278&c=v0.59.26#w100)  
+![pagantis](https://static.openfintech.io/vendors/pagantis/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/pagantis/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/pagantis/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

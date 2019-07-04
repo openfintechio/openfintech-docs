@@ -1,6 +1,6 @@
 
 # DialXS 
-![dialxs](https://static.openfintech.io/payment_providers/dialxs/logo.png?w=400&c=v0.59.26#w100)  
+![dialxs](https://static.openfintech.io/payment_providers/dialxs/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![dialxs](https://static.openfintech.io/payment_providers/dialxs/logo.png?w=400&c=v0.59.26#w100)  
+![dialxs](https://static.openfintech.io/payment_providers/dialxs/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/dialxs/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/dialxs/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![dialxs](https://static.openfintech.io/payment_providers/dialxs/icon.png?w=278&c=v0.59.26#w100)  
+![dialxs](https://static.openfintech.io/payment_providers/dialxs/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/dialxs/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/dialxs/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

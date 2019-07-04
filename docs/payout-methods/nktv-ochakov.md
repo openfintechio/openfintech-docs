@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _NKTV (Ochakov)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![nktv-ochakov](https://static.openfintech.io/payout_methods/nktv-ochakov/icon.png?w=278&c=v0.59.26#w40) |[nktv-ochakov_uah](/payout-services/nktv-ochakov_uah/)|`nktv-ochakov_uah`| 
+|![nktv-ochakov](https://static.openfintech.io/payout_methods/nktv-ochakov/icon.svg?w=278&c=v0.59.26#w40) |[nktv-ochakov_uah](/payout-services/nktv-ochakov_uah/)|`nktv-ochakov_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Zephyr (Kiev
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-zefir-kiev](https://static.openfintech.io/payout_methods/taksi-zefir-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-zefir-kiev_uah](/payout-services/taksi-zefir-kiev_uah/)|`taksi-zefir-kiev_uah`| 
+|![taksi-zefir-kiev](https://static.openfintech.io/payout_methods/taksi-zefir-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-zefir-kiev_uah](/payout-services/taksi-zefir-kiev_uah/)|`taksi-zefir-kiev_uah`| 
  
 
 ## JSON Object 

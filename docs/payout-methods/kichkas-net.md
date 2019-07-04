@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Kichkas.net_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kichkas-net](https://static.openfintech.io/payout_methods/kichkas-net/icon.png?w=278&c=v0.59.26#w40) |[kichkas-net_uah](/payout-services/kichkas-net_uah/)|`kichkas-net_uah`| 
+|![kichkas-net](https://static.openfintech.io/payout_methods/kichkas-net/icon.svg?w=278&c=v0.59.26#w40) |[kichkas-net_uah](/payout-services/kichkas-net_uah/)|`kichkas-net_uah`| 
  
 
 ## JSON Object 

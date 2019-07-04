@@ -1,6 +1,6 @@
 
 # Visa Checkout 
-![visacheckout](https://static.openfintech.io/payment_methods/visacheckout/logo.png?w=400&c=v0.59.26#w200)  
+![visacheckout](https://static.openfintech.io/payment_methods/visacheckout/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `visacheckout` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![visacheckout](https://static.openfintech.io/payment_methods/visacheckout/logo.png?w=400&c=v0.59.26#w200)  
+![visacheckout](https://static.openfintech.io/payment_methods/visacheckout/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/visacheckout/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/visacheckout/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![visacheckout](https://static.openfintech.io/payment_methods/visacheckout/icon.png?w=278&c=v0.59.26#w100)  
+![visacheckout](https://static.openfintech.io/payment_methods/visacheckout/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/visacheckout/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/visacheckout/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -43,7 +43,7 @@ The list of [Payment Services](/payment-services/) based on the _Visa Checkout_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![visacheckout](https://static.openfintech.io/payment_methods/visacheckout/icon.png?w=278&c=v0.59.26#w100) |[visacheckout_uah_hpp](/payment-services/visacheckout_uah_hpp/)|`visacheckout_uah_hpp`| 
+|![visacheckout](https://static.openfintech.io/payment_methods/visacheckout/icon.svg?w=278&c=v0.59.26#w100) |[visacheckout_uah_hpp](/payment-services/visacheckout_uah_hpp/)|`visacheckout_uah_hpp`| 
  
 
 ## Payment Providers 
@@ -53,9 +53,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Visa Chec
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[SafeCharge ](/payment-providers/safecharge/)|`safecharge`| 
-|![be2bill](https://static.openfintech.io/payment_providers/be2bill/icon.png?w=278&c=v0.59.26#w100) |[Be2bill](/payment-providers/be2bill/)|`be2bill`| 
+|![be2bill](https://static.openfintech.io/payment_providers/be2bill/icon.svg?w=278&c=v0.59.26#w100) |[Be2bill](/payment-providers/be2bill/)|`be2bill`| 
 |![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
-|![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.png?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
+|![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.svg?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
  
 
 ## JSON Object 

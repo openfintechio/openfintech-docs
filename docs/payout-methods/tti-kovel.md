@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _TTI (Kovel)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tti-kovel](https://static.openfintech.io/payout_methods/tti-kovel/icon.png?w=278&c=v0.59.26#w40) |[tti-kovel_uah](/payout-services/tti-kovel_uah/)|`tti-kovel_uah`| 
+|![tti-kovel](https://static.openfintech.io/payout_methods/tti-kovel/icon.svg?w=278&c=v0.59.26#w40) |[tti-kovel_uah](/payout-services/tti-kovel_uah/)|`tti-kovel_uah`| 
  
 
 ## JSON Object 

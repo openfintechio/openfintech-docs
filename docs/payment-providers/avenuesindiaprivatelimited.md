@@ -1,6 +1,6 @@
 
 # CCAvenue 
-![avenuesindiaprivatelimited](https://static.openfintech.io/payment_providers/avenuesindiaprivatelimited/logo.png?w=400&c=v0.59.26#w100)  
+![avenuesindiaprivatelimited](https://static.openfintech.io/payment_providers/avenuesindiaprivatelimited/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![avenuesindiaprivatelimited](https://static.openfintech.io/payment_providers/avenuesindiaprivatelimited/logo.png?w=400&c=v0.59.26#w100)  
+![avenuesindiaprivatelimited](https://static.openfintech.io/payment_providers/avenuesindiaprivatelimited/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/avenuesindiaprivatelimited/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/avenuesindiaprivatelimited/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![avenuesindiaprivatelimited](https://static.openfintech.io/payment_providers/avenuesindiaprivatelimited/icon.png?w=278&c=v0.59.26#w100)  
+![avenuesindiaprivatelimited](https://static.openfintech.io/payment_providers/avenuesindiaprivatelimited/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/avenuesindiaprivatelimited/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/avenuesindiaprivatelimited/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

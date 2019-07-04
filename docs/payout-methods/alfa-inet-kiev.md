@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ALPHA-INET (Kiev)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![alfa-inet-kiev](https://static.openfintech.io/payout_methods/alfa-inet-kiev/icon.png?w=278&c=v0.59.26#w40) |[alfa-inet-kiev_uah](/payout-services/alfa-inet-kiev_uah/)|`alfa-inet-kiev_uah`| 
+|![alfa-inet-kiev](https://static.openfintech.io/payout_methods/alfa-inet-kiev/icon.svg?w=278&c=v0.59.26#w40) |[alfa-inet-kiev_uah](/payout-services/alfa-inet-kiev_uah/)|`alfa-inet-kiev_uah`| 
  
 
 ## JSON Object 

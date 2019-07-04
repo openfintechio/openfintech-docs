@@ -1,6 +1,6 @@
 
 # AfterPay 
-![afterpay](https://static.openfintech.io/payment_methods/afterpay/logo.png?w=400&c=v0.59.26#w200)  
+![afterpay](https://static.openfintech.io/payment_methods/afterpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `afterpay` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![afterpay](https://static.openfintech.io/payment_methods/afterpay/logo.png?w=400&c=v0.59.26#w200)  
+![afterpay](https://static.openfintech.io/payment_methods/afterpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/afterpay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/afterpay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![afterpay](https://static.openfintech.io/payment_methods/afterpay/icon.png?w=278&c=v0.59.26#w100)  
+![afterpay](https://static.openfintech.io/payment_methods/afterpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/afterpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/afterpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,11 +43,11 @@ The list of [Payment Providers](/payment-providers/) that support the _AfterPay_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![paynl](https://static.openfintech.io/payment_providers/paynl/icon.png?w=278&c=v0.59.26#w100) |[Pay.nl](/payment-providers/paynl/)|`paynl`| 
-|![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
-|![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
-|![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/icon.png?w=278&c=v0.59.26#w100) |[Buckaroo](/payment-providers/buckaroo/)|`buckaroo`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![paynl](https://static.openfintech.io/payment_providers/paynl/icon.svg?w=278&c=v0.59.26#w100) |[Pay.nl](/payment-providers/paynl/)|`paynl`| 
+|![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.svg?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
+|![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.svg?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
+|![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/icon.svg?w=278&c=v0.59.26#w100) |[Buckaroo](/payment-providers/buckaroo/)|`buckaroo`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
  
 

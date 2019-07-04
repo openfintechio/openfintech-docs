@@ -35,7 +35,7 @@ The list of [Payout Services](/payout-services/) based on the _Zhuhai Rural Cred
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![zhuhai_rural_credit_cooperatives](https://static.openfintech.io/payout_methods/zhuhai_rural_credit_cooperatives/icon.png?w=278&c=v0.59.26#w40) |[zhuhai_rural_credit_cooperatives_cny](/payout-services/zhuhai_rural_credit_cooperatives_cny/)|`zhuhai_rural_credit_cooperatives_cny`| 
+|![zhuhai_rural_credit_cooperatives](https://static.openfintech.io/payout_methods/zhuhai_rural_credit_cooperatives/icon.svg?w=278&c=v0.59.26#w40) |[zhuhai_rural_credit_cooperatives_cny](/payout-services/zhuhai_rural_credit_cooperatives_cny/)|`zhuhai_rural_credit_cooperatives_cny`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Tiger (Kiev)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-tiger-kiev](https://static.openfintech.io/payout_methods/taksi-tiger-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-tiger-kiev_uah](/payout-services/taksi-tiger-kiev_uah/)|`taksi-tiger-kiev_uah`| 
+|![taksi-tiger-kiev](https://static.openfintech.io/payout_methods/taksi-tiger-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-tiger-kiev_uah](/payout-services/taksi-tiger-kiev_uah/)|`taksi-tiger-kiev_uah`| 
  
 
 ## JSON Object 

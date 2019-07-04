@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _CNL_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![cnl](https://static.openfintech.io/payout_methods/cnl/icon.png?w=278&c=v0.59.26#w40) |[cnl_uah](/payout-services/cnl_uah/)|`cnl_uah`| 
+|![cnl](https://static.openfintech.io/payout_methods/cnl/icon.svg?w=278&c=v0.59.26#w40) |[cnl_uah](/payout-services/cnl_uah/)|`cnl_uah`| 
  
 
 ## JSON Object 

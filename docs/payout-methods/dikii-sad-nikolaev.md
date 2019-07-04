@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Wild Garden (Niko
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![dikii-sad-nikolaev](https://static.openfintech.io/payout_methods/dikii-sad-nikolaev/icon.png?w=278&c=v0.59.26#w40) |[dikii-sad-nikolaev_uah](/payout-services/dikii-sad-nikolaev_uah/)|`dikii-sad-nikolaev_uah`| 
+|![dikii-sad-nikolaev](https://static.openfintech.io/payout_methods/dikii-sad-nikolaev/icon.svg?w=278&c=v0.59.26#w40) |[dikii-sad-nikolaev_uah](/payout-services/dikii-sad-nikolaev_uah/)|`dikii-sad-nikolaev_uah`| 
  
 
 ## JSON Object 

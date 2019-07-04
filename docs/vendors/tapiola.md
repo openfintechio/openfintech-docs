@@ -1,6 +1,6 @@
 
 # Tapiola 
-![tapiola](https://static.openfintech.io/vendors/tapiola/logo.png?w=400&c=v0.59.26#w200)  
+![tapiola](https://static.openfintech.io/vendors/tapiola/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![tapiola](https://static.openfintech.io/vendors/tapiola/logo.png?w=400&c=v0.59.26#w200)  
+![tapiola](https://static.openfintech.io/vendors/tapiola/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/tapiola/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/tapiola/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![tapiola](https://static.openfintech.io/vendors/tapiola/icon.png?w=278&c=v0.59.26#w100)  
+![tapiola](https://static.openfintech.io/vendors/tapiola/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/tapiola/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/tapiola/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

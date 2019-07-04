@@ -1,6 +1,6 @@
 
 # Slovenská Sporitelña 
-![slovenskasporitelna](https://static.openfintech.io/payment_methods/slovenskasporitelna/logo.png?w=400&c=v0.59.26#w200)  
+![slovenskasporitelna](https://static.openfintech.io/payment_methods/slovenskasporitelna/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `slovenskasporitelna` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![slovenskasporitelna](https://static.openfintech.io/payment_methods/slovenskasporitelna/logo.png?w=400&c=v0.59.26#w200)  
+![slovenskasporitelna](https://static.openfintech.io/payment_methods/slovenskasporitelna/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/slovenskasporitelna/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/slovenskasporitelna/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![slovenskasporitelna](https://static.openfintech.io/payment_methods/slovenskasporitelna/icon.png?w=278&c=v0.59.26#w100)  
+![slovenskasporitelna](https://static.openfintech.io/payment_methods/slovenskasporitelna/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/slovenskasporitelna/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/slovenskasporitelna/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Slovensk�
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![trustpay](https://static.openfintech.io/payment_providers/trustpay/icon.png?w=278&c=v0.59.26#w100) |[TrustPay](/payment-providers/trustpay/)|`trustpay`| 
+|![trustpay](https://static.openfintech.io/payment_providers/trustpay/icon.svg?w=278&c=v0.59.26#w100) |[TrustPay](/payment-providers/trustpay/)|`trustpay`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
  
 

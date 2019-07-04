@@ -1,6 +1,6 @@
 
 # VallettaPay 
-![vallettapay](https://static.openfintech.io/vendors/vallettapay/logo.png?w=400&c=v0.59.26#w200)  
+![vallettapay](https://static.openfintech.io/vendors/vallettapay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Gemini, Bone Alley, MriehelBKR 3010 Malta
 
 ### Logo 
  
-![vallettapay](https://static.openfintech.io/vendors/vallettapay/logo.png?w=400&c=v0.59.26#w200)  
+![vallettapay](https://static.openfintech.io/vendors/vallettapay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/vallettapay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/vallettapay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![vallettapay](https://static.openfintech.io/vendors/vallettapay/icon.png?w=278&c=v0.59.26#w100)  
+![vallettapay](https://static.openfintech.io/vendors/vallettapay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/vallettapay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/vallettapay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Home Network (Kie
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![domashniaia-set-kiev](https://static.openfintech.io/payout_methods/domashniaia-set-kiev/icon.png?w=278&c=v0.59.26#w40) |[domashniaia-set-kiev_uah](/payout-services/domashniaia-set-kiev_uah/)|`domashniaia-set-kiev_uah`| 
+|![domashniaia-set-kiev](https://static.openfintech.io/payout_methods/domashniaia-set-kiev/icon.svg?w=278&c=v0.59.26#w40) |[domashniaia-set-kiev_uah](/payout-services/domashniaia-set-kiev_uah/)|`domashniaia-set-kiev_uah`| 
  
 
 ## JSON Object 

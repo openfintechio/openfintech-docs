@@ -1,6 +1,6 @@
 
 # OneCard 
-![onecard](https://static.openfintech.io/payment_methods/onecard/logo.png?w=400&c=v0.59.26#w200)  
+![onecard](https://static.openfintech.io/payment_methods/onecard/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `onecard` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![onecard](https://static.openfintech.io/payment_methods/onecard/logo.png?w=400&c=v0.59.26#w200)  
+![onecard](https://static.openfintech.io/payment_methods/onecard/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/onecard/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/onecard/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![onecard](https://static.openfintech.io/payment_methods/onecard/icon.png?w=278&c=v0.59.26#w100)  
+![onecard](https://static.openfintech.io/payment_methods/onecard/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/onecard/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/onecard/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

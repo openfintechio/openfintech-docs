@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Talisman (Od
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-talisman-odessa](https://static.openfintech.io/payout_methods/taksi-talisman-odessa/icon.png?w=278&c=v0.59.26#w40) |[taksi-talisman-odessa_uah](/payout-services/taksi-talisman-odessa_uah/)|`taksi-talisman-odessa_uah`| 
+|![taksi-talisman-odessa](https://static.openfintech.io/payout_methods/taksi-talisman-odessa/icon.svg?w=278&c=v0.59.26#w40) |[taksi-talisman-odessa_uah](/payout-services/taksi-talisman-odessa_uah/)|`taksi-talisman-odessa_uah`| 
  
 
 ## JSON Object 

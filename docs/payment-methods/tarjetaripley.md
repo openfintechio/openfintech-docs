@@ -1,6 +1,6 @@
 
 # Ripley 
-![tarjetaripley](https://static.openfintech.io/payment_methods/tarjetaripley/logo.png?w=400&c=v0.59.26#w200)  
+![tarjetaripley](https://static.openfintech.io/payment_methods/tarjetaripley/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `tarjetaripley` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![tarjetaripley](https://static.openfintech.io/payment_methods/tarjetaripley/logo.png?w=400&c=v0.59.26#w200)  
+![tarjetaripley](https://static.openfintech.io/payment_methods/tarjetaripley/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/tarjetaripley/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/tarjetaripley/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![tarjetaripley](https://static.openfintech.io/payment_methods/tarjetaripley/icon.png?w=278&c=v0.59.26#w100)  
+![tarjetaripley](https://static.openfintech.io/payment_methods/tarjetaripley/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/tarjetaripley/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/tarjetaripley/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,15 +43,15 @@ The list of [Payment Providers](/payment-providers/) that support the _Ripley_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.png?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
-|![paygol](https://static.openfintech.io/payment_providers/paygol/icon.png?w=278&c=v0.59.26#w100) |[PayGol](/payment-providers/paygol/)|`paygol`| 
-|![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
+|![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.svg?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
+|![paygol](https://static.openfintech.io/payment_providers/paygol/icon.svg?w=278&c=v0.59.26#w100) |[PayGol](/payment-providers/paygol/)|`paygol`| 
+|![acapture](https://static.openfintech.io/payment_providers/acapture/icon.svg?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
 |![payu](https://static.openfintech.io/payment_providers/payu/icon.svg?w=278&c=v0.59.26#w100) |[PayU](/payment-providers/payu/)|`payu`| 
-|![g2apay](https://static.openfintech.io/payment_providers/g2apay/icon.png?w=278&c=v0.59.26#w100) |[G2A PAY](/payment-providers/g2apay/)|`g2apay`| 
-|![boacompra](https://static.openfintech.io/payment_providers/boacompra/icon.png?w=278&c=v0.59.26#w100) |[UOL BoaCompra](/payment-providers/boacompra/)|`boacompra`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![g2apay](https://static.openfintech.io/payment_providers/g2apay/icon.svg?w=278&c=v0.59.26#w100) |[G2A PAY](/payment-providers/g2apay/)|`g2apay`| 
+|![boacompra](https://static.openfintech.io/payment_providers/boacompra/icon.svg?w=278&c=v0.59.26#w100) |[UOL BoaCompra](/payment-providers/boacompra/)|`boacompra`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
-|![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.png?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
+|![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.svg?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Osuuspankki 
-![osuuspankki](https://static.openfintech.io/vendors/osuuspankki/logo.png?w=400&c=v0.59.26#w200)  
+![osuuspankki](https://static.openfintech.io/vendors/osuuspankki/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![osuuspankki](https://static.openfintech.io/vendors/osuuspankki/logo.png?w=400&c=v0.59.26#w200)  
+![osuuspankki](https://static.openfintech.io/vendors/osuuspankki/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/osuuspankki/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/osuuspankki/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![osuuspankki](https://static.openfintech.io/vendors/osuuspankki/icon.png?w=278&c=v0.59.26#w100)  
+![osuuspankki](https://static.openfintech.io/vendors/osuuspankki/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/osuuspankki/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/osuuspankki/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

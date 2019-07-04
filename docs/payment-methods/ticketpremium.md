@@ -1,6 +1,6 @@
 
 # Ticket Premium 
-![ticketpremium](https://static.openfintech.io/payment_methods/ticketpremium/logo.png?w=400&c=v0.59.26#w200)  
+![ticketpremium](https://static.openfintech.io/payment_methods/ticketpremium/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `ticketpremium` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![ticketpremium](https://static.openfintech.io/payment_methods/ticketpremium/logo.png?w=400&c=v0.59.26#w200)  
+![ticketpremium](https://static.openfintech.io/payment_methods/ticketpremium/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/ticketpremium/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/ticketpremium/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![ticketpremium](https://static.openfintech.io/payment_methods/ticketpremium/icon.png?w=278&c=v0.59.26#w100)  
+![ticketpremium](https://static.openfintech.io/payment_methods/ticketpremium/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/ticketpremium/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/ticketpremium/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,9 +43,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Ticket Pr
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kalixa](https://static.openfintech.io/payment_providers/kalixa/icon.png?w=278&c=v0.59.26#w100) |[Kalixa Payments Group](/payment-providers/kalixa/)|`kalixa`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
-|![easypaymentgateway](https://static.openfintech.io/payment_providers/easypaymentgateway/icon.png?w=278&c=v0.59.26#w100) |[Easy Payment Gateway](/payment-providers/easypaymentgateway/)|`easypaymentgateway`| 
+|![kalixa](https://static.openfintech.io/payment_providers/kalixa/icon.svg?w=278&c=v0.59.26#w100) |[Kalixa Payments Group](/payment-providers/kalixa/)|`kalixa`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![easypaymentgateway](https://static.openfintech.io/payment_providers/easypaymentgateway/icon.svg?w=278&c=v0.59.26#w100) |[Easy Payment Gateway](/payment-providers/easypaymentgateway/)|`easypaymentgateway`| 
  
 
 ## JSON Object 

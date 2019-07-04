@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Kiwi (Zaporo
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-kivi-zaporozhe](https://static.openfintech.io/payout_methods/taksi-kivi-zaporozhe/icon.png?w=278&c=v0.59.26#w40) |[taksi-kivi-zaporozhe_uah](/payout-services/taksi-kivi-zaporozhe_uah/)|`taksi-kivi-zaporozhe_uah`| 
+|![taksi-kivi-zaporozhe](https://static.openfintech.io/payout_methods/taksi-kivi-zaporozhe/icon.svg?w=278&c=v0.59.26#w40) |[taksi-kivi-zaporozhe_uah](/payout-services/taksi-kivi-zaporozhe_uah/)|`taksi-kivi-zaporozhe_uah`| 
  
 
 ## JSON Object 

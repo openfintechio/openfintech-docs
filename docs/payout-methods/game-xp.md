@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Game XP_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![game-xp](https://static.openfintech.io/payout_methods/game-xp/icon.png?w=278&c=v0.59.26#w40) |[game-xp_uah](/payout-services/game-xp_uah/)|`game-xp_uah`| 
+|![game-xp](https://static.openfintech.io/payout_methods/game-xp/icon.svg?w=278&c=v0.59.26#w40) |[game-xp_uah](/payout-services/game-xp_uah/)|`game-xp_uah`| 
  
 
 ## JSON Object 

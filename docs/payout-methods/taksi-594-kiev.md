@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi 594 (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-594-kiev](https://static.openfintech.io/payout_methods/taksi-594-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-594-kiev_uah](/payout-services/taksi-594-kiev_uah/)|`taksi-594-kiev_uah`| 
+|![taksi-594-kiev](https://static.openfintech.io/payout_methods/taksi-594-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-594-kiev_uah](/payout-services/taksi-594-kiev_uah/)|`taksi-594-kiev_uah`| 
  
 
 ## JSON Object 

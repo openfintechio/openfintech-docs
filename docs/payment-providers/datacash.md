@@ -1,6 +1,6 @@
 
 # MasterCard Payment Gateway Services 
-![datacash](https://static.openfintech.io/payment_providers/datacash/logo.png?w=400&c=v0.59.26#w100)  
+![datacash](https://static.openfintech.io/payment_providers/datacash/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![datacash](https://static.openfintech.io/payment_providers/datacash/logo.png?w=400&c=v0.59.26#w100)  
+![datacash](https://static.openfintech.io/payment_providers/datacash/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/datacash/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/datacash/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![datacash](https://static.openfintech.io/payment_providers/datacash/icon.png?w=278&c=v0.59.26#w100)  
+![datacash](https://static.openfintech.io/payment_providers/datacash/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/datacash/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/datacash/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

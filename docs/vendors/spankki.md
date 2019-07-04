@@ -1,6 +1,6 @@
 
 # S-Pankki 
-![spankki](https://static.openfintech.io/vendors/spankki/logo.png?w=400&c=v0.59.26#w200)  
+![spankki](https://static.openfintech.io/vendors/spankki/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![spankki](https://static.openfintech.io/vendors/spankki/logo.png?w=400&c=v0.59.26#w200)  
+![spankki](https://static.openfintech.io/vendors/spankki/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/spankki/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/spankki/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![spankki](https://static.openfintech.io/vendors/spankki/icon.png?w=278&c=v0.59.26#w100)  
+![spankki](https://static.openfintech.io/vendors/spankki/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/spankki/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/spankki/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi E-95 (Odessa
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-e-95-odessa](https://static.openfintech.io/payout_methods/taksi-e-95-odessa/icon.png?w=278&c=v0.59.26#w40) |[taksi-e-95-odessa_uah](/payout-services/taksi-e-95-odessa_uah/)|`taksi-e-95-odessa_uah`| 
+|![taksi-e-95-odessa](https://static.openfintech.io/payout_methods/taksi-e-95-odessa/icon.svg?w=278&c=v0.59.26#w40) |[taksi-e-95-odessa_uah](/payout-services/taksi-e-95-odessa_uah/)|`taksi-e-95-odessa_uah`| 
  
 
 ## JSON Object 

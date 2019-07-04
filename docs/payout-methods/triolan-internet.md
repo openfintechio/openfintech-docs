@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Triolan - Interne
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![triolan-internet](https://static.openfintech.io/payout_methods/triolan-internet/icon.png?w=278&c=v0.59.26#w40) |[triolan-internet_uah](/payout-services/triolan-internet_uah/)|`triolan-internet_uah`| 
+|![triolan-internet](https://static.openfintech.io/payout_methods/triolan-internet/icon.svg?w=278&c=v0.59.26#w40) |[triolan-internet_uah](/payout-services/triolan-internet_uah/)|`triolan-internet_uah`| 
  
 
 ## JSON Object 

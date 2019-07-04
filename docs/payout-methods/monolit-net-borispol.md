@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Monolit.net (Bory
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![monolit-net-borispol](https://static.openfintech.io/payout_methods/monolit-net-borispol/icon.png?w=278&c=v0.59.26#w40) |[monolit-net-borispol_uah](/payout-services/monolit-net-borispol_uah/)|`monolit-net-borispol_uah`| 
+|![monolit-net-borispol](https://static.openfintech.io/payout_methods/monolit-net-borispol/icon.svg?w=278&c=v0.59.26#w40) |[monolit-net-borispol_uah](/payout-services/monolit-net-borispol_uah/)|`monolit-net-borispol_uah`| 
  
 
 ## JSON Object 

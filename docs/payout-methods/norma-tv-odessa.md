@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Norma TV (Odessa)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![norma-tv-odessa](https://static.openfintech.io/payout_methods/norma-tv-odessa/icon.png?w=278&c=v0.59.26#w40) |[norma-tv-odessa_uah](/payout-services/norma-tv-odessa_uah/)|`norma-tv-odessa_uah`| 
+|![norma-tv-odessa](https://static.openfintech.io/payout_methods/norma-tv-odessa/icon.svg?w=278&c=v0.59.26#w40) |[norma-tv-odessa_uah](/payout-services/norma-tv-odessa_uah/)|`norma-tv-odessa_uah`| 
  
 
 ## JSON Object 

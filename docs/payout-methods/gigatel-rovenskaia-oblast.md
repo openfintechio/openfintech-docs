@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Gigatel (Rivne re
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![gigatel-rovenskaia-oblast](https://static.openfintech.io/payout_methods/gigatel-rovenskaia-oblast/icon.png?w=278&c=v0.59.26#w40) |[gigatel-rovenskaia-oblast_uah](/payout-services/gigatel-rovenskaia-oblast_uah/)|`gigatel-rovenskaia-oblast_uah`| 
+|![gigatel-rovenskaia-oblast](https://static.openfintech.io/payout_methods/gigatel-rovenskaia-oblast/icon.svg?w=278&c=v0.59.26#w40) |[gigatel-rovenskaia-oblast_uah](/payout-services/gigatel-rovenskaia-oblast_uah/)|`gigatel-rovenskaia-oblast_uah`| 
  
 
 ## JSON Object 

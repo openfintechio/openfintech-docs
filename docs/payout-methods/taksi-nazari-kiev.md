@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Nasari (Kiev
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-nazari-kiev](https://static.openfintech.io/payout_methods/taksi-nazari-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-nazari-kiev_uah](/payout-services/taksi-nazari-kiev_uah/)|`taksi-nazari-kiev_uah`| 
+|![taksi-nazari-kiev](https://static.openfintech.io/payout_methods/taksi-nazari-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-nazari-kiev_uah](/payout-services/taksi-nazari-kiev_uah/)|`taksi-nazari-kiev_uah`| 
  
 
 ## JSON Object 

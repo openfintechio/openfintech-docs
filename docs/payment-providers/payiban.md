@@ -1,6 +1,6 @@
 
 # PayIBAN 
-![payiban](https://static.openfintech.io/payment_providers/payiban/logo.png?w=400&c=v0.59.26#w100)  
+![payiban](https://static.openfintech.io/payment_providers/payiban/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![payiban](https://static.openfintech.io/payment_providers/payiban/logo.png?w=400&c=v0.59.26#w100)  
+![payiban](https://static.openfintech.io/payment_providers/payiban/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/payiban/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/payiban/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![payiban](https://static.openfintech.io/payment_providers/payiban/icon.png?w=278&c=v0.59.26#w100)  
+![payiban](https://static.openfintech.io/payment_providers/payiban/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/payiban/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/payiban/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

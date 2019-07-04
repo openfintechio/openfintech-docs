@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _AIRPORT_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![airport](https://static.openfintech.io/payout_methods/airport/icon.png?w=278&c=v0.59.26#w40) |[airport_uah](/payout-services/airport_uah/)|`airport_uah`| 
+|![airport](https://static.openfintech.io/payout_methods/airport/icon.svg?w=278&c=v0.59.26#w40) |[airport_uah](/payout-services/airport_uah/)|`airport_uah`| 
  
 
 ## JSON Object 

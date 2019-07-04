@@ -1,6 +1,6 @@
 
 # tarjeta naranja 
-![tarjetanaranjacreditcard](https://static.openfintech.io/payment_methods/tarjetanaranjacreditcard/logo.png?w=400&c=v0.59.26#w200)  
+![tarjetanaranjacreditcard](https://static.openfintech.io/payment_methods/tarjetanaranjacreditcard/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `tarjetanaranjacreditcard` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![tarjetanaranjacreditcard](https://static.openfintech.io/payment_methods/tarjetanaranjacreditcard/logo.png?w=400&c=v0.59.26#w200)  
+![tarjetanaranjacreditcard](https://static.openfintech.io/payment_methods/tarjetanaranjacreditcard/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/tarjetanaranjacreditcard/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/tarjetanaranjacreditcard/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![tarjetanaranjacreditcard](https://static.openfintech.io/payment_methods/tarjetanaranjacreditcard/icon.png?w=278&c=v0.59.26#w100)  
+![tarjetanaranjacreditcard](https://static.openfintech.io/payment_methods/tarjetanaranjacreditcard/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/tarjetanaranjacreditcard/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/tarjetanaranjacreditcard/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,16 +43,16 @@ The list of [Payment Providers](/payment-providers/) that support the _tarjeta n
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.png?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
-|![ppro](https://static.openfintech.io/payment_providers/ppro/icon.png?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
-|![cngpro](https://static.openfintech.io/payment_providers/cngpro/icon.png?w=278&c=v0.59.26#w100) |[CNG Pro](/payment-providers/cngpro/)|`cngpro`| 
-|![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
+|![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.svg?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
+|![ppro](https://static.openfintech.io/payment_providers/ppro/icon.svg?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
+|![cngpro](https://static.openfintech.io/payment_providers/cngpro/icon.svg?w=278&c=v0.59.26#w100) |[CNG Pro](/payment-providers/cngpro/)|`cngpro`| 
+|![acapture](https://static.openfintech.io/payment_providers/acapture/icon.svg?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
 |![payu](https://static.openfintech.io/payment_providers/payu/icon.svg?w=278&c=v0.59.26#w100) |[PayU](/payment-providers/payu/)|`payu`| 
-|![g2apay](https://static.openfintech.io/payment_providers/g2apay/icon.png?w=278&c=v0.59.26#w100) |[G2A PAY](/payment-providers/g2apay/)|`g2apay`| 
-|![boacompra](https://static.openfintech.io/payment_providers/boacompra/icon.png?w=278&c=v0.59.26#w100) |[UOL BoaCompra](/payment-providers/boacompra/)|`boacompra`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
-|![alliedwallet2](https://static.openfintech.io/payment_providers/alliedwallet2/icon.png?w=278&c=v0.59.26#w100) |[Allied Wallet](/payment-providers/alliedwallet2/)|`alliedwallet2`| 
-|![allpago](https://static.openfintech.io/payment_providers/allpago/icon.png?w=278&c=v0.59.26#w100) |[allpago - accept payments in Latin America](/payment-providers/allpago/)|`allpago`| 
+|![g2apay](https://static.openfintech.io/payment_providers/g2apay/icon.svg?w=278&c=v0.59.26#w100) |[G2A PAY](/payment-providers/g2apay/)|`g2apay`| 
+|![boacompra](https://static.openfintech.io/payment_providers/boacompra/icon.svg?w=278&c=v0.59.26#w100) |[UOL BoaCompra](/payment-providers/boacompra/)|`boacompra`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![alliedwallet2](https://static.openfintech.io/payment_providers/alliedwallet2/icon.svg?w=278&c=v0.59.26#w100) |[Allied Wallet](/payment-providers/alliedwallet2/)|`alliedwallet2`| 
+|![allpago](https://static.openfintech.io/payment_providers/allpago/icon.svg?w=278&c=v0.59.26#w100) |[allpago - accept payments in Latin America](/payment-providers/allpago/)|`allpago`| 
  
 
 ## JSON Object 

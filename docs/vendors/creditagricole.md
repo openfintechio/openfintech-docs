@@ -1,6 +1,6 @@
 
 # Crédit Agricole 
-![creditagricole](https://static.openfintech.io/vendors/creditagricole/logo.png?w=400&c=v0.59.26#w200)  
+![creditagricole](https://static.openfintech.io/vendors/creditagricole/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![creditagricole](https://static.openfintech.io/vendors/creditagricole/logo.png?w=400&c=v0.59.26#w200)  
+![creditagricole](https://static.openfintech.io/vendors/creditagricole/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/creditagricole/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/creditagricole/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![creditagricole](https://static.openfintech.io/vendors/creditagricole/icon.png?w=278&c=v0.59.26#w100)  
+![creditagricole](https://static.openfintech.io/vendors/creditagricole/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/creditagricole/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/creditagricole/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # REP 
-![REP](https://static.openfintech.io/currencies/REP/icon.png?w=278&c=v0.59.26#w100)  
+![REP](https://static.openfintech.io/currencies/REP/icon.svg?w=278&c=v0.59.26#w100)  
 
 ## General 
  
@@ -29,10 +29,10 @@
 
 ### Icon 
  
-![REP](https://static.openfintech.io/currencies/REP/icon.png?w=278&c=v0.59.26#w100)  
+![REP](https://static.openfintech.io/currencies/REP/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/currencies/REP/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/currencies/REP/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

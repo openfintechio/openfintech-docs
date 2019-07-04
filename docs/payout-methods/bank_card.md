@@ -50,7 +50,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![liqpay](https://static.openfintech.io/payment_providers/liqpay/icon.svg?w=278&c=v0.59.26#w100) |[LiqPay](/payment-providers/liqpay/)|`liqpay`| 
 |![4bill](https://static.openfintech.io/payment_providers/4bill/icon.svg?w=278&c=v0.59.26#w100) |[4bill](/payment-providers/4bill/)|`4bill`| 
 |![paymega](https://static.openfintech.io/payment_providers/paymega/icon.svg?w=278&c=v0.59.26#w100) |[PayMega](/payment-providers/paymega/)|`paymega`| 
-|![123x](https://static.openfintech.io/payment_providers/123x/icon.png?w=278&c=v0.59.26#w100) |[123x](/payment-providers/123x/)|`123x`| 
+|![123x](https://static.openfintech.io/payment_providers/123x/icon.svg?w=278&c=v0.59.26#w100) |[123x](/payment-providers/123x/)|`123x`| 
 |![walletone](https://static.openfintech.io/payment_providers/walletone/icon.svg?w=278&c=v0.59.26#w100) |[Wallet One](/payment-providers/walletone/)|`walletone`| 
 |![platon](https://static.openfintech.io/payment_providers/platon/icon.svg?w=278&c=v0.59.26#w100) |[Platon](/payment-providers/platon/)|`platon`| 
 |![paymaster](https://static.openfintech.io/payment_providers/paymaster/icon.svg?w=278&c=v0.59.26#w100) |[Paymaster](/payment-providers/paymaster/)|`paymaster`| 

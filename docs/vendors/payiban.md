@@ -1,6 +1,6 @@
 
 # PayIBAN 
-![payiban](https://static.openfintech.io/vendors/payiban/logo.png?w=400&c=v0.59.26#w200)  
+![payiban](https://static.openfintech.io/vendors/payiban/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Aurelius 246661 JT ElstNetherlands
 
 ### Logo 
  
-![payiban](https://static.openfintech.io/vendors/payiban/logo.png?w=400&c=v0.59.26#w200)  
+![payiban](https://static.openfintech.io/vendors/payiban/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payiban/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payiban/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payiban](https://static.openfintech.io/vendors/payiban/icon.png?w=278&c=v0.59.26#w100)  
+![payiban](https://static.openfintech.io/vendors/payiban/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payiban/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payiban/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

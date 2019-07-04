@@ -1,6 +1,6 @@
 
 # Crédit Agricole 
-![creditagricole](https://static.openfintech.io/payment_methods/creditagricole/logo.png?w=400&c=v0.59.26#w200)  
+![creditagricole](https://static.openfintech.io/payment_methods/creditagricole/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `creditagricole` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![creditagricole](https://static.openfintech.io/payment_methods/creditagricole/logo.png?w=400&c=v0.59.26#w200)  
+![creditagricole](https://static.openfintech.io/payment_methods/creditagricole/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/creditagricole/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/creditagricole/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![creditagricole](https://static.openfintech.io/payment_methods/creditagricole/icon.png?w=278&c=v0.59.26#w100)  
+![creditagricole](https://static.openfintech.io/payment_methods/creditagricole/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/creditagricole/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/creditagricole/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,11 +43,11 @@ The list of [Payment Providers](/payment-providers/) that support the _Crédit A
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
-|![be2bill](https://static.openfintech.io/payment_providers/be2bill/icon.png?w=278&c=v0.59.26#w100) |[Be2bill](/payment-providers/be2bill/)|`be2bill`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.svg?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
+|![be2bill](https://static.openfintech.io/payment_providers/be2bill/icon.svg?w=278&c=v0.59.26#w100) |[Be2bill](/payment-providers/be2bill/)|`be2bill`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
-|![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.png?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
+|![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.svg?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
  
 
 ## JSON Object 

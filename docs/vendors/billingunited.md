@@ -1,6 +1,6 @@
 
 # Billing-United 
-![billingunited](https://static.openfintech.io/vendors/billingunited/logo.png?w=400&c=v0.59.26#w200)  
+![billingunited](https://static.openfintech.io/vendors/billingunited/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Paseo de Gracia no. 308007 BarcelonaSpain
 
 ### Logo 
  
-![billingunited](https://static.openfintech.io/vendors/billingunited/logo.png?w=400&c=v0.59.26#w200)  
+![billingunited](https://static.openfintech.io/vendors/billingunited/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/billingunited/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/billingunited/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![billingunited](https://static.openfintech.io/vendors/billingunited/icon.png?w=278&c=v0.59.26#w100)  
+![billingunited](https://static.openfintech.io/vendors/billingunited/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/billingunited/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/billingunited/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

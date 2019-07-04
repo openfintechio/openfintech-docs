@@ -1,6 +1,6 @@
 
 # Minitix 
-![minitix](https://static.openfintech.io/vendors/minitix/logo.png?w=400&c=v0.59.26#w200)  
+![minitix](https://static.openfintech.io/vendors/minitix/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![minitix](https://static.openfintech.io/vendors/minitix/logo.png?w=400&c=v0.59.26#w200)  
+![minitix](https://static.openfintech.io/vendors/minitix/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/minitix/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/minitix/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![minitix](https://static.openfintech.io/vendors/minitix/icon.png?w=278&c=v0.59.26#w100)  
+![minitix](https://static.openfintech.io/vendors/minitix/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/minitix/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/minitix/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

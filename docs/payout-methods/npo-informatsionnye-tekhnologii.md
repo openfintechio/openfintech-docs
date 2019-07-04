@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _NGO Information T
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![npo-informatsionnye-tekhnologii](https://static.openfintech.io/payout_methods/npo-informatsionnye-tekhnologii/icon.png?w=278&c=v0.59.26#w40) |[npo-informatsionnye-tekhnologii_uah](/payout-services/npo-informatsionnye-tekhnologii_uah/)|`npo-informatsionnye-tekhnologii_uah`| 
+|![npo-informatsionnye-tekhnologii](https://static.openfintech.io/payout_methods/npo-informatsionnye-tekhnologii/icon.svg?w=278&c=v0.59.26#w40) |[npo-informatsionnye-tekhnologii_uah](/payout-services/npo-informatsionnye-tekhnologii_uah/)|`npo-informatsionnye-tekhnologii_uah`| 
  
 
 ## JSON Object 

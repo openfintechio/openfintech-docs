@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Network +_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![merezha](https://static.openfintech.io/payout_methods/merezha/icon.png?w=278&c=v0.59.26#w40) |[merezha_uah](/payout-services/merezha_uah/)|`merezha_uah`| 
+|![merezha](https://static.openfintech.io/payout_methods/merezha/icon.svg?w=278&c=v0.59.26#w40) |[merezha_uah](/payout-services/merezha_uah/)|`merezha_uah`| 
  
 
 ## JSON Object 

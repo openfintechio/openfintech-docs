@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Avalon (Niko
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-avalon-nikolaev](https://static.openfintech.io/payout_methods/taksi-avalon-nikolaev/icon.png?w=278&c=v0.59.26#w40) |[taksi-avalon-nikolaev_uah](/payout-services/taksi-avalon-nikolaev_uah/)|`taksi-avalon-nikolaev_uah`| 
+|![taksi-avalon-nikolaev](https://static.openfintech.io/payout_methods/taksi-avalon-nikolaev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-avalon-nikolaev_uah](/payout-services/taksi-avalon-nikolaev_uah/)|`taksi-avalon-nikolaev_uah`| 
  
 
 ## JSON Object 

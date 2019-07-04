@@ -1,6 +1,6 @@
 
 # ping.ping 
-![pingping](https://static.openfintech.io/vendors/pingping/logo.png?w=400&c=v0.59.26#w200)  
+![pingping](https://static.openfintech.io/vendors/pingping/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@ email: sales.ecom@ingenico.comphone: +32 (0)2 286 96 11fax: +32 (0)2 286 96 16
 
 ### Logo 
  
-![pingping](https://static.openfintech.io/vendors/pingping/logo.png?w=400&c=v0.59.26#w200)  
+![pingping](https://static.openfintech.io/vendors/pingping/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/pingping/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/pingping/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![pingping](https://static.openfintech.io/vendors/pingping/icon.png?w=278&c=v0.59.26#w100)  
+![pingping](https://static.openfintech.io/vendors/pingping/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/pingping/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/pingping/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

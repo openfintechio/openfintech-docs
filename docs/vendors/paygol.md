@@ -1,6 +1,6 @@
 
 # PayGol 
-![paygol](https://static.openfintech.io/vendors/paygol/logo.png?w=400&c=v0.59.26#w200)  
+![paygol](https://static.openfintech.io/vendors/paygol/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  8401 NW 17th Street33126 MiamiFloridaUnited States of America
 
 ### Logo 
  
-![paygol](https://static.openfintech.io/vendors/paygol/logo.png?w=400&c=v0.59.26#w200)  
+![paygol](https://static.openfintech.io/vendors/paygol/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paygol/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paygol/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paygol](https://static.openfintech.io/vendors/paygol/icon.png?w=278&c=v0.59.26#w100)  
+![paygol](https://static.openfintech.io/vendors/paygol/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paygol/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paygol/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

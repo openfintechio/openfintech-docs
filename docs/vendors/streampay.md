@@ -1,6 +1,6 @@
 
 # StreamPay 
-![streampay](https://static.openfintech.io/vendors/streampay/logo.png?w=400&c=v0.59.26#w200)  
+![streampay](https://static.openfintech.io/vendors/streampay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Kr. Barona iela 55 RigaLatvia
 
 ### Logo 
  
-![streampay](https://static.openfintech.io/vendors/streampay/logo.png?w=400&c=v0.59.26#w200)  
+![streampay](https://static.openfintech.io/vendors/streampay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/streampay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/streampay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![streampay](https://static.openfintech.io/vendors/streampay/icon.png?w=278&c=v0.59.26#w100)  
+![streampay](https://static.openfintech.io/vendors/streampay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/streampay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/streampay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

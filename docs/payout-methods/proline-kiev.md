@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Proline (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![proline-kiev](https://static.openfintech.io/payout_methods/proline-kiev/icon.png?w=278&c=v0.59.26#w40) |[proline-kiev_uah](/payout-services/proline-kiev_uah/)|`proline-kiev_uah`| 
+|![proline-kiev](https://static.openfintech.io/payout_methods/proline-kiev/icon.svg?w=278&c=v0.59.26#w40) |[proline-kiev_uah](/payout-services/proline-kiev_uah/)|`proline-kiev_uah`| 
  
 
 ## JSON Object 

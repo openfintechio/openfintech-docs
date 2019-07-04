@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Magical Earths_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![magicheskie-zemli](https://static.openfintech.io/payout_methods/magicheskie-zemli/icon.png?w=278&c=v0.59.26#w40) |[magicheskie-zemli_uah](/payout-services/magicheskie-zemli_uah/)|`magicheskie-zemli_uah`| 
+|![magicheskie-zemli](https://static.openfintech.io/payout_methods/magicheskie-zemli/icon.svg?w=278&c=v0.59.26#w40) |[magicheskie-zemli_uah](/payout-services/magicheskie-zemli_uah/)|`magicheskie-zemli_uah`| 
  
 
 ## JSON Object 

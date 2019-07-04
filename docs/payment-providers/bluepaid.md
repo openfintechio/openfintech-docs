@@ -1,6 +1,6 @@
 
 # BLUE PAID 
-![bluepaid](https://static.openfintech.io/payment_providers/bluepaid/logo.png?w=400&c=v0.59.26#w100)  
+![bluepaid](https://static.openfintech.io/payment_providers/bluepaid/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![bluepaid](https://static.openfintech.io/payment_providers/bluepaid/logo.png?w=400&c=v0.59.26#w100)  
+![bluepaid](https://static.openfintech.io/payment_providers/bluepaid/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/bluepaid/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/bluepaid/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![bluepaid](https://static.openfintech.io/payment_providers/bluepaid/icon.png?w=278&c=v0.59.26#w100)  
+![bluepaid](https://static.openfintech.io/payment_providers/bluepaid/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/bluepaid/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/bluepaid/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

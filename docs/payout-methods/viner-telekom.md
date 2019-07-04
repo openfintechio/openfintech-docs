@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _VINER TELECOM_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![viner-telekom](https://static.openfintech.io/payout_methods/viner-telekom/icon.png?w=278&c=v0.59.26#w40) |[viner-telekom_uah](/payout-services/viner-telekom_uah/)|`viner-telekom_uah`| 
+|![viner-telekom](https://static.openfintech.io/payout_methods/viner-telekom/icon.svg?w=278&c=v0.59.26#w40) |[viner-telekom_uah](/payout-services/viner-telekom_uah/)|`viner-telekom_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _HauseNET (Brovary
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![hausenet-brovary](https://static.openfintech.io/payout_methods/hausenet-brovary/icon.png?w=278&c=v0.59.26#w40) |[hausenet-brovary_uah](/payout-services/hausenet-brovary_uah/)|`hausenet-brovary_uah`| 
+|![hausenet-brovary](https://static.openfintech.io/payout_methods/hausenet-brovary/icon.svg?w=278&c=v0.59.26#w40) |[hausenet-brovary_uah](/payout-services/hausenet-brovary_uah/)|`hausenet-brovary_uah`| 
  
 
 ## JSON Object 

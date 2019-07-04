@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Portal_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![portal](https://static.openfintech.io/payout_methods/portal/icon.png?w=278&c=v0.59.26#w40) |[portal_uah](/payout-services/portal_uah/)|`portal_uah`| 
+|![portal](https://static.openfintech.io/payout_methods/portal/icon.svg?w=278&c=v0.59.26#w40) |[portal_uah](/payout-services/portal_uah/)|`portal_uah`| 
  
 
 ## JSON Object 

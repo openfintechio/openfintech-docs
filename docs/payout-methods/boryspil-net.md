@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Boryspil.net_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![boryspil-net](https://static.openfintech.io/payout_methods/boryspil-net/icon.png?w=278&c=v0.59.26#w40) |[boryspil-net_uah](/payout-services/boryspil-net_uah/)|`boryspil-net_uah`| 
+|![boryspil-net](https://static.openfintech.io/payout_methods/boryspil-net/icon.svg?w=278&c=v0.59.26#w40) |[boryspil-net_uah](/payout-services/boryspil-net_uah/)|`boryspil-net_uah`| 
  
 
 ## JSON Object 

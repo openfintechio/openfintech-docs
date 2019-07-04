@@ -1,6 +1,6 @@
 
 # Zaypay 
-![zaypay](https://static.openfintech.io/vendors/zaypay/logo.png?w=400&c=v0.59.26#w200)  
+![zaypay](https://static.openfintech.io/vendors/zaypay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Amsterdam AmsterdamNetherlands
 
 ### Logo 
  
-![zaypay](https://static.openfintech.io/vendors/zaypay/logo.png?w=400&c=v0.59.26#w200)  
+![zaypay](https://static.openfintech.io/vendors/zaypay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/zaypay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/zaypay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![zaypay](https://static.openfintech.io/vendors/zaypay/icon.png?w=278&c=v0.59.26#w100)  
+![zaypay](https://static.openfintech.io/vendors/zaypay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/zaypay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/zaypay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

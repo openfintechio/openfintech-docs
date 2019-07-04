@@ -1,6 +1,6 @@
 
 # DaoPay 
-![daopay](https://static.openfintech.io/vendors/daopay/logo.png?w=400&c=v0.59.26#w200)  
+![daopay](https://static.openfintech.io/vendors/daopay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Hackhofergasse 5/141190 ViennaAustria
 
 ### Logo 
  
-![daopay](https://static.openfintech.io/vendors/daopay/logo.png?w=400&c=v0.59.26#w200)  
+![daopay](https://static.openfintech.io/vendors/daopay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/daopay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/daopay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![daopay](https://static.openfintech.io/vendors/daopay/icon.png?w=278&c=v0.59.26#w100)  
+![daopay](https://static.openfintech.io/vendors/daopay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/daopay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/daopay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

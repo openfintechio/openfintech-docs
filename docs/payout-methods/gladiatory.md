@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Gladiators_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![gladiatory](https://static.openfintech.io/payout_methods/gladiatory/icon.png?w=278&c=v0.59.26#w40) |[gladiatory_uah](/payout-services/gladiatory_uah/)|`gladiatory_uah`| 
+|![gladiatory](https://static.openfintech.io/payout_methods/gladiatory/icon.svg?w=278&c=v0.59.26#w40) |[gladiatory_uah](/payout-services/gladiatory_uah/)|`gladiatory_uah`| 
  
 
 ## JSON Object 

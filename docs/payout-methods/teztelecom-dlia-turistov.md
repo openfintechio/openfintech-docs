@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _TezTelecom for to
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![teztelecom-dlia-turistov](https://static.openfintech.io/payout_methods/teztelecom-dlia-turistov/icon.png?w=278&c=v0.59.26#w40) |[teztelecom-dlia-turistov_uah](/payout-services/teztelecom-dlia-turistov_uah/)|`teztelecom-dlia-turistov_uah`| 
+|![teztelecom-dlia-turistov](https://static.openfintech.io/payout_methods/teztelecom-dlia-turistov/icon.svg?w=278&c=v0.59.26#w40) |[teztelecom-dlia-turistov_uah](/payout-services/teztelecom-dlia-turistov_uah/)|`teztelecom-dlia-turistov_uah`| 
  
 
 ## JSON Object 

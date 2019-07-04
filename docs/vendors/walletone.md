@@ -1,6 +1,6 @@
 
 # Wallet One 
-![walletone](https://static.openfintech.io/vendors/walletone/logo.png?w=400&c=v0.59.26#w200)  
+![walletone](https://static.openfintech.io/vendors/walletone/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,10 +23,10 @@ street:  Russian Federation
 
 ### Logo 
  
-![walletone](https://static.openfintech.io/vendors/walletone/logo.png?w=400&c=v0.59.26#w200)  
+![walletone](https://static.openfintech.io/vendors/walletone/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/walletone/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/walletone/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 

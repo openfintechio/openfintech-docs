@@ -1,6 +1,6 @@
 
 # Areto Systems 
-![aretosystems](https://static.openfintech.io/vendors/aretosystems/logo.png?w=400&c=v0.59.26#w200)  
+![aretosystems](https://static.openfintech.io/vendors/aretosystems/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Abacus Business Centre, Level 1, Triq Dun KarmBKR9037 BirkirkaraMalta
 
 ### Logo 
  
-![aretosystems](https://static.openfintech.io/vendors/aretosystems/logo.png?w=400&c=v0.59.26#w200)  
+![aretosystems](https://static.openfintech.io/vendors/aretosystems/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/aretosystems/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/aretosystems/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![aretosystems](https://static.openfintech.io/vendors/aretosystems/icon.png?w=278&c=v0.59.26#w100)  
+![aretosystems](https://static.openfintech.io/vendors/aretosystems/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/aretosystems/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/aretosystems/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Visa Debit 
-![visadebit](https://static.openfintech.io/vendors/visadebit/logo.png?w=400&c=v0.59.26#w200)  
+![visadebit](https://static.openfintech.io/vendors/visadebit/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![visadebit](https://static.openfintech.io/vendors/visadebit/logo.png?w=400&c=v0.59.26#w200)  
+![visadebit](https://static.openfintech.io/vendors/visadebit/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/visadebit/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/visadebit/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![visadebit](https://static.openfintech.io/vendors/visadebit/icon.png?w=278&c=v0.59.26#w100)  
+![visadebit](https://static.openfintech.io/vendors/visadebit/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/visadebit/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/visadebit/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

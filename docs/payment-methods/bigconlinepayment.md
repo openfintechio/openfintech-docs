@@ -1,6 +1,6 @@
 
 # Big C 
-![bigconlinepayment](https://static.openfintech.io/payment_methods/bigconlinepayment/logo.png?w=400&c=v0.59.26#w200)  
+![bigconlinepayment](https://static.openfintech.io/payment_methods/bigconlinepayment/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `bigconlinepayment` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![bigconlinepayment](https://static.openfintech.io/payment_methods/bigconlinepayment/logo.png?w=400&c=v0.59.26#w200)  
+![bigconlinepayment](https://static.openfintech.io/payment_methods/bigconlinepayment/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/bigconlinepayment/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/bigconlinepayment/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![bigconlinepayment](https://static.openfintech.io/payment_methods/bigconlinepayment/icon.png?w=278&c=v0.59.26#w100)  
+![bigconlinepayment](https://static.openfintech.io/payment_methods/bigconlinepayment/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/bigconlinepayment/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/bigconlinepayment/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Big C_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.png?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
+|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.svg?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
  
 
 ## JSON Object 

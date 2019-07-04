@@ -1,6 +1,6 @@
 
 # GMO Payment Gateway 
-![gmopaymentgateway](https://static.openfintech.io/vendors/gmopaymentgateway/logo.png?w=400&c=v0.59.26#w200)  
+![gmopaymentgateway](https://static.openfintech.io/vendors/gmopaymentgateway/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Japan
 
 ### Logo 
  
-![gmopaymentgateway](https://static.openfintech.io/vendors/gmopaymentgateway/logo.png?w=400&c=v0.59.26#w200)  
+![gmopaymentgateway](https://static.openfintech.io/vendors/gmopaymentgateway/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/gmopaymentgateway/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/gmopaymentgateway/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![gmopaymentgateway](https://static.openfintech.io/vendors/gmopaymentgateway/icon.png?w=278&c=v0.59.26#w100)  
+![gmopaymentgateway](https://static.openfintech.io/vendors/gmopaymentgateway/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/gmopaymentgateway/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/gmopaymentgateway/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

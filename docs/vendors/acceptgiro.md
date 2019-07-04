@@ -1,6 +1,6 @@
 
 # Acceptgiro 
-![acceptgiro](https://static.openfintech.io/vendors/acceptgiro/logo.png?w=400&c=v0.59.26#w200)  
+![acceptgiro](https://static.openfintech.io/vendors/acceptgiro/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@ phone: +3120 305 19 00
 
 ### Logo 
  
-![acceptgiro](https://static.openfintech.io/vendors/acceptgiro/logo.png?w=400&c=v0.59.26#w200)  
+![acceptgiro](https://static.openfintech.io/vendors/acceptgiro/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/acceptgiro/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/acceptgiro/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![acceptgiro](https://static.openfintech.io/vendors/acceptgiro/icon.png?w=278&c=v0.59.26#w100)  
+![acceptgiro](https://static.openfintech.io/vendors/acceptgiro/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/acceptgiro/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/acceptgiro/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

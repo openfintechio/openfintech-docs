@@ -1,6 +1,6 @@
 
 # Liberty Bank 
-![libertybank](https://static.openfintech.io/payment_methods/libertybank/logo.png?w=400&c=v0.59.26#w200)  
+![libertybank](https://static.openfintech.io/payment_methods/libertybank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `libertybank` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![libertybank](https://static.openfintech.io/payment_methods/libertybank/logo.png?w=400&c=v0.59.26#w200)  
+![libertybank](https://static.openfintech.io/payment_methods/libertybank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/libertybank/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/libertybank/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![libertybank](https://static.openfintech.io/payment_methods/libertybank/icon.png?w=278&c=v0.59.26#w100)  
+![libertybank](https://static.openfintech.io/payment_methods/libertybank/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/libertybank/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/libertybank/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

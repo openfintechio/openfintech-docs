@@ -1,6 +1,6 @@
 
 # Banwire.com 
-![banwire](https://static.openfintech.io/payment_providers/banwire/logo.png?w=400&c=v0.59.26#w100)  
+![banwire](https://static.openfintech.io/payment_providers/banwire/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![banwire](https://static.openfintech.io/payment_providers/banwire/logo.png?w=400&c=v0.59.26#w100)  
+![banwire](https://static.openfintech.io/payment_providers/banwire/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/banwire/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/banwire/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![banwire](https://static.openfintech.io/payment_providers/banwire/icon.png?w=278&c=v0.59.26#w100)  
+![banwire](https://static.openfintech.io/payment_providers/banwire/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/banwire/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/banwire/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

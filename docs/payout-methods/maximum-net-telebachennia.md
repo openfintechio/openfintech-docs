@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Maximum Net - Tel
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![maximum-net-telebachennia](https://static.openfintech.io/payout_methods/maximum-net-telebachennia/icon.png?w=278&c=v0.59.26#w40) |[maximum-net-telebachennia_uah](/payout-services/maximum-net-telebachennia_uah/)|`maximum-net-telebachennia_uah`| 
+|![maximum-net-telebachennia](https://static.openfintech.io/payout_methods/maximum-net-telebachennia/icon.svg?w=278&c=v0.59.26#w40) |[maximum-net-telebachennia_uah](/payout-services/maximum-net-telebachennia_uah/)|`maximum-net-telebachennia_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # 99bill.com 
-![99bill](https://static.openfintech.io/payment_providers/99bill/logo.png?w=400&c=v0.59.26#w100)  
+![99bill](https://static.openfintech.io/payment_providers/99bill/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -23,18 +23,18 @@
 
 ### Logo 
  
-![99bill](https://static.openfintech.io/payment_providers/99bill/logo.png?w=400&c=v0.59.26#w100)  
+![99bill](https://static.openfintech.io/payment_providers/99bill/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/99bill/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/99bill/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![99bill](https://static.openfintech.io/payment_providers/99bill/icon.png?w=278&c=v0.59.26#w100)  
+![99bill](https://static.openfintech.io/payment_providers/99bill/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/99bill/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/99bill/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

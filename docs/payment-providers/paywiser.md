@@ -1,6 +1,6 @@
 
 # PayWiser 
-![paywiser](https://static.openfintech.io/payment_providers/paywiser/logo.png?w=400&c=v0.59.26#w100)  
+![paywiser](https://static.openfintech.io/payment_providers/paywiser/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![paywiser](https://static.openfintech.io/payment_providers/paywiser/logo.png?w=400&c=v0.59.26#w100)  
+![paywiser](https://static.openfintech.io/payment_providers/paywiser/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paywiser/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paywiser/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![paywiser](https://static.openfintech.io/payment_providers/paywiser/icon.png?w=278&c=v0.59.26#w100)  
+![paywiser](https://static.openfintech.io/payment_providers/paywiser/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paywiser/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paywiser/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

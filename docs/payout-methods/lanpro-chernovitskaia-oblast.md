@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _LANpro (Chernivts
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![lanpro-chernovitskaia-oblast](https://static.openfintech.io/payout_methods/lanpro-chernovitskaia-oblast/icon.png?w=278&c=v0.59.26#w40) |[lanpro-chernovitskaia-oblast_uah](/payout-services/lanpro-chernovitskaia-oblast_uah/)|`lanpro-chernovitskaia-oblast_uah`| 
+|![lanpro-chernovitskaia-oblast](https://static.openfintech.io/payout_methods/lanpro-chernovitskaia-oblast/icon.svg?w=278&c=v0.59.26#w40) |[lanpro-chernovitskaia-oblast_uah](/payout-services/lanpro-chernovitskaia-oblast_uah/)|`lanpro-chernovitskaia-oblast_uah`| 
  
 
 ## JSON Object 

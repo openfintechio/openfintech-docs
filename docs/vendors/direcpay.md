@@ -1,6 +1,6 @@
 
 # DirecPay 
-![direcpay](https://static.openfintech.io/vendors/direcpay/logo.png?w=400&c=v0.59.26#w200)  
+![direcpay](https://static.openfintech.io/vendors/direcpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  4th Floor, Times Tower | Kamala Mills Compound Senapati Bapat Marg |Low
 
 ### Logo 
  
-![direcpay](https://static.openfintech.io/vendors/direcpay/logo.png?w=400&c=v0.59.26#w200)  
+![direcpay](https://static.openfintech.io/vendors/direcpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/direcpay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/direcpay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![direcpay](https://static.openfintech.io/vendors/direcpay/icon.png?w=278&c=v0.59.26#w100)  
+![direcpay](https://static.openfintech.io/vendors/direcpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/direcpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/direcpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

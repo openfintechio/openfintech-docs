@@ -1,6 +1,6 @@
 
 # BillingTree 
-![billingtree](https://static.openfintech.io/vendors/billingtree/logo.png?w=400&c=v0.59.26#w200)  
+![billingtree](https://static.openfintech.io/vendors/billingtree/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Phoenix, AZUnited States of America
 
 ### Logo 
  
-![billingtree](https://static.openfintech.io/vendors/billingtree/logo.png?w=400&c=v0.59.26#w200)  
+![billingtree](https://static.openfintech.io/vendors/billingtree/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/billingtree/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/billingtree/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![billingtree](https://static.openfintech.io/vendors/billingtree/icon.png?w=278&c=v0.59.26#w100)  
+![billingtree](https://static.openfintech.io/vendors/billingtree/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/billingtree/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/billingtree/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

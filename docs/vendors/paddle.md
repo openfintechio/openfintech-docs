@@ -1,6 +1,6 @@
 
 # Paddle 
-![paddle](https://static.openfintech.io/vendors/paddle/logo.png?w=400&c=v0.59.26#w200)  
+![paddle](https://static.openfintech.io/vendors/paddle/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Unit J314, The Biscuit Factory, 100 Clements Road, BermondseySE16 4DG L
 
 ### Logo 
  
-![paddle](https://static.openfintech.io/vendors/paddle/logo.png?w=400&c=v0.59.26#w200)  
+![paddle](https://static.openfintech.io/vendors/paddle/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paddle/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paddle/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paddle](https://static.openfintech.io/vendors/paddle/icon.png?w=278&c=v0.59.26#w100)  
+![paddle](https://static.openfintech.io/vendors/paddle/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paddle/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paddle/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

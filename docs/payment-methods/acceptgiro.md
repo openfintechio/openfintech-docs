@@ -1,6 +1,6 @@
 
 # Acceptgiro 
-![acceptgiro](https://static.openfintech.io/payment_methods/acceptgiro/logo.png?w=400&c=v0.59.26#w200)  
+![acceptgiro](https://static.openfintech.io/payment_methods/acceptgiro/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `acceptgiro` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![acceptgiro](https://static.openfintech.io/payment_methods/acceptgiro/logo.png?w=400&c=v0.59.26#w200)  
+![acceptgiro](https://static.openfintech.io/payment_methods/acceptgiro/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/acceptgiro/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/acceptgiro/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![acceptgiro](https://static.openfintech.io/payment_methods/acceptgiro/icon.png?w=278&c=v0.59.26#w100)  
+![acceptgiro](https://static.openfintech.io/payment_methods/acceptgiro/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/acceptgiro/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/acceptgiro/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Acceptgir
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/icon.png?w=278&c=v0.59.26#w100) |[Buckaroo](/payment-providers/buckaroo/)|`buckaroo`| 
+|![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/icon.svg?w=278&c=v0.59.26#w100) |[Buckaroo](/payment-providers/buckaroo/)|`buckaroo`| 
  
 
 ## JSON Object 

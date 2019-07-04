@@ -1,6 +1,6 @@
 
 # WebMoney note 
-![wmnote](https://static.openfintech.io/payment_methods/wmnote/logo.png?w=400&c=v0.59.26#w200)  
+![wmnote](https://static.openfintech.io/payment_methods/wmnote/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `wmnote` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![wmnote](https://static.openfintech.io/payment_methods/wmnote/logo.png?w=400&c=v0.59.26#w200)  
+![wmnote](https://static.openfintech.io/payment_methods/wmnote/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/wmnote/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/wmnote/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![wmnote](https://static.openfintech.io/payment_methods/wmnote/icon.png?w=278&c=v0.59.26#w100)  
+![wmnote](https://static.openfintech.io/payment_methods/wmnote/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/wmnote/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/wmnote/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

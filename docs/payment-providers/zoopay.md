@@ -1,6 +1,6 @@
 
 # ZooPay 
-![zoopay](https://static.openfintech.io/payment_providers/zoopay/logo.png?w=400&c=v0.59.26#w100)  
+![zoopay](https://static.openfintech.io/payment_providers/zoopay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![zoopay](https://static.openfintech.io/payment_providers/zoopay/logo.png?w=400&c=v0.59.26#w100)  
+![zoopay](https://static.openfintech.io/payment_providers/zoopay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/zoopay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/zoopay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![zoopay](https://static.openfintech.io/payment_providers/zoopay/icon.png?w=278&c=v0.59.26#w100)  
+![zoopay](https://static.openfintech.io/payment_providers/zoopay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/zoopay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/zoopay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

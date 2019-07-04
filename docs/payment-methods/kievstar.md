@@ -1,6 +1,6 @@
 
 # Kievstar 
-![kievstar](https://static.openfintech.io/payment_methods/kievstar/logo.png?w=400&c=v0.59.26#w200)  
+![kievstar](https://static.openfintech.io/payment_methods/kievstar/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `kievstar` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![kievstar](https://static.openfintech.io/payment_methods/kievstar/logo.png?w=400&c=v0.59.26#w200)  
+![kievstar](https://static.openfintech.io/payment_methods/kievstar/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/kievstar/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/kievstar/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![kievstar](https://static.openfintech.io/payment_methods/kievstar/icon.png?w=278&c=v0.59.26#w100)  
+![kievstar](https://static.openfintech.io/payment_methods/kievstar/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/kievstar/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/kievstar/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

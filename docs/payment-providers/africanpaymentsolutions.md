@@ -1,6 +1,6 @@
 
 # African Payment Solutions 
-![africanpaymentsolutions](https://static.openfintech.io/payment_providers/africanpaymentsolutions/logo.png?w=400&c=v0.59.26#w100)  
+![africanpaymentsolutions](https://static.openfintech.io/payment_providers/africanpaymentsolutions/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![africanpaymentsolutions](https://static.openfintech.io/payment_providers/africanpaymentsolutions/logo.png?w=400&c=v0.59.26#w100)  
+![africanpaymentsolutions](https://static.openfintech.io/payment_providers/africanpaymentsolutions/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/africanpaymentsolutions/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/africanpaymentsolutions/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![africanpaymentsolutions](https://static.openfintech.io/payment_providers/africanpaymentsolutions/icon.png?w=278&c=v0.59.26#w100)  
+![africanpaymentsolutions](https://static.openfintech.io/payment_providers/africanpaymentsolutions/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/africanpaymentsolutions/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/africanpaymentsolutions/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -39,7 +39,7 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.svg?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
 |![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
  
 

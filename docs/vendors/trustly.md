@@ -1,6 +1,6 @@
 
 # Trustly 
-![trustly](https://static.openfintech.io/vendors/trustly/logo.png?w=400&c=v0.59.26#w200)  
+![trustly](https://static.openfintech.io/vendors/trustly/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@ email: peter.hagelin@trustly.comphone: +46733122195
 
 ### Logo 
  
-![trustly](https://static.openfintech.io/vendors/trustly/logo.png?w=400&c=v0.59.26#w200)  
+![trustly](https://static.openfintech.io/vendors/trustly/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/trustly/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/trustly/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![trustly](https://static.openfintech.io/vendors/trustly/icon.png?w=278&c=v0.59.26#w100)  
+![trustly](https://static.openfintech.io/vendors/trustly/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/trustly/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/trustly/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

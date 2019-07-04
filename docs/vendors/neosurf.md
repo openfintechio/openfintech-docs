@@ -1,6 +1,6 @@
 
 # Neosurf 
-![neosurf](https://static.openfintech.io/vendors/neosurf/logo.png?w=400&c=v0.59.26#w200)  
+![neosurf](https://static.openfintech.io/vendors/neosurf/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@ email: support@neosurf.com
 
 ### Logo 
  
-![neosurf](https://static.openfintech.io/vendors/neosurf/logo.png?w=400&c=v0.59.26#w200)  
+![neosurf](https://static.openfintech.io/vendors/neosurf/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/neosurf/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/neosurf/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![neosurf](https://static.openfintech.io/vendors/neosurf/icon.png?w=278&c=v0.59.26#w100)  
+![neosurf](https://static.openfintech.io/vendors/neosurf/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/neosurf/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/neosurf/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

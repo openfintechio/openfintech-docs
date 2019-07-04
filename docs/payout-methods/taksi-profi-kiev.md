@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Profi (Kiev)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-profi-kiev](https://static.openfintech.io/payout_methods/taksi-profi-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-profi-kiev_uah](/payout-services/taksi-profi-kiev_uah/)|`taksi-profi-kiev_uah`| 
+|![taksi-profi-kiev](https://static.openfintech.io/payout_methods/taksi-profi-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-profi-kiev_uah](/payout-services/taksi-profi-kiev_uah/)|`taksi-profi-kiev_uah`| 
  
 
 ## JSON Object 

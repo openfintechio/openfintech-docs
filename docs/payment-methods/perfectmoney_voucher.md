@@ -1,6 +1,6 @@
 
 # Perfect Money Voucher 
-![perfectmoney_voucher](https://static.openfintech.io/payment_methods/perfectmoney_voucher/logo.png?w=400&c=v0.59.26#w200)  
+![perfectmoney_voucher](https://static.openfintech.io/payment_methods/perfectmoney_voucher/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `perfectmoney_voucher` 
@@ -21,10 +21,10 @@
 ## Images 
 
 ### Logo 
-![perfectmoney_voucher](https://static.openfintech.io/payment_methods/perfectmoney_voucher/logo.png?w=400&c=v0.59.26#w200)  
+![perfectmoney_voucher](https://static.openfintech.io/payment_methods/perfectmoney_voucher/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/perfectmoney_voucher/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/perfectmoney_voucher/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 

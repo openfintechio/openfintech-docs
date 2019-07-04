@@ -1,6 +1,6 @@
 
 # Traxpay 
-![traxpay](https://static.openfintech.io/vendors/traxpay/logo.png?w=400&c=v0.59.26#w200)  
+![traxpay](https://static.openfintech.io/vendors/traxpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Hansaring 6150670 CologneGermany
 
 ### Logo 
  
-![traxpay](https://static.openfintech.io/vendors/traxpay/logo.png?w=400&c=v0.59.26#w200)  
+![traxpay](https://static.openfintech.io/vendors/traxpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/traxpay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/traxpay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![traxpay](https://static.openfintech.io/vendors/traxpay/icon.png?w=278&c=v0.59.26#w100)  
+![traxpay](https://static.openfintech.io/vendors/traxpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/traxpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/traxpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

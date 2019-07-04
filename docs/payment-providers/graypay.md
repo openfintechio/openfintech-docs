@@ -1,6 +1,6 @@
 
 # GRAYPAY 
-![graypay](https://static.openfintech.io/payment_providers/graypay/logo.png?w=400&c=v0.59.26#w100)  
+![graypay](https://static.openfintech.io/payment_providers/graypay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![graypay](https://static.openfintech.io/payment_providers/graypay/logo.png?w=400&c=v0.59.26#w100)  
+![graypay](https://static.openfintech.io/payment_providers/graypay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/graypay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/graypay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![graypay](https://static.openfintech.io/payment_providers/graypay/icon.png?w=278&c=v0.59.26#w100)  
+![graypay](https://static.openfintech.io/payment_providers/graypay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/graypay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/graypay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

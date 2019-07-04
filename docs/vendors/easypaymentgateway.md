@@ -1,6 +1,6 @@
 
 # Easy Payment Gateway 
-![easypaymentgateway](https://static.openfintech.io/vendors/easypaymentgateway/logo.png?w=400&c=v0.59.26#w200)  
+![easypaymentgateway](https://static.openfintech.io/vendors/easypaymentgateway/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Aldwych House 71WC2B 4HN LondonLondonUnited Kingdom
 
 ### Logo 
  
-![easypaymentgateway](https://static.openfintech.io/vendors/easypaymentgateway/logo.png?w=400&c=v0.59.26#w200)  
+![easypaymentgateway](https://static.openfintech.io/vendors/easypaymentgateway/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/easypaymentgateway/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/easypaymentgateway/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![easypaymentgateway](https://static.openfintech.io/vendors/easypaymentgateway/icon.png?w=278&c=v0.59.26#w100)  
+![easypaymentgateway](https://static.openfintech.io/vendors/easypaymentgateway/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/easypaymentgateway/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/easypaymentgateway/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

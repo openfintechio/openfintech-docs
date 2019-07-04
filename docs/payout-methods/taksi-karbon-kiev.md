@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Carbon (Kiev
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-karbon-kiev](https://static.openfintech.io/payout_methods/taksi-karbon-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-karbon-kiev_uah](/payout-services/taksi-karbon-kiev_uah/)|`taksi-karbon-kiev_uah`| 
+|![taksi-karbon-kiev](https://static.openfintech.io/payout_methods/taksi-karbon-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-karbon-kiev_uah](/payout-services/taksi-karbon-kiev_uah/)|`taksi-karbon-kiev_uah`| 
  
 
 ## JSON Object 

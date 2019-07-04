@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _LKS OCEAN (Odessa
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![lks-okean-odessa](https://static.openfintech.io/payout_methods/lks-okean-odessa/icon.png?w=278&c=v0.59.26#w40) |[lks-okean-odessa_uah](/payout-services/lks-okean-odessa_uah/)|`lks-okean-odessa_uah`| 
+|![lks-okean-odessa](https://static.openfintech.io/payout_methods/lks-okean-odessa/icon.svg?w=278&c=v0.59.26#w40) |[lks-okean-odessa_uah](/payout-services/lks-okean-odessa_uah/)|`lks-okean-odessa_uah`| 
  
 
 ## JSON Object 

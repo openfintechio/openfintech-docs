@@ -1,6 +1,6 @@
 
 # Presto 
-![presto](https://static.openfintech.io/payment_methods/presto/logo.png?w=400&c=v0.59.26#w200)  
+![presto](https://static.openfintech.io/payment_methods/presto/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `presto` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![presto](https://static.openfintech.io/payment_methods/presto/logo.png?w=400&c=v0.59.26#w200)  
+![presto](https://static.openfintech.io/payment_methods/presto/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/presto/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/presto/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![presto](https://static.openfintech.io/payment_methods/presto/icon.png?w=278&c=v0.59.26#w100)  
+![presto](https://static.openfintech.io/payment_methods/presto/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/presto/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/presto/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,15 +43,15 @@ The list of [Payment Providers](/payment-providers/) that support the _Presto_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.png?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
-|![hipay](https://static.openfintech.io/payment_providers/hipay/icon.png?w=278&c=v0.59.26#w100) |[HiPay](/payment-providers/hipay/)|`hipay`| 
-|![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
-|![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
+|![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.svg?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
+|![hipay](https://static.openfintech.io/payment_providers/hipay/icon.svg?w=278&c=v0.59.26#w100) |[HiPay](/payment-providers/hipay/)|`hipay`| 
+|![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.svg?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
+|![acapture](https://static.openfintech.io/payment_providers/acapture/icon.svg?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
 |![payu](https://static.openfintech.io/payment_providers/payu/icon.svg?w=278&c=v0.59.26#w100) |[PayU](/payment-providers/payu/)|`payu`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
-|![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.png?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
-|![easypaymentgateway](https://static.openfintech.io/payment_providers/easypaymentgateway/icon.png?w=278&c=v0.59.26#w100) |[Easy Payment Gateway](/payment-providers/easypaymentgateway/)|`easypaymentgateway`| 
+|![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.svg?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
+|![easypaymentgateway](https://static.openfintech.io/payment_providers/easypaymentgateway/icon.svg?w=278&c=v0.59.26#w100) |[Easy Payment Gateway](/payment-providers/easypaymentgateway/)|`easypaymentgateway`| 
  
 
 ## JSON Object 

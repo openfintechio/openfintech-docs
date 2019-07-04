@@ -1,6 +1,6 @@
 
 # Paymentus 
-![paymentus](https://static.openfintech.io/vendors/paymentus/logo.png?w=400&c=v0.59.26#w200)  
+![paymentus](https://static.openfintech.io/vendors/paymentus/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  13024 Ballantyne Corporate Place, Suite 45028277 Charlotte, NCUnited St
 
 ### Logo 
  
-![paymentus](https://static.openfintech.io/vendors/paymentus/logo.png?w=400&c=v0.59.26#w200)  
+![paymentus](https://static.openfintech.io/vendors/paymentus/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paymentus/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paymentus/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paymentus](https://static.openfintech.io/vendors/paymentus/icon.png?w=278&c=v0.59.26#w100)  
+![paymentus](https://static.openfintech.io/vendors/paymentus/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paymentus/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paymentus/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

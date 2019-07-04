@@ -39,7 +39,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Webpay pl
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![paygol](https://static.openfintech.io/payment_providers/paygol/icon.png?w=278&c=v0.59.26#w100) |[PayGol](/payment-providers/paygol/)|`paygol`| 
+|![paygol](https://static.openfintech.io/payment_providers/paygol/icon.svg?w=278&c=v0.59.26#w100) |[PayGol](/payment-providers/paygol/)|`paygol`| 
  
 
 ## JSON Object 

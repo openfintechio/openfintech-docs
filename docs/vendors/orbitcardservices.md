@@ -1,6 +1,6 @@
 
 # Orbit Card Services 
-![orbitcardservices](https://static.openfintech.io/vendors/orbitcardservices/logo.png?w=400&c=v0.59.26#w200)  
+![orbitcardservices](https://static.openfintech.io/vendors/orbitcardservices/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Lowry House, 17 Marble StreetM2 3AW ManchesterUnited Kingdom
 
 ### Logo 
  
-![orbitcardservices](https://static.openfintech.io/vendors/orbitcardservices/logo.png?w=400&c=v0.59.26#w200)  
+![orbitcardservices](https://static.openfintech.io/vendors/orbitcardservices/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/orbitcardservices/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/orbitcardservices/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![orbitcardservices](https://static.openfintech.io/vendors/orbitcardservices/icon.png?w=278&c=v0.59.26#w100)  
+![orbitcardservices](https://static.openfintech.io/vendors/orbitcardservices/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/orbitcardservices/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/orbitcardservices/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

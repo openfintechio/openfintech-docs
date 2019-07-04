@@ -1,6 +1,6 @@
 
 # CardinalCommerce 
-![cardinalcommerce](https://static.openfintech.io/vendors/cardinalcommerce/logo.png?w=400&c=v0.59.26#w200)  
+![cardinalcommerce](https://static.openfintech.io/vendors/cardinalcommerce/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  6119 Heisley Rd.44060 Mentor, OHUnited States of America
 
 ### Logo 
  
-![cardinalcommerce](https://static.openfintech.io/vendors/cardinalcommerce/logo.png?w=400&c=v0.59.26#w200)  
+![cardinalcommerce](https://static.openfintech.io/vendors/cardinalcommerce/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/cardinalcommerce/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/cardinalcommerce/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![cardinalcommerce](https://static.openfintech.io/vendors/cardinalcommerce/icon.png?w=278&c=v0.59.26#w100)  
+![cardinalcommerce](https://static.openfintech.io/vendors/cardinalcommerce/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/cardinalcommerce/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/cardinalcommerce/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

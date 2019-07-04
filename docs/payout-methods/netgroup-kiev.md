@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _NetGroup (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![netgroup-kiev](https://static.openfintech.io/payout_methods/netgroup-kiev/icon.png?w=278&c=v0.59.26#w40) |[netgroup-kiev_uah](/payout-services/netgroup-kiev_uah/)|`netgroup-kiev_uah`| 
+|![netgroup-kiev](https://static.openfintech.io/payout_methods/netgroup-kiev/icon.svg?w=278&c=v0.59.26#w40) |[netgroup-kiev_uah](/payout-services/netgroup-kiev_uah/)|`netgroup-kiev_uah`| 
  
 
 ## JSON Object 

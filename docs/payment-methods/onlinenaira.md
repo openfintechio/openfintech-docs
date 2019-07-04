@@ -1,6 +1,6 @@
 
 # OnlineNaira 
-![onlinenaira](https://static.openfintech.io/payment_methods/onlinenaira/logo.png?w=400&c=v0.59.26#w200)  
+![onlinenaira](https://static.openfintech.io/payment_methods/onlinenaira/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `onlinenaira` 
@@ -21,17 +21,17 @@
 ## Images 
 
 ### Logo 
-![onlinenaira](https://static.openfintech.io/payment_methods/onlinenaira/logo.png?w=400&c=v0.59.26#w200)  
+![onlinenaira](https://static.openfintech.io/payment_methods/onlinenaira/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/onlinenaira/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/onlinenaira/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![onlinenaira](https://static.openfintech.io/payment_methods/onlinenaira/icon.png?w=278&c=v0.59.26#w100)  
+![onlinenaira](https://static.openfintech.io/payment_methods/onlinenaira/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/onlinenaira/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/onlinenaira/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

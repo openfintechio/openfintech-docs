@@ -1,6 +1,6 @@
 
 # UniversePay 
-![universepay](https://static.openfintech.io/payment_providers/universepay/logo.png?w=400&c=v0.59.26#w100)  
+![universepay](https://static.openfintech.io/payment_providers/universepay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![universepay](https://static.openfintech.io/payment_providers/universepay/logo.png?w=400&c=v0.59.26#w100)  
+![universepay](https://static.openfintech.io/payment_providers/universepay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/universepay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/universepay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![universepay](https://static.openfintech.io/payment_providers/universepay/icon.png?w=278&c=v0.59.26#w100)  
+![universepay](https://static.openfintech.io/payment_providers/universepay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/universepay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/universepay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

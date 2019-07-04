@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Delta_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![delta](https://static.openfintech.io/payout_methods/delta/icon.png?w=278&c=v0.59.26#w40) |[delta_uah](/payout-services/delta_uah/)|`delta_uah`| 
+|![delta](https://static.openfintech.io/payout_methods/delta/icon.svg?w=278&c=v0.59.26#w40) |[delta_uah](/payout-services/delta_uah/)|`delta_uah`| 
  
 
 ## JSON Object 

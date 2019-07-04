@@ -1,6 +1,6 @@
 
 # PaymentBillsService 
-![paymentbillsservice](https://static.openfintech.io/vendors/paymentbillsservice/logo.png?w=400&c=v0.59.26#w200)  
+![paymentbillsservice](https://static.openfintech.io/vendors/paymentbillsservice/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  No.5, Science Park West Avenue, Hong Kong Science Park, Shatin, New Ter
 
 ### Logo 
  
-![paymentbillsservice](https://static.openfintech.io/vendors/paymentbillsservice/logo.png?w=400&c=v0.59.26#w200)  
+![paymentbillsservice](https://static.openfintech.io/vendors/paymentbillsservice/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paymentbillsservice/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paymentbillsservice/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paymentbillsservice](https://static.openfintech.io/vendors/paymentbillsservice/icon.png?w=278&c=v0.59.26#w100)  
+![paymentbillsservice](https://static.openfintech.io/vendors/paymentbillsservice/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paymentbillsservice/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paymentbillsservice/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

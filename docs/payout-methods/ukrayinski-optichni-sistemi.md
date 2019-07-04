@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Ukrainian Optical
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ukrayinski-optichni-sistemi](https://static.openfintech.io/payout_methods/ukrayinski-optichni-sistemi/icon.png?w=278&c=v0.59.26#w40) |[ukrayinski-optichni-sistemi_uah](/payout-services/ukrayinski-optichni-sistemi_uah/)|`ukrayinski-optichni-sistemi_uah`| 
+|![ukrayinski-optichni-sistemi](https://static.openfintech.io/payout_methods/ukrayinski-optichni-sistemi/icon.svg?w=278&c=v0.59.26#w40) |[ukrayinski-optichni-sistemi_uah](/payout-services/ukrayinski-optichni-sistemi_uah/)|`ukrayinski-optichni-sistemi_uah`| 
  
 
 ## JSON Object 

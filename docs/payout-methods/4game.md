@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _4Game_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![4game](https://static.openfintech.io/payout_methods/4game/icon.png?w=278&c=v0.59.26#w40) |[4game_uah](/payout-services/4game_uah/)|`4game_uah`| 
+|![4game](https://static.openfintech.io/payout_methods/4game/icon.svg?w=278&c=v0.59.26#w40) |[4game_uah](/payout-services/4game_uah/)|`4game_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Barclaycard 
-![barclaycard](https://static.openfintech.io/payment_providers/barclaycard/logo.png?w=400&c=v0.59.26#w100)  
+![barclaycard](https://static.openfintech.io/payment_providers/barclaycard/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![barclaycard](https://static.openfintech.io/payment_providers/barclaycard/logo.png?w=400&c=v0.59.26#w100)  
+![barclaycard](https://static.openfintech.io/payment_providers/barclaycard/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/barclaycard/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/barclaycard/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![barclaycard](https://static.openfintech.io/payment_providers/barclaycard/icon.png?w=278&c=v0.59.26#w100)  
+![barclaycard](https://static.openfintech.io/payment_providers/barclaycard/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/barclaycard/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/barclaycard/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

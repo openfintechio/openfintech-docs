@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _FastyNet (Kyiv)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![fastynet-kyiv](https://static.openfintech.io/payout_methods/fastynet-kyiv/icon.png?w=278&c=v0.59.26#w40) |[fastynet-kyiv_uah](/payout-services/fastynet-kyiv_uah/)|`fastynet-kyiv_uah`| 
+|![fastynet-kyiv](https://static.openfintech.io/payout_methods/fastynet-kyiv/icon.svg?w=278&c=v0.59.26#w40) |[fastynet-kyiv_uah](/payout-services/fastynet-kyiv_uah/)|`fastynet-kyiv_uah`| 
  
 
 ## JSON Object 

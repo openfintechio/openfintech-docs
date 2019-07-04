@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _DETUT (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![detut-kiev](https://static.openfintech.io/payout_methods/detut-kiev/icon.png?w=278&c=v0.59.26#w40) |[detut-kiev_uah](/payout-services/detut-kiev_uah/)|`detut-kiev_uah`| 
+|![detut-kiev](https://static.openfintech.io/payout_methods/detut-kiev/icon.svg?w=278&c=v0.59.26#w40) |[detut-kiev_uah](/payout-services/detut-kiev_uah/)|`detut-kiev_uah`| 
  
 
 ## JSON Object 

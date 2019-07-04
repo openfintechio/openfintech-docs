@@ -1,6 +1,6 @@
 
 # VoguePay 
-![voguepay](https://static.openfintech.io/payment_providers/voguepay/logo.png?w=400&c=v0.59.26#w100)  
+![voguepay](https://static.openfintech.io/payment_providers/voguepay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![voguepay](https://static.openfintech.io/payment_providers/voguepay/logo.png?w=400&c=v0.59.26#w100)  
+![voguepay](https://static.openfintech.io/payment_providers/voguepay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/voguepay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/voguepay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![voguepay](https://static.openfintech.io/payment_providers/voguepay/icon.png?w=278&c=v0.59.26#w100)  
+![voguepay](https://static.openfintech.io/payment_providers/voguepay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/voguepay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/voguepay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

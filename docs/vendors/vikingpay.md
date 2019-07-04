@@ -1,6 +1,6 @@
 
 # VikingPay 
-![vikingpay](https://static.openfintech.io/vendors/vikingpay/logo.png?w=400&c=v0.59.26#w200)  
+![vikingpay](https://static.openfintech.io/vendors/vikingpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  207 Regent StreetW1B 3HH LondonUnited Kingdom
 
 ### Logo 
  
-![vikingpay](https://static.openfintech.io/vendors/vikingpay/logo.png?w=400&c=v0.59.26#w200)  
+![vikingpay](https://static.openfintech.io/vendors/vikingpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/vikingpay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/vikingpay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![vikingpay](https://static.openfintech.io/vendors/vikingpay/icon.png?w=278&c=v0.59.26#w100)  
+![vikingpay](https://static.openfintech.io/vendors/vikingpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/vikingpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/vikingpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

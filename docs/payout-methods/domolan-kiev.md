@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Domolan (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![domolan-kiev](https://static.openfintech.io/payout_methods/domolan-kiev/icon.png?w=278&c=v0.59.26#w40) |[domolan-kiev_uah](/payout-services/domolan-kiev_uah/)|`domolan-kiev_uah`| 
+|![domolan-kiev](https://static.openfintech.io/payout_methods/domolan-kiev/icon.svg?w=278&c=v0.59.26#w40) |[domolan-kiev_uah](/payout-services/domolan-kiev_uah/)|`domolan-kiev_uah`| 
  
 
 ## JSON Object 

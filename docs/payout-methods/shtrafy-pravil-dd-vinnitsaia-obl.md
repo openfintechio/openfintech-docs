@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Fines Rules DD, V
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![shtrafy-pravil-dd-vinnitsaia-obl](https://static.openfintech.io/payout_methods/shtrafy-pravil-dd-vinnitsaia-obl/icon.png?w=278&c=v0.59.26#w40) |[shtrafy-pravil-dd-vinnitsaia-obl_uah](/payout-services/shtrafy-pravil-dd-vinnitsaia-obl_uah/)|`shtrafy-pravil-dd-vinnitsaia-obl_uah`| 
+|![shtrafy-pravil-dd-vinnitsaia-obl](https://static.openfintech.io/payout_methods/shtrafy-pravil-dd-vinnitsaia-obl/icon.svg?w=278&c=v0.59.26#w40) |[shtrafy-pravil-dd-vinnitsaia-obl_uah](/payout-services/shtrafy-pravil-dd-vinnitsaia-obl_uah/)|`shtrafy-pravil-dd-vinnitsaia-obl_uah`| 
  
 
 ## JSON Object 

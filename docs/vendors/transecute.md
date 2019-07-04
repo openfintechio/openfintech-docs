@@ -1,6 +1,6 @@
 
 # Transecute 
-![transecute](https://static.openfintech.io/vendors/transecute/logo.png?w=400&c=v0.59.26#w200)  
+![transecute](https://static.openfintech.io/vendors/transecute/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Mumbai MumbaiIndia
 
 ### Logo 
  
-![transecute](https://static.openfintech.io/vendors/transecute/logo.png?w=400&c=v0.59.26#w200)  
+![transecute](https://static.openfintech.io/vendors/transecute/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/transecute/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/transecute/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![transecute](https://static.openfintech.io/vendors/transecute/icon.png?w=278&c=v0.59.26#w100)  
+![transecute](https://static.openfintech.io/vendors/transecute/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/transecute/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/transecute/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

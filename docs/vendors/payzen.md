@@ -1,6 +1,6 @@
 
 # PayZen 
-![payzen](https://static.openfintech.io/vendors/payzen/logo.png?w=400&c=v0.59.26#w200)  
+![payzen](https://static.openfintech.io/vendors/payzen/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Labége31670 LabegeFrance
 
 ### Logo 
  
-![payzen](https://static.openfintech.io/vendors/payzen/logo.png?w=400&c=v0.59.26#w200)  
+![payzen](https://static.openfintech.io/vendors/payzen/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payzen/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payzen/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payzen](https://static.openfintech.io/vendors/payzen/icon.png?w=278&c=v0.59.26#w100)  
+![payzen](https://static.openfintech.io/vendors/payzen/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payzen/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payzen/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

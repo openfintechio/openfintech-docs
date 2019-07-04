@@ -1,6 +1,6 @@
 
 # African Payment Solutions 
-![africanpaymentsolutions](https://static.openfintech.io/vendors/africanpaymentsolutions/logo.png?w=400&c=v0.59.26#w200)  
+![africanpaymentsolutions](https://static.openfintech.io/vendors/africanpaymentsolutions/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  South Africa
 
 ### Logo 
  
-![africanpaymentsolutions](https://static.openfintech.io/vendors/africanpaymentsolutions/logo.png?w=400&c=v0.59.26#w200)  
+![africanpaymentsolutions](https://static.openfintech.io/vendors/africanpaymentsolutions/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/africanpaymentsolutions/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/africanpaymentsolutions/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![africanpaymentsolutions](https://static.openfintech.io/vendors/africanpaymentsolutions/icon.png?w=278&c=v0.59.26#w100)  
+![africanpaymentsolutions](https://static.openfintech.io/vendors/africanpaymentsolutions/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/africanpaymentsolutions/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/africanpaymentsolutions/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

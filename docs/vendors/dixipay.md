@@ -1,6 +1,6 @@
 
 # DIXIPAY 
-![dixipay](https://static.openfintech.io/vendors/dixipay/logo.png?w=400&c=v0.59.26#w200)  
+![dixipay](https://static.openfintech.io/vendors/dixipay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Boundary House, Boston RoadW7 2QE London- Select State/Province -United
 
 ### Logo 
  
-![dixipay](https://static.openfintech.io/vendors/dixipay/logo.png?w=400&c=v0.59.26#w200)  
+![dixipay](https://static.openfintech.io/vendors/dixipay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/dixipay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/dixipay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![dixipay](https://static.openfintech.io/vendors/dixipay/icon.png?w=278&c=v0.59.26#w100)  
+![dixipay](https://static.openfintech.io/vendors/dixipay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/dixipay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/dixipay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

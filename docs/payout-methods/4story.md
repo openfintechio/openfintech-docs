@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _4Story_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![4story](https://static.openfintech.io/payout_methods/4story/icon.png?w=278&c=v0.59.26#w40) |[4story_uah](/payout-services/4story_uah/)|`4story_uah`| 
+|![4story](https://static.openfintech.io/payout_methods/4story/icon.svg?w=278&c=v0.59.26#w40) |[4story_uah](/payout-services/4story_uah/)|`4story_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # BIPS 
-![bips](https://static.openfintech.io/vendors/bips/logo.png?w=400&c=v0.59.26#w200)  
+![bips](https://static.openfintech.io/vendors/bips/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Denmark
 
 ### Logo 
  
-![bips](https://static.openfintech.io/vendors/bips/logo.png?w=400&c=v0.59.26#w200)  
+![bips](https://static.openfintech.io/vendors/bips/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/bips/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/bips/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![bips](https://static.openfintech.io/vendors/bips/icon.png?w=278&c=v0.59.26#w100)  
+![bips](https://static.openfintech.io/vendors/bips/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/bips/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/bips/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

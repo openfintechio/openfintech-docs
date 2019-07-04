@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _LUCKY NETWORK (Ki
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![laki-netvork-kiev](https://static.openfintech.io/payout_methods/laki-netvork-kiev/icon.png?w=278&c=v0.59.26#w40) |[laki-netvork-kiev_uah](/payout-services/laki-netvork-kiev_uah/)|`laki-netvork-kiev_uah`| 
+|![laki-netvork-kiev](https://static.openfintech.io/payout_methods/laki-netvork-kiev/icon.svg?w=278&c=v0.59.26#w40) |[laki-netvork-kiev_uah](/payout-services/laki-netvork-kiev_uah/)|`laki-netvork-kiev_uah`| 
  
 
 ## JSON Object 

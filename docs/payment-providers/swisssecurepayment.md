@@ -1,6 +1,6 @@
 
 # Swiss Secure Payment™ 
-![swisssecurepayment](https://static.openfintech.io/payment_providers/swisssecurepayment/logo.png?w=400&c=v0.59.26#w100)  
+![swisssecurepayment](https://static.openfintech.io/payment_providers/swisssecurepayment/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![swisssecurepayment](https://static.openfintech.io/payment_providers/swisssecurepayment/logo.png?w=400&c=v0.59.26#w100)  
+![swisssecurepayment](https://static.openfintech.io/payment_providers/swisssecurepayment/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/swisssecurepayment/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/swisssecurepayment/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![swisssecurepayment](https://static.openfintech.io/payment_providers/swisssecurepayment/icon.png?w=278&c=v0.59.26#w100)  
+![swisssecurepayment](https://static.openfintech.io/payment_providers/swisssecurepayment/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/swisssecurepayment/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/swisssecurepayment/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

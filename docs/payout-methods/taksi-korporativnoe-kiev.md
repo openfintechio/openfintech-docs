@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Corporate (K
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-korporativnoe-kiev](https://static.openfintech.io/payout_methods/taksi-korporativnoe-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-korporativnoe-kiev_uah](/payout-services/taksi-korporativnoe-kiev_uah/)|`taksi-korporativnoe-kiev_uah`| 
+|![taksi-korporativnoe-kiev](https://static.openfintech.io/payout_methods/taksi-korporativnoe-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-korporativnoe-kiev_uah](/payout-services/taksi-korporativnoe-kiev_uah/)|`taksi-korporativnoe-kiev_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Starline - consul
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![starline-konsultatsiini-poslugi-v-sferi-telekomunikatsii](https://static.openfintech.io/payout_methods/starline-konsultatsiini-poslugi-v-sferi-telekomunikatsii/icon.png?w=278&c=v0.59.26#w40) |[starline-konsultatsiini-poslugi-v-sferi-telekomunikatsii_uah](/payout-services/starline-konsultatsiini-poslugi-v-sferi-telekomunikatsii_uah/)|`starline-konsultatsiini-poslugi-v-sferi-telekomunikatsii_uah`| 
+|![starline-konsultatsiini-poslugi-v-sferi-telekomunikatsii](https://static.openfintech.io/payout_methods/starline-konsultatsiini-poslugi-v-sferi-telekomunikatsii/icon.svg?w=278&c=v0.59.26#w40) |[starline-konsultatsiini-poslugi-v-sferi-telekomunikatsii_uah](/payout-services/starline-konsultatsiini-poslugi-v-sferi-telekomunikatsii_uah/)|`starline-konsultatsiini-poslugi-v-sferi-telekomunikatsii_uah`| 
  
 
 ## JSON Object 

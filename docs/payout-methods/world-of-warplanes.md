@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _World of Warplane
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![world-of-warplanes](https://static.openfintech.io/payout_methods/world-of-warplanes/icon.png?w=278&c=v0.59.26#w40) |[world-of-warplanes_uah](/payout-services/world-of-warplanes_uah/)|`world-of-warplanes_uah`| 
+|![world-of-warplanes](https://static.openfintech.io/payout_methods/world-of-warplanes/icon.svg?w=278&c=v0.59.26#w40) |[world-of-warplanes_uah](/payout-services/world-of-warplanes_uah/)|`world-of-warplanes_uah`| 
  
 
 ## JSON Object 

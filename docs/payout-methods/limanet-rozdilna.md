@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _LIMANET (Rozdilna
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![limanet-rozdilna](https://static.openfintech.io/payout_methods/limanet-rozdilna/icon.png?w=278&c=v0.59.26#w40) |[limanet-rozdilna_uah](/payout-services/limanet-rozdilna_uah/)|`limanet-rozdilna_uah`| 
+|![limanet-rozdilna](https://static.openfintech.io/payout_methods/limanet-rozdilna/icon.svg?w=278&c=v0.59.26#w40) |[limanet-rozdilna_uah](/payout-services/limanet-rozdilna_uah/)|`limanet-rozdilna_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Fresh Taxi (Kiev)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![fresh-taxi-kiev](https://static.openfintech.io/payout_methods/fresh-taxi-kiev/icon.png?w=278&c=v0.59.26#w40) |[fresh-taxi-kiev_uah](/payout-services/fresh-taxi-kiev_uah/)|`fresh-taxi-kiev_uah`| 
+|![fresh-taxi-kiev](https://static.openfintech.io/payout_methods/fresh-taxi-kiev/icon.svg?w=278&c=v0.59.26#w40) |[fresh-taxi-kiev_uah](/payout-services/fresh-taxi-kiev_uah/)|`fresh-taxi-kiev_uah`| 
  
 
 ## JSON Object 

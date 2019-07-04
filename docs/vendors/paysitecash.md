@@ -1,6 +1,6 @@
 
 # Paysite-cash 
-![paysitecash](https://static.openfintech.io/vendors/paysitecash/logo.png?w=400&c=v0.59.26#w200)  
+![paysitecash](https://static.openfintech.io/vendors/paysitecash/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Holland House, 1-4 Bury StreetEC3 London United Kingdom
 
 ### Logo 
  
-![paysitecash](https://static.openfintech.io/vendors/paysitecash/logo.png?w=400&c=v0.59.26#w200)  
+![paysitecash](https://static.openfintech.io/vendors/paysitecash/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paysitecash/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paysitecash/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paysitecash](https://static.openfintech.io/vendors/paysitecash/icon.png?w=278&c=v0.59.26#w100)  
+![paysitecash](https://static.openfintech.io/vendors/paysitecash/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paysitecash/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paysitecash/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

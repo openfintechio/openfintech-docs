@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _PAT 'Volinoblener
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![pat-volinoblenergo-lutska-miska-filiia](https://static.openfintech.io/payout_methods/pat-volinoblenergo-lutska-miska-filiia/icon.png?w=278&c=v0.59.26#w40) |[pat-volinoblenergo-lutska-miska-filiia_uah](/payout-services/pat-volinoblenergo-lutska-miska-filiia_uah/)|`pat-volinoblenergo-lutska-miska-filiia_uah`| 
+|![pat-volinoblenergo-lutska-miska-filiia](https://static.openfintech.io/payout_methods/pat-volinoblenergo-lutska-miska-filiia/icon.svg?w=278&c=v0.59.26#w40) |[pat-volinoblenergo-lutska-miska-filiia_uah](/payout-services/pat-volinoblenergo-lutska-miska-filiia_uah/)|`pat-volinoblenergo-lutska-miska-filiia_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Motor (Kiev)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-motor-kiev](https://static.openfintech.io/payout_methods/taksi-motor-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-motor-kiev_uah](/payout-services/taksi-motor-kiev_uah/)|`taksi-motor-kiev_uah`| 
+|![taksi-motor-kiev](https://static.openfintech.io/payout_methods/taksi-motor-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-motor-kiev_uah](/payout-services/taksi-motor-kiev_uah/)|`taksi-motor-kiev_uah`| 
  
 
 ## JSON Object 

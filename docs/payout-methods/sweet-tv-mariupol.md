@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Sweet.tv (Mariupo
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![sweet-tv-mariupol](https://static.openfintech.io/payout_methods/sweet-tv-mariupol/icon.png?w=278&c=v0.59.26#w40) |[sweet-tv-mariupol_uah](/payout-services/sweet-tv-mariupol_uah/)|`sweet-tv-mariupol_uah`| 
+|![sweet-tv-mariupol](https://static.openfintech.io/payout_methods/sweet-tv-mariupol/icon.svg?w=278&c=v0.59.26#w40) |[sweet-tv-mariupol_uah](/payout-services/sweet-tv-mariupol_uah/)|`sweet-tv-mariupol_uah`| 
  
 
 ## JSON Object 

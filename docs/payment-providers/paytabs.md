@@ -1,6 +1,6 @@
 
 # PayTabs 
-![paytabs](https://static.openfintech.io/payment_providers/paytabs/logo.png?w=400&c=v0.59.26#w100)  
+![paytabs](https://static.openfintech.io/payment_providers/paytabs/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![paytabs](https://static.openfintech.io/payment_providers/paytabs/logo.png?w=400&c=v0.59.26#w100)  
+![paytabs](https://static.openfintech.io/payment_providers/paytabs/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paytabs/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paytabs/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![paytabs](https://static.openfintech.io/payment_providers/paytabs/icon.png?w=278&c=v0.59.26#w100)  
+![paytabs](https://static.openfintech.io/payment_providers/paytabs/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paytabs/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paytabs/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

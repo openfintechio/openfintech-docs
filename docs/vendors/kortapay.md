@@ -1,6 +1,6 @@
 
 # Korta Pay 
-![kortapay](https://static.openfintech.io/vendors/kortapay/logo.png?w=400&c=v0.59.26#w200)  
+![kortapay](https://static.openfintech.io/vendors/kortapay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:
 
 ### Logo 
  
-![kortapay](https://static.openfintech.io/vendors/kortapay/logo.png?w=400&c=v0.59.26#w200)  
+![kortapay](https://static.openfintech.io/vendors/kortapay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/kortapay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/kortapay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![kortapay](https://static.openfintech.io/vendors/kortapay/icon.png?w=278&c=v0.59.26#w100)  
+![kortapay](https://static.openfintech.io/vendors/kortapay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/kortapay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/kortapay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

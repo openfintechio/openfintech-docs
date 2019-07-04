@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _LuxLite (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![luxlite-kiev](https://static.openfintech.io/payout_methods/luxlite-kiev/icon.png?w=278&c=v0.59.26#w40) |[luxlite-kiev_uah](/payout-services/luxlite-kiev_uah/)|`luxlite-kiev_uah`| 
+|![luxlite-kiev](https://static.openfintech.io/payout_methods/luxlite-kiev/icon.svg?w=278&c=v0.59.26#w40) |[luxlite-kiev_uah](/payout-services/luxlite-kiev_uah/)|`luxlite-kiev_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi 7727 (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-7727-kiev](https://static.openfintech.io/payout_methods/taksi-7727-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-7727-kiev_uah](/payout-services/taksi-7727-kiev_uah/)|`taksi-7727-kiev_uah`| 
+|![taksi-7727-kiev](https://static.openfintech.io/payout_methods/taksi-7727-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-7727-kiev_uah](/payout-services/taksi-7727-kiev_uah/)|`taksi-7727-kiev_uah`| 
  
 
 ## JSON Object 

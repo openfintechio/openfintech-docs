@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ITELKOM (Zaporozh
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![itelkom-zaporozhe](https://static.openfintech.io/payout_methods/itelkom-zaporozhe/icon.png?w=278&c=v0.59.26#w40) |[itelkom-zaporozhe_uah](/payout-services/itelkom-zaporozhe_uah/)|`itelkom-zaporozhe_uah`| 
+|![itelkom-zaporozhe](https://static.openfintech.io/payout_methods/itelkom-zaporozhe/icon.svg?w=278&c=v0.59.26#w40) |[itelkom-zaporozhe_uah](/payout-services/itelkom-zaporozhe_uah/)|`itelkom-zaporozhe_uah`| 
  
 
 ## JSON Object 

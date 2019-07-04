@@ -1,6 +1,6 @@
 
 # Cardinity 
-![cardinity](https://static.openfintech.io/payment_providers/cardinity/logo.png?w=400&c=v0.59.26#w100)  
+![cardinity](https://static.openfintech.io/payment_providers/cardinity/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![cardinity](https://static.openfintech.io/payment_providers/cardinity/logo.png?w=400&c=v0.59.26#w100)  
+![cardinity](https://static.openfintech.io/payment_providers/cardinity/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/cardinity/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/cardinity/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![cardinity](https://static.openfintech.io/payment_providers/cardinity/icon.png?w=278&c=v0.59.26#w100)  
+![cardinity](https://static.openfintech.io/payment_providers/cardinity/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/cardinity/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/cardinity/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

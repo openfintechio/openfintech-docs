@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Virazh (Dnep
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-virazh-dnepropetrovsk](https://static.openfintech.io/payout_methods/taksi-virazh-dnepropetrovsk/icon.png?w=278&c=v0.59.26#w40) |[taksi-virazh-dnepropetrovsk_uah](/payout-services/taksi-virazh-dnepropetrovsk_uah/)|`taksi-virazh-dnepropetrovsk_uah`| 
+|![taksi-virazh-dnepropetrovsk](https://static.openfintech.io/payout_methods/taksi-virazh-dnepropetrovsk/icon.svg?w=278&c=v0.59.26#w40) |[taksi-virazh-dnepropetrovsk_uah](/payout-services/taksi-virazh-dnepropetrovsk_uah/)|`taksi-virazh-dnepropetrovsk_uah`| 
  
 
 ## JSON Object 

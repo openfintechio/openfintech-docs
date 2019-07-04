@@ -1,6 +1,6 @@
 
 # Banwire.com 
-![banwire](https://static.openfintech.io/vendors/banwire/logo.png?w=400&c=v0.59.26#w200)  
+![banwire](https://static.openfintech.io/vendors/banwire/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Sócrates 130, Polanco11560 Mexico DFMexico
 
 ### Logo 
  
-![banwire](https://static.openfintech.io/vendors/banwire/logo.png?w=400&c=v0.59.26#w200)  
+![banwire](https://static.openfintech.io/vendors/banwire/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/banwire/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/banwire/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![banwire](https://static.openfintech.io/vendors/banwire/icon.png?w=278&c=v0.59.26#w100)  
+![banwire](https://static.openfintech.io/vendors/banwire/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/banwire/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/banwire/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

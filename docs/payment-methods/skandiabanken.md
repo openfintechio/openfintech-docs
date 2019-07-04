@@ -1,6 +1,6 @@
 
 # Skandiabanken 
-![skandiabanken](https://static.openfintech.io/payment_methods/skandiabanken/logo.png?w=400&c=v0.59.26#w200)  
+![skandiabanken](https://static.openfintech.io/payment_methods/skandiabanken/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `skandiabanken` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![skandiabanken](https://static.openfintech.io/payment_methods/skandiabanken/logo.png?w=400&c=v0.59.26#w200)  
+![skandiabanken](https://static.openfintech.io/payment_methods/skandiabanken/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/skandiabanken/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/skandiabanken/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![skandiabanken](https://static.openfintech.io/payment_methods/skandiabanken/icon.png?w=278&c=v0.59.26#w100)  
+![skandiabanken](https://static.openfintech.io/payment_methods/skandiabanken/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/skandiabanken/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/skandiabanken/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

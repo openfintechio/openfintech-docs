@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Aries_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![aries](https://static.openfintech.io/payout_methods/aries/icon.png?w=278&c=v0.59.26#w40) |[aries_uah](/payout-services/aries_uah/)|`aries_uah`| 
+|![aries](https://static.openfintech.io/payout_methods/aries/icon.svg?w=278&c=v0.59.26#w40) |[aries_uah](/payout-services/aries_uah/)|`aries_uah`| 
  
 
 ## JSON Object 

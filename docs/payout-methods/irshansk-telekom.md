@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Irshansk Telecom_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![irshansk-telekom](https://static.openfintech.io/payout_methods/irshansk-telekom/icon.png?w=278&c=v0.59.26#w40) |[irshansk-telekom_uah](/payout-services/irshansk-telekom_uah/)|`irshansk-telekom_uah`| 
+|![irshansk-telekom](https://static.openfintech.io/payout_methods/irshansk-telekom/icon.svg?w=278&c=v0.59.26#w40) |[irshansk-telekom_uah](/payout-services/irshansk-telekom_uah/)|`irshansk-telekom_uah`| 
  
 
 ## JSON Object 

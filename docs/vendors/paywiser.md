@@ -1,6 +1,6 @@
 
 # PayWiser 
-![paywiser](https://static.openfintech.io/vendors/paywiser/logo.png?w=400&c=v0.59.26#w200)  
+![paywiser](https://static.openfintech.io/vendors/paywiser/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Vrhovčeva 141000 LjubljanaSlovenia
 
 ### Logo 
  
-![paywiser](https://static.openfintech.io/vendors/paywiser/logo.png?w=400&c=v0.59.26#w200)  
+![paywiser](https://static.openfintech.io/vendors/paywiser/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paywiser/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paywiser/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paywiser](https://static.openfintech.io/vendors/paywiser/icon.png?w=278&c=v0.59.26#w100)  
+![paywiser](https://static.openfintech.io/vendors/paywiser/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paywiser/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paywiser/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

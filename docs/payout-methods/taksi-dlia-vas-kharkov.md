@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi for you (Kha
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-dlia-vas-kharkov](https://static.openfintech.io/payout_methods/taksi-dlia-vas-kharkov/icon.png?w=278&c=v0.59.26#w40) |[taksi-dlia-vas-kharkov_uah](/payout-services/taksi-dlia-vas-kharkov_uah/)|`taksi-dlia-vas-kharkov_uah`| 
+|![taksi-dlia-vas-kharkov](https://static.openfintech.io/payout_methods/taksi-dlia-vas-kharkov/icon.svg?w=278&c=v0.59.26#w40) |[taksi-dlia-vas-kharkov_uah](/payout-services/taksi-dlia-vas-kharkov_uah/)|`taksi-dlia-vas-kharkov_uah`| 
  
 
 ## JSON Object 

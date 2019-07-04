@@ -1,6 +1,6 @@
 
 # ecoin.cc 
-![ecoincc](https://static.openfintech.io/vendors/ecoincc/logo.png?w=400&c=v0.59.26#w200)  
+![ecoincc](https://static.openfintech.io/vendors/ecoincc/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![ecoincc](https://static.openfintech.io/vendors/ecoincc/logo.png?w=400&c=v0.59.26#w200)  
+![ecoincc](https://static.openfintech.io/vendors/ecoincc/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ecoincc/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ecoincc/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ecoincc](https://static.openfintech.io/vendors/ecoincc/icon.png?w=278&c=v0.59.26#w100)  
+![ecoincc](https://static.openfintech.io/vendors/ecoincc/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ecoincc/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ecoincc/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

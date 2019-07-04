@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Datanet_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![datanet](https://static.openfintech.io/payout_methods/datanet/icon.png?w=278&c=v0.59.26#w40) |[datanet_uah](/payout-services/datanet_uah/)|`datanet_uah`| 
+|![datanet](https://static.openfintech.io/payout_methods/datanet/icon.svg?w=278&c=v0.59.26#w40) |[datanet_uah](/payout-services/datanet_uah/)|`datanet_uah`| 
  
 
 ## JSON Object 

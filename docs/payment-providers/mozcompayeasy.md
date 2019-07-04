@@ -1,6 +1,6 @@
 
 # Mozcom PayEasy 
-![mozcompayeasy](https://static.openfintech.io/payment_providers/mozcompayeasy/logo.png?w=400&c=v0.59.26#w100)  
+![mozcompayeasy](https://static.openfintech.io/payment_providers/mozcompayeasy/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![mozcompayeasy](https://static.openfintech.io/payment_providers/mozcompayeasy/logo.png?w=400&c=v0.59.26#w100)  
+![mozcompayeasy](https://static.openfintech.io/payment_providers/mozcompayeasy/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/mozcompayeasy/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/mozcompayeasy/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![mozcompayeasy](https://static.openfintech.io/payment_providers/mozcompayeasy/icon.png?w=278&c=v0.59.26#w100)  
+![mozcompayeasy](https://static.openfintech.io/payment_providers/mozcompayeasy/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/mozcompayeasy/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/mozcompayeasy/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Aika Online_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![aika-online](https://static.openfintech.io/payout_methods/aika-online/icon.png?w=278&c=v0.59.26#w40) |[aika-online_uah](/payout-services/aika-online_uah/)|`aika-online_uah`| 
+|![aika-online](https://static.openfintech.io/payout_methods/aika-online/icon.svg?w=278&c=v0.59.26#w40) |[aika-online_uah](/payout-services/aika-online_uah/)|`aika-online_uah`| 
  
 
 ## JSON Object 

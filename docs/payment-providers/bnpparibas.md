@@ -1,6 +1,6 @@
 
 # BNP Paribas 
-![bnpparibas](https://static.openfintech.io/payment_providers/bnpparibas/logo.png?w=400&c=v0.59.26#w100)  
+![bnpparibas](https://static.openfintech.io/payment_providers/bnpparibas/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![bnpparibas](https://static.openfintech.io/payment_providers/bnpparibas/logo.png?w=400&c=v0.59.26#w100)  
+![bnpparibas](https://static.openfintech.io/payment_providers/bnpparibas/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/bnpparibas/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/bnpparibas/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![bnpparibas](https://static.openfintech.io/payment_providers/bnpparibas/icon.png?w=278&c=v0.59.26#w100)  
+![bnpparibas](https://static.openfintech.io/payment_providers/bnpparibas/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/bnpparibas/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/bnpparibas/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

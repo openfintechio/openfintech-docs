@@ -1,6 +1,6 @@
 
 # Euro Payment Group 
-![europayment](https://static.openfintech.io/vendors/europayment/logo.png?w=400&c=v0.59.26#w200)  
+![europayment](https://static.openfintech.io/vendors/europayment/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Rotfeder-Ring 1160327 Frankfurt am MainGermany
 
 ### Logo 
  
-![europayment](https://static.openfintech.io/vendors/europayment/logo.png?w=400&c=v0.59.26#w200)  
+![europayment](https://static.openfintech.io/vendors/europayment/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/europayment/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/europayment/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![europayment](https://static.openfintech.io/vendors/europayment/icon.png?w=278&c=v0.59.26#w100)  
+![europayment](https://static.openfintech.io/vendors/europayment/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/europayment/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/europayment/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

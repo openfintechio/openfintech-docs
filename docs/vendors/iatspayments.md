@@ -1,6 +1,6 @@
 
 # iATS Payments 
-![iatspayments](https://static.openfintech.io/vendors/iatspayments/logo.png?w=400&c=v0.59.26#w200)  
+![iatspayments](https://static.openfintech.io/vendors/iatspayments/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  600-1188 W. Georgia St.V6E 4A2 VancouverBritish ColumbiaCanada
 
 ### Logo 
  
-![iatspayments](https://static.openfintech.io/vendors/iatspayments/logo.png?w=400&c=v0.59.26#w200)  
+![iatspayments](https://static.openfintech.io/vendors/iatspayments/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/iatspayments/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/iatspayments/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![iatspayments](https://static.openfintech.io/vendors/iatspayments/icon.png?w=278&c=v0.59.26#w100)  
+![iatspayments](https://static.openfintech.io/vendors/iatspayments/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/iatspayments/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/iatspayments/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

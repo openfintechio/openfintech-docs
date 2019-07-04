@@ -1,6 +1,6 @@
 
 # Be2bill 
-![be2bill](https://static.openfintech.io/vendors/be2bill/logo.png?w=400&c=v0.59.26#w200)  
+![be2bill](https://static.openfintech.io/vendors/be2bill/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  Paris92300 ParisFrance
 
 ### Logo 
  
-![be2bill](https://static.openfintech.io/vendors/be2bill/logo.png?w=400&c=v0.59.26#w200)  
+![be2bill](https://static.openfintech.io/vendors/be2bill/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/be2bill/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/be2bill/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![be2bill](https://static.openfintech.io/vendors/be2bill/icon.png?w=278&c=v0.59.26#w100)  
+![be2bill](https://static.openfintech.io/vendors/be2bill/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/be2bill/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/be2bill/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Black Sea (Intern
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![chernoe-more-internet](https://static.openfintech.io/payout_methods/chernoe-more-internet/icon.png?w=278&c=v0.59.26#w40) |[chernoe-more-internet_uah](/payout-services/chernoe-more-internet_uah/)|`chernoe-more-internet_uah`| 
+|![chernoe-more-internet](https://static.openfintech.io/payout_methods/chernoe-more-internet/icon.svg?w=278&c=v0.59.26#w40) |[chernoe-more-internet_uah](/payout-services/chernoe-more-internet_uah/)|`chernoe-more-internet_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _InfoAura_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![infoaura](https://static.openfintech.io/payout_methods/infoaura/icon.png?w=278&c=v0.59.26#w40) |[infoaura_uah](/payout-services/infoaura_uah/)|`infoaura_uah`| 
+|![infoaura](https://static.openfintech.io/payout_methods/infoaura/icon.svg?w=278&c=v0.59.26#w40) |[infoaura_uah](/payout-services/infoaura_uah/)|`infoaura_uah`| 
  
 
 ## JSON Object 

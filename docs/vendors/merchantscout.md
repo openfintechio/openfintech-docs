@@ -1,6 +1,6 @@
 
 # MerchantScout 
-![merchantscout](https://static.openfintech.io/vendors/merchantscout/logo.png?w=400&c=v0.59.26#w200)  
+![merchantscout](https://static.openfintech.io/vendors/merchantscout/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Dashwood House Level 17EC2M 1QS LondonUnited Kingdom
 
 ### Logo 
  
-![merchantscout](https://static.openfintech.io/vendors/merchantscout/logo.png?w=400&c=v0.59.26#w200)  
+![merchantscout](https://static.openfintech.io/vendors/merchantscout/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/merchantscout/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/merchantscout/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![merchantscout](https://static.openfintech.io/vendors/merchantscout/icon.png?w=278&c=v0.59.26#w100)  
+![merchantscout](https://static.openfintech.io/vendors/merchantscout/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/merchantscout/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/merchantscout/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

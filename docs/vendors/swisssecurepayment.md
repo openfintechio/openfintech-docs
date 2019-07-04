@@ -1,6 +1,6 @@
 
 # Swiss Secure Payment™ 
-![swisssecurepayment](https://static.openfintech.io/vendors/swisssecurepayment/logo.png?w=400&c=v0.59.26#w200)  
+![swisssecurepayment](https://static.openfintech.io/vendors/swisssecurepayment/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Impasse Champ-Colin 61260 Switzerland
 
 ### Logo 
  
-![swisssecurepayment](https://static.openfintech.io/vendors/swisssecurepayment/logo.png?w=400&c=v0.59.26#w200)  
+![swisssecurepayment](https://static.openfintech.io/vendors/swisssecurepayment/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/swisssecurepayment/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/swisssecurepayment/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![swisssecurepayment](https://static.openfintech.io/vendors/swisssecurepayment/icon.png?w=278&c=v0.59.26#w100)  
+![swisssecurepayment](https://static.openfintech.io/vendors/swisssecurepayment/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/swisssecurepayment/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/swisssecurepayment/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

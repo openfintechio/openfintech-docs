@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _CDC (Slavyansk)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![cdc-slaviansk](https://static.openfintech.io/payout_methods/cdc-slaviansk/icon.png?w=278&c=v0.59.26#w40) |[cdc-slaviansk_uah](/payout-services/cdc-slaviansk_uah/)|`cdc-slaviansk_uah`| 
+|![cdc-slaviansk](https://static.openfintech.io/payout_methods/cdc-slaviansk/icon.svg?w=278&c=v0.59.26#w40) |[cdc-slaviansk_uah](/payout-services/cdc-slaviansk_uah/)|`cdc-slaviansk_uah`| 
  
 
 ## JSON Object 

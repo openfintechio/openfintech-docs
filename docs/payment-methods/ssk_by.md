@@ -1,6 +1,6 @@
 
 # Self service kiosk Belarus 
-![ssk_by](https://static.openfintech.io/payment_methods/ssk_by/logo.png?w=400&c=v0.59.26#w200)  
+![ssk_by](https://static.openfintech.io/payment_methods/ssk_by/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `ssk_by` 
@@ -15,17 +15,17 @@
 ## Images 
 
 ### Logo 
-![ssk_by](https://static.openfintech.io/payment_methods/ssk_by/logo.png?w=400&c=v0.59.26#w200)  
+![ssk_by](https://static.openfintech.io/payment_methods/ssk_by/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/ssk_by/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/ssk_by/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![ssk_by](https://static.openfintech.io/payment_methods/ssk_by/icon.png?w=278&c=v0.59.26#w100)  
+![ssk_by](https://static.openfintech.io/payment_methods/ssk_by/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/ssk_by/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/ssk_by/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Global (Kiev
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-global-kiev](https://static.openfintech.io/payout_methods/taksi-global-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-global-kiev_uah](/payout-services/taksi-global-kiev_uah/)|`taksi-global-kiev_uah`| 
+|![taksi-global-kiev](https://static.openfintech.io/payout_methods/taksi-global-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-global-kiev_uah](/payout-services/taksi-global-kiev_uah/)|`taksi-global-kiev_uah`| 
  
 
 ## JSON Object 

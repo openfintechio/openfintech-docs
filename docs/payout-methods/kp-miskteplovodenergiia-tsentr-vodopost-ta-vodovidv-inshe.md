@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _KP 'Gorteplovodoe
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kp-miskteplovodenergiia-tsentr-vodopost-ta-vodovidv-inshe](https://static.openfintech.io/payout_methods/kp-miskteplovodenergiia-tsentr-vodopost-ta-vodovidv-inshe/icon.png?w=278&c=v0.59.26#w40) |[kp-miskteplovodenergiia-tsentr-vodopost-ta-vodovidv-inshe_uah](/payout-services/kp-miskteplovodenergiia-tsentr-vodopost-ta-vodovidv-inshe_uah/)|`kp-miskteplovodenergiia-tsentr-vodopost-ta-vodovidv-inshe_uah`| 
+|![kp-miskteplovodenergiia-tsentr-vodopost-ta-vodovidv-inshe](https://static.openfintech.io/payout_methods/kp-miskteplovodenergiia-tsentr-vodopost-ta-vodovidv-inshe/icon.svg?w=278&c=v0.59.26#w40) |[kp-miskteplovodenergiia-tsentr-vodopost-ta-vodovidv-inshe_uah](/payout-services/kp-miskteplovodenergiia-tsentr-vodopost-ta-vodovidv-inshe_uah/)|`kp-miskteplovodenergiia-tsentr-vodopost-ta-vodovidv-inshe_uah`| 
  
 
 ## JSON Object 

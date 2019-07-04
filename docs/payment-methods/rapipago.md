@@ -1,6 +1,6 @@
 
 # Rapipago 
-![rapipago](https://static.openfintech.io/payment_methods/rapipago/logo.png?w=400&c=v0.59.26#w200)  
+![rapipago](https://static.openfintech.io/payment_methods/rapipago/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `rapipago` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![rapipago](https://static.openfintech.io/payment_methods/rapipago/logo.png?w=400&c=v0.59.26#w200)  
+![rapipago](https://static.openfintech.io/payment_methods/rapipago/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/rapipago/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/rapipago/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![rapipago](https://static.openfintech.io/payment_methods/rapipago/icon.png?w=278&c=v0.59.26#w100)  
+![rapipago](https://static.openfintech.io/payment_methods/rapipago/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/rapipago/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/rapipago/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,9 +43,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Rapipago_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.png?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
+|![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.svg?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
-|![allpago](https://static.openfintech.io/payment_providers/allpago/icon.png?w=278&c=v0.59.26#w100) |[allpago - accept payments in Latin America](/payment-providers/allpago/)|`allpago`| 
+|![allpago](https://static.openfintech.io/payment_providers/allpago/icon.svg?w=278&c=v0.59.26#w100) |[allpago - accept payments in Latin America](/payment-providers/allpago/)|`allpago`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi 649 (Ternopi
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-649-ternopol](https://static.openfintech.io/payout_methods/taksi-649-ternopol/icon.png?w=278&c=v0.59.26#w40) |[taksi-649-ternopol_uah](/payout-services/taksi-649-ternopol_uah/)|`taksi-649-ternopol_uah`| 
+|![taksi-649-ternopol](https://static.openfintech.io/payout_methods/taksi-649-ternopol/icon.svg?w=278&c=v0.59.26#w40) |[taksi-649-ternopol_uah](/payout-services/taksi-649-ternopol_uah/)|`taksi-649-ternopol_uah`| 
  
 
 ## JSON Object 

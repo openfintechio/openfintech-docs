@@ -1,6 +1,6 @@
 
 # USAePay 
-![usaepay](https://static.openfintech.io/vendors/usaepay/logo.png?w=400&c=v0.59.26#w200)  
+![usaepay](https://static.openfintech.io/vendors/usaepay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Los Angeles91201 Los AngelesCaliforniaUnited States of America
 
 ### Logo 
  
-![usaepay](https://static.openfintech.io/vendors/usaepay/logo.png?w=400&c=v0.59.26#w200)  
+![usaepay](https://static.openfintech.io/vendors/usaepay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/usaepay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/usaepay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![usaepay](https://static.openfintech.io/vendors/usaepay/icon.png?w=278&c=v0.59.26#w100)  
+![usaepay](https://static.openfintech.io/vendors/usaepay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/usaepay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/usaepay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

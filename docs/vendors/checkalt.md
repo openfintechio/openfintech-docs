@@ -1,6 +1,6 @@
 
 # CheckAlt Payment Solutions 
-![checkalt](https://static.openfintech.io/vendors/checkalt/logo.png?w=400&c=v0.59.26#w200)  
+![checkalt](https://static.openfintech.io/vendors/checkalt/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Los Angeles, CA90036 Los Angeles, CAUnited States of America
 
 ### Logo 
  
-![checkalt](https://static.openfintech.io/vendors/checkalt/logo.png?w=400&c=v0.59.26#w200)  
+![checkalt](https://static.openfintech.io/vendors/checkalt/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/checkalt/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/checkalt/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![checkalt](https://static.openfintech.io/vendors/checkalt/icon.png?w=278&c=v0.59.26#w100)  
+![checkalt](https://static.openfintech.io/vendors/checkalt/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/checkalt/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/checkalt/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

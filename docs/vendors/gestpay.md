@@ -1,6 +1,6 @@
 
 # GestPay 
-![gestpay](https://static.openfintech.io/vendors/gestpay/logo.png?w=400&c=v0.59.26#w200)  
+![gestpay](https://static.openfintech.io/vendors/gestpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Piazza Gaudenzio Sella, 113900 BiellaItaly
 
 ### Logo 
  
-![gestpay](https://static.openfintech.io/vendors/gestpay/logo.png?w=400&c=v0.59.26#w200)  
+![gestpay](https://static.openfintech.io/vendors/gestpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/gestpay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/gestpay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![gestpay](https://static.openfintech.io/vendors/gestpay/icon.png?w=278&c=v0.59.26#w100)  
+![gestpay](https://static.openfintech.io/vendors/gestpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/gestpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/gestpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _OTP Factoring_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tov-otp-faktoring](https://static.openfintech.io/payout_methods/tov-otp-faktoring/icon.png?w=278&c=v0.59.26#w40) |[tov-otp-faktoring_uah](/payout-services/tov-otp-faktoring_uah/)|`tov-otp-faktoring_uah`| 
+|![tov-otp-faktoring](https://static.openfintech.io/payout_methods/tov-otp-faktoring/icon.svg?w=278&c=v0.59.26#w40) |[tov-otp-faktoring_uah](/payout-services/tov-otp-faktoring_uah/)|`tov-otp-faktoring_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Citopay Online Merchant Services 
-![citopay](https://static.openfintech.io/vendors/citopay/logo.png?w=400&c=v0.59.26#w200)  
+![citopay](https://static.openfintech.io/vendors/citopay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Na Příkopě 25 Prague 1, Old CityCzech Republic
 
 ### Logo 
  
-![citopay](https://static.openfintech.io/vendors/citopay/logo.png?w=400&c=v0.59.26#w200)  
+![citopay](https://static.openfintech.io/vendors/citopay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/citopay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/citopay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![citopay](https://static.openfintech.io/vendors/citopay/icon.png?w=278&c=v0.59.26#w100)  
+![citopay](https://static.openfintech.io/vendors/citopay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/citopay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/citopay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

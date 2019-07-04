@@ -1,6 +1,6 @@
 
 # BillingPartner 
-![billingpartner](https://static.openfintech.io/vendors/billingpartner/logo.png?w=400&c=v0.59.26#w200)  
+![billingpartner](https://static.openfintech.io/vendors/billingpartner/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Schulstrasse 75303 Switzerland
 
 ### Logo 
  
-![billingpartner](https://static.openfintech.io/vendors/billingpartner/logo.png?w=400&c=v0.59.26#w200)  
+![billingpartner](https://static.openfintech.io/vendors/billingpartner/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/billingpartner/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/billingpartner/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![billingpartner](https://static.openfintech.io/vendors/billingpartner/icon.png?w=278&c=v0.59.26#w100)  
+![billingpartner](https://static.openfintech.io/vendors/billingpartner/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/billingpartner/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/billingpartner/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

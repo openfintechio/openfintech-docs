@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Dragons_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![drakony](https://static.openfintech.io/payout_methods/drakony/icon.png?w=278&c=v0.59.26#w40) |[drakony_uah](/payout-services/drakony_uah/)|`drakony_uah`| 
+|![drakony](https://static.openfintech.io/payout_methods/drakony/icon.svg?w=278&c=v0.59.26#w40) |[drakony_uah](/payout-services/drakony_uah/)|`drakony_uah`| 
  
 
 ## JSON Object 

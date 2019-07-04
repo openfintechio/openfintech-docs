@@ -1,6 +1,6 @@
 
 # best-obmen 
-![best-obmen](https://static.openfintech.io/vendors/best-obmen/logo.png?w=400&c=v0.59.26#w200)  
+![best-obmen](https://static.openfintech.io/vendors/best-obmen/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -20,18 +20,18 @@
 
 ### Logo 
  
-![best-obmen](https://static.openfintech.io/vendors/best-obmen/logo.png?w=400&c=v0.59.26#w200)  
+![best-obmen](https://static.openfintech.io/vendors/best-obmen/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/best-obmen/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/best-obmen/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![best-obmen](https://static.openfintech.io/vendors/best-obmen/icon.png?w=278&c=v0.59.26#w100)  
+![best-obmen](https://static.openfintech.io/vendors/best-obmen/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/best-obmen/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/best-obmen/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # VeriTrans Inc. 
-![veritransinc](https://static.openfintech.io/payment_providers/veritransinc/logo.png?w=400&c=v0.59.26#w100)  
+![veritransinc](https://static.openfintech.io/payment_providers/veritransinc/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![veritransinc](https://static.openfintech.io/payment_providers/veritransinc/logo.png?w=400&c=v0.59.26#w100)  
+![veritransinc](https://static.openfintech.io/payment_providers/veritransinc/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/veritransinc/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/veritransinc/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![veritransinc](https://static.openfintech.io/payment_providers/veritransinc/icon.png?w=278&c=v0.59.26#w100)  
+![veritransinc](https://static.openfintech.io/payment_providers/veritransinc/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/veritransinc/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/veritransinc/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

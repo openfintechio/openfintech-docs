@@ -1,6 +1,6 @@
 
 # Ezic 
-![ezic](https://static.openfintech.io/vendors/ezic/logo.png?w=400&c=v0.59.26#w200)  
+![ezic](https://static.openfintech.io/vendors/ezic/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  175 E. Hawthorn Parkway, Suite 41060061 Vernon HillsILUnited States of 
 
 ### Logo 
  
-![ezic](https://static.openfintech.io/vendors/ezic/logo.png?w=400&c=v0.59.26#w200)  
+![ezic](https://static.openfintech.io/vendors/ezic/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ezic/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ezic/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ezic](https://static.openfintech.io/vendors/ezic/icon.png?w=278&c=v0.59.26#w100)  
+![ezic](https://static.openfintech.io/vendors/ezic/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ezic/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ezic/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

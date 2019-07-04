@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Localka (Odessa)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![localka-odessa](https://static.openfintech.io/payout_methods/localka-odessa/icon.png?w=278&c=v0.59.26#w40) |[localka-odessa_uah](/payout-services/localka-odessa_uah/)|`localka-odessa_uah`| 
+|![localka-odessa](https://static.openfintech.io/payout_methods/localka-odessa/icon.svg?w=278&c=v0.59.26#w40) |[localka-odessa_uah](/payout-services/localka-odessa_uah/)|`localka-odessa_uah`| 
  
 
 ## JSON Object 

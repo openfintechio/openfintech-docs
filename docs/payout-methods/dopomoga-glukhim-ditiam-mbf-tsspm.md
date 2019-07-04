@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Help for Deaf Chi
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![dopomoga-glukhim-ditiam-mbf-tsspm](https://static.openfintech.io/payout_methods/dopomoga-glukhim-ditiam-mbf-tsspm/icon.png?w=278&c=v0.59.26#w40) |[dopomoga-glukhim-ditiam-mbf-tsspm_uah](/payout-services/dopomoga-glukhim-ditiam-mbf-tsspm_uah/)|`dopomoga-glukhim-ditiam-mbf-tsspm_uah`| 
+|![dopomoga-glukhim-ditiam-mbf-tsspm](https://static.openfintech.io/payout_methods/dopomoga-glukhim-ditiam-mbf-tsspm/icon.svg?w=278&c=v0.59.26#w40) |[dopomoga-glukhim-ditiam-mbf-tsspm_uah](/payout-services/dopomoga-glukhim-ditiam-mbf-tsspm_uah/)|`dopomoga-glukhim-ditiam-mbf-tsspm_uah`| 
  
 
 ## JSON Object 

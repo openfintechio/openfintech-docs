@@ -1,6 +1,6 @@
 
 # VTC Pay 
-![vtcpay](https://static.openfintech.io/payment_providers/vtcpay/logo.png?w=400&c=v0.59.26#w100)  
+![vtcpay](https://static.openfintech.io/payment_providers/vtcpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![vtcpay](https://static.openfintech.io/payment_providers/vtcpay/logo.png?w=400&c=v0.59.26#w100)  
+![vtcpay](https://static.openfintech.io/payment_providers/vtcpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/vtcpay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/vtcpay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![vtcpay](https://static.openfintech.io/payment_providers/vtcpay/icon.png?w=278&c=v0.59.26#w100)  
+![vtcpay](https://static.openfintech.io/payment_providers/vtcpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/vtcpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/vtcpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

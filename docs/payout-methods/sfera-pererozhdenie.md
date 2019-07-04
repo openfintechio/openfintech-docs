@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Sphere: Rebirth_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![sfera-pererozhdenie](https://static.openfintech.io/payout_methods/sfera-pererozhdenie/icon.png?w=278&c=v0.59.26#w40) |[sfera-pererozhdenie_uah](/payout-services/sfera-pererozhdenie_uah/)|`sfera-pererozhdenie_uah`| 
+|![sfera-pererozhdenie](https://static.openfintech.io/payout_methods/sfera-pererozhdenie/icon.svg?w=278&c=v0.59.26#w40) |[sfera-pererozhdenie_uah](/payout-services/sfera-pererozhdenie_uah/)|`sfera-pererozhdenie_uah`| 
  
 
 ## JSON Object 

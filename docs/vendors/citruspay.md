@@ -1,6 +1,6 @@
 
 # Citrus Pay 
-![citruspay](https://static.openfintech.io/vendors/citruspay/logo.png?w=400&c=v0.59.26#w200)  
+![citruspay](https://static.openfintech.io/vendors/citruspay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  124 Viraj Building, 3rd Floor400052 Khar West, MumbaiMaharashtraIndia
 
 ### Logo 
  
-![citruspay](https://static.openfintech.io/vendors/citruspay/logo.png?w=400&c=v0.59.26#w200)  
+![citruspay](https://static.openfintech.io/vendors/citruspay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/citruspay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/citruspay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![citruspay](https://static.openfintech.io/vendors/citruspay/icon.png?w=278&c=v0.59.26#w100)  
+![citruspay](https://static.openfintech.io/vendors/citruspay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/citruspay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/citruspay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

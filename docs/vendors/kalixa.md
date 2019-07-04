@@ -1,6 +1,6 @@
 
 # Kalixa Payments Group 
-![kalixa](https://static.openfintech.io/vendors/kalixa/logo.png?w=400&c=v0.59.26#w200)  
+![kalixa](https://static.openfintech.io/vendors/kalixa/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  The Corn Mill – 1 Roydon RoadSG12 8XL Stanstead AbbottsUnited Kingdom
 
 ### Logo 
  
-![kalixa](https://static.openfintech.io/vendors/kalixa/logo.png?w=400&c=v0.59.26#w200)  
+![kalixa](https://static.openfintech.io/vendors/kalixa/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/kalixa/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/kalixa/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![kalixa](https://static.openfintech.io/vendors/kalixa/icon.png?w=278&c=v0.59.26#w100)  
+![kalixa](https://static.openfintech.io/vendors/kalixa/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/kalixa/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/kalixa/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

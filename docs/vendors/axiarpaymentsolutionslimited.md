@@ -1,6 +1,6 @@
 
 # Axiar Payments 
-![axiarpaymentsolutionslimited](https://static.openfintech.io/vendors/axiarpaymentsolutionslimited/logo.png?w=400&c=v0.59.26#w200)  
+![axiarpaymentsolutionslimited](https://static.openfintech.io/vendors/axiarpaymentsolutionslimited/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  CheshireSK5 6NS United Kingdom
 
 ### Logo 
  
-![axiarpaymentsolutionslimited](https://static.openfintech.io/vendors/axiarpaymentsolutionslimited/logo.png?w=400&c=v0.59.26#w200)  
+![axiarpaymentsolutionslimited](https://static.openfintech.io/vendors/axiarpaymentsolutionslimited/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/axiarpaymentsolutionslimited/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/axiarpaymentsolutionslimited/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![axiarpaymentsolutionslimited](https://static.openfintech.io/vendors/axiarpaymentsolutionslimited/icon.png?w=278&c=v0.59.26#w100)  
+![axiarpaymentsolutionslimited](https://static.openfintech.io/vendors/axiarpaymentsolutionslimited/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/axiarpaymentsolutionslimited/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/axiarpaymentsolutionslimited/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

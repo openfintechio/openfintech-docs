@@ -1,6 +1,6 @@
 
 # WEBINC 
-![webinc](https://static.openfintech.io/payment_providers/webinc/logo.png?w=400&c=v0.59.26#w100)  
+![webinc](https://static.openfintech.io/payment_providers/webinc/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![webinc](https://static.openfintech.io/payment_providers/webinc/logo.png?w=400&c=v0.59.26#w100)  
+![webinc](https://static.openfintech.io/payment_providers/webinc/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/webinc/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/webinc/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![webinc](https://static.openfintech.io/payment_providers/webinc/icon.png?w=278&c=v0.59.26#w100)  
+![webinc](https://static.openfintech.io/payment_providers/webinc/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/webinc/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/webinc/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

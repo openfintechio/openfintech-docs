@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _PJSC 'Lvivoblener
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![prat-lvivoblenergo-elektroenergiia](https://static.openfintech.io/payout_methods/prat-lvivoblenergo-elektroenergiia/icon.png?w=278&c=v0.59.26#w40) |[prat-lvivoblenergo-elektroenergiia_uah](/payout-services/prat-lvivoblenergo-elektroenergiia_uah/)|`prat-lvivoblenergo-elektroenergiia_uah`| 
+|![prat-lvivoblenergo-elektroenergiia](https://static.openfintech.io/payout_methods/prat-lvivoblenergo-elektroenergiia/icon.svg?w=278&c=v0.59.26#w40) |[prat-lvivoblenergo-elektroenergiia_uah](/payout-services/prat-lvivoblenergo-elektroenergiia_uah/)|`prat-lvivoblenergo-elektroenergiia_uah`| 
  
 
 ## JSON Object 

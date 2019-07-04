@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _КП "ПОРТО-
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kp-porto-frankivskii-odesa](https://static.openfintech.io/payout_methods/kp-porto-frankivskii-odesa/icon.png?w=278&c=v0.59.26#w40) |[kp-porto-frankivskii-odesa_uah](/payout-services/kp-porto-frankivskii-odesa_uah/)|`kp-porto-frankivskii-odesa_uah`| 
+|![kp-porto-frankivskii-odesa](https://static.openfintech.io/payout_methods/kp-porto-frankivskii-odesa/icon.svg?w=278&c=v0.59.26#w40) |[kp-porto-frankivskii-odesa_uah](/payout-services/kp-porto-frankivskii-odesa_uah/)|`kp-porto-frankivskii-odesa_uah`| 
  
 
 ## JSON Object 

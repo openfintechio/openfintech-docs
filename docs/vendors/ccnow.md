@@ -1,6 +1,6 @@
 
 # CCNow 
-![ccnow](https://static.openfintech.io/vendors/ccnow/logo.png?w=400&c=v0.59.26#w200)  
+![ccnow](https://static.openfintech.io/vendors/ccnow/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  333 Washington Ave N STE 30055401 MinneapolisMNUnited States of America
 
 ### Logo 
  
-![ccnow](https://static.openfintech.io/vendors/ccnow/logo.png?w=400&c=v0.59.26#w200)  
+![ccnow](https://static.openfintech.io/vendors/ccnow/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ccnow/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ccnow/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ccnow](https://static.openfintech.io/vendors/ccnow/icon.png?w=278&c=v0.59.26#w100)  
+![ccnow](https://static.openfintech.io/vendors/ccnow/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ccnow/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ccnow/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

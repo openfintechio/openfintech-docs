@@ -1,6 +1,6 @@
 
 # Websecpay 
-![websecpay](https://static.openfintech.io/vendors/websecpay/logo.png?w=400&c=v0.59.26#w200)  
+![websecpay](https://static.openfintech.io/vendors/websecpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Vincenti Buildings, 28/19 Strait Street Malta
 
 ### Logo 
  
-![websecpay](https://static.openfintech.io/vendors/websecpay/logo.png?w=400&c=v0.59.26#w200)  
+![websecpay](https://static.openfintech.io/vendors/websecpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/websecpay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/websecpay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![websecpay](https://static.openfintech.io/vendors/websecpay/icon.png?w=278&c=v0.59.26#w100)  
+![websecpay](https://static.openfintech.io/vendors/websecpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/websecpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/websecpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Cross Fire_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![cross-fire](https://static.openfintech.io/payout_methods/cross-fire/icon.png?w=278&c=v0.59.26#w40) |[cross-fire_uah](/payout-services/cross-fire_uah/)|`cross-fire_uah`| 
+|![cross-fire](https://static.openfintech.io/payout_methods/cross-fire/icon.svg?w=278&c=v0.59.26#w40) |[cross-fire_uah](/payout-services/cross-fire_uah/)|`cross-fire_uah`| 
  
 
 ## JSON Object 

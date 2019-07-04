@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _UFO Online_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ufo-online](https://static.openfintech.io/payout_methods/ufo-online/icon.png?w=278&c=v0.59.26#w40) |[ufo-online_uah](/payout-services/ufo-online_uah/)|`ufo-online_uah`| 
+|![ufo-online](https://static.openfintech.io/payout_methods/ufo-online/icon.svg?w=278&c=v0.59.26#w40) |[ufo-online_uah](/payout-services/ufo-online_uah/)|`ufo-online_uah`| 
  
 
 ## JSON Object 

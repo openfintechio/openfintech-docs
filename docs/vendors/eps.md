@@ -1,6 +1,6 @@
 
 # eps e-payment 
-![eps](https://static.openfintech.io/vendors/eps/logo.png?w=400&c=v0.59.26#w200)  
+![eps](https://static.openfintech.io/vendors/eps/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -18,18 +18,18 @@ fax: -
 
 ### Logo 
  
-![eps](https://static.openfintech.io/vendors/eps/logo.png?w=400&c=v0.59.26#w200)  
+![eps](https://static.openfintech.io/vendors/eps/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/eps/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/eps/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![eps](https://static.openfintech.io/vendors/eps/icon.png?w=278&c=v0.59.26#w100)  
+![eps](https://static.openfintech.io/vendors/eps/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/eps/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/eps/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

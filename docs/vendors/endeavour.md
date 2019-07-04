@@ -1,6 +1,6 @@
 
 # Endeavour 
-![endeavour](https://static.openfintech.io/vendors/endeavour/logo.png?w=400&c=v0.59.26#w200)  
+![endeavour](https://static.openfintech.io/vendors/endeavour/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Marina StreetPTA9041 PietÃ Malta
 
 ### Logo 
  
-![endeavour](https://static.openfintech.io/vendors/endeavour/logo.png?w=400&c=v0.59.26#w200)  
+![endeavour](https://static.openfintech.io/vendors/endeavour/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/endeavour/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/endeavour/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![endeavour](https://static.openfintech.io/vendors/endeavour/icon.png?w=278&c=v0.59.26#w100)  
+![endeavour](https://static.openfintech.io/vendors/endeavour/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/endeavour/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/endeavour/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

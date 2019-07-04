@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _DkLan_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![dklan](https://static.openfintech.io/payout_methods/dklan/icon.png?w=278&c=v0.59.26#w40) |[dklan_uah](/payout-services/dklan_uah/)|`dklan_uah`| 
+|![dklan](https://static.openfintech.io/payout_methods/dklan/icon.svg?w=278&c=v0.59.26#w40) |[dklan_uah](/payout-services/dklan_uah/)|`dklan_uah`| 
  
 
 ## JSON Object 

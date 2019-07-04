@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _4Ok net (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![4ok-net-kiev](https://static.openfintech.io/payout_methods/4ok-net-kiev/icon.png?w=278&c=v0.59.26#w40) |[4ok-net-kiev_uah](/payout-services/4ok-net-kiev_uah/)|`4ok-net-kiev_uah`| 
+|![4ok-net-kiev](https://static.openfintech.io/payout_methods/4ok-net-kiev/icon.svg?w=278&c=v0.59.26#w40) |[4ok-net-kiev_uah](/payout-services/4ok-net-kiev_uah/)|`4ok-net-kiev_uah`| 
  
 
 ## JSON Object 

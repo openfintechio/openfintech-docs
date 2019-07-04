@@ -1,6 +1,6 @@
 
 # Ecoin.eu 
-![ecoineu](https://static.openfintech.io/payment_methods/ecoineu/logo.png?w=400&c=v0.59.26#w200)  
+![ecoineu](https://static.openfintech.io/payment_methods/ecoineu/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `ecoineu` 
@@ -15,17 +15,17 @@
 ## Images 
 
 ### Logo 
-![ecoineu](https://static.openfintech.io/payment_methods/ecoineu/logo.png?w=400&c=v0.59.26#w200)  
+![ecoineu](https://static.openfintech.io/payment_methods/ecoineu/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/ecoineu/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/ecoineu/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![ecoineu](https://static.openfintech.io/payment_methods/ecoineu/icon.png?w=278&c=v0.59.26#w100)  
+![ecoineu](https://static.openfintech.io/payment_methods/ecoineu/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/ecoineu/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/ecoineu/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

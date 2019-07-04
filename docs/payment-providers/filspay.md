@@ -1,6 +1,6 @@
 
 # FilsPay 
-![filspay](https://static.openfintech.io/payment_providers/filspay/logo.png?w=400&c=v0.59.26#w100)  
+![filspay](https://static.openfintech.io/payment_providers/filspay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![filspay](https://static.openfintech.io/payment_providers/filspay/logo.png?w=400&c=v0.59.26#w100)  
+![filspay](https://static.openfintech.io/payment_providers/filspay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/filspay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/filspay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![filspay](https://static.openfintech.io/payment_providers/filspay/icon.png?w=278&c=v0.59.26#w100)  
+![filspay](https://static.openfintech.io/payment_providers/filspay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/filspay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/filspay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

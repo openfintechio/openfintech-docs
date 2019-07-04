@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Student (Zap
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-student-zaporozhe](https://static.openfintech.io/payout_methods/taksi-student-zaporozhe/icon.png?w=278&c=v0.59.26#w40) |[taksi-student-zaporozhe_uah](/payout-services/taksi-student-zaporozhe_uah/)|`taksi-student-zaporozhe_uah`| 
+|![taksi-student-zaporozhe](https://static.openfintech.io/payout_methods/taksi-student-zaporozhe/icon.svg?w=278&c=v0.59.26#w40) |[taksi-student-zaporozhe_uah](/payout-services/taksi-student-zaporozhe_uah/)|`taksi-student-zaporozhe_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Trimob - account 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![trimob-popovnennia-za-osobovim-rakhunkom](https://static.openfintech.io/payout_methods/trimob-popovnennia-za-osobovim-rakhunkom/icon.png?w=278&c=v0.59.26#w40) |[trimob-popovnennia-za-osobovim-rakhunkom_uah](/payout-services/trimob-popovnennia-za-osobovim-rakhunkom_uah/)|`trimob-popovnennia-za-osobovim-rakhunkom_uah`| 
+|![trimob-popovnennia-za-osobovim-rakhunkom](https://static.openfintech.io/payout_methods/trimob-popovnennia-za-osobovim-rakhunkom/icon.svg?w=278&c=v0.59.26#w40) |[trimob-popovnennia-za-osobovim-rakhunkom_uah](/payout-services/trimob-popovnennia-za-osobovim-rakhunkom_uah/)|`trimob-popovnennia-za-osobovim-rakhunkom_uah`| 
  
 
 ## JSON Object 

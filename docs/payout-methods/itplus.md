@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Itplus_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![itplus](https://static.openfintech.io/payout_methods/itplus/icon.png?w=278&c=v0.59.26#w40) |[itplus_uah](/payout-services/itplus_uah/)|`itplus_uah`| 
+|![itplus](https://static.openfintech.io/payout_methods/itplus/icon.svg?w=278&c=v0.59.26#w40) |[itplus_uah](/payout-services/itplus_uah/)|`itplus_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _LimNet (Lviv regi
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![limnet-lvivska-obl-ta-m-lviv](https://static.openfintech.io/payout_methods/limnet-lvivska-obl-ta-m-lviv/icon.png?w=278&c=v0.59.26#w40) |[limnet-lvivska-obl-ta-m-lviv_uah](/payout-services/limnet-lvivska-obl-ta-m-lviv_uah/)|`limnet-lvivska-obl-ta-m-lviv_uah`| 
+|![limnet-lvivska-obl-ta-m-lviv](https://static.openfintech.io/payout_methods/limnet-lvivska-obl-ta-m-lviv/icon.svg?w=278&c=v0.59.26#w40) |[limnet-lvivska-obl-ta-m-lviv_uah](/payout-services/limnet-lvivska-obl-ta-m-lviv_uah/)|`limnet-lvivska-obl-ta-m-lviv_uah`| 
  
 
 ## JSON Object 

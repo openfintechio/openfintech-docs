@@ -1,6 +1,6 @@
 
 # Nochex 
-![nochexltd](https://static.openfintech.io/vendors/nochexltd/logo.png?w=400&c=v0.59.26#w200)  
+![nochexltd](https://static.openfintech.io/vendors/nochexltd/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Leeds Innovation Centre, 103 Clarendon RoadLS2 9DF LeedsUnited Kingdom
 
 ### Logo 
  
-![nochexltd](https://static.openfintech.io/vendors/nochexltd/logo.png?w=400&c=v0.59.26#w200)  
+![nochexltd](https://static.openfintech.io/vendors/nochexltd/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/nochexltd/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/nochexltd/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![nochexltd](https://static.openfintech.io/vendors/nochexltd/icon.png?w=278&c=v0.59.26#w100)  
+![nochexltd](https://static.openfintech.io/vendors/nochexltd/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/nochexltd/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/nochexltd/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

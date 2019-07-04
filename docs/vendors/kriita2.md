@@ -1,6 +1,6 @@
 
 # Kriita AB 
-![kriita2](https://static.openfintech.io/vendors/kriita2/logo.png?w=400&c=v0.59.26#w200)  
+![kriita2](https://static.openfintech.io/vendors/kriita2/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@ email: support@kriita.comphone: 0046-8-559 212 07
 
 ### Logo 
  
-![kriita2](https://static.openfintech.io/vendors/kriita2/logo.png?w=400&c=v0.59.26#w200)  
+![kriita2](https://static.openfintech.io/vendors/kriita2/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/kriita2/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/kriita2/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![kriita2](https://static.openfintech.io/vendors/kriita2/icon.png?w=278&c=v0.59.26#w100)  
+![kriita2](https://static.openfintech.io/vendors/kriita2/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/kriita2/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/kriita2/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

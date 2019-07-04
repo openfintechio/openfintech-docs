@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _GREEN.NET (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![green-net-kiev](https://static.openfintech.io/payout_methods/green-net-kiev/icon.png?w=278&c=v0.59.26#w40) |[green-net-kiev_uah](/payout-services/green-net-kiev_uah/)|`green-net-kiev_uah`| 
+|![green-net-kiev](https://static.openfintech.io/payout_methods/green-net-kiev/icon.svg?w=278&c=v0.59.26#w40) |[green-net-kiev_uah](/payout-services/green-net-kiev_uah/)|`green-net-kiev_uah`| 
  
 
 ## JSON Object 

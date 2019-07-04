@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _AVISO - bill paym
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![aviso-oplata-scheta](https://static.openfintech.io/payout_methods/aviso-oplata-scheta/icon.png?w=278&c=v0.59.26#w40) |[aviso-oplata-scheta_uah](/payout-services/aviso-oplata-scheta_uah/)|`aviso-oplata-scheta_uah`| 
+|![aviso-oplata-scheta](https://static.openfintech.io/payout_methods/aviso-oplata-scheta/icon.svg?w=278&c=v0.59.26#w40) |[aviso-oplata-scheta_uah](/payout-services/aviso-oplata-scheta_uah/)|`aviso-oplata-scheta_uah`| 
  
 
 ## JSON Object 

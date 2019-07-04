@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Columbus_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![columbus](https://static.openfintech.io/payout_methods/columbus/icon.png?w=278&c=v0.59.26#w40) |[columbus_uah](/payout-services/columbus_uah/)|`columbus_uah`| 
+|![columbus](https://static.openfintech.io/payout_methods/columbus/icon.svg?w=278&c=v0.59.26#w40) |[columbus_uah](/payout-services/columbus_uah/)|`columbus_uah`| 
  
 
 ## JSON Object 

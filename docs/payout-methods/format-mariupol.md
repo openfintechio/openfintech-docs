@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Format (Mariupol)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![format-mariupol](https://static.openfintech.io/payout_methods/format-mariupol/icon.png?w=278&c=v0.59.26#w40) |[format-mariupol_uah](/payout-services/format-mariupol_uah/)|`format-mariupol_uah`| 
+|![format-mariupol](https://static.openfintech.io/payout_methods/format-mariupol/icon.svg?w=278&c=v0.59.26#w40) |[format-mariupol_uah](/payout-services/format-mariupol_uah/)|`format-mariupol_uah`| 
  
 
 ## JSON Object 

@@ -43,32 +43,32 @@ The list of supported [Payment Methods](/payment-methods/)
 |:---:|:---:|:---:| 
 |![webmoneytransfer](https://static.openfintech.io/payment_methods/webmoneytransfer/icon.svg?w=278&c=v0.59.26#w100) |[webmoneytransfer](/payment-methods/webmoneytransfer/)|`webmoneytransfer`| 
 |![test](https://static.openfintech.io/payment_methods/test/icon.svg?w=278&c=v0.59.26#w100) |[test](/payment-methods/test/)|`test`| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.svg?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
 |![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
 |![privat24](https://static.openfintech.io/payment_methods/privat24/icon.svg?w=278&c=v0.59.26#w100) |[privat24](/payment-methods/privat24/)|`privat24`| 
-|![beeline](https://static.openfintech.io/payment_methods/beeline/icon.png?w=278&c=v0.59.26#w100) |[beeline](/payment-methods/beeline/)|`beeline`| 
-|![megafon](https://static.openfintech.io/payment_methods/megafon/icon.png?w=278&c=v0.59.26#w100) |[megafon](/payment-methods/megafon/)|`megafon`| 
-|![mts](https://static.openfintech.io/payment_methods/mts/icon.png?w=278&c=v0.59.26#w100) |[mts](/payment-methods/mts/)|`mts`| 
+|![beeline](https://static.openfintech.io/payment_methods/beeline/icon.svg?w=278&c=v0.59.26#w100) |[beeline](/payment-methods/beeline/)|`beeline`| 
+|![megafon](https://static.openfintech.io/payment_methods/megafon/icon.svg?w=278&c=v0.59.26#w100) |[megafon](/payment-methods/megafon/)|`megafon`| 
+|![mts](https://static.openfintech.io/payment_methods/mts/icon.svg?w=278&c=v0.59.26#w100) |[mts](/payment-methods/mts/)|`mts`| 
 |![advcash_wallet](https://static.openfintech.io/payment_methods/advcash_wallet/icon.svg?w=278&c=v0.59.26#w100) |[advcash_wallet](/payment-methods/advcash_wallet/)|`advcash_wallet`| 
-|![payeer](https://static.openfintech.io/payment_methods/payeer/icon.png?w=278&c=v0.59.26#w100) |[payeer](/payment-methods/payeer/)|`payeer`| 
-|![exmo](https://static.openfintech.io/payment_methods/exmo/icon.png?w=278&c=v0.59.26#w100) |[exmo](/payment-methods/exmo/)|`exmo`| 
+|![payeer](https://static.openfintech.io/payment_methods/payeer/icon.svg?w=278&c=v0.59.26#w100) |[payeer](/payment-methods/payeer/)|`payeer`| 
+|![exmo](https://static.openfintech.io/payment_methods/exmo/icon.svg?w=278&c=v0.59.26#w100) |[exmo](/payment-methods/exmo/)|`exmo`| 
 |![qiwi](https://static.openfintech.io/payment_methods/qiwi/icon.svg?w=278&c=v0.59.26#w100) |[qiwi](/payment-methods/qiwi/)|`qiwi`| 
 |![yandexmoney](https://static.openfintech.io/payment_methods/yandexmoney/icon.svg?w=278&c=v0.59.26#w100) |[yandexmoney](/payment-methods/yandexmoney/)|`yandexmoney`| 
 |![tele2ru](https://static.openfintech.io/payment_methods/tele2ru/icon.svg?w=278&c=v0.59.26#w100) |[tele2ru](/payment-methods/tele2ru/)|`tele2ru`| 
-|![euroset](https://static.openfintech.io/payment_methods/euroset/icon.png?w=278&c=v0.59.26#w100) |[euroset](/payment-methods/euroset/)|`euroset`| 
-|![svyaznoy](https://static.openfintech.io/payment_methods/svyaznoy/icon.png?w=278&c=v0.59.26#w100) |[svyaznoy](/payment-methods/svyaznoy/)|`svyaznoy`| 
+|![euroset](https://static.openfintech.io/payment_methods/euroset/icon.svg?w=278&c=v0.59.26#w100) |[euroset](/payment-methods/euroset/)|`euroset`| 
+|![svyaznoy](https://static.openfintech.io/payment_methods/svyaznoy/icon.svg?w=278&c=v0.59.26#w100) |[svyaznoy](/payment-methods/svyaznoy/)|`svyaznoy`| 
 |![perfectmoney](https://static.openfintech.io/payment_methods/perfectmoney/icon.svg?w=278&c=v0.59.26#w100) |[perfectmoney](/payment-methods/perfectmoney/)|`perfectmoney`| 
-|![rbkmoney](https://static.openfintech.io/payment_methods/rbkmoney/icon.png?w=278&c=v0.59.26#w100) |[rbkmoney](/payment-methods/rbkmoney/)|`rbkmoney`| 
-|![alfaclick](https://static.openfintech.io/payment_methods/alfaclick/icon.png?w=278&c=v0.59.26#w100) |[alfaclick](/payment-methods/alfaclick/)|`alfaclick`| 
-|![psbretail](https://static.openfintech.io/payment_methods/psbretail/icon.png?w=278&c=v0.59.26#w100) |[psbretail](/payment-methods/psbretail/)|`psbretail`| 
-|![ssk_ua](https://static.openfintech.io/payment_methods/ssk_ua/icon.png?w=278&c=v0.59.26#w100) |[ssk_ua](/payment-methods/ssk_ua/)|`ssk_ua`| 
+|![rbkmoney](https://static.openfintech.io/payment_methods/rbkmoney/icon.svg?w=278&c=v0.59.26#w100) |[rbkmoney](/payment-methods/rbkmoney/)|`rbkmoney`| 
+|![alfaclick](https://static.openfintech.io/payment_methods/alfaclick/icon.svg?w=278&c=v0.59.26#w100) |[alfaclick](/payment-methods/alfaclick/)|`alfaclick`| 
+|![psbretail](https://static.openfintech.io/payment_methods/psbretail/icon.svg?w=278&c=v0.59.26#w100) |[psbretail](/payment-methods/psbretail/)|`psbretail`| 
+|![ssk_ua](https://static.openfintech.io/payment_methods/ssk_ua/icon.svg?w=278&c=v0.59.26#w100) |[ssk_ua](/payment-methods/ssk_ua/)|`ssk_ua`| 
 |![ibox](https://static.openfintech.io/payment_methods/ibox/icon.svg?w=278&c=v0.59.26#w100) |[ibox](/payment-methods/ibox/)|`ibox`| 
-|![easypay](https://static.openfintech.io/payment_methods/easypay/icon.png?w=278&c=v0.59.26#w100) |[easypay](/payment-methods/easypay/)|`easypay`| 
-|![walletone](https://static.openfintech.io/payment_methods/walletone/icon.png?w=278&c=v0.59.26#w100) |[walletone](/payment-methods/walletone/)|`walletone`| 
-|![mminvoicing](https://static.openfintech.io/payment_methods/mminvoicing/icon.png?w=278&c=v0.59.26#w100) |[mminvoicing](/payment-methods/mminvoicing/)|`mminvoicing`| 
-|![epese](https://static.openfintech.io/payment_methods/epese/icon.png?w=278&c=v0.59.26#w100) |[epese](/payment-methods/epese/)|`epese`| 
-|![ecoineu](https://static.openfintech.io/payment_methods/ecoineu/icon.png?w=278&c=v0.59.26#w100) |[ecoineu](/payment-methods/ecoineu/)|`ecoineu`| 
-|![epayua](https://static.openfintech.io/payment_methods/epayua/icon.png?w=278&c=v0.59.26#w100) |[epayua](/payment-methods/epayua/)|`epayua`| 
+|![easypay](https://static.openfintech.io/payment_methods/easypay/icon.svg?w=278&c=v0.59.26#w100) |[easypay](/payment-methods/easypay/)|`easypay`| 
+|![walletone](https://static.openfintech.io/payment_methods/walletone/icon.svg?w=278&c=v0.59.26#w100) |[walletone](/payment-methods/walletone/)|`walletone`| 
+|![mminvoicing](https://static.openfintech.io/payment_methods/mminvoicing/icon.svg?w=278&c=v0.59.26#w100) |[mminvoicing](/payment-methods/mminvoicing/)|`mminvoicing`| 
+|![epese](https://static.openfintech.io/payment_methods/epese/icon.svg?w=278&c=v0.59.26#w100) |[epese](/payment-methods/epese/)|`epese`| 
+|![ecoineu](https://static.openfintech.io/payment_methods/ecoineu/icon.svg?w=278&c=v0.59.26#w100) |[ecoineu](/payment-methods/ecoineu/)|`ecoineu`| 
+|![epayua](https://static.openfintech.io/payment_methods/epayua/icon.svg?w=278&c=v0.59.26#w100) |[epayua](/payment-methods/epayua/)|`epayua`| 
  
 
 ## Payout Methods 

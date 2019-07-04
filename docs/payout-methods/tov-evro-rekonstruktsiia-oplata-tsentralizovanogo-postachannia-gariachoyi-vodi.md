@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Euro-reconstructi
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tov-evro-rekonstruktsiia-oplata-tsentralizovanogo-postachannia-gariachoyi-vodi](https://static.openfintech.io/payout_methods/tov-evro-rekonstruktsiia-oplata-tsentralizovanogo-postachannia-gariachoyi-vodi/icon.png?w=278&c=v0.59.26#w40) |[tov-evro-rekonstruktsiia-oplata-tsentralizovanogo-postachannia-gariachoyi-vodi_uah](/payout-services/tov-evro-rekonstruktsiia-oplata-tsentralizovanogo-postachannia-gariachoyi-vodi_uah/)|`tov-evro-rekonstruktsiia-oplata-tsentralizovanogo-postachannia-gariachoyi-vodi_uah`| 
+|![tov-evro-rekonstruktsiia-oplata-tsentralizovanogo-postachannia-gariachoyi-vodi](https://static.openfintech.io/payout_methods/tov-evro-rekonstruktsiia-oplata-tsentralizovanogo-postachannia-gariachoyi-vodi/icon.svg?w=278&c=v0.59.26#w40) |[tov-evro-rekonstruktsiia-oplata-tsentralizovanogo-postachannia-gariachoyi-vodi_uah](/payout-services/tov-evro-rekonstruktsiia-oplata-tsentralizovanogo-postachannia-gariachoyi-vodi_uah/)|`tov-evro-rekonstruktsiia-oplata-tsentralizovanogo-postachannia-gariachoyi-vodi_uah`| 
  
 
 ## JSON Object 

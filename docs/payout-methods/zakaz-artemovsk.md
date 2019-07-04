@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ORDER (Artyomovsk
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![zakaz-artemovsk](https://static.openfintech.io/payout_methods/zakaz-artemovsk/icon.png?w=278&c=v0.59.26#w40) |[zakaz-artemovsk_uah](/payout-services/zakaz-artemovsk_uah/)|`zakaz-artemovsk_uah`| 
+|![zakaz-artemovsk](https://static.openfintech.io/payout_methods/zakaz-artemovsk/icon.svg?w=278&c=v0.59.26#w40) |[zakaz-artemovsk_uah](/payout-services/zakaz-artemovsk_uah/)|`zakaz-artemovsk_uah`| 
  
 
 ## JSON Object 

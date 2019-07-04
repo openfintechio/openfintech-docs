@@ -1,6 +1,6 @@
 
 # DalPay 
-![dalpay](https://static.openfintech.io/vendors/dalpay/logo.png?w=400&c=v0.59.26#w200)  
+![dalpay](https://static.openfintech.io/vendors/dalpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  Postholf 76620 DalvíkIceland
 
 ### Logo 
  
-![dalpay](https://static.openfintech.io/vendors/dalpay/logo.png?w=400&c=v0.59.26#w200)  
+![dalpay](https://static.openfintech.io/vendors/dalpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/dalpay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/dalpay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![dalpay](https://static.openfintech.io/vendors/dalpay/icon.png?w=278&c=v0.59.26#w100)  
+![dalpay](https://static.openfintech.io/vendors/dalpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/dalpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/dalpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

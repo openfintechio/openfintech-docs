@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Magnus (White Chu
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![magnus-belaia-tserkov](https://static.openfintech.io/payout_methods/magnus-belaia-tserkov/icon.png?w=278&c=v0.59.26#w40) |[magnus-belaia-tserkov_uah](/payout-services/magnus-belaia-tserkov_uah/)|`magnus-belaia-tserkov_uah`| 
+|![magnus-belaia-tserkov](https://static.openfintech.io/payout_methods/magnus-belaia-tserkov/icon.svg?w=278&c=v0.59.26#w40) |[magnus-belaia-tserkov_uah](/payout-services/magnus-belaia-tserkov_uah/)|`magnus-belaia-tserkov_uah`| 
  
 
 ## JSON Object 

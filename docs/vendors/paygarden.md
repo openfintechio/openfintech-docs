@@ -1,6 +1,6 @@
 
 # PayGarden 
-![paygarden](https://static.openfintech.io/vendors/paygarden/logo.png?w=400&c=v0.59.26#w200)  
+![paygarden](https://static.openfintech.io/vendors/paygarden/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  548 Market Street #89473 San Francisco, CAUSA
 
 ### Logo 
  
-![paygarden](https://static.openfintech.io/vendors/paygarden/logo.png?w=400&c=v0.59.26#w200)  
+![paygarden](https://static.openfintech.io/vendors/paygarden/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paygarden/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paygarden/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paygarden](https://static.openfintech.io/vendors/paygarden/icon.png?w=278&c=v0.59.26#w100)  
+![paygarden](https://static.openfintech.io/vendors/paygarden/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paygarden/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paygarden/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _OOO Tisa_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ooo-tisa](https://static.openfintech.io/payout_methods/ooo-tisa/icon.png?w=278&c=v0.59.26#w40) |[ooo-tisa_uah](/payout-services/ooo-tisa_uah/)|`ooo-tisa_uah`| 
+|![ooo-tisa](https://static.openfintech.io/payout_methods/ooo-tisa/icon.svg?w=278&c=v0.59.26#w40) |[ooo-tisa_uah](/payout-services/ooo-tisa_uah/)|`ooo-tisa_uah`| 
  
 
 ## JSON Object 

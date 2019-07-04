@@ -1,6 +1,6 @@
 
 # Smile Payments 
-![smilepayments](https://static.openfintech.io/payment_providers/smilepayments/logo.png?w=400&c=v0.59.26#w100)  
+![smilepayments](https://static.openfintech.io/payment_providers/smilepayments/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![smilepayments](https://static.openfintech.io/payment_providers/smilepayments/logo.png?w=400&c=v0.59.26#w100)  
+![smilepayments](https://static.openfintech.io/payment_providers/smilepayments/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/smilepayments/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/smilepayments/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![smilepayments](https://static.openfintech.io/payment_providers/smilepayments/icon.png?w=278&c=v0.59.26#w100)  
+![smilepayments](https://static.openfintech.io/payment_providers/smilepayments/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/smilepayments/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/smilepayments/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # GlobalCloudPay 
-![globalcloudpay](https://static.openfintech.io/vendors/globalcloudpay/logo.png?w=400&c=v0.59.26#w200)  
+![globalcloudpay](https://static.openfintech.io/vendors/globalcloudpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Room 105, software park, Shennan Boulevard, Nanshan District, Shenzhen 
 
 ### Logo 
  
-![globalcloudpay](https://static.openfintech.io/vendors/globalcloudpay/logo.png?w=400&c=v0.59.26#w200)  
+![globalcloudpay](https://static.openfintech.io/vendors/globalcloudpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/globalcloudpay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/globalcloudpay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![globalcloudpay](https://static.openfintech.io/vendors/globalcloudpay/icon.png?w=278&c=v0.59.26#w100)  
+![globalcloudpay](https://static.openfintech.io/vendors/globalcloudpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/globalcloudpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/globalcloudpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

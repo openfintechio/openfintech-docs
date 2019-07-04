@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _UIK (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![uik-kiev](https://static.openfintech.io/payout_methods/uik-kiev/icon.png?w=278&c=v0.59.26#w40) |[uik-kiev_uah](/payout-services/uik-kiev_uah/)|`uik-kiev_uah`| 
+|![uik-kiev](https://static.openfintech.io/payout_methods/uik-kiev/icon.svg?w=278&c=v0.59.26#w40) |[uik-kiev_uah](/payout-services/uik-kiev_uah/)|`uik-kiev_uah`| 
  
 
 ## JSON Object 

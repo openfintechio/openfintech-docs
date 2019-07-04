@@ -1,6 +1,6 @@
 
 # China Minsheng Bank 
-![china_minsheng_bank](https://static.openfintech.io/payment_methods/china_minsheng_bank/logo.png?w=400&c=v0.59.26#w200)  
+![china_minsheng_bank](https://static.openfintech.io/payment_methods/china_minsheng_bank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `china_minsheng_bank` 
@@ -16,10 +16,10 @@
 ## Images 
 
 ### Logo 
-![china_minsheng_bank](https://static.openfintech.io/payment_methods/china_minsheng_bank/logo.png?w=400&c=v0.59.26#w200)  
+![china_minsheng_bank](https://static.openfintech.io/payment_methods/china_minsheng_bank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/china_minsheng_bank/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/china_minsheng_bank/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
@@ -44,7 +44,7 @@ The list of [Payment Providers](/payment-providers/) that support the _China Min
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![paysec](https://static.openfintech.io/payment_providers/paysec/icon.png?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
+|![paysec](https://static.openfintech.io/payment_providers/paysec/icon.svg?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
  
 
 ## JSON Object 

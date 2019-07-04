@@ -1,6 +1,6 @@
 
 # BitMerch 
-![bitmerch](https://static.openfintech.io/vendors/bitmerch/logo.png?w=400&c=v0.59.26#w200)  
+![bitmerch](https://static.openfintech.io/vendors/bitmerch/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  16192 Coastal Highway19958-9776 United States of America
 
 ### Logo 
  
-![bitmerch](https://static.openfintech.io/vendors/bitmerch/logo.png?w=400&c=v0.59.26#w200)  
+![bitmerch](https://static.openfintech.io/vendors/bitmerch/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/bitmerch/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/bitmerch/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![bitmerch](https://static.openfintech.io/vendors/bitmerch/icon.png?w=278&c=v0.59.26#w100)  
+![bitmerch](https://static.openfintech.io/vendors/bitmerch/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/bitmerch/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/bitmerch/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

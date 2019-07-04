@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Smile (Odess
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-smail-odessa](https://static.openfintech.io/payout_methods/taksi-smail-odessa/icon.png?w=278&c=v0.59.26#w40) |[taksi-smail-odessa_uah](/payout-services/taksi-smail-odessa_uah/)|`taksi-smail-odessa_uah`| 
+|![taksi-smail-odessa](https://static.openfintech.io/payout_methods/taksi-smail-odessa/icon.svg?w=278&c=v0.59.26#w40) |[taksi-smail-odessa_uah](/payout-services/taksi-smail-odessa_uah/)|`taksi-smail-odessa_uah`| 
  
 
 ## JSON Object 

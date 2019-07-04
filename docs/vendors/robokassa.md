@@ -1,6 +1,6 @@
 
 # Robokassa 
-![robokassa](https://static.openfintech.io/vendors/robokassa/logo.png?w=400&c=v0.59.26#w200)  
+![robokassa](https://static.openfintech.io/vendors/robokassa/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Kanatchikovsky proezd 1/1119334 MoscowRussian Federation
 
 ### Logo 
  
-![robokassa](https://static.openfintech.io/vendors/robokassa/logo.png?w=400&c=v0.59.26#w200)  
+![robokassa](https://static.openfintech.io/vendors/robokassa/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/robokassa/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/robokassa/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![robokassa](https://static.openfintech.io/vendors/robokassa/icon.png?w=278&c=v0.59.26#w100)  
+![robokassa](https://static.openfintech.io/vendors/robokassa/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/robokassa/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/robokassa/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

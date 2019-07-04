@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Navigator online_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![navigator-onlain](https://static.openfintech.io/payout_methods/navigator-onlain/icon.png?w=278&c=v0.59.26#w40) |[navigator-onlain_uah](/payout-services/navigator-onlain_uah/)|`navigator-onlain_uah`| 
+|![navigator-onlain](https://static.openfintech.io/payout_methods/navigator-onlain/icon.svg?w=278&c=v0.59.26#w40) |[navigator-onlain_uah](/payout-services/navigator-onlain_uah/)|`navigator-onlain_uah`| 
  
 
 ## JSON Object 

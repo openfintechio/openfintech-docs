@@ -1,6 +1,6 @@
 
 # Admeris Payment Systems 
-![admerispaymentsystems](https://static.openfintech.io/vendors/admerispaymentsystems/logo.png?w=400&c=v0.59.26#w200)  
+![admerispaymentsystems](https://static.openfintech.io/vendors/admerispaymentsystems/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  TorontoOntarioCanada
 
 ### Logo 
  
-![admerispaymentsystems](https://static.openfintech.io/vendors/admerispaymentsystems/logo.png?w=400&c=v0.59.26#w200)  
+![admerispaymentsystems](https://static.openfintech.io/vendors/admerispaymentsystems/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/admerispaymentsystems/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/admerispaymentsystems/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![admerispaymentsystems](https://static.openfintech.io/vendors/admerispaymentsystems/icon.png?w=278&c=v0.59.26#w100)  
+![admerispaymentsystems](https://static.openfintech.io/vendors/admerispaymentsystems/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/admerispaymentsystems/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/admerispaymentsystems/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

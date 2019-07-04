@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _CACTUS_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![cactus](https://static.openfintech.io/payout_methods/cactus/icon.png?w=278&c=v0.59.26#w40) |[cactus_uah](/payout-services/cactus_uah/)|`cactus_uah`| 
+|![cactus](https://static.openfintech.io/payout_methods/cactus/icon.svg?w=278&c=v0.59.26#w40) |[cactus_uah](/payout-services/cactus_uah/)|`cactus_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _GRIZLI (Mariupol)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![grizli-mariupol](https://static.openfintech.io/payout_methods/grizli-mariupol/icon.png?w=278&c=v0.59.26#w40) |[grizli-mariupol_uah](/payout-services/grizli-mariupol_uah/)|`grizli-mariupol_uah`| 
+|![grizli-mariupol](https://static.openfintech.io/payout_methods/grizli-mariupol/icon.svg?w=278&c=v0.59.26#w40) |[grizli-mariupol_uah](/payout-services/grizli-mariupol_uah/)|`grizli-mariupol_uah`| 
  
 
 ## JSON Object 

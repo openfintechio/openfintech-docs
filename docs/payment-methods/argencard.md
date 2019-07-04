@@ -1,6 +1,6 @@
 
 # Argencard 
-![argencard](https://static.openfintech.io/payment_methods/argencard/logo.png?w=400&c=v0.59.26#w200)  
+![argencard](https://static.openfintech.io/payment_methods/argencard/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `argencard` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![argencard](https://static.openfintech.io/payment_methods/argencard/logo.png?w=400&c=v0.59.26#w200)  
+![argencard](https://static.openfintech.io/payment_methods/argencard/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/argencard/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/argencard/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![argencard](https://static.openfintech.io/payment_methods/argencard/icon.png?w=278&c=v0.59.26#w100)  
+![argencard](https://static.openfintech.io/payment_methods/argencard/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/argencard/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/argencard/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

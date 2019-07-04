@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Dragon Nest_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![dragon-nest](https://static.openfintech.io/payout_methods/dragon-nest/icon.png?w=278&c=v0.59.26#w40) |[dragon-nest_uah](/payout-services/dragon-nest_uah/)|`dragon-nest_uah`| 
+|![dragon-nest](https://static.openfintech.io/payout_methods/dragon-nest/icon.svg?w=278&c=v0.59.26#w40) |[dragon-nest_uah](/payout-services/dragon-nest_uah/)|`dragon-nest_uah`| 
  
 
 ## JSON Object 

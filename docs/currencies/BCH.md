@@ -1,6 +1,6 @@
 
 # BCH 
-![BCH](https://static.openfintech.io/currencies/BCH/icon.png?w=278&c=v0.59.26#w100)  
+![BCH](https://static.openfintech.io/currencies/BCH/icon.svg?w=278&c=v0.59.26#w100)  
 
 ## General 
  
@@ -29,10 +29,10 @@
 
 ### Icon 
  
-![BCH](https://static.openfintech.io/currencies/BCH/icon.png?w=278&c=v0.59.26#w100)  
+![BCH](https://static.openfintech.io/currencies/BCH/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/currencies/BCH/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/currencies/BCH/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

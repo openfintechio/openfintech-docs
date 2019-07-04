@@ -1,6 +1,6 @@
 
 # mPay24 
-![mpay24](https://static.openfintech.io/payment_providers/mpay24/logo.png?w=400&c=v0.59.26#w100)  
+![mpay24](https://static.openfintech.io/payment_providers/mpay24/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![mpay24](https://static.openfintech.io/payment_providers/mpay24/logo.png?w=400&c=v0.59.26#w100)  
+![mpay24](https://static.openfintech.io/payment_providers/mpay24/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/mpay24/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/mpay24/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![mpay24](https://static.openfintech.io/payment_providers/mpay24/icon.png?w=278&c=v0.59.26#w100)  
+![mpay24](https://static.openfintech.io/payment_providers/mpay24/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/mpay24/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/mpay24/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

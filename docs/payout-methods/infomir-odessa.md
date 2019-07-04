@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _INFOMIR (Odessa)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![infomir-odessa](https://static.openfintech.io/payout_methods/infomir-odessa/icon.png?w=278&c=v0.59.26#w40) |[infomir-odessa_uah](/payout-services/infomir-odessa_uah/)|`infomir-odessa_uah`| 
+|![infomir-odessa](https://static.openfintech.io/payout_methods/infomir-odessa/icon.svg?w=278&c=v0.59.26#w40) |[infomir-odessa_uah](/payout-services/infomir-odessa_uah/)|`infomir-odessa_uah`| 
  
 
 ## JSON Object 

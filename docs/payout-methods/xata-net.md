@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Xata Net_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![xata-net](https://static.openfintech.io/payout_methods/xata-net/icon.png?w=278&c=v0.59.26#w40) |[xata-net_uah](/payout-services/xata-net_uah/)|`xata-net_uah`| 
+|![xata-net](https://static.openfintech.io/payout_methods/xata-net/icon.svg?w=278&c=v0.59.26#w40) |[xata-net_uah](/payout-services/xata-net_uah/)|`xata-net_uah`| 
  
 
 ## JSON Object 

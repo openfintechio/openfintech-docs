@@ -1,6 +1,6 @@
 
 # Servipag 
-![servipag](https://static.openfintech.io/payment_methods/servipag/logo.png?w=400&c=v0.59.26#w200)  
+![servipag](https://static.openfintech.io/payment_methods/servipag/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `servipag` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![servipag](https://static.openfintech.io/payment_methods/servipag/logo.png?w=400&c=v0.59.26#w200)  
+![servipag](https://static.openfintech.io/payment_methods/servipag/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/servipag/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/servipag/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![servipag](https://static.openfintech.io/payment_methods/servipag/icon.png?w=278&c=v0.59.26#w100)  
+![servipag](https://static.openfintech.io/payment_methods/servipag/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/servipag/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/servipag/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

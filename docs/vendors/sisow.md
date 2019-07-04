@@ -1,6 +1,6 @@
 
 # Sisow 
-![sisow](https://static.openfintech.io/vendors/sisow/logo.png?w=400&c=v0.59.26#w200)  
+![sisow](https://static.openfintech.io/vendors/sisow/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  Binnen Parallelweg 145701 PH HelmondNoord-BrabantNetherlands
 
 ### Logo 
  
-![sisow](https://static.openfintech.io/vendors/sisow/logo.png?w=400&c=v0.59.26#w200)  
+![sisow](https://static.openfintech.io/vendors/sisow/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/sisow/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/sisow/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![sisow](https://static.openfintech.io/vendors/sisow/icon.png?w=278&c=v0.59.26#w100)  
+![sisow](https://static.openfintech.io/vendors/sisow/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/sisow/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/sisow/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

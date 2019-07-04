@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi 903_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-903](https://static.openfintech.io/payout_methods/taksi-903/icon.png?w=278&c=v0.59.26#w40) |[taksi-903_uah](/payout-services/taksi-903_uah/)|`taksi-903_uah`| 
+|![taksi-903](https://static.openfintech.io/payout_methods/taksi-903/icon.svg?w=278&c=v0.59.26#w40) |[taksi-903_uah](/payout-services/taksi-903_uah/)|`taksi-903_uah`| 
  
 
 ## JSON Object 

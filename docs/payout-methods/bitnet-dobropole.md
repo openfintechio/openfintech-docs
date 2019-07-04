@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _BiTnet (Dobropoly
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bitnet-dobropole](https://static.openfintech.io/payout_methods/bitnet-dobropole/icon.png?w=278&c=v0.59.26#w40) |[bitnet-dobropole_uah](/payout-services/bitnet-dobropole_uah/)|`bitnet-dobropole_uah`| 
+|![bitnet-dobropole](https://static.openfintech.io/payout_methods/bitnet-dobropole/icon.svg?w=278&c=v0.59.26#w40) |[bitnet-dobropole_uah](/payout-services/bitnet-dobropole_uah/)|`bitnet-dobropole_uah`| 
  
 
 ## JSON Object 

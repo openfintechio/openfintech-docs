@@ -1,6 +1,6 @@
 
 # PAYSBUY 
-![paysbuy](https://static.openfintech.io/payment_methods/paysbuy/logo.png?w=400&c=v0.59.26#w200)  
+![paysbuy](https://static.openfintech.io/payment_methods/paysbuy/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `paysbuy` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![paysbuy](https://static.openfintech.io/payment_methods/paysbuy/logo.png?w=400&c=v0.59.26#w200)  
+![paysbuy](https://static.openfintech.io/payment_methods/paysbuy/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/paysbuy/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/paysbuy/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![paysbuy](https://static.openfintech.io/payment_methods/paysbuy/icon.png?w=278&c=v0.59.26#w100)  
+![paysbuy](https://static.openfintech.io/payment_methods/paysbuy/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/paysbuy/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/paysbuy/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PAYSBUY_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.png?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
+|![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.svg?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
  
 
 ## JSON Object 

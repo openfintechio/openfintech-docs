@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Warface_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![warface](https://static.openfintech.io/payout_methods/warface/icon.png?w=278&c=v0.59.26#w40) |[warface_uah](/payout-services/warface_uah/)|`warface_uah`| 
+|![warface](https://static.openfintech.io/payout_methods/warface/icon.svg?w=278&c=v0.59.26#w40) |[warface_uah](/payout-services/warface_uah/)|`warface_uah`| 
  
 
 ## JSON Object 

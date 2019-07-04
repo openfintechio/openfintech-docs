@@ -1,6 +1,6 @@
 
 # UATP 
-![uatp](https://static.openfintech.io/vendors/uatp/logo.png?w=400&c=v0.59.26#w200)  
+![uatp](https://static.openfintech.io/vendors/uatp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![uatp](https://static.openfintech.io/vendors/uatp/logo.png?w=400&c=v0.59.26#w200)  
+![uatp](https://static.openfintech.io/vendors/uatp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/uatp/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/uatp/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![uatp](https://static.openfintech.io/vendors/uatp/icon.png?w=278&c=v0.59.26#w100)  
+![uatp](https://static.openfintech.io/vendors/uatp/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/uatp/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/uatp/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

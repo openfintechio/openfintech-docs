@@ -1,6 +1,6 @@
 
 # CorvusPay 
-![corvuspay](https://static.openfintech.io/vendors/corvuspay/logo.png?w=400&c=v0.59.26#w200)  
+![corvuspay](https://static.openfintech.io/vendors/corvuspay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Buzinski prilaz 1010010 ZagrebCroatiaCroatia
 
 ### Logo 
  
-![corvuspay](https://static.openfintech.io/vendors/corvuspay/logo.png?w=400&c=v0.59.26#w200)  
+![corvuspay](https://static.openfintech.io/vendors/corvuspay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/corvuspay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/corvuspay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![corvuspay](https://static.openfintech.io/vendors/corvuspay/icon.png?w=278&c=v0.59.26#w100)  
+![corvuspay](https://static.openfintech.io/vendors/corvuspay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/corvuspay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/corvuspay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

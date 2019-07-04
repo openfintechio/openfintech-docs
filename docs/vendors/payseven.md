@@ -1,6 +1,6 @@
 
 # PaySeven 
-![payseven](https://static.openfintech.io/vendors/payseven/logo.png?w=400&c=v0.59.26#w200)  
+![payseven](https://static.openfintech.io/vendors/payseven/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Hospitalu Str. 71013 RigaLatvia
 
 ### Logo 
  
-![payseven](https://static.openfintech.io/vendors/payseven/logo.png?w=400&c=v0.59.26#w200)  
+![payseven](https://static.openfintech.io/vendors/payseven/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payseven/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payseven/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payseven](https://static.openfintech.io/vendors/payseven/icon.png?w=278&c=v0.59.26#w100)  
+![payseven](https://static.openfintech.io/vendors/payseven/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payseven/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payseven/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

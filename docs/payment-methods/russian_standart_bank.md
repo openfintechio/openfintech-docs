@@ -1,6 +1,6 @@
 
 # Russian Standard Bank 
-![russian_standart_bank](https://static.openfintech.io/payment_methods/russian_standart_bank/logo.png?w=400&c=v0.59.26#w200)  
+![russian_standart_bank](https://static.openfintech.io/payment_methods/russian_standart_bank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `russian_standart_bank` 
@@ -19,17 +19,17 @@
 ## Images 
 
 ### Logo 
-![russian_standart_bank](https://static.openfintech.io/payment_methods/russian_standart_bank/logo.png?w=400&c=v0.59.26#w200)  
+![russian_standart_bank](https://static.openfintech.io/payment_methods/russian_standart_bank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/russian_standart_bank/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/russian_standart_bank/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![russian_standart_bank](https://static.openfintech.io/payment_methods/russian_standart_bank/icon.png?w=278&c=v0.59.26#w100)  
+![russian_standart_bank](https://static.openfintech.io/payment_methods/russian_standart_bank/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/russian_standart_bank/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/russian_standart_bank/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

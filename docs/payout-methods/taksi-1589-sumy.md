@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi 1589 (Sumy)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-1589-sumy](https://static.openfintech.io/payout_methods/taksi-1589-sumy/icon.png?w=278&c=v0.59.26#w40) |[taksi-1589-sumy_uah](/payout-services/taksi-1589-sumy_uah/)|`taksi-1589-sumy_uah`| 
+|![taksi-1589-sumy](https://static.openfintech.io/payout_methods/taksi-1589-sumy/icon.svg?w=278&c=v0.59.26#w40) |[taksi-1589-sumy_uah](/payout-services/taksi-1589-sumy_uah/)|`taksi-1589-sumy_uah`| 
  
 
 ## JSON Object 

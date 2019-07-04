@@ -1,6 +1,6 @@
 
 # Coinify 
-![coinify](https://static.openfintech.io/payment_providers/coinify/logo.png?w=400&c=v0.59.26#w100)  
+![coinify](https://static.openfintech.io/payment_providers/coinify/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![coinify](https://static.openfintech.io/payment_providers/coinify/logo.png?w=400&c=v0.59.26#w100)  
+![coinify](https://static.openfintech.io/payment_providers/coinify/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/coinify/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/coinify/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![coinify](https://static.openfintech.io/payment_providers/coinify/icon.png?w=278&c=v0.59.26#w100)  
+![coinify](https://static.openfintech.io/payment_providers/coinify/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/coinify/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/coinify/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

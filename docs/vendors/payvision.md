@@ -1,6 +1,6 @@
 
 # Payvision 
-![payvision](https://static.openfintech.io/vendors/payvision/logo.png?w=400&c=v0.59.26#w200)  
+![payvision](https://static.openfintech.io/vendors/payvision/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  Molenpad 21016 GM AmsterdamNetherlands
 
 ### Logo 
  
-![payvision](https://static.openfintech.io/vendors/payvision/logo.png?w=400&c=v0.59.26#w200)  
+![payvision](https://static.openfintech.io/vendors/payvision/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payvision/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payvision/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payvision](https://static.openfintech.io/vendors/payvision/icon.png?w=278&c=v0.59.26#w100)  
+![payvision](https://static.openfintech.io/vendors/payvision/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payvision/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payvision/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

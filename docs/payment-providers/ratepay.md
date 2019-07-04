@@ -1,6 +1,6 @@
 
 # RatePAY 
-![ratepay](https://static.openfintech.io/payment_providers/ratepay/logo.png?w=400&c=v0.59.26#w100)  
+![ratepay](https://static.openfintech.io/payment_providers/ratepay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![ratepay](https://static.openfintech.io/payment_providers/ratepay/logo.png?w=400&c=v0.59.26#w100)  
+![ratepay](https://static.openfintech.io/payment_providers/ratepay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/ratepay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/ratepay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![ratepay](https://static.openfintech.io/payment_providers/ratepay/icon.png?w=278&c=v0.59.26#w100)  
+![ratepay](https://static.openfintech.io/payment_providers/ratepay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/ratepay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/ratepay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

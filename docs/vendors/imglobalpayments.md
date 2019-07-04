@@ -1,6 +1,6 @@
 
 # ImGlobal Payments 
-![imglobalpayments](https://static.openfintech.io/vendors/imglobalpayments/logo.png?w=400&c=v0.59.26#w200)  
+![imglobalpayments](https://static.openfintech.io/vendors/imglobalpayments/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  3 Dolev St., Suite 847409
 
 ### Logo 
  
-![imglobalpayments](https://static.openfintech.io/vendors/imglobalpayments/logo.png?w=400&c=v0.59.26#w200)  
+![imglobalpayments](https://static.openfintech.io/vendors/imglobalpayments/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/imglobalpayments/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/imglobalpayments/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![imglobalpayments](https://static.openfintech.io/vendors/imglobalpayments/icon.png?w=278&c=v0.59.26#w100)  
+![imglobalpayments](https://static.openfintech.io/vendors/imglobalpayments/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/imglobalpayments/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/imglobalpayments/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

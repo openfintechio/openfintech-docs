@@ -1,6 +1,6 @@
 
 # PayNearMe 
-![paynearme](https://static.openfintech.io/payment_methods/paynearme/logo.png?w=400&c=v0.59.26#w200)  
+![paynearme](https://static.openfintech.io/payment_methods/paynearme/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `paynearme` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![paynearme](https://static.openfintech.io/payment_methods/paynearme/logo.png?w=400&c=v0.59.26#w200)  
+![paynearme](https://static.openfintech.io/payment_methods/paynearme/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/paynearme/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/paynearme/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![paynearme](https://static.openfintech.io/payment_methods/paynearme/icon.png?w=278&c=v0.59.26#w100)  
+![paynearme](https://static.openfintech.io/payment_methods/paynearme/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/paynearme/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/paynearme/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PayNearMe
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
  
 
 ## JSON Object 

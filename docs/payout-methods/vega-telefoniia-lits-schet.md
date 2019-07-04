@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Vega telephony (p
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![vega-telefoniia-lits-schet](https://static.openfintech.io/payout_methods/vega-telefoniia-lits-schet/icon.png?w=278&c=v0.59.26#w40) |[vega-telefoniia-lits-schet_uah](/payout-services/vega-telefoniia-lits-schet_uah/)|`vega-telefoniia-lits-schet_uah`| 
+|![vega-telefoniia-lits-schet](https://static.openfintech.io/payout_methods/vega-telefoniia-lits-schet/icon.svg?w=278&c=v0.59.26#w40) |[vega-telefoniia-lits-schet_uah](/payout-services/vega-telefoniia-lits-schet_uah/)|`vega-telefoniia-lits-schet_uah`| 
  
 
 ## JSON Object 

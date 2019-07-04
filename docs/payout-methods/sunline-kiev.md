@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Sunline (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![sunline-kiev](https://static.openfintech.io/payout_methods/sunline-kiev/icon.png?w=278&c=v0.59.26#w40) |[sunline-kiev_uah](/payout-services/sunline-kiev_uah/)|`sunline-kiev_uah`| 
+|![sunline-kiev](https://static.openfintech.io/payout_methods/sunline-kiev/icon.svg?w=278&c=v0.59.26#w40) |[sunline-kiev_uah](/payout-services/sunline-kiev_uah/)|`sunline-kiev_uah`| 
  
 
 ## JSON Object 

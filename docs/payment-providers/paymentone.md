@@ -1,6 +1,6 @@
 
 # PaymentOne 
-![paymentone](https://static.openfintech.io/payment_providers/paymentone/logo.png?w=400&c=v0.59.26#w100)  
+![paymentone](https://static.openfintech.io/payment_providers/paymentone/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![paymentone](https://static.openfintech.io/payment_providers/paymentone/logo.png?w=400&c=v0.59.26#w100)  
+![paymentone](https://static.openfintech.io/payment_providers/paymentone/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paymentone/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paymentone/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![paymentone](https://static.openfintech.io/payment_providers/paymentone/icon.png?w=278&c=v0.59.26#w100)  
+![paymentone](https://static.openfintech.io/payment_providers/paymentone/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paymentone/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paymentone/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

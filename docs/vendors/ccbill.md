@@ -1,6 +1,6 @@
 
 # CCBill 
-![ccbill](https://static.openfintech.io/vendors/ccbill/logo.png?w=400&c=v0.59.26#w200)  
+![ccbill](https://static.openfintech.io/vendors/ccbill/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Tempe, AZ Tempe, AZUnited States of America
 
 ### Logo 
  
-![ccbill](https://static.openfintech.io/vendors/ccbill/logo.png?w=400&c=v0.59.26#w200)  
+![ccbill](https://static.openfintech.io/vendors/ccbill/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ccbill/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ccbill/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ccbill](https://static.openfintech.io/vendors/ccbill/icon.png?w=278&c=v0.59.26#w100)  
+![ccbill](https://static.openfintech.io/vendors/ccbill/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ccbill/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ccbill/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

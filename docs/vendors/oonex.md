@@ -1,6 +1,6 @@
 
 # Oonex 
-![oonex](https://static.openfintech.io/vendors/oonex/logo.png?w=400&c=v0.59.26#w200)  
+![oonex](https://static.openfintech.io/vendors/oonex/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Belgium
 
 ### Logo 
  
-![oonex](https://static.openfintech.io/vendors/oonex/logo.png?w=400&c=v0.59.26#w200)  
+![oonex](https://static.openfintech.io/vendors/oonex/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/oonex/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/oonex/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![oonex](https://static.openfintech.io/vendors/oonex/icon.png?w=278&c=v0.59.26#w100)  
+![oonex](https://static.openfintech.io/vendors/oonex/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/oonex/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/oonex/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

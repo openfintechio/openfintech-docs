@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Avatarika_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![avatarika](https://static.openfintech.io/payout_methods/avatarika/icon.png?w=278&c=v0.59.26#w40) |[avatarika_uah](/payout-services/avatarika_uah/)|`avatarika_uah`| 
+|![avatarika](https://static.openfintech.io/payout_methods/avatarika/icon.svg?w=278&c=v0.59.26#w40) |[avatarika_uah](/payout-services/avatarika_uah/)|`avatarika_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi 7727 (Mariup
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-7727-mariupol](https://static.openfintech.io/payout_methods/taksi-7727-mariupol/icon.png?w=278&c=v0.59.26#w40) |[taksi-7727-mariupol_uah](/payout-services/taksi-7727-mariupol_uah/)|`taksi-7727-mariupol_uah`| 
+|![taksi-7727-mariupol](https://static.openfintech.io/payout_methods/taksi-7727-mariupol/icon.svg?w=278&c=v0.59.26#w40) |[taksi-7727-mariupol_uah](/payout-services/taksi-7727-mariupol_uah/)|`taksi-7727-mariupol_uah`| 
  
 
 ## JSON Object 

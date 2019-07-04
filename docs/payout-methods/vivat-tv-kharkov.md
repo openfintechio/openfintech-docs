@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _VIVAT TV (Kharkov
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![vivat-tv-kharkov](https://static.openfintech.io/payout_methods/vivat-tv-kharkov/icon.png?w=278&c=v0.59.26#w40) |[vivat-tv-kharkov_uah](/payout-services/vivat-tv-kharkov_uah/)|`vivat-tv-kharkov_uah`| 
+|![vivat-tv-kharkov](https://static.openfintech.io/payout_methods/vivat-tv-kharkov/icon.svg?w=278&c=v0.59.26#w40) |[vivat-tv-kharkov_uah](/payout-services/vivat-tv-kharkov_uah/)|`vivat-tv-kharkov_uah`| 
  
 
 ## JSON Object 

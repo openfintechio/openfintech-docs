@@ -1,6 +1,6 @@
 
 # Everi 
-![everi](https://static.openfintech.io/payment_methods/everi/logo.png?w=400&c=v0.59.26#w200)  
+![everi](https://static.openfintech.io/payment_methods/everi/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `everi` 
@@ -21,17 +21,17 @@
 ## Images 
 
 ### Logo 
-![everi](https://static.openfintech.io/payment_methods/everi/logo.png?w=400&c=v0.59.26#w200)  
+![everi](https://static.openfintech.io/payment_methods/everi/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/everi/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/everi/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![everi](https://static.openfintech.io/payment_methods/everi/icon.png?w=278&c=v0.59.26#w100)  
+![everi](https://static.openfintech.io/payment_methods/everi/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/everi/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/everi/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

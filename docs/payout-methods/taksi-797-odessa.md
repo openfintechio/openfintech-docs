@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi 797 (Odessa)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-797-odessa](https://static.openfintech.io/payout_methods/taksi-797-odessa/icon.png?w=278&c=v0.59.26#w40) |[taksi-797-odessa_uah](/payout-services/taksi-797-odessa_uah/)|`taksi-797-odessa_uah`| 
+|![taksi-797-odessa](https://static.openfintech.io/payout_methods/taksi-797-odessa/icon.svg?w=278&c=v0.59.26#w40) |[taksi-797-odessa_uah](/payout-services/taksi-797-odessa_uah/)|`taksi-797-odessa_uah`| 
  
 
 ## JSON Object 

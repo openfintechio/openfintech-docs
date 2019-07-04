@@ -1,6 +1,6 @@
 
 # Promsvyazbank 
-![promsvyazbank](https://static.openfintech.io/payment_methods/promsvyazbank/logo.png?w=400&c=v0.59.26#w200)  
+![promsvyazbank](https://static.openfintech.io/payment_methods/promsvyazbank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `promsvyazbank` 
@@ -16,17 +16,17 @@
 ## Images 
 
 ### Logo 
-![promsvyazbank](https://static.openfintech.io/payment_methods/promsvyazbank/logo.png?w=400&c=v0.59.26#w200)  
+![promsvyazbank](https://static.openfintech.io/payment_methods/promsvyazbank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/promsvyazbank/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/promsvyazbank/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![promsvyazbank](https://static.openfintech.io/payment_methods/promsvyazbank/icon.png?w=278&c=v0.59.26#w100)  
+![promsvyazbank](https://static.openfintech.io/payment_methods/promsvyazbank/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/promsvyazbank/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/promsvyazbank/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

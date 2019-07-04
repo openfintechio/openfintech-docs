@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ДМС (Іван�
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![dms-ivano-frankivska-obl](https://static.openfintech.io/payout_methods/dms-ivano-frankivska-obl/icon.png?w=278&c=v0.59.26#w40) |[dms-ivano-frankivska-obl_uah](/payout-services/dms-ivano-frankivska-obl_uah/)|`dms-ivano-frankivska-obl_uah`| 
+|![dms-ivano-frankivska-obl](https://static.openfintech.io/payout_methods/dms-ivano-frankivska-obl/icon.svg?w=278&c=v0.59.26#w40) |[dms-ivano-frankivska-obl_uah](/payout-services/dms-ivano-frankivska-obl_uah/)|`dms-ivano-frankivska-obl_uah`| 
  
 
 ## JSON Object 

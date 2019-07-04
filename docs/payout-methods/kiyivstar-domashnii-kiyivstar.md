@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Kyivstar - home K
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kiyivstar-domashnii-kiyivstar](https://static.openfintech.io/payout_methods/kiyivstar-domashnii-kiyivstar/icon.png?w=278&c=v0.59.26#w40) |[kiyivstar-domashnii-kiyivstar_uah](/payout-services/kiyivstar-domashnii-kiyivstar_uah/)|`kiyivstar-domashnii-kiyivstar_uah`| 
+|![kiyivstar-domashnii-kiyivstar](https://static.openfintech.io/payout_methods/kiyivstar-domashnii-kiyivstar/icon.svg?w=278&c=v0.59.26#w40) |[kiyivstar-domashnii-kiyivstar_uah](/payout-services/kiyivstar-domashnii-kiyivstar_uah/)|`kiyivstar-domashnii-kiyivstar_uah`| 
  
 
 ## JSON Object 

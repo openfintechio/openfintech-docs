@@ -1,6 +1,6 @@
 
 # KBC / CBC Online 
-![kbcbetaalknop](https://static.openfintech.io/vendors/kbcbetaalknop/logo.png?w=400&c=v0.59.26#w200)  
+![kbcbetaalknop](https://static.openfintech.io/vendors/kbcbetaalknop/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@ email: pressofficekbc@kbc.bephone: + 32 2 429 81 60
 
 ### Logo 
  
-![kbcbetaalknop](https://static.openfintech.io/vendors/kbcbetaalknop/logo.png?w=400&c=v0.59.26#w200)  
+![kbcbetaalknop](https://static.openfintech.io/vendors/kbcbetaalknop/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/kbcbetaalknop/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/kbcbetaalknop/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![kbcbetaalknop](https://static.openfintech.io/vendors/kbcbetaalknop/icon.png?w=278&c=v0.59.26#w100)  
+![kbcbetaalknop](https://static.openfintech.io/vendors/kbcbetaalknop/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/kbcbetaalknop/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/kbcbetaalknop/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

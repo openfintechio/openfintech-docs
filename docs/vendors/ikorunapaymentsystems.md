@@ -1,6 +1,6 @@
 
 # IKoruna 
-![ikorunapaymentsystems](https://static.openfintech.io/vendors/ikorunapaymentsystems/logo.png?w=400&c=v0.59.26#w200)  
+![ikorunapaymentsystems](https://static.openfintech.io/vendors/ikorunapaymentsystems/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  1009/24, Hybernska street1 11000 PragueCzech Republic
 
 ### Logo 
  
-![ikorunapaymentsystems](https://static.openfintech.io/vendors/ikorunapaymentsystems/logo.png?w=400&c=v0.59.26#w200)  
+![ikorunapaymentsystems](https://static.openfintech.io/vendors/ikorunapaymentsystems/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ikorunapaymentsystems/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ikorunapaymentsystems/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ikorunapaymentsystems](https://static.openfintech.io/vendors/ikorunapaymentsystems/icon.png?w=278&c=v0.59.26#w100)  
+![ikorunapaymentsystems](https://static.openfintech.io/vendors/ikorunapaymentsystems/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ikorunapaymentsystems/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ikorunapaymentsystems/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

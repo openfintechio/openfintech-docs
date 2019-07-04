@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Planet Broadcasti
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![trk-planeta-chernivtsi](https://static.openfintech.io/payout_methods/trk-planeta-chernivtsi/icon.png?w=278&c=v0.59.26#w40) |[trk-planeta-chernivtsi_uah](/payout-services/trk-planeta-chernivtsi_uah/)|`trk-planeta-chernivtsi_uah`| 
+|![trk-planeta-chernivtsi](https://static.openfintech.io/payout_methods/trk-planeta-chernivtsi/icon.svg?w=278&c=v0.59.26#w40) |[trk-planeta-chernivtsi_uah](/payout-services/trk-planeta-chernivtsi_uah/)|`trk-planeta-chernivtsi_uah`| 
  
 
 ## JSON Object 

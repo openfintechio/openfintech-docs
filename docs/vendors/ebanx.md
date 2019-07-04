@@ -1,6 +1,6 @@
 
 # EBANX 
-![ebanx](https://static.openfintech.io/vendors/ebanx/logo.png?w=400&c=v0.59.26#w200)  
+![ebanx](https://static.openfintech.io/vendors/ebanx/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Marechal Deodoro, 630 Auditorio San Marco Square - Centro80010-912 Curi
 
 ### Logo 
  
-![ebanx](https://static.openfintech.io/vendors/ebanx/logo.png?w=400&c=v0.59.26#w200)  
+![ebanx](https://static.openfintech.io/vendors/ebanx/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ebanx/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ebanx/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ebanx](https://static.openfintech.io/vendors/ebanx/icon.png?w=278&c=v0.59.26#w100)  
+![ebanx](https://static.openfintech.io/vendors/ebanx/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ebanx/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ebanx/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

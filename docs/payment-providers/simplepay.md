@@ -1,6 +1,6 @@
 
 # SimplePay 
-![simplepay](https://static.openfintech.io/payment_providers/simplepay/logo.png?w=400&c=v0.59.26#w100)  
+![simplepay](https://static.openfintech.io/payment_providers/simplepay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![simplepay](https://static.openfintech.io/payment_providers/simplepay/logo.png?w=400&c=v0.59.26#w100)  
+![simplepay](https://static.openfintech.io/payment_providers/simplepay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/simplepay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/simplepay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![simplepay](https://static.openfintech.io/payment_providers/simplepay/icon.png?w=278&c=v0.59.26#w100)  
+![simplepay](https://static.openfintech.io/payment_providers/simplepay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/simplepay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/simplepay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

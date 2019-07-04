@@ -1,6 +1,6 @@
 
 # Escalion 
-![escalion](https://static.openfintech.io/payment_providers/escalion/logo.png?w=400&c=v0.59.26#w100)  
+![escalion](https://static.openfintech.io/payment_providers/escalion/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![escalion](https://static.openfintech.io/payment_providers/escalion/logo.png?w=400&c=v0.59.26#w100)  
+![escalion](https://static.openfintech.io/payment_providers/escalion/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/escalion/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/escalion/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![escalion](https://static.openfintech.io/payment_providers/escalion/icon.png?w=278&c=v0.59.26#w100)  
+![escalion](https://static.openfintech.io/payment_providers/escalion/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/escalion/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/escalion/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

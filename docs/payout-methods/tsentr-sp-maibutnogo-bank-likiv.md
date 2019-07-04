@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Maybutnogo SP Cen
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tsentr-sp-maibutnogo-bank-likiv](https://static.openfintech.io/payout_methods/tsentr-sp-maibutnogo-bank-likiv/icon.png?w=278&c=v0.59.26#w40) |[tsentr-sp-maibutnogo-bank-likiv_uah](/payout-services/tsentr-sp-maibutnogo-bank-likiv_uah/)|`tsentr-sp-maibutnogo-bank-likiv_uah`| 
+|![tsentr-sp-maibutnogo-bank-likiv](https://static.openfintech.io/payout_methods/tsentr-sp-maibutnogo-bank-likiv/icon.svg?w=278&c=v0.59.26#w40) |[tsentr-sp-maibutnogo-bank-likiv_uah](/payout-services/tsentr-sp-maibutnogo-bank-likiv_uah/)|`tsentr-sp-maibutnogo-bank-likiv_uah`| 
  
 
 ## JSON Object 

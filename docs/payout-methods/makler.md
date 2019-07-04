@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Broker_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![makler](https://static.openfintech.io/payout_methods/makler/icon.png?w=278&c=v0.59.26#w40) |[makler_uah](/payout-services/makler_uah/)|`makler_uah`| 
+|![makler](https://static.openfintech.io/payout_methods/makler/icon.svg?w=278&c=v0.59.26#w40) |[makler_uah](/payout-services/makler_uah/)|`makler_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # PayFast 
-![payfast](https://static.openfintech.io/vendors/payfast/logo.png?w=400&c=v0.59.26#w200)  
+![payfast](https://static.openfintech.io/vendors/payfast/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  PO Box 270217872 Cape TownSouth Africa
 
 ### Logo 
  
-![payfast](https://static.openfintech.io/vendors/payfast/logo.png?w=400&c=v0.59.26#w200)  
+![payfast](https://static.openfintech.io/vendors/payfast/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payfast/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payfast/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payfast](https://static.openfintech.io/vendors/payfast/icon.png?w=278&c=v0.59.26#w100)  
+![payfast](https://static.openfintech.io/vendors/payfast/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payfast/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payfast/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

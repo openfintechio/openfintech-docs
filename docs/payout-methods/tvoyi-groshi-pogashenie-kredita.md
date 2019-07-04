@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Your Tips - Loan 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tvoyi-groshi-pogashenie-kredita](https://static.openfintech.io/payout_methods/tvoyi-groshi-pogashenie-kredita/icon.png?w=278&c=v0.59.26#w40) |[tvoyi-groshi-pogashenie-kredita_uah](/payout-services/tvoyi-groshi-pogashenie-kredita_uah/)|`tvoyi-groshi-pogashenie-kredita_uah`| 
+|![tvoyi-groshi-pogashenie-kredita](https://static.openfintech.io/payout_methods/tvoyi-groshi-pogashenie-kredita/icon.svg?w=278&c=v0.59.26#w40) |[tvoyi-groshi-pogashenie-kredita_uah](/payout-services/tvoyi-groshi-pogashenie-kredita_uah/)|`tvoyi-groshi-pogashenie-kredita_uah`| 
  
 
 ## JSON Object 

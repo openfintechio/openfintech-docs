@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Inexpensive 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-nedorogo-zaporozhe](https://static.openfintech.io/payout_methods/taksi-nedorogo-zaporozhe/icon.png?w=278&c=v0.59.26#w40) |[taksi-nedorogo-zaporozhe_uah](/payout-services/taksi-nedorogo-zaporozhe_uah/)|`taksi-nedorogo-zaporozhe_uah`| 
+|![taksi-nedorogo-zaporozhe](https://static.openfintech.io/payout_methods/taksi-nedorogo-zaporozhe/icon.svg?w=278&c=v0.59.26#w40) |[taksi-nedorogo-zaporozhe_uah](/payout-services/taksi-nedorogo-zaporozhe_uah/)|`taksi-nedorogo-zaporozhe_uah`| 
  
 
 ## JSON Object 

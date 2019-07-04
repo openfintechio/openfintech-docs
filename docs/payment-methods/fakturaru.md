@@ -1,6 +1,6 @@
 
 # Faktura 
-![fakturaru](https://static.openfintech.io/payment_methods/fakturaru/logo.png?w=400&c=v0.59.26#w200)  
+![fakturaru](https://static.openfintech.io/payment_methods/fakturaru/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `fakturaru` 
@@ -15,17 +15,17 @@
 ## Images 
 
 ### Logo 
-![fakturaru](https://static.openfintech.io/payment_methods/fakturaru/logo.png?w=400&c=v0.59.26#w200)  
+![fakturaru](https://static.openfintech.io/payment_methods/fakturaru/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/fakturaru/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/fakturaru/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![fakturaru](https://static.openfintech.io/payment_methods/fakturaru/icon.png?w=278&c=v0.59.26#w100)  
+![fakturaru](https://static.openfintech.io/payment_methods/fakturaru/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/fakturaru/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/fakturaru/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

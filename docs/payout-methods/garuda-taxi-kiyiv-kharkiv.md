@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Garuda taxi (Kiev
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![garuda-taxi-kiyiv-kharkiv](https://static.openfintech.io/payout_methods/garuda-taxi-kiyiv-kharkiv/icon.png?w=278&c=v0.59.26#w40) |[garuda-taxi-kiyiv-kharkiv_uah](/payout-services/garuda-taxi-kiyiv-kharkiv_uah/)|`garuda-taxi-kiyiv-kharkiv_uah`| 
+|![garuda-taxi-kiyiv-kharkiv](https://static.openfintech.io/payout_methods/garuda-taxi-kiyiv-kharkiv/icon.svg?w=278&c=v0.59.26#w40) |[garuda-taxi-kiyiv-kharkiv_uah](/payout-services/garuda-taxi-kiyiv-kharkiv_uah/)|`garuda-taxi-kiyiv-kharkiv_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Maxi Taxi (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![maksi-taksi-kiev](https://static.openfintech.io/payout_methods/maksi-taksi-kiev/icon.png?w=278&c=v0.59.26#w40) |[maksi-taksi-kiev_uah](/payout-services/maksi-taksi-kiev_uah/)|`maksi-taksi-kiev_uah`| 
+|![maksi-taksi-kiev](https://static.openfintech.io/payout_methods/maksi-taksi-kiev/icon.svg?w=278&c=v0.59.26#w40) |[maksi-taksi-kiev_uah](/payout-services/maksi-taksi-kiev_uah/)|`maksi-taksi-kiev_uah`| 
  
 
 ## JSON Object 

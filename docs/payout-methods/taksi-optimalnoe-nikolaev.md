@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Optimal (Nik
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-optimalnoe-nikolaev](https://static.openfintech.io/payout_methods/taksi-optimalnoe-nikolaev/icon.png?w=278&c=v0.59.26#w40) |[taksi-optimalnoe-nikolaev_uah](/payout-services/taksi-optimalnoe-nikolaev_uah/)|`taksi-optimalnoe-nikolaev_uah`| 
+|![taksi-optimalnoe-nikolaev](https://static.openfintech.io/payout_methods/taksi-optimalnoe-nikolaev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-optimalnoe-nikolaev_uah](/payout-services/taksi-optimalnoe-nikolaev_uah/)|`taksi-optimalnoe-nikolaev_uah`| 
  
 
 ## JSON Object 

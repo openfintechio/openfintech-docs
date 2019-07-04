@@ -1,6 +1,6 @@
 
 # Smile Payments 
-![smilepayments](https://static.openfintech.io/vendors/smilepayments/logo.png?w=400&c=v0.59.26#w200)  
+![smilepayments](https://static.openfintech.io/vendors/smilepayments/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Av Chivilcoy 3157 2nd Floor App “D”CP 1417 Buenos AiresArgentina
 
 ### Logo 
  
-![smilepayments](https://static.openfintech.io/vendors/smilepayments/logo.png?w=400&c=v0.59.26#w200)  
+![smilepayments](https://static.openfintech.io/vendors/smilepayments/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/smilepayments/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/smilepayments/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![smilepayments](https://static.openfintech.io/vendors/smilepayments/icon.png?w=278&c=v0.59.26#w100)  
+![smilepayments](https://static.openfintech.io/vendors/smilepayments/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/smilepayments/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/smilepayments/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

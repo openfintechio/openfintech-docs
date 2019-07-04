@@ -1,6 +1,6 @@
 
 # KeyCollect 
-![keycollect](https://static.openfintech.io/vendors/keycollect/logo.png?w=400&c=v0.59.26#w200)  
+![keycollect](https://static.openfintech.io/vendors/keycollect/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Zollikerstrasse 1538008 Switzerland
 
 ### Logo 
  
-![keycollect](https://static.openfintech.io/vendors/keycollect/logo.png?w=400&c=v0.59.26#w200)  
+![keycollect](https://static.openfintech.io/vendors/keycollect/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/keycollect/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/keycollect/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![keycollect](https://static.openfintech.io/vendors/keycollect/icon.png?w=278&c=v0.59.26#w100)  
+![keycollect](https://static.openfintech.io/vendors/keycollect/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/keycollect/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/keycollect/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

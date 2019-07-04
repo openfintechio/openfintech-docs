@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Cabaret Coupon (K
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kabare-kupon-kiev](https://static.openfintech.io/payout_methods/kabare-kupon-kiev/icon.png?w=278&c=v0.59.26#w40) |[kabare-kupon-kiev_uah](/payout-services/kabare-kupon-kiev_uah/)|`kabare-kupon-kiev_uah`| 
+|![kabare-kupon-kiev](https://static.openfintech.io/payout_methods/kabare-kupon-kiev/icon.svg?w=278&c=v0.59.26#w40) |[kabare-kupon-kiev_uah](/payout-services/kabare-kupon-kiev_uah/)|`kabare-kupon-kiev_uah`| 
  
 
 ## JSON Object 

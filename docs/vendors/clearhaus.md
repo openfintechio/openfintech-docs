@@ -1,6 +1,6 @@
 
 # Clearhaus 
-![clearhaus](https://static.openfintech.io/vendors/clearhaus/logo.png?w=400&c=v0.59.26#w200)  
+![clearhaus](https://static.openfintech.io/vendors/clearhaus/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  P.O.Pedersens Vej 148200 Aarhus NDenmark
 
 ### Logo 
  
-![clearhaus](https://static.openfintech.io/vendors/clearhaus/logo.png?w=400&c=v0.59.26#w200)  
+![clearhaus](https://static.openfintech.io/vendors/clearhaus/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/clearhaus/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/clearhaus/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![clearhaus](https://static.openfintech.io/vendors/clearhaus/icon.png?w=278&c=v0.59.26#w100)  
+![clearhaus](https://static.openfintech.io/vendors/clearhaus/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/clearhaus/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/clearhaus/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

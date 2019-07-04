@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Jem (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-dzhem-kiev](https://static.openfintech.io/payout_methods/taksi-dzhem-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-dzhem-kiev_uah](/payout-services/taksi-dzhem-kiev_uah/)|`taksi-dzhem-kiev_uah`| 
+|![taksi-dzhem-kiev](https://static.openfintech.io/payout_methods/taksi-dzhem-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-dzhem-kiev_uah](/payout-services/taksi-dzhem-kiev_uah/)|`taksi-dzhem-kiev_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Digital River World Payments 
-![digitalriverworldpayments](https://static.openfintech.io/vendors/digitalriverworldpayments/logo.png?w=400&c=v0.59.26#w200)  
+![digitalriverworldpayments](https://static.openfintech.io/vendors/digitalriverworldpayments/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Textilgatan 31123 39 StockholmSweden
 
 ### Logo 
  
-![digitalriverworldpayments](https://static.openfintech.io/vendors/digitalriverworldpayments/logo.png?w=400&c=v0.59.26#w200)  
+![digitalriverworldpayments](https://static.openfintech.io/vendors/digitalriverworldpayments/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/digitalriverworldpayments/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/digitalriverworldpayments/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![digitalriverworldpayments](https://static.openfintech.io/vendors/digitalriverworldpayments/icon.png?w=278&c=v0.59.26#w100)  
+![digitalriverworldpayments](https://static.openfintech.io/vendors/digitalriverworldpayments/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/digitalriverworldpayments/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/digitalriverworldpayments/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

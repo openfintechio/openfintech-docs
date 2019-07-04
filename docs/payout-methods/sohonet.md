@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _SOHONET_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![sohonet](https://static.openfintech.io/payout_methods/sohonet/icon.png?w=278&c=v0.59.26#w40) |[sohonet_uah](/payout-services/sohonet_uah/)|`sohonet_uah`| 
+|![sohonet](https://static.openfintech.io/payout_methods/sohonet/icon.svg?w=278&c=v0.59.26#w40) |[sohonet_uah](/payout-services/sohonet_uah/)|`sohonet_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _PointBlank_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![pointblank](https://static.openfintech.io/payout_methods/pointblank/icon.png?w=278&c=v0.59.26#w40) |[pointblank_uah](/payout-services/pointblank_uah/)|`pointblank_uah`| 
+|![pointblank](https://static.openfintech.io/payout_methods/pointblank/icon.svg?w=278&c=v0.59.26#w40) |[pointblank_uah](/payout-services/pointblank_uah/)|`pointblank_uah`| 
  
 
 ## JSON Object 

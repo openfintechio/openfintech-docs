@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi RED (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-red-kiev](https://static.openfintech.io/payout_methods/taksi-red-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-red-kiev_uah](/payout-services/taksi-red-kiev_uah/)|`taksi-red-kiev_uah`| 
+|![taksi-red-kiev](https://static.openfintech.io/payout_methods/taksi-red-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-red-kiev_uah](/payout-services/taksi-red-kiev_uah/)|`taksi-red-kiev_uah`| 
  
 
 ## JSON Object 

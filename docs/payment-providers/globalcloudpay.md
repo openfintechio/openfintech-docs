@@ -1,6 +1,6 @@
 
 # GlobalCloudPay 
-![globalcloudpay](https://static.openfintech.io/payment_providers/globalcloudpay/logo.png?w=400&c=v0.59.26#w100)  
+![globalcloudpay](https://static.openfintech.io/payment_providers/globalcloudpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![globalcloudpay](https://static.openfintech.io/payment_providers/globalcloudpay/logo.png?w=400&c=v0.59.26#w100)  
+![globalcloudpay](https://static.openfintech.io/payment_providers/globalcloudpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/globalcloudpay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/globalcloudpay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![globalcloudpay](https://static.openfintech.io/payment_providers/globalcloudpay/icon.png?w=278&c=v0.59.26#w100)  
+![globalcloudpay](https://static.openfintech.io/payment_providers/globalcloudpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/globalcloudpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/globalcloudpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

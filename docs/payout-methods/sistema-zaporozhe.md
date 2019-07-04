@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _System (Zaporizhi
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![sistema-zaporozhe](https://static.openfintech.io/payout_methods/sistema-zaporozhe/icon.png?w=278&c=v0.59.26#w40) |[sistema-zaporozhe_uah](/payout-services/sistema-zaporozhe_uah/)|`sistema-zaporozhe_uah`| 
+|![sistema-zaporozhe](https://static.openfintech.io/payout_methods/sistema-zaporozhe/icon.svg?w=278&c=v0.59.26#w40) |[sistema-zaporozhe_uah](/payout-services/sistema-zaporozhe_uah/)|`sistema-zaporozhe_uah`| 
  
 
 ## JSON Object 

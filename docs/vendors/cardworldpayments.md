@@ -1,6 +1,6 @@
 
 # Card World Payments 
-![cardworldpayments](https://static.openfintech.io/vendors/cardworldpayments/logo.png?w=400&c=v0.59.26#w200)  
+![cardworldpayments](https://static.openfintech.io/vendors/cardworldpayments/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  United Kingdom
 
 ### Logo 
  
-![cardworldpayments](https://static.openfintech.io/vendors/cardworldpayments/logo.png?w=400&c=v0.59.26#w200)  
+![cardworldpayments](https://static.openfintech.io/vendors/cardworldpayments/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/cardworldpayments/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/cardworldpayments/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![cardworldpayments](https://static.openfintech.io/vendors/cardworldpayments/icon.png?w=278&c=v0.59.26#w100)  
+![cardworldpayments](https://static.openfintech.io/vendors/cardworldpayments/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/cardworldpayments/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/cardworldpayments/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

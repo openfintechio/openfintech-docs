@@ -1,6 +1,6 @@
 
 # CartaSi 
-![cartasi](https://static.openfintech.io/vendors/cartasi/logo.png?w=400&c=v0.59.26#w200)  
+![cartasi](https://static.openfintech.io/vendors/cartasi/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![cartasi](https://static.openfintech.io/vendors/cartasi/logo.png?w=400&c=v0.59.26#w200)  
+![cartasi](https://static.openfintech.io/vendors/cartasi/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/cartasi/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/cartasi/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![cartasi](https://static.openfintech.io/vendors/cartasi/icon.png?w=278&c=v0.59.26#w100)  
+![cartasi](https://static.openfintech.io/vendors/cartasi/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/cartasi/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/cartasi/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

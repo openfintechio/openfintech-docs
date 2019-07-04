@@ -1,6 +1,6 @@
 
 # SoEasyPay 
-![soeasypay](https://static.openfintech.io/vendors/soeasypay/logo.png?w=400&c=v0.59.26#w200)  
+![soeasypay](https://static.openfintech.io/vendors/soeasypay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  26-28 Hammersmith GroveW6 7BA LondonUnited Kingdom
 
 ### Logo 
  
-![soeasypay](https://static.openfintech.io/vendors/soeasypay/logo.png?w=400&c=v0.59.26#w200)  
+![soeasypay](https://static.openfintech.io/vendors/soeasypay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/soeasypay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/soeasypay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![soeasypay](https://static.openfintech.io/vendors/soeasypay/icon.png?w=278&c=v0.59.26#w100)  
+![soeasypay](https://static.openfintech.io/vendors/soeasypay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/soeasypay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/soeasypay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Unitel (Unitel)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![unitel-iunitel](https://static.openfintech.io/payout_methods/unitel-iunitel/icon.png?w=278&c=v0.59.26#w40) |[unitel-iunitel_uah](/payout-services/unitel-iunitel_uah/)|`unitel-iunitel_uah`| 
+|![unitel-iunitel](https://static.openfintech.io/payout_methods/unitel-iunitel/icon.svg?w=278&c=v0.59.26#w40) |[unitel-iunitel_uah](/payout-services/unitel-iunitel_uah/)|`unitel-iunitel_uah`| 
  
 
 ## JSON Object 

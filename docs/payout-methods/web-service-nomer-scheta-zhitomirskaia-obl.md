@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _WEB service (acco
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![web-service-nomer-scheta-zhitomirskaia-obl](https://static.openfintech.io/payout_methods/web-service-nomer-scheta-zhitomirskaia-obl/icon.png?w=278&c=v0.59.26#w40) |[web-service-nomer-scheta-zhitomirskaia-obl_uah](/payout-services/web-service-nomer-scheta-zhitomirskaia-obl_uah/)|`web-service-nomer-scheta-zhitomirskaia-obl_uah`| 
+|![web-service-nomer-scheta-zhitomirskaia-obl](https://static.openfintech.io/payout_methods/web-service-nomer-scheta-zhitomirskaia-obl/icon.svg?w=278&c=v0.59.26#w40) |[web-service-nomer-scheta-zhitomirskaia-obl_uah](/payout-services/web-service-nomer-scheta-zhitomirskaia-obl_uah/)|`web-service-nomer-scheta-zhitomirskaia-obl_uah`| 
  
 
 ## JSON Object 

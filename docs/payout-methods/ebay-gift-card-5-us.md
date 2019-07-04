@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _eBay Gift Card $ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ebay-gift-card-5-us](https://static.openfintech.io/payout_methods/ebay-gift-card-5-us/icon.png?w=278&c=v0.59.26#w40) |[ebay-gift-card-5-us_uah](/payout-services/ebay-gift-card-5-us_uah/)|`ebay-gift-card-5-us_uah`| 
+|![ebay-gift-card-5-us](https://static.openfintech.io/payout_methods/ebay-gift-card-5-us/icon.svg?w=278&c=v0.59.26#w40) |[ebay-gift-card-5-us_uah](/payout-services/ebay-gift-card-5-us_uah/)|`ebay-gift-card-5-us_uah`| 
  
 
 ## JSON Object 

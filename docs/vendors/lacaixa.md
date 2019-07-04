@@ -1,6 +1,6 @@
 
 # La Caixa 
-![lacaixa](https://static.openfintech.io/vendors/lacaixa/logo.png?w=400&c=v0.59.26#w200)  
+![lacaixa](https://static.openfintech.io/vendors/lacaixa/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![lacaixa](https://static.openfintech.io/vendors/lacaixa/logo.png?w=400&c=v0.59.26#w200)  
+![lacaixa](https://static.openfintech.io/vendors/lacaixa/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/lacaixa/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/lacaixa/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![lacaixa](https://static.openfintech.io/vendors/lacaixa/icon.png?w=278&c=v0.59.26#w100)  
+![lacaixa](https://static.openfintech.io/vendors/lacaixa/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/lacaixa/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/lacaixa/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

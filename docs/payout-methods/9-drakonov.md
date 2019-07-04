@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _9 Dragons_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![9-drakonov](https://static.openfintech.io/payout_methods/9-drakonov/icon.png?w=278&c=v0.59.26#w40) |[9-drakonov_uah](/payout-services/9-drakonov_uah/)|`9-drakonov_uah`| 
+|![9-drakonov](https://static.openfintech.io/payout_methods/9-drakonov/icon.svg?w=278&c=v0.59.26#w40) |[9-drakonov_uah](/payout-services/9-drakonov_uah/)|`9-drakonov_uah`| 
  
 
 ## JSON Object 

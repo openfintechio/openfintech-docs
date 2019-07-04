@@ -1,6 +1,6 @@
 
 # Integrapay 
-![integrapay](https://static.openfintech.io/payment_providers/integrapay/logo.png?w=400&c=v0.59.26#w100)  
+![integrapay](https://static.openfintech.io/payment_providers/integrapay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![integrapay](https://static.openfintech.io/payment_providers/integrapay/logo.png?w=400&c=v0.59.26#w100)  
+![integrapay](https://static.openfintech.io/payment_providers/integrapay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/integrapay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/integrapay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![integrapay](https://static.openfintech.io/payment_providers/integrapay/icon.png?w=278&c=v0.59.26#w100)  
+![integrapay](https://static.openfintech.io/payment_providers/integrapay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/integrapay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/integrapay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

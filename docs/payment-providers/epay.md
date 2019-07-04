@@ -1,6 +1,6 @@
 
 # ePay 
-![epay](https://static.openfintech.io/payment_providers/epay/logo.png?w=400&c=v0.59.26#w100)  
+![epay](https://static.openfintech.io/payment_providers/epay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![epay](https://static.openfintech.io/payment_providers/epay/logo.png?w=400&c=v0.59.26#w100)  
+![epay](https://static.openfintech.io/payment_providers/epay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/epay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/epay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![epay](https://static.openfintech.io/payment_providers/epay/icon.png?w=278&c=v0.59.26#w100)  
+![epay](https://static.openfintech.io/payment_providers/epay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/epay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/epay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

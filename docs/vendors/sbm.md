@@ -1,6 +1,6 @@
 
 # State Bank of Mauritius 
-![sbm](https://static.openfintech.io/vendors/sbm/logo.png?w=400&c=v0.59.26#w200)  
+![sbm](https://static.openfintech.io/vendors/sbm/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Mauritius
 
 ### Logo 
  
-![sbm](https://static.openfintech.io/vendors/sbm/logo.png?w=400&c=v0.59.26#w200)  
+![sbm](https://static.openfintech.io/vendors/sbm/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/sbm/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/sbm/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![sbm](https://static.openfintech.io/vendors/sbm/icon.png?w=278&c=v0.59.26#w100)  
+![sbm](https://static.openfintech.io/vendors/sbm/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/sbm/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/sbm/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

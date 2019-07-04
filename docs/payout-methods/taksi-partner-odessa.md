@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Partner (Ode
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-partner-odessa](https://static.openfintech.io/payout_methods/taksi-partner-odessa/icon.png?w=278&c=v0.59.26#w40) |[taksi-partner-odessa_uah](/payout-services/taksi-partner-odessa_uah/)|`taksi-partner-odessa_uah`| 
+|![taksi-partner-odessa](https://static.openfintech.io/payout_methods/taksi-partner-odessa/icon.svg?w=278&c=v0.59.26#w40) |[taksi-partner-odessa_uah](/payout-services/taksi-partner-odessa_uah/)|`taksi-partner-odessa_uah`| 
  
 
 ## JSON Object 

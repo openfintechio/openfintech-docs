@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Maybutnogo SP Cen
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tsentr-sp-maibutnogo-diti-meteliki](https://static.openfintech.io/payout_methods/tsentr-sp-maibutnogo-diti-meteliki/icon.png?w=278&c=v0.59.26#w40) |[tsentr-sp-maibutnogo-diti-meteliki_uah](/payout-services/tsentr-sp-maibutnogo-diti-meteliki_uah/)|`tsentr-sp-maibutnogo-diti-meteliki_uah`| 
+|![tsentr-sp-maibutnogo-diti-meteliki](https://static.openfintech.io/payout_methods/tsentr-sp-maibutnogo-diti-meteliki/icon.svg?w=278&c=v0.59.26#w40) |[tsentr-sp-maibutnogo-diti-meteliki_uah](/payout-services/tsentr-sp-maibutnogo-diti-meteliki_uah/)|`tsentr-sp-maibutnogo-diti-meteliki_uah`| 
  
 
 ## JSON Object 

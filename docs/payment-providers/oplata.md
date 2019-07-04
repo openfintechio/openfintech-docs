@@ -1,6 +1,6 @@
 
 # Oplata.com 
-![oplata](https://static.openfintech.io/payment_providers/oplata/logo.png?w=400&c=v0.59.26#w100)  
+![oplata](https://static.openfintech.io/payment_providers/oplata/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![oplata](https://static.openfintech.io/payment_providers/oplata/logo.png?w=400&c=v0.59.26#w100)  
+![oplata](https://static.openfintech.io/payment_providers/oplata/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/oplata/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/oplata/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![oplata](https://static.openfintech.io/payment_providers/oplata/icon.png?w=278&c=v0.59.26#w100)  
+![oplata](https://static.openfintech.io/payment_providers/oplata/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/oplata/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/oplata/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Dwolla 
-![dwolla](https://static.openfintech.io/vendors/dwolla/logo.png?w=400&c=v0.59.26#w200)  
+![dwolla](https://static.openfintech.io/vendors/dwolla/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![dwolla](https://static.openfintech.io/vendors/dwolla/logo.png?w=400&c=v0.59.26#w200)  
+![dwolla](https://static.openfintech.io/vendors/dwolla/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/dwolla/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/dwolla/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![dwolla](https://static.openfintech.io/vendors/dwolla/icon.png?w=278&c=v0.59.26#w100)  
+![dwolla](https://static.openfintech.io/vendors/dwolla/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/dwolla/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/dwolla/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

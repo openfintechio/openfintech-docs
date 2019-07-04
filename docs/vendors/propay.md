@@ -1,6 +1,6 @@
 
 # ProPay 
-![propay](https://static.openfintech.io/vendors/propay/logo.png?w=400&c=v0.59.26#w200)  
+![propay](https://static.openfintech.io/vendors/propay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  84043 Lehi, UTUnited States of America
 
 ### Logo 
  
-![propay](https://static.openfintech.io/vendors/propay/logo.png?w=400&c=v0.59.26#w200)  
+![propay](https://static.openfintech.io/vendors/propay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/propay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/propay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![propay](https://static.openfintech.io/vendors/propay/icon.png?w=278&c=v0.59.26#w100)  
+![propay](https://static.openfintech.io/vendors/propay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/propay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/propay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

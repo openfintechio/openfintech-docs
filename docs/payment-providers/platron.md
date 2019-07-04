@@ -1,6 +1,6 @@
 
 # Platron 
-![platron](https://static.openfintech.io/payment_providers/platron/logo.png?w=400&c=v0.59.26#w100)  
+![platron](https://static.openfintech.io/payment_providers/platron/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![platron](https://static.openfintech.io/payment_providers/platron/logo.png?w=400&c=v0.59.26#w100)  
+![platron](https://static.openfintech.io/payment_providers/platron/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/platron/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/platron/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![platron](https://static.openfintech.io/payment_providers/platron/icon.png?w=278&c=v0.59.26#w100)  
+![platron](https://static.openfintech.io/payment_providers/platron/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/platron/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/platron/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # OrangePay 
-![orangepay](https://static.openfintech.io/vendors/orangepay/logo.png?w=400&c=v0.59.26#w200)  
+![orangepay](https://static.openfintech.io/vendors/orangepay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Kaprova 42/14, Stare Mesto110 00 PragueCzech Republic
 
 ### Logo 
  
-![orangepay](https://static.openfintech.io/vendors/orangepay/logo.png?w=400&c=v0.59.26#w200)  
+![orangepay](https://static.openfintech.io/vendors/orangepay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/orangepay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/orangepay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![orangepay](https://static.openfintech.io/vendors/orangepay/icon.png?w=278&c=v0.59.26#w100)  
+![orangepay](https://static.openfintech.io/vendors/orangepay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/orangepay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/orangepay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

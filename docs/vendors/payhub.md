@@ -1,6 +1,6 @@
 
 # PayHub 
-![payhub](https://static.openfintech.io/vendors/payhub/logo.png?w=400&c=v0.59.26#w200)  
+![payhub](https://static.openfintech.io/vendors/payhub/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  4100 W. Royal Lane, Suite 15075063 IrvingTexasUnited States of America
 
 ### Logo 
  
-![payhub](https://static.openfintech.io/vendors/payhub/logo.png?w=400&c=v0.59.26#w200)  
+![payhub](https://static.openfintech.io/vendors/payhub/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payhub/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payhub/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payhub](https://static.openfintech.io/vendors/payhub/icon.png?w=278&c=v0.59.26#w100)  
+![payhub](https://static.openfintech.io/vendors/payhub/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payhub/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payhub/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

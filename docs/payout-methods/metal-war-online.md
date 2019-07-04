@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Metal War Online_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![metal-war-online](https://static.openfintech.io/payout_methods/metal-war-online/icon.png?w=278&c=v0.59.26#w40) |[metal-war-online_uah](/payout-services/metal-war-online_uah/)|`metal-war-online_uah`| 
+|![metal-war-online](https://static.openfintech.io/payout_methods/metal-war-online/icon.svg?w=278&c=v0.59.26#w40) |[metal-war-online_uah](/payout-services/metal-war-online_uah/)|`metal-war-online_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _For Misto_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![za-mistom](https://static.openfintech.io/payout_methods/za-mistom/icon.png?w=278&c=v0.59.26#w40) |[za-mistom_uah](/payout-services/za-mistom_uah/)|`za-mistom_uah`| 
+|![za-mistom](https://static.openfintech.io/payout_methods/za-mistom/icon.svg?w=278&c=v0.59.26#w40) |[za-mistom_uah](/payout-services/za-mistom_uah/)|`za-mistom_uah`| 
  
 
 ## JSON Object 

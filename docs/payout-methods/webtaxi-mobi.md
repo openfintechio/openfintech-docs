@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _WebTaxi.mobi_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![webtaxi-mobi](https://static.openfintech.io/payout_methods/webtaxi-mobi/icon.png?w=278&c=v0.59.26#w40) |[webtaxi-mobi_uah](/payout-services/webtaxi-mobi_uah/)|`webtaxi-mobi_uah`| 
+|![webtaxi-mobi](https://static.openfintech.io/payout_methods/webtaxi-mobi/icon.svg?w=278&c=v0.59.26#w40) |[webtaxi-mobi_uah](/payout-services/webtaxi-mobi_uah/)|`webtaxi-mobi_uah`| 
  
 
 ## JSON Object 

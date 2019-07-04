@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _MIIT_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![miit](https://static.openfintech.io/payout_methods/miit/icon.png?w=278&c=v0.59.26#w40) |[miit_uah](/payout-services/miit_uah/)|`miit_uah`| 
+|![miit](https://static.openfintech.io/payout_methods/miit/icon.svg?w=278&c=v0.59.26#w40) |[miit_uah](/payout-services/miit_uah/)|`miit_uah`| 
  
 
 ## JSON Object 

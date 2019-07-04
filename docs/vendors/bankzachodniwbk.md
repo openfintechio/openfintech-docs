@@ -1,6 +1,6 @@
 
 # Bank Zochadni WBK 
-![bankzachodniwbk](https://static.openfintech.io/vendors/bankzachodniwbk/logo.png?w=400&c=v0.59.26#w200)  
+![bankzachodniwbk](https://static.openfintech.io/vendors/bankzachodniwbk/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![bankzachodniwbk](https://static.openfintech.io/vendors/bankzachodniwbk/logo.png?w=400&c=v0.59.26#w200)  
+![bankzachodniwbk](https://static.openfintech.io/vendors/bankzachodniwbk/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/bankzachodniwbk/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/bankzachodniwbk/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![bankzachodniwbk](https://static.openfintech.io/vendors/bankzachodniwbk/icon.png?w=278&c=v0.59.26#w100)  
+![bankzachodniwbk](https://static.openfintech.io/vendors/bankzachodniwbk/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/bankzachodniwbk/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/bankzachodniwbk/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

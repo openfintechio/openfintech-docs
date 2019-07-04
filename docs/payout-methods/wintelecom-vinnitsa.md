@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Wintelecom (Vinni
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![wintelecom-vinnitsa](https://static.openfintech.io/payout_methods/wintelecom-vinnitsa/icon.png?w=278&c=v0.59.26#w40) |[wintelecom-vinnitsa_uah](/payout-services/wintelecom-vinnitsa_uah/)|`wintelecom-vinnitsa_uah`| 
+|![wintelecom-vinnitsa](https://static.openfintech.io/payout_methods/wintelecom-vinnitsa/icon.svg?w=278&c=v0.59.26#w40) |[wintelecom-vinnitsa_uah](/payout-services/wintelecom-vinnitsa_uah/)|`wintelecom-vinnitsa_uah`| 
  
 
 ## JSON Object 

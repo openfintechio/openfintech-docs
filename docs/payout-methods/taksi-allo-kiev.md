@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Hallo (Kiev)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-allo-kiev](https://static.openfintech.io/payout_methods/taksi-allo-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-allo-kiev_uah](/payout-services/taksi-allo-kiev_uah/)|`taksi-allo-kiev_uah`| 
+|![taksi-allo-kiev](https://static.openfintech.io/payout_methods/taksi-allo-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-allo-kiev_uah](/payout-services/taksi-allo-kiev_uah/)|`taksi-allo-kiev_uah`| 
  
 
 ## JSON Object 

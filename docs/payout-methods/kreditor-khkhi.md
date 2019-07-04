@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Lender XX_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kreditor-khkhi](https://static.openfintech.io/payout_methods/kreditor-khkhi/icon.png?w=278&c=v0.59.26#w40) |[kreditor-khkhi_uah](/payout-services/kreditor-khkhi_uah/)|`kreditor-khkhi_uah`| 
+|![kreditor-khkhi](https://static.openfintech.io/payout_methods/kreditor-khkhi/icon.svg?w=278&c=v0.59.26#w40) |[kreditor-khkhi_uah](/payout-services/kreditor-khkhi_uah/)|`kreditor-khkhi_uah`| 
  
 
 ## JSON Object 

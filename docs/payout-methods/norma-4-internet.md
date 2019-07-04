@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Norm 4 - the Inte
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![norma-4-internet](https://static.openfintech.io/payout_methods/norma-4-internet/icon.png?w=278&c=v0.59.26#w40) |[norma-4-internet_uah](/payout-services/norma-4-internet_uah/)|`norma-4-internet_uah`| 
+|![norma-4-internet](https://static.openfintech.io/payout_methods/norma-4-internet/icon.svg?w=278&c=v0.59.26#w40) |[norma-4-internet_uah](/payout-services/norma-4-internet_uah/)|`norma-4-internet_uah`| 
  
 
 ## JSON Object 

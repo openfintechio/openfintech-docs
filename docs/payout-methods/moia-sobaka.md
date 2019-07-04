@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _My dog_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![moia-sobaka](https://static.openfintech.io/payout_methods/moia-sobaka/icon.png?w=278&c=v0.59.26#w40) |[moia-sobaka_uah](/payout-services/moia-sobaka_uah/)|`moia-sobaka_uah`| 
+|![moia-sobaka](https://static.openfintech.io/payout_methods/moia-sobaka/icon.svg?w=278&c=v0.59.26#w40) |[moia-sobaka_uah](/payout-services/moia-sobaka_uah/)|`moia-sobaka_uah`| 
  
 
 ## JSON Object 

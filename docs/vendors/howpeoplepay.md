@@ -1,6 +1,6 @@
 
 # HowPeoplePay.com 
-![howpeoplepay](https://static.openfintech.io/vendors/howpeoplepay/logo.png?w=400&c=v0.59.26#w200)  
+![howpeoplepay](https://static.openfintech.io/vendors/howpeoplepay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Rokin 91-III1012 KL AmsterdamNetherlands
 
 ### Logo 
  
-![howpeoplepay](https://static.openfintech.io/vendors/howpeoplepay/logo.png?w=400&c=v0.59.26#w200)  
+![howpeoplepay](https://static.openfintech.io/vendors/howpeoplepay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/howpeoplepay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/howpeoplepay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![howpeoplepay](https://static.openfintech.io/vendors/howpeoplepay/icon.png?w=278&c=v0.59.26#w100)  
+![howpeoplepay](https://static.openfintech.io/vendors/howpeoplepay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/howpeoplepay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/howpeoplepay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

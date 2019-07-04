@@ -1,6 +1,6 @@
 
 # Tatra Banka 
-![tatrabanka](https://static.openfintech.io/payment_methods/tatrabanka/logo.png?w=400&c=v0.59.26#w200)  
+![tatrabanka](https://static.openfintech.io/payment_methods/tatrabanka/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `tatrabanka` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![tatrabanka](https://static.openfintech.io/payment_methods/tatrabanka/logo.png?w=400&c=v0.59.26#w200)  
+![tatrabanka](https://static.openfintech.io/payment_methods/tatrabanka/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/tatrabanka/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/tatrabanka/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![tatrabanka](https://static.openfintech.io/payment_methods/tatrabanka/icon.png?w=278&c=v0.59.26#w100)  
+![tatrabanka](https://static.openfintech.io/payment_methods/tatrabanka/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/tatrabanka/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/tatrabanka/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Tatra Ban
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![trustpay](https://static.openfintech.io/payment_providers/trustpay/icon.png?w=278&c=v0.59.26#w100) |[TrustPay](/payment-providers/trustpay/)|`trustpay`| 
+|![trustpay](https://static.openfintech.io/payment_providers/trustpay/icon.svg?w=278&c=v0.59.26#w100) |[TrustPay](/payment-providers/trustpay/)|`trustpay`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
  
 

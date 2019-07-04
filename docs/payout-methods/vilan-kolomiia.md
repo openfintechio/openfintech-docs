@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _VILAN (Kolomiya)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![vilan-kolomiia](https://static.openfintech.io/payout_methods/vilan-kolomiia/icon.png?w=278&c=v0.59.26#w40) |[vilan-kolomiia_uah](/payout-services/vilan-kolomiia_uah/)|`vilan-kolomiia_uah`| 
+|![vilan-kolomiia](https://static.openfintech.io/payout_methods/vilan-kolomiia/icon.svg?w=278&c=v0.59.26#w40) |[vilan-kolomiia_uah](/payout-services/vilan-kolomiia_uah/)|`vilan-kolomiia_uah`| 
  
 
 ## JSON Object 

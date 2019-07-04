@@ -1,6 +1,6 @@
 
 # ChronoPay 
-![chronopay](https://static.openfintech.io/vendors/chronopay/logo.png?w=400&c=v0.59.26#w200)  
+![chronopay](https://static.openfintech.io/vendors/chronopay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Sloterweg 3031171VC BadhoevedorpOutside US or CanadaNetherlands
 
 ### Logo 
  
-![chronopay](https://static.openfintech.io/vendors/chronopay/logo.png?w=400&c=v0.59.26#w200)  
+![chronopay](https://static.openfintech.io/vendors/chronopay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/chronopay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/chronopay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![chronopay](https://static.openfintech.io/vendors/chronopay/icon.png?w=278&c=v0.59.26#w100)  
+![chronopay](https://static.openfintech.io/vendors/chronopay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/chronopay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/chronopay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

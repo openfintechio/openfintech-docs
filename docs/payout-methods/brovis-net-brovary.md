@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Brovis.net (Brova
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![brovis-net-brovary](https://static.openfintech.io/payout_methods/brovis-net-brovary/icon.png?w=278&c=v0.59.26#w40) |[brovis-net-brovary_uah](/payout-services/brovis-net-brovary_uah/)|`brovis-net-brovary_uah`| 
+|![brovis-net-brovary](https://static.openfintech.io/payout_methods/brovis-net-brovary/icon.svg?w=278&c=v0.59.26#w40) |[brovis-net-brovary_uah](/payout-services/brovis-net-brovary_uah/)|`brovis-net-brovary_uah`| 
  
 
 ## JSON Object 

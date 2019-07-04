@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Bee (Sumy)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-pchiolka-sumi](https://static.openfintech.io/payout_methods/taksi-pchiolka-sumi/icon.png?w=278&c=v0.59.26#w40) |[taksi-pchiolka-sumi_uah](/payout-services/taksi-pchiolka-sumi_uah/)|`taksi-pchiolka-sumi_uah`| 
+|![taksi-pchiolka-sumi](https://static.openfintech.io/payout_methods/taksi-pchiolka-sumi/icon.svg?w=278&c=v0.59.26#w40) |[taksi-pchiolka-sumi_uah](/payout-services/taksi-pchiolka-sumi_uah/)|`taksi-pchiolka-sumi_uah`| 
  
 
 ## JSON Object 

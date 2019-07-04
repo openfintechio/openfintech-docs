@@ -1,6 +1,6 @@
 
 # Perfect Money Account 
-![perfectmoney_account](https://static.openfintech.io/payment_methods/perfectmoney_account/logo.png?w=400&c=v0.59.26#w200)  
+![perfectmoney_account](https://static.openfintech.io/payment_methods/perfectmoney_account/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `perfectmoney_account` 
@@ -20,10 +20,10 @@
 ## Images 
 
 ### Logo 
-![perfectmoney_account](https://static.openfintech.io/payment_methods/perfectmoney_account/logo.png?w=400&c=v0.59.26#w200)  
+![perfectmoney_account](https://static.openfintech.io/payment_methods/perfectmoney_account/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/perfectmoney_account/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/perfectmoney_account/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _PE Chreda Sumy_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![pp-chereda-sumy](https://static.openfintech.io/payout_methods/pp-chereda-sumy/icon.png?w=278&c=v0.59.26#w40) |[pp-chereda-sumy_uah](/payout-services/pp-chereda-sumy_uah/)|`pp-chereda-sumy_uah`| 
+|![pp-chereda-sumy](https://static.openfintech.io/payout_methods/pp-chereda-sumy/icon.svg?w=278&c=v0.59.26#w40) |[pp-chereda-sumy_uah](/payout-services/pp-chereda-sumy_uah/)|`pp-chereda-sumy_uah`| 
  
 
 ## JSON Object 

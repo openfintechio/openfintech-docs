@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _GTS (Dnepropetrov
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![gts-dnepropetrovsk](https://static.openfintech.io/payout_methods/gts-dnepropetrovsk/icon.png?w=278&c=v0.59.26#w40) |[gts-dnepropetrovsk_uah](/payout-services/gts-dnepropetrovsk_uah/)|`gts-dnepropetrovsk_uah`| 
+|![gts-dnepropetrovsk](https://static.openfintech.io/payout_methods/gts-dnepropetrovsk/icon.svg?w=278&c=v0.59.26#w40) |[gts-dnepropetrovsk_uah](/payout-services/gts-dnepropetrovsk_uah/)|`gts-dnepropetrovsk_uah`| 
  
 
 ## JSON Object 

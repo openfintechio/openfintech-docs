@@ -1,6 +1,6 @@
 
 # Paymento SA 
-![paymento](https://static.openfintech.io/payment_providers/paymento/logo.png?w=400&c=v0.59.26#w100)  
+![paymento](https://static.openfintech.io/payment_providers/paymento/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![paymento](https://static.openfintech.io/payment_providers/paymento/logo.png?w=400&c=v0.59.26#w100)  
+![paymento](https://static.openfintech.io/payment_providers/paymento/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paymento/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paymento/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![paymento](https://static.openfintech.io/payment_providers/paymento/icon.png?w=278&c=v0.59.26#w100)  
+![paymento](https://static.openfintech.io/payment_providers/paymento/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paymento/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paymento/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

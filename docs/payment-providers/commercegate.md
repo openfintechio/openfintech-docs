@@ -1,6 +1,6 @@
 
 # Commercegate 
-![commercegate](https://static.openfintech.io/payment_providers/commercegate/logo.png?w=400&c=v0.59.26#w100)  
+![commercegate](https://static.openfintech.io/payment_providers/commercegate/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![commercegate](https://static.openfintech.io/payment_providers/commercegate/logo.png?w=400&c=v0.59.26#w100)  
+![commercegate](https://static.openfintech.io/payment_providers/commercegate/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/commercegate/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/commercegate/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![commercegate](https://static.openfintech.io/payment_providers/commercegate/icon.png?w=278&c=v0.59.26#w100)  
+![commercegate](https://static.openfintech.io/payment_providers/commercegate/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/commercegate/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/commercegate/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

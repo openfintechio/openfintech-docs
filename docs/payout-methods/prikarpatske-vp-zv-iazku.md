@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Prikarpatske VP l
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![prikarpatske-vp-zv-iazku](https://static.openfintech.io/payout_methods/prikarpatske-vp-zv-iazku/icon.png?w=278&c=v0.59.26#w40) |[prikarpatske-vp-zv-iazku_uah](/payout-services/prikarpatske-vp-zv-iazku_uah/)|`prikarpatske-vp-zv-iazku_uah`| 
+|![prikarpatske-vp-zv-iazku](https://static.openfintech.io/payout_methods/prikarpatske-vp-zv-iazku/icon.svg?w=278&c=v0.59.26#w40) |[prikarpatske-vp-zv-iazku_uah](/payout-services/prikarpatske-vp-zv-iazku_uah/)|`prikarpatske-vp-zv-iazku_uah`| 
  
 
 ## JSON Object 

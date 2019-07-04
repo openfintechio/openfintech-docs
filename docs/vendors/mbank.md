@@ -1,6 +1,6 @@
 
 # mBank (mTransfer) 
-![mbank](https://static.openfintech.io/vendors/mbank/logo.png?w=400&c=v0.59.26#w200)  
+![mbank](https://static.openfintech.io/vendors/mbank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![mbank](https://static.openfintech.io/vendors/mbank/logo.png?w=400&c=v0.59.26#w200)  
+![mbank](https://static.openfintech.io/vendors/mbank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/mbank/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/mbank/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![mbank](https://static.openfintech.io/vendors/mbank/icon.png?w=278&c=v0.59.26#w100)  
+![mbank](https://static.openfintech.io/vendors/mbank/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/mbank/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/mbank/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

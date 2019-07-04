@@ -1,6 +1,6 @@
 
 # PAYTPV 
-![paytpv](https://static.openfintech.io/vendors/paytpv/logo.png?w=400&c=v0.59.26#w200)  
+![paytpv](https://static.openfintech.io/vendors/paytpv/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Spain
 
 ### Logo 
  
-![paytpv](https://static.openfintech.io/vendors/paytpv/logo.png?w=400&c=v0.59.26#w200)  
+![paytpv](https://static.openfintech.io/vendors/paytpv/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paytpv/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paytpv/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paytpv](https://static.openfintech.io/vendors/paytpv/icon.png?w=278&c=v0.59.26#w100)  
+![paytpv](https://static.openfintech.io/vendors/paytpv/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paytpv/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paytpv/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

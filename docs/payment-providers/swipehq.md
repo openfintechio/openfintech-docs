@@ -1,6 +1,6 @@
 
 # Swipe Checkout 
-![swipehq](https://static.openfintech.io/payment_providers/swipehq/logo.png?w=400&c=v0.59.26#w100)  
+![swipehq](https://static.openfintech.io/payment_providers/swipehq/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![swipehq](https://static.openfintech.io/payment_providers/swipehq/logo.png?w=400&c=v0.59.26#w100)  
+![swipehq](https://static.openfintech.io/payment_providers/swipehq/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/swipehq/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/swipehq/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![swipehq](https://static.openfintech.io/payment_providers/swipehq/icon.png?w=278&c=v0.59.26#w100)  
+![swipehq](https://static.openfintech.io/payment_providers/swipehq/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/swipehq/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/swipehq/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

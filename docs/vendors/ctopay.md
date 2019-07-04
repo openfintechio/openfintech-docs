@@ -1,6 +1,6 @@
 
 # Ctopay 
-![ctopay](https://static.openfintech.io/vendors/ctopay/logo.png?w=400&c=v0.59.26#w200)  
+![ctopay](https://static.openfintech.io/vendors/ctopay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Hong Kong
 
 ### Logo 
  
-![ctopay](https://static.openfintech.io/vendors/ctopay/logo.png?w=400&c=v0.59.26#w200)  
+![ctopay](https://static.openfintech.io/vendors/ctopay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ctopay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ctopay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ctopay](https://static.openfintech.io/vendors/ctopay/icon.png?w=278&c=v0.59.26#w100)  
+![ctopay](https://static.openfintech.io/vendors/ctopay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ctopay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ctopay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

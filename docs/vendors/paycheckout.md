@@ -1,6 +1,6 @@
 
 # PayCheckout 
-![paycheckout](https://static.openfintech.io/vendors/paycheckout/logo.png?w=400&c=v0.59.26#w200)  
+![paycheckout](https://static.openfintech.io/vendors/paycheckout/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Noorderhof 245804 BV VenrayNederlandNetherlands
 
 ### Logo 
  
-![paycheckout](https://static.openfintech.io/vendors/paycheckout/logo.png?w=400&c=v0.59.26#w200)  
+![paycheckout](https://static.openfintech.io/vendors/paycheckout/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paycheckout/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paycheckout/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paycheckout](https://static.openfintech.io/vendors/paycheckout/icon.png?w=278&c=v0.59.26#w100)  
+![paycheckout](https://static.openfintech.io/vendors/paycheckout/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paycheckout/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paycheckout/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

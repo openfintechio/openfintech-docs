@@ -1,6 +1,6 @@
 
 # PagoRapido 
-![pagorapido](https://static.openfintech.io/vendors/pagorapido/logo.png?w=400&c=v0.59.26#w200)  
+![pagorapido](https://static.openfintech.io/vendors/pagorapido/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -18,18 +18,18 @@ fax: -
 
 ### Logo 
  
-![pagorapido](https://static.openfintech.io/vendors/pagorapido/logo.png?w=400&c=v0.59.26#w200)  
+![pagorapido](https://static.openfintech.io/vendors/pagorapido/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/pagorapido/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/pagorapido/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![pagorapido](https://static.openfintech.io/vendors/pagorapido/icon.png?w=278&c=v0.59.26#w100)  
+![pagorapido](https://static.openfintech.io/vendors/pagorapido/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/pagorapido/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/pagorapido/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

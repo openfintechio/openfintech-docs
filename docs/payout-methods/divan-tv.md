@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Divan.TV_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![divan-tv](https://static.openfintech.io/payout_methods/divan-tv/icon.png?w=278&c=v0.59.26#w40) |[divan-tv_uah](/payout-services/divan-tv_uah/)|`divan-tv_uah`| 
+|![divan-tv](https://static.openfintech.io/payout_methods/divan-tv/icon.svg?w=278&c=v0.59.26#w40) |[divan-tv_uah](/payout-services/divan-tv_uah/)|`divan-tv_uah`| 
  
 
 ## JSON Object 

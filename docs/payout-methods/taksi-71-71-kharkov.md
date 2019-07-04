@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi 71-71 (Khark
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-71-71-kharkov](https://static.openfintech.io/payout_methods/taksi-71-71-kharkov/icon.png?w=278&c=v0.59.26#w40) |[taksi-71-71-kharkov_uah](/payout-services/taksi-71-71-kharkov_uah/)|`taksi-71-71-kharkov_uah`| 
+|![taksi-71-71-kharkov](https://static.openfintech.io/payout_methods/taksi-71-71-kharkov/icon.svg?w=278&c=v0.59.26#w40) |[taksi-71-71-kharkov_uah](/payout-services/taksi-71-71-kharkov_uah/)|`taksi-71-71-kharkov_uah`| 
  
 
 ## JSON Object 

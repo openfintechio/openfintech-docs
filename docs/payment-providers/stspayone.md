@@ -1,6 +1,6 @@
 
 # STS PayOne 
-![stspayone](https://static.openfintech.io/payment_providers/stspayone/logo.png?w=400&c=v0.59.26#w100)  
+![stspayone](https://static.openfintech.io/payment_providers/stspayone/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![stspayone](https://static.openfintech.io/payment_providers/stspayone/logo.png?w=400&c=v0.59.26#w100)  
+![stspayone](https://static.openfintech.io/payment_providers/stspayone/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/stspayone/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/stspayone/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![stspayone](https://static.openfintech.io/payment_providers/stspayone/icon.png?w=278&c=v0.59.26#w100)  
+![stspayone](https://static.openfintech.io/payment_providers/stspayone/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/stspayone/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/stspayone/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

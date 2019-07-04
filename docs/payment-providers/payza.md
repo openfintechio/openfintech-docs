@@ -1,6 +1,6 @@
 
 # Payza 
-![payza](https://static.openfintech.io/payment_providers/payza/logo.png?w=400&c=v0.59.26#w100)  
+![payza](https://static.openfintech.io/payment_providers/payza/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![payza](https://static.openfintech.io/payment_providers/payza/logo.png?w=400&c=v0.59.26#w100)  
+![payza](https://static.openfintech.io/payment_providers/payza/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/payza/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/payza/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![payza](https://static.openfintech.io/payment_providers/payza/icon.png?w=278&c=v0.59.26#w100)  
+![payza](https://static.openfintech.io/payment_providers/payza/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/payza/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/payza/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

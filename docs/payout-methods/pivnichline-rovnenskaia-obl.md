@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _PivnichLine (Rivn
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![pivnichline-rovnenskaia-obl](https://static.openfintech.io/payout_methods/pivnichline-rovnenskaia-obl/icon.png?w=278&c=v0.59.26#w40) |[pivnichline-rovnenskaia-obl_uah](/payout-services/pivnichline-rovnenskaia-obl_uah/)|`pivnichline-rovnenskaia-obl_uah`| 
+|![pivnichline-rovnenskaia-obl](https://static.openfintech.io/payout_methods/pivnichline-rovnenskaia-obl/icon.svg?w=278&c=v0.59.26#w40) |[pivnichline-rovnenskaia-obl_uah](/payout-services/pivnichline-rovnenskaia-obl_uah/)|`pivnichline-rovnenskaia-obl_uah`| 
  
 
 ## JSON Object 

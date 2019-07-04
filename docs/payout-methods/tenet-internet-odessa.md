@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Tenet - Internet 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tenet-internet-odessa](https://static.openfintech.io/payout_methods/tenet-internet-odessa/icon.png?w=278&c=v0.59.26#w40) |[tenet-internet-odessa_uah](/payout-services/tenet-internet-odessa_uah/)|`tenet-internet-odessa_uah`| 
+|![tenet-internet-odessa](https://static.openfintech.io/payout_methods/tenet-internet-odessa/icon.svg?w=278&c=v0.59.26#w40) |[tenet-internet-odessa_uah](/payout-services/tenet-internet-odessa_uah/)|`tenet-internet-odessa_uah`| 
  
 
 ## JSON Object 

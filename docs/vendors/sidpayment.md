@@ -1,6 +1,6 @@
 
 # SID Instant EFT 
-![sidpayment](https://static.openfintech.io/vendors/sidpayment/logo.png?w=400&c=v0.59.26#w200)  
+![sidpayment](https://static.openfintech.io/vendors/sidpayment/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  12 Pongola Crescent, SandtonWSPBA JohannesburgOutside US CanadaSouth Af
 
 ### Logo 
  
-![sidpayment](https://static.openfintech.io/vendors/sidpayment/logo.png?w=400&c=v0.59.26#w200)  
+![sidpayment](https://static.openfintech.io/vendors/sidpayment/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/sidpayment/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/sidpayment/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![sidpayment](https://static.openfintech.io/vendors/sidpayment/icon.png?w=278&c=v0.59.26#w100)  
+![sidpayment](https://static.openfintech.io/vendors/sidpayment/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/sidpayment/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/sidpayment/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Test 
-![test](https://static.openfintech.io/payment_providers/test/logo.png?w=400&c=v0.59.26#w100)  
+![test](https://static.openfintech.io/payment_providers/test/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,10 +19,10 @@
 
 ### Logo 
  
-![test](https://static.openfintech.io/payment_providers/test/logo.png?w=400&c=v0.59.26#w100)  
+![test](https://static.openfintech.io/payment_providers/test/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/test/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/test/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 

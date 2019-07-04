@@ -1,6 +1,6 @@
 
 # Avangate Inc. 
-![avangate](https://static.openfintech.io/vendors/avangate/logo.png?w=400&c=v0.59.26#w200)  
+![avangate](https://static.openfintech.io/vendors/avangate/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  900 Island Drive, Suite 203CA 94065 Redwood City, California CACaliforn
 
 ### Logo 
  
-![avangate](https://static.openfintech.io/vendors/avangate/logo.png?w=400&c=v0.59.26#w200)  
+![avangate](https://static.openfintech.io/vendors/avangate/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/avangate/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/avangate/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![avangate](https://static.openfintech.io/vendors/avangate/icon.png?w=278&c=v0.59.26#w100)  
+![avangate](https://static.openfintech.io/vendors/avangate/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/avangate/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/avangate/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

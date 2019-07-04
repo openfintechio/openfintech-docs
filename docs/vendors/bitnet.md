@@ -1,6 +1,6 @@
 
 # Bitnet Technologies Ltd 
-![bitnet](https://static.openfintech.io/vendors/bitnet/logo.png?w=400&c=v0.59.26#w200)  
+![bitnet](https://static.openfintech.io/vendors/bitnet/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  164 Townsend St, Unit 1194107 San FranciscoCaliforniaUnited States of A
 
 ### Logo 
  
-![bitnet](https://static.openfintech.io/vendors/bitnet/logo.png?w=400&c=v0.59.26#w200)  
+![bitnet](https://static.openfintech.io/vendors/bitnet/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/bitnet/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/bitnet/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![bitnet](https://static.openfintech.io/vendors/bitnet/icon.png?w=278&c=v0.59.26#w100)  
+![bitnet](https://static.openfintech.io/vendors/bitnet/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/bitnet/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/bitnet/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

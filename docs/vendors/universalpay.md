@@ -1,6 +1,6 @@
 
 # UniversalPay 
-![universalpay](https://static.openfintech.io/vendors/universalpay/logo.png?w=400&c=v0.59.26#w200)  
+![universalpay](https://static.openfintech.io/vendors/universalpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Spain
 
 ### Logo 
  
-![universalpay](https://static.openfintech.io/vendors/universalpay/logo.png?w=400&c=v0.59.26#w200)  
+![universalpay](https://static.openfintech.io/vendors/universalpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/universalpay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/universalpay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![universalpay](https://static.openfintech.io/vendors/universalpay/icon.png?w=278&c=v0.59.26#w100)  
+![universalpay](https://static.openfintech.io/vendors/universalpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/universalpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/universalpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

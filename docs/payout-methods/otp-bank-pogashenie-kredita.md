@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _'OTP BANK' loan r
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![otp-bank-pogashenie-kredita](https://static.openfintech.io/payout_methods/otp-bank-pogashenie-kredita/icon.png?w=278&c=v0.59.26#w40) |[otp-bank-pogashenie-kredita_uah](/payout-services/otp-bank-pogashenie-kredita_uah/)|`otp-bank-pogashenie-kredita_uah`| 
+|![otp-bank-pogashenie-kredita](https://static.openfintech.io/payout_methods/otp-bank-pogashenie-kredita/icon.svg?w=278&c=v0.59.26#w40) |[otp-bank-pogashenie-kredita_uah](/payout-services/otp-bank-pogashenie-kredita_uah/)|`otp-bank-pogashenie-kredita_uah`| 
  
 
 ## JSON Object 

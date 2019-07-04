@@ -24,10 +24,10 @@ https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&c=v0.59.26#w
 ```  
 
 ### Icon 
-![payeer](https://static.openfintech.io/payment_methods/payeer/icon.png?w=278&c=v0.59.26#w100)  
+![payeer](https://static.openfintech.io/payment_methods/payeer/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/payeer/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/payeer/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payout Services 
@@ -36,14 +36,14 @@ The list of [Payout Services](/payout-services/) based on the _Payeer_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![payeer](https://static.openfintech.io/payout_methods/payeer/icon.png?w=278&c=v0.59.26#w40) |[payeer_usd](/payout-services/payeer_usd/)|`payeer_usd`| 
-|![payeer](https://static.openfintech.io/payout_methods/payeer/icon.png?w=278&c=v0.59.26#w40) |[payeer_rub](/payout-services/payeer_rub/)|`payeer_rub`| 
-|![payeer](https://static.openfintech.io/payout_methods/payeer/icon.png?w=278&c=v0.59.26#w40) |[payeer_eur](/payout-services/payeer_eur/)|`payeer_eur`| 
-|![payeer](https://static.openfintech.io/payout_methods/payeer/icon.png?w=278&c=v0.59.26#w40) |[payeer_btc](/payout-services/payeer_btc/)|`payeer_btc`| 
-|![payeer](https://static.openfintech.io/payout_methods/payeer/icon.png?w=278&c=v0.59.26#w40) |[payeer_eth](/payout-services/payeer_eth/)|`payeer_eth`| 
-|![payeer](https://static.openfintech.io/payout_methods/payeer/icon.png?w=278&c=v0.59.26#w40) |[payeer_bch](/payout-services/payeer_bch/)|`payeer_bch`| 
-|![payeer](https://static.openfintech.io/payout_methods/payeer/icon.png?w=278&c=v0.59.26#w40) |[payeer_ltc](/payout-services/payeer_ltc/)|`payeer_ltc`| 
-|![payeer](https://static.openfintech.io/payout_methods/payeer/icon.png?w=278&c=v0.59.26#w40) |[payeer_dash](/payout-services/payeer_dash/)|`payeer_dash`| 
+|![payeer](https://static.openfintech.io/payout_methods/payeer/icon.svg?w=278&c=v0.59.26#w40) |[payeer_usd](/payout-services/payeer_usd/)|`payeer_usd`| 
+|![payeer](https://static.openfintech.io/payout_methods/payeer/icon.svg?w=278&c=v0.59.26#w40) |[payeer_rub](/payout-services/payeer_rub/)|`payeer_rub`| 
+|![payeer](https://static.openfintech.io/payout_methods/payeer/icon.svg?w=278&c=v0.59.26#w40) |[payeer_eur](/payout-services/payeer_eur/)|`payeer_eur`| 
+|![payeer](https://static.openfintech.io/payout_methods/payeer/icon.svg?w=278&c=v0.59.26#w40) |[payeer_btc](/payout-services/payeer_btc/)|`payeer_btc`| 
+|![payeer](https://static.openfintech.io/payout_methods/payeer/icon.svg?w=278&c=v0.59.26#w40) |[payeer_eth](/payout-services/payeer_eth/)|`payeer_eth`| 
+|![payeer](https://static.openfintech.io/payout_methods/payeer/icon.svg?w=278&c=v0.59.26#w40) |[payeer_bch](/payout-services/payeer_bch/)|`payeer_bch`| 
+|![payeer](https://static.openfintech.io/payout_methods/payeer/icon.svg?w=278&c=v0.59.26#w40) |[payeer_ltc](/payout-services/payeer_ltc/)|`payeer_ltc`| 
+|![payeer](https://static.openfintech.io/payout_methods/payeer/icon.svg?w=278&c=v0.59.26#w40) |[payeer_dash](/payout-services/payeer_dash/)|`payeer_dash`| 
  
 
 ## Payment Providers 
@@ -53,7 +53,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payeer_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
-|![payeer](https://static.openfintech.io/payment_providers/payeer/icon.png?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
+|![payeer](https://static.openfintech.io/payment_providers/payeer/icon.svg?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
  
 
 ## JSON Object 

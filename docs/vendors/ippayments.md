@@ -1,6 +1,6 @@
 
 # IP Payments 
-![ippayments](https://static.openfintech.io/vendors/ippayments/logo.png?w=400&c=v0.59.26#w200)  
+![ippayments](https://static.openfintech.io/vendors/ippayments/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Level 3, 441 Kent StreetNSW 2000 SydneyAustralia
 
 ### Logo 
  
-![ippayments](https://static.openfintech.io/vendors/ippayments/logo.png?w=400&c=v0.59.26#w200)  
+![ippayments](https://static.openfintech.io/vendors/ippayments/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ippayments/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ippayments/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ippayments](https://static.openfintech.io/vendors/ippayments/icon.png?w=278&c=v0.59.26#w100)  
+![ippayments](https://static.openfintech.io/vendors/ippayments/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ippayments/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ippayments/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

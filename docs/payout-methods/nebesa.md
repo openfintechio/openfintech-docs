@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Heaven_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![nebesa](https://static.openfintech.io/payout_methods/nebesa/icon.png?w=278&c=v0.59.26#w40) |[nebesa_uah](/payout-services/nebesa_uah/)|`nebesa_uah`| 
+|![nebesa](https://static.openfintech.io/payout_methods/nebesa/icon.svg?w=278&c=v0.59.26#w40) |[nebesa_uah](/payout-services/nebesa_uah/)|`nebesa_uah`| 
  
 
 ## JSON Object 

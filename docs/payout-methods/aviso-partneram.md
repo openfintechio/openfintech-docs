@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _AVISO - Partners_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![aviso-partneram](https://static.openfintech.io/payout_methods/aviso-partneram/icon.png?w=278&c=v0.59.26#w40) |[aviso-partneram_uah](/payout-services/aviso-partneram_uah/)|`aviso-partneram_uah`| 
+|![aviso-partneram](https://static.openfintech.io/payout_methods/aviso-partneram/icon.svg?w=278&c=v0.59.26#w40) |[aviso-partneram_uah](/payout-services/aviso-partneram_uah/)|`aviso-partneram_uah`| 
  
 
 ## JSON Object 

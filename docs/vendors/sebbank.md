@@ -1,6 +1,6 @@
 
 # SEB Bank 
-![sebbank](https://static.openfintech.io/vendors/sebbank/logo.png?w=400&c=v0.59.26#w200)  
+![sebbank](https://static.openfintech.io/vendors/sebbank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![sebbank](https://static.openfintech.io/vendors/sebbank/logo.png?w=400&c=v0.59.26#w200)  
+![sebbank](https://static.openfintech.io/vendors/sebbank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/sebbank/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/sebbank/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![sebbank](https://static.openfintech.io/vendors/sebbank/icon.png?w=278&c=v0.59.26#w100)  
+![sebbank](https://static.openfintech.io/vendors/sebbank/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/sebbank/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/sebbank/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

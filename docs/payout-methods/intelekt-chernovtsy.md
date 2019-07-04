@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Intelekt (Cherniv
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![intelekt-chernovtsy](https://static.openfintech.io/payout_methods/intelekt-chernovtsy/icon.png?w=278&c=v0.59.26#w40) |[intelekt-chernovtsy_uah](/payout-services/intelekt-chernovtsy_uah/)|`intelekt-chernovtsy_uah`| 
+|![intelekt-chernovtsy](https://static.openfintech.io/payout_methods/intelekt-chernovtsy/icon.svg?w=278&c=v0.59.26#w40) |[intelekt-chernovtsy_uah](/payout-services/intelekt-chernovtsy_uah/)|`intelekt-chernovtsy_uah`| 
  
 
 ## JSON Object 

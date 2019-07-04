@@ -1,6 +1,6 @@
 
 # Netelis Asia 
-![netelisasia](https://static.openfintech.io/vendors/netelisasia/logo.png?w=400&c=v0.59.26#w200)  
+![netelisasia](https://static.openfintech.io/vendors/netelisasia/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  MacauTong Nam Ah Campo, 17 Andar, L MacaoMacao
 
 ### Logo 
  
-![netelisasia](https://static.openfintech.io/vendors/netelisasia/logo.png?w=400&c=v0.59.26#w200)  
+![netelisasia](https://static.openfintech.io/vendors/netelisasia/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/netelisasia/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/netelisasia/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![netelisasia](https://static.openfintech.io/vendors/netelisasia/icon.png?w=278&c=v0.59.26#w100)  
+![netelisasia](https://static.openfintech.io/vendors/netelisasia/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/netelisasia/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/netelisasia/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

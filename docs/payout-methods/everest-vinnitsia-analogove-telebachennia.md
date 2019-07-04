@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Everest (Vinnitsa
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![everest-vinnitsia-analogove-telebachennia](https://static.openfintech.io/payout_methods/everest-vinnitsia-analogove-telebachennia/icon.png?w=278&c=v0.59.26#w40) |[everest-vinnitsia-analogove-telebachennia_uah](/payout-services/everest-vinnitsia-analogove-telebachennia_uah/)|`everest-vinnitsia-analogove-telebachennia_uah`| 
+|![everest-vinnitsia-analogove-telebachennia](https://static.openfintech.io/payout_methods/everest-vinnitsia-analogove-telebachennia/icon.svg?w=278&c=v0.59.26#w40) |[everest-vinnitsia-analogove-telebachennia_uah](/payout-services/everest-vinnitsia-analogove-telebachennia_uah/)|`everest-vinnitsia-analogove-telebachennia_uah`| 
  
 
 ## JSON Object 

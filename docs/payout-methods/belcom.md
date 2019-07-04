@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Belcom_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![belcom](https://static.openfintech.io/payout_methods/belcom/icon.png?w=278&c=v0.59.26#w40) |[belcom_uah](/payout-services/belcom_uah/)|`belcom_uah`| 
+|![belcom](https://static.openfintech.io/payout_methods/belcom/icon.svg?w=278&c=v0.59.26#w40) |[belcom_uah](/payout-services/belcom_uah/)|`belcom_uah`| 
  
 
 ## JSON Object 

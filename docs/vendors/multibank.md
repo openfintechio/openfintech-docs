@@ -1,6 +1,6 @@
 
 # MultiTransfer 
-![multibank](https://static.openfintech.io/vendors/multibank/logo.png?w=400&c=v0.59.26#w200)  
+![multibank](https://static.openfintech.io/vendors/multibank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![multibank](https://static.openfintech.io/vendors/multibank/logo.png?w=400&c=v0.59.26#w200)  
+![multibank](https://static.openfintech.io/vendors/multibank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/multibank/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/multibank/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![multibank](https://static.openfintech.io/vendors/multibank/icon.png?w=278&c=v0.59.26#w100)  
+![multibank](https://static.openfintech.io/vendors/multibank/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/multibank/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/multibank/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

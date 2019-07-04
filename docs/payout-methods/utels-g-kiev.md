@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _UTELS (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![utels-g-kiev](https://static.openfintech.io/payout_methods/utels-g-kiev/icon.png?w=278&c=v0.59.26#w40) |[utels-g-kiev_uah](/payout-services/utels-g-kiev_uah/)|`utels-g-kiev_uah`| 
+|![utels-g-kiev](https://static.openfintech.io/payout_methods/utels-g-kiev/icon.svg?w=278&c=v0.59.26#w40) |[utels-g-kiev_uah](/payout-services/utels-g-kiev_uah/)|`utels-g-kiev_uah`| 
  
 
 ## JSON Object 

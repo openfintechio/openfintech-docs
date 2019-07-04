@@ -1,6 +1,6 @@
 
 # Praxispay 
-![praxispay](https://static.openfintech.io/vendors/praxispay/logo.png?w=400&c=v0.59.26#w200)  
+![praxispay](https://static.openfintech.io/vendors/praxispay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Israel
 
 ### Logo 
  
-![praxispay](https://static.openfintech.io/vendors/praxispay/logo.png?w=400&c=v0.59.26#w200)  
+![praxispay](https://static.openfintech.io/vendors/praxispay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/praxispay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/praxispay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![praxispay](https://static.openfintech.io/vendors/praxispay/icon.png?w=278&c=v0.59.26#w100)  
+![praxispay](https://static.openfintech.io/vendors/praxispay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/praxispay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/praxispay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

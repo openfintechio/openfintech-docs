@@ -1,6 +1,6 @@
 
 # Paymentus 
-![paymentus](https://static.openfintech.io/payment_providers/paymentus/logo.png?w=400&c=v0.59.26#w100)  
+![paymentus](https://static.openfintech.io/payment_providers/paymentus/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![paymentus](https://static.openfintech.io/payment_providers/paymentus/logo.png?w=400&c=v0.59.26#w100)  
+![paymentus](https://static.openfintech.io/payment_providers/paymentus/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paymentus/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paymentus/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![paymentus](https://static.openfintech.io/payment_providers/paymentus/icon.png?w=278&c=v0.59.26#w100)  
+![paymentus](https://static.openfintech.io/payment_providers/paymentus/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paymentus/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paymentus/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

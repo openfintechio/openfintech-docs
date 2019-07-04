@@ -1,6 +1,6 @@
 
 # Jambopay 
-![jambopay](https://static.openfintech.io/vendors/jambopay/logo.png?w=400&c=v0.59.26#w200)  
+![jambopay](https://static.openfintech.io/vendors/jambopay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  View Park Towers, 12th Floor Monrovia Street Nairobi
 
 ### Logo 
  
-![jambopay](https://static.openfintech.io/vendors/jambopay/logo.png?w=400&c=v0.59.26#w200)  
+![jambopay](https://static.openfintech.io/vendors/jambopay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/jambopay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/jambopay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![jambopay](https://static.openfintech.io/vendors/jambopay/icon.png?w=278&c=v0.59.26#w100)  
+![jambopay](https://static.openfintech.io/vendors/jambopay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/jambopay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/jambopay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

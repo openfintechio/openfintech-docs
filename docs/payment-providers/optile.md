@@ -1,6 +1,6 @@
 
 # Optile 
-![optile](https://static.openfintech.io/payment_providers/optile/logo.png?w=400&c=v0.59.26#w100)  
+![optile](https://static.openfintech.io/payment_providers/optile/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![optile](https://static.openfintech.io/payment_providers/optile/logo.png?w=400&c=v0.59.26#w100)  
+![optile](https://static.openfintech.io/payment_providers/optile/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/optile/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/optile/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![optile](https://static.openfintech.io/payment_providers/optile/icon.png?w=278&c=v0.59.26#w100)  
+![optile](https://static.openfintech.io/payment_providers/optile/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/optile/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/optile/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

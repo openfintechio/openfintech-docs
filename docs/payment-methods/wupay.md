@@ -1,6 +1,6 @@
 
 # WU Pay 
-![wupay](https://static.openfintech.io/payment_methods/wupay/logo.png?w=400&c=v0.59.26#w200)  
+![wupay](https://static.openfintech.io/payment_methods/wupay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `wupay` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![wupay](https://static.openfintech.io/payment_methods/wupay/logo.png?w=400&c=v0.59.26#w200)  
+![wupay](https://static.openfintech.io/payment_methods/wupay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/wupay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/wupay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![wupay](https://static.openfintech.io/payment_methods/wupay/icon.png?w=278&c=v0.59.26#w100)  
+![wupay](https://static.openfintech.io/payment_methods/wupay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/wupay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/wupay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,8 +43,8 @@ The list of [Payment Providers](/payment-providers/) that support the _WU Pay_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
-|![dengionline](https://static.openfintech.io/payment_providers/dengionline/icon.png?w=278&c=v0.59.26#w100) |[Dengi Online](/payment-providers/dengionline/)|`dengionline`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![dengionline](https://static.openfintech.io/payment_providers/dengionline/icon.svg?w=278&c=v0.59.26#w100) |[Dengi Online](/payment-providers/dengionline/)|`dengionline`| 
  
 
 ## JSON Object 

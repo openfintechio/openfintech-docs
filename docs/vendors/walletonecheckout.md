@@ -1,6 +1,6 @@
 
 # Wallet One 
-![walletonecheckout](https://static.openfintech.io/vendors/walletonecheckout/logo.png?w=400&c=v0.59.26#w200)  
+![walletonecheckout](https://static.openfintech.io/vendors/walletonecheckout/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Russian Federation
 
 ### Logo 
  
-![walletonecheckout](https://static.openfintech.io/vendors/walletonecheckout/logo.png?w=400&c=v0.59.26#w200)  
+![walletonecheckout](https://static.openfintech.io/vendors/walletonecheckout/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/walletonecheckout/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/walletonecheckout/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![walletonecheckout](https://static.openfintech.io/vendors/walletonecheckout/icon.png?w=278&c=v0.59.26#w100)  
+![walletonecheckout](https://static.openfintech.io/vendors/walletonecheckout/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/walletonecheckout/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/walletonecheckout/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # B+S Card Service 
-![bscardservices](https://static.openfintech.io/vendors/bscardservices/logo.png?w=400&c=v0.59.26#w200)  
+![bscardservices](https://static.openfintech.io/vendors/bscardservices/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Lyoner Straße 960528 Frankfurt am MainGermany
 
 ### Logo 
  
-![bscardservices](https://static.openfintech.io/vendors/bscardservices/logo.png?w=400&c=v0.59.26#w200)  
+![bscardservices](https://static.openfintech.io/vendors/bscardservices/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/bscardservices/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/bscardservices/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![bscardservices](https://static.openfintech.io/vendors/bscardservices/icon.png?w=278&c=v0.59.26#w100)  
+![bscardservices](https://static.openfintech.io/vendors/bscardservices/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/bscardservices/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/bscardservices/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

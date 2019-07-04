@@ -1,6 +1,6 @@
 
 # eCard 
-![ecardsa](https://static.openfintech.io/vendors/ecardsa/logo.png?w=400&c=v0.59.26#w200)  
+![ecardsa](https://static.openfintech.io/vendors/ecardsa/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  ul. Czackiego 7/9/1100-043 WarszawaPoland
 
 ### Logo 
  
-![ecardsa](https://static.openfintech.io/vendors/ecardsa/logo.png?w=400&c=v0.59.26#w200)  
+![ecardsa](https://static.openfintech.io/vendors/ecardsa/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ecardsa/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ecardsa/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ecardsa](https://static.openfintech.io/vendors/ecardsa/icon.png?w=278&c=v0.59.26#w100)  
+![ecardsa](https://static.openfintech.io/vendors/ecardsa/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ecardsa/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ecardsa/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

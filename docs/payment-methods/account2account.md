@@ -1,6 +1,6 @@
 
 # account2account 
-![account2account](https://static.openfintech.io/payment_methods/account2account/logo.png?w=400&c=v0.59.26#w200)  
+![account2account](https://static.openfintech.io/payment_methods/account2account/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `account2account` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![account2account](https://static.openfintech.io/payment_methods/account2account/logo.png?w=400&c=v0.59.26#w200)  
+![account2account](https://static.openfintech.io/payment_methods/account2account/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/account2account/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/account2account/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![account2account](https://static.openfintech.io/payment_methods/account2account/icon.png?w=278&c=v0.59.26#w100)  
+![account2account](https://static.openfintech.io/payment_methods/account2account/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/account2account/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/account2account/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,9 +43,9 @@ The list of [Payment Providers](/payment-providers/) that support the _account2a
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![omnipayment](https://static.openfintech.io/payment_providers/omnipayment/icon.png?w=278&c=v0.59.26#w100) |[OmniPayment](/payment-providers/omnipayment/)|`omnipayment`| 
+|![omnipayment](https://static.openfintech.io/payment_providers/omnipayment/icon.svg?w=278&c=v0.59.26#w100) |[OmniPayment](/payment-providers/omnipayment/)|`omnipayment`| 
 |![fondy](https://static.openfintech.io/payment_providers/fondy/icon.svg?w=278&c=v0.59.26#w100) |[FONDY](/payment-providers/fondy/)|`fondy`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
  
 
 ## JSON Object 

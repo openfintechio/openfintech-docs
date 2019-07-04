@@ -1,6 +1,6 @@
 
 # PayByBill 
-![paybybill](https://static.openfintech.io/vendors/paybybill/logo.png?w=400&c=v0.59.26#w200)  
+![paybybill](https://static.openfintech.io/vendors/paybybill/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@ email: paybybill@gothiagroup.comphone: +47 22 87 89 20
 
 ### Logo 
  
-![paybybill](https://static.openfintech.io/vendors/paybybill/logo.png?w=400&c=v0.59.26#w200)  
+![paybybill](https://static.openfintech.io/vendors/paybybill/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paybybill/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paybybill/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paybybill](https://static.openfintech.io/vendors/paybybill/icon.png?w=278&c=v0.59.26#w100)  
+![paybybill](https://static.openfintech.io/vendors/paybybill/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paybybill/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paybybill/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

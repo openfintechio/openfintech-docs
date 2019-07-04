@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ASTRA (Lviv, Vynn
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![astra-lvov-vinniki](https://static.openfintech.io/payout_methods/astra-lvov-vinniki/icon.png?w=278&c=v0.59.26#w40) |[astra-lvov-vinniki_uah](/payout-services/astra-lvov-vinniki_uah/)|`astra-lvov-vinniki_uah`| 
+|![astra-lvov-vinniki](https://static.openfintech.io/payout_methods/astra-lvov-vinniki/icon.svg?w=278&c=v0.59.26#w40) |[astra-lvov-vinniki_uah](/payout-services/astra-lvov-vinniki_uah/)|`astra-lvov-vinniki_uah`| 
  
 
 ## JSON Object 

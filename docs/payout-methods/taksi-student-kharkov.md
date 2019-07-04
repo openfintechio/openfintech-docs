@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Student (Kha
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-student-kharkov](https://static.openfintech.io/payout_methods/taksi-student-kharkov/icon.png?w=278&c=v0.59.26#w40) |[taksi-student-kharkov_uah](/payout-services/taksi-student-kharkov_uah/)|`taksi-student-kharkov_uah`| 
+|![taksi-student-kharkov](https://static.openfintech.io/payout_methods/taksi-student-kharkov/icon.svg?w=278&c=v0.59.26#w40) |[taksi-student-kharkov_uah](/payout-services/taksi-student-kharkov_uah/)|`taksi-student-kharkov_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Olpays 
-![olpays](https://static.openfintech.io/vendors/olpays/logo.png?w=400&c=v0.59.26#w200)  
+![olpays](https://static.openfintech.io/vendors/olpays/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Argentina
 
 ### Logo 
  
-![olpays](https://static.openfintech.io/vendors/olpays/logo.png?w=400&c=v0.59.26#w200)  
+![olpays](https://static.openfintech.io/vendors/olpays/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/olpays/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/olpays/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![olpays](https://static.openfintech.io/vendors/olpays/icon.png?w=278&c=v0.59.26#w100)  
+![olpays](https://static.openfintech.io/vendors/olpays/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/olpays/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/olpays/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

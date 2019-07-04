@@ -1,6 +1,6 @@
 
 # Webteh 
-![webteh](https://static.openfintech.io/vendors/webteh/logo.png?w=400&c=v0.59.26#w200)  
+![webteh](https://static.openfintech.io/vendors/webteh/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Zagreb10 000 ZagrebCroatia
 
 ### Logo 
  
-![webteh](https://static.openfintech.io/vendors/webteh/logo.png?w=400&c=v0.59.26#w200)  
+![webteh](https://static.openfintech.io/vendors/webteh/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/webteh/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/webteh/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![webteh](https://static.openfintech.io/vendors/webteh/icon.png?w=278&c=v0.59.26#w100)  
+![webteh](https://static.openfintech.io/vendors/webteh/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/webteh/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/webteh/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

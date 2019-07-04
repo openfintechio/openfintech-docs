@@ -1,6 +1,6 @@
 
 # PencePay 
-![pencepay](https://static.openfintech.io/payment_providers/pencepay/logo.png?w=400&c=v0.59.26#w100)  
+![pencepay](https://static.openfintech.io/payment_providers/pencepay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![pencepay](https://static.openfintech.io/payment_providers/pencepay/logo.png?w=400&c=v0.59.26#w100)  
+![pencepay](https://static.openfintech.io/payment_providers/pencepay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/pencepay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/pencepay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![pencepay](https://static.openfintech.io/payment_providers/pencepay/icon.png?w=278&c=v0.59.26#w100)  
+![pencepay](https://static.openfintech.io/payment_providers/pencepay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/pencepay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/pencepay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

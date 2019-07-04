@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Lords_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![poveliteli](https://static.openfintech.io/payout_methods/poveliteli/icon.png?w=278&c=v0.59.26#w40) |[poveliteli_uah](/payout-services/poveliteli_uah/)|`poveliteli_uah`| 
+|![poveliteli](https://static.openfintech.io/payout_methods/poveliteli/icon.svg?w=278&c=v0.59.26#w40) |[poveliteli_uah](/payout-services/poveliteli_uah/)|`poveliteli_uah`| 
  
 
 ## JSON Object 

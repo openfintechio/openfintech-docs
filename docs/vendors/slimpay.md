@@ -1,6 +1,6 @@
 
 # SlimPay 
-![slimpay](https://static.openfintech.io/vendors/slimpay/logo.png?w=400&c=v0.59.26#w200)  
+![slimpay](https://static.openfintech.io/vendors/slimpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  10 rue du Faubourg Poissonnière75010 ParisFrance
 
 ### Logo 
  
-![slimpay](https://static.openfintech.io/vendors/slimpay/logo.png?w=400&c=v0.59.26#w200)  
+![slimpay](https://static.openfintech.io/vendors/slimpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/slimpay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/slimpay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![slimpay](https://static.openfintech.io/vendors/slimpay/icon.png?w=278&c=v0.59.26#w100)  
+![slimpay](https://static.openfintech.io/vendors/slimpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/slimpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/slimpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

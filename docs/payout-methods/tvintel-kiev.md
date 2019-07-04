@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Tvintel (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tvintel-kiev](https://static.openfintech.io/payout_methods/tvintel-kiev/icon.png?w=278&c=v0.59.26#w40) |[tvintel-kiev_uah](/payout-services/tvintel-kiev_uah/)|`tvintel-kiev_uah`| 
+|![tvintel-kiev](https://static.openfintech.io/payout_methods/tvintel-kiev/icon.svg?w=278&c=v0.59.26#w40) |[tvintel-kiev_uah](/payout-services/tvintel-kiev_uah/)|`tvintel-kiev_uah`| 
  
 
 ## JSON Object 

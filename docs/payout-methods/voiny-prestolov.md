@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _War of Thrones_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![voiny-prestolov](https://static.openfintech.io/payout_methods/voiny-prestolov/icon.png?w=278&c=v0.59.26#w40) |[voiny-prestolov_uah](/payout-services/voiny-prestolov_uah/)|`voiny-prestolov_uah`| 
+|![voiny-prestolov](https://static.openfintech.io/payout_methods/voiny-prestolov/icon.svg?w=278&c=v0.59.26#w40) |[voiny-prestolov_uah](/payout-services/voiny-prestolov_uah/)|`voiny-prestolov_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Milano (Kiev
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-milano-kiev](https://static.openfintech.io/payout_methods/taksi-milano-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-milano-kiev_uah](/payout-services/taksi-milano-kiev_uah/)|`taksi-milano-kiev_uah`| 
+|![taksi-milano-kiev](https://static.openfintech.io/payout_methods/taksi-milano-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-milano-kiev_uah](/payout-services/taksi-milano-kiev_uah/)|`taksi-milano-kiev_uah`| 
  
 
 ## JSON Object 

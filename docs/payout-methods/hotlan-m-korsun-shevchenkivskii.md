@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _HOTLAN (m. Korsun
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![hotlan-m-korsun-shevchenkivskii](https://static.openfintech.io/payout_methods/hotlan-m-korsun-shevchenkivskii/icon.png?w=278&c=v0.59.26#w40) |[hotlan-m-korsun-shevchenkivskii_uah](/payout-services/hotlan-m-korsun-shevchenkivskii_uah/)|`hotlan-m-korsun-shevchenkivskii_uah`| 
+|![hotlan-m-korsun-shevchenkivskii](https://static.openfintech.io/payout_methods/hotlan-m-korsun-shevchenkivskii/icon.svg?w=278&c=v0.59.26#w40) |[hotlan-m-korsun-shevchenkivskii_uah](/payout-services/hotlan-m-korsun-shevchenkivskii_uah/)|`hotlan-m-korsun-shevchenkivskii_uah`| 
  
 
 ## JSON Object 

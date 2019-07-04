@@ -1,6 +1,6 @@
 
 # ICICI netbanking 
-![icicinetbanking](https://static.openfintech.io/payment_methods/icicinetbanking/logo.png?w=400&c=v0.59.26#w200)  
+![icicinetbanking](https://static.openfintech.io/payment_methods/icicinetbanking/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `icicinetbanking` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![icicinetbanking](https://static.openfintech.io/payment_methods/icicinetbanking/logo.png?w=400&c=v0.59.26#w200)  
+![icicinetbanking](https://static.openfintech.io/payment_methods/icicinetbanking/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/icicinetbanking/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/icicinetbanking/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![icicinetbanking](https://static.openfintech.io/payment_methods/icicinetbanking/icon.png?w=278&c=v0.59.26#w100)  
+![icicinetbanking](https://static.openfintech.io/payment_methods/icicinetbanking/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/icicinetbanking/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/icicinetbanking/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,10 +43,10 @@ The list of [Payment Providers](/payment-providers/) that support the _ICICI net
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
-|![ebillingsolutions](https://static.openfintech.io/payment_providers/ebillingsolutions/icon.png?w=278&c=v0.59.26#w100) |[EBS](/payment-providers/ebillingsolutions/)|`ebillingsolutions`| 
-|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.png?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
+|![acapture](https://static.openfintech.io/payment_providers/acapture/icon.svg?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![ebillingsolutions](https://static.openfintech.io/payment_providers/ebillingsolutions/icon.svg?w=278&c=v0.59.26#w100) |[EBS](/payment-providers/ebillingsolutions/)|`ebillingsolutions`| 
+|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.svg?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
  
 
 ## JSON Object 

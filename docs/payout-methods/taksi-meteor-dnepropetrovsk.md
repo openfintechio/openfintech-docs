@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Meteor (Dnep
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-meteor-dnepropetrovsk](https://static.openfintech.io/payout_methods/taksi-meteor-dnepropetrovsk/icon.png?w=278&c=v0.59.26#w40) |[taksi-meteor-dnepropetrovsk_uah](/payout-services/taksi-meteor-dnepropetrovsk_uah/)|`taksi-meteor-dnepropetrovsk_uah`| 
+|![taksi-meteor-dnepropetrovsk](https://static.openfintech.io/payout_methods/taksi-meteor-dnepropetrovsk/icon.svg?w=278&c=v0.59.26#w40) |[taksi-meteor-dnepropetrovsk_uah](/payout-services/taksi-meteor-dnepropetrovsk_uah/)|`taksi-meteor-dnepropetrovsk_uah`| 
  
 
 ## JSON Object 

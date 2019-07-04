@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Avangard348 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-avangard348-kiev](https://static.openfintech.io/payout_methods/taksi-avangard348-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-avangard348-kiev_uah](/payout-services/taksi-avangard348-kiev_uah/)|`taksi-avangard348-kiev_uah`| 
+|![taksi-avangard348-kiev](https://static.openfintech.io/payout_methods/taksi-avangard348-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-avangard348-kiev_uah](/payout-services/taksi-avangard348-kiev_uah/)|`taksi-avangard348-kiev_uah`| 
  
 
 ## JSON Object 

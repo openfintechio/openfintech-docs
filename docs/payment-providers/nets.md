@@ -1,6 +1,6 @@
 
 # Nets 
-![nets](https://static.openfintech.io/payment_providers/nets/logo.png?w=400&c=v0.59.26#w100)  
+![nets](https://static.openfintech.io/payment_providers/nets/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![nets](https://static.openfintech.io/payment_providers/nets/logo.png?w=400&c=v0.59.26#w100)  
+![nets](https://static.openfintech.io/payment_providers/nets/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/nets/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/nets/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![nets](https://static.openfintech.io/payment_providers/nets/icon.png?w=278&c=v0.59.26#w100)  
+![nets](https://static.openfintech.io/payment_providers/nets/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/nets/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/nets/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

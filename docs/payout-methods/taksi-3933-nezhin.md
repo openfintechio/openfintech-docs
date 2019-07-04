@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi 3933 (Nezhin
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-3933-nezhin](https://static.openfintech.io/payout_methods/taksi-3933-nezhin/icon.png?w=278&c=v0.59.26#w40) |[taksi-3933-nezhin_uah](/payout-services/taksi-3933-nezhin_uah/)|`taksi-3933-nezhin_uah`| 
+|![taksi-3933-nezhin](https://static.openfintech.io/payout_methods/taksi-3933-nezhin/icon.svg?w=278&c=v0.59.26#w40) |[taksi-3933-nezhin_uah](/payout-services/taksi-3933-nezhin_uah/)|`taksi-3933-nezhin_uah`| 
  
 
 ## JSON Object 

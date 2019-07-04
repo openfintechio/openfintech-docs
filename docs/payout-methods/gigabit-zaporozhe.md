@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Gigabit (Zaporozh
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![gigabit-zaporozhe](https://static.openfintech.io/payout_methods/gigabit-zaporozhe/icon.png?w=278&c=v0.59.26#w40) |[gigabit-zaporozhe_uah](/payout-services/gigabit-zaporozhe_uah/)|`gigabit-zaporozhe_uah`| 
+|![gigabit-zaporozhe](https://static.openfintech.io/payout_methods/gigabit-zaporozhe/icon.svg?w=278&c=v0.59.26#w40) |[gigabit-zaporozhe_uah](/payout-services/gigabit-zaporozhe_uah/)|`gigabit-zaporozhe_uah`| 
  
 
 ## JSON Object 

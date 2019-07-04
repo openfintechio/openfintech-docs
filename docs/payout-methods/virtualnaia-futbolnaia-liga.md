@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Virtual Football 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![virtualnaia-futbolnaia-liga](https://static.openfintech.io/payout_methods/virtualnaia-futbolnaia-liga/icon.png?w=278&c=v0.59.26#w40) |[virtualnaia-futbolnaia-liga_uah](/payout-services/virtualnaia-futbolnaia-liga_uah/)|`virtualnaia-futbolnaia-liga_uah`| 
+|![virtualnaia-futbolnaia-liga](https://static.openfintech.io/payout_methods/virtualnaia-futbolnaia-liga/icon.svg?w=278&c=v0.59.26#w40) |[virtualnaia-futbolnaia-liga_uah](/payout-services/virtualnaia-futbolnaia-liga_uah/)|`virtualnaia-futbolnaia-liga_uah`| 
  
 
 ## JSON Object 

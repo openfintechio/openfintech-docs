@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Bloody world_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bloody-world](https://static.openfintech.io/payout_methods/bloody-world/icon.png?w=278&c=v0.59.26#w40) |[bloody-world_uah](/payout-services/bloody-world_uah/)|`bloody-world_uah`| 
+|![bloody-world](https://static.openfintech.io/payout_methods/bloody-world/icon.svg?w=278&c=v0.59.26#w40) |[bloody-world_uah](/payout-services/bloody-world_uah/)|`bloody-world_uah`| 
  
 
 ## JSON Object 

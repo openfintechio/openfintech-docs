@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Atom fishing Extr
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![atom-fishing-ekstrim](https://static.openfintech.io/payout_methods/atom-fishing-ekstrim/icon.png?w=278&c=v0.59.26#w40) |[atom-fishing-ekstrim_uah](/payout-services/atom-fishing-ekstrim_uah/)|`atom-fishing-ekstrim_uah`| 
+|![atom-fishing-ekstrim](https://static.openfintech.io/payout_methods/atom-fishing-ekstrim/icon.svg?w=278&c=v0.59.26#w40) |[atom-fishing-ekstrim_uah](/payout-services/atom-fishing-ekstrim_uah/)|`atom-fishing-ekstrim_uah`| 
  
 
 ## JSON Object 

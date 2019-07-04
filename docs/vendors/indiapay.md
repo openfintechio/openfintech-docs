@@ -1,6 +1,6 @@
 
 # IndiaPay 
-![indiapay](https://static.openfintech.io/vendors/indiapay/logo.png?w=400&c=v0.59.26#w200)  
+![indiapay](https://static.openfintech.io/vendors/indiapay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Suite 422/423, Unique, Twin Tower Lane, Opp Siddhivinayak Temple, Prabh
 
 ### Logo 
  
-![indiapay](https://static.openfintech.io/vendors/indiapay/logo.png?w=400&c=v0.59.26#w200)  
+![indiapay](https://static.openfintech.io/vendors/indiapay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/indiapay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/indiapay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![indiapay](https://static.openfintech.io/vendors/indiapay/icon.png?w=278&c=v0.59.26#w100)  
+![indiapay](https://static.openfintech.io/vendors/indiapay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/indiapay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/indiapay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

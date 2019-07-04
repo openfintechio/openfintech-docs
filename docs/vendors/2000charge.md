@@ -1,6 +1,6 @@
 
 # 2000Charge.com 
-![2000charge](https://static.openfintech.io/vendors/2000charge/logo.png?w=400&c=v0.59.26#w200)  
+![2000charge](https://static.openfintech.io/vendors/2000charge/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -30,18 +30,18 @@ street:  91101 United States of America
 
 ### Logo 
  
-![2000charge](https://static.openfintech.io/vendors/2000charge/logo.png?w=400&c=v0.59.26#w200)  
+![2000charge](https://static.openfintech.io/vendors/2000charge/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/2000charge/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/2000charge/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![2000charge](https://static.openfintech.io/vendors/2000charge/icon.png?w=278&c=v0.59.26#w100)  
+![2000charge](https://static.openfintech.io/vendors/2000charge/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/2000charge/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/2000charge/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

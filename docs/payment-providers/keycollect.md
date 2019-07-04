@@ -1,6 +1,6 @@
 
 # KeyCollect 
-![keycollect](https://static.openfintech.io/payment_providers/keycollect/logo.png?w=400&c=v0.59.26#w100)  
+![keycollect](https://static.openfintech.io/payment_providers/keycollect/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![keycollect](https://static.openfintech.io/payment_providers/keycollect/logo.png?w=400&c=v0.59.26#w100)  
+![keycollect](https://static.openfintech.io/payment_providers/keycollect/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/keycollect/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/keycollect/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![keycollect](https://static.openfintech.io/payment_providers/keycollect/icon.png?w=278&c=v0.59.26#w100)  
+![keycollect](https://static.openfintech.io/payment_providers/keycollect/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/keycollect/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/keycollect/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

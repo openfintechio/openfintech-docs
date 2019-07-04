@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _PSTS_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![psts](https://static.openfintech.io/payout_methods/psts/icon.png?w=278&c=v0.59.26#w40) |[psts_uah](/payout-services/psts_uah/)|`psts_uah`| 
+|![psts](https://static.openfintech.io/payout_methods/psts/icon.svg?w=278&c=v0.59.26#w40) |[psts_uah](/payout-services/psts_uah/)|`psts_uah`| 
  
 
 ## JSON Object 

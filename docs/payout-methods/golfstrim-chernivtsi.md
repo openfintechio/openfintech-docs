@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Gulf Stream (Cher
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![golfstrim-chernivtsi](https://static.openfintech.io/payout_methods/golfstrim-chernivtsi/icon.png?w=278&c=v0.59.26#w40) |[golfstrim-chernivtsi_uah](/payout-services/golfstrim-chernivtsi_uah/)|`golfstrim-chernivtsi_uah`| 
+|![golfstrim-chernivtsi](https://static.openfintech.io/payout_methods/golfstrim-chernivtsi/icon.svg?w=278&c=v0.59.26#w40) |[golfstrim-chernivtsi_uah](/payout-services/golfstrim-chernivtsi_uah/)|`golfstrim-chernivtsi_uah`| 
  
 
 ## JSON Object 

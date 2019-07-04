@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _TELECOM_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![telkom](https://static.openfintech.io/payout_methods/telkom/icon.png?w=278&c=v0.59.26#w40) |[telkom_uah](/payout-services/telkom_uah/)|`telkom_uah`| 
+|![telkom](https://static.openfintech.io/payout_methods/telkom/icon.svg?w=278&c=v0.59.26#w40) |[telkom_uah](/payout-services/telkom_uah/)|`telkom_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _NEON (Nikolaev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![neon-mikolayiv](https://static.openfintech.io/payout_methods/neon-mikolayiv/icon.png?w=278&c=v0.59.26#w40) |[neon-mikolayiv_uah](/payout-services/neon-mikolayiv_uah/)|`neon-mikolayiv_uah`| 
+|![neon-mikolayiv](https://static.openfintech.io/payout_methods/neon-mikolayiv/icon.svg?w=278&c=v0.59.26#w40) |[neon-mikolayiv_uah](/payout-services/neon-mikolayiv_uah/)|`neon-mikolayiv_uah`| 
  
 
 ## JSON Object 

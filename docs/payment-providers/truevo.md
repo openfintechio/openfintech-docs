@@ -1,6 +1,6 @@
 
 # Truevo Payments 
-![truevo](https://static.openfintech.io/payment_providers/truevo/logo.png?w=400&c=v0.59.26#w100)  
+![truevo](https://static.openfintech.io/payment_providers/truevo/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![truevo](https://static.openfintech.io/payment_providers/truevo/logo.png?w=400&c=v0.59.26#w100)  
+![truevo](https://static.openfintech.io/payment_providers/truevo/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/truevo/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/truevo/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![truevo](https://static.openfintech.io/payment_providers/truevo/icon.png?w=278&c=v0.59.26#w100)  
+![truevo](https://static.openfintech.io/payment_providers/truevo/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/truevo/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/truevo/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

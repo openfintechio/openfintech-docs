@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Companion Finance
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kompanion-finans](https://static.openfintech.io/payout_methods/kompanion-finans/icon.png?w=278&c=v0.59.26#w40) |[kompanion-finans_uah](/payout-services/kompanion-finans_uah/)|`kompanion-finans_uah`| 
+|![kompanion-finans](https://static.openfintech.io/payout_methods/kompanion-finans/icon.svg?w=278&c=v0.59.26#w40) |[kompanion-finans_uah](/payout-services/kompanion-finans_uah/)|`kompanion-finans_uah`| 
  
 
 ## JSON Object 

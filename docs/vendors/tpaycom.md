@@ -1,6 +1,6 @@
 
 # tpay.com 
-![tpaycom](https://static.openfintech.io/vendors/tpaycom/logo.png?w=400&c=v0.59.26#w200)  
+![tpaycom](https://static.openfintech.io/vendors/tpaycom/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  ul. Św. Marcin 73/661-808 PoznanPoland
 
 ### Logo 
  
-![tpaycom](https://static.openfintech.io/vendors/tpaycom/logo.png?w=400&c=v0.59.26#w200)  
+![tpaycom](https://static.openfintech.io/vendors/tpaycom/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/tpaycom/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/tpaycom/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![tpaycom](https://static.openfintech.io/vendors/tpaycom/icon.png?w=278&c=v0.59.26#w100)  
+![tpaycom](https://static.openfintech.io/vendors/tpaycom/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/tpaycom/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/tpaycom/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # La Caixa 
-![lacaixa](https://static.openfintech.io/payment_methods/lacaixa/logo.png?w=400&c=v0.59.26#w200)  
+![lacaixa](https://static.openfintech.io/payment_methods/lacaixa/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `lacaixa` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![lacaixa](https://static.openfintech.io/payment_methods/lacaixa/logo.png?w=400&c=v0.59.26#w200)  
+![lacaixa](https://static.openfintech.io/payment_methods/lacaixa/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/lacaixa/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/lacaixa/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![lacaixa](https://static.openfintech.io/payment_methods/lacaixa/icon.png?w=278&c=v0.59.26#w100)  
+![lacaixa](https://static.openfintech.io/payment_methods/lacaixa/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/lacaixa/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/lacaixa/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _La Caixa_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
  
 

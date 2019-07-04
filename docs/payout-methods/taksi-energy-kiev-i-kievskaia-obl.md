@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Energy (Kiev
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-energy-kiev-i-kievskaia-obl](https://static.openfintech.io/payout_methods/taksi-energy-kiev-i-kievskaia-obl/icon.png?w=278&c=v0.59.26#w40) |[taksi-energy-kiev-i-kievskaia-obl_uah](/payout-services/taksi-energy-kiev-i-kievskaia-obl_uah/)|`taksi-energy-kiev-i-kievskaia-obl_uah`| 
+|![taksi-energy-kiev-i-kievskaia-obl](https://static.openfintech.io/payout_methods/taksi-energy-kiev-i-kievskaia-obl/icon.svg?w=278&c=v0.59.26#w40) |[taksi-energy-kiev-i-kievskaia-obl_uah](/payout-services/taksi-energy-kiev-i-kievskaia-obl_uah/)|`taksi-energy-kiev-i-kievskaia-obl_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Procard 
-![procard](https://static.openfintech.io/vendors/procard/logo.png?w=400&c=v0.59.26#w200)  
+![procard](https://static.openfintech.io/vendors/procard/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -20,18 +20,18 @@
 
 ### Logo 
  
-![procard](https://static.openfintech.io/vendors/procard/logo.png?w=400&c=v0.59.26#w200)  
+![procard](https://static.openfintech.io/vendors/procard/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/procard/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/procard/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![procard](https://static.openfintech.io/vendors/procard/icon.png?w=278&c=v0.59.26#w100)  
+![procard](https://static.openfintech.io/vendors/procard/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/procard/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/procard/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

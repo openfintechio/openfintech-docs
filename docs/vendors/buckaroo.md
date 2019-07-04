@@ -1,6 +1,6 @@
 
 # Buckaroo 
-![buckaroo](https://static.openfintech.io/vendors/buckaroo/logo.png?w=400&c=v0.59.26#w200)  
+![buckaroo](https://static.openfintech.io/vendors/buckaroo/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  Zonnebaan 93542EA UtrechtUtrechtNetherlands
 
 ### Logo 
  
-![buckaroo](https://static.openfintech.io/vendors/buckaroo/logo.png?w=400&c=v0.59.26#w200)  
+![buckaroo](https://static.openfintech.io/vendors/buckaroo/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/buckaroo/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/buckaroo/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![buckaroo](https://static.openfintech.io/vendors/buckaroo/icon.png?w=278&c=v0.59.26#w100)  
+![buckaroo](https://static.openfintech.io/vendors/buckaroo/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/buckaroo/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/buckaroo/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

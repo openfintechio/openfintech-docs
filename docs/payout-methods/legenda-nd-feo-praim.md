@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Legend: Sun (Feo 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![legenda-nd-feo-praim](https://static.openfintech.io/payout_methods/legenda-nd-feo-praim/icon.png?w=278&c=v0.59.26#w40) |[legenda-nd-feo-praim_uah](/payout-services/legenda-nd-feo-praim_uah/)|`legenda-nd-feo-praim_uah`| 
+|![legenda-nd-feo-praim](https://static.openfintech.io/payout_methods/legenda-nd-feo-praim/icon.svg?w=278&c=v0.59.26#w40) |[legenda-nd-feo-praim_uah](/payout-services/legenda-nd-feo-praim_uah/)|`legenda-nd-feo-praim_uah`| 
  
 
 ## JSON Object 

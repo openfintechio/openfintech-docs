@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _BFGnet (Koblevo)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bfgnet-koblevo](https://static.openfintech.io/payout_methods/bfgnet-koblevo/icon.png?w=278&c=v0.59.26#w40) |[bfgnet-koblevo_uah](/payout-services/bfgnet-koblevo_uah/)|`bfgnet-koblevo_uah`| 
+|![bfgnet-koblevo](https://static.openfintech.io/payout_methods/bfgnet-koblevo/icon.svg?w=278&c=v0.59.26#w40) |[bfgnet-koblevo_uah](/payout-services/bfgnet-koblevo_uah/)|`bfgnet-koblevo_uah`| 
  
 
 ## JSON Object 

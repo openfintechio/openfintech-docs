@@ -1,6 +1,6 @@
 
 # CCNow 
-![ccnow](https://static.openfintech.io/payment_providers/ccnow/logo.png?w=400&c=v0.59.26#w100)  
+![ccnow](https://static.openfintech.io/payment_providers/ccnow/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![ccnow](https://static.openfintech.io/payment_providers/ccnow/logo.png?w=400&c=v0.59.26#w100)  
+![ccnow](https://static.openfintech.io/payment_providers/ccnow/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/ccnow/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/ccnow/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![ccnow](https://static.openfintech.io/payment_providers/ccnow/icon.png?w=278&c=v0.59.26#w100)  
+![ccnow](https://static.openfintech.io/payment_providers/ccnow/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/ccnow/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/ccnow/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -40,7 +40,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.svg?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
 |![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
 |![paypal](https://static.openfintech.io/payment_methods/paypal/icon.svg?w=278&c=v0.59.26#w100) |[paypal](/payment-methods/paypal/)|`paypal`| 
  

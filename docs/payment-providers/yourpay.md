@@ -1,6 +1,6 @@
 
 # YourPay 
-![yourpay](https://static.openfintech.io/payment_providers/yourpay/logo.png?w=400&c=v0.59.26#w100)  
+![yourpay](https://static.openfintech.io/payment_providers/yourpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![yourpay](https://static.openfintech.io/payment_providers/yourpay/logo.png?w=400&c=v0.59.26#w100)  
+![yourpay](https://static.openfintech.io/payment_providers/yourpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/yourpay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/yourpay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![yourpay](https://static.openfintech.io/payment_providers/yourpay/icon.png?w=278&c=v0.59.26#w100)  
+![yourpay](https://static.openfintech.io/payment_providers/yourpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/yourpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/yourpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _OMEGA GROUP_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![omega-grupp](https://static.openfintech.io/payout_methods/omega-grupp/icon.png?w=278&c=v0.59.26#w40) |[omega-grupp_uah](/payout-services/omega-grupp_uah/)|`omega-grupp_uah`| 
+|![omega-grupp](https://static.openfintech.io/payout_methods/omega-grupp/icon.svg?w=278&c=v0.59.26#w40) |[omega-grupp_uah](/payout-services/omega-grupp_uah/)|`omega-grupp_uah`| 
  
 
 ## JSON Object 

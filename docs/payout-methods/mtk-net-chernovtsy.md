@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _MTK NO (Chernivts
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![mtk-net-chernovtsy](https://static.openfintech.io/payout_methods/mtk-net-chernovtsy/icon.png?w=278&c=v0.59.26#w40) |[mtk-net-chernovtsy_uah](/payout-services/mtk-net-chernovtsy_uah/)|`mtk-net-chernovtsy_uah`| 
+|![mtk-net-chernovtsy](https://static.openfintech.io/payout_methods/mtk-net-chernovtsy/icon.svg?w=278&c=v0.59.26#w40) |[mtk-net-chernovtsy_uah](/payout-services/mtk-net-chernovtsy_uah/)|`mtk-net-chernovtsy_uah`| 
  
 
 ## JSON Object 

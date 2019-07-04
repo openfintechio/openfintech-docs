@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _TRC Mriya - Inter
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![trk-mriia-internet-ovruch](https://static.openfintech.io/payout_methods/trk-mriia-internet-ovruch/icon.png?w=278&c=v0.59.26#w40) |[trk-mriia-internet-ovruch_uah](/payout-services/trk-mriia-internet-ovruch_uah/)|`trk-mriia-internet-ovruch_uah`| 
+|![trk-mriia-internet-ovruch](https://static.openfintech.io/payout_methods/trk-mriia-internet-ovruch/icon.svg?w=278&c=v0.59.26#w40) |[trk-mriia-internet-ovruch_uah](/payout-services/trk-mriia-internet-ovruch_uah/)|`trk-mriia-internet-ovruch_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # MistralPay 
-![mistralpay2](https://static.openfintech.io/payment_providers/mistralpay2/logo.png?w=400&c=v0.59.26#w100)  
+![mistralpay2](https://static.openfintech.io/payment_providers/mistralpay2/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![mistralpay2](https://static.openfintech.io/payment_providers/mistralpay2/logo.png?w=400&c=v0.59.26#w100)  
+![mistralpay2](https://static.openfintech.io/payment_providers/mistralpay2/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/mistralpay2/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/mistralpay2/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![mistralpay2](https://static.openfintech.io/payment_providers/mistralpay2/icon.png?w=278&c=v0.59.26#w100)  
+![mistralpay2](https://static.openfintech.io/payment_providers/mistralpay2/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/mistralpay2/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/mistralpay2/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

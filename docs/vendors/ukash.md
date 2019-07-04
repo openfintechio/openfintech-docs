@@ -1,6 +1,6 @@
 
 # Ukash 
-![ukash](https://static.openfintech.io/vendors/ukash/logo.png?w=400&c=v0.59.26#w200)  
+![ukash](https://static.openfintech.io/vendors/ukash/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![ukash](https://static.openfintech.io/vendors/ukash/logo.png?w=400&c=v0.59.26#w200)  
+![ukash](https://static.openfintech.io/vendors/ukash/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ukash/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ukash/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ukash](https://static.openfintech.io/vendors/ukash/icon.png?w=278&c=v0.59.26#w100)  
+![ukash](https://static.openfintech.io/vendors/ukash/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ukash/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ukash/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

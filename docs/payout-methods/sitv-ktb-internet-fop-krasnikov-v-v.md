@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _SITV - KTV + Inte
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![sitv-ktb-internet-fop-krasnikov-v-v](https://static.openfintech.io/payout_methods/sitv-ktb-internet-fop-krasnikov-v-v/icon.png?w=278&c=v0.59.26#w40) |[sitv-ktb-internet-fop-krasnikov-v-v_uah](/payout-services/sitv-ktb-internet-fop-krasnikov-v-v_uah/)|`sitv-ktb-internet-fop-krasnikov-v-v_uah`| 
+|![sitv-ktb-internet-fop-krasnikov-v-v](https://static.openfintech.io/payout_methods/sitv-ktb-internet-fop-krasnikov-v-v/icon.svg?w=278&c=v0.59.26#w40) |[sitv-ktb-internet-fop-krasnikov-v-v_uah](/payout-services/sitv-ktb-internet-fop-krasnikov-v-v_uah/)|`sitv-ktb-internet-fop-krasnikov-v-v_uah`| 
  
 
 ## JSON Object 

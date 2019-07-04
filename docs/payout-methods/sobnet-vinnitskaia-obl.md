@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _SobNet (Vinnitsa 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![sobnet-vinnitskaia-obl](https://static.openfintech.io/payout_methods/sobnet-vinnitskaia-obl/icon.png?w=278&c=v0.59.26#w40) |[sobnet-vinnitskaia-obl_uah](/payout-services/sobnet-vinnitskaia-obl_uah/)|`sobnet-vinnitskaia-obl_uah`| 
+|![sobnet-vinnitskaia-obl](https://static.openfintech.io/payout_methods/sobnet-vinnitskaia-obl/icon.svg?w=278&c=v0.59.26#w40) |[sobnet-vinnitskaia-obl_uah](/payout-services/sobnet-vinnitskaia-obl_uah/)|`sobnet-vinnitskaia-obl_uah`| 
  
 
 ## JSON Object 

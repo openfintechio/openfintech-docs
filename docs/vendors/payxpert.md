@@ -1,6 +1,6 @@
 
 # PayXpert 
-![payxpert](https://static.openfintech.io/vendors/payxpert/logo.png?w=400&c=v0.59.26#w200)  
+![payxpert](https://static.openfintech.io/vendors/payxpert/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Milton HallCB24 6WZ CambridgeUnited Kingdom
 
 ### Logo 
  
-![payxpert](https://static.openfintech.io/vendors/payxpert/logo.png?w=400&c=v0.59.26#w200)  
+![payxpert](https://static.openfintech.io/vendors/payxpert/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payxpert/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payxpert/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payxpert](https://static.openfintech.io/vendors/payxpert/icon.png?w=278&c=v0.59.26#w100)  
+![payxpert](https://static.openfintech.io/vendors/payxpert/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payxpert/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payxpert/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

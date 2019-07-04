@@ -1,6 +1,6 @@
 
 # WinPay 
-![winpayru](https://static.openfintech.io/payment_providers/winpayru/logo.png?w=400&c=v0.59.26#w100)  
+![winpayru](https://static.openfintech.io/payment_providers/winpayru/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![winpayru](https://static.openfintech.io/payment_providers/winpayru/logo.png?w=400&c=v0.59.26#w100)  
+![winpayru](https://static.openfintech.io/payment_providers/winpayru/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/winpayru/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/winpayru/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![winpayru](https://static.openfintech.io/payment_providers/winpayru/icon.png?w=278&c=v0.59.26#w100)  
+![winpayru](https://static.openfintech.io/payment_providers/winpayru/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/winpayru/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/winpayru/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 

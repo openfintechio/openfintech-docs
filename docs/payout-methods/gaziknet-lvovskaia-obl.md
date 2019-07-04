@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _GazikNet (Lviv re
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![gaziknet-lvovskaia-obl](https://static.openfintech.io/payout_methods/gaziknet-lvovskaia-obl/icon.png?w=278&c=v0.59.26#w40) |[gaziknet-lvovskaia-obl_uah](/payout-services/gaziknet-lvovskaia-obl_uah/)|`gaziknet-lvovskaia-obl_uah`| 
+|![gaziknet-lvovskaia-obl](https://static.openfintech.io/payout_methods/gaziknet-lvovskaia-obl/icon.svg?w=278&c=v0.59.26#w40) |[gaziknet-lvovskaia-obl_uah](/payout-services/gaziknet-lvovskaia-obl_uah/)|`gaziknet-lvovskaia-obl_uah`| 
  
 
 ## JSON Object 

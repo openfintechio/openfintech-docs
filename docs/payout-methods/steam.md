@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Steam_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![steam](https://static.openfintech.io/payout_methods/steam/icon.png?w=278&c=v0.59.26#w40) |[steam_uah](/payout-services/steam_uah/)|`steam_uah`| 
+|![steam](https://static.openfintech.io/payout_methods/steam/icon.svg?w=278&c=v0.59.26#w40) |[steam_uah](/payout-services/steam_uah/)|`steam_uah`| 
  
 
 ## JSON Object 

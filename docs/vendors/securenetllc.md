@@ -1,6 +1,6 @@
 
 # SecureNet LLC 
-![securenetllc](https://static.openfintech.io/vendors/securenetllc/logo.png?w=400&c=v0.59.26#w200)  
+![securenetllc](https://static.openfintech.io/vendors/securenetllc/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -26,18 +26,18 @@ street:  12357 Riata Trace Parkway Building 6, Suite 15078727 TexasUnited States
 
 ### Logo 
  
-![securenetllc](https://static.openfintech.io/vendors/securenetllc/logo.png?w=400&c=v0.59.26#w200)  
+![securenetllc](https://static.openfintech.io/vendors/securenetllc/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/securenetllc/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/securenetllc/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![securenetllc](https://static.openfintech.io/vendors/securenetllc/icon.png?w=278&c=v0.59.26#w100)  
+![securenetllc](https://static.openfintech.io/vendors/securenetllc/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/securenetllc/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/securenetllc/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

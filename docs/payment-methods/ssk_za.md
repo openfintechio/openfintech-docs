@@ -1,6 +1,6 @@
 
 # Self service kiosk South Africa 
-![ssk_za](https://static.openfintech.io/payment_methods/ssk_za/logo.png?w=400&c=v0.59.26#w200)  
+![ssk_za](https://static.openfintech.io/payment_methods/ssk_za/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `ssk_za` 
@@ -15,17 +15,17 @@
 ## Images 
 
 ### Logo 
-![ssk_za](https://static.openfintech.io/payment_methods/ssk_za/logo.png?w=400&c=v0.59.26#w200)  
+![ssk_za](https://static.openfintech.io/payment_methods/ssk_za/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/ssk_za/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/ssk_za/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![ssk_za](https://static.openfintech.io/payment_methods/ssk_za/icon.png?w=278&c=v0.59.26#w100)  
+![ssk_za](https://static.openfintech.io/payment_methods/ssk_za/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/ssk_za/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/ssk_za/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

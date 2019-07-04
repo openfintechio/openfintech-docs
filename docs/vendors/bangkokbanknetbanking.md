@@ -1,6 +1,6 @@
 
 # Bangkok Bank netbanking 
-![bangkokbanknetbanking](https://static.openfintech.io/vendors/bangkokbanknetbanking/logo.png?w=400&c=v0.59.26#w200)  
+![bangkokbanknetbanking](https://static.openfintech.io/vendors/bangkokbanknetbanking/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![bangkokbanknetbanking](https://static.openfintech.io/vendors/bangkokbanknetbanking/logo.png?w=400&c=v0.59.26#w200)  
+![bangkokbanknetbanking](https://static.openfintech.io/vendors/bangkokbanknetbanking/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/bangkokbanknetbanking/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/bangkokbanknetbanking/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![bangkokbanknetbanking](https://static.openfintech.io/vendors/bangkokbanknetbanking/icon.png?w=278&c=v0.59.26#w100)  
+![bangkokbanknetbanking](https://static.openfintech.io/vendors/bangkokbanknetbanking/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/bangkokbanknetbanking/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/bangkokbanknetbanking/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

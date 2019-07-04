@@ -1,6 +1,6 @@
 
 # YapStone 
-![yapstone](https://static.openfintech.io/vendors/yapstone/logo.png?w=400&c=v0.59.26#w200)  
+![yapstone](https://static.openfintech.io/vendors/yapstone/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Units 7/8, Millmount Development Centre, Millmount, Drogheda, Co Walnut
 
 ### Logo 
  
-![yapstone](https://static.openfintech.io/vendors/yapstone/logo.png?w=400&c=v0.59.26#w200)  
+![yapstone](https://static.openfintech.io/vendors/yapstone/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/yapstone/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/yapstone/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![yapstone](https://static.openfintech.io/vendors/yapstone/icon.png?w=278&c=v0.59.26#w100)  
+![yapstone](https://static.openfintech.io/vendors/yapstone/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/yapstone/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/yapstone/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

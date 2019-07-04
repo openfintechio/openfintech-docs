@@ -1,6 +1,6 @@
 
 # PayJunction 
-![payjunction](https://static.openfintech.io/payment_providers/payjunction/logo.png?w=400&c=v0.59.26#w100)  
+![payjunction](https://static.openfintech.io/payment_providers/payjunction/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![payjunction](https://static.openfintech.io/payment_providers/payjunction/logo.png?w=400&c=v0.59.26#w100)  
+![payjunction](https://static.openfintech.io/payment_providers/payjunction/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/payjunction/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/payjunction/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![payjunction](https://static.openfintech.io/payment_providers/payjunction/icon.png?w=278&c=v0.59.26#w100)  
+![payjunction](https://static.openfintech.io/payment_providers/payjunction/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/payjunction/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/payjunction/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

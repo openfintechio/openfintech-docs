@@ -1,6 +1,6 @@
 
 # AustralPay 
-![australpay](https://static.openfintech.io/payment_providers/australpay/logo.png?w=400&c=v0.59.26#w100)  
+![australpay](https://static.openfintech.io/payment_providers/australpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![australpay](https://static.openfintech.io/payment_providers/australpay/logo.png?w=400&c=v0.59.26#w100)  
+![australpay](https://static.openfintech.io/payment_providers/australpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/australpay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/australpay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![australpay](https://static.openfintech.io/payment_providers/australpay/icon.png?w=278&c=v0.59.26#w100)  
+![australpay](https://static.openfintech.io/payment_providers/australpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/australpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/australpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 

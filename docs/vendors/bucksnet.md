@@ -1,6 +1,6 @@
 
 # Bucks Net Services 
-![bucksnet](https://static.openfintech.io/vendors/bucksnet/logo.png?w=400&c=v0.59.26#w200)  
+![bucksnet](https://static.openfintech.io/vendors/bucksnet/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Buckinghamshire AylesburyUnited Kingdom
 
 ### Logo 
  
-![bucksnet](https://static.openfintech.io/vendors/bucksnet/logo.png?w=400&c=v0.59.26#w200)  
+![bucksnet](https://static.openfintech.io/vendors/bucksnet/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/bucksnet/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/bucksnet/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![bucksnet](https://static.openfintech.io/vendors/bucksnet/icon.png?w=278&c=v0.59.26#w100)  
+![bucksnet](https://static.openfintech.io/vendors/bucksnet/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/bucksnet/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/bucksnet/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

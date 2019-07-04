@@ -1,6 +1,6 @@
 
 # AcceptEmail 
-![acceptemail](https://static.openfintech.io/payment_methods/acceptemail/logo.png?w=400&c=v0.59.26#w200)  
+![acceptemail](https://static.openfintech.io/payment_methods/acceptemail/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `acceptemail` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![acceptemail](https://static.openfintech.io/payment_methods/acceptemail/logo.png?w=400&c=v0.59.26#w200)  
+![acceptemail](https://static.openfintech.io/payment_methods/acceptemail/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/acceptemail/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/acceptemail/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![acceptemail](https://static.openfintech.io/payment_methods/acceptemail/icon.png?w=278&c=v0.59.26#w100)  
+![acceptemail](https://static.openfintech.io/payment_methods/acceptemail/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/acceptemail/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/acceptemail/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,9 +43,9 @@ The list of [Payment Providers](/payment-providers/) that support the _AcceptEma
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![mollie](https://static.openfintech.io/payment_providers/mollie/icon.png?w=278&c=v0.59.26#w100) |[Mollie](/payment-providers/mollie/)|`mollie`| 
-|![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/icon.png?w=278&c=v0.59.26#w100) |[Buckaroo](/payment-providers/buckaroo/)|`buckaroo`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![mollie](https://static.openfintech.io/payment_providers/mollie/icon.svg?w=278&c=v0.59.26#w100) |[Mollie](/payment-providers/mollie/)|`mollie`| 
+|![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/icon.svg?w=278&c=v0.59.26#w100) |[Buckaroo](/payment-providers/buckaroo/)|`buckaroo`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
 |![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
 |![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 

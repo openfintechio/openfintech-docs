@@ -1,6 +1,6 @@
 
 # eKonto 
-![ekonto](https://static.openfintech.io/vendors/ekonto/logo.png?w=400&c=v0.59.26#w200)  
+![ekonto](https://static.openfintech.io/vendors/ekonto/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![ekonto](https://static.openfintech.io/vendors/ekonto/logo.png?w=400&c=v0.59.26#w200)  
+![ekonto](https://static.openfintech.io/vendors/ekonto/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ekonto/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ekonto/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ekonto](https://static.openfintech.io/vendors/ekonto/icon.png?w=278&c=v0.59.26#w100)  
+![ekonto](https://static.openfintech.io/vendors/ekonto/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ekonto/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ekonto/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

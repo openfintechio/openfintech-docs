@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Shark (Kiev)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-shark-kiev](https://static.openfintech.io/payout_methods/taksi-shark-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-shark-kiev_uah](/payout-services/taksi-shark-kiev_uah/)|`taksi-shark-kiev_uah`| 
+|![taksi-shark-kiev](https://static.openfintech.io/payout_methods/taksi-shark-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-shark-kiev_uah](/payout-services/taksi-shark-kiev_uah/)|`taksi-shark-kiev_uah`| 
  
 
 ## JSON Object 

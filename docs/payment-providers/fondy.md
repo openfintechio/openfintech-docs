@@ -44,22 +44,22 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
-|![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.png?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
+|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.svg?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.svg?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
 |![maestro](https://static.openfintech.io/payment_methods/maestro/icon.svg?w=278&c=v0.59.26#w100) |[maestro](/payment-methods/maestro/)|`maestro`| 
-|![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.png?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
-|![vpay](https://static.openfintech.io/payment_methods/vpay/icon.png?w=278&c=v0.59.26#w100) |[vpay](/payment-methods/vpay/)|`vpay`| 
-|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.png?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
-|![account2account](https://static.openfintech.io/payment_methods/account2account/icon.png?w=278&c=v0.59.26#w100) |[account2account](/payment-methods/account2account/)|`account2account`| 
+|![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.svg?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
+|![vpay](https://static.openfintech.io/payment_methods/vpay/icon.svg?w=278&c=v0.59.26#w100) |[vpay](/payment-methods/vpay/)|`vpay`| 
+|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.svg?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
+|![account2account](https://static.openfintech.io/payment_methods/account2account/icon.svg?w=278&c=v0.59.26#w100) |[account2account](/payment-methods/account2account/)|`account2account`| 
 |![giropay](https://static.openfintech.io/payment_methods/giropay/icon.svg?w=278&c=v0.59.26#w100) |[giropay](/payment-methods/giropay/)|`giropay`| 
-|![komercnibanka](https://static.openfintech.io/payment_methods/komercnibanka/icon.png?w=278&c=v0.59.26#w100) |[komercnibanka](/payment-methods/komercnibanka/)|`komercnibanka`| 
-|![raiffeisenbank](https://static.openfintech.io/payment_methods/raiffeisenbank/icon.png?w=278&c=v0.59.26#w100) |[raiffeisenbank](/payment-methods/raiffeisenbank/)|`raiffeisenbank`| 
-|![banklink](https://static.openfintech.io/payment_methods/banklink/icon.png?w=278&c=v0.59.26#w100) |[banklink](/payment-methods/banklink/)|`banklink`| 
-|![ceskasporitelna](https://static.openfintech.io/payment_methods/ceskasporitelna/icon.png?w=278&c=v0.59.26#w100) |[ceskasporitelna](/payment-methods/ceskasporitelna/)|`ceskasporitelna`| 
+|![komercnibanka](https://static.openfintech.io/payment_methods/komercnibanka/icon.svg?w=278&c=v0.59.26#w100) |[komercnibanka](/payment-methods/komercnibanka/)|`komercnibanka`| 
+|![raiffeisenbank](https://static.openfintech.io/payment_methods/raiffeisenbank/icon.svg?w=278&c=v0.59.26#w100) |[raiffeisenbank](/payment-methods/raiffeisenbank/)|`raiffeisenbank`| 
+|![banklink](https://static.openfintech.io/payment_methods/banklink/icon.svg?w=278&c=v0.59.26#w100) |[banklink](/payment-methods/banklink/)|`banklink`| 
+|![ceskasporitelna](https://static.openfintech.io/payment_methods/ceskasporitelna/icon.svg?w=278&c=v0.59.26#w100) |[ceskasporitelna](/payment-methods/ceskasporitelna/)|`ceskasporitelna`| 
 |![sofortbanking](https://static.openfintech.io/payment_methods/sofortbanking/icon.svg?w=278&c=v0.59.26#w100) |[sofortbanking](/payment-methods/sofortbanking/)|`sofortbanking`| 
-|![csob](https://static.openfintech.io/payment_methods/csob/icon.png?w=278&c=v0.59.26#w100) |[csob](/payment-methods/csob/)|`csob`| 
+|![csob](https://static.openfintech.io/payment_methods/csob/icon.svg?w=278&c=v0.59.26#w100) |[csob](/payment-methods/csob/)|`csob`| 
 |![sepacredittransfer](https://static.openfintech.io/payment_methods/sepacredittransfer/icon.svg?w=278&c=v0.59.26#w100) |[sepacredittransfer](/payment-methods/sepacredittransfer/)|`sepacredittransfer`| 
-|![ekonto](https://static.openfintech.io/payment_methods/ekonto/icon.png?w=278&c=v0.59.26#w100) |[ekonto](/payment-methods/ekonto/)|`ekonto`| 
+|![ekonto](https://static.openfintech.io/payment_methods/ekonto/icon.svg?w=278&c=v0.59.26#w100) |[ekonto](/payment-methods/ekonto/)|`ekonto`| 
  
 
 ## JSON Object 

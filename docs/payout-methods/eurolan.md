@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Eurolan_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![eurolan](https://static.openfintech.io/payout_methods/eurolan/icon.png?w=278&c=v0.59.26#w40) |[eurolan_uah](/payout-services/eurolan_uah/)|`eurolan_uah`| 
+|![eurolan](https://static.openfintech.io/payout_methods/eurolan/icon.svg?w=278&c=v0.59.26#w40) |[eurolan_uah](/payout-services/eurolan_uah/)|`eurolan_uah`| 
  
 
 ## JSON Object 

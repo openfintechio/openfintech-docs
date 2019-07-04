@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _PollyComm_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![pollycomm](https://static.openfintech.io/payout_methods/pollycomm/icon.png?w=278&c=v0.59.26#w40) |[pollycomm_uah](/payout-services/pollycomm_uah/)|`pollycomm_uah`| 
+|![pollycomm](https://static.openfintech.io/payout_methods/pollycomm/icon.svg?w=278&c=v0.59.26#w40) |[pollycomm_uah](/payout-services/pollycomm_uah/)|`pollycomm_uah`| 
  
 
 ## JSON Object 

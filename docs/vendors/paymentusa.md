@@ -1,6 +1,6 @@
 
 # PaymentUSA 
-![paymentusa](https://static.openfintech.io/vendors/paymentusa/logo.png?w=400&c=v0.59.26#w200)  
+![paymentusa](https://static.openfintech.io/vendors/paymentusa/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  6671 S. Las Vegas Blvd. Building D #210 89119 Las Vegas NV United State
 
 ### Logo 
  
-![paymentusa](https://static.openfintech.io/vendors/paymentusa/logo.png?w=400&c=v0.59.26#w200)  
+![paymentusa](https://static.openfintech.io/vendors/paymentusa/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paymentusa/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paymentusa/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paymentusa](https://static.openfintech.io/vendors/paymentusa/icon.png?w=278&c=v0.59.26#w100)  
+![paymentusa](https://static.openfintech.io/vendors/paymentusa/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paymentusa/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paymentusa/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

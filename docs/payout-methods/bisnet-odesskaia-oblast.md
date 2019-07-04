@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _BISNET (Odessa re
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bisnet-odesskaia-oblast](https://static.openfintech.io/payout_methods/bisnet-odesskaia-oblast/icon.png?w=278&c=v0.59.26#w40) |[bisnet-odesskaia-oblast_uah](/payout-services/bisnet-odesskaia-oblast_uah/)|`bisnet-odesskaia-oblast_uah`| 
+|![bisnet-odesskaia-oblast](https://static.openfintech.io/payout_methods/bisnet-odesskaia-oblast/icon.svg?w=278&c=v0.59.26#w40) |[bisnet-odesskaia-oblast_uah](/payout-services/bisnet-odesskaia-oblast_uah/)|`bisnet-odesskaia-oblast_uah`| 
  
 
 ## JSON Object 

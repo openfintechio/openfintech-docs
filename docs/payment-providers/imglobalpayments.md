@@ -1,6 +1,6 @@
 
 # ImGlobal Payments 
-![imglobalpayments](https://static.openfintech.io/payment_providers/imglobalpayments/logo.png?w=400&c=v0.59.26#w100)  
+![imglobalpayments](https://static.openfintech.io/payment_providers/imglobalpayments/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![imglobalpayments](https://static.openfintech.io/payment_providers/imglobalpayments/logo.png?w=400&c=v0.59.26#w100)  
+![imglobalpayments](https://static.openfintech.io/payment_providers/imglobalpayments/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/imglobalpayments/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/imglobalpayments/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![imglobalpayments](https://static.openfintech.io/payment_providers/imglobalpayments/icon.png?w=278&c=v0.59.26#w100)  
+![imglobalpayments](https://static.openfintech.io/payment_providers/imglobalpayments/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/imglobalpayments/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/imglobalpayments/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

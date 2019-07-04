@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _SK RARITET_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![sk-raritet](https://static.openfintech.io/payout_methods/sk-raritet/icon.png?w=278&c=v0.59.26#w40) |[sk-raritet_uah](/payout-services/sk-raritet_uah/)|`sk-raritet_uah`| 
+|![sk-raritet](https://static.openfintech.io/payout_methods/sk-raritet/icon.svg?w=278&c=v0.59.26#w40) |[sk-raritet_uah](/payout-services/sk-raritet_uah/)|`sk-raritet_uah`| 
  
 
 ## JSON Object 

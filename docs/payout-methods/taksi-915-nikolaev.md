@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi 915 (Nikolae
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-915-nikolaev](https://static.openfintech.io/payout_methods/taksi-915-nikolaev/icon.png?w=278&c=v0.59.26#w40) |[taksi-915-nikolaev_uah](/payout-services/taksi-915-nikolaev_uah/)|`taksi-915-nikolaev_uah`| 
+|![taksi-915-nikolaev](https://static.openfintech.io/payout_methods/taksi-915-nikolaev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-915-nikolaev_uah](/payout-services/taksi-915-nikolaev_uah/)|`taksi-915-nikolaev_uah`| 
  
 
 ## JSON Object 

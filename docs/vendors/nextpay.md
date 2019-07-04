@@ -1,6 +1,6 @@
 
 # NextPay 
-![nextpay](https://static.openfintech.io/vendors/nextpay/logo.png?w=400&c=v0.59.26#w200)  
+![nextpay](https://static.openfintech.io/vendors/nextpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Oficentro Ejecutivo La Sabana, Edificio 4, Piso 310108 Sabana SurSan Jo
 
 ### Logo 
  
-![nextpay](https://static.openfintech.io/vendors/nextpay/logo.png?w=400&c=v0.59.26#w200)  
+![nextpay](https://static.openfintech.io/vendors/nextpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/nextpay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/nextpay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![nextpay](https://static.openfintech.io/vendors/nextpay/icon.png?w=278&c=v0.59.26#w100)  
+![nextpay](https://static.openfintech.io/vendors/nextpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/nextpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/nextpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

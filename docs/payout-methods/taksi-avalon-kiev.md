@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Avalon (Kiev
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-avalon-kiev](https://static.openfintech.io/payout_methods/taksi-avalon-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-avalon-kiev_uah](/payout-services/taksi-avalon-kiev_uah/)|`taksi-avalon-kiev_uah`| 
+|![taksi-avalon-kiev](https://static.openfintech.io/payout_methods/taksi-avalon-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-avalon-kiev_uah](/payout-services/taksi-avalon-kiev_uah/)|`taksi-avalon-kiev_uah`| 
  
 
 ## JSON Object 

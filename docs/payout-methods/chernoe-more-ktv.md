@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Black Sea (KTV)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![chernoe-more-ktv](https://static.openfintech.io/payout_methods/chernoe-more-ktv/icon.png?w=278&c=v0.59.26#w40) |[chernoe-more-ktv_uah](/payout-services/chernoe-more-ktv_uah/)|`chernoe-more-ktv_uah`| 
+|![chernoe-more-ktv](https://static.openfintech.io/payout_methods/chernoe-more-ktv/icon.svg?w=278&c=v0.59.26#w40) |[chernoe-more-ktv_uah](/payout-services/chernoe-more-ktv_uah/)|`chernoe-more-ktv_uah`| 
  
 
 ## JSON Object 

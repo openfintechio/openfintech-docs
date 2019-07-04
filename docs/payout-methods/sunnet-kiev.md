@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Sunnet (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![sunnet-kiev](https://static.openfintech.io/payout_methods/sunnet-kiev/icon.png?w=278&c=v0.59.26#w40) |[sunnet-kiev_uah](/payout-services/sunnet-kiev_uah/)|`sunnet-kiev_uah`| 
+|![sunnet-kiev](https://static.openfintech.io/payout_methods/sunnet-kiev/icon.svg?w=278&c=v0.59.26#w40) |[sunnet-kiev_uah](/payout-services/sunnet-kiev_uah/)|`sunnet-kiev_uah`| 
  
 
 ## JSON Object 

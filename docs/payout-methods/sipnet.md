@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _SIPNET_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![sipnet](https://static.openfintech.io/payout_methods/sipnet/icon.png?w=278&c=v0.59.26#w40) |[sipnet_uah](/payout-services/sipnet_uah/)|`sipnet_uah`| 
+|![sipnet](https://static.openfintech.io/payout_methods/sipnet/icon.svg?w=278&c=v0.59.26#w40) |[sipnet_uah](/payout-services/sipnet_uah/)|`sipnet_uah`| 
  
 
 ## JSON Object 

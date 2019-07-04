@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Digital Service U
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tsifral-servis-ukraina-odessa](https://static.openfintech.io/payout_methods/tsifral-servis-ukraina-odessa/icon.png?w=278&c=v0.59.26#w40) |[tsifral-servis-ukraina-odessa_uah](/payout-services/tsifral-servis-ukraina-odessa_uah/)|`tsifral-servis-ukraina-odessa_uah`| 
+|![tsifral-servis-ukraina-odessa](https://static.openfintech.io/payout_methods/tsifral-servis-ukraina-odessa/icon.svg?w=278&c=v0.59.26#w40) |[tsifral-servis-ukraina-odessa_uah](/payout-services/tsifral-servis-ukraina-odessa_uah/)|`tsifral-servis-ukraina-odessa_uah`| 
  
 
 ## JSON Object 

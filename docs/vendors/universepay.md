@@ -1,6 +1,6 @@
 
 # UniversePay 
-![universepay](https://static.openfintech.io/vendors/universepay/logo.png?w=400&c=v0.59.26#w200)  
+![universepay](https://static.openfintech.io/vendors/universepay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Gertrudes Street 20 RigaLatvia
 
 ### Logo 
  
-![universepay](https://static.openfintech.io/vendors/universepay/logo.png?w=400&c=v0.59.26#w200)  
+![universepay](https://static.openfintech.io/vendors/universepay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/universepay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/universepay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![universepay](https://static.openfintech.io/vendors/universepay/icon.png?w=278&c=v0.59.26#w100)  
+![universepay](https://static.openfintech.io/vendors/universepay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/universepay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/universepay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -35,7 +35,7 @@ The list of [Payout Services](/payout-services/) based on the _Hangzhou City Com
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![hangzhou_city_commercial_bank](https://static.openfintech.io/payout_methods/hangzhou_city_commercial_bank/icon.png?w=278&c=v0.59.26#w40) |[hangzhou_city_commercial_bank_cny](/payout-services/hangzhou_city_commercial_bank_cny/)|`hangzhou_city_commercial_bank_cny`| 
+|![hangzhou_city_commercial_bank](https://static.openfintech.io/payout_methods/hangzhou_city_commercial_bank/icon.svg?w=278&c=v0.59.26#w40) |[hangzhou_city_commercial_bank_cny](/payout-services/hangzhou_city_commercial_bank_cny/)|`hangzhou_city_commercial_bank_cny`| 
  
 
 ## JSON Object 

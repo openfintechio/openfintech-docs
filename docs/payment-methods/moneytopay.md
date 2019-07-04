@@ -1,6 +1,6 @@
 
 # MoneyToPay 
-![moneytopay](https://static.openfintech.io/payment_methods/moneytopay/logo.png?w=400&c=v0.59.26#w200)  
+![moneytopay](https://static.openfintech.io/payment_methods/moneytopay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `moneytopay` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![moneytopay](https://static.openfintech.io/payment_methods/moneytopay/logo.png?w=400&c=v0.59.26#w200)  
+![moneytopay](https://static.openfintech.io/payment_methods/moneytopay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/moneytopay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/moneytopay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![moneytopay](https://static.openfintech.io/payment_methods/moneytopay/icon.png?w=278&c=v0.59.26#w100)  
+![moneytopay](https://static.openfintech.io/payment_methods/moneytopay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/moneytopay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/moneytopay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -36,8 +36,8 @@ The list of [Payment Providers](/payment-providers/) that support the _MoneyToPa
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.svg?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
  
 
 ## JSON Object 

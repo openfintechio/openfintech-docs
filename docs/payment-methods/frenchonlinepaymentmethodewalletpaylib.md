@@ -1,6 +1,6 @@
 
 # paylib 
-![frenchonlinepaymentmethodewalletpaylib](https://static.openfintech.io/payment_methods/frenchonlinepaymentmethodewalletpaylib/logo.png?w=400&c=v0.59.26#w200)  
+![frenchonlinepaymentmethodewalletpaylib](https://static.openfintech.io/payment_methods/frenchonlinepaymentmethodewalletpaylib/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `frenchonlinepaymentmethodewalletpaylib` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![frenchonlinepaymentmethodewalletpaylib](https://static.openfintech.io/payment_methods/frenchonlinepaymentmethodewalletpaylib/logo.png?w=400&c=v0.59.26#w200)  
+![frenchonlinepaymentmethodewalletpaylib](https://static.openfintech.io/payment_methods/frenchonlinepaymentmethodewalletpaylib/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/frenchonlinepaymentmethodewalletpaylib/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/frenchonlinepaymentmethodewalletpaylib/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![frenchonlinepaymentmethodewalletpaylib](https://static.openfintech.io/payment_methods/frenchonlinepaymentmethodewalletpaylib/icon.png?w=278&c=v0.59.26#w100)  
+![frenchonlinepaymentmethodewalletpaylib](https://static.openfintech.io/payment_methods/frenchonlinepaymentmethodewalletpaylib/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/frenchonlinepaymentmethodewalletpaylib/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/frenchonlinepaymentmethodewalletpaylib/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _paylib_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
+|![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.svg?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
  
 
 ## JSON Object 

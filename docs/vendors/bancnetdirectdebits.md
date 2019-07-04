@@ -1,6 +1,6 @@
 
 # BancNet 
-![bancnetdirectdebits](https://static.openfintech.io/vendors/bancnetdirectdebits/logo.png?w=400&c=v0.59.26#w200)  
+![bancnetdirectdebits](https://static.openfintech.io/vendors/bancnetdirectdebits/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![bancnetdirectdebits](https://static.openfintech.io/vendors/bancnetdirectdebits/logo.png?w=400&c=v0.59.26#w200)  
+![bancnetdirectdebits](https://static.openfintech.io/vendors/bancnetdirectdebits/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/bancnetdirectdebits/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/bancnetdirectdebits/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![bancnetdirectdebits](https://static.openfintech.io/vendors/bancnetdirectdebits/icon.png?w=278&c=v0.59.26#w100)  
+![bancnetdirectdebits](https://static.openfintech.io/vendors/bancnetdirectdebits/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/bancnetdirectdebits/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/bancnetdirectdebits/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

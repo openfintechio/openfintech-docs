@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _FRACTAL (Kharkiv 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![fractal-kharkovkaia-oblast](https://static.openfintech.io/payout_methods/fractal-kharkovkaia-oblast/icon.png?w=278&c=v0.59.26#w40) |[fractal-kharkovkaia-oblast_uah](/payout-services/fractal-kharkovkaia-oblast_uah/)|`fractal-kharkovkaia-oblast_uah`| 
+|![fractal-kharkovkaia-oblast](https://static.openfintech.io/payout_methods/fractal-kharkovkaia-oblast/icon.svg?w=278&c=v0.59.26#w40) |[fractal-kharkovkaia-oblast_uah](/payout-services/fractal-kharkovkaia-oblast_uah/)|`fractal-kharkovkaia-oblast_uah`| 
  
 
 ## JSON Object 

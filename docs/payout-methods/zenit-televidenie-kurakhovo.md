@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ZENIT - Televisio
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![zenit-televidenie-kurakhovo](https://static.openfintech.io/payout_methods/zenit-televidenie-kurakhovo/icon.png?w=278&c=v0.59.26#w40) |[zenit-televidenie-kurakhovo_uah](/payout-services/zenit-televidenie-kurakhovo_uah/)|`zenit-televidenie-kurakhovo_uah`| 
+|![zenit-televidenie-kurakhovo](https://static.openfintech.io/payout_methods/zenit-televidenie-kurakhovo/icon.svg?w=278&c=v0.59.26#w40) |[zenit-televidenie-kurakhovo_uah](/payout-services/zenit-televidenie-kurakhovo_uah/)|`zenit-televidenie-kurakhovo_uah`| 
  
 
 ## JSON Object 

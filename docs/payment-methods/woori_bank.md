@@ -1,6 +1,6 @@
 
 # Woori Bank 
-![woori_bank](https://static.openfintech.io/payment_methods/woori_bank/logo.png?w=400&c=v0.59.26#w200)  
+![woori_bank](https://static.openfintech.io/payment_methods/woori_bank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `woori_bank` 
@@ -15,17 +15,17 @@
 ## Images 
 
 ### Logo 
-![woori_bank](https://static.openfintech.io/payment_methods/woori_bank/logo.png?w=400&c=v0.59.26#w200)  
+![woori_bank](https://static.openfintech.io/payment_methods/woori_bank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/woori_bank/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/woori_bank/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![woori_bank](https://static.openfintech.io/payment_methods/woori_bank/icon.png?w=278&c=v0.59.26#w100)  
+![woori_bank](https://static.openfintech.io/payment_methods/woori_bank/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/woori_bank/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/woori_bank/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -34,7 +34,7 @@ The list of [Payment Services](/payment-services/) based on the _Woori Bank_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![woori_bank](https://static.openfintech.io/payment_methods/woori_bank/icon.png?w=278&c=v0.59.26#w100) |[woori_bank_krw_hpp](/payment-services/woori_bank_krw_hpp/)|`woori_bank_krw_hpp`| 
+|![woori_bank](https://static.openfintech.io/payment_methods/woori_bank/icon.svg?w=278&c=v0.59.26#w100) |[woori_bank_krw_hpp](/payment-services/woori_bank_krw_hpp/)|`woori_bank_krw_hpp`| 
  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Woori Ban
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![paysec](https://static.openfintech.io/payment_providers/paysec/icon.png?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
+|![paysec](https://static.openfintech.io/payment_providers/paysec/icon.svg?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
  
 
 ## JSON Object 

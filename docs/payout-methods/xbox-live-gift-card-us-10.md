@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Xbox Live Gift Ca
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![xbox-live-gift-card-us-10](https://static.openfintech.io/payout_methods/xbox-live-gift-card-us-10/icon.png?w=278&c=v0.59.26#w40) |[xbox-live-gift-card-us-10_uah](/payout-services/xbox-live-gift-card-us-10_uah/)|`xbox-live-gift-card-us-10_uah`| 
+|![xbox-live-gift-card-us-10](https://static.openfintech.io/payout_methods/xbox-live-gift-card-us-10/icon.svg?w=278&c=v0.59.26#w40) |[xbox-live-gift-card-us-10_uah](/payout-services/xbox-live-gift-card-us-10_uah/)|`xbox-live-gift-card-us-10_uah`| 
  
 
 ## JSON Object 

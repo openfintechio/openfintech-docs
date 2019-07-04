@@ -1,6 +1,6 @@
 
 # maxiPago! 
-![maxipago](https://static.openfintech.io/vendors/maxipago/logo.png?w=400&c=v0.59.26#w200)  
+![maxipago](https://static.openfintech.io/vendors/maxipago/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  AV GRAÃ?A ARANHA 145 â?? 90620030-030 Rio de JaneiroBrazil
 
 ### Logo 
  
-![maxipago](https://static.openfintech.io/vendors/maxipago/logo.png?w=400&c=v0.59.26#w200)  
+![maxipago](https://static.openfintech.io/vendors/maxipago/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/maxipago/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/maxipago/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![maxipago](https://static.openfintech.io/vendors/maxipago/icon.png?w=278&c=v0.59.26#w100)  
+![maxipago](https://static.openfintech.io/vendors/maxipago/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/maxipago/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/maxipago/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

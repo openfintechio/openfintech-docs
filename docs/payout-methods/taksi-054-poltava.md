@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi 054 (Poltava
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-054-poltava](https://static.openfintech.io/payout_methods/taksi-054-poltava/icon.png?w=278&c=v0.59.26#w40) |[taksi-054-poltava_uah](/payout-services/taksi-054-poltava_uah/)|`taksi-054-poltava_uah`| 
+|![taksi-054-poltava](https://static.openfintech.io/payout_methods/taksi-054-poltava/icon.svg?w=278&c=v0.59.26#w40) |[taksi-054-poltava_uah](/payout-services/taksi-054-poltava_uah/)|`taksi-054-poltava_uah`| 
  
 
 ## JSON Object 

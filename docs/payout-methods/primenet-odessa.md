@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _PrimeNET (Odessa)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![primenet-odessa](https://static.openfintech.io/payout_methods/primenet-odessa/icon.png?w=278&c=v0.59.26#w40) |[primenet-odessa_uah](/payout-services/primenet-odessa_uah/)|`primenet-odessa_uah`| 
+|![primenet-odessa](https://static.openfintech.io/payout_methods/primenet-odessa/icon.svg?w=278&c=v0.59.26#w40) |[primenet-odessa_uah](/payout-services/primenet-odessa_uah/)|`primenet-odessa_uah`| 
  
 
 ## JSON Object 

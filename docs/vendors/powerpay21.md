@@ -1,6 +1,6 @@
 
 # powerpay21 
-![powerpay21](https://static.openfintech.io/vendors/powerpay21/logo.png?w=400&c=v0.59.26#w200)  
+![powerpay21](https://static.openfintech.io/vendors/powerpay21/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Frankfurt Office, Hanauer Landstrasse 182, BLD C, Flr 360314 Frankfurt 
 
 ### Logo 
  
-![powerpay21](https://static.openfintech.io/vendors/powerpay21/logo.png?w=400&c=v0.59.26#w200)  
+![powerpay21](https://static.openfintech.io/vendors/powerpay21/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/powerpay21/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/powerpay21/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![powerpay21](https://static.openfintech.io/vendors/powerpay21/icon.png?w=278&c=v0.59.26#w100)  
+![powerpay21](https://static.openfintech.io/vendors/powerpay21/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/powerpay21/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/powerpay21/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

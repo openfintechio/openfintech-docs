@@ -1,6 +1,6 @@
 
 # MangoPay 
-![mangopay](https://static.openfintech.io/vendors/mangopay/logo.png?w=400&c=v0.59.26#w200)  
+![mangopay](https://static.openfintech.io/vendors/mangopay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  ParisL-1118 ParisLuxembourg
 
 ### Logo 
  
-![mangopay](https://static.openfintech.io/vendors/mangopay/logo.png?w=400&c=v0.59.26#w200)  
+![mangopay](https://static.openfintech.io/vendors/mangopay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/mangopay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/mangopay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![mangopay](https://static.openfintech.io/vendors/mangopay/icon.png?w=278&c=v0.59.26#w100)  
+![mangopay](https://static.openfintech.io/vendors/mangopay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/mangopay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/mangopay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

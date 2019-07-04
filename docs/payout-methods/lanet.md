@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Lanet_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![lanet](https://static.openfintech.io/payout_methods/lanet/icon.png?w=278&c=v0.59.26#w40) |[lanet_uah](/payout-services/lanet_uah/)|`lanet_uah`| 
+|![lanet](https://static.openfintech.io/payout_methods/lanet/icon.svg?w=278&c=v0.59.26#w40) |[lanet_uah](/payout-services/lanet_uah/)|`lanet_uah`| 
  
 
 ## JSON Object 

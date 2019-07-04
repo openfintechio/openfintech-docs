@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _WULKAN ISP (Kiev)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![wulkan-isp-kiev](https://static.openfintech.io/payout_methods/wulkan-isp-kiev/icon.png?w=278&c=v0.59.26#w40) |[wulkan-isp-kiev_uah](/payout-services/wulkan-isp-kiev_uah/)|`wulkan-isp-kiev_uah`| 
+|![wulkan-isp-kiev](https://static.openfintech.io/payout_methods/wulkan-isp-kiev/icon.svg?w=278&c=v0.59.26#w40) |[wulkan-isp-kiev_uah](/payout-services/wulkan-isp-kiev_uah/)|`wulkan-isp-kiev_uah`| 
  
 
 ## JSON Object 

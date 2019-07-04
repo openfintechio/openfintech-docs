@@ -1,6 +1,6 @@
 
 # EOS Payment 
-![eospaymentsolutions](https://static.openfintech.io/vendors/eospaymentsolutions/logo.png?w=400&c=v0.59.26#w200)  
+![eospaymentsolutions](https://static.openfintech.io/vendors/eospaymentsolutions/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Steindamm 8020099 HamburgGermany
 
 ### Logo 
  
-![eospaymentsolutions](https://static.openfintech.io/vendors/eospaymentsolutions/logo.png?w=400&c=v0.59.26#w200)  
+![eospaymentsolutions](https://static.openfintech.io/vendors/eospaymentsolutions/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/eospaymentsolutions/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/eospaymentsolutions/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![eospaymentsolutions](https://static.openfintech.io/vendors/eospaymentsolutions/icon.png?w=278&c=v0.59.26#w100)  
+![eospaymentsolutions](https://static.openfintech.io/vendors/eospaymentsolutions/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/eospaymentsolutions/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/eospaymentsolutions/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

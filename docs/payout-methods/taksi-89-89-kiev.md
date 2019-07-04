@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi '89 -89 '(Ki
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-89-89-kiev](https://static.openfintech.io/payout_methods/taksi-89-89-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-89-89-kiev_uah](/payout-services/taksi-89-89-kiev_uah/)|`taksi-89-89-kiev_uah`| 
+|![taksi-89-89-kiev](https://static.openfintech.io/payout_methods/taksi-89-89-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-89-89-kiev_uah](/payout-services/taksi-89-89-kiev_uah/)|`taksi-89-89-kiev_uah`| 
  
 
 ## JSON Object 

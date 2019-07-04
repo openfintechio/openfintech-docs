@@ -1,6 +1,6 @@
 
 # ING Bank | Spain 
-![ingspain](https://static.openfintech.io/payment_methods/ingspain/logo.png?w=400&c=v0.59.26#w200)  
+![ingspain](https://static.openfintech.io/payment_methods/ingspain/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `ingspain` 
@@ -26,17 +26,17 @@
 ## Images 
 
 ### Logo 
-![ingspain](https://static.openfintech.io/payment_methods/ingspain/logo.png?w=400&c=v0.59.26#w200)  
+![ingspain](https://static.openfintech.io/payment_methods/ingspain/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/ingspain/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/ingspain/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![ingspain](https://static.openfintech.io/payment_methods/ingspain/icon.png?w=278&c=v0.59.26#w100)  
+![ingspain](https://static.openfintech.io/payment_methods/ingspain/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/ingspain/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/ingspain/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -45,8 +45,8 @@ The list of [Payment Providers](/payment-providers/) that support the _ING Bank 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/icon.png?w=278&c=v0.59.26#w100) |[Buckaroo](/payment-providers/buckaroo/)|`buckaroo`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/icon.svg?w=278&c=v0.59.26#w100) |[Buckaroo](/payment-providers/buckaroo/)|`buckaroo`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
  
 

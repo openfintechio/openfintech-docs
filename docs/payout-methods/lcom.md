@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Lcom_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![lcom](https://static.openfintech.io/payout_methods/lcom/icon.png?w=278&c=v0.59.26#w40) |[lcom_uah](/payout-services/lcom_uah/)|`lcom_uah`| 
+|![lcom](https://static.openfintech.io/payout_methods/lcom/icon.svg?w=278&c=v0.59.26#w40) |[lcom_uah](/payout-services/lcom_uah/)|`lcom_uah`| 
  
 
 ## JSON Object 

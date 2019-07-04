@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _TAXI NEZHIN + (Ne
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taxi-nezhin-nezhin](https://static.openfintech.io/payout_methods/taxi-nezhin-nezhin/icon.png?w=278&c=v0.59.26#w40) |[taxi-nezhin-nezhin_uah](/payout-services/taxi-nezhin-nezhin_uah/)|`taxi-nezhin-nezhin_uah`| 
+|![taxi-nezhin-nezhin](https://static.openfintech.io/payout_methods/taxi-nezhin-nezhin/icon.svg?w=278&c=v0.59.26#w40) |[taxi-nezhin-nezhin_uah](/payout-services/taxi-nezhin-nezhin_uah/)|`taxi-nezhin-nezhin_uah`| 
  
 
 ## JSON Object 

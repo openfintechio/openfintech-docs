@@ -1,6 +1,6 @@
 
 # SMS Billing 
-![smsbilling](https://static.openfintech.io/vendors/smsbilling/logo.png?w=400&c=v0.59.26#w200)  
+![smsbilling](https://static.openfintech.io/vendors/smsbilling/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![smsbilling](https://static.openfintech.io/vendors/smsbilling/logo.png?w=400&c=v0.59.26#w200)  
+![smsbilling](https://static.openfintech.io/vendors/smsbilling/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/smsbilling/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/smsbilling/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![smsbilling](https://static.openfintech.io/vendors/smsbilling/icon.png?w=278&c=v0.59.26#w100)  
+![smsbilling](https://static.openfintech.io/vendors/smsbilling/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/smsbilling/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/smsbilling/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # ping.ping 
-![pingping](https://static.openfintech.io/payment_methods/pingping/logo.png?w=400&c=v0.59.26#w200)  
+![pingping](https://static.openfintech.io/payment_methods/pingping/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `pingping` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![pingping](https://static.openfintech.io/payment_methods/pingping/logo.png?w=400&c=v0.59.26#w200)  
+![pingping](https://static.openfintech.io/payment_methods/pingping/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/pingping/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/pingping/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![pingping](https://static.openfintech.io/payment_methods/pingping/icon.png?w=278&c=v0.59.26#w100)  
+![pingping](https://static.openfintech.io/payment_methods/pingping/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/pingping/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/pingping/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,8 +43,8 @@ The list of [Payment Providers](/payment-providers/) that support the _ping.ping
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.svg?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
  
 
 ## JSON Object 

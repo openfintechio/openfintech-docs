@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Zeus 7272 (K
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-zevs-7272-kiev](https://static.openfintech.io/payout_methods/taksi-zevs-7272-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-zevs-7272-kiev_uah](/payout-services/taksi-zevs-7272-kiev_uah/)|`taksi-zevs-7272-kiev_uah`| 
+|![taksi-zevs-7272-kiev](https://static.openfintech.io/payout_methods/taksi-zevs-7272-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-zevs-7272-kiev_uah](/payout-services/taksi-zevs-7272-kiev_uah/)|`taksi-zevs-7272-kiev_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Digicom_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![digicom](https://static.openfintech.io/payout_methods/digicom/icon.png?w=278&c=v0.59.26#w40) |[digicom_uah](/payout-services/digicom_uah/)|`digicom_uah`| 
+|![digicom](https://static.openfintech.io/payout_methods/digicom/icon.svg?w=278&c=v0.59.26#w40) |[digicom_uah](/payout-services/digicom_uah/)|`digicom_uah`| 
  
 
 ## JSON Object 

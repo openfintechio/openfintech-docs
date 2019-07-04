@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Euro Taxi (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![evro-taksi-kiev](https://static.openfintech.io/payout_methods/evro-taksi-kiev/icon.png?w=278&c=v0.59.26#w40) |[evro-taksi-kiev_uah](/payout-services/evro-taksi-kiev_uah/)|`evro-taksi-kiev_uah`| 
+|![evro-taksi-kiev](https://static.openfintech.io/payout_methods/evro-taksi-kiev/icon.svg?w=278&c=v0.59.26#w40) |[evro-taksi-kiev_uah](/payout-services/evro-taksi-kiev_uah/)|`evro-taksi-kiev_uah`| 
  
 
 ## JSON Object 

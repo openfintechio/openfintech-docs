@@ -1,6 +1,6 @@
 
 # EMS 
-![europeanmerchantservices](https://static.openfintech.io/vendors/europeanmerchantservices/logo.png?w=400&c=v0.59.26#w200)  
+![europeanmerchantservices](https://static.openfintech.io/vendors/europeanmerchantservices/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Herikerbergweg 251101 CN Amsterdam ZuidoostNoord-HollandNetherlands
 
 ### Logo 
  
-![europeanmerchantservices](https://static.openfintech.io/vendors/europeanmerchantservices/logo.png?w=400&c=v0.59.26#w200)  
+![europeanmerchantservices](https://static.openfintech.io/vendors/europeanmerchantservices/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/europeanmerchantservices/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/europeanmerchantservices/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![europeanmerchantservices](https://static.openfintech.io/vendors/europeanmerchantservices/icon.png?w=278&c=v0.59.26#w100)  
+![europeanmerchantservices](https://static.openfintech.io/vendors/europeanmerchantservices/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/europeanmerchantservices/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/europeanmerchantservices/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

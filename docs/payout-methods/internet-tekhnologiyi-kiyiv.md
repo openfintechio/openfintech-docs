@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _INTERNET TECHNOLO
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![internet-tekhnologiyi-kiyiv](https://static.openfintech.io/payout_methods/internet-tekhnologiyi-kiyiv/icon.png?w=278&c=v0.59.26#w40) |[internet-tekhnologiyi-kiyiv_uah](/payout-services/internet-tekhnologiyi-kiyiv_uah/)|`internet-tekhnologiyi-kiyiv_uah`| 
+|![internet-tekhnologiyi-kiyiv](https://static.openfintech.io/payout_methods/internet-tekhnologiyi-kiyiv/icon.svg?w=278&c=v0.59.26#w40) |[internet-tekhnologiyi-kiyiv_uah](/payout-services/internet-tekhnologiyi-kiyiv_uah/)|`internet-tekhnologiyi-kiyiv_uah`| 
  
 
 ## JSON Object 

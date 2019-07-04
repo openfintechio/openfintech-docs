@@ -1,6 +1,6 @@
 
 # CIMBClicks 
-![cimbclicksinternetbanking](https://static.openfintech.io/payment_methods/cimbclicksinternetbanking/logo.png?w=400&c=v0.59.26#w200)  
+![cimbclicksinternetbanking](https://static.openfintech.io/payment_methods/cimbclicksinternetbanking/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `cimbclicksinternetbanking` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![cimbclicksinternetbanking](https://static.openfintech.io/payment_methods/cimbclicksinternetbanking/logo.png?w=400&c=v0.59.26#w200)  
+![cimbclicksinternetbanking](https://static.openfintech.io/payment_methods/cimbclicksinternetbanking/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/cimbclicksinternetbanking/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/cimbclicksinternetbanking/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![cimbclicksinternetbanking](https://static.openfintech.io/payment_methods/cimbclicksinternetbanking/icon.png?w=278&c=v0.59.26#w100)  
+![cimbclicksinternetbanking](https://static.openfintech.io/payment_methods/cimbclicksinternetbanking/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/cimbclicksinternetbanking/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/cimbclicksinternetbanking/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,10 +43,10 @@ The list of [Payment Providers](/payment-providers/) that support the _CIMBClick
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
-|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.png?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.svg?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
 |![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
-|![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.png?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
+|![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.svg?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
  
 
 ## JSON Object 

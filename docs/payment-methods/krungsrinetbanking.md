@@ -1,6 +1,6 @@
 
 # Krungsri netbanking 
-![krungsrinetbanking](https://static.openfintech.io/payment_methods/krungsrinetbanking/logo.png?w=400&c=v0.59.26#w200)  
+![krungsrinetbanking](https://static.openfintech.io/payment_methods/krungsrinetbanking/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `krungsrinetbanking` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![krungsrinetbanking](https://static.openfintech.io/payment_methods/krungsrinetbanking/logo.png?w=400&c=v0.59.26#w200)  
+![krungsrinetbanking](https://static.openfintech.io/payment_methods/krungsrinetbanking/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/krungsrinetbanking/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/krungsrinetbanking/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![krungsrinetbanking](https://static.openfintech.io/payment_methods/krungsrinetbanking/icon.png?w=278&c=v0.59.26#w100)  
+![krungsrinetbanking](https://static.openfintech.io/payment_methods/krungsrinetbanking/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/krungsrinetbanking/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/krungsrinetbanking/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,9 +43,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Krungsri 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
-|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.png?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
-|![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.png?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.svg?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
+|![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.svg?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
  
 
 ## JSON Object 

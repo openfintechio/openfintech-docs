@@ -1,6 +1,6 @@
 
 # Boleto Bancario 
-![boletobancariopay](https://static.openfintech.io/payment_methods/boletobancariopay/logo.png?w=400&c=v0.59.26#w200)  
+![boletobancariopay](https://static.openfintech.io/payment_methods/boletobancariopay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `boletobancariopay` 
@@ -21,17 +21,17 @@
 ## Images 
 
 ### Logo 
-![boletobancariopay](https://static.openfintech.io/payment_methods/boletobancariopay/logo.png?w=400&c=v0.59.26#w200)  
+![boletobancariopay](https://static.openfintech.io/payment_methods/boletobancariopay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/boletobancariopay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/boletobancariopay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![boletobancariopay](https://static.openfintech.io/payment_methods/boletobancariopay/icon.png?w=278&c=v0.59.26#w100)  
+![boletobancariopay](https://static.openfintech.io/payment_methods/boletobancariopay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/boletobancariopay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/boletobancariopay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -40,15 +40,15 @@ The list of [Payment Providers](/payment-providers/) that support the _Boleto Ba
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
+|![acapture](https://static.openfintech.io/payment_providers/acapture/icon.svg?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
 |![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[SafeCharge ](/payment-providers/safecharge/)|`safecharge`| 
-|![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/icon.png?w=278&c=v0.59.26#w100) |[Alternative Payments](/payment-providers/alternativepayments/)|`alternativepayments`| 
-|![kalixa](https://static.openfintech.io/payment_providers/kalixa/icon.png?w=278&c=v0.59.26#w100) |[Kalixa Payments Group](/payment-providers/kalixa/)|`kalixa`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/icon.svg?w=278&c=v0.59.26#w100) |[Alternative Payments](/payment-providers/alternativepayments/)|`alternativepayments`| 
+|![kalixa](https://static.openfintech.io/payment_providers/kalixa/icon.svg?w=278&c=v0.59.26#w100) |[Kalixa Payments Group](/payment-providers/kalixa/)|`kalixa`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
 |![maxpay](https://static.openfintech.io/payment_providers/maxpay/icon.svg?w=278&c=v0.59.26#w100) |[Maxpay](/payment-providers/maxpay/)|`maxpay`| 
 |![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
-|![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.png?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
+|![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.svg?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
 |![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
  
 

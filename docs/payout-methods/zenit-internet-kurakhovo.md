@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ZENIT - the Inter
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![zenit-internet-kurakhovo](https://static.openfintech.io/payout_methods/zenit-internet-kurakhovo/icon.png?w=278&c=v0.59.26#w40) |[zenit-internet-kurakhovo_uah](/payout-services/zenit-internet-kurakhovo_uah/)|`zenit-internet-kurakhovo_uah`| 
+|![zenit-internet-kurakhovo](https://static.openfintech.io/payout_methods/zenit-internet-kurakhovo/icon.svg?w=278&c=v0.59.26#w40) |[zenit-internet-kurakhovo_uah](/payout-services/zenit-internet-kurakhovo_uah/)|`zenit-internet-kurakhovo_uah`| 
  
 
 ## JSON Object 

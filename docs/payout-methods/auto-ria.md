@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _AUTO.RIA_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![auto-ria](https://static.openfintech.io/payout_methods/auto-ria/icon.png?w=278&c=v0.59.26#w40) |[auto-ria_uah](/payout-services/auto-ria_uah/)|`auto-ria_uah`| 
+|![auto-ria](https://static.openfintech.io/payout_methods/auto-ria/icon.svg?w=278&c=v0.59.26#w40) |[auto-ria_uah](/payout-services/auto-ria_uah/)|`auto-ria_uah`| 
  
 
 ## JSON Object 

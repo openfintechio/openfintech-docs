@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _OSOKORKI ONLINE (
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![osokorki-online-kiev](https://static.openfintech.io/payout_methods/osokorki-online-kiev/icon.png?w=278&c=v0.59.26#w40) |[osokorki-online-kiev_uah](/payout-services/osokorki-online-kiev_uah/)|`osokorki-online-kiev_uah`| 
+|![osokorki-online-kiev](https://static.openfintech.io/payout_methods/osokorki-online-kiev/icon.svg?w=278&c=v0.59.26#w40) |[osokorki-online-kiev_uah](/payout-services/osokorki-online-kiev_uah/)|`osokorki-online-kiev_uah`| 
  
 
 ## JSON Object 

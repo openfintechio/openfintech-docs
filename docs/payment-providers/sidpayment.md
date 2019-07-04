@@ -1,6 +1,6 @@
 
 # SID Instant EFT 
-![sidpayment](https://static.openfintech.io/payment_providers/sidpayment/logo.png?w=400&c=v0.59.26#w100)  
+![sidpayment](https://static.openfintech.io/payment_providers/sidpayment/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![sidpayment](https://static.openfintech.io/payment_providers/sidpayment/logo.png?w=400&c=v0.59.26#w100)  
+![sidpayment](https://static.openfintech.io/payment_providers/sidpayment/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/sidpayment/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/sidpayment/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![sidpayment](https://static.openfintech.io/payment_providers/sidpayment/icon.png?w=278&c=v0.59.26#w100)  
+![sidpayment](https://static.openfintech.io/payment_providers/sidpayment/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/sidpayment/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/sidpayment/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

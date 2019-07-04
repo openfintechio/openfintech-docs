@@ -1,6 +1,6 @@
 
 # TeleCash 
-![telecash](https://static.openfintech.io/vendors/telecash/logo.png?w=400&c=v0.59.26#w200)  
+![telecash](https://static.openfintech.io/vendors/telecash/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Konrad-Adenauer-Allee 161118 Bad VilbelGermany
 
 ### Logo 
  
-![telecash](https://static.openfintech.io/vendors/telecash/logo.png?w=400&c=v0.59.26#w200)  
+![telecash](https://static.openfintech.io/vendors/telecash/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/telecash/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/telecash/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![telecash](https://static.openfintech.io/vendors/telecash/icon.png?w=278&c=v0.59.26#w100)  
+![telecash](https://static.openfintech.io/vendors/telecash/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/telecash/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/telecash/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

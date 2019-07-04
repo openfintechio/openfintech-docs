@@ -1,6 +1,6 @@
 
 # Faspay 
-![faspay](https://static.openfintech.io/vendors/faspay/logo.png?w=400&c=v0.59.26#w200)  
+![faspay](https://static.openfintech.io/vendors/faspay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  Graha ASTEL Jl. Pintu Air Raya No. 2A10710 JakartaJakartaIndonesia
 
 ### Logo 
  
-![faspay](https://static.openfintech.io/vendors/faspay/logo.png?w=400&c=v0.59.26#w200)  
+![faspay](https://static.openfintech.io/vendors/faspay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/faspay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/faspay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![faspay](https://static.openfintech.io/vendors/faspay/icon.png?w=278&c=v0.59.26#w100)  
+![faspay](https://static.openfintech.io/vendors/faspay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/faspay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/faspay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

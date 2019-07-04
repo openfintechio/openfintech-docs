@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Optimal (Zhy
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-optimalnoe-zhitomir](https://static.openfintech.io/payout_methods/taksi-optimalnoe-zhitomir/icon.png?w=278&c=v0.59.26#w40) |[taksi-optimalnoe-zhitomir_uah](/payout-services/taksi-optimalnoe-zhitomir_uah/)|`taksi-optimalnoe-zhitomir_uah`| 
+|![taksi-optimalnoe-zhitomir](https://static.openfintech.io/payout_methods/taksi-optimalnoe-zhitomir/icon.svg?w=278&c=v0.59.26#w40) |[taksi-optimalnoe-zhitomir_uah](/payout-services/taksi-optimalnoe-zhitomir_uah/)|`taksi-optimalnoe-zhitomir_uah`| 
  
 
 ## JSON Object 

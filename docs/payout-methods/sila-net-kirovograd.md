@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _SILA-NET (Kirovog
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![sila-net-kirovograd](https://static.openfintech.io/payout_methods/sila-net-kirovograd/icon.png?w=278&c=v0.59.26#w40) |[sila-net-kirovograd_uah](/payout-services/sila-net-kirovograd_uah/)|`sila-net-kirovograd_uah`| 
+|![sila-net-kirovograd](https://static.openfintech.io/payout_methods/sila-net-kirovograd/icon.svg?w=278&c=v0.59.26#w40) |[sila-net-kirovograd_uah](/payout-services/sila-net-kirovograd_uah/)|`sila-net-kirovograd_uah`| 
  
 
 ## JSON Object 

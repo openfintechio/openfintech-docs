@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _the best_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![the-best](https://static.openfintech.io/payout_methods/the-best/icon.png?w=278&c=v0.59.26#w40) |[the-best_uah](/payout-services/the-best_uah/)|`the-best_uah`| 
+|![the-best](https://static.openfintech.io/payout_methods/the-best/icon.svg?w=278&c=v0.59.26#w40) |[the-best_uah](/payout-services/the-best_uah/)|`the-best_uah`| 
  
 
 ## JSON Object 

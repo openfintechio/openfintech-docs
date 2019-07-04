@@ -1,6 +1,6 @@
 
 # CatalunyaCaixa 
-![catalunyacaixa](https://static.openfintech.io/vendors/catalunyacaixa/logo.png?w=400&c=v0.59.26#w200)  
+![catalunyacaixa](https://static.openfintech.io/vendors/catalunyacaixa/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Polígon Mas Mateu C/ Pi, 208820 El Prat de LlobregatSpain
 
 ### Logo 
  
-![catalunyacaixa](https://static.openfintech.io/vendors/catalunyacaixa/logo.png?w=400&c=v0.59.26#w200)  
+![catalunyacaixa](https://static.openfintech.io/vendors/catalunyacaixa/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/catalunyacaixa/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/catalunyacaixa/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![catalunyacaixa](https://static.openfintech.io/vendors/catalunyacaixa/icon.png?w=278&c=v0.59.26#w100)  
+![catalunyacaixa](https://static.openfintech.io/vendors/catalunyacaixa/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/catalunyacaixa/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/catalunyacaixa/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # TNSPay 
-![tnspay](https://static.openfintech.io/vendors/tnspay/logo.png?w=400&c=v0.59.26#w200)  
+![tnspay](https://static.openfintech.io/vendors/tnspay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Orion House, Bessemer Road AL7 1HH Welwyn Garden City United Kingdom
 
 ### Logo 
  
-![tnspay](https://static.openfintech.io/vendors/tnspay/logo.png?w=400&c=v0.59.26#w200)  
+![tnspay](https://static.openfintech.io/vendors/tnspay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/tnspay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/tnspay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![tnspay](https://static.openfintech.io/vendors/tnspay/icon.png?w=278&c=v0.59.26#w100)  
+![tnspay](https://static.openfintech.io/vendors/tnspay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/tnspay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/tnspay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

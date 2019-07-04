@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _BONUS-TV_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bonus-tv](https://static.openfintech.io/payout_methods/bonus-tv/icon.png?w=278&c=v0.59.26#w40) |[bonus-tv_uah](/payout-services/bonus-tv_uah/)|`bonus-tv_uah`| 
+|![bonus-tv](https://static.openfintech.io/payout_methods/bonus-tv/icon.svg?w=278&c=v0.59.26#w40) |[bonus-tv_uah](/payout-services/bonus-tv_uah/)|`bonus-tv_uah`| 
  
 
 ## JSON Object 

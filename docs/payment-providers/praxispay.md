@@ -1,6 +1,6 @@
 
 # Praxispay 
-![praxispay](https://static.openfintech.io/payment_providers/praxispay/logo.png?w=400&c=v0.59.26#w100)  
+![praxispay](https://static.openfintech.io/payment_providers/praxispay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![praxispay](https://static.openfintech.io/payment_providers/praxispay/logo.png?w=400&c=v0.59.26#w100)  
+![praxispay](https://static.openfintech.io/payment_providers/praxispay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/praxispay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/praxispay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![praxispay](https://static.openfintech.io/payment_providers/praxispay/icon.png?w=278&c=v0.59.26#w100)  
+![praxispay](https://static.openfintech.io/payment_providers/praxispay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/praxispay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/praxispay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

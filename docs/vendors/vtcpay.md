@@ -1,6 +1,6 @@
 
 # VTC Pay 
-![vtcpay](https://static.openfintech.io/vendors/vtcpay/logo.png?w=400&c=v0.59.26#w200)  
+![vtcpay](https://static.openfintech.io/vendors/vtcpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Hanoi HanoiViet Nam
 
 ### Logo 
  
-![vtcpay](https://static.openfintech.io/vendors/vtcpay/logo.png?w=400&c=v0.59.26#w200)  
+![vtcpay](https://static.openfintech.io/vendors/vtcpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/vtcpay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/vtcpay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![vtcpay](https://static.openfintech.io/vendors/vtcpay/icon.png?w=278&c=v0.59.26#w100)  
+![vtcpay](https://static.openfintech.io/vendors/vtcpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/vtcpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/vtcpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

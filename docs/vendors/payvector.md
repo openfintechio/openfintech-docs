@@ -1,6 +1,6 @@
 
 # PayVector 
-![payvector](https://static.openfintech.io/vendors/payvector/logo.png?w=400&c=v0.59.26#w200)  
+![payvector](https://static.openfintech.io/vendors/payvector/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  4 Blake MewsTW9 3GA LondonUnited Kingdom
 
 ### Logo 
  
-![payvector](https://static.openfintech.io/vendors/payvector/logo.png?w=400&c=v0.59.26#w200)  
+![payvector](https://static.openfintech.io/vendors/payvector/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payvector/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payvector/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payvector](https://static.openfintech.io/vendors/payvector/icon.png?w=278&c=v0.59.26#w100)  
+![payvector](https://static.openfintech.io/vendors/payvector/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payvector/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payvector/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

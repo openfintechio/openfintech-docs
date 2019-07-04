@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Pan-Telecom (Kiev
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![pan-telekom-kiev](https://static.openfintech.io/payout_methods/pan-telekom-kiev/icon.png?w=278&c=v0.59.26#w40) |[pan-telekom-kiev_uah](/payout-services/pan-telekom-kiev_uah/)|`pan-telekom-kiev_uah`| 
+|![pan-telekom-kiev](https://static.openfintech.io/payout_methods/pan-telekom-kiev/icon.svg?w=278&c=v0.59.26#w40) |[pan-telekom-kiev_uah](/payout-services/pan-telekom-kiev_uah/)|`pan-telekom-kiev_uah`| 
  
 
 ## JSON Object 

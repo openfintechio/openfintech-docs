@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Kangaroo (Ki
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-kenguru-kiev](https://static.openfintech.io/payout_methods/taksi-kenguru-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-kenguru-kiev_uah](/payout-services/taksi-kenguru-kiev_uah/)|`taksi-kenguru-kiev_uah`| 
+|![taksi-kenguru-kiev](https://static.openfintech.io/payout_methods/taksi-kenguru-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-kenguru-kiev_uah](/payout-services/taksi-kenguru-kiev_uah/)|`taksi-kenguru-kiev_uah`| 
  
 
 ## JSON Object 

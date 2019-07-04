@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ASTRATELCOM (Illi
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![astratelcom-illichevsk](https://static.openfintech.io/payout_methods/astratelcom-illichevsk/icon.png?w=278&c=v0.59.26#w40) |[astratelcom-illichevsk_uah](/payout-services/astratelcom-illichevsk_uah/)|`astratelcom-illichevsk_uah`| 
+|![astratelcom-illichevsk](https://static.openfintech.io/payout_methods/astratelcom-illichevsk/icon.svg?w=278&c=v0.59.26#w40) |[astratelcom-illichevsk_uah](/payout-services/astratelcom-illichevsk_uah/)|`astratelcom-illichevsk_uah`| 
  
 
 ## JSON Object 

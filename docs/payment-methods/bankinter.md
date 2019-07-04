@@ -1,6 +1,6 @@
 
 # Bank Inter 
-![bankinter](https://static.openfintech.io/payment_methods/bankinter/logo.png?w=400&c=v0.59.26#w200)  
+![bankinter](https://static.openfintech.io/payment_methods/bankinter/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `bankinter` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![bankinter](https://static.openfintech.io/payment_methods/bankinter/logo.png?w=400&c=v0.59.26#w200)  
+![bankinter](https://static.openfintech.io/payment_methods/bankinter/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/bankinter/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/bankinter/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![bankinter](https://static.openfintech.io/payment_methods/bankinter/icon.png?w=278&c=v0.59.26#w100)  
+![bankinter](https://static.openfintech.io/payment_methods/bankinter/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/bankinter/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/bankinter/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Inte
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
  
 

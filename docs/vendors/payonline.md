@@ -1,6 +1,6 @@
 
 # PayOnline 
-![payonline](https://static.openfintech.io/vendors/payonline/logo.png?w=400&c=v0.59.26#w200)  
+![payonline](https://static.openfintech.io/vendors/payonline/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  8 Marta st.1, bld. 12, entrance 3127083 MoscowRussian Federation
 
 ### Logo 
  
-![payonline](https://static.openfintech.io/vendors/payonline/logo.png?w=400&c=v0.59.26#w200)  
+![payonline](https://static.openfintech.io/vendors/payonline/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payonline/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payonline/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payonline](https://static.openfintech.io/vendors/payonline/icon.png?w=278&c=v0.59.26#w100)  
+![payonline](https://static.openfintech.io/vendors/payonline/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payonline/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payonline/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

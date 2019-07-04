@@ -1,6 +1,6 @@
 
 # Targetpay.com 
-![targetpay](https://static.openfintech.io/payment_providers/targetpay/logo.png?w=400&c=v0.59.26#w100)  
+![targetpay](https://static.openfintech.io/payment_providers/targetpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![targetpay](https://static.openfintech.io/payment_providers/targetpay/logo.png?w=400&c=v0.59.26#w100)  
+![targetpay](https://static.openfintech.io/payment_providers/targetpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/targetpay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/targetpay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![targetpay](https://static.openfintech.io/payment_providers/targetpay/icon.png?w=278&c=v0.59.26#w100)  
+![targetpay](https://static.openfintech.io/payment_providers/targetpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/targetpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/targetpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

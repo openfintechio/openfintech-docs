@@ -1,6 +1,6 @@
 
 # Postová Banka 
-![postovabanka](https://static.openfintech.io/payment_methods/postovabanka/logo.png?w=400&c=v0.59.26#w200)  
+![postovabanka](https://static.openfintech.io/payment_methods/postovabanka/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `postovabanka` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![postovabanka](https://static.openfintech.io/payment_methods/postovabanka/logo.png?w=400&c=v0.59.26#w200)  
+![postovabanka](https://static.openfintech.io/payment_methods/postovabanka/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/postovabanka/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/postovabanka/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![postovabanka](https://static.openfintech.io/payment_methods/postovabanka/icon.png?w=278&c=v0.59.26#w100)  
+![postovabanka](https://static.openfintech.io/payment_methods/postovabanka/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/postovabanka/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/postovabanka/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Postová 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![trustpay](https://static.openfintech.io/payment_providers/trustpay/icon.png?w=278&c=v0.59.26#w100) |[TrustPay](/payment-providers/trustpay/)|`trustpay`| 
+|![trustpay](https://static.openfintech.io/payment_providers/trustpay/icon.svg?w=278&c=v0.59.26#w100) |[TrustPay](/payment-providers/trustpay/)|`trustpay`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
  
 

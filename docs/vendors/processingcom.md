@@ -1,6 +1,6 @@
 
 # Processing.com 
-![processingcom](https://static.openfintech.io/vendors/processingcom/logo.png?w=400&c=v0.59.26#w200)  
+![processingcom](https://static.openfintech.io/vendors/processingcom/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  15303 Ventura Blvd, Suite 105091403 CaliforniaUnited States of America
 
 ### Logo 
  
-![processingcom](https://static.openfintech.io/vendors/processingcom/logo.png?w=400&c=v0.59.26#w200)  
+![processingcom](https://static.openfintech.io/vendors/processingcom/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/processingcom/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/processingcom/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![processingcom](https://static.openfintech.io/vendors/processingcom/icon.png?w=278&c=v0.59.26#w100)  
+![processingcom](https://static.openfintech.io/vendors/processingcom/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/processingcom/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/processingcom/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

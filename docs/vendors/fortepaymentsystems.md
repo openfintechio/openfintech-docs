@@ -1,6 +1,6 @@
 
 # Forte Payment Systems 
-![fortepaymentsystems](https://static.openfintech.io/vendors/fortepaymentsystems/logo.png?w=400&c=v0.59.26#w200)  
+![fortepaymentsystems](https://static.openfintech.io/vendors/fortepaymentsystems/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -26,18 +26,18 @@ street:  500 W. Bethany Suite #200 TexasUnited States of America
 
 ### Logo 
  
-![fortepaymentsystems](https://static.openfintech.io/vendors/fortepaymentsystems/logo.png?w=400&c=v0.59.26#w200)  
+![fortepaymentsystems](https://static.openfintech.io/vendors/fortepaymentsystems/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/fortepaymentsystems/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/fortepaymentsystems/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![fortepaymentsystems](https://static.openfintech.io/vendors/fortepaymentsystems/icon.png?w=278&c=v0.59.26#w100)  
+![fortepaymentsystems](https://static.openfintech.io/vendors/fortepaymentsystems/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/fortepaymentsystems/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/fortepaymentsystems/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

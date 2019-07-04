@@ -1,6 +1,6 @@
 
 # PAYUNITY 
-![payunity](https://static.openfintech.io/vendors/payunity/logo.png?w=400&c=v0.59.26#w200)  
+![payunity](https://static.openfintech.io/vendors/payunity/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Wien ViennaAustria
 
 ### Logo 
  
-![payunity](https://static.openfintech.io/vendors/payunity/logo.png?w=400&c=v0.59.26#w200)  
+![payunity](https://static.openfintech.io/vendors/payunity/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payunity/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payunity/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payunity](https://static.openfintech.io/vendors/payunity/icon.png?w=278&c=v0.59.26#w100)  
+![payunity](https://static.openfintech.io/vendors/payunity/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payunity/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payunity/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # PayByBill 
-![paybybill](https://static.openfintech.io/payment_methods/paybybill/logo.png?w=400&c=v0.59.26#w200)  
+![paybybill](https://static.openfintech.io/payment_methods/paybybill/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `paybybill` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![paybybill](https://static.openfintech.io/payment_methods/paybybill/logo.png?w=400&c=v0.59.26#w200)  
+![paybybill](https://static.openfintech.io/payment_methods/paybybill/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/paybybill/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/paybybill/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![paybybill](https://static.openfintech.io/payment_methods/paybybill/icon.png?w=278&c=v0.59.26#w100)  
+![paybybill](https://static.openfintech.io/payment_methods/paybybill/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/paybybill/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/paybybill/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PayByBill
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![altapay](https://static.openfintech.io/payment_providers/altapay/icon.png?w=278&c=v0.59.26#w100) |[AltaPay](/payment-providers/altapay/)|`altapay`| 
+|![altapay](https://static.openfintech.io/payment_providers/altapay/icon.svg?w=278&c=v0.59.26#w100) |[AltaPay](/payment-providers/altapay/)|`altapay`| 
 |![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
  
 

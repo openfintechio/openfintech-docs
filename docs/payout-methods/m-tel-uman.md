@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _M-TEL (Uman)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![m-tel-uman](https://static.openfintech.io/payout_methods/m-tel-uman/icon.png?w=278&c=v0.59.26#w40) |[m-tel-uman_uah](/payout-services/m-tel-uman_uah/)|`m-tel-uman_uah`| 
+|![m-tel-uman](https://static.openfintech.io/payout_methods/m-tel-uman/icon.svg?w=278&c=v0.59.26#w40) |[m-tel-uman_uah](/payout-services/m-tel-uman_uah/)|`m-tel-uman_uah`| 
  
 
 ## JSON Object 

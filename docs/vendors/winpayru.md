@@ -1,6 +1,6 @@
 
 # WinPay 
-![winpayru](https://static.openfintech.io/vendors/winpayru/logo.png?w=400&c=v0.59.26#w200)  
+![winpayru](https://static.openfintech.io/vendors/winpayru/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -20,18 +20,18 @@
 
 ### Logo 
  
-![winpayru](https://static.openfintech.io/vendors/winpayru/logo.png?w=400&c=v0.59.26#w200)  
+![winpayru](https://static.openfintech.io/vendors/winpayru/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/winpayru/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/winpayru/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![winpayru](https://static.openfintech.io/vendors/winpayru/icon.png?w=278&c=v0.59.26#w100)  
+![winpayru](https://static.openfintech.io/vendors/winpayru/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/winpayru/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/winpayru/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

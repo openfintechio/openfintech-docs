@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _CHARITABLE FUND O
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![blagodiinii-fond-oleksandriiskii](https://static.openfintech.io/payout_methods/blagodiinii-fond-oleksandriiskii/icon.png?w=278&c=v0.59.26#w40) |[blagodiinii-fond-oleksandriiskii_uah](/payout-services/blagodiinii-fond-oleksandriiskii_uah/)|`blagodiinii-fond-oleksandriiskii_uah`| 
+|![blagodiinii-fond-oleksandriiskii](https://static.openfintech.io/payout_methods/blagodiinii-fond-oleksandriiskii/icon.svg?w=278&c=v0.59.26#w40) |[blagodiinii-fond-oleksandriiskii_uah](/payout-services/blagodiinii-fond-oleksandriiskii_uah/)|`blagodiinii-fond-oleksandriiskii_uah`| 
  
 
 ## JSON Object 

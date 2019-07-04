@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Tickets.ua_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tickets-ua](https://static.openfintech.io/payout_methods/tickets-ua/icon.png?w=278&c=v0.59.26#w40) |[tickets-ua_uah](/payout-services/tickets-ua_uah/)|`tickets-ua_uah`| 
+|![tickets-ua](https://static.openfintech.io/payout_methods/tickets-ua/icon.svg?w=278&c=v0.59.26#w40) |[tickets-ua_uah](/payout-services/tickets-ua_uah/)|`tickets-ua_uah`| 
  
 
 ## JSON Object 

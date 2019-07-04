@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _CNM K1_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![cnm-k1](https://static.openfintech.io/payout_methods/cnm-k1/icon.png?w=278&c=v0.59.26#w40) |[cnm-k1_uah](/payout-services/cnm-k1_uah/)|`cnm-k1_uah`| 
+|![cnm-k1](https://static.openfintech.io/payout_methods/cnm-k1/icon.svg?w=278&c=v0.59.26#w40) |[cnm-k1_uah](/payout-services/cnm-k1_uah/)|`cnm-k1_uah`| 
  
 
 ## JSON Object 

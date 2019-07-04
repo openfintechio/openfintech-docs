@@ -39,7 +39,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Oxxo_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
+|![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.svg?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
  
 
 ## JSON Object 

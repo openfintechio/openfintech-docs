@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Service (Zap
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-servis-zaporozhe](https://static.openfintech.io/payout_methods/taksi-servis-zaporozhe/icon.png?w=278&c=v0.59.26#w40) |[taksi-servis-zaporozhe_uah](/payout-services/taksi-servis-zaporozhe_uah/)|`taksi-servis-zaporozhe_uah`| 
+|![taksi-servis-zaporozhe](https://static.openfintech.io/payout_methods/taksi-servis-zaporozhe/icon.svg?w=278&c=v0.59.26#w40) |[taksi-servis-zaporozhe_uah](/payout-services/taksi-servis-zaporozhe_uah/)|`taksi-servis-zaporozhe_uah`| 
  
 
 ## JSON Object 

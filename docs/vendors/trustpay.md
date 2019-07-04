@@ -1,6 +1,6 @@
 
 # TrustPay 
-![trustpay](https://static.openfintech.io/vendors/trustpay/logo.png?w=400&c=v0.59.26#w200)  
+![trustpay](https://static.openfintech.io/vendors/trustpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Za Kasárňou 1831 03 BratislavaSlovakia
 
 ### Logo 
  
-![trustpay](https://static.openfintech.io/vendors/trustpay/logo.png?w=400&c=v0.59.26#w200)  
+![trustpay](https://static.openfintech.io/vendors/trustpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/trustpay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/trustpay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![trustpay](https://static.openfintech.io/vendors/trustpay/icon.png?w=278&c=v0.59.26#w100)  
+![trustpay](https://static.openfintech.io/vendors/trustpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/trustpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/trustpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

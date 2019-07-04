@@ -1,6 +1,6 @@
 
 # Bankaxess 
-![bankaxess](https://static.openfintech.io/vendors/bankaxess/logo.png?w=400&c=v0.59.26#w200)  
+![bankaxess](https://static.openfintech.io/vendors/bankaxess/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![bankaxess](https://static.openfintech.io/vendors/bankaxess/logo.png?w=400&c=v0.59.26#w200)  
+![bankaxess](https://static.openfintech.io/vendors/bankaxess/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/bankaxess/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/bankaxess/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![bankaxess](https://static.openfintech.io/vendors/bankaxess/icon.png?w=278&c=v0.59.26#w100)  
+![bankaxess](https://static.openfintech.io/vendors/bankaxess/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/bankaxess/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/bankaxess/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Cardsave 
-![cardsave](https://static.openfintech.io/vendors/cardsave/logo.png?w=400&c=v0.59.26#w200)  
+![cardsave](https://static.openfintech.io/vendors/cardsave/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Acorn Business Park, Moss Road, GrimsbyDN32 0LW Lincolnshire United Kin
 
 ### Logo 
  
-![cardsave](https://static.openfintech.io/vendors/cardsave/logo.png?w=400&c=v0.59.26#w200)  
+![cardsave](https://static.openfintech.io/vendors/cardsave/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/cardsave/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/cardsave/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![cardsave](https://static.openfintech.io/vendors/cardsave/icon.png?w=278&c=v0.59.26#w100)  
+![cardsave](https://static.openfintech.io/vendors/cardsave/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/cardsave/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/cardsave/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Ivan (Melito
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-ivan-melitopol](https://static.openfintech.io/payout_methods/taksi-ivan-melitopol/icon.png?w=278&c=v0.59.26#w40) |[taksi-ivan-melitopol_uah](/payout-services/taksi-ivan-melitopol_uah/)|`taksi-ivan-melitopol_uah`| 
+|![taksi-ivan-melitopol](https://static.openfintech.io/payout_methods/taksi-ivan-melitopol/icon.svg?w=278&c=v0.59.26#w40) |[taksi-ivan-melitopol_uah](/payout-services/taksi-ivan-melitopol_uah/)|`taksi-ivan-melitopol_uah`| 
  
 
 ## JSON Object 

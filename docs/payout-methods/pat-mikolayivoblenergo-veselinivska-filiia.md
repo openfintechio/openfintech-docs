@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _PJSC 'Nikolayevob
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![pat-mikolayivoblenergo-veselinivska-filiia](https://static.openfintech.io/payout_methods/pat-mikolayivoblenergo-veselinivska-filiia/icon.png?w=278&c=v0.59.26#w40) |[pat-mikolayivoblenergo-veselinivska-filiia_uah](/payout-services/pat-mikolayivoblenergo-veselinivska-filiia_uah/)|`pat-mikolayivoblenergo-veselinivska-filiia_uah`| 
+|![pat-mikolayivoblenergo-veselinivska-filiia](https://static.openfintech.io/payout_methods/pat-mikolayivoblenergo-veselinivska-filiia/icon.svg?w=278&c=v0.59.26#w40) |[pat-mikolayivoblenergo-veselinivska-filiia_uah](/payout-services/pat-mikolayivoblenergo-veselinivska-filiia_uah/)|`pat-mikolayivoblenergo-veselinivska-filiia_uah`| 
  
 
 ## JSON Object 

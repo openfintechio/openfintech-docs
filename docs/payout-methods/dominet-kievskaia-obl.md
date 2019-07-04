@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _DOMINET (Kyiv reg
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![dominet-kievskaia-obl](https://static.openfintech.io/payout_methods/dominet-kievskaia-obl/icon.png?w=278&c=v0.59.26#w40) |[dominet-kievskaia-obl_uah](/payout-services/dominet-kievskaia-obl_uah/)|`dominet-kievskaia-obl_uah`| 
+|![dominet-kievskaia-obl](https://static.openfintech.io/payout_methods/dominet-kievskaia-obl/icon.svg?w=278&c=v0.59.26#w40) |[dominet-kievskaia-obl_uah](/payout-services/dominet-kievskaia-obl_uah/)|`dominet-kievskaia-obl_uah`| 
  
 
 ## JSON Object 

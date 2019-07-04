@@ -1,6 +1,6 @@
 
 # Argencard 
-![argencard](https://static.openfintech.io/vendors/argencard/logo.png?w=400&c=v0.59.26#w200)  
+![argencard](https://static.openfintech.io/vendors/argencard/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![argencard](https://static.openfintech.io/vendors/argencard/logo.png?w=400&c=v0.59.26#w200)  
+![argencard](https://static.openfintech.io/vendors/argencard/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/argencard/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/argencard/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![argencard](https://static.openfintech.io/vendors/argencard/icon.png?w=278&c=v0.59.26#w100)  
+![argencard](https://static.openfintech.io/vendors/argencard/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/argencard/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/argencard/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

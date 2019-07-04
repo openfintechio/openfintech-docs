@@ -1,6 +1,6 @@
 
 # Skipjack 
-![skipjackpaymentsolutions](https://static.openfintech.io/vendors/skipjackpaymentsolutions/logo.png?w=400&c=v0.59.26#w200)  
+![skipjackpaymentsolutions](https://static.openfintech.io/vendors/skipjackpaymentsolutions/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  8500 Governor’s Hill Dr OhioUnited States of America
 
 ### Logo 
  
-![skipjackpaymentsolutions](https://static.openfintech.io/vendors/skipjackpaymentsolutions/logo.png?w=400&c=v0.59.26#w200)  
+![skipjackpaymentsolutions](https://static.openfintech.io/vendors/skipjackpaymentsolutions/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/skipjackpaymentsolutions/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/skipjackpaymentsolutions/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![skipjackpaymentsolutions](https://static.openfintech.io/vendors/skipjackpaymentsolutions/icon.png?w=278&c=v0.59.26#w100)  
+![skipjackpaymentsolutions](https://static.openfintech.io/vendors/skipjackpaymentsolutions/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/skipjackpaymentsolutions/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/skipjackpaymentsolutions/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

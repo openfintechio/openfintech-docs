@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Vega equipment_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![vega-oborudovanie](https://static.openfintech.io/payout_methods/vega-oborudovanie/icon.png?w=278&c=v0.59.26#w40) |[vega-oborudovanie_uah](/payout-services/vega-oborudovanie_uah/)|`vega-oborudovanie_uah`| 
+|![vega-oborudovanie](https://static.openfintech.io/payout_methods/vega-oborudovanie/icon.svg?w=278&c=v0.59.26#w40) |[vega-oborudovanie_uah](/payout-services/vega-oborudovanie_uah/)|`vega-oborudovanie_uah`| 
  
 
 ## JSON Object 

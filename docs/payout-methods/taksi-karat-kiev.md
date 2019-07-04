@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Carat (Kiev)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-karat-kiev](https://static.openfintech.io/payout_methods/taksi-karat-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-karat-kiev_uah](/payout-services/taksi-karat-kiev_uah/)|`taksi-karat-kiev_uah`| 
+|![taksi-karat-kiev](https://static.openfintech.io/payout_methods/taksi-karat-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-karat-kiev_uah](/payout-services/taksi-karat-kiev_uah/)|`taksi-karat-kiev_uah`| 
  
 
 ## JSON Object 

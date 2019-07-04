@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _MediaMax (Odessa)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![mediamax-odessa](https://static.openfintech.io/payout_methods/mediamax-odessa/icon.png?w=278&c=v0.59.26#w40) |[mediamax-odessa_uah](/payout-services/mediamax-odessa_uah/)|`mediamax-odessa_uah`| 
+|![mediamax-odessa](https://static.openfintech.io/payout_methods/mediamax-odessa/icon.svg?w=278&c=v0.59.26#w40) |[mediamax-odessa_uah](/payout-services/mediamax-odessa_uah/)|`mediamax-odessa_uah`| 
  
 
 ## JSON Object 

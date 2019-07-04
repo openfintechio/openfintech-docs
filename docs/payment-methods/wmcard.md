@@ -1,6 +1,6 @@
 
 # WebMoney card 
-![wmcard](https://static.openfintech.io/payment_methods/wmcard/logo.png?w=400&c=v0.59.26#w200)  
+![wmcard](https://static.openfintech.io/payment_methods/wmcard/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `wmcard` 
@@ -19,17 +19,17 @@
 ## Images 
 
 ### Logo 
-![wmcard](https://static.openfintech.io/payment_methods/wmcard/logo.png?w=400&c=v0.59.26#w200)  
+![wmcard](https://static.openfintech.io/payment_methods/wmcard/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/wmcard/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/wmcard/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![wmcard](https://static.openfintech.io/payment_methods/wmcard/icon.png?w=278&c=v0.59.26#w100)  
+![wmcard](https://static.openfintech.io/payment_methods/wmcard/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/wmcard/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/wmcard/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

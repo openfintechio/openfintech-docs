@@ -1,6 +1,6 @@
 
 # eNett International 
-![enett](https://static.openfintech.io/vendors/enett/logo.png?w=400&c=v0.59.26#w200)  
+![enett](https://static.openfintech.io/vendors/enett/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Level 11, 50 Queen St3000 Australia
 
 ### Logo 
  
-![enett](https://static.openfintech.io/vendors/enett/logo.png?w=400&c=v0.59.26#w200)  
+![enett](https://static.openfintech.io/vendors/enett/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/enett/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/enett/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![enett](https://static.openfintech.io/vendors/enett/icon.png?w=278&c=v0.59.26#w100)  
+![enett](https://static.openfintech.io/vendors/enett/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/enett/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/enett/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

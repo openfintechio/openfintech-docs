@@ -1,6 +1,6 @@
 
 # Meikopay 
-![meikopay](https://static.openfintech.io/vendors/meikopay/logo.png?w=400&c=v0.59.26#w200)  
+![meikopay](https://static.openfintech.io/vendors/meikopay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  2301F, Bike Technology Building, Keyan Road, Nanshan District, Shenzhen
 
 ### Logo 
  
-![meikopay](https://static.openfintech.io/vendors/meikopay/logo.png?w=400&c=v0.59.26#w200)  
+![meikopay](https://static.openfintech.io/vendors/meikopay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/meikopay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/meikopay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![meikopay](https://static.openfintech.io/vendors/meikopay/icon.png?w=278&c=v0.59.26#w100)  
+![meikopay](https://static.openfintech.io/vendors/meikopay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/meikopay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/meikopay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

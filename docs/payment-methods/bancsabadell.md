@@ -1,6 +1,6 @@
 
 # Banc Sabadell 
-![bancsabadell](https://static.openfintech.io/payment_methods/bancsabadell/logo.png?w=400&c=v0.59.26#w200)  
+![bancsabadell](https://static.openfintech.io/payment_methods/bancsabadell/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `bancsabadell` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![bancsabadell](https://static.openfintech.io/payment_methods/bancsabadell/logo.png?w=400&c=v0.59.26#w200)  
+![bancsabadell](https://static.openfintech.io/payment_methods/bancsabadell/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/bancsabadell/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/bancsabadell/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![bancsabadell](https://static.openfintech.io/payment_methods/bancsabadell/icon.png?w=278&c=v0.59.26#w100)  
+![bancsabadell](https://static.openfintech.io/payment_methods/bancsabadell/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/bancsabadell/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/bancsabadell/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,8 +43,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Banc Saba
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![lemonway](https://static.openfintech.io/payment_providers/lemonway/icon.png?w=278&c=v0.59.26#w100) |[Lemon Way](/payment-providers/lemonway/)|`lemonway`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![lemonway](https://static.openfintech.io/payment_providers/lemonway/icon.svg?w=278&c=v0.59.26#w100) |[Lemon Way](/payment-providers/lemonway/)|`lemonway`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
  
 

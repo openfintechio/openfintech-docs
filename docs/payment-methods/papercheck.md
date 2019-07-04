@@ -1,6 +1,6 @@
 
 # Paper Check 
-![papercheck](https://static.openfintech.io/payment_methods/papercheck/logo.png?w=400&c=v0.59.26#w200)  
+![papercheck](https://static.openfintech.io/payment_methods/papercheck/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `papercheck` 
@@ -21,17 +21,17 @@
 ## Images 
 
 ### Logo 
-![papercheck](https://static.openfintech.io/payment_methods/papercheck/logo.png?w=400&c=v0.59.26#w200)  
+![papercheck](https://static.openfintech.io/payment_methods/papercheck/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/papercheck/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/papercheck/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![papercheck](https://static.openfintech.io/payment_methods/papercheck/icon.png?w=278&c=v0.59.26#w100)  
+![papercheck](https://static.openfintech.io/payment_methods/papercheck/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/papercheck/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/papercheck/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -40,9 +40,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Paper Che
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![lemonway](https://static.openfintech.io/payment_providers/lemonway/icon.png?w=278&c=v0.59.26#w100) |[Lemon Way](/payment-providers/lemonway/)|`lemonway`| 
-|![klikpay](https://static.openfintech.io/payment_providers/klikpay/icon.png?w=278&c=v0.59.26#w100) |[Klik & Pay](/payment-providers/klikpay/)|`klikpay`| 
-|![2000charge](https://static.openfintech.io/payment_providers/2000charge/icon.png?w=278&c=v0.59.26#w100) |[2000Charge.com](/payment-providers/2000charge/)|`2000charge`| 
+|![lemonway](https://static.openfintech.io/payment_providers/lemonway/icon.svg?w=278&c=v0.59.26#w100) |[Lemon Way](/payment-providers/lemonway/)|`lemonway`| 
+|![klikpay](https://static.openfintech.io/payment_providers/klikpay/icon.svg?w=278&c=v0.59.26#w100) |[Klik & Pay](/payment-providers/klikpay/)|`klikpay`| 
+|![2000charge](https://static.openfintech.io/payment_providers/2000charge/icon.svg?w=278&c=v0.59.26#w100) |[2000Charge.com](/payment-providers/2000charge/)|`2000charge`| 
  
 
 ## JSON Object 

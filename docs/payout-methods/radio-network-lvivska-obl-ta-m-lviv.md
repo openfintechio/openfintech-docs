@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _RADIO NETWORK (Lv
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![radio-network-lvivska-obl-ta-m-lviv](https://static.openfintech.io/payout_methods/radio-network-lvivska-obl-ta-m-lviv/icon.png?w=278&c=v0.59.26#w40) |[radio-network-lvivska-obl-ta-m-lviv_uah](/payout-services/radio-network-lvivska-obl-ta-m-lviv_uah/)|`radio-network-lvivska-obl-ta-m-lviv_uah`| 
+|![radio-network-lvivska-obl-ta-m-lviv](https://static.openfintech.io/payout_methods/radio-network-lvivska-obl-ta-m-lviv/icon.svg?w=278&c=v0.59.26#w40) |[radio-network-lvivska-obl-ta-m-lviv_uah](/payout-services/radio-network-lvivska-obl-ta-m-lviv_uah/)|`radio-network-lvivska-obl-ta-m-lviv_uah`| 
  
 
 ## JSON Object 

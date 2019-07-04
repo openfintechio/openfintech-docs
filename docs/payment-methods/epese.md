@@ -1,6 +1,6 @@
 
 # Epese 
-![epese](https://static.openfintech.io/payment_methods/epese/logo.png?w=400&c=v0.59.26#w200)  
+![epese](https://static.openfintech.io/payment_methods/epese/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `epese` 
@@ -15,17 +15,17 @@
 ## Images 
 
 ### Logo 
-![epese](https://static.openfintech.io/payment_methods/epese/logo.png?w=400&c=v0.59.26#w200)  
+![epese](https://static.openfintech.io/payment_methods/epese/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/epese/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/epese/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![epese](https://static.openfintech.io/payment_methods/epese/icon.png?w=278&c=v0.59.26#w100)  
+![epese](https://static.openfintech.io/payment_methods/epese/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/epese/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/epese/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

@@ -1,6 +1,6 @@
 
 # APCO 
-![apco](https://static.openfintech.io/vendors/apco/logo.png?w=400&c=v0.59.26#w200)  
+![apco](https://static.openfintech.io/vendors/apco/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  216 Psaila StreetBKR 9078 Malta
 
 ### Logo 
  
-![apco](https://static.openfintech.io/vendors/apco/logo.png?w=400&c=v0.59.26#w200)  
+![apco](https://static.openfintech.io/vendors/apco/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/apco/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/apco/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![apco](https://static.openfintech.io/vendors/apco/icon.png?w=278&c=v0.59.26#w100)  
+![apco](https://static.openfintech.io/vendors/apco/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/apco/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/apco/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

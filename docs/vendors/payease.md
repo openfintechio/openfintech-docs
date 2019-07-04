@@ -1,6 +1,6 @@
 
 # PayEase 
-![payease](https://static.openfintech.io/vendors/payease/logo.png?w=400&c=v0.59.26#w200)  
+![payease](https://static.openfintech.io/vendors/payease/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  2332-A Walsh Ave. Santa ClaraCaliforniaUnited States of America
 
 ### Logo 
  
-![payease](https://static.openfintech.io/vendors/payease/logo.png?w=400&c=v0.59.26#w200)  
+![payease](https://static.openfintech.io/vendors/payease/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payease/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payease/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payease](https://static.openfintech.io/vendors/payease/icon.png?w=278&c=v0.59.26#w100)  
+![payease](https://static.openfintech.io/vendors/payease/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payease/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payease/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

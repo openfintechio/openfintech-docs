@@ -1,6 +1,6 @@
 
 # Peela 
-![peela](https://static.openfintech.io/payment_methods/peela/logo.png?w=400&c=v0.59.26#w200)  
+![peela](https://static.openfintech.io/payment_methods/peela/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `peela` 
@@ -21,17 +21,17 @@
 ## Images 
 
 ### Logo 
-![peela](https://static.openfintech.io/payment_methods/peela/logo.png?w=400&c=v0.59.26#w200)  
+![peela](https://static.openfintech.io/payment_methods/peela/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/peela/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/peela/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![peela](https://static.openfintech.io/payment_methods/peela/icon.png?w=278&c=v0.59.26#w100)  
+![peela](https://static.openfintech.io/payment_methods/peela/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/peela/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/peela/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -40,7 +40,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Peela_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
  
 
 ## JSON Object 

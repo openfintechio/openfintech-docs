@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Facebook Game Car
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![facebook-game-card-global-5](https://static.openfintech.io/payout_methods/facebook-game-card-global-5/icon.png?w=278&c=v0.59.26#w40) |[facebook-game-card-global-5_uah](/payout-services/facebook-game-card-global-5_uah/)|`facebook-game-card-global-5_uah`| 
+|![facebook-game-card-global-5](https://static.openfintech.io/payout_methods/facebook-game-card-global-5/icon.svg?w=278&c=v0.59.26#w40) |[facebook-game-card-global-5_uah](/payout-services/facebook-game-card-global-5_uah/)|`facebook-game-card-global-5_uah`| 
  
 
 ## JSON Object 

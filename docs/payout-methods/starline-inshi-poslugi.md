@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Starline - non-po
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![starline-inshi-poslugi](https://static.openfintech.io/payout_methods/starline-inshi-poslugi/icon.png?w=278&c=v0.59.26#w40) |[starline-inshi-poslugi_uah](/payout-services/starline-inshi-poslugi_uah/)|`starline-inshi-poslugi_uah`| 
+|![starline-inshi-poslugi](https://static.openfintech.io/payout_methods/starline-inshi-poslugi/icon.svg?w=278&c=v0.59.26#w40) |[starline-inshi-poslugi_uah](/payout-services/starline-inshi-poslugi_uah/)|`starline-inshi-poslugi_uah`| 
  
 
 ## JSON Object 

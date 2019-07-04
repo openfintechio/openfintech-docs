@@ -1,6 +1,6 @@
 
 # Datatrans 
-![datatrans](https://static.openfintech.io/payment_providers/datatrans/logo.png?w=400&c=v0.59.26#w100)  
+![datatrans](https://static.openfintech.io/payment_providers/datatrans/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![datatrans](https://static.openfintech.io/payment_providers/datatrans/logo.png?w=400&c=v0.59.26#w100)  
+![datatrans](https://static.openfintech.io/payment_providers/datatrans/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/datatrans/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/datatrans/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![datatrans](https://static.openfintech.io/payment_providers/datatrans/icon.png?w=278&c=v0.59.26#w100)  
+![datatrans](https://static.openfintech.io/payment_providers/datatrans/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/datatrans/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/datatrans/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

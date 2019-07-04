@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Clash of the Tita
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bitva-titanov](https://static.openfintech.io/payout_methods/bitva-titanov/icon.png?w=278&c=v0.59.26#w40) |[bitva-titanov_uah](/payout-services/bitva-titanov_uah/)|`bitva-titanov_uah`| 
+|![bitva-titanov](https://static.openfintech.io/payout_methods/bitva-titanov/icon.svg?w=278&c=v0.59.26#w40) |[bitva-titanov_uah](/payout-services/bitva-titanov_uah/)|`bitva-titanov_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # mPay24 
-![mpay24](https://static.openfintech.io/vendors/mpay24/logo.png?w=400&c=v0.59.26#w200)  
+![mpay24](https://static.openfintech.io/vendors/mpay24/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Annagasse 51010 ViennaAustria
 
 ### Logo 
  
-![mpay24](https://static.openfintech.io/vendors/mpay24/logo.png?w=400&c=v0.59.26#w200)  
+![mpay24](https://static.openfintech.io/vendors/mpay24/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/mpay24/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/mpay24/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![mpay24](https://static.openfintech.io/vendors/mpay24/icon.png?w=278&c=v0.59.26#w100)  
+![mpay24](https://static.openfintech.io/vendors/mpay24/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/mpay24/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/mpay24/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

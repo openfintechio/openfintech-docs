@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Haddan_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![haddan](https://static.openfintech.io/payout_methods/haddan/icon.png?w=278&c=v0.59.26#w40) |[haddan_uah](/payout-services/haddan_uah/)|`haddan_uah`| 
+|![haddan](https://static.openfintech.io/payout_methods/haddan/icon.svg?w=278&c=v0.59.26#w40) |[haddan_uah](/payout-services/haddan_uah/)|`haddan_uah`| 
  
 
 ## JSON Object 

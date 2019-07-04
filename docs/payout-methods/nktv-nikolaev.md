@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _NKTV (Nikolaev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![nktv-nikolaev](https://static.openfintech.io/payout_methods/nktv-nikolaev/icon.png?w=278&c=v0.59.26#w40) |[nktv-nikolaev_uah](/payout-services/nktv-nikolaev_uah/)|`nktv-nikolaev_uah`| 
+|![nktv-nikolaev](https://static.openfintech.io/payout_methods/nktv-nikolaev/icon.svg?w=278&c=v0.59.26#w40) |[nktv-nikolaev_uah](/payout-services/nktv-nikolaev_uah/)|`nktv-nikolaev_uah`| 
  
 
 ## JSON Object 

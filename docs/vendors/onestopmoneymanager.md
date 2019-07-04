@@ -1,6 +1,6 @@
 
 # Onestopmoneymanager Ltd 
-![onestopmoneymanager](https://static.openfintech.io/vendors/onestopmoneymanager/logo.png?w=400&c=v0.59.26#w200)  
+![onestopmoneymanager](https://static.openfintech.io/vendors/onestopmoneymanager/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  161 - 163 Preston RoadBN1 6AF BrightonUnited Kingdom
 
 ### Logo 
  
-![onestopmoneymanager](https://static.openfintech.io/vendors/onestopmoneymanager/logo.png?w=400&c=v0.59.26#w200)  
+![onestopmoneymanager](https://static.openfintech.io/vendors/onestopmoneymanager/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/onestopmoneymanager/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/onestopmoneymanager/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![onestopmoneymanager](https://static.openfintech.io/vendors/onestopmoneymanager/icon.png?w=278&c=v0.59.26#w100)  
+![onestopmoneymanager](https://static.openfintech.io/vendors/onestopmoneymanager/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/onestopmoneymanager/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/onestopmoneymanager/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _EUROLINE-UKRAINE 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![evrolain-ukrayina-kiyiv](https://static.openfintech.io/payout_methods/evrolain-ukrayina-kiyiv/icon.png?w=278&c=v0.59.26#w40) |[evrolain-ukrayina-kiyiv_uah](/payout-services/evrolain-ukrayina-kiyiv_uah/)|`evrolain-ukrayina-kiyiv_uah`| 
+|![evrolain-ukrayina-kiyiv](https://static.openfintech.io/payout_methods/evrolain-ukrayina-kiyiv/icon.svg?w=278&c=v0.59.26#w40) |[evrolain-ukrayina-kiyiv_uah](/payout-services/evrolain-ukrayina-kiyiv_uah/)|`evrolain-ukrayina-kiyiv_uah`| 
  
 
 ## JSON Object 

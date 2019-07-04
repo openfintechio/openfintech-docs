@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Maxi Taxi (Kremen
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![maksi-taksi-kremenchug](https://static.openfintech.io/payout_methods/maksi-taksi-kremenchug/icon.png?w=278&c=v0.59.26#w40) |[maksi-taksi-kremenchug_uah](/payout-services/maksi-taksi-kremenchug_uah/)|`maksi-taksi-kremenchug_uah`| 
+|![maksi-taksi-kremenchug](https://static.openfintech.io/payout_methods/maksi-taksi-kremenchug/icon.svg?w=278&c=v0.59.26#w40) |[maksi-taksi-kremenchug_uah](/payout-services/maksi-taksi-kremenchug_uah/)|`maksi-taksi-kremenchug_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Axcess Merchant Services 
-![axcessmerchantservices](https://static.openfintech.io/vendors/axcessmerchantservices/logo.png?w=400&c=v0.59.26#w200)  
+![axcessmerchantservices](https://static.openfintech.io/vendors/axcessmerchantservices/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  103 Clarendon RoadLS2 9DF LeedsUnited Kingdom
 
 ### Logo 
  
-![axcessmerchantservices](https://static.openfintech.io/vendors/axcessmerchantservices/logo.png?w=400&c=v0.59.26#w200)  
+![axcessmerchantservices](https://static.openfintech.io/vendors/axcessmerchantservices/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/axcessmerchantservices/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/axcessmerchantservices/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![axcessmerchantservices](https://static.openfintech.io/vendors/axcessmerchantservices/icon.png?w=278&c=v0.59.26#w100)  
+![axcessmerchantservices](https://static.openfintech.io/vendors/axcessmerchantservices/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/axcessmerchantservices/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/axcessmerchantservices/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

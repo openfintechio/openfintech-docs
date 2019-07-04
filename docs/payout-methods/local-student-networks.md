@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _LOCAL STUDENT NET
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![local-student-networks](https://static.openfintech.io/payout_methods/local-student-networks/icon.png?w=278&c=v0.59.26#w40) |[local-student-networks_uah](/payout-services/local-student-networks_uah/)|`local-student-networks_uah`| 
+|![local-student-networks](https://static.openfintech.io/payout_methods/local-student-networks/icon.svg?w=278&c=v0.59.26#w40) |[local-student-networks_uah](/payout-services/local-student-networks_uah/)|`local-student-networks_uah`| 
  
 
 ## JSON Object 

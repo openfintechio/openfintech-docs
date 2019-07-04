@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Barbarians_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![varvary](https://static.openfintech.io/payout_methods/varvary/icon.png?w=278&c=v0.59.26#w40) |[varvary_uah](/payout-services/varvary_uah/)|`varvary_uah`| 
+|![varvary](https://static.openfintech.io/payout_methods/varvary/icon.svg?w=278&c=v0.59.26#w40) |[varvary_uah](/payout-services/varvary_uah/)|`varvary_uah`| 
  
 
 ## JSON Object 

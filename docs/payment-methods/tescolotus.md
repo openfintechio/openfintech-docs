@@ -1,6 +1,6 @@
 
 # Tesco Lotus 
-![tescolotus](https://static.openfintech.io/payment_methods/tescolotus/logo.png?w=400&c=v0.59.26#w200)  
+![tescolotus](https://static.openfintech.io/payment_methods/tescolotus/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `tescolotus` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![tescolotus](https://static.openfintech.io/payment_methods/tescolotus/logo.png?w=400&c=v0.59.26#w200)  
+![tescolotus](https://static.openfintech.io/payment_methods/tescolotus/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/tescolotus/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/tescolotus/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![tescolotus](https://static.openfintech.io/payment_methods/tescolotus/icon.png?w=278&c=v0.59.26#w100)  
+![tescolotus](https://static.openfintech.io/payment_methods/tescolotus/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/tescolotus/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/tescolotus/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Tesco Lot
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.png?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
+|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.svg?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
  
 
 ## JSON Object 

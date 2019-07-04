@@ -1,6 +1,6 @@
 
 # Limonetik 
-![limonetik](https://static.openfintech.io/vendors/limonetik/logo.png?w=400&c=v0.59.26#w200)  
+![limonetik](https://static.openfintech.io/vendors/limonetik/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  13 Boulevard De Rochechouart75009 ParisFrance
 
 ### Logo 
  
-![limonetik](https://static.openfintech.io/vendors/limonetik/logo.png?w=400&c=v0.59.26#w200)  
+![limonetik](https://static.openfintech.io/vendors/limonetik/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/limonetik/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/limonetik/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![limonetik](https://static.openfintech.io/vendors/limonetik/icon.png?w=278&c=v0.59.26#w100)  
+![limonetik](https://static.openfintech.io/vendors/limonetik/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/limonetik/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/limonetik/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

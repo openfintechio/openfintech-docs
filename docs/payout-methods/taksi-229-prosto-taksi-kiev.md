@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi 229 Just a t
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-229-prosto-taksi-kiev](https://static.openfintech.io/payout_methods/taksi-229-prosto-taksi-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-229-prosto-taksi-kiev_uah](/payout-services/taksi-229-prosto-taksi-kiev_uah/)|`taksi-229-prosto-taksi-kiev_uah`| 
+|![taksi-229-prosto-taksi-kiev](https://static.openfintech.io/payout_methods/taksi-229-prosto-taksi-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-229-prosto-taksi-kiev_uah](/payout-services/taksi-229-prosto-taksi-kiev_uah/)|`taksi-229-prosto-taksi-kiev_uah`| 
  
 
 ## JSON Object 

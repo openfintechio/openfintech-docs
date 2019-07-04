@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taksi Alisa Kiev 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-alisa-kiev-fop-voropaiev-o-iu-pozyvnye-do-4999](https://static.openfintech.io/payout_methods/taksi-alisa-kiev-fop-voropaiev-o-iu-pozyvnye-do-4999/icon.png?w=278&c=v0.59.26#w40) |[taksi-alisa-kiev-fop-voropaiev-o-iu-pozyvnye-do-4999_uah](/payout-services/taksi-alisa-kiev-fop-voropaiev-o-iu-pozyvnye-do-4999_uah/)|`taksi-alisa-kiev-fop-voropaiev-o-iu-pozyvnye-do-4999_uah`| 
+|![taksi-alisa-kiev-fop-voropaiev-o-iu-pozyvnye-do-4999](https://static.openfintech.io/payout_methods/taksi-alisa-kiev-fop-voropaiev-o-iu-pozyvnye-do-4999/icon.svg?w=278&c=v0.59.26#w40) |[taksi-alisa-kiev-fop-voropaiev-o-iu-pozyvnye-do-4999_uah](/payout-services/taksi-alisa-kiev-fop-voropaiev-o-iu-pozyvnye-do-4999_uah/)|`taksi-alisa-kiev-fop-voropaiev-o-iu-pozyvnye-do-4999_uah`| 
  
 
 ## JSON Object 

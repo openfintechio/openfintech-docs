@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ELAN - TV (Odessa
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![elan-tv-odessa](https://static.openfintech.io/payout_methods/elan-tv-odessa/icon.png?w=278&c=v0.59.26#w40) |[elan-tv-odessa_uah](/payout-services/elan-tv-odessa_uah/)|`elan-tv-odessa_uah`| 
+|![elan-tv-odessa](https://static.openfintech.io/payout_methods/elan-tv-odessa/icon.svg?w=278&c=v0.59.26#w40) |[elan-tv-odessa_uah](/payout-services/elan-tv-odessa_uah/)|`elan-tv-odessa_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # txtNation 
-![txtnation](https://static.openfintech.io/vendors/txtnation/logo.png?w=400&c=v0.59.26#w200)  
+![txtnation](https://static.openfintech.io/vendors/txtnation/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  15 Billacombe Road, PomphlettPL9 7HX PlymouthUnited Kingdom
 
 ### Logo 
  
-![txtnation](https://static.openfintech.io/vendors/txtnation/logo.png?w=400&c=v0.59.26#w200)  
+![txtnation](https://static.openfintech.io/vendors/txtnation/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/txtnation/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/txtnation/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![txtnation](https://static.openfintech.io/vendors/txtnation/icon.png?w=278&c=v0.59.26#w100)  
+![txtnation](https://static.openfintech.io/vendors/txtnation/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/txtnation/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/txtnation/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

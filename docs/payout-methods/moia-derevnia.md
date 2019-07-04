@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _My village_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![moia-derevnia](https://static.openfintech.io/payout_methods/moia-derevnia/icon.png?w=278&c=v0.59.26#w40) |[moia-derevnia_uah](/payout-services/moia-derevnia_uah/)|`moia-derevnia_uah`| 
+|![moia-derevnia](https://static.openfintech.io/payout_methods/moia-derevnia/icon.svg?w=278&c=v0.59.26#w40) |[moia-derevnia_uah](/payout-services/moia-derevnia_uah/)|`moia-derevnia_uah`| 
  
 
 ## JSON Object 

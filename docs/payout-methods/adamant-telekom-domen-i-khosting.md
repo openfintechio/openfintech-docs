@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ADAMANT-TELECOM -
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![adamant-telekom-domen-i-khosting](https://static.openfintech.io/payout_methods/adamant-telekom-domen-i-khosting/icon.png?w=278&c=v0.59.26#w40) |[adamant-telekom-domen-i-khosting_uah](/payout-services/adamant-telekom-domen-i-khosting_uah/)|`adamant-telekom-domen-i-khosting_uah`| 
+|![adamant-telekom-domen-i-khosting](https://static.openfintech.io/payout_methods/adamant-telekom-domen-i-khosting/icon.svg?w=278&c=v0.59.26#w40) |[adamant-telekom-domen-i-khosting_uah](/payout-services/adamant-telekom-domen-i-khosting_uah/)|`adamant-telekom-domen-i-khosting_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # SlimPay 
-![slimpay](https://static.openfintech.io/payment_providers/slimpay/logo.png?w=400&c=v0.59.26#w100)  
+![slimpay](https://static.openfintech.io/payment_providers/slimpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![slimpay](https://static.openfintech.io/payment_providers/slimpay/logo.png?w=400&c=v0.59.26#w100)  
+![slimpay](https://static.openfintech.io/payment_providers/slimpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/slimpay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/slimpay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![slimpay](https://static.openfintech.io/payment_providers/slimpay/icon.png?w=278&c=v0.59.26#w100)  
+![slimpay](https://static.openfintech.io/payment_providers/slimpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/slimpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/slimpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # CM Payments 
-![cmpayments](https://static.openfintech.io/payment_providers/cmpayments/logo.png?w=400&c=v0.59.26#w100)  
+![cmpayments](https://static.openfintech.io/payment_providers/cmpayments/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![cmpayments](https://static.openfintech.io/payment_providers/cmpayments/logo.png?w=400&c=v0.59.26#w100)  
+![cmpayments](https://static.openfintech.io/payment_providers/cmpayments/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/cmpayments/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/cmpayments/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![cmpayments](https://static.openfintech.io/payment_providers/cmpayments/icon.png?w=278&c=v0.59.26#w100)  
+![cmpayments](https://static.openfintech.io/payment_providers/cmpayments/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/cmpayments/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/cmpayments/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

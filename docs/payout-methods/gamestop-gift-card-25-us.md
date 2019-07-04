@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _GameStop Gift Car
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![gamestop-gift-card-25-us](https://static.openfintech.io/payout_methods/gamestop-gift-card-25-us/icon.png?w=278&c=v0.59.26#w40) |[gamestop-gift-card-25-us_uah](/payout-services/gamestop-gift-card-25-us_uah/)|`gamestop-gift-card-25-us_uah`| 
+|![gamestop-gift-card-25-us](https://static.openfintech.io/payout_methods/gamestop-gift-card-25-us/icon.svg?w=278&c=v0.59.26#w40) |[gamestop-gift-card-25-us_uah](/payout-services/gamestop-gift-card-25-us_uah/)|`gamestop-gift-card-25-us_uah`| 
  
 
 ## JSON Object 

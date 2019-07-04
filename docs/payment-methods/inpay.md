@@ -1,6 +1,6 @@
 
 # inpay 
-![inpay](https://static.openfintech.io/payment_methods/inpay/logo.png?w=400&c=v0.59.26#w200)  
+![inpay](https://static.openfintech.io/payment_methods/inpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `inpay` 
@@ -21,17 +21,17 @@
 ## Images 
 
 ### Logo 
-![inpay](https://static.openfintech.io/payment_methods/inpay/logo.png?w=400&c=v0.59.26#w200)  
+![inpay](https://static.openfintech.io/payment_methods/inpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/inpay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/inpay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![inpay](https://static.openfintech.io/payment_methods/inpay/icon.png?w=278&c=v0.59.26#w100)  
+![inpay](https://static.openfintech.io/payment_methods/inpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/inpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/inpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -40,7 +40,7 @@ The list of [Payment Providers](/payment-providers/) that support the _inpay_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.png?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
+|![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.svg?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
  
 
 ## JSON Object 

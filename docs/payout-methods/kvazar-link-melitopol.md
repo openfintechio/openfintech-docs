@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _KVAZAR-LINK (Meli
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kvazar-link-melitopol](https://static.openfintech.io/payout_methods/kvazar-link-melitopol/icon.png?w=278&c=v0.59.26#w40) |[kvazar-link-melitopol_uah](/payout-services/kvazar-link-melitopol_uah/)|`kvazar-link-melitopol_uah`| 
+|![kvazar-link-melitopol](https://static.openfintech.io/payout_methods/kvazar-link-melitopol/icon.svg?w=278&c=v0.59.26#w40) |[kvazar-link-melitopol_uah](/payout-services/kvazar-link-melitopol_uah/)|`kvazar-link-melitopol_uah`| 
  
 
 ## JSON Object 

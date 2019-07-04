@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Aviz (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-aviz-kiev](https://static.openfintech.io/payout_methods/taksi-aviz-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-aviz-kiev_uah](/payout-services/taksi-aviz-kiev_uah/)|`taksi-aviz-kiev_uah`| 
+|![taksi-aviz-kiev](https://static.openfintech.io/payout_methods/taksi-aviz-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-aviz-kiev_uah](/payout-services/taksi-aviz-kiev_uah/)|`taksi-aviz-kiev_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # E-Pay 
-![epayua](https://static.openfintech.io/payment_methods/epayua/logo.png?w=400&c=v0.59.26#w200)  
+![epayua](https://static.openfintech.io/payment_methods/epayua/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `epayua` 
@@ -15,17 +15,17 @@
 ## Images 
 
 ### Logo 
-![epayua](https://static.openfintech.io/payment_methods/epayua/logo.png?w=400&c=v0.59.26#w200)  
+![epayua](https://static.openfintech.io/payment_methods/epayua/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/epayua/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/epayua/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![epayua](https://static.openfintech.io/payment_methods/epayua/icon.png?w=278&c=v0.59.26#w100)  
+![epayua](https://static.openfintech.io/payment_methods/epayua/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/epayua/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/epayua/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

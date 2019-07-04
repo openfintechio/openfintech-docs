@@ -1,6 +1,6 @@
 
 # Cardinity 
-![cardinity](https://static.openfintech.io/vendors/cardinity/logo.png?w=400&c=v0.59.26#w200)  
+![cardinity](https://static.openfintech.io/vendors/cardinity/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Saulėtekio al. 15 VilniusLithuania
 
 ### Logo 
  
-![cardinity](https://static.openfintech.io/vendors/cardinity/logo.png?w=400&c=v0.59.26#w200)  
+![cardinity](https://static.openfintech.io/vendors/cardinity/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/cardinity/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/cardinity/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![cardinity](https://static.openfintech.io/vendors/cardinity/icon.png?w=278&c=v0.59.26#w100)  
+![cardinity](https://static.openfintech.io/vendors/cardinity/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/cardinity/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/cardinity/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

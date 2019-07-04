@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Sens (Dnepro
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-sens-dnepropetrovsk](https://static.openfintech.io/payout_methods/taksi-sens-dnepropetrovsk/icon.png?w=278&c=v0.59.26#w40) |[taksi-sens-dnepropetrovsk_uah](/payout-services/taksi-sens-dnepropetrovsk_uah/)|`taksi-sens-dnepropetrovsk_uah`| 
+|![taksi-sens-dnepropetrovsk](https://static.openfintech.io/payout_methods/taksi-sens-dnepropetrovsk/icon.svg?w=278&c=v0.59.26#w40) |[taksi-sens-dnepropetrovsk_uah](/payout-services/taksi-sens-dnepropetrovsk_uah/)|`taksi-sens-dnepropetrovsk_uah`| 
  
 
 ## JSON Object 

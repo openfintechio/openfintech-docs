@@ -1,6 +1,6 @@
 
 # Uniteller 
-![uniteller](https://static.openfintech.io/payment_providers/uniteller/logo.png?w=400&c=v0.59.26#w100)  
+![uniteller](https://static.openfintech.io/payment_providers/uniteller/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![uniteller](https://static.openfintech.io/payment_providers/uniteller/logo.png?w=400&c=v0.59.26#w100)  
+![uniteller](https://static.openfintech.io/payment_providers/uniteller/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/uniteller/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/uniteller/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![uniteller](https://static.openfintech.io/payment_providers/uniteller/icon.png?w=278&c=v0.59.26#w100)  
+![uniteller](https://static.openfintech.io/payment_providers/uniteller/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/uniteller/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/uniteller/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

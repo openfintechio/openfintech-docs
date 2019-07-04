@@ -1,6 +1,6 @@
 
 # Accentpay 
-![accentpay](https://static.openfintech.io/payment_providers/accentpay/logo.png?w=400&c=v0.59.26#w100)  
+![accentpay](https://static.openfintech.io/payment_providers/accentpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![accentpay](https://static.openfintech.io/payment_providers/accentpay/logo.png?w=400&c=v0.59.26#w100)  
+![accentpay](https://static.openfintech.io/payment_providers/accentpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/accentpay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/accentpay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![accentpay](https://static.openfintech.io/payment_providers/accentpay/icon.png?w=278&c=v0.59.26#w100)  
+![accentpay](https://static.openfintech.io/payment_providers/accentpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/accentpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/accentpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _I-link_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![i-link](https://static.openfintech.io/payout_methods/i-link/icon.png?w=278&c=v0.59.26#w40) |[i-link_uah](/payout-services/i-link_uah/)|`i-link_uah`| 
+|![i-link](https://static.openfintech.io/payout_methods/i-link/icon.svg?w=278&c=v0.59.26#w40) |[i-link_uah](/payout-services/i-link_uah/)|`i-link_uah`| 
  
 
 ## JSON Object 

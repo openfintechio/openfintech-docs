@@ -1,6 +1,6 @@
 
 # abilipay 
-![abilipay](https://static.openfintech.io/vendors/abilipay/logo.png?w=400&c=v0.59.26#w200)  
+![abilipay](https://static.openfintech.io/vendors/abilipay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Prüfeninger Str. 2093049 Germany
 
 ### Logo 
  
-![abilipay](https://static.openfintech.io/vendors/abilipay/logo.png?w=400&c=v0.59.26#w200)  
+![abilipay](https://static.openfintech.io/vendors/abilipay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/abilipay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/abilipay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![abilipay](https://static.openfintech.io/vendors/abilipay/icon.png?w=278&c=v0.59.26#w100)  
+![abilipay](https://static.openfintech.io/vendors/abilipay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/abilipay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/abilipay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

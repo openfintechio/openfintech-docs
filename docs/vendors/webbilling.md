@@ -1,6 +1,6 @@
 
 # Webbilling.com 
-![webbilling](https://static.openfintech.io/vendors/webbilling/logo.png?w=400&c=v0.59.26#w200)  
+![webbilling](https://static.openfintech.io/vendors/webbilling/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Celsiusweg 32-585928 PR VenloNetherlands
 
 ### Logo 
  
-![webbilling](https://static.openfintech.io/vendors/webbilling/logo.png?w=400&c=v0.59.26#w200)  
+![webbilling](https://static.openfintech.io/vendors/webbilling/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/webbilling/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/webbilling/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![webbilling](https://static.openfintech.io/vendors/webbilling/icon.png?w=278&c=v0.59.26#w100)  
+![webbilling](https://static.openfintech.io/vendors/webbilling/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/webbilling/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/webbilling/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

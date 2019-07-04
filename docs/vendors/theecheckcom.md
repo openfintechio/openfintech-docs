@@ -1,6 +1,6 @@
 
 # TheECheck.com 
-![theecheckcom](https://static.openfintech.io/vendors/theecheckcom/logo.png?w=400&c=v0.59.26#w200)  
+![theecheckcom](https://static.openfintech.io/vendors/theecheckcom/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  United States of America
 
 ### Logo 
  
-![theecheckcom](https://static.openfintech.io/vendors/theecheckcom/logo.png?w=400&c=v0.59.26#w200)  
+![theecheckcom](https://static.openfintech.io/vendors/theecheckcom/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/theecheckcom/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/theecheckcom/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![theecheckcom](https://static.openfintech.io/vendors/theecheckcom/icon.png?w=278&c=v0.59.26#w100)  
+![theecheckcom](https://static.openfintech.io/vendors/theecheckcom/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/theecheckcom/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/theecheckcom/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

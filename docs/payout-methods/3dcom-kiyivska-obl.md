@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _3DCOM (Kiev regio
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![3dcom-kiyivska-obl](https://static.openfintech.io/payout_methods/3dcom-kiyivska-obl/icon.png?w=278&c=v0.59.26#w40) |[3dcom-kiyivska-obl_uah](/payout-services/3dcom-kiyivska-obl_uah/)|`3dcom-kiyivska-obl_uah`| 
+|![3dcom-kiyivska-obl](https://static.openfintech.io/payout_methods/3dcom-kiyivska-obl/icon.svg?w=278&c=v0.59.26#w40) |[3dcom-kiyivska-obl_uah](/payout-services/3dcom-kiyivska-obl_uah/)|`3dcom-kiyivska-obl_uah`| 
  
 
 ## JSON Object 

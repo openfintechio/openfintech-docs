@@ -1,6 +1,6 @@
 
 # 1Pay 
-![1pay](https://static.openfintech.io/vendors/1pay/logo.png?w=400&c=v0.59.26#w200)  
+![1pay](https://static.openfintech.io/vendors/1pay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  Number 66B, Cau Do 4 area, Ha Cau commune, Ha Dong district Ha Noi Viet
 
 ### Logo 
  
-![1pay](https://static.openfintech.io/vendors/1pay/logo.png?w=400&c=v0.59.26#w200)  
+![1pay](https://static.openfintech.io/vendors/1pay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/1pay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/1pay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![1pay](https://static.openfintech.io/vendors/1pay/icon.png?w=278&c=v0.59.26#w100)  
+![1pay](https://static.openfintech.io/vendors/1pay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/1pay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/1pay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

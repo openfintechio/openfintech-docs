@@ -1,6 +1,6 @@
 
 # Payline 
-![paylinecoza](https://static.openfintech.io/vendors/paylinecoza/logo.png?w=400&c=v0.59.26#w200)  
+![paylinecoza](https://static.openfintech.io/vendors/paylinecoza/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  South Africa
 
 ### Logo 
  
-![paylinecoza](https://static.openfintech.io/vendors/paylinecoza/logo.png?w=400&c=v0.59.26#w200)  
+![paylinecoza](https://static.openfintech.io/vendors/paylinecoza/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paylinecoza/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paylinecoza/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paylinecoza](https://static.openfintech.io/vendors/paylinecoza/icon.png?w=278&c=v0.59.26#w100)  
+![paylinecoza](https://static.openfintech.io/vendors/paylinecoza/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paylinecoza/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paylinecoza/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

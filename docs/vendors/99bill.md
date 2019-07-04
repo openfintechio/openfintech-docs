@@ -1,6 +1,6 @@
 
 # 99bill.com 
-![99bill](https://static.openfintech.io/vendors/99bill/logo.png?w=400&c=v0.59.26#w200)  
+![99bill](https://static.openfintech.io/vendors/99bill/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  #201, Nan Quan Bei Lu, Real Estate Mansion, 11th Floor, Pudong200120 Sh
 
 ### Logo 
  
-![99bill](https://static.openfintech.io/vendors/99bill/logo.png?w=400&c=v0.59.26#w200)  
+![99bill](https://static.openfintech.io/vendors/99bill/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/99bill/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/99bill/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![99bill](https://static.openfintech.io/vendors/99bill/icon.png?w=278&c=v0.59.26#w100)  
+![99bill](https://static.openfintech.io/vendors/99bill/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/99bill/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/99bill/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

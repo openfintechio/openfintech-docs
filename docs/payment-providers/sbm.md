@@ -1,6 +1,6 @@
 
 # State Bank of Mauritius 
-![sbm](https://static.openfintech.io/payment_providers/sbm/logo.png?w=400&c=v0.59.26#w100)  
+![sbm](https://static.openfintech.io/payment_providers/sbm/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![sbm](https://static.openfintech.io/payment_providers/sbm/logo.png?w=400&c=v0.59.26#w100)  
+![sbm](https://static.openfintech.io/payment_providers/sbm/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/sbm/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/sbm/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![sbm](https://static.openfintech.io/payment_providers/sbm/icon.png?w=278&c=v0.59.26#w100)  
+![sbm](https://static.openfintech.io/payment_providers/sbm/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/sbm/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/sbm/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

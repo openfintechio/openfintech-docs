@@ -1,6 +1,6 @@
 
 # PayGate Co. Ltd. 
-![paygatecoltd](https://static.openfintech.io/vendors/paygatecoltd/logo.png?w=400&c=v0.59.26#w200)  
+![paygatecoltd](https://static.openfintech.io/vendors/paygatecoltd/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Seokchonhosu-Ro 258 2f, Songpa-gu, Seoul 138-848138-848 SeoulSeoulKorea
 
 ### Logo 
  
-![paygatecoltd](https://static.openfintech.io/vendors/paygatecoltd/logo.png?w=400&c=v0.59.26#w200)  
+![paygatecoltd](https://static.openfintech.io/vendors/paygatecoltd/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paygatecoltd/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paygatecoltd/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paygatecoltd](https://static.openfintech.io/vendors/paygatecoltd/icon.png?w=278&c=v0.59.26#w100)  
+![paygatecoltd](https://static.openfintech.io/vendors/paygatecoltd/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paygatecoltd/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paygatecoltd/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

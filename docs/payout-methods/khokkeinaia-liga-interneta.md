@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Internet Hockey L
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![khokkeinaia-liga-interneta](https://static.openfintech.io/payout_methods/khokkeinaia-liga-interneta/icon.png?w=278&c=v0.59.26#w40) |[khokkeinaia-liga-interneta_uah](/payout-services/khokkeinaia-liga-interneta_uah/)|`khokkeinaia-liga-interneta_uah`| 
+|![khokkeinaia-liga-interneta](https://static.openfintech.io/payout_methods/khokkeinaia-liga-interneta/icon.svg?w=278&c=v0.59.26#w40) |[khokkeinaia-liga-interneta_uah](/payout-services/khokkeinaia-liga-interneta_uah/)|`khokkeinaia-liga-interneta_uah`| 
  
 
 ## JSON Object 

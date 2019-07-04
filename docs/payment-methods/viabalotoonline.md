@@ -39,8 +39,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Via Balot
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ebanx](https://static.openfintech.io/payment_providers/ebanx/icon.png?w=278&c=v0.59.26#w100) |[EBANX](/payment-providers/ebanx/)|`ebanx`| 
-|![allpago](https://static.openfintech.io/payment_providers/allpago/icon.png?w=278&c=v0.59.26#w100) |[allpago - accept payments in Latin America](/payment-providers/allpago/)|`allpago`| 
+|![ebanx](https://static.openfintech.io/payment_providers/ebanx/icon.svg?w=278&c=v0.59.26#w100) |[EBANX](/payment-providers/ebanx/)|`ebanx`| 
+|![allpago](https://static.openfintech.io/payment_providers/allpago/icon.svg?w=278&c=v0.59.26#w100) |[allpago - accept payments in Latin America](/payment-providers/allpago/)|`allpago`| 
  
 
 ## JSON Object 

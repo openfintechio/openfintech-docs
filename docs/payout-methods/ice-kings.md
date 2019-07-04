@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Ice Kings_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ice-kings](https://static.openfintech.io/payout_methods/ice-kings/icon.png?w=278&c=v0.59.26#w40) |[ice-kings_uah](/payout-services/ice-kings_uah/)|`ice-kings_uah`| 
+|![ice-kings](https://static.openfintech.io/payout_methods/ice-kings/icon.svg?w=278&c=v0.59.26#w40) |[ice-kings_uah](/payout-services/ice-kings_uah/)|`ice-kings_uah`| 
  
 
 ## JSON Object 

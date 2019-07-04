@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Mist online_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![mist-online](https://static.openfintech.io/payout_methods/mist-online/icon.png?w=278&c=v0.59.26#w40) |[mist-online_uah](/payout-services/mist-online_uah/)|`mist-online_uah`| 
+|![mist-online](https://static.openfintech.io/payout_methods/mist-online/icon.svg?w=278&c=v0.59.26#w40) |[mist-online_uah](/payout-services/mist-online_uah/)|`mist-online_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Mercury (Kha
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-merkurii-kharkov](https://static.openfintech.io/payout_methods/taksi-merkurii-kharkov/icon.png?w=278&c=v0.59.26#w40) |[taksi-merkurii-kharkov_uah](/payout-services/taksi-merkurii-kharkov_uah/)|`taksi-merkurii-kharkov_uah`| 
+|![taksi-merkurii-kharkov](https://static.openfintech.io/payout_methods/taksi-merkurii-kharkov/icon.svg?w=278&c=v0.59.26#w40) |[taksi-merkurii-kharkov_uah](/payout-services/taksi-merkurii-kharkov_uah/)|`taksi-merkurii-kharkov_uah`| 
  
 
 ## JSON Object 

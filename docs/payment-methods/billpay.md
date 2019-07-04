@@ -1,6 +1,6 @@
 
 # BIllpay 
-![billpay](https://static.openfintech.io/payment_methods/billpay/logo.png?w=400&c=v0.59.26#w200)  
+![billpay](https://static.openfintech.io/payment_methods/billpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `billpay` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![billpay](https://static.openfintech.io/payment_methods/billpay/logo.png?w=400&c=v0.59.26#w200)  
+![billpay](https://static.openfintech.io/payment_methods/billpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/billpay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/billpay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![billpay](https://static.openfintech.io/payment_methods/billpay/icon.png?w=278&c=v0.59.26#w100)  
+![billpay](https://static.openfintech.io/payment_methods/billpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/billpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/billpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,8 +43,8 @@ The list of [Payment Providers](/payment-providers/) that support the _BIllpay_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
-|![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
+|![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.svg?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
+|![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.svg?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
  
 
 ## JSON Object 

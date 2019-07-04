@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _World of Shadows_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![mir-tenei](https://static.openfintech.io/payout_methods/mir-tenei/icon.png?w=278&c=v0.59.26#w40) |[mir-tenei_uah](/payout-services/mir-tenei_uah/)|`mir-tenei_uah`| 
+|![mir-tenei](https://static.openfintech.io/payout_methods/mir-tenei/icon.svg?w=278&c=v0.59.26#w40) |[mir-tenei_uah](/payout-services/mir-tenei_uah/)|`mir-tenei_uah`| 
  
 
 ## JSON Object 

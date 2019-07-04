@@ -1,6 +1,6 @@
 
 # RBK Money 
-![rbkmoney](https://static.openfintech.io/vendors/rbkmoney/logo.png?w=400&c=v0.59.26#w200)  
+![rbkmoney](https://static.openfintech.io/vendors/rbkmoney/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  MoscowE14 5LQ Russia, UK & Europe
 
 ### Logo 
  
-![rbkmoney](https://static.openfintech.io/vendors/rbkmoney/logo.png?w=400&c=v0.59.26#w200)  
+![rbkmoney](https://static.openfintech.io/vendors/rbkmoney/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/rbkmoney/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/rbkmoney/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![rbkmoney](https://static.openfintech.io/vendors/rbkmoney/icon.png?w=278&c=v0.59.26#w100)  
+![rbkmoney](https://static.openfintech.io/vendors/rbkmoney/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/rbkmoney/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/rbkmoney/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

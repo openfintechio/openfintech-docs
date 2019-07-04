@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Docents_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![dotsenty](https://static.openfintech.io/payout_methods/dotsenty/icon.png?w=278&c=v0.59.26#w40) |[dotsenty_uah](/payout-services/dotsenty_uah/)|`dotsenty_uah`| 
+|![dotsenty](https://static.openfintech.io/payout_methods/dotsenty/icon.svg?w=278&c=v0.59.26#w40) |[dotsenty_uah](/payout-services/dotsenty_uah/)|`dotsenty_uah`| 
  
 
 ## JSON Object 

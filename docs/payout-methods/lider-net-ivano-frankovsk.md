@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _LIDER NET (Ivano-
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![lider-net-ivano-frankovsk](https://static.openfintech.io/payout_methods/lider-net-ivano-frankovsk/icon.png?w=278&c=v0.59.26#w40) |[lider-net-ivano-frankovsk_uah](/payout-services/lider-net-ivano-frankovsk_uah/)|`lider-net-ivano-frankovsk_uah`| 
+|![lider-net-ivano-frankovsk](https://static.openfintech.io/payout_methods/lider-net-ivano-frankovsk/icon.svg?w=278&c=v0.59.26#w40) |[lider-net-ivano-frankovsk_uah](/payout-services/lider-net-ivano-frankovsk_uah/)|`lider-net-ivano-frankovsk_uah`| 
  
 
 ## JSON Object 

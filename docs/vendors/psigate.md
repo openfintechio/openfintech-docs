@@ -1,6 +1,6 @@
 
 # PSiGate 
-![psigate](https://static.openfintech.io/vendors/psigate/logo.png?w=400&c=v0.59.26#w200)  
+![psigate](https://static.openfintech.io/vendors/psigate/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  145 King Street WestM5H 1J8 TorontoCanada
 
 ### Logo 
  
-![psigate](https://static.openfintech.io/vendors/psigate/logo.png?w=400&c=v0.59.26#w200)  
+![psigate](https://static.openfintech.io/vendors/psigate/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/psigate/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/psigate/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![psigate](https://static.openfintech.io/vendors/psigate/icon.png?w=278&c=v0.59.26#w100)  
+![psigate](https://static.openfintech.io/vendors/psigate/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/psigate/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/psigate/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

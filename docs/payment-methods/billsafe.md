@@ -1,6 +1,6 @@
 
 # BillSAFE 
-![billsafe](https://static.openfintech.io/payment_methods/billsafe/logo.png?w=400&c=v0.59.26#w200)  
+![billsafe](https://static.openfintech.io/payment_methods/billsafe/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `billsafe` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![billsafe](https://static.openfintech.io/payment_methods/billsafe/logo.png?w=400&c=v0.59.26#w200)  
+![billsafe](https://static.openfintech.io/payment_methods/billsafe/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/billsafe/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/billsafe/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![billsafe](https://static.openfintech.io/payment_methods/billsafe/icon.png?w=278&c=v0.59.26#w100)  
+![billsafe](https://static.openfintech.io/payment_methods/billsafe/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/billsafe/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/billsafe/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,8 +43,8 @@ The list of [Payment Providers](/payment-providers/) that support the _BillSAFE_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.svg?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Inatec Payment 
-![inatecpayment](https://static.openfintech.io/vendors/inatecpayment/logo.png?w=400&c=v0.59.26#w200)  
+![inatecpayment](https://static.openfintech.io/vendors/inatecpayment/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Baar6340 BaarSwitzerland
 
 ### Logo 
  
-![inatecpayment](https://static.openfintech.io/vendors/inatecpayment/logo.png?w=400&c=v0.59.26#w200)  
+![inatecpayment](https://static.openfintech.io/vendors/inatecpayment/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/inatecpayment/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/inatecpayment/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![inatecpayment](https://static.openfintech.io/vendors/inatecpayment/icon.png?w=278&c=v0.59.26#w100)  
+![inatecpayment](https://static.openfintech.io/vendors/inatecpayment/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/inatecpayment/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/inatecpayment/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

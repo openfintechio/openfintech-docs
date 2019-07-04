@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Kyivstar - person
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kiyivstar-popovnennia-za-osobovim-rakhunkom](https://static.openfintech.io/payout_methods/kiyivstar-popovnennia-za-osobovim-rakhunkom/icon.png?w=278&c=v0.59.26#w40) |[kiyivstar-popovnennia-za-osobovim-rakhunkom_uah](/payout-services/kiyivstar-popovnennia-za-osobovim-rakhunkom_uah/)|`kiyivstar-popovnennia-za-osobovim-rakhunkom_uah`| 
+|![kiyivstar-popovnennia-za-osobovim-rakhunkom](https://static.openfintech.io/payout_methods/kiyivstar-popovnennia-za-osobovim-rakhunkom/icon.svg?w=278&c=v0.59.26#w40) |[kiyivstar-popovnennia-za-osobovim-rakhunkom_uah](/payout-services/kiyivstar-popovnennia-za-osobovim-rakhunkom_uah/)|`kiyivstar-popovnennia-za-osobovim-rakhunkom_uah`| 
  
 
 ## JSON Object 

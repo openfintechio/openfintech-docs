@@ -1,6 +1,6 @@
 
 # PaymentUSA 
-![paymentusa](https://static.openfintech.io/payment_providers/paymentusa/logo.png?w=400&c=v0.59.26#w100)  
+![paymentusa](https://static.openfintech.io/payment_providers/paymentusa/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![paymentusa](https://static.openfintech.io/payment_providers/paymentusa/logo.png?w=400&c=v0.59.26#w100)  
+![paymentusa](https://static.openfintech.io/payment_providers/paymentusa/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paymentusa/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paymentusa/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![paymentusa](https://static.openfintech.io/payment_providers/paymentusa/icon.png?w=278&c=v0.59.26#w100)  
+![paymentusa](https://static.openfintech.io/payment_providers/paymentusa/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paymentusa/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paymentusa/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

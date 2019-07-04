@@ -39,7 +39,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Sencillit
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ebanx](https://static.openfintech.io/payment_providers/ebanx/icon.png?w=278&c=v0.59.26#w100) |[EBANX](/payment-providers/ebanx/)|`ebanx`| 
+|![ebanx](https://static.openfintech.io/payment_providers/ebanx/icon.svg?w=278&c=v0.59.26#w100) |[EBANX](/payment-providers/ebanx/)|`ebanx`| 
  
 
 ## JSON Object 

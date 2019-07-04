@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _TRC Mriya - Telev
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![trk-mriia-televidenie-ovruch](https://static.openfintech.io/payout_methods/trk-mriia-televidenie-ovruch/icon.png?w=278&c=v0.59.26#w40) |[trk-mriia-televidenie-ovruch_uah](/payout-services/trk-mriia-televidenie-ovruch_uah/)|`trk-mriia-televidenie-ovruch_uah`| 
+|![trk-mriia-televidenie-ovruch](https://static.openfintech.io/payout_methods/trk-mriia-televidenie-ovruch/icon.svg?w=278&c=v0.59.26#w40) |[trk-mriia-televidenie-ovruch_uah](/payout-services/trk-mriia-televidenie-ovruch_uah/)|`trk-mriia-televidenie-ovruch_uah`| 
  
 
 ## JSON Object 

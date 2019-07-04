@@ -1,6 +1,6 @@
 
 # Rabo OmniKassa 
-![raboomnikassa](https://static.openfintech.io/vendors/raboomnikassa/logo.png?w=400&c=v0.59.26#w200)  
+![raboomnikassa](https://static.openfintech.io/vendors/raboomnikassa/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Utrecht UtrechtNetherlands
 
 ### Logo 
  
-![raboomnikassa](https://static.openfintech.io/vendors/raboomnikassa/logo.png?w=400&c=v0.59.26#w200)  
+![raboomnikassa](https://static.openfintech.io/vendors/raboomnikassa/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/raboomnikassa/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/raboomnikassa/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![raboomnikassa](https://static.openfintech.io/vendors/raboomnikassa/icon.png?w=278&c=v0.59.26#w100)  
+![raboomnikassa](https://static.openfintech.io/vendors/raboomnikassa/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/raboomnikassa/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/raboomnikassa/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

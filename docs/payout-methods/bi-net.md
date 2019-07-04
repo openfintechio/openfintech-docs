@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Bi.Net_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bi-net](https://static.openfintech.io/payout_methods/bi-net/icon.png?w=278&c=v0.59.26#w40) |[bi-net_uah](/payout-services/bi-net_uah/)|`bi-net_uah`| 
+|![bi-net](https://static.openfintech.io/payout_methods/bi-net/icon.svg?w=278&c=v0.59.26#w40) |[bi-net_uah](/payout-services/bi-net_uah/)|`bi-net_uah`| 
  
 
 ## JSON Object 

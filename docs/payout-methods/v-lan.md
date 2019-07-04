@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _V-Lan_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![v-lan](https://static.openfintech.io/payout_methods/v-lan/icon.png?w=278&c=v0.59.26#w40) |[v-lan_uah](/payout-services/v-lan_uah/)|`v-lan_uah`| 
+|![v-lan](https://static.openfintech.io/payout_methods/v-lan/icon.svg?w=278&c=v0.59.26#w40) |[v-lan_uah](/payout-services/v-lan_uah/)|`v-lan_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _World of Tanks_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![world-of-tanks](https://static.openfintech.io/payout_methods/world-of-tanks/icon.png?w=278&c=v0.59.26#w40) |[world-of-tanks_uah](/payout-services/world-of-tanks_uah/)|`world-of-tanks_uah`| 
+|![world-of-tanks](https://static.openfintech.io/payout_methods/world-of-tanks/icon.svg?w=278&c=v0.59.26#w40) |[world-of-tanks_uah](/payout-services/world-of-tanks_uah/)|`world-of-tanks_uah`| 
  
 
 ## JSON Object 

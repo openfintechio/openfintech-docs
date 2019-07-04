@@ -1,6 +1,6 @@
 
 # Epoch 
-![epoch](https://static.openfintech.io/vendors/epoch/logo.png?w=400&c=v0.59.26#w200)  
+![epoch](https://static.openfintech.io/vendors/epoch/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Santa Monica CaliforniaUnited States of America
 
 ### Logo 
  
-![epoch](https://static.openfintech.io/vendors/epoch/logo.png?w=400&c=v0.59.26#w200)  
+![epoch](https://static.openfintech.io/vendors/epoch/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/epoch/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/epoch/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![epoch](https://static.openfintech.io/vendors/epoch/icon.png?w=278&c=v0.59.26#w100)  
+![epoch](https://static.openfintech.io/vendors/epoch/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/epoch/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/epoch/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

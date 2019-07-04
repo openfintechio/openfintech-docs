@@ -1,6 +1,6 @@
 
 # eWAY 
-![eway](https://static.openfintech.io/vendors/eway/logo.png?w=400&c=v0.59.26#w200)  
+![eway](https://static.openfintech.io/vendors/eway/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Philip, ACT2606 Phillip ACTAustralia
 
 ### Logo 
  
-![eway](https://static.openfintech.io/vendors/eway/logo.png?w=400&c=v0.59.26#w200)  
+![eway](https://static.openfintech.io/vendors/eway/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/eway/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/eway/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![eway](https://static.openfintech.io/vendors/eway/icon.png?w=278&c=v0.59.26#w100)  
+![eway](https://static.openfintech.io/vendors/eway/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/eway/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/eway/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

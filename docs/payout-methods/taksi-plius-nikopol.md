@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi 'Plus' (Niko
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-plius-nikopol](https://static.openfintech.io/payout_methods/taksi-plius-nikopol/icon.png?w=278&c=v0.59.26#w40) |[taksi-plius-nikopol_uah](/payout-services/taksi-plius-nikopol_uah/)|`taksi-plius-nikopol_uah`| 
+|![taksi-plius-nikopol](https://static.openfintech.io/payout_methods/taksi-plius-nikopol/icon.svg?w=278&c=v0.59.26#w40) |[taksi-plius-nikopol_uah](/payout-services/taksi-plius-nikopol_uah/)|`taksi-plius-nikopol_uah`| 
  
 
 ## JSON Object 

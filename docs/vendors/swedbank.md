@@ -1,6 +1,6 @@
 
 # Swedbank 
-![swedbank](https://static.openfintech.io/vendors/swedbank/logo.png?w=400&c=v0.59.26#w200)  
+![swedbank](https://static.openfintech.io/vendors/swedbank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![swedbank](https://static.openfintech.io/vendors/swedbank/logo.png?w=400&c=v0.59.26#w200)  
+![swedbank](https://static.openfintech.io/vendors/swedbank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/swedbank/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/swedbank/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![swedbank](https://static.openfintech.io/vendors/swedbank/icon.png?w=278&c=v0.59.26#w100)  
+![swedbank](https://static.openfintech.io/vendors/swedbank/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/swedbank/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/swedbank/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

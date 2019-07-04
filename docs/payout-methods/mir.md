@@ -45,7 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Mir_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![payeer](https://static.openfintech.io/payment_providers/payeer/icon.png?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
+|![payeer](https://static.openfintech.io/payment_providers/payeer/icon.svg?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
  
 
 ## JSON Object 

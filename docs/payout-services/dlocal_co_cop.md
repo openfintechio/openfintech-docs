@@ -25,14 +25,14 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`document_id`|✔|`string`|`/^[0-9]{10}$/`| 
-|`document_type`|✔|`string`|`/^(NIT\|CC\|CE\|PASS)$/`| 
+|`document_type`|✔|`string`|`/^(NIT|CC|CE|PASS)$/`| 
 |`bank_account`|✔|`string`|`/^[0-9]{10}$/`| 
 |`bank_code`|✔|`string`|`/^[0-9]$/`| 
 |`account_type`|✔|`string`|`/^[A-Z]{1}$/`| 
 |`beneficiary_name`|✔|`string`|`/^[A-Z\-\sa-z]{2,64}$/`| 
 |`beneficiary_lastname`|✔|`string`|`/^[A-Z\-\sa-z]{2,64}$/`| 
 |`address`|✔|`string`|`/^[a-zA-Z0-9 \/_.,'-]{1,200}$/`| 
-|`email`|✔|`string`|`/^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)\|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])\|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/`| 
+|`email`|✔|`string`|`/^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/`| 
  
 
 ### Details 

@@ -1,6 +1,6 @@
 
 # Ikajo 
-![ikajo](https://static.openfintech.io/vendors/ikajo/logo.png?w=400&c=v0.59.26#w200)  
+![ikajo](https://static.openfintech.io/vendors/ikajo/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  AmsterdamNetherlands
 
 ### Logo 
  
-![ikajo](https://static.openfintech.io/vendors/ikajo/logo.png?w=400&c=v0.59.26#w200)  
+![ikajo](https://static.openfintech.io/vendors/ikajo/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ikajo/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ikajo/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ikajo](https://static.openfintech.io/vendors/ikajo/icon.png?w=278&c=v0.59.26#w100)  
+![ikajo](https://static.openfintech.io/vendors/ikajo/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ikajo/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ikajo/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

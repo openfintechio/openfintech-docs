@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _X-NET (Odessa)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![x-net-odessa](https://static.openfintech.io/payout_methods/x-net-odessa/icon.png?w=278&c=v0.59.26#w40) |[x-net-odessa_uah](/payout-services/x-net-odessa_uah/)|`x-net-odessa_uah`| 
+|![x-net-odessa](https://static.openfintech.io/payout_methods/x-net-odessa/icon.svg?w=278&c=v0.59.26#w40) |[x-net-odessa_uah](/payout-services/x-net-odessa_uah/)|`x-net-odessa_uah`| 
  
 
 ## JSON Object 

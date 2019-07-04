@@ -1,6 +1,6 @@
 
 # DusuPay 
-![dusupay](https://static.openfintech.io/vendors/dusupay/logo.png?w=400&c=v0.59.26#w200)  
+![dusupay](https://static.openfintech.io/vendors/dusupay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  10 Albury court, Phipps bridge rdCR4 3PX LondonSelect a StateUnited Kin
 
 ### Logo 
  
-![dusupay](https://static.openfintech.io/vendors/dusupay/logo.png?w=400&c=v0.59.26#w200)  
+![dusupay](https://static.openfintech.io/vendors/dusupay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/dusupay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/dusupay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![dusupay](https://static.openfintech.io/vendors/dusupay/icon.png?w=278&c=v0.59.26#w100)  
+![dusupay](https://static.openfintech.io/vendors/dusupay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/dusupay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/dusupay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

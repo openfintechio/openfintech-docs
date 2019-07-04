@@ -1,6 +1,6 @@
 
 # Skypay 
-![skypay](https://static.openfintech.io/vendors/skypay/logo.png?w=400&c=v0.59.26#w200)  
+![skypay](https://static.openfintech.io/vendors/skypay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  United Kingdom
 
 ### Logo 
  
-![skypay](https://static.openfintech.io/vendors/skypay/logo.png?w=400&c=v0.59.26#w200)  
+![skypay](https://static.openfintech.io/vendors/skypay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/skypay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/skypay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![skypay](https://static.openfintech.io/vendors/skypay/icon.png?w=278&c=v0.59.26#w100)  
+![skypay](https://static.openfintech.io/vendors/skypay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/skypay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/skypay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

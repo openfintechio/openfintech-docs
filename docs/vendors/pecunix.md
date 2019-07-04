@@ -1,6 +1,6 @@
 
 # Pecunix 
-![pecunix](https://static.openfintech.io/vendors/pecunix/logo.png?w=400&c=v0.59.26#w200)  
+![pecunix](https://static.openfintech.io/vendors/pecunix/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![pecunix](https://static.openfintech.io/vendors/pecunix/logo.png?w=400&c=v0.59.26#w200)  
+![pecunix](https://static.openfintech.io/vendors/pecunix/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/pecunix/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/pecunix/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![pecunix](https://static.openfintech.io/vendors/pecunix/icon.png?w=278&c=v0.59.26#w100)  
+![pecunix](https://static.openfintech.io/vendors/pecunix/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/pecunix/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/pecunix/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

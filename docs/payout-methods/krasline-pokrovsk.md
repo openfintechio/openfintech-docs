@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Krasline (Pokrovs
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![krasline-pokrovsk](https://static.openfintech.io/payout_methods/krasline-pokrovsk/icon.png?w=278&c=v0.59.26#w40) |[krasline-pokrovsk_uah](/payout-services/krasline-pokrovsk_uah/)|`krasline-pokrovsk_uah`| 
+|![krasline-pokrovsk](https://static.openfintech.io/payout_methods/krasline-pokrovsk/icon.svg?w=278&c=v0.59.26#w40) |[krasline-pokrovsk_uah](/payout-services/krasline-pokrovsk_uah/)|`krasline-pokrovsk_uah`| 
  
 
 ## JSON Object 

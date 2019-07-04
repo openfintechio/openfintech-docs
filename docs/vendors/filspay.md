@@ -1,6 +1,6 @@
 
 # FilsPay 
-![filspay](https://static.openfintech.io/vendors/filspay/logo.png?w=400&c=v0.59.26#w200)  
+![filspay](https://static.openfintech.io/vendors/filspay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  246 C & D,Bangunan, Peguam,Batu 2 Jalan Ipoh51200 Kuala LumpurMalaysia
 
 ### Logo 
  
-![filspay](https://static.openfintech.io/vendors/filspay/logo.png?w=400&c=v0.59.26#w200)  
+![filspay](https://static.openfintech.io/vendors/filspay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/filspay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/filspay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![filspay](https://static.openfintech.io/vendors/filspay/icon.png?w=278&c=v0.59.26#w100)  
+![filspay](https://static.openfintech.io/vendors/filspay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/filspay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/filspay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

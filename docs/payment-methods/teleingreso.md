@@ -1,6 +1,6 @@
 
 # Teleingreso 
-![teleingreso](https://static.openfintech.io/payment_methods/teleingreso/logo.png?w=400&c=v0.59.26#w200)  
+![teleingreso](https://static.openfintech.io/payment_methods/teleingreso/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `teleingreso` 
@@ -21,17 +21,17 @@
 ## Images 
 
 ### Logo 
-![teleingreso](https://static.openfintech.io/payment_methods/teleingreso/logo.png?w=400&c=v0.59.26#w200)  
+![teleingreso](https://static.openfintech.io/payment_methods/teleingreso/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/teleingreso/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/teleingreso/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![teleingreso](https://static.openfintech.io/payment_methods/teleingreso/icon.png?w=278&c=v0.59.26#w100)  
+![teleingreso](https://static.openfintech.io/payment_methods/teleingreso/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/teleingreso/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/teleingreso/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -40,16 +40,16 @@ The list of [Payment Providers](/payment-providers/) that support the _Teleingre
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.png?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
-|![ppro](https://static.openfintech.io/payment_providers/ppro/icon.png?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
+|![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.svg?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
+|![ppro](https://static.openfintech.io/payment_providers/ppro/icon.svg?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
 |![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[SafeCharge ](/payment-providers/safecharge/)|`safecharge`| 
-|![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/icon.png?w=278&c=v0.59.26#w100) |[Alternative Payments](/payment-providers/alternativepayments/)|`alternativepayments`| 
-|![kalixa](https://static.openfintech.io/payment_providers/kalixa/icon.png?w=278&c=v0.59.26#w100) |[Kalixa Payments Group](/payment-providers/kalixa/)|`kalixa`| 
-|![intelligentpayments](https://static.openfintech.io/payment_providers/intelligentpayments/icon.png?w=278&c=v0.59.26#w100) |[Intelligent Payments](/payment-providers/intelligentpayments/)|`intelligentpayments`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
-|![alliedwallet2](https://static.openfintech.io/payment_providers/alliedwallet2/icon.png?w=278&c=v0.59.26#w100) |[Allied Wallet](/payment-providers/alliedwallet2/)|`alliedwallet2`| 
-|![computop](https://static.openfintech.io/payment_providers/computop/icon.png?w=278&c=v0.59.26#w100) |[Computop](/payment-providers/computop/)|`computop`| 
-|![easypaymentgateway](https://static.openfintech.io/payment_providers/easypaymentgateway/icon.png?w=278&c=v0.59.26#w100) |[Easy Payment Gateway](/payment-providers/easypaymentgateway/)|`easypaymentgateway`| 
+|![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/icon.svg?w=278&c=v0.59.26#w100) |[Alternative Payments](/payment-providers/alternativepayments/)|`alternativepayments`| 
+|![kalixa](https://static.openfintech.io/payment_providers/kalixa/icon.svg?w=278&c=v0.59.26#w100) |[Kalixa Payments Group](/payment-providers/kalixa/)|`kalixa`| 
+|![intelligentpayments](https://static.openfintech.io/payment_providers/intelligentpayments/icon.svg?w=278&c=v0.59.26#w100) |[Intelligent Payments](/payment-providers/intelligentpayments/)|`intelligentpayments`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![alliedwallet2](https://static.openfintech.io/payment_providers/alliedwallet2/icon.svg?w=278&c=v0.59.26#w100) |[Allied Wallet](/payment-providers/alliedwallet2/)|`alliedwallet2`| 
+|![computop](https://static.openfintech.io/payment_providers/computop/icon.svg?w=278&c=v0.59.26#w100) |[Computop](/payment-providers/computop/)|`computop`| 
+|![easypaymentgateway](https://static.openfintech.io/payment_providers/easypaymentgateway/icon.svg?w=278&c=v0.59.26#w100) |[Easy Payment Gateway](/payment-providers/easypaymentgateway/)|`easypaymentgateway`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Welton Telecom (b
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![velton-telekom-po-personalnomu-kodu](https://static.openfintech.io/payout_methods/velton-telekom-po-personalnomu-kodu/icon.png?w=278&c=v0.59.26#w40) |[velton-telekom-po-personalnomu-kodu_uah](/payout-services/velton-telekom-po-personalnomu-kodu_uah/)|`velton-telekom-po-personalnomu-kodu_uah`| 
+|![velton-telekom-po-personalnomu-kodu](https://static.openfintech.io/payout_methods/velton-telekom-po-personalnomu-kodu/icon.svg?w=278&c=v0.59.26#w40) |[velton-telekom-po-personalnomu-kodu_uah](/payout-services/velton-telekom-po-personalnomu-kodu_uah/)|`velton-telekom-po-personalnomu-kodu_uah`| 
  
 
 ## JSON Object 

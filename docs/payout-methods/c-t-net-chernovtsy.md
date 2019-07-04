@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _CT Net (Chernivts
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![c-t-net-chernovtsy](https://static.openfintech.io/payout_methods/c-t-net-chernovtsy/icon.png?w=278&c=v0.59.26#w40) |[c-t-net-chernovtsy_uah](/payout-services/c-t-net-chernovtsy_uah/)|`c-t-net-chernovtsy_uah`| 
+|![c-t-net-chernovtsy](https://static.openfintech.io/payout_methods/c-t-net-chernovtsy/icon.svg?w=278&c=v0.59.26#w40) |[c-t-net-chernovtsy_uah](/payout-services/c-t-net-chernovtsy_uah/)|`c-t-net-chernovtsy_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # SentryPayments 
-![sentrypayments](https://static.openfintech.io/vendors/sentrypayments/logo.png?w=400&c=v0.59.26#w200)  
+![sentrypayments](https://static.openfintech.io/vendors/sentrypayments/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Suite 302 Ã¢?? 343 Railway Streetv6a 1a4 VancouverCanada
 
 ### Logo 
  
-![sentrypayments](https://static.openfintech.io/vendors/sentrypayments/logo.png?w=400&c=v0.59.26#w200)  
+![sentrypayments](https://static.openfintech.io/vendors/sentrypayments/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/sentrypayments/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/sentrypayments/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![sentrypayments](https://static.openfintech.io/vendors/sentrypayments/icon.png?w=278&c=v0.59.26#w100)  
+![sentrypayments](https://static.openfintech.io/vendors/sentrypayments/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/sentrypayments/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/sentrypayments/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

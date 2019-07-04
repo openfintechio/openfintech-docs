@@ -1,6 +1,6 @@
 
 # Bitcoinpaygate 
-![bitcoinpaygate](https://static.openfintech.io/vendors/bitcoinpaygate/logo.png?w=400&c=v0.59.26#w200)  
+![bitcoinpaygate](https://static.openfintech.io/vendors/bitcoinpaygate/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Vestergade 18 E 1456 Copenhagen KGreater CopenhagenDenmark
 
 ### Logo 
  
-![bitcoinpaygate](https://static.openfintech.io/vendors/bitcoinpaygate/logo.png?w=400&c=v0.59.26#w200)  
+![bitcoinpaygate](https://static.openfintech.io/vendors/bitcoinpaygate/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/bitcoinpaygate/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/bitcoinpaygate/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![bitcoinpaygate](https://static.openfintech.io/vendors/bitcoinpaygate/icon.png?w=278&c=v0.59.26#w100)  
+![bitcoinpaygate](https://static.openfintech.io/vendors/bitcoinpaygate/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/bitcoinpaygate/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/bitcoinpaygate/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

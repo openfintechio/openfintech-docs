@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _X-Net, Khotyn - N
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![x-net-khotin-net-chernovitskaia-obl](https://static.openfintech.io/payout_methods/x-net-khotin-net-chernovitskaia-obl/icon.png?w=278&c=v0.59.26#w40) |[x-net-khotin-net-chernovitskaia-obl_uah](/payout-services/x-net-khotin-net-chernovitskaia-obl_uah/)|`x-net-khotin-net-chernovitskaia-obl_uah`| 
+|![x-net-khotin-net-chernovitskaia-obl](https://static.openfintech.io/payout_methods/x-net-khotin-net-chernovitskaia-obl/icon.svg?w=278&c=v0.59.26#w40) |[x-net-khotin-net-chernovitskaia-obl_uah](/payout-services/x-net-khotin-net-chernovitskaia-obl_uah/)|`x-net-khotin-net-chernovitskaia-obl_uah`| 
  
 
 ## JSON Object 

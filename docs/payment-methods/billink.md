@@ -1,6 +1,6 @@
 
 # Billink 
-![billink](https://static.openfintech.io/payment_methods/billink/logo.png?w=400&c=v0.59.26#w200)  
+![billink](https://static.openfintech.io/payment_methods/billink/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `billink` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![billink](https://static.openfintech.io/payment_methods/billink/logo.png?w=400&c=v0.59.26#w200)  
+![billink](https://static.openfintech.io/payment_methods/billink/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/billink/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/billink/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![billink](https://static.openfintech.io/payment_methods/billink/icon.png?w=278&c=v0.59.26#w100)  
+![billink](https://static.openfintech.io/payment_methods/billink/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/billink/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/billink/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Billink_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/icon.png?w=278&c=v0.59.26#w100) |[Buckaroo](/payment-providers/buckaroo/)|`buckaroo`| 
+|![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/icon.svg?w=278&c=v0.59.26#w100) |[Buckaroo](/payment-providers/buckaroo/)|`buckaroo`| 
  
 
 ## JSON Object 

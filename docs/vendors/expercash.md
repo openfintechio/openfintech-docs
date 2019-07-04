@@ -1,6 +1,6 @@
 
 # EXPERCASH 
-![expercash](https://static.openfintech.io/vendors/expercash/logo.png?w=400&c=v0.59.26#w200)  
+![expercash](https://static.openfintech.io/vendors/expercash/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Mannheim68165 MannheimGermany
 
 ### Logo 
  
-![expercash](https://static.openfintech.io/vendors/expercash/logo.png?w=400&c=v0.59.26#w200)  
+![expercash](https://static.openfintech.io/vendors/expercash/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/expercash/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/expercash/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![expercash](https://static.openfintech.io/vendors/expercash/icon.png?w=278&c=v0.59.26#w100)  
+![expercash](https://static.openfintech.io/vendors/expercash/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/expercash/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/expercash/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # GestPay 
-![gestpay](https://static.openfintech.io/payment_providers/gestpay/logo.png?w=400&c=v0.59.26#w100)  
+![gestpay](https://static.openfintech.io/payment_providers/gestpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![gestpay](https://static.openfintech.io/payment_providers/gestpay/logo.png?w=400&c=v0.59.26#w100)  
+![gestpay](https://static.openfintech.io/payment_providers/gestpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/gestpay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/gestpay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![gestpay](https://static.openfintech.io/payment_providers/gestpay/icon.png?w=278&c=v0.59.26#w100)  
+![gestpay](https://static.openfintech.io/payment_providers/gestpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/gestpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/gestpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

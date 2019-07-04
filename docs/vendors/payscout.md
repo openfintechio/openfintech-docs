@@ -1,6 +1,6 @@
 
 # Payscout 
-![payscout](https://static.openfintech.io/vendors/payscout/logo.png?w=400&c=v0.59.26#w200)  
+![payscout](https://static.openfintech.io/vendors/payscout/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  5900 Sepulveda Blvd., Suite 360,91411 Sherman OaksCaliforniaUnited Stat
 
 ### Logo 
  
-![payscout](https://static.openfintech.io/vendors/payscout/logo.png?w=400&c=v0.59.26#w200)  
+![payscout](https://static.openfintech.io/vendors/payscout/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payscout/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payscout/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payscout](https://static.openfintech.io/vendors/payscout/icon.png?w=278&c=v0.59.26#w100)  
+![payscout](https://static.openfintech.io/vendors/payscout/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payscout/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payscout/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

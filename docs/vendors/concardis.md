@@ -1,6 +1,6 @@
 
 # ConCardis 
-![concardis](https://static.openfintech.io/vendors/concardis/logo.png?w=400&c=v0.59.26#w200)  
+![concardis](https://static.openfintech.io/vendors/concardis/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Helfmann-Park 765760 EschbornGermany
 
 ### Logo 
  
-![concardis](https://static.openfintech.io/vendors/concardis/logo.png?w=400&c=v0.59.26#w200)  
+![concardis](https://static.openfintech.io/vendors/concardis/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/concardis/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/concardis/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![concardis](https://static.openfintech.io/vendors/concardis/icon.png?w=278&c=v0.59.26#w100)  
+![concardis](https://static.openfintech.io/vendors/concardis/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/concardis/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/concardis/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Danamon Bank 
-![danamon_bank](https://static.openfintech.io/payment_methods/danamon_bank/logo.png?w=400&c=v0.59.26#w200)  
+![danamon_bank](https://static.openfintech.io/payment_methods/danamon_bank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `danamon_bank` 
@@ -15,17 +15,17 @@
 ## Images 
 
 ### Logo 
-![danamon_bank](https://static.openfintech.io/payment_methods/danamon_bank/logo.png?w=400&c=v0.59.26#w200)  
+![danamon_bank](https://static.openfintech.io/payment_methods/danamon_bank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/danamon_bank/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/danamon_bank/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![danamon_bank](https://static.openfintech.io/payment_methods/danamon_bank/icon.png?w=278&c=v0.59.26#w100)  
+![danamon_bank](https://static.openfintech.io/payment_methods/danamon_bank/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/danamon_bank/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/danamon_bank/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -34,7 +34,7 @@ The list of [Payment Services](/payment-services/) based on the _Danamon Bank_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![danamon_bank](https://static.openfintech.io/payment_methods/danamon_bank/icon.png?w=278&c=v0.59.26#w100) |[danamon_bank_idr_hpp](/payment-services/danamon_bank_idr_hpp/)|`danamon_bank_idr_hpp`| 
+|![danamon_bank](https://static.openfintech.io/payment_methods/danamon_bank/icon.svg?w=278&c=v0.59.26#w100) |[danamon_bank_idr_hpp](/payment-services/danamon_bank_idr_hpp/)|`danamon_bank_idr_hpp`| 
  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Danamon B
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![paysec](https://static.openfintech.io/payment_providers/paysec/icon.png?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
+|![paysec](https://static.openfintech.io/payment_providers/paysec/icon.svg?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
  
 
 ## JSON Object 

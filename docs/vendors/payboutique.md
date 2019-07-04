@@ -1,6 +1,6 @@
 
 # Payboutique  
-![payboutique](https://static.openfintech.io/vendors/payboutique/logo.png?w=400&c=v0.59.26#w200)  
+![payboutique](https://static.openfintech.io/vendors/payboutique/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Strovolou 77, Strovolos Center, 2nd floor, Office 2042018 NicosiaCyprus
 
 ### Logo 
  
-![payboutique](https://static.openfintech.io/vendors/payboutique/logo.png?w=400&c=v0.59.26#w200)  
+![payboutique](https://static.openfintech.io/vendors/payboutique/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payboutique/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payboutique/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payboutique](https://static.openfintech.io/vendors/payboutique/icon.png?w=278&c=v0.59.26#w100)  
+![payboutique](https://static.openfintech.io/vendors/payboutique/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payboutique/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payboutique/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

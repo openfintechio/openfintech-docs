@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Tourist (Lub
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-turist-lubny](https://static.openfintech.io/payout_methods/taksi-turist-lubny/icon.png?w=278&c=v0.59.26#w40) |[taksi-turist-lubny_uah](/payout-services/taksi-turist-lubny_uah/)|`taksi-turist-lubny_uah`| 
+|![taksi-turist-lubny](https://static.openfintech.io/payout_methods/taksi-turist-lubny/icon.svg?w=278&c=v0.59.26#w40) |[taksi-turist-lubny_uah](/payout-services/taksi-turist-lubny_uah/)|`taksi-turist-lubny_uah`| 
  
 
 ## JSON Object 

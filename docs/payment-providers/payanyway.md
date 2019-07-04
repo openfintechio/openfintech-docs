@@ -1,6 +1,6 @@
 
 # PayAnyWay.com 
-![payanyway](https://static.openfintech.io/payment_providers/payanyway/logo.png?w=400&c=v0.59.26#w100)  
+![payanyway](https://static.openfintech.io/payment_providers/payanyway/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![payanyway](https://static.openfintech.io/payment_providers/payanyway/logo.png?w=400&c=v0.59.26#w100)  
+![payanyway](https://static.openfintech.io/payment_providers/payanyway/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/payanyway/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/payanyway/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![payanyway](https://static.openfintech.io/payment_providers/payanyway/icon.png?w=278&c=v0.59.26#w100)  
+![payanyway](https://static.openfintech.io/payment_providers/payanyway/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/payanyway/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/payanyway/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

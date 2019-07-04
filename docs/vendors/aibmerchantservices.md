@@ -1,6 +1,6 @@
 
 # AIB Merchant Services 
-![aibmerchantservices](https://static.openfintech.io/vendors/aibmerchantservices/logo.png?w=400&c=v0.59.26#w200)  
+![aibmerchantservices](https://static.openfintech.io/vendors/aibmerchantservices/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -26,18 +26,18 @@ street:  Ireland
 
 ### Logo 
  
-![aibmerchantservices](https://static.openfintech.io/vendors/aibmerchantservices/logo.png?w=400&c=v0.59.26#w200)  
+![aibmerchantservices](https://static.openfintech.io/vendors/aibmerchantservices/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/aibmerchantservices/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/aibmerchantservices/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![aibmerchantservices](https://static.openfintech.io/vendors/aibmerchantservices/icon.png?w=278&c=v0.59.26#w100)  
+![aibmerchantservices](https://static.openfintech.io/vendors/aibmerchantservices/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/aibmerchantservices/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/aibmerchantservices/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

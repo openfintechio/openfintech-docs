@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Faust (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![faust-kiev](https://static.openfintech.io/payout_methods/faust-kiev/icon.png?w=278&c=v0.59.26#w40) |[faust-kiev_uah](/payout-services/faust-kiev_uah/)|`faust-kiev_uah`| 
+|![faust-kiev](https://static.openfintech.io/payout_methods/faust-kiev/icon.svg?w=278&c=v0.59.26#w40) |[faust-kiev_uah](/payout-services/faust-kiev_uah/)|`faust-kiev_uah`| 
  
 
 ## JSON Object 

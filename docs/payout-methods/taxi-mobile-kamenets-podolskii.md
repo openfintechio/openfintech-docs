@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _TAXI MOBILE (Kamy
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taxi-mobile-kamenets-podolskii](https://static.openfintech.io/payout_methods/taxi-mobile-kamenets-podolskii/icon.png?w=278&c=v0.59.26#w40) |[taxi-mobile-kamenets-podolskii_uah](/payout-services/taxi-mobile-kamenets-podolskii_uah/)|`taxi-mobile-kamenets-podolskii_uah`| 
+|![taxi-mobile-kamenets-podolskii](https://static.openfintech.io/payout_methods/taxi-mobile-kamenets-podolskii/icon.svg?w=278&c=v0.59.26#w40) |[taxi-mobile-kamenets-podolskii_uah](/payout-services/taxi-mobile-kamenets-podolskii_uah/)|`taxi-mobile-kamenets-podolskii_uah`| 
  
 
 ## JSON Object 

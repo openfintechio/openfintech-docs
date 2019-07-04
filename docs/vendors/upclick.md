@@ -1,6 +1,6 @@
 
 # Upclick 
-![upclick](https://static.openfintech.io/vendors/upclick/logo.png?w=400&c=v0.59.26#w200)  
+![upclick](https://static.openfintech.io/vendors/upclick/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  7075 Place Robert-Joncas, Suite 142H4M 2Z2 MontrealQuebecCanada
 
 ### Logo 
  
-![upclick](https://static.openfintech.io/vendors/upclick/logo.png?w=400&c=v0.59.26#w200)  
+![upclick](https://static.openfintech.io/vendors/upclick/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/upclick/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/upclick/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![upclick](https://static.openfintech.io/vendors/upclick/icon.png?w=278&c=v0.59.26#w100)  
+![upclick](https://static.openfintech.io/vendors/upclick/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/upclick/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/upclick/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

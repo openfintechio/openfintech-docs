@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Stream network (K
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![stream-network-kalush](https://static.openfintech.io/payout_methods/stream-network-kalush/icon.png?w=278&c=v0.59.26#w40) |[stream-network-kalush_uah](/payout-services/stream-network-kalush_uah/)|`stream-network-kalush_uah`| 
+|![stream-network-kalush](https://static.openfintech.io/payout_methods/stream-network-kalush/icon.svg?w=278&c=v0.59.26#w40) |[stream-network-kalush_uah](/payout-services/stream-network-kalush_uah/)|`stream-network-kalush_uah`| 
  
 
 ## JSON Object 

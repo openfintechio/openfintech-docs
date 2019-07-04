@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Auto Guidanc
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-avtogid-dnepr](https://static.openfintech.io/payout_methods/taksi-avtogid-dnepr/icon.png?w=278&c=v0.59.26#w40) |[taksi-avtogid-dnepr_uah](/payout-services/taksi-avtogid-dnepr_uah/)|`taksi-avtogid-dnepr_uah`| 
+|![taksi-avtogid-dnepr](https://static.openfintech.io/payout_methods/taksi-avtogid-dnepr/icon.svg?w=278&c=v0.59.26#w40) |[taksi-avtogid-dnepr_uah](/payout-services/taksi-avtogid-dnepr_uah/)|`taksi-avtogid-dnepr_uah`| 
  
 
 ## JSON Object 

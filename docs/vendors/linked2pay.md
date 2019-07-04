@@ -1,6 +1,6 @@
 
 # linked2pay 
-![linked2pay](https://static.openfintech.io/vendors/linked2pay/logo.png?w=400&c=v0.59.26#w200)  
+![linked2pay](https://static.openfintech.io/vendors/linked2pay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  500 Esplanade Dr, Suite 700 OxnardCaliforniaUnited States of America
 
 ### Logo 
  
-![linked2pay](https://static.openfintech.io/vendors/linked2pay/logo.png?w=400&c=v0.59.26#w200)  
+![linked2pay](https://static.openfintech.io/vendors/linked2pay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/linked2pay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/linked2pay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![linked2pay](https://static.openfintech.io/vendors/linked2pay/icon.png?w=278&c=v0.59.26#w100)  
+![linked2pay](https://static.openfintech.io/vendors/linked2pay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/linked2pay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/linked2pay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

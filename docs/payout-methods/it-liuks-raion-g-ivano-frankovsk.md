@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _IT LUX district (
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![it-liuks-raion-g-ivano-frankovsk](https://static.openfintech.io/payout_methods/it-liuks-raion-g-ivano-frankovsk/icon.png?w=278&c=v0.59.26#w40) |[it-liuks-raion-g-ivano-frankovsk_uah](/payout-services/it-liuks-raion-g-ivano-frankovsk_uah/)|`it-liuks-raion-g-ivano-frankovsk_uah`| 
+|![it-liuks-raion-g-ivano-frankovsk](https://static.openfintech.io/payout_methods/it-liuks-raion-g-ivano-frankovsk/icon.svg?w=278&c=v0.59.26#w40) |[it-liuks-raion-g-ivano-frankovsk_uah](/payout-services/it-liuks-raion-g-ivano-frankovsk_uah/)|`it-liuks-raion-g-ivano-frankovsk_uah`| 
  
 
 ## JSON Object 

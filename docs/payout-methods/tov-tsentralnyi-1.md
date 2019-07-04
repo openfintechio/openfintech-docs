@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _LLC Central 1_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tov-tsentralnyi-1](https://static.openfintech.io/payout_methods/tov-tsentralnyi-1/icon.png?w=278&c=v0.59.26#w40) |[tov-tsentralnyi-1_uah](/payout-services/tov-tsentralnyi-1_uah/)|`tov-tsentralnyi-1_uah`| 
+|![tov-tsentralnyi-1](https://static.openfintech.io/payout_methods/tov-tsentralnyi-1/icon.svg?w=278&c=v0.59.26#w40) |[tov-tsentralnyi-1_uah](/payout-services/tov-tsentralnyi-1_uah/)|`tov-tsentralnyi-1_uah`| 
  
 
 ## JSON Object 

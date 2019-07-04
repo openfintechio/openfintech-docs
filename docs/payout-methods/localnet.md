@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _LocalNet_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![localnet](https://static.openfintech.io/payout_methods/localnet/icon.png?w=278&c=v0.59.26#w40) |[localnet_uah](/payout-services/localnet_uah/)|`localnet_uah`| 
+|![localnet](https://static.openfintech.io/payout_methods/localnet/icon.svg?w=278&c=v0.59.26#w40) |[localnet_uah](/payout-services/localnet_uah/)|`localnet_uah`| 
  
 
 ## JSON Object 

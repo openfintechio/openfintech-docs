@@ -1,6 +1,6 @@
 
 # Websecpay 
-![websecpay](https://static.openfintech.io/payment_providers/websecpay/logo.png?w=400&c=v0.59.26#w100)  
+![websecpay](https://static.openfintech.io/payment_providers/websecpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![websecpay](https://static.openfintech.io/payment_providers/websecpay/logo.png?w=400&c=v0.59.26#w100)  
+![websecpay](https://static.openfintech.io/payment_providers/websecpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/websecpay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/websecpay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![websecpay](https://static.openfintech.io/payment_providers/websecpay/icon.png?w=278&c=v0.59.26#w100)  
+![websecpay](https://static.openfintech.io/payment_providers/websecpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/websecpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/websecpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

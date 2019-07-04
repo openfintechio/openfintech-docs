@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Virazh (Odes
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-virazh-odessa](https://static.openfintech.io/payout_methods/taksi-virazh-odessa/icon.png?w=278&c=v0.59.26#w40) |[taksi-virazh-odessa_uah](/payout-services/taksi-virazh-odessa_uah/)|`taksi-virazh-odessa_uah`| 
+|![taksi-virazh-odessa](https://static.openfintech.io/payout_methods/taksi-virazh-odessa/icon.svg?w=278&c=v0.59.26#w40) |[taksi-virazh-odessa_uah](/payout-services/taksi-virazh-odessa_uah/)|`taksi-virazh-odessa_uah`| 
  
 
 ## JSON Object 

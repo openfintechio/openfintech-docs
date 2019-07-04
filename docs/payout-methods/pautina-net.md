@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Web.Net_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![pautina-net](https://static.openfintech.io/payout_methods/pautina-net/icon.png?w=278&c=v0.59.26#w40) |[pautina-net_uah](/payout-services/pautina-net_uah/)|`pautina-net_uah`| 
+|![pautina-net](https://static.openfintech.io/payout_methods/pautina-net/icon.svg?w=278&c=v0.59.26#w40) |[pautina-net_uah](/payout-services/pautina-net_uah/)|`pautina-net_uah`| 
  
 
 ## JSON Object 

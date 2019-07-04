@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Wizards World Nic
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![wizards-world-oplata-po-niku](https://static.openfintech.io/payout_methods/wizards-world-oplata-po-niku/icon.png?w=278&c=v0.59.26#w40) |[wizards-world-oplata-po-niku_uah](/payout-services/wizards-world-oplata-po-niku_uah/)|`wizards-world-oplata-po-niku_uah`| 
+|![wizards-world-oplata-po-niku](https://static.openfintech.io/payout_methods/wizards-world-oplata-po-niku/icon.svg?w=278&c=v0.59.26#w40) |[wizards-world-oplata-po-niku_uah](/payout-services/wizards-world-oplata-po-niku_uah/)|`wizards-world-oplata-po-niku_uah`| 
  
 
 ## JSON Object 

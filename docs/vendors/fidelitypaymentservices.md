@@ -1,6 +1,6 @@
 
 # Fidelity Payment Services 
-![fidelitypaymentservices](https://static.openfintech.io/vendors/fidelitypaymentservices/logo.png?w=400&c=v0.59.26#w200)  
+![fidelitypaymentservices](https://static.openfintech.io/vendors/fidelitypaymentservices/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Brooklyn, NY11211 Brooklyn, NYUnited States of America
 
 ### Logo 
  
-![fidelitypaymentservices](https://static.openfintech.io/vendors/fidelitypaymentservices/logo.png?w=400&c=v0.59.26#w200)  
+![fidelitypaymentservices](https://static.openfintech.io/vendors/fidelitypaymentservices/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/fidelitypaymentservices/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/fidelitypaymentservices/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![fidelitypaymentservices](https://static.openfintech.io/vendors/fidelitypaymentservices/icon.png?w=278&c=v0.59.26#w100)  
+![fidelitypaymentservices](https://static.openfintech.io/vendors/fidelitypaymentservices/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/fidelitypaymentservices/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/fidelitypaymentservices/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

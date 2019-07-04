@@ -1,6 +1,6 @@
 
 # Debito Bradesco 
-![debitobradesco](https://static.openfintech.io/vendors/debitobradesco/logo.png?w=400&c=v0.59.26#w200)  
+![debitobradesco](https://static.openfintech.io/vendors/debitobradesco/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![debitobradesco](https://static.openfintech.io/vendors/debitobradesco/logo.png?w=400&c=v0.59.26#w200)  
+![debitobradesco](https://static.openfintech.io/vendors/debitobradesco/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/debitobradesco/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/debitobradesco/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![debitobradesco](https://static.openfintech.io/vendors/debitobradesco/icon.png?w=278&c=v0.59.26#w100)  
+![debitobradesco](https://static.openfintech.io/vendors/debitobradesco/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/debitobradesco/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/debitobradesco/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

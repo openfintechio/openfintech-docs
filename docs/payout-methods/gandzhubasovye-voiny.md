@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Gandzhubasovy war
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![gandzhubasovye-voiny](https://static.openfintech.io/payout_methods/gandzhubasovye-voiny/icon.png?w=278&c=v0.59.26#w40) |[gandzhubasovye-voiny_uah](/payout-services/gandzhubasovye-voiny_uah/)|`gandzhubasovye-voiny_uah`| 
+|![gandzhubasovye-voiny](https://static.openfintech.io/payout_methods/gandzhubasovye-voiny/icon.svg?w=278&c=v0.59.26#w40) |[gandzhubasovye-voiny_uah](/payout-services/gandzhubasovye-voiny_uah/)|`gandzhubasovye-voiny_uah`| 
  
 
 ## JSON Object 

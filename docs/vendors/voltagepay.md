@@ -1,6 +1,6 @@
 
 # Voltage Pay 
-![voltagepay](https://static.openfintech.io/vendors/voltagepay/logo.png?w=400&c=v0.59.26#w200)  
+![voltagepay](https://static.openfintech.io/vendors/voltagepay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  TorontoM4W 2L9 TorontoCanada
 
 ### Logo 
  
-![voltagepay](https://static.openfintech.io/vendors/voltagepay/logo.png?w=400&c=v0.59.26#w200)  
+![voltagepay](https://static.openfintech.io/vendors/voltagepay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/voltagepay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/voltagepay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![voltagepay](https://static.openfintech.io/vendors/voltagepay/icon.png?w=278&c=v0.59.26#w100)  
+![voltagepay](https://static.openfintech.io/vendors/voltagepay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/voltagepay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/voltagepay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

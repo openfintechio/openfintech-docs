@@ -1,6 +1,6 @@
 
 # Billink 
-![billink](https://static.openfintech.io/vendors/billink/logo.png?w=400&c=v0.59.26#w200)  
+![billink](https://static.openfintech.io/vendors/billink/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@ email: info@billink.nlphone: 010 - 41 41 473
 
 ### Logo 
  
-![billink](https://static.openfintech.io/vendors/billink/logo.png?w=400&c=v0.59.26#w200)  
+![billink](https://static.openfintech.io/vendors/billink/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/billink/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/billink/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![billink](https://static.openfintech.io/vendors/billink/icon.png?w=278&c=v0.59.26#w100)  
+![billink](https://static.openfintech.io/vendors/billink/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/billink/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/billink/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

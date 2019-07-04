@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Empire (Lubn
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-imperiia-lubny](https://static.openfintech.io/payout_methods/taksi-imperiia-lubny/icon.png?w=278&c=v0.59.26#w40) |[taksi-imperiia-lubny_uah](/payout-services/taksi-imperiia-lubny_uah/)|`taksi-imperiia-lubny_uah`| 
+|![taksi-imperiia-lubny](https://static.openfintech.io/payout_methods/taksi-imperiia-lubny/icon.svg?w=278&c=v0.59.26#w40) |[taksi-imperiia-lubny_uah](/payout-services/taksi-imperiia-lubny_uah/)|`taksi-imperiia-lubny_uah`| 
  
 
 ## JSON Object 

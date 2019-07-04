@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Your Money - Cred
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tvoyi-groshi-prodlenie-kredita](https://static.openfintech.io/payout_methods/tvoyi-groshi-prodlenie-kredita/icon.png?w=278&c=v0.59.26#w40) |[tvoyi-groshi-prodlenie-kredita_uah](/payout-services/tvoyi-groshi-prodlenie-kredita_uah/)|`tvoyi-groshi-prodlenie-kredita_uah`| 
+|![tvoyi-groshi-prodlenie-kredita](https://static.openfintech.io/payout_methods/tvoyi-groshi-prodlenie-kredita/icon.svg?w=278&c=v0.59.26#w40) |[tvoyi-groshi-prodlenie-kredita_uah](/payout-services/tvoyi-groshi-prodlenie-kredita_uah/)|`tvoyi-groshi-prodlenie-kredita_uah`| 
  
 
 ## JSON Object 

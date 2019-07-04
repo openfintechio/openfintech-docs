@@ -1,6 +1,6 @@
 
 # YuuPay  
-![yuupay](https://static.openfintech.io/vendors/yuupay/logo.png?w=400&c=v0.59.26#w200)  
+![yuupay](https://static.openfintech.io/vendors/yuupay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  Singapore SingaporeSingapore
 
 ### Logo 
  
-![yuupay](https://static.openfintech.io/vendors/yuupay/logo.png?w=400&c=v0.59.26#w200)  
+![yuupay](https://static.openfintech.io/vendors/yuupay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/yuupay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/yuupay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![yuupay](https://static.openfintech.io/vendors/yuupay/icon.png?w=278&c=v0.59.26#w100)  
+![yuupay](https://static.openfintech.io/vendors/yuupay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/yuupay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/yuupay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Drive (Odess
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-draiv-odessa](https://static.openfintech.io/payout_methods/taksi-draiv-odessa/icon.png?w=278&c=v0.59.26#w40) |[taksi-draiv-odessa_uah](/payout-services/taksi-draiv-odessa_uah/)|`taksi-draiv-odessa_uah`| 
+|![taksi-draiv-odessa](https://static.openfintech.io/payout_methods/taksi-draiv-odessa/icon.svg?w=278&c=v0.59.26#w40) |[taksi-draiv-odessa_uah](/payout-services/taksi-draiv-odessa_uah/)|`taksi-draiv-odessa_uah`| 
  
 
 ## JSON Object 

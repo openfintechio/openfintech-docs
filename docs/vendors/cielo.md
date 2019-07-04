@@ -1,6 +1,6 @@
 
 # Cielo 
-![cielo](https://static.openfintech.io/vendors/cielo/logo.png?w=400&c=v0.59.26#w200)  
+![cielo](https://static.openfintech.io/vendors/cielo/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Al. Grajau, 219 - Alphaville Barueri SÃ?Â£o PauloBrazil
 
 ### Logo 
  
-![cielo](https://static.openfintech.io/vendors/cielo/logo.png?w=400&c=v0.59.26#w200)  
+![cielo](https://static.openfintech.io/vendors/cielo/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/cielo/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/cielo/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![cielo](https://static.openfintech.io/vendors/cielo/icon.png?w=278&c=v0.59.26#w100)  
+![cielo](https://static.openfintech.io/vendors/cielo/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/cielo/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/cielo/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

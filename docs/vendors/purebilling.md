@@ -1,6 +1,6 @@
 
 # purebilling.com 
-![purebilling](https://static.openfintech.io/vendors/purebilling/logo.png?w=400&c=v0.59.26#w200)  
+![purebilling](https://static.openfintech.io/vendors/purebilling/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Tecnocampus, TCM2 c/ Ernest Lluch, 32 Mataró08302 MataróBarcelonaSpai
 
 ### Logo 
  
-![purebilling](https://static.openfintech.io/vendors/purebilling/logo.png?w=400&c=v0.59.26#w200)  
+![purebilling](https://static.openfintech.io/vendors/purebilling/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/purebilling/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/purebilling/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![purebilling](https://static.openfintech.io/vendors/purebilling/icon.png?w=278&c=v0.59.26#w100)  
+![purebilling](https://static.openfintech.io/vendors/purebilling/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/purebilling/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/purebilling/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

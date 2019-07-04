@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ARTNET (Artyomovs
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![artnet-artemovsk](https://static.openfintech.io/payout_methods/artnet-artemovsk/icon.png?w=278&c=v0.59.26#w40) |[artnet-artemovsk_uah](/payout-services/artnet-artemovsk_uah/)|`artnet-artemovsk_uah`| 
+|![artnet-artemovsk](https://static.openfintech.io/payout_methods/artnet-artemovsk/icon.svg?w=278&c=v0.59.26#w40) |[artnet-artemovsk_uah](/payout-services/artnet-artemovsk_uah/)|`artnet-artemovsk_uah`| 
  
 
 ## JSON Object 

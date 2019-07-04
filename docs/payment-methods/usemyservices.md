@@ -1,6 +1,6 @@
 
 # UseMyServices 
-![usemyservices](https://static.openfintech.io/payment_methods/usemyservices/logo.png?w=400&c=v0.59.26#w200)  
+![usemyservices](https://static.openfintech.io/payment_methods/usemyservices/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `usemyservices` 
@@ -21,17 +21,17 @@
 ## Images 
 
 ### Logo 
-![usemyservices](https://static.openfintech.io/payment_methods/usemyservices/logo.png?w=400&c=v0.59.26#w200)  
+![usemyservices](https://static.openfintech.io/payment_methods/usemyservices/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/usemyservices/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/usemyservices/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![usemyservices](https://static.openfintech.io/payment_methods/usemyservices/icon.png?w=278&c=v0.59.26#w100)  
+![usemyservices](https://static.openfintech.io/payment_methods/usemyservices/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/usemyservices/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/usemyservices/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -40,7 +40,7 @@ The list of [Payment Providers](/payment-providers/) that support the _UseMyServ
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
  
 

@@ -1,6 +1,6 @@
 
 # Public Bank Berhad 
-![public_bank_berhad](https://static.openfintech.io/payment_methods/public_bank_berhad/logo.png?w=400&c=v0.59.26#w200)  
+![public_bank_berhad](https://static.openfintech.io/payment_methods/public_bank_berhad/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `public_bank_berhad` 
@@ -15,17 +15,17 @@
 ## Images 
 
 ### Logo 
-![public_bank_berhad](https://static.openfintech.io/payment_methods/public_bank_berhad/logo.png?w=400&c=v0.59.26#w200)  
+![public_bank_berhad](https://static.openfintech.io/payment_methods/public_bank_berhad/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/public_bank_berhad/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/public_bank_berhad/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![public_bank_berhad](https://static.openfintech.io/payment_methods/public_bank_berhad/icon.png?w=278&c=v0.59.26#w100)  
+![public_bank_berhad](https://static.openfintech.io/payment_methods/public_bank_berhad/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/public_bank_berhad/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/public_bank_berhad/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

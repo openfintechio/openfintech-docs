@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Nanny (Khark
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-niania-kharkov](https://static.openfintech.io/payout_methods/taksi-niania-kharkov/icon.png?w=278&c=v0.59.26#w40) |[taksi-niania-kharkov_uah](/payout-services/taksi-niania-kharkov_uah/)|`taksi-niania-kharkov_uah`| 
+|![taksi-niania-kharkov](https://static.openfintech.io/payout_methods/taksi-niania-kharkov/icon.svg?w=278&c=v0.59.26#w40) |[taksi-niania-kharkov_uah](/payout-services/taksi-niania-kharkov_uah/)|`taksi-niania-kharkov_uah`| 
  
 
 ## JSON Object 

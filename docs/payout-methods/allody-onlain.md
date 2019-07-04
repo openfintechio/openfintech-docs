@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Allods Online_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![allody-onlain](https://static.openfintech.io/payout_methods/allody-onlain/icon.png?w=278&c=v0.59.26#w40) |[allody-onlain_uah](/payout-services/allody-onlain_uah/)|`allody-onlain_uah`| 
+|![allody-onlain](https://static.openfintech.io/payout_methods/allody-onlain/icon.svg?w=278&c=v0.59.26#w40) |[allody-onlain_uah](/payout-services/allody-onlain_uah/)|`allody-onlain_uah`| 
  
 
 ## JSON Object 

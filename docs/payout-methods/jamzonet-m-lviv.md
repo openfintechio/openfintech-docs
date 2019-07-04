@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _JamzoNet (Lviv)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![jamzonet-m-lviv](https://static.openfintech.io/payout_methods/jamzonet-m-lviv/icon.png?w=278&c=v0.59.26#w40) |[jamzonet-m-lviv_uah](/payout-services/jamzonet-m-lviv_uah/)|`jamzonet-m-lviv_uah`| 
+|![jamzonet-m-lviv](https://static.openfintech.io/payout_methods/jamzonet-m-lviv/icon.svg?w=278&c=v0.59.26#w40) |[jamzonet-m-lviv_uah](/payout-services/jamzonet-m-lviv_uah/)|`jamzonet-m-lviv_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Modern Medicine -
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![suchasna-meditsina-mbf-tsspm](https://static.openfintech.io/payout_methods/suchasna-meditsina-mbf-tsspm/icon.png?w=278&c=v0.59.26#w40) |[suchasna-meditsina-mbf-tsspm_uah](/payout-services/suchasna-meditsina-mbf-tsspm_uah/)|`suchasna-meditsina-mbf-tsspm_uah`| 
+|![suchasna-meditsina-mbf-tsspm](https://static.openfintech.io/payout_methods/suchasna-meditsina-mbf-tsspm/icon.svg?w=278&c=v0.59.26#w40) |[suchasna-meditsina-mbf-tsspm_uah](/payout-services/suchasna-meditsina-mbf-tsspm_uah/)|`suchasna-meditsina-mbf-tsspm_uah`| 
  
 
 ## JSON Object 

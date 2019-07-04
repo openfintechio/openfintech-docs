@@ -1,6 +1,6 @@
 
 # PostFinance Card 
-![postfinancecard](https://static.openfintech.io/vendors/postfinancecard/logo.png?w=400&c=v0.59.26#w200)  
+![postfinancecard](https://static.openfintech.io/vendors/postfinancecard/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![postfinancecard](https://static.openfintech.io/vendors/postfinancecard/logo.png?w=400&c=v0.59.26#w200)  
+![postfinancecard](https://static.openfintech.io/vendors/postfinancecard/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/postfinancecard/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/postfinancecard/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![postfinancecard](https://static.openfintech.io/vendors/postfinancecard/icon.png?w=278&c=v0.59.26#w100)  
+![postfinancecard](https://static.openfintech.io/vendors/postfinancecard/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/postfinancecard/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/postfinancecard/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

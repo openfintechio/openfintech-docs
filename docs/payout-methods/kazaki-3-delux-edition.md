@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Cossacks 3 Delux 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kazaki-3-delux-edition](https://static.openfintech.io/payout_methods/kazaki-3-delux-edition/icon.png?w=278&c=v0.59.26#w40) |[kazaki-3-delux-edition_uah](/payout-services/kazaki-3-delux-edition_uah/)|`kazaki-3-delux-edition_uah`| 
+|![kazaki-3-delux-edition](https://static.openfintech.io/payout_methods/kazaki-3-delux-edition/icon.svg?w=278&c=v0.59.26#w40) |[kazaki-3-delux-edition_uah](/payout-services/kazaki-3-delux-edition_uah/)|`kazaki-3-delux-edition_uah`| 
  
 
 ## JSON Object 

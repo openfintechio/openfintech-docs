@@ -1,6 +1,6 @@
 
 # Payleap 
-![payleap](https://static.openfintech.io/vendors/payleap/logo.png?w=400&c=v0.59.26#w200)  
+![payleap](https://static.openfintech.io/vendors/payleap/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  30339 Atlanta, GAUnited States of America
 
 ### Logo 
  
-![payleap](https://static.openfintech.io/vendors/payleap/logo.png?w=400&c=v0.59.26#w200)  
+![payleap](https://static.openfintech.io/vendors/payleap/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payleap/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payleap/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payleap](https://static.openfintech.io/vendors/payleap/icon.png?w=278&c=v0.59.26#w100)  
+![payleap](https://static.openfintech.io/vendors/payleap/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payleap/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payleap/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

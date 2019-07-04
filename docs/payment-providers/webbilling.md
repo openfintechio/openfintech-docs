@@ -1,6 +1,6 @@
 
 # Webbilling.com 
-![webbilling](https://static.openfintech.io/payment_providers/webbilling/logo.png?w=400&c=v0.59.26#w100)  
+![webbilling](https://static.openfintech.io/payment_providers/webbilling/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![webbilling](https://static.openfintech.io/payment_providers/webbilling/logo.png?w=400&c=v0.59.26#w100)  
+![webbilling](https://static.openfintech.io/payment_providers/webbilling/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/webbilling/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/webbilling/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![webbilling](https://static.openfintech.io/payment_providers/webbilling/icon.png?w=278&c=v0.59.26#w100)  
+![webbilling](https://static.openfintech.io/payment_providers/webbilling/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/webbilling/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/webbilling/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

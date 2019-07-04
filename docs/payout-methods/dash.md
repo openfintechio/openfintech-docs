@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Dash_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![dash](https://static.openfintech.io/payout_methods/dash/icon.png?w=278&c=v0.59.26#w40) |[dash_dash](/payout-services/dash_dash/)|`dash_dash`| 
+|![dash](https://static.openfintech.io/payout_methods/dash/icon.svg?w=278&c=v0.59.26#w40) |[dash_dash](/payout-services/dash_dash/)|`dash_dash`| 
  
 
 ## JSON Object 
