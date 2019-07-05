@@ -1,6 +1,6 @@
 
 # Tesco Lotus 
-![tescolotus](https://static.openfintech.io/vendors/tescolotus/logo.svg?w=400&c=v0.59.26#w200)  
+![tescolotus](https://static.openfintech.io/vendors/tescolotus/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![tescolotus](https://static.openfintech.io/vendors/tescolotus/logo.svg?w=400&c=v0.59.26#w200)  
+![tescolotus](https://static.openfintech.io/vendors/tescolotus/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/tescolotus/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/tescolotus/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![tescolotus](https://static.openfintech.io/vendors/tescolotus/icon.svg?w=278&c=v0.59.26#w100)  
+![tescolotus](https://static.openfintech.io/vendors/tescolotus/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/tescolotus/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/tescolotus/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

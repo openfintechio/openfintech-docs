@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Frigate - Interne
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![fregat-internet](https://static.openfintech.io/payout_methods/fregat-internet/icon.svg?w=278&c=v0.59.26#w40) |[fregat-internet_uah](/payout-services/fregat-internet_uah/)|`fregat-internet_uah`| 
+|![fregat-internet](https://static.openfintech.io/payout_methods/fregat-internet/icon.png?w=278&c=v0.59.26#w40) |[fregat-internet_uah](/payout-services/fregat-internet_uah/)|`fregat-internet_uah`| 
  
 
 ## JSON Object 

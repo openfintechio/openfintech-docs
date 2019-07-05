@@ -1,6 +1,6 @@
 
 # Redecard 
-![redecard](https://static.openfintech.io/vendors/redecard/logo.svg?w=400&c=v0.59.26#w200)  
+![redecard](https://static.openfintech.io/vendors/redecard/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  BarueriBrazil
 
 ### Logo 
  
-![redecard](https://static.openfintech.io/vendors/redecard/logo.svg?w=400&c=v0.59.26#w200)  
+![redecard](https://static.openfintech.io/vendors/redecard/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/redecard/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/redecard/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![redecard](https://static.openfintech.io/vendors/redecard/icon.svg?w=278&c=v0.59.26#w100)  
+![redecard](https://static.openfintech.io/vendors/redecard/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/redecard/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/redecard/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

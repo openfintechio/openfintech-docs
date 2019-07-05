@@ -1,6 +1,6 @@
 
 # Payment Express 
-![paymentexpress](https://static.openfintech.io/vendors/paymentexpress/logo.svg?w=400&c=v0.59.26#w200)  
+![paymentexpress](https://static.openfintech.io/vendors/paymentexpress/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Level 3, 503-505 Kent Street2000 SydneyNew South WalesAustralia
 
 ### Logo 
  
-![paymentexpress](https://static.openfintech.io/vendors/paymentexpress/logo.svg?w=400&c=v0.59.26#w200)  
+![paymentexpress](https://static.openfintech.io/vendors/paymentexpress/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paymentexpress/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paymentexpress/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paymentexpress](https://static.openfintech.io/vendors/paymentexpress/icon.svg?w=278&c=v0.59.26#w100)  
+![paymentexpress](https://static.openfintech.io/vendors/paymentexpress/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paymentexpress/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paymentexpress/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

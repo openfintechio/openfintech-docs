@@ -1,6 +1,6 @@
 
 # Forte Payment Systems 
-![fortepaymentsystems](https://static.openfintech.io/payment_providers/fortepaymentsystems/logo.svg?w=400&c=v0.59.26#w100)  
+![fortepaymentsystems](https://static.openfintech.io/payment_providers/fortepaymentsystems/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![fortepaymentsystems](https://static.openfintech.io/payment_providers/fortepaymentsystems/logo.svg?w=400&c=v0.59.26#w100)  
+![fortepaymentsystems](https://static.openfintech.io/payment_providers/fortepaymentsystems/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/fortepaymentsystems/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/fortepaymentsystems/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![fortepaymentsystems](https://static.openfintech.io/payment_providers/fortepaymentsystems/icon.svg?w=278&c=v0.59.26#w100)  
+![fortepaymentsystems](https://static.openfintech.io/payment_providers/fortepaymentsystems/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/fortepaymentsystems/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/fortepaymentsystems/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

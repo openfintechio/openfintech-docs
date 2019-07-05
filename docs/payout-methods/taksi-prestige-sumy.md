@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Prestige (Su
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-prestige-sumy](https://static.openfintech.io/payout_methods/taksi-prestige-sumy/icon.svg?w=278&c=v0.59.26#w40) |[taksi-prestige-sumy_uah](/payout-services/taksi-prestige-sumy_uah/)|`taksi-prestige-sumy_uah`| 
+|![taksi-prestige-sumy](https://static.openfintech.io/payout_methods/taksi-prestige-sumy/icon.png?w=278&c=v0.59.26#w40) |[taksi-prestige-sumy_uah](/payout-services/taksi-prestige-sumy_uah/)|`taksi-prestige-sumy_uah`| 
  
 
 ## JSON Object 

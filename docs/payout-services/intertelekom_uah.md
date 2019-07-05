@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`client_id`|✔|`string`|`/^\+?(380)(94|45)\d{7}$/`| 
+|`client_id`|✔|`string`|`/^\+?(380)(94\|45)\d{7}$/`| 
  
 
 ### Details 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Godville_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![godvill](https://static.openfintech.io/payout_methods/godvill/icon.svg?w=278&c=v0.59.26#w40) |[godvill_uah](/payout-services/godvill_uah/)|`godvill_uah`| 
+|![godvill](https://static.openfintech.io/payout_methods/godvill/icon.png?w=278&c=v0.59.26#w40) |[godvill_uah](/payout-services/godvill_uah/)|`godvill_uah`| 
  
 
 ## JSON Object 

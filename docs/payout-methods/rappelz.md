@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Rappelz_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![rappelz](https://static.openfintech.io/payout_methods/rappelz/icon.svg?w=278&c=v0.59.26#w40) |[rappelz_uah](/payout-services/rappelz_uah/)|`rappelz_uah`| 
+|![rappelz](https://static.openfintech.io/payout_methods/rappelz/icon.png?w=278&c=v0.59.26#w40) |[rappelz_uah](/payout-services/rappelz_uah/)|`rappelz_uah`| 
  
 
 ## JSON Object 

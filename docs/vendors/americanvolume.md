@@ -1,6 +1,6 @@
 
 # GlobiPay 
-![americanvolume](https://static.openfintech.io/vendors/americanvolume/logo.svg?w=400&c=v0.59.26#w200)  
+![americanvolume](https://static.openfintech.io/vendors/americanvolume/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  New York 10016 New YorkNYUnited States of America
 
 ### Logo 
  
-![americanvolume](https://static.openfintech.io/vendors/americanvolume/logo.svg?w=400&c=v0.59.26#w200)  
+![americanvolume](https://static.openfintech.io/vendors/americanvolume/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/americanvolume/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/americanvolume/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![americanvolume](https://static.openfintech.io/vendors/americanvolume/icon.svg?w=278&c=v0.59.26#w100)  
+![americanvolume](https://static.openfintech.io/vendors/americanvolume/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/americanvolume/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/americanvolume/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

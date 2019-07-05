@@ -1,6 +1,6 @@
 
 # Mozcom PayEasy 
-![mozcompayeasy](https://static.openfintech.io/vendors/mozcompayeasy/logo.svg?w=400&c=v0.59.26#w200)  
+![mozcompayeasy](https://static.openfintech.io/vendors/mozcompayeasy/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Makati City1227 Philippines
 
 ### Logo 
  
-![mozcompayeasy](https://static.openfintech.io/vendors/mozcompayeasy/logo.svg?w=400&c=v0.59.26#w200)  
+![mozcompayeasy](https://static.openfintech.io/vendors/mozcompayeasy/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/mozcompayeasy/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/mozcompayeasy/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![mozcompayeasy](https://static.openfintech.io/vendors/mozcompayeasy/icon.svg?w=278&c=v0.59.26#w100)  
+![mozcompayeasy](https://static.openfintech.io/vendors/mozcompayeasy/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/mozcompayeasy/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/mozcompayeasy/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

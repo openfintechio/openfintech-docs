@@ -1,6 +1,6 @@
 
 # MM Invoicing 
-![mminvoicing](https://static.openfintech.io/payment_methods/mminvoicing/logo.svg?w=400&c=v0.59.26#w200)  
+![mminvoicing](https://static.openfintech.io/payment_methods/mminvoicing/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `mminvoicing` 
@@ -15,17 +15,17 @@
 ## Images 
 
 ### Logo 
-![mminvoicing](https://static.openfintech.io/payment_methods/mminvoicing/logo.svg?w=400&c=v0.59.26#w200)  
+![mminvoicing](https://static.openfintech.io/payment_methods/mminvoicing/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/mminvoicing/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/mminvoicing/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![mminvoicing](https://static.openfintech.io/payment_methods/mminvoicing/icon.svg?w=278&c=v0.59.26#w100)  
+![mminvoicing](https://static.openfintech.io/payment_methods/mminvoicing/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/mminvoicing/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/mminvoicing/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -34,7 +34,7 @@ The list of [Payment Services](/payment-services/) based on the _MM Invoicing_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![mminvoicing](https://static.openfintech.io/payment_methods/mminvoicing/icon.svg?w=278&c=v0.59.26#w100) |[mminvoicing_gel_hpp](/payment-services/mminvoicing_gel_hpp/)|`mminvoicing_gel_hpp`| 
+|![mminvoicing](https://static.openfintech.io/payment_methods/mminvoicing/icon.png?w=278&c=v0.59.26#w100) |[mminvoicing_gel_hpp](/payment-services/mminvoicing_gel_hpp/)|`mminvoicing_gel_hpp`| 
  
 
 ## Payment Providers 

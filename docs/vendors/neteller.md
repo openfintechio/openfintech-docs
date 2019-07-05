@@ -26,10 +26,10 @@ https://static.openfintech.io/vendors/neteller/logo.svg?w=400&c=v0.59.26#w200
 
 ### Icon 
  
-![neteller](https://static.openfintech.io/vendors/neteller/icon.svg?w=278&c=v0.59.26#w100)  
+![neteller](https://static.openfintech.io/vendors/neteller/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/neteller/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/neteller/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

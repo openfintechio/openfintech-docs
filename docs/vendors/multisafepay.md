@@ -1,6 +1,6 @@
 
 # MultiSafepay 
-![multisafepay](https://static.openfintech.io/vendors/multisafepay/logo.svg?w=400&c=v0.59.26#w200)  
+![multisafepay](https://static.openfintech.io/vendors/multisafepay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  Kraanspoor 391033 SC AmsterdamNetherlands
 
 ### Logo 
  
-![multisafepay](https://static.openfintech.io/vendors/multisafepay/logo.svg?w=400&c=v0.59.26#w200)  
+![multisafepay](https://static.openfintech.io/vendors/multisafepay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/multisafepay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/multisafepay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![multisafepay](https://static.openfintech.io/vendors/multisafepay/icon.svg?w=278&c=v0.59.26#w100)  
+![multisafepay](https://static.openfintech.io/vendors/multisafepay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/multisafepay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/multisafepay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

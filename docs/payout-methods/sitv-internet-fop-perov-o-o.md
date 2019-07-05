@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _SITV - Internet F
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![sitv-internet-fop-perov-o-o](https://static.openfintech.io/payout_methods/sitv-internet-fop-perov-o-o/icon.svg?w=278&c=v0.59.26#w40) |[sitv-internet-fop-perov-o-o_uah](/payout-services/sitv-internet-fop-perov-o-o_uah/)|`sitv-internet-fop-perov-o-o_uah`| 
+|![sitv-internet-fop-perov-o-o](https://static.openfintech.io/payout_methods/sitv-internet-fop-perov-o-o/icon.png?w=278&c=v0.59.26#w40) |[sitv-internet-fop-perov-o-o_uah](/payout-services/sitv-internet-fop-perov-o-o_uah/)|`sitv-internet-fop-perov-o-o_uah`| 
  
 
 ## JSON Object 

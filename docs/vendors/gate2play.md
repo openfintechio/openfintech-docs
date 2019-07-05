@@ -1,6 +1,6 @@
 
 # Gate2Play 
-![gate2play](https://static.openfintech.io/vendors/gate2play/logo.svg?w=400&c=v0.59.26#w200)  
+![gate2play](https://static.openfintech.io/vendors/gate2play/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Business Park, Dabouq Area 1'st floor, Building 24 Jordan
 
 ### Logo 
  
-![gate2play](https://static.openfintech.io/vendors/gate2play/logo.svg?w=400&c=v0.59.26#w200)  
+![gate2play](https://static.openfintech.io/vendors/gate2play/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/gate2play/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/gate2play/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![gate2play](https://static.openfintech.io/vendors/gate2play/icon.svg?w=278&c=v0.59.26#w100)  
+![gate2play](https://static.openfintech.io/vendors/gate2play/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/gate2play/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/gate2play/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

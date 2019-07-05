@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi for you (Ode
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-dlia-vas-odessa](https://static.openfintech.io/payout_methods/taksi-dlia-vas-odessa/icon.svg?w=278&c=v0.59.26#w40) |[taksi-dlia-vas-odessa_uah](/payout-services/taksi-dlia-vas-odessa_uah/)|`taksi-dlia-vas-odessa_uah`| 
+|![taksi-dlia-vas-odessa](https://static.openfintech.io/payout_methods/taksi-dlia-vas-odessa/icon.png?w=278&c=v0.59.26#w40) |[taksi-dlia-vas-odessa_uah](/payout-services/taksi-dlia-vas-odessa_uah/)|`taksi-dlia-vas-odessa_uah`| 
  
 
 ## JSON Object 

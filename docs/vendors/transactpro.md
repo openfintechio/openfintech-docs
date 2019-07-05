@@ -1,6 +1,6 @@
 
 # Transact Pro 
-![transactpro](https://static.openfintech.io/vendors/transactpro/logo.svg?w=400&c=v0.59.26#w200)  
+![transactpro](https://static.openfintech.io/vendors/transactpro/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Str. Ropazu 10, 12th floor, LV-1039 RigaLatvia
 
 ### Logo 
  
-![transactpro](https://static.openfintech.io/vendors/transactpro/logo.svg?w=400&c=v0.59.26#w200)  
+![transactpro](https://static.openfintech.io/vendors/transactpro/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/transactpro/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/transactpro/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![transactpro](https://static.openfintech.io/vendors/transactpro/icon.svg?w=278&c=v0.59.26#w100)  
+![transactpro](https://static.openfintech.io/vendors/transactpro/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/transactpro/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/transactpro/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

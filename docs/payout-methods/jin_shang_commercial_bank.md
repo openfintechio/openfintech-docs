@@ -35,7 +35,7 @@ The list of [Payout Services](/payout-services/) based on the _Jin Shang Commerc
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![jin_shang_commercial_bank](https://static.openfintech.io/payout_methods/jin_shang_commercial_bank/icon.svg?w=278&c=v0.59.26#w40) |[jin_shang_commercial_bank_cny](/payout-services/jin_shang_commercial_bank_cny/)|`jin_shang_commercial_bank_cny`| 
+|![jin_shang_commercial_bank](https://static.openfintech.io/payout_methods/jin_shang_commercial_bank/icon.png?w=278&c=v0.59.26#w40) |[jin_shang_commercial_bank_cny](/payout-services/jin_shang_commercial_bank_cny/)|`jin_shang_commercial_bank_cny`| 
  
 
 ## JSON Object 

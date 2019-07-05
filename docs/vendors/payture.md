@@ -1,6 +1,6 @@
 
 # Payture 
-![payture](https://static.openfintech.io/vendors/payture/logo.svg?w=400&c=v0.59.26#w200)  
+![payture](https://static.openfintech.io/vendors/payture/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Olimpiyskiy ave, 14 MoscowRussian Federation
 
 ### Logo 
  
-![payture](https://static.openfintech.io/vendors/payture/logo.svg?w=400&c=v0.59.26#w200)  
+![payture](https://static.openfintech.io/vendors/payture/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payture/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payture/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payture](https://static.openfintech.io/vendors/payture/icon.svg?w=278&c=v0.59.26#w100)  
+![payture](https://static.openfintech.io/vendors/payture/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payture/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payture/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

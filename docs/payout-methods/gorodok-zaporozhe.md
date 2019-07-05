@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Town (Zaporozhye)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![gorodok-zaporozhe](https://static.openfintech.io/payout_methods/gorodok-zaporozhe/icon.svg?w=278&c=v0.59.26#w40) |[gorodok-zaporozhe_uah](/payout-services/gorodok-zaporozhe_uah/)|`gorodok-zaporozhe_uah`| 
+|![gorodok-zaporozhe](https://static.openfintech.io/payout_methods/gorodok-zaporozhe/icon.png?w=278&c=v0.59.26#w40) |[gorodok-zaporozhe_uah](/payout-services/gorodok-zaporozhe_uah/)|`gorodok-zaporozhe_uah`| 
  
 
 ## JSON Object 

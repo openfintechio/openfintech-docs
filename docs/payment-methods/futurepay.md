@@ -1,6 +1,6 @@
 
 # FuturePay 
-![futurepay](https://static.openfintech.io/payment_methods/futurepay/logo.svg?w=400&c=v0.59.26#w200)  
+![futurepay](https://static.openfintech.io/payment_methods/futurepay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `futurepay` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![futurepay](https://static.openfintech.io/payment_methods/futurepay/logo.svg?w=400&c=v0.59.26#w200)  
+![futurepay](https://static.openfintech.io/payment_methods/futurepay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/futurepay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/futurepay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![futurepay](https://static.openfintech.io/payment_methods/futurepay/icon.svg?w=278&c=v0.59.26#w100)  
+![futurepay](https://static.openfintech.io/payment_methods/futurepay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/futurepay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/futurepay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _FuturePay
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Berline (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![berline-g-kiev](https://static.openfintech.io/payout_methods/berline-g-kiev/icon.svg?w=278&c=v0.59.26#w40) |[berline-g-kiev_uah](/payout-services/berline-g-kiev_uah/)|`berline-g-kiev_uah`| 
+|![berline-g-kiev](https://static.openfintech.io/payout_methods/berline-g-kiev/icon.png?w=278&c=v0.59.26#w40) |[berline-g-kiev_uah](/payout-services/berline-g-kiev_uah/)|`berline-g-kiev_uah`| 
  
 
 ## JSON Object 

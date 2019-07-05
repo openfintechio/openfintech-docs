@@ -1,6 +1,6 @@
 
 # iPay88 
-![ipay88](https://static.openfintech.io/vendors/ipay88/logo.svg?w=400&c=v0.59.26#w200)  
+![ipay88](https://static.openfintech.io/vendors/ipay88/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  Suite 2A-18-2, 18th Floor, Block 2A, Plaza Sentral, Jalan Stesen Sentra
 
 ### Logo 
  
-![ipay88](https://static.openfintech.io/vendors/ipay88/logo.svg?w=400&c=v0.59.26#w200)  
+![ipay88](https://static.openfintech.io/vendors/ipay88/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ipay88/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ipay88/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ipay88](https://static.openfintech.io/vendors/ipay88/icon.svg?w=278&c=v0.59.26#w100)  
+![ipay88](https://static.openfintech.io/vendors/ipay88/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ipay88/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ipay88/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

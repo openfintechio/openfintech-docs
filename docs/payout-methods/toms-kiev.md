@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _TOMS (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![toms-kiev](https://static.openfintech.io/payout_methods/toms-kiev/icon.svg?w=278&c=v0.59.26#w40) |[toms-kiev_uah](/payout-services/toms-kiev_uah/)|`toms-kiev_uah`| 
+|![toms-kiev](https://static.openfintech.io/payout_methods/toms-kiev/icon.png?w=278&c=v0.59.26#w40) |[toms-kiev_uah](/payout-services/toms-kiev_uah/)|`toms-kiev_uah`| 
  
 
 ## JSON Object 

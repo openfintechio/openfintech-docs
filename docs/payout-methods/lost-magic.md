@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Lost magic_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![lost-magic](https://static.openfintech.io/payout_methods/lost-magic/icon.svg?w=278&c=v0.59.26#w40) |[lost-magic_uah](/payout-services/lost-magic_uah/)|`lost-magic_uah`| 
+|![lost-magic](https://static.openfintech.io/payout_methods/lost-magic/icon.png?w=278&c=v0.59.26#w40) |[lost-magic_uah](/payout-services/lost-magic_uah/)|`lost-magic_uah`| 
  
 
 ## JSON Object 

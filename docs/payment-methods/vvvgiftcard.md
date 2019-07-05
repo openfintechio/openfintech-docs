@@ -1,6 +1,6 @@
 
 # VVV Giftcard 
-![vvvgiftcard](https://static.openfintech.io/payment_methods/vvvgiftcard/logo.svg?w=400&c=v0.59.26#w200)  
+![vvvgiftcard](https://static.openfintech.io/payment_methods/vvvgiftcard/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `vvvgiftcard` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![vvvgiftcard](https://static.openfintech.io/payment_methods/vvvgiftcard/logo.svg?w=400&c=v0.59.26#w200)  
+![vvvgiftcard](https://static.openfintech.io/payment_methods/vvvgiftcard/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/vvvgiftcard/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/vvvgiftcard/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![vvvgiftcard](https://static.openfintech.io/payment_methods/vvvgiftcard/icon.svg?w=278&c=v0.59.26#w100)  
+![vvvgiftcard](https://static.openfintech.io/payment_methods/vvvgiftcard/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/vvvgiftcard/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/vvvgiftcard/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _VVV Giftc
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![multisafepay](https://static.openfintech.io/payment_providers/multisafepay/icon.svg?w=278&c=v0.59.26#w100) |[MultiSafepay](/payment-providers/multisafepay/)|`multisafepay`| 
+|![multisafepay](https://static.openfintech.io/payment_providers/multisafepay/icon.png?w=278&c=v0.59.26#w100) |[MultiSafepay](/payment-providers/multisafepay/)|`multisafepay`| 
  
 
 ## JSON Object 

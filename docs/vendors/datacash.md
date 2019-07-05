@@ -1,6 +1,6 @@
 
 # MasterCard Payment Gateway Services 
-![datacash](https://static.openfintech.io/vendors/datacash/logo.svg?w=400&c=v0.59.26#w200)  
+![datacash](https://static.openfintech.io/vendors/datacash/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  10 Upper Bank Street Canary WharfE14 5NP LondonUnited Kingdom
 
 ### Logo 
  
-![datacash](https://static.openfintech.io/vendors/datacash/logo.svg?w=400&c=v0.59.26#w200)  
+![datacash](https://static.openfintech.io/vendors/datacash/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/datacash/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/datacash/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![datacash](https://static.openfintech.io/vendors/datacash/icon.svg?w=278&c=v0.59.26#w100)  
+![datacash](https://static.openfintech.io/vendors/datacash/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/datacash/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/datacash/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

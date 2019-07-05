@@ -1,6 +1,6 @@
 
 # GRAYPAY 
-![graypay](https://static.openfintech.io/vendors/graypay/logo.svg?w=400&c=v0.59.26#w200)  
+![graypay](https://static.openfintech.io/vendors/graypay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  90064 Los AngelesUnited States of America
 
 ### Logo 
  
-![graypay](https://static.openfintech.io/vendors/graypay/logo.svg?w=400&c=v0.59.26#w200)  
+![graypay](https://static.openfintech.io/vendors/graypay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/graypay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/graypay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![graypay](https://static.openfintech.io/vendors/graypay/icon.svg?w=278&c=v0.59.26#w100)  
+![graypay](https://static.openfintech.io/vendors/graypay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/graypay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/graypay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

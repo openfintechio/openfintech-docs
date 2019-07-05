@@ -1,6 +1,6 @@
 
 # CashFlows 
-![cashflows](https://static.openfintech.io/vendors/cashflows/logo.svg?w=400&c=v0.59.26#w200)  
+![cashflows](https://static.openfintech.io/vendors/cashflows/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  CPC1 Capital ParkCB21 5XE CambridgeCambridgeshireUnited Kingdom
 
 ### Logo 
  
-![cashflows](https://static.openfintech.io/vendors/cashflows/logo.svg?w=400&c=v0.59.26#w200)  
+![cashflows](https://static.openfintech.io/vendors/cashflows/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/cashflows/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/cashflows/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![cashflows](https://static.openfintech.io/vendors/cashflows/icon.svg?w=278&c=v0.59.26#w100)  
+![cashflows](https://static.openfintech.io/vendors/cashflows/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/cashflows/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/cashflows/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

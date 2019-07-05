@@ -1,6 +1,6 @@
 
 # AfterPay 
-![afterpay](https://static.openfintech.io/vendors/afterpay/logo.svg?w=400&c=v0.59.26#w200)  
+![afterpay](https://static.openfintech.io/vendors/afterpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@ email: sales@afterpay.nlphone: +31 513 744 110
 
 ### Logo 
  
-![afterpay](https://static.openfintech.io/vendors/afterpay/logo.svg?w=400&c=v0.59.26#w200)  
+![afterpay](https://static.openfintech.io/vendors/afterpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/afterpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/afterpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![afterpay](https://static.openfintech.io/vendors/afterpay/icon.svg?w=278&c=v0.59.26#w100)  
+![afterpay](https://static.openfintech.io/vendors/afterpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/afterpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/afterpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

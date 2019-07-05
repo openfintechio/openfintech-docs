@@ -1,6 +1,6 @@
 
 # EBS 
-![ebillingsolutions](https://static.openfintech.io/vendors/ebillingsolutions/logo.svg?w=400&c=v0.59.26#w200)  
+![ebillingsolutions](https://static.openfintech.io/vendors/ebillingsolutions/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  3rd Floor, Suashish IT Park, Off Dattapada Road, Borivali East400066 Mu
 
 ### Logo 
  
-![ebillingsolutions](https://static.openfintech.io/vendors/ebillingsolutions/logo.svg?w=400&c=v0.59.26#w200)  
+![ebillingsolutions](https://static.openfintech.io/vendors/ebillingsolutions/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ebillingsolutions/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ebillingsolutions/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ebillingsolutions](https://static.openfintech.io/vendors/ebillingsolutions/icon.svg?w=278&c=v0.59.26#w100)  
+![ebillingsolutions](https://static.openfintech.io/vendors/ebillingsolutions/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ebillingsolutions/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ebillingsolutions/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

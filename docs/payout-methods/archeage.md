@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ArcheAge_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![archeage](https://static.openfintech.io/payout_methods/archeage/icon.svg?w=278&c=v0.59.26#w40) |[archeage_uah](/payout-services/archeage_uah/)|`archeage_uah`| 
+|![archeage](https://static.openfintech.io/payout_methods/archeage/icon.png?w=278&c=v0.59.26#w40) |[archeage_uah](/payout-services/archeage_uah/)|`archeage_uah`| 
  
 
 ## JSON Object 

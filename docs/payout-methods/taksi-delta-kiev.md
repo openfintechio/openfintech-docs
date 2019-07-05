@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Delta (Kiev)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-delta-kiev](https://static.openfintech.io/payout_methods/taksi-delta-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-delta-kiev_uah](/payout-services/taksi-delta-kiev_uah/)|`taksi-delta-kiev_uah`| 
+|![taksi-delta-kiev](https://static.openfintech.io/payout_methods/taksi-delta-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-delta-kiev_uah](/payout-services/taksi-delta-kiev_uah/)|`taksi-delta-kiev_uah`| 
  
 
 ## JSON Object 

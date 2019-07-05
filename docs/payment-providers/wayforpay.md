@@ -1,6 +1,6 @@
 
 # Wayforpay 
-![wayforpay](https://static.openfintech.io/payment_providers/wayforpay/logo.svg?w=400&c=v0.59.26#w100)  
+![wayforpay](https://static.openfintech.io/payment_providers/wayforpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![wayforpay](https://static.openfintech.io/payment_providers/wayforpay/logo.svg?w=400&c=v0.59.26#w100)  
+![wayforpay](https://static.openfintech.io/payment_providers/wayforpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/wayforpay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/wayforpay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![wayforpay](https://static.openfintech.io/payment_providers/wayforpay/icon.svg?w=278&c=v0.59.26#w100)  
+![wayforpay](https://static.openfintech.io/payment_providers/wayforpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/wayforpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/wayforpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

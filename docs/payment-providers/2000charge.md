@@ -1,6 +1,6 @@
 
 # 2000Charge.com 
-![2000charge](https://static.openfintech.io/payment_providers/2000charge/logo.svg?w=400&c=v0.59.26#w100)  
+![2000charge](https://static.openfintech.io/payment_providers/2000charge/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -23,18 +23,18 @@
 
 ### Logo 
  
-![2000charge](https://static.openfintech.io/payment_providers/2000charge/logo.svg?w=400&c=v0.59.26#w100)  
+![2000charge](https://static.openfintech.io/payment_providers/2000charge/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/2000charge/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/2000charge/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![2000charge](https://static.openfintech.io/payment_providers/2000charge/icon.svg?w=278&c=v0.59.26#w100)  
+![2000charge](https://static.openfintech.io/payment_providers/2000charge/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/2000charge/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/2000charge/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -43,20 +43,20 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![jcb](https://static.openfintech.io/payment_methods/jcb/icon.svg?w=278&c=v0.59.26#w100) |[jcb](/payment-methods/jcb/)|`jcb`| 
-|![cartebleue](https://static.openfintech.io/payment_methods/cartebleue/icon.svg?w=278&c=v0.59.26#w100) |[cartebleue](/payment-methods/cartebleue/)|`cartebleue`| 
+|![jcb](https://static.openfintech.io/payment_methods/jcb/icon.png?w=278&c=v0.59.26#w100) |[jcb](/payment-methods/jcb/)|`jcb`| 
+|![cartebleue](https://static.openfintech.io/payment_methods/cartebleue/icon.png?w=278&c=v0.59.26#w100) |[cartebleue](/payment-methods/cartebleue/)|`cartebleue`| 
 |![dinersclub](https://static.openfintech.io/payment_methods/dinersclub/icon.svg?w=278&c=v0.59.26#w100) |[dinersclub](/payment-methods/dinersclub/)|`dinersclub`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
 |![maestro](https://static.openfintech.io/payment_methods/maestro/icon.svg?w=278&c=v0.59.26#w100) |[maestro](/payment-methods/maestro/)|`maestro`| 
 |![discover](https://static.openfintech.io/payment_methods/discover/icon.svg?w=278&c=v0.59.26#w100) |[discover](/payment-methods/discover/)|`discover`| 
 |![chinaunionpay](https://static.openfintech.io/payment_methods/chinaunionpay/icon.svg?w=278&c=v0.59.26#w100) |[chinaunionpay](/payment-methods/chinaunionpay/)|`chinaunionpay`| 
-|![papercheck](https://static.openfintech.io/payment_methods/papercheck/icon.svg?w=278&c=v0.59.26#w100) |[papercheck](/payment-methods/papercheck/)|`papercheck`| 
-|![elektronischeslastschriftverfahren](https://static.openfintech.io/payment_methods/elektronischeslastschriftverfahren/icon.svg?w=278&c=v0.59.26#w100) |[elektronischeslastschriftverfahren](/payment-methods/elektronischeslastschriftverfahren/)|`elektronischeslastschriftverfahren`| 
-|![interac](https://static.openfintech.io/payment_methods/interac/icon.svg?w=278&c=v0.59.26#w100) |[interac](/payment-methods/interac/)|`interac`| 
-|![electroniccheckach](https://static.openfintech.io/payment_methods/electroniccheckach/icon.svg?w=278&c=v0.59.26#w100) |[electroniccheckach](/payment-methods/electroniccheckach/)|`electroniccheckach`| 
+|![papercheck](https://static.openfintech.io/payment_methods/papercheck/icon.png?w=278&c=v0.59.26#w100) |[papercheck](/payment-methods/papercheck/)|`papercheck`| 
+|![elektronischeslastschriftverfahren](https://static.openfintech.io/payment_methods/elektronischeslastschriftverfahren/icon.png?w=278&c=v0.59.26#w100) |[elektronischeslastschriftverfahren](/payment-methods/elektronischeslastschriftverfahren/)|`elektronischeslastschriftverfahren`| 
+|![interac](https://static.openfintech.io/payment_methods/interac/icon.png?w=278&c=v0.59.26#w100) |[interac](/payment-methods/interac/)|`interac`| 
+|![electroniccheckach](https://static.openfintech.io/payment_methods/electroniccheckach/icon.png?w=278&c=v0.59.26#w100) |[electroniccheckach](/payment-methods/electroniccheckach/)|`electroniccheckach`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin](/payment-methods/bitcoin/)|`bitcoin`| 
 |![giropay](https://static.openfintech.io/payment_methods/giropay/icon.svg?w=278&c=v0.59.26#w100) |[giropay](/payment-methods/giropay/)|`giropay`| 
-|![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.svg?w=278&c=v0.59.26#w100) |[przelewy24](/payment-methods/przelewy24/)|`przelewy24`| 
+|![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.png?w=278&c=v0.59.26#w100) |[przelewy24](/payment-methods/przelewy24/)|`przelewy24`| 
  
 
 ## JSON Object 

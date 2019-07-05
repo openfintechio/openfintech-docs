@@ -1,6 +1,6 @@
 
 # NetPay 
-![netpay](https://static.openfintech.io/vendors/netpay/logo.svg?w=400&c=v0.59.26#w200)  
+![netpay](https://static.openfintech.io/vendors/netpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  4 Royal London Park, Flanders Road, Hedge EndSO30 2LG SouthamptonUnited
 
 ### Logo 
  
-![netpay](https://static.openfintech.io/vendors/netpay/logo.svg?w=400&c=v0.59.26#w200)  
+![netpay](https://static.openfintech.io/vendors/netpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/netpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/netpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![netpay](https://static.openfintech.io/vendors/netpay/icon.svg?w=278&c=v0.59.26#w100)  
+![netpay](https://static.openfintech.io/vendors/netpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/netpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/netpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

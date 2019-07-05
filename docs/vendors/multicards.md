@@ -1,6 +1,6 @@
 
 # MultiCards Internet Billing 
-![multicards](https://static.openfintech.io/vendors/multicards/logo.svg?w=400&c=v0.59.26#w200)  
+![multicards](https://static.openfintech.io/vendors/multicards/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  Le Havre 775627 SV EindhovenNBNetherlands
 
 ### Logo 
  
-![multicards](https://static.openfintech.io/vendors/multicards/logo.svg?w=400&c=v0.59.26#w200)  
+![multicards](https://static.openfintech.io/vendors/multicards/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/multicards/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/multicards/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![multicards](https://static.openfintech.io/vendors/multicards/icon.svg?w=278&c=v0.59.26#w100)  
+![multicards](https://static.openfintech.io/vendors/multicards/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/multicards/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/multicards/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Moip 
-![moip](https://static.openfintech.io/payment_providers/moip/logo.svg?w=400&c=v0.59.26#w100)  
+![moip](https://static.openfintech.io/payment_providers/moip/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![moip](https://static.openfintech.io/payment_providers/moip/logo.svg?w=400&c=v0.59.26#w100)  
+![moip](https://static.openfintech.io/payment_providers/moip/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/moip/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/moip/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![moip](https://static.openfintech.io/payment_providers/moip/icon.svg?w=278&c=v0.59.26#w100)  
+![moip](https://static.openfintech.io/payment_providers/moip/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/moip/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/moip/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

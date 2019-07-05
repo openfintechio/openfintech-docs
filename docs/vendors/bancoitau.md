@@ -1,6 +1,6 @@
 
 # Banco Itaú 
-![bancoitau](https://static.openfintech.io/vendors/bancoitau/logo.svg?w=400&c=v0.59.26#w200)  
+![bancoitau](https://static.openfintech.io/vendors/bancoitau/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![bancoitau](https://static.openfintech.io/vendors/bancoitau/logo.svg?w=400&c=v0.59.26#w200)  
+![bancoitau](https://static.openfintech.io/vendors/bancoitau/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/bancoitau/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/bancoitau/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![bancoitau](https://static.openfintech.io/vendors/bancoitau/icon.svg?w=278&c=v0.59.26#w100)  
+![bancoitau](https://static.openfintech.io/vendors/bancoitau/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/bancoitau/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/bancoitau/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

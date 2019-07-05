@@ -1,6 +1,6 @@
 
 # Aduno 
-![aduno](https://static.openfintech.io/vendors/aduno/logo.svg?w=400&c=v0.59.26#w200)  
+![aduno](https://static.openfintech.io/vendors/aduno/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  Via Argine 5CH-6930 BedanoSwitzerland
 
 ### Logo 
  
-![aduno](https://static.openfintech.io/vendors/aduno/logo.svg?w=400&c=v0.59.26#w200)  
+![aduno](https://static.openfintech.io/vendors/aduno/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/aduno/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/aduno/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![aduno](https://static.openfintech.io/vendors/aduno/icon.svg?w=278&c=v0.59.26#w100)  
+![aduno](https://static.openfintech.io/vendors/aduno/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/aduno/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/aduno/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

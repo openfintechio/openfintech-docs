@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _XBYTE_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![xbyte](https://static.openfintech.io/payout_methods/xbyte/icon.svg?w=278&c=v0.59.26#w40) |[xbyte_uah](/payout-services/xbyte_uah/)|`xbyte_uah`| 
+|![xbyte](https://static.openfintech.io/payout_methods/xbyte/icon.png?w=278&c=v0.59.26#w40) |[xbyte_uah](/payout-services/xbyte_uah/)|`xbyte_uah`| 
  
 
 ## JSON Object 

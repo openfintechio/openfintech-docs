@@ -1,6 +1,6 @@
 
 # V PAY 
-![vpay](https://static.openfintech.io/vendors/vpay/logo.svg?w=400&c=v0.59.26#w200)  
+![vpay](https://static.openfintech.io/vendors/vpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![vpay](https://static.openfintech.io/vendors/vpay/logo.svg?w=400&c=v0.59.26#w200)  
+![vpay](https://static.openfintech.io/vendors/vpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/vpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/vpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![vpay](https://static.openfintech.io/vendors/vpay/icon.svg?w=278&c=v0.59.26#w100)  
+![vpay](https://static.openfintech.io/vendors/vpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/vpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/vpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

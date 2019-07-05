@@ -1,6 +1,6 @@
 
 # PostFinance 
-![postfinance](https://static.openfintech.io/vendors/postfinance/logo.svg?w=400&c=v0.59.26#w200)  
+![postfinance](https://static.openfintech.io/vendors/postfinance/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  BernSwitzerland
 
 ### Logo 
  
-![postfinance](https://static.openfintech.io/vendors/postfinance/logo.svg?w=400&c=v0.59.26#w200)  
+![postfinance](https://static.openfintech.io/vendors/postfinance/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/postfinance/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/postfinance/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![postfinance](https://static.openfintech.io/vendors/postfinance/icon.svg?w=278&c=v0.59.26#w100)  
+![postfinance](https://static.openfintech.io/vendors/postfinance/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/postfinance/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/postfinance/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

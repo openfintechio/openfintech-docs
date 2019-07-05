@@ -1,6 +1,6 @@
 
 # Portmone.com 
-![portmone](https://static.openfintech.io/vendors/portmone/logo.svg?w=400&c=v0.59.26#w200)  
+![portmone](https://static.openfintech.io/vendors/portmone/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  1–3 Severo-Syretskaya St04136 KievUkraine
 
 ### Logo 
  
-![portmone](https://static.openfintech.io/vendors/portmone/logo.svg?w=400&c=v0.59.26#w200)  
+![portmone](https://static.openfintech.io/vendors/portmone/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/portmone/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/portmone/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![portmone](https://static.openfintech.io/vendors/portmone/icon.svg?w=278&c=v0.59.26#w100)  
+![portmone](https://static.openfintech.io/vendors/portmone/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/portmone/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/portmone/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

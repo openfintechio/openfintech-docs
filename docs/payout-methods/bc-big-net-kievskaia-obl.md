@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _BC Big.Net (Kyiv 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bc-big-net-kievskaia-obl](https://static.openfintech.io/payout_methods/bc-big-net-kievskaia-obl/icon.svg?w=278&c=v0.59.26#w40) |[bc-big-net-kievskaia-obl_uah](/payout-services/bc-big-net-kievskaia-obl_uah/)|`bc-big-net-kievskaia-obl_uah`| 
+|![bc-big-net-kievskaia-obl](https://static.openfintech.io/payout_methods/bc-big-net-kievskaia-obl/icon.png?w=278&c=v0.59.26#w40) |[bc-big-net-kievskaia-obl_uah](/payout-services/bc-big-net-kievskaia-obl_uah/)|`bc-big-net-kievskaia-obl_uah`| 
  
 
 ## JSON Object 

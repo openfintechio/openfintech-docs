@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Homenet (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![homenet-kiev](https://static.openfintech.io/payout_methods/homenet-kiev/icon.svg?w=278&c=v0.59.26#w40) |[homenet-kiev_uah](/payout-services/homenet-kiev_uah/)|`homenet-kiev_uah`| 
+|![homenet-kiev](https://static.openfintech.io/payout_methods/homenet-kiev/icon.png?w=278&c=v0.59.26#w40) |[homenet-kiev_uah](/payout-services/homenet-kiev_uah/)|`homenet-kiev_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Mobivi 
-![mobivi](https://static.openfintech.io/vendors/mobivi/logo.svg?w=400&c=v0.59.26#w200)  
+![mobivi](https://static.openfintech.io/vendors/mobivi/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Viet Nam
 
 ### Logo 
  
-![mobivi](https://static.openfintech.io/vendors/mobivi/logo.svg?w=400&c=v0.59.26#w200)  
+![mobivi](https://static.openfintech.io/vendors/mobivi/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/mobivi/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/mobivi/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![mobivi](https://static.openfintech.io/vendors/mobivi/icon.svg?w=278&c=v0.59.26#w100)  
+![mobivi](https://static.openfintech.io/vendors/mobivi/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/mobivi/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/mobivi/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

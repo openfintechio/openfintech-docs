@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Undernet_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![undernet](https://static.openfintech.io/payout_methods/undernet/icon.svg?w=278&c=v0.59.26#w40) |[undernet_uah](/payout-services/undernet_uah/)|`undernet_uah`| 
+|![undernet](https://static.openfintech.io/payout_methods/undernet/icon.png?w=278&c=v0.59.26#w40) |[undernet_uah](/payout-services/undernet_uah/)|`undernet_uah`| 
  
 
 ## JSON Object 

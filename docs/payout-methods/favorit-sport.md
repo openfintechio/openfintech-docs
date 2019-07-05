@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Favorite Sport_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![favorit-sport](https://static.openfintech.io/payout_methods/favorit-sport/icon.svg?w=278&c=v0.59.26#w40) |[favorit-sport_uah](/payout-services/favorit-sport_uah/)|`favorit-sport_uah`| 
+|![favorit-sport](https://static.openfintech.io/payout_methods/favorit-sport/icon.png?w=278&c=v0.59.26#w40) |[favorit-sport_uah](/payout-services/favorit-sport_uah/)|`favorit-sport_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Pay.nl 
-![paynl](https://static.openfintech.io/vendors/paynl/logo.svg?w=400&c=v0.59.26#w200)  
+![paynl](https://static.openfintech.io/vendors/paynl/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Voorstraat 23200 AH SpijkenisseNetherlands
 
 ### Logo 
  
-![paynl](https://static.openfintech.io/vendors/paynl/logo.svg?w=400&c=v0.59.26#w200)  
+![paynl](https://static.openfintech.io/vendors/paynl/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paynl/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paynl/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paynl](https://static.openfintech.io/vendors/paynl/icon.svg?w=278&c=v0.59.26#w100)  
+![paynl](https://static.openfintech.io/vendors/paynl/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paynl/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paynl/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

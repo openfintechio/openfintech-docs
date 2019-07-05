@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Vikings_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![vikingi](https://static.openfintech.io/payout_methods/vikingi/icon.svg?w=278&c=v0.59.26#w40) |[vikingi_uah](/payout-services/vikingi_uah/)|`vikingi_uah`| 
+|![vikingi](https://static.openfintech.io/payout_methods/vikingi/icon.png?w=278&c=v0.59.26#w40) |[vikingi_uah](/payout-services/vikingi_uah/)|`vikingi_uah`| 
  
 
 ## JSON Object 

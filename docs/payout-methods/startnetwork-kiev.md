@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _STARTNETWORK (Kie
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![startnetwork-kiev](https://static.openfintech.io/payout_methods/startnetwork-kiev/icon.svg?w=278&c=v0.59.26#w40) |[startnetwork-kiev_uah](/payout-services/startnetwork-kiev_uah/)|`startnetwork-kiev_uah`| 
+|![startnetwork-kiev](https://static.openfintech.io/payout_methods/startnetwork-kiev/icon.png?w=278&c=v0.59.26#w40) |[startnetwork-kiev_uah](/payout-services/startnetwork-kiev_uah/)|`startnetwork-kiev_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Solid Payments 
-![solidpayments](https://static.openfintech.io/vendors/solidpayments/logo.svg?w=400&c=v0.59.26#w200)  
+![solidpayments](https://static.openfintech.io/vendors/solidpayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Gibraltar
 
 ### Logo 
  
-![solidpayments](https://static.openfintech.io/vendors/solidpayments/logo.svg?w=400&c=v0.59.26#w200)  
+![solidpayments](https://static.openfintech.io/vendors/solidpayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/solidpayments/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/solidpayments/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![solidpayments](https://static.openfintech.io/vendors/solidpayments/icon.svg?w=278&c=v0.59.26#w100)  
+![solidpayments](https://static.openfintech.io/vendors/solidpayments/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/solidpayments/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/solidpayments/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _LAN TRACE (Kiev r
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![lan-trace-kievskaia-oblast](https://static.openfintech.io/payout_methods/lan-trace-kievskaia-oblast/icon.svg?w=278&c=v0.59.26#w40) |[lan-trace-kievskaia-oblast_uah](/payout-services/lan-trace-kievskaia-oblast_uah/)|`lan-trace-kievskaia-oblast_uah`| 
+|![lan-trace-kievskaia-oblast](https://static.openfintech.io/payout_methods/lan-trace-kievskaia-oblast/icon.png?w=278&c=v0.59.26#w40) |[lan-trace-kievskaia-oblast_uah](/payout-services/lan-trace-kievskaia-oblast_uah/)|`lan-trace-kievskaia-oblast_uah`| 
  
 
 ## JSON Object 

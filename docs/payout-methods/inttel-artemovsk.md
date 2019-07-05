@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _INTTEL (Artyomovs
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![inttel-artemovsk](https://static.openfintech.io/payout_methods/inttel-artemovsk/icon.svg?w=278&c=v0.59.26#w40) |[inttel-artemovsk_uah](/payout-services/inttel-artemovsk_uah/)|`inttel-artemovsk_uah`| 
+|![inttel-artemovsk](https://static.openfintech.io/payout_methods/inttel-artemovsk/icon.png?w=278&c=v0.59.26#w40) |[inttel-artemovsk_uah](/payout-services/inttel-artemovsk_uah/)|`inttel-artemovsk_uah`| 
  
 
 ## JSON Object 

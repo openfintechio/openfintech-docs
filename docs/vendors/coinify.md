@@ -1,6 +1,6 @@
 
 # Coinify 
-![coinify](https://static.openfintech.io/vendors/coinify/logo.svg?w=400&c=v0.59.26#w200)  
+![coinify](https://static.openfintech.io/vendors/coinify/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Herlev Hovedgade 15B, 1. 2730 HerlevGreater CopenhagenDenmark
 
 ### Logo 
  
-![coinify](https://static.openfintech.io/vendors/coinify/logo.svg?w=400&c=v0.59.26#w200)  
+![coinify](https://static.openfintech.io/vendors/coinify/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/coinify/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/coinify/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![coinify](https://static.openfintech.io/vendors/coinify/icon.svg?w=278&c=v0.59.26#w100)  
+![coinify](https://static.openfintech.io/vendors/coinify/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/coinify/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/coinify/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

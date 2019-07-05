@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Prosto_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![prosto](https://static.openfintech.io/payout_methods/prosto/icon.svg?w=278&c=v0.59.26#w40) |[prosto_uah](/payout-services/prosto_uah/)|`prosto_uah`| 
+|![prosto](https://static.openfintech.io/payout_methods/prosto/icon.png?w=278&c=v0.59.26#w40) |[prosto_uah](/payout-services/prosto_uah/)|`prosto_uah`| 
  
 
 ## JSON Object 

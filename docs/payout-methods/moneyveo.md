@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _MoneyVeo_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![moneyveo](https://static.openfintech.io/payout_methods/moneyveo/icon.svg?w=278&c=v0.59.26#w40) |[moneyveo_uah](/payout-services/moneyveo_uah/)|`moneyveo_uah`| 
+|![moneyveo](https://static.openfintech.io/payout_methods/moneyveo/icon.png?w=278&c=v0.59.26#w40) |[moneyveo_uah](/payout-services/moneyveo_uah/)|`moneyveo_uah`| 
  
 
 ## JSON Object 

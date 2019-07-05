@@ -1,6 +1,6 @@
 
 # Entercash 
-![entercash](https://static.openfintech.io/vendors/entercash/logo.svg?w=400&c=v0.59.26#w200)  
+![entercash](https://static.openfintech.io/vendors/entercash/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  11123 Sweden
 
 ### Logo 
  
-![entercash](https://static.openfintech.io/vendors/entercash/logo.svg?w=400&c=v0.59.26#w200)  
+![entercash](https://static.openfintech.io/vendors/entercash/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/entercash/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/entercash/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![entercash](https://static.openfintech.io/vendors/entercash/icon.svg?w=278&c=v0.59.26#w100)  
+![entercash](https://static.openfintech.io/vendors/entercash/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/entercash/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/entercash/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

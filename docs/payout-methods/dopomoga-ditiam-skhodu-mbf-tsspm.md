@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Help for Children
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![dopomoga-ditiam-skhodu-mbf-tsspm](https://static.openfintech.io/payout_methods/dopomoga-ditiam-skhodu-mbf-tsspm/icon.svg?w=278&c=v0.59.26#w40) |[dopomoga-ditiam-skhodu-mbf-tsspm_uah](/payout-services/dopomoga-ditiam-skhodu-mbf-tsspm_uah/)|`dopomoga-ditiam-skhodu-mbf-tsspm_uah`| 
+|![dopomoga-ditiam-skhodu-mbf-tsspm](https://static.openfintech.io/payout_methods/dopomoga-ditiam-skhodu-mbf-tsspm/icon.png?w=278&c=v0.59.26#w40) |[dopomoga-ditiam-skhodu-mbf-tsspm_uah](/payout-services/dopomoga-ditiam-skhodu-mbf-tsspm_uah/)|`dopomoga-ditiam-skhodu-mbf-tsspm_uah`| 
  
 
 ## JSON Object 

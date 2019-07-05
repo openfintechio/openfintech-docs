@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Economy (Bor
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-ekonom-borispol](https://static.openfintech.io/payout_methods/taksi-ekonom-borispol/icon.svg?w=278&c=v0.59.26#w40) |[taksi-ekonom-borispol_uah](/payout-services/taksi-ekonom-borispol_uah/)|`taksi-ekonom-borispol_uah`| 
+|![taksi-ekonom-borispol](https://static.openfintech.io/payout_methods/taksi-ekonom-borispol/icon.png?w=278&c=v0.59.26#w40) |[taksi-ekonom-borispol_uah](/payout-services/taksi-ekonom-borispol_uah/)|`taksi-ekonom-borispol_uah`| 
  
 
 ## JSON Object 

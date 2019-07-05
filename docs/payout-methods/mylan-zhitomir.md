@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Mylan (Zhytomyr)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![mylan-zhitomir](https://static.openfintech.io/payout_methods/mylan-zhitomir/icon.svg?w=278&c=v0.59.26#w40) |[mylan-zhitomir_uah](/payout-services/mylan-zhitomir_uah/)|`mylan-zhitomir_uah`| 
+|![mylan-zhitomir](https://static.openfintech.io/payout_methods/mylan-zhitomir/icon.png?w=278&c=v0.59.26#w40) |[mylan-zhitomir_uah](/payout-services/mylan-zhitomir_uah/)|`mylan-zhitomir_uah`| 
  
 
 ## JSON Object 

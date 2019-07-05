@@ -1,6 +1,6 @@
 
 # Paymate 
-![paymate](https://static.openfintech.io/vendors/paymate/logo.svg?w=400&c=v0.59.26#w200)  
+![paymate](https://static.openfintech.io/vendors/paymate/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Australia
 
 ### Logo 
  
-![paymate](https://static.openfintech.io/vendors/paymate/logo.svg?w=400&c=v0.59.26#w200)  
+![paymate](https://static.openfintech.io/vendors/paymate/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paymate/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paymate/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paymate](https://static.openfintech.io/vendors/paymate/icon.svg?w=278&c=v0.59.26#w100)  
+![paymate](https://static.openfintech.io/vendors/paymate/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paymate/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paymate/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

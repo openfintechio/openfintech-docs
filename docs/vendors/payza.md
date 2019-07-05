@@ -1,6 +1,6 @@
 
 # Payza 
-![payza](https://static.openfintech.io/vendors/payza/logo.svg?w=400&c=v0.59.26#w200)  
+![payza](https://static.openfintech.io/vendors/payza/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  LondonUnited Kingdom
 
 ### Logo 
  
-![payza](https://static.openfintech.io/vendors/payza/logo.svg?w=400&c=v0.59.26#w200)  
+![payza](https://static.openfintech.io/vendors/payza/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payza/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payza/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payza](https://static.openfintech.io/vendors/payza/icon.svg?w=278&c=v0.59.26#w100)  
+![payza](https://static.openfintech.io/vendors/payza/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payza/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payza/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

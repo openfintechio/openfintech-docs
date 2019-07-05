@@ -1,6 +1,6 @@
 
 # mBank (mTransfer) 
-![mbank](https://static.openfintech.io/payment_methods/mbank/logo.svg?w=400&c=v0.59.26#w200)  
+![mbank](https://static.openfintech.io/payment_methods/mbank/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `mbank` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![mbank](https://static.openfintech.io/payment_methods/mbank/logo.svg?w=400&c=v0.59.26#w200)  
+![mbank](https://static.openfintech.io/payment_methods/mbank/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/mbank/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/mbank/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![mbank](https://static.openfintech.io/payment_methods/mbank/icon.svg?w=278&c=v0.59.26#w100)  
+![mbank](https://static.openfintech.io/payment_methods/mbank/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/mbank/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/mbank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,9 +43,9 @@ The list of [Payment Providers](/payment-providers/) that support the _mBank (mT
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.svg?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
+|![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
-|![faspay](https://static.openfintech.io/payment_providers/faspay/icon.svg?w=278&c=v0.59.26#w100) |[Faspay](/payment-providers/faspay/)|`faspay`| 
+|![faspay](https://static.openfintech.io/payment_providers/faspay/icon.png?w=278&c=v0.59.26#w100) |[Faspay](/payment-providers/faspay/)|`faspay`| 
  
 
 ## JSON Object 

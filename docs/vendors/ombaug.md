@@ -1,6 +1,6 @@
 
 # omba 
-![ombaug](https://static.openfintech.io/vendors/ombaug/logo.svg?w=400&c=v0.59.26#w200)  
+![ombaug](https://static.openfintech.io/vendors/ombaug/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Eupener Str. 74 Germany
 
 ### Logo 
  
-![ombaug](https://static.openfintech.io/vendors/ombaug/logo.svg?w=400&c=v0.59.26#w200)  
+![ombaug](https://static.openfintech.io/vendors/ombaug/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ombaug/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ombaug/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ombaug](https://static.openfintech.io/vendors/ombaug/icon.svg?w=278&c=v0.59.26#w100)  
+![ombaug](https://static.openfintech.io/vendors/ombaug/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ombaug/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ombaug/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

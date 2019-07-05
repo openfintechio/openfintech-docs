@@ -1,6 +1,6 @@
 
 # Computop 
-![computop](https://static.openfintech.io/vendors/computop/logo.svg?w=400&c=v0.59.26#w200)  
+![computop](https://static.openfintech.io/vendors/computop/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  Bamberg96050 BambergGermany
 
 ### Logo 
  
-![computop](https://static.openfintech.io/vendors/computop/logo.svg?w=400&c=v0.59.26#w200)  
+![computop](https://static.openfintech.io/vendors/computop/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/computop/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/computop/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![computop](https://static.openfintech.io/vendors/computop/icon.svg?w=278&c=v0.59.26#w100)  
+![computop](https://static.openfintech.io/vendors/computop/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/computop/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/computop/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _NTK-PROVIDER (Iva
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ntk-provaider-ivano-frankivska-obl](https://static.openfintech.io/payout_methods/ntk-provaider-ivano-frankivska-obl/icon.svg?w=278&c=v0.59.26#w40) |[ntk-provaider-ivano-frankivska-obl_uah](/payout-services/ntk-provaider-ivano-frankivska-obl_uah/)|`ntk-provaider-ivano-frankivska-obl_uah`| 
+|![ntk-provaider-ivano-frankivska-obl](https://static.openfintech.io/payout_methods/ntk-provaider-ivano-frankivska-obl/icon.png?w=278&c=v0.59.26#w40) |[ntk-provaider-ivano-frankivska-obl_uah](/payout-services/ntk-provaider-ivano-frankivska-obl_uah/)|`ntk-provaider-ivano-frankivska-obl_uah`| 
  
 
 ## JSON Object 

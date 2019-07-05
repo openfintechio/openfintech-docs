@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Bezlimit.net_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bezlimit-net](https://static.openfintech.io/payout_methods/bezlimit-net/icon.svg?w=278&c=v0.59.26#w40) |[bezlimit-net_uah](/payout-services/bezlimit-net_uah/)|`bezlimit-net_uah`| 
+|![bezlimit-net](https://static.openfintech.io/payout_methods/bezlimit-net/icon.png?w=278&c=v0.59.26#w40) |[bezlimit-net_uah](/payout-services/bezlimit-net_uah/)|`bezlimit-net_uah`| 
  
 
 ## JSON Object 

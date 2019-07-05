@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Triolan Wi-Fi_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![triolan-wi-fi](https://static.openfintech.io/payout_methods/triolan-wi-fi/icon.svg?w=278&c=v0.59.26#w40) |[triolan-wi-fi_uah](/payout-services/triolan-wi-fi_uah/)|`triolan-wi-fi_uah`| 
+|![triolan-wi-fi](https://static.openfintech.io/payout_methods/triolan-wi-fi/icon.png?w=278&c=v0.59.26#w40) |[triolan-wi-fi_uah](/payout-services/triolan-wi-fi_uah/)|`triolan-wi-fi_uah`| 
  
 
 ## JSON Object 

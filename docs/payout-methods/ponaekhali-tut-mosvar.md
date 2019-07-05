@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Have come here (M
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ponaekhali-tut-mosvar](https://static.openfintech.io/payout_methods/ponaekhali-tut-mosvar/icon.svg?w=278&c=v0.59.26#w40) |[ponaekhali-tut-mosvar_uah](/payout-services/ponaekhali-tut-mosvar_uah/)|`ponaekhali-tut-mosvar_uah`| 
+|![ponaekhali-tut-mosvar](https://static.openfintech.io/payout_methods/ponaekhali-tut-mosvar/icon.png?w=278&c=v0.59.26#w40) |[ponaekhali-tut-mosvar_uah](/payout-services/ponaekhali-tut-mosvar_uah/)|`ponaekhali-tut-mosvar_uah`| 
  
 
 ## JSON Object 

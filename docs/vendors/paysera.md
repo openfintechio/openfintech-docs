@@ -1,6 +1,6 @@
 
 # Paysera LT 
-![paysera](https://static.openfintech.io/vendors/paysera/logo.svg?w=400&c=v0.59.26#w200)  
+![paysera](https://static.openfintech.io/vendors/paysera/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Menulio st. 704326 VilniusLithuania
 
 ### Logo 
  
-![paysera](https://static.openfintech.io/vendors/paysera/logo.svg?w=400&c=v0.59.26#w200)  
+![paysera](https://static.openfintech.io/vendors/paysera/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paysera/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paysera/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paysera](https://static.openfintech.io/vendors/paysera/icon.svg?w=278&c=v0.59.26#w100)  
+![paysera](https://static.openfintech.io/vendors/paysera/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paysera/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paysera/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

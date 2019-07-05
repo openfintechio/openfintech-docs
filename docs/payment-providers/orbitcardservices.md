@@ -1,6 +1,6 @@
 
 # Orbit Card Services 
-![orbitcardservices](https://static.openfintech.io/payment_providers/orbitcardservices/logo.svg?w=400&c=v0.59.26#w100)  
+![orbitcardservices](https://static.openfintech.io/payment_providers/orbitcardservices/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![orbitcardservices](https://static.openfintech.io/payment_providers/orbitcardservices/logo.svg?w=400&c=v0.59.26#w100)  
+![orbitcardservices](https://static.openfintech.io/payment_providers/orbitcardservices/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/orbitcardservices/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/orbitcardservices/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![orbitcardservices](https://static.openfintech.io/payment_providers/orbitcardservices/icon.svg?w=278&c=v0.59.26#w100)  
+![orbitcardservices](https://static.openfintech.io/payment_providers/orbitcardservices/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/orbitcardservices/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/orbitcardservices/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

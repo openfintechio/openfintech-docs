@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Maestro (Kie
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-maestro-kiev](https://static.openfintech.io/payout_methods/taksi-maestro-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-maestro-kiev_uah](/payout-services/taksi-maestro-kiev_uah/)|`taksi-maestro-kiev_uah`| 
+|![taksi-maestro-kiev](https://static.openfintech.io/payout_methods/taksi-maestro-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-maestro-kiev_uah](/payout-services/taksi-maestro-kiev_uah/)|`taksi-maestro-kiev_uah`| 
  
 
 ## JSON Object 

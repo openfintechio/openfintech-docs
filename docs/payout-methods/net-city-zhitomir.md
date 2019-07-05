@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Net-City (Zhytomy
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![net-city-zhitomir](https://static.openfintech.io/payout_methods/net-city-zhitomir/icon.svg?w=278&c=v0.59.26#w40) |[net-city-zhitomir_uah](/payout-services/net-city-zhitomir_uah/)|`net-city-zhitomir_uah`| 
+|![net-city-zhitomir](https://static.openfintech.io/payout_methods/net-city-zhitomir/icon.png?w=278&c=v0.59.26#w40) |[net-city-zhitomir_uah](/payout-services/net-city-zhitomir_uah/)|`net-city-zhitomir_uah`| 
  
 
 ## JSON Object 

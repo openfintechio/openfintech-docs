@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Avangard Bank_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![avangard_bank](https://static.openfintech.io/payout_methods/avangard_bank/icon.svg?w=278&c=v0.59.26#w40) |[avangard_bank_rub](/payout-services/avangard_bank_rub/)|`avangard_bank_rub`| 
+|![avangard_bank](https://static.openfintech.io/payout_methods/avangard_bank/icon.png?w=278&c=v0.59.26#w40) |[avangard_bank_rub](/payout-services/avangard_bank_rub/)|`avangard_bank_rub`| 
  
 
 ## JSON Object 

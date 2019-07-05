@@ -1,6 +1,6 @@
 
 # Paymento SA 
-![paymento](https://static.openfintech.io/vendors/paymento/logo.svg?w=400&c=v0.59.26#w200)  
+![paymento](https://static.openfintech.io/vendors/paymento/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Szkolna 43 Street43-100 TychyPoland
 
 ### Logo 
  
-![paymento](https://static.openfintech.io/vendors/paymento/logo.svg?w=400&c=v0.59.26#w200)  
+![paymento](https://static.openfintech.io/vendors/paymento/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paymento/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paymento/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paymento](https://static.openfintech.io/vendors/paymento/icon.svg?w=278&c=v0.59.26#w100)  
+![paymento](https://static.openfintech.io/vendors/paymento/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paymento/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paymento/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

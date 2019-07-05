@@ -1,6 +1,6 @@
 
 # Text2Pay 
-![text2pay](https://static.openfintech.io/payment_providers/text2pay/logo.svg?w=400&c=v0.59.26#w100)  
+![text2pay](https://static.openfintech.io/payment_providers/text2pay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![text2pay](https://static.openfintech.io/payment_providers/text2pay/logo.svg?w=400&c=v0.59.26#w100)  
+![text2pay](https://static.openfintech.io/payment_providers/text2pay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/text2pay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/text2pay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![text2pay](https://static.openfintech.io/payment_providers/text2pay/icon.svg?w=278&c=v0.59.26#w100)  
+![text2pay](https://static.openfintech.io/payment_providers/text2pay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/text2pay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/text2pay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

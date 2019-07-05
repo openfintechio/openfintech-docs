@@ -1,6 +1,6 @@
 
 # Bank Link 
-![banklink](https://static.openfintech.io/payment_methods/banklink/logo.svg?w=400&c=v0.59.26#w200)  
+![banklink](https://static.openfintech.io/payment_methods/banklink/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `banklink` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![banklink](https://static.openfintech.io/payment_methods/banklink/logo.svg?w=400&c=v0.59.26#w200)  
+![banklink](https://static.openfintech.io/payment_methods/banklink/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/banklink/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/banklink/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![banklink](https://static.openfintech.io/payment_methods/banklink/icon.svg?w=278&c=v0.59.26#w100)  
+![banklink](https://static.openfintech.io/payment_methods/banklink/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/banklink/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/banklink/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -44,9 +44,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Link
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![fondy](https://static.openfintech.io/payment_providers/fondy/icon.svg?w=278&c=v0.59.26#w100) |[FONDY](/payment-providers/fondy/)|`fondy`| 
-|![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.svg?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
-|![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.svg?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
+|![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.png?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
  
 
 ## JSON Object 

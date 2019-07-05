@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Interlan (Vyshgor
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![interlan-vishgorod](https://static.openfintech.io/payout_methods/interlan-vishgorod/icon.svg?w=278&c=v0.59.26#w40) |[interlan-vishgorod_uah](/payout-services/interlan-vishgorod_uah/)|`interlan-vishgorod_uah`| 
+|![interlan-vishgorod](https://static.openfintech.io/payout_methods/interlan-vishgorod/icon.png?w=278&c=v0.59.26#w40) |[interlan-vishgorod_uah](/payout-services/interlan-vishgorod_uah/)|`interlan-vishgorod_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # ICA-Banken 
-![icabanken](https://static.openfintech.io/payment_methods/icabanken/logo.svg?w=400&c=v0.59.26#w200)  
+![icabanken](https://static.openfintech.io/payment_methods/icabanken/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `icabanken` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![icabanken](https://static.openfintech.io/payment_methods/icabanken/logo.svg?w=400&c=v0.59.26#w200)  
+![icabanken](https://static.openfintech.io/payment_methods/icabanken/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/icabanken/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/icabanken/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![icabanken](https://static.openfintech.io/payment_methods/icabanken/icon.svg?w=278&c=v0.59.26#w100)  
+![icabanken](https://static.openfintech.io/payment_methods/icabanken/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/icabanken/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/icabanken/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

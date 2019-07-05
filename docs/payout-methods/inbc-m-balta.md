@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _INBC (m. Balta)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![inbc-m-balta](https://static.openfintech.io/payout_methods/inbc-m-balta/icon.svg?w=278&c=v0.59.26#w40) |[inbc-m-balta_uah](/payout-services/inbc-m-balta_uah/)|`inbc-m-balta_uah`| 
+|![inbc-m-balta](https://static.openfintech.io/payout_methods/inbc-m-balta/icon.png?w=278&c=v0.59.26#w40) |[inbc-m-balta_uah](/payout-services/inbc-m-balta_uah/)|`inbc-m-balta_uah`| 
  
 
 ## JSON Object 

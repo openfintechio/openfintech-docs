@@ -1,6 +1,6 @@
 
 # ePaymentsglobal.com 
-![epaymentsglobalcom](https://static.openfintech.io/vendors/epaymentsglobalcom/logo.svg?w=400&c=v0.59.26#w200)  
+![epaymentsglobalcom](https://static.openfintech.io/vendors/epaymentsglobalcom/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  India
 
 ### Logo 
  
-![epaymentsglobalcom](https://static.openfintech.io/vendors/epaymentsglobalcom/logo.svg?w=400&c=v0.59.26#w200)  
+![epaymentsglobalcom](https://static.openfintech.io/vendors/epaymentsglobalcom/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/epaymentsglobalcom/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/epaymentsglobalcom/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![epaymentsglobalcom](https://static.openfintech.io/vendors/epaymentsglobalcom/icon.svg?w=278&c=v0.59.26#w100)  
+![epaymentsglobalcom](https://static.openfintech.io/vendors/epaymentsglobalcom/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/epaymentsglobalcom/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/epaymentsglobalcom/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

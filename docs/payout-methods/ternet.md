@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Ternet_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ternet](https://static.openfintech.io/payout_methods/ternet/icon.svg?w=278&c=v0.59.26#w40) |[ternet_uah](/payout-services/ternet_uah/)|`ternet_uah`| 
+|![ternet](https://static.openfintech.io/payout_methods/ternet/icon.png?w=278&c=v0.59.26#w40) |[ternet_uah](/payout-services/ternet_uah/)|`ternet_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Realex Payments 
-![realexpayments](https://static.openfintech.io/payment_providers/realexpayments/logo.svg?w=400&c=v0.59.26#w100)  
+![realexpayments](https://static.openfintech.io/payment_providers/realexpayments/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![realexpayments](https://static.openfintech.io/payment_providers/realexpayments/logo.svg?w=400&c=v0.59.26#w100)  
+![realexpayments](https://static.openfintech.io/payment_providers/realexpayments/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/realexpayments/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/realexpayments/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![realexpayments](https://static.openfintech.io/payment_providers/realexpayments/icon.svg?w=278&c=v0.59.26#w100)  
+![realexpayments](https://static.openfintech.io/payment_providers/realexpayments/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/realexpayments/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/realexpayments/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

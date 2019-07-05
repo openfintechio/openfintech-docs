@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Home Telecom - Te
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![domashnii-telekom-telefoniia](https://static.openfintech.io/payout_methods/domashnii-telekom-telefoniia/icon.svg?w=278&c=v0.59.26#w40) |[domashnii-telekom-telefoniia_uah](/payout-services/domashnii-telekom-telefoniia_uah/)|`domashnii-telekom-telefoniia_uah`| 
+|![domashnii-telekom-telefoniia](https://static.openfintech.io/payout_methods/domashnii-telekom-telefoniia/icon.png?w=278&c=v0.59.26#w40) |[domashnii-telekom-telefoniia_uah](/payout-services/domashnii-telekom-telefoniia_uah/)|`domashnii-telekom-telefoniia_uah`| 
  
 
 ## JSON Object 

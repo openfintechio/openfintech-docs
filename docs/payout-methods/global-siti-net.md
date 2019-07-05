@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Global City No_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![global-siti-net](https://static.openfintech.io/payout_methods/global-siti-net/icon.svg?w=278&c=v0.59.26#w40) |[global-siti-net_uah](/payout-services/global-siti-net_uah/)|`global-siti-net_uah`| 
+|![global-siti-net](https://static.openfintech.io/payout_methods/global-siti-net/icon.png?w=278&c=v0.59.26#w40) |[global-siti-net_uah](/payout-services/global-siti-net_uah/)|`global-siti-net_uah`| 
  
 
 ## JSON Object 

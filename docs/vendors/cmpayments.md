@@ -1,6 +1,6 @@
 
 # CM Payments 
-![cmpayments](https://static.openfintech.io/vendors/cmpayments/logo.svg?w=400&c=v0.59.26#w200)  
+![cmpayments](https://static.openfintech.io/vendors/cmpayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  KONIJNENBERG 304825 BD BREDANetherlands
 
 ### Logo 
  
-![cmpayments](https://static.openfintech.io/vendors/cmpayments/logo.svg?w=400&c=v0.59.26#w200)  
+![cmpayments](https://static.openfintech.io/vendors/cmpayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/cmpayments/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/cmpayments/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![cmpayments](https://static.openfintech.io/vendors/cmpayments/icon.svg?w=278&c=v0.59.26#w100)  
+![cmpayments](https://static.openfintech.io/vendors/cmpayments/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/cmpayments/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/cmpayments/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

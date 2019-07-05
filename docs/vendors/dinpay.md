@@ -1,6 +1,6 @@
 
 # Dinpay 
-![dinpay](https://static.openfintech.io/vendors/dinpay/logo.svg?w=400&c=v0.59.26#w200)  
+![dinpay](https://static.openfintech.io/vendors/dinpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  17870 Castleton Street, Suite 32891748 City of IndustryCaliforniaUnited
 
 ### Logo 
  
-![dinpay](https://static.openfintech.io/vendors/dinpay/logo.svg?w=400&c=v0.59.26#w200)  
+![dinpay](https://static.openfintech.io/vendors/dinpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/dinpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/dinpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![dinpay](https://static.openfintech.io/vendors/dinpay/icon.svg?w=278&c=v0.59.26#w100)  
+![dinpay](https://static.openfintech.io/vendors/dinpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/dinpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/dinpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

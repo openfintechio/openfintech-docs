@@ -1,6 +1,6 @@
 
 # Circulo Payments 
-![circulopayments](https://static.openfintech.io/vendors/circulopayments/logo.svg?w=400&c=v0.59.26#w200)  
+![circulopayments](https://static.openfintech.io/vendors/circulopayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Brazil
 
 ### Logo 
  
-![circulopayments](https://static.openfintech.io/vendors/circulopayments/logo.svg?w=400&c=v0.59.26#w200)  
+![circulopayments](https://static.openfintech.io/vendors/circulopayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/circulopayments/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/circulopayments/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![circulopayments](https://static.openfintech.io/vendors/circulopayments/icon.svg?w=278&c=v0.59.26#w100)  
+![circulopayments](https://static.openfintech.io/vendors/circulopayments/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/circulopayments/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/circulopayments/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

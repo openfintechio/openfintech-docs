@@ -1,6 +1,6 @@
 
 # TNSPay 
-![tnspay](https://static.openfintech.io/payment_providers/tnspay/logo.svg?w=400&c=v0.59.26#w100)  
+![tnspay](https://static.openfintech.io/payment_providers/tnspay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![tnspay](https://static.openfintech.io/payment_providers/tnspay/logo.svg?w=400&c=v0.59.26#w100)  
+![tnspay](https://static.openfintech.io/payment_providers/tnspay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/tnspay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/tnspay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![tnspay](https://static.openfintech.io/payment_providers/tnspay/icon.svg?w=278&c=v0.59.26#w100)  
+![tnspay](https://static.openfintech.io/payment_providers/tnspay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/tnspay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/tnspay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

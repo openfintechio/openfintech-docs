@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _YASKRAVE TV (Arte
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![iaskrave-tv-artemovsk](https://static.openfintech.io/payout_methods/iaskrave-tv-artemovsk/icon.svg?w=278&c=v0.59.26#w40) |[iaskrave-tv-artemovsk_uah](/payout-services/iaskrave-tv-artemovsk_uah/)|`iaskrave-tv-artemovsk_uah`| 
+|![iaskrave-tv-artemovsk](https://static.openfintech.io/payout_methods/iaskrave-tv-artemovsk/icon.png?w=278&c=v0.59.26#w40) |[iaskrave-tv-artemovsk_uah](/payout-services/iaskrave-tv-artemovsk_uah/)|`iaskrave-tv-artemovsk_uah`| 
  
 
 ## JSON Object 

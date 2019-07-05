@@ -1,6 +1,6 @@
 
 # Nordea 
-![nordea](https://static.openfintech.io/vendors/nordea/logo.svg?w=400&c=v0.59.26#w200)  
+![nordea](https://static.openfintech.io/vendors/nordea/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![nordea](https://static.openfintech.io/vendors/nordea/logo.svg?w=400&c=v0.59.26#w200)  
+![nordea](https://static.openfintech.io/vendors/nordea/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/nordea/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/nordea/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![nordea](https://static.openfintech.io/vendors/nordea/icon.svg?w=278&c=v0.59.26#w100)  
+![nordea](https://static.openfintech.io/vendors/nordea/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/nordea/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/nordea/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

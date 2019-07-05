@@ -1,6 +1,6 @@
 
 # Globebill 
-![globebill](https://static.openfintech.io/vendors/globebill/logo.svg?w=400&c=v0.59.26#w200)  
+![globebill](https://static.openfintech.io/vendors/globebill/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  No.5 Science Park West Avenue, Hong Kong Science Park Hong Kong
 
 ### Logo 
  
-![globebill](https://static.openfintech.io/vendors/globebill/logo.svg?w=400&c=v0.59.26#w200)  
+![globebill](https://static.openfintech.io/vendors/globebill/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/globebill/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/globebill/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![globebill](https://static.openfintech.io/vendors/globebill/icon.svg?w=278&c=v0.59.26#w100)  
+![globebill](https://static.openfintech.io/vendors/globebill/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/globebill/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/globebill/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

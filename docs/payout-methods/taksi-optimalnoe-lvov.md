@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Optimal (Lvi
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-optimalnoe-lvov](https://static.openfintech.io/payout_methods/taksi-optimalnoe-lvov/icon.svg?w=278&c=v0.59.26#w40) |[taksi-optimalnoe-lvov_uah](/payout-services/taksi-optimalnoe-lvov_uah/)|`taksi-optimalnoe-lvov_uah`| 
+|![taksi-optimalnoe-lvov](https://static.openfintech.io/payout_methods/taksi-optimalnoe-lvov/icon.png?w=278&c=v0.59.26#w40) |[taksi-optimalnoe-lvov_uah](/payout-services/taksi-optimalnoe-lvov_uah/)|`taksi-optimalnoe-lvov_uah`| 
  
 
 ## JSON Object 

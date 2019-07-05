@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _War Thunder_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![war-thunder](https://static.openfintech.io/payout_methods/war-thunder/icon.svg?w=278&c=v0.59.26#w40) |[war-thunder_uah](/payout-services/war-thunder_uah/)|`war-thunder_uah`| 
+|![war-thunder](https://static.openfintech.io/payout_methods/war-thunder/icon.png?w=278&c=v0.59.26#w40) |[war-thunder_uah](/payout-services/war-thunder_uah/)|`war-thunder_uah`| 
  
 
 ## JSON Object 

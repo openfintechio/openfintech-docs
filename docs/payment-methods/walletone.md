@@ -1,6 +1,6 @@
 
 # WalletOne 
-![walletone](https://static.openfintech.io/payment_methods/walletone/logo.svg?w=400&c=v0.59.26#w200)  
+![walletone](https://static.openfintech.io/payment_methods/walletone/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `walletone` 
@@ -15,17 +15,17 @@
 ## Images 
 
 ### Logo 
-![walletone](https://static.openfintech.io/payment_methods/walletone/logo.svg?w=400&c=v0.59.26#w200)  
+![walletone](https://static.openfintech.io/payment_methods/walletone/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/walletone/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/walletone/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![walletone](https://static.openfintech.io/payment_methods/walletone/icon.svg?w=278&c=v0.59.26#w100)  
+![walletone](https://static.openfintech.io/payment_methods/walletone/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/walletone/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/walletone/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

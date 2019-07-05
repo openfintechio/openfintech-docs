@@ -1,6 +1,6 @@
 
 # CCAvenue 
-![avenuesindiaprivatelimited](https://static.openfintech.io/vendors/avenuesindiaprivatelimited/logo.svg?w=400&c=v0.59.26#w200)  
+![avenuesindiaprivatelimited](https://static.openfintech.io/vendors/avenuesindiaprivatelimited/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Mumbai400054 MumbaiIndia
 
 ### Logo 
  
-![avenuesindiaprivatelimited](https://static.openfintech.io/vendors/avenuesindiaprivatelimited/logo.svg?w=400&c=v0.59.26#w200)  
+![avenuesindiaprivatelimited](https://static.openfintech.io/vendors/avenuesindiaprivatelimited/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/avenuesindiaprivatelimited/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/avenuesindiaprivatelimited/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![avenuesindiaprivatelimited](https://static.openfintech.io/vendors/avenuesindiaprivatelimited/icon.svg?w=278&c=v0.59.26#w100)  
+![avenuesindiaprivatelimited](https://static.openfintech.io/vendors/avenuesindiaprivatelimited/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/avenuesindiaprivatelimited/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/avenuesindiaprivatelimited/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

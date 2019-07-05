@@ -1,6 +1,6 @@
 
 # PayCific 
-![paycific](https://static.openfintech.io/vendors/paycific/logo.svg?w=400&c=v0.59.26#w200)  
+![paycific](https://static.openfintech.io/vendors/paycific/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Zürich Switzerland
 
 ### Logo 
  
-![paycific](https://static.openfintech.io/vendors/paycific/logo.svg?w=400&c=v0.59.26#w200)  
+![paycific](https://static.openfintech.io/vendors/paycific/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paycific/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paycific/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paycific](https://static.openfintech.io/vendors/paycific/icon.svg?w=278&c=v0.59.26#w100)  
+![paycific](https://static.openfintech.io/vendors/paycific/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paycific/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paycific/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

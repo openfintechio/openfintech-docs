@@ -1,6 +1,6 @@
 
 # Commercegate 
-![commercegate](https://static.openfintech.io/vendors/commercegate/logo.svg?w=400&c=v0.59.26#w200)  
+![commercegate](https://static.openfintech.io/vendors/commercegate/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  World Trade Center, Moll de Barcelona s/n08039 BarcelonaSpain
 
 ### Logo 
  
-![commercegate](https://static.openfintech.io/vendors/commercegate/logo.svg?w=400&c=v0.59.26#w200)  
+![commercegate](https://static.openfintech.io/vendors/commercegate/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/commercegate/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/commercegate/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![commercegate](https://static.openfintech.io/vendors/commercegate/icon.svg?w=278&c=v0.59.26#w100)  
+![commercegate](https://static.openfintech.io/vendors/commercegate/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/commercegate/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/commercegate/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

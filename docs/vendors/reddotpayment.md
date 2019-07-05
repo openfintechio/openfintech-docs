@@ -1,6 +1,6 @@
 
 # Red Dot Payment 
-![reddotpayment](https://static.openfintech.io/vendors/reddotpayment/logo.svg?w=400&c=v0.59.26#w200)  
+![reddotpayment](https://static.openfintech.io/vendors/reddotpayment/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  11 Collyer Quay #19-02 The ArcadeSingapore 049317 SingaporeSingaporeSin
 
 ### Logo 
  
-![reddotpayment](https://static.openfintech.io/vendors/reddotpayment/logo.svg?w=400&c=v0.59.26#w200)  
+![reddotpayment](https://static.openfintech.io/vendors/reddotpayment/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/reddotpayment/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/reddotpayment/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![reddotpayment](https://static.openfintech.io/vendors/reddotpayment/icon.svg?w=278&c=v0.59.26#w100)  
+![reddotpayment](https://static.openfintech.io/vendors/reddotpayment/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/reddotpayment/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/reddotpayment/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

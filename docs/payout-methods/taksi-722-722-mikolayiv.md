@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi 722722 (Niko
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-722-722-mikolayiv](https://static.openfintech.io/payout_methods/taksi-722-722-mikolayiv/icon.svg?w=278&c=v0.59.26#w40) |[taksi-722-722-mikolayiv_uah](/payout-services/taksi-722-722-mikolayiv_uah/)|`taksi-722-722-mikolayiv_uah`| 
+|![taksi-722-722-mikolayiv](https://static.openfintech.io/payout_methods/taksi-722-722-mikolayiv/icon.png?w=278&c=v0.59.26#w40) |[taksi-722-722-mikolayiv_uah](/payout-services/taksi-722-722-mikolayiv_uah/)|`taksi-722-722-mikolayiv_uah`| 
  
 
 ## JSON Object 

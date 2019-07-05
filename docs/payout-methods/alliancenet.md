@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _AllianceNet_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![alliancenet](https://static.openfintech.io/payout_methods/alliancenet/icon.svg?w=278&c=v0.59.26#w40) |[alliancenet_uah](/payout-services/alliancenet_uah/)|`alliancenet_uah`| 
+|![alliancenet](https://static.openfintech.io/payout_methods/alliancenet/icon.png?w=278&c=v0.59.26#w40) |[alliancenet_uah](/payout-services/alliancenet_uah/)|`alliancenet_uah`| 
  
 
 ## JSON Object 

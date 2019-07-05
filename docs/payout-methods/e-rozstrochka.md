@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _E-Installment_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![e-rozstrochka](https://static.openfintech.io/payout_methods/e-rozstrochka/icon.svg?w=278&c=v0.59.26#w40) |[e-rozstrochka_uah](/payout-services/e-rozstrochka_uah/)|`e-rozstrochka_uah`| 
+|![e-rozstrochka](https://static.openfintech.io/payout_methods/e-rozstrochka/icon.png?w=278&c=v0.59.26#w40) |[e-rozstrochka_uah](/payout-services/e-rozstrochka_uah/)|`e-rozstrochka_uah`| 
  
 
 ## JSON Object 

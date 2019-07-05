@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Cid.net.ua - UID 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![cid-net-ua-uid-kiev](https://static.openfintech.io/payout_methods/cid-net-ua-uid-kiev/icon.svg?w=278&c=v0.59.26#w40) |[cid-net-ua-uid-kiev_uah](/payout-services/cid-net-ua-uid-kiev_uah/)|`cid-net-ua-uid-kiev_uah`| 
+|![cid-net-ua-uid-kiev](https://static.openfintech.io/payout_methods/cid-net-ua-uid-kiev/icon.png?w=278&c=v0.59.26#w40) |[cid-net-ua-uid-kiev_uah](/payout-services/cid-net-ua-uid-kiev_uah/)|`cid-net-ua-uid-kiev_uah`| 
  
 
 ## JSON Object 

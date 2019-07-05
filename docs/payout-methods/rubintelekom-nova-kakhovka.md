@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _RubinTelecom (New
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![rubintelekom-nova-kakhovka](https://static.openfintech.io/payout_methods/rubintelekom-nova-kakhovka/icon.svg?w=278&c=v0.59.26#w40) |[rubintelekom-nova-kakhovka_uah](/payout-services/rubintelekom-nova-kakhovka_uah/)|`rubintelekom-nova-kakhovka_uah`| 
+|![rubintelekom-nova-kakhovka](https://static.openfintech.io/payout_methods/rubintelekom-nova-kakhovka/icon.png?w=278&c=v0.59.26#w40) |[rubintelekom-nova-kakhovka_uah](/payout-services/rubintelekom-nova-kakhovka_uah/)|`rubintelekom-nova-kakhovka_uah`| 
  
 
 ## JSON Object 

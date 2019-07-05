@@ -1,6 +1,6 @@
 
 # BOKU 
-![boku](https://static.openfintech.io/vendors/boku/logo.svg?w=400&c=v0.59.26#w200)  
+![boku](https://static.openfintech.io/vendors/boku/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  San Francisco San FranciscoCaliforniaUnited States of America
 
 ### Logo 
  
-![boku](https://static.openfintech.io/vendors/boku/logo.svg?w=400&c=v0.59.26#w200)  
+![boku](https://static.openfintech.io/vendors/boku/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/boku/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/boku/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![boku](https://static.openfintech.io/vendors/boku/icon.svg?w=278&c=v0.59.26#w100)  
+![boku](https://static.openfintech.io/vendors/boku/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/boku/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/boku/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

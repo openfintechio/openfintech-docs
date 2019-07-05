@@ -1,6 +1,6 @@
 
 # Barclaycard 
-![barclaycard](https://static.openfintech.io/vendors/barclaycard/logo.svg?w=400&c=v0.59.26#w200)  
+![barclaycard](https://static.openfintech.io/vendors/barclaycard/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  1234 Pavilion DriveNN4 7SG NorthamptonUnited Kingdom
 
 ### Logo 
  
-![barclaycard](https://static.openfintech.io/vendors/barclaycard/logo.svg?w=400&c=v0.59.26#w200)  
+![barclaycard](https://static.openfintech.io/vendors/barclaycard/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/barclaycard/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/barclaycard/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![barclaycard](https://static.openfintech.io/vendors/barclaycard/icon.svg?w=278&c=v0.59.26#w100)  
+![barclaycard](https://static.openfintech.io/vendors/barclaycard/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/barclaycard/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/barclaycard/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

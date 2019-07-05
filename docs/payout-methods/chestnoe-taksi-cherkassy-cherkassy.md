@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Honest taxi (Cher
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![chestnoe-taksi-cherkassy-cherkassy](https://static.openfintech.io/payout_methods/chestnoe-taksi-cherkassy-cherkassy/icon.svg?w=278&c=v0.59.26#w40) |[chestnoe-taksi-cherkassy-cherkassy_uah](/payout-services/chestnoe-taksi-cherkassy-cherkassy_uah/)|`chestnoe-taksi-cherkassy-cherkassy_uah`| 
+|![chestnoe-taksi-cherkassy-cherkassy](https://static.openfintech.io/payout_methods/chestnoe-taksi-cherkassy-cherkassy/icon.png?w=278&c=v0.59.26#w40) |[chestnoe-taksi-cherkassy-cherkassy_uah](/payout-services/chestnoe-taksi-cherkassy-cherkassy_uah/)|`chestnoe-taksi-cherkassy-cherkassy_uah`| 
  
 
 ## JSON Object 

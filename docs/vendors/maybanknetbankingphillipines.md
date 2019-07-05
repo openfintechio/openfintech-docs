@@ -1,6 +1,6 @@
 
 # Maybank netbanking 
-![maybanknetbankingphillipines](https://static.openfintech.io/vendors/maybanknetbankingphillipines/logo.svg?w=400&c=v0.59.26#w200)  
+![maybanknetbankingphillipines](https://static.openfintech.io/vendors/maybanknetbankingphillipines/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![maybanknetbankingphillipines](https://static.openfintech.io/vendors/maybanknetbankingphillipines/logo.svg?w=400&c=v0.59.26#w200)  
+![maybanknetbankingphillipines](https://static.openfintech.io/vendors/maybanknetbankingphillipines/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/maybanknetbankingphillipines/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/maybanknetbankingphillipines/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![maybanknetbankingphillipines](https://static.openfintech.io/vendors/maybanknetbankingphillipines/icon.svg?w=278&c=v0.59.26#w100)  
+![maybanknetbankingphillipines](https://static.openfintech.io/vendors/maybanknetbankingphillipines/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/maybanknetbankingphillipines/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/maybanknetbankingphillipines/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _My Friend - ICF D
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![mii-drug-mbf-tsspm](https://static.openfintech.io/payout_methods/mii-drug-mbf-tsspm/icon.svg?w=278&c=v0.59.26#w40) |[mii-drug-mbf-tsspm_uah](/payout-services/mii-drug-mbf-tsspm_uah/)|`mii-drug-mbf-tsspm_uah`| 
+|![mii-drug-mbf-tsspm](https://static.openfintech.io/payout_methods/mii-drug-mbf-tsspm/icon.png?w=278&c=v0.59.26#w40) |[mii-drug-mbf-tsspm_uah](/payout-services/mii-drug-mbf-tsspm_uah/)|`mii-drug-mbf-tsspm_uah`| 
  
 
 ## JSON Object 

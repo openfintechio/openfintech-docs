@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Arslan.No_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![arslan-net](https://static.openfintech.io/payout_methods/arslan-net/icon.svg?w=278&c=v0.59.26#w40) |[arslan-net_uah](/payout-services/arslan-net_uah/)|`arslan-net_uah`| 
+|![arslan-net](https://static.openfintech.io/payout_methods/arslan-net/icon.png?w=278&c=v0.59.26#w40) |[arslan-net_uah](/payout-services/arslan-net_uah/)|`arslan-net_uah`| 
  
 
 ## JSON Object 

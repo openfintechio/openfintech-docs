@@ -1,6 +1,6 @@
 
 # Kviku 
-![kviku](https://static.openfintech.io/payment_methods/kviku/logo.svg?w=400&c=v0.59.26#w200)  
+![kviku](https://static.openfintech.io/payment_methods/kviku/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `kviku` 
@@ -15,17 +15,17 @@
 ## Images 
 
 ### Logo 
-![kviku](https://static.openfintech.io/payment_methods/kviku/logo.svg?w=400&c=v0.59.26#w200)  
+![kviku](https://static.openfintech.io/payment_methods/kviku/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/kviku/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/kviku/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![kviku](https://static.openfintech.io/payment_methods/kviku/icon.svg?w=278&c=v0.59.26#w100)  
+![kviku](https://static.openfintech.io/payment_methods/kviku/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/kviku/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/kviku/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

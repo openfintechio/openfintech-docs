@@ -1,6 +1,6 @@
 
 # MobiKwik 
-![mobikwik](https://static.openfintech.io/payment_methods/mobikwik/logo.svg?w=400&c=v0.59.26#w200)  
+![mobikwik](https://static.openfintech.io/payment_methods/mobikwik/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `mobikwik` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![mobikwik](https://static.openfintech.io/payment_methods/mobikwik/logo.svg?w=400&c=v0.59.26#w200)  
+![mobikwik](https://static.openfintech.io/payment_methods/mobikwik/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/mobikwik/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/mobikwik/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![mobikwik](https://static.openfintech.io/payment_methods/mobikwik/icon.svg?w=278&c=v0.59.26#w100)  
+![mobikwik](https://static.openfintech.io/payment_methods/mobikwik/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/mobikwik/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/mobikwik/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _MobiKwik_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ebillingsolutions](https://static.openfintech.io/payment_providers/ebillingsolutions/icon.svg?w=278&c=v0.59.26#w100) |[EBS](/payment-providers/ebillingsolutions/)|`ebillingsolutions`| 
+|![ebillingsolutions](https://static.openfintech.io/payment_providers/ebillingsolutions/icon.png?w=278&c=v0.59.26#w100) |[EBS](/payment-providers/ebillingsolutions/)|`ebillingsolutions`| 
  
 
 ## JSON Object 

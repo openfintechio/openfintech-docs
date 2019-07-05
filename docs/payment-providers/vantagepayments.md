@@ -1,6 +1,6 @@
 
 # Vantage Payments 
-![vantagepayments](https://static.openfintech.io/payment_providers/vantagepayments/logo.svg?w=400&c=v0.59.26#w100)  
+![vantagepayments](https://static.openfintech.io/payment_providers/vantagepayments/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -23,18 +23,18 @@
 
 ### Logo 
  
-![vantagepayments](https://static.openfintech.io/payment_providers/vantagepayments/logo.svg?w=400&c=v0.59.26#w100)  
+![vantagepayments](https://static.openfintech.io/payment_providers/vantagepayments/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/vantagepayments/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/vantagepayments/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![vantagepayments](https://static.openfintech.io/payment_providers/vantagepayments/icon.svg?w=278&c=v0.59.26#w100)  
+![vantagepayments](https://static.openfintech.io/payment_providers/vantagepayments/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/vantagepayments/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/vantagepayments/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -44,16 +44,16 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.svg?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
 |![chinaunionpay](https://static.openfintech.io/payment_methods/chinaunionpay/icon.svg?w=278&c=v0.59.26#w100) |[chinaunionpay](/payment-methods/chinaunionpay/)|`chinaunionpay`| 
 |![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
-|![jcb](https://static.openfintech.io/payment_methods/jcb/icon.svg?w=278&c=v0.59.26#w100) |[jcb](/payment-methods/jcb/)|`jcb`| 
-|![cartebleue](https://static.openfintech.io/payment_methods/cartebleue/icon.svg?w=278&c=v0.59.26#w100) |[cartebleue](/payment-methods/cartebleue/)|`cartebleue`| 
-|![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.svg?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
+|![jcb](https://static.openfintech.io/payment_methods/jcb/icon.png?w=278&c=v0.59.26#w100) |[jcb](/payment-methods/jcb/)|`jcb`| 
+|![cartebleue](https://static.openfintech.io/payment_methods/cartebleue/icon.png?w=278&c=v0.59.26#w100) |[cartebleue](/payment-methods/cartebleue/)|`cartebleue`| 
+|![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.png?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
 |![maestro](https://static.openfintech.io/payment_methods/maestro/icon.svg?w=278&c=v0.59.26#w100) |[maestro](/payment-methods/maestro/)|`maestro`| 
-|![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.svg?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
-|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.svg?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
-|![directdebit](https://static.openfintech.io/payment_methods/directdebit/icon.svg?w=278&c=v0.59.26#w100) |[directdebit](/payment-methods/directdebit/)|`directdebit`| 
+|![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.png?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
+|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.png?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
+|![directdebit](https://static.openfintech.io/payment_methods/directdebit/icon.png?w=278&c=v0.59.26#w100) |[directdebit](/payment-methods/directdebit/)|`directdebit`| 
  
 
 ## JSON Object 

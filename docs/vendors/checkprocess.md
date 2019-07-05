@@ -1,6 +1,6 @@
 
 # Check Process 
-![checkprocess](https://static.openfintech.io/vendors/checkprocess/logo.svg?w=400&c=v0.59.26#w200)  
+![checkprocess](https://static.openfintech.io/vendors/checkprocess/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Dallas/Fort WorthDallas/Fort WorthUnited States of America
 
 ### Logo 
  
-![checkprocess](https://static.openfintech.io/vendors/checkprocess/logo.svg?w=400&c=v0.59.26#w200)  
+![checkprocess](https://static.openfintech.io/vendors/checkprocess/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/checkprocess/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/checkprocess/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![checkprocess](https://static.openfintech.io/vendors/checkprocess/icon.svg?w=278&c=v0.59.26#w100)  
+![checkprocess](https://static.openfintech.io/vendors/checkprocess/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/checkprocess/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/checkprocess/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

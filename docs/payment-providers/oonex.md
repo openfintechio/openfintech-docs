@@ -1,6 +1,6 @@
 
 # Oonex 
-![oonex](https://static.openfintech.io/payment_providers/oonex/logo.svg?w=400&c=v0.59.26#w100)  
+![oonex](https://static.openfintech.io/payment_providers/oonex/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![oonex](https://static.openfintech.io/payment_providers/oonex/logo.svg?w=400&c=v0.59.26#w100)  
+![oonex](https://static.openfintech.io/payment_providers/oonex/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/oonex/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/oonex/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![oonex](https://static.openfintech.io/payment_providers/oonex/icon.svg?w=278&c=v0.59.26#w100)  
+![oonex](https://static.openfintech.io/payment_providers/oonex/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/oonex/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/oonex/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

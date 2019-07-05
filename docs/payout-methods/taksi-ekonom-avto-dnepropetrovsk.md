@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Economy-Auto
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-ekonom-avto-dnepropetrovsk](https://static.openfintech.io/payout_methods/taksi-ekonom-avto-dnepropetrovsk/icon.svg?w=278&c=v0.59.26#w40) |[taksi-ekonom-avto-dnepropetrovsk_uah](/payout-services/taksi-ekonom-avto-dnepropetrovsk_uah/)|`taksi-ekonom-avto-dnepropetrovsk_uah`| 
+|![taksi-ekonom-avto-dnepropetrovsk](https://static.openfintech.io/payout_methods/taksi-ekonom-avto-dnepropetrovsk/icon.png?w=278&c=v0.59.26#w40) |[taksi-ekonom-avto-dnepropetrovsk_uah](/payout-services/taksi-ekonom-avto-dnepropetrovsk_uah/)|`taksi-ekonom-avto-dnepropetrovsk_uah`| 
  
 
 ## JSON Object 

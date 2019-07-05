@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Digital Service U
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tsifral-servis-ukraina-kharkov](https://static.openfintech.io/payout_methods/tsifral-servis-ukraina-kharkov/icon.svg?w=278&c=v0.59.26#w40) |[tsifral-servis-ukraina-kharkov_uah](/payout-services/tsifral-servis-ukraina-kharkov_uah/)|`tsifral-servis-ukraina-kharkov_uah`| 
+|![tsifral-servis-ukraina-kharkov](https://static.openfintech.io/payout_methods/tsifral-servis-ukraina-kharkov/icon.png?w=278&c=v0.59.26#w40) |[tsifral-servis-ukraina-kharkov_uah](/payout-services/tsifral-servis-ukraina-kharkov_uah/)|`tsifral-servis-ukraina-kharkov_uah`| 
  
 
 ## JSON Object 

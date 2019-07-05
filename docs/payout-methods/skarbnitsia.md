@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Skarbnytsya_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![skarbnitsia](https://static.openfintech.io/payout_methods/skarbnitsia/icon.svg?w=278&c=v0.59.26#w40) |[skarbnitsia_uah](/payout-services/skarbnitsia_uah/)|`skarbnitsia_uah`| 
+|![skarbnitsia](https://static.openfintech.io/payout_methods/skarbnitsia/icon.png?w=278&c=v0.59.26#w40) |[skarbnitsia_uah](/payout-services/skarbnitsia_uah/)|`skarbnitsia_uah`| 
  
 
 ## JSON Object 

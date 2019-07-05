@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Triumph (Kie
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-triumf-kiev](https://static.openfintech.io/payout_methods/taksi-triumf-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-triumf-kiev_uah](/payout-services/taksi-triumf-kiev_uah/)|`taksi-triumf-kiev_uah`| 
+|![taksi-triumf-kiev](https://static.openfintech.io/payout_methods/taksi-triumf-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-triumf-kiev_uah](/payout-services/taksi-triumf-kiev_uah/)|`taksi-triumf-kiev_uah`| 
  
 
 ## JSON Object 

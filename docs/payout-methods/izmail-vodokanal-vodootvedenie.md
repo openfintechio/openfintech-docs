@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Izmail Vodokanal 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![izmail-vodokanal-vodootvedenie](https://static.openfintech.io/payout_methods/izmail-vodokanal-vodootvedenie/icon.svg?w=278&c=v0.59.26#w40) |[izmail-vodokanal-vodootvedenie_uah](/payout-services/izmail-vodokanal-vodootvedenie_uah/)|`izmail-vodokanal-vodootvedenie_uah`| 
+|![izmail-vodokanal-vodootvedenie](https://static.openfintech.io/payout_methods/izmail-vodokanal-vodootvedenie/icon.png?w=278&c=v0.59.26#w40) |[izmail-vodokanal-vodootvedenie_uah](/payout-services/izmail-vodokanal-vodootvedenie_uah/)|`izmail-vodokanal-vodootvedenie_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # PayPlug 
-![payplug](https://static.openfintech.io/vendors/payplug/logo.svg?w=400&c=v0.59.26#w200)  
+![payplug](https://static.openfintech.io/vendors/payplug/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  23-25 rue J.J. Rousseau75009 ParisFrance
 
 ### Logo 
  
-![payplug](https://static.openfintech.io/vendors/payplug/logo.svg?w=400&c=v0.59.26#w200)  
+![payplug](https://static.openfintech.io/vendors/payplug/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payplug/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payplug/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payplug](https://static.openfintech.io/vendors/payplug/icon.svg?w=278&c=v0.59.26#w100)  
+![payplug](https://static.openfintech.io/vendors/payplug/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payplug/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payplug/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

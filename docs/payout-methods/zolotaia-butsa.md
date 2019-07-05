@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Golden Boot_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![zolotaia-butsa](https://static.openfintech.io/payout_methods/zolotaia-butsa/icon.svg?w=278&c=v0.59.26#w40) |[zolotaia-butsa_uah](/payout-services/zolotaia-butsa_uah/)|`zolotaia-butsa_uah`| 
+|![zolotaia-butsa](https://static.openfintech.io/payout_methods/zolotaia-butsa/icon.png?w=278&c=v0.59.26#w40) |[zolotaia-butsa_uah](/payout-services/zolotaia-butsa_uah/)|`zolotaia-butsa_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # allpago - accept payments in Latin America 
-![allpago](https://static.openfintech.io/payment_providers/allpago/logo.svg?w=400&c=v0.59.26#w100)  
+![allpago](https://static.openfintech.io/payment_providers/allpago/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -23,18 +23,18 @@
 
 ### Logo 
  
-![allpago](https://static.openfintech.io/payment_providers/allpago/logo.svg?w=400&c=v0.59.26#w100)  
+![allpago](https://static.openfintech.io/payment_providers/allpago/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/allpago/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/allpago/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![allpago](https://static.openfintech.io/payment_providers/allpago/icon.svg?w=278&c=v0.59.26#w100)  
+![allpago](https://static.openfintech.io/payment_providers/allpago/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/allpago/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/allpago/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -43,19 +43,19 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tarjetanaranjacreditcard](https://static.openfintech.io/payment_methods/tarjetanaranjacreditcard/icon.svg?w=278&c=v0.59.26#w100) |[tarjetanaranjacreditcard](/payment-methods/tarjetanaranjacreditcard/)|`tarjetanaranjacreditcard`| 
+|![tarjetanaranjacreditcard](https://static.openfintech.io/payment_methods/tarjetanaranjacreditcard/icon.png?w=278&c=v0.59.26#w100) |[tarjetanaranjacreditcard](/payment-methods/tarjetanaranjacreditcard/)|`tarjetanaranjacreditcard`| 
 |![banamex](https://static.openfintech.io/payment_methods/banamex/icon.svg?w=278&c=v0.59.26#w100) |[banamex](/payment-methods/banamex/)|`banamex`| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
-|![aura](https://static.openfintech.io/payment_methods/aura/icon.svg?w=278&c=v0.59.26#w100) |[aura](/payment-methods/aura/)|`aura`| 
+|![aura](https://static.openfintech.io/payment_methods/aura/icon.png?w=278&c=v0.59.26#w100) |[aura](/payment-methods/aura/)|`aura`| 
 |![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
-|![ukash](https://static.openfintech.io/payment_methods/ukash/icon.svg?w=278&c=v0.59.26#w100) |[ukash](/payment-methods/ukash/)|`ukash`| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.svg?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![ukash](https://static.openfintech.io/payment_methods/ukash/icon.png?w=278&c=v0.59.26#w100) |[ukash](/payment-methods/ukash/)|`ukash`| 
+|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
-|![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.svg?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
-|![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.svg?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
-|![debitobradesco](https://static.openfintech.io/payment_methods/debitobradesco/icon.svg?w=278&c=v0.59.26#w100) |[debitobradesco](/payment-methods/debitobradesco/)|`debitobradesco`| 
-|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.svg?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
-|![rapipago](https://static.openfintech.io/payment_methods/rapipago/icon.svg?w=278&c=v0.59.26#w100) |[rapipago](/payment-methods/rapipago/)|`rapipago`| 
+|![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.png?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
+|![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.png?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
+|![debitobradesco](https://static.openfintech.io/payment_methods/debitobradesco/icon.png?w=278&c=v0.59.26#w100) |[debitobradesco](/payment-methods/debitobradesco/)|`debitobradesco`| 
+|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.png?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
+|![rapipago](https://static.openfintech.io/payment_methods/rapipago/icon.png?w=278&c=v0.59.26#w100) |[rapipago](/payment-methods/rapipago/)|`rapipago`| 
 |![viabalotoonline](https://static.openfintech.io/payment_methods/viabalotoonline/icon.svg?w=278&c=v0.59.26#w100) |[viabalotoonline](/payment-methods/viabalotoonline/)|`viabalotoonline`| 
 |![wiretransfer](https://static.openfintech.io/payment_methods/wiretransfer/icon.svg?w=278&c=v0.59.26#w100) |[wiretransfer](/payment-methods/wiretransfer/)|`wiretransfer`| 
  

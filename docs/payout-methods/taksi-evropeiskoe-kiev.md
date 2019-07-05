@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _European Taxi (Ki
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-evropeiskoe-kiev](https://static.openfintech.io/payout_methods/taksi-evropeiskoe-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-evropeiskoe-kiev_uah](/payout-services/taksi-evropeiskoe-kiev_uah/)|`taksi-evropeiskoe-kiev_uah`| 
+|![taksi-evropeiskoe-kiev](https://static.openfintech.io/payout_methods/taksi-evropeiskoe-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-evropeiskoe-kiev_uah](/payout-services/taksi-evropeiskoe-kiev_uah/)|`taksi-evropeiskoe-kiev_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # GCASH 
-![gcashwallet](https://static.openfintech.io/vendors/gcashwallet/logo.svg?w=400&c=v0.59.26#w200)  
+![gcashwallet](https://static.openfintech.io/vendors/gcashwallet/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![gcashwallet](https://static.openfintech.io/vendors/gcashwallet/logo.svg?w=400&c=v0.59.26#w200)  
+![gcashwallet](https://static.openfintech.io/vendors/gcashwallet/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/gcashwallet/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/gcashwallet/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![gcashwallet](https://static.openfintech.io/vendors/gcashwallet/icon.svg?w=278&c=v0.59.26#w100)  
+![gcashwallet](https://static.openfintech.io/vendors/gcashwallet/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/gcashwallet/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/gcashwallet/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

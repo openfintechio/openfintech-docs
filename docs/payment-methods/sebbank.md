@@ -1,6 +1,6 @@
 
 # SEB Bank 
-![sebbank](https://static.openfintech.io/payment_methods/sebbank/logo.svg?w=400&c=v0.59.26#w200)  
+![sebbank](https://static.openfintech.io/payment_methods/sebbank/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `sebbank` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![sebbank](https://static.openfintech.io/payment_methods/sebbank/logo.svg?w=400&c=v0.59.26#w200)  
+![sebbank](https://static.openfintech.io/payment_methods/sebbank/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/sebbank/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/sebbank/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![sebbank](https://static.openfintech.io/payment_methods/sebbank/icon.svg?w=278&c=v0.59.26#w100)  
+![sebbank](https://static.openfintech.io/payment_methods/sebbank/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/sebbank/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/sebbank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,12 +43,12 @@ The list of [Payment Providers](/payment-providers/) that support the _SEB Bank_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.svg?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
-|![acapture](https://static.openfintech.io/payment_providers/acapture/icon.svg?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
-|![altapay](https://static.openfintech.io/payment_providers/altapay/icon.svg?w=278&c=v0.59.26#w100) |[AltaPay](/payment-providers/altapay/)|`altapay`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
+|![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
+|![altapay](https://static.openfintech.io/payment_providers/altapay/icon.png?w=278&c=v0.59.26#w100) |[AltaPay](/payment-providers/altapay/)|`altapay`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
-|![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.svg?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
+|![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.png?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
  
 
 ## JSON Object 

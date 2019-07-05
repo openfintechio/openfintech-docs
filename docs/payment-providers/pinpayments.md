@@ -1,6 +1,6 @@
 
 # Pin Payments 
-![pinpayments](https://static.openfintech.io/payment_providers/pinpayments/logo.svg?w=400&c=v0.59.26#w100)  
+![pinpayments](https://static.openfintech.io/payment_providers/pinpayments/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![pinpayments](https://static.openfintech.io/payment_providers/pinpayments/logo.svg?w=400&c=v0.59.26#w100)  
+![pinpayments](https://static.openfintech.io/payment_providers/pinpayments/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/pinpayments/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/pinpayments/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![pinpayments](https://static.openfintech.io/payment_providers/pinpayments/icon.svg?w=278&c=v0.59.26#w100)  
+![pinpayments](https://static.openfintech.io/payment_providers/pinpayments/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/pinpayments/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/pinpayments/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

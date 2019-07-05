@@ -1,6 +1,6 @@
 
 # PostFinance E-Finance 
-![postfinanceefinance](https://static.openfintech.io/payment_methods/postfinanceefinance/logo.svg?w=400&c=v0.59.26#w200)  
+![postfinanceefinance](https://static.openfintech.io/payment_methods/postfinanceefinance/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `postfinanceefinance` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![postfinanceefinance](https://static.openfintech.io/payment_methods/postfinanceefinance/logo.svg?w=400&c=v0.59.26#w200)  
+![postfinanceefinance](https://static.openfintech.io/payment_methods/postfinanceefinance/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/postfinanceefinance/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/postfinanceefinance/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![postfinanceefinance](https://static.openfintech.io/payment_methods/postfinanceefinance/icon.svg?w=278&c=v0.59.26#w100)  
+![postfinanceefinance](https://static.openfintech.io/payment_methods/postfinanceefinance/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/postfinanceefinance/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/postfinanceefinance/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,10 +43,10 @@ The list of [Payment Providers](/payment-providers/) that support the _PostFinan
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.svg?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
-|![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/icon.svg?w=278&c=v0.59.26#w100) |[Alternative Payments](/payment-providers/alternativepayments/)|`alternativepayments`| 
-|![intelligentpayments](https://static.openfintech.io/payment_providers/intelligentpayments/icon.svg?w=278&c=v0.59.26#w100) |[Intelligent Payments](/payment-providers/intelligentpayments/)|`intelligentpayments`| 
-|![klikpay](https://static.openfintech.io/payment_providers/klikpay/icon.svg?w=278&c=v0.59.26#w100) |[Klik & Pay](/payment-providers/klikpay/)|`klikpay`| 
+|![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
+|![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/icon.png?w=278&c=v0.59.26#w100) |[Alternative Payments](/payment-providers/alternativepayments/)|`alternativepayments`| 
+|![intelligentpayments](https://static.openfintech.io/payment_providers/intelligentpayments/icon.png?w=278&c=v0.59.26#w100) |[Intelligent Payments](/payment-providers/intelligentpayments/)|`intelligentpayments`| 
+|![klikpay](https://static.openfintech.io/payment_providers/klikpay/icon.png?w=278&c=v0.59.26#w100) |[Klik & Pay](/payment-providers/klikpay/)|`klikpay`| 
  
 
 ## JSON Object 

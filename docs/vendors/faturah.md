@@ -1,6 +1,6 @@
 
 # Faturah 
-![faturah](https://static.openfintech.io/vendors/faturah/logo.svg?w=400&c=v0.59.26#w200)  
+![faturah](https://static.openfintech.io/vendors/faturah/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Palestine Street- Jamjoom Commercial Center Jeddah JeddahSaudi Arabia
 
 ### Logo 
  
-![faturah](https://static.openfintech.io/vendors/faturah/logo.svg?w=400&c=v0.59.26#w200)  
+![faturah](https://static.openfintech.io/vendors/faturah/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/faturah/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/faturah/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![faturah](https://static.openfintech.io/vendors/faturah/icon.svg?w=278&c=v0.59.26#w100)  
+![faturah](https://static.openfintech.io/vendors/faturah/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/faturah/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/faturah/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Prime Taxi (Cherk
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-prime-cherkassy](https://static.openfintech.io/payout_methods/taksi-prime-cherkassy/icon.svg?w=278&c=v0.59.26#w40) |[taksi-prime-cherkassy_uah](/payout-services/taksi-prime-cherkassy_uah/)|`taksi-prime-cherkassy_uah`| 
+|![taksi-prime-cherkassy](https://static.openfintech.io/payout_methods/taksi-prime-cherkassy/icon.png?w=278&c=v0.59.26#w40) |[taksi-prime-cherkassy_uah](/payout-services/taksi-prime-cherkassy_uah/)|`taksi-prime-cherkassy_uah`| 
  
 
 ## JSON Object 

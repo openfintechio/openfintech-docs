@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Technomagic_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tekhnomagiia](https://static.openfintech.io/payout_methods/tekhnomagiia/icon.svg?w=278&c=v0.59.26#w40) |[tekhnomagiia_uah](/payout-services/tekhnomagiia_uah/)|`tekhnomagiia_uah`| 
+|![tekhnomagiia](https://static.openfintech.io/payout_methods/tekhnomagiia/icon.png?w=278&c=v0.59.26#w40) |[tekhnomagiia_uah](/payout-services/tekhnomagiia_uah/)|`tekhnomagiia_uah`| 
  
 
 ## JSON Object 

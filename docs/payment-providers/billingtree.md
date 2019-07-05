@@ -1,6 +1,6 @@
 
 # BillingTree 
-![billingtree](https://static.openfintech.io/payment_providers/billingtree/logo.svg?w=400&c=v0.59.26#w100)  
+![billingtree](https://static.openfintech.io/payment_providers/billingtree/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![billingtree](https://static.openfintech.io/payment_providers/billingtree/logo.svg?w=400&c=v0.59.26#w100)  
+![billingtree](https://static.openfintech.io/payment_providers/billingtree/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/billingtree/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/billingtree/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![billingtree](https://static.openfintech.io/payment_providers/billingtree/icon.svg?w=278&c=v0.59.26#w100)  
+![billingtree](https://static.openfintech.io/payment_providers/billingtree/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/billingtree/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/billingtree/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Paymundo 
-![paymundo](https://static.openfintech.io/payment_providers/paymundo/logo.svg?w=400&c=v0.59.26#w100)  
+![paymundo](https://static.openfintech.io/payment_providers/paymundo/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![paymundo](https://static.openfintech.io/payment_providers/paymundo/logo.svg?w=400&c=v0.59.26#w100)  
+![paymundo](https://static.openfintech.io/payment_providers/paymundo/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paymundo/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paymundo/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![paymundo](https://static.openfintech.io/payment_providers/paymundo/icon.svg?w=278&c=v0.59.26#w100)  
+![paymundo](https://static.openfintech.io/payment_providers/paymundo/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paymundo/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paymundo/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

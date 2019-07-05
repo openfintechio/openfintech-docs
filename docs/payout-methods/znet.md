@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ZNet_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![znet](https://static.openfintech.io/payout_methods/znet/icon.svg?w=278&c=v0.59.26#w40) |[znet_uah](/payout-services/znet_uah/)|`znet_uah`| 
+|![znet](https://static.openfintech.io/payout_methods/znet/icon.png?w=278&c=v0.59.26#w40) |[znet_uah](/payout-services/znet_uah/)|`znet_uah`| 
  
 
 ## JSON Object 

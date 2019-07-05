@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Global Credit - C
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![global-credit-prodlenie-kredita](https://static.openfintech.io/payout_methods/global-credit-prodlenie-kredita/icon.svg?w=278&c=v0.59.26#w40) |[global-credit-prodlenie-kredita_uah](/payout-services/global-credit-prodlenie-kredita_uah/)|`global-credit-prodlenie-kredita_uah`| 
+|![global-credit-prodlenie-kredita](https://static.openfintech.io/payout_methods/global-credit-prodlenie-kredita/icon.png?w=278&c=v0.59.26#w40) |[global-credit-prodlenie-kredita_uah](/payout-services/global-credit-prodlenie-kredita_uah/)|`global-credit-prodlenie-kredita_uah`| 
  
 
 ## JSON Object 

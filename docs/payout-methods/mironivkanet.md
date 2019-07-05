@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _MironivkaNet_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![mironivkanet](https://static.openfintech.io/payout_methods/mironivkanet/icon.svg?w=278&c=v0.59.26#w40) |[mironivkanet_uah](/payout-services/mironivkanet_uah/)|`mironivkanet_uah`| 
+|![mironivkanet](https://static.openfintech.io/payout_methods/mironivkanet/icon.png?w=278&c=v0.59.26#w40) |[mironivkanet_uah](/payout-services/mironivkanet_uah/)|`mironivkanet_uah`| 
  
 
 ## JSON Object 

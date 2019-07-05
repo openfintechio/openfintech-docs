@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Rx-name_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![rx-name](https://static.openfintech.io/payout_methods/rx-name/icon.svg?w=278&c=v0.59.26#w40) |[rx-name_uah](/payout-services/rx-name_uah/)|`rx-name_uah`| 
+|![rx-name](https://static.openfintech.io/payout_methods/rx-name/icon.png?w=278&c=v0.59.26#w40) |[rx-name_uah](/payout-services/rx-name_uah/)|`rx-name_uah`| 
  
 
 ## JSON Object 

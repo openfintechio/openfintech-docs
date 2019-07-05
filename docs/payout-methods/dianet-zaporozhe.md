@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _DiaNet (Zaporizhi
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![dianet-zaporozhe](https://static.openfintech.io/payout_methods/dianet-zaporozhe/icon.svg?w=278&c=v0.59.26#w40) |[dianet-zaporozhe_uah](/payout-services/dianet-zaporozhe_uah/)|`dianet-zaporozhe_uah`| 
+|![dianet-zaporozhe](https://static.openfintech.io/payout_methods/dianet-zaporozhe/icon.png?w=278&c=v0.59.26#w40) |[dianet-zaporozhe_uah](/payout-services/dianet-zaporozhe_uah/)|`dianet-zaporozhe_uah`| 
  
 
 ## JSON Object 

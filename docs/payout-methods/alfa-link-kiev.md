@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ALFA LINK (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![alfa-link-kiev](https://static.openfintech.io/payout_methods/alfa-link-kiev/icon.svg?w=278&c=v0.59.26#w40) |[alfa-link-kiev_uah](/payout-services/alfa-link-kiev_uah/)|`alfa-link-kiev_uah`| 
+|![alfa-link-kiev](https://static.openfintech.io/payout_methods/alfa-link-kiev/icon.png?w=278&c=v0.59.26#w40) |[alfa-link-kiev_uah](/payout-services/alfa-link-kiev_uah/)|`alfa-link-kiev_uah`| 
  
 
 ## JSON Object 

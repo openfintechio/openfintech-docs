@@ -1,6 +1,6 @@
 
 # Yandex.Checkout 
-![yandexcheckout](https://static.openfintech.io/payment_providers/yandexcheckout/logo.svg?w=400&c=v0.59.26#w100)  
+![yandexcheckout](https://static.openfintech.io/payment_providers/yandexcheckout/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![yandexcheckout](https://static.openfintech.io/payment_providers/yandexcheckout/logo.svg?w=400&c=v0.59.26#w100)  
+![yandexcheckout](https://static.openfintech.io/payment_providers/yandexcheckout/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/yandexcheckout/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/yandexcheckout/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![yandexcheckout](https://static.openfintech.io/payment_providers/yandexcheckout/icon.svg?w=278&c=v0.59.26#w100)  
+![yandexcheckout](https://static.openfintech.io/payment_providers/yandexcheckout/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/yandexcheckout/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/yandexcheckout/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

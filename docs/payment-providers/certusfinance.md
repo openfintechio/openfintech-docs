@@ -1,6 +1,6 @@
 
 # Certus Finance 
-![certusfinance](https://static.openfintech.io/payment_providers/certusfinance/logo.svg?w=400&c=v0.59.26#w100)  
+![certusfinance](https://static.openfintech.io/payment_providers/certusfinance/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![certusfinance](https://static.openfintech.io/payment_providers/certusfinance/logo.svg?w=400&c=v0.59.26#w100)  
+![certusfinance](https://static.openfintech.io/payment_providers/certusfinance/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/certusfinance/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/certusfinance/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![certusfinance](https://static.openfintech.io/payment_providers/certusfinance/icon.svg?w=278&c=v0.59.26#w100)  
+![certusfinance](https://static.openfintech.io/payment_providers/certusfinance/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/certusfinance/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/certusfinance/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Specialized Processing Solutions 
-![specializedprocessingsolutions](https://static.openfintech.io/vendors/specializedprocessingsolutions/logo.svg?w=400&c=v0.59.26#w200)  
+![specializedprocessingsolutions](https://static.openfintech.io/vendors/specializedprocessingsolutions/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  2901 Clint Moore Road #41733496 Boca RatonFLUnited States of America
 
 ### Logo 
  
-![specializedprocessingsolutions](https://static.openfintech.io/vendors/specializedprocessingsolutions/logo.svg?w=400&c=v0.59.26#w200)  
+![specializedprocessingsolutions](https://static.openfintech.io/vendors/specializedprocessingsolutions/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/specializedprocessingsolutions/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/specializedprocessingsolutions/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![specializedprocessingsolutions](https://static.openfintech.io/vendors/specializedprocessingsolutions/icon.svg?w=278&c=v0.59.26#w100)  
+![specializedprocessingsolutions](https://static.openfintech.io/vendors/specializedprocessingsolutions/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/specializedprocessingsolutions/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/specializedprocessingsolutions/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

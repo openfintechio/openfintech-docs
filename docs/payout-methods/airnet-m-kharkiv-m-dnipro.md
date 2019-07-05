@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _AiRNET (Kharkiv, 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![airnet-m-kharkiv-m-dnipro](https://static.openfintech.io/payout_methods/airnet-m-kharkiv-m-dnipro/icon.svg?w=278&c=v0.59.26#w40) |[airnet-m-kharkiv-m-dnipro_uah](/payout-services/airnet-m-kharkiv-m-dnipro_uah/)|`airnet-m-kharkiv-m-dnipro_uah`| 
+|![airnet-m-kharkiv-m-dnipro](https://static.openfintech.io/payout_methods/airnet-m-kharkiv-m-dnipro/icon.png?w=278&c=v0.59.26#w40) |[airnet-m-kharkiv-m-dnipro_uah](/payout-services/airnet-m-kharkiv-m-dnipro_uah/)|`airnet-m-kharkiv-m-dnipro_uah`| 
  
 
 ## JSON Object 

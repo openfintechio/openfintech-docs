@@ -1,6 +1,6 @@
 
 # E-xact Transactions 
-![exacttransactions](https://static.openfintech.io/vendors/exacttransactions/logo.svg?w=400&c=v0.59.26#w200)  
+![exacttransactions](https://static.openfintech.io/vendors/exacttransactions/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  228 West 7th Avenue
 
 ### Logo 
  
-![exacttransactions](https://static.openfintech.io/vendors/exacttransactions/logo.svg?w=400&c=v0.59.26#w200)  
+![exacttransactions](https://static.openfintech.io/vendors/exacttransactions/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/exacttransactions/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/exacttransactions/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![exacttransactions](https://static.openfintech.io/vendors/exacttransactions/icon.svg?w=278&c=v0.59.26#w100)  
+![exacttransactions](https://static.openfintech.io/vendors/exacttransactions/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/exacttransactions/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/exacttransactions/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

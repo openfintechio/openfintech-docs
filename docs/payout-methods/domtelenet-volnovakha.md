@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Domtelenet (Volno
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![domtelenet-volnovakha](https://static.openfintech.io/payout_methods/domtelenet-volnovakha/icon.svg?w=278&c=v0.59.26#w40) |[domtelenet-volnovakha_uah](/payout-services/domtelenet-volnovakha_uah/)|`domtelenet-volnovakha_uah`| 
+|![domtelenet-volnovakha](https://static.openfintech.io/payout_methods/domtelenet-volnovakha/icon.png?w=278&c=v0.59.26#w40) |[domtelenet-volnovakha_uah](/payout-services/domtelenet-volnovakha_uah/)|`domtelenet-volnovakha_uah`| 
  
 
 ## JSON Object 

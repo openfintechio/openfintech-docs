@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _DIDGITNET (Mariup
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![didgitnet-mariupol](https://static.openfintech.io/payout_methods/didgitnet-mariupol/icon.svg?w=278&c=v0.59.26#w40) |[didgitnet-mariupol_uah](/payout-services/didgitnet-mariupol_uah/)|`didgitnet-mariupol_uah`| 
+|![didgitnet-mariupol](https://static.openfintech.io/payout_methods/didgitnet-mariupol/icon.png?w=278&c=v0.59.26#w40) |[didgitnet-mariupol_uah](/payout-services/didgitnet-mariupol_uah/)|`didgitnet-mariupol_uah`| 
  
 
 ## JSON Object 

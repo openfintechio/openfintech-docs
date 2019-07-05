@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _DKC (Zhytomyr)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![dkc-zhitomir](https://static.openfintech.io/payout_methods/dkc-zhitomir/icon.svg?w=278&c=v0.59.26#w40) |[dkc-zhitomir_uah](/payout-services/dkc-zhitomir_uah/)|`dkc-zhitomir_uah`| 
+|![dkc-zhitomir](https://static.openfintech.io/payout_methods/dkc-zhitomir/icon.png?w=278&c=v0.59.26#w40) |[dkc-zhitomir_uah](/payout-services/dkc-zhitomir_uah/)|`dkc-zhitomir_uah`| 
  
 
 ## JSON Object 

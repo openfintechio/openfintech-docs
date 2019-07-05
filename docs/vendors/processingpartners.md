@@ -1,6 +1,6 @@
 
 # Processing Partners 
-![processingpartners](https://static.openfintech.io/vendors/processingpartners/logo.svg?w=400&c=v0.59.26#w200)  
+![processingpartners](https://static.openfintech.io/vendors/processingpartners/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  620 NE 3rd Street Fort Lauderdale, FLFloridaUnited States of America
 
 ### Logo 
  
-![processingpartners](https://static.openfintech.io/vendors/processingpartners/logo.svg?w=400&c=v0.59.26#w200)  
+![processingpartners](https://static.openfintech.io/vendors/processingpartners/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/processingpartners/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/processingpartners/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![processingpartners](https://static.openfintech.io/vendors/processingpartners/icon.svg?w=278&c=v0.59.26#w100)  
+![processingpartners](https://static.openfintech.io/vendors/processingpartners/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/processingpartners/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/processingpartners/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

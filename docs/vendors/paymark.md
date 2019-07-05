@@ -1,6 +1,6 @@
 
 # Paymark 
-![paymark](https://static.openfintech.io/vendors/paymark/logo.svg?w=400&c=v0.59.26#w200)  
+![paymark](https://static.openfintech.io/vendors/paymark/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  New Zealand
 
 ### Logo 
  
-![paymark](https://static.openfintech.io/vendors/paymark/logo.svg?w=400&c=v0.59.26#w200)  
+![paymark](https://static.openfintech.io/vendors/paymark/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paymark/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paymark/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paymark](https://static.openfintech.io/vendors/paymark/icon.svg?w=278&c=v0.59.26#w100)  
+![paymark](https://static.openfintech.io/vendors/paymark/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paymark/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paymark/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

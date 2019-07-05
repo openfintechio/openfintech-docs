@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Student (Lvi
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-student-lvov](https://static.openfintech.io/payout_methods/taksi-student-lvov/icon.svg?w=278&c=v0.59.26#w40) |[taksi-student-lvov_uah](/payout-services/taksi-student-lvov_uah/)|`taksi-student-lvov_uah`| 
+|![taksi-student-lvov](https://static.openfintech.io/payout_methods/taksi-student-lvov/icon.png?w=278&c=v0.59.26#w40) |[taksi-student-lvov_uah](/payout-services/taksi-student-lvov_uah/)|`taksi-student-lvov_uah`| 
  
 
 ## JSON Object 

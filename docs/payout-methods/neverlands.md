@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _NeverLands_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![neverlands](https://static.openfintech.io/payout_methods/neverlands/icon.svg?w=278&c=v0.59.26#w40) |[neverlands_uah](/payout-services/neverlands_uah/)|`neverlands_uah`| 
+|![neverlands](https://static.openfintech.io/payout_methods/neverlands/icon.png?w=278&c=v0.59.26#w40) |[neverlands_uah](/payout-services/neverlands_uah/)|`neverlands_uah`| 
  
 
 ## JSON Object 

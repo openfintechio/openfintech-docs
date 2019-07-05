@@ -1,6 +1,6 @@
 
 # GiroSolution 
-![girosolution](https://static.openfintech.io/vendors/girosolution/logo.svg?w=400&c=v0.59.26#w200)  
+![girosolution](https://static.openfintech.io/vendors/girosolution/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Hauptstraße 27 Germany
 
 ### Logo 
  
-![girosolution](https://static.openfintech.io/vendors/girosolution/logo.svg?w=400&c=v0.59.26#w200)  
+![girosolution](https://static.openfintech.io/vendors/girosolution/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/girosolution/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/girosolution/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![girosolution](https://static.openfintech.io/vendors/girosolution/icon.svg?w=278&c=v0.59.26#w100)  
+![girosolution](https://static.openfintech.io/vendors/girosolution/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/girosolution/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/girosolution/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

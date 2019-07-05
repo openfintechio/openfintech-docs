@@ -1,6 +1,6 @@
 
 # easypay 
-![easypay](https://static.openfintech.io/vendors/easypay/logo.svg?w=400&c=v0.59.26#w200)  
+![easypay](https://static.openfintech.io/vendors/easypay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Rua Soares Passos 14b1300-537 LisbonPortugal
 
 ### Logo 
  
-![easypay](https://static.openfintech.io/vendors/easypay/logo.svg?w=400&c=v0.59.26#w200)  
+![easypay](https://static.openfintech.io/vendors/easypay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/easypay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/easypay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![easypay](https://static.openfintech.io/vendors/easypay/icon.svg?w=278&c=v0.59.26#w100)  
+![easypay](https://static.openfintech.io/vendors/easypay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/easypay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/easypay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

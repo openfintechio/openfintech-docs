@@ -1,6 +1,6 @@
 
 # GPN DATA 
-![gpndata](https://static.openfintech.io/payment_providers/gpndata/logo.svg?w=400&c=v0.59.26#w100)  
+![gpndata](https://static.openfintech.io/payment_providers/gpndata/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![gpndata](https://static.openfintech.io/payment_providers/gpndata/logo.svg?w=400&c=v0.59.26#w100)  
+![gpndata](https://static.openfintech.io/payment_providers/gpndata/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/gpndata/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/gpndata/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![gpndata](https://static.openfintech.io/payment_providers/gpndata/icon.svg?w=278&c=v0.59.26#w100)  
+![gpndata](https://static.openfintech.io/payment_providers/gpndata/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/gpndata/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/gpndata/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

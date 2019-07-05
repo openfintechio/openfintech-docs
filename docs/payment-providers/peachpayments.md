@@ -1,6 +1,6 @@
 
 # Peach Payments 
-![peachpayments](https://static.openfintech.io/payment_providers/peachpayments/logo.svg?w=400&c=v0.59.26#w100)  
+![peachpayments](https://static.openfintech.io/payment_providers/peachpayments/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![peachpayments](https://static.openfintech.io/payment_providers/peachpayments/logo.svg?w=400&c=v0.59.26#w100)  
+![peachpayments](https://static.openfintech.io/payment_providers/peachpayments/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/peachpayments/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/peachpayments/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![peachpayments](https://static.openfintech.io/payment_providers/peachpayments/icon.svg?w=278&c=v0.59.26#w100)  
+![peachpayments](https://static.openfintech.io/payment_providers/peachpayments/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/peachpayments/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/peachpayments/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

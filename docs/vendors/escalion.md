@@ -1,6 +1,6 @@
 
 # Escalion 
-![escalion](https://static.openfintech.io/vendors/escalion/logo.svg?w=400&c=v0.59.26#w200)  
+![escalion](https://static.openfintech.io/vendors/escalion/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  44 Avenue John F. Kennedy1855 LuxembourgLuxembourg
 
 ### Logo 
  
-![escalion](https://static.openfintech.io/vendors/escalion/logo.svg?w=400&c=v0.59.26#w200)  
+![escalion](https://static.openfintech.io/vendors/escalion/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/escalion/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/escalion/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![escalion](https://static.openfintech.io/vendors/escalion/icon.svg?w=278&c=v0.59.26#w100)  
+![escalion](https://static.openfintech.io/vendors/escalion/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/escalion/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/escalion/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

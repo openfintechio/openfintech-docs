@@ -1,6 +1,6 @@
 
 # Euro Payment Group 
-![europayment](https://static.openfintech.io/payment_providers/europayment/logo.svg?w=400&c=v0.59.26#w100)  
+![europayment](https://static.openfintech.io/payment_providers/europayment/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![europayment](https://static.openfintech.io/payment_providers/europayment/logo.svg?w=400&c=v0.59.26#w100)  
+![europayment](https://static.openfintech.io/payment_providers/europayment/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/europayment/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/europayment/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![europayment](https://static.openfintech.io/payment_providers/europayment/icon.svg?w=278&c=v0.59.26#w100)  
+![europayment](https://static.openfintech.io/payment_providers/europayment/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/europayment/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/europayment/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

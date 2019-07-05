@@ -52,11 +52,11 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![xpayua](https://static.openfintech.io/payment_providers/xpayua/icon.svg?w=278&c=v0.59.26#w100) |[XPAY](/payment-providers/xpayua/)|`xpayua`| 
 |![tranzzo](https://static.openfintech.io/payment_providers/tranzzo/icon.svg?w=278&c=v0.59.26#w100) |[Tranzzo](/payment-providers/tranzzo/)|`tranzzo`| 
 |![easybits](https://static.openfintech.io/payment_providers/easybits/icon.svg?w=278&c=v0.59.26#w100) |[EasyBits.io](/payment-providers/easybits/)|`easybits`| 
-|![paylink](https://static.openfintech.io/payment_providers/paylink/icon.svg?w=278&c=v0.59.26#w100) |[PayLink](/payment-providers/paylink/)|`paylink`| 
+|![paylink](https://static.openfintech.io/payment_providers/paylink/icon.png?w=278&c=v0.59.26#w100) |[PayLink](/payment-providers/paylink/)|`paylink`| 
 |![cardgate](https://static.openfintech.io/payment_providers/cardgate/icon.svg?w=278&c=v0.59.26#w100) |[CardGate](/payment-providers/cardgate/)|`cardgate`| 
 |![alfabank](https://static.openfintech.io/payment_providers/alfabank/icon.svg?w=278&c=v0.59.26#w100) |[Alfa-Bank](/payment-providers/alfabank/)|`alfabank`| 
 |![concord](https://static.openfintech.io/payment_providers/concord/icon.svg?w=278&c=v0.59.26#w100) |[Concord Bank](/payment-providers/concord/)|`concord`| 
-|![procard](https://static.openfintech.io/payment_providers/procard/icon.svg?w=278&c=v0.59.26#w100) |[Procard](/payment-providers/procard/)|`procard`| 
+|![procard](https://static.openfintech.io/payment_providers/procard/icon.png?w=278&c=v0.59.26#w100) |[Procard](/payment-providers/procard/)|`procard`| 
 |![forwardbank](https://static.openfintech.io/payment_providers/forwardbank/icon.svg?w=278&c=v0.59.26#w100) |[Forward Bank](/payment-providers/forwardbank/)|`forwardbank`| 
  
 

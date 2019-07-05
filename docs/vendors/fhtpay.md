@@ -1,6 +1,6 @@
 
 # FhtPay 
-![fhtpay](https://static.openfintech.io/vendors/fhtpay/logo.svg?w=400&c=v0.59.26#w200)  
+![fhtpay](https://static.openfintech.io/vendors/fhtpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  ShenzhenChina
 
 ### Logo 
  
-![fhtpay](https://static.openfintech.io/vendors/fhtpay/logo.svg?w=400&c=v0.59.26#w200)  
+![fhtpay](https://static.openfintech.io/vendors/fhtpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/fhtpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/fhtpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![fhtpay](https://static.openfintech.io/vendors/fhtpay/icon.svg?w=278&c=v0.59.26#w100)  
+![fhtpay](https://static.openfintech.io/vendors/fhtpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/fhtpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/fhtpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _LUMINA (Vyshgorod
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![lumina-vyshgorod](https://static.openfintech.io/payout_methods/lumina-vyshgorod/icon.svg?w=278&c=v0.59.26#w40) |[lumina-vyshgorod_uah](/payout-services/lumina-vyshgorod_uah/)|`lumina-vyshgorod_uah`| 
+|![lumina-vyshgorod](https://static.openfintech.io/payout_methods/lumina-vyshgorod/icon.png?w=278&c=v0.59.26#w40) |[lumina-vyshgorod_uah](/payout-services/lumina-vyshgorod_uah/)|`lumina-vyshgorod_uah`| 
  
 
 ## JSON Object 

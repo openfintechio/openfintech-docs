@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _RIA.com_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ria-com](https://static.openfintech.io/payout_methods/ria-com/icon.svg?w=278&c=v0.59.26#w40) |[ria-com_uah](/payout-services/ria-com_uah/)|`ria-com_uah`| 
+|![ria-com](https://static.openfintech.io/payout_methods/ria-com/icon.png?w=278&c=v0.59.26#w40) |[ria-com_uah](/payout-services/ria-com_uah/)|`ria-com_uah`| 
  
 
 ## JSON Object 

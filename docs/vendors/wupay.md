@@ -1,6 +1,6 @@
 
 # WU Pay 
-![wupay](https://static.openfintech.io/vendors/wupay/logo.svg?w=400&c=v0.59.26#w200)  
+![wupay](https://static.openfintech.io/vendors/wupay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![wupay](https://static.openfintech.io/vendors/wupay/logo.svg?w=400&c=v0.59.26#w200)  
+![wupay](https://static.openfintech.io/vendors/wupay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/wupay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/wupay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![wupay](https://static.openfintech.io/vendors/wupay/icon.svg?w=278&c=v0.59.26#w100)  
+![wupay](https://static.openfintech.io/vendors/wupay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/wupay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/wupay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

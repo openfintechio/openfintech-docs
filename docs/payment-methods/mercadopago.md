@@ -1,6 +1,6 @@
 
 # MercadoPago 
-![mercadopago](https://static.openfintech.io/payment_methods/mercadopago/logo.svg?w=400&c=v0.59.26#w200)  
+![mercadopago](https://static.openfintech.io/payment_methods/mercadopago/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `mercadopago` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![mercadopago](https://static.openfintech.io/payment_methods/mercadopago/logo.svg?w=400&c=v0.59.26#w200)  
+![mercadopago](https://static.openfintech.io/payment_methods/mercadopago/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/mercadopago/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/mercadopago/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![mercadopago](https://static.openfintech.io/payment_methods/mercadopago/icon.svg?w=278&c=v0.59.26#w100)  
+![mercadopago](https://static.openfintech.io/payment_methods/mercadopago/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/mercadopago/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/mercadopago/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

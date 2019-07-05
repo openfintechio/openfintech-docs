@@ -1,6 +1,6 @@
 
 # Accentpay 
-![accentpay](https://static.openfintech.io/vendors/accentpay/logo.svg?w=400&c=v0.59.26#w200)  
+![accentpay](https://static.openfintech.io/vendors/accentpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -20,18 +20,18 @@
 
 ### Logo 
  
-![accentpay](https://static.openfintech.io/vendors/accentpay/logo.svg?w=400&c=v0.59.26#w200)  
+![accentpay](https://static.openfintech.io/vendors/accentpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/accentpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/accentpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![accentpay](https://static.openfintech.io/vendors/accentpay/icon.svg?w=278&c=v0.59.26#w100)  
+![accentpay](https://static.openfintech.io/vendors/accentpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/accentpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/accentpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

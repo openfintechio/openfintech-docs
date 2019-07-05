@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Good_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-khoroshee](https://static.openfintech.io/payout_methods/taksi-khoroshee/icon.svg?w=278&c=v0.59.26#w40) |[taksi-khoroshee_uah](/payout-services/taksi-khoroshee_uah/)|`taksi-khoroshee_uah`| 
+|![taksi-khoroshee](https://static.openfintech.io/payout_methods/taksi-khoroshee/icon.png?w=278&c=v0.59.26#w40) |[taksi-khoroshee_uah](/payout-services/taksi-khoroshee_uah/)|`taksi-khoroshee_uah`| 
  
 
 ## JSON Object 

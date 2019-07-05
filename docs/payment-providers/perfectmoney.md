@@ -1,6 +1,6 @@
 
 # Perfect Money 
-![perfectmoney](https://static.openfintech.io/payment_providers/perfectmoney/logo.svg?w=400&c=v0.59.26#w100)  
+![perfectmoney](https://static.openfintech.io/payment_providers/perfectmoney/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,10 +17,10 @@
 
 ### Logo 
  
-![perfectmoney](https://static.openfintech.io/payment_providers/perfectmoney/logo.svg?w=400&c=v0.59.26#w100)  
+![perfectmoney](https://static.openfintech.io/payment_providers/perfectmoney/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/perfectmoney/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/perfectmoney/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 

@@ -1,6 +1,6 @@
 
 # EBS 
-![ebillingsolutions](https://static.openfintech.io/payment_providers/ebillingsolutions/logo.svg?w=400&c=v0.59.26#w100)  
+![ebillingsolutions](https://static.openfintech.io/payment_providers/ebillingsolutions/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![ebillingsolutions](https://static.openfintech.io/payment_providers/ebillingsolutions/logo.svg?w=400&c=v0.59.26#w100)  
+![ebillingsolutions](https://static.openfintech.io/payment_providers/ebillingsolutions/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/ebillingsolutions/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/ebillingsolutions/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![ebillingsolutions](https://static.openfintech.io/payment_providers/ebillingsolutions/icon.svg?w=278&c=v0.59.26#w100)  
+![ebillingsolutions](https://static.openfintech.io/payment_providers/ebillingsolutions/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/ebillingsolutions/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/ebillingsolutions/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -41,18 +41,18 @@ The list of supported [Payment Methods](/payment-methods/)
 |:---:|:---:|:---:| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
 |![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
-|![rupaypaysecure](https://static.openfintech.io/payment_methods/rupaypaysecure/icon.svg?w=278&c=v0.59.26#w100) |[rupaypaysecure](/payment-methods/rupaypaysecure/)|`rupaypaysecure`| 
-|![jcb](https://static.openfintech.io/payment_methods/jcb/icon.svg?w=278&c=v0.59.26#w100) |[jcb](/payment-methods/jcb/)|`jcb`| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.svg?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![rupaypaysecure](https://static.openfintech.io/payment_methods/rupaypaysecure/icon.png?w=278&c=v0.59.26#w100) |[rupaypaysecure](/payment-methods/rupaypaysecure/)|`rupaypaysecure`| 
+|![jcb](https://static.openfintech.io/payment_methods/jcb/icon.png?w=278&c=v0.59.26#w100) |[jcb](/payment-methods/jcb/)|`jcb`| 
+|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
 |![dinersclub](https://static.openfintech.io/payment_methods/dinersclub/icon.svg?w=278&c=v0.59.26#w100) |[dinersclub](/payment-methods/dinersclub/)|`dinersclub`| 
-|![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.svg?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
+|![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.png?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
 |![maestro](https://static.openfintech.io/payment_methods/maestro/icon.svg?w=278&c=v0.59.26#w100) |[maestro](/payment-methods/maestro/)|`maestro`| 
 |![discover](https://static.openfintech.io/payment_methods/discover/icon.svg?w=278&c=v0.59.26#w100) |[discover](/payment-methods/discover/)|`discover`| 
-|![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.svg?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
-|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.svg?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
-|![hdfcbanknetbankingindia](https://static.openfintech.io/payment_methods/hdfcbanknetbankingindia/icon.svg?w=278&c=v0.59.26#w100) |[hdfcbanknetbankingindia](/payment-methods/hdfcbanknetbankingindia/)|`hdfcbanknetbankingindia`| 
-|![icicinetbanking](https://static.openfintech.io/payment_methods/icicinetbanking/icon.svg?w=278&c=v0.59.26#w100) |[icicinetbanking](/payment-methods/icicinetbanking/)|`icicinetbanking`| 
-|![mobikwik](https://static.openfintech.io/payment_methods/mobikwik/icon.svg?w=278&c=v0.59.26#w100) |[mobikwik](/payment-methods/mobikwik/)|`mobikwik`| 
+|![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.png?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
+|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.png?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
+|![hdfcbanknetbankingindia](https://static.openfintech.io/payment_methods/hdfcbanknetbankingindia/icon.png?w=278&c=v0.59.26#w100) |[hdfcbanknetbankingindia](/payment-methods/hdfcbanknetbankingindia/)|`hdfcbanknetbankingindia`| 
+|![icicinetbanking](https://static.openfintech.io/payment_methods/icicinetbanking/icon.png?w=278&c=v0.59.26#w100) |[icicinetbanking](/payment-methods/icicinetbanking/)|`icicinetbanking`| 
+|![mobikwik](https://static.openfintech.io/payment_methods/mobikwik/icon.png?w=278&c=v0.59.26#w100) |[mobikwik](/payment-methods/mobikwik/)|`mobikwik`| 
 |![paypal](https://static.openfintech.io/payment_methods/paypal/icon.svg?w=278&c=v0.59.26#w100) |[paypal](/payment-methods/paypal/)|`paypal`| 
  
 

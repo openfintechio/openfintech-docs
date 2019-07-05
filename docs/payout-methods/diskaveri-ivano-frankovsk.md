@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Discovery (Ivano-
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![diskaveri-ivano-frankovsk](https://static.openfintech.io/payout_methods/diskaveri-ivano-frankovsk/icon.svg?w=278&c=v0.59.26#w40) |[diskaveri-ivano-frankovsk_uah](/payout-services/diskaveri-ivano-frankovsk_uah/)|`diskaveri-ivano-frankovsk_uah`| 
+|![diskaveri-ivano-frankovsk](https://static.openfintech.io/payout_methods/diskaveri-ivano-frankovsk/icon.png?w=278&c=v0.59.26#w40) |[diskaveri-ivano-frankovsk_uah](/payout-services/diskaveri-ivano-frankovsk_uah/)|`diskaveri-ivano-frankovsk_uah`| 
  
 
 ## JSON Object 

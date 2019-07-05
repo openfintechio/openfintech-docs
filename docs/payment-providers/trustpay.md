@@ -1,6 +1,6 @@
 
 # TrustPay 
-![trustpay](https://static.openfintech.io/payment_providers/trustpay/logo.svg?w=400&c=v0.59.26#w100)  
+![trustpay](https://static.openfintech.io/payment_providers/trustpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -23,18 +23,18 @@
 
 ### Logo 
  
-![trustpay](https://static.openfintech.io/payment_providers/trustpay/logo.svg?w=400&c=v0.59.26#w100)  
+![trustpay](https://static.openfintech.io/payment_providers/trustpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/trustpay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/trustpay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![trustpay](https://static.openfintech.io/payment_providers/trustpay/icon.svg?w=278&c=v0.59.26#w100)  
+![trustpay](https://static.openfintech.io/payment_providers/trustpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/trustpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/trustpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -44,23 +44,23 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.svg?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
-|![cashu](https://static.openfintech.io/payment_methods/cashu/icon.svg?w=278&c=v0.59.26#w100) |[cashu](/payment-methods/cashu/)|`cashu`| 
-|![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.svg?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
+|![cashu](https://static.openfintech.io/payment_methods/cashu/icon.png?w=278&c=v0.59.26#w100) |[cashu](/payment-methods/cashu/)|`cashu`| 
+|![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.png?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
 |![maestro](https://static.openfintech.io/payment_methods/maestro/icon.svg?w=278&c=v0.59.26#w100) |[maestro](/payment-methods/maestro/)|`maestro`| 
-|![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.svg?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
+|![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.png?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
 |![chinaunionpay](https://static.openfintech.io/payment_methods/chinaunionpay/icon.svg?w=278&c=v0.59.26#w100) |[chinaunionpay](/payment-methods/chinaunionpay/)|`chinaunionpay`| 
-|![vpay](https://static.openfintech.io/payment_methods/vpay/icon.svg?w=278&c=v0.59.26#w100) |[vpay](/payment-methods/vpay/)|`vpay`| 
-|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.svg?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
-|![gemoney](https://static.openfintech.io/payment_methods/gemoney/icon.svg?w=278&c=v0.59.26#w100) |[gemoney](/payment-methods/gemoney/)|`gemoney`| 
+|![vpay](https://static.openfintech.io/payment_methods/vpay/icon.png?w=278&c=v0.59.26#w100) |[vpay](/payment-methods/vpay/)|`vpay`| 
+|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.png?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
+|![gemoney](https://static.openfintech.io/payment_methods/gemoney/icon.png?w=278&c=v0.59.26#w100) |[gemoney](/payment-methods/gemoney/)|`gemoney`| 
 |![wiretransfer](https://static.openfintech.io/payment_methods/wiretransfer/icon.svg?w=278&c=v0.59.26#w100) |[wiretransfer](/payment-methods/wiretransfer/)|`wiretransfer`| 
-|![komercnibanka](https://static.openfintech.io/payment_methods/komercnibanka/icon.svg?w=278&c=v0.59.26#w100) |[komercnibanka](/payment-methods/komercnibanka/)|`komercnibanka`| 
-|![postovabanka](https://static.openfintech.io/payment_methods/postovabanka/icon.svg?w=278&c=v0.59.26#w100) |[postovabanka](/payment-methods/postovabanka/)|`postovabanka`| 
-|![unicredit](https://static.openfintech.io/payment_methods/unicredit/icon.svg?w=278&c=v0.59.26#w100) |[unicredit](/payment-methods/unicredit/)|`unicredit`| 
-|![slovenskasporitelna](https://static.openfintech.io/payment_methods/slovenskasporitelna/icon.svg?w=278&c=v0.59.26#w100) |[slovenskasporitelna](/payment-methods/slovenskasporitelna/)|`slovenskasporitelna`| 
-|![tatrabanka](https://static.openfintech.io/payment_methods/tatrabanka/icon.svg?w=278&c=v0.59.26#w100) |[tatrabanka](/payment-methods/tatrabanka/)|`tatrabanka`| 
-|![vubbanka](https://static.openfintech.io/payment_methods/vubbanka/icon.svg?w=278&c=v0.59.26#w100) |[vubbanka](/payment-methods/vubbanka/)|`vubbanka`| 
+|![komercnibanka](https://static.openfintech.io/payment_methods/komercnibanka/icon.png?w=278&c=v0.59.26#w100) |[komercnibanka](/payment-methods/komercnibanka/)|`komercnibanka`| 
+|![postovabanka](https://static.openfintech.io/payment_methods/postovabanka/icon.png?w=278&c=v0.59.26#w100) |[postovabanka](/payment-methods/postovabanka/)|`postovabanka`| 
+|![unicredit](https://static.openfintech.io/payment_methods/unicredit/icon.png?w=278&c=v0.59.26#w100) |[unicredit](/payment-methods/unicredit/)|`unicredit`| 
+|![slovenskasporitelna](https://static.openfintech.io/payment_methods/slovenskasporitelna/icon.png?w=278&c=v0.59.26#w100) |[slovenskasporitelna](/payment-methods/slovenskasporitelna/)|`slovenskasporitelna`| 
+|![tatrabanka](https://static.openfintech.io/payment_methods/tatrabanka/icon.png?w=278&c=v0.59.26#w100) |[tatrabanka](/payment-methods/tatrabanka/)|`tatrabanka`| 
+|![vubbanka](https://static.openfintech.io/payment_methods/vubbanka/icon.png?w=278&c=v0.59.26#w100) |[vubbanka](/payment-methods/vubbanka/)|`vubbanka`| 
 |![sepadirectdebit](https://static.openfintech.io/payment_methods/sepadirectdebit/icon.svg?w=278&c=v0.59.26#w100) |[sepadirectdebit](/payment-methods/sepadirectdebit/)|`sepadirectdebit`| 
 |![sepacredittransfer](https://static.openfintech.io/payment_methods/sepacredittransfer/icon.svg?w=278&c=v0.59.26#w100) |[sepacredittransfer](/payment-methods/sepacredittransfer/)|`sepacredittransfer`| 
  

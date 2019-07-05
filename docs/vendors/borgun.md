@@ -1,6 +1,6 @@
 
 # Borgun 
-![borgun](https://static.openfintech.io/vendors/borgun/logo.svg?w=400&c=v0.59.26#w200)  
+![borgun](https://static.openfintech.io/vendors/borgun/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Blikaás 9221 HafnarfjörðurIceland
 
 ### Logo 
  
-![borgun](https://static.openfintech.io/vendors/borgun/logo.svg?w=400&c=v0.59.26#w200)  
+![borgun](https://static.openfintech.io/vendors/borgun/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/borgun/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/borgun/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![borgun](https://static.openfintech.io/vendors/borgun/icon.svg?w=278&c=v0.59.26#w100)  
+![borgun](https://static.openfintech.io/vendors/borgun/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/borgun/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/borgun/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

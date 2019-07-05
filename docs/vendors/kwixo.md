@@ -1,6 +1,6 @@
 
 # Kwixo 
-![kwixo](https://static.openfintech.io/vendors/kwixo/logo.svg?w=400&c=v0.59.26#w200)  
+![kwixo](https://static.openfintech.io/vendors/kwixo/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![kwixo](https://static.openfintech.io/vendors/kwixo/logo.svg?w=400&c=v0.59.26#w200)  
+![kwixo](https://static.openfintech.io/vendors/kwixo/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/kwixo/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/kwixo/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![kwixo](https://static.openfintech.io/vendors/kwixo/icon.svg?w=278&c=v0.59.26#w100)  
+![kwixo](https://static.openfintech.io/vendors/kwixo/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/kwixo/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/kwixo/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

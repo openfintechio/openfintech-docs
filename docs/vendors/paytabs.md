@@ -1,6 +1,6 @@
 
 # PayTabs 
-![paytabs](https://static.openfintech.io/vendors/paytabs/logo.svg?w=400&c=v0.59.26#w200)  
+![paytabs](https://static.openfintech.io/vendors/paytabs/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Kingdom of Saudi Arabia KhobarKhobar
 
 ### Logo 
  
-![paytabs](https://static.openfintech.io/vendors/paytabs/logo.svg?w=400&c=v0.59.26#w200)  
+![paytabs](https://static.openfintech.io/vendors/paytabs/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paytabs/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paytabs/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paytabs](https://static.openfintech.io/vendors/paytabs/icon.svg?w=278&c=v0.59.26#w100)  
+![paytabs](https://static.openfintech.io/vendors/paytabs/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paytabs/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paytabs/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

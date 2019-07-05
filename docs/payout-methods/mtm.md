@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _MTM_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![mtm](https://static.openfintech.io/payout_methods/mtm/icon.svg?w=278&c=v0.59.26#w40) |[mtm_uah](/payout-services/mtm_uah/)|`mtm_uah`| 
+|![mtm](https://static.openfintech.io/payout_methods/mtm/icon.png?w=278&c=v0.59.26#w40) |[mtm_uah](/payout-services/mtm_uah/)|`mtm_uah`| 
  
 
 ## JSON Object 

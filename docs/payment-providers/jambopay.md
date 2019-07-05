@@ -1,6 +1,6 @@
 
 # Jambopay 
-![jambopay](https://static.openfintech.io/payment_providers/jambopay/logo.svg?w=400&c=v0.59.26#w100)  
+![jambopay](https://static.openfintech.io/payment_providers/jambopay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![jambopay](https://static.openfintech.io/payment_providers/jambopay/logo.svg?w=400&c=v0.59.26#w100)  
+![jambopay](https://static.openfintech.io/payment_providers/jambopay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/jambopay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/jambopay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![jambopay](https://static.openfintech.io/payment_providers/jambopay/icon.svg?w=278&c=v0.59.26#w100)  
+![jambopay](https://static.openfintech.io/payment_providers/jambopay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/jambopay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/jambopay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

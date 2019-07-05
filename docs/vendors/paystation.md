@@ -1,6 +1,6 @@
 
 # Paystation 
-![paystation](https://static.openfintech.io/vendors/paystation/logo.svg?w=400&c=v0.59.26#w200)  
+![paystation](https://static.openfintech.io/vendors/paystation/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Level Four, 191 Thorndon Quay Wellington New Zealand
 
 ### Logo 
  
-![paystation](https://static.openfintech.io/vendors/paystation/logo.svg?w=400&c=v0.59.26#w200)  
+![paystation](https://static.openfintech.io/vendors/paystation/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paystation/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paystation/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paystation](https://static.openfintech.io/vendors/paystation/icon.svg?w=278&c=v0.59.26#w100)  
+![paystation](https://static.openfintech.io/vendors/paystation/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paystation/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paystation/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

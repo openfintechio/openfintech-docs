@@ -1,6 +1,6 @@
 
 # Cabal 
-![cabal](https://static.openfintech.io/vendors/cabal/logo.svg?w=400&c=v0.59.26#w200)  
+![cabal](https://static.openfintech.io/vendors/cabal/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![cabal](https://static.openfintech.io/vendors/cabal/logo.svg?w=400&c=v0.59.26#w200)  
+![cabal](https://static.openfintech.io/vendors/cabal/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/cabal/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/cabal/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![cabal](https://static.openfintech.io/vendors/cabal/icon.svg?w=278&c=v0.59.26#w100)  
+![cabal](https://static.openfintech.io/vendors/cabal/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/cabal/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/cabal/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

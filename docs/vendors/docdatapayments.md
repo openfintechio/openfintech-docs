@@ -1,6 +1,6 @@
 
 # docdata payments 
-![docdatapayments](https://static.openfintech.io/vendors/docdatapayments/logo.svg?w=400&c=v0.59.26#w200)  
+![docdatapayments](https://static.openfintech.io/vendors/docdatapayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Papendorpseweg 953528 BJ UtrechtNetherlands
 
 ### Logo 
  
-![docdatapayments](https://static.openfintech.io/vendors/docdatapayments/logo.svg?w=400&c=v0.59.26#w200)  
+![docdatapayments](https://static.openfintech.io/vendors/docdatapayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/docdatapayments/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/docdatapayments/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![docdatapayments](https://static.openfintech.io/vendors/docdatapayments/icon.svg?w=278&c=v0.59.26#w100)  
+![docdatapayments](https://static.openfintech.io/vendors/docdatapayments/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/docdatapayments/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/docdatapayments/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

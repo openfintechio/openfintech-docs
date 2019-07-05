@@ -1,6 +1,6 @@
 
 # China Guangfa Bank 
-![china_guangfa_bank](https://static.openfintech.io/payment_methods/china_guangfa_bank/logo.svg?w=400&c=v0.59.26#w200)  
+![china_guangfa_bank](https://static.openfintech.io/payment_methods/china_guangfa_bank/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `china_guangfa_bank` 
@@ -16,17 +16,17 @@
 ## Images 
 
 ### Logo 
-![china_guangfa_bank](https://static.openfintech.io/payment_methods/china_guangfa_bank/logo.svg?w=400&c=v0.59.26#w200)  
+![china_guangfa_bank](https://static.openfintech.io/payment_methods/china_guangfa_bank/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/china_guangfa_bank/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/china_guangfa_bank/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![china_guangfa_bank](https://static.openfintech.io/payment_methods/china_guangfa_bank/icon.svg?w=278&c=v0.59.26#w100)  
+![china_guangfa_bank](https://static.openfintech.io/payment_methods/china_guangfa_bank/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/china_guangfa_bank/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/china_guangfa_bank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payout Services 
@@ -35,7 +35,7 @@ The list of [Payout Services](/payout-services/) based on the _China Guangfa Ban
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![china_guangfa_bank](https://static.openfintech.io/payout_methods/china_guangfa_bank/icon.svg?w=278&c=v0.59.26#w40) |[china_guangfa_bank_cny](/payout-services/china_guangfa_bank_cny/)|`china_guangfa_bank_cny`| 
+|![china_guangfa_bank](https://static.openfintech.io/payout_methods/china_guangfa_bank/icon.png?w=278&c=v0.59.26#w40) |[china_guangfa_bank_cny](/payout-services/china_guangfa_bank_cny/)|`china_guangfa_bank_cny`| 
  
 
 ## Payment Providers 
@@ -44,7 +44,7 @@ The list of [Payment Providers](/payment-providers/) that support the _China Gua
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![paysec](https://static.openfintech.io/payment_providers/paysec/icon.svg?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
+|![paysec](https://static.openfintech.io/payment_providers/paysec/icon.png?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
  
 
 ## JSON Object 

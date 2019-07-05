@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Excellent (K
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-otlichnoe-kiev](https://static.openfintech.io/payout_methods/taksi-otlichnoe-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-otlichnoe-kiev_uah](/payout-services/taksi-otlichnoe-kiev_uah/)|`taksi-otlichnoe-kiev_uah`| 
+|![taksi-otlichnoe-kiev](https://static.openfintech.io/payout_methods/taksi-otlichnoe-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-otlichnoe-kiev_uah](/payout-services/taksi-otlichnoe-kiev_uah/)|`taksi-otlichnoe-kiev_uah`| 
  
 
 ## JSON Object 

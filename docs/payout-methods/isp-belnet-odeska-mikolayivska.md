@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ISP BELNET (Odess
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![isp-belnet-odeska-mikolayivska](https://static.openfintech.io/payout_methods/isp-belnet-odeska-mikolayivska/icon.svg?w=278&c=v0.59.26#w40) |[isp-belnet-odeska-mikolayivska_uah](/payout-services/isp-belnet-odeska-mikolayivska_uah/)|`isp-belnet-odeska-mikolayivska_uah`| 
+|![isp-belnet-odeska-mikolayivska](https://static.openfintech.io/payout_methods/isp-belnet-odeska-mikolayivska/icon.png?w=278&c=v0.59.26#w40) |[isp-belnet-odeska-mikolayivska_uah](/payout-services/isp-belnet-odeska-mikolayivska_uah/)|`isp-belnet-odeska-mikolayivska_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _DiSaVi line (Khar
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![disavi-line-kharkivska-obl](https://static.openfintech.io/payout_methods/disavi-line-kharkivska-obl/icon.svg?w=278&c=v0.59.26#w40) |[disavi-line-kharkivska-obl_uah](/payout-services/disavi-line-kharkivska-obl_uah/)|`disavi-line-kharkivska-obl_uah`| 
+|![disavi-line-kharkivska-obl](https://static.openfintech.io/payout_methods/disavi-line-kharkivska-obl/icon.png?w=278&c=v0.59.26#w40) |[disavi-line-kharkivska-obl_uah](/payout-services/disavi-line-kharkivska-obl_uah/)|`disavi-line-kharkivska-obl_uah`| 
  
 
 ## JSON Object 

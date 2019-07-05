@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _REGION (Kharkiv r
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![region-kharkovskaia-oblast](https://static.openfintech.io/payout_methods/region-kharkovskaia-oblast/icon.svg?w=278&c=v0.59.26#w40) |[region-kharkovskaia-oblast_uah](/payout-services/region-kharkovskaia-oblast_uah/)|`region-kharkovskaia-oblast_uah`| 
+|![region-kharkovskaia-oblast](https://static.openfintech.io/payout_methods/region-kharkovskaia-oblast/icon.png?w=278&c=v0.59.26#w40) |[region-kharkovskaia-oblast_uah](/payout-services/region-kharkovskaia-oblast_uah/)|`region-kharkovskaia-oblast_uah`| 
  
 
 ## JSON Object 

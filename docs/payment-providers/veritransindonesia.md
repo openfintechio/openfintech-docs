@@ -1,6 +1,6 @@
 
 # Veritrans Indonesia 
-![veritransindonesia](https://static.openfintech.io/payment_providers/veritransindonesia/logo.svg?w=400&c=v0.59.26#w100)  
+![veritransindonesia](https://static.openfintech.io/payment_providers/veritransindonesia/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![veritransindonesia](https://static.openfintech.io/payment_providers/veritransindonesia/logo.svg?w=400&c=v0.59.26#w100)  
+![veritransindonesia](https://static.openfintech.io/payment_providers/veritransindonesia/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/veritransindonesia/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/veritransindonesia/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![veritransindonesia](https://static.openfintech.io/payment_providers/veritransindonesia/icon.svg?w=278&c=v0.59.26#w100)  
+![veritransindonesia](https://static.openfintech.io/payment_providers/veritransindonesia/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/veritransindonesia/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/veritransindonesia/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

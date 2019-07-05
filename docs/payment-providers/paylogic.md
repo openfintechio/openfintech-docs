@@ -1,6 +1,6 @@
 
 # Pay-logic 
-![paylogic](https://static.openfintech.io/payment_providers/paylogic/logo.svg?w=400&c=v0.59.26#w100)  
+![paylogic](https://static.openfintech.io/payment_providers/paylogic/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -23,18 +23,18 @@
 
 ### Logo 
  
-![paylogic](https://static.openfintech.io/payment_providers/paylogic/logo.svg?w=400&c=v0.59.26#w100)  
+![paylogic](https://static.openfintech.io/payment_providers/paylogic/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paylogic/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paylogic/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![paylogic](https://static.openfintech.io/payment_providers/paylogic/icon.svg?w=278&c=v0.59.26#w100)  
+![paylogic](https://static.openfintech.io/payment_providers/paylogic/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paylogic/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paylogic/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payout Methods 

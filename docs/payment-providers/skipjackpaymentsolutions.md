@@ -1,6 +1,6 @@
 
 # Skipjack 
-![skipjackpaymentsolutions](https://static.openfintech.io/payment_providers/skipjackpaymentsolutions/logo.svg?w=400&c=v0.59.26#w100)  
+![skipjackpaymentsolutions](https://static.openfintech.io/payment_providers/skipjackpaymentsolutions/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![skipjackpaymentsolutions](https://static.openfintech.io/payment_providers/skipjackpaymentsolutions/logo.svg?w=400&c=v0.59.26#w100)  
+![skipjackpaymentsolutions](https://static.openfintech.io/payment_providers/skipjackpaymentsolutions/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/skipjackpaymentsolutions/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/skipjackpaymentsolutions/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![skipjackpaymentsolutions](https://static.openfintech.io/payment_providers/skipjackpaymentsolutions/icon.svg?w=278&c=v0.59.26#w100)  
+![skipjackpaymentsolutions](https://static.openfintech.io/payment_providers/skipjackpaymentsolutions/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/skipjackpaymentsolutions/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/skipjackpaymentsolutions/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -39,7 +39,7 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.svg?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
 |![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
  
 

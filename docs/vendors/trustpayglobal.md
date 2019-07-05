@@ -1,6 +1,6 @@
 
 # ILIXIUM 
-![trustpayglobal](https://static.openfintech.io/vendors/trustpayglobal/logo.svg?w=400&c=v0.59.26#w200)  
+![trustpayglobal](https://static.openfintech.io/vendors/trustpayglobal/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  22 - 24 Frederick Sanger Road GuildfordSurreyUnited Kingdom
 
 ### Logo 
  
-![trustpayglobal](https://static.openfintech.io/vendors/trustpayglobal/logo.svg?w=400&c=v0.59.26#w200)  
+![trustpayglobal](https://static.openfintech.io/vendors/trustpayglobal/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/trustpayglobal/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/trustpayglobal/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![trustpayglobal](https://static.openfintech.io/vendors/trustpayglobal/icon.svg?w=278&c=v0.59.26#w100)  
+![trustpayglobal](https://static.openfintech.io/vendors/trustpayglobal/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/trustpayglobal/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/trustpayglobal/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

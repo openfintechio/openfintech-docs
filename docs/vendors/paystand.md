@@ -1,6 +1,6 @@
 
 # PayStand 
-![paystand](https://static.openfintech.io/vendors/paystand/logo.svg?w=400&c=v0.59.26#w200)  
+![paystand](https://static.openfintech.io/vendors/paystand/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  303 Potrero Street Santa CruzCaliforniaUnited States of America
 
 ### Logo 
  
-![paystand](https://static.openfintech.io/vendors/paystand/logo.svg?w=400&c=v0.59.26#w200)  
+![paystand](https://static.openfintech.io/vendors/paystand/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paystand/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paystand/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paystand](https://static.openfintech.io/vendors/paystand/icon.svg?w=278&c=v0.59.26#w100)  
+![paystand](https://static.openfintech.io/vendors/paystand/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paystand/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paystand/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

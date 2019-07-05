@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Athos (Kiev)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-afon-kiev](https://static.openfintech.io/payout_methods/taksi-afon-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-afon-kiev_uah](/payout-services/taksi-afon-kiev_uah/)|`taksi-afon-kiev_uah`| 
+|![taksi-afon-kiev](https://static.openfintech.io/payout_methods/taksi-afon-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-afon-kiev_uah](/payout-services/taksi-afon-kiev_uah/)|`taksi-afon-kiev_uah`| 
  
 
 ## JSON Object 

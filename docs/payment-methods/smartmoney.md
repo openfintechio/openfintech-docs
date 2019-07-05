@@ -1,6 +1,6 @@
 
 # Smart Money 
-![smartmoney](https://static.openfintech.io/payment_methods/smartmoney/logo.svg?w=400&c=v0.59.26#w200)  
+![smartmoney](https://static.openfintech.io/payment_methods/smartmoney/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `smartmoney` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![smartmoney](https://static.openfintech.io/payment_methods/smartmoney/logo.svg?w=400&c=v0.59.26#w200)  
+![smartmoney](https://static.openfintech.io/payment_methods/smartmoney/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/smartmoney/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/smartmoney/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![smartmoney](https://static.openfintech.io/payment_methods/smartmoney/icon.svg?w=278&c=v0.59.26#w100)  
+![smartmoney](https://static.openfintech.io/payment_methods/smartmoney/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/smartmoney/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/smartmoney/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Smart Mon
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.svg?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
+|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.png?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
  
 
 ## JSON Object 

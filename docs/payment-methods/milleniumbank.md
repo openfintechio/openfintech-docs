@@ -1,6 +1,6 @@
 
 # Millenium Bank 
-![milleniumbank](https://static.openfintech.io/payment_methods/milleniumbank/logo.svg?w=400&c=v0.59.26#w200)  
+![milleniumbank](https://static.openfintech.io/payment_methods/milleniumbank/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `milleniumbank` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![milleniumbank](https://static.openfintech.io/payment_methods/milleniumbank/logo.svg?w=400&c=v0.59.26#w200)  
+![milleniumbank](https://static.openfintech.io/payment_methods/milleniumbank/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/milleniumbank/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/milleniumbank/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![milleniumbank](https://static.openfintech.io/payment_methods/milleniumbank/icon.svg?w=278&c=v0.59.26#w100)  
+![milleniumbank](https://static.openfintech.io/payment_methods/milleniumbank/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/milleniumbank/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/milleniumbank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

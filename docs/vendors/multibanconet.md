@@ -1,6 +1,6 @@
 
 # MultiBanco NET 
-![multibanconet](https://static.openfintech.io/vendors/multibanconet/logo.svg?w=400&c=v0.59.26#w200)  
+![multibanconet](https://static.openfintech.io/vendors/multibanconet/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![multibanconet](https://static.openfintech.io/vendors/multibanconet/logo.svg?w=400&c=v0.59.26#w200)  
+![multibanconet](https://static.openfintech.io/vendors/multibanconet/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/multibanconet/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/multibanconet/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![multibanconet](https://static.openfintech.io/vendors/multibanconet/icon.svg?w=278&c=v0.59.26#w100)  
+![multibanconet](https://static.openfintech.io/vendors/multibanconet/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/multibanconet/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/multibanconet/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

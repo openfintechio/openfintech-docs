@@ -1,6 +1,6 @@
 
 # Prosum 
-![prosum](https://static.openfintech.io/payment_providers/prosum/logo.svg?w=400&c=v0.59.26#w100)  
+![prosum](https://static.openfintech.io/payment_providers/prosum/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![prosum](https://static.openfintech.io/payment_providers/prosum/logo.svg?w=400&c=v0.59.26#w100)  
+![prosum](https://static.openfintech.io/payment_providers/prosum/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/prosum/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/prosum/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![prosum](https://static.openfintech.io/payment_providers/prosum/icon.svg?w=278&c=v0.59.26#w100)  
+![prosum](https://static.openfintech.io/payment_providers/prosum/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/prosum/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/prosum/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

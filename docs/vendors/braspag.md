@@ -1,6 +1,6 @@
 
 # Braspag 
-![braspag](https://static.openfintech.io/vendors/braspag/logo.svg?w=400&c=v0.59.26#w200)  
+![braspag](https://static.openfintech.io/vendors/braspag/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Av. Brig. Faria Lima, 1461 - Torre Sul - conj 74CEP 01452-002 São Paul
 
 ### Logo 
  
-![braspag](https://static.openfintech.io/vendors/braspag/logo.svg?w=400&c=v0.59.26#w200)  
+![braspag](https://static.openfintech.io/vendors/braspag/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/braspag/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/braspag/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![braspag](https://static.openfintech.io/vendors/braspag/icon.svg?w=278&c=v0.59.26#w100)  
+![braspag](https://static.openfintech.io/vendors/braspag/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/braspag/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/braspag/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

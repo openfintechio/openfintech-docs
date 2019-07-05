@@ -1,6 +1,6 @@
 
 # Payzoff 
-![payzoff](https://static.openfintech.io/vendors/payzoff/logo.svg?w=400&c=v0.59.26#w200)  
+![payzoff](https://static.openfintech.io/vendors/payzoff/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Narva maantee 710117 TallinnEstonia
 
 ### Logo 
  
-![payzoff](https://static.openfintech.io/vendors/payzoff/logo.svg?w=400&c=v0.59.26#w200)  
+![payzoff](https://static.openfintech.io/vendors/payzoff/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payzoff/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payzoff/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payzoff](https://static.openfintech.io/vendors/payzoff/icon.svg?w=278&c=v0.59.26#w100)  
+![payzoff](https://static.openfintech.io/vendors/payzoff/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payzoff/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payzoff/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

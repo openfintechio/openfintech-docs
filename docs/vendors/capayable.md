@@ -1,6 +1,6 @@
 
 # Capayable 
-![capayable](https://static.openfintech.io/vendors/capayable/logo.svg?w=400&c=v0.59.26#w200)  
+![capayable](https://static.openfintech.io/vendors/capayable/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@ email: info@capayable.comphone: 040-2595072
 
 ### Logo 
  
-![capayable](https://static.openfintech.io/vendors/capayable/logo.svg?w=400&c=v0.59.26#w200)  
+![capayable](https://static.openfintech.io/vendors/capayable/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/capayable/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/capayable/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![capayable](https://static.openfintech.io/vendors/capayable/icon.svg?w=278&c=v0.59.26#w100)  
+![capayable](https://static.openfintech.io/vendors/capayable/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/capayable/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/capayable/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

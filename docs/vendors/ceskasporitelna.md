@@ -1,6 +1,6 @@
 
 # Ceská Sporitelna 
-![ceskasporitelna](https://static.openfintech.io/vendors/ceskasporitelna/logo.svg?w=400&c=v0.59.26#w200)  
+![ceskasporitelna](https://static.openfintech.io/vendors/ceskasporitelna/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![ceskasporitelna](https://static.openfintech.io/vendors/ceskasporitelna/logo.svg?w=400&c=v0.59.26#w200)  
+![ceskasporitelna](https://static.openfintech.io/vendors/ceskasporitelna/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ceskasporitelna/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ceskasporitelna/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ceskasporitelna](https://static.openfintech.io/vendors/ceskasporitelna/icon.svg?w=278&c=v0.59.26#w100)  
+![ceskasporitelna](https://static.openfintech.io/vendors/ceskasporitelna/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ceskasporitelna/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ceskasporitelna/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

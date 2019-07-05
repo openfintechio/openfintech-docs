@@ -1,6 +1,6 @@
 
 # Payrexx Payments 
-![payrexx](https://static.openfintech.io/vendors/payrexx/logo.svg?w=400&c=v0.59.26#w200)  
+![payrexx](https://static.openfintech.io/vendors/payrexx/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Burgstrasse 203600 ThunBernSwitzerland
 
 ### Logo 
  
-![payrexx](https://static.openfintech.io/vendors/payrexx/logo.svg?w=400&c=v0.59.26#w200)  
+![payrexx](https://static.openfintech.io/vendors/payrexx/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payrexx/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payrexx/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payrexx](https://static.openfintech.io/vendors/payrexx/icon.svg?w=278&c=v0.59.26#w100)  
+![payrexx](https://static.openfintech.io/vendors/payrexx/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payrexx/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payrexx/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

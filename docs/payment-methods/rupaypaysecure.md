@@ -1,6 +1,6 @@
 
 # RuPay PaySecure 
-![rupaypaysecure](https://static.openfintech.io/payment_methods/rupaypaysecure/logo.svg?w=400&c=v0.59.26#w200)  
+![rupaypaysecure](https://static.openfintech.io/payment_methods/rupaypaysecure/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `rupaypaysecure` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![rupaypaysecure](https://static.openfintech.io/payment_methods/rupaypaysecure/logo.svg?w=400&c=v0.59.26#w200)  
+![rupaypaysecure](https://static.openfintech.io/payment_methods/rupaypaysecure/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/rupaypaysecure/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/rupaypaysecure/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![rupaypaysecure](https://static.openfintech.io/payment_methods/rupaypaysecure/icon.svg?w=278&c=v0.59.26#w100)  
+![rupaypaysecure](https://static.openfintech.io/payment_methods/rupaypaysecure/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/rupaypaysecure/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/rupaypaysecure/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,12 +43,12 @@ The list of [Payment Providers](/payment-providers/) that support the _RuPay Pay
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![digitalriverworldpayments](https://static.openfintech.io/payment_providers/digitalriverworldpayments/icon.svg?w=278&c=v0.59.26#w100) |[Digital River World Payments](/payment-providers/digitalriverworldpayments/)|`digitalriverworldpayments`| 
+|![digitalriverworldpayments](https://static.openfintech.io/payment_providers/digitalriverworldpayments/icon.png?w=278&c=v0.59.26#w100) |[Digital River World Payments](/payment-providers/digitalriverworldpayments/)|`digitalriverworldpayments`| 
 |![payu](https://static.openfintech.io/payment_providers/payu/icon.svg?w=278&c=v0.59.26#w100) |[PayU](/payment-providers/payu/)|`payu`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
-|![ebillingsolutions](https://static.openfintech.io/payment_providers/ebillingsolutions/icon.svg?w=278&c=v0.59.26#w100) |[EBS](/payment-providers/ebillingsolutions/)|`ebillingsolutions`| 
-|![alliedwallet2](https://static.openfintech.io/payment_providers/alliedwallet2/icon.svg?w=278&c=v0.59.26#w100) |[Allied Wallet](/payment-providers/alliedwallet2/)|`alliedwallet2`| 
-|![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.svg?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![ebillingsolutions](https://static.openfintech.io/payment_providers/ebillingsolutions/icon.png?w=278&c=v0.59.26#w100) |[EBS](/payment-providers/ebillingsolutions/)|`ebillingsolutions`| 
+|![alliedwallet2](https://static.openfintech.io/payment_providers/alliedwallet2/icon.png?w=278&c=v0.59.26#w100) |[Allied Wallet](/payment-providers/alliedwallet2/)|`alliedwallet2`| 
+|![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.png?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
  
 
 ## JSON Object 

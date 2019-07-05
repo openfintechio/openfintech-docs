@@ -1,6 +1,6 @@
 
 # GHL Systems Berhad 
-![ghlsystemsberhad](https://static.openfintech.io/payment_providers/ghlsystemsberhad/logo.svg?w=400&c=v0.59.26#w100)  
+![ghlsystemsberhad](https://static.openfintech.io/payment_providers/ghlsystemsberhad/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![ghlsystemsberhad](https://static.openfintech.io/payment_providers/ghlsystemsberhad/logo.svg?w=400&c=v0.59.26#w100)  
+![ghlsystemsberhad](https://static.openfintech.io/payment_providers/ghlsystemsberhad/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/ghlsystemsberhad/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/ghlsystemsberhad/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![ghlsystemsberhad](https://static.openfintech.io/payment_providers/ghlsystemsberhad/icon.svg?w=278&c=v0.59.26#w100)  
+![ghlsystemsberhad](https://static.openfintech.io/payment_providers/ghlsystemsberhad/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/ghlsystemsberhad/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/ghlsystemsberhad/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

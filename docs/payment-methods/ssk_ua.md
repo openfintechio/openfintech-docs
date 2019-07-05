@@ -1,6 +1,6 @@
 
 # Self service kiosk Ukraine 
-![ssk_ua](https://static.openfintech.io/payment_methods/ssk_ua/logo.svg?w=400&c=v0.59.26#w200)  
+![ssk_ua](https://static.openfintech.io/payment_methods/ssk_ua/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `ssk_ua` 
@@ -15,17 +15,17 @@
 ## Images 
 
 ### Logo 
-![ssk_ua](https://static.openfintech.io/payment_methods/ssk_ua/logo.svg?w=400&c=v0.59.26#w200)  
+![ssk_ua](https://static.openfintech.io/payment_methods/ssk_ua/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/ssk_ua/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/ssk_ua/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![ssk_ua](https://static.openfintech.io/payment_methods/ssk_ua/icon.svg?w=278&c=v0.59.26#w100)  
+![ssk_ua](https://static.openfintech.io/payment_methods/ssk_ua/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/ssk_ua/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/ssk_ua/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

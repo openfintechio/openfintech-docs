@@ -1,6 +1,6 @@
 
 # Dragonpay 
-![dragonpay](https://static.openfintech.io/vendors/dragonpay/logo.svg?w=400&c=v0.59.26#w200)  
+![dragonpay](https://static.openfintech.io/vendors/dragonpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Suite B, 5/f Builder’s Center Building, 170 Salcedo Street Legaspi Vi
 
 ### Logo 
  
-![dragonpay](https://static.openfintech.io/vendors/dragonpay/logo.svg?w=400&c=v0.59.26#w200)  
+![dragonpay](https://static.openfintech.io/vendors/dragonpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/dragonpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/dragonpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![dragonpay](https://static.openfintech.io/vendors/dragonpay/icon.svg?w=278&c=v0.59.26#w100)  
+![dragonpay](https://static.openfintech.io/vendors/dragonpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/dragonpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/dragonpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

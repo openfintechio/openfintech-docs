@@ -1,6 +1,6 @@
 
 # Ukrsib Bank 
-![ukrsibbank](https://static.openfintech.io/payment_methods/ukrsibbank/logo.svg?w=400&c=v0.59.26#w200)  
+![ukrsibbank](https://static.openfintech.io/payment_methods/ukrsibbank/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `ukrsibbank` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![ukrsibbank](https://static.openfintech.io/payment_methods/ukrsibbank/logo.svg?w=400&c=v0.59.26#w200)  
+![ukrsibbank](https://static.openfintech.io/payment_methods/ukrsibbank/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/ukrsibbank/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/ukrsibbank/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![ukrsibbank](https://static.openfintech.io/payment_methods/ukrsibbank/icon.svg?w=278&c=v0.59.26#w100)  
+![ukrsibbank](https://static.openfintech.io/payment_methods/ukrsibbank/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/ukrsibbank/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/ukrsibbank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

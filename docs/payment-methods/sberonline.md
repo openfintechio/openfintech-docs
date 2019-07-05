@@ -1,6 +1,6 @@
 
 # Sberbank Online 
-![sberonline](https://static.openfintech.io/payment_methods/sberonline/logo.svg?w=400&c=v0.59.26#w200)  
+![sberonline](https://static.openfintech.io/payment_methods/sberonline/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `sberonline` 
@@ -17,10 +17,10 @@
 ## Images 
 
 ### Logo 
-![sberonline](https://static.openfintech.io/payment_methods/sberonline/logo.svg?w=400&c=v0.59.26#w200)  
+![sberonline](https://static.openfintech.io/payment_methods/sberonline/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/sberonline/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/sberonline/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 

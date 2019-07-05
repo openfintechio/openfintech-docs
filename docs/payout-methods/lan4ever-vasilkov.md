@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Lan4ever (Cornflo
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![lan4ever-vasilkov](https://static.openfintech.io/payout_methods/lan4ever-vasilkov/icon.svg?w=278&c=v0.59.26#w40) |[lan4ever-vasilkov_uah](/payout-services/lan4ever-vasilkov_uah/)|`lan4ever-vasilkov_uah`| 
+|![lan4ever-vasilkov](https://static.openfintech.io/payout_methods/lan4ever-vasilkov/icon.png?w=278&c=v0.59.26#w40) |[lan4ever-vasilkov_uah](/payout-services/lan4ever-vasilkov_uah/)|`lan4ever-vasilkov_uah`| 
  
 
 ## JSON Object 

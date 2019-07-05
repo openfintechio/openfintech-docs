@@ -1,6 +1,6 @@
 
 # arvato Finance Services Ltd. 
-![arvatofinance](https://static.openfintech.io/vendors/arvatofinance/logo.svg?w=400&c=v0.59.26#w200)  
+![arvatofinance](https://static.openfintech.io/vendors/arvatofinance/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  The arvato Building, Eastpoint Business Park Ireland
 
 ### Logo 
  
-![arvatofinance](https://static.openfintech.io/vendors/arvatofinance/logo.svg?w=400&c=v0.59.26#w200)  
+![arvatofinance](https://static.openfintech.io/vendors/arvatofinance/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/arvatofinance/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/arvatofinance/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![arvatofinance](https://static.openfintech.io/vendors/arvatofinance/icon.svg?w=278&c=v0.59.26#w100)  
+![arvatofinance](https://static.openfintech.io/vendors/arvatofinance/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/arvatofinance/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/arvatofinance/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

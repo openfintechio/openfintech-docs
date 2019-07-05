@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ArtTV (Artyomovsk
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![arttv-artemovsk](https://static.openfintech.io/payout_methods/arttv-artemovsk/icon.svg?w=278&c=v0.59.26#w40) |[arttv-artemovsk_uah](/payout-services/arttv-artemovsk_uah/)|`arttv-artemovsk_uah`| 
+|![arttv-artemovsk](https://static.openfintech.io/payout_methods/arttv-artemovsk/icon.png?w=278&c=v0.59.26#w40) |[arttv-artemovsk_uah](/payout-services/arttv-artemovsk_uah/)|`arttv-artemovsk_uah`| 
  
 
 ## JSON Object 

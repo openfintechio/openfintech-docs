@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Prolink_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![prolink](https://static.openfintech.io/payout_methods/prolink/icon.svg?w=278&c=v0.59.26#w40) |[prolink_uah](/payout-services/prolink_uah/)|`prolink_uah`| 
+|![prolink](https://static.openfintech.io/payout_methods/prolink/icon.png?w=278&c=v0.59.26#w40) |[prolink_uah](/payout-services/prolink_uah/)|`prolink_uah`| 
  
 
 ## JSON Object 

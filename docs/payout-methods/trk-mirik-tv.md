@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Mirik-TV_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![trk-mirik-tv](https://static.openfintech.io/payout_methods/trk-mirik-tv/icon.svg?w=278&c=v0.59.26#w40) |[trk-mirik-tv_uah](/payout-services/trk-mirik-tv_uah/)|`trk-mirik-tv_uah`| 
+|![trk-mirik-tv](https://static.openfintech.io/payout_methods/trk-mirik-tv/icon.png?w=278&c=v0.59.26#w40) |[trk-mirik-tv_uah](/payout-services/trk-mirik-tv_uah/)|`trk-mirik-tv_uah`| 
  
 
 ## JSON Object 

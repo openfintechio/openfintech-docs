@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Netlink_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![netlink](https://static.openfintech.io/payout_methods/netlink/icon.svg?w=278&c=v0.59.26#w40) |[netlink_uah](/payout-services/netlink_uah/)|`netlink_uah`| 
+|![netlink](https://static.openfintech.io/payout_methods/netlink/icon.png?w=278&c=v0.59.26#w40) |[netlink_uah](/payout-services/netlink_uah/)|`netlink_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _FlyNet (Kharkov)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![flynet-kharkov](https://static.openfintech.io/payout_methods/flynet-kharkov/icon.svg?w=278&c=v0.59.26#w40) |[flynet-kharkov_uah](/payout-services/flynet-kharkov_uah/)|`flynet-kharkov_uah`| 
+|![flynet-kharkov](https://static.openfintech.io/payout_methods/flynet-kharkov/icon.png?w=278&c=v0.59.26#w40) |[flynet-kharkov_uah](/payout-services/flynet-kharkov_uah/)|`flynet-kharkov_uah`| 
  
 
 ## JSON Object 

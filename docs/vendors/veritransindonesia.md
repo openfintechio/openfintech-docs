@@ -1,6 +1,6 @@
 
 # Veritrans Indonesia 
-![veritransindonesia](https://static.openfintech.io/vendors/veritransindonesia/logo.svg?w=400&c=v0.59.26#w200)  
+![veritransindonesia](https://static.openfintech.io/vendors/veritransindonesia/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Jakarta JakartaIndonesia
 
 ### Logo 
  
-![veritransindonesia](https://static.openfintech.io/vendors/veritransindonesia/logo.svg?w=400&c=v0.59.26#w200)  
+![veritransindonesia](https://static.openfintech.io/vendors/veritransindonesia/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/veritransindonesia/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/veritransindonesia/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![veritransindonesia](https://static.openfintech.io/vendors/veritransindonesia/icon.svg?w=278&c=v0.59.26#w100)  
+![veritransindonesia](https://static.openfintech.io/vendors/veritransindonesia/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/veritransindonesia/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/veritransindonesia/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

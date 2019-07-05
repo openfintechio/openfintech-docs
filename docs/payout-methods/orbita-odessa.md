@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ORBITA (Odessa)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![orbita-odessa](https://static.openfintech.io/payout_methods/orbita-odessa/icon.svg?w=278&c=v0.59.26#w40) |[orbita-odessa_uah](/payout-services/orbita-odessa_uah/)|`orbita-odessa_uah`| 
+|![orbita-odessa](https://static.openfintech.io/payout_methods/orbita-odessa/icon.png?w=278&c=v0.59.26#w40) |[orbita-odessa_uah](/payout-services/orbita-odessa_uah/)|`orbita-odessa_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Domino (Kiev
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-domino-kiev](https://static.openfintech.io/payout_methods/taksi-domino-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-domino-kiev_uah](/payout-services/taksi-domino-kiev_uah/)|`taksi-domino-kiev_uah`| 
+|![taksi-domino-kiev](https://static.openfintech.io/payout_methods/taksi-domino-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-domino-kiev_uah](/payout-services/taksi-domino-kiev_uah/)|`taksi-domino-kiev_uah`| 
  
 
 ## JSON Object 

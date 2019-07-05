@@ -1,6 +1,6 @@
 
 # PayNetSecure 
-![paynetsecure](https://static.openfintech.io/payment_providers/paynetsecure/logo.svg?w=400&c=v0.59.26#w100)  
+![paynetsecure](https://static.openfintech.io/payment_providers/paynetsecure/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![paynetsecure](https://static.openfintech.io/payment_providers/paynetsecure/logo.svg?w=400&c=v0.59.26#w100)  
+![paynetsecure](https://static.openfintech.io/payment_providers/paynetsecure/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paynetsecure/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paynetsecure/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![paynetsecure](https://static.openfintech.io/payment_providers/paynetsecure/icon.svg?w=278&c=v0.59.26#w100)  
+![paynetsecure](https://static.openfintech.io/payment_providers/paynetsecure/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paynetsecure/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paynetsecure/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Amazon Gift Card 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![amazon-gift-card-us-10](https://static.openfintech.io/payout_methods/amazon-gift-card-us-10/icon.svg?w=278&c=v0.59.26#w40) |[amazon-gift-card-us-10_uah](/payout-services/amazon-gift-card-us-10_uah/)|`amazon-gift-card-us-10_uah`| 
+|![amazon-gift-card-us-10](https://static.openfintech.io/payout_methods/amazon-gift-card-us-10/icon.png?w=278&c=v0.59.26#w40) |[amazon-gift-card-us-10_uah](/payout-services/amazon-gift-card-us-10_uah/)|`amazon-gift-card-us-10_uah`| 
  
 
 ## JSON Object 

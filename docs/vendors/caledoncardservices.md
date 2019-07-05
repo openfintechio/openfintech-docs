@@ -1,6 +1,6 @@
 
 # Caledon Card Services 
-![caledoncardservices](https://static.openfintech.io/vendors/caledoncardservices/logo.svg?w=400&c=v0.59.26#w200)  
+![caledoncardservices](https://static.openfintech.io/vendors/caledoncardservices/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  GeorgetownL7G 4T1 Georgetown, OntarioCanada
 
 ### Logo 
  
-![caledoncardservices](https://static.openfintech.io/vendors/caledoncardservices/logo.svg?w=400&c=v0.59.26#w200)  
+![caledoncardservices](https://static.openfintech.io/vendors/caledoncardservices/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/caledoncardservices/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/caledoncardservices/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![caledoncardservices](https://static.openfintech.io/vendors/caledoncardservices/icon.svg?w=278&c=v0.59.26#w100)  
+![caledoncardservices](https://static.openfintech.io/vendors/caledoncardservices/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/caledoncardservices/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/caledoncardservices/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

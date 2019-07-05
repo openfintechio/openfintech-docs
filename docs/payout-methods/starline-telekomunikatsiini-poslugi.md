@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Starline - teleco
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![starline-telekomunikatsiini-poslugi](https://static.openfintech.io/payout_methods/starline-telekomunikatsiini-poslugi/icon.svg?w=278&c=v0.59.26#w40) |[starline-telekomunikatsiini-poslugi_uah](/payout-services/starline-telekomunikatsiini-poslugi_uah/)|`starline-telekomunikatsiini-poslugi_uah`| 
+|![starline-telekomunikatsiini-poslugi](https://static.openfintech.io/payout_methods/starline-telekomunikatsiini-poslugi/icon.png?w=278&c=v0.59.26#w40) |[starline-telekomunikatsiini-poslugi_uah](/payout-services/starline-telekomunikatsiini-poslugi_uah/)|`starline-telekomunikatsiini-poslugi_uah`| 
  
 
 ## JSON Object 

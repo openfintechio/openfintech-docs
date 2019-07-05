@@ -1,6 +1,6 @@
 
 # National Bank of the Republic of Belarus 
-![nbrb](https://static.openfintech.io/vendors/nbrb/logo.svg?w=400&c=v0.59.26#w200)  
+![nbrb](https://static.openfintech.io/vendors/nbrb/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![nbrb](https://static.openfintech.io/vendors/nbrb/logo.svg?w=400&c=v0.59.26#w200)  
+![nbrb](https://static.openfintech.io/vendors/nbrb/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/nbrb/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/nbrb/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![nbrb](https://static.openfintech.io/vendors/nbrb/icon.svg?w=278&c=v0.59.26#w100)  
+![nbrb](https://static.openfintech.io/vendors/nbrb/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/nbrb/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/nbrb/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

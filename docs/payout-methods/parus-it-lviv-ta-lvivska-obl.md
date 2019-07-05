@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _PARUS IT (Lviv an
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![parus-it-lviv-ta-lvivska-obl](https://static.openfintech.io/payout_methods/parus-it-lviv-ta-lvivska-obl/icon.svg?w=278&c=v0.59.26#w40) |[parus-it-lviv-ta-lvivska-obl_uah](/payout-services/parus-it-lviv-ta-lvivska-obl_uah/)|`parus-it-lviv-ta-lvivska-obl_uah`| 
+|![parus-it-lviv-ta-lvivska-obl](https://static.openfintech.io/payout_methods/parus-it-lviv-ta-lvivska-obl/icon.png?w=278&c=v0.59.26#w40) |[parus-it-lviv-ta-lvivska-obl_uah](/payout-services/parus-it-lviv-ta-lvivska-obl_uah/)|`parus-it-lviv-ta-lvivska-obl_uah`| 
  
 
 ## JSON Object 

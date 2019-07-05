@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _TRK 'BRІZ' (Odes
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![trk-briz-odessa](https://static.openfintech.io/payout_methods/trk-briz-odessa/icon.svg?w=278&c=v0.59.26#w40) |[trk-briz-odessa_uah](/payout-services/trk-briz-odessa_uah/)|`trk-briz-odessa_uah`| 
+|![trk-briz-odessa](https://static.openfintech.io/payout_methods/trk-briz-odessa/icon.png?w=278&c=v0.59.26#w40) |[trk-briz-odessa_uah](/payout-services/trk-briz-odessa_uah/)|`trk-briz-odessa_uah`| 
  
 
 ## JSON Object 

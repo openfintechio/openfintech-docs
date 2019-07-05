@@ -1,6 +1,6 @@
 
 # Paytrail 
-![paytrail](https://static.openfintech.io/vendors/paytrail/logo.svg?w=400&c=v0.59.26#w200)  
+![paytrail](https://static.openfintech.io/vendors/paytrail/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Innova 2 Lutakonaukio 740100 Jyväskylä
 
 ### Logo 
  
-![paytrail](https://static.openfintech.io/vendors/paytrail/logo.svg?w=400&c=v0.59.26#w200)  
+![paytrail](https://static.openfintech.io/vendors/paytrail/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paytrail/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paytrail/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paytrail](https://static.openfintech.io/vendors/paytrail/icon.svg?w=278&c=v0.59.26#w100)  
+![paytrail](https://static.openfintech.io/vendors/paytrail/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paytrail/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paytrail/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _MEDIANA (Zaporozh
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![mediana-zaporozhe](https://static.openfintech.io/payout_methods/mediana-zaporozhe/icon.svg?w=278&c=v0.59.26#w40) |[mediana-zaporozhe_uah](/payout-services/mediana-zaporozhe_uah/)|`mediana-zaporozhe_uah`| 
+|![mediana-zaporozhe](https://static.openfintech.io/payout_methods/mediana-zaporozhe/icon.png?w=278&c=v0.59.26#w40) |[mediana-zaporozhe_uah](/payout-services/mediana-zaporozhe_uah/)|`mediana-zaporozhe_uah`| 
  
 
 ## JSON Object 

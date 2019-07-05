@@ -1,6 +1,6 @@
 
 # Carte Bleue 
-![cartebleue](https://static.openfintech.io/vendors/cartebleue/logo.svg?w=400&c=v0.59.26#w200)  
+![cartebleue](https://static.openfintech.io/vendors/cartebleue/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@ fax: -
 
 ### Logo 
  
-![cartebleue](https://static.openfintech.io/vendors/cartebleue/logo.svg?w=400&c=v0.59.26#w200)  
+![cartebleue](https://static.openfintech.io/vendors/cartebleue/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/cartebleue/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/cartebleue/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![cartebleue](https://static.openfintech.io/vendors/cartebleue/icon.svg?w=278&c=v0.59.26#w100)  
+![cartebleue](https://static.openfintech.io/vendors/cartebleue/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/cartebleue/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/cartebleue/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

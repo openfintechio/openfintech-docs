@@ -1,6 +1,6 @@
 
 # Pivotal Payments 
-![pivotalpayments](https://static.openfintech.io/vendors/pivotalpayments/logo.svg?w=400&c=v0.59.26#w200)  
+![pivotalpayments](https://static.openfintech.io/vendors/pivotalpayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  685 Cathcart Street, Suite 1000H3B 1M7 MontrealCanada
 
 ### Logo 
  
-![pivotalpayments](https://static.openfintech.io/vendors/pivotalpayments/logo.svg?w=400&c=v0.59.26#w200)  
+![pivotalpayments](https://static.openfintech.io/vendors/pivotalpayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/pivotalpayments/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/pivotalpayments/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![pivotalpayments](https://static.openfintech.io/vendors/pivotalpayments/icon.svg?w=278&c=v0.59.26#w100)  
+![pivotalpayments](https://static.openfintech.io/vendors/pivotalpayments/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/pivotalpayments/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/pivotalpayments/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

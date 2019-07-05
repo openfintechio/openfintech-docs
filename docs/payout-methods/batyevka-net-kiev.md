@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Batyevka.net (Kie
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![batyevka-net-kiev](https://static.openfintech.io/payout_methods/batyevka-net-kiev/icon.svg?w=278&c=v0.59.26#w40) |[batyevka-net-kiev_uah](/payout-services/batyevka-net-kiev_uah/)|`batyevka-net-kiev_uah`| 
+|![batyevka-net-kiev](https://static.openfintech.io/payout_methods/batyevka-net-kiev/icon.png?w=278&c=v0.59.26#w40) |[batyevka-net-kiev_uah](/payout-services/batyevka-net-kiev_uah/)|`batyevka-net-kiev_uah`| 
  
 
 ## JSON Object 

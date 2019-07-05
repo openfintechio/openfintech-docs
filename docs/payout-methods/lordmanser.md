@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Lordmanser_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![lordmanser](https://static.openfintech.io/payout_methods/lordmanser/icon.svg?w=278&c=v0.59.26#w40) |[lordmanser_uah](/payout-services/lordmanser_uah/)|`lordmanser_uah`| 
+|![lordmanser](https://static.openfintech.io/payout_methods/lordmanser/icon.png?w=278&c=v0.59.26#w40) |[lordmanser_uah](/payout-services/lordmanser_uah/)|`lordmanser_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # BeeKash Payment System 
-![beekash](https://static.openfintech.io/vendors/beekash/logo.svg?w=400&c=v0.59.26#w200)  
+![beekash](https://static.openfintech.io/vendors/beekash/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Finland
 
 ### Logo 
  
-![beekash](https://static.openfintech.io/vendors/beekash/logo.svg?w=400&c=v0.59.26#w200)  
+![beekash](https://static.openfintech.io/vendors/beekash/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/beekash/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/beekash/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![beekash](https://static.openfintech.io/vendors/beekash/icon.svg?w=278&c=v0.59.26#w100)  
+![beekash](https://static.openfintech.io/vendors/beekash/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/beekash/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/beekash/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

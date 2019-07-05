@@ -1,6 +1,6 @@
 
 # Optomany 
-![optomany](https://static.openfintech.io/vendors/optomany/logo.svg?w=400&c=v0.59.26#w200)  
+![optomany](https://static.openfintech.io/vendors/optomany/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  United Kingdom
 
 ### Logo 
  
-![optomany](https://static.openfintech.io/vendors/optomany/logo.svg?w=400&c=v0.59.26#w200)  
+![optomany](https://static.openfintech.io/vendors/optomany/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/optomany/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/optomany/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![optomany](https://static.openfintech.io/vendors/optomany/icon.svg?w=278&c=v0.59.26#w100)  
+![optomany](https://static.openfintech.io/vendors/optomany/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/optomany/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/optomany/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

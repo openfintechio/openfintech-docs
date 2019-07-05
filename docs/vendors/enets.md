@@ -1,6 +1,6 @@
 
 # eNETS 
-![enets](https://static.openfintech.io/vendors/enets/logo.svg?w=400&c=v0.59.26#w200)  
+![enets](https://static.openfintech.io/vendors/enets/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  298 Tiong Bahru Road #04-01/06, Central Plaza SingaporeSingapore
 
 ### Logo 
  
-![enets](https://static.openfintech.io/vendors/enets/logo.svg?w=400&c=v0.59.26#w200)  
+![enets](https://static.openfintech.io/vendors/enets/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/enets/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/enets/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![enets](https://static.openfintech.io/vendors/enets/icon.svg?w=278&c=v0.59.26#w100)  
+![enets](https://static.openfintech.io/vendors/enets/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/enets/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/enets/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

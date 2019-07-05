@@ -1,6 +1,6 @@
 
 # Netbilling 
-![netbilling](https://static.openfintech.io/vendors/netbilling/logo.svg?w=400&c=v0.59.26#w200)  
+![netbilling](https://static.openfintech.io/vendors/netbilling/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  91355
 
 ### Logo 
  
-![netbilling](https://static.openfintech.io/vendors/netbilling/logo.svg?w=400&c=v0.59.26#w200)  
+![netbilling](https://static.openfintech.io/vendors/netbilling/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/netbilling/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/netbilling/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![netbilling](https://static.openfintech.io/vendors/netbilling/icon.svg?w=278&c=v0.59.26#w100)  
+![netbilling](https://static.openfintech.io/vendors/netbilling/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/netbilling/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/netbilling/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

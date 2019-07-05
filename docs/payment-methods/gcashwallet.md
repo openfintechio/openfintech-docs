@@ -1,6 +1,6 @@
 
 # GCASH 
-![gcashwallet](https://static.openfintech.io/payment_methods/gcashwallet/logo.svg?w=400&c=v0.59.26#w200)  
+![gcashwallet](https://static.openfintech.io/payment_methods/gcashwallet/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `gcashwallet` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![gcashwallet](https://static.openfintech.io/payment_methods/gcashwallet/logo.svg?w=400&c=v0.59.26#w200)  
+![gcashwallet](https://static.openfintech.io/payment_methods/gcashwallet/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/gcashwallet/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/gcashwallet/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![gcashwallet](https://static.openfintech.io/payment_methods/gcashwallet/icon.svg?w=278&c=v0.59.26#w100)  
+![gcashwallet](https://static.openfintech.io/payment_methods/gcashwallet/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/gcashwallet/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/gcashwallet/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _GCASH_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.svg?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
+|![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.png?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
  
 
 ## JSON Object 

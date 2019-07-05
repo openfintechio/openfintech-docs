@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi City (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-misto-kiev](https://static.openfintech.io/payout_methods/taksi-misto-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-misto-kiev_uah](/payout-services/taksi-misto-kiev_uah/)|`taksi-misto-kiev_uah`| 
+|![taksi-misto-kiev](https://static.openfintech.io/payout_methods/taksi-misto-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-misto-kiev_uah](/payout-services/taksi-misto-kiev_uah/)|`taksi-misto-kiev_uah`| 
  
 
 ## JSON Object 

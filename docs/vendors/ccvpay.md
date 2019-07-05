@@ -1,6 +1,6 @@
 
 # CCV Pay 
-![ccvpay](https://static.openfintech.io/vendors/ccvpay/logo.svg?w=400&c=v0.59.26#w200)  
+![ccvpay](https://static.openfintech.io/vendors/ccvpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  Westervoortsedijk 556827 AT ArnhemNetherlands
 
 ### Logo 
  
-![ccvpay](https://static.openfintech.io/vendors/ccvpay/logo.svg?w=400&c=v0.59.26#w200)  
+![ccvpay](https://static.openfintech.io/vendors/ccvpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ccvpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ccvpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ccvpay](https://static.openfintech.io/vendors/ccvpay/icon.svg?w=278&c=v0.59.26#w100)  
+![ccvpay](https://static.openfintech.io/vendors/ccvpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ccvpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ccvpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Volyn Optical Net
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![volinski-optichni-merezhi](https://static.openfintech.io/payout_methods/volinski-optichni-merezhi/icon.svg?w=278&c=v0.59.26#w40) |[volinski-optichni-merezhi_uah](/payout-services/volinski-optichni-merezhi_uah/)|`volinski-optichni-merezhi_uah`| 
+|![volinski-optichni-merezhi](https://static.openfintech.io/payout_methods/volinski-optichni-merezhi/icon.png?w=278&c=v0.59.26#w40) |[volinski-optichni-merezhi_uah](/payout-services/volinski-optichni-merezhi_uah/)|`volinski-optichni-merezhi_uah`| 
  
 
 ## JSON Object 

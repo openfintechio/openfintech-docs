@@ -1,6 +1,6 @@
 
 # PayNearMe 
-![paynearme](https://static.openfintech.io/vendors/paynearme/logo.svg?w=400&c=v0.59.26#w200)  
+![paynearme](https://static.openfintech.io/vendors/paynearme/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![paynearme](https://static.openfintech.io/vendors/paynearme/logo.svg?w=400&c=v0.59.26#w200)  
+![paynearme](https://static.openfintech.io/vendors/paynearme/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paynearme/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paynearme/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paynearme](https://static.openfintech.io/vendors/paynearme/icon.svg?w=278&c=v0.59.26#w100)  
+![paynearme](https://static.openfintech.io/vendors/paynearme/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paynearme/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paynearme/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

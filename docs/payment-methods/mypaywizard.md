@@ -1,6 +1,6 @@
 
 # MyPayWizard 
-![mypaywizard](https://static.openfintech.io/payment_methods/mypaywizard/logo.svg?w=400&c=v0.59.26#w200)  
+![mypaywizard](https://static.openfintech.io/payment_methods/mypaywizard/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `mypaywizard` 
@@ -21,17 +21,17 @@
 ## Images 
 
 ### Logo 
-![mypaywizard](https://static.openfintech.io/payment_methods/mypaywizard/logo.svg?w=400&c=v0.59.26#w200)  
+![mypaywizard](https://static.openfintech.io/payment_methods/mypaywizard/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/mypaywizard/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/mypaywizard/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![mypaywizard](https://static.openfintech.io/payment_methods/mypaywizard/icon.svg?w=278&c=v0.59.26#w100)  
+![mypaywizard](https://static.openfintech.io/payment_methods/mypaywizard/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/mypaywizard/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/mypaywizard/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

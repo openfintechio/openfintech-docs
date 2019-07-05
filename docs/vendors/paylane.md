@@ -1,6 +1,6 @@
 
 # PayLane 
-![paylane](https://static.openfintech.io/vendors/paylane/logo.svg?w=400&c=v0.59.26#w200)  
+![paylane](https://static.openfintech.io/vendors/paylane/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  ul. Arkonska 6/A380387 GdanskPoland
 
 ### Logo 
  
-![paylane](https://static.openfintech.io/vendors/paylane/logo.svg?w=400&c=v0.59.26#w200)  
+![paylane](https://static.openfintech.io/vendors/paylane/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paylane/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paylane/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paylane](https://static.openfintech.io/vendors/paylane/icon.svg?w=278&c=v0.59.26#w100)  
+![paylane](https://static.openfintech.io/vendors/paylane/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paylane/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paylane/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

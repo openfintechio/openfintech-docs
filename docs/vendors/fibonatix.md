@@ -1,6 +1,6 @@
 
 # Fibonatix 
-![fibonatix](https://static.openfintech.io/vendors/fibonatix/logo.svg?w=400&c=v0.59.26#w200)  
+![fibonatix](https://static.openfintech.io/vendors/fibonatix/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  28th Floor, Champion Tower, Sheshet Hayamim Road 305120261 Bnei-BrakIsr
 
 ### Logo 
  
-![fibonatix](https://static.openfintech.io/vendors/fibonatix/logo.svg?w=400&c=v0.59.26#w200)  
+![fibonatix](https://static.openfintech.io/vendors/fibonatix/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/fibonatix/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/fibonatix/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![fibonatix](https://static.openfintech.io/vendors/fibonatix/icon.svg?w=278&c=v0.59.26#w100)  
+![fibonatix](https://static.openfintech.io/vendors/fibonatix/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/fibonatix/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/fibonatix/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

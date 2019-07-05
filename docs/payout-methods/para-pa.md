@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ParaPa_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![para-pa](https://static.openfintech.io/payout_methods/para-pa/icon.svg?w=278&c=v0.59.26#w40) |[para-pa_uah](/payout-services/para-pa_uah/)|`para-pa_uah`| 
+|![para-pa](https://static.openfintech.io/payout_methods/para-pa/icon.png?w=278&c=v0.59.26#w40) |[para-pa_uah](/payout-services/para-pa_uah/)|`para-pa_uah`| 
  
 
 ## JSON Object 

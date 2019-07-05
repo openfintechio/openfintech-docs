@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Stimul (Kiev
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-stimul-kiev](https://static.openfintech.io/payout_methods/taksi-stimul-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-stimul-kiev_uah](/payout-services/taksi-stimul-kiev_uah/)|`taksi-stimul-kiev_uah`| 
+|![taksi-stimul-kiev](https://static.openfintech.io/payout_methods/taksi-stimul-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-stimul-kiev_uah](/payout-services/taksi-stimul-kiev_uah/)|`taksi-stimul-kiev_uah`| 
  
 
 ## JSON Object 

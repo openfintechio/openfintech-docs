@@ -1,6 +1,6 @@
 
 # First Global Billing 
-![firstglobalbilling](https://static.openfintech.io/payment_providers/firstglobalbilling/logo.svg?w=400&c=v0.59.26#w100)  
+![firstglobalbilling](https://static.openfintech.io/payment_providers/firstglobalbilling/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![firstglobalbilling](https://static.openfintech.io/payment_providers/firstglobalbilling/logo.svg?w=400&c=v0.59.26#w100)  
+![firstglobalbilling](https://static.openfintech.io/payment_providers/firstglobalbilling/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/firstglobalbilling/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/firstglobalbilling/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![firstglobalbilling](https://static.openfintech.io/payment_providers/firstglobalbilling/icon.svg?w=278&c=v0.59.26#w100)  
+![firstglobalbilling](https://static.openfintech.io/payment_providers/firstglobalbilling/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/firstglobalbilling/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/firstglobalbilling/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Lateral Payment Solutions 
-![lateralpaymentsolutions](https://static.openfintech.io/payment_providers/lateralpaymentsolutions/logo.svg?w=400&c=v0.59.26#w100)  
+![lateralpaymentsolutions](https://static.openfintech.io/payment_providers/lateralpaymentsolutions/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![lateralpaymentsolutions](https://static.openfintech.io/payment_providers/lateralpaymentsolutions/logo.svg?w=400&c=v0.59.26#w100)  
+![lateralpaymentsolutions](https://static.openfintech.io/payment_providers/lateralpaymentsolutions/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/lateralpaymentsolutions/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/lateralpaymentsolutions/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![lateralpaymentsolutions](https://static.openfintech.io/payment_providers/lateralpaymentsolutions/icon.svg?w=278&c=v0.59.26#w100)  
+![lateralpaymentsolutions](https://static.openfintech.io/payment_providers/lateralpaymentsolutions/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/lateralpaymentsolutions/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/lateralpaymentsolutions/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

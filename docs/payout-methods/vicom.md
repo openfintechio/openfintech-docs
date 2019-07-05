@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _VICOM_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![vicom](https://static.openfintech.io/payout_methods/vicom/icon.svg?w=278&c=v0.59.26#w40) |[vicom_uah](/payout-services/vicom_uah/)|`vicom_uah`| 
+|![vicom](https://static.openfintech.io/payout_methods/vicom/icon.png?w=278&c=v0.59.26#w40) |[vicom_uah](/payout-services/vicom_uah/)|`vicom_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Stop Hepatitis - 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![stop-gepatit-mbf-tsspm](https://static.openfintech.io/payout_methods/stop-gepatit-mbf-tsspm/icon.svg?w=278&c=v0.59.26#w40) |[stop-gepatit-mbf-tsspm_uah](/payout-services/stop-gepatit-mbf-tsspm_uah/)|`stop-gepatit-mbf-tsspm_uah`| 
+|![stop-gepatit-mbf-tsspm](https://static.openfintech.io/payout_methods/stop-gepatit-mbf-tsspm/icon.png?w=278&c=v0.59.26#w40) |[stop-gepatit-mbf-tsspm_uah](/payout-services/stop-gepatit-mbf-tsspm_uah/)|`stop-gepatit-mbf-tsspm_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # GlobalPay LTD 
-![globalpayltd](https://static.openfintech.io/vendors/globalpayltd/logo.svg?w=400&c=v0.59.26#w200)  
+![globalpayltd](https://static.openfintech.io/vendors/globalpayltd/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  1 Mapp Street Belize CityBelize
 
 ### Logo 
  
-![globalpayltd](https://static.openfintech.io/vendors/globalpayltd/logo.svg?w=400&c=v0.59.26#w200)  
+![globalpayltd](https://static.openfintech.io/vendors/globalpayltd/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/globalpayltd/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/globalpayltd/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![globalpayltd](https://static.openfintech.io/vendors/globalpayltd/icon.svg?w=278&c=v0.59.26#w100)  
+![globalpayltd](https://static.openfintech.io/vendors/globalpayltd/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/globalpayltd/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/globalpayltd/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

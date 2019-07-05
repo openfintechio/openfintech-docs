@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _KhMELNITSKІNFOKO
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![khmelnitskinfokom-khmelnitskii](https://static.openfintech.io/payout_methods/khmelnitskinfokom-khmelnitskii/icon.svg?w=278&c=v0.59.26#w40) |[khmelnitskinfokom-khmelnitskii_uah](/payout-services/khmelnitskinfokom-khmelnitskii_uah/)|`khmelnitskinfokom-khmelnitskii_uah`| 
+|![khmelnitskinfokom-khmelnitskii](https://static.openfintech.io/payout_methods/khmelnitskinfokom-khmelnitskii/icon.png?w=278&c=v0.59.26#w40) |[khmelnitskinfokom-khmelnitskii_uah](/payout-services/khmelnitskinfokom-khmelnitskii_uah/)|`khmelnitskinfokom-khmelnitskii_uah`| 
  
 
 ## JSON Object 

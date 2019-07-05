@@ -1,6 +1,6 @@
 
 # DineroMail 
-![dineromail](https://static.openfintech.io/vendors/dineromail/logo.svg?w=400&c=v0.59.26#w200)  
+![dineromail](https://static.openfintech.io/vendors/dineromail/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Buenos Aires1425 Argentina
 
 ### Logo 
  
-![dineromail](https://static.openfintech.io/vendors/dineromail/logo.svg?w=400&c=v0.59.26#w200)  
+![dineromail](https://static.openfintech.io/vendors/dineromail/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/dineromail/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/dineromail/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![dineromail](https://static.openfintech.io/vendors/dineromail/icon.svg?w=278&c=v0.59.26#w100)  
+![dineromail](https://static.openfintech.io/vendors/dineromail/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/dineromail/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/dineromail/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

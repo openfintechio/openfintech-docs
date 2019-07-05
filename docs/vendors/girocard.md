@@ -1,6 +1,6 @@
 
 # girocard 
-![girocard](https://static.openfintech.io/vendors/girocard/logo.svg?w=400&c=v0.59.26#w200)  
+![girocard](https://static.openfintech.io/vendors/girocard/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![girocard](https://static.openfintech.io/vendors/girocard/logo.svg?w=400&c=v0.59.26#w200)  
+![girocard](https://static.openfintech.io/vendors/girocard/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/girocard/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/girocard/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![girocard](https://static.openfintech.io/vendors/girocard/icon.svg?w=278&c=v0.59.26#w100)  
+![girocard](https://static.openfintech.io/vendors/girocard/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/girocard/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/girocard/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Secure Trading 
-![securetrading](https://static.openfintech.io/vendors/securetrading/logo.svg?w=400&c=v0.59.26#w200)  
+![securetrading](https://static.openfintech.io/vendors/securetrading/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  19th Floor, 40 Bank Street, Canary WharfE14 5NR LondonUnited Kingdom
 
 ### Logo 
  
-![securetrading](https://static.openfintech.io/vendors/securetrading/logo.svg?w=400&c=v0.59.26#w200)  
+![securetrading](https://static.openfintech.io/vendors/securetrading/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/securetrading/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/securetrading/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![securetrading](https://static.openfintech.io/vendors/securetrading/icon.svg?w=278&c=v0.59.26#w100)  
+![securetrading](https://static.openfintech.io/vendors/securetrading/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/securetrading/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/securetrading/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # helloPay 
-![hellopay](https://static.openfintech.io/vendors/hellopay/logo.svg?w=400&c=v0.59.26#w200)  
+![hellopay](https://static.openfintech.io/vendors/hellopay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Singapore
 
 ### Logo 
  
-![hellopay](https://static.openfintech.io/vendors/hellopay/logo.svg?w=400&c=v0.59.26#w200)  
+![hellopay](https://static.openfintech.io/vendors/hellopay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/hellopay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/hellopay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![hellopay](https://static.openfintech.io/vendors/hellopay/icon.svg?w=278&c=v0.59.26#w100)  
+![hellopay](https://static.openfintech.io/vendors/hellopay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/hellopay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/hellopay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

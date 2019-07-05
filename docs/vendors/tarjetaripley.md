@@ -1,6 +1,6 @@
 
 # Ripley 
-![tarjetaripley](https://static.openfintech.io/vendors/tarjetaripley/logo.svg?w=400&c=v0.59.26#w200)  
+![tarjetaripley](https://static.openfintech.io/vendors/tarjetaripley/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![tarjetaripley](https://static.openfintech.io/vendors/tarjetaripley/logo.svg?w=400&c=v0.59.26#w200)  
+![tarjetaripley](https://static.openfintech.io/vendors/tarjetaripley/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/tarjetaripley/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/tarjetaripley/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![tarjetaripley](https://static.openfintech.io/vendors/tarjetaripley/icon.svg?w=278&c=v0.59.26#w100)  
+![tarjetaripley](https://static.openfintech.io/vendors/tarjetaripley/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/tarjetaripley/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/tarjetaripley/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

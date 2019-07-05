@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi ABA CAR (Lvi
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-aba-car-lvov](https://static.openfintech.io/payout_methods/taksi-aba-car-lvov/icon.svg?w=278&c=v0.59.26#w40) |[taksi-aba-car-lvov_uah](/payout-services/taksi-aba-car-lvov_uah/)|`taksi-aba-car-lvov_uah`| 
+|![taksi-aba-car-lvov](https://static.openfintech.io/payout_methods/taksi-aba-car-lvov/icon.png?w=278&c=v0.59.26#w40) |[taksi-aba-car-lvov_uah](/payout-services/taksi-aba-car-lvov_uah/)|`taksi-aba-car-lvov_uah`| 
  
 
 ## JSON Object 

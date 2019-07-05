@@ -1,6 +1,6 @@
 
 # Fat Zebra 
-![fatzebra](https://static.openfintech.io/payment_providers/fatzebra/logo.svg?w=400&c=v0.59.26#w100)  
+![fatzebra](https://static.openfintech.io/payment_providers/fatzebra/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![fatzebra](https://static.openfintech.io/payment_providers/fatzebra/logo.svg?w=400&c=v0.59.26#w100)  
+![fatzebra](https://static.openfintech.io/payment_providers/fatzebra/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/fatzebra/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/fatzebra/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![fatzebra](https://static.openfintech.io/payment_providers/fatzebra/icon.svg?w=278&c=v0.59.26#w100)  
+![fatzebra](https://static.openfintech.io/payment_providers/fatzebra/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/fatzebra/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/fatzebra/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

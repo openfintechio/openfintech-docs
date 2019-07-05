@@ -1,6 +1,6 @@
 
 # OnlineNaira 
-![onlinenaira](https://static.openfintech.io/vendors/onlinenaira/logo.svg?w=400&c=v0.59.26#w200)  
+![onlinenaira](https://static.openfintech.io/vendors/onlinenaira/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![onlinenaira](https://static.openfintech.io/vendors/onlinenaira/logo.svg?w=400&c=v0.59.26#w200)  
+![onlinenaira](https://static.openfintech.io/vendors/onlinenaira/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/onlinenaira/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/onlinenaira/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![onlinenaira](https://static.openfintech.io/vendors/onlinenaira/icon.svg?w=278&c=v0.59.26#w100)  
+![onlinenaira](https://static.openfintech.io/vendors/onlinenaira/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/onlinenaira/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/onlinenaira/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

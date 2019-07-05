@@ -1,6 +1,6 @@
 
 # DialXS 
-![dialxs](https://static.openfintech.io/vendors/dialxs/logo.svg?w=400&c=v0.59.26#w200)  
+![dialxs](https://static.openfintech.io/vendors/dialxs/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Maaskade 15347 KD OssNBRNetherlands
 
 ### Logo 
  
-![dialxs](https://static.openfintech.io/vendors/dialxs/logo.svg?w=400&c=v0.59.26#w200)  
+![dialxs](https://static.openfintech.io/vendors/dialxs/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/dialxs/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/dialxs/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![dialxs](https://static.openfintech.io/vendors/dialxs/icon.svg?w=278&c=v0.59.26#w100)  
+![dialxs](https://static.openfintech.io/vendors/dialxs/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/dialxs/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/dialxs/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

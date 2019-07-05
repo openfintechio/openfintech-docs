@@ -1,6 +1,6 @@
 
 # AllCharge.com 
-![allchargecom](https://static.openfintech.io/vendors/allchargecom/logo.svg?w=400&c=v0.59.26#w200)  
+![allchargecom](https://static.openfintech.io/vendors/allchargecom/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Israel
 
 ### Logo 
  
-![allchargecom](https://static.openfintech.io/vendors/allchargecom/logo.svg?w=400&c=v0.59.26#w200)  
+![allchargecom](https://static.openfintech.io/vendors/allchargecom/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/allchargecom/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/allchargecom/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![allchargecom](https://static.openfintech.io/vendors/allchargecom/icon.svg?w=278&c=v0.59.26#w100)  
+![allchargecom](https://static.openfintech.io/vendors/allchargecom/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/allchargecom/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/allchargecom/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

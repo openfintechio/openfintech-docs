@@ -1,6 +1,6 @@
 
 # SecurePayTech.com 
-![securepaytechcom](https://static.openfintech.io/payment_providers/securepaytechcom/logo.svg?w=400&c=v0.59.26#w100)  
+![securepaytechcom](https://static.openfintech.io/payment_providers/securepaytechcom/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![securepaytechcom](https://static.openfintech.io/payment_providers/securepaytechcom/logo.svg?w=400&c=v0.59.26#w100)  
+![securepaytechcom](https://static.openfintech.io/payment_providers/securepaytechcom/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/securepaytechcom/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/securepaytechcom/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![securepaytechcom](https://static.openfintech.io/payment_providers/securepaytechcom/icon.svg?w=278&c=v0.59.26#w100)  
+![securepaytechcom](https://static.openfintech.io/payment_providers/securepaytechcom/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/securepaytechcom/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/securepaytechcom/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Economic online g
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ekonomicheskaia-onlain-igra-rashka](https://static.openfintech.io/payout_methods/ekonomicheskaia-onlain-igra-rashka/icon.svg?w=278&c=v0.59.26#w40) |[ekonomicheskaia-onlain-igra-rashka_uah](/payout-services/ekonomicheskaia-onlain-igra-rashka_uah/)|`ekonomicheskaia-onlain-igra-rashka_uah`| 
+|![ekonomicheskaia-onlain-igra-rashka](https://static.openfintech.io/payout_methods/ekonomicheskaia-onlain-igra-rashka/icon.png?w=278&c=v0.59.26#w40) |[ekonomicheskaia-onlain-igra-rashka_uah](/payout-services/ekonomicheskaia-onlain-igra-rashka_uah/)|`ekonomicheskaia-onlain-igra-rashka_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _My lands_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![my-lands](https://static.openfintech.io/payout_methods/my-lands/icon.svg?w=278&c=v0.59.26#w40) |[my-lands_uah](/payout-services/my-lands_uah/)|`my-lands_uah`| 
+|![my-lands](https://static.openfintech.io/payout_methods/my-lands/icon.png?w=278&c=v0.59.26#w40) |[my-lands_uah](/payout-services/my-lands_uah/)|`my-lands_uah`| 
  
 
 ## JSON Object 

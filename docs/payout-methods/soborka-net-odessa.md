@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _SOBORKA.NET (Odes
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![soborka-net-odessa](https://static.openfintech.io/payout_methods/soborka-net-odessa/icon.svg?w=278&c=v0.59.26#w40) |[soborka-net-odessa_uah](/payout-services/soborka-net-odessa_uah/)|`soborka-net-odessa_uah`| 
+|![soborka-net-odessa](https://static.openfintech.io/payout_methods/soborka-net-odessa/icon.png?w=278&c=v0.59.26#w40) |[soborka-net-odessa_uah](/payout-services/soborka-net-odessa_uah/)|`soborka-net-odessa_uah`| 
  
 
 ## JSON Object 

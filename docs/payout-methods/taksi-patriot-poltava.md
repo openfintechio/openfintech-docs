@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi PATRIOT (Pol
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-patriot-poltava](https://static.openfintech.io/payout_methods/taksi-patriot-poltava/icon.svg?w=278&c=v0.59.26#w40) |[taksi-patriot-poltava_uah](/payout-services/taksi-patriot-poltava_uah/)|`taksi-patriot-poltava_uah`| 
+|![taksi-patriot-poltava](https://static.openfintech.io/payout_methods/taksi-patriot-poltava/icon.png?w=278&c=v0.59.26#w40) |[taksi-patriot-poltava_uah](/payout-services/taksi-patriot-poltava_uah/)|`taksi-patriot-poltava_uah`| 
  
 
 ## JSON Object 

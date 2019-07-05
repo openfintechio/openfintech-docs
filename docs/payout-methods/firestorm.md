@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Firestorm_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![firestorm](https://static.openfintech.io/payout_methods/firestorm/icon.svg?w=278&c=v0.59.26#w40) |[firestorm_uah](/payout-services/firestorm_uah/)|`firestorm_uah`| 
+|![firestorm](https://static.openfintech.io/payout_methods/firestorm/icon.png?w=278&c=v0.59.26#w40) |[firestorm_uah](/payout-services/firestorm_uah/)|`firestorm_uah`| 
  
 
 ## JSON Object 

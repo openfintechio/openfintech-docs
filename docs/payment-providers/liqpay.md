@@ -38,8 +38,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![privat24](https://static.openfintech.io/payment_methods/privat24/icon.svg?w=278&c=v0.59.26#w100) |[privat24](/payment-methods/privat24/)|`privat24`| 
-|![masterpass](https://static.openfintech.io/payment_methods/masterpass/icon.svg?w=278&c=v0.59.26#w100) |[masterpass](/payment-methods/masterpass/)|`masterpass`| 
-|![cash](https://static.openfintech.io/payment_methods/cash/icon.svg?w=278&c=v0.59.26#w100) |[cash](/payment-methods/cash/)|`cash`| 
+|![masterpass](https://static.openfintech.io/payment_methods/masterpass/icon.png?w=278&c=v0.59.26#w100) |[masterpass](/payment-methods/masterpass/)|`masterpass`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash](/payment-methods/cash/)|`cash`| 
 |![bank_card](https://static.openfintech.io/payment_methods/bank_card/icon.svg?w=278&c=v0.59.26#w100) |[bank_card](/payment-methods/bank_card/)|`bank_card`| 
  
 

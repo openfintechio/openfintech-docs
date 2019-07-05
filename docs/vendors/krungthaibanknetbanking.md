@@ -1,6 +1,6 @@
 
 # Krungthai Bank netbanking 
-![krungthaibanknetbanking](https://static.openfintech.io/vendors/krungthaibanknetbanking/logo.svg?w=400&c=v0.59.26#w200)  
+![krungthaibanknetbanking](https://static.openfintech.io/vendors/krungthaibanknetbanking/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![krungthaibanknetbanking](https://static.openfintech.io/vendors/krungthaibanknetbanking/logo.svg?w=400&c=v0.59.26#w200)  
+![krungthaibanknetbanking](https://static.openfintech.io/vendors/krungthaibanknetbanking/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/krungthaibanknetbanking/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/krungthaibanknetbanking/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![krungthaibanknetbanking](https://static.openfintech.io/vendors/krungthaibanknetbanking/icon.svg?w=278&c=v0.59.26#w100)  
+![krungthaibanknetbanking](https://static.openfintech.io/vendors/krungthaibanknetbanking/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/krungthaibanknetbanking/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/krungthaibanknetbanking/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

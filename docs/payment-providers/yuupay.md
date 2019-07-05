@@ -1,6 +1,6 @@
 
 # YuuPay  
-![yuupay](https://static.openfintech.io/payment_providers/yuupay/logo.svg?w=400&c=v0.59.26#w100)  
+![yuupay](https://static.openfintech.io/payment_providers/yuupay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -23,18 +23,18 @@
 
 ### Logo 
  
-![yuupay](https://static.openfintech.io/payment_providers/yuupay/logo.svg?w=400&c=v0.59.26#w100)  
+![yuupay](https://static.openfintech.io/payment_providers/yuupay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/yuupay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/yuupay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![yuupay](https://static.openfintech.io/payment_providers/yuupay/icon.svg?w=278&c=v0.59.26#w100)  
+![yuupay](https://static.openfintech.io/payment_providers/yuupay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/yuupay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/yuupay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -44,15 +44,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
-|![jcb](https://static.openfintech.io/payment_methods/jcb/icon.svg?w=278&c=v0.59.26#w100) |[jcb](/payment-methods/jcb/)|`jcb`| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.svg?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![jcb](https://static.openfintech.io/payment_methods/jcb/icon.png?w=278&c=v0.59.26#w100) |[jcb](/payment-methods/jcb/)|`jcb`| 
+|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
 |![dinersclub](https://static.openfintech.io/payment_methods/dinersclub/icon.svg?w=278&c=v0.59.26#w100) |[dinersclub](/payment-methods/dinersclub/)|`dinersclub`| 
 |![discover](https://static.openfintech.io/payment_methods/discover/icon.svg?w=278&c=v0.59.26#w100) |[discover](/payment-methods/discover/)|`discover`| 
 |![chinaunionpay](https://static.openfintech.io/payment_methods/chinaunionpay/icon.svg?w=278&c=v0.59.26#w100) |[chinaunionpay](/payment-methods/chinaunionpay/)|`chinaunionpay`| 
 |![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
-|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.svg?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
-|![ukash](https://static.openfintech.io/payment_methods/ukash/icon.svg?w=278&c=v0.59.26#w100) |[ukash](/payment-methods/ukash/)|`ukash`| 
-|![neteller](https://static.openfintech.io/payment_methods/neteller/icon.svg?w=278&c=v0.59.26#w100) |[neteller](/payment-methods/neteller/)|`neteller`| 
+|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.png?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
+|![ukash](https://static.openfintech.io/payment_methods/ukash/icon.png?w=278&c=v0.59.26#w100) |[ukash](/payment-methods/ukash/)|`ukash`| 
+|![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller](/payment-methods/neteller/)|`neteller`| 
 |![paypal](https://static.openfintech.io/payment_methods/paypal/icon.svg?w=278&c=v0.59.26#w100) |[paypal](/payment-methods/paypal/)|`paypal`| 
 |![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill](/payment-methods/skrill/)|`skrill`| 
  

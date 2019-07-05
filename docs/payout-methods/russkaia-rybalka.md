@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Russian fishing_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![russkaia-rybalka](https://static.openfintech.io/payout_methods/russkaia-rybalka/icon.svg?w=278&c=v0.59.26#w40) |[russkaia-rybalka_uah](/payout-services/russkaia-rybalka_uah/)|`russkaia-rybalka_uah`| 
+|![russkaia-rybalka](https://static.openfintech.io/payout_methods/russkaia-rybalka/icon.png?w=278&c=v0.59.26#w40) |[russkaia-rybalka_uah](/payout-services/russkaia-rybalka_uah/)|`russkaia-rybalka_uah`| 
  
 
 ## JSON Object 

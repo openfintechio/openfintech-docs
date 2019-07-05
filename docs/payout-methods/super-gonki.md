@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Super Racing_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![super-gonki](https://static.openfintech.io/payout_methods/super-gonki/icon.svg?w=278&c=v0.59.26#w40) |[super-gonki_uah](/payout-services/super-gonki_uah/)|`super-gonki_uah`| 
+|![super-gonki](https://static.openfintech.io/payout_methods/super-gonki/icon.png?w=278&c=v0.59.26#w40) |[super-gonki_uah](/payout-services/super-gonki_uah/)|`super-gonki_uah`| 
  
 
 ## JSON Object 

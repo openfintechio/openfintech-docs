@@ -1,6 +1,6 @@
 
 # 123Send 
-![123send](https://static.openfintech.io/vendors/123send/logo.svg?w=400&c=v0.59.26#w200)  
+![123send](https://static.openfintech.io/vendors/123send/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  United Kingdom
 
 ### Logo 
  
-![123send](https://static.openfintech.io/vendors/123send/logo.svg?w=400&c=v0.59.26#w200)  
+![123send](https://static.openfintech.io/vendors/123send/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/123send/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/123send/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![123send](https://static.openfintech.io/vendors/123send/icon.svg?w=278&c=v0.59.26#w100)  
+![123send](https://static.openfintech.io/vendors/123send/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/123send/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/123send/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

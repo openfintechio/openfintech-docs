@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taksy Fast and Fu
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![takci-forsazh-kiev](https://static.openfintech.io/payout_methods/takci-forsazh-kiev/icon.svg?w=278&c=v0.59.26#w40) |[takci-forsazh-kiev_uah](/payout-services/takci-forsazh-kiev_uah/)|`takci-forsazh-kiev_uah`| 
+|![takci-forsazh-kiev](https://static.openfintech.io/payout_methods/takci-forsazh-kiev/icon.png?w=278&c=v0.59.26#w40) |[takci-forsazh-kiev_uah](/payout-services/takci-forsazh-kiev_uah/)|`takci-forsazh-kiev_uah`| 
  
 
 ## JSON Object 

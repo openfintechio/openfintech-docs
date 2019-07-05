@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Student (Ode
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-student-odessa](https://static.openfintech.io/payout_methods/taksi-student-odessa/icon.svg?w=278&c=v0.59.26#w40) |[taksi-student-odessa_uah](/payout-services/taksi-student-odessa_uah/)|`taksi-student-odessa_uah`| 
+|![taksi-student-odessa](https://static.openfintech.io/payout_methods/taksi-student-odessa/icon.png?w=278&c=v0.59.26#w40) |[taksi-student-odessa_uah](/payout-services/taksi-student-odessa_uah/)|`taksi-student-odessa_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # PayGol 
-![paygol](https://static.openfintech.io/payment_providers/paygol/logo.svg?w=400&c=v0.59.26#w100)  
+![paygol](https://static.openfintech.io/payment_providers/paygol/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -23,18 +23,18 @@
 
 ### Logo 
  
-![paygol](https://static.openfintech.io/payment_providers/paygol/logo.svg?w=400&c=v0.59.26#w100)  
+![paygol](https://static.openfintech.io/payment_providers/paygol/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paygol/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paygol/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![paygol](https://static.openfintech.io/payment_providers/paygol/icon.svg?w=278&c=v0.59.26#w100)  
+![paygol](https://static.openfintech.io/payment_providers/paygol/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paygol/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paygol/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -43,10 +43,10 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.svg?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
 |![chinaunionpay](https://static.openfintech.io/payment_methods/chinaunionpay/icon.svg?w=278&c=v0.59.26#w100) |[chinaunionpay](/payment-methods/chinaunionpay/)|`chinaunionpay`| 
-|![debitobradesco](https://static.openfintech.io/payment_methods/debitobradesco/icon.svg?w=278&c=v0.59.26#w100) |[debitobradesco](/payment-methods/debitobradesco/)|`debitobradesco`| 
+|![debitobradesco](https://static.openfintech.io/payment_methods/debitobradesco/icon.png?w=278&c=v0.59.26#w100) |[debitobradesco](/payment-methods/debitobradesco/)|`debitobradesco`| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
 |![banamex](https://static.openfintech.io/payment_methods/banamex/icon.svg?w=278&c=v0.59.26#w100) |[banamex](/payment-methods/banamex/)|`banamex`| 
 |![magna](https://static.openfintech.io/payment_methods/magna/icon.svg?w=278&c=v0.59.26#w100) |[magna](/payment-methods/magna/)|`magna`| 
@@ -54,12 +54,12 @@ The list of supported [Payment Methods](/payment-methods/)
 |![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
 |![dinersclub](https://static.openfintech.io/payment_methods/dinersclub/icon.svg?w=278&c=v0.59.26#w100) |[dinersclub](/payment-methods/dinersclub/)|`dinersclub`| 
 |![discover](https://static.openfintech.io/payment_methods/discover/icon.svg?w=278&c=v0.59.26#w100) |[discover](/payment-methods/discover/)|`discover`| 
-|![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.svg?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
-|![tarjetaripley](https://static.openfintech.io/payment_methods/tarjetaripley/icon.svg?w=278&c=v0.59.26#w100) |[tarjetaripley](/payment-methods/tarjetaripley/)|`tarjetaripley`| 
-|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.svg?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
-|![carrierbilling](https://static.openfintech.io/payment_methods/carrierbilling/icon.svg?w=278&c=v0.59.26#w100) |[carrierbilling](/payment-methods/carrierbilling/)|`carrierbilling`| 
-|![ivrbilling](https://static.openfintech.io/payment_methods/ivrbilling/icon.svg?w=278&c=v0.59.26#w100) |[ivrbilling](/payment-methods/ivrbilling/)|`ivrbilling`| 
-|![smsbilling](https://static.openfintech.io/payment_methods/smsbilling/icon.svg?w=278&c=v0.59.26#w100) |[smsbilling](/payment-methods/smsbilling/)|`smsbilling`| 
+|![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.png?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
+|![tarjetaripley](https://static.openfintech.io/payment_methods/tarjetaripley/icon.png?w=278&c=v0.59.26#w100) |[tarjetaripley](/payment-methods/tarjetaripley/)|`tarjetaripley`| 
+|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.png?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
+|![carrierbilling](https://static.openfintech.io/payment_methods/carrierbilling/icon.png?w=278&c=v0.59.26#w100) |[carrierbilling](/payment-methods/carrierbilling/)|`carrierbilling`| 
+|![ivrbilling](https://static.openfintech.io/payment_methods/ivrbilling/icon.png?w=278&c=v0.59.26#w100) |[ivrbilling](/payment-methods/ivrbilling/)|`ivrbilling`| 
+|![smsbilling](https://static.openfintech.io/payment_methods/smsbilling/icon.png?w=278&c=v0.59.26#w100) |[smsbilling](/payment-methods/smsbilling/)|`smsbilling`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Rubіn Plus - Tel
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![rubin-plius-telebachennia-m-nova-kakhovka](https://static.openfintech.io/payout_methods/rubin-plius-telebachennia-m-nova-kakhovka/icon.svg?w=278&c=v0.59.26#w40) |[rubin-plius-telebachennia-m-nova-kakhovka_uah](/payout-services/rubin-plius-telebachennia-m-nova-kakhovka_uah/)|`rubin-plius-telebachennia-m-nova-kakhovka_uah`| 
+|![rubin-plius-telebachennia-m-nova-kakhovka](https://static.openfintech.io/payout_methods/rubin-plius-telebachennia-m-nova-kakhovka/icon.png?w=278&c=v0.59.26#w40) |[rubin-plius-telebachennia-m-nova-kakhovka_uah](/payout-services/rubin-plius-telebachennia-m-nova-kakhovka_uah/)|`rubin-plius-telebachennia-m-nova-kakhovka_uah`| 
  
 
 ## JSON Object 

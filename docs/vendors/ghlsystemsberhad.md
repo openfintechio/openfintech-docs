@@ -1,6 +1,6 @@
 
 # GHL Systems Berhad 
-![ghlsystemsberhad](https://static.openfintech.io/vendors/ghlsystemsberhad/logo.svg?w=400&c=v0.59.26#w200)  
+![ghlsystemsberhad](https://static.openfintech.io/vendors/ghlsystemsberhad/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Kuala LumpurMalaysia
 
 ### Logo 
  
-![ghlsystemsberhad](https://static.openfintech.io/vendors/ghlsystemsberhad/logo.svg?w=400&c=v0.59.26#w200)  
+![ghlsystemsberhad](https://static.openfintech.io/vendors/ghlsystemsberhad/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ghlsystemsberhad/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ghlsystemsberhad/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ghlsystemsberhad](https://static.openfintech.io/vendors/ghlsystemsberhad/icon.svg?w=278&c=v0.59.26#w100)  
+![ghlsystemsberhad](https://static.openfintech.io/vendors/ghlsystemsberhad/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ghlsystemsberhad/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ghlsystemsberhad/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

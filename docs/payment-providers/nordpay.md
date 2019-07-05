@@ -1,6 +1,6 @@
 
 # NORDPAY 
-![nordpay](https://static.openfintech.io/payment_providers/nordpay/logo.svg?w=400&c=v0.59.26#w100)  
+![nordpay](https://static.openfintech.io/payment_providers/nordpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![nordpay](https://static.openfintech.io/payment_providers/nordpay/logo.svg?w=400&c=v0.59.26#w100)  
+![nordpay](https://static.openfintech.io/payment_providers/nordpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/nordpay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/nordpay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![nordpay](https://static.openfintech.io/payment_providers/nordpay/icon.svg?w=278&c=v0.59.26#w100)  
+![nordpay](https://static.openfintech.io/payment_providers/nordpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/nordpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/nordpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # DOKU Wallet 
-![dokuwallet](https://static.openfintech.io/payment_methods/dokuwallet/logo.svg?w=400&c=v0.59.26#w200)  
+![dokuwallet](https://static.openfintech.io/payment_methods/dokuwallet/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `dokuwallet` 
@@ -21,17 +21,17 @@
 ## Images 
 
 ### Logo 
-![dokuwallet](https://static.openfintech.io/payment_methods/dokuwallet/logo.svg?w=400&c=v0.59.26#w200)  
+![dokuwallet](https://static.openfintech.io/payment_methods/dokuwallet/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/dokuwallet/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/dokuwallet/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![dokuwallet](https://static.openfintech.io/payment_methods/dokuwallet/icon.svg?w=278&c=v0.59.26#w100)  
+![dokuwallet](https://static.openfintech.io/payment_methods/dokuwallet/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/dokuwallet/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/dokuwallet/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

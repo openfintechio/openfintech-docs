@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ULTRA CASH_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ultra-cash](https://static.openfintech.io/payout_methods/ultra-cash/icon.svg?w=278&c=v0.59.26#w40) |[ultra-cash_uah](/payout-services/ultra-cash_uah/)|`ultra-cash_uah`| 
+|![ultra-cash](https://static.openfintech.io/payout_methods/ultra-cash/icon.png?w=278&c=v0.59.26#w40) |[ultra-cash_uah](/payout-services/ultra-cash_uah/)|`ultra-cash_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Mondido 
-![mondido](https://static.openfintech.io/vendors/mondido/logo.svg?w=400&c=v0.59.26#w200)  
+![mondido](https://static.openfintech.io/vendors/mondido/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  Regeringsgatan 29111 53 Sweden
 
 ### Logo 
  
-![mondido](https://static.openfintech.io/vendors/mondido/logo.svg?w=400&c=v0.59.26#w200)  
+![mondido](https://static.openfintech.io/vendors/mondido/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/mondido/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/mondido/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![mondido](https://static.openfintech.io/vendors/mondido/icon.svg?w=278&c=v0.59.26#w100)  
+![mondido](https://static.openfintech.io/vendors/mondido/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/mondido/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/mondido/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

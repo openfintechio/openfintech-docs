@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Buy_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![pokupon](https://static.openfintech.io/payout_methods/pokupon/icon.svg?w=278&c=v0.59.26#w40) |[pokupon_uah](/payout-services/pokupon_uah/)|`pokupon_uah`| 
+|![pokupon](https://static.openfintech.io/payout_methods/pokupon/icon.png?w=278&c=v0.59.26#w40) |[pokupon_uah](/payout-services/pokupon_uah/)|`pokupon_uah`| 
  
 
 ## JSON Object 

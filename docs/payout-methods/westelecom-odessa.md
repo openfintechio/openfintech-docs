@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _WESTELECOM (Odess
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![westelecom-odessa](https://static.openfintech.io/payout_methods/westelecom-odessa/icon.svg?w=278&c=v0.59.26#w40) |[westelecom-odessa_uah](/payout-services/westelecom-odessa_uah/)|`westelecom-odessa_uah`| 
+|![westelecom-odessa](https://static.openfintech.io/payout_methods/westelecom-odessa/icon.png?w=278&c=v0.59.26#w40) |[westelecom-odessa_uah](/payout-services/westelecom-odessa_uah/)|`westelecom-odessa_uah`| 
  
 
 ## JSON Object 

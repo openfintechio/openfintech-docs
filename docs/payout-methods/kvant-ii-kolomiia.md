@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Quant-II (Kolomiy
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kvant-ii-kolomiia](https://static.openfintech.io/payout_methods/kvant-ii-kolomiia/icon.svg?w=278&c=v0.59.26#w40) |[kvant-ii-kolomiia_uah](/payout-services/kvant-ii-kolomiia_uah/)|`kvant-ii-kolomiia_uah`| 
+|![kvant-ii-kolomiia](https://static.openfintech.io/payout_methods/kvant-ii-kolomiia/icon.png?w=278&c=v0.59.26#w40) |[kvant-ii-kolomiia_uah](/payout-services/kvant-ii-kolomiia_uah/)|`kvant-ii-kolomiia_uah`| 
  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _G2A Gift Card (Vo
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![g2a-gift-card-vaucher-1-200euro](https://static.openfintech.io/payout_methods/g2a-gift-card-vaucher-1-200euro/icon.svg?w=278&c=v0.59.26#w40) |[g2a-gift-card-vaucher-1-200euro_uah](/payout-services/g2a-gift-card-vaucher-1-200euro_uah/)|`g2a-gift-card-vaucher-1-200euro_uah`| 
+|![g2a-gift-card-vaucher-1-200euro](https://static.openfintech.io/payout_methods/g2a-gift-card-vaucher-1-200euro/icon.png?w=278&c=v0.59.26#w40) |[g2a-gift-card-vaucher-1-200euro_uah](/payout-services/g2a-gift-card-vaucher-1-200euro_uah/)|`g2a-gift-card-vaucher-1-200euro_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # GPay 
-![gpay](https://static.openfintech.io/vendors/gpay/logo.svg?w=400&c=v0.59.26#w200)  
+![gpay](https://static.openfintech.io/vendors/gpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  İstanbul Kongre Merkezi Harbiye Mahallesi Taşkışla Caddesi No:3 Kat
 
 ### Logo 
  
-![gpay](https://static.openfintech.io/vendors/gpay/logo.svg?w=400&c=v0.59.26#w200)  
+![gpay](https://static.openfintech.io/vendors/gpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/gpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/gpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![gpay](https://static.openfintech.io/vendors/gpay/icon.svg?w=278&c=v0.59.26#w100)  
+![gpay](https://static.openfintech.io/vendors/gpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/gpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/gpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

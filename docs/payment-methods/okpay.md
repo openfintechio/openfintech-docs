@@ -1,6 +1,6 @@
 
 # OKPay 
-![okpay](https://static.openfintech.io/payment_methods/okpay/logo.svg?w=400&c=v0.59.26#w200)  
+![okpay](https://static.openfintech.io/payment_methods/okpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `okpay` 
@@ -18,17 +18,17 @@
 ## Images 
 
 ### Logo 
-![okpay](https://static.openfintech.io/payment_methods/okpay/logo.svg?w=400&c=v0.59.26#w200)  
+![okpay](https://static.openfintech.io/payment_methods/okpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/okpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/okpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![okpay](https://static.openfintech.io/payment_methods/okpay/icon.svg?w=278&c=v0.59.26#w100)  
+![okpay](https://static.openfintech.io/payment_methods/okpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/okpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/okpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

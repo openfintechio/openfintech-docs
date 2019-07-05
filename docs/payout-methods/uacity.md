@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Uacity_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![uacity](https://static.openfintech.io/payout_methods/uacity/icon.svg?w=278&c=v0.59.26#w40) |[uacity_uah](/payout-services/uacity_uah/)|`uacity_uah`| 
+|![uacity](https://static.openfintech.io/payout_methods/uacity/icon.png?w=278&c=v0.59.26#w40) |[uacity_uah](/payout-services/uacity_uah/)|`uacity_uah`| 
  
 
 ## JSON Object 

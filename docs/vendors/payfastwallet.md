@@ -1,6 +1,6 @@
 
 # Payfast Wallet 
-![payfastwallet](https://static.openfintech.io/vendors/payfastwallet/logo.svg?w=400&c=v0.59.26#w200)  
+![payfastwallet](https://static.openfintech.io/vendors/payfastwallet/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -18,18 +18,18 @@ fax: -
 
 ### Logo 
  
-![payfastwallet](https://static.openfintech.io/vendors/payfastwallet/logo.svg?w=400&c=v0.59.26#w200)  
+![payfastwallet](https://static.openfintech.io/vendors/payfastwallet/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payfastwallet/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payfastwallet/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payfastwallet](https://static.openfintech.io/vendors/payfastwallet/icon.svg?w=278&c=v0.59.26#w100)  
+![payfastwallet](https://static.openfintech.io/vendors/payfastwallet/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payfastwallet/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payfastwallet/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

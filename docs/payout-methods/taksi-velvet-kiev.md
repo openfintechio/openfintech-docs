@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Velvet (Kiev
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-velvet-kiev](https://static.openfintech.io/payout_methods/taksi-velvet-kiev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-velvet-kiev_uah](/payout-services/taksi-velvet-kiev_uah/)|`taksi-velvet-kiev_uah`| 
+|![taksi-velvet-kiev](https://static.openfintech.io/payout_methods/taksi-velvet-kiev/icon.png?w=278&c=v0.59.26#w40) |[taksi-velvet-kiev_uah](/payout-services/taksi-velvet-kiev_uah/)|`taksi-velvet-kiev_uah`| 
  
 
 ## JSON Object 

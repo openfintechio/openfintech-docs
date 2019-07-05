@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Avalon (Odes
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-avalon-odessa](https://static.openfintech.io/payout_methods/taksi-avalon-odessa/icon.svg?w=278&c=v0.59.26#w40) |[taksi-avalon-odessa_uah](/payout-services/taksi-avalon-odessa_uah/)|`taksi-avalon-odessa_uah`| 
+|![taksi-avalon-odessa](https://static.openfintech.io/payout_methods/taksi-avalon-odessa/icon.png?w=278&c=v0.59.26#w40) |[taksi-avalon-odessa_uah](/payout-services/taksi-avalon-odessa_uah/)|`taksi-avalon-odessa_uah`| 
  
 
 ## JSON Object 

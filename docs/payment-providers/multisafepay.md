@@ -1,6 +1,6 @@
 
 # MultiSafepay 
-![multisafepay](https://static.openfintech.io/payment_providers/multisafepay/logo.svg?w=400&c=v0.59.26#w100)  
+![multisafepay](https://static.openfintech.io/payment_providers/multisafepay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -23,18 +23,18 @@
 
 ### Logo 
  
-![multisafepay](https://static.openfintech.io/payment_providers/multisafepay/logo.svg?w=400&c=v0.59.26#w100)  
+![multisafepay](https://static.openfintech.io/payment_providers/multisafepay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/multisafepay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/multisafepay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![multisafepay](https://static.openfintech.io/payment_providers/multisafepay/icon.svg?w=278&c=v0.59.26#w100)  
+![multisafepay](https://static.openfintech.io/payment_providers/multisafepay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/multisafepay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/multisafepay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -43,33 +43,33 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.svg?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
-|![dankort](https://static.openfintech.io/payment_methods/dankort/icon.svg?w=278&c=v0.59.26#w100) |[dankort](/payment-methods/dankort/)|`dankort`| 
+|![dankort](https://static.openfintech.io/payment_methods/dankort/icon.png?w=278&c=v0.59.26#w100) |[dankort](/payment-methods/dankort/)|`dankort`| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
-|![vvvgiftcard](https://static.openfintech.io/payment_methods/vvvgiftcard/icon.svg?w=278&c=v0.59.26#w100) |[vvvgiftcard](/payment-methods/vvvgiftcard/)|`vvvgiftcard`| 
+|![vvvgiftcard](https://static.openfintech.io/payment_methods/vvvgiftcard/icon.png?w=278&c=v0.59.26#w100) |[vvvgiftcard](/payment-methods/vvvgiftcard/)|`vvvgiftcard`| 
 |![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
-|![cartasi](https://static.openfintech.io/payment_methods/cartasi/icon.svg?w=278&c=v0.59.26#w100) |[cartasi](/payment-methods/cartasi/)|`cartasi`| 
-|![bancontactmistercash](https://static.openfintech.io/payment_methods/bancontactmistercash/icon.svg?w=278&c=v0.59.26#w100) |[bancontactmistercash](/payment-methods/bancontactmistercash/)|`bancontactmistercash`| 
-|![cartebleue](https://static.openfintech.io/payment_methods/cartebleue/icon.svg?w=278&c=v0.59.26#w100) |[cartebleue](/payment-methods/cartebleue/)|`cartebleue`| 
-|![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.svg?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
+|![cartasi](https://static.openfintech.io/payment_methods/cartasi/icon.png?w=278&c=v0.59.26#w100) |[cartasi](/payment-methods/cartasi/)|`cartasi`| 
+|![bancontactmistercash](https://static.openfintech.io/payment_methods/bancontactmistercash/icon.png?w=278&c=v0.59.26#w100) |[bancontactmistercash](/payment-methods/bancontactmistercash/)|`bancontactmistercash`| 
+|![cartebleue](https://static.openfintech.io/payment_methods/cartebleue/icon.png?w=278&c=v0.59.26#w100) |[cartebleue](/payment-methods/cartebleue/)|`cartebleue`| 
+|![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.png?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
 |![maestro](https://static.openfintech.io/payment_methods/maestro/icon.svg?w=278&c=v0.59.26#w100) |[maestro](/payment-methods/maestro/)|`maestro`| 
-|![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.svg?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
-|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.svg?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
+|![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.png?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
+|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.png?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
 |![wiretransfer](https://static.openfintech.io/payment_methods/wiretransfer/icon.svg?w=278&c=v0.59.26#w100) |[wiretransfer](/payment-methods/wiretransfer/)|`wiretransfer`| 
-|![directdebit](https://static.openfintech.io/payment_methods/directdebit/icon.svg?w=278&c=v0.59.26#w100) |[directdebit](/payment-methods/directdebit/)|`directdebit`| 
+|![directdebit](https://static.openfintech.io/payment_methods/directdebit/icon.png?w=278&c=v0.59.26#w100) |[directdebit](/payment-methods/directdebit/)|`directdebit`| 
 |![ideal](https://static.openfintech.io/payment_methods/ideal/icon.svg?w=278&c=v0.59.26#w100) |[ideal](/payment-methods/ideal/)|`ideal`| 
 |![klarna](https://static.openfintech.io/payment_methods/klarna/icon.svg?w=278&c=v0.59.26#w100) |[klarna](/payment-methods/klarna/)|`klarna`| 
 |![sepacredittransfer](https://static.openfintech.io/payment_methods/sepacredittransfer/icon.svg?w=278&c=v0.59.26#w100) |[sepacredittransfer](/payment-methods/sepacredittransfer/)|`sepacredittransfer`| 
-|![belfiusdirectnet](https://static.openfintech.io/payment_methods/belfiusdirectnet/icon.svg?w=278&c=v0.59.26#w100) |[belfiusdirectnet](/payment-methods/belfiusdirectnet/)|`belfiusdirectnet`| 
+|![belfiusdirectnet](https://static.openfintech.io/payment_methods/belfiusdirectnet/icon.png?w=278&c=v0.59.26#w100) |[belfiusdirectnet](/payment-methods/belfiusdirectnet/)|`belfiusdirectnet`| 
 |![giropay](https://static.openfintech.io/payment_methods/giropay/icon.svg?w=278&c=v0.59.26#w100) |[giropay](/payment-methods/giropay/)|`giropay`| 
-|![volksbank](https://static.openfintech.io/payment_methods/volksbank/icon.svg?w=278&c=v0.59.26#w100) |[volksbank](/payment-methods/volksbank/)|`volksbank`| 
+|![volksbank](https://static.openfintech.io/payment_methods/volksbank/icon.png?w=278&c=v0.59.26#w100) |[volksbank](/payment-methods/volksbank/)|`volksbank`| 
 |![sofortbanking](https://static.openfintech.io/payment_methods/sofortbanking/icon.svg?w=278&c=v0.59.26#w100) |[sofortbanking](/payment-methods/sofortbanking/)|`sofortbanking`| 
-|![kbcbetaalknop](https://static.openfintech.io/payment_methods/kbcbetaalknop/icon.svg?w=278&c=v0.59.26#w100) |[kbcbetaalknop](/payment-methods/kbcbetaalknop/)|`kbcbetaalknop`| 
+|![kbcbetaalknop](https://static.openfintech.io/payment_methods/kbcbetaalknop/icon.png?w=278&c=v0.59.26#w100) |[kbcbetaalknop](/payment-methods/kbcbetaalknop/)|`kbcbetaalknop`| 
 |![sepadirectdebit](https://static.openfintech.io/payment_methods/sepadirectdebit/icon.svg?w=278&c=v0.59.26#w100) |[sepadirectdebit](/payment-methods/sepadirectdebit/)|`sepadirectdebit`| 
-|![eps](https://static.openfintech.io/payment_methods/eps/icon.svg?w=278&c=v0.59.26#w100) |[eps](/payment-methods/eps/)|`eps`| 
+|![eps](https://static.openfintech.io/payment_methods/eps/icon.png?w=278&c=v0.59.26#w100) |[eps](/payment-methods/eps/)|`eps`| 
 |![paypal](https://static.openfintech.io/payment_methods/paypal/icon.svg?w=278&c=v0.59.26#w100) |[paypal](/payment-methods/paypal/)|`paypal`| 
-|![fastcheckoutmultisafepay](https://static.openfintech.io/payment_methods/fastcheckoutmultisafepay/icon.svg?w=278&c=v0.59.26#w100) |[fastcheckoutmultisafepay](/payment-methods/fastcheckoutmultisafepay/)|`fastcheckoutmultisafepay`| 
+|![fastcheckoutmultisafepay](https://static.openfintech.io/payment_methods/fastcheckoutmultisafepay/icon.png?w=278&c=v0.59.26#w100) |[fastcheckoutmultisafepay](/payment-methods/fastcheckoutmultisafepay/)|`fastcheckoutmultisafepay`| 
  
 
 ## JSON Object 

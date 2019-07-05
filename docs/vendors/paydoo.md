@@ -1,6 +1,6 @@
 
 # Paydoo 
-![paydoo](https://static.openfintech.io/vendors/paydoo/logo.svg?w=400&c=v0.59.26#w200)  
+![paydoo](https://static.openfintech.io/vendors/paydoo/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -31,18 +31,18 @@ street:  Gertrudes iela 10- 2LV-1010 RigaRIGALatvia
 
 ### Logo 
  
-![paydoo](https://static.openfintech.io/vendors/paydoo/logo.svg?w=400&c=v0.59.26#w200)  
+![paydoo](https://static.openfintech.io/vendors/paydoo/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paydoo/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paydoo/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paydoo](https://static.openfintech.io/vendors/paydoo/icon.svg?w=278&c=v0.59.26#w100)  
+![paydoo](https://static.openfintech.io/vendors/paydoo/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paydoo/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paydoo/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # OnePAY 
-![onepay](https://static.openfintech.io/vendors/onepay/logo.svg?w=400&c=v0.59.26#w200)  
+![onepay](https://static.openfintech.io/vendors/onepay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Vietnam
 
 ### Logo 
  
-![onepay](https://static.openfintech.io/vendors/onepay/logo.svg?w=400&c=v0.59.26#w200)  
+![onepay](https://static.openfintech.io/vendors/onepay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/onepay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/onepay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![onepay](https://static.openfintech.io/vendors/onepay/icon.svg?w=278&c=v0.59.26#w100)  
+![onepay](https://static.openfintech.io/vendors/onepay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/onepay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/onepay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

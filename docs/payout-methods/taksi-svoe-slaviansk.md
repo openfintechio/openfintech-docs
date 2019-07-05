@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _His Taxi (Slavyan
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-svoe-slaviansk](https://static.openfintech.io/payout_methods/taksi-svoe-slaviansk/icon.svg?w=278&c=v0.59.26#w40) |[taksi-svoe-slaviansk_uah](/payout-services/taksi-svoe-slaviansk_uah/)|`taksi-svoe-slaviansk_uah`| 
+|![taksi-svoe-slaviansk](https://static.openfintech.io/payout_methods/taksi-svoe-slaviansk/icon.png?w=278&c=v0.59.26#w40) |[taksi-svoe-slaviansk_uah](/payout-services/taksi-svoe-slaviansk_uah/)|`taksi-svoe-slaviansk_uah`| 
  
 
 ## JSON Object 

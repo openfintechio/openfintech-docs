@@ -1,6 +1,6 @@
 
 # Bango 
-![bango](https://static.openfintech.io/vendors/bango/logo.svg?w=400&c=v0.59.26#w200)  
+![bango](https://static.openfintech.io/vendors/bango/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  5 Westbrook Centre Milton RoadCB4 1YG CambridgeUnited States of America
 
 ### Logo 
  
-![bango](https://static.openfintech.io/vendors/bango/logo.svg?w=400&c=v0.59.26#w200)  
+![bango](https://static.openfintech.io/vendors/bango/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/bango/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/bango/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![bango](https://static.openfintech.io/vendors/bango/icon.svg?w=278&c=v0.59.26#w100)  
+![bango](https://static.openfintech.io/vendors/bango/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/bango/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/bango/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

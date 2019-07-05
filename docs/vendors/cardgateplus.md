@@ -1,6 +1,6 @@
 
 # CardGate 
-![cardgateplus](https://static.openfintech.io/vendors/cardgateplus/logo.svg?w=400&c=v0.59.26#w200)  
+![cardgateplus](https://static.openfintech.io/vendors/cardgateplus/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Maaskade 15347 KD OssNetherlands
 
 ### Logo 
  
-![cardgateplus](https://static.openfintech.io/vendors/cardgateplus/logo.svg?w=400&c=v0.59.26#w200)  
+![cardgateplus](https://static.openfintech.io/vendors/cardgateplus/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/cardgateplus/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/cardgateplus/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![cardgateplus](https://static.openfintech.io/vendors/cardgateplus/icon.svg?w=278&c=v0.59.26#w100)  
+![cardgateplus](https://static.openfintech.io/vendors/cardgateplus/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/cardgateplus/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/cardgateplus/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

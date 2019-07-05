@@ -1,6 +1,6 @@
 
 # PayHub 
-![payhub](https://static.openfintech.io/payment_providers/payhub/logo.svg?w=400&c=v0.59.26#w100)  
+![payhub](https://static.openfintech.io/payment_providers/payhub/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![payhub](https://static.openfintech.io/payment_providers/payhub/logo.svg?w=400&c=v0.59.26#w100)  
+![payhub](https://static.openfintech.io/payment_providers/payhub/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/payhub/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/payhub/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![payhub](https://static.openfintech.io/payment_providers/payhub/icon.svg?w=278&c=v0.59.26#w100)  
+![payhub](https://static.openfintech.io/payment_providers/payhub/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/payhub/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/payhub/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _War: Angels and D
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![voina-angely-i-demony](https://static.openfintech.io/payout_methods/voina-angely-i-demony/icon.svg?w=278&c=v0.59.26#w40) |[voina-angely-i-demony_uah](/payout-services/voina-angely-i-demony_uah/)|`voina-angely-i-demony_uah`| 
+|![voina-angely-i-demony](https://static.openfintech.io/payout_methods/voina-angely-i-demony/icon.png?w=278&c=v0.59.26#w40) |[voina-angely-i-demony_uah](/payout-services/voina-angely-i-demony_uah/)|`voina-angely-i-demony_uah`| 
  
 
 ## JSON Object 

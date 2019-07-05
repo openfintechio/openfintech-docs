@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Ideal 994 (N
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-idealnoe-994-nikolaev](https://static.openfintech.io/payout_methods/taksi-idealnoe-994-nikolaev/icon.svg?w=278&c=v0.59.26#w40) |[taksi-idealnoe-994-nikolaev_uah](/payout-services/taksi-idealnoe-994-nikolaev_uah/)|`taksi-idealnoe-994-nikolaev_uah`| 
+|![taksi-idealnoe-994-nikolaev](https://static.openfintech.io/payout_methods/taksi-idealnoe-994-nikolaev/icon.png?w=278&c=v0.59.26#w40) |[taksi-idealnoe-994-nikolaev_uah](/payout-services/taksi-idealnoe-994-nikolaev_uah/)|`taksi-idealnoe-994-nikolaev_uah`| 
  
 
 ## JSON Object 

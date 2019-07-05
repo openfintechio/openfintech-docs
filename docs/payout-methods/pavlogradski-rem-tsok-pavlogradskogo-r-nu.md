@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Pavlograd RES (CS
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![pavlogradski-rem-tsok-pavlogradskogo-r-nu](https://static.openfintech.io/payout_methods/pavlogradski-rem-tsok-pavlogradskogo-r-nu/icon.svg?w=278&c=v0.59.26#w40) |[pavlogradski-rem-tsok-pavlogradskogo-r-nu_uah](/payout-services/pavlogradski-rem-tsok-pavlogradskogo-r-nu_uah/)|`pavlogradski-rem-tsok-pavlogradskogo-r-nu_uah`| 
+|![pavlogradski-rem-tsok-pavlogradskogo-r-nu](https://static.openfintech.io/payout_methods/pavlogradski-rem-tsok-pavlogradskogo-r-nu/icon.png?w=278&c=v0.59.26#w40) |[pavlogradski-rem-tsok-pavlogradskogo-r-nu_uah](/payout-services/pavlogradski-rem-tsok-pavlogradskogo-r-nu_uah/)|`pavlogradski-rem-tsok-pavlogradskogo-r-nu_uah`| 
  
 
 ## JSON Object 

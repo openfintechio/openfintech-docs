@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _GIOTS Kiev Kinder
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![giots-kiev-detskie-sady](https://static.openfintech.io/payout_methods/giots-kiev-detskie-sady/icon.svg?w=278&c=v0.59.26#w40) |[giots-kiev-detskie-sady_uah](/payout-services/giots-kiev-detskie-sady_uah/)|`giots-kiev-detskie-sady_uah`| 
+|![giots-kiev-detskie-sady](https://static.openfintech.io/payout_methods/giots-kiev-detskie-sady/icon.png?w=278&c=v0.59.26#w40) |[giots-kiev-detskie-sady_uah](/payout-services/giots-kiev-detskie-sady_uah/)|`giots-kiev-detskie-sady_uah`| 
  
 
 ## JSON Object 

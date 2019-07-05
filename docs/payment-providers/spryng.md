@@ -1,6 +1,6 @@
 
 # Spryng Payments 
-![spryng](https://static.openfintech.io/payment_providers/spryng/logo.svg?w=400&c=v0.59.26#w100)  
+![spryng](https://static.openfintech.io/payment_providers/spryng/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![spryng](https://static.openfintech.io/payment_providers/spryng/logo.svg?w=400&c=v0.59.26#w100)  
+![spryng](https://static.openfintech.io/payment_providers/spryng/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/spryng/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/spryng/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![spryng](https://static.openfintech.io/payment_providers/spryng/icon.svg?w=278&c=v0.59.26#w100)  
+![spryng](https://static.openfintech.io/payment_providers/spryng/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/spryng/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/spryng/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -39,9 +39,9 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bancontactmistercash](https://static.openfintech.io/payment_methods/bancontactmistercash/icon.svg?w=278&c=v0.59.26#w100) |[bancontactmistercash](/payment-methods/bancontactmistercash/)|`bancontactmistercash`| 
+|![bancontactmistercash](https://static.openfintech.io/payment_methods/bancontactmistercash/icon.png?w=278&c=v0.59.26#w100) |[bancontactmistercash](/payment-methods/bancontactmistercash/)|`bancontactmistercash`| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.svg?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
 |![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
 |![sofortbanking](https://static.openfintech.io/payment_methods/sofortbanking/icon.svg?w=278&c=v0.59.26#w100) |[sofortbanking](/payment-methods/sofortbanking/)|`sofortbanking`| 
 |![ideal](https://static.openfintech.io/payment_methods/ideal/icon.svg?w=278&c=v0.59.26#w100) |[ideal](/payment-methods/ideal/)|`ideal`| 

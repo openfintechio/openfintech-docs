@@ -1,6 +1,6 @@
 
 # WalPay 
-![walpay](https://static.openfintech.io/vendors/walpay/logo.svg?w=400&c=v0.59.26#w200)  
+![walpay](https://static.openfintech.io/vendors/walpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  DouglasIM1 2EZ DouglasIsle of ManIsle of Man
 
 ### Logo 
  
-![walpay](https://static.openfintech.io/vendors/walpay/logo.svg?w=400&c=v0.59.26#w200)  
+![walpay](https://static.openfintech.io/vendors/walpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/walpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/walpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![walpay](https://static.openfintech.io/vendors/walpay/icon.svg?w=278&c=v0.59.26#w100)  
+![walpay](https://static.openfintech.io/vendors/walpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/walpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/walpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

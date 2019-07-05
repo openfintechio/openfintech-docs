@@ -1,6 +1,6 @@
 
 # BarPay 
-![barpay](https://static.openfintech.io/payment_methods/barpay/logo.svg?w=400&c=v0.59.26#w200)  
+![barpay](https://static.openfintech.io/payment_methods/barpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `barpay` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![barpay](https://static.openfintech.io/payment_methods/barpay/logo.svg?w=400&c=v0.59.26#w200)  
+![barpay](https://static.openfintech.io/payment_methods/barpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/barpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/barpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![barpay](https://static.openfintech.io/payment_methods/barpay/icon.svg?w=278&c=v0.59.26#w100)  
+![barpay](https://static.openfintech.io/payment_methods/barpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/barpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/barpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _BarPay_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.svg?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
+|![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
 |![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
  
 

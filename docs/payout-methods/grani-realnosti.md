@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _The Edge of Reali
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![grani-realnosti](https://static.openfintech.io/payout_methods/grani-realnosti/icon.svg?w=278&c=v0.59.26#w40) |[grani-realnosti_uah](/payout-services/grani-realnosti_uah/)|`grani-realnosti_uah`| 
+|![grani-realnosti](https://static.openfintech.io/payout_methods/grani-realnosti/icon.png?w=278&c=v0.59.26#w40) |[grani-realnosti_uah](/payout-services/grani-realnosti_uah/)|`grani-realnosti_uah`| 
  
 
 ## JSON Object 

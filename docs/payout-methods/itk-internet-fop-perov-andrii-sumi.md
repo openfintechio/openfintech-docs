@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _ІТК - Internet
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![itk-internet-fop-perov-andrii-sumi](https://static.openfintech.io/payout_methods/itk-internet-fop-perov-andrii-sumi/icon.svg?w=278&c=v0.59.26#w40) |[itk-internet-fop-perov-andrii-sumi_uah](/payout-services/itk-internet-fop-perov-andrii-sumi_uah/)|`itk-internet-fop-perov-andrii-sumi_uah`| 
+|![itk-internet-fop-perov-andrii-sumi](https://static.openfintech.io/payout_methods/itk-internet-fop-perov-andrii-sumi/icon.png?w=278&c=v0.59.26#w40) |[itk-internet-fop-perov-andrii-sumi_uah](/payout-services/itk-internet-fop-perov-andrii-sumi_uah/)|`itk-internet-fop-perov-andrii-sumi_uah`| 
  
 
 ## JSON Object 

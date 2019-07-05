@@ -1,6 +1,6 @@
 
 # Payture 
-![payture](https://static.openfintech.io/payment_providers/payture/logo.svg?w=400&c=v0.59.26#w100)  
+![payture](https://static.openfintech.io/payment_providers/payture/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![payture](https://static.openfintech.io/payment_providers/payture/logo.svg?w=400&c=v0.59.26#w100)  
+![payture](https://static.openfintech.io/payment_providers/payture/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/payture/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/payture/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![payture](https://static.openfintech.io/payment_providers/payture/icon.svg?w=278&c=v0.59.26#w100)  
+![payture](https://static.openfintech.io/payment_providers/payture/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/payture/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/payture/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

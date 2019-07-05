@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Destroyers_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![razrushiteli](https://static.openfintech.io/payout_methods/razrushiteli/icon.svg?w=278&c=v0.59.26#w40) |[razrushiteli_uah](/payout-services/razrushiteli_uah/)|`razrushiteli_uah`| 
+|![razrushiteli](https://static.openfintech.io/payout_methods/razrushiteli/icon.png?w=278&c=v0.59.26#w40) |[razrushiteli_uah](/payout-services/razrushiteli_uah/)|`razrushiteli_uah`| 
  
 
 ## JSON Object 

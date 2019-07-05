@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Eksi.net_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![eksi-net](https://static.openfintech.io/payout_methods/eksi-net/icon.svg?w=278&c=v0.59.26#w40) |[eksi-net_uah](/payout-services/eksi-net_uah/)|`eksi-net_uah`| 
+|![eksi-net](https://static.openfintech.io/payout_methods/eksi-net/icon.png?w=278&c=v0.59.26#w40) |[eksi-net_uah](/payout-services/eksi-net_uah/)|`eksi-net_uah`| 
  
 
 ## JSON Object 

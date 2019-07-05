@@ -1,6 +1,6 @@
 
 # Instabill 
-![instabill](https://static.openfintech.io/payment_providers/instabill/logo.svg?w=400&c=v0.59.26#w100)  
+![instabill](https://static.openfintech.io/payment_providers/instabill/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![instabill](https://static.openfintech.io/payment_providers/instabill/logo.svg?w=400&c=v0.59.26#w100)  
+![instabill](https://static.openfintech.io/payment_providers/instabill/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/instabill/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/instabill/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![instabill](https://static.openfintech.io/payment_providers/instabill/icon.svg?w=278&c=v0.59.26#w100)  
+![instabill](https://static.openfintech.io/payment_providers/instabill/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/instabill/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/instabill/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

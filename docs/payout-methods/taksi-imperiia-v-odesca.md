@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Taxi Imperia-V (O
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![taksi-imperiia-v-odesca](https://static.openfintech.io/payout_methods/taksi-imperiia-v-odesca/icon.svg?w=278&c=v0.59.26#w40) |[taksi-imperiia-v-odesca_uah](/payout-services/taksi-imperiia-v-odesca_uah/)|`taksi-imperiia-v-odesca_uah`| 
+|![taksi-imperiia-v-odesca](https://static.openfintech.io/payout_methods/taksi-imperiia-v-odesca/icon.png?w=278&c=v0.59.26#w40) |[taksi-imperiia-v-odesca_uah](/payout-services/taksi-imperiia-v-odesca_uah/)|`taksi-imperiia-v-odesca_uah`| 
  
 
 ## JSON Object 

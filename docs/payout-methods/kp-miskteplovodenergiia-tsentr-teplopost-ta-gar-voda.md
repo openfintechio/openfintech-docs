@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _KP 'Gorteplovodoe
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kp-miskteplovodenergiia-tsentr-teplopost-ta-gar-voda](https://static.openfintech.io/payout_methods/kp-miskteplovodenergiia-tsentr-teplopost-ta-gar-voda/icon.svg?w=278&c=v0.59.26#w40) |[kp-miskteplovodenergiia-tsentr-teplopost-ta-gar-voda_uah](/payout-services/kp-miskteplovodenergiia-tsentr-teplopost-ta-gar-voda_uah/)|`kp-miskteplovodenergiia-tsentr-teplopost-ta-gar-voda_uah`| 
+|![kp-miskteplovodenergiia-tsentr-teplopost-ta-gar-voda](https://static.openfintech.io/payout_methods/kp-miskteplovodenergiia-tsentr-teplopost-ta-gar-voda/icon.png?w=278&c=v0.59.26#w40) |[kp-miskteplovodenergiia-tsentr-teplopost-ta-gar-voda_uah](/payout-services/kp-miskteplovodenergiia-tsentr-teplopost-ta-gar-voda_uah/)|`kp-miskteplovodenergiia-tsentr-teplopost-ta-gar-voda_uah`| 
  
 
 ## JSON Object 

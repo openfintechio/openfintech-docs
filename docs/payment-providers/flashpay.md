@@ -1,6 +1,6 @@
 
 # FlashPay 
-![flashpay](https://static.openfintech.io/payment_providers/flashpay/logo.svg?w=400&c=v0.59.26#w100)  
+![flashpay](https://static.openfintech.io/payment_providers/flashpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![flashpay](https://static.openfintech.io/payment_providers/flashpay/logo.svg?w=400&c=v0.59.26#w100)  
+![flashpay](https://static.openfintech.io/payment_providers/flashpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/flashpay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/flashpay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![flashpay](https://static.openfintech.io/payment_providers/flashpay/icon.svg?w=278&c=v0.59.26#w100)  
+![flashpay](https://static.openfintech.io/payment_providers/flashpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/flashpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/flashpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

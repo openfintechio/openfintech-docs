@@ -1,6 +1,6 @@
 
 # High Risk Holdings 
-![highriskholdings](https://static.openfintech.io/vendors/highriskholdings/logo.svg?w=400&c=v0.59.26#w200)  
+![highriskholdings](https://static.openfintech.io/vendors/highriskholdings/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -26,18 +26,18 @@ street:  United States of America
 
 ### Logo 
  
-![highriskholdings](https://static.openfintech.io/vendors/highriskholdings/logo.svg?w=400&c=v0.59.26#w200)  
+![highriskholdings](https://static.openfintech.io/vendors/highriskholdings/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/highriskholdings/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/highriskholdings/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![highriskholdings](https://static.openfintech.io/vendors/highriskholdings/icon.svg?w=278&c=v0.59.26#w100)  
+![highriskholdings](https://static.openfintech.io/vendors/highriskholdings/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/highriskholdings/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/highriskholdings/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # PayLane 
-![paylane](https://static.openfintech.io/payment_providers/paylane/logo.svg?w=400&c=v0.59.26#w100)  
+![paylane](https://static.openfintech.io/payment_providers/paylane/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![paylane](https://static.openfintech.io/payment_providers/paylane/logo.svg?w=400&c=v0.59.26#w100)  
+![paylane](https://static.openfintech.io/payment_providers/paylane/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paylane/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paylane/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![paylane](https://static.openfintech.io/payment_providers/paylane/icon.svg?w=278&c=v0.59.26#w100)  
+![paylane](https://static.openfintech.io/payment_providers/paylane/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paylane/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paylane/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

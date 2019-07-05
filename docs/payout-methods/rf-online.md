@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _RF Online_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![rf-online](https://static.openfintech.io/payout_methods/rf-online/icon.svg?w=278&c=v0.59.26#w40) |[rf-online_uah](/payout-services/rf-online_uah/)|`rf-online_uah`| 
+|![rf-online](https://static.openfintech.io/payout_methods/rf-online/icon.png?w=278&c=v0.59.26#w40) |[rf-online_uah](/payout-services/rf-online_uah/)|`rf-online_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # MyBank 
-![mybank2](https://static.openfintech.io/payment_methods/mybank2/logo.svg?w=400&c=v0.59.26#w200)  
+![mybank2](https://static.openfintech.io/payment_methods/mybank2/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `mybank2` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![mybank2](https://static.openfintech.io/payment_methods/mybank2/logo.svg?w=400&c=v0.59.26#w200)  
+![mybank2](https://static.openfintech.io/payment_methods/mybank2/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/mybank2/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/mybank2/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.svg?w=278&c=v0.59.26#w100)  
+![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/mybank2/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 
@@ -43,15 +43,15 @@ The list of [Payment Providers](/payment-providers/) that support the _MyBank_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![paynl](https://static.openfintech.io/payment_providers/paynl/icon.svg?w=278&c=v0.59.26#w100) |[Pay.nl](/payment-providers/paynl/)|`paynl`| 
-|![ppro](https://static.openfintech.io/payment_providers/ppro/icon.svg?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
-|![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.svg?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
-|![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/icon.svg?w=278&c=v0.59.26#w100) |[Alternative Payments](/payment-providers/alternativepayments/)|`alternativepayments`| 
-|![smart2pay](https://static.openfintech.io/payment_providers/smart2pay/icon.svg?w=278&c=v0.59.26#w100) |[Smart2Pay](/payment-providers/smart2pay/)|`smart2pay`| 
-|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.svg?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
-|![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.svg?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
-|![computop](https://static.openfintech.io/payment_providers/computop/icon.svg?w=278&c=v0.59.26#w100) |[Computop](/payment-providers/computop/)|`computop`| 
-|![easypaymentgateway](https://static.openfintech.io/payment_providers/easypaymentgateway/icon.svg?w=278&c=v0.59.26#w100) |[Easy Payment Gateway](/payment-providers/easypaymentgateway/)|`easypaymentgateway`| 
+|![paynl](https://static.openfintech.io/payment_providers/paynl/icon.png?w=278&c=v0.59.26#w100) |[Pay.nl](/payment-providers/paynl/)|`paynl`| 
+|![ppro](https://static.openfintech.io/payment_providers/ppro/icon.png?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
+|![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
+|![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/icon.png?w=278&c=v0.59.26#w100) |[Alternative Payments](/payment-providers/alternativepayments/)|`alternativepayments`| 
+|![smart2pay](https://static.openfintech.io/payment_providers/smart2pay/icon.png?w=278&c=v0.59.26#w100) |[Smart2Pay](/payment-providers/smart2pay/)|`smart2pay`| 
+|![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.png?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
+|![computop](https://static.openfintech.io/payment_providers/computop/icon.png?w=278&c=v0.59.26#w100) |[Computop](/payment-providers/computop/)|`computop`| 
+|![easypaymentgateway](https://static.openfintech.io/payment_providers/easypaymentgateway/icon.png?w=278&c=v0.59.26#w100) |[Easy Payment Gateway](/payment-providers/easypaymentgateway/)|`easypaymentgateway`| 
 |![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
  
 

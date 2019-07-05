@@ -1,6 +1,6 @@
 
 # UNIVERSUM Group - FlexiPay® 
-![flexipay](https://static.openfintech.io/vendors/flexipay/logo.svg?w=400&c=v0.59.26#w200)  
+![flexipay](https://static.openfintech.io/vendors/flexipay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Hanauer Landstraße 164 60314 Frankfurt am MainHessenGermany
 
 ### Logo 
  
-![flexipay](https://static.openfintech.io/vendors/flexipay/logo.svg?w=400&c=v0.59.26#w200)  
+![flexipay](https://static.openfintech.io/vendors/flexipay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/flexipay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/flexipay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![flexipay](https://static.openfintech.io/vendors/flexipay/icon.svg?w=278&c=v0.59.26#w100)  
+![flexipay](https://static.openfintech.io/vendors/flexipay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/flexipay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/flexipay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

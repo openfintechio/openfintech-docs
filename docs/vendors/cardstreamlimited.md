@@ -1,6 +1,6 @@
 
 # Cardstream 
-![cardstreamlimited](https://static.openfintech.io/vendors/cardstreamlimited/logo.svg?w=400&c=v0.59.26#w200)  
+![cardstreamlimited](https://static.openfintech.io/vendors/cardstreamlimited/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  York House, Blackbrook Park AvenueTA1 2PX TauntonSomersetUnited Kingdom
 
 ### Logo 
  
-![cardstreamlimited](https://static.openfintech.io/vendors/cardstreamlimited/logo.svg?w=400&c=v0.59.26#w200)  
+![cardstreamlimited](https://static.openfintech.io/vendors/cardstreamlimited/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/cardstreamlimited/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/cardstreamlimited/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![cardstreamlimited](https://static.openfintech.io/vendors/cardstreamlimited/icon.svg?w=278&c=v0.59.26#w100)  
+![cardstreamlimited](https://static.openfintech.io/vendors/cardstreamlimited/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/cardstreamlimited/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/cardstreamlimited/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # UOB netbanking 
-![unitedoverseasbankuobnetbanking](https://static.openfintech.io/vendors/unitedoverseasbankuobnetbanking/logo.svg?w=400&c=v0.59.26#w200)  
+![unitedoverseasbankuobnetbanking](https://static.openfintech.io/vendors/unitedoverseasbankuobnetbanking/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![unitedoverseasbankuobnetbanking](https://static.openfintech.io/vendors/unitedoverseasbankuobnetbanking/logo.svg?w=400&c=v0.59.26#w200)  
+![unitedoverseasbankuobnetbanking](https://static.openfintech.io/vendors/unitedoverseasbankuobnetbanking/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/unitedoverseasbankuobnetbanking/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/unitedoverseasbankuobnetbanking/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![unitedoverseasbankuobnetbanking](https://static.openfintech.io/vendors/unitedoverseasbankuobnetbanking/icon.svg?w=278&c=v0.59.26#w100)  
+![unitedoverseasbankuobnetbanking](https://static.openfintech.io/vendors/unitedoverseasbankuobnetbanking/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/unitedoverseasbankuobnetbanking/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/unitedoverseasbankuobnetbanking/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

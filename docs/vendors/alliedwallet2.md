@@ -1,6 +1,6 @@
 
 # Allied Wallet 
-![alliedwallet2](https://static.openfintech.io/vendors/alliedwallet2/logo.svg?w=400&c=v0.59.26#w200)  
+![alliedwallet2](https://static.openfintech.io/vendors/alliedwallet2/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -27,18 +27,18 @@ street:  2 London Wall BuildingsEC2M 5UU LondonUnited Kingdom
 
 ### Logo 
  
-![alliedwallet2](https://static.openfintech.io/vendors/alliedwallet2/logo.svg?w=400&c=v0.59.26#w200)  
+![alliedwallet2](https://static.openfintech.io/vendors/alliedwallet2/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/alliedwallet2/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/alliedwallet2/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![alliedwallet2](https://static.openfintech.io/vendors/alliedwallet2/icon.svg?w=278&c=v0.59.26#w100)  
+![alliedwallet2](https://static.openfintech.io/vendors/alliedwallet2/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/alliedwallet2/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/alliedwallet2/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

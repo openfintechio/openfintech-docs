@@ -1,6 +1,6 @@
 
 # Payshop 
-![payshop](https://static.openfintech.io/vendors/payshop/logo.svg?w=400&c=v0.59.26#w200)  
+![payshop](https://static.openfintech.io/vendors/payshop/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![payshop](https://static.openfintech.io/vendors/payshop/logo.svg?w=400&c=v0.59.26#w200)  
+![payshop](https://static.openfintech.io/vendors/payshop/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payshop/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payshop/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payshop](https://static.openfintech.io/vendors/payshop/icon.svg?w=278&c=v0.59.26#w100)  
+![payshop](https://static.openfintech.io/vendors/payshop/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payshop/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payshop/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

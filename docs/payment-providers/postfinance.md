@@ -1,6 +1,6 @@
 
 # PostFinance 
-![postfinance](https://static.openfintech.io/payment_providers/postfinance/logo.svg?w=400&c=v0.59.26#w100)  
+![postfinance](https://static.openfintech.io/payment_providers/postfinance/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![postfinance](https://static.openfintech.io/payment_providers/postfinance/logo.svg?w=400&c=v0.59.26#w100)  
+![postfinance](https://static.openfintech.io/payment_providers/postfinance/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/postfinance/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/postfinance/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![postfinance](https://static.openfintech.io/payment_providers/postfinance/icon.svg?w=278&c=v0.59.26#w100)  
+![postfinance](https://static.openfintech.io/payment_providers/postfinance/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/postfinance/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/postfinance/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

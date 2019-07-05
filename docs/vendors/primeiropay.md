@@ -1,6 +1,6 @@
 
 # PrimeiroPay 
-![primeiropay](https://static.openfintech.io/vendors/primeiropay/logo.svg?w=400&c=v0.59.26#w200)  
+![primeiropay](https://static.openfintech.io/vendors/primeiropay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Brazil
 
 ### Logo 
  
-![primeiropay](https://static.openfintech.io/vendors/primeiropay/logo.svg?w=400&c=v0.59.26#w200)  
+![primeiropay](https://static.openfintech.io/vendors/primeiropay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/primeiropay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/primeiropay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![primeiropay](https://static.openfintech.io/vendors/primeiropay/icon.svg?w=278&c=v0.59.26#w100)  
+![primeiropay](https://static.openfintech.io/vendors/primeiropay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/primeiropay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/primeiropay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _BEATLE.NET (Chern
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![beatle-net-chernigov](https://static.openfintech.io/payout_methods/beatle-net-chernigov/icon.svg?w=278&c=v0.59.26#w40) |[beatle-net-chernigov_uah](/payout-services/beatle-net-chernigov_uah/)|`beatle-net-chernigov_uah`| 
+|![beatle-net-chernigov](https://static.openfintech.io/payout_methods/beatle-net-chernigov/icon.png?w=278&c=v0.59.26#w40) |[beatle-net-chernigov_uah](/payout-services/beatle-net-chernigov_uah/)|`beatle-net-chernigov_uah`| 
  
 
 ## JSON Object 

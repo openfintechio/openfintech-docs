@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _CONCERT.UA_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![concert-ua](https://static.openfintech.io/payout_methods/concert-ua/icon.svg?w=278&c=v0.59.26#w40) |[concert-ua_uah](/payout-services/concert-ua_uah/)|`concert-ua_uah`| 
+|![concert-ua](https://static.openfintech.io/payout_methods/concert-ua/icon.png?w=278&c=v0.59.26#w40) |[concert-ua_uah](/payout-services/concert-ua_uah/)|`concert-ua_uah`| 
  
 
 ## JSON Object 

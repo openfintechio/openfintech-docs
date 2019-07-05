@@ -1,6 +1,6 @@
 
 # Payofix 
-![payofix](https://static.openfintech.io/vendors/payofix/logo.svg?w=400&c=v0.59.26#w200)  
+![payofix](https://static.openfintech.io/vendors/payofix/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:
 
 ### Logo 
  
-![payofix](https://static.openfintech.io/vendors/payofix/logo.svg?w=400&c=v0.59.26#w200)  
+![payofix](https://static.openfintech.io/vendors/payofix/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payofix/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payofix/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payofix](https://static.openfintech.io/vendors/payofix/icon.svg?w=278&c=v0.59.26#w100)  
+![payofix](https://static.openfintech.io/vendors/payofix/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payofix/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payofix/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

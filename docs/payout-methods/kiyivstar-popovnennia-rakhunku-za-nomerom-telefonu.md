@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Kyivstar - accoun
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kiyivstar-popovnennia-rakhunku-za-nomerom-telefonu](https://static.openfintech.io/payout_methods/kiyivstar-popovnennia-rakhunku-za-nomerom-telefonu/icon.svg?w=278&c=v0.59.26#w40) |[kiyivstar-popovnennia-rakhunku-za-nomerom-telefonu_uah](/payout-services/kiyivstar-popovnennia-rakhunku-za-nomerom-telefonu_uah/)|`kiyivstar-popovnennia-rakhunku-za-nomerom-telefonu_uah`| 
+|![kiyivstar-popovnennia-rakhunku-za-nomerom-telefonu](https://static.openfintech.io/payout_methods/kiyivstar-popovnennia-rakhunku-za-nomerom-telefonu/icon.png?w=278&c=v0.59.26#w40) |[kiyivstar-popovnennia-rakhunku-za-nomerom-telefonu_uah](/payout-services/kiyivstar-popovnennia-rakhunku-za-nomerom-telefonu_uah/)|`kiyivstar-popovnennia-rakhunku-za-nomerom-telefonu_uah`| 
  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # Straal 
-![straal](https://static.openfintech.io/vendors/straal/logo.svg?w=400&c=v0.59.26#w200)  
+![straal](https://static.openfintech.io/vendors/straal/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -24,18 +24,18 @@ street:  Plac Europejski 1 00-844 Warsaw Poland
 
 ### Logo 
  
-![straal](https://static.openfintech.io/vendors/straal/logo.svg?w=400&c=v0.59.26#w200)  
+![straal](https://static.openfintech.io/vendors/straal/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/straal/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/straal/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![straal](https://static.openfintech.io/vendors/straal/icon.svg?w=278&c=v0.59.26#w100)  
+![straal](https://static.openfintech.io/vendors/straal/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/straal/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/straal/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

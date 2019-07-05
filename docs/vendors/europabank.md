@@ -1,6 +1,6 @@
 
 # Europabank 
-![europabank](https://static.openfintech.io/vendors/europabank/logo.svg?w=400&c=v0.59.26#w200)  
+![europabank](https://static.openfintech.io/vendors/europabank/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Gents Belgium
 
 ### Logo 
  
-![europabank](https://static.openfintech.io/vendors/europabank/logo.svg?w=400&c=v0.59.26#w200)  
+![europabank](https://static.openfintech.io/vendors/europabank/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/europabank/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/europabank/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![europabank](https://static.openfintech.io/vendors/europabank/icon.svg?w=278&c=v0.59.26#w100)  
+![europabank](https://static.openfintech.io/vendors/europabank/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/europabank/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/europabank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

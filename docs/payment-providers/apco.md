@@ -1,6 +1,6 @@
 
 # APCO 
-![apco](https://static.openfintech.io/payment_providers/apco/logo.svg?w=400&c=v0.59.26#w100)  
+![apco](https://static.openfintech.io/payment_providers/apco/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -23,18 +23,18 @@
 
 ### Logo 
  
-![apco](https://static.openfintech.io/payment_providers/apco/logo.svg?w=400&c=v0.59.26#w100)  
+![apco](https://static.openfintech.io/payment_providers/apco/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/apco/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/apco/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![apco](https://static.openfintech.io/payment_providers/apco/icon.svg?w=278&c=v0.59.26#w100)  
+![apco](https://static.openfintech.io/payment_providers/apco/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/apco/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/apco/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -43,10 +43,10 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.svg?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
 |![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
-|![ukash](https://static.openfintech.io/payment_methods/ukash/icon.svg?w=278&c=v0.59.26#w100) |[ukash](/payment-methods/ukash/)|`ukash`| 
-|![trustly](https://static.openfintech.io/payment_methods/trustly/icon.svg?w=278&c=v0.59.26#w100) |[trustly](/payment-methods/trustly/)|`trustly`| 
+|![ukash](https://static.openfintech.io/payment_methods/ukash/icon.png?w=278&c=v0.59.26#w100) |[ukash](/payment-methods/ukash/)|`ukash`| 
+|![trustly](https://static.openfintech.io/payment_methods/trustly/icon.png?w=278&c=v0.59.26#w100) |[trustly](/payment-methods/trustly/)|`trustly`| 
 |![sofortbanking](https://static.openfintech.io/payment_methods/sofortbanking/icon.svg?w=278&c=v0.59.26#w100) |[sofortbanking](/payment-methods/sofortbanking/)|`sofortbanking`| 
  
 

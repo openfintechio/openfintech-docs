@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _MiLan (Kiev)_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![milan-kiev](https://static.openfintech.io/payout_methods/milan-kiev/icon.svg?w=278&c=v0.59.26#w40) |[milan-kiev_uah](/payout-services/milan-kiev_uah/)|`milan-kiev_uah`| 
+|![milan-kiev](https://static.openfintech.io/payout_methods/milan-kiev/icon.png?w=278&c=v0.59.26#w40) |[milan-kiev_uah](/payout-services/milan-kiev_uah/)|`milan-kiev_uah`| 
  
 
 ## JSON Object 

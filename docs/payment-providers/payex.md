@@ -1,6 +1,6 @@
 
 # PayEx 
-![payex](https://static.openfintech.io/payment_providers/payex/logo.svg?w=400&c=v0.59.26#w100)  
+![payex](https://static.openfintech.io/payment_providers/payex/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![payex](https://static.openfintech.io/payment_providers/payex/logo.svg?w=400&c=v0.59.26#w100)  
+![payex](https://static.openfintech.io/payment_providers/payex/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/payex/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/payex/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![payex](https://static.openfintech.io/payment_providers/payex/icon.svg?w=278&c=v0.59.26#w100)  
+![payex](https://static.openfintech.io/payment_providers/payex/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/payex/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/payex/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

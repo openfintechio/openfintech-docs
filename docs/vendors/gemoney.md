@@ -1,6 +1,6 @@
 
 # GE Money 
-![gemoney](https://static.openfintech.io/vendors/gemoney/logo.svg?w=400&c=v0.59.26#w200)  
+![gemoney](https://static.openfintech.io/vendors/gemoney/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![gemoney](https://static.openfintech.io/vendors/gemoney/logo.svg?w=400&c=v0.59.26#w200)  
+![gemoney](https://static.openfintech.io/vendors/gemoney/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/gemoney/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/gemoney/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![gemoney](https://static.openfintech.io/vendors/gemoney/icon.svg?w=278&c=v0.59.26#w100)  
+![gemoney](https://static.openfintech.io/vendors/gemoney/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/gemoney/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/gemoney/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

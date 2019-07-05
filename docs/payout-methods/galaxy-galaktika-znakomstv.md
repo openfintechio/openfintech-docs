@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Galaxy (Dating Ga
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![galaxy-galaktika-znakomstv](https://static.openfintech.io/payout_methods/galaxy-galaktika-znakomstv/icon.svg?w=278&c=v0.59.26#w40) |[galaxy-galaktika-znakomstv_uah](/payout-services/galaxy-galaktika-znakomstv_uah/)|`galaxy-galaktika-znakomstv_uah`| 
+|![galaxy-galaktika-znakomstv](https://static.openfintech.io/payout_methods/galaxy-galaktika-znakomstv/icon.png?w=278&c=v0.59.26#w40) |[galaxy-galaktika-znakomstv_uah](/payout-services/galaxy-galaktika-znakomstv_uah/)|`galaxy-galaktika-znakomstv_uah`| 
  
 
 ## JSON Object 

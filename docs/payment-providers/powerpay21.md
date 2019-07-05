@@ -1,6 +1,6 @@
 
 # powerpay21 
-![powerpay21](https://static.openfintech.io/payment_providers/powerpay21/logo.svg?w=400&c=v0.59.26#w100)  
+![powerpay21](https://static.openfintech.io/payment_providers/powerpay21/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![powerpay21](https://static.openfintech.io/payment_providers/powerpay21/logo.svg?w=400&c=v0.59.26#w100)  
+![powerpay21](https://static.openfintech.io/payment_providers/powerpay21/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/powerpay21/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/powerpay21/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![powerpay21](https://static.openfintech.io/payment_providers/powerpay21/icon.svg?w=278&c=v0.59.26#w100)  
+![powerpay21](https://static.openfintech.io/payment_providers/powerpay21/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/powerpay21/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/powerpay21/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

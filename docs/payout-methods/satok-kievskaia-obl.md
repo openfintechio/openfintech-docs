@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Satoko (Kyiv regi
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![satok-kievskaia-obl](https://static.openfintech.io/payout_methods/satok-kievskaia-obl/icon.svg?w=278&c=v0.59.26#w40) |[satok-kievskaia-obl_uah](/payout-services/satok-kievskaia-obl_uah/)|`satok-kievskaia-obl_uah`| 
+|![satok-kievskaia-obl](https://static.openfintech.io/payout_methods/satok-kievskaia-obl/icon.png?w=278&c=v0.59.26#w40) |[satok-kievskaia-obl_uah](/payout-services/satok-kievskaia-obl_uah/)|`satok-kievskaia-obl_uah`| 
  
 
 ## JSON Object 

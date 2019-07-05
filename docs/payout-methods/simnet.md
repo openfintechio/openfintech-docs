@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _SimNet_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![simnet](https://static.openfintech.io/payout_methods/simnet/icon.svg?w=278&c=v0.59.26#w40) |[simnet_uah](/payout-services/simnet_uah/)|`simnet_uah`| 
+|![simnet](https://static.openfintech.io/payout_methods/simnet/icon.png?w=278&c=v0.59.26#w40) |[simnet_uah](/payout-services/simnet_uah/)|`simnet_uah`| 
  
 
 ## JSON Object 

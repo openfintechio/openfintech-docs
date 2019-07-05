@@ -1,6 +1,6 @@
 
 # Elavon 
-![elavoneu](https://static.openfintech.io/vendors/elavoneu/logo.svg?w=400&c=v0.59.26#w200)  
+![elavoneu](https://static.openfintech.io/vendors/elavoneu/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  German Branch: Lyoner Str. 3660528 FrankfurtGermany
 
 ### Logo 
  
-![elavoneu](https://static.openfintech.io/vendors/elavoneu/logo.svg?w=400&c=v0.59.26#w200)  
+![elavoneu](https://static.openfintech.io/vendors/elavoneu/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/elavoneu/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/elavoneu/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![elavoneu](https://static.openfintech.io/vendors/elavoneu/icon.svg?w=278&c=v0.59.26#w100)  
+![elavoneu](https://static.openfintech.io/vendors/elavoneu/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/elavoneu/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/elavoneu/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

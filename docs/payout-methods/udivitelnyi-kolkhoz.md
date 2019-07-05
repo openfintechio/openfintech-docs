@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Amazing Collectiv
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![udivitelnyi-kolkhoz](https://static.openfintech.io/payout_methods/udivitelnyi-kolkhoz/icon.svg?w=278&c=v0.59.26#w40) |[udivitelnyi-kolkhoz_uah](/payout-services/udivitelnyi-kolkhoz_uah/)|`udivitelnyi-kolkhoz_uah`| 
+|![udivitelnyi-kolkhoz](https://static.openfintech.io/payout_methods/udivitelnyi-kolkhoz/icon.png?w=278&c=v0.59.26#w40) |[udivitelnyi-kolkhoz_uah](/payout-services/udivitelnyi-kolkhoz_uah/)|`udivitelnyi-kolkhoz_uah`| 
  
 
 ## JSON Object 

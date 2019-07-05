@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _RIOT_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![riot](https://static.openfintech.io/payout_methods/riot/icon.svg?w=278&c=v0.59.26#w40) |[riot_uah](/payout-services/riot_uah/)|`riot_uah`| 
+|![riot](https://static.openfintech.io/payout_methods/riot/icon.png?w=278&c=v0.59.26#w40) |[riot_uah](/payout-services/riot_uah/)|`riot_uah`| 
  
 
 ## JSON Object 

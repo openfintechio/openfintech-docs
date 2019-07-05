@@ -1,6 +1,6 @@
 
 # Visa Checkout 
-![visacheckout](https://static.openfintech.io/vendors/visacheckout/logo.svg?w=400&c=v0.59.26#w200)  
+![visacheckout](https://static.openfintech.io/vendors/visacheckout/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![visacheckout](https://static.openfintech.io/vendors/visacheckout/logo.svg?w=400&c=v0.59.26#w200)  
+![visacheckout](https://static.openfintech.io/vendors/visacheckout/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/visacheckout/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/visacheckout/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![visacheckout](https://static.openfintech.io/vendors/visacheckout/icon.svg?w=278&c=v0.59.26#w100)  
+![visacheckout](https://static.openfintech.io/vendors/visacheckout/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/visacheckout/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/visacheckout/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

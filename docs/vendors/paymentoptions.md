@@ -1,6 +1,6 @@
 
 # Payment Options 
-![paymentoptions](https://static.openfintech.io/vendors/paymentoptions/logo.svg?w=400&c=v0.59.26#w200)  
+![paymentoptions](https://static.openfintech.io/vendors/paymentoptions/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Singapore
 
 ### Logo 
  
-![paymentoptions](https://static.openfintech.io/vendors/paymentoptions/logo.svg?w=400&c=v0.59.26#w200)  
+![paymentoptions](https://static.openfintech.io/vendors/paymentoptions/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paymentoptions/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paymentoptions/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paymentoptions](https://static.openfintech.io/vendors/paymentoptions/icon.svg?w=278&c=v0.59.26#w100)  
+![paymentoptions](https://static.openfintech.io/vendors/paymentoptions/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paymentoptions/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paymentoptions/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

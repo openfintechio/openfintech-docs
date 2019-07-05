@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _BITTER.NET (Terno
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bitter-net-ternopil](https://static.openfintech.io/payout_methods/bitter-net-ternopil/icon.svg?w=278&c=v0.59.26#w40) |[bitter-net-ternopil_uah](/payout-services/bitter-net-ternopil_uah/)|`bitter-net-ternopil_uah`| 
+|![bitter-net-ternopil](https://static.openfintech.io/payout_methods/bitter-net-ternopil/icon.png?w=278&c=v0.59.26#w40) |[bitter-net-ternopil_uah](/payout-services/bitter-net-ternopil_uah/)|`bitter-net-ternopil_uah`| 
  
 
 ## JSON Object 

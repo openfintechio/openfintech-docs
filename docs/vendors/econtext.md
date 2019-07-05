@@ -1,6 +1,6 @@
 
 # Econtext 
-![econtext](https://static.openfintech.io/vendors/econtext/logo.svg?w=400&c=v0.59.26#w200)  
+![econtext](https://static.openfintech.io/vendors/econtext/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -23,18 +23,18 @@ street:  Japan
 
 ### Logo 
  
-![econtext](https://static.openfintech.io/vendors/econtext/logo.svg?w=400&c=v0.59.26#w200)  
+![econtext](https://static.openfintech.io/vendors/econtext/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/econtext/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/econtext/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![econtext](https://static.openfintech.io/vendors/econtext/icon.svg?w=278&c=v0.59.26#w100)  
+![econtext](https://static.openfintech.io/vendors/econtext/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/econtext/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/econtext/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

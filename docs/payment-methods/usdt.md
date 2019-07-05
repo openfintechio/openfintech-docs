@@ -1,6 +1,6 @@
 
 # Tether 
-![usdt](https://static.openfintech.io/payment_methods/usdt/logo.svg?w=400&c=v0.59.26#w200)  
+![usdt](https://static.openfintech.io/payment_methods/usdt/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `usdt` 
@@ -15,17 +15,17 @@
 ## Images 
 
 ### Logo 
-![usdt](https://static.openfintech.io/payment_methods/usdt/logo.svg?w=400&c=v0.59.26#w200)  
+![usdt](https://static.openfintech.io/payment_methods/usdt/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/usdt/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/usdt/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![usdt](https://static.openfintech.io/payment_methods/usdt/icon.svg?w=278&c=v0.59.26#w100)  
+![usdt](https://static.openfintech.io/payment_methods/usdt/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/usdt/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/usdt/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -34,7 +34,7 @@ The list of [Payment Services](/payment-services/) based on the _Tether_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![usdt](https://static.openfintech.io/payment_methods/usdt/icon.svg?w=278&c=v0.59.26#w100) |[usdt_usd_hpp](/payment-services/usdt_usd_hpp/)|`usdt_usd_hpp`| 
+|![usdt](https://static.openfintech.io/payment_methods/usdt/icon.png?w=278&c=v0.59.26#w100) |[usdt_usd_hpp](/payment-services/usdt_usd_hpp/)|`usdt_usd_hpp`| 
  
 
 ## JSON Object 
