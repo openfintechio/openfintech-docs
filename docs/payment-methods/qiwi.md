@@ -69,6 +69,7 @@ The list of [Payment Providers](/payment-providers/) that support the _VISA QIWI
 |![advcash](https://static.openfintech.io/payment_providers/advcash/icon.svg?w=278&c=v0.59.26#w100) |[AdvCash](/payment-providers/advcash/)|`advcash`| 
 |![payeer](https://static.openfintech.io/payment_providers/payeer/icon.png?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
 |![piastrix](https://static.openfintech.io/payment_providers/piastrix/icon.svg?w=278&c=v0.59.26#w100) |[Piastrix](/payment-providers/piastrix/)|`piastrix`| 
+|![accentpay](https://static.openfintech.io/payment_providers/accentpay/icon.png?w=278&c=v0.59.26#w100) |[Accentpay](/payment-providers/accentpay/)|`accentpay`| 
 |![odysseq](https://static.openfintech.io/payment_providers/odysseq/icon.svg?w=278&c=v0.59.26#w100) |[Odysseq](/payment-providers/odysseq/)|`odysseq`| 
  
 

@@ -34,6 +34,15 @@ https://static.openfintech.io/payment_methods/smsbilling/logo.png?w=400&c=v0.59.
 https://static.openfintech.io/payment_methods/smsbilling/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _SMS Billing_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![smsbilling](https://static.openfintech.io/payment_methods/smsbilling/icon.png?w=278&c=v0.59.26#w100) |[smsbilling_rub_hpp](/payment-services/smsbilling_rub_hpp/)|`smsbilling_rub_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _SMS Billing_ 
@@ -57,6 +66,7 @@ The list of [Payment Providers](/payment-providers/) that support the _SMS Billi
 |![maxpay](https://static.openfintech.io/payment_providers/maxpay/icon.svg?w=278&c=v0.59.26#w100) |[Maxpay](/payment-providers/maxpay/)|`maxpay`| 
 |![payrexx](https://static.openfintech.io/payment_providers/payrexx/icon.png?w=278&c=v0.59.26#w100) |[Payrexx Payments](/payment-providers/payrexx/)|`payrexx`| 
 |![dengionline](https://static.openfintech.io/payment_providers/dengionline/icon.png?w=278&c=v0.59.26#w100) |[Dengi Online](/payment-providers/dengionline/)|`dengionline`| 
+|![accentpay](https://static.openfintech.io/payment_providers/accentpay/icon.png?w=278&c=v0.59.26#w100) |[Accentpay](/payment-providers/accentpay/)|`accentpay`| 
  
 
 ## JSON Object 

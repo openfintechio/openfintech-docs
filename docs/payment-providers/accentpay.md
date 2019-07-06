@@ -37,14 +37,10 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
- 
-
-## Payout Methods 
- 
-The list of supported [Payout Methods](/payout-methods/) 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
+|![qiwi](https://static.openfintech.io/payment_methods/qiwi/icon.svg?w=278&c=v0.59.26#w100) |[qiwi](/payment-methods/qiwi/)|`qiwi`| 
+|![yandexmoney](https://static.openfintech.io/payment_methods/yandexmoney/icon.svg?w=278&c=v0.59.26#w100) |[yandexmoney](/payment-methods/yandexmoney/)|`yandexmoney`| 
+|![alfaclick](https://static.openfintech.io/payment_methods/alfaclick/icon.png?w=278&c=v0.59.26#w100) |[alfaclick](/payment-methods/alfaclick/)|`alfaclick`| 
+|![smsbilling](https://static.openfintech.io/payment_methods/smsbilling/icon.png?w=278&c=v0.59.26#w100) |[smsbilling](/payment-methods/smsbilling/)|`smsbilling`| 
  
 
 ## JSON Object 
@@ -57,11 +53,12 @@ The list of supported [Payout Methods](/payout-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    
+    "qiwi",
+    "yandexmoney",
+    "alfaclick",
+    "smsbilling"
   ],
-  "payout_method":[
-    
-  ],
+  "payout_method":null,
   "metadata":null,
   "name":{
     "en":"Accentpay"
