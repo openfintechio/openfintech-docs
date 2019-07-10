@@ -1,0 +1,64 @@
+
+# Genome 
+![genome](https://static.openfintech.io/payment_providers/genome/logo.svg?w=400&c=v0.59.26#w100)  
+
+## General 
+ 
+**Code:** `genome` 
+ 
+**Vendor:** `genome` [show -->](/vendors/genome/) 
+ 
+**Name:** 
+ 
+:	[EN] Genome 
+:	[RU] Genome 
+:	[UK] Genome 
+ 
+
+## Images 
+
+### Logo 
+ 
+![genome](https://static.openfintech.io/payment_providers/genome/logo.svg?w=400&c=v0.59.26#w100)  
+
+```
+https://static.openfintech.io/payment_providers/genome/logo.svg?w=400&c=v0.59.26#w100
+```  
+
+### Icon 
+ 
+![genome](https://static.openfintech.io/payment_providers/genome/icon.svg?w=278&c=v0.59.26#w100)  
+
+```
+https://static.openfintech.io/payment_providers/genome/icon.svg?w=278&c=v0.59.26#w100
+```  
+
+## Payment Methods 
+ 
+The list of supported [Payment Methods](/payment-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+ 
+
+## JSON Object 
+
+```json
+{
+  "code":"genome",
+  "description":null,
+  "vendor":"genome",
+  "categories":null,
+  "countries":null,
+  "payment_method":[
+    
+  ],
+  "payout_method":null,
+  "metadata":null,
+  "name":{
+    "en":"Genome",
+    "ru":"Genome",
+    "uk":"Genome"
+  }
+}
+```  

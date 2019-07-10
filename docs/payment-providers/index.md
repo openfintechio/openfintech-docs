@@ -232,6 +232,7 @@
 |![g2apay](https://static.openfintech.io/payment_providers/g2apay/logo.png?w=600&c=v0.59.26#w100) |[**G2A PAY**](g2apay/)|`g2apay`| 
 |![gate2payments](https://static.openfintech.io/payment_providers/gate2payments/logo.png?w=600&c=v0.59.26#w100) |[**Gate2Payments **](gate2payments/)|`gate2payments`| 
 |![gate2play](https://static.openfintech.io/payment_providers/gate2play/logo.png?w=600&c=v0.59.26#w100) |[**Gate2Play**](gate2play/)|`gate2play`| 
+|![genome](https://static.openfintech.io/payment_providers/genome/logo.svg?w=600&c=v0.59.26#w100) |[**Genome**](genome/)|`genome`| 
 |![geopaynet](https://static.openfintech.io/payment_providers/geopaynet/logo.svg?w=600&c=v0.59.26#w100) |[**GEO Pay**](geopaynet/)|`geopaynet`| 
 |![gestpay](https://static.openfintech.io/payment_providers/gestpay/logo.png?w=600&c=v0.59.26#w100) |[**GestPay**](gestpay/)|`gestpay`| 
 |![ghlsystemsberhad](https://static.openfintech.io/payment_providers/ghlsystemsberhad/logo.png?w=600&c=v0.59.26#w100) |[**GHL Systems Berhad**](ghlsystemsberhad/)|`ghlsystemsberhad`| 

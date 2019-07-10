@@ -606,6 +606,7 @@
 |![gcashwallet](https://static.openfintech.io/vendors/gcashwallet/logo.png?w=600&c=v0.59.26#w200) |[**GCASH**](gcashwallet/)|`gcashwallet`| 
 |![geeexchange](https://static.openfintech.io/vendors/geeexchange/logo.svg?w=600&c=v0.59.26#w200) |[**geeexchange.com**](geeexchange/)|`geeexchange`| 
 |![gemoney](https://static.openfintech.io/vendors/gemoney/logo.png?w=600&c=v0.59.26#w200) |[**GE Money**](gemoney/)|`gemoney`| 
+|![genome](https://static.openfintech.io/vendors/genome/logo.svg?w=600&c=v0.59.26#w200) |[**Genome**](genome/)|`genome`| 
 |![geopaynet](https://static.openfintech.io/vendors/geopaynet/logo.svg?w=600&c=v0.59.26#w200) |[**GEO Pay**](geopaynet/)|`geopaynet`| 
 |![gestpay](https://static.openfintech.io/vendors/gestpay/logo.png?w=600&c=v0.59.26#w200) |[**GestPay**](gestpay/)|`gestpay`| 
 |![ggu_nbu](https://static.openfintech.io/vendors/ggu_nbu/logo.svg?w=600&c=v0.59.26#w200) |[**Головне господарське управління Національного банку України**](ggu_nbu/)|`ggu_nbu`| 
