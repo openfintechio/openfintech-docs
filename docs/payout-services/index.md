@@ -614,10 +614,12 @@
 |![Payeer](https://static.openfintech.io/payout_methods/payeer/logo.svg?w=400&c=v0.59.26#w24) |[**Payeer**](/payout-methods/payeer/)|[`payeer_ltc`](payeer_ltc/)|`LTC`| 
 |![Payeer](https://static.openfintech.io/payout_methods/payeer/logo.svg?w=400&c=v0.59.26#w24) |[**Payeer**](/payout-methods/payeer/)|[`payeer_rub`](payeer_rub/)|`RUB`| 
 |![Payeer](https://static.openfintech.io/payout_methods/payeer/logo.svg?w=400&c=v0.59.26#w24) |[**Payeer**](/payout-methods/payeer/)|[`payeer_usd`](payeer_usd/)|`USD`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_eur`](payment_card_eur/)|`EUR`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_holder_rub`](payment_card_holder_rub/)|`RUB`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_kzt`](payment_card_kzt/)|`KZT`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_rub`](payment_card_rub/)|`RUB`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_uah`](payment_card_uah/)|`UAH`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_usd`](payment_card_usd/)|`USD`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_email_aud`](paypal_email_aud/)|`AUD`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_email_cad`](paypal_email_cad/)|`CAD`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_email_eur`](paypal_email_eur/)|`EUR`| 
@@ -648,6 +650,10 @@
 |![Perfect Money](https://static.openfintech.io/payout_methods/perfectmoney_transfer/logo.png?w=400&c=v0.59.26#w24) |[**Perfect Money**](/payout-methods/perfectmoney_transfer/)|[`perfectmoney_transfer_eur`](perfectmoney_transfer_eur/)|`EUR`| 
 |![Perfect Money](https://static.openfintech.io/payout_methods/perfectmoney_transfer/logo.png?w=400&c=v0.59.26#w24) |[**Perfect Money**](/payout-methods/perfectmoney_transfer/)|[`perfectmoney_transfer_usd`](perfectmoney_transfer_usd/)|`USD`| 
 |![Permata Bank](https://static.openfintech.io/payout_methods/permata_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Permata Bank**](/payout-methods/permata_bank/)|[`permata_bank_idr`](permata_bank_idr/)|`IDR`| 
+|![Piastrix](https://static.openfintech.io/payout_methods/piastrix/logo.svg?w=400&c=v0.59.26#w24) |[**Piastrix**](/payout-methods/piastrix/)|[`piastrix-usd`](piastrix-usd/)|`USD`| 
+|![Piastrix](https://static.openfintech.io/payout_methods/piastrix/logo.svg?w=400&c=v0.59.26#w24) |[**Piastrix**](/payout-methods/piastrix/)|[`piastrix_eur`](piastrix_eur/)|`EUR`| 
+|![Piastrix](https://static.openfintech.io/payout_methods/piastrix/logo.svg?w=400&c=v0.59.26#w24) |[**Piastrix**](/payout-methods/piastrix/)|[`piastrix_rub`](piastrix_rub/)|`RUB`| 
+|![Piastrix](https://static.openfintech.io/payout_methods/piastrix/logo.svg?w=400&c=v0.59.26#w24) |[**Piastrix**](/payout-methods/piastrix/)|[`piastrix_uah`](piastrix_uah/)|`UAH`| 
 |![Ping An Bank](https://static.openfintech.io/payout_methods/ping_an_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Ping An Bank**](/payout-methods/ping_an_bank/)|[`ping_an_bank_cny`](ping_an_bank_cny/)|`CNY`| 
 |![Pets](https://static.openfintech.io/payout_methods/pitomtsy/logo.png?w=400&c=v0.59.26#w24) |[**Pets**](/payout-methods/pitomtsy/)|[`pitomtsy_uah`](pitomtsy_uah/)|`UAH`| 
 |![PivnichLine (Rivne region)](https://static.openfintech.io/payout_methods/pivnichline-rovnenskaia-obl/logo.png?w=400&c=v0.59.26#w24) |[**PivnichLine (Rivne region)**](/payout-methods/pivnichline-rovnenskaia-obl/)|[`pivnichline-rovnenskaia-obl_uah`](pivnichline-rovnenskaia-obl_uah/)|`UAH`| 
@@ -679,8 +685,10 @@
 |![Prosto](https://static.openfintech.io/payout_methods/prosto/logo.png?w=400&c=v0.59.26#w24) |[**Prosto**](/payout-methods/prosto/)|[`prosto_uah`](prosto_uah/)|`UAH`| 
 |![PSTS](https://static.openfintech.io/payout_methods/psts/logo.png?w=400&c=v0.59.26#w24) |[**PSTS**](/payout-methods/psts/)|[`psts_uah`](psts_uah/)|`UAH`| 
 ||| **Q** ||
+|![Qiwi](https://static.openfintech.io/payout_methods/qiwi/logo.svg?w=400&c=v0.59.26#w24) |[**Qiwi**](/payout-methods/qiwi/)|[`qiwi_eur`](qiwi_eur/)|`EUR`| 
 |![Qiwi](https://static.openfintech.io/payout_methods/qiwi/logo.svg?w=400&c=v0.59.26#w24) |[**Qiwi**](/payout-methods/qiwi/)|[`qiwi_rub`](qiwi_rub/)|`RUB`| 
 |![Qiwi](https://static.openfintech.io/payout_methods/qiwi/logo.svg?w=400&c=v0.59.26#w24) |[**Qiwi**](/payout-methods/qiwi/)|[`qiwi_uah`](qiwi_uah/)|`UAH`| 
+|![Qiwi](https://static.openfintech.io/payout_methods/qiwi/logo.svg?w=400&c=v0.59.26#w24) |[**Qiwi**](/payout-methods/qiwi/)|[`qiwi_usd`](qiwi_usd/)|`USD`| 
 |![QLan (Kiev)](https://static.openfintech.io/payout_methods/qlan-kiev/logo.png?w=400&c=v0.59.26#w24) |[**QLan (Kiev)**](/payout-methods/qlan-kiev/)|[`qlan-kiev_uah`](qlan-kiev_uah/)|`UAH`| 
 ||| **R** ||
 |![R2 Online](https://static.openfintech.io/payout_methods/r2-online/logo.png?w=400&c=v0.59.26#w24) |[**R2 Online**](/payout-methods/r2-online/)|[`r2-online_uah`](r2-online_uah/)|`UAH`| 

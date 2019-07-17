@@ -1056,6 +1056,7 @@
 |![pervomaiskii-res](https://static.openfintech.io/payout_methods/pervomaiskii-res/logo.png?w=400&c=v0.59.26#w24) |[**Pervomaysky RES**](pervomaiskii-res/)|`pervomaiskii-res`| 
 |![petrikovska-dilnitsia-tsok-tsarichanskogo-r-nu](https://static.openfintech.io/payout_methods/petrikovska-dilnitsia-tsok-tsarichanskogo-r-nu/logo.png?w=400&c=v0.59.26#w24) |[**Petrikovska plot (CSC Tsarichansky district)**](petrikovska-dilnitsia-tsok-tsarichanskogo-r-nu/)|`petrikovska-dilnitsia-tsok-tsarichanskogo-r-nu`| 
 |![petropavlivskii-rem-tsok-petropavlivskogo-r-nu](https://static.openfintech.io/payout_methods/petropavlivskii-rem-tsok-petropavlivskogo-r-nu/logo.png?w=400&c=v0.59.26#w24) |[**Petropavlovsk RES (CSC of Petropavlovsk District)**](petropavlivskii-rem-tsok-petropavlivskogo-r-nu/)|`petropavlivskii-rem-tsok-petropavlivskogo-r-nu`| 
+|![piastrix](https://static.openfintech.io/payout_methods/piastrix/logo.svg?w=400&c=v0.59.26#w24) |[**Piastrix**](piastrix/)|`piastrix`| 
 |![ping_an_bank](https://static.openfintech.io/payout_methods/ping_an_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Ping An Bank**](ping_an_bank/)|`ping_an_bank`| 
 |![pishchanka-pat-vinnitsiaoblenergo](https://static.openfintech.io/payout_methods/pishchanka-pat-vinnitsiaoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Peschanka PJSC 'Vinnitsaoblenergo'**](pishchanka-pat-vinnitsiaoblenergo/)|`pishchanka-pat-vinnitsiaoblenergo`| 
 |![pitomtsy](https://static.openfintech.io/payout_methods/pitomtsy/logo.png?w=400&c=v0.59.26#w24) |[**Pets**](pitomtsy/)|`pitomtsy`| 
