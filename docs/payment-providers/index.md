@@ -553,6 +553,7 @@
 |![text2pay](https://static.openfintech.io/payment_providers/text2pay/logo.png?w=600&c=v0.59.26#w100) |[**Text2Pay**](text2pay/)|`text2pay`| 
 |![theecheckcom](https://static.openfintech.io/payment_providers/theecheckcom/logo.png?w=600&c=v0.59.26#w100) |[**TheECheck.com**](theecheckcom/)|`theecheckcom`| 
 |![thelogicgroup](https://static.openfintech.io/payment_providers/thelogicgroup/logo.png?w=600&c=v0.59.26#w100) |[**The Logic Group**](thelogicgroup/)|`thelogicgroup`| 
+|![tkbpay](https://static.openfintech.io/payment_providers/tkbpay/logo.svg?w=600&c=v0.59.26#w100) |[**TKB Pay**](tkbpay/)|`tkbpay`| 
 |![tnspay](https://static.openfintech.io/payment_providers/tnspay/logo.png?w=600&c=v0.59.26#w100) |[**TNSPay**](tnspay/)|`tnspay`| 
 |![totalwebsolutions](https://static.openfintech.io/payment_providers/totalwebsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Total Web Solutions**](totalwebsolutions/)|`totalwebsolutions`| 
 |![tpaycom](https://static.openfintech.io/payment_providers/tpaycom/logo.png?w=600&c=v0.59.26#w100) |[**tpay.com**](tpaycom/)|`tpaycom`| 

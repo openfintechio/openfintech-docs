@@ -57,10 +57,13 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![easybits](https://static.openfintech.io/payment_providers/easybits/icon.svg?w=278&c=v0.59.26#w100) |[EasyBits.io](/payment-providers/easybits/)|`easybits`| 
 |![paylink](https://static.openfintech.io/payment_providers/paylink/icon.png?w=278&c=v0.59.26#w100) |[PayLink](/payment-providers/paylink/)|`paylink`| 
 |![cardgate](https://static.openfintech.io/payment_providers/cardgate/icon.svg?w=278&c=v0.59.26#w100) |[CardGate](/payment-providers/cardgate/)|`cardgate`| 
+|![odysseq](https://static.openfintech.io/payment_providers/odysseq/icon.svg?w=278&c=v0.59.26#w100) |[Odysseq](/payment-providers/odysseq/)|`odysseq`| 
 |![alfabank](https://static.openfintech.io/payment_providers/alfabank/icon.svg?w=278&c=v0.59.26#w100) |[Alfa-Bank](/payment-providers/alfabank/)|`alfabank`| 
 |![concord](https://static.openfintech.io/payment_providers/concord/icon.svg?w=278&c=v0.59.26#w100) |[Concord Bank](/payment-providers/concord/)|`concord`| 
 |![procard](https://static.openfintech.io/payment_providers/procard/icon.png?w=278&c=v0.59.26#w100) |[Procard](/payment-providers/procard/)|`procard`| 
 |![forwardbank](https://static.openfintech.io/payment_providers/forwardbank/icon.svg?w=278&c=v0.59.26#w100) |[Forward Bank](/payment-providers/forwardbank/)|`forwardbank`| 
+|![genome](https://static.openfintech.io/payment_providers/genome/icon.svg?w=278&c=v0.59.26#w100) |[Genome](/payment-providers/genome/)|`genome`| 
+|![tkbpay](https://static.openfintech.io/payment_providers/tkbpay/icon.svg?w=278&c=v0.59.26#w100) |[TKB Pay](/payment-providers/tkbpay/)|`tkbpay`| 
  
 
 ## JSON Object 
