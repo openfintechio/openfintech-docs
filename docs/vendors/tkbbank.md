@@ -9,7 +9,7 @@
 **Name:** 
  
 :	[EN] TKB Bank 
-:	[RU] TKB банк 
+:	[RU] TKБ Банк 
 :	[UK] ТКБ Банк 
  
 **Status:** `active` 
@@ -43,7 +43,7 @@ https://static.openfintech.io/vendors/tkbbank/icon.svg?w=278&c=v0.59.26#w100
   "code":"tkbbank",
   "name":{
     "en":"TKB Bank",
-    "ru":"TKB \u0431\u0430\u043d\u043a",
+    "ru":"TK\u0411 \u0411\u0430\u043d\u043a",
     "uk":"\u0422\u041a\u0411 \u0411\u0430\u043d\u043a"
   },
   "status":"active",
