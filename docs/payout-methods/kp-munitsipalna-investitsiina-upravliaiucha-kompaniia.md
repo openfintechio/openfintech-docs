@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/kp-munitsipalna-investitsiina-upra
 https://static.openfintech.io/payment_methods/kp-munitsipalna-investitsiina-upravliaiucha-kompaniia/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _KP 'Municipal Investment Management Company'_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![kp-munitsipalna-investitsiina-upravliaiucha-kompaniia](https://static.openfintech.io/payout_methods/kp-munitsipalna-investitsiina-upravliaiucha-kompaniia/icon.png?w=278&c=v0.59.26#w40) |[kp-munitsipalna-investitsiina-upravliaiucha-kompaniia_uah](/payout-services/kp-munitsipalna-investitsiina-upravliaiucha-kompaniia_uah/)|`kp-munitsipalna-investitsiina-upravliaiucha-kompaniia_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

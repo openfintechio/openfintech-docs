@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/tov-odesagaz-postachannia/logo.svg
 https://static.openfintech.io/payment_methods/tov-odesagaz-postachannia/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _OdesaGaz Supply Ltd_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![tov-odesagaz-postachannia](https://static.openfintech.io/payout_methods/tov-odesagaz-postachannia/icon.png?w=278&c=v0.59.26#w40) |[tov-odesagaz-postachannia_uah](/payout-services/tov-odesagaz-postachannia_uah/)|`tov-odesagaz-postachannia_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

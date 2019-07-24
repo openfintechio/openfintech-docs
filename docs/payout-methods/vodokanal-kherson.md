@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/vodokanal-kherson/logo.svg?w=400&c
 https://static.openfintech.io/payment_methods/vodokanal-kherson/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _Vodokanal Kherson_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![vodokanal-kherson](https://static.openfintech.io/payout_methods/vodokanal-kherson/icon.png?w=278&c=v0.59.26#w40) |[vodokanal-kherson_uah](/payout-services/vodokanal-kherson_uah/)|`vodokanal-kherson_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/pp-region-tsentr/logo.svg?w=400&c=
 https://static.openfintech.io/payment_methods/pp-region-tsentr/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _PE Region CENTER_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![pp-region-tsentr](https://static.openfintech.io/payout_methods/pp-region-tsentr/icon.png?w=278&c=v0.59.26#w40) |[pp-region-tsentr_uah](/payout-services/pp-region-tsentr_uah/)|`pp-region-tsentr_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

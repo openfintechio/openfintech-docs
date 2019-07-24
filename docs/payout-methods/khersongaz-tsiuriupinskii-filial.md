@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/khersongaz-tsiuriupinskii-filial/l
 https://static.openfintech.io/payment_methods/khersongaz-tsiuriupinskii-filial/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _Khersongaz - Zyuryupinsk branch_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![khersongaz-tsiuriupinskii-filial](https://static.openfintech.io/payout_methods/khersongaz-tsiuriupinskii-filial/icon.png?w=278&c=v0.59.26#w40) |[khersongaz-tsiuriupinskii-filial_uah](/payout-services/khersongaz-tsiuriupinskii-filial_uah/)|`khersongaz-tsiuriupinskii-filial_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

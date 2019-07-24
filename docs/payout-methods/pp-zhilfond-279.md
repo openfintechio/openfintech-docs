@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/pp-zhilfond-279/logo.svg?w=400&c=v
 https://static.openfintech.io/payment_methods/pp-zhilfond-279/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _PE Zhilfond-279_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![pp-zhilfond-279](https://static.openfintech.io/payout_methods/pp-zhilfond-279/icon.png?w=278&c=v0.59.26#w40) |[pp-zhilfond-279_uah](/payout-services/pp-zhilfond-279_uah/)|`pp-zhilfond-279_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

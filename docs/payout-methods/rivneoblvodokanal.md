@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/rivneoblvodokanal/logo.svg?w=400&c
 https://static.openfintech.io/payment_methods/rivneoblvodokanal/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _Rivneoblvodokanal_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![rivneoblvodokanal](https://static.openfintech.io/payout_methods/rivneoblvodokanal/icon.png?w=278&c=v0.59.26#w40) |[rivneoblvodokanal_uah](/payout-services/rivneoblvodokanal_uah/)|`rivneoblvodokanal_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

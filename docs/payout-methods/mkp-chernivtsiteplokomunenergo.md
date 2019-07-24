@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/mkp-chernivtsiteplokomunenergo/log
 https://static.openfintech.io/payment_methods/mkp-chernivtsiteplokomunenergo/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _MCP Chernovtsyteplokommunenergo_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![mkp-chernivtsiteplokomunenergo](https://static.openfintech.io/payout_methods/mkp-chernivtsiteplokomunenergo/icon.png?w=278&c=v0.59.26#w40) |[mkp-chernivtsiteplokomunenergo_uah](/payout-services/mkp-chernivtsiteplokomunenergo_uah/)|`mkp-chernivtsiteplokomunenergo_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/vodokanal-g-iagotin/logo.svg?w=400
 https://static.openfintech.io/payment_methods/vodokanal-g-iagotin/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _Vodokanal (Yagotin)_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![vodokanal-g-iagotin](https://static.openfintech.io/payout_methods/vodokanal-g-iagotin/icon.png?w=278&c=v0.59.26#w40) |[vodokanal-g-iagotin_uah](/payout-services/vodokanal-g-iagotin_uah/)|`vodokanal-g-iagotin_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/tov-cherkasigaz-zbut-cherkasi-ta-c
 https://static.openfintech.io/payment_methods/tov-cherkasigaz-zbut-cherkasi-ta-cherkaskii-raion/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _LLC 'Cherkasygaz Sbyt' - Cherkasy and Cherkasy region_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![tov-cherkasigaz-zbut-cherkasi-ta-cherkaskii-raion](https://static.openfintech.io/payout_methods/tov-cherkasigaz-zbut-cherkasi-ta-cherkaskii-raion/icon.png?w=278&c=v0.59.26#w40) |[tov-cherkasigaz-zbut-cherkasi-ta-cherkaskii-raion_uah](/payout-services/tov-cherkasigaz-zbut-cherkasi-ta-cherkaskii-raion_uah/)|`tov-cherkasigaz-zbut-cherkasi-ta-cherkaskii-raion_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

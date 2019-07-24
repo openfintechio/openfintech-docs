@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/uk-primorskii-g-mariupol/logo.svg?
 https://static.openfintech.io/payment_methods/uk-primorskii-g-mariupol/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _UK Primorsky g.Mariupol_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![uk-primorskii-g-mariupol](https://static.openfintech.io/payout_methods/uk-primorskii-g-mariupol/icon.png?w=278&c=v0.59.26#w40) |[uk-primorskii-g-mariupol_uah](/payout-services/uk-primorskii-g-mariupol_uah/)|`uk-primorskii-g-mariupol_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

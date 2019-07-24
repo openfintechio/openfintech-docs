@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/katp-052810-g-kramatorsk/logo.svg?
 https://static.openfintech.io/payment_methods/katp-052810-g-kramatorsk/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _KATP 052810 Kramatorsk_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![katp-052810-g-kramatorsk](https://static.openfintech.io/payout_methods/katp-052810-g-kramatorsk/icon.png?w=278&c=v0.59.26#w40) |[katp-052810-g-kramatorsk_uah](/payout-services/katp-052810-g-kramatorsk_uah/)|`katp-052810-g-kramatorsk_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

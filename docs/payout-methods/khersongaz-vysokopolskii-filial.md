@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/khersongaz-vysokopolskii-filial/lo
 https://static.openfintech.io/payment_methods/khersongaz-vysokopolskii-filial/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _Khersongaz - Vysokopolsky branch_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![khersongaz-vysokopolskii-filial](https://static.openfintech.io/payout_methods/khersongaz-vysokopolskii-filial/icon.png?w=278&c=v0.59.26#w40) |[khersongaz-vysokopolskii-filial_uah](/payout-services/khersongaz-vysokopolskii-filial_uah/)|`khersongaz-vysokopolskii-filial_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

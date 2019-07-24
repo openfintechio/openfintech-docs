@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/khersongaz-v-aleksandrovskii-filia
 https://static.openfintech.io/payment_methods/khersongaz-v-aleksandrovskii-filial/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _Khersongaz - V.Aleksandrovsky branch_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![khersongaz-v-aleksandrovskii-filial](https://static.openfintech.io/payout_methods/khersongaz-v-aleksandrovskii-filial/icon.png?w=278&c=v0.59.26#w40) |[khersongaz-v-aleksandrovskii-filial_uah](/payout-services/khersongaz-v-aleksandrovskii-filial_uah/)|`khersongaz-v-aleksandrovskii-filial_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

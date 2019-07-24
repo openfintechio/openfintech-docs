@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/krasnoarmeiskoe-ugg-donetskoblgaz/
 https://static.openfintech.io/payment_methods/krasnoarmeiskoe-ugg-donetskoblgaz/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _Red Army UGG Donetskoblgaz_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![krasnoarmeiskoe-ugg-donetskoblgaz](https://static.openfintech.io/payout_methods/krasnoarmeiskoe-ugg-donetskoblgaz/icon.png?w=278&c=v0.59.26#w40) |[krasnoarmeiskoe-ugg-donetskoblgaz_uah](/payout-services/krasnoarmeiskoe-ugg-donetskoblgaz_uah/)|`krasnoarmeiskoe-ugg-donetskoblgaz_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/pat-pumb-popovnennia-kartkovogo-po
 https://static.openfintech.io/payment_methods/pat-pumb-popovnennia-kartkovogo-potochnogorakhunku/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _PJSC FUIB (Refill Card / Flow Trader)_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![pat-pumb-popovnennia-kartkovogo-potochnogorakhunku](https://static.openfintech.io/payout_methods/pat-pumb-popovnennia-kartkovogo-potochnogorakhunku/icon.png?w=278&c=v0.59.26#w40) |[pat-pumb-popovnennia-kartkovogo-potochnogorakhunku_uah](/payout-services/pat-pumb-popovnennia-kartkovogo-potochnogorakhunku_uah/)|`pat-pumb-popovnennia-kartkovogo-potochnogorakhunku_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

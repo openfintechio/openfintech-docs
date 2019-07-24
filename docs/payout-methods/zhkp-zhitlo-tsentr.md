@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/zhkp-zhitlo-tsentr/logo.svg?w=400&
 https://static.openfintech.io/payment_methods/zhkp-zhitlo-tsentr/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _ZhKP 'Housing-center'_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![zhkp-zhitlo-tsentr](https://static.openfintech.io/payout_methods/zhkp-zhitlo-tsentr/icon.png?w=278&c=v0.59.26#w40) |[zhkp-zhitlo-tsentr_uah](/payout-services/zhkp-zhitlo-tsentr_uah/)|`zhkp-zhitlo-tsentr_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

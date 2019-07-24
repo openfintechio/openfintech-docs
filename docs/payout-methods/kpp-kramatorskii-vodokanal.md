@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/kpp-kramatorskii-vodokanal/logo.sv
 https://static.openfintech.io/payment_methods/kpp-kramatorskii-vodokanal/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _CAT Kramatorsk water utility_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![kpp-kramatorskii-vodokanal](https://static.openfintech.io/payout_methods/kpp-kramatorskii-vodokanal/icon.png?w=278&c=v0.59.26#w40) |[kpp-kramatorskii-vodokanal_uah](/payout-services/kpp-kramatorskii-vodokanal_uah/)|`kpp-kramatorskii-vodokanal_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

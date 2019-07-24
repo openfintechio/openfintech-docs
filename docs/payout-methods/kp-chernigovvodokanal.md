@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/kp-chernigovvodokanal/logo.svg?w=4
 https://static.openfintech.io/payment_methods/kp-chernigovvodokanal/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _KP Chernigovvodokal_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![kp-chernigovvodokanal](https://static.openfintech.io/payout_methods/kp-chernigovvodokanal/icon.png?w=278&c=v0.59.26#w40) |[kp-chernigovvodokanal_uah](/payout-services/kp-chernigovvodokanal_uah/)|`kp-chernigovvodokanal_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/khersongaz-berislavskii-filial/log
 https://static.openfintech.io/payment_methods/khersongaz-berislavskii-filial/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _Khersongaz - Berislavsky branch_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![khersongaz-berislavskii-filial](https://static.openfintech.io/payout_methods/khersongaz-berislavskii-filial/icon.png?w=278&c=v0.59.26#w40) |[khersongaz-berislavskii-filial_uah](/payout-services/khersongaz-berislavskii-filial_uah/)|`khersongaz-berislavskii-filial_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

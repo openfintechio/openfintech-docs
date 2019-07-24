@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/pat-kiyivvodokanal-privatnii-sekto
 https://static.openfintech.io/payment_methods/pat-kiyivvodokanal-privatnii-sektor/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _PAT 'Kyivskavodokanal' (Private sector)_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![pat-kiyivvodokanal-privatnii-sektor](https://static.openfintech.io/payout_methods/pat-kiyivvodokanal-privatnii-sektor/icon.png?w=278&c=v0.59.26#w40) |[pat-kiyivvodokanal-privatnii-sektor_uah](/payout-services/pat-kiyivvodokanal-privatnii-sektor_uah/)|`pat-kiyivvodokanal-privatnii-sektor_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

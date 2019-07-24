@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/pat-donetskoblgaz-kostiantinivske-
 https://static.openfintech.io/payment_methods/pat-donetskoblgaz-kostiantinivske-ugg-toretske-viddilennia/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _PJSC 'Donetskoblgaz' Konstantinovskoye UGG (Toretskoye branches)_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![pat-donetskoblgaz-kostiantinivske-ugg-toretske-viddilennia](https://static.openfintech.io/payout_methods/pat-donetskoblgaz-kostiantinivske-ugg-toretske-viddilennia/icon.svg?w=278&c=v0.59.26#w40) |[pat-donetskoblgaz-kostiantinivske-ugg-toretske-viddilennia_uah](/payout-services/pat-donetskoblgaz-kostiantinivske-ugg-toretske-viddilennia_uah/)|`pat-donetskoblgaz-kostiantinivske-ugg-toretske-viddilennia_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/pat-donetskoblgaz-artemivske-ugg/l
 https://static.openfintech.io/payment_methods/pat-donetskoblgaz-artemivske-ugg/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _PJSC 'Donetskoblgaz' Artyomovsk UGG_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![pat-donetskoblgaz-artemivske-ugg](https://static.openfintech.io/payout_methods/pat-donetskoblgaz-artemivske-ugg/icon.png?w=278&c=v0.59.26#w40) |[pat-donetskoblgaz-artemivske-ugg_uah](/payout-services/pat-donetskoblgaz-artemivske-ugg_uah/)|`pat-donetskoblgaz-artemivske-ugg_uah`| 
+ 
+
 ## JSON Object 
 
 ```json
