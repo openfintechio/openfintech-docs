@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/vo-chasiv-iar-teplomerezha/logo.sv
 https://static.openfintech.io/payment_methods/vo-chasiv-iar-teplomerezha/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _VO 'Hours Yar heating system'_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![vo-chasiv-iar-teplomerezha](https://static.openfintech.io/payout_methods/vo-chasiv-iar-teplomerezha/icon.svg?w=278&c=v0.59.26#w40) |[vo-chasiv-iar-teplomerezha_uah](/payout-services/vo-chasiv-iar-teplomerezha_uah/)|`vo-chasiv-iar-teplomerezha_uah`| 
- 
-
 ## JSON Object 
 
 ```json

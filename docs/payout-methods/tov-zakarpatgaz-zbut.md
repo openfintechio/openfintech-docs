@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/tov-zakarpatgaz-zbut/logo.svg?w=40
 https://static.openfintech.io/payment_methods/tov-zakarpatgaz-zbut/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _LLC' ZAKARPATGAZ SbyT '_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![tov-zakarpatgaz-zbut](https://static.openfintech.io/payout_methods/tov-zakarpatgaz-zbut/icon.png?w=278&c=v0.59.26#w40) |[tov-zakarpatgaz-zbut_uah](/payout-services/tov-zakarpatgaz-zbut_uah/)|`tov-zakarpatgaz-zbut_uah`| 
- 
-
 ## JSON Object 
 
 ```json

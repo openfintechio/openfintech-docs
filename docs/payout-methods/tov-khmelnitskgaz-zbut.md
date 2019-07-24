@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/tov-khmelnitskgaz-zbut/logo.svg?w=
 https://static.openfintech.io/payment_methods/tov-khmelnitskgaz-zbut/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _LLC' HMELNITSKGAZ Sbyt '_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![tov-khmelnitskgaz-zbut](https://static.openfintech.io/payout_methods/tov-khmelnitskgaz-zbut/icon.png?w=278&c=v0.59.26#w40) |[tov-khmelnitskgaz-zbut_uah](/payout-services/tov-khmelnitskgaz-zbut_uah/)|`tov-khmelnitskgaz-zbut_uah`| 
- 
-
 ## JSON Object 
 
 ```json

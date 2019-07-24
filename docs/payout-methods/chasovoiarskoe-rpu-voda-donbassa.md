@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/chasovoiarskoe-rpu-voda-donbassa/l
 https://static.openfintech.io/payment_methods/chasovoiarskoe-rpu-voda-donbassa/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _Chasov Yarisky RPU (water of Donbass)_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![chasovoiarskoe-rpu-voda-donbassa](https://static.openfintech.io/payout_methods/chasovoiarskoe-rpu-voda-donbassa/icon.png?w=278&c=v0.59.26#w40) |[chasovoiarskoe-rpu-voda-donbassa_uah](/payout-services/chasovoiarskoe-rpu-voda-donbassa_uah/)|`chasovoiarskoe-rpu-voda-donbassa_uah`| 
- 
-
 ## JSON Object 
 
 ```json

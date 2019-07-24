@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/kp-bgs-ko-brovariteplovodoenergiia
 https://static.openfintech.io/payment_methods/kp-bgs-ko-brovariteplovodoenergiia-opalennia-ta-gvp/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _KP BGS KO Brovaristeplovodoenergiya (heating and hot water supply)_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![kp-bgs-ko-brovariteplovodoenergiia-opalennia-ta-gvp](https://static.openfintech.io/payout_methods/kp-bgs-ko-brovariteplovodoenergiia-opalennia-ta-gvp/icon.png?w=278&c=v0.59.26#w40) |[kp-bgs-ko-brovariteplovodoenergiia-opalennia-ta-gvp_uah](/payout-services/kp-bgs-ko-brovariteplovodoenergiia-opalennia-ta-gvp_uah/)|`kp-bgs-ko-brovariteplovodoenergiia-opalennia-ta-gvp_uah`| 
- 
-
 ## JSON Object 
 
 ```json

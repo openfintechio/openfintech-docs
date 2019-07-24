@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/sez-zhkg-g-kramatorska/logo.svg?w=
 https://static.openfintech.io/payment_methods/sez-zhkg-g-kramatorska/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _SEZ Housing and Communal Services Kramatorsk_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![sez-zhkg-g-kramatorska](https://static.openfintech.io/payout_methods/sez-zhkg-g-kramatorska/icon.png?w=278&c=v0.59.26#w40) |[sez-zhkg-g-kramatorska_uah](/payout-services/sez-zhkg-g-kramatorska_uah/)|`sez-zhkg-g-kramatorska_uah`| 
- 
-
 ## JSON Object 
 
 ```json

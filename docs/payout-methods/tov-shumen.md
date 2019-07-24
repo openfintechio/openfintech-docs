@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/tov-shumen/logo.svg?w=400&c=v0.59.
 https://static.openfintech.io/payment_methods/tov-shumen/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _LLC Shumen_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![tov-shumen](https://static.openfintech.io/payout_methods/tov-shumen/icon.png?w=278&c=v0.59.26#w40) |[tov-shumen_uah](/payout-services/tov-shumen_uah/)|`tov-shumen_uah`| 
- 
-
 ## JSON Object 
 
 ```json

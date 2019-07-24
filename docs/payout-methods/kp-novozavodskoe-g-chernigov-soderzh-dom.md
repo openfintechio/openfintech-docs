@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/kp-novozavodskoe-g-chernigov-soder
 https://static.openfintech.io/payment_methods/kp-novozavodskoe-g-chernigov-soderzh-dom/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _KP Novozavodskoy Chernigov (content. House_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![kp-novozavodskoe-g-chernigov-soderzh-dom](https://static.openfintech.io/payout_methods/kp-novozavodskoe-g-chernigov-soderzh-dom/icon.png?w=278&c=v0.59.26#w40) |[kp-novozavodskoe-g-chernigov-soderzh-dom_uah](/payout-services/kp-novozavodskoe-g-chernigov-soderzh-dom_uah/)|`kp-novozavodskoe-g-chernigov-soderzh-dom_uah`| 
- 
-
 ## JSON Object 
 
 ```json

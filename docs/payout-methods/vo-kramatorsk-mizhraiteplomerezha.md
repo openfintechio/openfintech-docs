@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/vo-kramatorsk-mizhraiteplomerezha/
 https://static.openfintech.io/payment_methods/vo-kramatorsk-mizhraiteplomerezha/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _IN 'Kramatorsk Mizhrayteplomerezha'_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![vo-kramatorsk-mizhraiteplomerezha](https://static.openfintech.io/payout_methods/vo-kramatorsk-mizhraiteplomerezha/icon.png?w=278&c=v0.59.26#w40) |[vo-kramatorsk-mizhraiteplomerezha_uah](/payout-services/vo-kramatorsk-mizhraiteplomerezha_uah/)|`vo-kramatorsk-mizhraiteplomerezha_uah`| 
- 
-
 ## JSON Object 
 
 ```json

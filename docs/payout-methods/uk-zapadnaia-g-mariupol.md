@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/uk-zapadnaia-g-mariupol/logo.svg?w
 https://static.openfintech.io/payment_methods/uk-zapadnaia-g-mariupol/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _West UK city of Mariupol_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![uk-zapadnaia-g-mariupol](https://static.openfintech.io/payout_methods/uk-zapadnaia-g-mariupol/icon.png?w=278&c=v0.59.26#w40) |[uk-zapadnaia-g-mariupol_uah](/payout-services/uk-zapadnaia-g-mariupol_uah/)|`uk-zapadnaia-g-mariupol_uah`| 
- 
-
 ## JSON Object 
 
 ```json

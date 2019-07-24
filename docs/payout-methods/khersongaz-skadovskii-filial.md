@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/khersongaz-skadovskii-filial/logo.
 https://static.openfintech.io/payment_methods/khersongaz-skadovskii-filial/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _Khersongaz - Skadov branch_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![khersongaz-skadovskii-filial](https://static.openfintech.io/payout_methods/khersongaz-skadovskii-filial/icon.png?w=278&c=v0.59.26#w40) |[khersongaz-skadovskii-filial_uah](/payout-services/khersongaz-skadovskii-filial_uah/)|`khersongaz-skadovskii-filial_uah`| 
- 
-
 ## JSON Object 
 
 ```json

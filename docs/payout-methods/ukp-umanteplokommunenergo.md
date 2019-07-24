@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/ukp-umanteplokommunenergo/logo.svg
 https://static.openfintech.io/payment_methods/ukp-umanteplokommunenergo/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _UKP ​​Umanteplokommunenergo_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![ukp-umanteplokommunenergo](https://static.openfintech.io/payout_methods/ukp-umanteplokommunenergo/icon.png?w=278&c=v0.59.26#w40) |[ukp-umanteplokommunenergo_uah](/payout-services/ukp-umanteplokommunenergo_uah/)|`ukp-umanteplokommunenergo_uah`| 
- 
-
 ## JSON Object 
 
 ```json

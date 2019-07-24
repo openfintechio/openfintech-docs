@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/tov-veltum-zaporizhzhia/logo.svg?w
 https://static.openfintech.io/payment_methods/tov-veltum-zaporizhzhia/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _LLC WELTUM-Zaporozhye_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![tov-veltum-zaporizhzhia](https://static.openfintech.io/payout_methods/tov-veltum-zaporizhzhia/icon.png?w=278&c=v0.59.26#w40) |[tov-veltum-zaporizhzhia_uah](/payout-services/tov-veltum-zaporizhzhia_uah/)|`tov-veltum-zaporizhzhia_uah`| 
- 
-
 ## JSON Object 
 
 ```json

@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/tov-zhitlo-servis-grup/logo.svg?w=
 https://static.openfintech.io/payment_methods/tov-zhitlo-servis-grup/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _Housing Service Group LLC_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![tov-zhitlo-servis-grup](https://static.openfintech.io/payout_methods/tov-zhitlo-servis-grup/icon.png?w=278&c=v0.59.26#w40) |[tov-zhitlo-servis-grup_uah](/payout-services/tov-zhitlo-servis-grup_uah/)|`tov-zhitlo-servis-grup_uah`| 
- 
-
 ## JSON Object 
 
 ```json

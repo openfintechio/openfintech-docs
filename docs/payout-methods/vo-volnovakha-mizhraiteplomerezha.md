@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/vo-volnovakha-mizhraiteplomerezha/
 https://static.openfintech.io/payment_methods/vo-volnovakha-mizhraiteplomerezha/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _IN 'Volnovakha mizhrayteplomerezha'_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![vo-volnovakha-mizhraiteplomerezha](https://static.openfintech.io/payout_methods/vo-volnovakha-mizhraiteplomerezha/icon.svg?w=278&c=v0.59.26#w40) |[vo-volnovakha-mizhraiteplomerezha_uah](/payout-services/vo-volnovakha-mizhraiteplomerezha_uah/)|`vo-volnovakha-mizhraiteplomerezha_uah`| 
- 
-
 ## JSON Object 
 
 ```json

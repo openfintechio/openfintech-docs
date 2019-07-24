@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/ooo-bakhmut-energiia/logo.svg?w=40
 https://static.openfintech.io/payment_methods/ooo-bakhmut-energiia/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _Bakhmut-Energy Ltd_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![ooo-bakhmut-energiia](https://static.openfintech.io/payout_methods/ooo-bakhmut-energiia/icon.png?w=278&c=v0.59.26#w40) |[ooo-bakhmut-energiia_uah](/payout-services/ooo-bakhmut-energiia_uah/)|`ooo-bakhmut-energiia_uah`| 
- 
-
 ## JSON Object 
 
 ```json

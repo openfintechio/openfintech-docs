@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/dp-kievgazenerdzhi/logo.svg?w=400&
 https://static.openfintech.io/payment_methods/dp-kievgazenerdzhi/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _Subsidiary 'KievGazEnerdzhi'_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![dp-kievgazenerdzhi](https://static.openfintech.io/payout_methods/dp-kievgazenerdzhi/icon.png?w=278&c=v0.59.26#w40) |[dp-kievgazenerdzhi_uah](/payout-services/dp-kievgazenerdzhi_uah/)|`dp-kievgazenerdzhi_uah`| 
- 
-
 ## JSON Object 
 
 ```json

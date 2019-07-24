@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/vo-selidoveteplomerezha/logo.svg?w
 https://static.openfintech.io/payment_methods/vo-selidoveteplomerezha/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _BO 'Selivovetoplorezhezh'_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![vo-selidoveteplomerezha](https://static.openfintech.io/payout_methods/vo-selidoveteplomerezha/icon.png?w=278&c=v0.59.26#w40) |[vo-selidoveteplomerezha_uah](/payout-services/vo-selidoveteplomerezha_uah/)|`vo-selidoveteplomerezha_uah`| 
- 
-
 ## JSON Object 
 
 ```json

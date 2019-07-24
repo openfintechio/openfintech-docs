@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/khersongaz-genicheskii-filial/logo
 https://static.openfintech.io/payment_methods/khersongaz-genicheskii-filial/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _Khersongaz - Genichesky branch_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![khersongaz-genicheskii-filial](https://static.openfintech.io/payout_methods/khersongaz-genicheskii-filial/icon.png?w=278&c=v0.59.26#w40) |[khersongaz-genicheskii-filial_uah](/payout-services/khersongaz-genicheskii-filial_uah/)|`khersongaz-genicheskii-filial_uah`| 
- 
-
 ## JSON Object 
 
 ```json

@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/pat-kiyivvodokanal-bagatokvartirni
 https://static.openfintech.io/payment_methods/pat-kiyivvodokanal-bagatokvartirni-budinki-kholodne-voda-vodovidvedennia/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _PJSC 'Kievvodokanal' (apartment buildings) - cold water, water disposal_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![pat-kiyivvodokanal-bagatokvartirni-budinki-kholodne-voda-vodovidvedennia](https://static.openfintech.io/payout_methods/pat-kiyivvodokanal-bagatokvartirni-budinki-kholodne-voda-vodovidvedennia/icon.png?w=278&c=v0.59.26#w40) |[pat-kiyivvodokanal-bagatokvartirni-budinki-kholodne-voda-vodovidvedennia_uah](/payout-services/pat-kiyivvodokanal-bagatokvartirni-budinki-kholodne-voda-vodovidvedennia_uah/)|`pat-kiyivvodokanal-bagatokvartirni-budinki-kholodne-voda-vodovidvedennia_uah`| 
- 
-
 ## JSON Object 
 
 ```json

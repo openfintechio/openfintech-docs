@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/zhilservis-1-mirts-g-artemovsk/log
 https://static.openfintech.io/payment_methods/zhilservis-1-mirts-g-artemovsk/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _Zhilservis 1 Mircea Artemovsk_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![zhilservis-1-mirts-g-artemovsk](https://static.openfintech.io/payout_methods/zhilservis-1-mirts-g-artemovsk/icon.png?w=278&c=v0.59.26#w40) |[zhilservis-1-mirts-g-artemovsk_uah](/payout-services/zhilservis-1-mirts-g-artemovsk_uah/)|`zhilservis-1-mirts-g-artemovsk_uah`| 
- 
-
 ## JSON Object 
 
 ```json

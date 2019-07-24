@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/bilotserkovteplomerezha/logo.svg?w
 https://static.openfintech.io/payment_methods/bilotserkovteplomerezha/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _Bilotserkovteplomerezha_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![bilotserkovteplomerezha](https://static.openfintech.io/payout_methods/bilotserkovteplomerezha/icon.png?w=278&c=v0.59.26#w40) |[bilotserkovteplomerezha_uah](/payout-services/bilotserkovteplomerezha_uah/)|`bilotserkovteplomerezha_uah`| 
- 
-
 ## JSON Object 
 
 ```json

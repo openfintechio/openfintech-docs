@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/kontsern-miski-teplovi-merezhi/log
 https://static.openfintech.io/payment_methods/kontsern-miski-teplovi-merezhi/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _Concern City Heating Networks_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![kontsern-miski-teplovi-merezhi](https://static.openfintech.io/payout_methods/kontsern-miski-teplovi-merezhi/icon.png?w=278&c=v0.59.26#w40) |[kontsern-miski-teplovi-merezhi_uah](/payout-services/kontsern-miski-teplovi-merezhi_uah/)|`kontsern-miski-teplovi-merezhi_uah`| 
- 
-
 ## JSON Object 
 
 ```json

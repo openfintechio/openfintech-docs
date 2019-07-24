@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/krasnolimanskoe-puvkkh-voda-donbas
 https://static.openfintech.io/payment_methods/krasnolimanskoe-puvkkh-voda-donbassa/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _Krasnolimansky PUVKH (water of Donbass)_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![krasnolimanskoe-puvkkh-voda-donbassa](https://static.openfintech.io/payout_methods/krasnolimanskoe-puvkkh-voda-donbassa/icon.png?w=278&c=v0.59.26#w40) |[krasnolimanskoe-puvkkh-voda-donbassa_uah](/payout-services/krasnolimanskoe-puvkkh-voda-donbassa_uah/)|`krasnolimanskoe-puvkkh-voda-donbassa_uah`| 
- 
-
 ## JSON Object 
 
 ```json

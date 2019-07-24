@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/ooo-faktoriia-mirts-g-artemovsk/lo
 https://static.openfintech.io/payment_methods/ooo-faktoriia-mirts-g-artemovsk/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _Factoriya Mirca LLC, Artemovsk_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![ooo-faktoriia-mirts-g-artemovsk](https://static.openfintech.io/payout_methods/ooo-faktoriia-mirts-g-artemovsk/icon.png?w=278&c=v0.59.26#w40) |[ooo-faktoriia-mirts-g-artemovsk_uah](/payout-services/ooo-faktoriia-mirts-g-artemovsk_uah/)|`ooo-faktoriia-mirts-g-artemovsk_uah`| 
- 
-
 ## JSON Object 
 
 ```json

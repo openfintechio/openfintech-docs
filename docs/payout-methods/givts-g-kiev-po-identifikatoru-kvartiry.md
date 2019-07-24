@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/givts-g-kiev-po-identifikatoru-kva
 https://static.openfintech.io/payment_methods/givts-g-kiev-po-identifikatoru-kvartiry/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _GIVTS Kiev (by apartment ID)_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![givts-g-kiev-po-identifikatoru-kvartiry](https://static.openfintech.io/payout_methods/givts-g-kiev-po-identifikatoru-kvartiry/icon.png?w=278&c=v0.59.26#w40) |[givts-g-kiev-po-identifikatoru-kvartiry_uah](/payout-services/givts-g-kiev-po-identifikatoru-kvartiry_uah/)|`givts-g-kiev-po-identifikatoru-kvartiry_uah`| 
- 
-
 ## JSON Object 
 
 ```json

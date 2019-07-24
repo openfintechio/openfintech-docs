@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/ooo-leski-m/logo.svg?w=400&c=v0.59
 https://static.openfintech.io/payment_methods/ooo-leski-m/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _OOO Leski-M_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![ooo-leski-m](https://static.openfintech.io/payout_methods/ooo-leski-m/icon.png?w=278&c=v0.59.26#w40) |[ooo-leski-m_uah](/payout-services/ooo-leski-m_uah/)|`ooo-leski-m_uah`| 
- 
-
 ## JSON Object 
 
 ```json

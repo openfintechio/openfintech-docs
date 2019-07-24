@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/tov-volingaz-zbut/logo.svg?w=400&c
 https://static.openfintech.io/payment_methods/tov-volingaz-zbut/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _LLC' VOLYNGAZ SbyT '_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![tov-volingaz-zbut](https://static.openfintech.io/payout_methods/tov-volingaz-zbut/icon.png?w=278&c=v0.59.26#w40) |[tov-volingaz-zbut_uah](/payout-services/tov-volingaz-zbut_uah/)|`tov-volingaz-zbut_uah`| 
- 
-
 ## JSON Object 
 
 ```json

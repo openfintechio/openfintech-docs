@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/zhek-13-g-chernigov/logo.svg?w=400
 https://static.openfintech.io/payment_methods/zhek-13-g-chernigov/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _ZhEK-13 of Chernigov_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![zhek-13-g-chernigov](https://static.openfintech.io/payout_methods/zhek-13-g-chernigov/icon.png?w=278&c=v0.59.26#w40) |[zhek-13-g-chernigov_uah](/payout-services/zhek-13-g-chernigov_uah/)|`zhek-13-g-chernigov_uah`| 
- 
-
 ## JSON Object 
 
 ```json

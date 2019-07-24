@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/zhek-10/logo.svg?w=400&c=v0.59.26#
 https://static.openfintech.io/payment_methods/zhek-10/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _Housing office number 10_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![zhek-10](https://static.openfintech.io/payout_methods/zhek-10/icon.png?w=278&c=v0.59.26#w40) |[zhek-10_uah](/payout-services/zhek-10_uah/)|`zhek-10_uah`| 
- 
-
 ## JSON Object 
 
 ```json

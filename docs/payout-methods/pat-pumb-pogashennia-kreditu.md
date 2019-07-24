@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/pat-pumb-pogashennia-kreditu/logo.
 https://static.openfintech.io/payment_methods/pat-pumb-pogashennia-kreditu/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _PJSC FUIB (loan repayment)_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![pat-pumb-pogashennia-kreditu](https://static.openfintech.io/payout_methods/pat-pumb-pogashennia-kreditu/icon.png?w=278&c=v0.59.26#w40) |[pat-pumb-pogashennia-kreditu_uah](/payout-services/pat-pumb-pogashennia-kreditu_uah/)|`pat-pumb-pogashennia-kreditu_uah`| 
- 
-
 ## JSON Object 
 
 ```json

@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/tov-kharkivgaz-zbut/logo.svg?w=400
 https://static.openfintech.io/payment_methods/tov-kharkivgaz-zbut/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _LLC' HARKIVGAZ SbyT '_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![tov-kharkivgaz-zbut](https://static.openfintech.io/payout_methods/tov-kharkivgaz-zbut/icon.png?w=278&c=v0.59.26#w40) |[tov-kharkivgaz-zbut_uah](/payout-services/tov-kharkivgaz-zbut_uah/)|`tov-kharkivgaz-zbut_uah`| 
- 
-
 ## JSON Object 
 
 ```json

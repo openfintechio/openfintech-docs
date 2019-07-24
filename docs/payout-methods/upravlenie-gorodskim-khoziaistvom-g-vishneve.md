@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/upravlenie-gorodskim-khoziaistvom-
 https://static.openfintech.io/payment_methods/upravlenie-gorodskim-khoziaistvom-g-vishneve/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _Urban Management (Vishneve)_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![upravlenie-gorodskim-khoziaistvom-g-vishneve](https://static.openfintech.io/payout_methods/upravlenie-gorodskim-khoziaistvom-g-vishneve/icon.png?w=278&c=v0.59.26#w40) |[upravlenie-gorodskim-khoziaistvom-g-vishneve_uah](/payout-services/upravlenie-gorodskim-khoziaistvom-g-vishneve_uah/)|`upravlenie-gorodskim-khoziaistvom-g-vishneve_uah`| 
- 
-
 ## JSON Object 
 
 ```json

@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/khersongaz-novokakhovskii-filial/l
 https://static.openfintech.io/payment_methods/khersongaz-novokakhovskii-filial/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _Khersongaz - Novokakhovsky branch_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![khersongaz-novokakhovskii-filial](https://static.openfintech.io/payout_methods/khersongaz-novokakhovskii-filial/icon.png?w=278&c=v0.59.26#w40) |[khersongaz-novokakhovskii-filial_uah](/payout-services/khersongaz-novokakhovskii-filial_uah/)|`khersongaz-novokakhovskii-filial_uah`| 
- 
-
 ## JSON Object 
 
 ```json

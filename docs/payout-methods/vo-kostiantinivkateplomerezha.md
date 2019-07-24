@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/vo-kostiantinivkateplomerezha/logo
 https://static.openfintech.io/payment_methods/vo-kostiantinivkateplomerezha/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _VO 'Kostyantinivkateplomerezha'_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![vo-kostiantinivkateplomerezha](https://static.openfintech.io/payout_methods/vo-kostiantinivkateplomerezha/icon.png?w=278&c=v0.59.26#w40) |[vo-kostiantinivkateplomerezha_uah](/payout-services/vo-kostiantinivkateplomerezha_uah/)|`vo-kostiantinivkateplomerezha_uah`| 
- 
-
 ## JSON Object 
 
 ```json

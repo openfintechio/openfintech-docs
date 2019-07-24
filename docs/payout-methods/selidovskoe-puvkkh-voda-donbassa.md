@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/selidovskoe-puvkkh-voda-donbassa/l
 https://static.openfintech.io/payment_methods/selidovskoe-puvkkh-voda-donbassa/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _Selidovskoye PUVKH (water of Donbass)_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![selidovskoe-puvkkh-voda-donbassa](https://static.openfintech.io/payout_methods/selidovskoe-puvkkh-voda-donbassa/icon.png?w=278&c=v0.59.26#w40) |[selidovskoe-puvkkh-voda-donbassa_uah](/payout-services/selidovskoe-puvkkh-voda-donbassa_uah/)|`selidovskoe-puvkkh-voda-donbassa_uah`| 
- 
-
 ## JSON Object 
 
 ```json

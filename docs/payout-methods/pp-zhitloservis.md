@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/pp-zhitloservis/logo.svg?w=400&c=v
 https://static.openfintech.io/payment_methods/pp-zhitloservis/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _PE Zhilservis_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![pp-zhitloservis](https://static.openfintech.io/payout_methods/pp-zhitloservis/icon.png?w=278&c=v0.59.26#w40) |[pp-zhitloservis_uah](/payout-services/pp-zhitloservis_uah/)|`pp-zhitloservis_uah`| 
- 
-
 ## JSON Object 
 
 ```json

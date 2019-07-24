@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/khersongaz-chaplinskii-filial/logo
 https://static.openfintech.io/payment_methods/khersongaz-chaplinskii-filial/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _Khersongaz - Chaplinsky branch_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![khersongaz-chaplinskii-filial](https://static.openfintech.io/payout_methods/khersongaz-chaplinskii-filial/icon.png?w=278&c=v0.59.26#w40) |[khersongaz-chaplinskii-filial_uah](/payout-services/khersongaz-chaplinskii-filial_uah/)|`khersongaz-chaplinskii-filial_uah`| 
- 
-
 ## JSON Object 
 
 ```json

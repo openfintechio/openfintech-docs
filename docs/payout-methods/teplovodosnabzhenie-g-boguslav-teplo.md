@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/teplovodosnabzhenie-g-boguslav-tep
 https://static.openfintech.io/payment_methods/teplovodosnabzhenie-g-boguslav-teplo/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _Heat and water supply of Boguslav (warm)_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![teplovodosnabzhenie-g-boguslav-teplo](https://static.openfintech.io/payout_methods/teplovodosnabzhenie-g-boguslav-teplo/icon.png?w=278&c=v0.59.26#w40) |[teplovodosnabzhenie-g-boguslav-teplo_uah](/payout-services/teplovodosnabzhenie-g-boguslav-teplo_uah/)|`teplovodosnabzhenie-g-boguslav-teplo_uah`| 
- 
-
 ## JSON Object 
 
 ```json

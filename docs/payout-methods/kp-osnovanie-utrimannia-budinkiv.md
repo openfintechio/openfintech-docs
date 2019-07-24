@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/kp-osnovanie-utrimannia-budinkiv/l
 https://static.openfintech.io/payment_methods/kp-osnovanie-utrimannia-budinkiv/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _KP Basis (maintenance of houses)_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![kp-osnovanie-utrimannia-budinkiv](https://static.openfintech.io/payout_methods/kp-osnovanie-utrimannia-budinkiv/icon.png?w=278&c=v0.59.26#w40) |[kp-osnovanie-utrimannia-budinkiv_uah](/payout-services/kp-osnovanie-utrimannia-budinkiv_uah/)|`kp-osnovanie-utrimannia-budinkiv_uah`| 
- 
-
 ## JSON Object 
 
 ```json

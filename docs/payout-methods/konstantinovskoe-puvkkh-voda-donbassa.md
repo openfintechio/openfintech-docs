@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/konstantinovskoe-puvkkh-voda-donba
 https://static.openfintech.io/payment_methods/konstantinovskoe-puvkkh-voda-donbassa/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _Konstantinovskoye PUVKH (water of Donbass)_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![konstantinovskoe-puvkkh-voda-donbassa](https://static.openfintech.io/payout_methods/konstantinovskoe-puvkkh-voda-donbassa/icon.png?w=278&c=v0.59.26#w40) |[konstantinovskoe-puvkkh-voda-donbassa_uah](/payout-services/konstantinovskoe-puvkkh-voda-donbassa_uah/)|`konstantinovskoe-puvkkh-voda-donbassa_uah`| 
- 
-
 ## JSON Object 
 
 ```json

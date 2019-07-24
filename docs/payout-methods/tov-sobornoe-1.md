@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/tov-sobornoe-1/logo.svg?w=400&c=v0
 https://static.openfintech.io/payment_methods/tov-sobornoe-1/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _Sobornoe-1 LLC_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![tov-sobornoe-1](https://static.openfintech.io/payout_methods/tov-sobornoe-1/icon.png?w=278&c=v0.59.26#w40) |[tov-sobornoe-1_uah](/payout-services/tov-sobornoe-1_uah/)|`tov-sobornoe-1_uah`| 
- 
-
 ## JSON Object 
 
 ```json

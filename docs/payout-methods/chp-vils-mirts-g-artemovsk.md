@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/chp-vils-mirts-g-artemovsk/logo.sv
 https://static.openfintech.io/payment_methods/chp-vils-mirts-g-artemovsk/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _PE Wils Mirca Artemovsk_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![chp-vils-mirts-g-artemovsk](https://static.openfintech.io/payout_methods/chp-vils-mirts-g-artemovsk/icon.png?w=278&c=v0.59.26#w40) |[chp-vils-mirts-g-artemovsk_uah](/payout-services/chp-vils-mirts-g-artemovsk_uah/)|`chp-vils-mirts-g-artemovsk_uah`| 
- 
-
 ## JSON Object 
 
 ```json

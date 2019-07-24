@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/pat-kiyivvodokanal-bagatokvartirni
 https://static.openfintech.io/payment_methods/pat-kiyivvodokanal-bagatokvartirni-budinki-vodovidvedennia-gvp/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _PJSC 'Kievvodokanal' (apartment buildings) - water supply for hot water supply_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![pat-kiyivvodokanal-bagatokvartirni-budinki-vodovidvedennia-gvp](https://static.openfintech.io/payout_methods/pat-kiyivvodokanal-bagatokvartirni-budinki-vodovidvedennia-gvp/icon.png?w=278&c=v0.59.26#w40) |[pat-kiyivvodokanal-bagatokvartirni-budinki-vodovidvedennia-gvp_uah](/payout-services/pat-kiyivvodokanal-bagatokvartirni-budinki-vodovidvedennia-gvp_uah/)|`pat-kiyivvodokanal-bagatokvartirni-budinki-vodovidvedennia-gvp_uah`| 
- 
-
 ## JSON Object 
 
 ```json

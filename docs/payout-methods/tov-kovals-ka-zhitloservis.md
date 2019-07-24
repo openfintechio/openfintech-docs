@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/tov-kovals-ka-zhitloservis/logo.sv
 https://static.openfintech.io/payment_methods/tov-kovals-ka-zhitloservis/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _Kovalskaya-Zhilservis LLC_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![tov-kovals-ka-zhitloservis](https://static.openfintech.io/payout_methods/tov-kovals-ka-zhitloservis/icon.png?w=278&c=v0.59.26#w40) |[tov-kovals-ka-zhitloservis_uah](/payout-services/tov-kovals-ka-zhitloservis_uah/)|`tov-kovals-ka-zhitloservis_uah`| 
- 
-
 ## JSON Object 
 
 ```json

@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/vo-slovianskteplomerezha/logo.svg?
 https://static.openfintech.io/payment_methods/vo-slovianskteplomerezha/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _BO 'Slovyanskteplomerezha'_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![vo-slovianskteplomerezha](https://static.openfintech.io/payout_methods/vo-slovianskteplomerezha/icon.png?w=278&c=v0.59.26#w40) |[vo-slovianskteplomerezha_uah](/payout-services/vo-slovianskteplomerezha_uah/)|`vo-slovianskteplomerezha_uah`| 
- 
-
 ## JSON Object 
 
 ```json

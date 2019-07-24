@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/khersongaz-v-rogachinskii-filial/l
 https://static.openfintech.io/payment_methods/khersongaz-v-rogachinskii-filial/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
- 
-The list of [Payout Services](/payout-services/) based on the _Khersongaz - V.Rogachinsky branch_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![khersongaz-v-rogachinskii-filial](https://static.openfintech.io/payout_methods/khersongaz-v-rogachinskii-filial/icon.png?w=278&c=v0.59.26#w40) |[khersongaz-v-rogachinskii-filial_uah](/payout-services/khersongaz-v-rogachinskii-filial_uah/)|`khersongaz-v-rogachinskii-filial_uah`| 
- 
-
 ## JSON Object 
 
 ```json
