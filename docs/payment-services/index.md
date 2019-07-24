@@ -188,6 +188,8 @@
 |![Payeer](https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&c=v0.59.26#w200) |[**Payeer**](/payment-methods/payeer/)|[`payeer_eur_hpp`](payeer_eur_hpp/)| 
 |![Payeer](https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&c=v0.59.26#w200) |[**Payeer**](/payment-methods/payeer/)|[`payeer_rub_hpp`](payeer_rub_hpp/)| 
 |![Payeer](https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&c=v0.59.26#w200) |[**Payeer**](/payment-methods/payeer/)|[`payeer_usd_hpp`](payeer_usd_hpp/)| 
+|![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_aud_hpp`](payment_card_aud_hpp/)| 
+|![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_cad_hpp`](payment_card_cad_hpp/)| 
 |![Payment card email](https://static.openfintech.io/payment_methods/payment_card_email/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card email**](/payment-methods/payment_card_email/)|[`payment_card_email_eur_hpp`](payment_card_email_eur_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_eur_hpp`](payment_card_eur_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_gbp_hpp`](payment_card_gbp_hpp/)| 
