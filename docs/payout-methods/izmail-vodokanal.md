@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/izmail-vodokanal/logo.svg?w=400&c=
 https://static.openfintech.io/payment_methods/izmail-vodokanal/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _Izmail Vodokanal_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![izmail-vodokanal](https://static.openfintech.io/payout_methods/izmail-vodokanal/icon.png?w=278&c=v0.59.26#w40) |[izmail-vodokanal_uah](/payout-services/izmail-vodokanal_uah/)|`izmail-vodokanal_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

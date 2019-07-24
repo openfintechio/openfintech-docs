@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/tov-ivano-frankivskgaz-zbut/logo.s
 https://static.openfintech.io/payment_methods/tov-ivano-frankivskgaz-zbut/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _LLC 'Ivano-Frankivsk Sbyt'_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![tov-ivano-frankivskgaz-zbut](https://static.openfintech.io/payout_methods/tov-ivano-frankivskgaz-zbut/icon.png?w=278&c=v0.59.26#w40) |[tov-ivano-frankivskgaz-zbut_uah](/payout-services/tov-ivano-frankivskgaz-zbut_uah/)|`tov-ivano-frankivskgaz-zbut_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

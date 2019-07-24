@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/vo-druzhkivkateplomerezha/logo.svg
 https://static.openfintech.io/payment_methods/vo-druzhkivkateplomerezha/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _BO 'Druzhkivkateplomerezha'_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![vo-druzhkivkateplomerezha](https://static.openfintech.io/payout_methods/vo-druzhkivkateplomerezha/icon.png?w=278&c=v0.59.26#w40) |[vo-druzhkivkateplomerezha_uah](/payout-services/vo-druzhkivkateplomerezha_uah/)|`vo-druzhkivkateplomerezha_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/zhkp-illichivskogo-raionu/logo.svg
 https://static.openfintech.io/payment_methods/zhkp-illichivskogo-raionu/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _Housing and communal services of the Illichivsk district_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![zhkp-illichivskogo-raionu](https://static.openfintech.io/payout_methods/zhkp-illichivskogo-raionu/icon.png?w=278&c=v0.59.26#w40) |[zhkp-illichivskogo-raionu_uah](/payout-services/zhkp-illichivskogo-raionu_uah/)|`zhkp-illichivskogo-raionu_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/kzhep-mmr-zoria/logo.svg?w=400&c=v
 https://static.openfintech.io/payment_methods/kzhep-mmr-zoria/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _KZHEP NGS' Dawn'_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![kzhep-mmr-zoria](https://static.openfintech.io/payout_methods/kzhep-mmr-zoria/icon.png?w=278&c=v0.59.26#w40) |[kzhep-mmr-zoria_uah](/payout-services/kzhep-mmr-zoria_uah/)|`kzhep-mmr-zoria_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

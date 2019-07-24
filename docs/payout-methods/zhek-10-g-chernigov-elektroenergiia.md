@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/zhek-10-g-chernigov-elektroenergii
 https://static.openfintech.io/payment_methods/zhek-10-g-chernigov-elektroenergiia/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _ZhEK-10 Chernigov (electricity)_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![zhek-10-g-chernigov-elektroenergiia](https://static.openfintech.io/payout_methods/zhek-10-g-chernigov-elektroenergiia/icon.png?w=278&c=v0.59.26#w40) |[zhek-10-g-chernigov-elektroenergiia_uah](/payout-services/zhek-10-g-chernigov-elektroenergiia_uah/)|`zhek-10-g-chernigov-elektroenergiia_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

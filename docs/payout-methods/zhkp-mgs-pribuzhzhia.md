@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/zhkp-mgs-pribuzhzhia/logo.svg?w=40
 https://static.openfintech.io/payment_methods/zhkp-mgs-pribuzhzhia/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _ZhKU MGS Pryuzhzhya_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![zhkp-mgs-pribuzhzhia](https://static.openfintech.io/payout_methods/zhkp-mgs-pribuzhzhia/icon.png?w=278&c=v0.59.26#w40) |[zhkp-mgs-pribuzhzhia_uah](/payout-services/zhkp-mgs-pribuzhzhia_uah/)|`zhkp-mgs-pribuzhzhia_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

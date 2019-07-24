@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/khersonskaia-tets/logo.svg?w=400&c
 https://static.openfintech.io/payment_methods/khersonskaia-tets/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _Kherson CHP_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![khersonskaia-tets](https://static.openfintech.io/payout_methods/khersonskaia-tets/icon.png?w=278&c=v0.59.26#w40) |[khersonskaia-tets_uah](/payout-services/khersonskaia-tets_uah/)|`khersonskaia-tets_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

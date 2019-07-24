@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/voda-donbassa-dzerzhinskoe/logo.sv
 https://static.openfintech.io/payment_methods/voda-donbassa-dzerzhinskoe/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _Water of Donbass - Dzerzhinsky_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![voda-donbassa-dzerzhinskoe](https://static.openfintech.io/payout_methods/voda-donbassa-dzerzhinskoe/icon.png?w=278&c=v0.59.26#w40) |[voda-donbassa-dzerzhinskoe_uah](/payout-services/voda-donbassa-dzerzhinskoe_uah/)|`voda-donbassa-dzerzhinskoe_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

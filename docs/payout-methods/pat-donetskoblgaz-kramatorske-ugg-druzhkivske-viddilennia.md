@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/pat-donetskoblgaz-kramatorske-ugg-
 https://static.openfintech.io/payment_methods/pat-donetskoblgaz-kramatorske-ugg-druzhkivske-viddilennia/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _PJSC 'Donetskoblgaz' Kramatorsk UGG (Druzhkovskoye Branch)_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![pat-donetskoblgaz-kramatorske-ugg-druzhkivske-viddilennia](https://static.openfintech.io/payout_methods/pat-donetskoblgaz-kramatorske-ugg-druzhkivske-viddilennia/icon.svg?w=278&c=v0.59.26#w40) |[pat-donetskoblgaz-kramatorske-ugg-druzhkivske-viddilennia_uah](/payout-services/pat-donetskoblgaz-kramatorske-ugg-druzhkivske-viddilennia_uah/)|`pat-donetskoblgaz-kramatorske-ugg-druzhkivske-viddilennia_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

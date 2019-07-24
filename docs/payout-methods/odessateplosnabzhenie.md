@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/odessateplosnabzhenie/logo.svg?w=4
 https://static.openfintech.io/payment_methods/odessateplosnabzhenie/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _OdessaTower Supply_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![odessateplosnabzhenie](https://static.openfintech.io/payout_methods/odessateplosnabzhenie/icon.png?w=278&c=v0.59.26#w40) |[odessateplosnabzhenie_uah](/payout-services/odessateplosnabzhenie_uah/)|`odessateplosnabzhenie_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

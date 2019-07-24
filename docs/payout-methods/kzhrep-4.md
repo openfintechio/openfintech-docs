@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/kzhrep-4/logo.svg?w=400&c=v0.59.26
 https://static.openfintech.io/payment_methods/kzhrep-4/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _КЖРЕП-4_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![kzhrep-4](https://static.openfintech.io/payout_methods/kzhrep-4/icon.png?w=278&c=v0.59.26#w40) |[kzhrep-4_uah](/payout-services/kzhrep-4_uah/)|`kzhrep-4_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

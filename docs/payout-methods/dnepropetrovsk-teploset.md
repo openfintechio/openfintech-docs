@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/dnepropetrovsk-teploset/logo.svg?w
 https://static.openfintech.io/payment_methods/dnepropetrovsk-teploset/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _Dnepropetrovsk Heating Network_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![dnepropetrovsk-teploset](https://static.openfintech.io/payout_methods/dnepropetrovsk-teploset/icon.png?w=278&c=v0.59.26#w40) |[dnepropetrovsk-teploset_uah](/payout-services/dnepropetrovsk-teploset_uah/)|`dnepropetrovsk-teploset_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

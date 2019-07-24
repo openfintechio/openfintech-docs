@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/tov-dnipropetrovskgaz-zbut/logo.sv
 https://static.openfintech.io/payment_methods/tov-dnipropetrovskgaz-zbut/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _LLC' Dnepropetrovskgaz SBYT '_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![tov-dnipropetrovskgaz-zbut](https://static.openfintech.io/payout_methods/tov-dnipropetrovskgaz-zbut/icon.png?w=278&c=v0.59.26#w40) |[tov-dnipropetrovskgaz-zbut_uah](/payout-services/tov-dnipropetrovskgaz-zbut_uah/)|`tov-dnipropetrovskgaz-zbut_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

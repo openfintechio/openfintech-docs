@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/khersongaz-belozerskii-filial/logo
 https://static.openfintech.io/payment_methods/khersongaz-belozerskii-filial/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _Khersongaz - Belozersky branch_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![khersongaz-belozerskii-filial](https://static.openfintech.io/payout_methods/khersongaz-belozerskii-filial/icon.png?w=278&c=v0.59.26#w40) |[khersongaz-belozerskii-filial_uah](/payout-services/khersongaz-belozerskii-filial_uah/)|`khersongaz-belozerskii-filial_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

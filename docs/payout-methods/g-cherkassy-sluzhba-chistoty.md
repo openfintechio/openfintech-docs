@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/g-cherkassy-sluzhba-chistoty/logo.
 https://static.openfintech.io/payment_methods/g-cherkassy-sluzhba-chistoty/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _G. Cherkassy - Service of Purity_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![g-cherkassy-sluzhba-chistoty](https://static.openfintech.io/payout_methods/g-cherkassy-sluzhba-chistoty/icon.png?w=278&c=v0.59.26#w40) |[g-cherkassy-sluzhba-chistoty_uah](/payout-services/g-cherkassy-sluzhba-chistoty_uah/)|`g-cherkassy-sluzhba-chistoty_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/vo-dimitrivteplomerezha/logo.svg?w
 https://static.openfintech.io/payment_methods/vo-dimitrivteplomerezha/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _VO 'Dimitrivteplomerezha'_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![vo-dimitrivteplomerezha](https://static.openfintech.io/payout_methods/vo-dimitrivteplomerezha/icon.png?w=278&c=v0.59.26#w40) |[vo-dimitrivteplomerezha_uah](/payout-services/vo-dimitrivteplomerezha_uah/)|`vo-dimitrivteplomerezha_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

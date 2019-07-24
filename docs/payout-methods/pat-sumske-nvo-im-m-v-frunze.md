@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/pat-sumske-nvo-im-m-v-frunze/logo.
 https://static.openfintech.io/payment_methods/pat-sumske-nvo-im-m-v-frunze/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _PJSC Sumy NPO im..M.V. Frunze_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![pat-sumske-nvo-im-m-v-frunze](https://static.openfintech.io/payout_methods/pat-sumske-nvo-im-m-v-frunze/icon.png?w=278&c=v0.59.26#w40) |[pat-sumske-nvo-im-m-v-frunze_uah](/payout-services/pat-sumske-nvo-im-m-v-frunze_uah/)|`pat-sumske-nvo-im-m-v-frunze_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

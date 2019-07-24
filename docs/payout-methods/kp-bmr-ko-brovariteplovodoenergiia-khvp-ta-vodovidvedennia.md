@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/kp-bmr-ko-brovariteplovodoenergiia
 https://static.openfintech.io/payment_methods/kp-bmr-ko-brovariteplovodoenergiia-khvp-ta-vodovidvedennia/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _KP SMR KO 'Brovariteplovodoenergiya' (cold-water and wastewater)_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![kp-bmr-ko-brovariteplovodoenergiia-khvp-ta-vodovidvedennia](https://static.openfintech.io/payout_methods/kp-bmr-ko-brovariteplovodoenergiia-khvp-ta-vodovidvedennia/icon.png?w=278&c=v0.59.26#w40) |[kp-bmr-ko-brovariteplovodoenergiia-khvp-ta-vodovidvedennia_uah](/payout-services/kp-bmr-ko-brovariteplovodoenergiia-khvp-ta-vodovidvedennia_uah/)|`kp-bmr-ko-brovariteplovodoenergiia-khvp-ta-vodovidvedennia_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

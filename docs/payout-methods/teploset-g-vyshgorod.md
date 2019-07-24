@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/teploset-g-vyshgorod/logo.svg?w=40
 https://static.openfintech.io/payment_methods/teploset-g-vyshgorod/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _Heating network (Vyshgorod)_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![teploset-g-vyshgorod](https://static.openfintech.io/payout_methods/teploset-g-vyshgorod/icon.png?w=278&c=v0.59.26#w40) |[teploset-g-vyshgorod_uah](/payout-services/teploset-g-vyshgorod_uah/)|`teploset-g-vyshgorod_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

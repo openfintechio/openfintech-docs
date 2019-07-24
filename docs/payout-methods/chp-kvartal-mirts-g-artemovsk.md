@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/chp-kvartal-mirts-g-artemovsk/logo
 https://static.openfintech.io/payment_methods/chp-kvartal-mirts-g-artemovsk/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _PE Kvartal Mirtsa Artemovsk_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![chp-kvartal-mirts-g-artemovsk](https://static.openfintech.io/payout_methods/chp-kvartal-mirts-g-artemovsk/icon.png?w=278&c=v0.59.26#w40) |[chp-kvartal-mirts-g-artemovsk_uah](/payout-services/chp-kvartal-mirts-g-artemovsk_uah/)|`chp-kvartal-mirts-g-artemovsk_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

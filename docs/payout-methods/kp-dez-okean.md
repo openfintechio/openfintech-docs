@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/kp-dez-okean/logo.svg?w=400&c=v0.5
 https://static.openfintech.io/payment_methods/kp-dez-okean/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _KP DEZ Ocean_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![kp-dez-okean](https://static.openfintech.io/payout_methods/kp-dez-okean/icon.png?w=278&c=v0.59.26#w40) |[kp-dez-okean_uah](/payout-services/kp-dez-okean_uah/)|`kp-dez-okean_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

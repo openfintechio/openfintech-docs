@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/zhilservis-2/logo.svg?w=400&c=v0.5
 https://static.openfintech.io/payment_methods/zhilservis-2/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _Zhilservis-2_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![zhilservis-2](https://static.openfintech.io/payout_methods/zhilservis-2/icon.png?w=278&c=v0.59.26#w40) |[zhilservis-2_uah](/payout-services/zhilservis-2_uah/)|`zhilservis-2_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

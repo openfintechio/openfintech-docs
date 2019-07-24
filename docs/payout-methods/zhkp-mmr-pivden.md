@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/zhkp-mmr-pivden/logo.svg?w=400&c=v
 https://static.openfintech.io/payment_methods/zhkp-mmr-pivden/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _ZhKU MMR South_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![zhkp-mmr-pivden](https://static.openfintech.io/payout_methods/zhkp-mmr-pivden/icon.png?w=278&c=v0.59.26#w40) |[zhkp-mmr-pivden_uah](/payout-services/zhkp-mmr-pivden_uah/)|`zhkp-mmr-pivden_uah`| 
+ 
+
 ## JSON Object 
 
 ```json

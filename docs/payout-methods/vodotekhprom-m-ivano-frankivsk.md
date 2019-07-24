@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/vodotekhprom-m-ivano-frankivsk/log
 https://static.openfintech.io/payment_methods/vodotekhprom-m-ivano-frankivsk/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _Vodotehprom (Ivano-Frankivsk)_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![vodotekhprom-m-ivano-frankivsk](https://static.openfintech.io/payout_methods/vodotekhprom-m-ivano-frankivsk/icon.png?w=278&c=v0.59.26#w40) |[vodotekhprom-m-ivano-frankivsk_uah](/payout-services/vodotekhprom-m-ivano-frankivsk_uah/)|`vodotekhprom-m-ivano-frankivsk_uah`| 
+ 
+
 ## JSON Object 
 
 ```json
