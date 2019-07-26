@@ -15,7 +15,7 @@
  
 :	[EN] SWIFT 
  
-**Amount limits:** from `0.01` to `99999` KZT 
+**Amount limits:** from `0.01` to `999999` KZT 
 
 ## JSON Object 
 
@@ -27,6 +27,6 @@
   "currency":"KZT",
   "fields":null,
   "amount_min":0.01,
-  "amount_max":99999
+  "amount_max":999999
 }
 ```  

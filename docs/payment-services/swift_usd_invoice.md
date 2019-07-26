@@ -15,7 +15,7 @@
  
 :	[EN] SWIFT 
  
-**Amount limits:** from `0.01` to `99999` USD 
+**Amount limits:** from `0.01` to `999999` USD 
 
 ## JSON Object 
 
@@ -27,6 +27,6 @@
   "currency":"USD",
   "fields":null,
   "amount_min":0.01,
-  "amount_max":99999
+  "amount_max":999999
 }
 ```  

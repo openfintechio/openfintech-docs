@@ -14,7 +14,7 @@
  
 :	[EN] SWIFT 
  
-**Amount limits:** from `0.01` to `99999` CNY 
+**Amount limits:** from `0.01` to `999999` CNY 
 
 ## Fields 
 
@@ -254,6 +254,6 @@
     }
   ],
   "amount_min":0.01,
-  "amount_max":99999
+  "amount_max":999999
 }
 ```  
