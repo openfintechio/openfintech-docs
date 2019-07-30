@@ -1277,6 +1277,7 @@
 |![rai-optic-ivano-frankivsk](https://static.openfintech.io/payout_methods/rai-optic-ivano-frankivsk/logo.svg?w=400&c=v0.59.26#w24) |[**RAI-Optic (Ivano-Frankivsk)**](rai-optic-ivano-frankivsk/)|`rai-optic-ivano-frankivsk`| 
 |![rakhivskii-rem-zakarpattia-oe](https://static.openfintech.io/payout_methods/rakhivskii-rem-zakarpattia-oe/logo.png?w=400&c=v0.59.26#w24) |[**Rakhiv RES of Transcarpathia OE**](rakhivskii-rem-zakarpattia-oe/)|`rakhivskii-rem-zakarpattia-oe`| 
 |![rappelz](https://static.openfintech.io/payout_methods/rappelz/logo.png?w=400&c=v0.59.26#w24) |[**Rappelz**](rappelz/)|`rappelz`| 
+|![rapyd](https://static.openfintech.io/payout_methods/rapyd/logo.svg?w=400&c=v0.59.26#w24) |[**Rapyd**](rapyd/)|`rapyd`| 
 |![razrushiteli](https://static.openfintech.io/payout_methods/razrushiteli/logo.png?w=400&c=v0.59.26#w24) |[**Destroyers**](razrushiteli/)|`razrushiteli`| 
 |![region-dnepropetrovskaia-oblast](https://static.openfintech.io/payout_methods/region-dnepropetrovskaia-oblast/logo.png?w=400&c=v0.59.26#w24) |[**REGION (Dnipropetrovsk region)**](region-dnepropetrovskaia-oblast/)|`region-dnepropetrovskaia-oblast`| 
 |![region-kharkovskaia-oblast](https://static.openfintech.io/payout_methods/region-kharkovskaia-oblast/logo.png?w=400&c=v0.59.26#w24) |[**REGION (Kharkiv region)**](region-kharkovskaia-oblast/)|`region-kharkovskaia-oblast`| 
