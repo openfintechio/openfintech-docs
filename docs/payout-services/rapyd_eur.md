@@ -16,7 +16,7 @@
 :	[RU] Rapyd 
 :	[UK] Rapyd 
  
-**Amount limits:** from `2.00` to `14999.00` EUR 
+**Amount limits:** from `1.00` to `14999.00` EUR 
 
 ## Fields 
 
@@ -24,45 +24,26 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`beneficiary_payment_type`|✔|`string`|`/^.{1,255}/$`| 
-|`beneficiary_address`|✔|`string`|`/^.{1,255}/$`| 
-|`beneficiary_city`|✔|`string`|`/^.{1,255}/$`| 
-|`beneficiary_first_name`|✔|`string`|`/^.{1,255}/$`| 
-|`beneficiary_last_name`|✔|`string`|`/^.{1,255}/$`| 
-|`beneficiary_account_number`|✔|`string`|`/^\d{1,17}/$`| 
-|`beneficiary_bic_swift`|✔|`string`|`/^[0-9A-Z]{8}/$\|/^[0-9A-Z]{11}/$`| 
-|`sender_city`|✔|`string`|`/^.{1,255}/$`| 
-|`sender_address`|✔|`string`|`/^.{1,255}/$`| 
-|`sender_first_name`|✔|`string`|`/^.{1,255}/$`| 
-|`sender_last_name`|✔|`string`|`/^.{1,255}/$`| 
-|`sender_date_of_birth`|✔|`string`|`/^([0-2][0-9]\|(3)[0-1])(/)(((0)[0-9])\|((1)[0-2]))(/)((19\|20)[0-9][0-9])/$`| 
+|`beneficiary_address`|✔|`string`|`/^.{1,255}$/`| 
+|`beneficiary_city`|✔|`string`|`/^.{1,255}$/`| 
+|`beneficiary_first_name`|✔|`string`|`/^.{1,255}$/`| 
+|`beneficiary_last_name`|✔|`string`|`/^.{1,255}$/`| 
+|`beneficiary_account_number`|✔|`string`|`/^\d{1,17}$/`| 
+|`beneficiary_bic_swift`|✔|`string`|`/^[0-9A-Z]{8}$/\|/^[0-9A-Z]{11}$/`| 
+|`sender_city`|✔|`string`|`/^.{1,255}$/`| 
+|`sender_address`|✔|`string`|`/^.{1,255}$/`| 
+|`sender_first_name`|✔|`string`|`/^.{1,255}$/`| 
+|`sender_last_name`|✔|`string`|`/^.{1,255}$/`| 
+|`sender_date_of_birth`|✔|`string`|`/^([0-2][0-9]\|(3)[0-1])(/)(((0)[0-9])\|((1)[0-2]))(/)((19\|20)[0-9][0-9])$/`| 
  
 
 ### Details 
  
-1. **`beneficiary_payment_type`** 
+1. **`beneficiary_address`** 
  
 	Type: `string` 
  
-	Regexp: `/^.{1,255}/$` 
- 
-	Required: `1` 
- 
-	Label:  
-	: [EN] Payment type 
-	: [RU] Payment type 
-	: [UK] Payment type 
- 
-	Hint:  
-	: [EN] Payment type 
-	: [RU] Payment type 
-	: [UK] Payment type 
- 
-2. **`beneficiary_address`** 
- 
-	Type: `string` 
- 
-	Regexp: `/^.{1,255}/$` 
+	Regexp: `/^.{1,255}$/` 
  
 	Required: `1` 
  
@@ -76,11 +57,11 @@
 	: [RU] Enter address 
 	: [UK] Enter address 
  
-3. **`beneficiary_city`** 
+2. **`beneficiary_city`** 
  
 	Type: `string` 
  
-	Regexp: `/^.{1,255}/$` 
+	Regexp: `/^.{1,255}$/` 
  
 	Required: `1` 
  
@@ -94,11 +75,11 @@
 	: [RU] Enter city 
 	: [UK] Enter city 
  
-4. **`beneficiary_first_name`** 
+3. **`beneficiary_first_name`** 
  
 	Type: `string` 
  
-	Regexp: `/^.{1,255}/$` 
+	Regexp: `/^.{1,255}$/` 
  
 	Required: `1` 
  
@@ -112,11 +93,11 @@
 	: [RU] Enter first name 
 	: [UK] Enter first name 
  
-5. **`beneficiary_last_name`** 
+4. **`beneficiary_last_name`** 
  
 	Type: `string` 
  
-	Regexp: `/^.{1,255}/$` 
+	Regexp: `/^.{1,255}$/` 
  
 	Required: `1` 
  
@@ -130,11 +111,11 @@
 	: [RU] Enter last name 
 	: [UK] Enter last name 
  
-6. **`beneficiary_account_number`** 
+5. **`beneficiary_account_number`** 
  
 	Type: `string` 
  
-	Regexp: `/^\d{1,17}/$` 
+	Regexp: `/^\d{1,17}$/` 
  
 	Required: `1` 
  
@@ -148,11 +129,11 @@
 	: [RU] Enter account number 
 	: [UK] Enter account number 
  
-7. **`beneficiary_bic_swift`** 
+6. **`beneficiary_bic_swift`** 
  
 	Type: `string` 
  
-	Regexp: `/^[0-9A-Z]{8}/$|/^[0-9A-Z]{11}/$` 
+	Regexp: `/^[0-9A-Z]{8}$/|/^[0-9A-Z]{11}$/` 
  
 	Required: `1` 
  
@@ -166,11 +147,11 @@
 	: [RU] Enter bic swift 
 	: [UK] Enter bic swift 
  
-8. **`sender_city`** 
+7. **`sender_city`** 
  
 	Type: `string` 
  
-	Regexp: `/^.{1,255}/$` 
+	Regexp: `/^.{1,255}$/` 
  
 	Required: `1` 
  
@@ -184,11 +165,11 @@
 	: [RU] Enter sender city 
 	: [UK] Enter sender city 
  
-9. **`sender_address`** 
+8. **`sender_address`** 
  
 	Type: `string` 
  
-	Regexp: `/^.{1,255}/$` 
+	Regexp: `/^.{1,255}$/` 
  
 	Required: `1` 
  
@@ -202,11 +183,11 @@
 	: [RU] Enter sender address 
 	: [UK] Enter sender address 
  
-10. **`sender_first_name`** 
+9. **`sender_first_name`** 
  
 	Type: `string` 
  
-	Regexp: `/^.{1,255}/$` 
+	Regexp: `/^.{1,255}$/` 
  
 	Required: `1` 
  
@@ -220,11 +201,11 @@
 	: [RU] Enter sender first name 
 	: [UK] Enter sender first name 
  
-11. **`sender_last_name`** 
+10. **`sender_last_name`** 
  
 	Type: `string` 
  
-	Regexp: `/^.{1,255}/$` 
+	Regexp: `/^.{1,255}$/` 
  
 	Required: `1` 
  
@@ -238,11 +219,11 @@
 	: [RU] Enter sender last name 
 	: [UK] Enter sender last name 
  
-12. **`sender_date_of_birth`** 
+11. **`sender_date_of_birth`** 
  
 	Type: `string` 
  
-	Regexp: `/^([0-2][0-9]|(3)[0-1])(/)(((0)[0-9])|((1)[0-2]))(/)((19|20)[0-9][0-9])/$` 
+	Regexp: `/^([0-2][0-9]|(3)[0-1])(/)(((0)[0-9])|((1)[0-2]))(/)((19|20)[0-9][0-9])$/` 
  
 	Required: `1` 
  
@@ -266,24 +247,6 @@
   "currency":"EUR",
   "fields":[
     {
-      "key":"beneficiary_payment_type",
-      "type":"string",
-      "label":{
-        "en":"Payment type",
-        "ru":"Payment type",
-        "uk":"Payment type"
-      },
-      "regexp":"\/^.{1,255}\/$",
-      "required":true,
-      "position":1,
-      "hint":{
-        "en":"Payment type",
-        "ru":"Payment type",
-        "uk":"Payment type"
-      },
-      "example":"100000000393#10"
-    },
-    {
       "key":"beneficiary_address",
       "type":"string",
       "label":{
@@ -291,9 +254,9 @@
         "ru":"Address",
         "uk":"Address"
       },
-      "regexp":"\/^.{1,255}\/$",
+      "regexp":"\/^.{1,255}$\/",
       "required":true,
-      "position":2,
+      "position":1,
       "hint":{
         "en":"Enter address",
         "ru":"Enter address",
@@ -309,9 +272,9 @@
         "ru":"City",
         "uk":"City"
       },
-      "regexp":"\/^.{1,255}\/$",
+      "regexp":"\/^.{1,255}$\/",
       "required":true,
-      "position":3,
+      "position":2,
       "hint":{
         "en":"Enter city",
         "ru":"Enter city",
@@ -327,9 +290,9 @@
         "ru":"First name",
         "uk":"First name"
       },
-      "regexp":"\/^.{1,255}\/$",
+      "regexp":"\/^.{1,255}$\/",
       "required":true,
-      "position":4,
+      "position":3,
       "hint":{
         "en":"Enter first name",
         "ru":"Enter first name",
@@ -345,9 +308,9 @@
         "ru":"Last name",
         "uk":"Last name"
       },
-      "regexp":"\/^.{1,255}\/$",
+      "regexp":"\/^.{1,255}$\/",
       "required":true,
-      "position":5,
+      "position":4,
       "hint":{
         "en":"Enter last name",
         "ru":"Enter last name",
@@ -363,9 +326,9 @@
         "ru":"Account number",
         "uk":"Account number"
       },
-      "regexp":"\/^\\d{1,17}\/$",
+      "regexp":"\/^\\d{1,17}$\/",
       "required":true,
-      "position":6,
+      "position":5,
       "hint":{
         "en":"Enter account number",
         "ru":"Enter account number",
@@ -381,9 +344,9 @@
         "ru":"Bic swift",
         "uk":"Bic swift"
       },
-      "regexp":"\/^[0-9A-Z]{8}\/$|\/^[0-9A-Z]{11}\/$",
+      "regexp":"\/^[0-9A-Z]{8}$\/|\/^[0-9A-Z]{11}$\/",
       "required":true,
-      "position":7,
+      "position":6,
       "hint":{
         "en":"Enter bic swift",
         "ru":"Enter bic swift",
@@ -399,9 +362,9 @@
         "ru":"Sender city",
         "uk":"Sender city"
       },
-      "regexp":"\/^.{1,255}\/$",
+      "regexp":"\/^.{1,255}$\/",
       "required":true,
-      "position":8,
+      "position":7,
       "hint":{
         "en":"Enter sender city",
         "ru":"Enter sender city",
@@ -417,9 +380,9 @@
         "ru":"Sender address",
         "uk":"Sender address"
       },
-      "regexp":"\/^.{1,255}\/$",
+      "regexp":"\/^.{1,255}$\/",
       "required":true,
-      "position":9,
+      "position":8,
       "hint":{
         "en":"Enter sender address",
         "ru":"Enter sender address",
@@ -435,9 +398,9 @@
         "ru":"Sender first name",
         "uk":"Sender first name"
       },
-      "regexp":"\/^.{1,255}\/$",
+      "regexp":"\/^.{1,255}$\/",
       "required":true,
-      "position":10,
+      "position":9,
       "hint":{
         "en":"Enter sender first name",
         "ru":"Enter sender first name",
@@ -453,9 +416,9 @@
         "ru":"Sender last name",
         "uk":"Sender last name"
       },
-      "regexp":"\/^.{1,255}\/$",
+      "regexp":"\/^.{1,255}$\/",
       "required":true,
-      "position":11,
+      "position":10,
       "hint":{
         "en":"Enter sender last name",
         "ru":"Enter sender last name",
@@ -471,9 +434,9 @@
         "ru":"Sender date of birth",
         "uk":"Sender date of birth"
       },
-      "regexp":"\/^([0-2][0-9]|(3)[0-1])(\/)(((0)[0-9])|((1)[0-2]))(\/)((19|20)[0-9][0-9])\/$",
+      "regexp":"\/^([0-2][0-9]|(3)[0-1])(\/)(((0)[0-9])|((1)[0-2]))(\/)((19|20)[0-9][0-9])$\/",
       "required":true,
-      "position":12,
+      "position":11,
       "hint":{
         "en":"Enter sender date of birth",
         "ru":"Enter sender date of birth",
@@ -482,7 +445,7 @@
       "example":"28\/01\/1998"
     }
   ],
-  "amount_min":"2.00",
+  "amount_min":"1.00",
   "amount_max":"14999.00"
 }
 ```  
