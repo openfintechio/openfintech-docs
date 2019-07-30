@@ -498,6 +498,12 @@
 </thead>
 <tbody>
 <tr>
+<td align="center"><code>beneficiary_payment_type</code></td>
+<td align="center">✔</td>
+<td align="center"><code>string</code></td>
+<td align="center"><code>/^.{1,255}</code></td>
+</tr>
+<tr>
 <td align="center"><code>beneficiary_address</code></td>
 <td align="center">✔</td>
 <td align="center"><code>string</code></td>
@@ -567,6 +573,22 @@
 </table>
 <h3 id="details">Details<a class="headerlink" href="#details" title="Permanent link">&para;</a></h3>
 <ol>
+<li>
+<p><strong><code>beneficiary_payment_type</code></strong> </p>
+<p>Type: <code>string</code> </p>
+<p>Regexp: <code>/^.{1,255}</code> </p>
+<p>Required: <code>1</code> </p>
+<dl>
+<dt>Label:</dt>
+<dd>[EN] Payment type </dd>
+<dd>[RU] Payment type </dd>
+<dd>[UK] Payment type </dd>
+<dt>Hint:</dt>
+<dd>[EN] Payment type </dd>
+<dd>[RU] Payment type </dd>
+<dd>[UK] Payment type </dd>
+</dl>
+</li>
 <li>
 <p><strong><code>beneficiary_address</code></strong> </p>
 <p>Type: <code>string</code> </p>
@@ -751,6 +773,24 @@
   <span class="nt">&quot;currency&quot;</span><span class="p">:</span><span class="s2">&quot;EUR&quot;</span><span class="p">,</span>
   <span class="nt">&quot;fields&quot;</span><span class="p">:[</span>
     <span class="p">{</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;beneficiary_payment_type&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Payment type&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;Payment type&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;Payment type&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^.{1,255}&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span>
+      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Payment type&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;Payment type&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;Payment type&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;100000000393#10&quot;</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
       <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;beneficiary_address&quot;</span><span class="p">,</span>
       <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
       <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
@@ -760,7 +800,7 @@
       <span class="p">},</span>
       <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^.{1,255}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
-      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">2</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
         <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter address&quot;</span><span class="p">,</span>
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;Enter address&quot;</span><span class="p">,</span>
@@ -778,7 +818,7 @@
       <span class="p">},</span>
       <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^.{1,255}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
-      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">2</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
         <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter city&quot;</span><span class="p">,</span>
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;Enter city&quot;</span><span class="p">,</span>
@@ -796,7 +836,7 @@
       <span class="p">},</span>
       <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^.{1,255}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
-      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
         <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter first name&quot;</span><span class="p">,</span>
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;Enter first name&quot;</span><span class="p">,</span>
@@ -814,7 +854,7 @@
       <span class="p">},</span>
       <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^.{1,255}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
-      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">5</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
         <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter last name&quot;</span><span class="p">,</span>
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;Enter last name&quot;</span><span class="p">,</span>
@@ -832,7 +872,7 @@
       <span class="p">},</span>
       <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^\\d{1,17}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
-      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">5</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">6</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
         <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter account number&quot;</span><span class="p">,</span>
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;Enter account number&quot;</span><span class="p">,</span>
@@ -850,7 +890,7 @@
       <span class="p">},</span>
       <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[0-9A-Z]{8}$\/|\/^[0-9A-Z]{11}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
-      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">6</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">7</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
         <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter bic swift&quot;</span><span class="p">,</span>
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;Enter bic swift&quot;</span><span class="p">,</span>
@@ -868,7 +908,7 @@
       <span class="p">},</span>
       <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^.{1,255}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
-      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">7</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">8</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
         <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter sender city&quot;</span><span class="p">,</span>
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;Enter sender city&quot;</span><span class="p">,</span>
@@ -886,7 +926,7 @@
       <span class="p">},</span>
       <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^.{1,255}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
-      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">8</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">9</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
         <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter sender address&quot;</span><span class="p">,</span>
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;Enter sender address&quot;</span><span class="p">,</span>
@@ -904,7 +944,7 @@
       <span class="p">},</span>
       <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^.{1,255}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
-      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">9</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">10</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
         <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter sender first name&quot;</span><span class="p">,</span>
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;Enter sender first name&quot;</span><span class="p">,</span>
@@ -922,7 +962,7 @@
       <span class="p">},</span>
       <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^.{1,255}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
-      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">10</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">11</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
         <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter sender last name&quot;</span><span class="p">,</span>
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;Enter sender last name&quot;</span><span class="p">,</span>
@@ -940,7 +980,7 @@
       <span class="p">},</span>
       <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^([0-2][0-9]|(3)[0-1])(\/)(((0)[0-9])|((1)[0-2]))(\/)((19|20)[0-9][0-9])$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
-      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">11</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">12</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
         <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter sender date of birth&quot;</span><span class="p">,</span>
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;Enter sender date of birth&quot;</span><span class="p">,</span>
