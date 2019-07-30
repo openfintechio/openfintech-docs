@@ -24,17 +24,17 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`beneficiary_payment_type`|✔|`string`|`/^.{1,255}`| 
-|`beneficiary_address`|✔|`string`|`/^.{1,255}`| 
-|`beneficiary_city`|✔|`string`|`/^.{1,255}`| 
-|`beneficiary_first_name`|✔|`string`|`/^.{1,255}`| 
-|`beneficiary_last_name`|✔|`string`|`/^.{1,255}`| 
+|`beneficiary_payment_type`|✔|`string`|`/^.{1,255}/$`| 
+|`beneficiary_address`|✔|`string`|`/^.{1,255}/$`| 
+|`beneficiary_city`|✔|`string`|`/^.{1,255}/$`| 
+|`beneficiary_first_name`|✔|`string`|`/^.{1,255}/$`| 
+|`beneficiary_last_name`|✔|`string`|`/^.{1,255}/$`| 
 |`beneficiary_account_number`|✔|`string`|`/^\d{1,17}/$`| 
 |`beneficiary_bic_swift`|✔|`string`|`/^[0-9A-Z]{8}/$\|/^[0-9A-Z]{11}/$`| 
-|`sender_city`|✔|`string`|`/^.{1,255}`| 
-|`sender_address`|✔|`string`|`/^.{1,255}`| 
-|`sender_first_name`|✔|`string`|`/^.{1,255}`| 
-|`sender_last_name`|✔|`string`|`/^.{1,255}`| 
+|`sender_city`|✔|`string`|`/^.{1,255}/$`| 
+|`sender_address`|✔|`string`|`/^.{1,255}/$`| 
+|`sender_first_name`|✔|`string`|`/^.{1,255}/$`| 
+|`sender_last_name`|✔|`string`|`/^.{1,255}/$`| 
 |`sender_date_of_birth`|✔|`string`|`/^([0-2][0-9]\|(3)[0-1])(/)(((0)[0-9])\|((1)[0-2]))(/)((19\|20)[0-9][0-9])/$`| 
  
 
@@ -44,7 +44,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^.{1,255}` 
+	Regexp: `/^.{1,255}/$` 
  
 	Required: `1` 
  
@@ -62,7 +62,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^.{1,255}` 
+	Regexp: `/^.{1,255}/$` 
  
 	Required: `1` 
  
@@ -80,7 +80,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^.{1,255}` 
+	Regexp: `/^.{1,255}/$` 
  
 	Required: `1` 
  
@@ -98,7 +98,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^.{1,255}` 
+	Regexp: `/^.{1,255}/$` 
  
 	Required: `1` 
  
@@ -116,7 +116,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^.{1,255}` 
+	Regexp: `/^.{1,255}/$` 
  
 	Required: `1` 
  
@@ -170,7 +170,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^.{1,255}` 
+	Regexp: `/^.{1,255}/$` 
  
 	Required: `1` 
  
@@ -188,7 +188,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^.{1,255}` 
+	Regexp: `/^.{1,255}/$` 
  
 	Required: `1` 
  
@@ -206,7 +206,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^.{1,255}` 
+	Regexp: `/^.{1,255}/$` 
  
 	Required: `1` 
  
@@ -224,7 +224,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^.{1,255}` 
+	Regexp: `/^.{1,255}/$` 
  
 	Required: `1` 
  
@@ -273,7 +273,7 @@
         "ru":"Payment type",
         "uk":"Payment type"
       },
-      "regexp":"\/^.{1,255}",
+      "regexp":"\/^.{1,255}\/$",
       "required":true,
       "position":1,
       "hint":{
@@ -291,7 +291,7 @@
         "ru":"Address",
         "uk":"Address"
       },
-      "regexp":"\/^.{1,255}",
+      "regexp":"\/^.{1,255}\/$",
       "required":true,
       "position":2,
       "hint":{
@@ -309,7 +309,7 @@
         "ru":"City",
         "uk":"City"
       },
-      "regexp":"\/^.{1,255}",
+      "regexp":"\/^.{1,255}\/$",
       "required":true,
       "position":3,
       "hint":{
@@ -327,7 +327,7 @@
         "ru":"First name",
         "uk":"First name"
       },
-      "regexp":"\/^.{1,255}",
+      "regexp":"\/^.{1,255}\/$",
       "required":true,
       "position":4,
       "hint":{
@@ -345,7 +345,7 @@
         "ru":"Last name",
         "uk":"Last name"
       },
-      "regexp":"\/^.{1,255}",
+      "regexp":"\/^.{1,255}\/$",
       "required":true,
       "position":5,
       "hint":{
@@ -399,7 +399,7 @@
         "ru":"Sender city",
         "uk":"Sender city"
       },
-      "regexp":"\/^.{1,255}",
+      "regexp":"\/^.{1,255}\/$",
       "required":true,
       "position":8,
       "hint":{
@@ -417,7 +417,7 @@
         "ru":"Sender address",
         "uk":"Sender address"
       },
-      "regexp":"\/^.{1,255}",
+      "regexp":"\/^.{1,255}\/$",
       "required":true,
       "position":9,
       "hint":{
@@ -435,7 +435,7 @@
         "ru":"Sender first name",
         "uk":"Sender first name"
       },
-      "regexp":"\/^.{1,255}",
+      "regexp":"\/^.{1,255}\/$",
       "required":true,
       "position":10,
       "hint":{
@@ -453,7 +453,7 @@
         "ru":"Sender last name",
         "uk":"Sender last name"
       },
-      "regexp":"\/^.{1,255}",
+      "regexp":"\/^.{1,255}\/$",
       "required":true,
       "position":11,
       "hint":{
