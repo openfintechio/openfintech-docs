@@ -30,12 +30,12 @@
 |`beneficiary_first_name`|✔|`string`|`/^.{1,255}$/`| 
 |`beneficiary_last_name`|✔|`string`|`/^.{1,255}$/`| 
 |`beneficiary_account_number`|✔|`string`|`/^\d{1,17}$/`| 
-|`beneficiary_bic_swift`|✔|`string`|`/^[0-9A-Z]{8}$/\|/^[0-9A-Z]{11}$/`| 
+|`beneficiary_bic_swift`|✔|`string`|`/^[0-9A-Z]{8}$\|^[0-9A-Z]{11}$/`| 
 |`sender_city`|✔|`string`|`/^.{1,255}$/`| 
 |`sender_address`|✔|`string`|`/^.{1,255}$/`| 
 |`sender_first_name`|✔|`string`|`/^.{1,255}$/`| 
 |`sender_last_name`|✔|`string`|`/^.{1,255}$/`| 
-|`sender_date_of_birth`|✔|`string`|`/^([0-2][0-9]\|(3)[0-1])(/)(((0)[0-9])\|((1)[0-2]))(/)((19\|20)[0-9][0-9])$/`| 
+|`sender_date_of_birth`|✔|`string`|`/^(0[1-9]\|[12][0-9]\|3[01])[- \/.](0[1-9]\|1[012])[- \/.](19\|20)\d\d$/`| 
  
 
 ### Details 
@@ -152,7 +152,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9A-Z]{8}$/|/^[0-9A-Z]{11}$/` 
+	Regexp: `/^[0-9A-Z]{8}$|^[0-9A-Z]{11}$/` 
  
 	Required: `1` 
  
@@ -242,7 +242,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^([0-2][0-9]|(3)[0-1])(/)(((0)[0-9])|((1)[0-2]))(/)((19|20)[0-9][0-9])$/` 
+	Regexp: `/^(0[1-9]|[12][0-9]|3[01])[- \/.](0[1-9]|1[012])[- \/.](19|20)\d\d$/` 
  
 	Required: `1` 
  
@@ -381,7 +381,7 @@
         "ru":"Bic swift",
         "uk":"Bic swift"
       },
-      "regexp":"\/^[0-9A-Z]{8}$\/|\/^[0-9A-Z]{11}$\/",
+      "regexp":"\/^[0-9A-Z]{8}$|^[0-9A-Z]{11}$\/",
       "required":true,
       "position":7,
       "hint":{
@@ -471,7 +471,7 @@
         "ru":"Sender date of birth",
         "uk":"Sender date of birth"
       },
-      "regexp":"\/^([0-2][0-9]|(3)[0-1])(\/)(((0)[0-9])|((1)[0-2]))(\/)((19|20)[0-9][0-9])$\/",
+      "regexp":"\/^(0[1-9]|[12][0-9]|3[01])[- \\\/.](0[1-9]|1[012])[- \\\/.](19|20)\\d\\d$\/",
       "required":true,
       "position":12,
       "hint":{
