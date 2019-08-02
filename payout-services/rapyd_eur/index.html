@@ -537,7 +537,7 @@
 <td align="center"><code>beneficiary_bic_swift</code></td>
 <td align="center">✔</td>
 <td align="center"><code>string</code></td>
-<td align="center"><code>/^[0-9A-Z]{8}$/\|/^[0-9A-Z]{11}$/</code></td>
+<td align="center"><code>/^[0-9A-Z]{8}$\|^[0-9A-Z]{11}$/</code></td>
 </tr>
 <tr>
 <td align="center"><code>sender_city</code></td>
@@ -567,7 +567,7 @@
 <td align="center"><code>sender_date_of_birth</code></td>
 <td align="center">✔</td>
 <td align="center"><code>string</code></td>
-<td align="center"><code>/^([0-2][0-9]\|(3)[0-1])(/)(((0)[0-9])\|((1)[0-2]))(/)((19\|20)[0-9][0-9])$/</code></td>
+<td align="center"><code>/^(0[1-9]\|[12][0-9]\|3[01])[- \/.](0[1-9]\|1[012])[- \/.](19\|20)\d\d$/</code></td>
 </tr>
 </tbody>
 </table>
@@ -672,7 +672,7 @@
 <li>
 <p><strong><code>beneficiary_bic_swift</code></strong> </p>
 <p>Type: <code>string</code> </p>
-<p>Regexp: <code>/^[0-9A-Z]{8}$/|/^[0-9A-Z]{11}$/</code> </p>
+<p>Regexp: <code>/^[0-9A-Z]{8}$|^[0-9A-Z]{11}$/</code> </p>
 <p>Required: <code>1</code> </p>
 <dl>
 <dt>Label:</dt>
@@ -752,7 +752,7 @@
 <li>
 <p><strong><code>sender_date_of_birth</code></strong> </p>
 <p>Type: <code>string</code> </p>
-<p>Regexp: <code>/^([0-2][0-9]|(3)[0-1])(/)(((0)[0-9])|((1)[0-2]))(/)((19|20)[0-9][0-9])$/</code> </p>
+<p>Regexp: <code>/^(0[1-9]|[12][0-9]|3[01])[- \/.](0[1-9]|1[012])[- \/.](19|20)\d\d$/</code> </p>
 <p>Required: <code>1</code> </p>
 <dl>
 <dt>Label:</dt>
@@ -888,7 +888,7 @@
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;Bic swift&quot;</span><span class="p">,</span>
         <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;Bic swift&quot;</span>
       <span class="p">},</span>
-      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[0-9A-Z]{8}$\/|\/^[0-9A-Z]{11}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[0-9A-Z]{8}$|^[0-9A-Z]{11}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
       <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">7</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
@@ -978,7 +978,7 @@
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;Sender date of birth&quot;</span><span class="p">,</span>
         <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;Sender date of birth&quot;</span>
       <span class="p">},</span>
-      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^([0-2][0-9]|(3)[0-1])(\/)(((0)[0-9])|((1)[0-2]))(\/)((19|20)[0-9][0-9])$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^(0[1-9]|[12][0-9]|3[01])[- \\\/.](0[1-9]|1[012])[- \\\/.](19|20)\\d\\d$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
       <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">12</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
