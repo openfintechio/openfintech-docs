@@ -501,7 +501,7 @@
 <td align="center"><code>beneficiary_payment_type</code></td>
 <td align="center">✔</td>
 <td align="center"><code>string</code></td>
-<td align="center"><code>/^.{1,255}</code></td>
+<td align="center"><code>/^.{1,255}$/</code></td>
 </tr>
 <tr>
 <td align="center"><code>beneficiary_address</code></td>
@@ -576,7 +576,7 @@
 <li>
 <p><strong><code>beneficiary_payment_type</code></strong> </p>
 <p>Type: <code>string</code> </p>
-<p>Regexp: <code>/^.{1,255}</code> </p>
+<p>Regexp: <code>/^.{1,255}$/</code> </p>
 <p>Required: <code>1</code> </p>
 <dl>
 <dt>Label:</dt>
@@ -780,7 +780,7 @@
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;Payment type&quot;</span><span class="p">,</span>
         <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;Payment type&quot;</span>
       <span class="p">},</span>
-      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^.{1,255}&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^.{1,255}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
       <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
