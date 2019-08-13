@@ -23,6 +23,7 @@
 |![acapture](https://static.openfintech.io/payment_providers/acapture/logo.png?w=600&c=v0.59.26#w100) |[**Acapture**](acapture/)|`acapture`| 
 |![accentpay](https://static.openfintech.io/payment_providers/accentpay/logo.png?w=600&c=v0.59.26#w100) |[**Accentpay**](accentpay/)|`accentpay`| 
 |![acceptance](https://static.openfintech.io/payment_providers/acceptance/logo.svg?w=600&c=v0.59.26#w100) |[**Acceptance**](acceptance/)|`acceptance`| 
+|![adgroup](https://static.openfintech.io/payment_providers/adgroup/logo.svg?w=600&c=v0.59.26#w100) |[**ADgroup**](adgroup/)|`adgroup`| 
 |![admerispaymentsystems](https://static.openfintech.io/payment_providers/admerispaymentsystems/logo.svg?w=600&c=v0.59.26#w100) |[**Admeris Payment Systems**](admerispaymentsystems/)|`admerispaymentsystems`| 
 |![aduno](https://static.openfintech.io/payment_providers/aduno/logo.png?w=600&c=v0.59.26#w100) |[**Aduno**](aduno/)|`aduno`| 
 |![advcash](https://static.openfintech.io/payment_providers/advcash/logo.svg?w=600&c=v0.59.26#w100) |[**AdvCash**](advcash/)|`advcash`| 

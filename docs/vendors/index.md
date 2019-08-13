@@ -52,6 +52,7 @@
 |![acceptgiro](https://static.openfintech.io/vendors/acceptgiro/logo.png?w=600&c=v0.59.26#w200) |[**Acceptgiro**](acceptgiro/)|`acceptgiro`| 
 |![account2account](https://static.openfintech.io/vendors/account2account/logo.png?w=600&c=v0.59.26#w200) |[**account2account**](account2account/)|`account2account`| 
 |![addwm](https://static.openfintech.io/vendors/addwm/logo.svg?w=600&c=v0.59.26#w200) |[**addwm.com**](addwm/)|`addwm`| 
+|![adgroup](https://static.openfintech.io/vendors/adgroup/logo.svg?w=600&c=v0.59.26#w200) |[**ADgroup**](adgroup/)|`adgroup`| 
 |![admerispaymentsystems](https://static.openfintech.io/vendors/admerispaymentsystems/logo.png?w=600&c=v0.59.26#w200) |[**Admeris Payment Systems**](admerispaymentsystems/)|`admerispaymentsystems`| 
 |![aduno](https://static.openfintech.io/vendors/aduno/logo.png?w=600&c=v0.59.26#w200) |[**Aduno**](aduno/)|`aduno`| 
 |![advanced_cash](https://static.openfintech.io/vendors/advanced_cash/logo.svg?w=600&c=v0.59.26#w200) |[**Advanced Cash**](advanced_cash/)|`advanced_cash`| 
