@@ -17,7 +17,7 @@
 :	[RU] Платежная карта 
 :	[UK] Платіжна карта 
  
-**Amount limits:** from `0.01` to `100000` RUB 
+**Amount limits:** from `0.01` to `1000000` RUB 
 
 ## JSON Object 
 
@@ -29,6 +29,6 @@
   "currency":"RUB",
   "fields":null,
   "amount_min":0.01,
-  "amount_max":100000
+  "amount_max":1000000
 }
 ```  

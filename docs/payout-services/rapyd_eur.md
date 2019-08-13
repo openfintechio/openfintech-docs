@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`beneficiary_payment_type`|✔|`string`|`/^.{1,255}`| 
+|`beneficiary_payment_type`|✔|`string`|`/^.{1,255}$/`| 
 |`beneficiary_address`|✔|`string`|`/^.{1,255}$/`| 
 |`beneficiary_city`|✔|`string`|`/^.{1,255}$/`| 
 |`beneficiary_first_name`|✔|`string`|`/^.{1,255}$/`| 
@@ -44,7 +44,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^.{1,255}` 
+	Regexp: `/^.{1,255}$/` 
  
 	Required: `1` 
  
@@ -273,7 +273,7 @@
         "ru":"Payment type",
         "uk":"Payment type"
       },
-      "regexp":"\/^.{1,255}",
+      "regexp":"\/^.{1,255}$\/",
       "required":true,
       "position":1,
       "hint":{

@@ -17,7 +17,7 @@
 :	[RU] Платежная карта 
 :	[UK] Платіжна карта 
  
-**Amount limits:** from `0.01` to `100000` TRY 
+**Amount limits:** from `0.01` to `500000` TRY 
 
 ## JSON Object 
 
@@ -29,6 +29,6 @@
   "currency":"TRY",
   "fields":null,
   "amount_min":0.01,
-  "amount_max":100000
+  "amount_max":500000
 }
 ```  

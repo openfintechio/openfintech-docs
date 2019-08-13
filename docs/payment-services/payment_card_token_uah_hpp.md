@@ -17,7 +17,7 @@
 :	[RU] Платежная карта по токену 
 :	[UK] Платіжна карта по токену 
  
-**Amount limits:** from `0.01` to `100000` UAH 
+**Amount limits:** from `0.01` to `1000000` UAH 
 
 ## Fields 
 
@@ -77,6 +77,6 @@
     }
   ],
   "amount_min":0.01,
-  "amount_max":100000
+  "amount_max":1000000
 }
 ```  
