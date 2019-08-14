@@ -443,6 +443,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#payment-methods" title="Payment Methods" class="md-nav__link">
+    Payment Methods
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#json-object" title="JSON Object" class="md-nav__link">
     JSON Object
   </a>
@@ -476,6 +483,10 @@
 <dd>
 <p>[EN] CardPay </p>
 </dd>
+<dt><strong>Countries:</strong> </dt>
+<dd>
+<p><img alt="UA" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ua.svg#w24" />  <img alt="RU" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ru.svg#w24" />  </p>
+</dd>
 </dl>
 <h2 id="images">Images<a class="headerlink" href="#images" title="Permanent link">&para;</a></h2>
 <h3 id="logo">Logo<a class="headerlink" href="#logo" title="Permanent link">&para;</a></h3>
@@ -488,14 +499,43 @@
 <div class="codehilite"><pre><span></span>https://static.openfintech.io/payment_providers/cardpay/icon.svg?w=278&amp;c=v0.59.26#w100
 </pre></div>
 
+<h2 id="payment-methods">Payment Methods<a class="headerlink" href="#payment-methods" title="Permanent link">&para;</a></h2>
+<p>The list of supported <a href="/payment-methods/">Payment Methods</a> </p>
+<table>
+<thead>
+<tr>
+<th align="center">Icon</th>
+<th align="center">Name</th>
+<th align="center">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img alt="payment_card" src="https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&amp;c=v0.59.26#w100" /></td>
+<td align="center"><a href="/payment-methods/payment_card/">payment_card</a></td>
+<td align="center"><code>payment_card</code></td>
+</tr>
+<tr>
+<td align="center"><img alt="payment_card_email" src="https://static.openfintech.io/payment_methods/payment_card_email/icon.svg?w=278&amp;c=v0.59.26#w100" /></td>
+<td align="center"><a href="/payment-methods/payment_card_email/">payment_card_email</a></td>
+<td align="center"><code>payment_card_email</code></td>
+</tr>
+</tbody>
+</table>
 <h2 id="json-object">JSON Object<a class="headerlink" href="#json-object" title="Permanent link">&para;</a></h2>
 <div class="codehilite"><pre><span></span><span class="p">{</span>
   <span class="nt">&quot;code&quot;</span><span class="p">:</span><span class="s2">&quot;cardpay&quot;</span><span class="p">,</span>
   <span class="nt">&quot;description&quot;</span><span class="p">:</span><span class="kc">null</span><span class="p">,</span>
   <span class="nt">&quot;vendor&quot;</span><span class="p">:</span><span class="s2">&quot;cardpay&quot;</span><span class="p">,</span>
   <span class="nt">&quot;categories&quot;</span><span class="p">:</span><span class="kc">null</span><span class="p">,</span>
-  <span class="nt">&quot;countries&quot;</span><span class="p">:</span><span class="kc">null</span><span class="p">,</span>
-  <span class="nt">&quot;payment_method&quot;</span><span class="p">:</span><span class="kc">null</span><span class="p">,</span>
+  <span class="nt">&quot;countries&quot;</span><span class="p">:[</span>
+    <span class="s2">&quot;UA&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;RU&quot;</span>
+  <span class="p">],</span>
+  <span class="nt">&quot;payment_method&quot;</span><span class="p">:[</span>
+    <span class="s2">&quot;payment_card&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;payment_card_email&quot;</span>
+  <span class="p">],</span>
   <span class="nt">&quot;payout_method&quot;</span><span class="p">:</span><span class="kc">null</span><span class="p">,</span>
   <span class="nt">&quot;metadata&quot;</span><span class="p">:{</span>
     <span class="nt">&quot;about_payments_code&quot;</span><span class="p">:</span><span class="s2">&quot;cardpay&quot;</span>
