@@ -52,6 +52,15 @@ The list of [Payout Services](/payout-services/) based on the _SWIFT_
 |![swift](https://static.openfintech.io/payout_methods/swift/icon.svg?w=278&c=v0.59.26#w40) |[swift_kzt](/payout-services/swift_kzt/)|`swift_kzt`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _SWIFT_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![manual](https://static.openfintech.io/payment_providers/manual/icon.svg?w=278&c=v0.59.26#w100) |[Manual](/payment-providers/manual/)|`manual`| 
+ 
+
 ## JSON Object 
 
 ```json

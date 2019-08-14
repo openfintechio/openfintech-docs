@@ -41,6 +41,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![yandexmoney](https://static.openfintech.io/payment_methods/yandexmoney/icon.svg?w=278&c=v0.59.26#w100) |[yandexmoney](/payment-methods/yandexmoney/)|`yandexmoney`| 
 |![alfaclick](https://static.openfintech.io/payment_methods/alfaclick/icon.png?w=278&c=v0.59.26#w100) |[alfaclick](/payment-methods/alfaclick/)|`alfaclick`| 
 |![smsbilling](https://static.openfintech.io/payment_methods/smsbilling/icon.png?w=278&c=v0.59.26#w100) |[smsbilling](/payment-methods/smsbilling/)|`smsbilling`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
  
 
 ## JSON Object 
@@ -56,7 +57,8 @@ The list of supported [Payment Methods](/payment-methods/)
     "qiwi",
     "yandexmoney",
     "alfaclick",
-    "smsbilling"
+    "smsbilling",
+    "payment_card"
   ],
   "payout_method":null,
   "metadata":null,
