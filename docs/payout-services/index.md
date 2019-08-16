@@ -206,6 +206,7 @@
 |![DKC (Zhytomyr)](https://static.openfintech.io/payout_methods/dkc-zhitomir/logo.png?w=400&c=v0.59.26#w24) |[**DKC (Zhytomyr)**](/payout-methods/dkc-zhitomir/)|[`dkc-zhitomir_uah`](dkc-zhitomir_uah/)|`UAH`| 
 |![DkLan](https://static.openfintech.io/payout_methods/dklan/logo.png?w=400&c=v0.59.26#w24) |[**DkLan**](/payout-methods/dklan/)|[`dklan_uah`](dklan_uah/)|`UAH`| 
 |![dlocal](https://static.openfintech.io/payout_methods/dlocal/logo.svg?w=400&c=v0.59.26#w24) |[**dlocal**](/payout-methods/dlocal/)|[`dlocal_ar_ars`](dlocal_ar_ars/)|`ARS`| 
+|![dlocal](https://static.openfintech.io/payout_methods/dlocal/logo.svg?w=400&c=v0.59.26#w24) |[**dlocal**](/payout-methods/dlocal/)|[`dlocal_br_brl`](dlocal_br_brl/)|`BRL`| 
 |![dlocal](https://static.openfintech.io/payout_methods/dlocal/logo.svg?w=400&c=v0.59.26#w24) |[**dlocal**](/payout-methods/dlocal/)|[`dlocal_cl_clp`](dlocal_cl_clp/)|`CLP`| 
 |![dlocal](https://static.openfintech.io/payout_methods/dlocal/logo.svg?w=400&c=v0.59.26#w24) |[**dlocal**](/payout-methods/dlocal/)|[`dlocal_co_cop`](dlocal_co_cop/)|`COP`| 
 |![dlocal](https://static.openfintech.io/payout_methods/dlocal/logo.svg?w=400&c=v0.59.26#w24) |[**dlocal**](/payout-methods/dlocal/)|[`dlocal_mx_mxn`](dlocal_mx_mxn/)|`MXN`| 
