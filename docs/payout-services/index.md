@@ -924,6 +924,7 @@
 |![PSTS](https://static.openfintech.io/payout_methods/psts/logo.png?w=400&c=v0.59.26#w24) |[**PSTS**](/payout-methods/psts/)|[`psts_uah`](psts_uah/)|`UAH`| 
 ||| **Q** ||
 |![Qiwi](https://static.openfintech.io/payout_methods/qiwi/logo.svg?w=400&c=v0.59.26#w24) |[**Qiwi**](/payout-methods/qiwi/)|[`qiwi_eur`](qiwi_eur/)|`EUR`| 
+|![Qiwi](https://static.openfintech.io/payout_methods/qiwi/logo.svg?w=400&c=v0.59.26#w24) |[**Qiwi**](/payout-methods/qiwi/)|[`qiwi_kzt`](qiwi_kzt/)|`KZT`| 
 |![Qiwi](https://static.openfintech.io/payout_methods/qiwi/logo.svg?w=400&c=v0.59.26#w24) |[**Qiwi**](/payout-methods/qiwi/)|[`qiwi_rub`](qiwi_rub/)|`RUB`| 
 |![Qiwi](https://static.openfintech.io/payout_methods/qiwi/logo.svg?w=400&c=v0.59.26#w24) |[**Qiwi**](/payout-methods/qiwi/)|[`qiwi_uah`](qiwi_uah/)|`UAH`| 
 |![Qiwi](https://static.openfintech.io/payout_methods/qiwi/logo.svg?w=400&c=v0.59.26#w24) |[**Qiwi**](/payout-methods/qiwi/)|[`qiwi_usd`](qiwi_usd/)|`USD`| 

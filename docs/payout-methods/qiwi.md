@@ -40,6 +40,7 @@ The list of [Payout Services](/payout-services/) based on the _Qiwi_
 |![qiwi](https://static.openfintech.io/payout_methods/qiwi/icon.svg?w=278&c=v0.59.26#w40) |[qiwi_usd](/payout-services/qiwi_usd/)|`qiwi_usd`| 
 |![qiwi](https://static.openfintech.io/payout_methods/qiwi/icon.svg?w=278&c=v0.59.26#w40) |[qiwi_eur](/payout-services/qiwi_eur/)|`qiwi_eur`| 
 |![qiwi](https://static.openfintech.io/payout_methods/qiwi/icon.svg?w=278&c=v0.59.26#w40) |[qiwi_uah](/payout-services/qiwi_uah/)|`qiwi_uah`| 
+|![qiwi](https://static.openfintech.io/payout_methods/qiwi/icon.svg?w=278&c=v0.59.26#w40) |[qiwi_kzt](/payout-services/qiwi_kzt/)|`qiwi_kzt`| 
  
 
 ## Payment Providers 
