@@ -16,7 +16,7 @@
 :	[RU] Qiwi 
 :	[UK] Qiwi 
  
-**Amount limits:** from `10` to `14999` KZT 
+**Amount limits:** from `10` to `199999` KZT 
 
 ## Fields 
 
@@ -75,6 +75,6 @@
     }
   ],
   "amount_min":10,
-  "amount_max":14999
+  "amount_max":199999
 }
 ```  
