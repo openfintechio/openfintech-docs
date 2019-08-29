@@ -70,15 +70,6 @@ The list of supported [Payment Methods](/payment-methods/)
 |![astropayunion](https://static.openfintech.io/payment_methods/astropayunion/icon.svg?w=278&c=v0.59.26#w100) |[astropayunion](/payment-methods/astropayunion/)|`astropayunion`| 
  
 
-## Payout Methods 
- 
-The list of supported [Payout Methods](/payout-methods/) 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill](payout-methodsskrill/)|`skrill`| 
- 
-
 ## JSON Object 
 
 ```json
@@ -121,9 +112,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "astropaycash",
     "astropayunion"
   ],
-  "payout_method":[
-    "skrill"
-  ],
+  "payout_method":null,
   "metadata":{
     "about_payments_code":"skrill"
   },
