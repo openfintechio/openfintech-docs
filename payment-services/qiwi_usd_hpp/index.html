@@ -416,6 +416,33 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#fields" class="md-nav__link">
+    Fields
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    Overview
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#details" class="md-nav__link">
+    Details
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#json-object" class="md-nav__link">
     JSON Object
   </a>
@@ -459,13 +486,70 @@
 </dd>
 </dl>
 <p><strong>Amount limits:</strong> from <code>0.01</code> to <code>100000</code> USD </p>
+<h2 id="fields">Fields<a class="headerlink" href="#fields" title="Permanent link">&para;</a></h2>
+<h3 id="overview">Overview<a class="headerlink" href="#overview" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th align="center">Key</th>
+<th align="center">Required</th>
+<th align="center">Type</th>
+<th align="center">Regexp</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><code>phone</code></td>
+<td align="center">✔</td>
+<td align="center"><code>string</code></td>
+<td align="center"><code>/^\+(9[976]\d\|8[987530]\d\|6[987]\d\|5[90]\d\|42\d\|3[875]\d\|2[98654321]\d\|9[8543210]\|8[6421]\|6[6543210]\|5[87654321]\|4[987654310]\|3[9643210]\|2[70]\|7\|1)\d{9,14}$/</code></td>
+</tr>
+</tbody>
+</table>
+<h3 id="details">Details<a class="headerlink" href="#details" title="Permanent link">&para;</a></h3>
+<ol>
+<li>
+<p><strong><code>phone</code></strong> </p>
+<p>Type: <code>string</code> </p>
+<p>Regexp: <code>/^\+(9[976]\d|8[987530]\d|6[987]\d|5[90]\d|42\d|3[875]\d|2[98654321]\d|9[8543210]|8[6421]|6[6543210]|5[87654321]|4[987654310]|3[9643210]|2[70]|7|1)\d{9,14}$/</code> </p>
+<p>Required: <code>1</code> </p>
+<dl>
+<dt>Label:</dt>
+<dd>[EN] Phone number </dd>
+<dd>[RU] Номер телефона </dd>
+<dd>[UK] Номер телефону </dd>
+<dt>Hint:</dt>
+<dd>[EN] Enter phone number </dd>
+<dd>[RU] Введите номер телефона </dd>
+<dd>[UK] Введіть номер телефону </dd>
+</dl>
+</li>
+</ol>
 <h2 id="json-object">JSON Object<a class="headerlink" href="#json-object" title="Permanent link">&para;</a></h2>
 <div class="codehilite"><pre><span></span><span class="p">{</span>
   <span class="nt">&quot;code&quot;</span><span class="p">:</span><span class="s2">&quot;qiwi_usd_hpp&quot;</span><span class="p">,</span>
   <span class="nt">&quot;flow&quot;</span><span class="p">:</span><span class="s2">&quot;hpp&quot;</span><span class="p">,</span>
   <span class="nt">&quot;method&quot;</span><span class="p">:</span><span class="s2">&quot;qiwi&quot;</span><span class="p">,</span>
   <span class="nt">&quot;currency&quot;</span><span class="p">:</span><span class="s2">&quot;USD&quot;</span><span class="p">,</span>
-  <span class="nt">&quot;fields&quot;</span><span class="p">:</span><span class="kc">null</span><span class="p">,</span>
+  <span class="nt">&quot;fields&quot;</span><span class="p">:[</span>
+    <span class="p">{</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;phone&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Phone number&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter phone number&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^\\+(9[976]\\d|8[987530]\\d|6[987]\\d|5[90]\\d|42\\d|3[875]\\d|2[98654321]\\d|9[8543210]|8[6421]|6[6543210]|5[87654321]|4[987654310]|3[9643210]|2[70]|7|1)\\d{9,14}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">1</span>
+    <span class="p">}</span>
+  <span class="p">],</span>
   <span class="nt">&quot;amount_min&quot;</span><span class="p">:</span><span class="mf">0.01</span><span class="p">,</span>
   <span class="nt">&quot;amount_max&quot;</span><span class="p">:</span><span class="mi">100000</span>
 <span class="p">}</span>
