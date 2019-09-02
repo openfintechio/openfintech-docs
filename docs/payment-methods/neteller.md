@@ -41,6 +41,7 @@ The list of [Payment Services](/payment-services/) based on the _NETELLER_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_eur_hpp](/payment-services/neteller_eur_hpp/)|`neteller_eur_hpp`| 
+|![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_usd_hpp](/payment-services/neteller_usd_hpp/)|`neteller_usd_hpp`| 
  
 
 ## Payment Providers 
