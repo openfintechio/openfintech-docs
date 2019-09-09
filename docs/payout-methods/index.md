@@ -747,6 +747,7 @@
 |![monastyrishchenskii-res](https://static.openfintech.io/payout_methods/monastyrishchenskii-res/logo.png?w=400&c=v0.59.26#w24) |[**Monastyrishchensky RES**](monastyrishchenskii-res/)|`monastyrishchenskii-res`| 
 |![moneyveo](https://static.openfintech.io/payout_methods/moneyveo/logo.png?w=400&c=v0.59.26#w24) |[**MoneyVeo**](moneyveo/)|`moneyveo`| 
 |![monolit-net-borispol](https://static.openfintech.io/payout_methods/monolit-net-borispol/logo.png?w=400&c=v0.59.26#w24) |[**Monolit.net (Boryspil)**](monolit-net-borispol/)|`monolit-net-borispol`| 
+|![mpesa_wallet](https://static.openfintech.io/payout_methods/mpesa_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**Mpesa**](mpesa_wallet/)|`mpesa_wallet`| 
 |![msl-derzhavni-lotereyi](https://static.openfintech.io/payout_methods/msl-derzhavni-lotereyi/logo.svg?w=400&c=v0.59.26#w24) |[**MSL - state lottery**](msl-derzhavni-lotereyi/)|`msl-derzhavni-lotereyi`| 
 |![mtk-net-chernovtsy](https://static.openfintech.io/payout_methods/mtk-net-chernovtsy/logo.png?w=400&c=v0.59.26#w24) |[**MTK NO (Chernivtsi)**](mtk-net-chernovtsy/)|`mtk-net-chernovtsy`| 
 |![mtm](https://static.openfintech.io/payout_methods/mtm/logo.png?w=400&c=v0.59.26#w24) |[**MTM**](mtm/)|`mtm`| 
