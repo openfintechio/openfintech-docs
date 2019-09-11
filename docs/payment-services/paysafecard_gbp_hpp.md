@@ -9,13 +9,13 @@
 **Method:** `paysafecard` 
  [show -->](/payment-methods/paysafecard/) 
  
-**Currency:** `GBP` [show -->](/currencies/GBP/) 
+**Currency:** `GPB` [show -->](/currencies/GPB/) 
  
 **Name:** 
  
 :	[EN] Paysafecard 
  
-**Amount limits:** from `0.01` to `100000` GBP 
+**Amount limits:** from `0.01` to `999999` GPB 
 
 ## JSON Object 
 
@@ -24,9 +24,9 @@
   "code":"paysafecard_gbp_hpp",
   "flow":"hpp",
   "method":"paysafecard",
-  "currency":"GBP",
+  "currency":"GPB",
   "fields":null,
   "amount_min":0.01,
-  "amount_max":100000
+  "amount_max":999999
 }
 ```  
