@@ -572,7 +572,7 @@
 |![trustpayglobal](https://static.openfintech.io/payment_providers/trustpayglobal/logo.png?w=600&c=v0.59.26#w100) |[**ILIXIUM**](trustpayglobal/)|`trustpayglobal`| 
 |![txtnation](https://static.openfintech.io/payment_providers/txtnation/logo.png?w=600&c=v0.59.26#w100) |[**txtNation**](txtnation/)|`txtnation`| 
 || **U** ||
-|![uapay](https://static.openfintech.io/payment_providers/uapay/logo.png?w=600&c=v0.59.26#w100) |[**UApay**](uapay/)|`uapay`| 
+|![uapay](https://static.openfintech.io/payment_providers/uapay/logo.svg?w=600&c=v0.59.26#w100) |[**UApay**](uapay/)|`uapay`| 
 |![ugspaycom](https://static.openfintech.io/payment_providers/ugspaycom/logo.png?w=600&c=v0.59.26#w100) |[**UGSPay**](ugspaycom/)|`ugspaycom`| 
 |![uniteller](https://static.openfintech.io/payment_providers/uniteller/logo.png?w=600&c=v0.59.26#w100) |[**Uniteller**](uniteller/)|`uniteller`| 
 |![universepay](https://static.openfintech.io/payment_providers/universepay/logo.png?w=600&c=v0.59.26#w100) |[**UniversePay**](universepay/)|`universepay`| 

@@ -16,7 +16,7 @@
 :	[RU] Parimatch Account 
 :	[UK] Parimatch Account 
  
-**Amount limits:** from `1` to `14900` UAH 
+**Amount limits:** from `1` to `14999` UAH 
 
 ## Fields 
 
@@ -75,6 +75,6 @@
     }
   ],
   "amount_min":1,
-  "amount_max":14900
+  "amount_max":14999
 }
 ```  

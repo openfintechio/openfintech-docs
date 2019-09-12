@@ -14,7 +14,7 @@
  
 :	[EN] AdvCash 
  
-**Amount limits:** from `0.01` to `14900` UAH 
+**Amount limits:** from `0.01` to `14999` UAH 
 
 ## Fields 
 
@@ -73,6 +73,6 @@
     }
   ],
   "amount_min":0.01,
-  "amount_max":14900
+  "amount_max":14999
 }
 ```  
