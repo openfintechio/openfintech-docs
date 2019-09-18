@@ -317,7 +317,7 @@
 |![maxpay](https://static.openfintech.io/payment_providers/maxpay/logo.svg?w=600&c=v0.59.26#w100) |[**Maxpay**](maxpay/)|`maxpay`| 
 |![meikopay](https://static.openfintech.io/payment_providers/meikopay/logo.png?w=600&c=v0.59.26#w100) |[**Meikopay**](meikopay/)|`meikopay`| 
 |![merchantscout](https://static.openfintech.io/payment_providers/merchantscout/logo.png?w=600&c=v0.59.26#w100) |[**MerchantScout**](merchantscout/)|`merchantscout`| 
-|![mercuryo](https://static.openfintech.io/payment_providers/mercuryo/logo.svg?w=600&c=v0.59.26#w100) |[**mercuryo**](mercuryo/)|`mercuryo`| 
+|![mercuryo](https://static.openfintech.io/payment_providers/mercuryo/logo.svg?w=600&c=v0.59.26#w100) |[**Mercuryo**](mercuryo/)|`mercuryo`| 
 |![micropaymentgmbh](https://static.openfintech.io/payment_providers/micropaymentgmbh/logo.png?w=600&c=v0.59.26#w100) |[**micropayment™ GmbH**](micropaymentgmbh/)|`micropaymentgmbh`| 
 |![mistralpay2](https://static.openfintech.io/payment_providers/mistralpay2/logo.png?w=600&c=v0.59.26#w100) |[**MistralPay**](mistralpay2/)|`mistralpay2`| 
 |![mobipaid](https://static.openfintech.io/payment_providers/mobipaid/logo.png?w=600&c=v0.59.26#w100) |[**Mobipaid**](mobipaid/)|`mobipaid`| 
@@ -438,7 +438,7 @@
 |![paypro](https://static.openfintech.io/payment_providers/paypro/logo.png?w=600&c=v0.59.26#w100) |[**PayPro**](paypro/)|`paypro`| 
 |![paypunto](https://static.openfintech.io/payment_providers/paypunto/logo.png?w=600&c=v0.59.26#w100) |[**PayPunto**](paypunto/)|`paypunto`| 
 |![payrexx](https://static.openfintech.io/payment_providers/payrexx/logo.png?w=600&c=v0.59.26#w100) |[**Payrexx Payments**](payrexx/)|`payrexx`| 
-|![paysafecard](https://static.openfintech.io/payment_providers/paysafecard/logo.svg?w=600&c=v0.59.26#w100) |[**paysafecard**](paysafecard/)|`paysafecard`| 
+|![paysafecard](https://static.openfintech.io/payment_providers/paysafecard/logo.svg?w=600&c=v0.59.26#w100) |[**Paysafecard**](paysafecard/)|`paysafecard`| 
 |![payscout](https://static.openfintech.io/payment_providers/payscout/logo.png?w=600&c=v0.59.26#w100) |[**Payscout**](payscout/)|`payscout`| 
 |![paysec](https://static.openfintech.io/payment_providers/paysec/logo.svg?w=600&c=v0.59.26#w100) |[**PaySec**](paysec/)|`paysec`| 
 |![paysera](https://static.openfintech.io/payment_providers/paysera/logo.png?w=600&c=v0.59.26#w100) |[**Paysera LT**](paysera/)|`paysera`| 

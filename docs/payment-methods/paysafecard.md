@@ -105,7 +105,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Paysafeca
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
 |![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
 |![fibonatix](https://static.openfintech.io/payment_providers/fibonatix/icon.png?w=278&c=v0.59.26#w100) |[Fibonatix](/payment-providers/fibonatix/)|`fibonatix`| 
-|![paysafecard](https://static.openfintech.io/payment_providers/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-providers/paysafecard/)|`paysafecard`| 
+|![paysafecard](https://static.openfintech.io/payment_providers/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[Paysafecard](/payment-providers/paysafecard/)|`paysafecard`| 
  
 
 ## JSON Object 

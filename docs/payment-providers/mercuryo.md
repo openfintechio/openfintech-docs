@@ -1,5 +1,5 @@
 
-# mercuryo 
+# Mercuryo 
 ![mercuryo](https://static.openfintech.io/payment_providers/mercuryo/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] mercuryo 
-:	[RU] mercuryo 
-:	[UK] mercuryo 
+:	[EN] Mercuryo 
+:	[RU] Mercuryo 
+:	[UK] Mercuryo 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"mercuryo",
-    "ru":"mercuryo",
-    "uk":"mercuryo"
+    "en":"Mercuryo",
+    "ru":"Mercuryo",
+    "uk":"Mercuryo"
   }
 }
 ```  

@@ -1,5 +1,5 @@
 
-# paysafecard 
+# Paysafecard 
 ![paysafecard](https://static.openfintech.io/payment_providers/paysafecard/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] paysafecard 
-:	[RU] paysafecard 
-:	[UK] paysafecard 
+:	[EN] Paysafecard 
+:	[RU] Paysafecard 
+:	[UK] Paysafecard 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"paysafecard",
-    "ru":"paysafecard",
-    "uk":"paysafecard"
+    "en":"Paysafecard",
+    "ru":"Paysafecard",
+    "uk":"Paysafecard"
   }
 }
 ```  

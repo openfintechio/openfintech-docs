@@ -16,7 +16,7 @@
 :	[RU] Qiwi 
 :	[UK] Qiwi 
  
-**Amount limits:** from `50` to `60000` RUB 
+**Amount limits:** from `10` to `100000` RUB 
 
 ## Fields 
 
@@ -74,7 +74,7 @@
       "position":1
     }
   ],
-  "amount_min":50,
-  "amount_max":60000
+  "amount_min":10,
+  "amount_max":100000
 }
 ```  

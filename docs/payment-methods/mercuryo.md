@@ -47,7 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Mercuryo_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![mercuryo](https://static.openfintech.io/payment_providers/mercuryo/icon.svg?w=278&c=v0.59.26#w100) |[mercuryo](/payment-providers/mercuryo/)|`mercuryo`| 
+|![mercuryo](https://static.openfintech.io/payment_providers/mercuryo/icon.svg?w=278&c=v0.59.26#w100) |[Mercuryo](/payment-providers/mercuryo/)|`mercuryo`| 
  
 
 ## JSON Object 
