@@ -440,6 +440,7 @@
 |![ecommpay](https://static.openfintech.io/vendors/ecommpay/logo.png?w=600&c=v0.59.26#w200) |[**ECommPay**](ecommpay/)|`ecommpay`| 
 |![ecomprocessing](https://static.openfintech.io/vendors/ecomprocessing/logo.png?w=600&c=v0.59.26#w200) |[**E-Comprocessing (ECP)**](ecomprocessing/)|`ecomprocessing`| 
 |![econtext](https://static.openfintech.io/vendors/econtext/logo.png?w=600&c=v0.59.26#w200) |[**Econtext**](econtext/)|`econtext`| 
+|![ecopayz](https://static.openfintech.io/vendors/ecopayz/logo.svg?w=600&c=v0.59.26#w200) |[**Ecopayz**](ecopayz/)|`ecopayz`| 
 |![ecpss](https://static.openfintech.io/vendors/ecpss/logo.png?w=600&c=v0.59.26#w200) |[**Ecpss**](ecpss/)|`ecpss`| 
 |![efecty](https://static.openfintech.io/vendors/efecty/logo.svg?w=600&c=v0.59.26#w200) |[**Efecty**](efecty/)|`efecty`| 
 |![eftglobal](https://static.openfintech.io/vendors/eftglobal/logo.png?w=600&c=v0.59.26#w200) |[**EFT Global**](eftglobal/)|`eftglobal`| 

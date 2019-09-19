@@ -183,6 +183,7 @@
 |![ecommpay](https://static.openfintech.io/payment_providers/ecommpay/logo.png?w=600&c=v0.59.26#w100) |[**ECommPay**](ecommpay/)|`ecommpay`| 
 |![ecomprocessing](https://static.openfintech.io/payment_providers/ecomprocessing/logo.png?w=600&c=v0.59.26#w100) |[**E-Comprocessing (ECP)**](ecomprocessing/)|`ecomprocessing`| 
 |![econtext](https://static.openfintech.io/payment_providers/econtext/logo.svg?w=600&c=v0.59.26#w100) |[**econtext**](econtext/)|`econtext`| 
+|![ecopayz](https://static.openfintech.io/payment_providers/ecopayz/logo.svg?w=600&c=v0.59.26#w100) |[**Ecopayz**](ecopayz/)|`ecopayz`| 
 |![ecpss](https://static.openfintech.io/payment_providers/ecpss/logo.svg?w=600&c=v0.59.26#w100) |[**Ecpss**](ecpss/)|`ecpss`| 
 |![eftglobal](https://static.openfintech.io/payment_providers/eftglobal/logo.svg?w=600&c=v0.59.26#w100) |[**EFT Global**](eftglobal/)|`eftglobal`| 
 |![elavoneu](https://static.openfintech.io/payment_providers/elavoneu/logo.png?w=600&c=v0.59.26#w100) |[**Elavon**](elavoneu/)|`elavoneu`| 

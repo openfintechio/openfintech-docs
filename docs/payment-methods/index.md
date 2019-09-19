@@ -131,6 +131,7 @@
 || **E** ||
 |![easypay](https://static.openfintech.io/payment_methods/easypay/logo.png?w=400&c=v0.59.26#w200) |[**EasyPay**](easypay/)|`easypay`| 
 |![ecoineu](https://static.openfintech.io/payment_methods/ecoineu/logo.png?w=400&c=v0.59.26#w200) |[**Ecoin.eu**](ecoineu/)|`ecoineu`| 
+|![ecopayz](https://static.openfintech.io/payment_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w200) |[**Ecopayz**](ecopayz/)|`ecopayz`| 
 |![efecty](https://static.openfintech.io/payment_methods/efecty/logo.svg?w=400&c=v0.59.26#w200) |[**Efecty**](efecty/)|`efecty`| 
 |![ekonto](https://static.openfintech.io/payment_methods/ekonto/logo.png?w=400&c=v0.59.26#w200) |[**eKonto**](ekonto/)|`ekonto`| 
 |![electroniccheckach](https://static.openfintech.io/payment_methods/electroniccheckach/logo.png?w=400&c=v0.59.26#w200) |[**eCheck (ACH)**](electroniccheckach/)|`electroniccheckach`| 

@@ -244,6 +244,13 @@
 |![E-Installment](https://static.openfintech.io/payout_methods/e-rozstrochka/logo.png?w=400&c=v0.59.26#w24) |[**E-Installment**](/payout-methods/e-rozstrochka/)|[`e-rozstrochka_uah`](e-rozstrochka_uah/)|`UAH`| 
 |![eBay Gift Card $ 25 (US)](https://static.openfintech.io/payout_methods/ebay-gift-card-25-us/logo.png?w=400&c=v0.59.26#w24) |[**eBay Gift Card $ 25 (US)**](/payout-methods/ebay-gift-card-25-us/)|[`ebay-gift-card-25-us_uah`](ebay-gift-card-25-us_uah/)|`UAH`| 
 |![eBay Gift Card $ 5 (US)](https://static.openfintech.io/payout_methods/ebay-gift-card-5-us/logo.png?w=400&c=v0.59.26#w24) |[**eBay Gift Card $ 5 (US)**](/payout-methods/ebay-gift-card-5-us/)|[`ebay-gift-card-5-us_uah`](ebay-gift-card-5-us_uah/)|`UAH`| 
+|![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_aud`](ecopayz_aud/)|`AUD`| 
+|![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_cad`](ecopayz_cad/)|`CAD`| 
+|![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_eur`](ecopayz_eur/)|`EUR`| 
+|![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_gbp`](ecopayz_gbp/)|`GBP`| 
+|![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_rub`](ecopayz_rub/)|`RUB`| 
+|![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_uah`](ecopayz_uah/)|`UAH`| 
+|![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_usd`](ecopayz_usd/)|`USD`| 
 |![Ether (Mangush)](https://static.openfintech.io/payout_methods/efir-mangush/logo.png?w=400&c=v0.59.26#w24) |[**Ether (Mangush)**](/payout-methods/efir-mangush/)|[`efir-mangush_uah`](efir-mangush_uah/)|`UAH`| 
 |![Economic online game Raska](https://static.openfintech.io/payout_methods/ekonomicheskaia-onlain-igra-rashka/logo.png?w=400&c=v0.59.26#w24) |[**Economic online game Raska**](/payout-methods/ekonomicheskaia-onlain-igra-rashka/)|[`ekonomicheskaia-onlain-igra-rashka_uah`](ekonomicheskaia-onlain-igra-rashka_uah/)|`UAH`| 
 |![Eksi.net](https://static.openfintech.io/payout_methods/eksi-net/logo.png?w=400&c=v0.59.26#w24) |[**Eksi.net**](/payout-methods/eksi-net/)|[`eksi-net_uah`](eksi-net_uah/)|`UAH`| 
