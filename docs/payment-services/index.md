@@ -260,6 +260,7 @@
 |![Privatbank Terminals](https://static.openfintech.io/payment_methods/privatbank_ssk/logo.png?w=400&c=v0.59.26#w200) |[**Privatbank Terminals**](/payment-methods/privatbank_ssk/)|[`privatbank_ssk_rub_hpp`](privatbank_ssk_rub_hpp/)| 
 |![Privatbank Terminals](https://static.openfintech.io/payment_methods/privatbank_ssk/logo.png?w=400&c=v0.59.26#w200) |[**Privatbank Terminals**](/payment-methods/privatbank_ssk/)|[`privatbank_ssk_uah_hpp`](privatbank_ssk_uah_hpp/)| 
 |![Privatbank Terminals](https://static.openfintech.io/payment_methods/privatbank_ssk/logo.png?w=400&c=v0.59.26#w200) |[**Privatbank Terminals**](/payment-methods/privatbank_ssk/)|[`privatbank_ssk_usd_hpp`](privatbank_ssk_usd_hpp/)| 
+|![Promsvyazbank](https://static.openfintech.io/payment_methods/promsvyazbank/logo.png?w=400&c=v0.59.26#w200) |[**Promsvyazbank**](/payment-methods/promsvyazbank/)|[`promsvyazbank_rub_hpp`](promsvyazbank_rub_hpp/)| 
 |![Przelewy24](https://static.openfintech.io/payment_methods/przelewy24/logo.png?w=400&c=v0.59.26#w200) |[**Przelewy24**](/payment-methods/przelewy24/)|[`przelewy24_eur_hpp`](przelewy24_eur_hpp/)| 
 |![PSB-Retail](https://static.openfintech.io/payment_methods/psbretail/logo.png?w=400&c=v0.59.26#w200) |[**PSB-Retail**](/payment-methods/psbretail/)|[`psbretail_rub_hpp`](psbretail_rub_hpp/)| 
 |![Public Bank](https://static.openfintech.io/payment_methods/public_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Public Bank**](/payment-methods/public_bank/)|[`public_bank_myr_hpp`](public_bank_myr_hpp/)| 
@@ -276,6 +277,7 @@
 |![RHB Bank](https://static.openfintech.io/payment_methods/rhb_bank/logo.svg?w=400&c=v0.59.26#w200) |[**RHB Bank**](/payment-methods/rhb_bank/)|[`rhb_bank_myr_hpp`](rhb_bank_myr_hpp/)| 
 ||| **S** ||
 |![SACOM Bank](https://static.openfintech.io/payment_methods/sacom_bank/logo.png?w=400&c=v0.59.26#w200) |[**SACOM Bank**](/payment-methods/sacom_bank/)|[`sacom_bank_vnd_hpp`](sacom_bank_vnd_hpp/)| 
+|![SberBank](https://static.openfintech.io/payment_methods/sberbank/logo.svg?w=400&c=v0.59.26#w200) |[**SberBank**](/payment-methods/sberbank/)|[`sberbank_rub_hpp`](sberbank_rub_hpp/)| 
 |![Shanghai Pudong Development Bank](https://static.openfintech.io/payment_methods/shanghai_pudong_development_bank/logo.png?w=400&c=v0.59.26#w200) |[**Shanghai Pudong Development Bank**](/payment-methods/shanghai_pudong_development_bank/)|[`shanghai_pudong_development_bank_cny_hpp`](shanghai_pudong_development_bank_cny_hpp/)| 
 |![Shinhan Bank](https://static.openfintech.io/payment_methods/shinhan_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Shinhan Bank**](/payment-methods/shinhan_bank/)|[`shinhan_bank_krw_hpp`](shinhan_bank_krw_hpp/)| 
 |![Siam Commercial Bank](https://static.openfintech.io/payment_methods/siam_commercial_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Siam Commercial Bank**](/payment-methods/siam_commercial_bank/)|[`siam_commercial_bank_thb_hpp`](siam_commercial_bank_thb_hpp/)| 

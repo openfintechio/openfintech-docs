@@ -29,6 +29,15 @@ https://static.openfintech.io/payment_methods/promsvyazbank/logo.png?w=400&c=v0.
 https://static.openfintech.io/payment_methods/promsvyazbank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Promsvyazbank_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![promsvyazbank](https://static.openfintech.io/payment_methods/promsvyazbank/icon.png?w=278&c=v0.59.26#w100) |[promsvyazbank_rub_hpp](/payment-services/promsvyazbank_rub_hpp/)|`promsvyazbank_rub_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Promsvyazbank_ 

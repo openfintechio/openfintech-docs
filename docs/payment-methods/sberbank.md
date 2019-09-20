@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/sberbank/logo.svg?w=400&c=v0.59.26
 https://static.openfintech.io/payment_methods/sberbank/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _SberBank_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![sberbank](https://static.openfintech.io/payment_methods/sberbank/icon.svg?w=278&c=v0.59.26#w100) |[sberbank_rub_hpp](/payment-services/sberbank_rub_hpp/)|`sberbank_rub_hpp`| 
+ 
+
 ## JSON Object 
 
 ```json
