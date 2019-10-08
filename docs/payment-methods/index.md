@@ -286,6 +286,7 @@
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](payment_card/)|`payment_card`| 
 |![payment_card_email](https://static.openfintech.io/payment_methods/payment_card_email/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card email**](payment_card_email/)|`payment_card_email`| 
 |![payment_card_token](https://static.openfintech.io/payment_methods/payment_card_token/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card by token**](payment_card_token/)|`payment_card_token`| 
+|![paymentwall](https://static.openfintech.io/payment_methods/paymentwall/logo.svg?w=400&c=v0.59.26#w200) |[**PaymentWall**](paymentwall/)|`paymentwall`| 
 |![paymer](https://static.openfintech.io/payment_methods/paymer/logo.png?w=400&c=v0.59.26#w200) |[**Paymer check**](paymer/)|`paymer`| 
 |![paynearme](https://static.openfintech.io/payment_methods/paynearme/logo.png?w=400&c=v0.59.26#w200) |[**PayNearMe**](paynearme/)|`paynearme`| 
 |![paypal](https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](paypal/)|`paypal`| 

@@ -420,6 +420,7 @@
 |![paymentus](https://static.openfintech.io/payment_providers/paymentus/logo.png?w=600&c=v0.59.26#w100) |[**Paymentus**](paymentus/)|`paymentus`| 
 |![paymentusa](https://static.openfintech.io/payment_providers/paymentusa/logo.png?w=600&c=v0.59.26#w100) |[**PaymentUSA**](paymentusa/)|`paymentusa`| 
 |![paymentwall](https://static.openfintech.io/payment_providers/paymentwall/logo.svg?w=600&c=v0.59.26#w100) |[**Paymentwall**](paymentwall/)|`paymentwall`| 
+|![paymentwall](https://static.openfintech.io/payment_providers/paymentwall/logo.svg?w=600&c=v0.59.26#w100) |[**paymentwall**](paymentwall/)|`paymentwall`| 
 |![paymentwall](https://static.openfintech.io/payment_providers/paymentwall/logo.svg?w=600&c=v0.59.26#w100) |[**Paymentwall**](paymentwall/)|`paymentwall`| 
 |![paymentz](https://static.openfintech.io/payment_providers/paymentz/logo.png?w=600&c=v0.59.26#w100) |[**Paymentz**](paymentz/)|`paymentz`| 
 |![paymill](https://static.openfintech.io/payment_providers/paymill/logo.png?w=600&c=v0.59.26#w100) |[**PAYMILL**](paymill/)|`paymill`| 

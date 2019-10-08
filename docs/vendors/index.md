@@ -1144,6 +1144,7 @@
 |![paymentusa](https://static.openfintech.io/vendors/paymentusa/logo.png?w=600&c=v0.59.26#w200) |[**PaymentUSA**](paymentusa/)|`paymentusa`| 
 |![paymentwall](https://static.openfintech.io/vendors/paymentwall/logo.svg?w=600&c=v0.59.26#w200) |[**Paymentwall**](paymentwall/)|`paymentwall`| 
 |![paymentwall](https://static.openfintech.io/vendors/paymentwall/logo.svg?w=600&c=v0.59.26#w200) |[**Paymentwall**](paymentwall/)|`paymentwall`| 
+|![paymentwall](https://static.openfintech.io/vendors/paymentwall/logo.svg?w=600&c=v0.59.26#w200) |[**PaymentWall**](paymentwall/)|`paymentwall`| 
 |![paymentz](https://static.openfintech.io/vendors/paymentz/logo.png?w=600&c=v0.59.26#w200) |[**Paymentz**](paymentz/)|`paymentz`| 
 |![paymer](https://static.openfintech.io/vendors/paymer/logo.svg?w=600&c=v0.59.26#w200) |[**Paymer**](paymer/)|`paymer`| 
 |![paymill](https://static.openfintech.io/vendors/paymill/logo.png?w=600&c=v0.59.26#w200) |[**PAYMILL**](paymill/)|`paymill`| 
