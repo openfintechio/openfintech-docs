@@ -435,6 +435,7 @@
 |![wechat](https://static.openfintech.io/payment_methods/wechat/logo.svg?w=400&c=v0.59.26#w200) |[**Wechat**](wechat/)|`wechat`| 
 |![westpac](https://static.openfintech.io/payment_methods/westpac/logo.svg?w=400&c=v0.59.26#w200) |[**Westpac**](westpac/)|`westpac`| 
 |![wiretransfer](https://static.openfintech.io/payment_methods/wiretransfer/logo.svg?w=400&c=v0.59.26#w200) |[**Wire Transfer**](wiretransfer/)|`wiretransfer`| 
+|![wlandpay](https://static.openfintech.io/payment_methods/wlandpay/logo.svg?w=400&c=v0.59.26#w200) |[**Wlandpay**](wlandpay/)|`wlandpay`| 
 |![wmcard](https://static.openfintech.io/payment_methods/wmcard/logo.png?w=400&c=v0.59.26#w200) |[**WebMoney card**](wmcard/)|`wmcard`| 
 |![wmnote](https://static.openfintech.io/payment_methods/wmnote/logo.png?w=400&c=v0.59.26#w200) |[**WebMoney note**](wmnote/)|`wmnote`| 
 |![woori_bank](https://static.openfintech.io/payment_methods/woori_bank/logo.png?w=400&c=v0.59.26#w200) |[**Woori Bank**](woori_bank/)|`woori_bank`| 

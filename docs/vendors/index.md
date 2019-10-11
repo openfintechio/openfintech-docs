@@ -1598,6 +1598,7 @@
 |![wirecard](https://static.openfintech.io/vendors/wirecard/logo.svg?w=600&c=v0.59.26#w200) |[**Wirecard**](wirecard/)|`wirecard`| 
 |![wireperevod](https://static.openfintech.io/vendors/wireperevod/logo.svg?w=600&c=v0.59.26#w200) |[**Wire-перевод**](wireperevod/)|`wireperevod`| 
 |![wiretransfer](https://static.openfintech.io/vendors/wiretransfer/logo.svg?w=600&c=v0.59.26#w200) |[**Wire Transfer**](wiretransfer/)|`wiretransfer`| 
+|![wlandpay](https://static.openfintech.io/vendors/wlandpay/logo.svg?w=600&c=v0.59.26#w200) |[**Wlandpay**](wlandpay/)|`wlandpay`| 
 |![wm-drugba](https://static.openfintech.io/vendors/wm-drugba/logo.svg?w=600&c=v0.59.26#w200) |[**WM-Drugba**](wm-drugba/)|`wm-drugba`| 
 |![wm-privat](https://static.openfintech.io/vendors/wm-privat/logo.svg?w=600&c=v0.59.26#w200) |[**WM-Privat.com**](wm-privat/)|`wm-privat`| 
 |![wm-sha.ru](https://static.openfintech.io/vendors/wm-sha.ru/logo.svg?w=600&c=v0.59.26#w200) |[**WM-Sha.ru**](wm-sha.ru/)|`wm-sha.ru`| 
