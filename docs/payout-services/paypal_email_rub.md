@@ -14,7 +14,7 @@
  
 :	[EN] PayPal 
  
-**Amount limits:** from `0.01` to `10000` RUB 
+**Amount limits:** from `0.01` to `50000` RUB 
 
 ## Fields 
 
@@ -73,6 +73,6 @@
     }
   ],
   "amount_min":0.01,
-  "amount_max":10000
+  "amount_max":50000
 }
 ```  
