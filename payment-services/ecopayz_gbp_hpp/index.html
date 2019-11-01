@@ -416,6 +416,33 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#fields" class="md-nav__link">
+    Fields
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    Overview
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#details" class="md-nav__link">
+    Details
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#json-object" class="md-nav__link">
     JSON Object
   </a>
@@ -459,13 +486,148 @@
 </dd>
 </dl>
 <p><strong>Amount limits:</strong> from <code>0.01</code> to <code>999999</code> GBP </p>
+<h2 id="fields">Fields<a class="headerlink" href="#fields" title="Permanent link">&para;</a></h2>
+<h3 id="overview">Overview<a class="headerlink" href="#overview" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th align="center">Key</th>
+<th align="center">Required</th>
+<th align="center">Type</th>
+<th align="center">Regexp</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><code>first_name</code></td>
+<td align="center">✔</td>
+<td align="center"><code>string</code></td>
+<td align="center"><code>/^[a-zA-Zа-яА-Я]{0,255}$/</code></td>
+</tr>
+<tr>
+<td align="center"><code>last_name</code></td>
+<td align="center">✔</td>
+<td align="center"><code>string</code></td>
+<td align="center"><code>/^[a-zA-Zа-яА-Я]{0,255}$/</code></td>
+</tr>
+<tr>
+<td align="center"><code>date_of_birth</code></td>
+<td align="center">✔</td>
+<td align="center"><code>string</code></td>
+<td align="center"><code>/^\d{4}-\d{2}-\d{2}$/</code></td>
+</tr>
+</tbody>
+</table>
+<h3 id="details">Details<a class="headerlink" href="#details" title="Permanent link">&para;</a></h3>
+<ol>
+<li>
+<p><strong><code>first_name</code></strong> </p>
+<p>Type: <code>string</code> </p>
+<p>Regexp: <code>/^[a-zA-Zа-яА-Я]{0,255}$/</code> </p>
+<p>Required: <code>1</code> </p>
+<dl>
+<dt>Label:</dt>
+<dd>[EN] First name </dd>
+<dd>[RU] Имя </dd>
+<dd>[UK] Ім`я </dd>
+<dt>Hint:</dt>
+<dd>[EN] Enter first name </dd>
+<dd>[RU] Введите имя </dd>
+<dd>[UK] Введіть ім`я </dd>
+</dl>
+</li>
+<li>
+<p><strong><code>last_name</code></strong> </p>
+<p>Type: <code>string</code> </p>
+<p>Regexp: <code>/^[a-zA-Zа-яА-Я]{0,255}$/</code> </p>
+<p>Required: <code>1</code> </p>
+<dl>
+<dt>Label:</dt>
+<dd>[EN] Last name </dd>
+<dd>[RU] Фамилия </dd>
+<dd>[UK] Прізвище </dd>
+<dt>Hint:</dt>
+<dd>[EN] Enter last name </dd>
+<dd>[RU] Введите фамилию </dd>
+<dd>[UK] Введіть прізвище </dd>
+</dl>
+</li>
+<li>
+<p><strong><code>date_of_birth</code></strong> </p>
+<p>Type: <code>string</code> </p>
+<p>Regexp: <code>/^\d{4}-\d{2}-\d{2}$/</code> </p>
+<p>Required: <code>1</code> </p>
+<dl>
+<dt>Label:</dt>
+<dd>[EN] Date of birth </dd>
+<dd>[RU] Дата рождения </dd>
+<dd>[UK] Дата народження </dd>
+<dt>Hint:</dt>
+<dd>[EN] Enter date of birth </dd>
+<dd>[RU] Введите дату рождения </dd>
+<dd>[UK] Введіть дату народження </dd>
+</dl>
+</li>
+</ol>
 <h2 id="json-object">JSON Object<a class="headerlink" href="#json-object" title="Permanent link">&para;</a></h2>
 <div class="codehilite"><pre><span></span><span class="p">{</span>
   <span class="nt">&quot;code&quot;</span><span class="p">:</span><span class="s2">&quot;ecopayz_gbp_hpp&quot;</span><span class="p">,</span>
   <span class="nt">&quot;flow&quot;</span><span class="p">:</span><span class="s2">&quot;hpp&quot;</span><span class="p">,</span>
   <span class="nt">&quot;method&quot;</span><span class="p">:</span><span class="s2">&quot;ecopayz&quot;</span><span class="p">,</span>
   <span class="nt">&quot;currency&quot;</span><span class="p">:</span><span class="s2">&quot;GBP&quot;</span><span class="p">,</span>
-  <span class="nt">&quot;fields&quot;</span><span class="p">:</span><span class="kc">null</span><span class="p">,</span>
+  <span class="nt">&quot;fields&quot;</span><span class="p">:[</span>
+    <span class="p">{</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;first_name&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;First name&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0418\u043c\u044f&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0406\u043c`\u044f&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter first name&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c`\u044f&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[a-zA-Z\u0430-\u044f\u0410-\u042f]{0,255}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">1</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;last_name&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Last name&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0424\u0430\u043c\u0438\u043b\u0438\u044f&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041f\u0440\u0456\u0437\u0432\u0438\u0449\u0435&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter last name&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0444\u0430\u043c\u0438\u043b\u0438\u044e&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u0440\u0456\u0437\u0432\u0438\u0449\u0435&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[a-zA-Z\u0430-\u044f\u0410-\u042f]{0,255}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">2</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;date_of_birth&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Date of birth&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0414\u0430\u0442\u0430 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0414\u0430\u0442\u0430 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter date of birth&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0434\u0430\u0442\u0443 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0434\u0430\u0442\u0443 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^\\d{4}-\\d{2}-\\d{2}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">3</span>
+    <span class="p">}</span>
+  <span class="p">],</span>
   <span class="nt">&quot;amount_min&quot;</span><span class="p">:</span><span class="mf">0.01</span><span class="p">,</span>
   <span class="nt">&quot;amount_max&quot;</span><span class="p">:</span><span class="mi">999999</span>
 <span class="p">}</span>
