@@ -149,6 +149,7 @@
 |![euteller](https://static.openfintech.io/payment_methods/euteller/logo.png?w=400&c=v0.59.26#w200) |[****](euteller/)|`euteller`| 
 |![everi](https://static.openfintech.io/payment_methods/everi/logo.png?w=400&c=v0.59.26#w200) |[**Everi**](everi/)|`everi`| 
 |![everrich_postal_savings_and_insurance_bank](https://static.openfintech.io/payment_methods/everrich_postal_savings_and_insurance_bank/logo.svg?w=400&c=v0.59.26#w200) |[**EVERRICH Postal Savings and Insurance Bank**](everrich_postal_savings_and_insurance_bank/)|`everrich_postal_savings_and_insurance_bank`| 
+|![exactly](https://static.openfintech.io/payment_methods/exactly/logo.svg?w=400&c=v0.59.26#w200) |[**Exactly**](exactly/)|`exactly`| 
 |![exim_bank](https://static.openfintech.io/payment_methods/exim_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Exim Bank**](exim_bank/)|`exim_bank`| 
 |![exmo](https://static.openfintech.io/payment_methods/exmo/logo.png?w=400&c=v0.59.26#w200) |[**Exmo**](exmo/)|`exmo`| 
 || **F** ||

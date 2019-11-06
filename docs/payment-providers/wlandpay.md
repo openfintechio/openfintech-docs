@@ -1,6 +1,6 @@
 
 # Wlandpay 
-![wlandpay](https://static.openfintech.io/payment_providers/wlandpay/logo.png?w=400&c=v0.59.26#w100)  
+![wlandpay](https://static.openfintech.io/payment_providers/wlandpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![wlandpay](https://static.openfintech.io/payment_providers/wlandpay/logo.png?w=400&c=v0.59.26#w100)  
+![wlandpay](https://static.openfintech.io/payment_providers/wlandpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/wlandpay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/wlandpay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![wlandpay](https://static.openfintech.io/payment_providers/wlandpay/icon.png?w=278&c=v0.59.26#w100)  
+![wlandpay](https://static.openfintech.io/payment_providers/wlandpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/wlandpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/wlandpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 

@@ -38,7 +38,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Wlandpay_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![wlandpay](https://static.openfintech.io/payment_providers/wlandpay/icon.png?w=278&c=v0.59.26#w100) |[Wlandpay](/payment-providers/wlandpay/)|`wlandpay`| 
+|![wlandpay](https://static.openfintech.io/payment_providers/wlandpay/icon.svg?w=278&c=v0.59.26#w100) |[Wlandpay](/payment-providers/wlandpay/)|`wlandpay`| 
  
 
 ## JSON Object 
