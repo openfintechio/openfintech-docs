@@ -75,7 +75,7 @@
       "example":"aramh@mail.ua"
     }
   ],
-  "amount_min":500,
-  "amount_max":500
+  "amount_min":"500",
+  "amount_max":"500"
 }
 ```  

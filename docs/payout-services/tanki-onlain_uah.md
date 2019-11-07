@@ -75,7 +75,7 @@
       "example":"KILERUA"
     }
   ],
-  "amount_min":6,
-  "amount_max":4999
+  "amount_min":"6",
+  "amount_max":"4999"
 }
 ```  

@@ -75,7 +75,7 @@
       "example":"mkgroup@i.ua"
     }
   ],
-  "amount_min":5,
-  "amount_max":4999
+  "amount_min":"5",
+  "amount_max":"4999"
 }
 ```  

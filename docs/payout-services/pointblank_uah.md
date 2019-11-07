@@ -75,7 +75,7 @@
       "example":"seaman18"
     }
   ],
-  "amount_min":7,
-  "amount_max":4999
+  "amount_min":"7",
+  "amount_max":"4999"
 }
 ```  

@@ -75,7 +75,7 @@
       "example":"ZA000071"
     }
   ],
-  "amount_min":2,
-  "amount_max":14999
+  "amount_min":"2",
+  "amount_max":"14999"
 }
 ```  

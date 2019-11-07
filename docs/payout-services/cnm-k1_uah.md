@@ -75,7 +75,7 @@
       "example":"k1m7kv199"
     }
   ],
-  "amount_min":2,
-  "amount_max":5000
+  "amount_min":"2",
+  "amount_max":"5000"
 }
 ```  

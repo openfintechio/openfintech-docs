@@ -75,7 +75,7 @@
       "example":"F992\/09-08"
     }
   ],
-  "amount_min":2,
-  "amount_max":14999
+  "amount_min":"2",
+  "amount_max":"14999"
 }
 ```  

@@ -183,7 +183,7 @@
       "position":4
     }
   ],
-  "amount_min":0.01,
-  "amount_max":9999999
+  "amount_min":"0.01",
+  "amount_max":"9999999"
 }
 ```  

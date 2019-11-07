@@ -26,7 +26,7 @@
   "method":"webmoneytransfer",
   "currency":"RUB",
   "fields":null,
-  "amount_min":1,
-  "amount_max":63000
+  "amount_min":"1",
+  "amount_max":"63000"
 }
 ```  

@@ -75,7 +75,7 @@
       "example":"Smoal"
     }
   ],
-  "amount_min":1,
-  "amount_max":700
+  "amount_min":"1",
+  "amount_max":"700"
 }
 ```  

@@ -75,7 +75,7 @@
       "example":"0022179740"
     }
   ],
-  "amount_min":200,
-  "amount_max":149900
+  "amount_min":"200",
+  "amount_max":"149900"
 }
 ```  

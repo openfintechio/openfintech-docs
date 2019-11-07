@@ -75,7 +75,7 @@
       "example":"jinaro"
     }
   ],
-  "amount_min":50,
-  "amount_max":14999
+  "amount_min":"50",
+  "amount_max":"14999"
 }
 ```  

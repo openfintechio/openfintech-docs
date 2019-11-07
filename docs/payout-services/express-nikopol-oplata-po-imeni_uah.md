@@ -75,7 +75,7 @@
       "example":"vm-home"
     }
   ],
-  "amount_min":20,
-  "amount_max":1000
+  "amount_min":"20",
+  "amount_max":"1000"
 }
 ```  

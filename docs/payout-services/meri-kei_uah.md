@@ -24,12 +24,14 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`client_id`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`consultant_number`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`name_of_consultant`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`inn_consultant`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
  
 
 ### Details 
  
-1. **`client_id`** 
+1. **`consultant_number`** 
  
 	Type: `string` 
  
@@ -38,14 +40,50 @@
 	Required: `1` 
  
 	Label:  
-	: [EN] Consultant number # name of consultant # INN consultant 
-	: [UK] Номер консультанта # ПІБ консультанта # ІПН консультанта 
-	: [RU] Номер консультанта # ФИО консультанта # ИНН консультанта 
+	: [EN] Consultant number 
+	: [RU] Номер консультанта 
+	: [UK] Номер консультанта 
  
 	Hint:  
-	: [EN] Consultant number # name of consultant # INN consultant 
-	: [UK] Номер консультанта # ПІБ консультанта # ІПН консультанта 
-	: [RU] Номер консультанта # ФИО консультанта # ИНН консультанта 
+	: [EN] Consultant number 
+	: [RU] Номер консультанта 
+	: [UK] Номер консультанта 
+ 
+2. **`name_of_consultant`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^(\w|\.| |\-|\+|@){1,128}$/` 
+ 
+	Required: `1` 
+ 
+	Label:  
+	: [EN] name of consultant 
+	: [RU] ФИО консультанта 
+	: [UK] ПІБ консультанта 
+ 
+	Hint:  
+	: [EN] name of consultant 
+	: [RU] ФИО консультанта 
+	: [UK] ПІБ консультанта 
+ 
+3. **`inn_consultant`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^(\w|\.| |\-|\+|@){1,128}$/` 
+ 
+	Required: `1` 
+ 
+	Label:  
+	: [EN] INN consultant 
+	: [RU] ИНН консультанта 
+	: [UK] ІПН консультанта 
+ 
+	Hint:  
+	: [EN] INN consultant 
+	: [RU] ИНН консультанта 
+	: [UK] ІПН консультанта 
  
 
 ## JSON Object 
@@ -57,25 +95,61 @@
   "currency":"UAH",
   "fields":[
     {
-      "key":"client_id",
+      "key":"consultant_number",
       "type":"string",
       "label":{
-        "en":"Consultant number # name of consultant # INN consultant",
-        "uk":"\u041d\u043e\u043c\u0435\u0440 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430 # \u041f\u0406\u0411 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430 # \u0406\u041f\u041d \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430",
-        "ru":"\u041d\u043e\u043c\u0435\u0440 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430 # \u0424\u0418\u041e \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430 # \u0418\u041d\u041d \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430"
+        "en":"Consultant number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430"
       },
       "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
       "required":true,
       "position":1,
       "hint":{
-        "en":"Consultant number # name of consultant # INN consultant",
-        "uk":"\u041d\u043e\u043c\u0435\u0440 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430 # \u041f\u0406\u0411 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430 # \u0406\u041f\u041d \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430",
-        "ru":"\u041d\u043e\u043c\u0435\u0440 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430 # \u0424\u0418\u041e \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430 # \u0418\u041d\u041d \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430"
+        "en":"Consultant number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430"
       },
-      "example":"12345#\u0418\u0432\u0430\u043d\u043e\u0432\u0430 \u0410\u0410#3333333333"
+      "example":"12345"
+    },
+    {
+      "key":"name_of_consultant",
+      "type":"string",
+      "label":{
+        "en":"name of consultant",
+        "ru":"\u0424\u0418\u041e \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430",
+        "uk":"\u041f\u0406\u0411 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430"
+      },
+      "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
+      "required":true,
+      "position":2,
+      "hint":{
+        "en":"name of consultant",
+        "ru":"\u0424\u0418\u041e \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430",
+        "uk":"\u041f\u0406\u0411 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430"
+      },
+      "example":"\u0418\u0432\u0430\u043d\u043e\u0432\u0430 \u0410\u0410"
+    },
+    {
+      "key":"inn_consultant",
+      "type":"string",
+      "label":{
+        "en":"INN consultant",
+        "ru":"\u0418\u041d\u041d \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430",
+        "uk":"\u0406\u041f\u041d \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430"
+      },
+      "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
+      "required":true,
+      "position":3,
+      "hint":{
+        "en":"INN consultant",
+        "ru":"\u0418\u041d\u041d \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430",
+        "uk":"\u0406\u041f\u041d \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430"
+      },
+      "example":"3333333333"
     }
   ],
-  "amount_min":2,
-  "amount_max":14999
+  "amount_min":"2",
+  "amount_max":"14999"
 }
 ```  

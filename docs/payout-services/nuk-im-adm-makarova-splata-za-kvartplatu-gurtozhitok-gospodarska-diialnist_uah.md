@@ -24,12 +24,13 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`client_id`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`pib`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`dodatkova_information`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
  
 
 ### Details 
  
-1. **`client_id`** 
+1. **`pib`** 
  
 	Type: `string` 
  
@@ -38,14 +39,32 @@
 	Required: `1` 
  
 	Label:  
-	: [EN] PIB # Dodatkova Information 
-	: [UK] ПIБ # Додаткова iнформацiя 
-	: [RU] ФИО # Дополнительная информация 
+	: [EN] PIB 
+	: [RU] ФИО 
+	: [UK] ПIБ 
  
 	Hint:  
-	: [EN] PIB # Dodatkova Information 
-	: [UK] ПIБ # Додаткова iнформацiя 
-	: [RU] ФИО # Дополнительная информация 
+	: [EN] PIB 
+	: [RU] ФИО 
+	: [UK] ПIБ 
+ 
+2. **`dodatkova_information`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^(\w|\.| |\-|\+|@){1,128}$/` 
+ 
+	Required: `1` 
+ 
+	Label:  
+	: [EN] Dodatkova Information 
+	: [RU] Дополнительная информация 
+	: [UK] Додаткова iнформацiя 
+ 
+	Hint:  
+	: [EN] Dodatkova Information 
+	: [RU] Дополнительная информация 
+	: [UK] Додаткова iнформацiя 
  
 
 ## JSON Object 
@@ -57,25 +76,43 @@
   "currency":"UAH",
   "fields":[
     {
-      "key":"client_id",
+      "key":"pib",
       "type":"string",
       "label":{
-        "en":"PIB # Dodatkova Information",
-        "uk":"\u041fI\u0411 # \u0414\u043e\u0434\u0430\u0442\u043a\u043e\u0432\u0430 i\u043d\u0444\u043e\u0440\u043c\u0430\u0446i\u044f",
-        "ru":"\u0424\u0418\u041e # \u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f"
+        "en":"PIB",
+        "ru":"\u0424\u0418\u041e",
+        "uk":"\u041fI\u0411"
       },
       "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
       "required":true,
       "position":1,
       "hint":{
-        "en":"PIB # Dodatkova Information",
-        "uk":"\u041fI\u0411 # \u0414\u043e\u0434\u0430\u0442\u043a\u043e\u0432\u0430 i\u043d\u0444\u043e\u0440\u043c\u0430\u0446i\u044f",
-        "ru":"\u0424\u0418\u041e # \u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f"
+        "en":"PIB",
+        "ru":"\u0424\u0418\u041e",
+        "uk":"\u041fI\u0411"
       },
-      "example":"\u041f\u0435\u0442\u0440\u043e\u0432 \u0410.\u0410.#\u041f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u043d\u044f \u0432 \u0433\u0443\u0440\u0442\u043e\u0436\u0438\u0442\u043a\u0443 \u21167\/45"
+      "example":"\u041f\u0435\u0442\u0440\u043e\u0432 \u0410.\u0410."
+    },
+    {
+      "key":"dodatkova_information",
+      "type":"string",
+      "label":{
+        "en":"Dodatkova Information",
+        "ru":"\u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f",
+        "uk":"\u0414\u043e\u0434\u0430\u0442\u043a\u043e\u0432\u0430 i\u043d\u0444\u043e\u0440\u043c\u0430\u0446i\u044f"
+      },
+      "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
+      "required":true,
+      "position":2,
+      "hint":{
+        "en":"Dodatkova Information",
+        "ru":"\u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f",
+        "uk":"\u0414\u043e\u0434\u0430\u0442\u043a\u043e\u0432\u0430 i\u043d\u0444\u043e\u0440\u043c\u0430\u0446i\u044f"
+      },
+      "example":"\u041f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u043d\u044f \u0432 \u0433\u0443\u0440\u0442\u043e\u0436\u0438\u0442\u043a\u0443 \u21167"
     }
   ],
-  "amount_min":2,
-  "amount_max":14999
+  "amount_min":"2",
+  "amount_max":"14999"
 }
 ```  

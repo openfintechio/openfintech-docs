@@ -75,7 +75,7 @@
       "example":"francuz13"
     }
   ],
-  "amount_min":20,
-  "amount_max":4999
+  "amount_min":"20",
+  "amount_max":"4999"
 }
 ```  

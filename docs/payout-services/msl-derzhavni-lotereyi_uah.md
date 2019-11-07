@@ -75,7 +75,7 @@
       "example":"linkatinka"
     }
   ],
-  "amount_min":2000,
-  "amount_max":100000
+  "amount_min":"2000",
+  "amount_max":"100000"
 }
 ```  

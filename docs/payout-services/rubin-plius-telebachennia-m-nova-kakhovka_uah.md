@@ -24,12 +24,13 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`client_id`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`addresses_all_the_way`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`pib`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
  
 
 ### Details 
  
-1. **`client_id`** 
+1. **`addresses_all_the_way`** 
  
 	Type: `string` 
  
@@ -38,14 +39,32 @@
 	Required: `1` 
  
 	Label:  
-	: [EN] Addresses (all the way) # PIB 
-	: [UK] Адреса (повністю) # ПІБ 
-	: [RU] Адрес (полностью) # ФИО 
+	: [EN] Addresses (all the way) 
+	: [RU] Адрес (полностью) 
+	: [UK] Адреса (повністю) 
  
 	Hint:  
-	: [EN] Addresses (all the way) # PIB 
-	: [UK] Адреса (повністю) # ПІБ 
-	: [RU] Адрес (полностью) # ФИО 
+	: [EN] Addresses (all the way) 
+	: [RU] Адрес (полностью) 
+	: [UK] Адреса (повністю) 
+ 
+2. **`pib`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^(\w|\.| |\-|\+|@){1,128}$/` 
+ 
+	Required: `1` 
+ 
+	Label:  
+	: [EN] PIB 
+	: [RU] ФИО 
+	: [UK] ПІБ 
+ 
+	Hint:  
+	: [EN] PIB 
+	: [RU] ФИО 
+	: [UK] ПІБ 
  
 
 ## JSON Object 
@@ -57,25 +76,43 @@
   "currency":"UAH",
   "fields":[
     {
-      "key":"client_id",
+      "key":"addresses_all_the_way",
       "type":"string",
       "label":{
-        "en":"Addresses (all the way) # PIB",
-        "uk":"\u0410\u0434\u0440\u0435\u0441\u0430 (\u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e) # \u041f\u0406\u0411",
-        "ru":"\u0410\u0434\u0440\u0435\u0441 (\u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e) # \u0424\u0418\u041e"
+        "en":"Addresses (all the way)",
+        "ru":"\u0410\u0434\u0440\u0435\u0441 (\u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e)",
+        "uk":"\u0410\u0434\u0440\u0435\u0441\u0430 (\u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e)"
       },
       "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
       "required":true,
       "position":1,
       "hint":{
-        "en":"Addresses (all the way) # PIB",
-        "uk":"\u0410\u0434\u0440\u0435\u0441\u0430 (\u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e) # \u041f\u0406\u0411",
-        "ru":"\u0410\u0434\u0440\u0435\u0441 (\u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e) # \u0424\u0418\u041e"
+        "en":"Addresses (all the way)",
+        "ru":"\u0410\u0434\u0440\u0435\u0441 (\u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e)",
+        "uk":"\u0410\u0434\u0440\u0435\u0441\u0430 (\u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e)"
       },
-      "example":"\u043c. \u041d\u043e\u0432\u0430 \u041a\u0430\u0445\u043e\u0432\u043a\u0430, \u0432\u0443\u043b. \u041f\u0435\u0440\u0448\u043e\u0442\u0440\u0430\u0432\u043d\u0435\u0432\u0430, \u0431\u0443\u0434.1#I\u0432\u0430\u043d"
+      "example":"\u043c. \u041d\u043e\u0432\u0430 \u041a\u0430\u0445\u043e\u0432\u043a\u0430, \u0432\u0443\u043b. \u041f\u0435\u0440\u0448\u043e\u0442\u0440\u0430\u0432\u043d\u0435\u0432\u0430, \u0431\u0443\u0434.1"
+    },
+    {
+      "key":"pib",
+      "type":"string",
+      "label":{
+        "en":"PIB",
+        "ru":"\u0424\u0418\u041e",
+        "uk":"\u041f\u0406\u0411"
+      },
+      "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
+      "required":true,
+      "position":2,
+      "hint":{
+        "en":"PIB",
+        "ru":"\u0424\u0418\u041e",
+        "uk":"\u041f\u0406\u0411"
+      },
+      "example":"I\u0432\u0430\u043d"
     }
   ],
-  "amount_min":2,
-  "amount_max":1000
+  "amount_min":"2",
+  "amount_max":"1000"
 }
 ```  

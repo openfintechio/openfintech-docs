@@ -75,7 +75,7 @@
       "example":"lolrey15@mail.ru"
     }
   ],
-  "amount_min":10,
-  "amount_max":4999
+  "amount_min":"10",
+  "amount_max":"4999"
 }
 ```  

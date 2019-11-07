@@ -24,12 +24,13 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`client_id`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`or`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`pib`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
  
 
 ### Details 
  
-1. **`client_id`** 
+1. **`or`** 
  
 	Type: `string` 
  
@@ -38,14 +39,32 @@
 	Required: `1` 
  
 	Label:  
-	: [EN] OR # PIB 
-	: [UK] ЗР # ПІБ 
-	: [RU] ОР # ПИБ 
+	: [EN] OR 
+	: [RU] ОР 
+	: [UK] ЗР 
  
 	Hint:  
-	: [EN] OR # PIB 
-	: [UK] ЗР # ПІБ 
-	: [RU] ОР # ПИБ 
+	: [EN] OR 
+	: [RU] ОР 
+	: [UK] ЗР 
+ 
+2. **`pib`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^(\w|\.| |\-|\+|@){1,128}$/` 
+ 
+	Required: `1` 
+ 
+	Label:  
+	: [EN] PIB 
+	: [RU] ПИБ 
+	: [UK] ПІБ 
+ 
+	Hint:  
+	: [EN] PIB 
+	: [RU] ПИБ 
+	: [UK] ПІБ 
  
 
 ## JSON Object 
@@ -57,25 +76,43 @@
   "currency":"UAH",
   "fields":[
     {
-      "key":"client_id",
+      "key":"or",
       "type":"string",
       "label":{
-        "en":"OR # PIB",
-        "uk":"\u0417\u0420 # \u041f\u0406\u0411",
-        "ru":"\u041e\u0420 # \u041f\u0418\u0411"
+        "en":"OR",
+        "ru":"\u041e\u0420",
+        "uk":"\u0417\u0420"
       },
       "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
       "required":true,
       "position":1,
       "hint":{
-        "en":"OR # PIB",
-        "uk":"\u0417\u0420 # \u041f\u0406\u0411",
-        "ru":"\u041e\u0420 # \u041f\u0418\u0411"
+        "en":"OR",
+        "ru":"\u041e\u0420",
+        "uk":"\u0417\u0420"
       },
-      "example":"1234567#\u041f\u0435\u0442\u0440\u043e\u0432 \u0410.\u0410."
+      "example":"1234567"
+    },
+    {
+      "key":"pib",
+      "type":"string",
+      "label":{
+        "en":"PIB",
+        "ru":"\u041f\u0418\u0411",
+        "uk":"\u041f\u0406\u0411"
+      },
+      "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
+      "required":true,
+      "position":2,
+      "hint":{
+        "en":"PIB",
+        "ru":"\u041f\u0418\u0411",
+        "uk":"\u041f\u0406\u0411"
+      },
+      "example":"\u041f\u0435\u0442\u0440\u043e\u0432 \u0410.\u0410."
     }
   ],
-  "amount_min":2,
-  "amount_max":14999
+  "amount_min":"2",
+  "amount_max":"14999"
 }
 ```  

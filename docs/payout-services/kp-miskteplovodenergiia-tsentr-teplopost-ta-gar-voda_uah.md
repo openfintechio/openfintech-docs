@@ -24,12 +24,15 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`client_id`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`number_rakhunku`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`pib`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`addresses`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`nazva_poslugi`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
  
 
 ### Details 
  
-1. **`client_id`** 
+1. **`number_rakhunku`** 
  
 	Type: `string` 
  
@@ -38,14 +41,68 @@
 	Required: `1` 
  
 	Label:  
-	: [EN] Number rakhunku # PIB # Addresses # Nazva poslugi 
-	: [UK] Номер Рахунку # ПIБ # Адреси # Назва послуги 
-	: [RU] Номер счета # ФИО # Адрес # Название услуги 
+	: [EN] Number rakhunku 
+	: [RU] Номер счета 
+	: [UK] Номер Рахунку 
  
 	Hint:  
-	: [EN] Number rakhunku # PIB # Addresses # Nazva poslugi 
-	: [UK] Номер Рахунку # ПIБ # Адреси # Назва послуги 
-	: [RU] Номер счета # ФИО # Адрес # Название услуги 
+	: [EN] Number rakhunku 
+	: [RU] Номер счета 
+	: [UK] Номер Рахунку 
+ 
+2. **`pib`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^(\w|\.| |\-|\+|@){1,128}$/` 
+ 
+	Required: `1` 
+ 
+	Label:  
+	: [EN] PIB 
+	: [RU] ФИО 
+	: [UK] ПIБ 
+ 
+	Hint:  
+	: [EN] PIB 
+	: [RU] ФИО 
+	: [UK] ПIБ 
+ 
+3. **`addresses`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^(\w|\.| |\-|\+|@){1,128}$/` 
+ 
+	Required: `1` 
+ 
+	Label:  
+	: [EN] Addresses 
+	: [RU] Адрес 
+	: [UK] Адреси 
+ 
+	Hint:  
+	: [EN] Addresses 
+	: [RU] Адрес 
+	: [UK] Адреси 
+ 
+4. **`nazva_poslugi`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^(\w|\.| |\-|\+|@){1,128}$/` 
+ 
+	Required: `1` 
+ 
+	Label:  
+	: [EN] Nazva poslugi 
+	: [RU] Название услуги 
+	: [UK] Назва послуги 
+ 
+	Hint:  
+	: [EN] Nazva poslugi 
+	: [RU] Название услуги 
+	: [UK] Назва послуги 
  
 
 ## JSON Object 
@@ -57,25 +114,79 @@
   "currency":"UAH",
   "fields":[
     {
-      "key":"client_id",
+      "key":"number_rakhunku",
       "type":"string",
       "label":{
-        "en":"Number rakhunku # PIB # Addresses # Nazva poslugi",
-        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0420\u0430\u0445\u0443\u043d\u043a\u0443 # \u041fI\u0411 # \u0410\u0434\u0440\u0435\u0441\u0438 # \u041d\u0430\u0437\u0432\u0430 \u043f\u043e\u0441\u043b\u0443\u0433\u0438",
-        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430 # \u0424\u0418\u041e # \u0410\u0434\u0440\u0435\u0441 # \u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0443\u0441\u043b\u0443\u0433\u0438"
+        "en":"Number rakhunku",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0420\u0430\u0445\u0443\u043d\u043a\u0443"
       },
       "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
       "required":true,
       "position":1,
       "hint":{
-        "en":"Number rakhunku # PIB # Addresses # Nazva poslugi",
-        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0420\u0430\u0445\u0443\u043d\u043a\u0443 # \u041fI\u0411 # \u0410\u0434\u0440\u0435\u0441\u0438 # \u041d\u0430\u0437\u0432\u0430 \u043f\u043e\u0441\u043b\u0443\u0433\u0438",
-        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430 # \u0424\u0418\u041e # \u0410\u0434\u0440\u0435\u0441 # \u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0443\u0441\u043b\u0443\u0433\u0438"
+        "en":"Number rakhunku",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0420\u0430\u0445\u0443\u043d\u043a\u0443"
       },
-      "example":"1231#\u0416\u0443\u043a \u0410.\u0410.#1 \u041c\u0430\u044f 8 \u043a\u0432. 5#\u0422\u0435\u043f\u043b\u043e\u043f. \u0456 \u0433\u0430\u0440. \u0432\u043e\u0434\u0430"
+      "example":"1231"
+    },
+    {
+      "key":"pib",
+      "type":"string",
+      "label":{
+        "en":"PIB",
+        "ru":"\u0424\u0418\u041e",
+        "uk":"\u041fI\u0411"
+      },
+      "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
+      "required":true,
+      "position":2,
+      "hint":{
+        "en":"PIB",
+        "ru":"\u0424\u0418\u041e",
+        "uk":"\u041fI\u0411"
+      },
+      "example":"\u0416\u0443\u043a \u0410.\u0410."
+    },
+    {
+      "key":"addresses",
+      "type":"string",
+      "label":{
+        "en":"Addresses",
+        "ru":"\u0410\u0434\u0440\u0435\u0441",
+        "uk":"\u0410\u0434\u0440\u0435\u0441\u0438"
+      },
+      "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
+      "required":true,
+      "position":3,
+      "hint":{
+        "en":"Addresses",
+        "ru":"\u0410\u0434\u0440\u0435\u0441",
+        "uk":"\u0410\u0434\u0440\u0435\u0441\u0438"
+      },
+      "example":"1 \u041c\u0430\u044f 8 \u043a\u0432. 5"
+    },
+    {
+      "key":"nazva_poslugi",
+      "type":"string",
+      "label":{
+        "en":"Nazva poslugi",
+        "ru":"\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0443\u0441\u043b\u0443\u0433\u0438",
+        "uk":"\u041d\u0430\u0437\u0432\u0430 \u043f\u043e\u0441\u043b\u0443\u0433\u0438"
+      },
+      "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
+      "required":true,
+      "position":4,
+      "hint":{
+        "en":"Nazva poslugi",
+        "ru":"\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0443\u0441\u043b\u0443\u0433\u0438",
+        "uk":"\u041d\u0430\u0437\u0432\u0430 \u043f\u043e\u0441\u043b\u0443\u0433\u0438"
+      },
+      "example":"\u0422\u0435\u043f\u043b\u043e\u043f. \u0456 \u0433\u0430\u0440. \u0432\u043e\u0434\u0430"
     }
   ],
-  "amount_min":2,
-  "amount_max":14999
+  "amount_min":"2",
+  "amount_max":"14999"
 }
 ```  

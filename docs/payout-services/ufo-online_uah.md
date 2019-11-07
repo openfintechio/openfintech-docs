@@ -75,7 +75,7 @@
       "example":"Worm"
     }
   ],
-  "amount_min":25,
-  "amount_max":4999
+  "amount_min":"25",
+  "amount_max":"4999"
 }
 ```  

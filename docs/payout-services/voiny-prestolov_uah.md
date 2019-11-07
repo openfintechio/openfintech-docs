@@ -75,7 +75,7 @@
       "example":"MrLockiu"
     }
   ],
-  "amount_min":9,
-  "amount_max":4999
+  "amount_min":"9",
+  "amount_max":"4999"
 }
 ```  

@@ -75,7 +75,7 @@
       "example":"10.1.1.1 \u0430\u0431\u043e 100001"
     }
   ],
-  "amount_min":2,
-  "amount_max":14999
+  "amount_min":"2",
+  "amount_max":"14999"
 }
 ```  

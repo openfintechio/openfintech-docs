@@ -75,7 +75,7 @@
       "example":"zarikmogudun1"
     }
   ],
-  "amount_min":66,
-  "amount_max":4999
+  "amount_min":"66",
+  "amount_max":"4999"
 }
 ```  

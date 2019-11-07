@@ -24,12 +24,14 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`client_id`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`pib`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`rahunku_number`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`nazva_poslugi`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
  
 
 ### Details 
  
-1. **`client_id`** 
+1. **`pib`** 
  
 	Type: `string` 
  
@@ -38,14 +40,50 @@
 	Required: `1` 
  
 	Label:  
-	: [EN] PIB # Rahunku number # Nazva poslugi 
-	: [UK] ПIБ # Номер Рахунку # Назва послуги 
-	: [RU] ФИО # Номер счета # Название услуги 
+	: [EN] PIB 
+	: [RU] ФИО 
+	: [UK] ПIБ 
  
 	Hint:  
-	: [EN] PIB # Rahunku number # Nazva poslugi 
-	: [UK] ПIБ # Номер Рахунку # Назва послуги 
-	: [RU] ФИО # Номер счета # Название услуги 
+	: [EN] PIB 
+	: [RU] ФИО 
+	: [UK] ПIБ 
+ 
+2. **`rahunku_number`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^(\w|\.| |\-|\+|@){1,128}$/` 
+ 
+	Required: `1` 
+ 
+	Label:  
+	: [EN] Rahunku number 
+	: [RU] Номер счета 
+	: [UK] Номер Рахунку 
+ 
+	Hint:  
+	: [EN] Rahunku number 
+	: [RU] Номер счета 
+	: [UK] Номер Рахунку 
+ 
+3. **`nazva_poslugi`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^(\w|\.| |\-|\+|@){1,128}$/` 
+ 
+	Required: `1` 
+ 
+	Label:  
+	: [EN] Nazva poslugi 
+	: [RU] Название услуги 
+	: [UK] Назва послуги 
+ 
+	Hint:  
+	: [EN] Nazva poslugi 
+	: [RU] Название услуги 
+	: [UK] Назва послуги 
  
 
 ## JSON Object 
@@ -57,25 +95,61 @@
   "currency":"UAH",
   "fields":[
     {
-      "key":"client_id",
+      "key":"pib",
       "type":"string",
       "label":{
-        "en":"PIB # Rahunku number # Nazva poslugi",
-        "uk":"\u041fI\u0411 # \u041d\u043e\u043c\u0435\u0440 \u0420\u0430\u0445\u0443\u043d\u043a\u0443 # \u041d\u0430\u0437\u0432\u0430 \u043f\u043e\u0441\u043b\u0443\u0433\u0438",
-        "ru":"\u0424\u0418\u041e # \u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430 # \u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0443\u0441\u043b\u0443\u0433\u0438"
+        "en":"PIB",
+        "ru":"\u0424\u0418\u041e",
+        "uk":"\u041fI\u0411"
       },
       "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
       "required":true,
       "position":1,
       "hint":{
-        "en":"PIB # Rahunku number # Nazva poslugi",
-        "uk":"\u041fI\u0411 # \u041d\u043e\u043c\u0435\u0440 \u0420\u0430\u0445\u0443\u043d\u043a\u0443 # \u041d\u0430\u0437\u0432\u0430 \u043f\u043e\u0441\u043b\u0443\u0433\u0438",
-        "ru":"\u0424\u0418\u041e # \u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430 # \u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0443\u0441\u043b\u0443\u0433\u0438"
+        "en":"PIB",
+        "ru":"\u0424\u0418\u041e",
+        "uk":"\u041fI\u0411"
       },
-      "example":"\u041f\u0435\u0442\u0440\u043e\u0432 \u0410.\u0410.#123154545555#\u0410\u0440\u0435\u043d\u0434\u0430\/\u0420\u0435\u043a\u043b\u0430\u043c\u0430"
+      "example":"\u041f\u0435\u0442\u0440\u043e\u0432 \u0410.\u0410."
+    },
+    {
+      "key":"rahunku_number",
+      "type":"string",
+      "label":{
+        "en":"Rahunku number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0420\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
+      "required":true,
+      "position":2,
+      "hint":{
+        "en":"Rahunku number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0420\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "example":"123154545555"
+    },
+    {
+      "key":"nazva_poslugi",
+      "type":"string",
+      "label":{
+        "en":"Nazva poslugi",
+        "ru":"\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0443\u0441\u043b\u0443\u0433\u0438",
+        "uk":"\u041d\u0430\u0437\u0432\u0430 \u043f\u043e\u0441\u043b\u0443\u0433\u0438"
+      },
+      "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
+      "required":true,
+      "position":3,
+      "hint":{
+        "en":"Nazva poslugi",
+        "ru":"\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0443\u0441\u043b\u0443\u0433\u0438",
+        "uk":"\u041d\u0430\u0437\u0432\u0430 \u043f\u043e\u0441\u043b\u0443\u0433\u0438"
+      },
+      "example":"\u0410\u0440\u0435\u043d\u0434\u0430"
     }
   ],
-  "amount_min":2,
-  "amount_max":14999
+  "amount_min":"2",
+  "amount_max":"14999"
 }
 ```  

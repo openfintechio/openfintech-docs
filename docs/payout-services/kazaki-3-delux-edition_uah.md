@@ -75,7 +75,7 @@
       "example":"andrey.tkachuk.88@bk.ru"
     }
   ],
-  "amount_min":500,
-  "amount_max":500
+  "amount_min":"500",
+  "amount_max":"500"
 }
 ```  

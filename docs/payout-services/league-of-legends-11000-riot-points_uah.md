@@ -75,7 +75,7 @@
       "example":"Probe"
     }
   ],
-  "amount_min":1385,
-  "amount_max":1385
+  "amount_min":"1385",
+  "amount_max":"1385"
 }
 ```  

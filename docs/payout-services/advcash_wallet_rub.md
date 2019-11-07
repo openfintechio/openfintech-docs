@@ -72,7 +72,7 @@
       "position":1
     }
   ],
-  "amount_min":6.65,
-  "amount_max":6648133.52
+  "amount_min":"6.65",
+  "amount_max":"6648133.52"
 }
 ```  

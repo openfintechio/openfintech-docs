@@ -252,7 +252,7 @@
       "position":6
     }
   ],
-  "amount_min":50000,
-  "amount_max":25000000
+  "amount_min":"50000",
+  "amount_max":"25000000"
 }
 ```  

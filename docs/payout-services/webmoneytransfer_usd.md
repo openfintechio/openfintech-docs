@@ -26,7 +26,7 @@
   "method":"webmoneytransfer",
   "currency":"USD",
   "fields":null,
-  "amount_min":1,
-  "amount_max":63000
+  "amount_min":"1",
+  "amount_max":"63000"
 }
 ```  

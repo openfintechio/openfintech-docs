@@ -24,12 +24,13 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`client_id`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`pii`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`contract_number`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
  
 
 ### Details 
  
-1. **`client_id`** 
+1. **`pii`** 
  
 	Type: `string` 
  
@@ -38,14 +39,32 @@
 	Required: `1` 
  
 	Label:  
-	: [EN] PII # Contract Number 
-	: [UK] ПIБ # Номер договору 
-	: [RU] ФИО # Номер договора 
+	: [EN] PII 
+	: [RU] ФИО 
+	: [UK] ПIБ 
  
 	Hint:  
-	: [EN] PII # Contract Number 
-	: [UK] ПIБ # Номер договору 
-	: [RU] ФИО # Номер договора 
+	: [EN] PII 
+	: [RU] ФИО 
+	: [UK] ПIБ 
+ 
+2. **`contract_number`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^(\w|\.| |\-|\+|@){1,128}$/` 
+ 
+	Required: `1` 
+ 
+	Label:  
+	: [EN] Contract Number 
+	: [RU] Номер договора 
+	: [UK] Номер договору 
+ 
+	Hint:  
+	: [EN] Contract Number 
+	: [RU] Номер договора 
+	: [UK] Номер договору 
  
 
 ## JSON Object 
@@ -57,25 +76,43 @@
   "currency":"UAH",
   "fields":[
     {
-      "key":"client_id",
+      "key":"pii",
       "type":"string",
       "label":{
-        "en":"PII # Contract Number",
-        "uk":"\u041fI\u0411 # \u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443",
-        "ru":"\u0424\u0418\u041e # \u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430"
+        "en":"PII",
+        "ru":"\u0424\u0418\u041e",
+        "uk":"\u041fI\u0411"
       },
       "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
       "required":true,
       "position":1,
       "hint":{
-        "en":"PII # Contract Number",
-        "uk":"\u041fI\u0411 # \u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443",
-        "ru":"\u0424\u0418\u041e # \u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430"
+        "en":"PII",
+        "ru":"\u0424\u0418\u041e",
+        "uk":"\u041fI\u0411"
       },
-      "example":"\u041f\u0435\u0442\u0440\u043e\u0432 \u0410.\u0410.#123456"
+      "example":"\u041f\u0435\u0442\u0440\u043e\u0432 \u0410.\u0410."
+    },
+    {
+      "key":"contract_number",
+      "type":"string",
+      "label":{
+        "en":"Contract Number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443"
+      },
+      "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
+      "required":true,
+      "position":2,
+      "hint":{
+        "en":"Contract Number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443"
+      },
+      "example":"123456"
     }
   ],
-  "amount_min":2,
-  "amount_max":14999
+  "amount_min":"2",
+  "amount_max":"14999"
 }
 ```  

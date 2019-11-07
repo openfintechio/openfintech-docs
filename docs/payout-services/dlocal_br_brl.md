@@ -218,7 +218,7 @@
       "required":true
     }
   ],
-  "amount_min":0.01,
-  "amount_max":100000
+  "amount_min":"0.01",
+  "amount_max":"100000"
 }
 ```  

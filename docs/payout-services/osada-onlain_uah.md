@@ -75,7 +75,7 @@
       "example":"\u0428\u042b\u0414\u042b"
     }
   ],
-  "amount_min":7,
-  "amount_max":4999
+  "amount_min":"7",
+  "amount_max":"4999"
 }
 ```  

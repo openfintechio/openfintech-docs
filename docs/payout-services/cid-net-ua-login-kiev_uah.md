@@ -75,7 +75,7 @@
       "example":"dima"
     }
   ],
-  "amount_min":100,
-  "amount_max":14999
+  "amount_min":"100",
+  "amount_max":"14999"
 }
 ```  

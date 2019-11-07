@@ -74,7 +74,7 @@
       }
     }
   ],
-  "amount_min":850,
-  "amount_max":850
+  "amount_min":"850",
+  "amount_max":"850"
 }
 ```  

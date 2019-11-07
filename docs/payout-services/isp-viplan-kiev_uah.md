@@ -75,7 +75,7 @@
       "example":"office"
     }
   ],
-  "amount_min":10,
-  "amount_max":2000
+  "amount_min":"10",
+  "amount_max":"2000"
 }
 ```  

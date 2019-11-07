@@ -75,7 +75,7 @@
       "example":"hrakovskiy4671@gmail.com"
     }
   ],
-  "amount_min":160,
-  "amount_max":160
+  "amount_min":"160",
+  "amount_max":"160"
 }
 ```  

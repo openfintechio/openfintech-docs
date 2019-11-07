@@ -24,12 +24,13 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`client_id`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`pib`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`number_of_the_insurance_contract`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
  
 
 ### Details 
  
-1. **`client_id`** 
+1. **`pib`** 
  
 	Type: `string` 
  
@@ -38,14 +39,32 @@
 	Required: `1` 
  
 	Label:  
-	: [EN] PIB/number of the insurance contract 
-	: [UK] ПІБ/номер договору страхування 
-	: [RU] ФИО / номер договору страхування 
+	: [EN] PIB 
+	: [RU] ФИО 
+	: [UK] ПІБ 
  
 	Hint:  
-	: [EN] PIB/number of the insurance contract 
-	: [UK] ПІБ/номер договору страхування 
-	: [RU] ФИО / номер договору страхування 
+	: [EN] PIB 
+	: [RU] ФИО 
+	: [UK] ПІБ 
+ 
+2. **`number_of_the_insurance_contract`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^(\w|\.| |\-|\+|@){1,128}$/` 
+ 
+	Required: `1` 
+ 
+	Label:  
+	: [EN] number of the insurance contract 
+	: [RU] номер договору страхування 
+	: [UK] номер договору страхування 
+ 
+	Hint:  
+	: [EN] number of the insurance contract 
+	: [RU] номер договору страхування 
+	: [UK] номер договору страхування 
  
 
 ## JSON Object 
@@ -57,25 +76,43 @@
   "currency":"UAH",
   "fields":[
     {
-      "key":"client_id",
+      "key":"pib",
       "type":"string",
       "label":{
-        "en":"PIB\/number of the insurance contract",
-        "uk":"\u041f\u0406\u0411\/\u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443 \u0441\u0442\u0440\u0430\u0445\u0443\u0432\u0430\u043d\u043d\u044f",
-        "ru":"\u0424\u0418\u041e \/ \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443 \u0441\u0442\u0440\u0430\u0445\u0443\u0432\u0430\u043d\u043d\u044f"
+        "en":"PIB",
+        "ru":"\u0424\u0418\u041e",
+        "uk":"\u041f\u0406\u0411"
       },
       "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
       "required":true,
       "position":1,
       "hint":{
-        "en":"PIB\/number of the insurance contract",
-        "uk":"\u041f\u0406\u0411\/\u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443 \u0441\u0442\u0440\u0430\u0445\u0443\u0432\u0430\u043d\u043d\u044f",
-        "ru":"\u0424\u0418\u041e \/ \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443 \u0441\u0442\u0440\u0430\u0445\u0443\u0432\u0430\u043d\u043d\u044f"
+        "en":"PIB",
+        "ru":"\u0424\u0418\u041e",
+        "uk":"\u041f\u0406\u0411"
       },
-      "example":"I\u0432\u0430\u043d\u043e\u0432 I\u0432\u0430\u043d I\u0432\u0430\u043d\u043e\u0432\u0438\u0447\/123456"
+      "example":"I\u0432\u0430\u043d\u043e\u0432 I\u0432\u0430\u043d I\u0432\u0430\u043d\u043e\u0432\u0438\u0447"
+    },
+    {
+      "key":"number_of_the_insurance_contract",
+      "type":"string",
+      "label":{
+        "en":"number of the insurance contract",
+        "ru":"\u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443 \u0441\u0442\u0440\u0430\u0445\u0443\u0432\u0430\u043d\u043d\u044f",
+        "uk":"\u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443 \u0441\u0442\u0440\u0430\u0445\u0443\u0432\u0430\u043d\u043d\u044f"
+      },
+      "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
+      "required":true,
+      "position":2,
+      "hint":{
+        "en":"number of the insurance contract",
+        "ru":"\u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443 \u0441\u0442\u0440\u0430\u0445\u0443\u0432\u0430\u043d\u043d\u044f",
+        "uk":"\u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443 \u0441\u0442\u0440\u0430\u0445\u0443\u0432\u0430\u043d\u043d\u044f"
+      },
+      "example":"123456"
     }
   ],
-  "amount_min":2,
-  "amount_max":14999
+  "amount_min":"2",
+  "amount_max":"14999"
 }
 ```  

@@ -16,7 +16,7 @@
 :	[RU] Litecoin 
 :	[UK] Litecoin 
  
-**Amount limits:** from `1.0E-5` to `100` LTC 
+**Amount limits:** from `0.00001` to `100` LTC 
 
 ## Fields 
 
@@ -74,7 +74,7 @@
       "position":1
     }
   ],
-  "amount_min":1.0e-5,
-  "amount_max":100
+  "amount_min":"0.00001",
+  "amount_max":"100"
 }
 ```  

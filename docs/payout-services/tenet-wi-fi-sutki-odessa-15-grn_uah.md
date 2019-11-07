@@ -75,7 +75,7 @@
       "example":"501234567"
     }
   ],
-  "amount_min":15,
-  "amount_max":2000
+  "amount_min":"15",
+  "amount_max":"2000"
 }
 ```  

@@ -26,7 +26,7 @@
   "method":"usdt",
   "currency":"USD",
   "fields":null,
-  "amount_min":10,
-  "amount_max":21943
+  "amount_min":"10",
+  "amount_max":"21943"
 }
 ```  
