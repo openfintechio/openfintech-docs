@@ -498,7 +498,13 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><code>client_id</code></td>
+<td align="center"><code>nomer_dogovoru</code></td>
+<td align="center">✔</td>
+<td align="center"><code>string</code></td>
+<td align="center"><code>/^\d{1,128}$/</code></td>
+</tr>
+<tr>
+<td align="center"><code>datu_narodzhennya</code></td>
 <td align="center">✔</td>
 <td align="center"><code>string</code></td>
 <td align="center"><code>/^\d{1,128}$/</code></td>
@@ -508,19 +514,35 @@
 <h3 id="details">Details<a class="headerlink" href="#details" title="Permanent link">&para;</a></h3>
 <ol>
 <li>
-<p><strong><code>client_id</code></strong> </p>
+<p><strong><code>nomer_dogovoru</code></strong> </p>
 <p>Type: <code>string</code> </p>
 <p>Regexp: <code>/^\d{1,128}$/</code> </p>
 <p>Required: <code>1</code> </p>
 <dl>
 <dt>Label:</dt>
-<dd>[EN] Номер договору#дату народження </dd>
-<dd>[RU] Номер договору#дату народження </dd>
-<dd>[UK] Номер договору#дату народження </dd>
+<dd>[EN] Номер договору </dd>
+<dd>[RU] Номер договору </dd>
+<dd>[UK] Номер договору </dd>
 <dt>Hint:</dt>
-<dd>[EN] Номер договору#дату народження </dd>
-<dd>[RU] Номер договору#дату народження </dd>
-<dd>[UK] Номер договору#дату народження </dd>
+<dd>[EN] Номер договору </dd>
+<dd>[RU] Номер договору </dd>
+<dd>[UK] Номер договору </dd>
+</dl>
+</li>
+<li>
+<p><strong><code>datu_narodzhennya</code></strong> </p>
+<p>Type: <code>string</code> </p>
+<p>Regexp: <code>/^\d{1,128}$/</code> </p>
+<p>Required: <code>1</code> </p>
+<dl>
+<dt>Label:</dt>
+<dd>[EN] дату народження </dd>
+<dd>[RU] дату народження </dd>
+<dd>[UK] дату народження </dd>
+<dt>Hint:</dt>
+<dd>[EN] дату народження </dd>
+<dd>[RU] дату народження </dd>
+<dd>[UK] дату народження </dd>
 </dl>
 </li>
 </ol>
@@ -531,22 +553,40 @@
   <span class="nt">&quot;currency&quot;</span><span class="p">:</span><span class="s2">&quot;UAH&quot;</span><span class="p">,</span>
   <span class="nt">&quot;fields&quot;</span><span class="p">:[</span>
     <span class="p">{</span>
-      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;client_id&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;nomer_dogovoru&quot;</span><span class="p">,</span>
       <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
       <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443#\u0434\u0430\u0442\u0443 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443#\u0434\u0430\u0442\u0443 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443#\u0434\u0430\u0442\u0443 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f&quot;</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443&quot;</span>
       <span class="p">},</span>
       <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^\\d{1,128}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
       <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443#\u0434\u0430\u0442\u0443 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443#\u0434\u0430\u0442\u0443 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443#\u0434\u0430\u0442\u0443 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f&quot;</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443&quot;</span>
       <span class="p">},</span>
-      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;2712947784#25.09.1983&quot;</span>
+      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;2712947784&quot;</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;datu_narodzhennya&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;\u0434\u0430\u0442\u0443 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0434\u0430\u0442\u0443 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0434\u0430\u0442\u0443 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^\\d{1,128}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">2</span><span class="p">,</span>
+      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;\u0434\u0430\u0442\u0443 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0434\u0430\u0442\u0443 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0434\u0430\u0442\u0443 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;25.09.1983&quot;</span>
     <span class="p">}</span>
   <span class="p">],</span>
   <span class="nt">&quot;amount_min&quot;</span><span class="p">:</span><span class="s2">&quot;2.00&quot;</span><span class="p">,</span>

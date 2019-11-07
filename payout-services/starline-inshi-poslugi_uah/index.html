@@ -498,7 +498,13 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><code>client_id</code></td>
+<td align="center"><code>pib_povistu</code></td>
+<td align="center">✔</td>
+<td align="center"><code>string</code></td>
+<td align="center"><code>/^(\w\|\.\| \|\-\|\+\|@){1,128}$/</code></td>
+</tr>
+<tr>
+<td align="center"><code>address_povnistu</code></td>
 <td align="center">✔</td>
 <td align="center"><code>string</code></td>
 <td align="center"><code>/^(\w\|\.\| \|\-\|\+\|@){1,128}$/</code></td>
@@ -508,19 +514,35 @@
 <h3 id="details">Details<a class="headerlink" href="#details" title="Permanent link">&para;</a></h3>
 <ol>
 <li>
-<p><strong><code>client_id</code></strong> </p>
+<p><strong><code>pib_povistu</code></strong> </p>
 <p>Type: <code>string</code> </p>
 <p>Regexp: <code>/^(\w|\.| |\-|\+|@){1,128}$/</code> </p>
 <p>Required: <code>1</code> </p>
 <dl>
 <dt>Label:</dt>
-<dd>[EN] PIB (povistu)/address (povnistu) </dd>
-<dd>[UK] ПІБ (повністю) /адреса (повністю) </dd>
-<dd>[RU] ФИО (полностью)/ address (полностью) </dd>
+<dd>[EN] PIB (povistu) </dd>
+<dd>[RU] ФИО (полностью) </dd>
+<dd>[UK] ПІБ (повністю) </dd>
 <dt>Hint:</dt>
-<dd>[EN] PIB (povistu)/address (povnistu) </dd>
-<dd>[UK] ПІБ (повністю) /адреса (повністю) </dd>
-<dd>[RU] ФИО (полностью)/ address (полностью) </dd>
+<dd>[EN] PIB (povistu) </dd>
+<dd>[RU] ФИО (полностью) </dd>
+<dd>[UK] ПІБ (повністю) </dd>
+</dl>
+</li>
+<li>
+<p><strong><code>address_povnistu</code></strong> </p>
+<p>Type: <code>string</code> </p>
+<p>Regexp: <code>/^(\w|\.| |\-|\+|@){1,128}$/</code> </p>
+<p>Required: <code>1</code> </p>
+<dl>
+<dt>Label:</dt>
+<dd>[EN] address (povnistu) </dd>
+<dd>[RU] address (полностью) </dd>
+<dd>[UK] адреса (повністю) </dd>
+<dt>Hint:</dt>
+<dd>[EN] address (povnistu) </dd>
+<dd>[RU] address (полностью) </dd>
+<dd>[UK] адреса (повністю) </dd>
 </dl>
 </li>
 </ol>
@@ -531,25 +553,42 @@
   <span class="nt">&quot;currency&quot;</span><span class="p">:</span><span class="s2">&quot;UAH&quot;</span><span class="p">,</span>
   <span class="nt">&quot;fields&quot;</span><span class="p">:[</span>
     <span class="p">{</span>
-      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;client_id&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;pib_povistu&quot;</span><span class="p">,</span>
       <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
       <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;PIB (povistu)\/address (povnistu)&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041f\u0406\u0411 (\u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e) \/\u0430\u0434\u0440\u0435\u0441\u0430 (\u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e)&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0424\u0418\u041e (\u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e)\/ address (\u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e)&quot;</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;PIB (povistu)&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0424\u0418\u041e (\u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e)&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041f\u0406\u0411 (\u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e)&quot;</span>
       <span class="p">},</span>
       <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
       <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;PIB (povistu)\/address (povnistu)&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041f\u0406\u0411 (\u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e) \/\u0430\u0434\u0440\u0435\u0441\u0430 (\u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e)&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0424\u0418\u041e (\u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e)\/ address (\u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e)&quot;</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;PIB (povistu)&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0424\u0418\u041e (\u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e)&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041f\u0406\u0411 (\u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e)&quot;</span>
+      <span class="p">}</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;address_povnistu&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;address (povnistu)&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;address (\u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e)&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0430\u0434\u0440\u0435\u0441\u0430 (\u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e)&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">2</span><span class="p">,</span>
+      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;address (povnistu)&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;address (\u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e)&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0430\u0434\u0440\u0435\u0441\u0430 (\u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e)&quot;</span>
       <span class="p">}</span>
     <span class="p">}</span>
   <span class="p">],</span>
-  <span class="nt">&quot;amount_min&quot;</span><span class="p">:</span><span class="mi">2</span><span class="p">,</span>
-  <span class="nt">&quot;amount_max&quot;</span><span class="p">:</span><span class="mi">14999</span>
+  <span class="nt">&quot;amount_min&quot;</span><span class="p">:</span><span class="s2">&quot;2&quot;</span><span class="p">,</span>
+  <span class="nt">&quot;amount_max&quot;</span><span class="p">:</span><span class="s2">&quot;14999&quot;</span>
 <span class="p">}</span>
 </pre></div>
                 

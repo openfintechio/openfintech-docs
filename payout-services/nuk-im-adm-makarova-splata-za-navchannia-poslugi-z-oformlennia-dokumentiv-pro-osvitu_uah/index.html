@@ -498,7 +498,13 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><code>client_id</code></td>
+<td align="center"><code>pib</code></td>
+<td align="center">✔</td>
+<td align="center"><code>string</code></td>
+<td align="center"><code>/^(\w\|\.\| \|\-\|\+\|@){1,128}$/</code></td>
+</tr>
+<tr>
+<td align="center"><code>dodatkova_information</code></td>
 <td align="center">✔</td>
 <td align="center"><code>string</code></td>
 <td align="center"><code>/^(\w\|\.\| \|\-\|\+\|@){1,128}$/</code></td>
@@ -508,19 +514,35 @@
 <h3 id="details">Details<a class="headerlink" href="#details" title="Permanent link">&para;</a></h3>
 <ol>
 <li>
-<p><strong><code>client_id</code></strong> </p>
+<p><strong><code>pib</code></strong> </p>
 <p>Type: <code>string</code> </p>
 <p>Regexp: <code>/^(\w|\.| |\-|\+|@){1,128}$/</code> </p>
 <p>Required: <code>1</code> </p>
 <dl>
 <dt>Label:</dt>
-<dd>[EN] PIB # Dodatkova Information </dd>
-<dd>[UK] ПIБ # Додаткова iнформацiя </dd>
-<dd>[RU] ФИО # Дополнительная информация </dd>
+<dd>[EN] PIB </dd>
+<dd>[RU] ФИО </dd>
+<dd>[UK] ПIБ </dd>
 <dt>Hint:</dt>
-<dd>[EN] PIB # Dodatkova Information </dd>
-<dd>[UK] ПIБ # Додаткова iнформацiя </dd>
-<dd>[RU] ФИО # Дополнительная информация </dd>
+<dd>[EN] PIB </dd>
+<dd>[RU] ФИО </dd>
+<dd>[UK] ПIБ </dd>
+</dl>
+</li>
+<li>
+<p><strong><code>dodatkova_information</code></strong> </p>
+<p>Type: <code>string</code> </p>
+<p>Regexp: <code>/^(\w|\.| |\-|\+|@){1,128}$/</code> </p>
+<p>Required: <code>1</code> </p>
+<dl>
+<dt>Label:</dt>
+<dd>[EN] Dodatkova Information </dd>
+<dd>[RU] Дополнительная информация </dd>
+<dd>[UK] Додаткова iнформацiя </dd>
+<dt>Hint:</dt>
+<dd>[EN] Dodatkova Information </dd>
+<dd>[RU] Дополнительная информация </dd>
+<dd>[UK] Додаткова iнформацiя </dd>
 </dl>
 </li>
 </ol>
@@ -531,26 +553,44 @@
   <span class="nt">&quot;currency&quot;</span><span class="p">:</span><span class="s2">&quot;UAH&quot;</span><span class="p">,</span>
   <span class="nt">&quot;fields&quot;</span><span class="p">:[</span>
     <span class="p">{</span>
-      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;client_id&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;pib&quot;</span><span class="p">,</span>
       <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
       <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;PIB # Dodatkova Information&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041fI\u0411 # \u0414\u043e\u0434\u0430\u0442\u043a\u043e\u0432\u0430 i\u043d\u0444\u043e\u0440\u043c\u0430\u0446i\u044f&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0424\u0418\u041e # \u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f&quot;</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;PIB&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0424\u0418\u041e&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041fI\u0411&quot;</span>
       <span class="p">},</span>
       <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
       <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;PIB # Dodatkova Information&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041fI\u0411 # \u0414\u043e\u0434\u0430\u0442\u043a\u043e\u0432\u0430 i\u043d\u0444\u043e\u0440\u043c\u0430\u0446i\u044f&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0424\u0418\u041e # \u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f&quot;</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;PIB&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0424\u0418\u041e&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041fI\u0411&quot;</span>
       <span class="p">},</span>
-      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;\u041f\u0435\u0442\u0440\u043e\u0432 \u0410.\u0410.#\u0421\u043f\u043b\u0430\u0442\u0430 \u0437\u0430 \u0434\u0438\u043f\u043b\u043e\u043c \u2116\u041f\u041f 215555&quot;</span>
+      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;\u041f\u0435\u0442\u0440\u043e\u0432 \u0410.\u0410.&quot;</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;dodatkova_information&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Dodatkova Information&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0414\u043e\u0434\u0430\u0442\u043a\u043e\u0432\u0430 i\u043d\u0444\u043e\u0440\u043c\u0430\u0446i\u044f&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">2</span><span class="p">,</span>
+      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Dodatkova Information&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0414\u043e\u0434\u0430\u0442\u043a\u043e\u0432\u0430 i\u043d\u0444\u043e\u0440\u043c\u0430\u0446i\u044f&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;\u0421\u043f\u043b\u0430\u0442\u0430 \u0437\u0430 \u0434\u0438\u043f\u043b\u043e\u043c \u2116\u041f\u041f 215555&quot;</span>
     <span class="p">}</span>
   <span class="p">],</span>
-  <span class="nt">&quot;amount_min&quot;</span><span class="p">:</span><span class="mi">2</span><span class="p">,</span>
-  <span class="nt">&quot;amount_max&quot;</span><span class="p">:</span><span class="mi">14999</span>
+  <span class="nt">&quot;amount_min&quot;</span><span class="p">:</span><span class="s2">&quot;2&quot;</span><span class="p">,</span>
+  <span class="nt">&quot;amount_max&quot;</span><span class="p">:</span><span class="s2">&quot;14999&quot;</span>
 <span class="p">}</span>
 </pre></div>
                 

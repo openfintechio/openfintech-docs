@@ -498,7 +498,19 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><code>client_id</code></td>
+<td align="center"><code>consultant_number</code></td>
+<td align="center">✔</td>
+<td align="center"><code>string</code></td>
+<td align="center"><code>/^(\w\|\.\| \|\-\|\+\|@){1,128}$/</code></td>
+</tr>
+<tr>
+<td align="center"><code>name_of_consultant</code></td>
+<td align="center">✔</td>
+<td align="center"><code>string</code></td>
+<td align="center"><code>/^(\w\|\.\| \|\-\|\+\|@){1,128}$/</code></td>
+</tr>
+<tr>
+<td align="center"><code>inn_consultant</code></td>
 <td align="center">✔</td>
 <td align="center"><code>string</code></td>
 <td align="center"><code>/^(\w\|\.\| \|\-\|\+\|@){1,128}$/</code></td>
@@ -508,19 +520,51 @@
 <h3 id="details">Details<a class="headerlink" href="#details" title="Permanent link">&para;</a></h3>
 <ol>
 <li>
-<p><strong><code>client_id</code></strong> </p>
+<p><strong><code>consultant_number</code></strong> </p>
 <p>Type: <code>string</code> </p>
 <p>Regexp: <code>/^(\w|\.| |\-|\+|@){1,128}$/</code> </p>
 <p>Required: <code>1</code> </p>
 <dl>
 <dt>Label:</dt>
-<dd>[EN] Consultant number # name of consultant # INN consultant </dd>
-<dd>[UK] Номер консультанта # ПІБ консультанта # ІПН консультанта </dd>
-<dd>[RU] Номер консультанта # ФИО консультанта # ИНН консультанта </dd>
+<dd>[EN] Consultant number </dd>
+<dd>[RU] Номер консультанта </dd>
+<dd>[UK] Номер консультанта </dd>
 <dt>Hint:</dt>
-<dd>[EN] Consultant number # name of consultant # INN consultant </dd>
-<dd>[UK] Номер консультанта # ПІБ консультанта # ІПН консультанта </dd>
-<dd>[RU] Номер консультанта # ФИО консультанта # ИНН консультанта </dd>
+<dd>[EN] Consultant number </dd>
+<dd>[RU] Номер консультанта </dd>
+<dd>[UK] Номер консультанта </dd>
+</dl>
+</li>
+<li>
+<p><strong><code>name_of_consultant</code></strong> </p>
+<p>Type: <code>string</code> </p>
+<p>Regexp: <code>/^(\w|\.| |\-|\+|@){1,128}$/</code> </p>
+<p>Required: <code>1</code> </p>
+<dl>
+<dt>Label:</dt>
+<dd>[EN] name of consultant </dd>
+<dd>[RU] ФИО консультанта </dd>
+<dd>[UK] ПІБ консультанта </dd>
+<dt>Hint:</dt>
+<dd>[EN] name of consultant </dd>
+<dd>[RU] ФИО консультанта </dd>
+<dd>[UK] ПІБ консультанта </dd>
+</dl>
+</li>
+<li>
+<p><strong><code>inn_consultant</code></strong> </p>
+<p>Type: <code>string</code> </p>
+<p>Regexp: <code>/^(\w|\.| |\-|\+|@){1,128}$/</code> </p>
+<p>Required: <code>1</code> </p>
+<dl>
+<dt>Label:</dt>
+<dd>[EN] INN consultant </dd>
+<dd>[RU] ИНН консультанта </dd>
+<dd>[UK] ІПН консультанта </dd>
+<dt>Hint:</dt>
+<dd>[EN] INN consultant </dd>
+<dd>[RU] ИНН консультанта </dd>
+<dd>[UK] ІПН консультанта </dd>
 </dl>
 </li>
 </ol>
@@ -531,26 +575,62 @@
   <span class="nt">&quot;currency&quot;</span><span class="p">:</span><span class="s2">&quot;UAH&quot;</span><span class="p">,</span>
   <span class="nt">&quot;fields&quot;</span><span class="p">:[</span>
     <span class="p">{</span>
-      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;client_id&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;consultant_number&quot;</span><span class="p">,</span>
       <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
       <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Consultant number # name of consultant # INN consultant&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430 # \u041f\u0406\u0411 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430 # \u0406\u041f\u041d \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430 # \u0424\u0418\u041e \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430 # \u0418\u041d\u041d \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430&quot;</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Consultant number&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430&quot;</span>
       <span class="p">},</span>
       <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
       <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Consultant number # name of consultant # INN consultant&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430 # \u041f\u0406\u0411 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430 # \u0406\u041f\u041d \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430 # \u0424\u0418\u041e \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430 # \u0418\u041d\u041d \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430&quot;</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Consultant number&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430&quot;</span>
       <span class="p">},</span>
-      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;12345#\u0418\u0432\u0430\u043d\u043e\u0432\u0430 \u0410\u0410#3333333333&quot;</span>
+      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;12345&quot;</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;name_of_consultant&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;name of consultant&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0424\u0418\u041e \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041f\u0406\u0411 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">2</span><span class="p">,</span>
+      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;name of consultant&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0424\u0418\u041e \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041f\u0406\u0411 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;\u0418\u0432\u0430\u043d\u043e\u0432\u0430 \u0410\u0410&quot;</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;inn_consultant&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;INN consultant&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0418\u041d\u041d \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0406\u041f\u041d \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span>
+      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;INN consultant&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0418\u041d\u041d \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0406\u041f\u041d \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u0430&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;3333333333&quot;</span>
     <span class="p">}</span>
   <span class="p">],</span>
-  <span class="nt">&quot;amount_min&quot;</span><span class="p">:</span><span class="mi">2</span><span class="p">,</span>
-  <span class="nt">&quot;amount_max&quot;</span><span class="p">:</span><span class="mi">14999</span>
+  <span class="nt">&quot;amount_min&quot;</span><span class="p">:</span><span class="s2">&quot;2&quot;</span><span class="p">,</span>
+  <span class="nt">&quot;amount_max&quot;</span><span class="p">:</span><span class="s2">&quot;14999&quot;</span>
 <span class="p">}</span>
 </pre></div>
                 

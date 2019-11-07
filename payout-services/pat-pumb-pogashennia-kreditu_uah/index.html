@@ -498,7 +498,19 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><code>client_id</code></td>
+<td align="center"><code>nomer_i_data_dogovoru</code></td>
+<td align="center">✔</td>
+<td align="center"><code>string</code></td>
+<td align="center"><code>/^[\w\|\.\| \|\-\|\+\|@\|\#]{1,128}$/</code></td>
+</tr>
+<tr>
+<td align="center"><code>nomer_rahunku_2909</code></td>
+<td align="center">✔</td>
+<td align="center"><code>string</code></td>
+<td align="center"><code>/^[\w\|\.\| \|\-\|\+\|@\|\#]{1,128}$/</code></td>
+</tr>
+<tr>
+<td align="center"><code>pib</code></td>
 <td align="center">✔</td>
 <td align="center"><code>string</code></td>
 <td align="center"><code>/^[\w\|\.\| \|\-\|\+\|@\|\#]{1,128}$/</code></td>
@@ -508,19 +520,51 @@
 <h3 id="details">Details<a class="headerlink" href="#details" title="Permanent link">&para;</a></h3>
 <ol>
 <li>
-<p><strong><code>client_id</code></strong> </p>
+<p><strong><code>nomer_i_data_dogovoru</code></strong> </p>
 <p>Type: <code>string</code> </p>
 <p>Regexp: <code>/^[\w|\.| |\-|\+|@|\#]{1,128}$/</code> </p>
 <p>Required: <code>1</code> </p>
 <dl>
 <dt>Label:</dt>
-<dd>[EN] номер і дата договору#номер рахунку 2909_#ПІБ </dd>
-<dd>[RU] номер і дата договору#номер рахунку 2909_#ПІБ </dd>
-<dd>[UK] номер і дата договору#номер рахунку 2909_#ПІБ </dd>
+<dd>[EN] номер і дата договору </dd>
+<dd>[RU] номер і дата договору </dd>
+<dd>[UK] номер і дата договору </dd>
 <dt>Hint:</dt>
-<dd>[EN] номер і дата договору#номер рахунку 2909_#ПІБ </dd>
-<dd>[RU] номер і дата договору#номер рахунку 2909_#ПІБ </dd>
-<dd>[UK] номер і дата договору#номер рахунку 2909_#ПІБ </dd>
+<dd>[EN] номер і дата договору </dd>
+<dd>[RU] номер і дата договору </dd>
+<dd>[UK] номер і дата договору </dd>
+</dl>
+</li>
+<li>
+<p><strong><code>nomer_rahunku_2909</code></strong> </p>
+<p>Type: <code>string</code> </p>
+<p>Regexp: <code>/^[\w|\.| |\-|\+|@|\#]{1,128}$/</code> </p>
+<p>Required: <code>1</code> </p>
+<dl>
+<dt>Label:</dt>
+<dd>[EN] номер рахунку 2909_ </dd>
+<dd>[RU] номер рахунку 2909_ </dd>
+<dd>[UK] номер рахунку 2909_ </dd>
+<dt>Hint:</dt>
+<dd>[EN] номер рахунку 2909_ </dd>
+<dd>[RU] номер рахунку 2909_ </dd>
+<dd>[UK] номер рахунку 2909_ </dd>
+</dl>
+</li>
+<li>
+<p><strong><code>pib</code></strong> </p>
+<p>Type: <code>string</code> </p>
+<p>Regexp: <code>/^[\w|\.| |\-|\+|@|\#]{1,128}$/</code> </p>
+<p>Required: <code>1</code> </p>
+<dl>
+<dt>Label:</dt>
+<dd>[EN] ПІБ </dd>
+<dd>[RU] ПІБ </dd>
+<dd>[UK] ПІБ </dd>
+<dt>Hint:</dt>
+<dd>[EN] ПІБ </dd>
+<dd>[RU] ПІБ </dd>
+<dd>[UK] ПІБ </dd>
 </dl>
 </li>
 </ol>
@@ -531,22 +575,58 @@
   <span class="nt">&quot;currency&quot;</span><span class="p">:</span><span class="s2">&quot;UAH&quot;</span><span class="p">,</span>
   <span class="nt">&quot;fields&quot;</span><span class="p">:[</span>
     <span class="p">{</span>
-      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;client_id&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;nomer_i_data_dogovoru&quot;</span><span class="p">,</span>
       <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
       <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0456 \u0434\u0430\u0442\u0430 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443#\u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 2909_#\u041f\u0406\u0411&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0456 \u0434\u0430\u0442\u0430 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443#\u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 2909_#\u041f\u0406\u0411&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0456 \u0434\u0430\u0442\u0430 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443#\u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 2909_#\u041f\u0406\u0411&quot;</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0456 \u0434\u0430\u0442\u0430 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0456 \u0434\u0430\u0442\u0430 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0456 \u0434\u0430\u0442\u0430 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443&quot;</span>
       <span class="p">},</span>
       <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[\\w|\\.| |\\-|\\+|@|\\#]{1,128}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
       <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0456 \u0434\u0430\u0442\u0430 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443#\u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 2909_#\u041f\u0406\u0411&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0456 \u0434\u0430\u0442\u0430 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443#\u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 2909_#\u041f\u0406\u0411&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0456 \u0434\u0430\u0442\u0430 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443#\u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 2909_#\u041f\u0406\u0411&quot;</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0456 \u0434\u0430\u0442\u0430 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0456 \u0434\u0430\u0442\u0430 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0456 \u0434\u0430\u0442\u0430 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443&quot;</span>
       <span class="p">},</span>
-      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;\u2116100 \u0432\u0456\u0434 01.01.2018#29091234567890#\u041f\u0435\u0442\u0440\u043e\u0432 \u0406.\u0406.&quot;</span>
+      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;\u2116100 \u0432\u0456\u0434 01.01.2018&quot;</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;nomer_rahunku_2909&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 2909_&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 2909_&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 2909_&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[\\w|\\.| |\\-|\\+|@|\\#]{1,128}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">2</span><span class="p">,</span>
+      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 2909_&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 2909_&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 2909_&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;29091234567890&quot;</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;pib&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;\u041f\u0406\u0411&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u041f\u0406\u0411&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041f\u0406\u0411&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[\\w|\\.| |\\-|\\+|@|\\#]{1,128}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span>
+      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;\u041f\u0406\u0411&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u041f\u0406\u0411&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041f\u0406\u0411&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;\u041f\u0435\u0442\u0440\u043e\u0432 \u0406.\u0406.&quot;</span>
     <span class="p">}</span>
   <span class="p">],</span>
   <span class="nt">&quot;amount_min&quot;</span><span class="p">:</span><span class="s2">&quot;2.00&quot;</span><span class="p">,</span>

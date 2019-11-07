@@ -498,7 +498,19 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><code>client_id</code></td>
+<td align="center"><code>or</code></td>
+<td align="center">✔</td>
+<td align="center"><code>string</code></td>
+<td align="center"><code>/^[\w\|\.\| \|\-\|\+\|@\|\#]{1,128}$/</code></td>
+</tr>
+<tr>
+<td align="center"><code>nomer_budinku</code></td>
+<td align="center">✔</td>
+<td align="center"><code>string</code></td>
+<td align="center"><code>/^[\w\|\.\| \|\-\|\+\|@\|\#]{1,128}$/</code></td>
+</tr>
+<tr>
+<td align="center"><code>nomer_kvartiri</code></td>
 <td align="center">✔</td>
 <td align="center"><code>string</code></td>
 <td align="center"><code>/^[\w\|\.\| \|\-\|\+\|@\|\#]{1,128}$/</code></td>
@@ -508,19 +520,51 @@
 <h3 id="details">Details<a class="headerlink" href="#details" title="Permanent link">&para;</a></h3>
 <ol>
 <li>
-<p><strong><code>client_id</code></strong> </p>
+<p><strong><code>or</code></strong> </p>
 <p>Type: <code>string</code> </p>
 <p>Regexp: <code>/^[\w|\.| |\-|\+|@|\#]{1,128}$/</code> </p>
 <p>Required: <code>1</code> </p>
 <dl>
 <dt>Label:</dt>
-<dd>[EN] OР#номер будинку#номер квартири </dd>
-<dd>[RU] OР#номер будинку#номер квартири </dd>
-<dd>[UK] OР#номер будинку#номер квартири </dd>
+<dd>[EN] OР </dd>
+<dd>[RU] OР </dd>
+<dd>[UK] OР </dd>
 <dt>Hint:</dt>
-<dd>[EN] OР#номер будинку#номер квартири </dd>
-<dd>[RU] OР#номер будинку#номер квартири </dd>
-<dd>[UK] OР#номер будинку#номер квартири </dd>
+<dd>[EN] OР </dd>
+<dd>[RU] OР </dd>
+<dd>[UK] OР </dd>
+</dl>
+</li>
+<li>
+<p><strong><code>nomer_budinku</code></strong> </p>
+<p>Type: <code>string</code> </p>
+<p>Regexp: <code>/^[\w|\.| |\-|\+|@|\#]{1,128}$/</code> </p>
+<p>Required: <code>1</code> </p>
+<dl>
+<dt>Label:</dt>
+<dd>[EN] номер будинку </dd>
+<dd>[RU] номер будинку </dd>
+<dd>[UK] номер будинку </dd>
+<dt>Hint:</dt>
+<dd>[EN] номер будинку </dd>
+<dd>[RU] номер будинку </dd>
+<dd>[UK] номер будинку </dd>
+</dl>
+</li>
+<li>
+<p><strong><code>nomer_kvartiri</code></strong> </p>
+<p>Type: <code>string</code> </p>
+<p>Regexp: <code>/^[\w|\.| |\-|\+|@|\#]{1,128}$/</code> </p>
+<p>Required: <code>1</code> </p>
+<dl>
+<dt>Label:</dt>
+<dd>[EN] номер квартири </dd>
+<dd>[RU] номер квартири </dd>
+<dd>[UK] номер квартири </dd>
+<dt>Hint:</dt>
+<dd>[EN] номер квартири </dd>
+<dd>[RU] номер квартири </dd>
+<dd>[UK] номер квартири </dd>
 </dl>
 </li>
 </ol>
@@ -531,22 +575,58 @@
   <span class="nt">&quot;currency&quot;</span><span class="p">:</span><span class="s2">&quot;UAH&quot;</span><span class="p">,</span>
   <span class="nt">&quot;fields&quot;</span><span class="p">:[</span>
     <span class="p">{</span>
-      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;client_id&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;or&quot;</span><span class="p">,</span>
       <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
       <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;O\u0420#\u043d\u043e\u043c\u0435\u0440 \u0431\u0443\u0434\u0438\u043d\u043a\u0443#\u043d\u043e\u043c\u0435\u0440 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0438&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;O\u0420#\u043d\u043e\u043c\u0435\u0440 \u0431\u0443\u0434\u0438\u043d\u043a\u0443#\u043d\u043e\u043c\u0435\u0440 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0438&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;O\u0420#\u043d\u043e\u043c\u0435\u0440 \u0431\u0443\u0434\u0438\u043d\u043a\u0443#\u043d\u043e\u043c\u0435\u0440 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0438&quot;</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;O\u0420&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;O\u0420&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;O\u0420&quot;</span>
       <span class="p">},</span>
       <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[\\w|\\.| |\\-|\\+|@|\\#]{1,128}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
       <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;O\u0420#\u043d\u043e\u043c\u0435\u0440 \u0431\u0443\u0434\u0438\u043d\u043a\u0443#\u043d\u043e\u043c\u0435\u0440 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0438&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;O\u0420#\u043d\u043e\u043c\u0435\u0440 \u0431\u0443\u0434\u0438\u043d\u043a\u0443#\u043d\u043e\u043c\u0435\u0440 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0438&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;O\u0420#\u043d\u043e\u043c\u0435\u0440 \u0431\u0443\u0434\u0438\u043d\u043a\u0443#\u043d\u043e\u043c\u0435\u0440 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0438&quot;</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;O\u0420&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;O\u0420&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;O\u0420&quot;</span>
       <span class="p">},</span>
-      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;36-1910105#68#105&quot;</span>
+      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;36-1910105&quot;</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;nomer_budinku&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0431\u0443\u0434\u0438\u043d\u043a\u0443&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0431\u0443\u0434\u0438\u043d\u043a\u0443&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0431\u0443\u0434\u0438\u043d\u043a\u0443&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[\\w|\\.| |\\-|\\+|@|\\#]{1,128}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">2</span><span class="p">,</span>
+      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0431\u0443\u0434\u0438\u043d\u043a\u0443&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0431\u0443\u0434\u0438\u043d\u043a\u0443&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u0431\u0443\u0434\u0438\u043d\u043a\u0443&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;68&quot;</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;nomer_kvartiri&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0438&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0438&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0438&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[\\w|\\.| |\\-|\\+|@|\\#]{1,128}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span>
+      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0438&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0438&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u043d\u043e\u043c\u0435\u0440 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0438&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;105&quot;</span>
     <span class="p">}</span>
   <span class="p">],</span>
   <span class="nt">&quot;amount_min&quot;</span><span class="p">:</span><span class="s2">&quot;2.00&quot;</span><span class="p">,</span>
