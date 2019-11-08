@@ -610,7 +610,7 @@
 |![wire2pay](https://static.openfintech.io/payment_providers/wire2pay/logo.svg?w=600&c=v0.59.26#w100) |[**Wire2Pay**](wire2pay/)|`wire2pay`| 
 |![wirecapital](https://static.openfintech.io/payment_providers/wirecapital/logo.svg?w=600&c=v0.59.26#w100) |[**Wirecapital**](wirecapital/)|`wirecapital`| 
 |![wirecard](https://static.openfintech.io/payment_providers/wirecard/logo.svg?w=600&c=v0.59.26#w100) |[**Wirecard**](wirecard/)|`wirecard`| 
-|![wlandpay](https://static.openfintech.io/payment_providers/wlandpay/logo.svg?w=600&c=v0.59.26#w100) |[**Wlandpay**](wlandpay/)|`wlandpay`| 
+|![wlandpay](https://static.openfintech.io/payment_providers/wlandpay/logo.png?w=600&c=v0.59.26#w100) |[**Wlandpay**](wlandpay/)|`wlandpay`| 
 |![worldpay](https://static.openfintech.io/payment_providers/worldpay/logo.svg?w=600&c=v0.59.26#w100) |[**Worldpay**](worldpay/)|`worldpay`| 
 || **X** ||
 |![xpayua](https://static.openfintech.io/payment_providers/xpayua/logo.svg?w=600&c=v0.59.26#w100) |[**XPAY**](xpayua/)|`xpayua`| 
