@@ -502,13 +502,13 @@
 <td align="center"><code>first_name</code></td>
 <td align="center">✔</td>
 <td align="center"><code>string</code></td>
-<td align="center"><code>/^[a-zA-Zа-яА-Я]{0,255}$/</code></td>
+<td align="center"><code>/^[a-zA-Zа-яА-Я\s-]{0,255}$/</code></td>
 </tr>
 <tr>
 <td align="center"><code>last_name</code></td>
 <td align="center">✔</td>
 <td align="center"><code>string</code></td>
-<td align="center"><code>/^[a-zA-Zа-яА-Я]{0,255}$/</code></td>
+<td align="center"><code>/^[a-zA-Zа-яА-Я\s-]{0,255}$/</code></td>
 </tr>
 <tr>
 <td align="center"><code>date_of_birth</code></td>
@@ -523,7 +523,7 @@
 <li>
 <p><strong><code>first_name</code></strong> </p>
 <p>Type: <code>string</code> </p>
-<p>Regexp: <code>/^[a-zA-Zа-яА-Я]{0,255}$/</code> </p>
+<p>Regexp: <code>/^[a-zA-Zа-яА-Я\s-]{0,255}$/</code> </p>
 <p>Required: <code>1</code> </p>
 <dl>
 <dt>Label:</dt>
@@ -539,7 +539,7 @@
 <li>
 <p><strong><code>last_name</code></strong> </p>
 <p>Type: <code>string</code> </p>
-<p>Regexp: <code>/^[a-zA-Zа-яА-Я]{0,255}$/</code> </p>
+<p>Regexp: <code>/^[a-zA-Zа-яА-Я\s-]{0,255}$/</code> </p>
 <p>Required: <code>1</code> </p>
 <dl>
 <dt>Label:</dt>
@@ -589,7 +589,7 @@
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f&quot;</span><span class="p">,</span>
         <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c`\u044f&quot;</span>
       <span class="p">},</span>
-      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[a-zA-Z\u0430-\u044f\u0410-\u042f]{0,255}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[a-zA-Z\u0430-\u044f\u0410-\u042f\\s-]{0,255}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
       <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">1</span>
     <span class="p">},</span>
@@ -606,7 +606,7 @@
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0444\u0430\u043c\u0438\u043b\u0438\u044e&quot;</span><span class="p">,</span>
         <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u0440\u0456\u0437\u0432\u0438\u0449\u0435&quot;</span>
       <span class="p">},</span>
-      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[a-zA-Z\u0430-\u044f\u0410-\u042f]{0,255}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[a-zA-Z\u0430-\u044f\u0410-\u042f\\s-]{0,255}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
       <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">2</span>
     <span class="p">},</span>
