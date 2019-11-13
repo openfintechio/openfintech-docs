@@ -573,6 +573,7 @@
 |![trustcommerce](https://static.openfintech.io/payment_providers/trustcommerce/logo.png?w=600&c=v0.59.26#w100) |[**TrustCommerce**](trustcommerce/)|`trustcommerce`| 
 |![trustpay](https://static.openfintech.io/payment_providers/trustpay/logo.png?w=600&c=v0.59.26#w100) |[**TrustPay**](trustpay/)|`trustpay`| 
 |![trustpayglobal](https://static.openfintech.io/payment_providers/trustpayglobal/logo.png?w=600&c=v0.59.26#w100) |[**ILIXIUM**](trustpayglobal/)|`trustpayglobal`| 
+|![twelvelive](https://static.openfintech.io/payment_providers/twelvelive/logo.svg?w=600&c=v0.59.26#w100) |[**Twelve.live**](twelvelive/)|`twelvelive`| 
 |![txtnation](https://static.openfintech.io/payment_providers/txtnation/logo.png?w=600&c=v0.59.26#w100) |[**txtNation**](txtnation/)|`txtnation`| 
 || **U** ||
 |![uapay](https://static.openfintech.io/payment_providers/uapay/logo.svg?w=600&c=v0.59.26#w100) |[**UApay**](uapay/)|`uapay`| 

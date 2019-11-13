@@ -61,6 +61,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![maxpay](https://static.openfintech.io/payment_providers/maxpay/icon.svg?w=278&c=v0.59.26#w100) |[Maxpay](/payment-providers/maxpay/)|`maxpay`| 
 |![xpayua](https://static.openfintech.io/payment_providers/xpayua/icon.svg?w=278&c=v0.59.26#w100) |[XPAY](/payment-providers/xpayua/)|`xpayua`| 
 |![paymegaio](https://static.openfintech.io/payment_providers/paymegaio/icon.svg?w=278&c=v0.59.26#w100) |[Paymega.io](/payment-providers/paymegaio/)|`paymegaio`| 
+|![twelvelive](https://static.openfintech.io/payment_providers/twelvelive/icon.svg?w=278&c=v0.59.26#w100) |[Twelve.live](/payment-providers/twelvelive/)|`twelvelive`| 
 |![tranzzo](https://static.openfintech.io/payment_providers/tranzzo/icon.svg?w=278&c=v0.59.26#w100) |[Tranzzo](/payment-providers/tranzzo/)|`tranzzo`| 
 |![decta](https://static.openfintech.io/payment_providers/decta/icon.svg?w=278&c=v0.59.26#w100) |[Decta](/payment-providers/decta/)|`decta`| 
 |![paymentwall](https://static.openfintech.io/payment_providers/paymentwall/icon.svg?w=278&c=v0.59.26#w100) |[Paymentwall](/payment-providers/paymentwall/)|`paymentwall`| 
