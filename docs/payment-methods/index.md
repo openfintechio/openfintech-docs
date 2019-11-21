@@ -441,6 +441,8 @@
 |![wmnote](https://static.openfintech.io/payment_methods/wmnote/logo.png?w=400&c=v0.59.26#w200) |[**WebMoney note**](wmnote/)|`wmnote`| 
 |![woori_bank](https://static.openfintech.io/payment_methods/woori_bank/logo.png?w=400&c=v0.59.26#w200) |[**Woori Bank**](woori_bank/)|`woori_bank`| 
 |![wupay](https://static.openfintech.io/payment_methods/wupay/logo.png?w=400&c=v0.59.26#w200) |[**WU Pay**](wupay/)|`wupay`| 
+|| **X** ||
+|![xpate](https://static.openfintech.io/payment_methods/xpate/logo.svg?w=400&c=v0.59.26#w200) |[**Xpate**](xpate/)|`xpate`| 
 || **Y** ||
 |![yandexmoney](https://static.openfintech.io/payment_methods/yandexmoney/logo.svg?w=400&c=v0.59.26#w200) |[**Yandex.Money**](yandexmoney/)|`yandexmoney`| 
 |![yes_bank](https://static.openfintech.io/payment_methods/yes_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Yes Bank**](yes_bank/)|`yes_bank`| 
