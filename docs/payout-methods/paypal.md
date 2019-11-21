@@ -42,6 +42,7 @@ The list of [Payout Services](/payout-services/) based on the _PayPal_
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_email_huf](/payout-services/paypal_email_huf/)|`paypal_email_huf`| 
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_email_cad](/payout-services/paypal_email_cad/)|`paypal_email_cad`| 
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_email_aud](/payout-services/paypal_email_aud/)|`paypal_email_aud`| 
+|![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_email_pln](/payout-services/paypal_email_pln/)|`paypal_email_pln`| 
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_phone_usd](/payout-services/paypal_phone_usd/)|`paypal_phone_usd`| 
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_phone_eur](/payout-services/paypal_phone_eur/)|`paypal_phone_eur`| 
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_phone_gbp](/payout-services/paypal_phone_gbp/)|`paypal_phone_gbp`| 

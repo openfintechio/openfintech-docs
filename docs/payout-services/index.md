@@ -853,6 +853,7 @@
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_email_gbp`](paypal_email_gbp/)|`GBP`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_email_huf`](paypal_email_huf/)|`HUF`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_email_mxn`](paypal_email_mxn/)|`MXN`| 
+|![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_email_pln`](paypal_email_pln/)|`PLN`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_email_rub`](paypal_email_rub/)|`RUB`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_email_usd`](paypal_email_usd/)|`USD`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_id_aud`](paypal_id_aud/)|`AUD`| 
