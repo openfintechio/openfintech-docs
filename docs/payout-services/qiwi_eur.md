@@ -16,7 +16,7 @@
 :	[RU] Qiwi 
 :	[UK] Qiwi 
  
-**Amount limits:** from `1` to `10000` EUR 
+**Amount limits:** from `1` to `1000000` EUR 
 
 ## Fields 
 
@@ -75,6 +75,6 @@
     }
   ],
   "amount_min":"1",
-  "amount_max":"10000"
+  "amount_max":"1000000"
 }
 ```  
