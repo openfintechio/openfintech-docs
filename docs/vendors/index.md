@@ -410,6 +410,7 @@
 |![domashniedengi](https://static.openfintech.io/vendors/domashniedengi/logo.svg?w=600&c=v0.59.26#w200) |[**Домашние деньги**](domashniedengi/)|`domashniedengi`| 
 |![donecke_rupat_kb_privatbank_m_doneck](https://static.openfintech.io/vendors/donecke_rupat_kb_privatbank_m_doneck/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ 'ДОНЕЦЬКЕ РЕГІОНАЛЬНЕ УПРАВЛІННЯ' ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](donecke_rupat_kb_privatbank_m_doneck/)|`donecke_rupat_kb_privatbank_m_doneck`| 
 |![dotpay](https://static.openfintech.io/vendors/dotpay/logo.png?w=600&c=v0.59.26#w200) |[**Dotpay**](dotpay/)|`dotpay`| 
+|![dotpay](https://static.openfintech.io/vendors/dotpay/logo.png?w=600&c=v0.59.26#w200) |[**Dotpay**](dotpay/)|`dotpay`| 
 |![dragonpay](https://static.openfintech.io/vendors/dragonpay/logo.png?w=600&c=v0.59.26#w200) |[**Dragonpay**](dragonpay/)|`dragonpay`| 
 |![druga_filiya_prat_ufg_u_m_lviv](https://static.openfintech.io/vendors/druga_filiya_prat_ufg_u_m_lviv/logo.svg?w=600&c=v0.59.26#w200) |[**Друга філія ПрАТ 'Українська фінансова група' у м. Львів**](druga_filiya_prat_ufg_u_m_lviv/)|`druga_filiya_prat_ufg_u_m_lviv`| 
 |![druga_filiya_prat_ufg_u_m_poltava](https://static.openfintech.io/vendors/druga_filiya_prat_ufg_u_m_poltava/logo.svg?w=600&c=v0.59.26#w200) |[**Друга філія ПрАТ 'Українська фінансова група' у м. Полтава**](druga_filiya_prat_ufg_u_m_poltava/)|`druga_filiya_prat_ufg_u_m_poltava`| 

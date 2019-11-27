@@ -255,6 +255,7 @@
 |![dopomoga-ditiam-invalidam-mbf-tsspm](https://static.openfintech.io/payout_methods/dopomoga-ditiam-invalidam-mbf-tsspm/logo.png?w=400&c=v0.59.26#w24) |[**Help for Children with Disabilities - ICF DSPM**](dopomoga-ditiam-invalidam-mbf-tsspm/)|`dopomoga-ditiam-invalidam-mbf-tsspm`| 
 |![dopomoga-ditiam-skhodu-mbf-tsspm](https://static.openfintech.io/payout_methods/dopomoga-ditiam-skhodu-mbf-tsspm/logo.png?w=400&c=v0.59.26#w24) |[**Help for Children of the East - ICF DSPM**](dopomoga-ditiam-skhodu-mbf-tsspm/)|`dopomoga-ditiam-skhodu-mbf-tsspm`| 
 |![dopomoga-glukhim-ditiam-mbf-tsspm](https://static.openfintech.io/payout_methods/dopomoga-glukhim-ditiam-mbf-tsspm/logo.png?w=400&c=v0.59.26#w24) |[**Help for Deaf Children - ICF DSPM '**](dopomoga-glukhim-ditiam-mbf-tsspm/)|`dopomoga-glukhim-ditiam-mbf-tsspm`| 
+|![dotpay](https://static.openfintech.io/payout_methods/dotpay/logo.svg?w=400&c=v0.59.26#w24) |[**Dotpay**](dotpay/)|`dotpay`| 
 |![dotsenty](https://static.openfintech.io/payout_methods/dotsenty/logo.png?w=400&c=v0.59.26#w24) |[**Docents**](dotsenty/)|`dotsenty`| 
 |![dp-darnitsia-1](https://static.openfintech.io/payout_methods/dp-darnitsia-1/logo.png?w=400&c=v0.59.26#w24) |[**DP 'Darnitsya-1'**](dp-darnitsia-1/)|`dp-darnitsia-1`| 
 |![dp-gaz-melitopolia-pat-melitopolgaz](https://static.openfintech.io/payout_methods/dp-gaz-melitopolia-pat-melitopolgaz/logo.png?w=400&c=v0.59.26#w24) |[**DP Gas Melitopol PJSC 'Melitopolgas'**](dp-gaz-melitopolia-pat-melitopolgaz/)|`dp-gaz-melitopolia-pat-melitopolgaz`| 
