@@ -32,15 +32,6 @@ https://static.openfintech.io/payment_methods/wlandpay/logo.svg?w=400&c=v0.59.26
 https://static.openfintech.io/payment_methods/wlandpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payment Providers 
- 
-The list of [Payment Providers](/payment-providers/) that support the _Wlandpay_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![wlandpay](https://static.openfintech.io/payment_providers/wlandpay/icon.png?w=278&c=v0.59.26#w100) |[Wlandpay](/payment-providers/wlandpay/)|`wlandpay`| 
- 
-
 ## JSON Object 
 
 ```json

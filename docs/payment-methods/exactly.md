@@ -32,15 +32,6 @@ https://static.openfintech.io/payment_methods/exactly/logo.svg?w=400&c=v0.59.26#
 https://static.openfintech.io/payment_methods/exactly/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payment Providers 
- 
-The list of [Payment Providers](/payment-providers/) that support the _Exactly_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![exactly](https://static.openfintech.io/payment_providers/exactly/icon.svg?w=278&c=v0.59.26#w100) |[Exactly](/payment-providers/exactly/)|`exactly`| 
- 
-
 ## JSON Object 
 
 ```json
