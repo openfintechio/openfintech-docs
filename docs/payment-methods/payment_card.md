@@ -82,6 +82,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![wlandpay](https://static.openfintech.io/payment_providers/wlandpay/icon.png?w=278&c=v0.59.26#w100) |[Wlandpay](/payment-providers/wlandpay/)|`wlandpay`| 
 |![exactly](https://static.openfintech.io/payment_providers/exactly/icon.svg?w=278&c=v0.59.26#w100) |[Exactly](/payment-providers/exactly/)|`exactly`| 
 |![xpate](https://static.openfintech.io/payment_providers/xpate/icon.svg?w=278&c=v0.59.26#w100) |[Xpate](/payment-providers/xpate/)|`xpate`| 
+|![cypix](https://static.openfintech.io/payment_providers/cypix/icon.svg?w=278&c=v0.59.26#w100) |[Cypix](/payment-providers/cypix/)|`cypix`| 
  
 
 ## JSON Object 

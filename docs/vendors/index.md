@@ -370,6 +370,7 @@
 |![cxpay](https://static.openfintech.io/vendors/cxpay/logo.png?w=600&c=v0.59.26#w200) |[**CX Pay**](cxpay/)|`cxpay`| 
 |![cyberbit](https://static.openfintech.io/vendors/cyberbit/logo.png?w=600&c=v0.59.26#w200) |[**Cyberbit**](cyberbit/)|`cyberbit`| 
 |![cybersource](https://static.openfintech.io/vendors/cybersource/logo.svg?w=600&c=v0.59.26#w200) |[**CyberSource**](cybersource/)|`cybersource`| 
+|![cypix](https://static.openfintech.io/vendors/cypix/logo.svg?w=600&c=v0.59.26#w200) |[**Cypix**](cypix/)|`cypix`| 
 || **D** ||
 |![dalberry](https://static.openfintech.io/vendors/dalberry/logo.png?w=600&c=v0.59.26#w200) |[**Dalberry**](dalberry/)|`dalberry`| 
 |![dalpay](https://static.openfintech.io/vendors/dalpay/logo.png?w=600&c=v0.59.26#w200) |[**DalPay**](dalpay/)|`dalpay`| 

@@ -116,6 +116,7 @@
 |![creditagricole](https://static.openfintech.io/payment_methods/creditagricole/logo.png?w=400&c=v0.59.26#w200) |[**Crédit Agricole**](creditagricole/)|`creditagricole`| 
 |![crypto](https://static.openfintech.io/payment_methods/crypto/logo.svg?w=400&c=v0.59.26#w200) |[**CRYPTO**](crypto/)|`crypto`| 
 |![csob](https://static.openfintech.io/payment_methods/csob/logo.png?w=400&c=v0.59.26#w200) |[**CSOB**](csob/)|`csob`| 
+|![cypix](https://static.openfintech.io/payment_methods/cypix/logo.svg?w=400&c=v0.59.26#w200) |[**Cypix**](cypix/)|`cypix`| 
 || **D** ||
 |![daegu_bank](https://static.openfintech.io/payment_methods/daegu_bank/logo.png?w=400&c=v0.59.26#w200) |[**Daegu Bank**](daegu_bank/)|`daegu_bank`| 
 |![danamon_bank](https://static.openfintech.io/payment_methods/danamon_bank/logo.png?w=400&c=v0.59.26#w200) |[**Danamon Bank**](danamon_bank/)|`danamon_bank`| 
