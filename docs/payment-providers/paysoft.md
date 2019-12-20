@@ -1,6 +1,6 @@
 
 # PaySoft Inc. 
-![paysoft](https://static.openfintech.io/payment_providers/paysoft/logo.svg?w=400&c=v0.59.26#w100)  
+![paysoft](https://static.openfintech.io/payment_providers/paysoft/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -23,18 +23,18 @@
 
 ### Logo 
  
-![paysoft](https://static.openfintech.io/payment_providers/paysoft/logo.svg?w=400&c=v0.59.26#w100)  
+![paysoft](https://static.openfintech.io/payment_providers/paysoft/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paysoft/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paysoft/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![paysoft](https://static.openfintech.io/payment_providers/paysoft/icon.svg?w=278&c=v0.59.26#w100)  
+![paysoft](https://static.openfintech.io/payment_providers/paysoft/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paysoft/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paysoft/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payout Methods 
