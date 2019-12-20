@@ -40,7 +40,7 @@
 	Label:  
 	: [EN] Phone number 
 	: [RU] Номер телефона 
-	: [UK] Номер телеофу 
+	: [UK] Номер телефону 
  
 	Hint:  
 	: [EN] Enter phone number 
@@ -62,7 +62,7 @@
       "label":{
         "en":"Phone number",
         "ru":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
-        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u043e\u0444\u0443"
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
       },
       "hint":{
         "en":"Enter phone number",
