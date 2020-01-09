@@ -754,6 +754,7 @@
 |![mtk-net-chernovtsy](https://static.openfintech.io/payout_methods/mtk-net-chernovtsy/logo.png?w=400&c=v0.59.26#w24) |[**MTK NO (Chernivtsi)**](mtk-net-chernovtsy/)|`mtk-net-chernovtsy`| 
 |![mtm](https://static.openfintech.io/payout_methods/mtm/logo.png?w=400&c=v0.59.26#w24) |[**MTM**](mtm/)|`mtm`| 
 |![mts](https://static.openfintech.io/payout_methods/mts/logo.svg?w=400&c=v0.59.26#w24) |[**MTS**](mts/)|`mts`| 
+|![muchbetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](muchbetter/)|`muchbetter`| 
 |![mukachivskii-mrem-zakarpattia-oe](https://static.openfintech.io/payout_methods/mukachivskii-mrem-zakarpattia-oe/logo.png?w=400&c=v0.59.26#w24) |[**Mukachevo GRES Transcarpathia OE**](mukachivskii-mrem-zakarpattia-oe/)|`mukachivskii-mrem-zakarpattia-oe`| 
 |![mukachivskii-rem-zakarpattia-oe](https://static.openfintech.io/payout_methods/mukachivskii-rem-zakarpattia-oe/logo.png?w=400&c=v0.59.26#w24) |[**Mukachevo RES Zakarpatya OE**](mukachivskii-rem-zakarpattia-oe/)|`mukachivskii-rem-zakarpattia-oe`| 
 |![multinet-pavlograd](https://static.openfintech.io/payout_methods/multinet-pavlograd/logo.png?w=400&c=v0.59.26#w24) |[**MultiNet (Pavlograd)**](multinet-pavlograd/)|`multinet-pavlograd`| 

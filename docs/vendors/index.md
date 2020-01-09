@@ -857,6 +857,7 @@
 |![mpay24](https://static.openfintech.io/vendors/mpay24/logo.png?w=600&c=v0.59.26#w200) |[**mPay24**](mpay24/)|`mpay24`| 
 |![mpayaisthailand](https://static.openfintech.io/vendors/mpayaisthailand/logo.png?w=600&c=v0.59.26#w200) |[**mPAY**](mpayaisthailand/)|`mpayaisthailand`| 
 |![mtsbank](https://static.openfintech.io/vendors/mtsbank/logo.svg?w=600&c=v0.59.26#w200) |[**МТС банк**](mtsbank/)|`mtsbank`| 
+|![muchbetter](https://static.openfintech.io/vendors/muchbetter/logo.svg?w=600&c=v0.59.26#w200) |[**MuchBetter**](muchbetter/)|`muchbetter`| 
 |![multibanconet](https://static.openfintech.io/vendors/multibanconet/logo.png?w=600&c=v0.59.26#w200) |[**MultiBanco NET**](multibanconet/)|`multibanconet`| 
 |![multibank](https://static.openfintech.io/vendors/multibank/logo.png?w=600&c=v0.59.26#w200) |[**MultiTransfer**](multibank/)|`multibank`| 
 |![multicards](https://static.openfintech.io/vendors/multicards/logo.png?w=600&c=v0.59.26#w200) |[**MultiCards Internet Billing**](multicards/)|`multicards`| 

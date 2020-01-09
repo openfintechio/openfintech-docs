@@ -629,6 +629,9 @@
 |![MTK NO (Chernivtsi)](https://static.openfintech.io/payout_methods/mtk-net-chernovtsy/logo.png?w=400&c=v0.59.26#w24) |[**MTK NO (Chernivtsi)**](/payout-methods/mtk-net-chernovtsy/)|[`mtk-net-chernovtsy_uah`](mtk-net-chernovtsy_uah/)|`UAH`| 
 |![MTM](https://static.openfintech.io/payout_methods/mtm/logo.png?w=400&c=v0.59.26#w24) |[**MTM**](/payout-methods/mtm/)|[`mtm_uah`](mtm_uah/)|`UAH`| 
 |![MTS](https://static.openfintech.io/payout_methods/mts/logo.svg?w=400&c=v0.59.26#w24) |[**MTS**](/payout-methods/mts/)|[`mts_rub`](mts_rub/)|`RUB`| 
+|![MuchBetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](/payout-methods/muchbetter/)|[`muchbetter_eur`](muchbetter_eur/)|`EUR`| 
+|![MuchBetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](/payout-methods/muchbetter/)|[`muchbetter_gbp`](muchbetter_gbp/)|`GBP`| 
+|![MuchBetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](/payout-methods/muchbetter/)|[`muchbetter_usd`](muchbetter_usd/)|`USD`| 
 |![MultiNet (Pavlograd)](https://static.openfintech.io/payout_methods/multinet-pavlograd/logo.png?w=400&c=v0.59.26#w24) |[**MultiNet (Pavlograd)**](/payout-methods/multinet-pavlograd/)|[`multinet-pavlograd_uah`](multinet-pavlograd_uah/)|`UAH`| 
 |![My Credit (погашення кредиту)](https://static.openfintech.io/payout_methods/my-credit-pogashennia-kreditu/logo.svg?w=400&c=v0.59.26#w24) |[**My Credit (погашення кредиту)**](/payout-methods/my-credit-pogashennia-kreditu/)|[`my-credit-pogashennia-kreditu_uah`](my-credit-pogashennia-kreditu_uah/)|`UAH`| 
 |![My lands](https://static.openfintech.io/payout_methods/my-lands/logo.png?w=400&c=v0.59.26#w24) |[**My lands**](/payout-methods/my-lands/)|[`my-lands_uah`](my-lands_uah/)|`UAH`| 
