@@ -65,6 +65,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![twelvelive](https://static.openfintech.io/payment_providers/twelvelive/icon.svg?w=278&c=v0.59.26#w100) |[Twelve.live](/payment-providers/twelvelive/)|`twelvelive`| 
 |![tranzzo](https://static.openfintech.io/payment_providers/tranzzo/icon.svg?w=278&c=v0.59.26#w100) |[Tranzzo](/payment-providers/tranzzo/)|`tranzzo`| 
 |![decta](https://static.openfintech.io/payment_providers/decta/icon.svg?w=278&c=v0.59.26#w100) |[Decta](/payment-providers/decta/)|`decta`| 
+|![hashconnect](https://static.openfintech.io/payment_providers/hashconnect/icon.svg?w=278&c=v0.59.26#w100) |[Hashconnect](/payment-providers/hashconnect/)|`hashconnect`| 
 |![paymentwall](https://static.openfintech.io/payment_providers/paymentwall/icon.svg?w=278&c=v0.59.26#w100) |[Paymentwall](/payment-providers/paymentwall/)|`paymentwall`| 
 |![piastrix](https://static.openfintech.io/payment_providers/piastrix/icon.svg?w=278&c=v0.59.26#w100) |[Piastrix](/payment-providers/piastrix/)|`piastrix`| 
 |![easybits](https://static.openfintech.io/payment_providers/easybits/icon.svg?w=278&c=v0.59.26#w100) |[EasyBits.io](/payment-providers/easybits/)|`easybits`| 
