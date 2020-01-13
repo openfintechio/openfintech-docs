@@ -5,6 +5,8 @@
 ## General 
 **Code:** `muchbetter` 
  
+**Vendor:** `muchbetter` [show -->](/vendors/muchbetter/) 
+ 
 **Name:** 
  
 :	[EN] MuchBetter 
@@ -30,15 +32,15 @@ https://static.openfintech.io/payment_methods/muchbetter/logo.svg?w=400&c=v0.59.
 https://static.openfintech.io/payment_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _MuchBetter_ 
+The list of [Payment Services](/payment-services/) based on the _MuchBetter_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![muchbetter](https://static.openfintech.io/payout_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w40) |[muchbetter_usd](/payout-services/muchbetter_usd/)|`muchbetter_usd`| 
-|![muchbetter](https://static.openfintech.io/payout_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w40) |[muchbetter_eur](/payout-services/muchbetter_eur/)|`muchbetter_eur`| 
-|![muchbetter](https://static.openfintech.io/payout_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w40) |[muchbetter_gbp](/payout-services/muchbetter_gbp/)|`muchbetter_gbp`| 
+|![muchbetter](https://static.openfintech.io/payment_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w100) |[muchbetter_usd_invoice](/payment-services/muchbetter_usd_invoice/)|`muchbetter_usd_invoice`| 
+|![muchbetter](https://static.openfintech.io/payment_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w100) |[muchbetter_eur_invoice](/payment-services/muchbetter_eur_invoice/)|`muchbetter_eur_invoice`| 
+|![muchbetter](https://static.openfintech.io/payment_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w100) |[muchbetter_gbp_invoice](/payment-services/muchbetter_gbp_invoice/)|`muchbetter_gbp_invoice`| 
  
 
 ## Payment Providers 
@@ -55,7 +57,7 @@ The list of [Payment Providers](/payment-providers/) that support the _MuchBette
 ```json
 {
   "code":"muchbetter",
-  "vendor":null,
+  "vendor":"muchbetter",
   "name":{
     "en":"MuchBetter",
     "ru":"MuchBetter",
