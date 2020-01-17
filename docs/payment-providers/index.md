@@ -259,7 +259,7 @@
 |![greta11](https://static.openfintech.io/payment_providers/greta11/logo.png?w=600&c=v0.59.26#w100) |[**Greta11**](greta11/)|`greta11`| 
 |![groupecreditmutuel](https://static.openfintech.io/payment_providers/groupecreditmutuel/logo.png?w=600&c=v0.59.26#w100) |[**Groupe Credit Mutuel**](groupecreditmutuel/)|`groupecreditmutuel`| 
 || **H** ||
-|![hashconnect](https://static.openfintech.io/payment_providers/hashconnect/logo.svg?w=600&c=v0.59.26#w100) |[**Hashconnect**](hashconnect/)|`hashconnect`| 
+|![hashconnect](https://static.openfintech.io/payment_providers/hashconnect/logo.png?w=600&c=v0.59.26#w100) |[**Hashconnect**](hashconnect/)|`hashconnect`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/logo.png?w=600&c=v0.59.26#w100) |[**Heidelpay**](heidelpay/)|`heidelpay`| 
 |![hellopay](https://static.openfintech.io/payment_providers/hellopay/logo.png?w=600&c=v0.59.26#w100) |[**helloPay**](hellopay/)|`hellopay`| 
 |![hipay](https://static.openfintech.io/payment_providers/hipay/logo.png?w=600&c=v0.59.26#w100) |[**HiPay**](hipay/)|`hipay`| 

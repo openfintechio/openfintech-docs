@@ -1,6 +1,6 @@
 
 # Hashconnect 
-![hashconnect](https://static.openfintech.io/payment_providers/hashconnect/logo.svg?w=400&c=v0.59.26#w100)  
+![hashconnect](https://static.openfintech.io/payment_providers/hashconnect/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,18 +21,18 @@
 
 ### Logo 
  
-![hashconnect](https://static.openfintech.io/payment_providers/hashconnect/logo.svg?w=400&c=v0.59.26#w100)  
+![hashconnect](https://static.openfintech.io/payment_providers/hashconnect/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/hashconnect/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/hashconnect/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![hashconnect](https://static.openfintech.io/payment_providers/hashconnect/icon.svg?w=278&c=v0.59.26#w100)  
+![hashconnect](https://static.openfintech.io/payment_providers/hashconnect/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/hashconnect/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/hashconnect/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
