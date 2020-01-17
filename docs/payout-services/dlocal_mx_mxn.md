@@ -26,8 +26,8 @@
 |:---:|:---:|:---:|:---:| 
 |`bank_account`|✔|`string`|`/^[0-9]{18}$/`| 
 |`bank_code`|✗|`string`|`/^[0-9]{3}$/`| 
-|`bank_branch`|✔|`string`|`/^[A-z,a-z,0-9]{2,100}$/`| 
-|`account_type`|✔|`string`|`/^[A-Z]{1}$/`| 
+|`bank_branch`|✗|`string`|`/^[A-z,a-z,0-9]{2,100}$/`| 
+|`account_type`|✗|`string`|`/^[A-Z]{1}$/`| 
 |`beneficiary_name`|✔|`string`|`/^[A-Z\-\sa-z]{2,64}$/`| 
 |`beneficiary_lastname`|✔|`string`|`/^[A-Z\-\sa-z]{2,64}$/`| 
  
@@ -76,7 +76,7 @@
  
 	Regexp: `/^[A-z,a-z,0-9]{2,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Bank Branch 
@@ -94,7 +94,7 @@
  
 	Regexp: `/^[A-Z]{1}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Account type 
@@ -199,7 +199,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u0434 \u0444\u0456\u043b\u0456\u0457 \u0431\u0430\u043d\u043a\u0443"
       },
       "regexp":"\/^[A-z,a-z,0-9]{2,100}$\/",
-      "required":true,
+      "required":false,
       "position":3
     },
     {
@@ -216,7 +216,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0430\u043a\u0430\u0443\u043d\u0442\u0443"
       },
-      "required":true,
+      "required":false,
       "position":4
     },
     {
