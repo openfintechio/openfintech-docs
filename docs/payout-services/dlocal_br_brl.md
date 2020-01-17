@@ -30,6 +30,7 @@
 |`bank_branch`|✔|`string`|`/^[A-z,a-z,0-9]{2,100}$/`| 
 |`account_type`|✔|`string`|`/^[A-Z]{1}$/`| 
 |`beneficiary_name`|✔|`string`|`/^[A-Z\-\sa-z]{2,64}$/`| 
+|`beneficiary_lastname`|✗|`string`|`/^[A-Z\-\sa-z]{2,64}$/`| 
  
 
 ### Details 
@@ -139,6 +140,24 @@
  
 	Hint:  
 	: [EN] Enter beneficiary first name 
+	: [RU] Введите имя получателя 
+	: [UK] Введіть імʼя отримувача 
+ 
+7. **`beneficiary_lastname`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Z\-\sa-z]{2,64}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary last name 
+	: [RU] Имя получателя 
+	: [UK] Імʼя отримувача 
+ 
+	Hint:  
+	: [EN] Enter beneficiary last name 
 	: [RU] Введите имя получателя 
 	: [UK] Введіть імʼя отримувача 
  
@@ -252,6 +271,23 @@
       "position":6,
       "regexp":"\/^[A-Z\\-\\sa-z]{2,64}$\/",
       "required":true
+    },
+    {
+      "key":"beneficiary_lastname",
+      "type":"string",
+      "label":{
+        "en":"Beneficiary last name",
+        "ru":"\u0418\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0406\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter beneficiary last name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "regexp":"\/^[A-Z\\-\\sa-z]{2,64}$\/",
+      "required":false,
+      "position":7
     }
   ],
   "amount_min":"0.01",
