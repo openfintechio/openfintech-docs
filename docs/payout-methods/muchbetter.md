@@ -41,15 +41,6 @@ The list of [Payout Services](/payout-services/) based on the _MuchBetter_
 |![muchbetter](https://static.openfintech.io/payout_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w40) |[muchbetter_gbp](/payout-services/muchbetter_gbp/)|`muchbetter_gbp`| 
  
 
-## Payment Providers 
- 
-The list of [Payment Providers](/payment-providers/) that support the _MuchBetter_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![muchbetter](https://static.openfintech.io/payment_providers/muchbetter/icon.svg?w=278&c=v0.59.26#w100) |[MuchBetter](/payment-providers/muchbetter/)|`muchbetter`| 
- 
-
 ## JSON Object 
 
 ```json

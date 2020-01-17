@@ -252,7 +252,6 @@
 |![moneytopay](https://static.openfintech.io/payment_methods/moneytopay/logo.png?w=400&c=v0.59.26#w200) |[**MoneyToPay**](moneytopay/)|`moneytopay`| 
 |![mpayaisthailand](https://static.openfintech.io/payment_methods/mpayaisthailand/logo.png?w=400&c=v0.59.26#w200) |[**mPAY**](mpayaisthailand/)|`mpayaisthailand`| 
 |![mts](https://static.openfintech.io/payment_methods/mts/logo.png?w=400&c=v0.59.26#w200) |[**MTS**](mts/)|`mts`| 
-|![muchbetter](https://static.openfintech.io/payment_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w200) |[**MuchBetter**](muchbetter/)|`muchbetter`| 
 |![multibanconet](https://static.openfintech.io/payment_methods/multibanconet/logo.png?w=400&c=v0.59.26#w200) |[**MultiBanco NET**](multibanconet/)|`multibanconet`| 
 |![multibank](https://static.openfintech.io/payment_methods/multibank/logo.png?w=400&c=v0.59.26#w200) |[**MultiTransfer**](multibank/)|`multibank`| 
 |![mybank2](https://static.openfintech.io/payment_methods/mybank2/logo.png?w=400&c=v0.59.26#w200) |[**MyBank**](mybank2/)|`mybank2`| 

@@ -33,15 +33,6 @@ https://static.openfintech.io/payment_providers/muchbetter/logo.svg?w=400&c=v0.5
 https://static.openfintech.io/payment_providers/muchbetter/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payment Methods 
- 
-The list of supported [Payment Methods](/payment-methods/) 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![muchbetter](https://static.openfintech.io/payment_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w100) |[muchbetter](/payment-methods/muchbetter/)|`muchbetter`| 
- 
-
 ## Payout Methods 
  
 The list of supported [Payout Methods](/payout-methods/) 
@@ -60,9 +51,7 @@ The list of supported [Payout Methods](/payout-methods/)
   "vendor":"muchbetter",
   "categories":null,
   "countries":null,
-  "payment_method":[
-    "muchbetter"
-  ],
+  "payment_method":null,
   "payout_method":[
     "muchbetter"
   ],
