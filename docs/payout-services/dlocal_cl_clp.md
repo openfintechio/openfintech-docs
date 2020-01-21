@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`document_id`|✔|`string`|`/^[0-9]{3,20}$/`| 
+|`document_id`|✔|`string`|`/^[0-9]{8,14}$/`| 
 |`bank_account`|✔|`string`|`/^[0-9]{4,18}$/`| 
 |`bank_code`|✔|`string`|`/^[0-9]{3}$/`| 
 |`account_type`|✔|`string`|`/^[A-Z]{1}$/`| 
@@ -38,7 +38,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9]{3,20}$/` 
+	Regexp: `/^[0-9]{8,14}$/` 
  
 	Required: `1` 
  
@@ -153,7 +153,7 @@
   "fields":[
     {
       "key":"document_id",
-      "regexp":"\/^[0-9]{3,20}$\/",
+      "regexp":"\/^[0-9]{8,14}$\/",
       "type":"string",
       "label":{
         "en":"Document ID",

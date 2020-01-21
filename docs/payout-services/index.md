@@ -216,6 +216,7 @@
 |![dlocal](https://static.openfintech.io/payout_methods/dlocal/logo.svg?w=400&c=v0.59.26#w24) |[**dlocal**](/payout-methods/dlocal/)|[`dlocal_cl_clp`](dlocal_cl_clp/)|`CLP`| 
 |![dlocal](https://static.openfintech.io/payout_methods/dlocal/logo.svg?w=400&c=v0.59.26#w24) |[**dlocal**](/payout-methods/dlocal/)|[`dlocal_co_cop`](dlocal_co_cop/)|`COP`| 
 |![dlocal](https://static.openfintech.io/payout_methods/dlocal/logo.svg?w=400&c=v0.59.26#w24) |[**dlocal**](/payout-methods/dlocal/)|[`dlocal_mx_mxn`](dlocal_mx_mxn/)|`MXN`| 
+|![dlocal](https://static.openfintech.io/payout_methods/dlocal/logo.svg?w=400&c=v0.59.26#w24) |[**dlocal**](/payout-methods/dlocal/)|[`dlocal_pe_sol`](dlocal_pe_sol/)|`SOL`| 
 |![LMI (Ivano-Frankivsk region)](https://static.openfintech.io/payout_methods/dms-ivano-frankivska-obl/logo.png?w=400&c=v0.59.26#w24) |[**LMI (Ivano-Frankivsk region)**](/payout-methods/dms-ivano-frankivska-obl/)|[`dms-ivano-frankivska-obl_uah`](dms-ivano-frankivska-obl_uah/)|`UAH`| 
 |![Dnepropetrovsk Heating Network](https://static.openfintech.io/payout_methods/dnepropetrovsk-teploset/logo.png?w=400&c=v0.59.26#w24) |[**Dnepropetrovsk Heating Network**](/payout-methods/dnepropetrovsk-teploset/)|[`dnepropetrovsk-teploset_uah`](dnepropetrovsk-teploset_uah/)|`UAH`| 
 |![Dneprvodokanal](https://static.openfintech.io/payout_methods/dneprvodokanal/logo.png?w=400&c=v0.59.26#w24) |[**Dneprvodokanal**](/payout-methods/dneprvodokanal/)|[`dneprvodokanal_uah`](dneprvodokanal_uah/)|`UAH`| 
