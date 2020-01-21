@@ -13,7 +13,7 @@
         <meta name="description" content="OpenFinTech.io public documentation">
       
       
-        <link rel="canonical" href="https://openfintech.io/payout-services/dlocal_br_brl/">
+        <link rel="canonical" href="https://openfintech.io/payout-services/dlocal_pe_sol/">
       
       
         <meta name="author" content="OpenFinTech.io (c)">
@@ -121,7 +121,7 @@
   <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
 
-  <meta property="og:url" content="https://openfintech.io/payout-services/dlocal_br_brl/">
+  <meta property="og:url" content="https://openfintech.io/payout-services/dlocal_pe_sol/">
   
     <meta property="og:title" content="dlocal (service) - OpenFinTech.io">
   
@@ -467,11 +467,11 @@
                 
                 
                 <h1 id="dlocal-service">dlocal (service)<a class="headerlink" href="#dlocal-service" title="Permanent link">&para;</a></h1>
-<p><img alt="dlocal_br_brl" src="https://static.openfintech.io/payout_methods/dlocal_br_brl/logo.svg?w=400&amp;c=v0.59.26#w24" />  </p>
+<p><img alt="dlocal_pe_sol" src="https://static.openfintech.io/payout_methods/dlocal_pe_sol/logo.svg?w=400&amp;c=v0.59.26#w24" />  </p>
 <h2 id="general">General<a class="headerlink" href="#general" title="Permanent link">&para;</a></h2>
-<p><strong>Code:</strong> <code>dlocal_br_brl</code> </p>
+<p><strong>Code:</strong> <code>dlocal_pe_sol</code> </p>
 <p><strong>Method:</strong> <code>dlocal</code> <a href="/payout-methods/dlocal/">show &rarr;</a> </p>
-<p><strong>Currency:</strong> <code>BRL</code> <a href="/currencies/BRL/">show &rarr;</a> </p>
+<p><strong>Currency:</strong> <code>SOL</code> <a href="/currencies/SOL/">show &rarr;</a> </p>
 <dl>
 <dt><strong>Name:</strong> </dt>
 <dd>
@@ -484,7 +484,7 @@
 <p>[UK] dlocal </p>
 </dd>
 </dl>
-<p><strong>Amount limits:</strong> from <code>0.01</code> to <code>100000</code> BRL </p>
+<p><strong>Amount limits:</strong> from <code>0.01</code> to <code>100000</code> SOL </p>
 <h2 id="fields">Fields<a class="headerlink" href="#fields" title="Permanent link">&para;</a></h2>
 <h3 id="overview">Overview<a class="headerlink" href="#overview" title="Permanent link">&para;</a></h3>
 <table>
@@ -504,28 +504,10 @@
 <td align="center"><code>/^[0-9]{8,14}$/</code></td>
 </tr>
 <tr>
-<td align="center"><code>bank_account</code></td>
+<td align="center"><code>document_type</code></td>
 <td align="center">✔</td>
 <td align="center"><code>string</code></td>
-<td align="center"><code>/^[0-9]{4,18}$/</code></td>
-</tr>
-<tr>
-<td align="center"><code>bank_code</code></td>
-<td align="center">✔</td>
-<td align="center"><code>string</code></td>
-<td align="center"><code>/^[0-9]{3}$/</code></td>
-</tr>
-<tr>
-<td align="center"><code>bank_branch</code></td>
-<td align="center">✔</td>
-<td align="center"><code>string</code></td>
-<td align="center"><code>/^[A-z,a-z,0-9]{2,100}$/</code></td>
-</tr>
-<tr>
-<td align="center"><code>account_type</code></td>
-<td align="center">✔</td>
-<td align="center"><code>string</code></td>
-<td align="center"><code>/^[A-Z]{1}$/</code></td>
+<td align="center"><code>/^[0-9]{8,11}$/</code></td>
 </tr>
 <tr>
 <td align="center"><code>beneficiary_name</code></td>
@@ -538,6 +520,18 @@
 <td align="center">✗</td>
 <td align="center"><code>string</code></td>
 <td align="center"><code>/^[A-Z\-\sa-z]{2,64}$/</code></td>
+</tr>
+<tr>
+<td align="center"><code>bank_account</code></td>
+<td align="center">✔</td>
+<td align="center"><code>string</code></td>
+<td align="center"><code>/^[0-9]{4,18}$/</code></td>
+</tr>
+<tr>
+<td align="center"><code>account_type</code></td>
+<td align="center">✔</td>
+<td align="center"><code>string</code></td>
+<td align="center"><code>/^[A-Z]{1}$/</code></td>
 </tr>
 </tbody>
 </table>
@@ -560,67 +554,19 @@
 </dl>
 </li>
 <li>
-<p><strong><code>bank_account</code></strong> </p>
+<p><strong><code>document_type</code></strong> </p>
 <p>Type: <code>string</code> </p>
-<p>Regexp: <code>/^[0-9]{4,18}$/</code> </p>
+<p>Regexp: <code>/^[0-9]{8,11}$/</code> </p>
 <p>Required: <code>1</code> </p>
 <dl>
 <dt>Label:</dt>
-<dd>[EN] Bank Account </dd>
-<dd>[RU] Номер банковского счета </dd>
-<dd>[UK] Номер банківського рахунку </dd>
+<dd>[EN] Document Type </dd>
+<dd>[RU] Тип документа </dd>
+<dd>[UK] Тип документу </dd>
 <dt>Hint:</dt>
-<dd>[EN] Enter bank account </dd>
-<dd>[RU] Введите номер банковского счета </dd>
-<dd>[UK] Введіть номер банківського рахунку </dd>
-</dl>
-</li>
-<li>
-<p><strong><code>bank_code</code></strong> </p>
-<p>Type: <code>string</code> </p>
-<p>Regexp: <code>/^[0-9]{3}$/</code> </p>
-<p>Required: <code>1</code> </p>
-<dl>
-<dt>Label:</dt>
-<dd>[EN] Bank Code </dd>
-<dd>[RU] Код банка </dd>
-<dd>[UK] Код банку </dd>
-<dt>Hint:</dt>
-<dd>[EN] Enter bank code </dd>
-<dd>[RU] Введите код банка </dd>
-<dd>[UK] Введіть код банку </dd>
-</dl>
-</li>
-<li>
-<p><strong><code>bank_branch</code></strong> </p>
-<p>Type: <code>string</code> </p>
-<p>Regexp: <code>/^[A-z,a-z,0-9]{2,100}$/</code> </p>
-<p>Required: <code>1</code> </p>
-<dl>
-<dt>Label:</dt>
-<dd>[EN] Bank Branch </dd>
-<dd>[RU] Филиал банка </dd>
-<dd>[UK] Філія банку </dd>
-<dt>Hint:</dt>
-<dd>[EN] Enter Bank Branch </dd>
-<dd>[RU] Введите код филиала банка </dd>
-<dd>[UK] Введіть код філії банку </dd>
-</dl>
-</li>
-<li>
-<p><strong><code>account_type</code></strong> </p>
-<p>Type: <code>string</code> </p>
-<p>Regexp: <code>/^[A-Z]{1}$/</code> </p>
-<p>Required: <code>1</code> </p>
-<dl>
-<dt>Label:</dt>
-<dd>[EN] Account type </dd>
-<dd>[RU] Тип аккаунта </dd>
-<dd>[UK] Тип акаунту </dd>
-<dt>Hint:</dt>
-<dd>[EN] Enter account type </dd>
-<dd>[RU] Введите тип аккаунта </dd>
-<dd>[UK] Введіть тип акаунту </dd>
+<dd>[EN] Enter Document Type </dd>
+<dd>[RU] Введите тип документа </dd>
+<dd>[UK] Введіть тип документу </dd>
 </dl>
 </li>
 <li>
@@ -655,12 +601,44 @@
 <dd>[UK] Введіть імʼя отримувача </dd>
 </dl>
 </li>
+<li>
+<p><strong><code>bank_account</code></strong> </p>
+<p>Type: <code>string</code> </p>
+<p>Regexp: <code>/^[0-9]{4,18}$/</code> </p>
+<p>Required: <code>1</code> </p>
+<dl>
+<dt>Label:</dt>
+<dd>[EN] Bank Account </dd>
+<dd>[RU] Номер банковского счета </dd>
+<dd>[UK] Номер банківського рахунку </dd>
+<dt>Hint:</dt>
+<dd>[EN] Enter bank account </dd>
+<dd>[RU] Введите номер банковского счета </dd>
+<dd>[UK] Введіть номер банківського рахунку </dd>
+</dl>
+</li>
+<li>
+<p><strong><code>account_type</code></strong> </p>
+<p>Type: <code>string</code> </p>
+<p>Regexp: <code>/^[A-Z]{1}$/</code> </p>
+<p>Required: <code>1</code> </p>
+<dl>
+<dt>Label:</dt>
+<dd>[EN] Account type </dd>
+<dd>[RU] Тип аккаунта </dd>
+<dd>[UK] Тип акаунту </dd>
+<dt>Hint:</dt>
+<dd>[EN] Enter account type </dd>
+<dd>[RU] Введите тип аккаунта </dd>
+<dd>[UK] Введіть тип акаунту </dd>
+</dl>
+</li>
 </ol>
 <h2 id="json-object">JSON Object<a class="headerlink" href="#json-object" title="Permanent link">&para;</a></h2>
 <div class="codehilite"><pre><span></span><span class="p">{</span>
-  <span class="nt">&quot;code&quot;</span><span class="p">:</span><span class="s2">&quot;dlocal_br_brl&quot;</span><span class="p">,</span>
+  <span class="nt">&quot;code&quot;</span><span class="p">:</span><span class="s2">&quot;dlocal_pe_sol&quot;</span><span class="p">,</span>
   <span class="nt">&quot;method&quot;</span><span class="p">:</span><span class="s2">&quot;dlocal&quot;</span><span class="p">,</span>
-  <span class="nt">&quot;currency&quot;</span><span class="p">:</span><span class="s2">&quot;BRL&quot;</span><span class="p">,</span>
+  <span class="nt">&quot;currency&quot;</span><span class="p">:</span><span class="s2">&quot;SOL&quot;</span><span class="p">,</span>
   <span class="nt">&quot;fields&quot;</span><span class="p">:[</span>
     <span class="p">{</span>
       <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;document_id&quot;</span><span class="p">,</span>
@@ -680,72 +658,21 @@
       <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">1</span>
     <span class="p">},</span>
     <span class="p">{</span>
-      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;bank_account&quot;</span><span class="p">,</span>
-      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
-      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[0-9]{4,18}$\/&quot;</span><span class="p">,</span>
-      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Bank Account&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0445\u0443\u043d\u043a\u0443&quot;</span>
-      <span class="p">},</span>
-      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter bank account&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0445\u0443\u043d\u043a\u0443&quot;</span>
-      <span class="p">},</span>
-      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">2</span><span class="p">,</span>
-      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span>
-    <span class="p">},</span>
-    <span class="p">{</span>
-      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;bank_code&quot;</span><span class="p">,</span>
-      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
-      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[0-9]{3}$\/&quot;</span><span class="p">,</span>
-      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Bank Code&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443&quot;</span>
-      <span class="p">},</span>
-      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter bank code&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443&quot;</span>
-      <span class="p">},</span>
-      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span>
-      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span>
-    <span class="p">},</span>
-    <span class="p">{</span>
-      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;bank_branch&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;document_type&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[0-9]{8,11}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
       <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Bank Branch&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0424\u0438\u043b\u0438\u0430\u043b \u0431\u0430\u043d\u043a\u0430&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0424\u0456\u043b\u0456\u044f \u0431\u0430\u043d\u043a\u0443&quot;</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Document Type&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443&quot;</span>
       <span class="p">},</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter Bank Branch&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u0434 \u0444\u0438\u043b\u0438\u0430\u043b\u0430 \u0431\u0430\u043d\u043a\u0430&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u0434 \u0444\u0456\u043b\u0456\u0457 \u0431\u0430\u043d\u043a\u0443&quot;</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter Document Type&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443&quot;</span>
       <span class="p">},</span>
-      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[A-z,a-z,0-9]{2,100}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
-      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">4</span>
-    <span class="p">},</span>
-    <span class="p">{</span>
-      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;account_type&quot;</span><span class="p">,</span>
-      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
-      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[A-Z]{1}$\/&quot;</span><span class="p">,</span>
-      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Account type&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0422\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0422\u0438\u043f \u0430\u043a\u0430\u0443\u043d\u0442\u0443&quot;</span>
-      <span class="p">},</span>
-      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter account type&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0430\u043a\u0430\u0443\u043d\u0442\u0443&quot;</span>
-      <span class="p">},</span>
-      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">5</span><span class="p">,</span>
-      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">2</span>
     <span class="p">},</span>
     <span class="p">{</span>
       <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;beneficiary_name&quot;</span><span class="p">,</span>
@@ -760,7 +687,7 @@
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f&quot;</span><span class="p">,</span>
         <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430&quot;</span>
       <span class="p">},</span>
-      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">6</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span>
       <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[A-Z\\-\\sa-z]{2,64}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span>
     <span class="p">},</span>
@@ -779,7 +706,41 @@
       <span class="p">},</span>
       <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[A-Z\\-\\sa-z]{2,64}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">false</span><span class="p">,</span>
-      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">7</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">4</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;bank_account&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[0-9]{4,18}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Bank Account&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0445\u0443\u043d\u043a\u0443&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter bank account&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0445\u0443\u043d\u043a\u0443&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">5</span><span class="p">,</span>
+      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;account_type&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[A-Z]{1}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Account type&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0422\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0422\u0438\u043f \u0430\u043a\u0430\u0443\u043d\u0442\u0443&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter account type&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0430\u043a\u0430\u0443\u043d\u0442\u0443&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">6</span><span class="p">,</span>
+      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span>
     <span class="p">}</span>
   <span class="p">],</span>
   <span class="nt">&quot;amount_min&quot;</span><span class="p">:</span><span class="s2">&quot;0.01&quot;</span><span class="p">,</span>
