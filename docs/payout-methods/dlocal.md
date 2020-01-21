@@ -41,7 +41,7 @@ The list of [Payout Services](/payout-services/) based on the _dlocal_
 |![dlocal](https://static.openfintech.io/payout_methods/dlocal/icon.svg?w=278&c=v0.59.26#w40) |[dlocal_co_cop](/payout-services/dlocal_co_cop/)|`dlocal_co_cop`| 
 |![dlocal](https://static.openfintech.io/payout_methods/dlocal/icon.svg?w=278&c=v0.59.26#w40) |[dlocal_cl_clp](/payout-services/dlocal_cl_clp/)|`dlocal_cl_clp`| 
 |![dlocal](https://static.openfintech.io/payout_methods/dlocal/icon.svg?w=278&c=v0.59.26#w40) |[dlocal_br_brl](/payout-services/dlocal_br_brl/)|`dlocal_br_brl`| 
-|![dlocal](https://static.openfintech.io/payout_methods/dlocal/icon.svg?w=278&c=v0.59.26#w40) |[dlocal_pe_sol](/payout-services/dlocal_pe_sol/)|`dlocal_pe_sol`| 
+|![dlocal](https://static.openfintech.io/payout_methods/dlocal/icon.svg?w=278&c=v0.59.26#w40) |[dlocal_pe_pen](/payout-services/dlocal_pe_pen/)|`dlocal_pe_pen`| 
  
 
 ## JSON Object 
