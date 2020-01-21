@@ -24,12 +24,12 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`id_value`|✔|`string`|`/^\+\d{1,15}$/`| 
+|`phone`|✔|`string`|`/^\+\d{1,15}$/`| 
  
 
 ### Details 
  
-1. **`id_value`** 
+1. **`phone`** 
  
 	Type: `string` 
  
@@ -57,7 +57,7 @@
   "currency":"EUR",
   "fields":[
     {
-      "key":"id_value",
+      "key":"phone",
       "type":"string",
       "label":{
         "en":"Phone number",
