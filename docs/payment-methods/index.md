@@ -294,7 +294,6 @@
 |![paynearme](https://static.openfintech.io/payment_methods/paynearme/logo.png?w=400&c=v0.59.26#w200) |[**PayNearMe**](paynearme/)|`paynearme`| 
 |![paypal](https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](paypal/)|`paypal`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](paysafecard/)|`paysafecard`| 
-|![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](paysafecard/)|`paysafecard`| 
 |![paysafecash](https://static.openfintech.io/payment_methods/paysafecash/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecash**](paysafecash/)|`paysafecash`| 
 |![paysbuy](https://static.openfintech.io/payment_methods/paysbuy/logo.png?w=400&c=v0.59.26#w200) |[**PAYSBUY**](paysbuy/)|`paysbuy`| 
 |![payshop](https://static.openfintech.io/payment_methods/payshop/logo.png?w=400&c=v0.59.26#w200) |[**Payshop**](payshop/)|`payshop`| 

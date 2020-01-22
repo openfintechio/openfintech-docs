@@ -6,7 +6,7 @@
  
 **Code:** `paysafecard` 
  
-**Vendor:** `paysafecard` [show -->](/vendors/paysafecard/) 
+**Vendor:** `optimalpayments` [show -->](/vendors/optimalpayments/) 
  
 **Name:** 
  
@@ -42,19 +42,30 @@ The list of supported [Payment Methods](/payment-methods/)
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![paysafecard](https://static.openfintech.io/payout_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w40) |[paysafecard](payout-methodspaysafecard/)|`paysafecard`| 
+ 
+
 ## JSON Object 
 
 ```json
 {
   "code":"paysafecard",
   "description":null,
-  "vendor":"paysafecard",
+  "vendor":"optimalpayments",
   "categories":null,
   "countries":null,
   "payment_method":[
     "paysafecard"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "paysafecard"
+  ],
   "metadata":null,
   "name":{
     "en":"Paysafecard",
