@@ -13,7 +13,7 @@
         <meta name="description" content="OpenFinTech.io public documentation">
       
       
-        <link rel="canonical" href="https://openfintech.io/payment-services/paysafecard_gbp_hpp/">
+        <link rel="canonical" href="https://openfintech.io/payout-services/paysafecard_gbp/">
       
       
         <meta name="author" content="OpenFinTech.io (c)">
@@ -121,7 +121,7 @@
   <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
 
-  <meta property="og:url" content="https://openfintech.io/payment-services/paysafecard_gbp_hpp/">
+  <meta property="og:url" content="https://openfintech.io/payout-services/paysafecard_gbp/">
   
     <meta property="og:title" content="Paysafecard (service) - OpenFinTech.io">
   
@@ -334,7 +334,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../" title="Payment Services" class="md-nav__link">
+    <a href="../../payment-services/" title="Payment Services" class="md-nav__link">
       Payment Services
     </a>
   </li>
@@ -358,7 +358,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../../payout-services/" title="Payout Services" class="md-nav__link">
+    <a href="../" title="Payout Services" class="md-nav__link">
       Payout Services
     </a>
   </li>
@@ -416,6 +416,33 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#fields" class="md-nav__link">
+    Fields
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    Overview
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#details" class="md-nav__link">
+    Details
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#json-object" class="md-nav__link">
     JSON Object
   </a>
@@ -440,28 +467,210 @@
                 
                 
                 <h1 id="paysafecard-service">Paysafecard (service)<a class="headerlink" href="#paysafecard-service" title="Permanent link">&para;</a></h1>
-<p><img alt="paysafecard_gbp_hpp" src="https://static.openfintech.io/payment_methods/paysafecard_gbp_hpp/logo.svg?w=400&amp;c=v0.59.26#w200" />  </p>
+<p><img alt="paysafecard_gbp" src="https://static.openfintech.io/payout_methods/paysafecard_gbp/logo.svg?w=400&amp;c=v0.59.26#w24" />  </p>
 <h2 id="general">General<a class="headerlink" href="#general" title="Permanent link">&para;</a></h2>
-<p><strong>Code:</strong> <code>paysafecard_gbp_hpp</code> </p>
-<p><strong>Method:</strong> <code>paysafecard</code> 
- <a href="/payment-methods/paysafecard/">show &rarr;</a> </p>
+<p><strong>Code:</strong> <code>paysafecard_gbp</code> </p>
+<p><strong>Method:</strong> <code>paysafecard</code> <a href="/payout-methods/paysafecard/">show &rarr;</a> </p>
 <p><strong>Currency:</strong> <code>GBP</code> <a href="/currencies/GBP/">show &rarr;</a> </p>
 <dl>
 <dt><strong>Name:</strong> </dt>
 <dd>
 <p>[EN] Paysafecard </p>
 </dd>
+<dd>
+<p>[RU] Paysafecard </p>
+</dd>
+<dd>
+<p>[UK] Paysafecard </p>
+</dd>
 </dl>
-<p><strong>Amount limits:</strong> from <code>0.01</code> to <code>100000</code> GBP </p>
+<p><strong>Amount limits:</strong> from <code>1</code> to <code>99999.00</code> GBP </p>
+<h2 id="fields">Fields<a class="headerlink" href="#fields" title="Permanent link">&para;</a></h2>
+<h3 id="overview">Overview<a class="headerlink" href="#overview" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th align="center">Key</th>
+<th align="center">Required</th>
+<th align="center">Type</th>
+<th align="center">Regexp</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><code>psc_id</code></td>
+<td align="center">✔</td>
+<td align="center"><code>string</code></td>
+<td align="center"><code>/^\d{1,12}$/</code></td>
+</tr>
+<tr>
+<td align="center"><code>date_of_birth</code></td>
+<td align="center">✔</td>
+<td align="center"><code>string</code></td>
+<td align="center"><code>/^\d{4}-\d{2}-\d{2}$/</code></td>
+</tr>
+<tr>
+<td align="center"><code>first_name</code></td>
+<td align="center">✔</td>
+<td align="center"><code>string</code></td>
+<td align="center"><code>/^[A-Za-z]{2,64}$/</code></td>
+</tr>
+<tr>
+<td align="center"><code>last_name</code></td>
+<td align="center">✔</td>
+<td align="center"><code>string</code></td>
+<td align="center"><code>/^[A-Za-z]{2,64}$/</code></td>
+</tr>
+</tbody>
+</table>
+<h3 id="details">Details<a class="headerlink" href="#details" title="Permanent link">&para;</a></h3>
+<ol>
+<li>
+<p><strong><code>psc_id</code></strong> </p>
+<p>Type: <code>string</code> </p>
+<p>Regexp: <code>/^\d{1,12}$/</code> </p>
+<p>Required: <code>1</code> </p>
+<dl>
+<dt>Label:</dt>
+<dd>[EN] Account ID </dd>
+<dd>[RU] Аккаунт ID </dd>
+<dd>[UK] Аккаунт ID </dd>
+<dt>Hint:</dt>
+<dd>[EN] enter account ID </dd>
+<dd>[RU] Введите аккаунт ID </dd>
+<dd>[UK] Введіть аккаунт ID </dd>
+</dl>
+</li>
+<li>
+<p><strong><code>date_of_birth</code></strong> </p>
+<p>Type: <code>string</code> </p>
+<p>Regexp: <code>/^\d{4}-\d{2}-\d{2}$/</code> </p>
+<p>Required: <code>1</code> </p>
+<dl>
+<dt>Label:</dt>
+<dd>[EN] Date of birth </dd>
+<dd>[RU] Дата рождения </dd>
+<dd>[UK] Дата народження </dd>
+<dt>Hint:</dt>
+<dd>[EN] Date of birth </dd>
+<dd>[RU] Дата рождения </dd>
+<dd>[UK] Дата народження </dd>
+</dl>
+</li>
+<li>
+<p><strong><code>first_name</code></strong> </p>
+<p>Type: <code>string</code> </p>
+<p>Regexp: <code>/^[A-Za-z]{2,64}$/</code> </p>
+<p>Required: <code>1</code> </p>
+<dl>
+<dt>Label:</dt>
+<dd>[EN] First name </dd>
+<dd>[RU] Имя получателя </dd>
+<dd>[UK] Імʼя отримувача </dd>
+<dt>Hint:</dt>
+<dd>[EN] Enter shipping first name </dd>
+<dd>[RU] Введите имя получателя </dd>
+<dd>[UK] Введіть імʼя отримувача </dd>
+</dl>
+</li>
+<li>
+<p><strong><code>last_name</code></strong> </p>
+<p>Type: <code>string</code> </p>
+<p>Regexp: <code>/^[A-Za-z]{2,64}$/</code> </p>
+<p>Required: <code>1</code> </p>
+<dl>
+<dt>Label:</dt>
+<dd>[EN] Shipping last name </dd>
+<dd>[RU] Фамилия получателя </dd>
+<dd>[UK] Прізвище отримувача </dd>
+<dt>Hint:</dt>
+<dd>[EN] Enter shipping last name </dd>
+<dd>[RU] Введите фамилия получателя </dd>
+<dd>[UK] Введіть прізвище отримувача </dd>
+</dl>
+</li>
+</ol>
 <h2 id="json-object">JSON Object<a class="headerlink" href="#json-object" title="Permanent link">&para;</a></h2>
 <div class="codehilite"><pre><span></span><span class="p">{</span>
-  <span class="nt">&quot;code&quot;</span><span class="p">:</span><span class="s2">&quot;paysafecard_gbp_hpp&quot;</span><span class="p">,</span>
-  <span class="nt">&quot;flow&quot;</span><span class="p">:</span><span class="s2">&quot;hpp&quot;</span><span class="p">,</span>
+  <span class="nt">&quot;code&quot;</span><span class="p">:</span><span class="s2">&quot;paysafecard_gbp&quot;</span><span class="p">,</span>
   <span class="nt">&quot;method&quot;</span><span class="p">:</span><span class="s2">&quot;paysafecard&quot;</span><span class="p">,</span>
   <span class="nt">&quot;currency&quot;</span><span class="p">:</span><span class="s2">&quot;GBP&quot;</span><span class="p">,</span>
-  <span class="nt">&quot;fields&quot;</span><span class="p">:</span><span class="kc">null</span><span class="p">,</span>
-  <span class="nt">&quot;amount_min&quot;</span><span class="p">:</span><span class="mf">0.01</span><span class="p">,</span>
-  <span class="nt">&quot;amount_max&quot;</span><span class="p">:</span><span class="mi">100000</span>
+  <span class="nt">&quot;fields&quot;</span><span class="p">:[</span>
+    <span class="p">{</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;psc_id&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Account ID&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0410\u043a\u043a\u0430\u0443\u043d\u0442 ID&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0410\u043a\u043a\u0430\u0443\u043d\u0442 ID&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;enter account ID&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0430\u043a\u043a\u0430\u0443\u043d\u0442 ID&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0430\u043a\u043a\u0430\u0443\u043d\u0442 ID&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;447624222721&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^\\d{1,12}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">1</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;date_of_birth&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Date of birth&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0414\u0430\u0442\u0430 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0414\u0430\u0442\u0430 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Date of birth&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0414\u0430\u0442\u0430 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0414\u0430\u0442\u0430 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^\\d{4}-\\d{2}-\\d{2}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;1996-10-20&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">2</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;first_name&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;First name&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0418\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0406\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter shipping first name&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[A-Za-z]{2,64}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;Max&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">3</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;last_name&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Shipping last name&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0424\u0430\u043c\u0438\u043b\u0438\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041f\u0440\u0456\u0437\u0432\u0438\u0449\u0435 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter shipping last name&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0444\u0430\u043c\u0438\u043b\u0438\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u0440\u0456\u0437\u0432\u0438\u0449\u0435 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430&quot;</span>
+      <span class="p">},</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[A-Za-z]{2,64}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;Power&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
+      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">4</span>
+    <span class="p">}</span>
+  <span class="p">],</span>
+  <span class="nt">&quot;amount_min&quot;</span><span class="p">:</span><span class="s2">&quot;1&quot;</span><span class="p">,</span>
+  <span class="nt">&quot;amount_max&quot;</span><span class="p">:</span><span class="s2">&quot;99999.00&quot;</span>
 <span class="p">}</span>
 </pre></div>
                 
