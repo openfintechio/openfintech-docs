@@ -294,7 +294,10 @@
 |![cashsender](https://static.openfintech.io/vendors/cashsender/logo.png?w=600&c=v0.59.26#w200) |[**CashSender**](cashsender/)|`cashsender`| 
 |![cashu](https://static.openfintech.io/vendors/cashu/logo.png?w=600&c=v0.59.26#w200) |[**CASHU**](cashu/)|`cashu`| 
 |![catalunyacaixa](https://static.openfintech.io/vendors/catalunyacaixa/logo.png?w=600&c=v0.59.26#w200) |[**CatalunyaCaixa**](catalunyacaixa/)|`catalunyacaixa`| 
+|![cba](https://static.openfintech.io/vendors/cba/logo.svg?w=600&c=v0.59.26#w200) |[**Central Bank of Armenia**](cba/)|`cba`| 
+|![cbar](https://static.openfintech.io/vendors/cbar/logo.svg?w=600&c=v0.59.26#w200) |[**Central Bank of the Republic of Azerbaijan**](cbar/)|`cbar`| 
 |![cbr](https://static.openfintech.io/vendors/cbr/logo.png?w=600&c=v0.59.26#w200) |[**Central Bank of the Russian Federation**](cbr/)|`cbr`| 
+|![cbu](https://static.openfintech.io/vendors/cbu/logo.svg?w=600&c=v0.59.26#w200) |[**Central Bank of the Republic of Uzbekistan**](cbu/)|`cbu`| 
 |![ccbill](https://static.openfintech.io/vendors/ccbill/logo.png?w=600&c=v0.59.26#w200) |[**CCBill**](ccbill/)|`ccbill`| 
 |![ccexcom](https://static.openfintech.io/vendors/ccexcom/logo.svg?w=600&c=v0.59.26#w200) |[**c-cex.com**](ccexcom/)|`ccexcom`| 
 |![ccnow](https://static.openfintech.io/vendors/ccnow/logo.png?w=600&c=v0.59.26#w200) |[**CCNow**](ccnow/)|`ccnow`| 
@@ -872,8 +875,10 @@
 |![nalichnye](https://static.openfintech.io/vendors/nalichnye/logo.svg?w=600&c=v0.59.26#w200) |[**Наличные**](nalichnye/)|`nalichnye`| 
 |![nationalach](https://static.openfintech.io/vendors/nationalach/logo.png?w=600&c=v0.59.26#w200) |[**NationalACH**](nationalach/)|`nationalach`| 
 |![nbkz](https://static.openfintech.io/vendors/nbkz/logo.png?w=600&c=v0.59.26#w200) |[**National Bank of Kazakhstan**](nbkz/)|`nbkz`| 
+|![nbm](https://static.openfintech.io/vendors/nbm/logo.svg?w=600&c=v0.59.26#w200) |[**National Bank of Moldova**](nbm/)|`nbm`| 
 |![nbp](https://static.openfintech.io/vendors/nbp/logo.svg?w=600&c=v0.59.26#w200) |[**National Bank of Poland**](nbp/)|`nbp`| 
 |![nbrb](https://static.openfintech.io/vendors/nbrb/logo.png?w=600&c=v0.59.26#w200) |[**National Bank of the Republic of Belarus**](nbrb/)|`nbrb`| 
+|![nbt](https://static.openfintech.io/vendors/nbt/logo.svg?w=600&c=v0.59.26#w200) |[**National Bank of Tajikistan**](nbt/)|`nbt`| 
 |![nbu](https://static.openfintech.io/vendors/nbu/logo.png?w=600&c=v0.59.26#w200) |[**National Bank of Ukraine**](nbu/)|`nbu`| 
 |![neosurf](https://static.openfintech.io/vendors/neosurf/logo.png?w=600&c=v0.59.26#w200) |[**Neosurf**](neosurf/)|`neosurf`| 
 |![netbanx](https://static.openfintech.io/vendors/netbanx/logo.png?w=600&c=v0.59.26#w200) |[**Netbanx**](netbanx/)|`netbanx`| 
