@@ -8,7 +8,7 @@
  
 **Method:** `dlocal` [show -->](/payout-methods/dlocal/) 
  
-**Currency:** `SOL` [show -->](/currencies/SOL/) 
+**Currency:** `PEN` [show -->](/currencies/PEN/) 
  
 **Name:** 
  
@@ -16,7 +16,7 @@
 :	[RU] dlocal 
 :	[UK] dlocal 
  
-**Amount limits:** from `0.01` to `100000` SOL 
+**Amount limits:** from `0.01` to `100000` PEN 
 
 ## Fields 
 
@@ -149,7 +149,7 @@
 {
   "code":"dlocal_pe_pen",
   "method":"dlocal",
-  "currency":"SOL",
+  "currency":"PEN",
   "fields":[
     {
       "key":"document_id",
