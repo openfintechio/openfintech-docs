@@ -26,7 +26,7 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`user_id`|✔|`string`|`/^[Q]\d{6}$/`| 
-|`password`|✔|`string`|`/^\S{1,255}$/`| 
+|`password`|✔|`string`|`/^.{1,255}$/`| 
  
 
 ### Details 
@@ -53,7 +53,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^\S{1,255}$/` 
+	Regexp: `/^.{1,255}$/` 
  
 	Required: `1` 
  
@@ -109,7 +109,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u0430\u0440\u043e\u043b\u044c"
       },
       "example":"password",
-      "regexp":"\/^\\S{1,255}$\/",
+      "regexp":"\/^.{1,255}$\/",
       "required":true,
       "position":2
     }
