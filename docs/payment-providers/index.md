@@ -181,6 +181,7 @@
 |![ebillingsolutions](https://static.openfintech.io/payment_providers/ebillingsolutions/logo.png?w=600&c=v0.59.26#w100) |[**EBS**](ebillingsolutions/)|`ebillingsolutions`| 
 |![ecardon](https://static.openfintech.io/payment_providers/ecardon/logo.png?w=600&c=v0.59.26#w100) |[**ecardon payments**](ecardon/)|`ecardon`| 
 |![ecardsa](https://static.openfintech.io/payment_providers/ecardsa/logo.svg?w=600&c=v0.59.26#w100) |[**eCard**](ecardsa/)|`ecardsa`| 
+|![ecobanq](https://static.openfintech.io/payment_providers/ecobanq/logo.svg?w=600&c=v0.59.26#w100) |[**Ecobanq**](ecobanq/)|`ecobanq`| 
 |![ecomcharge](https://static.openfintech.io/payment_providers/ecomcharge/logo.png?w=600&c=v0.59.26#w100) |[**eComCharge**](ecomcharge/)|`ecomcharge`| 
 |![ecommpay](https://static.openfintech.io/payment_providers/ecommpay/logo.png?w=600&c=v0.59.26#w100) |[**ECommPay**](ecommpay/)|`ecommpay`| 
 |![ecomprocessing](https://static.openfintech.io/payment_providers/ecomprocessing/logo.png?w=600&c=v0.59.26#w100) |[**E-Comprocessing (ECP)**](ecomprocessing/)|`ecomprocessing`| 

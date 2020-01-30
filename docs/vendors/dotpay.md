@@ -15,7 +15,7 @@
 **Status:** `active` 
  
 **Links:** 
-: website [https://www.dotpay.pl/](https://www.dotpay.pl/) 
+: website [https://dotpay.pl/](https://dotpay.pl/) 
  
 
 ## Images 
@@ -49,7 +49,7 @@ https://static.openfintech.io/vendors/dotpay/icon.png?w=278&c=v0.59.26#w100
   "status":"active",
   "description":null,
   "links":{
-    "website":"https:\/\/www.dotpay.pl\/"
+    "website":"https:\/\/dotpay.pl\/"
   },
   "countries":null,
   "contacts":null,

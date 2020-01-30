@@ -94,6 +94,7 @@
 |![Dong A Bank](https://static.openfintech.io/payment_methods/dong_a_bank/logo.png?w=400&c=v0.59.26#w200) |[**Dong A Bank**](/payment-methods/dong_a_bank/)|[`dong_a_bank_vnd_hpp`](dong_a_bank_vnd_hpp/)| 
 ||| **E** ||
 |![EasyPay](https://static.openfintech.io/payment_methods/easypay/logo.png?w=400&c=v0.59.26#w200) |[**EasyPay**](/payment-methods/easypay/)|[`easypay_uah_hpp`](easypay_uah_hpp/)| 
+|![Ecobanq](https://static.openfintech.io/payment_methods/ecobanq/logo.svg?w=400&c=v0.59.26#w200) |[**Ecobanq**](/payment-methods/ecobanq/)|[`ecobanq_inr_transfer`](ecobanq_inr_transfer/)| 
 |![Ecopayz](https://static.openfintech.io/payment_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w200) |[**Ecopayz**](/payment-methods/ecopayz/)|[`ecopayz_aud_hpp`](ecopayz_aud_hpp/)| 
 |![Ecopayz](https://static.openfintech.io/payment_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w200) |[**Ecopayz**](/payment-methods/ecopayz/)|[`ecopayz_cad_hpp`](ecopayz_cad_hpp/)| 
 |![Ecopayz](https://static.openfintech.io/payment_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w200) |[**Ecopayz**](/payment-methods/ecopayz/)|[`ecopayz_eur_hpp`](ecopayz_eur_hpp/)| 
