@@ -278,7 +278,7 @@
 |![e-rozstrochka](https://static.openfintech.io/payout_methods/e-rozstrochka/logo.png?w=400&c=v0.59.26#w24) |[**E-Installment**](e-rozstrochka/)|`e-rozstrochka`| 
 |![ebay-gift-card-25-us](https://static.openfintech.io/payout_methods/ebay-gift-card-25-us/logo.png?w=400&c=v0.59.26#w24) |[**eBay Gift Card $ 25 (US)**](ebay-gift-card-25-us/)|`ebay-gift-card-25-us`| 
 |![ebay-gift-card-5-us](https://static.openfintech.io/payout_methods/ebay-gift-card-5-us/logo.png?w=400&c=v0.59.26#w24) |[**eBay Gift Card $ 5 (US)**](ebay-gift-card-5-us/)|`ebay-gift-card-5-us`| 
-|![ecobanq](https://static.openfintech.io/payout_methods/ecobanq/logo.svg?w=400&c=v0.59.26#w24) |[**Ecobanq**](ecobanq/)|`ecobanq`| 
+|![ecobanq](https://static.openfintech.io/payout_methods/ecobanq/logo.png?w=400&c=v0.59.26#w24) |[**Ecobanq**](ecobanq/)|`ecobanq`| 
 |![ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](ecopayz/)|`ecopayz`| 
 |![efir-mangush](https://static.openfintech.io/payout_methods/efir-mangush/logo.png?w=400&c=v0.59.26#w24) |[**Ether (Mangush)**](efir-mangush/)|`efir-mangush`| 
 |![ek-odesaoblenergo-ananyivskii-rem](https://static.openfintech.io/payout_methods/ek-odesaoblenergo-ananyivskii-rem/logo.png?w=400&c=v0.59.26#w24) |[**EK Odessaaoblenergo '- Ananievsky Distribution Zone**](ek-odesaoblenergo-ananyivskii-rem/)|`ek-odesaoblenergo-ananyivskii-rem`| 

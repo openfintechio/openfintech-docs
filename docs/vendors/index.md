@@ -437,7 +437,7 @@
 |![ecardsa](https://static.openfintech.io/vendors/ecardsa/logo.png?w=600&c=v0.59.26#w200) |[**eCard**](ecardsa/)|`ecardsa`| 
 |![ecashme](https://static.openfintech.io/vendors/ecashme/logo.svg?w=600&c=v0.59.26#w200) |[**eCashMe**](ecashme/)|`ecashme`| 
 |![ecb](https://static.openfintech.io/vendors/ecb/logo.png?w=600&c=v0.59.26#w200) |[**European Central Bank**](ecb/)|`ecb`| 
-|![ecobanq](https://static.openfintech.io/vendors/ecobanq/logo.svg?w=600&c=v0.59.26#w200) |[**Ecobanq**](ecobanq/)|`ecobanq`| 
+|![ecobanq](https://static.openfintech.io/vendors/ecobanq/logo.png?w=600&c=v0.59.26#w200) |[**Ecobanq**](ecobanq/)|`ecobanq`| 
 |![ecoin.ua](https://static.openfintech.io/vendors/ecoin.ua/logo.svg?w=600&c=v0.59.26#w200) |[**ECoin**](ecoin.ua/)|`ecoin.ua`| 
 |![ecoin_cc](https://static.openfintech.io/vendors/ecoin_cc/logo.svg?w=600&c=v0.59.26#w200) |[**ecoin.cc**](ecoin_cc/)|`ecoin_cc`| 
 |![ecoincc](https://static.openfintech.io/vendors/ecoincc/logo.png?w=600&c=v0.59.26#w200) |[**ecoin.cc**](ecoincc/)|`ecoincc`| 

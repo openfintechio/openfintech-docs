@@ -251,7 +251,7 @@
 |![E-Installment](https://static.openfintech.io/payout_methods/e-rozstrochka/logo.png?w=400&c=v0.59.26#w24) |[**E-Installment**](/payout-methods/e-rozstrochka/)|[`e-rozstrochka_uah`](e-rozstrochka_uah/)|`UAH`| 
 |![eBay Gift Card $ 25 (US)](https://static.openfintech.io/payout_methods/ebay-gift-card-25-us/logo.png?w=400&c=v0.59.26#w24) |[**eBay Gift Card $ 25 (US)**](/payout-methods/ebay-gift-card-25-us/)|[`ebay-gift-card-25-us_uah`](ebay-gift-card-25-us_uah/)|`UAH`| 
 |![eBay Gift Card $ 5 (US)](https://static.openfintech.io/payout_methods/ebay-gift-card-5-us/logo.png?w=400&c=v0.59.26#w24) |[**eBay Gift Card $ 5 (US)**](/payout-methods/ebay-gift-card-5-us/)|[`ebay-gift-card-5-us_uah`](ebay-gift-card-5-us_uah/)|`UAH`| 
-|![Ecobanq](https://static.openfintech.io/payout_methods/ecobanq/logo.svg?w=400&c=v0.59.26#w24) |[**Ecobanq**](/payout-methods/ecobanq/)|[`ecobanq_inr`](ecobanq_inr/)|`INR`| 
+|![Ecobanq](https://static.openfintech.io/payout_methods/ecobanq/logo.png?w=400&c=v0.59.26#w24) |[**Ecobanq**](/payout-methods/ecobanq/)|[`ecobanq_inr`](ecobanq_inr/)|`INR`| 
 |![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_aud`](ecopayz_aud/)|`AUD`| 
 |![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_cad`](ecopayz_cad/)|`CAD`| 
 |![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_eur`](ecopayz_eur/)|`EUR`| 
