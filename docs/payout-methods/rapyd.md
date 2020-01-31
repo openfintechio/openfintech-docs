@@ -37,6 +37,7 @@ The list of [Payout Services](/payout-services/) based on the _Rapyd_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![rapyd](https://static.openfintech.io/payout_methods/rapyd/icon.svg?w=278&c=v0.59.26#w40) |[rapyd_eur](/payout-services/rapyd_eur/)|`rapyd_eur`| 
+|![rapyd](https://static.openfintech.io/payout_methods/rapyd/icon.svg?w=278&c=v0.59.26#w40) |[rapyd_mxn](/payout-services/rapyd_mxn/)|`rapyd_mxn`| 
  
 
 ## JSON Object 
