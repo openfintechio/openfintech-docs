@@ -1448,6 +1448,7 @@
 |![Teremki @ LAN (Kiev)](https://static.openfintech.io/payout_methods/teremki-lan-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Teremki @ LAN (Kiev)**](/payout-methods/teremki-lan-kiev/)|[`teremki-lan-kiev_uah`](teremki-lan-kiev_uah/)|`UAH`| 
 |![Ternet](https://static.openfintech.io/payout_methods/ternet/logo.png?w=400&c=v0.59.26#w24) |[**Ternet**](/payout-methods/ternet/)|[`ternet_uah`](ternet_uah/)|`UAH`| 
 |![Test](https://static.openfintech.io/payout_methods/test/logo.png?w=400&c=v0.59.26#w24) |[**Test**](/payout-methods/test/)|[`test_eur`](test_eur/)|`EUR`| 
+|![Test](https://static.openfintech.io/payout_methods/test/logo.png?w=400&c=v0.59.26#w24) |[**Test**](/payout-methods/test/)|[`test_gbp`](test_gbp/)|`GBP`| 
 |![Test](https://static.openfintech.io/payout_methods/test/logo.png?w=400&c=v0.59.26#w24) |[**Test**](/payout-methods/test/)|[`test_rub`](test_rub/)|`RUB`| 
 |![Test](https://static.openfintech.io/payout_methods/test/logo.png?w=400&c=v0.59.26#w24) |[**Test**](/payout-methods/test/)|[`test_uah`](test_uah/)|`UAH`| 
 |![Test](https://static.openfintech.io/payout_methods/test/logo.png?w=400&c=v0.59.26#w24) |[**Test**](/payout-methods/test/)|[`test_usd`](test_usd/)|`USD`| 
