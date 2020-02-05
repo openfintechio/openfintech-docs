@@ -852,11 +852,13 @@
 |![Payeer](https://static.openfintech.io/payout_methods/payeer/logo.svg?w=400&c=v0.59.26#w24) |[**Payeer**](/payout-methods/payeer/)|[`payeer_ltc`](payeer_ltc/)|`LTC`| 
 |![Payeer](https://static.openfintech.io/payout_methods/payeer/logo.svg?w=400&c=v0.59.26#w24) |[**Payeer**](/payout-methods/payeer/)|[`payeer_rub`](payeer_rub/)|`RUB`| 
 |![Payeer](https://static.openfintech.io/payout_methods/payeer/logo.svg?w=400&c=v0.59.26#w24) |[**Payeer**](/payout-methods/payeer/)|[`payeer_usd`](payeer_usd/)|`USD`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_byn`](payment_card_byn/)|`BYN`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_cny`](payment_card_cny/)|`CNY`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_eur`](payment_card_eur/)|`EUR`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_gbp`](payment_card_gbp/)|`GBP`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_holder_rub`](payment_card_holder_rub/)|`RUB`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_kzt`](payment_card_kzt/)|`KZT`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_mdl`](payment_card_mdl/)|`MDL`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_ngn`](payment_card_ngn/)|`NGN`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_rub`](payment_card_rub/)|`RUB`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_tzs`](payment_card_tzs/)|`TZS`| 
