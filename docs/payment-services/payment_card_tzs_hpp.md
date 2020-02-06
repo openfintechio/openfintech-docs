@@ -17,7 +17,7 @@
 :	[RU] Платежная карта 
 :	[UK] Платіжна карта 
  
-**Amount limits:** from `1` to `100000000` TZS 
+**Amount limits:** from `0.01` to `1000000` TZS 
 
 ## JSON Object 
 
@@ -28,7 +28,7 @@
   "method":"payment_card",
   "currency":"TZS",
   "fields":null,
-  "amount_min":1,
-  "amount_max":100000000
+  "amount_min":0.01,
+  "amount_max":1000000
 }
 ```  
