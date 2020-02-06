@@ -344,7 +344,6 @@
 |![cmpayments](https://static.openfintech.io/vendors/cmpayments/logo.png?w=600&c=v0.59.26#w200) |[**CM Payments**](cmpayments/)|`cmpayments`| 
 |![cngpro](https://static.openfintech.io/vendors/cngpro/logo.png?w=600&c=v0.59.26#w200) |[**CNG Pro**](cngpro/)|`cngpro`| 
 |![codapay](https://static.openfintech.io/vendors/codapay/logo.png?w=600&c=v0.59.26#w200) |[**Codapay**](codapay/)|`codapay`| 
-|![coinbase](https://static.openfintech.io/vendors/coinbase/logo.svg?w=600&c=v0.59.26#w200) |[**Coinbase**](coinbase/)|`coinbase`| 
 |![coingate](https://static.openfintech.io/vendors/coingate/logo.svg?w=600&c=v0.59.26#w200) |[**CoinGate**](coingate/)|`coingate`| 
 |![coinify](https://static.openfintech.io/vendors/coinify/logo.png?w=600&c=v0.59.26#w200) |[**Coinify**](coinify/)|`coinify`| 
 |![coinlave](https://static.openfintech.io/vendors/coinlave/logo.svg?w=600&c=v0.59.26#w200) |[**Coinlave**](coinlave/)|`coinlave`| 

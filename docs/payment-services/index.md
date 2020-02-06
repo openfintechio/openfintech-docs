@@ -102,6 +102,10 @@
 |![Ecopayz](https://static.openfintech.io/payment_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w200) |[**Ecopayz**](/payment-methods/ecopayz/)|[`ecopayz_rub_hpp`](ecopayz_rub_hpp/)| 
 |![Ecopayz](https://static.openfintech.io/payment_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w200) |[**Ecopayz**](/payment-methods/ecopayz/)|[`ecopayz_uah_hpp`](ecopayz_uah_hpp/)| 
 |![Ecopayz](https://static.openfintech.io/payment_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w200) |[**Ecopayz**](/payment-methods/ecopayz/)|[`ecopayz_usd_hpp`](ecopayz_usd_hpp/)| 
+|![Ecopayz voucher](https://static.openfintech.io/payment_methods/ecopayz_voucher/logo.svg?w=400&c=v0.59.26#w200) |[**Ecopayz voucher**](/payment-methods/ecopayz_voucher/)|[`ecopayz_voucher_cad_hpp`](ecopayz_voucher_cad_hpp/)| 
+|![Ecopayz voucher](https://static.openfintech.io/payment_methods/ecopayz_voucher/logo.svg?w=400&c=v0.59.26#w200) |[**Ecopayz voucher**](/payment-methods/ecopayz_voucher/)|[`ecopayz_voucher_eur_hpp`](ecopayz_voucher_eur_hpp/)| 
+|![Ecopayz voucher](https://static.openfintech.io/payment_methods/ecopayz_voucher/logo.svg?w=400&c=v0.59.26#w200) |[**Ecopayz voucher**](/payment-methods/ecopayz_voucher/)|[`ecopayz_voucher_gbp_hpp`](ecopayz_voucher_gbp_hpp/)| 
+|![Ecopayz voucher](https://static.openfintech.io/payment_methods/ecopayz_voucher/logo.svg?w=400&c=v0.59.26#w200) |[**Ecopayz voucher**](/payment-methods/ecopayz_voucher/)|[`ecopayz_voucher_usd_hpp`](ecopayz_voucher_usd_hpp/)| 
 |![ePay.bg](https://static.openfintech.io/payment_methods/epaybg/logo.svg?w=400&c=v0.59.26#w200) |[**ePay.bg**](/payment-methods/epaybg/)|[`epaybg_eur_hpp`](epaybg_eur_hpp/)| 
 |![eps e-payment](https://static.openfintech.io/payment_methods/eps/logo.png?w=400&c=v0.59.26#w200) |[**eps e-payment**](/payment-methods/eps/)|[`eps_eur_hpp`](eps_eur_hpp/)| 
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_bch_hpp`](ethereum_bch_hpp/)| 
