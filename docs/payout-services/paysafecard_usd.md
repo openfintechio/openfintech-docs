@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`psc_id`|✔|`string`|`/^\d{1,12}$/`| 
+|`account_id`|✔|`string`|`/^[-0-9a-zA-Z.+_]+@[-0-9a-zA-ZА-Яа-я.+_]+.[a-zA-ZА-Яа-я]{2,4}\|\d{12}$/`| 
 |`date_of_birth`|✔|`string`|`/^\d{4}-\d{2}-\d{2}$/`| 
 |`first_name`|✔|`string`|`/^[A-Za-z]{2,64}$/`| 
 |`last_name`|✔|`string`|`/^[A-Za-z]{2,64}$/`| 
@@ -32,11 +32,11 @@
 
 ### Details 
  
-1. **`psc_id`** 
+1. **`account_id`** 
  
 	Type: `string` 
  
-	Regexp: `/^\d{1,12}$/` 
+	Regexp: `/^[-0-9a-zA-Z.+_]+@[-0-9a-zA-ZА-Яа-я.+_]+.[a-zA-ZА-Яа-я]{2,4}|\d{12}$/` 
  
 	Required: `1` 
  
@@ -46,7 +46,7 @@
 	: [UK] Аккаунт ID 
  
 	Hint:  
-	: [EN] enter account ID 
+	: [EN] Enter account ID 
 	: [RU] Введите аккаунт ID 
 	: [UK] Введіть аккаунт ID 
  
@@ -82,7 +82,7 @@
 	: [UK] Імʼя отримувача 
  
 	Hint:  
-	: [EN] Enter shipping first name 
+	: [EN] Enter first name 
 	: [RU] Введите имя получателя 
 	: [UK] Введіть імʼя отримувача 
  
@@ -95,13 +95,13 @@
 	Required: `1` 
  
 	Label:  
-	: [EN] Shipping last name 
+	: [EN] Last name 
 	: [RU] Фамилия получателя 
 	: [UK] Прізвище отримувача 
  
 	Hint:  
-	: [EN] Enter shipping last name 
-	: [RU] Введите фамилия получателя 
+	: [EN] Enter last name 
+	: [RU] Введите фамилию получателя 
 	: [UK] Введіть прізвище отримувача 
  
 
@@ -114,7 +114,7 @@
   "currency":"USD",
   "fields":[
     {
-      "key":"psc_id",
+      "key":"account_id",
       "type":"string",
       "label":{
         "en":"Account ID",
@@ -122,12 +122,12 @@
         "uk":"\u0410\u043a\u043a\u0430\u0443\u043d\u0442 ID"
       },
       "hint":{
-        "en":"enter account ID",
+        "en":"Enter account ID",
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0430\u043a\u043a\u0430\u0443\u043d\u0442 ID",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0430\u043a\u043a\u0430\u0443\u043d\u0442 ID"
       },
       "example":"447624222721",
-      "regexp":"\/^\\d{1,12}$\/",
+      "regexp":"\/^[-0-9a-zA-Z.+_]+@[-0-9a-zA-Z\u0410-\u042f\u0430-\u044f.+_]+.[a-zA-Z\u0410-\u042f\u0430-\u044f]{2,4}|\\d{12}$\/",
       "required":true,
       "position":1
     },
@@ -158,7 +158,7 @@
         "uk":"\u0406\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
       },
       "hint":{
-        "en":"Enter shipping first name",
+        "en":"Enter first name",
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
       },
@@ -171,13 +171,13 @@
       "key":"last_name",
       "type":"string",
       "label":{
-        "en":"Shipping last name",
+        "en":"Last name",
         "ru":"\u0424\u0430\u043c\u0438\u043b\u0438\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
         "uk":"\u041f\u0440\u0456\u0437\u0432\u0438\u0449\u0435 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
       },
       "hint":{
-        "en":"Enter shipping last name",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0444\u0430\u043c\u0438\u043b\u0438\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "en":"Enter last name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0444\u0430\u043c\u0438\u043b\u0438\u044e \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u0440\u0456\u0437\u0432\u0438\u0449\u0435 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
       },
       "regexp":"\/^[A-Za-z]{2,64}$\/",
