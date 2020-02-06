@@ -498,10 +498,10 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><code>psc_id</code></td>
+<td align="center"><code>account_id</code></td>
 <td align="center">✔</td>
 <td align="center"><code>string</code></td>
-<td align="center"><code>/^\d{1,12}$/</code></td>
+<td align="center"><code>/^[-0-9a-zA-Z.+_]+@[-0-9a-zA-ZА-Яа-я.+_]+.[a-zA-ZА-Яа-я]{2,4}\|\d{12}$/</code></td>
 </tr>
 <tr>
 <td align="center"><code>date_of_birth</code></td>
@@ -526,9 +526,9 @@
 <h3 id="details">Details<a class="headerlink" href="#details" title="Permanent link">&para;</a></h3>
 <ol>
 <li>
-<p><strong><code>psc_id</code></strong> </p>
+<p><strong><code>account_id</code></strong> </p>
 <p>Type: <code>string</code> </p>
-<p>Regexp: <code>/^\d{1,12}$/</code> </p>
+<p>Regexp: <code>/^[-0-9a-zA-Z.+_]+@[-0-9a-zA-ZА-Яа-я.+_]+.[a-zA-ZА-Яа-я]{2,4}|\d{12}$/</code> </p>
 <p>Required: <code>1</code> </p>
 <dl>
 <dt>Label:</dt>
@@ -536,7 +536,7 @@
 <dd>[RU] Аккаунт ID </dd>
 <dd>[UK] Аккаунт ID </dd>
 <dt>Hint:</dt>
-<dd>[EN] enter account ID </dd>
+<dd>[EN] Enter account ID </dd>
 <dd>[RU] Введите аккаунт ID </dd>
 <dd>[UK] Введіть аккаунт ID </dd>
 </dl>
@@ -568,7 +568,7 @@
 <dd>[RU] Имя получателя </dd>
 <dd>[UK] Імʼя отримувача </dd>
 <dt>Hint:</dt>
-<dd>[EN] Enter shipping first name </dd>
+<dd>[EN] Enter first name </dd>
 <dd>[RU] Введите имя получателя </dd>
 <dd>[UK] Введіть імʼя отримувача </dd>
 </dl>
@@ -580,12 +580,12 @@
 <p>Required: <code>1</code> </p>
 <dl>
 <dt>Label:</dt>
-<dd>[EN] Shipping last name </dd>
+<dd>[EN] Last name </dd>
 <dd>[RU] Фамилия получателя </dd>
 <dd>[UK] Прізвище отримувача </dd>
 <dt>Hint:</dt>
-<dd>[EN] Enter shipping last name </dd>
-<dd>[RU] Введите фамилия получателя </dd>
+<dd>[EN] Enter last name </dd>
+<dd>[RU] Введите фамилию получателя </dd>
 <dd>[UK] Введіть прізвище отримувача </dd>
 </dl>
 </li>
@@ -597,7 +597,7 @@
   <span class="nt">&quot;currency&quot;</span><span class="p">:</span><span class="s2">&quot;USD&quot;</span><span class="p">,</span>
   <span class="nt">&quot;fields&quot;</span><span class="p">:[</span>
     <span class="p">{</span>
-      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;psc_id&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;account_id&quot;</span><span class="p">,</span>
       <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
       <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
         <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Account ID&quot;</span><span class="p">,</span>
@@ -605,12 +605,12 @@
         <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0410\u043a\u043a\u0430\u0443\u043d\u0442 ID&quot;</span>
       <span class="p">},</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;enter account ID&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter account ID&quot;</span><span class="p">,</span>
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0430\u043a\u043a\u0430\u0443\u043d\u0442 ID&quot;</span><span class="p">,</span>
         <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0430\u043a\u043a\u0430\u0443\u043d\u0442 ID&quot;</span>
       <span class="p">},</span>
       <span class="nt">&quot;example&quot;</span><span class="p">:</span><span class="s2">&quot;447624222721&quot;</span><span class="p">,</span>
-      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^\\d{1,12}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[-0-9a-zA-Z.+_]+@[-0-9a-zA-Z\u0410-\u042f\u0430-\u044f.+_]+.[a-zA-Z\u0410-\u042f\u0430-\u044f]{2,4}|\\d{12}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
       <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">1</span>
     <span class="p">},</span>
@@ -641,7 +641,7 @@
         <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0406\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430&quot;</span>
       <span class="p">},</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter shipping first name&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter first name&quot;</span><span class="p">,</span>
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f&quot;</span><span class="p">,</span>
         <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430&quot;</span>
       <span class="p">},</span>
@@ -654,13 +654,13 @@
       <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;last_name&quot;</span><span class="p">,</span>
       <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
       <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Shipping last name&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Last name&quot;</span><span class="p">,</span>
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0424\u0430\u043c\u0438\u043b\u0438\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f&quot;</span><span class="p">,</span>
         <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041f\u0440\u0456\u0437\u0432\u0438\u0449\u0435 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430&quot;</span>
       <span class="p">},</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter shipping last name&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0444\u0430\u043c\u0438\u043b\u0438\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter last name&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0444\u0430\u043c\u0438\u043b\u0438\u044e \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f&quot;</span><span class="p">,</span>
         <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u0440\u0456\u0437\u0432\u0438\u0449\u0435 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430&quot;</span>
       <span class="p">},</span>
       <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[A-Za-z]{2,64}$\/&quot;</span><span class="p">,</span>
