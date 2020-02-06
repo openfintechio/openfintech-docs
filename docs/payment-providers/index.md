@@ -70,6 +70,7 @@
 |![billingpartner](https://static.openfintech.io/payment_providers/billingpartner/logo.png?w=600&c=v0.59.26#w100) |[**BillingPartner**](billingpartner/)|`billingpartner`| 
 |![billingtree](https://static.openfintech.io/payment_providers/billingtree/logo.png?w=600&c=v0.59.26#w100) |[**BillingTree**](billingtree/)|`billingtree`| 
 |![billingunited](https://static.openfintech.io/payment_providers/billingunited/logo.svg?w=600&c=v0.59.26#w100) |[**Billing-United**](billingunited/)|`billingunited`| 
+|![billline](https://static.openfintech.io/payment_providers/billline/logo.svg?w=600&c=v0.59.26#w100) |[**BillLine**](billline/)|`billline`| 
 |![billpro](https://static.openfintech.io/payment_providers/billpro/logo.png?w=600&c=v0.59.26#w100) |[**BILLPRO.com**](billpro/)|`billpro`| 
 |![billtomobile](https://static.openfintech.io/payment_providers/billtomobile/logo.svg?w=600&c=v0.59.26#w100) |[**BilltoMobile**](billtomobile/)|`billtomobile`| 
 |![bips](https://static.openfintech.io/payment_providers/bips/logo.svg?w=600&c=v0.59.26#w100) |[**BIPS**](bips/)|`bips`| 
