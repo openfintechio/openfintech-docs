@@ -483,6 +483,7 @@
 |![pinpayments](https://static.openfintech.io/payment_providers/pinpayments/logo.png?w=600&c=v0.59.26#w100) |[**Pin Payments**](pinpayments/)|`pinpayments`| 
 |![pivotalpayments](https://static.openfintech.io/payment_providers/pivotalpayments/logo.png?w=600&c=v0.59.26#w100) |[**Pivotal Payments**](pivotalpayments/)|`pivotalpayments`| 
 |![planetpayment](https://static.openfintech.io/payment_providers/planetpayment/logo.png?w=600&c=v0.59.26#w100) |[**Planet Payment**](planetpayment/)|`planetpayment`| 
+|![platio](https://static.openfintech.io/payment_providers/platio/logo.svg?w=600&c=v0.59.26#w100) |[**Platio**](platio/)|`platio`| 
 |![platon](https://static.openfintech.io/payment_providers/platon/logo.svg?w=600&c=v0.59.26#w100) |[**Platon**](platon/)|`platon`| 
 |![platron](https://static.openfintech.io/payment_providers/platron/logo.png?w=600&c=v0.59.26#w100) |[**Platron**](platron/)|`platron`| 
 |![portmone](https://static.openfintech.io/payment_providers/portmone/logo.png?w=600&c=v0.59.26#w100) |[**Portmone.com**](portmone/)|`portmone`| 
@@ -500,6 +501,7 @@
 |![purebilling](https://static.openfintech.io/payment_providers/purebilling/logo.png?w=600&c=v0.59.26#w100) |[**purebilling.com**](purebilling/)|`purebilling`| 
 || **Q** ||
 |![qantani](https://static.openfintech.io/payment_providers/qantani/logo.png?w=600&c=v0.59.26#w100) |[**Qantani**](qantani/)|`qantani`| 
+|![qiwi](https://static.openfintech.io/payment_providers/qiwi/logo.svg?w=600&c=v0.59.26#w100) |[**Qiwi**](qiwi/)|`qiwi`| 
 |![quickpay](https://static.openfintech.io/payment_providers/quickpay/logo.png?w=600&c=v0.59.26#w100) |[**QuickPay**](quickpay/)|`quickpay`| 
 || **R** ||
 |![raboomnikassa](https://static.openfintech.io/payment_providers/raboomnikassa/logo.png?w=600&c=v0.59.26#w100) |[**Rabo OmniKassa**](raboomnikassa/)|`raboomnikassa`| 
