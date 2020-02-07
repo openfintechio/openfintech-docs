@@ -59,7 +59,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![zotapay](https://static.openfintech.io/payment_providers/zotapay/icon.svg?w=278&c=v0.59.26#w100) |[Zotapay](/payment-providers/zotapay/)|`zotapay`| 
+|![zotapay](https://static.openfintech.io/payment_providers/zotapay/icon.png?w=278&c=v0.59.26#w100) |[Zotapay](/payment-providers/zotapay/)|`zotapay`| 
 |![qiwi](https://static.openfintech.io/payment_providers/qiwi/icon.svg?w=278&c=v0.59.26#w100) |[Qiwi](/payment-providers/qiwi/)|`qiwi`| 
 |![paybox](https://static.openfintech.io/payment_providers/paybox/icon.svg?w=278&c=v0.59.26#w100) |[Paybox](/payment-providers/paybox/)|`paybox`| 
 |![123x](https://static.openfintech.io/payment_providers/123x/icon.png?w=278&c=v0.59.26#w100) |[123x](/payment-providers/123x/)|`123x`| 

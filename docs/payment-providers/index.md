@@ -645,5 +645,5 @@
 |![zong](https://static.openfintech.io/payment_providers/zong/logo.png?w=600&c=v0.59.26#w100) |[**Zong**](zong/)|`zong`| 
 |![zoopay](https://static.openfintech.io/payment_providers/zoopay/logo.png?w=600&c=v0.59.26#w100) |[**ZooPay**](zoopay/)|`zoopay`| 
 |![zooz](https://static.openfintech.io/payment_providers/zooz/logo.png?w=600&c=v0.59.26#w100) |[**Zooz, Inc**](zooz/)|`zooz`| 
-|![zotapay](https://static.openfintech.io/payment_providers/zotapay/logo.svg?w=600&c=v0.59.26#w100) |[**Zotapay**](zotapay/)|`zotapay`| 
+|![zotapay](https://static.openfintech.io/payment_providers/zotapay/logo.png?w=600&c=v0.59.26#w100) |[**Zotapay**](zotapay/)|`zotapay`| 
  
