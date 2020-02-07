@@ -2301,6 +2301,7 @@
 |![wifi-in-ua](https://static.openfintech.io/payout_methods/wifi-in-ua/logo.png?w=400&c=v0.59.26#w24) |[**WIFI.IN.UA**](wifi-in-ua/)|`wifi-in-ua`| 
 |![windows-phone-store-gift-card-us-15](https://static.openfintech.io/payout_methods/windows-phone-store-gift-card-us-15/logo.png?w=400&c=v0.59.26#w24) |[**Windows Phone Store Gift Card (US) $ 15**](windows-phone-store-gift-card-us-15/)|`windows-phone-store-gift-card-us-15`| 
 |![windows-phone-store-gift-card-us-25](https://static.openfintech.io/payout_methods/windows-phone-store-gift-card-us-25/logo.png?w=400&c=v0.59.26#w24) |[**Windows Phone Store Gift Card (US) $ 25**](windows-phone-store-gift-card-us-25/)|`windows-phone-store-gift-card-us-25`| 
+|![winpay](https://static.openfintech.io/payout_methods/winpay/logo.svg?w=400&c=v0.59.26#w24) |[**WinPay**](winpay/)|`winpay`| 
 |![wintelecom-vinnitsa](https://static.openfintech.io/payout_methods/wintelecom-vinnitsa/logo.png?w=400&c=v0.59.26#w24) |[**Wintelecom (Vinnitsa)**](wintelecom-vinnitsa/)|`wintelecom-vinnitsa`| 
 |![wizards-world-oplata-po-niku](https://static.openfintech.io/payout_methods/wizards-world-oplata-po-niku/logo.png?w=400&c=v0.59.26#w24) |[**Wizards World Nick payment**](wizards-world-oplata-po-niku/)|`wizards-world-oplata-po-niku`| 
 |![wizards-world-oplata-po-wid](https://static.openfintech.io/payout_methods/wizards-world-oplata-po-wid/logo.png?w=400&c=v0.59.26#w24) |[**Wizards World WID payment**](wizards-world-oplata-po-wid/)|`wizards-world-oplata-po-wid`| 
