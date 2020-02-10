@@ -26,6 +26,8 @@
 |:---:|:---:|:---:|:---:| 
 |`card_number`|✔|`string`|`/^([45]{1}[\d]{15}\|[6]{1}[\d]{17})$/`| 
 |`phone_number`|✔|`string`|`/^\+\d{10,14}$/`| 
+|`fio`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`date_of_birth`|✗|`string`|`/^\d{4}-\d{2}-\d{2}$/`| 
  
 
 ### Details 
@@ -65,6 +67,42 @@
 	: [EN] Enter phone number 
 	: [RU] Введите номер телефона 
 	: [UK] Введіть номер телефону 
+ 
+3. **`fio`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^(\w|\.| |\-|\+|@){1,128}$/` 
+ 
+	Required: `1` 
+ 
+	Label:  
+	: [EN] Full name 
+	: [RU] ФИО 
+	: [UK] ФІО 
+ 
+	Hint:  
+	: [EN] Full name 
+	: [RU] ФИО 
+	: [UK] ФІО 
+ 
+4. **`date_of_birth`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^\d{4}-\d{2}-\d{2}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Date of birth 
+	: [RU] Дата рождения 
+	: [UK] Дата народження 
+ 
+	Hint:  
+	: [EN] Date of birth 
+	: [RU] Дата рождения 
+	: [UK] Дата народження 
  
 
 ## JSON Object 
@@ -108,6 +146,41 @@
       "regexp":"\/^\\+\\d{10,14}$\/",
       "required":true,
       "position":2
+    },
+    {
+      "key":"fio",
+      "type":"string",
+      "label":{
+        "en":"Full name",
+        "ru":"\u0424\u0418\u041e",
+        "uk":"\u0424\u0406\u041e"
+      },
+      "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
+      "required":true,
+      "position":3,
+      "hint":{
+        "en":"Full name",
+        "ru":"\u0424\u0418\u041e",
+        "uk":"\u0424\u0406\u041e"
+      }
+    },
+    {
+      "key":"date_of_birth",
+      "type":"string",
+      "label":{
+        "en":"Date of birth",
+        "ru":"\u0414\u0430\u0442\u0430 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
+        "uk":"\u0414\u0430\u0442\u0430 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f"
+      },
+      "regexp":"\/^\\d{4}-\\d{2}-\\d{2}$\/",
+      "required":false,
+      "position":4,
+      "hint":{
+        "en":"Date of birth",
+        "ru":"\u0414\u0430\u0442\u0430 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
+        "uk":"\u0414\u0430\u0442\u0430 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f"
+      },
+      "example":"28.02.1999"
     }
   ],
   "amount_min":"0.01",
