@@ -355,6 +355,7 @@
 |![sberonline](https://static.openfintech.io/payment_methods/sberonline/logo.svg?w=400&c=v0.59.26#w200) |[**Sberbank Online**](sberonline/)|`sberonline`| 
 |![scbbanknetbanking](https://static.openfintech.io/payment_methods/scbbanknetbanking/logo.png?w=400&c=v0.59.26#w200) |[**SCB netbanking**](scbbanknetbanking/)|`scbbanknetbanking`| 
 |![sebbank](https://static.openfintech.io/payment_methods/sebbank/logo.png?w=400&c=v0.59.26#w200) |[**SEB Bank**](sebbank/)|`sebbank`| 
+|![selcom](https://static.openfintech.io/payment_methods/selcom/logo.svg?w=400&c=v0.59.26#w200) |[**Selcom**](selcom/)|`selcom`| 
 |![sencillito](https://static.openfintech.io/payment_methods/sencillito/logo.svg?w=400&c=v0.59.26#w200) |[**Sencillito**](sencillito/)|`sencillito`| 
 |![sepacredittransfer](https://static.openfintech.io/payment_methods/sepacredittransfer/logo.svg?w=400&c=v0.59.26#w200) |[**SEPA Credit Transfer**](sepacredittransfer/)|`sepacredittransfer`| 
 |![sepadirectdebit](https://static.openfintech.io/payment_methods/sepadirectdebit/logo.svg?w=400&c=v0.59.26#w200) |[**SEPA Direct Debit**](sepadirectdebit/)|`sepadirectdebit`| 

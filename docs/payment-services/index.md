@@ -287,6 +287,7 @@
 ||| **S** ||
 |![SACOM Bank](https://static.openfintech.io/payment_methods/sacom_bank/logo.png?w=400&c=v0.59.26#w200) |[**SACOM Bank**](/payment-methods/sacom_bank/)|[`sacom_bank_vnd_hpp`](sacom_bank_vnd_hpp/)| 
 |![SberBank](https://static.openfintech.io/payment_methods/sberbank/logo.svg?w=400&c=v0.59.26#w200) |[**SberBank**](/payment-methods/sberbank/)|[`sberbank_rub_hpp`](sberbank_rub_hpp/)| 
+|![Selcom](https://static.openfintech.io/payment_methods/selcom/logo.svg?w=400&c=v0.59.26#w200) |[**Selcom**](/payment-methods/selcom/)|[`selcom_tzs_invoice`](selcom_tzs_invoice/)| 
 |![Shanghai Pudong Development Bank](https://static.openfintech.io/payment_methods/shanghai_pudong_development_bank/logo.png?w=400&c=v0.59.26#w200) |[**Shanghai Pudong Development Bank**](/payment-methods/shanghai_pudong_development_bank/)|[`shanghai_pudong_development_bank_cny_hpp`](shanghai_pudong_development_bank_cny_hpp/)| 
 |![Shinhan Bank](https://static.openfintech.io/payment_methods/shinhan_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Shinhan Bank**](/payment-methods/shinhan_bank/)|[`shinhan_bank_krw_hpp`](shinhan_bank_krw_hpp/)| 
 |![Siam Commercial Bank](https://static.openfintech.io/payment_methods/siam_commercial_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Siam Commercial Bank**](/payment-methods/siam_commercial_bank/)|[`siam_commercial_bank_thb_hpp`](siam_commercial_bank_thb_hpp/)| 

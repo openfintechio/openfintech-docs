@@ -1312,6 +1312,7 @@
 |![satok-kievskaia-obl](https://static.openfintech.io/payout_methods/satok-kievskaia-obl/logo.png?w=400&c=v0.59.26#w24) |[**Satoko (Kyiv region)**](satok-kievskaia-obl/)|`satok-kievskaia-obl`| 
 |![sberbank](https://static.openfintech.io/payout_methods/sberbank/logo.svg?w=400&c=v0.59.26#w24) |[**Sberbank**](sberbank/)|`sberbank`| 
 |![scana](https://static.openfintech.io/payout_methods/scana/logo.png?w=400&c=v0.59.26#w24) |[**Scana**](scana/)|`scana`| 
+|![selcom](https://static.openfintech.io/payout_methods/selcom/logo.svg?w=400&c=v0.59.26#w24) |[**Selcom**](selcom/)|`selcom`| 
 |![selidovskii-res](https://static.openfintech.io/payout_methods/selidovskii-res/logo.png?w=400&c=v0.59.26#w24) |[**Selidovsky RES**](selidovskii-res/)|`selidovskii-res`| 
 |![selidovskoe-puvkkh-voda-donbassa](https://static.openfintech.io/payout_methods/selidovskoe-puvkkh-voda-donbassa/logo.png?w=400&c=v0.59.26#w24) |[**Selidovskoye PUVKH (water of Donbass)**](selidovskoe-puvkkh-voda-donbassa/)|`selidovskoe-puvkkh-voda-donbassa`| 
 |![sepa_credit_transfer](https://static.openfintech.io/payout_methods/sepa_credit_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**SEPA Transfer**](sepa_credit_transfer/)|`sepa_credit_transfer`| 

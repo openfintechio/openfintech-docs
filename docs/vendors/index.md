@@ -1353,6 +1353,7 @@
 |![securetradingfinacialservices](https://static.openfintech.io/vendors/securetradingfinacialservices/logo.png?w=600&c=v0.59.26#w200) |[**Secure Trading Financial Services**](securetradingfinacialservices/)|`securetradingfinacialservices`| 
 |![securionpay](https://static.openfintech.io/vendors/securionpay/logo.svg?w=600&c=v0.59.26#w200) |[**SecurionPay**](securionpay/)|`securionpay`| 
 |![segpay](https://static.openfintech.io/vendors/segpay/logo.png?w=600&c=v0.59.26#w200) |[**SegPay**](segpay/)|`segpay`| 
+|![selcom](https://static.openfintech.io/vendors/selcom/logo.svg?w=600&c=v0.59.26#w200) |[**Selcom**](selcom/)|`selcom`| 
 |![sencillito](https://static.openfintech.io/vendors/sencillito/logo.svg?w=600&c=v0.59.26#w200) |[**Sencillito**](sencillito/)|`sencillito`| 
 |![sentrypayments](https://static.openfintech.io/vendors/sentrypayments/logo.png?w=600&c=v0.59.26#w200) |[**SentryPayments**](sentrypayments/)|`sentrypayments`| 
 |![sepa](https://static.openfintech.io/vendors/sepa/logo.svg?w=600&c=v0.59.26#w200) |[**SEPA**](sepa/)|`sepa`| 

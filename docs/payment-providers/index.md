@@ -534,6 +534,7 @@
 |![securetradingfinacialservices](https://static.openfintech.io/payment_providers/securetradingfinacialservices/logo.png?w=600&c=v0.59.26#w100) |[**Secure Trading Financial Services**](securetradingfinacialservices/)|`securetradingfinacialservices`| 
 |![securionpay](https://static.openfintech.io/payment_providers/securionpay/logo.svg?w=600&c=v0.59.26#w100) |[**SecurionPay**](securionpay/)|`securionpay`| 
 |![segpay](https://static.openfintech.io/payment_providers/segpay/logo.png?w=600&c=v0.59.26#w100) |[**SegPay**](segpay/)|`segpay`| 
+|![selcom](https://static.openfintech.io/payment_providers/selcom/logo.svg?w=600&c=v0.59.26#w100) |[**Selcom**](selcom/)|`selcom`| 
 |![sentrypayments](https://static.openfintech.io/payment_providers/sentrypayments/logo.png?w=600&c=v0.59.26#w100) |[**SentryPayments**](sentrypayments/)|`sentrypayments`| 
 |![setcompaymentsolutions](https://static.openfintech.io/payment_providers/setcompaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Setcom Payment Solutions**](setcompaymentsolutions/)|`setcompaymentsolutions`| 
 |![sidpayment](https://static.openfintech.io/payment_providers/sidpayment/logo.png?w=600&c=v0.59.26#w100) |[**SID Instant EFT**](sidpayment/)|`sidpayment`| 
