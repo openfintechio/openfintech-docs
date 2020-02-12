@@ -13,7 +13,7 @@
 :	[RU] UAX 
 :	[UK] UAX 
  
-**Category:** `payment_card` 
+**Category:** `alternative` 
  
 
 ## Images 
@@ -54,6 +54,6 @@ The list of [Payout Services](/payout-services/) based on the _UAX_
   },
   "description":null,
   "countries":null,
-  "category":"payment_card"
+  "category":"alternative"
 }
 ```  
