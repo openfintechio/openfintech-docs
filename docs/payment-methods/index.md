@@ -407,6 +407,7 @@
 |![trustly](https://static.openfintech.io/payment_methods/trustly/logo.png?w=400&c=v0.59.26#w200) |[**Trustly**](trustly/)|`trustly`| 
 || **U** ||
 |![uatp](https://static.openfintech.io/payment_methods/uatp/logo.png?w=400&c=v0.59.26#w200) |[**UATP**](uatp/)|`uatp`| 
+|![uax](https://static.openfintech.io/payment_methods/uax/logo.svg?w=400&c=v0.59.26#w200) |[**UAX**](uax/)|`uax`| 
 |![ukash](https://static.openfintech.io/payment_methods/ukash/logo.png?w=400&c=v0.59.26#w200) |[**Ukash**](ukash/)|`ukash`| 
 |![ukrsibbank](https://static.openfintech.io/payment_methods/ukrsibbank/logo.png?w=400&c=v0.59.26#w200) |[**Ukrsib Bank**](ukrsibbank/)|`ukrsibbank`| 
 |![unicredit](https://static.openfintech.io/payment_methods/unicredit/logo.png?w=400&c=v0.59.26#w200) |[**UniCredit**](unicredit/)|`unicredit`| 

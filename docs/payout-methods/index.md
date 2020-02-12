@@ -2170,6 +2170,7 @@
 |![uaprostir](https://static.openfintech.io/payout_methods/uaprostir/logo.png?w=400&c=v0.59.26#w24) |[**UAProstir**](uaprostir/)|`uaprostir`| 
 |![uarnet](https://static.openfintech.io/payout_methods/uarnet/logo.svg?w=400&c=v0.59.26#w24) |[**УАРНЕТ**](uarnet/)|`uarnet`| 
 |![uatel-kievskaia-oblast](https://static.openfintech.io/payout_methods/uatel-kievskaia-oblast/logo.png?w=400&c=v0.59.26#w24) |[**UATEL (Kiev region)**](uatel-kievskaia-oblast/)|`uatel-kievskaia-oblast`| 
+|![uax](https://static.openfintech.io/payout_methods/uax/logo.svg?w=400&c=v0.59.26#w24) |[**UAX**](uax/)|`uax`| 
 |![udivitelnyi-kolkhoz](https://static.openfintech.io/payout_methods/udivitelnyi-kolkhoz/logo.png?w=400&c=v0.59.26#w24) |[**Amazing Collective Farm**](udivitelnyi-kolkhoz/)|`udivitelnyi-kolkhoz`| 
 |![ufo](https://static.openfintech.io/payout_methods/ufo/logo.png?w=400&c=v0.59.26#w24) |[**UFO**](ufo/)|`ufo`| 
 |![ufo-online](https://static.openfintech.io/payout_methods/ufo-online/logo.png?w=400&c=v0.59.26#w24) |[**UFO Online**](ufo-online/)|`ufo-online`| 
