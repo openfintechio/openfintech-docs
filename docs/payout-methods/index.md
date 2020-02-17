@@ -156,6 +156,8 @@
 |![c-t-net-chernovtsy](https://static.openfintech.io/payout_methods/c-t-net-chernovtsy/logo.png?w=400&c=v0.59.26#w24) |[**CT Net (Chernivtsi)**](c-t-net-chernovtsy/)|`c-t-net-chernovtsy`| 
 |![cactus](https://static.openfintech.io/payout_methods/cactus/logo.png?w=400&c=v0.59.26#w24) |[**CACTUS**](cactus/)|`cactus`| 
 |![card](https://static.openfintech.io/payout_methods/card/logo.png?w=400&c=v0.59.26#w24) |[**Card**](card/)|`card`| 
+|![cashfree_bank_transfer](https://static.openfintech.io/payout_methods/cashfree_bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Cashfree bank transfer**](cashfree_bank_transfer/)|`cashfree_bank_transfer`| 
+|![cashfree_upi](https://static.openfintech.io/payout_methods/cashfree_upi/logo.svg?w=400&c=v0.59.26#w24) |[**Cashfree UPI**](cashfree_upi/)|`cashfree_upi`| 
 |![cdc-oborudovanie-slaviansk](https://static.openfintech.io/payout_methods/cdc-oborudovanie-slaviansk/logo.svg?w=400&c=v0.59.26#w24) |[**CDC - Equipment (Slavyansk)**](cdc-oborudovanie-slaviansk/)|`cdc-oborudovanie-slaviansk`| 
 |![cdc-slaviansk](https://static.openfintech.io/payout_methods/cdc-slaviansk/logo.png?w=400&c=v0.59.26#w24) |[**CDC (Slavyansk)**](cdc-slaviansk/)|`cdc-slaviansk`| 
 |![certus_transfer](https://static.openfintech.io/payout_methods/certus_transfer/logo.png?w=400&c=v0.59.26#w24) |[**Certus transfer**](certus_transfer/)|`certus_transfer`| 
