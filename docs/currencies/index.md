@@ -638,6 +638,7 @@
 || **U** ||
 |![UAH](https://static.openfintech.io/currencies/UAH/icon.svg?w=278&c=v0.59.26#w100) |[**Ukrainian Hryvnia**](UAH/)|`UAH`| 
 |![UAMUSD](https://static.openfintech.io/currencies/UAMUSD/icon.svg?w=278&c=v0.59.26#w100) |[**UAMUSD**](UAMUSD/)|`UAMUSD`| 
+|![UAX](https://static.openfintech.io/currencies/UAX/icon.svg?w=278&c=v0.59.26#w100) |[**UAX**](UAX/)|`UAX`| 
 |![UGX](https://static.openfintech.io/currencies/UGX/icon.svg?w=278&c=v0.59.26#w100) |[**Ugandan Shilling**](UGX/)|`UGX`| 
 |![UKEUR](https://static.openfintech.io/currencies/UKEUR/icon.svg?w=278&c=v0.59.26#w100) |[**UKEUR**](UKEUR/)|`UKEUR`| 
 |![UKUSD](https://static.openfintech.io/currencies/UKUSD/icon.svg?w=278&c=v0.59.26#w100) |[**UKUSD**](UKUSD/)|`UKUSD`| 
