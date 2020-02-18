@@ -513,7 +513,7 @@
 <td align="center"><code>fio</code></td>
 <td align="center">✔</td>
 <td align="center"><code>string</code></td>
-<td align="center"><code>/^(\w\|\.\| \|\-\|\+\|@){1,128}$/</code></td>
+<td align="center"><code>/^[a-zA-Z]+(([',. -][a-zA-Z ])?[a-zA-Z]*)*$/</code></td>
 </tr>
 <tr>
 <td align="center"><code>date_of_birth</code></td>
@@ -560,7 +560,7 @@
 <li>
 <p><strong><code>fio</code></strong> </p>
 <p>Type: <code>string</code> </p>
-<p>Regexp: <code>/^(\w|\.| |\-|\+|@){1,128}$/</code> </p>
+<p>Regexp: <code>/^[a-zA-Z]+(([',. -][a-zA-Z ])?[a-zA-Z]*)*$/</code> </p>
 <p>Required: <code>1</code> </p>
 <dl>
 <dt>Label:</dt>
@@ -638,7 +638,7 @@
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0424\u0418\u041e&quot;</span><span class="p">,</span>
         <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0424\u0406\u041e&quot;</span>
       <span class="p">},</span>
-      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[a-zA-Z]+(([&#39;,. -][a-zA-Z ])?[a-zA-Z]*)*$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
       <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
