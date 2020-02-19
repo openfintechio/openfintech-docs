@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`vpa`|✔|`string`|`/^.{1,255}$/`| 
+|`vpa`|✔|`string`|`/^\w.+@\w+$/`| 
  
 
 ### Details 
@@ -33,7 +33,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^.{1,255}$/` 
+	Regexp: `/^\w.+@\w+$/` 
  
 	Required: `1` 
  
@@ -69,7 +69,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 VPA",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c VPA"
       },
-      "regexp":"\/^.{1,255}$\/",
+      "regexp":"\/^\\w.+@\\w+$\/",
       "required":true,
       "position":1
     }
