@@ -38,7 +38,7 @@ The list of [Payout Services](/payout-services/) based on the _UAX_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![uax](https://static.openfintech.io/payout_methods/uax/icon.svg?w=278&c=v0.59.26#w40) |[uax_uah](/payout-services/uax_uah/)|`uax_uah`| 
+|![uax](https://static.openfintech.io/payout_methods/uax/icon.svg?w=278&c=v0.59.26#w40) |[uax_uax](/payout-services/uax_uax/)|`uax_uax`| 
  
 
 ## JSON Object 

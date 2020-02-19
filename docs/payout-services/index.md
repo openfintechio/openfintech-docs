@@ -1775,7 +1775,7 @@
 |![UAProstir](https://static.openfintech.io/payout_methods/uaprostir/logo.png?w=400&c=v0.59.26#w24) |[**UAProstir**](/payout-methods/uaprostir/)|[`uaprostir_uah`](uaprostir_uah/)|`UAH`| 
 |![УАРНЕТ](https://static.openfintech.io/payout_methods/uarnet/logo.svg?w=400&c=v0.59.26#w24) |[**УАРНЕТ**](/payout-methods/uarnet/)|[`uarnet_uah`](uarnet_uah/)|`UAH`| 
 |![UATEL (Kiev region)](https://static.openfintech.io/payout_methods/uatel-kievskaia-oblast/logo.png?w=400&c=v0.59.26#w24) |[**UATEL (Kiev region)**](/payout-methods/uatel-kievskaia-oblast/)|[`uatel-kievskaia-oblast_uah`](uatel-kievskaia-oblast_uah/)|`UAH`| 
-|![UAX](https://static.openfintech.io/payout_methods/uax/logo.svg?w=400&c=v0.59.26#w24) |[**UAX**](/payout-methods/uax/)|[`uax_uah`](uax_uah/)|`UAH`| 
+|![UAX](https://static.openfintech.io/payout_methods/uax/logo.svg?w=400&c=v0.59.26#w24) |[**UAX**](/payout-methods/uax/)|[`uax_uax`](uax_uax/)|`UAX`| 
 |![Amazing Collective Farm](https://static.openfintech.io/payout_methods/udivitelnyi-kolkhoz/logo.png?w=400&c=v0.59.26#w24) |[**Amazing Collective Farm**](/payout-methods/udivitelnyi-kolkhoz/)|[`udivitelnyi-kolkhoz_uah`](udivitelnyi-kolkhoz_uah/)|`UAH`| 
 |![UFO Online](https://static.openfintech.io/payout_methods/ufo-online/logo.png?w=400&c=v0.59.26#w24) |[**UFO Online**](/payout-methods/ufo-online/)|[`ufo-online_uah`](ufo-online_uah/)|`UAH`| 
 |![UFO](https://static.openfintech.io/payout_methods/ufo/logo.png?w=400&c=v0.59.26#w24) |[**UFO**](/payout-methods/ufo/)|[`ufo_uah`](ufo_uah/)|`UAH`| 
