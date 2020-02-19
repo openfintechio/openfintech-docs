@@ -314,7 +314,7 @@
 |![Test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200) |[**Test**](/payment-methods/test/)|[`test_xts_test`](test_xts_test/)| 
 |![Trustly](https://static.openfintech.io/payment_methods/trustly/logo.png?w=400&c=v0.59.26#w200) |[**Trustly**](/payment-methods/trustly/)|[`trustly_eur_hpp`](trustly_eur_hpp/)| 
 ||| **U** ||
-|![UAX](https://static.openfintech.io/payment_methods/uax/logo.svg?w=400&c=v0.59.26#w200) |[**UAX**](/payment-methods/uax/)|[`uax_uax_invoice`](uax_uax_invoice/)| 
+|![UAX](https://static.openfintech.io/payment_methods/uax/logo.svg?w=400&c=v0.59.26#w200) |[**UAX**](/payment-methods/uax/)|[`uax_uah_invoice`](uax_uah_invoice/)| 
 |![Union Bank of India](https://static.openfintech.io/payment_methods/union_bank_of_india/logo.svg?w=400&c=v0.59.26#w200) |[**Union Bank of India**](/payment-methods/union_bank_of_india/)|[`union_bank_of_india_inr_hpp`](union_bank_of_india_inr_hpp/)| 
 |![Unionpay_QR](https://static.openfintech.io/payment_methods/unionpay_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Unionpay_QR**](/payment-methods/unionpay_qr/)|[`unionpay_qr_cny_hpp`](unionpay_qr_cny_hpp/)| 
 |![UOBT](https://static.openfintech.io/payment_methods/uobt/logo.svg?w=400&c=v0.59.26#w200) |[**UOBT**](/payment-methods/uobt/)|[`uobt_thb_hpp`](uobt_thb_hpp/)| 

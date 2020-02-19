@@ -38,7 +38,7 @@ The list of [Payment Services](/payment-services/) based on the _UAX_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![uax](https://static.openfintech.io/payment_methods/uax/icon.svg?w=278&c=v0.59.26#w100) |[uax_uax_invoice](/payment-services/uax_uax_invoice/)|`uax_uax_invoice`| 
+|![uax](https://static.openfintech.io/payment_methods/uax/icon.svg?w=278&c=v0.59.26#w100) |[uax_uah_invoice](/payment-services/uax_uah_invoice/)|`uax_uah_invoice`| 
  
 
 ## JSON Object 
