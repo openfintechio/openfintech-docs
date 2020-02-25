@@ -13,6 +13,7 @@
 |![AdvCash](https://static.openfintech.io/payment_methods/advcash_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**AdvCash**](/payment-methods/advcash_wallet/)|[`advcash_wallet_uah_hpp`](advcash_wallet_uah_hpp/)| 
 |![AdvCash](https://static.openfintech.io/payment_methods/advcash_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**AdvCash**](/payment-methods/advcash_wallet/)|[`advcash_wallet_usd_hpp`](advcash_wallet_usd_hpp/)| 
 |![Agricultural Bank of China](https://static.openfintech.io/payment_methods/agricultural_bank_of_china/logo.svg?w=400&c=v0.59.26#w200) |[**Agricultural Bank of China**](/payment-methods/agricultural_bank_of_china/)|[`agricultural_bank_of_china_cny_hpp`](agricultural_bank_of_china_cny_hpp/)| 
+|![Airtel money](https://static.openfintech.io/payment_methods/airtel_money/logo.svg?w=400&c=v0.59.26#w200) |[**Airtel money**](/payment-methods/airtel_money/)|[`airtel_money_tzs_invoice`](airtel_money_tzs_invoice/)| 
 |![Alfa Click](https://static.openfintech.io/payment_methods/alfaclick/logo.png?w=400&c=v0.59.26#w200) |[**Alfa Click**](/payment-methods/alfaclick/)|[`alfaclick_eur_hpp`](alfaclick_eur_hpp/)| 
 |![Alfa Click](https://static.openfintech.io/payment_methods/alfaclick/logo.png?w=400&c=v0.59.26#w200) |[**Alfa Click**](/payment-methods/alfaclick/)|[`alfaclick_kzt_hpp`](alfaclick_kzt_hpp/)| 
 |![Alfa Click](https://static.openfintech.io/payment_methods/alfaclick/logo.png?w=400&c=v0.59.26#w200) |[**Alfa Click**](/payment-methods/alfaclick/)|[`alfaclick_rub_hpp`](alfaclick_rub_hpp/)| 
@@ -127,6 +128,7 @@
 |![GEO Pay](https://static.openfintech.io/payment_methods/geopaynet/logo.svg?w=400&c=v0.59.26#w200) |[**GEO Pay**](/payment-methods/geopaynet/)|[`geopaynet_uah_hpp`](geopaynet_uah_hpp/)| 
 |![Giropay](https://static.openfintech.io/payment_methods/giropay/logo.svg?w=400&c=v0.59.26#w200) |[**Giropay**](/payment-methods/giropay/)|[`giropay_eur_hpp`](giropay_eur_hpp/)| 
 ||| **H** ||
+|![Halo pessa](https://static.openfintech.io/payment_methods/halo_pesa/logo.svg?w=400&c=v0.59.26#w200) |[**Halo pessa**](/payment-methods/halo_pesa/)|[`halo_pesa_tzs_invoice`](halo_pesa_tzs_invoice/)| 
 |![Hana Bank](https://static.openfintech.io/payment_methods/hana_bank/logo.png?w=400&c=v0.59.26#w200) |[**Hana Bank**](/payment-methods/hana_bank/)|[`hana_bank_krw_hpp`](hana_bank_krw_hpp/)| 
 |![HDFC Bank](https://static.openfintech.io/payment_methods/hdfc_bank/logo.svg?w=400&c=v0.59.26#w200) |[**HDFC Bank**](/payment-methods/hdfc_bank/)|[`hdfc_bank_inr_hpp`](hdfc_bank_inr_hpp/)| 
 |![Hong Leong Bank](https://static.openfintech.io/payment_methods/hong_leong_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Hong Leong Bank**](/payment-methods/hong_leong_bank/)|[`hong_leong_bank_myr_hpp`](hong_leong_bank_myr_hpp/)| 
@@ -206,6 +208,7 @@
 |![Payeer](https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&c=v0.59.26#w200) |[**Payeer**](/payment-methods/payeer/)|[`payeer_rub_hpp`](payeer_rub_hpp/)| 
 |![Payeer](https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&c=v0.59.26#w200) |[**Payeer**](/payment-methods/payeer/)|[`payeer_usd_hpp`](payeer_usd_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_aud_hpp`](payment_card_aud_hpp/)| 
+|![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_byn_hpp`](payment_card_byn_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_cad_hpp`](payment_card_cad_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_cny_hpp`](payment_card_cny_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_czk_hpp`](payment_card_czk_hpp/)| 
@@ -287,7 +290,6 @@
 ||| **S** ||
 |![SACOM Bank](https://static.openfintech.io/payment_methods/sacom_bank/logo.png?w=400&c=v0.59.26#w200) |[**SACOM Bank**](/payment-methods/sacom_bank/)|[`sacom_bank_vnd_hpp`](sacom_bank_vnd_hpp/)| 
 |![SberBank](https://static.openfintech.io/payment_methods/sberbank/logo.svg?w=400&c=v0.59.26#w200) |[**SberBank**](/payment-methods/sberbank/)|[`sberbank_rub_hpp`](sberbank_rub_hpp/)| 
-|![Selcom](https://static.openfintech.io/payment_methods/selcom/logo.png?w=400&c=v0.59.26#w200) |[**Selcom**](/payment-methods/selcom/)|[`selcom_tzs_invoice`](selcom_tzs_invoice/)| 
 |![Shanghai Pudong Development Bank](https://static.openfintech.io/payment_methods/shanghai_pudong_development_bank/logo.png?w=400&c=v0.59.26#w200) |[**Shanghai Pudong Development Bank**](/payment-methods/shanghai_pudong_development_bank/)|[`shanghai_pudong_development_bank_cny_hpp`](shanghai_pudong_development_bank_cny_hpp/)| 
 |![Shinhan Bank](https://static.openfintech.io/payment_methods/shinhan_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Shinhan Bank**](/payment-methods/shinhan_bank/)|[`shinhan_bank_krw_hpp`](shinhan_bank_krw_hpp/)| 
 |![Siam Commercial Bank](https://static.openfintech.io/payment_methods/siam_commercial_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Siam Commercial Bank**](/payment-methods/siam_commercial_bank/)|[`siam_commercial_bank_thb_hpp`](siam_commercial_bank_thb_hpp/)| 
@@ -312,6 +314,7 @@
 |![Test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200) |[**Test**](/payment-methods/test/)|[`test_uah_test`](test_uah_test/)| 
 |![Test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200) |[**Test**](/payment-methods/test/)|[`test_usd_test`](test_usd_test/)| 
 |![Test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200) |[**Test**](/payment-methods/test/)|[`test_xts_test`](test_xts_test/)| 
+|![Tigo pesa](https://static.openfintech.io/payment_methods/tigo_pesa/logo.svg?w=400&c=v0.59.26#w200) |[**Tigo pesa**](/payment-methods/tigo_pesa/)|[`tigo_pesa_tzs_invoice`](tigo_pesa_tzs_invoice/)| 
 |![Trustly](https://static.openfintech.io/payment_methods/trustly/logo.png?w=400&c=v0.59.26#w200) |[**Trustly**](/payment-methods/trustly/)|[`trustly_eur_hpp`](trustly_eur_hpp/)| 
 ||| **U** ||
 |![UAX](https://static.openfintech.io/payment_methods/uax/logo.svg?w=400&c=v0.59.26#w200) |[**UAX**](/payment-methods/uax/)|[`uax_uah_invoice`](uax_uah_invoice/)| 
@@ -326,6 +329,7 @@
 |![Visa](https://static.openfintech.io/payment_methods/visa/logo.svg?w=400&c=v0.59.26#w200) |[**Visa**](/payment-methods/visa/)|[`visa_rub_hpp`](visa_rub_hpp/)| 
 |![Visa Checkout](https://static.openfintech.io/payment_methods/visacheckout/logo.png?w=400&c=v0.59.26#w200) |[**Visa Checkout**](/payment-methods/visacheckout/)|[`visacheckout_uah_hpp`](visacheckout_uah_hpp/)| 
 |![Visa Electron](https://static.openfintech.io/payment_methods/visaelectron/logo.png?w=400&c=v0.59.26#w200) |[**Visa Electron**](/payment-methods/visaelectron/)|[`visaelectron_eur_hpp`](visaelectron_eur_hpp/)| 
+|![Vodacom](https://static.openfintech.io/payment_methods/vodacom/logo.svg?w=400&c=v0.59.26#w200) |[**Vodacom**](/payment-methods/vodacom/)|[`vodacom_tzs_invoice`](vodacom_tzs_invoice/)| 
 ||| **W** ||
 |![WebMoney Transfer](https://static.openfintech.io/payment_methods/webmoneytransfer/logo.svg?w=400&c=v0.59.26#w200) |[**WebMoney Transfer**](/payment-methods/webmoneytransfer/)|[`webmoneytransfer_rub_hpp`](webmoneytransfer_rub_hpp/)| 
 |![WebMoney Transfer](https://static.openfintech.io/payment_methods/webmoneytransfer/logo.svg?w=400&c=v0.59.26#w200) |[**WebMoney Transfer**](/payment-methods/webmoneytransfer/)|[`webmoneytransfer_wmb_hpp`](webmoneytransfer_wmb_hpp/)| 
@@ -341,3 +345,5 @@
 ||| **Y** ||
 |![Yandex.Money](https://static.openfintech.io/payment_methods/yandexmoney/logo.svg?w=400&c=v0.59.26#w200) |[**Yandex.Money**](/payment-methods/yandexmoney/)|[`yandexmoney_rub_hpp`](yandexmoney_rub_hpp/)| 
 |![Yes Bank](https://static.openfintech.io/payment_methods/yes_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Yes Bank**](/payment-methods/yes_bank/)|[`yes_bank_inr_hpp`](yes_bank_inr_hpp/)| 
+||| **Z** ||
+|![Zantel ezypesa](https://static.openfintech.io/payment_methods/zantel_ezypesa/logo.svg?w=400&c=v0.59.26#w200) |[**Zantel ezypesa**](/payment-methods/zantel_ezypesa/)|[`zantel_ezypesa_tzs_invoice`](zantel_ezypesa_tzs_invoice/)| 

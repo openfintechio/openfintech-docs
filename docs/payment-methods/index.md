@@ -17,6 +17,7 @@
 |![advcash_wallet](https://static.openfintech.io/payment_methods/advcash_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**AdvCash**](advcash_wallet/)|`advcash_wallet`| 
 |![afterpay](https://static.openfintech.io/payment_methods/afterpay/logo.png?w=400&c=v0.59.26#w200) |[**AfterPay**](afterpay/)|`afterpay`| 
 |![agricultural_bank_of_china](https://static.openfintech.io/payment_methods/agricultural_bank_of_china/logo.svg?w=400&c=v0.59.26#w200) |[**Agricultural Bank of China**](agricultural_bank_of_china/)|`agricultural_bank_of_china`| 
+|![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/logo.svg?w=400&c=v0.59.26#w200) |[**Airtel money**](airtel_money/)|`airtel_money`| 
 |![aktia](https://static.openfintech.io/payment_methods/aktia/logo.png?w=400&c=v0.59.26#w200) |[**Aktia**](aktia/)|`aktia`| 
 |![alandsbanken](https://static.openfintech.io/payment_methods/alandsbanken/logo.png?w=400&c=v0.59.26#w200) |[**Älandsbanken**](alandsbanken/)|`alandsbanken`| 
 |![alfaclick](https://static.openfintech.io/payment_methods/alfaclick/logo.png?w=400&c=v0.59.26#w200) |[**Alfa Click**](alfaclick/)|`alfaclick`| 
@@ -173,6 +174,7 @@
 |![giropay](https://static.openfintech.io/payment_methods/giropay/logo.svg?w=400&c=v0.59.26#w200) |[**Giropay**](giropay/)|`giropay`| 
 |![googlewallet](https://static.openfintech.io/payment_methods/googlewallet/logo.svg?w=400&c=v0.59.26#w200) |[**Google Wallet**](googlewallet/)|`googlewallet`| 
 || **H** ||
+|![halo_pesa](https://static.openfintech.io/payment_methods/halo_pesa/logo.svg?w=400&c=v0.59.26#w200) |[**Halo pessa**](halo_pesa/)|`halo_pesa`| 
 |![hana_bank](https://static.openfintech.io/payment_methods/hana_bank/logo.png?w=400&c=v0.59.26#w200) |[**Hana Bank**](hana_bank/)|`hana_bank`| 
 |![handelsbanken](https://static.openfintech.io/payment_methods/handelsbanken/logo.png?w=400&c=v0.59.26#w200) |[**Handelsbanken**](handelsbanken/)|`handelsbanken`| 
 |![hdfc_bank](https://static.openfintech.io/payment_methods/hdfc_bank/logo.svg?w=400&c=v0.59.26#w200) |[**HDFC Bank**](hdfc_bank/)|`hdfc_bank`| 
@@ -355,7 +357,6 @@
 |![sberonline](https://static.openfintech.io/payment_methods/sberonline/logo.svg?w=400&c=v0.59.26#w200) |[**Sberbank Online**](sberonline/)|`sberonline`| 
 |![scbbanknetbanking](https://static.openfintech.io/payment_methods/scbbanknetbanking/logo.png?w=400&c=v0.59.26#w200) |[**SCB netbanking**](scbbanknetbanking/)|`scbbanknetbanking`| 
 |![sebbank](https://static.openfintech.io/payment_methods/sebbank/logo.png?w=400&c=v0.59.26#w200) |[**SEB Bank**](sebbank/)|`sebbank`| 
-|![selcom](https://static.openfintech.io/payment_methods/selcom/logo.png?w=400&c=v0.59.26#w200) |[**Selcom**](selcom/)|`selcom`| 
 |![sencillito](https://static.openfintech.io/payment_methods/sencillito/logo.svg?w=400&c=v0.59.26#w200) |[**Sencillito**](sencillito/)|`sencillito`| 
 |![sepacredittransfer](https://static.openfintech.io/payment_methods/sepacredittransfer/logo.svg?w=400&c=v0.59.26#w200) |[**SEPA Credit Transfer**](sepacredittransfer/)|`sepacredittransfer`| 
 |![sepadirectdebit](https://static.openfintech.io/payment_methods/sepadirectdebit/logo.svg?w=400&c=v0.59.26#w200) |[**SEPA Direct Debit**](sepadirectdebit/)|`sepadirectdebit`| 
@@ -401,6 +402,7 @@
 |![test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200) |[**Test**](test/)|`test`| 
 |![thaimilitarybanktmbnetbanking](https://static.openfintech.io/payment_methods/thaimilitarybanktmbnetbanking/logo.png?w=400&c=v0.59.26#w200) |[**Thai Military Bank**](thaimilitarybanktmbnetbanking/)|`thaimilitarybanktmbnetbanking`| 
 |![ticketpremium](https://static.openfintech.io/payment_methods/ticketpremium/logo.png?w=400&c=v0.59.26#w200) |[**Ticket Premium**](ticketpremium/)|`ticketpremium`| 
+|![tigo_pesa](https://static.openfintech.io/payment_methods/tigo_pesa/logo.svg?w=400&c=v0.59.26#w200) |[**Tigo pesa**](tigo_pesa/)|`tigo_pesa`| 
 |![tinkoff](https://static.openfintech.io/payment_methods/tinkoff/logo.png?w=400&c=v0.59.26#w200) |[**Tinkoff**](tinkoff/)|`tinkoff`| 
 |![toditocash](https://static.openfintech.io/payment_methods/toditocash/logo.png?w=400&c=v0.59.26#w200) |[**Todito Cash**](toditocash/)|`toditocash`| 
 |![tranzzo](https://static.openfintech.io/payment_methods/tranzzo/logo.png?w=400&c=v0.59.26#w200) |[**Tranzzo**](tranzzo/)|`tranzzo`| 
@@ -429,6 +431,7 @@
 |![visadebit](https://static.openfintech.io/payment_methods/visadebit/logo.png?w=400&c=v0.59.26#w200) |[**Visa Debit**](visadebit/)|`visadebit`| 
 |![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/logo.png?w=400&c=v0.59.26#w200) |[**Visa Electron**](visaelectron/)|`visaelectron`| 
 |![vmevisa](https://static.openfintech.io/payment_methods/vmevisa/logo.png?w=400&c=v0.59.26#w200) |[**V.me by Visa**](vmevisa/)|`vmevisa`| 
+|![vodacom](https://static.openfintech.io/payment_methods/vodacom/logo.svg?w=400&c=v0.59.26#w200) |[**Vodacom**](vodacom/)|`vodacom`| 
 |![volksbank](https://static.openfintech.io/payment_methods/volksbank/logo.png?w=400&c=v0.59.26#w200) |[**Volksbank**](volksbank/)|`volksbank`| 
 |![vpay](https://static.openfintech.io/payment_methods/vpay/logo.png?w=400&c=v0.59.26#w200) |[**V PAY**](vpay/)|`vpay`| 
 |![vtb24](https://static.openfintech.io/payment_methods/vtb24/logo.png?w=400&c=v0.59.26#w200) |[**VTB24**](vtb24/)|`vtb24`| 
@@ -453,6 +456,7 @@
 |![yes_bank](https://static.openfintech.io/payment_methods/yes_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Yes Bank**](yes_bank/)|`yes_bank`| 
 |![yota](https://static.openfintech.io/payment_methods/yota/logo.png?w=400&c=v0.59.26#w200) |[**Yota**](yota/)|`yota`| 
 || **Z** ||
+|![zantel_ezypesa](https://static.openfintech.io/payment_methods/zantel_ezypesa/logo.svg?w=400&c=v0.59.26#w200) |[**Zantel ezypesa**](zantel_ezypesa/)|`zantel_ezypesa`| 
 |![zapp](https://static.openfintech.io/payment_methods/zapp/logo.png?w=400&c=v0.59.26#w200) |[**Zapp**](zapp/)|`zapp`| 
 |![zimpler](https://static.openfintech.io/payment_methods/zimpler/logo.png?w=400&c=v0.59.26#w200) |[**Zimpler**](zimpler/)|`zimpler`| 
 |![zipmark](https://static.openfintech.io/payment_methods/zipmark/logo.png?w=400&c=v0.59.26#w200) |[**Zipmark**](zipmark/)|`zipmark`| 

@@ -41,6 +41,15 @@ The list of [Payment Services](/payment-services/) based on the _UAX_
 |![uax](https://static.openfintech.io/payment_methods/uax/icon.svg?w=278&c=v0.59.26#w100) |[uax_uah_invoice](/payment-services/uax_uah_invoice/)|`uax_uah_invoice`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _UAX_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![kuna](https://static.openfintech.io/payment_providers/kuna/icon.svg?w=278&c=v0.59.26#w100) |[Kuna](/payment-providers/kuna/)|`kuna`| 
+ 
+
 ## JSON Object 
 
 ```json

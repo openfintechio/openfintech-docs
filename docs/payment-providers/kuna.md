@@ -39,6 +39,7 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![uax](https://static.openfintech.io/payment_methods/uax/icon.svg?w=278&c=v0.59.26#w100) |[uax](/payment-methods/uax/)|`uax`| 
  
 
 ## Payout Methods 
@@ -47,6 +48,7 @@ The list of supported [Payout Methods](/payout-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![uax](https://static.openfintech.io/payout_methods/uax/icon.svg?w=278&c=v0.59.26#w40) |[uax](payout-methodsuax/)|`uax`| 
  
 
 ## JSON Object 
@@ -59,10 +61,10 @@ The list of supported [Payout Methods](/payout-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    
+    "uax"
   ],
   "payout_method":[
-    
+    "uax"
   ],
   "metadata":null,
   "name":{
