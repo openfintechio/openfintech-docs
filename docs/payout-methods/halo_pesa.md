@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Halo pesa_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![halo_pesa](https://static.openfintech.io/payout_methods/halo_pesa/icon.svg?w=278&c=v0.59.26#w40) |[halo_pesa_tzs](/payout-services/halo_pesa_tzs/)|`halo_pesa_tzs`| 
+|![halo_pesa](https://static.openfintech.io/payout_methods/halo_pesa/icon.png?w=278&c=v0.59.26#w40) |[halo_pesa_tzs](/payout-services/halo_pesa_tzs/)|`halo_pesa_tzs`| 
  
 
 ## Payment Providers 

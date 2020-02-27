@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Selcom Card_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![selcom_card](https://static.openfintech.io/payout_methods/selcom_card/icon.svg?w=278&c=v0.59.26#w40) |[selcom_card_tzs](/payout-services/selcom_card_tzs/)|`selcom_card_tzs`| 
+|![selcom_card](https://static.openfintech.io/payout_methods/selcom_card/icon.png?w=278&c=v0.59.26#w40) |[selcom_card_tzs](/payout-services/selcom_card_tzs/)|`selcom_card_tzs`| 
  
 
 ## JSON Object 

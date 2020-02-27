@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Vodacom Mpesa_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![vodacom](https://static.openfintech.io/payout_methods/vodacom/icon.svg?w=278&c=v0.59.26#w40) |[vodacom_tzs](/payout-services/vodacom_tzs/)|`vodacom_tzs`| 
+|![vodacom](https://static.openfintech.io/payout_methods/vodacom/icon.png?w=278&c=v0.59.26#w40) |[vodacom_tzs](/payout-services/vodacom_tzs/)|`vodacom_tzs`| 
  
 
 ## Payment Providers 

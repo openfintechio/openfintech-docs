@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Tigo Pesa_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tigo_pesa](https://static.openfintech.io/payout_methods/tigo_pesa/icon.svg?w=278&c=v0.59.26#w40) |[tigo_pesa_tzs](/payout-services/tigo_pesa_tzs/)|`tigo_pesa_tzs`| 
+|![tigo_pesa](https://static.openfintech.io/payout_methods/tigo_pesa/icon.png?w=278&c=v0.59.26#w40) |[tigo_pesa_tzs](/payout-services/tigo_pesa_tzs/)|`tigo_pesa_tzs`| 
  
 
 ## Payment Providers 

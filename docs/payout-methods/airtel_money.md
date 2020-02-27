@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Airtel Money_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![airtel_money](https://static.openfintech.io/payout_methods/airtel_money/icon.svg?w=278&c=v0.59.26#w40) |[airtel_money_tzs](/payout-services/airtel_money_tzs/)|`airtel_money_tzs`| 
+|![airtel_money](https://static.openfintech.io/payout_methods/airtel_money/icon.png?w=278&c=v0.59.26#w40) |[airtel_money_tzs](/payout-services/airtel_money_tzs/)|`airtel_money_tzs`| 
  
 
 ## Payment Providers 

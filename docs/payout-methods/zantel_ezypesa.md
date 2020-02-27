@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Zantel ezy Pesa_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![zantel_ezypesa](https://static.openfintech.io/payout_methods/zantel_ezypesa/icon.svg?w=278&c=v0.59.26#w40) |[zantel_ezypesa_tzs](/payout-services/zantel_ezypesa_tzs/)|`zantel_ezypesa_tzs`| 
+|![zantel_ezypesa](https://static.openfintech.io/payout_methods/zantel_ezypesa/icon.png?w=278&c=v0.59.26#w40) |[zantel_ezypesa_tzs](/payout-services/zantel_ezypesa_tzs/)|`zantel_ezypesa_tzs`| 
  
 
 ## Payment Providers 
