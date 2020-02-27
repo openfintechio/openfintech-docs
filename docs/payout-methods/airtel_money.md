@@ -1,6 +1,6 @@
 
 # Airtel Money 
-![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/logo.svg?w=400&c=v0.59.26#w200)  
+![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `airtel_money` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/logo.svg?w=400&c=v0.59.26#w200)  
+![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/airtel_money/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/airtel_money/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.svg?w=278&c=v0.59.26#w100)  
+![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/airtel_money/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payout Services 

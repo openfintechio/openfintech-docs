@@ -1,6 +1,6 @@
 
 # Tigo Pesa 
-![tigo_pesa](https://static.openfintech.io/payment_methods/tigo_pesa/logo.svg?w=400&c=v0.59.26#w200)  
+![tigo_pesa](https://static.openfintech.io/payment_methods/tigo_pesa/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `tigo_pesa` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![tigo_pesa](https://static.openfintech.io/payment_methods/tigo_pesa/logo.svg?w=400&c=v0.59.26#w200)  
+![tigo_pesa](https://static.openfintech.io/payment_methods/tigo_pesa/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/tigo_pesa/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/tigo_pesa/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![tigo_pesa](https://static.openfintech.io/payment_methods/tigo_pesa/icon.svg?w=278&c=v0.59.26#w100)  
+![tigo_pesa](https://static.openfintech.io/payment_methods/tigo_pesa/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/tigo_pesa/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/tigo_pesa/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payout Services 

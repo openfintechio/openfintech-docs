@@ -1,6 +1,6 @@
 
 # Halo pessa 
-![halo_pesa](https://static.openfintech.io/payment_methods/halo_pesa/logo.svg?w=400&c=v0.59.26#w200)  
+![halo_pesa](https://static.openfintech.io/payment_methods/halo_pesa/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `halo_pesa` 
@@ -19,17 +19,17 @@
 ## Images 
 
 ### Logo 
-![halo_pesa](https://static.openfintech.io/payment_methods/halo_pesa/logo.svg?w=400&c=v0.59.26#w200)  
+![halo_pesa](https://static.openfintech.io/payment_methods/halo_pesa/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/halo_pesa/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/halo_pesa/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![halo_pesa](https://static.openfintech.io/payment_methods/halo_pesa/icon.svg?w=278&c=v0.59.26#w100)  
+![halo_pesa](https://static.openfintech.io/payment_methods/halo_pesa/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/halo_pesa/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/halo_pesa/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -38,7 +38,7 @@ The list of [Payment Services](/payment-services/) based on the _Halo pessa_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![halo_pesa](https://static.openfintech.io/payment_methods/halo_pesa/icon.svg?w=278&c=v0.59.26#w100) |[halo_pesa_tzs_invoice](/payment-services/halo_pesa_tzs_invoice/)|`halo_pesa_tzs_invoice`| 
+|![halo_pesa](https://static.openfintech.io/payment_methods/halo_pesa/icon.png?w=278&c=v0.59.26#w100) |[halo_pesa_tzs_invoice](/payment-services/halo_pesa_tzs_invoice/)|`halo_pesa_tzs_invoice`| 
  
 
 ## Payment Providers 

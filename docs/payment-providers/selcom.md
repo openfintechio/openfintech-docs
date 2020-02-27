@@ -39,11 +39,11 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.svg?w=278&c=v0.59.26#w100) |[airtel_money](/payment-methods/airtel_money/)|`airtel_money`| 
-|![vodacom](https://static.openfintech.io/payment_methods/vodacom/icon.svg?w=278&c=v0.59.26#w100) |[vodacom](/payment-methods/vodacom/)|`vodacom`| 
-|![tigo_pesa](https://static.openfintech.io/payment_methods/tigo_pesa/icon.svg?w=278&c=v0.59.26#w100) |[tigo_pesa](/payment-methods/tigo_pesa/)|`tigo_pesa`| 
-|![halo_pesa](https://static.openfintech.io/payment_methods/halo_pesa/icon.svg?w=278&c=v0.59.26#w100) |[halo_pesa](/payment-methods/halo_pesa/)|`halo_pesa`| 
-|![zantel_ezypesa](https://static.openfintech.io/payment_methods/zantel_ezypesa/icon.svg?w=278&c=v0.59.26#w100) |[zantel_ezypesa](/payment-methods/zantel_ezypesa/)|`zantel_ezypesa`| 
+|![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money](/payment-methods/airtel_money/)|`airtel_money`| 
+|![vodacom](https://static.openfintech.io/payment_methods/vodacom/icon.png?w=278&c=v0.59.26#w100) |[vodacom](/payment-methods/vodacom/)|`vodacom`| 
+|![tigo_pesa](https://static.openfintech.io/payment_methods/tigo_pesa/icon.png?w=278&c=v0.59.26#w100) |[tigo_pesa](/payment-methods/tigo_pesa/)|`tigo_pesa`| 
+|![halo_pesa](https://static.openfintech.io/payment_methods/halo_pesa/icon.png?w=278&c=v0.59.26#w100) |[halo_pesa](/payment-methods/halo_pesa/)|`halo_pesa`| 
+|![zantel_ezypesa](https://static.openfintech.io/payment_methods/zantel_ezypesa/icon.png?w=278&c=v0.59.26#w100) |[zantel_ezypesa](/payment-methods/zantel_ezypesa/)|`zantel_ezypesa`| 
  
 
 ## Payout Methods 
