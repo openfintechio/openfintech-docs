@@ -1425,6 +1425,7 @@
 |![targetpay](https://static.openfintech.io/vendors/targetpay/logo.png?w=600&c=v0.59.26#w200) |[**Targetpay.com**](targetpay/)|`targetpay`| 
 |![tarjetanaranjacreditcard](https://static.openfintech.io/vendors/tarjetanaranjacreditcard/logo.png?w=600&c=v0.59.26#w200) |[**tarjeta naranja**](tarjetanaranjacreditcard/)|`tarjetanaranjacreditcard`| 
 |![tarjetaripley](https://static.openfintech.io/vendors/tarjetaripley/logo.png?w=600&c=v0.59.26#w200) |[**Ripley**](tarjetaripley/)|`tarjetaripley`| 
+|![taslink](https://static.openfintech.io/vendors/taslink/logo.svg?w=600&c=v0.59.26#w200) |[**TAS Link**](taslink/)|`taslink`| 
 |![tatrabanka](https://static.openfintech.io/vendors/tatrabanka/logo.png?w=600&c=v0.59.26#w200) |[**Tatra Banka**](tatrabanka/)|`tatrabanka`| 
 |![tbcbank](https://static.openfintech.io/vendors/tbcbank/logo.svg?w=600&c=v0.59.26#w200) |[**TBC Bank**](tbcbank/)|`tbcbank`| 
 |![tcb](https://static.openfintech.io/vendors/tcb/logo.png?w=600&c=v0.59.26#w200) |[**National Bank of Georgia**](tcb/)|`tcb`| 

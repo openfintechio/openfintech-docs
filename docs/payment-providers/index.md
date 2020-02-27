@@ -565,6 +565,7 @@
 |![swisssecurepayment](https://static.openfintech.io/payment_providers/swisssecurepayment/logo.png?w=600&c=v0.59.26#w100) |[**Swiss Secure Payment™**](swisssecurepayment/)|`swisssecurepayment`| 
 || **T** ||
 |![targetpay](https://static.openfintech.io/payment_providers/targetpay/logo.png?w=600&c=v0.59.26#w100) |[**Targetpay.com**](targetpay/)|`targetpay`| 
+|![taslink](https://static.openfintech.io/payment_providers/taslink/logo.svg?w=600&c=v0.59.26#w100) |[**TAS Link**](taslink/)|`taslink`| 
 |![tefpay](https://static.openfintech.io/payment_providers/tefpay/logo.png?w=600&c=v0.59.26#w100) |[**tefpay**](tefpay/)|`tefpay`| 
 |![telecash](https://static.openfintech.io/payment_providers/telecash/logo.png?w=600&c=v0.59.26#w100) |[**TeleCash**](telecash/)|`telecash`| 
 |![test](https://static.openfintech.io/payment_providers/test/logo.png?w=600&c=v0.59.26#w100) |[**Test**](test/)|`test`| 
