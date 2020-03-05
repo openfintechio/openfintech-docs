@@ -38,6 +38,12 @@ The list of [Payment Services](/payment-services/) based on the _Card_
 |:---:|:---:|:---:| 
 |![bank_card](https://static.openfintech.io/payment_methods/bank_card/icon.svg?w=278&c=v0.59.26#w100) |[bank_card_rub_hpp](/payment-services/bank_card_rub_hpp/)|`bank_card_rub_hpp`| 
 |![bank_card](https://static.openfintech.io/payment_methods/bank_card/icon.svg?w=278&c=v0.59.26#w100) |[bank_card_uah_hpp](/payment-services/bank_card_uah_hpp/)|`bank_card_uah_hpp`| 
+|![bank_card](https://static.openfintech.io/payment_methods/bank_card/icon.svg?w=278&c=v0.59.26#w100) |[bank_card_thb_hpp](/payment-services/bank_card_thb_hpp/)|`bank_card_thb_hpp`| 
+|![bank_card](https://static.openfintech.io/payment_methods/bank_card/icon.svg?w=278&c=v0.59.26#w100) |[bank_card_vnd_hpp](/payment-services/bank_card_vnd_hpp/)|`bank_card_vnd_hpp`| 
+|![bank_card](https://static.openfintech.io/payment_methods/bank_card/icon.svg?w=278&c=v0.59.26#w100) |[bank_card_myr_hpp](/payment-services/bank_card_myr_hpp/)|`bank_card_myr_hpp`| 
+|![bank_card](https://static.openfintech.io/payment_methods/bank_card/icon.svg?w=278&c=v0.59.26#w100) |[bank_card_idr_hpp](/payment-services/bank_card_idr_hpp/)|`bank_card_idr_hpp`| 
+|![bank_card](https://static.openfintech.io/payment_methods/bank_card/icon.svg?w=278&c=v0.59.26#w100) |[bank_card_ngn_hpp](/payment-services/bank_card_ngn_hpp/)|`bank_card_ngn_hpp`| 
+|![bank_card](https://static.openfintech.io/payment_methods/bank_card/icon.svg?w=278&c=v0.59.26#w100) |[bank_card_zar_hpp](/payment-services/bank_card_zar_hpp/)|`bank_card_zar_hpp`| 
 |![bank_card](https://static.openfintech.io/payment_methods/bank_card/icon.svg?w=278&c=v0.59.26#w100) |[bank_card_usd_hpp](/payment-services/bank_card_usd_hpp/)|`bank_card_usd_hpp`| 
 |![bank_card](https://static.openfintech.io/payment_methods/bank_card/icon.svg?w=278&c=v0.59.26#w100) |[bank_card_eur_hpp](/payment-services/bank_card_eur_hpp/)|`bank_card_eur_hpp`| 
 |![bank_card](https://static.openfintech.io/payment_methods/bank_card/icon.svg?w=278&c=v0.59.26#w100) |[bank_card_gel_hpp](/payment-services/bank_card_gel_hpp/)|`bank_card_gel_hpp`| 

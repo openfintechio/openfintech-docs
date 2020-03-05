@@ -182,6 +182,7 @@
 |![hipercard](https://static.openfintech.io/payment_methods/hipercard/logo.png?w=400&c=v0.59.26#w200) |[**Hipercard**](hipercard/)|`hipercard`| 
 |![hong_leong_bank](https://static.openfintech.io/payment_methods/hong_leong_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Hong Leong Bank**](hong_leong_bank/)|`hong_leong_bank`| 
 || **I** ||
+|![i_wallet](https://static.openfintech.io/payment_methods/i_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**wallet**](i_wallet/)|`i_wallet`| 
 |![ibox](https://static.openfintech.io/payment_methods/ibox/logo.svg?w=400&c=v0.59.26#w200) |[**Ibox**](ibox/)|`ibox`| 
 |![icabanken](https://static.openfintech.io/payment_methods/icabanken/logo.png?w=400&c=v0.59.26#w200) |[**ICA-Banken**](icabanken/)|`icabanken`| 
 |![icici_bank](https://static.openfintech.io/payment_methods/icici_bank/logo.svg?w=400&c=v0.59.26#w200) |[**ICICI Bank**](icici_bank/)|`icici_bank`| 
@@ -226,6 +227,7 @@
 || **L** ||
 |![lacaixa](https://static.openfintech.io/payment_methods/lacaixa/logo.png?w=400&c=v0.59.26#w200) |[**La Caixa**](lacaixa/)|`lacaixa`| 
 |![lansforsakringar](https://static.openfintech.io/payment_methods/lansforsakringar/logo.png?w=400&c=v0.59.26#w200) |[**Länsförsäkringar**](lansforsakringar/)|`lansforsakringar`| 
+|![latam](https://static.openfintech.io/payment_methods/latam/logo.svg?w=400&c=v0.59.26#w200) |[**Latam**](latam/)|`latam`| 
 |![libertybank](https://static.openfintech.io/payment_methods/libertybank/logo.png?w=400&c=v0.59.26#w200) |[**Liberty Bank**](libertybank/)|`libertybank`| 
 |![lider](https://static.openfintech.io/payment_methods/lider/logo.png?w=400&c=v0.59.26#w200) |[**Leader**](lider/)|`lider`| 
 |![liqpay](https://static.openfintech.io/payment_methods/liqpay/logo.svg?w=400&c=v0.59.26#w200) |[**LiqPay**](liqpay/)|`liqpay`| 
@@ -420,6 +422,7 @@
 |![uobt](https://static.openfintech.io/payment_methods/uobt/logo.svg?w=400&c=v0.59.26#w200) |[**UOBT**](uobt/)|`uobt`| 
 |![usdt](https://static.openfintech.io/payment_methods/usdt/logo.png?w=400&c=v0.59.26#w200) |[**Tether**](usdt/)|`usdt`| 
 |![usemyservices](https://static.openfintech.io/payment_methods/usemyservices/logo.png?w=400&c=v0.59.26#w200) |[**UseMyServices**](usemyservices/)|`usemyservices`| 
+|![ussd](https://static.openfintech.io/payment_methods/ussd/logo.svg?w=400&c=v0.59.26#w200) |[**USSD**](ussd/)|`ussd`| 
 || **V** ||
 |![viabalotoonline](https://static.openfintech.io/payment_methods/viabalotoonline/logo.svg?w=400&c=v0.59.26#w200) |[**Via Baloto**](viabalotoonline/)|`viabalotoonline`| 
 |![viber](https://static.openfintech.io/payment_methods/viber/logo.png?w=400&c=v0.59.26#w200) |[**Viber**](viber/)|`viber`| 
@@ -480,6 +483,7 @@
 |Financial Services|`financial-services`| 
 |Internet-banking|`internet_banking`| 
 |Invoice payment|`invoice_payment`| 
+|Latam|`latam`| 
 |Mobile carrier billing|`mobile_carrier_billing`| 
 |Mobile payment|`mobile_payment`| 
 |Other services|`others`| 
@@ -490,6 +494,7 @@
 |Selling goods|`selling-goods`| 
 |Taxi|`taxi`| 
 |Telecommunications|`telecommunications`| 
+|Ussd|`ussd`| 
  
 
 # Payment Flows 

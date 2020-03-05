@@ -45,6 +45,11 @@ The list of [Payout Services](/payout-services/) based on the _Card_
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_usd](/payout-services/payment_card_usd/)|`payment_card_usd`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_eur](/payout-services/payment_card_eur/)|`payment_card_eur`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_rub](/payout-services/payment_card_rub/)|`payment_card_rub`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_zar](/payout-services/payment_card_zar/)|`payment_card_zar`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_ghs](/payout-services/payment_card_ghs/)|`payment_card_ghs`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_kes](/payout-services/payment_card_kes/)|`payment_card_kes`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_ngn](/payout-services/payment_card_ngn/)|`payment_card_ngn`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_tzs](/payout-services/payment_card_tzs/)|`payment_card_tzs`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_holder_rub](/payout-services/payment_card_holder_rub/)|`payment_card_holder_rub`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_kzt](/payout-services/payment_card_kzt/)|`payment_card_kzt`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_mdl](/payout-services/payment_card_mdl/)|`payment_card_mdl`| 
