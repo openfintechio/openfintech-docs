@@ -289,7 +289,7 @@
 |![cartebleue](https://static.openfintech.io/vendors/cartebleue/logo.png?w=600&c=v0.59.26#w200) |[**Carte Bleue**](cartebleue/)|`cartebleue`| 
 |![cash4pay](https://static.openfintech.io/vendors/cash4pay/logo.svg?w=600&c=v0.59.26#w200) |[**Cash4Pay**](cash4pay/)|`cash4pay`| 
 |![cashflows](https://static.openfintech.io/vendors/cashflows/logo.png?w=600&c=v0.59.26#w200) |[**CashFlows**](cashflows/)|`cashflows`| 
-|![cashfree](https://static.openfintech.io/vendors/cashfree/logo.svg?w=600&c=v0.59.26#w200) |[**Cashfree**](cashfree/)|`cashfree`| 
+|![cashfree](https://static.openfintech.io/vendors/cashfree/logo.png?w=600&c=v0.59.26#w200) |[**Cashfree**](cashfree/)|`cashfree`| 
 |![cashing.su](https://static.openfintech.io/vendors/cashing.su/logo.svg?w=600&c=v0.59.26#w200) |[**Cashing**](cashing.su/)|`cashing.su`| 
 |![cashrun](https://static.openfintech.io/vendors/cashrun/logo.png?w=600&c=v0.59.26#w200) |[**CashRun**](cashrun/)|`cashrun`| 
 |![cashsender](https://static.openfintech.io/vendors/cashsender/logo.png?w=600&c=v0.59.26#w200) |[**CashSender**](cashsender/)|`cashsender`| 

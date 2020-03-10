@@ -1,6 +1,6 @@
 
 # Cashfree 
-![cashfree](https://static.openfintech.io/vendors/cashfree/logo.svg?w=400&c=v0.59.26#w200)  
+![cashfree](https://static.openfintech.io/vendors/cashfree/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@
 
 ### Logo 
  
-![cashfree](https://static.openfintech.io/vendors/cashfree/logo.svg?w=400&c=v0.59.26#w200)  
+![cashfree](https://static.openfintech.io/vendors/cashfree/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/cashfree/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/cashfree/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![cashfree](https://static.openfintech.io/vendors/cashfree/icon.svg?w=278&c=v0.59.26#w100)  
+![cashfree](https://static.openfintech.io/vendors/cashfree/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/cashfree/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/cashfree/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 
