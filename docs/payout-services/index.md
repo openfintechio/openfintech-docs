@@ -625,6 +625,8 @@
 |![MixNet (Kiev)](https://static.openfintech.io/payout_methods/mixnet-kiev/logo.png?w=400&c=v0.59.26#w24) |[**MixNet (Kiev)**](/payout-methods/mixnet-kiev/)|[`mixnet-kiev_uah`](mixnet-kiev_uah/)|`UAH`| 
 |![MCP Chernovtsyteplokommunenergo](https://static.openfintech.io/payout_methods/mkp-chernivtsiteplokomunenergo/logo.png?w=400&c=v0.59.26#w24) |[**MCP Chernovtsyteplokommunenergo**](/payout-methods/mkp-chernivtsiteplokomunenergo/)|[`mkp-chernivtsiteplokomunenergo_uah`](mkp-chernivtsiteplokomunenergo_uah/)|`UAH`| 
 |![INC Mukachivvodokanal](https://static.openfintech.io/payout_methods/mkp-mukachivvodokanal/logo.png?w=400&c=v0.59.26#w24) |[**INC Mukachivvodokanal**](/payout-methods/mkp-mukachivvodokanal/)|[`mkp-mukachivvodokanal_uah`](mkp-mukachivvodokanal_uah/)|`UAH`| 
+|![Mobile](https://static.openfintech.io/payout_methods/mobile/logo.svg?w=400&c=v0.59.26#w24) |[**Mobile**](/payout-methods/mobile/)|[`mobile_rub`](mobile_rub/)|`RUB`| 
+|![Mobile](https://static.openfintech.io/payout_methods/mobile/logo.svg?w=400&c=v0.59.26#w24) |[**Mobile**](/payout-methods/mobile/)|[`mobile_uah`](mobile_uah/)|`UAH`| 
 |![Modus Global (Cherry)](https://static.openfintech.io/payout_methods/modus-global-vishnevoe/logo.png?w=400&c=v0.59.26#w24) |[**Modus Global (Cherry)**](/payout-methods/modus-global-vishnevoe/)|[`modus-global-vishnevoe_uah`](modus-global-vishnevoe_uah/)|`UAH`| 
 |![My village](https://static.openfintech.io/payout_methods/moia-derevnia/logo.png?w=400&c=v0.59.26#w24) |[**My village**](/payout-methods/moia-derevnia/)|[`moia-derevnia_uah`](moia-derevnia_uah/)|`UAH`| 
 |![My dog](https://static.openfintech.io/payout_methods/moia-sobaka/logo.png?w=400&c=v0.59.26#w24) |[**My dog**](/payout-methods/moia-sobaka/)|[`moia-sobaka_uah`](moia-sobaka_uah/)|`UAH`| 

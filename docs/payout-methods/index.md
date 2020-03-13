@@ -747,6 +747,7 @@
 |![mkp-mikolayivvodokanal](https://static.openfintech.io/payout_methods/mkp-mikolayivvodokanal/logo.png?w=400&c=v0.59.26#w24) |[**MCP 'Nikolayevvodokanal'**](mkp-mikolayivvodokanal/)|`mkp-mikolayivvodokanal`| 
 |![mkp-mukachivvodokanal](https://static.openfintech.io/payout_methods/mkp-mukachivvodokanal/logo.png?w=400&c=v0.59.26#w24) |[**INC Mukachivvodokanal**](mkp-mukachivvodokanal/)|`mkp-mukachivvodokanal`| 
 |![mkp-mukachivvodokanal](https://static.openfintech.io/payout_methods/mkp-mukachivvodokanal/logo.png?w=400&c=v0.59.26#w24) |[**МКП МУКАЧІВВОДОКАНАЛ**](mkp-mukachivvodokanal/)|`mkp-mukachivvodokanal`| 
+|![mobile](https://static.openfintech.io/payout_methods/mobile/logo.svg?w=400&c=v0.59.26#w24) |[**Mobile**](mobile/)|`mobile`| 
 |![modus-global-vishnevoe](https://static.openfintech.io/payout_methods/modus-global-vishnevoe/logo.png?w=400&c=v0.59.26#w24) |[**Modus Global (Cherry)**](modus-global-vishnevoe/)|`modus-global-vishnevoe`| 
 |![mogiliv-podils-kii-pat-vinnitsiaoblenergo](https://static.openfintech.io/payout_methods/mogiliv-podils-kii-pat-vinnitsiaoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Mogilev-Podolsky PJSC 'Vinnitsaoblenergo'**](mogiliv-podils-kii-pat-vinnitsiaoblenergo/)|`mogiliv-podils-kii-pat-vinnitsiaoblenergo`| 
 |![moia-derevnia](https://static.openfintech.io/payout_methods/moia-derevnia/logo.png?w=400&c=v0.59.26#w24) |[**My village**](moia-derevnia/)|`moia-derevnia`| 
