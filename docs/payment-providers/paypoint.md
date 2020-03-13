@@ -1,5 +1,5 @@
 
-# Pay360 by Capita 
+# PayPoint 
 ![paypoint](https://static.openfintech.io/payment_providers/paypoint/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,12 +10,10 @@
  
 **Name:** 
  
-:	[EN] Pay360 by Capita 
+:	[EN] PayPoint 
+:	[RU] PayPoint 
+:	[UK] PayPoint 
  
- 
-**Countries:** 
- 
-:	![AU](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/au.svg#w24) 	![CA](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ca.svg#w24) 	![FR](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/fr.svg#w24) 	![DE](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/de.svg#w24) 	![IS](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/is.svg#w24) 	![ML](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ml.svg#w24) 	![NL](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/nl.svg#w24) 	![ES](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/es.svg#w24) 	![AE](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ae.svg#w24) 	![UM](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/um.svg#w24)  
 
 ## Images 
 
@@ -35,6 +33,23 @@ https://static.openfintech.io/payment_providers/paypoint/logo.png?w=400&c=v0.59.
 https://static.openfintech.io/payment_providers/paypoint/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Methods 
+ 
+The list of supported [Payment Methods](/payment-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+ 
+
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -43,25 +58,18 @@ https://static.openfintech.io/payment_providers/paypoint/icon.png?w=278&c=v0.59.
   "description":null,
   "vendor":"paypoint",
   "categories":null,
-  "countries":[
-    "AU",
-    "CA",
-    "FR",
-    "DE",
-    "IS",
-    "ML",
-    "NL",
-    "ES",
-    "AE",
-    "UM"
+  "countries":null,
+  "payment_method":[
+    
   ],
-  "payment_method":null,
-  "payout_method":null,
-  "metadata":{
-    "about_payments_code":"paypoint"
-  },
+  "payout_method":[
+    "payment_card"
+  ],
+  "metadata":null,
   "name":{
-    "en":"Pay360 by Capita"
+    "en":"PayPoint",
+    "ru":"PayPoint",
+    "uk":"PayPoint"
   }
 }
 ```  
