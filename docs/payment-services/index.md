@@ -133,6 +133,7 @@
 |![GEO Pay](https://static.openfintech.io/payment_methods/geopaynet/logo.svg?w=400&c=v0.59.26#w200) |[**GEO Pay**](/payment-methods/geopaynet/)|[`geopaynet_grn_hpp`](geopaynet_grn_hpp/)| 
 |![GEO Pay](https://static.openfintech.io/payment_methods/geopaynet/logo.svg?w=400&c=v0.59.26#w200) |[**GEO Pay**](/payment-methods/geopaynet/)|[`geopaynet_uah_hpp`](geopaynet_uah_hpp/)| 
 |![Giropay](https://static.openfintech.io/payment_methods/giropay/logo.svg?w=400&c=v0.59.26#w200) |[**Giropay**](/payment-methods/giropay/)|[`giropay_eur_hpp`](giropay_eur_hpp/)| 
+|![Google Pay](https://static.openfintech.io/payment_methods/googlepay/logo.svg?w=400&c=v0.59.26#w200) |[**Google Pay**](/payment-methods/googlepay/)|[`googlepay_uah_hpp`](googlepay_uah_hpp/)| 
 ||| **H** ||
 |![Halo pessa](https://static.openfintech.io/payment_methods/halo_pesa/logo.png?w=400&c=v0.59.26#w200) |[**Halo pessa**](/payment-methods/halo_pesa/)|[`halo_pesa_tzs_invoice`](halo_pesa_tzs_invoice/)| 
 |![Hana Bank](https://static.openfintech.io/payment_methods/hana_bank/logo.png?w=400&c=v0.59.26#w200) |[**Hana Bank**](/payment-methods/hana_bank/)|[`hana_bank_krw_hpp`](hana_bank_krw_hpp/)| 

@@ -640,6 +640,7 @@
 |![goldobmen](https://static.openfintech.io/vendors/goldobmen/logo.svg?w=600&c=v0.59.26#w200) |[**GoldObmen**](goldobmen/)|`goldobmen`| 
 |![golovne_upr_nbu_po_m_kiyevu_i_kiyiv_obl](https://static.openfintech.io/vendors/golovne_upr_nbu_po_m_kiyevu_i_kiyiv_obl/logo.svg?w=600&c=v0.59.26#w200) |[**Головне управління НБУ по місту Києву і Київській області**](golovne_upr_nbu_po_m_kiyevu_i_kiyiv_obl/)|`golovne_upr_nbu_po_m_kiyevu_i_kiyiv_obl`| 
 |![golovne_upravlinnya_nbu_v_ark](https://static.openfintech.io/vendors/golovne_upravlinnya_nbu_v_ark/logo.svg?w=600&c=v0.59.26#w200) |[**Головне управління НБУ в Автономній Республіці Крим**](golovne_upravlinnya_nbu_v_ark/)|`golovne_upravlinnya_nbu_v_ark`| 
+|![googlepay](https://static.openfintech.io/vendors/googlepay/logo.svg?w=600&c=v0.59.26#w200) |[**Google Pay**](googlepay/)|`googlepay`| 
 |![gpay](https://static.openfintech.io/vendors/gpay/logo.png?w=600&c=v0.59.26#w200) |[**GPay**](gpay/)|`gpay`| 
 |![gpndata](https://static.openfintech.io/vendors/gpndata/logo.png?w=600&c=v0.59.26#w200) |[**GPN DATA**](gpndata/)|`gpndata`| 
 |![gpwebpay](https://static.openfintech.io/vendors/gpwebpay/logo.png?w=600&c=v0.59.26#w200) |[**GP webpay**](gpwebpay/)|`gpwebpay`| 

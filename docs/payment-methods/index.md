@@ -172,6 +172,7 @@
 |![geopaynet](https://static.openfintech.io/payment_methods/geopaynet/logo.svg?w=400&c=v0.59.26#w200) |[**GEO Pay**](geopaynet/)|`geopaynet`| 
 |![girocard](https://static.openfintech.io/payment_methods/girocard/logo.png?w=400&c=v0.59.26#w200) |[**girocard**](girocard/)|`girocard`| 
 |![giropay](https://static.openfintech.io/payment_methods/giropay/logo.svg?w=400&c=v0.59.26#w200) |[**Giropay**](giropay/)|`giropay`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/logo.svg?w=400&c=v0.59.26#w200) |[**Google Pay**](googlepay/)|`googlepay`| 
 |![googlewallet](https://static.openfintech.io/payment_methods/googlewallet/logo.svg?w=400&c=v0.59.26#w200) |[**Google Wallet**](googlewallet/)|`googlewallet`| 
 || **H** ||
 |![halo_pesa](https://static.openfintech.io/payment_methods/halo_pesa/logo.png?w=400&c=v0.59.26#w200) |[**Halo pessa**](halo_pesa/)|`halo_pesa`| 
