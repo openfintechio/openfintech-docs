@@ -24,7 +24,7 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`card_number`|✔|`string`|`/^([45]{1}[\d]{15}\|[6]{1}[\d]{17})$/`| 
-|`card_holder`|✔|`string`|`/^([A-Za-z]+)\s([A-Za-z]+)$/`| 
+|`card_holder`|✔|`string`|`/^\d{12,19}$/`| 
 |`expiry_month`|✔|`string`|`/^[1-9]{1}$\|^[1-9]{2}$/`| 
 |`expiry_year`|✔|`string`|`/^[1-9][0-9]{3}$/`| 
  
@@ -53,7 +53,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^([A-Za-z]+)\s([A-Za-z]+)$/` 
+	Regexp: `/^\d{12,19}$/` 
  
 	Required: `1` 
  
@@ -142,7 +142,7 @@
         "ru":"\u0414\u0435\u0440\u0436\u0430\u0442\u0435\u043b\u044c \u043a\u0430\u0440\u0442\u044b",
         "uk":"\u0412\u043b\u0430\u0441\u043d\u0438\u043a \u043a\u0430\u0440\u0442\u043a\u0438"
       },
-      "regexp":"\/^([A-Za-z]+)\\s([A-Za-z]+)$\/",
+      "regexp":"\/^\\d{12,19}$\/",
       "required":true,
       "position":2
     },
