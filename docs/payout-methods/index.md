@@ -1199,7 +1199,6 @@
 |![paypal_id](https://static.openfintech.io/payout_methods/paypal_id/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal by ID**](paypal_id/)|`paypal_id`| 
 |![paypal_phone](https://static.openfintech.io/payout_methods/paypal_phone/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal by Phone**](paypal_phone/)|`paypal_phone`| 
 |![paypoint_card](https://static.openfintech.io/payout_methods/paypoint_card/logo.svg?w=400&c=v0.59.26#w24) |[**PayPoint card**](paypoint_card/)|`paypoint_card`| 
-|![paysafe_card](https://static.openfintech.io/payout_methods/paysafe_card/logo.svg?w=400&c=v0.59.26#w24) |[**Paysafe card**](paysafe_card/)|`paysafe_card`| 
 |![paysafecard](https://static.openfintech.io/payout_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w24) |[**Paysafecard**](paysafecard/)|`paysafecard`| 
 |![pechenizhskii-rem-ak-kharkivoblenergo](https://static.openfintech.io/payout_methods/pechenizhskii-rem-ak-kharkivoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Pechenezhsky RES AK 'Kharkivoblenergo'**](pechenizhskii-rem-ak-kharkivoblenergo/)|`pechenizhskii-rem-ak-kharkivoblenergo`| 
 |![pechenizhskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018](https://static.openfintech.io/payout_methods/pechenizhskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Печеніжський РЕМ АК "Харківобленерго" (за послуги до 31.12.2018)**](pechenizhskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|`pechenizhskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018`| 
@@ -2327,6 +2326,7 @@
 |![xata-net](https://static.openfintech.io/payout_methods/xata-net/logo.png?w=400&c=v0.59.26#w24) |[**Xata Net**](xata-net/)|`xata-net`| 
 |![xbox-live-gift-card-us-10](https://static.openfintech.io/payout_methods/xbox-live-gift-card-us-10/logo.png?w=400&c=v0.59.26#w24) |[**Xbox Live Gift Card (US) $ 10**](xbox-live-gift-card-us-10/)|`xbox-live-gift-card-us-10`| 
 |![xbyte](https://static.openfintech.io/payout_methods/xbyte/logo.png?w=400&c=v0.59.26#w24) |[**XBYTE**](xbyte/)|`xbyte`| 
+|![xpate](https://static.openfintech.io/payout_methods/xpate/logo.svg?w=400&c=v0.59.26#w24) |[**Xpate**](xpate/)|`xpate`| 
 |![xtra-tv](https://static.openfintech.io/payout_methods/xtra-tv/logo.png?w=400&c=v0.59.26#w24) |[**XTRA TV**](xtra-tv/)|`xtra-tv`| 
 || **Y** ||
 |![yandexmoney](https://static.openfintech.io/payout_methods/yandexmoney/logo.svg?w=400&c=v0.59.26#w24) |[**Yandex.Money**](yandexmoney/)|`yandexmoney`| 

@@ -357,8 +357,6 @@
 |![WebMoney Transfer](https://static.openfintech.io/payment_methods/webmoneytransfer/logo.svg?w=400&c=v0.59.26#w200) |[**WebMoney Transfer**](/payment-methods/webmoneytransfer/)|[`webmoneytransfer_wmz_hpp`](webmoneytransfer_wmz_hpp/)| 
 |![Wechat](https://static.openfintech.io/payment_methods/wechat/logo.svg?w=400&c=v0.59.26#w200) |[**Wechat**](/payment-methods/wechat/)|[`wechat_cny_hpp`](wechat_cny_hpp/)| 
 |![Westpac](https://static.openfintech.io/payment_methods/westpac/logo.svg?w=400&c=v0.59.26#w200) |[**Westpac**](/payment-methods/westpac/)|[`westpac_aud_hpp`](westpac_aud_hpp/)| 
-|![WinPay Apple Pay](https://static.openfintech.io/payment_methods/winpay_apple_pay/logo.svg?w=400&c=v0.59.26#w200) |[**WinPay Apple Pay**](/payment-methods/winpay_apple_pay/)|[`winpay_apple_pay_rub`](winpay_apple_pay_rub/)| 
-|![WinPay Google Pay](https://static.openfintech.io/payment_methods/winpay_google_pay/logo.svg?w=400&c=v0.59.26#w200) |[**WinPay Google Pay**](/payment-methods/winpay_google_pay/)|[`winpay_google_pay_rub`](winpay_google_pay_rub/)| 
 |![Woori Bank](https://static.openfintech.io/payment_methods/woori_bank/logo.png?w=400&c=v0.59.26#w200) |[**Woori Bank**](/payment-methods/woori_bank/)|[`woori_bank_krw_hpp`](woori_bank_krw_hpp/)| 
 ||| **Y** ||
 |![Yandex.Money](https://static.openfintech.io/payment_methods/yandexmoney/logo.svg?w=400&c=v0.59.26#w200) |[**Yandex.Money**](/payment-methods/yandexmoney/)|[`yandexmoney_rub_hpp`](yandexmoney_rub_hpp/)| 

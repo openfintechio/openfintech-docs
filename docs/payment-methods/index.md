@@ -447,8 +447,6 @@
 |![webpayplus](https://static.openfintech.io/payment_methods/webpayplus/logo.svg?w=400&c=v0.59.26#w200) |[**Webpay plus**](webpayplus/)|`webpayplus`| 
 |![wechat](https://static.openfintech.io/payment_methods/wechat/logo.svg?w=400&c=v0.59.26#w200) |[**Wechat**](wechat/)|`wechat`| 
 |![westpac](https://static.openfintech.io/payment_methods/westpac/logo.svg?w=400&c=v0.59.26#w200) |[**Westpac**](westpac/)|`westpac`| 
-|![winpay_apple_pay](https://static.openfintech.io/payment_methods/winpay_apple_pay/logo.svg?w=400&c=v0.59.26#w200) |[**WinPay Apple Pay**](winpay_apple_pay/)|`winpay_apple_pay`| 
-|![winpay_google_pay](https://static.openfintech.io/payment_methods/winpay_google_pay/logo.svg?w=400&c=v0.59.26#w200) |[**WinPay Google Pay**](winpay_google_pay/)|`winpay_google_pay`| 
 |![wiretransfer](https://static.openfintech.io/payment_methods/wiretransfer/logo.svg?w=400&c=v0.59.26#w200) |[**Wire Transfer**](wiretransfer/)|`wiretransfer`| 
 |![wlandpay](https://static.openfintech.io/payment_methods/wlandpay/logo.svg?w=400&c=v0.59.26#w200) |[**Wlandpay**](wlandpay/)|`wlandpay`| 
 |![wmcard](https://static.openfintech.io/payment_methods/wmcard/logo.png?w=400&c=v0.59.26#w200) |[**WebMoney card**](wmcard/)|`wmcard`| 

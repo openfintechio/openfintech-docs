@@ -902,9 +902,6 @@
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_phone_rub`](paypal_phone_rub/)|`RUB`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_phone_usd`](paypal_phone_usd/)|`USD`| 
 |![PayPoint card](https://static.openfintech.io/payout_methods/paypoint_card/logo.svg?w=400&c=v0.59.26#w24) |[**PayPoint card**](/payout-methods/paypoint_card/)|[`paypoint_card_rub`](paypoint_card_rub/)|`RUB`| 
-|![Paysafe card](https://static.openfintech.io/payout_methods/paysafe_card/logo.svg?w=400&c=v0.59.26#w24) |[**Paysafe card**](/payout-methods/paysafe_card/)|[`paysafe_eur`](paysafe_eur/)|`EUR`| 
-|![Paysafe card](https://static.openfintech.io/payout_methods/paysafe_card/logo.svg?w=400&c=v0.59.26#w24) |[**Paysafe card**](/payout-methods/paysafe_card/)|[`paysafe_inr`](paysafe_inr/)|`INR`| 
-|![Paysafe card](https://static.openfintech.io/payout_methods/paysafe_card/logo.svg?w=400&c=v0.59.26#w24) |[**Paysafe card**](/payout-methods/paysafe_card/)|[`paysafe_usd`](paysafe_usd/)|`USD`| 
 |![Paysafecard](https://static.openfintech.io/payout_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w24) |[**Paysafecard**](/payout-methods/paysafecard/)|[`paysafecard_eur`](paysafecard_eur/)|`EUR`| 
 |![Paysafecard](https://static.openfintech.io/payout_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w24) |[**Paysafecard**](/payout-methods/paysafecard/)|[`paysafecard_gbp`](paysafecard_gbp/)|`GBP`| 
 |![Paysafecard](https://static.openfintech.io/payout_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w24) |[**Paysafecard**](/payout-methods/paysafecard/)|[`paysafecard_usd`](paysafecard_usd/)|`USD`| 
@@ -1920,6 +1917,7 @@
 |![Xata Net](https://static.openfintech.io/payout_methods/xata-net/logo.png?w=400&c=v0.59.26#w24) |[**Xata Net**](/payout-methods/xata-net/)|[`xata-net_uah`](xata-net_uah/)|`UAH`| 
 |![Xbox Live Gift Card (US) $ 10](https://static.openfintech.io/payout_methods/xbox-live-gift-card-us-10/logo.png?w=400&c=v0.59.26#w24) |[**Xbox Live Gift Card (US) $ 10**](/payout-methods/xbox-live-gift-card-us-10/)|[`xbox-live-gift-card-us-10_uah`](xbox-live-gift-card-us-10_uah/)|`UAH`| 
 |![XBYTE](https://static.openfintech.io/payout_methods/xbyte/logo.png?w=400&c=v0.59.26#w24) |[**XBYTE**](/payout-methods/xbyte/)|[`xbyte_uah`](xbyte_uah/)|`UAH`| 
+|![Xpate](https://static.openfintech.io/payout_methods/xpate/logo.svg?w=400&c=v0.59.26#w24) |[**Xpate**](/payout-methods/xpate/)|[`xpate_card_eur`](xpate_card_eur/)|`EUR`| 
 |![XTRA TV](https://static.openfintech.io/payout_methods/xtra-tv/logo.png?w=400&c=v0.59.26#w24) |[**XTRA TV**](/payout-methods/xtra-tv/)|[`xtra-tv_uah`](xtra-tv_uah/)|`UAH`| 
 ||| **Y** ||
 |![Yandex.Money](https://static.openfintech.io/payout_methods/yandexmoney/logo.svg?w=400&c=v0.59.26#w24) |[**Yandex.Money**](/payout-methods/yandexmoney/)|[`yandexmoney_rub`](yandexmoney_rub/)|`RUB`| 
