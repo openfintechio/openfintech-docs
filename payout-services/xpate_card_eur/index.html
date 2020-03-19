@@ -504,7 +504,7 @@
 <td align="center"><code>card_holder</code></td>
 <td align="center">✔</td>
 <td align="center"><code>string</code></td>
-<td align="center"><code>/^([A-Za-z]+)\s([A-Za-z]+)$/</code></td>
+<td align="center"><code>/^\d{12,19}$/</code></td>
 </tr>
 <tr>
 <td align="center"><code>expiry_month</code></td>
@@ -541,7 +541,7 @@
 <li>
 <p><strong><code>card_holder</code></strong> </p>
 <p>Type: <code>string</code> </p>
-<p>Regexp: <code>/^([A-Za-z]+)\s([A-Za-z]+)$/</code> </p>
+<p>Regexp: <code>/^\d{12,19}$/</code> </p>
 <p>Required: <code>1</code> </p>
 <dl>
 <dt>Label:</dt>
@@ -623,7 +623,7 @@
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0414\u0435\u0440\u0436\u0430\u0442\u0435\u043b\u044c \u043a\u0430\u0440\u0442\u044b&quot;</span><span class="p">,</span>
         <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u043b\u0430\u0441\u043d\u0438\u043a \u043a\u0430\u0440\u0442\u043a\u0438&quot;</span>
       <span class="p">},</span>
-      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^([A-Za-z]+)\\s([A-Za-z]+)$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^\\d{12,19}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
       <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">2</span>
     <span class="p">},</span>
