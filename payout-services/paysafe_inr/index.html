@@ -498,73 +498,29 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><code>card_number</code></td>
+<td align="center"><code>email</code></td>
 <td align="center">✔</td>
 <td align="center"><code>string</code></td>
-<td align="center"><code>/^\d{12,19}$/</code></td>
-</tr>
-<tr>
-<td align="center"><code>card_expiration_year</code></td>
-<td align="center">✔</td>
-<td align="center"><code>string</code></td>
-<td align="center"><code>/^\d{4}$/</code></td>
-</tr>
-<tr>
-<td align="center"><code>card_expiration_month</code></td>
-<td align="center">✔</td>
-<td align="center"><code>string</code></td>
-<td align="center"><code>/^\d{2}$/</code></td>
+<td align="center"><code>/^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,3})$/</code></td>
 </tr>
 </tbody>
 </table>
 <h3 id="details">Details<a class="headerlink" href="#details" title="Permanent link">&para;</a></h3>
 <ol>
 <li>
-<p><strong><code>card_number</code></strong> </p>
+<p><strong><code>email</code></strong> </p>
 <p>Type: <code>string</code> </p>
-<p>Regexp: <code>/^\d{12,19}$/</code> </p>
+<p>Regexp: <code>/^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,3})$/</code> </p>
 <p>Required: <code>1</code> </p>
 <dl>
 <dt>Label:</dt>
-<dd>[EN] Card number </dd>
-<dd>[RU] Номер карты </dd>
-<dd>[UK] Номер карти </dd>
+<dd>[EN] Email </dd>
+<dd>[RU] Email </dd>
+<dd>[UK] Email </dd>
 <dt>Hint:</dt>
-<dd>[EN] Enter card number </dd>
-<dd>[RU] Введите номер карты </dd>
-<dd>[UK] Введіть номер карти </dd>
-</dl>
-</li>
-<li>
-<p><strong><code>card_expiration_year</code></strong> </p>
-<p>Type: <code>string</code> </p>
-<p>Regexp: <code>/^\d{4}$/</code> </p>
-<p>Required: <code>1</code> </p>
-<dl>
-<dt>Label:</dt>
-<dd>[EN] Card expiration year </dd>
-<dd>[RU] Год истечения карты </dd>
-<dd>[UK] Год закінчення карти </dd>
-<dt>Hint:</dt>
-<dd>[EN] Year </dd>
-<dd>[RU] Год </dd>
-<dd>[UK] Рік </dd>
-</dl>
-</li>
-<li>
-<p><strong><code>card_expiration_month</code></strong> </p>
-<p>Type: <code>string</code> </p>
-<p>Regexp: <code>/^\d{2}$/</code> </p>
-<p>Required: <code>1</code> </p>
-<dl>
-<dt>Label:</dt>
-<dd>[EN] Card expiration month </dd>
-<dd>[RU] Месяц истечения карты </dd>
-<dd>[UK] Місяць закінчення карти </dd>
-<dt>Hint:</dt>
-<dd>[EN] Month </dd>
-<dd>[RU] Месяц </dd>
-<dd>[UK] Місяць </dd>
+<dd>[EN] Enter the recipient's email address </dd>
+<dd>[RU] Введите Email получателя </dd>
+<dd>[UK] Введiть Email отримувача </dd>
 </dl>
 </li>
 </ol>
@@ -575,59 +531,25 @@
   <span class="nt">&quot;currency&quot;</span><span class="p">:</span><span class="s2">&quot;INR&quot;</span><span class="p">,</span>
   <span class="nt">&quot;fields&quot;</span><span class="p">:[</span>
     <span class="p">{</span>
-      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;card_number&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;email&quot;</span><span class="p">,</span>
       <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
       <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Card number&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u043a\u0430\u0440\u0442\u044b&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u043a\u0430\u0440\u0442\u0438&quot;</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Email&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;Email&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;Email&quot;</span>
       <span class="p">},</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter card number&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u043a\u0430\u0440\u0442\u044b&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u043a\u0430\u0440\u0442\u0438&quot;</span>
+        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Enter the recipient&#39;s email address&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Email \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0412\u0432\u0435\u0434i\u0442\u044c Email \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430&quot;</span>
       <span class="p">},</span>
-      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^\\d{12,19}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[_a-zA-Z0-9-]+(\\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\\.[a-zA-Z0-9-]+)*(\\.[a-zA-Z]{2,3})$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
       <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">1</span>
-    <span class="p">},</span>
-    <span class="p">{</span>
-      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;card_expiration_year&quot;</span><span class="p">,</span>
-      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
-      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Card expiration year&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0413\u043e\u0434 \u0438\u0441\u0442\u0435\u0447\u0435\u043d\u0438\u044f \u043a\u0430\u0440\u0442\u044b&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0413\u043e\u0434 \u0437\u0430\u043a\u0456\u043d\u0447\u0435\u043d\u043d\u044f \u043a\u0430\u0440\u0442\u0438&quot;</span>
-      <span class="p">},</span>
-      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Year&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u0413\u043e\u0434&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u0420\u0456\u043a&quot;</span>
-      <span class="p">},</span>
-      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^\\d{4}$\/&quot;</span><span class="p">,</span>
-      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
-      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">2</span>
-    <span class="p">},</span>
-    <span class="p">{</span>
-      <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;card_expiration_month&quot;</span><span class="p">,</span>
-      <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
-      <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Card expiration month&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u041c\u0435\u0441\u044f\u0446 \u0438\u0441\u0442\u0435\u0447\u0435\u043d\u0438\u044f \u043a\u0430\u0440\u0442\u044b&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041c\u0456\u0441\u044f\u0446\u044c \u0437\u0430\u043a\u0456\u043d\u0447\u0435\u043d\u043d\u044f \u043a\u0430\u0440\u0442\u0438&quot;</span>
-      <span class="p">},</span>
-      <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
-        <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Month&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u041c\u0435\u0441\u044f\u0446&quot;</span><span class="p">,</span>
-        <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;\u041c\u0456\u0441\u044f\u0446\u044c&quot;</span>
-      <span class="p">},</span>
-      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^\\d{2}$\/&quot;</span><span class="p">,</span>
-      <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
-      <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">3</span>
     <span class="p">}</span>
   <span class="p">],</span>
-  <span class="nt">&quot;amount_min&quot;</span><span class="p">:</span><span class="s2">&quot;1&quot;</span><span class="p">,</span>
-  <span class="nt">&quot;amount_max&quot;</span><span class="p">:</span><span class="s2">&quot;50000&quot;</span>
+  <span class="nt">&quot;amount_min&quot;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span>
+  <span class="nt">&quot;amount_max&quot;</span><span class="p">:</span><span class="mi">50000</span>
 <span class="p">}</span>
 </code></pre></div>
                 
