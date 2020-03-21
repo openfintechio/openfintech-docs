@@ -300,6 +300,7 @@
 |![paymer](https://static.openfintech.io/payment_methods/paymer/logo.png?w=400&c=v0.59.26#w200) |[**Paymer check**](paymer/)|`paymer`| 
 |![paynearme](https://static.openfintech.io/payment_methods/paynearme/logo.png?w=400&c=v0.59.26#w200) |[**PayNearMe**](paynearme/)|`paynearme`| 
 |![paypal](https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](paypal/)|`paypal`| 
+|![paysafe_card](https://static.openfintech.io/payment_methods/paysafe_card/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafe**](paysafe_card/)|`paysafe_card`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](paysafecard/)|`paysafecard`| 
 |![paysafecash](https://static.openfintech.io/payment_methods/paysafecash/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecash**](paysafecash/)|`paysafecash`| 
 |![paysbuy](https://static.openfintech.io/payment_methods/paysbuy/logo.png?w=400&c=v0.59.26#w200) |[**PAYSBUY**](paysbuy/)|`paysbuy`| 
