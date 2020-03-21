@@ -38,9 +38,9 @@ The list of [Payment Services](/payment-services/) based on the _Paysafe_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![paysafe_card](https://static.openfintech.io/payment_methods/paysafe_card/icon.svg?w=278&c=v0.59.26#w100) |[paysafe_usd](/payment-services/paysafe_usd/)|`paysafe_usd`| 
-|![paysafe_card](https://static.openfintech.io/payment_methods/paysafe_card/icon.svg?w=278&c=v0.59.26#w100) |[paysafe_eur](/payment-services/paysafe_eur/)|`paysafe_eur`| 
-|![paysafe_card](https://static.openfintech.io/payment_methods/paysafe_card/icon.svg?w=278&c=v0.59.26#w100) |[paysafe_inr](/payment-services/paysafe_inr/)|`paysafe_inr`| 
+|![paysafe_card](https://static.openfintech.io/payment_methods/paysafe_card/icon.svg?w=278&c=v0.59.26#w100) |[paysafe_usd_hpp](/payment-services/paysafe_usd_hpp/)|`paysafe_usd_hpp`| 
+|![paysafe_card](https://static.openfintech.io/payment_methods/paysafe_card/icon.svg?w=278&c=v0.59.26#w100) |[paysafe_eur_hpp](/payment-services/paysafe_eur_hpp/)|`paysafe_eur_hpp`| 
+|![paysafe_card](https://static.openfintech.io/payment_methods/paysafe_card/icon.svg?w=278&c=v0.59.26#w100) |[paysafe_inr_hpp](/payment-services/paysafe_inr_hpp/)|`paysafe_inr_hpp`| 
  
 
 ## JSON Object 
