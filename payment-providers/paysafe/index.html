@@ -443,6 +443,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#payment-methods" class="md-nav__link">
+    Payment Methods
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#payout-methods" class="md-nav__link">
     Payout Methods
   </a>
@@ -495,6 +502,24 @@
 <div class="codehilite"><pre><span></span><code>https://static.openfintech.io/payment_providers/paysafe/icon.svg?w=278&amp;c=v0.59.26#w100
 </code></pre></div>
 
+<h2 id="payment-methods">Payment Methods<a class="headerlink" href="#payment-methods" title="Permanent link">&para;</a></h2>
+<p>The list of supported <a href="/payment-methods/">Payment Methods</a> </p>
+<table>
+<thead>
+<tr>
+<th align="center">Icon</th>
+<th align="center">Name</th>
+<th align="center">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img alt="neteller" src="https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&amp;c=v0.59.26#w100" /></td>
+<td align="center"><a href="/payment-methods/neteller/">neteller</a></td>
+<td align="center"><code>neteller</code></td>
+</tr>
+</tbody>
+</table>
 <h2 id="payout-methods">Payout Methods<a class="headerlink" href="#payout-methods" title="Permanent link">&para;</a></h2>
 <p>The list of supported <a href="/payout-methods/">Payout Methods</a> </p>
 <table>
@@ -507,9 +532,9 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><img alt="paysafe_card" src="https://static.openfintech.io/payout_methods/paysafe_card/icon.svg?w=278&amp;c=v0.59.26#w40" /></td>
-<td align="center"><a href="payout-methodspaysafe_card/">paysafe_card</a></td>
-<td align="center"><code>paysafe_card</code></td>
+<td align="center"><img alt="neteller" src="https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&amp;c=v0.59.26#w40" /></td>
+<td align="center"><a href="payout-methodsneteller/">neteller</a></td>
+<td align="center"><code>neteller</code></td>
 </tr>
 </tbody>
 </table>
@@ -520,9 +545,11 @@
   <span class="nt">&quot;vendor&quot;</span><span class="p">:</span><span class="s2">&quot;paysafe&quot;</span><span class="p">,</span>
   <span class="nt">&quot;categories&quot;</span><span class="p">:</span><span class="kc">null</span><span class="p">,</span>
   <span class="nt">&quot;countries&quot;</span><span class="p">:</span><span class="kc">null</span><span class="p">,</span>
-  <span class="nt">&quot;payment_method&quot;</span><span class="p">:</span><span class="kc">null</span><span class="p">,</span>
+  <span class="nt">&quot;payment_method&quot;</span><span class="p">:[</span>
+    <span class="s2">&quot;neteller&quot;</span>
+  <span class="p">],</span>
   <span class="nt">&quot;payout_method&quot;</span><span class="p">:[</span>
-    <span class="s2">&quot;paysafe_card&quot;</span>
+    <span class="s2">&quot;neteller&quot;</span>
   <span class="p">],</span>
   <span class="nt">&quot;metadata&quot;</span><span class="p">:</span><span class="kc">null</span><span class="p">,</span>
   <span class="nt">&quot;name&quot;</span><span class="p">:{</span>
