@@ -1,21 +1,21 @@
 
 # NETELLER (service) 
-![neteller_eur_hpp](https://static.openfintech.io/payment_methods/neteller_eur_hpp/logo.svg?w=400&c=v0.59.26#w200)  
+![neteller_inr_hpp](https://static.openfintech.io/payment_methods/neteller_inr_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `neteller_eur_hpp` 
+**Code:** `neteller_inr_hpp` 
  
 **Method:** `neteller` 
  [show -->](/payment-methods/neteller/) 
  
-**Currency:** `EUR` [show -->](/currencies/EUR/) 
+**Currency:** `INR` [show -->](/currencies/INR/) 
  
 **Name:** 
  
 :	[EN] NETELLER 
  
-**Amount limits:** from `0.01` to `100000` EUR 
+**Amount limits:** from `0.01` to `100000` INR 
 
 ## Fields 
 
@@ -51,10 +51,10 @@
 
 ```json
 {
-  "code":"neteller_eur_hpp",
+  "code":"neteller_inr_hpp",
   "flow":"hpp",
   "method":"neteller",
-  "currency":"EUR",
+  "currency":"INR",
   "fields":[
     {
       "key":"email",

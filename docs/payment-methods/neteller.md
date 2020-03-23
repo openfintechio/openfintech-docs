@@ -41,6 +41,7 @@ The list of [Payment Services](/payment-services/) based on the _NETELLER_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_eur_hpp](/payment-services/neteller_eur_hpp/)|`neteller_eur_hpp`| 
+|![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_inr_hpp](/payment-services/neteller_inr_hpp/)|`neteller_inr_hpp`| 
 |![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_usd_hpp](/payment-services/neteller_usd_hpp/)|`neteller_usd_hpp`| 
  
 
@@ -57,6 +58,7 @@ The list of [Payment Providers](/payment-providers/) that support the _NETELLER_
 |![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.png?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
 |![yuupay](https://static.openfintech.io/payment_providers/yuupay/icon.png?w=278&c=v0.59.26#w100) |[YuuPay ](/payment-providers/yuupay/)|`yuupay`| 
+|![paysafe](https://static.openfintech.io/payment_providers/paysafe/icon.svg?w=278&c=v0.59.26#w100) |[Paysafe](/payment-providers/paysafe/)|`paysafe`| 
  
 
 ## JSON Object 

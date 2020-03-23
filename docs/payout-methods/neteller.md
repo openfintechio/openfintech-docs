@@ -79,6 +79,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Neteller_
 |![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.png?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
 |![yuupay](https://static.openfintech.io/payment_providers/yuupay/icon.png?w=278&c=v0.59.26#w100) |[YuuPay ](/payment-providers/yuupay/)|`yuupay`| 
+|![paysafe](https://static.openfintech.io/payment_providers/paysafe/icon.svg?w=278&c=v0.59.26#w100) |[Paysafe](/payment-providers/paysafe/)|`paysafe`| 
  
 
 ## JSON Object 

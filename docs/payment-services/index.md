@@ -210,6 +210,7 @@
 ||| **N** ||
 |![National Australia Bank](https://static.openfintech.io/payment_methods/national_australia_bank/logo.svg?w=400&c=v0.59.26#w200) |[**National Australia Bank**](/payment-methods/national_australia_bank/)|[`national_australia_bank_aud_hpp`](national_australia_bank_aud_hpp/)| 
 |![NETELLER](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](/payment-methods/neteller/)|[`neteller_eur_hpp`](neteller_eur_hpp/)| 
+|![NETELLER](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](/payment-methods/neteller/)|[`neteller_inr_hpp`](neteller_inr_hpp/)| 
 |![NETELLER](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](/payment-methods/neteller/)|[`neteller_usd_hpp`](neteller_usd_hpp/)| 
 |![Nonghyup Bank](https://static.openfintech.io/payment_methods/nonghyup_bank/logo.png?w=400&c=v0.59.26#w200) |[**Nonghyup Bank**](/payment-methods/nonghyup_bank/)|[`nonghyup_bank_krw_hpp`](nonghyup_bank_krw_hpp/)| 
 |![Nordea Solo](https://static.openfintech.io/payment_methods/nordeasolo/logo.svg?w=400&c=v0.59.26#w200) |[**Nordea Solo**](/payment-methods/nordeasolo/)|[`nordeasolo_eur_hpp`](nordeasolo_eur_hpp/)| 

@@ -902,9 +902,6 @@
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_phone_rub`](paypal_phone_rub/)|`RUB`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_phone_usd`](paypal_phone_usd/)|`USD`| 
 |![PayPoint card](https://static.openfintech.io/payout_methods/paypoint_card/logo.svg?w=400&c=v0.59.26#w24) |[**PayPoint card**](/payout-methods/paypoint_card/)|[`paypoint_card_rub`](paypoint_card_rub/)|`RUB`| 
-|![Paysafe card](https://static.openfintech.io/payout_methods/paysafe_card/logo.svg?w=400&c=v0.59.26#w24) |[**Paysafe card**](/payout-methods/paysafe_card/)|[`paysafe_eur`](paysafe_eur/)|`EUR`| 
-|![Paysafe card](https://static.openfintech.io/payout_methods/paysafe_card/logo.svg?w=400&c=v0.59.26#w24) |[**Paysafe card**](/payout-methods/paysafe_card/)|[`paysafe_inr`](paysafe_inr/)|`INR`| 
-|![Paysafe card](https://static.openfintech.io/payout_methods/paysafe_card/logo.svg?w=400&c=v0.59.26#w24) |[**Paysafe card**](/payout-methods/paysafe_card/)|[`paysafe_usd`](paysafe_usd/)|`USD`| 
 |![Paysafecard](https://static.openfintech.io/payout_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w24) |[**Paysafecard**](/payout-methods/paysafecard/)|[`paysafecard_eur`](paysafecard_eur/)|`EUR`| 
 |![Paysafecard](https://static.openfintech.io/payout_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w24) |[**Paysafecard**](/payout-methods/paysafecard/)|[`paysafecard_gbp`](paysafecard_gbp/)|`GBP`| 
 |![Paysafecard](https://static.openfintech.io/payout_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w24) |[**Paysafecard**](/payout-methods/paysafecard/)|[`paysafecard_usd`](paysafecard_usd/)|`USD`| 
