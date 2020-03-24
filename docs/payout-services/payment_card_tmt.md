@@ -1,14 +1,14 @@
 
 # Card (service) 
-![payment_card_usd](https://static.openfintech.io/payout_methods/payment_card_usd/logo.svg?w=400&c=v0.59.26#w24)  
+![payment_card_tmt](https://static.openfintech.io/payout_methods/payment_card_tmt/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
  
-**Code:** `payment_card_usd` 
+**Code:** `payment_card_tmt` 
  
 **Method:** `payment_card` [show -->](/payout-methods/payment_card/) 
  
-**Currency:** `USD` [show -->](/currencies/USD/) 
+**Currency:** `TMT` [show -->](/currencies/TMT/) 
  
 **Name:** 
  
@@ -16,7 +16,7 @@
 :	[RU] Card 
 :	[UK] Card 
  
-**Amount limits:** from `0.01` to `1000000` USD 
+**Amount limits:** from `0.01` to `1000000` TMT 
 
 ## Fields 
 
@@ -52,9 +52,9 @@
 
 ```json
 {
-  "code":"payment_card_usd",
+  "code":"payment_card_tmt",
   "method":"payment_card",
-  "currency":"USD",
+  "currency":"TMT",
   "fields":[
     {
       "key":"card_number",

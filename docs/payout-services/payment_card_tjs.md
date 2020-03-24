@@ -1,14 +1,14 @@
 
 # Card (service) 
-![payment_card_usd](https://static.openfintech.io/payout_methods/payment_card_usd/logo.svg?w=400&c=v0.59.26#w24)  
+![payment_card_tjs](https://static.openfintech.io/payout_methods/payment_card_tjs/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
  
-**Code:** `payment_card_usd` 
+**Code:** `payment_card_tjs` 
  
 **Method:** `payment_card` [show -->](/payout-methods/payment_card/) 
  
-**Currency:** `USD` [show -->](/currencies/USD/) 
+**Currency:** `TJS` [show -->](/currencies/TJS/) 
  
 **Name:** 
  
@@ -16,7 +16,7 @@
 :	[RU] Card 
 :	[UK] Card 
  
-**Amount limits:** from `0.01` to `1000000` USD 
+**Amount limits:** from `0.01` to `1000000` TJS 
 
 ## Fields 
 
@@ -52,9 +52,9 @@
 
 ```json
 {
-  "code":"payment_card_usd",
+  "code":"payment_card_tjs",
   "method":"payment_card",
-  "currency":"USD",
+  "currency":"TJS",
   "fields":[
     {
       "key":"card_number",

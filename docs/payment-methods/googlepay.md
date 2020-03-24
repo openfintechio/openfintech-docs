@@ -45,6 +45,15 @@ The list of [Payment Services](/payment-services/) based on the _Google Pay_
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_uah_hpp](/payment-services/googlepay_uah_hpp/)|`googlepay_uah_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Google Pay_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![cardgate](https://static.openfintech.io/payment_providers/cardgate/icon.svg?w=278&c=v0.59.26#w100) |[CardGate](/payment-providers/cardgate/)|`cardgate`| 
+ 
+
 ## JSON Object 
 
 ```json

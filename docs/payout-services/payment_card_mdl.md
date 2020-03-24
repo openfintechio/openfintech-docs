@@ -16,7 +16,7 @@
 :	[RU] Card 
 :	[UK] Card 
  
-**Amount limits:** from `0.01` to `500000` MDL 
+**Amount limits:** from `0.01` to `1000000` MDL 
 
 ## Fields 
 
@@ -82,6 +82,6 @@
     }
   ],
   "amount_min":"0.01",
-  "amount_max":"500000"
+  "amount_max":"1000000"
 }
 ```  
