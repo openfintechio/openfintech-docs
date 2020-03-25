@@ -1250,7 +1250,7 @@
 |![polipayonline](https://static.openfintech.io/vendors/polipayonline/logo.png?w=600&c=v0.59.26#w200) |[**POLi Payments**](polipayonline/)|`polipayonline`| 
 |![polt_gru_pat_kbprivatbank_m_poltava](https://static.openfintech.io/vendors/polt_gru_pat_kbprivatbank_m_poltava/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ 'ПОЛТАВСЬКЕ ГОЛОВНЕ РЕГІОНАЛЬНЕ УПРАВЛІННЯ' ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](polt_gru_pat_kbprivatbank_m_poltava/)|`polt_gru_pat_kbprivatbank_m_poltava`| 
 |![poppankki](https://static.openfintech.io/vendors/poppankki/logo.png?w=600&c=v0.59.26#w200) |[**POP Pankki**](poppankki/)|`poppankki`| 
-|![portmone](https://static.openfintech.io/vendors/portmone/logo.png?w=600&c=v0.59.26#w200) |[**Portmone.com**](portmone/)|`portmone`| 
+|![portmone](https://static.openfintech.io/vendors/portmone/logo.svg?w=600&c=v0.59.26#w200) |[**Portmone.com**](portmone/)|`portmone`| 
 |![postepay](https://static.openfintech.io/vendors/postepay/logo.png?w=600&c=v0.59.26#w200) |[**Postepay**](postepay/)|`postepay`| 
 |![postfinance](https://static.openfintech.io/vendors/postfinance/logo.png?w=600&c=v0.59.26#w200) |[**PostFinance**](postfinance/)|`postfinance`| 
 |![postfinancecard](https://static.openfintech.io/vendors/postfinancecard/logo.png?w=600&c=v0.59.26#w200) |[**PostFinance Card**](postfinancecard/)|`postfinancecard`| 

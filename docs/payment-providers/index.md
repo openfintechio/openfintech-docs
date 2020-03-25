@@ -491,7 +491,7 @@
 |![platio](https://static.openfintech.io/payment_providers/platio/logo.svg?w=600&c=v0.59.26#w100) |[**Platio**](platio/)|`platio`| 
 |![platon](https://static.openfintech.io/payment_providers/platon/logo.svg?w=600&c=v0.59.26#w100) |[**Platon**](platon/)|`platon`| 
 |![platron](https://static.openfintech.io/payment_providers/platron/logo.png?w=600&c=v0.59.26#w100) |[**Platron**](platron/)|`platron`| 
-|![portmone](https://static.openfintech.io/payment_providers/portmone/logo.png?w=600&c=v0.59.26#w100) |[**Portmone.com**](portmone/)|`portmone`| 
+|![portmone](https://static.openfintech.io/payment_providers/portmone/logo.svg?w=600&c=v0.59.26#w100) |[**Portmone.com**](portmone/)|`portmone`| 
 |![postfinance](https://static.openfintech.io/payment_providers/postfinance/logo.png?w=600&c=v0.59.26#w100) |[**PostFinance**](postfinance/)|`postfinance`| 
 |![powerpay21](https://static.openfintech.io/payment_providers/powerpay21/logo.png?w=600&c=v0.59.26#w100) |[**powerpay21**](powerpay21/)|`powerpay21`| 
 |![ppro](https://static.openfintech.io/payment_providers/ppro/logo.png?w=600&c=v0.59.26#w100) |[**PPRO Financial Ltd**](ppro/)|`ppro`| 
