@@ -16,7 +16,7 @@
 :	[RU] Card 
 :	[UK] Card 
  
-**Amount limits:** from `0.01` to `1000000` GBP 
+**Amount limits:** from `0.01` to `14999` GBP 
 
 ## Fields 
 
@@ -81,7 +81,7 @@
       }
     }
   ],
-  "amount_min":"0.01",
-  "amount_max":"1000000"
+  "amount_min":0.01,
+  "amount_max":14999
 }
 ```  

@@ -16,7 +16,7 @@
 :	[RU] Card 
 :	[UK] Card 
  
-**Amount limits:** from `0.01` to `1000000` GHS 
+**Amount limits:** from `0.01` to `100000` GHS 
 
 ## Fields 
 
@@ -82,6 +82,6 @@
     }
   ],
   "amount_min":"0.01",
-  "amount_max":"1000000"
+  "amount_max":"100000"
 }
 ```  
