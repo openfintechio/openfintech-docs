@@ -27,7 +27,7 @@
 |`beneficiary_payment_type`|✔|`string`|`/^.{1,255}$/`| 
 |`beneficiary_address`|✔|`string`|`/^.{1,255}$/`| 
 |`beneficiary_city`|✔|`string`|`/^.{1,255}$/`| 
-|`beneficiary_first_name`|✔|`string`|`/^.{1,255}$/`| 
+|`beneficiary_first_name`|✔|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
 |`beneficiary_last_name`|✔|`string`|`/^.{1,255}$/`| 
 |`beneficiary_account_number`|✔|`string`|`/^\d{1,17}$/`| 
 |`beneficiary_bic_swift`|✔|`string`|`/^[0-9A-Z]{8}$\|^[0-9A-Z]{11}$/`| 
@@ -98,7 +98,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^.{1,255}$/` 
+	Regexp: `/^[A-Z\-\sa-z]{2,100}$/` 
  
 	Required: `1` 
  
@@ -327,7 +327,7 @@
         "ru":"First name",
         "uk":"First name"
       },
-      "regexp":"\/^.{1,255}$\/",
+      "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
       "required":true,
       "position":4,
       "hint":{
