@@ -519,7 +519,7 @@
 <td align="center"><code>beneficiary_first_name</code></td>
 <td align="center">✔</td>
 <td align="center"><code>string</code></td>
-<td align="center"><code>/^[A-Z\-\sa-z]{2,100}$/</code></td>
+<td align="center"><code>/^.{1,255}$/</code></td>
 </tr>
 <tr>
 <td align="center"><code>beneficiary_last_name</code></td>
@@ -624,7 +624,7 @@
 <li>
 <p><strong><code>beneficiary_first_name</code></strong> </p>
 <p>Type: <code>string</code> </p>
-<p>Regexp: <code>/^[A-Z\-\sa-z]{2,100}$/</code> </p>
+<p>Regexp: <code>/^.{1,255}$/</code> </p>
 <p>Required: <code>1</code> </p>
 <dl>
 <dt>Label:</dt>
@@ -834,7 +834,7 @@
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;First name&quot;</span><span class="p">,</span>
         <span class="nt">&quot;uk&quot;</span><span class="p">:</span><span class="s2">&quot;First name&quot;</span>
       <span class="p">},</span>
-      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[A-Z\\-\\sa-z]{2,100}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^.{1,255}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;required&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
       <span class="nt">&quot;position&quot;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span>
       <span class="nt">&quot;hint&quot;</span><span class="p">:{</span>
