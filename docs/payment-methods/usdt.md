@@ -37,6 +37,15 @@ The list of [Payment Services](/payment-services/) based on the _Tether_
 |![usdt](https://static.openfintech.io/payment_methods/usdt/icon.png?w=278&c=v0.59.26#w100) |[usdt_usd_hpp](/payment-services/usdt_usd_hpp/)|`usdt_usd_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Tether_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![anymoney](https://static.openfintech.io/payment_providers/anymoney/icon.svg?w=278&c=v0.59.26#w100) |[Any.Money](/payment-providers/anymoney/)|`anymoney`| 
+ 
+
 ## JSON Object 
 
 ```json
