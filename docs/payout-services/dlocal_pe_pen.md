@@ -25,10 +25,10 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`document_id`|✔|`string`|`/^[0-9]{8,14}$/`| 
-|`document_type`|✔|`string`|`/^[0-9]{8,11}$/`| 
+|`document_type`|✔|`string`|`/^(DNI\|RUC\|CE\|PASS)$/`| 
 |`beneficiary_name`|✔|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
 |`beneficiary_lastname`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
-|`bank_account`|✔|`string`|`/^[0-9]{4,18}$/`| 
+|`bank_account`|✔|`string`|`/^[0-9]{20}$/`| 
 |`account_type`|✔|`string`|`/^[A-Z]{1}$/`| 
  
 
@@ -56,7 +56,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9]{8,11}$/` 
+	Regexp: `/^(DNI|RUC|CE|PASS)$/` 
  
 	Required: `1` 
  
@@ -110,7 +110,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9]{4,18}$/` 
+	Regexp: `/^[0-9]{20}$/` 
  
 	Required: `1` 
  
@@ -170,7 +170,7 @@
     },
     {
       "key":"document_type",
-      "regexp":"\/^[0-9]{8,11}$\/",
+      "regexp":"\/^(DNI|RUC|CE|PASS)$\/",
       "type":"string",
       "label":{
         "en":"Document Type",
@@ -222,7 +222,7 @@
     {
       "key":"bank_account",
       "type":"string",
-      "regexp":"\/^[0-9]{4,18}$\/",
+      "regexp":"\/^[0-9]{20}$\/",
       "label":{
         "en":"Bank Account",
         "ru":"\u041d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430",

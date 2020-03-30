@@ -24,9 +24,9 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`document_id`|✔|`string`|`/^[0-9]{8,14}$/`| 
+|`document_id`|✔|`string`|`/^[0-9]{10}$/`| 
 |`document_type`|✔|`string`|`/^(NIT\|CC\|CE\|PASS)$/`| 
-|`bank_account`|✔|`string`|`/^[0-9]{8,14}$/`| 
+|`bank_account`|✔|`string`|`/^[0-9]{8,16}$/`| 
 |`bank_code`|✔|`string`|`/^[0-9]$/`| 
 |`account_type`|✔|`string`|`/^[A-Z]{1}$/`| 
 |`beneficiary_name`|✔|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
@@ -42,7 +42,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9]{8,14}$/` 
+	Regexp: `/^[0-9]{10}$/` 
  
 	Required: `1` 
  
@@ -78,7 +78,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9]{8,14}$/` 
+	Regexp: `/^[0-9]{8,16}$/` 
  
 	Required: `1` 
  
@@ -229,7 +229,7 @@
   "fields":[
     {
       "key":"document_id",
-      "regexp":"\/^[0-9]{8,14}$\/",
+      "regexp":"\/^[0-9]{10}$\/",
       "type":"string",
       "label":{
         "en":"Document ID",
@@ -264,7 +264,7 @@
     {
       "key":"bank_account",
       "type":"string",
-      "regexp":"\/^[0-9]{8,14}$\/",
+      "regexp":"\/^[0-9]{8,16}$\/",
       "label":{
         "en":"Bank Account",
         "ru":"\u041d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430",

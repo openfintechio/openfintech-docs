@@ -26,7 +26,7 @@
 |:---:|:---:|:---:|:---:| 
 |`document_id`|✔|`string`|`/^[0-9]{8,14}$/`| 
 |`bank_account`|✔|`string`|`/^[0-9]{22}$/`| 
-|`account_type`|✔|`string`|`/^[A-Z]{1}$/`| 
+|`account_type`|✗|`string`|`/^[A-Z]{1}$/`| 
 |`beneficiary_name`|✔|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
 |`beneficiary_lastname`|✔|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
  
@@ -75,7 +75,7 @@
  
 	Regexp: `/^[A-Z]{1}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Account type 
@@ -181,7 +181,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0430\u043a\u0430\u0443\u043d\u0442\u0443"
       },
       "position":5,
-      "required":true
+      "required":false
     },
     {
       "key":"beneficiary_name",
