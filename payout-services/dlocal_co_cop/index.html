@@ -501,7 +501,7 @@
 <td align="center"><code>document_id</code></td>
 <td align="center">✔</td>
 <td align="center"><code>string</code></td>
-<td align="center"><code>/^[0-9]{8,14}$/</code></td>
+<td align="center"><code>/^[0-9]{10}$/</code></td>
 </tr>
 <tr>
 <td align="center"><code>document_type</code></td>
@@ -513,7 +513,7 @@
 <td align="center"><code>bank_account</code></td>
 <td align="center">✔</td>
 <td align="center"><code>string</code></td>
-<td align="center"><code>/^[0-9]{8,14}$/</code></td>
+<td align="center"><code>/^[0-9]{8,16}$/</code></td>
 </tr>
 <tr>
 <td align="center"><code>bank_code</code></td>
@@ -564,7 +564,7 @@
 <li>
 <p><strong><code>document_id</code></strong> </p>
 <p>Type: <code>string</code> </p>
-<p>Regexp: <code>/^[0-9]{8,14}$/</code> </p>
+<p>Regexp: <code>/^[0-9]{10}$/</code> </p>
 <p>Required: <code>1</code> </p>
 <dl>
 <dt>Label:</dt>
@@ -596,7 +596,7 @@
 <li>
 <p><strong><code>bank_account</code></strong> </p>
 <p>Type: <code>string</code> </p>
-<p>Regexp: <code>/^[0-9]{8,14}$/</code> </p>
+<p>Regexp: <code>/^[0-9]{8,16}$/</code> </p>
 <p>Required: <code>1</code> </p>
 <dl>
 <dt>Label:</dt>
@@ -730,7 +730,7 @@
   <span class="nt">&quot;fields&quot;</span><span class="p">:[</span>
     <span class="p">{</span>
       <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;document_id&quot;</span><span class="p">,</span>
-      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[0-9]{8,14}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[0-9]{10}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
       <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
         <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Document ID&quot;</span><span class="p">,</span>
@@ -765,7 +765,7 @@
     <span class="p">{</span>
       <span class="nt">&quot;key&quot;</span><span class="p">:</span><span class="s2">&quot;bank_account&quot;</span><span class="p">,</span>
       <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;string&quot;</span><span class="p">,</span>
-      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[0-9]{8,14}$\/&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;regexp&quot;</span><span class="p">:</span><span class="s2">&quot;\/^[0-9]{8,16}$\/&quot;</span><span class="p">,</span>
       <span class="nt">&quot;label&quot;</span><span class="p">:{</span>
         <span class="nt">&quot;en&quot;</span><span class="p">:</span><span class="s2">&quot;Bank Account&quot;</span><span class="p">,</span>
         <span class="nt">&quot;ru&quot;</span><span class="p">:</span><span class="s2">&quot;\u041d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430&quot;</span><span class="p">,</span>
