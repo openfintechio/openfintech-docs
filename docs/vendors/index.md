@@ -1449,6 +1449,7 @@
 |![ticketpremium](https://static.openfintech.io/vendors/ticketpremium/logo.png?w=600&c=v0.59.26#w200) |[**Ticket Premium**](ticketpremium/)|`ticketpremium`| 
 |![tinkoffks](https://static.openfintech.io/vendors/tinkoffks/logo.svg?w=600&c=v0.59.26#w200) |[**Тинькофф КС**](tinkoffks/)|`tinkoffks`| 
 |![tkbbank](https://static.openfintech.io/vendors/tkbbank/logo.svg?w=600&c=v0.59.26#w200) |[**TKB Bank**](tkbbank/)|`tkbbank`| 
+|![tmb](https://static.openfintech.io/vendors/tmb/logo.svg?w=600&c=v0.59.26#w200) |[**Central Bank of Turkmenistan**](tmb/)|`tmb`| 
 |![tnspay](https://static.openfintech.io/vendors/tnspay/logo.png?w=600&c=v0.59.26#w200) |[**TNSPay**](tnspay/)|`tnspay`| 
 |![toditocash](https://static.openfintech.io/vendors/toditocash/logo.png?w=600&c=v0.59.26#w200) |[**Todito Cash**](toditocash/)|`toditocash`| 
 |![totalwebsolutions](https://static.openfintech.io/vendors/totalwebsolutions/logo.png?w=600&c=v0.59.26#w200) |[**Total Web Solutions**](totalwebsolutions/)|`totalwebsolutions`| 
