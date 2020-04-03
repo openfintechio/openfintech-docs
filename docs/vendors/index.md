@@ -901,6 +901,7 @@
 |![newline.online](https://static.openfintech.io/vendors/newline.online/logo.svg?w=600&c=v0.59.26#w200) |[**NewLine**](newline.online/)|`newline.online`| 
 |![nextpay](https://static.openfintech.io/vendors/nextpay/logo.png?w=600&c=v0.59.26#w200) |[**NextPay**](nextpay/)|`nextpay`| 
 |![nganluong](https://static.openfintech.io/vendors/nganluong/logo.png?w=600&c=v0.59.26#w200) |[**Ngan Luong **](nganluong/)|`nganluong`| 
+|![ngb](https://static.openfintech.io/vendors/ngb/logo.svg?w=600&c=v0.59.26#w200) |[**Central Bank of Nigeria**](ngb/)|`ngb`| 
 |![nihaopay](https://static.openfintech.io/vendors/nihaopay/logo.png?w=600&c=v0.59.26#w200) |[**NihaoPay**](nihaopay/)|`nihaopay`| 
 |![nixexchange](https://static.openfintech.io/vendors/nixexchange/logo.svg?w=600&c=v0.59.26#w200) |[**NixExchange**](nixexchange/)|`nixexchange`| 
 |![nixmoney](https://static.openfintech.io/vendors/nixmoney/logo.svg?w=600&c=v0.59.26#w200) |[**NixMoney**](nixmoney/)|`nixmoney`| 
@@ -1433,6 +1434,7 @@
 |![tatrabanka](https://static.openfintech.io/vendors/tatrabanka/logo.png?w=600&c=v0.59.26#w200) |[**Tatra Banka**](tatrabanka/)|`tatrabanka`| 
 |![tbcbank](https://static.openfintech.io/vendors/tbcbank/logo.svg?w=600&c=v0.59.26#w200) |[**TBC Bank**](tbcbank/)|`tbcbank`| 
 |![tcb](https://static.openfintech.io/vendors/tcb/logo.png?w=600&c=v0.59.26#w200) |[**National Bank of Georgia**](tcb/)|`tcb`| 
+|![tcmb](https://static.openfintech.io/vendors/tcmb/logo.svg?w=600&c=v0.59.26#w200) |[**Central Bank of the Republic of Turkey**](tcmb/)|`tcmb`| 
 |![tefpay](https://static.openfintech.io/vendors/tefpay/logo.png?w=600&c=v0.59.26#w200) |[**tefpay**](tefpay/)|`tefpay`| 
 |![telecash](https://static.openfintech.io/vendors/telecash/logo.png?w=600&c=v0.59.26#w200) |[**TeleCash**](telecash/)|`telecash`| 
 |![teleingreso](https://static.openfintech.io/vendors/teleingreso/logo.png?w=600&c=v0.59.26#w200) |[**Teleingreso**](teleingreso/)|`teleingreso`| 
@@ -1558,6 +1560,7 @@
 |![vakifbank](https://static.openfintech.io/vendors/vakifbank/logo.svg?w=600&c=v0.59.26#w200) |[**VakıfBank**](vakifbank/)|`vakifbank`| 
 |![valitor](https://static.openfintech.io/vendors/valitor/logo.png?w=600&c=v0.59.26#w200) |[**Valitor**](valitor/)|`valitor`| 
 |![vallettapay](https://static.openfintech.io/vendors/vallettapay/logo.png?w=600&c=v0.59.26#w200) |[**VallettaPay**](vallettapay/)|`vallettapay`| 
+|![valutaexchange](https://static.openfintech.io/vendors/valutaexchange/logo.svg?w=600&c=v0.59.26#w200) |[**Valuta exchange**](valutaexchange/)|`valutaexchange`| 
 |![vantagepayments](https://static.openfintech.io/vendors/vantagepayments/logo.png?w=600&c=v0.59.26#w200) |[**Vantage Payments**](vantagepayments/)|`vantagepayments`| 
 |![vantiv](https://static.openfintech.io/vendors/vantiv/logo.png?w=600&c=v0.59.26#w200) |[**Vantiv**](vantiv/)|`vantiv`| 
 |![vbchange.ru](https://static.openfintech.io/vendors/vbchange.ru/logo.svg?w=600&c=v0.59.26#w200) |[**vbchange**](vbchange.ru/)|`vbchange.ru`| 
