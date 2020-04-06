@@ -27,7 +27,7 @@
 |`document_id`|✔|`string`|`/^[0-9]{10}$/`| 
 |`document_type`|✔|`string`|`/^(NIT\|CC\|CE\|PASS)$/`| 
 |`bank_account`|✔|`string`|`/^[0-9]{8,16}$/`| 
-|`bank_code`|✔|`string`|`/^[0-9]{3}$/`| 
+|`bank_code`|✔|`string`|`/^[0-9]{2,3}$/`| 
 |`account_type`|✔|`string`|`/^[A-Z]{1}$/`| 
 |`beneficiary_name`|✔|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
 |`beneficiary_lastname`|✔|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
@@ -96,7 +96,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9]{3}$/` 
+	Regexp: `/^[0-9]{2,3}$/` 
  
 	Required: `1` 
  
@@ -281,7 +281,7 @@
     {
       "key":"bank_code",
       "type":"string",
-      "regexp":"\/^[0-9]{3}$\/",
+      "regexp":"\/^[0-9]{2,3}$\/",
       "label":{
         "en":"Bank Code",
         "ru":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
