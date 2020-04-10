@@ -228,6 +228,7 @@
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_eur_hpp`](payment_card_eur_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_gbp_hpp`](payment_card_gbp_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_gel_hpp`](payment_card_gel_hpp/)| 
+|![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_kgs_hpp`](payment_card_kgs_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_kzt_hpp`](payment_card_kzt_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_mdl_hpp`](payment_card_mdl_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_ngn_hpp`](payment_card_ngn_hpp/)| 
