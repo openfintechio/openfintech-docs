@@ -40,6 +40,7 @@ The list of [Payout Services](/payout-services/) based on the _Card_
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_pln](/payout-services/payment_card_pln/)|`payment_card_pln`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_gbp](/payout-services/payment_card_gbp/)|`payment_card_gbp`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_ngn](/payout-services/payment_card_ngn/)|`payment_card_ngn`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_kgs](/payout-services/payment_card_kgs/)|`payment_card_kgs`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_tzs](/payout-services/payment_card_tzs/)|`payment_card_tzs`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_cny](/payout-services/payment_card_cny/)|`payment_card_cny`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_usd](/payout-services/payment_card_usd/)|`payment_card_usd`| 

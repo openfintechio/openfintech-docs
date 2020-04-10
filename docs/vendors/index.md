@@ -880,6 +880,7 @@
 |![nakartu](https://static.openfintech.io/vendors/nakartu/logo.svg?w=600&c=v0.59.26#w200) |[**NaKartu**](nakartu/)|`nakartu`| 
 |![nalichnye](https://static.openfintech.io/vendors/nalichnye/logo.svg?w=600&c=v0.59.26#w200) |[**Наличные**](nalichnye/)|`nalichnye`| 
 |![nationalach](https://static.openfintech.io/vendors/nationalach/logo.png?w=600&c=v0.59.26#w200) |[**NationalACH**](nationalach/)|`nationalach`| 
+|![nbkr](https://static.openfintech.io/vendors/nbkr/logo.svg?w=600&c=v0.59.26#w200) |[**National Bank of the Kyrgyz Republic**](nbkr/)|`nbkr`| 
 |![nbkz](https://static.openfintech.io/vendors/nbkz/logo.png?w=600&c=v0.59.26#w200) |[**National Bank of Kazakhstan**](nbkz/)|`nbkz`| 
 |![nbm](https://static.openfintech.io/vendors/nbm/logo.svg?w=600&c=v0.59.26#w200) |[**National Bank of Moldova**](nbm/)|`nbm`| 
 |![nbp](https://static.openfintech.io/vendors/nbp/logo.svg?w=600&c=v0.59.26#w200) |[**National Bank of Poland**](nbp/)|`nbp`| 
