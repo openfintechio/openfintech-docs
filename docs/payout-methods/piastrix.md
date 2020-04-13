@@ -42,6 +42,15 @@ The list of [Payout Services](/payout-services/) based on the _Piastrix_
 |![piastrix](https://static.openfintech.io/payout_methods/piastrix/icon.svg?w=278&c=v0.59.26#w40) |[piastrix_rub](/payout-services/piastrix_rub/)|`piastrix_rub`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Piastrix_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![piastrix](https://static.openfintech.io/payment_providers/piastrix/icon.svg?w=278&c=v0.59.26#w100) |[Piastrix](/payment-providers/piastrix/)|`piastrix`| 
+ 
+
 ## JSON Object 
 
 ```json

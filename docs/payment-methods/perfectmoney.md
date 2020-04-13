@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Perfect M
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
+|![piastrix](https://static.openfintech.io/payment_providers/piastrix/icon.svg?w=278&c=v0.59.26#w100) |[Piastrix](/payment-providers/piastrix/)|`piastrix`| 
  
 
 ## JSON Object 
