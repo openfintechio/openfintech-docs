@@ -59,6 +59,7 @@
 |![banklink](https://static.openfintech.io/payment_methods/banklink/logo.png?w=400&c=v0.59.26#w200) |[**Bank Link**](banklink/)|`banklink`| 
 |![bankofchinanetbanking](https://static.openfintech.io/payment_methods/bankofchinanetbanking/logo.png?w=400&c=v0.59.26#w200) |[**Bank of China netbanking**](bankofchinanetbanking/)|`bankofchinanetbanking`| 
 |![banktransfer](https://static.openfintech.io/payment_methods/banktransfer/logo.png?w=400&c=v0.59.26#w200) |[**Bank transfer**](banktransfer/)|`banktransfer`| 
+|![banktransfer](https://static.openfintech.io/payment_methods/banktransfer/logo.png?w=400&c=v0.59.26#w200) |[**Bank Transfer**](banktransfer/)|`banktransfer`| 
 |![bankzachodniwbk](https://static.openfintech.io/payment_methods/bankzachodniwbk/logo.png?w=400&c=v0.59.26#w200) |[**Bank Zochadni WBK**](bankzachodniwbk/)|`bankzachodniwbk`| 
 |![banrisulbanricompras](https://static.openfintech.io/payment_methods/banrisulbanricompras/logo.png?w=400&c=v0.59.26#w200) |[**Banrisul Banricompras**](banrisulbanricompras/)|`banrisulbanricompras`| 
 |![barpay](https://static.openfintech.io/payment_methods/barpay/logo.png?w=400&c=v0.59.26#w200) |[**BarPay**](barpay/)|`barpay`| 

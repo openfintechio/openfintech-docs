@@ -36,8 +36,8 @@ The list of [Payment Services](/payment-services/) based on the _USSD_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ussd](https://static.openfintech.io/payment_methods/ussd/icon.svg?w=278&c=v0.59.26#w100) |[ussd](/payment-services/ussd/)|`ussd`| 
-|![ussd](https://static.openfintech.io/payment_methods/ussd/icon.svg?w=278&c=v0.59.26#w100) |[ussd](/payment-services/ussd/)|`ussd`| 
+|![ussd](https://static.openfintech.io/payment_methods/ussd/icon.svg?w=278&c=v0.59.26#w100) |[ussd_cny_hpp](/payment-services/ussd_cny_hpp/)|`ussd_cny_hpp`| 
+|![ussd](https://static.openfintech.io/payment_methods/ussd/icon.svg?w=278&c=v0.59.26#w100) |[ussd_ngn_hpp](/payment-services/ussd_ngn_hpp/)|`ussd_ngn_hpp`| 
  
 
 ## JSON Object 
