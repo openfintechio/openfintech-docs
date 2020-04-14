@@ -41,6 +41,7 @@ The list of [Payment Services](/payment-services/) based on the _MuchBetter_
 |![muchbetter](https://static.openfintech.io/payment_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w100) |[muchbetter_usd_invoice](/payment-services/muchbetter_usd_invoice/)|`muchbetter_usd_invoice`| 
 |![muchbetter](https://static.openfintech.io/payment_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w100) |[muchbetter_eur_invoice](/payment-services/muchbetter_eur_invoice/)|`muchbetter_eur_invoice`| 
 |![muchbetter](https://static.openfintech.io/payment_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w100) |[muchbetter_gbp_invoice](/payment-services/muchbetter_gbp_invoice/)|`muchbetter_gbp_invoice`| 
+|![muchbetter](https://static.openfintech.io/payment_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w100) |[muchbetter_brl_invoice](/payment-services/muchbetter_brl_invoice/)|`muchbetter_brl_invoice`| 
  
 
 ## Payment Providers 
