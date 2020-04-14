@@ -102,6 +102,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![xpate](https://static.openfintech.io/payment_providers/xpate/icon.svg?w=278&c=v0.59.26#w100) |[Xpate](/payment-providers/xpate/)|`xpate`| 
 |![cypix](https://static.openfintech.io/payment_providers/cypix/icon.svg?w=278&c=v0.59.26#w100) |[Cypix](/payment-providers/cypix/)|`cypix`| 
 |![taslink](https://static.openfintech.io/payment_providers/taslink/icon.svg?w=278&c=v0.59.26#w100) |[TAS Link](/payment-providers/taslink/)|`taslink`| 
+|![klarna](https://static.openfintech.io/payment_providers/klarna/icon.svg?w=278&c=v0.59.26#w100) |[Klarna](/payment-providers/klarna/)|`klarna`| 
  
 
 ## JSON Object 

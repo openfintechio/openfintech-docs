@@ -19,7 +19,7 @@
  
 **Countries:** 
  
-:	![AU](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/au.svg#w24) 	![DK](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/dk.svg#w24) 	![FJ](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/fj.svg#w24) 	![DE](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/de.svg#w24) 	![NL](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/nl.svg#w24) 	![NO](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/no.svg#w24) 	![SE](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/se.svg#w24) 	![AE](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ae.svg#w24)  
+:	![AU](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/au.svg#w24) 	![DK](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/dk.svg#w24) 	![FJ](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/fj.svg#w24) 	![DE](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/de.svg#w24) 	![NL](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/nl.svg#w24) 	![NO](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/no.svg#w24) 	![SE](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/se.svg#w24) 	![AE](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ae.svg#w24) 	![PL](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/pl.svg#w24)  
 
 ## Images 
 
@@ -44,6 +44,7 @@ The list of [Payment Services](/payment-services/) based on the _Klarna_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![klarna](https://static.openfintech.io/payment_methods/klarna/icon.svg?w=278&c=v0.59.26#w100) |[klarna_eur_hpp](/payment-services/klarna_eur_hpp/)|`klarna_eur_hpp`| 
+|![klarna](https://static.openfintech.io/payment_methods/klarna/icon.svg?w=278&c=v0.59.26#w100) |[klarna_card_pln](/payment-services/klarna_card_pln/)|`klarna_card_pln`| 
  
 
 ## Payment Providers 
@@ -90,7 +91,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Klarna_
     "NL",
     "NO",
     "SE",
-    "AE"
+    "AE",
+    "PL"
   ],
   "category":"invoice_payment"
 }

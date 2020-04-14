@@ -169,6 +169,7 @@
 ||| **K** ||
 |![Karnataka Bank](https://static.openfintech.io/payment_methods/karnataka_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Karnataka Bank**](/payment-methods/karnataka_bank/)|[`karnataka_bank_inr_hpp`](karnataka_bank_inr_hpp/)| 
 |![Kasikorn Bank](https://static.openfintech.io/payment_methods/kasikorn_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Kasikorn Bank**](/payment-methods/kasikorn_bank/)|[`kasikorn_bank_thb_hpp`](kasikorn_bank_thb_hpp/)| 
+|![Klarna](https://static.openfintech.io/payment_methods/klarna/logo.svg?w=400&c=v0.59.26#w200) |[**Klarna**](/payment-methods/klarna/)|[`klarna_card_pln`](klarna_card_pln/)| 
 |![Klarna](https://static.openfintech.io/payment_methods/klarna/logo.svg?w=400&c=v0.59.26#w200) |[**Klarna**](/payment-methods/klarna/)|[`klarna_eur_hpp`](klarna_eur_hpp/)| 
 |![Kookmin Bank](https://static.openfintech.io/payment_methods/kookmin_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Kookmin Bank**](/payment-methods/kookmin_bank/)|[`kookmin_bank_krw_hpp`](kookmin_bank_krw_hpp/)| 
 |![Korea Development Bank](https://static.openfintech.io/payment_methods/korea_development_bank/logo.png?w=400&c=v0.59.26#w200) |[**Korea Development Bank**](/payment-methods/korea_development_bank/)|[`korea_development_bank_krw_hpp`](korea_development_bank_krw_hpp/)| 
