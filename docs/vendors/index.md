@@ -209,6 +209,7 @@
 |![barzahlen](https://static.openfintech.io/vendors/barzahlen/logo.png?w=600&c=v0.59.26#w200) |[**Barzahlen**](barzahlen/)|`barzahlen`| 
 |![bazarmoney.ru](https://static.openfintech.io/vendors/bazarmoney.ru/logo.svg?w=600&c=v0.59.26#w200) |[**BazarMoney**](bazarmoney.ru/)|`bazarmoney.ru`| 
 |![bbva](https://static.openfintech.io/vendors/bbva/logo.png?w=600&c=v0.59.26#w200) |[**BBVA**](bbva/)|`bbva`| 
+|![bcb](https://static.openfintech.io/vendors/bcb/logo.svg?w=600&c=v0.59.26#w200) |[**Central Bank of Brazil**](bcb/)|`bcb`| 
 |![bdo](https://static.openfintech.io/vendors/bdo/logo.svg?w=600&c=v0.59.26#w200) |[**BDO Over-The-Counter**](bdo/)|`bdo`| 
 |![be2bill](https://static.openfintech.io/vendors/be2bill/logo.png?w=600&c=v0.59.26#w200) |[**Be2bill**](be2bill/)|`be2bill`| 
 |![beanstream](https://static.openfintech.io/vendors/beanstream/logo.png?w=600&c=v0.59.26#w200) |[**Beanstream**](beanstream/)|`beanstream`| 
@@ -253,6 +254,7 @@
 |![bnlpositivity](https://static.openfintech.io/vendors/bnlpositivity/logo.png?w=600&c=v0.59.26#w200) |[**BNL POSitivity**](bnlpositivity/)|`bnlpositivity`| 
 |![bnpparibas](https://static.openfintech.io/vendors/bnpparibas/logo.png?w=600&c=v0.59.26#w200) |[**BNP Paribas**](bnpparibas/)|`bnpparibas`| 
 |![boacompra](https://static.openfintech.io/vendors/boacompra/logo.png?w=600&c=v0.59.26#w200) |[**UOL BoaCompra**](boacompra/)|`boacompra`| 
+|![bog](https://static.openfintech.io/vendors/bog/logo.svg?w=600&c=v0.59.26#w200) |[**Bank of Ghana**](bog/)|`bog`| 
 |![boku](https://static.openfintech.io/vendors/boku/logo.png?w=600&c=v0.59.26#w200) |[**BOKU**](boku/)|`boku`| 
 |![boletobancariopay](https://static.openfintech.io/vendors/boletobancariopay/logo.png?w=600&c=v0.59.26#w200) |[**Boleto Bancario**](boletobancariopay/)|`boletobancariopay`| 
 |![borgun](https://static.openfintech.io/vendors/borgun/logo.png?w=600&c=v0.59.26#w200) |[**Borgun**](borgun/)|`borgun`| 
