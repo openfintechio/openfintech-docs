@@ -37,6 +37,7 @@ The list of [Payout Services](/payout-services/) based on the _Card_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_uah](/payout-services/payment_card_uah/)|`payment_card_uah`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[card](/payout-services/card/)|`card`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_pln](/payout-services/payment_card_pln/)|`payment_card_pln`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_gbp](/payout-services/payment_card_gbp/)|`payment_card_gbp`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_ngn](/payout-services/payment_card_ngn/)|`payment_card_ngn`| 

@@ -151,6 +151,7 @@
 ||| **C** ||
 |![CT Net (Chernivtsi)](https://static.openfintech.io/payout_methods/c-t-net-chernovtsy/logo.png?w=400&c=v0.59.26#w24) |[**CT Net (Chernivtsi)**](/payout-methods/c-t-net-chernovtsy/)|[`c-t-net-chernovtsy_uah`](c-t-net-chernovtsy_uah/)|`UAH`| 
 |![CACTUS](https://static.openfintech.io/payout_methods/cactus/logo.png?w=400&c=v0.59.26#w24) |[**CACTUS**](/payout-methods/cactus/)|[`cactus_uah`](cactus_uah/)|`UAH`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`card`](card/)|`XXX`| 
 |![Cashfree bank transfer](https://static.openfintech.io/payout_methods/cashfree_bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Cashfree bank transfer**](/payout-methods/cashfree_bank_transfer/)|[`cashfree_bank_transfer_inr`](cashfree_bank_transfer_inr/)|`INR`| 
 |![Cashfree UPI](https://static.openfintech.io/payout_methods/cashfree_upi/logo.svg?w=400&c=v0.59.26#w24) |[**Cashfree UPI**](/payout-methods/cashfree_upi/)|[`cashfree_upi_inr`](cashfree_upi_inr/)|`INR`| 
 |![CDC - Equipment (Slavyansk)](https://static.openfintech.io/payout_methods/cdc-oborudovanie-slaviansk/logo.svg?w=400&c=v0.59.26#w24) |[**CDC - Equipment (Slavyansk)**](/payout-methods/cdc-oborudovanie-slaviansk/)|[`cdc-oborudovanie-slaviansk_uah`](cdc-oborudovanie-slaviansk_uah/)|`UAH`| 
