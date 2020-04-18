@@ -76,12 +76,6 @@ Feel free to contribute new FinTech entities and data.
 
 Contact us: [info@openfintech.io](mailto:info@openfintech.io)
 
-## Testimonials
-
-_"Fintech international standards are only on the stage of development. That's why we created OpenFinTech.io and made it accessible to the entire community!"_, Founder [PayCore.io](https://paycore.io/), [Denys Kyrychenko](https://www.facebook.com/denkiri).
-
-_"With a constant increase in the number of services, communication between them becomes more and more complicated. OpenFinTech.io - is just-in-time and what we need!"_, Founder [SDK.Finance](https://sdk.finance/), [Pavlo Sidelev](https://www.facebook.com/pavlo.sidelov).                     
-
 # SVG optimization
 ```bash
 find . -name *svg -exec mv {} /tmp/to_be_optimized.svg \; -exec scour -i /tmp/to_be_optimized.svg -o {} --enable-viewboxing --enable-id-stripping --enable-comment-stripping --shorten-ids --indent=none \;
@@ -107,10 +101,7 @@ List of all countries with names and ISO 3166-1 codes in all languages and all d
 
 ## Tools
 
-https://www.jsonschemavalidator.net/
-
-https://www.jsonschema.net/
-
-https://stedolan.github.io/jq/
-
-https://jqplay.org/
+* https://www.jsonschemavalidator.net/
+* https://www.jsonschema.net/
+* https://stedolan.github.io/jq/
+* https://jqplay.org/
