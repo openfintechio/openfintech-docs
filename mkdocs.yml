@@ -5,8 +5,8 @@ site_author: 'OpenFinTech.io (c)'
 site_url: 'https://openfintech.io/'
 
 # Repository
-repo_name: 'paycoreio/openfintech'
-repo_url: 'https://github.com/paycoreio/openfintech'
+#repo_name: 'paycoreio/openfintech'
+#repo_url: 'https://github.com/paycoreio/openfintech'
 edit_uri: ""
 
 # Copyright
