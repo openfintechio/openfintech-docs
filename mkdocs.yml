@@ -29,15 +29,15 @@ theme:
 
 # Customization
 extra:
-  social:
-    - type: 'facebook'
-      link: 'https://facebook.com/paycore.io/'
-    - type: 'twitter'
-      link: 'https://twitter.com/paycoreio'
-    - type: 'linkedin'
-      link: 'https://www.linkedin.com/company/paycore/'
-    - type: 'github'
-      link: 'https://github.com/paycoreio/openfintech'
+#  social:
+#    - type: 'facebook'
+#      link: 'https://facebook.com/paycore.io/'
+#    - type: 'twitter'
+#      link: 'https://twitter.com/paycoreio'
+#    - type: 'linkedin'
+#      link: 'https://www.linkedin.com/company/paycore/'
+#    - type: 'github'
+#      link: 'https://github.com/paycoreio/openfintech'
   manifest: 'images/favicon/manifest.json'
 extra_css:
   - extra.css
