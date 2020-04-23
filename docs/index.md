@@ -3,7 +3,6 @@
 # Open FinTech standards and data
 
 [![Total Downloads](https://poser.pugx.org/paycore/openfintech-data/downloads?format=flat-square)](https://packagist.org/packages/paycore/openfintech-data)
-[![License](https://poser.pugx.org/paycore/openfintech-data/license?format=flat-square)](https://openfintech.io/license/)
 
 ## About
 
