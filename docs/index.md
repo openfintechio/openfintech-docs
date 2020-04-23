@@ -1,4 +1,4 @@
-![OpenFinTech.io Logo](images/oft-logo.svg "OpenFinTech.io")
+![OpenFinTech.io Logo](images/oft-logo.png "OpenFinTech.io")
 
 # Open FinTech standards and data
 
@@ -38,10 +38,6 @@ OpenFinTech catalog includes Data and __Unified Identification Codes__ of the Fi
 - Digital Exchangers: Online, Offline, Stock, etc. 
 
 It also includes different resources like entity logos and icons.
-
-## UML
-
-[![Class Diagram](images/uml-class-diagram.png "Domain Model")](images/uml-class-diagram.png)
 
 ## Agreement
 
