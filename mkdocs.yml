@@ -5,8 +5,8 @@ site_author: 'OpenFinTech.io (c)'
 site_url: 'https://openfintech.io/'
 
 # Repository
-#repo_name: 'paycoreio/openfintech'
-#repo_url: 'https://github.com/paycoreio/openfintech'
+repo_name: 'openfintech-io/openfintech'
+repo_url: 'https://github.com/openfintech-io/openfintech'
 edit_uri: ""
 
 # Copyright
@@ -16,8 +16,6 @@ copyright: '© 2016-2048 OpenFinTech.io. All Rights Reserved.'
 theme:
   name: 'material'
   custom_dir: 'theme'
-  favicon: 'images/favicon/favicon.ico'
-  logo: 'images/oft-icon.svg'
   palette:
     primary: 'indigo'
     accent: 'indigo'
@@ -28,24 +26,13 @@ theme:
     code: Roboto Mono
 
 # Customization
-extra:
-#  social:
-#    - type: 'facebook'
-#      link: 'https://facebook.com/paycore.io/'
-#    - type: 'twitter'
-#      link: 'https://twitter.com/paycoreio'
-#    - type: 'linkedin'
-#      link: 'https://www.linkedin.com/company/paycore/'
-#    - type: 'github'
-#      link: 'https://github.com/paycoreio/openfintech'
-  manifest: 'images/favicon/manifest.json'
 extra_css:
   - extra.css
 
 # Google Analytics
 google_analytics:
   - 'UA-72023338-3'
-  - 'auto'  
+  - 'auto'
 
 # Extensions
 markdown_extensions:
