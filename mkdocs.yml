@@ -1,7 +1,7 @@
 # Project information
-site_name: 'OpenFinTech.io'
-site_description: 'OpenFinTech.io public documentation'
-site_author: 'OpenFinTech.io (c)'
+site_name: 'Open FinTech'
+site_description: 'Open FinTech public documentation'
+site_author: 'Open FinTech (c)'
 site_url: 'https://openfintech.io/'
 
 # Repository
@@ -10,7 +10,7 @@ repo_url: 'https://github.com/openfintech-io/openfintech'
 edit_uri: ""
 
 # Copyright
-copyright: '© 2016-2048 OpenFinTech.io. All Rights Reserved.'
+copyright: '© 2016-2048 Open FinTech. All Rights Reserved.'
 
 # Configuration
 theme:
