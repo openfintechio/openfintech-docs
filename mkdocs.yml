@@ -15,11 +15,11 @@ copyright: '© 2016-2048 Open FinTech. All Rights Reserved.'
 # Configuration
 theme:
   favicon: images/favicon/favicon-32x32.png
-  logo: 'images/oft-icon.svg'
+  logo: 'images/oft-icon-white.svg'
   name: 'material'
   custom_dir: 'theme'
   palette:
-    primary: 'indigo'
+    primary: 'black'
     accent: 'indigo'
   #feature:
   #  tabs: true

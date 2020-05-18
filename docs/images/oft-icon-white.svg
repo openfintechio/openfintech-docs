@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Слой_1"
+   data-name="Слой 1"
+   viewBox="0 0 189.17999 157.21025"
+   version="1.1"
+   sodipodi:docname="oft-icon-black.svg"
+   width="189.17999"
+   height="157.21025"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>logo_open_fintech</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview15"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.6275"
+     inkscape:cx="94.68"
+     inkscape:cy="78.750241"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Слой_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title
+     id="title6">logo_open_fintech</title>
+  <g
+     id="g12"
+     transform="translate(-105.32,-21.539985)">
+    <path
+       class="cls-1"
+       d="M 284.32,75.63 V 46.32 q 0,-11.59 -6.92,-18.19 -6.92,-6.6 -19.61,-6.59 H 142 q -12.6,0 -19.52,6.59 a 44.82,44.82 0 0 0 -2.9,3.43 q -4,5.94 -4,14.76 v 29.31 q 0,10.26 -10.26,10.26 v 28.5 q 10.26,0 10.26,10.27 V 154 q 0,11.61 6.89,18.2 6.89,6.59 19.53,6.55 h 115.79 q 12.68,0 19.61,-6.59 6.93,-6.59 6.92,-18.2 v -29.3 q -0.07,-10.26 10.18,-10.27 v -28.5 q -10.26,0 -10.18,-10.26 z"
+       id="path8"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
+    <path
+       d="m 240.48,127.94 3,-16.37 h -15.1 l 4.26,-23 h 15.13 l 3,-16.37 h -15.1 l 4.71,-25.44 H 223.74 L 219,72.22 h -27.25 l 9.37,-50.68 h -16.63 l -9.39,50.68 h -15.79 l -3,16.37 h 15.78 l -4.25,23 H 152 l -3,16.37 h 15.79 L 160,153.67 h 16.65 l 4.77,-25.73 h 27.28 l -9.42,50.81 h 16.65 l 9.41,-50.81 z m -28.75,-16.37 h -27.27 l 4.25,-23 H 216 Z"
+       id="path10"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
