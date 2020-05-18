@@ -1,4 +1,4 @@
-![OpenFinTech.io Logo](images/oft-logo.svg "OpenFinTech.io")
+![OpenFinTech.io Logo](docs/images/oft-logo.svg "OpenFinTech.io")
 
 # OpenFinTech.io documentation
 
