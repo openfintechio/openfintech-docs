@@ -1,3 +1,5 @@
+![OpenFinTech.io Logo](images/oft-logo.svg "OpenFinTech.io")
+
 # OpenFinTech.io documentation
 
 [![Build Status][ico-travis]][link-travis]
