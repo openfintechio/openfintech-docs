@@ -14,6 +14,6 @@ Please visit our documentation website — [openfintech.io](https://openfintech.
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
 
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/openfintech-io/openfintech-docs/master.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/openfintechio/openfintech-docs/master.svg?style=flat-square
 
-[link-travis]: https://travis-ci.org/paycoreio/openfintech-docs
+[link-travis]: https://travis-ci.org/openfintechio/openfintech-docs
