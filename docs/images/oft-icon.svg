@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Слой_1"
+   data-name="Слой 1"
+   viewBox="0 0 189.17999 157.25"
+   version="1.1"
+   sodipodi:docname="logo_open_fintech_black_icon.svg"
+   width="189.17999"
+   height="157.25"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>logo_open_fintech</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview25"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.88741901"
+     inkscape:cx="23.385519"
+     inkscape:cy="90.292777"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Слой_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title
+     id="title6">logo_open_fintech</title>
+  <g
+     id="g22"
+     transform="translate(-105.32,-21.31)">
+    <polygon
+       class="cls-1"
+       points="140.51,178.35 234.7,178.35 259.9,21.55 167.57,21.55 "
+       id="polygon8"
+       style="fill:#ffffff" />
+    <polygon
+       points="217.01,87.53 188.01,87.53 183.43,112.21 212.44,112.21 "
+       id="polygon10" />
+    <path
+       d="M 180.71,126.88 176,152.61 h -15 l 4.77,-25.73 H 150 l 2.72,-14.67 h 15.78 l 4.58,-24.68 H 157.3 L 160,72.86 h 15.79 l 9.54,-51.53 H 142 q -12.6,0 -19.52,6.59 a 44.82,44.82 0 0 0 -2.9,3.43 q -4,5.94 -4,14.76 v 29.31 q 0,10.26 -10.26,10.26 v 28.5 q 10.26,0 10.26,10.27 v 29.3 q 0,11.61 6.89,18.2 6.89,6.59 19.53,6.59 h 58.14 l 9.58,-51.66 z"
+       id="path12"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 284.32,75.42 V 46.11 q 0,-11.59 -6.92,-18.19 -6.92,-6.6 -19.61,-6.59 h -57.54 l -9.53,51.53 h 29 l 4.71,-25.44 h 14.92 l -4.71,25.44 h 15.14 l -2.72,14.67 h -15.13 l -4.57,24.68 h 15.13 l -2.71,14.67 h -15.14 l -9.58,51.66 h 42.73 q 12.68,0 19.61,-6.59 6.93,-6.59 6.92,-18.2 v -29.3 q -0.07,-10.26 10.18,-10.27 v -28.5 q -10.26,0 -10.18,-10.26 z"
+       id="path14"
+       inkscape:connector-curvature="0" />
+    <polygon
+       class="cls-1"
+       points="185.35,21.33 200.25,21.33 200.26,21.31 185.35,21.32 "
+       id="polygon16"
+       style="fill:#ffffff" />
+    <polygon
+       class="cls-1"
+       points="215.06,178.54 200.14,178.54 200.14,178.55 215.06,178.56 "
+       id="polygon18"
+       style="fill:#ffffff" />
+    <path
+       class="cls-1"
+       d="m 239.78,126.88 2.71,-14.67 h -15.13 l 4.57,-24.68 h 15.14 l 2.72,-14.67 h -15.14 l 4.71,-25.44 h -14.92 l -4.71,25.44 h -29 l 9.53,-51.53 h -14.9 l -9.54,51.53 H 160 l -2.7,14.67 h 15.79 l -4.58,24.68 H 152.73 L 150,126.88 h 15.8 l -4.8,25.73 h 15 l 4.76,-25.73 h 29 l -9.58,51.66 h 14.92 l 9.58,-51.66 z m -27.34,-14.67 h -29 L 188,87.53 h 29 z"
+       id="path20"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
+  </g>
+</svg>
