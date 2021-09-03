@@ -254,6 +254,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![paypound](https://static.openfintech.io/payment_providers/paypound/icon.png?w=278&c=v0.59.26#w100) |[PayPound](/payment-providers/paypound/)|`paypound`| 
 |![blackrabbit](https://static.openfintech.io/payment_providers/blackrabbit/icon.png?w=278&c=v0.59.26#w100) |[BlackRabbit](/payment-providers/blackrabbit/)|`blackrabbit`| 
 |![solidgate](https://static.openfintech.io/payment_providers/solidgate/icon.svg?w=278&c=v0.59.26#w100) |[Solid](/payment-providers/solidgate/)|`solidgate`| 
+|![tinkoff](https://static.openfintech.io/payment_providers/tinkoff/icon.svg?w=278&c=v0.59.26#w100) |[Tinkoff](/payment-providers/tinkoff/)|`tinkoff`| 
  
 
 ## JSON Object 
