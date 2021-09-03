@@ -44,12 +44,11 @@ The list of [Payment Providers](/payment-providers/) that support the _CASHU_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![merchantscout](https://static.openfintech.io/payment_providers/merchantscout/icon.png?w=278&c=v0.59.26#w100) |[MerchantScout](/payment-providers/merchantscout/)|`merchantscout`| 
-|![trustpay](https://static.openfintech.io/payment_providers/trustpay/icon.png?w=278&c=v0.59.26#w100) |[TrustPay](/payment-providers/trustpay/)|`trustpay`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
 |![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
 |![dalpay](https://static.openfintech.io/payment_providers/dalpay/icon.png?w=278&c=v0.59.26#w100) |[DalPay](/payment-providers/dalpay/)|`dalpay`| 
-|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[SafeCharge ](/payment-providers/safecharge/)|`safecharge`| 
+|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/icon.png?w=278&c=v0.59.26#w100) |[Alternative Payments](/payment-providers/alternativepayments/)|`alternativepayments`| 
 |![smart2pay](https://static.openfintech.io/payment_providers/smart2pay/icon.png?w=278&c=v0.59.26#w100) |[Smart2Pay](/payment-providers/smart2pay/)|`smart2pay`| 
 |![walletone](https://static.openfintech.io/payment_providers/walletone/icon.svg?w=278&c=v0.59.26#w100) |[Wallet One](/payment-providers/walletone/)|`walletone`| 

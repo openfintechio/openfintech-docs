@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Megafon_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![megafon](https://static.openfintech.io/payment_methods/megafon/icon.png?w=278&c=v0.59.26#w100) |[megafon_rub_hpp](/payment-services/megafon_rub_hpp/)|`megafon_rub_hpp`| 
+|![megafon](https://static.openfintech.io/payment_methods/megafon/icon.png?w=278&c=v0.59.26#w100) |[megafon_rub_invoice](/payment-services/megafon_rub_invoice/)|`megafon_rub_invoice`| 
  
 
 ## Payment Providers 

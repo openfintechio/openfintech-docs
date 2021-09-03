@@ -44,12 +44,10 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
-|![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
 |![multibanconet](https://static.openfintech.io/payment_methods/multibanconet/icon.png?w=278&c=v0.59.26#w100) |[multibanconet](/payment-methods/multibanconet/)|`multibanconet`| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![cartebleue](https://static.openfintech.io/payment_methods/cartebleue/icon.png?w=278&c=v0.59.26#w100) |[cartebleue](/payment-methods/cartebleue/)|`cartebleue`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
-|![maestro](https://static.openfintech.io/payment_methods/maestro/icon.svg?w=278&c=v0.59.26#w100) |[maestro](/payment-methods/maestro/)|`maestro`| 
 |![cartebancaires](https://static.openfintech.io/payment_methods/cartebancaires/icon.png?w=278&c=v0.59.26#w100) |[cartebancaires](/payment-methods/cartebancaires/)|`cartebancaires`| 
 |![neosurf](https://static.openfintech.io/payment_methods/neosurf/icon.png?w=278&c=v0.59.26#w100) |[neosurf](/payment-methods/neosurf/)|`neosurf`| 
 |![carrierbilling](https://static.openfintech.io/payment_methods/carrierbilling/icon.png?w=278&c=v0.59.26#w100) |[carrierbilling](/payment-methods/carrierbilling/)|`carrierbilling`| 
@@ -151,12 +149,10 @@ The list of supported [Payment Methods](/payment-methods/)
   ],
   "payment_method":[
     "americanexpress",
-    "mastercard",
     "multibanconet",
-    "visa2",
+    "payment_card",
     "cartebleue",
     "paysafecard",
-    "maestro",
     "cartebancaires",
     "neosurf",
     "carrierbilling",

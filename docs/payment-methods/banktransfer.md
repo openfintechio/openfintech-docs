@@ -30,20 +30,6 @@ https://static.openfintech.io/payment_methods/banktransfer/logo.png?w=400&c=v0.5
 https://static.openfintech.io/payment_methods/banktransfer/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payment Services 
- 
-The list of [Payment Services](/payment-services/) based on the _Bank Transfer_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![banktransfer](https://static.openfintech.io/payment_methods/banktransfer/icon.svg?w=278&c=v0.59.26#w100) |[banktransfer_thb_hpp](/payment-services/banktransfer_thb_hpp/)|`banktransfer_thb_hpp`| 
-|![banktransfer](https://static.openfintech.io/payment_methods/banktransfer/icon.svg?w=278&c=v0.59.26#w100) |[banktransfer_vnd_hpp](/payment-services/banktransfer_vnd_hpp/)|`banktransfer_vnd_hpp`| 
-|![banktransfer](https://static.openfintech.io/payment_methods/banktransfer/icon.svg?w=278&c=v0.59.26#w100) |[banktransfer_myr_hpp](/payment-services/banktransfer_myr_hpp/)|`banktransfer_myr_hpp`| 
-|![banktransfer](https://static.openfintech.io/payment_methods/banktransfer/icon.svg?w=278&c=v0.59.26#w100) |[banktransfer_idr_hpp](/payment-services/banktransfer_idr_hpp/)|`banktransfer_idr_hpp`| 
-|![banktransfer](https://static.openfintech.io/payment_methods/banktransfer/icon.svg?w=278&c=v0.59.26#w100) |[banktransfer_ngn_hpp](/payment-services/banktransfer_ngn_hpp/)|`banktransfer_ngn_hpp`| 
-|![banktransfer](https://static.openfintech.io/payment_methods/banktransfer/icon.svg?w=278&c=v0.59.26#w100) |[banktransfer_zar_hpp](/payment-services/banktransfer_zar_hpp/)|`banktransfer_zar_hpp`| 
- 
-
 ## JSON Object 
 
 ```json

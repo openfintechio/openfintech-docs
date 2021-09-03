@@ -11,7 +11,7 @@
  
 :	[EN] Tranzzo 
  
-**Category:** `online_banking` 
+**Category:** `internet_banking` 
  
 
 ## Images 
@@ -41,6 +41,6 @@ https://static.openfintech.io/payment_methods/tranzzo/icon.png?w=278&c=v0.59.26#
   },
   "description":null,
   "countries":null,
-  "category":"online_banking"
+  "category":"internet_banking"
 }
 ```  

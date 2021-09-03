@@ -42,7 +42,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum](/payment-methods/ethereum/)|`ethereum`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin](/payment-methods/bitcoin/)|`bitcoin`| 
 |![bitcoin_cash](https://static.openfintech.io/payment_methods/bitcoin_cash/icon.png?w=278&c=v0.59.26#w100) |[bitcoin_cash](/payment-methods/bitcoin_cash/)|`bitcoin_cash`| 
-|![usdt](https://static.openfintech.io/payment_methods/usdt/icon.png?w=278&c=v0.59.26#w100) |[usdt](/payment-methods/usdt/)|`usdt`| 
+|![usdt](https://static.openfintech.io/payment_methods/usdt/icon.svg?w=278&c=v0.59.26#w100) |[usdt](/payment-methods/usdt/)|`usdt`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
  
 
 ## Payout Methods 
@@ -76,7 +77,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "ethereum",
     "bitcoin",
     "bitcoin_cash",
-    "usdt"
+    "usdt",
+    "payment_card"
   ],
   "payout_method":[
     "mobile",

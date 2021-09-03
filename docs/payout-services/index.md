@@ -7,6 +7,7 @@
 |![11 x 11](https://static.openfintech.io/payout_methods/11-x-11/logo.png?w=400&c=v0.59.26#w24) |[**11 x 11**](/payout-methods/11-x-11/)|[`11-x-11_uah`](11-x-11_uah/)|`UAH`| 
 ||| **3** ||
 |![3DCOM (Kiev region)](https://static.openfintech.io/payout_methods/3dcom-kiyivska-obl/logo.png?w=400&c=v0.59.26#w24) |[**3DCOM (Kiev region)**](/payout-methods/3dcom-kiyivska-obl/)|[`3dcom-kiyivska-obl_uah`](3dcom-kiyivska-obl_uah/)|`UAH`| 
+|![3Mob Utel (by phone number)](https://static.openfintech.io/payout_methods/3mob_utel_phone/logo.png?w=400&c=v0.59.26#w24) |[**3Mob Utel (by phone number)**](/payout-methods/3mob_utel_phone/)|[`3mob_utel_phone_uah`](3mob_utel_phone_uah/)|`UAH`| 
 ||| **4** ||
 |![4Game](https://static.openfintech.io/payout_methods/4game/logo.png?w=400&c=v0.59.26#w24) |[**4Game**](/payout-methods/4game/)|[`4game_uah`](4game_uah/)|`UAH`| 
 |![4Ok net (Kiev)](https://static.openfintech.io/payout_methods/4ok-net-kiev/logo.png?w=400&c=v0.59.26#w24) |[**4Ok net (Kiev)**](/payout-methods/4ok-net-kiev/)|[`4ok-net-kiev_uah`](4ok-net-kiev_uah/)|`UAH`| 
@@ -24,6 +25,9 @@
 |![ADAMANT-TELECOM - Domain and Hosting](https://static.openfintech.io/payout_methods/adamant-telekom-domen-i-khosting/logo.png?w=400&c=v0.59.26#w24) |[**ADAMANT-TELECOM - Domain and Hosting**](/payout-methods/adamant-telekom-domen-i-khosting/)|[`adamant-telekom-domen-i-khosting_uah`](adamant-telekom-domen-i-khosting_uah/)|`UAH`| 
 |![ADAMANT-TELECOM - Internet](https://static.openfintech.io/payout_methods/adamant-telekom-internet/logo.png?w=400&c=v0.59.26#w24) |[**ADAMANT-TELECOM - Internet**](/payout-methods/adamant-telekom-internet/)|[`adamant-telekom-internet_uah`](adamant-telekom-internet_uah/)|`UAH`| 
 |![ADAMANT-TELECOM - UPU and Collocation](https://static.openfintech.io/payout_methods/adamant-telekom-vps-i-kolokeishn/logo.png?w=400&c=v0.59.26#w24) |[**ADAMANT-TELECOM - UPU and Collocation**](/payout-methods/adamant-telekom-vps-i-kolokeishn/)|[`adamant-telekom-vps-i-kolokeishn_uah`](adamant-telekom-vps-i-kolokeishn_uah/)|`UAH`| 
+|![AdvCash](https://static.openfintech.io/payout_methods/advcash_email/logo.svg?w=400&c=v0.59.26#w24) |[**AdvCash**](/payout-methods/advcash_email/)|[`advcash_email_eur`](advcash_email_eur/)|`EUR`| 
+|![AdvCash](https://static.openfintech.io/payout_methods/advcash_email/logo.svg?w=400&c=v0.59.26#w24) |[**AdvCash**](/payout-methods/advcash_email/)|[`advcash_email_rub`](advcash_email_rub/)|`RUB`| 
+|![AdvCash](https://static.openfintech.io/payout_methods/advcash_email/logo.svg?w=400&c=v0.59.26#w24) |[**AdvCash**](/payout-methods/advcash_email/)|[`advcash_email_usd`](advcash_email_usd/)|`USD`| 
 |![AdvCash](https://static.openfintech.io/payout_methods/advcash_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**AdvCash**](/payout-methods/advcash_wallet/)|[`advcash_wallet_brl`](advcash_wallet_brl/)|`BRL`| 
 |![AdvCash](https://static.openfintech.io/payout_methods/advcash_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**AdvCash**](/payout-methods/advcash_wallet/)|[`advcash_wallet_eur`](advcash_wallet_eur/)|`EUR`| 
 |![AdvCash](https://static.openfintech.io/payout_methods/advcash_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**AdvCash**](/payout-methods/advcash_wallet/)|[`advcash_wallet_gbp`](advcash_wallet_gbp/)|`GBP`| 
@@ -48,6 +52,7 @@
 |![Alaska.net (Ternopil)](https://static.openfintech.io/payout_methods/aliaska-net-ternopol/logo.png?w=400&c=v0.59.26#w24) |[**Alaska.net (Ternopil)**](/payout-methods/aliaska-net-ternopol/)|[`aliaska-net-ternopol_uah`](aliaska-net-ternopol_uah/)|`UAH`| 
 |![AllianceNet](https://static.openfintech.io/payout_methods/alliancenet/logo.png?w=400&c=v0.59.26#w24) |[**AllianceNet**](/payout-methods/alliancenet/)|[`alliancenet_uah`](alliancenet_uah/)|`UAH`| 
 |![Allods Online](https://static.openfintech.io/payout_methods/allody-onlain/logo.png?w=400&c=v0.59.26#w24) |[**Allods Online**](/payout-methods/allody-onlain/)|[`allody-onlain_uah`](allody-onlain_uah/)|`UAH`| 
+|![Allods Online](https://static.openfintech.io/payout_methods/allody_online/logo.png?w=400&c=v0.59.26#w24) |[**Allods Online**](/payout-methods/allody_online/)|[`allody_online_uah`](allody_online_uah/)|`UAH`| 
 |![Alрha-fox ФОП Довгунь Ірина Михайлівна](https://static.openfintech.io/payout_methods/alrha-fox-fop-dovgun-irina-mikhailivna/logo.svg?w=400&c=v0.59.26#w24) |[**Alрha-fox ФОП Довгунь Ірина Михайлівна**](/payout-methods/alrha-fox-fop-dovgun-irina-mikhailivna/)|[`alrha-fox-fop-dovgun-irina-mikhailivna_uah`](alrha-fox-fop-dovgun-irina-mikhailivna_uah/)|`UAH`| 
 |![Amazon Gift Card (US) $ 10](https://static.openfintech.io/payout_methods/amazon-gift-card-us-10/logo.png?w=400&c=v0.59.26#w24) |[**Amazon Gift Card (US) $ 10**](/payout-methods/amazon-gift-card-us-10/)|[`amazon-gift-card-us-10_uah`](amazon-gift-card-us-10_uah/)|`UAH`| 
 |![Apelsin.net (Kiev region)](https://static.openfintech.io/payout_methods/apelsin-net-kievskaia-obl/logo.png?w=400&c=v0.59.26#w24) |[**Apelsin.net (Kiev region)**](/payout-methods/apelsin-net-kievskaia-obl/)|[`apelsin-net-kievskaia-obl_uah`](apelsin-net-kievskaia-obl_uah/)|`UAH`| 
@@ -105,6 +110,21 @@
 |![Bank Of NingBo](https://static.openfintech.io/payout_methods/bank_of_ningbo/logo.png?w=400&c=v0.59.26#w24) |[**Bank Of NingBo**](/payout-methods/bank_of_ningbo/)|[`bank_of_ningbo_cny`](bank_of_ningbo_cny/)|`CNY`| 
 |![Bank of Shanghai](https://static.openfintech.io/payout_methods/bank_of_shanghai/logo.svg?w=400&c=v0.59.26#w24) |[**Bank of Shanghai**](/payout-methods/bank_of_shanghai/)|[`bank_of_shanghai_cny`](bank_of_shanghai_cny/)|`CNY`| 
 |![Bank Rakyat Indonesia](https://static.openfintech.io/payout_methods/bank_rakyat_indonesia/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Rakyat Indonesia**](/payout-methods/bank_rakyat_indonesia/)|[`bank_rakyat_indonesia_idr`](bank_rakyat_indonesia_idr/)|`IDR`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_eur`](bank_transfer_eur/)|`EUR`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_gbp`](bank_transfer_gbp/)|`GBP`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_ghs`](bank_transfer_ghs/)|`GHS`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_idr`](bank_transfer_idr/)|`IDR`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_inr`](bank_transfer_inr/)|`INR`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_kes`](bank_transfer_kes/)|`KES`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_myr`](bank_transfer_myr/)|`MYR`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_ngn`](bank_transfer_ngn/)|`NGN`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_pln`](bank_transfer_pln/)|`PLN`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_rub`](bank_transfer_rub/)|`RUB`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_thb`](bank_transfer_thb/)|`THB`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_tzs`](bank_transfer_tzs/)|`TZS`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_usd`](bank_transfer_usd/)|`USD`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_vnd`](bank_transfer_vnd/)|`VND`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_zar`](bank_transfer_zar/)|`ZAR`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/banktransfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/banktransfer/)|[`banktransfer_eur`](banktransfer_eur/)|`EUR`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/banktransfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/banktransfer/)|[`banktransfer_gbp`](banktransfer_gbp/)|`GBP`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/banktransfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/banktransfer/)|[`banktransfer_pln`](banktransfer_pln/)|`PLN`| 
@@ -129,6 +149,12 @@
 |![BISNET (Odessa region)](https://static.openfintech.io/payout_methods/bisnet-odesskaia-oblast/logo.png?w=400&c=v0.59.26#w24) |[**BISNET (Odessa region)**](/payout-methods/bisnet-odesskaia-oblast/)|[`bisnet-odesskaia-oblast_uah`](bisnet-odesskaia-oblast_uah/)|`UAH`| 
 |![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_btc`](bitcoin_btc/)|`BTC`| 
 |![Bitcoin cash](https://static.openfintech.io/payout_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w24) |[**Bitcoin cash**](/payout-methods/bitcoin_cash/)|[`bitcoin_cash_bch`](bitcoin_cash_bch/)|`BCH`| 
+|![Bitcoin cash](https://static.openfintech.io/payout_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w24) |[**Bitcoin cash**](/payout-methods/bitcoin_cash/)|[`bitcoin_cash_eur`](bitcoin_cash_eur/)|`EUR`| 
+|![Bitcoin cash](https://static.openfintech.io/payout_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w24) |[**Bitcoin cash**](/payout-methods/bitcoin_cash/)|[`bitcoin_cash_uah`](bitcoin_cash_uah/)|`UAH`| 
+|![Bitcoin cash](https://static.openfintech.io/payout_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w24) |[**Bitcoin cash**](/payout-methods/bitcoin_cash/)|[`bitcoin_cash_usd`](bitcoin_cash_usd/)|`USD`| 
+|![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_eur`](bitcoin_eur/)|`EUR`| 
+|![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_uah`](bitcoin_uah/)|`UAH`| 
+|![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_usd`](bitcoin_usd/)|`USD`| 
 |![BiTnet (Dobropolye)](https://static.openfintech.io/payout_methods/bitnet-dobropole/logo.png?w=400&c=v0.59.26#w24) |[**BiTnet (Dobropolye)**](/payout-methods/bitnet-dobropole/)|[`bitnet-dobropole_uah`](bitnet-dobropole_uah/)|`UAH`| 
 |![BITTER.NET (Ternopil)](https://static.openfintech.io/payout_methods/bitter-net-ternopil/logo.png?w=400&c=v0.59.26#w24) |[**BITTER.NET (Ternopil)**](/payout-methods/bitter-net-ternopil/)|[`bitter-net-ternopil_uah`](bitter-net-ternopil_uah/)|`UAH`| 
 |![Battle of the Farmers](https://static.openfintech.io/payout_methods/bitva-fermerov/logo.png?w=400&c=v0.59.26#w24) |[**Battle of the Farmers**](/payout-methods/bitva-fermerov/)|[`bitva-fermerov_uah`](bitva-fermerov_uah/)|`UAH`| 
@@ -152,6 +178,17 @@
 |![CT Net (Chernivtsi)](https://static.openfintech.io/payout_methods/c-t-net-chernovtsy/logo.png?w=400&c=v0.59.26#w24) |[**CT Net (Chernivtsi)**](/payout-methods/c-t-net-chernovtsy/)|[`c-t-net-chernovtsy_uah`](c-t-net-chernovtsy_uah/)|`UAH`| 
 |![CACTUS](https://static.openfintech.io/payout_methods/cactus/logo.png?w=400&c=v0.59.26#w24) |[**CACTUS**](/payout-methods/cactus/)|[`cactus_uah`](cactus_uah/)|`UAH`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`card`](card/)|`XXX`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`card_token`](card_token/)|`XXX`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`card_token`](card_token/)|`XXX`| 
+|![CASH](https://static.openfintech.io/payout_methods/cash/logo.png?w=400&c=v0.59.26#w24) |[**CASH**](/payout-methods/cash/)|[`cash_aud`](cash_aud/)|`AUD`| 
+|![CASH](https://static.openfintech.io/payout_methods/cash/logo.png?w=400&c=v0.59.26#w24) |[**CASH**](/payout-methods/cash/)|[`cash_cad`](cash_cad/)|`CAD`| 
+|![CASH](https://static.openfintech.io/payout_methods/cash/logo.png?w=400&c=v0.59.26#w24) |[**CASH**](/payout-methods/cash/)|[`cash_eur`](cash_eur/)|`EUR`| 
+|![CASH](https://static.openfintech.io/payout_methods/cash/logo.png?w=400&c=v0.59.26#w24) |[**CASH**](/payout-methods/cash/)|[`cash_gbp`](cash_gbp/)|`GBP`| 
+|![CASH](https://static.openfintech.io/payout_methods/cash/logo.png?w=400&c=v0.59.26#w24) |[**CASH**](/payout-methods/cash/)|[`cash_kzt`](cash_kzt/)|`KZT`| 
+|![CASH](https://static.openfintech.io/payout_methods/cash/logo.png?w=400&c=v0.59.26#w24) |[**CASH**](/payout-methods/cash/)|[`cash_pln`](cash_pln/)|`PLN`| 
+|![CASH](https://static.openfintech.io/payout_methods/cash/logo.png?w=400&c=v0.59.26#w24) |[**CASH**](/payout-methods/cash/)|[`cash_rub`](cash_rub/)|`RUB`| 
+|![CASH](https://static.openfintech.io/payout_methods/cash/logo.png?w=400&c=v0.59.26#w24) |[**CASH**](/payout-methods/cash/)|[`cash_uah`](cash_uah/)|`UAH`| 
+|![CASH](https://static.openfintech.io/payout_methods/cash/logo.png?w=400&c=v0.59.26#w24) |[**CASH**](/payout-methods/cash/)|[`cash_usd`](cash_usd/)|`USD`| 
 |![Cashfree bank transfer](https://static.openfintech.io/payout_methods/cashfree_bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Cashfree bank transfer**](/payout-methods/cashfree_bank_transfer/)|[`cashfree_bank_transfer_inr`](cashfree_bank_transfer_inr/)|`INR`| 
 |![Cashfree UPI](https://static.openfintech.io/payout_methods/cashfree_upi/logo.svg?w=400&c=v0.59.26#w24) |[**Cashfree UPI**](/payout-methods/cashfree_upi/)|[`cashfree_upi_inr`](cashfree_upi_inr/)|`INR`| 
 |![CDC - Equipment (Slavyansk)](https://static.openfintech.io/payout_methods/cdc-oborudovanie-slaviansk/logo.svg?w=400&c=v0.59.26#w24) |[**CDC - Equipment (Slavyansk)**](/payout-methods/cdc-oborudovanie-slaviansk/)|[`cdc-oborudovanie-slaviansk_uah`](cdc-oborudovanie-slaviansk_uah/)|`UAH`| 
@@ -216,11 +253,14 @@
 |![DKC (Zhytomyr)](https://static.openfintech.io/payout_methods/dkc-zhitomir/logo.png?w=400&c=v0.59.26#w24) |[**DKC (Zhytomyr)**](/payout-methods/dkc-zhitomir/)|[`dkc-zhitomir_uah`](dkc-zhitomir_uah/)|`UAH`| 
 |![DkLan](https://static.openfintech.io/payout_methods/dklan/logo.png?w=400&c=v0.59.26#w24) |[**DkLan**](/payout-methods/dklan/)|[`dklan_uah`](dklan_uah/)|`UAH`| 
 |![dlocal](https://static.openfintech.io/payout_methods/dlocal/logo.svg?w=400&c=v0.59.26#w24) |[**dlocal**](/payout-methods/dlocal/)|[`dlocal_ar_ars`](dlocal_ar_ars/)|`ARS`| 
+|![dlocal](https://static.openfintech.io/payout_methods/dlocal/logo.svg?w=400&c=v0.59.26#w24) |[**dlocal**](/payout-methods/dlocal/)|[`dlocal_bo_bob`](dlocal_bo_bob/)|`BOB`| 
 |![dlocal](https://static.openfintech.io/payout_methods/dlocal/logo.svg?w=400&c=v0.59.26#w24) |[**dlocal**](/payout-methods/dlocal/)|[`dlocal_br_brl`](dlocal_br_brl/)|`BRL`| 
 |![dlocal](https://static.openfintech.io/payout_methods/dlocal/logo.svg?w=400&c=v0.59.26#w24) |[**dlocal**](/payout-methods/dlocal/)|[`dlocal_cl_clp`](dlocal_cl_clp/)|`CLP`| 
 |![dlocal](https://static.openfintech.io/payout_methods/dlocal/logo.svg?w=400&c=v0.59.26#w24) |[**dlocal**](/payout-methods/dlocal/)|[`dlocal_co_cop`](dlocal_co_cop/)|`COP`| 
+|![dlocal](https://static.openfintech.io/payout_methods/dlocal/logo.svg?w=400&c=v0.59.26#w24) |[**dlocal**](/payout-methods/dlocal/)|[`dlocal_in_inr`](dlocal_in_inr/)|`INR`| 
 |![dlocal](https://static.openfintech.io/payout_methods/dlocal/logo.svg?w=400&c=v0.59.26#w24) |[**dlocal**](/payout-methods/dlocal/)|[`dlocal_mx_mxn`](dlocal_mx_mxn/)|`MXN`| 
 |![dlocal](https://static.openfintech.io/payout_methods/dlocal/logo.svg?w=400&c=v0.59.26#w24) |[**dlocal**](/payout-methods/dlocal/)|[`dlocal_pe_pen`](dlocal_pe_pen/)|`PEN`| 
+|![dlocal](https://static.openfintech.io/payout_methods/dlocal/logo.svg?w=400&c=v0.59.26#w24) |[**dlocal**](/payout-methods/dlocal/)|[`dlocal_py_pyg`](dlocal_py_pyg/)|`PYG`| 
 |![LMI (Ivano-Frankivsk region)](https://static.openfintech.io/payout_methods/dms-ivano-frankivska-obl/logo.png?w=400&c=v0.59.26#w24) |[**LMI (Ivano-Frankivsk region)**](/payout-methods/dms-ivano-frankivska-obl/)|[`dms-ivano-frankivska-obl_uah`](dms-ivano-frankivska-obl_uah/)|`UAH`| 
 |![Dnepropetrovsk Heating Network](https://static.openfintech.io/payout_methods/dnepropetrovsk-teploset/logo.png?w=400&c=v0.59.26#w24) |[**Dnepropetrovsk Heating Network**](/payout-methods/dnepropetrovsk-teploset/)|[`dnepropetrovsk-teploset_uah`](dnepropetrovsk-teploset_uah/)|`UAH`| 
 |![Dneprvodokanal](https://static.openfintech.io/payout_methods/dneprvodokanal/logo.png?w=400&c=v0.59.26#w24) |[**Dneprvodokanal**](/payout-methods/dneprvodokanal/)|[`dneprvodokanal_uah`](dneprvodokanal_uah/)|`UAH`| 
@@ -247,6 +287,7 @@
 |![DP Gazpromstach PJSC Ternopolgorgaz](https://static.openfintech.io/payout_methods/dp-gazposttach-pat-ternopilmiskgaz/logo.png?w=400&c=v0.59.26#w24) |[**DP Gazpromstach PJSC Ternopolgorgaz**](/payout-methods/dp-gazposttach-pat-ternopilmiskgaz/)|[`dp-gazposttach-pat-ternopilmiskgaz_uah`](dp-gazposttach-pat-ternopilmiskgaz_uah/)|`UAH`| 
 |![Subsidiary 'KievGazEnerdzhi'](https://static.openfintech.io/payout_methods/dp-kievgazenerdzhi/logo.png?w=400&c=v0.59.26#w24) |[**Subsidiary 'KievGazEnerdzhi'**](/payout-methods/dp-kievgazenerdzhi/)|[`dp-kievgazenerdzhi_uah`](dp-kievgazenerdzhi_uah/)|`UAH`| 
 |![Dragon Nest](https://static.openfintech.io/payout_methods/dragon-nest/logo.png?w=400&c=v0.59.26#w24) |[**Dragon Nest**](/payout-methods/dragon-nest/)|[`dragon-nest_uah`](dragon-nest_uah/)|`UAH`| 
+|![Dragon Nest](https://static.openfintech.io/payout_methods/dragon_nest/logo.png?w=400&c=v0.59.26#w24) |[**Dragon Nest**](/payout-methods/dragon_nest/)|[`dragon_nest_uah`](dragon_nest_uah/)|`UAH`| 
 |![Dragons](https://static.openfintech.io/payout_methods/drakony/logo.png?w=400&c=v0.59.26#w24) |[**Dragons**](/payout-methods/drakony/)|[`drakony_uah`](drakony_uah/)|`UAH`| 
 |![DTS(Дніпропетровська)](https://static.openfintech.io/payout_methods/dts-dnipropetrovska/logo.svg?w=400&c=v0.59.26#w24) |[**DTS(Дніпропетровська)**](/payout-methods/dts-dnipropetrovska/)|[`dts-dnipropetrovska_uah`](dts-dnipropetrovska_uah/)|`UAH`| 
 |![Дворічанський РЕМ АК "Харківобленерго" (за послуги до 31.12.2018)](https://static.openfintech.io/payout_methods/dvorichanskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Дворічанський РЕМ АК "Харківобленерго" (за послуги до 31.12.2018)**](/payout-methods/dvorichanskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|[`dvorichanskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018_uah`](dvorichanskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018_uah/)|`UAH`| 
@@ -255,14 +296,27 @@
 |![E-Installment](https://static.openfintech.io/payout_methods/e-rozstrochka/logo.png?w=400&c=v0.59.26#w24) |[**E-Installment**](/payout-methods/e-rozstrochka/)|[`e-rozstrochka_uah`](e-rozstrochka_uah/)|`UAH`| 
 |![eBay Gift Card $ 25 (US)](https://static.openfintech.io/payout_methods/ebay-gift-card-25-us/logo.png?w=400&c=v0.59.26#w24) |[**eBay Gift Card $ 25 (US)**](/payout-methods/ebay-gift-card-25-us/)|[`ebay-gift-card-25-us_uah`](ebay-gift-card-25-us_uah/)|`UAH`| 
 |![eBay Gift Card $ 5 (US)](https://static.openfintech.io/payout_methods/ebay-gift-card-5-us/logo.png?w=400&c=v0.59.26#w24) |[**eBay Gift Card $ 5 (US)**](/payout-methods/ebay-gift-card-5-us/)|[`ebay-gift-card-5-us_uah`](ebay-gift-card-5-us_uah/)|`UAH`| 
+|![e.Cascad wallet](https://static.openfintech.io/payout_methods/ecascad/logo.svg?w=400&c=v0.59.26#w24) |[**e.Cascad wallet**](/payout-methods/ecascad/)|[`ecascad_account_uah`](ecascad_account_uah/)|`UAH`| 
+|![e.Cascad wallet](https://static.openfintech.io/payout_methods/ecascad/logo.svg?w=400&c=v0.59.26#w24) |[**e.Cascad wallet**](/payout-methods/ecascad/)|[`ecascad_phone_uah`](ecascad_phone_uah/)|`UAH`| 
 |![Ecobanq](https://static.openfintech.io/payout_methods/ecobanq/logo.png?w=400&c=v0.59.26#w24) |[**Ecobanq**](/payout-methods/ecobanq/)|[`ecobanq_inr`](ecobanq_inr/)|`INR`| 
 |![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_aud`](ecopayz_aud/)|`AUD`| 
+|![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_brl`](ecopayz_brl/)|`BRL`| 
 |![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_cad`](ecopayz_cad/)|`CAD`| 
 |![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_eur`](ecopayz_eur/)|`EUR`| 
 |![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_gbp`](ecopayz_gbp/)|`GBP`| 
+|![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_idr`](ecopayz_idr/)|`IDR`| 
+|![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_inr`](ecopayz_inr/)|`INR`| 
+|![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_mdl`](ecopayz_mdl/)|`MDL`| 
+|![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_mxn`](ecopayz_mxn/)|`MXN`| 
+|![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_myr`](ecopayz_myr/)|`MYR`| 
+|![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_ngn`](ecopayz_ngn/)|`NGN`| 
+|![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_pln`](ecopayz_pln/)|`PLN`| 
 |![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_rub`](ecopayz_rub/)|`RUB`| 
+|![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_thb`](ecopayz_thb/)|`THB`| 
 |![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_uah`](ecopayz_uah/)|`UAH`| 
 |![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_usd`](ecopayz_usd/)|`USD`| 
+|![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_uzs`](ecopayz_uzs/)|`UZS`| 
+|![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_vnd`](ecopayz_vnd/)|`VND`| 
 |![Ether (Mangush)](https://static.openfintech.io/payout_methods/efir-mangush/logo.png?w=400&c=v0.59.26#w24) |[**Ether (Mangush)**](/payout-methods/efir-mangush/)|[`efir-mangush_uah`](efir-mangush_uah/)|`UAH`| 
 |![Economic online game Raska](https://static.openfintech.io/payout_methods/ekonomicheskaia-onlain-igra-rashka/logo.png?w=400&c=v0.59.26#w24) |[**Economic online game Raska**](/payout-methods/ekonomicheskaia-onlain-igra-rashka/)|[`ekonomicheskaia-onlain-igra-rashka_uah`](ekonomicheskaia-onlain-igra-rashka_uah/)|`UAH`| 
 |![Eksi.net](https://static.openfintech.io/payout_methods/eksi-net/logo.png?w=400&c=v0.59.26#w24) |[**Eksi.net**](/payout-methods/eksi-net/)|[`eksi-net_uah`](eksi-net_uah/)|`UAH`| 
@@ -271,6 +325,9 @@
 |![ELT (Kiev)](https://static.openfintech.io/payout_methods/elt-kiev/logo.png?w=400&c=v0.59.26#w24) |[**ELT (Kiev)**](/payout-methods/elt-kiev/)|[`elt-kiev_uah`](elt-kiev_uah/)|`UAH`| 
 |![ЄРЦ КП Дніпро](https://static.openfintech.io/payout_methods/erts-kp-dnipro/logo.svg?w=400&c=v0.59.26#w24) |[**ЄРЦ КП Дніпро**](/payout-methods/erts-kp-dnipro/)|[`erts-kp-dnipro_uah`](erts-kp-dnipro_uah/)|`UAH`| 
 |![Ethereum](https://static.openfintech.io/payout_methods/ethereum/logo.svg?w=400&c=v0.59.26#w24) |[**Ethereum**](/payout-methods/ethereum/)|[`ethereum_eth`](ethereum_eth/)|`ETH`| 
+|![Ethereum](https://static.openfintech.io/payout_methods/ethereum/logo.svg?w=400&c=v0.59.26#w24) |[**Ethereum**](/payout-methods/ethereum/)|[`ethereum_eur`](ethereum_eur/)|`EUR`| 
+|![Ethereum](https://static.openfintech.io/payout_methods/ethereum/logo.svg?w=400&c=v0.59.26#w24) |[**Ethereum**](/payout-methods/ethereum/)|[`ethereum_uah`](ethereum_uah/)|`UAH`| 
+|![Ethereum](https://static.openfintech.io/payout_methods/ethereum/logo.svg?w=400&c=v0.59.26#w24) |[**Ethereum**](/payout-methods/ethereum/)|[`ethereum_usd`](ethereum_usd/)|`USD`| 
 |![Etherlink](https://static.openfintech.io/payout_methods/etherlink/logo.svg?w=400&c=v0.59.26#w24) |[**Etherlink**](/payout-methods/etherlink/)|[`etherlink_uah`](etherlink_uah/)|`UAH`| 
 |![Eurogroshi](https://static.openfintech.io/payout_methods/eurogroshi/logo.svg?w=400&c=v0.59.26#w24) |[**Eurogroshi**](/payout-methods/eurogroshi/)|[`eurogroshi_uah`](eurogroshi_uah/)|`UAH`| 
 |![Eurolan](https://static.openfintech.io/payout_methods/eurolan/logo.png?w=400&c=v0.59.26#w24) |[**Eurolan**](/payout-methods/eurolan/)|[`eurolan_uah`](eurolan_uah/)|`UAH`| 
@@ -338,6 +395,7 @@
 |![Global Credit - Credit Extension](https://static.openfintech.io/payout_methods/global-credit-prodlenie-kredita/logo.png?w=400&c=v0.59.26#w24) |[**Global Credit - Credit Extension**](/payout-methods/global-credit-prodlenie-kredita/)|[`global-credit-prodlenie-kredita_uah`](global-credit-prodlenie-kredita_uah/)|`UAH`| 
 |![Global-Net (Zaporizhia)](https://static.openfintech.io/payout_methods/global-net-zaporozhe/logo.png?w=400&c=v0.59.26#w24) |[**Global-Net (Zaporizhia)**](/payout-methods/global-net-zaporozhe/)|[`global-net-zaporozhe_uah`](global-net-zaporozhe_uah/)|`UAH`| 
 |![Global City No](https://static.openfintech.io/payout_methods/global-siti-net/logo.png?w=400&c=v0.59.26#w24) |[**Global City No**](/payout-methods/global-siti-net/)|[`global-siti-net_uah`](global-siti-net_uah/)|`UAH`| 
+|![Global Money](https://static.openfintech.io/payout_methods/globalmoney/logo.svg?w=400&c=v0.59.26#w24) |[**Global Money**](/payout-methods/globalmoney/)|[`globalmoney_uah`](globalmoney_uah/)|`UAH`| 
 |![Godville](https://static.openfintech.io/payout_methods/godvill/logo.png?w=400&c=v0.59.26#w24) |[**Godville**](/payout-methods/godvill/)|[`godvill_uah`](godvill_uah/)|`UAH`| 
 |![Gulf Stream (Chernivtsi)](https://static.openfintech.io/payout_methods/golfstrim-chernivtsi/logo.png?w=400&c=v0.59.26#w24) |[**Gulf Stream (Chernivtsi)**](/payout-methods/golfstrim-chernivtsi/)|[`golfstrim-chernivtsi_uah`](golfstrim-chernivtsi_uah/)|`UAH`| 
 |![Goodline](https://static.openfintech.io/payout_methods/goodline/logo.png?w=400&c=v0.59.26#w24) |[**Goodline**](/payout-methods/goodline/)|[`goodline_uah`](goodline_uah/)|`UAH`| 
@@ -374,6 +432,7 @@
 |![InfoAura](https://static.openfintech.io/payout_methods/infoaura/logo.png?w=400&c=v0.59.26#w24) |[**InfoAura**](/payout-methods/infoaura/)|[`infoaura_uah`](infoaura_uah/)|`UAH`| 
 |![Infocom](https://static.openfintech.io/payout_methods/infokom/logo.png?w=400&c=v0.59.26#w24) |[**Infocom**](/payout-methods/infokom/)|[`infokom_uah`](infokom_uah/)|`UAH`| 
 |![INFOMIR (Odessa)](https://static.openfintech.io/payout_methods/infomir-odessa/logo.png?w=400&c=v0.59.26#w24) |[**INFOMIR (Odessa)**](/payout-methods/infomir-odessa/)|[`infomir-odessa_uah`](infomir-odessa_uah/)|`UAH`| 
+|![Information Technologies](https://static.openfintech.io/payout_methods/information_technology/logo.png?w=400&c=v0.59.26#w24) |[**Information Technologies**](/payout-methods/information_technology/)|[`information_technology_uah`](information_technology_uah/)|`UAH`| 
 |![Infotech (Kiev)](https://static.openfintech.io/payout_methods/infotech-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Infotech (Kiev)**](/payout-methods/infotech-kiev/)|[`infotech-kiev_uah`](infotech-kiev_uah/)|`UAH`| 
 |![Inghamba](https://static.openfintech.io/payout_methods/ingamba/logo.png?w=400&c=v0.59.26#w24) |[**Inghamba**](/payout-methods/ingamba/)|[`ingamba_uah`](ingamba_uah/)|`UAH`| 
 |![Intelekt (Chernivtsi)](https://static.openfintech.io/payout_methods/intelekt-chernovtsy/logo.png?w=400&c=v0.59.26#w24) |[**Intelekt (Chernivtsi)**](/payout-methods/intelekt-chernovtsy/)|[`intelekt-chernovtsy_uah`](intelekt-chernovtsy_uah/)|`UAH`| 
@@ -382,6 +441,8 @@
 |![Internet LTC (Львівська)](https://static.openfintech.io/payout_methods/internet-ltc-lvivska/logo.svg?w=400&c=v0.59.26#w24) |[**Internet LTC (Львівська)**](/payout-methods/internet-ltc-lvivska/)|[`internet-ltc-lvivska_uah`](internet-ltc-lvivska_uah/)|`UAH`| 
 |![Інтернет-провайдер "БІТ"](https://static.openfintech.io/payout_methods/internet-provaider-bit/logo.svg?w=400&c=v0.59.26#w24) |[**Інтернет-провайдер "БІТ"**](/payout-methods/internet-provaider-bit/)|[`internet-provaider-bit_uah`](internet-provaider-bit_uah/)|`UAH`| 
 |![INTERNET TECHNOLOGIES (Kiev)](https://static.openfintech.io/payout_methods/internet-tekhnologiyi-kiyiv/logo.png?w=400&c=v0.59.26#w24) |[**INTERNET TECHNOLOGIES (Kiev)**](/payout-methods/internet-tekhnologiyi-kiyiv/)|[`internet-tekhnologiyi-kiyiv_uah`](internet-tekhnologiyi-kiyiv_uah/)|`UAH`| 
+|![Intertelekom (contract)](https://static.openfintech.io/payout_methods/intertelekom_contract/logo.png?w=400&c=v0.59.26#w24) |[**Intertelekom (contract)**](/payout-methods/intertelekom_contract/)|[`intertelekom_contract_uah`](intertelekom_contract_uah/)|`UAH`| 
+|![Intertelecom](https://static.openfintech.io/payout_methods/intertelekom/logo.png?w=400&c=v0.59.26#w24) |[**Intertelecom**](/payout-methods/intertelekom/)|[`intertelekom_uah`](intertelekom_uah/)|`UAH`| 
 |![Intertelecom](https://static.openfintech.io/payout_methods/intertelekom/logo.png?w=400&c=v0.59.26#w24) |[**Intertelecom**](/payout-methods/intertelekom/)|[`intertelekom_uah`](intertelekom_uah/)|`UAH`| 
 |![Intraffics](https://static.openfintech.io/payout_methods/intraffik/logo.png?w=400&c=v0.59.26#w24) |[**Intraffics**](/payout-methods/intraffik/)|[`intraffik_uah`](intraffik_uah/)|`UAH`| 
 |![Intro.net (Boryspil)](https://static.openfintech.io/payout_methods/intro-net-borispol/logo.png?w=400&c=v0.59.26#w24) |[**Intro.net (Boryspil)**](/payout-methods/intro-net-borispol/)|[`intro-net-borispol_uah`](intro-net-borispol_uah/)|`UAH`| 
@@ -534,6 +595,9 @@
 |![КВАНТ (Мостиська)](https://static.openfintech.io/payout_methods/kvant-mostiska/logo.svg?w=400&c=v0.59.26#w24) |[**КВАНТ (Мостиська)**](/payout-methods/kvant-mostiska/)|[`kvant-mostiska_uah`](kvant-mostiska_uah/)|`UAH`| 
 |![KVAZAR-LINK (Melitopol)](https://static.openfintech.io/payout_methods/kvazar-link-melitopol/logo.png?w=400&c=v0.59.26#w24) |[**KVAZAR-LINK (Melitopol)**](/payout-methods/kvazar-link-melitopol/)|[`kvazar-link-melitopol_uah`](kvazar-link-melitopol_uah/)|`UAH`| 
 |![KyivLink](https://static.openfintech.io/payout_methods/kyivlink/logo.png?w=400&c=v0.59.26#w24) |[**KyivLink**](/payout-methods/kyivlink/)|[`kyivlink_uah`](kyivlink_uah/)|`UAH`| 
+|![Kyivstar (contract)](https://static.openfintech.io/payout_methods/kyivstar_contract/logo.svg?w=400&c=v0.59.26#w24) |[**Kyivstar (contract)**](/payout-methods/kyivstar_contract/)|[`kyivstar_contract_uah`](kyivstar_contract_uah/)|`UAH`| 
+|![Kyivstar (internet)](https://static.openfintech.io/payout_methods/kyivstar_internet/logo.svg?w=400&c=v0.59.26#w24) |[**Kyivstar (internet)**](/payout-methods/kyivstar_internet/)|[`kyivstar_internet_uah`](kyivstar_internet_uah/)|`UAH`| 
+|![Kyivstar (by phone number)](https://static.openfintech.io/payout_methods/kyivstar_phone/logo.svg?w=400&c=v0.59.26#w24) |[**Kyivstar (by phone number)**](/payout-methods/kyivstar_phone/)|[`kyivstar_phone_uah`](kyivstar_phone_uah/)|`UAH`| 
 |![KEKEP number 24](https://static.openfintech.io/payout_methods/kzhep-24/logo.png?w=400&c=v0.59.26#w24) |[**KEKEP number 24**](/payout-methods/kzhep-24/)|[`kzhep-24_uah`](kzhep-24_uah/)|`UAH`| 
 |![KZHEP NGS' Dawn'](https://static.openfintech.io/payout_methods/kzhep-mmr-zoria/logo.png?w=400&c=v0.59.26#w24) |[**KZHEP NGS' Dawn'**](/payout-methods/kzhep-mmr-zoria/)|[`kzhep-mmr-zoria_uah`](kzhep-mmr-zoria_uah/)|`UAH`| 
 |![КЖРЕП-4](https://static.openfintech.io/payout_methods/kzhrep-4/logo.png?w=400&c=v0.59.26#w24) |[**КЖРЕП-4**](/payout-methods/kzhrep-4/)|[`kzhrep-4_uah`](kzhrep-4_uah/)|`UAH`| 
@@ -555,20 +619,27 @@
 |![League of Legends 470 Riot Points](https://static.openfintech.io/payout_methods/league-of-legends-470-riot-points/logo.png?w=400&c=v0.59.26#w24) |[**League of Legends 470 Riot Points**](/payout-methods/league-of-legends-470-riot-points/)|[`league-of-legends-470-riot-points_uah`](league-of-legends-470-riot-points_uah/)|`UAH`| 
 |![League of Legends 5300 Riot Points](https://static.openfintech.io/payout_methods/league-of-legends-5300-riot-points/logo.png?w=400&c=v0.59.26#w24) |[**League of Legends 5300 Riot Points**](/payout-methods/league-of-legends-5300-riot-points/)|[`league-of-legends-5300-riot-points_uah`](league-of-legends-5300-riot-points_uah/)|`UAH`| 
 |![League of Legends 8100 Riot Points](https://static.openfintech.io/payout_methods/league-of-legends-8100-riot-points/logo.png?w=400&c=v0.59.26#w24) |[**League of Legends 8100 Riot Points**](/payout-methods/league-of-legends-8100-riot-points/)|[`league-of-legends-8100-riot-points_uah`](league-of-legends-8100-riot-points_uah/)|`UAH`| 
+|![League of Legends](https://static.openfintech.io/payout_methods/league_of_legends/logo.png?w=400&c=v0.59.26#w24) |[**League of Legends**](/payout-methods/league_of_legends/)|[`league_of_legends_uah`](league_of_legends_uah/)|`UAH`| 
 |![Legend: Sun (Fee-Minor)](https://static.openfintech.io/payout_methods/legenda-nd-feo-minor/logo.png?w=400&c=v0.59.26#w24) |[**Legend: Sun (Fee-Minor)**](/payout-methods/legenda-nd-feo-minor/)|[`legenda-nd-feo-minor_uah`](legenda-nd-feo-minor_uah/)|`UAH`| 
 |![Legend: Sun (Feo Prime)](https://static.openfintech.io/payout_methods/legenda-nd-feo-praim/logo.png?w=400&c=v0.59.26#w24) |[**Legend: Sun (Feo Prime)**](/payout-methods/legenda-nd-feo-praim/)|[`legenda-nd-feo-praim_uah`](legenda-nd-feo-praim_uah/)|`UAH`| 
 |![Леодомофон (Львівська обл)](https://static.openfintech.io/payout_methods/leodomofon-lvivska-obl/logo.svg?w=400&c=v0.59.26#w24) |[**Леодомофон (Львівська обл)**](/payout-methods/leodomofon-lvivska-obl/)|[`leodomofon-lvivska-obl_uah`](leodomofon-lvivska-obl_uah/)|`UAH`| 
 |![LIDER NET (Ivano-Frankivsk)](https://static.openfintech.io/payout_methods/lider-net-ivano-frankovsk/logo.png?w=400&c=v0.59.26#w24) |[**LIDER NET (Ivano-Frankivsk)**](/payout-methods/lider-net-ivano-frankovsk/)|[`lider-net-ivano-frankovsk_uah`](lider-net-ivano-frankovsk_uah/)|`UAH`| 
 |![Lifecell by phone number](https://static.openfintech.io/payout_methods/lifecell-popovnennia-rakhunku-za-nomerom-telef/logo.svg?w=400&c=v0.59.26#w24) |[**Lifecell by phone number**](/payout-methods/lifecell-popovnennia-rakhunku-za-nomerom-telef/)|[`lifecell-popovnennia-rakhunku-za-nomerom-telef_uah`](lifecell-popovnennia-rakhunku-za-nomerom-telef_uah/)|`UAH`| 
 |![Lifecell - replenishment by contract number](https://static.openfintech.io/payout_methods/lifecell-popovnennia-za-nomerom-dogovoru/logo.svg?w=400&c=v0.59.26#w24) |[**Lifecell - replenishment by contract number**](/payout-methods/lifecell-popovnennia-za-nomerom-dogovoru/)|[`lifecell-popovnennia-za-nomerom-dogovoru_uah`](lifecell-popovnennia-za-nomerom-dogovoru_uah/)|`UAH`| 
+|![Lifecell (contract)](https://static.openfintech.io/payout_methods/lifecell_contract/logo.svg?w=400&c=v0.59.26#w24) |[**Lifecell (contract)**](/payout-methods/lifecell_contract/)|[`lifecell_contract_uah`](lifecell_contract_uah/)|`UAH`| 
+|![Lifecell (by phone number)](https://static.openfintech.io/payout_methods/lifecell_phone/logo.svg?w=400&c=v0.59.26#w24) |[**Lifecell (by phone number)**](/payout-methods/lifecell_phone/)|[`lifecell_phone_uah`](lifecell_phone_uah/)|`UAH`| 
 |![LikeNet (Дніпро)](https://static.openfintech.io/payout_methods/likenet-dnipro/logo.svg?w=400&c=v0.59.26#w24) |[**LikeNet (Дніпро)**](/payout-methods/likenet-dnipro/)|[`likenet-dnipro_uah`](likenet-dnipro_uah/)|`UAH`| 
 |![LIMANET (Rozdilna)](https://static.openfintech.io/payout_methods/limanet-rozdilna/logo.png?w=400&c=v0.59.26#w24) |[**LIMANET (Rozdilna)**](/payout-methods/limanet-rozdilna/)|[`limanet-rozdilna_uah`](limanet-rozdilna_uah/)|`UAH`| 
 |![LimNet (Lviv region. And .. Lviv)](https://static.openfintech.io/payout_methods/limnet-lvivska-obl-ta-m-lviv/logo.png?w=400&c=v0.59.26#w24) |[**LimNet (Lviv region. And .. Lviv)**](/payout-methods/limnet-lvivska-obl-ta-m-lviv/)|[`limnet-lvivska-obl-ta-m-lviv_uah`](limnet-lvivska-obl-ta-m-lviv_uah/)|`UAH`| 
 |![Lineage 2](https://static.openfintech.io/payout_methods/lineage-2/logo.png?w=400&c=v0.59.26#w24) |[**Lineage 2**](/payout-methods/lineage-2/)|[`lineage-2_uah`](lineage-2_uah/)|`UAH`| 
+|![Lineage 2](https://static.openfintech.io/payout_methods/lineage_2/logo.png?w=400&c=v0.59.26#w24) |[**Lineage 2**](/payout-methods/lineage_2/)|[`lineage_2_uah`](lineage_2_uah/)|`UAH`| 
 |![LINET (Zaporozhye region)](https://static.openfintech.io/payout_methods/linet-zaporozhskaia-obl/logo.png?w=400&c=v0.59.26#w24) |[**LINET (Zaporozhye region)**](/payout-methods/linet-zaporozhskaia-obl/)|[`linet-zaporozhskaia-obl_uah`](linet-zaporozhskaia-obl_uah/)|`UAH`| 
 |![Linknet (Донецька)](https://static.openfintech.io/payout_methods/linknet-donetska/logo.svg?w=400&c=v0.59.26#w24) |[**Linknet (Донецька)**](/payout-methods/linknet-donetska/)|[`linknet-donetska_uah`](linknet-donetska_uah/)|`UAH`| 
 |![Липецьке РВЕ АК "Харківобленерго" (за послуги до 31.12.2018)](https://static.openfintech.io/payout_methods/lipetske-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Липецьке РВЕ АК "Харківобленерго" (за послуги до 31.12.2018)**](/payout-methods/lipetske-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|[`lipetske-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018_uah`](lipetske-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018_uah/)|`UAH`| 
+|![Litecoin](https://static.openfintech.io/payout_methods/litecoin/logo.png?w=400&c=v0.59.26#w24) |[**Litecoin**](/payout-methods/litecoin/)|[`litecoin_eur`](litecoin_eur/)|`EUR`| 
 |![Litecoin](https://static.openfintech.io/payout_methods/litecoin/logo.png?w=400&c=v0.59.26#w24) |[**Litecoin**](/payout-methods/litecoin/)|[`litecoin_ltc`](litecoin_ltc/)|`LTC`| 
+|![Litecoin](https://static.openfintech.io/payout_methods/litecoin/logo.png?w=400&c=v0.59.26#w24) |[**Litecoin**](/payout-methods/litecoin/)|[`litecoin_uah`](litecoin_uah/)|`UAH`| 
+|![Litecoin](https://static.openfintech.io/payout_methods/litecoin/logo.png?w=400&c=v0.59.26#w24) |[**Litecoin**](/payout-methods/litecoin/)|[`litecoin_usd`](litecoin_usd/)|`USD`| 
 |![Люботинський РВЕ АК "Харківобленерго" (за послуги до 31.12.2018)](https://static.openfintech.io/payout_methods/liubotinskii-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Люботинський РВЕ АК "Харківобленерго" (за послуги до 31.12.2018)**](/payout-methods/liubotinskii-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|[`liubotinskii-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018_uah`](liubotinskii-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018_uah/)|`UAH`| 
 |![Lyukslink (Lutsk)](https://static.openfintech.io/payout_methods/liukslink-lutsk/logo.png?w=400&c=v0.59.26#w24) |[**Lyukslink (Lutsk)**](/payout-methods/liukslink-lutsk/)|[`liukslink-lutsk_uah`](liukslink-lutsk_uah/)|`UAH`| 
 |![LKS OCEAN (Odessa)](https://static.openfintech.io/payout_methods/lks-okean-odessa/logo.png?w=400&c=v0.59.26#w24) |[**LKS OCEAN (Odessa)**](/payout-methods/lks-okean-odessa/)|[`lks-okean-odessa_uah`](lks-okean-odessa_uah/)|`UAH`| 
@@ -584,7 +655,6 @@
 |![LuxLite (Kiev)](https://static.openfintech.io/payout_methods/luxlite-kiev/logo.png?w=400&c=v0.59.26#w24) |[**LuxLite (Kiev)**](/payout-methods/luxlite-kiev/)|[`luxlite-kiev_uah`](luxlite-kiev_uah/)|`UAH`| 
 ||| **M** ||
 |![M-TEL (Uman)](https://static.openfintech.io/payout_methods/m-tel-uman/logo.png?w=400&c=v0.59.26#w24) |[**M-TEL (Uman)**](/payout-methods/m-tel-uman/)|[`m-tel-uman_uah`](m-tel-uman_uah/)|`UAH`| 
-|![Maestro](https://static.openfintech.io/payout_methods/maestro/logo.svg?w=400&c=v0.59.26#w24) |[**Maestro**](/payout-methods/maestro/)|[`maestro_rub`](maestro_rub/)|`RUB`| 
 |![Magical Earths](https://static.openfintech.io/payout_methods/magicheskie-zemli/logo.png?w=400&c=v0.59.26#w24) |[**Magical Earths**](/payout-methods/magicheskie-zemli/)|[`magicheskie-zemli_uah`](magicheskie-zemli_uah/)|`UAH`| 
 |![MAGIСOM (Хмельницька)](https://static.openfintech.io/payout_methods/magisom-khmelnitska/logo.svg?w=400&c=v0.59.26#w24) |[**MAGIСOM (Хмельницька)**](/payout-methods/magisom-khmelnitska/)|[`magisom-khmelnitska_uah`](magisom-khmelnitska_uah/)|`UAH`| 
 |![Magnus (White Church)](https://static.openfintech.io/payout_methods/magnus-belaia-tserkov/logo.png?w=400&c=v0.59.26#w24) |[**Magnus (White Church)**](/payout-methods/magnus-belaia-tserkov/)|[`magnus-belaia-tserkov_uah`](magnus-belaia-tserkov_uah/)|`UAH`| 
@@ -595,7 +665,6 @@
 |![Maxi Taxi (Sumy)](https://static.openfintech.io/payout_methods/maksi-taksi-sumy/logo.png?w=400&c=v0.59.26#w24) |[**Maxi Taxi (Sumy)**](/payout-methods/maksi-taksi-sumy/)|[`maksi-taksi-sumy_uah`](maksi-taksi-sumy_uah/)|`UAH`| 
 |![Malta (Zhytomyr)](https://static.openfintech.io/payout_methods/malta-zhitomir/logo.png?w=400&c=v0.59.26#w24) |[**Malta (Zhytomyr)**](/payout-methods/malta-zhitomir/)|[`malta-zhitomir_uah`](malta-zhitomir_uah/)|`UAH`| 
 |![Mandiri Bank](https://static.openfintech.io/payout_methods/mandiri_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Mandiri Bank**](/payout-methods/mandiri_bank/)|[`mandiri_bank_idr`](mandiri_bank_idr/)|`IDR`| 
-|![MasterCard](https://static.openfintech.io/payout_methods/mastercard/logo.svg?w=400&c=v0.59.26#w24) |[**MasterCard**](/payout-methods/mastercard/)|[`mastercard_rub`](mastercard_rub/)|`RUB`| 
 |![Maximum Net - Internet](https://static.openfintech.io/payout_methods/maximum-net-internet/logo.png?w=400&c=v0.59.26#w24) |[**Maximum Net - Internet**](/payout-methods/maximum-net-internet/)|[`maximum-net-internet_uah`](maximum-net-internet_uah/)|`UAH`| 
 |![Maximum Net - Television](https://static.openfintech.io/payout_methods/maximum-net-telebachennia/logo.png?w=400&c=v0.59.26#w24) |[**Maximum Net - Television**](/payout-methods/maximum-net-telebachennia/)|[`maximum-net-telebachennia_uah`](maximum-net-telebachennia_uah/)|`UAH`| 
 |![Maybank](https://static.openfintech.io/payout_methods/may_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Maybank**](/payout-methods/may_bank/)|[`may_bank_myr`](may_bank_myr/)|`MYR`| 
@@ -615,7 +684,6 @@
 |![Mix Taxi (Kiev)](https://static.openfintech.io/payout_methods/miks-taksi-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Mix Taxi (Kiev)**](/payout-methods/miks-taksi-kiev/)|[`miks-taksi-kiev_uah`](miks-taksi-kiev_uah/)|`UAH`| 
 |![MiLan (Kiev)](https://static.openfintech.io/payout_methods/milan-kiev/logo.png?w=400&c=v0.59.26#w24) |[**MiLan (Kiev)**](/payout-methods/milan-kiev/)|[`milan-kiev_uah`](milan-kiev_uah/)|`UAH`| 
 |![World of Shadows](https://static.openfintech.io/payout_methods/mir-tenei/logo.png?w=400&c=v0.59.26#w24) |[**World of Shadows**](/payout-methods/mir-tenei/)|[`mir-tenei_uah`](mir-tenei_uah/)|`UAH`| 
-|![Mir](https://static.openfintech.io/payout_methods/mir/logo.svg?w=400&c=v0.59.26#w24) |[**Mir**](/payout-methods/mir/)|[`mir_rub`](mir_rub/)|`RUB`| 
 |![MiraNet (Sumy)](https://static.openfintech.io/payout_methods/miranet-sumy/logo.png?w=400&c=v0.59.26#w24) |[**MiraNet (Sumy)**](/payout-methods/miranet-sumy/)|[`miranet-sumy_uah`](miranet-sumy_uah/)|`UAH`| 
 |![Miratel (Odessa)](https://static.openfintech.io/payout_methods/miratel-odessa/logo.svg?w=400&c=v0.59.26#w24) |[**Miratel (Odessa)**](/payout-methods/miratel-odessa/)|[`miratel-odessa_uah`](miratel-odessa_uah/)|`UAH`| 
 |![MironivkaNet](https://static.openfintech.io/payout_methods/mironivkanet/logo.png?w=400&c=v0.59.26#w24) |[**MironivkaNet**](/payout-methods/mironivkanet/)|[`mironivkanet_uah`](mironivkanet_uah/)|`UAH`| 
@@ -639,12 +707,20 @@
 |![MTM](https://static.openfintech.io/payout_methods/mtm/logo.png?w=400&c=v0.59.26#w24) |[**MTM**](/payout-methods/mtm/)|[`mtm_uah`](mtm_uah/)|`UAH`| 
 |![MTS](https://static.openfintech.io/payout_methods/mts/logo.svg?w=400&c=v0.59.26#w24) |[**MTS**](/payout-methods/mts/)|[`mts_rub`](mts_rub/)|`RUB`| 
 |![MuchBetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](/payout-methods/muchbetter/)|[`muchbetter_brl`](muchbetter_brl/)|`BRL`| 
+|![MuchBetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](/payout-methods/muchbetter/)|[`muchbetter_cad`](muchbetter_cad/)|`CAD`| 
 |![MuchBetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](/payout-methods/muchbetter/)|[`muchbetter_eur`](muchbetter_eur/)|`EUR`| 
 |![MuchBetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](/payout-methods/muchbetter/)|[`muchbetter_gbp`](muchbetter_gbp/)|`GBP`| 
+|![MuchBetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](/payout-methods/muchbetter/)|[`muchbetter_idr`](muchbetter_idr/)|`IDR`| 
+|![MuchBetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](/payout-methods/muchbetter/)|[`muchbetter_mxn`](muchbetter_mxn/)|`MXN`| 
+|![MuchBetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](/payout-methods/muchbetter/)|[`muchbetter_myr`](muchbetter_myr/)|`MYR`| 
+|![MuchBetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](/payout-methods/muchbetter/)|[`muchbetter_pln`](muchbetter_pln/)|`PLN`| 
+|![MuchBetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](/payout-methods/muchbetter/)|[`muchbetter_thb`](muchbetter_thb/)|`THB`| 
 |![MuchBetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](/payout-methods/muchbetter/)|[`muchbetter_usd`](muchbetter_usd/)|`USD`| 
+|![MuchBetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](/payout-methods/muchbetter/)|[`muchbetter_vnd`](muchbetter_vnd/)|`VND`| 
 |![MultiNet (Pavlograd)](https://static.openfintech.io/payout_methods/multinet-pavlograd/logo.png?w=400&c=v0.59.26#w24) |[**MultiNet (Pavlograd)**](/payout-methods/multinet-pavlograd/)|[`multinet-pavlograd_uah`](multinet-pavlograd_uah/)|`UAH`| 
 |![My Credit (погашення кредиту)](https://static.openfintech.io/payout_methods/my-credit-pogashennia-kreditu/logo.svg?w=400&c=v0.59.26#w24) |[**My Credit (погашення кредиту)**](/payout-methods/my-credit-pogashennia-kreditu/)|[`my-credit-pogashennia-kreditu_uah`](my-credit-pogashennia-kreditu_uah/)|`UAH`| 
 |![My lands](https://static.openfintech.io/payout_methods/my-lands/logo.png?w=400&c=v0.59.26#w24) |[**My lands**](/payout-methods/my-lands/)|[`my-lands_uah`](my-lands_uah/)|`UAH`| 
+|![My lands](https://static.openfintech.io/payout_methods/my_lands/logo.png?w=400&c=v0.59.26#w24) |[**My lands**](/payout-methods/my_lands/)|[`my_lands_uah`](my_lands_uah/)|`UAH`| 
 |![Mylan (Zhytomyr)](https://static.openfintech.io/payout_methods/mylan-zhitomir/logo.png?w=400&c=v0.59.26#w24) |[**Mylan (Zhytomyr)**](/payout-methods/mylan-zhitomir/)|[`mylan-zhitomir_uah`](mylan-zhitomir_uah/)|`UAH`| 
 ||| **N** ||
 |![N-Line (Kiev)](https://static.openfintech.io/payout_methods/n-line-kiev/logo.png?w=400&c=v0.59.26#w24) |[**N-Line (Kiev)**](/payout-methods/n-line-kiev/)|[`n-line-kiev_uah`](n-line-kiev_uah/)|`UAH`| 
@@ -663,6 +739,7 @@
 |![NetAssist (Kiev)](https://static.openfintech.io/payout_methods/netassist-kiev/logo.png?w=400&c=v0.59.26#w24) |[**NetAssist (Kiev)**](/payout-methods/netassist-kiev/)|[`netassist-kiev_uah`](netassist-kiev_uah/)|`UAH`| 
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_aed`](neteller_aed/)|`AED`| 
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_aud`](neteller_aud/)|`AUD`| 
+|![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_azn`](neteller_azn/)|`AZN`| 
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_bgn`](neteller_bgn/)|`BGN`| 
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_brl`](neteller_brl/)|`BRL`| 
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_cad`](neteller_cad/)|`CAD`| 
@@ -676,10 +753,14 @@
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_inr`](neteller_inr/)|`INR`| 
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_jpy`](neteller_jpy/)|`JPY`| 
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_mad`](neteller_mad/)|`MAD`| 
+|![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_mdl`](neteller_mdl/)|`MDL`| 
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_mxn`](neteller_mxn/)|`MXN`| 
+|![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_mxn`](neteller_mxn/)|`MXN`| 
+|![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_myr`](neteller_myr/)|`MYR`| 
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_myr`](neteller_myr/)|`MYR`| 
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_ngn`](neteller_ngn/)|`NGN`| 
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_nok`](neteller_nok/)|`NOK`| 
+|![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_pkr`](neteller_pkr/)|`PKR`| 
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_pln`](neteller_pln/)|`PLN`| 
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_ron`](neteller_ron/)|`RON`| 
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_rub`](neteller_rub/)|`RUB`| 
@@ -688,6 +769,7 @@
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_tnd`](neteller_tnd/)|`TND`| 
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_twd`](neteller_twd/)|`TWD`| 
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_usd`](neteller_usd/)|`USD`| 
+|![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_uzs`](neteller_uzs/)|`UZS`| 
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_zar`](neteller_zar/)|`ZAR`| 
 |![NetGroup (Kiev)](https://static.openfintech.io/payout_methods/netgroup-kiev/logo.png?w=400&c=v0.59.26#w24) |[**NetGroup (Kiev)**](/payout-methods/netgroup-kiev/)|[`netgroup-kiev_uah`](netgroup-kiev_uah/)|`UAH`| 
 |![Netlink](https://static.openfintech.io/payout_methods/netlink/logo.png?w=400&c=v0.59.26#w24) |[**Netlink**](/payout-methods/netlink/)|[`netlink_uah`](netlink_uah/)|`UAH`| 
@@ -708,6 +790,7 @@
 |![NUK im.adm.Makarova - Paying for tuition, services for registration of documents about education](https://static.openfintech.io/payout_methods/nuk-im-adm-makarova-splata-za-navchannia-poslugi-z-oformlennia-dokumentiv-pro-osvitu/logo.svg?w=400&c=v0.59.26#w24) |[**NUK im.adm.Makarova - Paying for tuition, services for registration of documents about education**](/payout-methods/nuk-im-adm-makarova-splata-za-navchannia-poslugi-z-oformlennia-dokumentiv-pro-osvitu/)|[`nuk-im-adm-makarova-splata-za-navchannia-poslugi-z-oformlennia-dokumentiv-pro-osvitu_uah`](nuk-im-adm-makarova-splata-za-navchannia-poslugi-z-oformlennia-dokumentiv-pro-osvitu_uah/)|`UAH`| 
 ||| **O** ||
 |![O3 (FreeNet)](https://static.openfintech.io/payout_methods/o3-freenet/logo.png?w=400&c=v0.59.26#w24) |[**O3 (FreeNet)**](/payout-methods/o3-freenet/)|[`o3-freenet_uah`](o3-freenet_uah/)|`UAH`| 
+|![O3 (FreeNet)](https://static.openfintech.io/payout_methods/o3_freenet/logo.png?w=400&c=v0.59.26#w24) |[**O3 (FreeNet)**](/payout-methods/o3_freenet/)|[`o3_freenet_uah`](o3_freenet_uah/)|`UAH`| 
 |![OBLTELECOM](https://static.openfintech.io/payout_methods/obltelekom/logo.png?w=400&c=v0.59.26#w24) |[**OBLTELECOM**](/payout-methods/obltelekom/)|[`obltelekom_uah`](obltelekom_uah/)|`UAH`| 
 |![OdessaTower Supply](https://static.openfintech.io/payout_methods/odessateplosnabzhenie/logo.png?w=400&c=v0.59.26#w24) |[**OdessaTower Supply**](/payout-methods/odessateplosnabzhenie/)|[`odessateplosnabzhenie_uah`](odessateplosnabzhenie_uah/)|`UAH`| 
 |![Okinet (Kiev)](https://static.openfintech.io/payout_methods/okinet-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Okinet (Kiev)**](/payout-methods/okinet-kiev/)|[`okinet-kiev_uah`](okinet-kiev_uah/)|`UAH`| 
@@ -860,20 +943,33 @@
 |![Payeer](https://static.openfintech.io/payout_methods/payeer/logo.svg?w=400&c=v0.59.26#w24) |[**Payeer**](/payout-methods/payeer/)|[`payeer_ltc`](payeer_ltc/)|`LTC`| 
 |![Payeer](https://static.openfintech.io/payout_methods/payeer/logo.svg?w=400&c=v0.59.26#w24) |[**Payeer**](/payout-methods/payeer/)|[`payeer_rub`](payeer_rub/)|`RUB`| 
 |![Payeer](https://static.openfintech.io/payout_methods/payeer/logo.svg?w=400&c=v0.59.26#w24) |[**Payeer**](/payout-methods/payeer/)|[`payeer_usd`](payeer_usd/)|`USD`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_amd`](payment_card_amd/)|`AMD`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_azn`](payment_card_azn/)|`AZN`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_bgn`](payment_card_bgn/)|`BGN`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_byn`](payment_card_byn/)|`BYN`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_chf`](payment_card_chf/)|`CHF`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_cny`](payment_card_cny/)|`CNY`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_dkk`](payment_card_dkk/)|`DKK`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_eur`](payment_card_eur/)|`EUR`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_gbp`](payment_card_gbp/)|`GBP`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_ghs`](payment_card_ghs/)|`GHS`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_gip`](payment_card_gip/)|`GIP`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_hkd`](payment_card_hkd/)|`HKD`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_holder_rub`](payment_card_holder_rub/)|`RUB`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_inr`](payment_card_inr/)|`INR`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_jpy`](payment_card_jpy/)|`JPY`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_kes`](payment_card_kes/)|`KES`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_kgs`](payment_card_kgs/)|`KGS`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_kzt`](payment_card_kzt/)|`KZT`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_mdl`](payment_card_mdl/)|`MDL`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_ngn`](payment_card_ngn/)|`NGN`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_nok`](payment_card_nok/)|`NOK`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_nzd`](payment_card_nzd/)|`NZD`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_php`](payment_card_php/)|`PHP`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_pln`](payment_card_pln/)|`PLN`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_rub`](payment_card_rub/)|`RUB`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_sek`](payment_card_sek/)|`SEK`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_sgd`](payment_card_sgd/)|`SGD`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_tjs`](payment_card_tjs/)|`TJS`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_tmt`](payment_card_tmt/)|`TMT`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_tzs`](payment_card_tzs/)|`TZS`| 
@@ -887,6 +983,7 @@
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_email_gbp`](paypal_email_gbp/)|`GBP`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_email_huf`](paypal_email_huf/)|`HUF`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_email_mxn`](paypal_email_mxn/)|`MXN`| 
+|![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_email_php`](paypal_email_php/)|`PHP`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_email_pln`](paypal_email_pln/)|`PLN`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_email_rub`](paypal_email_rub/)|`RUB`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_email_usd`](paypal_email_usd/)|`USD`| 
@@ -896,6 +993,7 @@
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_id_gbp`](paypal_id_gbp/)|`GBP`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_id_huf`](paypal_id_huf/)|`HUF`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_id_mxn`](paypal_id_mxn/)|`MXN`| 
+|![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_id_php`](paypal_id_php/)|`PHP`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_id_rub`](paypal_id_rub/)|`RUB`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_id_usd`](paypal_id_usd/)|`USD`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_phone_aud`](paypal_phone_aud/)|`AUD`| 
@@ -904,6 +1002,7 @@
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_phone_gbp`](paypal_phone_gbp/)|`GBP`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_phone_huf`](paypal_phone_huf/)|`HUF`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_phone_mxn`](paypal_phone_mxn/)|`MXN`| 
+|![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_phone_php`](paypal_phone_php/)|`PHP`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_phone_rub`](paypal_phone_rub/)|`RUB`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_phone_usd`](paypal_phone_usd/)|`USD`| 
 |![PayPoint card](https://static.openfintech.io/payout_methods/paypoint_card/logo.svg?w=400&c=v0.59.26#w24) |[**PayPoint card**](/payout-methods/paypoint_card/)|[`paypoint_card_rub`](paypoint_card_rub/)|`RUB`| 
@@ -914,6 +1013,7 @@
 |![PeopleNet](https://static.openfintech.io/payout_methods/peoplenet/logo.png?w=400&c=v0.59.26#w24) |[**PeopleNet**](/payout-methods/peoplenet/)|[`peoplenet_uah`](peoplenet_uah/)|`UAH`| 
 |![Frontline](https://static.openfintech.io/payout_methods/peredovaia/logo.png?w=400&c=v0.59.26#w24) |[**Frontline**](/payout-methods/peredovaia/)|[`peredovaia_uah`](peredovaia_uah/)|`UAH`| 
 |![Perfect World](https://static.openfintech.io/payout_methods/perfect-world/logo.png?w=400&c=v0.59.26#w24) |[**Perfect World**](/payout-methods/perfect-world/)|[`perfect-world_uah`](perfect-world_uah/)|`UAH`| 
+|![Perfect World](https://static.openfintech.io/payout_methods/perfect_world/logo.png?w=400&c=v0.59.26#w24) |[**Perfect World**](/payout-methods/perfect_world/)|[`perfect_world_uah`](perfect_world_uah/)|`UAH`| 
 |![Perfect Money](https://static.openfintech.io/payout_methods/perfectmoney_transfer/logo.png?w=400&c=v0.59.26#w24) |[**Perfect Money**](/payout-methods/perfectmoney_transfer/)|[`perfectmoney_transfer_btc`](perfectmoney_transfer_btc/)|`BTC`| 
 |![Perfect Money](https://static.openfintech.io/payout_methods/perfectmoney_transfer/logo.png?w=400&c=v0.59.26#w24) |[**Perfect Money**](/payout-methods/perfectmoney_transfer/)|[`perfectmoney_transfer_eur`](perfectmoney_transfer_eur/)|`EUR`| 
 |![Perfect Money](https://static.openfintech.io/payout_methods/perfectmoney_transfer/logo.png?w=400&c=v0.59.26#w24) |[**Perfect Money**](/payout-methods/perfectmoney_transfer/)|[`perfectmoney_transfer_usd`](perfectmoney_transfer_usd/)|`USD`| 
@@ -927,6 +1027,7 @@
 |![Pets](https://static.openfintech.io/payout_methods/pitomtsy/logo.png?w=400&c=v0.59.26#w24) |[**Pets**](/payout-methods/pitomtsy/)|[`pitomtsy_uah`](pitomtsy_uah/)|`UAH`| 
 |![PivnichLine (Rivne region)](https://static.openfintech.io/payout_methods/pivnichline-rovnenskaia-obl/logo.png?w=400&c=v0.59.26#w24) |[**PivnichLine (Rivne region)**](/payout-methods/pivnichline-rovnenskaia-obl/)|[`pivnichline-rovnenskaia-obl_uah`](pivnichline-rovnenskaia-obl_uah/)|`UAH`| 
 |![PointBlank](https://static.openfintech.io/payout_methods/pointblank/logo.png?w=400&c=v0.59.26#w24) |[**PointBlank**](/payout-methods/pointblank/)|[`pointblank_uah`](pointblank_uah/)|`UAH`| 
+|![Pokermatch Account](https://static.openfintech.io/payout_methods/pokermatch_account/logo.svg?w=400&c=v0.59.26#w24) |[**Pokermatch Account**](/payout-methods/pokermatch_account/)|[`pokermatch_account_uah`](pokermatch_account_uah/)|`UAH`| 
 |![Buy](https://static.openfintech.io/payout_methods/pokupon/logo.png?w=400&c=v0.59.26#w24) |[**Buy**](/payout-methods/pokupon/)|[`pokupon_uah`](pokupon_uah/)|`UAH`| 
 |![PollyComm](https://static.openfintech.io/payout_methods/pollycomm/logo.png?w=400&c=v0.59.26#w24) |[**PollyComm**](/payout-methods/pollycomm/)|[`pollycomm_uah`](pollycomm_uah/)|`UAH`| 
 |![Full Pi](https://static.openfintech.io/payout_methods/polnyi-pi/logo.png?w=400&c=v0.59.26#w24) |[**Full Pi**](/payout-methods/polnyi-pi/)|[`polnyi-pi_uah`](polnyi-pi_uah/)|`UAH`| 
@@ -993,6 +1094,9 @@
 |![RHB Bank](https://static.openfintech.io/payout_methods/rhb_bank/logo.svg?w=400&c=v0.59.26#w24) |[**RHB Bank**](/payout-methods/rhb_bank/)|[`rhb_bank_myr`](rhb_bank_myr/)|`MYR`| 
 |![RIA.com](https://static.openfintech.io/payout_methods/ria-com/logo.png?w=400&c=v0.59.26#w24) |[**RIA.com**](/payout-methods/ria-com/)|[`ria-com_uah`](ria-com_uah/)|`UAH`| 
 |![RIOT](https://static.openfintech.io/payout_methods/riot/logo.png?w=400&c=v0.59.26#w24) |[**RIOT**](/payout-methods/riot/)|[`riot_uah`](riot_uah/)|`UAH`| 
+|![Ripple](https://static.openfintech.io/payout_methods/ripple/logo.svg?w=400&c=v0.59.26#w24) |[**Ripple**](/payout-methods/ripple/)|[`ripple_eur`](ripple_eur/)|`EUR`| 
+|![Ripple](https://static.openfintech.io/payout_methods/ripple/logo.svg?w=400&c=v0.59.26#w24) |[**Ripple**](/payout-methods/ripple/)|[`ripple_uah`](ripple_uah/)|`UAH`| 
+|![Ripple](https://static.openfintech.io/payout_methods/ripple/logo.svg?w=400&c=v0.59.26#w24) |[**Ripple**](/payout-methods/ripple/)|[`ripple_usd`](ripple_usd/)|`USD`| 
 |![Rivneoblvodokanal](https://static.openfintech.io/payout_methods/rivneoblvodokanal/logo.png?w=400&c=v0.59.26#w24) |[**Rivneoblvodokanal**](/payout-methods/rivneoblvodokanal/)|[`rivneoblvodokanal_uah`](rivneoblvodokanal_uah/)|`UAH`| 
 |![Roket.Net (Donetsk region)](https://static.openfintech.io/payout_methods/roket-net-donetskaia-obl/logo.png?w=400&c=v0.59.26#w24) |[**Roket.Net (Donetsk region)**](/payout-methods/roket-net-donetskaia-obl/)|[`roket-net-donetskaia-obl_uah`](roket-net-donetskaia-obl_uah/)|`UAH`| 
 |![Rubіn Plus - Telebachennya (m. Nova Kakhovka)](https://static.openfintech.io/payout_methods/rubin-plius-telebachennia-m-nova-kakhovka/logo.png?w=400&c=v0.59.26#w24) |[**Rubіn Plus - Telebachennya (m. Nova Kakhovka)**](/payout-methods/rubin-plius-telebachennia-m-nova-kakhovka/)|[`rubin-plius-telebachennia-m-nova-kakhovka_uah`](rubin-plius-telebachennia-m-nova-kakhovka_uah/)|`UAH`| 
@@ -1066,13 +1170,21 @@
 |![СКАЙ БАНК погашение кредита](https://static.openfintech.io/payout_methods/skai-bank-pogashenie-kredita/logo.svg?w=400&c=v0.59.26#w24) |[**СКАЙ БАНК погашение кредита**](/payout-methods/skai-bank-pogashenie-kredita/)|[`skai-bank-pogashenie-kredita_uah`](skai-bank-pogashenie-kredita_uah/)|`UAH`| 
 |![Skarbnytsya](https://static.openfintech.io/payout_methods/skarbnitsia/logo.png?w=400&c=v0.59.26#w24) |[**Skarbnytsya**](/payout-methods/skarbnitsia/)|[`skarbnitsia_uah`](skarbnitsia_uah/)|`UAH`| 
 |![SCM (Sumy)](https://static.openfintech.io/payout_methods/skm-sumy/logo.png?w=400&c=v0.59.26#w24) |[**SCM (Sumy)**](/payout-methods/skm-sumy/)|[`skm-sumy_uah`](skm-sumy_uah/)|`UAH`| 
+|![Skrill](https://static.openfintech.io/payout_methods/skrill/logo.svg?w=400&c=v0.59.26#w24) |[**Skrill**](/payout-methods/skrill/)|[`skrill_bdt`](skrill_bdt/)|`BDT`| 
 |![Skrill](https://static.openfintech.io/payout_methods/skrill/logo.svg?w=400&c=v0.59.26#w24) |[**Skrill**](/payout-methods/skrill/)|[`skrill_eur`](skrill_eur/)|`EUR`| 
+|![Skrill](https://static.openfintech.io/payout_methods/skrill/logo.svg?w=400&c=v0.59.26#w24) |[**Skrill**](/payout-methods/skrill/)|[`skrill_lkr`](skrill_lkr/)|`LKR`| 
+|![Skrill](https://static.openfintech.io/payout_methods/skrill/logo.svg?w=400&c=v0.59.26#w24) |[**Skrill**](/payout-methods/skrill/)|[`skrill_mdl`](skrill_mdl/)|`MDL`| 
+|![Skrill](https://static.openfintech.io/payout_methods/skrill/logo.svg?w=400&c=v0.59.26#w24) |[**Skrill**](/payout-methods/skrill/)|[`skrill_myr`](skrill_myr/)|`MYR`| 
+|![Skrill](https://static.openfintech.io/payout_methods/skrill/logo.svg?w=400&c=v0.59.26#w24) |[**Skrill**](/payout-methods/skrill/)|[`skrill_npr`](skrill_npr/)|`NPR`| 
+|![Skrill](https://static.openfintech.io/payout_methods/skrill/logo.svg?w=400&c=v0.59.26#w24) |[**Skrill**](/payout-methods/skrill/)|[`skrill_thb`](skrill_thb/)|`THB`| 
+|![Skrill](https://static.openfintech.io/payout_methods/skrill/logo.svg?w=400&c=v0.59.26#w24) |[**Skrill**](/payout-methods/skrill/)|[`skrill_usd`](skrill_usd/)|`USD`| 
 |![Sky2Fly](https://static.openfintech.io/payout_methods/sky2fly/logo.png?w=400&c=v0.59.26#w24) |[**Sky2Fly**](/payout-methods/sky2fly/)|[`sky2fly_uah`](sky2fly_uah/)|`UAH`| 
 |![Skyforge](https://static.openfintech.io/payout_methods/skyforge/logo.png?w=400&c=v0.59.26#w24) |[**Skyforge**](/payout-methods/skyforge/)|[`skyforge_uah`](skyforge_uah/)|`UAH`| 
 |![SkyNet (Ishmael)](https://static.openfintech.io/payout_methods/skynet-izmail/logo.png?w=400&c=v0.59.26#w24) |[**SkyNet (Ishmael)**](/payout-methods/skynet-izmail/)|[`skynet-izmail_uah`](skynet-izmail_uah/)|`UAH`| 
 |![SkyNet (Новояворівськ)](https://static.openfintech.io/payout_methods/skynet-novoiavorivsk/logo.svg?w=400&c=v0.59.26#w24) |[**SkyNet (Новояворівськ)**](/payout-methods/skynet-novoiavorivsk/)|[`skynet-novoiavorivsk_uah`](skynet-novoiavorivsk_uah/)|`UAH`| 
 |![Skype](https://static.openfintech.io/payout_methods/skype/logo.png?w=400&c=v0.59.26#w24) |[**Skype**](/payout-methods/skype/)|[`skype_uah`](skype_uah/)|`UAH`| 
 |![SkyStar(Донецкая)](https://static.openfintech.io/payout_methods/skystar-donetskaia/logo.svg?w=400&c=v0.59.26#w24) |[**SkyStar(Донецкая)**](/payout-methods/skystar-donetskaia/)|[`skystar-donetskaia_uah`](skystar-donetskaia_uah/)|`UAH`| 
+|![Slotoking Account](https://static.openfintech.io/payout_methods/slotoking_account/logo.svg?w=400&c=v0.59.26#w24) |[**Slotoking Account**](/payout-methods/slotoking_account/)|[`slotoking_account_uah`](slotoking_account_uah/)|`UAH`| 
 |![SmartNET (Kakhovka)](https://static.openfintech.io/payout_methods/smartnet-kakhovka/logo.png?w=400&c=v0.59.26#w24) |[**SmartNET (Kakhovka)**](/payout-methods/smartnet-kakhovka/)|[`smartnet-kakhovka_uah`](smartnet-kakhovka_uah/)|`UAH`| 
 |![Smeshariki](https://static.openfintech.io/payout_methods/smeshariki/logo.png?w=400&c=v0.59.26#w24) |[**Smeshariki**](/payout-methods/smeshariki/)|[`smeshariki_uah`](smeshariki_uah/)|`UAH`| 
 |![SobNet (Vinnitsa region)](https://static.openfintech.io/payout_methods/sobnet-vinnitskaia-obl/logo.png?w=400&c=v0.59.26#w24) |[**SobNet (Vinnitsa region)**](/payout-methods/sobnet-vinnitskaia-obl/)|[`sobnet-vinnitskaia-obl_uah`](sobnet-vinnitskaia-obl_uah/)|`UAH`| 
@@ -1435,7 +1547,8 @@
 |![Taxi Zeus 7272 (Dnepropetrovsk)](https://static.openfintech.io/payout_methods/taksi-zevs-7272-dnepropetrovsk/logo.png?w=400&c=v0.59.26#w24) |[**Taxi Zeus 7272 (Dnepropetrovsk)**](/payout-methods/taksi-zevs-7272-dnepropetrovsk/)|[`taksi-zevs-7272-dnepropetrovsk_uah`](taksi-zevs-7272-dnepropetrovsk_uah/)|`UAH`| 
 |![Taxi Zeus 7272 (Kiev)](https://static.openfintech.io/payout_methods/taksi-zevs-7272-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Taxi Zeus 7272 (Kiev)**](/payout-methods/taksi-zevs-7272-kiev/)|[`taksi-zevs-7272-kiev_uah`](taksi-zevs-7272-kiev_uah/)|`UAH`| 
 |![Taxi Zeus 7272 (Odessa)](https://static.openfintech.io/payout_methods/taksi-zevs-7272-odessa/logo.svg?w=400&c=v0.59.26#w24) |[**Taxi Zeus 7272 (Odessa)**](/payout-methods/taksi-zevs-7272-odessa/)|[`taksi-zevs-7272-odessa_uah`](taksi-zevs-7272-odessa_uah/)|`UAH`| 
-|![Tanks online](https://static.openfintech.io/payout_methods/tanki-onlain/logo.png?w=400&c=v0.59.26#w24) |[**Tanks online**](/payout-methods/tanki-onlain/)|[`tanki-onlain_uah`](tanki-onlain_uah/)|`UAH`| 
+|![Tanki online](https://static.openfintech.io/payout_methods/tanki-onlain/logo.png?w=400&c=v0.59.26#w24) |[**Tanki online**](/payout-methods/tanki-onlain/)|[`tanki-onlain_uah`](tanki-onlain_uah/)|`UAH`| 
+|![Tanks online](https://static.openfintech.io/payout_methods/tanki_online/logo.png?w=400&c=v0.59.26#w24) |[**Tanks online**](/payout-methods/tanki_online/)|[`tanki_online_uah`](tanki_online_uah/)|`UAH`| 
 |![Taxi 764(Бровари)](https://static.openfintech.io/payout_methods/taxi-764-brovari/logo.svg?w=400&c=v0.59.26#w24) |[**Taxi 764(Бровари)**](/payout-methods/taxi-764-brovari/)|[`taxi-764-brovari_uah`](taxi-764-brovari_uah/)|`UAH`| 
 |![Taxi Domino – 571(Київ)](https://static.openfintech.io/payout_methods/taxi-domino-571-kiyiv/logo.svg?w=400&c=v0.59.26#w24) |[**Taxi Domino – 571(Київ)**](/payout-methods/taxi-domino-571-kiyiv/)|[`taxi-domino-571-kiyiv_uah`](taxi-domino-571-kiyiv_uah/)|`UAH`| 
 |![TAXI GOLD (Odessa)](https://static.openfintech.io/payout_methods/taxi-gold-odessa/logo.png?w=400&c=v0.59.26#w24) |[**TAXI GOLD (Odessa)**](/payout-methods/taxi-gold-odessa/)|[`taxi-gold-odessa_uah`](taxi-gold-odessa_uah/)|`UAH`| 
@@ -1477,7 +1590,7 @@
 |![Test](https://static.openfintech.io/payout_methods/test/logo.png?w=400&c=v0.59.26#w24) |[**Test**](/payout-methods/test/)|[`test_uah`](test_uah/)|`UAH`| 
 |![Test](https://static.openfintech.io/payout_methods/test/logo.png?w=400&c=v0.59.26#w24) |[**Test**](/payout-methods/test/)|[`test_usd`](test_usd/)|`USD`| 
 |![Test](https://static.openfintech.io/payout_methods/test/logo.png?w=400&c=v0.59.26#w24) |[**Test**](/payout-methods/test/)|[`test_xts`](test_xts/)|`XTS`| 
-|![Tether](https://static.openfintech.io/payout_methods/usdt/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/usdt/)|[`tether_usd`](tether_usd/)|`USD`| 
+|![Tether (Deprecated)](https://static.openfintech.io/payout_methods/usdt/logo.svg?w=400&c=v0.59.26#w24) |[**Tether (Deprecated)**](/payout-methods/usdt/)|[`tether_usd`](tether_usd/)|`USD`| 
 |![TezTelecom for agencies](https://static.openfintech.io/payout_methods/teztelecom-dlia-agenstv/logo.png?w=400&c=v0.59.26#w24) |[**TezTelecom for agencies**](/payout-methods/teztelecom-dlia-agenstv/)|[`teztelecom-dlia-agenstv_uah`](teztelecom-dlia-agenstv_uah/)|`UAH`| 
 |![TezTelecom for tourists](https://static.openfintech.io/payout_methods/teztelecom-dlia-turistov/logo.png?w=400&c=v0.59.26#w24) |[**TezTelecom for tourists**](/payout-methods/teztelecom-dlia-turistov/)|[`teztelecom-dlia-turistov_uah`](teztelecom-dlia-turistov_uah/)|`UAH`| 
 |![the best](https://static.openfintech.io/payout_methods/the-best/logo.png?w=400&c=v0.59.26#w24) |[**the best**](/payout-methods/the-best/)|[`the-best_uah`](the-best_uah/)|`UAH`| 
@@ -1757,6 +1870,8 @@
 |![Triolan - Internet](https://static.openfintech.io/payout_methods/triolan-internet/logo.png?w=400&c=v0.59.26#w24) |[**Triolan - Internet**](/payout-methods/triolan-internet/)|[`triolan-internet_uah`](triolan-internet_uah/)|`UAH`| 
 |![Triolan - TV](https://static.openfintech.io/payout_methods/triolan-tv/logo.png?w=400&c=v0.59.26#w24) |[**Triolan - TV**](/payout-methods/triolan-tv/)|[`triolan-tv_uah`](triolan-tv_uah/)|`UAH`| 
 |![Triolan Wi-Fi](https://static.openfintech.io/payout_methods/triolan-wi-fi/logo.png?w=400&c=v0.59.26#w24) |[**Triolan Wi-Fi**](/payout-methods/triolan-wi-fi/)|[`triolan-wi-fi_uah`](triolan-wi-fi_uah/)|`UAH`| 
+|![Triolan - Internet](https://static.openfintech.io/payout_methods/triolan_internet/logo.png?w=400&c=v0.59.26#w24) |[**Triolan - Internet**](/payout-methods/triolan_internet/)|[`triolan_internet_uah`](triolan_internet_uah/)|`UAH`| 
+|![Triolan - TV](https://static.openfintech.io/payout_methods/triolan_tv/logo.png?w=400&c=v0.59.26#w24) |[**Triolan - TV**](/payout-methods/triolan_tv/)|[`triolan_tv_uah`](triolan_tv_uah/)|`UAH`| 
 |![Tryon](https://static.openfintech.io/payout_methods/trion/logo.png?w=400&c=v0.59.26#w24) |[**Tryon**](/payout-methods/trion/)|[`trion_uah`](trion_uah/)|`UAH`| 
 |![TRK 'BRІZ' (Odessa)](https://static.openfintech.io/payout_methods/trk-briz-odessa/logo.png?w=400&c=v0.59.26#w24) |[**TRK 'BRІZ' (Odessa)**](/payout-methods/trk-briz-odessa/)|[`trk-briz-odessa_uah`](trk-briz-odessa_uah/)|`UAH`| 
 |![TRC KRAЄVID (Nikolaev TSOA) - Internet connection](https://static.openfintech.io/payout_methods/trk-kraevid-nikolaev-tsoa-podkliuchenie-k-internetu/logo.svg?w=400&c=v0.59.26#w24) |[**TRC KRAЄVID (Nikolaev TSOA) - Internet connection**](/payout-methods/trk-kraevid-nikolaev-tsoa-podkliuchenie-k-internetu/)|[`trk-kraevid-nikolaev-tsoa-podkliuchenie-k-internetu_uah`](trk-kraevid-nikolaev-tsoa-podkliuchenie-k-internetu_uah/)|`UAH`| 
@@ -1812,6 +1927,7 @@
 |![УкрПозика(погашення кредиту)](https://static.openfintech.io/payout_methods/ukrpozika-pogashennia-kreditu/logo.svg?w=400&c=v0.59.26#w24) |[**УкрПозика(погашення кредиту)**](/payout-methods/ukrpozika-pogashennia-kreditu/)|[`ukrpozika-pogashennia-kreditu_uah`](ukrpozika-pogashennia-kreditu_uah/)|`UAH`| 
 |![Ukrtelecom (by persons. Account)](https://static.openfintech.io/payout_methods/ukrtelekom-po-lits-schetu/logo.png?w=400&c=v0.59.26#w24) |[**Ukrtelecom (by persons. Account)**](/payout-methods/ukrtelekom-po-lits-schetu/)|[`ukrtelekom-po-lits-schetu_uah`](ukrtelekom-po-lits-schetu_uah/)|`UAH`| 
 |![Ukrtelecom (by phone number)](https://static.openfintech.io/payout_methods/ukrtelekom-po-nomeru-telefona/logo.png?w=400&c=v0.59.26#w24) |[**Ukrtelecom (by phone number)**](/payout-methods/ukrtelekom-po-nomeru-telefona/)|[`ukrtelekom-po-nomeru-telefona_uah`](ukrtelekom-po-nomeru-telefona_uah/)|`UAH`| 
+|![Ukrtelecom (by phone number)](https://static.openfintech.io/payout_methods/ukrtelekom_phone/logo.png?w=400&c=v0.59.26#w24) |[**Ukrtelecom (by phone number)**](/payout-methods/ukrtelekom_phone/)|[`ukrtelekom_phone_uah`](ukrtelekom_phone_uah/)|`UAH`| 
 |![ULTRA CASH](https://static.openfintech.io/payout_methods/ultra-cash/logo.png?w=400&c=v0.59.26#w24) |[**ULTRA CASH**](/payout-methods/ultra-cash/)|[`ultra-cash_uah`](ultra-cash_uah/)|`UAH`| 
 |![Ultranet](https://static.openfintech.io/payout_methods/ultranet/logo.png?w=400&c=v0.59.26#w24) |[**Ultranet**](/payout-methods/ultranet/)|[`ultranet_uah`](ultranet_uah/)|`UAH`| 
 |![UltraXnet (Zhytomyr region, Vinnitsa region)](https://static.openfintech.io/payout_methods/ultraxnet-zhitomirska-obl-vinnitska-obl/logo.png?w=400&c=v0.59.26#w24) |[**UltraXnet (Zhytomyr region, Vinnitsa region)**](/payout-methods/ultraxnet-zhitomirska-obl-vinnitska-obl/)|[`ultraxnet-zhitomirska-obl-vinnitska-obl_uah`](ultraxnet-zhitomirska-obl-vinnitska-obl_uah/)|`UAH`| 
@@ -1844,10 +1960,12 @@
 |![ВАТ «Тернопільобленерго» Заліщицький РЕМ](https://static.openfintech.io/payout_methods/vat-ternopiloblenergo-zalishchitskii-rem/logo.svg?w=400&c=v0.59.26#w24) |[**ВАТ «Тернопільобленерго» Заліщицький РЕМ**](/payout-methods/vat-ternopiloblenergo-zalishchitskii-rem/)|[`vat-ternopiloblenergo-zalishchitskii-rem_uah`](vat-ternopiloblenergo-zalishchitskii-rem_uah/)|`UAH`| 
 |![ВАТ «Тернопільобленерго» Збаразький РЕМ](https://static.openfintech.io/payout_methods/vat-ternopiloblenergo-zbarazkii-rem/logo.svg?w=400&c=v0.59.26#w24) |[**ВАТ «Тернопільобленерго» Збаразький РЕМ**](/payout-methods/vat-ternopiloblenergo-zbarazkii-rem/)|[`vat-ternopiloblenergo-zbarazkii-rem_uah`](vat-ternopiloblenergo-zbarazkii-rem_uah/)|`UAH`| 
 |![ВАТ Тернопільобленерго Зборівський РЕМ](https://static.openfintech.io/payout_methods/vat-ternopiloblenergo-zborivskii-rem/logo.svg?w=400&c=v0.59.26#w24) |[**ВАТ Тернопільобленерго Зборівський РЕМ**](/payout-methods/vat-ternopiloblenergo-zborivskii-rem/)|[`vat-ternopiloblenergo-zborivskii-rem_uah`](vat-ternopiloblenergo-zborivskii-rem_uah/)|`UAH`| 
-|![Vega Internet](https://static.openfintech.io/payout_methods/vega-internet/logo.png?w=400&c=v0.59.26#w24) |[**Vega Internet**](/payout-methods/vega-internet/)|[`vega-internet_uah`](vega-internet_uah/)|`UAH`| 
+|![VCreditos wallet](https://static.openfintech.io/payout_methods/vcreditos/logo.svg?w=400&c=v0.59.26#w24) |[**VCreditos wallet**](/payout-methods/vcreditos/)|[`vcreditos_brl`](vcreditos_brl/)|`BRL`| 
+|![Vega Internet](https://static.openfintech.io/payout_methods/vega-internet/logo.svg?w=400&c=v0.59.26#w24) |[**Vega Internet**](/payout-methods/vega-internet/)|[`vega-internet_uah`](vega-internet_uah/)|`UAH`| 
 |![Vega equipment](https://static.openfintech.io/payout_methods/vega-oborudovanie/logo.png?w=400&c=v0.59.26#w24) |[**Vega equipment**](/payout-methods/vega-oborudovanie/)|[`vega-oborudovanie_uah`](vega-oborudovanie_uah/)|`UAH`| 
 |![Vega telephony (personal account)](https://static.openfintech.io/payout_methods/vega-telefoniia-lits-schet/logo.png?w=400&c=v0.59.26#w24) |[**Vega telephony (personal account)**](/payout-methods/vega-telefoniia-lits-schet/)|[`vega-telefoniia-lits-schet_uah`](vega-telefoniia-lits-schet_uah/)|`UAH`| 
 |![Vega telephony (tel. Number)](https://static.openfintech.io/payout_methods/vega-telefoniia-nomer-tel/logo.png?w=400&c=v0.59.26#w24) |[**Vega telephony (tel. Number)**](/payout-methods/vega-telefoniia-nomer-tel/)|[`vega-telefoniia-nomer-tel_uah`](vega-telefoniia-nomer-tel_uah/)|`UAH`| 
+|![Vega contract](https://static.openfintech.io/payout_methods/vega_contract/logo.png?w=400&c=v0.59.26#w24) |[**Vega contract**](/payout-methods/vega_contract/)|[`vega_contract_uah`](vega_contract_uah/)|`UAH`| 
 |![Великобурлукський РЕМ АК "Харківобленерго"(за послуги до 31.12.2018) ](https://static.openfintech.io/payout_methods/velikoburlukskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Великобурлукський РЕМ АК "Харківобленерго"(за послуги до 31.12.2018) **](/payout-methods/velikoburlukskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|[`velikoburlukskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018_uah`](velikoburlukskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018_uah/)|`UAH`| 
 |![Welton Telecom (by personal code)](https://static.openfintech.io/payout_methods/velton-telekom-po-personalnomu-kodu/logo.png?w=400&c=v0.59.26#w24) |[**Welton Telecom (by personal code)**](/payout-methods/velton-telekom-po-personalnomu-kodu/)|[`velton-telekom-po-personalnomu-kodu_uah`](velton-telekom-po-personalnomu-kodu_uah/)|`UAH`| 
 |![Welton Telecom (by phone)](https://static.openfintech.io/payout_methods/velton-telekom-po-telefonu/logo.png?w=400&c=v0.59.26#w24) |[**Welton Telecom (by phone)**](/payout-methods/velton-telekom-po-telefonu/)|[`velton-telekom-po-telefonu_uah`](velton-telekom-po-telefonu_uah/)|`UAH`| 
@@ -1863,7 +1981,6 @@
 |![VinCityNet (Vinnitsa)](https://static.openfintech.io/payout_methods/vincitynet-vinnitsa/logo.png?w=400&c=v0.59.26#w24) |[**VinCityNet (Vinnitsa)**](/payout-methods/vincitynet-vinnitsa/)|[`vincitynet-vinnitsa_uah`](vincitynet-vinnitsa_uah/)|`UAH`| 
 |![VINER TELECOM](https://static.openfintech.io/payout_methods/viner-telekom/logo.png?w=400&c=v0.59.26#w24) |[**VINER TELECOM**](/payout-methods/viner-telekom/)|[`viner-telekom_uah`](viner-telekom_uah/)|`UAH`| 
 |![Virtual Football League](https://static.openfintech.io/payout_methods/virtualnaia-futbolnaia-liga/logo.png?w=400&c=v0.59.26#w24) |[**Virtual Football League**](/payout-methods/virtualnaia-futbolnaia-liga/)|[`virtualnaia-futbolnaia-liga_uah`](virtualnaia-futbolnaia-liga_uah/)|`UAH`| 
-|![Visa](https://static.openfintech.io/payout_methods/visa/logo.svg?w=400&c=v0.59.26#w24) |[**Visa**](/payout-methods/visa/)|[`visa_rub`](visa_rub/)|`RUB`| 
 |![VITA.NET (Chernivtsi)](https://static.openfintech.io/payout_methods/vita-net-chernovtsy/logo.png?w=400&c=v0.59.26#w24) |[**VITA.NET (Chernivtsi)**](/payout-methods/vita-net-chernovtsy/)|[`vita-net-chernovtsy_uah`](vita-net-chernovtsy_uah/)|`UAH`| 
 |![VIVAT TV (Kharkov)](https://static.openfintech.io/payout_methods/vivat-tv-kharkov/logo.png?w=400&c=v0.59.26#w24) |[**VIVAT TV (Kharkov)**](/payout-methods/vivat-tv-kharkov/)|[`vivat-tv-kharkov_uah`](vivat-tv-kharkov_uah/)|`UAH`| 
 |![VO 'Hours Yar heating system'](https://static.openfintech.io/payout_methods/vo-chasiv-iar-teplomerezha/logo.svg?w=400&c=v0.59.26#w24) |[**VO 'Hours Yar heating system'**](/payout-methods/vo-chasiv-iar-teplomerezha/)|[`vo-chasiv-iar-teplomerezha_uah`](vo-chasiv-iar-teplomerezha_uah/)|`UAH`| 
@@ -1879,6 +1996,8 @@
 |![Vodacom Mpesa](https://static.openfintech.io/payout_methods/vodacom/logo.png?w=400&c=v0.59.26#w24) |[**Vodacom Mpesa**](/payout-methods/vodacom/)|[`vodacom_tzs`](vodacom_tzs/)|`TZS`| 
 |![Vodafone (by personal account)](https://static.openfintech.io/payout_methods/vodafone-po-litsevomu-schetu/logo.svg?w=400&c=v0.59.26#w24) |[**Vodafone (by personal account)**](/payout-methods/vodafone-po-litsevomu-schetu/)|[`vodafone-po-litsevomu-schetu_uah`](vodafone-po-litsevomu-schetu_uah/)|`UAH`| 
 |![Vodafone (by phone number)](https://static.openfintech.io/payout_methods/vodafone-po-nomeru-telefona/logo.svg?w=400&c=v0.59.26#w24) |[**Vodafone (by phone number)**](/payout-methods/vodafone-po-nomeru-telefona/)|[`vodafone-po-nomeru-telefona_uah`](vodafone-po-nomeru-telefona_uah/)|`UAH`| 
+|![Vodafone (contract)](https://static.openfintech.io/payout_methods/vodafone_contract/logo.svg?w=400&c=v0.59.26#w24) |[**Vodafone (contract)**](/payout-methods/vodafone_contract/)|[`vodafone_contract_uah`](vodafone_contract_uah/)|`UAH`| 
+|![Vodafone (by phone number)](https://static.openfintech.io/payout_methods/vodafone_phone/logo.svg?w=400&c=v0.59.26#w24) |[**Vodafone (by phone number)**](/payout-methods/vodafone_phone/)|[`vodafone_phone_uah`](vodafone_phone_uah/)|`UAH`| 
 |![Vodokanal (Borispol)](https://static.openfintech.io/payout_methods/vodokanal-g-borispol/logo.png?w=400&c=v0.59.26#w24) |[**Vodokanal (Borispol)**](/payout-methods/vodokanal-g-borispol/)|[`vodokanal-g-borispol_uah`](vodokanal-g-borispol_uah/)|`UAH`| 
 |![Vodokanal (Yagotin)](https://static.openfintech.io/payout_methods/vodokanal-g-iagotin/logo.png?w=400&c=v0.59.26#w24) |[**Vodokanal (Yagotin)**](/payout-methods/vodokanal-g-iagotin/)|[`vodokanal-g-iagotin_uah`](vodokanal-g-iagotin_uah/)|`UAH`| 
 |![Vodokanal Kherson](https://static.openfintech.io/payout_methods/vodokanal-kherson/logo.png?w=400&c=v0.59.26#w24) |[**Vodokanal Kherson**](/payout-methods/vodokanal-kherson/)|[`vodokanal-kherson_uah`](vodokanal-kherson_uah/)|`UAH`| 
@@ -1887,6 +2006,7 @@
 |![Mafia Wars](https://static.openfintech.io/payout_methods/voiny-mafii/logo.png?w=400&c=v0.59.26#w24) |[**Mafia Wars**](/payout-methods/voiny-mafii/)|[`voiny-mafii_uah`](voiny-mafii_uah/)|`UAH`| 
 |![War of Thrones](https://static.openfintech.io/payout_methods/voiny-prestolov/logo.png?w=400&c=v0.59.26#w24) |[**War of Thrones**](/payout-methods/voiny-prestolov/)|[`voiny-prestolov_uah`](voiny-prestolov_uah/)|`UAH`| 
 |![Воля(Інтернет)](https://static.openfintech.io/payout_methods/volia-internet/logo.svg?w=400&c=v0.59.26#w24) |[**Воля(Інтернет)**](/payout-methods/volia-internet/)|[`volia-internet_uah`](volia-internet_uah/)|`UAH`| 
+|![Воля(Інтернет)](https://static.openfintech.io/payout_methods/volia_internet/logo.png?w=400&c=v0.59.26#w24) |[**Воля(Інтернет)**](/payout-methods/volia_internet/)|[`volia_internet_uah`](volia_internet_uah/)|`UAH`| 
 |![Volyn Optical Networks](https://static.openfintech.io/payout_methods/volinski-optichni-merezhi/logo.png?w=400&c=v0.59.26#w24) |[**Volyn Optical Networks**](/payout-methods/volinski-optichni-merezhi/)|[`volinski-optichni-merezhi_uah`](volinski-optichni-merezhi_uah/)|`UAH`| 
 |![Volnovakhskoe PUVKH (water of Donbass)](https://static.openfintech.io/payout_methods/volnovakhskoe-puvkkh-voda-donbassa/logo.png?w=400&c=v0.59.26#w24) |[**Volnovakhskoe PUVKH (water of Donbass)**](/payout-methods/volnovakhskoe-puvkkh-voda-donbassa/)|[`volnovakhskoe-puvkkh-voda-donbassa_uah`](volnovakhskoe-puvkkh-voda-donbassa_uah/)|`UAH`| 
 |![VolsNet (Odessa)](https://static.openfintech.io/payout_methods/volsnet-odessa/logo.png?w=400&c=v0.59.26#w24) |[**VolsNet (Odessa)**](/payout-methods/volsnet-odessa/)|[`volsnet-odessa_uah`](volsnet-odessa_uah/)|`UAH`| 
@@ -1896,6 +2016,7 @@
 |![Life cycle Ariadne](https://static.openfintech.io/payout_methods/vzhts-ariadna/logo.png?w=400&c=v0.59.26#w24) |[**Life cycle Ariadne**](/payout-methods/vzhts-ariadna/)|[`vzhts-ariadna_uah`](vzhts-ariadna_uah/)|`UAH`| 
 ||| **W** ||
 |![War Thunder](https://static.openfintech.io/payout_methods/war-thunder/logo.png?w=400&c=v0.59.26#w24) |[**War Thunder**](/payout-methods/war-thunder/)|[`war-thunder_uah`](war-thunder_uah/)|`UAH`| 
+|![War Thunder](https://static.openfintech.io/payout_methods/war_thunder/logo.png?w=400&c=v0.59.26#w24) |[**War Thunder**](/payout-methods/war_thunder/)|[`war_thunder_uah`](war_thunder_uah/)|`UAH`| 
 |![Warface](https://static.openfintech.io/payout_methods/warface/logo.png?w=400&c=v0.59.26#w24) |[**Warface**](/payout-methods/warface/)|[`warface_uah`](warface_uah/)|`UAH`| 
 |![WEB service (login) (Zhytomyr region)](https://static.openfintech.io/payout_methods/web-service-login-zhitomirskaia-obl/logo.png?w=400&c=v0.59.26#w24) |[**WEB service (login) (Zhytomyr region)**](/payout-methods/web-service-login-zhitomirskaia-obl/)|[`web-service-login-zhitomirskaia-obl_uah`](web-service-login-zhitomirskaia-obl_uah/)|`UAH`| 
 |![WEB service (account number) (Zhytomyr region)](https://static.openfintech.io/payout_methods/web-service-nomer-scheta-zhitomirskaia-obl/logo.png?w=400&c=v0.59.26#w24) |[**WEB service (account number) (Zhytomyr region)**](/payout-methods/web-service-nomer-scheta-zhitomirskaia-obl/)|[`web-service-nomer-scheta-zhitomirskaia-obl_uah`](web-service-nomer-scheta-zhitomirskaia-obl_uah/)|`UAH`| 
@@ -1908,13 +2029,18 @@
 |![WIFI.IN.UA](https://static.openfintech.io/payout_methods/wifi-in-ua/logo.png?w=400&c=v0.59.26#w24) |[**WIFI.IN.UA**](/payout-methods/wifi-in-ua/)|[`wifi-in-ua_uah`](wifi-in-ua_uah/)|`UAH`| 
 |![Windows Phone Store Gift Card (US) $ 15](https://static.openfintech.io/payout_methods/windows-phone-store-gift-card-us-15/logo.png?w=400&c=v0.59.26#w24) |[**Windows Phone Store Gift Card (US) $ 15**](/payout-methods/windows-phone-store-gift-card-us-15/)|[`windows-phone-store-gift-card-us-15_uah`](windows-phone-store-gift-card-us-15_uah/)|`UAH`| 
 |![Windows Phone Store Gift Card (US) $ 25](https://static.openfintech.io/payout_methods/windows-phone-store-gift-card-us-25/logo.png?w=400&c=v0.59.26#w24) |[**Windows Phone Store Gift Card (US) $ 25**](/payout-methods/windows-phone-store-gift-card-us-25/)|[`windows-phone-store-gift-card-us-25_uah`](windows-phone-store-gift-card-us-25_uah/)|`UAH`| 
+|![WinPay](https://static.openfintech.io/payout_methods/winpay/logo.svg?w=400&c=v0.59.26#w24) |[**WinPay**](/payout-methods/winpay/)|[`winpay_eur`](winpay_eur/)|`EUR`| 
 |![WinPay](https://static.openfintech.io/payout_methods/winpay/logo.svg?w=400&c=v0.59.26#w24) |[**WinPay**](/payout-methods/winpay/)|[`winpay_rub`](winpay_rub/)|`RUB`| 
+|![WinPay](https://static.openfintech.io/payout_methods/winpay/logo.svg?w=400&c=v0.59.26#w24) |[**WinPay**](/payout-methods/winpay/)|[`winpay_usd`](winpay_usd/)|`USD`| 
 |![Wintelecom (Vinnitsa)](https://static.openfintech.io/payout_methods/wintelecom-vinnitsa/logo.png?w=400&c=v0.59.26#w24) |[**Wintelecom (Vinnitsa)**](/payout-methods/wintelecom-vinnitsa/)|[`wintelecom-vinnitsa_uah`](wintelecom-vinnitsa_uah/)|`UAH`| 
 |![Wizards World Nick payment](https://static.openfintech.io/payout_methods/wizards-world-oplata-po-niku/logo.png?w=400&c=v0.59.26#w24) |[**Wizards World Nick payment**](/payout-methods/wizards-world-oplata-po-niku/)|[`wizards-world-oplata-po-niku_uah`](wizards-world-oplata-po-niku_uah/)|`UAH`| 
 |![Wizards World WID payment](https://static.openfintech.io/payout_methods/wizards-world-oplata-po-wid/logo.png?w=400&c=v0.59.26#w24) |[**Wizards World WID payment**](/payout-methods/wizards-world-oplata-po-wid/)|[`wizards-world-oplata-po-wid_uah`](wizards-world-oplata-po-wid_uah/)|`UAH`| 
 |![World of Tanks](https://static.openfintech.io/payout_methods/world-of-tanks/logo.png?w=400&c=v0.59.26#w24) |[**World of Tanks**](/payout-methods/world-of-tanks/)|[`world-of-tanks_uah`](world-of-tanks_uah/)|`UAH`| 
 |![World of Warplanes](https://static.openfintech.io/payout_methods/world-of-warplanes/logo.png?w=400&c=v0.59.26#w24) |[**World of Warplanes**](/payout-methods/world-of-warplanes/)|[`world-of-warplanes_uah`](world-of-warplanes_uah/)|`UAH`| 
 |![World of Warships](https://static.openfintech.io/payout_methods/world-of-warships/logo.png?w=400&c=v0.59.26#w24) |[**World of Warships**](/payout-methods/world-of-warships/)|[`world-of-warships_uah`](world-of-warships_uah/)|`UAH`| 
+|![World of Tanks](https://static.openfintech.io/payout_methods/world_of_tanks/logo.png?w=400&c=v0.59.26#w24) |[**World of Tanks**](/payout-methods/world_of_tanks/)|[`world_of_tanks_uah`](world_of_tanks_uah/)|`UAH`| 
+|![World of Warplanes](https://static.openfintech.io/payout_methods/world_of_warplanes/logo.svg?w=400&c=v0.59.26#w24) |[**World of Warplanes**](/payout-methods/world_of_warplanes/)|[`world_of_warplanes_uah`](world_of_warplanes_uah/)|`UAH`| 
+|![World of Warships](https://static.openfintech.io/payout_methods/world_of_warships/logo.png?w=400&c=v0.59.26#w24) |[**World of Warships**](/payout-methods/world_of_warships/)|[`world_of_warships_uah`](world_of_warships_uah/)|`UAH`| 
 |![WULKAN ISP (Kiev)](https://static.openfintech.io/payout_methods/wulkan-isp-kiev/logo.png?w=400&c=v0.59.26#w24) |[**WULKAN ISP (Kiev)**](/payout-methods/wulkan-isp-kiev/)|[`wulkan-isp-kiev_uah`](wulkan-isp-kiev_uah/)|`UAH`| 
 ||| **X** ||
 |![X-Net, Khotyn - Net (Chernivtsi region)](https://static.openfintech.io/payout_methods/x-net-khotin-net-chernovitskaia-obl/logo.png?w=400&c=v0.59.26#w24) |[**X-Net, Khotyn - Net (Chernivtsi region)**](/payout-methods/x-net-khotin-net-chernovitskaia-obl/)|[`x-net-khotin-net-chernovitskaia-obl_uah`](x-net-khotin-net-chernovitskaia-obl_uah/)|`UAH`| 
@@ -1922,7 +2048,6 @@
 |![Xata Net](https://static.openfintech.io/payout_methods/xata-net/logo.png?w=400&c=v0.59.26#w24) |[**Xata Net**](/payout-methods/xata-net/)|[`xata-net_uah`](xata-net_uah/)|`UAH`| 
 |![Xbox Live Gift Card (US) $ 10](https://static.openfintech.io/payout_methods/xbox-live-gift-card-us-10/logo.png?w=400&c=v0.59.26#w24) |[**Xbox Live Gift Card (US) $ 10**](/payout-methods/xbox-live-gift-card-us-10/)|[`xbox-live-gift-card-us-10_uah`](xbox-live-gift-card-us-10_uah/)|`UAH`| 
 |![XBYTE](https://static.openfintech.io/payout_methods/xbyte/logo.png?w=400&c=v0.59.26#w24) |[**XBYTE**](/payout-methods/xbyte/)|[`xbyte_uah`](xbyte_uah/)|`UAH`| 
-|![Xpate](https://static.openfintech.io/payout_methods/xpate/logo.svg?w=400&c=v0.59.26#w24) |[**Xpate**](/payout-methods/xpate/)|[`xpate_card_eur`](xpate_card_eur/)|`EUR`| 
 |![XTRA TV](https://static.openfintech.io/payout_methods/xtra-tv/logo.png?w=400&c=v0.59.26#w24) |[**XTRA TV**](/payout-methods/xtra-tv/)|[`xtra-tv_uah`](xtra-tv_uah/)|`UAH`| 
 ||| **Y** ||
 |![Yandex.Money](https://static.openfintech.io/payout_methods/yandexmoney/logo.svg?w=400&c=v0.59.26#w24) |[**Yandex.Money**](/payout-methods/yandexmoney/)|[`yandexmoney_rub`](yandexmoney_rub/)|`RUB`| 

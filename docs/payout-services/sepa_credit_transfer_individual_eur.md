@@ -25,7 +25,7 @@
 |`first_name`|✔|`string`|`/^(\w){3,64}$/`| 
 |`last_name`|✔|`string`|`/^(\w){3,64}$/`| 
 |`iban`|✔|`string`|`/^[A-Z]{2}(\w){13,29}$/`| 
-|`descriptor`|✔|`string`|`/^[A-z,a-z,0-9]{4,128}$/`| 
+|`descriptor`|✔|`string`|`/^[A-Za-z,0-9]{4,128}$/`| 
  
 
 ### Details 
@@ -88,7 +88,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-z,a-z,0-9]{4,128}$/` 
+	Regexp: `/^[A-Za-z,0-9]{4,128}$/` 
  
 	Required: `1` 
  
@@ -182,7 +182,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0435",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043e\u043f\u0438\u0441"
       },
-      "regexp":"\/^[A-z,a-z,0-9]{4,128}$\/",
+      "regexp":"\/^[A-Za-z,0-9]{4,128}$\/",
       "required":true,
       "position":4
     }

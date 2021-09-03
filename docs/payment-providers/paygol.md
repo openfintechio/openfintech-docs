@@ -43,7 +43,7 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
 |![chinaunionpay](https://static.openfintech.io/payment_methods/chinaunionpay/icon.svg?w=278&c=v0.59.26#w100) |[chinaunionpay](/payment-methods/chinaunionpay/)|`chinaunionpay`| 
 |![debitobradesco](https://static.openfintech.io/payment_methods/debitobradesco/icon.png?w=278&c=v0.59.26#w100) |[debitobradesco](/payment-methods/debitobradesco/)|`debitobradesco`| 
@@ -51,7 +51,6 @@ The list of supported [Payment Methods](/payment-methods/)
 |![banamex](https://static.openfintech.io/payment_methods/banamex/icon.svg?w=278&c=v0.59.26#w100) |[banamex](/payment-methods/banamex/)|`banamex`| 
 |![magna](https://static.openfintech.io/payment_methods/magna/icon.svg?w=278&c=v0.59.26#w100) |[magna](/payment-methods/magna/)|`magna`| 
 |![webpayplus](https://static.openfintech.io/payment_methods/webpayplus/icon.svg?w=278&c=v0.59.26#w100) |[webpayplus](/payment-methods/webpayplus/)|`webpayplus`| 
-|![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
 |![dinersclub](https://static.openfintech.io/payment_methods/dinersclub/icon.svg?w=278&c=v0.59.26#w100) |[dinersclub](/payment-methods/dinersclub/)|`dinersclub`| 
 |![discover](https://static.openfintech.io/payment_methods/discover/icon.svg?w=278&c=v0.59.26#w100) |[discover](/payment-methods/discover/)|`discover`| 
 |![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.png?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
@@ -172,7 +171,7 @@ The list of supported [Payment Methods](/payment-methods/)
     "VN"
   ],
   "payment_method":[
-    "visa2",
+    "payment_card",
     "paysafecard",
     "chinaunionpay",
     "debitobradesco",
@@ -180,7 +179,6 @@ The list of supported [Payment Methods](/payment-methods/)
     "banamex",
     "magna",
     "webpayplus",
-    "mastercard",
     "dinersclub",
     "discover",
     "visadebit",

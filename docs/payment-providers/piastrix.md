@@ -45,6 +45,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum](/payment-methods/ethereum/)|`ethereum`| 
 |![megafon](https://static.openfintech.io/payment_methods/megafon/icon.png?w=278&c=v0.59.26#w100) |[megafon](/payment-methods/megafon/)|`megafon`| 
 |![mts](https://static.openfintech.io/payment_methods/mts/icon.png?w=278&c=v0.59.26#w100) |[mts](/payment-methods/mts/)|`mts`| 
+|![terminal_rf](https://static.openfintech.io/payment_methods/terminal_rf/icon.svg?w=278&c=v0.59.26#w100) |[terminal_rf](/payment-methods/terminal_rf/)|`terminal_rf`| 
 |![piastrix](https://static.openfintech.io/payment_methods/piastrix/icon.svg?w=278&c=v0.59.26#w100) |[piastrix](/payment-methods/piastrix/)|`piastrix`| 
 |![tele2ru](https://static.openfintech.io/payment_methods/tele2ru/icon.svg?w=278&c=v0.59.26#w100) |[tele2ru](/payment-methods/tele2ru/)|`tele2ru`| 
 |![yandexmoney](https://static.openfintech.io/payment_methods/yandexmoney/icon.svg?w=278&c=v0.59.26#w100) |[yandexmoney](/payment-methods/yandexmoney/)|`yandexmoney`| 
@@ -65,11 +66,14 @@ The list of supported [Payout Methods](/payout-methods/)
 |![megafon](https://static.openfintech.io/payout_methods/megafon/icon.svg?w=278&c=v0.59.26#w40) |[megafon](payout-methodsmegafon/)|`megafon`| 
 |![mts](https://static.openfintech.io/payout_methods/mts/icon.svg?w=278&c=v0.59.26#w40) |[mts](payout-methodsmts/)|`mts`| 
 |![piastrix](https://static.openfintech.io/payout_methods/piastrix/icon.svg?w=278&c=v0.59.26#w40) |[piastrix](payout-methodspiastrix/)|`piastrix`| 
+|![vodafone_phone](https://static.openfintech.io/payout_methods/vodafone_phone/icon.svg?w=278&c=v0.59.26#w40) |[vodafone_phone](payout-methodsvodafone_phone/)|`vodafone_phone`| 
+|![lifecell_phone](https://static.openfintech.io/payout_methods/lifecell_phone/icon.svg?w=278&c=v0.59.26#w40) |[lifecell_phone](payout-methodslifecell_phone/)|`lifecell_phone`| 
+|![kyivstar_phone](https://static.openfintech.io/payout_methods/kyivstar_phone/icon.svg?w=278&c=v0.59.26#w40) |[kyivstar_phone](payout-methodskyivstar_phone/)|`kyivstar_phone`| 
 |![tele2ru](https://static.openfintech.io/payout_methods/tele2ru/icon.svg?w=278&c=v0.59.26#w40) |[tele2ru](payout-methodstele2ru/)|`tele2ru`| 
 |![yandexmoney](https://static.openfintech.io/payout_methods/yandexmoney/icon.svg?w=278&c=v0.59.26#w40) |[yandexmoney](payout-methodsyandexmoney/)|`yandexmoney`| 
 |![perfectmoney_transfer](https://static.openfintech.io/payout_methods/perfectmoney_transfer/icon.svg?w=278&c=v0.59.26#w40) |[perfectmoney_transfer](payout-methodsperfectmoney_transfer/)|`perfectmoney_transfer`| 
 |![payeer](https://static.openfintech.io/payout_methods/payeer/icon.png?w=278&c=v0.59.26#w40) |[payeer](payout-methodspayeer/)|`payeer`| 
-|![advcash_wallet](https://static.openfintech.io/payout_methods/advcash_wallet/icon.svg?w=278&c=v0.59.26#w40) |[advcash_wallet](payout-methodsadvcash_wallet/)|`advcash_wallet`| 
+|![advcash_email](https://static.openfintech.io/payout_methods/advcash_email/icon.svg?w=278&c=v0.59.26#w40) |[advcash_email](payout-methodsadvcash_email/)|`advcash_email`| 
 |![webmoneytransfer](https://static.openfintech.io/payout_methods/webmoneytransfer/icon.svg?w=278&c=v0.59.26#w40) |[webmoneytransfer](payout-methodswebmoneytransfer/)|`webmoneytransfer`| 
  
 
@@ -91,6 +95,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "ethereum",
     "megafon",
     "mts",
+    "terminal_rf",
     "piastrix",
     "tele2ru",
     "yandexmoney",
@@ -105,11 +110,14 @@ The list of supported [Payout Methods](/payout-methods/)
     "megafon",
     "mts",
     "piastrix",
+    "vodafone_phone",
+    "lifecell_phone",
+    "kyivstar_phone",
     "tele2ru",
     "yandexmoney",
     "perfectmoney_transfer",
     "payeer",
-    "advcash_wallet",
+    "advcash_email",
     "webmoneytransfer"
   ],
   "metadata":null,

@@ -42,10 +42,6 @@ The list of supported [Payment Methods](/payment-methods/)
 |![yandexmoney](https://static.openfintech.io/payment_methods/yandexmoney/icon.svg?w=278&c=v0.59.26#w100) |[yandexmoney](/payment-methods/yandexmoney/)|`yandexmoney`| 
 |![qiwi](https://static.openfintech.io/payment_methods/qiwi/icon.svg?w=278&c=v0.59.26#w100) |[qiwi](/payment-methods/qiwi/)|`qiwi`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin](/payment-methods/bitcoin/)|`bitcoin`| 
-|![visa](https://static.openfintech.io/payment_methods/visa/icon.svg?w=278&c=v0.59.26#w100) |[visa](/payment-methods/visa/)|`visa`| 
-|![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
-|![maestro](https://static.openfintech.io/payment_methods/maestro/icon.svg?w=278&c=v0.59.26#w100) |[maestro](/payment-methods/maestro/)|`maestro`| 
-|![mir](https://static.openfintech.io/payment_methods/mir/icon.svg?w=278&c=v0.59.26#w100) |[mir](/payment-methods/mir/)|`mir`| 
 |![alfaclick](https://static.openfintech.io/payment_methods/alfaclick/icon.png?w=278&c=v0.59.26#w100) |[alfaclick](/payment-methods/alfaclick/)|`alfaclick`| 
 |![euroset](https://static.openfintech.io/payment_methods/euroset/icon.png?w=278&c=v0.59.26#w100) |[euroset](/payment-methods/euroset/)|`euroset`| 
 |![svyaznoy](https://static.openfintech.io/payment_methods/svyaznoy/icon.png?w=278&c=v0.59.26#w100) |[svyaznoy](/payment-methods/svyaznoy/)|`svyaznoy`| 
@@ -53,6 +49,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![mts](https://static.openfintech.io/payment_methods/mts/icon.png?w=278&c=v0.59.26#w100) |[mts](/payment-methods/mts/)|`mts`| 
 |![megafon](https://static.openfintech.io/payment_methods/megafon/icon.png?w=278&c=v0.59.26#w100) |[megafon](/payment-methods/megafon/)|`megafon`| 
 |![tele2ru](https://static.openfintech.io/payment_methods/tele2ru/icon.svg?w=278&c=v0.59.26#w100) |[tele2ru](/payment-methods/tele2ru/)|`tele2ru`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
  
 
 ## Payout Methods 
@@ -74,17 +71,14 @@ The list of supported [Payout Methods](/payout-methods/)
 |![beeline](https://static.openfintech.io/payout_methods/beeline/icon.svg?w=278&c=v0.59.26#w40) |[beeline](payout-methodsbeeline/)|`beeline`| 
 |![mts](https://static.openfintech.io/payout_methods/mts/icon.svg?w=278&c=v0.59.26#w40) |[mts](payout-methodsmts/)|`mts`| 
 |![megafon](https://static.openfintech.io/payout_methods/megafon/icon.svg?w=278&c=v0.59.26#w40) |[megafon](payout-methodsmegafon/)|`megafon`| 
-|![visa](https://static.openfintech.io/payout_methods/visa/icon.svg?w=278&c=v0.59.26#w40) |[visa](payout-methodsvisa/)|`visa`| 
-|![mastercard](https://static.openfintech.io/payout_methods/mastercard/icon.svg?w=278&c=v0.59.26#w40) |[mastercard](payout-methodsmastercard/)|`mastercard`| 
-|![maestro](https://static.openfintech.io/payout_methods/maestro/icon.svg?w=278&c=v0.59.26#w40) |[maestro](payout-methodsmaestro/)|`maestro`| 
 |![advcash_wallet](https://static.openfintech.io/payout_methods/advcash_wallet/icon.svg?w=278&c=v0.59.26#w40) |[advcash_wallet](payout-methodsadvcash_wallet/)|`advcash_wallet`| 
 |![tele2ru](https://static.openfintech.io/payout_methods/tele2ru/icon.svg?w=278&c=v0.59.26#w40) |[tele2ru](payout-methodstele2ru/)|`tele2ru`| 
 |![bitcoin](https://static.openfintech.io/payout_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w40) |[bitcoin](payout-methodsbitcoin/)|`bitcoin`| 
 |![ethereum](https://static.openfintech.io/payout_methods/ethereum/icon.svg?w=278&c=v0.59.26#w40) |[ethereum](payout-methodsethereum/)|`ethereum`| 
 |![bitcoin_cash](https://static.openfintech.io/payout_methods/bitcoin_cash/icon.png?w=278&c=v0.59.26#w40) |[bitcoin_cash](payout-methodsbitcoin_cash/)|`bitcoin_cash`| 
-|![mir](https://static.openfintech.io/payout_methods/mir/icon.svg?w=278&c=v0.59.26#w40) |[mir](payout-methodsmir/)|`mir`| 
 |![litecoin](https://static.openfintech.io/payout_methods/litecoin/icon.png?w=278&c=v0.59.26#w40) |[litecoin](payout-methodslitecoin/)|`litecoin`| 
 |![dash](https://static.openfintech.io/payout_methods/dash/icon.png?w=278&c=v0.59.26#w40) |[dash](payout-methodsdash/)|`dash`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
  
 
 ## JSON Object 
@@ -102,17 +96,14 @@ The list of supported [Payout Methods](/payout-methods/)
     "yandexmoney",
     "qiwi",
     "bitcoin",
-    "visa",
-    "mastercard",
-    "maestro",
-    "mir",
     "alfaclick",
     "euroset",
     "svyaznoy",
     "beeline",
     "mts",
     "megafon",
-    "tele2ru"
+    "tele2ru",
+    "payment_card"
   ],
   "payout_method":[
     "qiwi",
@@ -128,17 +119,14 @@ The list of supported [Payout Methods](/payout-methods/)
     "beeline",
     "mts",
     "megafon",
-    "visa",
-    "mastercard",
-    "maestro",
     "advcash_wallet",
     "tele2ru",
     "bitcoin",
     "ethereum",
     "bitcoin_cash",
-    "mir",
     "litecoin",
-    "dash"
+    "dash",
+    "payment_card"
   ],
   "metadata":null,
   "name":{

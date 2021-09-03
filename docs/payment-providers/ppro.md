@@ -39,7 +39,7 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![postfinancecard](https://static.openfintech.io/payment_methods/postfinancecard/icon.png?w=278&c=v0.59.26#w100) |[postfinancecard](/payment-methods/postfinancecard/)|`postfinancecard`| 
 |![bancontactmistercash](https://static.openfintech.io/payment_methods/bancontactmistercash/icon.png?w=278&c=v0.59.26#w100) |[bancontactmistercash](/payment-methods/bancontactmistercash/)|`bancontactmistercash`| 
 |![tarjetanaranjacreditcard](https://static.openfintech.io/payment_methods/tarjetanaranjacreditcard/icon.png?w=278&c=v0.59.26#w100) |[tarjetanaranjacreditcard](/payment-methods/tarjetanaranjacreditcard/)|`tarjetanaranjacreditcard`| 
@@ -47,7 +47,6 @@ The list of supported [Payment Methods](/payment-methods/)
 |![teleingreso](https://static.openfintech.io/payment_methods/teleingreso/icon.png?w=278&c=v0.59.26#w100) |[teleingreso](/payment-methods/teleingreso/)|`teleingreso`| 
 |![chinaunionpay](https://static.openfintech.io/payment_methods/chinaunionpay/icon.svg?w=278&c=v0.59.26#w100) |[chinaunionpay](/payment-methods/chinaunionpay/)|`chinaunionpay`| 
 |![hipercard](https://static.openfintech.io/payment_methods/hipercard/icon.png?w=278&c=v0.59.26#w100) |[hipercard](/payment-methods/hipercard/)|`hipercard`| 
-|![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
 |![ukash](https://static.openfintech.io/payment_methods/ukash/icon.png?w=278&c=v0.59.26#w100) |[ukash](/payment-methods/ukash/)|`ukash`| 
 |![elo](https://static.openfintech.io/payment_methods/elo/icon.png?w=278&c=v0.59.26#w100) |[elo](/payment-methods/elo/)|`elo`| 
 |![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.png?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
@@ -71,7 +70,7 @@ The list of supported [Payment Methods](/payment-methods/)
   ],
   "countries":null,
   "payment_method":[
-    "visa2",
+    "payment_card",
     "postfinancecard",
     "bancontactmistercash",
     "tarjetanaranjacreditcard",
@@ -79,7 +78,6 @@ The list of supported [Payment Methods](/payment-methods/)
     "teleingreso",
     "chinaunionpay",
     "hipercard",
-    "mastercard",
     "ukash",
     "elo",
     "visadebit",

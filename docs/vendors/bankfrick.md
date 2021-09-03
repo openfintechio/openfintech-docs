@@ -1,6 +1,6 @@
 
 # Bank Frick 
-![bankfrick](https://static.openfintech.io/vendors/bankfrick/logo.png?w=400&c=v0.59.26#w200)  
+![bankfrick](https://static.openfintech.io/vendors/bankfrick/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -28,18 +28,18 @@ street:  Landstrasse 149496 BalzersLiechtenstein
 
 ### Logo 
  
-![bankfrick](https://static.openfintech.io/vendors/bankfrick/logo.png?w=400&c=v0.59.26#w200)  
+![bankfrick](https://static.openfintech.io/vendors/bankfrick/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/bankfrick/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/bankfrick/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![bankfrick](https://static.openfintech.io/vendors/bankfrick/icon.png?w=278&c=v0.59.26#w100)  
+![bankfrick](https://static.openfintech.io/vendors/bankfrick/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/bankfrick/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/bankfrick/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

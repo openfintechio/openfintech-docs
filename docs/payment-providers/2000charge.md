@@ -47,7 +47,6 @@ The list of supported [Payment Methods](/payment-methods/)
 |![cartebleue](https://static.openfintech.io/payment_methods/cartebleue/icon.png?w=278&c=v0.59.26#w100) |[cartebleue](/payment-methods/cartebleue/)|`cartebleue`| 
 |![dinersclub](https://static.openfintech.io/payment_methods/dinersclub/icon.svg?w=278&c=v0.59.26#w100) |[dinersclub](/payment-methods/dinersclub/)|`dinersclub`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
-|![maestro](https://static.openfintech.io/payment_methods/maestro/icon.svg?w=278&c=v0.59.26#w100) |[maestro](/payment-methods/maestro/)|`maestro`| 
 |![discover](https://static.openfintech.io/payment_methods/discover/icon.svg?w=278&c=v0.59.26#w100) |[discover](/payment-methods/discover/)|`discover`| 
 |![chinaunionpay](https://static.openfintech.io/payment_methods/chinaunionpay/icon.svg?w=278&c=v0.59.26#w100) |[chinaunionpay](/payment-methods/chinaunionpay/)|`chinaunionpay`| 
 |![papercheck](https://static.openfintech.io/payment_methods/papercheck/icon.png?w=278&c=v0.59.26#w100) |[papercheck](/payment-methods/papercheck/)|`papercheck`| 
@@ -57,6 +56,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin](/payment-methods/bitcoin/)|`bitcoin`| 
 |![giropay](https://static.openfintech.io/payment_methods/giropay/icon.svg?w=278&c=v0.59.26#w100) |[giropay](/payment-methods/giropay/)|`giropay`| 
 |![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.png?w=278&c=v0.59.26#w100) |[przelewy24](/payment-methods/przelewy24/)|`przelewy24`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
  
 
 ## JSON Object 
@@ -127,7 +127,6 @@ The list of supported [Payment Methods](/payment-methods/)
     "cartebleue",
     "dinersclub",
     "paysafecard",
-    "maestro",
     "discover",
     "chinaunionpay",
     "papercheck",
@@ -136,7 +135,8 @@ The list of supported [Payment Methods](/payment-methods/)
     "electroniccheckach",
     "bitcoin",
     "giropay",
-    "przelewy24"
+    "przelewy24",
+    "payment_card"
   ],
   "payout_method":null,
   "metadata":{

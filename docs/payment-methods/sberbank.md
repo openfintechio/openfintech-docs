@@ -11,7 +11,7 @@
 :	[RU] Сбербанк 
 :	[UK] Сбербанк 
  
-**Category:** `bank_transfers` 
+**Category:** `bank_transfer` 
  
 
 ## Images 
@@ -52,6 +52,6 @@ The list of [Payment Services](/payment-services/) based on the _SberBank_
   },
   "description":null,
   "countries":null,
-  "category":"bank_transfers"
+  "category":"bank_transfer"
 }
 ```  

@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _MTS_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![mts](https://static.openfintech.io/payment_methods/mts/icon.png?w=278&c=v0.59.26#w100) |[mts_rub_hpp](/payment-services/mts_rub_hpp/)|`mts_rub_hpp`| 
+|![mts](https://static.openfintech.io/payment_methods/mts/icon.png?w=278&c=v0.59.26#w100) |[mts_rub_invoice](/payment-services/mts_rub_invoice/)|`mts_rub_invoice`| 
  
 
 ## Payment Providers 

@@ -47,9 +47,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![banamex](https://static.openfintech.io/payment_methods/banamex/icon.svg?w=278&c=v0.59.26#w100) |[banamex](/payment-methods/banamex/)|`banamex`| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
 |![aura](https://static.openfintech.io/payment_methods/aura/icon.png?w=278&c=v0.59.26#w100) |[aura](/payment-methods/aura/)|`aura`| 
-|![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
 |![ukash](https://static.openfintech.io/payment_methods/ukash/icon.png?w=278&c=v0.59.26#w100) |[ukash](/payment-methods/ukash/)|`ukash`| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
 |![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.png?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
 |![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.png?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
@@ -81,9 +80,8 @@ The list of supported [Payment Methods](/payment-methods/)
     "banamex",
     "americanexpress",
     "aura",
-    "mastercard",
     "ukash",
-    "visa2",
+    "payment_card",
     "paysafecard",
     "visaelectron",
     "visadebit",

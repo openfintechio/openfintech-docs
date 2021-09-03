@@ -12,7 +12,7 @@
  
 **Category:** `cryptocurrency` 
  
-**Type:** `digital` 
+**Type:** `crypto` 
  
 **Exponent:** `2` 
  
@@ -43,7 +43,7 @@ https://static.openfintech.io/currencies/ZEC/icon.png?w=278&c=v0.59.26#w100
   "name":{
     "en":"ZEC"
   },
-  "type":"digital",
+  "type":"crypto",
   "exponent":2,
   "parent_currency_multiplier":1,
   "category":"cryptocurrency",

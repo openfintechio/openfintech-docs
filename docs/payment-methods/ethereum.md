@@ -42,6 +42,7 @@ The list of [Payment Services](/payment-services/) based on the _Ethereum_
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_bch_hpp](/payment-services/ethereum_bch_hpp/)|`ethereum_bch_hpp`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_ltc_hpp](/payment-services/ethereum_ltc_hpp/)|`ethereum_ltc_hpp`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_usd_hpp](/payment-services/ethereum_usd_hpp/)|`ethereum_usd_hpp`| 
+|![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_uah_hpp](/payment-services/ethereum_uah_hpp/)|`ethereum_uah_hpp`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_eur_hpp](/payment-services/ethereum_eur_hpp/)|`ethereum_eur_hpp`| 
  
 
@@ -54,6 +55,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Ethereum_
 |![coingate](https://static.openfintech.io/payment_providers/coingate/icon.svg?w=278&c=v0.59.26#w100) |[CoinGate](/payment-providers/coingate/)|`coingate`| 
 |![piastrix](https://static.openfintech.io/payment_providers/piastrix/icon.svg?w=278&c=v0.59.26#w100) |[Piastrix](/payment-providers/piastrix/)|`piastrix`| 
 |![anymoney](https://static.openfintech.io/payment_providers/anymoney/icon.svg?w=278&c=v0.59.26#w100) |[Any.Money](/payment-providers/anymoney/)|`anymoney`| 
+|![coinspaid](https://static.openfintech.io/payment_providers/coinspaid/icon.png?w=278&c=v0.59.26#w100) |[CoinsPaid](/payment-providers/coinspaid/)|`coinspaid`| 
  
 
 ## JSON Object 

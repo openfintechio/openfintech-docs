@@ -16,7 +16,7 @@
 :	[RU] Skyforge 
 :	[UK] Skyforge 
  
-**Amount limits:** from `10` to `4999` UAH 
+**Amount limits:** from `10` to `499900` UAH 
 
 ## Fields 
 
@@ -76,6 +76,6 @@
     }
   ],
   "amount_min":"10",
-  "amount_max":"4999"
+  "amount_max":"499900"
 }
 ```  

@@ -44,9 +44,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.png?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
-|![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
 |![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.png?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
 |![account2account](https://static.openfintech.io/payment_methods/account2account/icon.png?w=278&c=v0.59.26#w100) |[account2account](/payment-methods/account2account/)|`account2account`| 
 |![wiretransfer](https://static.openfintech.io/payment_methods/wiretransfer/icon.svg?w=278&c=v0.59.26#w100) |[wiretransfer](/payment-methods/wiretransfer/)|`wiretransfer`| 
@@ -80,9 +79,8 @@ The list of supported [Payment Methods](/payment-methods/)
   ],
   "payment_method":[
     "americanexpress",
-    "visa2",
+    "payment_card",
     "visadebit",
-    "mastercard",
     "mastercarddebit",
     "account2account",
     "wiretransfer"

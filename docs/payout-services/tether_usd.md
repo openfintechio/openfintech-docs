@@ -1,5 +1,5 @@
 
-# Tether (service) 
+# Tether (Deprecated) (service) 
 ![tether_usd](https://static.openfintech.io/payout_methods/tether_usd/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,9 +12,9 @@
  
 **Name:** 
  
-:	[EN] Tether 
-:	[RU] Tether 
-:	[UK] Tether 
+:	[EN] Tether (Deprecated) 
+:	[RU] Tether (Deprecated) 
+:	[UK] Tether (Deprecated) 
  
 **Amount limits:** from `10` to `21943` USD 
 

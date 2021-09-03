@@ -1,6 +1,6 @@
 
 # AWEpay 
-![awepay](https://static.openfintech.io/payment_providers/awepay/logo.svg?w=400&c=v0.59.26#w100)  
+![awepay](https://static.openfintech.io/payment_providers/awepay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -17,18 +17,18 @@
 
 ### Logo 
  
-![awepay](https://static.openfintech.io/payment_providers/awepay/logo.svg?w=400&c=v0.59.26#w100)  
+![awepay](https://static.openfintech.io/payment_providers/awepay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/awepay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/awepay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![awepay](https://static.openfintech.io/payment_providers/awepay/icon.svg?w=278&c=v0.59.26#w100)  
+![awepay](https://static.openfintech.io/payment_providers/awepay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/awepay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/awepay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

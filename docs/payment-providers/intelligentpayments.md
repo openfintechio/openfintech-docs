@@ -39,16 +39,14 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
 |![teleingreso](https://static.openfintech.io/payment_methods/teleingreso/icon.png?w=278&c=v0.59.26#w100) |[teleingreso](/payment-methods/teleingreso/)|`teleingreso`| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
-|![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
 |![ukash](https://static.openfintech.io/payment_methods/ukash/icon.png?w=278&c=v0.59.26#w100) |[ukash](/payment-methods/ukash/)|`ukash`| 
 |![multibanconet](https://static.openfintech.io/payment_methods/multibanconet/icon.png?w=278&c=v0.59.26#w100) |[multibanconet](/payment-methods/multibanconet/)|`multibanconet`| 
 |![dinersclub](https://static.openfintech.io/payment_methods/dinersclub/icon.svg?w=278&c=v0.59.26#w100) |[dinersclub](/payment-methods/dinersclub/)|`dinersclub`| 
 |![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.png?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
-|![maestro](https://static.openfintech.io/payment_methods/maestro/icon.svg?w=278&c=v0.59.26#w100) |[maestro](/payment-methods/maestro/)|`maestro`| 
 |![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.png?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
 |![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.png?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
 |![nordea](https://static.openfintech.io/payment_methods/nordea/icon.png?w=278&c=v0.59.26#w100) |[nordea](/payment-methods/nordea/)|`nordea`| 
@@ -83,16 +81,14 @@ The list of supported [Payment Methods](/payment-methods/)
   ],
   "countries":null,
   "payment_method":[
-    "visa2",
+    "payment_card",
     "paysafecard",
     "teleingreso",
     "americanexpress",
-    "mastercard",
     "ukash",
     "multibanconet",
     "dinersclub",
     "visaelectron",
-    "maestro",
     "visadebit",
     "mastercarddebit",
     "nordea",

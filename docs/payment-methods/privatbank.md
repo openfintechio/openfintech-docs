@@ -11,7 +11,7 @@
 :	[RU] Приватбанк 
 :	[UK] Приватбанк 
  
-**Category:** `bank_transfers` 
+**Category:** `bank_transfer` 
  
 
 ## Images 
@@ -43,6 +43,6 @@ https://static.openfintech.io/payment_methods/privatbank/icon.svg?w=278&c=v0.59.
   },
   "description":null,
   "countries":null,
-  "category":"bank_transfers"
+  "category":"bank_transfer"
 }
 ```  

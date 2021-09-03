@@ -37,6 +37,9 @@ The list of [Payout Services](/payout-services/) based on the _Bitcoin_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bitcoin](https://static.openfintech.io/payout_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w40) |[bitcoin_btc](/payout-services/bitcoin_btc/)|`bitcoin_btc`| 
+|![bitcoin](https://static.openfintech.io/payout_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w40) |[bitcoin_uah](/payout-services/bitcoin_uah/)|`bitcoin_uah`| 
+|![bitcoin](https://static.openfintech.io/payout_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w40) |[bitcoin_usd](/payout-services/bitcoin_usd/)|`bitcoin_usd`| 
+|![bitcoin](https://static.openfintech.io/payout_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w40) |[bitcoin_eur](/payout-services/bitcoin_eur/)|`bitcoin_eur`| 
  
 
 ## Payment Providers 
@@ -61,6 +64,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Bitcoin_
 |![advcash](https://static.openfintech.io/payment_providers/advcash/icon.svg?w=278&c=v0.59.26#w100) |[AdvCash](/payment-providers/advcash/)|`advcash`| 
 |![payeer](https://static.openfintech.io/payment_providers/payeer/icon.png?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
 |![anymoney](https://static.openfintech.io/payment_providers/anymoney/icon.svg?w=278&c=v0.59.26#w100) |[Any.Money](/payment-providers/anymoney/)|`anymoney`| 
+|![coinspaid](https://static.openfintech.io/payment_providers/coinspaid/icon.png?w=278&c=v0.59.26#w100) |[CoinsPaid](/payment-providers/coinspaid/)|`coinspaid`| 
+|![amlnode](https://static.openfintech.io/payment_providers/amlnode/icon.png?w=278&c=v0.59.26#w100) |[AML Node](/payment-providers/amlnode/)|`amlnode`| 
  
 
 ## JSON Object 

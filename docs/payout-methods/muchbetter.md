@@ -40,6 +40,13 @@ The list of [Payout Services](/payout-services/) based on the _MuchBetter_
 |![muchbetter](https://static.openfintech.io/payout_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w40) |[muchbetter_eur](/payout-services/muchbetter_eur/)|`muchbetter_eur`| 
 |![muchbetter](https://static.openfintech.io/payout_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w40) |[muchbetter_gbp](/payout-services/muchbetter_gbp/)|`muchbetter_gbp`| 
 |![muchbetter](https://static.openfintech.io/payout_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w40) |[muchbetter_brl](/payout-services/muchbetter_brl/)|`muchbetter_brl`| 
+|![muchbetter](https://static.openfintech.io/payout_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w40) |[muchbetter_mxn](/payout-services/muchbetter_mxn/)|`muchbetter_mxn`| 
+|![muchbetter](https://static.openfintech.io/payout_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w40) |[muchbetter_vnd](/payout-services/muchbetter_vnd/)|`muchbetter_vnd`| 
+|![muchbetter](https://static.openfintech.io/payout_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w40) |[muchbetter_myr](/payout-services/muchbetter_myr/)|`muchbetter_myr`| 
+|![muchbetter](https://static.openfintech.io/payout_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w40) |[muchbetter_idr](/payout-services/muchbetter_idr/)|`muchbetter_idr`| 
+|![muchbetter](https://static.openfintech.io/payout_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w40) |[muchbetter_thb](/payout-services/muchbetter_thb/)|`muchbetter_thb`| 
+|![muchbetter](https://static.openfintech.io/payout_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w40) |[muchbetter_pln](/payout-services/muchbetter_pln/)|`muchbetter_pln`| 
+|![muchbetter](https://static.openfintech.io/payout_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w40) |[muchbetter_cad](/payout-services/muchbetter_cad/)|`muchbetter_cad`| 
  
 
 ## Payment Providers 

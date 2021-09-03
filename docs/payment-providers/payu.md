@@ -44,7 +44,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![rupaypaysecure](https://static.openfintech.io/payment_methods/rupaypaysecure/icon.png?w=278&c=v0.59.26#w100) |[rupaypaysecure](/payment-methods/rupaypaysecure/)|`rupaypaysecure`| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![tarjetanaranjacreditcard](https://static.openfintech.io/payment_methods/tarjetanaranjacreditcard/icon.png?w=278&c=v0.59.26#w100) |[tarjetanaranjacreditcard](/payment-methods/tarjetanaranjacreditcard/)|`tarjetanaranjacreditcard`| 
 |![aura](https://static.openfintech.io/payment_methods/aura/icon.png?w=278&c=v0.59.26#w100) |[aura](/payment-methods/aura/)|`aura`| 
 |![cabal](https://static.openfintech.io/payment_methods/cabal/icon.png?w=278&c=v0.59.26#w100) |[cabal](/payment-methods/cabal/)|`cabal`| 
@@ -52,11 +52,9 @@ The list of supported [Payment Methods](/payment-methods/)
 |![banamex](https://static.openfintech.io/payment_methods/banamex/icon.svg?w=278&c=v0.59.26#w100) |[banamex](/payment-methods/banamex/)|`banamex`| 
 |![magna](https://static.openfintech.io/payment_methods/magna/icon.svg?w=278&c=v0.59.26#w100) |[magna](/payment-methods/magna/)|`magna`| 
 |![hipercard](https://static.openfintech.io/payment_methods/hipercard/icon.png?w=278&c=v0.59.26#w100) |[hipercard](/payment-methods/hipercard/)|`hipercard`| 
-|![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
 |![elo](https://static.openfintech.io/payment_methods/elo/icon.png?w=278&c=v0.59.26#w100) |[elo](/payment-methods/elo/)|`elo`| 
 |![jcb](https://static.openfintech.io/payment_methods/jcb/icon.png?w=278&c=v0.59.26#w100) |[jcb](/payment-methods/jcb/)|`jcb`| 
 |![dinersclub](https://static.openfintech.io/payment_methods/dinersclub/icon.svg?w=278&c=v0.59.26#w100) |[dinersclub](/payment-methods/dinersclub/)|`dinersclub`| 
-|![maestro](https://static.openfintech.io/payment_methods/maestro/icon.svg?w=278&c=v0.59.26#w100) |[maestro](/payment-methods/maestro/)|`maestro`| 
 |![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.png?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
 |![presto](https://static.openfintech.io/payment_methods/presto/icon.png?w=278&c=v0.59.26#w100) |[presto](/payment-methods/presto/)|`presto`| 
 |![discover](https://static.openfintech.io/payment_methods/discover/icon.svg?w=278&c=v0.59.26#w100) |[discover](/payment-methods/discover/)|`discover`| 
@@ -98,7 +96,7 @@ The list of supported [Payment Methods](/payment-methods/)
   ],
   "payment_method":[
     "rupaypaysecure",
-    "visa2",
+    "payment_card",
     "tarjetanaranjacreditcard",
     "aura",
     "cabal",
@@ -106,11 +104,9 @@ The list of supported [Payment Methods](/payment-methods/)
     "banamex",
     "magna",
     "hipercard",
-    "mastercard",
     "elo",
     "jcb",
     "dinersclub",
-    "maestro",
     "visaelectron",
     "presto",
     "discover",

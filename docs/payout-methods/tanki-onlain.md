@@ -1,5 +1,5 @@
 
-# Tanks online 
+# Tanki online 
 ![tanki-onlain](https://static.openfintech.io/payment_methods/tanki-onlain/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,7 +7,7 @@
  
 **Name:** 
  
-:	[EN] Tanks online 
+:	[EN] Tanki online 
 :	[UK] Танки онлайн 
 :	[RU] Танки Онлайн 
  
@@ -32,7 +32,7 @@ https://static.openfintech.io/payment_methods/tanki-onlain/icon.svg?w=278&c=v0.5
 
 ## Payout Services 
  
-The list of [Payout Services](/payout-services/) based on the _Tanks online_ 
+The list of [Payout Services](/payout-services/) based on the _Tanki online_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -46,7 +46,7 @@ The list of [Payout Services](/payout-services/) based on the _Tanks online_
   "code":"tanki-onlain",
   "vendor":null,
   "name":{
-    "en":"Tanks online",
+    "en":"Tanki online",
     "uk":"\u0422\u0430\u043d\u043a\u0438 \u043e\u043d\u043b\u0430\u0439\u043d",
     "ru":"\u0422\u0430\u043d\u043a\u0438 \u041e\u043d\u043b\u0430\u0439\u043d"
   },

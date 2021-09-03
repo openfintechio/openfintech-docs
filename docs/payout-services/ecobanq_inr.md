@@ -25,6 +25,7 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`user_id`|✔|`string`|`/^[Q]\d{6}$/`| 
+|`user_password`|✔|`string`|`/^.{1,64}$/`| 
  
 
 ### Details 
@@ -46,6 +47,24 @@
 	: [EN] Enter user ID 
 	: [RU] Введите user ID 
 	: [UK] Введіть user ID 
+ 
+2. **`user_password`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{1,64}$/` 
+ 
+	Required: `1` 
+ 
+	Label:  
+	: [EN] User password 
+	: [RU] User password 
+	: [UK] User password 
+ 
+	Hint:  
+	: [EN] Enter user password 
+	: [RU] Введите user password 
+	: [UK] Введіть user password 
  
 
 ## JSON Object 
@@ -73,6 +92,23 @@
       "regexp":"\/^[Q]\\d{6}$\/",
       "required":true,
       "position":1
+    },
+    {
+      "key":"user_password",
+      "type":"string",
+      "label":{
+        "en":"User password",
+        "ru":"User password",
+        "uk":"User password"
+      },
+      "hint":{
+        "en":"Enter user password",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 user password",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c user password"
+      },
+      "regexp":"\/^.{1,64}$\/",
+      "required":true,
+      "position":2
     }
   ],
   "amount_min":"0.01",

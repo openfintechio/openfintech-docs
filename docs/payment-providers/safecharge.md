@@ -1,5 +1,5 @@
 
-# SafeCharge  
+# Nuvei 
 ![safecharge](https://static.openfintech.io/payment_providers/safecharge/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,7 +10,7 @@
  
 **Name:** 
  
-:	[EN] SafeCharge  
+:	[EN] Nuvei 
  
 **Categories:**`collecting` ,`distributing` ,`acquiring` ,`aggregating` 
  
@@ -39,7 +39,7 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![cashu](https://static.openfintech.io/payment_methods/cashu/icon.png?w=278&c=v0.59.26#w100) |[cashu](/payment-methods/cashu/)|`cashu`| 
 |![bancontactmistercash](https://static.openfintech.io/payment_methods/bancontactmistercash/icon.png?w=278&c=v0.59.26#w100) |[bancontactmistercash](/payment-methods/bancontactmistercash/)|`bancontactmistercash`| 
 |![cartebancaires](https://static.openfintech.io/payment_methods/cartebancaires/icon.png?w=278&c=v0.59.26#w100) |[cartebancaires](/payment-methods/cartebancaires/)|`cartebancaires`| 
@@ -49,12 +49,10 @@ The list of supported [Payment Methods](/payment-methods/)
 |![teleingreso](https://static.openfintech.io/payment_methods/teleingreso/icon.png?w=278&c=v0.59.26#w100) |[teleingreso](/payment-methods/teleingreso/)|`teleingreso`| 
 |![chinaunionpay](https://static.openfintech.io/payment_methods/chinaunionpay/icon.svg?w=278&c=v0.59.26#w100) |[chinaunionpay](/payment-methods/chinaunionpay/)|`chinaunionpay`| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
-|![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
 |![ukash](https://static.openfintech.io/payment_methods/ukash/icon.png?w=278&c=v0.59.26#w100) |[ukash](/payment-methods/ukash/)|`ukash`| 
 |![jcb](https://static.openfintech.io/payment_methods/jcb/icon.png?w=278&c=v0.59.26#w100) |[jcb](/payment-methods/jcb/)|`jcb`| 
 |![dinersclub](https://static.openfintech.io/payment_methods/dinersclub/icon.svg?w=278&c=v0.59.26#w100) |[dinersclub](/payment-methods/dinersclub/)|`dinersclub`| 
 |![cartebleue](https://static.openfintech.io/payment_methods/cartebleue/icon.png?w=278&c=v0.59.26#w100) |[cartebleue](/payment-methods/cartebleue/)|`cartebleue`| 
-|![maestro](https://static.openfintech.io/payment_methods/maestro/icon.svg?w=278&c=v0.59.26#w100) |[maestro](/payment-methods/maestro/)|`maestro`| 
 |![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.png?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
 |![discover](https://static.openfintech.io/payment_methods/discover/icon.svg?w=278&c=v0.59.26#w100) |[discover](/payment-methods/discover/)|`discover`| 
 |![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.png?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
@@ -75,7 +73,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/icon.png?w=278&c=v0.59.26#w100) |[polipayonline](/payment-methods/polipayonline/)|`polipayonline`| 
 |![elektronischeslastschriftverfahren](https://static.openfintech.io/payment_methods/elektronischeslastschriftverfahren/icon.png?w=278&c=v0.59.26#w100) |[elektronischeslastschriftverfahren](/payment-methods/elektronischeslastschriftverfahren/)|`elektronischeslastschriftverfahren`| 
 |![trustly](https://static.openfintech.io/payment_methods/trustly/icon.png?w=278&c=v0.59.26#w100) |[trustly](/payment-methods/trustly/)|`trustly`| 
-|![klarna](https://static.openfintech.io/payment_methods/klarna/icon.svg?w=278&c=v0.59.26#w100) |[klarna](/payment-methods/klarna/)|`klarna`| 
+|![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_klarna](/payment-methods/bank_transfer_klarna/)|`bank_transfer_klarna`| 
 |![7eleven](https://static.openfintech.io/payment_methods/7eleven/icon.png?w=278&c=v0.59.26#w100) |[7eleven](/payment-methods/7eleven/)|`7eleven`| 
 |![pagofacil](https://static.openfintech.io/payment_methods/pagofacil/icon.png?w=278&c=v0.59.26#w100) |[pagofacil](/payment-methods/pagofacil/)|`pagofacil`| 
 |![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.png?w=278&c=v0.59.26#w100) |[przelewy24](/payment-methods/przelewy24/)|`przelewy24`| 
@@ -112,7 +110,7 @@ The list of supported [Payment Methods](/payment-methods/)
   ],
   "countries":null,
   "payment_method":[
-    "visa2",
+    "payment_card",
     "cashu",
     "bancontactmistercash",
     "cartebancaires",
@@ -122,12 +120,10 @@ The list of supported [Payment Methods](/payment-methods/)
     "teleingreso",
     "chinaunionpay",
     "americanexpress",
-    "mastercard",
     "ukash",
     "jcb",
     "dinersclub",
     "cartebleue",
-    "maestro",
     "visaelectron",
     "discover",
     "visadebit",
@@ -148,7 +144,7 @@ The list of supported [Payment Methods](/payment-methods/)
     "polipayonline",
     "elektronischeslastschriftverfahren",
     "trustly",
-    "klarna",
+    "bank_transfer_klarna",
     "7eleven",
     "pagofacil",
     "przelewy24",
@@ -174,7 +170,7 @@ The list of supported [Payment Methods](/payment-methods/)
     "about_payments_code":"safecharge"
   },
   "name":{
-    "en":"SafeCharge "
+    "en":"Nuvei"
   }
 }
 ```  

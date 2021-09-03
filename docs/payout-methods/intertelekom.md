@@ -37,6 +37,7 @@ The list of [Payout Services](/payout-services/) based on the _Intertelecom_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![intertelekom](https://static.openfintech.io/payout_methods/intertelekom/icon.png?w=278&c=v0.59.26#w40) |[intertelekom_uah](/payout-services/intertelekom_uah/)|`intertelekom_uah`| 
+|![intertelekom](https://static.openfintech.io/payout_methods/intertelekom/icon.png?w=278&c=v0.59.26#w40) |[intertelekom_uah](/payout-services/intertelekom_uah/)|`intertelekom_uah`| 
  
 
 ## JSON Object 

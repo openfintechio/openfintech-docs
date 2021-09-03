@@ -1,5 +1,5 @@
 
-# Tanks online (service) 
+# Tanki online (service) 
 ![tanki-onlain_uah](https://static.openfintech.io/payout_methods/tanki-onlain_uah/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,7 +12,7 @@
  
 **Name:** 
  
-:	[EN] Tanks online 
+:	[EN] Tanki online 
 :	[RU] Танки Онлайн 
 :	[UK] Танки онлайн 
  

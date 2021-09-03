@@ -16,7 +16,7 @@
 :	[RU] Warface 
 :	[UK] Warface 
  
-**Amount limits:** from `9` to `4999` UAH 
+**Amount limits:** from `9` to `499900` UAH 
 
 ## Fields 
 
@@ -76,6 +76,6 @@
     }
   ],
   "amount_min":"9",
-  "amount_max":"4999"
+  "amount_max":"499900"
 }
 ```  

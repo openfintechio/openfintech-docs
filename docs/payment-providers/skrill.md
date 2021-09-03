@@ -42,10 +42,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
 |![paysafecash](https://static.openfintech.io/payment_methods/paysafecash/icon.svg?w=278&c=v0.59.26#w100) |[paysafecash](/payment-methods/paysafecash/)|`paysafecash`| 
 |![resursbank](https://static.openfintech.io/payment_methods/resursbank/icon.svg?w=278&c=v0.59.26#w100) |[resursbank](/payment-methods/resursbank/)|`resursbank`| 
-|![visa](https://static.openfintech.io/payment_methods/visa/icon.svg?w=278&c=v0.59.26#w100) |[visa](/payment-methods/visa/)|`visa`| 
-|![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
 |![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.png?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
-|![maestro](https://static.openfintech.io/payment_methods/maestro/icon.svg?w=278&c=v0.59.26#w100) |[maestro](/payment-methods/maestro/)|`maestro`| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
 |![dinersclub](https://static.openfintech.io/payment_methods/dinersclub/icon.svg?w=278&c=v0.59.26#w100) |[dinersclub](/payment-methods/dinersclub/)|`dinersclub`| 
 |![jcb](https://static.openfintech.io/payment_methods/jcb/icon.png?w=278&c=v0.59.26#w100) |[jcb](/payment-methods/jcb/)|`jcb`| 
@@ -56,7 +53,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![rapidtransfer](https://static.openfintech.io/payment_methods/rapidtransfer/icon.png?w=278&c=v0.59.26#w100) |[rapidtransfer](/payment-methods/rapidtransfer/)|`rapidtransfer`| 
 |![giropay](https://static.openfintech.io/payment_methods/giropay/icon.svg?w=278&c=v0.59.26#w100) |[giropay](/payment-methods/giropay/)|`giropay`| 
 |![directdebit](https://static.openfintech.io/payment_methods/directdebit/icon.png?w=278&c=v0.59.26#w100) |[directdebit](/payment-methods/directdebit/)|`directdebit`| 
-|![klarna](https://static.openfintech.io/payment_methods/klarna/icon.svg?w=278&c=v0.59.26#w100) |[klarna](/payment-methods/klarna/)|`klarna`| 
+|![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_klarna](/payment-methods/bank_transfer_klarna/)|`bank_transfer_klarna`| 
 |![nordeasolo](https://static.openfintech.io/payment_methods/nordeasolo/icon.svg?w=278&c=v0.59.26#w100) |[nordeasolo](/payment-methods/nordeasolo/)|`nordeasolo`| 
 |![ideal](https://static.openfintech.io/payment_methods/ideal/icon.svg?w=278&c=v0.59.26#w100) |[ideal](/payment-methods/ideal/)|`ideal`| 
 |![eps](https://static.openfintech.io/payment_methods/eps/icon.png?w=278&c=v0.59.26#w100) |[eps](/payment-methods/eps/)|`eps`| 
@@ -68,6 +65,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![astropaymanual](https://static.openfintech.io/payment_methods/astropaymanual/icon.svg?w=278&c=v0.59.26#w100) |[astropaymanual](/payment-methods/astropaymanual/)|`astropaymanual`| 
 |![astropaycash](https://static.openfintech.io/payment_methods/astropaycash/icon.svg?w=278&c=v0.59.26#w100) |[astropaycash](/payment-methods/astropaycash/)|`astropaycash`| 
 |![astropayunion](https://static.openfintech.io/payment_methods/astropayunion/icon.svg?w=278&c=v0.59.26#w100) |[astropayunion](/payment-methods/astropayunion/)|`astropayunion`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
  
 
 ## Payout Methods 
@@ -94,10 +92,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "paysafecard",
     "paysafecash",
     "resursbank",
-    "visa",
-    "mastercard",
     "visaelectron",
-    "maestro",
     "americanexpress",
     "dinersclub",
     "jcb",
@@ -108,7 +103,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "rapidtransfer",
     "giropay",
     "directdebit",
-    "klarna",
+    "bank_transfer_klarna",
     "nordeasolo",
     "ideal",
     "eps",
@@ -119,7 +114,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "astropaydirect",
     "astropaymanual",
     "astropaycash",
-    "astropayunion"
+    "astropayunion",
+    "payment_card"
   ],
   "payout_method":[
     "skrill"

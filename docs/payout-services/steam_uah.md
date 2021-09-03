@@ -16,7 +16,7 @@
 :	[RU] Steam 
 :	[UK] Steam 
  
-**Amount limits:** from `1` to `4999` UAH 
+**Amount limits:** from `1` to `500000` UAH 
 
 ## Fields 
 
@@ -76,6 +76,6 @@
     }
   ],
   "amount_min":"1",
-  "amount_max":"4999"
+  "amount_max":"500000"
 }
 ```  

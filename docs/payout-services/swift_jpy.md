@@ -14,7 +14,7 @@
  
 :	[EN] SWIFT 
  
-**Amount limits:** from `0.01` to `999999` JPY 
+**Amount limits:** from `1` to `999999` JPY 
 
 ## Fields 
 
@@ -253,7 +253,7 @@
       }
     }
   ],
-  "amount_min":"0.01",
+  "amount_min":"1",
   "amount_max":"999999"
 }
 ```  

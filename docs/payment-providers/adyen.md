@@ -43,7 +43,7 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![cashu](https://static.openfintech.io/payment_methods/cashu/icon.png?w=278&c=v0.59.26#w100) |[cashu](/payment-methods/cashu/)|`cashu`| 
 |![cartebancaires](https://static.openfintech.io/payment_methods/cartebancaires/icon.png?w=278&c=v0.59.26#w100) |[cartebancaires](/payment-methods/cartebancaires/)|`cartebancaires`| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
@@ -52,7 +52,6 @@ The list of supported [Payment Methods](/payment-methods/)
 |![dinersclub](https://static.openfintech.io/payment_methods/dinersclub/icon.svg?w=278&c=v0.59.26#w100) |[dinersclub](/payment-methods/dinersclub/)|`dinersclub`| 
 |![cartebleue](https://static.openfintech.io/payment_methods/cartebleue/icon.png?w=278&c=v0.59.26#w100) |[cartebleue](/payment-methods/cartebleue/)|`cartebleue`| 
 |![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.png?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
-|![maestro](https://static.openfintech.io/payment_methods/maestro/icon.svg?w=278&c=v0.59.26#w100) |[maestro](/payment-methods/maestro/)|`maestro`| 
 |![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.png?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
 |![vpay](https://static.openfintech.io/payment_methods/vpay/icon.png?w=278&c=v0.59.26#w100) |[vpay](/payment-methods/vpay/)|`vpay`| 
 |![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.png?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
@@ -68,7 +67,6 @@ The list of supported [Payment Methods](/payment-methods/)
 |![cabal](https://static.openfintech.io/payment_methods/cabal/icon.png?w=278&c=v0.59.26#w100) |[cabal](/payment-methods/cabal/)|`cabal`| 
 |![dankort](https://static.openfintech.io/payment_methods/dankort/icon.png?w=278&c=v0.59.26#w100) |[dankort](/payment-methods/dankort/)|`dankort`| 
 |![hipercard](https://static.openfintech.io/payment_methods/hipercard/icon.png?w=278&c=v0.59.26#w100) |[hipercard](/payment-methods/hipercard/)|`hipercard`| 
-|![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
 |![elo](https://static.openfintech.io/payment_methods/elo/icon.png?w=278&c=v0.59.26#w100) |[elo](/payment-methods/elo/)|`elo`| 
 |![discover](https://static.openfintech.io/payment_methods/discover/icon.svg?w=278&c=v0.59.26#w100) |[discover](/payment-methods/discover/)|`discover`| 
 |![presto](https://static.openfintech.io/payment_methods/presto/icon.png?w=278&c=v0.59.26#w100) |[presto](/payment-methods/presto/)|`presto`| 
@@ -84,7 +82,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![interac](https://static.openfintech.io/payment_methods/interac/icon.png?w=278&c=v0.59.26#w100) |[interac](/payment-methods/interac/)|`interac`| 
 |![gemoney](https://static.openfintech.io/payment_methods/gemoney/icon.png?w=278&c=v0.59.26#w100) |[gemoney](/payment-methods/gemoney/)|`gemoney`| 
 |![komercnibanka](https://static.openfintech.io/payment_methods/komercnibanka/icon.png?w=278&c=v0.59.26#w100) |[komercnibanka](/payment-methods/komercnibanka/)|`komercnibanka`| 
-|![raiffeisenbank](https://static.openfintech.io/payment_methods/raiffeisenbank/icon.png?w=278&c=v0.59.26#w100) |[raiffeisenbank](/payment-methods/raiffeisenbank/)|`raiffeisenbank`| 
+|![raiffeisenbank](https://static.openfintech.io/payment_methods/raiffeisenbank/icon.svg?w=278&c=v0.59.26#w100) |[raiffeisenbank](/payment-methods/raiffeisenbank/)|`raiffeisenbank`| 
 |![safetypay](https://static.openfintech.io/payment_methods/safetypay/icon.png?w=278&c=v0.59.26#w100) |[safetypay](/payment-methods/safetypay/)|`safetypay`| 
 |![volksbank](https://static.openfintech.io/payment_methods/volksbank/icon.png?w=278&c=v0.59.26#w100) |[volksbank](/payment-methods/volksbank/)|`volksbank`| 
 |![sebbank](https://static.openfintech.io/payment_methods/sebbank/icon.png?w=278&c=v0.59.26#w100) |[sebbank](/payment-methods/sebbank/)|`sebbank`| 
@@ -143,7 +141,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![vubbanka](https://static.openfintech.io/payment_methods/vubbanka/icon.png?w=278&c=v0.59.26#w100) |[vubbanka](/payment-methods/vubbanka/)|`vubbanka`| 
 |![bankinter](https://static.openfintech.io/payment_methods/bankinter/icon.png?w=278&c=v0.59.26#w100) |[bankinter](/payment-methods/bankinter/)|`bankinter`| 
 |![argencard](https://static.openfintech.io/payment_methods/argencard/icon.png?w=278&c=v0.59.26#w100) |[argencard](/payment-methods/argencard/)|`argencard`| 
-|![klarna](https://static.openfintech.io/payment_methods/klarna/icon.svg?w=278&c=v0.59.26#w100) |[klarna](/payment-methods/klarna/)|`klarna`| 
+|![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_klarna](/payment-methods/bank_transfer_klarna/)|`bank_transfer_klarna`| 
 |![bankia](https://static.openfintech.io/payment_methods/bankia/icon.png?w=278&c=v0.59.26#w100) |[bankia](/payment-methods/bankia/)|`bankia`| 
 |![pagofacil](https://static.openfintech.io/payment_methods/pagofacil/icon.png?w=278&c=v0.59.26#w100) |[pagofacil](/payment-methods/pagofacil/)|`pagofacil`| 
 |![bbva](https://static.openfintech.io/payment_methods/bbva/icon.png?w=278&c=v0.59.26#w100) |[bbva](/payment-methods/bbva/)|`bbva`| 
@@ -229,7 +227,7 @@ The list of supported [Payment Methods](/payment-methods/)
     "UM"
   ],
   "payment_method":[
-    "visa2",
+    "payment_card",
     "cashu",
     "cartebancaires",
     "americanexpress",
@@ -238,7 +236,6 @@ The list of supported [Payment Methods](/payment-methods/)
     "dinersclub",
     "cartebleue",
     "visaelectron",
-    "maestro",
     "visadebit",
     "vpay",
     "mastercarddebit",
@@ -254,7 +251,6 @@ The list of supported [Payment Methods](/payment-methods/)
     "cabal",
     "dankort",
     "hipercard",
-    "mastercard",
     "elo",
     "discover",
     "presto",
@@ -329,7 +325,7 @@ The list of supported [Payment Methods](/payment-methods/)
     "vubbanka",
     "bankinter",
     "argencard",
-    "klarna",
+    "bank_transfer_klarna",
     "bankia",
     "pagofacil",
     "bbva",

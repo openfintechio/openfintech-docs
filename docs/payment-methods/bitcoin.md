@@ -43,6 +43,14 @@ The list of [Payment Services](/payment-services/) based on the _Bitcoin_
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_rub_hpp](/payment-services/bitcoin_rub_hpp/)|`bitcoin_rub_hpp`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_eur_hpp](/payment-services/bitcoin_eur_hpp/)|`bitcoin_eur_hpp`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_usd_hpp](/payment-services/bitcoin_usd_hpp/)|`bitcoin_usd_hpp`| 
+|![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_uah_hpp](/payment-services/bitcoin_uah_hpp/)|`bitcoin_uah_hpp`| 
+|![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_btc_invoice](/payment-services/bitcoin_btc_invoice/)|`bitcoin_btc_invoice`| 
+|![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_ltc_invoice](/payment-services/bitcoin_ltc_invoice/)|`bitcoin_ltc_invoice`| 
+|![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_bch_invoice](/payment-services/bitcoin_bch_invoice/)|`bitcoin_bch_invoice`| 
+|![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_usd_invoice](/payment-services/bitcoin_usd_invoice/)|`bitcoin_usd_invoice`| 
+|![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_eur_invoice](/payment-services/bitcoin_eur_invoice/)|`bitcoin_eur_invoice`| 
+|![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_uah_invoice](/payment-services/bitcoin_uah_invoice/)|`bitcoin_uah_invoice`| 
+|![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_rub_invoice](/payment-services/bitcoin_rub_invoice/)|`bitcoin_rub_invoice`| 
  
 
 ## Payment Providers 
@@ -67,6 +75,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Bitcoin_
 |![advcash](https://static.openfintech.io/payment_providers/advcash/icon.svg?w=278&c=v0.59.26#w100) |[AdvCash](/payment-providers/advcash/)|`advcash`| 
 |![payeer](https://static.openfintech.io/payment_providers/payeer/icon.png?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
 |![anymoney](https://static.openfintech.io/payment_providers/anymoney/icon.svg?w=278&c=v0.59.26#w100) |[Any.Money](/payment-providers/anymoney/)|`anymoney`| 
+|![coinspaid](https://static.openfintech.io/payment_providers/coinspaid/icon.png?w=278&c=v0.59.26#w100) |[CoinsPaid](/payment-providers/coinspaid/)|`coinspaid`| 
+|![amlnode](https://static.openfintech.io/payment_providers/amlnode/icon.png?w=278&c=v0.59.26#w100) |[AML Node](/payment-providers/amlnode/)|`amlnode`| 
  
 
 ## JSON Object 

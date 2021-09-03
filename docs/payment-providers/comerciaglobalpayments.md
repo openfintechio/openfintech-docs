@@ -43,7 +43,7 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![cartebancaires](https://static.openfintech.io/payment_methods/cartebancaires/icon.png?w=278&c=v0.59.26#w100) |[cartebancaires](/payment-methods/cartebancaires/)|`cartebancaires`| 
 |![moneytopay](https://static.openfintech.io/payment_methods/moneytopay/icon.png?w=278&c=v0.59.26#w100) |[moneytopay](/payment-methods/moneytopay/)|`moneytopay`| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
@@ -51,14 +51,12 @@ The list of supported [Payment Methods](/payment-methods/)
 |![cartebleue](https://static.openfintech.io/payment_methods/cartebleue/icon.png?w=278&c=v0.59.26#w100) |[cartebleue](/payment-methods/cartebleue/)|`cartebleue`| 
 |![dinersclub](https://static.openfintech.io/payment_methods/dinersclub/icon.svg?w=278&c=v0.59.26#w100) |[dinersclub](/payment-methods/dinersclub/)|`dinersclub`| 
 |![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.png?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
-|![maestro](https://static.openfintech.io/payment_methods/maestro/icon.svg?w=278&c=v0.59.26#w100) |[maestro](/payment-methods/maestro/)|`maestro`| 
 |![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.png?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
 |![vpay](https://static.openfintech.io/payment_methods/vpay/icon.png?w=278&c=v0.59.26#w100) |[vpay](/payment-methods/vpay/)|`vpay`| 
 |![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.png?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
 |![cartasi](https://static.openfintech.io/payment_methods/cartasi/icon.png?w=278&c=v0.59.26#w100) |[cartasi](/payment-methods/cartasi/)|`cartasi`| 
 |![multibanconet](https://static.openfintech.io/payment_methods/multibanconet/icon.png?w=278&c=v0.59.26#w100) |[multibanconet](/payment-methods/multibanconet/)|`multibanconet`| 
 |![chinaunionpay](https://static.openfintech.io/payment_methods/chinaunionpay/icon.svg?w=278&c=v0.59.26#w100) |[chinaunionpay](/payment-methods/chinaunionpay/)|`chinaunionpay`| 
-|![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
 |![discover](https://static.openfintech.io/payment_methods/discover/icon.svg?w=278&c=v0.59.26#w100) |[discover](/payment-methods/discover/)|`discover`| 
 |![wiretransfer](https://static.openfintech.io/payment_methods/wiretransfer/icon.svg?w=278&c=v0.59.26#w100) |[wiretransfer](/payment-methods/wiretransfer/)|`wiretransfer`| 
 |![erstebank](https://static.openfintech.io/payment_methods/erstebank/icon.png?w=278&c=v0.59.26#w100) |[erstebank](/payment-methods/erstebank/)|`erstebank`| 
@@ -70,7 +68,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![interac](https://static.openfintech.io/payment_methods/interac/icon.png?w=278&c=v0.59.26#w100) |[interac](/payment-methods/interac/)|`interac`| 
 |![gemoney](https://static.openfintech.io/payment_methods/gemoney/icon.png?w=278&c=v0.59.26#w100) |[gemoney](/payment-methods/gemoney/)|`gemoney`| 
 |![komercnibanka](https://static.openfintech.io/payment_methods/komercnibanka/icon.png?w=278&c=v0.59.26#w100) |[komercnibanka](/payment-methods/komercnibanka/)|`komercnibanka`| 
-|![raiffeisenbank](https://static.openfintech.io/payment_methods/raiffeisenbank/icon.png?w=278&c=v0.59.26#w100) |[raiffeisenbank](/payment-methods/raiffeisenbank/)|`raiffeisenbank`| 
+|![raiffeisenbank](https://static.openfintech.io/payment_methods/raiffeisenbank/icon.svg?w=278&c=v0.59.26#w100) |[raiffeisenbank](/payment-methods/raiffeisenbank/)|`raiffeisenbank`| 
 |![volksbank](https://static.openfintech.io/payment_methods/volksbank/icon.png?w=278&c=v0.59.26#w100) |[volksbank](/payment-methods/volksbank/)|`volksbank`| 
 |![sebbank](https://static.openfintech.io/payment_methods/sebbank/icon.png?w=278&c=v0.59.26#w100) |[sebbank](/payment-methods/sebbank/)|`sebbank`| 
 |![bankzachodniwbk](https://static.openfintech.io/payment_methods/bankzachodniwbk/icon.png?w=278&c=v0.59.26#w100) |[bankzachodniwbk](/payment-methods/bankzachodniwbk/)|`bankzachodniwbk`| 
@@ -151,7 +149,7 @@ The list of supported [Payment Methods](/payment-methods/)
     "AE"
   ],
   "payment_method":[
-    "visa2",
+    "payment_card",
     "cartebancaires",
     "moneytopay",
     "americanexpress",
@@ -159,14 +157,12 @@ The list of supported [Payment Methods](/payment-methods/)
     "cartebleue",
     "dinersclub",
     "visaelectron",
-    "maestro",
     "visadebit",
     "vpay",
     "mastercarddebit",
     "cartasi",
     "multibanconet",
     "chinaunionpay",
-    "mastercard",
     "discover",
     "wiretransfer",
     "erstebank",

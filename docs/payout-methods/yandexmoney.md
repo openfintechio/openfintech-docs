@@ -47,7 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Yandex.Mo
 |:---:|:---:|:---:| 
 |![ikajo](https://static.openfintech.io/payment_providers/ikajo/icon.png?w=278&c=v0.59.26#w100) |[Ikajo](/payment-providers/ikajo/)|`ikajo`| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
-|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[SafeCharge ](/payment-providers/safecharge/)|`safecharge`| 
+|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![walletone](https://static.openfintech.io/payment_providers/walletone/icon.svg?w=278&c=v0.59.26#w100) |[Wallet One](/payment-providers/walletone/)|`walletone`| 
 |![payboutique](https://static.openfintech.io/payment_providers/payboutique/icon.png?w=278&c=v0.59.26#w100) |[Payboutique ](/payment-providers/payboutique/)|`payboutique`| 
 |![klikpay](https://static.openfintech.io/payment_providers/klikpay/icon.png?w=278&c=v0.59.26#w100) |[Klik & Pay](/payment-providers/klikpay/)|`klikpay`| 
@@ -59,6 +59,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Yandex.Mo
 |![payeer](https://static.openfintech.io/payment_providers/payeer/icon.png?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
 |![piastrix](https://static.openfintech.io/payment_providers/piastrix/icon.svg?w=278&c=v0.59.26#w100) |[Piastrix](/payment-providers/piastrix/)|`piastrix`| 
 |![accentpay](https://static.openfintech.io/payment_providers/accentpay/icon.png?w=278&c=v0.59.26#w100) |[Accentpay](/payment-providers/accentpay/)|`accentpay`| 
+|![kassa](https://static.openfintech.io/payment_providers/kassa/icon.svg?w=278&c=v0.59.26#w100) |[Kassa](/payment-providers/kassa/)|`kassa`| 
+|![tome](https://static.openfintech.io/payment_providers/tome/icon.svg?w=278&c=v0.59.26#w100) |[Tome](/payment-providers/tome/)|`tome`| 
  
 
 ## JSON Object 

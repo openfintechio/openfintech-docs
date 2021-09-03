@@ -27,7 +27,7 @@
 |`document_id`|✔|`string`|`/^[0-9]{8,14}$/`| 
 |`document_type`|✔|`string`|`/^(DNI\|RUC\|CE\|PASS)$/`| 
 |`beneficiary_name`|✔|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
-|`beneficiary_lastname`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
+|`beneficiary_lastname`|✔|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
 |`bank_account`|✔|`string`|`/^[0-9]{20}$/`| 
 |`account_type`|✔|`string`|`/^[A-Z]{1}$/`| 
  
@@ -94,7 +94,7 @@
  
 	Regexp: `/^[A-Z\-\sa-z]{2,100}$/` 
  
-	Required: `` 
+	Required: `1` 
  
 	Label:  
 	: [EN] Beneficiary last name 
@@ -216,7 +216,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
       },
       "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
-      "required":false,
+      "required":true,
       "position":4
     },
     {

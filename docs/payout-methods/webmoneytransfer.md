@@ -49,11 +49,13 @@ The list of [Payment Providers](/payment-providers/) that support the _Webmoney 
 |![webmoney](https://static.openfintech.io/payment_providers/webmoney/icon.svg?w=278&c=v0.59.26#w100) |[WebMoney](/payment-providers/webmoney/)|`webmoney`| 
 |![ikajo](https://static.openfintech.io/payment_providers/ikajo/icon.png?w=278&c=v0.59.26#w100) |[Ikajo](/payment-providers/ikajo/)|`ikajo`| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
-|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[SafeCharge ](/payment-providers/safecharge/)|`safecharge`| 
+|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![walletone](https://static.openfintech.io/payment_providers/walletone/icon.svg?w=278&c=v0.59.26#w100) |[Wallet One](/payment-providers/walletone/)|`walletone`| 
 |![hipaymobile](https://static.openfintech.io/payment_providers/hipaymobile/icon.png?w=278&c=v0.59.26#w100) |[HiPay Mobile](/payment-providers/hipaymobile/)|`hipaymobile`| 
 |![assist](https://static.openfintech.io/payment_providers/assist/icon.png?w=278&c=v0.59.26#w100) |[ASSIST](/payment-providers/assist/)|`assist`| 
 |![paymaster](https://static.openfintech.io/payment_providers/paymaster/icon.svg?w=278&c=v0.59.26#w100) |[Paymaster](/payment-providers/paymaster/)|`paymaster`| 
+|![kassa](https://static.openfintech.io/payment_providers/kassa/icon.svg?w=278&c=v0.59.26#w100) |[Kassa](/payment-providers/kassa/)|`kassa`| 
+|![tome](https://static.openfintech.io/payment_providers/tome/icon.svg?w=278&c=v0.59.26#w100) |[Tome](/payment-providers/tome/)|`tome`| 
  
 
 ## JSON Object 

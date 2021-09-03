@@ -43,7 +43,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Tatra Ban
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![trustpay](https://static.openfintech.io/payment_providers/trustpay/icon.png?w=278&c=v0.59.26#w100) |[TrustPay](/payment-providers/trustpay/)|`trustpay`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
  
 

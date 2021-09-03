@@ -16,7 +16,7 @@
 :	[RU] RIOT 
 :	[UK] RIOT 
  
-**Amount limits:** from `1` to `700` UAH 
+**Amount limits:** from `1` to `499900` UAH 
 
 ## Fields 
 
@@ -76,6 +76,6 @@
     }
   ],
   "amount_min":"1",
-  "amount_max":"700"
+  "amount_max":"499900"
 }
 ```  

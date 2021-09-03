@@ -15,7 +15,7 @@
  
 **Countries:** 
  
-:	![AR](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ar.svg#w24) 	![BR](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/br.svg#w24) 	![MX](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/mx.svg#w24) 	![CL](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/cl.svg#w24) 	![CN](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/cn.svg#w24) 	![CO](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/co.svg#w24) 	![IN](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/in.svg#w24) 	![MX](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/mx.svg#w24) 	![PE](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/pe.svg#w24) 	![UY](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/uy.svg#w24)  
+:	![AR](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ar.svg#w24) 	![BR](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/br.svg#w24) 	![MX](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/mx.svg#w24) 	![CL](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/cl.svg#w24) 	![CN](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/cn.svg#w24) 	![CO](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/co.svg#w24) 	![IN](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/in.svg#w24) 	![MX](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/mx.svg#w24) 	![PE](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/pe.svg#w24) 	![UY](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/uy.svg#w24) 	![IN](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/in.svg#w24)  
 
 ## Images 
 
@@ -53,7 +53,8 @@ https://static.openfintech.io/payment_providers/dlocal/icon.svg?w=278&c=v0.59.26
     "IN",
     "MX",
     "PE",
-    "UY"
+    "UY",
+    "IN"
   ],
   "payment_method":null,
   "payout_method":null,

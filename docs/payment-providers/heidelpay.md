@@ -43,7 +43,7 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![postfinancecard](https://static.openfintech.io/payment_methods/postfinancecard/icon.png?w=278&c=v0.59.26#w100) |[postfinancecard](/payment-methods/postfinancecard/)|`postfinancecard`| 
 |![cashu](https://static.openfintech.io/payment_methods/cashu/icon.png?w=278&c=v0.59.26#w100) |[cashu](/payment-methods/cashu/)|`cashu`| 
 |![cartasi](https://static.openfintech.io/payment_methods/cartasi/icon.png?w=278&c=v0.59.26#w100) |[cartasi](/payment-methods/cartasi/)|`cartasi`| 
@@ -55,13 +55,11 @@ The list of supported [Payment Methods](/payment-methods/)
 |![chinaunionpay](https://static.openfintech.io/payment_methods/chinaunionpay/icon.svg?w=278&c=v0.59.26#w100) |[chinaunionpay](/payment-methods/chinaunionpay/)|`chinaunionpay`| 
 |![dankort](https://static.openfintech.io/payment_methods/dankort/icon.png?w=278&c=v0.59.26#w100) |[dankort](/payment-methods/dankort/)|`dankort`| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
-|![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
 |![ukash](https://static.openfintech.io/payment_methods/ukash/icon.png?w=278&c=v0.59.26#w100) |[ukash](/payment-methods/ukash/)|`ukash`| 
 |![elo](https://static.openfintech.io/payment_methods/elo/icon.png?w=278&c=v0.59.26#w100) |[elo](/payment-methods/elo/)|`elo`| 
 |![jcb](https://static.openfintech.io/payment_methods/jcb/icon.png?w=278&c=v0.59.26#w100) |[jcb](/payment-methods/jcb/)|`jcb`| 
 |![cartebleue](https://static.openfintech.io/payment_methods/cartebleue/icon.png?w=278&c=v0.59.26#w100) |[cartebleue](/payment-methods/cartebleue/)|`cartebleue`| 
 |![dinersclub](https://static.openfintech.io/payment_methods/dinersclub/icon.svg?w=278&c=v0.59.26#w100) |[dinersclub](/payment-methods/dinersclub/)|`dinersclub`| 
-|![maestro](https://static.openfintech.io/payment_methods/maestro/icon.svg?w=278&c=v0.59.26#w100) |[maestro](/payment-methods/maestro/)|`maestro`| 
 |![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.png?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
 |![discover](https://static.openfintech.io/payment_methods/discover/icon.svg?w=278&c=v0.59.26#w100) |[discover](/payment-methods/discover/)|`discover`| 
 |![presto](https://static.openfintech.io/payment_methods/presto/icon.png?w=278&c=v0.59.26#w100) |[presto](/payment-methods/presto/)|`presto`| 
@@ -85,7 +83,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![elektronischeslastschriftverfahren](https://static.openfintech.io/payment_methods/elektronischeslastschriftverfahren/icon.png?w=278&c=v0.59.26#w100) |[elektronischeslastschriftverfahren](/payment-methods/elektronischeslastschriftverfahren/)|`elektronischeslastschriftverfahren`| 
 |![afterpay](https://static.openfintech.io/payment_methods/afterpay/icon.png?w=278&c=v0.59.26#w100) |[afterpay](/payment-methods/afterpay/)|`afterpay`| 
 |![postpay](https://static.openfintech.io/payment_methods/postpay/icon.png?w=278&c=v0.59.26#w100) |[postpay](/payment-methods/postpay/)|`postpay`| 
-|![klarna](https://static.openfintech.io/payment_methods/klarna/icon.svg?w=278&c=v0.59.26#w100) |[klarna](/payment-methods/klarna/)|`klarna`| 
+|![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_klarna](/payment-methods/bank_transfer_klarna/)|`bank_transfer_klarna`| 
 |![oxxo](https://static.openfintech.io/payment_methods/oxxo/icon.svg?w=278&c=v0.59.26#w100) |[oxxo](/payment-methods/oxxo/)|`oxxo`| 
 |![7eleven](https://static.openfintech.io/payment_methods/7eleven/icon.png?w=278&c=v0.59.26#w100) |[7eleven](/payment-methods/7eleven/)|`7eleven`| 
 |![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.png?w=278&c=v0.59.26#w100) |[przelewy24](/payment-methods/przelewy24/)|`przelewy24`| 
@@ -176,7 +174,7 @@ The list of supported [Payment Methods](/payment-methods/)
     "VE"
   ],
   "payment_method":[
-    "visa2",
+    "payment_card",
     "postfinancecard",
     "cashu",
     "cartasi",
@@ -188,13 +186,11 @@ The list of supported [Payment Methods](/payment-methods/)
     "chinaunionpay",
     "dankort",
     "americanexpress",
-    "mastercard",
     "ukash",
     "elo",
     "jcb",
     "cartebleue",
     "dinersclub",
-    "maestro",
     "visaelectron",
     "discover",
     "presto",
@@ -218,7 +214,7 @@ The list of supported [Payment Methods](/payment-methods/)
     "elektronischeslastschriftverfahren",
     "afterpay",
     "postpay",
-    "klarna",
+    "bank_transfer_klarna",
     "oxxo",
     "7eleven",
     "przelewy24",

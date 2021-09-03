@@ -45,7 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![cardpay](https://static.openfintech.io/payment_providers/cardpay/icon.svg?w=278&c=v0.59.26#w100) |[CardPay](/payment-providers/cardpay/)|`cardpay`| 
+|![cardpay](https://static.openfintech.io/payment_providers/cardpay/icon.svg?w=278&c=v0.59.26#w100) |[Unlimint](/payment-providers/cardpay/)|`cardpay`| 
  
 
 ## JSON Object 

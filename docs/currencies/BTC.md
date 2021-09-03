@@ -12,7 +12,7 @@
  
 **Category:** `other` 
  
-**Type:** `digital` 
+**Type:** `crypto` 
  
 **Exponent:** `8` 
  
@@ -43,7 +43,7 @@ https://static.openfintech.io/currencies/BTC/icon.svg?w=278&c=v0.59.26#w100
   "name":{
     "en":"BTC"
   },
-  "type":"digital",
+  "type":"crypto",
   "exponent":8,
   "parent_currency_multiplier":1,
   "category":"other",

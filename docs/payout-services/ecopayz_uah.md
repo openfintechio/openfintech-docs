@@ -16,7 +16,7 @@
 :	[RU] Ecopayz 
 :	[UK] Ecopayz 
  
-**Amount limits:** from `1.00` to `50000.00` UAH 
+**Amount limits:** from `1.00` to `999999.00` UAH 
 
 ## Fields 
 
@@ -76,6 +76,6 @@
     }
   ],
   "amount_min":"1.00",
-  "amount_max":"50000.00"
+  "amount_max":"999999.00"
 }
 ```  

@@ -12,7 +12,7 @@
  
 **Category:** `cryptocurrency` 
  
-**Type:** `digital` 
+**Type:** `crypto` 
  
 **Exponent:** `8` 
  
@@ -43,7 +43,7 @@ https://static.openfintech.io/currencies/BCH/icon.png?w=278&c=v0.59.26#w100
   "name":{
     "en":"BCH"
   },
-  "type":"digital",
+  "type":"crypto",
   "exponent":8,
   "parent_currency_multiplier":1,
   "category":"cryptocurrency",

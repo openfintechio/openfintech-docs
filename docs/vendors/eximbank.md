@@ -1,5 +1,5 @@
 
-#  
+# Ukreximbank 
 ![eximbank](https://static.openfintech.io/vendors/eximbank/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -9,6 +9,7 @@
 **Name:** 
  
 :	[RU] Ukreximbank 
+:	[EN] Ukreximbank 
  
 **Status:** `active` 
  
@@ -37,7 +38,8 @@ https://static.openfintech.io/vendors/eximbank/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"eximbank",
   "name":{
-    "ru":"Ukreximbank"
+    "ru":"Ukreximbank",
+    "en":"Ukreximbank"
   },
   "status":"active",
   "description":null,

@@ -1,5 +1,5 @@
 
-# ADB Unit of Account 
+# XUA - The African Development Bank (ADB) is using a Unit of Account which is registered as XUA as ISO 4217 standard currency code. 
 ![XUA](https://static.openfintech.io/currencies/XUA/icon.svg?w=278&c=v0.59.26#w100)  
 
 ## General 
@@ -8,7 +8,7 @@
  
 **Name:** 
  
-:	[EN] ADB Unit of Account 
+:	[EN] XUA - The African Development Bank (ADB) is using a Unit of Account which is registered as XUA as ISO 4217 standard currency code. 
  
 **Category:** `other` 
  
@@ -39,7 +39,7 @@ https://static.openfintech.io/currencies/XUA/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"XUA",
   "name":{
-    "en":"ADB Unit of Account"
+    "en":"XUA - The African Development Bank (ADB) is using a Unit of Account which is registered as XUA as ISO 4217 standard currency code."
   },
   "type":"national",
   "exponent":2,

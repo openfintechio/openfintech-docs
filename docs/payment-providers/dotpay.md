@@ -11,6 +11,8 @@
 **Name:** 
  
 :	[EN] Dotpay 
+:	[RU] Dotpay 
+:	[UK] Dotpay 
  
  
 **Countries:** 
@@ -34,6 +36,15 @@ https://static.openfintech.io/payment_providers/dotpay/logo.png?w=400&c=v0.59.26
 ```
 https://static.openfintech.io/payment_providers/dotpay/icon.png?w=278&c=v0.59.26#w100
 ```  
+
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![banktransfer](https://static.openfintech.io/payout_methods/banktransfer/icon.svg?w=278&c=v0.59.26#w40) |[banktransfer](payout-methodsbanktransfer/)|`banktransfer`| 
+ 
 
 ## JSON Object 
 
@@ -134,12 +145,16 @@ https://static.openfintech.io/payment_providers/dotpay/icon.png?w=278&c=v0.59.26
     "VN"
   ],
   "payment_method":null,
-  "payout_method":null,
+  "payout_method":[
+    "banktransfer"
+  ],
   "metadata":{
     "about_payments_code":"dotpay"
   },
   "name":{
-    "en":"Dotpay"
+    "en":"Dotpay",
+    "ru":"Dotpay",
+    "uk":"Dotpay"
   }
 }
 ```  

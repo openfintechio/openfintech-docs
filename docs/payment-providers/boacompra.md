@@ -45,18 +45,16 @@ The list of supported [Payment Methods](/payment-methods/)
 |:---:|:---:|:---:| 
 |![tarjetanaranjacreditcard](https://static.openfintech.io/payment_methods/tarjetanaranjacreditcard/icon.png?w=278&c=v0.59.26#w100) |[tarjetanaranjacreditcard](/payment-methods/tarjetanaranjacreditcard/)|`tarjetanaranjacreditcard`| 
 |![aura](https://static.openfintech.io/payment_methods/aura/icon.png?w=278&c=v0.59.26#w100) |[aura](/payment-methods/aura/)|`aura`| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
 |![cabal](https://static.openfintech.io/payment_methods/cabal/icon.png?w=278&c=v0.59.26#w100) |[cabal](/payment-methods/cabal/)|`cabal`| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
 |![magna](https://static.openfintech.io/payment_methods/magna/icon.svg?w=278&c=v0.59.26#w100) |[magna](/payment-methods/magna/)|`magna`| 
 |![hipercard](https://static.openfintech.io/payment_methods/hipercard/icon.png?w=278&c=v0.59.26#w100) |[hipercard](/payment-methods/hipercard/)|`hipercard`| 
-|![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
 |![elo](https://static.openfintech.io/payment_methods/elo/icon.png?w=278&c=v0.59.26#w100) |[elo](/payment-methods/elo/)|`elo`| 
 |![multibanconet](https://static.openfintech.io/payment_methods/multibanconet/icon.png?w=278&c=v0.59.26#w100) |[multibanconet](/payment-methods/multibanconet/)|`multibanconet`| 
 |![dinersclub](https://static.openfintech.io/payment_methods/dinersclub/icon.svg?w=278&c=v0.59.26#w100) |[dinersclub](/payment-methods/dinersclub/)|`dinersclub`| 
 |![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.png?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
-|![maestro](https://static.openfintech.io/payment_methods/maestro/icon.svg?w=278&c=v0.59.26#w100) |[maestro](/payment-methods/maestro/)|`maestro`| 
 |![tarjetaripley](https://static.openfintech.io/payment_methods/tarjetaripley/icon.png?w=278&c=v0.59.26#w100) |[tarjetaripley](/payment-methods/tarjetaripley/)|`tarjetaripley`| 
 |![bancopopular](https://static.openfintech.io/payment_methods/bancopopular/icon.png?w=278&c=v0.59.26#w100) |[bancopopular](/payment-methods/bancopopular/)|`bancopopular`| 
 |![smsbilling](https://static.openfintech.io/payment_methods/smsbilling/icon.png?w=278&c=v0.59.26#w100) |[smsbilling](/payment-methods/smsbilling/)|`smsbilling`| 
@@ -96,18 +94,16 @@ The list of supported [Payment Methods](/payment-methods/)
   "payment_method":[
     "tarjetanaranjacreditcard",
     "aura",
-    "visa2",
+    "payment_card",
     "paysafecard",
     "cabal",
     "americanexpress",
     "magna",
     "hipercard",
-    "mastercard",
     "elo",
     "multibanconet",
     "dinersclub",
     "visaelectron",
-    "maestro",
     "tarjetaripley",
     "bancopopular",
     "smsbilling"

@@ -40,7 +40,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![rupaypaysecure](https://static.openfintech.io/payment_methods/rupaypaysecure/icon.png?w=278&c=v0.59.26#w100) |[rupaypaysecure](/payment-methods/rupaypaysecure/)|`rupaypaysecure`| 
-|![visa2](https://static.openfintech.io/payment_methods/visa2/icon.png?w=278&c=v0.59.26#w100) |[visa2](/payment-methods/visa2/)|`visa2`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![cartasi](https://static.openfintech.io/payment_methods/cartasi/icon.png?w=278&c=v0.59.26#w100) |[cartasi](/payment-methods/cartasi/)|`cartasi`| 
  
 
@@ -60,7 +60,7 @@ The list of supported [Payment Methods](/payment-methods/)
   "countries":null,
   "payment_method":[
     "rupaypaysecure",
-    "visa2",
+    "payment_card",
     "cartasi"
   ],
   "payout_method":null,

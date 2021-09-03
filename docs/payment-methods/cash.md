@@ -1,5 +1,5 @@
 
-# Cash 
+# CASH 
 ![cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,11 +7,9 @@
  
 **Name:** 
  
-:	[EN] Cash 
-:	[RU] Наличные 
-:	[UK] Готівка 
+:	[EN] CASH 
  
-**Category:** `alternative` 
+**Category:** `cash_payment` 
  
 
 ## Images 
@@ -32,7 +30,7 @@ https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w10
 
 ## Payment Services 
  
-The list of [Payment Services](/payment-services/) based on the _Cash_ 
+The list of [Payment Services](/payment-services/) based on the _CASH_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -40,15 +38,25 @@ The list of [Payment Services](/payment-services/) based on the _Cash_
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_eur_hpp](/payment-services/cash_eur_hpp/)|`cash_eur_hpp`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_usd_hpp](/payment-services/cash_usd_hpp/)|`cash_usd_hpp`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_uah_hpp](/payment-services/cash_uah_hpp/)|`cash_uah_hpp`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_uah_invoice](/payment-services/cash_uah_invoice/)|`cash_uah_invoice`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_rub_invoice](/payment-services/cash_rub_invoice/)|`cash_rub_invoice`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_usd_invoice](/payment-services/cash_usd_invoice/)|`cash_usd_invoice`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_eur_invoice](/payment-services/cash_eur_invoice/)|`cash_eur_invoice`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_gbp_invoice](/payment-services/cash_gbp_invoice/)|`cash_gbp_invoice`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_cad_invoice](/payment-services/cash_cad_invoice/)|`cash_cad_invoice`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_aud_invoice](/payment-services/cash_aud_invoice/)|`cash_aud_invoice`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_pln_invoice](/payment-services/cash_pln_invoice/)|`cash_pln_invoice`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_kzt_invoice](/payment-services/cash_kzt_invoice/)|`cash_kzt_invoice`| 
  
 
 ## Payment Providers 
  
-The list of [Payment Providers](/payment-providers/) that support the _Cash_ 
+The list of [Payment Providers](/payment-providers/) that support the _CASH_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![liqpay](https://static.openfintech.io/payment_providers/liqpay/icon.svg?w=278&c=v0.59.26#w100) |[LiqPay](/payment-providers/liqpay/)|`liqpay`| 
+|![manual](https://static.openfintech.io/payment_providers/manual/icon.svg?w=278&c=v0.59.26#w100) |[Manual](/payment-providers/manual/)|`manual`| 
  
 
 ## JSON Object 
@@ -58,12 +66,10 @@ The list of [Payment Providers](/payment-providers/) that support the _Cash_
   "code":"cash",
   "vendor":null,
   "name":{
-    "en":"Cash",
-    "ru":"\u041d\u0430\u043b\u0438\u0447\u043d\u044b\u0435",
-    "uk":"\u0413\u043e\u0442\u0456\u0432\u043a\u0430"
+    "en":"CASH"
   },
   "description":null,
   "countries":null,
-  "category":"alternative"
+  "category":"cash_payment"
 }
 ```  

@@ -43,6 +43,7 @@ The list of [Payout Services](/payout-services/) based on the _PayPal_
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_email_cad](/payout-services/paypal_email_cad/)|`paypal_email_cad`| 
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_email_aud](/payout-services/paypal_email_aud/)|`paypal_email_aud`| 
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_email_pln](/payout-services/paypal_email_pln/)|`paypal_email_pln`| 
+|![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_email_php](/payout-services/paypal_email_php/)|`paypal_email_php`| 
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_phone_usd](/payout-services/paypal_phone_usd/)|`paypal_phone_usd`| 
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_phone_eur](/payout-services/paypal_phone_eur/)|`paypal_phone_eur`| 
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_phone_gbp](/payout-services/paypal_phone_gbp/)|`paypal_phone_gbp`| 
@@ -51,6 +52,7 @@ The list of [Payout Services](/payout-services/) based on the _PayPal_
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_phone_mxn](/payout-services/paypal_phone_mxn/)|`paypal_phone_mxn`| 
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_phone_cad](/payout-services/paypal_phone_cad/)|`paypal_phone_cad`| 
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_phone_aud](/payout-services/paypal_phone_aud/)|`paypal_phone_aud`| 
+|![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_phone_php](/payout-services/paypal_phone_php/)|`paypal_phone_php`| 
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_id_usd](/payout-services/paypal_id_usd/)|`paypal_id_usd`| 
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_id_eur](/payout-services/paypal_id_eur/)|`paypal_id_eur`| 
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_id_gbp](/payout-services/paypal_id_gbp/)|`paypal_id_gbp`| 
@@ -59,6 +61,7 @@ The list of [Payout Services](/payout-services/) based on the _PayPal_
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_id_huf](/payout-services/paypal_id_huf/)|`paypal_id_huf`| 
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_id_cad](/payout-services/paypal_id_cad/)|`paypal_id_cad`| 
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_id_aud](/payout-services/paypal_id_aud/)|`paypal_id_aud`| 
+|![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal_id_php](/payout-services/paypal_id_php/)|`paypal_id_php`| 
  
 
 ## Payment Providers 
@@ -72,7 +75,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PayPal_
 |![paypal](https://static.openfintech.io/payment_providers/paypal/icon.svg?w=278&c=v0.59.26#w100) |[PayPal](/payment-providers/paypal/)|`paypal`| 
 |![ikajo](https://static.openfintech.io/payment_providers/ikajo/icon.png?w=278&c=v0.59.26#w100) |[Ikajo](/payment-providers/ikajo/)|`ikajo`| 
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
-|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[SafeCharge ](/payment-providers/safecharge/)|`safecharge`| 
+|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![intelligentpayments](https://static.openfintech.io/payment_providers/intelligentpayments/icon.png?w=278&c=v0.59.26#w100) |[Intelligent Payments](/payment-providers/intelligentpayments/)|`intelligentpayments`| 
 |![be2bill](https://static.openfintech.io/payment_providers/be2bill/icon.png?w=278&c=v0.59.26#w100) |[Be2bill](/payment-providers/be2bill/)|`be2bill`| 
 |![multisafepay](https://static.openfintech.io/payment_providers/multisafepay/icon.png?w=278&c=v0.59.26#w100) |[MultiSafepay](/payment-providers/multisafepay/)|`multisafepay`| 

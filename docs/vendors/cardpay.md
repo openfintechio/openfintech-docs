@@ -1,5 +1,5 @@
 
-# CardPay 
+# Unlimint 
 ![cardpay](https://static.openfintech.io/vendors/cardpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,17 +8,17 @@
  
 **Name:** 
  
-:	[EN] CardPay 
+:	[EN] Unlimint 
  
 **Status:** `active` 
  
 **Description:** 
  
-: [EN]  CardPay was founded in 2009 and in spite of its relatively young age the company has already become an acknowledged and reputable player both on the European and International scene. CardPay has proven itself to be a company offering: ·         Top flight technology and software ·         Flexible individual approach to every customer ·         Significantly low transaction rates ·         The highest possible security standards ·         Complete accuracy of financial settlements CardPay has recently been awarded as the Best Payment Service Provider in Western Europe 2014 by prestigious Global Banking & Finance Review (UK). Beside that, being an active participant of  
+: [EN]  Unlimint not only provides card processing, it offers thousands of alternative payment methods. All of these are to make sure that you’ll be able to serve your customers anywhere in the world, even where plastic cards aren’t widespread.  
  
 **Contacts:** 
 email: p.dalziel@cardpay.comphone: 00357 977 18986**Address:** 
-street:  Limassol LimassolLimassolCyprus  
+street:  2 Seething Lane, 7th Floor, EC3N 4AT, London, United Kingdom  
 
 ## Images 
 
@@ -44,11 +44,11 @@ https://static.openfintech.io/vendors/cardpay/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"cardpay",
   "name":{
-    "en":"CardPay"
+    "en":"Unlimint"
   },
   "status":"active",
   "description":{
-    "en":" CardPay was founded in 2009 and in spite of its relatively young age the company has already become an acknowledged and reputable player both on the European and International scene. CardPay has proven itself to be a company offering: \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Top flight technology and software \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Flexible individual approach to every customer \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Significantly low transaction rates \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0The highest possible security standards \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Complete accuracy of financial settlements CardPay has recently been awarded as the Best Payment Service Provider in Western Europe 2014 by prestigious Global Banking & Finance Review (UK). Beside that, being an active participant of "
+    "en":" Unlimint not only provides card processing, it offers thousands of alternative payment methods. All of these are to make sure that you\u2019ll be able to serve your customers anywhere in the world, even where plastic cards aren\u2019t widespread. "
   },
   "links":null,
   "countries":null,
@@ -57,7 +57,7 @@ https://static.openfintech.io/vendors/cardpay/icon.svg?w=278&c=v0.59.26#w100
     "phone":"00357 977 18986"
   },
   "address":{
-    "street":" Limassol LimassolLimassolCyprus "
+    "street":" 2 Seething Lane, 7th Floor, EC3N 4AT, London, United Kingdom "
   },
   "social_profiles":null
 }

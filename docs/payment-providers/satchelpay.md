@@ -1,6 +1,6 @@
 
-# SatchelPay 
-![satchelpay](https://static.openfintech.io/payment_providers/satchelpay/logo.svg?w=400&c=v0.59.26#w100)  
+# Satchel 
+![satchelpay](https://static.openfintech.io/payment_providers/satchelpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -10,17 +10,17 @@
  
 **Name:** 
  
-:	[EN] SatchelPay 
+:	[EN] Satchel 
  
 
 ## Images 
 
 ### Logo 
  
-![satchelpay](https://static.openfintech.io/payment_providers/satchelpay/logo.svg?w=400&c=v0.59.26#w100)  
+![satchelpay](https://static.openfintech.io/payment_providers/satchelpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/satchelpay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/satchelpay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
@@ -55,7 +55,7 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"SatchelPay"
+    "en":"Satchel"
   }
 }
 ```  

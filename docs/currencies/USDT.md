@@ -12,9 +12,9 @@
  
 **Category:** `cryptocurrency` 
  
-**Type:** `digital` 
+**Type:** `crypto` 
  
-**Exponent:** `2` 
+**Exponent:** `8` 
  
 **Parent currency multiplier:** `1` 
  
@@ -41,8 +41,8 @@ https://static.openfintech.io/currencies/USDT/icon.svg?w=278&c=v0.59.26#w100
   "name":{
     "en":"USDT"
   },
-  "type":"digital",
-  "exponent":2,
+  "type":"crypto",
+  "exponent":8,
   "parent_currency_multiplier":1,
   "category":"cryptocurrency",
   "iso_numeric3_code":null,

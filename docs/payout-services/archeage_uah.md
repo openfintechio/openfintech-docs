@@ -16,7 +16,7 @@
 :	[RU] ArcheAge 
 :	[UK] ArcheAge 
  
-**Amount limits:** from `7` to `4999` UAH 
+**Amount limits:** from `7` to `300000` UAH 
 
 ## Fields 
 
@@ -76,6 +76,6 @@
     }
   ],
   "amount_min":"7",
-  "amount_max":"4999"
+  "amount_max":"300000"
 }
 ```  

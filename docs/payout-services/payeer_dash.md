@@ -16,7 +16,7 @@
 :	[RU] Payeer 
 :	[UK] Payeer 
  
-**Amount limits:** from `0.0001` to `1000` DASH 
+**Amount limits:** from `0.01` to `1000` DASH 
 
 ## Fields 
 
@@ -74,7 +74,7 @@
       "position":1
     }
   ],
-  "amount_min":"0.0001",
+  "amount_min":"0.01",
   "amount_max":"1000"
 }
 ```  

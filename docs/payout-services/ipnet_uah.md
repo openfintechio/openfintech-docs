@@ -16,7 +16,7 @@
 :	[RU] IPnet 
 :	[UK] IPnet 
  
-**Amount limits:** from `2` to `14999` UAH 
+**Amount limits:** from `2` to `499900` UAH 
 
 ## Fields 
 
@@ -76,6 +76,6 @@
     }
   ],
   "amount_min":"2",
-  "amount_max":"14999"
+  "amount_max":"499900"
 }
 ```  

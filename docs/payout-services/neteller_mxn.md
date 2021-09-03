@@ -16,7 +16,7 @@
 :	[RU] Neteller 
 :	[UK] Neteller 
  
-**Amount limits:** from `1` to `50000` MXN 
+**Amount limits:** from `1` to `99999` MXN 
 
 ## Fields 
 
@@ -75,6 +75,6 @@
     }
   ],
   "amount_min":"1",
-  "amount_max":"50000"
+  "amount_max":"99999"
 }
 ```  

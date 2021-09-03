@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Beeline_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![beeline](https://static.openfintech.io/payment_methods/beeline/icon.png?w=278&c=v0.59.26#w100) |[beeline_rub_hpp](/payment-services/beeline_rub_hpp/)|`beeline_rub_hpp`| 
+|![beeline](https://static.openfintech.io/payment_methods/beeline/icon.png?w=278&c=v0.59.26#w100) |[beeline_rub_invoice](/payment-services/beeline_rub_invoice/)|`beeline_rub_invoice`| 
  
 
 ## Payment Providers 

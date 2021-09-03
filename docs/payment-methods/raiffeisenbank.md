@@ -1,6 +1,6 @@
 
 # Raiffeisen Bank 
-![raiffeisenbank](https://static.openfintech.io/payment_methods/raiffeisenbank/logo.png?w=400&c=v0.59.26#w200)  
+![raiffeisenbank](https://static.openfintech.io/payment_methods/raiffeisenbank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `raiffeisenbank` 
@@ -26,17 +26,17 @@
 ## Images 
 
 ### Logo 
-![raiffeisenbank](https://static.openfintech.io/payment_methods/raiffeisenbank/logo.png?w=400&c=v0.59.26#w200)  
+![raiffeisenbank](https://static.openfintech.io/payment_methods/raiffeisenbank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/raiffeisenbank/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/raiffeisenbank/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![raiffeisenbank](https://static.openfintech.io/payment_methods/raiffeisenbank/icon.png?w=278&c=v0.59.26#w100)  
+![raiffeisenbank](https://static.openfintech.io/payment_methods/raiffeisenbank/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/raiffeisenbank/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/raiffeisenbank/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Providers 

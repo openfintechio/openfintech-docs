@@ -45,7 +45,6 @@ The list of supported [Payment Methods](/payment-methods/)
 |:---:|:---:|:---:| 
 |![chinaunionpay](https://static.openfintech.io/payment_methods/chinaunionpay/icon.svg?w=278&c=v0.59.26#w100) |[chinaunionpay](/payment-methods/chinaunionpay/)|`chinaunionpay`| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
-|![mastercard](https://static.openfintech.io/payment_methods/mastercard/icon.svg?w=278&c=v0.59.26#w100) |[mastercard](/payment-methods/mastercard/)|`mastercard`| 
 |![jcb](https://static.openfintech.io/payment_methods/jcb/icon.png?w=278&c=v0.59.26#w100) |[jcb](/payment-methods/jcb/)|`jcb`| 
 |![hdfcbanknetbankingindia](https://static.openfintech.io/payment_methods/hdfcbanknetbankingindia/icon.png?w=278&c=v0.59.26#w100) |[hdfcbanknetbankingindia](/payment-methods/hdfcbanknetbankingindia/)|`hdfcbanknetbankingindia`| 
 |![icicinetbanking](https://static.openfintech.io/payment_methods/icicinetbanking/icon.png?w=278&c=v0.59.26#w100) |[icicinetbanking](/payment-methods/icicinetbanking/)|`icicinetbanking`| 
@@ -75,6 +74,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![smartmoney](https://static.openfintech.io/payment_methods/smartmoney/icon.png?w=278&c=v0.59.26#w100) |[smartmoney](/payment-methods/smartmoney/)|`smartmoney`| 
 |![alipay](https://static.openfintech.io/payment_methods/alipay/icon.svg?w=278&c=v0.59.26#w100) |[alipay](/payment-methods/alipay/)|`alipay`| 
 |![masterpass](https://static.openfintech.io/payment_methods/masterpass/icon.png?w=278&c=v0.59.26#w100) |[masterpass](/payment-methods/masterpass/)|`masterpass`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
  
 
 ## JSON Object 
@@ -105,7 +105,6 @@ The list of supported [Payment Methods](/payment-methods/)
   "payment_method":[
     "chinaunionpay",
     "americanexpress",
-    "mastercard",
     "jcb",
     "hdfcbanknetbankingindia",
     "icicinetbanking",
@@ -134,7 +133,8 @@ The list of supported [Payment Methods](/payment-methods/)
     "gcashwallet",
     "smartmoney",
     "alipay",
-    "masterpass"
+    "masterpass",
+    "payment_card"
   ],
   "payout_method":null,
   "metadata":{

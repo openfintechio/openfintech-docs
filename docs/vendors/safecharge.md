@@ -1,5 +1,5 @@
 
-# SafeCharge  
+# Nuvei 
 ![safecharge](https://static.openfintech.io/vendors/safecharge/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,20 +8,20 @@
  
 **Name:** 
  
-:	[EN] SafeCharge  
+:	[EN] Nuvei 
  
 **Status:** `active` 
  
 **Description:** 
  
-: [EN]  SafeCharge is the payment service partner for the world’s most demanding businesses. SafeCharge provides global omni-channel payments services from card acquiring and issuance to payment processing and checkout, all underpinned by advanced risk management solutions. This fully featured proprietary payment platform connects directly to all major payment card schemes including Visa, MasterCard, American Express and Union Pay as well as over 150 local payment methods. With offices around the world, SafeCharge serves a diversified, blue chip client base and is a trusted payment partner for customers across a range of vertical markets. The company has been listed on the London Stock Exchange AIM market since 2014. For more information see: http://www.safecharge.com/                                                
+: [EN]  Nuvei is the payment technology partner of thriving brands. We provide the payment intelligence and technology businesses need to succeed locally and globally, through one integration — propelling them further, faster.                                                
  
 **Links:** 
-: website [http://www.safecharge.com](http://www.safecharge.com) 
+: website [https://nuvei.com/en-ca/](https://nuvei.com/en-ca/) 
  
 **Contacts:** 
-phone: +44 203 051 3031**Address:** 
-street:  6th Floor, 2 Kingdom StreetW2 6BD LondonUnited Kingdom  
+phone: +1 866-693-2000**Address:** 
+street:  1100 René-Lévesque, 9th Floor, Montréal, QC, Canada, H3B 4N4  
 
 ## Images 
 
@@ -47,21 +47,21 @@ https://static.openfintech.io/vendors/safecharge/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"safecharge",
   "name":{
-    "en":"SafeCharge "
+    "en":"Nuvei"
   },
   "status":"active",
   "description":{
-    "en":" SafeCharge is the payment service partner for the world\u2019s most demanding businesses. SafeCharge provides global omni-channel payments services from card acquiring and issuance to payment processing and checkout, all underpinned by advanced risk management solutions. This fully featured proprietary payment platform connects directly to all major payment card schemes including Visa, MasterCard, American Express and Union Pay as well as over 150 local payment methods. With offices around the world, SafeCharge serves a diversified, blue chip client base and is a trusted payment partner for customers across a range of vertical markets. The company has been listed on the London Stock Exchange AIM market since 2014. For more information see: http:\/\/www.safecharge.com\/\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 "
+    "en":" Nuvei is the payment technology partner of thriving brands. We provide the payment intelligence and technology businesses need to succeed locally and globally, through one integration \u2014 propelling them further, faster.\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 "
   },
   "links":{
-    "website":"http:\/\/www.safecharge.com"
+    "website":"https:\/\/nuvei.com\/en-ca\/"
   },
   "countries":null,
   "contacts":{
-    "phone":"+44 203 051 3031"
+    "phone":"+1 866-693-2000"
   },
   "address":{
-    "street":" 6th Floor, 2 Kingdom StreetW2 6BD LondonUnited Kingdom "
+    "street":" 1100 Ren\u00e9-L\u00e9vesque, 9th Floor, Montr\u00e9al, QC, Canada, H3B 4N4 "
   },
   "social_profiles":null
 }

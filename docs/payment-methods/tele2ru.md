@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Tele2_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![tele2ru](https://static.openfintech.io/payment_methods/tele2ru/icon.svg?w=278&c=v0.59.26#w100) |[tele2ru_rub_hpp](/payment-services/tele2ru_rub_hpp/)|`tele2ru_rub_hpp`| 
+|![tele2ru](https://static.openfintech.io/payment_methods/tele2ru/icon.svg?w=278&c=v0.59.26#w100) |[tele2ru_rub_invoice](/payment-services/tele2ru_rub_invoice/)|`tele2ru_rub_invoice`| 
  
 
 ## Payment Providers 

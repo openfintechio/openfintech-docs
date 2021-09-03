@@ -14,6 +14,7 @@
 **Description:** 
  
 : [RU] Чек Paymer 
+: [EN] Paymer check 
  
 **Category:** `alternative` 
  
@@ -47,7 +48,8 @@ https://static.openfintech.io/payment_methods/paymer/icon.png?w=278&c=v0.59.26#w
     "en":"Paymer check"
   },
   "description":{
-    "ru":"\u0427\u0435\u043a Paymer"
+    "ru":"\u0427\u0435\u043a Paymer",
+    "en":"Paymer check"
   },
   "countries":[
     "UA"

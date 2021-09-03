@@ -37,6 +37,8 @@ The list of [Payout Services](/payout-services/) based on the _WinPay_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![winpay](https://static.openfintech.io/payout_methods/winpay/icon.svg?w=278&c=v0.59.26#w40) |[winpay_rub](/payout-services/winpay_rub/)|`winpay_rub`| 
+|![winpay](https://static.openfintech.io/payout_methods/winpay/icon.svg?w=278&c=v0.59.26#w40) |[winpay_eur](/payout-services/winpay_eur/)|`winpay_eur`| 
+|![winpay](https://static.openfintech.io/payout_methods/winpay/icon.svg?w=278&c=v0.59.26#w40) |[winpay_usd](/payout-services/winpay_usd/)|`winpay_usd`| 
  
 
 ## JSON Object 

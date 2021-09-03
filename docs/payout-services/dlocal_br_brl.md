@@ -25,12 +25,12 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`document_id`|✔|`string`|`/^[0-9]{8,14}$/`| 
-|`bank_account`|✔|`string`|`/^[0-9\-]{4,18}$/`| 
+|`bank_account`|✔|`string`|`/^[0-9.\-]{4,18}$/`| 
 |`bank_code`|✔|`string`|`/^[0-9]{3}$/`| 
 |`bank_branch`|✔|`string`|`/^[A-Za-z0-9\-]{2,100}$/`| 
 |`account_type`|✔|`string`|`/^[A-Z]{1}$/`| 
 |`beneficiary_name`|✔|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
-|`beneficiary_lastname`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
+|`beneficiary_lastname`|✔|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
  
 
 ### Details 
@@ -57,7 +57,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9\-]{4,18}$/` 
+	Regexp: `/^[0-9.\-]{4,18}$/` 
  
 	Required: `1` 
  
@@ -149,7 +149,7 @@
  
 	Regexp: `/^[A-Z\-\sa-z]{2,100}$/` 
  
-	Required: `` 
+	Required: `1` 
  
 	Label:  
 	: [EN] Beneficiary last name 
@@ -190,7 +190,7 @@
     {
       "key":"bank_account",
       "type":"string",
-      "regexp":"\/^[0-9\\-]{4,18}$\/",
+      "regexp":"\/^[0-9.\\-]{4,18}$\/",
       "label":{
         "en":"Bank Account",
         "ru":"\u041d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430",
@@ -286,7 +286,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
       },
       "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
-      "required":false,
+      "required":true,
       "position":7
     }
   ],

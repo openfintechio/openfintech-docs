@@ -28,7 +28,7 @@
 |`email`|✔|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/`| 
 |`phone`|✔|`string`|`/^\d{9,14}$/`| 
 |`bank_account`|✔|`string`|`/^\d{1,40}$/`| 
-|`ifsc`|✔|`string`|`/^[A-Za-z]{4}\d{7}$/`| 
+|`ifsc`|✔|`string`|`/^[A-Za-z0-9]{1,11}$/`| 
 |`address`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
  
 
@@ -110,7 +110,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-z]{4}\d{7}$/` 
+	Regexp: `/^[A-Za-z0-9]{1,11}$/` 
  
 	Required: `1` 
  
@@ -233,7 +233,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 IFSC",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c IFSC"
       },
-      "regexp":"\/^[A-Za-z]{4}\\d{7}$\/",
+      "regexp":"\/^[A-Za-z0-9]{1,11}$\/",
       "required":true,
       "position":5
     },

@@ -1,5 +1,5 @@
 
-#  
+# Euteller 
 ![euteller](https://static.openfintech.io/payment_methods/euteller/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -9,7 +9,7 @@
  
 **Name:** 
  
-:	[UK] Euteller 
+:	[EN] Euteller 
  
 **Description:** 
  
@@ -36,11 +36,11 @@ https://static.openfintech.io/payment_methods/euteller/icon.png?w=278&c=v0.59.26
 
 ## Payment Providers 
  
-The list of [Payment Providers](/payment-providers/) that support the __ 
+The list of [Payment Providers](/payment-providers/) that support the _Euteller_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[SafeCharge ](/payment-providers/safecharge/)|`safecharge`| 
+|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![intelligentpayments](https://static.openfintech.io/payment_providers/intelligentpayments/icon.png?w=278&c=v0.59.26#w100) |[Intelligent Payments](/payment-providers/intelligentpayments/)|`intelligentpayments`| 
  
 
@@ -51,7 +51,7 @@ The list of [Payment Providers](/payment-providers/) that support the __
   "code":"euteller",
   "vendor":"euteller",
   "name":{
-    "uk":"Euteller"
+    "en":"Euteller"
   },
   "description":{
     "en":"Euteller is a privately held payment service provider enabling consumers to make direct payment using online bank account."

@@ -17,6 +17,7 @@
 |![ACRUB](https://static.openfintech.io/currencies/ACRUB/icon.svg?w=278&c=v0.59.26#w100) |[**ACRUB**](ACRUB/)|`ACRUB`| 
 |![ACUAH](https://static.openfintech.io/currencies/ACUAH/icon.svg?w=278&c=v0.59.26#w100) |[**ACUAH**](ACUAH/)|`ACUAH`| 
 |![ACUSD](https://static.openfintech.io/currencies/ACUSD/icon.svg?w=278&c=v0.59.26#w100) |[**ACUSD**](ACUSD/)|`ACUSD`| 
+|![ADA](https://static.openfintech.io/currencies/ADA/icon.svg?w=278&c=v0.59.26#w100) |[**ADA**](ADA/)|`ADA`| 
 |![ADVCEUR](https://static.openfintech.io/currencies/ADVCEUR/icon.svg?w=278&c=v0.59.26#w100) |[**ADVCEUR**](ADVCEUR/)|`ADVCEUR`| 
 |![ADVCKZT](https://static.openfintech.io/currencies/ADVCKZT/icon.svg?w=278&c=v0.59.26#w100) |[**ADVCKZT**](ADVCKZT/)|`ADVCKZT`| 
 |![ADVCRUB](https://static.openfintech.io/currencies/ADVCRUB/icon.svg?w=278&c=v0.59.26#w100) |[**ADVCRUB**](ADVCRUB/)|`ADVCRUB`| 
@@ -73,6 +74,7 @@
 |![BLRBUSD](https://static.openfintech.io/currencies/BLRBUSD/icon.svg?w=278&c=v0.59.26#w100) |[**BLRBUSD**](BLRBUSD/)|`BLRBUSD`| 
 |![BLSBBYN](https://static.openfintech.io/currencies/BLSBBYN/icon.svg?w=278&c=v0.59.26#w100) |[**BLSBBYN**](BLSBBYN/)|`BLSBBYN`| 
 |![BMD](https://static.openfintech.io/currencies/BMD/icon.svg?w=278&c=v0.59.26#w100) |[**Bermudian Dollar**](BMD/)|`BMD`| 
+|![BNB](https://static.openfintech.io/currencies/BNB/icon.svg?w=278&c=v0.59.26#w100) |[**BNB**](BNB/)|`BNB`| 
 |![BNBRUB](https://static.openfintech.io/currencies/BNBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**BNBRUB**](BNBRUB/)|`BNBRUB`| 
 |![BND](https://static.openfintech.io/currencies/BND/icon.svg?w=278&c=v0.59.26#w100) |[**Brunei Dollar**](BND/)|`BND`| 
 |![BOB](https://static.openfintech.io/currencies/BOB/icon.svg?w=278&c=v0.59.26#w100) |[**Bolivian Boliviano**](BOB/)|`BOB`| 
@@ -795,7 +797,7 @@
 |![XRP](https://static.openfintech.io/currencies/XRP/icon.svg?w=278&c=v0.59.26#w100) |[**XRP**](XRP/)|`XRP`| 
 |![XSU](https://static.openfintech.io/currencies/XSU/icon.svg?w=278&c=v0.59.26#w100) |[**Sucre**](XSU/)|`XSU`| 
 |![XTS](https://static.openfintech.io/currencies/XTS/icon.svg?w=278&c=v0.59.26#w100) |[**Codes specifically reserved for testing purposes**](XTS/)|`XTS`| 
-|![XUA](https://static.openfintech.io/currencies/XUA/icon.svg?w=278&c=v0.59.26#w100) |[**ADB Unit of Account**](XUA/)|`XUA`| 
+|![XUA](https://static.openfintech.io/currencies/XUA/icon.svg?w=278&c=v0.59.26#w100) |[**XUA - The African Development Bank (ADB) is using a Unit of Account which is registered as XUA as ISO 4217 standard currency code.**](XUA/)|`XUA`| 
 |![XXX](https://static.openfintech.io/currencies/XXX/icon.svg?w=278&c=v0.59.26#w100) |[**The codes assigned for transactions where no currency is involved**](XXX/)|`XXX`| 
 || **Y** ||
 |![YAMRUB](https://static.openfintech.io/currencies/YAMRUB/icon.svg?w=278&c=v0.59.26#w100) |[**YAMRUB**](YAMRUB/)|`YAMRUB`| 

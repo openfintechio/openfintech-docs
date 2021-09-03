@@ -64,6 +64,12 @@ The list of [Payout Services](/payout-services/) based on the _Neteller_
 |![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller_tnd](/payout-services/neteller_tnd/)|`neteller_tnd`| 
 |![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller_usd](/payout-services/neteller_usd/)|`neteller_usd`| 
 |![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller_zar](/payout-services/neteller_zar/)|`neteller_zar`| 
+|![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller_azn](/payout-services/neteller_azn/)|`neteller_azn`| 
+|![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller_uzs](/payout-services/neteller_uzs/)|`neteller_uzs`| 
+|![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller_pkr](/payout-services/neteller_pkr/)|`neteller_pkr`| 
+|![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller_myr](/payout-services/neteller_myr/)|`neteller_myr`| 
+|![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller_mxn](/payout-services/neteller_mxn/)|`neteller_mxn`| 
+|![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller_mdl](/payout-services/neteller_mdl/)|`neteller_mdl`| 
  
 
 ## Payment Providers 
@@ -72,7 +78,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Neteller_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[SafeCharge ](/payment-providers/safecharge/)|`safecharge`| 
+|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![skrill](https://static.openfintech.io/payment_providers/skrill/icon.svg?w=278&c=v0.59.26#w100) |[Skrill](/payment-providers/skrill/)|`skrill`| 
 |![intelligentpayments](https://static.openfintech.io/payment_providers/intelligentpayments/icon.png?w=278&c=v0.59.26#w100) |[Intelligent Payments](/payment-providers/intelligentpayments/)|`intelligentpayments`| 
 |![aretosystems](https://static.openfintech.io/payment_providers/aretosystems/icon.png?w=278&c=v0.59.26#w100) |[Areto Systems](/payment-providers/aretosystems/)|`aretosystems`| 
