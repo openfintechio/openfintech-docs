@@ -45,7 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Cascad_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![sdkfinance](https://static.openfintech.io/payment_providers/sdkfinance/icon.png?w=278&c=v0.59.26#w100) |[SDK.finance](/payment-providers/sdkfinance/)|`sdkfinance`| 
+|![ecascad](https://static.openfintech.io/payment_providers/ecascad/icon.svg?w=278&c=v0.59.26#w100) |[e.Cascad](/payment-providers/ecascad/)|`ecascad`| 
  
 
 ## JSON Object 
