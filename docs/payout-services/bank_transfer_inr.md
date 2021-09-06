@@ -42,6 +42,9 @@
 |`beneficiary_address`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
 |`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
 |`sender_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
+|`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/`| 
+|`beneficiary_phone`|✗|`string`|`/^\+91\d{10}$/`| 
+|`ifsc`|✗|`string`|`/^[A-Za-z0-9]{11}$/`| 
  
 
 ### Details 
@@ -370,6 +373,60 @@
 	: [RU] Введите полное имя отправителя 
 	: [UK] Введіть повне імʼя відправкника 
  
+19. **`beneficiary_email`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Email 
+	: [RU] Email 
+	: [UK] Email 
+ 
+	Hint:  
+	: [EN] Enter Email 
+	: [RU] Введите Email 
+	: [UK] Введіть Email 
+ 
+20. **`beneficiary_phone`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^\+91\d{10}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Phone number 
+	: [RU] Номер телефона 
+	: [UK] Номер телефону 
+ 
+	Hint:  
+	: [EN] Enter phone number 
+	: [RU] Введите номер телефона 
+	: [UK] Введіть номер телефону 
+ 
+21. **`ifsc`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z0-9]{11}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] IFSC 
+	: [RU] IFSC 
+	: [UK] IFSC 
+ 
+	Hint:  
+	: [EN] Enter IFSC 
+	: [RU] Введите IFSC 
+	: [UK] Введіть IFSC 
+ 
 
 ## JSON Object 
 
@@ -685,6 +742,58 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u0432\u0456\u0434\u043f\u0440\u0430\u0432\u043a\u043d\u0438\u043a\u0430"
       }
+    },
+    {
+      "key":"beneficiary_email",
+      "type":"string",
+      "label":{
+        "en":"Email",
+        "ru":"Email",
+        "uk":"Email"
+      },
+      "hint":{
+        "en":"Enter Email",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Email",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Email"
+      },
+      "example":"johndoe@cashfree.com",
+      "regexp":"\/^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,3})$\/",
+      "required":false,
+      "position":19
+    },
+    {
+      "key":"beneficiary_phone",
+      "type":"string",
+      "label":{
+        "en":"Phone number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
+      },
+      "hint":{
+        "en":"Enter phone number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
+      },
+      "regexp":"\/^\\+91\\d{10}$\/",
+      "required":false,
+      "position":20
+    },
+    {
+      "key":"ifsc",
+      "type":"string",
+      "label":{
+        "en":"IFSC",
+        "ru":"IFSC",
+        "uk":"IFSC"
+      },
+      "hint":{
+        "en":"Enter IFSC",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 IFSC",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c IFSC"
+      },
+      "regexp":"\/^[A-Za-z0-9]{11}$\/",
+      "required":false,
+      "position":21
     }
   ],
   "amount_min":"0.01",

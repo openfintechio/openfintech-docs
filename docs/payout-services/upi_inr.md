@@ -1,20 +1,20 @@
 
-# Cashfree UPI (service) 
-![cashfree_upi_inr](https://static.openfintech.io/payout_methods/cashfree_upi_inr/logo.svg?w=400&c=v0.59.26#w24)  
+# UPI (service) 
+![upi_inr](https://static.openfintech.io/payout_methods/upi_inr/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
  
-**Code:** `cashfree_upi_inr` 
+**Code:** `upi_inr` 
  
-**Method:** `cashfree_upi` [show -->](/payout-methods/cashfree_upi/) 
+**Method:** `upi` [show -->](/payout-methods/upi/) 
  
 **Currency:** `INR` [show -->](/currencies/INR/) 
  
 **Name:** 
  
-:	[EN] Cashfree UPI 
-:	[RU] Cashfree UPI 
-:	[UK] Cashfree UPI 
+:	[EN] UPI 
+:	[RU] UPI 
+:	[UK] UPI 
  
 **Amount limits:** from `0.01` to `100000` INR 
 
@@ -25,12 +25,10 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`vpa`|✔|`string`|`/^.{2,}@\w+$/`| 
-|`name`|✔|`string`|`/^[a-zA-Z]+(([',. -][a-zA-Z ])?[a-zA-Z]*)*$/`| 
-|`email`|✔|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/`| 
-|`phone`|✔|`string`|`/^\d{9,14}$/`| 
-|`bank_account`|✔|`string`|`/^\d{1,40}$/`| 
-|`ifsc`|✔|`string`|`/^[A-Za-z0-9]{1,11}$/`| 
-|`address`|✔|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`beneficiary_full_name`|✗|`string`|`/^[a-zA-Z]+(([',. -][a-zA-Z ])?[a-zA-Z]*)*$/`| 
+|`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/`| 
+|`beneficiary_phone`|✗|`string`|`/^\+91\d{10}$/`| 
+|`beneficiary_address`|✗|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
  
 
 ### Details 
@@ -53,13 +51,13 @@
 	: [RU] Введите VPA 
 	: [UK] Введіть VPA 
  
-2. **`name`** 
+2. **`beneficiary_full_name`** 
  
 	Type: `string` 
  
 	Regexp: `/^[a-zA-Z]+(([',. -][a-zA-Z ])?[a-zA-Z]*)*$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Full name 
@@ -71,13 +69,13 @@
 	: [RU] Введите ФИО 
 	: [UK] Введіть ПIБ 
  
-3. **`email`** 
+3. **`beneficiary_email`** 
  
 	Type: `string` 
  
 	Regexp: `/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Email 
@@ -89,13 +87,13 @@
 	: [RU] Введите Email 
 	: [UK] Введіть Email 
  
-4. **`phone`** 
+4. **`beneficiary_phone`** 
  
 	Type: `string` 
  
-	Regexp: `/^\d{9,14}$/` 
+	Regexp: `/^\+91\d{10}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Phone number 
@@ -107,49 +105,13 @@
 	: [RU] Введите номер телефона 
 	: [UK] Введіть номер телефону 
  
-5. **`bank_account`** 
- 
-	Type: `string` 
- 
-	Regexp: `/^\d{1,40}$/` 
- 
-	Required: `1` 
- 
-	Label:  
-	: [EN] Bank account 
-	: [RU] Bank account 
-	: [UK] Bank account 
- 
-	Hint:  
-	: [EN] Enter Bank account name 
-	: [RU] Введите Bank account name 
-	: [UK] Введіть Bank account name 
- 
-6. **`ifsc`** 
- 
-	Type: `string` 
- 
-	Regexp: `/^[A-Za-z0-9]{1,11}$/` 
- 
-	Required: `1` 
- 
-	Label:  
-	: [EN] IFSC 
-	: [RU] IFSC 
-	: [UK] IFSC 
- 
-	Hint:  
-	: [EN] Enter IFSC 
-	: [RU] Введите IFSC 
-	: [UK] Введіть IFSC 
- 
-7. **`address`** 
+5. **`beneficiary_address`** 
  
 	Type: `string` 
  
 	Regexp: `/^(\w|\.| |\-|\+|@){1,128}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Address 
@@ -166,8 +128,8 @@
 
 ```json
 {
-  "code":"cashfree_upi_inr",
-  "method":"cashfree_upi",
+  "code":"upi_inr",
+  "method":"upi",
   "currency":"INR",
   "fields":[
     {
@@ -188,7 +150,7 @@
       "position":1
     },
     {
-      "key":"name",
+      "key":"beneficiary_full_name",
       "type":"string",
       "label":{
         "en":"Full name",
@@ -201,11 +163,11 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u041fI\u0411"
       },
       "regexp":"\/^[a-zA-Z]+(([',. -][a-zA-Z ])?[a-zA-Z]*)*$\/",
-      "required":true,
+      "required":false,
       "position":2
     },
     {
-      "key":"email",
+      "key":"beneficiary_email",
       "type":"string",
       "label":{
         "en":"Email",
@@ -219,11 +181,11 @@
       },
       "example":"johndoe@cashfree.com",
       "regexp":"\/^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,3})$\/",
-      "required":true,
+      "required":false,
       "position":3
     },
     {
-      "key":"phone",
+      "key":"beneficiary_phone",
       "type":"string",
       "label":{
         "en":"Phone number",
@@ -235,46 +197,12 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
       },
-      "regexp":"\/^\\d{9,14}$\/",
-      "required":true,
+      "regexp":"\/^\\+91\\d{10}$\/",
+      "required":false,
       "position":4
     },
     {
-      "key":"bank_account",
-      "type":"string",
-      "label":{
-        "en":"Bank account",
-        "ru":"Bank account",
-        "uk":"Bank account"
-      },
-      "hint":{
-        "en":"Enter Bank account name",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Bank account name",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Bank account name"
-      },
-      "regexp":"\/^\\d{1,40}$\/",
-      "required":true,
-      "position":5
-    },
-    {
-      "key":"ifsc",
-      "type":"string",
-      "label":{
-        "en":"IFSC",
-        "ru":"IFSC",
-        "uk":"IFSC"
-      },
-      "hint":{
-        "en":"Enter IFSC",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 IFSC",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c IFSC"
-      },
-      "regexp":"\/^[A-Za-z0-9]{1,11}$\/",
-      "required":true,
-      "position":6
-    },
-    {
-      "key":"address",
+      "key":"beneficiary_address",
       "type":"string",
       "label":{
         "en":"Address",
@@ -287,8 +215,8 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0430\u0434\u0440\u0435\u0441\u0443"
       },
       "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
-      "required":true,
-      "position":7
+      "required":false,
+      "position":5
     }
   ],
   "amount_min":0.01,

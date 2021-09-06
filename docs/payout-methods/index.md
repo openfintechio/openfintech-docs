@@ -2229,6 +2229,7 @@
 |![undernet](https://static.openfintech.io/payout_methods/undernet/logo.png?w=400&c=v0.59.26#w24) |[**Undernet**](undernet/)|`undernet`| 
 |![united_overseas_bank](https://static.openfintech.io/payout_methods/united_overseas_bank/logo.svg?w=400&c=v0.59.26#w24) |[**United Overseas Bank**](united_overseas_bank/)|`united_overseas_bank`| 
 |![unitel-iunitel](https://static.openfintech.io/payout_methods/unitel-iunitel/logo.png?w=400&c=v0.59.26#w24) |[**Unitel (Unitel)**](unitel-iunitel/)|`unitel-iunitel`| 
+|![upi](https://static.openfintech.io/payout_methods/upi/logo.svg?w=400&c=v0.59.26#w24) |[**UPI**](upi/)|`upi`| 
 |![upr-kompaniia-zhku-mirts-g-artemovsk](https://static.openfintech.io/payout_methods/upr-kompaniia-zhku-mirts-g-artemovsk/logo.svg?w=400&c=v0.59.26#w24) |[**Упр.компания ЖКУ МИРЦ г.Артемовск**](upr-kompaniia-zhku-mirts-g-artemovsk/)|`upr-kompaniia-zhku-mirts-g-artemovsk`| 
 |![upravlenie-gorodskim-khoziaistvom-g-vishneve](https://static.openfintech.io/payout_methods/upravlenie-gorodskim-khoziaistvom-g-vishneve/logo.png?w=400&c=v0.59.26#w24) |[**Urban Management (Vishneve)**](upravlenie-gorodskim-khoziaistvom-g-vishneve/)|`upravlenie-gorodskim-khoziaistvom-g-vishneve`| 
 |![upravlinnia-politsiyi-okhoroni-v-m-kievi](https://static.openfintech.io/payout_methods/upravlinnia-politsiyi-okhoroni-v-m-kievi/logo.png?w=400&c=v0.59.26#w24) |[**POLICE DEPARTMENT OF POLICE PROTECTION IN KIEV**](upravlinnia-politsiyi-okhoroni-v-m-kievi/)|`upravlinnia-politsiyi-okhoroni-v-m-kievi`| 
