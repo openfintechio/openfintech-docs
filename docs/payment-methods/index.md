@@ -425,7 +425,6 @@
 |![unistream](https://static.openfintech.io/payment_methods/unistream/logo.png?w=400&c=v0.59.26#w200) |[**Unistream**](unistream/)|`unistream`| 
 |![unitedoverseasbankuobnetbanking](https://static.openfintech.io/payment_methods/unitedoverseasbankuobnetbanking/logo.png?w=400&c=v0.59.26#w200) |[**UOB netbanking**](unitedoverseasbankuobnetbanking/)|`unitedoverseasbankuobnetbanking`| 
 |![uobt](https://static.openfintech.io/payment_methods/uobt/logo.svg?w=400&c=v0.59.26#w200) |[**UOBT**](uobt/)|`uobt`| 
-|![usdt](https://static.openfintech.io/payment_methods/usdt/logo.svg?w=400&c=v0.59.26#w200) |[**Tether (Deprecated)**](usdt/)|`usdt`| 
 |![usemyservices](https://static.openfintech.io/payment_methods/usemyservices/logo.png?w=400&c=v0.59.26#w200) |[**UseMyServices**](usemyservices/)|`usemyservices`| 
 |![ussd](https://static.openfintech.io/payment_methods/ussd/logo.svg?w=400&c=v0.59.26#w200) |[**USSD**](ussd/)|`ussd`| 
 || **V** ||

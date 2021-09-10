@@ -1590,7 +1590,7 @@
 |![Test](https://static.openfintech.io/payout_methods/test/logo.png?w=400&c=v0.59.26#w24) |[**Test**](/payout-methods/test/)|[`test_uah`](test_uah/)|`UAH`| 
 |![Test](https://static.openfintech.io/payout_methods/test/logo.png?w=400&c=v0.59.26#w24) |[**Test**](/payout-methods/test/)|[`test_usd`](test_usd/)|`USD`| 
 |![Test](https://static.openfintech.io/payout_methods/test/logo.png?w=400&c=v0.59.26#w24) |[**Test**](/payout-methods/test/)|[`test_xts`](test_xts/)|`XTS`| 
-|![Tether (Deprecated)](https://static.openfintech.io/payout_methods/usdt/logo.svg?w=400&c=v0.59.26#w24) |[**Tether (Deprecated)**](/payout-methods/usdt/)|[`tether_usd`](tether_usd/)|`USD`| 
+|![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_usd`](tether_usd/)|`USD`| 
 |![TezTelecom for agencies](https://static.openfintech.io/payout_methods/teztelecom-dlia-agenstv/logo.png?w=400&c=v0.59.26#w24) |[**TezTelecom for agencies**](/payout-methods/teztelecom-dlia-agenstv/)|[`teztelecom-dlia-agenstv_uah`](teztelecom-dlia-agenstv_uah/)|`UAH`| 
 |![TezTelecom for tourists](https://static.openfintech.io/payout_methods/teztelecom-dlia-turistov/logo.png?w=400&c=v0.59.26#w24) |[**TezTelecom for tourists**](/payout-methods/teztelecom-dlia-turistov/)|[`teztelecom-dlia-turistov_uah`](teztelecom-dlia-turistov_uah/)|`UAH`| 
 |![the best](https://static.openfintech.io/payout_methods/the-best/logo.png?w=400&c=v0.59.26#w24) |[**the best**](/payout-methods/the-best/)|[`the-best_uah`](the-best_uah/)|`UAH`| 

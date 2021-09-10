@@ -444,6 +444,7 @@
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_rub_invoice`](tether_rub_invoice/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_uah_invoice`](tether_uah_invoice/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_usd_hpp`](tether_usd_hpp/)| 
+|![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_usd_hpp`](tether_usd_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_usd_invoice`](tether_usd_invoice/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_usdt_invoice`](tether_usdt_invoice/)| 
 |![Tigo pesa](https://static.openfintech.io/payment_methods/tigo_pesa/logo.png?w=400&c=v0.59.26#w200) |[**Tigo pesa**](/payment-methods/tigo_pesa/)|[`tigo_pesa_tzs_invoice`](tigo_pesa_tzs_invoice/)| 
@@ -453,7 +454,6 @@
 |![Union Bank of India](https://static.openfintech.io/payment_methods/union_bank_of_india/logo.svg?w=400&c=v0.59.26#w200) |[**Union Bank of India**](/payment-methods/union_bank_of_india/)|[`union_bank_of_india_inr_hpp`](union_bank_of_india_inr_hpp/)| 
 |![Unionpay_QR](https://static.openfintech.io/payment_methods/unionpay_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Unionpay_QR**](/payment-methods/unionpay_qr/)|[`unionpay_qr_cny_hpp`](unionpay_qr_cny_hpp/)| 
 |![UOBT](https://static.openfintech.io/payment_methods/uobt/logo.svg?w=400&c=v0.59.26#w200) |[**UOBT**](/payment-methods/uobt/)|[`uobt_thb_hpp`](uobt_thb_hpp/)| 
-|![Tether (Deprecated)](https://static.openfintech.io/payment_methods/usdt/logo.svg?w=400&c=v0.59.26#w200) |[**Tether (Deprecated)**](/payment-methods/usdt/)|[`usdt_usd_hpp`](usdt_usd_hpp/)| 
 |![USSD](https://static.openfintech.io/payment_methods/ussd/logo.svg?w=400&c=v0.59.26#w200) |[**USSD**](/payment-methods/ussd/)|[`ussd_cny_hpp`](ussd_cny_hpp/)| 
 |![USSD](https://static.openfintech.io/payment_methods/ussd/logo.svg?w=400&c=v0.59.26#w200) |[**USSD**](/payment-methods/ussd/)|[`ussd_ngn_hpp`](ussd_ngn_hpp/)| 
 ||| **V** ||

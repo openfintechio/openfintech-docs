@@ -42,7 +42,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum](/payment-methods/ethereum/)|`ethereum`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin](/payment-methods/bitcoin/)|`bitcoin`| 
 |![bitcoin_cash](https://static.openfintech.io/payment_methods/bitcoin_cash/icon.png?w=278&c=v0.59.26#w100) |[bitcoin_cash](/payment-methods/bitcoin_cash/)|`bitcoin_cash`| 
-|![usdt](https://static.openfintech.io/payment_methods/usdt/icon.svg?w=278&c=v0.59.26#w100) |[usdt](/payment-methods/usdt/)|`usdt`| 
+|![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether](/payment-methods/tether/)|`tether`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
  
 
@@ -59,7 +59,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![ethereum](https://static.openfintech.io/payout_methods/ethereum/icon.svg?w=278&c=v0.59.26#w40) |[ethereum](payout-methodsethereum/)|`ethereum`| 
 |![bitcoin](https://static.openfintech.io/payout_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w40) |[bitcoin](payout-methodsbitcoin/)|`bitcoin`| 
 |![bitcoin_cash](https://static.openfintech.io/payout_methods/bitcoin_cash/icon.png?w=278&c=v0.59.26#w40) |[bitcoin_cash](payout-methodsbitcoin_cash/)|`bitcoin_cash`| 
-|![usdt](https://static.openfintech.io/payout_methods/usdt/icon.svg?w=278&c=v0.59.26#w40) |[usdt](payout-methodsusdt/)|`usdt`| 
+|![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether](payout-methodstether/)|`tether`| 
  
 
 ## JSON Object 
@@ -77,7 +77,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "ethereum",
     "bitcoin",
     "bitcoin_cash",
-    "usdt",
+    "tether",
     "payment_card"
   ],
   "payout_method":[
@@ -88,7 +88,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "ethereum",
     "bitcoin",
     "bitcoin_cash",
-    "usdt"
+    "tether"
   ],
   "metadata":null,
   "name":{

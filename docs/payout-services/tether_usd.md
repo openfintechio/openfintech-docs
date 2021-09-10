@@ -1,20 +1,20 @@
 
-# Tether (Deprecated) (service) 
+# Tether (service) 
 ![tether_usd](https://static.openfintech.io/payout_methods/tether_usd/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
  
 **Code:** `tether_usd` 
  
-**Method:** `usdt` [show -->](/payout-methods/usdt/) 
+**Method:** `tether` [show -->](/payout-methods/tether/) 
  
 **Currency:** `USD` [show -->](/currencies/USD/) 
  
 **Name:** 
  
-:	[EN] Tether (Deprecated) 
-:	[RU] Tether (Deprecated) 
-:	[UK] Tether (Deprecated) 
+:	[EN] Tether 
+:	[RU] Tether 
+:	[UK] Tether 
  
 **Amount limits:** from `10` to `21943` USD 
 
@@ -23,7 +23,7 @@
 ```json
 {
   "code":"tether_usd",
-  "method":"usdt",
+  "method":"tether",
   "currency":"USD",
   "fields":null,
   "amount_min":"10",
