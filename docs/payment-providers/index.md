@@ -292,7 +292,7 @@
 |![ibox](https://static.openfintech.io/payment_providers/ibox/logo.svg?w=600&c=v0.59.26#w100) |[**iBox**](ibox/)|`ibox`| 
 |![iboxbank](https://static.openfintech.io/payment_providers/iboxbank/logo.png?w=600&c=v0.59.26#w100) |[**Ibox Bank**](iboxbank/)|`iboxbank`| 
 |![icepay](https://static.openfintech.io/payment_providers/icepay/logo.png?w=600&c=v0.59.26#w100) |[**ICEPAY**](icepay/)|`icepay`| 
-|![ikajo](https://static.openfintech.io/payment_providers/ikajo/logo.png?w=600&c=v0.59.26#w100) |[**Ikajo**](ikajo/)|`ikajo`| 
+|![ikajo](https://static.openfintech.io/payment_providers/ikajo/logo.svg?w=600&c=v0.59.26#w100) |[**Ikajo**](ikajo/)|`ikajo`| 
 |![ikorunapaymentsystems](https://static.openfintech.io/payment_providers/ikorunapaymentsystems/logo.png?w=600&c=v0.59.26#w100) |[**IKoruna**](ikorunapaymentsystems/)|`ikorunapaymentsystems`| 
 |![imglobalpayments](https://static.openfintech.io/payment_providers/imglobalpayments/logo.png?w=600&c=v0.59.26#w100) |[**ImGlobal Payments**](imglobalpayments/)|`imglobalpayments`| 
 |![inatecpayment](https://static.openfintech.io/payment_providers/inatecpayment/logo.png?w=600&c=v0.59.26#w100) |[**Inatec Payment**](inatecpayment/)|`inatecpayment`| 

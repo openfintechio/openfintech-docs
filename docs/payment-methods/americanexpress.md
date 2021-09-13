@@ -62,7 +62,6 @@ The list of [Payment Providers](/payment-providers/) that support the _American 
 |![hipay](https://static.openfintech.io/payment_providers/hipay/icon.png?w=278&c=v0.59.26#w100) |[HiPay](/payment-providers/hipay/)|`hipay`| 
 |![4cash](https://static.openfintech.io/payment_providers/4cash/icon.png?w=278&c=v0.59.26#w100) |[4Cash](/payment-providers/4cash/)|`4cash`| 
 |![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
-|![ikajo](https://static.openfintech.io/payment_providers/ikajo/icon.png?w=278&c=v0.59.26#w100) |[Ikajo](/payment-providers/ikajo/)|`ikajo`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
 |![atosworldline](https://static.openfintech.io/payment_providers/atosworldline/icon.png?w=278&c=v0.59.26#w100) |[Worldline](/payment-providers/atosworldline/)|`atosworldline`| 
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 

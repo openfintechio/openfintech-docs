@@ -729,7 +729,7 @@
 |![ideal](https://static.openfintech.io/vendors/ideal/logo.svg?w=600&c=v0.59.26#w200) |[**iDEAL**](ideal/)|`ideal`| 
 |![idram](https://static.openfintech.io/vendors/idram/logo.svg?w=600&c=v0.59.26#w200) |[**Idram**](idram/)|`idram`| 
 |![idram.armchange.ru](https://static.openfintech.io/vendors/idram.armchange.ru/logo.svg?w=600&c=v0.59.26#w200) |[**ArmChange**](idram.armchange.ru/)|`idram.armchange.ru`| 
-|![ikajo](https://static.openfintech.io/vendors/ikajo/logo.png?w=600&c=v0.59.26#w200) |[**Ikajo**](ikajo/)|`ikajo`| 
+|![ikajo](https://static.openfintech.io/vendors/ikajo/logo.svg?w=600&c=v0.59.26#w200) |[**Ikajo**](ikajo/)|`ikajo`| 
 |![ikorunapaymentsystems](https://static.openfintech.io/vendors/ikorunapaymentsystems/logo.png?w=600&c=v0.59.26#w200) |[**IKoruna**](ikorunapaymentsystems/)|`ikorunapaymentsystems`| 
 |![imglobalpayments](https://static.openfintech.io/vendors/imglobalpayments/logo.png?w=600&c=v0.59.26#w200) |[**ImGlobal Payments**](imglobalpayments/)|`imglobalpayments`| 
 |![inatecpayment](https://static.openfintech.io/vendors/inatecpayment/logo.png?w=600&c=v0.59.26#w200) |[**Inatec Payment**](inatecpayment/)|`inatecpayment`| 

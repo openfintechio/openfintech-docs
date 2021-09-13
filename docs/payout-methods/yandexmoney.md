@@ -45,7 +45,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Yandex.Mo
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ikajo](https://static.openfintech.io/payment_providers/ikajo/icon.png?w=278&c=v0.59.26#w100) |[Ikajo](/payment-providers/ikajo/)|`ikajo`| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![walletone](https://static.openfintech.io/payment_providers/walletone/icon.svg?w=278&c=v0.59.26#w100) |[Wallet One](/payment-providers/walletone/)|`walletone`| 
