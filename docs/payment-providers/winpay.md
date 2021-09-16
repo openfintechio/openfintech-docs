@@ -1,5 +1,5 @@
 
-# WinPay 
+# Global Financial Innovations 
 ![winpay](https://static.openfintech.io/payment_providers/winpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] WinPay 
-:	[RU] WinPay 
-:	[UK] WinPay 
+:	[EN] Global Financial Innovations 
+:	[RU] Global Financial Innovations 
+:	[UK] Global Financial Innovations 
  
 
 ## Images 
@@ -68,9 +68,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"WinPay",
-    "ru":"WinPay",
-    "uk":"WinPay"
+    "en":"Global Financial Innovations",
+    "ru":"Global Financial Innovations",
+    "uk":"Global Financial Innovations"
   }
 }
 ```  

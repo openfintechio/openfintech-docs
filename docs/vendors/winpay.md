@@ -1,5 +1,5 @@
 
-# WinPay 
+# Global Financial Innovations 
 ![winpay](https://static.openfintech.io/vendors/winpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,14 +8,14 @@
  
 **Name:** 
  
-:	[EN] WinPay 
-:	[RU] WinPay 
-:	[UK] WinPay 
+:	[EN] Global Financial Innovations 
+:	[RU] Global Financial Innovations 
+:	[UK] Global Financial Innovations 
  
 **Status:** `active` 
  
 **Links:** 
-: website [https://win-pay.ru](https://win-pay.ru) 
+: website [https://globalfin.uk](https://globalfin.uk) 
  
 
 ## Images 
@@ -42,14 +42,14 @@ https://static.openfintech.io/vendors/winpay/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"winpay",
   "name":{
-    "en":"WinPay",
-    "ru":"WinPay",
-    "uk":"WinPay"
+    "en":"Global Financial Innovations",
+    "ru":"Global Financial Innovations",
+    "uk":"Global Financial Innovations"
   },
   "status":"active",
   "description":null,
   "links":{
-    "website":"https:\/\/win-pay.ru"
+    "website":"https:\/\/globalfin.uk"
   },
   "countries":null,
   "contacts":null,
