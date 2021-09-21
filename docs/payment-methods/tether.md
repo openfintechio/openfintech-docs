@@ -44,16 +44,6 @@ The list of [Payment Services](/payment-services/) based on the _Tether_
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_ltc_invoice](/payment-services/tether_ltc_invoice/)|`tether_ltc_invoice`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_bch_invoice](/payment-services/tether_bch_invoice/)|`tether_bch_invoice`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_usd_invoice](/payment-services/tether_usd_invoice/)|`tether_usd_invoice`| 
-|![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_erc20_usd_invoice](/payment-services/tether_erc20_usd_invoice/)|`tether_erc20_usd_invoice`| 
-|![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_erc20_usdt_invoice](/payment-services/tether_erc20_usdt_invoice/)|`tether_erc20_usdt_invoice`| 
-|![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_trc20_usd_invoice](/payment-services/tether_trc20_usd_invoice/)|`tether_trc20_usd_invoice`| 
-|![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_trc20_usdt_invoice](/payment-services/tether_trc20_usdt_invoice/)|`tether_trc20_usdt_invoice`| 
-|![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_erc20_uah_hpp](/payment-services/tether_erc20_uah_hpp/)|`tether_erc20_uah_hpp`| 
-|![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_erc20_usd_hpp](/payment-services/tether_erc20_usd_hpp/)|`tether_erc20_usd_hpp`| 
-|![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_erc20_eur_hpp](/payment-services/tether_erc20_eur_hpp/)|`tether_erc20_eur_hpp`| 
-|![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_trc20_uah_hpp](/payment-services/tether_trc20_uah_hpp/)|`tether_trc20_uah_hpp`| 
-|![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_trc20_usd_hpp](/payment-services/tether_trc20_usd_hpp/)|`tether_trc20_usd_hpp`| 
-|![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_trc20_eur_hpp](/payment-services/tether_trc20_eur_hpp/)|`tether_trc20_eur_hpp`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_eur_invoice](/payment-services/tether_eur_invoice/)|`tether_eur_invoice`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_uah_invoice](/payment-services/tether_uah_invoice/)|`tether_uah_invoice`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_rub_invoice](/payment-services/tether_rub_invoice/)|`tether_rub_invoice`| 
@@ -67,7 +57,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Tether_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![anymoney](https://static.openfintech.io/payment_providers/anymoney/icon.svg?w=278&c=v0.59.26#w100) |[Any.Money](/payment-providers/anymoney/)|`anymoney`| 
-|![coinspaid](https://static.openfintech.io/payment_providers/coinspaid/icon.png?w=278&c=v0.59.26#w100) |[CoinsPaid](/payment-providers/coinspaid/)|`coinspaid`| 
 |![amlnode](https://static.openfintech.io/payment_providers/amlnode/icon.png?w=278&c=v0.59.26#w100) |[AML Node](/payment-providers/amlnode/)|`amlnode`| 
  
 
