@@ -45,6 +45,7 @@
 |![anycash](https://static.openfintech.io/payment_providers/anycash/logo.svg?w=600&c=v0.59.26#w100) |[**AnyCash**](anycash/)|`anycash`| 
 |![anymoney](https://static.openfintech.io/payment_providers/anymoney/logo.svg?w=600&c=v0.59.26#w100) |[**Any.Money**](anymoney/)|`anymoney`| 
 |![apco](https://static.openfintech.io/payment_providers/apco/logo.png?w=600&c=v0.59.26#w100) |[**APCO**](apco/)|`apco`| 
+|![appexmoney](https://static.openfintech.io/payment_providers/appexmoney/logo.svg?w=600&c=v0.59.26#w100) |[**Appexmoney**](appexmoney/)|`appexmoney`| 
 |![aramorpayments](https://static.openfintech.io/payment_providers/aramorpayments/logo.svg?w=600&c=v0.59.26#w100) |[**Aramor Payments**](aramorpayments/)|`aramorpayments`| 
 |![aretosystems](https://static.openfintech.io/payment_providers/aretosystems/logo.png?w=600&c=v0.59.26#w100) |[**Areto Systems**](aretosystems/)|`aretosystems`| 
 |![arvatofinance](https://static.openfintech.io/payment_providers/arvatofinance/logo.svg?w=600&c=v0.59.26#w100) |[**arvato Finance Services Ltd.**](arvatofinance/)|`arvatofinance`| 

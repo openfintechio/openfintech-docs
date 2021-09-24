@@ -94,6 +94,7 @@
 |![anycash](https://static.openfintech.io/vendors/anycash/logo.svg?w=600&c=v0.59.26#w200) |[**AnyCash**](anycash/)|`anycash`| 
 |![anymoney](https://static.openfintech.io/vendors/anymoney/logo.svg?w=600&c=v0.59.26#w200) |[**Any.Money**](anymoney/)|`anymoney`| 
 |![apco](https://static.openfintech.io/vendors/apco/logo.png?w=600&c=v0.59.26#w200) |[**APCO**](apco/)|`apco`| 
+|![appexmoney](https://static.openfintech.io/vendors/appexmoney/logo.svg?w=600&c=v0.59.26#w200) |[**Appexmoney**](appexmoney/)|`appexmoney`| 
 |![applepay](https://static.openfintech.io/vendors/applepay/logo.svg?w=600&c=v0.59.26#w200) |[**Apple Pay**](applepay/)|`applepay`| 
 |![aramorpayments](https://static.openfintech.io/vendors/aramorpayments/logo.png?w=600&c=v0.59.26#w200) |[**Aramor Payments**](aramorpayments/)|`aramorpayments`| 
 |![arca](https://static.openfintech.io/vendors/arca/logo.svg?w=600&c=v0.59.26#w200) |[**ArCa**](arca/)|`arca`| 
