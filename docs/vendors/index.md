@@ -640,6 +640,7 @@
 |![genome](https://static.openfintech.io/vendors/genome/logo.svg?w=600&c=v0.59.26#w200) |[**Genome**](genome/)|`genome`| 
 |![geopaynet](https://static.openfintech.io/vendors/geopaynet/logo.svg?w=600&c=v0.59.26#w200) |[**GEO Pay**](geopaynet/)|`geopaynet`| 
 |![gestpay](https://static.openfintech.io/vendors/gestpay/logo.png?w=600&c=v0.59.26#w200) |[**GestPay**](gestpay/)|`gestpay`| 
+|![getapay](https://static.openfintech.io/vendors/getapay/logo.svg?w=600&c=v0.59.26#w200) |[**GetaPay**](getapay/)|`getapay`| 
 |![ggu_nbu](https://static.openfintech.io/vendors/ggu_nbu/logo.svg?w=600&c=v0.59.26#w200) |[**Головне господарське управління Національного банку України**](ggu_nbu/)|`ggu_nbu`| 
 |![ghlsystemsberhad](https://static.openfintech.io/vendors/ghlsystemsberhad/logo.png?w=600&c=v0.59.26#w200) |[**GHL Systems Berhad**](ghlsystemsberhad/)|`ghlsystemsberhad`| 
 |![gingerpayments](https://static.openfintech.io/vendors/gingerpayments/logo.png?w=600&c=v0.59.26#w200) |[**Ginger Payments**](gingerpayments/)|`gingerpayments`| 

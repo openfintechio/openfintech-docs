@@ -261,6 +261,7 @@
 |![genome](https://static.openfintech.io/payment_providers/genome/logo.svg?w=600&c=v0.59.26#w100) |[**Genome**](genome/)|`genome`| 
 |![geopaynet](https://static.openfintech.io/payment_providers/geopaynet/logo.svg?w=600&c=v0.59.26#w100) |[**GEO Pay**](geopaynet/)|`geopaynet`| 
 |![gestpay](https://static.openfintech.io/payment_providers/gestpay/logo.png?w=600&c=v0.59.26#w100) |[**GestPay**](gestpay/)|`gestpay`| 
+|![getapay](https://static.openfintech.io/payment_providers/getapay/logo.svg?w=600&c=v0.59.26#w100) |[**GetaPay**](getapay/)|`getapay`| 
 |![ghlsystemsberhad](https://static.openfintech.io/payment_providers/ghlsystemsberhad/logo.png?w=600&c=v0.59.26#w100) |[**GHL Systems Berhad**](ghlsystemsberhad/)|`ghlsystemsberhad`| 
 |![gingerpayments](https://static.openfintech.io/payment_providers/gingerpayments/logo.png?w=600&c=v0.59.26#w100) |[**Ginger Payments**](gingerpayments/)|`gingerpayments`| 
 |![girosolution](https://static.openfintech.io/payment_providers/girosolution/logo.png?w=600&c=v0.59.26#w100) |[**GiroSolution**](girosolution/)|`girosolution`| 
