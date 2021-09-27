@@ -256,6 +256,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![tinkoff](https://static.openfintech.io/payment_providers/tinkoff/icon.svg?w=278&c=v0.59.26#w100) |[Tinkoff](/payment-providers/tinkoff/)|`tinkoff`| 
 |![ikajo](https://static.openfintech.io/payment_providers/ikajo/icon.svg?w=278&c=v0.59.26#w100) |[Ikajo](/payment-providers/ikajo/)|`ikajo`| 
 |![getapay](https://static.openfintech.io/payment_providers/getapay/icon.svg?w=278&c=v0.59.26#w100) |[GetaPay](/payment-providers/getapay/)|`getapay`| 
+|![moneypay](https://static.openfintech.io/payment_providers/moneypay/icon.png?w=278&c=v0.59.26#w100) |[MoneyPay](/payment-providers/moneypay/)|`moneypay`| 
  
 
 ## JSON Object 

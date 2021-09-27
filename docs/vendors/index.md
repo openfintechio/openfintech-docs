@@ -884,6 +884,7 @@
 |![moneygram](https://static.openfintech.io/vendors/moneygram/logo.svg?w=600&c=v0.59.26#w200) |[**MoneyGram**](moneygram/)|`moneygram`| 
 |![moneymail](https://static.openfintech.io/vendors/moneymail/logo.png?w=600&c=v0.59.26#w200) |[**MoneyMail**](moneymail/)|`moneymail`| 
 |![moneymovers](https://static.openfintech.io/vendors/moneymovers/logo.svg?w=600&c=v0.59.26#w200) |[**moneymovers**](moneymovers/)|`moneymovers`| 
+|![moneypay](https://static.openfintech.io/vendors/moneypay/logo.png?w=600&c=v0.59.26#w200) |[**MoneyPay**](moneypay/)|`moneypay`| 
 |![moneypolo](https://static.openfintech.io/vendors/moneypolo/logo.svg?w=600&c=v0.59.26#w200) |[**MoneyPolo**](moneypolo/)|`moneypolo`| 
 |![moneytopay](https://static.openfintech.io/vendors/moneytopay/logo.png?w=600&c=v0.59.26#w200) |[**MoneyToPay**](moneytopay/)|`moneytopay`| 
 |![monobankcomua](https://static.openfintech.io/vendors/monobankcomua/logo.svg?w=600&c=v0.59.26#w200) |[**monobank.com.ua**](monobankcomua/)|`monobankcomua`| 
