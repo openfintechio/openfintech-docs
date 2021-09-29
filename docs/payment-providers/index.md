@@ -122,6 +122,7 @@
 |![ccvpay](https://static.openfintech.io/payment_providers/ccvpay/logo.png?w=600&c=v0.59.26#w100) |[**CCV Pay**](ccvpay/)|`ccvpay`| 
 |![centus](https://static.openfintech.io/payment_providers/centus/logo.png?w=600&c=v0.59.26#w100) |[**Centus**](centus/)|`centus`| 
 |![certusfinance](https://static.openfintech.io/payment_providers/certusfinance/logo.png?w=600&c=v0.59.26#w100) |[**Certus Finance**](certusfinance/)|`certusfinance`| 
+|![changcoinspay](https://static.openfintech.io/payment_providers/changcoinspay/logo.png?w=600&c=v0.59.26#w100) |[**ChangcoinsPay**](changcoinspay/)|`changcoinspay`| 
 |![charityclear](https://static.openfintech.io/payment_providers/charityclear/logo.png?w=600&c=v0.59.26#w100) |[**CharityClear**](charityclear/)|`charityclear`| 
 |![chasepaymentech](https://static.openfintech.io/payment_providers/chasepaymentech/logo.png?w=600&c=v0.59.26#w100) |[**J.P. Morgan Commerce Solutions**](chasepaymentech/)|`chasepaymentech`| 
 |![checkalt](https://static.openfintech.io/payment_providers/checkalt/logo.svg?w=600&c=v0.59.26#w100) |[**CheckAlt Payment Solutions**](checkalt/)|`checkalt`| 

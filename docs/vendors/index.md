@@ -325,6 +325,7 @@
 |![ceskasporitelna](https://static.openfintech.io/vendors/ceskasporitelna/logo.png?w=600&c=v0.59.26#w200) |[**Ceská Sporitelna**](ceskasporitelna/)|`ceskasporitelna`| 
 |![cesnabank](https://static.openfintech.io/vendors/cesnabank/logo.svg?w=600&c=v0.59.26#w200) |[**Цеснабанк**](cesnabank/)|`cesnabank`| 
 |![cgold](https://static.openfintech.io/vendors/cgold/logo.svg?w=600&c=v0.59.26#w200) |[**C-Gold**](cgold/)|`cgold`| 
+|![changcoinspay](https://static.openfintech.io/vendors/changcoinspay/logo.png?w=600&c=v0.59.26#w200) |[**ChangcoinsPay**](changcoinspay/)|`changcoinspay`| 
 |![change.am](https://static.openfintech.io/vendors/change.am/logo.svg?w=600&c=v0.59.26#w200) |[**Change.am**](change.am/)|`change.am`| 
 |![changeinfo.com](https://static.openfintech.io/vendors/changeinfo.com/logo.svg?w=600&c=v0.59.26#w200) |[**ChangeInfo**](changeinfo.com/)|`changeinfo.com`| 
 |![changer.club](https://static.openfintech.io/vendors/changer.club/logo.svg?w=600&c=v0.59.26#w200) |[**changer.club**](changer.club/)|`changer.club`| 
