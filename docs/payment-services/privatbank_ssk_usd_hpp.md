@@ -17,7 +17,7 @@
 :	[RU] Приватбанк терминали 
 :	[UK] Приватбанк термінали 
  
-**Amount limits:** from `0.01` to `100000` USD 
+**Amount limits:** from `0.01` to `1000000` USD 
 
 ## JSON Object 
 
@@ -29,6 +29,6 @@
   "currency":"USD",
   "fields":null,
   "amount_min":0.01,
-  "amount_max":100000
+  "amount_max":1000000
 }
 ```  

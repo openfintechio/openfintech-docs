@@ -15,7 +15,7 @@
  
 :	[EN] Litecoin 
  
-**Amount limits:** from `1.0E-5` to `1000` UAH 
+**Amount limits:** from `0.01` to `1000000` UAH 
 
 ## JSON Object 
 
@@ -26,7 +26,7 @@
   "method":"litecoin",
   "currency":"UAH",
   "fields":null,
-  "amount_min":1.0e-5,
-  "amount_max":1000
+  "amount_min":0.01,
+  "amount_max":1000000
 }
 ```  

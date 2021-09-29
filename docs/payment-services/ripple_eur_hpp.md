@@ -15,7 +15,7 @@
  
 :	[EN] Ripple 
  
-**Amount limits:** from `0.01` to `100000` EUR 
+**Amount limits:** from `0.01` to `1000000` EUR 
 
 ## JSON Object 
 
@@ -27,6 +27,6 @@
   "currency":"EUR",
   "fields":null,
   "amount_min":0.01,
-  "amount_max":100000
+  "amount_max":1000000
 }
 ```  

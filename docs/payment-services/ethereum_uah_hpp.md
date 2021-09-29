@@ -15,7 +15,7 @@
  
 :	[EN] Ethereum 
  
-**Amount limits:** from `0.01` to `100000` UAH 
+**Amount limits:** from `0.01` to `1000000` UAH 
 
 ## JSON Object 
 
@@ -27,6 +27,6 @@
   "currency":"UAH",
   "fields":null,
   "amount_min":0.01,
-  "amount_max":100000
+  "amount_max":1000000
 }
 ```  
