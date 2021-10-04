@@ -37,15 +37,6 @@ The list of [Payment Services](/payment-services/) based on the _RBK Money_
 |![rbkmoney](https://static.openfintech.io/payment_methods/rbkmoney/icon.png?w=278&c=v0.59.26#w100) |[rbkmoney_rub_hpp](/payment-services/rbkmoney_rub_hpp/)|`rbkmoney_rub_hpp`| 
  
 
-## Payment Providers 
- 
-The list of [Payment Providers](/payment-providers/) that support the _RBK Money_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
- 
-
 ## JSON Object 
 
 ```json

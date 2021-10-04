@@ -49,7 +49,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Test_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![test](https://static.openfintech.io/payment_providers/test/icon.svg?w=278&c=v0.59.26#w100) |[Test](/payment-providers/test/)|`test`| 
-|![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![paymaster](https://static.openfintech.io/payment_providers/paymaster/icon.svg?w=278&c=v0.59.26#w100) |[Paymaster](/payment-providers/paymaster/)|`paymaster`| 
  
 

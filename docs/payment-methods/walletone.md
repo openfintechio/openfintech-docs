@@ -28,15 +28,6 @@ https://static.openfintech.io/payment_methods/walletone/logo.png?w=400&c=v0.59.2
 https://static.openfintech.io/payment_methods/walletone/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payment Providers 
- 
-The list of [Payment Providers](/payment-providers/) that support the _WalletOne_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
- 
-
 ## JSON Object 
 
 ```json

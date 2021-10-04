@@ -52,6 +52,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Ethereum_
 |![piastrix](https://static.openfintech.io/payment_providers/piastrix/icon.svg?w=278&c=v0.59.26#w100) |[Piastrix](/payment-providers/piastrix/)|`piastrix`| 
 |![anymoney](https://static.openfintech.io/payment_providers/anymoney/icon.svg?w=278&c=v0.59.26#w100) |[Any.Money](/payment-providers/anymoney/)|`anymoney`| 
 |![coinspaid](https://static.openfintech.io/payment_providers/coinspaid/icon.png?w=278&c=v0.59.26#w100) |[CoinsPaid](/payment-providers/coinspaid/)|`coinspaid`| 
+|![easytransfer](https://static.openfintech.io/payment_providers/easytransfer/icon.svg?w=278&c=v0.59.26#w100) |[EasyTransfer](/payment-providers/easytransfer/)|`easytransfer`| 
 |![changcoinspay](https://static.openfintech.io/payment_providers/changcoinspay/icon.png?w=278&c=v0.59.26#w100) |[ChangcoinsPay](/payment-providers/changcoinspay/)|`changcoinspay`| 
  
 

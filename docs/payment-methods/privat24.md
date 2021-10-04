@@ -49,7 +49,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Privat24_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![liqpay](https://static.openfintech.io/payment_providers/liqpay/icon.svg?w=278&c=v0.59.26#w100) |[LiqPay](/payment-providers/liqpay/)|`liqpay`| 
-|![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![paymaster](https://static.openfintech.io/payment_providers/paymaster/icon.svg?w=278&c=v0.59.26#w100) |[Paymaster](/payment-providers/paymaster/)|`paymaster`| 
 |![advcash](https://static.openfintech.io/payment_providers/advcash/icon.svg?w=278&c=v0.59.26#w100) |[AdvCash](/payment-providers/advcash/)|`advcash`| 
  
