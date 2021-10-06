@@ -662,6 +662,7 @@
 |![virtualxs](https://static.openfintech.io/payment_providers/virtualxs/logo.png?w=600&c=v0.59.26#w100) |[**Virtual Access**](virtualxs/)|`virtualxs`| 
 |![viveum](https://static.openfintech.io/payment_providers/viveum/logo.png?w=600&c=v0.59.26#w100) |[**VIVEUM**](viveum/)|`viveum`| 
 |![voguepay](https://static.openfintech.io/payment_providers/voguepay/logo.png?w=600&c=v0.59.26#w100) |[**VoguePay**](voguepay/)|`voguepay`| 
+|![volt](https://static.openfintech.io/payment_providers/volt/logo.svg?w=600&c=v0.59.26#w100) |[**VOLT**](volt/)|`volt`| 
 |![voltagepay](https://static.openfintech.io/payment_providers/voltagepay/logo.png?w=600&c=v0.59.26#w100) |[**Voltage Pay**](voltagepay/)|`voltagepay`| 
 |![vtcpay](https://static.openfintech.io/payment_providers/vtcpay/logo.png?w=600&c=v0.59.26#w100) |[**VTC Pay**](vtcpay/)|`vtcpay`| 
 || **W** ||

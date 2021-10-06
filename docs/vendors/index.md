@@ -1644,6 +1644,7 @@
 |![volins_gru_pat_kb_privatbank_m_luck](https://static.openfintech.io/vendors/volins_gru_pat_kb_privatbank_m_luck/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ 'ВОЛИНСЬКЕ ГОЛОВНЕ РЕГІОНАЛЬНЕ УПРАВЛІННЯ' ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](volins_gru_pat_kb_privatbank_m_luck/)|`volins_gru_pat_kb_privatbank_m_luck`| 
 |![volinska_filiya_prat_ufg](https://static.openfintech.io/vendors/volinska_filiya_prat_ufg/logo.svg?w=600&c=v0.59.26#w200) |[**Волинська філія ПрАТ 'Українська фінансова група'**](volinska_filiya_prat_ufg/)|`volinska_filiya_prat_ufg`| 
 |![volksbank](https://static.openfintech.io/vendors/volksbank/logo.png?w=600&c=v0.59.26#w200) |[**Volksbank**](volksbank/)|`volksbank`| 
+|![volt](https://static.openfintech.io/vendors/volt/logo.svg?w=600&c=v0.59.26#w200) |[**VOLT**](volt/)|`volt`| 
 |![voltagepay](https://static.openfintech.io/vendors/voltagepay/logo.png?w=600&c=v0.59.26#w200) |[**Voltage Pay**](voltagepay/)|`voltagepay`| 
 |![vostochnyjbank](https://static.openfintech.io/vendors/vostochnyjbank/logo.svg?w=600&c=v0.59.26#w200) |[**Восточный банк**](vostochnyjbank/)|`vostochnyjbank`| 
 |![vozrozhdeniebank](https://static.openfintech.io/vendors/vozrozhdeniebank/logo.svg?w=600&c=v0.59.26#w200) |[**Возрождение банк**](vozrozhdeniebank/)|`vozrozhdeniebank`| 
