@@ -534,6 +534,7 @@
 |![primeiropay](https://static.openfintech.io/payment_providers/primeiropay/logo.png?w=600&c=v0.59.26#w100) |[**PrimeiroPay**](primeiropay/)|`primeiropay`| 
 |![procard](https://static.openfintech.io/payment_providers/procard/logo.png?w=600&c=v0.59.26#w100) |[**Procard**](procard/)|`procard`| 
 |![processingcom](https://static.openfintech.io/payment_providers/processingcom/logo.png?w=600&c=v0.59.26#w100) |[**Processing.com**](processingcom/)|`processingcom`| 
+|![processingmoney](https://static.openfintech.io/payment_providers/processingmoney/logo.png?w=600&c=v0.59.26#w100) |[**Processing.Money**](processingmoney/)|`processingmoney`| 
 |![processingpartners](https://static.openfintech.io/payment_providers/processingpartners/logo.png?w=600&c=v0.59.26#w100) |[**Processing Partners**](processingpartners/)|`processingpartners`| 
 |![propay](https://static.openfintech.io/payment_providers/propay/logo.png?w=600&c=v0.59.26#w100) |[**ProPay**](propay/)|`propay`| 
 |![prosum](https://static.openfintech.io/payment_providers/prosum/logo.png?w=600&c=v0.59.26#w100) |[**Prosum**](prosum/)|`prosum`| 

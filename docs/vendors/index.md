@@ -1312,6 +1312,7 @@
 |![privatmoney](https://static.openfintech.io/vendors/privatmoney/logo.svg?w=600&c=v0.59.26#w200) |[**PrivatMoney**](privatmoney/)|`privatmoney`| 
 |![procard](https://static.openfintech.io/vendors/procard/logo.png?w=600&c=v0.59.26#w200) |[**Procard**](procard/)|`procard`| 
 |![processingcom](https://static.openfintech.io/vendors/processingcom/logo.png?w=600&c=v0.59.26#w200) |[**Processing.com**](processingcom/)|`processingcom`| 
+|![processingmoney](https://static.openfintech.io/vendors/processingmoney/logo.png?w=600&c=v0.59.26#w200) |[**Processing.Money**](processingmoney/)|`processingmoney`| 
 |![processingpartners](https://static.openfintech.io/vendors/processingpartners/logo.png?w=600&c=v0.59.26#w200) |[**Processing Partners**](processingpartners/)|`processingpartners`| 
 |![procreditbank](https://static.openfintech.io/vendors/procreditbank/logo.svg?w=600&c=v0.59.26#w200) |[**ProCredit Bank**](procreditbank/)|`procreditbank`| 
 |![promsvyazbank](https://static.openfintech.io/vendors/promsvyazbank/logo.svg?w=600&c=v0.59.26#w200) |[**Промсвязьбанк**](promsvyazbank/)|`promsvyazbank`| 

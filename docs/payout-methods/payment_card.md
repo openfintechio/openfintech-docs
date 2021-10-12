@@ -258,6 +258,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![getapay](https://static.openfintech.io/payment_providers/getapay/icon.svg?w=278&c=v0.59.26#w100) |[GetaPay](/payment-providers/getapay/)|`getapay`| 
 |![moneypay](https://static.openfintech.io/payment_providers/moneypay/icon.png?w=278&c=v0.59.26#w100) |[MoneyPay](/payment-providers/moneypay/)|`moneypay`| 
 |![volt](https://static.openfintech.io/payment_providers/volt/icon.svg?w=278&c=v0.59.26#w100) |[VOLT](/payment-providers/volt/)|`volt`| 
+|![processingmoney](https://static.openfintech.io/payment_providers/processingmoney/icon.png?w=278&c=v0.59.26#w100) |[Processing.Money](/payment-providers/processingmoney/)|`processingmoney`| 
  
 
 ## JSON Object 
