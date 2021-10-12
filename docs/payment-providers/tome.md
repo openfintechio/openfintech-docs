@@ -53,6 +53,8 @@ The list of supported [Payout Methods](/payout-methods/)
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
 |![yandexmoney](https://static.openfintech.io/payout_methods/yandexmoney/icon.svg?w=278&c=v0.59.26#w40) |[yandexmoney](payout-methodsyandexmoney/)|`yandexmoney`| 
+|![qiwi](https://static.openfintech.io/payout_methods/qiwi/icon.svg?w=278&c=v0.59.26#w40) |[qiwi](payout-methodsqiwi/)|`qiwi`| 
+|![webmoneytransfer](https://static.openfintech.io/payout_methods/webmoneytransfer/icon.svg?w=278&c=v0.59.26#w40) |[webmoneytransfer](payout-methodswebmoneytransfer/)|`webmoneytransfer`| 
  
 
 ## JSON Object 
@@ -72,7 +74,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "payout_method":[
     "payment_card",
-    "yandexmoney"
+    "yandexmoney",
+    "qiwi",
+    "webmoneytransfer"
   ],
   "metadata":null,
   "name":{
