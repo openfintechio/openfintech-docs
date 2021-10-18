@@ -1285,6 +1285,7 @@
 |![plyusbank](https://static.openfintech.io/vendors/plyusbank/logo.svg?w=600&c=v0.59.26#w200) |[**Плюс банк**](plyusbank/)|`plyusbank`| 
 |![pm-obmen.tv](https://static.openfintech.io/vendors/pm-obmen.tv/logo.svg?w=600&c=v0.59.26#w200) |[**PM-Obmen**](pm-obmen.tv/)|`pm-obmen.tv`| 
 |![pm-privat](https://static.openfintech.io/vendors/pm-privat/logo.svg?w=600&c=v0.59.26#w200) |[**PM-Privat**](pm-privat/)|`pm-privat`| 
+|![pmsolutions](https://static.openfintech.io/vendors/pmsolutions/logo.png?w=600&c=v0.59.26#w200) |[**PMSolutions**](pmsolutions/)|`pmsolutions`| 
 |![pochtabank](https://static.openfintech.io/vendors/pochtabank/logo.svg?w=600&c=v0.59.26#w200) |[**Почта Банк**](pochtabank/)|`pochtabank`| 
 |![pokermatch](https://static.openfintech.io/vendors/pokermatch/logo.svg?w=600&c=v0.59.26#w200) |[**Pokermatch**](pokermatch/)|`pokermatch`| 
 |![pokpay](https://static.openfintech.io/vendors/pokpay/logo.svg?w=600&c=v0.59.26#w200) |[**PokPay**](pokpay/)|`pokpay`| 
@@ -1312,7 +1313,6 @@
 |![privatmoney](https://static.openfintech.io/vendors/privatmoney/logo.svg?w=600&c=v0.59.26#w200) |[**PrivatMoney**](privatmoney/)|`privatmoney`| 
 |![procard](https://static.openfintech.io/vendors/procard/logo.png?w=600&c=v0.59.26#w200) |[**Procard**](procard/)|`procard`| 
 |![processingcom](https://static.openfintech.io/vendors/processingcom/logo.png?w=600&c=v0.59.26#w200) |[**Processing.com**](processingcom/)|`processingcom`| 
-|![processingmoney](https://static.openfintech.io/vendors/processingmoney/logo.png?w=600&c=v0.59.26#w200) |[**Processing.Money**](processingmoney/)|`processingmoney`| 
 |![processingpartners](https://static.openfintech.io/vendors/processingpartners/logo.png?w=600&c=v0.59.26#w200) |[**Processing Partners**](processingpartners/)|`processingpartners`| 
 |![procreditbank](https://static.openfintech.io/vendors/procreditbank/logo.svg?w=600&c=v0.59.26#w200) |[**ProCredit Bank**](procreditbank/)|`procreditbank`| 
 |![promsvyazbank](https://static.openfintech.io/vendors/promsvyazbank/logo.svg?w=600&c=v0.59.26#w200) |[**Промсвязьбанк**](promsvyazbank/)|`promsvyazbank`| 

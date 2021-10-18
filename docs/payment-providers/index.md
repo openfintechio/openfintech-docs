@@ -526,6 +526,7 @@
 |![platio](https://static.openfintech.io/payment_providers/platio/logo.svg?w=600&c=v0.59.26#w100) |[**Platio**](platio/)|`platio`| 
 |![platon](https://static.openfintech.io/payment_providers/platon/logo.svg?w=600&c=v0.59.26#w100) |[**Platon**](platon/)|`platon`| 
 |![platron](https://static.openfintech.io/payment_providers/platron/logo.png?w=600&c=v0.59.26#w100) |[**Platron**](platron/)|`platron`| 
+|![pmsolutions](https://static.openfintech.io/payment_providers/pmsolutions/logo.png?w=600&c=v0.59.26#w100) |[**PMSolutions**](pmsolutions/)|`pmsolutions`| 
 |![portmone](https://static.openfintech.io/payment_providers/portmone/logo.svg?w=600&c=v0.59.26#w100) |[**Portmone.com**](portmone/)|`portmone`| 
 |![postfinance](https://static.openfintech.io/payment_providers/postfinance/logo.png?w=600&c=v0.59.26#w100) |[**PostFinance**](postfinance/)|`postfinance`| 
 |![powerpay21](https://static.openfintech.io/payment_providers/powerpay21/logo.png?w=600&c=v0.59.26#w100) |[**powerpay21**](powerpay21/)|`powerpay21`| 
@@ -534,7 +535,6 @@
 |![primeiropay](https://static.openfintech.io/payment_providers/primeiropay/logo.png?w=600&c=v0.59.26#w100) |[**PrimeiroPay**](primeiropay/)|`primeiropay`| 
 |![procard](https://static.openfintech.io/payment_providers/procard/logo.png?w=600&c=v0.59.26#w100) |[**Procard**](procard/)|`procard`| 
 |![processingcom](https://static.openfintech.io/payment_providers/processingcom/logo.png?w=600&c=v0.59.26#w100) |[**Processing.com**](processingcom/)|`processingcom`| 
-|![processingmoney](https://static.openfintech.io/payment_providers/processingmoney/logo.png?w=600&c=v0.59.26#w100) |[**Processing.Money**](processingmoney/)|`processingmoney`| 
 |![processingpartners](https://static.openfintech.io/payment_providers/processingpartners/logo.png?w=600&c=v0.59.26#w100) |[**Processing Partners**](processingpartners/)|`processingpartners`| 
 |![propay](https://static.openfintech.io/payment_providers/propay/logo.png?w=600&c=v0.59.26#w100) |[**ProPay**](propay/)|`propay`| 
 |![prosum](https://static.openfintech.io/payment_providers/prosum/logo.png?w=600&c=v0.59.26#w100) |[**Prosum**](prosum/)|`prosum`| 
