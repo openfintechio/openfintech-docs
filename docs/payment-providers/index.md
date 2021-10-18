@@ -556,6 +556,7 @@
 |![realexpayments](https://static.openfintech.io/payment_providers/realexpayments/logo.png?w=600&c=v0.59.26#w100) |[**Realex Payments**](realexpayments/)|`realexpayments`| 
 |![reddotpayment](https://static.openfintech.io/payment_providers/reddotpayment/logo.png?w=600&c=v0.59.26#w100) |[**Red Dot Payment**](reddotpayment/)|`reddotpayment`| 
 |![redecard](https://static.openfintech.io/payment_providers/redecard/logo.png?w=600&c=v0.59.26#w100) |[**Redecard**](redecard/)|`redecard`| 
+|![reel](https://static.openfintech.io/payment_providers/reel/logo.png?w=600&c=v0.59.26#w100) |[**REEL**](reel/)|`reel`| 
 |![reepay](https://static.openfintech.io/payment_providers/reepay/logo.png?w=600&c=v0.59.26#w100) |[**ReePay**](reepay/)|`reepay`| 
 |![regularpay](https://static.openfintech.io/payment_providers/regularpay/logo.png?w=600&c=v0.59.26#w100) |[**RegularPay**](regularpay/)|`regularpay`| 
 |![rietumu](https://static.openfintech.io/payment_providers/rietumu/logo.png?w=600&c=v0.59.26#w100) |[**Rietumu Banka**](rietumu/)|`rietumu`| 
