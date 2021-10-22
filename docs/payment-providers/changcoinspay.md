@@ -44,6 +44,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether](/payment-methods/tether/)|`tether`| 
 |![binance_coin](https://static.openfintech.io/payment_methods/binance_coin/icon.svg?w=278&c=v0.59.26#w100) |[binance_coin](/payment-methods/binance_coin/)|`binance_coin`| 
 |![dogecoin](https://static.openfintech.io/payment_methods/dogecoin/icon.svg?w=278&c=v0.59.26#w100) |[dogecoin](/payment-methods/dogecoin/)|`dogecoin`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
  
 
 ## JSON Object 
@@ -60,7 +61,8 @@ The list of supported [Payment Methods](/payment-methods/)
     "ethereum",
     "tether",
     "binance_coin",
-    "dogecoin"
+    "dogecoin",
+    "payment_card"
   ],
   "payout_method":null,
   "metadata":null,
