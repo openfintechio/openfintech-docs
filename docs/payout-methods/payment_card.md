@@ -260,6 +260,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![changcoinspay](https://static.openfintech.io/payment_providers/changcoinspay/icon.png?w=278&c=v0.59.26#w100) |[ChangcoinsPay](/payment-providers/changcoinspay/)|`changcoinspay`| 
 |![volt](https://static.openfintech.io/payment_providers/volt/icon.svg?w=278&c=v0.59.26#w100) |[VOLT](/payment-providers/volt/)|`volt`| 
 |![pmsolutions](https://static.openfintech.io/payment_providers/pmsolutions/icon.png?w=278&c=v0.59.26#w100) |[PMSolutions](/payment-providers/pmsolutions/)|`pmsolutions`| 
+|![opay](https://static.openfintech.io/payment_providers/opay/icon.svg?w=278&c=v0.59.26#w100) |[OPay](/payment-providers/opay/)|`opay`| 
  
 
 ## JSON Object 

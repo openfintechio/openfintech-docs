@@ -402,6 +402,7 @@
 |![onestopmoneymanager](https://static.openfintech.io/payment_providers/onestopmoneymanager/logo.png?w=600&c=v0.59.26#w100) |[**Onestopmoneymanager Ltd**](onestopmoneymanager/)|`onestopmoneymanager`| 
 |![onpex](https://static.openfintech.io/payment_providers/onpex/logo.png?w=600&c=v0.59.26#w100) |[**ONPEX**](onpex/)|`onpex`| 
 |![oonex](https://static.openfintech.io/payment_providers/oonex/logo.png?w=600&c=v0.59.26#w100) |[**Oonex**](oonex/)|`oonex`| 
+|![opay](https://static.openfintech.io/payment_providers/opay/logo.svg?w=600&c=v0.59.26#w100) |[**OPay**](opay/)|`opay`| 
 |![oplata](https://static.openfintech.io/payment_providers/oplata/logo.png?w=600&c=v0.59.26#w100) |[**Oplata.com**](oplata/)|`oplata`| 
 |![optile](https://static.openfintech.io/payment_providers/optile/logo.png?w=600&c=v0.59.26#w100) |[**Optile**](optile/)|`optile`| 
 |![optimalpayments](https://static.openfintech.io/payment_providers/optimalpayments/logo.png?w=600&c=v0.59.26#w100) |[**Paysafe**](optimalpayments/)|`optimalpayments`| 

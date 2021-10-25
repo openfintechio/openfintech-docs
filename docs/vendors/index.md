@@ -982,6 +982,7 @@
 |![onpex](https://static.openfintech.io/vendors/onpex/logo.png?w=600&c=v0.59.26#w200) |[**ONPEX**](onpex/)|`onpex`| 
 |![oodatrajffajzen_bank_avalm_odesa](https://static.openfintech.io/vendors/oodatrajffajzen_bank_avalm_odesa/logo.svg?w=600&c=v0.59.26#w200) |[**Одеська обласна дирекція Публічного акціонерного товариства 'Райффайзен Банк Аваль'**](oodatrajffajzen_bank_avalm_odesa/)|`oodatrajffajzen_bank_avalm_odesa`| 
 |![oonex](https://static.openfintech.io/vendors/oonex/logo.png?w=600&c=v0.59.26#w200) |[**Oonex**](oonex/)|`oonex`| 
+|![opay](https://static.openfintech.io/vendors/opay/logo.svg?w=600&c=v0.59.26#w200) |[**OPay**](opay/)|`opay`| 
 |![oplata](https://static.openfintech.io/vendors/oplata/logo.png?w=600&c=v0.59.26#w200) |[**Oplata.com**](oplata/)|`oplata`| 
 |![oppohjola](https://static.openfintech.io/vendors/oppohjola/logo.png?w=600&c=v0.59.26#w200) |[**OP-Pohjola**](oppohjola/)|`oppohjola`| 
 |![optile](https://static.openfintech.io/vendors/optile/logo.png?w=600&c=v0.59.26#w200) |[**Optile**](optile/)|`optile`| 
