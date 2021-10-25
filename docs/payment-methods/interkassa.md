@@ -44,6 +44,7 @@ The list of [Payment Services](/payment-services/) based on the _Interkassa_
 |![interkassa](https://static.openfintech.io/payment_methods/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[interkassa_wme_hpp](/payment-services/interkassa_wme_hpp/)|`interkassa_wme_hpp`| 
 |![interkassa](https://static.openfintech.io/payment_methods/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[interkassa_wmr_hpp](/payment-services/interkassa_wmr_hpp/)|`interkassa_wmr_hpp`| 
 |![interkassa](https://static.openfintech.io/payment_methods/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[interkassa_wmu_hpp](/payment-services/interkassa_wmu_hpp/)|`interkassa_wmu_hpp`| 
+|![interkassa](https://static.openfintech.io/payment_methods/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[interkassa_inr_hpp](/payment-services/interkassa_inr_hpp/)|`interkassa_inr_hpp`| 
  
 
 ## JSON Object 

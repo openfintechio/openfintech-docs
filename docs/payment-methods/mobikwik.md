@@ -37,12 +37,22 @@ https://static.openfintech.io/payment_methods/mobikwik/logo.png?w=400&c=v0.59.26
 https://static.openfintech.io/payment_methods/mobikwik/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _MobiKwik_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![mobikwik](https://static.openfintech.io/payment_methods/mobikwik/icon.png?w=278&c=v0.59.26#w100) |[mobikwik_inr_hpp](/payment-services/mobikwik_inr_hpp/)|`mobikwik_inr_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _MobiKwik_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![ebillingsolutions](https://static.openfintech.io/payment_providers/ebillingsolutions/icon.png?w=278&c=v0.59.26#w100) |[EBS](/payment-providers/ebillingsolutions/)|`ebillingsolutions`| 
  
 

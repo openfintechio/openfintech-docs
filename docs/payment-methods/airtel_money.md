@@ -39,6 +39,7 @@ The list of [Payment Services](/payment-services/) based on the _Airtel money_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money_tzs_invoice](/payment-services/airtel_money_tzs_invoice/)|`airtel_money_tzs_invoice`| 
+|![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money_inr_hpp](/payment-services/airtel_money_inr_hpp/)|`airtel_money_inr_hpp`| 
  
 
 ## Payment Providers 
@@ -47,6 +48,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Airtel mo
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![selcom](https://static.openfintech.io/payment_providers/selcom/icon.png?w=278&c=v0.59.26#w100) |[Selcom](/payment-providers/selcom/)|`selcom`| 
  
 

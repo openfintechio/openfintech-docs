@@ -39,6 +39,15 @@ The list of [Payout Services](/payout-services/) based on the _PayTM Wallet_
 |![paytm](https://static.openfintech.io/payout_methods/paytm/icon.svg?w=278&c=v0.59.26#w40) |[paytm_inr](/payout-services/paytm_inr/)|`paytm_inr`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _PayTM Wallet_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
+ 
+
 ## JSON Object 
 
 ```json
