@@ -262,6 +262,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![pmsolutions](https://static.openfintech.io/payment_providers/pmsolutions/icon.png?w=278&c=v0.59.26#w100) |[PMSolutions](/payment-providers/pmsolutions/)|`pmsolutions`| 
 |![opay](https://static.openfintech.io/payment_providers/opay/icon.svg?w=278&c=v0.59.26#w100) |[OPay](/payment-providers/opay/)|`opay`| 
 |![whitebit](https://static.openfintech.io/payment_providers/whitebit/icon.svg?w=278&c=v0.59.26#w100) |[WhiteBIT](/payment-providers/whitebit/)|`whitebit`| 
+|![emerald24](https://static.openfintech.io/payment_providers/emerald24/icon.svg?w=278&c=v0.59.26#w100) |[Emerald24](/payment-providers/emerald24/)|`emerald24`| 
  
 
 ## JSON Object 
