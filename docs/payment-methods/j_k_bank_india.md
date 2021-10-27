@@ -22,10 +22,10 @@ https://static.openfintech.io/payment_methods/j_k_bank_india/logo.png?w=400&c=v0
 ```  
 
 ### Icon 
-![j_k_bank_india](https://static.openfintech.io/payment_methods/j_k_bank_india/icon.svg?w=278&c=v0.59.26#w100)  
+![j_k_bank_india](https://static.openfintech.io/payment_methods/j_k_bank_india/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/j_k_bank_india/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/j_k_bank_india/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -34,7 +34,7 @@ The list of [Payment Services](/payment-services/) based on the _Jammu & Kashmir
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![j_k_bank_india](https://static.openfintech.io/payment_methods/j_k_bank_india/icon.svg?w=278&c=v0.59.26#w100) |[j_k_bank_india_inr_hpp](/payment-services/j_k_bank_india_inr_hpp/)|`j_k_bank_india_inr_hpp`| 
+|![j_k_bank_india](https://static.openfintech.io/payment_methods/j_k_bank_india/icon.png?w=278&c=v0.59.26#w100) |[j_k_bank_india_inr_hpp](/payment-services/j_k_bank_india_inr_hpp/)|`j_k_bank_india_inr_hpp`| 
  
 
 ## Payment Providers 

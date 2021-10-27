@@ -64,7 +64,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![canara_bank](https://static.openfintech.io/payment_methods/canara_bank/icon.svg?w=278&c=v0.59.26#w100) |[canara_bank](/payment-methods/canara_bank/)|`canara_bank`| 
 |![central_bank_of_india](https://static.openfintech.io/payment_methods/central_bank_of_india/icon.png?w=278&c=v0.59.26#w100) |[central_bank_of_india](/payment-methods/central_bank_of_india/)|`central_bank_of_india`| 
 |![union_bank_of_india](https://static.openfintech.io/payment_methods/union_bank_of_india/icon.svg?w=278&c=v0.59.26#w100) |[union_bank_of_india](/payment-methods/union_bank_of_india/)|`union_bank_of_india`| 
-|![cosmos_bank_india](https://static.openfintech.io/payment_methods/cosmos_bank_india/icon.svg?w=278&c=v0.59.26#w100) |[cosmos_bank_india](/payment-methods/cosmos_bank_india/)|`cosmos_bank_india`| 
+|![cosmos_bank_india](https://static.openfintech.io/payment_methods/cosmos_bank_india/icon.png?w=278&c=v0.59.26#w100) |[cosmos_bank_india](/payment-methods/cosmos_bank_india/)|`cosmos_bank_india`| 
 |![deutsche_bank_india](https://static.openfintech.io/payment_methods/deutsche_bank_india/icon.png?w=278&c=v0.59.26#w100) |[deutsche_bank_india](/payment-methods/deutsche_bank_india/)|`deutsche_bank_india`| 
 |![dcb_bank_india](https://static.openfintech.io/payment_methods/dcb_bank_india/icon.png?w=278&c=v0.59.26#w100) |[dcb_bank_india](/payment-methods/dcb_bank_india/)|`dcb_bank_india`| 
 |![dhanalaxmi_bank_india](https://static.openfintech.io/payment_methods/dhanalaxmi_bank_india/icon.png?w=278&c=v0.59.26#w100) |[dhanalaxmi_bank_india](/payment-methods/dhanalaxmi_bank_india/)|`dhanalaxmi_bank_india`| 
@@ -75,9 +75,9 @@ The list of supported [Payment Methods](/payment-methods/)
 |![indian_bank](https://static.openfintech.io/payment_methods/indian_bank/icon.svg?w=278&c=v0.59.26#w100) |[indian_bank](/payment-methods/indian_bank/)|`indian_bank`| 
 |![indian_overseas_bank](https://static.openfintech.io/payment_methods/indian_overseas_bank/icon.png?w=278&c=v0.59.26#w100) |[indian_overseas_bank](/payment-methods/indian_overseas_bank/)|`indian_overseas_bank`| 
 |![indusind_bank](https://static.openfintech.io/payment_methods/indusind_bank/icon.png?w=278&c=v0.59.26#w100) |[indusind_bank](/payment-methods/indusind_bank/)|`indusind_bank`| 
-|![industrial_development_bank_of_india](https://static.openfintech.io/payment_methods/industrial_development_bank_of_india/icon.svg?w=278&c=v0.59.26#w100) |[industrial_development_bank_of_india](/payment-methods/industrial_development_bank_of_india/)|`industrial_development_bank_of_india`| 
-|![j_k_bank_india](https://static.openfintech.io/payment_methods/j_k_bank_india/icon.svg?w=278&c=v0.59.26#w100) |[j_k_bank_india](/payment-methods/j_k_bank_india/)|`j_k_bank_india`| 
-|![karnatka_bank](https://static.openfintech.io/payment_methods/karnatka_bank/icon.svg?w=278&c=v0.59.26#w100) |[karnatka_bank](/payment-methods/karnatka_bank/)|`karnatka_bank`| 
+|![idbi_bank](https://static.openfintech.io/payment_methods/idbi_bank/icon.svg?w=278&c=v0.59.26#w100) |[idbi_bank](/payment-methods/idbi_bank/)|`idbi_bank`| 
+|![j_k_bank_india](https://static.openfintech.io/payment_methods/j_k_bank_india/icon.png?w=278&c=v0.59.26#w100) |[j_k_bank_india](/payment-methods/j_k_bank_india/)|`j_k_bank_india`| 
+|![karnataka_bank](https://static.openfintech.io/payment_methods/karnataka_bank/icon.svg?w=278&c=v0.59.26#w100) |[karnataka_bank](/payment-methods/karnataka_bank/)|`karnataka_bank`| 
 |![karurvysya_bank_india](https://static.openfintech.io/payment_methods/karurvysya_bank_india/icon.svg?w=278&c=v0.59.26#w100) |[karurvysya_bank_india](/payment-methods/karurvysya_bank_india/)|`karurvysya_bank_india`| 
 |![kotak_mahindra_bank](https://static.openfintech.io/payment_methods/kotak_mahindra_bank/icon.png?w=278&c=v0.59.26#w100) |[kotak_mahindra_bank](/payment-methods/kotak_mahindra_bank/)|`kotak_mahindra_bank`| 
 |![lakshmi_vilas_bank_india](https://static.openfintech.io/payment_methods/lakshmi_vilas_bank_india/icon.png?w=278&c=v0.59.26#w100) |[lakshmi_vilas_bank_india](/payment-methods/lakshmi_vilas_bank_india/)|`lakshmi_vilas_bank_india`| 
@@ -154,9 +154,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "indian_bank",
     "indian_overseas_bank",
     "indusind_bank",
-    "industrial_development_bank_of_india",
+    "idbi_bank",
     "j_k_bank_india",
-    "karnatka_bank",
+    "karnataka_bank",
     "karurvysya_bank_india",
     "kotak_mahindra_bank",
     "lakshmi_vilas_bank_india",

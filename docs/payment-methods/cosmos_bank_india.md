@@ -22,10 +22,10 @@ https://static.openfintech.io/payment_methods/cosmos_bank_india/logo.png?w=400&c
 ```  
 
 ### Icon 
-![cosmos_bank_india](https://static.openfintech.io/payment_methods/cosmos_bank_india/icon.svg?w=278&c=v0.59.26#w100)  
+![cosmos_bank_india](https://static.openfintech.io/payment_methods/cosmos_bank_india/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/cosmos_bank_india/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/cosmos_bank_india/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -34,7 +34,7 @@ The list of [Payment Services](/payment-services/) based on the _Cosmos Co-opera
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![cosmos_bank_india](https://static.openfintech.io/payment_methods/cosmos_bank_india/icon.svg?w=278&c=v0.59.26#w100) |[cosmos_bank_india_inr_hpp](/payment-services/cosmos_bank_india_inr_hpp/)|`cosmos_bank_india_inr_hpp`| 
+|![cosmos_bank_india](https://static.openfintech.io/payment_methods/cosmos_bank_india/icon.png?w=278&c=v0.59.26#w100) |[cosmos_bank_india_inr_hpp](/payment-services/cosmos_bank_india_inr_hpp/)|`cosmos_bank_india_inr_hpp`| 
  
 
 ## Payment Providers 

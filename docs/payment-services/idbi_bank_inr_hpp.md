@@ -1,5 +1,5 @@
 
-# IDBI Bank (service) 
+# IDBI Bank Ltd (service) 
 ![idbi_bank_inr_hpp](https://static.openfintech.io/payment_methods/idbi_bank_inr_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -13,7 +13,7 @@
  
 **Name:** 
  
-:	[EN] IDBI Bank 
+:	[EN] IDBI Bank Ltd 
  
 **Amount limits:** from `0.01` to `9999999` INR 
 

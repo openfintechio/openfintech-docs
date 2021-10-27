@@ -79,7 +79,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![icici_bank](https://static.openfintech.io/payment_methods/icici_bank/icon.svg?w=278&c=v0.59.26#w100) |[icici_bank](/payment-methods/icici_bank/)|`icici_bank`| 
 |![punjab_national_bank](https://static.openfintech.io/payment_methods/punjab_national_bank/icon.svg?w=278&c=v0.59.26#w100) |[punjab_national_bank](/payment-methods/punjab_national_bank/)|`punjab_national_bank`| 
 |![bank_of_india](https://static.openfintech.io/payment_methods/bank_of_india/icon.svg?w=278&c=v0.59.26#w100) |[bank_of_india](/payment-methods/bank_of_india/)|`bank_of_india`| 
-|![idbi_bank](https://static.openfintech.io/payment_methods/idbi_bank/icon.png?w=278&c=v0.59.26#w100) |[idbi_bank](/payment-methods/idbi_bank/)|`idbi_bank`| 
+|![idbi_bank](https://static.openfintech.io/payment_methods/idbi_bank/icon.svg?w=278&c=v0.59.26#w100) |[idbi_bank](/payment-methods/idbi_bank/)|`idbi_bank`| 
 |![standard_charter_bank](https://static.openfintech.io/payment_methods/standard_charter_bank/icon.svg?w=278&c=v0.59.26#w100) |[standard_charter_bank](/payment-methods/standard_charter_bank/)|`standard_charter_bank`| 
 |![karnataka_bank](https://static.openfintech.io/payment_methods/karnataka_bank/icon.svg?w=278&c=v0.59.26#w100) |[karnataka_bank](/payment-methods/karnataka_bank/)|`karnataka_bank`| 
 |![hdfc_bank](https://static.openfintech.io/payment_methods/hdfc_bank/icon.svg?w=278&c=v0.59.26#w100) |[hdfc_bank](/payment-methods/hdfc_bank/)|`hdfc_bank`| 

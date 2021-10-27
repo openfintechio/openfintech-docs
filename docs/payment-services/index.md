@@ -211,7 +211,7 @@
 |![wallet](https://static.openfintech.io/payment_methods/i_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**wallet**](/payment-methods/i_wallet/)|[`i_wallet_eur_hpp`](i_wallet_eur_hpp/)| 
 |![wallet](https://static.openfintech.io/payment_methods/i_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**wallet**](/payment-methods/i_wallet/)|[`i_wallet_usd_hpp`](i_wallet_usd_hpp/)| 
 |![ICICI Bank](https://static.openfintech.io/payment_methods/icici_bank/logo.svg?w=400&c=v0.59.26#w200) |[**ICICI Bank**](/payment-methods/icici_bank/)|[`icici_bank_inr_hpp`](icici_bank_inr_hpp/)| 
-|![IDBI Bank](https://static.openfintech.io/payment_methods/idbi_bank/logo.png?w=400&c=v0.59.26#w200) |[**IDBI Bank**](/payment-methods/idbi_bank/)|[`idbi_bank_inr_hpp`](idbi_bank_inr_hpp/)| 
+|![IDBI Bank Ltd](https://static.openfintech.io/payment_methods/idbi_bank/logo.svg?w=400&c=v0.59.26#w200) |[**IDBI Bank Ltd**](/payment-methods/idbi_bank/)|[`idbi_bank_inr_hpp`](idbi_bank_inr_hpp/)| 
 |![iDEAL](https://static.openfintech.io/payment_methods/ideal/logo.svg?w=400&c=v0.59.26#w200) |[**iDEAL**](/payment-methods/ideal/)|[`ideal_eur_hpp`](ideal_eur_hpp/)| 
 |![IDFC BANK](https://static.openfintech.io/payment_methods/idfc_bank_india/logo.svg?w=400&c=v0.59.26#w200) |[**IDFC BANK**](/payment-methods/idfc_bank_india/)|[`idfc_bank_india_inr_hpp`](idfc_bank_india_inr_hpp/)| 
 |![Indian Bank](https://static.openfintech.io/payment_methods/indian_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Indian Bank**](/payment-methods/indian_bank/)|[`indian_bank_inr_hpp`](indian_bank_inr_hpp/)| 
@@ -220,7 +220,6 @@
 |![Industrial and Commercial Bank of China](https://static.openfintech.io/payment_methods/industrial_and_commercial_bank_of_china/logo.svg?w=400&c=v0.59.26#w200) |[**Industrial and Commercial Bank of China**](/payment-methods/industrial_and_commercial_bank_of_china/)|[`industrial_and_commercial_bank_of_china_cny_hpp`](industrial_and_commercial_bank_of_china_cny_hpp/)| 
 |![Industrial Bank](https://static.openfintech.io/payment_methods/industrial_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Industrial Bank**](/payment-methods/industrial_bank/)|[`industrial_bank_cny_hpp`](industrial_bank_cny_hpp/)| 
 |![Industrial Bank of Korea](https://static.openfintech.io/payment_methods/industrial_bank_of_korea/logo.svg?w=400&c=v0.59.26#w200) |[**Industrial Bank of Korea**](/payment-methods/industrial_bank_of_korea/)|[`industrial_bank_of_korea_krw_hpp`](industrial_bank_of_korea_krw_hpp/)| 
-|![Industrial Development Bank Of India](https://static.openfintech.io/payment_methods/industrial_development_bank_of_india/logo.svg?w=400&c=v0.59.26#w200) |[**Industrial Development Bank Of India**](/payment-methods/industrial_development_bank_of_india/)|[`industrial_development_bank_of_india_inr_hpp`](industrial_development_bank_of_india_inr_hpp/)| 
 |![ING Bank(Poland)](https://static.openfintech.io/payment_methods/ingpl/logo.svg?w=400&c=v0.59.26#w200) |[**ING Bank(Poland)**](/payment-methods/ingpl/)|[`ingbankpl_pln_hpp`](ingbankpl_pln_hpp/)| 
 |![Interkassa](https://static.openfintech.io/payment_methods/interkassa/logo.svg?w=400&c=v0.59.26#w200) |[**Interkassa**](/payment-methods/interkassa/)|[`interkassa_eur_hpp`](interkassa_eur_hpp/)| 
 |![Interkassa](https://static.openfintech.io/payment_methods/interkassa/logo.svg?w=400&c=v0.59.26#w200) |[**Interkassa**](/payment-methods/interkassa/)|[`interkassa_inr_hpp`](interkassa_inr_hpp/)| 
@@ -236,7 +235,6 @@
 |![JCB](https://static.openfintech.io/payment_methods/jcb/logo.png?w=400&c=v0.59.26#w200) |[**JCB**](/payment-methods/jcb/)|[`jcb_eur_hpp`](jcb_eur_hpp/)| 
 ||| **K** ||
 |![Karnataka Bank](https://static.openfintech.io/payment_methods/karnataka_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Karnataka Bank**](/payment-methods/karnataka_bank/)|[`karnataka_bank_inr_hpp`](karnataka_bank_inr_hpp/)| 
-|![Karnatka Bank Ltd](https://static.openfintech.io/payment_methods/karnatka_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Karnatka Bank Ltd**](/payment-methods/karnatka_bank/)|[`karnatka_bank_inr_hpp`](karnatka_bank_inr_hpp/)| 
 |![Karur Vysya Bank](https://static.openfintech.io/payment_methods/karurvysya_bank_india/logo.svg?w=400&c=v0.59.26#w200) |[**Karur Vysya Bank**](/payment-methods/karurvysya_bank_india/)|[`karurvysya_bank_india_inr_hpp`](karurvysya_bank_india_inr_hpp/)| 
 |![Kasikorn Bank](https://static.openfintech.io/payment_methods/kasikorn_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Kasikorn Bank**](/payment-methods/kasikorn_bank/)|[`kasikorn_bank_thb_hpp`](kasikorn_bank_thb_hpp/)| 
 |![Kookmin Bank](https://static.openfintech.io/payment_methods/kookmin_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Kookmin Bank**](/payment-methods/kookmin_bank/)|[`kookmin_bank_krw_hpp`](kookmin_bank_krw_hpp/)| 
