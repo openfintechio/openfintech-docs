@@ -775,6 +775,8 @@
 |![Netlink](https://static.openfintech.io/payout_methods/netlink/logo.png?w=400&c=v0.59.26#w24) |[**Netlink**](/payout-methods/netlink/)|[`netlink_uah`](netlink_uah/)|`UAH`| 
 |![NetMaster](https://static.openfintech.io/payout_methods/netmaster/logo.png?w=400&c=v0.59.26#w24) |[**NetMaster**](/payout-methods/netmaster/)|[`netmaster_uah`](netmaster_uah/)|`UAH`| 
 |![NeverLands](https://static.openfintech.io/payout_methods/neverlands/logo.png?w=400&c=v0.59.26#w24) |[**NeverLands**](/payout-methods/neverlands/)|[`neverlands_uah`](neverlands_uah/)|`UAH`| 
+|![NixMoney Wallet](https://static.openfintech.io/payout_methods/nixmoney/logo.png?w=400&c=v0.59.26#w24) |[**NixMoney Wallet**](/payout-methods/nixmoney/)|[`nixmoney_eur`](nixmoney_eur/)|`EUR`| 
+|![NixMoney Wallet](https://static.openfintech.io/payout_methods/nixmoney/logo.png?w=400&c=v0.59.26#w24) |[**NixMoney Wallet**](/payout-methods/nixmoney/)|[`nixmoney_usd`](nixmoney_usd/)|`USD`| 
 |![NKTV (Nikolaev)](https://static.openfintech.io/payout_methods/nktv-nikolaev/logo.png?w=400&c=v0.59.26#w24) |[**NKTV (Nikolaev)**](/payout-methods/nktv-nikolaev/)|[`nktv-nikolaev_uah`](nktv-nikolaev_uah/)|`UAH`| 
 |![NKTV (Ochakov)](https://static.openfintech.io/payout_methods/nktv-ochakov/logo.png?w=400&c=v0.59.26#w24) |[**NKTV (Ochakov)**](/payout-methods/nktv-ochakov/)|[`nktv-ochakov_uah`](nktv-ochakov_uah/)|`UAH`| 
 |![Norm 4 - the Internet](https://static.openfintech.io/payout_methods/norma-4-internet/logo.png?w=400&c=v0.59.26#w24) |[**Norm 4 - the Internet**](/payout-methods/norma-4-internet/)|[`norma-4-internet_uah`](norma-4-internet_uah/)|`UAH`| 

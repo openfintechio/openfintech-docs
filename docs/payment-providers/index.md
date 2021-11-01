@@ -387,6 +387,7 @@
 |![nganluong](https://static.openfintech.io/payment_providers/nganluong/logo.png?w=600&c=v0.59.26#w100) |[**Ngan Luong **](nganluong/)|`nganluong`| 
 |![nihaopay](https://static.openfintech.io/payment_providers/nihaopay/logo.png?w=600&c=v0.59.26#w100) |[**NihaoPay**](nihaopay/)|`nihaopay`| 
 |![nium](https://static.openfintech.io/payment_providers/nium/logo.png?w=600&c=v0.59.26#w100) |[**Nium**](nium/)|`nium`| 
+|![nixmoney](https://static.openfintech.io/payment_providers/nixmoney/logo.png?w=600&c=v0.59.26#w100) |[**NixMoney**](nixmoney/)|`nixmoney`| 
 |![nochexltd](https://static.openfintech.io/payment_providers/nochexltd/logo.png?w=600&c=v0.59.26#w100) |[**Nochex**](nochexltd/)|`nochexltd`| 
 |![nordpay](https://static.openfintech.io/payment_providers/nordpay/logo.png?w=600&c=v0.59.26#w100) |[**NORDPAY**](nordpay/)|`nordpay`| 
 |![northpayments](https://static.openfintech.io/payment_providers/northpayments/logo.png?w=600&c=v0.59.26#w100) |[**North Payments**](northpayments/)|`northpayments`| 

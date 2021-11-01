@@ -808,6 +808,7 @@
 |![neverlands](https://static.openfintech.io/payout_methods/neverlands/logo.png?w=400&c=v0.59.26#w24) |[**NeverLands**](neverlands/)|`neverlands`| 
 |![nikopols-ki-mem-tsok-nikopols-kogo-r-nu](https://static.openfintech.io/payout_methods/nikopols-ki-mem-tsok-nikopols-kogo-r-nu/logo.png?w=400&c=v0.59.26#w24) |[**Nikopol MES (CSC Nikopol district)**](nikopols-ki-mem-tsok-nikopols-kogo-r-nu/)|`nikopols-ki-mem-tsok-nikopols-kogo-r-nu`| 
 |![nikopols-kii-rem-tsok-nikopols-kogo-r-nu](https://static.openfintech.io/payout_methods/nikopols-kii-rem-tsok-nikopols-kogo-r-nu/logo.png?w=400&c=v0.59.26#w24) |[**Nikopol RES (Nikopol District CSC)**](nikopols-kii-rem-tsok-nikopols-kogo-r-nu/)|`nikopols-kii-rem-tsok-nikopols-kogo-r-nu`| 
+|![nixmoney](https://static.openfintech.io/payout_methods/nixmoney/logo.png?w=400&c=v0.59.26#w24) |[**NixMoney Wallet**](nixmoney/)|`nixmoney`| 
 |![nktv-nikolaev](https://static.openfintech.io/payout_methods/nktv-nikolaev/logo.png?w=400&c=v0.59.26#w24) |[**NKTV (Nikolaev)**](nktv-nikolaev/)|`nktv-nikolaev`| 
 |![nktv-ochakov](https://static.openfintech.io/payout_methods/nktv-ochakov/logo.png?w=400&c=v0.59.26#w24) |[**NKTV (Ochakov)**](nktv-ochakov/)|`nktv-ochakov`| 
 |![norma-4-internet](https://static.openfintech.io/payout_methods/norma-4-internet/logo.png?w=400&c=v0.59.26#w24) |[**Norm 4 - the Internet**](norma-4-internet/)|`norma-4-internet`| 
