@@ -411,6 +411,7 @@
 |![derzhavna_skarbnicya_ukrayini](https://static.openfintech.io/vendors/derzhavna_skarbnicya_ukrayini/logo.svg?w=600&c=v0.59.26#w200) |[**Державна скарбниця України**](derzhavna_skarbnicya_ukrayini/)|`derzhavna_skarbnicya_ukrayini`| 
 |![derzhkaznachejska_sluzhba_ukrayini_m_kiyiv](https://static.openfintech.io/vendors/derzhkaznachejska_sluzhba_ukrayini_m_kiyiv/logo.svg?w=600&c=v0.59.26#w200) |[**Державна казначейська служба України, м.Київ**](derzhkaznachejska_sluzhba_ukrayini_m_kiyiv/)|`derzhkaznachejska_sluzhba_ukrayini_m_kiyiv`| 
 |![deutschepayment](https://static.openfintech.io/vendors/deutschepayment/logo.png?w=600&c=v0.59.26#w200) |[**Deutsche Payment**](deutschepayment/)|`deutschepayment`| 
+|![dialup](https://static.openfintech.io/vendors/dialup/logo.svg?w=600&c=v0.59.26#w200) |[**Dialup**](dialup/)|`dialup`| 
 |![dialxs](https://static.openfintech.io/vendors/dialxs/logo.png?w=600&c=v0.59.26#w200) |[**DialXS**](dialxs/)|`dialxs`| 
 |![dibspaymentservices](https://static.openfintech.io/vendors/dibspaymentservices/logo.png?w=600&c=v0.59.26#w200) |[**DIBS Payment Services**](dibspaymentservices/)|`dibspaymentservices`| 
 |![digitalriverworldpayments](https://static.openfintech.io/vendors/digitalriverworldpayments/logo.png?w=600&c=v0.59.26#w200) |[**Digital River World Payments**](digitalriverworldpayments/)|`digitalriverworldpayments`| 

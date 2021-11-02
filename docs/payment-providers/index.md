@@ -174,6 +174,7 @@
 |![decta](https://static.openfintech.io/payment_providers/decta/logo.svg?w=600&c=v0.59.26#w100) |[**Decta**](decta/)|`decta`| 
 |![dengionline](https://static.openfintech.io/payment_providers/dengionline/logo.png?w=600&c=v0.59.26#w100) |[**Dengi Online**](dengionline/)|`dengionline`| 
 |![deutschepayment](https://static.openfintech.io/payment_providers/deutschepayment/logo.png?w=600&c=v0.59.26#w100) |[**Deutsche Payment**](deutschepayment/)|`deutschepayment`| 
+|![dialup](https://static.openfintech.io/payment_providers/dialup/logo.svg?w=600&c=v0.59.26#w100) |[**Dialup**](dialup/)|`dialup`| 
 |![dialxs](https://static.openfintech.io/payment_providers/dialxs/logo.png?w=600&c=v0.59.26#w100) |[**DialXS**](dialxs/)|`dialxs`| 
 |![dibspaymentservices](https://static.openfintech.io/payment_providers/dibspaymentservices/logo.png?w=600&c=v0.59.26#w100) |[**DIBS Payment Services**](dibspaymentservices/)|`dibspaymentservices`| 
 |![digitalriverworldpayments](https://static.openfintech.io/payment_providers/digitalriverworldpayments/logo.png?w=600&c=v0.59.26#w100) |[**Digital River World Payments**](digitalriverworldpayments/)|`digitalriverworldpayments`| 
