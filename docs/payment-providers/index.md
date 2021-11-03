@@ -171,6 +171,7 @@
 |![datacash](https://static.openfintech.io/payment_providers/datacash/logo.png?w=600&c=v0.59.26#w100) |[**MasterCard Payment Gateway Services**](datacash/)|`datacash`| 
 |![datatrans](https://static.openfintech.io/payment_providers/datatrans/logo.png?w=600&c=v0.59.26#w100) |[**Datatrans**](datatrans/)|`datatrans`| 
 |![debitway](https://static.openfintech.io/payment_providers/debitway/logo.png?w=600&c=v0.59.26#w100) |[**DebitWay**](debitway/)|`debitway`| 
+|![decard](https://static.openfintech.io/payment_providers/decard/logo.svg?w=600&c=v0.59.26#w100) |[**Decard**](decard/)|`decard`| 
 |![decta](https://static.openfintech.io/payment_providers/decta/logo.svg?w=600&c=v0.59.26#w100) |[**Decta**](decta/)|`decta`| 
 |![dengionline](https://static.openfintech.io/payment_providers/dengionline/logo.png?w=600&c=v0.59.26#w100) |[**Dengi Online**](dengionline/)|`dengionline`| 
 |![deutschepayment](https://static.openfintech.io/payment_providers/deutschepayment/logo.png?w=600&c=v0.59.26#w100) |[**Deutsche Payment**](deutschepayment/)|`deutschepayment`| 

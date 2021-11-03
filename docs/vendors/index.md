@@ -401,6 +401,7 @@
 |![datatrans](https://static.openfintech.io/vendors/datatrans/logo.png?w=600&c=v0.59.26#w200) |[**Datatrans**](datatrans/)|`datatrans`| 
 |![debitobradesco](https://static.openfintech.io/vendors/debitobradesco/logo.png?w=600&c=v0.59.26#w200) |[**Debito Bradesco**](debitobradesco/)|`debitobradesco`| 
 |![debitway](https://static.openfintech.io/vendors/debitway/logo.png?w=600&c=v0.59.26#w200) |[**DebitWay**](debitway/)|`debitway`| 
+|![decard](https://static.openfintech.io/vendors/decard/logo.svg?w=600&c=v0.59.26#w200) |[**Decard**](decard/)|`decard`| 
 |![decta](https://static.openfintech.io/vendors/decta/logo.svg?w=600&c=v0.59.26#w200) |[**Decta**](decta/)|`decta`| 
 |![deltabank](https://static.openfintech.io/vendors/deltabank/logo.svg?w=600&c=v0.59.26#w200) |[**Дельта банк**](deltabank/)|`deltabank`| 
 |![deltabankkazahstan](https://static.openfintech.io/vendors/deltabankkazahstan/logo.svg?w=600&c=v0.59.26#w200) |[**DeltaBank (Казахстан)**](deltabankkazahstan/)|`deltabankkazahstan`| 
