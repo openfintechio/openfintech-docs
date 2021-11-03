@@ -10,7 +10,7 @@
  
 :	[EN] PaySec 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Description:** 
  
@@ -49,7 +49,7 @@ https://static.openfintech.io/vendors/paysec/icon.png?w=278&c=v0.59.26#w100
   "name":{
     "en":"PaySec"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":{
     "en":" PaySec is a young and dynamic company with a team offering vast experience and proven success in the payments industry. The company was founded in 2014 and quickly established crucial relationships with hard-to-reach Asian institutions, particularly in China, Thailand and Indonesia. In order for PaySec to offer the best technology for Merchants, it incorporated a leading technology supplier and as a result now boasts software completely under its control and evolution. These developments have placed PaySec in a position to quickly build on its already considerable success in the PSP market. PaySec is led by a Western management team experienced in bridging the gap for Merchants entering into new Asian markets. "
   },

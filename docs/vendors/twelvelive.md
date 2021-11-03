@@ -10,7 +10,7 @@
  
 :	[EN] Twelve.live 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 
 ## Images 
@@ -39,7 +39,7 @@ https://static.openfintech.io/vendors/twelvelive/icon.svg?w=278&c=v0.59.26#w100
   "name":{
     "en":"Twelve.live"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":null,
   "countries":null,
