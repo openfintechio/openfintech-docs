@@ -18,6 +18,36 @@
  
 **Amount limits:** from `0.01` to `1000000` USD 
 
+## Fields 
+
+### Overview 
+
+|Key|Required|Type|Regexp| 
+|:---:|:---:|:---:|:---:| 
+|`wallet_id`|✔|`string`|`/^.{10,64}$/`| 
+ 
+
+### Details 
+ 
+1. **`wallet_id`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{10,64}$/` 
+ 
+	Required: `1` 
+ 
+	Label:  
+	: [EN] Tether TRC-20 wallet 
+	: [RU] Tether TRC-20 кошелек 
+	: [UK] Tether TRC-20 гаманець 
+ 
+	Hint:  
+	: [EN] Tether TRC-20 wallet 
+	: [RU] Tether TRC-20 кошелек 
+	: [UK] Tether TRC-20 гаманець 
+ 
+
 ## JSON Object 
 
 ```json
@@ -25,7 +55,25 @@
   "code":"tether_trc20_usd",
   "method":"tether",
   "currency":"USD",
-  "fields":null,
+  "fields":[
+    {
+      "key":"wallet_id",
+      "type":"string",
+      "label":{
+        "en":"Tether TRC-20 wallet",
+        "ru":"Tether TRC-20 \u043a\u043e\u0448\u0435\u043b\u0435\u043a",
+        "uk":"Tether TRC-20 \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
+      },
+      "hint":{
+        "en":"Tether TRC-20 wallet",
+        "ru":"Tether TRC-20 \u043a\u043e\u0448\u0435\u043b\u0435\u043a",
+        "uk":"Tether TRC-20 \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
+      },
+      "regexp":"\/^.{10,64}$\/",
+      "required":true,
+      "position":1
+    }
+  ],
   "amount_min":"0.01",
   "amount_max":"1000000"
 }

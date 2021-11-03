@@ -18,6 +18,36 @@
  
 **Amount limits:** from `10` to `21943` USD 
 
+## Fields 
+
+### Overview 
+
+|Key|Required|Type|Regexp| 
+|:---:|:---:|:---:|:---:| 
+|`wallet_id`|✔|`string`|`/^.{10,64}$/`| 
+ 
+
+### Details 
+ 
+1. **`wallet_id`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{10,64}$/` 
+ 
+	Required: `1` 
+ 
+	Label:  
+	: [EN] Tether wallet 
+	: [RU] Tether кошелек 
+	: [UK] Tether гаманець 
+ 
+	Hint:  
+	: [EN] Tether wallet 
+	: [RU] Tether кошелек 
+	: [UK] Tether гаманець 
+ 
+
 ## JSON Object 
 
 ```json
@@ -25,7 +55,25 @@
   "code":"tether_usd",
   "method":"tether",
   "currency":"USD",
-  "fields":null,
+  "fields":[
+    {
+      "key":"wallet_id",
+      "type":"string",
+      "label":{
+        "en":"Tether wallet",
+        "ru":"Tether \u043a\u043e\u0448\u0435\u043b\u0435\u043a",
+        "uk":"Tether \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
+      },
+      "hint":{
+        "en":"Tether wallet",
+        "ru":"Tether \u043a\u043e\u0448\u0435\u043b\u0435\u043a",
+        "uk":"Tether \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
+      },
+      "regexp":"\/^.{10,64}$\/",
+      "required":true,
+      "position":1
+    }
+  ],
   "amount_min":"10",
   "amount_max":"21943"
 }
