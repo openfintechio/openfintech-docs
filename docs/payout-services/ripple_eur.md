@@ -39,12 +39,12 @@
  
 	Label:  
 	: [EN] Ripple wallet 
-	: [RU] Ripple кошелек 
+	: [RU] Ripple кошелёк 
 	: [UK] Ripple гаманець 
  
 	Hint:  
 	: [EN] Enter Ripple wallet 
-	: [RU] Введите Ripple кошелек 
+	: [RU] Введите Ripple кошелёк 
 	: [UK] Введіть Ripple гаманець 
  
 
@@ -61,12 +61,12 @@
       "type":"string",
       "label":{
         "en":"Ripple wallet",
-        "ru":"Ripple \u043a\u043e\u0448\u0435\u043b\u0435\u043a",
+        "ru":"Ripple \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
         "uk":"Ripple \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
       },
       "hint":{
         "en":"Enter Ripple wallet",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Ripple \u043a\u043e\u0448\u0435\u043b\u0435\u043a",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Ripple \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Ripple \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
       },
       "regexp":"\/^[a-zA-Z0-9]{26,33}$\/",

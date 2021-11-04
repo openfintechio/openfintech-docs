@@ -39,12 +39,12 @@
  
 	Label:  
 	: [EN] Ethereum wallet 
-	: [RU] Ethereum кошелек 
+	: [RU] Ethereum кошелёк 
 	: [UK] Ethereum гаманець 
  
 	Hint:  
 	: [EN] Enter Ethereum wallet 
-	: [RU] Введите Ethereum кошелек 
+	: [RU] Введите Ethereum кошелёк 
 	: [UK] Введіть Ethereum гаманець 
  
 
@@ -61,12 +61,12 @@
       "type":"string",
       "label":{
         "en":"Ethereum wallet",
-        "ru":"Ethereum \u043a\u043e\u0448\u0435\u043b\u0435\u043a",
+        "ru":"Ethereum \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
         "uk":"Ethereum \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
       },
       "hint":{
         "en":"Enter Ethereum wallet",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Ethereum \u043a\u043e\u0448\u0435\u043b\u0435\u043a",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Ethereum \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Ethereum \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
       },
       "regexp":"\/^0x[a-fA-F0-9]{40}$\/",

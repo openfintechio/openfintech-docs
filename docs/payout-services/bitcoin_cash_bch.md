@@ -39,12 +39,12 @@
  
 	Label:  
 	: [EN] Bitcoin cash wallet 
-	: [RU] Bitcoin cash кошелек 
+	: [RU] Bitcoin cash кошелёк 
 	: [UK] Bitcoin cash гаманець 
  
 	Hint:  
 	: [EN] Enter Bitcoin cash wallet 
-	: [RU] Введите Bitcoin cash кошелек 
+	: [RU] Введите Bitcoin cash кошелёк 
 	: [UK] Введіть Bitcoin cash гаманець 
  
 
@@ -61,12 +61,12 @@
       "type":"string",
       "label":{
         "en":"Bitcoin cash wallet",
-        "ru":"Bitcoin cash \u043a\u043e\u0448\u0435\u043b\u0435\u043a",
+        "ru":"Bitcoin cash \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
         "uk":"Bitcoin cash \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
       },
       "hint":{
         "en":"Enter Bitcoin cash wallet",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Bitcoin cash \u043a\u043e\u0448\u0435\u043b\u0435\u043a",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Bitcoin cash \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Bitcoin cash \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
       },
       "regexp":"\/^([13][a-km-zA-HJ-NP-Z1-9]{25,34})|^((bitcoincash|bchreg|bchtest):)?(q|p)[a-z0-9]{41}|^((BITCOINCASH|BCHREG|BCHTEST):)?(Q|P)[a-zA-Z0-9]{41}$\/",

@@ -39,12 +39,12 @@
  
 	Label:  
 	: [EN] Tether wallet 
-	: [RU] Tether кошелек 
+	: [RU] Tether кошелёк 
 	: [UK] Tether гаманець 
  
 	Hint:  
 	: [EN] Tether wallet 
-	: [RU] Tether кошелек 
+	: [RU] Tether кошелёк 
 	: [UK] Tether гаманець 
  
 
@@ -61,17 +61,18 @@
       "type":"string",
       "label":{
         "en":"Tether wallet",
-        "ru":"Tether \u043a\u043e\u0448\u0435\u043b\u0435\u043a",
+        "ru":"Tether \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
         "uk":"Tether \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
       },
       "hint":{
         "en":"Tether wallet",
-        "ru":"Tether \u043a\u043e\u0448\u0435\u043b\u0435\u043a",
+        "ru":"Tether \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
         "uk":"Tether \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
       },
       "regexp":"\/^.{10,64}$\/",
       "required":true,
-      "position":1
+      "position":1,
+      "example":"0x501906Ce564be7bA80Eb55A29EE31ECfaE41b6f2"
     }
   ],
   "amount_min":"10",

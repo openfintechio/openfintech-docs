@@ -39,12 +39,12 @@
  
 	Label:  
 	: [EN] Litecoin wallet 
-	: [RU] Litecoin кошелек 
+	: [RU] Litecoin кошелёк 
 	: [UK] Litecoin гаманець 
  
 	Hint:  
 	: [EN] Enter Litecoin wallet 
-	: [RU] Введите Litecoin кошелек 
+	: [RU] Введите Litecoin кошелёк 
 	: [UK] Введіть Litecoin гаманець 
  
 
@@ -61,12 +61,12 @@
       "type":"string",
       "label":{
         "en":"Litecoin wallet",
-        "ru":"Litecoin \u043a\u043e\u0448\u0435\u043b\u0435\u043a",
+        "ru":"Litecoin \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
         "uk":"Litecoin \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
       },
       "hint":{
         "en":"Enter Litecoin wallet",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Litecoin \u043a\u043e\u0448\u0435\u043b\u0435\u043a",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Litecoin \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Litecoin \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
       },
       "regexp":"\/^\\+\\d{1,15}$\/",
