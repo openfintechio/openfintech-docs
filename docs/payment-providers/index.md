@@ -655,6 +655,7 @@
 |![ukrgasbank](https://static.openfintech.io/payment_providers/ukrgasbank/logo.png?w=600&c=v0.59.26#w100) |[**UkrGasBank**](ukrgasbank/)|`ukrgasbank`| 
 |![uniteller](https://static.openfintech.io/payment_providers/uniteller/logo.png?w=600&c=v0.59.26#w100) |[**Uniteller**](uniteller/)|`uniteller`| 
 |![universepay](https://static.openfintech.io/payment_providers/universepay/logo.png?w=600&c=v0.59.26#w100) |[**UniversePay**](universepay/)|`universepay`| 
+|![unlimco](https://static.openfintech.io/payment_providers/unlimco/logo.svg?w=600&c=v0.59.26#w100) |[**Unlimco**](unlimco/)|`unlimco`| 
 |![upclick](https://static.openfintech.io/payment_providers/upclick/logo.png?w=600&c=v0.59.26#w100) |[**Upclick**](upclick/)|`upclick`| 
 |![usaepay](https://static.openfintech.io/payment_providers/usaepay/logo.png?w=600&c=v0.59.26#w100) |[**USAePay**](usaepay/)|`usaepay`| 
 || **V** ||
