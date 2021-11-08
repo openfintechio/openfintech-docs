@@ -1286,7 +1286,7 @@
 |![pivotalpayments](https://static.openfintech.io/vendors/pivotalpayments/logo.png?w=600&c=v0.59.26#w200) |[**Pivotal Payments**](pivotalpayments/)|`pivotalpayments`| 
 |![planetpayment](https://static.openfintech.io/vendors/planetpayment/logo.png?w=600&c=v0.59.26#w200) |[**Planet Payment**](planetpayment/)|`planetpayment`| 
 |![platiwm.biz](https://static.openfintech.io/vendors/platiwm.biz/logo.svg?w=600&c=v0.59.26#w200) |[**ПлатиWM**](platiwm.biz/)|`platiwm.biz`| 
-|![platon](https://static.openfintech.io/vendors/platon/logo.png?w=600&c=v0.59.26#w200) |[**Platon**](platon/)|`platon`| 
+|![platon](https://static.openfintech.io/vendors/platon/logo.svg?w=600&c=v0.59.26#w200) |[**Platon**](platon/)|`platon`| 
 |![platron](https://static.openfintech.io/vendors/platron/logo.png?w=600&c=v0.59.26#w200) |[**Platron**](platron/)|`platron`| 
 |![plyusbank](https://static.openfintech.io/vendors/plyusbank/logo.svg?w=600&c=v0.59.26#w200) |[**Плюс банк**](plyusbank/)|`plyusbank`| 
 |![pm-obmen.tv](https://static.openfintech.io/vendors/pm-obmen.tv/logo.svg?w=600&c=v0.59.26#w200) |[**PM-Obmen**](pm-obmen.tv/)|`pm-obmen.tv`| 
