@@ -25,11 +25,11 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`payer_first_name`|✔|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
-|`payer_last_name`|✔|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
-|`payer_address`|✔|`string`|`/^[a-zA-Z0-9 \/_.,'-]{1,200}$/`| 
+|`payer_first_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
+|`payer_last_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
+|`payer_address`|✗|`string`|`/^[a-zA-Z0-9 \/_.,'-]{1,200}$/`| 
 |`payer_country`|✗|`string`|`/^[a-zA-Z\-]{1,20}$/`| 
-|`payer_city`|✔|`string`|`/^[a-zA-Z\-\s]{1,20}$/`| 
+|`payer_city`|✗|`string`|`/^[a-zA-Z\-\s]{1,20}$/`| 
 |`payer_state`|✗|`string`|`/^[a-zA-Z\-\s]{1,20}$/`| 
 |`payer_zip_code`|✗|`string`|`/^[0-9\-\s]{1,20}$/`| 
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
@@ -43,7 +43,7 @@
  
 	Regexp: `/^[A-Z\-\sa-z]{2,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Payer first name 
@@ -61,7 +61,7 @@
  
 	Regexp: `/^[A-Z\-\sa-z]{2,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Payer last name 
@@ -79,7 +79,7 @@
  
 	Regexp: `/^[a-zA-Z0-9 \/_.,'-]{1,200}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Payer address 
@@ -115,7 +115,7 @@
  
 	Regexp: `/^[a-zA-Z\-\s]{1,20}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Payer city 
@@ -195,7 +195,7 @@
       "key":"payer_first_name",
       "type":"string",
       "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
-      "required":true,
+      "required":false,
       "position":1,
       "label":{
         "en":"Payer first name",
@@ -213,7 +213,7 @@
       "key":"payer_last_name",
       "type":"string",
       "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
-      "required":true,
+      "required":false,
       "position":2,
       "label":{
         "en":"Payer last name",
@@ -231,7 +231,7 @@
       "key":"payer_address",
       "type":"string",
       "regexp":"\/^[a-zA-Z0-9 \\\/_.,'-]{1,200}$\/",
-      "required":true,
+      "required":false,
       "position":3,
       "label":{
         "en":"Payer address",
@@ -266,7 +266,7 @@
       "key":"payer_city",
       "type":"string",
       "regexp":"\/^[a-zA-Z\\-\\s]{1,20}$\/",
-      "required":true,
+      "required":false,
       "position":5,
       "label":{
         "en":"Payer city",
