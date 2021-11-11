@@ -132,6 +132,7 @@
 |![bi-net-boguslav](https://static.openfintech.io/payout_methods/bi-net-boguslav/logo.svg?w=400&c=v0.59.26#w24) |[**Bi.Net (Богуслав)**](bi-net-boguslav/)|`bi-net-boguslav`| 
 |![bidv_bank](https://static.openfintech.io/payout_methods/bidv_bank/logo.svg?w=400&c=v0.59.26#w24) |[**BIDV Bank**](bidv_bank/)|`bidv_bank`| 
 |![bilotserkovteplomerezha](https://static.openfintech.io/payout_methods/bilotserkovteplomerezha/logo.png?w=400&c=v0.59.26#w24) |[**Bilotserkovteplomerezha**](bilotserkovteplomerezha/)|`bilotserkovteplomerezha`| 
+|![binance_coin](https://static.openfintech.io/payout_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w24) |[**Binance coin**](binance_coin/)|`binance_coin`| 
 |![bisnet-odesskaia-oblast](https://static.openfintech.io/payout_methods/bisnet-odesskaia-oblast/logo.png?w=400&c=v0.59.26#w24) |[**BISNET (Odessa region)**](bisnet-odesskaia-oblast/)|`bisnet-odesskaia-oblast`| 
 |![bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](bitcoin/)|`bitcoin`| 
 |![bitcoin_cash](https://static.openfintech.io/payout_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w24) |[**Bitcoin cash**](bitcoin_cash/)|`bitcoin_cash`| 
@@ -249,6 +250,7 @@
 |![dobovo-com](https://static.openfintech.io/payout_methods/dobovo-com/logo.png?w=400&c=v0.59.26#w24) |[**dobovo.com**](dobovo-com/)|`dobovo-com`| 
 |![dobropolskii-res](https://static.openfintech.io/payout_methods/dobropolskii-res/logo.png?w=400&c=v0.59.26#w24) |[**Dobropolsky RES**](dobropolskii-res/)|`dobropolskii-res`| 
 |![dobropolskoe-puvkkh-voda-donbassa](https://static.openfintech.io/payout_methods/dobropolskoe-puvkkh-voda-donbassa/logo.png?w=400&c=v0.59.26#w24) |[**Dobropolskoe PUVKH (water of Donbass)**](dobropolskoe-puvkkh-voda-donbassa/)|`dobropolskoe-puvkkh-voda-donbassa`| 
+|![dogecoin](https://static.openfintech.io/payout_methods/dogecoin/logo.svg?w=400&c=v0.59.26#w24) |[**Dogecoin**](dogecoin/)|`dogecoin`| 
 |![dom-ria](https://static.openfintech.io/payout_methods/dom-ria/logo.png?w=400&c=v0.59.26#w24) |[**DOM.RIA**](dom-ria/)|`dom-ria`| 
 |![domashniaia-set-kiev](https://static.openfintech.io/payout_methods/domashniaia-set-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Home Network (Kiev)**](domashniaia-set-kiev/)|`domashniaia-set-kiev`| 
 |![domashnii-telekom-internet](https://static.openfintech.io/payout_methods/domashnii-telekom-internet/logo.png?w=400&c=v0.59.26#w24) |[**Home Telecom - Internet**](domashnii-telekom-internet/)|`domashnii-telekom-internet`| 

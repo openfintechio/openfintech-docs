@@ -259,14 +259,16 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![ikajo](https://static.openfintech.io/payment_providers/ikajo/icon.svg?w=278&c=v0.59.26#w100) |[Ikajo](/payment-providers/ikajo/)|`ikajo`| 
 |![getapay](https://static.openfintech.io/payment_providers/getapay/icon.svg?w=278&c=v0.59.26#w100) |[GetaPay](/payment-providers/getapay/)|`getapay`| 
 |![moneypay](https://static.openfintech.io/payment_providers/moneypay/icon.png?w=278&c=v0.59.26#w100) |[MoneyPay](/payment-providers/moneypay/)|`moneypay`| 
-|![changcoinspay](https://static.openfintech.io/payment_providers/changcoinspay/icon.png?w=278&c=v0.59.26#w100) |[ChangcoinsPay](/payment-providers/changcoinspay/)|`changcoinspay`| 
+|![changecoins](https://static.openfintech.io/payment_providers/changecoins/icon.png?w=278&c=v0.59.26#w100) |[ChangeCoins](/payment-providers/changecoins/)|`changecoins`| 
 |![volt](https://static.openfintech.io/payment_providers/volt/icon.svg?w=278&c=v0.59.26#w100) |[VOLT](/payment-providers/volt/)|`volt`| 
 |![pmsolutions](https://static.openfintech.io/payment_providers/pmsolutions/icon.png?w=278&c=v0.59.26#w100) |[PMSolutions](/payment-providers/pmsolutions/)|`pmsolutions`| 
+|![reel](https://static.openfintech.io/payment_providers/reel/icon.png?w=278&c=v0.59.26#w100) |[REEL](/payment-providers/reel/)|`reel`| 
 |![opay](https://static.openfintech.io/payment_providers/opay/icon.svg?w=278&c=v0.59.26#w100) |[OPay](/payment-providers/opay/)|`opay`| 
 |![whitebit](https://static.openfintech.io/payment_providers/whitebit/icon.svg?w=278&c=v0.59.26#w100) |[WhiteBIT](/payment-providers/whitebit/)|`whitebit`| 
 |![emerald24](https://static.openfintech.io/payment_providers/emerald24/icon.svg?w=278&c=v0.59.26#w100) |[Emerald24](/payment-providers/emerald24/)|`emerald24`| 
 |![decard](https://static.openfintech.io/payment_providers/decard/icon.svg?w=278&c=v0.59.26#w100) |[Decard](/payment-providers/decard/)|`decard`| 
 |![unlimco](https://static.openfintech.io/payment_providers/unlimco/icon.svg?w=278&c=v0.59.26#w100) |[Unlimco](/payment-providers/unlimco/)|`unlimco`| 
+|![constantpos](https://static.openfintech.io/payment_providers/constantpos/icon.svg?w=278&c=v0.59.26#w100) |[Constantpos](/payment-providers/constantpos/)|`constantpos`| 
  
 
 ## JSON Object 

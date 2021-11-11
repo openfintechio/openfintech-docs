@@ -1,5 +1,5 @@
 
-# Binance Coin 
+# Binance coin 
 ![binance_coin](https://static.openfintech.io/payment_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -9,9 +9,9 @@
  
 **Name:** 
  
-:	[EN] Binance Coin 
-:	[RU] Binance Coin 
-:	[UK] Binance Coin 
+:	[EN] Binance coin 
+:	[RU] Binance coin 
+:	[UK] Binance coin 
  
 **Category:** `alternative` 
  
@@ -32,18 +32,18 @@ https://static.openfintech.io/payment_methods/binance_coin/logo.svg?w=400&c=v0.5
 https://static.openfintech.io/payment_methods/binance_coin/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payment Services 
+## Payout Services 
  
-The list of [Payment Services](/payment-services/) based on the _Binance Coin_ 
+The list of [Payout Services](/payout-services/) based on the _Binance coin_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![binance_coin](https://static.openfintech.io/payment_methods/binance_coin/icon.svg?w=278&c=v0.59.26#w100) |[binance_coin_bnb_hpp](/payment-services/binance_coin_bnb_hpp/)|`binance_coin_bnb_hpp`| 
+|![binance_coin](https://static.openfintech.io/payout_methods/binance_coin/icon.svg?w=278&c=v0.59.26#w40) |[binance_coin_bnb](/payout-services/binance_coin_bnb/)|`binance_coin_bnb`| 
  
 
 ## Payment Providers 
  
-The list of [Payment Providers](/payment-providers/) that support the _Binance Coin_ 
+The list of [Payment Providers](/payment-providers/) that support the _Binance coin_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -57,9 +57,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Binance C
   "code":"binance_coin",
   "vendor":"binance_coin",
   "name":{
-    "en":"Binance Coin",
-    "ru":"Binance Coin",
-    "uk":"Binance Coin"
+    "en":"Binance coin",
+    "ru":"Binance coin",
+    "uk":"Binance coin"
   },
   "description":null,
   "countries":null,

@@ -29,6 +29,7 @@
 |`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/`| 
 |`beneficiary_phone`|✗|`string`|`/^\+91\d{10}$/`| 
 |`beneficiary_address`|✗|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
+|`ifsc_bank_code`|✗|`string`|`/^[A-Za-z0-9]{1,11}$/`| 
  
 
 ### Details 
@@ -122,6 +123,24 @@
 	: [EN] Enter Address 
 	: [RU] Введите адресс 
 	: [UK] Введіть адресу 
+ 
+6. **`ifsc_bank_code`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z0-9]{1,11}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] IFSC Bank Code 
+	: [RU] IFSC Код банка 
+	: [UK] IFSC Код банку 
+ 
+	Hint:  
+	: [EN] Enter IFSC Bank Code 
+	: [RU] Введите IFSC код банка 
+	: [UK] Введіть IFSC код банку 
  
 
 ## JSON Object 
@@ -217,6 +236,23 @@
       "regexp":"\/^(\\w|\\.| |\\-|\\+|@){1,128}$\/",
       "required":false,
       "position":5
+    },
+    {
+      "key":"ifsc_bank_code",
+      "type":"string",
+      "label":{
+        "en":"IFSC Bank Code",
+        "ru":"IFSC \u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
+        "uk":"IFSC \u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter IFSC Bank Code",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 IFSC \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c IFSC \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443"
+      },
+      "regexp":"\/^[A-Za-z0-9]{1,11}$\/",
+      "required":false,
+      "position":6
     }
   ],
   "amount_min":0.01,

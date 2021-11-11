@@ -146,6 +146,7 @@
 |![Bi.Net](https://static.openfintech.io/payout_methods/bi-net/logo.png?w=400&c=v0.59.26#w24) |[**Bi.Net**](/payout-methods/bi-net/)|[`bi-net_uah`](bi-net_uah/)|`UAH`| 
 |![BIDV Bank](https://static.openfintech.io/payout_methods/bidv_bank/logo.svg?w=400&c=v0.59.26#w24) |[**BIDV Bank**](/payout-methods/bidv_bank/)|[`bidv_bank_vnd`](bidv_bank_vnd/)|`VND`| 
 |![Bilotserkovteplomerezha](https://static.openfintech.io/payout_methods/bilotserkovteplomerezha/logo.png?w=400&c=v0.59.26#w24) |[**Bilotserkovteplomerezha**](/payout-methods/bilotserkovteplomerezha/)|[`bilotserkovteplomerezha_uah`](bilotserkovteplomerezha_uah/)|`UAH`| 
+|![Binance coin](https://static.openfintech.io/payout_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w24) |[**Binance coin**](/payout-methods/binance_coin/)|[`binance_coin_bnb`](binance_coin_bnb/)|`BNB`| 
 |![BISNET (Odessa region)](https://static.openfintech.io/payout_methods/bisnet-odesskaia-oblast/logo.png?w=400&c=v0.59.26#w24) |[**BISNET (Odessa region)**](/payout-methods/bisnet-odesskaia-oblast/)|[`bisnet-odesskaia-oblast_uah`](bisnet-odesskaia-oblast_uah/)|`UAH`| 
 |![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_btc`](bitcoin_btc/)|`BTC`| 
 |![Bitcoin cash](https://static.openfintech.io/payout_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w24) |[**Bitcoin cash**](/payout-methods/bitcoin_cash/)|[`bitcoin_cash_bch`](bitcoin_cash_bch/)|`BCH`| 
@@ -266,6 +267,7 @@
 |![Dneprvodokanal](https://static.openfintech.io/payout_methods/dneprvodokanal/logo.png?w=400&c=v0.59.26#w24) |[**Dneprvodokanal**](/payout-methods/dneprvodokanal/)|[`dneprvodokanal_uah`](dneprvodokanal_uah/)|`UAH`| 
 |![dobovo.com](https://static.openfintech.io/payout_methods/dobovo-com/logo.png?w=400&c=v0.59.26#w24) |[**dobovo.com**](/payout-methods/dobovo-com/)|[`dobovo-com_uah`](dobovo-com_uah/)|`UAH`| 
 |![Dobropolskoe PUVKH (water of Donbass)](https://static.openfintech.io/payout_methods/dobropolskoe-puvkkh-voda-donbassa/logo.png?w=400&c=v0.59.26#w24) |[**Dobropolskoe PUVKH (water of Donbass)**](/payout-methods/dobropolskoe-puvkkh-voda-donbassa/)|[`dobropolskoe-puvkkh-voda-donbassa_uah`](dobropolskoe-puvkkh-voda-donbassa_uah/)|`UAH`| 
+|![Dogecoin](https://static.openfintech.io/payout_methods/dogecoin/logo.svg?w=400&c=v0.59.26#w24) |[**Dogecoin**](/payout-methods/dogecoin/)|[`dogecoin_doge`](dogecoin_doge/)|`DOGE`| 
 |![DOM.RIA](https://static.openfintech.io/payout_methods/dom-ria/logo.png?w=400&c=v0.59.26#w24) |[**DOM.RIA**](/payout-methods/dom-ria/)|[`dom-ria_uah`](dom-ria_uah/)|`UAH`| 
 |![Home Network (Kiev)](https://static.openfintech.io/payout_methods/domashniaia-set-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Home Network (Kiev)**](/payout-methods/domashniaia-set-kiev/)|[`domashniaia-set-kiev_uah`](domashniaia-set-kiev_uah/)|`UAH`| 
 |![Home Telecom - Internet](https://static.openfintech.io/payout_methods/domashnii-telekom-internet/logo.png?w=400&c=v0.59.26#w24) |[**Home Telecom - Internet**](/payout-methods/domashnii-telekom-internet/)|[`domashnii-telekom-internet_uah`](domashnii-telekom-internet_uah/)|`UAH`| 
@@ -1596,9 +1598,11 @@
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_erc20_eur`](tether_erc20_eur/)|`EUR`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_erc20_uah`](tether_erc20_uah/)|`UAH`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_erc20_usd`](tether_erc20_usd/)|`USD`| 
+|![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_erc20_usdt`](tether_erc20_usdt/)|`USDT`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_trc20_eur`](tether_trc20_eur/)|`EUR`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_trc20_uah`](tether_trc20_uah/)|`UAH`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_trc20_usd`](tether_trc20_usd/)|`USD`| 
+|![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_trc20_usdt`](tether_trc20_usdt/)|`USDT`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_usd`](tether_usd/)|`USD`| 
 |![TezTelecom for agencies](https://static.openfintech.io/payout_methods/teztelecom-dlia-agenstv/logo.png?w=400&c=v0.59.26#w24) |[**TezTelecom for agencies**](/payout-methods/teztelecom-dlia-agenstv/)|[`teztelecom-dlia-agenstv_uah`](teztelecom-dlia-agenstv_uah/)|`UAH`| 
 |![TezTelecom for tourists](https://static.openfintech.io/payout_methods/teztelecom-dlia-turistov/logo.png?w=400&c=v0.59.26#w24) |[**TezTelecom for tourists**](/payout-methods/teztelecom-dlia-turistov/)|[`teztelecom-dlia-turistov_uah`](teztelecom-dlia-turistov_uah/)|`UAH`| 

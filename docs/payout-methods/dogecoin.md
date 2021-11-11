@@ -32,13 +32,13 @@ https://static.openfintech.io/payment_methods/dogecoin/logo.svg?w=400&c=v0.59.26
 https://static.openfintech.io/payment_methods/dogecoin/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payment Services 
+## Payout Services 
  
-The list of [Payment Services](/payment-services/) based on the _Dogecoin_ 
+The list of [Payout Services](/payout-services/) based on the _Dogecoin_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![dogecoin](https://static.openfintech.io/payment_methods/dogecoin/icon.svg?w=278&c=v0.59.26#w100) |[dogecoin_doge_hpp](/payment-services/dogecoin_doge_hpp/)|`dogecoin_doge_hpp`| 
+|![dogecoin](https://static.openfintech.io/payout_methods/dogecoin/icon.svg?w=278&c=v0.59.26#w40) |[dogecoin_doge](/payout-services/dogecoin_doge/)|`dogecoin_doge`| 
  
 
 ## Payment Providers 

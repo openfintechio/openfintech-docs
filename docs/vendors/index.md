@@ -236,6 +236,7 @@
 |![billpro](https://static.openfintech.io/vendors/billpro/logo.png?w=600&c=v0.59.26#w200) |[**BILLPRO.com**](billpro/)|`billpro`| 
 |![billsafe](https://static.openfintech.io/vendors/billsafe/logo.png?w=600&c=v0.59.26#w200) |[**BillSAFE**](billsafe/)|`billsafe`| 
 |![billtomobile](https://static.openfintech.io/vendors/billtomobile/logo.png?w=600&c=v0.59.26#w200) |[**BilltoMobile**](billtomobile/)|`billtomobile`| 
+|![binance_coin](https://static.openfintech.io/vendors/binance_coin/logo.svg?w=600&c=v0.59.26#w200) |[**Binance coin**](binance_coin/)|`binance_coin`| 
 |![binbank](https://static.openfintech.io/vendors/binbank/logo.svg?w=600&c=v0.59.26#w200) |[**БИНБАНК**](binbank/)|`binbank`| 
 |![bips](https://static.openfintech.io/vendors/bips/logo.png?w=600&c=v0.59.26#w200) |[**BIPS**](bips/)|`bips`| 
 |![bit-changer.net](https://static.openfintech.io/vendors/bit-changer.net/logo.svg?w=600&c=v0.59.26#w200) |[**Bit-Changer**](bit-changer.net/)|`bit-changer.net`| 
@@ -325,8 +326,8 @@
 |![ceskasporitelna](https://static.openfintech.io/vendors/ceskasporitelna/logo.png?w=600&c=v0.59.26#w200) |[**Ceská Sporitelna**](ceskasporitelna/)|`ceskasporitelna`| 
 |![cesnabank](https://static.openfintech.io/vendors/cesnabank/logo.svg?w=600&c=v0.59.26#w200) |[**Цеснабанк**](cesnabank/)|`cesnabank`| 
 |![cgold](https://static.openfintech.io/vendors/cgold/logo.svg?w=600&c=v0.59.26#w200) |[**C-Gold**](cgold/)|`cgold`| 
-|![changcoinspay](https://static.openfintech.io/vendors/changcoinspay/logo.png?w=600&c=v0.59.26#w200) |[**ChangcoinsPay**](changcoinspay/)|`changcoinspay`| 
 |![change.am](https://static.openfintech.io/vendors/change.am/logo.svg?w=600&c=v0.59.26#w200) |[**Change.am**](change.am/)|`change.am`| 
+|![changecoins](https://static.openfintech.io/vendors/changecoins/logo.png?w=600&c=v0.59.26#w200) |[**ChangeCoins**](changecoins/)|`changecoins`| 
 |![changeinfo.com](https://static.openfintech.io/vendors/changeinfo.com/logo.svg?w=600&c=v0.59.26#w200) |[**ChangeInfo**](changeinfo.com/)|`changeinfo.com`| 
 |![changer.club](https://static.openfintech.io/vendors/changer.club/logo.svg?w=600&c=v0.59.26#w200) |[**changer.club**](changer.club/)|`changer.club`| 
 |![changer4u](https://static.openfintech.io/vendors/changer4u/logo.svg?w=600&c=v0.59.26#w200) |[**Changer4u**](changer4u/)|`changer4u`| 
@@ -373,6 +374,7 @@
 |![concordbank](https://static.openfintech.io/vendors/concordbank/logo.svg?w=600&c=v0.59.26#w200) |[**Concord Bank**](concordbank/)|`concordbank`| 
 |![concordpay](https://static.openfintech.io/vendors/concordpay/logo.svg?w=600&c=v0.59.26#w200) |[**Concord Pay**](concordpay/)|`concordpay`| 
 |![connectum](https://static.openfintech.io/vendors/connectum/logo.svg?w=600&c=v0.59.26#w200) |[**Connectum**](connectum/)|`connectum`| 
+|![constantpos](https://static.openfintech.io/vendors/constantpos/logo.svg?w=600&c=v0.59.26#w200) |[**Constantpos**](constantpos/)|`constantpos`| 
 |![conversebank](https://static.openfintech.io/vendors/conversebank/logo.svg?w=600&c=v0.59.26#w200) |[**Converse Bank**](conversebank/)|`conversebank`| 
 |![corvuspay](https://static.openfintech.io/vendors/corvuspay/logo.png?w=600&c=v0.59.26#w200) |[**CorvusPay**](corvuspay/)|`corvuspay`| 
 |![creditagricole](https://static.openfintech.io/vendors/creditagricole/logo.png?w=600&c=v0.59.26#w200) |[**Crédit Agricole**](creditagricole/)|`creditagricole`| 
@@ -429,6 +431,7 @@
 |![dniprop_ska_oblasna_filiya_prat_ufg](https://static.openfintech.io/vendors/dniprop_ska_oblasna_filiya_prat_ufg/logo.svg?w=600&c=v0.59.26#w200) |[**Дніпропетровська обласна філія ПрАТ 'Українська фінансова група'**](dniprop_ska_oblasna_filiya_prat_ufg/)|`dniprop_ska_oblasna_filiya_prat_ufg`| 
 |![docdatapayments](https://static.openfintech.io/vendors/docdatapayments/logo.png?w=600&c=v0.59.26#w200) |[**docdata payments**](docdatapayments/)|`docdatapayments`| 
 |![dodatrajffajzenbankavalm_dnipr_sk](https://static.openfintech.io/vendors/dodatrajffajzenbankavalm_dnipr_sk/logo.svg?w=600&c=v0.59.26#w200) |[**Дніпропетровська обласна дирекція Публічного акціонерного товариства 'Райффайзен Банк Аваль'**](dodatrajffajzenbankavalm_dnipr_sk/)|`dodatrajffajzenbankavalm_dnipr_sk`| 
+|![dogecoin](https://static.openfintech.io/vendors/dogecoin/logo.svg?w=600&c=v0.59.26#w200) |[**Dogecoin**](dogecoin/)|`dogecoin`| 
 |![doku](https://static.openfintech.io/vendors/doku/logo.png?w=600&c=v0.59.26#w200) |[**DOKU**](doku/)|`doku`| 
 |![dokuwallet](https://static.openfintech.io/vendors/dokuwallet/logo.png?w=600&c=v0.59.26#w200) |[**DOKU Wallet**](dokuwallet/)|`dokuwallet`| 
 |![domashniedengi](https://static.openfintech.io/vendors/domashniedengi/logo.svg?w=600&c=v0.59.26#w200) |[**Домашние деньги**](domashniedengi/)|`domashniedengi`| 
