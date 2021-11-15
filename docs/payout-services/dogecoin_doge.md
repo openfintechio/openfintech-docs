@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`wallet_id`|✔|`string`|`/^.{10,64}$//`| 
+|`wallet_id`|✔|`string`|`/^.{10,64}$/`| 
  
 
 ### Details 
@@ -33,7 +33,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^.{10,64}$//` 
+	Regexp: `/^.{10,64}$/` 
  
 	Required: `1` 
  
@@ -69,7 +69,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Dogecoin \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Dogecoin \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
       },
-      "regexp":"\/^.{10,64}$\/\/",
+      "regexp":"\/^.{10,64}$\/",
       "required":true,
       "position":1
     }
