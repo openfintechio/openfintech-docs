@@ -717,6 +717,7 @@
 |![VUV](https://static.openfintech.io/currencies/VUV/icon.svg?w=278&c=v0.59.26#w100) |[**Vatu**](VUV/)|`VUV`| 
 |![VZRDBRUB](https://static.openfintech.io/currencies/VZRDBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**VZRDBRUB**](VZRDBRUB/)|`VZRDBRUB`| 
 || **W** ||
+|![WAVES](https://static.openfintech.io/currencies/WAVES/icon.svg?w=278&c=v0.59.26#w100) |[**WAVES**](WAVES/)|`WAVES`| 
 |![WCEUR](https://static.openfintech.io/currencies/WCEUR/icon.svg?w=278&c=v0.59.26#w100) |[**WCEUR**](WCEUR/)|`WCEUR`| 
 |![WCRUB](https://static.openfintech.io/currencies/WCRUB/icon.svg?w=278&c=v0.59.26#w100) |[**WCRUB**](WCRUB/)|`WCRUB`| 
 |![WCTCNY](https://static.openfintech.io/currencies/WCTCNY/icon.svg?w=278&c=v0.59.26#w100) |[**WCTCNY**](WCTCNY/)|`WCTCNY`| 

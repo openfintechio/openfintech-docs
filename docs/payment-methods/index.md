@@ -160,6 +160,7 @@
 |![erip](https://static.openfintech.io/payment_methods/erip/logo.png?w=400&c=v0.59.26#w200) |[**Erip**](erip/)|`erip`| 
 |![erstebank](https://static.openfintech.io/payment_methods/erstebank/logo.png?w=400&c=v0.59.26#w200) |[**Erste Bank**](erstebank/)|`erstebank`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](ethereum/)|`ethereum`| 
+|![ethereum_classic](https://static.openfintech.io/payment_methods/ethereum_classic/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum Classic**](ethereum_classic/)|`ethereum_classic`| 
 |![euroset](https://static.openfintech.io/payment_methods/euroset/logo.png?w=400&c=v0.59.26#w200) |[**Euroset**](euroset/)|`euroset`| 
 |![euteller](https://static.openfintech.io/payment_methods/euteller/logo.png?w=400&c=v0.59.26#w200) |[**Euteller**](euteller/)|`euteller`| 
 |![everi](https://static.openfintech.io/payment_methods/everi/logo.png?w=400&c=v0.59.26#w200) |[**Everi**](everi/)|`everi`| 
@@ -472,6 +473,7 @@
 |![vvvgiftcard](https://static.openfintech.io/payment_methods/vvvgiftcard/logo.png?w=400&c=v0.59.26#w200) |[**VVV Giftcard**](vvvgiftcard/)|`vvvgiftcard`| 
 || **W** ||
 |![walletone](https://static.openfintech.io/payment_methods/walletone/logo.png?w=400&c=v0.59.26#w200) |[**WalletOne**](walletone/)|`walletone`| 
+|![waves](https://static.openfintech.io/payment_methods/waves/logo.svg?w=400&c=v0.59.26#w200) |[**Waves**](waves/)|`waves`| 
 |![webmoneytransfer](https://static.openfintech.io/payment_methods/webmoneytransfer/logo.svg?w=400&c=v0.59.26#w200) |[**WebMoney Transfer**](webmoneytransfer/)|`webmoneytransfer`| 
 |![webpayplus](https://static.openfintech.io/payment_methods/webpayplus/logo.svg?w=400&c=v0.59.26#w200) |[**Webpay plus**](webpayplus/)|`webpayplus`| 
 |![wechat](https://static.openfintech.io/payment_methods/wechat/logo.svg?w=400&c=v0.59.26#w200) |[**Wechat**](wechat/)|`wechat`| 

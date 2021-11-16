@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Ethereum_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_eth_invoice](/payment-services/ethereum_eth_invoice/)|`ethereum_eth_invoice`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_eth_hpp](/payment-services/ethereum_eth_hpp/)|`ethereum_eth_hpp`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_btc_hpp](/payment-services/ethereum_btc_hpp/)|`ethereum_btc_hpp`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_bch_hpp](/payment-services/ethereum_bch_hpp/)|`ethereum_bch_hpp`| 

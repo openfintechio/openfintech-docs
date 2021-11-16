@@ -177,7 +177,9 @@
 |![eps e-payment](https://static.openfintech.io/payment_methods/eps/logo.png?w=400&c=v0.59.26#w200) |[**eps e-payment**](/payment-methods/eps/)|[`eps_eur_hpp`](eps_eur_hpp/)| 
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_bch_hpp`](ethereum_bch_hpp/)| 
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_btc_hpp`](ethereum_btc_hpp/)| 
+|![Ethereum Classic](https://static.openfintech.io/payment_methods/ethereum_classic/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum Classic**](/payment-methods/ethereum_classic/)|[`ethereum_classic_etc_invoice`](ethereum_classic_etc_invoice/)| 
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_eth_hpp`](ethereum_eth_hpp/)| 
+|![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_eth_invoice`](ethereum_eth_invoice/)| 
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_eur_hpp`](ethereum_eur_hpp/)| 
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_ltc_hpp`](ethereum_ltc_hpp/)| 
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_uah_hpp`](ethereum_uah_hpp/)| 
@@ -517,6 +519,7 @@
 |![Visa Electron](https://static.openfintech.io/payment_methods/visaelectron/logo.png?w=400&c=v0.59.26#w200) |[**Visa Electron**](/payment-methods/visaelectron/)|[`visaelectron_eur_hpp`](visaelectron_eur_hpp/)| 
 |![Vodacom](https://static.openfintech.io/payment_methods/vodacom/logo.png?w=400&c=v0.59.26#w200) |[**Vodacom**](/payment-methods/vodacom/)|[`vodacom_tzs_invoice`](vodacom_tzs_invoice/)| 
 ||| **W** ||
+|![Waves](https://static.openfintech.io/payment_methods/waves/logo.svg?w=400&c=v0.59.26#w200) |[**Waves**](/payment-methods/waves/)|[`waves_waves_invoice`](waves_waves_invoice/)| 
 |![WebMoney Transfer](https://static.openfintech.io/payment_methods/webmoneytransfer/logo.svg?w=400&c=v0.59.26#w200) |[**WebMoney Transfer**](/payment-methods/webmoneytransfer/)|[`webmoneytransfer_rub_hpp`](webmoneytransfer_rub_hpp/)| 
 |![WebMoney Transfer](https://static.openfintech.io/payment_methods/webmoneytransfer/logo.svg?w=400&c=v0.59.26#w200) |[**WebMoney Transfer**](/payment-methods/webmoneytransfer/)|[`webmoneytransfer_wmb_hpp`](webmoneytransfer_wmb_hpp/)| 
 |![WebMoney Transfer](https://static.openfintech.io/payment_methods/webmoneytransfer/logo.svg?w=400&c=v0.59.26#w200) |[**WebMoney Transfer**](/payment-methods/webmoneytransfer/)|[`webmoneytransfer_wme_hpp`](webmoneytransfer_wme_hpp/)| 
