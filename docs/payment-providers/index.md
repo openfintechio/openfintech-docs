@@ -611,6 +611,7 @@
 |![spryng](https://static.openfintech.io/payment_providers/spryng/logo.png?w=600&c=v0.59.26#w100) |[**Spryng Payments**](spryng/)|`spryng`| 
 |![square](https://static.openfintech.io/payment_providers/square/logo.svg?w=600&c=v0.59.26#w100) |[**Square**](square/)|`square`| 
 |![start2pay](https://static.openfintech.io/payment_providers/start2pay/logo.png?w=600&c=v0.59.26#w100) |[**Start2Pay**](start2pay/)|`start2pay`| 
+|![stepfourpay](https://static.openfintech.io/payment_providers/stepfourpay/logo.svg?w=600&c=v0.59.26#w100) |[**Step4Pay**](stepfourpay/)|`stepfourpay`| 
 |![streampay](https://static.openfintech.io/payment_providers/streampay/logo.png?w=600&c=v0.59.26#w100) |[**StreamPay**](streampay/)|`streampay`| 
 |![stripe](https://static.openfintech.io/payment_providers/stripe/logo.svg?w=600&c=v0.59.26#w100) |[**Stripe**](stripe/)|`stripe`| 
 |![stspayone](https://static.openfintech.io/payment_providers/stspayone/logo.png?w=600&c=v0.59.26#w100) |[**STS PayOne**](stspayone/)|`stspayone`| 

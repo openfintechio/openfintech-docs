@@ -1469,6 +1469,7 @@
 |![spryng](https://static.openfintech.io/vendors/spryng/logo.png?w=600&c=v0.59.26#w200) |[**Spryng Payments**](spryng/)|`spryng`| 
 |![square](https://static.openfintech.io/vendors/square/logo.svg?w=600&c=v0.59.26#w200) |[**Square**](square/)|`square`| 
 |![start2pay](https://static.openfintech.io/vendors/start2pay/logo.png?w=600&c=v0.59.26#w200) |[**Start2Pay**](start2pay/)|`start2pay`| 
+|![stepfourpay](https://static.openfintech.io/vendors/stepfourpay/logo.svg?w=600&c=v0.59.26#w200) |[**Step4Pay**](stepfourpay/)|`stepfourpay`| 
 |![stolichna_filiya_pat_kbprivatbank_kiyiv](https://static.openfintech.io/vendors/stolichna_filiya_pat_kbprivatbank_kiyiv/logo.svg?w=600&c=v0.59.26#w200) |[**СТОЛИЧНА ФІЛІЯ ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](stolichna_filiya_pat_kbprivatbank_kiyiv/)|`stolichna_filiya_pat_kbprivatbank_kiyiv`| 
 |![straal](https://static.openfintech.io/vendors/straal/logo.png?w=600&c=v0.59.26#w200) |[**Straal**](straal/)|`straal`| 
 |![streampay](https://static.openfintech.io/vendors/streampay/logo.png?w=600&c=v0.59.26#w200) |[**StreamPay**](streampay/)|`streampay`| 

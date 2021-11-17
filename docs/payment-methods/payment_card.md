@@ -269,6 +269,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![decard](https://static.openfintech.io/payment_providers/decard/icon.svg?w=278&c=v0.59.26#w100) |[Decard](/payment-providers/decard/)|`decard`| 
 |![unlimco](https://static.openfintech.io/payment_providers/unlimco/icon.svg?w=278&c=v0.59.26#w100) |[Unlimco](/payment-providers/unlimco/)|`unlimco`| 
 |![constantpos](https://static.openfintech.io/payment_providers/constantpos/icon.svg?w=278&c=v0.59.26#w100) |[Constantpos](/payment-providers/constantpos/)|`constantpos`| 
+|![stepfourpay](https://static.openfintech.io/payment_providers/stepfourpay/icon.svg?w=278&c=v0.59.26#w100) |[Step4Pay](/payment-providers/stepfourpay/)|`stepfourpay`| 
  
 
 ## JSON Object 
