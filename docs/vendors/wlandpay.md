@@ -1,6 +1,6 @@
 
 # Wlandpay 
-![wlandpay](https://static.openfintech.io/vendors/wlandpay/logo.svg?w=400&c=v0.59.26#w200)  
+![wlandpay](https://static.openfintech.io/vendors/wlandpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@
 
 ### Logo 
  
-![wlandpay](https://static.openfintech.io/vendors/wlandpay/logo.svg?w=400&c=v0.59.26#w200)  
+![wlandpay](https://static.openfintech.io/vendors/wlandpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/wlandpay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/wlandpay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![wlandpay](https://static.openfintech.io/vendors/wlandpay/icon.svg?w=278&c=v0.59.26#w100)  
+![wlandpay](https://static.openfintech.io/vendors/wlandpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/wlandpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/wlandpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

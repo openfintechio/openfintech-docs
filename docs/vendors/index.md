@@ -1367,6 +1367,7 @@
 |![redpass](https://static.openfintech.io/vendors/redpass/logo.svg?w=600&c=v0.59.26#w200) |[**RedPass**](redpass/)|`redpass`| 
 |![reel](https://static.openfintech.io/vendors/reel/logo.png?w=600&c=v0.59.26#w200) |[**REEL**](reel/)|`reel`| 
 |![reepay](https://static.openfintech.io/vendors/reepay/logo.png?w=600&c=v0.59.26#w200) |[**ReePay**](reepay/)|`reepay`| 
+|![reeves](https://static.openfintech.io/vendors/reeves/logo.png?w=600&c=v0.59.26#w200) |[**Reeves**](reeves/)|`reeves`| 
 |![regionalna_filiya_prat_ufg_u_m_harkiv](https://static.openfintech.io/vendors/regionalna_filiya_prat_ufg_u_m_harkiv/logo.svg?w=600&c=v0.59.26#w200) |[**Регіональна філія ПрАТ 'Українська фінансова група' у м. Харків**](regionalna_filiya_prat_ufg_u_m_harkiv/)|`regionalna_filiya_prat_ufg_u_m_harkiv`| 
 |![regularpay](https://static.openfintech.io/vendors/regularpay/logo.png?w=600&c=v0.59.26#w200) |[**RegularPay**](regularpay/)|`regularpay`| 
 |![resursbank](https://static.openfintech.io/vendors/resursbank/logo.svg?w=600&c=v0.59.26#w200) |[**Resurs bank**](resursbank/)|`resursbank`| 
@@ -1697,7 +1698,7 @@
 |![wirecard](https://static.openfintech.io/vendors/wirecard/logo.svg?w=600&c=v0.59.26#w200) |[**Wirecard**](wirecard/)|`wirecard`| 
 |![wireperevod](https://static.openfintech.io/vendors/wireperevod/logo.svg?w=600&c=v0.59.26#w200) |[**Wire-перевод**](wireperevod/)|`wireperevod`| 
 |![wiretransfer](https://static.openfintech.io/vendors/wiretransfer/logo.svg?w=600&c=v0.59.26#w200) |[**Wire Transfer**](wiretransfer/)|`wiretransfer`| 
-|![wlandpay](https://static.openfintech.io/vendors/wlandpay/logo.svg?w=600&c=v0.59.26#w200) |[**Wlandpay**](wlandpay/)|`wlandpay`| 
+|![wlandpay](https://static.openfintech.io/vendors/wlandpay/logo.png?w=600&c=v0.59.26#w200) |[**Wlandpay**](wlandpay/)|`wlandpay`| 
 |![wm-drugba](https://static.openfintech.io/vendors/wm-drugba/logo.svg?w=600&c=v0.59.26#w200) |[**WM-Drugba**](wm-drugba/)|`wm-drugba`| 
 |![wm-privat](https://static.openfintech.io/vendors/wm-privat/logo.svg?w=600&c=v0.59.26#w200) |[**WM-Privat.com**](wm-privat/)|`wm-privat`| 
 |![wm-sha.ru](https://static.openfintech.io/vendors/wm-sha.ru/logo.svg?w=600&c=v0.59.26#w200) |[**WM-Sha.ru**](wm-sha.ru/)|`wm-sha.ru`| 
