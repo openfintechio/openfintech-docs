@@ -530,6 +530,7 @@
 |![exmoney.me](https://static.openfintech.io/vendors/exmoney.me/logo.svg?w=600&c=v0.59.26#w200) |[**ExMoney**](exmoney.me/)|`exmoney.me`| 
 |![expercash](https://static.openfintech.io/vendors/expercash/logo.png?w=600&c=v0.59.26#w200) |[**EXPERCASH**](expercash/)|`expercash`| 
 |![externalprovider](https://static.openfintech.io/vendors/externalprovider/logo.svg?w=600&c=v0.59.26#w200) |[**External provider**](externalprovider/)|`externalprovider`| 
+|![ezeebill](https://static.openfintech.io/vendors/ezeebill/logo.svg?w=600&c=v0.59.26#w200) |[**Ezeebill**](ezeebill/)|`ezeebill`| 
 |![ezic](https://static.openfintech.io/vendors/ezic/logo.png?w=600&c=v0.59.26#w200) |[**Ezic**](ezic/)|`ezic`| 
 || **F** ||
 |![f1ex](https://static.openfintech.io/vendors/f1ex/logo.svg?w=600&c=v0.59.26#w200) |[**F1Ex**](f1ex/)|`f1ex`| 

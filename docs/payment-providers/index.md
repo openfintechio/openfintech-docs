@@ -238,6 +238,7 @@
 |![exacttransactions](https://static.openfintech.io/payment_providers/exacttransactions/logo.svg?w=600&c=v0.59.26#w100) |[**E-xact Transactions**](exacttransactions/)|`exacttransactions`| 
 |![expercash](https://static.openfintech.io/payment_providers/expercash/logo.svg?w=600&c=v0.59.26#w100) |[**EXPERCASH**](expercash/)|`expercash`| 
 |![externalprovider](https://static.openfintech.io/payment_providers/externalprovider/logo.svg?w=600&c=v0.59.26#w100) |[**External Provider**](externalprovider/)|`externalprovider`| 
+|![ezeebill](https://static.openfintech.io/payment_providers/ezeebill/logo.svg?w=600&c=v0.59.26#w100) |[**Ezeebill**](ezeebill/)|`ezeebill`| 
 |![ezic](https://static.openfintech.io/payment_providers/ezic/logo.png?w=600&c=v0.59.26#w100) |[**Ezic**](ezic/)|`ezic`| 
 || **F** ||
 |![faspay](https://static.openfintech.io/payment_providers/faspay/logo.png?w=600&c=v0.59.26#w100) |[**Faspay**](faspay/)|`faspay`| 
