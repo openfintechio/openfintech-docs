@@ -7,6 +7,7 @@
 |![123send](https://static.openfintech.io/payment_providers/123send/logo.png?w=600&c=v0.59.26#w100) |[**123Send**](123send/)|`123send`| 
 |![123x](https://static.openfintech.io/payment_providers/123x/logo.png?w=600&c=v0.59.26#w100) |[**123x**](123x/)|`123x`| 
 |![1pay](https://static.openfintech.io/payment_providers/1pay/logo.png?w=600&c=v0.59.26#w100) |[**1Pay**](1pay/)|`1pay`| 
+|![1payment](https://static.openfintech.io/payment_providers/1payment/logo.svg?w=600&c=v0.59.26#w100) |[**One Payment**](1payment/)|`1payment`| 
 || **2** ||
 |![2000charge](https://static.openfintech.io/payment_providers/2000charge/logo.png?w=600&c=v0.59.26#w100) |[**2000Charge.com**](2000charge/)|`2000charge`| 
 |![2c2p](https://static.openfintech.io/payment_providers/2c2p/logo.png?w=600&c=v0.59.26#w100) |[**2C2P**](2c2p/)|`2c2p`| 
@@ -227,6 +228,7 @@
 |![epaymentsglobalcom](https://static.openfintech.io/payment_providers/epaymentsglobalcom/logo.svg?w=600&c=v0.59.26#w100) |[**ePaymentsglobal.com**](epaymentsglobalcom/)|`epaymentsglobalcom`| 
 |![epoch](https://static.openfintech.io/payment_providers/epoch/logo.png?w=600&c=v0.59.26#w100) |[**Epoch**](epoch/)|`epoch`| 
 |![escalion](https://static.openfintech.io/payment_providers/escalion/logo.png?w=600&c=v0.59.26#w100) |[**Escalion**](escalion/)|`escalion`| 
+|![eupaymentz](https://static.openfintech.io/payment_providers/eupaymentz/logo.png?w=600&c=v0.59.26#w100) |[**EUPaymentz**](eupaymentz/)|`eupaymentz`| 
 |![europabank](https://static.openfintech.io/payment_providers/europabank/logo.png?w=600&c=v0.59.26#w100) |[**Europabank**](europabank/)|`europabank`| 
 |![europayment](https://static.openfintech.io/payment_providers/europayment/logo.png?w=600&c=v0.59.26#w100) |[**Euro Payment Group**](europayment/)|`europayment`| 
 |![europaysolutions](https://static.openfintech.io/payment_providers/europaysolutions/logo.svg?w=600&c=v0.59.26#w100) |[**Europay Solutions**](europaysolutions/)|`europaysolutions`| 
@@ -660,6 +662,7 @@
 |![uniteller](https://static.openfintech.io/payment_providers/uniteller/logo.png?w=600&c=v0.59.26#w100) |[**Uniteller**](uniteller/)|`uniteller`| 
 |![universepay](https://static.openfintech.io/payment_providers/universepay/logo.png?w=600&c=v0.59.26#w100) |[**UniversePay**](universepay/)|`universepay`| 
 |![unlimco](https://static.openfintech.io/payment_providers/unlimco/logo.svg?w=600&c=v0.59.26#w100) |[**Unlimco**](unlimco/)|`unlimco`| 
+|![unonapay](https://static.openfintech.io/payment_providers/unonapay/logo.svg?w=600&c=v0.59.26#w100) |[**UNONAPAY**](unonapay/)|`unonapay`| 
 |![upclick](https://static.openfintech.io/payment_providers/upclick/logo.png?w=600&c=v0.59.26#w100) |[**Upclick**](upclick/)|`upclick`| 
 |![usaepay](https://static.openfintech.io/payment_providers/usaepay/logo.png?w=600&c=v0.59.26#w100) |[**USAePay**](usaepay/)|`usaepay`| 
 || **V** ||

@@ -10,6 +10,7 @@
 |![123x](https://static.openfintech.io/vendors/123x/logo.png?w=600&c=v0.59.26#w200) |[**123x**](123x/)|`123x`| 
 |![1obmen.ru](https://static.openfintech.io/vendors/1obmen.ru/logo.svg?w=600&c=v0.59.26#w200) |[**1obmen.ru**](1obmen.ru/)|`1obmen.ru`| 
 |![1pay](https://static.openfintech.io/vendors/1pay/logo.png?w=600&c=v0.59.26#w200) |[**1Pay**](1pay/)|`1pay`| 
+|![1payment](https://static.openfintech.io/vendors/1payment/logo.svg?w=600&c=v0.59.26#w200) |[**One Payment**](1payment/)|`1payment`| 
 || **2** ||
 |![2000charge](https://static.openfintech.io/vendors/2000charge/logo.png?w=600&c=v0.59.26#w200) |[**2000Charge.com**](2000charge/)|`2000charge`| 
 |![247billpay](https://static.openfintech.io/vendors/247billpay/logo.png?w=600&c=v0.59.26#w200) |[**24-7 Bill Pay**](247billpay/)|`247billpay`| 
@@ -1599,6 +1600,7 @@
 |![universalpay](https://static.openfintech.io/vendors/universalpay/logo.png?w=600&c=v0.59.26#w200) |[**UniversalPay**](universalpay/)|`universalpay`| 
 |![universepay](https://static.openfintech.io/vendors/universepay/logo.png?w=600&c=v0.59.26#w200) |[**UniversePay**](universepay/)|`universepay`| 
 |![unlimco](https://static.openfintech.io/vendors/unlimco/logo.svg?w=600&c=v0.59.26#w200) |[**Unlimco**](unlimco/)|`unlimco`| 
+|![unonapay](https://static.openfintech.io/vendors/unonapay/logo.svg?w=600&c=v0.59.26#w200) |[**UNONAPAY**](unonapay/)|`unonapay`| 
 |![uobmen.ru](https://static.openfintech.io/vendors/uobmen.ru/logo.svg?w=600&c=v0.59.26#w200) |[**UObmen**](uobmen.ru/)|`uobmen.ru`| 
 |![upclick](https://static.openfintech.io/vendors/upclick/logo.png?w=600&c=v0.59.26#w200) |[**Upclick**](upclick/)|`upclick`| 
 |![upravlinnya_nbu_u_hmelnickij_oblasti](https://static.openfintech.io/vendors/upravlinnya_nbu_u_hmelnickij_oblasti/logo.svg?w=600&c=v0.59.26#w200) |[**Управління Національного банку України  у Хмельницькій області**](upravlinnya_nbu_u_hmelnickij_oblasti/)|`upravlinnya_nbu_u_hmelnickij_oblasti`| 

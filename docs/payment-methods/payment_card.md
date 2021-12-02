@@ -271,6 +271,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![constantpos](https://static.openfintech.io/payment_providers/constantpos/icon.svg?w=278&c=v0.59.26#w100) |[Constantpos](/payment-providers/constantpos/)|`constantpos`| 
 |![stepfourpay](https://static.openfintech.io/payment_providers/stepfourpay/icon.svg?w=278&c=v0.59.26#w100) |[Step4Pay](/payment-providers/stepfourpay/)|`stepfourpay`| 
 |![reeves](https://static.openfintech.io/payment_providers/reeves/icon.png?w=278&c=v0.59.26#w100) |[Reeves](/payment-providers/reeves/)|`reeves`| 
+|![eupaymentz](https://static.openfintech.io/payment_providers/eupaymentz/icon.png?w=278&c=v0.59.26#w100) |[EUPaymentz](/payment-providers/eupaymentz/)|`eupaymentz`| 
+|![unonapay](https://static.openfintech.io/payment_providers/unonapay/icon.svg?w=278&c=v0.59.26#w100) |[UNONAPAY](/payment-providers/unonapay/)|`unonapay`| 
+|![1payment](https://static.openfintech.io/payment_providers/1payment/icon.svg?w=278&c=v0.59.26#w100) |[One Payment](/payment-providers/1payment/)|`1payment`| 
  
 
 ## JSON Object 

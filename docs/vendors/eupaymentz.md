@@ -19,8 +19,6 @@
 **Links:** 
 : website [http://www.eupaymentz.com](http://www.eupaymentz.com) 
  
-**Address:** 
-street:  Serbia  
 
 ## Images 
 
@@ -57,9 +55,7 @@ https://static.openfintech.io/vendors/eupaymentz/icon.png?w=278&c=v0.59.26#w100
   },
   "countries":null,
   "contacts":null,
-  "address":{
-    "street":" Serbia "
-  },
+  "address":null,
   "social_profiles":null
 }
 ```  
