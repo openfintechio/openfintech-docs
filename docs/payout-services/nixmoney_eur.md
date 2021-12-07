@@ -24,12 +24,12 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`wallet_id`|✔|`string`|`/^(U\|E)[0-9]{14}$/`| 
+|`account`|✔|`string`|`/^(U\|E)[0-9]{14}$/`| 
  
 
 ### Details 
  
-1. **`wallet_id`** 
+1. **`account`** 
  
 	Type: `string` 
  
@@ -57,7 +57,7 @@
   "currency":"EUR",
   "fields":[
     {
-      "key":"wallet_id",
+      "key":"account",
       "type":"string",
       "label":{
         "en":"Wallet ID",
