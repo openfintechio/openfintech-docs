@@ -660,6 +660,7 @@
 |![ugspaycom](https://static.openfintech.io/payment_providers/ugspaycom/logo.png?w=600&c=v0.59.26#w100) |[**UGSPay**](ugspaycom/)|`ugspaycom`| 
 |![ukrgasbank](https://static.openfintech.io/payment_providers/ukrgasbank/logo.png?w=600&c=v0.59.26#w100) |[**UkrGasBank**](ukrgasbank/)|`ukrgasbank`| 
 |![uniteller](https://static.openfintech.io/payment_providers/uniteller/logo.png?w=600&c=v0.59.26#w100) |[**Uniteller**](uniteller/)|`uniteller`| 
+|![uniteplat](https://static.openfintech.io/payment_providers/uniteplat/logo.svg?w=600&c=v0.59.26#w100) |[**UnitePlat**](uniteplat/)|`uniteplat`| 
 |![universepay](https://static.openfintech.io/payment_providers/universepay/logo.png?w=600&c=v0.59.26#w100) |[**UniversePay**](universepay/)|`universepay`| 
 |![unlimco](https://static.openfintech.io/payment_providers/unlimco/logo.svg?w=600&c=v0.59.26#w100) |[**Unlimco**](unlimco/)|`unlimco`| 
 |![unonapay](https://static.openfintech.io/payment_providers/unonapay/logo.svg?w=600&c=v0.59.26#w100) |[**UNONAPAY**](unonapay/)|`unonapay`| 
