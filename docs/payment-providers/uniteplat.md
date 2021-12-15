@@ -1,6 +1,6 @@
 
 # UnitePlat 
-![uniteplat](https://static.openfintech.io/payment_providers/uniteplat/logo.svg?w=400&c=v0.59.26#w100)  
+![uniteplat](https://static.openfintech.io/payment_providers/uniteplat/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![uniteplat](https://static.openfintech.io/payment_providers/uniteplat/logo.svg?w=400&c=v0.59.26#w100)  
+![uniteplat](https://static.openfintech.io/payment_providers/uniteplat/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/uniteplat/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/uniteplat/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![uniteplat](https://static.openfintech.io/payment_providers/uniteplat/icon.svg?w=278&c=v0.59.26#w100)  
+![uniteplat](https://static.openfintech.io/payment_providers/uniteplat/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/uniteplat/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/uniteplat/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payout Methods 

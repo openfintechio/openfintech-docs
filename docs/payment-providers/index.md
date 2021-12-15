@@ -487,6 +487,7 @@
 |![payonline](https://static.openfintech.io/payment_providers/payonline/logo.png?w=600&c=v0.59.26#w100) |[**PayOnline**](payonline/)|`payonline`| 
 |![payoo](https://static.openfintech.io/payment_providers/payoo/logo.png?w=600&c=v0.59.26#w100) |[**Payoo**](payoo/)|`payoo`| 
 |![paypal](https://static.openfintech.io/payment_providers/paypal/logo.svg?w=600&c=v0.59.26#w100) |[**PayPal**](paypal/)|`paypal`| 
+|![payplay](https://static.openfintech.io/payment_providers/payplay/logo.svg?w=600&c=v0.59.26#w100) |[**PayPlay**](payplay/)|`payplay`| 
 |![payplug](https://static.openfintech.io/payment_providers/payplug/logo.png?w=600&c=v0.59.26#w100) |[**PayPlug**](payplug/)|`payplug`| 
 |![paypoint](https://static.openfintech.io/payment_providers/paypoint/logo.png?w=600&c=v0.59.26#w100) |[**PayPoint**](paypoint/)|`paypoint`| 
 |![paypound](https://static.openfintech.io/payment_providers/paypound/logo.png?w=600&c=v0.59.26#w100) |[**PayPound**](paypound/)|`paypound`| 
@@ -660,7 +661,7 @@
 |![ugspaycom](https://static.openfintech.io/payment_providers/ugspaycom/logo.png?w=600&c=v0.59.26#w100) |[**UGSPay**](ugspaycom/)|`ugspaycom`| 
 |![ukrgasbank](https://static.openfintech.io/payment_providers/ukrgasbank/logo.png?w=600&c=v0.59.26#w100) |[**UkrGasBank**](ukrgasbank/)|`ukrgasbank`| 
 |![uniteller](https://static.openfintech.io/payment_providers/uniteller/logo.png?w=600&c=v0.59.26#w100) |[**Uniteller**](uniteller/)|`uniteller`| 
-|![uniteplat](https://static.openfintech.io/payment_providers/uniteplat/logo.svg?w=600&c=v0.59.26#w100) |[**UnitePlat**](uniteplat/)|`uniteplat`| 
+|![uniteplat](https://static.openfintech.io/payment_providers/uniteplat/logo.png?w=600&c=v0.59.26#w100) |[**UnitePlat**](uniteplat/)|`uniteplat`| 
 |![universepay](https://static.openfintech.io/payment_providers/universepay/logo.png?w=600&c=v0.59.26#w100) |[**UniversePay**](universepay/)|`universepay`| 
 |![unlimco](https://static.openfintech.io/payment_providers/unlimco/logo.svg?w=600&c=v0.59.26#w100) |[**Unlimco**](unlimco/)|`unlimco`| 
 |![unonapay](https://static.openfintech.io/payment_providers/unonapay/logo.svg?w=600&c=v0.59.26#w100) |[**UNONAPAY**](unonapay/)|`unonapay`| 

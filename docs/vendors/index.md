@@ -1224,6 +1224,7 @@
 |![payoo](https://static.openfintech.io/vendors/payoo/logo.png?w=600&c=v0.59.26#w200) |[**Payoo**](payoo/)|`payoo`| 
 |![paypal](https://static.openfintech.io/vendors/paypal/logo.svg?w=600&c=v0.59.26#w200) |[**PayPal**](paypal/)|`paypal`| 
 |![paypal](https://static.openfintech.io/vendors/paypal/logo.svg?w=600&c=v0.59.26#w200) |[**PayPal**](paypal/)|`paypal`| 
+|![payplay](https://static.openfintech.io/vendors/payplay/logo.svg?w=600&c=v0.59.26#w200) |[**PayPlay**](payplay/)|`payplay`| 
 |![payplug](https://static.openfintech.io/vendors/payplug/logo.png?w=600&c=v0.59.26#w200) |[**PayPlug**](payplug/)|`payplug`| 
 |![paypoint](https://static.openfintech.io/vendors/paypoint/logo.png?w=600&c=v0.59.26#w200) |[**Pay360 by Capita**](paypoint/)|`paypoint`| 
 |![paypoint](https://static.openfintech.io/vendors/paypoint/logo.png?w=600&c=v0.59.26#w200) |[**PayPoint**](paypoint/)|`paypoint`| 
