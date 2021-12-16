@@ -564,6 +564,7 @@
 |![ratepay](https://static.openfintech.io/payment_providers/ratepay/logo.png?w=600&c=v0.59.26#w100) |[**RatePAY**](ratepay/)|`ratepay`| 
 |![razorpay](https://static.openfintech.io/payment_providers/razorpay/logo.png?w=600&c=v0.59.26#w100) |[**Razorpay**](razorpay/)|`razorpay`| 
 |![rbkmoney](https://static.openfintech.io/payment_providers/rbkmoney/logo.png?w=600&c=v0.59.26#w100) |[**RBK Money**](rbkmoney/)|`rbkmoney`| 
+|![realdeposits](https://static.openfintech.io/payment_providers/realdeposits/logo.png?w=600&c=v0.59.26#w100) |[**Real Deposits**](realdeposits/)|`realdeposits`| 
 |![realexpayments](https://static.openfintech.io/payment_providers/realexpayments/logo.png?w=600&c=v0.59.26#w100) |[**Realex Payments**](realexpayments/)|`realexpayments`| 
 |![reddotpayment](https://static.openfintech.io/payment_providers/reddotpayment/logo.png?w=600&c=v0.59.26#w100) |[**Red Dot Payment**](reddotpayment/)|`reddotpayment`| 
 |![redecard](https://static.openfintech.io/payment_providers/redecard/logo.png?w=600&c=v0.59.26#w100) |[**Redecard**](redecard/)|`redecard`| 

@@ -1363,6 +1363,7 @@
 |![rcbc](https://static.openfintech.io/vendors/rcbc/logo.svg?w=600&c=v0.59.26#w200) |[**RCBC over-the-counter**](rcbc/)|`rcbc`| 
 |![rcoin](https://static.openfintech.io/vendors/rcoin/logo.svg?w=600&c=v0.59.26#w200) |[**Rcoin**](rcoin/)|`rcoin`| 
 |![real-exchange.ru](https://static.openfintech.io/vendors/real-exchange.ru/logo.svg?w=600&c=v0.59.26#w200) |[**RealExchange**](real-exchange.ru/)|`real-exchange.ru`| 
+|![realdeposits](https://static.openfintech.io/vendors/realdeposits/logo.png?w=600&c=v0.59.26#w200) |[**Real Deposits**](realdeposits/)|`realdeposits`| 
 |![realexpayments](https://static.openfintech.io/vendors/realexpayments/logo.png?w=600&c=v0.59.26#w200) |[**Realex Payments**](realexpayments/)|`realexpayments`| 
 |![redcompra](https://static.openfintech.io/vendors/redcompra/logo.svg?w=600&c=v0.59.26#w200) |[**Red Compra**](redcompra/)|`redcompra`| 
 |![reddotpayment](https://static.openfintech.io/vendors/reddotpayment/logo.png?w=600&c=v0.59.26#w200) |[**Red Dot Payment**](reddotpayment/)|`reddotpayment`| 
