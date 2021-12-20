@@ -1167,6 +1167,7 @@
 |![paydoo](https://static.openfintech.io/vendors/paydoo/logo.png?w=600&c=v0.59.26#w200) |[**Paydoo**](paydoo/)|`paydoo`| 
 |![payease](https://static.openfintech.io/vendors/payease/logo.png?w=600&c=v0.59.26#w200) |[**PayEase**](payease/)|`payease`| 
 |![payeer](https://static.openfintech.io/vendors/payeer/logo.png?w=600&c=v0.59.26#w200) |[**Payeer**](payeer/)|`payeer`| 
+|![payelata](https://static.openfintech.io/vendors/payelata/logo.svg?w=600&c=v0.59.26#w200) |[**Payelata**](payelata/)|`payelata`| 
 |![payex](https://static.openfintech.io/vendors/payex/logo.png?w=600&c=v0.59.26#w200) |[**PayEx**](payex/)|`payex`| 
 |![payfast](https://static.openfintech.io/vendors/payfast/logo.png?w=600&c=v0.59.26#w200) |[**PayFast**](payfast/)|`payfast`| 
 |![payfastwallet](https://static.openfintech.io/vendors/payfastwallet/logo.png?w=600&c=v0.59.26#w200) |[**Payfast Wallet**](payfastwallet/)|`payfastwallet`| 

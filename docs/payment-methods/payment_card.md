@@ -277,6 +277,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![1payment](https://static.openfintech.io/payment_providers/1payment/icon.svg?w=278&c=v0.59.26#w100) |[One Payment](/payment-providers/1payment/)|`1payment`| 
 |![payplay](https://static.openfintech.io/payment_providers/payplay/icon.svg?w=278&c=v0.59.26#w100) |[PayPlay](/payment-providers/payplay/)|`payplay`| 
 |![realdeposits](https://static.openfintech.io/payment_providers/realdeposits/icon.png?w=278&c=v0.59.26#w100) |[Real Deposits](/payment-providers/realdeposits/)|`realdeposits`| 
+|![payelata](https://static.openfintech.io/payment_providers/payelata/icon.svg?w=278&c=v0.59.26#w100) |[Payelata](/payment-providers/payelata/)|`payelata`| 
  
 
 ## JSON Object 

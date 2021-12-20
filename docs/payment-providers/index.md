@@ -435,6 +435,7 @@
 |![paydoo](https://static.openfintech.io/payment_providers/paydoo/logo.png?w=600&c=v0.59.26#w100) |[**Paydoo**](paydoo/)|`paydoo`| 
 |![payease](https://static.openfintech.io/payment_providers/payease/logo.png?w=600&c=v0.59.26#w100) |[**PayEase**](payease/)|`payease`| 
 |![payeer](https://static.openfintech.io/payment_providers/payeer/logo.svg?w=600&c=v0.59.26#w100) |[**Payeer**](payeer/)|`payeer`| 
+|![payelata](https://static.openfintech.io/payment_providers/payelata/logo.svg?w=600&c=v0.59.26#w100) |[**Payelata**](payelata/)|`payelata`| 
 |![payex](https://static.openfintech.io/payment_providers/payex/logo.png?w=600&c=v0.59.26#w100) |[**PayEx**](payex/)|`payex`| 
 |![payfast](https://static.openfintech.io/payment_providers/payfast/logo.png?w=600&c=v0.59.26#w100) |[**PayFast**](payfast/)|`payfast`| 
 |![payfort](https://static.openfintech.io/payment_providers/payfort/logo.png?w=600&c=v0.59.26#w100) |[**PayFort**](payfort/)|`payfort`| 
@@ -530,6 +531,7 @@
 |![pencepay](https://static.openfintech.io/payment_providers/pencepay/logo.png?w=600&c=v0.59.26#w100) |[**PencePay**](pencepay/)|`pencepay`| 
 |![perfectmoney](https://static.openfintech.io/payment_providers/perfectmoney/logo.png?w=600&c=v0.59.26#w100) |[**Perfect Money**](perfectmoney/)|`perfectmoney`| 
 |![piastrix](https://static.openfintech.io/payment_providers/piastrix/logo.svg?w=600&c=v0.59.26#w100) |[**Piastrix**](piastrix/)|`piastrix`| 
+|![picksell](https://static.openfintech.io/payment_providers/picksell/logo.png?w=600&c=v0.59.26#w100) |[**Picksell**](picksell/)|`picksell`| 
 |![pinpayments](https://static.openfintech.io/payment_providers/pinpayments/logo.png?w=600&c=v0.59.26#w100) |[**Pin Payments**](pinpayments/)|`pinpayments`| 
 |![pivdennybank](https://static.openfintech.io/payment_providers/pivdennybank/logo.svg?w=600&c=v0.59.26#w100) |[**Bank Pivdenny**](pivdennybank/)|`pivdennybank`| 
 |![pivotalpayments](https://static.openfintech.io/payment_providers/pivotalpayments/logo.png?w=600&c=v0.59.26#w100) |[**Pivotal Payments**](pivotalpayments/)|`pivotalpayments`| 
