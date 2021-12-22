@@ -43,6 +43,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![yandexmoney](https://static.openfintech.io/payment_methods/yandexmoney/icon.svg?w=278&c=v0.59.26#w100) |[yandexmoney](/payment-methods/yandexmoney/)|`yandexmoney`| 
 |![webmoneytransfer](https://static.openfintech.io/payment_methods/webmoneytransfer/icon.svg?w=278&c=v0.59.26#w100) |[webmoneytransfer](/payment-methods/webmoneytransfer/)|`webmoneytransfer`| 
 |![qiwi](https://static.openfintech.io/payment_methods/qiwi/icon.svg?w=278&c=v0.59.26#w100) |[qiwi](/payment-methods/qiwi/)|`qiwi`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay](/payment-methods/googlepay/)|`googlepay`| 
  
 
 ## Payout Methods 
@@ -70,7 +71,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "payment_card",
     "yandexmoney",
     "webmoneytransfer",
-    "qiwi"
+    "qiwi",
+    "googlepay"
   ],
   "payout_method":[
     "payment_card",
