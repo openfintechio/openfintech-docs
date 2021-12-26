@@ -60,6 +60,7 @@
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_idr_hpp`](bank_transfer_idr_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_inr_hpp`](bank_transfer_inr_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_jpy_hpp`](bank_transfer_jpy_hpp/)| 
+|![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_jpy_hpp`](bank_transfer_jpy_hpp/)| 
 |![Klarna bank transfer](https://static.openfintech.io/payment_methods/bank_transfer_klarna/logo.svg?w=400&c=v0.59.26#w200) |[**Klarna bank transfer**](/payment-methods/bank_transfer_klarna/)|[`bank_transfer_klarna_pln_hpp`](bank_transfer_klarna_pln_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_myr_hpp`](bank_transfer_myr_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_ngn_hpp`](bank_transfer_ngn_hpp/)| 
@@ -374,6 +375,7 @@
 |![PayPal](https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](/payment-methods/paypal/)|[`paypal_gbp_hpp`](paypal_gbp_hpp/)| 
 |![PayPal](https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](/payment-methods/paypal/)|[`paypal_huf_hpp`](paypal_huf_hpp/)| 
 |![PayPal](https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](/payment-methods/paypal/)|[`paypal_usd_hpp`](paypal_usd_hpp/)| 
+|![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`paypay_jpy_hpp`](paypay_jpy_hpp/)| 
 |![Paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](/payment-methods/paysafecard/)|[`paysafecard_bgn_hpp`](paysafecard_bgn_hpp/)| 
 |![Paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](/payment-methods/paysafecard/)|[`paysafecard_chf_hpp`](paysafecard_chf_hpp/)| 
 |![Paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](/payment-methods/paysafecard/)|[`paysafecard_czk_hpp`](paysafecard_czk_hpp/)| 
@@ -450,6 +452,8 @@
 |![Skrill Wallet](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](/payment-methods/skrill/)|[`skrill_thb_hpp`](skrill_thb_hpp/)| 
 |![Skrill Wallet](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](/payment-methods/skrill/)|[`skrill_usd_hpp`](skrill_usd_hpp/)| 
 |![SMS Billing](https://static.openfintech.io/payment_methods/smsbilling/logo.png?w=400&c=v0.59.26#w200) |[**SMS Billing**](/payment-methods/smsbilling/)|[`smsbilling_rub_hpp`](smsbilling_rub_hpp/)| 
+|![Sofort](https://static.openfintech.io/payment_methods/sofort/logo.svg?w=400&c=v0.59.26#w200) |[**Sofort**](/payment-methods/sofort/)|[`sofort_eur_hpp`](sofort_eur_hpp/)| 
+|![Sofort](https://static.openfintech.io/payment_methods/sofort/logo.svg?w=400&c=v0.59.26#w200) |[**Sofort**](/payment-methods/sofort/)|[`sofort_usd_hpp`](sofort_usd_hpp/)| 
 |![South Indian Bank](https://static.openfintech.io/payment_methods/south_indian_bank/logo.png?w=400&c=v0.59.26#w200) |[**South Indian Bank**](/payment-methods/south_indian_bank/)|[`south_indian_bank_inr_hpp`](south_indian_bank_inr_hpp/)| 
 |![Standard Charter Bank](https://static.openfintech.io/payment_methods/standard_charter_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Standard Charter Bank**](/payment-methods/standard_charter_bank/)|[`standard_charter_bank_inr_hpp`](standard_charter_bank_inr_hpp/)| 
 |![Standard Chartered Bank Korea](https://static.openfintech.io/payment_methods/standard_chartered_bank_korea/logo.svg?w=400&c=v0.59.26#w200) |[**Standard Chartered Bank Korea**](/payment-methods/standard_chartered_bank_korea/)|[`standard_chartered_bank_korea_krw_hpp`](standard_chartered_bank_korea_krw_hpp/)| 

@@ -324,6 +324,7 @@
 |![iyzipayments](https://static.openfintech.io/payment_providers/iyzipayments/logo.png?w=600&c=v0.59.26#w100) |[**iyzico**](iyzipayments/)|`iyzipayments`| 
 || **J** ||
 |![jambopay](https://static.openfintech.io/payment_providers/jambopay/logo.png?w=600&c=v0.59.26#w100) |[**Jambopay**](jambopay/)|`jambopay`| 
+|![jeton](https://static.openfintech.io/payment_providers/jeton/logo.png?w=600&c=v0.59.26#w100) |[**Jeton**](jeton/)|`jeton`| 
 |![jetpay](https://static.openfintech.io/payment_providers/jetpay/logo.png?w=600&c=v0.59.26#w100) |[**JetPay**](jetpay/)|`jetpay`| 
 |![judopayments](https://static.openfintech.io/payment_providers/judopayments/logo.png?w=600&c=v0.59.26#w100) |[**Judo Payments**](judopayments/)|`judopayments`| 
 |![junglepay](https://static.openfintech.io/payment_providers/junglepay/logo.png?w=600&c=v0.59.26#w100) |[**JunglePay**](junglepay/)|`junglepay`| 
@@ -361,6 +362,7 @@
 |![merchantscout](https://static.openfintech.io/payment_providers/merchantscout/logo.png?w=600&c=v0.59.26#w100) |[**MerchantScout**](merchantscout/)|`merchantscout`| 
 |![mercuryo](https://static.openfintech.io/payment_providers/mercuryo/logo.svg?w=600&c=v0.59.26#w100) |[**Mercuryo**](mercuryo/)|`mercuryo`| 
 |![micropaymentgmbh](https://static.openfintech.io/payment_providers/micropaymentgmbh/logo.png?w=600&c=v0.59.26#w100) |[**micropayment™ GmbH**](micropaymentgmbh/)|`micropaymentgmbh`| 
+|![micropayments](https://static.openfintech.io/payment_providers/micropayments/logo.svg?w=600&c=v0.59.26#w100) |[**MicroPayments**](micropayments/)|`micropayments`| 
 |![mineexchange](https://static.openfintech.io/payment_providers/mineexchange/logo.png?w=600&c=v0.59.26#w100) |[**MineExchange**](mineexchange/)|`mineexchange`| 
 |![mistralpay2](https://static.openfintech.io/payment_providers/mistralpay2/logo.png?w=600&c=v0.59.26#w100) |[**MistralPay**](mistralpay2/)|`mistralpay2`| 
 |![mobipaid](https://static.openfintech.io/payment_providers/mobipaid/logo.png?w=600&c=v0.59.26#w100) |[**Mobipaid**](mobipaid/)|`mobipaid`| 

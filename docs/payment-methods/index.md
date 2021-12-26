@@ -320,6 +320,7 @@
 |![paymer](https://static.openfintech.io/payment_methods/paymer/logo.png?w=400&c=v0.59.26#w200) |[**Paymer check**](paymer/)|`paymer`| 
 |![paynearme](https://static.openfintech.io/payment_methods/paynearme/logo.png?w=400&c=v0.59.26#w200) |[**PayNearMe**](paynearme/)|`paynearme`| 
 |![paypal](https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](paypal/)|`paypal`| 
+|![paypay](https://static.openfintech.io/payment_methods/paypay/logo.png?w=400&c=v0.59.26#w200) |[**PayPay**](paypay/)|`paypay`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](paysafecard/)|`paysafecard`| 
 |![paysafecash](https://static.openfintech.io/payment_methods/paysafecash/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecash**](paysafecash/)|`paysafecash`| 
 |![paysbuy](https://static.openfintech.io/payment_methods/paysbuy/logo.png?w=400&c=v0.59.26#w200) |[**PAYSBUY**](paysbuy/)|`paysbuy`| 
@@ -398,6 +399,7 @@
 |![slovenskasporitelna](https://static.openfintech.io/payment_methods/slovenskasporitelna/logo.png?w=400&c=v0.59.26#w200) |[**Slovenská Sporitelña**](slovenskasporitelna/)|`slovenskasporitelna`| 
 |![smartmoney](https://static.openfintech.io/payment_methods/smartmoney/logo.png?w=400&c=v0.59.26#w200) |[**Smart Money**](smartmoney/)|`smartmoney`| 
 |![smsbilling](https://static.openfintech.io/payment_methods/smsbilling/logo.png?w=400&c=v0.59.26#w200) |[**SMS Billing**](smsbilling/)|`smsbilling`| 
+|![sofort](https://static.openfintech.io/payment_methods/sofort/logo.svg?w=400&c=v0.59.26#w200) |[**Sofort**](sofort/)|`sofort`| 
 |![sofortbanking](https://static.openfintech.io/payment_methods/sofortbanking/logo.svg?w=400&c=v0.59.26#w200) |[**SOFORT, a Klarna Group Company**](sofortbanking/)|`sofortbanking`| 
 |![south_indian_bank](https://static.openfintech.io/payment_methods/south_indian_bank/logo.png?w=400&c=v0.59.26#w200) |[**South Indian Bank**](south_indian_bank/)|`south_indian_bank`| 
 |![spankki](https://static.openfintech.io/payment_methods/spankki/logo.png?w=400&c=v0.59.26#w200) |[**S-Pankki**](spankki/)|`spankki`| 

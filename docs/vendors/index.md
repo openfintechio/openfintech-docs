@@ -771,6 +771,7 @@
 || **J** ||
 |![jambopay](https://static.openfintech.io/vendors/jambopay/logo.png?w=600&c=v0.59.26#w200) |[**Jambopay**](jambopay/)|`jambopay`| 
 |![jcb](https://static.openfintech.io/vendors/jcb/logo.png?w=600&c=v0.59.26#w200) |[**JCB**](jcb/)|`jcb`| 
+|![jeton](https://static.openfintech.io/vendors/jeton/logo.png?w=600&c=v0.59.26#w200) |[**Jeton**](jeton/)|`jeton`| 
 |![jetpay](https://static.openfintech.io/vendors/jetpay/logo.png?w=600&c=v0.59.26#w200) |[**JetPay**](jetpay/)|`jetpay`| 
 |![judopayments](https://static.openfintech.io/vendors/judopayments/logo.png?w=600&c=v0.59.26#w200) |[**Judo Payments**](judopayments/)|`judopayments`| 
 |![junglepay](https://static.openfintech.io/vendors/junglepay/logo.png?w=600&c=v0.59.26#w200) |[**JunglePay**](junglepay/)|`junglepay`| 
@@ -870,6 +871,7 @@
 |![merchantscout](https://static.openfintech.io/vendors/merchantscout/logo.png?w=600&c=v0.59.26#w200) |[**MerchantScout**](merchantscout/)|`merchantscout`| 
 |![mercuryo](https://static.openfintech.io/vendors/mercuryo/logo.svg?w=600&c=v0.59.26#w200) |[**Mercuryo**](mercuryo/)|`mercuryo`| 
 |![micropaymentgmbh](https://static.openfintech.io/vendors/micropaymentgmbh/logo.png?w=600&c=v0.59.26#w200) |[**micropayment™ GmbH**](micropaymentgmbh/)|`micropaymentgmbh`| 
+|![micropayments](https://static.openfintech.io/vendors/micropayments/logo.svg?w=600&c=v0.59.26#w200) |[**MicroPayments**](micropayments/)|`micropayments`| 
 |![mikolayivske_ruprivatbank_m_mikolayiv](https://static.openfintech.io/vendors/mikolayivske_ruprivatbank_m_mikolayiv/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ 'МИКОЛАЇВСЬКЕ РЕГІОНАЛЬНЕ УПРАВЛІННЯ' ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](mikolayivske_ruprivatbank_m_mikolayiv/)|`mikolayivske_ruprivatbank_m_mikolayiv`| 
 |![milleniumbank](https://static.openfintech.io/vendors/milleniumbank/logo.png?w=600&c=v0.59.26#w200) |[**Millenium Bank**](milleniumbank/)|`milleniumbank`| 
 |![millennium](https://static.openfintech.io/vendors/millennium/logo.svg?w=600&c=v0.59.26#w200) |[**Millennium**](millennium/)|`millennium`| 
