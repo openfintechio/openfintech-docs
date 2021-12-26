@@ -488,7 +488,7 @@
 |![ematters](https://static.openfintech.io/vendors/ematters/logo.png?w=600&c=v0.59.26#w200) |[**eMatters**](ematters/)|`ematters`| 
 |![emblaze](https://static.openfintech.io/vendors/emblaze/logo.svg?w=600&c=v0.59.26#w200) |[**eMblaze One**](emblaze/)|`emblaze`| 
 |![emerald24](https://static.openfintech.io/vendors/emerald24/logo.svg?w=600&c=v0.59.26#w200) |[**Emerald24**](emerald24/)|`emerald24`| 
-|![emerchantpay](https://static.openfintech.io/vendors/emerchantpay/logo.png?w=600&c=v0.59.26#w200) |[**eMerchantPay Ltd**](emerchantpay/)|`emerchantpay`| 
+|![emerchantpay](https://static.openfintech.io/vendors/emerchantpay/logo.svg?w=600&c=v0.59.26#w200) |[**EmerchantPay**](emerchantpay/)|`emerchantpay`| 
 |![emoney16](https://static.openfintech.io/vendors/emoney16/logo.svg?w=600&c=v0.59.26#w200) |[**Emoney16**](emoney16/)|`emoney16`| 
 |![endeavour](https://static.openfintech.io/vendors/endeavour/logo.png?w=600&c=v0.59.26#w200) |[**Endeavour**](endeavour/)|`endeavour`| 
 |![enets](https://static.openfintech.io/vendors/enets/logo.png?w=600&c=v0.59.26#w200) |[**eNETS**](enets/)|`enets`| 

@@ -17,7 +17,7 @@
 :	[RU] Платежная карта 
 :	[UK] Платіжна карта 
  
-**Amount limits:** from `0.01` to `1000000` JPY 
+**Amount limits:** from `1` to `1000000` JPY 
 
 ## JSON Object 
 
@@ -28,7 +28,7 @@
   "method":"payment_card",
   "currency":"JPY",
   "fields":null,
-  "amount_min":0.01,
+  "amount_min":1,
   "amount_max":1000000
 }
 ```  
