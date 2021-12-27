@@ -249,7 +249,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![thorpayments](https://static.openfintech.io/payment_providers/thorpayments/icon.png?w=278&c=v0.59.26#w100) |[Thor Payments](/payment-providers/thorpayments/)|`thorpayments`| 
 |![transactworld](https://static.openfintech.io/payment_providers/transactworld/icon.png?w=278&c=v0.59.26#w100) |[Transact World](/payment-providers/transactworld/)|`transactworld`| 
 |![payclub](https://static.openfintech.io/payment_providers/payclub/icon.png?w=278&c=v0.59.26#w100) |[PayClub](/payment-providers/payclub/)|`payclub`| 
-|![dixonpay](https://static.openfintech.io/payment_providers/dixonpay/icon.svg?w=278&c=v0.59.26#w100) |[DixonPay](/payment-providers/dixonpay/)|`dixonpay`| 
 |![betatransfer](https://static.openfintech.io/payment_providers/betatransfer/icon.svg?w=278&c=v0.59.26#w100) |[BetaTransfer](/payment-providers/betatransfer/)|`betatransfer`| 
 |![gumballpay](https://static.openfintech.io/payment_providers/gumballpay/icon.png?w=278&c=v0.59.26#w100) |[GumballPay](/payment-providers/gumballpay/)|`gumballpay`| 
 |![paypound](https://static.openfintech.io/payment_providers/paypound/icon.png?w=278&c=v0.59.26#w100) |[PayPound](/payment-providers/paypound/)|`paypound`| 
@@ -274,7 +273,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![eupaymentz](https://static.openfintech.io/payment_providers/eupaymentz/icon.png?w=278&c=v0.59.26#w100) |[EUPaymentz](/payment-providers/eupaymentz/)|`eupaymentz`| 
 |![unonapay](https://static.openfintech.io/payment_providers/unonapay/icon.svg?w=278&c=v0.59.26#w100) |[UNONAPAY](/payment-providers/unonapay/)|`unonapay`| 
 |![1payment](https://static.openfintech.io/payment_providers/1payment/icon.svg?w=278&c=v0.59.26#w100) |[One Payment](/payment-providers/1payment/)|`1payment`| 
-|![payplay](https://static.openfintech.io/payment_providers/payplay/icon.svg?w=278&c=v0.59.26#w100) |[PayPlay](/payment-providers/payplay/)|`payplay`| 
+|![payplay](https://static.openfintech.io/payment_providers/payplay/icon.png?w=278&c=v0.59.26#w100) |[PayPlay](/payment-providers/payplay/)|`payplay`| 
 |![realdeposits](https://static.openfintech.io/payment_providers/realdeposits/icon.png?w=278&c=v0.59.26#w100) |[Real Deposits](/payment-providers/realdeposits/)|`realdeposits`| 
 |![payelata](https://static.openfintech.io/payment_providers/payelata/icon.svg?w=278&c=v0.59.26#w100) |[Payelata](/payment-providers/payelata/)|`payelata`| 
  

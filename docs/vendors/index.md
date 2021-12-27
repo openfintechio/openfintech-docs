@@ -490,6 +490,7 @@
 |![emerald24](https://static.openfintech.io/vendors/emerald24/logo.svg?w=600&c=v0.59.26#w200) |[**Emerald24**](emerald24/)|`emerald24`| 
 |![emerchantpay](https://static.openfintech.io/vendors/emerchantpay/logo.svg?w=600&c=v0.59.26#w200) |[**EmerchantPay**](emerchantpay/)|`emerchantpay`| 
 |![emoney16](https://static.openfintech.io/vendors/emoney16/logo.svg?w=600&c=v0.59.26#w200) |[**Emoney16**](emoney16/)|`emoney16`| 
+|![ems](https://static.openfintech.io/vendors/ems/logo.svg?w=600&c=v0.59.26#w200) |[**EMS**](ems/)|`ems`| 
 |![endeavour](https://static.openfintech.io/vendors/endeavour/logo.png?w=600&c=v0.59.26#w200) |[**Endeavour**](endeavour/)|`endeavour`| 
 |![enets](https://static.openfintech.io/vendors/enets/logo.png?w=600&c=v0.59.26#w200) |[**eNETS**](enets/)|`enets`| 
 |![enetsdirectdebit](https://static.openfintech.io/vendors/enetsdirectdebit/logo.png?w=600&c=v0.59.26#w200) |[**eNETS Direct Debit**](enetsdirectdebit/)|`enetsdirectdebit`| 
@@ -810,6 +811,7 @@
 |![kontakt](https://static.openfintech.io/vendors/kontakt/logo.svg?w=600&c=v0.59.26#w200) |[**Контакт**](kontakt/)|`kontakt`| 
 |![kortapay](https://static.openfintech.io/vendors/kortapay/logo.png?w=600&c=v0.59.26#w200) |[**Korta Pay**](kortapay/)|`kortapay`| 
 |![kr_filiya_patkbprivatbank_krivij_rig](https://static.openfintech.io/vendors/kr_filiya_patkbprivatbank_krivij_rig/logo.svg?w=600&c=v0.59.26#w200) |[**КРИВОРІЗЬКА ФІЛІЯ ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](kr_filiya_patkbprivatbank_krivij_rig/)|`kr_filiya_patkbprivatbank_krivij_rig`| 
+|![kraft](https://static.openfintech.io/vendors/kraft/logo.svg?w=600&c=v0.59.26#w200) |[**Kraft**](kraft/)|`kraft`| 
 |![krajinvestbank](https://static.openfintech.io/vendors/krajinvestbank/logo.svg?w=600&c=v0.59.26#w200) |[**Крайинвестбанк**](krajinvestbank/)|`krajinvestbank`| 
 |![kram_f_patkbprivatbank_m_kramatorsk](https://static.openfintech.io/vendors/kram_f_patkbprivatbank_m_kramatorsk/logo.svg?w=600&c=v0.59.26#w200) |[**КРАМАТОРСЬКА ФІЛІЯ ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](kram_f_patkbprivatbank_m_kramatorsk/)|`kram_f_patkbprivatbank_m_kramatorsk`| 
 |![krd_atrajffajzen_bank_avalm_kiyiv](https://static.openfintech.io/vendors/krd_atrajffajzen_bank_avalm_kiyiv/logo.svg?w=600&c=v0.59.26#w200) |[**Київська регіональна дирекція Публічного акціонерного товариства 'Райффайзен Банк Аваль'**](krd_atrajffajzen_bank_avalm_kiyiv/)|`krd_atrajffajzen_bank_avalm_kiyiv`| 
@@ -1228,7 +1230,7 @@
 |![payoo](https://static.openfintech.io/vendors/payoo/logo.png?w=600&c=v0.59.26#w200) |[**Payoo**](payoo/)|`payoo`| 
 |![paypal](https://static.openfintech.io/vendors/paypal/logo.svg?w=600&c=v0.59.26#w200) |[**PayPal**](paypal/)|`paypal`| 
 |![paypal](https://static.openfintech.io/vendors/paypal/logo.svg?w=600&c=v0.59.26#w200) |[**PayPal**](paypal/)|`paypal`| 
-|![payplay](https://static.openfintech.io/vendors/payplay/logo.svg?w=600&c=v0.59.26#w200) |[**PayPlay**](payplay/)|`payplay`| 
+|![payplay](https://static.openfintech.io/vendors/payplay/logo.png?w=600&c=v0.59.26#w200) |[**PayPlay**](payplay/)|`payplay`| 
 |![payplug](https://static.openfintech.io/vendors/payplug/logo.png?w=600&c=v0.59.26#w200) |[**PayPlug**](payplug/)|`payplug`| 
 |![paypoint](https://static.openfintech.io/vendors/paypoint/logo.png?w=600&c=v0.59.26#w200) |[**Pay360 by Capita**](paypoint/)|`paypoint`| 
 |![paypoint](https://static.openfintech.io/vendors/paypoint/logo.png?w=600&c=v0.59.26#w200) |[**PayPoint**](paypoint/)|`paypoint`| 

@@ -217,6 +217,7 @@
 |![emblaze](https://static.openfintech.io/payment_providers/emblaze/logo.png?w=600&c=v0.59.26#w100) |[**eMblaze One**](emblaze/)|`emblaze`| 
 |![emerald24](https://static.openfintech.io/payment_providers/emerald24/logo.svg?w=600&c=v0.59.26#w100) |[**Emerald24**](emerald24/)|`emerald24`| 
 |![emerchantpay](https://static.openfintech.io/payment_providers/emerchantpay/logo.svg?w=600&c=v0.59.26#w100) |[**EmerchantPay**](emerchantpay/)|`emerchantpay`| 
+|![ems](https://static.openfintech.io/payment_providers/ems/logo.svg?w=600&c=v0.59.26#w100) |[**EMS**](ems/)|`ems`| 
 |![endeavour](https://static.openfintech.io/payment_providers/endeavour/logo.svg?w=600&c=v0.59.26#w100) |[**Endeavour**](endeavour/)|`endeavour`| 
 |![enets](https://static.openfintech.io/payment_providers/enets/logo.png?w=600&c=v0.59.26#w100) |[**eNETS**](enets/)|`enets`| 
 |![enett](https://static.openfintech.io/payment_providers/enett/logo.svg?w=600&c=v0.59.26#w100) |[**eNett International**](enett/)|`enett`| 
@@ -339,6 +340,7 @@
 |![klarna](https://static.openfintech.io/payment_providers/klarna/logo.svg?w=600&c=v0.59.26#w100) |[**Klarna**](klarna/)|`klarna`| 
 |![klikpay](https://static.openfintech.io/payment_providers/klikpay/logo.png?w=600&c=v0.59.26#w100) |[**Klik & Pay**](klikpay/)|`klikpay`| 
 |![kortapay](https://static.openfintech.io/payment_providers/kortapay/logo.png?w=600&c=v0.59.26#w100) |[**Korta Pay**](kortapay/)|`kortapay`| 
+|![kraft](https://static.openfintech.io/payment_providers/kraft/logo.svg?w=600&c=v0.59.26#w100) |[**Kraft**](kraft/)|`kraft`| 
 |![kuna](https://static.openfintech.io/payment_providers/kuna/logo.svg?w=600&c=v0.59.26#w100) |[**Kuna**](kuna/)|`kuna`| 
 |![kunapay](https://static.openfintech.io/payment_providers/kunapay/logo.svg?w=600&c=v0.59.26#w100) |[**Kuna Pay**](kunapay/)|`kunapay`| 
 || **L** ||
@@ -491,7 +493,7 @@
 |![payonline](https://static.openfintech.io/payment_providers/payonline/logo.png?w=600&c=v0.59.26#w100) |[**PayOnline**](payonline/)|`payonline`| 
 |![payoo](https://static.openfintech.io/payment_providers/payoo/logo.png?w=600&c=v0.59.26#w100) |[**Payoo**](payoo/)|`payoo`| 
 |![paypal](https://static.openfintech.io/payment_providers/paypal/logo.svg?w=600&c=v0.59.26#w100) |[**PayPal**](paypal/)|`paypal`| 
-|![payplay](https://static.openfintech.io/payment_providers/payplay/logo.svg?w=600&c=v0.59.26#w100) |[**PayPlay**](payplay/)|`payplay`| 
+|![payplay](https://static.openfintech.io/payment_providers/payplay/logo.png?w=600&c=v0.59.26#w100) |[**PayPlay**](payplay/)|`payplay`| 
 |![payplug](https://static.openfintech.io/payment_providers/payplug/logo.png?w=600&c=v0.59.26#w100) |[**PayPlug**](payplug/)|`payplug`| 
 |![paypoint](https://static.openfintech.io/payment_providers/paypoint/logo.png?w=600&c=v0.59.26#w100) |[**PayPoint**](paypoint/)|`paypoint`| 
 |![paypound](https://static.openfintech.io/payment_providers/paypound/logo.png?w=600&c=v0.59.26#w100) |[**PayPound**](paypound/)|`paypound`| 

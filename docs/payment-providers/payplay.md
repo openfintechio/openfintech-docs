@@ -1,6 +1,6 @@
 
 # PayPlay 
-![payplay](https://static.openfintech.io/payment_providers/payplay/logo.svg?w=400&c=v0.59.26#w100)  
+![payplay](https://static.openfintech.io/payment_providers/payplay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![payplay](https://static.openfintech.io/payment_providers/payplay/logo.svg?w=400&c=v0.59.26#w100)  
+![payplay](https://static.openfintech.io/payment_providers/payplay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/payplay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/payplay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![payplay](https://static.openfintech.io/payment_providers/payplay/icon.svg?w=278&c=v0.59.26#w100)  
+![payplay](https://static.openfintech.io/payment_providers/payplay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/payplay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/payplay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 

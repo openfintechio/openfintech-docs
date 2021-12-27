@@ -1,6 +1,6 @@
 
 # PayPlay 
-![payplay](https://static.openfintech.io/vendors/payplay/logo.svg?w=400&c=v0.59.26#w200)  
+![payplay](https://static.openfintech.io/vendors/payplay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![payplay](https://static.openfintech.io/vendors/payplay/logo.svg?w=400&c=v0.59.26#w200)  
+![payplay](https://static.openfintech.io/vendors/payplay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/payplay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/payplay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![payplay](https://static.openfintech.io/vendors/payplay/icon.svg?w=278&c=v0.59.26#w100)  
+![payplay](https://static.openfintech.io/vendors/payplay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/payplay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/payplay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 
