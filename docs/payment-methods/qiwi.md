@@ -74,6 +74,7 @@ The list of [Payment Providers](/payment-providers/) that support the _VISA QIWI
 |![kassa](https://static.openfintech.io/payment_providers/kassa/icon.svg?w=278&c=v0.59.26#w100) |[Kassa](/payment-providers/kassa/)|`kassa`| 
 |![mineexchange](https://static.openfintech.io/payment_providers/mineexchange/icon.png?w=278&c=v0.59.26#w100) |[MineExchange](/payment-providers/mineexchange/)|`mineexchange`| 
 |![tome](https://static.openfintech.io/payment_providers/tome/icon.svg?w=278&c=v0.59.26#w100) |[Tome](/payment-providers/tome/)|`tome`| 
+|![betatransfer](https://static.openfintech.io/payment_providers/betatransfer/icon.svg?w=278&c=v0.59.26#w100) |[BetaTransfer](/payment-providers/betatransfer/)|`betatransfer`| 
  
 
 ## JSON Object 
