@@ -1208,6 +1208,7 @@
 |![paymento](https://static.openfintech.io/vendors/paymento/logo.png?w=600&c=v0.59.26#w200) |[**Paymento SA**](paymento/)|`paymento`| 
 |![paymentone](https://static.openfintech.io/vendors/paymentone/logo.png?w=600&c=v0.59.26#w200) |[**PaymentOne**](paymentone/)|`paymentone`| 
 |![paymentoptions](https://static.openfintech.io/vendors/paymentoptions/logo.png?w=600&c=v0.59.26#w200) |[**Payment Options**](paymentoptions/)|`paymentoptions`| 
+|![paymentrush](https://static.openfintech.io/vendors/paymentrush/logo.svg?w=600&c=v0.59.26#w200) |[**Payment Rush**](paymentrush/)|`paymentrush`| 
 |![paymentstrust](https://static.openfintech.io/vendors/paymentstrust/logo.svg?w=600&c=v0.59.26#w200) |[**Payments Trust**](paymentstrust/)|`paymentstrust`| 
 |![paymentus](https://static.openfintech.io/vendors/paymentus/logo.png?w=600&c=v0.59.26#w200) |[**Paymentus**](paymentus/)|`paymentus`| 
 |![paymentusa](https://static.openfintech.io/vendors/paymentusa/logo.png?w=600&c=v0.59.26#w200) |[**PaymentUSA**](paymentusa/)|`paymentusa`| 
