@@ -1292,6 +1292,7 @@
 |![persha_filiya_prat_ufg_u_m_vinnicya](https://static.openfintech.io/vendors/persha_filiya_prat_ufg_u_m_vinnicya/logo.svg?w=600&c=v0.59.26#w200) |[**Перша філія ПрАТ 'Українська фінансова група' у м. Вінниця**](persha_filiya_prat_ufg_u_m_vinnicya/)|`persha_filiya_prat_ufg_u_m_vinnicya`| 
 |![pershij_investicijnij_bank](https://static.openfintech.io/vendors/pershij_investicijnij_bank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'ПЕРШИЙ ІНВЕСТИЦІЙНИЙ БАНК'**](pershij_investicijnij_bank/)|`pershij_investicijnij_bank`| 
 |![piastrix](https://static.openfintech.io/vendors/piastrix/logo.svg?w=600&c=v0.59.26#w200) |[**Piastrix**](piastrix/)|`piastrix`| 
+|![picksell](https://static.openfintech.io/vendors/picksell/logo.png?w=600&c=v0.59.26#w200) |[**Picksell**](picksell/)|`picksell`| 
 |![pingping](https://static.openfintech.io/vendors/pingping/logo.png?w=600&c=v0.59.26#w200) |[**ping.ping**](pingping/)|`pingping`| 
 |![pinpayments](https://static.openfintech.io/vendors/pinpayments/logo.png?w=600&c=v0.59.26#w200) |[**Pin Payments**](pinpayments/)|`pinpayments`| 
 |![pivdennybank](https://static.openfintech.io/vendors/pivdennybank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ АКЦІОНЕРНИЙ БАНК 'ПІВДЕННИЙ'**](pivdennybank/)|`pivdennybank`| 
