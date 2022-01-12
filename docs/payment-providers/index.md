@@ -110,6 +110,7 @@
 |![cardinalcommerce](https://static.openfintech.io/payment_providers/cardinalcommerce/logo.svg?w=600&c=v0.59.26#w100) |[**CardinalCommerce**](cardinalcommerce/)|`cardinalcommerce`| 
 |![cardinity](https://static.openfintech.io/payment_providers/cardinity/logo.png?w=600&c=v0.59.26#w100) |[**Cardinity**](cardinity/)|`cardinity`| 
 |![cardpay](https://static.openfintech.io/payment_providers/cardpay/logo.svg?w=600&c=v0.59.26#w100) |[**Unlimint**](cardpay/)|`cardpay`| 
+|![cards2cards](https://static.openfintech.io/payment_providers/cards2cards/logo.png?w=600&c=v0.59.26#w100) |[**cards2cards**](cards2cards/)|`cards2cards`| 
 |![cardsave](https://static.openfintech.io/payment_providers/cardsave/logo.svg?w=600&c=v0.59.26#w100) |[**Cardsave**](cardsave/)|`cardsave`| 
 |![cardstreamlimited](https://static.openfintech.io/payment_providers/cardstreamlimited/logo.png?w=600&c=v0.59.26#w100) |[**Cardstream**](cardstreamlimited/)|`cardstreamlimited`| 
 |![cashflows](https://static.openfintech.io/payment_providers/cashflows/logo.png?w=600&c=v0.59.26#w100) |[**CashFlows**](cashflows/)|`cashflows`| 
@@ -308,6 +309,7 @@
 |![imglobalpayments](https://static.openfintech.io/payment_providers/imglobalpayments/logo.png?w=600&c=v0.59.26#w100) |[**ImGlobal Payments**](imglobalpayments/)|`imglobalpayments`| 
 |![inatecpayment](https://static.openfintech.io/payment_providers/inatecpayment/logo.png?w=600&c=v0.59.26#w100) |[**Inatec Payment**](inatecpayment/)|`inatecpayment`| 
 |![indiapay](https://static.openfintech.io/payment_providers/indiapay/logo.png?w=600&c=v0.59.26#w100) |[**IndiaPay**](indiapay/)|`indiapay`| 
+|![infotrend](https://static.openfintech.io/payment_providers/infotrend/logo.png?w=600&c=v0.59.26#w100) |[**Infotrend**](infotrend/)|`infotrend`| 
 |![ingbankpl](https://static.openfintech.io/payment_providers/ingbankpl/logo.svg?w=600&c=v0.59.26#w100) |[**ING Bank Poland**](ingbankpl/)|`ingbankpl`| 
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/logo.png?w=600&c=v0.59.26#w100) |[**Ingenico ePayments**](ingenicopaymentservices/)|`ingenicopaymentservices`| 
 |![innovatepayments](https://static.openfintech.io/payment_providers/innovatepayments/logo.png?w=600&c=v0.59.26#w100) |[**Innovate Payments**](innovatepayments/)|`innovatepayments`| 

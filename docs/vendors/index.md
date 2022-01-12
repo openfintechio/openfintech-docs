@@ -291,6 +291,7 @@
 |![cardinalcommerce](https://static.openfintech.io/vendors/cardinalcommerce/logo.png?w=600&c=v0.59.26#w200) |[**CardinalCommerce**](cardinalcommerce/)|`cardinalcommerce`| 
 |![cardinity](https://static.openfintech.io/vendors/cardinity/logo.png?w=600&c=v0.59.26#w200) |[**Cardinity**](cardinity/)|`cardinity`| 
 |![cardpay](https://static.openfintech.io/vendors/cardpay/logo.svg?w=600&c=v0.59.26#w200) |[**Unlimint**](cardpay/)|`cardpay`| 
+|![cards2cards](https://static.openfintech.io/vendors/cards2cards/logo.png?w=600&c=v0.59.26#w200) |[**cards2cards**](cards2cards/)|`cards2cards`| 
 |![cardsave](https://static.openfintech.io/vendors/cardsave/logo.png?w=600&c=v0.59.26#w200) |[**Cardsave**](cardsave/)|`cardsave`| 
 |![cardstreamlimited](https://static.openfintech.io/vendors/cardstreamlimited/logo.png?w=600&c=v0.59.26#w200) |[**Cardstream**](cardstreamlimited/)|`cardstreamlimited`| 
 |![cardworldpayments](https://static.openfintech.io/vendors/cardworldpayments/logo.png?w=600&c=v0.59.26#w200) |[**Card World Payments**](cardworldpayments/)|`cardworldpayments`| 
@@ -747,6 +748,7 @@
 |![inatecpayment](https://static.openfintech.io/vendors/inatecpayment/logo.png?w=600&c=v0.59.26#w200) |[**Inatec Payment**](inatecpayment/)|`inatecpayment`| 
 |![incash24](https://static.openfintech.io/vendors/incash24/logo.svg?w=600&c=v0.59.26#w200) |[**www.incash24.com**](incash24/)|`incash24`| 
 |![indiapay](https://static.openfintech.io/vendors/indiapay/logo.png?w=600&c=v0.59.26#w200) |[**IndiaPay**](indiapay/)|`indiapay`| 
+|![infotrend](https://static.openfintech.io/vendors/infotrend/logo.png?w=600&c=v0.59.26#w200) |[**Infotrend**](infotrend/)|`infotrend`| 
 |![ingenicopaymentservices](https://static.openfintech.io/vendors/ingenicopaymentservices/logo.png?w=600&c=v0.59.26#w200) |[**Ingenico ePayments**](ingenicopaymentservices/)|`ingenicopaymentservices`| 
 |![inghomepay](https://static.openfintech.io/vendors/inghomepay/logo.png?w=600&c=v0.59.26#w200) |[**Home'Pay**](inghomepay/)|`inghomepay`| 
 |![ingspain](https://static.openfintech.io/vendors/ingspain/logo.png?w=600&c=v0.59.26#w200) |[**ING Bank \| Spain**](ingspain/)|`ingspain`| 
