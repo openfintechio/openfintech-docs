@@ -156,6 +156,7 @@
 |![concord](https://static.openfintech.io/payment_providers/concord/logo.svg?w=600&c=v0.59.26#w100) |[**Concord Bank**](concord/)|`concord`| 
 |![concordpay](https://static.openfintech.io/payment_providers/concordpay/logo.png?w=600&c=v0.59.26#w100) |[**Concord Pay**](concordpay/)|`concordpay`| 
 |![connectum](https://static.openfintech.io/payment_providers/connectum/logo.svg?w=600&c=v0.59.26#w100) |[**Connectum**](connectum/)|`connectum`| 
+|![connpay](https://static.openfintech.io/payment_providers/connpay/logo.png?w=600&c=v0.59.26#w100) |[**ConnPay**](connpay/)|`connpay`| 
 |![constantpos](https://static.openfintech.io/payment_providers/constantpos/logo.svg?w=600&c=v0.59.26#w100) |[**Constantpos**](constantpos/)|`constantpos`| 
 |![corvuspay](https://static.openfintech.io/payment_providers/corvuspay/logo.svg?w=600&c=v0.59.26#w100) |[**CorvusPay**](corvuspay/)|`corvuspay`| 
 |![creditcall](https://static.openfintech.io/payment_providers/creditcall/logo.svg?w=600&c=v0.59.26#w100) |[**Creditcall**](creditcall/)|`creditcall`| 

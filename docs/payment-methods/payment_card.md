@@ -280,6 +280,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![payelata](https://static.openfintech.io/payment_providers/payelata/icon.svg?w=278&c=v0.59.26#w100) |[Payelata](/payment-providers/payelata/)|`payelata`| 
 |![payassist](https://static.openfintech.io/payment_providers/payassist/icon.png?w=278&c=v0.59.26#w100) |[PayAssist](/payment-providers/payassist/)|`payassist`| 
 |![infotrend](https://static.openfintech.io/payment_providers/infotrend/icon.png?w=278&c=v0.59.26#w100) |[Infotrend](/payment-providers/infotrend/)|`infotrend`| 
+|![connpay](https://static.openfintech.io/payment_providers/connpay/icon.png?w=278&c=v0.59.26#w100) |[ConnPay](/payment-providers/connpay/)|`connpay`| 
  
 
 ## JSON Object 
