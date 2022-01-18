@@ -756,6 +756,7 @@
 |![innovatepayments](https://static.openfintech.io/vendors/innovatepayments/logo.png?w=600&c=v0.59.26#w200) |[**Innovate Payments**](innovatepayments/)|`innovatepayments`| 
 |![inpay](https://static.openfintech.io/vendors/inpay/logo.png?w=600&c=v0.59.26#w200) |[**inpay**](inpay/)|`inpay`| 
 |![inpendium](https://static.openfintech.io/vendors/inpendium/logo.png?w=600&c=v0.59.26#w200) |[**Inpendium**](inpendium/)|`inpendium`| 
+|![inqud](https://static.openfintech.io/vendors/inqud/logo.svg?w=600&c=v0.59.26#w200) |[**Inqud**](inqud/)|`inqud`| 
 |![instabill](https://static.openfintech.io/vendors/instabill/logo.png?w=600&c=v0.59.26#w200) |[**Instabill**](instabill/)|`instabill`| 
 |![integrapay](https://static.openfintech.io/vendors/integrapay/logo.png?w=600&c=v0.59.26#w200) |[**Integrapay**](integrapay/)|`integrapay`| 
 |![inteligo](https://static.openfintech.io/vendors/inteligo/logo.png?w=600&c=v0.59.26#w200) |[**Inteligo**](inteligo/)|`inteligo`| 

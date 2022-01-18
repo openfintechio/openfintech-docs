@@ -315,6 +315,7 @@
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/logo.png?w=600&c=v0.59.26#w100) |[**Ingenico ePayments**](ingenicopaymentservices/)|`ingenicopaymentservices`| 
 |![innovatepayments](https://static.openfintech.io/payment_providers/innovatepayments/logo.png?w=600&c=v0.59.26#w100) |[**Innovate Payments**](innovatepayments/)|`innovatepayments`| 
 |![inpendium](https://static.openfintech.io/payment_providers/inpendium/logo.png?w=600&c=v0.59.26#w100) |[**Inpendium**](inpendium/)|`inpendium`| 
+|![inqud](https://static.openfintech.io/payment_providers/inqud/logo.svg?w=600&c=v0.59.26#w100) |[**Inqud**](inqud/)|`inqud`| 
 |![instabill](https://static.openfintech.io/payment_providers/instabill/logo.png?w=600&c=v0.59.26#w100) |[**Instabill**](instabill/)|`instabill`| 
 |![integrapay](https://static.openfintech.io/payment_providers/integrapay/logo.png?w=600&c=v0.59.26#w100) |[**Integrapay**](integrapay/)|`integrapay`| 
 |![intelligentpayments](https://static.openfintech.io/payment_providers/intelligentpayments/logo.png?w=600&c=v0.59.26#w100) |[**Intelligent Payments**](intelligentpayments/)|`intelligentpayments`| 
