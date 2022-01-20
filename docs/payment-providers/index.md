@@ -515,6 +515,7 @@
 |![paysimple](https://static.openfintech.io/payment_providers/paysimple/logo.svg?w=600&c=v0.59.26#w100) |[**PaySimple**](paysimple/)|`paysimple`| 
 |![paysitecash](https://static.openfintech.io/payment_providers/paysitecash/logo.png?w=600&c=v0.59.26#w100) |[**Paysite-cash**](paysitecash/)|`paysitecash`| 
 |![paysoft](https://static.openfintech.io/payment_providers/paysoft/logo.png?w=600&c=v0.59.26#w100) |[**PaySoft Inc.**](paysoft/)|`paysoft`| 
+|![paysoftsolutions](https://static.openfintech.io/payment_providers/paysoftsolutions/logo.png?w=600&c=v0.59.26#w100) |[**PaySoft Solutions**](paysoftsolutions/)|`paysoftsolutions`| 
 |![payspace](https://static.openfintech.io/payment_providers/payspace/logo.png?w=600&c=v0.59.26#w100) |[**PaySpace**](payspace/)|`payspace`| 
 |![paysquare](https://static.openfintech.io/payment_providers/paysquare/logo.png?w=600&c=v0.59.26#w100) |[**PaySquare**](paysquare/)|`paysquare`| 
 |![payssion](https://static.openfintech.io/payment_providers/payssion/logo.png?w=600&c=v0.59.26#w100) |[**Payssion**](payssion/)|`payssion`| 

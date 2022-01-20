@@ -1253,6 +1253,7 @@
 |![payshop](https://static.openfintech.io/vendors/payshop/logo.png?w=600&c=v0.59.26#w200) |[**Payshop**](payshop/)|`payshop`| 
 |![paysimple](https://static.openfintech.io/vendors/paysimple/logo.svg?w=600&c=v0.59.26#w200) |[**PaySimple**](paysimple/)|`paysimple`| 
 |![paysitecash](https://static.openfintech.io/vendors/paysitecash/logo.png?w=600&c=v0.59.26#w200) |[**Paysite-cash**](paysitecash/)|`paysitecash`| 
+|![paysoftsolutions](https://static.openfintech.io/vendors/paysoftsolutions/logo.png?w=600&c=v0.59.26#w200) |[**PaySoft Solutions**](paysoftsolutions/)|`paysoftsolutions`| 
 |![payspace](https://static.openfintech.io/vendors/payspace/logo.png?w=600&c=v0.59.26#w200) |[**PaySpace**](payspace/)|`payspace`| 
 |![paysquare](https://static.openfintech.io/vendors/paysquare/logo.png?w=600&c=v0.59.26#w200) |[**PaySquare**](paysquare/)|`paysquare`| 
 |![payssion](https://static.openfintech.io/vendors/payssion/logo.png?w=600&c=v0.59.26#w200) |[**Payssion**](payssion/)|`payssion`| 
