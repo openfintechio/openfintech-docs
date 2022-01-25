@@ -475,6 +475,8 @@
 |![Tele2](https://static.openfintech.io/payment_methods/tele2ru/logo.svg?w=400&c=v0.59.26#w200) |[**Tele2**](/payment-methods/tele2ru/)|[`tele2ru_rub_hpp`](tele2ru_rub_hpp/)| 
 |![Tele2](https://static.openfintech.io/payment_methods/tele2ru/logo.svg?w=400&c=v0.59.26#w200) |[**Tele2**](/payment-methods/tele2ru/)|[`tele2ru_rub_invoice`](tele2ru_rub_invoice/)| 
 |![Terminals RF](https://static.openfintech.io/payment_methods/terminal_rf/logo.svg?w=400&c=v0.59.26#w200) |[**Terminals RF**](/payment-methods/terminal_rf/)|[`terminal_rf_rub_hpp`](terminal_rf_rub_hpp/)| 
+|![Test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200) |[**Test**](/payment-methods/test/)|[`test_btc_test`](test_btc_test/)| 
+|![Test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200) |[**Test**](/payment-methods/test/)|[`test_eth_test`](test_eth_test/)| 
 |![Test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200) |[**Test**](/payment-methods/test/)|[`test_eur_test`](test_eur_test/)| 
 |![Test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200) |[**Test**](/payment-methods/test/)|[`test_uah_test`](test_uah_test/)| 
 |![Test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200) |[**Test**](/payment-methods/test/)|[`test_usd_test`](test_usd_test/)| 

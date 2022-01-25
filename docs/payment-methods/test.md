@@ -40,6 +40,8 @@ The list of [Payment Services](/payment-services/) based on the _Test_
 |![test](https://static.openfintech.io/payment_methods/test/icon.svg?w=278&c=v0.59.26#w100) |[test_uah_test](/payment-services/test_uah_test/)|`test_uah_test`| 
 |![test](https://static.openfintech.io/payment_methods/test/icon.svg?w=278&c=v0.59.26#w100) |[test_usd_test](/payment-services/test_usd_test/)|`test_usd_test`| 
 |![test](https://static.openfintech.io/payment_methods/test/icon.svg?w=278&c=v0.59.26#w100) |[test_eur_test](/payment-services/test_eur_test/)|`test_eur_test`| 
+|![test](https://static.openfintech.io/payment_methods/test/icon.svg?w=278&c=v0.59.26#w100) |[test_btc_test](/payment-services/test_btc_test/)|`test_btc_test`| 
+|![test](https://static.openfintech.io/payment_methods/test/icon.svg?w=278&c=v0.59.26#w100) |[test_eth_test](/payment-services/test_eth_test/)|`test_eth_test`| 
  
 
 ## Payment Providers 

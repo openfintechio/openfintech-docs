@@ -42,6 +42,8 @@ The list of [Payout Services](/payout-services/) based on the _Test_
 |![test](https://static.openfintech.io/payout_methods/test/icon.svg?w=278&c=v0.59.26#w40) |[test_rub](/payout-services/test_rub/)|`test_rub`| 
 |![test](https://static.openfintech.io/payout_methods/test/icon.svg?w=278&c=v0.59.26#w40) |[test_xts](/payout-services/test_xts/)|`test_xts`| 
 |![test](https://static.openfintech.io/payout_methods/test/icon.svg?w=278&c=v0.59.26#w40) |[test_gbp](/payout-services/test_gbp/)|`test_gbp`| 
+|![test](https://static.openfintech.io/payout_methods/test/icon.svg?w=278&c=v0.59.26#w40) |[test_btc](/payout-services/test_btc/)|`test_btc`| 
+|![test](https://static.openfintech.io/payout_methods/test/icon.svg?w=278&c=v0.59.26#w40) |[test_eth](/payout-services/test_eth/)|`test_eth`| 
  
 
 ## Payment Providers 

@@ -378,6 +378,7 @@
 |![molpay](https://static.openfintech.io/payment_providers/molpay/logo.png?w=600&c=v0.59.26#w100) |[**MOLPay**](molpay/)|`molpay`| 
 |![mondido](https://static.openfintech.io/payment_providers/mondido/logo.png?w=600&c=v0.59.26#w100) |[**Mondido**](mondido/)|`mondido`| 
 |![monetaru](https://static.openfintech.io/payment_providers/monetaru/logo.png?w=600&c=v0.59.26#w100) |[**Moneta.RU**](monetaru/)|`monetaru`| 
+|![monetix](https://static.openfintech.io/payment_providers/monetix/logo.png?w=600&c=v0.59.26#w100) |[**Monetix**](monetix/)|`monetix`| 
 |![moneymovers](https://static.openfintech.io/payment_providers/moneymovers/logo.svg?w=600&c=v0.59.26#w100) |[**MoneyMovers**](moneymovers/)|`moneymovers`| 
 |![moneypay](https://static.openfintech.io/payment_providers/moneypay/logo.png?w=600&c=v0.59.26#w100) |[**MoneyPay**](moneypay/)|`moneypay`| 
 |![mopay](https://static.openfintech.io/payment_providers/mopay/logo.png?w=600&c=v0.59.26#w100) |[**mopay**](mopay/)|`mopay`| 
@@ -420,6 +421,7 @@
 |![oonex](https://static.openfintech.io/payment_providers/oonex/logo.png?w=600&c=v0.59.26#w100) |[**Oonex**](oonex/)|`oonex`| 
 |![opay](https://static.openfintech.io/payment_providers/opay/logo.svg?w=600&c=v0.59.26#w100) |[**OPay**](opay/)|`opay`| 
 |![oplata](https://static.openfintech.io/payment_providers/oplata/logo.png?w=600&c=v0.59.26#w100) |[**Oplata.com**](oplata/)|`oplata`| 
+|![oppey](https://static.openfintech.io/payment_providers/oppey/logo.svg?w=600&c=v0.59.26#w100) |[**Oppey**](oppey/)|`oppey`| 
 |![optile](https://static.openfintech.io/payment_providers/optile/logo.png?w=600&c=v0.59.26#w100) |[**Optile**](optile/)|`optile`| 
 |![optimalpayments](https://static.openfintech.io/payment_providers/optimalpayments/logo.png?w=600&c=v0.59.26#w100) |[**Paysafe**](optimalpayments/)|`optimalpayments`| 
 |![optomany](https://static.openfintech.io/payment_providers/optomany/logo.png?w=600&c=v0.59.26#w100) |[**Optomany**](optomany/)|`optomany`| 
@@ -429,6 +431,7 @@
 |![paddle](https://static.openfintech.io/payment_providers/paddle/logo.png?w=600&c=v0.59.26#w100) |[**Paddle**](paddle/)|`paddle`| 
 |![pagantis](https://static.openfintech.io/payment_providers/pagantis/logo.png?w=600&c=v0.59.26#w100) |[**Pagantis**](pagantis/)|`pagantis`| 
 |![pagbrasil](https://static.openfintech.io/payment_providers/pagbrasil/logo.png?w=600&c=v0.59.26#w100) |[**PagBrasil**](pagbrasil/)|`pagbrasil`| 
+|![pandigitalnetwork](https://static.openfintech.io/payment_providers/pandigitalnetwork/logo.png?w=600&c=v0.59.26#w100) |[**Pan Digital Network**](pandigitalnetwork/)|`pandigitalnetwork`| 
 |![parallelpayments](https://static.openfintech.io/payment_providers/parallelpayments/logo.png?w=600&c=v0.59.26#w100) |[**Parallel Payments**](parallelpayments/)|`parallelpayments`| 
 |![parimatch](https://static.openfintech.io/payment_providers/parimatch/logo.svg?w=600&c=v0.59.26#w100) |[**Parimatch**](parimatch/)|`parimatch`| 
 |![pay2kassa](https://static.openfintech.io/payment_providers/pay2kassa/logo.svg?w=600&c=v0.59.26#w100) |[**Pay2Kassa**](pay2kassa/)|`pay2kassa`| 

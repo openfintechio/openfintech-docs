@@ -896,6 +896,7 @@
 |![mondido](https://static.openfintech.io/vendors/mondido/logo.png?w=600&c=v0.59.26#w200) |[**Mondido**](mondido/)|`mondido`| 
 |![moneta](https://static.openfintech.io/vendors/moneta/logo.png?w=600&c=v0.59.26#w200) |[**Moneta**](moneta/)|`moneta`| 
 |![monetaru](https://static.openfintech.io/vendors/monetaru/logo.png?w=600&c=v0.59.26#w200) |[**Moneta.RU**](monetaru/)|`monetaru`| 
+|![monetix](https://static.openfintech.io/vendors/monetix/logo.png?w=600&c=v0.59.26#w200) |[**Monetix**](monetix/)|`monetix`| 
 |![money-exchange.ua](https://static.openfintech.io/vendors/money-exchange.ua/logo.svg?w=600&c=v0.59.26#w200) |[**Money-Exchange**](money-exchange.ua/)|`money-exchange.ua`| 
 |![moneycat.biz](https://static.openfintech.io/vendors/moneycat.biz/logo.png?w=600&c=v0.59.26#w200) |[**moneycat.biz**](moneycat.biz/)|`moneycat.biz`| 
 |![moneygram](https://static.openfintech.io/vendors/moneygram/logo.svg?w=600&c=v0.59.26#w200) |[**MoneyGram**](moneygram/)|`moneygram`| 
@@ -1001,6 +1002,7 @@
 |![oonex](https://static.openfintech.io/vendors/oonex/logo.png?w=600&c=v0.59.26#w200) |[**Oonex**](oonex/)|`oonex`| 
 |![opay](https://static.openfintech.io/vendors/opay/logo.svg?w=600&c=v0.59.26#w200) |[**OPay**](opay/)|`opay`| 
 |![oplata](https://static.openfintech.io/vendors/oplata/logo.png?w=600&c=v0.59.26#w200) |[**Oplata.com**](oplata/)|`oplata`| 
+|![oppey](https://static.openfintech.io/vendors/oppey/logo.svg?w=600&c=v0.59.26#w200) |[**Oppey**](oppey/)|`oppey`| 
 |![oppohjola](https://static.openfintech.io/vendors/oppohjola/logo.png?w=600&c=v0.59.26#w200) |[**OP-Pohjola**](oppohjola/)|`oppohjola`| 
 |![optile](https://static.openfintech.io/vendors/optile/logo.png?w=600&c=v0.59.26#w200) |[**Optile**](optile/)|`optile`| 
 |![optimalpayments](https://static.openfintech.io/vendors/optimalpayments/logo.png?w=600&c=v0.59.26#w200) |[**Paysafe**](optimalpayments/)|`optimalpayments`| 
@@ -1022,6 +1024,7 @@
 |![pagofacil](https://static.openfintech.io/vendors/pagofacil/logo.png?w=600&c=v0.59.26#w200) |[**Pagofacil**](pagofacil/)|`pagofacil`| 
 |![pagorapido](https://static.openfintech.io/vendors/pagorapido/logo.png?w=600&c=v0.59.26#w200) |[**PagoRapido**](pagorapido/)|`pagorapido`| 
 |![pagseguro](https://static.openfintech.io/vendors/pagseguro/logo.png?w=600&c=v0.59.26#w200) |[**PagSeguro**](pagseguro/)|`pagseguro`| 
+|![pandigitalnetwork](https://static.openfintech.io/vendors/pandigitalnetwork/logo.png?w=600&c=v0.59.26#w200) |[**Pan Digital Network**](pandigitalnetwork/)|`pandigitalnetwork`| 
 |![papaya](https://static.openfintech.io/vendors/papaya/logo.png?w=600&c=v0.59.26#w200) |[**Papaya**](papaya/)|`papaya`| 
 |![papercheck](https://static.openfintech.io/vendors/papercheck/logo.png?w=600&c=v0.59.26#w200) |[**Paper Check**](papercheck/)|`papercheck`| 
 |![parallelpayments](https://static.openfintech.io/vendors/parallelpayments/logo.png?w=600&c=v0.59.26#w200) |[**Parallel Payments**](parallelpayments/)|`parallelpayments`| 
