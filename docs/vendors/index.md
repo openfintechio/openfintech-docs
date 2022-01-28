@@ -606,6 +606,7 @@
 |![filspay](https://static.openfintech.io/vendors/filspay/logo.png?w=600&c=v0.59.26#w200) |[**FilsPay**](filspay/)|`filspay`| 
 |![fireballpsp](https://static.openfintech.io/vendors/fireballpsp/logo.png?w=600&c=v0.59.26#w200) |[**Fireball PSP**](fireballpsp/)|`fireballpsp`| 
 |![firstatlanticcommerce](https://static.openfintech.io/vendors/firstatlanticcommerce/logo.png?w=600&c=v0.59.26#w200) |[**First Atlantic Commerce**](firstatlanticcommerce/)|`firstatlanticcommerce`| 
+|![firstatlanticcommerce](https://static.openfintech.io/vendors/firstatlanticcommerce/logo.png?w=600&c=v0.59.26#w200) |[**First Atlantic Commerce**](firstatlanticcommerce/)|`firstatlanticcommerce`| 
 |![firstdatamerchantsolutions](https://static.openfintech.io/vendors/firstdatamerchantsolutions/logo.svg?w=600&c=v0.59.26#w200) |[**First Data Merchant Services**](firstdatamerchantsolutions/)|`firstdatamerchantsolutions`| 
 |![firstglobalbilling](https://static.openfintech.io/vendors/firstglobalbilling/logo.png?w=600&c=v0.59.26#w200) |[**First Global Billing**](firstglobalbilling/)|`firstglobalbilling`| 
 |![fivano_frankivske_atoshadb_m_ivano_fr](https://static.openfintech.io/vendors/fivano_frankivske_atoshadb_m_ivano_fr/logo.svg?w=600&c=v0.59.26#w200) |[**Філія - Івано-Франківське обласне управління публічного акціонерного  товариства 'Державний ощадний банк 'України'**](fivano_frankivske_atoshadb_m_ivano_fr/)|`fivano_frankivske_atoshadb_m_ivano_fr`| 

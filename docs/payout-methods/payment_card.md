@@ -283,6 +283,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
 |![pandigitalnetwork](https://static.openfintech.io/payment_providers/pandigitalnetwork/icon.png?w=278&c=v0.59.26#w100) |[Pan Digital Network](/payment-providers/pandigitalnetwork/)|`pandigitalnetwork`| 
 |![oppey](https://static.openfintech.io/payment_providers/oppey/icon.svg?w=278&c=v0.59.26#w100) |[Oppey](/payment-providers/oppey/)|`oppey`| 
+|![firstatlanticcommerce](https://static.openfintech.io/payment_providers/firstatlanticcommerce/icon.png?w=278&c=v0.59.26#w100) |[First Atlantic Commerce](/payment-providers/firstatlanticcommerce/)|`firstatlanticcommerce`| 
  
 
 ## JSON Object 

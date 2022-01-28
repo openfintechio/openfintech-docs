@@ -254,6 +254,7 @@
 |![filspay](https://static.openfintech.io/payment_providers/filspay/logo.png?w=600&c=v0.59.26#w100) |[**FilsPay**](filspay/)|`filspay`| 
 |![fireballpsp](https://static.openfintech.io/payment_providers/fireballpsp/logo.svg?w=600&c=v0.59.26#w100) |[**Fireball PSP**](fireballpsp/)|`fireballpsp`| 
 |![firstatlanticcommerce](https://static.openfintech.io/payment_providers/firstatlanticcommerce/logo.png?w=600&c=v0.59.26#w100) |[**First Atlantic Commerce**](firstatlanticcommerce/)|`firstatlanticcommerce`| 
+|![firstatlanticcommerce](https://static.openfintech.io/payment_providers/firstatlanticcommerce/logo.png?w=600&c=v0.59.26#w100) |[**First Atlantic Commerce**](firstatlanticcommerce/)|`firstatlanticcommerce`| 
 |![firstdatamerchantsolutions](https://static.openfintech.io/payment_providers/firstdatamerchantsolutions/logo.svg?w=600&c=v0.59.26#w100) |[**First Data Merchant Services**](firstdatamerchantsolutions/)|`firstdatamerchantsolutions`| 
 |![firstglobalbilling](https://static.openfintech.io/payment_providers/firstglobalbilling/logo.png?w=600&c=v0.59.26#w100) |[**First Global Billing**](firstglobalbilling/)|`firstglobalbilling`| 
 |![flashpay](https://static.openfintech.io/payment_providers/flashpay/logo.png?w=600&c=v0.59.26#w100) |[**FlashPay**](flashpay/)|`flashpay`| 
