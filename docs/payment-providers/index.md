@@ -159,6 +159,7 @@
 |![connpay](https://static.openfintech.io/payment_providers/connpay/logo.png?w=600&c=v0.59.26#w100) |[**ConnPay**](connpay/)|`connpay`| 
 |![constantpos](https://static.openfintech.io/payment_providers/constantpos/logo.svg?w=600&c=v0.59.26#w100) |[**Constantpos**](constantpos/)|`constantpos`| 
 |![corvuspay](https://static.openfintech.io/payment_providers/corvuspay/logo.svg?w=600&c=v0.59.26#w100) |[**CorvusPay**](corvuspay/)|`corvuspay`| 
+|![cps](https://static.openfintech.io/payment_providers/cps/logo.svg?w=600&c=v0.59.26#w100) |[**CPS**](cps/)|`cps`| 
 |![creditcall](https://static.openfintech.io/payment_providers/creditcall/logo.svg?w=600&c=v0.59.26#w100) |[**Creditcall**](creditcall/)|`creditcall`| 
 |![credorax](https://static.openfintech.io/payment_providers/credorax/logo.png?w=600&c=v0.59.26#w100) |[**Credorax**](credorax/)|`credorax`| 
 |![crosspay](https://static.openfintech.io/payment_providers/crosspay/logo.png?w=600&c=v0.59.26#w100) |[**CrossPay**](crosspay/)|`crosspay`| 
@@ -418,6 +419,7 @@
 |![omnipayment](https://static.openfintech.io/payment_providers/omnipayment/logo.png?w=600&c=v0.59.26#w100) |[**OmniPayment**](omnipayment/)|`omnipayment`| 
 |![onepay](https://static.openfintech.io/payment_providers/onepay/logo.png?w=600&c=v0.59.26#w100) |[**OnePAY**](onepay/)|`onepay`| 
 |![onestopmoneymanager](https://static.openfintech.io/payment_providers/onestopmoneymanager/logo.png?w=600&c=v0.59.26#w100) |[**Onestopmoneymanager Ltd**](onestopmoneymanager/)|`onestopmoneymanager`| 
+|![onlineips](https://static.openfintech.io/payment_providers/onlineips/logo.png?w=600&c=v0.59.26#w100) |[**Online IPS**](onlineips/)|`onlineips`| 
 |![onpex](https://static.openfintech.io/payment_providers/onpex/logo.png?w=600&c=v0.59.26#w100) |[**ONPEX**](onpex/)|`onpex`| 
 |![oonex](https://static.openfintech.io/payment_providers/oonex/logo.png?w=600&c=v0.59.26#w100) |[**Oonex**](oonex/)|`oonex`| 
 |![opay](https://static.openfintech.io/payment_providers/opay/logo.svg?w=600&c=v0.59.26#w100) |[**OPay**](opay/)|`opay`| 

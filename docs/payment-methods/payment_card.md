@@ -287,6 +287,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![pandigitalnetwork](https://static.openfintech.io/payment_providers/pandigitalnetwork/icon.png?w=278&c=v0.59.26#w100) |[Pan Digital Network](/payment-providers/pandigitalnetwork/)|`pandigitalnetwork`| 
 |![oppey](https://static.openfintech.io/payment_providers/oppey/icon.svg?w=278&c=v0.59.26#w100) |[Oppey](/payment-providers/oppey/)|`oppey`| 
 |![firstatlanticcommerce](https://static.openfintech.io/payment_providers/firstatlanticcommerce/icon.png?w=278&c=v0.59.26#w100) |[First Atlantic Commerce](/payment-providers/firstatlanticcommerce/)|`firstatlanticcommerce`| 
+|![cps](https://static.openfintech.io/payment_providers/cps/icon.svg?w=278&c=v0.59.26#w100) |[CPS](/payment-providers/cps/)|`cps`| 
+|![onlineips](https://static.openfintech.io/payment_providers/onlineips/icon.png?w=278&c=v0.59.26#w100) |[Online IPS](/payment-providers/onlineips/)|`onlineips`| 
  
 
 ## JSON Object 

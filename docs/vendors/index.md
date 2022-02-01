@@ -380,6 +380,7 @@
 |![constantpos](https://static.openfintech.io/vendors/constantpos/logo.svg?w=600&c=v0.59.26#w200) |[**Constantpos**](constantpos/)|`constantpos`| 
 |![conversebank](https://static.openfintech.io/vendors/conversebank/logo.svg?w=600&c=v0.59.26#w200) |[**Converse Bank**](conversebank/)|`conversebank`| 
 |![corvuspay](https://static.openfintech.io/vendors/corvuspay/logo.png?w=600&c=v0.59.26#w200) |[**CorvusPay**](corvuspay/)|`corvuspay`| 
+|![cps](https://static.openfintech.io/vendors/cps/logo.png?w=600&c=v0.59.26#w200) |[**CPS**](cps/)|`cps`| 
 |![creditagricole](https://static.openfintech.io/vendors/creditagricole/logo.png?w=600&c=v0.59.26#w200) |[**Crédit Agricole**](creditagricole/)|`creditagricole`| 
 |![creditcall](https://static.openfintech.io/vendors/creditcall/logo.png?w=600&c=v0.59.26#w200) |[**Creditcall**](creditcall/)|`creditcall`| 
 |![credorax](https://static.openfintech.io/vendors/credorax/logo.png?w=600&c=v0.59.26#w200) |[**Credorax**](credorax/)|`credorax`| 
@@ -996,6 +997,7 @@
 |![onestopmoneymanager](https://static.openfintech.io/vendors/onestopmoneymanager/logo.png?w=600&c=v0.59.26#w200) |[**Onestopmoneymanager Ltd**](onestopmoneymanager/)|`onestopmoneymanager`| 
 |![onlinebanktransfer](https://static.openfintech.io/vendors/onlinebanktransfer/logo.svg?w=600&c=v0.59.26#w200) |[**Online Bank Transfer**](onlinebanktransfer/)|`onlinebanktransfer`| 
 |![onlinechange](https://static.openfintech.io/vendors/onlinechange/logo.svg?w=600&c=v0.59.26#w200) |[**OnlineChange**](onlinechange/)|`onlinechange`| 
+|![onlineips](https://static.openfintech.io/vendors/onlineips/logo.png?w=600&c=v0.59.26#w200) |[**Online IPS**](onlineips/)|`onlineips`| 
 |![onlinenaira](https://static.openfintech.io/vendors/onlinenaira/logo.png?w=600&c=v0.59.26#w200) |[**OnlineNaira**](onlinenaira/)|`onlinenaira`| 
 |![onlymoney](https://static.openfintech.io/vendors/onlymoney/logo.svg?w=600&c=v0.59.26#w200) |[**OnlyMoney**](onlymoney/)|`onlymoney`| 
 |![onpex](https://static.openfintech.io/vendors/onpex/logo.png?w=600&c=v0.59.26#w200) |[**ONPEX**](onpex/)|`onpex`| 
