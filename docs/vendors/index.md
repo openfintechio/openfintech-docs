@@ -221,6 +221,7 @@
 |![belarusbank](https://static.openfintech.io/vendors/belarusbank/logo.svg?w=600&c=v0.59.26#w200) |[**Беларусбанк**](belarusbank/)|`belarusbank`| 
 |![belfiusdirectnet](https://static.openfintech.io/vendors/belfiusdirectnet/logo.png?w=600&c=v0.59.26#w200) |[**Belfius DirectNet**](belfiusdirectnet/)|`belfiusdirectnet`| 
 |![belkapay](https://static.openfintech.io/vendors/belkapay/logo.svg?w=600&c=v0.59.26#w200) |[**belkapay.com**](belkapay/)|`belkapay`| 
+|![beonpay](https://static.openfintech.io/vendors/beonpay/logo.png?w=600&c=v0.59.26#w200) |[**BeonPay**](beonpay/)|`beonpay`| 
 |![best-obmen](https://static.openfintech.io/vendors/best-obmen/logo.png?w=600&c=v0.59.26#w200) |[**best-obmen**](best-obmen/)|`best-obmen`| 
 |![bestcoin.cc](https://static.openfintech.io/vendors/bestcoin.cc/logo.svg?w=600&c=v0.59.26#w200) |[**bestcoin.cc**](bestcoin.cc/)|`bestcoin.cc`| 
 |![bestobmin.net](https://static.openfintech.io/vendors/bestobmin.net/logo.svg?w=600&c=v0.59.26#w200) |[**BestObmin**](bestobmin.net/)|`bestobmin.net`| 
@@ -264,7 +265,6 @@
 |![boacompra](https://static.openfintech.io/vendors/boacompra/logo.png?w=600&c=v0.59.26#w200) |[**UOL BoaCompra**](boacompra/)|`boacompra`| 
 |![bog](https://static.openfintech.io/vendors/bog/logo.svg?w=600&c=v0.59.26#w200) |[**Bank of Ghana**](bog/)|`bog`| 
 |![boku](https://static.openfintech.io/vendors/boku/logo.png?w=600&c=v0.59.26#w200) |[**BOKU**](boku/)|`boku`| 
-|![boletobancariopay](https://static.openfintech.io/vendors/boletobancariopay/logo.png?w=600&c=v0.59.26#w200) |[**Boleto Bancario**](boletobancariopay/)|`boletobancariopay`| 
 |![borgun](https://static.openfintech.io/vendors/borgun/logo.png?w=600&c=v0.59.26#w200) |[**Borgun**](borgun/)|`borgun`| 
 |![bpay](https://static.openfintech.io/vendors/bpay/logo.png?w=600&c=v0.59.26#w200) |[**BPAY**](bpay/)|`bpay`| 
 |![bradescocomercioeletronico](https://static.openfintech.io/vendors/bradescocomercioeletronico/logo.png?w=600&c=v0.59.26#w200) |[**Bradesco Comércio Eletrônico**](bradescocomercioeletronico/)|`bradescocomercioeletronico`| 

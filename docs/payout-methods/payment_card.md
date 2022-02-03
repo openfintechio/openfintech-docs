@@ -286,6 +286,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![firstatlanticcommerce](https://static.openfintech.io/payment_providers/firstatlanticcommerce/icon.png?w=278&c=v0.59.26#w100) |[First Atlantic Commerce](/payment-providers/firstatlanticcommerce/)|`firstatlanticcommerce`| 
 |![cps](https://static.openfintech.io/payment_providers/cps/icon.svg?w=278&c=v0.59.26#w100) |[CPS](/payment-providers/cps/)|`cps`| 
 |![onlineips](https://static.openfintech.io/payment_providers/onlineips/icon.png?w=278&c=v0.59.26#w100) |[Online IPS](/payment-providers/onlineips/)|`onlineips`| 
+|![beonpay](https://static.openfintech.io/payment_providers/beonpay/icon.png?w=278&c=v0.59.26#w100) |[BeonPay](/payment-providers/beonpay/)|`beonpay`| 
  
 
 ## JSON Object 

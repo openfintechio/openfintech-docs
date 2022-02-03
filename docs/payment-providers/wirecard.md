@@ -73,7 +73,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![sepacredittransfer](https://static.openfintech.io/payment_methods/sepacredittransfer/icon.svg?w=278&c=v0.59.26#w100) |[sepacredittransfer](/payment-methods/sepacredittransfer/)|`sepacredittransfer`| 
 |![giropay](https://static.openfintech.io/payment_methods/giropay/icon.svg?w=278&c=v0.59.26#w100) |[giropay](/payment-methods/giropay/)|`giropay`| 
 |![barpay](https://static.openfintech.io/payment_methods/barpay/icon.png?w=278&c=v0.59.26#w100) |[barpay](/payment-methods/barpay/)|`barpay`| 
-|![boletobancariopay](https://static.openfintech.io/payment_methods/boletobancariopay/icon.png?w=278&c=v0.59.26#w100) |[boletobancariopay](/payment-methods/boletobancariopay/)|`boletobancariopay`| 
+|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario](/payment-methods/boleto_bancario/)|`boleto_bancario`| 
 |![sepadirectdebit](https://static.openfintech.io/payment_methods/sepadirectdebit/icon.svg?w=278&c=v0.59.26#w100) |[sepadirectdebit](/payment-methods/sepadirectdebit/)|`sepadirectdebit`| 
 |![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/icon.png?w=278&c=v0.59.26#w100) |[polipayonline](/payment-methods/polipayonline/)|`polipayonline`| 
 |![paybybill](https://static.openfintech.io/payment_methods/paybybill/icon.png?w=278&c=v0.59.26#w100) |[paybybill](/payment-methods/paybybill/)|`paybybill`| 
@@ -191,7 +191,7 @@ The list of supported [Payment Methods](/payment-methods/)
     "sepacredittransfer",
     "giropay",
     "barpay",
-    "boletobancariopay",
+    "boleto_bancario",
     "sepadirectdebit",
     "polipayonline",
     "paybybill",

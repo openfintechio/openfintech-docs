@@ -68,7 +68,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![giropay](https://static.openfintech.io/payment_methods/giropay/icon.svg?w=278&c=v0.59.26#w100) |[giropay](/payment-methods/giropay/)|`giropay`| 
 |![safetypay](https://static.openfintech.io/payment_methods/safetypay/icon.png?w=278&c=v0.59.26#w100) |[safetypay](/payment-methods/safetypay/)|`safetypay`| 
 |![billmelater](https://static.openfintech.io/payment_methods/billmelater/icon.png?w=278&c=v0.59.26#w100) |[billmelater](/payment-methods/billmelater/)|`billmelater`| 
-|![boletobancariopay](https://static.openfintech.io/payment_methods/boletobancariopay/icon.png?w=278&c=v0.59.26#w100) |[boletobancariopay](/payment-methods/boletobancariopay/)|`boletobancariopay`| 
+|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario](/payment-methods/boleto_bancario/)|`boleto_bancario`| 
 |![sepadirectdebit](https://static.openfintech.io/payment_methods/sepadirectdebit/icon.svg?w=278&c=v0.59.26#w100) |[sepadirectdebit](/payment-methods/sepadirectdebit/)|`sepadirectdebit`| 
 |![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/icon.png?w=278&c=v0.59.26#w100) |[polipayonline](/payment-methods/polipayonline/)|`polipayonline`| 
 |![elektronischeslastschriftverfahren](https://static.openfintech.io/payment_methods/elektronischeslastschriftverfahren/icon.png?w=278&c=v0.59.26#w100) |[elektronischeslastschriftverfahren](/payment-methods/elektronischeslastschriftverfahren/)|`elektronischeslastschriftverfahren`| 
@@ -139,7 +139,7 @@ The list of supported [Payment Methods](/payment-methods/)
     "giropay",
     "safetypay",
     "billmelater",
-    "boletobancariopay",
+    "boleto_bancario",
     "sepadirectdebit",
     "polipayonline",
     "elektronischeslastschriftverfahren",

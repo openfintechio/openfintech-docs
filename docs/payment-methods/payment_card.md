@@ -76,6 +76,7 @@ The list of [Payment Services](/payment-services/) based on the _Payment card_
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_kzt_hpp](/payment-services/payment_card_kzt_hpp/)|`payment_card_kzt_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_amd_hpp](/payment-services/payment_card_amd_hpp/)|`payment_card_amd_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_ttd_hpp](/payment-services/payment_card_ttd_hpp/)|`payment_card_ttd_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_brl_hpp](/payment-services/payment_card_brl_hpp/)|`payment_card_brl_hpp`| 
  
 
 ## Payment Providers 
@@ -289,6 +290,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![firstatlanticcommerce](https://static.openfintech.io/payment_providers/firstatlanticcommerce/icon.png?w=278&c=v0.59.26#w100) |[First Atlantic Commerce](/payment-providers/firstatlanticcommerce/)|`firstatlanticcommerce`| 
 |![cps](https://static.openfintech.io/payment_providers/cps/icon.svg?w=278&c=v0.59.26#w100) |[CPS](/payment-providers/cps/)|`cps`| 
 |![onlineips](https://static.openfintech.io/payment_providers/onlineips/icon.png?w=278&c=v0.59.26#w100) |[Online IPS](/payment-providers/onlineips/)|`onlineips`| 
+|![beonpay](https://static.openfintech.io/payment_providers/beonpay/icon.png?w=278&c=v0.59.26#w100) |[BeonPay](/payment-providers/beonpay/)|`beonpay`| 
  
 
 ## JSON Object 

@@ -79,7 +79,7 @@
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](bitcoin/)|`bitcoin`| 
 |![bitcoin_cash](https://static.openfintech.io/payment_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w200) |[**Bitcoin Cash**](bitcoin_cash/)|`bitcoin_cash`| 
 |![bkmexpress](https://static.openfintech.io/payment_methods/bkmexpress/logo.png?w=400&c=v0.59.26#w200) |[**BKM Express**](bkmexpress/)|`bkmexpress`| 
-|![boletobancariopay](https://static.openfintech.io/payment_methods/boletobancariopay/logo.png?w=400&c=v0.59.26#w200) |[**Boleto Bancario**](boletobancariopay/)|`boletobancariopay`| 
+|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/logo.png?w=400&c=v0.59.26#w200) |[**Boleto Bancario**](boleto_bancario/)|`boleto_bancario`| 
 |![bpay](https://static.openfintech.io/payment_methods/bpay/logo.png?w=400&c=v0.59.26#w200) |[**BPAY**](bpay/)|`bpay`| 
 |![bradescocomercioeletronico](https://static.openfintech.io/payment_methods/bradescocomercioeletronico/logo.png?w=400&c=v0.59.26#w200) |[**Bradesco Comércio Eletrônico**](bradescocomercioeletronico/)|`bradescocomercioeletronico`| 
 |![bri_bank](https://static.openfintech.io/payment_methods/bri_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BRI Bank**](bri_bank/)|`bri_bank`| 
@@ -339,6 +339,7 @@
 |![picksell](https://static.openfintech.io/payment_methods/picksell/logo.png?w=400&c=v0.59.26#w200) |[**Picksell Wallet**](picksell/)|`picksell`| 
 |![ping_an_bank](https://static.openfintech.io/payment_methods/ping_an_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Ping An Bank**](ping_an_bank/)|`ping_an_bank`| 
 |![pingping](https://static.openfintech.io/payment_methods/pingping/logo.png?w=400&c=v0.59.26#w200) |[**ping.ping**](pingping/)|`pingping`| 
+|![pix](https://static.openfintech.io/payment_methods/pix/logo.svg?w=400&c=v0.59.26#w200) |[**PIX**](pix/)|`pix`| 
 |![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/logo.png?w=400&c=v0.59.26#w200) |[**POLi Payments**](polipayonline/)|`polipayonline`| 
 |![poppankki](https://static.openfintech.io/payment_methods/poppankki/logo.png?w=400&c=v0.59.26#w200) |[**POP Pankki**](poppankki/)|`poppankki`| 
 |![postepay](https://static.openfintech.io/payment_methods/postepay/logo.png?w=400&c=v0.59.26#w200) |[**Postepay**](postepay/)|`postepay`| 

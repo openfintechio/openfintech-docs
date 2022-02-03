@@ -51,7 +51,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![smsbilling](https://static.openfintech.io/payment_methods/smsbilling/icon.png?w=278&c=v0.59.26#w100) |[smsbilling](/payment-methods/smsbilling/)|`smsbilling`| 
 |![safetypay](https://static.openfintech.io/payment_methods/safetypay/icon.png?w=278&c=v0.59.26#w100) |[safetypay](/payment-methods/safetypay/)|`safetypay`| 
 |![sofortbanking](https://static.openfintech.io/payment_methods/sofortbanking/icon.svg?w=278&c=v0.59.26#w100) |[sofortbanking](/payment-methods/sofortbanking/)|`sofortbanking`| 
-|![boletobancariopay](https://static.openfintech.io/payment_methods/boletobancariopay/icon.png?w=278&c=v0.59.26#w100) |[boletobancariopay](/payment-methods/boletobancariopay/)|`boletobancariopay`| 
+|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario](/payment-methods/boleto_bancario/)|`boleto_bancario`| 
 |![sepacredittransfer](https://static.openfintech.io/payment_methods/sepacredittransfer/icon.svg?w=278&c=v0.59.26#w100) |[sepacredittransfer](/payment-methods/sepacredittransfer/)|`sepacredittransfer`| 
  
 
@@ -81,7 +81,7 @@ The list of supported [Payment Methods](/payment-methods/)
     "smsbilling",
     "safetypay",
     "sofortbanking",
-    "boletobancariopay",
+    "boleto_bancario",
     "sepacredittransfer"
   ],
   "payout_method":null,

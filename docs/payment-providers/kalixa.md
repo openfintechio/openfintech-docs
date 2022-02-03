@@ -68,7 +68,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![electroniccheckach](https://static.openfintech.io/payment_methods/electroniccheckach/icon.png?w=278&c=v0.59.26#w100) |[electroniccheckach](/payment-methods/electroniccheckach/)|`electroniccheckach`| 
 |![giropay](https://static.openfintech.io/payment_methods/giropay/icon.svg?w=278&c=v0.59.26#w100) |[giropay](/payment-methods/giropay/)|`giropay`| 
 |![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.png?w=278&c=v0.59.26#w100) |[przelewy24](/payment-methods/przelewy24/)|`przelewy24`| 
-|![boletobancariopay](https://static.openfintech.io/payment_methods/boletobancariopay/icon.png?w=278&c=v0.59.26#w100) |[boletobancariopay](/payment-methods/boletobancariopay/)|`boletobancariopay`| 
+|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario](/payment-methods/boleto_bancario/)|`boleto_bancario`| 
 |![sepadirectdebit](https://static.openfintech.io/payment_methods/sepadirectdebit/icon.svg?w=278&c=v0.59.26#w100) |[sepadirectdebit](/payment-methods/sepadirectdebit/)|`sepadirectdebit`| 
 |![eps](https://static.openfintech.io/payment_methods/eps/icon.png?w=278&c=v0.59.26#w100) |[eps](/payment-methods/eps/)|`eps`| 
 |![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/icon.png?w=278&c=v0.59.26#w100) |[polipayonline](/payment-methods/polipayonline/)|`polipayonline`| 
@@ -152,7 +152,7 @@ The list of supported [Payment Methods](/payment-methods/)
     "electroniccheckach",
     "giropay",
     "przelewy24",
-    "boletobancariopay",
+    "boleto_bancario",
     "sepadirectdebit",
     "eps",
     "polipayonline"

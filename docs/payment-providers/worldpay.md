@@ -67,7 +67,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![safetypay](https://static.openfintech.io/payment_methods/safetypay/icon.png?w=278&c=v0.59.26#w100) |[safetypay](/payment-methods/safetypay/)|`safetypay`| 
 |![sofortbanking](https://static.openfintech.io/payment_methods/sofortbanking/icon.svg?w=278&c=v0.59.26#w100) |[sofortbanking](/payment-methods/sofortbanking/)|`sofortbanking`| 
 |![usemyservices](https://static.openfintech.io/payment_methods/usemyservices/icon.png?w=278&c=v0.59.26#w100) |[usemyservices](/payment-methods/usemyservices/)|`usemyservices`| 
-|![boletobancariopay](https://static.openfintech.io/payment_methods/boletobancariopay/icon.png?w=278&c=v0.59.26#w100) |[boletobancariopay](/payment-methods/boletobancariopay/)|`boletobancariopay`| 
+|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario](/payment-methods/boleto_bancario/)|`boleto_bancario`| 
 |![sepadirectdebit](https://static.openfintech.io/payment_methods/sepadirectdebit/icon.svg?w=278&c=v0.59.26#w100) |[sepadirectdebit](/payment-methods/sepadirectdebit/)|`sepadirectdebit`| 
 |![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/icon.png?w=278&c=v0.59.26#w100) |[polipayonline](/payment-methods/polipayonline/)|`polipayonline`| 
 |![acceptemail](https://static.openfintech.io/payment_methods/acceptemail/icon.png?w=278&c=v0.59.26#w100) |[acceptemail](/payment-methods/acceptemail/)|`acceptemail`| 
@@ -182,7 +182,7 @@ The list of supported [Payment Methods](/payment-methods/)
     "safetypay",
     "sofortbanking",
     "usemyservices",
-    "boletobancariopay",
+    "boleto_bancario",
     "sepadirectdebit",
     "polipayonline",
     "acceptemail",

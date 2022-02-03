@@ -60,7 +60,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![ekonto](https://static.openfintech.io/payment_methods/ekonto/icon.png?w=278&c=v0.59.26#w100) |[ekonto](/payment-methods/ekonto/)|`ekonto`| 
 |![giropay](https://static.openfintech.io/payment_methods/giropay/icon.svg?w=278&c=v0.59.26#w100) |[giropay](/payment-methods/giropay/)|`giropay`| 
 |![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.png?w=278&c=v0.59.26#w100) |[przelewy24](/payment-methods/przelewy24/)|`przelewy24`| 
-|![boletobancariopay](https://static.openfintech.io/payment_methods/boletobancariopay/icon.png?w=278&c=v0.59.26#w100) |[boletobancariopay](/payment-methods/boletobancariopay/)|`boletobancariopay`| 
+|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario](/payment-methods/boleto_bancario/)|`boleto_bancario`| 
 |![qiwi](https://static.openfintech.io/payment_methods/qiwi/icon.svg?w=278&c=v0.59.26#w100) |[qiwi](/payment-methods/qiwi/)|`qiwi`| 
 |![moneta](https://static.openfintech.io/payment_methods/moneta/icon.png?w=278&c=v0.59.26#w100) |[moneta](/payment-methods/moneta/)|`moneta`| 
 |![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill](/payment-methods/skrill/)|`skrill`| 
@@ -101,7 +101,7 @@ The list of supported [Payment Methods](/payment-methods/)
     "ekonto",
     "giropay",
     "przelewy24",
-    "boletobancariopay",
+    "boleto_bancario",
     "qiwi",
     "moneta",
     "skrill",

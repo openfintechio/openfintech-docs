@@ -84,7 +84,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![ideal](https://static.openfintech.io/payment_methods/ideal/icon.svg?w=278&c=v0.59.26#w100) |[ideal](/payment-methods/ideal/)|`ideal`| 
 |![safetypay](https://static.openfintech.io/payment_methods/safetypay/icon.png?w=278&c=v0.59.26#w100) |[safetypay](/payment-methods/safetypay/)|`safetypay`| 
 |![pingping](https://static.openfintech.io/payment_methods/pingping/icon.png?w=278&c=v0.59.26#w100) |[pingping](/payment-methods/pingping/)|`pingping`| 
-|![boletobancariopay](https://static.openfintech.io/payment_methods/boletobancariopay/icon.png?w=278&c=v0.59.26#w100) |[boletobancariopay](/payment-methods/boletobancariopay/)|`boletobancariopay`| 
+|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario](/payment-methods/boleto_bancario/)|`boleto_bancario`| 
 |![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/icon.png?w=278&c=v0.59.26#w100) |[polipayonline](/payment-methods/polipayonline/)|`polipayonline`| 
 |![pagoefectivo](https://static.openfintech.io/payment_methods/pagoefectivo/icon.png?w=278&c=v0.59.26#w100) |[pagoefectivo](/payment-methods/pagoefectivo/)|`pagoefectivo`| 
 |![hdfcbanknetbankingindia](https://static.openfintech.io/payment_methods/hdfcbanknetbankingindia/icon.png?w=278&c=v0.59.26#w100) |[hdfcbanknetbankingindia](/payment-methods/hdfcbanknetbankingindia/)|`hdfcbanknetbankingindia`| 
@@ -229,7 +229,7 @@ The list of supported [Payment Methods](/payment-methods/)
     "ideal",
     "safetypay",
     "pingping",
-    "boletobancariopay",
+    "boleto_bancario",
     "polipayonline",
     "pagoefectivo",
     "hdfcbanknetbankingindia",

@@ -88,7 +88,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![sebbank](https://static.openfintech.io/payment_methods/sebbank/icon.png?w=278&c=v0.59.26#w100) |[sebbank](/payment-methods/sebbank/)|`sebbank`| 
 |![bankzachodniwbk](https://static.openfintech.io/payment_methods/bankzachodniwbk/icon.png?w=278&c=v0.59.26#w100) |[bankzachodniwbk](/payment-methods/bankzachodniwbk/)|`bankzachodniwbk`| 
 |![creditagricole](https://static.openfintech.io/payment_methods/creditagricole/icon.png?w=278&c=v0.59.26#w100) |[creditagricole](/payment-methods/creditagricole/)|`creditagricole`| 
-|![boletobancariopay](https://static.openfintech.io/payment_methods/boletobancariopay/icon.png?w=278&c=v0.59.26#w100) |[boletobancariopay](/payment-methods/boletobancariopay/)|`boletobancariopay`| 
+|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario](/payment-methods/boleto_bancario/)|`boleto_bancario`| 
 |![pagorapido](https://static.openfintech.io/payment_methods/pagorapido/icon.png?w=278&c=v0.59.26#w100) |[pagorapido](/payment-methods/pagorapido/)|`pagorapido`| 
 |![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/icon.png?w=278&c=v0.59.26#w100) |[polipayonline](/payment-methods/polipayonline/)|`polipayonline`| 
 |![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.png?w=278&c=v0.59.26#w100) |[przelewy24](/payment-methods/przelewy24/)|`przelewy24`| 
@@ -272,7 +272,7 @@ The list of supported [Payment Methods](/payment-methods/)
     "sebbank",
     "bankzachodniwbk",
     "creditagricole",
-    "boletobancariopay",
+    "boleto_bancario",
     "pagorapido",
     "polipayonline",
     "przelewy24",

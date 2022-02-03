@@ -83,7 +83,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![raiffeisenbank](https://static.openfintech.io/payment_methods/raiffeisenbank/icon.svg?w=278&c=v0.59.26#w100) |[raiffeisenbank](/payment-methods/raiffeisenbank/)|`raiffeisenbank`| 
 |![volksbank](https://static.openfintech.io/payment_methods/volksbank/icon.png?w=278&c=v0.59.26#w100) |[volksbank](/payment-methods/volksbank/)|`volksbank`| 
 |![sebbank](https://static.openfintech.io/payment_methods/sebbank/icon.png?w=278&c=v0.59.26#w100) |[sebbank](/payment-methods/sebbank/)|`sebbank`| 
-|![boletobancariopay](https://static.openfintech.io/payment_methods/boletobancariopay/icon.png?w=278&c=v0.59.26#w100) |[boletobancariopay](/payment-methods/boletobancariopay/)|`boletobancariopay`| 
+|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario](/payment-methods/boleto_bancario/)|`boleto_bancario`| 
 |![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/icon.png?w=278&c=v0.59.26#w100) |[polipayonline](/payment-methods/polipayonline/)|`polipayonline`| 
 |![pagoefectivo](https://static.openfintech.io/payment_methods/pagoefectivo/icon.png?w=278&c=v0.59.26#w100) |[pagoefectivo](/payment-methods/pagoefectivo/)|`pagoefectivo`| 
 |![bpay](https://static.openfintech.io/payment_methods/bpay/icon.png?w=278&c=v0.59.26#w100) |[bpay](/payment-methods/bpay/)|`bpay`| 
@@ -198,7 +198,7 @@ The list of supported [Payment Methods](/payment-methods/)
     "raiffeisenbank",
     "volksbank",
     "sebbank",
-    "boletobancariopay",
+    "boleto_bancario",
     "polipayonline",
     "pagoefectivo",
     "bpay",
