@@ -450,6 +450,7 @@
 |![payclub](https://static.openfintech.io/payment_providers/payclub/logo.png?w=600&c=v0.59.26#w100) |[**PayClub**](payclub/)|`payclub`| 
 |![paydoo](https://static.openfintech.io/payment_providers/paydoo/logo.png?w=600&c=v0.59.26#w100) |[**Paydoo**](paydoo/)|`paydoo`| 
 |![payease](https://static.openfintech.io/payment_providers/payease/logo.png?w=600&c=v0.59.26#w100) |[**PayEase**](payease/)|`payease`| 
+|![payecards](https://static.openfintech.io/payment_providers/payecards/logo.png?w=600&c=v0.59.26#w100) |[**Payecards**](payecards/)|`payecards`| 
 |![payeer](https://static.openfintech.io/payment_providers/payeer/logo.svg?w=600&c=v0.59.26#w100) |[**Payeer**](payeer/)|`payeer`| 
 |![payelata](https://static.openfintech.io/payment_providers/payelata/logo.svg?w=600&c=v0.59.26#w100) |[**Payelata**](payelata/)|`payelata`| 
 |![payex](https://static.openfintech.io/payment_providers/payex/logo.png?w=600&c=v0.59.26#w100) |[**PayEx**](payex/)|`payex`| 

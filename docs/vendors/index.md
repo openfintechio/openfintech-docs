@@ -1181,6 +1181,7 @@
 |![paydirekt](https://static.openfintech.io/vendors/paydirekt/logo.svg?w=600&c=v0.59.26#w200) |[**paydirekt**](paydirekt/)|`paydirekt`| 
 |![paydoo](https://static.openfintech.io/vendors/paydoo/logo.png?w=600&c=v0.59.26#w200) |[**Paydoo**](paydoo/)|`paydoo`| 
 |![payease](https://static.openfintech.io/vendors/payease/logo.png?w=600&c=v0.59.26#w200) |[**PayEase**](payease/)|`payease`| 
+|![payecards](https://static.openfintech.io/vendors/payecards/logo.png?w=600&c=v0.59.26#w200) |[**Payecards**](payecards/)|`payecards`| 
 |![payeer](https://static.openfintech.io/vendors/payeer/logo.png?w=600&c=v0.59.26#w200) |[**Payeer**](payeer/)|`payeer`| 
 |![payelata](https://static.openfintech.io/vendors/payelata/logo.svg?w=600&c=v0.59.26#w200) |[**Payelata**](payelata/)|`payelata`| 
 |![payex](https://static.openfintech.io/vendors/payex/logo.png?w=600&c=v0.59.26#w200) |[**PayEx**](payex/)|`payex`| 
