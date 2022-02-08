@@ -38,7 +38,7 @@ The list of [Payment Services](/payment-services/) based on the _PIX_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix_brl_invoice](/payment-services/pix_brl_invoice/)|`pix_brl_invoice`| 
+|![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix_brl_hpp](/payment-services/pix_brl_hpp/)|`pix_brl_hpp`| 
  
 
 ## Payment Providers 

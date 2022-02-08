@@ -513,6 +513,7 @@
 |![paypro](https://static.openfintech.io/payment_providers/paypro/logo.png?w=600&c=v0.59.26#w100) |[**PayPro**](paypro/)|`paypro`| 
 |![paypunto](https://static.openfintech.io/payment_providers/paypunto/logo.png?w=600&c=v0.59.26#w100) |[**PayPunto**](paypunto/)|`paypunto`| 
 |![payrexx](https://static.openfintech.io/payment_providers/payrexx/logo.png?w=600&c=v0.59.26#w100) |[**Payrexx Payments**](payrexx/)|`payrexx`| 
+|![payrun](https://static.openfintech.io/payment_providers/payrun/logo.svg?w=600&c=v0.59.26#w100) |[**PayRun**](payrun/)|`payrun`| 
 |![paysafe](https://static.openfintech.io/payment_providers/paysafe/logo.svg?w=600&c=v0.59.26#w100) |[**Paysafe**](paysafe/)|`paysafe`| 
 |![paysafecard](https://static.openfintech.io/payment_providers/paysafecard/logo.svg?w=600&c=v0.59.26#w100) |[**Paysafecard**](paysafecard/)|`paysafecard`| 
 |![paysage](https://static.openfintech.io/payment_providers/paysage/logo.png?w=600&c=v0.59.26#w100) |[**PaySage.io**](paysage/)|`paysage`| 

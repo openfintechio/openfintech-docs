@@ -40,7 +40,7 @@ The list of [Payment Services](/payment-services/) based on the _Boleto Bancario
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario_brl_invoice](/payment-services/boleto_bancario_brl_invoice/)|`boleto_bancario_brl_invoice`| 
+|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario_brl_hpp](/payment-services/boleto_bancario_brl_hpp/)|`boleto_bancario_brl_hpp`| 
  
 
 ## Payment Providers 
