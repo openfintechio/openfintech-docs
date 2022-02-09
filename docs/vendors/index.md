@@ -523,6 +523,7 @@
 |![ewire](https://static.openfintech.io/vendors/ewire/logo.png?w=600&c=v0.59.26#w200) |[**Ewire**](ewire/)|`ewire`| 
 |![exactly](https://static.openfintech.io/vendors/exactly/logo.svg?w=600&c=v0.59.26#w200) |[**Exactly**](exactly/)|`exactly`| 
 |![exacttransactions](https://static.openfintech.io/vendors/exacttransactions/logo.png?w=600&c=v0.59.26#w200) |[**E-xact Transactions**](exacttransactions/)|`exacttransactions`| 
+|![exbaseio](https://static.openfintech.io/vendors/exbaseio/logo.svg?w=600&c=v0.59.26#w200) |[**EXBASE.IO**](exbaseio/)|`exbaseio`| 
 |![exchange-credit.ru](https://static.openfintech.io/vendors/exchange-credit.ru/logo.svg?w=600&c=v0.59.26#w200) |[**Exchange-Credit**](exchange-credit.ru/)|`exchange-credit.ru`| 
 |![exchange.ermoney](https://static.openfintech.io/vendors/exchange.ermoney/logo.svg?w=600&c=v0.59.26#w200) |[**Ermoney**](exchange.ermoney/)|`exchange.ermoney`| 
 |![exchangebox.biz](https://static.openfintech.io/vendors/exchangebox.biz/logo.svg?w=600&c=v0.59.26#w200) |[**exchangebox.biz**](exchangebox.biz/)|`exchangebox.biz`| 

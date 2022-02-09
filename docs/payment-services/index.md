@@ -380,7 +380,8 @@
 |![PayPal](https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](/payment-methods/paypal/)|[`paypal_gbp_hpp`](paypal_gbp_hpp/)| 
 |![PayPal](https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](/payment-methods/paypal/)|[`paypal_huf_hpp`](paypal_huf_hpp/)| 
 |![PayPal](https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](/payment-methods/paypal/)|[`paypal_usd_hpp`](paypal_usd_hpp/)| 
-|![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`paypay_jpy_hpp`](paypay_jpy_hpp/)| 
+|![PayPay](https://static.openfintech.io/payment_methods/paypay/logo.png?w=400&c=v0.59.26#w200) |[**PayPay**](/payment-methods/paypay/)|[`paypay_jpy_hpp`](paypay_jpy_hpp/)| 
+|![PayPay](https://static.openfintech.io/payment_methods/paypay/logo.png?w=400&c=v0.59.26#w200) |[**PayPay**](/payment-methods/paypay/)|[`paypay_usd_hpp`](paypay_usd_hpp/)| 
 |![Paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](/payment-methods/paysafecard/)|[`paysafecard_bgn_hpp`](paysafecard_bgn_hpp/)| 
 |![Paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](/payment-methods/paysafecard/)|[`paysafecard_chf_hpp`](paysafecard_chf_hpp/)| 
 |![Paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](/payment-methods/paysafecard/)|[`paysafecard_czk_hpp`](paysafecard_czk_hpp/)| 

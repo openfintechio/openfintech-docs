@@ -42,6 +42,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
+|![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay](/payment-methods/applepay/)|`applepay`| 
  
 
 ## Payout Methods 
@@ -64,7 +65,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "UA"
   ],
   "payment_method":[
-    "payment_card"
+    "payment_card",
+    "applepay"
   ],
   "payout_method":[
     

@@ -243,6 +243,7 @@
 |![ewire](https://static.openfintech.io/payment_providers/ewire/logo.svg?w=600&c=v0.59.26#w100) |[**Ewire**](ewire/)|`ewire`| 
 |![exactly](https://static.openfintech.io/payment_providers/exactly/logo.svg?w=600&c=v0.59.26#w100) |[**Exactly**](exactly/)|`exactly`| 
 |![exacttransactions](https://static.openfintech.io/payment_providers/exacttransactions/logo.svg?w=600&c=v0.59.26#w100) |[**E-xact Transactions**](exacttransactions/)|`exacttransactions`| 
+|![exbaseio](https://static.openfintech.io/payment_providers/exbaseio/logo.svg?w=600&c=v0.59.26#w100) |[**EXBASE.IO**](exbaseio/)|`exbaseio`| 
 |![expercash](https://static.openfintech.io/payment_providers/expercash/logo.svg?w=600&c=v0.59.26#w100) |[**EXPERCASH**](expercash/)|`expercash`| 
 |![externalprovider](https://static.openfintech.io/payment_providers/externalprovider/logo.svg?w=600&c=v0.59.26#w100) |[**External Provider**](externalprovider/)|`externalprovider`| 
 |![ezeebill](https://static.openfintech.io/payment_providers/ezeebill/logo.svg?w=600&c=v0.59.26#w100) |[**Ezeebill**](ezeebill/)|`ezeebill`| 

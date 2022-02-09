@@ -1,15 +1,15 @@
 
 # PayPay (service) 
-![paypay_jpy_hpp](https://static.openfintech.io/payment_methods/paypay_jpy_hpp/logo.svg?w=400&c=v0.59.26#w200)  
+![paypay_usd_hpp](https://static.openfintech.io/payment_methods/paypay_usd_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `paypay_jpy_hpp` 
+**Code:** `paypay_usd_hpp` 
  
 **Method:** `paypay` 
  [show -->](/payment-methods/paypay/) 
  
-**Currency:** `JPY` [show -->](/currencies/JPY/) 
+**Currency:** `USD` [show -->](/currencies/USD/) 
  
 **Name:** 
  
@@ -17,7 +17,7 @@
 :	[RU] PayPay 
 :	[UK] PayPay 
  
-**Amount limits:** from `1` to `9999999` JPY 
+**Amount limits:** from `1` to `9999999` USD 
 
 ## Fields 
 
@@ -186,10 +186,10 @@
 
 ```json
 {
-  "code":"paypay_jpy_hpp",
+  "code":"paypay_usd_hpp",
   "flow":"hpp",
   "method":"paypay",
-  "currency":"JPY",
+  "currency":"USD",
   "fields":[
     {
       "key":"payer_first_name",
