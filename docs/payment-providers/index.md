@@ -226,6 +226,7 @@
 |![enets](https://static.openfintech.io/payment_providers/enets/logo.png?w=600&c=v0.59.26#w100) |[**eNETS**](enets/)|`enets`| 
 |![enett](https://static.openfintech.io/payment_providers/enett/logo.svg?w=600&c=v0.59.26#w100) |[**eNett International**](enett/)|`enett`| 
 |![enfins](https://static.openfintech.io/payment_providers/enfins/logo.svg?w=600&c=v0.59.26#w100) |[**Enfins**](enfins/)|`enfins`| 
+|![ensopay](https://static.openfintech.io/payment_providers/ensopay/logo.png?w=600&c=v0.59.26#w100) |[**EnsoPay**](ensopay/)|`ensopay`| 
 |![entercash](https://static.openfintech.io/payment_providers/entercash/logo.svg?w=600&c=v0.59.26#w100) |[**Entercash**](entercash/)|`entercash`| 
 |![eospaymentsolutions](https://static.openfintech.io/payment_providers/eospaymentsolutions/logo.svg?w=600&c=v0.59.26#w100) |[**EOS Payment**](eospaymentsolutions/)|`eospaymentsolutions`| 
 |![epay](https://static.openfintech.io/payment_providers/epay/logo.png?w=600&c=v0.59.26#w100) |[**ePay**](epay/)|`epay`| 

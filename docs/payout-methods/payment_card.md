@@ -288,6 +288,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![onlineips](https://static.openfintech.io/payment_providers/onlineips/icon.png?w=278&c=v0.59.26#w100) |[Online IPS](/payment-providers/onlineips/)|`onlineips`| 
 |![beonpay](https://static.openfintech.io/payment_providers/beonpay/icon.png?w=278&c=v0.59.26#w100) |[BeonPay](/payment-providers/beonpay/)|`beonpay`| 
 |![payecards](https://static.openfintech.io/payment_providers/payecards/icon.png?w=278&c=v0.59.26#w100) |[Payecards](/payment-providers/payecards/)|`payecards`| 
+|![ensopay](https://static.openfintech.io/payment_providers/ensopay/icon.png?w=278&c=v0.59.26#w100) |[EnsoPay](/payment-providers/ensopay/)|`ensopay`| 
 |![payrun](https://static.openfintech.io/payment_providers/payrun/icon.svg?w=278&c=v0.59.26#w100) |[PayRun](/payment-providers/payrun/)|`payrun`| 
 |![exbaseio](https://static.openfintech.io/payment_providers/exbaseio/icon.svg?w=278&c=v0.59.26#w100) |[EXBASE.IO](/payment-providers/exbaseio/)|`exbaseio`| 
  

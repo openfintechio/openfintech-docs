@@ -499,6 +499,7 @@
 |![enetsdirectdebit](https://static.openfintech.io/vendors/enetsdirectdebit/logo.png?w=600&c=v0.59.26#w200) |[**eNETS Direct Debit**](enetsdirectdebit/)|`enetsdirectdebit`| 
 |![enett](https://static.openfintech.io/vendors/enett/logo.png?w=600&c=v0.59.26#w200) |[**eNett International**](enett/)|`enett`| 
 |![enfins](https://static.openfintech.io/vendors/enfins/logo.svg?w=600&c=v0.59.26#w200) |[**Enfins**](enfins/)|`enfins`| 
+|![ensopay](https://static.openfintech.io/vendors/ensopay/logo.png?w=600&c=v0.59.26#w200) |[**EnsoPay**](ensopay/)|`ensopay`| 
 |![entercash](https://static.openfintech.io/vendors/entercash/logo.png?w=600&c=v0.59.26#w200) |[**Entercash**](entercash/)|`entercash`| 
 |![eospaymentsolutions](https://static.openfintech.io/vendors/eospaymentsolutions/logo.png?w=600&c=v0.59.26#w200) |[**EOS Payment**](eospaymentsolutions/)|`eospaymentsolutions`| 
 |![epay](https://static.openfintech.io/vendors/epay/logo.png?w=600&c=v0.59.26#w200) |[**ePay**](epay/)|`epay`| 
