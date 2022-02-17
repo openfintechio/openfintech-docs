@@ -266,6 +266,7 @@
 |![bog](https://static.openfintech.io/vendors/bog/logo.svg?w=600&c=v0.59.26#w200) |[**Bank of Ghana**](bog/)|`bog`| 
 |![boku](https://static.openfintech.io/vendors/boku/logo.png?w=600&c=v0.59.26#w200) |[**BOKU**](boku/)|`boku`| 
 |![borgun](https://static.openfintech.io/vendors/borgun/logo.png?w=600&c=v0.59.26#w200) |[**Borgun**](borgun/)|`borgun`| 
+|![bp](https://static.openfintech.io/vendors/bp/logo.svg?w=600&c=v0.59.26#w200) |[**BP**](bp/)|`bp`| 
 |![bpay](https://static.openfintech.io/vendors/bpay/logo.png?w=600&c=v0.59.26#w200) |[**BPAY**](bpay/)|`bpay`| 
 |![bradescocomercioeletronico](https://static.openfintech.io/vendors/bradescocomercioeletronico/logo.png?w=600&c=v0.59.26#w200) |[**Bradesco Comércio Eletrônico**](bradescocomercioeletronico/)|`bradescocomercioeletronico`| 
 |![braintree](https://static.openfintech.io/vendors/braintree/logo.svg?w=600&c=v0.59.26#w200) |[**Braintree**](braintree/)|`braintree`| 
