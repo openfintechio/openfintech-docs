@@ -291,6 +291,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![ensopay](https://static.openfintech.io/payment_providers/ensopay/icon.png?w=278&c=v0.59.26#w100) |[EnsoPay](/payment-providers/ensopay/)|`ensopay`| 
 |![payrun](https://static.openfintech.io/payment_providers/payrun/icon.svg?w=278&c=v0.59.26#w100) |[PayRun](/payment-providers/payrun/)|`payrun`| 
 |![exbaseio](https://static.openfintech.io/payment_providers/exbaseio/icon.svg?w=278&c=v0.59.26#w100) |[EXBASE.IO](/payment-providers/exbaseio/)|`exbaseio`| 
+|![bankotkritie](https://static.openfintech.io/payment_providers/bankotkritie/icon.svg?w=278&c=v0.59.26#w100) |[Bank Otkritie](/payment-providers/bankotkritie/)|`bankotkritie`| 
+|![paycos](https://static.openfintech.io/payment_providers/paycos/icon.svg?w=278&c=v0.59.26#w100) |[PAYCOS](/payment-providers/paycos/)|`paycos`| 
  
 
 ## JSON Object 

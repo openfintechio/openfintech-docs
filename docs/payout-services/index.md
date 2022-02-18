@@ -382,7 +382,8 @@
 |![Gazprombank](https://static.openfintech.io/payout_methods/gazprom_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Gazprombank**](/payout-methods/gazprom_bank/)|[`gazprom_bank_rub`](gazprom_bank_rub/)|`RUB`| 
 |![GenTel](https://static.openfintech.io/payout_methods/gentel/logo.png?w=400&c=v0.59.26#w24) |[**GenTel**](/payout-methods/gentel/)|[`gentel_uah`](gentel_uah/)|`UAH`| 
 |![GeoNik (South)](https://static.openfintech.io/payout_methods/geonik-iuzhne/logo.png?w=400&c=v0.59.26#w24) |[**GeoNik (South)**](/payout-methods/geonik-iuzhne/)|[`geonik-iuzhne_uah`](geonik-iuzhne_uah/)|`UAH`| 
-|![GEO Pay](https://static.openfintech.io/payout_methods/geopaynet/logo.svg?w=400&c=v0.59.26#w24) |[**GEO Pay**](/payout-methods/geopaynet/)|[`geopaynet_grn`](geopaynet_grn/)|`GRN`| 
+|![GEO Pay](https://static.openfintech.io/payout_methods/geopaynet/logo.svg?w=400&c=v0.59.26#w24) |[**GEO Pay**](/payout-methods/geopaynet/)|[`geopaynet_eur`](geopaynet_eur/)|`EUR`| 
+|![GEO Pay](https://static.openfintech.io/payout_methods/geopaynet/logo.svg?w=400&c=v0.59.26#w24) |[**GEO Pay**](/payout-methods/geopaynet/)|[`geopaynet_rub`](geopaynet_rub/)|`RUB`| 
 |![GEO Pay](https://static.openfintech.io/payout_methods/geopaynet/logo.svg?w=400&c=v0.59.26#w24) |[**GEO Pay**](/payout-methods/geopaynet/)|[`geopaynet_uah`](geopaynet_uah/)|`UAH`| 
 |![Heroes of War and Money](https://static.openfintech.io/payout_methods/geroi-voiny-i-deneg/logo.png?w=400&c=v0.59.26#w24) |[**Heroes of War and Money**](/payout-methods/geroi-voiny-i-deneg/)|[`geroi-voiny-i-deneg_uah`](geroi-voiny-i-deneg_uah/)|`UAH`| 
 |![Heroes](https://static.openfintech.io/payout_methods/geroi/logo.png?w=400&c=v0.59.26#w24) |[**Heroes**](/payout-methods/geroi/)|[`geroi_uah`](geroi_uah/)|`UAH`| 

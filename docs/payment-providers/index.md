@@ -68,6 +68,7 @@
 |![bango](https://static.openfintech.io/payment_providers/bango/logo.svg?w=600&c=v0.59.26#w100) |[**Bango**](bango/)|`bango`| 
 |![bankfrick](https://static.openfintech.io/payment_providers/bankfrick/logo.svg?w=600&c=v0.59.26#w100) |[**Bank Frick**](bankfrick/)|`bankfrick`| 
 |![bankonego](https://static.openfintech.io/payment_providers/bankonego/logo.png?w=600&c=v0.59.26#w100) |[**BankOnego**](bankonego/)|`bankonego`| 
+|![bankotkritie](https://static.openfintech.io/payment_providers/bankotkritie/logo.svg?w=600&c=v0.59.26#w100) |[**Bank Otkritie**](bankotkritie/)|`bankotkritie`| 
 |![banwire](https://static.openfintech.io/payment_providers/banwire/logo.png?w=600&c=v0.59.26#w100) |[**Banwire.com**](banwire/)|`banwire`| 
 |![barclaycard](https://static.openfintech.io/payment_providers/barclaycard/logo.png?w=600&c=v0.59.26#w100) |[**Barclaycard**](barclaycard/)|`barclaycard`| 
 |![barion](https://static.openfintech.io/payment_providers/barion/logo.png?w=600&c=v0.59.26#w100) |[**Barion Payments**](barion/)|`barion`| 
@@ -451,6 +452,7 @@
 |![paycheckout](https://static.openfintech.io/payment_providers/paycheckout/logo.png?w=600&c=v0.59.26#w100) |[**PayCheckout**](paycheckout/)|`paycheckout`| 
 |![paycific](https://static.openfintech.io/payment_providers/paycific/logo.png?w=600&c=v0.59.26#w100) |[**PayCific**](paycific/)|`paycific`| 
 |![payclub](https://static.openfintech.io/payment_providers/payclub/logo.png?w=600&c=v0.59.26#w100) |[**PayClub**](payclub/)|`payclub`| 
+|![paycos](https://static.openfintech.io/payment_providers/paycos/logo.svg?w=600&c=v0.59.26#w100) |[**PAYCOS**](paycos/)|`paycos`| 
 |![paydoo](https://static.openfintech.io/payment_providers/paydoo/logo.png?w=600&c=v0.59.26#w100) |[**Paydoo**](paydoo/)|`paydoo`| 
 |![payease](https://static.openfintech.io/payment_providers/payease/logo.png?w=600&c=v0.59.26#w100) |[**PayEase**](payease/)|`payease`| 
 |![payecards](https://static.openfintech.io/payment_providers/payecards/logo.png?w=600&c=v0.59.26#w100) |[**Payecards**](payecards/)|`payecards`| 

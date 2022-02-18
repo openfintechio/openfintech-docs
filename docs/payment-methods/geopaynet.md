@@ -34,8 +34,9 @@ The list of [Payment Services](/payment-services/) based on the _GEO Pay_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![geopaynet](https://static.openfintech.io/payment_methods/geopaynet/icon.svg?w=278&c=v0.59.26#w100) |[geopaynet_grn_hpp](/payment-services/geopaynet_grn_hpp/)|`geopaynet_grn_hpp`| 
 |![geopaynet](https://static.openfintech.io/payment_methods/geopaynet/icon.svg?w=278&c=v0.59.26#w100) |[geopaynet_uah_hpp](/payment-services/geopaynet_uah_hpp/)|`geopaynet_uah_hpp`| 
+|![geopaynet](https://static.openfintech.io/payment_methods/geopaynet/icon.svg?w=278&c=v0.59.26#w100) |[geopaynet_rub_hpp](/payment-services/geopaynet_rub_hpp/)|`geopaynet_rub_hpp`| 
+|![geopaynet](https://static.openfintech.io/payment_methods/geopaynet/icon.svg?w=278&c=v0.59.26#w100) |[geopaynet_eur_hpp](/payment-services/geopaynet_eur_hpp/)|`geopaynet_eur_hpp`| 
  
 
 ## Payment Providers 

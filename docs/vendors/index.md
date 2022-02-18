@@ -196,6 +196,7 @@
 |![bankofchinanetbanking](https://static.openfintech.io/vendors/bankofchinanetbanking/logo.png?w=600&c=v0.59.26#w200) |[**Bank of China netbanking**](bankofchinanetbanking/)|`bankofchinanetbanking`| 
 |![bankofgeorgia](https://static.openfintech.io/vendors/bankofgeorgia/logo.svg?w=600&c=v0.59.26#w200) |[**Bank of Georgia**](bankofgeorgia/)|`bankofgeorgia`| 
 |![bankonego](https://static.openfintech.io/vendors/bankonego/logo.svg?w=600&c=v0.59.26#w200) |[**BankOnego**](bankonego/)|`bankonego`| 
+|![bankotkritie](https://static.openfintech.io/vendors/bankotkritie/logo.svg?w=600&c=v0.59.26#w200) |[**Bank Otkritie**](bankotkritie/)|`bankotkritie`| 
 |![bankotkrytie](https://static.openfintech.io/vendors/bankotkrytie/logo.svg?w=600&c=v0.59.26#w200) |[**Банк Открытие**](bankotkrytie/)|`bankotkrytie`| 
 |![bankpervomajskij](https://static.openfintech.io/vendors/bankpervomajskij/logo.svg?w=600&c=v0.59.26#w200) |[**Банк Первомайский**](bankpervomajskij/)|`bankpervomajskij`| 
 |![bankrbk](https://static.openfintech.io/vendors/bankrbk/logo.svg?w=600&c=v0.59.26#w200) |[**Bank RBK**](bankrbk/)|`bankrbk`| 
@@ -1180,6 +1181,7 @@
 |![paycific](https://static.openfintech.io/vendors/paycific/logo.png?w=600&c=v0.59.26#w200) |[**PayCific**](paycific/)|`paycific`| 
 |![payclub](https://static.openfintech.io/vendors/payclub/logo.png?w=600&c=v0.59.26#w200) |[**PayClub**](payclub/)|`payclub`| 
 |![paycore](https://static.openfintech.io/vendors/paycore/logo.svg?w=600&c=v0.59.26#w200) |[**PayCore.io**](paycore/)|`paycore`| 
+|![paycos](https://static.openfintech.io/vendors/paycos/logo.svg?w=600&c=v0.59.26#w200) |[**PAYCOS**](paycos/)|`paycos`| 
 |![payd](https://static.openfintech.io/vendors/payd/logo.png?w=600&c=v0.59.26#w200) |[**payD**](payd/)|`payd`| 
 |![paydirekt](https://static.openfintech.io/vendors/paydirekt/logo.svg?w=600&c=v0.59.26#w200) |[**paydirekt**](paydirekt/)|`paydirekt`| 
 |![paydoo](https://static.openfintech.io/vendors/paydoo/logo.png?w=600&c=v0.59.26#w200) |[**Paydoo**](paydoo/)|`paydoo`| 
