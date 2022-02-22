@@ -12,6 +12,10 @@
  
 :	[EN] Connectum 
  
+**Description:** 
+ 
+: [EN] Connectum offers a powerful payment processing system for various EU/UK companies working in e-commerce. Stable secure Internet banking and payment gateway help merchants easily accept multiple payments from customers worldwide. We keep decent rates for our services thanks to our direct connections to the largest payment providers. Connectum is an Authorized Payment Institution, founded in the United Kingdom and regulated by the Financial Conduct Authority since 2014. 
+ 
  
 **Countries:** 
  
@@ -57,7 +61,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"connectum",
-  "description":null,
+  "description":{
+    "en":"Connectum offers a powerful payment processing system for various EU\/UK companies working in e-commerce. Stable secure Internet banking and payment gateway help merchants easily accept multiple payments from customers worldwide. We keep decent rates for our services thanks to our direct connections to the largest payment providers. Connectum is an Authorized Payment Institution, founded in the United Kingdom and regulated by the Financial Conduct Authority since 2014."
+  },
   "vendor":"connectum",
   "categories":null,
   "countries":[

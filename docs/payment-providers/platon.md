@@ -1,5 +1,5 @@
 
-# Platon 
+# PSP Platon 
 ![platon](https://static.openfintech.io/payment_providers/platon/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,7 +10,9 @@
  
 **Name:** 
  
-:	[EN] Platon 
+:	[EN] PSP Platon 
+:	[RU] PSP Platon 
+:	[UK] PSP Platon 
  
 
 ## Images 
@@ -37,7 +39,7 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bank_card](https://static.openfintech.io/payment_methods/bank_card/icon.svg?w=278&c=v0.59.26#w100) |[bank_card](/payment-methods/bank_card/)|`bank_card`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
  
 
 ## JSON Object 
@@ -50,12 +52,14 @@ The list of supported [Payment Methods](/payment-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    "bank_card"
+    "payment_card"
   ],
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"Platon"
+    "en":"PSP Platon",
+    "ru":"PSP Platon",
+    "uk":"PSP Platon"
   }
 }
 ```  
