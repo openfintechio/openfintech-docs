@@ -16,7 +16,7 @@
 :	[RU] Tether 
 :	[UK] Tether 
  
-**Amount limits:** from `0.01` to `1000000` USDT 
+**Amount limits:** from `0.00000001` to `1000000` USDT 
 
 ## Fields 
 
@@ -75,7 +75,7 @@
       "example":"0x501906Ce564be7bA80Eb55A29EE31ECfaE41b6f2"
     }
   ],
-  "amount_min":"0.01",
+  "amount_min":"0.00000001",
   "amount_max":"1000000"
 }
 ```  

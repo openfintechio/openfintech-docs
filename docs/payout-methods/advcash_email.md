@@ -36,6 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _AdvCash_
 |:---:|:---:|:---:| 
 |![advcash_email](https://static.openfintech.io/payout_methods/advcash_email/icon.svg?w=278&c=v0.59.26#w40) |[advcash_email_rub](/payout-services/advcash_email_rub/)|`advcash_email_rub`| 
 |![advcash_email](https://static.openfintech.io/payout_methods/advcash_email/icon.svg?w=278&c=v0.59.26#w40) |[advcash_email_usd](/payout-services/advcash_email_usd/)|`advcash_email_usd`| 
+|![advcash_email](https://static.openfintech.io/payout_methods/advcash_email/icon.svg?w=278&c=v0.59.26#w40) |[advcash_email_uah](/payout-services/advcash_email_uah/)|`advcash_email_uah`| 
 |![advcash_email](https://static.openfintech.io/payout_methods/advcash_email/icon.svg?w=278&c=v0.59.26#w40) |[advcash_email_eur](/payout-services/advcash_email_eur/)|`advcash_email_eur`| 
  
 

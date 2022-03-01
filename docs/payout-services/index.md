@@ -27,6 +27,7 @@
 |![ADAMANT-TELECOM - UPU and Collocation](https://static.openfintech.io/payout_methods/adamant-telekom-vps-i-kolokeishn/logo.png?w=400&c=v0.59.26#w24) |[**ADAMANT-TELECOM - UPU and Collocation**](/payout-methods/adamant-telekom-vps-i-kolokeishn/)|[`adamant-telekom-vps-i-kolokeishn_uah`](adamant-telekom-vps-i-kolokeishn_uah/)|`UAH`| 
 |![AdvCash](https://static.openfintech.io/payout_methods/advcash_email/logo.svg?w=400&c=v0.59.26#w24) |[**AdvCash**](/payout-methods/advcash_email/)|[`advcash_email_eur`](advcash_email_eur/)|`EUR`| 
 |![AdvCash](https://static.openfintech.io/payout_methods/advcash_email/logo.svg?w=400&c=v0.59.26#w24) |[**AdvCash**](/payout-methods/advcash_email/)|[`advcash_email_rub`](advcash_email_rub/)|`RUB`| 
+|![AdvCash](https://static.openfintech.io/payout_methods/advcash_email/logo.svg?w=400&c=v0.59.26#w24) |[**AdvCash**](/payout-methods/advcash_email/)|[`advcash_email_uah`](advcash_email_uah/)|`UAH`| 
 |![AdvCash](https://static.openfintech.io/payout_methods/advcash_email/logo.svg?w=400&c=v0.59.26#w24) |[**AdvCash**](/payout-methods/advcash_email/)|[`advcash_email_usd`](advcash_email_usd/)|`USD`| 
 |![AdvCash](https://static.openfintech.io/payout_methods/advcash_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**AdvCash**](/payout-methods/advcash_wallet/)|[`advcash_wallet_brl`](advcash_wallet_brl/)|`BRL`| 
 |![AdvCash](https://static.openfintech.io/payout_methods/advcash_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**AdvCash**](/payout-methods/advcash_wallet/)|[`advcash_wallet_eur`](advcash_wallet_eur/)|`EUR`| 
@@ -1601,10 +1602,13 @@
 |![Test](https://static.openfintech.io/payout_methods/test/logo.png?w=400&c=v0.59.26#w24) |[**Test**](/payout-methods/test/)|[`test_uah`](test_uah/)|`UAH`| 
 |![Test](https://static.openfintech.io/payout_methods/test/logo.png?w=400&c=v0.59.26#w24) |[**Test**](/payout-methods/test/)|[`test_usd`](test_usd/)|`USD`| 
 |![Test](https://static.openfintech.io/payout_methods/test/logo.png?w=400&c=v0.59.26#w24) |[**Test**](/payout-methods/test/)|[`test_xts`](test_xts/)|`XTS`| 
+|![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_bep20_usdt`](tether_bep20_usdt/)|`USDT`| 
+|![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_eos_usdt`](tether_eos_usdt/)|`USDT`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_erc20_eur`](tether_erc20_eur/)|`EUR`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_erc20_uah`](tether_erc20_uah/)|`UAH`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_erc20_usd`](tether_erc20_usd/)|`USD`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_erc20_usdt`](tether_erc20_usdt/)|`USDT`| 
+|![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_omni_usdt`](tether_omni_usdt/)|`USDT`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_trc20_eur`](tether_trc20_eur/)|`EUR`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_trc20_uah`](tether_trc20_uah/)|`UAH`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_trc20_usd`](tether_trc20_usd/)|`USD`| 

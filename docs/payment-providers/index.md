@@ -450,6 +450,7 @@
 |![payboutique](https://static.openfintech.io/payment_providers/payboutique/logo.png?w=600&c=v0.59.26#w100) |[**Payboutique **](payboutique/)|`payboutique`| 
 |![paybox](https://static.openfintech.io/payment_providers/paybox/logo.svg?w=600&c=v0.59.26#w100) |[**Paybox**](paybox/)|`paybox`| 
 |![payboxservices](https://static.openfintech.io/payment_providers/payboxservices/logo.png?w=600&c=v0.59.26#w100) |[**Paybox by Verifone**](payboxservices/)|`payboxservices`| 
+|![paycash](https://static.openfintech.io/payment_providers/paycash/logo.png?w=600&c=v0.59.26#w100) |[**PayCash**](paycash/)|`paycash`| 
 |![paycheckout](https://static.openfintech.io/payment_providers/paycheckout/logo.png?w=600&c=v0.59.26#w100) |[**PayCheckout**](paycheckout/)|`paycheckout`| 
 |![paycific](https://static.openfintech.io/payment_providers/paycific/logo.png?w=600&c=v0.59.26#w100) |[**PayCific**](paycific/)|`paycific`| 
 |![payclub](https://static.openfintech.io/payment_providers/payclub/logo.png?w=600&c=v0.59.26#w100) |[**PayClub**](payclub/)|`payclub`| 
@@ -716,6 +717,7 @@
 |![walletone](https://static.openfintech.io/payment_providers/walletone/logo.svg?w=600&c=v0.59.26#w100) |[**Wallet One**](walletone/)|`walletone`| 
 |![walpay](https://static.openfintech.io/payment_providers/walpay/logo.png?w=600&c=v0.59.26#w100) |[**WalPay**](walpay/)|`walpay`| 
 |![wayforpay](https://static.openfintech.io/payment_providers/wayforpay/logo.png?w=600&c=v0.59.26#w100) |[**Wayforpay**](wayforpay/)|`wayforpay`| 
+|![wbpayment](https://static.openfintech.io/payment_providers/wbpayment/logo.svg?w=600&c=v0.59.26#w100) |[**WB Payment**](wbpayment/)|`wbpayment`| 
 |![webbilling](https://static.openfintech.io/payment_providers/webbilling/logo.png?w=600&c=v0.59.26#w100) |[**Webbilling.com**](webbilling/)|`webbilling`| 
 |![webinc](https://static.openfintech.io/payment_providers/webinc/logo.png?w=600&c=v0.59.26#w100) |[**WEBINC**](webinc/)|`webinc`| 
 |![webmoney](https://static.openfintech.io/payment_providers/webmoney/logo.svg?w=600&c=v0.59.26#w100) |[**WebMoney**](webmoney/)|`webmoney`| 

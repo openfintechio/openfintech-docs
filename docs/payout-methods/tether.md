@@ -42,6 +42,9 @@ The list of [Payout Services](/payout-services/) based on the _Tether_
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_erc20_usd](/payout-services/tether_erc20_usd/)|`tether_erc20_usd`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_erc20_usdt](/payout-services/tether_erc20_usdt/)|`tether_erc20_usdt`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_trc20_usdt](/payout-services/tether_trc20_usdt/)|`tether_trc20_usdt`| 
+|![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_omni_usdt](/payout-services/tether_omni_usdt/)|`tether_omni_usdt`| 
+|![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_bep20_usdt](/payout-services/tether_bep20_usdt/)|`tether_bep20_usdt`| 
+|![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_eos_usdt](/payout-services/tether_eos_usdt/)|`tether_eos_usdt`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_trc20_usd](/payout-services/tether_trc20_usd/)|`tether_trc20_usd`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_erc20_uah](/payout-services/tether_erc20_uah/)|`tether_erc20_uah`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_trc20_uah](/payout-services/tether_trc20_uah/)|`tether_trc20_uah`| 
