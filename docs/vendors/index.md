@@ -1205,6 +1205,7 @@
 |![payjunction](https://static.openfintech.io/vendors/payjunction/logo.png?w=600&c=v0.59.26#w200) |[**PayJunction**](payjunction/)|`payjunction`| 
 |![paylane](https://static.openfintech.io/vendors/paylane/logo.png?w=600&c=v0.59.26#w200) |[**PayLane**](paylane/)|`paylane`| 
 |![payleap](https://static.openfintech.io/vendors/payleap/logo.png?w=600&c=v0.59.26#w200) |[**Payleap**](payleap/)|`payleap`| 
+|![payler](https://static.openfintech.io/vendors/payler/logo.svg?w=600&c=v0.59.26#w200) |[**Payler**](payler/)|`payler`| 
 |![paylike](https://static.openfintech.io/vendors/paylike/logo.png?w=600&c=v0.59.26#w200) |[**Paylike**](paylike/)|`paylike`| 
 |![payline](https://static.openfintech.io/vendors/payline/logo.png?w=600&c=v0.59.26#w200) |[**Payline**](payline/)|`payline`| 
 |![paylinecoza](https://static.openfintech.io/vendors/paylinecoza/logo.png?w=600&c=v0.59.26#w200) |[**Payline**](paylinecoza/)|`paylinecoza`| 

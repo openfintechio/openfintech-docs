@@ -472,6 +472,7 @@
 |![payjunction](https://static.openfintech.io/payment_providers/payjunction/logo.png?w=600&c=v0.59.26#w100) |[**PayJunction**](payjunction/)|`payjunction`| 
 |![paylane](https://static.openfintech.io/payment_providers/paylane/logo.png?w=600&c=v0.59.26#w100) |[**PayLane**](paylane/)|`paylane`| 
 |![payleap](https://static.openfintech.io/payment_providers/payleap/logo.png?w=600&c=v0.59.26#w100) |[**Payleap**](payleap/)|`payleap`| 
+|![payler](https://static.openfintech.io/payment_providers/payler/logo.svg?w=600&c=v0.59.26#w100) |[**Payler**](payler/)|`payler`| 
 |![paylike](https://static.openfintech.io/payment_providers/paylike/logo.png?w=600&c=v0.59.26#w100) |[**Paylike**](paylike/)|`paylike`| 
 |![payline](https://static.openfintech.io/payment_providers/payline/logo.svg?w=600&c=v0.59.26#w100) |[**Payline**](payline/)|`payline`| 
 |![paylinecoza](https://static.openfintech.io/payment_providers/paylinecoza/logo.png?w=600&c=v0.59.26#w100) |[**Payline**](paylinecoza/)|`paylinecoza`| 

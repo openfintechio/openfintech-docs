@@ -298,6 +298,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![paycos](https://static.openfintech.io/payment_providers/paycos/icon.svg?w=278&c=v0.59.26#w100) |[PAYCOS](/payment-providers/paycos/)|`paycos`| 
 |![budpay](https://static.openfintech.io/payment_providers/budpay/icon.png?w=278&c=v0.59.26#w100) |[Budpay](/payment-providers/budpay/)|`budpay`| 
 |![paycash](https://static.openfintech.io/payment_providers/paycash/icon.png?w=278&c=v0.59.26#w100) |[PayCash](/payment-providers/paycash/)|`paycash`| 
+|![payler](https://static.openfintech.io/payment_providers/payler/icon.svg?w=278&c=v0.59.26#w100) |[Payler](/payment-providers/payler/)|`payler`| 
  
 
 ## JSON Object 
