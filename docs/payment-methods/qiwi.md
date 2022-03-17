@@ -48,6 +48,7 @@ The list of [Payment Services](/payment-services/) based on the _VISA QIWI Walle
 |![qiwi](https://static.openfintech.io/payment_methods/qiwi/icon.svg?w=278&c=v0.59.26#w100) |[qiwi_rub_hpp](/payment-services/qiwi_rub_hpp/)|`qiwi_rub_hpp`| 
 |![qiwi](https://static.openfintech.io/payment_methods/qiwi/icon.svg?w=278&c=v0.59.26#w100) |[qiwi_eur_hpp](/payment-services/qiwi_eur_hpp/)|`qiwi_eur_hpp`| 
 |![qiwi](https://static.openfintech.io/payment_methods/qiwi/icon.svg?w=278&c=v0.59.26#w100) |[qiwi_usd_hpp](/payment-services/qiwi_usd_hpp/)|`qiwi_usd_hpp`| 
+|![qiwi](https://static.openfintech.io/payment_methods/qiwi/icon.svg?w=278&c=v0.59.26#w100) |[qiwi_kzt_hpp](/payment-services/qiwi_kzt_hpp/)|`qiwi_kzt_hpp`| 
  
 
 ## Payment Providers 

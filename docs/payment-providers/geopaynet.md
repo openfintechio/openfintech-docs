@@ -44,6 +44,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![geopaynet](https://static.openfintech.io/payment_methods/geopaynet/icon.svg?w=278&c=v0.59.26#w100) |[geopaynet](/payment-methods/geopaynet/)|`geopaynet`| 
+|![binancepay](https://static.openfintech.io/payment_methods/binancepay/icon.svg?w=278&c=v0.59.26#w100) |[binancepay](/payment-methods/binancepay/)|`binancepay`| 
  
 
 ## Payout Methods 
@@ -67,7 +68,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "UA"
   ],
   "payment_method":[
-    "geopaynet"
+    "geopaynet",
+    "binancepay"
   ],
   "payout_method":[
     "geopaynet"

@@ -76,6 +76,7 @@
 |![billpay](https://static.openfintech.io/payment_methods/billpay/logo.png?w=400&c=v0.59.26#w200) |[**BIllpay**](billpay/)|`billpay`| 
 |![billsafe](https://static.openfintech.io/payment_methods/billsafe/logo.png?w=400&c=v0.59.26#w200) |[**BillSAFE**](billsafe/)|`billsafe`| 
 |![binance_coin](https://static.openfintech.io/payment_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Coin**](binance_coin/)|`binance_coin`| 
+|![binancepay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](binancepay/)|`binancepay`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](bitcoin/)|`bitcoin`| 
 |![bitcoin_cash](https://static.openfintech.io/payment_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w200) |[**Bitcoin Cash**](bitcoin_cash/)|`bitcoin_cash`| 
 |![bkmexpress](https://static.openfintech.io/payment_methods/bkmexpress/logo.png?w=400&c=v0.59.26#w200) |[**BKM Express**](bkmexpress/)|`bkmexpress`| 
@@ -385,6 +386,8 @@
 |![santander](https://static.openfintech.io/payment_methods/santander/logo.png?w=400&c=v0.59.26#w200) |[**Santander**](santander/)|`santander`| 
 |![sberbank](https://static.openfintech.io/payment_methods/sberbank/logo.svg?w=400&c=v0.59.26#w200) |[**SberBank**](sberbank/)|`sberbank`| 
 |![sberonline](https://static.openfintech.io/payment_methods/sberonline/logo.svg?w=400&c=v0.59.26#w200) |[**Sberbank Online**](sberonline/)|`sberonline`| 
+|![sbp](https://static.openfintech.io/payment_methods/sbp/logo.svg?w=400&c=v0.59.26#w200) |[**SBP**](sbp/)|`sbp`| 
+|![sbp_tome_qr](https://static.openfintech.io/payment_methods/sbp_tome_qr/logo.svg?w=400&c=v0.59.26#w200) |[**SBP Tome QR**](sbp_tome_qr/)|`sbp_tome_qr`| 
 |![scbbanknetbanking](https://static.openfintech.io/payment_methods/scbbanknetbanking/logo.png?w=400&c=v0.59.26#w200) |[**SCB netbanking**](scbbanknetbanking/)|`scbbanknetbanking`| 
 |![sebbank](https://static.openfintech.io/payment_methods/sebbank/logo.png?w=400&c=v0.59.26#w200) |[**SEB Bank**](sebbank/)|`sebbank`| 
 |![sencillito](https://static.openfintech.io/payment_methods/sencillito/logo.svg?w=400&c=v0.59.26#w200) |[**Sencillito**](sencillito/)|`sencillito`| 

@@ -44,6 +44,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![webmoneytransfer](https://static.openfintech.io/payment_methods/webmoneytransfer/icon.svg?w=278&c=v0.59.26#w100) |[webmoneytransfer](/payment-methods/webmoneytransfer/)|`webmoneytransfer`| 
 |![qiwi](https://static.openfintech.io/payment_methods/qiwi/icon.svg?w=278&c=v0.59.26#w100) |[qiwi](/payment-methods/qiwi/)|`qiwi`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay](/payment-methods/googlepay/)|`googlepay`| 
+|![sbp_tome_qr](https://static.openfintech.io/payment_methods/sbp_tome_qr/icon.svg?w=278&c=v0.59.26#w100) |[sbp_tome_qr](/payment-methods/sbp_tome_qr/)|`sbp_tome_qr`| 
+|![sbp](https://static.openfintech.io/payment_methods/sbp/icon.svg?w=278&c=v0.59.26#w100) |[sbp](/payment-methods/sbp/)|`sbp`| 
  
 
 ## Payout Methods 
@@ -72,7 +74,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "yandexmoney",
     "webmoneytransfer",
     "qiwi",
-    "googlepay"
+    "googlepay",
+    "sbp_tome_qr",
+    "sbp"
   ],
   "payout_method":[
     "payment_card",

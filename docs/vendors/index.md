@@ -1275,6 +1275,7 @@
 |![payssion](https://static.openfintech.io/vendors/payssion/logo.png?w=600&c=v0.59.26#w200) |[**Payssion**](payssion/)|`payssion`| 
 |![paystand](https://static.openfintech.io/vendors/paystand/logo.png?w=600&c=v0.59.26#w200) |[**PayStand**](paystand/)|`paystand`| 
 |![paystation](https://static.openfintech.io/vendors/paystation/logo.png?w=600&c=v0.59.26#w200) |[**Paystation**](paystation/)|`paystation`| 
+|![paystudio](https://static.openfintech.io/vendors/paystudio/logo.png?w=600&c=v0.59.26#w200) |[**PayStudio**](paystudio/)|`paystudio`| 
 |![paysure](https://static.openfintech.io/vendors/paysure/logo.png?w=600&c=v0.59.26#w200) |[**Paysure**](paysure/)|`paysure`| 
 |![paytabs](https://static.openfintech.io/vendors/paytabs/logo.png?w=600&c=v0.59.26#w200) |[**PayTabs**](paytabs/)|`paytabs`| 
 |![paytiencecc](https://static.openfintech.io/vendors/paytiencecc/logo.svg?w=600&c=v0.59.26#w200) |[**Paytience.cc**](paytiencecc/)|`paytiencecc`| 
@@ -1438,6 +1439,7 @@
 |![sberbankkolibri](https://static.openfintech.io/vendors/sberbankkolibri/logo.svg?w=600&c=v0.59.26#w200) |[**Сбербанк 'Колибри'**](sberbankkolibri/)|`sberbankkolibri`| 
 |![sbitcoin.ru](https://static.openfintech.io/vendors/sbitcoin.ru/logo.svg?w=600&c=v0.59.26#w200) |[**SBitcoin**](sbitcoin.ru/)|`sbitcoin.ru`| 
 |![sbm](https://static.openfintech.io/vendors/sbm/logo.png?w=600&c=v0.59.26#w200) |[**State Bank of Mauritius**](sbm/)|`sbm`| 
+|![sbp](https://static.openfintech.io/vendors/sbp/logo.svg?w=600&c=v0.59.26#w200) |[**SBP**](sbp/)|`sbp`| 
 |![scanpay](https://static.openfintech.io/vendors/scanpay/logo.png?w=600&c=v0.59.26#w200) |[**Scanpay**](scanpay/)|`scanpay`| 
 |![scbbanknetbanking](https://static.openfintech.io/vendors/scbbanknetbanking/logo.png?w=600&c=v0.59.26#w200) |[**SCB netbanking**](scbbanknetbanking/)|`scbbanknetbanking`| 
 |![schetvbankedlyaipiliyurlic](https://static.openfintech.io/vendors/schetvbankedlyaipiliyurlic/logo.svg?w=600&c=v0.59.26#w200) |[**Счет в банке для ИП или юр лиц**](schetvbankedlyaipiliyurlic/)|`schetvbankedlyaipiliyurlic`| 

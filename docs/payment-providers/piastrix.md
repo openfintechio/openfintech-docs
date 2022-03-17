@@ -52,6 +52,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![perfectmoney](https://static.openfintech.io/payment_methods/perfectmoney/icon.svg?w=278&c=v0.59.26#w100) |[perfectmoney](/payment-methods/perfectmoney/)|`perfectmoney`| 
 |![payeer](https://static.openfintech.io/payment_methods/payeer/icon.png?w=278&c=v0.59.26#w100) |[payeer](/payment-methods/payeer/)|`payeer`| 
 |![alfaclick](https://static.openfintech.io/payment_methods/alfaclick/icon.png?w=278&c=v0.59.26#w100) |[alfaclick](/payment-methods/alfaclick/)|`alfaclick`| 
+|![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether](/payment-methods/tether/)|`tether`| 
  
 
 ## Payout Methods 
@@ -101,7 +102,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "yandexmoney",
     "perfectmoney",
     "payeer",
-    "alfaclick"
+    "alfaclick",
+    "tether"
   ],
   "payout_method":[
     "qiwi",

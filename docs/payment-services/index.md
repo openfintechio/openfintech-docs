@@ -72,6 +72,7 @@
 |![Beeline](https://static.openfintech.io/payment_methods/beeline/logo.png?w=400&c=v0.59.26#w200) |[**Beeline**](/payment-methods/beeline/)|[`beeline_rub_invoice`](beeline_rub_invoice/)| 
 |![BIDV Bank](https://static.openfintech.io/payment_methods/bidv_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BIDV Bank**](/payment-methods/bidv_bank/)|[`bidv_bank_vnd_hpp`](bidv_bank_vnd_hpp/)| 
 |![Binance Coin](https://static.openfintech.io/payment_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Coin**](/payment-methods/binance_coin/)|[`binance_coin_bnb_hpp`](binance_coin_bnb_hpp/)| 
+|![Binance Pay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](/payment-methods/binancepay/)|[`binancepay_uah_hpp`](binancepay_uah_hpp/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_bch_hpp`](bitcoin_bch_hpp/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_bch_invoice`](bitcoin_bch_invoice/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_btc_hpp`](bitcoin_btc_hpp/)| 
@@ -435,6 +436,7 @@
 |![Punjab National Bank](https://static.openfintech.io/payment_methods/punjab_national_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Punjab National Bank**](/payment-methods/punjab_national_bank/)|[`punjab_national_bank_inr_hpp`](punjab_national_bank_inr_hpp/)| 
 ||| **Q** ||
 |![VISA QIWI Wallet](https://static.openfintech.io/payment_methods/qiwi/logo.svg?w=400&c=v0.59.26#w200) |[**VISA QIWI Wallet**](/payment-methods/qiwi/)|[`qiwi_eur_hpp`](qiwi_eur_hpp/)| 
+|![VISA QIWI Wallet](https://static.openfintech.io/payment_methods/qiwi/logo.svg?w=400&c=v0.59.26#w200) |[**VISA QIWI Wallet**](/payment-methods/qiwi/)|[`qiwi_kzt_hpp`](qiwi_kzt_hpp/)| 
 |![VISA QIWI Wallet](https://static.openfintech.io/payment_methods/qiwi/logo.svg?w=400&c=v0.59.26#w200) |[**VISA QIWI Wallet**](/payment-methods/qiwi/)|[`qiwi_rub_hpp`](qiwi_rub_hpp/)| 
 |![VISA QIWI Wallet](https://static.openfintech.io/payment_methods/qiwi/logo.svg?w=400&c=v0.59.26#w200) |[**VISA QIWI Wallet**](/payment-methods/qiwi/)|[`qiwi_usd_hpp`](qiwi_usd_hpp/)| 
 |![QQPay](https://static.openfintech.io/payment_methods/qqpay/logo.svg?w=400&c=v0.59.26#w200) |[**QQPay**](/payment-methods/qqpay/)|[`qqpay_cny_hpp`](qqpay_cny_hpp/)| 
@@ -450,6 +452,8 @@
 ||| **S** ||
 |![SACOM Bank](https://static.openfintech.io/payment_methods/sacom_bank/logo.png?w=400&c=v0.59.26#w200) |[**SACOM Bank**](/payment-methods/sacom_bank/)|[`sacom_bank_vnd_hpp`](sacom_bank_vnd_hpp/)| 
 |![SberBank](https://static.openfintech.io/payment_methods/sberbank/logo.svg?w=400&c=v0.59.26#w200) |[**SberBank**](/payment-methods/sberbank/)|[`sberbank_rub_hpp`](sberbank_rub_hpp/)| 
+|![SBP](https://static.openfintech.io/payment_methods/sbp/logo.svg?w=400&c=v0.59.26#w200) |[**SBP**](/payment-methods/sbp/)|[`sbp_rub_hpp`](sbp_rub_hpp/)| 
+|![SBP Tome QR](https://static.openfintech.io/payment_methods/sbp_tome_qr/logo.svg?w=400&c=v0.59.26#w200) |[**SBP Tome QR**](/payment-methods/sbp_tome_qr/)|[`sbp_tome_qr_rub_hpp`](sbp_tome_qr_rub_hpp/)| 
 |![Shamrao Vithal Co-operative Bank](https://static.openfintech.io/payment_methods/shamrao_vithal_cooperative_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Shamrao Vithal Co-operative Bank**](/payment-methods/shamrao_vithal_cooperative_bank_india/)|[`shamrao_vithal_cooperative_bank_india_inr_hpp`](shamrao_vithal_cooperative_bank_india_inr_hpp/)| 
 |![Shanghai Pudong Development Bank](https://static.openfintech.io/payment_methods/shanghai_pudong_development_bank/logo.png?w=400&c=v0.59.26#w200) |[**Shanghai Pudong Development Bank**](/payment-methods/shanghai_pudong_development_bank/)|[`shanghai_pudong_development_bank_cny_hpp`](shanghai_pudong_development_bank_cny_hpp/)| 
 |![Shinhan Bank](https://static.openfintech.io/payment_methods/shinhan_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Shinhan Bank**](/payment-methods/shinhan_bank/)|[`shinhan_bank_krw_hpp`](shinhan_bank_krw_hpp/)| 

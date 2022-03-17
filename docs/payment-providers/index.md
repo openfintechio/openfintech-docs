@@ -538,6 +538,7 @@
 |![payssion](https://static.openfintech.io/payment_providers/payssion/logo.png?w=600&c=v0.59.26#w100) |[**Payssion**](payssion/)|`payssion`| 
 |![paystand](https://static.openfintech.io/payment_providers/paystand/logo.png?w=600&c=v0.59.26#w100) |[**PayStand**](paystand/)|`paystand`| 
 |![paystation](https://static.openfintech.io/payment_providers/paystation/logo.png?w=600&c=v0.59.26#w100) |[**Paystation**](paystation/)|`paystation`| 
+|![paystudio](https://static.openfintech.io/payment_providers/paystudio/logo.png?w=600&c=v0.59.26#w100) |[**PayStudio**](paystudio/)|`paystudio`| 
 |![paysure](https://static.openfintech.io/payment_providers/paysure/logo.png?w=600&c=v0.59.26#w100) |[**Paysure**](paysure/)|`paysure`| 
 |![paytabs](https://static.openfintech.io/payment_providers/paytabs/logo.png?w=600&c=v0.59.26#w100) |[**PayTabs**](paytabs/)|`paytabs`| 
 |![paytiencecc](https://static.openfintech.io/payment_providers/paytiencecc/logo.svg?w=600&c=v0.59.26#w100) |[**Paytience.cc**](paytiencecc/)|`paytiencecc`| 

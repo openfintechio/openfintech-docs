@@ -299,6 +299,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![budpay](https://static.openfintech.io/payment_providers/budpay/icon.png?w=278&c=v0.59.26#w100) |[Budpay](/payment-providers/budpay/)|`budpay`| 
 |![paycash](https://static.openfintech.io/payment_providers/paycash/icon.png?w=278&c=v0.59.26#w100) |[PayCash](/payment-providers/paycash/)|`paycash`| 
 |![payler](https://static.openfintech.io/payment_providers/payler/icon.svg?w=278&c=v0.59.26#w100) |[Payler](/payment-providers/payler/)|`payler`| 
+|![paystudio](https://static.openfintech.io/payment_providers/paystudio/icon.png?w=278&c=v0.59.26#w100) |[PayStudio](/payment-providers/paystudio/)|`paystudio`| 
 |![paytiencecc](https://static.openfintech.io/payment_providers/paytiencecc/icon.svg?w=278&c=v0.59.26#w100) |[Paytience.cc](/payment-providers/paytiencecc/)|`paytiencecc`| 
  
 
