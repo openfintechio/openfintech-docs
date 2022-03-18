@@ -381,6 +381,7 @@
 |![connectum](https://static.openfintech.io/vendors/connectum/logo.svg?w=600&c=v0.59.26#w200) |[**Connectum**](connectum/)|`connectum`| 
 |![connpay](https://static.openfintech.io/vendors/connpay/logo.png?w=600&c=v0.59.26#w200) |[**ConnPay**](connpay/)|`connpay`| 
 |![constantpos](https://static.openfintech.io/vendors/constantpos/logo.svg?w=600&c=v0.59.26#w200) |[**Constantpos**](constantpos/)|`constantpos`| 
+|![contactpay](https://static.openfintech.io/vendors/contactpay/logo.png?w=600&c=v0.59.26#w200) |[**ContactPay**](contactpay/)|`contactpay`| 
 |![conversebank](https://static.openfintech.io/vendors/conversebank/logo.svg?w=600&c=v0.59.26#w200) |[**Converse Bank**](conversebank/)|`conversebank`| 
 |![corvuspay](https://static.openfintech.io/vendors/corvuspay/logo.png?w=600&c=v0.59.26#w200) |[**CorvusPay**](corvuspay/)|`corvuspay`| 
 |![cps](https://static.openfintech.io/vendors/cps/logo.png?w=600&c=v0.59.26#w200) |[**CPS**](cps/)|`cps`| 
