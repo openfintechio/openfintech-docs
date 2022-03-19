@@ -16,7 +16,7 @@
 :	[RU] Банковский перевод 
 :	[UK] Банківський переказ 
  
-**Amount limits:** from `1` to `1000000` JPY 
+**Amount limits:** from `1` to `100000000` JPY 
 
 ## Fields 
 
@@ -587,6 +587,6 @@
     }
   ],
   "amount_min":"1",
-  "amount_max":"1000000"
+  "amount_max":"100000000"
 }
 ```  
