@@ -24,10 +24,10 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`account_number`|✔|`string`|`/^[A-Z]{2}[A-Z0-9]{13,32}$\|^[0-9]{3,15}$/`| 
+|`account_number`|✔|`string`|`/^[A-Z]{2}[A-Z0-9]{13,32}$\|^[0-9]{3,30}$/`| 
 |`account_type`|✗|`string`|`/^[A-Za-z0-9]{1,10}$/`| 
 |`account_name`|✗|`string`|`/^[A-Za-z0-9\s]{2,100}$/`| 
-|`bank_branch`|✗|`string`|`/^[A-za-z,0-9]{2,100}$/`| 
+|`bank_branch`|✗|`string`|`/^[A-za-z,0-9\s]{2,100}$/`| 
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
 |`bank_name`|✗|`string`|`/^[A-Z\-\sa-z0-9_]{2,100}$/`| 
 |`bank_address`|✗|`string`|`/^[a-zA-Z0-9 \/_.,'-]{1,200}$/`| 
@@ -42,6 +42,7 @@
 |`beneficiary_address`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
 |`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
 |`sender_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
+|`bank_branch_code`|✗|`string`|`/^[0-9]{2,100}$/`| 
  
 
 ### Details 
@@ -50,7 +51,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z]{2}[A-Z0-9]{13,32}$|^[0-9]{3,15}$/` 
+	Regexp: `/^[A-Z]{2}[A-Z0-9]{13,32}$|^[0-9]{3,30}$/` 
  
 	Required: `1` 
  
@@ -104,7 +105,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-za-z,0-9]{2,100}$/` 
+	Regexp: `/^[A-za-z,0-9\s]{2,100}$/` 
  
 	Required: `` 
  
@@ -370,6 +371,24 @@
 	: [RU] Введите полное имя отправителя 
 	: [UK] Введіть повне імʼя відправкника 
  
+19. **`bank_branch_code`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank Branch Code 
+	: [RU] Bank Branch Code 
+	: [UK] Bank Branch Code 
+ 
+	Hint:  
+	: [EN] Enter Bank Branch Code 
+	: [RU] Введите Bank Branch Code 
+	: [UK] Введіть Bank Branch Code 
+ 
 
 ## JSON Object 
 
@@ -387,7 +406,7 @@
         "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430",
         "uk":"\u041d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
       },
-      "regexp":"\/^[A-Z]{2}[A-Z0-9]{13,32}$|^[0-9]{3,15}$\/",
+      "regexp":"\/^[A-Z]{2}[A-Z0-9]{13,32}$|^[0-9]{3,30}$\/",
       "required":true,
       "position":1,
       "hint":{
@@ -434,7 +453,7 @@
     {
       "key":"bank_branch",
       "type":"string",
-      "regexp":"\/^[A-za-z,0-9]{2,100}$\/",
+      "regexp":"\/^[A-za-z,0-9\\s]{2,100}$\/",
       "required":false,
       "position":4,
       "label":{
@@ -685,6 +704,24 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u0432\u0456\u0434\u043f\u0440\u0430\u0432\u043a\u043d\u0438\u043a\u0430"
       }
+    },
+    {
+      "key":"bank_branch_code",
+      "type":"string",
+      "regexp":"\/^[0-9]{2,100}$\/",
+      "required":false,
+      "position":19,
+      "label":{
+        "en":"Bank Branch Code",
+        "ru":"Bank Branch Code",
+        "uk":"Bank Branch Code"
+      },
+      "hint":{
+        "en":"Enter Bank Branch Code",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Bank Branch Code",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Bank Branch Code"
+      },
+      "example":"626"
     }
   ],
   "amount_min":"0.01",

@@ -214,7 +214,7 @@
 |![ecascad](https://static.openfintech.io/payment_providers/ecascad/logo.svg?w=600&c=v0.59.26#w100) |[**e.Cascad**](ecascad/)|`ecascad`| 
 |![ecobanq](https://static.openfintech.io/payment_providers/ecobanq/logo.png?w=600&c=v0.59.26#w100) |[**Ecobanq**](ecobanq/)|`ecobanq`| 
 |![ecomcharge](https://static.openfintech.io/payment_providers/ecomcharge/logo.png?w=600&c=v0.59.26#w100) |[**eComCharge**](ecomcharge/)|`ecomcharge`| 
-|![ecommpay](https://static.openfintech.io/payment_providers/ecommpay/logo.png?w=600&c=v0.59.26#w100) |[**ECommPay**](ecommpay/)|`ecommpay`| 
+|![ecommpay](https://static.openfintech.io/payment_providers/ecommpay/logo.png?w=600&c=v0.59.26#w100) |[**ECOMMPAY**](ecommpay/)|`ecommpay`| 
 |![ecomprocessing](https://static.openfintech.io/payment_providers/ecomprocessing/logo.png?w=600&c=v0.59.26#w100) |[**E-Comprocessing (ECP)**](ecomprocessing/)|`ecomprocessing`| 
 |![econtext](https://static.openfintech.io/payment_providers/econtext/logo.svg?w=600&c=v0.59.26#w100) |[**econtext**](econtext/)|`econtext`| 
 |![ecopayz](https://static.openfintech.io/payment_providers/ecopayz/logo.svg?w=600&c=v0.59.26#w100) |[**Ecopayz**](ecopayz/)|`ecopayz`| 

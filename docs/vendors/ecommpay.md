@@ -1,5 +1,5 @@
 
-# ECommPay 
+# ECOMMPAY 
 ![ecommpay](https://static.openfintech.io/vendors/ecommpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,7 +8,9 @@
  
 **Name:** 
  
-:	[EN] ECommPay 
+:	[EN] ECOMMPAY 
+:	[RU] ECOMMPAY 
+:	[UK] ECOMMPAY 
  
 **Status:** `active` 
  
@@ -44,7 +46,9 @@ https://static.openfintech.io/vendors/ecommpay/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"ecommpay",
   "name":{
-    "en":"ECommPay"
+    "en":"ECOMMPAY",
+    "ru":"ECOMMPAY",
+    "uk":"ECOMMPAY"
   },
   "status":"active",
   "description":{

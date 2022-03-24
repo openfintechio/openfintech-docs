@@ -80,6 +80,7 @@ The list of [Payment Services](/payment-services/) based on the _Payment card_
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_idr_hpp](/payment-services/payment_card_idr_hpp/)|`payment_card_idr_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_myr_hpp](/payment-services/payment_card_myr_hpp/)|`payment_card_myr_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_pen_hpp](/payment-services/payment_card_pen_hpp/)|`payment_card_pen_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_clp_hpp](/payment-services/payment_card_clp_hpp/)|`payment_card_clp_hpp`| 
  
 
 ## Payment Providers 
@@ -190,6 +191,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.png?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
 |![emerchantpay](https://static.openfintech.io/payment_providers/emerchantpay/icon.svg?w=278&c=v0.59.26#w100) |[EmerchantPay](/payment-providers/emerchantpay/)|`emerchantpay`| 
 |![fibonatix](https://static.openfintech.io/payment_providers/fibonatix/icon.png?w=278&c=v0.59.26#w100) |[Fibonatix](/payment-providers/fibonatix/)|`fibonatix`| 
+|![ecommpay](https://static.openfintech.io/payment_providers/ecommpay/icon.png?w=278&c=v0.59.26#w100) |[ECOMMPAY](/payment-providers/ecommpay/)|`ecommpay`| 
 |![platon](https://static.openfintech.io/payment_providers/platon/icon.svg?w=278&c=v0.59.26#w100) |[PSP Platon](/payment-providers/platon/)|`platon`| 
 |![xpayua](https://static.openfintech.io/payment_providers/xpayua/icon.svg?w=278&c=v0.59.26#w100) |[XPAY](/payment-providers/xpayua/)|`xpayua`| 
 |![paymegaio](https://static.openfintech.io/payment_providers/paymegaio/icon.svg?w=278&c=v0.59.26#w100) |[Paymega.io](/payment-providers/paymegaio/)|`paymegaio`| 
