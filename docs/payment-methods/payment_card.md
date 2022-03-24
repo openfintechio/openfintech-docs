@@ -310,6 +310,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![paystudio](https://static.openfintech.io/payment_providers/paystudio/icon.png?w=278&c=v0.59.26#w100) |[PayStudio](/payment-providers/paystudio/)|`paystudio`| 
 |![contactpay](https://static.openfintech.io/payment_providers/contactpay/icon.png?w=278&c=v0.59.26#w100) |[ContactPay](/payment-providers/contactpay/)|`contactpay`| 
 |![paytiencecc](https://static.openfintech.io/payment_providers/paytiencecc/icon.svg?w=278&c=v0.59.26#w100) |[Paytience.cc](/payment-providers/paytiencecc/)|`paytiencecc`| 
+|![paytiencecc](https://static.openfintech.io/payment_providers/paytiencecc/icon.svg?w=278&c=v0.59.26#w100) |[Paytience.cc](/payment-providers/paytiencecc/)|`paytiencecc`| 
  
 
 ## JSON Object 
