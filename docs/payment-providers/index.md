@@ -129,6 +129,7 @@
 |![centus](https://static.openfintech.io/payment_providers/centus/logo.png?w=600&c=v0.59.26#w100) |[**Centus**](centus/)|`centus`| 
 |![certusfinance](https://static.openfintech.io/payment_providers/certusfinance/logo.png?w=600&c=v0.59.26#w100) |[**Certus Finance**](certusfinance/)|`certusfinance`| 
 |![changecoins](https://static.openfintech.io/payment_providers/changecoins/logo.png?w=600&c=v0.59.26#w100) |[**ChangeCoins**](changecoins/)|`changecoins`| 
+|![chargemoney](https://static.openfintech.io/payment_providers/chargemoney/logo.png?w=600&c=v0.59.26#w100) |[**ChargeMoney**](chargemoney/)|`chargemoney`| 
 |![charityclear](https://static.openfintech.io/payment_providers/charityclear/logo.png?w=600&c=v0.59.26#w100) |[**CharityClear**](charityclear/)|`charityclear`| 
 |![chasepaymentech](https://static.openfintech.io/payment_providers/chasepaymentech/logo.png?w=600&c=v0.59.26#w100) |[**J.P. Morgan Commerce Solutions**](chasepaymentech/)|`chasepaymentech`| 
 |![checkalt](https://static.openfintech.io/payment_providers/checkalt/logo.svg?w=600&c=v0.59.26#w100) |[**CheckAlt Payment Solutions**](checkalt/)|`checkalt`| 
@@ -542,8 +543,7 @@
 |![paystudio](https://static.openfintech.io/payment_providers/paystudio/logo.png?w=600&c=v0.59.26#w100) |[**PayStudio**](paystudio/)|`paystudio`| 
 |![paysure](https://static.openfintech.io/payment_providers/paysure/logo.png?w=600&c=v0.59.26#w100) |[**Paysure**](paysure/)|`paysure`| 
 |![paytabs](https://static.openfintech.io/payment_providers/paytabs/logo.png?w=600&c=v0.59.26#w100) |[**PayTabs**](paytabs/)|`paytabs`| 
-|![paytiencecc](https://static.openfintech.io/payment_providers/paytiencecc/logo.svg?w=600&c=v0.59.26#w100) |[**Paytience.cc**](paytiencecc/)|`paytiencecc`| 
-|![paytiencecc](https://static.openfintech.io/payment_providers/paytiencecc/logo.svg?w=600&c=v0.59.26#w100) |[**Paytience.cc**](paytiencecc/)|`paytiencecc`| 
+|![paytiencecc](https://static.openfintech.io/payment_providers/paytiencecc/logo.png?w=600&c=v0.59.26#w100) |[**Paytience.cc**](paytiencecc/)|`paytiencecc`| 
 |![paytpv](https://static.openfintech.io/payment_providers/paytpv/logo.png?w=600&c=v0.59.26#w100) |[**PAYTPV**](paytpv/)|`paytpv`| 
 |![paytrail](https://static.openfintech.io/payment_providers/paytrail/logo.png?w=600&c=v0.59.26#w100) |[**Paytrail**](paytrail/)|`paytrail`| 
 |![paytrek](https://static.openfintech.io/payment_providers/paytrek/logo.png?w=600&c=v0.59.26#w100) |[**Paytrek**](paytrek/)|`paytrek`| 

@@ -303,8 +303,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![payler](https://static.openfintech.io/payment_providers/payler/icon.svg?w=278&c=v0.59.26#w100) |[Payler](/payment-providers/payler/)|`payler`| 
 |![paystudio](https://static.openfintech.io/payment_providers/paystudio/icon.png?w=278&c=v0.59.26#w100) |[PayStudio](/payment-providers/paystudio/)|`paystudio`| 
 |![contactpay](https://static.openfintech.io/payment_providers/contactpay/icon.png?w=278&c=v0.59.26#w100) |[ContactPay](/payment-providers/contactpay/)|`contactpay`| 
-|![paytiencecc](https://static.openfintech.io/payment_providers/paytiencecc/icon.svg?w=278&c=v0.59.26#w100) |[Paytience.cc](/payment-providers/paytiencecc/)|`paytiencecc`| 
-|![paytiencecc](https://static.openfintech.io/payment_providers/paytiencecc/icon.svg?w=278&c=v0.59.26#w100) |[Paytience.cc](/payment-providers/paytiencecc/)|`paytiencecc`| 
+|![paytiencecc](https://static.openfintech.io/payment_providers/paytiencecc/icon.png?w=278&c=v0.59.26#w100) |[Paytience.cc](/payment-providers/paytiencecc/)|`paytiencecc`| 
+|![chargemoney](https://static.openfintech.io/payment_providers/chargemoney/icon.png?w=278&c=v0.59.26#w100) |[ChargeMoney](/payment-providers/chargemoney/)|`chargemoney`| 
  
 
 ## JSON Object 

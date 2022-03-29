@@ -336,6 +336,7 @@
 |![changeinfo.com](https://static.openfintech.io/vendors/changeinfo.com/logo.svg?w=600&c=v0.59.26#w200) |[**ChangeInfo**](changeinfo.com/)|`changeinfo.com`| 
 |![changer.club](https://static.openfintech.io/vendors/changer.club/logo.svg?w=600&c=v0.59.26#w200) |[**changer.club**](changer.club/)|`changer.club`| 
 |![changer4u](https://static.openfintech.io/vendors/changer4u/logo.svg?w=600&c=v0.59.26#w200) |[**Changer4u**](changer4u/)|`changer4u`| 
+|![chargemoney](https://static.openfintech.io/vendors/chargemoney/logo.png?w=600&c=v0.59.26#w200) |[**ChargeMoney**](chargemoney/)|`chargemoney`| 
 |![charityclear](https://static.openfintech.io/vendors/charityclear/logo.png?w=600&c=v0.59.26#w200) |[**CharityClear**](charityclear/)|`charityclear`| 
 |![chasepaymentech](https://static.openfintech.io/vendors/chasepaymentech/logo.png?w=600&c=v0.59.26#w200) |[**J.P. Morgan Commerce Solutions**](chasepaymentech/)|`chasepaymentech`| 
 |![checkalt](https://static.openfintech.io/vendors/checkalt/logo.png?w=600&c=v0.59.26#w200) |[**CheckAlt Payment Solutions**](checkalt/)|`checkalt`| 
@@ -1279,8 +1280,7 @@
 |![paystudio](https://static.openfintech.io/vendors/paystudio/logo.png?w=600&c=v0.59.26#w200) |[**PayStudio**](paystudio/)|`paystudio`| 
 |![paysure](https://static.openfintech.io/vendors/paysure/logo.png?w=600&c=v0.59.26#w200) |[**Paysure**](paysure/)|`paysure`| 
 |![paytabs](https://static.openfintech.io/vendors/paytabs/logo.png?w=600&c=v0.59.26#w200) |[**PayTabs**](paytabs/)|`paytabs`| 
-|![paytiencecc](https://static.openfintech.io/vendors/paytiencecc/logo.svg?w=600&c=v0.59.26#w200) |[**Paytience.cc**](paytiencecc/)|`paytiencecc`| 
-|![paytiencecc](https://static.openfintech.io/vendors/paytiencecc/logo.svg?w=600&c=v0.59.26#w200) |[**Paytience.cc**](paytiencecc/)|`paytiencecc`| 
+|![paytiencecc](https://static.openfintech.io/vendors/paytiencecc/logo.png?w=600&c=v0.59.26#w200) |[**Paytience.cc**](paytiencecc/)|`paytiencecc`| 
 |![paytochina](https://static.openfintech.io/vendors/paytochina/logo.svg?w=600&c=v0.59.26#w200) |[**PayToChina.com**](paytochina/)|`paytochina`| 
 |![paytpv](https://static.openfintech.io/vendors/paytpv/logo.png?w=600&c=v0.59.26#w200) |[**PAYTPV**](paytpv/)|`paytpv`| 
 |![paytrail](https://static.openfintech.io/vendors/paytrail/logo.png?w=600&c=v0.59.26#w200) |[**Paytrail**](paytrail/)|`paytrail`| 
