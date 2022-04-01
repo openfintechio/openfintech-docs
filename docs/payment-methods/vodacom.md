@@ -48,6 +48,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Vodacom_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![selcom](https://static.openfintech.io/payment_providers/selcom/icon.png?w=278&c=v0.59.26#w100) |[Selcom](/payment-providers/selcom/)|`selcom`| 
+|![virtualpay](https://static.openfintech.io/payment_providers/virtualpay/icon.png?w=278&c=v0.59.26#w100) |[Virtual Pay](/payment-providers/virtualpay/)|`virtualpay`| 
  
 
 ## JSON Object 

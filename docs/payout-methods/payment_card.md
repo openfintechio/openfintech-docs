@@ -305,6 +305,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![contactpay](https://static.openfintech.io/payment_providers/contactpay/icon.png?w=278&c=v0.59.26#w100) |[ContactPay](/payment-providers/contactpay/)|`contactpay`| 
 |![paytiencecc](https://static.openfintech.io/payment_providers/paytiencecc/icon.png?w=278&c=v0.59.26#w100) |[Paytience.cc](/payment-providers/paytiencecc/)|`paytiencecc`| 
 |![chargemoney](https://static.openfintech.io/payment_providers/chargemoney/icon.png?w=278&c=v0.59.26#w100) |[ChargeMoney](/payment-providers/chargemoney/)|`chargemoney`| 
+|![tapanapi](https://static.openfintech.io/payment_providers/tapanapi/icon.svg?w=278&c=v0.59.26#w100) |[TapAnApi](/payment-providers/tapanapi/)|`tapanapi`| 
+|![millikart](https://static.openfintech.io/payment_providers/millikart/icon.png?w=278&c=v0.59.26#w100) |[MilliKart](/payment-providers/millikart/)|`millikart`| 
  
 
 ## JSON Object 

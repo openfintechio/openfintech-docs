@@ -890,6 +890,7 @@
 |![mikolayivske_ruprivatbank_m_mikolayiv](https://static.openfintech.io/vendors/mikolayivske_ruprivatbank_m_mikolayiv/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ 'МИКОЛАЇВСЬКЕ РЕГІОНАЛЬНЕ УПРАВЛІННЯ' ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](mikolayivske_ruprivatbank_m_mikolayiv/)|`mikolayivske_ruprivatbank_m_mikolayiv`| 
 |![milleniumbank](https://static.openfintech.io/vendors/milleniumbank/logo.png?w=600&c=v0.59.26#w200) |[**Millenium Bank**](milleniumbank/)|`milleniumbank`| 
 |![millennium](https://static.openfintech.io/vendors/millennium/logo.svg?w=600&c=v0.59.26#w200) |[**Millennium**](millennium/)|`millennium`| 
+|![millikart](https://static.openfintech.io/vendors/millikart/logo.png?w=600&c=v0.59.26#w200) |[**MilliKart**](millikart/)|`millikart`| 
 |![mineexchange](https://static.openfintech.io/vendors/mineexchange/logo.png?w=600&c=v0.59.26#w200) |[**MineExchange**](mineexchange/)|`mineexchange`| 
 |![minitix](https://static.openfintech.io/vendors/minitix/logo.png?w=600&c=v0.59.26#w200) |[**Minitix**](minitix/)|`minitix`| 
 |![mistralpay2](https://static.openfintech.io/vendors/mistralpay2/logo.png?w=600&c=v0.59.26#w200) |[**MistralPay**](mistralpay2/)|`mistralpay2`| 
@@ -1527,6 +1528,7 @@
 |![swisspay24](https://static.openfintech.io/vendors/swisspay24/logo.png?w=600&c=v0.59.26#w200) |[**SwissPay24**](swisspay24/)|`swisspay24`| 
 |![swisssecurepayment](https://static.openfintech.io/vendors/swisssecurepayment/logo.png?w=600&c=v0.59.26#w200) |[**Swiss Secure Payment™**](swisssecurepayment/)|`swisssecurepayment`| 
 || **T** ||
+|![tapanapi](https://static.openfintech.io/vendors/tapanapi/logo.svg?w=600&c=v0.59.26#w200) |[**TapAnApi**](tapanapi/)|`tapanapi`| 
 |![tapiola](https://static.openfintech.io/vendors/tapiola/logo.png?w=600&c=v0.59.26#w200) |[**Tapiola**](tapiola/)|`tapiola`| 
 |![targetpay](https://static.openfintech.io/vendors/targetpay/logo.png?w=600&c=v0.59.26#w200) |[**Targetpay.com**](targetpay/)|`targetpay`| 
 |![tarjetanaranjacreditcard](https://static.openfintech.io/vendors/tarjetanaranjacreditcard/logo.png?w=600&c=v0.59.26#w200) |[**tarjeta naranja**](tarjetanaranjacreditcard/)|`tarjetanaranjacreditcard`| 
@@ -1684,6 +1686,7 @@
 |![viabalotoonline](https://static.openfintech.io/vendors/viabalotoonline/logo.svg?w=600&c=v0.59.26#w200) |[**Via Baloto**](viabalotoonline/)|`viabalotoonline`| 
 |![vikingpay](https://static.openfintech.io/vendors/vikingpay/logo.png?w=600&c=v0.59.26#w200) |[**VikingPay**](vikingpay/)|`vikingpay`| 
 |![vinnicka_f_pat_kbprivatbank_m_vinnicya](https://static.openfintech.io/vendors/vinnicka_f_pat_kbprivatbank_m_vinnicya/logo.svg?w=600&c=v0.59.26#w200) |[**ВІННИЦЬКА ФІЛІЯ ПАТ КБ 'ПРИВАТБАНК'**](vinnicka_f_pat_kbprivatbank_m_vinnicya/)|`vinnicka_f_pat_kbprivatbank_m_vinnicya`| 
+|![virtualpay](https://static.openfintech.io/vendors/virtualpay/logo.png?w=600&c=v0.59.26#w200) |[**Virtual Pay**](virtualpay/)|`virtualpay`| 
 |![virtualxs](https://static.openfintech.io/vendors/virtualxs/logo.png?w=600&c=v0.59.26#w200) |[**Virtual Access**](virtualxs/)|`virtualxs`| 
 |![visa](https://static.openfintech.io/vendors/visa/logo.svg?w=600&c=v0.59.26#w200) |[**Visa**](visa/)|`visa`| 
 |![visa2](https://static.openfintech.io/vendors/visa2/logo.png?w=600&c=v0.59.26#w200) |[**Visa**](visa2/)|`visa2`| 

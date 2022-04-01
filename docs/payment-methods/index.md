@@ -158,6 +158,7 @@
 |![epayua](https://static.openfintech.io/payment_methods/epayua/logo.png?w=400&c=v0.59.26#w200) |[**E-Pay**](epayua/)|`epayua`| 
 |![epese](https://static.openfintech.io/payment_methods/epese/logo.png?w=400&c=v0.59.26#w200) |[**Epese**](epese/)|`epese`| 
 |![eps](https://static.openfintech.io/payment_methods/eps/logo.png?w=400&c=v0.59.26#w200) |[**eps e-payment**](eps/)|`eps`| 
+|![equitel](https://static.openfintech.io/payment_methods/equitel/logo.png?w=400&c=v0.59.26#w200) |[**Equitel**](equitel/)|`equitel`| 
 |![erip](https://static.openfintech.io/payment_methods/erip/logo.png?w=400&c=v0.59.26#w200) |[**Erip**](erip/)|`erip`| 
 |![erstebank](https://static.openfintech.io/payment_methods/erstebank/logo.png?w=400&c=v0.59.26#w200) |[**Erste Bank**](erstebank/)|`erstebank`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](ethereum/)|`ethereum`| 
@@ -191,6 +192,7 @@
 |![googlewallet](https://static.openfintech.io/payment_methods/googlewallet/logo.svg?w=400&c=v0.59.26#w200) |[**Google Wallet**](googlewallet/)|`googlewallet`| 
 || **H** ||
 |![halo_pesa](https://static.openfintech.io/payment_methods/halo_pesa/logo.png?w=400&c=v0.59.26#w200) |[**Halo pessa**](halo_pesa/)|`halo_pesa`| 
+|![halotel](https://static.openfintech.io/payment_methods/halotel/logo.png?w=400&c=v0.59.26#w200) |[**Halotel**](halotel/)|`halotel`| 
 |![hana_bank](https://static.openfintech.io/payment_methods/hana_bank/logo.png?w=400&c=v0.59.26#w200) |[**Hana Bank**](hana_bank/)|`hana_bank`| 
 |![handelsbanken](https://static.openfintech.io/payment_methods/handelsbanken/logo.png?w=400&c=v0.59.26#w200) |[**Handelsbanken**](handelsbanken/)|`handelsbanken`| 
 |![hdfc_bank](https://static.openfintech.io/payment_methods/hdfc_bank/logo.svg?w=400&c=v0.59.26#w200) |[**HDFC Bank**](hdfc_bank/)|`hdfc_bank`| 
@@ -276,6 +278,7 @@
 |![moneymail](https://static.openfintech.io/payment_methods/moneymail/logo.png?w=400&c=v0.59.26#w200) |[**MoneyMail**](moneymail/)|`moneymail`| 
 |![moneytopay](https://static.openfintech.io/payment_methods/moneytopay/logo.png?w=400&c=v0.59.26#w200) |[**MoneyToPay**](moneytopay/)|`moneytopay`| 
 |![mpayaisthailand](https://static.openfintech.io/payment_methods/mpayaisthailand/logo.png?w=400&c=v0.59.26#w200) |[**mPAY**](mpayaisthailand/)|`mpayaisthailand`| 
+|![mtn](https://static.openfintech.io/payment_methods/mtn/logo.svg?w=400&c=v0.59.26#w200) |[**MTN**](mtn/)|`mtn`| 
 |![mts](https://static.openfintech.io/payment_methods/mts/logo.png?w=400&c=v0.59.26#w200) |[**MTS**](mts/)|`mts`| 
 |![muchbetter](https://static.openfintech.io/payment_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w200) |[**MuchBetter**](muchbetter/)|`muchbetter`| 
 |![multibanconet](https://static.openfintech.io/payment_methods/multibanconet/logo.png?w=400&c=v0.59.26#w200) |[**MultiBanco NET**](multibanconet/)|`multibanconet`| 
@@ -382,6 +385,7 @@
 || **S** ||
 |![saastopankki](https://static.openfintech.io/payment_methods/saastopankki/logo.png?w=400&c=v0.59.26#w200) |[**Säästöpankki**](saastopankki/)|`saastopankki`| 
 |![sacom_bank](https://static.openfintech.io/payment_methods/sacom_bank/logo.png?w=400&c=v0.59.26#w200) |[**SACOM Bank**](sacom_bank/)|`sacom_bank`| 
+|![safaricom](https://static.openfintech.io/payment_methods/safaricom/logo.png?w=400&c=v0.59.26#w200) |[**Safaricom**](safaricom/)|`safaricom`| 
 |![safetypay](https://static.openfintech.io/payment_methods/safetypay/logo.png?w=400&c=v0.59.26#w200) |[**SafetyPay**](safetypay/)|`safetypay`| 
 |![santander](https://static.openfintech.io/payment_methods/santander/logo.png?w=400&c=v0.59.26#w200) |[**Santander**](santander/)|`santander`| 
 |![sberbank](https://static.openfintech.io/payment_methods/sberbank/logo.svg?w=400&c=v0.59.26#w200) |[**SberBank**](sberbank/)|`sberbank`| 

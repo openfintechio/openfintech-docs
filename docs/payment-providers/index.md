@@ -379,6 +379,7 @@
 |![mercuryo](https://static.openfintech.io/payment_providers/mercuryo/logo.svg?w=600&c=v0.59.26#w100) |[**Mercuryo**](mercuryo/)|`mercuryo`| 
 |![micropaymentgmbh](https://static.openfintech.io/payment_providers/micropaymentgmbh/logo.png?w=600&c=v0.59.26#w100) |[**micropayment™ GmbH**](micropaymentgmbh/)|`micropaymentgmbh`| 
 |![micropayments](https://static.openfintech.io/payment_providers/micropayments/logo.svg?w=600&c=v0.59.26#w100) |[**MicroPayments**](micropayments/)|`micropayments`| 
+|![millikart](https://static.openfintech.io/payment_providers/millikart/logo.png?w=600&c=v0.59.26#w100) |[**MilliKart**](millikart/)|`millikart`| 
 |![mineexchange](https://static.openfintech.io/payment_providers/mineexchange/logo.png?w=600&c=v0.59.26#w100) |[**MineExchange**](mineexchange/)|`mineexchange`| 
 |![mistralpay2](https://static.openfintech.io/payment_providers/mistralpay2/logo.png?w=600&c=v0.59.26#w100) |[**MistralPay**](mistralpay2/)|`mistralpay2`| 
 |![mobipaid](https://static.openfintech.io/payment_providers/mobipaid/logo.png?w=600&c=v0.59.26#w100) |[**Mobipaid**](mobipaid/)|`mobipaid`| 
@@ -660,6 +661,7 @@
 |![swisspay24](https://static.openfintech.io/payment_providers/swisspay24/logo.png?w=600&c=v0.59.26#w100) |[**SwissPay24**](swisspay24/)|`swisspay24`| 
 |![swisssecurepayment](https://static.openfintech.io/payment_providers/swisssecurepayment/logo.png?w=600&c=v0.59.26#w100) |[**Swiss Secure Payment™**](swisssecurepayment/)|`swisssecurepayment`| 
 || **T** ||
+|![tapanapi](https://static.openfintech.io/payment_providers/tapanapi/logo.svg?w=600&c=v0.59.26#w100) |[**TapAnApi**](tapanapi/)|`tapanapi`| 
 |![targetpay](https://static.openfintech.io/payment_providers/targetpay/logo.png?w=600&c=v0.59.26#w100) |[**Targetpay.com**](targetpay/)|`targetpay`| 
 |![taslink](https://static.openfintech.io/payment_providers/taslink/logo.svg?w=600&c=v0.59.26#w100) |[**TAS Link**](taslink/)|`taslink`| 
 |![tefpay](https://static.openfintech.io/payment_providers/tefpay/logo.png?w=600&c=v0.59.26#w100) |[**tefpay**](tefpay/)|`tefpay`| 
@@ -712,6 +714,7 @@
 |![veritransindonesia](https://static.openfintech.io/payment_providers/veritransindonesia/logo.png?w=600&c=v0.59.26#w100) |[**Veritrans Indonesia**](veritransindonesia/)|`veritransindonesia`| 
 |![verotel](https://static.openfintech.io/payment_providers/verotel/logo.png?w=600&c=v0.59.26#w100) |[**Verotel**](verotel/)|`verotel`| 
 |![vikingpay](https://static.openfintech.io/payment_providers/vikingpay/logo.png?w=600&c=v0.59.26#w100) |[**VikingPay**](vikingpay/)|`vikingpay`| 
+|![virtualpay](https://static.openfintech.io/payment_providers/virtualpay/logo.png?w=600&c=v0.59.26#w100) |[**Virtual Pay**](virtualpay/)|`virtualpay`| 
 |![virtualxs](https://static.openfintech.io/payment_providers/virtualxs/logo.png?w=600&c=v0.59.26#w100) |[**Virtual Access**](virtualxs/)|`virtualxs`| 
 |![viveum](https://static.openfintech.io/payment_providers/viveum/logo.png?w=600&c=v0.59.26#w100) |[**VIVEUM**](viveum/)|`viveum`| 
 |![voguepay](https://static.openfintech.io/payment_providers/voguepay/logo.png?w=600&c=v0.59.26#w100) |[**VoguePay**](voguepay/)|`voguepay`| 
