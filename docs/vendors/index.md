@@ -427,6 +427,7 @@
 |![dialxs](https://static.openfintech.io/vendors/dialxs/logo.png?w=600&c=v0.59.26#w200) |[**DialXS**](dialxs/)|`dialxs`| 
 |![dibspaymentservices](https://static.openfintech.io/vendors/dibspaymentservices/logo.png?w=600&c=v0.59.26#w200) |[**DIBS Payment Services**](dibspaymentservices/)|`dibspaymentservices`| 
 |![digitalriverworldpayments](https://static.openfintech.io/vendors/digitalriverworldpayments/logo.png?w=600&c=v0.59.26#w200) |[**Digital River World Payments**](digitalriverworldpayments/)|`digitalriverworldpayments`| 
+|![dimocopayments](https://static.openfintech.io/vendors/dimocopayments/logo.png?w=600&c=v0.59.26#w200) |[**DIMOCO Payments**](dimocopayments/)|`dimocopayments`| 
 |![dineromail](https://static.openfintech.io/vendors/dineromail/logo.png?w=600&c=v0.59.26#w200) |[**DineroMail**](dineromail/)|`dineromail`| 
 |![dinersclub](https://static.openfintech.io/vendors/dinersclub/logo.svg?w=600&c=v0.59.26#w200) |[**Diners Club International**](dinersclub/)|`dinersclub`| 
 |![dinpay](https://static.openfintech.io/vendors/dinpay/logo.png?w=600&c=v0.59.26#w200) |[**Dinpay**](dinpay/)|`dinpay`| 

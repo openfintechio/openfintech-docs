@@ -190,6 +190,7 @@
 |![dialxs](https://static.openfintech.io/payment_providers/dialxs/logo.png?w=600&c=v0.59.26#w100) |[**DialXS**](dialxs/)|`dialxs`| 
 |![dibspaymentservices](https://static.openfintech.io/payment_providers/dibspaymentservices/logo.png?w=600&c=v0.59.26#w100) |[**DIBS Payment Services**](dibspaymentservices/)|`dibspaymentservices`| 
 |![digitalriverworldpayments](https://static.openfintech.io/payment_providers/digitalriverworldpayments/logo.png?w=600&c=v0.59.26#w100) |[**Digital River World Payments**](digitalriverworldpayments/)|`digitalriverworldpayments`| 
+|![dimocopayments](https://static.openfintech.io/payment_providers/dimocopayments/logo.png?w=600&c=v0.59.26#w100) |[**DIMOCO Payments**](dimocopayments/)|`dimocopayments`| 
 |![dineromail](https://static.openfintech.io/payment_providers/dineromail/logo.svg?w=600&c=v0.59.26#w100) |[**DineroMail**](dineromail/)|`dineromail`| 
 |![dinpay](https://static.openfintech.io/payment_providers/dinpay/logo.png?w=600&c=v0.59.26#w100) |[**Dinpay**](dinpay/)|`dinpay`| 
 |![direcpay](https://static.openfintech.io/payment_providers/direcpay/logo.png?w=600&c=v0.59.26#w100) |[**DirecPay**](direcpay/)|`direcpay`| 
