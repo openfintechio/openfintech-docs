@@ -211,6 +211,7 @@
 |![GEO Pay](https://static.openfintech.io/payment_methods/geopaynet/logo.svg?w=400&c=v0.59.26#w200) |[**GEO Pay**](/payment-methods/geopaynet/)|[`geopaynet_uah_hpp`](geopaynet_uah_hpp/)| 
 |![Giropay](https://static.openfintech.io/payment_methods/giropay/logo.svg?w=400&c=v0.59.26#w200) |[**Giropay**](/payment-methods/giropay/)|[`giropay_eur_hpp`](giropay_eur_hpp/)| 
 |![Google Pay](https://static.openfintech.io/payment_methods/googlepay/logo.svg?w=400&c=v0.59.26#w200) |[**Google Pay**](/payment-methods/googlepay/)|[`googlepay_eur_hpp`](googlepay_eur_hpp/)| 
+|![Google Pay](https://static.openfintech.io/payment_methods/googlepay/logo.svg?w=400&c=v0.59.26#w200) |[**Google Pay**](/payment-methods/googlepay/)|[`googlepay_inr_hpp`](googlepay_inr_hpp/)| 
 |![Google Pay](https://static.openfintech.io/payment_methods/googlepay/logo.svg?w=400&c=v0.59.26#w200) |[**Google Pay**](/payment-methods/googlepay/)|[`googlepay_rub_hpp`](googlepay_rub_hpp/)| 
 |![Google Pay](https://static.openfintech.io/payment_methods/googlepay/logo.svg?w=400&c=v0.59.26#w200) |[**Google Pay**](/payment-methods/googlepay/)|[`googlepay_uah_hpp`](googlepay_uah_hpp/)| 
 |![Google Pay](https://static.openfintech.io/payment_methods/googlepay/logo.svg?w=400&c=v0.59.26#w200) |[**Google Pay**](/payment-methods/googlepay/)|[`googlepay_usd_hpp`](googlepay_usd_hpp/)| 
@@ -227,6 +228,7 @@
 |![IDBI Bank Ltd](https://static.openfintech.io/payment_methods/idbi_bank/logo.svg?w=400&c=v0.59.26#w200) |[**IDBI Bank Ltd**](/payment-methods/idbi_bank/)|[`idbi_bank_inr_hpp`](idbi_bank_inr_hpp/)| 
 |![iDEAL](https://static.openfintech.io/payment_methods/ideal/logo.svg?w=400&c=v0.59.26#w200) |[**iDEAL**](/payment-methods/ideal/)|[`ideal_eur_hpp`](ideal_eur_hpp/)| 
 |![IDFC BANK](https://static.openfintech.io/payment_methods/idfc_bank_india/logo.svg?w=400&c=v0.59.26#w200) |[**IDFC BANK**](/payment-methods/idfc_bank_india/)|[`idfc_bank_india_inr_hpp`](idfc_bank_india_inr_hpp/)| 
+|![IMPS](https://static.openfintech.io/payment_methods/imps/logo.png?w=400&c=v0.59.26#w200) |[**IMPS**](/payment-methods/imps/)|[`imps_inr_hpp`](imps_inr_hpp/)| 
 |![Indian Bank](https://static.openfintech.io/payment_methods/indian_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Indian Bank**](/payment-methods/indian_bank/)|[`indian_bank_inr_hpp`](indian_bank_inr_hpp/)| 
 |![Indian Overseas Bank](https://static.openfintech.io/payment_methods/indian_overseas_bank/logo.png?w=400&c=v0.59.26#w200) |[**Indian Overseas Bank**](/payment-methods/indian_overseas_bank/)|[`indian_overseas_bank_inr_hpp`](indian_overseas_bank_inr_hpp/)| 
 |![IndusInd Bank](https://static.openfintech.io/payment_methods/indusind_bank/logo.png?w=400&c=v0.59.26#w200) |[**IndusInd Bank**](/payment-methods/indusind_bank/)|[`indusind_bank_inr_hpp`](indusind_bank_inr_hpp/)| 
@@ -536,6 +538,7 @@
 |![Unionpay_QR](https://static.openfintech.io/payment_methods/unionpay_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Unionpay_QR**](/payment-methods/unionpay_qr/)|[`unionpay_qr_cny_hpp`](unionpay_qr_cny_hpp/)| 
 |![UOBT](https://static.openfintech.io/payment_methods/uobt/logo.svg?w=400&c=v0.59.26#w200) |[**UOBT**](/payment-methods/uobt/)|[`uobt_thb_hpp`](uobt_thb_hpp/)| 
 |![UPI Aggregated](https://static.openfintech.io/payment_methods/upi_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**UPI Aggregated**](/payment-methods/upi_aggregated/)|[`upi_aggregated_inr_hpp`](upi_aggregated_inr_hpp/)| 
+|![UPI](https://static.openfintech.io/payment_methods/upi/logo.svg?w=400&c=v0.59.26#w200) |[**UPI**](/payment-methods/upi/)|[`upi_inr_hpp`](upi_inr_hpp/)| 
 |![USSD](https://static.openfintech.io/payment_methods/ussd/logo.svg?w=400&c=v0.59.26#w200) |[**USSD**](/payment-methods/ussd/)|[`ussd_cny_hpp`](ussd_cny_hpp/)| 
 |![USSD](https://static.openfintech.io/payment_methods/ussd/logo.svg?w=400&c=v0.59.26#w200) |[**USSD**](/payment-methods/ussd/)|[`ussd_ngn_hpp`](ussd_ngn_hpp/)| 
 ||| **V** ||

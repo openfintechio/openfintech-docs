@@ -4,6 +4,7 @@
 |Logo|Name|Code| 
 |:---:|:---:|:---:| 
 || **1** ||
+|![10pay](https://static.openfintech.io/payment_providers/10pay/logo.svg?w=600&c=v0.59.26#w100) |[**10Pay**](10pay/)|`10pay`| 
 |![123send](https://static.openfintech.io/payment_providers/123send/logo.png?w=600&c=v0.59.26#w100) |[**123Send**](123send/)|`123send`| 
 |![123x](https://static.openfintech.io/payment_providers/123x/logo.png?w=600&c=v0.59.26#w100) |[**123x**](123x/)|`123x`| 
 |![1pay](https://static.openfintech.io/payment_providers/1pay/logo.png?w=600&c=v0.59.26#w100) |[**1Pay**](1pay/)|`1pay`| 

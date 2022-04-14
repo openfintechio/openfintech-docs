@@ -208,6 +208,7 @@
 |![idbi_bank](https://static.openfintech.io/payment_methods/idbi_bank/logo.svg?w=400&c=v0.59.26#w200) |[**IDBI Bank Ltd**](idbi_bank/)|`idbi_bank`| 
 |![ideal](https://static.openfintech.io/payment_methods/ideal/logo.svg?w=400&c=v0.59.26#w200) |[**iDEAL**](ideal/)|`ideal`| 
 |![idfc_bank_india](https://static.openfintech.io/payment_methods/idfc_bank_india/logo.svg?w=400&c=v0.59.26#w200) |[**IDFC BANK**](idfc_bank_india/)|`idfc_bank_india`| 
+|![imps](https://static.openfintech.io/payment_methods/imps/logo.png?w=400&c=v0.59.26#w200) |[**IMPS**](imps/)|`imps`| 
 |![indian_bank](https://static.openfintech.io/payment_methods/indian_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Indian Bank**](indian_bank/)|`indian_bank`| 
 |![indian_overseas_bank](https://static.openfintech.io/payment_methods/indian_overseas_bank/logo.png?w=400&c=v0.59.26#w200) |[**Indian Overseas Bank**](indian_overseas_bank/)|`indian_overseas_bank`| 
 |![indusind_bank](https://static.openfintech.io/payment_methods/indusind_bank/logo.png?w=400&c=v0.59.26#w200) |[**IndusInd Bank**](indusind_bank/)|`indusind_bank`| 
@@ -462,6 +463,7 @@
 |![unistream](https://static.openfintech.io/payment_methods/unistream/logo.png?w=400&c=v0.59.26#w200) |[**Unistream**](unistream/)|`unistream`| 
 |![unitedoverseasbankuobnetbanking](https://static.openfintech.io/payment_methods/unitedoverseasbankuobnetbanking/logo.png?w=400&c=v0.59.26#w200) |[**UOB netbanking**](unitedoverseasbankuobnetbanking/)|`unitedoverseasbankuobnetbanking`| 
 |![uobt](https://static.openfintech.io/payment_methods/uobt/logo.svg?w=400&c=v0.59.26#w200) |[**UOBT**](uobt/)|`uobt`| 
+|![upi](https://static.openfintech.io/payment_methods/upi/logo.svg?w=400&c=v0.59.26#w200) |[**UPI**](upi/)|`upi`| 
 |![upi_aggregated](https://static.openfintech.io/payment_methods/upi_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**UPI Aggregated**](upi_aggregated/)|`upi_aggregated`| 
 |![usemyservices](https://static.openfintech.io/payment_methods/usemyservices/logo.png?w=400&c=v0.59.26#w200) |[**UseMyServices**](usemyservices/)|`usemyservices`| 
 |![ussd](https://static.openfintech.io/payment_methods/ussd/logo.svg?w=400&c=v0.59.26#w200) |[**USSD**](ussd/)|`ussd`| 
