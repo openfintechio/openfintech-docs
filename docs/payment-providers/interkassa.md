@@ -95,6 +95,19 @@ The list of supported [Payment Methods](/payment-methods/)
 |![olamoney](https://static.openfintech.io/payment_methods/olamoney/icon.png?w=278&c=v0.59.26#w100) |[olamoney](/payment-methods/olamoney/)|`olamoney`| 
 |![freecharge](https://static.openfintech.io/payment_methods/freecharge/icon.svg?w=278&c=v0.59.26#w100) |[freecharge](/payment-methods/freecharge/)|`freecharge`| 
 |![phonepe](https://static.openfintech.io/payment_methods/phonepe/icon.svg?w=278&c=v0.59.26#w100) |[phonepe](/payment-methods/phonepe/)|`phonepe`| 
+|![allahabad_bank](https://static.openfintech.io/payment_methods/allahabad_bank/icon.svg?w=278&c=v0.59.26#w100) |[allahabad_bank](/payment-methods/allahabad_bank/)|`allahabad_bank`| 
+|![axis_bank](https://static.openfintech.io/payment_methods/axis_bank/icon.svg?w=278&c=v0.59.26#w100) |[axis_bank](/payment-methods/axis_bank/)|`axis_bank`| 
+|![corporation_bank](https://static.openfintech.io/payment_methods/corporation_bank/icon.svg?w=278&c=v0.59.26#w100) |[corporation_bank](/payment-methods/corporation_bank/)|`corporation_bank`| 
+|![oriental_bank_of_commerce](https://static.openfintech.io/payment_methods/oriental_bank_of_commerce/icon.svg?w=278&c=v0.59.26#w100) |[oriental_bank_of_commerce](/payment-methods/oriental_bank_of_commerce/)|`oriental_bank_of_commerce`| 
+|![city_union_bank](https://static.openfintech.io/payment_methods/city_union_bank/icon.svg?w=278&c=v0.59.26#w100) |[city_union_bank](/payment-methods/city_union_bank/)|`city_union_bank`| 
+|![vijaya_bank](https://static.openfintech.io/payment_methods/vijaya_bank/icon.svg?w=278&c=v0.59.26#w100) |[vijaya_bank](/payment-methods/vijaya_bank/)|`vijaya_bank`| 
+|![united_bank_of_india](https://static.openfintech.io/payment_methods/united_bank_of_india/icon.svg?w=278&c=v0.59.26#w100) |[united_bank_of_india](/payment-methods/united_bank_of_india/)|`united_bank_of_india`| 
+|![state_bank_of_india](https://static.openfintech.io/payment_methods/state_bank_of_india/icon.svg?w=278&c=v0.59.26#w100) |[state_bank_of_india](/payment-methods/state_bank_of_india/)|`state_bank_of_india`| 
+|![rbl_bank](https://static.openfintech.io/payment_methods/rbl_bank/icon.png?w=278&c=v0.59.26#w100) |[rbl_bank](/payment-methods/rbl_bank/)|`rbl_bank`| 
+|![andhra_bank](https://static.openfintech.io/payment_methods/andhra_bank/icon.svg?w=278&c=v0.59.26#w100) |[andhra_bank](/payment-methods/andhra_bank/)|`andhra_bank`| 
+|![bank_of_baroda](https://static.openfintech.io/payment_methods/bank_of_baroda/icon.svg?w=278&c=v0.59.26#w100) |[bank_of_baroda](/payment-methods/bank_of_baroda/)|`bank_of_baroda`| 
+|![csb_bank](https://static.openfintech.io/payment_methods/csb_bank/icon.png?w=278&c=v0.59.26#w100) |[csb_bank](/payment-methods/csb_bank/)|`csb_bank`| 
+|![au_small_finance_bank](https://static.openfintech.io/payment_methods/au_small_finance_bank/icon.png?w=278&c=v0.59.26#w100) |[au_small_finance_bank](/payment-methods/au_small_finance_bank/)|`au_small_finance_bank`| 
  
 
 ## Payout Methods 
@@ -173,7 +186,20 @@ The list of supported [Payout Methods](/payout-methods/)
     "reliance_jio",
     "olamoney",
     "freecharge",
-    "phonepe"
+    "phonepe",
+    "allahabad_bank",
+    "axis_bank",
+    "corporation_bank",
+    "oriental_bank_of_commerce",
+    "city_union_bank",
+    "vijaya_bank",
+    "united_bank_of_india",
+    "state_bank_of_india",
+    "rbl_bank",
+    "andhra_bank",
+    "bank_of_baroda",
+    "csb_bank",
+    "au_small_finance_bank"
   ],
   "payout_method":[
     "payment_card",

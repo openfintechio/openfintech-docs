@@ -1,5 +1,5 @@
 
-# Bank of Baroda 
+# Bank Of Baroda 
 ![bank_of_baroda](https://static.openfintech.io/payment_methods/bank_of_baroda/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,7 +7,7 @@
  
 **Name:** 
  
-:	[EN] Bank of Baroda 
+:	[EN] Bank Of Baroda 
  
 **Category:** `bank_transfer` 
  
@@ -30,7 +30,7 @@ https://static.openfintech.io/payment_methods/bank_of_baroda/icon.svg?w=278&c=v0
 
 ## Payment Services 
  
-The list of [Payment Services](/payment-services/) based on the _Bank of Baroda_ 
+The list of [Payment Services](/payment-services/) based on the _Bank Of Baroda_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -39,11 +39,12 @@ The list of [Payment Services](/payment-services/) based on the _Bank of Baroda_
 
 ## Payment Providers 
  
-The list of [Payment Providers](/payment-providers/) that support the _Bank of Baroda_ 
+The list of [Payment Providers](/payment-providers/) that support the _Bank Of Baroda_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![paysec](https://static.openfintech.io/payment_providers/paysec/icon.png?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
+|![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
  
 
 ## JSON Object 
@@ -53,7 +54,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank of B
   "code":"bank_of_baroda",
   "vendor":null,
   "name":{
-    "en":"Bank of Baroda"
+    "en":"Bank Of Baroda"
   },
   "description":null,
   "countries":null,

@@ -1,5 +1,5 @@
 
-# Bank of Baroda (service) 
+# Bank Of Baroda (service) 
 ![bank_of_baroda_inr_hpp](https://static.openfintech.io/payment_methods/bank_of_baroda_inr_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -13,7 +13,7 @@
  
 **Name:** 
  
-:	[EN] Bank of Baroda 
+:	[EN] Bank Of Baroda 
  
 **Amount limits:** from `0.01` to `9999999` INR 
 
