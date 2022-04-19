@@ -712,6 +712,7 @@
 |![luxlite-kiev](https://static.openfintech.io/payout_methods/luxlite-kiev/logo.png?w=400&c=v0.59.26#w24) |[**LuxLite (Kiev)**](luxlite-kiev/)|`luxlite-kiev`| 
 || **M** ||
 |![m-tel-uman](https://static.openfintech.io/payout_methods/m-tel-uman/logo.png?w=400&c=v0.59.26#w24) |[**M-TEL (Uman)**](m-tel-uman/)|`m-tel-uman`| 
+|![m_pesa](https://static.openfintech.io/payout_methods/m_pesa/logo.svg?w=400&c=v0.59.26#w24) |[**M-Pesa**](m_pesa/)|`m_pesa`| 
 |![magicheskie-zemli](https://static.openfintech.io/payout_methods/magicheskie-zemli/logo.png?w=400&c=v0.59.26#w24) |[**Magical Earths**](magicheskie-zemli/)|`magicheskie-zemli`| 
 |![magisom-khmelnitska](https://static.openfintech.io/payout_methods/magisom-khmelnitska/logo.svg?w=400&c=v0.59.26#w24) |[**MAGIСOM (Хмельницька)**](magisom-khmelnitska/)|`magisom-khmelnitska`| 
 |![magnus-belaia-tserkov](https://static.openfintech.io/payout_methods/magnus-belaia-tserkov/logo.png?w=400&c=v0.59.26#w24) |[**Magnus (White Church)**](magnus-belaia-tserkov/)|`magnus-belaia-tserkov`| 
@@ -775,6 +776,7 @@
 |![msl-derzhavni-lotereyi](https://static.openfintech.io/payout_methods/msl-derzhavni-lotereyi/logo.svg?w=400&c=v0.59.26#w24) |[**MSL - state lottery**](msl-derzhavni-lotereyi/)|`msl-derzhavni-lotereyi`| 
 |![mtk-net-chernovtsy](https://static.openfintech.io/payout_methods/mtk-net-chernovtsy/logo.png?w=400&c=v0.59.26#w24) |[**MTK NO (Chernivtsi)**](mtk-net-chernovtsy/)|`mtk-net-chernovtsy`| 
 |![mtm](https://static.openfintech.io/payout_methods/mtm/logo.png?w=400&c=v0.59.26#w24) |[**MTM**](mtm/)|`mtm`| 
+|![mtn](https://static.openfintech.io/payout_methods/mtn/logo.svg?w=400&c=v0.59.26#w24) |[**MTN**](mtn/)|`mtn`| 
 |![mts](https://static.openfintech.io/payout_methods/mts/logo.svg?w=400&c=v0.59.26#w24) |[**MTS**](mts/)|`mts`| 
 |![muchbetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](muchbetter/)|`muchbetter`| 
 |![mukachivskii-mrem-zakarpattia-oe](https://static.openfintech.io/payout_methods/mukachivskii-mrem-zakarpattia-oe/logo.png?w=400&c=v0.59.26#w24) |[**Mukachevo GRES Transcarpathia OE**](mukachivskii-mrem-zakarpattia-oe/)|`mukachivskii-mrem-zakarpattia-oe`| 

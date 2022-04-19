@@ -218,6 +218,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![forwardbank](https://static.openfintech.io/payment_providers/forwardbank/icon.svg?w=278&c=v0.59.26#w100) |[Forward Bank](/payment-providers/forwardbank/)|`forwardbank`| 
 |![genome](https://static.openfintech.io/payment_providers/genome/icon.svg?w=278&c=v0.59.26#w100) |[Genome](/payment-providers/genome/)|`genome`| 
 |![tkbpay](https://static.openfintech.io/payment_providers/tkbpay/icon.svg?w=278&c=v0.59.26#w100) |[TKB Pay](/payment-providers/tkbpay/)|`tkbpay`| 
+|![mercuryo](https://static.openfintech.io/payment_providers/mercuryo/icon.svg?w=278&c=v0.59.26#w100) |[Mercuryo](/payment-providers/mercuryo/)|`mercuryo`| 
 |![paymentwall](https://static.openfintech.io/payment_providers/paymentwall/icon.svg?w=278&c=v0.59.26#w100) |[paymentwall](/payment-providers/paymentwall/)|`paymentwall`| 
 |![wlandpay](https://static.openfintech.io/payment_providers/wlandpay/icon.png?w=278&c=v0.59.26#w100) |[Wlandpay](/payment-providers/wlandpay/)|`wlandpay`| 
 |![exactly](https://static.openfintech.io/payment_providers/exactly/icon.svg?w=278&c=v0.59.26#w100) |[Exactly](/payment-providers/exactly/)|`exactly`| 
@@ -314,6 +315,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![tapanapi](https://static.openfintech.io/payment_providers/tapanapi/icon.svg?w=278&c=v0.59.26#w100) |[TapAnApi](/payment-providers/tapanapi/)|`tapanapi`| 
 |![millikart](https://static.openfintech.io/payment_providers/millikart/icon.png?w=278&c=v0.59.26#w100) |[MilliKart](/payment-providers/millikart/)|`millikart`| 
 |![dimocopayments](https://static.openfintech.io/payment_providers/dimocopayments/icon.png?w=278&c=v0.59.26#w100) |[DIMOCO Payments](/payment-providers/dimocopayments/)|`dimocopayments`| 
+|![leobank](https://static.openfintech.io/payment_providers/leobank/icon.png?w=278&c=v0.59.26#w100) |[LeoBank](/payment-providers/leobank/)|`leobank`| 
+|![bennupay](https://static.openfintech.io/payment_providers/bennupay/icon.png?w=278&c=v0.59.26#w100) |[bennupay](/payment-providers/bennupay/)|`bennupay`| 
  
 
 ## JSON Object 

@@ -75,6 +75,7 @@
 |![barion](https://static.openfintech.io/payment_providers/barion/logo.png?w=600&c=v0.59.26#w100) |[**Barion Payments**](barion/)|`barion`| 
 |![be2bill](https://static.openfintech.io/payment_providers/be2bill/logo.png?w=600&c=v0.59.26#w100) |[**Be2bill**](be2bill/)|`be2bill`| 
 |![beanstream](https://static.openfintech.io/payment_providers/beanstream/logo.svg?w=600&c=v0.59.26#w100) |[**Beanstream**](beanstream/)|`beanstream`| 
+|![bennupay](https://static.openfintech.io/payment_providers/bennupay/logo.png?w=600&c=v0.59.26#w100) |[**bennupay**](bennupay/)|`bennupay`| 
 |![beonpay](https://static.openfintech.io/payment_providers/beonpay/logo.png?w=600&c=v0.59.26#w100) |[**BeonPay**](beonpay/)|`beonpay`| 
 |![betatransfer](https://static.openfintech.io/payment_providers/betatransfer/logo.svg?w=600&c=v0.59.26#w100) |[**BetaTransfer**](betatransfer/)|`betatransfer`| 
 |![bilderlings](https://static.openfintech.io/payment_providers/bilderlings/logo.svg?w=600&c=v0.59.26#w100) |[**Bilderlings**](bilderlings/)|`bilderlings`| 
@@ -362,6 +363,7 @@
 || **L** ||
 |![lateralpaymentsolutions](https://static.openfintech.io/payment_providers/lateralpaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Lateral Payment Solutions**](lateralpaymentsolutions/)|`lateralpaymentsolutions`| 
 |![lemonway](https://static.openfintech.io/payment_providers/lemonway/logo.png?w=600&c=v0.59.26#w100) |[**Lemon Way**](lemonway/)|`lemonway`| 
+|![leobank](https://static.openfintech.io/payment_providers/leobank/logo.png?w=600&c=v0.59.26#w100) |[**LeoBank**](leobank/)|`leobank`| 
 |![leogaming](https://static.openfintech.io/payment_providers/leogaming/logo.svg?w=600&c=v0.59.26#w100) |[**LeoGaming**](leogaming/)|`leogaming`| 
 |![lianlianpay](https://static.openfintech.io/payment_providers/lianlianpay/logo.png?w=600&c=v0.59.26#w100) |[**LianlianPay**](lianlianpay/)|`lianlianpay`| 
 |![limonetik](https://static.openfintech.io/payment_providers/limonetik/logo.png?w=600&c=v0.59.26#w100) |[**Limonetik**](limonetik/)|`limonetik`| 

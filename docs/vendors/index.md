@@ -223,6 +223,7 @@
 |![belarusbank](https://static.openfintech.io/vendors/belarusbank/logo.svg?w=600&c=v0.59.26#w200) |[**Беларусбанк**](belarusbank/)|`belarusbank`| 
 |![belfiusdirectnet](https://static.openfintech.io/vendors/belfiusdirectnet/logo.png?w=600&c=v0.59.26#w200) |[**Belfius DirectNet**](belfiusdirectnet/)|`belfiusdirectnet`| 
 |![belkapay](https://static.openfintech.io/vendors/belkapay/logo.svg?w=600&c=v0.59.26#w200) |[**belkapay.com**](belkapay/)|`belkapay`| 
+|![bennupay](https://static.openfintech.io/vendors/bennupay/logo.png?w=600&c=v0.59.26#w200) |[**bennupay**](bennupay/)|`bennupay`| 
 |![beonpay](https://static.openfintech.io/vendors/beonpay/logo.png?w=600&c=v0.59.26#w200) |[**BeonPay**](beonpay/)|`beonpay`| 
 |![best-obmen](https://static.openfintech.io/vendors/best-obmen/logo.png?w=600&c=v0.59.26#w200) |[**best-obmen**](best-obmen/)|`best-obmen`| 
 |![bestcoin.cc](https://static.openfintech.io/vendors/bestcoin.cc/logo.svg?w=600&c=v0.59.26#w200) |[**bestcoin.cc**](bestcoin.cc/)|`bestcoin.cc`| 
@@ -848,6 +849,7 @@
 |![lateralpaymentsolutions](https://static.openfintech.io/vendors/lateralpaymentsolutions/logo.png?w=600&c=v0.59.26#w200) |[**Lateral Payment Solutions**](lateralpaymentsolutions/)|`lateralpaymentsolutions`| 
 |![lavapay](https://static.openfintech.io/vendors/lavapay/logo.svg?w=600&c=v0.59.26#w200) |[**LavaPay**](lavapay/)|`lavapay`| 
 |![lemonway](https://static.openfintech.io/vendors/lemonway/logo.png?w=600&c=v0.59.26#w200) |[**Lemon Way**](lemonway/)|`lemonway`| 
+|![leobank](https://static.openfintech.io/vendors/leobank/logo.png?w=600&c=v0.59.26#w200) |[**LeoBank**](leobank/)|`leobank`| 
 |![leogaming](https://static.openfintech.io/vendors/leogaming/logo.svg?w=600&c=v0.59.26#w200) |[**leogaming**](leogaming/)|`leogaming`| 
 |![lianlianpay](https://static.openfintech.io/vendors/lianlianpay/logo.png?w=600&c=v0.59.26#w200) |[**LianlianPay**](lianlianpay/)|`lianlianpay`| 
 |![limonetik](https://static.openfintech.io/vendors/limonetik/logo.png?w=600&c=v0.59.26#w200) |[**Limonetik**](limonetik/)|`limonetik`| 

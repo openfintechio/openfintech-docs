@@ -49,6 +49,18 @@ The list of supported [Payment Methods](/payment-methods/)
 |![zantel_ezypesa](https://static.openfintech.io/payment_methods/zantel_ezypesa/icon.png?w=278&c=v0.59.26#w100) |[zantel_ezypesa](/payment-methods/zantel_ezypesa/)|`zantel_ezypesa`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![airtel_money](https://static.openfintech.io/payout_methods/airtel_money/icon.png?w=278&c=v0.59.26#w40) |[airtel_money](payout-methodsairtel_money/)|`airtel_money`| 
+|![mtn](https://static.openfintech.io/payout_methods/mtn/icon.svg?w=278&c=v0.59.26#w40) |[mtn](payout-methodsmtn/)|`mtn`| 
+|![tigo_pesa](https://static.openfintech.io/payout_methods/tigo_pesa/icon.png?w=278&c=v0.59.26#w40) |[tigo_pesa](payout-methodstigo_pesa/)|`tigo_pesa`| 
+|![m_pesa](https://static.openfintech.io/payout_methods/m_pesa/icon.svg?w=278&c=v0.59.26#w40) |[m_pesa](payout-methodsm_pesa/)|`m_pesa`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -68,7 +80,12 @@ The list of supported [Payment Methods](/payment-methods/)
     "equitel",
     "zantel_ezypesa"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "airtel_money",
+    "mtn",
+    "tigo_pesa",
+    "m_pesa"
+  ],
   "metadata":null,
   "name":{
     "en":"Virtual Pay",

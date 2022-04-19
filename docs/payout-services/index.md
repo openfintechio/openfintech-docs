@@ -661,6 +661,8 @@
 |![LuxLite (Kiev)](https://static.openfintech.io/payout_methods/luxlite-kiev/logo.png?w=400&c=v0.59.26#w24) |[**LuxLite (Kiev)**](/payout-methods/luxlite-kiev/)|[`luxlite-kiev_uah`](luxlite-kiev_uah/)|`UAH`| 
 ||| **M** ||
 |![M-TEL (Uman)](https://static.openfintech.io/payout_methods/m-tel-uman/logo.png?w=400&c=v0.59.26#w24) |[**M-TEL (Uman)**](/payout-methods/m-tel-uman/)|[`m-tel-uman_uah`](m-tel-uman_uah/)|`UAH`| 
+|![M-Pesa](https://static.openfintech.io/payout_methods/m_pesa/logo.svg?w=400&c=v0.59.26#w24) |[**M-Pesa**](/payout-methods/m_pesa/)|[`m_pesa_kes`](m_pesa_kes/)|`KES`| 
+|![M-Pesa](https://static.openfintech.io/payout_methods/m_pesa/logo.svg?w=400&c=v0.59.26#w24) |[**M-Pesa**](/payout-methods/m_pesa/)|[`m_pesa_tzs`](m_pesa_tzs/)|`TZS`| 
 |![Magical Earths](https://static.openfintech.io/payout_methods/magicheskie-zemli/logo.png?w=400&c=v0.59.26#w24) |[**Magical Earths**](/payout-methods/magicheskie-zemli/)|[`magicheskie-zemli_uah`](magicheskie-zemli_uah/)|`UAH`| 
 |![MAGIСOM (Хмельницька)](https://static.openfintech.io/payout_methods/magisom-khmelnitska/logo.svg?w=400&c=v0.59.26#w24) |[**MAGIСOM (Хмельницька)**](/payout-methods/magisom-khmelnitska/)|[`magisom-khmelnitska_uah`](magisom-khmelnitska_uah/)|`UAH`| 
 |![Magnus (White Church)](https://static.openfintech.io/payout_methods/magnus-belaia-tserkov/logo.png?w=400&c=v0.59.26#w24) |[**Magnus (White Church)**](/payout-methods/magnus-belaia-tserkov/)|[`magnus-belaia-tserkov_uah`](magnus-belaia-tserkov_uah/)|`UAH`| 
@@ -711,6 +713,7 @@
 |![MSL - state lottery](https://static.openfintech.io/payout_methods/msl-derzhavni-lotereyi/logo.svg?w=400&c=v0.59.26#w24) |[**MSL - state lottery**](/payout-methods/msl-derzhavni-lotereyi/)|[`msl-derzhavni-lotereyi_uah`](msl-derzhavni-lotereyi_uah/)|`UAH`| 
 |![MTK NO (Chernivtsi)](https://static.openfintech.io/payout_methods/mtk-net-chernovtsy/logo.png?w=400&c=v0.59.26#w24) |[**MTK NO (Chernivtsi)**](/payout-methods/mtk-net-chernovtsy/)|[`mtk-net-chernovtsy_uah`](mtk-net-chernovtsy_uah/)|`UAH`| 
 |![MTM](https://static.openfintech.io/payout_methods/mtm/logo.png?w=400&c=v0.59.26#w24) |[**MTM**](/payout-methods/mtm/)|[`mtm_uah`](mtm_uah/)|`UAH`| 
+|![MTN](https://static.openfintech.io/payout_methods/mtn/logo.svg?w=400&c=v0.59.26#w24) |[**MTN**](/payout-methods/mtn/)|[`mtn_ghs`](mtn_ghs/)|`GHS`| 
 |![MTS](https://static.openfintech.io/payout_methods/mts/logo.svg?w=400&c=v0.59.26#w24) |[**MTS**](/payout-methods/mts/)|[`mts_rub`](mts_rub/)|`RUB`| 
 |![MuchBetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](/payout-methods/muchbetter/)|[`muchbetter_brl`](muchbetter_brl/)|`BRL`| 
 |![MuchBetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](/payout-methods/muchbetter/)|[`muchbetter_cad`](muchbetter_cad/)|`CAD`| 
