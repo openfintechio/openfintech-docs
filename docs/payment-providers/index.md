@@ -157,7 +157,7 @@
 |![coinspaid](https://static.openfintech.io/payment_providers/coinspaid/logo.png?w=600&c=v0.59.26#w100) |[**CoinsPaid**](coinspaid/)|`coinspaid`| 
 |![coinzone](https://static.openfintech.io/payment_providers/coinzone/logo.svg?w=600&c=v0.59.26#w100) |[**Coinzone BV**](coinzone/)|`coinzone`| 
 |![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/logo.png?w=600&c=v0.59.26#w100) |[**Comercia Global Payments**](comerciaglobalpayments/)|`comerciaglobalpayments`| 
-|![commercegate](https://static.openfintech.io/payment_providers/commercegate/logo.png?w=600&c=v0.59.26#w100) |[**Commercegate**](commercegate/)|`commercegate`| 
+|![commercegate](https://static.openfintech.io/payment_providers/commercegate/logo.svg?w=600&c=v0.59.26#w100) |[**CommerceGate**](commercegate/)|`commercegate`| 
 |![computop](https://static.openfintech.io/payment_providers/computop/logo.png?w=600&c=v0.59.26#w100) |[**Computop**](computop/)|`computop`| 
 |![concardis](https://static.openfintech.io/payment_providers/concardis/logo.png?w=600&c=v0.59.26#w100) |[**ConCardis**](concardis/)|`concardis`| 
 |![concord](https://static.openfintech.io/payment_providers/concord/logo.svg?w=600&c=v0.59.26#w100) |[**Concord Bank**](concord/)|`concord`| 
@@ -580,7 +580,7 @@
 |![portmone](https://static.openfintech.io/payment_providers/portmone/logo.svg?w=600&c=v0.59.26#w100) |[**Portmone.com**](portmone/)|`portmone`| 
 |![postfinance](https://static.openfintech.io/payment_providers/postfinance/logo.png?w=600&c=v0.59.26#w100) |[**PostFinance**](postfinance/)|`postfinance`| 
 |![powerpay21](https://static.openfintech.io/payment_providers/powerpay21/logo.png?w=600&c=v0.59.26#w100) |[**powerpay21**](powerpay21/)|`powerpay21`| 
-|![ppro](https://static.openfintech.io/payment_providers/ppro/logo.png?w=600&c=v0.59.26#w100) |[**PPRO Financial Ltd**](ppro/)|`ppro`| 
+|![ppro](https://static.openfintech.io/payment_providers/ppro/logo.svg?w=600&c=v0.59.26#w100) |[**PPRO Financial Ltd**](ppro/)|`ppro`| 
 |![praxispay](https://static.openfintech.io/payment_providers/praxispay/logo.png?w=600&c=v0.59.26#w100) |[**Praxispay**](praxispay/)|`praxispay`| 
 |![primeiropay](https://static.openfintech.io/payment_providers/primeiropay/logo.png?w=600&c=v0.59.26#w100) |[**PrimeiroPay**](primeiropay/)|`primeiropay`| 
 |![procard](https://static.openfintech.io/payment_providers/procard/logo.png?w=600&c=v0.59.26#w100) |[**Procard**](procard/)|`procard`| 

@@ -50,6 +50,7 @@ The list of [Payment Providers](/payment-providers/) that support the _eps e-pay
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.png?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
+|![ppro](https://static.openfintech.io/payment_providers/ppro/icon.svg?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
 |![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 

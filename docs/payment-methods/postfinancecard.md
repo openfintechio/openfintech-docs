@@ -43,7 +43,6 @@ The list of [Payment Providers](/payment-providers/) that support the _PostFinan
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ppro](https://static.openfintech.io/payment_providers/ppro/icon.png?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
 |![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 

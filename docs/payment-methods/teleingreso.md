@@ -41,7 +41,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Teleingre
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.png?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
-|![ppro](https://static.openfintech.io/payment_providers/ppro/icon.png?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
 |![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/icon.png?w=278&c=v0.59.26#w100) |[Alternative Payments](/payment-providers/alternativepayments/)|`alternativepayments`| 
 |![kalixa](https://static.openfintech.io/payment_providers/kalixa/icon.png?w=278&c=v0.59.26#w100) |[Kalixa Payments Group](/payment-providers/kalixa/)|`kalixa`| 

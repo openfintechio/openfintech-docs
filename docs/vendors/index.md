@@ -376,7 +376,7 @@
 |![coinspaid](https://static.openfintech.io/vendors/coinspaid/logo.png?w=600&c=v0.59.26#w200) |[**CoinsPaid**](coinspaid/)|`coinspaid`| 
 |![coinzone](https://static.openfintech.io/vendors/coinzone/logo.png?w=600&c=v0.59.26#w200) |[**Coinzone BV**](coinzone/)|`coinzone`| 
 |![comerciaglobalpayments](https://static.openfintech.io/vendors/comerciaglobalpayments/logo.png?w=600&c=v0.59.26#w200) |[**Comercia Global Payments**](comerciaglobalpayments/)|`comerciaglobalpayments`| 
-|![commercegate](https://static.openfintech.io/vendors/commercegate/logo.png?w=600&c=v0.59.26#w200) |[**Commercegate**](commercegate/)|`commercegate`| 
+|![commercegate](https://static.openfintech.io/vendors/commercegate/logo.svg?w=600&c=v0.59.26#w200) |[**CommerceGate**](commercegate/)|`commercegate`| 
 |![computop](https://static.openfintech.io/vendors/computop/logo.png?w=600&c=v0.59.26#w200) |[**Computop**](computop/)|`computop`| 
 |![concardis](https://static.openfintech.io/vendors/concardis/logo.png?w=600&c=v0.59.26#w200) |[**ConCardis**](concardis/)|`concardis`| 
 |![concordbank](https://static.openfintech.io/vendors/concordbank/logo.svg?w=600&c=v0.59.26#w200) |[**Concord Bank**](concordbank/)|`concordbank`| 
@@ -1351,7 +1351,7 @@
 |![postovabanka](https://static.openfintech.io/vendors/postovabanka/logo.png?w=600&c=v0.59.26#w200) |[**Postová Banka**](postovabanka/)|`postovabanka`| 
 |![postpay](https://static.openfintech.io/vendors/postpay/logo.png?w=600&c=v0.59.26#w200) |[**PostPay**](postpay/)|`postpay`| 
 |![powerpay21](https://static.openfintech.io/vendors/powerpay21/logo.png?w=600&c=v0.59.26#w200) |[**powerpay21**](powerpay21/)|`powerpay21`| 
-|![ppro](https://static.openfintech.io/vendors/ppro/logo.png?w=600&c=v0.59.26#w200) |[**PPRO Financial Ltd**](ppro/)|`ppro`| 
+|![ppro](https://static.openfintech.io/vendors/ppro/logo.svg?w=600&c=v0.59.26#w200) |[**PPRO Financial Ltd**](ppro/)|`ppro`| 
 |![prat_ufg_kiyiv](https://static.openfintech.io/vendors/prat_ufg_kiyiv/logo.svg?w=600&c=v0.59.26#w200) |[**Приватне акціонерне товариство 'Українська фінансова група'**](prat_ufg_kiyiv/)|`prat_ufg_kiyiv`| 
 |![prat_zss](https://static.openfintech.io/vendors/prat_zss/logo.svg?w=600&c=v0.59.26#w200) |[**ПРИВАТНЕ АКЦІОНЕРНЕ ТОВАРИСТВО 'ЗАПОРІЖЗВ`ЯЗОКСЕРВІС'**](prat_zss/)|`prat_zss`| 
 |![praxispay](https://static.openfintech.io/vendors/praxispay/logo.png?w=600&c=v0.59.26#w200) |[**Praxispay**](praxispay/)|`praxispay`| 

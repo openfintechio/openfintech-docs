@@ -45,7 +45,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Ukash_
 |:---:|:---:|:---:| 
 |![merchantscout](https://static.openfintech.io/payment_providers/merchantscout/icon.png?w=278&c=v0.59.26#w100) |[MerchantScout](/payment-providers/merchantscout/)|`merchantscout`| 
 |![firstatlanticcommerce](https://static.openfintech.io/payment_providers/firstatlanticcommerce/icon.png?w=278&c=v0.59.26#w100) |[First Atlantic Commerce](/payment-providers/firstatlanticcommerce/)|`firstatlanticcommerce`| 
-|![ppro](https://static.openfintech.io/payment_providers/ppro/icon.png?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
 |![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/icon.png?w=278&c=v0.59.26#w100) |[Buckaroo](/payment-providers/buckaroo/)|`buckaroo`| 

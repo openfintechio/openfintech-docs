@@ -42,7 +42,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Wire Tran
 |:---:|:---:|:---:| 
 |![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.png?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
 |![omnipayment](https://static.openfintech.io/payment_providers/omnipayment/icon.png?w=278&c=v0.59.26#w100) |[OmniPayment](/payment-providers/omnipayment/)|`omnipayment`| 
-|![ppro](https://static.openfintech.io/payment_providers/ppro/icon.png?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
 |![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
 |![cngpro](https://static.openfintech.io/payment_providers/cngpro/icon.png?w=278&c=v0.59.26#w100) |[CNG Pro](/payment-providers/cngpro/)|`cngpro`| 

@@ -43,7 +43,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Jyske Ban
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ppro](https://static.openfintech.io/payment_providers/ppro/icon.png?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
 |![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
 |![cngpro](https://static.openfintech.io/payment_providers/cngpro/icon.png?w=278&c=v0.59.26#w100) |[CNG Pro](/payment-providers/cngpro/)|`cngpro`| 
 |![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 

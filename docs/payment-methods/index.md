@@ -83,6 +83,7 @@
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](bitcoin/)|`bitcoin`| 
 |![bitcoin_cash](https://static.openfintech.io/payment_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w200) |[**Bitcoin Cash**](bitcoin_cash/)|`bitcoin_cash`| 
 |![bkmexpress](https://static.openfintech.io/payment_methods/bkmexpress/logo.png?w=400&c=v0.59.26#w200) |[**BKM Express**](bkmexpress/)|`bkmexpress`| 
+|![blik](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](blik/)|`blik`| 
 |![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/logo.png?w=400&c=v0.59.26#w200) |[**Boleto Bancario**](boleto_bancario/)|`boleto_bancario`| 
 |![bpay](https://static.openfintech.io/payment_methods/bpay/logo.png?w=400&c=v0.59.26#w200) |[**BPAY**](bpay/)|`bpay`| 
 |![bradescocomercioeletronico](https://static.openfintech.io/payment_methods/bradescocomercioeletronico/logo.png?w=400&c=v0.59.26#w200) |[**Bradesco Comércio Eletrônico**](bradescocomercioeletronico/)|`bradescocomercioeletronico`| 

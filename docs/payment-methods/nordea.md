@@ -44,7 +44,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Nordea_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![hipay](https://static.openfintech.io/payment_providers/hipay/icon.png?w=278&c=v0.59.26#w100) |[HiPay](/payment-providers/hipay/)|`hipay`| 
-|![ppro](https://static.openfintech.io/payment_providers/ppro/icon.png?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
 |![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
 |![cngpro](https://static.openfintech.io/payment_providers/cngpro/icon.png?w=278&c=v0.59.26#w100) |[CNG Pro](/payment-providers/cngpro/)|`cngpro`| 

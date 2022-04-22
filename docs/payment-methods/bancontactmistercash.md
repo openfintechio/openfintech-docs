@@ -51,7 +51,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Bancontac
 |![paynl](https://static.openfintech.io/payment_providers/paynl/icon.png?w=278&c=v0.59.26#w100) |[Pay.nl](/payment-providers/paynl/)|`paynl`| 
 |![hipay](https://static.openfintech.io/payment_providers/hipay/icon.png?w=278&c=v0.59.26#w100) |[HiPay](/payment-providers/hipay/)|`hipay`| 
 |![gingerpayments](https://static.openfintech.io/payment_providers/gingerpayments/icon.png?w=278&c=v0.59.26#w100) |[Ginger Payments](/payment-providers/gingerpayments/)|`gingerpayments`| 
-|![ppro](https://static.openfintech.io/payment_providers/ppro/icon.png?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
 |![atosworldline](https://static.openfintech.io/payment_providers/atosworldline/icon.png?w=278&c=v0.59.26#w100) |[Worldline](/payment-providers/atosworldline/)|`atosworldline`| 
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 

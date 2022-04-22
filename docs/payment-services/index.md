@@ -108,6 +108,7 @@
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_usd_hpp`](bitcoin_usd_hpp/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_usd_invoice`](bitcoin_usd_invoice/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_usdt_hpp`](bitcoin_usdt_hpp/)| 
+|![BLIK](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](/payment-methods/blik/)|[`blik_pln_hpp`](blik_pln_hpp/)| 
 |![Boleto Bancario](https://static.openfintech.io/payment_methods/boleto_bancario/logo.png?w=400&c=v0.59.26#w200) |[**Boleto Bancario**](/payment-methods/boleto_bancario/)|[`boleto_bancario_brl_hpp`](boleto_bancario_brl_hpp/)| 
 |![BRI Bank](https://static.openfintech.io/payment_methods/bri_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BRI Bank**](/payment-methods/bri_bank/)|[`bri_bank_cny_hpp`](bri_bank_cny_hpp/)| 
 |![BTN Bank](https://static.openfintech.io/payment_methods/btn_bank/logo.png?w=400&c=v0.59.26#w200) |[**BTN Bank**](/payment-methods/btn_bank/)|[`btn_bank_idr_hpp`](btn_bank_idr_hpp/)| 
@@ -320,6 +321,7 @@
 |![MuchBetter](https://static.openfintech.io/payment_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w200) |[**MuchBetter**](/payment-methods/muchbetter/)|[`muchbetter_thb_invoice`](muchbetter_thb_invoice/)| 
 |![MuchBetter](https://static.openfintech.io/payment_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w200) |[**MuchBetter**](/payment-methods/muchbetter/)|[`muchbetter_usd_invoice`](muchbetter_usd_invoice/)| 
 |![MuchBetter](https://static.openfintech.io/payment_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w200) |[**MuchBetter**](/payment-methods/muchbetter/)|[`muchbetter_vnd_invoice`](muchbetter_vnd_invoice/)| 
+|![MultiBanco NET](https://static.openfintech.io/payment_methods/multibanconet/logo.png?w=400&c=v0.59.26#w200) |[**MultiBanco NET**](/payment-methods/multibanconet/)|[`multibanconet_eur_hpp`](multibanconet_eur_hpp/)| 
 ||| **N** ||
 |![National Australia Bank](https://static.openfintech.io/payment_methods/national_australia_bank/logo.svg?w=400&c=v0.59.26#w200) |[**National Australia Bank**](/payment-methods/national_australia_bank/)|[`national_australia_bank_aud_hpp`](national_australia_bank_aud_hpp/)| 
 |![Pay with bank](https://static.openfintech.io/payment_methods/net_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Pay with bank**](/payment-methods/net_banking/)|[`net_banking_ngn_hpp`](net_banking_ngn_hpp/)| 
@@ -486,7 +488,10 @@
 |![Skrill Wallet](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](/payment-methods/skrill/)|[`skrill_thb_hpp`](skrill_thb_hpp/)| 
 |![Skrill Wallet](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](/payment-methods/skrill/)|[`skrill_usd_hpp`](skrill_usd_hpp/)| 
 |![SMS Billing](https://static.openfintech.io/payment_methods/smsbilling/logo.png?w=400&c=v0.59.26#w200) |[**SMS Billing**](/payment-methods/smsbilling/)|[`smsbilling_rub_hpp`](smsbilling_rub_hpp/)| 
+|![Sofort](https://static.openfintech.io/payment_methods/sofort/logo.svg?w=400&c=v0.59.26#w200) |[**Sofort**](/payment-methods/sofort/)|[`sofort_chf_hpp`](sofort_chf_hpp/)| 
 |![Sofort](https://static.openfintech.io/payment_methods/sofort/logo.svg?w=400&c=v0.59.26#w200) |[**Sofort**](/payment-methods/sofort/)|[`sofort_eur_hpp`](sofort_eur_hpp/)| 
+|![Sofort](https://static.openfintech.io/payment_methods/sofort/logo.svg?w=400&c=v0.59.26#w200) |[**Sofort**](/payment-methods/sofort/)|[`sofort_gbp_hpp`](sofort_gbp_hpp/)| 
+|![Sofort](https://static.openfintech.io/payment_methods/sofort/logo.svg?w=400&c=v0.59.26#w200) |[**Sofort**](/payment-methods/sofort/)|[`sofort_pln_hpp`](sofort_pln_hpp/)| 
 |![Sofort](https://static.openfintech.io/payment_methods/sofort/logo.svg?w=400&c=v0.59.26#w200) |[**Sofort**](/payment-methods/sofort/)|[`sofort_usd_hpp`](sofort_usd_hpp/)| 
 |![South Indian Bank](https://static.openfintech.io/payment_methods/south_indian_bank/logo.png?w=400&c=v0.59.26#w200) |[**South Indian Bank**](/payment-methods/south_indian_bank/)|[`south_indian_bank_inr_hpp`](south_indian_bank_inr_hpp/)| 
 |![Standard Charter Bank](https://static.openfintech.io/payment_methods/standard_charter_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Standard Charter Bank**](/payment-methods/standard_charter_bank/)|[`standard_charter_bank_inr_hpp`](standard_charter_bank_inr_hpp/)| 

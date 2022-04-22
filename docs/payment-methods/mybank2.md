@@ -44,7 +44,6 @@ The list of [Payment Providers](/payment-providers/) that support the _MyBank_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![paynl](https://static.openfintech.io/payment_providers/paynl/icon.png?w=278&c=v0.59.26#w100) |[Pay.nl](/payment-providers/paynl/)|`paynl`| 
-|![ppro](https://static.openfintech.io/payment_providers/ppro/icon.png?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
 |![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
 |![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/icon.png?w=278&c=v0.59.26#w100) |[Alternative Payments](/payment-providers/alternativepayments/)|`alternativepayments`| 
 |![smart2pay](https://static.openfintech.io/payment_providers/smart2pay/icon.png?w=278&c=v0.59.26#w100) |[Smart2Pay](/payment-providers/smart2pay/)|`smart2pay`| 

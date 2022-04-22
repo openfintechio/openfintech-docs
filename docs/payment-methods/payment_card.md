@@ -119,13 +119,13 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![cardpay](https://static.openfintech.io/payment_providers/cardpay/icon.svg?w=278&c=v0.59.26#w100) |[Unlimint](/payment-providers/cardpay/)|`cardpay`| 
 |![portmone](https://static.openfintech.io/payment_providers/portmone/icon.svg?w=278&c=v0.59.26#w100) |[Portmone.com](/payment-providers/portmone/)|`portmone`| 
 |![wirecapital](https://static.openfintech.io/payment_providers/wirecapital/icon.svg?w=278&c=v0.59.26#w100) |[Wirecapital](/payment-providers/wirecapital/)|`wirecapital`| 
-|![ppro](https://static.openfintech.io/payment_providers/ppro/icon.png?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
 |![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
 |![atosworldline](https://static.openfintech.io/payment_providers/atosworldline/icon.png?w=278&c=v0.59.26#w100) |[Worldline](/payment-providers/atosworldline/)|`atosworldline`| 
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
 |![cngpro](https://static.openfintech.io/payment_providers/cngpro/icon.png?w=278&c=v0.59.26#w100) |[CNG Pro](/payment-providers/cngpro/)|`cngpro`| 
 |![paygol](https://static.openfintech.io/payment_providers/paygol/icon.png?w=278&c=v0.59.26#w100) |[PayGol](/payment-providers/paygol/)|`paygol`| 
+|![commercegate](https://static.openfintech.io/payment_providers/commercegate/icon.svg?w=278&c=v0.59.26#w100) |[CommerceGate](/payment-providers/commercegate/)|`commercegate`| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
 |![lemonway](https://static.openfintech.io/payment_providers/lemonway/icon.png?w=278&c=v0.59.26#w100) |[Lemon Way](/payment-providers/lemonway/)|`lemonway`| 

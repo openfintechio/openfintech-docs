@@ -49,7 +49,6 @@ The list of [Payment Providers](/payment-providers/) that support the _V PAY_
 |![fondy](https://static.openfintech.io/payment_providers/fondy/icon.svg?w=278&c=v0.59.26#w100) |[FONDY](/payment-providers/fondy/)|`fondy`| 
 |![dalberry](https://static.openfintech.io/payment_providers/dalberry/icon.png?w=278&c=v0.59.26#w100) |[Dalberry](/payment-providers/dalberry/)|`dalberry`| 
 |![paymill](https://static.openfintech.io/payment_providers/paymill/icon.png?w=278&c=v0.59.26#w100) |[PAYMILL](/payment-providers/paymill/)|`paymill`| 
-|![ppro](https://static.openfintech.io/payment_providers/ppro/icon.png?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
 |![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
 |![atosworldline](https://static.openfintech.io/payment_providers/atosworldline/icon.png?w=278&c=v0.59.26#w100) |[Worldline](/payment-providers/atosworldline/)|`atosworldline`| 

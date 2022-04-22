@@ -44,7 +44,6 @@ The list of [Payment Providers](/payment-providers/) that support the _tarjeta n
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.png?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
-|![ppro](https://static.openfintech.io/payment_providers/ppro/icon.png?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
 |![cngpro](https://static.openfintech.io/payment_providers/cngpro/icon.png?w=278&c=v0.59.26#w100) |[CNG Pro](/payment-providers/cngpro/)|`cngpro`| 
 |![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
 |![payu](https://static.openfintech.io/payment_providers/payu/icon.svg?w=278&c=v0.59.26#w100) |[PayU](/payment-providers/payu/)|`payu`| 
