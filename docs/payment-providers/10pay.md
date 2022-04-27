@@ -46,6 +46,17 @@ The list of supported [Payment Methods](/payment-methods/)
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay](/payment-methods/googlepay/)|`googlepay`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![paytm](https://static.openfintech.io/payout_methods/paytm/icon.svg?w=278&c=v0.59.26#w40) |[paytm](payout-methodspaytm/)|`paytm`| 
+|![upi_bank_account](https://static.openfintech.io/payout_methods/upi_bank_account/icon.svg?w=278&c=v0.59.26#w40) |[upi_bank_account](payout-methodsupi_bank_account/)|`upi_bank_account`| 
+|![imps](https://static.openfintech.io/payout_methods/imps/icon.png?w=278&c=v0.59.26#w40) |[imps](payout-methodsimps/)|`imps`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -62,7 +73,11 @@ The list of supported [Payment Methods](/payment-methods/)
     "imps",
     "googlepay"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "paytm",
+    "upi_bank_account",
+    "imps"
+  ],
   "metadata":null,
   "name":{
     "en":"10Pay",

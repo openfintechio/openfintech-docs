@@ -48,7 +48,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![liqpay](https://static.openfintech.io/payment_providers/liqpay/icon.svg?w=278&c=v0.59.26#w100) |[LiqPay](/payment-providers/liqpay/)|`liqpay`| 
-|![4bill](https://static.openfintech.io/payment_providers/4bill/icon.svg?w=278&c=v0.59.26#w100) |[4bill](/payment-providers/4bill/)|`4bill`| 
 |![paymega](https://static.openfintech.io/payment_providers/paymega/icon.svg?w=278&c=v0.59.26#w100) |[PayMega](/payment-providers/paymega/)|`paymega`| 
 |![walletone](https://static.openfintech.io/payment_providers/walletone/icon.svg?w=278&c=v0.59.26#w100) |[Wallet One](/payment-providers/walletone/)|`walletone`| 
 |![paymaster](https://static.openfintech.io/payment_providers/paymaster/icon.svg?w=278&c=v0.59.26#w100) |[Paymaster](/payment-providers/paymaster/)|`paymaster`| 

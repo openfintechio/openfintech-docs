@@ -55,6 +55,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Google Pa
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![4bill](https://static.openfintech.io/payment_providers/4bill/icon.svg?w=278&c=v0.59.26#w100) |[4bill](/payment-providers/4bill/)|`4bill`| 
 |![portmone](https://static.openfintech.io/payment_providers/portmone/icon.svg?w=278&c=v0.59.26#w100) |[Portmone.com](/payment-providers/portmone/)|`portmone`| 
 |![cardgate](https://static.openfintech.io/payment_providers/cardgate/icon.svg?w=278&c=v0.59.26#w100) |[CardGate](/payment-providers/cardgate/)|`cardgate`| 
 |![alfabank](https://static.openfintech.io/payment_providers/alfabank/icon.svg?w=278&c=v0.59.26#w100) |[Alfa-Bank](/payment-providers/alfabank/)|`alfabank`| 

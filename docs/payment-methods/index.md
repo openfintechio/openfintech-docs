@@ -409,6 +409,7 @@
 |![sepadirectdebit](https://static.openfintech.io/payment_methods/sepadirectdebit/logo.svg?w=400&c=v0.59.26#w200) |[**SEPA Direct Debit**](sepadirectdebit/)|`sepadirectdebit`| 
 |![serve](https://static.openfintech.io/payment_methods/serve/logo.png?w=400&c=v0.59.26#w200) |[**Serve**](serve/)|`serve`| 
 |![servipag](https://static.openfintech.io/payment_methods/servipag/logo.png?w=400&c=v0.59.26#w200) |[**Servipag**](servipag/)|`servipag`| 
+|![settlepay_wallet](https://static.openfintech.io/payment_methods/settlepay_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**SettlePay Wallet**](settlepay_wallet/)|`settlepay_wallet`| 
 |![shamrao_vithal_cooperative_bank_india](https://static.openfintech.io/payment_methods/shamrao_vithal_cooperative_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Shamrao Vithal Co-operative Bank**](shamrao_vithal_cooperative_bank_india/)|`shamrao_vithal_cooperative_bank_india`| 
 |![shanghai_pudong_development_bank](https://static.openfintech.io/payment_methods/shanghai_pudong_development_bank/logo.png?w=400&c=v0.59.26#w200) |[**Shanghai Pudong Development Bank**](shanghai_pudong_development_bank/)|`shanghai_pudong_development_bank`| 
 |![shinhan_bank](https://static.openfintech.io/payment_methods/shinhan_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Shinhan Bank**](shinhan_bank/)|`shinhan_bank`| 

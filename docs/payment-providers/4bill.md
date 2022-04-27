@@ -11,6 +11,8 @@
 **Name:** 
  
 :	[EN] 4bill 
+:	[RU] 4bill 
+:	[UK] 4bill 
  
 
 ## Images 
@@ -37,7 +39,10 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bank_card](https://static.openfintech.io/payment_methods/bank_card/icon.svg?w=278&c=v0.59.26#w100) |[bank_card](/payment-methods/bank_card/)|`bank_card`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
+|![settlepay_wallet](https://static.openfintech.io/payment_methods/settlepay_wallet/icon.svg?w=278&c=v0.59.26#w100) |[settlepay_wallet](/payment-methods/settlepay_wallet/)|`settlepay_wallet`| 
+|![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay](/payment-methods/applepay/)|`applepay`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay](/payment-methods/googlepay/)|`googlepay`| 
  
 
 ## Payout Methods 
@@ -46,7 +51,7 @@ The list of supported [Payout Methods](/payout-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bank_card](https://static.openfintech.io/payout_methods/bank_card/icon.svg?w=278&c=v0.59.26#w40) |[bank_card](payout-methodsbank_card/)|`bank_card`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
  
 
 ## JSON Object 
@@ -59,14 +64,19 @@ The list of supported [Payout Methods](/payout-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    "bank_card"
+    "payment_card",
+    "settlepay_wallet",
+    "applepay",
+    "googlepay"
   ],
   "payout_method":[
-    "bank_card"
+    "payment_card"
   ],
   "metadata":null,
   "name":{
-    "en":"4bill"
+    "en":"4bill",
+    "ru":"4bill",
+    "uk":"4bill"
   }
 }
 ```  

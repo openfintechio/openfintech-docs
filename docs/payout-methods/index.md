@@ -432,6 +432,7 @@
 |![icn-odessa](https://static.openfintech.io/payout_methods/icn-odessa/logo.png?w=400&c=v0.59.26#w24) |[**ICN (Odessa)**](icn-odessa/)|`icn-odessa`| 
 |![ilan](https://static.openfintech.io/payout_methods/ilan/logo.png?w=400&c=v0.59.26#w24) |[**ILAN**](ilan/)|`ilan`| 
 |![illintsi-pat-vinnitsiaoblenergo](https://static.openfintech.io/payout_methods/illintsi-pat-vinnitsiaoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Ilintsy PJSC 'Vinnitsaoblenergo'**](illintsi-pat-vinnitsiaoblenergo/)|`illintsi-pat-vinnitsiaoblenergo`| 
+|![imps](https://static.openfintech.io/payout_methods/imps/logo.png?w=400&c=v0.59.26#w24) |[**IMPS**](imps/)|`imps`| 
 |![inbc-m-balta](https://static.openfintech.io/payout_methods/inbc-m-balta/logo.png?w=400&c=v0.59.26#w24) |[**INBC (m. Balta)**](inbc-m-balta/)|`inbc-m-balta`| 
 |![industrial_and_commercial_bank_of_china](https://static.openfintech.io/payout_methods/industrial_and_commercial_bank_of_china/logo.svg?w=400&c=v0.59.26#w24) |[**Industrial and Commercial Bank of China**](industrial_and_commercial_bank_of_china/)|`industrial_and_commercial_bank_of_china`| 
 |![infoaura](https://static.openfintech.io/payout_methods/infoaura/logo.png?w=400&c=v0.59.26#w24) |[**InfoAura**](infoaura/)|`infoaura`| 
@@ -2236,6 +2237,7 @@
 |![united_overseas_bank](https://static.openfintech.io/payout_methods/united_overseas_bank/logo.svg?w=400&c=v0.59.26#w24) |[**United Overseas Bank**](united_overseas_bank/)|`united_overseas_bank`| 
 |![unitel-iunitel](https://static.openfintech.io/payout_methods/unitel-iunitel/logo.png?w=400&c=v0.59.26#w24) |[**Unitel (Unitel)**](unitel-iunitel/)|`unitel-iunitel`| 
 |![upi](https://static.openfintech.io/payout_methods/upi/logo.svg?w=400&c=v0.59.26#w24) |[**UPI**](upi/)|`upi`| 
+|![upi_bank_account](https://static.openfintech.io/payout_methods/upi_bank_account/logo.svg?w=400&c=v0.59.26#w24) |[**UPI Bank Account**](upi_bank_account/)|`upi_bank_account`| 
 |![upr-kompaniia-zhku-mirts-g-artemovsk](https://static.openfintech.io/payout_methods/upr-kompaniia-zhku-mirts-g-artemovsk/logo.svg?w=400&c=v0.59.26#w24) |[**Упр.компания ЖКУ МИРЦ г.Артемовск**](upr-kompaniia-zhku-mirts-g-artemovsk/)|`upr-kompaniia-zhku-mirts-g-artemovsk`| 
 |![upravlenie-gorodskim-khoziaistvom-g-vishneve](https://static.openfintech.io/payout_methods/upravlenie-gorodskim-khoziaistvom-g-vishneve/logo.png?w=400&c=v0.59.26#w24) |[**Urban Management (Vishneve)**](upravlenie-gorodskim-khoziaistvom-g-vishneve/)|`upravlenie-gorodskim-khoziaistvom-g-vishneve`| 
 |![upravlinnia-politsiyi-okhoroni-v-m-kievi](https://static.openfintech.io/payout_methods/upravlinnia-politsiyi-okhoroni-v-m-kievi/logo.png?w=400&c=v0.59.26#w24) |[**POLICE DEPARTMENT OF POLICE PROTECTION IN KIEV**](upravlinnia-politsiyi-okhoroni-v-m-kievi/)|`upravlinnia-politsiyi-okhoroni-v-m-kievi`| 

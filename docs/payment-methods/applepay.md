@@ -60,6 +60,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Apple Pay
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![4bill](https://static.openfintech.io/payment_providers/4bill/icon.svg?w=278&c=v0.59.26#w100) |[4bill](/payment-providers/4bill/)|`4bill`| 
 |![be2bill](https://static.openfintech.io/payment_providers/be2bill/icon.png?w=278&c=v0.59.26#w100) |[Be2bill](/payment-providers/be2bill/)|`be2bill`| 
 |![altapay](https://static.openfintech.io/payment_providers/altapay/icon.png?w=278&c=v0.59.26#w100) |[AltaPay](/payment-providers/altapay/)|`altapay`| 
 |![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
