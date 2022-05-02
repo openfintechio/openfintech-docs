@@ -75,6 +75,7 @@ The list of [Payout Services](/payout-services/) based on the _Card_
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[card_token](/payout-services/card_token/)|`card_token`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_pen](/payout-services/payment_card_pen/)|`payment_card_pen`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_clp](/payout-services/payment_card_clp/)|`payment_card_clp`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_brl](/payout-services/payment_card_brl/)|`payment_card_brl`| 
  
 
 ## Payment Providers 
@@ -204,6 +205,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![easybits](https://static.openfintech.io/payment_providers/easybits/icon.svg?w=278&c=v0.59.26#w100) |[EasyBits.io](/payment-providers/easybits/)|`easybits`| 
 |![paylink](https://static.openfintech.io/payment_providers/paylink/icon.png?w=278&c=v0.59.26#w100) |[PayLink](/payment-providers/paylink/)|`paylink`| 
 |![cardgate](https://static.openfintech.io/payment_providers/cardgate/icon.svg?w=278&c=v0.59.26#w100) |[CardGate](/payment-providers/cardgate/)|`cardgate`| 
+|![gate](https://static.openfintech.io/payment_providers/gate/icon.svg?w=278&c=v0.59.26#w100) |[Gate](/payment-providers/gate/)|`gate`| 
 |![accentpay](https://static.openfintech.io/payment_providers/accentpay/icon.png?w=278&c=v0.59.26#w100) |[Accentpay](/payment-providers/accentpay/)|`accentpay`| 
 |![connectum](https://static.openfintech.io/payment_providers/connectum/icon.svg?w=278&c=v0.59.26#w100) |[Connectum](/payment-providers/connectum/)|`connectum`| 
 |![odysseq](https://static.openfintech.io/payment_providers/odysseq/icon.svg?w=278&c=v0.59.26#w100) |[Odysseq](/payment-providers/odysseq/)|`odysseq`| 
@@ -312,6 +314,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![dimocopayments](https://static.openfintech.io/payment_providers/dimocopayments/icon.png?w=278&c=v0.59.26#w100) |[DIMOCO Payments](/payment-providers/dimocopayments/)|`dimocopayments`| 
 |![leobank](https://static.openfintech.io/payment_providers/leobank/icon.png?w=278&c=v0.59.26#w100) |[LeoBank](/payment-providers/leobank/)|`leobank`| 
 |![bennupay](https://static.openfintech.io/payment_providers/bennupay/icon.png?w=278&c=v0.59.26#w100) |[bennupay](/payment-providers/bennupay/)|`bennupay`| 
+|![kiberpay](https://static.openfintech.io/payment_providers/kiberpay/icon.png?w=278&c=v0.59.26#w100) |[Kiberpay](/payment-providers/kiberpay/)|`kiberpay`| 
  
 
 ## JSON Object 

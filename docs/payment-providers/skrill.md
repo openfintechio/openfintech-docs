@@ -60,7 +60,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/icon.png?w=278&c=v0.59.26#w100) |[polipayonline](/payment-methods/polipayonline/)|`polipayonline`| 
 |![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.png?w=278&c=v0.59.26#w100) |[przelewy24](/payment-methods/przelewy24/)|`przelewy24`| 
 |![epaybg](https://static.openfintech.io/payment_methods/epaybg/icon.svg?w=278&c=v0.59.26#w100) |[epaybg](/payment-methods/epaybg/)|`epaybg`| 
-|![trustly](https://static.openfintech.io/payment_methods/trustly/icon.png?w=278&c=v0.59.26#w100) |[trustly](/payment-methods/trustly/)|`trustly`| 
+|![trustly](https://static.openfintech.io/payment_methods/trustly/icon.svg?w=278&c=v0.59.26#w100) |[trustly](/payment-methods/trustly/)|`trustly`| 
 |![astropaydirect](https://static.openfintech.io/payment_methods/astropaydirect/icon.svg?w=278&c=v0.59.26#w100) |[astropaydirect](/payment-methods/astropaydirect/)|`astropaydirect`| 
 |![astropaymanual](https://static.openfintech.io/payment_methods/astropaymanual/icon.svg?w=278&c=v0.59.26#w100) |[astropaymanual](/payment-methods/astropaymanual/)|`astropaymanual`| 
 |![astropaycash](https://static.openfintech.io/payment_methods/astropaycash/icon.svg?w=278&c=v0.59.26#w100) |[astropaycash](/payment-methods/astropaycash/)|`astropaycash`| 

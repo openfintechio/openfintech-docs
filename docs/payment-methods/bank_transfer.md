@@ -38,7 +38,6 @@ The list of [Payment Services](/payment-services/) based on the _Bank Transfer_
 |:---:|:---:|:---:| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_usd_hpp](/payment-services/bank_transfer_usd_hpp/)|`bank_transfer_usd_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_thb_hpp](/payment-services/bank_transfer_thb_hpp/)|`bank_transfer_thb_hpp`| 
-|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_jpy_hpp](/payment-services/bank_transfer_jpy_hpp/)|`bank_transfer_jpy_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_vnd_hpp](/payment-services/bank_transfer_vnd_hpp/)|`bank_transfer_vnd_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_myr_hpp](/payment-services/bank_transfer_myr_hpp/)|`bank_transfer_myr_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_idr_hpp](/payment-services/bank_transfer_idr_hpp/)|`bank_transfer_idr_hpp`| 

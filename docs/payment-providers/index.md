@@ -280,6 +280,7 @@
 |![forwardbank](https://static.openfintech.io/payment_providers/forwardbank/logo.svg?w=600&c=v0.59.26#w100) |[**Forward Bank**](forwardbank/)|`forwardbank`| 
 || **G** ||
 |![g2apay](https://static.openfintech.io/payment_providers/g2apay/logo.png?w=600&c=v0.59.26#w100) |[**G2A PAY**](g2apay/)|`g2apay`| 
+|![gate](https://static.openfintech.io/payment_providers/gate/logo.svg?w=600&c=v0.59.26#w100) |[**Gate**](gate/)|`gate`| 
 |![gate2payments](https://static.openfintech.io/payment_providers/gate2payments/logo.png?w=600&c=v0.59.26#w100) |[**Gate2Payments **](gate2payments/)|`gate2payments`| 
 |![gate2play](https://static.openfintech.io/payment_providers/gate2play/logo.png?w=600&c=v0.59.26#w100) |[**Gate2Play**](gate2play/)|`gate2play`| 
 |![genome](https://static.openfintech.io/payment_providers/genome/logo.svg?w=600&c=v0.59.26#w100) |[**Genome**](genome/)|`genome`| 
@@ -352,6 +353,7 @@
 |![kassacompleet](https://static.openfintech.io/payment_providers/kassacompleet/logo.png?w=600&c=v0.59.26#w100) |[**Kassa Compleet**](kassacompleet/)|`kassacompleet`| 
 |![kaznachey](https://static.openfintech.io/payment_providers/kaznachey/logo.png?w=600&c=v0.59.26#w100) |[**Kaznachey**](kaznachey/)|`kaznachey`| 
 |![keycollect](https://static.openfintech.io/payment_providers/keycollect/logo.png?w=600&c=v0.59.26#w100) |[**KeyCollect**](keycollect/)|`keycollect`| 
+|![kiberpay](https://static.openfintech.io/payment_providers/kiberpay/logo.png?w=600&c=v0.59.26#w100) |[**Kiberpay**](kiberpay/)|`kiberpay`| 
 |![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/logo.png?w=600&c=v0.59.26#w100) |[**KingPay**](kingpaypayments/)|`kingpaypayments`| 
 |![kiwipay](https://static.openfintech.io/payment_providers/kiwipay/logo.png?w=600&c=v0.59.26#w100) |[**Kiwipay**](kiwipay/)|`kiwipay`| 
 |![klarna](https://static.openfintech.io/payment_providers/klarna/logo.svg?w=600&c=v0.59.26#w100) |[**Klarna**](klarna/)|`klarna`| 
@@ -619,6 +621,7 @@
 |![russianstandardbank](https://static.openfintech.io/payment_providers/russianstandardbank/logo.png?w=600&c=v0.59.26#w100) |[**Russian Standard Bank**](russianstandardbank/)|`russianstandardbank`| 
 || **S** ||
 |![safecharge](https://static.openfintech.io/payment_providers/safecharge/logo.svg?w=600&c=v0.59.26#w100) |[**Nuvei**](safecharge/)|`safecharge`| 
+|![safetypay](https://static.openfintech.io/payment_providers/safetypay/logo.png?w=600&c=v0.59.26#w100) |[**SafetyPay**](safetypay/)|`safetypay`| 
 |![sagepay3](https://static.openfintech.io/payment_providers/sagepay3/logo.svg?w=600&c=v0.59.26#w100) |[**Sage Pay**](sagepay3/)|`sagepay3`| 
 |![satchelpay](https://static.openfintech.io/payment_providers/satchelpay/logo.png?w=600&c=v0.59.26#w100) |[**Satchel**](satchelpay/)|`satchelpay`| 
 |![sbm](https://static.openfintech.io/payment_providers/sbm/logo.png?w=600&c=v0.59.26#w100) |[**State Bank of Mauritius**](sbm/)|`sbm`| 
@@ -691,6 +694,7 @@
 |![traxpay](https://static.openfintech.io/payment_providers/traxpay/logo.png?w=600&c=v0.59.26#w100) |[**Traxpay**](traxpay/)|`traxpay`| 
 |![truevo](https://static.openfintech.io/payment_providers/truevo/logo.png?w=600&c=v0.59.26#w100) |[**Truevo Payments**](truevo/)|`truevo`| 
 |![trustcommerce](https://static.openfintech.io/payment_providers/trustcommerce/logo.png?w=600&c=v0.59.26#w100) |[**TrustCommerce**](trustcommerce/)|`trustcommerce`| 
+|![trustly](https://static.openfintech.io/payment_providers/trustly/logo.svg?w=600&c=v0.59.26#w100) |[**Trustly**](trustly/)|`trustly`| 
 |![trustpay](https://static.openfintech.io/payment_providers/trustpay/logo.svg?w=600&c=v0.59.26#w100) |[**TrustPay**](trustpay/)|`trustpay`| 
 |![trustpayglobal](https://static.openfintech.io/payment_providers/trustpayglobal/logo.png?w=600&c=v0.59.26#w100) |[**ILIXIUM**](trustpayglobal/)|`trustpayglobal`| 
 |![trustpayments](https://static.openfintech.io/payment_providers/trustpayments/logo.svg?w=600&c=v0.59.26#w100) |[**Trust Payments**](trustpayments/)|`trustpayments`| 

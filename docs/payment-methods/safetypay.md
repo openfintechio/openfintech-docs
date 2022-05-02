@@ -34,6 +34,15 @@ https://static.openfintech.io/payment_methods/safetypay/logo.png?w=400&c=v0.59.2
 https://static.openfintech.io/payment_methods/safetypay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _SafetyPay_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![safetypay](https://static.openfintech.io/payment_methods/safetypay/icon.png?w=278&c=v0.59.26#w100) |[safetypay_mxn_hpp](/payment-services/safetypay_mxn_hpp/)|`safetypay_mxn_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _SafetyPay_ 
@@ -48,6 +57,7 @@ The list of [Payment Providers](/payment-providers/) that support the _SafetyPay
 |![maxpay](https://static.openfintech.io/payment_providers/maxpay/icon.svg?w=278&c=v0.59.26#w100) |[Maxpay](/payment-providers/maxpay/)|`maxpay`| 
 |![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.png?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
 |![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
+|![safetypay](https://static.openfintech.io/payment_providers/safetypay/icon.png?w=278&c=v0.59.26#w100) |[SafetyPay](/payment-providers/safetypay/)|`safetypay`| 
  
 
 ## JSON Object 

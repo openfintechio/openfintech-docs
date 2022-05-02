@@ -460,7 +460,7 @@
 |![tinkoff](https://static.openfintech.io/payment_methods/tinkoff/logo.png?w=400&c=v0.59.26#w200) |[**Tinkoff**](tinkoff/)|`tinkoff`| 
 |![toditocash](https://static.openfintech.io/payment_methods/toditocash/logo.png?w=400&c=v0.59.26#w200) |[**Todito Cash**](toditocash/)|`toditocash`| 
 |![tranzzo](https://static.openfintech.io/payment_methods/tranzzo/logo.png?w=400&c=v0.59.26#w200) |[**Tranzzo**](tranzzo/)|`tranzzo`| 
-|![trustly](https://static.openfintech.io/payment_methods/trustly/logo.png?w=400&c=v0.59.26#w200) |[**Trustly**](trustly/)|`trustly`| 
+|![trustly](https://static.openfintech.io/payment_methods/trustly/logo.svg?w=400&c=v0.59.26#w200) |[**Trustly**](trustly/)|`trustly`| 
 || **U** ||
 |![uatp](https://static.openfintech.io/payment_methods/uatp/logo.png?w=400&c=v0.59.26#w200) |[**UATP**](uatp/)|`uatp`| 
 |![uax](https://static.openfintech.io/payment_methods/uax/logo.svg?w=400&c=v0.59.26#w200) |[**UAX**](uax/)|`uax`| 

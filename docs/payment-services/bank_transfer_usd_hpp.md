@@ -25,8 +25,8 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`payer_first_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
-|`payer_last_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
+|`payer_first_name`|✗|`string`|`/^[A-Z\-\sa-z\p{L}]{2,100}$/u`| 
+|`payer_last_name`|✗|`string`|`/^[A-Z\-\sa-z\p{L}]{2,100}$/u`| 
 |`payer_address`|✗|`string`|`/^[a-zA-Z0-9 \/_.,'-]{1,200}$/`| 
 |`payer_country`|✗|`string`|`/^[a-zA-Z\-]{1,20}$/`| 
 |`payer_city`|✗|`string`|`/^[a-zA-Z\-\s]{1,20}$/`| 
@@ -41,7 +41,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z\-\sa-z]{2,100}$/` 
+	Regexp: `/^[A-Z\-\sa-z\p{L}]{2,100}$/u` 
  
 	Required: `` 
  
@@ -59,7 +59,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z\-\sa-z]{2,100}$/` 
+	Regexp: `/^[A-Z\-\sa-z\p{L}]{2,100}$/u` 
  
 	Required: `` 
  
@@ -194,7 +194,7 @@
     {
       "key":"payer_first_name",
       "type":"string",
-      "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
+      "regexp":"\/^[A-Z\\-\\sa-z\\p{L}]{2,100}$\/u",
       "required":false,
       "position":1,
       "label":{
@@ -212,7 +212,7 @@
     {
       "key":"payer_last_name",
       "type":"string",
-      "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
+      "regexp":"\/^[A-Z\\-\\sa-z\\p{L}]{2,100}$\/u",
       "required":false,
       "position":2,
       "label":{

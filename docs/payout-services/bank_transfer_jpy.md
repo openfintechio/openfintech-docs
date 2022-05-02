@@ -31,7 +31,7 @@
 |`bank_country_code_iso`|✗|`string`|`/^.{2,6}$/`| 
 |`bank_name`|✗|`string`|`/^[A-Z\-\sa-z0-9_\p{L}]{2,100}$/u`| 
 |`beneficiary_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\s\p{L}]{2,100}$/u`| 
-|`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
+|`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s\p{L}]{2,100}$/u`| 
 |`beneficiary_address`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d\p{L}\p{L}]{2,64}$/u`| 
 |`beneficiary_country_code_iso`|✗|`string`|`/^.{2,6}$/`| 
 |`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/`| 
@@ -173,7 +173,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/` 
+	Regexp: `/^[A-Za-zА-Яа-я\-\d\s\p{L}]{2,100}$/u` 
  
 	Required: `` 
  
@@ -448,7 +448,7 @@
     {
       "key":"beneficiary_full_name",
       "type":"string",
-      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\d\\s]{2,100}$\/",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\d\\s\\p{L}]{2,100}$\/u",
       "required":false,
       "position":8,
       "label":{

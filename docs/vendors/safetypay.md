@@ -9,11 +9,15 @@
 **Name:** 
  
 :	[EN] SafetyPay 
+:	[RU] SafetyPay 
+:	[UK] SafetyPay 
  
 **Status:** `active` 
  
-**Contacts:** 
-fax: -
+**Links:** 
+: website [https://www.safetypay.com/en/](https://www.safetypay.com/en/) 
+ 
+
 ## Images 
 
 ### Logo 
@@ -38,15 +42,17 @@ https://static.openfintech.io/vendors/safetypay/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"safetypay",
   "name":{
-    "en":"SafetyPay"
+    "en":"SafetyPay",
+    "ru":"SafetyPay",
+    "uk":"SafetyPay"
   },
   "status":"active",
   "description":null,
-  "links":null,
-  "countries":null,
-  "contacts":{
-    "fax":"-"
+  "links":{
+    "website":"https:\/\/www.safetypay.com\/en\/"
   },
+  "countries":null,
+  "contacts":null,
   "address":null,
   "social_profiles":null
 }

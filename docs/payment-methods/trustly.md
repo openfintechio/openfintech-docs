@@ -1,6 +1,6 @@
 
 # Trustly 
-![trustly](https://static.openfintech.io/payment_methods/trustly/logo.png?w=400&c=v0.59.26#w200)  
+![trustly](https://static.openfintech.io/payment_methods/trustly/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `trustly` 
@@ -24,17 +24,17 @@
 ## Images 
 
 ### Logo 
-![trustly](https://static.openfintech.io/payment_methods/trustly/logo.png?w=400&c=v0.59.26#w200)  
+![trustly](https://static.openfintech.io/payment_methods/trustly/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/trustly/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/trustly/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![trustly](https://static.openfintech.io/payment_methods/trustly/icon.png?w=278&c=v0.59.26#w100)  
+![trustly](https://static.openfintech.io/payment_methods/trustly/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/trustly/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/trustly/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -43,7 +43,10 @@ The list of [Payment Services](/payment-services/) based on the _Trustly_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![trustly](https://static.openfintech.io/payment_methods/trustly/icon.png?w=278&c=v0.59.26#w100) |[trustly_eur_hpp](/payment-services/trustly_eur_hpp/)|`trustly_eur_hpp`| 
+|![trustly](https://static.openfintech.io/payment_methods/trustly/icon.svg?w=278&c=v0.59.26#w100) |[trustly_eur_hpp](/payment-services/trustly_eur_hpp/)|`trustly_eur_hpp`| 
+|![trustly](https://static.openfintech.io/payment_methods/trustly/icon.svg?w=278&c=v0.59.26#w100) |[trustly_gbp_hpp](/payment-services/trustly_gbp_hpp/)|`trustly_gbp_hpp`| 
+|![trustly](https://static.openfintech.io/payment_methods/trustly/icon.svg?w=278&c=v0.59.26#w100) |[trustly_chf_hpp](/payment-services/trustly_chf_hpp/)|`trustly_chf_hpp`| 
+|![trustly](https://static.openfintech.io/payment_methods/trustly/icon.svg?w=278&c=v0.59.26#w100) |[trustly_pln_hpp](/payment-services/trustly_pln_hpp/)|`trustly_pln_hpp`| 
  
 
 ## Payment Providers 
@@ -61,6 +64,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Trustly_
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
 |![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
 |![quickpay](https://static.openfintech.io/payment_providers/quickpay/icon.png?w=278&c=v0.59.26#w100) |[QuickPay](/payment-providers/quickpay/)|`quickpay`| 
+|![trustly](https://static.openfintech.io/payment_providers/trustly/icon.svg?w=278&c=v0.59.26#w100) |[Trustly](/payment-providers/trustly/)|`trustly`| 
  
 
 ## JSON Object 

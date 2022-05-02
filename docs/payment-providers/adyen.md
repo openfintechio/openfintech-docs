@@ -135,7 +135,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![otpbank](https://static.openfintech.io/payment_methods/otpbank/icon.png?w=278&c=v0.59.26#w100) |[otpbank](/payment-methods/otpbank/)|`otpbank`| 
 |![postovabanka](https://static.openfintech.io/payment_methods/postovabanka/icon.png?w=278&c=v0.59.26#w100) |[postovabanka](/payment-methods/postovabanka/)|`postovabanka`| 
 |![primabanka](https://static.openfintech.io/payment_methods/primabanka/icon.png?w=278&c=v0.59.26#w100) |[primabanka](/payment-methods/primabanka/)|`primabanka`| 
-|![trustly](https://static.openfintech.io/payment_methods/trustly/icon.png?w=278&c=v0.59.26#w100) |[trustly](/payment-methods/trustly/)|`trustly`| 
+|![trustly](https://static.openfintech.io/payment_methods/trustly/icon.svg?w=278&c=v0.59.26#w100) |[trustly](/payment-methods/trustly/)|`trustly`| 
 |![slovenskasporitelna](https://static.openfintech.io/payment_methods/slovenskasporitelna/icon.png?w=278&c=v0.59.26#w100) |[slovenskasporitelna](/payment-methods/slovenskasporitelna/)|`slovenskasporitelna`| 
 |![tatrabanka](https://static.openfintech.io/payment_methods/tatrabanka/icon.png?w=278&c=v0.59.26#w100) |[tatrabanka](/payment-methods/tatrabanka/)|`tatrabanka`| 
 |![vubbanka](https://static.openfintech.io/payment_methods/vubbanka/icon.png?w=278&c=v0.59.26#w100) |[vubbanka](/payment-methods/vubbanka/)|`vubbanka`| 

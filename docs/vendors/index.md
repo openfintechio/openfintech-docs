@@ -386,6 +386,7 @@
 |![constantpos](https://static.openfintech.io/vendors/constantpos/logo.svg?w=600&c=v0.59.26#w200) |[**Constantpos**](constantpos/)|`constantpos`| 
 |![contactpay](https://static.openfintech.io/vendors/contactpay/logo.png?w=600&c=v0.59.26#w200) |[**ContactPay**](contactpay/)|`contactpay`| 
 |![conversebank](https://static.openfintech.io/vendors/conversebank/logo.svg?w=600&c=v0.59.26#w200) |[**Converse Bank**](conversebank/)|`conversebank`| 
+|![corefy](https://static.openfintech.io/vendors/corefy/logo.svg?w=600&c=v0.59.26#w200) |[**Corefy**](corefy/)|`corefy`| 
 |![corvuspay](https://static.openfintech.io/vendors/corvuspay/logo.png?w=600&c=v0.59.26#w200) |[**CorvusPay**](corvuspay/)|`corvuspay`| 
 |![cps](https://static.openfintech.io/vendors/cps/logo.png?w=600&c=v0.59.26#w200) |[**CPS**](cps/)|`cps`| 
 |![creditagricole](https://static.openfintech.io/vendors/creditagricole/logo.png?w=600&c=v0.59.26#w200) |[**Crédit Agricole**](creditagricole/)|`creditagricole`| 
@@ -812,6 +813,7 @@
 |![kbcbetaalknop](https://static.openfintech.io/vendors/kbcbetaalknop/logo.png?w=600&c=v0.59.26#w200) |[**KBC / CBC Online**](kbcbetaalknop/)|`kbcbetaalknop`| 
 |![kdscardpay](https://static.openfintech.io/vendors/kdscardpay/logo.png?w=600&c=v0.59.26#w200) |[**KDS Card Pay**](kdscardpay/)|`kdscardpay`| 
 |![keycollect](https://static.openfintech.io/vendors/keycollect/logo.png?w=600&c=v0.59.26#w200) |[**KeyCollect**](keycollect/)|`keycollect`| 
+|![kiberpay](https://static.openfintech.io/vendors/kiberpay/logo.png?w=600&c=v0.59.26#w200) |[**Kiberpay**](kiberpay/)|`kiberpay`| 
 |![kicb](https://static.openfintech.io/vendors/kicb/logo.svg?w=600&c=v0.59.26#w200) |[**KICB**](kicb/)|`kicb`| 
 |![kingpaypayments](https://static.openfintech.io/vendors/kingpaypayments/logo.png?w=600&c=v0.59.26#w200) |[**KingPay**](kingpaypayments/)|`kingpaypayments`| 
 |![kirovogr_ru_privatbank_m_kirovograd](https://static.openfintech.io/vendors/kirovogr_ru_privatbank_m_kirovograd/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ 'КІРОВОГРАДСЬКЕ РЕГІОНАЛЬНЕ УПРАВЛІННЯ' ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](kirovogr_ru_privatbank_m_kirovograd/)|`kirovogr_ru_privatbank_m_kirovograd`| 
@@ -1437,6 +1439,7 @@
 |![safecharge](https://static.openfintech.io/vendors/safecharge/logo.svg?w=600&c=v0.59.26#w200) |[**Nuvei**](safecharge/)|`safecharge`| 
 |![safepay.ua](https://static.openfintech.io/vendors/safepay.ua/logo.svg?w=600&c=v0.59.26#w200) |[**SafePay**](safepay.ua/)|`safepay.ua`| 
 |![safetypay](https://static.openfintech.io/vendors/safetypay/logo.png?w=600&c=v0.59.26#w200) |[**SafetyPay**](safetypay/)|`safetypay`| 
+|![safetypay](https://static.openfintech.io/vendors/safetypay/logo.png?w=600&c=v0.59.26#w200) |[**SafetyPay**](safetypay/)|`safetypay`| 
 |![sagepay3](https://static.openfintech.io/vendors/sagepay3/logo.svg?w=600&c=v0.59.26#w200) |[**Sage Pay**](sagepay3/)|`sagepay3`| 
 |![santander](https://static.openfintech.io/vendors/santander/logo.png?w=600&c=v0.59.26#w200) |[**Santander**](santander/)|`santander`| 
 |![satchelpay](https://static.openfintech.io/vendors/satchelpay/logo.png?w=600&c=v0.59.26#w200) |[**Satchel**](satchelpay/)|`satchelpay`| 
@@ -1609,7 +1612,8 @@
 |![truevo](https://static.openfintech.io/vendors/truevo/logo.png?w=600&c=v0.59.26#w200) |[**Truevo Payments**](truevo/)|`truevo`| 
 |![trust-exchange.org](https://static.openfintech.io/vendors/trust-exchange.org/logo.svg?w=600&c=v0.59.26#w200) |[**trust-exchange**](trust-exchange.org/)|`trust-exchange.org`| 
 |![trustcommerce](https://static.openfintech.io/vendors/trustcommerce/logo.png?w=600&c=v0.59.26#w200) |[**TrustCommerce**](trustcommerce/)|`trustcommerce`| 
-|![trustly](https://static.openfintech.io/vendors/trustly/logo.png?w=600&c=v0.59.26#w200) |[**Trustly**](trustly/)|`trustly`| 
+|![trustly](https://static.openfintech.io/vendors/trustly/logo.svg?w=600&c=v0.59.26#w200) |[**Trustly**](trustly/)|`trustly`| 
+|![trustly](https://static.openfintech.io/vendors/trustly/logo.svg?w=600&c=v0.59.26#w200) |[**Trustly**](trustly/)|`trustly`| 
 |![trustpay](https://static.openfintech.io/vendors/trustpay/logo.svg?w=600&c=v0.59.26#w200) |[**TrustPay**](trustpay/)|`trustpay`| 
 |![trustpayglobal](https://static.openfintech.io/vendors/trustpayglobal/logo.png?w=600&c=v0.59.26#w200) |[**ILIXIUM**](trustpayglobal/)|`trustpayglobal`| 
 |![trustpayments](https://static.openfintech.io/vendors/trustpayments/logo.svg?w=600&c=v0.59.26#w200) |[**Trust Payments**](trustpayments/)|`trustpayments`| 
