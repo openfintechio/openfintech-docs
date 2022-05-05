@@ -16,7 +16,7 @@
 :	[RU] Card 
 :	[UK] Card 
  
-**Amount limits:** from `0.01` to `1000000` JPY 
+**Amount limits:** from `1` to `1000000` JPY 
 
 ## Fields 
 
@@ -81,7 +81,7 @@
       }
     }
   ],
-  "amount_min":"0.01",
+  "amount_min":"1",
   "amount_max":"1000000"
 }
 ```  

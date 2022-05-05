@@ -37,7 +37,6 @@ The list of [Payout Services](/payout-services/) based on the _ПАТ КБ ГЛ�
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![pat-kb-globus-pogashennia-kreditiv](https://static.openfintech.io/payout_methods/pat-kb-globus-pogashennia-kreditiv/icon.png?w=278&c=v0.59.26#w40) |[pat-kb-globus-pogashennia-kreditiv_uah](/payout-services/pat-kb-globus-pogashennia-kreditiv_uah/)|`pat-kb-globus-pogashennia-kreditiv_uah`| 
-|![pat-kb-globus-pogashennia-kreditiv](https://static.openfintech.io/payout_methods/pat-kb-globus-pogashennia-kreditiv/icon.png?w=278&c=v0.59.26#w40) |[pat-kb-globus-pogashennia-kreditiv_uah](/payout-services/pat-kb-globus-pogashennia-kreditiv_uah/)|`pat-kb-globus-pogashennia-kreditiv_uah`| 
  
 
 ## JSON Object 

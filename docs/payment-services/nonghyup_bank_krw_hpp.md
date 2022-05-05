@@ -15,7 +15,7 @@
  
 :	[EN] Nonghyup Bank 
  
-**Amount limits:** from `0.01` to `9999999` KRW 
+**Amount limits:** from `1` to `9999999` KRW 
 
 ## JSON Object 
 
@@ -26,7 +26,7 @@
   "method":"nonghyup_bank",
   "currency":"KRW",
   "fields":null,
-  "amount_min":0.01,
+  "amount_min":1,
   "amount_max":9999999
 }
 ```  

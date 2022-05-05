@@ -37,7 +37,6 @@ The list of [Payout Services](/payout-services/) based on the _ДП Газпос
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![dp-gazposttach-pat-ternopilmiskgaz](https://static.openfintech.io/payout_methods/dp-gazposttach-pat-ternopilmiskgaz/icon.png?w=278&c=v0.59.26#w40) |[dp-gazposttach-pat-ternopilmiskgaz_uah](/payout-services/dp-gazposttach-pat-ternopilmiskgaz_uah/)|`dp-gazposttach-pat-ternopilmiskgaz_uah`| 
-|![dp-gazposttach-pat-ternopilmiskgaz](https://static.openfintech.io/payout_methods/dp-gazposttach-pat-ternopilmiskgaz/icon.png?w=278&c=v0.59.26#w40) |[dp-gazposttach-pat-ternopilmiskgaz_uah](/payout-services/dp-gazposttach-pat-ternopilmiskgaz_uah/)|`dp-gazposttach-pat-ternopilmiskgaz_uah`| 
  
 
 ## JSON Object 

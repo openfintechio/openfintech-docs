@@ -1,5 +1,5 @@
 
-# Alipay.com (service) 
+# Alipay (service) 
 ![alipay_cny_hpp](https://static.openfintech.io/payment_methods/alipay_cny_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -13,7 +13,7 @@
  
 **Name:** 
  
-:	[EN] Alipay.com 
+:	[EN] Alipay 
  
 **Amount limits:** from `0.01` to `9999999` CNY 
 

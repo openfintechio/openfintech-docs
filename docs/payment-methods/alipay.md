@@ -5,11 +5,17 @@
 ## General 
 **Code:** `alipay` 
  
+**Vendor:** `alipay` [show -->](/vendors/alipay/) 
+ 
 **Name:** 
  
 :	[EN] Alipay 
  
-**Category:** `payment_card` 
+**Description:** 
+ 
+: [EN] Alipay helps you to connect with customers across the world. With truly innovative e-Wallet payment solutions, Alipay provides seamless payment collection and a convenient customer experience. 
+ 
+**Category:** `alternative` 
  
 
 ## Images 
@@ -58,12 +64,14 @@ The list of [Payment Providers](/payment-providers/) that support the _Alipay_
 ```json
 {
   "code":"alipay",
-  "vendor":null,
+  "vendor":"alipay",
   "name":{
     "en":"Alipay"
   },
-  "description":null,
+  "description":{
+    "en":"Alipay helps you to connect with customers across the world. With truly innovative e-Wallet payment solutions, Alipay provides seamless payment collection and a convenient customer experience."
+  },
   "countries":null,
-  "category":"payment_card"
+  "category":"alternative"
 }
 ```  

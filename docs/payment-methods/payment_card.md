@@ -99,7 +99,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![1pay](https://static.openfintech.io/payment_providers/1pay/icon.png?w=278&c=v0.59.26#w100) |[1Pay](/payment-providers/1pay/)|`1pay`| 
 |![qiwi](https://static.openfintech.io/payment_providers/qiwi/icon.svg?w=278&c=v0.59.26#w100) |[Qiwi](/payment-providers/qiwi/)|`qiwi`| 
 |![paymentgarage](https://static.openfintech.io/payment_providers/paymentgarage/icon.png?w=278&c=v0.59.26#w100) |[PaymentGarage](/payment-providers/paymentgarage/)|`paymentgarage`| 
-|![firstatlanticcommerce](https://static.openfintech.io/payment_providers/firstatlanticcommerce/icon.png?w=278&c=v0.59.26#w100) |[First Atlantic Commerce](/payment-providers/firstatlanticcommerce/)|`firstatlanticcommerce`| 
 |![digitalriverworldpayments](https://static.openfintech.io/payment_providers/digitalriverworldpayments/icon.png?w=278&c=v0.59.26#w100) |[Digital River World Payments](/payment-providers/digitalriverworldpayments/)|`digitalriverworldpayments`| 
 |![paybox](https://static.openfintech.io/payment_providers/paybox/icon.svg?w=278&c=v0.59.26#w100) |[Paybox](/payment-providers/paybox/)|`paybox`| 
 |![123x](https://static.openfintech.io/payment_providers/123x/icon.png?w=278&c=v0.59.26#w100) |[123x](/payment-providers/123x/)|`123x`| 
@@ -204,7 +203,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![decta](https://static.openfintech.io/payment_providers/decta/icon.svg?w=278&c=v0.59.26#w100) |[Decta](/payment-providers/decta/)|`decta`| 
 |![hashconnect](https://static.openfintech.io/payment_providers/hashconnect/icon.png?w=278&c=v0.59.26#w100) |[Hashconnect](/payment-providers/hashconnect/)|`hashconnect`| 
 |![platio](https://static.openfintech.io/payment_providers/platio/icon.svg?w=278&c=v0.59.26#w100) |[Platio](/payment-providers/platio/)|`platio`| 
-|![paymentwall](https://static.openfintech.io/payment_providers/paymentwall/icon.svg?w=278&c=v0.59.26#w100) |[Paymentwall](/payment-providers/paymentwall/)|`paymentwall`| 
 |![piastrix](https://static.openfintech.io/payment_providers/piastrix/icon.svg?w=278&c=v0.59.26#w100) |[Piastrix](/payment-providers/piastrix/)|`piastrix`| 
 |![billline](https://static.openfintech.io/payment_providers/billline/icon.svg?w=278&c=v0.59.26#w100) |[BillLine](/payment-providers/billline/)|`billline`| 
 |![easybits](https://static.openfintech.io/payment_providers/easybits/icon.svg?w=278&c=v0.59.26#w100) |[EasyBits.io](/payment-providers/easybits/)|`easybits`| 
@@ -221,7 +219,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![genome](https://static.openfintech.io/payment_providers/genome/icon.svg?w=278&c=v0.59.26#w100) |[Genome](/payment-providers/genome/)|`genome`| 
 |![tkbpay](https://static.openfintech.io/payment_providers/tkbpay/icon.svg?w=278&c=v0.59.26#w100) |[TKB Pay](/payment-providers/tkbpay/)|`tkbpay`| 
 |![mercuryo](https://static.openfintech.io/payment_providers/mercuryo/icon.svg?w=278&c=v0.59.26#w100) |[Mercuryo](/payment-providers/mercuryo/)|`mercuryo`| 
-|![paymentwall](https://static.openfintech.io/payment_providers/paymentwall/icon.svg?w=278&c=v0.59.26#w100) |[paymentwall](/payment-providers/paymentwall/)|`paymentwall`| 
+|![paymentwall](https://static.openfintech.io/payment_providers/paymentwall/icon.svg?w=278&c=v0.59.26#w100) |[Paymentwall](/payment-providers/paymentwall/)|`paymentwall`| 
 |![wlandpay](https://static.openfintech.io/payment_providers/wlandpay/icon.png?w=278&c=v0.59.26#w100) |[Wlandpay](/payment-providers/wlandpay/)|`wlandpay`| 
 |![exactly](https://static.openfintech.io/payment_providers/exactly/icon.svg?w=278&c=v0.59.26#w100) |[Exactly](/payment-providers/exactly/)|`exactly`| 
 |![xpate](https://static.openfintech.io/payment_providers/xpate/icon.svg?w=278&c=v0.59.26#w100) |[Xpate](/payment-providers/xpate/)|`xpate`| 

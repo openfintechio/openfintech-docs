@@ -1,5 +1,5 @@
 
-# PJSC CB GLOBUS (loan repayment) (service) 
+# ПАТ КБ ГЛОБУС(погашення кредитів) (service) 
 ![pat-kb-globus-pogashennia-kreditiv_uah](https://static.openfintech.io/payout_methods/pat-kb-globus-pogashennia-kreditiv_uah/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,9 +12,9 @@
  
 **Name:** 
  
-:	[EN] PJSC CB GLOBUS (loan repayment) 
-:	[RU] ПАО КБ ГЛОБУС (погашение кредитов) 
-:	[UK] ПАТ КБ ГЛОБУС (погашення кредитів) 
+:	[EN] ПАТ КБ ГЛОБУС(погашення кредитів) 
+:	[RU] ПАТ КБ ГЛОБУС(погашення кредитів) 
+:	[UK] ПАТ КБ ГЛОБУС(погашення кредитів) 
  
 **Amount limits:** from `0.90` to `14999.00` UAH 
 

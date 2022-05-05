@@ -16,7 +16,7 @@
 :	[RU] dlocal 
 :	[UK] dlocal 
  
-**Amount limits:** from `0.01` to `100000` CLP 
+**Amount limits:** from `1` to `100000` CLP 
 
 ## Fields 
 
@@ -254,7 +254,7 @@
       "position":7
     }
   ],
-  "amount_min":"0.01",
+  "amount_min":"1",
   "amount_max":"100000"
 }
 ```  

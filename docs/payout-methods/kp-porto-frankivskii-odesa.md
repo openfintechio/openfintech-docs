@@ -1,5 +1,5 @@
 
-# КП "ПОРТО-ФРАНКІВСЬКИЙ" (Одеса) 
+# KP 'Porto-Frankivsk' (Odessa) 
 ![kp-porto-frankivskii-odesa](https://static.openfintech.io/payment_methods/kp-porto-frankivskii-odesa/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,9 +7,9 @@
  
 **Name:** 
  
-:	[EN] КП "ПОРТО-ФРАНКІВСЬКИЙ" (Одеса) 
-:	[RU] КП "ПОРТО-ФРАНКІВСЬКИЙ" (Одеса) 
-:	[UK] КП "ПОРТО-ФРАНКІВСЬКИЙ" (Одеса) 
+:	[EN] KP 'Porto-Frankivsk' (Odessa) 
+:	[UK] КП 'Порто-Франківський' (Одеса) 
+:	[RU] КП 'Порто-Франковский' (Одесса) 
  
 **Category:** `telecommunications` 
  
@@ -32,7 +32,7 @@ https://static.openfintech.io/payment_methods/kp-porto-frankivskii-odesa/icon.sv
 
 ## Payout Services 
  
-The list of [Payout Services](/payout-services/) based on the _КП "ПОРТО-ФРАНКІВСЬКИЙ" (Одеса)_ 
+The list of [Payout Services](/payout-services/) based on the _KP 'Porto-Frankivsk' (Odessa)_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -46,9 +46,9 @@ The list of [Payout Services](/payout-services/) based on the _КП "ПОРТО-
   "code":"kp-porto-frankivskii-odesa",
   "vendor":null,
   "name":{
-    "en":"\u041a\u041f \"\u041f\u041e\u0420\u0422\u041e-\u0424\u0420\u0410\u041d\u041a\u0406\u0412\u0421\u042c\u041a\u0418\u0419\" (\u041e\u0434\u0435\u0441\u0430)",
-    "ru":"\u041a\u041f \"\u041f\u041e\u0420\u0422\u041e-\u0424\u0420\u0410\u041d\u041a\u0406\u0412\u0421\u042c\u041a\u0418\u0419\" (\u041e\u0434\u0435\u0441\u0430)",
-    "uk":"\u041a\u041f \"\u041f\u041e\u0420\u0422\u041e-\u0424\u0420\u0410\u041d\u041a\u0406\u0412\u0421\u042c\u041a\u0418\u0419\" (\u041e\u0434\u0435\u0441\u0430)"
+    "en":"KP 'Porto-Frankivsk' (Odessa)",
+    "uk":"\u041a\u041f '\u041f\u043e\u0440\u0442\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439' (\u041e\u0434\u0435\u0441\u0430)",
+    "ru":"\u041a\u041f '\u041f\u043e\u0440\u0442\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u0438\u0439' (\u041e\u0434\u0435\u0441\u0441\u0430)"
   },
   "description":null,
   "countries":null,

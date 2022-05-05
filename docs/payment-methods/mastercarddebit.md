@@ -42,7 +42,6 @@ The list of [Payment Providers](/payment-providers/) that support the _MasterCar
 |:---:|:---:|:---:| 
 |![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.png?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
 |![omnipayment](https://static.openfintech.io/payment_providers/omnipayment/icon.png?w=278&c=v0.59.26#w100) |[OmniPayment](/payment-providers/omnipayment/)|`omnipayment`| 
-|![firstatlanticcommerce](https://static.openfintech.io/payment_providers/firstatlanticcommerce/icon.png?w=278&c=v0.59.26#w100) |[First Atlantic Commerce](/payment-providers/firstatlanticcommerce/)|`firstatlanticcommerce`| 
 |![magnius](https://static.openfintech.io/payment_providers/magnius/icon.png?w=278&c=v0.59.26#w100) |[Magnius](/payment-providers/magnius/)|`magnius`| 
 |![iyzipayments](https://static.openfintech.io/payment_providers/iyzipayments/icon.png?w=278&c=v0.59.26#w100) |[iyzico](/payment-providers/iyzipayments/)|`iyzipayments`| 
 |![fondy](https://static.openfintech.io/payment_providers/fondy/icon.svg?w=278&c=v0.59.26#w100) |[FONDY](/payment-providers/fondy/)|`fondy`| 

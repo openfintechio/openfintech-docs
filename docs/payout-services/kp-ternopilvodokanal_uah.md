@@ -1,5 +1,5 @@
 
-# KP Ternopilvodokanal (service) 
+# КП Тернопільводоканал (service) 
 ![kp-ternopilvodokanal_uah](https://static.openfintech.io/payout_methods/kp-ternopilvodokanal_uah/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,8 +12,8 @@
  
 **Name:** 
  
-:	[EN] KP Ternopilvodokanal 
-:	[RU] КП Тернопольводоканал 
+:	[EN] КП Тернопільводоканал 
+:	[RU] КП Тернопільводоканал 
 :	[UK] КП Тернопільводоканал 
  
 **Amount limits:** from `1.00` to `14999.00` UAH 

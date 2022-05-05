@@ -52,7 +52,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Diners Cl
 |![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.png?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
 |![securionpay](https://static.openfintech.io/payment_providers/securionpay/icon.svg?w=278&c=v0.59.26#w100) |[SecurionPay](/payment-providers/securionpay/)|`securionpay`| 
 |![merchantscout](https://static.openfintech.io/payment_providers/merchantscout/icon.png?w=278&c=v0.59.26#w100) |[MerchantScout](/payment-providers/merchantscout/)|`merchantscout`| 
-|![firstatlanticcommerce](https://static.openfintech.io/payment_providers/firstatlanticcommerce/icon.png?w=278&c=v0.59.26#w100) |[First Atlantic Commerce](/payment-providers/firstatlanticcommerce/)|`firstatlanticcommerce`| 
 |![dalberry](https://static.openfintech.io/payment_providers/dalberry/icon.png?w=278&c=v0.59.26#w100) |[Dalberry](/payment-providers/dalberry/)|`dalberry`| 
 |![paymill](https://static.openfintech.io/payment_providers/paymill/icon.png?w=278&c=v0.59.26#w100) |[PAYMILL](/payment-providers/paymill/)|`paymill`| 
 |![hipay](https://static.openfintech.io/payment_providers/hipay/icon.png?w=278&c=v0.59.26#w100) |[HiPay](/payment-providers/hipay/)|`hipay`| 

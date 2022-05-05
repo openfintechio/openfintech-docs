@@ -37,7 +37,6 @@ The list of [Payout Services](/payout-services/) based on the _КП Терноп
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![kp-ternopilmiskteplokomunenergo](https://static.openfintech.io/payout_methods/kp-ternopilmiskteplokomunenergo/icon.png?w=278&c=v0.59.26#w40) |[kp-ternopilmiskteplokomunenergo_uah](/payout-services/kp-ternopilmiskteplokomunenergo_uah/)|`kp-ternopilmiskteplokomunenergo_uah`| 
-|![kp-ternopilmiskteplokomunenergo](https://static.openfintech.io/payout_methods/kp-ternopilmiskteplokomunenergo/icon.png?w=278&c=v0.59.26#w40) |[kp-ternopilmiskteplokomunenergo_uah](/payout-services/kp-ternopilmiskteplokomunenergo_uah/)|`kp-ternopilmiskteplokomunenergo_uah`| 
  
 
 ## JSON Object 

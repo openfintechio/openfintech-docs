@@ -1,5 +1,5 @@
 
-# Population Pictures (service) 
+# Поповнення карти (service) 
 ![popovnennia-karti_uah](https://static.openfintech.io/payout_methods/popovnennia-karti_uah/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,7 +12,7 @@
  
 **Name:** 
  
-:	[EN] Population Pictures 
+:	[EN] Поповнення карти 
 :	[RU] Поповнення карти 
 :	[UK] Поповнення карти 
  

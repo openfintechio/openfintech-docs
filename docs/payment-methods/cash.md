@@ -1,5 +1,5 @@
 
-# CASH 
+# Cash 
 ![cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,7 +7,9 @@
  
 **Name:** 
  
-:	[EN] CASH 
+:	[EN] Cash 
+:	[RU] Наличные 
+:	[UK] Готівка 
  
 **Category:** `cash_payment` 
  
@@ -30,7 +32,7 @@ https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w10
 
 ## Payment Services 
  
-The list of [Payment Services](/payment-services/) based on the _CASH_ 
+The list of [Payment Services](/payment-services/) based on the _Cash_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -51,7 +53,7 @@ The list of [Payment Services](/payment-services/) based on the _CASH_
 
 ## Payment Providers 
  
-The list of [Payment Providers](/payment-providers/) that support the _CASH_ 
+The list of [Payment Providers](/payment-providers/) that support the _Cash_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -66,7 +68,9 @@ The list of [Payment Providers](/payment-providers/) that support the _CASH_
   "code":"cash",
   "vendor":null,
   "name":{
-    "en":"CASH"
+    "en":"Cash",
+    "ru":"\u041d\u0430\u043b\u0438\u0447\u043d\u044b\u0435",
+    "uk":"\u0413\u043e\u0442\u0456\u0432\u043a\u0430"
   },
   "description":null,
   "countries":null,

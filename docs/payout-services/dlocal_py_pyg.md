@@ -16,7 +16,7 @@
 :	[RU] dlocal 
 :	[UK] dlocal 
  
-**Amount limits:** from `0.01` to `100000` PYG 
+**Amount limits:** from `1` to `100000` PYG 
 
 ## Fields 
 
@@ -290,7 +290,7 @@
       "required":false
     }
   ],
-  "amount_min":"0.01",
+  "amount_min":"1",
   "amount_max":"100000"
 }
 ```  

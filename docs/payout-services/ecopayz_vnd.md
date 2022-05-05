@@ -16,7 +16,7 @@
 :	[RU] Ecopayz 
 :	[UK] Ecopayz 
  
-**Amount limits:** from `1.00` to `999999.00` VND 
+**Amount limits:** from `1` to `999999` VND 
 
 ## Fields 
 
@@ -75,7 +75,7 @@
       "example":"1100382992"
     }
   ],
-  "amount_min":"1.00",
-  "amount_max":"999999.00"
+  "amount_min":"1",
+  "amount_max":"999999"
 }
 ```  

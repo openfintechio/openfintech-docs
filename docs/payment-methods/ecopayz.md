@@ -51,7 +51,6 @@ The list of [Payment Services](/payment-services/) based on the _Ecopayz_
 |![ecopayz](https://static.openfintech.io/payment_methods/ecopayz/icon.svg?w=278&c=v0.59.26#w100) |[ecopayz_ngn_hpp](/payment-services/ecopayz_ngn_hpp/)|`ecopayz_ngn_hpp`| 
 |![ecopayz](https://static.openfintech.io/payment_methods/ecopayz/icon.svg?w=278&c=v0.59.26#w100) |[ecopayz_pln_hpp](/payment-services/ecopayz_pln_hpp/)|`ecopayz_pln_hpp`| 
 |![ecopayz](https://static.openfintech.io/payment_methods/ecopayz/icon.svg?w=278&c=v0.59.26#w100) |[ecopayz_mdl_hpp](/payment-services/ecopayz_mdl_hpp/)|`ecopayz_mdl_hpp`| 
-|![ecopayz](https://static.openfintech.io/payment_methods/ecopayz/icon.svg?w=278&c=v0.59.26#w100) |[ecopayz_mxn_hpp](/payment-services/ecopayz_mxn_hpp/)|`ecopayz_mxn_hpp`| 
 |![ecopayz](https://static.openfintech.io/payment_methods/ecopayz/icon.svg?w=278&c=v0.59.26#w100) |[ecopayz_thb_hpp](/payment-services/ecopayz_thb_hpp/)|`ecopayz_thb_hpp`| 
 |![ecopayz](https://static.openfintech.io/payment_methods/ecopayz/icon.svg?w=278&c=v0.59.26#w100) |[ecopayz_idr_hpp](/payment-services/ecopayz_idr_hpp/)|`ecopayz_idr_hpp`| 
 |![ecopayz](https://static.openfintech.io/payment_methods/ecopayz/icon.svg?w=278&c=v0.59.26#w100) |[ecopayz_myr_hpp](/payment-services/ecopayz_myr_hpp/)|`ecopayz_myr_hpp`| 

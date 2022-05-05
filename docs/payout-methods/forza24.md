@@ -37,7 +37,6 @@ The list of [Payout Services](/payout-services/) based on the _Forza24_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![forza24](https://static.openfintech.io/payout_methods/forza24/icon.png?w=278&c=v0.59.26#w40) |[forza24_uah](/payout-services/forza24_uah/)|`forza24_uah`| 
-|![forza24](https://static.openfintech.io/payout_methods/forza24/icon.png?w=278&c=v0.59.26#w40) |[forza24_uah](/payout-services/forza24_uah/)|`forza24_uah`| 
  
 
 ## JSON Object 

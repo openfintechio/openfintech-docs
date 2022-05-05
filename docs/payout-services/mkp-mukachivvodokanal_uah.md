@@ -1,5 +1,5 @@
 
-# INC Mukachivvodokanal (service) 
+# МКП МУКАЧІВВОДОКАНАЛ (service) 
 ![mkp-mukachivvodokanal_uah](https://static.openfintech.io/payout_methods/mkp-mukachivvodokanal_uah/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,9 +12,9 @@
  
 **Name:** 
  
-:	[EN] INC Mukachivvodokanal 
-:	[RU] МКП Мукачивводоканал 
-:	[UK] МКП Мукачівводоканал 
+:	[EN] МКП МУКАЧІВВОДОКАНАЛ 
+:	[RU] МКП МУКАЧІВВОДОКАНАЛ 
+:	[UK] МКП МУКАЧІВВОДОКАНАЛ 
  
 **Amount limits:** from `2.00` to `14999.00` UAH 
 

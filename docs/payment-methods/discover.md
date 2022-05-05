@@ -42,7 +42,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Discover_
 |:---:|:---:|:---:| 
 |![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.png?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
 |![securionpay](https://static.openfintech.io/payment_providers/securionpay/icon.svg?w=278&c=v0.59.26#w100) |[SecurionPay](/payment-providers/securionpay/)|`securionpay`| 
-|![firstatlanticcommerce](https://static.openfintech.io/payment_providers/firstatlanticcommerce/icon.png?w=278&c=v0.59.26#w100) |[First Atlantic Commerce](/payment-providers/firstatlanticcommerce/)|`firstatlanticcommerce`| 
 |![paydoo](https://static.openfintech.io/payment_providers/paydoo/icon.png?w=278&c=v0.59.26#w100) |[Paydoo](/payment-providers/paydoo/)|`paydoo`| 
 |![dalberry](https://static.openfintech.io/payment_providers/dalberry/icon.png?w=278&c=v0.59.26#w100) |[Dalberry](/payment-providers/dalberry/)|`dalberry`| 
 |![paymill](https://static.openfintech.io/payment_providers/paymill/icon.png?w=278&c=v0.59.26#w100) |[PAYMILL](/payment-providers/paymill/)|`paymill`| 

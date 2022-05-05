@@ -13,7 +13,7 @@
 **Status:** `active` 
  
 **Links:** 
-: website [https://www.parimatch.com](https://www.parimatch.com) 
+: website [https://parimatch.com](https://parimatch.com) 
  
 
 ## Images 
@@ -45,7 +45,7 @@ https://static.openfintech.io/vendors/parimatch/icon.svg?w=278&c=v0.59.26#w100
   "status":"active",
   "description":null,
   "links":{
-    "website":"https:\/\/www.parimatch.com"
+    "website":"https:\/\/parimatch.com"
   },
   "countries":null,
   "contacts":null,

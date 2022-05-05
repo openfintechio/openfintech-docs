@@ -37,7 +37,6 @@ The list of [Payout Services](/payout-services/) based on the _Viasat UATV_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![viasat-uatv](https://static.openfintech.io/payout_methods/viasat-uatv/icon.png?w=278&c=v0.59.26#w40) |[viasat-uatv_uah](/payout-services/viasat-uatv_uah/)|`viasat-uatv_uah`| 
-|![viasat-uatv](https://static.openfintech.io/payout_methods/viasat-uatv/icon.png?w=278&c=v0.59.26#w40) |[viasat-uatv_uah](/payout-services/viasat-uatv_uah/)|`viasat-uatv_uah`| 
  
 
 ## JSON Object 

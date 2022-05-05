@@ -49,9 +49,7 @@ The list of [Payout Services](/payout-services/) based on the _Neteller_
 |![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller_huf](/payout-services/neteller_huf/)|`neteller_huf`| 
 |![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller_inr](/payout-services/neteller_inr/)|`neteller_inr`| 
 |![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller_jpy](/payout-services/neteller_jpy/)|`neteller_jpy`| 
-|![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller_myr](/payout-services/neteller_myr/)|`neteller_myr`| 
 |![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller_mad](/payout-services/neteller_mad/)|`neteller_mad`| 
-|![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller_mxn](/payout-services/neteller_mxn/)|`neteller_mxn`| 
 |![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller_ngn](/payout-services/neteller_ngn/)|`neteller_ngn`| 
 |![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller_nok](/payout-services/neteller_nok/)|`neteller_nok`| 
 |![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller_pln](/payout-services/neteller_pln/)|`neteller_pln`| 

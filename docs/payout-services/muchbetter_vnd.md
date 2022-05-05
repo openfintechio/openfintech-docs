@@ -16,7 +16,7 @@
 :	[RU] MuchBetter 
 :	[UK] MuchBetter 
  
-**Amount limits:** from `1` to `99999.00` VND 
+**Amount limits:** from `1` to `99999` VND 
 
 ## Fields 
 
@@ -76,6 +76,6 @@
     }
   ],
   "amount_min":"1",
-  "amount_max":"99999.00"
+  "amount_max":"99999"
 }
 ```  

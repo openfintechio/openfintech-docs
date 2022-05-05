@@ -21,8 +21,8 @@
 |![Alfa Click](https://static.openfintech.io/payment_methods/alfaclick/logo.png?w=400&c=v0.59.26#w200) |[**Alfa Click**](/payment-methods/alfaclick/)|[`alfaclick_kzt_hpp`](alfaclick_kzt_hpp/)| 
 |![Alfa Click](https://static.openfintech.io/payment_methods/alfaclick/logo.png?w=400&c=v0.59.26#w200) |[**Alfa Click**](/payment-methods/alfaclick/)|[`alfaclick_rub_hpp`](alfaclick_rub_hpp/)| 
 |![Alfa Click](https://static.openfintech.io/payment_methods/alfaclick/logo.png?w=400&c=v0.59.26#w200) |[**Alfa Click**](/payment-methods/alfaclick/)|[`alfaclick_usd_hpp`](alfaclick_usd_hpp/)| 
-|![Alipay.com](https://static.openfintech.io/payment_methods/alipay/logo.svg?w=400&c=v0.59.26#w200) |[**Alipay.com**](/payment-methods/alipay/)|[`alipay_cny_hpp`](alipay_cny_hpp/)| 
-|![Alipay.com](https://static.openfintech.io/payment_methods/alipay/logo.svg?w=400&c=v0.59.26#w200) |[**Alipay.com**](/payment-methods/alipay/)|[`alipay_eur_hpp`](alipay_eur_hpp/)| 
+|![Alipay](https://static.openfintech.io/payment_methods/alipay/logo.svg?w=400&c=v0.59.26#w200) |[**Alipay**](/payment-methods/alipay/)|[`alipay_cny_hpp`](alipay_cny_hpp/)| 
+|![Alipay](https://static.openfintech.io/payment_methods/alipay/logo.svg?w=400&c=v0.59.26#w200) |[**Alipay**](/payment-methods/alipay/)|[`alipay_eur_hpp`](alipay_eur_hpp/)| 
 |![Allahabad Bank](https://static.openfintech.io/payment_methods/allahabad_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Allahabad Bank**](/payment-methods/allahabad_bank/)|[`allahabad_bank_inr_hpp`](allahabad_bank_inr_hpp/)| 
 |![American Express](https://static.openfintech.io/payment_methods/americanexpress/logo.svg?w=400&c=v0.59.26#w200) |[**American Express**](/payment-methods/americanexpress/)|[`americanexpress_eur_hpp`](americanexpress_eur_hpp/)| 
 |![Andhra Bank](https://static.openfintech.io/payment_methods/andhra_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Andhra Bank**](/payment-methods/andhra_bank/)|[`andhra_bank_inr_hpp`](andhra_bank_inr_hpp/)| 
@@ -172,7 +172,6 @@
 |![Ecopayz](https://static.openfintech.io/payment_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w200) |[**Ecopayz**](/payment-methods/ecopayz/)|[`ecopayz_idr_hpp`](ecopayz_idr_hpp/)| 
 |![Ecopayz](https://static.openfintech.io/payment_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w200) |[**Ecopayz**](/payment-methods/ecopayz/)|[`ecopayz_inr_hpp`](ecopayz_inr_hpp/)| 
 |![Ecopayz](https://static.openfintech.io/payment_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w200) |[**Ecopayz**](/payment-methods/ecopayz/)|[`ecopayz_mdl_hpp`](ecopayz_mdl_hpp/)| 
-|![Ecopayz](https://static.openfintech.io/payment_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w200) |[**Ecopayz**](/payment-methods/ecopayz/)|[`ecopayz_mxn_hpp`](ecopayz_mxn_hpp/)| 
 |![Ecopayz](https://static.openfintech.io/payment_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w200) |[**Ecopayz**](/payment-methods/ecopayz/)|[`ecopayz_mxn_hpp`](ecopayz_mxn_hpp/)| 
 |![Ecopayz](https://static.openfintech.io/payment_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w200) |[**Ecopayz**](/payment-methods/ecopayz/)|[`ecopayz_myr_hpp`](ecopayz_myr_hpp/)| 
 |![Ecopayz](https://static.openfintech.io/payment_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w200) |[**Ecopayz**](/payment-methods/ecopayz/)|[`ecopayz_ngn_hpp`](ecopayz_ngn_hpp/)| 
@@ -539,7 +538,6 @@
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_trc20_usdt_hpp`](tether_trc20_usdt_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_trc20_usdt_invoice`](tether_trc20_usdt_invoice/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_uah_invoice`](tether_uah_invoice/)| 
-|![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_usd_hpp`](tether_usd_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_usd_hpp`](tether_usd_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_usd_invoice`](tether_usd_invoice/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_usdt_invoice`](tether_usdt_invoice/)| 

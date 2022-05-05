@@ -15,7 +15,7 @@
  
 :	[EN] MG Bank (Saemmul) 
  
-**Amount limits:** from `0.01` to `9999999` KRW 
+**Amount limits:** from `1` to `9999999` KRW 
 
 ## JSON Object 
 
@@ -26,7 +26,7 @@
   "method":"mg_bank_saemmul",
   "currency":"KRW",
   "fields":null,
-  "amount_min":0.01,
+  "amount_min":1,
   "amount_max":9999999
 }
 ```  

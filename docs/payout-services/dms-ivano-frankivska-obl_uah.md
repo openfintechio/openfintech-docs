@@ -1,5 +1,5 @@
 
-# LMI (Ivano-Frankivsk region) (service) 
+# ДМС (Івано-Франківська обл.) (service) 
 ![dms-ivano-frankivska-obl_uah](https://static.openfintech.io/payout_methods/dms-ivano-frankivska-obl_uah/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,8 +12,8 @@
  
 **Name:** 
  
-:	[EN] LMI (Ivano-Frankivsk region) 
-:	[RU] ДМС (Ивано-Франковская обл.) 
+:	[EN] ДМС (Івано-Франківська обл.) 
+:	[RU] ДМС (Івано-Франківська обл.) 
 :	[UK] ДМС (Івано-Франківська обл.) 
  
 **Amount limits:** from `2.00` to `14999.00` UAH 

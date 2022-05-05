@@ -39,7 +39,6 @@ The list of [Payment Services](/payment-services/) based on the _Tether_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_usd_hpp](/payment-services/tether_usd_hpp/)|`tether_usd_hpp`| 
-|![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_usd_hpp](/payment-services/tether_usd_hpp/)|`tether_usd_hpp`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_btc_invoice](/payment-services/tether_btc_invoice/)|`tether_btc_invoice`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_ltc_invoice](/payment-services/tether_ltc_invoice/)|`tether_ltc_invoice`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_bch_invoice](/payment-services/tether_bch_invoice/)|`tether_bch_invoice`| 

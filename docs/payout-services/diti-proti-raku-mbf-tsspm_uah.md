@@ -1,5 +1,5 @@
 
-# Children against cancer - ICF DSPM ' (service) 
+# Diet against cancer - ICF 'TsSPM' (service) 
 ![diti-proti-raku-mbf-tsspm_uah](https://static.openfintech.io/payout_methods/diti-proti-raku-mbf-tsspm_uah/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,9 +12,9 @@
  
 **Name:** 
  
-:	[EN] Children against cancer - ICF DSPM ' 
-:	[RU] Дети против рака - МБФ ЦСПМ ' 
-:	[UK] Діти проти раку - МБФ ЦСПМ ' 
+:	[EN] Diet against cancer - ICF 'TsSPM' 
+:	[RU] Дiти проти раку - МБФ 'ЦСПМ' 
+:	[UK] Дiти проти раку - МБФ 'ЦСПМ' 
  
 **Amount limits:** from `0.01` to `14999` UAH 
 

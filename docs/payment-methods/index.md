@@ -22,7 +22,6 @@
 |![alandsbanken](https://static.openfintech.io/payment_methods/alandsbanken/logo.png?w=400&c=v0.59.26#w200) |[**Älandsbanken**](alandsbanken/)|`alandsbanken`| 
 |![alfaclick](https://static.openfintech.io/payment_methods/alfaclick/logo.png?w=400&c=v0.59.26#w200) |[**Alfa Click**](alfaclick/)|`alfaclick`| 
 |![alipay](https://static.openfintech.io/payment_methods/alipay/logo.svg?w=400&c=v0.59.26#w200) |[**Alipay**](alipay/)|`alipay`| 
-|![alipay](https://static.openfintech.io/payment_methods/alipay/logo.svg?w=400&c=v0.59.26#w200) |[**Alipay.com**](alipay/)|`alipay`| 
 |![allahabad_bank](https://static.openfintech.io/payment_methods/allahabad_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Allahabad Bank**](allahabad_bank/)|`allahabad_bank`| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/logo.svg?w=400&c=v0.59.26#w200) |[**American Express**](americanexpress/)|`americanexpress`| 
 |![andhra_bank](https://static.openfintech.io/payment_methods/andhra_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Andhra Bank**](andhra_bank/)|`andhra_bank`| 
@@ -100,7 +99,6 @@
 |![cartebancaires](https://static.openfintech.io/payment_methods/cartebancaires/logo.png?w=400&c=v0.59.26#w200) |[**Carte Bancaires**](cartebancaires/)|`cartebancaires`| 
 |![cartebleue](https://static.openfintech.io/payment_methods/cartebleue/logo.png?w=400&c=v0.59.26#w200) |[**Carte Bleue**](cartebleue/)|`cartebleue`| 
 |![cascad](https://static.openfintech.io/payment_methods/cascad/logo.svg?w=400&c=v0.59.26#w200) |[**Cascad**](cascad/)|`cascad`| 
-|![cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200) |[**CASH**](cash/)|`cash`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200) |[**Cash**](cash/)|`cash`| 
 |![cashu](https://static.openfintech.io/payment_methods/cashu/logo.png?w=400&c=v0.59.26#w200) |[**CASHU**](cashu/)|`cashu`| 
 |![cellularworld](https://static.openfintech.io/payment_methods/cellularworld/logo.png?w=400&c=v0.59.26#w200) |[**Cellular World**](cellularworld/)|`cellularworld`| 
@@ -345,7 +343,6 @@
 |![perfectmoney](https://static.openfintech.io/payment_methods/perfectmoney/logo.png?w=400&c=v0.59.26#w200) |[**Perfect Money**](perfectmoney/)|`perfectmoney`| 
 |![perfectmoney_account](https://static.openfintech.io/payment_methods/perfectmoney_account/logo.png?w=400&c=v0.59.26#w200) |[**Perfect Money Account**](perfectmoney_account/)|`perfectmoney_account`| 
 |![perfectmoney_voucher](https://static.openfintech.io/payment_methods/perfectmoney_voucher/logo.png?w=400&c=v0.59.26#w200) |[**Perfect Money Voucher**](perfectmoney_voucher/)|`perfectmoney_voucher`| 
-|![permata_bank](https://static.openfintech.io/payment_methods/permata_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Permata Bank**](permata_bank/)|`permata_bank`| 
 |![permata_bank](https://static.openfintech.io/payment_methods/permata_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Permata Bank**](permata_bank/)|`permata_bank`| 
 |![phonepe](https://static.openfintech.io/payment_methods/phonepe/logo.svg?w=400&c=v0.59.26#w200) |[**Phonepe Wallet**](phonepe/)|`phonepe`| 
 |![piastrix](https://static.openfintech.io/payment_methods/piastrix/logo.svg?w=400&c=v0.59.26#w200) |[**Piastrix**](piastrix/)|`piastrix`| 
