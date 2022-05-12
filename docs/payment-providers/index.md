@@ -307,6 +307,7 @@
 |![gumballpay](https://static.openfintech.io/payment_providers/gumballpay/logo.svg?w=600&c=v0.59.26#w100) |[**GumballPay**](gumballpay/)|`gumballpay`| 
 || **H** ||
 |![hashconnect](https://static.openfintech.io/payment_providers/hashconnect/logo.png?w=600&c=v0.59.26#w100) |[**Hashconnect**](hashconnect/)|`hashconnect`| 
+|![hawex](https://static.openfintech.io/payment_providers/hawex/logo.svg?w=600&c=v0.59.26#w100) |[**HAWEX**](hawex/)|`hawex`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/logo.png?w=600&c=v0.59.26#w100) |[**Heidelpay**](heidelpay/)|`heidelpay`| 
 |![hellopay](https://static.openfintech.io/payment_providers/hellopay/logo.png?w=600&c=v0.59.26#w100) |[**helloPay**](hellopay/)|`hellopay`| 
 |![hipay](https://static.openfintech.io/payment_providers/hipay/logo.png?w=600&c=v0.59.26#w100) |[**HiPay**](hipay/)|`hipay`| 

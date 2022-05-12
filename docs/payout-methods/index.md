@@ -1225,6 +1225,7 @@
 |![pishchanka-pat-vinnitsiaoblenergo](https://static.openfintech.io/payout_methods/pishchanka-pat-vinnitsiaoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Peschanka PJSC 'Vinnitsaoblenergo'**](pishchanka-pat-vinnitsiaoblenergo/)|`pishchanka-pat-vinnitsiaoblenergo`| 
 |![pitomtsy](https://static.openfintech.io/payout_methods/pitomtsy/logo.png?w=400&c=v0.59.26#w24) |[**Pets**](pitomtsy/)|`pitomtsy`| 
 |![pivnichline-rovnenskaia-obl](https://static.openfintech.io/payout_methods/pivnichline-rovnenskaia-obl/logo.png?w=400&c=v0.59.26#w24) |[**PivnichLine (Rivne region)**](pivnichline-rovnenskaia-obl/)|`pivnichline-rovnenskaia-obl`| 
+|![pix](https://static.openfintech.io/payout_methods/pix/logo.svg?w=400&c=v0.59.26#w24) |[**PIX**](pix/)|`pix`| 
 |![pogrebishche-pat-vinnitsiaoblenergo](https://static.openfintech.io/payout_methods/pogrebishche-pat-vinnitsiaoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**The burial ground of PJSC 'Vinnitsaoblenergo'**](pogrebishche-pat-vinnitsiaoblenergo/)|`pogrebishche-pat-vinnitsiaoblenergo`| 
 |![pointblank](https://static.openfintech.io/payout_methods/pointblank/logo.png?w=400&c=v0.59.26#w24) |[**PointBlank**](pointblank/)|`pointblank`| 
 |![pokermatch_account](https://static.openfintech.io/payout_methods/pokermatch_account/logo.svg?w=400&c=v0.59.26#w24) |[**Pokermatch Account**](pokermatch_account/)|`pokermatch_account`| 
@@ -1330,6 +1331,7 @@
 |![sepa_credit_transfer](https://static.openfintech.io/payout_methods/sepa_credit_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**SEPA Transfer**](sepa_credit_transfer/)|`sepa_credit_transfer`| 
 |![servis-24-kiev](https://static.openfintech.io/payout_methods/servis-24-kiev/logo.png?w=400&c=v0.59.26#w24) |[**SERVICE 24 (Kiev)**](servis-24-kiev/)|`servis-24-kiev`| 
 |![setka](https://static.openfintech.io/payout_methods/setka/logo.png?w=400&c=v0.59.26#w24) |[**SETKA**](setka/)|`setka`| 
+|![settlepay_wallet](https://static.openfintech.io/payout_methods/settlepay_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**SettlePay Wallet**](settlepay_wallet/)|`settlepay_wallet`| 
 |![severodonetskii-rem-lugansk-eo](https://static.openfintech.io/payout_methods/severodonetskii-rem-lugansk-eo/logo.svg?w=400&c=v0.59.26#w24) |[**Severodonetsk SEM Lugansk EO**](severodonetskii-rem-lugansk-eo/)|`severodonetskii-rem-lugansk-eo`| 
 |![sez-zhkg-g-kramatorska](https://static.openfintech.io/payout_methods/sez-zhkg-g-kramatorska/logo.png?w=400&c=v0.59.26#w24) |[**SEZ Housing and Communal Services Kramatorsk**](sez-zhkg-g-kramatorska/)|`sez-zhkg-g-kramatorska`| 
 |![sfera](https://static.openfintech.io/payout_methods/sfera/logo.png?w=400&c=v0.59.26#w24) |[**Sphere**](sfera/)|`sfera`| 

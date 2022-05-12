@@ -729,6 +729,7 @@
 |![harkivska_filiya_prat_ufg](https://static.openfintech.io/vendors/harkivska_filiya_prat_ufg/logo.svg?w=600&c=v0.59.26#w200) |[**Харківська філія ПрАТ 'Українська фінансова група'**](harkivska_filiya_prat_ufg/)|`harkivska_filiya_prat_ufg`| 
 |![harkivska_oblasna_filiya_prat_ufg](https://static.openfintech.io/vendors/harkivska_oblasna_filiya_prat_ufg/logo.svg?w=600&c=v0.59.26#w200) |[**Харківська обласна філія ПрАТ 'Українська фінансова група'**](harkivska_oblasna_filiya_prat_ufg/)|`harkivska_oblasna_filiya_prat_ufg`| 
 |![hashconnect](https://static.openfintech.io/vendors/hashconnect/logo.png?w=600&c=v0.59.26#w200) |[**Hashconnect**](hashconnect/)|`hashconnect`| 
+|![hawex](https://static.openfintech.io/vendors/hawex/logo.svg?w=600&c=v0.59.26#w200) |[**HAWEX**](hawex/)|`hawex`| 
 |![hdfcbanknetbankingindia](https://static.openfintech.io/vendors/hdfcbanknetbankingindia/logo.png?w=600&c=v0.59.26#w200) |[**HDFC Bank Netbanking**](hdfcbanknetbankingindia/)|`hdfcbanknetbankingindia`| 
 |![heidelpay](https://static.openfintech.io/vendors/heidelpay/logo.png?w=600&c=v0.59.26#w200) |[**Heidelpay**](heidelpay/)|`heidelpay`| 
 |![helixmoney](https://static.openfintech.io/vendors/helixmoney/logo.svg?w=600&c=v0.59.26#w200) |[**Helix Money**](helixmoney/)|`helixmoney`| 

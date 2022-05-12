@@ -1034,6 +1034,7 @@
 |![Ping An Bank](https://static.openfintech.io/payout_methods/ping_an_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Ping An Bank**](/payout-methods/ping_an_bank/)|[`ping_an_bank_cny`](ping_an_bank_cny/)|`CNY`| 
 |![Pets](https://static.openfintech.io/payout_methods/pitomtsy/logo.png?w=400&c=v0.59.26#w24) |[**Pets**](/payout-methods/pitomtsy/)|[`pitomtsy_uah`](pitomtsy_uah/)|`UAH`| 
 |![PivnichLine (Rivne region)](https://static.openfintech.io/payout_methods/pivnichline-rovnenskaia-obl/logo.png?w=400&c=v0.59.26#w24) |[**PivnichLine (Rivne region)**](/payout-methods/pivnichline-rovnenskaia-obl/)|[`pivnichline-rovnenskaia-obl_uah`](pivnichline-rovnenskaia-obl_uah/)|`UAH`| 
+|![PIX](https://static.openfintech.io/payout_methods/pix/logo.svg?w=400&c=v0.59.26#w24) |[**PIX**](/payout-methods/pix/)|[`pix_brl`](pix_brl/)|`BRL`| 
 |![PointBlank](https://static.openfintech.io/payout_methods/pointblank/logo.png?w=400&c=v0.59.26#w24) |[**PointBlank**](/payout-methods/pointblank/)|[`pointblank_uah`](pointblank_uah/)|`UAH`| 
 |![Pokermatch Account](https://static.openfintech.io/payout_methods/pokermatch_account/logo.svg?w=400&c=v0.59.26#w24) |[**Pokermatch Account**](/payout-methods/pokermatch_account/)|[`pokermatch_account_uah`](pokermatch_account_uah/)|`UAH`| 
 |![Buy](https://static.openfintech.io/payout_methods/pokupon/logo.png?w=400&c=v0.59.26#w24) |[**Buy**](/payout-methods/pokupon/)|[`pokupon_uah`](pokupon_uah/)|`UAH`| 
@@ -1127,6 +1128,7 @@
 |![SEPA Transfer](https://static.openfintech.io/payout_methods/sepa_credit_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**SEPA Transfer**](/payout-methods/sepa_credit_transfer/)|[`sepa_credit_transfer_individual_eur`](sepa_credit_transfer_individual_eur/)|`EUR`| 
 |![SERVICE 24 (Kiev)](https://static.openfintech.io/payout_methods/servis-24-kiev/logo.png?w=400&c=v0.59.26#w24) |[**SERVICE 24 (Kiev)**](/payout-methods/servis-24-kiev/)|[`servis-24-kiev_uah`](servis-24-kiev_uah/)|`UAH`| 
 |![SETKA](https://static.openfintech.io/payout_methods/setka/logo.png?w=400&c=v0.59.26#w24) |[**SETKA**](/payout-methods/setka/)|[`setka_uah`](setka_uah/)|`UAH`| 
+|![SettlePay Wallet](https://static.openfintech.io/payout_methods/settlepay_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**SettlePay Wallet**](/payout-methods/settlepay_wallet/)|[`settlepay_wallet_uah`](settlepay_wallet_uah/)|`UAH`| 
 |![SEZ Housing and Communal Services Kramatorsk](https://static.openfintech.io/payout_methods/sez-zhkg-g-kramatorska/logo.png?w=400&c=v0.59.26#w24) |[**SEZ Housing and Communal Services Kramatorsk**](/payout-methods/sez-zhkg-g-kramatorska/)|[`sez-zhkg-g-kramatorska_uah`](sez-zhkg-g-kramatorska_uah/)|`UAH`| 
 |![Sphere: Rebirth](https://static.openfintech.io/payout_methods/sfera-pererozhdenie/logo.png?w=400&c=v0.59.26#w24) |[**Sphere: Rebirth**](/payout-methods/sfera-pererozhdenie/)|[`sfera-pererozhdenie_uah`](sfera-pererozhdenie_uah/)|`UAH`| 
 |![Sphere](https://static.openfintech.io/payout_methods/sfera/logo.png?w=400&c=v0.59.26#w24) |[**Sphere**](/payout-methods/sfera/)|[`sfera_uah`](sfera_uah/)|`UAH`| 
