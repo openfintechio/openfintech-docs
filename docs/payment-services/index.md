@@ -435,6 +435,7 @@
 |![Piastrix](https://static.openfintech.io/payment_methods/piastrix/logo.svg?w=400&c=v0.59.26#w200) |[**Piastrix**](/payment-methods/piastrix/)|[`piastrix_rub_hpp`](piastrix_rub_hpp/)| 
 |![Piastrix](https://static.openfintech.io/payment_methods/piastrix/logo.svg?w=400&c=v0.59.26#w200) |[**Piastrix**](/payment-methods/piastrix/)|[`piastrix_usd_hpp`](piastrix_usd_hpp/)| 
 |![Picksell Wallet](https://static.openfintech.io/payment_methods/picksell/logo.png?w=400&c=v0.59.26#w200) |[**Picksell Wallet**](/payment-methods/picksell/)|[`picksell_eur_hpp`](picksell_eur_hpp/)| 
+|![PicPay](https://static.openfintech.io/payment_methods/picpay/logo.svg?w=400&c=v0.59.26#w200) |[**PicPay**](/payment-methods/picpay/)|[`picpay_brl_hpp`](picpay_brl_hpp/)| 
 |![Ping An Bank](https://static.openfintech.io/payment_methods/ping_an_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Ping An Bank**](/payment-methods/ping_an_bank/)|[`ping_an_bank_cny_hpp`](ping_an_bank_cny_hpp/)| 
 |![PIX](https://static.openfintech.io/payment_methods/pix/logo.svg?w=400&c=v0.59.26#w200) |[**PIX**](/payment-methods/pix/)|[`pix_brl_hpp`](pix_brl_hpp/)| 
 |![POLi Payments](https://static.openfintech.io/payment_methods/polipayonline/logo.png?w=400&c=v0.59.26#w200) |[**POLi Payments**](/payment-methods/polipayonline/)|[`polipayonline_aud_hpp`](polipayonline_aud_hpp/)| 

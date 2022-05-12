@@ -1,23 +1,23 @@
 
-# PIX (service) 
-![pix_brl_hpp](https://static.openfintech.io/payment_methods/pix_brl_hpp/logo.svg?w=400&c=v0.59.26#w200)  
+# PicPay (service) 
+![picpay_brl_hpp](https://static.openfintech.io/payment_methods/picpay_brl_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `pix_brl_hpp` 
+**Code:** `picpay_brl_hpp` 
  
-**Method:** `pix` 
- [show -->](/payment-methods/pix/) 
+**Method:** `picpay` 
+ [show -->](/payment-methods/picpay/) 
  
 **Currency:** `BRL` [show -->](/currencies/BRL/) 
  
 **Name:** 
  
-:	[EN] PIX 
-:	[RU] PIX 
-:	[UK] PIX 
+:	[EN] PicPay 
+:	[RU] PicPay 
+:	[UK] PicPay 
  
-**Amount limits:** from `1` to `1000000` BRL 
+**Amount limits:** from `1` to `500000` BRL 
 
 ## Fields 
 
@@ -129,9 +129,9 @@
 
 ```json
 {
-  "code":"pix_brl_hpp",
+  "code":"picpay_brl_hpp",
   "flow":"hpp",
-  "method":"pix",
+  "method":"picpay",
   "currency":"BRL",
   "fields":[
     {
@@ -150,7 +150,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 CPF \u043d\u043e\u043c\u0435\u0440",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c CPF \u043d\u043e\u043c\u0435\u0440"
       },
-      "example":"12345678900"
+      "example":"88899988811"
     },
     {
       "key":"phone",
@@ -225,6 +225,6 @@
     }
   ],
   "amount_min":1,
-  "amount_max":1000000
+  "amount_max":500000
 }
 ```  

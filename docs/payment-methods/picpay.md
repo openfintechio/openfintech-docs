@@ -1,0 +1,59 @@
+
+# PicPay 
+![picpay](https://static.openfintech.io/payment_methods/picpay/logo.svg?w=400&c=v0.59.26#w200)  
+
+## General 
+**Code:** `picpay` 
+ 
+**Vendor:** `picpay` [show -->](/vendors/picpay/) 
+ 
+**Name:** 
+ 
+:	[EN] PicPay 
+:	[RU] PicPay 
+:	[UK] PicPay 
+ 
+**Category:** `digital_wallet` 
+ 
+
+## Images 
+
+### Logo 
+![picpay](https://static.openfintech.io/payment_methods/picpay/logo.svg?w=400&c=v0.59.26#w200)  
+
+```
+https://static.openfintech.io/payment_methods/picpay/logo.svg?w=400&c=v0.59.26#w200
+```  
+
+### Icon 
+![picpay](https://static.openfintech.io/payment_methods/picpay/icon.svg?w=278&c=v0.59.26#w100)  
+
+```
+https://static.openfintech.io/payment_methods/picpay/icon.svg?w=278&c=v0.59.26#w100
+```  
+
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _PicPay_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![picpay](https://static.openfintech.io/payment_methods/picpay/icon.svg?w=278&c=v0.59.26#w100) |[picpay_brl_hpp](/payment-services/picpay_brl_hpp/)|`picpay_brl_hpp`| 
+ 
+
+## JSON Object 
+
+```json
+{
+  "code":"picpay",
+  "vendor":"picpay",
+  "name":{
+    "en":"PicPay",
+    "ru":"PicPay",
+    "uk":"PicPay"
+  },
+  "description":null,
+  "countries":null,
+  "category":"digital_wallet"
+}
+```  

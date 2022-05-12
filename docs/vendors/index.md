@@ -743,6 +743,7 @@
 |![hmel_f_patkbprivatbank_m_hmelnickij](https://static.openfintech.io/vendors/hmel_f_patkbprivatbank_m_hmelnickij/logo.svg?w=600&c=v0.59.26#w200) |[**ХМЕЛЬНИЦЬКА ФІЛІЯ ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](hmel_f_patkbprivatbank_m_hmelnickij/)|`hmel_f_patkbprivatbank_m_hmelnickij`| 
 |![hmelnicka_oblasna_filiya_prat_ufg](https://static.openfintech.io/vendors/hmelnicka_oblasna_filiya_prat_ufg/logo.svg?w=600&c=v0.59.26#w200) |[**Хмельницька обласна філія ПрАТ 'Українська фінансова група'**](hmelnicka_oblasna_filiya_prat_ufg/)|`hmelnicka_oblasna_filiya_prat_ufg`| 
 |![hod_atrajffajzen_bank_avalm_harkiv](https://static.openfintech.io/vendors/hod_atrajffajzen_bank_avalm_harkiv/logo.svg?w=600&c=v0.59.26#w200) |[**Харківська обласна дирекція Публічного акціонерного товариства 'Райффайзен Банк Аваль'**](hod_atrajffajzen_bank_avalm_harkiv/)|`hod_atrajffajzen_bank_avalm_harkiv`| 
+|![honeypay](https://static.openfintech.io/vendors/honeypay/logo.svg?w=600&c=v0.59.26#w200) |[**HoneyPay**](honeypay/)|`honeypay`| 
 |![houmkreditbank](https://static.openfintech.io/vendors/houmkreditbank/logo.svg?w=600&c=v0.59.26#w200) |[**Хоум Кредит банк**](houmkreditbank/)|`houmkreditbank`| 
 |![howpeoplepay](https://static.openfintech.io/vendors/howpeoplepay/logo.png?w=600&c=v0.59.26#w200) |[**HowPeoplePay.com**](howpeoplepay/)|`howpeoplepay`| 
 |![hyperwallet](https://static.openfintech.io/vendors/hyperwallet/logo.png?w=600&c=v0.59.26#w200) |[**hyperWALLET**](hyperwallet/)|`hyperwallet`| 
@@ -1323,6 +1324,7 @@
 |![pershij_investicijnij_bank](https://static.openfintech.io/vendors/pershij_investicijnij_bank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'ПЕРШИЙ ІНВЕСТИЦІЙНИЙ БАНК'**](pershij_investicijnij_bank/)|`pershij_investicijnij_bank`| 
 |![piastrix](https://static.openfintech.io/vendors/piastrix/logo.svg?w=600&c=v0.59.26#w200) |[**Piastrix**](piastrix/)|`piastrix`| 
 |![picksell](https://static.openfintech.io/vendors/picksell/logo.png?w=600&c=v0.59.26#w200) |[**Picksell**](picksell/)|`picksell`| 
+|![picpay](https://static.openfintech.io/vendors/picpay/logo.svg?w=600&c=v0.59.26#w200) |[**PicPay**](picpay/)|`picpay`| 
 |![pingping](https://static.openfintech.io/vendors/pingping/logo.png?w=600&c=v0.59.26#w200) |[**ping.ping**](pingping/)|`pingping`| 
 |![pinpayments](https://static.openfintech.io/vendors/pinpayments/logo.png?w=600&c=v0.59.26#w200) |[**Pin Payments**](pinpayments/)|`pinpayments`| 
 |![pivdennybank](https://static.openfintech.io/vendors/pivdennybank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ АКЦІОНЕРНИЙ БАНК 'ПІВДЕННИЙ'**](pivdennybank/)|`pivdennybank`| 

@@ -312,6 +312,7 @@
 |![hellopay](https://static.openfintech.io/payment_providers/hellopay/logo.png?w=600&c=v0.59.26#w100) |[**helloPay**](hellopay/)|`hellopay`| 
 |![hipay](https://static.openfintech.io/payment_providers/hipay/logo.png?w=600&c=v0.59.26#w100) |[**HiPay**](hipay/)|`hipay`| 
 |![hipaymobile](https://static.openfintech.io/payment_providers/hipaymobile/logo.png?w=600&c=v0.59.26#w100) |[**HiPay Mobile**](hipaymobile/)|`hipaymobile`| 
+|![honeypay](https://static.openfintech.io/payment_providers/honeypay/logo.svg?w=600&c=v0.59.26#w100) |[**HoneyPay**](honeypay/)|`honeypay`| 
 |![howpeoplepay](https://static.openfintech.io/payment_providers/howpeoplepay/logo.png?w=600&c=v0.59.26#w100) |[**HowPeoplePay.com**](howpeoplepay/)|`howpeoplepay`| 
 |![hyperwallet](https://static.openfintech.io/payment_providers/hyperwallet/logo.png?w=600&c=v0.59.26#w100) |[**hyperWALLET**](hyperwallet/)|`hyperwallet`| 
 || **I** ||
