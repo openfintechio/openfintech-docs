@@ -108,6 +108,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![bank_of_baroda](https://static.openfintech.io/payment_methods/bank_of_baroda/icon.svg?w=278&c=v0.59.26#w100) |[bank_of_baroda](/payment-methods/bank_of_baroda/)|`bank_of_baroda`| 
 |![csb_bank](https://static.openfintech.io/payment_methods/csb_bank/icon.png?w=278&c=v0.59.26#w100) |[csb_bank](/payment-methods/csb_bank/)|`csb_bank`| 
 |![au_small_finance_bank](https://static.openfintech.io/payment_methods/au_small_finance_bank/icon.png?w=278&c=v0.59.26#w100) |[au_small_finance_bank](/payment-methods/au_small_finance_bank/)|`au_small_finance_bank`| 
+|![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix](/payment-methods/pix/)|`pix`| 
+|![picpay](https://static.openfintech.io/payment_methods/picpay/icon.svg?w=278&c=v0.59.26#w100) |[picpay](/payment-methods/picpay/)|`picpay`| 
  
 
 ## Payout Methods 
@@ -200,7 +202,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "andhra_bank",
     "bank_of_baroda",
     "csb_bank",
-    "au_small_finance_bank"
+    "au_small_finance_bank",
+    "pix",
+    "picpay"
   ],
   "payout_method":[
     "payment_card",
