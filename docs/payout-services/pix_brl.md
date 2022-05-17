@@ -25,7 +25,7 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`cpf_number`|✔|`string`|`/^[0-9]{1,11}$/`| 
-|`beneficiary_phone`|✗|`string`|`/^\+55\d{10}$/`| 
+|`beneficiary_phone`|✗|`string`|`/^\+\d{10,14}$/`| 
 |`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/`| 
  
 
@@ -53,7 +53,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^\+55\d{10}$/` 
+	Regexp: `/^\+\d{10,14}$/` 
  
 	Required: `` 
  
@@ -115,7 +115,7 @@
     {
       "key":"beneficiary_phone",
       "type":"string",
-      "regexp":"\/^\\+55\\d{10}$\/",
+      "regexp":"\/^\\+\\d{10,14}$\/",
       "required":false,
       "position":2,
       "label":{
@@ -128,7 +128,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
       },
-      "example":"+558872265111"
+      "example":"+5588722651111"
     },
     {
       "key":"beneficiary_email",
