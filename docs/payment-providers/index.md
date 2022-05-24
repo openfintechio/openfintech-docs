@@ -336,6 +336,7 @@
 |![intelligentpayments](https://static.openfintech.io/payment_providers/intelligentpayments/logo.png?w=600&c=v0.59.26#w100) |[**Intelligent Payments**](intelligentpayments/)|`intelligentpayments`| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/logo.svg?w=600&c=v0.59.26#w100) |[**Interkassa**](interkassa/)|`interkassa`| 
 |![internationalpaymentsolutions](https://static.openfintech.io/payment_providers/internationalpaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**International Payment Solutions (IPS)**](internationalpaymentsolutions/)|`internationalpaymentsolutions`| 
+|![inwizo](https://static.openfintech.io/payment_providers/inwizo/logo.svg?w=600&c=v0.59.26#w100) |[**Inwizo**](inwizo/)|`inwizo`| 
 |![ipay88](https://static.openfintech.io/payment_providers/ipay88/logo.png?w=600&c=v0.59.26#w100) |[**iPay88**](ipay88/)|`ipay88`| 
 |![ipaydna](https://static.openfintech.io/payment_providers/ipaydna/logo.png?w=600&c=v0.59.26#w100) |[**iPayDNA**](ipaydna/)|`ipaydna`| 
 |![ipaymu](https://static.openfintech.io/payment_providers/ipaymu/logo.png?w=600&c=v0.59.26#w100) |[**IPAYMU**](ipaymu/)|`ipaymu`| 

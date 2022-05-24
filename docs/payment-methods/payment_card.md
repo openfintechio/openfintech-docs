@@ -82,6 +82,7 @@ The list of [Payment Services](/payment-services/) based on the _Payment card_
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_pen_hpp](/payment-services/payment_card_pen_hpp/)|`payment_card_pen_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_clp_hpp](/payment-services/payment_card_clp_hpp/)|`payment_card_clp_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_pkr_hpp](/payment-services/payment_card_pkr_hpp/)|`payment_card_pkr_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_bdt_hpp](/payment-services/payment_card_bdt_hpp/)|`payment_card_bdt_hpp`| 
  
 
 ## Payment Providers 
@@ -323,6 +324,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![hawex](https://static.openfintech.io/payment_providers/hawex/icon.svg?w=278&c=v0.59.26#w100) |[HAWEX](/payment-providers/hawex/)|`hawex`| 
 |![paytoneio](https://static.openfintech.io/payment_providers/paytoneio/icon.svg?w=278&c=v0.59.26#w100) |[Paytone.io](/payment-providers/paytoneio/)|`paytoneio`| 
 |![honeypay](https://static.openfintech.io/payment_providers/honeypay/icon.svg?w=278&c=v0.59.26#w100) |[HoneyPay](/payment-providers/honeypay/)|`honeypay`| 
+|![inwizo](https://static.openfintech.io/payment_providers/inwizo/icon.svg?w=278&c=v0.59.26#w100) |[Inwizo](/payment-providers/inwizo/)|`inwizo`| 
  
 
 ## JSON Object 
