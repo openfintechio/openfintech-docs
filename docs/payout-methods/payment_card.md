@@ -317,6 +317,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![paytoneio](https://static.openfintech.io/payment_providers/paytoneio/icon.svg?w=278&c=v0.59.26#w100) |[Paytone.io](/payment-providers/paytoneio/)|`paytoneio`| 
 |![honeypay](https://static.openfintech.io/payment_providers/honeypay/icon.svg?w=278&c=v0.59.26#w100) |[HoneyPay](/payment-providers/honeypay/)|`honeypay`| 
 |![inwizo](https://static.openfintech.io/payment_providers/inwizo/icon.svg?w=278&c=v0.59.26#w100) |[Inwizo](/payment-providers/inwizo/)|`inwizo`| 
+|![maguapay](https://static.openfintech.io/payment_providers/maguapay/icon.png?w=278&c=v0.59.26#w100) |[Magua Pay](/payment-providers/maguapay/)|`maguapay`| 
+|![monobank](https://static.openfintech.io/payment_providers/monobank/icon.svg?w=278&c=v0.59.26#w100) |[Monobank](/payment-providers/monobank/)|`monobank`| 
  
 
 ## JSON Object 

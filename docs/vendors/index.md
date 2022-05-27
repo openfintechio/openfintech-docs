@@ -848,6 +848,7 @@
 |![kukuruza](https://static.openfintech.io/vendors/kukuruza/logo.png?w=600&c=v0.59.26#w200) |[**Кукуруза**](kukuruza/)|`kukuruza`| 
 |![kuna](https://static.openfintech.io/vendors/kuna/logo.svg?w=600&c=v0.59.26#w200) |[**Kuna**](kuna/)|`kuna`| 
 |![kunapay](https://static.openfintech.io/vendors/kunapay/logo.svg?w=600&c=v0.59.26#w200) |[**Kuna Pay**](kunapay/)|`kunapay`| 
+|![kvitum](https://static.openfintech.io/vendors/kvitum/logo.svg?w=600&c=v0.59.26#w200) |[**Kvitum**](kvitum/)|`kvitum`| 
 |![kwixo](https://static.openfintech.io/vendors/kwixo/logo.png?w=600&c=v0.59.26#w200) |[**Kwixo**](kwixo/)|`kwixo`| 
 || **L** ||
 |![lacaixa](https://static.openfintech.io/vendors/lacaixa/logo.png?w=600&c=v0.59.26#w200) |[**La Caixa**](lacaixa/)|`lacaixa`| 
@@ -875,6 +876,7 @@
 |![magna](https://static.openfintech.io/vendors/magna/logo.svg?w=600&c=v0.59.26#w200) |[**Magna**](magna/)|`magna`| 
 |![magneticexchange](https://static.openfintech.io/vendors/magneticexchange/logo.svg?w=600&c=v0.59.26#w200) |[**MagneticExchange**](magneticexchange/)|`magneticexchange`| 
 |![magnius](https://static.openfintech.io/vendors/magnius/logo.png?w=600&c=v0.59.26#w200) |[**Magnius**](magnius/)|`magnius`| 
+|![maguapay](https://static.openfintech.io/vendors/maguapay/logo.png?w=600&c=v0.59.26#w200) |[**Magua Pay**](maguapay/)|`maguapay`| 
 |![mangopay](https://static.openfintech.io/vendors/mangopay/logo.png?w=600&c=v0.59.26#w200) |[**MangoPay**](mangopay/)|`mangopay`| 
 |![mariup_f_pat_kbprivatbankm_mariupol](https://static.openfintech.io/vendors/mariup_f_pat_kbprivatbankm_mariupol/logo.svg?w=600&c=v0.59.26#w200) |[**МАРІУПОЛЬСЬКА ФІЛІЯ ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](mariup_f_pat_kbprivatbankm_mariupol/)|`mariup_f_pat_kbprivatbankm_mariupol`| 
 |![mastercard](https://static.openfintech.io/vendors/mastercard/logo.svg?w=600&c=v0.59.26#w200) |[**MasterCard**](mastercard/)|`mastercard`| 
@@ -925,6 +927,7 @@
 |![moneypay](https://static.openfintech.io/vendors/moneypay/logo.png?w=600&c=v0.59.26#w200) |[**MoneyPay**](moneypay/)|`moneypay`| 
 |![moneypolo](https://static.openfintech.io/vendors/moneypolo/logo.svg?w=600&c=v0.59.26#w200) |[**MoneyPolo**](moneypolo/)|`moneypolo`| 
 |![moneytopay](https://static.openfintech.io/vendors/moneytopay/logo.png?w=600&c=v0.59.26#w200) |[**MoneyToPay**](moneytopay/)|`moneytopay`| 
+|![monobank](https://static.openfintech.io/vendors/monobank/logo.svg?w=600&c=v0.59.26#w200) |[**Monobank**](monobank/)|`monobank`| 
 |![monobankcomua](https://static.openfintech.io/vendors/monobankcomua/logo.svg?w=600&c=v0.59.26#w200) |[**monobank.com.ua**](monobankcomua/)|`monobankcomua`| 
 |![mopay](https://static.openfintech.io/vendors/mopay/logo.png?w=600&c=v0.59.26#w200) |[**mopay**](mopay/)|`mopay`| 
 |![moskovskijkreditnyjbank](https://static.openfintech.io/vendors/moskovskijkreditnyjbank/logo.svg?w=600&c=v0.59.26#w200) |[**Московский кредитный банк**](moskovskijkreditnyjbank/)|`moskovskijkreditnyjbank`| 
