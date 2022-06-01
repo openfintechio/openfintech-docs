@@ -285,6 +285,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![infotrend](https://static.openfintech.io/payment_providers/infotrend/icon.png?w=278&c=v0.59.26#w100) |[Infotrend](/payment-providers/infotrend/)|`infotrend`| 
 |![cards2cards](https://static.openfintech.io/payment_providers/cards2cards/icon.svg?w=278&c=v0.59.26#w100) |[cards2cards](/payment-providers/cards2cards/)|`cards2cards`| 
 |![connpay](https://static.openfintech.io/payment_providers/connpay/icon.png?w=278&c=v0.59.26#w100) |[ConnPay](/payment-providers/connpay/)|`connpay`| 
+|![inqud](https://static.openfintech.io/payment_providers/inqud/icon.svg?w=278&c=v0.59.26#w100) |[Inqud](/payment-providers/inqud/)|`inqud`| 
 |![paysoftsolutions](https://static.openfintech.io/payment_providers/paysoftsolutions/icon.png?w=278&c=v0.59.26#w100) |[PaySoft Solutions](/payment-providers/paysoftsolutions/)|`paysoftsolutions`| 
 |![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
 |![pandigitalnetwork](https://static.openfintech.io/payment_providers/pandigitalnetwork/icon.png?w=278&c=v0.59.26#w100) |[Pan Digital Network](/payment-providers/pandigitalnetwork/)|`pandigitalnetwork`| 
@@ -317,6 +318,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![paytoneio](https://static.openfintech.io/payment_providers/paytoneio/icon.svg?w=278&c=v0.59.26#w100) |[Paytone.io](/payment-providers/paytoneio/)|`paytoneio`| 
 |![honeypay](https://static.openfintech.io/payment_providers/honeypay/icon.svg?w=278&c=v0.59.26#w100) |[HoneyPay](/payment-providers/honeypay/)|`honeypay`| 
 |![inwizo](https://static.openfintech.io/payment_providers/inwizo/icon.svg?w=278&c=v0.59.26#w100) |[Inwizo](/payment-providers/inwizo/)|`inwizo`| 
+|![kvitum](https://static.openfintech.io/payment_providers/kvitum/icon.svg?w=278&c=v0.59.26#w100) |[Kvitum](/payment-providers/kvitum/)|`kvitum`| 
 |![maguapay](https://static.openfintech.io/payment_providers/maguapay/icon.png?w=278&c=v0.59.26#w100) |[Magua Pay](/payment-providers/maguapay/)|`maguapay`| 
 |![monobank](https://static.openfintech.io/payment_providers/monobank/icon.svg?w=278&c=v0.59.26#w100) |[Monobank](/payment-providers/monobank/)|`monobank`| 
  

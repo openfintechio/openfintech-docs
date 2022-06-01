@@ -595,6 +595,10 @@
 |![КВАНТ (Ходорів)](https://static.openfintech.io/payout_methods/kvant-khodoriv/logo.svg?w=400&c=v0.59.26#w24) |[**КВАНТ (Ходорів)**](/payout-methods/kvant-khodoriv/)|[`kvant-khodoriv_uah`](kvant-khodoriv_uah/)|`UAH`| 
 |![КВАНТ (Мостиська)](https://static.openfintech.io/payout_methods/kvant-mostiska/logo.svg?w=400&c=v0.59.26#w24) |[**КВАНТ (Мостиська)**](/payout-methods/kvant-mostiska/)|[`kvant-mostiska_uah`](kvant-mostiska_uah/)|`UAH`| 
 |![KVAZAR-LINK (Melitopol)](https://static.openfintech.io/payout_methods/kvazar-link-melitopol/logo.png?w=400&c=v0.59.26#w24) |[**KVAZAR-LINK (Melitopol)**](/payout-methods/kvazar-link-melitopol/)|[`kvazar-link-melitopol_uah`](kvazar-link-melitopol_uah/)|`UAH`| 
+|![Kvitum](https://static.openfintech.io/payout_methods/kvitum/logo.svg?w=400&c=v0.59.26#w24) |[**Kvitum**](/payout-methods/kvitum/)|[`kvitum_eur`](kvitum_eur/)|`EUR`| 
+|![Kvitum](https://static.openfintech.io/payout_methods/kvitum/logo.svg?w=400&c=v0.59.26#w24) |[**Kvitum**](/payout-methods/kvitum/)|[`kvitum_kzt`](kvitum_kzt/)|`KZT`| 
+|![Kvitum](https://static.openfintech.io/payout_methods/kvitum/logo.svg?w=400&c=v0.59.26#w24) |[**Kvitum**](/payout-methods/kvitum/)|[`kvitum_uah`](kvitum_uah/)|`UAH`| 
+|![Kvitum](https://static.openfintech.io/payout_methods/kvitum/logo.svg?w=400&c=v0.59.26#w24) |[**Kvitum**](/payout-methods/kvitum/)|[`kvitum_usd`](kvitum_usd/)|`USD`| 
 |![KyivLink](https://static.openfintech.io/payout_methods/kyivlink/logo.png?w=400&c=v0.59.26#w24) |[**KyivLink**](/payout-methods/kyivlink/)|[`kyivlink_uah`](kyivlink_uah/)|`UAH`| 
 |![Kyivstar (contract)](https://static.openfintech.io/payout_methods/kyivstar_contract/logo.svg?w=400&c=v0.59.26#w24) |[**Kyivstar (contract)**](/payout-methods/kyivstar_contract/)|[`kyivstar_contract_uah`](kyivstar_contract_uah/)|`UAH`| 
 |![Kyivstar (internet)](https://static.openfintech.io/payout_methods/kyivstar_internet/logo.svg?w=400&c=v0.59.26#w24) |[**Kyivstar (internet)**](/payout-methods/kyivstar_internet/)|[`kyivstar_internet_uah`](kyivstar_internet_uah/)|`UAH`| 
