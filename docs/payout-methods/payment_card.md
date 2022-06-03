@@ -321,6 +321,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![kvitum](https://static.openfintech.io/payment_providers/kvitum/icon.svg?w=278&c=v0.59.26#w100) |[Kvitum](/payment-providers/kvitum/)|`kvitum`| 
 |![maguapay](https://static.openfintech.io/payment_providers/maguapay/icon.png?w=278&c=v0.59.26#w100) |[Magua Pay](/payment-providers/maguapay/)|`maguapay`| 
 |![monobank](https://static.openfintech.io/payment_providers/monobank/icon.svg?w=278&c=v0.59.26#w100) |[Monobank](/payment-providers/monobank/)|`monobank`| 
+|![virtpay](https://static.openfintech.io/payment_providers/virtpay/icon.png?w=278&c=v0.59.26#w100) |[Virtpay](/payment-providers/virtpay/)|`virtpay`| 
  
 
 ## JSON Object 
