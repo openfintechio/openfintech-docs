@@ -264,6 +264,7 @@
 |![bluepaid](https://static.openfintech.io/vendors/bluepaid/logo.png?w=600&c=v0.59.26#w200) |[**BLUE PAID**](bluepaid/)|`bluepaid`| 
 |![bluepay](https://static.openfintech.io/vendors/bluepay/logo.svg?w=600&c=v0.59.26#w200) |[**BluePay**](bluepay/)|`bluepay`| 
 |![bluesnap](https://static.openfintech.io/vendors/bluesnap/logo.svg?w=600&c=v0.59.26#w200) |[**BlueSnap**](bluesnap/)|`bluesnap`| 
+|![bnd](https://static.openfintech.io/vendors/bnd/logo.svg?w=600&c=v0.59.26#w200) |[**Banco de México**](bnd/)|`bnd`| 
 |![bnlpositivity](https://static.openfintech.io/vendors/bnlpositivity/logo.png?w=600&c=v0.59.26#w200) |[**BNL POSitivity**](bnlpositivity/)|`bnlpositivity`| 
 |![bnpparibas](https://static.openfintech.io/vendors/bnpparibas/logo.png?w=600&c=v0.59.26#w200) |[**BNP Paribas**](bnpparibas/)|`bnpparibas`| 
 |![boacompra](https://static.openfintech.io/vendors/boacompra/logo.png?w=600&c=v0.59.26#w200) |[**UOL BoaCompra**](boacompra/)|`boacompra`| 
@@ -1267,6 +1268,7 @@
 |![paypound](https://static.openfintech.io/vendors/paypound/logo.png?w=600&c=v0.59.26#w200) |[**PayPound**](paypound/)|`paypound`| 
 |![paypro](https://static.openfintech.io/vendors/paypro/logo.png?w=600&c=v0.59.26#w200) |[**PayPro**](paypro/)|`paypro`| 
 |![paypunto](https://static.openfintech.io/vendors/paypunto/logo.png?w=600&c=v0.59.26#w200) |[**PayPunto**](paypunto/)|`paypunto`| 
+|![payretailers](https://static.openfintech.io/vendors/payretailers/logo.svg?w=600&c=v0.59.26#w200) |[**PayRetailers**](payretailers/)|`payretailers`| 
 |![payrexx](https://static.openfintech.io/vendors/payrexx/logo.png?w=600&c=v0.59.26#w200) |[**Payrexx Payments**](payrexx/)|`payrexx`| 
 |![payrun](https://static.openfintech.io/vendors/payrun/logo.svg?w=600&c=v0.59.26#w200) |[**PayRun**](payrun/)|`payrun`| 
 |![paysafe](https://static.openfintech.io/vendors/paysafe/logo.svg?w=600&c=v0.59.26#w200) |[**Paysafe**](paysafe/)|`paysafe`| 

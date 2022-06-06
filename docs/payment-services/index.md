@@ -440,6 +440,7 @@
 |![PicPay](https://static.openfintech.io/payment_methods/picpay/logo.svg?w=400&c=v0.59.26#w200) |[**PicPay**](/payment-methods/picpay/)|[`picpay_brl_hpp`](picpay_brl_hpp/)| 
 |![Ping An Bank](https://static.openfintech.io/payment_methods/ping_an_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Ping An Bank**](/payment-methods/ping_an_bank/)|[`ping_an_bank_cny_hpp`](ping_an_bank_cny_hpp/)| 
 |![PIX](https://static.openfintech.io/payment_methods/pix/logo.svg?w=400&c=v0.59.26#w200) |[**PIX**](/payment-methods/pix/)|[`pix_brl_hpp`](pix_brl_hpp/)| 
+|![PIX](https://static.openfintech.io/payment_methods/pix/logo.svg?w=400&c=v0.59.26#w200) |[**PIX**](/payment-methods/pix/)|[`pix_usd_hpp`](pix_usd_hpp/)| 
 |![POLi Payments](https://static.openfintech.io/payment_methods/polipayonline/logo.png?w=400&c=v0.59.26#w200) |[**POLi Payments**](/payment-methods/polipayonline/)|[`polipayonline_aud_hpp`](polipayonline_aud_hpp/)| 
 |![Postepay](https://static.openfintech.io/payment_methods/postepay/logo.png?w=400&c=v0.59.26#w200) |[**Postepay**](/payment-methods/postepay/)|[`postepay_eur_hpp`](postepay_eur_hpp/)| 
 |![Privat24](https://static.openfintech.io/payment_methods/privat24/logo.svg?w=400&c=v0.59.26#w200) |[**Privat24**](/payment-methods/privat24/)|[`privat24_eur_hpp`](privat24_eur_hpp/)| 
@@ -498,6 +499,8 @@
 |![Sofort](https://static.openfintech.io/payment_methods/sofort/logo.svg?w=400&c=v0.59.26#w200) |[**Sofort**](/payment-methods/sofort/)|[`sofort_pln_hpp`](sofort_pln_hpp/)| 
 |![Sofort](https://static.openfintech.io/payment_methods/sofort/logo.svg?w=400&c=v0.59.26#w200) |[**Sofort**](/payment-methods/sofort/)|[`sofort_usd_hpp`](sofort_usd_hpp/)| 
 |![South Indian Bank](https://static.openfintech.io/payment_methods/south_indian_bank/logo.png?w=400&c=v0.59.26#w200) |[**South Indian Bank**](/payment-methods/south_indian_bank/)|[`south_indian_bank_inr_hpp`](south_indian_bank_inr_hpp/)| 
+|![SPEI](https://static.openfintech.io/payment_methods/spei/logo.png?w=400&c=v0.59.26#w200) |[**SPEI**](/payment-methods/spei/)|[`spei_mxn_hpp`](spei_mxn_hpp/)| 
+|![SPEI](https://static.openfintech.io/payment_methods/spei/logo.png?w=400&c=v0.59.26#w200) |[**SPEI**](/payment-methods/spei/)|[`spei_usd_hpp`](spei_usd_hpp/)| 
 |![Standard Charter Bank](https://static.openfintech.io/payment_methods/standard_charter_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Standard Charter Bank**](/payment-methods/standard_charter_bank/)|[`standard_charter_bank_inr_hpp`](standard_charter_bank_inr_hpp/)| 
 |![Standard Chartered Bank Korea](https://static.openfintech.io/payment_methods/standard_chartered_bank_korea/logo.svg?w=400&c=v0.59.26#w200) |[**Standard Chartered Bank Korea**](/payment-methods/standard_chartered_bank_korea/)|[`standard_chartered_bank_korea_krw_hpp`](standard_chartered_bank_korea_krw_hpp/)| 
 |![State Bank of India](https://static.openfintech.io/payment_methods/state_bank_of_india/logo.svg?w=400&c=v0.59.26#w200) |[**State Bank of India**](/payment-methods/state_bank_of_india/)|[`state_bank_of_india_inr_hpp`](state_bank_of_india_inr_hpp/)| 

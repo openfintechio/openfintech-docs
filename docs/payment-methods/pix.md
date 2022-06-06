@@ -39,6 +39,7 @@ The list of [Payment Services](/payment-services/) based on the _PIX_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix_brl_hpp](/payment-services/pix_brl_hpp/)|`pix_brl_hpp`| 
+|![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix_usd_hpp](/payment-services/pix_usd_hpp/)|`pix_usd_hpp`| 
  
 
 ## Payment Providers 
@@ -49,6 +50,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PIX_
 |:---:|:---:|:---:| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![onlineips](https://static.openfintech.io/payment_providers/onlineips/icon.png?w=278&c=v0.59.26#w100) |[Online IPS](/payment-providers/onlineips/)|`onlineips`| 
+|![payretailers](https://static.openfintech.io/payment_providers/payretailers/icon.svg?w=278&c=v0.59.26#w100) |[PayRetailers](/payment-providers/payretailers/)|`payretailers`| 
  
 
 ## JSON Object 

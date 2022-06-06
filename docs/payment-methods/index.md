@@ -422,6 +422,7 @@
 |![sofortbanking](https://static.openfintech.io/payment_methods/sofortbanking/logo.svg?w=400&c=v0.59.26#w200) |[**SOFORT, a Klarna Group Company**](sofortbanking/)|`sofortbanking`| 
 |![south_indian_bank](https://static.openfintech.io/payment_methods/south_indian_bank/logo.png?w=400&c=v0.59.26#w200) |[**South Indian Bank**](south_indian_bank/)|`south_indian_bank`| 
 |![spankki](https://static.openfintech.io/payment_methods/spankki/logo.png?w=400&c=v0.59.26#w200) |[**S-Pankki**](spankki/)|`spankki`| 
+|![spei](https://static.openfintech.io/payment_methods/spei/logo.png?w=400&c=v0.59.26#w200) |[**SPEI**](spei/)|`spei`| 
 |![ssk](https://static.openfintech.io/payment_methods/ssk/logo.png?w=400&c=v0.59.26#w200) |[**Self service kiosk**](ssk/)|`ssk`| 
 |![ssk_by](https://static.openfintech.io/payment_methods/ssk_by/logo.png?w=400&c=v0.59.26#w200) |[**Self service kiosk Belarus**](ssk_by/)|`ssk_by`| 
 |![ssk_ge](https://static.openfintech.io/payment_methods/ssk_ge/logo.png?w=400&c=v0.59.26#w200) |[**Self service kiosk Georgia**](ssk_ge/)|`ssk_ge`| 

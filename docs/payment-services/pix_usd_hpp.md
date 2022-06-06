@@ -1,15 +1,15 @@
 
 # PIX (service) 
-![pix_brl_hpp](https://static.openfintech.io/payment_methods/pix_brl_hpp/logo.svg?w=400&c=v0.59.26#w200)  
+![pix_usd_hpp](https://static.openfintech.io/payment_methods/pix_usd_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `pix_brl_hpp` 
+**Code:** `pix_usd_hpp` 
  
 **Method:** `pix` 
  [show -->](/payment-methods/pix/) 
  
-**Currency:** `BRL` [show -->](/currencies/BRL/) 
+**Currency:** `USD` [show -->](/currencies/USD/) 
  
 **Name:** 
  
@@ -17,7 +17,7 @@
 :	[RU] PIX 
 :	[UK] PIX 
  
-**Amount limits:** from `1` to `1000000` BRL 
+**Amount limits:** from `1` to `1000000` USD 
 
 ## Fields 
 
@@ -28,8 +28,8 @@
 |`cpf_number`|✗|`string`|`/^[0-9]{1,11}$/`| 
 |`phone`|✗|`string`|`/^\+\d{10,14}$/`| 
 |`email`|✗|`string`|`/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$$/`| 
-|`payer_first_name`|✗|`string`|`/^[A-Z\-\sa-z\p{L}]{2,100}$/u`| 
-|`payer_last_name`|✗|`string`|`/^[A-Z\-\sa-z\p{L}]{2,100}$/u`| 
+|`payer_first_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
+|`payer_last_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
  
 
 ### Details 
@@ -92,7 +92,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z\-\sa-z\p{L}]{2,100}$/u` 
+	Regexp: `/^[A-Z\-\sa-z]{2,100}$/` 
  
 	Required: `` 
  
@@ -110,7 +110,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z\-\sa-z\p{L}]{2,100}$/u` 
+	Regexp: `/^[A-Z\-\sa-z]{2,100}$/` 
  
 	Required: `` 
  
@@ -129,10 +129,10 @@
 
 ```json
 {
-  "code":"pix_brl_hpp",
+  "code":"pix_usd_hpp",
   "flow":"hpp",
   "method":"pix",
-  "currency":"BRL",
+  "currency":"USD",
   "fields":[
     {
       "key":"cpf_number",
@@ -190,7 +190,7 @@
     {
       "key":"payer_first_name",
       "type":"string",
-      "regexp":"\/^[A-Z\\-\\sa-z\\p{L}]{2,100}$\/u",
+      "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
       "required":false,
       "position":4,
       "label":{
@@ -208,7 +208,7 @@
     {
       "key":"payer_last_name",
       "type":"string",
-      "regexp":"\/^[A-Z\\-\\sa-z\\p{L}]{2,100}$\/u",
+      "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
       "required":false,
       "position":5,
       "label":{

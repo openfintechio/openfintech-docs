@@ -1207,6 +1207,8 @@
 |![SOHONET](https://static.openfintech.io/payout_methods/sohonet/logo.png?w=400&c=v0.59.26#w24) |[**SOHONET**](/payout-methods/sohonet/)|[`sohonet_uah`](sohonet_uah/)|`UAH`| 
 |![SpiderNet (Odessa)](https://static.openfintech.io/payout_methods/spaidernet-odessa/logo.png?w=400&c=v0.59.26#w24) |[**SpiderNet (Odessa)**](/payout-methods/spaidernet-odessa/)|[`spaidernet-odessa_uah`](spaidernet-odessa_uah/)|`UAH`| 
 |![Sparta (WG)](https://static.openfintech.io/payout_methods/sparta-wg/logo.png?w=400&c=v0.59.26#w24) |[**Sparta (WG)**](/payout-methods/sparta-wg/)|[`sparta-wg_uah`](sparta-wg_uah/)|`UAH`| 
+|![SPEI](https://static.openfintech.io/payout_methods/spei/logo.png?w=400&c=v0.59.26#w24) |[**SPEI**](/payout-methods/spei/)|[`spei_mxn`](spei_mxn/)|`MXN`| 
+|![SPEI](https://static.openfintech.io/payout_methods/spei/logo.png?w=400&c=v0.59.26#w24) |[**SPEI**](/payout-methods/spei/)|[`spei_usd`](spei_usd/)|`USD`| 
 |![Crazy Network](https://static.openfintech.io/payout_methods/srazy-network/logo.png?w=400&c=v0.59.26#w24) |[**Crazy Network**](/payout-methods/srazy-network/)|[`srazy-network_uah`](srazy-network_uah/)|`UAH`| 
 |![Steel Legion](https://static.openfintech.io/payout_methods/stalnoi-legion/logo.png?w=400&c=v0.59.26#w24) |[**Steel Legion**](/payout-methods/stalnoi-legion/)|[`stalnoi-legion_uah`](stalnoi-legion_uah/)|`UAH`| 
 |![Starline - non-poslugi](https://static.openfintech.io/payout_methods/starline-inshi-poslugi/logo.png?w=400&c=v0.59.26#w24) |[**Starline - non-poslugi**](/payout-methods/starline-inshi-poslugi/)|[`starline-inshi-poslugi_uah`](starline-inshi-poslugi_uah/)|`UAH`| 

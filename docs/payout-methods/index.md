@@ -1410,6 +1410,7 @@
 |![sohonet](https://static.openfintech.io/payout_methods/sohonet/logo.png?w=400&c=v0.59.26#w24) |[**SOHONET**](sohonet/)|`sohonet`| 
 |![spaidernet-odessa](https://static.openfintech.io/payout_methods/spaidernet-odessa/logo.png?w=400&c=v0.59.26#w24) |[**SpiderNet (Odessa)**](spaidernet-odessa/)|`spaidernet-odessa`| 
 |![sparta-wg](https://static.openfintech.io/payout_methods/sparta-wg/logo.png?w=400&c=v0.59.26#w24) |[**Sparta (WG)**](sparta-wg/)|`sparta-wg`| 
+|![spei](https://static.openfintech.io/payout_methods/spei/logo.png?w=400&c=v0.59.26#w24) |[**SPEI**](spei/)|`spei`| 
 |![srazy-network](https://static.openfintech.io/payout_methods/srazy-network/logo.png?w=400&c=v0.59.26#w24) |[**Crazy Network**](srazy-network/)|`srazy-network`| 
 |![stalnoi-legion](https://static.openfintech.io/payout_methods/stalnoi-legion/logo.png?w=400&c=v0.59.26#w24) |[**Steel Legion**](stalnoi-legion/)|`stalnoi-legion`| 
 |![stanichno-luganskii-rem-lugansk-eo](https://static.openfintech.io/payout_methods/stanichno-luganskii-rem-lugansk-eo/logo.svg?w=400&c=v0.59.26#w24) |[**Stanichno-Lugansk SEM Lugansk EO**](stanichno-luganskii-rem-lugansk-eo/)|`stanichno-luganskii-rem-lugansk-eo`| 
