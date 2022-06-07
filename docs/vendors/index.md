@@ -453,6 +453,7 @@
 |![donecke_rupat_kb_privatbank_m_doneck](https://static.openfintech.io/vendors/donecke_rupat_kb_privatbank_m_doneck/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ 'ДОНЕЦЬКЕ РЕГІОНАЛЬНЕ УПРАВЛІННЯ' ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](donecke_rupat_kb_privatbank_m_doneck/)|`donecke_rupat_kb_privatbank_m_doneck`| 
 |![dotpay](https://static.openfintech.io/vendors/dotpay/logo.png?w=600&c=v0.59.26#w200) |[**Dotpay**](dotpay/)|`dotpay`| 
 |![dragonpay](https://static.openfintech.io/vendors/dragonpay/logo.png?w=600&c=v0.59.26#w200) |[**Dragonpay**](dragonpay/)|`dragonpay`| 
+|![dropayment](https://static.openfintech.io/vendors/dropayment/logo.svg?w=600&c=v0.59.26#w200) |[**Dropayment**](dropayment/)|`dropayment`| 
 |![druga_filiya_prat_ufg_u_m_lviv](https://static.openfintech.io/vendors/druga_filiya_prat_ufg_u_m_lviv/logo.svg?w=600&c=v0.59.26#w200) |[**Друга філія ПрАТ 'Українська фінансова група' у м. Львів**](druga_filiya_prat_ufg_u_m_lviv/)|`druga_filiya_prat_ufg_u_m_lviv`| 
 |![druga_filiya_prat_ufg_u_m_poltava](https://static.openfintech.io/vendors/druga_filiya_prat_ufg_u_m_poltava/logo.svg?w=600&c=v0.59.26#w200) |[**Друга філія ПрАТ 'Українська фінансова група' у м. Полтава**](druga_filiya_prat_ufg_u_m_poltava/)|`druga_filiya_prat_ufg_u_m_poltava`| 
 |![druga_sevastopolska_filiya_prat_ufg](https://static.openfintech.io/vendors/druga_sevastopolska_filiya_prat_ufg/logo.svg?w=600&c=v0.59.26#w200) |[**Друга Севастопольська філія ПрАТ 'Українська фінансова група'**](druga_sevastopolska_filiya_prat_ufg/)|`druga_sevastopolska_filiya_prat_ufg`| 
@@ -1204,6 +1205,7 @@
 |![paydoo](https://static.openfintech.io/vendors/paydoo/logo.png?w=600&c=v0.59.26#w200) |[**Paydoo**](paydoo/)|`paydoo`| 
 |![payease](https://static.openfintech.io/vendors/payease/logo.png?w=600&c=v0.59.26#w200) |[**PayEase**](payease/)|`payease`| 
 |![payecards](https://static.openfintech.io/vendors/payecards/logo.png?w=600&c=v0.59.26#w200) |[**Payecards**](payecards/)|`payecards`| 
+|![payecardsakurateco](https://static.openfintech.io/vendors/payecardsakurateco/logo.png?w=600&c=v0.59.26#w200) |[**PayeCards Akurateco**](payecardsakurateco/)|`payecardsakurateco`| 
 |![payeer](https://static.openfintech.io/vendors/payeer/logo.png?w=600&c=v0.59.26#w200) |[**Payeer**](payeer/)|`payeer`| 
 |![payelata](https://static.openfintech.io/vendors/payelata/logo.svg?w=600&c=v0.59.26#w200) |[**Payelata**](payelata/)|`payelata`| 
 |![payex](https://static.openfintech.io/vendors/payex/logo.png?w=600&c=v0.59.26#w200) |[**PayEx**](payex/)|`payex`| 
@@ -1419,6 +1421,7 @@
 |![reeves](https://static.openfintech.io/vendors/reeves/logo.png?w=600&c=v0.59.26#w200) |[**Reeves**](reeves/)|`reeves`| 
 |![regionalna_filiya_prat_ufg_u_m_harkiv](https://static.openfintech.io/vendors/regionalna_filiya_prat_ufg_u_m_harkiv/logo.svg?w=600&c=v0.59.26#w200) |[**Регіональна філія ПрАТ 'Українська фінансова група' у м. Харків**](regionalna_filiya_prat_ufg_u_m_harkiv/)|`regionalna_filiya_prat_ufg_u_m_harkiv`| 
 |![regularpay](https://static.openfintech.io/vendors/regularpay/logo.png?w=600&c=v0.59.26#w200) |[**RegularPay**](regularpay/)|`regularpay`| 
+|![remitos](https://static.openfintech.io/vendors/remitos/logo.png?w=600&c=v0.59.26#w200) |[**Remitos**](remitos/)|`remitos`| 
 |![resursbank](https://static.openfintech.io/vendors/resursbank/logo.svg?w=600&c=v0.59.26#w200) |[**Resurs bank**](resursbank/)|`resursbank`| 
 |![ria_money_transfer](https://static.openfintech.io/vendors/ria_money_transfer/logo.svg?w=600&c=v0.59.26#w200) |[**Ria Money Transfer**](ria_money_transfer/)|`ria_money_transfer`| 
 |![riamoneytransfer](https://static.openfintech.io/vendors/riamoneytransfer/logo.svg?w=600&c=v0.59.26#w200) |[**Ria Money Transfer**](riamoneytransfer/)|`riamoneytransfer`| 

@@ -204,6 +204,7 @@
 |![doku](https://static.openfintech.io/payment_providers/doku/logo.png?w=600&c=v0.59.26#w100) |[**DOKU**](doku/)|`doku`| 
 |![dotpay](https://static.openfintech.io/payment_providers/dotpay/logo.png?w=600&c=v0.59.26#w100) |[**Dotpay**](dotpay/)|`dotpay`| 
 |![dragonpay](https://static.openfintech.io/payment_providers/dragonpay/logo.png?w=600&c=v0.59.26#w100) |[**Dragonpay**](dragonpay/)|`dragonpay`| 
+|![dropayment](https://static.openfintech.io/payment_providers/dropayment/logo.svg?w=600&c=v0.59.26#w100) |[**Dropayment**](dropayment/)|`dropayment`| 
 |![dusupay](https://static.openfintech.io/payment_providers/dusupay/logo.png?w=600&c=v0.59.26#w100) |[**DusuPay**](dusupay/)|`dusupay`| 
 || **E** ||
 |![easybits](https://static.openfintech.io/payment_providers/easybits/logo.svg?w=600&c=v0.59.26#w100) |[**EasyBits.io**](easybits/)|`easybits`| 
@@ -472,6 +473,7 @@
 |![paydoo](https://static.openfintech.io/payment_providers/paydoo/logo.png?w=600&c=v0.59.26#w100) |[**Paydoo**](paydoo/)|`paydoo`| 
 |![payease](https://static.openfintech.io/payment_providers/payease/logo.png?w=600&c=v0.59.26#w100) |[**PayEase**](payease/)|`payease`| 
 |![payecards](https://static.openfintech.io/payment_providers/payecards/logo.png?w=600&c=v0.59.26#w100) |[**Payecards**](payecards/)|`payecards`| 
+|![payecardsakurateco](https://static.openfintech.io/payment_providers/payecardsakurateco/logo.png?w=600&c=v0.59.26#w100) |[**PayeCards Akurateco**](payecardsakurateco/)|`payecardsakurateco`| 
 |![payeer](https://static.openfintech.io/payment_providers/payeer/logo.svg?w=600&c=v0.59.26#w100) |[**Payeer**](payeer/)|`payeer`| 
 |![payelata](https://static.openfintech.io/payment_providers/payelata/logo.svg?w=600&c=v0.59.26#w100) |[**Payelata**](payelata/)|`payelata`| 
 |![payex](https://static.openfintech.io/payment_providers/payex/logo.png?w=600&c=v0.59.26#w100) |[**PayEx**](payex/)|`payex`| 
@@ -618,6 +620,7 @@
 |![reepay](https://static.openfintech.io/payment_providers/reepay/logo.png?w=600&c=v0.59.26#w100) |[**ReePay**](reepay/)|`reepay`| 
 |![reeves](https://static.openfintech.io/payment_providers/reeves/logo.png?w=600&c=v0.59.26#w100) |[**Reeves**](reeves/)|`reeves`| 
 |![regularpay](https://static.openfintech.io/payment_providers/regularpay/logo.png?w=600&c=v0.59.26#w100) |[**RegularPay**](regularpay/)|`regularpay`| 
+|![remitos](https://static.openfintech.io/payment_providers/remitos/logo.png?w=600&c=v0.59.26#w100) |[**Remitos**](remitos/)|`remitos`| 
 |![rietumu](https://static.openfintech.io/payment_providers/rietumu/logo.png?w=600&c=v0.59.26#w100) |[**Rietumu Banka**](rietumu/)|`rietumu`| 
 |![robokassa](https://static.openfintech.io/payment_providers/robokassa/logo.png?w=600&c=v0.59.26#w100) |[**Robokassa**](robokassa/)|`robokassa`| 
 |![rocketgate](https://static.openfintech.io/payment_providers/rocketgate/logo.png?w=600&c=v0.59.26#w100) |[**RocketGate**](rocketgate/)|`rocketgate`| 
