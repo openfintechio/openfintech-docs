@@ -36,6 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Bank Transfer_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_uah](/payout-services/bank_transfer_uah/)|`bank_transfer_uah`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_usd](/payout-services/bank_transfer_usd/)|`bank_transfer_usd`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_eur](/payout-services/bank_transfer_eur/)|`bank_transfer_eur`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_pln](/payout-services/bank_transfer_pln/)|`bank_transfer_pln`| 

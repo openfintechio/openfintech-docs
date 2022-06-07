@@ -60,6 +60,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![bitcoin](https://static.openfintech.io/payout_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w40) |[bitcoin](payout-methodsbitcoin/)|`bitcoin`| 
 |![bitcoin_cash](https://static.openfintech.io/payout_methods/bitcoin_cash/icon.png?w=278&c=v0.59.26#w40) |[bitcoin_cash](payout-methodsbitcoin_cash/)|`bitcoin_cash`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether](payout-methodstether/)|`tether`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
  
 
 ## JSON Object 
@@ -88,7 +89,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "ethereum",
     "bitcoin",
     "bitcoin_cash",
-    "tether"
+    "tether",
+    "bank_transfer"
   ],
   "metadata":null,
   "name":{
