@@ -345,7 +345,7 @@
 |![chasepaymentech](https://static.openfintech.io/vendors/chasepaymentech/logo.png?w=600&c=v0.59.26#w200) |[**J.P. Morgan Commerce Solutions**](chasepaymentech/)|`chasepaymentech`| 
 |![checkalt](https://static.openfintech.io/vendors/checkalt/logo.png?w=600&c=v0.59.26#w200) |[**CheckAlt Payment Solutions**](checkalt/)|`checkalt`| 
 |![checkoutbyamazon](https://static.openfintech.io/vendors/checkoutbyamazon/logo.svg?w=600&c=v0.59.26#w200) |[**Amazon Payments**](checkoutbyamazon/)|`checkoutbyamazon`| 
-|![checkoutcom](https://static.openfintech.io/vendors/checkoutcom/logo.png?w=600&c=v0.59.26#w200) |[**Checkout.com**](checkoutcom/)|`checkoutcom`| 
+|![checkoutcom](https://static.openfintech.io/vendors/checkoutcom/logo.svg?w=600&c=v0.59.26#w200) |[**Checkout.com**](checkoutcom/)|`checkoutcom`| 
 |![checkprocess](https://static.openfintech.io/vendors/checkprocess/logo.png?w=600&c=v0.59.26#w200) |[**Check Process**](checkprocess/)|`checkprocess`| 
 |![cherk_gru_pat_kbprivatbank_m_cherkasi](https://static.openfintech.io/vendors/cherk_gru_pat_kbprivatbank_m_cherkasi/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ 'ЧЕРКАСЬКЕ ГОЛОВНЕ РЕГІОНАЛЬНЕ УПРАВЛІННЯ' ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](cherk_gru_pat_kbprivatbank_m_cherkasi/)|`cherk_gru_pat_kbprivatbank_m_cherkasi`| 
 |![cherkaska_filiya_prat_ufg](https://static.openfintech.io/vendors/cherkaska_filiya_prat_ufg/logo.svg?w=600&c=v0.59.26#w200) |[**Черкаська філія ПрАТ 'Українська фінансова група'**](cherkaska_filiya_prat_ufg/)|`cherkaska_filiya_prat_ufg`| 
@@ -516,6 +516,7 @@
 |![eospaymentsolutions](https://static.openfintech.io/vendors/eospaymentsolutions/logo.png?w=600&c=v0.59.26#w200) |[**EOS Payment**](eospaymentsolutions/)|`eospaymentsolutions`| 
 |![epay](https://static.openfintech.io/vendors/epay/logo.png?w=600&c=v0.59.26#w200) |[**ePay**](epay/)|`epay`| 
 |![epaybg](https://static.openfintech.io/vendors/epaybg/logo.svg?w=600&c=v0.59.26#w200) |[**ePay.bg**](epaybg/)|`epaybg`| 
+|![epayglobal](https://static.openfintech.io/vendors/epayglobal/logo.png?w=600&c=v0.59.26#w200) |[**ePay Global**](epayglobal/)|`epayglobal`| 
 |![epayments](https://static.openfintech.io/vendors/epayments/logo.svg?w=600&c=v0.59.26#w200) |[**ePayments**](epayments/)|`epayments`| 
 |![epaymentsglobalcom](https://static.openfintech.io/vendors/epaymentsglobalcom/logo.png?w=600&c=v0.59.26#w200) |[**ePaymentsglobal.com**](epaymentsglobalcom/)|`epaymentsglobalcom`| 
 |![epese](https://static.openfintech.io/vendors/epese/logo.svg?w=600&c=v0.59.26#w200) |[**Epese**](epese/)|`epese`| 

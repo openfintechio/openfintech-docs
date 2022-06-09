@@ -1,6 +1,6 @@
 
 # Checkout.com 
-![checkoutcom](https://static.openfintech.io/payment_providers/checkoutcom/logo.png?w=400&c=v0.59.26#w100)  
+![checkoutcom](https://static.openfintech.io/payment_providers/checkoutcom/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -11,25 +11,36 @@
 **Name:** 
  
 :	[EN] Checkout.com 
+:	[RU] Checkout.com 
+:	[UK] Checkout.com 
  
 
 ## Images 
 
 ### Logo 
  
-![checkoutcom](https://static.openfintech.io/payment_providers/checkoutcom/logo.png?w=400&c=v0.59.26#w100)  
+![checkoutcom](https://static.openfintech.io/payment_providers/checkoutcom/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/checkoutcom/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/checkoutcom/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![checkoutcom](https://static.openfintech.io/payment_providers/checkoutcom/icon.png?w=278&c=v0.59.26#w100)  
+![checkoutcom](https://static.openfintech.io/payment_providers/checkoutcom/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/checkoutcom/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/checkoutcom/icon.svg?w=278&c=v0.59.26#w100
 ```  
+
+## Payment Methods 
+ 
+The list of supported [Payment Methods](/payment-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
+ 
 
 ## JSON Object 
 
@@ -40,13 +51,15 @@ https://static.openfintech.io/payment_providers/checkoutcom/icon.png?w=278&c=v0.
   "vendor":"checkoutcom",
   "categories":null,
   "countries":null,
-  "payment_method":null,
+  "payment_method":[
+    "payment_card"
+  ],
   "payout_method":null,
-  "metadata":{
-    "about_payments_code":"checkoutcom"
-  },
+  "metadata":null,
   "name":{
-    "en":"Checkout.com"
+    "en":"Checkout.com",
+    "ru":"Checkout.com",
+    "uk":"Checkout.com"
   }
 }
 ```  

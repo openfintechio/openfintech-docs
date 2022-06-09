@@ -136,7 +136,7 @@
 |![chasepaymentech](https://static.openfintech.io/payment_providers/chasepaymentech/logo.png?w=600&c=v0.59.26#w100) |[**J.P. Morgan Commerce Solutions**](chasepaymentech/)|`chasepaymentech`| 
 |![checkalt](https://static.openfintech.io/payment_providers/checkalt/logo.svg?w=600&c=v0.59.26#w100) |[**CheckAlt Payment Solutions**](checkalt/)|`checkalt`| 
 |![checkoutbyamazon](https://static.openfintech.io/payment_providers/checkoutbyamazon/logo.svg?w=600&c=v0.59.26#w100) |[**Amazon Payments**](checkoutbyamazon/)|`checkoutbyamazon`| 
-|![checkoutcom](https://static.openfintech.io/payment_providers/checkoutcom/logo.png?w=600&c=v0.59.26#w100) |[**Checkout.com**](checkoutcom/)|`checkoutcom`| 
+|![checkoutcom](https://static.openfintech.io/payment_providers/checkoutcom/logo.svg?w=600&c=v0.59.26#w100) |[**Checkout.com**](checkoutcom/)|`checkoutcom`| 
 |![checkprocess](https://static.openfintech.io/payment_providers/checkprocess/logo.svg?w=600&c=v0.59.26#w100) |[**Check Process**](checkprocess/)|`checkprocess`| 
 |![chinapaymentservices](https://static.openfintech.io/payment_providers/chinapaymentservices/logo.svg?w=600&c=v0.59.26#w100) |[**China Payment Services**](chinapaymentservices/)|`chinapaymentservices`| 
 |![chronopay](https://static.openfintech.io/payment_providers/chronopay/logo.png?w=600&c=v0.59.26#w100) |[**ChronoPay**](chronopay/)|`chronopay`| 
@@ -240,6 +240,7 @@
 |![eospaymentsolutions](https://static.openfintech.io/payment_providers/eospaymentsolutions/logo.svg?w=600&c=v0.59.26#w100) |[**EOS Payment**](eospaymentsolutions/)|`eospaymentsolutions`| 
 |![epay](https://static.openfintech.io/payment_providers/epay/logo.png?w=600&c=v0.59.26#w100) |[**ePay**](epay/)|`epay`| 
 |![epaybg](https://static.openfintech.io/payment_providers/epaybg/logo.png?w=600&c=v0.59.26#w100) |[**ePay.bg**](epaybg/)|`epaybg`| 
+|![epayglobal](https://static.openfintech.io/payment_providers/epayglobal/logo.png?w=600&c=v0.59.26#w100) |[**ePay Global**](epayglobal/)|`epayglobal`| 
 |![epaymentsglobalcom](https://static.openfintech.io/payment_providers/epaymentsglobalcom/logo.svg?w=600&c=v0.59.26#w100) |[**ePaymentsglobal.com**](epaymentsglobalcom/)|`epaymentsglobalcom`| 
 |![epoch](https://static.openfintech.io/payment_providers/epoch/logo.png?w=600&c=v0.59.26#w100) |[**Epoch**](epoch/)|`epoch`| 
 |![escalion](https://static.openfintech.io/payment_providers/escalion/logo.png?w=600&c=v0.59.26#w100) |[**Escalion**](escalion/)|`escalion`| 

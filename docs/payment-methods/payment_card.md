@@ -122,6 +122,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![cardpay](https://static.openfintech.io/payment_providers/cardpay/icon.svg?w=278&c=v0.59.26#w100) |[Unlimint](/payment-providers/cardpay/)|`cardpay`| 
 |![portmone](https://static.openfintech.io/payment_providers/portmone/icon.svg?w=278&c=v0.59.26#w100) |[Portmone.com](/payment-providers/portmone/)|`portmone`| 
 |![wirecapital](https://static.openfintech.io/payment_providers/wirecapital/icon.svg?w=278&c=v0.59.26#w100) |[Wirecapital](/payment-providers/wirecapital/)|`wirecapital`| 
+|![checkoutcom](https://static.openfintech.io/payment_providers/checkoutcom/icon.svg?w=278&c=v0.59.26#w100) |[Checkout.com](/payment-providers/checkoutcom/)|`checkoutcom`| 
 |![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
 |![atosworldline](https://static.openfintech.io/payment_providers/atosworldline/icon.png?w=278&c=v0.59.26#w100) |[Worldline](/payment-providers/atosworldline/)|`atosworldline`| 
@@ -227,6 +228,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![exactly](https://static.openfintech.io/payment_providers/exactly/icon.svg?w=278&c=v0.59.26#w100) |[Exactly](/payment-providers/exactly/)|`exactly`| 
 |![xpate](https://static.openfintech.io/payment_providers/xpate/icon.svg?w=278&c=v0.59.26#w100) |[Xpate](/payment-providers/xpate/)|`xpate`| 
 |![dropayment](https://static.openfintech.io/payment_providers/dropayment/icon.svg?w=278&c=v0.59.26#w100) |[Dropayment](/payment-providers/dropayment/)|`dropayment`| 
+|![epayglobal](https://static.openfintech.io/payment_providers/epayglobal/icon.png?w=278&c=v0.59.26#w100) |[ePay Global](/payment-providers/epayglobal/)|`epayglobal`| 
 |![cypix](https://static.openfintech.io/payment_providers/cypix/icon.svg?w=278&c=v0.59.26#w100) |[Cypix](/payment-providers/cypix/)|`cypix`| 
 |![winpay](https://static.openfintech.io/payment_providers/winpay/icon.png?w=278&c=v0.59.26#w100) |[Global Financial Innovations](/payment-providers/winpay/)|`winpay`| 
 |![taslink](https://static.openfintech.io/payment_providers/taslink/icon.svg?w=278&c=v0.59.26#w100) |[TAS Link](/payment-providers/taslink/)|`taslink`| 
