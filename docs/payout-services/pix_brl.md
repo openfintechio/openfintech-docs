@@ -27,6 +27,12 @@
 |`cpf_number`|✔|`string`|`/^[0-9]{1,11}$/`| 
 |`beneficiary_phone`|✗|`string`|`/^\+\d{10,14}$/`| 
 |`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/`| 
+|`beneficiary_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
+|`beneficiary_lastname`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
+|`bank_code`|✗|`string`|`/^[0-9]{2,4}$/`| 
+|`bank_agency_number`|✗|`string`|`/^[A-z0-9]{2,5}$/`| 
+|`account_number`|✗|`string`|`/^[0-9]{4,100}$/`| 
+|`pix_key`|✗|`string`|`/.{4,255}/`| 
  
 
 ### Details 
@@ -84,6 +90,114 @@
 	: [EN] Enter Email 
 	: [RU] Введите Email 
 	: [UK] Введіть Email 
+ 
+4. **`beneficiary_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Z\-\sa-z]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary first name 
+	: [RU] Имя получателя 
+	: [UK] Імʼя отримувача 
+ 
+	Hint:  
+	: [EN] Enter beneficiary first name 
+	: [RU] Введите имя получателя 
+	: [UK] Введіть імʼя отримувача 
+ 
+5. **`beneficiary_lastname`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Z\-\sa-z]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary last name 
+	: [RU] Фамилия получателя 
+	: [UK] Прiзвище отримувача 
+ 
+	Hint:  
+	: [EN] Enter beneficiary last name 
+	: [RU] Введите фамилию получателя 
+	: [UK] Введіть прiзвище отримувача 
+ 
+6. **`bank_code`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{2,4}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank Code 
+	: [RU] Код банка 
+	: [UK] Код банку 
+ 
+	Hint:  
+	: [EN] Enter bank code 
+	: [RU] Введите код банка 
+	: [UK] Введіть код банку 
+ 
+7. **`bank_agency_number`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-z0-9]{2,5}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Agency Code of the Bank 
+	: [RU] Агентский код банка 
+	: [UK] Агентський код банку 
+ 
+	Hint:  
+	: [EN] Enter Agency Code of the Bank 
+	: [RU] Введите aгентский код банка 
+	: [UK] Введіть aгентський код банку 
+ 
+8. **`account_number`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{4,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Account Number 
+	: [RU] Номер счёта 
+	: [UK] Номер рахунку 
+ 
+	Hint:  
+	: [EN] Enter Account Number 
+	: [RU] Введите номер счёта 
+	: [UK] Введіть номер рахунку 
+ 
+9. **`pix_key`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/.{4,255}/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Pix key 
+	: [RU] Ключ Pix 
+	: [UK] Ключ Pix 
+ 
+	Hint:  
+	: [EN] Enter Pix key 
+	: [RU] Введите ключ Pix 
+	: [UK] Введіть ключ Pix 
  
 
 ## JSON Object 
@@ -145,6 +259,108 @@
         "en":"Enter Email",
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Email",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Email"
+      }
+    },
+    {
+      "key":"beneficiary_name",
+      "type":"string",
+      "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
+      "required":false,
+      "position":4,
+      "label":{
+        "en":"Beneficiary first name",
+        "ru":"\u0418\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0406\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter beneficiary first name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      }
+    },
+    {
+      "key":"beneficiary_lastname",
+      "type":"string",
+      "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
+      "required":false,
+      "position":5,
+      "label":{
+        "en":"Beneficiary last name",
+        "ru":"\u0424\u0430\u043c\u0438\u043b\u0438\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u041f\u0440i\u0437\u0432\u0438\u0449\u0435 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter beneficiary last name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0444\u0430\u043c\u0438\u043b\u0438\u044e \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u0440i\u0437\u0432\u0438\u0449\u0435 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      }
+    },
+    {
+      "key":"bank_code",
+      "type":"string",
+      "regexp":"\/^[0-9]{2,4}$\/",
+      "required":false,
+      "position":6,
+      "label":{
+        "en":"Bank Code",
+        "ru":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter bank code",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443"
+      }
+    },
+    {
+      "key":"bank_agency_number",
+      "type":"string",
+      "regexp":"\/^[A-z0-9]{2,5}$\/",
+      "required":false,
+      "position":7,
+      "label":{
+        "en":"Agency Code of the Bank",
+        "ru":"\u0410\u0433\u0435\u043d\u0442\u0441\u043a\u0438\u0439 \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u0410\u0433\u0435\u043d\u0442\u0441\u044c\u043a\u0438\u0439 \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter Agency Code of the Bank",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 a\u0433\u0435\u043d\u0442\u0441\u043a\u0438\u0439 \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c a\u0433\u0435\u043d\u0442\u0441\u044c\u043a\u0438\u0439 \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443"
+      }
+    },
+    {
+      "key":"account_number",
+      "type":"string",
+      "regexp":"\/^[0-9]{4,100}$\/",
+      "required":false,
+      "position":8,
+      "label":{
+        "en":"Account Number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0451\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter Account Number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0441\u0447\u0451\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      }
+    },
+    {
+      "key":"pix_key",
+      "type":"string",
+      "regexp":"\/.{4,255}\/",
+      "required":false,
+      "position":9,
+      "label":{
+        "en":"Pix key",
+        "ru":"\u041a\u043b\u044e\u0447 Pix",
+        "uk":"\u041a\u043b\u044e\u0447 Pix"
+      },
+      "hint":{
+        "en":"Enter Pix key",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043b\u044e\u0447 Pix",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043b\u044e\u0447 Pix"
       }
     }
   ],

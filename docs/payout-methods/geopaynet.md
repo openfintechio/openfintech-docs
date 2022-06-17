@@ -37,6 +37,7 @@ The list of [Payout Services](/payout-services/) based on the _GEO Pay_
 |![geopaynet](https://static.openfintech.io/payout_methods/geopaynet/icon.svg?w=278&c=v0.59.26#w40) |[geopaynet_uah](/payout-services/geopaynet_uah/)|`geopaynet_uah`| 
 |![geopaynet](https://static.openfintech.io/payout_methods/geopaynet/icon.svg?w=278&c=v0.59.26#w40) |[geopaynet_rub](/payout-services/geopaynet_rub/)|`geopaynet_rub`| 
 |![geopaynet](https://static.openfintech.io/payout_methods/geopaynet/icon.svg?w=278&c=v0.59.26#w40) |[geopaynet_eur](/payout-services/geopaynet_eur/)|`geopaynet_eur`| 
+|![geopaynet](https://static.openfintech.io/payout_methods/geopaynet/icon.svg?w=278&c=v0.59.26#w40) |[geopaynet_kzt](/payout-services/geopaynet_kzt/)|`geopaynet_kzt`| 
  
 
 ## Payment Providers 
