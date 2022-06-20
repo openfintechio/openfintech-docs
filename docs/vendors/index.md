@@ -1686,6 +1686,7 @@
 |![uzcard](https://static.openfintech.io/vendors/uzcard/logo.svg?w=600&c=v0.59.26#w200) |[**Uzcard**](uzcard/)|`uzcard`| 
 || **V** ||
 |![v-obmen.net](https://static.openfintech.io/vendors/v-obmen.net/logo.svg?w=600&c=v0.59.26#w200) |[**V-Obmen**](v-obmen.net/)|`v-obmen.net`| 
+|![v9pay](https://static.openfintech.io/vendors/v9pay/logo.png?w=600&c=v0.59.26#w200) |[**V9Pay**](v9pay/)|`v9pay`| 
 |![vabbank](https://static.openfintech.io/vendors/vabbank/logo.svg?w=600&c=v0.59.26#w200) |[**VAB Банк**](vabbank/)|`vabbank`| 
 |![vakifbank](https://static.openfintech.io/vendors/vakifbank/logo.svg?w=600&c=v0.59.26#w200) |[**VakıfBank**](vakifbank/)|`vakifbank`| 
 |![valitor](https://static.openfintech.io/vendors/valitor/logo.png?w=600&c=v0.59.26#w200) |[**Valitor**](valitor/)|`valitor`| 

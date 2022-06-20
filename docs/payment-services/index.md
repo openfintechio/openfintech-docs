@@ -304,6 +304,7 @@
 |![MG Bank (Saemmul)](https://static.openfintech.io/payment_methods/mg_bank_saemmul/logo.png?w=400&c=v0.59.26#w200) |[**MG Bank (Saemmul)**](/payment-methods/mg_bank_saemmul/)|[`mg_bank_saemmul_krw_hpp`](mg_bank_saemmul_krw_hpp/)| 
 |![MM Invoicing](https://static.openfintech.io/payment_methods/mminvoicing/logo.png?w=400&c=v0.59.26#w200) |[**MM Invoicing**](/payment-methods/mminvoicing/)|[`mminvoicing_gel_hpp`](mminvoicing_gel_hpp/)| 
 |![MobiKwik](https://static.openfintech.io/payment_methods/mobikwik/logo.png?w=400&c=v0.59.26#w200) |[**MobiKwik**](/payment-methods/mobikwik/)|[`mobikwik_inr_hpp`](mobikwik_inr_hpp/)| 
+|![Momo](https://static.openfintech.io/payment_methods/momo/logo.png?w=400&c=v0.59.26#w200) |[**Momo**](/payment-methods/momo/)|[`momo_vnd_hpp`](momo_vnd_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`monobank_uah_hpp`](monobank_uah_hpp/)| 
 |![MTN](https://static.openfintech.io/payment_methods/mtn/logo.svg?w=400&c=v0.59.26#w200) |[**MTN**](/payment-methods/mtn/)|[`mtn_ghs_invoice`](mtn_ghs_invoice/)| 
 |![MTN](https://static.openfintech.io/payment_methods/mtn/logo.svg?w=400&c=v0.59.26#w200) |[**MTN**](/payment-methods/mtn/)|[`mtn_rwf_invoice`](mtn_rwf_invoice/)| 
@@ -570,6 +571,7 @@
 |![VCreditos wallet](https://static.openfintech.io/payment_methods/vcreditos_push/logo.svg?w=400&c=v0.59.26#w200) |[**VCreditos wallet**](/payment-methods/vcreditos_push/)|[`vcreditos_push_brl_transfer`](vcreditos_push_brl_transfer/)| 
 |![VIETCOM Bank](https://static.openfintech.io/payment_methods/vietcom_bank/logo.svg?w=400&c=v0.59.26#w200) |[**VIETCOM Bank**](/payment-methods/vietcom_bank/)|[`vietcom_bank_vnd_hpp`](vietcom_bank_vnd_hpp/)| 
 |![VIETIN Bank](https://static.openfintech.io/payment_methods/vietin_bank/logo.png?w=400&c=v0.59.26#w200) |[**VIETIN Bank**](/payment-methods/vietin_bank/)|[`vietin_bank_vnd_hpp`](vietin_bank_vnd_hpp/)| 
+|![ViettelPay](https://static.openfintech.io/payment_methods/viettelpay/logo.svg?w=400&c=v0.59.26#w200) |[**ViettelPay**](/payment-methods/viettelpay/)|[`viettelpay_vnd_hpp`](viettelpay_vnd_hpp/)| 
 |![Vijaya Bank](https://static.openfintech.io/payment_methods/vijaya_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Vijaya Bank**](/payment-methods/vijaya_bank/)|[`vijaya_bank_inr_hpp`](vijaya_bank_inr_hpp/)| 
 |![Visa QR Code](https://static.openfintech.io/payment_methods/visa_qr_code/logo.svg?w=400&c=v0.59.26#w200) |[**Visa QR Code**](/payment-methods/visa_qr_code/)|[`visa_qr_code_idr_hpp`](visa_qr_code_idr_hpp/)| 
 |![Visa QR Code](https://static.openfintech.io/payment_methods/visa_qr_code/logo.svg?w=400&c=v0.59.26#w200) |[**Visa QR Code**](/payment-methods/visa_qr_code/)|[`visa_qr_code_myr_hpp`](visa_qr_code_myr_hpp/)| 
@@ -596,5 +598,6 @@
 |![Yandex.Money](https://static.openfintech.io/payment_methods/yandexmoney/logo.svg?w=400&c=v0.59.26#w200) |[**Yandex.Money**](/payment-methods/yandexmoney/)|[`yandexmoney_rub_hpp`](yandexmoney_rub_hpp/)| 
 |![Yes Bank](https://static.openfintech.io/payment_methods/yes_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Yes Bank**](/payment-methods/yes_bank/)|[`yes_bank_inr_hpp`](yes_bank_inr_hpp/)| 
 ||| **Z** ||
+|![ZaloPay](https://static.openfintech.io/payment_methods/zalopay/logo.svg?w=400&c=v0.59.26#w200) |[**ZaloPay**](/payment-methods/zalopay/)|[`zalopay_vnd_hpp`](zalopay_vnd_hpp/)| 
 |![Zantel ezypesa](https://static.openfintech.io/payment_methods/zantel_ezypesa/logo.png?w=400&c=v0.59.26#w200) |[**Zantel ezypesa**](/payment-methods/zantel_ezypesa/)|[`zantel_ezypesa_tzs_invoice`](zantel_ezypesa_tzs_invoice/)| 
 |![Zantel ezypesa](https://static.openfintech.io/payment_methods/zantel_ezypesa/logo.png?w=400&c=v0.59.26#w200) |[**Zantel ezypesa**](/payment-methods/zantel_ezypesa/)|[`zantel_ezypesa_zmw_invoice`](zantel_ezypesa_zmw_invoice/)| 

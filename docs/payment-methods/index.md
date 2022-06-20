@@ -280,6 +280,7 @@
 |![minitix](https://static.openfintech.io/payment_methods/minitix/logo.png?w=400&c=v0.59.26#w200) |[**Minitix**](minitix/)|`minitix`| 
 |![mminvoicing](https://static.openfintech.io/payment_methods/mminvoicing/logo.png?w=400&c=v0.59.26#w200) |[**MM Invoicing**](mminvoicing/)|`mminvoicing`| 
 |![mobikwik](https://static.openfintech.io/payment_methods/mobikwik/logo.png?w=400&c=v0.59.26#w200) |[**MobiKwik**](mobikwik/)|`mobikwik`| 
+|![momo](https://static.openfintech.io/payment_methods/momo/logo.png?w=400&c=v0.59.26#w200) |[**Momo**](momo/)|`momo`| 
 |![moneta](https://static.openfintech.io/payment_methods/moneta/logo.png?w=400&c=v0.59.26#w200) |[**Moneta**](moneta/)|`moneta`| 
 |![moneymail](https://static.openfintech.io/payment_methods/moneymail/logo.png?w=400&c=v0.59.26#w200) |[**MoneyMail**](moneymail/)|`moneymail`| 
 |![moneytopay](https://static.openfintech.io/payment_methods/moneytopay/logo.png?w=400&c=v0.59.26#w200) |[**MoneyToPay**](moneytopay/)|`moneytopay`| 
@@ -485,6 +486,7 @@
 |![viber](https://static.openfintech.io/payment_methods/viber/logo.png?w=400&c=v0.59.26#w200) |[**Viber**](viber/)|`viber`| 
 |![vietcom_bank](https://static.openfintech.io/payment_methods/vietcom_bank/logo.svg?w=400&c=v0.59.26#w200) |[**VIETCOM Bank**](vietcom_bank/)|`vietcom_bank`| 
 |![vietin_bank](https://static.openfintech.io/payment_methods/vietin_bank/logo.png?w=400&c=v0.59.26#w200) |[**VIETIN Bank**](vietin_bank/)|`vietin_bank`| 
+|![viettelpay](https://static.openfintech.io/payment_methods/viettelpay/logo.svg?w=400&c=v0.59.26#w200) |[**ViettelPay**](viettelpay/)|`viettelpay`| 
 |![vijaya_bank](https://static.openfintech.io/payment_methods/vijaya_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Vijaya Bank**](vijaya_bank/)|`vijaya_bank`| 
 |![visa_qr_code](https://static.openfintech.io/payment_methods/visa_qr_code/logo.svg?w=400&c=v0.59.26#w200) |[**Visa QR Code**](visa_qr_code/)|`visa_qr_code`| 
 |![visacheckout](https://static.openfintech.io/payment_methods/visacheckout/logo.png?w=400&c=v0.59.26#w200) |[**Visa Checkout**](visacheckout/)|`visacheckout`| 
@@ -515,6 +517,7 @@
 |![yes_bank](https://static.openfintech.io/payment_methods/yes_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Yes Bank**](yes_bank/)|`yes_bank`| 
 |![yota](https://static.openfintech.io/payment_methods/yota/logo.png?w=400&c=v0.59.26#w200) |[**Yota**](yota/)|`yota`| 
 || **Z** ||
+|![zalopay](https://static.openfintech.io/payment_methods/zalopay/logo.svg?w=400&c=v0.59.26#w200) |[**ZaloPay**](zalopay/)|`zalopay`| 
 |![zantel_ezypesa](https://static.openfintech.io/payment_methods/zantel_ezypesa/logo.png?w=400&c=v0.59.26#w200) |[**Zantel ezypesa**](zantel_ezypesa/)|`zantel_ezypesa`| 
 |![zapp](https://static.openfintech.io/payment_methods/zapp/logo.png?w=400&c=v0.59.26#w200) |[**Zapp**](zapp/)|`zapp`| 
 |![zimpler](https://static.openfintech.io/payment_methods/zimpler/logo.png?w=400&c=v0.59.26#w200) |[**Zimpler**](zimpler/)|`zimpler`| 
