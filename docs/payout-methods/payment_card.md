@@ -114,6 +114,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![portmone](https://static.openfintech.io/payment_providers/portmone/icon.svg?w=278&c=v0.59.26#w100) |[Portmone.com](/payment-providers/portmone/)|`portmone`| 
 |![wirecapital](https://static.openfintech.io/payment_providers/wirecapital/icon.svg?w=278&c=v0.59.26#w100) |[Wirecapital](/payment-providers/wirecapital/)|`wirecapital`| 
 |![checkoutcom](https://static.openfintech.io/payment_providers/checkoutcom/icon.svg?w=278&c=v0.59.26#w100) |[Checkout.com](/payment-providers/checkoutcom/)|`checkoutcom`| 
+|![litepay](https://static.openfintech.io/payment_providers/litepay/icon.svg?w=278&c=v0.59.26#w100) |[LitePay](/payment-providers/litepay/)|`litepay`| 
 |![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
 |![atosworldline](https://static.openfintech.io/payment_providers/atosworldline/icon.png?w=278&c=v0.59.26#w100) |[Worldline](/payment-providers/atosworldline/)|`atosworldline`| 

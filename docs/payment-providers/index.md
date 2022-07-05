@@ -377,6 +377,7 @@
 |![linked2pay](https://static.openfintech.io/payment_providers/linked2pay/logo.png?w=600&c=v0.59.26#w100) |[**linked2pay**](linked2pay/)|`linked2pay`| 
 |![linkpay](https://static.openfintech.io/payment_providers/linkpay/logo.png?w=600&c=v0.59.26#w100) |[**Linkpay**](linkpay/)|`linkpay`| 
 |![liqpay](https://static.openfintech.io/payment_providers/liqpay/logo.svg?w=600&c=v0.59.26#w100) |[**LiqPay**](liqpay/)|`liqpay`| 
+|![litepay](https://static.openfintech.io/payment_providers/litepay/logo.svg?w=600&c=v0.59.26#w100) |[**LitePay**](litepay/)|`litepay`| 
 || **M** ||
 |![magnius](https://static.openfintech.io/payment_providers/magnius/logo.png?w=600&c=v0.59.26#w100) |[**Magnius**](magnius/)|`magnius`| 
 |![maguapay](https://static.openfintech.io/payment_providers/maguapay/logo.png?w=600&c=v0.59.26#w100) |[**Magua Pay**](maguapay/)|`maguapay`| 

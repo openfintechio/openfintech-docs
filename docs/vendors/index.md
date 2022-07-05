@@ -659,6 +659,7 @@
 || **G** ||
 |![g2apay](https://static.openfintech.io/vendors/g2apay/logo.png?w=600&c=v0.59.26#w200) |[**G2A PAY**](g2apay/)|`g2apay`| 
 |![garantibank](https://static.openfintech.io/vendors/garantibank/logo.svg?w=600&c=v0.59.26#w200) |[**Garanti bank**](garantibank/)|`garantibank`| 
+|![gate](https://static.openfintech.io/vendors/gate/logo.svg?w=600&c=v0.59.26#w200) |[**Gate**](gate/)|`gate`| 
 |![gate2payments](https://static.openfintech.io/vendors/gate2payments/logo.png?w=600&c=v0.59.26#w200) |[**Gate2Payments **](gate2payments/)|`gate2payments`| 
 |![gate2play](https://static.openfintech.io/vendors/gate2play/logo.png?w=600&c=v0.59.26#w200) |[**Gate2Play**](gate2play/)|`gate2play`| 
 |![gazprombank](https://static.openfintech.io/vendors/gazprombank/logo.svg?w=600&c=v0.59.26#w200) |[**Газпромбанк**](gazprombank/)|`gazprombank`| 
@@ -868,6 +869,7 @@
 |![lionex.net](https://static.openfintech.io/vendors/lionex.net/logo.svg?w=600&c=v0.59.26#w200) |[**Lionex**](lionex.net/)|`lionex.net`| 
 |![liqpay](https://static.openfintech.io/vendors/liqpay/logo.svg?w=600&c=v0.59.26#w200) |[**LiqPay**](liqpay/)|`liqpay`| 
 |![liteobmen](https://static.openfintech.io/vendors/liteobmen/logo.svg?w=600&c=v0.59.26#w200) |[**LiteObmen**](liteobmen/)|`liteobmen`| 
+|![litepay](https://static.openfintech.io/vendors/litepay/logo.svg?w=600&c=v0.59.26#w200) |[**LitePay**](litepay/)|`litepay`| 
 |![livecoin_net](https://static.openfintech.io/vendors/livecoin_net/logo.svg?w=600&c=v0.59.26#w200) |[**livecoin.net**](livecoin_net/)|`livecoin_net`| 
 |![livecoinnet](https://static.openfintech.io/vendors/livecoinnet/logo.svg?w=600&c=v0.59.26#w200) |[**livecoin.net**](livecoinnet/)|`livecoinnet`| 
 |![lodatrajffajzen_bank_avalm_lviv](https://static.openfintech.io/vendors/lodatrajffajzen_bank_avalm_lviv/logo.svg?w=600&c=v0.59.26#w200) |[**Львівська обласна дирекція Публічного акціонерного товариства 'Райффайзен Банк Аваль'**](lodatrajffajzen_bank_avalm_lviv/)|`lodatrajffajzen_bank_avalm_lviv`| 
