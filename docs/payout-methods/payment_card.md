@@ -192,7 +192,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![xpayua](https://static.openfintech.io/payment_providers/xpayua/icon.svg?w=278&c=v0.59.26#w100) |[XPAY](/payment-providers/xpayua/)|`xpayua`| 
 |![paymegaio](https://static.openfintech.io/payment_providers/paymegaio/icon.svg?w=278&c=v0.59.26#w100) |[Paymega.io](/payment-providers/paymegaio/)|`paymegaio`| 
 |![paymentstrust](https://static.openfintech.io/payment_providers/paymentstrust/icon.svg?w=278&c=v0.59.26#w100) |[Payments Trust](/payment-providers/paymentstrust/)|`paymentstrust`| 
-|![twelvelive](https://static.openfintech.io/payment_providers/twelvelive/icon.svg?w=278&c=v0.59.26#w100) |[Twelve.live](/payment-providers/twelvelive/)|`twelvelive`| 
+|![twelvelive](https://static.openfintech.io/payment_providers/twelvelive/icon.svg?w=278&c=v0.59.26#w100) |[Twelve](/payment-providers/twelvelive/)|`twelvelive`| 
 |![spoynt](https://static.openfintech.io/payment_providers/spoynt/icon.svg?w=278&c=v0.59.26#w100) |[Spoynt](/payment-providers/spoynt/)|`spoynt`| 
 |![payeer](https://static.openfintech.io/payment_providers/payeer/icon.png?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
 |![tranzzo](https://static.openfintech.io/payment_providers/tranzzo/icon.svg?w=278&c=v0.59.26#w100) |[Tranzzo](/payment-providers/tranzzo/)|`tranzzo`| 

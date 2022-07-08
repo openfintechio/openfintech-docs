@@ -1,5 +1,5 @@
 
-# Twelve.live 
+# Twelve 
 ![twelvelive](https://static.openfintech.io/vendors/twelvelive/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,14 @@
  
 **Name:** 
  
-:	[EN] Twelve.live 
+:	[EN] Twelve 
+:	[RU] Twelve 
+:	[UK] Twelve 
  
-**Status:** `deprecated` 
+**Status:** `active` 
+ 
+**Links:** 
+: website [https://twelve.live/](https://twelve.live/) 
  
 
 ## Images 
@@ -37,11 +42,15 @@ https://static.openfintech.io/vendors/twelvelive/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"twelvelive",
   "name":{
-    "en":"Twelve.live"
+    "en":"Twelve",
+    "ru":"Twelve",
+    "uk":"Twelve"
   },
-  "status":"deprecated",
+  "status":"active",
   "description":null,
-  "links":null,
+  "links":{
+    "website":"https:\/\/twelve.live\/"
+  },
   "countries":null,
   "contacts":null,
   "address":null,

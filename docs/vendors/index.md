@@ -225,6 +225,7 @@
 |![belkapay](https://static.openfintech.io/vendors/belkapay/logo.svg?w=600&c=v0.59.26#w200) |[**belkapay.com**](belkapay/)|`belkapay`| 
 |![bennupay](https://static.openfintech.io/vendors/bennupay/logo.png?w=600&c=v0.59.26#w200) |[**bennupay**](bennupay/)|`bennupay`| 
 |![beonpay](https://static.openfintech.io/vendors/beonpay/logo.png?w=600&c=v0.59.26#w200) |[**BeonPay**](beonpay/)|`beonpay`| 
+|![beonpaypayouts](https://static.openfintech.io/vendors/beonpaypayouts/logo.svg?w=600&c=v0.59.26#w200) |[**Beonpay Payouts**](beonpaypayouts/)|`beonpaypayouts`| 
 |![best-obmen](https://static.openfintech.io/vendors/best-obmen/logo.png?w=600&c=v0.59.26#w200) |[**best-obmen**](best-obmen/)|`best-obmen`| 
 |![bestcoin.cc](https://static.openfintech.io/vendors/bestcoin.cc/logo.svg?w=600&c=v0.59.26#w200) |[**bestcoin.cc**](bestcoin.cc/)|`bestcoin.cc`| 
 |![bestobmin.net](https://static.openfintech.io/vendors/bestobmin.net/logo.svg?w=600&c=v0.59.26#w200) |[**BestObmin**](bestobmin.net/)|`bestobmin.net`| 
@@ -1626,7 +1627,7 @@
 |![trustpay](https://static.openfintech.io/vendors/trustpay/logo.svg?w=600&c=v0.59.26#w200) |[**TrustPay**](trustpay/)|`trustpay`| 
 |![trustpayglobal](https://static.openfintech.io/vendors/trustpayglobal/logo.png?w=600&c=v0.59.26#w200) |[**ILIXIUM**](trustpayglobal/)|`trustpayglobal`| 
 |![trustpayments](https://static.openfintech.io/vendors/trustpayments/logo.svg?w=600&c=v0.59.26#w200) |[**Trust Payments**](trustpayments/)|`trustpayments`| 
-|![twelvelive](https://static.openfintech.io/vendors/twelvelive/logo.svg?w=600&c=v0.59.26#w200) |[**Twelve.live**](twelvelive/)|`twelvelive`| 
+|![twelvelive](https://static.openfintech.io/vendors/twelvelive/logo.svg?w=600&c=v0.59.26#w200) |[**Twelve**](twelvelive/)|`twelvelive`| 
 |![twoclick](https://static.openfintech.io/vendors/twoclick/logo.png?w=600&c=v0.59.26#w200) |[**2click**](twoclick/)|`twoclick`| 
 |![txtnation](https://static.openfintech.io/vendors/txtnation/logo.png?w=600&c=v0.59.26#w200) |[**txtNation**](txtnation/)|`txtnation`| 
 |![tzb](https://static.openfintech.io/vendors/tzb/logo.svg?w=600&c=v0.59.26#w200) |[**Bank of Tanzania**](tzb/)|`tzb`| 

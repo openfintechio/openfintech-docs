@@ -77,6 +77,7 @@
 |![beanstream](https://static.openfintech.io/payment_providers/beanstream/logo.svg?w=600&c=v0.59.26#w100) |[**Beanstream**](beanstream/)|`beanstream`| 
 |![bennupay](https://static.openfintech.io/payment_providers/bennupay/logo.png?w=600&c=v0.59.26#w100) |[**bennupay**](bennupay/)|`bennupay`| 
 |![beonpay](https://static.openfintech.io/payment_providers/beonpay/logo.png?w=600&c=v0.59.26#w100) |[**BeonPay**](beonpay/)|`beonpay`| 
+|![beonpaypayouts](https://static.openfintech.io/payment_providers/beonpaypayouts/logo.svg?w=600&c=v0.59.26#w100) |[**Beonpay Payouts**](beonpaypayouts/)|`beonpaypayouts`| 
 |![betatransfer](https://static.openfintech.io/payment_providers/betatransfer/logo.svg?w=600&c=v0.59.26#w100) |[**BetaTransfer**](betatransfer/)|`betatransfer`| 
 |![bilderlings](https://static.openfintech.io/payment_providers/bilderlings/logo.svg?w=600&c=v0.59.26#w100) |[**Bilderlings**](bilderlings/)|`bilderlings`| 
 |![billingpartner](https://static.openfintech.io/payment_providers/billingpartner/logo.png?w=600&c=v0.59.26#w100) |[**BillingPartner**](billingpartner/)|`billingpartner`| 
@@ -708,7 +709,7 @@
 |![trustpay](https://static.openfintech.io/payment_providers/trustpay/logo.svg?w=600&c=v0.59.26#w100) |[**TrustPay**](trustpay/)|`trustpay`| 
 |![trustpayglobal](https://static.openfintech.io/payment_providers/trustpayglobal/logo.png?w=600&c=v0.59.26#w100) |[**ILIXIUM**](trustpayglobal/)|`trustpayglobal`| 
 |![trustpayments](https://static.openfintech.io/payment_providers/trustpayments/logo.svg?w=600&c=v0.59.26#w100) |[**Trust Payments**](trustpayments/)|`trustpayments`| 
-|![twelvelive](https://static.openfintech.io/payment_providers/twelvelive/logo.svg?w=600&c=v0.59.26#w100) |[**Twelve.live**](twelvelive/)|`twelvelive`| 
+|![twelvelive](https://static.openfintech.io/payment_providers/twelvelive/logo.svg?w=600&c=v0.59.26#w100) |[**Twelve**](twelvelive/)|`twelvelive`| 
 |![twoclick](https://static.openfintech.io/payment_providers/twoclick/logo.png?w=600&c=v0.59.26#w100) |[**2click**](twoclick/)|`twoclick`| 
 |![txtnation](https://static.openfintech.io/payment_providers/txtnation/logo.png?w=600&c=v0.59.26#w100) |[**txtNation**](txtnation/)|`txtnation`| 
 || **U** ||
