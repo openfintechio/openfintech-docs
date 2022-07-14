@@ -12,6 +12,10 @@
  
 :	[EN] PayGol 
  
+**Description:** 
+ 
+: [EN] Three Benefits of Paygol: If you are a Latin American and are looking for a simple payment solution, Paygol might be your answer. It provides a variety of payment methods and a personalized customer service to make your life easier. It even accepts local currency to boost sales of many businesses. Learn more about this payment solution by reading on! Here are three benefits of Paygol: Pago Digital and Paygol are both e-commerce platforms that offer local payment options for global businesses. Together, the companies provide card payment solutions, mobile payments, and local alternative methods to grow their businesses. Through this acquisition, PayRetailers continues to build out their technology and teams across Latin America and Europe. Paygol and Pago Digital are two of the many Latin American markets in which PayRetailers operates. These acquisitions will increase the company's technical expertise, marketing resources, and financial investment. 
+ 
 **Categories:**`aggregating` ,`distributing` ,`collecting` 
  
  
@@ -66,7 +70,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"paygol",
-  "description":null,
+  "description":{
+    "en":"Three Benefits of Paygol: If you are a Latin American and are looking for a simple payment solution, Paygol might be your answer. It provides a variety of payment methods and a personalized customer service to make your life easier. It even accepts local currency to boost sales of many businesses. Learn more about this payment solution by reading on! Here are three benefits of Paygol: Pago Digital and Paygol are both e-commerce platforms that offer local payment options for global businesses. Together, the companies provide card payment solutions, mobile payments, and local alternative methods to grow their businesses. Through this acquisition, PayRetailers continues to build out their technology and teams across Latin America and Europe. Paygol and Pago Digital are two of the many Latin American markets in which PayRetailers operates. These acquisitions will increase the company's technical expertise, marketing resources, and financial investment."
+  },
   "vendor":"paygol",
   "categories":[
     "aggregating",

@@ -12,6 +12,10 @@
  
 :	[EN] Payofix 
  
+**Description:** 
+ 
+: [EN] Payofix Payment Providers: Several factors are important when choosing a payment processor, and Payofix can help you out with both. For sme businesses, Payofix can help you out by offering high-risk processing, as well as a merchant account. With this service, your business can easily connect with your existing payment processor to make payments. Whether you want to accept payments from credit card customers, or provide payment processing services for small businesses, you'll find it easy to find the right one for your business. 
+ 
 
 ## Images 
 
@@ -36,7 +40,9 @@ https://static.openfintech.io/payment_providers/payofix/icon.png?w=278&c=v0.59.2
 ```json
 {
   "code":"payofix",
-  "description":null,
+  "description":{
+    "en":"Payofix Payment Providers: Several factors are important when choosing a payment processor, and Payofix can help you out with both. For sme businesses, Payofix can help you out by offering high-risk processing, as well as a merchant account. With this service, your business can easily connect with your existing payment processor to make payments. Whether you want to accept payments from credit card customers, or provide payment processing services for small businesses, you'll find it easy to find the right one for your business."
+  },
   "vendor":"payofix",
   "categories":null,
   "countries":null,

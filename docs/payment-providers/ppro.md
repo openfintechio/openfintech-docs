@@ -12,6 +12,10 @@
  
 :	[EN] PPRO Financial Ltd 
  
+**Description:** 
+ 
+: [EN] PPro is a company that specializes in payment orchestration. This means that they help businesses streamline their payments so that they are easier to manage and more efficient. They work with a variety of clients, including small businesses, e-commerce companies, and even enterprise-level businesses. PPro has a lot of experience in the industry, and they have a good reputation for being a reliable and trustworthy company. PPro offers a lot of features that can help businesses streamline their payments. They have a simple, easy-to-use interface that makes it easy to keep track of your payments and see where they are going. They also offer a variety of payment options, so you can choose the one that best fits your needs. Additionally, PPro offers a lot of security features so you can be sure that your payments are safe and secure. Overall, PPro is a great company that can help you streamline your payments and make them more efficient. They have a lot of experience in the industry, and they offer a variety of features that can help you make your payments more efficient. If you are looking for a company to help you with your payment needs, then PPro is a great option. 
+ 
 **Categories:**`distributing` 
  
 
@@ -53,7 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"ppro",
-  "description":null,
+  "description":{
+    "en":"PPro is a company that specializes in payment orchestration. This means that they help businesses streamline their payments so that they are easier to manage and more efficient. They work with a variety of clients, including small businesses, e-commerce companies, and even enterprise-level businesses. PPro has a lot of experience in the industry, and they have a good reputation for being a reliable and trustworthy company. PPro offers a lot of features that can help businesses streamline their payments. They have a simple, easy-to-use interface that makes it easy to keep track of your payments and see where they are going. They also offer a variety of payment options, so you can choose the one that best fits your needs. Additionally, PPro offers a lot of security features so you can be sure that your payments are safe and secure. Overall, PPro is a great company that can help you streamline your payments and make them more efficient. They have a lot of experience in the industry, and they offer a variety of features that can help you make your payments more efficient. If you are looking for a company to help you with your payment needs, then PPro is a great option."
+  },
   "vendor":"ppro",
   "categories":[
     "distributing"

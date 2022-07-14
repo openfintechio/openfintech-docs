@@ -12,6 +12,10 @@
  
 :	[EN] VikingPay 
  
+**Description:** 
+ 
+: [EN] Vikingpay is a payment orchestration platform that enables businesses to connect with multiple payment gateway providers. This allows businesses to have more flexibility in how they process payments and can potentially save on transaction fees. Vikingpay also offers a suite of tools to help businesses manage their payments, including invoicing, reconciliation, and fraud detection. One of the main advantages of using Vikingpay is that it can help businesses save money on transaction fees. By connecting with multiple payment gateway providers, businesses can get the best rates for each transaction. Vikingpay also offers a number of features designed to help businesses streamline their payment processes. These include invoicing, reconciliation, and fraud detection tools. There are a few potential downsides to using Vikingpay. First, it is a relatively new company, so there is some risk that it may not be able to continue providing the same level of service in the future. Second, businesses will need to set up accounts with multiple payment gateway providers, which can be time-consuming and may require additional fees. Overall, Vikingpay is a promising payment orchestration platform that offers businesses a number of advantages, including lower transaction fees and streamlined payment processing. While there are some risks associated with using a relatively new company, Vikingpay appears to be a solid choice for businesses looking for a comprehensive solution for their payment needs. 
+ 
  
 **Countries:** 
  
@@ -40,7 +44,9 @@ https://static.openfintech.io/payment_providers/vikingpay/icon.png?w=278&c=v0.59
 ```json
 {
   "code":"vikingpay",
-  "description":null,
+  "description":{
+    "en":"Vikingpay is a payment orchestration platform that enables businesses to connect with multiple payment gateway providers. This allows businesses to have more flexibility in how they process payments and can potentially save on transaction fees. Vikingpay also offers a suite of tools to help businesses manage their payments, including invoicing, reconciliation, and fraud detection. One of the main advantages of using Vikingpay is that it can help businesses save money on transaction fees. By connecting with multiple payment gateway providers, businesses can get the best rates for each transaction. Vikingpay also offers a number of features designed to help businesses streamline their payment processes. These include invoicing, reconciliation, and fraud detection tools. There are a few potential downsides to using Vikingpay. First, it is a relatively new company, so there is some risk that it may not be able to continue providing the same level of service in the future. Second, businesses will need to set up accounts with multiple payment gateway providers, which can be time-consuming and may require additional fees. Overall, Vikingpay is a promising payment orchestration platform that offers businesses a number of advantages, including lower transaction fees and streamlined payment processing. While there are some risks associated with using a relatively new company, Vikingpay appears to be a solid choice for businesses looking for a comprehensive solution for their payment needs."
+  },
   "vendor":"vikingpay",
   "categories":null,
   "countries":[

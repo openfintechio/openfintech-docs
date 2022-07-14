@@ -12,6 +12,10 @@
  
 :	[EN] LiqPay 
  
+**Description:** 
+ 
+: [EN] Liqpay is a payment gateway provider that offers a payment orchestration platform. The company has been in business since 2006 and is headquartered in Kiev, Ukraine. Liqpay provides a wide range of payment services, including online payments, mobile payments, and point-of-sale payments. The company also offers merchant services, such as payment processing, fraud detection, and risk management. Liqpay has a strong focus on security and compliance, and is PCI DSS compliant. The company's products are used by major brands such as Coca-Cola, Ford, and Samsung. Liqpay is a trusted partner of major banks and financial institutions, such as Visa and Mastercard. Liqpay's payment orchestration platform enables businesses to accept and process payments in multiple currencies. The platform supports a wide range of payment methods, including credit cards, debit cards, and bank transfers. Liqpay also offers a mobile app that allows businesses to accept and process payments on the go. Liqpay is a reliable and trusted partner for businesses of all sizes. The company's products are easy to use and offer great value for money. Liqpay's customer support is excellent, and the company offers a wide range of resources to help businesses get the most out of its products. Overall, Liqpay is a great choice for businesses looking for a payment gateway provider that offers a comprehensive payment orchestration platform. 
+ 
 
 ## Images 
 
@@ -48,7 +52,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"liqpay",
-  "description":null,
+  "description":{
+    "en":"Liqpay is a payment gateway provider that offers a payment orchestration platform. The company has been in business since 2006 and is headquartered in Kiev, Ukraine. Liqpay provides a wide range of payment services, including online payments, mobile payments, and point-of-sale payments. The company also offers merchant services, such as payment processing, fraud detection, and risk management. Liqpay has a strong focus on security and compliance, and is PCI DSS compliant. The company's products are used by major brands such as Coca-Cola, Ford, and Samsung. Liqpay is a trusted partner of major banks and financial institutions, such as Visa and Mastercard. Liqpay's payment orchestration platform enables businesses to accept and process payments in multiple currencies. The platform supports a wide range of payment methods, including credit cards, debit cards, and bank transfers. Liqpay also offers a mobile app that allows businesses to accept and process payments on the go. Liqpay is a reliable and trusted partner for businesses of all sizes. The company's products are easy to use and offer great value for money. Liqpay's customer support is excellent, and the company offers a wide range of resources to help businesses get the most out of its products. Overall, Liqpay is a great choice for businesses looking for a payment gateway provider that offers a comprehensive payment orchestration platform."
+  },
   "vendor":"liqpay",
   "categories":null,
   "countries":null,

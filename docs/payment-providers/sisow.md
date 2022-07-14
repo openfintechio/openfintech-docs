@@ -12,6 +12,10 @@
  
 :	[EN] Sisow 
  
+**Description:** 
+ 
+: [EN] Sisow is a payment orchestration platform that helps businesses automate and streamline their payment processes. It offers a wide range of features and integrations with popular payment gateway providers, making it a very versatile solution for businesses of all sizes. The main advantages of using Sisow are its ease of use and flexibility. The platform is very user-friendly and can be easily integrated with existing payment gateway providers. This makes it a very good choice for businesses that are looking for a payment solution that is both easy to use and flexible. The main disadvantage of using Sisow is its cost. The platform is not free to use, and there are some significant costs associated with using it. This can be a major drawback for businesses on a tight budget. Overall, Sisow is a very good payment orchestration platform that offers a lot of flexibility and ease of use. However, its cost can be a major drawback for some businesses. 
+ 
 **Categories:**`aggregating` ,`collecting` ,`distributing` 
  
  
@@ -59,7 +63,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"sisow",
-  "description":null,
+  "description":{
+    "en":"Sisow is a payment orchestration platform that helps businesses automate and streamline their payment processes. It offers a wide range of features and integrations with popular payment gateway providers, making it a very versatile solution for businesses of all sizes. The main advantages of using Sisow are its ease of use and flexibility. The platform is very user-friendly and can be easily integrated with existing payment gateway providers. This makes it a very good choice for businesses that are looking for a payment solution that is both easy to use and flexible. The main disadvantage of using Sisow is its cost. The platform is not free to use, and there are some significant costs associated with using it. This can be a major drawback for businesses on a tight budget. Overall, Sisow is a very good payment orchestration platform that offers a lot of flexibility and ease of use. However, its cost can be a major drawback for some businesses."
+  },
   "vendor":"sisow",
   "categories":[
     "aggregating",

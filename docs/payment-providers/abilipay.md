@@ -12,6 +12,10 @@
  
 :	[EN] abilipay 
  
+**Description:** 
+ 
+: [EN] Abilipay is a payment orchestration platform that enables businesses to accept and process payments from multiple payment gateway providers. It offers a single integration point for all your payment gateway providers, making it easy to manage your payment processing. Abilipay also offers a fraud prevention system and advanced reporting tools. The main advantages of using Abilipay are its ease of use and its ability to accept payments from multiple payment gateway providers. Additionally, the fraud prevention system and advanced reporting tools help you keep track of your payment processing and prevent fraudulent activity. However, there are a few disadvantages to using Abilipay. First, it is a bit more expensive than some other payment processing platforms. Second, it does not offer support for all countries. Finally, it is not as widely accepted as some other payment processors. Overall, Abilipay is a good choice for businesses that want an easy-to-use platform that can accept payments from multiple payment gateway providers. It is also a good choice for businesses that need a fraud prevention system and advanced reporting tools. However, it is more expensive than some other payment processing platforms and it is not as widely accepted as some other payment processors. 
+ 
 **Categories:**`distributing` 
  
 
@@ -75,7 +79,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"abilipay",
-  "description":null,
+  "description":{
+    "en":"Abilipay is a payment orchestration platform that enables businesses to accept and process payments from multiple payment gateway providers. It offers a single integration point for all your payment gateway providers, making it easy to manage your payment processing. Abilipay also offers a fraud prevention system and advanced reporting tools. The main advantages of using Abilipay are its ease of use and its ability to accept payments from multiple payment gateway providers. Additionally, the fraud prevention system and advanced reporting tools help you keep track of your payment processing and prevent fraudulent activity. However, there are a few disadvantages to using Abilipay. First, it is a bit more expensive than some other payment processing platforms. Second, it does not offer support for all countries. Finally, it is not as widely accepted as some other payment processors. Overall, Abilipay is a good choice for businesses that want an easy-to-use platform that can accept payments from multiple payment gateway providers. It is also a good choice for businesses that need a fraud prevention system and advanced reporting tools. However, it is more expensive than some other payment processing platforms and it is not as widely accepted as some other payment processors."
+  },
   "vendor":"abilipay",
   "categories":[
     "distributing"

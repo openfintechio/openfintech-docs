@@ -12,6 +12,10 @@
  
 :	[EN] HiPay Mobile 
  
+**Description:** 
+ 
+: [EN] When it comes to finding a payment gateway provider, there are a few things you need to take into account. One of them is whether the company offers a payment orchestration platform. Hipaymobile is one such company that deals with payment orchestration. But what exactly does that mean? And more importantly, what are the pros and cons of using Hipaymobile? In short, a payment orchestration platform helps businesses automate their payments. This includes everything from processing transactions to issuing refunds and managing fraud. It can be a big time-saver for businesses that process a lot of payments on a daily basis. There are, of course, some drawbacks to using such a platform. One of them is that it can be expensive. Another is that it can be complex to set up and use. But if you're looking for a way to streamline your payment processing, Hipaymobile is definitely worth considering. There are many payment gateway providers out there, but not all of them offer the same features and benefits. Hipaymobile is a payment orchestration platform that helps businesses streamline their payments process. Here are some of the pros and cons of using Hipaymobile. Pros: can help businesses save time and money by streamlining the payment process; offers a wide range of features and options; is a trusted and well-established company. 
+ 
 **Categories:**`aggregating` 
  
  
@@ -72,7 +76,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"hipaymobile",
-  "description":null,
+  "description":{
+    "en":"When it comes to finding a payment gateway provider, there are a few things you need to take into account. One of them is whether the company offers a payment orchestration platform. Hipaymobile is one such company that deals with payment orchestration. But what exactly does that mean? And more importantly, what are the pros and cons of using Hipaymobile? In short, a payment orchestration platform helps businesses automate their payments. This includes everything from processing transactions to issuing refunds and managing fraud. It can be a big time-saver for businesses that process a lot of payments on a daily basis. There are, of course, some drawbacks to using such a platform. One of them is that it can be expensive. Another is that it can be complex to set up and use. But if you're looking for a way to streamline your payment processing, Hipaymobile is definitely worth considering. There are many payment gateway providers out there, but not all of them offer the same features and benefits. Hipaymobile is a payment orchestration platform that helps businesses streamline their payments process. Here are some of the pros and cons of using Hipaymobile. Pros: can help businesses save time and money by streamlining the payment process; offers a wide range of features and options; is a trusted and well-established company."
+  },
   "vendor":"hipaymobile",
   "categories":[
     "aggregating"

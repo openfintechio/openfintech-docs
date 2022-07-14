@@ -12,6 +12,10 @@
  
 :	[EN] Heidelpay 
  
+**Description:** 
+ 
+: [EN] Heidelpay is a payment gateway provider that offers a payment orchestration platform. The company is based in Germany and was founded in 2007. Heidelpay has a wide range of features and services that make it a good choice for businesses of all sizes. However, there are some downsides to using the platform, such as high fees and limited customer support. Overall, Heidelpay is a good option for businesses looking for a comprehensive payment solution. There are a lot of payment gateway providers out there, and it can be tough to know which one to choose. Heidelpay is one option that offers a lot of features and benefits. Here's a look at some of the pros and cons of using Heidelpay. The main advantages of using Heidelpay are: security and compliance - Heidelpay takes security and compliance very seriously, and offers a number of features to help keep your payments safe and compliant. Wide range of features - Heidelpay offers a wide range of features, including support for multiple currencies, multi-lingual customer support, fraud prevention tools, and more. Easy to use - Heidelpay’s platform is easy to use, and offers a number of features to help make payments easy and efficient. 
+ 
 **Categories:**`collecting` ,`aggregating` ,`distributing` 
  
  
@@ -97,7 +101,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"heidelpay",
-  "description":null,
+  "description":{
+    "en":"Heidelpay is a payment gateway provider that offers a payment orchestration platform. The company is based in Germany and was founded in 2007. Heidelpay has a wide range of features and services that make it a good choice for businesses of all sizes. However, there are some downsides to using the platform, such as high fees and limited customer support. Overall, Heidelpay is a good option for businesses looking for a comprehensive payment solution. There are a lot of payment gateway providers out there, and it can be tough to know which one to choose. Heidelpay is one option that offers a lot of features and benefits. Here's a look at some of the pros and cons of using Heidelpay. The main advantages of using Heidelpay are: security and compliance - Heidelpay takes security and compliance very seriously, and offers a number of features to help keep your payments safe and compliant. Wide range of features - Heidelpay offers a wide range of features, including support for multiple currencies, multi-lingual customer support, fraud prevention tools, and more. Easy to use - Heidelpay\u2019s platform is easy to use, and offers a number of features to help make payments easy and efficient."
+  },
   "vendor":"heidelpay",
   "categories":[
     "collecting",

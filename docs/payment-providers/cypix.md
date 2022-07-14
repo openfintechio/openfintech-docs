@@ -14,6 +14,10 @@
 :	[RU] Cypix 
 :	[UK] Cypix 
  
+**Description:** 
+ 
+: [EN] What You Need to Know About Cypix Payment Providers: If you are new to the world of cryptocurrency and want to know more about cypix payment providers, then read this article. We will cover the pros and cons of each provider and why they're important. Read on to discover why these companies are the best. And, as always, we recommend that you use them responsibly! After all, a secure site is essential for any cryptocurrency, and cypix payment providers are no exception. 
+ 
 
 ## Images 
 
@@ -56,7 +60,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"cypix",
-  "description":null,
+  "description":{
+    "en":"What You Need to Know About Cypix Payment Providers: If you are new to the world of cryptocurrency and want to know more about cypix payment providers, then read this article. We will cover the pros and cons of each provider and why they're important. Read on to discover why these companies are the best. And, as always, we recommend that you use them responsibly! After all, a secure site is essential for any cryptocurrency, and cypix payment providers are no exception."
+  },
   "vendor":"cypix",
   "categories":null,
   "countries":null,

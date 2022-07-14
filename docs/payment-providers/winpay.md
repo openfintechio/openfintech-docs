@@ -14,6 +14,10 @@
 :	[RU] Global Financial Innovations 
 :	[UK] Global Financial Innovations 
  
+**Description:** 
+ 
+: [EN] Winpay Review - Payment Orchestration Platform and Expense App: Winpay is a payroll system that supports a two tier costing structure, which allows employees to be allocated to different departments within a cost centre. You can also define up to seven different cost centres. Costing breakdown reports are also available and allow you to generate several different types of costing statements. It also has a host of payment options including cash, cheque, bank transfer, EFT and superannuation. Employees can be paid via plain paper group certificates, bank transfers and EFT. Additionally, the software also allows you to archive terminated employees and produce a copy of their employment history. Users of Winpay should also consider acquiring a separate mobile app. This application is designed to integrate with various WinPay Expense Module features. You can use this app to submit and review claims, approve them, forward them, reject them, and query additional information. You can also customize and store multiple profiles for each employee. And once you've configured a Winpay account, you can view and manage your data from anywhere. The Winpay Expense App is an indispensable tool for those who need to keep track of their expenses and keep track of their employees. 
+ 
 
 ## Images 
 
@@ -56,7 +60,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"winpay",
-  "description":null,
+  "description":{
+    "en":"Winpay Review - Payment Orchestration Platform and Expense App: Winpay is a payroll system that supports a two tier costing structure, which allows employees to be allocated to different departments within a cost centre. You can also define up to seven different cost centres. Costing breakdown reports are also available and allow you to generate several different types of costing statements. It also has a host of payment options including cash, cheque, bank transfer, EFT and superannuation. Employees can be paid via plain paper group certificates, bank transfers and EFT. Additionally, the software also allows you to archive terminated employees and produce a copy of their employment history. Users of Winpay should also consider acquiring a separate mobile app. This application is designed to integrate with various WinPay Expense Module features. You can use this app to submit and review claims, approve them, forward them, reject them, and query additional information. You can also customize and store multiple profiles for each employee. And once you've configured a Winpay account, you can view and manage your data from anywhere. The Winpay Expense App is an indispensable tool for those who need to keep track of their expenses and keep track of their employees."
+  },
   "vendor":"winpay",
   "categories":null,
   "countries":null,

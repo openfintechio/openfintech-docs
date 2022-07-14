@@ -12,6 +12,10 @@
  
 :	[EN] Piastrix 
  
+**Description:** 
+ 
+: [EN] Benefits of Piastrix Payment Providers: If you are an avid online casino player, you should consider using the Piastrix payment provider. This service allows players to make deposits into online casinos and receive winnings in their account. It also allows you to choose the method of payment you wish to use to fund your account. It is easy to use, and the website of this payment provider offers a variety of benefits to its users. Below are some of these benefits. Listed below are some of the benefits you can expect from Piastrix.Players can also use Piastrix for playing live dealer games. In these games, players can select the appropriate mode, such as roulette, baccarat, blackjack, and bingo. Players can also select a VIP area in the lobby for high-stakes players. They can also choose a betting table that suits their skill level. Piastrix is recognized and used by many players around the world. Whether you want to bet on the hottest online casino games or enjoy a game of poker, you can use Piastrix to deposit and withdraw money at any time. Another benefit of using Piastrix is the fact that it works across multiple countries, including Russia. Although Piastrix started as a Russian-language service, it has quickly expanded its reach to include countries in the former Soviet Union. Today, it's accepted in Georgia, Belarus, Ukraine, Kazakhstan, and Belarus, as well as Russia. Customers can pay with their Russian ruble, euro, or US dollar. If you're not satisfied with Piastrix, you can try a different payment provider. 
+ 
 
 ## Images 
 
@@ -83,7 +87,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"piastrix",
-  "description":null,
+  "description":{
+    "en":"Benefits of Piastrix Payment Providers: If you are an avid online casino player, you should consider using the Piastrix payment provider. This service allows players to make deposits into online casinos and receive winnings in their account. It also allows you to choose the method of payment you wish to use to fund your account. It is easy to use, and the website of this payment provider offers a variety of benefits to its users. Below are some of these benefits. Listed below are some of the benefits you can expect from Piastrix.Players can also use Piastrix for playing live dealer games. In these games, players can select the appropriate mode, such as roulette, baccarat, blackjack, and bingo. Players can also select a VIP area in the lobby for high-stakes players. They can also choose a betting table that suits their skill level. Piastrix is recognized and used by many players around the world. Whether you want to bet on the hottest online casino games or enjoy a game of poker, you can use Piastrix to deposit and withdraw money at any time. Another benefit of using Piastrix is the fact that it works across multiple countries, including Russia. Although Piastrix started as a Russian-language service, it has quickly expanded its reach to include countries in the former Soviet Union. Today, it's accepted in Georgia, Belarus, Ukraine, Kazakhstan, and Belarus, as well as Russia. Customers can pay with their Russian ruble, euro, or US dollar. If you're not satisfied with Piastrix, you can try a different payment provider."
+  },
   "vendor":"piastrix",
   "categories":null,
   "countries":null,

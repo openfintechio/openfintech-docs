@@ -12,6 +12,10 @@
  
 :	[EN] Unlimint 
  
+**Description:** 
+ 
+: [EN] What You Need to Know About CardPay: You can start processing credit cards with CardPay in just a few minutes with its simple set-up. This prepaid account service is a registered Independent Sales Organization (ISO) of Wells Fargo Bank. Card/Pay's business practices and rates vary based on the type of transaction you perform - swiped transactions versus keyed transactions and internet e-commerce. Here's what you need to know about CardPay. The Cardpay payment system is governed by the Central Bank of Cyprus, the same regulator that oversees all banking jurisdictions. As a result, Cardpay users can use their account to conduct transactions on all banking channels. Those looking to set up a Cardpay account should know that the company offers a number of ways to accept payments online. With a wide variety of payment methods, it can help you grow your business with greater convenience. If you're in the IT industry, the CardPay payment system is an excellent option. It's built to provide maximum comfort for the clients and employees of IT companies. The service is designed by leading IT professionals to make the work easier for companies working in these fields. If you're based in Europe, Hong Kong, Singapore, or another OECD country, CardPay is an ideal choice. Offshore companies aren't eligible for CardPay, though. 
+ 
  
 **Countries:** 
  
@@ -60,7 +64,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"cardpay",
-  "description":null,
+  "description":{
+    "en":"What You Need to Know About CardPay: You can start processing credit cards with CardPay in just a few minutes with its simple set-up. This prepaid account service is a registered Independent Sales Organization (ISO) of Wells Fargo Bank. Card\/Pay's business practices and rates vary based on the type of transaction you perform - swiped transactions versus keyed transactions and internet e-commerce. Here's what you need to know about CardPay. The Cardpay payment system is governed by the Central Bank of Cyprus, the same regulator that oversees all banking jurisdictions. As a result, Cardpay users can use their account to conduct transactions on all banking channels. Those looking to set up a Cardpay account should know that the company offers a number of ways to accept payments online. With a wide variety of payment methods, it can help you grow your business with greater convenience. If you're in the IT industry, the CardPay payment system is an excellent option. It's built to provide maximum comfort for the clients and employees of IT companies. The service is designed by leading IT professionals to make the work easier for companies working in these fields. If you're based in Europe, Hong Kong, Singapore, or another OECD country, CardPay is an ideal choice. Offshore companies aren't eligible for CardPay, though."
+  },
   "vendor":"cardpay",
   "categories":null,
   "countries":[

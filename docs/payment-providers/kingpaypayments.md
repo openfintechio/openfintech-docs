@@ -12,6 +12,10 @@
  
 :	[EN] KingPay 
  
+**Description:** 
+ 
+: [EN] Why KingPay Is the Best Payment Orchestration Platform: If you're considering offering online payment services, KingPay may be a good choice. KingPay's innovative payment processing technology offers high-frequency and secure omni-channel processing, along with a broad range of alternative payment methods. Whether your business accepts credit cards, digital currency, or other payment methods, you'll find the right solution for your business. KingPay also supports international business transactions, so you can accept payments from all over the world, no matter where they're processed. 
+ 
 **Categories:**`collecting` ,`distributing` ,`aggregating` 
  
 
@@ -104,7 +108,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"kingpaypayments",
-  "description":null,
+  "description":{
+    "en":"Why KingPay Is the Best Payment Orchestration Platform: If you're considering offering online payment services, KingPay may be a good choice. KingPay's innovative payment processing technology offers high-frequency and secure omni-channel processing, along with a broad range of alternative payment methods. Whether your business accepts credit cards, digital currency, or other payment methods, you'll find the right solution for your business. KingPay also supports international business transactions, so you can accept payments from all over the world, no matter where they're processed."
+  },
   "vendor":"kingpaypayments",
   "categories":[
     "collecting",

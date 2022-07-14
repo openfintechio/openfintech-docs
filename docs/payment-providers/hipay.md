@@ -12,6 +12,10 @@
  
 :	[EN] HiPay 
  
+**Description:** 
+ 
+: [EN] HiPay is a leading payment gateway provider and payment orchestration platform. HiPay offers a complete suite of solutions to help businesses accept and process payments online, in-store and via mobile devices. HiPay's technology enables businesses to take advantage of the latest payment methods and technologies, including Apple Pay, Android Pay, Samsung Pay and Google Wallet. HiPay also offers fraud prevention solutions to help businesses protect themselves from fraudulent chargebacks and other risks associated with online payments. HiPay is a payment gateway provider and payment orchestration platform. It enables businesses to accept and process payments online, in-store, and on mobile devices. HiPay also helps businesses manage their fraud prevention and risk management strategies. HiPay offers a wide range of features and services that can benefit businesses of all sizes. For example, HiPay's fraud prevention tools can help businesses reduce the risk of fraudulent activity. HiPay's Payment Orchestration Platform can help businesses streamline their payment processing by integrating with multiple payment providers. This can save businesses time and money by reducing the need to use multiple payment processors. If you're looking for a payment gateway provider, Hipay is definitely worth considering. They offer a robust and feature-rich payment orchestration platform that can streamline your entire payment process. Plus, their customer support is excellent - they're always quick to respond to any questions or concerns you may have.  
+ 
 **Categories:**`aggregating` ,`distributing` ,`collecting` 
  
 
@@ -66,7 +70,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"hipay",
-  "description":null,
+  "description":{
+    "en":"HiPay is a leading payment gateway provider and payment orchestration platform. HiPay offers a complete suite of solutions to help businesses accept and process payments online, in-store and via mobile devices. HiPay's technology enables businesses to take advantage of the latest payment methods and technologies, including Apple Pay, Android Pay, Samsung Pay and Google Wallet. HiPay also offers fraud prevention solutions to help businesses protect themselves from fraudulent chargebacks and other risks associated with online payments. HiPay is a payment gateway provider and payment orchestration platform. It enables businesses to accept and process payments online, in-store, and on mobile devices. HiPay also helps businesses manage their fraud prevention and risk management strategies. HiPay offers a wide range of features and services that can benefit businesses of all sizes. For example, HiPay's fraud prevention tools can help businesses reduce the risk of fraudulent activity. HiPay's Payment Orchestration Platform can help businesses streamline their payment processing by integrating with multiple payment providers. This can save businesses time and money by reducing the need to use multiple payment processors. If you're looking for a payment gateway provider, Hipay is definitely worth considering. They offer a robust and feature-rich payment orchestration platform that can streamline your entire payment process. Plus, their customer support is excellent - they're always quick to respond to any questions or concerns you may have. "
+  },
   "vendor":"hipay",
   "categories":[
     "aggregating",

@@ -12,6 +12,10 @@
  
 :	[EN] Be2bill 
  
+**Description:** 
+ 
+: [EN] Be2bill is a payment gateway provider that offers a payment orchestration platform. The company has been in business since 2006 and is headquartered in France. Be2bill works with over 100 banks and financial institutions worldwide. The company's services are used by major e-commerce companies such as Amazon, eBay, and AliExpress. Be2bill offers a wide range of features and services that allow businesses to streamline their payment processing. The company's platform is highly customizable and can be integrated with many different types of software. Be2bill's services are reliable and secure, making it a great choice for businesses that need a reliable payment solution. The company's payment orchestration platform enables businesses to streamline their payment operations and reduce costs. Be2bill also provides a range of value-added services such as customer support, data analytics, and risk management. Be2bill is a trusted partner of major banks and financial institutions around the world. The company has a strong focus on security and compliance, and is PCI DSS compliant. Be2bill is also a member of the European Payments Council. Overall, Be2bill is a reliable and experienced payment gateway provider that offers a range of features and services to businesses. The company's payment orchestration platform is particularly helpful for businesses that want to streamline their payment operations. Be2bill's focus on security and compliance makes it a trusted partner for banks and financial institutions. 
+ 
 **Categories:**`aggregating` ,`distributing` ,`collecting` ,`acquiring` 
  
  
@@ -75,7 +79,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"be2bill",
-  "description":null,
+  "description":{
+    "en":"Be2bill is a payment gateway provider that offers a payment orchestration platform. The company has been in business since 2006 and is headquartered in France. Be2bill works with over 100 banks and financial institutions worldwide. The company's services are used by major e-commerce companies such as Amazon, eBay, and AliExpress. Be2bill offers a wide range of features and services that allow businesses to streamline their payment processing. The company's platform is highly customizable and can be integrated with many different types of software. Be2bill's services are reliable and secure, making it a great choice for businesses that need a reliable payment solution. The company's payment orchestration platform enables businesses to streamline their payment operations and reduce costs. Be2bill also provides a range of value-added services such as customer support, data analytics, and risk management. Be2bill is a trusted partner of major banks and financial institutions around the world. The company has a strong focus on security and compliance, and is PCI DSS compliant. Be2bill is also a member of the European Payments Council. Overall, Be2bill is a reliable and experienced payment gateway provider that offers a range of features and services to businesses. The company's payment orchestration platform is particularly helpful for businesses that want to streamline their payment operations. Be2bill's focus on security and compliance makes it a trusted partner for banks and financial institutions."
+  },
   "vendor":"be2bill",
   "categories":[
     "aggregating",

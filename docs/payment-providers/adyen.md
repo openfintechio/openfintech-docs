@@ -12,6 +12,10 @@
  
 :	[EN] Adyen 
  
+**Description:** 
+ 
+: [EN] Is Adyen the Best Payment Orchestration Platform? The company continues to add new customers and expand into new geographies. In October, Adyen entered Canada. It has also introduced a new terminal that enables merchants to accept popular payment methods like PayPal and Apple Pay. Overall, the company has a solid business model and is growing quickly. Still, it is not the best option for low-volume merchants. Its limitations also limit its ability to serve physical storefronts. As a payment gateway, Adyen offers online, mobile, and in-person payment processing. It claims to be a direct global processor with Visa and MasterCard and has raised $250 million in venture capital to further expand its payments platform. The company claims to process $90 billion of payments worldwide per year and had $727 million in revenue in 2017. It was recently announced that eBay plans to replace PayPal with Adyen over three years. However, it is important to keep in mind that Adyen's pricing model is more complicated than a flat-rate model. In addition to these benefits, Adyen offers a number of integrations. It has home-built plugins for Magento 2, SAP Commerce Cloud, Shopware 6, and several Oracle and Salesforce products. Ultimately, it can be a good choice for marketplace businesses. There are also many benefits to choosing Adyen, but if you're just starting out, it is not the best option for you. Consider these options before deciding on a payment gateway for your business. 
+ 
 **Categories:**`collecting` ,`acquiring` ,`aggregating` ,`distributing` 
  
  
@@ -159,7 +163,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"adyen",
-  "description":null,
+  "description":{
+    "en":"Is Adyen the Best Payment Orchestration Platform? The company continues to add new customers and expand into new geographies. In October, Adyen entered Canada. It has also introduced a new terminal that enables merchants to accept popular payment methods like PayPal and Apple Pay. Overall, the company has a solid business model and is growing quickly. Still, it is not the best option for low-volume merchants. Its limitations also limit its ability to serve physical storefronts. As a payment gateway, Adyen offers online, mobile, and in-person payment processing. It claims to be a direct global processor with Visa and MasterCard and has raised $250 million in venture capital to further expand its payments platform. The company claims to process $90 billion of payments worldwide per year and had $727 million in revenue in 2017. It was recently announced that eBay plans to replace PayPal with Adyen over three years. However, it is important to keep in mind that Adyen's pricing model is more complicated than a flat-rate model. In addition to these benefits, Adyen offers a number of integrations. It has home-built plugins for Magento 2, SAP Commerce Cloud, Shopware 6, and several Oracle and Salesforce products. Ultimately, it can be a good choice for marketplace businesses. There are also many benefits to choosing Adyen, but if you're just starting out, it is not the best option for you. Consider these options before deciding on a payment gateway for your business."
+  },
   "vendor":"adyen",
   "categories":[
     "collecting",

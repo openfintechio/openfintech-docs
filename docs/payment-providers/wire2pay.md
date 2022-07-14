@@ -12,6 +12,10 @@
  
 :	[EN] Wire2Pay 
  
+**Description:** 
+ 
+: [EN] Wire2Pay is a payment orchestration platform that connects merchants with multiple payment gateway providers. This allows businesses to have more flexibility in how they accept payments, and also helps to reduce costs by consolidating all of their payments into one platform. There are some clear advantages to using Wire2Pay. First, the platform makes it easy to connect with multiple payment gateway providers, which can save businesses time and money. Second, by consolidating all of their payments into one platform, businesses can reduce their overall costs. Finally, Wire2Pay offers a number of features that can help businesses streamline their payment processing, including automated fraud detection and dispute resolution. There are also some potential drawbacks to using Wire2Pay. First, because the platform connects merchants with multiple payment gateway providers, it can be more complicated to set up and use than a single provider. Second, businesses may need to pay additional fees to use Wire2Pay, depending on their payment gateway providers. Finally, Wire2Pay may not be available in all countries. Overall, Wire2Pay is a helpful platform for businesses that want to consolidate their payments and save money. However, businesses should be aware of the potential drawbacks before signing up for the service. 
+ 
 
 ## Images 
 
@@ -52,7 +56,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"wire2pay",
-  "description":null,
+  "description":{
+    "en":"Wire2Pay is a payment orchestration platform that connects merchants with multiple payment gateway providers. This allows businesses to have more flexibility in how they accept payments, and also helps to reduce costs by consolidating all of their payments into one platform. There are some clear advantages to using Wire2Pay. First, the platform makes it easy to connect with multiple payment gateway providers, which can save businesses time and money. Second, by consolidating all of their payments into one platform, businesses can reduce their overall costs. Finally, Wire2Pay offers a number of features that can help businesses streamline their payment processing, including automated fraud detection and dispute resolution. There are also some potential drawbacks to using Wire2Pay. First, because the platform connects merchants with multiple payment gateway providers, it can be more complicated to set up and use than a single provider. Second, businesses may need to pay additional fees to use Wire2Pay, depending on their payment gateway providers. Finally, Wire2Pay may not be available in all countries. Overall, Wire2Pay is a helpful platform for businesses that want to consolidate their payments and save money. However, businesses should be aware of the potential drawbacks before signing up for the service."
+  },
   "vendor":"wire2pay",
   "categories":null,
   "countries":null,

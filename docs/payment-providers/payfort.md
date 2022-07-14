@@ -12,6 +12,10 @@
  
 :	[EN] PayFort 
  
+**Description:** 
+ 
+: [EN] If you're looking for a payment gateway provider, you've probably heard of Payfort. But what exactly is Payfort? Payfort is a payment orchestration platform that helps businesses accept and manage payments. Payment gateway providers like Payfort make it possible for businesses to process credit and debit card transactions, as well as other types of electronic payments. With Payfort, businesses can accept payments from customers all over the world. Payfort also offers features like fraud protection and customer support, so businesses can be confident that their transactions are safe and secure. Overall, Payfort is a great choice for businesses that need a reliable payment gateway provider. If you're looking for a company that can help you accept and manage payments, Payfort is a great option to consider. One of the benefits of using Payfort is that they offer a unified API that makes it easy to integrate with your existing systems. They also have a robust security system in place, so you can be sure that your transactions are safe and secure. Overall, Payfort is a great choice for businesses who need a reliable and user-friendly payment gateway provider. If you're looking for a company that can help you streamline your payment processing, then Payfort is definitely worth considering. 
+ 
 **Categories:**`aggregating` ,`distributing` ,`collecting` 
  
  
@@ -53,7 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"payfort",
-  "description":null,
+  "description":{
+    "en":"If you're looking for a payment gateway provider, you've probably heard of Payfort. But what exactly is Payfort? Payfort is a payment orchestration platform that helps businesses accept and manage payments. Payment gateway providers like Payfort make it possible for businesses to process credit and debit card transactions, as well as other types of electronic payments. With Payfort, businesses can accept payments from customers all over the world. Payfort also offers features like fraud protection and customer support, so businesses can be confident that their transactions are safe and secure. Overall, Payfort is a great choice for businesses that need a reliable payment gateway provider. If you're looking for a company that can help you accept and manage payments, Payfort is a great option to consider. One of the benefits of using Payfort is that they offer a unified API that makes it easy to integrate with your existing systems. They also have a robust security system in place, so you can be sure that your transactions are safe and secure. Overall, Payfort is a great choice for businesses who need a reliable and user-friendly payment gateway provider. If you're looking for a company that can help you streamline your payment processing, then Payfort is definitely worth considering."
+  },
   "vendor":"payfort",
   "categories":[
     "aggregating",

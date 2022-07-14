@@ -14,6 +14,10 @@
 :	[RU] 4bill 
 :	[UK] 4bill 
  
+**Description:** 
+ 
+: [EN] 4Bill Payment Providers: If you want to receive payments from your clients without having to wait too long for the funds to arrive, you should check out 4bill payment providers. This article will explain how 4bill works and which providers are the best for you. It also includes some tips to make the most of 4bill. Hopefully, this information will be useful for you and your clients. Until next time, happy billing! And remember, your customers will thank you. 
+ 
 
 ## Images 
 
@@ -60,7 +64,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"4bill",
-  "description":null,
+  "description":{
+    "en":"4Bill Payment Providers: If you want to receive payments from your clients without having to wait too long for the funds to arrive, you should check out 4bill payment providers. This article will explain how 4bill works and which providers are the best for you. It also includes some tips to make the most of 4bill. Hopefully, this information will be useful for you and your clients. Until next time, happy billing! And remember, your customers will thank you."
+  },
   "vendor":"4bill",
   "categories":null,
   "countries":null,

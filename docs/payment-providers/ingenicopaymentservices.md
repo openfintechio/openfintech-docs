@@ -12,6 +12,10 @@
  
 :	[EN] Ingenico ePayments 
  
+**Description:** 
+ 
+: [EN] Ingenico Payment Services is a worldline brand. They have recently announced a partnership with the Ant Group, which will allow acquirers to implement Alipay+. As a result, merchants will be able to accept Alipay+ and other payment methods. Interested merchants should contact Ingenico for more information. Ingenico ePayments does not have a BBB accreditation. However, their branch does have an A+ rating. The company does not receive many complaints regarding their service. The Ingenico Group is made up of three companies: Ingenico Payment Services, Ingenico Smart Terminals, and Ingenico Healthcare GmbH. These companies each offer unique products and services to businesses. Ingenico ePayments has a global presence in Paris, France, and U.S. headquarters in Alpharetta, Georgia. The company does not publish rates, but their rates appear to vary by location and type of business. 
+ 
 **Categories:**`distributing` ,`aggregating` ,`collecting` 
  
 
@@ -88,7 +92,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"ingenicopaymentservices",
-  "description":null,
+  "description":{
+    "en":"Ingenico Payment Services is a worldline brand. They have recently announced a partnership with the Ant Group, which will allow acquirers to implement Alipay+. As a result, merchants will be able to accept Alipay+ and other payment methods. Interested merchants should contact Ingenico for more information. Ingenico ePayments does not have a BBB accreditation. However, their branch does have an A+ rating. The company does not receive many complaints regarding their service. The Ingenico Group is made up of three companies: Ingenico Payment Services, Ingenico Smart Terminals, and Ingenico Healthcare GmbH. These companies each offer unique products and services to businesses. Ingenico ePayments has a global presence in Paris, France, and U.S. headquarters in Alpharetta, Georgia. The company does not publish rates, but their rates appear to vary by location and type of business."
+  },
   "vendor":"ingenicopaymentservices",
   "categories":[
     "distributing",

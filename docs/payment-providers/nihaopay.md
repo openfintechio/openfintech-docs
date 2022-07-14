@@ -12,6 +12,10 @@
  
 :	[EN] NihaoPay 
  
+**Description:** 
+ 
+: [EN] If you're looking for a payment gateway provider, you've probably come across NihaoPay. But what is it exactly? And what are its pros and cons? NihaoPay is a payment orchestration platform. That means it offers a way for businesses to streamline their payment processing by integrating with multiple payment providers. This can make things a lot simpler and more efficient for businesses that need to accept payments from different sources. On the plus side, NihaoPay's platform can save businesses a lot of time and hassle. It's also been designed to be highly scalable, so it can grow with your business. There are some potential downsides to using NihaoPay, however. First, it's not the cheapest option out there. Second, it's still a relatively new company, so there's always the risk that something could go wrong. Overall, NihaoPay is a promising payment gateway provider. It's not perfect, but it could be a good fit for businesses that need to accept payments from multiple sources. There are a lot of different payment gateway providers out there, and it can be hard to know which one is right for your business. NihaoPay is a payment orchestration platform that helps businesses streamline their payments and make them more efficient. Here are some pros and cons of using NihaoPay: PROS: Easy to use interface. Supports multiple currencies. Can be used for both online and offline payments. Offers a variety of features such as invoicing, recurring payments, and fraud detection. 
+ 
  
 **Countries:** 
  
@@ -40,7 +44,9 @@ https://static.openfintech.io/payment_providers/nihaopay/icon.png?w=278&c=v0.59.
 ```json
 {
   "code":"nihaopay",
-  "description":null,
+  "description":{
+    "en":"If you're looking for a payment gateway provider, you've probably come across NihaoPay. But what is it exactly? And what are its pros and cons? NihaoPay is a payment orchestration platform. That means it offers a way for businesses to streamline their payment processing by integrating with multiple payment providers. This can make things a lot simpler and more efficient for businesses that need to accept payments from different sources. On the plus side, NihaoPay's platform can save businesses a lot of time and hassle. It's also been designed to be highly scalable, so it can grow with your business. There are some potential downsides to using NihaoPay, however. First, it's not the cheapest option out there. Second, it's still a relatively new company, so there's always the risk that something could go wrong. Overall, NihaoPay is a promising payment gateway provider. It's not perfect, but it could be a good fit for businesses that need to accept payments from multiple sources. There are a lot of different payment gateway providers out there, and it can be hard to know which one is right for your business. NihaoPay is a payment orchestration platform that helps businesses streamline their payments and make them more efficient. Here are some pros and cons of using NihaoPay: PROS: Easy to use interface. Supports multiple currencies. Can be used for both online and offline payments. Offers a variety of features such as invoicing, recurring payments, and fraud detection."
+  },
   "vendor":"nihaopay",
   "categories":null,
   "countries":[

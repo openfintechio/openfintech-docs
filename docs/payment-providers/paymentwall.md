@@ -14,6 +14,10 @@
 :	[RU] Paymentwall 
 :	[UK] Paymentwall 
  
+**Description:** 
+ 
+: [EN] Paymentwall is a payment gateway provider and payment orchestration platform. The company offers a suite of services that enable businesses to accept and process payments from customers around the world. Paymentwall provides a single platform that allows businesses to manage all their payment needs in one place. The company’s services include: a payment gateway that enables businesses to accept credit card, debit card, and alternative payments from customers around the world; a merchant account that allows businesses to process payments in multiple currencies; a fraud management system that helps businesses protect themselves from fraud and chargebacks; a customer support team that provides 24/7 assistance to businesses. Paymentwall is a trusted partner of some of the world’s leading companies, including Amazon, Facebook, Google, Microsoft, and Spotify. The company has processed billions of dollars in payments for its clients and is constantly innovating to offer the latest payment solutions to businesses of all sizes. If you’re looking for a payment gateway provider that can help you grow your business globally, Paymentwall is a great option. The company’s services are reliable and easy to use, and its customer support team is always available to help you with any questions or issues you may have. 
+ 
 
 ## Images 
 
@@ -47,7 +51,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"paymentwall",
-  "description":null,
+  "description":{
+    "en":"Paymentwall is a payment gateway provider and payment orchestration platform. The company offers a suite of services that enable businesses to accept and process payments from customers around the world. Paymentwall provides a single platform that allows businesses to manage all their payment needs in one place. The company\u2019s services include: a payment gateway that enables businesses to accept credit card, debit card, and alternative payments from customers around the world; a merchant account that allows businesses to process payments in multiple currencies; a fraud management system that helps businesses protect themselves from fraud and chargebacks; a customer support team that provides 24\/7 assistance to businesses. Paymentwall is a trusted partner of some of the world\u2019s leading companies, including Amazon, Facebook, Google, Microsoft, and Spotify. The company has processed billions of dollars in payments for its clients and is constantly innovating to offer the latest payment solutions to businesses of all sizes. If you\u2019re looking for a payment gateway provider that can help you grow your business globally, Paymentwall is a great option. The company\u2019s services are reliable and easy to use, and its customer support team is always available to help you with any questions or issues you may have."
+  },
   "vendor":"paymentwall",
   "categories":null,
   "countries":null,

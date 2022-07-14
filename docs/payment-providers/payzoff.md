@@ -12,6 +12,10 @@
  
 :	[EN] Payzoff 
  
+**Description:** 
+ 
+: [EN] Payzoff is a payment orchestration platform that enables businesses to securely accept and process payments from multiple payment gateway providers. It offers a simple, intuitive interface that makes it easy to get started and scale as your needs grow. Payzoff provides all the features you need to streamline your payment processing, including support for recurring payments, refunds, and more. Overall, Payzoff is an excellent choice for businesses of all sizes that need a reliable and user-friendly payment processing solution. Payzoff offers a comprehensive suite of features to help businesses automate their payments. With Payzoff, businesses can manage invoices, recurring payments, and refund requests easily and efficiently. Payzoff also offers integrated fraud prevention tools to help businesses protect themselves from fraudulent chargebacks. One of the biggest advantages of using Payzoff is that it makes it easy to manage multiple payment gateway providers from a single interface. This can save you a lot of time and hassle, especially if you have multiple businesses or projects that use different payment gateway providers. Another big plus is that Payzoff is highly customizable, so you can tailor it to fit your specific needs. And if you ever need assistance, the company's customer support team is always happy to help. Payzoff is one of the leading payment gateway providers in the market today. The company has a strong reputation for reliability and security, and offers competitive pricing. Payzoff's platform is easy to use and offers a wide range of features to help businesses streamline their payment processes. Overall, Payzoff is an excellent choice for businesses looking for a robust and user-friendly payment gateway solution. 
+ 
 **Categories:**`distributing` ,`collecting` ,`aggregating` 
  
 
@@ -175,7 +179,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"payzoff",
-  "description":null,
+  "description":{
+    "en":"Payzoff is a payment orchestration platform that enables businesses to securely accept and process payments from multiple payment gateway providers. It offers a simple, intuitive interface that makes it easy to get started and scale as your needs grow. Payzoff provides all the features you need to streamline your payment processing, including support for recurring payments, refunds, and more. Overall, Payzoff is an excellent choice for businesses of all sizes that need a reliable and user-friendly payment processing solution. Payzoff offers a comprehensive suite of features to help businesses automate their payments. With Payzoff, businesses can manage invoices, recurring payments, and refund requests easily and efficiently. Payzoff also offers integrated fraud prevention tools to help businesses protect themselves from fraudulent chargebacks. One of the biggest advantages of using Payzoff is that it makes it easy to manage multiple payment gateway providers from a single interface. This can save you a lot of time and hassle, especially if you have multiple businesses or projects that use different payment gateway providers. Another big plus is that Payzoff is highly customizable, so you can tailor it to fit your specific needs. And if you ever need assistance, the company's customer support team is always happy to help. Payzoff is one of the leading payment gateway providers in the market today. The company has a strong reputation for reliability and security, and offers competitive pricing. Payzoff's platform is easy to use and offers a wide range of features to help businesses streamline their payment processes. Overall, Payzoff is an excellent choice for businesses looking for a robust and user-friendly payment gateway solution."
+  },
   "vendor":"payzoff",
   "categories":[
     "distributing",

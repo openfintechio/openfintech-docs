@@ -12,6 +12,10 @@
  
 :	[EN] PaySec 
  
+**Description:** 
+ 
+: [EN] PaySec Appoints Koen Vanpraet As CEO: PaySec is an Asian payments specialist that has recently appointed Koen Vanpraet as its new CEO. Vanpraet, a global payments expert, will continue to build on PaySec's success by bringing its payments technology to new international markets. The company already offers reliable payment solutions to customers across a number of regions throughout Asia, including China, the Philippines, India, and the Middle East. With Vanpraet at the helm, PaySec is poised to expand even further into the Indian economy. The company is unlisted and has a paid-up capital of INR 1.00 lakh. Its registered office is in Tiruvallur, Tamil Nadu. Its board comprises of 2 directors - Faritha and Rowther Abdulla Khaleel Ahmed. The company has been operational for only one year, and its financial statements are not yet available. However, the company has an active status and plans to submit its first annual financial statements in the near future. 
+ 
  
 **Countries:** 
  
@@ -200,7 +204,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"paysec",
-  "description":null,
+  "description":{
+    "en":"PaySec Appoints Koen Vanpraet As CEO: PaySec is an Asian payments specialist that has recently appointed Koen Vanpraet as its new CEO. Vanpraet, a global payments expert, will continue to build on PaySec's success by bringing its payments technology to new international markets. The company already offers reliable payment solutions to customers across a number of regions throughout Asia, including China, the Philippines, India, and the Middle East. With Vanpraet at the helm, PaySec is poised to expand even further into the Indian economy. The company is unlisted and has a paid-up capital of INR 1.00 lakh. Its registered office is in Tiruvallur, Tamil Nadu. Its board comprises of 2 directors - Faritha and Rowther Abdulla Khaleel Ahmed. The company has been operational for only one year, and its financial statements are not yet available. However, the company has an active status and plans to submit its first annual financial statements in the near future."
+  },
   "vendor":"paysec",
   "categories":null,
   "countries":[

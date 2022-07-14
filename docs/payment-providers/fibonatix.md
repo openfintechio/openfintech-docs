@@ -12,6 +12,10 @@
  
 :	[EN] Fibonatix 
  
+**Description:** 
+ 
+: [EN] Fibonatix is a company that provides payment gateway and orchestration services. They offer a platform that helps businesses with their payment needs. Fibonatix has been in business since 2010 and is based in the United Kingdom. Fibonatix is one of the leading payment gateway providers in the world. They offer a payment orchestration platform that helps businesses streamline their payment processing. Fibonatix has a strong focus on security and compliance, which makes them a trusted partner for businesses of all sizes. Their platform is easy to use and offers a wide range of features, making it a great choice for businesses looking for a comprehensive payment solution. Some of the features of the Fibonatix platform include: the ability to accept various types of payments including credit cards, debit cards, and ACH payments; fraud prevention tools to help keep your business safe; support for multiple currencies; API access for developers. If you are looking for a payment gateway provider or a payment orchestration platform, Fibonatix is worth considering. They have a lot of experience in the industry and offer a robust platform with many features. 
+ 
 **Categories:**`aggregating` ,`distributing` ,`collecting` 
  
  
@@ -54,7 +58,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"fibonatix",
-  "description":null,
+  "description":{
+    "en":"Fibonatix is a company that provides payment gateway and orchestration services. They offer a platform that helps businesses with their payment needs. Fibonatix has been in business since 2010 and is based in the United Kingdom. Fibonatix is one of the leading payment gateway providers in the world. They offer a payment orchestration platform that helps businesses streamline their payment processing. Fibonatix has a strong focus on security and compliance, which makes them a trusted partner for businesses of all sizes. Their platform is easy to use and offers a wide range of features, making it a great choice for businesses looking for a comprehensive payment solution. Some of the features of the Fibonatix platform include: the ability to accept various types of payments including credit cards, debit cards, and ACH payments; fraud prevention tools to help keep your business safe; support for multiple currencies; API access for developers. If you are looking for a payment gateway provider or a payment orchestration platform, Fibonatix is worth considering. They have a lot of experience in the industry and offer a robust platform with many features."
+  },
   "vendor":"fibonatix",
   "categories":[
     "aggregating",

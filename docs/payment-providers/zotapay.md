@@ -12,6 +12,10 @@
  
 :	[EN] Zotapay 
  
+**Description:** 
+ 
+: [EN] Zotapay is a payment gateway provider that offers a payment orchestration platform. The company has been in business since 2010 and is headquartered in Europe. Zotapay offers a wide range of features, including support for multiple currencies, multiple payment methods, and multiple language options. The company also offers a variety of integrations, including support for popular e-commerce platforms. One of the main advantages of Zotapay is its flexibility. The platform can be customized to meet the specific needs of each business. This means that businesses can use Zotapay to accept payments from customers around the world, regardless of their preferred payment method. Additionally, the platform can be integrated with existing e-commerce platforms, making it easy to start accepting payments. Another advantage of Zotapay is its security. The platform uses SSL encryption to protect all transactions. Additionally, the company offers a variety of fraud prevention tools, including support for 3D Secure. This helps to ensure that all payments are securely processed and that businesses are protected from fraud. One potential disadvantage of Zotapay is its pricing. The company charges a flat fee per transaction, plus a percent of the total transaction amount. This can be expensive for businesses that process a large number of transactions. Additionally, the company does not offer a free trial or a money-back guarantee, so it is important to be sure that the platform is a good fit before signing up. Overall, Zotapay is a flexible and secure payment gateway provider that offers a wide range of features. The company’s pricing structure may be a deterrent for some businesses, but the platform is easy to use and offers a variety of integrations. 
+ 
 
 ## Images 
 
@@ -56,7 +60,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"zotapay",
-  "description":null,
+  "description":{
+    "en":"Zotapay is a payment gateway provider that offers a payment orchestration platform. The company has been in business since 2010 and is headquartered in Europe. Zotapay offers a wide range of features, including support for multiple currencies, multiple payment methods, and multiple language options. The company also offers a variety of integrations, including support for popular e-commerce platforms. One of the main advantages of Zotapay is its flexibility. The platform can be customized to meet the specific needs of each business. This means that businesses can use Zotapay to accept payments from customers around the world, regardless of their preferred payment method. Additionally, the platform can be integrated with existing e-commerce platforms, making it easy to start accepting payments. Another advantage of Zotapay is its security. The platform uses SSL encryption to protect all transactions. Additionally, the company offers a variety of fraud prevention tools, including support for 3D Secure. This helps to ensure that all payments are securely processed and that businesses are protected from fraud. One potential disadvantage of Zotapay is its pricing. The company charges a flat fee per transaction, plus a percent of the total transaction amount. This can be expensive for businesses that process a large number of transactions. Additionally, the company does not offer a free trial or a money-back guarantee, so it is important to be sure that the platform is a good fit before signing up. Overall, Zotapay is a flexible and secure payment gateway provider that offers a wide range of features. The company\u2019s pricing structure may be a deterrent for some businesses, but the platform is easy to use and offers a variety of integrations."
+  },
   "vendor":"zotapay",
   "categories":null,
   "countries":null,

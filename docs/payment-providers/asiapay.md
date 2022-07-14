@@ -12,6 +12,10 @@
  
 :	[EN] AsiaPay 
  
+**Description:** 
+ 
+: [EN] Asiapay is a payment orchestration platform that enables businesses to streamline their payment processing. It offers a single, integrated solution for managing all your payment gateway providers, allowing you to easily switch between them and get the best rates for your transactions. Asiapay also provides fraud detection and prevention, so you can be sure your transactions are safe and secure. There are many benefits to using Asiapay, including the following: streamlined payment processing - Asiapay makes it easy to manage all your payment gateway providers in one place, so you can save time and money on transaction fees; fraud detection and prevention - Asiapay's fraud detection and prevention capabilities help you keep your transactions safe and secure; competitive rates - Asiapay offers competitive rates for your transactions, so you can save money on payment processing fees. However, there are some drawbacks to using Asiapay as well, including the following: limited customization options - Asiapay's platform is not highly customizable, so you may not be able to tailor it to your specific needs; no free trial - Asiapay does not offer a free trial, so you'll need to sign up for a paid plan in order to use the platform. Overall, Asiapay is a good option for businesses who are looking for a streamlined payment processing solution. However, it's important to weigh the pros and cons before deciding if it's the right platform for you. 
+ 
 **Categories:**`collecting` ,`aggregating` ,`distributing` 
  
  
@@ -82,7 +86,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"asiapay",
-  "description":null,
+  "description":{
+    "en":"Asiapay is a payment orchestration platform that enables businesses to streamline their payment processing. It offers a single, integrated solution for managing all your payment gateway providers, allowing you to easily switch between them and get the best rates for your transactions. Asiapay also provides fraud detection and prevention, so you can be sure your transactions are safe and secure. There are many benefits to using Asiapay, including the following: streamlined payment processing - Asiapay makes it easy to manage all your payment gateway providers in one place, so you can save time and money on transaction fees; fraud detection and prevention - Asiapay's fraud detection and prevention capabilities help you keep your transactions safe and secure; competitive rates - Asiapay offers competitive rates for your transactions, so you can save money on payment processing fees. However, there are some drawbacks to using Asiapay as well, including the following: limited customization options - Asiapay's platform is not highly customizable, so you may not be able to tailor it to your specific needs; no free trial - Asiapay does not offer a free trial, so you'll need to sign up for a paid plan in order to use the platform. Overall, Asiapay is a good option for businesses who are looking for a streamlined payment processing solution. However, it's important to weigh the pros and cons before deciding if it's the right platform for you."
+  },
   "vendor":"asiapay",
   "categories":[
     "collecting",

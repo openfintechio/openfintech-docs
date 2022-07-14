@@ -12,6 +12,10 @@
  
 :	[EN] AltaPay 
  
+**Description:** 
+ 
+: [EN] There are many payment gateway providers out there, but not all of them offer the same features and benefits. When looking for a payment gateway provider, it's important to find one that offers a robust platform with plenty of features and benefits. Altapay is one such provider. Altapay offers a payment orchestration platform that helps businesses streamline their payments. The platform is designed to work with multiple payment types, including credit cards, debit cards, and ACH payments. It also offers fraud protection and dispute management tools. One of the best things about Altapay is that it offers a free trial so you can try out the platform before committing to it. This is a great way to see if it's the right fit for your business. If you're looking for a payment gateway provider that offers a robust platform with plenty of features and benefits, Altapay is a great option to consider. If you're looking for a payment gateway provider, you can't go wrong with Altapay. They offer a complete payment orchestration platform that makes it easy to accept and process payments from all major credit cards and digital wallets. Plus, their customer service is top-notch - they're always quick to respond to any questions or concerns you may have.  
+ 
 **Categories:**`distributing` ,`aggregating` ,`collecting` 
  
  
@@ -86,7 +90,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"altapay",
-  "description":null,
+  "description":{
+    "en":"There are many payment gateway providers out there, but not all of them offer the same features and benefits. When looking for a payment gateway provider, it's important to find one that offers a robust platform with plenty of features and benefits. Altapay is one such provider. Altapay offers a payment orchestration platform that helps businesses streamline their payments. The platform is designed to work with multiple payment types, including credit cards, debit cards, and ACH payments. It also offers fraud protection and dispute management tools. One of the best things about Altapay is that it offers a free trial so you can try out the platform before committing to it. This is a great way to see if it's the right fit for your business. If you're looking for a payment gateway provider that offers a robust platform with plenty of features and benefits, Altapay is a great option to consider. If you're looking for a payment gateway provider, you can't go wrong with Altapay. They offer a complete payment orchestration platform that makes it easy to accept and process payments from all major credit cards and digital wallets. Plus, their customer service is top-notch - they're always quick to respond to any questions or concerns you may have. "
+  },
   "vendor":"altapay",
   "categories":[
     "distributing",

@@ -14,6 +14,10 @@
 :	[RU] Selcom 
 :	[UK] Selcom 
  
+**Description:** 
+ 
+: [EN] Selcom is a payment gateway provider that offers a payment orchestration platform. The company has been in business since 2006 and is headquartered in New York, NY. Selcom's platform enables businesses to manage their payments through a single interface. The platform integrates with popular accounting software, such as QuickBooks and Xero, and can also be used to process credit card payments, direct debits, and other types of payments. Selcom charges a monthly fee for its service, which is based on the number of transactions processed. There are no setup or hidden fees. Selcom also offers discounts for annual prepayment. When it comes to payment gateway providers, Selcom is definitely a company to consider. They offer a wide range of services and have a good reputation in the industry. However, there are some things to be aware of before doing business with Selcom. Here are some pros to consider: wide range of services - Selcom offers a lot of different payment gateway options, so you're likely to find one that fits your needs; good reputation - Selcom is a well-established company with a good reputation in the industry. If you're looking for a payment gateway provider, Selcom is a great option. They offer a payment orchestration platform that makes it easy to manage your payments. However, there are some things to keep in mind before signing up with Selcom. 
+ 
 
 ## Images 
 
@@ -66,7 +70,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"selcom",
-  "description":null,
+  "description":{
+    "en":"Selcom is a payment gateway provider that offers a payment orchestration platform. The company has been in business since 2006 and is headquartered in New York, NY. Selcom's platform enables businesses to manage their payments through a single interface. The platform integrates with popular accounting software, such as QuickBooks and Xero, and can also be used to process credit card payments, direct debits, and other types of payments. Selcom charges a monthly fee for its service, which is based on the number of transactions processed. There are no setup or hidden fees. Selcom also offers discounts for annual prepayment. When it comes to payment gateway providers, Selcom is definitely a company to consider. They offer a wide range of services and have a good reputation in the industry. However, there are some things to be aware of before doing business with Selcom. Here are some pros to consider: wide range of services - Selcom offers a lot of different payment gateway options, so you're likely to find one that fits your needs; good reputation - Selcom is a well-established company with a good reputation in the industry. If you're looking for a payment gateway provider, Selcom is a great option. They offer a payment orchestration platform that makes it easy to manage your payments. However, there are some things to keep in mind before signing up with Selcom."
+  },
   "vendor":"selcom",
   "categories":null,
   "countries":null,

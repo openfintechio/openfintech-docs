@@ -12,6 +12,10 @@
  
 :	[EN] Spoynt 
  
+**Description:** 
+ 
+: [EN] Spoynt payment processing system: A payment invoice is the heart of the Spoynt payment processing system. It includes customer information, payment card numbers, and account authorisation data. It is similar to a contract between the merchant and the gateway protocol. The system also provides payment invoice dashboards and direct integration with APIs. Besides a ready-made checkout page, Spoynt also offers a hosted payment page. The integration with APIs ensures secure data storage and payment processing, and ensures that payment receipts are delivered to the client. 
+ 
 
 ## Images 
 
@@ -54,7 +58,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"spoynt",
-  "description":null,
+  "description":{
+    "en":"Spoynt payment processing system: A payment invoice is the heart of the Spoynt payment processing system. It includes customer information, payment card numbers, and account authorisation data. It is similar to a contract between the merchant and the gateway protocol. The system also provides payment invoice dashboards and direct integration with APIs. Besides a ready-made checkout page, Spoynt also offers a hosted payment page. The integration with APIs ensures secure data storage and payment processing, and ensures that payment receipts are delivered to the client."
+  },
   "vendor":"spoynt",
   "categories":null,
   "countries":null,

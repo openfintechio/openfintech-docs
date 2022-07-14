@@ -12,6 +12,10 @@
  
 :	[EN] Paydoo 
  
+**Description:** 
+ 
+: [EN] There are many payment gateway providers out there, each with their own strengths and weaknesses. Paydoo is a company that specializes in payment orchestration, which means they help facilitate payments between different platforms. They have a lot of experience working with major brands and companies, so they know how to handle large transactions. However, they're not the cheapest option out there. If you're looking for a payment gateway provider that can handle big transactions and has a lot of experience, then Paydoo is a good option. However, if you're on a budget, there are other options available. Paydoo is a payment gateway provider that offers a payment orchestration platform. The company has been in business since 2014 and is headquartered in Germany. Paydoo's platform allows businesses to automate their payments and reduce the need for manual processing. The company offers a variety of features, including support for multiple currencies, fraud detection, and accounting integration. Paydoo also offers a mobile app for managing payments on the go. The biggest advantage of using Paydoo is the ability to automate your payments. This can save you a lot of time and money by reducing the need for manual processing. Paydoo also offers great features like support for multiple currencies, fraud detection, and accounting integration. Another great advantage is the mobile app, which allows you to manage your payments on the go. The only downside of Paydoo is that it is a bit more expensive than some of the other payment gateway providers out there. However, the extra cost is worth it for the time and money you'll save by using the platform. Overall, Paydoo is an excellent choice for businesses looking for a payment gateway provider that offers a powerful and easy-to-use payment orchestration platform. 
+ 
 **Categories:**`aggregating` ,`distributing` ,`collecting` 
  
  
@@ -74,7 +78,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"paydoo",
-  "description":null,
+  "description":{
+    "en":"There are many payment gateway providers out there, each with their own strengths and weaknesses. Paydoo is a company that specializes in payment orchestration, which means they help facilitate payments between different platforms. They have a lot of experience working with major brands and companies, so they know how to handle large transactions. However, they're not the cheapest option out there. If you're looking for a payment gateway provider that can handle big transactions and has a lot of experience, then Paydoo is a good option. However, if you're on a budget, there are other options available. Paydoo is a payment gateway provider that offers a payment orchestration platform. The company has been in business since 2014 and is headquartered in Germany. Paydoo's platform allows businesses to automate their payments and reduce the need for manual processing. The company offers a variety of features, including support for multiple currencies, fraud detection, and accounting integration. Paydoo also offers a mobile app for managing payments on the go. The biggest advantage of using Paydoo is the ability to automate your payments. This can save you a lot of time and money by reducing the need for manual processing. Paydoo also offers great features like support for multiple currencies, fraud detection, and accounting integration. Another great advantage is the mobile app, which allows you to manage your payments on the go. The only downside of Paydoo is that it is a bit more expensive than some of the other payment gateway providers out there. However, the extra cost is worth it for the time and money you'll save by using the platform. Overall, Paydoo is an excellent choice for businesses looking for a payment gateway provider that offers a powerful and easy-to-use payment orchestration platform."
+  },
   "vendor":"paydoo",
   "categories":[
     "aggregating",

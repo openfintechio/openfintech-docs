@@ -12,6 +12,10 @@
  
 :	[EN] Fireball PSP 
  
+**Description:** 
+ 
+: [EN] If you're looking for a payment gateway provider, you've probably come across FireballPSP. They're a company that specializes in payment orchestration, and they offer a variety of services to help businesses streamline their payments. But what exactly is payment orchestration, and how can it benefit your business? In this FireballPSP review, we'll take a closer look at the company and their offerings to help you decide if they're the right fit for you. What is Payment Orchestration? Payment orchestration is the process of managing and coordinating multiple payment types and providers. This can include anything from credit cards and ACH payments to international transactions and fraud prevention. For businesses, this can be a helpful way to streamline payments and reduce the risk of fraud. It can also help you save money on transaction fees by consolidating multiple providers into one platform. What Does FireballPSP Offer? FireballPSP offers a variety of payment orchestration services to businesses of all sizes. Their platform includes features such as: credit card processing; ACH payments; international payments; fraud prevention; recurring billing; invoicing; and more! 
+ 
  
 **Countries:** 
  
@@ -40,7 +44,9 @@ https://static.openfintech.io/payment_providers/fireballpsp/icon.svg?w=278&c=v0.
 ```json
 {
   "code":"fireballpsp",
-  "description":null,
+  "description":{
+    "en":"If you're looking for a payment gateway provider, you've probably come across FireballPSP. They're a company that specializes in payment orchestration, and they offer a variety of services to help businesses streamline their payments. But what exactly is payment orchestration, and how can it benefit your business? In this FireballPSP review, we'll take a closer look at the company and their offerings to help you decide if they're the right fit for you. What is Payment Orchestration? Payment orchestration is the process of managing and coordinating multiple payment types and providers. This can include anything from credit cards and ACH payments to international transactions and fraud prevention. For businesses, this can be a helpful way to streamline payments and reduce the risk of fraud. It can also help you save money on transaction fees by consolidating multiple providers into one platform. What Does FireballPSP Offer? FireballPSP offers a variety of payment orchestration services to businesses of all sizes. Their platform includes features such as: credit card processing; ACH payments; international payments; fraud prevention; recurring billing; invoicing; and more!"
+  },
   "vendor":"fireballpsp",
   "categories":null,
   "countries":[

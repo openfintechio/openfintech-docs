@@ -42,6 +42,7 @@
 |![altapay](https://static.openfintech.io/payment_providers/altapay/logo.png?w=600&c=v0.59.26#w100) |[**AltaPay**](altapay/)|`altapay`| 
 |![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/logo.png?w=600&c=v0.59.26#w100) |[**Alternative Payments**](alternativepayments/)|`alternativepayments`| 
 |![altoglobalprocessing](https://static.openfintech.io/payment_providers/altoglobalprocessing/logo.png?w=600&c=v0.59.26#w100) |[**Alto Global Processing**](altoglobalprocessing/)|`altoglobalprocessing`| 
+|![alycepay](https://static.openfintech.io/payment_providers/alycepay/logo.png?w=600&c=v0.59.26#w100) |[**Alycepay**](alycepay/)|`alycepay`| 
 |![americanvolume](https://static.openfintech.io/payment_providers/americanvolume/logo.png?w=600&c=v0.59.26#w100) |[**GlobiPay**](americanvolume/)|`americanvolume`| 
 |![amlnode](https://static.openfintech.io/payment_providers/amlnode/logo.svg?w=600&c=v0.59.26#w100) |[**AML Node**](amlnode/)|`amlnode`| 
 |![anycash](https://static.openfintech.io/payment_providers/anycash/logo.svg?w=600&c=v0.59.26#w100) |[**AnyCash**](anycash/)|`anycash`| 

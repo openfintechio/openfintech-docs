@@ -12,6 +12,10 @@
  
 :	[EN] UOL BoaCompra 
  
+**Description:** 
+ 
+: [EN] If you're looking for a payment gateway provider, BoaCompra is definitely worth considering. They offer a comprehensive payment orchestration platform that can be tailored to your specific needs. And with over 20 years of experience in the industry, they're definitely a company you can trust. One of the things we really like about BoaCompra is their commitment to security. They use the latest encryption technologies to ensure that your data is always safe and secure. And their fraud prevention measures are top-notch, so you can rest assured that your transactions are always protected. Another thing we appreciate about BoaCompra is their customer service. They have a dedicated team of support professionals who are always available to help you with any issues you may have. And their online resources are extensive, so you can always find the answers you need. Overall, we're very impressed with BoaCompra and we think they're a great choice for any business that needs a payment gateway provider. If you're looking for a comprehensive and customizable platform, they're definitely worth considering. And if you need any assistance, their customer service team is always happy to help. 
+ 
 **Categories:**`distributing` ,`collecting` ,`aggregating` 
  
  
@@ -65,7 +69,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"boacompra",
-  "description":null,
+  "description":{
+    "en":"If you're looking for a payment gateway provider, BoaCompra is definitely worth considering. They offer a comprehensive payment orchestration platform that can be tailored to your specific needs. And with over 20 years of experience in the industry, they're definitely a company you can trust. One of the things we really like about BoaCompra is their commitment to security. They use the latest encryption technologies to ensure that your data is always safe and secure. And their fraud prevention measures are top-notch, so you can rest assured that your transactions are always protected. Another thing we appreciate about BoaCompra is their customer service. They have a dedicated team of support professionals who are always available to help you with any issues you may have. And their online resources are extensive, so you can always find the answers you need. Overall, we're very impressed with BoaCompra and we think they're a great choice for any business that needs a payment gateway provider. If you're looking for a comprehensive and customizable platform, they're definitely worth considering. And if you need any assistance, their customer service team is always happy to help."
+  },
   "vendor":"boacompra",
   "categories":[
     "distributing",

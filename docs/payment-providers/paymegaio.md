@@ -12,6 +12,10 @@
  
 :	[EN] Paymega.io 
  
+**Description:** 
+ 
+: [EN] If you're looking for a payment gateway provider that can help you with payment orchestration, Paymegaio is a great option. They offer a platform that makes it easy to manage your payments, and they have a wide range of features that make them a great choice for businesses of all sizes. One of the best things about Paymegaio is their customer support. They're always available to help you with any issues you may have, and they're quick to respond to questions or concerns. Their team is also very knowledgeable and can help you get the most out of their platform. Another great thing about Paymegaio is their pricing. Their plans are very affordable, and they offer discounts for businesses that process a high volume of transactions. Overall, they're a great value for the money, and you'll be able to save a lot of money by using their platform. If you're looking for a payment gateway provider that offers great features and pricing, Paymegaio is a great choice. Their platform is easy to use, and their customer support is top-notch. You'll be able to save time and money by using their platform, and you'll be able to get the most out of your payments. 
+ 
 
 ## Images 
 
@@ -54,7 +58,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"paymegaio",
-  "description":null,
+  "description":{
+    "en":"If you're looking for a payment gateway provider that can help you with payment orchestration, Paymegaio is a great option. They offer a platform that makes it easy to manage your payments, and they have a wide range of features that make them a great choice for businesses of all sizes. One of the best things about Paymegaio is their customer support. They're always available to help you with any issues you may have, and they're quick to respond to questions or concerns. Their team is also very knowledgeable and can help you get the most out of their platform. Another great thing about Paymegaio is their pricing. Their plans are very affordable, and they offer discounts for businesses that process a high volume of transactions. Overall, they're a great value for the money, and you'll be able to save a lot of money by using their platform. If you're looking for a payment gateway provider that offers great features and pricing, Paymegaio is a great choice. Their platform is easy to use, and their customer support is top-notch. You'll be able to save time and money by using their platform, and you'll be able to get the most out of your payments."
+  },
   "vendor":"paymegaio",
   "categories":null,
   "countries":null,
