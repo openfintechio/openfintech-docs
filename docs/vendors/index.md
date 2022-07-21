@@ -97,6 +97,7 @@
 |![anycash](https://static.openfintech.io/vendors/anycash/logo.svg?w=600&c=v0.59.26#w200) |[**AnyCash**](anycash/)|`anycash`| 
 |![anymoney](https://static.openfintech.io/vendors/anymoney/logo.svg?w=600&c=v0.59.26#w200) |[**Any.Money**](anymoney/)|`anymoney`| 
 |![apco](https://static.openfintech.io/vendors/apco/logo.png?w=600&c=v0.59.26#w200) |[**APCO**](apco/)|`apco`| 
+|![apcopay](https://static.openfintech.io/vendors/apcopay/logo.svg?w=600&c=v0.59.26#w200) |[**Apcopay**](apcopay/)|`apcopay`| 
 |![appexmoney](https://static.openfintech.io/vendors/appexmoney/logo.svg?w=600&c=v0.59.26#w200) |[**Appexmoney**](appexmoney/)|`appexmoney`| 
 |![applepay](https://static.openfintech.io/vendors/applepay/logo.svg?w=600&c=v0.59.26#w200) |[**Apple Pay**](applepay/)|`applepay`| 
 |![aramorpayments](https://static.openfintech.io/vendors/aramorpayments/logo.png?w=600&c=v0.59.26#w200) |[**Aramor Payments**](aramorpayments/)|`aramorpayments`| 
@@ -159,6 +160,7 @@
 |![awepay](https://static.openfintech.io/vendors/awepay/logo.png?w=600&c=v0.59.26#w200) |[**AWEpay**](awepay/)|`awepay`| 
 |![axcessmerchantservices](https://static.openfintech.io/vendors/axcessmerchantservices/logo.png?w=600&c=v0.59.26#w200) |[**Axcess Merchant Services**](axcessmerchantservices/)|`axcessmerchantservices`| 
 |![axiarpaymentsolutionslimited](https://static.openfintech.io/vendors/axiarpaymentsolutionslimited/logo.png?w=600&c=v0.59.26#w200) |[**Axiar Payments**](axiarpaymentsolutionslimited/)|`axiarpaymentsolutionslimited`| 
+|![azulpay](https://static.openfintech.io/vendors/azulpay/logo.png?w=600&c=v0.59.26#w200) |[**Azul Pay**](azulpay/)|`azulpay`| 
 || **B** ||
 |![b1nk](https://static.openfintech.io/vendors/b1nk/logo.svg?w=600&c=v0.59.26#w200) |[**B1NK**](b1nk/)|`b1nk`| 
 |![babasiki.ru](https://static.openfintech.io/vendors/babasiki.ru/logo.svg?w=600&c=v0.59.26#w200) |[**Babasiki**](babasiki.ru/)|`babasiki.ru`| 
@@ -272,6 +274,7 @@
 |![boacompra](https://static.openfintech.io/vendors/boacompra/logo.png?w=600&c=v0.59.26#w200) |[**UOL BoaCompra**](boacompra/)|`boacompra`| 
 |![bog](https://static.openfintech.io/vendors/bog/logo.svg?w=600&c=v0.59.26#w200) |[**Bank of Ghana**](bog/)|`bog`| 
 |![boku](https://static.openfintech.io/vendors/boku/logo.png?w=600&c=v0.59.26#w200) |[**BOKU**](boku/)|`boku`| 
+|![boombill](https://static.openfintech.io/vendors/boombill/logo.png?w=600&c=v0.59.26#w200) |[**Boom-Bill**](boombill/)|`boombill`| 
 |![borgun](https://static.openfintech.io/vendors/borgun/logo.png?w=600&c=v0.59.26#w200) |[**Borgun**](borgun/)|`borgun`| 
 |![bp](https://static.openfintech.io/vendors/bp/logo.svg?w=600&c=v0.59.26#w200) |[**BP**](bp/)|`bp`| 
 |![bpay](https://static.openfintech.io/vendors/bpay/logo.png?w=600&c=v0.59.26#w200) |[**BPAY**](bpay/)|`bpay`| 
@@ -834,6 +837,7 @@
 |![kiyivska_filiya_patpfb](https://static.openfintech.io/vendors/kiyivska_filiya_patpfb/logo.svg?w=600&c=v0.59.26#w200) |[**Київська філія ПАТ 'ПРОМИСЛОВО-ФІНАНСОВИЙ БАНК'**](kiyivska_filiya_patpfb/)|`kiyivska_filiya_patpfb`| 
 |![kiyivske_gru_pat_kbprivatbank_m_kiyiv](https://static.openfintech.io/vendors/kiyivske_gru_pat_kbprivatbank_m_kiyiv/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ 'КИЇВСЬКЕ ГОЛОВНЕ РЕГІОНАЛЬНЕ УПРАВЛІННЯ' ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](kiyivske_gru_pat_kbprivatbank_m_kiyiv/)|`kiyivske_gru_pat_kbprivatbank_m_kiyiv`| 
 |![klarna](https://static.openfintech.io/vendors/klarna/logo.svg?w=600&c=v0.59.26#w200) |[**Klarna**](klarna/)|`klarna`| 
+|![klasha](https://static.openfintech.io/vendors/klasha/logo.svg?w=600&c=v0.59.26#w200) |[**Klasha**](klasha/)|`klasha`| 
 |![klikpay](https://static.openfintech.io/vendors/klikpay/logo.png?w=600&c=v0.59.26#w200) |[**Klik & Pay**](klikpay/)|`klikpay`| 
 |![komercnibanka](https://static.openfintech.io/vendors/komercnibanka/logo.png?w=600&c=v0.59.26#w200) |[**Komercni Banka**](komercnibanka/)|`komercnibanka`| 
 |![kontakt](https://static.openfintech.io/vendors/kontakt/logo.svg?w=600&c=v0.59.26#w200) |[**Контакт**](kontakt/)|`kontakt`| 
@@ -1428,6 +1432,7 @@
 |![regularpay](https://static.openfintech.io/vendors/regularpay/logo.png?w=600&c=v0.59.26#w200) |[**RegularPay**](regularpay/)|`regularpay`| 
 |![remitos](https://static.openfintech.io/vendors/remitos/logo.png?w=600&c=v0.59.26#w200) |[**Remitos**](remitos/)|`remitos`| 
 |![resursbank](https://static.openfintech.io/vendors/resursbank/logo.svg?w=600&c=v0.59.26#w200) |[**Resurs bank**](resursbank/)|`resursbank`| 
+|![revolut](https://static.openfintech.io/vendors/revolut/logo.svg?w=600&c=v0.59.26#w200) |[**Revolut**](revolut/)|`revolut`| 
 |![ria_money_transfer](https://static.openfintech.io/vendors/ria_money_transfer/logo.svg?w=600&c=v0.59.26#w200) |[**Ria Money Transfer**](ria_money_transfer/)|`ria_money_transfer`| 
 |![riamoneytransfer](https://static.openfintech.io/vendors/riamoneytransfer/logo.svg?w=600&c=v0.59.26#w200) |[**Ria Money Transfer**](riamoneytransfer/)|`riamoneytransfer`| 
 |![rietumu](https://static.openfintech.io/vendors/rietumu/logo.png?w=600&c=v0.59.26#w200) |[**Rietumu Banka**](rietumu/)|`rietumu`| 

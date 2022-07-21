@@ -48,6 +48,7 @@
 |![anycash](https://static.openfintech.io/payment_providers/anycash/logo.svg?w=600&c=v0.59.26#w100) |[**AnyCash**](anycash/)|`anycash`| 
 |![anymoney](https://static.openfintech.io/payment_providers/anymoney/logo.svg?w=600&c=v0.59.26#w100) |[**Any.Money**](anymoney/)|`anymoney`| 
 |![apco](https://static.openfintech.io/payment_providers/apco/logo.png?w=600&c=v0.59.26#w100) |[**APCO**](apco/)|`apco`| 
+|![apcopay](https://static.openfintech.io/payment_providers/apcopay/logo.svg?w=600&c=v0.59.26#w100) |[**Apcopay**](apcopay/)|`apcopay`| 
 |![appexmoney](https://static.openfintech.io/payment_providers/appexmoney/logo.svg?w=600&c=v0.59.26#w100) |[**Appexmoney**](appexmoney/)|`appexmoney`| 
 |![aramorpayments](https://static.openfintech.io/payment_providers/aramorpayments/logo.svg?w=600&c=v0.59.26#w100) |[**Aramor Payments**](aramorpayments/)|`aramorpayments`| 
 |![aretosystems](https://static.openfintech.io/payment_providers/aretosystems/logo.png?w=600&c=v0.59.26#w100) |[**Areto Systems**](aretosystems/)|`aretosystems`| 
@@ -63,6 +64,7 @@
 |![awepay](https://static.openfintech.io/payment_providers/awepay/logo.png?w=600&c=v0.59.26#w100) |[**AWEpay**](awepay/)|`awepay`| 
 |![axcessmerchantservices](https://static.openfintech.io/payment_providers/axcessmerchantservices/logo.png?w=600&c=v0.59.26#w100) |[**Axcess Merchant Services**](axcessmerchantservices/)|`axcessmerchantservices`| 
 |![axiarpaymentsolutionslimited](https://static.openfintech.io/payment_providers/axiarpaymentsolutionslimited/logo.svg?w=600&c=v0.59.26#w100) |[**Axiar Payments**](axiarpaymentsolutionslimited/)|`axiarpaymentsolutionslimited`| 
+|![azulpay](https://static.openfintech.io/payment_providers/azulpay/logo.png?w=600&c=v0.59.26#w100) |[**Azul Pay**](azulpay/)|`azulpay`| 
 || **B** ||
 |![baianltd](https://static.openfintech.io/payment_providers/baianltd/logo.png?w=600&c=v0.59.26#w100) |[**Baian Ltd.**](baianltd/)|`baianltd`| 
 |![balticpay](https://static.openfintech.io/payment_providers/balticpay/logo.svg?w=600&c=v0.59.26#w100) |[**BalticPay Corporation**](balticpay/)|`balticpay`| 
@@ -101,6 +103,7 @@
 |![bnpparibas](https://static.openfintech.io/payment_providers/bnpparibas/logo.png?w=600&c=v0.59.26#w100) |[**BNP Paribas**](bnpparibas/)|`bnpparibas`| 
 |![boacompra](https://static.openfintech.io/payment_providers/boacompra/logo.png?w=600&c=v0.59.26#w100) |[**UOL BoaCompra**](boacompra/)|`boacompra`| 
 |![boku](https://static.openfintech.io/payment_providers/boku/logo.svg?w=600&c=v0.59.26#w100) |[**BOKU**](boku/)|`boku`| 
+|![boombill](https://static.openfintech.io/payment_providers/boombill/logo.png?w=600&c=v0.59.26#w100) |[**Boom-Bill**](boombill/)|`boombill`| 
 |![borgun](https://static.openfintech.io/payment_providers/borgun/logo.png?w=600&c=v0.59.26#w100) |[**Borgun**](borgun/)|`borgun`| 
 |![bp](https://static.openfintech.io/payment_providers/bp/logo.svg?w=600&c=v0.59.26#w100) |[**BP**](bp/)|`bp`| 
 |![braintree](https://static.openfintech.io/payment_providers/braintree/logo.svg?w=600&c=v0.59.26#w100) |[**Braintree**](braintree/)|`braintree`| 
@@ -363,6 +366,7 @@
 |![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/logo.png?w=600&c=v0.59.26#w100) |[**KingPay**](kingpaypayments/)|`kingpaypayments`| 
 |![kiwipay](https://static.openfintech.io/payment_providers/kiwipay/logo.png?w=600&c=v0.59.26#w100) |[**Kiwipay**](kiwipay/)|`kiwipay`| 
 |![klarna](https://static.openfintech.io/payment_providers/klarna/logo.svg?w=600&c=v0.59.26#w100) |[**Klarna**](klarna/)|`klarna`| 
+|![klasha](https://static.openfintech.io/payment_providers/klasha/logo.svg?w=600&c=v0.59.26#w100) |[**Klasha**](klasha/)|`klasha`| 
 |![klikpay](https://static.openfintech.io/payment_providers/klikpay/logo.png?w=600&c=v0.59.26#w100) |[**Klik & Pay**](klikpay/)|`klikpay`| 
 |![kortapay](https://static.openfintech.io/payment_providers/kortapay/logo.png?w=600&c=v0.59.26#w100) |[**Korta Pay**](kortapay/)|`kortapay`| 
 |![kraft](https://static.openfintech.io/payment_providers/kraft/logo.svg?w=600&c=v0.59.26#w100) |[**Kraft**](kraft/)|`kraft`| 
@@ -625,6 +629,7 @@
 |![reeves](https://static.openfintech.io/payment_providers/reeves/logo.png?w=600&c=v0.59.26#w100) |[**Reeves**](reeves/)|`reeves`| 
 |![regularpay](https://static.openfintech.io/payment_providers/regularpay/logo.png?w=600&c=v0.59.26#w100) |[**RegularPay**](regularpay/)|`regularpay`| 
 |![remitos](https://static.openfintech.io/payment_providers/remitos/logo.png?w=600&c=v0.59.26#w100) |[**Remitos**](remitos/)|`remitos`| 
+|![revolut](https://static.openfintech.io/payment_providers/revolut/logo.svg?w=600&c=v0.59.26#w100) |[**Revolut**](revolut/)|`revolut`| 
 |![rietumu](https://static.openfintech.io/payment_providers/rietumu/logo.png?w=600&c=v0.59.26#w100) |[**Rietumu Banka**](rietumu/)|`rietumu`| 
 |![robokassa](https://static.openfintech.io/payment_providers/robokassa/logo.png?w=600&c=v0.59.26#w100) |[**Robokassa**](robokassa/)|`robokassa`| 
 |![rocketgate](https://static.openfintech.io/payment_providers/rocketgate/logo.png?w=600&c=v0.59.26#w100) |[**RocketGate**](rocketgate/)|`rocketgate`| 
