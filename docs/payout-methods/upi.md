@@ -46,6 +46,7 @@ The list of [Payment Providers](/payment-providers/) that support the _UPI_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![10pay](https://static.openfintech.io/payment_providers/10pay/icon.svg?w=278&c=v0.59.26#w100) |[10Pay](/payment-providers/10pay/)|`10pay`| 
+|![virtouspayments](https://static.openfintech.io/payment_providers/virtouspayments/icon.png?w=278&c=v0.59.26#w100) |[Virtous Payments](/payment-providers/virtouspayments/)|`virtouspayments`| 
  
 
 ## JSON Object 

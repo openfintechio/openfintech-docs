@@ -1711,6 +1711,7 @@
 |![viabalotoonline](https://static.openfintech.io/vendors/viabalotoonline/logo.svg?w=600&c=v0.59.26#w200) |[**Via Baloto**](viabalotoonline/)|`viabalotoonline`| 
 |![vikingpay](https://static.openfintech.io/vendors/vikingpay/logo.png?w=600&c=v0.59.26#w200) |[**VikingPay**](vikingpay/)|`vikingpay`| 
 |![vinnicka_f_pat_kbprivatbank_m_vinnicya](https://static.openfintech.io/vendors/vinnicka_f_pat_kbprivatbank_m_vinnicya/logo.svg?w=600&c=v0.59.26#w200) |[**ВІННИЦЬКА ФІЛІЯ ПАТ КБ 'ПРИВАТБАНК'**](vinnicka_f_pat_kbprivatbank_m_vinnicya/)|`vinnicka_f_pat_kbprivatbank_m_vinnicya`| 
+|![virtouspayments](https://static.openfintech.io/vendors/virtouspayments/logo.png?w=600&c=v0.59.26#w200) |[**Virtous Payments**](virtouspayments/)|`virtouspayments`| 
 |![virtpay](https://static.openfintech.io/vendors/virtpay/logo.png?w=600&c=v0.59.26#w200) |[**Virtpay**](virtpay/)|`virtpay`| 
 |![virtualpay](https://static.openfintech.io/vendors/virtualpay/logo.png?w=600&c=v0.59.26#w200) |[**Virtual Pay**](virtualpay/)|`virtualpay`| 
 |![virtualxs](https://static.openfintech.io/vendors/virtualxs/logo.png?w=600&c=v0.59.26#w200) |[**Virtual Access**](virtualxs/)|`virtualxs`| 
