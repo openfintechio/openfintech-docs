@@ -25,7 +25,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`account`|✗|`string`|`\/^.{1,128}$\/`| 
+|`account`|✗|`string`|`/^.{1,128}$/`| 
  
 
 ### Details 
@@ -34,7 +34,7 @@
  
 	Type: `string` 
  
-	Regexp: `\/^.{1,128}$\/` 
+	Regexp: `/^.{1,128}$/` 
  
 	Required: `` 
  
@@ -61,7 +61,7 @@
     {
       "key":"account",
       "type":"string",
-      "regexp":"\\\/^.{1,128}$\\\/",
+      "regexp":"\/^.{1,128}$\/",
       "required":false,
       "position":1,
       "label":{
