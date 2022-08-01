@@ -83,7 +83,6 @@ The list of [Payment Services](/payment-services/) based on the _Payment card_
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_pen_hpp](/payment-services/payment_card_pen_hpp/)|`payment_card_pen_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_clp_hpp](/payment-services/payment_card_clp_hpp/)|`payment_card_clp_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_pkr_hpp](/payment-services/payment_card_pkr_hpp/)|`payment_card_pkr_hpp`| 
-|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[monobank_uah_hpp](/payment-services/monobank_uah_hpp/)|`monobank_uah_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_bdt_hpp](/payment-services/payment_card_bdt_hpp/)|`payment_card_bdt_hpp`| 
  
 
@@ -335,7 +334,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![inwizo](https://static.openfintech.io/payment_providers/inwizo/icon.svg?w=278&c=v0.59.26#w100) |[Inwizo](/payment-providers/inwizo/)|`inwizo`| 
 |![kvitum](https://static.openfintech.io/payment_providers/kvitum/icon.svg?w=278&c=v0.59.26#w100) |[Kvitum](/payment-providers/kvitum/)|`kvitum`| 
 |![maguapay](https://static.openfintech.io/payment_providers/maguapay/icon.png?w=278&c=v0.59.26#w100) |[Magua Pay](/payment-providers/maguapay/)|`maguapay`| 
-|![monobank](https://static.openfintech.io/payment_providers/monobank/icon.svg?w=278&c=v0.59.26#w100) |[Monobank](/payment-providers/monobank/)|`monobank`| 
 |![virtpay](https://static.openfintech.io/payment_providers/virtpay/icon.png?w=278&c=v0.59.26#w100) |[Virtpay](/payment-providers/virtpay/)|`virtpay`| 
 |![remitos](https://static.openfintech.io/payment_providers/remitos/icon.png?w=278&c=v0.59.26#w100) |[Remitos](/payment-providers/remitos/)|`remitos`| 
 |![payecardsakurateco](https://static.openfintech.io/payment_providers/payecardsakurateco/icon.png?w=278&c=v0.59.26#w100) |[PayeCards Akurateco](/payment-providers/payecardsakurateco/)|`payecardsakurateco`| 
@@ -343,6 +341,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![azulpay](https://static.openfintech.io/payment_providers/azulpay/icon.png?w=278&c=v0.59.26#w100) |[Azul Pay](/payment-providers/azulpay/)|`azulpay`| 
 |![boombill](https://static.openfintech.io/payment_providers/boombill/icon.png?w=278&c=v0.59.26#w100) |[Boom-Bill](/payment-providers/boombill/)|`boombill`| 
 |![revolut](https://static.openfintech.io/payment_providers/revolut/icon.png?w=278&c=v0.59.26#w100) |[Revolut](/payment-providers/revolut/)|`revolut`| 
+|![gateexpress](https://static.openfintech.io/payment_providers/gateexpress/icon.svg?w=278&c=v0.59.26#w100) |[Gate.Express](/payment-providers/gateexpress/)|`gateexpress`| 
  
 
 ## JSON Object 

@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`wallet_id`|✔|`string`|`/^\+\d{1,15}$/`| 
+|`wallet_id`|✔|`string`|`/^(bc1\|[13])[a-zA-HJ-NP-Z0-9]{10,65}$/`| 
  
 
 ### Details 
@@ -33,7 +33,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^\+\d{1,15}$/` 
+	Regexp: `/^(bc1|[13])[a-zA-HJ-NP-Z0-9]{10,65}$/` 
  
 	Required: `1` 
  
@@ -69,7 +69,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Bitcoin \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Bitcoin \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
       },
-      "regexp":"\/^\\+\\d{1,15}$\/",
+      "regexp":"\/^(bc1|[13])[a-zA-HJ-NP-Z0-9]{10,65}$\/",
       "required":true,
       "position":1
     }

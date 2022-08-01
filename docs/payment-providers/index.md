@@ -289,6 +289,7 @@
 |![gate](https://static.openfintech.io/payment_providers/gate/logo.svg?w=600&c=v0.59.26#w100) |[**Gate**](gate/)|`gate`| 
 |![gate2payments](https://static.openfintech.io/payment_providers/gate2payments/logo.png?w=600&c=v0.59.26#w100) |[**Gate2Payments **](gate2payments/)|`gate2payments`| 
 |![gate2play](https://static.openfintech.io/payment_providers/gate2play/logo.png?w=600&c=v0.59.26#w100) |[**Gate2Play**](gate2play/)|`gate2play`| 
+|![gateexpress](https://static.openfintech.io/payment_providers/gateexpress/logo.svg?w=600&c=v0.59.26#w100) |[**Gate.Express**](gateexpress/)|`gateexpress`| 
 |![genome](https://static.openfintech.io/payment_providers/genome/logo.svg?w=600&c=v0.59.26#w100) |[**Genome**](genome/)|`genome`| 
 |![geopaynet](https://static.openfintech.io/payment_providers/geopaynet/logo.svg?w=600&c=v0.59.26#w100) |[**GEO Pay**](geopaynet/)|`geopaynet`| 
 |![gestpay](https://static.openfintech.io/payment_providers/gestpay/logo.png?w=600&c=v0.59.26#w100) |[**GestPay**](gestpay/)|`gestpay`| 

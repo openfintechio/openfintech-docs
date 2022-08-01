@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`account`|✔|`string`|`/\d{10,15}$/`| 
+|`account`|✔|`string`|`/^\d{10,15}$/`| 
 |`account_name`|✗|`string`|`/^[A-Za-z0-9\s]{2,100}$/`| 
  
 
@@ -34,7 +34,7 @@
  
 	Type: `string` 
  
-	Regexp: `/\d{10,15}$/` 
+	Regexp: `/^\d{10,15}$/` 
  
 	Required: `1` 
  
@@ -88,7 +88,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430"
       },
-      "regexp":"\/\\d{10,15}$\/",
+      "regexp":"\/^\\d{10,15}$\/",
       "required":true,
       "position":1
     },

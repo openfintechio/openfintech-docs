@@ -667,6 +667,7 @@
 |![gate](https://static.openfintech.io/vendors/gate/logo.svg?w=600&c=v0.59.26#w200) |[**Gate**](gate/)|`gate`| 
 |![gate2payments](https://static.openfintech.io/vendors/gate2payments/logo.png?w=600&c=v0.59.26#w200) |[**Gate2Payments **](gate2payments/)|`gate2payments`| 
 |![gate2play](https://static.openfintech.io/vendors/gate2play/logo.png?w=600&c=v0.59.26#w200) |[**Gate2Play**](gate2play/)|`gate2play`| 
+|![gateexpress](https://static.openfintech.io/vendors/gateexpress/logo.svg?w=600&c=v0.59.26#w200) |[**Gate.Express**](gateexpress/)|`gateexpress`| 
 |![gazprombank](https://static.openfintech.io/vendors/gazprombank/logo.svg?w=600&c=v0.59.26#w200) |[**Газпромбанк**](gazprombank/)|`gazprombank`| 
 |![gcashwallet](https://static.openfintech.io/vendors/gcashwallet/logo.png?w=600&c=v0.59.26#w200) |[**GCASH**](gcashwallet/)|`gcashwallet`| 
 |![geeexchange](https://static.openfintech.io/vendors/geeexchange/logo.svg?w=600&c=v0.59.26#w200) |[**geeexchange.com**](geeexchange/)|`geeexchange`| 
