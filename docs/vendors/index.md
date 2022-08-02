@@ -634,6 +634,7 @@
 |![fkirovogradske_ou_atoshad_m_kirovogra](https://static.openfintech.io/vendors/fkirovogradske_ou_atoshad_m_kirovogra/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Кiровоградське обласне управлiння ПАТ 'Державний ощадний банк України'**](fkirovogradske_ou_atoshad_m_kirovogra/)|`fkirovogradske_ou_atoshad_m_kirovogra`| 
 |![flexepin](https://static.openfintech.io/vendors/flexepin/logo.svg?w=600&c=v0.59.26#w200) |[**Flexepin**](flexepin/)|`flexepin`| 
 |![flexepinemoneyvouchers](https://static.openfintech.io/vendors/flexepinemoneyvouchers/logo.png?w=600&c=v0.59.26#w200) |[**Flexepin**](flexepinemoneyvouchers/)|`flexepinemoneyvouchers`| 
+|![flexify](https://static.openfintech.io/vendors/flexify/logo.png?w=600&c=v0.59.26#w200) |[**Flexify**](flexify/)|`flexify`| 
 |![flexipay](https://static.openfintech.io/vendors/flexipay/logo.png?w=600&c=v0.59.26#w200) |[**UNIVERSUM Group - FlexiPay®**](flexipay/)|`flexipay`| 
 |![flo2cash](https://static.openfintech.io/vendors/flo2cash/logo.png?w=600&c=v0.59.26#w200) |[**Flo2Cash**](flo2cash/)|`flo2cash`| 
 |![floatrates](https://static.openfintech.io/vendors/floatrates/logo.svg?w=600&c=v0.59.26#w200) |[**floatrates**](floatrates/)|`floatrates`| 
@@ -1212,7 +1213,7 @@
 |![paycos](https://static.openfintech.io/vendors/paycos/logo.svg?w=600&c=v0.59.26#w200) |[**PAYCOS**](paycos/)|`paycos`| 
 |![payd](https://static.openfintech.io/vendors/payd/logo.png?w=600&c=v0.59.26#w200) |[**payD**](payd/)|`payd`| 
 |![paydirekt](https://static.openfintech.io/vendors/paydirekt/logo.svg?w=600&c=v0.59.26#w200) |[**paydirekt**](paydirekt/)|`paydirekt`| 
-|![paydoo](https://static.openfintech.io/vendors/paydoo/logo.png?w=600&c=v0.59.26#w200) |[**Paydoo**](paydoo/)|`paydoo`| 
+|![paydoo](https://static.openfintech.io/vendors/paydoo/logo.png?w=600&c=v0.59.26#w200) |[**Paynt**](paydoo/)|`paydoo`| 
 |![payease](https://static.openfintech.io/vendors/payease/logo.png?w=600&c=v0.59.26#w200) |[**PayEase**](payease/)|`payease`| 
 |![payecards](https://static.openfintech.io/vendors/payecards/logo.png?w=600&c=v0.59.26#w200) |[**Payecards**](payecards/)|`payecards`| 
 |![payecardsakurateco](https://static.openfintech.io/vendors/payecardsakurateco/logo.png?w=600&c=v0.59.26#w200) |[**PayeCards Akurateco**](payecardsakurateco/)|`payecardsakurateco`| 

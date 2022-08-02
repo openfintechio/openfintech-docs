@@ -1,5 +1,5 @@
 
-# Paydoo 
+# Paynt 
 ![paydoo](https://static.openfintech.io/payment_providers/paydoo/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,7 +10,7 @@
  
 **Name:** 
  
-:	[EN] Paydoo 
+:	[EN] Paynt 
  
 **Description:** 
  
@@ -159,7 +159,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "about_payments_code":"paydoo"
   },
   "name":{
-    "en":"Paydoo"
+    "en":"Paynt"
   }
 }
 ```  
