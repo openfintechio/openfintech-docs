@@ -83,6 +83,7 @@
 |![beonpaypayouts](https://static.openfintech.io/payment_providers/beonpaypayouts/logo.svg?w=600&c=v0.59.26#w100) |[**Beonpay Payouts**](beonpaypayouts/)|`beonpaypayouts`| 
 |![betatransfer](https://static.openfintech.io/payment_providers/betatransfer/logo.svg?w=600&c=v0.59.26#w100) |[**BetaTransfer**](betatransfer/)|`betatransfer`| 
 |![bilderlings](https://static.openfintech.io/payment_providers/bilderlings/logo.svg?w=600&c=v0.59.26#w100) |[**Bilderlings**](bilderlings/)|`bilderlings`| 
+|![billingcx](https://static.openfintech.io/payment_providers/billingcx/logo.svg?w=600&c=v0.59.26#w100) |[**Billing.CX**](billingcx/)|`billingcx`| 
 |![billingpartner](https://static.openfintech.io/payment_providers/billingpartner/logo.png?w=600&c=v0.59.26#w100) |[**BillingPartner**](billingpartner/)|`billingpartner`| 
 |![billingtree](https://static.openfintech.io/payment_providers/billingtree/logo.png?w=600&c=v0.59.26#w100) |[**BillingTree**](billingtree/)|`billingtree`| 
 |![billingunited](https://static.openfintech.io/payment_providers/billingunited/logo.svg?w=600&c=v0.59.26#w100) |[**Billing-United**](billingunited/)|`billingunited`| 

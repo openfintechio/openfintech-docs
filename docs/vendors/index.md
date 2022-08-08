@@ -236,6 +236,7 @@
 |![betraemoney](https://static.openfintech.io/vendors/betraemoney/logo.svg?w=600&c=v0.59.26#w200) |[**Betrae Money**](betraemoney/)|`betraemoney`| 
 |![bigconlinepayment](https://static.openfintech.io/vendors/bigconlinepayment/logo.png?w=600&c=v0.59.26#w200) |[**Big C**](bigconlinepayment/)|`bigconlinepayment`| 
 |![bilderlings](https://static.openfintech.io/vendors/bilderlings/logo.svg?w=600&c=v0.59.26#w200) |[**Bilderlings**](bilderlings/)|`bilderlings`| 
+|![billingcx](https://static.openfintech.io/vendors/billingcx/logo.svg?w=600&c=v0.59.26#w200) |[**Billing.CX**](billingcx/)|`billingcx`| 
 |![billingpartner](https://static.openfintech.io/vendors/billingpartner/logo.png?w=600&c=v0.59.26#w200) |[**BillingPartner**](billingpartner/)|`billingpartner`| 
 |![billingtree](https://static.openfintech.io/vendors/billingtree/logo.png?w=600&c=v0.59.26#w200) |[**BillingTree**](billingtree/)|`billingtree`| 
 |![billingunited](https://static.openfintech.io/vendors/billingunited/logo.png?w=600&c=v0.59.26#w200) |[**Billing-United**](billingunited/)|`billingunited`| 

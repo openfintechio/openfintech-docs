@@ -76,6 +76,7 @@ The list of [Payout Services](/payout-services/) based on the _Card_
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_clp](/payout-services/payment_card_clp/)|`payment_card_clp`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_brl](/payout-services/payment_card_brl/)|`payment_card_brl`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_idr](/payout-services/payment_card_idr/)|`payment_card_idr`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_mxn](/payout-services/payment_card_mxn/)|`payment_card_mxn`| 
  
 
 ## Payment Providers 
@@ -335,6 +336,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![revolut](https://static.openfintech.io/payment_providers/revolut/icon.png?w=278&c=v0.59.26#w100) |[Revolut](/payment-providers/revolut/)|`revolut`| 
 |![gateexpress](https://static.openfintech.io/payment_providers/gateexpress/icon.svg?w=278&c=v0.59.26#w100) |[Gate.Express](/payment-providers/gateexpress/)|`gateexpress`| 
 |![flexify](https://static.openfintech.io/payment_providers/flexify/icon.png?w=278&c=v0.59.26#w100) |[Flexify](/payment-providers/flexify/)|`flexify`| 
+|![billingcx](https://static.openfintech.io/payment_providers/billingcx/icon.svg?w=278&c=v0.59.26#w100) |[Billing.CX](/payment-providers/billingcx/)|`billingcx`| 
  
 
 ## JSON Object 
