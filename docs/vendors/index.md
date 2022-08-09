@@ -1316,6 +1316,7 @@
 |![payvector](https://static.openfintech.io/vendors/payvector/logo.png?w=600&c=v0.59.26#w200) |[**PayVector**](payvector/)|`payvector`| 
 |![payvision](https://static.openfintech.io/vendors/payvision/logo.png?w=600&c=v0.59.26#w200) |[**Payvision**](payvision/)|`payvision`| 
 |![payweb](https://static.openfintech.io/vendors/payweb/logo.svg?w=600&c=v0.59.26#w200) |[**PayWeb**](payweb/)|`payweb`| 
+|![paywise](https://static.openfintech.io/vendors/paywise/logo.png?w=600&c=v0.59.26#w200) |[**PayWise**](paywise/)|`paywise`| 
 |![paywiser](https://static.openfintech.io/vendors/paywiser/logo.png?w=600&c=v0.59.26#w200) |[**PayWiser**](paywiser/)|`paywiser`| 
 |![paywizard](https://static.openfintech.io/vendors/paywizard/logo.png?w=600&c=v0.59.26#w200) |[**PayWizard**](paywizard/)|`paywizard`| 
 |![payxpert](https://static.openfintech.io/vendors/payxpert/logo.png?w=600&c=v0.59.26#w200) |[**PayXpert**](payxpert/)|`payxpert`| 

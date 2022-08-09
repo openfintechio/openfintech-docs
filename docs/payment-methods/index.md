@@ -342,6 +342,7 @@
 |![paysbuy](https://static.openfintech.io/payment_methods/paysbuy/logo.png?w=400&c=v0.59.26#w200) |[**PAYSBUY**](paysbuy/)|`paysbuy`| 
 |![payshop](https://static.openfintech.io/payment_methods/payshop/logo.png?w=400&c=v0.59.26#w200) |[**Payshop**](payshop/)|`payshop`| 
 |![paytm](https://static.openfintech.io/payment_methods/paytm/logo.svg?w=400&c=v0.59.26#w200) |[**PAYTM Wallet**](paytm/)|`paytm`| 
+|![paywise_cash](https://static.openfintech.io/payment_methods/paywise_cash/logo.svg?w=400&c=v0.59.26#w200) |[**PayWise Cash transfer**](paywise_cash/)|`paywise_cash`| 
 |![payzippy](https://static.openfintech.io/payment_methods/payzippy/logo.png?w=400&c=v0.59.26#w200) |[**PayZippy**](payzippy/)|`payzippy`| 
 |![peela](https://static.openfintech.io/payment_methods/peela/logo.png?w=400&c=v0.59.26#w200) |[**Peela**](peela/)|`peela`| 
 |![perfectmoney](https://static.openfintech.io/payment_methods/perfectmoney/logo.png?w=400&c=v0.59.26#w200) |[**Perfect Money**](perfectmoney/)|`perfectmoney`| 
