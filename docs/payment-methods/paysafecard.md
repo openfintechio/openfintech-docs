@@ -56,6 +56,7 @@ The list of [Payment Services](/payment-services/) based on the _Paysafecard_
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard_pln_hpp](/payment-services/paysafecard_pln_hpp/)|`paysafecard_pln_hpp`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard_ron_hpp](/payment-services/paysafecard_ron_hpp/)|`paysafecard_ron_hpp`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard_sek_hpp](/payment-services/paysafecard_sek_hpp/)|`paysafecard_sek_hpp`| 
+|![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard_mxn_hpp](/payment-services/paysafecard_mxn_hpp/)|`paysafecard_mxn_hpp`| 
  
 
 ## Payment Providers 

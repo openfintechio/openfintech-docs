@@ -39,6 +39,7 @@ The list of [Payout Services](/payout-services/) based on the _Paysafecard_
 |![paysafecard](https://static.openfintech.io/payout_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w40) |[paysafecard_usd](/payout-services/paysafecard_usd/)|`paysafecard_usd`| 
 |![paysafecard](https://static.openfintech.io/payout_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w40) |[paysafecard_eur](/payout-services/paysafecard_eur/)|`paysafecard_eur`| 
 |![paysafecard](https://static.openfintech.io/payout_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w40) |[paysafecard_gbp](/payout-services/paysafecard_gbp/)|`paysafecard_gbp`| 
+|![paysafecard](https://static.openfintech.io/payout_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w40) |[paysafecard_mxn](/payout-services/paysafecard_mxn/)|`paysafecard_mxn`| 
  
 
 ## Payment Providers 
