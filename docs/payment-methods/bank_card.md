@@ -61,7 +61,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![paymega](https://static.openfintech.io/payment_providers/paymega/icon.svg?w=278&c=v0.59.26#w100) |[PayMega](/payment-providers/paymega/)|`paymega`| 
 |![walletone](https://static.openfintech.io/payment_providers/walletone/icon.svg?w=278&c=v0.59.26#w100) |[Wallet One](/payment-providers/walletone/)|`walletone`| 
 |![paymaster](https://static.openfintech.io/payment_providers/paymaster/icon.svg?w=278&c=v0.59.26#w100) |[Paymaster](/payment-providers/paymaster/)|`paymaster`| 
-|![advcash](https://static.openfintech.io/payment_providers/advcash/icon.svg?w=278&c=v0.59.26#w100) |[AdvCash](/payment-providers/advcash/)|`advcash`| 
+|![advcash](https://static.openfintech.io/payment_providers/advcash/icon.svg?w=278&c=v0.59.26#w100) |[Advcash](/payment-providers/advcash/)|`advcash`| 
  
 
 ## JSON Object 

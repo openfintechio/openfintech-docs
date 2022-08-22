@@ -271,7 +271,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![ikajo](https://static.openfintech.io/payment_providers/ikajo/icon.svg?w=278&c=v0.59.26#w100) |[Ikajo](/payment-providers/ikajo/)|`ikajo`| 
 |![getapay](https://static.openfintech.io/payment_providers/getapay/icon.svg?w=278&c=v0.59.26#w100) |[GetaPay](/payment-providers/getapay/)|`getapay`| 
 |![moneypay](https://static.openfintech.io/payment_providers/moneypay/icon.png?w=278&c=v0.59.26#w100) |[MoneyPay](/payment-providers/moneypay/)|`moneypay`| 
-|![changecoins](https://static.openfintech.io/payment_providers/changecoins/icon.png?w=278&c=v0.59.26#w100) |[ChangeCoins](/payment-providers/changecoins/)|`changecoins`| 
+|![changecoins](https://static.openfintech.io/payment_providers/changecoins/icon.png?w=278&c=v0.59.26#w100) |[Сhangecoins Pay](/payment-providers/changecoins/)|`changecoins`| 
 |![volt](https://static.openfintech.io/payment_providers/volt/icon.svg?w=278&c=v0.59.26#w100) |[VOLT](/payment-providers/volt/)|`volt`| 
 |![pmsolutions](https://static.openfintech.io/payment_providers/pmsolutions/icon.png?w=278&c=v0.59.26#w100) |[PMSolutions](/payment-providers/pmsolutions/)|`pmsolutions`| 
 |![reel](https://static.openfintech.io/payment_providers/reel/icon.png?w=278&c=v0.59.26#w100) |[REEL](/payment-providers/reel/)|`reel`| 

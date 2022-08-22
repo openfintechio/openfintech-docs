@@ -47,7 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Binance c
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![changecoins](https://static.openfintech.io/payment_providers/changecoins/icon.png?w=278&c=v0.59.26#w100) |[ChangeCoins](/payment-providers/changecoins/)|`changecoins`| 
+|![changecoins](https://static.openfintech.io/payment_providers/changecoins/icon.png?w=278&c=v0.59.26#w100) |[Сhangecoins Pay](/payment-providers/changecoins/)|`changecoins`| 
  
 
 ## JSON Object 

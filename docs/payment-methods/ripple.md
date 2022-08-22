@@ -45,7 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Ripple_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![advcash](https://static.openfintech.io/payment_providers/advcash/icon.svg?w=278&c=v0.59.26#w100) |[AdvCash](/payment-providers/advcash/)|`advcash`| 
+|![advcash](https://static.openfintech.io/payment_providers/advcash/icon.svg?w=278&c=v0.59.26#w100) |[Advcash](/payment-providers/advcash/)|`advcash`| 
 |![coinspaid](https://static.openfintech.io/payment_providers/coinspaid/icon.png?w=278&c=v0.59.26#w100) |[CoinsPaid](/payment-providers/coinspaid/)|`coinspaid`| 
  
 

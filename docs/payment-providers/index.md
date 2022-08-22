@@ -28,7 +28,7 @@
 |![adgroup](https://static.openfintech.io/payment_providers/adgroup/logo.svg?w=600&c=v0.59.26#w100) |[**ADgroup**](adgroup/)|`adgroup`| 
 |![admerispaymentsystems](https://static.openfintech.io/payment_providers/admerispaymentsystems/logo.svg?w=600&c=v0.59.26#w100) |[**Admeris Payment Systems**](admerispaymentsystems/)|`admerispaymentsystems`| 
 |![aduno](https://static.openfintech.io/payment_providers/aduno/logo.png?w=600&c=v0.59.26#w100) |[**Aduno**](aduno/)|`aduno`| 
-|![advcash](https://static.openfintech.io/payment_providers/advcash/logo.svg?w=600&c=v0.59.26#w100) |[**AdvCash**](advcash/)|`advcash`| 
+|![advcash](https://static.openfintech.io/payment_providers/advcash/logo.svg?w=600&c=v0.59.26#w100) |[**Advcash**](advcash/)|`advcash`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/logo.svg?w=600&c=v0.59.26#w100) |[**Adyen**](adyen/)|`adyen`| 
 |![africanpaymentsolutions](https://static.openfintech.io/payment_providers/africanpaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**African Payment Solutions**](africanpaymentsolutions/)|`africanpaymentsolutions`| 
 |![aibmerchantservices](https://static.openfintech.io/payment_providers/aibmerchantservices/logo.png?w=600&c=v0.59.26#w100) |[**AIB Merchant Services**](aibmerchantservices/)|`aibmerchantservices`| 
@@ -136,7 +136,7 @@
 |![ccvpay](https://static.openfintech.io/payment_providers/ccvpay/logo.png?w=600&c=v0.59.26#w100) |[**CCV Pay**](ccvpay/)|`ccvpay`| 
 |![centus](https://static.openfintech.io/payment_providers/centus/logo.png?w=600&c=v0.59.26#w100) |[**Centus**](centus/)|`centus`| 
 |![certusfinance](https://static.openfintech.io/payment_providers/certusfinance/logo.png?w=600&c=v0.59.26#w100) |[**Certus Finance**](certusfinance/)|`certusfinance`| 
-|![changecoins](https://static.openfintech.io/payment_providers/changecoins/logo.png?w=600&c=v0.59.26#w100) |[**ChangeCoins**](changecoins/)|`changecoins`| 
+|![changecoins](https://static.openfintech.io/payment_providers/changecoins/logo.png?w=600&c=v0.59.26#w100) |[**Сhangecoins Pay**](changecoins/)|`changecoins`| 
 |![chargemoney](https://static.openfintech.io/payment_providers/chargemoney/logo.png?w=600&c=v0.59.26#w100) |[**ChargeMoney**](chargemoney/)|`chargemoney`| 
 |![charityclear](https://static.openfintech.io/payment_providers/charityclear/logo.png?w=600&c=v0.59.26#w100) |[**CharityClear**](charityclear/)|`charityclear`| 
 |![chasepaymentech](https://static.openfintech.io/payment_providers/chasepaymentech/logo.png?w=600&c=v0.59.26#w100) |[**J.P. Morgan Commerce Solutions**](chasepaymentech/)|`chasepaymentech`| 

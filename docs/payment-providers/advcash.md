@@ -1,5 +1,5 @@
 
-# AdvCash 
+# Advcash 
 ![advcash](https://static.openfintech.io/payment_providers/advcash/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] AdvCash 
-:	[RU] AdvCash 
-:	[UK] AdvCash 
+:	[EN] Advcash 
+:	[RU] Advcash 
+:	[UK] Advcash 
  
 **Description:** 
  
@@ -116,9 +116,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"AdvCash",
-    "ru":"AdvCash",
-    "uk":"AdvCash"
+    "en":"Advcash",
+    "ru":"Advcash",
+    "uk":"Advcash"
   }
 }
 ```  
