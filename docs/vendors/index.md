@@ -806,6 +806,7 @@
 |![jambopay](https://static.openfintech.io/vendors/jambopay/logo.png?w=600&c=v0.59.26#w200) |[**Jambopay**](jambopay/)|`jambopay`| 
 |![jcb](https://static.openfintech.io/vendors/jcb/logo.png?w=600&c=v0.59.26#w200) |[**JCB**](jcb/)|`jcb`| 
 |![jeton](https://static.openfintech.io/vendors/jeton/logo.png?w=600&c=v0.59.26#w200) |[**Jeton**](jeton/)|`jeton`| 
+|![jetonlp](https://static.openfintech.io/vendors/jetonlp/logo.png?w=600&c=v0.59.26#w200) |[**JetonLP**](jetonlp/)|`jetonlp`| 
 |![jetpay](https://static.openfintech.io/vendors/jetpay/logo.png?w=600&c=v0.59.26#w200) |[**JetPay**](jetpay/)|`jetpay`| 
 |![judopayments](https://static.openfintech.io/vendors/judopayments/logo.png?w=600&c=v0.59.26#w200) |[**Judo Payments**](judopayments/)|`judopayments`| 
 |![junglepay](https://static.openfintech.io/vendors/junglepay/logo.png?w=600&c=v0.59.26#w200) |[**JunglePay**](junglepay/)|`junglepay`| 
