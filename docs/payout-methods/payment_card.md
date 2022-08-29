@@ -338,6 +338,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![gateexpress](https://static.openfintech.io/payment_providers/gateexpress/icon.svg?w=278&c=v0.59.26#w100) |[Gate.Express](/payment-providers/gateexpress/)|`gateexpress`| 
 |![flexify](https://static.openfintech.io/payment_providers/flexify/icon.png?w=278&c=v0.59.26#w100) |[Flexify](/payment-providers/flexify/)|`flexify`| 
 |![billingcx](https://static.openfintech.io/payment_providers/billingcx/icon.svg?w=278&c=v0.59.26#w100) |[Billing.CX](/payment-providers/billingcx/)|`billingcx`| 
+|![dectasoap](https://static.openfintech.io/payment_providers/dectasoap/icon.svg?w=278&c=v0.59.26#w100) |[DectaSoap](/payment-providers/dectasoap/)|`dectasoap`| 
  
 
 ## JSON Object 

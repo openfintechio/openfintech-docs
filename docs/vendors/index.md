@@ -425,6 +425,7 @@
 |![debitway](https://static.openfintech.io/vendors/debitway/logo.png?w=600&c=v0.59.26#w200) |[**DebitWay**](debitway/)|`debitway`| 
 |![decard](https://static.openfintech.io/vendors/decard/logo.svg?w=600&c=v0.59.26#w200) |[**Decard**](decard/)|`decard`| 
 |![decta](https://static.openfintech.io/vendors/decta/logo.svg?w=600&c=v0.59.26#w200) |[**Decta**](decta/)|`decta`| 
+|![dectasoap](https://static.openfintech.io/vendors/dectasoap/logo.svg?w=600&c=v0.59.26#w200) |[**DectaSoap**](dectasoap/)|`dectasoap`| 
 |![deltabank](https://static.openfintech.io/vendors/deltabank/logo.svg?w=600&c=v0.59.26#w200) |[**Дельта банк**](deltabank/)|`deltabank`| 
 |![deltabankkazahstan](https://static.openfintech.io/vendors/deltabankkazahstan/logo.svg?w=600&c=v0.59.26#w200) |[**DeltaBank (Казахстан)**](deltabankkazahstan/)|`deltabankkazahstan`| 
 |![demirbank](https://static.openfintech.io/vendors/demirbank/logo.svg?w=600&c=v0.59.26#w200) |[**DemirBank**](demirbank/)|`demirbank`| 
