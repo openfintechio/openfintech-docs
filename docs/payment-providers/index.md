@@ -380,6 +380,7 @@
 |![kvitum](https://static.openfintech.io/payment_providers/kvitum/logo.svg?w=600&c=v0.59.26#w100) |[**Kvitum**](kvitum/)|`kvitum`| 
 || **L** ||
 |![lateralpaymentsolutions](https://static.openfintech.io/payment_providers/lateralpaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Lateral Payment Solutions**](lateralpaymentsolutions/)|`lateralpaymentsolutions`| 
+|![lava](https://static.openfintech.io/payment_providers/lava/logo.svg?w=600&c=v0.59.26#w100) |[**Lava**](lava/)|`lava`| 
 |![lemonway](https://static.openfintech.io/payment_providers/lemonway/logo.png?w=600&c=v0.59.26#w100) |[**Lemon Way**](lemonway/)|`lemonway`| 
 |![leobank](https://static.openfintech.io/payment_providers/leobank/logo.png?w=600&c=v0.59.26#w100) |[**LeoBank**](leobank/)|`leobank`| 
 |![leogaming](https://static.openfintech.io/payment_providers/leogaming/logo.svg?w=600&c=v0.59.26#w100) |[**LeoGaming**](leogaming/)|`leogaming`| 
