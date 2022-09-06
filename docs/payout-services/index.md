@@ -476,6 +476,16 @@
 ||| **J** ||
 |![Jade Dynasty](https://static.openfintech.io/payout_methods/jade-dynasty/logo.png?w=400&c=v0.59.26#w24) |[**Jade Dynasty**](/payout-methods/jade-dynasty/)|[`jade-dynasty_uah`](jade-dynasty_uah/)|`UAH`| 
 |![JamzoNet (Lviv)](https://static.openfintech.io/payout_methods/jamzonet-m-lviv/logo.png?w=400&c=v0.59.26#w24) |[**JamzoNet (Lviv)**](/payout-methods/jamzonet-m-lviv/)|[`jamzonet-m-lviv_uah`](jamzonet-m-lviv_uah/)|`UAH`| 
+|![Jeton Wallet](https://static.openfintech.io/payout_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Jeton Wallet**](/payout-methods/jeton_wallet/)|[`jeton_wallet_cad`](jeton_wallet_cad/)|`CAD`| 
+|![Jeton Wallet](https://static.openfintech.io/payout_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Jeton Wallet**](/payout-methods/jeton_wallet/)|[`jeton_wallet_eur`](jeton_wallet_eur/)|`EUR`| 
+|![Jeton Wallet](https://static.openfintech.io/payout_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Jeton Wallet**](/payout-methods/jeton_wallet/)|[`jeton_wallet_gbp`](jeton_wallet_gbp/)|`GBP`| 
+|![Jeton Wallet](https://static.openfintech.io/payout_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Jeton Wallet**](/payout-methods/jeton_wallet/)|[`jeton_wallet_inr`](jeton_wallet_inr/)|`INR`| 
+|![Jeton Wallet](https://static.openfintech.io/payout_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Jeton Wallet**](/payout-methods/jeton_wallet/)|[`jeton_wallet_jpy`](jeton_wallet_jpy/)|`JPY`| 
+|![Jeton Wallet](https://static.openfintech.io/payout_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Jeton Wallet**](/payout-methods/jeton_wallet/)|[`jeton_wallet_nok`](jeton_wallet_nok/)|`NOK`| 
+|![Jeton Wallet](https://static.openfintech.io/payout_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Jeton Wallet**](/payout-methods/jeton_wallet/)|[`jeton_wallet_pln`](jeton_wallet_pln/)|`PLN`| 
+|![Jeton Wallet](https://static.openfintech.io/payout_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Jeton Wallet**](/payout-methods/jeton_wallet/)|[`jeton_wallet_sek`](jeton_wallet_sek/)|`SEK`| 
+|![Jeton Wallet](https://static.openfintech.io/payout_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Jeton Wallet**](/payout-methods/jeton_wallet/)|[`jeton_wallet_try`](jeton_wallet_try/)|`TRY`| 
+|![Jeton Wallet](https://static.openfintech.io/payout_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Jeton Wallet**](/payout-methods/jeton_wallet/)|[`jeton_wallet_usd`](jeton_wallet_usd/)|`USD`| 
 |![Jin Shang Commercial Bank](https://static.openfintech.io/payout_methods/jin_shang_commercial_bank/logo.png?w=400&c=v0.59.26#w24) |[**Jin Shang Commercial Bank**](/payout-methods/jin_shang_commercial_bank/)|[`jin_shang_commercial_bank_cny`](jin_shang_commercial_bank_cny/)|`CNY`| 
 ||| **K** ||
 |![Cabaret Coupon (Kiev)](https://static.openfintech.io/payout_methods/kabare-kupon-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Cabaret Coupon (Kiev)**](/payout-methods/kabare-kupon-kiev/)|[`kabare-kupon-kiev_uah`](kabare-kupon-kiev_uah/)|`UAH`| 

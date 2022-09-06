@@ -46,7 +46,6 @@ The list of [Payment Providers](/payment-providers/) that support the _PayPay_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![jeton](https://static.openfintech.io/payment_providers/jeton/icon.png?w=278&c=v0.59.26#w100) |[Jeton](/payment-providers/jeton/)|`jeton`| 
 |![jetonlp](https://static.openfintech.io/payment_providers/jetonlp/icon.png?w=278&c=v0.59.26#w100) |[JetonLP](/payment-providers/jetonlp/)|`jetonlp`| 
  
 

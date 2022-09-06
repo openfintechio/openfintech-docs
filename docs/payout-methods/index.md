@@ -474,6 +474,7 @@
 || **J** ||
 |![jade-dynasty](https://static.openfintech.io/payout_methods/jade-dynasty/logo.png?w=400&c=v0.59.26#w24) |[**Jade Dynasty**](jade-dynasty/)|`jade-dynasty`| 
 |![jamzonet-m-lviv](https://static.openfintech.io/payout_methods/jamzonet-m-lviv/logo.png?w=400&c=v0.59.26#w24) |[**JamzoNet (Lviv)**](jamzonet-m-lviv/)|`jamzonet-m-lviv`| 
+|![jeton_wallet](https://static.openfintech.io/payout_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Jeton Wallet**](jeton_wallet/)|`jeton_wallet`| 
 |![jin_shang_commercial_bank](https://static.openfintech.io/payout_methods/jin_shang_commercial_bank/logo.png?w=400&c=v0.59.26#w24) |[**Jin Shang Commercial Bank**](jin_shang_commercial_bank/)|`jin_shang_commercial_bank`| 
 || **K** ||
 |![kabare-kupon-kiev](https://static.openfintech.io/payout_methods/kabare-kupon-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Cabaret Coupon (Kiev)**](kabare-kupon-kiev/)|`kabare-kupon-kiev`| 
