@@ -37,6 +37,15 @@ https://static.openfintech.io/payment_methods/pagoefectivo/logo.png?w=400&c=v0.5
 https://static.openfintech.io/payment_methods/pagoefectivo/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _PagoEfectivo_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![pagoefectivo](https://static.openfintech.io/payment_methods/pagoefectivo/icon.png?w=278&c=v0.59.26#w100) |[pagoefectivo_pen_hpp](/payment-services/pagoefectivo_pen_hpp/)|`pagoefectivo_pen_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _PagoEfectivo_ 

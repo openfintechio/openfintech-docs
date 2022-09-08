@@ -1,15 +1,15 @@
 
 # Bank Transfer (service) 
-![bank_transfer_jpy_hpp](https://static.openfintech.io/payment_methods/bank_transfer_jpy_hpp/logo.svg?w=400&c=v0.59.26#w200)  
+![bank_transfer_eur_hpp](https://static.openfintech.io/payment_methods/bank_transfer_eur_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `bank_transfer_jpy_hpp` 
+**Code:** `bank_transfer_eur_hpp` 
  
 **Method:** `bank_transfer` 
  [show -->](/payment-methods/bank_transfer/) 
  
-**Currency:** `JPY` [show -->](/currencies/JPY/) 
+**Currency:** `EUR` [show -->](/currencies/EUR/) 
  
 **Name:** 
  
@@ -17,7 +17,7 @@
 :	[RU] Банковский перевод 
 :	[UK] Банківський переказ 
  
-**Amount limits:** from `1` to `10000000` JPY 
+**Amount limits:** from `1` to `100000` EUR 
 
 ## Fields 
 
@@ -186,10 +186,10 @@
 
 ```json
 {
-  "code":"bank_transfer_jpy_hpp",
+  "code":"bank_transfer_eur_hpp",
   "flow":"hpp",
   "method":"bank_transfer",
-  "currency":"JPY",
+  "currency":"EUR",
   "fields":[
     {
       "key":"payer_first_name",
@@ -336,6 +336,6 @@
     }
   ],
   "amount_min":1,
-  "amount_max":10000000
+  "amount_max":100000
 }
 ```  

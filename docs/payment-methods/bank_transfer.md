@@ -45,6 +45,8 @@ The list of [Payment Services](/payment-services/) based on the _Bank Transfer_
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_zar_hpp](/payment-services/bank_transfer_zar_hpp/)|`bank_transfer_zar_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_inr_hpp](/payment-services/bank_transfer_inr_hpp/)|`bank_transfer_inr_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_jpy_hpp](/payment-services/bank_transfer_jpy_hpp/)|`bank_transfer_jpy_hpp`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_eur_hpp](/payment-services/bank_transfer_eur_hpp/)|`bank_transfer_eur_hpp`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_clp_hpp](/payment-services/bank_transfer_clp_hpp/)|`bank_transfer_clp_hpp`| 
  
 
 ## Payment Providers 
