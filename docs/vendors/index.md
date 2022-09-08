@@ -43,6 +43,7 @@
 |![ab_porto_franko](https://static.openfintech.io/vendors/ab_porto_franko/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ АКЦІОНЕРНИЙ БАНК 'ПОРТО-ФРАНКО'**](ab_porto_franko/)|`ab_porto_franko`| 
 |![ab_ukoopspilka](https://static.openfintech.io/vendors/ab_ukoopspilka/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'АКЦІОНЕРНИЙ БАНК 'УКООПСПІЛКА'**](ab_ukoopspilka/)|`ab_ukoopspilka`| 
 |![abaqoos](https://static.openfintech.io/vendors/abaqoos/logo.png?w=600&c=v0.59.26#w200) |[**Abaqoos**](abaqoos/)|`abaqoos`| 
+|![abex](https://static.openfintech.io/vendors/abex/logo.svg?w=600&c=v0.59.26#w200) |[**Abex**](abex/)|`abex`| 
 |![abilipay](https://static.openfintech.io/vendors/abilipay/logo.png?w=600&c=v0.59.26#w200) |[**abilipay**](abilipay/)|`abilipay`| 
 |![about-payments](https://static.openfintech.io/vendors/about-payments/logo.svg?w=600&c=v0.59.26#w200) |[**About Payments**](about-payments/)|`about-payments`| 
 |![absolyutbank](https://static.openfintech.io/vendors/absolyutbank/logo.svg?w=600&c=v0.59.26#w200) |[**Абсолют Банк**](absolyutbank/)|`absolyutbank`| 
@@ -871,6 +872,7 @@
 |![lateralpaymentsolutions](https://static.openfintech.io/vendors/lateralpaymentsolutions/logo.png?w=600&c=v0.59.26#w200) |[**Lateral Payment Solutions**](lateralpaymentsolutions/)|`lateralpaymentsolutions`| 
 |![lava](https://static.openfintech.io/vendors/lava/logo.svg?w=600&c=v0.59.26#w200) |[**Lava**](lava/)|`lava`| 
 |![lavapay](https://static.openfintech.io/vendors/lavapay/logo.svg?w=600&c=v0.59.26#w200) |[**LavaPay**](lavapay/)|`lavapay`| 
+|![lemanpay](https://static.openfintech.io/vendors/lemanpay/logo.svg?w=600&c=v0.59.26#w200) |[**LemanPay**](lemanpay/)|`lemanpay`| 
 |![lemonway](https://static.openfintech.io/vendors/lemonway/logo.png?w=600&c=v0.59.26#w200) |[**Lemon Way**](lemonway/)|`lemonway`| 
 |![leobank](https://static.openfintech.io/vendors/leobank/logo.png?w=600&c=v0.59.26#w200) |[**LeoBank**](leobank/)|`leobank`| 
 |![leogaming](https://static.openfintech.io/vendors/leogaming/logo.svg?w=600&c=v0.59.26#w200) |[**leogaming**](leogaming/)|`leogaming`| 

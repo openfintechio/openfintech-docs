@@ -432,6 +432,7 @@
 |![MZN](https://static.openfintech.io/currencies/MZN/icon.svg?w=278&c=v0.59.26#w100) |[**Mozambican Metical**](MZN/)|`MZN`| 
 || **N** ||
 |![NAD](https://static.openfintech.io/currencies/NAD/icon.svg?w=278&c=v0.59.26#w100) |[**Namibian Dollar**](NAD/)|`NAD`| 
+|![NEAR](https://static.openfintech.io/currencies/NEAR/icon.svg?w=278&c=v0.59.26#w100) |[**NEAR**](NEAR/)|`NEAR`| 
 |![NEOS](https://static.openfintech.io/currencies/NEOS/icon.svg?w=278&c=v0.59.26#w100) |[**NEOS**](NEOS/)|`NEOS`| 
 |![NGN](https://static.openfintech.io/currencies/NGN/icon.svg?w=278&c=v0.59.26#w100) |[**Nigerian Naira**](NGN/)|`NGN`| 
 |![NIO](https://static.openfintech.io/currencies/NIO/icon.svg?w=278&c=v0.59.26#w100) |[**Nicaraguan Córdoba**](NIO/)|`NIO`| 
@@ -631,6 +632,7 @@
 |![TOP](https://static.openfintech.io/currencies/TOP/icon.svg?w=278&c=v0.59.26#w100) |[**Tongan Paʻanga**](TOP/)|`TOP`| 
 |![TRBRUB](https://static.openfintech.io/currencies/TRBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**TRBRUB**](TRBRUB/)|`TRBRUB`| 
 |![TRPEUR](https://static.openfintech.io/currencies/TRPEUR/icon.svg?w=278&c=v0.59.26#w100) |[**TRPEUR**](TRPEUR/)|`TRPEUR`| 
+|![TRX](https://static.openfintech.io/currencies/TRX/icon.svg?w=278&c=v0.59.26#w100) |[**TRX**](TRX/)|`TRX`| 
 |![TRY](https://static.openfintech.io/currencies/TRY/icon.svg?w=278&c=v0.59.26#w100) |[**Turkish Lira**](TRY/)|`TRY`| 
 |![TSNBKZT](https://static.openfintech.io/currencies/TSNBKZT/icon.svg?w=278&c=v0.59.26#w100) |[**TSNBKZT**](TSNBKZT/)|`TSNBKZT`| 
 |![TTD](https://static.openfintech.io/currencies/TTD/icon.svg?w=278&c=v0.59.26#w100) |[**Trinidad and Tobago Dollar**](TTD/)|`TTD`| 
@@ -654,6 +656,7 @@
 |![USBRUB](https://static.openfintech.io/currencies/USBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**USBRUB**](USBRUB/)|`USBRUB`| 
 |![USBUAH](https://static.openfintech.io/currencies/USBUAH/icon.svg?w=278&c=v0.59.26#w100) |[**USBUAH**](USBUAH/)|`USBUAH`| 
 |![USD](https://static.openfintech.io/currencies/USD/icon.svg?w=278&c=v0.59.26#w100) |[**US Dollar**](USD/)|`USD`| 
+|![USDC](https://static.openfintech.io/currencies/USDC/icon.svg?w=278&c=v0.59.26#w100) |[**USDC**](USDC/)|`USDC`| 
 |![USDT](https://static.openfintech.io/currencies/USDT/icon.svg?w=278&c=v0.59.26#w100) |[**USDT**](USDT/)|`USDT`| 
 |![USN](https://static.openfintech.io/currencies/USN/icon.svg?w=278&c=v0.59.26#w100) |[**US Dollar (Next day)**](USN/)|`USN`| 
 |![USTMEUR](https://static.openfintech.io/currencies/USTMEUR/icon.svg?w=278&c=v0.59.26#w100) |[**USTMEUR**](USTMEUR/)|`USTMEUR`| 

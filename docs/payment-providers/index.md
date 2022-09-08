@@ -21,6 +21,7 @@
 || **9** ||
 |![99bill](https://static.openfintech.io/payment_providers/99bill/logo.png?w=600&c=v0.59.26#w100) |[**99bill.com**](99bill/)|`99bill`| 
 || **A** ||
+|![abex](https://static.openfintech.io/payment_providers/abex/logo.svg?w=600&c=v0.59.26#w100) |[**Abex**](abex/)|`abex`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/logo.png?w=600&c=v0.59.26#w100) |[**abilipay**](abilipay/)|`abilipay`| 
 |![acapture](https://static.openfintech.io/payment_providers/acapture/logo.png?w=600&c=v0.59.26#w100) |[**Acapture**](acapture/)|`acapture`| 
 |![accentpay](https://static.openfintech.io/payment_providers/accentpay/logo.png?w=600&c=v0.59.26#w100) |[**Accentpay**](accentpay/)|`accentpay`| 
@@ -381,6 +382,7 @@
 || **L** ||
 |![lateralpaymentsolutions](https://static.openfintech.io/payment_providers/lateralpaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Lateral Payment Solutions**](lateralpaymentsolutions/)|`lateralpaymentsolutions`| 
 |![lava](https://static.openfintech.io/payment_providers/lava/logo.svg?w=600&c=v0.59.26#w100) |[**Lava**](lava/)|`lava`| 
+|![lemanpay](https://static.openfintech.io/payment_providers/lemanpay/logo.svg?w=600&c=v0.59.26#w100) |[**LemanPay**](lemanpay/)|`lemanpay`| 
 |![lemonway](https://static.openfintech.io/payment_providers/lemonway/logo.png?w=600&c=v0.59.26#w100) |[**Lemon Way**](lemonway/)|`lemonway`| 
 |![leobank](https://static.openfintech.io/payment_providers/leobank/logo.png?w=600&c=v0.59.26#w100) |[**LeoBank**](leobank/)|`leobank`| 
 |![leogaming](https://static.openfintech.io/payment_providers/leogaming/logo.svg?w=600&c=v0.59.26#w100) |[**LeoGaming**](leogaming/)|`leogaming`| 
