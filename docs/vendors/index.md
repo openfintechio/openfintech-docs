@@ -399,6 +399,7 @@
 |![corefy](https://static.openfintech.io/vendors/corefy/logo.svg?w=600&c=v0.59.26#w200) |[**Corefy**](corefy/)|`corefy`| 
 |![corvuspay](https://static.openfintech.io/vendors/corvuspay/logo.png?w=600&c=v0.59.26#w200) |[**CorvusPay**](corvuspay/)|`corvuspay`| 
 |![cps](https://static.openfintech.io/vendors/cps/logo.png?w=600&c=v0.59.26#w200) |[**CPS**](cps/)|`cps`| 
+|![crederes](https://static.openfintech.io/vendors/crederes/logo.svg?w=600&c=v0.59.26#w200) |[**Crederes**](crederes/)|`crederes`| 
 |![creditagricole](https://static.openfintech.io/vendors/creditagricole/logo.png?w=600&c=v0.59.26#w200) |[**Crédit Agricole**](creditagricole/)|`creditagricole`| 
 |![creditcall](https://static.openfintech.io/vendors/creditcall/logo.png?w=600&c=v0.59.26#w200) |[**Creditcall**](creditcall/)|`creditcall`| 
 |![credorax](https://static.openfintech.io/vendors/credorax/logo.png?w=600&c=v0.59.26#w200) |[**Credorax**](credorax/)|`credorax`| 
@@ -1287,6 +1288,7 @@
 |![paypoint](https://static.openfintech.io/vendors/paypoint/logo.png?w=600&c=v0.59.26#w200) |[**PayPoint**](paypoint/)|`paypoint`| 
 |![paypound](https://static.openfintech.io/vendors/paypound/logo.png?w=600&c=v0.59.26#w200) |[**PayPound**](paypound/)|`paypound`| 
 |![paypro](https://static.openfintech.io/vendors/paypro/logo.png?w=600&c=v0.59.26#w200) |[**PayPro**](paypro/)|`paypro`| 
+|![payproglobal](https://static.openfintech.io/vendors/payproglobal/logo.svg?w=600&c=v0.59.26#w200) |[**PayPro Global**](payproglobal/)|`payproglobal`| 
 |![paypunto](https://static.openfintech.io/vendors/paypunto/logo.png?w=600&c=v0.59.26#w200) |[**PayPunto**](paypunto/)|`paypunto`| 
 |![payretailers](https://static.openfintech.io/vendors/payretailers/logo.svg?w=600&c=v0.59.26#w200) |[**PayRetailers**](payretailers/)|`payretailers`| 
 |![payrexx](https://static.openfintech.io/vendors/payrexx/logo.png?w=600&c=v0.59.26#w200) |[**Payrexx Payments**](payrexx/)|`payrexx`| 
