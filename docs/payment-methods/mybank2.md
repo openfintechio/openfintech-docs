@@ -15,7 +15,7 @@
  
 : [EN] MyBank is the pan-European e-payments solution that enables shoppers to pay using their trusted home banking environment or give merchants permission to debit their bank account. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -69,6 +69,6 @@ The list of [Payment Providers](/payment-providers/) that support the _MyBank_
   "countries":[
     "IT"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

@@ -15,7 +15,7 @@
  
 : [EN] Bradesco Comércio Eletrônico is the online bank transfer payment solution of Bradesco, one of the leading banks in Brazil. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 
 ## Images 
@@ -57,6 +57,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Bradesco 
     "en":"Bradesco Com\u00e9rcio Eletr\u00f4nico is the online bank transfer payment solution of Bradesco, one of the leading banks in Brazil."
   },
   "countries":null,
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

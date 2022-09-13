@@ -15,7 +15,7 @@
  
 : [EN] ProvinciaPagos is the online banking service of the Grupo Provincia in Argentina. ProvinciaPagos allows online shoppers to use their online banking system to complete their online purchases. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -61,6 +61,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Provincia
   "countries":[
     "AR"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

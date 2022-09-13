@@ -11,7 +11,7 @@
  
 :	[EN] Astropay - Manual Bank Transfer 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -67,6 +67,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Astropay 
     "CN",
     "CO"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

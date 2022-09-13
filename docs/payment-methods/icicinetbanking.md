@@ -15,7 +15,7 @@
  
 : [EN] ICICI netbanking in India allows its bank customers to use the bank's home banking to pay for online purchases. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -64,6 +64,6 @@ The list of [Payment Providers](/payment-providers/) that support the _ICICI net
   "countries":[
     "IN"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

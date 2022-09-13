@@ -11,7 +11,7 @@
  
 :	[EN] Banco do Brasil 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 
 ## Images 
@@ -41,6 +41,6 @@ https://static.openfintech.io/payment_methods/bancodobrasil/icon.svg?w=278&c=v0.
   },
   "description":null,
   "countries":null,
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

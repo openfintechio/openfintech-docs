@@ -15,7 +15,7 @@
  
 : [EN] giropay is one of the popular online payment methods in Germany. giropay enables German consumers to pay online using their trusted online banking account. Merchants receive instant confirmation and are guaranteed of payment.  
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -96,6 +96,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Giropay_
   "countries":[
     "DE"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

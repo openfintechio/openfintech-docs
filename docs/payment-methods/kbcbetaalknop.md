@@ -15,7 +15,7 @@
  
 : [EN] KBC Online and CBC online is a secure payment system exclusively for clients of KBC and CBC Banks. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -67,6 +67,6 @@ The list of [Payment Providers](/payment-providers/) that support the _KBC / CBC
   "countries":[
     "BE"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

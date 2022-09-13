@@ -11,7 +11,7 @@
  
 :	[EN] Red Compra 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -46,6 +46,6 @@ https://static.openfintech.io/payment_methods/redcompra/icon.svg?w=278&c=v0.59.2
   "countries":[
     "CL"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

@@ -15,7 +15,7 @@
  
 : [EN] MoneyMail allows Russian shoppers to send their money through their nationwide bank network. MoneyMail users can pay by making bank deposits by using several payment systems, card and cash payments. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 
 ## Images 
@@ -56,6 +56,6 @@ The list of [Payment Providers](/payment-providers/) that support the _MoneyMail
     "en":"MoneyMail allows Russian shoppers to send their money through their nationwide bank network. MoneyMail users can pay by making bank deposits by using several payment systems, card and cash payments."
   },
   "countries":null,
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

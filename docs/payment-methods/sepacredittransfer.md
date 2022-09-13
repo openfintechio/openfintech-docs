@@ -15,7 +15,7 @@
  
 : [EN] The SEPA Credit Transfer (SCT) allows consumers to pay for their goods and services by using their euro bank account to transfer money directly to the merchants' bank account. Both the consumer and merchant should be domiciled within the SEPA (eurozone) region. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -123,6 +123,6 @@ The list of [Payment Providers](/payment-providers/) that support the _SEPA Cred
     "SJ",
     "SE"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

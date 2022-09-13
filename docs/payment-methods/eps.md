@@ -15,7 +15,7 @@
  
 : [EN] The eps e-payment standard is the interface into online payment systems of Austrian Banks for irrevocable payments, adopted by Internet-Shops as well 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 
 ## Images 
@@ -83,6 +83,6 @@ The list of [Payment Providers](/payment-providers/) that support the _eps e-pay
     "en":"The eps e-payment standard is the interface into online payment systems of Austrian Banks for irrevocable payments, adopted by Internet-Shops as well"
   },
   "countries":null,
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

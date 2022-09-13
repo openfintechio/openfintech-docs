@@ -15,7 +15,7 @@
  
 : [EN] The KasikornThai or Kbank net banking service allows its customers to pay online from their internet banking application.  
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -63,6 +63,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Kbank net
   "countries":[
     "TH"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

@@ -15,7 +15,7 @@
  
 : [EN] Euteller is a privately held payment service provider enabling consumers to make direct payment using online bank account. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 
 ## Images 
@@ -57,6 +57,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Euteller_
     "en":"Euteller is a privately held payment service provider enabling consumers to make direct payment using online bank account."
   },
   "countries":null,
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

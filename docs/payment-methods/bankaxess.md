@@ -15,7 +15,7 @@
  
 : [EN] Bankaxess in Norway enables online shoppers to use online banking to complete their internet purchases. Consumers are redirected to their trusted bank environment to initiate an online bank transfer. 18 Norwegian banks support Bankaxess. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -62,6 +62,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Bankaxess
   "countries":[
     "NO"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

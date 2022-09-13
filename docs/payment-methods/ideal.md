@@ -15,7 +15,7 @@
  
 : [EN] iDEAL is a standardised payment method for making secure online payments directly between bank accounts in The Netherlands. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -106,6 +106,6 @@ The list of [Payment Providers](/payment-providers/) that support the _iDEAL_
   "countries":[
     "NL"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

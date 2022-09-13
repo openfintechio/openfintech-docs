@@ -11,7 +11,7 @@
  
 :	[EN] BDO Over-The-Counter 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -56,6 +56,6 @@ The list of [Payment Providers](/payment-providers/) that support the _BDO Over-
   "countries":[
     "PH"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

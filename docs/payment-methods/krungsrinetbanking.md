@@ -15,7 +15,7 @@
  
 : [EN] Krungsri netbanking allows its banking customers to use its internet banking application for online purchases. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -63,6 +63,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Krungsri 
   "countries":[
     "TH"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

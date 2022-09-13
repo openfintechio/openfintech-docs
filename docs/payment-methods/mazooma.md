@@ -15,7 +15,7 @@
  
 : [EN] Mazooma is a payment solution for online commerce in the U.S., connecting online shoppers directly to their online bank account for a safe checkout for both consumer and merchant. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 
 ## Images 
@@ -58,6 +58,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Mazooma_
     "en":"Mazooma is a payment solution for online commerce in the U.S., connecting online shoppers directly to their online bank account for a safe checkout for both consumer and merchant."
   },
   "countries":null,
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

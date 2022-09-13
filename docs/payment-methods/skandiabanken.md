@@ -15,7 +15,7 @@
  
 : [EN] Skandiabanken enables its banking customers to use online bank transfers for their online purchases. Merchants benefit from payment guarantee and swift settlement. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -61,6 +61,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Skandiaba
   "countries":[
     "SE"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

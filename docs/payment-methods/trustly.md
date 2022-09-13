@@ -15,7 +15,7 @@
  
 : [EN] Trustly makes paying directly from your online bank account as fast, simple and secure as sliding cash across the counter. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -109,6 +109,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Trustly_
     "SE",
     "AE"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

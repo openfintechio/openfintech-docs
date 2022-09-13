@@ -15,7 +15,7 @@
  
 : [EN] PostPay is a secure eCommerce solution that links your customer's payment to the delivery of their parcel, giving them the confidence to buy online from you. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -66,6 +66,6 @@ The list of [Payment Providers](/payment-providers/) that support the _PostPay_
   "countries":[
     "AU"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

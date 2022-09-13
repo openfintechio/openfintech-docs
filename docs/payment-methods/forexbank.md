@@ -15,7 +15,7 @@
  
 : [EN] Forex Bank in Sweden supports online bank transfers as payment method for ecommerce purchases. Consumers use their trusted home banking environment, merchants benefit from payment guarantee and swift settlement. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -61,6 +61,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Forex Ban
   "countries":[
     "SE"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

@@ -15,7 +15,7 @@
  
 : [EN] VÚB Banka in Slovakia enables its banking clients to shop online using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -61,6 +61,6 @@ The list of [Payment Providers](/payment-providers/) that support the _VÚB Bank
   "countries":[
     "SK"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

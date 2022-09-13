@@ -15,7 +15,7 @@
  
 : [EN] Thai Military Bank netbanking allows its banking customers to use its home banking application for online purchases. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -62,6 +62,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Thai Mili
   "countries":[
     "TH"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

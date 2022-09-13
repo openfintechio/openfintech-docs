@@ -494,6 +494,7 @@
 |![payecardsakurateco](https://static.openfintech.io/payment_providers/payecardsakurateco/logo.png?w=600&c=v0.59.26#w100) |[**PayeCards Akurateco**](payecardsakurateco/)|`payecardsakurateco`| 
 |![payeer](https://static.openfintech.io/payment_providers/payeer/logo.svg?w=600&c=v0.59.26#w100) |[**Payeer**](payeer/)|`payeer`| 
 |![payelata](https://static.openfintech.io/payment_providers/payelata/logo.svg?w=600&c=v0.59.26#w100) |[**Payelata**](payelata/)|`payelata`| 
+|![payes](https://static.openfintech.io/payment_providers/payes/logo.png?w=600&c=v0.59.26#w100) |[**Payes**](payes/)|`payes`| 
 |![payex](https://static.openfintech.io/payment_providers/payex/logo.png?w=600&c=v0.59.26#w100) |[**PayEx**](payex/)|`payex`| 
 |![payfast](https://static.openfintech.io/payment_providers/payfast/logo.png?w=600&c=v0.59.26#w100) |[**PayFast**](payfast/)|`payfast`| 
 |![payfort](https://static.openfintech.io/payment_providers/payfort/logo.png?w=600&c=v0.59.26#w100) |[**PayFort**](payfort/)|`payfort`| 

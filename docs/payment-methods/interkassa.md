@@ -11,7 +11,7 @@
 :	[RU] Интеркасса 
 :	[UK] Інтеркасса 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 
 ## Images 
@@ -60,6 +60,6 @@ The list of [Payment Services](/payment-services/) based on the _Interkassa_
   },
   "description":null,
   "countries":null,
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

@@ -15,7 +15,7 @@
  
 : [EN] MultiTransfer is the name for the online bank transfer service of MultiBank in Poland. MultiTransfer allows online shoppers to pay for online goods and services using their trusted home banking environment. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -62,6 +62,6 @@ The list of [Payment Providers](/payment-providers/) that support the _MultiTran
   "countries":[
     "AX"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

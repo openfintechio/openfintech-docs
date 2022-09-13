@@ -15,7 +15,7 @@
  
 : [EN] Bangkok Bank netbanking allows its banking customers to use its internet banking application for online purchases. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -64,6 +64,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Bangkok B
     "PH",
     "TH"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

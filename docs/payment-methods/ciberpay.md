@@ -15,7 +15,7 @@
  
 : [EN] Ciber Pay (Russia) allows online shoppers to pay offline with cash at designated Ciber Pay payment terminals. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 
 ## Images 
@@ -56,6 +56,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Ciber Pay
     "en":"Ciber Pay (Russia) allows online shoppers to pay offline with cash at designated Ciber Pay payment terminals."
   },
   "countries":null,
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

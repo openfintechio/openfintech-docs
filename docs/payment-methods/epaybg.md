@@ -11,7 +11,7 @@
  
 :	[EN] ePay.bg 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -64,6 +64,6 @@ The list of [Payment Providers](/payment-providers/) that support the _ePay.bg_
   "countries":[
     "BG"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

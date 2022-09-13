@@ -2438,10 +2438,10 @@
 |Distribution|`distribution`| 
 |Entertainment|`entertainment`| 
 |Financial Services|`financial-services`| 
-|Internet-banking|`internet_banking`| 
 |Invoice payment|`invoice_payment`| 
 |Mobile carrier billing|`mobile_carrier_billing`| 
 |Mobile payment|`mobile_payment`| 
+|Online-banking|`online_banking`| 
 |Other services|`others`| 
 |Payment card|`payment_card`| 
 |Prepaid card|`prepaid_card`| 

@@ -15,7 +15,7 @@
  
 : [EN] Przelewy24 is a secure and fast online bank transfer service linked to all the major banks in Poland. To start using Przelewy24 you must have access t 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 
 ## Images 
@@ -83,6 +83,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Przelewy2
     "en":"Przelewy24 is a secure and fast online bank transfer service linked to all the major banks in Poland. To start using Przelewy24 you must have access t"
   },
   "countries":null,
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

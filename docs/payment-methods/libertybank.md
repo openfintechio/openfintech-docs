@@ -11,7 +11,7 @@
 :	[RU] Либерти Банк 
 :	[UK] Ліберті Банк 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 
 ## Images 
@@ -43,6 +43,6 @@ https://static.openfintech.io/payment_methods/libertybank/icon.png?w=278&c=v0.59
   },
   "description":null,
   "countries":null,
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

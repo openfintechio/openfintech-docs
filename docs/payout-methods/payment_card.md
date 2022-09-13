@@ -342,6 +342,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![lemanpay](https://static.openfintech.io/payment_providers/lemanpay/icon.svg?w=278&c=v0.59.26#w100) |[LemanPay](/payment-providers/lemanpay/)|`lemanpay`| 
 |![finhub](https://static.openfintech.io/payment_providers/finhub/icon.png?w=278&c=v0.59.26#w100) |[FinHub](/payment-providers/finhub/)|`finhub`| 
 |![crederes](https://static.openfintech.io/payment_providers/crederes/icon.svg?w=278&c=v0.59.26#w100) |[Crederes](/payment-providers/crederes/)|`crederes`| 
+|![payes](https://static.openfintech.io/payment_providers/payes/icon.png?w=278&c=v0.59.26#w100) |[Payes](/payment-providers/payes/)|`payes`| 
  
 
 ## JSON Object 

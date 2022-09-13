@@ -15,7 +15,7 @@
  
 : [EN] La Caixa in Spain enables its customers to shop online using online bank transfers as payment method. Consumers use their trusted home banking environment, merchants benefit from payment guarantee and swift settlement.  
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -62,6 +62,6 @@ The list of [Payment Providers](/payment-providers/) that support the _La Caixa_
   "countries":[
     "ES"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

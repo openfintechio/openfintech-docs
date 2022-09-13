@@ -15,7 +15,7 @@
  
 : [EN] SOFORT, a Klarna Group Company, is a Pan-European direct online payment method. Customers simply pay using their familiar online banking details with a maximum level of security. Thanks to the real-time transaction notification it is possible to dispatch the order immediately. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -100,6 +100,6 @@ The list of [Payment Providers](/payment-providers/) that support the _SOFORT, a
     "CH",
     "AE"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

@@ -15,7 +15,7 @@
  
 : [EN] eNETS Direct Debit allows shoppers to pay from their secure internet banking application. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -64,6 +64,6 @@ The list of [Payment Providers](/payment-providers/) that support the _eNETS Dir
   "countries":[
     "SG"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

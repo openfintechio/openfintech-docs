@@ -15,7 +15,7 @@
  
 : [EN] INTERAC Online allows Canadian shoppers to pay for goods and services online, directly from their trusted online bank environment. Merchants benefit from secure and immediate debit payments with relatively low transaction costs. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -74,6 +74,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Interac O
   "countries":[
     "CA"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

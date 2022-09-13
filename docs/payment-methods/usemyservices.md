@@ -15,7 +15,7 @@
  
 : [EN] UseMyServices makes it easier for consumers to pay for goods and services online by enabling payments directly from their trusted bank account. Worldwide. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 
 ## Images 
@@ -57,6 +57,6 @@ The list of [Payment Providers](/payment-providers/) that support the _UseMyServ
     "en":"UseMyServices makes it easier for consumers to pay for goods and services online by enabling payments directly from their trusted bank account. Worldwide."
   },
   "countries":null,
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

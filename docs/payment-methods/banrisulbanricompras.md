@@ -15,7 +15,7 @@
  
 : [EN] Banrisul Banricompras is the online bank transfer payment solution of Banrisul, one of the leading banks in Brazil.  
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 
 ## Images 
@@ -56,6 +56,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Banrisul 
     "en":"Banrisul Banricompras is the online bank transfer payment solution of Banrisul, one of the leading banks in Brazil. "
   },
   "countries":null,
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

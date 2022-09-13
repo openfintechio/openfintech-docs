@@ -15,7 +15,7 @@
  
 : [EN] PostFinance payment methods. Secure and economical 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -64,6 +64,6 @@ The list of [Payment Providers](/payment-providers/) that support the _PostFinan
   "countries":[
     "CH"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

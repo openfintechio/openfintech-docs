@@ -15,7 +15,7 @@
  
 : [EN] Belfius Direct Net is an online banking solution from Belfius, a leading bank in Belgium. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -64,6 +64,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Belfius D
   "countries":[
     "BE"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

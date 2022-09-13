@@ -15,7 +15,7 @@
  
 : [EN] Account2Account offers an alternative to accepting credit cards online. It is designed for merchants to accept online payments directly into their bank account in real time. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -64,6 +64,6 @@ The list of [Payment Providers](/payment-providers/) that support the _account2a
     "AU",
     "NZ"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

@@ -11,7 +11,7 @@
 :	[RU] Interac Online 
 :	[UK] Interac Online 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 
 ## Images 
@@ -65,6 +65,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Interac O
   },
   "description":null,
   "countries":null,
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

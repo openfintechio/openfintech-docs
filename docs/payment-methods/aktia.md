@@ -15,7 +15,7 @@
  
 : [EN] Aktia enables their customers to use online banking to complete online purchases. Consumers are redirected to their trusted bank environment to initiate a bank transfer. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -65,6 +65,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Aktia_
   "countries":[
     "FJ"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

@@ -15,7 +15,7 @@
  
 : [EN] Wire transfer or credit transfer is a method of electronic funds transfer from one person or institution (entity) to another. A wire transfer can be made from one bank account to another bank account or through a transfer of cash at a cash office. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 
 ## Images 
@@ -77,6 +77,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Wire Tran
     "en":"Wire transfer\u00a0or\u00a0credit transfer\u00a0is a method of\u00a0electronic funds transfer\u00a0from one person or institution (entity) to another. A wire transfer can be made from one bank account to another bank account or through a transfer of cash at a cash office."
   },
   "countries":null,
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

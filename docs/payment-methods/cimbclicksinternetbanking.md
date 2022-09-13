@@ -15,7 +15,7 @@
  
 : [EN] CIMB Clicks is an internet banking service allowing shoppers to pay online through their home banking application.  
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -67,6 +67,6 @@ The list of [Payment Providers](/payment-providers/) that support the _CIMBClick
     "SG",
     "TH"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

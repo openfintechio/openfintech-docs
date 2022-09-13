@@ -11,7 +11,7 @@
  
 :	[EN] paydirekt 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -55,6 +55,6 @@ The list of [Payment Providers](/payment-providers/) that support the _paydirekt
   "countries":[
     "DE"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

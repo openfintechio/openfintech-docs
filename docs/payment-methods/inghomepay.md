@@ -15,7 +15,7 @@
  
 : [EN] With ING's Home'Pay you do not even need a credit card to pay for your online purchases. Just pay via the secured Home'Bank connection!   
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -66,6 +66,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Home'Pay_
   "countries":[
     "BE"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

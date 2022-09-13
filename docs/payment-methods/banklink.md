@@ -15,7 +15,7 @@
  
 : [EN] Bank Link is the safest and the most advanced Internet payment system for online shopping. Payment for online purchases is effected via  Swedbank Internet Banking, system which is the safest and most rapid means of payment and excludes malicious use of the submitted information (paying by settl 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -64,6 +64,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Link
   "countries":[
     "LV"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

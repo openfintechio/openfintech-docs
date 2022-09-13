@@ -15,7 +15,7 @@
  
 : [EN] PagoRapido is a popular Italian online payment method enabling Italian consumers to make online payments directly from their bank account. PagoRapido payments are guaranteed to merchants. 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 
 ## Images 
@@ -60,6 +60,6 @@ The list of [Payment Providers](/payment-providers/) that support the _PagoRapid
     "en":"PagoRapido is a popular Italian online payment method enabling Italian consumers to make online payments directly from their bank account. PagoRapido payments are guaranteed to merchants."
   },
   "countries":null,
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

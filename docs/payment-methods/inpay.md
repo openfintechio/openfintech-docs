@@ -15,7 +15,7 @@
  
 : [EN] Founded in 2007, inpay's vision is to become the preferred provider of real-time online bank payment solutions for internet retailers worldwide. inpay 
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 
 ## Images 
@@ -56,6 +56,6 @@ The list of [Payment Providers](/payment-providers/) that support the _inpay_
     "en":"Founded in 2007, inpay's vision is to become the preferred provider of real-time online bank payment solutions for internet retailers worldwide. inpay"
   },
   "countries":null,
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  

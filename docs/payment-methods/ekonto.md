@@ -15,7 +15,7 @@
  
 : [EN] eKonto is a type of a bank account available through Raiffeisen Bank in the Czech Republic and Slovakia. This type of method of payment is definitely  
  
-**Category:** `internet_banking` 
+**Category:** `online_banking` 
  
 **Countries:** 
  
@@ -65,6 +65,6 @@ The list of [Payment Providers](/payment-providers/) that support the _eKonto_
     "CZ",
     "SK"
   ],
-  "category":"internet_banking"
+  "category":"online_banking"
 }
 ```  
