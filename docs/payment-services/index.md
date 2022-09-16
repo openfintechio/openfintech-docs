@@ -363,6 +363,8 @@
 ||| **O** ||
 |![Ola Money Wallet](https://static.openfintech.io/payment_methods/olamoney/logo.png?w=400&c=v0.59.26#w200) |[**Ola Money Wallet**](/payment-methods/olamoney/)|[`olamoney_inr_hpp`](olamoney_inr_hpp/)| 
 |![Online Banking QR](https://static.openfintech.io/payment_methods/online_banking_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking QR**](/payment-methods/online_banking_qr/)|[`online_banking_qr_try_hpp`](online_banking_qr_try_hpp/)| 
+|![Online Banking QR](https://static.openfintech.io/payment_methods/online_banking_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking QR**](/payment-methods/online_banking_qr/)|[`online_banking_qr_vnd_hpp`](online_banking_qr_vnd_hpp/)| 
+|![Online Banking](https://static.openfintech.io/payment_methods/online_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking**](/payment-methods/online_banking/)|[`online_banking_vnd_hpp`](online_banking_vnd_hpp/)| 
 |![Oriental Bank Of Commerce](https://static.openfintech.io/payment_methods/oriental_bank_of_commerce/logo.png?w=400&c=v0.59.26#w200) |[**Oriental Bank Of Commerce**](/payment-methods/oriental_bank_of_commerce/)|[`oriental_bank_of_commerce_inr_hpp`](oriental_bank_of_commerce_inr_hpp/)| 
 ||| **P** ||
 |![PagoEfectivo CIP](https://static.openfintech.io/payment_methods/pagoefectivo_cip/logo.svg?w=400&c=v0.59.26#w200) |[**PagoEfectivo CIP**](/payment-methods/pagoefectivo_cip/)|[`pagoefectivo_cip_pen_hpp`](pagoefectivo_cip_pen_hpp/)| 
@@ -399,6 +401,7 @@
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_krw_hpp`](payment_card_krw_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_kzt_hpp`](payment_card_kzt_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_lkr_hpp`](payment_card_lkr_hpp/)| 
+|![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_mad_hpp`](payment_card_mad_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_mdl_hpp`](payment_card_mdl_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_mxn_hpp`](payment_card_mxn_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_myr_hpp`](payment_card_myr_hpp/)| 

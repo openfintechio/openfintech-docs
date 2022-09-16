@@ -53,6 +53,11 @@ The list of supported [Payout Methods](/payout-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
+|![vodafone_phone](https://static.openfintech.io/payout_methods/vodafone_phone/icon.svg?w=278&c=v0.59.26#w40) |[vodafone_phone](payout-methodsvodafone_phone/)|`vodafone_phone`| 
+|![lifecell_phone](https://static.openfintech.io/payout_methods/lifecell_phone/icon.svg?w=278&c=v0.59.26#w40) |[lifecell_phone](payout-methodslifecell_phone/)|`lifecell_phone`| 
+|![kyivstar_phone](https://static.openfintech.io/payout_methods/kyivstar_phone/icon.svg?w=278&c=v0.59.26#w40) |[kyivstar_phone](payout-methodskyivstar_phone/)|`kyivstar_phone`| 
+|![mobile](https://static.openfintech.io/payout_methods/mobile/icon.svg?w=278&c=v0.59.26#w40) |[mobile](payout-methodsmobile/)|`mobile`| 
  
 
 ## JSON Object 
@@ -72,7 +77,11 @@ The list of supported [Payout Methods](/payout-methods/)
     
   ],
   "payout_method":[
-    
+    "payment_card",
+    "vodafone_phone",
+    "lifecell_phone",
+    "kyivstar_phone",
+    "mobile"
   ],
   "metadata":null,
   "name":{

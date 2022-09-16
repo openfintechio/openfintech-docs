@@ -313,6 +313,7 @@
 |![okpay](https://static.openfintech.io/payment_methods/okpay/logo.png?w=400&c=v0.59.26#w200) |[**OKPay**](okpay/)|`okpay`| 
 |![olamoney](https://static.openfintech.io/payment_methods/olamoney/logo.png?w=400&c=v0.59.26#w200) |[**Ola Money Wallet**](olamoney/)|`olamoney`| 
 |![onecard](https://static.openfintech.io/payment_methods/onecard/logo.png?w=400&c=v0.59.26#w200) |[**OneCard**](onecard/)|`onecard`| 
+|![online_banking](https://static.openfintech.io/payment_methods/online_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking**](online_banking/)|`online_banking`| 
 |![online_banking_qr](https://static.openfintech.io/payment_methods/online_banking_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking QR**](online_banking_qr/)|`online_banking_qr`| 
 |![onlinenaira](https://static.openfintech.io/payment_methods/onlinenaira/logo.png?w=400&c=v0.59.26#w200) |[**OnlineNaira**](onlinenaira/)|`onlinenaira`| 
 |![oppohjola](https://static.openfintech.io/payment_methods/oppohjola/logo.png?w=400&c=v0.59.26#w200) |[**OP-Pohjola**](oppohjola/)|`oppohjola`| 

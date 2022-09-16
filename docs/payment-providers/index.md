@@ -173,6 +173,7 @@
 |![connpay](https://static.openfintech.io/payment_providers/connpay/logo.png?w=600&c=v0.59.26#w100) |[**ConnPay**](connpay/)|`connpay`| 
 |![constantpos](https://static.openfintech.io/payment_providers/constantpos/logo.svg?w=600&c=v0.59.26#w100) |[**Constantpos**](constantpos/)|`constantpos`| 
 |![contactpay](https://static.openfintech.io/payment_providers/contactpay/logo.png?w=600&c=v0.59.26#w100) |[**ContactPay**](contactpay/)|`contactpay`| 
+|![copay](https://static.openfintech.io/payment_providers/copay/logo.svg?w=600&c=v0.59.26#w100) |[**Copay**](copay/)|`copay`| 
 |![corvuspay](https://static.openfintech.io/payment_providers/corvuspay/logo.svg?w=600&c=v0.59.26#w100) |[**CorvusPay**](corvuspay/)|`corvuspay`| 
 |![cps](https://static.openfintech.io/payment_providers/cps/logo.svg?w=600&c=v0.59.26#w100) |[**CPS**](cps/)|`cps`| 
 |![crederes](https://static.openfintech.io/payment_providers/crederes/logo.svg?w=600&c=v0.59.26#w100) |[**Crederes**](crederes/)|`crederes`| 
@@ -235,6 +236,7 @@
 |![ecpss](https://static.openfintech.io/payment_providers/ecpss/logo.svg?w=600&c=v0.59.26#w100) |[**Ecpss**](ecpss/)|`ecpss`| 
 |![eftglobal](https://static.openfintech.io/payment_providers/eftglobal/logo.svg?w=600&c=v0.59.26#w100) |[**EFT Global**](eftglobal/)|`eftglobal`| 
 |![elavoneu](https://static.openfintech.io/payment_providers/elavoneu/logo.png?w=600&c=v0.59.26#w100) |[**Elavon**](elavoneu/)|`elavoneu`| 
+|![electropay](https://static.openfintech.io/payment_providers/electropay/logo.png?w=600&c=v0.59.26#w100) |[**ElectroPay**](electropay/)|`electropay`| 
 |![ematters](https://static.openfintech.io/payment_providers/ematters/logo.svg?w=600&c=v0.59.26#w100) |[**eMatters**](ematters/)|`ematters`| 
 |![emblaze](https://static.openfintech.io/payment_providers/emblaze/logo.png?w=600&c=v0.59.26#w100) |[**eMblaze One**](emblaze/)|`emblaze`| 
 |![emerald24](https://static.openfintech.io/payment_providers/emerald24/logo.svg?w=600&c=v0.59.26#w100) |[**Emerald24**](emerald24/)|`emerald24`| 

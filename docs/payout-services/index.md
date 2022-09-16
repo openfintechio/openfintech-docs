@@ -1016,6 +1016,7 @@
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_kgs`](payment_card_kgs/)|`KGS`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_krw`](payment_card_krw/)|`KRW`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_kzt`](payment_card_kzt/)|`KZT`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_mad`](payment_card_mad/)|`MAD`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_mdl`](payment_card_mdl/)|`MDL`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_mxn`](payment_card_mxn/)|`MXN`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_ngn`](payment_card_ngn/)|`NGN`| 

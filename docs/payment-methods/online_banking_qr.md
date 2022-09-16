@@ -11,7 +11,7 @@
 :	[UK] Online Banking QR 
 :	[RU] Online Banking QR 
  
-**Category:** `alternative` 
+**Category:** `online_banking` 
  
 
 ## Images 
@@ -37,6 +37,16 @@ The list of [Payment Services](/payment-services/) based on the _Online Banking 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![online_banking_qr](https://static.openfintech.io/payment_methods/online_banking_qr/icon.svg?w=278&c=v0.59.26#w100) |[online_banking_qr_try_hpp](/payment-services/online_banking_qr_try_hpp/)|`online_banking_qr_try_hpp`| 
+|![online_banking_qr](https://static.openfintech.io/payment_methods/online_banking_qr/icon.svg?w=278&c=v0.59.26#w100) |[online_banking_qr_vnd_hpp](/payment-services/online_banking_qr_vnd_hpp/)|`online_banking_qr_vnd_hpp`| 
+ 
+
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Online Banking QR_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![copay](https://static.openfintech.io/payment_providers/copay/icon.svg?w=278&c=v0.59.26#w100) |[Copay](/payment-providers/copay/)|`copay`| 
  
 
 ## JSON Object 
@@ -52,6 +62,6 @@ The list of [Payment Services](/payment-services/) based on the _Online Banking 
   },
   "description":null,
   "countries":null,
-  "category":"alternative"
+  "category":"online_banking"
 }
 ```  

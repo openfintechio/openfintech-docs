@@ -396,6 +396,7 @@
 |![constantpos](https://static.openfintech.io/vendors/constantpos/logo.svg?w=600&c=v0.59.26#w200) |[**Constantpos**](constantpos/)|`constantpos`| 
 |![contactpay](https://static.openfintech.io/vendors/contactpay/logo.png?w=600&c=v0.59.26#w200) |[**ContactPay**](contactpay/)|`contactpay`| 
 |![conversebank](https://static.openfintech.io/vendors/conversebank/logo.svg?w=600&c=v0.59.26#w200) |[**Converse Bank**](conversebank/)|`conversebank`| 
+|![copay](https://static.openfintech.io/vendors/copay/logo.svg?w=600&c=v0.59.26#w200) |[**Copay**](copay/)|`copay`| 
 |![corefy](https://static.openfintech.io/vendors/corefy/logo.svg?w=600&c=v0.59.26#w200) |[**Corefy**](corefy/)|`corefy`| 
 |![corvuspay](https://static.openfintech.io/vendors/corvuspay/logo.png?w=600&c=v0.59.26#w200) |[**CorvusPay**](corvuspay/)|`corvuspay`| 
 |![cps](https://static.openfintech.io/vendors/cps/logo.png?w=600&c=v0.59.26#w200) |[**CPS**](cps/)|`cps`| 
@@ -506,6 +507,7 @@
 |![el-change](https://static.openfintech.io/vendors/el-change/logo.svg?w=600&c=v0.59.26#w200) |[**el-change.com**](el-change/)|`el-change`| 
 |![elavoneu](https://static.openfintech.io/vendors/elavoneu/logo.png?w=600&c=v0.59.26#w200) |[**Elavon**](elavoneu/)|`elavoneu`| 
 |![electroniccheckach](https://static.openfintech.io/vendors/electroniccheckach/logo.png?w=600&c=v0.59.26#w200) |[**eCheck (ACH)**](electroniccheckach/)|`electroniccheckach`| 
+|![electropay](https://static.openfintech.io/vendors/electropay/logo.png?w=600&c=v0.59.26#w200) |[**ElectroPay**](electropay/)|`electropay`| 
 |![elektronischeslastschriftverfahren](https://static.openfintech.io/vendors/elektronischeslastschriftverfahren/logo.png?w=600&c=v0.59.26#w200) |[**ELV**](elektronischeslastschriftverfahren/)|`elektronischeslastschriftverfahren`| 
 |![elo](https://static.openfintech.io/vendors/elo/logo.png?w=600&c=v0.59.26#w200) |[**Elo**](elo/)|`elo`| 
 |![elsom](https://static.openfintech.io/vendors/elsom/logo.svg?w=600&c=v0.59.26#w200) |[**Элсом**](elsom/)|`elsom`| 
