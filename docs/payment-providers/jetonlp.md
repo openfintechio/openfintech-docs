@@ -69,6 +69,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![qnb_finansbank](https://static.openfintech.io/payout_methods/qnb_finansbank/icon.png?w=278&c=v0.59.26#w40) |[qnb_finansbank](payout-methodsqnb_finansbank/)|`qnb_finansbank`| 
 |![turkey_finans_katilim_bank](https://static.openfintech.io/payout_methods/turkey_finans_katilim_bank/icon.png?w=278&c=v0.59.26#w40) |[turkey_finans_katilim_bank](payout-methodsturkey_finans_katilim_bank/)|`turkey_finans_katilim_bank`| 
 |![akbank](https://static.openfintech.io/payout_methods/akbank/icon.png?w=278&c=v0.59.26#w40) |[akbank](payout-methodsakbank/)|`akbank`| 
+|![pix](https://static.openfintech.io/payout_methods/pix/icon.svg?w=278&c=v0.59.26#w40) |[pix](payout-methodspix/)|`pix`| 
  
 
 ## JSON Object 
@@ -104,7 +105,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "sparebanken_vest",
     "qnb_finansbank",
     "turkey_finans_katilim_bank",
-    "akbank"
+    "akbank",
+    "pix"
   ],
   "metadata":null,
   "name":{

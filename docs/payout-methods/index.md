@@ -1343,6 +1343,7 @@
 |![selidovskii-res](https://static.openfintech.io/payout_methods/selidovskii-res/logo.png?w=400&c=v0.59.26#w24) |[**Selidovsky RES**](selidovskii-res/)|`selidovskii-res`| 
 |![selidovskoe-puvkkh-voda-donbassa](https://static.openfintech.io/payout_methods/selidovskoe-puvkkh-voda-donbassa/logo.png?w=400&c=v0.59.26#w24) |[**Selidovskoye PUVKH (water of Donbass)**](selidovskoe-puvkkh-voda-donbassa/)|`selidovskoe-puvkkh-voda-donbassa`| 
 |![sepa_credit_transfer](https://static.openfintech.io/payout_methods/sepa_credit_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**SEPA Transfer**](sepa_credit_transfer/)|`sepa_credit_transfer`| 
+|![sepa_transfer](https://static.openfintech.io/payout_methods/sepa_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Sepa Transfer**](sepa_transfer/)|`sepa_transfer`| 
 |![servis-24-kiev](https://static.openfintech.io/payout_methods/servis-24-kiev/logo.png?w=400&c=v0.59.26#w24) |[**SERVICE 24 (Kiev)**](servis-24-kiev/)|`servis-24-kiev`| 
 |![setka](https://static.openfintech.io/payout_methods/setka/logo.png?w=400&c=v0.59.26#w24) |[**SETKA**](setka/)|`setka`| 
 |![settlepay_wallet](https://static.openfintech.io/payout_methods/settlepay_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**SettlePay Wallet**](settlepay_wallet/)|`settlepay_wallet`| 

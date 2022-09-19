@@ -764,6 +764,7 @@
 |![honeypay](https://static.openfintech.io/vendors/honeypay/logo.svg?w=600&c=v0.59.26#w200) |[**HoneyPay**](honeypay/)|`honeypay`| 
 |![houmkreditbank](https://static.openfintech.io/vendors/houmkreditbank/logo.svg?w=600&c=v0.59.26#w200) |[**Хоум Кредит банк**](houmkreditbank/)|`houmkreditbank`| 
 |![howpeoplepay](https://static.openfintech.io/vendors/howpeoplepay/logo.png?w=600&c=v0.59.26#w200) |[**HowPeoplePay.com**](howpeoplepay/)|`howpeoplepay`| 
+|![hwx](https://static.openfintech.io/vendors/hwx/logo.svg?w=600&c=v0.59.26#w200) |[**HWX**](hwx/)|`hwx`| 
 |![hyperwallet](https://static.openfintech.io/vendors/hyperwallet/logo.png?w=600&c=v0.59.26#w200) |[**hyperWALLET**](hyperwallet/)|`hyperwallet`| 
 || **I** ||
 |![i-obmen.biz](https://static.openfintech.io/vendors/i-obmen.biz/logo.svg?w=600&c=v0.59.26#w200) |[**I-Obmen**](i-obmen.biz/)|`i-obmen.biz`| 

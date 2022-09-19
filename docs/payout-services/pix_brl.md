@@ -24,15 +24,18 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`cpf_number`|✔|`string`|`/^[0-9]{1,11}$/`| 
+|`cpf_number`|✔|`string`|`/^[0-9\.\-]{1,14}$/`| 
 |`beneficiary_phone`|✗|`string`|`/^\+\d{10,14}$/`| 
 |`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/`| 
 |`beneficiary_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
 |`beneficiary_lastname`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
-|`bank_code`|✗|`string`|`/^[0-9]{2,4}$/`| 
+|`bank_code`|✗|`string`|`/^[a-zA-Z0-9]{2,12}$/`| 
 |`bank_agency_number`|✗|`string`|`/^[A-z0-9]{2,5}$/`| 
 |`account_number`|✗|`string`|`/^[0-9]{4,100}$/`| 
-|`pix_key`|✗|`string`|`/.{4,255}/`| 
+|`pix_key`|✗|`string`|`/^.{4,255}$/`| 
+|`bank_isbp_code`|✗|`string`|`/^[0-9]{1,11}$/`| 
+|`bank_branch_code`|✗|`string`|`/^[0-9]{1,5}$/`| 
+|`account_number_checksum`|✗|`string`|`/^[0-9]{1,100}$/`| 
  
 
 ### Details 
@@ -41,7 +44,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9]{1,11}$/` 
+	Regexp: `/^[0-9\.\-]{1,14}$/` 
  
 	Required: `1` 
  
@@ -131,7 +134,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9]{2,4}$/` 
+	Regexp: `/^[a-zA-Z0-9]{2,12}$/` 
  
 	Required: `` 
  
@@ -185,7 +188,7 @@
  
 	Type: `string` 
  
-	Regexp: `/.{4,255}/` 
+	Regexp: `/^.{4,255}$/` 
  
 	Required: `` 
  
@@ -199,6 +202,60 @@
 	: [RU] Введите ключ Pix 
 	: [UK] Введіть ключ Pix 
  
+10. **`bank_isbp_code`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{1,11}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary bank ISBP code 
+	: [RU] ISBP код банка получателя 
+	: [UK] ISBP код банку отримувача 
+ 
+	Hint:  
+	: [EN] Enter the beneficiary bank's ISBP code 
+	: [RU] Введите ISBP код банку получателя 
+	: [UK] Введiть ISBP код банка отримувача 
+ 
+11. **`bank_branch_code`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{1,5}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary bank Branch code 
+	: [RU] Код отделения банка получателя 
+	: [UK] Код відділення банку одержувача 
+ 
+	Hint:  
+	: [EN] Enter the beneficiary bank's branch code 
+	: [RU] Введите код отделения банка получателя 
+	: [UK] Введіть код відділення банку одержувачаe 
+ 
+12. **`account_number_checksum`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{1,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Account number checksum 
+	: [RU] Контрольная сумма номера счета 
+	: [UK] Контрольна сума номера рахунку 
+ 
+	Hint:  
+	: [EN] Enter the account number checksum 
+	: [RU] Введите контрольную сумму номера счета 
+	: [UK] Введіть контрольну суму номера рахунку 
+ 
 
 ## JSON Object 
 
@@ -211,7 +268,7 @@
     {
       "key":"cpf_number",
       "type":"string",
-      "regexp":"\/^[0-9]{1,11}$\/",
+      "regexp":"\/^[0-9\\.\\-]{1,14}$\/",
       "required":true,
       "position":1,
       "label":{
@@ -298,7 +355,7 @@
     {
       "key":"bank_code",
       "type":"string",
-      "regexp":"\/^[0-9]{2,4}$\/",
+      "regexp":"\/^[a-zA-Z0-9]{2,12}$\/",
       "required":false,
       "position":6,
       "label":{
@@ -349,7 +406,7 @@
     {
       "key":"pix_key",
       "type":"string",
-      "regexp":"\/.{4,255}\/",
+      "regexp":"\/^.{4,255}$\/",
       "required":false,
       "position":9,
       "label":{
@@ -361,6 +418,57 @@
         "en":"Enter Pix key",
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043b\u044e\u0447 Pix",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043b\u044e\u0447 Pix"
+      }
+    },
+    {
+      "key":"bank_isbp_code",
+      "type":"string",
+      "regexp":"\/^[0-9]{1,11}$\/",
+      "required":false,
+      "position":10,
+      "label":{
+        "en":"Beneficiary bank ISBP code",
+        "ru":"ISBP \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"ISBP \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter the beneficiary bank's ISBP code",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 ISBP \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434i\u0442\u044c ISBP \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      }
+    },
+    {
+      "key":"bank_branch_code",
+      "type":"string",
+      "regexp":"\/^[0-9]{1,5}$\/",
+      "required":false,
+      "position":11,
+      "label":{
+        "en":"Beneficiary bank Branch code",
+        "ru":"\u041a\u043e\u0434 \u043e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u0431\u0430\u043d\u043a\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u041a\u043e\u0434 \u0432\u0456\u0434\u0434\u0456\u043b\u0435\u043d\u043d\u044f \u0431\u0430\u043d\u043a\u0443 \u043e\u0434\u0435\u0440\u0436\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter the beneficiary bank's branch code",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u0434 \u043e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u0431\u0430\u043d\u043a\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u0434 \u0432\u0456\u0434\u0434\u0456\u043b\u0435\u043d\u043d\u044f \u0431\u0430\u043d\u043a\u0443 \u043e\u0434\u0435\u0440\u0436\u0443\u0432\u0430\u0447\u0430e"
+      }
+    },
+    {
+      "key":"account_number_checksum",
+      "type":"string",
+      "regexp":"\/^[0-9]{1,100}$\/",
+      "required":false,
+      "position":12,
+      "label":{
+        "en":"Account number checksum",
+        "ru":"\u041a\u043e\u043d\u0442\u0440\u043e\u043b\u044c\u043d\u0430\u044f \u0441\u0443\u043c\u043c\u0430 \u043d\u043e\u043c\u0435\u0440\u0430 \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u041a\u043e\u043d\u0442\u0440\u043e\u043b\u044c\u043d\u0430 \u0441\u0443\u043c\u0430 \u043d\u043e\u043c\u0435\u0440\u0430 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter the account number checksum",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c\u043d\u0443\u044e \u0441\u0443\u043c\u043c\u0443 \u043d\u043e\u043c\u0435\u0440\u0430 \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c\u043d\u0443 \u0441\u0443\u043c\u0443 \u043d\u043e\u043c\u0435\u0440\u0430 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
       }
     }
   ],
