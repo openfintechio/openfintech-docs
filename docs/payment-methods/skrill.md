@@ -48,6 +48,7 @@ The list of [Payment Services](/payment-services/) based on the _Skrill Wallet_
 |![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill_npr_hpp](/payment-services/skrill_npr_hpp/)|`skrill_npr_hpp`| 
 |![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill_lkr_hpp](/payment-services/skrill_lkr_hpp/)|`skrill_lkr_hpp`| 
 |![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill_mdl_hpp](/payment-services/skrill_mdl_hpp/)|`skrill_mdl_hpp`| 
+|![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill_mxn_hpp](/payment-services/skrill_mxn_hpp/)|`skrill_mxn_hpp`| 
  
 
 ## Payment Providers 

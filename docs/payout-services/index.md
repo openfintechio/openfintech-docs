@@ -1245,6 +1245,7 @@
 |![Skrill](https://static.openfintech.io/payout_methods/skrill/logo.svg?w=400&c=v0.59.26#w24) |[**Skrill**](/payout-methods/skrill/)|[`skrill_eur`](skrill_eur/)|`EUR`| 
 |![Skrill](https://static.openfintech.io/payout_methods/skrill/logo.svg?w=400&c=v0.59.26#w24) |[**Skrill**](/payout-methods/skrill/)|[`skrill_lkr`](skrill_lkr/)|`LKR`| 
 |![Skrill](https://static.openfintech.io/payout_methods/skrill/logo.svg?w=400&c=v0.59.26#w24) |[**Skrill**](/payout-methods/skrill/)|[`skrill_mdl`](skrill_mdl/)|`MDL`| 
+|![Skrill](https://static.openfintech.io/payout_methods/skrill/logo.svg?w=400&c=v0.59.26#w24) |[**Skrill**](/payout-methods/skrill/)|[`skrill_mxn`](skrill_mxn/)|`MXN`| 
 |![Skrill](https://static.openfintech.io/payout_methods/skrill/logo.svg?w=400&c=v0.59.26#w24) |[**Skrill**](/payout-methods/skrill/)|[`skrill_myr`](skrill_myr/)|`MYR`| 
 |![Skrill](https://static.openfintech.io/payout_methods/skrill/logo.svg?w=400&c=v0.59.26#w24) |[**Skrill**](/payout-methods/skrill/)|[`skrill_npr`](skrill_npr/)|`NPR`| 
 |![Skrill](https://static.openfintech.io/payout_methods/skrill/logo.svg?w=400&c=v0.59.26#w24) |[**Skrill**](/payout-methods/skrill/)|[`skrill_thb`](skrill_thb/)|`THB`| 
