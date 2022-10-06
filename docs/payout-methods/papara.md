@@ -39,6 +39,15 @@ The list of [Payout Services](/payout-services/) based on the _Papara_
 |![papara](https://static.openfintech.io/payout_methods/papara/icon.svg?w=278&c=v0.59.26#w40) |[papara_try](/payout-services/papara_try/)|`papara_try`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Papara_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![jetonlp](https://static.openfintech.io/payment_providers/jetonlp/icon.png?w=278&c=v0.59.26#w100) |[JetonLP](/payment-providers/jetonlp/)|`jetonlp`| 
+ 
+
 ## JSON Object 
 
 ```json

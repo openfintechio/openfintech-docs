@@ -606,6 +606,7 @@
 |![fchernivecke_oblasn_atoshad_m_chernivci](https://static.openfintech.io/vendors/fchernivecke_oblasn_atoshad_m_chernivci/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Чернiвецьке обласне управлiння ПАТ 'Державний ощадний банк України'**](fchernivecke_oblasn_atoshad_m_chernivci/)|`fchernivecke_oblasn_atoshad_m_chernivci`| 
 |![fdnipropetrovske_o_atoshad_m_dniprope](https://static.openfintech.io/vendors/fdnipropetrovske_o_atoshad_m_dniprope/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Днiпропетровське обласне управлiння ПАТ 'Державний ощадний банк України'**](fdnipropetrovske_o_atoshad_m_dniprope/)|`fdnipropetrovske_o_atoshad_m_dniprope`| 
 |![fdonecke_oblasne_up_atoshad_m_kramator](https://static.openfintech.io/vendors/fdonecke_oblasne_up_atoshad_m_kramator/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Донецьке обласне управлiння ПАТ 'Державний ощадний банк України'**](fdonecke_oblasne_up_atoshad_m_kramator/)|`fdonecke_oblasne_up_atoshad_m_kramator`| 
+|![fenige](https://static.openfintech.io/vendors/fenige/logo.png?w=600&c=v0.59.26#w200) |[**Fenige**](fenige/)|`fenige`| 
 |![fgolovne_upravlinnya_po_atoshad_m_kiyiv](https://static.openfintech.io/vendors/fgolovne_upravlinnya_po_atoshad_m_kiyiv/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Головне управлiння по м. Києву та Київськiй областi ПАТ 'Державний ощадний банк України'**](fgolovne_upravlinnya_po_atoshad_m_kiyiv/)|`fgolovne_upravlinnya_po_atoshad_m_kiyiv`| 
 |![fharkivske_oblasne_u_atoshad_m_harkiv](https://static.openfintech.io/vendors/fharkivske_oblasne_u_atoshad_m_harkiv/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Харкiвське обласне управлiння ПАТ 'Державний ощадний банк України'**](fharkivske_oblasne_u_atoshad_m_harkiv/)|`fharkivske_oblasne_u_atoshad_m_harkiv`| 
 |![fhersonske_oblasne_u_atoshad_m_herson](https://static.openfintech.io/vendors/fhersonske_oblasne_u_atoshad_m_herson/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Херсонське обласне управлiння ПАТ 'Державний ощадний банк України'**](fhersonske_oblasne_u_atoshad_m_herson/)|`fhersonske_oblasne_u_atoshad_m_herson`| 
@@ -1562,6 +1563,7 @@
 |![svyazbank](https://static.openfintech.io/vendors/svyazbank/logo.svg?w=600&c=v0.59.26#w200) |[**Связь банк**](svyazbank/)|`svyazbank`| 
 |![svyaznojbank](https://static.openfintech.io/vendors/svyaznojbank/logo.svg?w=600&c=v0.59.26#w200) |[**Связной банк**](svyaznojbank/)|`svyaznojbank`| 
 |![swedbank](https://static.openfintech.io/vendors/swedbank/logo.png?w=600&c=v0.59.26#w200) |[**Swedbank**](swedbank/)|`swedbank`| 
+|![swiffy](https://static.openfintech.io/vendors/swiffy/logo.png?w=600&c=v0.59.26#w200) |[**Swiffy**](swiffy/)|`swiffy`| 
 |![swift](https://static.openfintech.io/vendors/swift/logo.svg?w=600&c=v0.59.26#w200) |[**SWIFT**](swift/)|`swift`| 
 |![swipehq](https://static.openfintech.io/vendors/swipehq/logo.png?w=600&c=v0.59.26#w200) |[**Swipe Checkout**](swipehq/)|`swipehq`| 
 |![swishme](https://static.openfintech.io/vendors/swishme/logo.png?w=600&c=v0.59.26#w200) |[**Swish Payments Ltd**](swishme/)|`swishme`| 

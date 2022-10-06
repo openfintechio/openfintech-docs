@@ -54,6 +54,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PagoEfect
 |:---:|:---:|:---:| 
 |![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
 |![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
+|![jetonlp](https://static.openfintech.io/payment_providers/jetonlp/icon.png?w=278&c=v0.59.26#w100) |[JetonLP](/payment-providers/jetonlp/)|`jetonlp`| 
  
 
 ## JSON Object 

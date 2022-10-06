@@ -274,6 +274,7 @@
 |![faspay](https://static.openfintech.io/payment_providers/faspay/logo.png?w=600&c=v0.59.26#w100) |[**Faspay**](faspay/)|`faspay`| 
 |![faturah](https://static.openfintech.io/payment_providers/faturah/logo.svg?w=600&c=v0.59.26#w100) |[**Faturah**](faturah/)|`faturah`| 
 |![fatzebra](https://static.openfintech.io/payment_providers/fatzebra/logo.png?w=600&c=v0.59.26#w100) |[**Fat Zebra**](fatzebra/)|`fatzebra`| 
+|![fenige](https://static.openfintech.io/payment_providers/fenige/logo.png?w=600&c=v0.59.26#w100) |[**Fenige**](fenige/)|`fenige`| 
 |![fibonatix](https://static.openfintech.io/payment_providers/fibonatix/logo.png?w=600&c=v0.59.26#w100) |[**Fibonatix**](fibonatix/)|`fibonatix`| 
 |![fidelitypaymentservices](https://static.openfintech.io/payment_providers/fidelitypaymentservices/logo.png?w=600&c=v0.59.26#w100) |[**Fidelity Payment Services**](fidelitypaymentservices/)|`fidelitypaymentservices`| 
 |![filspay](https://static.openfintech.io/payment_providers/filspay/logo.png?w=600&c=v0.59.26#w100) |[**FilsPay**](filspay/)|`filspay`| 
@@ -696,6 +697,7 @@
 |![streampay](https://static.openfintech.io/payment_providers/streampay/logo.png?w=600&c=v0.59.26#w100) |[**StreamPay**](streampay/)|`streampay`| 
 |![stripe](https://static.openfintech.io/payment_providers/stripe/logo.svg?w=600&c=v0.59.26#w100) |[**Stripe**](stripe/)|`stripe`| 
 |![stspayone](https://static.openfintech.io/payment_providers/stspayone/logo.png?w=600&c=v0.59.26#w100) |[**STS PayOne**](stspayone/)|`stspayone`| 
+|![swiffy](https://static.openfintech.io/payment_providers/swiffy/logo.png?w=600&c=v0.59.26#w100) |[**Swiffy**](swiffy/)|`swiffy`| 
 |![swipehq](https://static.openfintech.io/payment_providers/swipehq/logo.png?w=600&c=v0.59.26#w100) |[**Swipe Checkout**](swipehq/)|`swipehq`| 
 |![swishme](https://static.openfintech.io/payment_providers/swishme/logo.png?w=600&c=v0.59.26#w100) |[**Swish Payments Ltd**](swishme/)|`swishme`| 
 |![swisspay24](https://static.openfintech.io/payment_providers/swisspay24/logo.png?w=600&c=v0.59.26#w100) |[**SwissPay24**](swisspay24/)|`swisspay24`| 

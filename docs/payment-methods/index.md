@@ -95,6 +95,7 @@
 |![canara_bank](https://static.openfintech.io/payment_methods/canara_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Canara Bank**](canara_bank/)|`canara_bank`| 
 |![capayable](https://static.openfintech.io/payment_methods/capayable/logo.png?w=400&c=v0.59.26#w200) |[**Capayable**](capayable/)|`capayable`| 
 |![card](https://static.openfintech.io/payment_methods/card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](card/)|`card`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](card_transfer/)|`card_transfer`| 
 |![carrierbilling](https://static.openfintech.io/payment_methods/carrierbilling/logo.png?w=400&c=v0.59.26#w200) |[**Carrier Billing**](carrierbilling/)|`carrierbilling`| 
 |![cartasi](https://static.openfintech.io/payment_methods/cartasi/logo.png?w=400&c=v0.59.26#w200) |[**CartaSi**](cartasi/)|`cartasi`| 
 |![cartebancaires](https://static.openfintech.io/payment_methods/cartebancaires/logo.png?w=400&c=v0.59.26#w200) |[**Carte Bancaires**](cartebancaires/)|`cartebancaires`| 
@@ -451,6 +452,7 @@
 |![suhyup_bank](https://static.openfintech.io/payment_methods/suhyup_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Suhyup Bank**](suhyup_bank/)|`suhyup_bank`| 
 |![svyaznoy](https://static.openfintech.io/payment_methods/svyaznoy/logo.png?w=400&c=v0.59.26#w200) |[**Svyaznoy**](svyaznoy/)|`svyaznoy`| 
 |![swedbank](https://static.openfintech.io/payment_methods/swedbank/logo.png?w=400&c=v0.59.26#w200) |[**Swedbank**](swedbank/)|`swedbank`| 
+|![swiffy_eft](https://static.openfintech.io/payment_methods/swiffy_eft/logo.png?w=400&c=v0.59.26#w200) |[**Swiffy EFT**](swiffy_eft/)|`swiffy_eft`| 
 |![swift](https://static.openfintech.io/payment_methods/swift/logo.svg?w=400&c=v0.59.26#w200) |[**SWIFT**](swift/)|`swift`| 
 || **T** ||
 |![tamilnad_mercantile_bank_india](https://static.openfintech.io/payment_methods/tamilnad_mercantile_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Tamilnad Mercantile Bank Limited**](tamilnad_mercantile_bank_india/)|`tamilnad_mercantile_bank_india`| 

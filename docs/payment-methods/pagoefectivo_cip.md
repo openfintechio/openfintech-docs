@@ -39,6 +39,15 @@ The list of [Payment Services](/payment-services/) based on the _PagoEfectivo CI
 |![pagoefectivo_cip](https://static.openfintech.io/payment_methods/pagoefectivo_cip/icon.svg?w=278&c=v0.59.26#w100) |[pagoefectivo_cip_pen_hpp](/payment-services/pagoefectivo_cip_pen_hpp/)|`pagoefectivo_cip_pen_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _PagoEfectivo CIP_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![jetonlp](https://static.openfintech.io/payment_providers/jetonlp/icon.png?w=278&c=v0.59.26#w100) |[JetonLP](/payment-providers/jetonlp/)|`jetonlp`| 
+ 
+
 ## JSON Object 
 
 ```json

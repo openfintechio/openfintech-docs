@@ -46,6 +46,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Online Ba
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![jetonlp](https://static.openfintech.io/payment_providers/jetonlp/icon.png?w=278&c=v0.59.26#w100) |[JetonLP](/payment-providers/jetonlp/)|`jetonlp`| 
 |![copay](https://static.openfintech.io/payment_providers/copay/icon.svg?w=278&c=v0.59.26#w100) |[Copay](/payment-providers/copay/)|`copay`| 
  
 

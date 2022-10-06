@@ -41,6 +41,15 @@ The list of [Payment Services](/payment-services/) based on the _Community Bank_
 |![community_bank](https://static.openfintech.io/payment_methods/community_bank/icon.svg?w=278&c=v0.59.26#w100) |[community_bank_try_hpp](/payment-services/community_bank_try_hpp/)|`community_bank_try_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Community Bank_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![jetonlp](https://static.openfintech.io/payment_providers/jetonlp/icon.png?w=278&c=v0.59.26#w100) |[JetonLP](/payment-providers/jetonlp/)|`jetonlp`| 
+ 
+
 ## JSON Object 
 
 ```json

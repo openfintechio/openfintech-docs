@@ -39,9 +39,17 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![paypay](https://static.openfintech.io/payment_methods/paypay/icon.png?w=278&c=v0.59.26#w100) |[paypay](/payment-methods/paypay/)|`paypay`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
+|![paypay](https://static.openfintech.io/payment_methods/paypay/icon.png?w=278&c=v0.59.26#w100) |[paypay](/payment-methods/paypay/)|`paypay`| 
 |![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix](/payment-methods/pix/)|`pix`| 
+|![interac](https://static.openfintech.io/payment_methods/interac/icon.png?w=278&c=v0.59.26#w100) |[interac](/payment-methods/interac/)|`interac`| 
+|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario](/payment-methods/boleto_bancario/)|`boleto_bancario`| 
+|![community_bank](https://static.openfintech.io/payment_methods/community_bank/icon.svg?w=278&c=v0.59.26#w100) |[community_bank](/payment-methods/community_bank/)|`community_bank`| 
+|![cepbank](https://static.openfintech.io/payment_methods/cepbank/icon.png?w=278&c=v0.59.26#w100) |[cepbank](/payment-methods/cepbank/)|`cepbank`| 
+|![pagoefectivo_cip](https://static.openfintech.io/payment_methods/pagoefectivo_cip/icon.svg?w=278&c=v0.59.26#w100) |[pagoefectivo_cip](/payment-methods/pagoefectivo_cip/)|`pagoefectivo_cip`| 
+|![pagoefectivo](https://static.openfintech.io/payment_methods/pagoefectivo/icon.png?w=278&c=v0.59.26#w100) |[pagoefectivo](/payment-methods/pagoefectivo/)|`pagoefectivo`| 
+|![papara](https://static.openfintech.io/payment_methods/papara/icon.svg?w=278&c=v0.59.26#w100) |[papara](/payment-methods/papara/)|`papara`| 
+|![online_banking_qr](https://static.openfintech.io/payment_methods/online_banking_qr/icon.svg?w=278&c=v0.59.26#w100) |[online_banking_qr](/payment-methods/online_banking_qr/)|`online_banking_qr`| 
  
 
 ## Payout Methods 
@@ -53,8 +61,10 @@ The list of supported [Payout Methods](/payout-methods/)
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
 |![papara](https://static.openfintech.io/payout_methods/papara/icon.svg?w=278&c=v0.59.26#w40) |[papara](payout-methodspapara/)|`papara`| 
 |![interac](https://static.openfintech.io/payout_methods/interac/icon.svg?w=278&c=v0.59.26#w40) |[interac](payout-methodsinterac/)|`interac`| 
+|![pix](https://static.openfintech.io/payout_methods/pix/icon.svg?w=278&c=v0.59.26#w40) |[pix](payout-methodspix/)|`pix`| 
 |![ziraat_bank](https://static.openfintech.io/payout_methods/ziraat_bank/icon.png?w=278&c=v0.59.26#w40) |[ziraat_bank](payout-methodsziraat_bank/)|`ziraat_bank`| 
 |![turkey_econom_bank](https://static.openfintech.io/payout_methods/turkey_econom_bank/icon.png?w=278&c=v0.59.26#w40) |[turkey_econom_bank](payout-methodsturkey_econom_bank/)|`turkey_econom_bank`| 
+|![turkey_is_bank](https://static.openfintech.io/payout_methods/turkey_is_bank/icon.png?w=278&c=v0.59.26#w40) |[turkey_is_bank](payout-methodsturkey_is_bank/)|`turkey_is_bank`| 
 |![ing_bank_turkey](https://static.openfintech.io/payout_methods/ing_bank_turkey/icon.svg?w=278&c=v0.59.26#w40) |[ing_bank_turkey](payout-methodsing_bank_turkey/)|`ing_bank_turkey`| 
 |![ininal](https://static.openfintech.io/payout_methods/ininal/icon.svg?w=278&c=v0.59.26#w40) |[ininal](payout-methodsininal/)|`ininal`| 
 |![hegra_sparebank](https://static.openfintech.io/payout_methods/hegra_sparebank/icon.png?w=278&c=v0.59.26#w40) |[hegra_sparebank](payout-methodshegra_sparebank/)|`hegra_sparebank`| 
@@ -69,7 +79,6 @@ The list of supported [Payout Methods](/payout-methods/)
 |![qnb_finansbank](https://static.openfintech.io/payout_methods/qnb_finansbank/icon.png?w=278&c=v0.59.26#w40) |[qnb_finansbank](payout-methodsqnb_finansbank/)|`qnb_finansbank`| 
 |![turkey_finans_katilim_bank](https://static.openfintech.io/payout_methods/turkey_finans_katilim_bank/icon.png?w=278&c=v0.59.26#w40) |[turkey_finans_katilim_bank](payout-methodsturkey_finans_katilim_bank/)|`turkey_finans_katilim_bank`| 
 |![akbank](https://static.openfintech.io/payout_methods/akbank/icon.png?w=278&c=v0.59.26#w40) |[akbank](payout-methodsakbank/)|`akbank`| 
-|![pix](https://static.openfintech.io/payout_methods/pix/icon.svg?w=278&c=v0.59.26#w40) |[pix](payout-methodspix/)|`pix`| 
  
 
 ## JSON Object 
@@ -82,16 +91,26 @@ The list of supported [Payout Methods](/payout-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    "paypay",
     "bank_transfer",
-    "pix"
+    "paypay",
+    "pix",
+    "interac",
+    "boleto_bancario",
+    "community_bank",
+    "cepbank",
+    "pagoefectivo_cip",
+    "pagoefectivo",
+    "papara",
+    "online_banking_qr"
   ],
   "payout_method":[
     "bank_transfer",
     "papara",
     "interac",
+    "pix",
     "ziraat_bank",
     "turkey_econom_bank",
+    "turkey_is_bank",
     "ing_bank_turkey",
     "ininal",
     "hegra_sparebank",
@@ -105,8 +124,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "sparebanken_vest",
     "qnb_finansbank",
     "turkey_finans_katilim_bank",
-    "akbank",
-    "pix"
+    "akbank"
   ],
   "metadata":null,
   "name":{

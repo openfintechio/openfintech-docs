@@ -117,6 +117,7 @@
 |![Busan Bank](https://static.openfintech.io/payment_methods/busan_bank/logo.png?w=400&c=v0.59.26#w200) |[**Busan Bank**](/payment-methods/busan_bank/)|[`busan_bank_krw_hpp`](busan_bank_krw_hpp/)| 
 ||| **C** ||
 |![Canara Bank](https://static.openfintech.io/payment_methods/canara_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Canara Bank**](/payment-methods/canara_bank/)|[`canara_bank_inr_hpp`](canara_bank_inr_hpp/)| 
+|![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_rub_invoice`](card_transfer_rub_invoice/)| 
 |![CartaSi](https://static.openfintech.io/payment_methods/cartasi/logo.png?w=400&c=v0.59.26#w200) |[**CartaSi**](/payment-methods/cartasi/)|[`cartasi_eur_hpp`](cartasi_eur_hpp/)| 
 |![Carte Bleue](https://static.openfintech.io/payment_methods/cartebleue/logo.png?w=400&c=v0.59.26#w200) |[**Carte Bleue**](/payment-methods/cartebleue/)|[`cartebleue_eur_hpp`](cartebleue_eur_hpp/)| 
 |![Cascad](https://static.openfintech.io/payment_methods/cascad/logo.svg?w=400&c=v0.59.26#w200) |[**Cascad**](/payment-methods/cascad/)|[`cascad_uah_hpp`](cascad_uah_hpp/)| 
@@ -542,6 +543,7 @@
 |![State Bank of India](https://static.openfintech.io/payment_methods/state_bank_of_india/logo.svg?w=400&c=v0.59.26#w200) |[**State Bank of India**](/payment-methods/state_bank_of_india/)|[`state_bank_of_india_inr_hpp`](state_bank_of_india_inr_hpp/)| 
 |![Suhyup Bank](https://static.openfintech.io/payment_methods/suhyup_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Suhyup Bank**](/payment-methods/suhyup_bank/)|[`suhyup_bank_krw_hpp`](suhyup_bank_krw_hpp/)| 
 |![Svyaznoy](https://static.openfintech.io/payment_methods/svyaznoy/logo.png?w=400&c=v0.59.26#w200) |[**Svyaznoy**](/payment-methods/svyaznoy/)|[`svyaznoy_rub_hpp`](svyaznoy_rub_hpp/)| 
+|![Swiffy EFT](https://static.openfintech.io/payment_methods/swiffy_eft/logo.png?w=400&c=v0.59.26#w200) |[**Swiffy EFT**](/payment-methods/swiffy_eft/)|[`swiffy_eft_zar_hpp`](swiffy_eft_zar_hpp/)| 
 |![SWIFT](https://static.openfintech.io/payment_methods/swift/logo.svg?w=400&c=v0.59.26#w200) |[**SWIFT**](/payment-methods/swift/)|[`swift_cny_invoice`](swift_cny_invoice/)| 
 |![SWIFT](https://static.openfintech.io/payment_methods/swift/logo.svg?w=400&c=v0.59.26#w200) |[**SWIFT**](/payment-methods/swift/)|[`swift_eur_invoice`](swift_eur_invoice/)| 
 |![SWIFT](https://static.openfintech.io/payment_methods/swift/logo.svg?w=400&c=v0.59.26#w200) |[**SWIFT**](/payment-methods/swift/)|[`swift_gbp_invoice`](swift_gbp_invoice/)| 
@@ -557,8 +559,12 @@
 |![Terminals RF](https://static.openfintech.io/payment_methods/terminal_rf/logo.svg?w=400&c=v0.59.26#w200) |[**Terminals RF**](/payment-methods/terminal_rf/)|[`terminal_rf_rub_hpp`](terminal_rf_rub_hpp/)| 
 |![Test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200) |[**Test**](/payment-methods/test/)|[`test_btc_test`](test_btc_test/)| 
 |![Test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200) |[**Test**](/payment-methods/test/)|[`test_eth_test`](test_eth_test/)| 
+|![Test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200) |[**Test**](/payment-methods/test/)|[`test_eur_invoice`](test_eur_invoice/)| 
 |![Test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200) |[**Test**](/payment-methods/test/)|[`test_eur_test`](test_eur_test/)| 
+|![Test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200) |[**Test**](/payment-methods/test/)|[`test_gbp_invoice`](test_gbp_invoice/)| 
+|![Test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200) |[**Test**](/payment-methods/test/)|[`test_uah_invoice`](test_uah_invoice/)| 
 |![Test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200) |[**Test**](/payment-methods/test/)|[`test_uah_test`](test_uah_test/)| 
+|![Test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200) |[**Test**](/payment-methods/test/)|[`test_usd_invoice`](test_usd_invoice/)| 
 |![Test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200) |[**Test**](/payment-methods/test/)|[`test_usd_test`](test_usd_test/)| 
 |![Test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200) |[**Test**](/payment-methods/test/)|[`test_xts_test`](test_xts_test/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_bch_invoice`](tether_bch_invoice/)| 
