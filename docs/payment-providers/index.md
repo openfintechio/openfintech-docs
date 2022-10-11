@@ -795,6 +795,7 @@
 || **Y** ||
 |![yandexcheckout](https://static.openfintech.io/payment_providers/yandexcheckout/logo.png?w=600&c=v0.59.26#w100) |[**Yandex.Checkout**](yandexcheckout/)|`yandexcheckout`| 
 |![yandexmoney](https://static.openfintech.io/payment_providers/yandexmoney/logo.svg?w=600&c=v0.59.26#w100) |[**Yandex.Money**](yandexmoney/)|`yandexmoney`| 
+|![yapily](https://static.openfintech.io/payment_providers/yapily/logo.png?w=600&c=v0.59.26#w100) |[**Yapily**](yapily/)|`yapily`| 
 |![yapital](https://static.openfintech.io/payment_providers/yapital/logo.png?w=600&c=v0.59.26#w100) |[**Yapital**](yapital/)|`yapital`| 
 |![yapstone](https://static.openfintech.io/payment_providers/yapstone/logo.png?w=600&c=v0.59.26#w100) |[**YapStone**](yapstone/)|`yapstone`| 
 |![yeepay](https://static.openfintech.io/payment_providers/yeepay/logo.png?w=600&c=v0.59.26#w100) |[**YeePay**](yeepay/)|`yeepay`| 

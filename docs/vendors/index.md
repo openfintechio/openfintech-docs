@@ -1820,6 +1820,7 @@
 || **Y** ||
 |![yandeksdengi](https://static.openfintech.io/vendors/yandeksdengi/logo.svg?w=600&c=v0.59.26#w200) |[**Yandex.Money**](yandeksdengi/)|`yandeksdengi`| 
 |![yandex](https://static.openfintech.io/vendors/yandex/logo.svg?w=600&c=v0.59.26#w200) |[**Yandex**](yandex/)|`yandex`| 
+|![yapily](https://static.openfintech.io/vendors/yapily/logo.png?w=600&c=v0.59.26#w200) |[**Yapily**](yapily/)|`yapily`| 
 |![yapital](https://static.openfintech.io/vendors/yapital/logo.png?w=600&c=v0.59.26#w200) |[**Yapital**](yapital/)|`yapital`| 
 |![yapstone](https://static.openfintech.io/vendors/yapstone/logo.png?w=600&c=v0.59.26#w200) |[**YapStone**](yapstone/)|`yapstone`| 
 |![yeepay](https://static.openfintech.io/vendors/yeepay/logo.png?w=600&c=v0.59.26#w200) |[**YeePay**](yeepay/)|`yeepay`| 
