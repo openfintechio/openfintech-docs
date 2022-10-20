@@ -331,6 +331,7 @@
 |![papara](https://static.openfintech.io/payment_methods/papara/logo.svg?w=400&c=v0.59.26#w200) |[**Papara**](papara/)|`papara`| 
 |![papaya](https://static.openfintech.io/payment_methods/papaya/logo.png?w=400&c=v0.59.26#w200) |[**Papaya**](papaya/)|`papaya`| 
 |![papercheck](https://static.openfintech.io/payment_methods/papercheck/logo.png?w=400&c=v0.59.26#w200) |[**Paper Check**](papercheck/)|`papercheck`| 
+|![pay_id](https://static.openfintech.io/payment_methods/pay_id/logo.svg?w=400&c=v0.59.26#w200) |[**PayID**](pay_id/)|`pay_id`| 
 |![paybybill](https://static.openfintech.io/payment_methods/paybybill/logo.png?w=400&c=v0.59.26#w200) |[**PayByBill**](paybybill/)|`paybybill`| 
 |![payd](https://static.openfintech.io/payment_methods/payd/logo.png?w=400&c=v0.59.26#w200) |[**payD**](payd/)|`payd`| 
 |![paydirekt](https://static.openfintech.io/payment_methods/paydirekt/logo.svg?w=400&c=v0.59.26#w200) |[**paydirekt**](paydirekt/)|`paydirekt`| 

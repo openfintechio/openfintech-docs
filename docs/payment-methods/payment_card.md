@@ -353,7 +353,11 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![finhub](https://static.openfintech.io/payment_providers/finhub/icon.png?w=278&c=v0.59.26#w100) |[FinHub](/payment-providers/finhub/)|`finhub`| 
 |![crederes](https://static.openfintech.io/payment_providers/crederes/icon.svg?w=278&c=v0.59.26#w100) |[Crederes](/payment-providers/crederes/)|`crederes`| 
 |![payes](https://static.openfintech.io/payment_providers/payes/icon.png?w=278&c=v0.59.26#w100) |[Payes](/payment-providers/payes/)|`payes`| 
+|![thenoy](https://static.openfintech.io/payment_providers/thenoy/icon.svg?w=278&c=v0.59.26#w100) |[THENOY](/payment-providers/thenoy/)|`thenoy`| 
 |![aps](https://static.openfintech.io/payment_providers/aps/icon.svg?w=278&c=v0.59.26#w100) |[APS](/payment-providers/aps/)|`aps`| 
+|![webpays](https://static.openfintech.io/payment_providers/webpays/icon.png?w=278&c=v0.59.26#w100) |[WebPays](/payment-providers/webpays/)|`webpays`| 
+|![amazonpaymentservices](https://static.openfintech.io/payment_providers/amazonpaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Amazon Payment Services](/payment-providers/amazonpaymentservices/)|`amazonpaymentservices`| 
+|![lpb](https://static.openfintech.io/payment_providers/lpb/icon.svg?w=278&c=v0.59.26#w100) |[LPB](/payment-providers/lpb/)|`lpb`| 
  
 
 ## JSON Object 

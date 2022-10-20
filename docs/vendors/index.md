@@ -91,6 +91,7 @@
 |![altoglobalprocessing](https://static.openfintech.io/vendors/altoglobalprocessing/logo.png?w=600&c=v0.59.26#w200) |[**Alto Global Processing**](altoglobalprocessing/)|`altoglobalprocessing`| 
 |![altynbank](https://static.openfintech.io/vendors/altynbank/logo.svg?w=600&c=v0.59.26#w200) |[**Altyn Bank**](altynbank/)|`altynbank`| 
 |![alycepay](https://static.openfintech.io/vendors/alycepay/logo.png?w=600&c=v0.59.26#w200) |[**Alycepay**](alycepay/)|`alycepay`| 
+|![amazonpaymentservices](https://static.openfintech.io/vendors/amazonpaymentservices/logo.svg?w=600&c=v0.59.26#w200) |[**Amazon Payment Services**](amazonpaymentservices/)|`amazonpaymentservices`| 
 |![americanexpress](https://static.openfintech.io/vendors/americanexpress/logo.svg?w=600&c=v0.59.26#w200) |[**American Express**](americanexpress/)|`americanexpress`| 
 |![americanvolume](https://static.openfintech.io/vendors/americanvolume/logo.png?w=600&c=v0.59.26#w200) |[**GlobiPay**](americanvolume/)|`americanvolume`| 
 |![amlnode](https://static.openfintech.io/vendors/amlnode/logo.svg?w=600&c=v0.59.26#w200) |[**AML Node**](amlnode/)|`amlnode`| 
@@ -895,6 +896,7 @@
 |![livecoinnet](https://static.openfintech.io/vendors/livecoinnet/logo.svg?w=600&c=v0.59.26#w200) |[**livecoin.net**](livecoinnet/)|`livecoinnet`| 
 |![lodatrajffajzen_bank_avalm_lviv](https://static.openfintech.io/vendors/lodatrajffajzen_bank_avalm_lviv/logo.svg?w=600&c=v0.59.26#w200) |[**Львівська обласна дирекція Публічного акціонерного товариства 'Райффайзен Банк Аваль'**](lodatrajffajzen_bank_avalm_lviv/)|`lodatrajffajzen_bank_avalm_lviv`| 
 |![lokobank](https://static.openfintech.io/vendors/lokobank/logo.svg?w=600&c=v0.59.26#w200) |[**Локо банк**](lokobank/)|`lokobank`| 
+|![lpb](https://static.openfintech.io/vendors/lpb/logo.svg?w=600&c=v0.59.26#w200) |[**LPB**](lpb/)|`lpb`| 
 |![lugan_f_ya_pat_kbprivatbankm_lugansk](https://static.openfintech.io/vendors/lugan_f_ya_pat_kbprivatbankm_lugansk/logo.svg?w=600&c=v0.59.26#w200) |[**ЛУГАНСЬКА ФІЛІЯ ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](lugan_f_ya_pat_kbprivatbankm_lugansk/)|`lugan_f_ya_pat_kbprivatbankm_lugansk`| 
 |![lyubojbanktailanda](https://static.openfintech.io/vendors/lyubojbanktailanda/logo.svg?w=600&c=v0.59.26#w200) |[**Любой банк Таиланда**](lyubojbanktailanda/)|`lyubojbanktailanda`| 
 || **M** ||
@@ -1376,6 +1378,7 @@
 |![pochtabank](https://static.openfintech.io/vendors/pochtabank/logo.svg?w=600&c=v0.59.26#w200) |[**Почта Банк**](pochtabank/)|`pochtabank`| 
 |![pokermatch](https://static.openfintech.io/vendors/pokermatch/logo.svg?w=600&c=v0.59.26#w200) |[**Pokermatch**](pokermatch/)|`pokermatch`| 
 |![pokpay](https://static.openfintech.io/vendors/pokpay/logo.svg?w=600&c=v0.59.26#w200) |[**PokPay**](pokpay/)|`pokpay`| 
+|![poli](https://static.openfintech.io/vendors/poli/logo.svg?w=600&c=v0.59.26#w200) |[**POLi**](poli/)|`poli`| 
 |![polikombank](https://static.openfintech.io/vendors/polikombank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'Полікомбанк'**](polikombank/)|`polikombank`| 
 |![polipayonline](https://static.openfintech.io/vendors/polipayonline/logo.png?w=600&c=v0.59.26#w200) |[**POLi Payments**](polipayonline/)|`polipayonline`| 
 |![polt_gru_pat_kbprivatbank_m_poltava](https://static.openfintech.io/vendors/polt_gru_pat_kbprivatbank_m_poltava/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ 'ПОЛТАВСЬКЕ ГОЛОВНЕ РЕГІОНАЛЬНЕ УПРАВЛІННЯ' ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](polt_gru_pat_kbprivatbank_m_poltava/)|`polt_gru_pat_kbprivatbank_m_poltava`| 
@@ -1594,6 +1597,7 @@
 |![thaimilitarybanktmbnetbanking](https://static.openfintech.io/vendors/thaimilitarybanktmbnetbanking/logo.png?w=600&c=v0.59.26#w200) |[**Thai Military Bank**](thaimilitarybanktmbnetbanking/)|`thaimilitarybanktmbnetbanking`| 
 |![theecheckcom](https://static.openfintech.io/vendors/theecheckcom/logo.png?w=600&c=v0.59.26#w200) |[**TheECheck.com**](theecheckcom/)|`theecheckcom`| 
 |![thelogicgroup](https://static.openfintech.io/vendors/thelogicgroup/logo.png?w=600&c=v0.59.26#w200) |[**The Logic Group**](thelogicgroup/)|`thelogicgroup`| 
+|![thenoy](https://static.openfintech.io/vendors/thenoy/logo.svg?w=600&c=v0.59.26#w200) |[**THENOY**](thenoy/)|`thenoy`| 
 |![thorpayments](https://static.openfintech.io/vendors/thorpayments/logo.svg?w=600&c=v0.59.26#w200) |[**Thor Payments**](thorpayments/)|`thorpayments`| 
 |![ticketpremium](https://static.openfintech.io/vendors/ticketpremium/logo.png?w=600&c=v0.59.26#w200) |[**Ticket Premium**](ticketpremium/)|`ticketpremium`| 
 |![tinkoff](https://static.openfintech.io/vendors/tinkoff/logo.svg?w=600&c=v0.59.26#w200) |[**Tinkoff**](tinkoff/)|`tinkoff`| 
@@ -1770,6 +1774,7 @@
 |![webmoney](https://static.openfintech.io/vendors/webmoney/logo.svg?w=600&c=v0.59.26#w200) |[**WebMoney**](webmoney/)|`webmoney`| 
 |![webmoneytransfer](https://static.openfintech.io/vendors/webmoneytransfer/logo.svg?w=600&c=v0.59.26#w200) |[**WebMoney Transfer**](webmoneytransfer/)|`webmoneytransfer`| 
 |![webpayplus](https://static.openfintech.io/vendors/webpayplus/logo.svg?w=600&c=v0.59.26#w200) |[**Webpay plus**](webpayplus/)|`webpayplus`| 
+|![webpays](https://static.openfintech.io/vendors/webpays/logo.png?w=600&c=v0.59.26#w200) |[**WebPays**](webpays/)|`webpays`| 
 |![websecpay](https://static.openfintech.io/vendors/websecpay/logo.png?w=600&c=v0.59.26#w200) |[**Websecpay**](websecpay/)|`websecpay`| 
 |![webteh](https://static.openfintech.io/vendors/webteh/logo.png?w=600&c=v0.59.26#w200) |[**Webteh**](webteh/)|`webteh`| 
 |![wedeal](https://static.openfintech.io/vendors/wedeal/logo.png?w=600&c=v0.59.26#w200) |[**weDeal**](wedeal/)|`wedeal`| 
@@ -1845,6 +1850,7 @@
 |![zapp](https://static.openfintech.io/vendors/zapp/logo.png?w=600&c=v0.59.26#w200) |[**Zapp**](zapp/)|`zapp`| 
 |![zaypay](https://static.openfintech.io/vendors/zaypay/logo.png?w=600&c=v0.59.26#w200) |[**Zaypay**](zaypay/)|`zaypay`| 
 |![zchex](https://static.openfintech.io/vendors/zchex/logo.png?w=600&c=v0.59.26#w200) |[**ZCHEX**](zchex/)|`zchex`| 
+|![zepto](https://static.openfintech.io/vendors/zepto/logo.svg?w=600&c=v0.59.26#w200) |[**Zepto**](zepto/)|`zepto`| 
 |![zhilstrojsberbank](https://static.openfintech.io/vendors/zhilstrojsberbank/logo.svg?w=600&c=v0.59.26#w200) |[**Жилстройсбербанк**](zhilstrojsberbank/)|`zhilstrojsberbank`| 
 |![zhitomir_ru_pat_kbprivatbankm_zhitomir](https://static.openfintech.io/vendors/zhitomir_ru_pat_kbprivatbankm_zhitomir/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ 'ЖИТОМИРСЬКЕ РЕГІОНАЛЬНЕ УПРАВЛІННЯ' ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](zhitomir_ru_pat_kbprivatbankm_zhitomir/)|`zhitomir_ru_pat_kbprivatbankm_zhitomir`| 
 |![zimpler](https://static.openfintech.io/vendors/zimpler/logo.png?w=600&c=v0.59.26#w200) |[**Zimpler**](zimpler/)|`zimpler`| 
