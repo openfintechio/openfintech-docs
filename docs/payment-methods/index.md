@@ -257,6 +257,7 @@
 |![kasikorn_bank](https://static.openfintech.io/payment_methods/kasikorn_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Kasikorn Bank**](kasikorn_bank/)|`kasikorn_bank`| 
 |![kasikornbankkbanknetbanking](https://static.openfintech.io/payment_methods/kasikornbankkbanknetbanking/logo.png?w=400&c=v0.59.26#w200) |[**Kbank netbanking**](kasikornbankkbanknetbanking/)|`kasikornbankkbanknetbanking`| 
 |![kbcbetaalknop](https://static.openfintech.io/payment_methods/kbcbetaalknop/logo.png?w=400&c=v0.59.26#w200) |[**KBC / CBC Online**](kbcbetaalknop/)|`kbcbetaalknop`| 
+|![kien_long_bank](https://static.openfintech.io/payment_methods/kien_long_bank/logo.png?w=400&c=v0.59.26#w200) |[**Kien Long Commercial Joint - Stock Bank**](kien_long_bank/)|`kien_long_bank`| 
 |![kievstar](https://static.openfintech.io/payment_methods/kievstar/logo.png?w=400&c=v0.59.26#w200) |[**Kievstar**](kievstar/)|`kievstar`| 
 |![komercnibanka](https://static.openfintech.io/payment_methods/komercnibanka/logo.png?w=400&c=v0.59.26#w200) |[**Komercni Banka**](komercnibanka/)|`komercnibanka`| 
 |![kookmin_bank](https://static.openfintech.io/payment_methods/kookmin_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Kookmin Bank**](kookmin_bank/)|`kookmin_bank`| 
@@ -291,6 +292,7 @@
 |![may_bank](https://static.openfintech.io/payment_methods/may_bank/logo.svg?w=400&c=v0.59.26#w200) |[**May Bank**](may_bank/)|`may_bank`| 
 |![maybanknetbankingphillipines](https://static.openfintech.io/payment_methods/maybanknetbankingphillipines/logo.png?w=400&c=v0.59.26#w200) |[**Maybank netbanking**](maybanknetbankingphillipines/)|`maybanknetbankingphillipines`| 
 |![mazooma](https://static.openfintech.io/payment_methods/mazooma/logo.png?w=400&c=v0.59.26#w200) |[**Mazooma**](mazooma/)|`mazooma`| 
+|![mb_bank](https://static.openfintech.io/payment_methods/mb_bank/logo.png?w=400&c=v0.59.26#w200) |[**MB Bank**](mb_bank/)|`mb_bank`| 
 |![mbank](https://static.openfintech.io/payment_methods/mbank/logo.png?w=400&c=v0.59.26#w200) |[**mBank (mTransfer)**](mbank/)|`mbank`| 
 |![megafon](https://static.openfintech.io/payment_methods/megafon/logo.png?w=400&c=v0.59.26#w200) |[**Megafon**](megafon/)|`megafon`| 
 |![mercadopago](https://static.openfintech.io/payment_methods/mercadopago/logo.png?w=400&c=v0.59.26#w200) |[**MercadoPago**](mercadopago/)|`mercadopago`| 
@@ -406,6 +408,7 @@
 |![public_bank_vietnam](https://static.openfintech.io/payment_methods/public_bank_vietnam/logo.png?w=400&c=v0.59.26#w200) |[**Public Bank Vietnam**](public_bank_vietnam/)|`public_bank_vietnam`| 
 |![punjab_national_bank](https://static.openfintech.io/payment_methods/punjab_national_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Punjab National Bank**](punjab_national_bank/)|`punjab_national_bank`| 
 |![punjab_sind_bank](https://static.openfintech.io/payment_methods/punjab_sind_bank/logo.png?w=400&c=v0.59.26#w200) |[**Punjab & Sind Bank**](punjab_sind_bank/)|`punjab_sind_bank`| 
+|![pvcom_bank](https://static.openfintech.io/payment_methods/pvcom_bank/logo.png?w=400&c=v0.59.26#w200) |[**Vietnam Public Joint Stock Commercial Bank **](pvcom_bank/)|`pvcom_bank`| 
 || **Q** ||
 |![qazkombank](https://static.openfintech.io/payment_methods/qazkombank/logo.png?w=400&c=v0.59.26#w200) |[**Qazkom Bank**](qazkombank/)|`qazkombank`| 
 |![qiwi](https://static.openfintech.io/payment_methods/qiwi/logo.svg?w=400&c=v0.59.26#w200) |[**VISA QIWI Wallet**](qiwi/)|`qiwi`| 
@@ -473,6 +476,7 @@
 |![ssk_za](https://static.openfintech.io/payment_methods/ssk_za/logo.png?w=400&c=v0.59.26#w200) |[**Self service kiosk South Africa**](ssk_za/)|`ssk_za`| 
 |![standard_charter_bank](https://static.openfintech.io/payment_methods/standard_charter_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Standard Charter Bank**](standard_charter_bank/)|`standard_charter_bank`| 
 |![standard_chartered_bank_korea](https://static.openfintech.io/payment_methods/standard_chartered_bank_korea/logo.svg?w=400&c=v0.59.26#w200) |[**Standard Chartered Bank Korea**](standard_chartered_bank_korea/)|`standard_chartered_bank_korea`| 
+|![standard_chartered_bank_vietnam](https://static.openfintech.io/payment_methods/standard_chartered_bank_vietnam/logo.png?w=400&c=v0.59.26#w200) |[**Standard Chartered Bank (Vietnam) Limited**](standard_chartered_bank_vietnam/)|`standard_chartered_bank_vietnam`| 
 |![standardbank](https://static.openfintech.io/payment_methods/standardbank/logo.png?w=400&c=v0.59.26#w200) |[**Standart Bank**](standardbank/)|`standardbank`| 
 |![state_bank_of_india](https://static.openfintech.io/payment_methods/state_bank_of_india/logo.svg?w=400&c=v0.59.26#w200) |[**State Bank of India**](state_bank_of_india/)|`state_bank_of_india`| 
 |![suhyup_bank](https://static.openfintech.io/payment_methods/suhyup_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Suhyup Bank**](suhyup_bank/)|`suhyup_bank`| 
