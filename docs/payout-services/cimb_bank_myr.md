@@ -1,5 +1,5 @@
 
-# CIMB Bank (service) 
+# CIMB Bank Vietnam Limited (service) 
 ![cimb_bank_myr](https://static.openfintech.io/payout_methods/cimb_bank_myr/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,7 +12,9 @@
  
 **Name:** 
  
-:	[EN] CIMB Bank 
+:	[EN] CIMB Bank Vietnam Limited 
+:	[RU] CIMB Bank Vietnam Limited 
+:	[UK] CIMB Bank Vietnam Limited 
  
 **Amount limits:** from `50` to `20000` MYR 
 

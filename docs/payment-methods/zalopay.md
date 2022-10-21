@@ -47,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _ZaloPay_
 |:---:|:---:|:---:| 
 |![v9pay](https://static.openfintech.io/payment_providers/v9pay/icon.png?w=278&c=v0.59.26#w100) |[V9Pay](/payment-providers/v9pay/)|`v9pay`| 
 |![copay](https://static.openfintech.io/payment_providers/copay/icon.svg?w=278&c=v0.59.26#w100) |[Copay](/payment-providers/copay/)|`copay`| 
+|![skpay](https://static.openfintech.io/payment_providers/skpay/icon.png?w=278&c=v0.59.26#w100) |[SKPay](/payment-providers/skpay/)|`skpay`| 
  
 
 ## JSON Object 

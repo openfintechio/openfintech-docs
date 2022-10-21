@@ -668,6 +668,7 @@
 |![securcharge](https://static.openfintech.io/payment_providers/securcharge/logo.png?w=600&c=v0.59.26#w100) |[**SecurCharge**](securcharge/)|`securcharge`| 
 |![securenetllc](https://static.openfintech.io/payment_providers/securenetllc/logo.png?w=600&c=v0.59.26#w100) |[**SecureNet LLC**](securenetllc/)|`securenetllc`| 
 |![securepay](https://static.openfintech.io/payment_providers/securepay/logo.svg?w=600&c=v0.59.26#w100) |[**SecurePay**](securepay/)|`securepay`| 
+|![securepaycard](https://static.openfintech.io/payment_providers/securepaycard/logo.svg?w=600&c=v0.59.26#w100) |[**Securepaycard**](securepaycard/)|`securepaycard`| 
 |![securepaycom](https://static.openfintech.io/payment_providers/securepaycom/logo.svg?w=600&c=v0.59.26#w100) |[**SecurePay.com**](securepaycom/)|`securepaycom`| 
 |![securepaytechcom](https://static.openfintech.io/payment_providers/securepaytechcom/logo.png?w=600&c=v0.59.26#w100) |[**SecurePayTech.com**](securepaytechcom/)|`securepaytechcom`| 
 |![securetrading](https://static.openfintech.io/payment_providers/securetrading/logo.png?w=600&c=v0.59.26#w100) |[**Secure Trading**](securetrading/)|`securetrading`| 
@@ -684,6 +685,7 @@
 |![sisow](https://static.openfintech.io/payment_providers/sisow/logo.png?w=600&c=v0.59.26#w100) |[**Sisow**](sisow/)|`sisow`| 
 |![sixpaymentservices](https://static.openfintech.io/payment_providers/sixpaymentservices/logo.png?w=600&c=v0.59.26#w100) |[**SIX Payment Services**](sixpaymentservices/)|`sixpaymentservices`| 
 |![skipjackpaymentsolutions](https://static.openfintech.io/payment_providers/skipjackpaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Skipjack**](skipjackpaymentsolutions/)|`skipjackpaymentsolutions`| 
+|![skpay](https://static.openfintech.io/payment_providers/skpay/logo.png?w=600&c=v0.59.26#w100) |[**SKPay**](skpay/)|`skpay`| 
 |![skrill](https://static.openfintech.io/payment_providers/skrill/logo.svg?w=600&c=v0.59.26#w100) |[**Skrill**](skrill/)|`skrill`| 
 |![skypay](https://static.openfintech.io/payment_providers/skypay/logo.png?w=600&c=v0.59.26#w100) |[**Skypay**](skypay/)|`skypay`| 
 |![slimpay](https://static.openfintech.io/payment_providers/slimpay/logo.png?w=600&c=v0.59.26#w100) |[**SlimPay**](slimpay/)|`slimpay`| 

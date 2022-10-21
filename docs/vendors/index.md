@@ -1496,6 +1496,7 @@
 |![securcharge](https://static.openfintech.io/vendors/securcharge/logo.png?w=600&c=v0.59.26#w200) |[**SecurCharge**](securcharge/)|`securcharge`| 
 |![securenetllc](https://static.openfintech.io/vendors/securenetllc/logo.png?w=600&c=v0.59.26#w200) |[**SecureNet LLC**](securenetllc/)|`securenetllc`| 
 |![securepay](https://static.openfintech.io/vendors/securepay/logo.svg?w=600&c=v0.59.26#w200) |[**SecurePay**](securepay/)|`securepay`| 
+|![securepaycard](https://static.openfintech.io/vendors/securepaycard/logo.svg?w=600&c=v0.59.26#w200) |[**Securepaycard**](securepaycard/)|`securepaycard`| 
 |![securepaycom](https://static.openfintech.io/vendors/securepaycom/logo.svg?w=600&c=v0.59.26#w200) |[**SecurePay.com**](securepaycom/)|`securepaycom`| 
 |![securepaytechcom](https://static.openfintech.io/vendors/securepaytechcom/logo.png?w=600&c=v0.59.26#w200) |[**SecurePayTech.com**](securepaytechcom/)|`securepaytechcom`| 
 |![securetrading](https://static.openfintech.io/vendors/securetrading/logo.png?w=600&c=v0.59.26#w200) |[**Secure Trading**](securetrading/)|`securetrading`| 
@@ -1524,6 +1525,7 @@
 |![sixpaymentservices](https://static.openfintech.io/vendors/sixpaymentservices/logo.png?w=600&c=v0.59.26#w200) |[**SIX Payment Services**](sixpaymentservices/)|`sixpaymentservices`| 
 |![skandiabanken](https://static.openfintech.io/vendors/skandiabanken/logo.png?w=600&c=v0.59.26#w200) |[**Skandiabanken**](skandiabanken/)|`skandiabanken`| 
 |![skipjackpaymentsolutions](https://static.openfintech.io/vendors/skipjackpaymentsolutions/logo.png?w=600&c=v0.59.26#w200) |[**Skipjack**](skipjackpaymentsolutions/)|`skipjackpaymentsolutions`| 
+|![skpay](https://static.openfintech.io/vendors/skpay/logo.png?w=600&c=v0.59.26#w200) |[**SKPay**](skpay/)|`skpay`| 
 |![skrill](https://static.openfintech.io/vendors/skrill/logo.svg?w=600&c=v0.59.26#w200) |[**Skrill**](skrill/)|`skrill`| 
 |![skypay](https://static.openfintech.io/vendors/skypay/logo.png?w=600&c=v0.59.26#w200) |[**Skypay**](skypay/)|`skypay`| 
 |![slimpay](https://static.openfintech.io/vendors/slimpay/logo.png?w=600&c=v0.59.26#w200) |[**SlimPay**](slimpay/)|`slimpay`| 

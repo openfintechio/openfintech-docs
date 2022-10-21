@@ -35,6 +35,7 @@ The list of [Payment Services](/payment-services/) based on the _Shinhan Bank_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![shinhan_bank](https://static.openfintech.io/payment_methods/shinhan_bank/icon.svg?w=278&c=v0.59.26#w100) |[shinhan_bank_krw_hpp](/payment-services/shinhan_bank_krw_hpp/)|`shinhan_bank_krw_hpp`| 
+|![shinhan_bank](https://static.openfintech.io/payment_methods/shinhan_bank/icon.svg?w=278&c=v0.59.26#w100) |[shinhan_bank_vnd_hpp](/payment-services/shinhan_bank_vnd_hpp/)|`shinhan_bank_vnd_hpp`| 
  
 
 ## Payment Providers 
@@ -44,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Shinhan B
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![paysec](https://static.openfintech.io/payment_providers/paysec/icon.png?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
+|![skpay](https://static.openfintech.io/payment_providers/skpay/icon.png?w=278&c=v0.59.26#w100) |[SKPay](/payment-providers/skpay/)|`skpay`| 
  
 
 ## JSON Object 

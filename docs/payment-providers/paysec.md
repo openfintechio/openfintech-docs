@@ -184,7 +184,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![krungsri](https://static.openfintech.io/payout_methods/krungsri/icon.png?w=278&c=v0.59.26#w40) |[krungsri](payout-methodskrungsri/)|`krungsri`| 
 |![bangko_bank](https://static.openfintech.io/payout_methods/bangko_bank/icon.svg?w=278&c=v0.59.26#w40) |[bangko_bank](payout-methodsbangko_bank/)|`bangko_bank`| 
 |![kasikorn_bank](https://static.openfintech.io/payout_methods/kasikorn_bank/icon.svg?w=278&c=v0.59.26#w40) |[kasikorn_bank](payout-methodskasikorn_bank/)|`kasikorn_bank`| 
-|![cimb_bank](https://static.openfintech.io/payout_methods/cimb_bank/icon.svg?w=278&c=v0.59.26#w40) |[cimb_bank](payout-methodscimb_bank/)|`cimb_bank`| 
+|![cimb_bank](https://static.openfintech.io/payout_methods/cimb_bank/icon.png?w=278&c=v0.59.26#w40) |[cimb_bank](payout-methodscimb_bank/)|`cimb_bank`| 
 |![hong_leong_bank](https://static.openfintech.io/payout_methods/hong_leong_bank/icon.svg?w=278&c=v0.59.26#w40) |[hong_leong_bank](payout-methodshong_leong_bank/)|`hong_leong_bank`| 
 |![may_bank](https://static.openfintech.io/payout_methods/may_bank/icon.svg?w=278&c=v0.59.26#w40) |[may_bank](payout-methodsmay_bank/)|`may_bank`| 
 |![public_bank_berhad](https://static.openfintech.io/payout_methods/public_bank_berhad/icon.png?w=278&c=v0.59.26#w40) |[public_bank_berhad](payout-methodspublic_bank_berhad/)|`public_bank_berhad`| 
