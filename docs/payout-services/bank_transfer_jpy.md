@@ -25,6 +25,7 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`account_number`|✔|`string`|`/^[A-Z]{2}[A-Z0-9]{13,32}$\|^[0-9]{3,15}$/`| 
+|`account_name`|✗|`string`|`/^[A-Za-z0-9\s]{2,100}$/`| 
 |`bank_branch`|✗|`string`|`/^[A-za-z,0-9\p{L}]{2,100}$/u`| 
 |`bank_branch_code`|✗|`string`|`/^[0-9]{2,100}$/`| 
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9\p{L}]{2,20}$/u`| 
@@ -61,7 +62,25 @@
 	: [RU] Введите номер счета или IBAN 
 	: [UK] Введіть номер рахунку або IBAN 
  
-2. **`bank_branch`** 
+2. **`account_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z0-9\s]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Account Name 
+	: [RU] Account Name 
+	: [UK] Account Name 
+ 
+	Hint:  
+	: [EN] Enter Account Name 
+	: [RU] Введите Account Name 
+	: [UK] Введіть Account Name 
+ 
+3. **`bank_branch`** 
  
 	Type: `string` 
  
@@ -79,7 +98,7 @@
 	: [RU] Введите Bank Branch 
 	: [UK] Введіть Bank Branch 
  
-3. **`bank_branch_code`** 
+4. **`bank_branch_code`** 
  
 	Type: `string` 
  
@@ -97,7 +116,7 @@
 	: [RU] Введите Bank Branch 
 	: [UK] Введіть Bank Branch 
  
-4. **`bank_code`** 
+5. **`bank_code`** 
  
 	Type: `string` 
  
@@ -115,7 +134,7 @@
 	: [RU] Введите код банка 
 	: [UK] Введіть код банку 
  
-5. **`bank_country_code_iso`** 
+6. **`bank_country_code_iso`** 
  
 	Type: `string` 
  
@@ -133,7 +152,7 @@
 	: [RU] Введите bank country code 
 	: [UK] Введіть bank country code 
  
-6. **`bank_name`** 
+7. **`bank_name`** 
  
 	Type: `string` 
  
@@ -151,7 +170,7 @@
 	: [RU] Введите имя банка 
 	: [UK] Введіть ім'я банку 
  
-7. **`beneficiary_name`** 
+8. **`beneficiary_name`** 
  
 	Type: `string` 
  
@@ -169,7 +188,7 @@
 	: [RU] Введите имя получателя 
 	: [UK] Введіть імʼя отримувача 
  
-8. **`beneficiary_full_name`** 
+9. **`beneficiary_full_name`** 
  
 	Type: `string` 
  
@@ -187,7 +206,7 @@
 	: [RU] Введите полное имя получателя 
 	: [UK] Введіть повне імʼя отримувача 
  
-9. **`beneficiary_address`** 
+10. **`beneficiary_address`** 
  
 	Type: `string` 
  
@@ -205,7 +224,7 @@
 	: [RU] Введите адресс 
 	: [UK] Введіть адресу 
  
-10. **`beneficiary_country_code_iso`** 
+11. **`beneficiary_country_code_iso`** 
  
 	Type: `string` 
  
@@ -223,7 +242,7 @@
 	: [RU] Введите beneficiary country code 
 	: [UK] Введіть beneficiary country code 
  
-11. **`beneficiary_email`** 
+12. **`beneficiary_email`** 
  
 	Type: `string` 
  
@@ -241,7 +260,7 @@
 	: [RU] Введите Email 
 	: [UK] Введіть Email 
  
-12. **`beneficiary_city`** 
+13. **`beneficiary_city`** 
  
 	Type: `string` 
  
@@ -259,7 +278,7 @@
 	: [RU] Enter city 
 	: [UK] Enter city 
  
-13. **`beneficiary_postcode`** 
+14. **`beneficiary_postcode`** 
  
 	Type: `string` 
  
@@ -277,7 +296,7 @@
 	: [RU] Enter postcode 
 	: [UK] Enter postcode 
  
-14. **`beneficiary_phone`** 
+15. **`beneficiary_phone`** 
  
 	Type: `string` 
  
@@ -295,7 +314,7 @@
 	: [RU] Введите номер телефона 
 	: [UK] Введіть номер телефону 
  
-15. **`beneficiary_dob`** 
+16. **`beneficiary_dob`** 
  
 	Type: `string` 
  
@@ -341,11 +360,28 @@
       "example":"12345678"
     },
     {
+      "key":"account_name",
+      "type":"string",
+      "regexp":"\/^[A-Za-z0-9\\s]{2,100}$\/",
+      "required":false,
+      "position":2,
+      "label":{
+        "en":"Account Name",
+        "ru":"Account Name",
+        "uk":"Account Name"
+      },
+      "hint":{
+        "en":"Enter Account Name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Account Name",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Account Name"
+      }
+    },
+    {
       "key":"bank_branch",
       "type":"string",
       "regexp":"\/^[A-za-z,0-9\\p{L}]{2,100}$\/u",
       "required":false,
-      "position":2,
+      "position":3,
       "label":{
         "en":"Bank Branch",
         "ru":"Bank Branch",
@@ -362,7 +398,7 @@
       "type":"string",
       "regexp":"\/^[0-9]{2,100}$\/",
       "required":false,
-      "position":3,
+      "position":4,
       "label":{
         "en":"Bank Branch Code",
         "ru":"Bank Branch Code",
@@ -380,7 +416,7 @@
       "type":"string",
       "regexp":"\/^[A-Za-z0-9\\p{L}]{2,20}$\/u",
       "required":false,
-      "position":4,
+      "position":5,
       "label":{
         "en":"Bank Code",
         "ru":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
@@ -398,7 +434,7 @@
       "type":"string",
       "regexp":"\/^.{2,6}$\/",
       "required":false,
-      "position":5,
+      "position":6,
       "label":{
         "en":"Bank country code",
         "ru":"Bank country code",
@@ -416,7 +452,7 @@
       "type":"string",
       "regexp":"\/^[A-Z\\-\\sa-z0-9_\\p{L}]{2,100}$\/u",
       "required":false,
-      "position":6,
+      "position":7,
       "label":{
         "en":"Bank Name",
         "ru":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
@@ -433,7 +469,7 @@
       "type":"string",
       "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\s\\p{L}]{2,100}$\/u",
       "required":false,
-      "position":7,
+      "position":8,
       "label":{
         "en":"Beneficiary first name",
         "ru":"\u0418\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
@@ -450,7 +486,7 @@
       "type":"string",
       "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\d\\s\\p{L}]{2,100}$\/u",
       "required":false,
-      "position":8,
+      "position":9,
       "label":{
         "en":"Beneficiary full name",
         "ru":"\u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
@@ -467,7 +503,7 @@
       "type":"string",
       "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f,\\s\\-\\d\\p{L}\\p{L}]{2,64}$\/u",
       "required":false,
-      "position":9,
+      "position":10,
       "label":{
         "en":"Address",
         "ru":"Address",
@@ -484,7 +520,7 @@
       "type":"string",
       "regexp":"\/^.{2,6}$\/",
       "required":false,
-      "position":10,
+      "position":11,
       "label":{
         "en":"Beneficiary country code",
         "ru":"Beneficiary country code",
@@ -501,7 +537,7 @@
       "type":"string",
       "regexp":"\/^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,3})$\/",
       "required":false,
-      "position":11,
+      "position":12,
       "label":{
         "en":"Email",
         "ru":"Email",
@@ -519,7 +555,7 @@
       "type":"string",
       "regexp":"\/^.{1,255}$\/",
       "required":false,
-      "position":12,
+      "position":13,
       "label":{
         "en":"City",
         "ru":"City",
@@ -537,7 +573,7 @@
       "type":"string",
       "regexp":"\/^.{1,255}$\/",
       "required":false,
-      "position":13,
+      "position":14,
       "label":{
         "en":"Postcode",
         "ru":"Postcode",
@@ -555,7 +591,7 @@
       "type":"string",
       "regexp":"\/^\\+\\d{1,15}$\/",
       "required":false,
-      "position":14,
+      "position":15,
       "label":{
         "en":"Phone number",
         "ru":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
@@ -572,7 +608,7 @@
       "type":"string",
       "regexp":"\/^([0-2][0-9]|(3)[0-1])(\\\/)(((0)[0-9])|((1)[0-2]))(\\\/)\\d{4}$\/",
       "required":false,
-      "position":15,
+      "position":16,
       "label":{
         "en":"Date of birth",
         "ru":"\u0414\u0430\u0442\u0430 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
