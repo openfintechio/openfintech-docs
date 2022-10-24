@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/industrial_bank_hanoi/logo.png?w=4
 https://static.openfintech.io/payment_methods/industrial_bank_hanoi/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _INDUSTRIAL BANK OF KOREA – HANOI BRANCH_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![industrial_bank_hanoi](https://static.openfintech.io/payment_methods/industrial_bank_hanoi/icon.png?w=278&c=v0.59.26#w100) |[industrial_bank_hanoi_vnd_hpp](/payment-services/industrial_bank_hanoi_vnd_hpp/)|`industrial_bank_hanoi_vnd_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _INDUSTRIAL BANK OF KOREA – HANOI BRANCH_ 

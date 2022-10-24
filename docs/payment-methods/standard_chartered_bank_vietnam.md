@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/standard_chartered_bank_vietnam/lo
 https://static.openfintech.io/payment_methods/standard_chartered_bank_vietnam/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Standard Chartered Bank (Vietnam) Limited_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![standard_chartered_bank_vietnam](https://static.openfintech.io/payment_methods/standard_chartered_bank_vietnam/icon.png?w=278&c=v0.59.26#w100) |[standard_chartered_bank_vietnam_vnd_hpp](/payment-services/standard_chartered_bank_vietnam_vnd_hpp/)|`standard_chartered_bank_vietnam_vnd_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Standard Chartered Bank (Vietnam) Limited_ 

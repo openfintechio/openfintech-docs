@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/vrb_bank/logo.png?w=400&c=v0.59.26
 https://static.openfintech.io/payment_methods/vrb_bank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Vietnam - Russia Joint Venture Bank_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![vrb_bank](https://static.openfintech.io/payment_methods/vrb_bank/icon.png?w=278&c=v0.59.26#w100) |[vrb_bank_vnd_hpp](/payment-services/vrb_bank_vnd_hpp/)|`vrb_bank_vnd_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Vietnam - Russia Joint Venture Bank_ 

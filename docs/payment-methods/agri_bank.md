@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/agri_bank/logo.png?w=400&c=v0.59.2
 https://static.openfintech.io/payment_methods/agri_bank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Vietnam Bank for Agriculture and Rural Development_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![agri_bank](https://static.openfintech.io/payment_methods/agri_bank/icon.png?w=278&c=v0.59.26#w100) |[agri_bank_vnd_hpp](/payment-services/agri_bank_vnd_hpp/)|`agri_bank_vnd_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Vietnam Bank for Agriculture and Rural Development_ 

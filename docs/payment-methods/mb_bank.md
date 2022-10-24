@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/mb_bank/logo.png?w=400&c=v0.59.26#
 https://static.openfintech.io/payment_methods/mb_bank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _MB Bank_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![mb_bank](https://static.openfintech.io/payment_methods/mb_bank/icon.png?w=278&c=v0.59.26#w100) |[mb_bank_vnd_hpp](/payment-services/mb_bank_vnd_hpp/)|`mb_bank_vnd_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _MB Bank_ 

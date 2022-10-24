@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/saigon_bank/logo.png?w=400&c=v0.59
 https://static.openfintech.io/payment_methods/saigon_bank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Saigon Bank For Industry And Trade_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![saigon_bank](https://static.openfintech.io/payment_methods/saigon_bank/icon.png?w=278&c=v0.59.26#w100) |[saigon_bank_vnd_hpp](/payment-services/saigon_bank_vnd_hpp/)|`saigon_bank_vnd_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Saigon Bank For Industry And Trade_ 

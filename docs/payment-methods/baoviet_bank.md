@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/baoviet_bank/logo.png?w=400&c=v0.5
 https://static.openfintech.io/payment_methods/baoviet_bank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Baoviet Joint Stock Commercial Bank_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![baoviet_bank](https://static.openfintech.io/payment_methods/baoviet_bank/icon.png?w=278&c=v0.59.26#w100) |[baoviet_bank_vnd_hpp](/payment-services/baoviet_bank_vnd_hpp/)|`baoviet_bank_vnd_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Baoviet Joint Stock Commercial Bank_ 

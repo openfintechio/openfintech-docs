@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/gp_bank/logo.png?w=400&c=v0.59.26#
 https://static.openfintech.io/payment_methods/gp_bank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Global Petro Sole Member Limited Commercial Bank_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![gp_bank](https://static.openfintech.io/payment_methods/gp_bank/icon.png?w=278&c=v0.59.26#w100) |[gp_bank_vnd_hpp](/payment-services/gp_bank_vnd_hpp/)|`gp_bank_vnd_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Global Petro Sole Member Limited Commercial Bank_ 

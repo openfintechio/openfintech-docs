@@ -435,6 +435,7 @@
 |![muchbetter](https://static.openfintech.io/payment_providers/muchbetter/logo.svg?w=600&c=v0.59.26#w100) |[**MuchBetter**](muchbetter/)|`muchbetter`| 
 |![multicards](https://static.openfintech.io/payment_providers/multicards/logo.png?w=600&c=v0.59.26#w100) |[**MultiCards Internet Billing**](multicards/)|`multicards`| 
 |![multisafepay](https://static.openfintech.io/payment_providers/multisafepay/logo.png?w=600&c=v0.59.26#w100) |[**MultiSafepay**](multisafepay/)|`multisafepay`| 
+|![mxpay](https://static.openfintech.io/payment_providers/mxpay/logo.png?w=600&c=v0.59.26#w100) |[**MXPay**](mxpay/)|`mxpay`| 
 |![mygate](https://static.openfintech.io/payment_providers/mygate/logo.png?w=600&c=v0.59.26#w100) |[**MyGate**](mygate/)|`mygate`| 
 || **N** ||
 |![nationalach](https://static.openfintech.io/payment_providers/nationalach/logo.png?w=600&c=v0.59.26#w100) |[**NationalACH**](nationalach/)|`nationalach`| 
@@ -724,6 +725,7 @@
 |![tkbpay](https://static.openfintech.io/payment_providers/tkbpay/logo.svg?w=600&c=v0.59.26#w100) |[**TKB Pay**](tkbpay/)|`tkbpay`| 
 |![tnspay](https://static.openfintech.io/payment_providers/tnspay/logo.png?w=600&c=v0.59.26#w100) |[**TNSPay**](tnspay/)|`tnspay`| 
 |![tome](https://static.openfintech.io/payment_providers/tome/logo.svg?w=600&c=v0.59.26#w100) |[**Tome**](tome/)|`tome`| 
+|![toshani](https://static.openfintech.io/payment_providers/toshani/logo.png?w=600&c=v0.59.26#w100) |[**Toshani**](toshani/)|`toshani`| 
 |![totalwebsolutions](https://static.openfintech.io/payment_providers/totalwebsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Total Web Solutions**](totalwebsolutions/)|`totalwebsolutions`| 
 |![tpaycom](https://static.openfintech.io/payment_providers/tpaycom/logo.png?w=600&c=v0.59.26#w100) |[**tpay.com**](tpaycom/)|`tpaycom`| 
 |![transact](https://static.openfintech.io/payment_providers/transact/logo.png?w=600&c=v0.59.26#w100) |[**Transact Europe**](transact/)|`transact`| 

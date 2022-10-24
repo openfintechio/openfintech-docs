@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/cooperative_bank/logo.png?w=400&c=
 https://static.openfintech.io/payment_methods/cooperative_bank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Co-operative Bank of Viet Nam_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![cooperative_bank](https://static.openfintech.io/payment_methods/cooperative_bank/icon.png?w=278&c=v0.59.26#w100) |[cooperative_bank_vnd_hpp](/payment-services/cooperative_bank_vnd_hpp/)|`cooperative_bank_vnd_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Co-operative Bank of Viet Nam_ 

@@ -35,6 +35,7 @@ The list of [Payment Services](/payment-services/) based on the _Hong Leong Bank
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![hong_leong_bank](https://static.openfintech.io/payment_methods/hong_leong_bank/icon.svg?w=278&c=v0.59.26#w100) |[hong_leong_bank_myr_hpp](/payment-services/hong_leong_bank_myr_hpp/)|`hong_leong_bank_myr_hpp`| 
+|![hong_leong_bank](https://static.openfintech.io/payment_methods/hong_leong_bank/icon.svg?w=278&c=v0.59.26#w100) |[hong_leong_bank_vnd_hpp](/payment-services/hong_leong_bank_vnd_hpp/)|`hong_leong_bank_vnd_hpp`| 
  
 
 ## Payment Providers 

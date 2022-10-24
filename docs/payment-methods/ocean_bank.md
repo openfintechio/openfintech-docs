@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/ocean_bank/logo.png?w=400&c=v0.59.
 https://static.openfintech.io/payment_methods/ocean_bank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Ocean Commercial One Member Limited Liability Bank_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![ocean_bank](https://static.openfintech.io/payment_methods/ocean_bank/icon.png?w=278&c=v0.59.26#w100) |[ocean_bank_vnd_hpp](/payment-services/ocean_bank_vnd_hpp/)|`ocean_bank_vnd_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Ocean Commercial One Member Limited Liability Bank_ 

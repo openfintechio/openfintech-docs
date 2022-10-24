@@ -35,6 +35,7 @@ The list of [Payment Services](/payment-services/) based on the _Woori Bank_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![woori_bank](https://static.openfintech.io/payment_methods/woori_bank/icon.png?w=278&c=v0.59.26#w100) |[woori_bank_krw_hpp](/payment-services/woori_bank_krw_hpp/)|`woori_bank_krw_hpp`| 
+|![woori_bank](https://static.openfintech.io/payment_methods/woori_bank/icon.png?w=278&c=v0.59.26#w100) |[woori_bank_vnd_hpp](/payment-services/woori_bank_vnd_hpp/)|`woori_bank_vnd_hpp`| 
  
 
 ## Payment Providers 

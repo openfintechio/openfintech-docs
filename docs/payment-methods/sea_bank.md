@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/sea_bank/logo.png?w=400&c=v0.59.26
 https://static.openfintech.io/payment_methods/sea_bank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Southeast Asia Commercial Joint Stock Bank_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![sea_bank](https://static.openfintech.io/payment_methods/sea_bank/icon.png?w=278&c=v0.59.26#w100) |[sea_bank_vnd_hpp](/payment-services/sea_bank_vnd_hpp/)|`sea_bank_vnd_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Southeast Asia Commercial Joint Stock Bank_ 

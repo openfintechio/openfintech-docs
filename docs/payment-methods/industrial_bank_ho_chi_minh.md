@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/industrial_bank_ho_chi_minh/logo.p
 https://static.openfintech.io/payment_methods/industrial_bank_ho_chi_minh/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Industrial Bank Of Korea (IBK) - Ho Chi Minh City Branch_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![industrial_bank_ho_chi_minh](https://static.openfintech.io/payment_methods/industrial_bank_ho_chi_minh/icon.png?w=278&c=v0.59.26#w100) |[industrial_bank_ho_chi_minh_vnd_hpp](/payment-services/industrial_bank_ho_chi_minh_vnd_hpp/)|`industrial_bank_ho_chi_minh_vnd_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Industrial Bank Of Korea (IBK) - Ho Chi Minh City Branch_ 

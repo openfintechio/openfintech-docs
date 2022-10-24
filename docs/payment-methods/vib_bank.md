@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/vib_bank/logo.svg?w=400&c=v0.59.26
 https://static.openfintech.io/payment_methods/vib_bank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Vietnam International Commercial Joint Stock Bank_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![vib_bank](https://static.openfintech.io/payment_methods/vib_bank/icon.png?w=278&c=v0.59.26#w100) |[vib_bank_vnd_hpp](/payment-services/vib_bank_vnd_hpp/)|`vib_bank_vnd_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Vietnam International Commercial Joint Stock Bank_ 

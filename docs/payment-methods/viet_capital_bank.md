@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/viet_capital_bank/logo.png?w=400&c
 https://static.openfintech.io/payment_methods/viet_capital_bank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Viet Capital Commercial_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![viet_capital_bank](https://static.openfintech.io/payment_methods/viet_capital_bank/icon.png?w=278&c=v0.59.26#w100) |[viet_capital_bank_vnd_hpp](/payment-services/viet_capital_bank_vnd_hpp/)|`viet_capital_bank_vnd_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Viet Capital Commercial_ 

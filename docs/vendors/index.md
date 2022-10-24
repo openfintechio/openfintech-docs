@@ -968,6 +968,7 @@
 |![multibank](https://static.openfintech.io/vendors/multibank/logo.png?w=600&c=v0.59.26#w200) |[**MultiTransfer**](multibank/)|`multibank`| 
 |![multicards](https://static.openfintech.io/vendors/multicards/logo.png?w=600&c=v0.59.26#w200) |[**MultiCards Internet Billing**](multicards/)|`multicards`| 
 |![multisafepay](https://static.openfintech.io/vendors/multisafepay/logo.png?w=600&c=v0.59.26#w200) |[**MultiSafepay**](multisafepay/)|`multisafepay`| 
+|![mxpay](https://static.openfintech.io/vendors/mxpay/logo.png?w=600&c=v0.59.26#w200) |[**MXPay**](mxpay/)|`mxpay`| 
 |![my-xchange](https://static.openfintech.io/vendors/my-xchange/logo.svg?w=600&c=v0.59.26#w200) |[**My-Xchange**](my-xchange/)|`my-xchange`| 
 |![mybank2](https://static.openfintech.io/vendors/mybank2/logo.png?w=600&c=v0.59.26#w200) |[**MyBank**](mybank2/)|`mybank2`| 
 |![mygate](https://static.openfintech.io/vendors/mygate/logo.png?w=600&c=v0.59.26#w200) |[**MyGate**](mygate/)|`mygate`| 
@@ -1609,6 +1610,7 @@
 |![tnspay](https://static.openfintech.io/vendors/tnspay/logo.png?w=600&c=v0.59.26#w200) |[**TNSPay**](tnspay/)|`tnspay`| 
 |![toditocash](https://static.openfintech.io/vendors/toditocash/logo.png?w=600&c=v0.59.26#w200) |[**Todito Cash**](toditocash/)|`toditocash`| 
 |![tome](https://static.openfintech.io/vendors/tome/logo.svg?w=600&c=v0.59.26#w200) |[**Tome**](tome/)|`tome`| 
+|![toshani](https://static.openfintech.io/vendors/toshani/logo.png?w=600&c=v0.59.26#w200) |[**Toshani**](toshani/)|`toshani`| 
 |![totalwebsolutions](https://static.openfintech.io/vendors/totalwebsolutions/logo.png?w=600&c=v0.59.26#w200) |[**Total Web Solutions**](totalwebsolutions/)|`totalwebsolutions`| 
 |![tov_24_onlajn](https://static.openfintech.io/vendors/tov_24_onlajn/logo.svg?w=600&c=v0.59.26#w200) |[**ТОВ '24 ОНЛАЙН'**](tov_24_onlajn/)|`tov_24_onlajn`| 
 |![tov_aj_ti_finans](https://static.openfintech.io/vendors/tov_aj_ti_finans/logo.svg?w=600&c=v0.59.26#w200) |[**Товариство з Обмеженою відповідальністю  'АЙ ТІ ФІНАНС'**](tov_aj_ti_finans/)|`tov_aj_ti_finans`| 

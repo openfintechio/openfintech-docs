@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/bac_a_bank/logo.png?w=400&c=v0.59.
 https://static.openfintech.io/payment_methods/bac_a_bank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _North Asia Commercial Joint Stock Bank_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![bac_a_bank](https://static.openfintech.io/payment_methods/bac_a_bank/icon.png?w=278&c=v0.59.26#w100) |[bac_a_bank_vnd_hpp](/payment-services/bac_a_bank_vnd_hpp/)|`bac_a_bank_vnd_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _North Asia Commercial Joint Stock Bank_ 

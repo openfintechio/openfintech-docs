@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/indovina_bank/logo.png?w=400&c=v0.
 https://static.openfintech.io/payment_methods/indovina_bank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Indovina Bank Ltd._ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![indovina_bank](https://static.openfintech.io/payment_methods/indovina_bank/icon.png?w=278&c=v0.59.26#w100) |[indovina_bank_vnd_hpp](/payment-services/indovina_bank_vnd_hpp/)|`indovina_bank_vnd_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Indovina Bank Ltd._ 

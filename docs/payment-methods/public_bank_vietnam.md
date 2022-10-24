@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/public_bank_vietnam/logo.png?w=400
 https://static.openfintech.io/payment_methods/public_bank_vietnam/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Public Bank Vietnam_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![public_bank_vietnam](https://static.openfintech.io/payment_methods/public_bank_vietnam/icon.png?w=278&c=v0.59.26#w100) |[public_bank_vietnam_vnd_hpp](/payment-services/public_bank_vietnam_vnd_hpp/)|`public_bank_vietnam_vnd_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Public Bank Vietnam_ 

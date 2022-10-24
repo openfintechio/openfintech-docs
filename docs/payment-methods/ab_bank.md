@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/ab_bank/logo.png?w=400&c=v0.59.26#
 https://static.openfintech.io/payment_methods/ab_bank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _An Binh Commercial Joint Stock Bank_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![ab_bank](https://static.openfintech.io/payment_methods/ab_bank/icon.png?w=278&c=v0.59.26#w100) |[ab_bank_vnd_hpp](/payment-services/ab_bank_vnd_hpp/)|`ab_bank_vnd_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _An Binh Commercial Joint Stock Bank_ 
