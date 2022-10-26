@@ -24,8 +24,8 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`beneficiary_name`|✔|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
-|`beneficiary_lastname`|✔|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
+|`beneficiary_name`|✔|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
+|`beneficiary_lastname`|✔|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
 |`document_id`|✔|`string`|`/^.{6,12}$/`| 
 |`bank_code`|✔|`string`|`/^[0-9]{2,4}$/`| 
 |`account_number`|✔|`string`|`/^[0-9]{5,100}$/`| 
@@ -37,7 +37,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z\-\sa-z]{2,100}$/` 
+	Regexp: `/^[-\s\p{L}]{2,100}$/u` 
  
 	Required: `1` 
  
@@ -55,7 +55,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z\-\sa-z]{2,100}$/` 
+	Regexp: `/^[-\s\p{L}]{2,100}$/u` 
  
 	Required: `1` 
  
@@ -134,7 +134,7 @@
   "fields":[
     {
       "key":"beneficiary_name",
-      "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
+      "regexp":"\/^[-\\s\\p{L}]{2,100}$\/u",
       "type":"string",
       "label":{
         "en":"Beneficiary first name",
@@ -151,7 +151,7 @@
     },
     {
       "key":"beneficiary_lastname",
-      "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
+      "regexp":"\/^[-\\s\\p{L}]{2,100}$\/u",
       "type":"string",
       "label":{
         "en":"Beneficiary last name",

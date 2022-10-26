@@ -27,9 +27,9 @@
 |`cpf_number`|✔|`string`|`/^[0-9\.\-]{1,14}$/`| 
 |`beneficiary_phone`|✗|`string`|`/^\+\d{10,14}$/`| 
 |`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/`| 
-|`beneficiary_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
-|`beneficiary_lastname`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
-|`bank_code`|✗|`string`|`/^[a-zA-Z0-9]{2,12}$/`| 
+|`beneficiary_name`|✗|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
+|`beneficiary_lastname`|✗|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
+|`bank_code`|✗|`string`|`/^[-\d\s\p{L}]{2,12}$/`| 
 |`bank_agency_number`|✗|`string`|`/^[A-z0-9]{2,5}$/`| 
 |`account_number`|✗|`string`|`/^[0-9]{4,100}$/`| 
 |`pix_key`|✗|`string`|`/^.{4,255}$/`| 
@@ -98,7 +98,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z\-\sa-z]{2,100}$/` 
+	Regexp: `/^[-\s\p{L}]{2,100}$/u` 
  
 	Required: `` 
  
@@ -116,7 +116,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z\-\sa-z]{2,100}$/` 
+	Regexp: `/^[-\s\p{L}]{2,100}$/u` 
  
 	Required: `` 
  
@@ -134,7 +134,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[a-zA-Z0-9]{2,12}$/` 
+	Regexp: `/^[-\d\s\p{L}]{2,12}$/` 
  
 	Required: `` 
  
@@ -321,7 +321,7 @@
     {
       "key":"beneficiary_name",
       "type":"string",
-      "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
+      "regexp":"\/^[-\\s\\p{L}]{2,100}$\/u",
       "required":false,
       "position":4,
       "label":{
@@ -338,7 +338,7 @@
     {
       "key":"beneficiary_lastname",
       "type":"string",
-      "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
+      "regexp":"\/^[-\\s\\p{L}]{2,100}$\/u",
       "required":false,
       "position":5,
       "label":{
@@ -355,7 +355,7 @@
     {
       "key":"bank_code",
       "type":"string",
-      "regexp":"\/^[a-zA-Z0-9]{2,12}$\/",
+      "regexp":"\/^[-\\d\\s\\p{L}]{2,12}$\/",
       "required":false,
       "position":6,
       "label":{

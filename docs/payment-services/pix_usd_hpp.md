@@ -28,8 +28,8 @@
 |`cpf_number`|✗|`string`|`/^[0-9\.\-]{1,11}$/`| 
 |`phone`|✗|`string`|`/^\+\d{10,14}$/`| 
 |`email`|✗|`string`|`/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$$/`| 
-|`payer_first_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
-|`payer_last_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
+|`payer_first_name`|✗|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
+|`payer_last_name`|✗|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
  
 
 ### Details 
@@ -92,7 +92,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z\-\sa-z]{2,100}$/` 
+	Regexp: `/^[-\s\p{L}]{2,100}$/u` 
  
 	Required: `` 
  
@@ -110,7 +110,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z\-\sa-z]{2,100}$/` 
+	Regexp: `/^[-\s\p{L}]{2,100}$/u` 
  
 	Required: `` 
  
@@ -190,7 +190,7 @@
     {
       "key":"payer_first_name",
       "type":"string",
-      "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
+      "regexp":"\/^[-\\s\\p{L}]{2,100}$\/u",
       "required":false,
       "position":4,
       "label":{
@@ -208,7 +208,7 @@
     {
       "key":"payer_last_name",
       "type":"string",
-      "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
+      "regexp":"\/^[-\\s\\p{L}]{2,100}$\/u",
       "required":false,
       "position":5,
       "label":{
