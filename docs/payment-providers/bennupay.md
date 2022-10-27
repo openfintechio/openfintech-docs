@@ -1,5 +1,5 @@
 
-# bennupay 
+# Bennupay 
 ![bennupay](https://static.openfintech.io/payment_providers/bennupay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] bennupay 
-:	[RU] bennupay 
-:	[UK] bennupay 
+:	[EN] Bennupay 
+:	[RU] Bennupay 
+:	[UK] Bennupay 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"bennupay",
-    "ru":"bennupay",
-    "uk":"bennupay"
+    "en":"Bennupay",
+    "ru":"Bennupay",
+    "uk":"Bennupay"
   }
 }
 ```  

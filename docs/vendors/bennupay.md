@@ -1,5 +1,5 @@
 
-# bennupay 
+# Bennupay 
 ![bennupay](https://static.openfintech.io/vendors/bennupay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] bennupay 
-:	[RU] bennupay 
-:	[UK] bennupay 
+:	[EN] Bennupay 
+:	[RU] Bennupay 
+:	[UK] Bennupay 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/bennupay/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"bennupay",
   "name":{
-    "en":"bennupay",
-    "ru":"bennupay",
-    "uk":"bennupay"
+    "en":"Bennupay",
+    "ru":"Bennupay",
+    "uk":"Bennupay"
   },
   "status":"active",
   "description":null,

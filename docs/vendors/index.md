@@ -229,7 +229,7 @@
 |![belarusbank](https://static.openfintech.io/vendors/belarusbank/logo.svg?w=600&c=v0.59.26#w200) |[**Беларусбанк**](belarusbank/)|`belarusbank`| 
 |![belfiusdirectnet](https://static.openfintech.io/vendors/belfiusdirectnet/logo.png?w=600&c=v0.59.26#w200) |[**Belfius DirectNet**](belfiusdirectnet/)|`belfiusdirectnet`| 
 |![belkapay](https://static.openfintech.io/vendors/belkapay/logo.svg?w=600&c=v0.59.26#w200) |[**belkapay.com**](belkapay/)|`belkapay`| 
-|![bennupay](https://static.openfintech.io/vendors/bennupay/logo.png?w=600&c=v0.59.26#w200) |[**bennupay**](bennupay/)|`bennupay`| 
+|![bennupay](https://static.openfintech.io/vendors/bennupay/logo.png?w=600&c=v0.59.26#w200) |[**Bennupay**](bennupay/)|`bennupay`| 
 |![beonpay](https://static.openfintech.io/vendors/beonpay/logo.png?w=600&c=v0.59.26#w200) |[**BeonPay**](beonpay/)|`beonpay`| 
 |![beonpaypayouts](https://static.openfintech.io/vendors/beonpaypayouts/logo.svg?w=600&c=v0.59.26#w200) |[**Beonpay Payouts**](beonpaypayouts/)|`beonpaypayouts`| 
 |![best-obmen](https://static.openfintech.io/vendors/best-obmen/logo.png?w=600&c=v0.59.26#w200) |[**best-obmen**](best-obmen/)|`best-obmen`| 

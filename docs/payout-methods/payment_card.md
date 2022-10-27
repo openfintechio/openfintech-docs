@@ -347,7 +347,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![millikart](https://static.openfintech.io/payment_providers/millikart/icon.png?w=278&c=v0.59.26#w100) |[MilliKart](/payment-providers/millikart/)|`millikart`| 
 |![dimocopayments](https://static.openfintech.io/payment_providers/dimocopayments/icon.png?w=278&c=v0.59.26#w100) |[DIMOCO Payments](/payment-providers/dimocopayments/)|`dimocopayments`| 
 |![leobank](https://static.openfintech.io/payment_providers/leobank/icon.png?w=278&c=v0.59.26#w100) |[LeoBank](/payment-providers/leobank/)|`leobank`| 
-|![bennupay](https://static.openfintech.io/payment_providers/bennupay/icon.png?w=278&c=v0.59.26#w100) |[bennupay](/payment-providers/bennupay/)|`bennupay`| 
+|![bennupay](https://static.openfintech.io/payment_providers/bennupay/icon.png?w=278&c=v0.59.26#w100) |[Bennupay](/payment-providers/bennupay/)|`bennupay`| 
 |![kiberpay](https://static.openfintech.io/payment_providers/kiberpay/icon.png?w=278&c=v0.59.26#w100) |[Kiberpay](/payment-providers/kiberpay/)|`kiberpay`| 
 |![hawex](https://static.openfintech.io/payment_providers/hawex/icon.svg?w=278&c=v0.59.26#w100) |[HAWEX](/payment-providers/hawex/)|`hawex`| 
 |![paytoneio](https://static.openfintech.io/payment_providers/paytoneio/icon.svg?w=278&c=v0.59.26#w100) |[Paytone.io](/payment-providers/paytoneio/)|`paytoneio`| 
