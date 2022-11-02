@@ -274,6 +274,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![ukrgasbank](https://static.openfintech.io/payment_providers/ukrgasbank/icon.png?w=278&c=v0.59.26#w100) |[UkrGasBank](/payment-providers/ukrgasbank/)|`ukrgasbank`| 
 |![tome](https://static.openfintech.io/payment_providers/tome/icon.svg?w=278&c=v0.59.26#w100) |[Tome](/payment-providers/tome/)|`tome`| 
 |![russianstandardbank](https://static.openfintech.io/payment_providers/russianstandardbank/icon.png?w=278&c=v0.59.26#w100) |[Russian Standard Bank](/payment-providers/russianstandardbank/)|`russianstandardbank`| 
+|![crosspay](https://static.openfintech.io/payment_providers/crosspay/icon.png?w=278&c=v0.59.26#w100) |[CrossPay](/payment-providers/crosspay/)|`crosspay`| 
 |![transferhub](https://static.openfintech.io/payment_providers/transferhub/icon.svg?w=278&c=v0.59.26#w100) |[TransferHub](/payment-providers/transferhub/)|`transferhub`| 
 |![kunapay](https://static.openfintech.io/payment_providers/kunapay/icon.svg?w=278&c=v0.59.26#w100) |[Kuna Pay](/payment-providers/kunapay/)|`kunapay`| 
 |![iboxbank](https://static.openfintech.io/payment_providers/iboxbank/icon.png?w=278&c=v0.59.26#w100) |[Ibox Bank](/payment-providers/iboxbank/)|`iboxbank`| 

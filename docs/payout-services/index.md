@@ -118,6 +118,7 @@
 |![Bank Of NingBo](https://static.openfintech.io/payout_methods/bank_of_ningbo/logo.png?w=400&c=v0.59.26#w24) |[**Bank Of NingBo**](/payout-methods/bank_of_ningbo/)|[`bank_of_ningbo_cny`](bank_of_ningbo_cny/)|`CNY`| 
 |![Bank of Shanghai](https://static.openfintech.io/payout_methods/bank_of_shanghai/logo.svg?w=400&c=v0.59.26#w24) |[**Bank of Shanghai**](/payout-methods/bank_of_shanghai/)|[`bank_of_shanghai_cny`](bank_of_shanghai_cny/)|`CNY`| 
 |![Bank Rakyat Indonesia](https://static.openfintech.io/payout_methods/bank_rakyat_indonesia/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Rakyat Indonesia**](/payout-methods/bank_rakyat_indonesia/)|[`bank_rakyat_indonesia_idr`](bank_rakyat_indonesia_idr/)|`IDR`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_aud`](bank_transfer_aud/)|`AUD`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_brl`](bank_transfer_brl/)|`BRL`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_clp`](bank_transfer_clp/)|`CLP`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_cop`](bank_transfer_cop/)|`COP`| 

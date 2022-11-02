@@ -67,6 +67,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![v9pay](https://static.openfintech.io/payment_providers/v9pay/icon.png?w=278&c=v0.59.26#w100) |[V9Pay](/payment-providers/v9pay/)|`v9pay`| 
 |![copay](https://static.openfintech.io/payment_providers/copay/icon.svg?w=278&c=v0.59.26#w100) |[Copay](/payment-providers/copay/)|`copay`| 
 |![yapily](https://static.openfintech.io/payment_providers/yapily/icon.png?w=278&c=v0.59.26#w100) |[Yapily](/payment-providers/yapily/)|`yapily`| 
+|![zepto](https://static.openfintech.io/payment_providers/zepto/icon.svg?w=278&c=v0.59.26#w100) |[Zepto](/payment-providers/zepto/)|`zepto`| 
  
 
 ## JSON Object 
