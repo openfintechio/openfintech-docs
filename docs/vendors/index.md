@@ -1489,6 +1489,7 @@
 |![sbitcoin.ru](https://static.openfintech.io/vendors/sbitcoin.ru/logo.svg?w=600&c=v0.59.26#w200) |[**SBitcoin**](sbitcoin.ru/)|`sbitcoin.ru`| 
 |![sbm](https://static.openfintech.io/vendors/sbm/logo.png?w=600&c=v0.59.26#w200) |[**State Bank of Mauritius**](sbm/)|`sbm`| 
 |![sbp](https://static.openfintech.io/vendors/sbp/logo.svg?w=600&c=v0.59.26#w200) |[**SBP**](sbp/)|`sbp`| 
+|![sbpay](https://static.openfintech.io/vendors/sbpay/logo.png?w=600&c=v0.59.26#w200) |[**SBPay**](sbpay/)|`sbpay`| 
 |![scanpay](https://static.openfintech.io/vendors/scanpay/logo.png?w=600&c=v0.59.26#w200) |[**Scanpay**](scanpay/)|`scanpay`| 
 |![scbbanknetbanking](https://static.openfintech.io/vendors/scbbanknetbanking/logo.png?w=600&c=v0.59.26#w200) |[**SCB netbanking**](scbbanknetbanking/)|`scbbanknetbanking`| 
 |![schetvbankedlyaipiliyurlic](https://static.openfintech.io/vendors/schetvbankedlyaipiliyurlic/logo.svg?w=600&c=v0.59.26#w200) |[**Счет в банке для ИП или юр лиц**](schetvbankedlyaipiliyurlic/)|`schetvbankedlyaipiliyurlic`| 

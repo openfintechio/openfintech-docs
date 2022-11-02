@@ -42,6 +42,7 @@
 |`beneficiary_address`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
 |`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
 |`sender_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
+|`beneficiary_itn`|✗|`string`|`/^\d{10}$/`| 
  
 
 ### Details 
@@ -370,6 +371,24 @@
 	: [RU] Введите полное имя отправителя 
 	: [UK] Введіть повне імʼя відправкника 
  
+19. **`beneficiary_itn`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^\d{10}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary ITN 
+	: [RU] ИНН получателя 
+	: [UK] ІПН отримувача 
+ 
+	Hint:  
+	: [EN] Enter beneficiary Individual Tax Number 
+	: [RU] Введите ИНН получателя 
+	: [UK] Введіть ІПН отримувача 
+ 
 
 ## JSON Object 
 
@@ -684,6 +703,23 @@
         "en":"Enter Sender full name",
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u0432\u0456\u0434\u043f\u0440\u0430\u0432\u043a\u043d\u0438\u043a\u0430"
+      }
+    },
+    {
+      "key":"beneficiary_itn",
+      "type":"string",
+      "regexp":"\/^\\d{10}$\/",
+      "required":false,
+      "position":19,
+      "label":{
+        "en":"Beneficiary ITN",
+        "ru":"\u0418\u041d\u041d \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0406\u041f\u041d \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter beneficiary Individual Tax Number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0418\u041d\u041d \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0406\u041f\u041d \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
       }
     }
   ],

@@ -54,6 +54,7 @@ The list of [Payment Providers](/payment-providers/) that support the _SBP_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![tome](https://static.openfintech.io/payment_providers/tome/icon.svg?w=278&c=v0.59.26#w100) |[Tome](/payment-providers/tome/)|`tome`| 
+|![sbpay](https://static.openfintech.io/payment_providers/sbpay/icon.png?w=278&c=v0.59.26#w100) |[SBPay](/payment-providers/sbpay/)|`sbpay`| 
  
 
 ## JSON Object 

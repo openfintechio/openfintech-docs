@@ -664,6 +664,7 @@
 |![sagepay3](https://static.openfintech.io/payment_providers/sagepay3/logo.svg?w=600&c=v0.59.26#w100) |[**Sage Pay**](sagepay3/)|`sagepay3`| 
 |![satchelpay](https://static.openfintech.io/payment_providers/satchelpay/logo.png?w=600&c=v0.59.26#w100) |[**Satchel**](satchelpay/)|`satchelpay`| 
 |![sbm](https://static.openfintech.io/payment_providers/sbm/logo.png?w=600&c=v0.59.26#w100) |[**State Bank of Mauritius**](sbm/)|`sbm`| 
+|![sbpay](https://static.openfintech.io/payment_providers/sbpay/logo.png?w=600&c=v0.59.26#w100) |[**SBPay**](sbpay/)|`sbpay`| 
 |![scanpay](https://static.openfintech.io/payment_providers/scanpay/logo.png?w=600&c=v0.59.26#w100) |[**Scanpay**](scanpay/)|`scanpay`| 
 |![secupay](https://static.openfintech.io/payment_providers/secupay/logo.png?w=600&c=v0.59.26#w100) |[**secupay**](secupay/)|`secupay`| 
 |![securcharge](https://static.openfintech.io/payment_providers/securcharge/logo.png?w=600&c=v0.59.26#w100) |[**SecurCharge**](securcharge/)|`securcharge`| 
