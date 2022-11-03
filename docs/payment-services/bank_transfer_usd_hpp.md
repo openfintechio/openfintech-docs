@@ -33,6 +33,7 @@
 |`payer_state`|✗|`string`|`/^[a-zA-Z\-\s]{1,20}$/`| 
 |`payer_zip_code`|✗|`string`|`/^[0-9\-\s]{1,20}$/`| 
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
+|`account_number`|✗|`string`|`/^[A-Z]{2}[A-Z0-9]{13,32}$\|^[0-9]{3,15}$/`| 
  
 
 ### Details 
@@ -180,6 +181,24 @@
 	: [EN] Enter payer bank code 
 	: [RU] Введите код банка отправителя 
 	: [UK] Введіть код банку відправника 
+ 
+9. **`account_number`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Z]{2}[A-Z0-9]{13,32}$|^[0-9]{3,15}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Account number 
+	: [RU] Номер счета 
+	: [UK] Номер рахунку 
+ 
+	Hint:  
+	: [EN] Enter account number or IBAN 
+	: [RU] Введите номер счета или IBAN 
+	: [UK] Введіть номер рахунку або IBAN 
  
 
 ## JSON Object 
@@ -333,6 +352,24 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443 \u0432\u0456\u0434\u043f\u0440\u0430\u0432\u043d\u0438\u043a\u0430"
       },
       "example":"050"
+    },
+    {
+      "key":"account_number",
+      "type":"string",
+      "label":{
+        "en":"Account number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "regexp":"\/^[A-Z]{2}[A-Z0-9]{13,32}$|^[0-9]{3,15}$\/",
+      "required":false,
+      "position":9,
+      "hint":{
+        "en":"Enter account number or IBAN",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430 \u0438\u043b\u0438 IBAN",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 \u0430\u0431\u043e IBAN"
+      },
+      "example":"GB97BARC20031877565489"
     }
   ],
   "amount_min":0.01,

@@ -164,6 +164,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![kalixa](https://static.openfintech.io/payment_providers/kalixa/icon.png?w=278&c=v0.59.26#w100) |[Kalixa Payments Group](/payment-providers/kalixa/)|`kalixa`| 
 |![vantagepayments](https://static.openfintech.io/payment_providers/vantagepayments/icon.png?w=278&c=v0.59.26#w100) |[Vantage Payments](/payment-providers/vantagepayments/)|`vantagepayments`| 
 |![nextpay](https://static.openfintech.io/payment_providers/nextpay/icon.png?w=278&c=v0.59.26#w100) |[NextPay](/payment-providers/nextpay/)|`nextpay`| 
+|![megagatepay](https://static.openfintech.io/payment_providers/megagatepay/icon.svg?w=278&c=v0.59.26#w100) |[MegaGatePay](/payment-providers/megagatepay/)|`megagatepay`| 
 |![smart2pay](https://static.openfintech.io/payment_providers/smart2pay/icon.png?w=278&c=v0.59.26#w100) |[Smart2Pay](/payment-providers/smart2pay/)|`smart2pay`| 
 |![skrill](https://static.openfintech.io/payment_providers/skrill/icon.svg?w=278&c=v0.59.26#w100) |[Skrill](/payment-providers/skrill/)|`skrill`| 
 |![apco](https://static.openfintech.io/payment_providers/apco/icon.png?w=278&c=v0.59.26#w100) |[APCO](/payment-providers/apco/)|`apco`| 
@@ -378,6 +379,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![webpays](https://static.openfintech.io/payment_providers/webpays/icon.png?w=278&c=v0.59.26#w100) |[WebPays](/payment-providers/webpays/)|`webpays`| 
 |![amazonpaymentservices](https://static.openfintech.io/payment_providers/amazonpaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Amazon Payment Services](/payment-providers/amazonpaymentservices/)|`amazonpaymentservices`| 
 |![lpb](https://static.openfintech.io/payment_providers/lpb/icon.svg?w=278&c=v0.59.26#w100) |[LPB](/payment-providers/lpb/)|`lpb`| 
+|![walletto](https://static.openfintech.io/payment_providers/walletto/icon.svg?w=278&c=v0.59.26#w100) |[Walletto](/payment-providers/walletto/)|`walletto`| 
  
 
 ## JSON Object 

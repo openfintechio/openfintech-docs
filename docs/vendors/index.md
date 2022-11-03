@@ -919,6 +919,7 @@
 |![mbank](https://static.openfintech.io/vendors/mbank/logo.png?w=600&c=v0.59.26#w200) |[**mBank (mTransfer)**](mbank/)|`mbank`| 
 |![megabestobmen](https://static.openfintech.io/vendors/megabestobmen/logo.svg?w=600&c=v0.59.26#w200) |[**megabestobmen**](megabestobmen/)|`megabestobmen`| 
 |![megafonbank](https://static.openfintech.io/vendors/megafonbank/logo.svg?w=600&c=v0.59.26#w200) |[**Megafon.Bank**](megafonbank/)|`megafonbank`| 
+|![megagatepay](https://static.openfintech.io/vendors/megagatepay/logo.png?w=600&c=v0.59.26#w200) |[**MegaGatePay**](megagatepay/)|`megagatepay`| 
 |![megaxchange](https://static.openfintech.io/vendors/megaxchange/logo.svg?w=600&c=v0.59.26#w200) |[**MegaXChange.com**](megaxchange/)|`megaxchange`| 
 |![meikopay](https://static.openfintech.io/vendors/meikopay/logo.png?w=600&c=v0.59.26#w200) |[**Meikopay**](meikopay/)|`meikopay`| 
 |![menaiko.ua](https://static.openfintech.io/vendors/menaiko.ua/logo.svg?w=600&c=v0.59.26#w200) |[**меняйко**](menaiko.ua/)|`menaiko.ua`| 
@@ -1770,6 +1771,7 @@
 |![wallet_one](https://static.openfintech.io/vendors/wallet_one/logo.svg?w=600&c=v0.59.26#w200) |[**W1**](wallet_one/)|`wallet_one`| 
 |![walletone](https://static.openfintech.io/vendors/walletone/logo.png?w=600&c=v0.59.26#w200) |[**Wallet One**](walletone/)|`walletone`| 
 |![walletonecheckout](https://static.openfintech.io/vendors/walletonecheckout/logo.png?w=600&c=v0.59.26#w200) |[**Wallet One**](walletonecheckout/)|`walletonecheckout`| 
+|![walletto](https://static.openfintech.io/vendors/walletto/logo.svg?w=600&c=v0.59.26#w200) |[**Walletto**](walletto/)|`walletto`| 
 |![walpay](https://static.openfintech.io/vendors/walpay/logo.png?w=600&c=v0.59.26#w200) |[**WalPay**](walpay/)|`walpay`| 
 |![wayforpay](https://static.openfintech.io/vendors/wayforpay/logo.png?w=600&c=v0.59.26#w200) |[**Wayforpay**](wayforpay/)|`wayforpay`| 
 |![wbpayment](https://static.openfintech.io/vendors/wbpayment/logo.svg?w=600&c=v0.59.26#w200) |[**WB Payment**](wbpayment/)|`wbpayment`| 

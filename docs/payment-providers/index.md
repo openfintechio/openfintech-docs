@@ -410,6 +410,7 @@
 |![maxconnectsingaporepteltd](https://static.openfintech.io/payment_providers/maxconnectsingaporepteltd/logo.png?w=600&c=v0.59.26#w100) |[**Maxconnect**](maxconnectsingaporepteltd/)|`maxconnectsingaporepteltd`| 
 |![maxipago](https://static.openfintech.io/payment_providers/maxipago/logo.png?w=600&c=v0.59.26#w100) |[**maxiPago!**](maxipago/)|`maxipago`| 
 |![maxpay](https://static.openfintech.io/payment_providers/maxpay/logo.svg?w=600&c=v0.59.26#w100) |[**Maxpay**](maxpay/)|`maxpay`| 
+|![megagatepay](https://static.openfintech.io/payment_providers/megagatepay/logo.png?w=600&c=v0.59.26#w100) |[**MegaGatePay**](megagatepay/)|`megagatepay`| 
 |![meikopay](https://static.openfintech.io/payment_providers/meikopay/logo.png?w=600&c=v0.59.26#w100) |[**Meikopay**](meikopay/)|`meikopay`| 
 |![merchantscout](https://static.openfintech.io/payment_providers/merchantscout/logo.png?w=600&c=v0.59.26#w100) |[**MerchantScout**](merchantscout/)|`merchantscout`| 
 |![mercuryo](https://static.openfintech.io/payment_providers/mercuryo/logo.svg?w=600&c=v0.59.26#w100) |[**Mercuryo**](mercuryo/)|`mercuryo`| 
@@ -779,6 +780,7 @@
 |![vtcpay](https://static.openfintech.io/payment_providers/vtcpay/logo.png?w=600&c=v0.59.26#w100) |[**VTC Pay**](vtcpay/)|`vtcpay`| 
 || **W** ||
 |![walletone](https://static.openfintech.io/payment_providers/walletone/logo.svg?w=600&c=v0.59.26#w100) |[**Wallet One**](walletone/)|`walletone`| 
+|![walletto](https://static.openfintech.io/payment_providers/walletto/logo.svg?w=600&c=v0.59.26#w100) |[**Walletto**](walletto/)|`walletto`| 
 |![walpay](https://static.openfintech.io/payment_providers/walpay/logo.png?w=600&c=v0.59.26#w100) |[**WalPay**](walpay/)|`walpay`| 
 |![wayforpay](https://static.openfintech.io/payment_providers/wayforpay/logo.png?w=600&c=v0.59.26#w100) |[**Wayforpay**](wayforpay/)|`wayforpay`| 
 |![wbpayment](https://static.openfintech.io/payment_providers/wbpayment/logo.svg?w=600&c=v0.59.26#w100) |[**WB Payment**](wbpayment/)|`wbpayment`| 
