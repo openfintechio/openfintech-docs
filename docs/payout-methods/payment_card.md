@@ -379,6 +379,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![webpays](https://static.openfintech.io/payment_providers/webpays/icon.png?w=278&c=v0.59.26#w100) |[WebPays](/payment-providers/webpays/)|`webpays`| 
 |![amazonpaymentservices](https://static.openfintech.io/payment_providers/amazonpaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Amazon Payment Services](/payment-providers/amazonpaymentservices/)|`amazonpaymentservices`| 
 |![lpb](https://static.openfintech.io/payment_providers/lpb/icon.svg?w=278&c=v0.59.26#w100) |[LPB](/payment-providers/lpb/)|`lpb`| 
+|![nmi](https://static.openfintech.io/payment_providers/nmi/icon.png?w=278&c=v0.59.26#w100) |[NMI](/payment-providers/nmi/)|`nmi`| 
 |![walletto](https://static.openfintech.io/payment_providers/walletto/icon.svg?w=278&c=v0.59.26#w100) |[Walletto](/payment-providers/walletto/)|`walletto`| 
  
 

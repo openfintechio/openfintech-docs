@@ -1006,6 +1006,7 @@
 |![nium](https://static.openfintech.io/vendors/nium/logo.png?w=600&c=v0.59.26#w200) |[**Nium**](nium/)|`nium`| 
 |![nixexchange](https://static.openfintech.io/vendors/nixexchange/logo.svg?w=600&c=v0.59.26#w200) |[**NixExchange**](nixexchange/)|`nixexchange`| 
 |![nixmoney](https://static.openfintech.io/vendors/nixmoney/logo.png?w=600&c=v0.59.26#w200) |[**NixMoney**](nixmoney/)|`nixmoney`| 
+|![nmi](https://static.openfintech.io/vendors/nmi/logo.png?w=600&c=v0.59.26#w200) |[**NMI**](nmi/)|`nmi`| 
 |![nochexltd](https://static.openfintech.io/vendors/nochexltd/logo.png?w=600&c=v0.59.26#w200) |[**Nochex**](nochexltd/)|`nochexltd`| 
 |![nordea](https://static.openfintech.io/vendors/nordea/logo.png?w=600&c=v0.59.26#w200) |[**Nordea**](nordea/)|`nordea`| 
 |![nordeasolo](https://static.openfintech.io/vendors/nordeasolo/logo.svg?w=600&c=v0.59.26#w200) |[**Nordea solo**](nordeasolo/)|`nordeasolo`| 

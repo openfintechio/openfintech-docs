@@ -47,6 +47,17 @@ The list of supported [Payment Methods](/payment-methods/)
 |![upi_qr](https://static.openfintech.io/payment_methods/upi_qr/icon.png?w=278&c=v0.59.26#w100) |[upi_qr](/payment-methods/upi_qr/)|`upi_qr`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
+|![upi](https://static.openfintech.io/payout_methods/upi/icon.svg?w=278&c=v0.59.26#w40) |[upi](payout-methodsupi/)|`upi`| 
+|![certus_transfer](https://static.openfintech.io/payout_methods/certus_transfer/icon.png?w=278&c=v0.59.26#w40) |[certus_transfer](payout-methodscertus_transfer/)|`certus_transfer`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -62,7 +73,11 @@ The list of supported [Payment Methods](/payment-methods/)
     "bank_transfer",
     "upi_qr"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "bank_transfer",
+    "upi",
+    "certus_transfer"
+  ],
   "metadata":null,
   "name":{
     "en":"Certus Finance",
