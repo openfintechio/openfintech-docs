@@ -73,6 +73,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Apple Pay
 |![concord](https://static.openfintech.io/payment_providers/concord/icon.svg?w=278&c=v0.59.26#w100) |[Concord Bank](/payment-providers/concord/)|`concord`| 
 |![ukrgasbank](https://static.openfintech.io/payment_providers/ukrgasbank/icon.png?w=278&c=v0.59.26#w100) |[UkrGasBank](/payment-providers/ukrgasbank/)|`ukrgasbank`| 
 |![solidgate](https://static.openfintech.io/payment_providers/solidgate/icon.svg?w=278&c=v0.59.26#w100) |[Solid](/payment-providers/solidgate/)|`solidgate`| 
+|![paysoftsolutions](https://static.openfintech.io/payment_providers/paysoftsolutions/icon.png?w=278&c=v0.59.26#w100) |[PaySoft Solutions](/payment-providers/paysoftsolutions/)|`paysoftsolutions`| 
  
 
 ## JSON Object 

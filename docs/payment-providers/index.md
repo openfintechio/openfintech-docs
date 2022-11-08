@@ -483,6 +483,7 @@
 |![paddle](https://static.openfintech.io/payment_providers/paddle/logo.png?w=600&c=v0.59.26#w100) |[**Paddle**](paddle/)|`paddle`| 
 |![pagantis](https://static.openfintech.io/payment_providers/pagantis/logo.png?w=600&c=v0.59.26#w100) |[**Pagantis**](pagantis/)|`pagantis`| 
 |![pagbrasil](https://static.openfintech.io/payment_providers/pagbrasil/logo.png?w=600&c=v0.59.26#w100) |[**PagBrasil**](pagbrasil/)|`pagbrasil`| 
+|![pagsmile](https://static.openfintech.io/payment_providers/pagsmile/logo.png?w=600&c=v0.59.26#w100) |[**Pagsmile**](pagsmile/)|`pagsmile`| 
 |![pandigitalnetwork](https://static.openfintech.io/payment_providers/pandigitalnetwork/logo.png?w=600&c=v0.59.26#w100) |[**Pan Digital Network**](pandigitalnetwork/)|`pandigitalnetwork`| 
 |![parallelpayments](https://static.openfintech.io/payment_providers/parallelpayments/logo.png?w=600&c=v0.59.26#w100) |[**Parallel Payments**](parallelpayments/)|`parallelpayments`| 
 |![parimatch](https://static.openfintech.io/payment_providers/parimatch/logo.svg?w=600&c=v0.59.26#w100) |[**Parimatch**](parimatch/)|`parimatch`| 
@@ -508,6 +509,7 @@
 |![payex](https://static.openfintech.io/payment_providers/payex/logo.png?w=600&c=v0.59.26#w100) |[**PayEx**](payex/)|`payex`| 
 |![payfast](https://static.openfintech.io/payment_providers/payfast/logo.png?w=600&c=v0.59.26#w100) |[**PayFast**](payfast/)|`payfast`| 
 |![payfort](https://static.openfintech.io/payment_providers/payfort/logo.png?w=600&c=v0.59.26#w100) |[**PayFort**](payfort/)|`payfort`| 
+|![paygames](https://static.openfintech.io/payment_providers/paygames/logo.png?w=600&c=v0.59.26#w100) |[**PayGames**](paygames/)|`paygames`| 
 |![paygarden](https://static.openfintech.io/payment_providers/paygarden/logo.png?w=600&c=v0.59.26#w100) |[**PayGarden**](paygarden/)|`paygarden`| 
 |![paygate](https://static.openfintech.io/payment_providers/paygate/logo.png?w=600&c=v0.59.26#w100) |[**PayGate**](paygate/)|`paygate`| 
 |![paygatecoltd](https://static.openfintech.io/payment_providers/paygatecoltd/logo.png?w=600&c=v0.59.26#w100) |[**PayGate Co. Ltd.**](paygatecoltd/)|`paygatecoltd`| 
