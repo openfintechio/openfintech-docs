@@ -39,6 +39,15 @@ The list of [Payment Services](/payment-services/) based on the _Banco Guayaquil
 |![banco_guayaquil](https://static.openfintech.io/payment_methods/banco_guayaquil/icon.svg?w=278&c=v0.59.26#w100) |[banco_guayaquil_usd_hpp](/payment-services/banco_guayaquil_usd_hpp/)|`banco_guayaquil_usd_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Banco Guayaquil_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![payretailers](https://static.openfintech.io/payment_providers/payretailers/icon.svg?w=278&c=v0.59.26#w100) |[PayRetailers](/payment-providers/payretailers/)|`payretailers`| 
+ 
+
 ## JSON Object 
 
 ```json

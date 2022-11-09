@@ -40,6 +40,15 @@ The list of [Payment Services](/payment-services/) based on the _Bbva Continenta
 |![bbva_continental](https://static.openfintech.io/payment_methods/bbva_continental/icon.svg?w=278&c=v0.59.26#w100) |[bbva_continental_usd_hpp](/payment-services/bbva_continental_usd_hpp/)|`bbva_continental_usd_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Bbva Continental_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![payretailers](https://static.openfintech.io/payment_providers/payretailers/icon.svg?w=278&c=v0.59.26#w100) |[PayRetailers](/payment-providers/payretailers/)|`payretailers`| 
+ 
+
 ## JSON Object 
 
 ```json

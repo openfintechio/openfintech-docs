@@ -40,6 +40,15 @@ The list of [Payment Services](/payment-services/) based on the _Webpay_
 |![webpay](https://static.openfintech.io/payment_methods/webpay/icon.svg?w=278&c=v0.59.26#w100) |[webpay_usd_hpp](/payment-services/webpay_usd_hpp/)|`webpay_usd_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Webpay_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![payretailers](https://static.openfintech.io/payment_providers/payretailers/icon.svg?w=278&c=v0.59.26#w100) |[PayRetailers](/payment-providers/payretailers/)|`payretailers`| 
+ 
+
 ## JSON Object 
 
 ```json

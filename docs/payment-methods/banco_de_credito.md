@@ -40,6 +40,15 @@ The list of [Payment Services](/payment-services/) based on the _Banco De Credit
 |![banco_de_credito](https://static.openfintech.io/payment_methods/banco_de_credito/icon.svg?w=278&c=v0.59.26#w100) |[banco_de_credito_usd_hpp](/payment-services/banco_de_credito_usd_hpp/)|`banco_de_credito_usd_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Banco De Credito_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![payretailers](https://static.openfintech.io/payment_providers/payretailers/icon.svg?w=278&c=v0.59.26#w100) |[PayRetailers](/payment-providers/payretailers/)|`payretailers`| 
+ 
+
 ## JSON Object 
 
 ```json
