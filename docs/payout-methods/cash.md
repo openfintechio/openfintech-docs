@@ -52,6 +52,7 @@ The list of [Payment Providers](/payment-providers/) that support the _CASH_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![liqpay](https://static.openfintech.io/payment_providers/liqpay/icon.svg?w=278&c=v0.59.26#w100) |[LiqPay](/payment-providers/liqpay/)|`liqpay`| 
+|![skrill](https://static.openfintech.io/payment_providers/skrill/icon.svg?w=278&c=v0.59.26#w100) |[Skrill](/payment-providers/skrill/)|`skrill`| 
 |![manual](https://static.openfintech.io/payment_providers/manual/icon.svg?w=278&c=v0.59.26#w100) |[Manual](/payment-providers/manual/)|`manual`| 
  
 

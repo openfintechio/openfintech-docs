@@ -48,6 +48,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PIX_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
+|![skrill](https://static.openfintech.io/payment_providers/skrill/icon.svg?w=278&c=v0.59.26#w100) |[Skrill](/payment-providers/skrill/)|`skrill`| 
 |![spoynt](https://static.openfintech.io/payment_providers/spoynt/icon.svg?w=278&c=v0.59.26#w100) |[Spoynt](/payment-providers/spoynt/)|`spoynt`| 
 |![jetonlp](https://static.openfintech.io/payment_providers/jetonlp/icon.png?w=278&c=v0.59.26#w100) |[JetonLP](/payment-providers/jetonlp/)|`jetonlp`| 
 |![onlineips](https://static.openfintech.io/payment_providers/onlineips/icon.png?w=278&c=v0.59.26#w100) |[Online IPS](/payment-providers/onlineips/)|`onlineips`| 

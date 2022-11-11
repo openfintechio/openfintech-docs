@@ -698,6 +698,7 @@
 |![smart2pay](https://static.openfintech.io/payment_providers/smart2pay/logo.png?w=600&c=v0.59.26#w100) |[**Smart2Pay**](smart2pay/)|`smart2pay`| 
 |![smartdebit](https://static.openfintech.io/payment_providers/smartdebit/logo.png?w=600&c=v0.59.26#w100) |[**SmartDebit**](smartdebit/)|`smartdebit`| 
 |![smilepayments](https://static.openfintech.io/payment_providers/smilepayments/logo.png?w=600&c=v0.59.26#w100) |[**Smile Payments**](smilepayments/)|`smilepayments`| 
+|![sobini](https://static.openfintech.io/payment_providers/sobini/logo.svg?w=600&c=v0.59.26#w100) |[**Sobini**](sobini/)|`sobini`| 
 |![soeasypay](https://static.openfintech.io/payment_providers/soeasypay/logo.png?w=600&c=v0.59.26#w100) |[**SoEasyPay**](soeasypay/)|`soeasypay`| 
 |![solidgate](https://static.openfintech.io/payment_providers/solidgate/logo.svg?w=600&c=v0.59.26#w100) |[**Solid**](solidgate/)|`solidgate`| 
 |![specializedprocessingsolutions](https://static.openfintech.io/payment_providers/specializedprocessingsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Specialized Processing Solutions**](specializedprocessingsolutions/)|`specializedprocessingsolutions`| 

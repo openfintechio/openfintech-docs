@@ -41,6 +41,10 @@ The list of [Payment Services](/payment-services/) based on the _Boleto Bancario
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario_brl_hpp](/payment-services/boleto_bancario_brl_hpp/)|`boleto_bancario_brl_hpp`| 
+|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario_cop_hpp](/payment-services/boleto_bancario_cop_hpp/)|`boleto_bancario_cop_hpp`| 
+|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario_mxn_hpp](/payment-services/boleto_bancario_mxn_hpp/)|`boleto_bancario_mxn_hpp`| 
+|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario_clp_hpp](/payment-services/boleto_bancario_clp_hpp/)|`boleto_bancario_clp_hpp`| 
+|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario_pen_hpp](/payment-services/boleto_bancario_pen_hpp/)|`boleto_bancario_pen_hpp`| 
  
 
 ## Payment Providers 
@@ -53,6 +57,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Boleto Ba
 |![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/icon.png?w=278&c=v0.59.26#w100) |[Alternative Payments](/payment-providers/alternativepayments/)|`alternativepayments`| 
 |![kalixa](https://static.openfintech.io/payment_providers/kalixa/icon.png?w=278&c=v0.59.26#w100) |[Kalixa Payments Group](/payment-providers/kalixa/)|`kalixa`| 
+|![skrill](https://static.openfintech.io/payment_providers/skrill/icon.svg?w=278&c=v0.59.26#w100) |[Skrill](/payment-providers/skrill/)|`skrill`| 
 |![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
 |![maxpay](https://static.openfintech.io/payment_providers/maxpay/icon.svg?w=278&c=v0.59.26#w100) |[Maxpay](/payment-providers/maxpay/)|`maxpay`| 

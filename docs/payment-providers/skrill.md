@@ -66,6 +66,11 @@ The list of supported [Payment Methods](/payment-methods/)
 |![astropaycash](https://static.openfintech.io/payment_methods/astropaycash/icon.svg?w=278&c=v0.59.26#w100) |[astropaycash](/payment-methods/astropaycash/)|`astropaycash`| 
 |![astropayunion](https://static.openfintech.io/payment_methods/astropayunion/icon.svg?w=278&c=v0.59.26#w100) |[astropayunion](/payment-methods/astropayunion/)|`astropayunion`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash](/payment-methods/cash/)|`cash`| 
+|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario](/payment-methods/boleto_bancario/)|`boleto_bancario`| 
+|![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix](/payment-methods/pix/)|`pix`| 
+|![online_banking](https://static.openfintech.io/payment_methods/online_banking/icon.svg?w=278&c=v0.59.26#w100) |[online_banking](/payment-methods/online_banking/)|`online_banking`| 
+|![mach](https://static.openfintech.io/payment_methods/mach/icon.png?w=278&c=v0.59.26#w100) |[mach](/payment-methods/mach/)|`mach`| 
  
 
 ## Payout Methods 
@@ -115,7 +120,12 @@ The list of supported [Payout Methods](/payout-methods/)
     "astropaymanual",
     "astropaycash",
     "astropayunion",
-    "payment_card"
+    "payment_card",
+    "cash",
+    "boleto_bancario",
+    "pix",
+    "online_banking",
+    "mach"
   ],
   "payout_method":[
     "skrill"

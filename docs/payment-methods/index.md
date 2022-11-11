@@ -295,7 +295,7 @@
 |![liqpay_wallet](https://static.openfintech.io/payment_methods/liqpay_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**LiqPay wallet**](liqpay_wallet/)|`liqpay_wallet`| 
 |![litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200) |[**Litecoin**](litecoin/)|`litecoin`| 
 || **M** ||
-|![mach](https://static.openfintech.io/payment_methods/mach/logo.svg?w=400&c=v0.59.26#w200) |[**Mach**](mach/)|`mach`| 
+|![mach](https://static.openfintech.io/payment_methods/mach/logo.png?w=400&c=v0.59.26#w200) |[**Mach**](mach/)|`mach`| 
 |![magna](https://static.openfintech.io/payment_methods/magna/logo.svg?w=400&c=v0.59.26#w200) |[**Magna**](magna/)|`magna`| 
 |![maharashtra_bank_india](https://static.openfintech.io/payment_methods/maharashtra_bank_india/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Of Maharashtra**](maharashtra_bank_india/)|`maharashtra_bank_india`| 
 |![mandiri_bank](https://static.openfintech.io/payment_methods/mandiri_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Mandiri Bank**](mandiri_bank/)|`mandiri_bank`| 

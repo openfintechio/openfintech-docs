@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`cpf_number`|✔|`string`|`/^[0-9\.\-]{1,14}$/`| 
+|`cpf_number`|✗|`string`|`/^[0-9\.\-]{1,14}$/`| 
 |`beneficiary_phone`|✗|`string`|`/^\+\d{10,14}$/`| 
 |`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/`| 
 |`beneficiary_name`|✗|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
@@ -36,6 +36,9 @@
 |`bank_isbp_code`|✗|`string`|`/^[0-9]{1,11}$/`| 
 |`bank_branch_code`|✗|`string`|`/^[0-9]{1,5}$/`| 
 |`account_number_checksum`|✗|`string`|`/^[0-9]{1,100}$/`| 
+|`document_type`|✗|`string`|`/^[A-Z]{1,5}$/`| 
+|`document_id`|✗|`string`|`/^[0-9]{1,100}$/`| 
+|`account_type`|✗|`string`|`/^[A-Z]{1,5}$/`| 
  
 
 ### Details 
@@ -46,7 +49,7 @@
  
 	Regexp: `/^[0-9\.\-]{1,14}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] CPF number 
@@ -256,6 +259,60 @@
 	: [RU] Введите контрольную сумму номера счета 
 	: [UK] Введіть контрольну суму номера рахунку 
  
+13. **`document_type`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Z]{1,5}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary's personal identification type 
+	: [RU] Тип документа получателя 
+	: [UK] Тип документа отримувача 
+ 
+	Hint:  
+	: [EN] Enter beneficiary's personal identification type 
+	: [RU] Введите тип документа получателя 
+	: [UK] Введіть тип документа отримувача 
+ 
+14. **`document_id`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{1,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary's personal identification number 
+	: [RU] Номер документа получателя 
+	: [UK] Номер документа отримувача 
+ 
+	Hint:  
+	: [EN] Enter beneficiary's personal identification number 
+	: [RU] Введите номер документа получателя 
+	: [UK] Введіть номер документа отримувача 
+ 
+15. **`account_type`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Z]{1,5}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary's PIX account type 
+	: [RU] Тип аккаунта PIX получателя 
+	: [UK] Тип облікового запису PIX отримувача 
+ 
+	Hint:  
+	: [EN] Enter beneficiary's PIX account type 
+	: [RU] Введите тип аккаунта PIX получателя 
+	: [UK] Введіть тип облікового запису PIX отримувача 
+ 
 
 ## JSON Object 
 
@@ -269,7 +326,7 @@
       "key":"cpf_number",
       "type":"string",
       "regexp":"\/^[0-9\\.\\-]{1,14}$\/",
-      "required":true,
+      "required":false,
       "position":1,
       "label":{
         "en":"CPF number",
@@ -470,6 +527,60 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c\u043d\u0443\u044e \u0441\u0443\u043c\u043c\u0443 \u043d\u043e\u043c\u0435\u0440\u0430 \u0441\u0447\u0435\u0442\u0430",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c\u043d\u0443 \u0441\u0443\u043c\u0443 \u043d\u043e\u043c\u0435\u0440\u0430 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
       }
+    },
+    {
+      "key":"document_type",
+      "type":"string",
+      "regexp":"\/^[A-Z]{1,5}$\/",
+      "required":false,
+      "position":13,
+      "label":{
+        "en":"Beneficiary's personal identification type",
+        "ru":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter beneficiary's personal identification type",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "example":"CPF"
+    },
+    {
+      "key":"document_id",
+      "type":"string",
+      "regexp":"\/^[0-9]{1,100}$\/",
+      "required":false,
+      "position":14,
+      "label":{
+        "en":"Beneficiary's personal identification number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter beneficiary's personal identification number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "example":"50284414727"
+    },
+    {
+      "key":"account_type",
+      "type":"string",
+      "regexp":"\/^[A-Z]{1,5}$\/",
+      "required":false,
+      "position":15,
+      "label":{
+        "en":"Beneficiary's PIX account type",
+        "ru":"\u0422\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430 PIX \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0422\u0438\u043f \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u043f\u0438\u0441\u0443 PIX \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter beneficiary's PIX account type",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430 PIX \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u043f\u0438\u0441\u0443 PIX \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "example":"EMAIL"
     }
   ],
   "amount_min":1,

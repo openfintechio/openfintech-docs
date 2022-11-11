@@ -23,7 +23,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`cpf_number`|✔|`string`|`/^[0-9]{1,11}$/`| 
+|`cpf_number`|✗|`string`|`/^[0-9]{1,11}$/`| 
  
 
 ### Details 
@@ -34,7 +34,7 @@
  
 	Regexp: `/^[0-9]{1,11}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] CPF number 
@@ -60,7 +60,7 @@
       "key":"cpf_number",
       "type":"string",
       "regexp":"\/^[0-9]{1,11}$\/",
-      "required":true,
+      "required":false,
       "position":1,
       "label":{
         "en":"CPF number",

@@ -1545,6 +1545,7 @@
 |![smilepayments](https://static.openfintech.io/vendors/smilepayments/logo.png?w=600&c=v0.59.26#w200) |[**Smile Payments**](smilepayments/)|`smilepayments`| 
 |![smpbank](https://static.openfintech.io/vendors/smpbank/logo.svg?w=600&c=v0.59.26#w200) |[**СМП банк**](smpbank/)|`smpbank`| 
 |![smsbilling](https://static.openfintech.io/vendors/smsbilling/logo.png?w=600&c=v0.59.26#w200) |[**SMS Billing**](smsbilling/)|`smsbilling`| 
+|![sobini](https://static.openfintech.io/vendors/sobini/logo.svg?w=600&c=v0.59.26#w200) |[**Sobini**](sobini/)|`sobini`| 
 |![soeasypay](https://static.openfintech.io/vendors/soeasypay/logo.png?w=600&c=v0.59.26#w200) |[**SoEasyPay**](soeasypay/)|`soeasypay`| 
 |![sofortbanking](https://static.openfintech.io/vendors/sofortbanking/logo.svg?w=600&c=v0.59.26#w200) |[**SOFORT, a Klarna Group Company**](sofortbanking/)|`sofortbanking`| 
 |![softlogic](https://static.openfintech.io/vendors/softlogic/logo.svg?w=600&c=v0.59.26#w200) |[**SOFT-LOGIC**](softlogic/)|`softlogic`| 

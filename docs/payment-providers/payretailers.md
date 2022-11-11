@@ -44,7 +44,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![banco_guayaquil](https://static.openfintech.io/payment_methods/banco_guayaquil/icon.svg?w=278&c=v0.59.26#w100) |[banco_guayaquil](/payment-methods/banco_guayaquil/)|`banco_guayaquil`| 
 |![banco_pichincha](https://static.openfintech.io/payment_methods/banco_pichincha/icon.svg?w=278&c=v0.59.26#w100) |[banco_pichincha](/payment-methods/banco_pichincha/)|`banco_pichincha`| 
 |![banco_bci](https://static.openfintech.io/payment_methods/banco_bci/icon.svg?w=278&c=v0.59.26#w100) |[banco_bci](/payment-methods/banco_bci/)|`banco_bci`| 
-|![mach](https://static.openfintech.io/payment_methods/mach/icon.svg?w=278&c=v0.59.26#w100) |[mach](/payment-methods/mach/)|`mach`| 
+|![mach](https://static.openfintech.io/payment_methods/mach/icon.png?w=278&c=v0.59.26#w100) |[mach](/payment-methods/mach/)|`mach`| 
 |![khipu](https://static.openfintech.io/payment_methods/khipu/icon.svg?w=278&c=v0.59.26#w100) |[khipu](/payment-methods/khipu/)|`khipu`| 
 |![webpay](https://static.openfintech.io/payment_methods/webpay/icon.svg?w=278&c=v0.59.26#w100) |[webpay](/payment-methods/webpay/)|`webpay`| 
 |![multicaja](https://static.openfintech.io/payment_methods/multicaja/icon.svg?w=278&c=v0.59.26#w100) |[multicaja](/payment-methods/multicaja/)|`multicaja`| 
