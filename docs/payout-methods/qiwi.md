@@ -69,6 +69,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Qiwi_
 |![tome](https://static.openfintech.io/payment_providers/tome/icon.svg?w=278&c=v0.59.26#w100) |[Tome](/payment-providers/tome/)|`tome`| 
 |![betatransfer](https://static.openfintech.io/payment_providers/betatransfer/icon.svg?w=278&c=v0.59.26#w100) |[BetaTransfer](/payment-providers/betatransfer/)|`betatransfer`| 
 |![payassist](https://static.openfintech.io/payment_providers/payassist/icon.png?w=278&c=v0.59.26#w100) |[PayAssist](/payment-providers/payassist/)|`payassist`| 
+|![vanilapay](https://static.openfintech.io/payment_providers/vanilapay/icon.svg?w=278&c=v0.59.26#w100) |[VanilaPay](/payment-providers/vanilapay/)|`vanilapay`| 
  
 
 ## JSON Object 

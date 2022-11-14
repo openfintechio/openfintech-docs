@@ -130,6 +130,7 @@
 |![cardstreamlimited](https://static.openfintech.io/payment_providers/cardstreamlimited/logo.png?w=600&c=v0.59.26#w100) |[**Cardstream**](cardstreamlimited/)|`cardstreamlimited`| 
 |![cashflows](https://static.openfintech.io/payment_providers/cashflows/logo.png?w=600&c=v0.59.26#w100) |[**CashFlows**](cashflows/)|`cashflows`| 
 |![cashfree](https://static.openfintech.io/payment_providers/cashfree/logo.png?w=600&c=v0.59.26#w100) |[**Cashfree**](cashfree/)|`cashfree`| 
+|![cashonex](https://static.openfintech.io/payment_providers/cashonex/logo.png?w=600&c=v0.59.26#w100) |[**CashOneX**](cashonex/)|`cashonex`| 
 |![cashrun](https://static.openfintech.io/payment_providers/cashrun/logo.svg?w=600&c=v0.59.26#w100) |[**CashRun**](cashrun/)|`cashrun`| 
 |![cashsender](https://static.openfintech.io/payment_providers/cashsender/logo.svg?w=600&c=v0.59.26#w100) |[**CashSender**](cashsender/)|`cashsender`| 
 |![catalunyacaixa](https://static.openfintech.io/payment_providers/catalunyacaixa/logo.png?w=600&c=v0.59.26#w100) |[**CatalunyaCaixa**](catalunyacaixa/)|`catalunyacaixa`| 
@@ -766,6 +767,7 @@
 |![v9pay](https://static.openfintech.io/payment_providers/v9pay/logo.png?w=600&c=v0.59.26#w100) |[**V9Pay**](v9pay/)|`v9pay`| 
 |![valitor](https://static.openfintech.io/payment_providers/valitor/logo.png?w=600&c=v0.59.26#w100) |[**Valitor**](valitor/)|`valitor`| 
 |![vallettapay](https://static.openfintech.io/payment_providers/vallettapay/logo.png?w=600&c=v0.59.26#w100) |[**VallettaPay**](vallettapay/)|`vallettapay`| 
+|![vanilapay](https://static.openfintech.io/payment_providers/vanilapay/logo.svg?w=600&c=v0.59.26#w100) |[**VanilaPay**](vanilapay/)|`vanilapay`| 
 |![vantagepayments](https://static.openfintech.io/payment_providers/vantagepayments/logo.png?w=600&c=v0.59.26#w100) |[**Vantage Payments**](vantagepayments/)|`vantagepayments`| 
 |![vantiv](https://static.openfintech.io/payment_providers/vantiv/logo.png?w=600&c=v0.59.26#w100) |[**Vantiv**](vantiv/)|`vantiv`| 
 |![vcreditos](https://static.openfintech.io/payment_providers/vcreditos/logo.svg?w=600&c=v0.59.26#w100) |[**VCreditos**](vcreditos/)|`vcreditos`| 

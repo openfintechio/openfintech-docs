@@ -371,6 +371,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![nmi](https://static.openfintech.io/payment_providers/nmi/icon.png?w=278&c=v0.59.26#w100) |[NMI](/payment-providers/nmi/)|`nmi`| 
 |![walletto](https://static.openfintech.io/payment_providers/walletto/icon.svg?w=278&c=v0.59.26#w100) |[Walletto](/payment-providers/walletto/)|`walletto`| 
 |![paygames](https://static.openfintech.io/payment_providers/paygames/icon.png?w=278&c=v0.59.26#w100) |[PayGames](/payment-providers/paygames/)|`paygames`| 
+|![cashonex](https://static.openfintech.io/payment_providers/cashonex/icon.png?w=278&c=v0.59.26#w100) |[CashOneX](/payment-providers/cashonex/)|`cashonex`| 
+|![vanilapay](https://static.openfintech.io/payment_providers/vanilapay/icon.svg?w=278&c=v0.59.26#w100) |[VanilaPay](/payment-providers/vanilapay/)|`vanilapay`| 
  
 
 ## JSON Object 

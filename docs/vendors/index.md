@@ -319,6 +319,7 @@
 |![cashflows](https://static.openfintech.io/vendors/cashflows/logo.png?w=600&c=v0.59.26#w200) |[**CashFlows**](cashflows/)|`cashflows`| 
 |![cashfree](https://static.openfintech.io/vendors/cashfree/logo.png?w=600&c=v0.59.26#w200) |[**Cashfree**](cashfree/)|`cashfree`| 
 |![cashing.su](https://static.openfintech.io/vendors/cashing.su/logo.svg?w=600&c=v0.59.26#w200) |[**Cashing**](cashing.su/)|`cashing.su`| 
+|![cashonex](https://static.openfintech.io/vendors/cashonex/logo.png?w=600&c=v0.59.26#w200) |[**CashOneX**](cashonex/)|`cashonex`| 
 |![cashrun](https://static.openfintech.io/vendors/cashrun/logo.png?w=600&c=v0.59.26#w200) |[**CashRun**](cashrun/)|`cashrun`| 
 |![cashsender](https://static.openfintech.io/vendors/cashsender/logo.png?w=600&c=v0.59.26#w200) |[**CashSender**](cashsender/)|`cashsender`| 
 |![cashu](https://static.openfintech.io/vendors/cashu/logo.png?w=600&c=v0.59.26#w200) |[**CASHU**](cashu/)|`cashu`| 
@@ -1734,6 +1735,7 @@
 |![valitor](https://static.openfintech.io/vendors/valitor/logo.png?w=600&c=v0.59.26#w200) |[**Valitor**](valitor/)|`valitor`| 
 |![vallettapay](https://static.openfintech.io/vendors/vallettapay/logo.png?w=600&c=v0.59.26#w200) |[**VallettaPay**](vallettapay/)|`vallettapay`| 
 |![valutaexchange](https://static.openfintech.io/vendors/valutaexchange/logo.svg?w=600&c=v0.59.26#w200) |[**Valuta exchange**](valutaexchange/)|`valutaexchange`| 
+|![vanilapay](https://static.openfintech.io/vendors/vanilapay/logo.svg?w=600&c=v0.59.26#w200) |[**VanilaPay**](vanilapay/)|`vanilapay`| 
 |![vantagepayments](https://static.openfintech.io/vendors/vantagepayments/logo.png?w=600&c=v0.59.26#w200) |[**Vantage Payments**](vantagepayments/)|`vantagepayments`| 
 |![vantiv](https://static.openfintech.io/vendors/vantiv/logo.png?w=600&c=v0.59.26#w200) |[**Vantiv**](vantiv/)|`vantiv`| 
 |![vbchange.ru](https://static.openfintech.io/vendors/vbchange.ru/logo.svg?w=600&c=v0.59.26#w200) |[**vbchange**](vbchange.ru/)|`vbchange.ru`| 

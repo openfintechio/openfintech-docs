@@ -31,14 +31,14 @@
 |`beneficiary_lastname`|✗|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
 |`bank_code`|✗|`string`|`/^[-\d\s\p{L}]{2,12}$/`| 
 |`bank_agency_number`|✗|`string`|`/^[A-z0-9]{2,5}$/`| 
-|`account_number`|✗|`string`|`/^[0-9]{4,100}$/`| 
+|`account_number`|✗|`string`|`/^(^[0-9]{4,100}$)\|(^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$)\|(^[a-z0-9-]{36}$)\|(^\+55\d{10,12}$)$/`| 
 |`pix_key`|✗|`string`|`/^.{4,255}$/`| 
 |`bank_isbp_code`|✗|`string`|`/^[0-9]{1,11}$/`| 
 |`bank_branch_code`|✗|`string`|`/^[0-9]{1,5}$/`| 
 |`account_number_checksum`|✗|`string`|`/^[0-9]{1,100}$/`| 
-|`document_type`|✗|`string`|`/^[A-Z]{1,5}$/`| 
+|`document_type`|✗|`string`|`/^(CPF\|CNPJ)$/`| 
 |`document_id`|✗|`string`|`/^[0-9]{1,100}$/`| 
-|`account_type`|✗|`string`|`/^[A-Z]{1,5}$/`| 
+|`account_type`|✗|`string`|`/^(CPF\|CNPJ\|EVP\|PHONE\|EMAIL)$/`| 
  
 
 ### Details 
@@ -173,7 +173,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9]{4,100}$/` 
+	Regexp: `/^(^[0-9]{4,100}$)|(^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$)|(^[a-z0-9-]{36}$)|(^\+55\d{10,12}$)$/` 
  
 	Required: `` 
  
@@ -263,7 +263,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z]{1,5}$/` 
+	Regexp: `/^(CPF|CNPJ)$/` 
  
 	Required: `` 
  
@@ -299,7 +299,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z]{1,5}$/` 
+	Regexp: `/^(CPF|CNPJ|EVP|PHONE|EMAIL)$/` 
  
 	Required: `` 
  
@@ -446,7 +446,7 @@
     {
       "key":"account_number",
       "type":"string",
-      "regexp":"\/^[0-9]{4,100}$\/",
+      "regexp":"\/^(^[0-9]{4,100}$)|(^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,3})$)|(^[a-z0-9-]{36}$)|(^\\+55\\d{10,12}$)$\/",
       "required":false,
       "position":8,
       "label":{
@@ -531,7 +531,7 @@
     {
       "key":"document_type",
       "type":"string",
-      "regexp":"\/^[A-Z]{1,5}$\/",
+      "regexp":"\/^(CPF|CNPJ)$\/",
       "required":false,
       "position":13,
       "label":{
@@ -567,7 +567,7 @@
     {
       "key":"account_type",
       "type":"string",
-      "regexp":"\/^[A-Z]{1,5}$\/",
+      "regexp":"\/^(CPF|CNPJ|EVP|PHONE|EMAIL)$\/",
       "required":false,
       "position":15,
       "label":{
