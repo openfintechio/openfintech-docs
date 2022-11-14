@@ -987,6 +987,7 @@
 |![nbrb](https://static.openfintech.io/vendors/nbrb/logo.png?w=600&c=v0.59.26#w200) |[**National Bank of the Republic of Belarus**](nbrb/)|`nbrb`| 
 |![nbt](https://static.openfintech.io/vendors/nbt/logo.svg?w=600&c=v0.59.26#w200) |[**National Bank of Tajikistan**](nbt/)|`nbt`| 
 |![nbu](https://static.openfintech.io/vendors/nbu/logo.png?w=600&c=v0.59.26#w200) |[**National Bank of Ukraine**](nbu/)|`nbu`| 
+|![neopay](https://static.openfintech.io/vendors/neopay/logo.svg?w=600&c=v0.59.26#w200) |[**Neopay**](neopay/)|`neopay`| 
 |![neosurf](https://static.openfintech.io/vendors/neosurf/logo.png?w=600&c=v0.59.26#w200) |[**Neosurf**](neosurf/)|`neosurf`| 
 |![netbanx](https://static.openfintech.io/vendors/netbanx/logo.png?w=600&c=v0.59.26#w200) |[**Netbanx**](netbanx/)|`netbanx`| 
 |![netbilling](https://static.openfintech.io/vendors/netbilling/logo.png?w=600&c=v0.59.26#w200) |[**Netbilling**](netbilling/)|`netbilling`| 

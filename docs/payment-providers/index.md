@@ -441,6 +441,7 @@
 |![mygate](https://static.openfintech.io/payment_providers/mygate/logo.png?w=600&c=v0.59.26#w100) |[**MyGate**](mygate/)|`mygate`| 
 || **N** ||
 |![nationalach](https://static.openfintech.io/payment_providers/nationalach/logo.png?w=600&c=v0.59.26#w100) |[**NationalACH**](nationalach/)|`nationalach`| 
+|![neopay](https://static.openfintech.io/payment_providers/neopay/logo.svg?w=600&c=v0.59.26#w100) |[**Neopay**](neopay/)|`neopay`| 
 |![netbanx](https://static.openfintech.io/payment_providers/netbanx/logo.png?w=600&c=v0.59.26#w100) |[**Netbanx**](netbanx/)|`netbanx`| 
 |![netbilling](https://static.openfintech.io/payment_providers/netbilling/logo.png?w=600&c=v0.59.26#w100) |[**Netbilling**](netbilling/)|`netbilling`| 
 |![netelisasia](https://static.openfintech.io/payment_providers/netelisasia/logo.png?w=600&c=v0.59.26#w100) |[**Netelis Asia**](netelisasia/)|`netelisasia`| 
