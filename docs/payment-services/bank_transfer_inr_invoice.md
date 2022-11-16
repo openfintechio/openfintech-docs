@@ -17,7 +17,7 @@
 :	[RU] Банковский перевод 
 :	[UK] Банківський переказ 
  
-**Amount limits:** from `0.01` to `8000000` INR 
+**Amount limits:** from `0.01` to `80000000` INR 
 
 ## JSON Object 
 
@@ -29,6 +29,6 @@
   "currency":"INR",
   "fields":null,
   "amount_min":0.01,
-  "amount_max":8000000
+  "amount_max":80000000
 }
 ```  

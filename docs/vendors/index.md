@@ -564,6 +564,7 @@
 |![exmoney.me](https://static.openfintech.io/vendors/exmoney.me/logo.svg?w=600&c=v0.59.26#w200) |[**ExMoney**](exmoney.me/)|`exmoney.me`| 
 |![expercash](https://static.openfintech.io/vendors/expercash/logo.png?w=600&c=v0.59.26#w200) |[**EXPERCASH**](expercash/)|`expercash`| 
 |![externalprovider](https://static.openfintech.io/vendors/externalprovider/logo.svg?w=600&c=v0.59.26#w200) |[**External provider**](externalprovider/)|`externalprovider`| 
+|![exxogate](https://static.openfintech.io/vendors/exxogate/logo.svg?w=600&c=v0.59.26#w200) |[**Exxogate**](exxogate/)|`exxogate`| 
 |![ezeebill](https://static.openfintech.io/vendors/ezeebill/logo.svg?w=600&c=v0.59.26#w200) |[**Ezeebill**](ezeebill/)|`ezeebill`| 
 |![ezic](https://static.openfintech.io/vendors/ezic/logo.png?w=600&c=v0.59.26#w200) |[**Ezic**](ezic/)|`ezic`| 
 || **F** ||

@@ -35,6 +35,7 @@ The list of [Payment Services](/payment-services/) based on the _Commonwealth Ba
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![commonwealth_bank](https://static.openfintech.io/payment_methods/commonwealth_bank/icon.svg?w=278&c=v0.59.26#w100) |[commonwealth_bank_aud_hpp](/payment-services/commonwealth_bank_aud_hpp/)|`commonwealth_bank_aud_hpp`| 
+|![commonwealth_bank](https://static.openfintech.io/payment_methods/commonwealth_bank/icon.svg?w=278&c=v0.59.26#w100) |[commonwealth_bank_idr_hpp](/payment-services/commonwealth_bank_idr_hpp/)|`commonwealth_bank_idr_hpp`| 
  
 
 ## Payment Providers 
@@ -44,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Commonwea
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![paysec](https://static.openfintech.io/payment_providers/paysec/icon.png?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
+|![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
  
 
 ## JSON Object 

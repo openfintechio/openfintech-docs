@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _CIMB Bank Vietn
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![cimb_bank](https://static.openfintech.io/payment_methods/cimb_bank/icon.png?w=278&c=v0.59.26#w100) |[cimb_bank_vnd_hpp](/payment-services/cimb_bank_vnd_hpp/)|`cimb_bank_vnd_hpp`| 
+|![cimb_bank](https://static.openfintech.io/payment_methods/cimb_bank/icon.png?w=278&c=v0.59.26#w100) |[cimb_bank_myr_hpp](/payment-services/cimb_bank_myr_hpp/)|`cimb_bank_myr_hpp`| 
  
 
 ## Payment Providers 
@@ -46,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _CIMB Bank
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![skpay](https://static.openfintech.io/payment_providers/skpay/icon.png?w=278&c=v0.59.26#w100) |[SKPay](/payment-providers/skpay/)|`skpay`| 
+|![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
  
 
 ## JSON Object 
