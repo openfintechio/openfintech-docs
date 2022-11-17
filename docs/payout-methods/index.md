@@ -811,6 +811,7 @@
 |![near_protocol](https://static.openfintech.io/payout_methods/near_protocol/logo.svg?w=400&c=v0.59.26#w24) |[**NEAR Protocol**](near_protocol/)|`near_protocol`| 
 |![nebesa](https://static.openfintech.io/payout_methods/nebesa/logo.png?w=400&c=v0.59.26#w24) |[**Heaven**](nebesa/)|`nebesa`| 
 |![neboskreby](https://static.openfintech.io/payout_methods/neboskreby/logo.png?w=400&c=v0.59.26#w24) |[**Skyscrapers**](neboskreby/)|`neboskreby`| 
+|![neft](https://static.openfintech.io/payout_methods/neft/logo.svg?w=400&c=v0.59.26#w24) |[**NEFT**](neft/)|`neft`| 
 |![nemicom](https://static.openfintech.io/payout_methods/nemicom/logo.png?w=400&c=v0.59.26#w24) |[**NEMIcom**](nemicom/)|`nemicom`| 
 |![nemiriv-pat-vinnitsiaoblenergo](https://static.openfintech.io/payout_methods/nemiriv-pat-vinnitsiaoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Nemirov PJSC 'Vinnitsaoblenergo'**](nemiriv-pat-vinnitsiaoblenergo/)|`nemiriv-pat-vinnitsiaoblenergo`| 
 |![neon-mikolayiv](https://static.openfintech.io/payout_methods/neon-mikolayiv/logo.png?w=400&c=v0.59.26#w24) |[**NEON (Nikolaev)**](neon-mikolayiv/)|`neon-mikolayiv`| 
@@ -1346,6 +1347,7 @@
 |![ripple](https://static.openfintech.io/payout_methods/ripple/logo.svg?w=400&c=v0.59.26#w24) |[**Ripple**](ripple/)|`ripple`| 
 |![rivneoblvodokanal](https://static.openfintech.io/payout_methods/rivneoblvodokanal/logo.png?w=400&c=v0.59.26#w24) |[**Rivneoblvodokanal**](rivneoblvodokanal/)|`rivneoblvodokanal`| 
 |![roket-net-donetskaia-obl](https://static.openfintech.io/payout_methods/roket-net-donetskaia-obl/logo.png?w=400&c=v0.59.26#w24) |[**Roket.Net (Donetsk region)**](roket-net-donetskaia-obl/)|`roket-net-donetskaia-obl`| 
+|![rtgs](https://static.openfintech.io/payout_methods/rtgs/logo.svg?w=400&c=v0.59.26#w24) |[**RTGS**](rtgs/)|`rtgs`| 
 |![rubezhanskii-rem-lugansk-eo](https://static.openfintech.io/payout_methods/rubezhanskii-rem-lugansk-eo/logo.svg?w=400&c=v0.59.26#w24) |[**Rubezhansky REM Lugansk EO**](rubezhanskii-rem-lugansk-eo/)|`rubezhanskii-rem-lugansk-eo`| 
 |![rubin-plius-telebachennia-m-nova-kakhovka](https://static.openfintech.io/payout_methods/rubin-plius-telebachennia-m-nova-kakhovka/logo.png?w=400&c=v0.59.26#w24) |[**Rubіn Plus - Telebachennya (m. Nova Kakhovka)**](rubin-plius-telebachennia-m-nova-kakhovka/)|`rubin-plius-telebachennia-m-nova-kakhovka`| 
 |![rubintelekom-nova-kakhovka](https://static.openfintech.io/payout_methods/rubintelekom-nova-kakhovka/logo.png?w=400&c=v0.59.26#w24) |[**RubinTelecom (New Kakhovka)**](rubintelekom-nova-kakhovka/)|`rubintelekom-nova-kakhovka`| 

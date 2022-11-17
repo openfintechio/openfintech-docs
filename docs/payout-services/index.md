@@ -805,6 +805,7 @@
 |![NEAR Protocol](https://static.openfintech.io/payout_methods/near_protocol/logo.svg?w=400&c=v0.59.26#w24) |[**NEAR Protocol**](/payout-methods/near_protocol/)|[`near_protocol_near`](near_protocol_near/)|`NEAR`| 
 |![Heaven](https://static.openfintech.io/payout_methods/nebesa/logo.png?w=400&c=v0.59.26#w24) |[**Heaven**](/payout-methods/nebesa/)|[`nebesa_uah`](nebesa_uah/)|`UAH`| 
 |![Skyscrapers](https://static.openfintech.io/payout_methods/neboskreby/logo.png?w=400&c=v0.59.26#w24) |[**Skyscrapers**](/payout-methods/neboskreby/)|[`neboskreby_uah`](neboskreby_uah/)|`UAH`| 
+|![NEFT](https://static.openfintech.io/payout_methods/neft/logo.svg?w=400&c=v0.59.26#w24) |[**NEFT**](/payout-methods/neft/)|[`neft_inr`](neft_inr/)|`INR`| 
 |![NEMIcom](https://static.openfintech.io/payout_methods/nemicom/logo.png?w=400&c=v0.59.26#w24) |[**NEMIcom**](/payout-methods/nemicom/)|[`nemicom_uah`](nemicom_uah/)|`UAH`| 
 |![NEON (Nikolaev)](https://static.openfintech.io/payout_methods/neon-mikolayiv/logo.png?w=400&c=v0.59.26#w24) |[**NEON (Nikolaev)**](/payout-methods/neon-mikolayiv/)|[`neon-mikolayiv_uah`](neon-mikolayiv_uah/)|`UAH`| 
 |![Net-City (Zhytomyr)](https://static.openfintech.io/payout_methods/net-city-zhitomir/logo.png?w=400&c=v0.59.26#w24) |[**Net-City (Zhytomyr)**](/payout-methods/net-city-zhitomir/)|[`net-city-zhitomir_uah`](net-city-zhitomir_uah/)|`UAH`| 
@@ -1222,6 +1223,7 @@
 |![Ripple](https://static.openfintech.io/payout_methods/ripple/logo.svg?w=400&c=v0.59.26#w24) |[**Ripple**](/payout-methods/ripple/)|[`ripple_usd`](ripple_usd/)|`USD`| 
 |![Rivneoblvodokanal](https://static.openfintech.io/payout_methods/rivneoblvodokanal/logo.png?w=400&c=v0.59.26#w24) |[**Rivneoblvodokanal**](/payout-methods/rivneoblvodokanal/)|[`rivneoblvodokanal_uah`](rivneoblvodokanal_uah/)|`UAH`| 
 |![Roket.Net (Donetsk region)](https://static.openfintech.io/payout_methods/roket-net-donetskaia-obl/logo.png?w=400&c=v0.59.26#w24) |[**Roket.Net (Donetsk region)**](/payout-methods/roket-net-donetskaia-obl/)|[`roket-net-donetskaia-obl_uah`](roket-net-donetskaia-obl_uah/)|`UAH`| 
+|![RTGS](https://static.openfintech.io/payout_methods/rtgs/logo.svg?w=400&c=v0.59.26#w24) |[**RTGS**](/payout-methods/rtgs/)|[`rtgs_inr`](rtgs_inr/)|`INR`| 
 |![Rubіn Plus - Telebachennya (m. Nova Kakhovka)](https://static.openfintech.io/payout_methods/rubin-plius-telebachennia-m-nova-kakhovka/logo.png?w=400&c=v0.59.26#w24) |[**Rubіn Plus - Telebachennya (m. Nova Kakhovka)**](/payout-methods/rubin-plius-telebachennia-m-nova-kakhovka/)|[`rubin-plius-telebachennia-m-nova-kakhovka_uah`](rubin-plius-telebachennia-m-nova-kakhovka_uah/)|`UAH`| 
 |![RubinTelecom (New Kakhovka)](https://static.openfintech.io/payout_methods/rubintelekom-nova-kakhovka/logo.png?w=400&c=v0.59.26#w24) |[**RubinTelecom (New Kakhovka)**](/payout-methods/rubintelekom-nova-kakhovka/)|[`rubintelekom-nova-kakhovka_uah`](rubintelekom-nova-kakhovka_uah/)|`UAH`| 
 |![RUSANOVKA-NET (Kiev)](https://static.openfintech.io/payout_methods/rusanovka-net-kiev/logo.png?w=400&c=v0.59.26#w24) |[**RUSANOVKA-NET (Kiev)**](/payout-methods/rusanovka-net-kiev/)|[`rusanovka-net-kiev_uah`](rusanovka-net-kiev_uah/)|`UAH`| 

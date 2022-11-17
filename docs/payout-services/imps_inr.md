@@ -29,6 +29,7 @@
 |`beneficiary_phone`|✗|`string`|`/^\+91\d{10}$/`| 
 |`ifsc`|✗|`string`|`/^[A-Za-z0-9]{1,11}$/`| 
 |`bank_name`|✗|`string`|`/^[A-Z\-\ a-z0-9_]{2,100}$/`| 
+|`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
  
 
 ### Details 
@@ -123,6 +124,24 @@
 	: [RU] Введите название банка получателя 
 	: [UK] Введіть назву банку одержувача 
  
+6. **`beneficiary_full_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Recipient full name 
+	: [RU] Полное имя получателя 
+	: [UK] Повне iм'я одержувача 
+ 
+	Hint:  
+	: [EN] Enter Beneficiary full name 
+	: [RU] Введите полное имя получателя 
+	: [UK] Введіть повне імʼя одержувача 
+ 
 
 ## JSON Object 
 
@@ -216,6 +235,23 @@
       "regexp":"\/^[A-Z\\-\\ a-z0-9_]{2,100}$\/",
       "required":false,
       "position":5
+    },
+    {
+      "key":"beneficiary_full_name",
+      "type":"string",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\d\\s]{2,100}$\/",
+      "required":false,
+      "position":6,
+      "label":{
+        "en":"Recipient full name",
+        "ru":"\u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u041f\u043e\u0432\u043d\u0435 i\u043c'\u044f \u043e\u0434\u0435\u0440\u0436\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter Beneficiary full name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u043e\u0434\u0435\u0440\u0436\u0443\u0432\u0430\u0447\u0430"
+      }
     }
   ],
   "amount_min":0.01,
