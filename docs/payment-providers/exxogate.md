@@ -143,6 +143,10 @@ The list of supported [Payment Methods](/payment-methods/)
 |![punjab_sind_bank](https://static.openfintech.io/payment_methods/punjab_sind_bank/icon.png?w=278&c=v0.59.26#w100) |[punjab_sind_bank](/payment-methods/punjab_sind_bank/)|`punjab_sind_bank`| 
 |![rupay](https://static.openfintech.io/payment_methods/rupay/icon.svg?w=278&c=v0.59.26#w100) |[rupay](/payment-methods/rupay/)|`rupay`| 
 |![india_bank_selection](https://static.openfintech.io/payment_methods/india_bank_selection/icon.svg?w=278&c=v0.59.26#w100) |[india_bank_selection](/payment-methods/india_bank_selection/)|`india_bank_selection`| 
+|![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.png?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
+|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.png?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
+|![saraswat_cooperative_bank](https://static.openfintech.io/payment_methods/saraswat_cooperative_bank/icon.svg?w=278&c=v0.59.26#w100) |[saraswat_cooperative_bank](/payment-methods/saraswat_cooperative_bank/)|`saraswat_cooperative_bank`| 
  
 
 ## JSON Object 
@@ -258,7 +262,11 @@ The list of supported [Payment Methods](/payment-methods/)
     "standard_chartered_bank_india",
     "punjab_sind_bank",
     "rupay",
-    "india_bank_selection"
+    "india_bank_selection",
+    "visadebit",
+    "payment_card",
+    "mastercarddebit",
+    "saraswat_cooperative_bank"
   ],
   "payout_method":null,
   "metadata":null,

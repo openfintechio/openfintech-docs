@@ -485,6 +485,7 @@
 |![safetypay](https://static.openfintech.io/payment_methods/safetypay/logo.png?w=400&c=v0.59.26#w200) |[**SafetyPay**](safetypay/)|`safetypay`| 
 |![saigon_bank](https://static.openfintech.io/payment_methods/saigon_bank/logo.png?w=400&c=v0.59.26#w200) |[**Saigon Bank For Industry And Trade**](saigon_bank/)|`saigon_bank`| 
 |![santander](https://static.openfintech.io/payment_methods/santander/logo.png?w=400&c=v0.59.26#w200) |[**Santander**](santander/)|`santander`| 
+|![saraswat_cooperative_bank](https://static.openfintech.io/payment_methods/saraswat_cooperative_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Saraswat Cooperative Bank**](saraswat_cooperative_bank/)|`saraswat_cooperative_bank`| 
 |![sberbank](https://static.openfintech.io/payment_methods/sberbank/logo.svg?w=400&c=v0.59.26#w200) |[**SberBank**](sberbank/)|`sberbank`| 
 |![sberonline](https://static.openfintech.io/payment_methods/sberonline/logo.svg?w=400&c=v0.59.26#w200) |[**Sberbank Online**](sberonline/)|`sberonline`| 
 |![sbp](https://static.openfintech.io/payment_methods/sbp/logo.svg?w=400&c=v0.59.26#w200) |[**SBP**](sbp/)|`sbp`| 
