@@ -46,6 +46,7 @@ The list of [Payment Services](/payment-services/) based on the _Bank Transfer_
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_inr_hpp](/payment-services/bank_transfer_inr_hpp/)|`bank_transfer_inr_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_jpy_hpp](/payment-services/bank_transfer_jpy_hpp/)|`bank_transfer_jpy_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_eur_hpp](/payment-services/bank_transfer_eur_hpp/)|`bank_transfer_eur_hpp`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_try_hpp](/payment-services/bank_transfer_try_hpp/)|`bank_transfer_try_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_aud_hpp](/payment-services/bank_transfer_aud_hpp/)|`bank_transfer_aud_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_clp_hpp](/payment-services/bank_transfer_clp_hpp/)|`bank_transfer_clp_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_inr_invoice](/payment-services/bank_transfer_inr_invoice/)|`bank_transfer_inr_invoice`| 
@@ -68,6 +69,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![copay](https://static.openfintech.io/payment_providers/copay/icon.svg?w=278&c=v0.59.26#w100) |[Copay](/payment-providers/copay/)|`copay`| 
 |![yapily](https://static.openfintech.io/payment_providers/yapily/icon.png?w=278&c=v0.59.26#w100) |[Yapily](/payment-providers/yapily/)|`yapily`| 
 |![zepto](https://static.openfintech.io/payment_providers/zepto/icon.svg?w=278&c=v0.59.26#w100) |[Zepto](/payment-providers/zepto/)|`zepto`| 
+|![maxpayment](https://static.openfintech.io/payment_providers/maxpayment/icon.svg?w=278&c=v0.59.26#w100) |[Maxpayment](/payment-providers/maxpayment/)|`maxpayment`| 
  
 
 ## JSON Object 

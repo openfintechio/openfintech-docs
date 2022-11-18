@@ -293,6 +293,7 @@
 |![flo2cash](https://static.openfintech.io/payment_providers/flo2cash/logo.png?w=600&c=v0.59.26#w100) |[**Flo2Cash**](flo2cash/)|`flo2cash`| 
 |![flocash](https://static.openfintech.io/payment_providers/flocash/logo.png?w=600&c=v0.59.26#w100) |[**Flocash**](flocash/)|`flocash`| 
 |![fondy](https://static.openfintech.io/payment_providers/fondy/logo.svg?w=600&c=v0.59.26#w100) |[**FONDY**](fondy/)|`fondy`| 
+|![forestpayment](https://static.openfintech.io/payment_providers/forestpayment/logo.png?w=600&c=v0.59.26#w100) |[**ForestPayment**](forestpayment/)|`forestpayment`| 
 |![forta](https://static.openfintech.io/payment_providers/forta/logo.png?w=600&c=v0.59.26#w100) |[**Forta**](forta/)|`forta`| 
 |![fortepaymentsystems](https://static.openfintech.io/payment_providers/fortepaymentsystems/logo.png?w=600&c=v0.59.26#w100) |[**Forte Payment Systems**](fortepaymentsystems/)|`fortepaymentsystems`| 
 |![fortumo](https://static.openfintech.io/payment_providers/fortumo/logo.png?w=600&c=v0.59.26#w100) |[**Fortumo**](fortumo/)|`fortumo`| 
@@ -412,6 +413,7 @@
 |![maxconnectsingaporepteltd](https://static.openfintech.io/payment_providers/maxconnectsingaporepteltd/logo.png?w=600&c=v0.59.26#w100) |[**Maxconnect**](maxconnectsingaporepteltd/)|`maxconnectsingaporepteltd`| 
 |![maxipago](https://static.openfintech.io/payment_providers/maxipago/logo.png?w=600&c=v0.59.26#w100) |[**maxiPago!**](maxipago/)|`maxipago`| 
 |![maxpay](https://static.openfintech.io/payment_providers/maxpay/logo.svg?w=600&c=v0.59.26#w100) |[**Maxpay**](maxpay/)|`maxpay`| 
+|![maxpayment](https://static.openfintech.io/payment_providers/maxpayment/logo.svg?w=600&c=v0.59.26#w100) |[**Maxpayment**](maxpayment/)|`maxpayment`| 
 |![megagatepay](https://static.openfintech.io/payment_providers/megagatepay/logo.png?w=600&c=v0.59.26#w100) |[**MegaGatePay**](megagatepay/)|`megagatepay`| 
 |![meikopay](https://static.openfintech.io/payment_providers/meikopay/logo.png?w=600&c=v0.59.26#w100) |[**Meikopay**](meikopay/)|`meikopay`| 
 |![merchantscout](https://static.openfintech.io/payment_providers/merchantscout/logo.png?w=600&c=v0.59.26#w100) |[**MerchantScout**](merchantscout/)|`merchantscout`| 
@@ -596,6 +598,7 @@
 |![paytpv](https://static.openfintech.io/payment_providers/paytpv/logo.png?w=600&c=v0.59.26#w100) |[**PAYTPV**](paytpv/)|`paytpv`| 
 |![paytrail](https://static.openfintech.io/payment_providers/paytrail/logo.png?w=600&c=v0.59.26#w100) |[**Paytrail**](paytrail/)|`paytrail`| 
 |![paytrek](https://static.openfintech.io/payment_providers/paytrek/logo.png?w=600&c=v0.59.26#w100) |[**Paytrek**](paytrek/)|`paytrek`| 
+|![paytriot](https://static.openfintech.io/payment_providers/paytriot/logo.png?w=600&c=v0.59.26#w100) |[**Paytriot**](paytriot/)|`paytriot`| 
 |![payture](https://static.openfintech.io/payment_providers/payture/logo.png?w=600&c=v0.59.26#w100) |[**Payture**](payture/)|`payture`| 
 |![payu](https://static.openfintech.io/payment_providers/payu/logo.svg?w=600&c=v0.59.26#w100) |[**PayU**](payu/)|`payu`| 
 |![payunity](https://static.openfintech.io/payment_providers/payunity/logo.png?w=600&c=v0.59.26#w100) |[**PAYUNITY**](payunity/)|`payunity`| 

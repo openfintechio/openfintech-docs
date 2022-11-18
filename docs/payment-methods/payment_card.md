@@ -373,7 +373,10 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![paygames](https://static.openfintech.io/payment_providers/paygames/icon.png?w=278&c=v0.59.26#w100) |[PayGames](/payment-providers/paygames/)|`paygames`| 
 |![cashonex](https://static.openfintech.io/payment_providers/cashonex/icon.png?w=278&c=v0.59.26#w100) |[CashOneX](/payment-providers/cashonex/)|`cashonex`| 
 |![vanilapay](https://static.openfintech.io/payment_providers/vanilapay/icon.svg?w=278&c=v0.59.26#w100) |[VanilaPay](/payment-providers/vanilapay/)|`vanilapay`| 
+|![paytriot](https://static.openfintech.io/payment_providers/paytriot/icon.png?w=278&c=v0.59.26#w100) |[Paytriot](/payment-providers/paytriot/)|`paytriot`| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
+|![maxpayment](https://static.openfintech.io/payment_providers/maxpayment/icon.svg?w=278&c=v0.59.26#w100) |[Maxpayment](/payment-providers/maxpayment/)|`maxpayment`| 
+|![forestpayment](https://static.openfintech.io/payment_providers/forestpayment/icon.png?w=278&c=v0.59.26#w100) |[ForestPayment](/payment-providers/forestpayment/)|`forestpayment`| 
  
 
 ## JSON Object 

@@ -656,6 +656,7 @@
 |![fmikolayivske_oblas_atoshad_m_mikolayiv](https://static.openfintech.io/vendors/fmikolayivske_oblas_atoshad_m_mikolayiv/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Миколаївське обласне управлiння ПАТ 'Державний ощадний банк України'**](fmikolayivske_oblas_atoshad_m_mikolayiv/)|`fmikolayivske_oblas_atoshad_m_mikolayiv`| 
 |![fodeske_oblasne_uprav_atoshad_m_odesa](https://static.openfintech.io/vendors/fodeske_oblasne_uprav_atoshad_m_odesa/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Одеське обласне управлiння ПАТ 'Державний ощадний банк України'**](fodeske_oblasne_uprav_atoshad_m_odesa/)|`fodeske_oblasne_uprav_atoshad_m_odesa`| 
 |![fondy](https://static.openfintech.io/vendors/fondy/logo.svg?w=600&c=v0.59.26#w200) |[**FONDY**](fondy/)|`fondy`| 
+|![forestpayment](https://static.openfintech.io/vendors/forestpayment/logo.png?w=600&c=v0.59.26#w200) |[**ForestPayment**](forestpayment/)|`forestpayment`| 
 |![forexbank](https://static.openfintech.io/vendors/forexbank/logo.png?w=600&c=v0.59.26#w200) |[**Forex Bank**](forexbank/)|`forexbank`| 
 |![forta](https://static.openfintech.io/vendors/forta/logo.png?w=600&c=v0.59.26#w200) |[**Forta**](forta/)|`forta`| 
 |![fortebank](https://static.openfintech.io/vendors/fortebank/logo.svg?w=600&c=v0.59.26#w200) |[**ForteBank**](fortebank/)|`fortebank`| 
@@ -916,6 +917,7 @@
 |![maxconnectsingaporepteltd](https://static.openfintech.io/vendors/maxconnectsingaporepteltd/logo.png?w=600&c=v0.59.26#w200) |[**Maxconnect**](maxconnectsingaporepteltd/)|`maxconnectsingaporepteltd`| 
 |![maxipago](https://static.openfintech.io/vendors/maxipago/logo.png?w=600&c=v0.59.26#w200) |[**maxiPago!**](maxipago/)|`maxipago`| 
 |![maxpay](https://static.openfintech.io/vendors/maxpay/logo.svg?w=600&c=v0.59.26#w200) |[**Maxpay**](maxpay/)|`maxpay`| 
+|![maxpayment](https://static.openfintech.io/vendors/maxpayment/logo.svg?w=600&c=v0.59.26#w200) |[**Maxpayment**](maxpayment/)|`maxpayment`| 
 |![maybanknetbankingphillipines](https://static.openfintech.io/vendors/maybanknetbankingphillipines/logo.png?w=600&c=v0.59.26#w200) |[**Maybank netbanking**](maybanknetbankingphillipines/)|`maybanknetbankingphillipines`| 
 |![mazooma](https://static.openfintech.io/vendors/mazooma/logo.png?w=600&c=v0.59.26#w200) |[**Mazooma**](mazooma/)|`mazooma`| 
 |![mbank](https://static.openfintech.io/vendors/mbank/logo.png?w=600&c=v0.59.26#w200) |[**mBank (mTransfer)**](mbank/)|`mbank`| 
@@ -1334,6 +1336,7 @@
 |![paytpv](https://static.openfintech.io/vendors/paytpv/logo.png?w=600&c=v0.59.26#w200) |[**PAYTPV**](paytpv/)|`paytpv`| 
 |![paytrail](https://static.openfintech.io/vendors/paytrail/logo.png?w=600&c=v0.59.26#w200) |[**Paytrail**](paytrail/)|`paytrail`| 
 |![paytrek](https://static.openfintech.io/vendors/paytrek/logo.png?w=600&c=v0.59.26#w200) |[**Paytrek**](paytrek/)|`paytrek`| 
+|![paytriot](https://static.openfintech.io/vendors/paytriot/logo.png?w=600&c=v0.59.26#w200) |[**Paytriot**](paytriot/)|`paytriot`| 
 |![payture](https://static.openfintech.io/vendors/payture/logo.png?w=600&c=v0.59.26#w200) |[**Payture**](payture/)|`payture`| 
 |![payu](https://static.openfintech.io/vendors/payu/logo.svg?w=600&c=v0.59.26#w200) |[**PayU**](payu/)|`payu`| 
 |![payunity](https://static.openfintech.io/vendors/payunity/logo.png?w=600&c=v0.59.26#w200) |[**PAYUNITY**](payunity/)|`payunity`| 

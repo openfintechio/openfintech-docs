@@ -28,7 +28,7 @@
 |`account_name`|✗|`string`|`/^[A-Za-z0-9\s]{2,100}$/`| 
 |`bank_branch`|✗|`string`|`/^[A-za-z,0-9\p{L}]{2,100}$/u`| 
 |`bank_branch_code`|✗|`string`|`/^[0-9]{2,100}$/`| 
-|`bank_code`|✗|`string`|`/^[A-Za-z0-9\p{L}]{2,20}$/u`| 
+|`bank_code`|✗|`string`|`/^[A-Za-z0-9\p{L}\.]{2,20}$/u`| 
 |`bank_country_code_iso`|✗|`string`|`/^.{2,6}$/`| 
 |`bank_name`|✗|`string`|`/^[A-Z\-\sa-z0-9_\p{L}]{2,100}$/u`| 
 |`beneficiary_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\s\p{L}]{2,100}$/u`| 
@@ -122,7 +122,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-z0-9\p{L}]{2,20}$/u` 
+	Regexp: `/^[A-Za-z0-9\p{L}\.]{2,20}$/u` 
  
 	Required: `` 
  
@@ -452,7 +452,7 @@
     {
       "key":"bank_code",
       "type":"string",
-      "regexp":"\/^[A-Za-z0-9\\p{L}]{2,20}$\/u",
+      "regexp":"\/^[A-Za-z0-9\\p{L}\\.]{2,20}$\/u",
       "required":false,
       "position":5,
       "label":{
