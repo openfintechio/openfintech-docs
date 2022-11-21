@@ -43,6 +43,17 @@ The list of supported [Payment Methods](/payment-methods/)
 |![qiwi](https://static.openfintech.io/payment_methods/qiwi/icon.svg?w=278&c=v0.59.26#w100) |[qiwi](/payment-methods/qiwi/)|`qiwi`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
+|![qiwi](https://static.openfintech.io/payout_methods/qiwi/icon.svg?w=278&c=v0.59.26#w40) |[qiwi](payout-methodsqiwi/)|`qiwi`| 
+|![mobile](https://static.openfintech.io/payout_methods/mobile/icon.svg?w=278&c=v0.59.26#w40) |[mobile](payout-methodsmobile/)|`mobile`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -56,7 +67,11 @@ The list of supported [Payment Methods](/payment-methods/)
     "payment_card",
     "qiwi"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "payment_card",
+    "qiwi",
+    "mobile"
+  ],
   "metadata":null,
   "name":{
     "en":"VanilaPay",

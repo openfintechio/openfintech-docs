@@ -44,9 +44,9 @@
 	: [UK] Статус 
  
 	Hint:  
-	: [EN] Enter Status 
-	: [RU] Введите статус 
-	: [UK] Введіть статус 
+	: [EN] Enter Status: [success, pending, fail] 
+	: [RU] Введите статус: [success, pending, fail] 
+	: [UK] Введіть статус: [success, pending, fail] 
  
 
 ## JSON Object 
@@ -67,9 +67,9 @@
         "uk":"\u0421\u0442\u0430\u0442\u0443\u0441"
       },
       "hint":{
-        "en":"Enter Status",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0441\u0442\u0430\u0442\u0443\u0441",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0441\u0442\u0430\u0442\u0443\u0441"
+        "en":"Enter Status: [success, pending, fail]",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0441\u0442\u0430\u0442\u0443\u0441: [success, pending, fail]",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0441\u0442\u0430\u0442\u0443\u0441: [success, pending, fail]"
       },
       "regexp":"\/^[a-zA-Z_]*$\/",
       "required":true,

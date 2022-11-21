@@ -377,6 +377,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
 |![maxpayment](https://static.openfintech.io/payment_providers/maxpayment/icon.svg?w=278&c=v0.59.26#w100) |[Maxpayment](/payment-providers/maxpayment/)|`maxpayment`| 
 |![forestpayment](https://static.openfintech.io/payment_providers/forestpayment/icon.png?w=278&c=v0.59.26#w100) |[ForestPayment](/payment-providers/forestpayment/)|`forestpayment`| 
+|![impaya](https://static.openfintech.io/payment_providers/impaya/icon.png?w=278&c=v0.59.26#w100) |[Impaya](/payment-providers/impaya/)|`impaya`| 
  
 
 ## JSON Object 

@@ -155,6 +155,7 @@
 |![circulopayments](https://static.openfintech.io/payment_providers/circulopayments/logo.svg?w=600&c=v0.59.26#w100) |[**Circulo Payments**](circulopayments/)|`circulopayments`| 
 |![citopay](https://static.openfintech.io/payment_providers/citopay/logo.svg?w=600&c=v0.59.26#w100) |[**Citopay Online Merchant Services**](citopay/)|`citopay`| 
 |![citruspay](https://static.openfintech.io/payment_providers/citruspay/logo.svg?w=600&c=v0.59.26#w100) |[**Citrus Pay**](citruspay/)|`citruspay`| 
+|![city24](https://static.openfintech.io/payment_providers/city24/logo.png?w=600&c=v0.59.26#w100) |[**City24**](city24/)|`city24`| 
 |![clearhaus](https://static.openfintech.io/payment_providers/clearhaus/logo.png?w=600&c=v0.59.26#w100) |[**Clearhaus**](clearhaus/)|`clearhaus`| 
 |![cleverbridge](https://static.openfintech.io/payment_providers/cleverbridge/logo.svg?w=600&c=v0.59.26#w100) |[**cleverbridge**](cleverbridge/)|`cleverbridge`| 
 |![cmpayments](https://static.openfintech.io/payment_providers/cmpayments/logo.png?w=600&c=v0.59.26#w100) |[**CM Payments**](cmpayments/)|`cmpayments`| 
@@ -346,6 +347,7 @@
 |![ikajo](https://static.openfintech.io/payment_providers/ikajo/logo.svg?w=600&c=v0.59.26#w100) |[**Ikajo**](ikajo/)|`ikajo`| 
 |![ikorunapaymentsystems](https://static.openfintech.io/payment_providers/ikorunapaymentsystems/logo.png?w=600&c=v0.59.26#w100) |[**IKoruna**](ikorunapaymentsystems/)|`ikorunapaymentsystems`| 
 |![imglobalpayments](https://static.openfintech.io/payment_providers/imglobalpayments/logo.png?w=600&c=v0.59.26#w100) |[**ImGlobal Payments**](imglobalpayments/)|`imglobalpayments`| 
+|![impaya](https://static.openfintech.io/payment_providers/impaya/logo.png?w=600&c=v0.59.26#w100) |[**Impaya**](impaya/)|`impaya`| 
 |![inatecpayment](https://static.openfintech.io/payment_providers/inatecpayment/logo.png?w=600&c=v0.59.26#w100) |[**Inatec Payment**](inatecpayment/)|`inatecpayment`| 
 |![indiapay](https://static.openfintech.io/payment_providers/indiapay/logo.png?w=600&c=v0.59.26#w100) |[**IndiaPay**](indiapay/)|`indiapay`| 
 |![infotrend](https://static.openfintech.io/payment_providers/infotrend/logo.png?w=600&c=v0.59.26#w100) |[**Infotrend**](infotrend/)|`infotrend`| 

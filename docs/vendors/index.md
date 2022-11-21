@@ -372,6 +372,7 @@
 |![citadelelatvia](https://static.openfintech.io/vendors/citadelelatvia/logo.png?w=600&c=v0.59.26#w200) |[**Citadele Latvia**](citadelelatvia/)|`citadelelatvia`| 
 |![citopay](https://static.openfintech.io/vendors/citopay/logo.png?w=600&c=v0.59.26#w200) |[**Citopay Online Merchant Services**](citopay/)|`citopay`| 
 |![citruspay](https://static.openfintech.io/vendors/citruspay/logo.png?w=600&c=v0.59.26#w200) |[**Citrus Pay**](citruspay/)|`citruspay`| 
+|![city24](https://static.openfintech.io/vendors/city24/logo.png?w=600&c=v0.59.26#w200) |[**City24**](city24/)|`city24`| 
 |![clearhaus](https://static.openfintech.io/vendors/clearhaus/logo.png?w=600&c=v0.59.26#w200) |[**Clearhaus**](clearhaus/)|`clearhaus`| 
 |![cleverbridge](https://static.openfintech.io/vendors/cleverbridge/logo.png?w=600&c=v0.59.26#w200) |[**cleverbridge**](cleverbridge/)|`cleverbridge`| 
 |![clickandbuy](https://static.openfintech.io/vendors/clickandbuy/logo.png?w=600&c=v0.59.26#w200) |[**ClickandBuy**](clickandbuy/)|`clickandbuy`| 
@@ -787,6 +788,7 @@
 |![ikajo](https://static.openfintech.io/vendors/ikajo/logo.svg?w=600&c=v0.59.26#w200) |[**Ikajo**](ikajo/)|`ikajo`| 
 |![ikorunapaymentsystems](https://static.openfintech.io/vendors/ikorunapaymentsystems/logo.png?w=600&c=v0.59.26#w200) |[**IKoruna**](ikorunapaymentsystems/)|`ikorunapaymentsystems`| 
 |![imglobalpayments](https://static.openfintech.io/vendors/imglobalpayments/logo.png?w=600&c=v0.59.26#w200) |[**ImGlobal Payments**](imglobalpayments/)|`imglobalpayments`| 
+|![impaya](https://static.openfintech.io/vendors/impaya/logo.png?w=600&c=v0.59.26#w200) |[**Impaya**](impaya/)|`impaya`| 
 |![inatecpayment](https://static.openfintech.io/vendors/inatecpayment/logo.png?w=600&c=v0.59.26#w200) |[**Inatec Payment**](inatecpayment/)|`inatecpayment`| 
 |![incash24](https://static.openfintech.io/vendors/incash24/logo.svg?w=600&c=v0.59.26#w200) |[**www.incash24.com**](incash24/)|`incash24`| 
 |![indiapay](https://static.openfintech.io/vendors/indiapay/logo.png?w=600&c=v0.59.26#w200) |[**IndiaPay**](indiapay/)|`indiapay`| 
