@@ -30,10 +30,10 @@ https://static.openfintech.io/vendors/city24/logo.png?w=400&c=v0.59.26#w200
 
 ### Icon 
  
-![city24](https://static.openfintech.io/vendors/city24/icon.png?w=278&c=v0.59.26#w100)  
+![city24](https://static.openfintech.io/vendors/city24/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/city24/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/city24/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 
