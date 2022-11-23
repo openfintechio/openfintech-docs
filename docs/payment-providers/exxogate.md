@@ -149,6 +149,87 @@ The list of supported [Payment Methods](/payment-methods/)
 |![saraswat_cooperative_bank](https://static.openfintech.io/payment_methods/saraswat_cooperative_bank/icon.svg?w=278&c=v0.59.26#w100) |[saraswat_cooperative_bank](/payment-methods/saraswat_cooperative_bank/)|`saraswat_cooperative_bank`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![hdfc_bank](https://static.openfintech.io/payout_methods/hdfc_bank/icon.svg?w=278&c=v0.59.26#w40) |[hdfc_bank](payout-methodshdfc_bank/)|`hdfc_bank`| 
+|![icici_bank](https://static.openfintech.io/payout_methods/icici_bank/icon.svg?w=278&c=v0.59.26#w40) |[icici_bank](payout-methodsicici_bank/)|`icici_bank`| 
+|![indusind_bank](https://static.openfintech.io/payout_methods/indusind_bank/icon.svg?w=278&c=v0.59.26#w40) |[indusind_bank](payout-methodsindusind_bank/)|`indusind_bank`| 
+|![state_bank_of_india](https://static.openfintech.io/payout_methods/state_bank_of_india/icon.svg?w=278&c=v0.59.26#w40) |[state_bank_of_india](payout-methodsstate_bank_of_india/)|`state_bank_of_india`| 
+|![kotak_mahindra_bank](https://static.openfintech.io/payout_methods/kotak_mahindra_bank/icon.svg?w=278&c=v0.59.26#w40) |[kotak_mahindra_bank](payout-methodskotak_mahindra_bank/)|`kotak_mahindra_bank`| 
+|![idfc_bank_india](https://static.openfintech.io/payout_methods/idfc_bank_india/icon.svg?w=278&c=v0.59.26#w40) |[idfc_bank_india](payout-methodsidfc_bank_india/)|`idfc_bank_india`| 
+|![axis_bank](https://static.openfintech.io/payout_methods/axis_bank/icon.svg?w=278&c=v0.59.26#w40) |[axis_bank](payout-methodsaxis_bank/)|`axis_bank`| 
+|![bandhan_bank](https://static.openfintech.io/payout_methods/bandhan_bank/icon.svg?w=278&c=v0.59.26#w40) |[bandhan_bank](payout-methodsbandhan_bank/)|`bandhan_bank`| 
+|![bank_of_baroda](https://static.openfintech.io/payout_methods/bank_of_baroda/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_baroda](payout-methodsbank_of_baroda/)|`bank_of_baroda`| 
+|![federal_bank_india](https://static.openfintech.io/payout_methods/federal_bank_india/icon.svg?w=278&c=v0.59.26#w40) |[federal_bank_india](payout-methodsfederal_bank_india/)|`federal_bank_india`| 
+|![idbi_bank](https://static.openfintech.io/payout_methods/idbi_bank/icon.svg?w=278&c=v0.59.26#w40) |[idbi_bank](payout-methodsidbi_bank/)|`idbi_bank`| 
+|![india_post_payment_bank](https://static.openfintech.io/payout_methods/india_post_payment_bank/icon.svg?w=278&c=v0.59.26#w40) |[india_post_payment_bank](payout-methodsindia_post_payment_bank/)|`india_post_payment_bank`| 
+|![j_k_bank_india](https://static.openfintech.io/payout_methods/j_k_bank_india/icon.svg?w=278&c=v0.59.26#w40) |[j_k_bank_india](payout-methodsj_k_bank_india/)|`j_k_bank_india`| 
+|![karnataka_bank](https://static.openfintech.io/payout_methods/karnataka_bank/icon.svg?w=278&c=v0.59.26#w40) |[karnataka_bank](payout-methodskarnataka_bank/)|`karnataka_bank`| 
+|![lakshmi_vilas_bank_india](https://static.openfintech.io/payout_methods/lakshmi_vilas_bank_india/icon.svg?w=278&c=v0.59.26#w40) |[lakshmi_vilas_bank_india](payout-methodslakshmi_vilas_bank_india/)|`lakshmi_vilas_bank_india`| 
+|![paytm_payments_bank](https://static.openfintech.io/payout_methods/paytm_payments_bank/icon.svg?w=278&c=v0.59.26#w40) |[paytm_payments_bank](payout-methodspaytm_payments_bank/)|`paytm_payments_bank`| 
+|![ujjivan_small_finance_bank](https://static.openfintech.io/payout_methods/ujjivan_small_finance_bank/icon.svg?w=278&c=v0.59.26#w40) |[ujjivan_small_finance_bank](payout-methodsujjivan_small_finance_bank/)|`ujjivan_small_finance_bank`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
+|![techcom_bank](https://static.openfintech.io/payout_methods/techcom_bank/icon.svg?w=278&c=v0.59.26#w40) |[techcom_bank](payout-methodstechcom_bank/)|`techcom_bank`| 
+|![sacom_bank](https://static.openfintech.io/payout_methods/sacom_bank/icon.png?w=278&c=v0.59.26#w40) |[sacom_bank](payout-methodssacom_bank/)|`sacom_bank`| 
+|![vietcom_bank](https://static.openfintech.io/payout_methods/vietcom_bank/icon.svg?w=278&c=v0.59.26#w40) |[vietcom_bank](payout-methodsvietcom_bank/)|`vietcom_bank`| 
+|![asia_commercial_bank](https://static.openfintech.io/payout_methods/asia_commercial_bank/icon.svg?w=278&c=v0.59.26#w40) |[asia_commercial_bank](payout-methodsasia_commercial_bank/)|`asia_commercial_bank`| 
+|![dong_a_bank](https://static.openfintech.io/payout_methods/dong_a_bank/icon.png?w=278&c=v0.59.26#w40) |[dong_a_bank](payout-methodsdong_a_bank/)|`dong_a_bank`| 
+|![vietin_bank](https://static.openfintech.io/payout_methods/vietin_bank/icon.png?w=278&c=v0.59.26#w40) |[vietin_bank](payout-methodsvietin_bank/)|`vietin_bank`| 
+|![bidv_bank](https://static.openfintech.io/payout_methods/bidv_bank/icon.svg?w=278&c=v0.59.26#w40) |[bidv_bank](payout-methodsbidv_bank/)|`bidv_bank`| 
+|![exim_bank](https://static.openfintech.io/payout_methods/exim_bank/icon.svg?w=278&c=v0.59.26#w40) |[exim_bank](payout-methodsexim_bank/)|`exim_bank`| 
+|![agri_bank](https://static.openfintech.io/payout_methods/agri_bank/icon.png?w=278&c=v0.59.26#w40) |[agri_bank](payout-methodsagri_bank/)|`agri_bank`| 
+|![bank_central_asia](https://static.openfintech.io/payout_methods/bank_central_asia/icon.svg?w=278&c=v0.59.26#w40) |[bank_central_asia](payout-methodsbank_central_asia/)|`bank_central_asia`| 
+|![bank_negara_indonesia](https://static.openfintech.io/payout_methods/bank_negara_indonesia/icon.svg?w=278&c=v0.59.26#w40) |[bank_negara_indonesia](payout-methodsbank_negara_indonesia/)|`bank_negara_indonesia`| 
+|![mandiri_bank](https://static.openfintech.io/payout_methods/mandiri_bank/icon.svg?w=278&c=v0.59.26#w40) |[mandiri_bank](payout-methodsmandiri_bank/)|`mandiri_bank`| 
+|![bank_rakyat_indonesia](https://static.openfintech.io/payout_methods/bank_rakyat_indonesia/icon.svg?w=278&c=v0.59.26#w40) |[bank_rakyat_indonesia](payout-methodsbank_rakyat_indonesia/)|`bank_rakyat_indonesia`| 
+|![affin_bank_berhad](https://static.openfintech.io/payout_methods/affin_bank_berhad/icon.svg?w=278&c=v0.59.26#w40) |[affin_bank_berhad](payout-methodsaffin_bank_berhad/)|`affin_bank_berhad`| 
+|![alliance_bank](https://static.openfintech.io/payout_methods/alliance_bank/icon.svg?w=278&c=v0.59.26#w40) |[alliance_bank](payout-methodsalliance_bank/)|`alliance_bank`| 
+|![ambank_berhad](https://static.openfintech.io/payout_methods/ambank_berhad/icon.svg?w=278&c=v0.59.26#w40) |[ambank_berhad](payout-methodsambank_berhad/)|`ambank_berhad`| 
+|![bank_islam_malaysia](https://static.openfintech.io/payout_methods/bank_islam_malaysia/icon.svg?w=278&c=v0.59.26#w40) |[bank_islam_malaysia](payout-methodsbank_islam_malaysia/)|`bank_islam_malaysia`| 
+|![bank_rakyat_malaysia_berhad](https://static.openfintech.io/payout_methods/bank_rakyat_malaysia_berhad/icon.svg?w=278&c=v0.59.26#w40) |[bank_rakyat_malaysia_berhad](payout-methodsbank_rakyat_malaysia_berhad/)|`bank_rakyat_malaysia_berhad`| 
+|![bank_simpanan_nasional_berhad](https://static.openfintech.io/payout_methods/bank_simpanan_nasional_berhad/icon.svg?w=278&c=v0.59.26#w40) |[bank_simpanan_nasional_berhad](payout-methodsbank_simpanan_nasional_berhad/)|`bank_simpanan_nasional_berhad`| 
+|![cimb_bank](https://static.openfintech.io/payout_methods/cimb_bank/icon.png?w=278&c=v0.59.26#w40) |[cimb_bank](payout-methodscimb_bank/)|`cimb_bank`| 
+|![citi_bank](https://static.openfintech.io/payout_methods/citi_bank/icon.svg?w=278&c=v0.59.26#w40) |[citi_bank](payout-methodsciti_bank/)|`citi_bank`| 
+|![hong_leong_bank](https://static.openfintech.io/payout_methods/hong_leong_bank/icon.svg?w=278&c=v0.59.26#w40) |[hong_leong_bank](payout-methodshong_leong_bank/)|`hong_leong_bank`| 
+|![hsbc_bank_malaysia_berhad](https://static.openfintech.io/payout_methods/hsbc_bank_malaysia_berhad/icon.svg?w=278&c=v0.59.26#w40) |[hsbc_bank_malaysia_berhad](payout-methodshsbc_bank_malaysia_berhad/)|`hsbc_bank_malaysia_berhad`| 
+|![maybank_berhad](https://static.openfintech.io/payout_methods/maybank_berhad/icon.svg?w=278&c=v0.59.26#w40) |[maybank_berhad](payout-methodsmaybank_berhad/)|`maybank_berhad`| 
+|![ocbc_bank](https://static.openfintech.io/payout_methods/ocbc_bank/icon.svg?w=278&c=v0.59.26#w40) |[ocbc_bank](payout-methodsocbc_bank/)|`ocbc_bank`| 
+|![public_bank_vietnam](https://static.openfintech.io/payout_methods/public_bank_vietnam/icon.png?w=278&c=v0.59.26#w40) |[public_bank_vietnam](payout-methodspublic_bank_vietnam/)|`public_bank_vietnam`| 
+|![rhb_bank](https://static.openfintech.io/payout_methods/rhb_bank/icon.svg?w=278&c=v0.59.26#w40) |[rhb_bank](payout-methodsrhb_bank/)|`rhb_bank`| 
+|![united_overseas_bank_berhad](https://static.openfintech.io/payout_methods/united_overseas_bank_berhad/icon.svg?w=278&c=v0.59.26#w40) |[united_overseas_bank_berhad](payout-methodsunited_overseas_bank_berhad/)|`united_overseas_bank_berhad`| 
+|![asia_commercial_bank_qr](https://static.openfintech.io/payout_methods/asia_commercial_bank_qr/icon.svg?w=278&c=v0.59.26#w40) |[asia_commercial_bank_qr](payout-methodsasia_commercial_bank_qr/)|`asia_commercial_bank_qr`| 
+|![bidv_bank_qr](https://static.openfintech.io/payout_methods/bidv_bank_qr/icon.svg?w=278&c=v0.59.26#w40) |[bidv_bank_qr](payout-methodsbidv_bank_qr/)|`bidv_bank_qr`| 
+|![vietcom_bank_qr](https://static.openfintech.io/payout_methods/vietcom_bank_qr/icon.svg?w=278&c=v0.59.26#w40) |[vietcom_bank_qr](payout-methodsvietcom_bank_qr/)|`vietcom_bank_qr`| 
+|![vietin_bank_qr](https://static.openfintech.io/payout_methods/vietin_bank_qr/icon.svg?w=278&c=v0.59.26#w40) |[vietin_bank_qr](payout-methodsvietin_bank_qr/)|`vietin_bank_qr`| 
+|![momo_qr](https://static.openfintech.io/payout_methods/momo_qr/icon.svg?w=278&c=v0.59.26#w40) |[momo_qr](payout-methodsmomo_qr/)|`momo_qr`| 
+|![zalo_qr](https://static.openfintech.io/payout_methods/zalo_qr/icon.svg?w=278&c=v0.59.26#w40) |[zalo_qr](payout-methodszalo_qr/)|`zalo_qr`| 
+|![vietnam_prosperity_commerial_bank_qr](https://static.openfintech.io/payout_methods/vietnam_prosperity_commerial_bank_qr/icon.svg?w=278&c=v0.59.26#w40) |[vietnam_prosperity_commerial_bank_qr](payout-methodsvietnam_prosperity_commerial_bank_qr/)|`vietnam_prosperity_commerial_bank_qr`| 
+|![military_commercial_bank_qr](https://static.openfintech.io/payout_methods/military_commercial_bank_qr/icon.svg?w=278&c=v0.59.26#w40) |[military_commercial_bank_qr](payout-methodsmilitary_commercial_bank_qr/)|`military_commercial_bank_qr`| 
+|![techcom_bank_qr](https://static.openfintech.io/payout_methods/techcom_bank_qr/icon.svg?w=278&c=v0.59.26#w40) |[techcom_bank_qr](payout-methodstechcom_bank_qr/)|`techcom_bank_qr`| 
+|![artha_graha_bank](https://static.openfintech.io/payout_methods/artha_graha_bank/icon.svg?w=278&c=v0.59.26#w40) |[artha_graha_bank](payout-methodsartha_graha_bank/)|`artha_graha_bank`| 
+|![bukopin_bank](https://static.openfintech.io/payout_methods/bukopin_bank/icon.svg?w=278&c=v0.59.26#w40) |[bukopin_bank](payout-methodsbukopin_bank/)|`bukopin_bank`| 
+|![commonwealth_bank](https://static.openfintech.io/payout_methods/commonwealth_bank/icon.svg?w=278&c=v0.59.26#w40) |[commonwealth_bank](payout-methodscommonwealth_bank/)|`commonwealth_bank`| 
+|![danamon_bank](https://static.openfintech.io/payout_methods/danamon_bank/icon.png?w=278&c=v0.59.26#w40) |[danamon_bank](payout-methodsdanamon_bank/)|`danamon_bank`| 
+|![mega_bank](https://static.openfintech.io/payout_methods/mega_bank/icon.svg?w=278&c=v0.59.26#w40) |[mega_bank](payout-methodsmega_bank/)|`mega_bank`| 
+|![maspion_bank](https://static.openfintech.io/payout_methods/maspion_bank/icon.svg?w=278&c=v0.59.26#w40) |[maspion_bank](payout-methodsmaspion_bank/)|`maspion_bank`| 
+|![mestika_bank](https://static.openfintech.io/payout_methods/mestika_bank/icon.svg?w=278&c=v0.59.26#w40) |[mestika_bank](payout-methodsmestika_bank/)|`mestika_bank`| 
+|![panin_bank](https://static.openfintech.io/payout_methods/panin_bank/icon.svg?w=278&c=v0.59.26#w40) |[panin_bank](payout-methodspanin_bank/)|`panin_bank`| 
+|![sumut_bank](https://static.openfintech.io/payout_methods/sumut_bank/icon.svg?w=278&c=v0.59.26#w40) |[sumut_bank](payout-methodssumut_bank/)|`sumut_bank`| 
+|![sinar_mas_bank](https://static.openfintech.io/payout_methods/sinar_mas_bank/icon.svg?w=278&c=v0.59.26#w40) |[sinar_mas_bank](payout-methodssinar_mas_bank/)|`sinar_mas_bank`| 
+|![btpn_bank](https://static.openfintech.io/payout_methods/btpn_bank/icon.svg?w=278&c=v0.59.26#w40) |[btpn_bank](payout-methodsbtpn_bank/)|`btpn_bank`| 
+|![cimb_niaga](https://static.openfintech.io/payout_methods/cimb_niaga/icon.svg?w=278&c=v0.59.26#w40) |[cimb_niaga](payout-methodscimb_niaga/)|`cimb_niaga`| 
+|![hsbc_bank_indonesia](https://static.openfintech.io/payout_methods/hsbc_bank_indonesia/icon.svg?w=278&c=v0.59.26#w40) |[hsbc_bank_indonesia](payout-methodshsbc_bank_indonesia/)|`hsbc_bank_indonesia`| 
+|![ocbc_bank_indonesia](https://static.openfintech.io/payout_methods/ocbc_bank_indonesia/icon.svg?w=278&c=v0.59.26#w40) |[ocbc_bank_indonesia](payout-methodsocbc_bank_indonesia/)|`ocbc_bank_indonesia`| 
+|![permata_bank](https://static.openfintech.io/payout_methods/permata_bank/icon.svg?w=278&c=v0.59.26#w40) |[permata_bank](payout-methodspermata_bank/)|`permata_bank`| 
+|![united_overseas_bank_indonesia](https://static.openfintech.io/payout_methods/united_overseas_bank_indonesia/icon.svg?w=278&c=v0.59.26#w40) |[united_overseas_bank_indonesia](payout-methodsunited_overseas_bank_indonesia/)|`united_overseas_bank_indonesia`| 
+|![upi](https://static.openfintech.io/payout_methods/upi/icon.svg?w=278&c=v0.59.26#w40) |[upi](payout-methodsupi/)|`upi`| 
+|![upi_payout](https://static.openfintech.io/payout_methods/upi_payout/icon.svg?w=278&c=v0.59.26#w40) |[upi_payout](payout-methodsupi_payout/)|`upi_payout`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -268,7 +349,81 @@ The list of supported [Payment Methods](/payment-methods/)
     "mastercarddebit",
     "saraswat_cooperative_bank"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "hdfc_bank",
+    "icici_bank",
+    "indusind_bank",
+    "state_bank_of_india",
+    "kotak_mahindra_bank",
+    "idfc_bank_india",
+    "axis_bank",
+    "bandhan_bank",
+    "bank_of_baroda",
+    "federal_bank_india",
+    "idbi_bank",
+    "india_post_payment_bank",
+    "j_k_bank_india",
+    "karnataka_bank",
+    "lakshmi_vilas_bank_india",
+    "paytm_payments_bank",
+    "ujjivan_small_finance_bank",
+    "bank_transfer",
+    "techcom_bank",
+    "sacom_bank",
+    "vietcom_bank",
+    "asia_commercial_bank",
+    "dong_a_bank",
+    "vietin_bank",
+    "bidv_bank",
+    "exim_bank",
+    "agri_bank",
+    "bank_central_asia",
+    "bank_negara_indonesia",
+    "mandiri_bank",
+    "bank_rakyat_indonesia",
+    "affin_bank_berhad",
+    "alliance_bank",
+    "ambank_berhad",
+    "bank_islam_malaysia",
+    "bank_rakyat_malaysia_berhad",
+    "bank_simpanan_nasional_berhad",
+    "cimb_bank",
+    "citi_bank",
+    "hong_leong_bank",
+    "hsbc_bank_malaysia_berhad",
+    "maybank_berhad",
+    "ocbc_bank",
+    "public_bank_vietnam",
+    "rhb_bank",
+    "united_overseas_bank_berhad",
+    "asia_commercial_bank_qr",
+    "bidv_bank_qr",
+    "vietcom_bank_qr",
+    "vietin_bank_qr",
+    "momo_qr",
+    "zalo_qr",
+    "vietnam_prosperity_commerial_bank_qr",
+    "military_commercial_bank_qr",
+    "techcom_bank_qr",
+    "artha_graha_bank",
+    "bukopin_bank",
+    "commonwealth_bank",
+    "danamon_bank",
+    "mega_bank",
+    "maspion_bank",
+    "mestika_bank",
+    "panin_bank",
+    "sumut_bank",
+    "sinar_mas_bank",
+    "btpn_bank",
+    "cimb_niaga",
+    "hsbc_bank_indonesia",
+    "ocbc_bank_indonesia",
+    "permata_bank",
+    "united_overseas_bank_indonesia",
+    "upi",
+    "upi_payout"
+  ],
   "metadata":null,
   "name":{
     "en":"Exxogate",

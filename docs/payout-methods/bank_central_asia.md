@@ -35,6 +35,7 @@ The list of [Payout Services](/payout-services/) based on the _Bank Central Asia
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bank_central_asia](https://static.openfintech.io/payout_methods/bank_central_asia/icon.svg?w=278&c=v0.59.26#w40) |[bank_central_asia_idr](/payout-services/bank_central_asia_idr/)|`bank_central_asia_idr`| 
+|![bank_central_asia](https://static.openfintech.io/payout_methods/bank_central_asia/icon.svg?w=278&c=v0.59.26#w40) |[bank_central_asis_idr](/payout-services/bank_central_asis_idr/)|`bank_central_asis_idr`| 
  
 
 ## Payment Providers 

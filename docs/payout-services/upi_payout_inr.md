@@ -1,20 +1,20 @@
 
-# UPI (service) 
-![upi_inr](https://static.openfintech.io/payout_methods/upi_inr/logo.svg?w=400&c=v0.59.26#w24)  
+# UPI Payout (service) 
+![upi_payout_inr](https://static.openfintech.io/payout_methods/upi_payout_inr/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
  
-**Code:** `upi_inr` 
+**Code:** `upi_payout_inr` 
  
-**Method:** `upi` [show -->](/payout-methods/upi/) 
+**Method:** `upi_payout` [show -->](/payout-methods/upi_payout/) 
  
 **Currency:** `INR` [show -->](/currencies/INR/) 
  
 **Name:** 
  
-:	[EN] UPI 
-:	[RU] UPI 
-:	[UK] UPI 
+:	[EN] UPI Payout 
+:	[RU] UPI Payout 
+:	[UK] UPI Payout 
  
 **Amount limits:** from `0.01` to `100000` INR 
 
@@ -166,8 +166,8 @@
 
 ```json
 {
-  "code":"upi_inr",
-  "method":"upi",
+  "code":"upi_payout_inr",
+  "method":"upi_payout",
   "currency":"INR",
   "fields":[
     {
