@@ -781,6 +781,7 @@
 |![veritransinc](https://static.openfintech.io/payment_providers/veritransinc/logo.png?w=600&c=v0.59.26#w100) |[**VeriTrans Inc.**](veritransinc/)|`veritransinc`| 
 |![veritransindonesia](https://static.openfintech.io/payment_providers/veritransindonesia/logo.png?w=600&c=v0.59.26#w100) |[**Veritrans Indonesia**](veritransindonesia/)|`veritransindonesia`| 
 |![verotel](https://static.openfintech.io/payment_providers/verotel/logo.png?w=600&c=v0.59.26#w100) |[**Verotel**](verotel/)|`verotel`| 
+|![vevopay](https://static.openfintech.io/payment_providers/vevopay/logo.png?w=600&c=v0.59.26#w100) |[**VevoPay**](vevopay/)|`vevopay`| 
 |![vikingpay](https://static.openfintech.io/payment_providers/vikingpay/logo.png?w=600&c=v0.59.26#w100) |[**VikingPay**](vikingpay/)|`vikingpay`| 
 |![virtouspayments](https://static.openfintech.io/payment_providers/virtouspayments/logo.png?w=600&c=v0.59.26#w100) |[**Virtous Payments**](virtouspayments/)|`virtouspayments`| 
 |![virtpay](https://static.openfintech.io/payment_providers/virtpay/logo.png?w=600&c=v0.59.26#w100) |[**Virtpay**](virtpay/)|`virtpay`| 

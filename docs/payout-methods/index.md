@@ -222,6 +222,7 @@
 |![citi_bank](https://static.openfintech.io/payout_methods/citi_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Citibank**](citi_bank/)|`citi_bank`| 
 |![citydomain](https://static.openfintech.io/payout_methods/citydomain/logo.png?w=400&c=v0.59.26#w24) |[**CityDomain**](citydomain/)|`citydomain`| 
 |![cityhost](https://static.openfintech.io/payout_methods/cityhost/logo.png?w=400&c=v0.59.26#w24) |[**CityHost**](cityhost/)|`cityhost`| 
+|![cmt](https://static.openfintech.io/payout_methods/cmt/logo.svg?w=400&c=v0.59.26#w24) |[**CMT Wallet**](cmt/)|`cmt`| 
 |![cnl](https://static.openfintech.io/payout_methods/cnl/logo.png?w=400&c=v0.59.26#w24) |[**CNL**](cnl/)|`cnl`| 
 |![cnm-k1](https://static.openfintech.io/payout_methods/cnm-k1/logo.png?w=400&c=v0.59.26#w24) |[**CNM K1**](cnm-k1/)|`cnm-k1`| 
 |![cnm-k2](https://static.openfintech.io/payout_methods/cnm-k2/logo.png?w=400&c=v0.59.26#w24) |[**CNM K2**](cnm-k2/)|`cnm-k2`| 
@@ -384,6 +385,7 @@
 |![fragoriia](https://static.openfintech.io/payout_methods/fragoriia/logo.png?w=400&c=v0.59.26#w24) |[**Fragoria**](fragoriia/)|`fragoriia`| 
 |![fregat-internet](https://static.openfintech.io/payout_methods/fregat-internet/logo.png?w=400&c=v0.59.26#w24) |[**Frigate - Internet**](fregat-internet/)|`fregat-internet`| 
 |![fresh-taxi-kiev](https://static.openfintech.io/payout_methods/fresh-taxi-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Fresh Taxi (Kiev)**](fresh-taxi-kiev/)|`fresh-taxi-kiev`| 
+|![fups](https://static.openfintech.io/payout_methods/fups/logo.png?w=400&c=v0.59.26#w24) |[**FUPS**](fups/)|`fups`| 
 || **G** ||
 |![g-cherkassy-sluzhba-chistoty](https://static.openfintech.io/payout_methods/g-cherkassy-sluzhba-chistoty/logo.png?w=400&c=v0.59.26#w24) |[**G. Cherkassy - Service of Purity**](g-cherkassy-sluzhba-chistoty/)|`g-cherkassy-sluzhba-chistoty`| 
 |![g2a-gift-card-vaucher-1-200euro](https://static.openfintech.io/payout_methods/g2a-gift-card-vaucher-1-200euro/logo.png?w=400&c=v0.59.26#w24) |[**G2A Gift Card (Voucher 1-200EURO)**](g2a-gift-card-vaucher-1-200euro/)|`g2a-gift-card-vaucher-1-200euro`| 
@@ -777,6 +779,7 @@
 |![mb_bank](https://static.openfintech.io/payout_methods/mb_bank/logo.png?w=400&c=v0.59.26#w24) |[**MB Bank**](mb_bank/)|`mb_bank`| 
 |![mediamax-odessa](https://static.openfintech.io/payout_methods/mediamax-odessa/logo.png?w=400&c=v0.59.26#w24) |[**MediaMax (Odessa)**](mediamax-odessa/)|`mediamax-odessa`| 
 |![mediana-zaporozhe](https://static.openfintech.io/payout_methods/mediana-zaporozhe/logo.png?w=400&c=v0.59.26#w24) |[**MEDIANA (Zaporozhye)**](mediana-zaporozhe/)|`mediana-zaporozhe`| 
+|![mefete](https://static.openfintech.io/payout_methods/mefete/logo.png?w=400&c=v0.59.26#w24) |[**Mefete**](mefete/)|`mefete`| 
 |![mega_bank](https://static.openfintech.io/payout_methods/mega_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Mega International Commercial Bank**](mega_bank/)|`mega_bank`| 
 |![megafon](https://static.openfintech.io/payout_methods/megafon/logo.svg?w=400&c=v0.59.26#w24) |[**Megafon**](megafon/)|`megafon`| 
 |![megogo-legkaia](https://static.openfintech.io/payout_methods/megogo-legkaia/logo.png?w=400&c=v0.59.26#w24) |[**MEGOGO (light)**](megogo-legkaia/)|`megogo-legkaia`| 
@@ -937,6 +940,7 @@
 |![panin_bank](https://static.openfintech.io/payout_methods/panin_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Panin Bank**](panin_bank/)|`panin_bank`| 
 |![papara](https://static.openfintech.io/payout_methods/papara/logo.svg?w=400&c=v0.59.26#w24) |[**Papara**](papara/)|`papara`| 
 |![para-pa](https://static.openfintech.io/payout_methods/para-pa/logo.png?w=400&c=v0.59.26#w24) |[**ParaPa**](para-pa/)|`para-pa`| 
+|![parazula](https://static.openfintech.io/payout_methods/parazula/logo.png?w=400&c=v0.59.26#w24) |[**Parazula**](parazula/)|`parazula`| 
 |![parimatch-loto](https://static.openfintech.io/payout_methods/parimatch-loto/logo.svg?w=400&c=v0.59.26#w24) |[**Parimatch Loto**](parimatch-loto/)|`parimatch-loto`| 
 |![parimatch_account](https://static.openfintech.io/payout_methods/parimatch_account/logo.svg?w=400&c=v0.59.26#w24) |[**Parimatch Account**](parimatch_account/)|`parimatch_account`| 
 |![parus-it-lviv-ta-lvivska-obl](https://static.openfintech.io/payout_methods/parus-it-lviv-ta-lvivska-obl/logo.png?w=400&c=v0.59.26#w24) |[**PARUS IT (Lviv and Lviv region)**](parus-it-lviv-ta-lvivska-obl/)|`parus-it-lviv-ta-lvivska-obl`| 
@@ -1271,6 +1275,7 @@
 |![pavlogradski-rem-tsok-pavlogradskogo-r-nu](https://static.openfintech.io/payout_methods/pavlogradski-rem-tsok-pavlogradskogo-r-nu/logo.png?w=400&c=v0.59.26#w24) |[**Pavlograd RES (CSC Pavlograd district)**](pavlogradski-rem-tsok-pavlogradskogo-r-nu/)|`pavlogradski-rem-tsok-pavlogradskogo-r-nu`| 
 |![paybox](https://static.openfintech.io/payout_methods/paybox/logo.svg?w=400&c=v0.59.26#w24) |[**Paybox**](paybox/)|`paybox`| 
 |![payeer](https://static.openfintech.io/payout_methods/payeer/logo.svg?w=400&c=v0.59.26#w24) |[**Payeer**](payeer/)|`payeer`| 
+|![payfix](https://static.openfintech.io/payout_methods/payfix/logo.png?w=400&c=v0.59.26#w24) |[**PayFix**](payfix/)|`payfix`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](payment_card/)|`payment_card`| 
 |![paypal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](paypal/)|`paypal`| 
 |![paypal_email](https://static.openfintech.io/payout_methods/paypal_email/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal by Email**](paypal_email/)|`paypal_email`| 
@@ -1283,6 +1288,7 @@
 |![pechenizhskii-rem-ak-kharkivoblenergo](https://static.openfintech.io/payout_methods/pechenizhskii-rem-ak-kharkivoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Pechenezhsky RES AK 'Kharkivoblenergo'**](pechenizhskii-rem-ak-kharkivoblenergo/)|`pechenizhskii-rem-ak-kharkivoblenergo`| 
 |![pechenizhskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018](https://static.openfintech.io/payout_methods/pechenizhskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Печеніжський РЕМ АК "Харківобленерго" (за послуги до 31.12.2018)**](pechenizhskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|`pechenizhskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018`| 
 |![peoplenet](https://static.openfintech.io/payout_methods/peoplenet/logo.png?w=400&c=v0.59.26#w24) |[**PeopleNet**](peoplenet/)|`peoplenet`| 
+|![pep](https://static.openfintech.io/payout_methods/pep/logo.png?w=400&c=v0.59.26#w24) |[**Pep**](pep/)|`pep`| 
 |![perechinskii-rem-zakarpattia-oe](https://static.openfintech.io/payout_methods/perechinskii-rem-zakarpattia-oe/logo.png?w=400&c=v0.59.26#w24) |[**Perechyn RES Transcarpathia OE**](perechinskii-rem-zakarpattia-oe/)|`perechinskii-rem-zakarpattia-oe`| 
 |![peredovaia](https://static.openfintech.io/payout_methods/peredovaia/logo.png?w=400&c=v0.59.26#w24) |[**Frontline**](peredovaia/)|`peredovaia`| 
 |![perfect-world](https://static.openfintech.io/payout_methods/perfect-world/logo.png?w=400&c=v0.59.26#w24) |[**Perfect World**](perfect-world/)|`perfect-world`| 

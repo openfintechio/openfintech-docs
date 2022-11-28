@@ -59,6 +59,7 @@ The list of [Payout Services](/payout-services/) based on the _Bank Transfer_
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_mxn](/payout-services/bank_transfer_mxn/)|`bank_transfer_mxn`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_cop](/payout-services/bank_transfer_cop/)|`bank_transfer_cop`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_pen](/payout-services/bank_transfer_pen/)|`bank_transfer_pen`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_try](/payout-services/bank_transfer_try/)|`bank_transfer_try`| 
  
 
 ## Payment Providers 

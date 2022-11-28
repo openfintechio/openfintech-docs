@@ -1,20 +1,18 @@
 
-# Papara (service) 
-![papara_try](https://static.openfintech.io/payout_methods/papara_try/logo.svg?w=400&c=v0.59.26#w24)  
+# CMT Wallet (service) 
+![cmt_try](https://static.openfintech.io/payout_methods/cmt_try/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
  
-**Code:** `papara_try` 
+**Code:** `cmt_try` 
  
-**Method:** `papara` [show -->](/payout-methods/papara/) 
+**Method:** `cmt` [show -->](/payout-methods/cmt/) 
  
 **Currency:** `TRY` [show -->](/currencies/TRY/) 
  
 **Name:** 
  
-:	[EN] Papara 
-:	[RU] Papara 
-:	[UK] Papara 
+:	[EN] CMT Wallet 
  
 **Amount limits:** from `0.01` to `1800000` TRY 
 
@@ -25,7 +23,7 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`account_number`|✔|`string`|`/^.{1,100}$/`| 
-|`beneficiary_full_name`|✗|`string`|`/^[\s\p{L}]{2,100}$/`| 
+|`beneficiary_full_name`|✔|`string`|`/^[\s\p{L}]{2,100}$/`| 
  
 
 ### Details 
@@ -54,7 +52,7 @@
  
 	Regexp: `/^[\s\p{L}]{2,100}$/` 
  
-	Required: `` 
+	Required: `1` 
  
 	Label:  
 	: [EN] Recipient full name 
@@ -71,8 +69,8 @@
 
 ```json
 {
-  "code":"papara_try",
-  "method":"papara",
+  "code":"cmt_try",
+  "method":"cmt",
   "currency":"TRY",
   "fields":[
     {
@@ -107,7 +105,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u043e\u0434\u0435\u0440\u0436\u0443\u0432\u0430\u0447\u0430"
       },
       "regexp":"\/^[\\s\\p{L}]{2,100}$\/",
-      "required":false,
+      "required":true,
       "position":2
     }
   ],
