@@ -23,7 +23,7 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`account_number`|✔|`string`|`/^.{1,100}$/`| 
-|`beneficiary_full_name`|✔|`string`|`/^[\s\p{L}]{2,100}$/`| 
+|`beneficiary_full_name`|✔|`string`|`/^[\s\p{L}]{2,100}$/u`| 
  
 
 ### Details 
@@ -50,7 +50,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[\s\p{L}]{2,100}$/` 
+	Regexp: `/^[\s\p{L}]{2,100}$/u` 
  
 	Required: `1` 
  
@@ -104,7 +104,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u043e\u0434\u0435\u0440\u0436\u0443\u0432\u0430\u0447\u0430"
       },
-      "regexp":"\/^[\\s\\p{L}]{2,100}$\/",
+      "regexp":"\/^[\\s\\p{L}]{2,100}$\/u",
       "required":true,
       "position":2
     }
