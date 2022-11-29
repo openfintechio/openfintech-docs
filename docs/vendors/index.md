@@ -244,7 +244,7 @@
 |![billingtree](https://static.openfintech.io/vendors/billingtree/logo.png?w=600&c=v0.59.26#w200) |[**BillingTree**](billingtree/)|`billingtree`| 
 |![billingunited](https://static.openfintech.io/vendors/billingunited/logo.png?w=600&c=v0.59.26#w200) |[**Billing-United**](billingunited/)|`billingunited`| 
 |![billink](https://static.openfintech.io/vendors/billink/logo.png?w=600&c=v0.59.26#w200) |[**Billink**](billink/)|`billink`| 
-|![billline](https://static.openfintech.io/vendors/billline/logo.svg?w=600&c=v0.59.26#w200) |[**BillLine**](billline/)|`billline`| 
+|![billline](https://static.openfintech.io/vendors/billline/logo.svg?w=600&c=v0.59.26#w200) |[**bill_line**](billline/)|`billline`| 
 |![billmelater](https://static.openfintech.io/vendors/billmelater/logo.png?w=600&c=v0.59.26#w200) |[**PayPal Credit**](billmelater/)|`billmelater`| 
 |![billpay](https://static.openfintech.io/vendors/billpay/logo.png?w=600&c=v0.59.26#w200) |[**BIllpay**](billpay/)|`billpay`| 
 |![billpro](https://static.openfintech.io/vendors/billpro/logo.png?w=600&c=v0.59.26#w200) |[**BILLPRO.com**](billpro/)|`billpro`| 
@@ -899,6 +899,7 @@
 |![litepay](https://static.openfintech.io/vendors/litepay/logo.svg?w=600&c=v0.59.26#w200) |[**LitePay**](litepay/)|`litepay`| 
 |![livecoin_net](https://static.openfintech.io/vendors/livecoin_net/logo.svg?w=600&c=v0.59.26#w200) |[**livecoin.net**](livecoin_net/)|`livecoin_net`| 
 |![livecoinnet](https://static.openfintech.io/vendors/livecoinnet/logo.svg?w=600&c=v0.59.26#w200) |[**livecoin.net**](livecoinnet/)|`livecoinnet`| 
+|![localpayments](https://static.openfintech.io/vendors/localpayments/logo.svg?w=600&c=v0.59.26#w200) |[**Localpayments**](localpayments/)|`localpayments`| 
 |![lodatrajffajzen_bank_avalm_lviv](https://static.openfintech.io/vendors/lodatrajffajzen_bank_avalm_lviv/logo.svg?w=600&c=v0.59.26#w200) |[**Львівська обласна дирекція Публічного акціонерного товариства 'Райффайзен Банк Аваль'**](lodatrajffajzen_bank_avalm_lviv/)|`lodatrajffajzen_bank_avalm_lviv`| 
 |![lokobank](https://static.openfintech.io/vendors/lokobank/logo.svg?w=600&c=v0.59.26#w200) |[**Локо банк**](lokobank/)|`lokobank`| 
 |![lpb](https://static.openfintech.io/vendors/lpb/logo.svg?w=600&c=v0.59.26#w200) |[**LPB**](lpb/)|`lpb`| 
@@ -1256,7 +1257,7 @@
 |![paygate](https://static.openfintech.io/vendors/paygate/logo.png?w=600&c=v0.59.26#w200) |[**PayGate**](paygate/)|`paygate`| 
 |![paygatecoltd](https://static.openfintech.io/vendors/paygatecoltd/logo.png?w=600&c=v0.59.26#w200) |[**PayGate Co. Ltd.**](paygatecoltd/)|`paygatecoltd`| 
 |![paygol](https://static.openfintech.io/vendors/paygol/logo.png?w=600&c=v0.59.26#w200) |[**PayGol**](paygol/)|`paygol`| 
-|![payhub](https://static.openfintech.io/vendors/payhub/logo.png?w=600&c=v0.59.26#w200) |[**PayHub**](payhub/)|`payhub`| 
+|![payhub](https://static.openfintech.io/vendors/payhub/logo.svg?w=600&c=v0.59.26#w200) |[**PayHub**](payhub/)|`payhub`| 
 |![payiban](https://static.openfintech.io/vendors/payiban/logo.png?w=600&c=v0.59.26#w200) |[**PayIBAN**](payiban/)|`payiban`| 
 |![payjunction](https://static.openfintech.io/vendors/payjunction/logo.png?w=600&c=v0.59.26#w200) |[**PayJunction**](payjunction/)|`payjunction`| 
 |![paylane](https://static.openfintech.io/vendors/paylane/logo.png?w=600&c=v0.59.26#w200) |[**PayLane**](paylane/)|`paylane`| 

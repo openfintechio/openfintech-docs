@@ -150,6 +150,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
 |![cngpro](https://static.openfintech.io/payment_providers/cngpro/icon.png?w=278&c=v0.59.26#w100) |[CNG Pro](/payment-providers/cngpro/)|`cngpro`| 
 |![paygol](https://static.openfintech.io/payment_providers/paygol/icon.png?w=278&c=v0.59.26#w100) |[PayGol](/payment-providers/paygol/)|`paygol`| 
+|![payhub](https://static.openfintech.io/payment_providers/payhub/icon.svg?w=278&c=v0.59.26#w100) |[PayHub](/payment-providers/payhub/)|`payhub`| 
 |![commercegate](https://static.openfintech.io/payment_providers/commercegate/icon.svg?w=278&c=v0.59.26#w100) |[CommerceGate](/payment-providers/commercegate/)|`commercegate`| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
@@ -232,7 +233,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![hashconnect](https://static.openfintech.io/payment_providers/hashconnect/icon.png?w=278&c=v0.59.26#w100) |[Hashconnect](/payment-providers/hashconnect/)|`hashconnect`| 
 |![platio](https://static.openfintech.io/payment_providers/platio/icon.svg?w=278&c=v0.59.26#w100) |[Platio](/payment-providers/platio/)|`platio`| 
 |![piastrix](https://static.openfintech.io/payment_providers/piastrix/icon.svg?w=278&c=v0.59.26#w100) |[Piastrix](/payment-providers/piastrix/)|`piastrix`| 
-|![billline](https://static.openfintech.io/payment_providers/billline/icon.svg?w=278&c=v0.59.26#w100) |[BillLine](/payment-providers/billline/)|`billline`| 
+|![billline](https://static.openfintech.io/payment_providers/billline/icon.svg?w=278&c=v0.59.26#w100) |[bill_line](/payment-providers/billline/)|`billline`| 
 |![easybits](https://static.openfintech.io/payment_providers/easybits/icon.svg?w=278&c=v0.59.26#w100) |[EasyBits.io](/payment-providers/easybits/)|`easybits`| 
 |![paylink](https://static.openfintech.io/payment_providers/paylink/icon.png?w=278&c=v0.59.26#w100) |[PayLink](/payment-providers/paylink/)|`paylink`| 
 |![cardgate](https://static.openfintech.io/payment_providers/cardgate/icon.svg?w=278&c=v0.59.26#w100) |[CardGate](/payment-providers/cardgate/)|`cardgate`| 
@@ -390,6 +391,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![maxpayment](https://static.openfintech.io/payment_providers/maxpayment/icon.svg?w=278&c=v0.59.26#w100) |[Maxpayment](/payment-providers/maxpayment/)|`maxpayment`| 
 |![forestpayment](https://static.openfintech.io/payment_providers/forestpayment/icon.png?w=278&c=v0.59.26#w100) |[ForestPayment](/payment-providers/forestpayment/)|`forestpayment`| 
 |![impaya](https://static.openfintech.io/payment_providers/impaya/icon.png?w=278&c=v0.59.26#w100) |[Impaya](/payment-providers/impaya/)|`impaya`| 
+|![localpayments](https://static.openfintech.io/payment_providers/localpayments/icon.svg?w=278&c=v0.59.26#w100) |[Localpayments](/payment-providers/localpayments/)|`localpayments`| 
  
 
 ## JSON Object 

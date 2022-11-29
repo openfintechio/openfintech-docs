@@ -40,8 +40,8 @@
 |`beneficiary_postcode`|✗|`string`|`/^.{1,255}$/`| 
 |`beneficiary_phone`|✗|`string`|`/^\+\d{1,15}$/`| 
 |`beneficiary_dob`|✗|`string`|`/^([0-2][0-9]\|(3)[0-1])(\/)(((0)[0-9])\|((1)[0-2]))(\/)\d{4}$/`| 
-|`sender_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
-|`beneficiary_state`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
+|`sender_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\s\p{L}]{2,100}$/u`| 
+|`beneficiary_state`|✗|`string`|`/^[A-Za-zА-Яа-я\-\s\p{L}]{2,64}$/u`| 
  
 
 ### Details 
@@ -338,7 +338,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/` 
+	Regexp: `/^[A-Za-zА-Яа-я\-\s\p{L}]{2,100}$/u` 
  
 	Required: `` 
  
@@ -356,7 +356,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/` 
+	Regexp: `/^[A-Za-zА-Яа-я\-\s\p{L}]{2,64}$/u` 
  
 	Required: `` 
  
@@ -662,7 +662,7 @@
     {
       "key":"sender_full_name",
       "type":"string",
-      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\d\\s]{2,100}$\/",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\s\\p{L}]{2,100}$\/u",
       "required":false,
       "position":16,
       "label":{
@@ -679,7 +679,7 @@
     {
       "key":"beneficiary_state",
       "type":"string",
-      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f,\\s\\-\\d]{2,64}$\/",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\s\\p{L}]{2,64}$\/u",
       "required":false,
       "position":17,
       "label":{

@@ -1,5 +1,5 @@
 
-# BillLine 
+# bill_line 
 ![billline](https://static.openfintech.io/vendors/billline/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] BillLine 
-:	[RU] BillLine 
-:	[UK] BillLine 
+:	[EN] bill_line 
+:	[RU] bill_line 
+:	[UK] bill_line 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/billline/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"billline",
   "name":{
-    "en":"BillLine",
-    "ru":"BillLine",
-    "uk":"BillLine"
+    "en":"bill_line",
+    "ru":"bill_line",
+    "uk":"bill_line"
   },
   "status":"active",
   "description":null,

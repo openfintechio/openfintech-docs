@@ -90,7 +90,7 @@
 |![billingpartner](https://static.openfintech.io/payment_providers/billingpartner/logo.png?w=600&c=v0.59.26#w100) |[**BillingPartner**](billingpartner/)|`billingpartner`| 
 |![billingtree](https://static.openfintech.io/payment_providers/billingtree/logo.png?w=600&c=v0.59.26#w100) |[**BillingTree**](billingtree/)|`billingtree`| 
 |![billingunited](https://static.openfintech.io/payment_providers/billingunited/logo.svg?w=600&c=v0.59.26#w100) |[**Billing-United**](billingunited/)|`billingunited`| 
-|![billline](https://static.openfintech.io/payment_providers/billline/logo.svg?w=600&c=v0.59.26#w100) |[**BillLine**](billline/)|`billline`| 
+|![billline](https://static.openfintech.io/payment_providers/billline/logo.svg?w=600&c=v0.59.26#w100) |[**bill_line**](billline/)|`billline`| 
 |![billpro](https://static.openfintech.io/payment_providers/billpro/logo.png?w=600&c=v0.59.26#w100) |[**BILLPRO.com**](billpro/)|`billpro`| 
 |![billtomobile](https://static.openfintech.io/payment_providers/billtomobile/logo.svg?w=600&c=v0.59.26#w100) |[**BilltoMobile**](billtomobile/)|`billtomobile`| 
 |![bips](https://static.openfintech.io/payment_providers/bips/logo.svg?w=600&c=v0.59.26#w100) |[**BIPS**](bips/)|`bips`| 
@@ -405,6 +405,7 @@
 |![linkpay](https://static.openfintech.io/payment_providers/linkpay/logo.png?w=600&c=v0.59.26#w100) |[**Linkpay**](linkpay/)|`linkpay`| 
 |![liqpay](https://static.openfintech.io/payment_providers/liqpay/logo.svg?w=600&c=v0.59.26#w100) |[**LiqPay**](liqpay/)|`liqpay`| 
 |![litepay](https://static.openfintech.io/payment_providers/litepay/logo.svg?w=600&c=v0.59.26#w100) |[**LitePay**](litepay/)|`litepay`| 
+|![localpayments](https://static.openfintech.io/payment_providers/localpayments/logo.svg?w=600&c=v0.59.26#w100) |[**Localpayments**](localpayments/)|`localpayments`| 
 |![lpb](https://static.openfintech.io/payment_providers/lpb/logo.svg?w=600&c=v0.59.26#w100) |[**LPB**](lpb/)|`lpb`| 
 || **M** ||
 |![magnius](https://static.openfintech.io/payment_providers/magnius/logo.png?w=600&c=v0.59.26#w100) |[**Magnius**](magnius/)|`magnius`| 
@@ -521,7 +522,7 @@
 |![paygate](https://static.openfintech.io/payment_providers/paygate/logo.png?w=600&c=v0.59.26#w100) |[**PayGate**](paygate/)|`paygate`| 
 |![paygatecoltd](https://static.openfintech.io/payment_providers/paygatecoltd/logo.png?w=600&c=v0.59.26#w100) |[**PayGate Co. Ltd.**](paygatecoltd/)|`paygatecoltd`| 
 |![paygol](https://static.openfintech.io/payment_providers/paygol/logo.png?w=600&c=v0.59.26#w100) |[**PayGol**](paygol/)|`paygol`| 
-|![payhub](https://static.openfintech.io/payment_providers/payhub/logo.png?w=600&c=v0.59.26#w100) |[**PayHub**](payhub/)|`payhub`| 
+|![payhub](https://static.openfintech.io/payment_providers/payhub/logo.svg?w=600&c=v0.59.26#w100) |[**PayHub**](payhub/)|`payhub`| 
 |![payiban](https://static.openfintech.io/payment_providers/payiban/logo.png?w=600&c=v0.59.26#w100) |[**PayIBAN**](payiban/)|`payiban`| 
 |![payjunction](https://static.openfintech.io/payment_providers/payjunction/logo.png?w=600&c=v0.59.26#w100) |[**PayJunction**](payjunction/)|`payjunction`| 
 |![paylane](https://static.openfintech.io/payment_providers/paylane/logo.png?w=600&c=v0.59.26#w100) |[**PayLane**](paylane/)|`paylane`| 
