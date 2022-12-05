@@ -95,6 +95,7 @@ The list of [Payment Services](/payment-services/) based on the _Payment card_
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_ils_hpp](/payment-services/payment_card_ils_hpp/)|`payment_card_ils_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_qar_hpp](/payment-services/payment_card_qar_hpp/)|`payment_card_qar_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_krw_hpp](/payment-services/payment_card_krw_hpp/)|`payment_card_krw_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_kwd_hpp](/payment-services/payment_card_kwd_hpp/)|`payment_card_kwd_hpp`| 
  
 
 ## Payment Providers 
@@ -331,6 +332,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![bp](https://static.openfintech.io/payment_providers/bp/icon.svg?w=278&c=v0.59.26#w100) |[BP](/payment-providers/bp/)|`bp`| 
 |![paycos](https://static.openfintech.io/payment_providers/paycos/icon.svg?w=278&c=v0.59.26#w100) |[PAYCOS](/payment-providers/paycos/)|`paycos`| 
 |![budpay](https://static.openfintech.io/payment_providers/budpay/icon.png?w=278&c=v0.59.26#w100) |[Budpay](/payment-providers/budpay/)|`budpay`| 
+|![wbpayment](https://static.openfintech.io/payment_providers/wbpayment/icon.svg?w=278&c=v0.59.26#w100) |[WB Payment](/payment-providers/wbpayment/)|`wbpayment`| 
 |![paycash](https://static.openfintech.io/payment_providers/paycash/icon.png?w=278&c=v0.59.26#w100) |[PayCash](/payment-providers/paycash/)|`paycash`| 
 |![payler](https://static.openfintech.io/payment_providers/payler/icon.svg?w=278&c=v0.59.26#w100) |[Payler](/payment-providers/payler/)|`payler`| 
 |![paystudio](https://static.openfintech.io/payment_providers/paystudio/icon.png?w=278&c=v0.59.26#w100) |[PayStudio](/payment-providers/paystudio/)|`paystudio`| 
@@ -382,6 +384,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![forestpayment](https://static.openfintech.io/payment_providers/forestpayment/icon.png?w=278&c=v0.59.26#w100) |[ForestPayment](/payment-providers/forestpayment/)|`forestpayment`| 
 |![impaya](https://static.openfintech.io/payment_providers/impaya/icon.png?w=278&c=v0.59.26#w100) |[Impaya](/payment-providers/impaya/)|`impaya`| 
 |![localpayments](https://static.openfintech.io/payment_providers/localpayments/icon.svg?w=278&c=v0.59.26#w100) |[Localpayments](/payment-providers/localpayments/)|`localpayments`| 
+|![whitepay](https://static.openfintech.io/payment_providers/whitepay/icon.svg?w=278&c=v0.59.26#w100) |[Whitepay](/payment-providers/whitepay/)|`whitepay`| 
  
 
 ## JSON Object 

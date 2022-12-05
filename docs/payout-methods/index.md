@@ -1288,7 +1288,7 @@
 |![pechenizhskii-rem-ak-kharkivoblenergo](https://static.openfintech.io/payout_methods/pechenizhskii-rem-ak-kharkivoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Pechenezhsky RES AK 'Kharkivoblenergo'**](pechenizhskii-rem-ak-kharkivoblenergo/)|`pechenizhskii-rem-ak-kharkivoblenergo`| 
 |![pechenizhskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018](https://static.openfintech.io/payout_methods/pechenizhskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Печеніжський РЕМ АК "Харківобленерго" (за послуги до 31.12.2018)**](pechenizhskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|`pechenizhskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018`| 
 |![peoplenet](https://static.openfintech.io/payout_methods/peoplenet/logo.png?w=400&c=v0.59.26#w24) |[**PeopleNet**](peoplenet/)|`peoplenet`| 
-|![pep](https://static.openfintech.io/payout_methods/pep/logo.png?w=400&c=v0.59.26#w24) |[**Pep**](pep/)|`pep`| 
+|![pep](https://static.openfintech.io/payout_methods/pep/logo.png?w=400&c=v0.59.26#w24) |[**PeP**](pep/)|`pep`| 
 |![perechinskii-rem-zakarpattia-oe](https://static.openfintech.io/payout_methods/perechinskii-rem-zakarpattia-oe/logo.png?w=400&c=v0.59.26#w24) |[**Perechyn RES Transcarpathia OE**](perechinskii-rem-zakarpattia-oe/)|`perechinskii-rem-zakarpattia-oe`| 
 |![peredovaia](https://static.openfintech.io/payout_methods/peredovaia/logo.png?w=400&c=v0.59.26#w24) |[**Frontline**](peredovaia/)|`peredovaia`| 
 |![perfect-world](https://static.openfintech.io/payout_methods/perfect-world/logo.png?w=400&c=v0.59.26#w24) |[**Perfect World**](perfect-world/)|`perfect-world`| 

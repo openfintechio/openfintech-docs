@@ -29,7 +29,7 @@
 |`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/`| 
 |`beneficiary_name`|✗|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
 |`beneficiary_lastname`|✗|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
-|`bank_code`|✗|`string`|`/^[-\d\s\p{L}]{2,12}$/`| 
+|`bank_code`|✗|`string`|`/^[-\d\s\p{L}]{2,12}$/u`| 
 |`bank_agency_number`|✗|`string`|`/^[A-z0-9]{2,5}$/`| 
 |`account_number`|✗|`string`|`/^(^[0-9]{4,100}$)\|(^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$)\|(^[a-z0-9-]{36}$)\|(^\+55\d{10,12}$)$/`| 
 |`pix_key`|✗|`string`|`/^.{4,255}$/`| 
@@ -137,7 +137,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[-\d\s\p{L}]{2,12}$/` 
+	Regexp: `/^[-\d\s\p{L}]{2,12}$/u` 
  
 	Required: `` 
  
@@ -412,7 +412,7 @@
     {
       "key":"bank_code",
       "type":"string",
-      "regexp":"\/^[-\\d\\s\\p{L}]{2,12}$\/",
+      "regexp":"\/^[-\\d\\s\\p{L}]{2,12}$\/u",
       "required":false,
       "position":6,
       "label":{

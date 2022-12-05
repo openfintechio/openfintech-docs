@@ -1,13 +1,15 @@
 
-# Pep 
-![pep](https://static.openfintech.io/payment_methods/pep/logo.svg?w=400&c=v0.59.26#w200)  
+# PeP 
+![pep](https://static.openfintech.io/payment_methods/pep/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `pep` 
  
 **Name:** 
  
-:	[EN] Pep 
+:	[EN] PeP 
+:	[RU] PeP 
+:	[UK] PeP 
  
 **Category:** `digital_wallet` 
  
@@ -15,22 +17,22 @@
 ## Images 
 
 ### Logo 
-![pep](https://static.openfintech.io/payment_methods/pep/logo.svg?w=400&c=v0.59.26#w200)  
+![pep](https://static.openfintech.io/payment_methods/pep/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/pep/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/pep/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![pep](https://static.openfintech.io/payment_methods/pep/icon.svg?w=278&c=v0.59.26#w100)  
+![pep](https://static.openfintech.io/payment_methods/pep/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/pep/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/pep/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payout Services 
  
-The list of [Payout Services](/payout-services/) based on the _Pep_ 
+The list of [Payout Services](/payout-services/) based on the _PeP_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -44,7 +46,9 @@ The list of [Payout Services](/payout-services/) based on the _Pep_
   "code":"pep",
   "vendor":null,
   "name":{
-    "en":"Pep"
+    "en":"PeP",
+    "ru":"PeP",
+    "uk":"PeP"
   },
   "description":null,
   "countries":null,

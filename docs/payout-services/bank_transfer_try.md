@@ -26,6 +26,7 @@
 |:---:|:---:|:---:|:---:| 
 |`account_number`|✔|`string`|`/^.{1,100}$/`| 
 |`beneficiary_full_name`|✔|`string`|`/^[\s\p{L}]{2,100}$/u`| 
+|`account_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
  
 
 ### Details 
@@ -65,6 +66,24 @@
 	: [EN] Enter Beneficiary full name 
 	: [RU] Введите полное имя получателя 
 	: [UK] Введіть повне імʼя одержувача 
+ 
+3. **`account_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Account name 
+	: [RU] Название счета 
+	: [UK] Назва рахунку 
+ 
+	Hint:  
+	: [EN] Enter account name 
+	: [RU] Введите название счета 
+	: [UK] Введіть назву рахунку 
  
 
 ## JSON Object 
@@ -109,6 +128,24 @@
       "regexp":"\/^[\\s\\p{L}]{2,100}$\/u",
       "required":true,
       "position":2
+    },
+    {
+      "key":"account_name",
+      "type":"string",
+      "label":{
+        "en":"Account name",
+        "ru":"\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u041d\u0430\u0437\u0432\u0430 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter account name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u0430\u0437\u0432\u0443 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "example":"example",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\d\\s]{2,100}$\/",
+      "required":false,
+      "position":3
     }
   ],
   "amount_min":0.01,

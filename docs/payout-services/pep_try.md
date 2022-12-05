@@ -1,5 +1,5 @@
 
-# Pep (service) 
+# PeP (service) 
 ![pep_try](https://static.openfintech.io/payout_methods/pep_try/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,7 +12,9 @@
  
 **Name:** 
  
-:	[EN] Pep 
+:	[EN] PeP 
+:	[RU] PeP 
+:	[UK] PeP 
  
 **Amount limits:** from `0.01` to `1800000` TRY 
 

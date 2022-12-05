@@ -808,6 +808,7 @@
 |![wedeal](https://static.openfintech.io/payment_providers/wedeal/logo.png?w=600&c=v0.59.26#w100) |[**weDeal**](wedeal/)|`wedeal`| 
 |![wepay](https://static.openfintech.io/payment_providers/wepay/logo.svg?w=600&c=v0.59.26#w100) |[**WePay**](wepay/)|`wepay`| 
 |![whitebit](https://static.openfintech.io/payment_providers/whitebit/logo.svg?w=600&c=v0.59.26#w100) |[**WhiteBIT**](whitebit/)|`whitebit`| 
+|![whitepay](https://static.openfintech.io/payment_providers/whitepay/logo.svg?w=600&c=v0.59.26#w100) |[**Whitepay**](whitepay/)|`whitepay`| 
 |![winpay](https://static.openfintech.io/payment_providers/winpay/logo.png?w=600&c=v0.59.26#w100) |[**Global Financial Innovations**](winpay/)|`winpay`| 
 |![wire2pay](https://static.openfintech.io/payment_providers/wire2pay/logo.svg?w=600&c=v0.59.26#w100) |[**Wire2Pay**](wire2pay/)|`wire2pay`| 
 |![wirecapital](https://static.openfintech.io/payment_providers/wirecapital/logo.svg?w=600&c=v0.59.26#w100) |[**Wirecapital**](wirecapital/)|`wirecapital`| 

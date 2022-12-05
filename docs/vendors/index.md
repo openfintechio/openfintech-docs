@@ -1808,6 +1808,7 @@
 |![wex_nz](https://static.openfintech.io/vendors/wex_nz/logo.svg?w=600&c=v0.59.26#w200) |[**wex.nz**](wex_nz/)|`wex_nz`| 
 |![wexnz](https://static.openfintech.io/vendors/wexnz/logo.svg?w=600&c=v0.59.26#w200) |[**wex.nz**](wexnz/)|`wexnz`| 
 |![whitebit](https://static.openfintech.io/vendors/whitebit/logo.svg?w=600&c=v0.59.26#w200) |[**WhiteBIT**](whitebit/)|`whitebit`| 
+|![whitepay](https://static.openfintech.io/vendors/whitepay/logo.svg?w=600&c=v0.59.26#w200) |[**Whitepay**](whitepay/)|`whitepay`| 
 |![winpay](https://static.openfintech.io/vendors/winpay/logo.svg?w=600&c=v0.59.26#w200) |[**Global Financial Innovations**](winpay/)|`winpay`| 
 |![wire2pay](https://static.openfintech.io/vendors/wire2pay/logo.svg?w=600&c=v0.59.26#w200) |[**Wire2Pay**](wire2pay/)|`wire2pay`| 
 |![wire_perevod](https://static.openfintech.io/vendors/wire_perevod/logo.svg?w=600&c=v0.59.26#w200) |[**Wire-перевод**](wire_perevod/)|`wire_perevod`| 
