@@ -30,13 +30,13 @@ https://static.openfintech.io/payment_methods/sepa_transfer/logo.svg?w=400&c=v0.
 https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _Sepa Transfer_ 
+The list of [Payment Services](/payment-services/) based on the _Sepa Transfer_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![sepa_transfer](https://static.openfintech.io/payout_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w40) |[sepa_transfer_eur](/payout-services/sepa_transfer_eur/)|`sepa_transfer_eur`| 
+|![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_eur_hpp](/payment-services/sepa_transfer_eur_hpp/)|`sepa_transfer_eur_hpp`| 
  
 
 ## Payment Providers 

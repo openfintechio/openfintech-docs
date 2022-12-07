@@ -502,6 +502,7 @@
 |![sea_bank](https://static.openfintech.io/payment_methods/sea_bank/logo.png?w=400&c=v0.59.26#w200) |[**Southeast Asia Commercial Joint Stock Bank**](sea_bank/)|`sea_bank`| 
 |![sebbank](https://static.openfintech.io/payment_methods/sebbank/logo.png?w=400&c=v0.59.26#w200) |[**SEB Bank**](sebbank/)|`sebbank`| 
 |![sencillito](https://static.openfintech.io/payment_methods/sencillito/logo.svg?w=400&c=v0.59.26#w200) |[**Sencillito**](sencillito/)|`sencillito`| 
+|![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Sepa Transfer**](sepa_transfer/)|`sepa_transfer`| 
 |![sepacredittransfer](https://static.openfintech.io/payment_methods/sepacredittransfer/logo.svg?w=400&c=v0.59.26#w200) |[**SEPA Credit Transfer**](sepacredittransfer/)|`sepacredittransfer`| 
 |![sepadirectdebit](https://static.openfintech.io/payment_methods/sepadirectdebit/logo.svg?w=400&c=v0.59.26#w200) |[**SEPA Direct Debit**](sepadirectdebit/)|`sepadirectdebit`| 
 |![serve](https://static.openfintech.io/payment_methods/serve/logo.png?w=400&c=v0.59.26#w200) |[**Serve**](serve/)|`serve`| 

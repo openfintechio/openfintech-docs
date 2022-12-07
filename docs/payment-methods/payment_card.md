@@ -386,6 +386,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![vevopay](https://static.openfintech.io/payment_providers/vevopay/icon.png?w=278&c=v0.59.26#w100) |[VevoPay](/payment-providers/vevopay/)|`vevopay`| 
 |![localpayments](https://static.openfintech.io/payment_providers/localpayments/icon.svg?w=278&c=v0.59.26#w100) |[Localpayments](/payment-providers/localpayments/)|`localpayments`| 
 |![whitepay](https://static.openfintech.io/payment_providers/whitepay/icon.svg?w=278&c=v0.59.26#w100) |[Whitepay](/payment-providers/whitepay/)|`whitepay`| 
+|![odeonpay](https://static.openfintech.io/payment_providers/odeonpay/icon.png?w=278&c=v0.59.26#w100) |[OdeonPay](/payment-providers/odeonpay/)|`odeonpay`| 
  
 
 ## JSON Object 

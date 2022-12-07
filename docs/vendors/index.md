@@ -1040,6 +1040,7 @@
 |![obmenvalut.net](https://static.openfintech.io/vendors/obmenvalut.net/logo.svg?w=600&c=v0.59.26#w200) |[**ObmenValut.net**](obmenvalut.net/)|`obmenvalut.net`| 
 |![octopayz](https://static.openfintech.io/vendors/octopayz/logo.png?w=600&c=v0.59.26#w200) |[**Octopayz**](octopayz/)|`octopayz`| 
 |![octopus](https://static.openfintech.io/vendors/octopus/logo.svg?w=600&c=v0.59.26#w200) |[**Octopus**](octopus/)|`octopus`| 
+|![odeonpay](https://static.openfintech.io/vendors/odeonpay/logo.png?w=600&c=v0.59.26#w200) |[**OdeonPay**](odeonpay/)|`odeonpay`| 
 |![odeska_filiya_prat_ufg](https://static.openfintech.io/vendors/odeska_filiya_prat_ufg/logo.svg?w=600&c=v0.59.26#w200) |[**Одеська філія ПрАТ 'Українська фінансова група'**](odeska_filiya_prat_ufg/)|`odeska_filiya_prat_ufg`| 
 |![odeska_oblasna_filiya_prat_ufg](https://static.openfintech.io/vendors/odeska_oblasna_filiya_prat_ufg/logo.svg?w=600&c=v0.59.26#w200) |[**Одеська обласна філія ПрАТ 'Українська фінансова група'**](odeska_oblasna_filiya_prat_ufg/)|`odeska_oblasna_filiya_prat_ufg`| 
 |![odeska_regionalna_filiya_prat_ufg](https://static.openfintech.io/vendors/odeska_regionalna_filiya_prat_ufg/logo.svg?w=600&c=v0.59.26#w200) |[**Одеська регіональна філія ПрАТ 'Українська фінансова група'**](odeska_regionalna_filiya_prat_ufg/)|`odeska_regionalna_filiya_prat_ufg`| 

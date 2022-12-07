@@ -50,6 +50,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Airtel Mo
 |![virtualpay](https://static.openfintech.io/payment_providers/virtualpay/icon.png?w=278&c=v0.59.26#w100) |[Virtual Pay](/payment-providers/virtualpay/)|`virtualpay`| 
 |![virtouspayments](https://static.openfintech.io/payment_providers/virtouspayments/icon.png?w=278&c=v0.59.26#w100) |[Virtous Payments](/payment-providers/virtouspayments/)|`virtouspayments`| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
+|![odeonpay](https://static.openfintech.io/payment_providers/odeonpay/icon.png?w=278&c=v0.59.26#w100) |[OdeonPay](/payment-providers/odeonpay/)|`odeonpay`| 
  
 
 ## JSON Object 

@@ -46,6 +46,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Dong A Ba
 |![paysec](https://static.openfintech.io/payment_providers/paysec/icon.png?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
 |![skpay](https://static.openfintech.io/payment_providers/skpay/icon.png?w=278&c=v0.59.26#w100) |[SKPay](/payment-providers/skpay/)|`skpay`| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
+|![odeonpay](https://static.openfintech.io/payment_providers/odeonpay/icon.png?w=278&c=v0.59.26#w100) |[OdeonPay](/payment-providers/odeonpay/)|`odeonpay`| 
  
 
 ## JSON Object 
