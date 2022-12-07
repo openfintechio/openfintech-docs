@@ -1,5 +1,5 @@
 
-# CMT Wallet 
+# CMT 
 ![cmt](https://static.openfintech.io/payment_methods/cmt/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,9 +7,11 @@
  
 **Name:** 
  
-:	[EN] CMT Wallet 
+:	[EN] CMT 
+:	[RU] CMT 
+:	[UK] CMT 
  
-**Category:** `digital_wallet` 
+**Category:** `alternative` 
  
 
 ## Images 
@@ -28,18 +30,18 @@ https://static.openfintech.io/payment_methods/cmt/logo.svg?w=400&c=v0.59.26#w200
 https://static.openfintech.io/payment_methods/cmt/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _CMT Wallet_ 
+The list of [Payment Services](/payment-services/) based on the _CMT_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![cmt](https://static.openfintech.io/payout_methods/cmt/icon.svg?w=278&c=v0.59.26#w40) |[cmt_try](/payout-services/cmt_try/)|`cmt_try`| 
+|![cmt](https://static.openfintech.io/payment_methods/cmt/icon.svg?w=278&c=v0.59.26#w100) |[cmt_try_hpp](/payment-services/cmt_try_hpp/)|`cmt_try_hpp`| 
  
 
 ## Payment Providers 
  
-The list of [Payment Providers](/payment-providers/) that support the _CMT Wallet_ 
+The list of [Payment Providers](/payment-providers/) that support the _CMT_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -53,10 +55,12 @@ The list of [Payment Providers](/payment-providers/) that support the _CMT Walle
   "code":"cmt",
   "vendor":null,
   "name":{
-    "en":"CMT Wallet"
+    "en":"CMT",
+    "ru":"CMT",
+    "uk":"CMT"
   },
   "description":null,
   "countries":null,
-  "category":"digital_wallet"
+  "category":"alternative"
 }
 ```  

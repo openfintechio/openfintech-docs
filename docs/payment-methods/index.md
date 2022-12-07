@@ -156,6 +156,7 @@
 |![citibank_korea](https://static.openfintech.io/payment_methods/citibank_korea/logo.svg?w=400&c=v0.59.26#w200) |[**Citibank Korea**](citibank_korea/)|`citibank_korea`| 
 |![city_union_bank](https://static.openfintech.io/payment_methods/city_union_bank/logo.svg?w=400&c=v0.59.26#w200) |[**City Union Bank**](city_union_bank/)|`city_union_bank`| 
 |![clickandbuy](https://static.openfintech.io/payment_methods/clickandbuy/logo.png?w=400&c=v0.59.26#w200) |[**ClickandBuy**](clickandbuy/)|`clickandbuy`| 
+|![cmt](https://static.openfintech.io/payment_methods/cmt/logo.svg?w=400&c=v0.59.26#w200) |[**CMT**](cmt/)|`cmt`| 
 |![coingate](https://static.openfintech.io/payment_methods/coingate/logo.svg?w=400&c=v0.59.26#w200) |[**CoinGate**](coingate/)|`coingate`| 
 |![commonwealth_bank](https://static.openfintech.io/payment_methods/commonwealth_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Commonwealth Bank**](commonwealth_bank/)|`commonwealth_bank`| 
 |![community_bank](https://static.openfintech.io/payment_methods/community_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Community Bank**](community_bank/)|`community_bank`| 
@@ -222,6 +223,7 @@
 |![forexbank](https://static.openfintech.io/payment_methods/forexbank/logo.png?w=400&c=v0.59.26#w200) |[**Forex Bank**](forexbank/)|`forexbank`| 
 |![freecharge](https://static.openfintech.io/payment_methods/freecharge/logo.svg?w=400&c=v0.59.26#w200) |[**Freecharge Wallet**](freecharge/)|`freecharge`| 
 |![frenchonlinepaymentmethodewalletpaylib](https://static.openfintech.io/payment_methods/frenchonlinepaymentmethodewalletpaylib/logo.png?w=400&c=v0.59.26#w200) |[**paylib**](frenchonlinepaymentmethodewalletpaylib/)|`frenchonlinepaymentmethodewalletpaylib`| 
+|![fups](https://static.openfintech.io/payment_methods/fups/logo.png?w=400&c=v0.59.26#w200) |[**Fups**](fups/)|`fups`| 
 |![futurepay](https://static.openfintech.io/payment_methods/futurepay/logo.png?w=400&c=v0.59.26#w200) |[**FuturePay**](futurepay/)|`futurepay`| 
 || **G** ||
 |![gcashwallet](https://static.openfintech.io/payment_methods/gcashwallet/logo.png?w=400&c=v0.59.26#w200) |[**GCASH**](gcashwallet/)|`gcashwallet`| 
@@ -331,6 +333,7 @@
 |![mazooma](https://static.openfintech.io/payment_methods/mazooma/logo.png?w=400&c=v0.59.26#w200) |[**Mazooma**](mazooma/)|`mazooma`| 
 |![mb_bank](https://static.openfintech.io/payment_methods/mb_bank/logo.png?w=400&c=v0.59.26#w200) |[**MB Bank**](mb_bank/)|`mb_bank`| 
 |![mbank](https://static.openfintech.io/payment_methods/mbank/logo.png?w=400&c=v0.59.26#w200) |[**mBank (mTransfer)**](mbank/)|`mbank`| 
+|![mefete](https://static.openfintech.io/payment_methods/mefete/logo.png?w=400&c=v0.59.26#w200) |[**Mefete**](mefete/)|`mefete`| 
 |![mega_bank](https://static.openfintech.io/payment_methods/mega_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Mega International Commercial Bank**](mega_bank/)|`mega_bank`| 
 |![megafon](https://static.openfintech.io/payment_methods/megafon/logo.png?w=400&c=v0.59.26#w200) |[**Megafon**](megafon/)|`megafon`| 
 |![mercadopago](https://static.openfintech.io/payment_methods/mercadopago/logo.png?w=400&c=v0.59.26#w200) |[**MercadoPago**](mercadopago/)|`mercadopago`| 
@@ -397,12 +400,14 @@
 |![papara](https://static.openfintech.io/payment_methods/papara/logo.svg?w=400&c=v0.59.26#w200) |[**Papara**](papara/)|`papara`| 
 |![papaya](https://static.openfintech.io/payment_methods/papaya/logo.png?w=400&c=v0.59.26#w200) |[**Papaya**](papaya/)|`papaya`| 
 |![papercheck](https://static.openfintech.io/payment_methods/papercheck/logo.png?w=400&c=v0.59.26#w200) |[**Paper Check**](papercheck/)|`papercheck`| 
+|![parazula](https://static.openfintech.io/payment_methods/parazula/logo.png?w=400&c=v0.59.26#w200) |[**Parazula**](parazula/)|`parazula`| 
 |![pay_id](https://static.openfintech.io/payment_methods/pay_id/logo.svg?w=400&c=v0.59.26#w200) |[**PayID**](pay_id/)|`pay_id`| 
 |![paybybill](https://static.openfintech.io/payment_methods/paybybill/logo.png?w=400&c=v0.59.26#w200) |[**PayByBill**](paybybill/)|`paybybill`| 
 |![payd](https://static.openfintech.io/payment_methods/payd/logo.png?w=400&c=v0.59.26#w200) |[**payD**](payd/)|`payd`| 
 |![paydirekt](https://static.openfintech.io/payment_methods/paydirekt/logo.svg?w=400&c=v0.59.26#w200) |[**paydirekt**](paydirekt/)|`paydirekt`| 
 |![payeer](https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&c=v0.59.26#w200) |[**Payeer**](payeer/)|`payeer`| 
 |![payfastwallet](https://static.openfintech.io/payment_methods/payfastwallet/logo.png?w=400&c=v0.59.26#w200) |[**Payfast Wallet**](payfastwallet/)|`payfastwallet`| 
+|![payfix](https://static.openfintech.io/payment_methods/payfix/logo.png?w=400&c=v0.59.26#w200) |[**Payfix**](payfix/)|`payfix`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](payment_card/)|`payment_card`| 
 |![payment_card_email](https://static.openfintech.io/payment_methods/payment_card_email/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card email**](payment_card_email/)|`payment_card_email`| 
 |![payment_card_token](https://static.openfintech.io/payment_methods/payment_card_token/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card by token**](payment_card_token/)|`payment_card_token`| 
@@ -421,6 +426,7 @@
 |![paywise_cash](https://static.openfintech.io/payment_methods/paywise_cash/logo.svg?w=400&c=v0.59.26#w200) |[**PayWise Cash transfer**](paywise_cash/)|`paywise_cash`| 
 |![payzippy](https://static.openfintech.io/payment_methods/payzippy/logo.png?w=400&c=v0.59.26#w200) |[**PayZippy**](payzippy/)|`payzippy`| 
 |![peela](https://static.openfintech.io/payment_methods/peela/logo.png?w=400&c=v0.59.26#w200) |[**Peela**](peela/)|`peela`| 
+|![pep](https://static.openfintech.io/payment_methods/pep/logo.png?w=400&c=v0.59.26#w200) |[**Pep**](pep/)|`pep`| 
 |![perfectmoney](https://static.openfintech.io/payment_methods/perfectmoney/logo.png?w=400&c=v0.59.26#w200) |[**Perfect Money**](perfectmoney/)|`perfectmoney`| 
 |![perfectmoney_account](https://static.openfintech.io/payment_methods/perfectmoney_account/logo.png?w=400&c=v0.59.26#w200) |[**Perfect Money Account**](perfectmoney_account/)|`perfectmoney_account`| 
 |![perfectmoney_voucher](https://static.openfintech.io/payment_methods/perfectmoney_voucher/logo.png?w=400&c=v0.59.26#w200) |[**Perfect Money Voucher**](perfectmoney_voucher/)|`perfectmoney_voucher`| 

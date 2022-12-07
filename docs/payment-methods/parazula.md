@@ -8,8 +8,10 @@
 **Name:** 
  
 :	[EN] Parazula 
+:	[RU] Parazula 
+:	[UK] Parazula 
  
-**Category:** `digital_wallet` 
+**Category:** `alternative` 
  
 
 ## Images 
@@ -28,13 +30,13 @@ https://static.openfintech.io/payment_methods/parazula/logo.png?w=400&c=v0.59.26
 https://static.openfintech.io/payment_methods/parazula/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _Parazula_ 
+The list of [Payment Services](/payment-services/) based on the _Parazula_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![parazula](https://static.openfintech.io/payout_methods/parazula/icon.png?w=278&c=v0.59.26#w40) |[parazula_try](/payout-services/parazula_try/)|`parazula_try`| 
+|![parazula](https://static.openfintech.io/payment_methods/parazula/icon.png?w=278&c=v0.59.26#w100) |[parazula_try_hpp](/payment-services/parazula_try_hpp/)|`parazula_try_hpp`| 
  
 
 ## Payment Providers 
@@ -53,10 +55,12 @@ The list of [Payment Providers](/payment-providers/) that support the _Parazula_
   "code":"parazula",
   "vendor":null,
   "name":{
-    "en":"Parazula"
+    "en":"Parazula",
+    "ru":"Parazula",
+    "uk":"Parazula"
   },
   "description":null,
   "countries":null,
-  "category":"digital_wallet"
+  "category":"alternative"
 }
 ```  

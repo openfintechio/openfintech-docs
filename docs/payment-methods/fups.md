@@ -1,5 +1,5 @@
 
-# FUPS 
+# Fups 
 ![fups](https://static.openfintech.io/payment_methods/fups/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,9 +7,11 @@
  
 **Name:** 
  
-:	[EN] FUPS 
+:	[EN] Fups 
+:	[RU] Fups 
+:	[UK] Fups 
  
-**Category:** `digital_wallet` 
+**Category:** `alternative` 
  
 
 ## Images 
@@ -28,18 +30,18 @@ https://static.openfintech.io/payment_methods/fups/logo.png?w=400&c=v0.59.26#w20
 https://static.openfintech.io/payment_methods/fups/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _FUPS_ 
+The list of [Payment Services](/payment-services/) based on the _Fups_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![fups](https://static.openfintech.io/payout_methods/fups/icon.png?w=278&c=v0.59.26#w40) |[fups_try](/payout-services/fups_try/)|`fups_try`| 
+|![fups](https://static.openfintech.io/payment_methods/fups/icon.png?w=278&c=v0.59.26#w100) |[fups_try_hpp](/payment-services/fups_try_hpp/)|`fups_try_hpp`| 
  
 
 ## Payment Providers 
  
-The list of [Payment Providers](/payment-providers/) that support the _FUPS_ 
+The list of [Payment Providers](/payment-providers/) that support the _Fups_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -53,10 +55,12 @@ The list of [Payment Providers](/payment-providers/) that support the _FUPS_
   "code":"fups",
   "vendor":null,
   "name":{
-    "en":"FUPS"
+    "en":"Fups",
+    "ru":"Fups",
+    "uk":"Fups"
   },
   "description":null,
   "countries":null,
-  "category":"digital_wallet"
+  "category":"alternative"
 }
 ```  

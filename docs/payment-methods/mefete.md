@@ -8,8 +8,10 @@
 **Name:** 
  
 :	[EN] Mefete 
+:	[RU] Mefete 
+:	[UK] Mefete 
  
-**Category:** `digital_wallet` 
+**Category:** `alternative` 
  
 
 ## Images 
@@ -28,13 +30,13 @@ https://static.openfintech.io/payment_methods/mefete/logo.png?w=400&c=v0.59.26#w
 https://static.openfintech.io/payment_methods/mefete/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _Mefete_ 
+The list of [Payment Services](/payment-services/) based on the _Mefete_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![mefete](https://static.openfintech.io/payout_methods/mefete/icon.png?w=278&c=v0.59.26#w40) |[mefete_try](/payout-services/mefete_try/)|`mefete_try`| 
+|![mefete](https://static.openfintech.io/payment_methods/mefete/icon.png?w=278&c=v0.59.26#w100) |[mefete_try_hpp](/payment-services/mefete_try_hpp/)|`mefete_try_hpp`| 
  
 
 ## Payment Providers 
@@ -53,10 +55,12 @@ The list of [Payment Providers](/payment-providers/) that support the _Mefete_
   "code":"mefete",
   "vendor":null,
   "name":{
-    "en":"Mefete"
+    "en":"Mefete",
+    "ru":"Mefete",
+    "uk":"Mefete"
   },
   "description":null,
   "countries":null,
-  "category":"digital_wallet"
+  "category":"alternative"
 }
 ```  

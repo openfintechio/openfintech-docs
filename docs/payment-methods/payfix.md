@@ -1,5 +1,5 @@
 
-# PayFix 
+# Payfix 
 ![payfix](https://static.openfintech.io/payment_methods/payfix/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,9 +7,11 @@
  
 **Name:** 
  
-:	[EN] PayFix 
+:	[EN] Payfix 
+:	[RU] Payfix 
+:	[UK] Payfix 
  
-**Category:** `digital_wallet` 
+**Category:** `alternative` 
  
 
 ## Images 
@@ -28,18 +30,18 @@ https://static.openfintech.io/payment_methods/payfix/logo.png?w=400&c=v0.59.26#w
 https://static.openfintech.io/payment_methods/payfix/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _PayFix_ 
+The list of [Payment Services](/payment-services/) based on the _Payfix_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![payfix](https://static.openfintech.io/payout_methods/payfix/icon.png?w=278&c=v0.59.26#w40) |[payfix_try](/payout-services/payfix_try/)|`payfix_try`| 
+|![payfix](https://static.openfintech.io/payment_methods/payfix/icon.png?w=278&c=v0.59.26#w100) |[payfix_try_hpp](/payment-services/payfix_try_hpp/)|`payfix_try_hpp`| 
  
 
 ## Payment Providers 
  
-The list of [Payment Providers](/payment-providers/) that support the _PayFix_ 
+The list of [Payment Providers](/payment-providers/) that support the _Payfix_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -53,10 +55,12 @@ The list of [Payment Providers](/payment-providers/) that support the _PayFix_
   "code":"payfix",
   "vendor":null,
   "name":{
-    "en":"PayFix"
+    "en":"Payfix",
+    "ru":"Payfix",
+    "uk":"Payfix"
   },
   "description":null,
   "countries":null,
-  "category":"digital_wallet"
+  "category":"alternative"
 }
 ```  
