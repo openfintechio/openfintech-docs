@@ -858,6 +858,7 @@
 |![klarna](https://static.openfintech.io/vendors/klarna/logo.svg?w=600&c=v0.59.26#w200) |[**Klarna**](klarna/)|`klarna`| 
 |![klasha](https://static.openfintech.io/vendors/klasha/logo.svg?w=600&c=v0.59.26#w200) |[**Klasha**](klasha/)|`klasha`| 
 |![klikpay](https://static.openfintech.io/vendors/klikpay/logo.png?w=600&c=v0.59.26#w200) |[**Klik & Pay**](klikpay/)|`klikpay`| 
+|![kluwp](https://static.openfintech.io/vendors/kluwp/logo.png?w=600&c=v0.59.26#w200) |[**Kluwp**](kluwp/)|`kluwp`| 
 |![komercnibanka](https://static.openfintech.io/vendors/komercnibanka/logo.png?w=600&c=v0.59.26#w200) |[**Komercni Banka**](komercnibanka/)|`komercnibanka`| 
 |![kontakt](https://static.openfintech.io/vendors/kontakt/logo.svg?w=600&c=v0.59.26#w200) |[**Контакт**](kontakt/)|`kontakt`| 
 |![kortapay](https://static.openfintech.io/vendors/kortapay/logo.png?w=600&c=v0.59.26#w200) |[**Korta Pay**](kortapay/)|`kortapay`| 

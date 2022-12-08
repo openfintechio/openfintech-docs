@@ -40,6 +40,7 @@ The list of [Payment Services](/payment-services/) based on the _Payment card_
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_chf_hpp](/payment-services/payment_card_chf_hpp/)|`payment_card_chf_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_nok_hpp](/payment-services/payment_card_nok_hpp/)|`payment_card_nok_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_dkk_hpp](/payment-services/payment_card_dkk_hpp/)|`payment_card_dkk_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_hrk_hpp](/payment-services/payment_card_hrk_hpp/)|`payment_card_hrk_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_nzd_hpp](/payment-services/payment_card_nzd_hpp/)|`payment_card_nzd_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_gip_hpp](/payment-services/payment_card_gip_hpp/)|`payment_card_gip_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_sgd_hpp](/payment-services/payment_card_sgd_hpp/)|`payment_card_sgd_hpp`| 
@@ -133,6 +134,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![gingerpayments](https://static.openfintech.io/payment_providers/gingerpayments/icon.png?w=278&c=v0.59.26#w100) |[Ginger Payments](/payment-providers/gingerpayments/)|`gingerpayments`| 
 |![cardpay](https://static.openfintech.io/payment_providers/cardpay/icon.svg?w=278&c=v0.59.26#w100) |[Unlimint](/payment-providers/cardpay/)|`cardpay`| 
 |![portmone](https://static.openfintech.io/payment_providers/portmone/icon.svg?w=278&c=v0.59.26#w100) |[Portmone.com](/payment-providers/portmone/)|`portmone`| 
+|![cardinity](https://static.openfintech.io/payment_providers/cardinity/icon.png?w=278&c=v0.59.26#w100) |[Cardinity](/payment-providers/cardinity/)|`cardinity`| 
 |![wirecapital](https://static.openfintech.io/payment_providers/wirecapital/icon.svg?w=278&c=v0.59.26#w100) |[Wirecapital](/payment-providers/wirecapital/)|`wirecapital`| 
 |![checkoutcom](https://static.openfintech.io/payment_providers/checkoutcom/icon.svg?w=278&c=v0.59.26#w100) |[Checkout.com](/payment-providers/checkoutcom/)|`checkoutcom`| 
 |![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
@@ -386,6 +388,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![vevopay](https://static.openfintech.io/payment_providers/vevopay/icon.png?w=278&c=v0.59.26#w100) |[VevoPay](/payment-providers/vevopay/)|`vevopay`| 
 |![localpayments](https://static.openfintech.io/payment_providers/localpayments/icon.svg?w=278&c=v0.59.26#w100) |[Localpayments](/payment-providers/localpayments/)|`localpayments`| 
 |![whitepay](https://static.openfintech.io/payment_providers/whitepay/icon.svg?w=278&c=v0.59.26#w100) |[Whitepay](/payment-providers/whitepay/)|`whitepay`| 
+|![kluwp](https://static.openfintech.io/payment_providers/kluwp/icon.png?w=278&c=v0.59.26#w100) |[Kluwp](/payment-providers/kluwp/)|`kluwp`| 
 |![odeonpay](https://static.openfintech.io/payment_providers/odeonpay/icon.png?w=278&c=v0.59.26#w100) |[OdeonPay](/payment-providers/odeonpay/)|`odeonpay`| 
  
 

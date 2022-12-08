@@ -387,6 +387,7 @@
 |![klarna](https://static.openfintech.io/payment_providers/klarna/logo.svg?w=600&c=v0.59.26#w100) |[**Klarna**](klarna/)|`klarna`| 
 |![klasha](https://static.openfintech.io/payment_providers/klasha/logo.svg?w=600&c=v0.59.26#w100) |[**Klasha**](klasha/)|`klasha`| 
 |![klikpay](https://static.openfintech.io/payment_providers/klikpay/logo.png?w=600&c=v0.59.26#w100) |[**Klik & Pay**](klikpay/)|`klikpay`| 
+|![kluwp](https://static.openfintech.io/payment_providers/kluwp/logo.png?w=600&c=v0.59.26#w100) |[**Kluwp**](kluwp/)|`kluwp`| 
 |![kortapay](https://static.openfintech.io/payment_providers/kortapay/logo.png?w=600&c=v0.59.26#w100) |[**Korta Pay**](kortapay/)|`kortapay`| 
 |![kraft](https://static.openfintech.io/payment_providers/kraft/logo.svg?w=600&c=v0.59.26#w100) |[**Kraft**](kraft/)|`kraft`| 
 |![kuna](https://static.openfintech.io/payment_providers/kuna/logo.svg?w=600&c=v0.59.26#w100) |[**Kuna**](kuna/)|`kuna`| 

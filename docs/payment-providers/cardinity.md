@@ -11,6 +11,8 @@
 **Name:** 
  
 :	[EN] Cardinity 
+:	[RU] Cardinity 
+:	[UK] Cardinity 
  
  
 **Countries:** 
@@ -34,6 +36,15 @@ https://static.openfintech.io/payment_providers/cardinity/logo.png?w=400&c=v0.59
 ```
 https://static.openfintech.io/payment_providers/cardinity/icon.png?w=278&c=v0.59.26#w100
 ```  
+
+## Payment Methods 
+ 
+The list of supported [Payment Methods](/payment-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
+ 
 
 ## JSON Object 
 
@@ -77,13 +88,17 @@ https://static.openfintech.io/payment_providers/cardinity/icon.png?w=278&c=v0.59
     "CH",
     "AE"
   ],
-  "payment_method":null,
+  "payment_method":[
+    "payment_card"
+  ],
   "payout_method":null,
   "metadata":{
     "about_payments_code":"cardinity"
   },
   "name":{
-    "en":"Cardinity"
+    "en":"Cardinity",
+    "ru":"Cardinity",
+    "uk":"Cardinity"
   }
 }
 ```  
