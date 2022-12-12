@@ -47,6 +47,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![settlepay_wallet](https://static.openfintech.io/payment_methods/settlepay_wallet/icon.svg?w=278&c=v0.59.26#w100) |[settlepay_wallet](/payment-methods/settlepay_wallet/)|`settlepay_wallet`| 
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay](/payment-methods/applepay/)|`applepay`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay](/payment-methods/googlepay/)|`googlepay`| 
+|![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix](/payment-methods/pix/)|`pix`| 
  
 
 ## Payout Methods 
@@ -74,7 +75,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "payment_card",
     "settlepay_wallet",
     "applepay",
-    "googlepay"
+    "googlepay",
+    "pix"
   ],
   "payout_method":[
     "payment_card",
