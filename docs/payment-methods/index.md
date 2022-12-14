@@ -439,6 +439,7 @@
 |![ping_an_bank](https://static.openfintech.io/payment_methods/ping_an_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Ping An Bank**](ping_an_bank/)|`ping_an_bank`| 
 |![pingping](https://static.openfintech.io/payment_methods/pingping/logo.png?w=400&c=v0.59.26#w200) |[**ping.ping**](pingping/)|`pingping`| 
 |![pix](https://static.openfintech.io/payment_methods/pix/logo.svg?w=400&c=v0.59.26#w200) |[**PIX**](pix/)|`pix`| 
+|![pix_qr](https://static.openfintech.io/payment_methods/pix_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Pix Qr**](pix_qr/)|`pix_qr`| 
 |![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/logo.png?w=400&c=v0.59.26#w200) |[**POLi Payments**](polipayonline/)|`polipayonline`| 
 |![poppankki](https://static.openfintech.io/payment_methods/poppankki/logo.png?w=400&c=v0.59.26#w200) |[**POP Pankki**](poppankki/)|`poppankki`| 
 |![postepay](https://static.openfintech.io/payment_methods/postepay/logo.png?w=400&c=v0.59.26#w200) |[**Postepay**](postepay/)|`postepay`| 

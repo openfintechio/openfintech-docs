@@ -712,6 +712,7 @@
 |![sobini](https://static.openfintech.io/payment_providers/sobini/logo.svg?w=600&c=v0.59.26#w100) |[**Sobini**](sobini/)|`sobini`| 
 |![soeasypay](https://static.openfintech.io/payment_providers/soeasypay/logo.png?w=600&c=v0.59.26#w100) |[**SoEasyPay**](soeasypay/)|`soeasypay`| 
 |![solidgate](https://static.openfintech.io/payment_providers/solidgate/logo.svg?w=600&c=v0.59.26#w100) |[**Solid**](solidgate/)|`solidgate`| 
+|![spartapay](https://static.openfintech.io/payment_providers/spartapay/logo.png?w=600&c=v0.59.26#w100) |[**Sparta-Pay**](spartapay/)|`spartapay`| 
 |![specializedprocessingsolutions](https://static.openfintech.io/payment_providers/specializedprocessingsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Specialized Processing Solutions**](specializedprocessingsolutions/)|`specializedprocessingsolutions`| 
 |![spoynt](https://static.openfintech.io/payment_providers/spoynt/logo.svg?w=600&c=v0.59.26#w100) |[**Spoynt**](spoynt/)|`spoynt`| 
 |![spryng](https://static.openfintech.io/payment_providers/spryng/logo.png?w=600&c=v0.59.26#w100) |[**Spryng Payments**](spryng/)|`spryng`| 
