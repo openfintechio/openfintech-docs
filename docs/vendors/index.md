@@ -316,6 +316,7 @@
 |![cartebancaires](https://static.openfintech.io/vendors/cartebancaires/logo.png?w=600&c=v0.59.26#w200) |[**Carte Bancaires**](cartebancaires/)|`cartebancaires`| 
 |![cartebleue](https://static.openfintech.io/vendors/cartebleue/logo.png?w=600&c=v0.59.26#w200) |[**Carte Bleue**](cartebleue/)|`cartebleue`| 
 |![cash4pay](https://static.openfintech.io/vendors/cash4pay/logo.svg?w=600&c=v0.59.26#w200) |[**Cash4Pay**](cash4pay/)|`cash4pay`| 
+|![cashbulls](https://static.openfintech.io/vendors/cashbulls/logo.png?w=600&c=v0.59.26#w200) |[**Cash Bulls**](cashbulls/)|`cashbulls`| 
 |![cashflows](https://static.openfintech.io/vendors/cashflows/logo.png?w=600&c=v0.59.26#w200) |[**CashFlows**](cashflows/)|`cashflows`| 
 |![cashfree](https://static.openfintech.io/vendors/cashfree/logo.png?w=600&c=v0.59.26#w200) |[**Cashfree**](cashfree/)|`cashfree`| 
 |![cashing.su](https://static.openfintech.io/vendors/cashing.su/logo.svg?w=600&c=v0.59.26#w200) |[**Cashing**](cashing.su/)|`cashing.su`| 
@@ -683,6 +684,7 @@
 |![gate2payments](https://static.openfintech.io/vendors/gate2payments/logo.png?w=600&c=v0.59.26#w200) |[**Gate2Payments **](gate2payments/)|`gate2payments`| 
 |![gate2play](https://static.openfintech.io/vendors/gate2play/logo.png?w=600&c=v0.59.26#w200) |[**Gate2Play**](gate2play/)|`gate2play`| 
 |![gateexpress](https://static.openfintech.io/vendors/gateexpress/logo.svg?w=600&c=v0.59.26#w200) |[**Gate.Express**](gateexpress/)|`gateexpress`| 
+|![gatetwoway](https://static.openfintech.io/vendors/gatetwoway/logo.svg?w=600&c=v0.59.26#w200) |[**Gate2way**](gatetwoway/)|`gatetwoway`| 
 |![gazprombank](https://static.openfintech.io/vendors/gazprombank/logo.svg?w=600&c=v0.59.26#w200) |[**Газпромбанк**](gazprombank/)|`gazprombank`| 
 |![gcashwallet](https://static.openfintech.io/vendors/gcashwallet/logo.png?w=600&c=v0.59.26#w200) |[**GCASH**](gcashwallet/)|`gcashwallet`| 
 |![geeexchange](https://static.openfintech.io/vendors/geeexchange/logo.svg?w=600&c=v0.59.26#w200) |[**geeexchange.com**](geeexchange/)|`geeexchange`| 
@@ -1306,6 +1308,7 @@
 |![payonline](https://static.openfintech.io/vendors/payonline/logo.png?w=600&c=v0.59.26#w200) |[**PayOnline**](payonline/)|`payonline`| 
 |![payoo](https://static.openfintech.io/vendors/payoo/logo.png?w=600&c=v0.59.26#w200) |[**Payoo**](payoo/)|`payoo`| 
 |![paypal](https://static.openfintech.io/vendors/paypal/logo.svg?w=600&c=v0.59.26#w200) |[**PayPal**](paypal/)|`paypal`| 
+|![payplanet](https://static.openfintech.io/vendors/payplanet/logo.svg?w=600&c=v0.59.26#w200) |[**PayPlanet**](payplanet/)|`payplanet`| 
 |![payplay](https://static.openfintech.io/vendors/payplay/logo.png?w=600&c=v0.59.26#w200) |[**PayPlay**](payplay/)|`payplay`| 
 |![payplug](https://static.openfintech.io/vendors/payplug/logo.png?w=600&c=v0.59.26#w200) |[**PayPlug**](payplug/)|`payplug`| 
 |![paypoint](https://static.openfintech.io/vendors/paypoint/logo.png?w=600&c=v0.59.26#w200) |[**PayPoint**](paypoint/)|`paypoint`| 

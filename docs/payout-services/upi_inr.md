@@ -16,7 +16,7 @@
 :	[RU] UPI 
 :	[UK] UPI 
  
-**Amount limits:** from `0.01` to `100000` INR 
+**Amount limits:** from `0.01` to `1000000000` INR 
 
 ## Fields 
 
@@ -293,6 +293,6 @@
     }
   ],
   "amount_min":0.01,
-  "amount_max":100000
+  "amount_max":"1000000000"
 }
 ```  

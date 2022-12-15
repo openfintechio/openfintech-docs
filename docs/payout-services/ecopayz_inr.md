@@ -16,7 +16,7 @@
 :	[RU] Ecopayz 
 :	[UK] Ecopayz 
  
-**Amount limits:** from `1.00` to `999999.00` INR 
+**Amount limits:** from `1.00` to `1000000000` INR 
 
 ## Fields 
 
@@ -76,6 +76,6 @@
     }
   ],
   "amount_min":"1.00",
-  "amount_max":"999999.00"
+  "amount_max":"1000000000"
 }
 ```  

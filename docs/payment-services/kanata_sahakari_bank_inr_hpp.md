@@ -17,7 +17,7 @@
 :	[RU] Janata Sahakari Bank 
 :	[UK] Janata Sahakari Bank 
  
-**Amount limits:** from `0.01` to `9999999` INR 
+**Amount limits:** from `0.01` to `1000000000` INR 
 
 ## JSON Object 
 
@@ -29,6 +29,6 @@
   "currency":"INR",
   "fields":null,
   "amount_min":0.01,
-  "amount_max":9999999
+  "amount_max":1000000000
 }
 ```  

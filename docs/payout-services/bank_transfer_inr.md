@@ -16,7 +16,7 @@
 :	[RU] Банковский перевод 
 :	[UK] Банківський переказ 
  
-**Amount limits:** from `0.01` to `1000000000.00` INR 
+**Amount limits:** from `0.01` to `1000000000` INR 
 
 ## Fields 
 
@@ -834,6 +834,6 @@
     }
   ],
   "amount_min":"0.01",
-  "amount_max":"1000000000.00"
+  "amount_max":"1000000000"
 }
 ```  

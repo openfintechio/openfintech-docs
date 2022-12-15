@@ -399,7 +399,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![whitepay](https://static.openfintech.io/payment_providers/whitepay/icon.svg?w=278&c=v0.59.26#w100) |[Whitepay](/payment-providers/whitepay/)|`whitepay`| 
 |![kluwp](https://static.openfintech.io/payment_providers/kluwp/icon.png?w=278&c=v0.59.26#w100) |[Kluwp](/payment-providers/kluwp/)|`kluwp`| 
 |![odeonpay](https://static.openfintech.io/payment_providers/odeonpay/icon.png?w=278&c=v0.59.26#w100) |[OdeonPay](/payment-providers/odeonpay/)|`odeonpay`| 
+|![gatetwoway](https://static.openfintech.io/payment_providers/gatetwoway/icon.svg?w=278&c=v0.59.26#w100) |[Gate2way](/payment-providers/gatetwoway/)|`gatetwoway`| 
 |![spartapay](https://static.openfintech.io/payment_providers/spartapay/icon.png?w=278&c=v0.59.26#w100) |[Sparta-Pay](/payment-providers/spartapay/)|`spartapay`| 
+|![cashbulls](https://static.openfintech.io/payment_providers/cashbulls/icon.png?w=278&c=v0.59.26#w100) |[Cash Bulls](/payment-providers/cashbulls/)|`cashbulls`| 
  
 
 ## JSON Object 
