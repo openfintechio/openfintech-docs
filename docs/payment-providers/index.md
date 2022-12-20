@@ -319,6 +319,7 @@
 |![globalmoney](https://static.openfintech.io/payment_providers/globalmoney/logo.svg?w=600&c=v0.59.26#w100) |[**GlobalMoney**](globalmoney/)|`globalmoney`| 
 |![globalpayltd](https://static.openfintech.io/payment_providers/globalpayltd/logo.png?w=600&c=v0.59.26#w100) |[**GlobalPay LTD**](globalpayltd/)|`globalpayltd`| 
 |![globalpayments](https://static.openfintech.io/payment_providers/globalpayments/logo.png?w=600&c=v0.59.26#w100) |[**Global Payments**](globalpayments/)|`globalpayments`| 
+|![globaltransactioncharge](https://static.openfintech.io/payment_providers/globaltransactioncharge/logo.svg?w=600&c=v0.59.26#w100) |[**GlobalTransactionCharge**](globaltransactioncharge/)|`globaltransactioncharge`| 
 |![globebill](https://static.openfintech.io/payment_providers/globebill/logo.png?w=600&c=v0.59.26#w100) |[**Globebill**](globebill/)|`globebill`| 
 |![gmopaymentgateway](https://static.openfintech.io/payment_providers/gmopaymentgateway/logo.png?w=600&c=v0.59.26#w100) |[**GMO Payment Gateway**](gmopaymentgateway/)|`gmopaymentgateway`| 
 |![gocardless](https://static.openfintech.io/payment_providers/gocardless/logo.svg?w=600&c=v0.59.26#w100) |[**GoCardLess**](gocardless/)|`gocardless`| 
