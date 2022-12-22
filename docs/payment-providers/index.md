@@ -467,6 +467,7 @@
 |![nixmoney](https://static.openfintech.io/payment_providers/nixmoney/logo.png?w=600&c=v0.59.26#w100) |[**NixMoney**](nixmoney/)|`nixmoney`| 
 |![nmi](https://static.openfintech.io/payment_providers/nmi/logo.png?w=600&c=v0.59.26#w100) |[**NMI**](nmi/)|`nmi`| 
 |![nochexltd](https://static.openfintech.io/payment_providers/nochexltd/logo.png?w=600&c=v0.59.26#w100) |[**Nochex**](nochexltd/)|`nochexltd`| 
+|![noda](https://static.openfintech.io/payment_providers/noda/logo.svg?w=600&c=v0.59.26#w100) |[**Noda**](noda/)|`noda`| 
 |![nordpay](https://static.openfintech.io/payment_providers/nordpay/logo.png?w=600&c=v0.59.26#w100) |[**NORDPAY**](nordpay/)|`nordpay`| 
 |![northpayments](https://static.openfintech.io/payment_providers/northpayments/logo.png?w=600&c=v0.59.26#w100) |[**North Payments**](northpayments/)|`northpayments`| 
 |![novalnet](https://static.openfintech.io/payment_providers/novalnet/logo.png?w=600&c=v0.59.26#w100) |[**Novalnet AG**](novalnet/)|`novalnet`| 

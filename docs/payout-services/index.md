@@ -1302,6 +1302,7 @@
 |![SEPA Transfer](https://static.openfintech.io/payout_methods/sepa_credit_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**SEPA Transfer**](/payout-methods/sepa_credit_transfer/)|[`sepa_credit_transfer_company_eur`](sepa_credit_transfer_company_eur/)|`EUR`| 
 |![SEPA Transfer](https://static.openfintech.io/payout_methods/sepa_credit_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**SEPA Transfer**](/payout-methods/sepa_credit_transfer/)|[`sepa_credit_transfer_individual_eur`](sepa_credit_transfer_individual_eur/)|`EUR`| 
 |![Sepa Transfer](https://static.openfintech.io/payout_methods/sepa_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Sepa Transfer**](/payout-methods/sepa_transfer/)|[`sepa_transfer_eur`](sepa_transfer_eur/)|`EUR`| 
+|![Sepa Transfer](https://static.openfintech.io/payout_methods/sepa_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Sepa Transfer**](/payout-methods/sepa_transfer/)|[`sepa_transfer_gbp`](sepa_transfer_gbp/)|`GBP`| 
 |![SERVICE 24 (Kiev)](https://static.openfintech.io/payout_methods/servis-24-kiev/logo.png?w=400&c=v0.59.26#w24) |[**SERVICE 24 (Kiev)**](/payout-methods/servis-24-kiev/)|[`servis-24-kiev_uah`](servis-24-kiev_uah/)|`UAH`| 
 |![SETKA](https://static.openfintech.io/payout_methods/setka/logo.png?w=400&c=v0.59.26#w24) |[**SETKA**](/payout-methods/setka/)|[`setka_uah`](setka_uah/)|`UAH`| 
 |![SettlePay Wallet](https://static.openfintech.io/payout_methods/settlepay_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**SettlePay Wallet**](/payout-methods/settlepay_wallet/)|[`settlepay_wallet_uah`](settlepay_wallet_uah/)|`UAH`| 

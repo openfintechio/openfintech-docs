@@ -37,6 +37,8 @@ The list of [Payment Services](/payment-services/) based on the _Sepa Transfer_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_eur_hpp](/payment-services/sepa_transfer_eur_hpp/)|`sepa_transfer_eur_hpp`| 
+|![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_eur](/payment-services/sepa_transfer_eur/)|`sepa_transfer_eur`| 
+|![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_gbp](/payment-services/sepa_transfer_gbp/)|`sepa_transfer_gbp`| 
  
 
 ## Payment Providers 
@@ -46,6 +48,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Sepa Tran
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![odeonpay](https://static.openfintech.io/payment_providers/odeonpay/icon.png?w=278&c=v0.59.26#w100) |[OdeonPay](/payment-providers/odeonpay/)|`odeonpay`| 
+|![noda](https://static.openfintech.io/payment_providers/noda/icon.svg?w=278&c=v0.59.26#w100) |[Noda](/payment-providers/noda/)|`noda`| 
  
 
 ## JSON Object 

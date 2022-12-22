@@ -1020,6 +1020,7 @@
 |![nixmoney](https://static.openfintech.io/vendors/nixmoney/logo.png?w=600&c=v0.59.26#w200) |[**NixMoney**](nixmoney/)|`nixmoney`| 
 |![nmi](https://static.openfintech.io/vendors/nmi/logo.png?w=600&c=v0.59.26#w200) |[**NMI**](nmi/)|`nmi`| 
 |![nochexltd](https://static.openfintech.io/vendors/nochexltd/logo.png?w=600&c=v0.59.26#w200) |[**Nochex**](nochexltd/)|`nochexltd`| 
+|![noda](https://static.openfintech.io/vendors/noda/logo.svg?w=600&c=v0.59.26#w200) |[**Noda**](noda/)|`noda`| 
 |![nordea](https://static.openfintech.io/vendors/nordea/logo.png?w=600&c=v0.59.26#w200) |[**Nordea**](nordea/)|`nordea`| 
 |![nordeasolo](https://static.openfintech.io/vendors/nordeasolo/logo.svg?w=600&c=v0.59.26#w200) |[**Nordea solo**](nordeasolo/)|`nordeasolo`| 
 |![nordpay](https://static.openfintech.io/vendors/nordpay/logo.png?w=600&c=v0.59.26#w200) |[**NORDPAY**](nordpay/)|`nordpay`| 
