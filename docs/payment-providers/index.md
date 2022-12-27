@@ -185,6 +185,7 @@
 |![creditcall](https://static.openfintech.io/payment_providers/creditcall/logo.svg?w=600&c=v0.59.26#w100) |[**Creditcall**](creditcall/)|`creditcall`| 
 |![credorax](https://static.openfintech.io/payment_providers/credorax/logo.png?w=600&c=v0.59.26#w100) |[**Credorax**](credorax/)|`credorax`| 
 |![crosspay](https://static.openfintech.io/payment_providers/crosspay/logo.png?w=600&c=v0.59.26#w100) |[**CrossPay**](crosspay/)|`crosspay`| 
+|![cryptohawex](https://static.openfintech.io/payment_providers/cryptohawex/logo.svg?w=600&c=v0.59.26#w100) |[**CryptoHawex**](cryptohawex/)|`cryptohawex`| 
 |![ctopay](https://static.openfintech.io/payment_providers/ctopay/logo.png?w=600&c=v0.59.26#w100) |[**Ctopay**](ctopay/)|`ctopay`| 
 |![curopayments](https://static.openfintech.io/payment_providers/curopayments/logo.svg?w=600&c=v0.59.26#w100) |[**CURO payments**](curopayments/)|`curopayments`| 
 |![cxpay](https://static.openfintech.io/payment_providers/cxpay/logo.png?w=600&c=v0.59.26#w100) |[**CX Pay**](cxpay/)|`cxpay`| 
@@ -220,7 +221,7 @@
 |![dotpay](https://static.openfintech.io/payment_providers/dotpay/logo.png?w=600&c=v0.59.26#w100) |[**Dotpay**](dotpay/)|`dotpay`| 
 |![dragonpay](https://static.openfintech.io/payment_providers/dragonpay/logo.png?w=600&c=v0.59.26#w100) |[**Dragonpay**](dragonpay/)|`dragonpay`| 
 |![dropayment](https://static.openfintech.io/payment_providers/dropayment/logo.svg?w=600&c=v0.59.26#w100) |[**Dropayment**](dropayment/)|`dropayment`| 
-|![dusupay](https://static.openfintech.io/payment_providers/dusupay/logo.png?w=600&c=v0.59.26#w100) |[**DusuPay**](dusupay/)|`dusupay`| 
+|![dusupay](https://static.openfintech.io/payment_providers/dusupay/logo.png?w=600&c=v0.59.26#w100) |[**Dusupay**](dusupay/)|`dusupay`| 
 || **E** ||
 |![easybits](https://static.openfintech.io/payment_providers/easybits/logo.svg?w=600&c=v0.59.26#w100) |[**EasyBits.io**](easybits/)|`easybits`| 
 |![easypay](https://static.openfintech.io/payment_providers/easypay/logo.png?w=600&c=v0.59.26#w100) |[**easypay**](easypay/)|`easypay`| 

@@ -191,6 +191,7 @@
 |![CWMRUB](https://static.openfintech.io/currencies/CWMRUB/icon.svg?w=278&c=v0.59.26#w100) |[**CWMRUB**](CWMRUB/)|`CWMRUB`| 
 |![CZK](https://static.openfintech.io/currencies/CZK/icon.svg?w=278&c=v0.59.26#w100) |[**Czech Republic Koruna**](CZK/)|`CZK`| 
 || **D** ||
+|![DAI](https://static.openfintech.io/currencies/DAI/icon.svg?w=278&c=v0.59.26#w100) |[**DAI**](DAI/)|`DAI`| 
 |![DASH](https://static.openfintech.io/currencies/DASH/icon.png?w=278&c=v0.59.26#w100) |[**DASH**](DASH/)|`DASH`| 
 |![DJF](https://static.openfintech.io/currencies/DJF/icon.svg?w=278&c=v0.59.26#w100) |[**Djiboutian Franc**](DJF/)|`DJF`| 
 |![DKEUR](https://static.openfintech.io/currencies/DKEUR/icon.svg?w=278&c=v0.59.26#w100) |[**DKEUR**](DKEUR/)|`DKEUR`| 

@@ -251,6 +251,7 @@
 |![billsafe](https://static.openfintech.io/vendors/billsafe/logo.png?w=600&c=v0.59.26#w200) |[**BillSAFE**](billsafe/)|`billsafe`| 
 |![billtomobile](https://static.openfintech.io/vendors/billtomobile/logo.png?w=600&c=v0.59.26#w200) |[**BilltoMobile**](billtomobile/)|`billtomobile`| 
 |![binance_coin](https://static.openfintech.io/vendors/binance_coin/logo.svg?w=600&c=v0.59.26#w200) |[**Binance coin**](binance_coin/)|`binance_coin`| 
+|![binance_smart_chain](https://static.openfintech.io/vendors/binance_smart_chain/logo.svg?w=600&c=v0.59.26#w200) |[**Binance smart chain**](binance_smart_chain/)|`binance_smart_chain`| 
 |![binbank](https://static.openfintech.io/vendors/binbank/logo.svg?w=600&c=v0.59.26#w200) |[**БИНБАНК**](binbank/)|`binbank`| 
 |![bips](https://static.openfintech.io/vendors/bips/logo.png?w=600&c=v0.59.26#w200) |[**BIPS**](bips/)|`bips`| 
 |![bit-changer.net](https://static.openfintech.io/vendors/bit-changer.net/logo.svg?w=600&c=v0.59.26#w200) |[**Bit-Changer**](bit-changer.net/)|`bit-changer.net`| 
@@ -413,6 +414,7 @@
 |![cryptocapitalco](https://static.openfintech.io/vendors/cryptocapitalco/logo.svg?w=600&c=v0.59.26#w200) |[**cryptocapital.co**](cryptocapitalco/)|`cryptocapitalco`| 
 |![cryptocheck](https://static.openfintech.io/vendors/cryptocheck/logo.svg?w=600&c=v0.59.26#w200) |[**Cryptocheck**](cryptocheck/)|`cryptocheck`| 
 |![cryptocompare](https://static.openfintech.io/vendors/cryptocompare/logo.png?w=600&c=v0.59.26#w200) |[**CryptoCompare**](cryptocompare/)|`cryptocompare`| 
+|![cryptohawex](https://static.openfintech.io/vendors/cryptohawex/logo.svg?w=600&c=v0.59.26#w200) |[**CryptoHawex**](cryptohawex/)|`cryptohawex`| 
 |![csob](https://static.openfintech.io/vendors/csob/logo.png?w=600&c=v0.59.26#w200) |[**CSOB**](csob/)|`csob`| 
 |![ctopay](https://static.openfintech.io/vendors/ctopay/logo.png?w=600&c=v0.59.26#w200) |[**Ctopay**](ctopay/)|`ctopay`| 
 |![curopayments](https://static.openfintech.io/vendors/curopayments/logo.png?w=600&c=v0.59.26#w200) |[**CURO payments**](curopayments/)|`curopayments`| 
@@ -422,6 +424,7 @@
 |![cybersource](https://static.openfintech.io/vendors/cybersource/logo.svg?w=600&c=v0.59.26#w200) |[**CyberSource**](cybersource/)|`cybersource`| 
 |![cypix](https://static.openfintech.io/vendors/cypix/logo.svg?w=600&c=v0.59.26#w200) |[**Cypix**](cypix/)|`cypix`| 
 || **D** ||
+|![dai_coin](https://static.openfintech.io/vendors/dai_coin/logo.svg?w=600&c=v0.59.26#w200) |[**Dai Coin**](dai_coin/)|`dai_coin`| 
 |![dalberry](https://static.openfintech.io/vendors/dalberry/logo.png?w=600&c=v0.59.26#w200) |[**Dalberry**](dalberry/)|`dalberry`| 
 |![dalpay](https://static.openfintech.io/vendors/dalpay/logo.png?w=600&c=v0.59.26#w200) |[**DalPay**](dalpay/)|`dalpay`| 
 |![dankort](https://static.openfintech.io/vendors/dankort/logo.png?w=600&c=v0.59.26#w200) |[**Dankort**](dankort/)|`dankort`| 
@@ -472,7 +475,7 @@
 |![druga_filiya_prat_ufg_u_m_lviv](https://static.openfintech.io/vendors/druga_filiya_prat_ufg_u_m_lviv/logo.svg?w=600&c=v0.59.26#w200) |[**Друга філія ПрАТ 'Українська фінансова група' у м. Львів**](druga_filiya_prat_ufg_u_m_lviv/)|`druga_filiya_prat_ufg_u_m_lviv`| 
 |![druga_filiya_prat_ufg_u_m_poltava](https://static.openfintech.io/vendors/druga_filiya_prat_ufg_u_m_poltava/logo.svg?w=600&c=v0.59.26#w200) |[**Друга філія ПрАТ 'Українська фінансова група' у м. Полтава**](druga_filiya_prat_ufg_u_m_poltava/)|`druga_filiya_prat_ufg_u_m_poltava`| 
 |![druga_sevastopolska_filiya_prat_ufg](https://static.openfintech.io/vendors/druga_sevastopolska_filiya_prat_ufg/logo.svg?w=600&c=v0.59.26#w200) |[**Друга Севастопольська філія ПрАТ 'Українська фінансова група'**](druga_sevastopolska_filiya_prat_ufg/)|`druga_sevastopolska_filiya_prat_ufg`| 
-|![dusupay](https://static.openfintech.io/vendors/dusupay/logo.png?w=600&c=v0.59.26#w200) |[**DusuPay**](dusupay/)|`dusupay`| 
+|![dusupay](https://static.openfintech.io/vendors/dusupay/logo.png?w=600&c=v0.59.26#w200) |[**Dusupay**](dusupay/)|`dusupay`| 
 |![dwolla](https://static.openfintech.io/vendors/dwolla/logo.png?w=600&c=v0.59.26#w200) |[**Dwolla**](dwolla/)|`dwolla`| 
 || **E** ||
 |![e-dengi.org](https://static.openfintech.io/vendors/e-dengi.org/logo.svg?w=600&c=v0.59.26#w200) |[**E-Dengi**](e-dengi.org/)|`e-dengi.org`| 
@@ -1676,6 +1679,7 @@
 |![transferhub](https://static.openfintech.io/vendors/transferhub/logo.svg?w=600&c=v0.59.26#w200) |[**TransferHub**](transferhub/)|`transferhub`| 
 |![tranzzo](https://static.openfintech.io/vendors/tranzzo/logo.svg?w=600&c=v0.59.26#w200) |[**Tranzzo**](tranzzo/)|`tranzzo`| 
 |![traxpay](https://static.openfintech.io/vendors/traxpay/logo.png?w=600&c=v0.59.26#w200) |[**Traxpay**](traxpay/)|`traxpay`| 
+|![tron](https://static.openfintech.io/vendors/tron/logo.svg?w=600&c=v0.59.26#w200) |[**Tron**](tron/)|`tron`| 
 |![truevo](https://static.openfintech.io/vendors/truevo/logo.png?w=600&c=v0.59.26#w200) |[**Truevo Payments**](truevo/)|`truevo`| 
 |![trust-exchange.org](https://static.openfintech.io/vendors/trust-exchange.org/logo.svg?w=600&c=v0.59.26#w200) |[**trust-exchange**](trust-exchange.org/)|`trust-exchange.org`| 
 |![trustcommerce](https://static.openfintech.io/vendors/trustcommerce/logo.png?w=600&c=v0.59.26#w200) |[**TrustCommerce**](trustcommerce/)|`trustcommerce`| 
@@ -1741,6 +1745,7 @@
 |![upravlinnya_nbu_v_zhitomirskij_oblasti](https://static.openfintech.io/vendors/upravlinnya_nbu_v_zhitomirskij_oblasti/logo.svg?w=600&c=v0.59.26#w200) |[**Управління Національного банку України в Житомирській області**](upravlinnya_nbu_v_zhitomirskij_oblasti/)|`upravlinnya_nbu_v_zhitomirskij_oblasti`| 
 |![uralsibbank](https://static.openfintech.io/vendors/uralsibbank/logo.svg?w=600&c=v0.59.26#w200) |[**УралСиб банк**](uralsibbank/)|`uralsibbank`| 
 |![usaepay](https://static.openfintech.io/vendors/usaepay/logo.png?w=600&c=v0.59.26#w200) |[**USAePay**](usaepay/)|`usaepay`| 
+|![usd_coin](https://static.openfintech.io/vendors/usd_coin/logo.svg?w=600&c=v0.59.26#w200) |[**Usd Coin**](usd_coin/)|`usd_coin`| 
 |![usemyservices](https://static.openfintech.io/vendors/usemyservices/logo.png?w=600&c=v0.59.26#w200) |[**UseMyServices**](usemyservices/)|`usemyservices`| 
 |![uzcard](https://static.openfintech.io/vendors/uzcard/logo.svg?w=600&c=v0.59.26#w200) |[**Uzcard**](uzcard/)|`uzcard`| 
 || **V** ||

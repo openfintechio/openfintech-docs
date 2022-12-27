@@ -24,10 +24,10 @@ https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26
 ```  
 
 ### Icon 
-![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.svg?w=278&c=v0.59.26#w100)  
+![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/usd_coin/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payout Services 

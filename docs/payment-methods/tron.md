@@ -1,15 +1,15 @@
 
-# TRON 
+# Tron 
 ![tron](https://static.openfintech.io/payment_methods/tron/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `tron` 
  
+**Vendor:** `tron` [show -->](/vendors/tron/) 
+ 
 **Name:** 
  
-:	[EN] TRON 
-:	[UK] TRON 
-:	[RU] TRON 
+:	[EN] Tron 
  
 **Category:** `alternative` 
  
@@ -30,13 +30,13 @@ https://static.openfintech.io/payment_methods/tron/logo.svg?w=400&c=v0.59.26#w20
 https://static.openfintech.io/payment_methods/tron/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _TRON_ 
+The list of [Payment Services](/payment-services/) based on the _Tron_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tron](https://static.openfintech.io/payout_methods/tron/icon.png?w=278&c=v0.59.26#w40) |[tron_trx](/payout-services/tron_trx/)|`tron_trx`| 
+|![tron](https://static.openfintech.io/payment_methods/tron/icon.png?w=278&c=v0.59.26#w100) |[tron_trx_hpp](/payment-services/tron_trx_hpp/)|`tron_trx_hpp`| 
  
 
 ## JSON Object 
@@ -44,11 +44,9 @@ The list of [Payout Services](/payout-services/) based on the _TRON_
 ```json
 {
   "code":"tron",
-  "vendor":null,
+  "vendor":"tron",
   "name":{
-    "en":"TRON",
-    "uk":"TRON",
-    "ru":"TRON"
+    "en":"Tron"
   },
   "description":null,
   "countries":null,

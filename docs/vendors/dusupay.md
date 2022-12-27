@@ -1,5 +1,5 @@
 
-# DusuPay 
+# Dusupay 
 ![dusupay](https://static.openfintech.io/vendors/dusupay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,17 +8,15 @@
  
 **Name:** 
  
-:	[EN] DusuPay 
+:	[EN] Dusupay 
+:	[RU] Dusupay 
+:	[UK] Dusupay 
  
 **Status:** `active` 
  
-**Description:** 
+**Links:** 
+: website [https://dusupay.com/](https://dusupay.com/) 
  
-: [EN]  Send money and get paid all over Africa. We are the continents largest Payment Gateway  
- 
-**Contacts:** 
-phone: +447969173786**Address:** 
-street:  10 Albury court, Phipps bridge rdCR4 3PX LondonSelect a StateUnited Kingdom  
 
 ## Images 
 
@@ -44,20 +42,18 @@ https://static.openfintech.io/vendors/dusupay/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"dusupay",
   "name":{
-    "en":"DusuPay"
+    "en":"Dusupay",
+    "ru":"Dusupay",
+    "uk":"Dusupay"
   },
   "status":"active",
-  "description":{
-    "en":" Send money and get paid all over Africa. We are the continents largest Payment Gateway "
+  "description":null,
+  "links":{
+    "website":"https:\/\/dusupay.com\/"
   },
-  "links":null,
   "countries":null,
-  "contacts":{
-    "phone":"+447969173786"
-  },
-  "address":{
-    "street":" 10 Albury court, Phipps bridge rdCR4 3PX LondonSelect a StateUnited Kingdom "
-  },
+  "contacts":null,
+  "address":null,
   "social_profiles":null
 }
 ```  
