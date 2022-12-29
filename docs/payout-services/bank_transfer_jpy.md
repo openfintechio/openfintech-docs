@@ -25,8 +25,8 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`account_number`|✔|`string`|`/^[A-Z]{2}[A-Z0-9]{13,32}$\|^[0-9]{3,15}$/`| 
-|`account_name`|✗|`string`|`/^[A-Za-z0-9\s]{2,100}$/`| 
-|`bank_branch`|✗|`string`|`/^[A-za-z,0-9\p{L}]{2,100}$/u`| 
+|`account_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\s\p{L}]{2,100}$/`| 
+|`bank_branch`|✗|`string`|`/^[A-Za-zА-Яа-я,0-9\-\s\p{L}]{2,100}$/`| 
 |`bank_branch_code`|✗|`string`|`/^[0-9]{2,100}$/`| 
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9\p{L}\.]{2,20}$/u`| 
 |`bank_country_code_iso`|✗|`string`|`/^.{2,6}$/`| 
@@ -68,7 +68,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-z0-9\s]{2,100}$/` 
+	Regexp: `/^[A-Za-zА-Яа-я\-\s\p{L}]{2,100}$/` 
  
 	Required: `` 
  
@@ -86,7 +86,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-za-z,0-9\p{L}]{2,100}$/u` 
+	Regexp: `/^[A-Za-zА-Яа-я,0-9\-\s\p{L}]{2,100}$/` 
  
 	Required: `` 
  
@@ -400,7 +400,7 @@
     {
       "key":"account_name",
       "type":"string",
-      "regexp":"\/^[A-Za-z0-9\\s]{2,100}$\/",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\s\\p{L}]{2,100}$\/",
       "required":false,
       "position":2,
       "label":{
@@ -417,7 +417,7 @@
     {
       "key":"bank_branch",
       "type":"string",
-      "regexp":"\/^[A-za-z,0-9\\p{L}]{2,100}$\/u",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f,0-9\\-\\s\\p{L}]{2,100}$\/",
       "required":false,
       "position":3,
       "label":{
