@@ -1194,6 +1194,7 @@
 |![Ping An Bank](https://static.openfintech.io/payout_methods/ping_an_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Ping An Bank**](/payout-methods/ping_an_bank/)|[`ping_an_bank_cny`](ping_an_bank_cny/)|`CNY`| 
 |![Pets](https://static.openfintech.io/payout_methods/pitomtsy/logo.png?w=400&c=v0.59.26#w24) |[**Pets**](/payout-methods/pitomtsy/)|[`pitomtsy_uah`](pitomtsy_uah/)|`UAH`| 
 |![PivnichLine (Rivne region)](https://static.openfintech.io/payout_methods/pivnichline-rovnenskaia-obl/logo.png?w=400&c=v0.59.26#w24) |[**PivnichLine (Rivne region)**](/payout-methods/pivnichline-rovnenskaia-obl/)|[`pivnichline-rovnenskaia-obl_uah`](pivnichline-rovnenskaia-obl_uah/)|`UAH`| 
+|![PIX](https://static.openfintech.io/payout_methods/pix/logo.svg?w=400&c=v0.59.26#w24) |[**PIX**](/payout-methods/pix/)|[`pix_ars`](pix_ars/)|`ARS`| 
 |![PIX](https://static.openfintech.io/payout_methods/pix/logo.svg?w=400&c=v0.59.26#w24) |[**PIX**](/payout-methods/pix/)|[`pix_brl`](pix_brl/)|`BRL`| 
 |![PointBlank](https://static.openfintech.io/payout_methods/pointblank/logo.png?w=400&c=v0.59.26#w24) |[**PointBlank**](/payout-methods/pointblank/)|[`pointblank_uah`](pointblank_uah/)|`UAH`| 
 |![Pokermatch Account](https://static.openfintech.io/payout_methods/pokermatch_account/logo.svg?w=400&c=v0.59.26#w24) |[**Pokermatch Account**](/payout-methods/pokermatch_account/)|[`pokermatch_account_uah`](pokermatch_account_uah/)|`UAH`| 

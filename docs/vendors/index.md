@@ -268,6 +268,7 @@
 |![bitochek.net](https://static.openfintech.io/vendors/bitochek.net/logo.svg?w=600&c=v0.59.26#w200) |[**bitochek.net**](bitochek.net/)|`bitochek.net`| 
 |![bitpay](https://static.openfintech.io/vendors/bitpay/logo.svg?w=600&c=v0.59.26#w200) |[**BitPay**](bitpay/)|`bitpay`| 
 |![bkmexpress](https://static.openfintech.io/vendors/bkmexpress/logo.png?w=600&c=v0.59.26#w200) |[**BKM Express**](bkmexpress/)|`bkmexpress`| 
+|![blablapay](https://static.openfintech.io/vendors/blablapay/logo.svg?w=600&c=v0.59.26#w200) |[**BlaBlaPay**](blablapay/)|`blablapay`| 
 |![blackrabbit](https://static.openfintech.io/vendors/blackrabbit/logo.png?w=600&c=v0.59.26#w200) |[**BlackRabbit**](blackrabbit/)|`blackrabbit`| 
 |![blue.cash](https://static.openfintech.io/vendors/blue.cash/logo.svg?w=600&c=v0.59.26#w200) |[**BlueCash**](blue.cash/)|`blue.cash`| 
 |![bluepaid](https://static.openfintech.io/vendors/bluepaid/logo.png?w=600&c=v0.59.26#w200) |[**BLUE PAID**](bluepaid/)|`bluepaid`| 

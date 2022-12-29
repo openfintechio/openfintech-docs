@@ -39,6 +39,7 @@ The list of [Payout Services](/payout-services/) based on the _PIX_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![pix](https://static.openfintech.io/payout_methods/pix/icon.svg?w=278&c=v0.59.26#w40) |[pix_brl](/payout-services/pix_brl/)|`pix_brl`| 
+|![pix](https://static.openfintech.io/payout_methods/pix/icon.svg?w=278&c=v0.59.26#w40) |[pix_ars](/payout-services/pix_ars/)|`pix_ars`| 
  
 
 ## Payment Providers 
