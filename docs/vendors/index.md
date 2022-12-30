@@ -297,6 +297,7 @@
 |![bucksnet](https://static.openfintech.io/vendors/bucksnet/logo.png?w=600&c=v0.59.26#w200) |[**Bucks Net Services**](bucksnet/)|`bucksnet`| 
 |![budpay](https://static.openfintech.io/vendors/budpay/logo.png?w=600&c=v0.59.26#w200) |[**Budpay**](budpay/)|`budpay`| 
 |![byware.net](https://static.openfintech.io/vendors/byware.net/logo.svg?w=600&c=v0.59.26#w200) |[**Byware**](byware.net/)|`byware.net`| 
+|![bzpay](https://static.openfintech.io/vendors/bzpay/logo.png?w=600&c=v0.59.26#w200) |[**BZPAY**](bzpay/)|`bzpay`| 
 || **C** ||
 |![cabal](https://static.openfintech.io/vendors/cabal/logo.png?w=600&c=v0.59.26#w200) |[**Cabal**](cabal/)|`cabal`| 
 |![caledoncardservices](https://static.openfintech.io/vendors/caledoncardservices/logo.png?w=600&c=v0.59.26#w200) |[**Caledon Card Services**](caledoncardservices/)|`caledoncardservices`| 

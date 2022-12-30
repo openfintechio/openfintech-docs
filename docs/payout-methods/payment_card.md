@@ -316,6 +316,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![unlimco](https://static.openfintech.io/payment_providers/unlimco/icon.svg?w=278&c=v0.59.26#w100) |[Unlimco](/payment-providers/unlimco/)|`unlimco`| 
 |![constantpos](https://static.openfintech.io/payment_providers/constantpos/icon.svg?w=278&c=v0.59.26#w100) |[Constantpos](/payment-providers/constantpos/)|`constantpos`| 
 |![globaltransactioncharge](https://static.openfintech.io/payment_providers/globaltransactioncharge/icon.svg?w=278&c=v0.59.26#w100) |[GlobalTransactionCharge](/payment-providers/globaltransactioncharge/)|`globaltransactioncharge`| 
+|![bzpay](https://static.openfintech.io/payment_providers/bzpay/icon.svg?w=278&c=v0.59.26#w100) |[BZPAY](/payment-providers/bzpay/)|`bzpay`| 
 |![stepfourpay](https://static.openfintech.io/payment_providers/stepfourpay/icon.svg?w=278&c=v0.59.26#w100) |[Step4Pay](/payment-providers/stepfourpay/)|`stepfourpay`| 
 |![reeves](https://static.openfintech.io/payment_providers/reeves/icon.png?w=278&c=v0.59.26#w100) |[Reeves](/payment-providers/reeves/)|`reeves`| 
 |![eupaymentz](https://static.openfintech.io/payment_providers/eupaymentz/icon.png?w=278&c=v0.59.26#w100) |[EUPaymentz](/payment-providers/eupaymentz/)|`eupaymentz`| 
