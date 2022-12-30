@@ -39,6 +39,15 @@ The list of [Payout Services](/payout-services/) based on the _USD Coin_
 |![usd_coin](https://static.openfintech.io/payout_methods/usd_coin/icon.png?w=278&c=v0.59.26#w40) |[usd_coin_usdc](/payout-services/usd_coin_usdc/)|`usd_coin_usdc`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _USD Coin_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![cryptohawex](https://static.openfintech.io/payment_providers/cryptohawex/icon.svg?w=278&c=v0.59.26#w100) |[CryptoHawex](/payment-providers/cryptohawex/)|`cryptohawex`| 
+ 
+
 ## JSON Object 
 
 ```json

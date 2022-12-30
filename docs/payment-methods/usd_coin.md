@@ -43,6 +43,15 @@ The list of [Payment Services](/payment-services/) based on the _Usd Coin_
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_bep20_usdc_hpp](/payment-services/usd_coin_bep20_usdc_hpp/)|`usd_coin_bep20_usdc_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Usd Coin_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![cryptohawex](https://static.openfintech.io/payment_providers/cryptohawex/icon.svg?w=278&c=v0.59.26#w100) |[CryptoHawex](/payment-providers/cryptohawex/)|`cryptohawex`| 
+ 
+
 ## JSON Object 
 
 ```json

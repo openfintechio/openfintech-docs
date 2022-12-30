@@ -41,6 +41,15 @@ The list of [Payment Services](/payment-services/) based on the _Binance smart c
 |![binance_smart_chain](https://static.openfintech.io/payment_methods/binance_smart_chain/icon.svg?w=278&c=v0.59.26#w100) |[binance_smart_chain_bep20_bnb_hpp](/payment-services/binance_smart_chain_bep20_bnb_hpp/)|`binance_smart_chain_bep20_bnb_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Binance smart chain_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![cryptohawex](https://static.openfintech.io/payment_providers/cryptohawex/icon.svg?w=278&c=v0.59.26#w100) |[CryptoHawex](/payment-providers/cryptohawex/)|`cryptohawex`| 
+ 
+
 ## JSON Object 
 
 ```json

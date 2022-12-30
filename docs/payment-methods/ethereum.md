@@ -60,6 +60,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Ethereum_
 |![coinspaid](https://static.openfintech.io/payment_providers/coinspaid/icon.png?w=278&c=v0.59.26#w100) |[CoinsPaid](/payment-providers/coinspaid/)|`coinspaid`| 
 |![easytransfer](https://static.openfintech.io/payment_providers/easytransfer/icon.svg?w=278&c=v0.59.26#w100) |[EasyTransfer](/payment-providers/easytransfer/)|`easytransfer`| 
 |![changecoins](https://static.openfintech.io/payment_providers/changecoins/icon.png?w=278&c=v0.59.26#w100) |[Сhangecoins Pay](/payment-providers/changecoins/)|`changecoins`| 
+|![cryptohawex](https://static.openfintech.io/payment_providers/cryptohawex/icon.svg?w=278&c=v0.59.26#w100) |[CryptoHawex](/payment-providers/cryptohawex/)|`cryptohawex`| 
  
 
 ## JSON Object 

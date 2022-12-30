@@ -42,6 +42,15 @@ The list of [Payment Services](/payment-services/) based on the _Dai Coin_
 |![dai_coin](https://static.openfintech.io/payment_methods/dai_coin/icon.png?w=278&c=v0.59.26#w100) |[dai_coin_bep20_dai_hpp](/payment-services/dai_coin_bep20_dai_hpp/)|`dai_coin_bep20_dai_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Dai Coin_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![cryptohawex](https://static.openfintech.io/payment_providers/cryptohawex/icon.svg?w=278&c=v0.59.26#w100) |[CryptoHawex](/payment-providers/cryptohawex/)|`cryptohawex`| 
+ 
+
 ## JSON Object 
 
 ```json

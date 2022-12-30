@@ -404,6 +404,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![odeonpay](https://static.openfintech.io/payment_providers/odeonpay/icon.png?w=278&c=v0.59.26#w100) |[OdeonPay](/payment-providers/odeonpay/)|`odeonpay`| 
 |![gatetwoway](https://static.openfintech.io/payment_providers/gatetwoway/icon.svg?w=278&c=v0.59.26#w100) |[Gate2way](/payment-providers/gatetwoway/)|`gatetwoway`| 
 |![spartapay](https://static.openfintech.io/payment_providers/spartapay/icon.png?w=278&c=v0.59.26#w100) |[Sparta-Pay](/payment-providers/spartapay/)|`spartapay`| 
+|![cryptohawex](https://static.openfintech.io/payment_providers/cryptohawex/icon.svg?w=278&c=v0.59.26#w100) |[CryptoHawex](/payment-providers/cryptohawex/)|`cryptohawex`| 
 |![cashbulls](https://static.openfintech.io/payment_providers/cashbulls/icon.png?w=278&c=v0.59.26#w100) |[Cash Bulls](/payment-providers/cashbulls/)|`cashbulls`| 
 |![noda](https://static.openfintech.io/payment_providers/noda/icon.svg?w=278&c=v0.59.26#w100) |[Noda](/payment-providers/noda/)|`noda`| 
 |![blablapay](https://static.openfintech.io/payment_providers/blablapay/icon.svg?w=278&c=v0.59.26#w100) |[BlaBlaPay](/payment-providers/blablapay/)|`blablapay`| 

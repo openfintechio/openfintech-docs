@@ -39,6 +39,15 @@ The list of [Payment Services](/payment-services/) based on the _Tron_
 |![tron](https://static.openfintech.io/payment_methods/tron/icon.png?w=278&c=v0.59.26#w100) |[tron_trx_hpp](/payment-services/tron_trx_hpp/)|`tron_trx_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Tron_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![cryptohawex](https://static.openfintech.io/payment_providers/cryptohawex/icon.svg?w=278&c=v0.59.26#w100) |[CryptoHawex](/payment-providers/cryptohawex/)|`cryptohawex`| 
+ 
+
 ## JSON Object 
 
 ```json
