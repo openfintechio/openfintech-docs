@@ -147,6 +147,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.png?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
 |![saraswat_cooperative_bank](https://static.openfintech.io/payment_methods/saraswat_cooperative_bank/icon.svg?w=278&c=v0.59.26#w100) |[saraswat_cooperative_bank](/payment-methods/saraswat_cooperative_bank/)|`saraswat_cooperative_bank`| 
+|![bank_negara_indonesia_va](https://static.openfintech.io/payment_methods/bank_negara_indonesia_va/icon.svg?w=278&c=v0.59.26#w100) |[bank_negara_indonesia_va](/payment-methods/bank_negara_indonesia_va/)|`bank_negara_indonesia_va`| 
  
 
 ## Payout Methods 
@@ -228,6 +229,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![united_overseas_bank_indonesia](https://static.openfintech.io/payout_methods/united_overseas_bank_indonesia/icon.svg?w=278&c=v0.59.26#w40) |[united_overseas_bank_indonesia](payout-methodsunited_overseas_bank_indonesia/)|`united_overseas_bank_indonesia`| 
 |![upi](https://static.openfintech.io/payout_methods/upi/icon.svg?w=278&c=v0.59.26#w40) |[upi](payout-methodsupi/)|`upi`| 
 |![upi_payout](https://static.openfintech.io/payout_methods/upi_payout/icon.svg?w=278&c=v0.59.26#w40) |[upi_payout](payout-methodsupi_payout/)|`upi_payout`| 
+|![bank_negara_indonesia_va](https://static.openfintech.io/payout_methods/bank_negara_indonesia_va/icon.svg?w=278&c=v0.59.26#w40) |[bank_negara_indonesia_va](payout-methodsbank_negara_indonesia_va/)|`bank_negara_indonesia_va`| 
  
 
 ## JSON Object 
@@ -347,7 +349,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "visadebit",
     "payment_card",
     "mastercarddebit",
-    "saraswat_cooperative_bank"
+    "saraswat_cooperative_bank",
+    "bank_negara_indonesia_va"
   ],
   "payout_method":[
     "hdfc_bank",
@@ -422,7 +425,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "permata_bank",
     "united_overseas_bank_indonesia",
     "upi",
-    "upi_payout"
+    "upi_payout",
+    "bank_negara_indonesia_va"
   ],
   "metadata":null,
   "name":{

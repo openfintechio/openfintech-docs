@@ -916,6 +916,7 @@
 |![lyubojbanktailanda](https://static.openfintech.io/vendors/lyubojbanktailanda/logo.svg?w=600&c=v0.59.26#w200) |[**Любой банк Таиланда**](lyubojbanktailanda/)|`lyubojbanktailanda`| 
 || **M** ||
 |![maestro](https://static.openfintech.io/vendors/maestro/logo.svg?w=600&c=v0.59.26#w200) |[**Maestro**](maestro/)|`maestro`| 
+|![magicpayments](https://static.openfintech.io/vendors/magicpayments/logo.svg?w=600&c=v0.59.26#w200) |[**Magic Payments**](magicpayments/)|`magicpayments`| 
 |![magna](https://static.openfintech.io/vendors/magna/logo.svg?w=600&c=v0.59.26#w200) |[**Magna**](magna/)|`magna`| 
 |![magneticexchange](https://static.openfintech.io/vendors/magneticexchange/logo.svg?w=600&c=v0.59.26#w200) |[**MagneticExchange**](magneticexchange/)|`magneticexchange`| 
 |![magnius](https://static.openfintech.io/vendors/magnius/logo.png?w=600&c=v0.59.26#w200) |[**Magnius**](magnius/)|`magnius`| 
@@ -1747,6 +1748,7 @@
 |![upravlinnya_nbu_v_zhitomirskij_oblasti](https://static.openfintech.io/vendors/upravlinnya_nbu_v_zhitomirskij_oblasti/logo.svg?w=600&c=v0.59.26#w200) |[**Управління Національного банку України в Житомирській області**](upravlinnya_nbu_v_zhitomirskij_oblasti/)|`upravlinnya_nbu_v_zhitomirskij_oblasti`| 
 |![uralsibbank](https://static.openfintech.io/vendors/uralsibbank/logo.svg?w=600&c=v0.59.26#w200) |[**УралСиб банк**](uralsibbank/)|`uralsibbank`| 
 |![usaepay](https://static.openfintech.io/vendors/usaepay/logo.png?w=600&c=v0.59.26#w200) |[**USAePay**](usaepay/)|`usaepay`| 
+|![usbxpay](https://static.openfintech.io/vendors/usbxpay/logo.png?w=600&c=v0.59.26#w200) |[**USBxPAY**](usbxpay/)|`usbxpay`| 
 |![usd_coin](https://static.openfintech.io/vendors/usd_coin/logo.svg?w=600&c=v0.59.26#w200) |[**Usd Coin**](usd_coin/)|`usd_coin`| 
 |![usemyservices](https://static.openfintech.io/vendors/usemyservices/logo.png?w=600&c=v0.59.26#w200) |[**UseMyServices**](usemyservices/)|`usemyservices`| 
 |![uzcard](https://static.openfintech.io/vendors/uzcard/logo.svg?w=600&c=v0.59.26#w200) |[**Uzcard**](uzcard/)|`uzcard`| 

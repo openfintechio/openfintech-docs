@@ -415,6 +415,7 @@
 |![localpayments](https://static.openfintech.io/payment_providers/localpayments/logo.svg?w=600&c=v0.59.26#w100) |[**Localpayments**](localpayments/)|`localpayments`| 
 |![lpb](https://static.openfintech.io/payment_providers/lpb/logo.svg?w=600&c=v0.59.26#w100) |[**LPB**](lpb/)|`lpb`| 
 || **M** ||
+|![magicpayments](https://static.openfintech.io/payment_providers/magicpayments/logo.svg?w=600&c=v0.59.26#w100) |[**Magic Payments**](magicpayments/)|`magicpayments`| 
 |![magnius](https://static.openfintech.io/payment_providers/magnius/logo.png?w=600&c=v0.59.26#w100) |[**Magnius**](magnius/)|`magnius`| 
 |![maguapay](https://static.openfintech.io/payment_providers/maguapay/logo.png?w=600&c=v0.59.26#w100) |[**Magua Pay**](maguapay/)|`maguapay`| 
 |![mangopay](https://static.openfintech.io/payment_providers/mangopay/logo.png?w=600&c=v0.59.26#w100) |[**MangoPay**](mangopay/)|`mangopay`| 
@@ -782,6 +783,7 @@
 |![unonapay](https://static.openfintech.io/payment_providers/unonapay/logo.svg?w=600&c=v0.59.26#w100) |[**UNONAPAY**](unonapay/)|`unonapay`| 
 |![upclick](https://static.openfintech.io/payment_providers/upclick/logo.png?w=600&c=v0.59.26#w100) |[**Upclick**](upclick/)|`upclick`| 
 |![usaepay](https://static.openfintech.io/payment_providers/usaepay/logo.png?w=600&c=v0.59.26#w100) |[**USAePay**](usaepay/)|`usaepay`| 
+|![usbxpay](https://static.openfintech.io/payment_providers/usbxpay/logo.png?w=600&c=v0.59.26#w100) |[**USBxPAY**](usbxpay/)|`usbxpay`| 
 || **V** ||
 |![v9pay](https://static.openfintech.io/payment_providers/v9pay/logo.png?w=600&c=v0.59.26#w100) |[**V9Pay**](v9pay/)|`v9pay`| 
 |![valitor](https://static.openfintech.io/payment_providers/valitor/logo.png?w=600&c=v0.59.26#w100) |[**Valitor**](valitor/)|`valitor`| 

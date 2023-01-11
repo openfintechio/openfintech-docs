@@ -318,6 +318,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![globaltransactioncharge](https://static.openfintech.io/payment_providers/globaltransactioncharge/icon.svg?w=278&c=v0.59.26#w100) |[GlobalTransactionCharge](/payment-providers/globaltransactioncharge/)|`globaltransactioncharge`| 
 |![bzpay](https://static.openfintech.io/payment_providers/bzpay/icon.svg?w=278&c=v0.59.26#w100) |[BZPAY](/payment-providers/bzpay/)|`bzpay`| 
 |![stepfourpay](https://static.openfintech.io/payment_providers/stepfourpay/icon.svg?w=278&c=v0.59.26#w100) |[Step4Pay](/payment-providers/stepfourpay/)|`stepfourpay`| 
+|![magicpayments](https://static.openfintech.io/payment_providers/magicpayments/icon.svg?w=278&c=v0.59.26#w100) |[Magic Payments](/payment-providers/magicpayments/)|`magicpayments`| 
 |![reeves](https://static.openfintech.io/payment_providers/reeves/icon.png?w=278&c=v0.59.26#w100) |[Reeves](/payment-providers/reeves/)|`reeves`| 
 |![eupaymentz](https://static.openfintech.io/payment_providers/eupaymentz/icon.png?w=278&c=v0.59.26#w100) |[EUPaymentz](/payment-providers/eupaymentz/)|`eupaymentz`| 
 |![unonapay](https://static.openfintech.io/payment_providers/unonapay/icon.svg?w=278&c=v0.59.26#w100) |[UNONAPAY](/payment-providers/unonapay/)|`unonapay`| 
@@ -408,6 +409,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![cashbulls](https://static.openfintech.io/payment_providers/cashbulls/icon.png?w=278&c=v0.59.26#w100) |[Cash Bulls](/payment-providers/cashbulls/)|`cashbulls`| 
 |![noda](https://static.openfintech.io/payment_providers/noda/icon.svg?w=278&c=v0.59.26#w100) |[Noda](/payment-providers/noda/)|`noda`| 
 |![blablapay](https://static.openfintech.io/payment_providers/blablapay/icon.svg?w=278&c=v0.59.26#w100) |[BlaBlaPay](/payment-providers/blablapay/)|`blablapay`| 
+|![usbxpay](https://static.openfintech.io/payment_providers/usbxpay/icon.png?w=278&c=v0.59.26#w100) |[USBxPAY](/payment-providers/usbxpay/)|`usbxpay`| 
  
 
 ## JSON Object 

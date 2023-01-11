@@ -108,6 +108,7 @@
 |![bank_central_asia](https://static.openfintech.io/payout_methods/bank_central_asia/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Central Asia**](bank_central_asia/)|`bank_central_asia`| 
 |![bank_islam_malaysia](https://static.openfintech.io/payout_methods/bank_islam_malaysia/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Islam Malaysia**](bank_islam_malaysia/)|`bank_islam_malaysia`| 
 |![bank_negara_indonesia](https://static.openfintech.io/payout_methods/bank_negara_indonesia/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Negara Indonesia**](bank_negara_indonesia/)|`bank_negara_indonesia`| 
+|![bank_negara_indonesia_va](https://static.openfintech.io/payout_methods/bank_negara_indonesia_va/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Negara Indonesia (VA)**](bank_negara_indonesia_va/)|`bank_negara_indonesia_va`| 
 |![bank_of_baroda](https://static.openfintech.io/payout_methods/bank_of_baroda/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Of Baroda**](bank_of_baroda/)|`bank_of_baroda`| 
 |![bank_of_beijing](https://static.openfintech.io/payout_methods/bank_of_beijing/logo.png?w=400&c=v0.59.26#w24) |[**Bank of Beijing**](bank_of_beijing/)|`bank_of_beijing`| 
 |![bank_of_chengdu](https://static.openfintech.io/payout_methods/bank_of_chengdu/logo.svg?w=400&c=v0.59.26#w24) |[**BANK OF CHENGDU**](bank_of_chengdu/)|`bank_of_chengdu`| 

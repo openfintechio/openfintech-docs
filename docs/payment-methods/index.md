@@ -67,6 +67,7 @@
 |![bank_central_asia](https://static.openfintech.io/payment_methods/bank_central_asia/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Central Asia**](bank_central_asia/)|`bank_central_asia`| 
 |![bank_islam_malaysia](https://static.openfintech.io/payment_methods/bank_islam_malaysia/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Islam Malaysia**](bank_islam_malaysia/)|`bank_islam_malaysia`| 
 |![bank_negara_indonesia](https://static.openfintech.io/payment_methods/bank_negara_indonesia/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Negara Indonesia**](bank_negara_indonesia/)|`bank_negara_indonesia`| 
+|![bank_negara_indonesia_va](https://static.openfintech.io/payment_methods/bank_negara_indonesia_va/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Negara Indonesia (VA)**](bank_negara_indonesia_va/)|`bank_negara_indonesia_va`| 
 |![bank_of_baroda](https://static.openfintech.io/payment_methods/bank_of_baroda/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Of Baroda**](bank_of_baroda/)|`bank_of_baroda`| 
 |![bank_of_china](https://static.openfintech.io/payment_methods/bank_of_china/logo.svg?w=400&c=v0.59.26#w200) |[**Bank of China**](bank_of_china/)|`bank_of_china`| 
 |![bank_of_communication](https://static.openfintech.io/payment_methods/bank_of_communication/logo.svg?w=400&c=v0.59.26#w200) |[**Bank of Communication**](bank_of_communication/)|`bank_of_communication`| 
