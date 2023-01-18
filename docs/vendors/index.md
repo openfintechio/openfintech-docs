@@ -1033,6 +1033,7 @@
 |![northpayments](https://static.openfintech.io/vendors/northpayments/logo.png?w=600&c=v0.59.26#w200) |[**North Payments**](northpayments/)|`northpayments`| 
 |![novalnet](https://static.openfintech.io/vendors/novalnet/logo.png?w=600&c=v0.59.26#w200) |[**Novalnet AG**](novalnet/)|`novalnet`| 
 |![nrb](https://static.openfintech.io/vendors/nrb/logo.svg?w=600&c=v0.59.26#w200) |[**Nepal Rastra Bank**](nrb/)|`nrb`| 
+|![nummuspay](https://static.openfintech.io/vendors/nummuspay/logo.png?w=600&c=v0.59.26#w200) |[**NummusPay**](nummuspay/)|`nummuspay`| 
 |![nurbank](https://static.openfintech.io/vendors/nurbank/logo.svg?w=600&c=v0.59.26#w200) |[**Нурбанк**](nurbank/)|`nurbank`| 
 |![nxsystems](https://static.openfintech.io/vendors/nxsystems/logo.png?w=600&c=v0.59.26#w200) |[**NxSystems**](nxsystems/)|`nxsystems`| 
 || **O** ||
@@ -1251,6 +1252,7 @@
 |![paycore](https://static.openfintech.io/vendors/paycore/logo.svg?w=600&c=v0.59.26#w200) |[**PayCore.io**](paycore/)|`paycore`| 
 |![paycos](https://static.openfintech.io/vendors/paycos/logo.svg?w=600&c=v0.59.26#w200) |[**PAYCOS**](paycos/)|`paycos`| 
 |![payd](https://static.openfintech.io/vendors/payd/logo.png?w=600&c=v0.59.26#w200) |[**payD**](payd/)|`payd`| 
+|![paydex](https://static.openfintech.io/vendors/paydex/logo.svg?w=600&c=v0.59.26#w200) |[**Paydex**](paydex/)|`paydex`| 
 |![paydirekt](https://static.openfintech.io/vendors/paydirekt/logo.svg?w=600&c=v0.59.26#w200) |[**paydirekt**](paydirekt/)|`paydirekt`| 
 |![paydoo](https://static.openfintech.io/vendors/paydoo/logo.png?w=600&c=v0.59.26#w200) |[**Paynt**](paydoo/)|`paydoo`| 
 |![payease](https://static.openfintech.io/vendors/payease/logo.png?w=600&c=v0.59.26#w200) |[**PayEase**](payease/)|`payease`| 

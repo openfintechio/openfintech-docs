@@ -475,6 +475,7 @@
 |![nordpay](https://static.openfintech.io/payment_providers/nordpay/logo.png?w=600&c=v0.59.26#w100) |[**NORDPAY**](nordpay/)|`nordpay`| 
 |![northpayments](https://static.openfintech.io/payment_providers/northpayments/logo.png?w=600&c=v0.59.26#w100) |[**North Payments**](northpayments/)|`northpayments`| 
 |![novalnet](https://static.openfintech.io/payment_providers/novalnet/logo.png?w=600&c=v0.59.26#w100) |[**Novalnet AG**](novalnet/)|`novalnet`| 
+|![nummuspay](https://static.openfintech.io/payment_providers/nummuspay/logo.png?w=600&c=v0.59.26#w100) |[**NummusPay**](nummuspay/)|`nummuspay`| 
 |![nxsystems](https://static.openfintech.io/payment_providers/nxsystems/logo.png?w=600&c=v0.59.26#w100) |[**NxSystems**](nxsystems/)|`nxsystems`| 
 || **O** ||
 |![octopayz](https://static.openfintech.io/payment_providers/octopayz/logo.png?w=600&c=v0.59.26#w100) |[**Octopayz**](octopayz/)|`octopayz`| 
@@ -517,6 +518,7 @@
 |![paycific](https://static.openfintech.io/payment_providers/paycific/logo.png?w=600&c=v0.59.26#w100) |[**PayCific**](paycific/)|`paycific`| 
 |![payclub](https://static.openfintech.io/payment_providers/payclub/logo.png?w=600&c=v0.59.26#w100) |[**PayClub**](payclub/)|`payclub`| 
 |![paycos](https://static.openfintech.io/payment_providers/paycos/logo.svg?w=600&c=v0.59.26#w100) |[**PAYCOS**](paycos/)|`paycos`| 
+|![paydex](https://static.openfintech.io/payment_providers/paydex/logo.svg?w=600&c=v0.59.26#w100) |[**Paydex**](paydex/)|`paydex`| 
 |![paydoo](https://static.openfintech.io/payment_providers/paydoo/logo.png?w=600&c=v0.59.26#w100) |[**Paynt**](paydoo/)|`paydoo`| 
 |![payease](https://static.openfintech.io/payment_providers/payease/logo.png?w=600&c=v0.59.26#w100) |[**PayEase**](payease/)|`payease`| 
 |![payecards](https://static.openfintech.io/payment_providers/payecards/logo.png?w=600&c=v0.59.26#w100) |[**Payecards**](payecards/)|`payecards`| 
