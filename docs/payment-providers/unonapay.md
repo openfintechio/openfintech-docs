@@ -1,6 +1,6 @@
 
-# UNONAPAY 
-![unonapay](https://static.openfintech.io/payment_providers/unonapay/logo.svg?w=400&c=v0.59.26#w100)  
+# UnonaPay 
+![unonapay](https://static.openfintech.io/payment_providers/unonapay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -10,27 +10,27 @@
  
 **Name:** 
  
-:	[EN] UNONAPAY 
-:	[RU] UNONAPAY 
-:	[UK] UNONAPAY 
+:	[EN] UnonaPay 
+:	[RU] UnonaPay 
+:	[UK] UnonaPay 
  
 
 ## Images 
 
 ### Logo 
  
-![unonapay](https://static.openfintech.io/payment_providers/unonapay/logo.svg?w=400&c=v0.59.26#w100)  
+![unonapay](https://static.openfintech.io/payment_providers/unonapay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/unonapay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/unonapay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![unonapay](https://static.openfintech.io/payment_providers/unonapay/icon.svg?w=278&c=v0.59.26#w100)  
+![unonapay](https://static.openfintech.io/payment_providers/unonapay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/unonapay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/unonapay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"UNONAPAY",
-    "ru":"UNONAPAY",
-    "uk":"UNONAPAY"
+    "en":"UnonaPay",
+    "ru":"UnonaPay",
+    "uk":"UnonaPay"
   }
 }
 ```  

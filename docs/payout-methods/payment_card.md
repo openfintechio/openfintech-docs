@@ -321,7 +321,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![magicpayments](https://static.openfintech.io/payment_providers/magicpayments/icon.svg?w=278&c=v0.59.26#w100) |[Magic Payments](/payment-providers/magicpayments/)|`magicpayments`| 
 |![reeves](https://static.openfintech.io/payment_providers/reeves/icon.png?w=278&c=v0.59.26#w100) |[Reeves](/payment-providers/reeves/)|`reeves`| 
 |![eupaymentz](https://static.openfintech.io/payment_providers/eupaymentz/icon.png?w=278&c=v0.59.26#w100) |[EUPaymentz](/payment-providers/eupaymentz/)|`eupaymentz`| 
-|![unonapay](https://static.openfintech.io/payment_providers/unonapay/icon.svg?w=278&c=v0.59.26#w100) |[UNONAPAY](/payment-providers/unonapay/)|`unonapay`| 
+|![unonapay](https://static.openfintech.io/payment_providers/unonapay/icon.png?w=278&c=v0.59.26#w100) |[UnonaPay](/payment-providers/unonapay/)|`unonapay`| 
 |![1payment](https://static.openfintech.io/payment_providers/1payment/icon.svg?w=278&c=v0.59.26#w100) |[One Payment](/payment-providers/1payment/)|`1payment`| 
 |![payplay](https://static.openfintech.io/payment_providers/payplay/icon.png?w=278&c=v0.59.26#w100) |[PayPlay](/payment-providers/payplay/)|`payplay`| 
 |![realdeposits](https://static.openfintech.io/payment_providers/realdeposits/icon.png?w=278&c=v0.59.26#w100) |[Real Deposits](/payment-providers/realdeposits/)|`realdeposits`| 

@@ -1,6 +1,6 @@
 
-# UNONAPAY 
-![unonapay](https://static.openfintech.io/vendors/unonapay/logo.svg?w=400&c=v0.59.26#w200)  
+# UnonaPay 
+![unonapay](https://static.openfintech.io/vendors/unonapay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] UNONAPAY 
-:	[RU] UNONAPAY 
-:	[UK] UNONAPAY 
+:	[EN] UnonaPay 
+:	[RU] UnonaPay 
+:	[UK] UnonaPay 
  
 **Status:** `active` 
  
@@ -22,18 +22,18 @@
 
 ### Logo 
  
-![unonapay](https://static.openfintech.io/vendors/unonapay/logo.svg?w=400&c=v0.59.26#w200)  
+![unonapay](https://static.openfintech.io/vendors/unonapay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/unonapay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/unonapay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![unonapay](https://static.openfintech.io/vendors/unonapay/icon.svg?w=278&c=v0.59.26#w100)  
+![unonapay](https://static.openfintech.io/vendors/unonapay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/unonapay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/unonapay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/unonapay/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"unonapay",
   "name":{
-    "en":"UNONAPAY",
-    "ru":"UNONAPAY",
-    "uk":"UNONAPAY"
+    "en":"UnonaPay",
+    "ru":"UnonaPay",
+    "uk":"UnonaPay"
   },
   "status":"active",
   "description":null,
