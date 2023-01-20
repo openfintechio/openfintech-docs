@@ -10,7 +10,7 @@
  
 :	[EN] Platron 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Description:** 
  
@@ -45,7 +45,7 @@ https://static.openfintech.io/vendors/platron/icon.png?w=278&c=v0.59.26#w100
   "name":{
     "en":"Platron"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":{
     "en":" We offer organization of cash and electronic payments\u2019 receiving for any types of payments: credit cards, e-cash, payment services, mobile wallets, cash payments throughout Russia "
   },

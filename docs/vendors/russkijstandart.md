@@ -10,7 +10,7 @@
  
 :	[EN] Русский Стандарт 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 
 ## Images 
@@ -39,7 +39,7 @@ https://static.openfintech.io/vendors/russkijstandart/icon.svg?w=278&c=v0.59.26#
   "name":{
     "en":"\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":null,
   "countries":null,

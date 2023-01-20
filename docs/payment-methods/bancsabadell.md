@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] Banc Sabadell in Spain enables its customers to pay for goods and services bought over the internet using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement.  
+: [EN] Banc Sabadell in Spain enables its customers to pay for goods and services bought over the internet using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement. 
  
 **Category:** `online_banking` 
  
@@ -58,7 +58,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Banc Saba
     "en":"Banc Sabadell"
   },
   "description":{
-    "en":"Banc Sabadell in Spain enables its customers to\u00a0pay for goods and services bought over the internet using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement.\u00a0"
+    "en":"Banc Sabadell in Spain enables its customers to\u00a0pay for goods and services bought over the internet using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement."
   },
   "countries":[
     "ES"

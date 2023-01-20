@@ -11,7 +11,7 @@
 :	[EN] Yandex.Money 
 :	[RU] Яндекс Деньги 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 
 ## Images 
@@ -41,7 +41,7 @@ https://static.openfintech.io/vendors/yandeksdengi/icon.svg?w=278&c=v0.59.26#w10
     "en":"Yandex.Money",
     "ru":"\u042f\u043d\u0434\u0435\u043a\u0441 \u0414\u0435\u043d\u044c\u0433\u0438"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":null,
   "countries":null,

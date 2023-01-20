@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] Digital wallet Paylib allows French consumers to easily pay for their online and mobile purchases.  
+: [EN] Digital wallet Paylib allows French consumers to easily pay for their online and mobile purchases. 
  
 **Category:** `digital_wallet` 
  
@@ -56,7 +56,7 @@ The list of [Payment Providers](/payment-providers/) that support the _paylib_
     "en":"paylib"
   },
   "description":{
-    "en":"Digital wallet Paylib allows French consumers to easily pay for their online and mobile purchases.\u00a0"
+    "en":"Digital wallet Paylib allows French consumers to easily pay for their online and mobile purchases."
   },
   "countries":[
     "FR"

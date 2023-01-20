@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] BancNet cardholders can make online payment with their ATM Card.  
+: [EN] BancNet cardholders can make online payment with their ATM Card. 
  
 **Category:** `direct_debit` 
  
@@ -58,7 +58,7 @@ The list of [Payment Providers](/payment-providers/) that support the _BancNet_
     "en":"BancNet"
   },
   "description":{
-    "en":"BancNet cardholders can make online payment with their ATM Card.\u00a0"
+    "en":"BancNet cardholders can make online payment with their ATM Card."
   },
   "countries":[
     "PH"

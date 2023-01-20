@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] Crédit Agricole enables its online shoppers to pay for goods and services using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement.  
+: [EN] Crédit Agricole enables its online shoppers to pay for goods and services using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement. 
  
 **Category:** `online_banking` 
  
@@ -60,7 +60,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Crédit A
     "en":"Cr\u00e9dit Agricole"
   },
   "description":{
-    "en":"Cr\u00e9dit Agricole\u00a0enables its online shoppers to\u00a0pay for goods and services using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement.\u00a0"
+    "en":"Cr\u00e9dit Agricole\u00a0enables its online shoppers to\u00a0pay for goods and services using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement."
   },
   "countries":[
     "AX"

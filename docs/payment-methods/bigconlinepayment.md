@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] BIG C is a payment solution in Thailand that allows consumers to pay by cash or credit card for their online grocery purchases.  
+: [EN] BIG C is a payment solution in Thailand that allows consumers to pay by cash or credit card for their online grocery purchases. 
  
 **Category:** `alternative` 
  
@@ -56,7 +56,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Big C_
     "en":"Big C"
   },
   "description":{
-    "en":"BIG C is a payment solution in Thailand that allows consumers to pay by cash or credit card for their online grocery purchases.\u00a0"
+    "en":"BIG C is a payment solution in Thailand that allows consumers to pay by cash or credit card for their online grocery purchases."
   },
   "countries":[
     "TH"

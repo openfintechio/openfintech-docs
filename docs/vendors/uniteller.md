@@ -10,7 +10,7 @@
  
 :	[EN] Uniteller 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Description:** 
  
@@ -45,7 +45,7 @@ https://static.openfintech.io/vendors/uniteller/icon.png?w=278&c=v0.59.26#w100
   "name":{
     "en":"Uniteller"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":{
     "en":" Uniteller is the first independent preprocessing center in Russia ensuring reliable and secure payment processing services in all business spheres where modern types of noncash payment, including contactless ones, are made: e-Commerce, mobile and unattended payments, etc. "
   },

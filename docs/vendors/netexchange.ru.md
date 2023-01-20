@@ -10,7 +10,7 @@
  
 :	[EN] NetExchange 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Links:** 
 : website [http://www.netexchange.ru/](http://www.netexchange.ru/) 
@@ -42,7 +42,7 @@ https://static.openfintech.io/vendors/netexchange.ru/icon.svg?w=278&c=v0.59.26#w
   "name":{
     "en":"NetExchange"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":{
     "website":"http:\/\/www.netexchange.ru\/"

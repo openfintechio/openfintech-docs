@@ -10,7 +10,7 @@
  
 :	[EN] Central Bank of the Russian Federation 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 
 ## Images 
@@ -39,7 +39,7 @@ https://static.openfintech.io/vendors/cbr/icon.png?w=278&c=v0.59.26#w100
   "name":{
     "en":"Central Bank of the Russian Federation"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":null,
   "countries":null,

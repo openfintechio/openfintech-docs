@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] Millennium Bank in Poland enables its banking clients to shop online using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement.  
+: [EN] Millennium Bank in Poland enables its banking clients to shop online using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement. 
  
 **Category:** `online_banking` 
  
@@ -56,7 +56,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Millenium
     "en":"Millenium Bank"
   },
   "description":{
-    "en":"Millennium Bank in Poland enables\u00a0its banking clients to shop online using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement.\u00a0"
+    "en":"Millennium Bank in Poland enables\u00a0its banking clients to shop online using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement."
   },
   "countries":[
     "AX"

@@ -10,7 +10,7 @@
  
 :	[EN] Payture 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Description:** 
  
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/payture/icon.png?w=278&c=v0.59.26#w100
   "name":{
     "en":"Payture"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":{
     "en":" Payture is a leading international processing company in CIS expanding into Central and Eastern Europe. "
   },

@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] Mobikwik is India’s fastest growing mobile wallet solution. Mobikwik can be used for online and in-app purchases, mobile top-ups and bill payments (utilities, insurance). Already over 5 million Indian consumers use the Mobikwik wallet.  
+: [EN] Mobikwik is India’s fastest growing mobile wallet solution. Mobikwik can be used for online and in-app purchases, mobile top-ups and bill payments (utilities, insurance). Already over 5 million Indian consumers use the Mobikwik wallet. 
  
 **Category:** `digital_wallet` 
  
@@ -69,7 +69,7 @@ The list of [Payment Providers](/payment-providers/) that support the _MobiKwik_
     "en":"MobiKwik"
   },
   "description":{
-    "en":"Mobikwik is India\u2019s fastest growing mobile wallet solution. Mobikwik can be used for online and in-app purchases, mobile top-ups and bill payments (utilities, insurance). Already over 5 million Indian consumers use the Mobikwik wallet.\u00a0"
+    "en":"Mobikwik is India\u2019s fastest growing mobile wallet solution. Mobikwik can be used for online and in-app purchases, mobile top-ups and bill payments (utilities, insurance). Already over 5 million Indian consumers use the Mobikwik wallet."
   },
   "countries":[
     "IN"

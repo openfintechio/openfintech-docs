@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] A cheque (or check in American English) is a document that orders a payment of money from a bank account.  
+: [EN] A cheque (or check in American English) is a document that orders a payment of money from a bank account. 
  
 **Category:** `check` 
  
@@ -55,7 +55,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Paper Che
     "en":"Paper Check"
   },
   "description":{
-    "en":"A cheque (or check in American English) is a document that orders a payment of money from a bank account. "
+    "en":"A cheque (or check in American English) is a document that orders a payment of money from a bank account."
   },
   "countries":null,
   "category":"check"

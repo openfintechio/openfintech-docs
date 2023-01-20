@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] SafetyPay is a global, secure Internet payment solution that enables online banking customers to make online purchases from merchants worldwide and pay directly through their local bank account in their local currency.  
+: [EN] SafetyPay is a global, secure Internet payment solution that enables online banking customers to make online purchases from merchants worldwide and pay directly through their local bank account in their local currency. 
  
 **Category:** `online_banking` 
  
@@ -70,7 +70,7 @@ The list of [Payment Providers](/payment-providers/) that support the _SafetyPay
     "en":"SafetyPay"
   },
   "description":{
-    "en":"SafetyPay is a global, secure Internet payment solution that enables online banking customers to make online purchases from merchants worldwide and pay directly through their local bank account in their local currency.\u00a0"
+    "en":"SafetyPay is a global, secure Internet payment solution that enables online banking customers to make online purchases from merchants worldwide and pay directly through their local bank account in their local currency."
   },
   "countries":null,
   "category":"online_banking"

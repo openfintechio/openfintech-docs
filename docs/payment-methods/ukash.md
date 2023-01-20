@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] Ukash is a popular alternative payment brand, designed to help people use cash in the online world - bringing web retailers and cash consumers together in 57 countries on 6 continents.  
+: [EN] Ukash is a popular alternative payment brand, designed to help people use cash in the online world - bringing web retailers and cash consumers together in 57 countries on 6 continents. 
  
 **Category:** `prepaid_card` 
  
@@ -75,7 +75,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Ukash_
     "en":"Ukash"
   },
   "description":{
-    "en":"Ukash is a popular alternative payment brand, designed to help people use cash in the online world - bringing web retailers and cash consumers together in 57 countries on 6 continents.\u00a0"
+    "en":"Ukash is a popular alternative payment brand, designed to help people use cash in the online world - bringing web retailers and cash consumers together in 57 countries on 6 continents."
   },
   "countries":[
     "AU",

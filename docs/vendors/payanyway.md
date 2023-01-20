@@ -10,7 +10,7 @@
  
 :	[EN] PayAnyWay.com 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Description:** 
  
@@ -45,7 +45,7 @@ https://static.openfintech.io/vendors/payanyway/icon.png?w=278&c=v0.59.26#w100
   "name":{
     "en":"PayAnyWay.com"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":{
     "en":" "
   },

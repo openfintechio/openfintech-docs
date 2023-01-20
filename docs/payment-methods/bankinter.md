@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] Bank Inter in Spain enables its online shoppers to pay for goods and services using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement.  
+: [EN] Bank Inter in Spain enables its online shoppers to pay for goods and services using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement. 
  
 **Category:** `online_banking` 
  
@@ -57,7 +57,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Inte
     "en":"Bank Inter"
   },
   "description":{
-    "en":"Bank Inter\u00a0in Spain enables its online shoppers to\u00a0pay for goods and services using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement.\u00a0"
+    "en":"Bank Inter\u00a0in Spain enables its online shoppers to\u00a0pay for goods and services using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement."
   },
   "countries":[
     "ES"

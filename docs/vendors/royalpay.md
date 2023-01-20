@@ -12,7 +12,7 @@
 :	[RU] Royal Pay 
 :	[UK] Royal Pay 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Links:** 
 : website [https://royalpay.eu](https://royalpay.eu) 
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/royalpay/icon.svg?w=278&c=v0.59.26#w100
     "ru":"Royal Pay",
     "uk":"Royal Pay"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":{
     "website":"https:\/\/royalpay.eu"

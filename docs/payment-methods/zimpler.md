@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] Zimpler is a Swedish fintech company focused on simplifying mobile payments.  
+: [EN] Zimpler is a Swedish fintech company focused on simplifying mobile payments. 
  
 **Category:** `digital_wallet` 
  
@@ -56,7 +56,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Zimpler_
     "en":"Zimpler"
   },
   "description":{
-    "en":"Zimpler is a Swedish fintech company focused on simplifying mobile payments. "
+    "en":"Zimpler is a Swedish fintech company focused on simplifying mobile payments."
   },
   "countries":[
     "FJ",

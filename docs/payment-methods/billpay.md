@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] Billpay is a payment solution that enables shoppers to buy now and pay later. Billpay is available to customers and merchants with operations in Germany, Austria, Switzerland and the Netherlands.                   
+: [EN] Billpay is a payment solution that enables shoppers to buy now and pay later. Billpay is available to customers and merchants with operations in Germany, Austria, Switzerland and the Netherlands.                 
  
 **Category:** `invoice_payment` 
  
@@ -57,7 +57,7 @@ The list of [Payment Providers](/payment-providers/) that support the _BIllpay_
     "en":"BIllpay"
   },
   "description":{
-    "en":"Billpay is a payment solution that enables shoppers to buy now and pay later. Billpay is available to customers and merchants with operations in Germany, Austria, Switzerland and the Netherlands. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0"
+    "en":"Billpay is a payment solution that enables shoppers to buy now and pay later. Billpay is available to customers and merchants with operations in Germany, Austria, Switzerland and the Netherlands. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0"
   },
   "countries":[
     "AU",

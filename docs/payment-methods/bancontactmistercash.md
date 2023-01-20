@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] Bancontact/Mister Cash offers you an effective, online, real-time product, which is suitable for all forms of card payments.  
+: [EN] Bancontact/Mister Cash offers you an effective, online, real-time product, which is suitable for all forms of card payments. 
  
 **Category:** `payment_card` 
  
@@ -91,7 +91,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bancontac
     "en":"Bancontact\/Mister Cash"
   },
   "description":{
-    "en":"Bancontact\/Mister Cash offers you an effective, online, real-time product, which is suitable for all forms of card payments. "
+    "en":"Bancontact\/Mister Cash offers you an effective, online, real-time product, which is suitable for all forms of card payments."
   },
   "countries":[
     "BE"

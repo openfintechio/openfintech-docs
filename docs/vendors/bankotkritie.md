@@ -12,7 +12,7 @@
 :	[RU] Банк Открытие 
 :	[UK] Банк Открытие 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Links:** 
 : website [https://www.open.ru/](https://www.open.ru/) 
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/bankotkritie/icon.svg?w=278&c=v0.59.26#w10
     "ru":"\u0411\u0430\u043d\u043a \u041e\u0442\u043a\u0440\u044b\u0442\u0438\u0435",
     "uk":"\u0411\u0430\u043d\u043a \u041e\u0442\u043a\u0440\u044b\u0442\u0438\u0435"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":{
     "website":"https:\/\/www.open.ru\/"

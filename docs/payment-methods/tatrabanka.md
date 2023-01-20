@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] Tatra Banka in Slovakia enables its banking clients to shop online using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement.  
+: [EN] Tatra Banka in Slovakia enables its banking clients to shop online using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement. 
  
 **Category:** `online_banking` 
  
@@ -56,7 +56,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Tatra Ban
     "en":"Tatra Banka"
   },
   "description":{
-    "en":"Tatra Banka in Slovakia\u00a0enables\u00a0its banking clients to shop online using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement.\u00a0"
+    "en":"Tatra Banka in Slovakia\u00a0enables\u00a0its banking clients to shop online using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement."
   },
   "countries":[
     "SK"

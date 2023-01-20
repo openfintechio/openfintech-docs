@@ -15,7 +15,7 @@
  
 **Description:** 
  
-: [EN] ING Bank enables its customers to shop online using online bank transfers as payment method. Consumers use their trusted home banking environment, merchants benefit from payment guarantee and swift settlement.  
+: [EN] ING Bank enables its customers to shop online using online bank transfers as payment method. Consumers use their trusted home banking environment, merchants benefit from payment guarantee and swift settlement. 
  
 **Category:** `online_banking` 
  
@@ -62,7 +62,7 @@ The list of [Payment Providers](/payment-providers/) that support the _ING Bank 
     "uk":"\u0406\u041d\u0413 \u0411\u0430\u043d\u043a | \u0406\u0441\u043f\u0430\u043d\u0456\u044f"
   },
   "description":{
-    "en":"ING Bank enables its customers to shop online using online bank transfers as payment method. Consumers use their trusted home banking environment, merchants benefit from payment guarantee and swift settlement.\u00a0"
+    "en":"ING Bank enables its customers to shop online using online bank transfers as payment method. Consumers use their trusted home banking environment, merchants benefit from payment guarantee and swift settlement."
   },
   "countries":[
     "AX",

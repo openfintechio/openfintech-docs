@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] Barzahlen offers cash payment solutions to online shops and a secure, transparent payment method to customers in Germany.  
+: [EN] Barzahlen offers cash payment solutions to online shops and a secure, transparent payment method to customers in Germany. 
  
 **Category:** `invoice_payment` 
  
@@ -59,7 +59,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Barzahlen
     "en":"Barzahlen"
   },
   "description":{
-    "en":"Barzahlen offers cash payment solutions to online shops and a secure, transparent payment method to customers in Germany. "
+    "en":"Barzahlen offers cash payment solutions to online shops and a secure, transparent payment method to customers in Germany."
   },
   "countries":[
     "DE"

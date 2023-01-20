@@ -12,7 +12,7 @@
 :	[RU] Tome 
 :	[UK] Tome 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Links:** 
 : website [https://tome.ru](https://tome.ru) 
@@ -50,7 +50,7 @@ https://static.openfintech.io/vendors/tome/icon.svg?w=278&c=v0.59.26#w100
     "ru":"Tome",
     "uk":"Tome"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":{
     "website":"https:\/\/tome.ru"

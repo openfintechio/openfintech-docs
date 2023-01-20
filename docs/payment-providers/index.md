@@ -57,7 +57,6 @@
 |![aretosystems](https://static.openfintech.io/payment_providers/aretosystems/logo.png?w=600&c=v0.59.26#w100) |[**Areto Systems**](aretosystems/)|`aretosystems`| 
 |![arvatofinance](https://static.openfintech.io/payment_providers/arvatofinance/logo.svg?w=600&c=v0.59.26#w100) |[**arvato Finance Services Ltd.**](arvatofinance/)|`arvatofinance`| 
 |![asiapay](https://static.openfintech.io/payment_providers/asiapay/logo.png?w=600&c=v0.59.26#w100) |[**AsiaPay**](asiapay/)|`asiapay`| 
-|![assist](https://static.openfintech.io/payment_providers/assist/logo.png?w=600&c=v0.59.26#w100) |[**ASSIST**](assist/)|`assist`| 
 |![astropay](https://static.openfintech.io/payment_providers/astropay/logo.svg?w=600&c=v0.59.26#w100) |[**AstroPay**](astropay/)|`astropay`| 
 |![atosworldline](https://static.openfintech.io/payment_providers/atosworldline/logo.png?w=600&c=v0.59.26#w100) |[**Worldline**](atosworldline/)|`atosworldline`| 
 |![australpay](https://static.openfintech.io/payment_providers/australpay/logo.png?w=600&c=v0.59.26#w100) |[**AustralPay**](australpay/)|`australpay`| 
@@ -205,6 +204,7 @@
 |![decta](https://static.openfintech.io/payment_providers/decta/logo.svg?w=600&c=v0.59.26#w100) |[**Decta**](decta/)|`decta`| 
 |![dectasoap](https://static.openfintech.io/payment_providers/dectasoap/logo.svg?w=600&c=v0.59.26#w100) |[**DectaSoap**](dectasoap/)|`dectasoap`| 
 |![dengionline](https://static.openfintech.io/payment_providers/dengionline/logo.png?w=600&c=v0.59.26#w100) |[**Dengi Online**](dengionline/)|`dengionline`| 
+|![deprecated](https://static.openfintech.io/payment_providers/deprecated/logo.svg?w=600&c=v0.59.26#w100) |[**ASSIST**](deprecated/)|`deprecated`| 
 |![deutschepayment](https://static.openfintech.io/payment_providers/deutschepayment/logo.png?w=600&c=v0.59.26#w100) |[**Deutsche Payment**](deutschepayment/)|`deutschepayment`| 
 |![dialup](https://static.openfintech.io/payment_providers/dialup/logo.svg?w=600&c=v0.59.26#w100) |[**Dialup**](dialup/)|`dialup`| 
 |![dialxs](https://static.openfintech.io/payment_providers/dialxs/logo.png?w=600&c=v0.59.26#w100) |[**DialXS**](dialxs/)|`dialxs`| 

@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] The HDFC Bank's online banking (netbanking) service allows its customers to pay online from their home banking application.  
+: [EN] The HDFC Bank's online banking (netbanking) service allows its customers to pay online from their home banking application. 
  
 **Category:** `online_banking` 
  
@@ -59,7 +59,7 @@ The list of [Payment Providers](/payment-providers/) that support the _HDFC Bank
     "en":"HDFC Bank Netbanking"
   },
   "description":{
-    "en":"The HDFC Bank's online banking (netbanking) service allows its customers to pay online from their home banking application.\u00a0"
+    "en":"The HDFC Bank's online banking (netbanking) service allows its customers to pay online from their home banking application."
   },
   "countries":[
     "IN"

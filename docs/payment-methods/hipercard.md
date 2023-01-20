@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] Hipercard is a Brazilian credit card brand owned by Itau. Hipercard is next to MasterCard and Visa one of the popular credit cards used for online purchases in Brazil.  
+: [EN] Hipercard is a Brazilian credit card brand owned by Itau. Hipercard is next to MasterCard and Visa one of the popular credit cards used for online purchases in Brazil. 
  
 **Category:** `payment_card` 
  
@@ -71,7 +71,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Hipercard
     "en":"Hipercard"
   },
   "description":{
-    "en":"Hipercard is a Brazilian credit card brand owned by Itau. Hipercard is next to MasterCard and Visa one of the popular credit cards used for online purchases in Brazil.\u00a0"
+    "en":"Hipercard is a Brazilian credit card brand owned by Itau. Hipercard is next to MasterCard and Visa one of the popular credit cards used for online purchases in Brazil."
   },
   "countries":[
     "BR"

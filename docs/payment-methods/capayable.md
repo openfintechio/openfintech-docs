@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] Capayable is a Dutch innovative payment solution for webshops. Capayable provides pay after delivery and a unique new payment solution: pay in three installments without interest!        
+: [EN] Capayable is a Dutch innovative payment solution for webshops. Capayable provides pay after delivery and a unique new payment solution: pay in three installments without interest!       
  
 **Category:** `cash_payment` 
  
@@ -57,7 +57,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Capayable
     "en":"Capayable"
   },
   "description":{
-    "en":"Capayable is a Dutch innovative payment solution for webshops. Capayable provides pay after delivery and a unique new payment solution: pay in three installments without interest! \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0"
+    "en":"Capayable is a Dutch innovative payment solution for webshops. Capayable provides pay after delivery and a unique new payment solution: pay in three installments without interest! \u00a0\u00a0\u00a0\u00a0\u00a0"
   },
   "countries":[
     "NL"

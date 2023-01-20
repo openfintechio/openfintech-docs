@@ -10,7 +10,7 @@
  
 :	[EN] PayOnline 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Description:** 
  
@@ -50,7 +50,7 @@ https://static.openfintech.io/vendors/payonline/icon.png?w=278&c=v0.59.26#w100
   "name":{
     "en":"PayOnline"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":{
     "en":" PayOnline develops and successfully implements modern payment solutions for websites and mobile apps. For all types of business. Worldwide. PayOnline gives e-commerce and m-commerce companies the opportunity to accept payments online and in-app. The company operates in the global market for over 10 years and has a vast geographic footprint: Europe, Russia, Central Asia, USA, Canada. Company provides modern payment technologies: person-to-person, one-click, recurrent payments, - and up-to-date technologies for m-commerce: SDK for Android, iOS, Windows apps. Our clients accept payments by credit cards, MasterPass and popular e-Wallets. We care about our customers and provide them and our payer a multi-channel support. PayOnline is certified by PCI DSS Level 1 and is the official service provider of VISA and MasterCard. "
   },

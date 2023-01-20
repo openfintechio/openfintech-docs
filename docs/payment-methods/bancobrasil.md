@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] Banco do Brasil allow its banking clients to use online banking to complete their online purchases. Merchants benefit from payment guarantee and swift settlement.  
+: [EN] Banco do Brasil allow its banking clients to use online banking to complete their online purchases. Merchants benefit from payment guarantee and swift settlement. 
  
 **Category:** `online_banking` 
  
@@ -47,7 +47,7 @@ https://static.openfintech.io/payment_methods/bancobrasil/icon.png?w=278&c=v0.59
     "en":"Banco do Brasil"
   },
   "description":{
-    "en":"Banco do Brasil allow its banking clients to use online banking to complete their online purchases. Merchants\u00a0benefit from payment guarantee and swift settlement.\u00a0"
+    "en":"Banco do Brasil allow its banking clients to use online banking to complete their online purchases. Merchants\u00a0benefit from payment guarantee and swift settlement."
   },
   "countries":[
     "BR"

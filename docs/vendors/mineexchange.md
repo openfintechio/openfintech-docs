@@ -12,7 +12,7 @@
 :	[RU] MineExchange 
 :	[UK] MineExchange 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Links:** 
 : website [https://mine.exchange](https://mine.exchange) 
@@ -50,7 +50,7 @@ https://static.openfintech.io/vendors/mineexchange/icon.png?w=278&c=v0.59.26#w10
     "ru":"MineExchange",
     "uk":"MineExchange"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":{
     "website":"https:\/\/mine.exchange"

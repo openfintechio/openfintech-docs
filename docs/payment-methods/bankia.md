@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] Bankia in Spain enables its online shoppers to pay for goods and services using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement.  
+: [EN] Bankia in Spain enables its online shoppers to pay for goods and services using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement. 
  
 **Category:** `online_banking` 
  
@@ -57,7 +57,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bankia_
     "en":"Bankia"
   },
   "description":{
-    "en":"Bankia\u00a0in Spain enables its online shoppers to\u00a0pay for goods and services using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement.\u00a0"
+    "en":"Bankia\u00a0in Spain enables its online shoppers to\u00a0pay for goods and services using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement."
   },
   "countries":[
     "ES"

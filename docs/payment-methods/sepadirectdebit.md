@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] The SEPA Direct Debit enables to make pan-European collections in euro's on a one-off or recurrent basis.  
+: [EN] The SEPA Direct Debit enables to make pan-European collections in euro's on a one-off or recurrent basis. 
  
 **Category:** `direct_debit` 
  
@@ -82,7 +82,7 @@ The list of [Payment Providers](/payment-providers/) that support the _SEPA Dire
     "en":"SEPA Direct Debit"
   },
   "description":{
-    "en":"The SEPA Direct Debit enables to make pan-European collections in euro's on a one-off or recurrent basis.\u00a0"
+    "en":"The SEPA Direct Debit enables to make pan-European collections in euro's on a one-off or recurrent basis."
   },
   "countries":[
     "AL",

@@ -17,7 +17,7 @@
  
 **Countries:** 
  
-:	![UA](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ua.svg#w24) 	![RU](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ru.svg#w24)  
+:	![UA](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ua.svg#w24)  
 
 ## Images 
 
@@ -55,8 +55,7 @@ The list of supported [Payment Methods](/payment-methods/)
   "vendor":"forwardbank",
   "categories":null,
   "countries":[
-    "UA",
-    "RU"
+    "UA"
   ],
   "payment_method":[
     "payment_card"

@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] UnionPay International (“UPI”) is a wholly owned subsidiary of China UnionPay , established in Nov 2012.  
+: [EN] UnionPay International (“UPI”) is a wholly owned subsidiary of China UnionPay , established in Nov 2012. 
  
 **Category:** `payment_card` 
  
@@ -98,7 +98,7 @@ The list of [Payment Providers](/payment-providers/) that support the _China Uni
     "en":"China UnionPay"
   },
   "description":{
-    "en":"UnionPay International (\u201cUPI\u201d) is a wholly owned subsidiary of China UnionPay , established in Nov 2012.\u00a0"
+    "en":"UnionPay International (\u201cUPI\u201d) is a wholly owned subsidiary of China UnionPay , established in Nov 2012."
   },
   "countries":[
     "AU",

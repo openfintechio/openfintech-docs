@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] Slovenská Sporitelña in Slovakia enables its banking clients to shop online using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement.  
+: [EN] Slovenská Sporitelña in Slovakia enables its banking clients to shop online using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement. 
  
 **Category:** `online_banking` 
  
@@ -56,7 +56,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Slovensk�
     "en":"Slovensk\u00e1 Sporitel\u00f1a"
   },
   "description":{
-    "en":"Slovensk\u00e1 Sporitel\u00f1a in Slovakia enables\u00a0its banking clients to shop online using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement.\u00a0"
+    "en":"Slovensk\u00e1 Sporitel\u00f1a in Slovakia enables\u00a0its banking clients to shop online using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement."
   },
   "countries":[
     "SK"

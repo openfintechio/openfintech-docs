@@ -10,7 +10,7 @@
  
 :	[EN] Wallet One 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Description:** 
  
@@ -45,7 +45,7 @@ https://static.openfintech.io/vendors/walletonecheckout/icon.png?w=278&c=v0.59.2
   "name":{
     "en":"Wallet One"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":{
     "en":" Whatever your online-shop needs \u2014 Join Wallet One Checkout! "
   },

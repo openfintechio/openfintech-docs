@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] DOKU wallet acts as a virtual wallet and can be used by Indonesian shoppers only. DOKU wallet users can purchase goods and services online by using their topped up value. Top-ups can be done via credit cards, online bank transfer or cash payment.  
+: [EN] DOKU wallet acts as a virtual wallet and can be used by Indonesian shoppers only. DOKU wallet users can purchase goods and services online by using their topped up value. Top-ups can be done via credit cards, online bank transfer or cash payment. 
  
 **Category:** `digital_wallet` 
  
@@ -53,7 +53,7 @@ The list of [Payment Providers](/payment-providers/) that support the _DOKU Wall
     "en":"DOKU Wallet"
   },
   "description":{
-    "en":"DOKU wallet acts as a virtual wallet and can be used by Indonesian shoppers only. DOKU wallet users can purchase goods and services online by using their topped up value. Top-ups can be done via credit cards, online bank transfer or cash payment.\u00a0"
+    "en":"DOKU wallet acts as a virtual wallet and can be used by Indonesian shoppers only. DOKU wallet users can purchase goods and services online by using their topped up value. Top-ups can be done via credit cards, online bank transfer or cash payment."
   },
   "countries":null,
   "category":"digital_wallet"

@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] Visa Debit is a major brand of debit card issued by Visa in many countries around the world.  
+: [EN] Visa Debit is a major brand of debit card issued by Visa in many countries around the world. 
  
 **Category:** `payment_card` 
  
@@ -115,7 +115,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Visa Debi
     "en":"Visa Debit"
   },
   "description":{
-    "en":"Visa Debit is a major brand of debit card issued by Visa in many countries around the world.\u00a0"
+    "en":"Visa Debit is a major brand of debit card issued by Visa in many countries around the world."
   },
   "countries":null,
   "category":"payment_card"

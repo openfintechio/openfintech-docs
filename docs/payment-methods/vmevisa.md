@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] V.me simplifies the payment experience for online or in-app shoppers.  
+: [EN] V.me simplifies the payment experience for online or in-app shoppers. 
  
 **Category:** `digital_wallet` 
  
@@ -58,7 +58,7 @@ The list of [Payment Providers](/payment-providers/) that support the _V.me by V
     "en":"V.me by Visa"
   },
   "description":{
-    "en":"V.me simplifies the payment experience for online or in-app shoppers. "
+    "en":"V.me simplifies the payment experience for online or in-app shoppers."
   },
   "countries":[
     "BE",

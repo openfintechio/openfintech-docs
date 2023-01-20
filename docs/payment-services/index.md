@@ -629,7 +629,7 @@
 |![Public Bank Vietnam](https://static.openfintech.io/payment_methods/public_bank_vietnam/logo.png?w=400&c=v0.59.26#w200) |[**Public Bank Vietnam**](/payment-methods/public_bank_vietnam/)|[`public_bank_vietnam_vnd_hpp`](public_bank_vietnam_vnd_hpp/)| 
 |![Punjab National Bank](https://static.openfintech.io/payment_methods/punjab_national_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Punjab National Bank**](/payment-methods/punjab_national_bank/)|[`punjab_national_bank_inr_hpp`](punjab_national_bank_inr_hpp/)| 
 |![Punjab & Sind Bank](https://static.openfintech.io/payment_methods/punjab_sind_bank/logo.png?w=400&c=v0.59.26#w200) |[**Punjab & Sind Bank**](/payment-methods/punjab_sind_bank/)|[`punjab_sind_bank_inr_hpp`](punjab_sind_bank_inr_hpp/)| 
-|![Vietnam Public Joint Stock Commercial Bank ](https://static.openfintech.io/payment_methods/pvcom_bank/logo.png?w=400&c=v0.59.26#w200) |[**Vietnam Public Joint Stock Commercial Bank **](/payment-methods/pvcom_bank/)|[`pvcom_bank_vnd_hpp`](pvcom_bank_vnd_hpp/)| 
+|![Vietnam Public Joint Stock Commercial Bank](https://static.openfintech.io/payment_methods/pvcom_bank/logo.png?w=400&c=v0.59.26#w200) |[**Vietnam Public Joint Stock Commercial Bank**](/payment-methods/pvcom_bank/)|[`pvcom_bank_vnd_hpp`](pvcom_bank_vnd_hpp/)| 
 ||| **Q** ||
 |![VISA QIWI Wallet](https://static.openfintech.io/payment_methods/qiwi/logo.svg?w=400&c=v0.59.26#w200) |[**VISA QIWI Wallet**](/payment-methods/qiwi/)|[`qiwi_eur_hpp`](qiwi_eur_hpp/)| 
 |![VISA QIWI Wallet](https://static.openfintech.io/payment_methods/qiwi/logo.svg?w=400&c=v0.59.26#w200) |[**VISA QIWI Wallet**](/payment-methods/qiwi/)|[`qiwi_kzt_hpp`](qiwi_kzt_hpp/)| 

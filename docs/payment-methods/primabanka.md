@@ -15,7 +15,7 @@
  
 **Description:** 
  
-: [EN] Prima Banka enables its banking clients to shop online using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement.  
+: [EN] Prima Banka enables its banking clients to shop online using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement. 
  
 **Category:** `online_banking` 
  
@@ -60,7 +60,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Prima Ban
     "uk":"\u041f\u0440\u0456\u043c\u0430 \u0411\u0430\u043d\u043a"
   },
   "description":{
-    "en":"Prima Banka\u00a0enables\u00a0its banking clients to shop online using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement.\u00a0"
+    "en":"Prima Banka\u00a0enables\u00a0its banking clients to shop online using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement."
   },
   "countries":[
     "SK"

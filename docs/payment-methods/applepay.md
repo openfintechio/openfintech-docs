@@ -15,7 +15,7 @@
  
 **Description:** 
  
-: [EN] Apple Pay is the new mobile payment system by Apple. Apple Pay uses NFC technology for contactless payments in store, and can be used for online and in-app purchases.  
+: [EN] Apple Pay is the new mobile payment system by Apple. Apple Pay uses NFC technology for contactless payments in store, and can be used for online and in-app purchases. 
  
 **Category:** `digital_wallet` 
  
@@ -88,7 +88,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Apple Pay
     "uk":"Apple Pay"
   },
   "description":{
-    "en":"Apple Pay is the new mobile payment system by Apple. Apple Pay uses NFC technology for contactless payments in store, and can be used for online and in-app purchases.\u00a0"
+    "en":"Apple Pay is the new mobile payment system by Apple. Apple Pay uses NFC technology for contactless payments in store, and can be used for online and in-app purchases."
   },
   "countries":[
     "UM"

@@ -10,7 +10,7 @@
  
 :	[EN] RBK Money 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Description:** 
  
@@ -45,7 +45,7 @@ https://static.openfintech.io/vendors/rbkmoney/icon.png?w=278&c=v0.59.26#w100
   "name":{
     "en":"RBK Money"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":{
     "en":" RBK Money is a leader in electronic payments in Russia and CIS region. We offer safe online payments via e-wallet, credit and debit cards and via it's extensive cash payments network as well as instant money transfers and bill payments, POS payment acceptance via RBK Card, digital content distribution and RBK Money Visa card.\u00a0 We serve and partner with many leading online businesses in Russia and abroad, including Warganing.Net, Softkey, VKontakte, MTS, BigPoint, WorldPay, InComm and many others. Our total merchant base is more than 40 000 businesses and around 5 500 000 end-customers have their eWallet with us.\u00a0 "
   },

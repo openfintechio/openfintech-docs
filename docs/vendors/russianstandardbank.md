@@ -12,7 +12,7 @@
 :	[RU] Руский Стандарт Банк 
 :	[UK] Російскьий Стандарт Банк 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Links:** 
 : website [https://www.rsb.ru](https://www.rsb.ru) 
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/russianstandardbank/icon.png?w=278&c=v0.59
     "ru":"\u0420\u0443\u0441\u043a\u0438\u0439 \u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0411\u0430\u043d\u043a",
     "uk":"\u0420\u043e\u0441\u0456\u0439\u0441\u043a\u044c\u0438\u0439 \u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0411\u0430\u043d\u043a"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":{
     "website":"https:\/\/www.rsb.ru"

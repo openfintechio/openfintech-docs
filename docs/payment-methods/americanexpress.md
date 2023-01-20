@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] American Express is a credit or charge card that can be used for online payments. American Express is amongst the major credit card brands in the world.   
+: [EN] American Express is a credit or charge card that can be used for online payments. American Express is amongst the major credit card brands in the world. 
  
 **Category:** `payment_card` 
  
@@ -115,7 +115,7 @@ The list of [Payment Providers](/payment-providers/) that support the _American 
 |![multicards](https://static.openfintech.io/payment_providers/multicards/icon.png?w=278&c=v0.59.26#w100) |[MultiCards Internet Billing](/payment-providers/multicards/)|`multicards`| 
 |![2c2p](https://static.openfintech.io/payment_providers/2c2p/icon.png?w=278&c=v0.59.26#w100) |[2C2P](/payment-providers/2c2p/)|`2c2p`| 
 |![ccvpay](https://static.openfintech.io/payment_providers/ccvpay/icon.png?w=278&c=v0.59.26#w100) |[CCV Pay](/payment-providers/ccvpay/)|`ccvpay`| 
-|![assist](https://static.openfintech.io/payment_providers/assist/icon.png?w=278&c=v0.59.26#w100) |[ASSIST](/payment-providers/assist/)|`assist`| 
+|![deprecated](https://static.openfintech.io/payment_providers/deprecated/icon.svg?w=278&c=v0.59.26#w100) |[ASSIST](/payment-providers/deprecated/)|`deprecated`| 
 |![payfort](https://static.openfintech.io/payment_providers/payfort/icon.png?w=278&c=v0.59.26#w100) |[PayFort](/payment-providers/payfort/)|`payfort`| 
 |![yuupay](https://static.openfintech.io/payment_providers/yuupay/icon.png?w=278&c=v0.59.26#w100) |[YuuPay ](/payment-providers/yuupay/)|`yuupay`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
@@ -133,7 +133,7 @@ The list of [Payment Providers](/payment-providers/) that support the _American 
     "en":"American Express"
   },
   "description":{
-    "en":"American Express is a credit or charge card that can be used for online payments. American Express is amongst the major credit card brands in the world. \u00a0"
+    "en":"American Express is a credit or charge card that can be used for online payments. American Express is amongst the major credit card brands in the world."
   },
   "countries":null,
   "category":"payment_card"

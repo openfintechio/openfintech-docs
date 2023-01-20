@@ -1,5 +1,5 @@
 
-# Vietnam Public Joint Stock Commercial Bank  (service) 
+# Vietnam Public Joint Stock Commercial Bank (service) 
 ![pvcom_bank_vnd_hpp](https://static.openfintech.io/payment_methods/pvcom_bank_vnd_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -13,9 +13,9 @@
  
 **Name:** 
  
-:	[EN] Vietnam Public Joint Stock Commercial Bank  
-:	[RU] Vietnam Public Joint Stock Commercial Bank  
-:	[UK] Vietnam Public Joint Stock Commercial Bank  
+:	[EN] Vietnam Public Joint Stock Commercial Bank 
+:	[RU] Vietnam Public Joint Stock Commercial Bank 
+:	[UK] Vietnam Public Joint Stock Commercial Bank 
  
 **Amount limits:** from `1` to `2500000000` VND 
 

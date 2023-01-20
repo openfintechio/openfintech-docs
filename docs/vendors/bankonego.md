@@ -12,7 +12,7 @@
 :	[RU] BankOnego 
 :	[UK] BankOnego 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Links:** 
 : website [https://onegobank.ru](https://onegobank.ru) 
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/bankonego/icon.svg?w=278&c=v0.59.26#w100
     "ru":"BankOnego",
     "uk":"BankOnego"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":{
     "website":"https:\/\/onegobank.ru"

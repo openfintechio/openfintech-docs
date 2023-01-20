@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] Poštová banka in Slovakia enables its banking clients to shop online using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement.  
+: [EN] Poštová banka in Slovakia enables its banking clients to shop online using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement. 
  
 **Category:** `online_banking` 
  
@@ -56,7 +56,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Postová 
     "en":"Postov\u00e1 Banka"
   },
   "description":{
-    "en":"Po\u0161tov\u00e1 banka\u00a0in Slovakia enables\u00a0its banking clients to shop online using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement.\u00a0"
+    "en":"Po\u0161tov\u00e1 banka\u00a0in Slovakia enables\u00a0its banking clients to shop online using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement."
   },
   "countries":[
     "SK"

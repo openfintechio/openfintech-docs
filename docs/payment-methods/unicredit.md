@@ -15,7 +15,7 @@
  
 **Description:** 
  
-: [EN] UniCredit enables its online shoppers to pay for goods and services using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement.  
+: [EN] UniCredit enables its online shoppers to pay for goods and services using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement. 
  
 **Category:** `online_banking` 
  
@@ -64,7 +64,7 @@ The list of [Payment Providers](/payment-providers/) that support the _UniCredit
     "uk":"\u042e\u043d\u0456\u041a\u0440\u0435\u0434\u0438\u0442"
   },
   "description":{
-    "en":"UniCredit\u00a0enables its online shoppers to\u00a0pay for goods and services using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement.\u00a0"
+    "en":"UniCredit\u00a0enables its online shoppers to\u00a0pay for goods and services using online bank transfers as payment method. Merchants benefit from payment guarantee and swift settlement."
   },
   "countries":[
     "BG",

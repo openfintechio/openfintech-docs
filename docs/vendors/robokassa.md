@@ -10,7 +10,7 @@
  
 :	[EN] Robokassa 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Description:** 
  
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/robokassa/icon.png?w=278&c=v0.59.26#w100
   "name":{
     "en":"Robokassa"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":{
     "en":" One of the leading Russian e-commerce payment integrators with 10000+ merchants Russia-wide. "
   },

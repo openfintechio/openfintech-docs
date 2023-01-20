@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] Payshop is a Portugese online checkout method whereby consumers pay for their internet purchases at Payshop accepting brick-and-mortar shops. Shoppers get an Payshop 'invoice' which they pay in cash or via electronic payment at a physical location.  
+: [EN] Payshop is a Portugese online checkout method whereby consumers pay for their internet purchases at Payshop accepting brick-and-mortar shops. Shoppers get an Payshop 'invoice' which they pay in cash or via electronic payment at a physical location. 
  
 **Category:** `cash_payment` 
  
@@ -58,7 +58,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payshop_
     "en":"Payshop"
   },
   "description":{
-    "en":"Payshop is a Portugese online checkout method whereby consumers pay for their internet purchases at Payshop accepting brick-and-mortar shops. Shoppers get an Payshop 'invoice' which they pay in cash or via electronic payment at a physical location.\u00a0"
+    "en":"Payshop is a Portugese online checkout method whereby consumers pay for their internet purchases at Payshop accepting brick-and-mortar shops. Shoppers get an Payshop 'invoice' which they pay in cash or via electronic payment at a physical location."
   },
   "countries":[
     "PT"

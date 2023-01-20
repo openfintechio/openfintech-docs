@@ -212,7 +212,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![2c2p](https://static.openfintech.io/payment_providers/2c2p/icon.png?w=278&c=v0.59.26#w100) |[2C2P](/payment-providers/2c2p/)|`2c2p`| 
 |![ccvpay](https://static.openfintech.io/payment_providers/ccvpay/icon.png?w=278&c=v0.59.26#w100) |[CCV Pay](/payment-providers/ccvpay/)|`ccvpay`| 
 |![paymentbillsservice](https://static.openfintech.io/payment_providers/paymentbillsservice/icon.png?w=278&c=v0.59.26#w100) |[PaymentBillsService](/payment-providers/paymentbillsservice/)|`paymentbillsservice`| 
-|![assist](https://static.openfintech.io/payment_providers/assist/icon.png?w=278&c=v0.59.26#w100) |[ASSIST](/payment-providers/assist/)|`assist`| 
+|![deprecated](https://static.openfintech.io/payment_providers/deprecated/icon.svg?w=278&c=v0.59.26#w100) |[ASSIST](/payment-providers/deprecated/)|`deprecated`| 
 |![aibmerchantservices](https://static.openfintech.io/payment_providers/aibmerchantservices/icon.png?w=278&c=v0.59.26#w100) |[AIB Merchant Services](/payment-providers/aibmerchantservices/)|`aibmerchantservices`| 
 |![payfort](https://static.openfintech.io/payment_providers/payfort/icon.png?w=278&c=v0.59.26#w100) |[PayFort](/payment-providers/payfort/)|`payfort`| 
 |![yuupay](https://static.openfintech.io/payment_providers/yuupay/icon.png?w=278&c=v0.59.26#w100) |[YuuPay ](/payment-providers/yuupay/)|`yuupay`| 

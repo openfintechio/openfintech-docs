@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] Zapp is the UK’s leading mobile payment innovation. Zapp allows you to receive instant payments from customers using the simplest mobile enabled checkout process, meaning businesses can sell more whilst keeping costs low.  
+: [EN] Zapp is the UK’s leading mobile payment innovation. Zapp allows you to receive instant payments from customers using the simplest mobile enabled checkout process, meaning businesses can sell more whilst keeping costs low. 
  
 **Category:** `digital_wallet` 
  
@@ -44,7 +44,7 @@ https://static.openfintech.io/payment_methods/zapp/icon.png?w=278&c=v0.59.26#w10
     "en":"Zapp"
   },
   "description":{
-    "en":"Zapp is the UK\u2019s leading mobile payment innovation.\u00a0Zapp allows you to receive instant payments from customers using the simplest mobile enabled checkout process, meaning businesses can sell more whilst keeping costs low.\u00a0"
+    "en":"Zapp is the UK\u2019s leading mobile payment innovation.\u00a0Zapp allows you to receive instant payments from customers using the simplest mobile enabled checkout process, meaning businesses can sell more whilst keeping costs low."
   },
   "countries":null,
   "category":"digital_wallet"
