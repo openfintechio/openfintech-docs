@@ -1714,6 +1714,7 @@
 |![unicredit](https://static.openfintech.io/vendors/unicredit/logo.png?w=600&c=v0.59.26#w200) |[**UniCredit**](unicredit/)|`unicredit`| 
 |![uniex.co](https://static.openfintech.io/vendors/uniex.co/logo.svg?w=600&c=v0.59.26#w200) |[**uniex.co**](uniex.co/)|`uniex.co`| 
 |![uniobmen.ru](https://static.openfintech.io/vendors/uniobmen.ru/logo.svg?w=600&c=v0.59.26#w200) |[**Uniobmen.ru**](uniobmen.ru/)|`uniobmen.ru`| 
+|![uniongate](https://static.openfintech.io/vendors/uniongate/logo.png?w=600&c=v0.59.26#w200) |[**UnionGate**](uniongate/)|`uniongate`| 
 |![unionpay](https://static.openfintech.io/vendors/unionpay/logo.svg?w=600&c=v0.59.26#w200) |[**UnionPay**](unionpay/)|`unionpay`| 
 |![unitedoverseasbankuobnetbanking](https://static.openfintech.io/vendors/unitedoverseasbankuobnetbanking/logo.png?w=600&c=v0.59.26#w200) |[**UOB netbanking**](unitedoverseasbankuobnetbanking/)|`unitedoverseasbankuobnetbanking`| 
 |![uniteller](https://static.openfintech.io/vendors/uniteller/logo.png?w=600&c=v0.59.26#w200) |[**Uniteller**](uniteller/)|`uniteller`| 

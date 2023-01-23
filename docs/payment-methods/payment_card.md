@@ -404,6 +404,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![usbxpay](https://static.openfintech.io/payment_providers/usbxpay/icon.png?w=278&c=v0.59.26#w100) |[USBxPAY](/payment-providers/usbxpay/)|`usbxpay`| 
 |![paydex](https://static.openfintech.io/payment_providers/paydex/icon.svg?w=278&c=v0.59.26#w100) |[Paydex](/payment-providers/paydex/)|`paydex`| 
 |![nummuspay](https://static.openfintech.io/payment_providers/nummuspay/icon.png?w=278&c=v0.59.26#w100) |[NummusPay](/payment-providers/nummuspay/)|`nummuspay`| 
+|![uniongate](https://static.openfintech.io/payment_providers/uniongate/icon.png?w=278&c=v0.59.26#w100) |[UnionGate](/payment-providers/uniongate/)|`uniongate`| 
  
 
 ## JSON Object 
