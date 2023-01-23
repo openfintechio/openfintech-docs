@@ -1,5 +1,5 @@
 
-# Krungthai Bank 
+# Krung Thai Bank 
 ![krung_thai_bank](https://static.openfintech.io/payment_methods/krung_thai_bank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,7 +7,7 @@
  
 **Name:** 
  
-:	[EN] Krungthai Bank 
+:	[EN] Krung Thai Bank 
  
 **Category:** `bank_transfer` 
  
@@ -30,7 +30,7 @@ https://static.openfintech.io/payment_methods/krung_thai_bank/icon.svg?w=278&c=v
 
 ## Payout Services 
  
-The list of [Payout Services](/payout-services/) based on the _Krungthai Bank_ 
+The list of [Payout Services](/payout-services/) based on the _Krung Thai Bank_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -39,11 +39,12 @@ The list of [Payout Services](/payout-services/) based on the _Krungthai Bank_
 
 ## Payment Providers 
  
-The list of [Payment Providers](/payment-providers/) that support the _Krungthai Bank_ 
+The list of [Payment Providers](/payment-providers/) that support the _Krung Thai Bank_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![paysec](https://static.openfintech.io/payment_providers/paysec/icon.png?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
+|![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
  
 
 ## JSON Object 
@@ -53,7 +54,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Krungthai
   "code":"krung_thai_bank",
   "vendor":null,
   "name":{
-    "en":"Krungthai Bank"
+    "en":"Krung Thai Bank"
   },
   "description":null,
   "countries":null,

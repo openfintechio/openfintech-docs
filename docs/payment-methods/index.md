@@ -152,6 +152,7 @@
 |![cimb_clicks_bank](https://static.openfintech.io/payment_methods/cimb_clicks_bank/logo.png?w=400&c=v0.59.26#w200) |[**CIMB Clicks Bank**](cimb_clicks_bank/)|`cimb_clicks_bank`| 
 |![cimb_clicks_indonesia](https://static.openfintech.io/payment_methods/cimb_clicks_indonesia/logo.png?w=400&c=v0.59.26#w200) |[**CIMB Clicks Indonesia**](cimb_clicks_indonesia/)|`cimb_clicks_indonesia`| 
 |![cimb_niaga](https://static.openfintech.io/payment_methods/cimb_niaga/logo.svg?w=400&c=v0.59.26#w200) |[**Bank CIMB Niaga**](cimb_niaga/)|`cimb_niaga`| 
+|![cimb_thai_bank](https://static.openfintech.io/payment_methods/cimb_thai_bank/logo.svg?w=400&c=v0.59.26#w200) |[**CIMB Thai Bank Public Company Limited**](cimb_thai_bank/)|`cimb_thai_bank`| 
 |![cimbclicksinternetbanking](https://static.openfintech.io/payment_methods/cimbclicksinternetbanking/logo.png?w=400&c=v0.59.26#w200) |[**CIMBClicks**](cimbclicksinternetbanking/)|`cimbclicksinternetbanking`| 
 |![citadelelatvia](https://static.openfintech.io/payment_methods/citadelelatvia/logo.png?w=400&c=v0.59.26#w200) |[**Citadele Latvia**](citadelelatvia/)|`citadelelatvia`| 
 |![citi_bank](https://static.openfintech.io/payment_methods/citi_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Citibank**](citi_bank/)|`citi_bank`| 
@@ -236,6 +237,8 @@
 |![giropay](https://static.openfintech.io/payment_methods/giropay/logo.svg?w=400&c=v0.59.26#w200) |[**Giropay**](giropay/)|`giropay`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/logo.svg?w=400&c=v0.59.26#w200) |[**Google Pay**](googlepay/)|`googlepay`| 
 |![googlewallet](https://static.openfintech.io/payment_methods/googlewallet/logo.svg?w=400&c=v0.59.26#w200) |[**Google Wallet**](googlewallet/)|`googlewallet`| 
+|![government_housing_bank](https://static.openfintech.io/payment_methods/government_housing_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Government Housing Bank**](government_housing_bank/)|`government_housing_bank`| 
+|![government_savings_bank](https://static.openfintech.io/payment_methods/government_savings_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Government Savings Bank**](government_savings_bank/)|`government_savings_bank`| 
 |![gp_bank](https://static.openfintech.io/payment_methods/gp_bank/logo.png?w=400&c=v0.59.26#w200) |[**Global Petro Sole Member Limited Commercial Bank**](gp_bank/)|`gp_bank`| 
 || **H** ||
 |![halo_pesa](https://static.openfintech.io/payment_methods/halo_pesa/logo.png?w=400&c=v0.59.26#w200) |[**Halo pessa**](halo_pesa/)|`halo_pesa`| 
@@ -246,6 +249,7 @@
 |![hdfc_bank](https://static.openfintech.io/payment_methods/hdfc_bank/logo.svg?w=400&c=v0.59.26#w200) |[**HDFC Bank**](hdfc_bank/)|`hdfc_bank`| 
 |![hdfcbanknetbankingindia](https://static.openfintech.io/payment_methods/hdfcbanknetbankingindia/logo.png?w=400&c=v0.59.26#w200) |[**HDFC Bank Netbanking**](hdfcbanknetbankingindia/)|`hdfcbanknetbankingindia`| 
 |![hipercard](https://static.openfintech.io/payment_methods/hipercard/logo.png?w=400&c=v0.59.26#w200) |[**Hipercard**](hipercard/)|`hipercard`| 
+|![hong_kong_shanghai_bank](https://static.openfintech.io/payment_methods/hong_kong_shanghai_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Hong Kong Shanghai Bank**](hong_kong_shanghai_bank/)|`hong_kong_shanghai_bank`| 
 |![hong_leong_bank](https://static.openfintech.io/payment_methods/hong_leong_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Hong Leong Bank**](hong_leong_bank/)|`hong_leong_bank`| 
 |![hsbc_bank_indonesia](https://static.openfintech.io/payment_methods/hsbc_bank_indonesia/logo.svg?w=400&c=v0.59.26#w200) |[**HSBC Bank Indonesia**](hsbc_bank_indonesia/)|`hsbc_bank_indonesia`| 
 |![hsbc_bank_malaysia_berhad](https://static.openfintech.io/payment_methods/hsbc_bank_malaysia_berhad/logo.svg?w=400&c=v0.59.26#w200) |[**HSBC Bank Malaysia**](hsbc_bank_malaysia_berhad/)|`hsbc_bank_malaysia_berhad`| 
@@ -295,6 +299,7 @@
 |![kasikornbankkbanknetbanking](https://static.openfintech.io/payment_methods/kasikornbankkbanknetbanking/logo.png?w=400&c=v0.59.26#w200) |[**Kbank netbanking**](kasikornbankkbanknetbanking/)|`kasikornbankkbanknetbanking`| 
 |![kbcbetaalknop](https://static.openfintech.io/payment_methods/kbcbetaalknop/logo.png?w=400&c=v0.59.26#w200) |[**KBC / CBC Online**](kbcbetaalknop/)|`kbcbetaalknop`| 
 |![khipu](https://static.openfintech.io/payment_methods/khipu/logo.svg?w=400&c=v0.59.26#w200) |[**Khipu**](khipu/)|`khipu`| 
+|![kiatnakin_bank](https://static.openfintech.io/payment_methods/kiatnakin_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Kiatnakin Bank**](kiatnakin_bank/)|`kiatnakin_bank`| 
 |![kien_long_bank](https://static.openfintech.io/payment_methods/kien_long_bank/logo.png?w=400&c=v0.59.26#w200) |[**Kien Long Commercial Joint - Stock Bank**](kien_long_bank/)|`kien_long_bank`| 
 |![kievstar](https://static.openfintech.io/payment_methods/kievstar/logo.png?w=400&c=v0.59.26#w200) |[**Kievstar**](kievstar/)|`kievstar`| 
 |![komercnibanka](https://static.openfintech.io/payment_methods/komercnibanka/logo.png?w=400&c=v0.59.26#w200) |[**Komercni Banka**](komercnibanka/)|`komercnibanka`| 
@@ -305,6 +310,7 @@
 |![krung_thai_bank](https://static.openfintech.io/payment_methods/krung_thai_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Krung Thai Bank**](krung_thai_bank/)|`krung_thai_bank`| 
 |![krungsri](https://static.openfintech.io/payment_methods/krungsri/logo.png?w=400&c=v0.59.26#w200) |[**Krungsri (Bank of Ayudhya Public Company Limited)**](krungsri/)|`krungsri`| 
 |![krungsrinetbanking](https://static.openfintech.io/payment_methods/krungsrinetbanking/logo.png?w=400&c=v0.59.26#w200) |[**Krungsri netbanking**](krungsrinetbanking/)|`krungsrinetbanking`| 
+|![krungthai_bank](https://static.openfintech.io/payment_methods/krungthai_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Krungthai Bank**](krungthai_bank/)|`krungthai_bank`| 
 |![krungthaibanknetbanking](https://static.openfintech.io/payment_methods/krungthaibanknetbanking/logo.png?w=400&c=v0.59.26#w200) |[**Krungthai Bank netbanking**](krungthaibanknetbanking/)|`krungthaibanknetbanking`| 
 |![kviku](https://static.openfintech.io/payment_methods/kviku/logo.png?w=400&c=v0.59.26#w200) |[**Kviku**](kviku/)|`kviku`| 
 |![kwangju_bank](https://static.openfintech.io/payment_methods/kwangju_bank/logo.png?w=400&c=v0.59.26#w200) |[**Kwangju Bank**](kwangju_bank/)|`kwangju_bank`| 
@@ -312,6 +318,7 @@
 || **L** ||
 |![lacaixa](https://static.openfintech.io/payment_methods/lacaixa/logo.png?w=400&c=v0.59.26#w200) |[**La Caixa**](lacaixa/)|`lacaixa`| 
 |![lakshmi_vilas_bank_india](https://static.openfintech.io/payment_methods/lakshmi_vilas_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Lakshmi Vilas Bank**](lakshmi_vilas_bank_india/)|`lakshmi_vilas_bank_india`| 
+|![land_and_houses_bank](https://static.openfintech.io/payment_methods/land_and_houses_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Land and Houses Bank Public Company Limited**](land_and_houses_bank/)|`land_and_houses_bank`| 
 |![lansforsakringar](https://static.openfintech.io/payment_methods/lansforsakringar/logo.png?w=400&c=v0.59.26#w200) |[**Länsförsäkringar**](lansforsakringar/)|`lansforsakringar`| 
 |![latam](https://static.openfintech.io/payment_methods/latam/logo.svg?w=400&c=v0.59.26#w200) |[**Latam**](latam/)|`latam`| 
 |![laxmi_vilas_bank](https://static.openfintech.io/payment_methods/laxmi_vilas_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Lakshmi Vilas Bank**](laxmi_vilas_bank/)|`laxmi_vilas_bank`| 
@@ -540,6 +547,7 @@
 |![standard_charter_bank](https://static.openfintech.io/payment_methods/standard_charter_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Standard Charter Bank**](standard_charter_bank/)|`standard_charter_bank`| 
 |![standard_chartered_bank_india](https://static.openfintech.io/payment_methods/standard_chartered_bank_india/logo.svg?w=400&c=v0.59.26#w200) |[**Standard Chartered Bank India**](standard_chartered_bank_india/)|`standard_chartered_bank_india`| 
 |![standard_chartered_bank_korea](https://static.openfintech.io/payment_methods/standard_chartered_bank_korea/logo.svg?w=400&c=v0.59.26#w200) |[**Standard Chartered Bank Korea**](standard_chartered_bank_korea/)|`standard_chartered_bank_korea`| 
+|![standard_chartered_bank_thai](https://static.openfintech.io/payment_methods/standard_chartered_bank_thai/logo.svg?w=400&c=v0.59.26#w200) |[**Standard Chartered Bank (Thai) PCL.**](standard_chartered_bank_thai/)|`standard_chartered_bank_thai`| 
 |![standard_chartered_bank_vietnam](https://static.openfintech.io/payment_methods/standard_chartered_bank_vietnam/logo.png?w=400&c=v0.59.26#w200) |[**Standard Chartered Bank (Vietnam) Limited**](standard_chartered_bank_vietnam/)|`standard_chartered_bank_vietnam`| 
 |![standardbank](https://static.openfintech.io/payment_methods/standardbank/logo.png?w=400&c=v0.59.26#w200) |[**Standart Bank**](standardbank/)|`standardbank`| 
 |![state_bank_of_india](https://static.openfintech.io/payment_methods/state_bank_of_india/logo.svg?w=400&c=v0.59.26#w200) |[**State Bank of India**](state_bank_of_india/)|`state_bank_of_india`| 
@@ -565,6 +573,8 @@
 |![tescolotus](https://static.openfintech.io/payment_methods/tescolotus/logo.png?w=400&c=v0.59.26#w200) |[**Tesco Lotus**](tescolotus/)|`tescolotus`| 
 |![test](https://static.openfintech.io/payment_methods/test/logo.png?w=400&c=v0.59.26#w200) |[**Test**](test/)|`test`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](tether/)|`tether`| 
+|![thai_military_bank](https://static.openfintech.io/payment_methods/thai_military_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Thai Military Bank**](thai_military_bank/)|`thai_military_bank`| 
+|![thai_qr_payment](https://static.openfintech.io/payment_methods/thai_qr_payment/logo.svg?w=400&c=v0.59.26#w200) |[**Thai QR Payment**](thai_qr_payment/)|`thai_qr_payment`| 
 |![thaimilitarybanktmbnetbanking](https://static.openfintech.io/payment_methods/thaimilitarybanktmbnetbanking/logo.png?w=400&c=v0.59.26#w200) |[**Thai Military Bank**](thaimilitarybanktmbnetbanking/)|`thaimilitarybanktmbnetbanking`| 
 |![ticketpremium](https://static.openfintech.io/payment_methods/ticketpremium/logo.png?w=400&c=v0.59.26#w200) |[**Ticket Premium**](ticketpremium/)|`ticketpremium`| 
 |![tigo_pesa](https://static.openfintech.io/payment_methods/tigo_pesa/logo.png?w=400&c=v0.59.26#w200) |[**Tigo pesa**](tigo_pesa/)|`tigo_pesa`| 
@@ -589,6 +599,7 @@
 |![united_bank_of_india](https://static.openfintech.io/payment_methods/united_bank_of_india/logo.svg?w=400&c=v0.59.26#w200) |[**United Bank Of India**](united_bank_of_india/)|`united_bank_of_india`| 
 |![united_overseas_bank_berhad](https://static.openfintech.io/payment_methods/united_overseas_bank_berhad/logo.svg?w=400&c=v0.59.26#w200) |[**United Overseas Bank Malaysia**](united_overseas_bank_berhad/)|`united_overseas_bank_berhad`| 
 |![united_overseas_bank_indonesia](https://static.openfintech.io/payment_methods/united_overseas_bank_indonesia/logo.svg?w=400&c=v0.59.26#w200) |[**United Overseas Bank Indonesia**](united_overseas_bank_indonesia/)|`united_overseas_bank_indonesia`| 
+|![united_overseas_bank_thai](https://static.openfintech.io/payment_methods/united_overseas_bank_thai/logo.svg?w=400&c=v0.59.26#w200) |[**United Overseas Bank (Thai) PCL**](united_overseas_bank_thai/)|`united_overseas_bank_thai`| 
 |![unitedoverseasbankuobnetbanking](https://static.openfintech.io/payment_methods/unitedoverseasbankuobnetbanking/logo.png?w=400&c=v0.59.26#w200) |[**UOB netbanking**](unitedoverseasbankuobnetbanking/)|`unitedoverseasbankuobnetbanking`| 
 |![uobt](https://static.openfintech.io/payment_methods/uobt/logo.svg?w=400&c=v0.59.26#w200) |[**UOBT**](uobt/)|`uobt`| 
 |![upi](https://static.openfintech.io/payment_methods/upi/logo.svg?w=400&c=v0.59.26#w200) |[**UPI**](upi/)|`upi`| 

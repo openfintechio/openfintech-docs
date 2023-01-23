@@ -1,5 +1,5 @@
 
-# Krungthai Bank (service) 
+# Krung Thai Bank (service) 
 ![krung_thai_bank_thb](https://static.openfintech.io/payout_methods/krung_thai_bank_thb/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,7 +12,7 @@
  
 **Name:** 
  
-:	[EN] Krungthai Bank 
+:	[EN] Krung Thai Bank 
  
 **Amount limits:** from `350` to `175000` THB 
 
