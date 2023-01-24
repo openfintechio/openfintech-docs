@@ -1239,6 +1239,7 @@
 |![pay2kassa](https://static.openfintech.io/vendors/pay2kassa/logo.svg?w=600&c=v0.59.26#w200) |[**Pay2Kassa**](pay2kassa/)|`pay2kassa`| 
 |![pay4](https://static.openfintech.io/vendors/pay4/logo.png?w=600&c=v0.59.26#w200) |[**PAY4**](pay4/)|`pay4`| 
 |![pay4bit.biz](https://static.openfintech.io/vendors/pay4bit.biz/logo.svg?w=600&c=v0.59.26#w200) |[**Pay4Bit**](pay4bit.biz/)|`pay4bit.biz`| 
+|![payabl](https://static.openfintech.io/vendors/payabl/logo.png?w=600&c=v0.59.26#w200) |[**Payabl.**](payabl/)|`payabl`| 
 |![payanyway](https://static.openfintech.io/vendors/payanyway/logo.png?w=600&c=v0.59.26#w200) |[**PayAnyWay.com**](payanyway/)|`payanyway`| 
 |![payassist](https://static.openfintech.io/vendors/payassist/logo.png?w=600&c=v0.59.26#w200) |[**PayAssist**](payassist/)|`payassist`| 
 |![payboutique](https://static.openfintech.io/vendors/payboutique/logo.png?w=600&c=v0.59.26#w200) |[**Payboutique **](payboutique/)|`payboutique`| 

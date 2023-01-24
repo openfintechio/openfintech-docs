@@ -2490,6 +2490,7 @@
 |![yandexmoney](https://static.openfintech.io/payout_methods/yandexmoney/logo.svg?w=400&c=v0.59.26#w24) |[**Yandex.Money**](yandexmoney/)|`yandexmoney`| 
 |![yaodu_rural_credit_union](https://static.openfintech.io/payout_methods/yaodu_rural_credit_union/logo.svg?w=400&c=v0.59.26#w24) |[**YAODU RURAL CREDIT UNION**](yaodu_rural_credit_union/)|`yaodu_rural_credit_union`| 
 |![yezzz](https://static.openfintech.io/payout_methods/yezzz/logo.png?w=400&c=v0.59.26#w24) |[**Yezzz!**](yezzz/)|`yezzz`| 
+|![yoomoney](https://static.openfintech.io/payout_methods/yoomoney/logo.svg?w=400&c=v0.59.26#w24) |[**YooMoney**](yoomoney/)|`yoomoney`| 
 || **Z** ||
 |![za-mistom](https://static.openfintech.io/payout_methods/za-mistom/logo.png?w=400&c=v0.59.26#w24) |[**For Misto**](za-mistom/)|`za-mistom`| 
 |![zachepilovskii-rem-ak-kharkivoblenergo](https://static.openfintech.io/payout_methods/zachepilovskii-rem-ak-kharkivoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Zachepilovsky RES AK 'Kharkivoblenergo'**](zachepilovskii-rem-ak-kharkivoblenergo/)|`zachepilovskii-rem-ak-kharkivoblenergo`| 

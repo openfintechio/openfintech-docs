@@ -2326,6 +2326,7 @@
 |![Yandex.Money](https://static.openfintech.io/payout_methods/yandexmoney/logo.svg?w=400&c=v0.59.26#w24) |[**Yandex.Money**](/payout-methods/yandexmoney/)|[`yandexmoney_rub`](yandexmoney_rub/)|`RUB`| 
 |![YAODU RURAL CREDIT UNION](https://static.openfintech.io/payout_methods/yaodu_rural_credit_union/logo.svg?w=400&c=v0.59.26#w24) |[**YAODU RURAL CREDIT UNION**](/payout-methods/yaodu_rural_credit_union/)|[`yaodu_rural_credit_union_cny`](yaodu_rural_credit_union_cny/)|`CNY`| 
 |![Yezzz!](https://static.openfintech.io/payout_methods/yezzz/logo.png?w=400&c=v0.59.26#w24) |[**Yezzz!**](/payout-methods/yezzz/)|[`yezzz_uah`](yezzz_uah/)|`UAH`| 
+|![YooMoney](https://static.openfintech.io/payout_methods/yoomoney/logo.svg?w=400&c=v0.59.26#w24) |[**YooMoney**](/payout-methods/yoomoney/)|[`yoomoney_rub`](yoomoney_rub/)|`RUB`| 
 ||| **Z** ||
 |![For Misto](https://static.openfintech.io/payout_methods/za-mistom/logo.png?w=400&c=v0.59.26#w24) |[**For Misto**](/payout-methods/za-mistom/)|[`za-mistom_uah`](za-mistom_uah/)|`UAH`| 
 |![Зачепіловський РЕМ АК "Харківобленерго" (за послуги до 31.12.2018)](https://static.openfintech.io/payout_methods/zachepilovskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Зачепіловський РЕМ АК "Харківобленерго" (за послуги до 31.12.2018)**](/payout-methods/zachepilovskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|[`zachepilovskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018_uah`](zachepilovskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018_uah/)|`UAH`| 
