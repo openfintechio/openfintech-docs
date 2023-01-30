@@ -102,6 +102,7 @@
 |![billsafe](https://static.openfintech.io/payment_methods/billsafe/logo.png?w=400&c=v0.59.26#w200) |[**BillSAFE**](billsafe/)|`billsafe`| 
 |![binance_coin](https://static.openfintech.io/payment_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Coin**](binance_coin/)|`binance_coin`| 
 |![binance_smart_chain](https://static.openfintech.io/payment_methods/binance_smart_chain/logo.png?w=400&c=v0.59.26#w200) |[**Binance smart chain**](binance_smart_chain/)|`binance_smart_chain`| 
+|![binance_usd](https://static.openfintech.io/payment_methods/binance_usd/logo.png?w=400&c=v0.59.26#w200) |[**Binance Usd**](binance_usd/)|`binance_usd`| 
 |![binancepay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](binancepay/)|`binancepay`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](bitcoin/)|`bitcoin`| 
 |![bitcoin_cash](https://static.openfintech.io/payment_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w200) |[**Bitcoin Cash**](bitcoin_cash/)|`bitcoin_cash`| 
@@ -181,6 +182,7 @@
 |![debitobradesco](https://static.openfintech.io/payment_methods/debitobradesco/logo.png?w=400&c=v0.59.26#w200) |[**Debito Bradesco**](debitobradesco/)|`debitobradesco`| 
 |![deutsche_bank_india](https://static.openfintech.io/payment_methods/deutsche_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Deutsche Bank AG India**](deutsche_bank_india/)|`deutsche_bank_india`| 
 |![dhanalaxmi_bank_india](https://static.openfintech.io/payment_methods/dhanalaxmi_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Dhanlaxmi Bank**](dhanalaxmi_bank_india/)|`dhanalaxmi_bank_india`| 
+|![digital_cash](https://static.openfintech.io/payment_methods/digital_cash/logo.png?w=400&c=v0.59.26#w200) |[**Digital Cash**](digital_cash/)|`digital_cash`| 
 |![dinersclub](https://static.openfintech.io/payment_methods/dinersclub/logo.svg?w=400&c=v0.59.26#w200) |[**Diners Club International**](dinersclub/)|`dinersclub`| 
 |![directdebit](https://static.openfintech.io/payment_methods/directdebit/logo.png?w=400&c=v0.59.26#w200) |[**Direct Debit**](directdebit/)|`directdebit`| 
 |![discover](https://static.openfintech.io/payment_methods/discover/logo.svg?w=400&c=v0.59.26#w200) |[**Discover**](discover/)|`discover`| 
@@ -451,6 +453,7 @@
 |![pix](https://static.openfintech.io/payment_methods/pix/logo.svg?w=400&c=v0.59.26#w200) |[**PIX**](pix/)|`pix`| 
 |![pix_qr](https://static.openfintech.io/payment_methods/pix_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Pix Qr**](pix_qr/)|`pix_qr`| 
 |![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/logo.png?w=400&c=v0.59.26#w200) |[**POLi Payments**](polipayonline/)|`polipayonline`| 
+|![polygon](https://static.openfintech.io/payment_methods/polygon/logo.svg?w=400&c=v0.59.26#w200) |[**Polygon**](polygon/)|`polygon`| 
 |![poppankki](https://static.openfintech.io/payment_methods/poppankki/logo.png?w=400&c=v0.59.26#w200) |[**POP Pankki**](poppankki/)|`poppankki`| 
 |![postepay](https://static.openfintech.io/payment_methods/postepay/logo.png?w=400&c=v0.59.26#w200) |[**Postepay**](postepay/)|`postepay`| 
 |![postfinancecard](https://static.openfintech.io/payment_methods/postfinancecard/logo.png?w=400&c=v0.59.26#w200) |[**PostFinance Card**](postfinancecard/)|`postfinancecard`| 
@@ -580,6 +583,7 @@
 |![tigo_pesa](https://static.openfintech.io/payment_methods/tigo_pesa/logo.png?w=400&c=v0.59.26#w200) |[**Tigo pesa**](tigo_pesa/)|`tigo_pesa`| 
 |![tinkoff](https://static.openfintech.io/payment_methods/tinkoff/logo.png?w=400&c=v0.59.26#w200) |[**Tinkoff**](tinkoff/)|`tinkoff`| 
 |![toditocash](https://static.openfintech.io/payment_methods/toditocash/logo.png?w=400&c=v0.59.26#w200) |[**Todito Cash**](toditocash/)|`toditocash`| 
+|![toncoin](https://static.openfintech.io/payment_methods/toncoin/logo.png?w=400&c=v0.59.26#w200) |[**Toncoin**](toncoin/)|`toncoin`| 
 |![tp_bank](https://static.openfintech.io/payment_methods/tp_bank/logo.png?w=400&c=v0.59.26#w200) |[**Tien Phong Commercial Joint Stock Bank**](tp_bank/)|`tp_bank`| 
 |![transfer_bancaria](https://static.openfintech.io/payment_methods/transfer_bancaria/logo.svg?w=400&c=v0.59.26#w200) |[**Transfer Bancaria**](transfer_bancaria/)|`transfer_bancaria`| 
 |![tranzzo](https://static.openfintech.io/payment_methods/tranzzo/logo.png?w=400&c=v0.59.26#w200) |[**Tranzzo**](tranzzo/)|`tranzzo`| 

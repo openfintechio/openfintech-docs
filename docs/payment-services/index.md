@@ -109,6 +109,7 @@
 |![BIDV Bank](https://static.openfintech.io/payment_methods/bidv_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BIDV Bank**](/payment-methods/bidv_bank/)|[`bidv_bank_vnd_hpp`](bidv_bank_vnd_hpp/)| 
 |![Binance Coin](https://static.openfintech.io/payment_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Coin**](/payment-methods/binance_coin/)|[`binance_coin_bnb_hpp`](binance_coin_bnb_hpp/)| 
 |![Binance smart chain](https://static.openfintech.io/payment_methods/binance_smart_chain/logo.png?w=400&c=v0.59.26#w200) |[**Binance smart chain**](/payment-methods/binance_smart_chain/)|[`binance_smart_chain_bep20_bnb_hpp`](binance_smart_chain_bep20_bnb_hpp/)| 
+|![Binance Usd](https://static.openfintech.io/payment_methods/binance_usd/logo.png?w=400&c=v0.59.26#w200) |[**Binance Usd**](/payment-methods/binance_usd/)|[`binance_usd_busd_hpp`](binance_usd_busd_hpp/)| 
 |![Binance Pay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](/payment-methods/binancepay/)|[`binancepay_uah_hpp`](binancepay_uah_hpp/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_bch_hpp`](bitcoin_bch_hpp/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_bch_invoice`](bitcoin_bch_invoice/)| 
@@ -225,6 +226,7 @@
 |![Development Credit Bank](https://static.openfintech.io/payment_methods/dcb_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Development Credit Bank**](/payment-methods/dcb_bank_india/)|[`dcb_bank_india_inr_hpp`](dcb_bank_india_inr_hpp/)| 
 |![Deutsche Bank AG India](https://static.openfintech.io/payment_methods/deutsche_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Deutsche Bank AG India**](/payment-methods/deutsche_bank_india/)|[`deutsche_bank_india_inr_hpp`](deutsche_bank_india_inr_hpp/)| 
 |![Dhanlaxmi Bank](https://static.openfintech.io/payment_methods/dhanalaxmi_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Dhanlaxmi Bank**](/payment-methods/dhanalaxmi_bank_india/)|[`dhanalaxmi_bank_india_inr_hpp`](dhanalaxmi_bank_india_inr_hpp/)| 
+|![Digital Cash](https://static.openfintech.io/payment_methods/digital_cash/logo.png?w=400&c=v0.59.26#w200) |[**Digital Cash**](/payment-methods/digital_cash/)|[`digital_cash_dash_hpp`](digital_cash_dash_hpp/)| 
 |![Diners Club International](https://static.openfintech.io/payment_methods/dinersclub/logo.svg?w=400&c=v0.59.26#w200) |[**Diners Club International**](/payment-methods/dinersclub/)|[`dinersclub_eur_hpp`](dinersclub_eur_hpp/)| 
 |![Direct Debit](https://static.openfintech.io/payment_methods/directdebit/logo.png?w=400&c=v0.59.26#w200) |[**Direct Debit**](/payment-methods/directdebit/)|[`directdebit_eur_hpp`](directdebit_eur_hpp/)| 
 |![Dogecoin](https://static.openfintech.io/payment_methods/dogecoin/logo.svg?w=400&c=v0.59.26#w200) |[**Dogecoin**](/payment-methods/dogecoin/)|[`dogecoin_doge_hpp`](dogecoin_doge_hpp/)| 
@@ -617,6 +619,7 @@
 |![Pix Qr](https://static.openfintech.io/payment_methods/pix_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Pix Qr**](/payment-methods/pix_qr/)|[`pix_qr_brl_invoice`](pix_qr_brl_invoice/)| 
 |![PIX](https://static.openfintech.io/payment_methods/pix/logo.svg?w=400&c=v0.59.26#w200) |[**PIX**](/payment-methods/pix/)|[`pix_usd_hpp`](pix_usd_hpp/)| 
 |![POLi Payments](https://static.openfintech.io/payment_methods/polipayonline/logo.png?w=400&c=v0.59.26#w200) |[**POLi Payments**](/payment-methods/polipayonline/)|[`polipayonline_aud_hpp`](polipayonline_aud_hpp/)| 
+|![Polygon](https://static.openfintech.io/payment_methods/polygon/logo.svg?w=400&c=v0.59.26#w200) |[**Polygon**](/payment-methods/polygon/)|[`polygon_matic_hpp`](polygon_matic_hpp/)| 
 |![Postepay](https://static.openfintech.io/payment_methods/postepay/logo.png?w=400&c=v0.59.26#w200) |[**Postepay**](/payment-methods/postepay/)|[`postepay_eur_hpp`](postepay_eur_hpp/)| 
 |![Privat24](https://static.openfintech.io/payment_methods/privat24/logo.svg?w=400&c=v0.59.26#w200) |[**Privat24**](/payment-methods/privat24/)|[`privat24_eur_hpp`](privat24_eur_hpp/)| 
 |![Privat24](https://static.openfintech.io/payment_methods/privat24/logo.svg?w=400&c=v0.59.26#w200) |[**Privat24**](/payment-methods/privat24/)|[`privat24_rub_hpp`](privat24_rub_hpp/)| 
@@ -748,6 +751,7 @@
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_erc20_usdt_invoice`](tether_erc20_usdt_invoice/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_eur_invoice`](tether_eur_invoice/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_ltc_invoice`](tether_ltc_invoice/)| 
+|![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_polygon_usdt_hpp`](tether_polygon_usdt_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_rub_invoice`](tether_rub_invoice/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_trc20_eur_hpp`](tether_trc20_eur_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_trc20_uah_hpp`](tether_trc20_uah_hpp/)| 
@@ -762,6 +766,7 @@
 |![Thai Military Bank](https://static.openfintech.io/payment_methods/thai_military_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Thai Military Bank**](/payment-methods/thai_military_bank/)|[`thai_military_bank_thb_hpp`](thai_military_bank_thb_hpp/)| 
 |![Thai QR Payment](https://static.openfintech.io/payment_methods/thai_qr_payment/logo.svg?w=400&c=v0.59.26#w200) |[**Thai QR Payment**](/payment-methods/thai_qr_payment/)|[`thai_qr_payment_thb_hpp`](thai_qr_payment_thb_hpp/)| 
 |![Tigo pesa](https://static.openfintech.io/payment_methods/tigo_pesa/logo.png?w=400&c=v0.59.26#w200) |[**Tigo pesa**](/payment-methods/tigo_pesa/)|[`tigo_pesa_tzs_invoice`](tigo_pesa_tzs_invoice/)| 
+|![Toncoin](https://static.openfintech.io/payment_methods/toncoin/logo.png?w=400&c=v0.59.26#w200) |[**Toncoin**](/payment-methods/toncoin/)|[`toncoin_ton_hpp`](toncoin_ton_hpp/)| 
 |![Tien Phong Commercial Joint Stock Bank](https://static.openfintech.io/payment_methods/tp_bank/logo.png?w=400&c=v0.59.26#w200) |[**Tien Phong Commercial Joint Stock Bank**](/payment-methods/tp_bank/)|[`tp_bank_vnd_hpp`](tp_bank_vnd_hpp/)| 
 |![Transfer Bancaria](https://static.openfintech.io/payment_methods/transfer_bancaria/logo.svg?w=400&c=v0.59.26#w200) |[**Transfer Bancaria**](/payment-methods/transfer_bancaria/)|[`transfer_bancaria_brl_hpp`](transfer_bancaria_brl_hpp/)| 
 |![Transfer Bancaria](https://static.openfintech.io/payment_methods/transfer_bancaria/logo.svg?w=400&c=v0.59.26#w200) |[**Transfer Bancaria**](/payment-methods/transfer_bancaria/)|[`transfer_bancaria_usd_hpp`](transfer_bancaria_usd_hpp/)| 

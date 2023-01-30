@@ -46,6 +46,7 @@ The list of [Payment Providers](/payment-providers/) that support the _TRON_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![cryptohawex](https://static.openfintech.io/payment_providers/cryptohawex/icon.svg?w=278&c=v0.59.26#w100) |[CryptoHawex](/payment-providers/cryptohawex/)|`cryptohawex`| 
+|![cryptomus](https://static.openfintech.io/payment_providers/cryptomus/icon.svg?w=278&c=v0.59.26#w100) |[Cryptomus](/payment-providers/cryptomus/)|`cryptomus`| 
  
 
 ## JSON Object 

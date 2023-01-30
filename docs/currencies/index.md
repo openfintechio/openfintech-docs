@@ -115,6 +115,7 @@
 |![BTPRUB](https://static.openfintech.io/currencies/BTPRUB/icon.svg?w=278&c=v0.59.26#w100) |[**BTPRUB**](BTPRUB/)|`BTPRUB`| 
 |![BTPUAH](https://static.openfintech.io/currencies/BTPUAH/icon.svg?w=278&c=v0.59.26#w100) |[**BTPUAH**](BTPUAH/)|`BTPUAH`| 
 |![BTPUSD](https://static.openfintech.io/currencies/BTPUSD/icon.svg?w=278&c=v0.59.26#w100) |[**BTPUSD**](BTPUSD/)|`BTPUSD`| 
+|![BUSD](https://static.openfintech.io/currencies/BUSD/icon.svg?w=278&c=v0.59.26#w100) |[**BUSD**](BUSD/)|`BUSD`| 
 |![BWP](https://static.openfintech.io/currencies/BWP/icon.svg?w=278&c=v0.59.26#w100) |[**Botswanan Pula**](BWP/)|`BWP`| 
 |![BYN](https://static.openfintech.io/currencies/BYN/icon.svg?w=278&c=v0.59.26#w100) |[**Belarusian Ruble**](BYN/)|`BYN`| 
 |![BYR](https://static.openfintech.io/currencies/BYR/icon.svg?w=278&c=v0.59.26#w100) |[**Belarusian Ruble**](BYR/)|`BYR`| 
@@ -394,6 +395,7 @@
 || **M** ||
 |![MAD](https://static.openfintech.io/currencies/MAD/icon.svg?w=278&c=v0.59.26#w100) |[**Moroccan Dirham**](MAD/)|`MAD`| 
 |![MAID](https://static.openfintech.io/currencies/MAID/icon.svg?w=278&c=v0.59.26#w100) |[**MAID**](MAID/)|`MAID`| 
+|![MATIC](https://static.openfintech.io/currencies/MATIC/icon.svg?w=278&c=v0.59.26#w100) |[**MATIC**](MATIC/)|`MATIC`| 
 |![MBDRMAMD](https://static.openfintech.io/currencies/MBDRMAMD/icon.svg?w=278&c=v0.59.26#w100) |[**MBDRMAMD**](MBDRMAMD/)|`MBDRMAMD`| 
 |![MDL](https://static.openfintech.io/currencies/MDL/icon.svg?w=278&c=v0.59.26#w100) |[**Moldovan Leu**](MDL/)|`MDL`| 
 |![MDNDCBUSD](https://static.openfintech.io/currencies/MDNDCBUSD/icon.svg?w=278&c=v0.59.26#w100) |[**MDNDCBUSD**](MDNDCBUSD/)|`MDNDCBUSD`| 
@@ -630,6 +632,7 @@
 |![TNCUSD](https://static.openfintech.io/currencies/TNCUSD/icon.svg?w=278&c=v0.59.26#w100) |[**TNCUSD**](TNCUSD/)|`TNCUSD`| 
 |![TND](https://static.openfintech.io/currencies/TND/icon.svg?w=278&c=v0.59.26#w100) |[**Tunisian Dinar**](TND/)|`TND`| 
 |![TOCHRUB](https://static.openfintech.io/currencies/TOCHRUB/icon.svg?w=278&c=v0.59.26#w100) |[**TOCHRUB**](TOCHRUB/)|`TOCHRUB`| 
+|![TON](https://static.openfintech.io/currencies/TON/icon.svg?w=278&c=v0.59.26#w100) |[**TON**](TON/)|`TON`| 
 |![TOP](https://static.openfintech.io/currencies/TOP/icon.svg?w=278&c=v0.59.26#w100) |[**Tongan Paʻanga**](TOP/)|`TOP`| 
 |![TRBRUB](https://static.openfintech.io/currencies/TRBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**TRBRUB**](TRBRUB/)|`TRBRUB`| 
 |![TRPEUR](https://static.openfintech.io/currencies/TRPEUR/icon.svg?w=278&c=v0.59.26#w100) |[**TRPEUR**](TRPEUR/)|`TRPEUR`| 

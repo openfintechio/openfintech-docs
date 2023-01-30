@@ -252,6 +252,7 @@
 |![billtomobile](https://static.openfintech.io/vendors/billtomobile/logo.png?w=600&c=v0.59.26#w200) |[**BilltoMobile**](billtomobile/)|`billtomobile`| 
 |![binance_coin](https://static.openfintech.io/vendors/binance_coin/logo.svg?w=600&c=v0.59.26#w200) |[**Binance coin**](binance_coin/)|`binance_coin`| 
 |![binance_smart_chain](https://static.openfintech.io/vendors/binance_smart_chain/logo.svg?w=600&c=v0.59.26#w200) |[**Binance smart chain**](binance_smart_chain/)|`binance_smart_chain`| 
+|![binance_usd](https://static.openfintech.io/vendors/binance_usd/logo.png?w=600&c=v0.59.26#w200) |[**Binance Usd**](binance_usd/)|`binance_usd`| 
 |![binbank](https://static.openfintech.io/vendors/binbank/logo.svg?w=600&c=v0.59.26#w200) |[**БИНБАНК**](binbank/)|`binbank`| 
 |![bips](https://static.openfintech.io/vendors/bips/logo.png?w=600&c=v0.59.26#w200) |[**BIPS**](bips/)|`bips`| 
 |![bit-changer.net](https://static.openfintech.io/vendors/bit-changer.net/logo.svg?w=600&c=v0.59.26#w200) |[**Bit-Changer**](bit-changer.net/)|`bit-changer.net`| 
@@ -417,6 +418,7 @@
 |![cryptocheck](https://static.openfintech.io/vendors/cryptocheck/logo.svg?w=600&c=v0.59.26#w200) |[**Cryptocheck**](cryptocheck/)|`cryptocheck`| 
 |![cryptocompare](https://static.openfintech.io/vendors/cryptocompare/logo.png?w=600&c=v0.59.26#w200) |[**CryptoCompare**](cryptocompare/)|`cryptocompare`| 
 |![cryptohawex](https://static.openfintech.io/vendors/cryptohawex/logo.svg?w=600&c=v0.59.26#w200) |[**CryptoHawex**](cryptohawex/)|`cryptohawex`| 
+|![cryptomus](https://static.openfintech.io/vendors/cryptomus/logo.svg?w=600&c=v0.59.26#w200) |[**Cryptomus**](cryptomus/)|`cryptomus`| 
 |![csob](https://static.openfintech.io/vendors/csob/logo.png?w=600&c=v0.59.26#w200) |[**CSOB**](csob/)|`csob`| 
 |![ctopay](https://static.openfintech.io/vendors/ctopay/logo.png?w=600&c=v0.59.26#w200) |[**Ctopay**](ctopay/)|`ctopay`| 
 |![curopayments](https://static.openfintech.io/vendors/curopayments/logo.png?w=600&c=v0.59.26#w200) |[**CURO payments**](curopayments/)|`curopayments`| 
@@ -451,6 +453,7 @@
 |![dialup](https://static.openfintech.io/vendors/dialup/logo.svg?w=600&c=v0.59.26#w200) |[**Dialup**](dialup/)|`dialup`| 
 |![dialxs](https://static.openfintech.io/vendors/dialxs/logo.png?w=600&c=v0.59.26#w200) |[**DialXS**](dialxs/)|`dialxs`| 
 |![dibspaymentservices](https://static.openfintech.io/vendors/dibspaymentservices/logo.png?w=600&c=v0.59.26#w200) |[**DIBS Payment Services**](dibspaymentservices/)|`dibspaymentservices`| 
+|![digital_cash](https://static.openfintech.io/vendors/digital_cash/logo.png?w=600&c=v0.59.26#w200) |[**Digital Cash**](digital_cash/)|`digital_cash`| 
 |![digitalriverworldpayments](https://static.openfintech.io/vendors/digitalriverworldpayments/logo.png?w=600&c=v0.59.26#w200) |[**Digital River World Payments**](digitalriverworldpayments/)|`digitalriverworldpayments`| 
 |![dimocopayments](https://static.openfintech.io/vendors/dimocopayments/logo.png?w=600&c=v0.59.26#w200) |[**DIMOCO Payments**](dimocopayments/)|`dimocopayments`| 
 |![dineromail](https://static.openfintech.io/vendors/dineromail/logo.png?w=600&c=v0.59.26#w200) |[**DineroMail**](dineromail/)|`dineromail`| 
@@ -1412,6 +1415,7 @@
 |![polikombank](https://static.openfintech.io/vendors/polikombank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'Полікомбанк'**](polikombank/)|`polikombank`| 
 |![polipayonline](https://static.openfintech.io/vendors/polipayonline/logo.png?w=600&c=v0.59.26#w200) |[**POLi Payments**](polipayonline/)|`polipayonline`| 
 |![polt_gru_pat_kbprivatbank_m_poltava](https://static.openfintech.io/vendors/polt_gru_pat_kbprivatbank_m_poltava/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ 'ПОЛТАВСЬКЕ ГОЛОВНЕ РЕГІОНАЛЬНЕ УПРАВЛІННЯ' ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](polt_gru_pat_kbprivatbank_m_poltava/)|`polt_gru_pat_kbprivatbank_m_poltava`| 
+|![polygon](https://static.openfintech.io/vendors/polygon/logo.svg?w=600&c=v0.59.26#w200) |[**Polygon**](polygon/)|`polygon`| 
 |![poppankki](https://static.openfintech.io/vendors/poppankki/logo.png?w=600&c=v0.59.26#w200) |[**POP Pankki**](poppankki/)|`poppankki`| 
 |![portmone](https://static.openfintech.io/vendors/portmone/logo.svg?w=600&c=v0.59.26#w200) |[**Portmone.com**](portmone/)|`portmone`| 
 |![postepay](https://static.openfintech.io/vendors/postepay/logo.png?w=600&c=v0.59.26#w200) |[**Postepay**](postepay/)|`postepay`| 
@@ -1642,6 +1646,7 @@
 |![tnspay](https://static.openfintech.io/vendors/tnspay/logo.png?w=600&c=v0.59.26#w200) |[**TNSPay**](tnspay/)|`tnspay`| 
 |![toditocash](https://static.openfintech.io/vendors/toditocash/logo.png?w=600&c=v0.59.26#w200) |[**Todito Cash**](toditocash/)|`toditocash`| 
 |![tome](https://static.openfintech.io/vendors/tome/logo.svg?w=600&c=v0.59.26#w200) |[**Tome**](tome/)|`tome`| 
+|![toncoin](https://static.openfintech.io/vendors/toncoin/logo.png?w=600&c=v0.59.26#w200) |[**Toncoin**](toncoin/)|`toncoin`| 
 |![toshani](https://static.openfintech.io/vendors/toshani/logo.png?w=600&c=v0.59.26#w200) |[**Toshani**](toshani/)|`toshani`| 
 |![totalwebsolutions](https://static.openfintech.io/vendors/totalwebsolutions/logo.png?w=600&c=v0.59.26#w200) |[**Total Web Solutions**](totalwebsolutions/)|`totalwebsolutions`| 
 |![tov_24_onlajn](https://static.openfintech.io/vendors/tov_24_onlajn/logo.svg?w=600&c=v0.59.26#w200) |[**ТОВ '24 ОНЛАЙН'**](tov_24_onlajn/)|`tov_24_onlajn`| 
