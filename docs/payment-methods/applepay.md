@@ -69,7 +69,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Apple Pay
 |![piastrix](https://static.openfintech.io/payment_providers/piastrix/icon.svg?w=278&c=v0.59.26#w100) |[Piastrix](/payment-providers/piastrix/)|`piastrix`| 
 |![cardgate](https://static.openfintech.io/payment_providers/cardgate/icon.svg?w=278&c=v0.59.26#w100) |[CardGate](/payment-providers/cardgate/)|`cardgate`| 
 |![gate](https://static.openfintech.io/payment_providers/gate/icon.svg?w=278&c=v0.59.26#w100) |[Gate](/payment-providers/gate/)|`gate`| 
-|![alfabank](https://static.openfintech.io/payment_providers/alfabank/icon.svg?w=278&c=v0.59.26#w100) |[Alfa-Bank](/payment-providers/alfabank/)|`alfabank`| 
+|![alfabank](https://static.openfintech.io/payment_providers/alfabank/icon.png?w=278&c=v0.59.26#w100) |[Sense Bank](/payment-providers/alfabank/)|`alfabank`| 
 |![concord](https://static.openfintech.io/payment_providers/concord/icon.svg?w=278&c=v0.59.26#w100) |[Concord Bank](/payment-providers/concord/)|`concord`| 
 |![ukrgasbank](https://static.openfintech.io/payment_providers/ukrgasbank/icon.png?w=278&c=v0.59.26#w100) |[UkrGasBank](/payment-providers/ukrgasbank/)|`ukrgasbank`| 
 |![solidgate](https://static.openfintech.io/payment_providers/solidgate/icon.svg?w=278&c=v0.59.26#w100) |[Solid](/payment-providers/solidgate/)|`solidgate`| 

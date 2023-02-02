@@ -75,7 +75,7 @@
 |![alandsbanken](https://static.openfintech.io/vendors/alandsbanken/logo.png?w=600&c=v0.59.26#w200) |[**Älandsbanken**](alandsbanken/)|`alandsbanken`| 
 |![alfa_bank](https://static.openfintech.io/vendors/alfa_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Альфа-Банк**](alfa_bank/)|`alfa_bank`| 
 |![alfa_bank_cash_in](https://static.openfintech.io/vendors/alfa_bank_cash_in/logo.svg?w=600&c=v0.59.26#w200) |[**Альфа-Банк cash-in**](alfa_bank_cash_in/)|`alfa_bank_cash_in`| 
-|![alfabank](https://static.openfintech.io/vendors/alfabank/logo.svg?w=600&c=v0.59.26#w200) |[**Alfa-Bank**](alfabank/)|`alfabank`| 
+|![alfabank](https://static.openfintech.io/vendors/alfabank/logo.png?w=600&c=v0.59.26#w200) |[**Sense Bank**](alfabank/)|`alfabank`| 
 |![alfabankcashin](https://static.openfintech.io/vendors/alfabankcashin/logo.svg?w=600&c=v0.59.26#w200) |[**Альфа-Банк cash-in**](alfabankcashin/)|`alfabankcashin`| 
 |![alfacashier](https://static.openfintech.io/vendors/alfacashier/logo.svg?w=600&c=v0.59.26#w200) |[**AlfaCashier**](alfacashier/)|`alfacashier`| 
 |![algocharge](https://static.openfintech.io/vendors/algocharge/logo.png?w=600&c=v0.59.26#w200) |[**ALGOCHARGE**](algocharge/)|`algocharge`| 

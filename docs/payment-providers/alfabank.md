@@ -1,6 +1,6 @@
 
-# Alfa-Bank 
-![alfabank](https://static.openfintech.io/payment_providers/alfabank/logo.svg?w=400&c=v0.59.26#w100)  
+# Sense Bank 
+![alfabank](https://static.openfintech.io/payment_providers/alfabank/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -10,31 +10,31 @@
  
 **Name:** 
  
-:	[EN] Alfa-Bank 
-:	[RU] Альфа-Банк 
-:	[UK] Альфа-Банк 
+:	[EN] Sense Bank 
+:	[RU] Сенс Банк 
+:	[UK] Сенс Банк 
  
  
 **Countries:** 
  
-:	![UA](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ua.svg#w24) 	![RU](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ru.svg#w24)  
+:	![UA](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ua.svg#w24)  
 
 ## Images 
 
 ### Logo 
  
-![alfabank](https://static.openfintech.io/payment_providers/alfabank/logo.svg?w=400&c=v0.59.26#w100)  
+![alfabank](https://static.openfintech.io/payment_providers/alfabank/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/alfabank/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/alfabank/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![alfabank](https://static.openfintech.io/payment_providers/alfabank/icon.svg?w=278&c=v0.59.26#w100)  
+![alfabank](https://static.openfintech.io/payment_providers/alfabank/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/alfabank/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/alfabank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -66,8 +66,7 @@ The list of supported [Payout Methods](/payout-methods/)
   "vendor":"alfabank",
   "categories":null,
   "countries":[
-    "UA",
-    "RU"
+    "UA"
   ],
   "payment_method":[
     "payment_card",
@@ -79,9 +78,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"Alfa-Bank",
-    "ru":"\u0410\u043b\u044c\u0444\u0430-\u0411\u0430\u043d\u043a",
-    "uk":"\u0410\u043b\u044c\u0444\u0430-\u0411\u0430\u043d\u043a"
+    "en":"Sense Bank",
+    "ru":"\u0421\u0435\u043d\u0441 \u0411\u0430\u043d\u043a",
+    "uk":"\u0421\u0435\u043d\u0441 \u0411\u0430\u043d\u043a"
   }
 }
 ```  

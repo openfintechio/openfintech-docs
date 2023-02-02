@@ -1,6 +1,6 @@
 
-# Alfa-Bank 
-![alfabank](https://static.openfintech.io/vendors/alfabank/logo.svg?w=400&c=v0.59.26#w200)  
+# Sense Bank 
+![alfabank](https://static.openfintech.io/vendors/alfabank/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -8,31 +8,31 @@
  
 **Name:** 
  
-:	[EN] Alfa-Bank 
-:	[RU] Альфа-Банк 
+:	[EN] Sense Bank 
+:	[RU] Сенс Банк 
  
 **Status:** `active` 
  
 **Links:** 
-: website [https://alfabank.ua](https://alfabank.ua) 
+: website [https://sensebank.com.ua/](https://sensebank.com.ua/) 
  
 
 ## Images 
 
 ### Logo 
  
-![alfabank](https://static.openfintech.io/vendors/alfabank/logo.svg?w=400&c=v0.59.26#w200)  
+![alfabank](https://static.openfintech.io/vendors/alfabank/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/alfabank/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/alfabank/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![alfabank](https://static.openfintech.io/vendors/alfabank/icon.svg?w=278&c=v0.59.26#w100)  
+![alfabank](https://static.openfintech.io/vendors/alfabank/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/alfabank/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/alfabank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 
@@ -41,13 +41,13 @@ https://static.openfintech.io/vendors/alfabank/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"alfabank",
   "name":{
-    "en":"Alfa-Bank",
-    "ru":"\u0410\u043b\u044c\u0444\u0430-\u0411\u0430\u043d\u043a"
+    "en":"Sense Bank",
+    "ru":"\u0421\u0435\u043d\u0441 \u0411\u0430\u043d\u043a"
   },
   "status":"active",
   "description":null,
   "links":{
-    "website":"https:\/\/alfabank.ua"
+    "website":"https:\/\/sensebank.com.ua\/"
   },
   "countries":null,
   "contacts":null,

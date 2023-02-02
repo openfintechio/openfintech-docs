@@ -33,7 +33,7 @@
 |![adyen](https://static.openfintech.io/payment_providers/adyen/logo.svg?w=600&c=v0.59.26#w100) |[**Adyen**](adyen/)|`adyen`| 
 |![africanpaymentsolutions](https://static.openfintech.io/payment_providers/africanpaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**African Payment Solutions**](africanpaymentsolutions/)|`africanpaymentsolutions`| 
 |![aibmerchantservices](https://static.openfintech.io/payment_providers/aibmerchantservices/logo.png?w=600&c=v0.59.26#w100) |[**AIB Merchant Services**](aibmerchantservices/)|`aibmerchantservices`| 
-|![alfabank](https://static.openfintech.io/payment_providers/alfabank/logo.svg?w=600&c=v0.59.26#w100) |[**Alfa-Bank**](alfabank/)|`alfabank`| 
+|![alfabank](https://static.openfintech.io/payment_providers/alfabank/logo.png?w=600&c=v0.59.26#w100) |[**Sense Bank**](alfabank/)|`alfabank`| 
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/logo.png?w=600&c=v0.59.26#w100) |[**ALGOCHARGE**](algocharge/)|`algocharge`| 
 |![alikassa](https://static.openfintech.io/payment_providers/alikassa/logo.svg?w=600&c=v0.59.26#w100) |[**AliKassa**](alikassa/)|`alikassa`| 
 |![allchargecom](https://static.openfintech.io/payment_providers/allchargecom/logo.png?w=600&c=v0.59.26#w100) |[**AllCharge.com**](allchargecom/)|`allchargecom`| 
