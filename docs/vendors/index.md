@@ -626,6 +626,7 @@
 |![fhersonske_oblasne_u_atoshad_m_herson](https://static.openfintech.io/vendors/fhersonske_oblasne_u_atoshad_m_herson/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Херсонське обласне управлiння ПАТ 'Державний ощадний банк України'**](fhersonske_oblasne_u_atoshad_m_herson/)|`fhersonske_oblasne_u_atoshad_m_herson`| 
 |![fhmelnicke_oblas_upratoshad_m_hmeln](https://static.openfintech.io/vendors/fhmelnicke_oblas_upratoshad_m_hmeln/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Хмельницьке обласне управлiння ПАТ 'Державний ощадний банк України'**](fhmelnicke_oblas_upratoshad_m_hmeln/)|`fhmelnicke_oblas_upratoshad_m_hmeln`| 
 |![fhtpay](https://static.openfintech.io/vendors/fhtpay/logo.png?w=600&c=v0.59.26#w200) |[**FhtPay**](fhtpay/)|`fhtpay`| 
+|![fiatsystems](https://static.openfintech.io/vendors/fiatsystems/logo.png?w=600&c=v0.59.26#w200) |[**FiatSystems**](fiatsystems/)|`fiatsystems`| 
 |![fibonatix](https://static.openfintech.io/vendors/fibonatix/logo.png?w=600&c=v0.59.26#w200) |[**Fibonatix**](fibonatix/)|`fibonatix`| 
 |![fidelitypaymentservices](https://static.openfintech.io/vendors/fidelitypaymentservices/logo.png?w=600&c=v0.59.26#w200) |[**Fidelity Payment Services**](fidelitypaymentservices/)|`fidelitypaymentservices`| 
 |![fidobank](https://static.openfintech.io/vendors/fidobank/logo.svg?w=600&c=v0.59.26#w200) |[**FIDOBANK**](fidobank/)|`fidobank`| 

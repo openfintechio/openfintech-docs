@@ -406,6 +406,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![nummuspay](https://static.openfintech.io/payment_providers/nummuspay/icon.png?w=278&c=v0.59.26#w100) |[NummusPay](/payment-providers/nummuspay/)|`nummuspay`| 
 |![uniongate](https://static.openfintech.io/payment_providers/uniongate/icon.png?w=278&c=v0.59.26#w100) |[UnionGate](/payment-providers/uniongate/)|`uniongate`| 
 |![payabl](https://static.openfintech.io/payment_providers/payabl/icon.png?w=278&c=v0.59.26#w100) |[Payabl.](/payment-providers/payabl/)|`payabl`| 
+|![fiatsystems](https://static.openfintech.io/payment_providers/fiatsystems/icon.png?w=278&c=v0.59.26#w100) |[FiatSystems](/payment-providers/fiatsystems/)|`fiatsystems`| 
  
 
 ## JSON Object 
