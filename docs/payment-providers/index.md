@@ -95,6 +95,7 @@
 |![bips](https://static.openfintech.io/payment_providers/bips/logo.svg?w=600&c=v0.59.26#w100) |[**BIPS**](bips/)|`bips`| 
 |![bitcoinpay](https://static.openfintech.io/payment_providers/bitcoinpay/logo.svg?w=600&c=v0.59.26#w100) |[**BitcoinPay**](bitcoinpay/)|`bitcoinpay`| 
 |![bitcoinpaygate](https://static.openfintech.io/payment_providers/bitcoinpaygate/logo.svg?w=600&c=v0.59.26#w100) |[**Bitcoinpaygate**](bitcoinpaygate/)|`bitcoinpaygate`| 
+|![bitexpro](https://static.openfintech.io/payment_providers/bitexpro/logo.png?w=600&c=v0.59.26#w100) |[**BitexPRO**](bitexpro/)|`bitexpro`| 
 |![bitmerch](https://static.openfintech.io/payment_providers/bitmerch/logo.svg?w=600&c=v0.59.26#w100) |[**BitMerch**](bitmerch/)|`bitmerch`| 
 |![bitnet](https://static.openfintech.io/payment_providers/bitnet/logo.svg?w=600&c=v0.59.26#w100) |[**Bitnet Technologies Ltd**](bitnet/)|`bitnet`| 
 |![bitpay](https://static.openfintech.io/payment_providers/bitpay/logo.svg?w=600&c=v0.59.26#w100) |[**BitPay**](bitpay/)|`bitpay`| 

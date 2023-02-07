@@ -819,6 +819,7 @@
 |![ZEC](https://static.openfintech.io/currencies/ZEC/icon.png?w=278&c=v0.59.26#w100) |[**ZEC**](ZEC/)|`ZEC`| 
 |![ZMK](https://static.openfintech.io/currencies/ZMK/icon.svg?w=278&c=v0.59.26#w100) |[**Zambian Kwacha**](ZMK/)|`ZMK`| 
 |![ZMW](https://static.openfintech.io/currencies/ZMW/icon.svg?w=278&c=v0.59.26#w100) |[**Zambian Kwacha**](ZMW/)|`ZMW`| 
+|![ZNX](https://static.openfintech.io/currencies/ZNX/icon.svg?w=278&c=v0.59.26#w100) |[**ZNX**](ZNX/)|`ZNX`| 
 |![ZPRUB](https://static.openfintech.io/currencies/ZPRUB/icon.svg?w=278&c=v0.59.26#w100) |[**ZPRUB**](ZPRUB/)|`ZPRUB`| 
 |![ZRTBTRY](https://static.openfintech.io/currencies/ZRTBTRY/icon.svg?w=278&c=v0.59.26#w100) |[**ZRTBTRY**](ZRTBTRY/)|`ZRTBTRY`| 
 |![ZWL](https://static.openfintech.io/currencies/ZWL/icon.svg?w=278&c=v0.59.26#w100) |[**Zimbabwe Dollar**](ZWL/)|`ZWL`| 

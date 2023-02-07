@@ -150,9 +150,11 @@
 |![bidv_bank_qr](https://static.openfintech.io/payout_methods/bidv_bank_qr/logo.svg?w=400&c=v0.59.26#w24) |[**BIDV Bank QR**](bidv_bank_qr/)|`bidv_bank_qr`| 
 |![bilotserkovteplomerezha](https://static.openfintech.io/payout_methods/bilotserkovteplomerezha/logo.png?w=400&c=v0.59.26#w24) |[**Bilotserkovteplomerezha**](bilotserkovteplomerezha/)|`bilotserkovteplomerezha`| 
 |![binance_coin](https://static.openfintech.io/payout_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w24) |[**Binance coin**](binance_coin/)|`binance_coin`| 
+|![binance_usd](https://static.openfintech.io/payout_methods/binance_usd/logo.png?w=400&c=v0.59.26#w24) |[**Binance Usd**](binance_usd/)|`binance_usd`| 
 |![bisnet-odesskaia-oblast](https://static.openfintech.io/payout_methods/bisnet-odesskaia-oblast/logo.png?w=400&c=v0.59.26#w24) |[**BISNET (Odessa region)**](bisnet-odesskaia-oblast/)|`bisnet-odesskaia-oblast`| 
 |![bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](bitcoin/)|`bitcoin`| 
 |![bitcoin_cash](https://static.openfintech.io/payout_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w24) |[**Bitcoin cash**](bitcoin_cash/)|`bitcoin_cash`| 
+|![bitexpro_wallet](https://static.openfintech.io/payout_methods/bitexpro_wallet/logo.png?w=400&c=v0.59.26#w24) |[**BitexPRO wallet**](bitexpro_wallet/)|`bitexpro_wallet`| 
 |![bitnet-dobropole](https://static.openfintech.io/payout_methods/bitnet-dobropole/logo.png?w=400&c=v0.59.26#w24) |[**BiTnet (Dobropolye)**](bitnet-dobropole/)|`bitnet-dobropole`| 
 |![bitter-net-ternopil](https://static.openfintech.io/payout_methods/bitter-net-ternopil/logo.png?w=400&c=v0.59.26#w24) |[**BITTER.NET (Ternopil)**](bitter-net-ternopil/)|`bitter-net-ternopil`| 
 |![bitva-fermerov](https://static.openfintech.io/payout_methods/bitva-fermerov/logo.png?w=400&c=v0.59.26#w24) |[**Battle of the Farmers**](bitva-fermerov/)|`bitva-fermerov`| 
@@ -253,6 +255,7 @@
 |![dianet-zaporozhe](https://static.openfintech.io/payout_methods/dianet-zaporozhe/logo.png?w=400&c=v0.59.26#w24) |[**DiaNet (Zaporizhia)**](dianet-zaporozhe/)|`dianet-zaporozhe`| 
 |![didgitnet-mariupol](https://static.openfintech.io/payout_methods/didgitnet-mariupol/logo.png?w=400&c=v0.59.26#w24) |[**DIDGITNET (Mariupol)**](didgitnet-mariupol/)|`didgitnet-mariupol`| 
 |![digicom](https://static.openfintech.io/payout_methods/digicom/logo.png?w=400&c=v0.59.26#w24) |[**Digicom**](digicom/)|`digicom`| 
+|![digital_cash](https://static.openfintech.io/payout_methods/digital_cash/logo.png?w=400&c=v0.59.26#w24) |[**Digital Cash**](digital_cash/)|`digital_cash`| 
 |![dikii-sad-nikolaev](https://static.openfintech.io/payout_methods/dikii-sad-nikolaev/logo.png?w=400&c=v0.59.26#w24) |[**Wild Garden (Nikolaev)**](dikii-sad-nikolaev/)|`dikii-sad-nikolaev`| 
 |![dilnitsia-marganets-tsok-nikopols-kogo-r-nu](https://static.openfintech.io/payout_methods/dilnitsia-marganets-tsok-nikopols-kogo-r-nu/logo.png?w=400&c=v0.59.26#w24) |[**Plot Manganese (CSC Nikopol district)**](dilnitsia-marganets-tsok-nikopols-kogo-r-nu/)|`dilnitsia-marganets-tsok-nikopols-kogo-r-nu`| 
 |![dilnitsia-ordzhonikidze-tsok-nikopols-kogo-r-nu](https://static.openfintech.io/payout_methods/dilnitsia-ordzhonikidze-tsok-nikopols-kogo-r-nu/logo.png?w=400&c=v0.59.26#w24) |[**Plot Ordzhonikidze (CSC Nikopol district)**](dilnitsia-ordzhonikidze-tsok-nikopols-kogo-r-nu/)|`dilnitsia-ordzhonikidze-tsok-nikopols-kogo-r-nu`| 
@@ -448,6 +451,7 @@
 |![hd_bank](https://static.openfintech.io/payout_methods/hd_bank/logo.png?w=400&c=v0.59.26#w24) |[**Housing Development Commercial Joint Stock Bank**](hd_bank/)|`hd_bank`| 
 |![hdfc_bank](https://static.openfintech.io/payout_methods/hdfc_bank/logo.svg?w=400&c=v0.59.26#w24) |[**HDFC Bank**](hdfc_bank/)|`hdfc_bank`| 
 |![hegra_sparebank](https://static.openfintech.io/payout_methods/hegra_sparebank/logo.png?w=400&c=v0.59.26#w24) |[**Hegra Sparebank**](hegra_sparebank/)|`hegra_sparebank`| 
+|![hero_payments](https://static.openfintech.io/payout_methods/hero_payments/logo.svg?w=400&c=v0.59.26#w24) |[**Hero Payments**](hero_payments/)|`hero_payments`| 
 |![homenet](https://static.openfintech.io/payout_methods/homenet/logo.png?w=400&c=v0.59.26#w24) |[**HomeNet**](homenet/)|`homenet`| 
 |![homenet-dnipropetrovska](https://static.openfintech.io/payout_methods/homenet-dnipropetrovska/logo.svg?w=400&c=v0.59.26#w24) |[**HomeNet(Дніпропетровська)**](homenet-dnipropetrovska/)|`homenet-dnipropetrovska`| 
 |![homenet-kiev](https://static.openfintech.io/payout_methods/homenet-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Homenet (Kiev)**](homenet-kiev/)|`homenet-kiev`| 
@@ -1324,6 +1328,7 @@
 |![polnyi-pi](https://static.openfintech.io/payout_methods/polnyi-pi/logo.png?w=400&c=v0.59.26#w24) |[**Full Pi**](polnyi-pi/)|`polnyi-pi`| 
 |![poltavateploenergo-gariacha-voda](https://static.openfintech.io/payout_methods/poltavateploenergo-gariacha-voda/logo.svg?w=400&c=v0.59.26#w24) |[**Полтаватеплоэнерго (Гаряча вода)**](poltavateploenergo-gariacha-voda/)|`poltavateploenergo-gariacha-voda`| 
 |![poltavateploenergo-opalennia](https://static.openfintech.io/payout_methods/poltavateploenergo-opalennia/logo.svg?w=400&c=v0.59.26#w24) |[**Полтаватеплоенерго (Опалення)**](poltavateploenergo-opalennia/)|`poltavateploenergo-opalennia`| 
+|![polygon](https://static.openfintech.io/payout_methods/polygon/logo.svg?w=400&c=v0.59.26#w24) |[**Polygon**](polygon/)|`polygon`| 
 |![ponaekhali-tut-mosvar](https://static.openfintech.io/payout_methods/ponaekhali-tut-mosvar/logo.png?w=400&c=v0.59.26#w24) |[**Have come here (Mosvar)**](ponaekhali-tut-mosvar/)|`ponaekhali-tut-mosvar`| 
 |![popasniavskii-rem-lugansk-eo](https://static.openfintech.io/payout_methods/popasniavskii-rem-lugansk-eo/logo.svg?w=400&c=v0.59.26#w24) |[**Popapnyavsky REM Lugansk EO**](popasniavskii-rem-lugansk-eo/)|`popasniavskii-rem-lugansk-eo`| 
 |![popovnennia-karti](https://static.openfintech.io/payout_methods/popovnennia-karti/logo.svg?w=400&c=v0.59.26#w24) |[**Поповнення карти**](popovnennia-karti/)|`popovnennia-karti`| 
@@ -1945,6 +1950,7 @@
 |![tneu-za-vipisku-do-diplomu-pro-osvitu](https://static.openfintech.io/payout_methods/tneu-za-vipisku-do-diplomu-pro-osvitu/logo.svg?w=400&c=v0.59.26#w24) |[**TNEU - For an extract to the diploma of education**](tneu-za-vipisku-do-diplomu-pro-osvitu/)|`tneu-za-vipisku-do-diplomu-pro-osvitu`| 
 |![tomashpil-pat-vinnitsiaoblenergo](https://static.openfintech.io/payout_methods/tomashpil-pat-vinnitsiaoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Silver PJSC 'Vinnitsaoblenergo'**](tomashpil-pat-vinnitsiaoblenergo/)|`tomashpil-pat-vinnitsiaoblenergo`| 
 |![toms-kiev](https://static.openfintech.io/payout_methods/toms-kiev/logo.png?w=400&c=v0.59.26#w24) |[**TOMS (Kiev)**](toms-kiev/)|`toms-kiev`| 
+|![toncoin](https://static.openfintech.io/payout_methods/toncoin/logo.png?w=400&c=v0.59.26#w24) |[**Toncoin**](toncoin/)|`toncoin`| 
 |![tornet-kiev](https://static.openfintech.io/payout_methods/tornet-kiev/logo.svg?w=400&c=v0.59.26#w24) |[**TorNet (Киев)**](tornet-kiev/)|`tornet-kiev`| 
 |![totallink-chernivtsi](https://static.openfintech.io/payout_methods/totallink-chernivtsi/logo.png?w=400&c=v0.59.26#w24) |[**Totallink (Chernivtsi)**](totallink-chernivtsi/)|`totallink-chernivtsi`| 
 |![totens_sparebank](https://static.openfintech.io/payout_methods/totens_sparebank/logo.png?w=400&c=v0.59.26#w24) |[**Totens Sparebank**](totens_sparebank/)|`totens_sparebank`| 

@@ -264,6 +264,7 @@
 |![bitcoincoid](https://static.openfintech.io/vendors/bitcoincoid/logo.svg?w=600&c=v0.59.26#w200) |[**bitcoin.co.id**](bitcoincoid/)|`bitcoincoid`| 
 |![bitcoinpay](https://static.openfintech.io/vendors/bitcoinpay/logo.png?w=600&c=v0.59.26#w200) |[**BitcoinPay**](bitcoinpay/)|`bitcoinpay`| 
 |![bitcoinpaygate](https://static.openfintech.io/vendors/bitcoinpaygate/logo.png?w=600&c=v0.59.26#w200) |[**Bitcoinpaygate**](bitcoinpaygate/)|`bitcoinpaygate`| 
+|![bitexpro](https://static.openfintech.io/vendors/bitexpro/logo.png?w=600&c=v0.59.26#w200) |[**BitexPRO**](bitexpro/)|`bitexpro`| 
 |![bitmerch](https://static.openfintech.io/vendors/bitmerch/logo.png?w=600&c=v0.59.26#w200) |[**BitMerch**](bitmerch/)|`bitmerch`| 
 |![bitnet](https://static.openfintech.io/vendors/bitnet/logo.png?w=600&c=v0.59.26#w200) |[**Bitnet Technologies Ltd**](bitnet/)|`bitnet`| 
 |![bitochek.net](https://static.openfintech.io/vendors/bitochek.net/logo.svg?w=600&c=v0.59.26#w200) |[**bitochek.net**](bitochek.net/)|`bitochek.net`| 
