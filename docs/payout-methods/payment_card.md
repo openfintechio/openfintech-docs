@@ -369,6 +369,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![virtpay](https://static.openfintech.io/payment_providers/virtpay/icon.png?w=278&c=v0.59.26#w100) |[Virtpay](/payment-providers/virtpay/)|`virtpay`| 
 |![remitos](https://static.openfintech.io/payment_providers/remitos/icon.png?w=278&c=v0.59.26#w100) |[Remitos](/payment-providers/remitos/)|`remitos`| 
 |![payecardsakurateco](https://static.openfintech.io/payment_providers/payecardsakurateco/icon.png?w=278&c=v0.59.26#w100) |[PayeCards Akurateco](/payment-providers/payecardsakurateco/)|`payecardsakurateco`| 
+|![alycepay](https://static.openfintech.io/payment_providers/alycepay/icon.png?w=278&c=v0.59.26#w100) |[Alycepay](/payment-providers/alycepay/)|`alycepay`| 
 |![apcopay](https://static.openfintech.io/payment_providers/apcopay/icon.svg?w=278&c=v0.59.26#w100) |[Apcopay](/payment-providers/apcopay/)|`apcopay`| 
 |![azulpay](https://static.openfintech.io/payment_providers/azulpay/icon.png?w=278&c=v0.59.26#w100) |[Azul Pay](/payment-providers/azulpay/)|`azulpay`| 
 |![boombill](https://static.openfintech.io/payment_providers/boombill/icon.png?w=278&c=v0.59.26#w100) |[Boom-Bill](/payment-providers/boombill/)|`boombill`| 
