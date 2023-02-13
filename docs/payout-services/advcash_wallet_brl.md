@@ -22,7 +22,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`wallet_id`|✔|`string`|`/^B\d{12}$/`| 
+|`wallet_id`|✔|`string`|`/^.{1,50}$/`| 
  
 
 ### Details 
@@ -31,7 +31,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^B\d{12}$/` 
+	Regexp: `/^.{1,50}$/` 
  
 	Required: `1` 
  
@@ -67,7 +67,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u043a\u043e\u0448\u0435\u043b\u044c\u043a\u0430",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0433\u0430\u043c\u0430\u043d\u0446\u044f"
       },
-      "regexp":"\/^B\\d{12}$\/",
+      "regexp":"\/^.{1,50}$\/",
       "required":true,
       "position":1
     }
