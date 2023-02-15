@@ -47,6 +47,7 @@
 |![amazonpaymentservices](https://static.openfintech.io/payment_providers/amazonpaymentservices/logo.svg?w=600&c=v0.59.26#w100) |[**Amazon Payment Services**](amazonpaymentservices/)|`amazonpaymentservices`| 
 |![americanvolume](https://static.openfintech.io/payment_providers/americanvolume/logo.png?w=600&c=v0.59.26#w100) |[**GlobiPay**](americanvolume/)|`americanvolume`| 
 |![amlnode](https://static.openfintech.io/payment_providers/amlnode/logo.svg?w=600&c=v0.59.26#w100) |[**AML Node**](amlnode/)|`amlnode`| 
+|![antrpay](https://static.openfintech.io/payment_providers/antrpay/logo.svg?w=600&c=v0.59.26#w100) |[**Antrpay**](antrpay/)|`antrpay`| 
 |![anycash](https://static.openfintech.io/payment_providers/anycash/logo.svg?w=600&c=v0.59.26#w100) |[**AnyCash**](anycash/)|`anycash`| 
 |![anymoney](https://static.openfintech.io/payment_providers/anymoney/logo.svg?w=600&c=v0.59.26#w100) |[**Any.Money**](anymoney/)|`anymoney`| 
 |![apco](https://static.openfintech.io/payment_providers/apco/logo.png?w=600&c=v0.59.26#w100) |[**APCO**](apco/)|`apco`| 
@@ -228,7 +229,7 @@
 |![dusupay](https://static.openfintech.io/payment_providers/dusupay/logo.png?w=600&c=v0.59.26#w100) |[**Dusupay**](dusupay/)|`dusupay`| 
 || **E** ||
 |![easybits](https://static.openfintech.io/payment_providers/easybits/logo.svg?w=600&c=v0.59.26#w100) |[**EasyBits.io**](easybits/)|`easybits`| 
-|![easypay](https://static.openfintech.io/payment_providers/easypay/logo.png?w=600&c=v0.59.26#w100) |[**easypay**](easypay/)|`easypay`| 
+|![easypay](https://static.openfintech.io/payment_providers/easypay/logo.svg?w=600&c=v0.59.26#w100) |[**EasyPay**](easypay/)|`easypay`| 
 |![easypaymentgateway](https://static.openfintech.io/payment_providers/easypaymentgateway/logo.png?w=600&c=v0.59.26#w100) |[**Easy Payment Gateway**](easypaymentgateway/)|`easypaymentgateway`| 
 |![easypayru](https://static.openfintech.io/payment_providers/easypayru/logo.svg?w=600&c=v0.59.26#w100) |[**EasyPayRU**](easypayru/)|`easypayru`| 
 |![easytransfer](https://static.openfintech.io/payment_providers/easytransfer/logo.svg?w=600&c=v0.59.26#w100) |[**EasyTransfer**](easytransfer/)|`easytransfer`| 

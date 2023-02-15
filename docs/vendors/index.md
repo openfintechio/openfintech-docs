@@ -96,6 +96,7 @@
 |![americanvolume](https://static.openfintech.io/vendors/americanvolume/logo.png?w=600&c=v0.59.26#w200) |[**GlobiPay**](americanvolume/)|`americanvolume`| 
 |![amlnode](https://static.openfintech.io/vendors/amlnode/logo.svg?w=600&c=v0.59.26#w200) |[**AML Node**](amlnode/)|`amlnode`| 
 |![anelik](https://static.openfintech.io/vendors/anelik/logo.png?w=600&c=v0.59.26#w200) |[**Anelik**](anelik/)|`anelik`| 
+|![antrpay](https://static.openfintech.io/vendors/antrpay/logo.svg?w=600&c=v0.59.26#w200) |[**Antrpay**](antrpay/)|`antrpay`| 
 |![anycash](https://static.openfintech.io/vendors/anycash/logo.svg?w=600&c=v0.59.26#w200) |[**AnyCash**](anycash/)|`anycash`| 
 |![anymoney](https://static.openfintech.io/vendors/anymoney/logo.svg?w=600&c=v0.59.26#w200) |[**Any.Money**](anymoney/)|`anymoney`| 
 |![apco](https://static.openfintech.io/vendors/apco/logo.png?w=600&c=v0.59.26#w200) |[**APCO**](apco/)|`apco`| 
@@ -490,7 +491,7 @@
 |![e-scrooge.is](https://static.openfintech.io/vendors/e-scrooge.is/logo.svg?w=600&c=v0.59.26#w200) |[**E-Scrooge**](e-scrooge.is/)|`e-scrooge.is`| 
 |![easybit.pro](https://static.openfintech.io/vendors/easybit.pro/logo.svg?w=600&c=v0.59.26#w200) |[**easybit.pro**](easybit.pro/)|`easybit.pro`| 
 |![easybits](https://static.openfintech.io/vendors/easybits/logo.svg?w=600&c=v0.59.26#w200) |[**EasyBits.io**](easybits/)|`easybits`| 
-|![easypay](https://static.openfintech.io/vendors/easypay/logo.png?w=600&c=v0.59.26#w200) |[**easypay**](easypay/)|`easypay`| 
+|![easypay](https://static.openfintech.io/vendors/easypay/logo.svg?w=600&c=v0.59.26#w200) |[**EasyPay**](easypay/)|`easypay`| 
 |![easypaymentgateway](https://static.openfintech.io/vendors/easypaymentgateway/logo.png?w=600&c=v0.59.26#w200) |[**Easy Payment Gateway**](easypaymentgateway/)|`easypaymentgateway`| 
 |![easypayru](https://static.openfintech.io/vendors/easypayru/logo.svg?w=600&c=v0.59.26#w200) |[**EasyPayRU**](easypayru/)|`easypayru`| 
 |![easypayua](https://static.openfintech.io/vendors/easypayua/logo.png?w=600&c=v0.59.26#w200) |[**EasyPay UA**](easypayua/)|`easypayua`| 

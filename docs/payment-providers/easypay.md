@@ -1,6 +1,6 @@
 
-# easypay 
-![easypay](https://static.openfintech.io/payment_providers/easypay/logo.png?w=400&c=v0.59.26#w100)  
+# EasyPay 
+![easypay](https://static.openfintech.io/payment_providers/easypay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -10,29 +10,27 @@
  
 **Name:** 
  
-:	[EN] easypay 
+:	[EN] EasyPay 
+:	[RU] EasyPay 
+:	[UA] EasyPay 
  
- 
-**Countries:** 
- 
-:	![PT](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/pt.svg#w24)  
 
 ## Images 
 
 ### Logo 
  
-![easypay](https://static.openfintech.io/payment_providers/easypay/logo.png?w=400&c=v0.59.26#w100)  
+![easypay](https://static.openfintech.io/payment_providers/easypay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/easypay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/easypay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![easypay](https://static.openfintech.io/payment_providers/easypay/icon.png?w=278&c=v0.59.26#w100)  
+![easypay](https://static.openfintech.io/payment_providers/easypay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/easypay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/easypay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 
@@ -43,16 +41,14 @@ https://static.openfintech.io/payment_providers/easypay/icon.png?w=278&c=v0.59.2
   "description":null,
   "vendor":"easypay",
   "categories":null,
-  "countries":[
-    "PT"
-  ],
+  "countries":null,
   "payment_method":null,
   "payout_method":null,
-  "metadata":{
-    "about_payments_code":"easypay"
-  },
+  "metadata":null,
   "name":{
-    "en":"easypay"
+    "en":"EasyPay",
+    "ru":"EasyPay",
+    "ua":"EasyPay"
   }
 }
 ```  
