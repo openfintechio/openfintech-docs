@@ -40,6 +40,8 @@ The list of [Payment Services](/payment-services/) based on the _Dai Coin_
 |:---:|:---:|:---:| 
 |![dai_coin](https://static.openfintech.io/payment_methods/dai_coin/icon.png?w=278&c=v0.59.26#w100) |[dai_coin_erc20_dai_hpp](/payment-services/dai_coin_erc20_dai_hpp/)|`dai_coin_erc20_dai_hpp`| 
 |![dai_coin](https://static.openfintech.io/payment_methods/dai_coin/icon.png?w=278&c=v0.59.26#w100) |[dai_coin_bep20_dai_hpp](/payment-services/dai_coin_bep20_dai_hpp/)|`dai_coin_bep20_dai_hpp`| 
+|![dai_coin](https://static.openfintech.io/payment_methods/dai_coin/icon.png?w=278&c=v0.59.26#w100) |[dai_coin_daierc20_hpp](/payment-services/dai_coin_daierc20_hpp/)|`dai_coin_daierc20_hpp`| 
+|![dai_coin](https://static.openfintech.io/payment_methods/dai_coin/icon.png?w=278&c=v0.59.26#w100) |[dai_coin_daibep20_hpp](/payment-services/dai_coin_daibep20_hpp/)|`dai_coin_daibep20_hpp`| 
  
 
 ## Payment Providers 

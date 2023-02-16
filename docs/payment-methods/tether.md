@@ -63,6 +63,9 @@ The list of [Payment Services](/payment-services/) based on the _Tether_
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_bep20_usdt_hpp](/payment-services/tether_bep20_usdt_hpp/)|`tether_bep20_usdt_hpp`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_polygon_usdt_hpp](/payment-services/tether_polygon_usdt_hpp/)|`tether_polygon_usdt_hpp`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_trc20_usdt_hpp](/payment-services/tether_trc20_usdt_hpp/)|`tether_trc20_usdt_hpp`| 
+|![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_usdterc20_hpp](/payment-services/tether_usdterc20_hpp/)|`tether_usdterc20_hpp`| 
+|![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_usdttrc20_hpp](/payment-services/tether_usdttrc20_hpp/)|`tether_usdttrc20_hpp`| 
+|![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_usdtbep20_hpp](/payment-services/tether_usdtbep20_hpp/)|`tether_usdtbep20_hpp`| 
  
 
 ## Payment Providers 
