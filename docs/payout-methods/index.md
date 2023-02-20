@@ -78,6 +78,7 @@
 |![astra-iug-telekom-odessa](https://static.openfintech.io/payout_methods/astra-iug-telekom-odessa/logo.png?w=400&c=v0.59.26#w24) |[**Astra South Telecom (Odessa)**](astra-iug-telekom-odessa/)|`astra-iug-telekom-odessa`| 
 |![astra-lvov-vinniki](https://static.openfintech.io/payout_methods/astra-lvov-vinniki/logo.png?w=400&c=v0.59.26#w24) |[**ASTRA (Lviv, Vynnyky)**](astra-lvov-vinniki/)|`astra-lvov-vinniki`| 
 |![astratelcom-illichevsk](https://static.openfintech.io/payout_methods/astratelcom-illichevsk/logo.png?w=400&c=v0.59.26#w24) |[**ASTRATELCOM (Illichevsk)**](astratelcom-illichevsk/)|`astratelcom-illichevsk`| 
+|![astropay](https://static.openfintech.io/payout_methods/astropay/logo.svg?w=400&c=v0.59.26#w24) |[**Astropay**](astropay/)|`astropay`| 
 |![at-kb-privatbank-popovnennia-kartki](https://static.openfintech.io/payout_methods/at-kb-privatbank-popovnennia-kartki/logo.svg?w=400&c=v0.59.26#w24) |[**АТ КБ «ПРИВАТБАНК» поповнення картки**](at-kb-privatbank-popovnennia-kartki/)|`at-kb-privatbank-popovnennia-kartki`| 
 |![at-otp-bank-popovnennia-kartkovogo-potochnogo-rakhunku](https://static.openfintech.io/payout_methods/at-otp-bank-popovnennia-kartkovogo-potochnogo-rakhunku/logo.svg?w=400&c=v0.59.26#w24) |[**АТ «ОТП Банк»(Поповнення карткового/поточного рахунку)**](at-otp-bank-popovnennia-kartkovogo-potochnogo-rakhunku/)|`at-otp-bank-popovnennia-kartkovogo-potochnogo-rakhunku`| 
 |![at-ukrsibbank-popovnennia-kartki-krim-revolvernoyi-kreditnoyi-liniyi](https://static.openfintech.io/payout_methods/at-ukrsibbank-popovnennia-kartki-krim-revolvernoyi-kreditnoyi-liniyi/logo.svg?w=400&c=v0.59.26#w24) |[**АТ «Укрсиббанк» поповнення картки (крім револьверної кредитної лінії)**](at-ukrsibbank-popovnennia-kartki-krim-revolvernoyi-kreditnoyi-liniyi/)|`at-ukrsibbank-popovnennia-kartki-krim-revolvernoyi-kreditnoyi-liniyi`| 
@@ -489,6 +490,7 @@
 |![ingamba](https://static.openfintech.io/payout_methods/ingamba/logo.png?w=400&c=v0.59.26#w24) |[**Inghamba**](ingamba/)|`ingamba`| 
 |![inguletska-dilnitsia-tsok-shirokivskogo-r-nu](https://static.openfintech.io/payout_methods/inguletska-dilnitsia-tsok-shirokivskogo-r-nu/logo.png?w=400&c=v0.59.26#w24) |[**Inguletsky area (TsOK of the Shirokovsky district)**](inguletska-dilnitsia-tsok-shirokivskogo-r-nu/)|`inguletska-dilnitsia-tsok-shirokivskogo-r-nu`| 
 |![ininal](https://static.openfintech.io/payout_methods/ininal/logo.svg?w=400&c=v0.59.26#w24) |[**Ininal**](ininal/)|`ininal`| 
+|![instant_bank_transfer](https://static.openfintech.io/payout_methods/instant_bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Instant Bank Transfer**](instant_bank_transfer/)|`instant_bank_transfer`| 
 |![intelekt-chernovtsy](https://static.openfintech.io/payout_methods/intelekt-chernovtsy/logo.png?w=400&c=v0.59.26#w24) |[**Intelekt (Chernivtsi)**](intelekt-chernovtsy/)|`intelekt-chernovtsy`| 
 |![intera-2015](https://static.openfintech.io/payout_methods/intera-2015/logo.png?w=400&c=v0.59.26#w24) |[**INTERA 2015**](intera-2015/)|`intera-2015`| 
 |![interac](https://static.openfintech.io/payout_methods/interac/logo.svg?w=400&c=v0.59.26#w24) |[**Interac Online**](interac/)|`interac`| 
@@ -774,6 +776,7 @@
 |![maksi-taksi-kremenchug](https://static.openfintech.io/payout_methods/maksi-taksi-kremenchug/logo.png?w=400&c=v0.59.26#w24) |[**Maxi Taxi (Kremenchug)**](maksi-taksi-kremenchug/)|`maksi-taksi-kremenchug`| 
 |![maksi-taksi-poltava](https://static.openfintech.io/payout_methods/maksi-taksi-poltava/logo.png?w=400&c=v0.59.26#w24) |[**Maxi Taxi (Poltava)**](maksi-taksi-poltava/)|`maksi-taksi-poltava`| 
 |![maksi-taksi-sumy](https://static.openfintech.io/payout_methods/maksi-taksi-sumy/logo.png?w=400&c=v0.59.26#w24) |[**Maxi Taxi (Sumy)**](maksi-taksi-sumy/)|`maksi-taksi-sumy`| 
+|![maldo_crypto](https://static.openfintech.io/payout_methods/maldo_crypto/logo.svg?w=400&c=v0.59.26#w24) |[**Maldo Crypto**](maldo_crypto/)|`maldo_crypto`| 
 |![malta-zhitomir](https://static.openfintech.io/payout_methods/malta-zhitomir/logo.png?w=400&c=v0.59.26#w24) |[**Malta (Zhytomyr)**](malta-zhitomir/)|`malta-zhitomir`| 
 |![mandiri_bank](https://static.openfintech.io/payout_methods/mandiri_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Mandiri Bank**](mandiri_bank/)|`mandiri_bank`| 
 |![mankovskii-res](https://static.openfintech.io/payout_methods/mankovskii-res/logo.png?w=400&c=v0.59.26#w24) |[**Mankovsky RES**](mankovskii-res/)|`mankovskii-res`| 
@@ -1288,6 +1291,7 @@
 |![paybox](https://static.openfintech.io/payout_methods/paybox/logo.svg?w=400&c=v0.59.26#w24) |[**Paybox**](paybox/)|`paybox`| 
 |![payeer](https://static.openfintech.io/payout_methods/payeer/logo.svg?w=400&c=v0.59.26#w24) |[**Payeer**](payeer/)|`payeer`| 
 |![payfix](https://static.openfintech.io/payout_methods/payfix/logo.png?w=400&c=v0.59.26#w24) |[**PayFix**](payfix/)|`payfix`| 
+|![paykwik](https://static.openfintech.io/payout_methods/paykwik/logo.svg?w=400&c=v0.59.26#w24) |[**Paykwik**](paykwik/)|`paykwik`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](payment_card/)|`payment_card`| 
 |![paypal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](paypal/)|`paypal`| 
 |![paypal_email](https://static.openfintech.io/payout_methods/paypal_email/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal by Email**](paypal_email/)|`paypal_email`| 

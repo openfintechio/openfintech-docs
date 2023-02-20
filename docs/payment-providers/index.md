@@ -69,6 +69,7 @@
 |![axiarpaymentsolutionslimited](https://static.openfintech.io/payment_providers/axiarpaymentsolutionslimited/logo.svg?w=600&c=v0.59.26#w100) |[**Axiar Payments**](axiarpaymentsolutionslimited/)|`axiarpaymentsolutionslimited`| 
 |![azulpay](https://static.openfintech.io/payment_providers/azulpay/logo.png?w=600&c=v0.59.26#w100) |[**Azul Pay**](azulpay/)|`azulpay`| 
 || **B** ||
+|![b2pay](https://static.openfintech.io/payment_providers/b2pay/logo.png?w=600&c=v0.59.26#w100) |[**b2pay.io**](b2pay/)|`b2pay`| 
 |![baianltd](https://static.openfintech.io/payment_providers/baianltd/logo.png?w=600&c=v0.59.26#w100) |[**Baian Ltd.**](baianltd/)|`baianltd`| 
 |![balticpay](https://static.openfintech.io/payment_providers/balticpay/logo.svg?w=600&c=v0.59.26#w100) |[**BalticPay Corporation**](balticpay/)|`balticpay`| 
 |![bambora](https://static.openfintech.io/payment_providers/bambora/logo.png?w=600&c=v0.59.26#w100) |[**Bambora**](bambora/)|`bambora`| 
@@ -422,6 +423,7 @@
 |![magicpayments](https://static.openfintech.io/payment_providers/magicpayments/logo.svg?w=600&c=v0.59.26#w100) |[**Magic Payments**](magicpayments/)|`magicpayments`| 
 |![magnius](https://static.openfintech.io/payment_providers/magnius/logo.png?w=600&c=v0.59.26#w100) |[**Magnius**](magnius/)|`magnius`| 
 |![maguapay](https://static.openfintech.io/payment_providers/maguapay/logo.png?w=600&c=v0.59.26#w100) |[**Magua Pay**](maguapay/)|`maguapay`| 
+|![maldopay](https://static.openfintech.io/payment_providers/maldopay/logo.png?w=600&c=v0.59.26#w100) |[**MaldoPay**](maldopay/)|`maldopay`| 
 |![mangopay](https://static.openfintech.io/payment_providers/mangopay/logo.png?w=600&c=v0.59.26#w100) |[**MangoPay**](mangopay/)|`mangopay`| 
 |![manual](https://static.openfintech.io/payment_providers/manual/logo.svg?w=600&c=v0.59.26#w100) |[**Manual**](manual/)|`manual`| 
 |![masterpayment](https://static.openfintech.io/payment_providers/masterpayment/logo.png?w=600&c=v0.59.26#w100) |[**Masterpayment**](masterpayment/)|`masterpayment`| 

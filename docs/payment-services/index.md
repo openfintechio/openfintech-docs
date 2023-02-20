@@ -44,6 +44,7 @@
 |![Bank Artha Graha](https://static.openfintech.io/payment_methods/artha_graha_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Artha Graha**](/payment-methods/artha_graha_bank/)|[`artha_graha_bank_idr_hpp`](artha_graha_bank_idr_hpp/)| 
 |![Asia Commercial Bank QR](https://static.openfintech.io/payment_methods/asia_commercial_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Asia Commercial Bank QR**](/payment-methods/asia_commercial_bank_qr/)|[`asia_commercial_bank_qr_vnd_hpp`](asia_commercial_bank_qr_vnd_hpp/)| 
 |![Asia Commercial Bank](https://static.openfintech.io/payment_methods/asia_commercial_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Asia Commercial Bank**](/payment-methods/asia_commercial_bank/)|[`asia_commercial_bank_vnd_hpp`](asia_commercial_bank_vnd_hpp/)| 
+|![Astropay](https://static.openfintech.io/payment_methods/astropay/logo.svg?w=400&c=v0.59.26#w200) |[**Astropay**](/payment-methods/astropay/)|[`astropay_try_hpp`](astropay_try_hpp/)| 
 |![Astropay - Cash / Invoice](https://static.openfintech.io/payment_methods/astropaycash/logo.svg?w=400&c=v0.59.26#w200) |[**Astropay - Cash / Invoice**](/payment-methods/astropaycash/)|[`astropaycash_eur_hpp`](astropaycash_eur_hpp/)| 
 |![Astropay - Direct Bank Transfer](https://static.openfintech.io/payment_methods/astropaydirect/logo.svg?w=400&c=v0.59.26#w200) |[**Astropay - Direct Bank Transfer**](/payment-methods/astropaydirect/)|[`astropaydirect_eur_hpp`](astropaydirect_eur_hpp/)| 
 |![Astropay - Manual Bank Transfer](https://static.openfintech.io/payment_methods/astropaymanual/logo.svg?w=400&c=v0.59.26#w200) |[**Astropay - Manual Bank Transfer**](/payment-methods/astropaymanual/)|[`astropaymanual_eur_hpp`](astropaymanual_eur_hpp/)| 
@@ -339,6 +340,8 @@
 |![Industrial Bank Of Korea (IBK) - Ho Chi Minh City Branch](https://static.openfintech.io/payment_methods/industrial_bank_ho_chi_minh/logo.png?w=400&c=v0.59.26#w200) |[**Industrial Bank Of Korea (IBK) - Ho Chi Minh City Branch**](/payment-methods/industrial_bank_ho_chi_minh/)|[`industrial_bank_ho_chi_minh_vnd_hpp`](industrial_bank_ho_chi_minh_vnd_hpp/)| 
 |![Industrial Bank of Korea](https://static.openfintech.io/payment_methods/industrial_bank_of_korea/logo.svg?w=400&c=v0.59.26#w200) |[**Industrial Bank of Korea**](/payment-methods/industrial_bank_of_korea/)|[`industrial_bank_of_korea_krw_hpp`](industrial_bank_of_korea_krw_hpp/)| 
 |![ING Bank(Poland)](https://static.openfintech.io/payment_methods/ingpl/logo.svg?w=400&c=v0.59.26#w200) |[**ING Bank(Poland)**](/payment-methods/ingpl/)|[`ingbankpl_pln_hpp`](ingbankpl_pln_hpp/)| 
+|![Instant Bank Transfer](https://static.openfintech.io/payment_methods/instant_bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Instant Bank Transfer**](/payment-methods/instant_bank_transfer/)|[`instant_bank_transfer_try_hpp`](instant_bank_transfer_try_hpp/)| 
+|![Instant Papara](https://static.openfintech.io/payment_methods/instant_papara/logo.svg?w=400&c=v0.59.26#w200) |[**Instant Papara**](/payment-methods/instant_papara/)|[`instant_papara_try_hpp`](instant_papara_try_hpp/)| 
 |![Interac Online](https://static.openfintech.io/payment_methods/interac/logo.png?w=400&c=v0.59.26#w200) |[**Interac Online**](/payment-methods/interac/)|[`interac_cad_hpp`](interac_cad_hpp/)| 
 |![Interbank](https://static.openfintech.io/payment_methods/interbank/logo.svg?w=400&c=v0.59.26#w200) |[**Interbank**](/payment-methods/interbank/)|[`interbank_pen_hpp`](interbank_pen_hpp/)| 
 |![Interbank](https://static.openfintech.io/payment_methods/interbank/logo.svg?w=400&c=v0.59.26#w200) |[**Interbank**](/payment-methods/interbank/)|[`interbank_usd_hpp`](interbank_usd_hpp/)| 
@@ -417,6 +420,7 @@
 |![Mach](https://static.openfintech.io/payment_methods/mach/logo.png?w=400&c=v0.59.26#w200) |[**Mach**](/payment-methods/mach/)|[`mach_pen_hpp`](mach_pen_hpp/)| 
 |![Mach](https://static.openfintech.io/payment_methods/mach/logo.png?w=400&c=v0.59.26#w200) |[**Mach**](/payment-methods/mach/)|[`mach_usd_hpp`](mach_usd_hpp/)| 
 |![Bank Of Maharashtra](https://static.openfintech.io/payment_methods/maharashtra_bank_india/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Of Maharashtra**](/payment-methods/maharashtra_bank_india/)|[`maharashtra_bank_india_inr_hpp`](maharashtra_bank_india_inr_hpp/)| 
+|![Maldo Crypto](https://static.openfintech.io/payment_methods/maldo_crypto/logo.svg?w=400&c=v0.59.26#w200) |[**Maldo Crypto**](/payment-methods/maldo_crypto/)|[`maldo_crypto_try_hpp`](maldo_crypto_try_hpp/)| 
 |![Mandiri Bank](https://static.openfintech.io/payment_methods/mandiri_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Mandiri Bank**](/payment-methods/mandiri_bank/)|[`mandiri_bank_idr_hpp`](mandiri_bank_idr_hpp/)| 
 |![Vietnam Maritime Commercial Joint Stock Bank](https://static.openfintech.io/payment_methods/maritime_bank/logo.png?w=400&c=v0.59.26#w200) |[**Vietnam Maritime Commercial Joint Stock Bank**](/payment-methods/maritime_bank/)|[`maritime_bank_vnd_hpp`](maritime_bank_vnd_hpp/)| 
 |![Bank Maspion](https://static.openfintech.io/payment_methods/maspion_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Maspion**](/payment-methods/maspion_bank/)|[`maspion_bank_idr_hpp`](maspion_bank_idr_hpp/)| 
@@ -513,6 +517,7 @@
 |![Payeer](https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&c=v0.59.26#w200) |[**Payeer**](/payment-methods/payeer/)|[`payeer_rub_hpp`](payeer_rub_hpp/)| 
 |![Payeer](https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&c=v0.59.26#w200) |[**Payeer**](/payment-methods/payeer/)|[`payeer_usd_hpp`](payeer_usd_hpp/)| 
 |![Payfix](https://static.openfintech.io/payment_methods/payfix/logo.png?w=400&c=v0.59.26#w200) |[**Payfix**](/payment-methods/payfix/)|[`payfix_try_hpp`](payfix_try_hpp/)| 
+|![Paykwik](https://static.openfintech.io/payment_methods/paykwik/logo.svg?w=400&c=v0.59.26#w200) |[**Paykwik**](/payment-methods/paykwik/)|[`paykwik_try_hpp`](paykwik_try_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_aed_hpp`](payment_card_aed_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_amd_hpp`](payment_card_amd_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_aud_hpp`](payment_card_aud_hpp/)| 

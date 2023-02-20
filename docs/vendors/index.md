@@ -167,6 +167,7 @@
 |![azulpay](https://static.openfintech.io/vendors/azulpay/logo.png?w=600&c=v0.59.26#w200) |[**Azul Pay**](azulpay/)|`azulpay`| 
 || **B** ||
 |![b1nk](https://static.openfintech.io/vendors/b1nk/logo.svg?w=600&c=v0.59.26#w200) |[**B1NK**](b1nk/)|`b1nk`| 
+|![b2pay](https://static.openfintech.io/vendors/b2pay/logo.png?w=600&c=v0.59.26#w200) |[**b2pay.io**](b2pay/)|`b2pay`| 
 |![babasiki.ru](https://static.openfintech.io/vendors/babasiki.ru/logo.svg?w=600&c=v0.59.26#w200) |[**Babasiki**](babasiki.ru/)|`babasiki.ru`| 
 |![baianltd](https://static.openfintech.io/vendors/baianltd/logo.png?w=600&c=v0.59.26#w200) |[**Baian Ltd.**](baianltd/)|`baianltd`| 
 |![baksman](https://static.openfintech.io/vendors/baksman/logo.svg?w=600&c=v0.59.26#w200) |[**BaksMan**](baksman/)|`baksman`| 
@@ -927,6 +928,7 @@
 |![magneticexchange](https://static.openfintech.io/vendors/magneticexchange/logo.svg?w=600&c=v0.59.26#w200) |[**MagneticExchange**](magneticexchange/)|`magneticexchange`| 
 |![magnius](https://static.openfintech.io/vendors/magnius/logo.png?w=600&c=v0.59.26#w200) |[**Magnius**](magnius/)|`magnius`| 
 |![maguapay](https://static.openfintech.io/vendors/maguapay/logo.png?w=600&c=v0.59.26#w200) |[**Magua Pay**](maguapay/)|`maguapay`| 
+|![maldopay](https://static.openfintech.io/vendors/maldopay/logo.png?w=600&c=v0.59.26#w200) |[**MaldoPay**](maldopay/)|`maldopay`| 
 |![mangopay](https://static.openfintech.io/vendors/mangopay/logo.png?w=600&c=v0.59.26#w200) |[**MangoPay**](mangopay/)|`mangopay`| 
 |![mariup_f_pat_kbprivatbankm_mariupol](https://static.openfintech.io/vendors/mariup_f_pat_kbprivatbankm_mariupol/logo.svg?w=600&c=v0.59.26#w200) |[**МАРІУПОЛЬСЬКА ФІЛІЯ ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](mariup_f_pat_kbprivatbankm_mariupol/)|`mariup_f_pat_kbprivatbankm_mariupol`| 
 |![mastercard](https://static.openfintech.io/vendors/mastercard/logo.svg?w=600&c=v0.59.26#w200) |[**MasterCard**](mastercard/)|`mastercard`| 

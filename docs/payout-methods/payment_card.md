@@ -417,6 +417,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![payabl](https://static.openfintech.io/payment_providers/payabl/icon.png?w=278&c=v0.59.26#w100) |[Payabl.](/payment-providers/payabl/)|`payabl`| 
 |![fiatsystems](https://static.openfintech.io/payment_providers/fiatsystems/icon.png?w=278&c=v0.59.26#w100) |[FiatSystems](/payment-providers/fiatsystems/)|`fiatsystems`| 
 |![antrpay](https://static.openfintech.io/payment_providers/antrpay/icon.svg?w=278&c=v0.59.26#w100) |[Antrpay](/payment-providers/antrpay/)|`antrpay`| 
+|![b2pay](https://static.openfintech.io/payment_providers/b2pay/icon.png?w=278&c=v0.59.26#w100) |[b2pay.io](/payment-providers/b2pay/)|`b2pay`| 
+|![maldopay](https://static.openfintech.io/payment_providers/maldopay/icon.png?w=278&c=v0.59.26#w100) |[MaldoPay](/payment-providers/maldopay/)|`maldopay`| 
  
 
 ## JSON Object 
