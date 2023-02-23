@@ -1559,6 +1559,7 @@
 |![simplepay](https://static.openfintech.io/vendors/simplepay/logo.png?w=600&c=v0.59.26#w200) |[**SimplePay**](simplepay/)|`simplepay`| 
 |![simplex](https://static.openfintech.io/vendors/simplex/logo.png?w=600&c=v0.59.26#w200) |[**Simplex**](simplex/)|`simplex`| 
 |![simplifycommerce](https://static.openfintech.io/vendors/simplifycommerce/logo.png?w=600&c=v0.59.26#w200) |[**Simplify Commerce**](simplifycommerce/)|`simplifycommerce`| 
+|![sirpaga](https://static.openfintech.io/vendors/sirpaga/logo.png?w=600&c=v0.59.26#w200) |[**Sirpaga**](sirpaga/)|`sirpaga`| 
 |![sirumobile](https://static.openfintech.io/vendors/sirumobile/logo.png?w=600&c=v0.59.26#w200) |[**Siru Mobile**](sirumobile/)|`sirumobile`| 
 |![sisow](https://static.openfintech.io/vendors/sisow/logo.png?w=600&c=v0.59.26#w200) |[**Sisow**](sisow/)|`sisow`| 
 |![sitibank](https://static.openfintech.io/vendors/sitibank/logo.svg?w=600&c=v0.59.26#w200) |[**Ситибанк**](sitibank/)|`sitibank`| 

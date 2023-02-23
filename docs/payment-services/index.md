@@ -113,7 +113,19 @@
 |![Binance Coin](https://static.openfintech.io/payment_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Coin**](/payment-methods/binance_coin/)|[`binance_coin_bnb_hpp`](binance_coin_bnb_hpp/)| 
 |![Binance smart chain](https://static.openfintech.io/payment_methods/binance_smart_chain/logo.png?w=400&c=v0.59.26#w200) |[**Binance smart chain**](/payment-methods/binance_smart_chain/)|[`binance_smart_chain_bep20_bnb_hpp`](binance_smart_chain_bep20_bnb_hpp/)| 
 |![Binance Usd](https://static.openfintech.io/payment_methods/binance_usd/logo.png?w=400&c=v0.59.26#w200) |[**Binance Usd**](/payment-methods/binance_usd/)|[`binance_usd_busd_hpp`](binance_usd_busd_hpp/)| 
+|![Binance Pay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](/payment-methods/binancepay/)|[`binancepay_aud_hpp`](binancepay_aud_hpp/)| 
+|![Binance Pay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](/payment-methods/binancepay/)|[`binancepay_azn_hpp`](binancepay_azn_hpp/)| 
+|![Binance Pay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](/payment-methods/binancepay/)|[`binancepay_brl_hpp`](binancepay_brl_hpp/)| 
+|![Binance Pay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](/payment-methods/binancepay/)|[`binancepay_cad_hpp`](binancepay_cad_hpp/)| 
+|![Binance Pay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](/payment-methods/binancepay/)|[`binancepay_eur_hpp`](binancepay_eur_hpp/)| 
+|![Binance Pay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](/payment-methods/binancepay/)|[`binancepay_inr_hpp`](binancepay_inr_hpp/)| 
+|![Binance Pay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](/payment-methods/binancepay/)|[`binancepay_kgs_hpp`](binancepay_kgs_hpp/)| 
+|![Binance Pay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](/payment-methods/binancepay/)|[`binancepay_kzt_hpp`](binancepay_kzt_hpp/)| 
+|![Binance Pay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](/payment-methods/binancepay/)|[`binancepay_pln_hpp`](binancepay_pln_hpp/)| 
+|![Binance Pay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](/payment-methods/binancepay/)|[`binancepay_try_hpp`](binancepay_try_hpp/)| 
 |![Binance Pay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](/payment-methods/binancepay/)|[`binancepay_uah_hpp`](binancepay_uah_hpp/)| 
+|![Binance Pay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](/payment-methods/binancepay/)|[`binancepay_usd_hpp`](binancepay_usd_hpp/)| 
+|![Binance Pay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](/payment-methods/binancepay/)|[`binancepay_uzs_hpp`](binancepay_uzs_hpp/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_bch_hpp`](bitcoin_bch_hpp/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_bch_invoice`](bitcoin_bch_invoice/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_btc_hpp`](bitcoin_btc_hpp/)| 

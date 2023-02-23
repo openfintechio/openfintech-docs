@@ -716,6 +716,7 @@
 |![sidpayment](https://static.openfintech.io/payment_providers/sidpayment/logo.png?w=600&c=v0.59.26#w100) |[**SID Instant EFT**](sidpayment/)|`sidpayment`| 
 |![simplepay](https://static.openfintech.io/payment_providers/simplepay/logo.png?w=600&c=v0.59.26#w100) |[**SimplePay**](simplepay/)|`simplepay`| 
 |![simplifycommerce](https://static.openfintech.io/payment_providers/simplifycommerce/logo.png?w=600&c=v0.59.26#w100) |[**Simplify Commerce**](simplifycommerce/)|`simplifycommerce`| 
+|![sirpaga](https://static.openfintech.io/payment_providers/sirpaga/logo.png?w=600&c=v0.59.26#w100) |[**Sirpaga**](sirpaga/)|`sirpaga`| 
 |![sirumobile](https://static.openfintech.io/payment_providers/sirumobile/logo.png?w=600&c=v0.59.26#w100) |[**Siru Mobile**](sirumobile/)|`sirumobile`| 
 |![sisow](https://static.openfintech.io/payment_providers/sisow/logo.png?w=600&c=v0.59.26#w100) |[**Sisow**](sisow/)|`sisow`| 
 |![sixpaymentservices](https://static.openfintech.io/payment_providers/sixpaymentservices/logo.png?w=600&c=v0.59.26#w100) |[**SIX Payment Services**](sixpaymentservices/)|`sixpaymentservices`| 

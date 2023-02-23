@@ -10,7 +10,7 @@
  
 :	[EN] Payeer 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Links:** 
 : website [https://payeer.com/en/](https://payeer.com/en/) 
@@ -42,7 +42,7 @@ https://static.openfintech.io/vendors/payeer/icon.png?w=278&c=v0.59.26#w100
   "name":{
     "en":"Payeer"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":{
     "website":"https:\/\/payeer.com\/en\/"
