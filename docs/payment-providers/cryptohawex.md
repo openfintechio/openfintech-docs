@@ -49,6 +49,21 @@ The list of supported [Payment Methods](/payment-methods/)
 |![binance_smart_chain](https://static.openfintech.io/payment_methods/binance_smart_chain/icon.svg?w=278&c=v0.59.26#w100) |[binance_smart_chain](/payment-methods/binance_smart_chain/)|`binance_smart_chain`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![bitcoin](https://static.openfintech.io/payout_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w40) |[bitcoin](payout-methodsbitcoin/)|`bitcoin`| 
+|![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether](payout-methodstether/)|`tether`| 
+|![tron](https://static.openfintech.io/payout_methods/tron/icon.png?w=278&c=v0.59.26#w40) |[tron](payout-methodstron/)|`tron`| 
+|![usd_coin](https://static.openfintech.io/payout_methods/usd_coin/icon.png?w=278&c=v0.59.26#w40) |[usd_coin](payout-methodsusd_coin/)|`usd_coin`| 
+|![ethereum](https://static.openfintech.io/payout_methods/ethereum/icon.svg?w=278&c=v0.59.26#w40) |[ethereum](payout-methodsethereum/)|`ethereum`| 
+|![dai_coin](https://static.openfintech.io/payout_methods/dai_coin/icon.png?w=278&c=v0.59.26#w40) |[dai_coin](payout-methodsdai_coin/)|`dai_coin`| 
+|![binance_smart_chain](https://static.openfintech.io/payout_methods/binance_smart_chain/icon.svg?w=278&c=v0.59.26#w40) |[binance_smart_chain](payout-methodsbinance_smart_chain/)|`binance_smart_chain`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -68,7 +83,15 @@ The list of supported [Payment Methods](/payment-methods/)
     "dai_coin",
     "binance_smart_chain"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "bitcoin",
+    "tether",
+    "tron",
+    "usd_coin",
+    "ethereum",
+    "dai_coin",
+    "binance_smart_chain"
+  ],
   "metadata":null,
   "name":{
     "en":"CryptoHawex",

@@ -1402,6 +1402,7 @@
 |![picpay](https://static.openfintech.io/vendors/picpay/logo.svg?w=600&c=v0.59.26#w200) |[**PicPay**](picpay/)|`picpay`| 
 |![pingping](https://static.openfintech.io/vendors/pingping/logo.png?w=600&c=v0.59.26#w200) |[**ping.ping**](pingping/)|`pingping`| 
 |![pinpayments](https://static.openfintech.io/vendors/pinpayments/logo.png?w=600&c=v0.59.26#w200) |[**Pin Payments**](pinpayments/)|`pinpayments`| 
+|![pionpay](https://static.openfintech.io/vendors/pionpay/logo.png?w=600&c=v0.59.26#w200) |[**PionPay**](pionpay/)|`pionpay`| 
 |![pivdennybank](https://static.openfintech.io/vendors/pivdennybank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ АКЦІОНЕРНИЙ БАНК 'ПІВДЕННИЙ'**](pivdennybank/)|`pivdennybank`| 
 |![pivotalpayments](https://static.openfintech.io/vendors/pivotalpayments/logo.png?w=600&c=v0.59.26#w200) |[**Pivotal Payments**](pivotalpayments/)|`pivotalpayments`| 
 |![planetpayment](https://static.openfintech.io/vendors/planetpayment/logo.png?w=600&c=v0.59.26#w200) |[**Planet Payment**](planetpayment/)|`planetpayment`| 

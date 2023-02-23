@@ -417,6 +417,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![maldopay](https://static.openfintech.io/payment_providers/maldopay/icon.png?w=278&c=v0.59.26#w100) |[MaldoPay](/payment-providers/maldopay/)|`maldopay`| 
 |![sirpaga](https://static.openfintech.io/payment_providers/sirpaga/icon.png?w=278&c=v0.59.26#w100) |[Sirpaga](/payment-providers/sirpaga/)|`sirpaga`| 
 |![prmoney](https://static.openfintech.io/payment_providers/prmoney/icon.png?w=278&c=v0.59.26#w100) |[PrMoney](/payment-providers/prmoney/)|`prmoney`| 
+|![pionpay](https://static.openfintech.io/payment_providers/pionpay/icon.png?w=278&c=v0.59.26#w100) |[PionPay](/payment-providers/pionpay/)|`pionpay`| 
  
 
 ## JSON Object 

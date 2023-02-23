@@ -641,6 +641,7 @@
 |![piastrix](https://static.openfintech.io/payment_providers/piastrix/logo.svg?w=600&c=v0.59.26#w100) |[**Piastrix**](piastrix/)|`piastrix`| 
 |![picksell](https://static.openfintech.io/payment_providers/picksell/logo.png?w=600&c=v0.59.26#w100) |[**Picksell**](picksell/)|`picksell`| 
 |![pinpayments](https://static.openfintech.io/payment_providers/pinpayments/logo.png?w=600&c=v0.59.26#w100) |[**Pin Payments**](pinpayments/)|`pinpayments`| 
+|![pionpay](https://static.openfintech.io/payment_providers/pionpay/logo.png?w=600&c=v0.59.26#w100) |[**PionPay**](pionpay/)|`pionpay`| 
 |![pivdennybank](https://static.openfintech.io/payment_providers/pivdennybank/logo.svg?w=600&c=v0.59.26#w100) |[**Bank Pivdenny**](pivdennybank/)|`pivdennybank`| 
 |![pivotalpayments](https://static.openfintech.io/payment_providers/pivotalpayments/logo.png?w=600&c=v0.59.26#w100) |[**Pivotal Payments**](pivotalpayments/)|`pivotalpayments`| 
 |![planetpayment](https://static.openfintech.io/payment_providers/planetpayment/logo.png?w=600&c=v0.59.26#w100) |[**Planet Payment**](planetpayment/)|`planetpayment`| 

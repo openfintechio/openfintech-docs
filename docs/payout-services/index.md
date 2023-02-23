@@ -181,6 +181,7 @@
 |![BIDV Bank](https://static.openfintech.io/payout_methods/bidv_bank/logo.svg?w=400&c=v0.59.26#w24) |[**BIDV Bank**](/payout-methods/bidv_bank/)|[`bidv_bank_vnd`](bidv_bank_vnd/)|`VND`| 
 |![Bilotserkovteplomerezha](https://static.openfintech.io/payout_methods/bilotserkovteplomerezha/logo.png?w=400&c=v0.59.26#w24) |[**Bilotserkovteplomerezha**](/payout-methods/bilotserkovteplomerezha/)|[`bilotserkovteplomerezha_uah`](bilotserkovteplomerezha_uah/)|`UAH`| 
 |![Binance coin](https://static.openfintech.io/payout_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w24) |[**Binance coin**](/payout-methods/binance_coin/)|[`binance_coin_bnb`](binance_coin_bnb/)|`BNB`| 
+|![Binance smart chain](https://static.openfintech.io/payout_methods/binance_smart_chain/logo.png?w=400&c=v0.59.26#w24) |[**Binance smart chain**](/payout-methods/binance_smart_chain/)|[`binance_smart_chain_bnb`](binance_smart_chain_bnb/)|`BNB`| 
 |![Binance Usd](https://static.openfintech.io/payout_methods/binance_usd/logo.png?w=400&c=v0.59.26#w24) |[**Binance Usd**](/payout-methods/binance_usd/)|[`binance_usd_busd`](binance_usd_busd/)|`BUSD`| 
 |![BISNET (Odessa region)](https://static.openfintech.io/payout_methods/bisnet-odesskaia-oblast/logo.png?w=400&c=v0.59.26#w24) |[**BISNET (Odessa region)**](/payout-methods/bisnet-odesskaia-oblast/)|[`bisnet-odesskaia-oblast_uah`](bisnet-odesskaia-oblast_uah/)|`UAH`| 
 |![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_btc`](bitcoin_btc/)|`BTC`| 
@@ -283,6 +284,8 @@
 |![CYBERLAN (Харківська)](https://static.openfintech.io/payout_methods/cyberlan-kharkivska/logo.svg?w=400&c=v0.59.26#w24) |[**CYBERLAN (Харківська)**](/payout-methods/cyberlan-kharkivska/)|[`cyberlan-kharkivska_uah`](cyberlan-kharkivska_uah/)|`UAH`| 
 ||| **D** ||
 |![Д.А.4 ОК.Net (Киев)](https://static.openfintech.io/payout_methods/d-a-4-ok-net-kiev/logo.svg?w=400&c=v0.59.26#w24) |[**Д.А.4 ОК.Net (Киев)**](/payout-methods/d-a-4-ok-net-kiev/)|[`d-a-4-ok-net-kiev_uah`](d-a-4-ok-net-kiev_uah/)|`UAH`| 
+|![Dai Coin](https://static.openfintech.io/payout_methods/dai_coin/logo.png?w=400&c=v0.59.26#w24) |[**Dai Coin**](/payout-methods/dai_coin/)|[`dai_coin_daibep20`](dai_coin_daibep20/)|`DAIBEP20`| 
+|![Dai Coin](https://static.openfintech.io/payout_methods/dai_coin/logo.png?w=400&c=v0.59.26#w24) |[**Dai Coin**](/payout-methods/dai_coin/)|[`dai_coin_daierc20`](dai_coin_daierc20/)|`DAIERC20`| 
 |![Danamon Bank](https://static.openfintech.io/payout_methods/danamon_bank/logo.png?w=400&c=v0.59.26#w24) |[**Danamon Bank**](/payout-methods/danamon_bank/)|[`danamon_bank_idr`](danamon_bank_idr/)|`IDR`| 
 |![Danske Bank](https://static.openfintech.io/payout_methods/danske_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Danske Bank**](/payout-methods/danske_bank/)|[`danske_bank_dkk`](danske_bank_dkk/)|`DKK`| 
 |![Danske Bank](https://static.openfintech.io/payout_methods/danske_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Danske Bank**](/payout-methods/danske_bank/)|[`danske_bank_eur`](danske_bank_eur/)|`EUR`| 
@@ -1839,6 +1842,9 @@
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_trc20_usd`](tether_trc20_usd/)|`USD`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_trc20_usdt`](tether_trc20_usdt/)|`USDT`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_usd`](tether_usd/)|`USD`| 
+|![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_usdtbep20`](tether_usdtbep20/)|`USDTBEP20`| 
+|![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_usdterc20`](tether_usdterc20/)|`USDTERC20`| 
+|![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_usdttrc20`](tether_usdttrc20/)|`USDTTRC20`| 
 |![TezTelecom for agencies](https://static.openfintech.io/payout_methods/teztelecom-dlia-agenstv/logo.png?w=400&c=v0.59.26#w24) |[**TezTelecom for agencies**](/payout-methods/teztelecom-dlia-agenstv/)|[`teztelecom-dlia-agenstv_uah`](teztelecom-dlia-agenstv_uah/)|`UAH`| 
 |![TezTelecom for tourists](https://static.openfintech.io/payout_methods/teztelecom-dlia-turistov/logo.png?w=400&c=v0.59.26#w24) |[**TezTelecom for tourists**](/payout-methods/teztelecom-dlia-turistov/)|[`teztelecom-dlia-turistov_uah`](teztelecom-dlia-turistov_uah/)|`UAH`| 
 |![Thai Military Bank](https://static.openfintech.io/payout_methods/thai_military_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Thai Military Bank**](/payout-methods/thai_military_bank/)|[`thai_military_bank_thb`](thai_military_bank_thb/)|`THB`| 
@@ -2216,6 +2222,9 @@
 |![Упр.компания ЖКУ МИРЦ г.Артемовск](https://static.openfintech.io/payout_methods/upr-kompaniia-zhku-mirts-g-artemovsk/logo.svg?w=400&c=v0.59.26#w24) |[**Упр.компания ЖКУ МИРЦ г.Артемовск**](/payout-methods/upr-kompaniia-zhku-mirts-g-artemovsk/)|[`upr-kompaniia-zhku-mirts-g-artemovsk_uah`](upr-kompaniia-zhku-mirts-g-artemovsk_uah/)|`UAH`| 
 |![Urban Management (Vishneve)](https://static.openfintech.io/payout_methods/upravlenie-gorodskim-khoziaistvom-g-vishneve/logo.png?w=400&c=v0.59.26#w24) |[**Urban Management (Vishneve)**](/payout-methods/upravlenie-gorodskim-khoziaistvom-g-vishneve/)|[`upravlenie-gorodskim-khoziaistvom-g-vishneve_uah`](upravlenie-gorodskim-khoziaistvom-g-vishneve_uah/)|`UAH`| 
 |![USD Coin](https://static.openfintech.io/payout_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w24) |[**USD Coin**](/payout-methods/usd_coin/)|[`usd_coin_usdc`](usd_coin_usdc/)|`USDC`| 
+|![USD Coin](https://static.openfintech.io/payout_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w24) |[**USD Coin**](/payout-methods/usd_coin/)|[`usd_coin_usdcbep20`](usd_coin_usdcbep20/)|`USDCBEP20`| 
+|![USD Coin](https://static.openfintech.io/payout_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w24) |[**USD Coin**](/payout-methods/usd_coin/)|[`usd_coin_usdcerc20`](usd_coin_usdcerc20/)|`USDCERC20`| 
+|![USD Coin](https://static.openfintech.io/payout_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w24) |[**USD Coin**](/payout-methods/usd_coin/)|[`usd_coin_usdctrc20`](usd_coin_usdctrc20/)|`USDCTRC20`| 
 |![Uteam (Ivano-Frankivsk)](https://static.openfintech.io/payout_methods/uteam-ivano-frankivsk/logo.png?w=400&c=v0.59.26#w24) |[**Uteam (Ivano-Frankivsk)**](/payout-methods/uteam-ivano-frankivsk/)|[`uteam-ivano-frankivsk_uah`](uteam-ivano-frankivsk_uah/)|`UAH`| 
 |![UTELS (Kiev)](https://static.openfintech.io/payout_methods/utels-g-kiev/logo.png?w=400&c=v0.59.26#w24) |[**UTELS (Kiev)**](/payout-methods/utels-g-kiev/)|[`utels-g-kiev_uah`](utels-g-kiev_uah/)|`UAH`| 
 |![Attention Tuberculosis - ICF DSPM](https://static.openfintech.io/payout_methods/uvaga-tuberkuloz-mbf-tsspm/logo.png?w=400&c=v0.59.26#w24) |[**Attention Tuberculosis - ICF DSPM**](/payout-methods/uvaga-tuberkuloz-mbf-tsspm/)|[`uvaga-tuberkuloz-mbf-tsspm_uah`](uvaga-tuberkuloz-mbf-tsspm_uah/)|`UAH`| 

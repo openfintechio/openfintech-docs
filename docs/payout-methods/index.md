@@ -151,6 +151,7 @@
 |![bidv_bank_qr](https://static.openfintech.io/payout_methods/bidv_bank_qr/logo.svg?w=400&c=v0.59.26#w24) |[**BIDV Bank QR**](bidv_bank_qr/)|`bidv_bank_qr`| 
 |![bilotserkovteplomerezha](https://static.openfintech.io/payout_methods/bilotserkovteplomerezha/logo.png?w=400&c=v0.59.26#w24) |[**Bilotserkovteplomerezha**](bilotserkovteplomerezha/)|`bilotserkovteplomerezha`| 
 |![binance_coin](https://static.openfintech.io/payout_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w24) |[**Binance coin**](binance_coin/)|`binance_coin`| 
+|![binance_smart_chain](https://static.openfintech.io/payout_methods/binance_smart_chain/logo.png?w=400&c=v0.59.26#w24) |[**Binance smart chain**](binance_smart_chain/)|`binance_smart_chain`| 
 |![binance_usd](https://static.openfintech.io/payout_methods/binance_usd/logo.png?w=400&c=v0.59.26#w24) |[**Binance Usd**](binance_usd/)|`binance_usd`| 
 |![bisnet-odesskaia-oblast](https://static.openfintech.io/payout_methods/bisnet-odesskaia-oblast/logo.png?w=400&c=v0.59.26#w24) |[**BISNET (Odessa region)**](bisnet-odesskaia-oblast/)|`bisnet-odesskaia-oblast`| 
 |![bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](bitcoin/)|`bitcoin`| 
@@ -243,6 +244,7 @@
 |![cyberlan-kharkivska](https://static.openfintech.io/payout_methods/cyberlan-kharkivska/logo.svg?w=400&c=v0.59.26#w24) |[**CYBERLAN (Харківська)**](cyberlan-kharkivska/)|`cyberlan-kharkivska`| 
 || **D** ||
 |![d-a-4-ok-net-kiev](https://static.openfintech.io/payout_methods/d-a-4-ok-net-kiev/logo.svg?w=400&c=v0.59.26#w24) |[**Д.А.4 ОК.Net (Киев)**](d-a-4-ok-net-kiev/)|`d-a-4-ok-net-kiev`| 
+|![dai_coin](https://static.openfintech.io/payout_methods/dai_coin/logo.png?w=400&c=v0.59.26#w24) |[**Dai Coin**](dai_coin/)|`dai_coin`| 
 |![danamon_bank](https://static.openfintech.io/payout_methods/danamon_bank/logo.png?w=400&c=v0.59.26#w24) |[**Danamon Bank**](danamon_bank/)|`danamon_bank`| 
 |![danske_bank](https://static.openfintech.io/payout_methods/danske_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Danske Bank**](danske_bank/)|`danske_bank`| 
 |![dash](https://static.openfintech.io/payout_methods/dash/logo.png?w=400&c=v0.59.26#w24) |[**Dash**](dash/)|`dash`| 
