@@ -1440,6 +1440,7 @@
 |![privat_bank](https://static.openfintech.io/vendors/privat_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Приват банк**](privat_bank/)|`privat_bank`| 
 |![privatbank](https://static.openfintech.io/vendors/privatbank/logo.svg?w=600&c=v0.59.26#w200) |[**Privat Banks**](privatbank/)|`privatbank`| 
 |![privatmoney](https://static.openfintech.io/vendors/privatmoney/logo.svg?w=600&c=v0.59.26#w200) |[**PrivatMoney**](privatmoney/)|`privatmoney`| 
+|![prmoney](https://static.openfintech.io/vendors/prmoney/logo.png?w=600&c=v0.59.26#w200) |[**PrMoney**](prmoney/)|`prmoney`| 
 |![procard](https://static.openfintech.io/vendors/procard/logo.png?w=600&c=v0.59.26#w200) |[**Procard**](procard/)|`procard`| 
 |![processingcom](https://static.openfintech.io/vendors/processingcom/logo.png?w=600&c=v0.59.26#w200) |[**Processing.com**](processingcom/)|`processingcom`| 
 |![processingpartners](https://static.openfintech.io/vendors/processingpartners/logo.png?w=600&c=v0.59.26#w200) |[**Processing Partners**](processingpartners/)|`processingpartners`| 

@@ -92,6 +92,10 @@ The list of [Payment Services](/payment-services/) based on the _Payment card_
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_bdt_hpp](/payment-services/payment_card_bdt_hpp/)|`payment_card_bdt_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_lkr_hpp](/payment-services/payment_card_lkr_hpp/)|`payment_card_lkr_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_mad_hpp](/payment-services/payment_card_mad_hpp/)|`payment_card_mad_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_vef_hpp](/payment-services/payment_card_vef_hpp/)|`payment_card_vef_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_nhl_hpp](/payment-services/payment_card_nhl_hpp/)|`payment_card_nhl_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_crc_hpp](/payment-services/payment_card_crc_hpp/)|`payment_card_crc_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_bwp_hpp](/payment-services/payment_card_bwp_hpp/)|`payment_card_bwp_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_thb_hpp](/payment-services/payment_card_thb_hpp/)|`payment_card_thb_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_npr_hpp](/payment-services/payment_card_npr_hpp/)|`payment_card_npr_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_ils_hpp](/payment-services/payment_card_ils_hpp/)|`payment_card_ils_hpp`| 
@@ -412,6 +416,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![b2pay](https://static.openfintech.io/payment_providers/b2pay/icon.png?w=278&c=v0.59.26#w100) |[b2pay.io](/payment-providers/b2pay/)|`b2pay`| 
 |![maldopay](https://static.openfintech.io/payment_providers/maldopay/icon.png?w=278&c=v0.59.26#w100) |[MaldoPay](/payment-providers/maldopay/)|`maldopay`| 
 |![sirpaga](https://static.openfintech.io/payment_providers/sirpaga/icon.png?w=278&c=v0.59.26#w100) |[Sirpaga](/payment-providers/sirpaga/)|`sirpaga`| 
+|![prmoney](https://static.openfintech.io/payment_providers/prmoney/icon.png?w=278&c=v0.59.26#w100) |[PrMoney](/payment-providers/prmoney/)|`prmoney`| 
  
 
 ## JSON Object 
