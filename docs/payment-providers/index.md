@@ -412,6 +412,7 @@
 |![leobank](https://static.openfintech.io/payment_providers/leobank/logo.png?w=600&c=v0.59.26#w100) |[**LeoBank**](leobank/)|`leobank`| 
 |![leogaming](https://static.openfintech.io/payment_providers/leogaming/logo.svg?w=600&c=v0.59.26#w100) |[**LeoGaming**](leogaming/)|`leogaming`| 
 |![lianlianpay](https://static.openfintech.io/payment_providers/lianlianpay/logo.png?w=600&c=v0.59.26#w100) |[**LianlianPay**](lianlianpay/)|`lianlianpay`| 
+|![libernetix](https://static.openfintech.io/payment_providers/libernetix/logo.svg?w=600&c=v0.59.26#w100) |[**Libernetix**](libernetix/)|`libernetix`| 
 |![limonetik](https://static.openfintech.io/payment_providers/limonetik/logo.png?w=600&c=v0.59.26#w100) |[**Limonetik**](limonetik/)|`limonetik`| 
 |![linked2pay](https://static.openfintech.io/payment_providers/linked2pay/logo.png?w=600&c=v0.59.26#w100) |[**linked2pay**](linked2pay/)|`linked2pay`| 
 |![linkpay](https://static.openfintech.io/payment_providers/linkpay/logo.png?w=600&c=v0.59.26#w100) |[**Linkpay**](linkpay/)|`linkpay`| 
