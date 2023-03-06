@@ -16,7 +16,7 @@
 :	[RU] Card 
 :	[UK] Card 
  
-**Amount limits:** from `25000` to `250000000000` VEF 
+**Amount limits:** from `25000` to `25000000000` VEF 
 
 ## Fields 
 
@@ -82,6 +82,6 @@
     }
   ],
   "amount_min":"25000",
-  "amount_max":"250000000000"
+  "amount_max":"25000000000"
 }
 ```  
