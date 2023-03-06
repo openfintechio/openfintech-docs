@@ -106,6 +106,10 @@ The list of [Payout Services](/payout-services/) based on the _Card_
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_idr](/payout-services/payment_card_idr/)|`payment_card_idr`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_mxn](/payout-services/payment_card_mxn/)|`payment_card_mxn`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_mad](/payout-services/payment_card_mad/)|`payment_card_mad`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_vef](/payout-services/payment_card_vef/)|`payment_card_vef`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_hnl](/payout-services/payment_card_hnl/)|`payment_card_hnl`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_crc](/payout-services/payment_card_crc/)|`payment_card_crc`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_bwp](/payout-services/payment_card_bwp/)|`payment_card_bwp`| 
  
 
 ## Payment Providers 
