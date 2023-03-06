@@ -366,6 +366,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![inwizo](https://static.openfintech.io/payment_providers/inwizo/icon.svg?w=278&c=v0.59.26#w100) |[Inwizo](/payment-providers/inwizo/)|`inwizo`| 
 |![kvitum](https://static.openfintech.io/payment_providers/kvitum/icon.svg?w=278&c=v0.59.26#w100) |[Kvitum](/payment-providers/kvitum/)|`kvitum`| 
 |![maguapay](https://static.openfintech.io/payment_providers/maguapay/icon.png?w=278&c=v0.59.26#w100) |[Magua Pay](/payment-providers/maguapay/)|`maguapay`| 
+|![planbpay](https://static.openfintech.io/payment_providers/planbpay/icon.svg?w=278&c=v0.59.26#w100) |[Planbpay](/payment-providers/planbpay/)|`planbpay`| 
 |![virtpay](https://static.openfintech.io/payment_providers/virtpay/icon.png?w=278&c=v0.59.26#w100) |[Virtpay](/payment-providers/virtpay/)|`virtpay`| 
 |![remitos](https://static.openfintech.io/payment_providers/remitos/icon.png?w=278&c=v0.59.26#w100) |[Remitos](/payment-providers/remitos/)|`remitos`| 
 |![payecardsakurateco](https://static.openfintech.io/payment_providers/payecardsakurateco/icon.png?w=278&c=v0.59.26#w100) |[PayeCards Akurateco](/payment-providers/payecardsakurateco/)|`payecardsakurateco`| 
@@ -421,8 +422,10 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![maldopay](https://static.openfintech.io/payment_providers/maldopay/icon.png?w=278&c=v0.59.26#w100) |[MaldoPay](/payment-providers/maldopay/)|`maldopay`| 
 |![sirpaga](https://static.openfintech.io/payment_providers/sirpaga/icon.png?w=278&c=v0.59.26#w100) |[Sirpaga](/payment-providers/sirpaga/)|`sirpaga`| 
 |![prmoney](https://static.openfintech.io/payment_providers/prmoney/icon.png?w=278&c=v0.59.26#w100) |[PrMoney](/payment-providers/prmoney/)|`prmoney`| 
+|![addonpayments](https://static.openfintech.io/payment_providers/addonpayments/icon.svg?w=278&c=v0.59.26#w100) |[AddonPayments](/payment-providers/addonpayments/)|`addonpayments`| 
 |![pionpay](https://static.openfintech.io/payment_providers/pionpay/icon.png?w=278&c=v0.59.26#w100) |[PionPay](/payment-providers/pionpay/)|`pionpay`| 
 |![libernetix](https://static.openfintech.io/payment_providers/libernetix/icon.svg?w=278&c=v0.59.26#w100) |[Libernetix](/payment-providers/libernetix/)|`libernetix`| 
+|![epro](https://static.openfintech.io/payment_providers/epro/icon.svg?w=278&c=v0.59.26#w100) |[E-PRO](/payment-providers/epro/)|`epro`| 
  
 
 ## JSON Object 

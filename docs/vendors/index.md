@@ -53,6 +53,7 @@
 |![acceptemail](https://static.openfintech.io/vendors/acceptemail/logo.png?w=600&c=v0.59.26#w200) |[**AcceptEmail**](acceptemail/)|`acceptemail`| 
 |![acceptgiro](https://static.openfintech.io/vendors/acceptgiro/logo.png?w=600&c=v0.59.26#w200) |[**Acceptgiro**](acceptgiro/)|`acceptgiro`| 
 |![account2account](https://static.openfintech.io/vendors/account2account/logo.png?w=600&c=v0.59.26#w200) |[**account2account**](account2account/)|`account2account`| 
+|![addonpayments](https://static.openfintech.io/vendors/addonpayments/logo.svg?w=600&c=v0.59.26#w200) |[**AddonPayments**](addonpayments/)|`addonpayments`| 
 |![addwm](https://static.openfintech.io/vendors/addwm/logo.svg?w=600&c=v0.59.26#w200) |[**addwm.com**](addwm/)|`addwm`| 
 |![adgroup](https://static.openfintech.io/vendors/adgroup/logo.svg?w=600&c=v0.59.26#w200) |[**ADgroup**](adgroup/)|`adgroup`| 
 |![admerispaymentsystems](https://static.openfintech.io/vendors/admerispaymentsystems/logo.png?w=600&c=v0.59.26#w200) |[**Admeris Payment Systems**](admerispaymentsystems/)|`admerispaymentsystems`| 
@@ -548,6 +549,7 @@
 |![epaymentsglobalcom](https://static.openfintech.io/vendors/epaymentsglobalcom/logo.png?w=600&c=v0.59.26#w200) |[**ePaymentsglobal.com**](epaymentsglobalcom/)|`epaymentsglobalcom`| 
 |![epese](https://static.openfintech.io/vendors/epese/logo.svg?w=600&c=v0.59.26#w200) |[**Epese**](epese/)|`epese`| 
 |![epoch](https://static.openfintech.io/vendors/epoch/logo.png?w=600&c=v0.59.26#w200) |[**Epoch**](epoch/)|`epoch`| 
+|![epro](https://static.openfintech.io/vendors/epro/logo.svg?w=600&c=v0.59.26#w200) |[**E-PRO**](epro/)|`epro`| 
 |![eps](https://static.openfintech.io/vendors/eps/logo.png?w=600&c=v0.59.26#w200) |[**eps e-payment**](eps/)|`eps`| 
 |![erstebank](https://static.openfintech.io/vendors/erstebank/logo.png?w=600&c=v0.59.26#w200) |[**Erste Bank**](erstebank/)|`erstebank`| 
 |![escalion](https://static.openfintech.io/vendors/escalion/logo.png?w=600&c=v0.59.26#w200) |[**Escalion**](escalion/)|`escalion`| 
@@ -1406,6 +1408,7 @@
 |![pionpay](https://static.openfintech.io/vendors/pionpay/logo.png?w=600&c=v0.59.26#w200) |[**PionPay**](pionpay/)|`pionpay`| 
 |![pivdennybank](https://static.openfintech.io/vendors/pivdennybank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ АКЦІОНЕРНИЙ БАНК 'ПІВДЕННИЙ'**](pivdennybank/)|`pivdennybank`| 
 |![pivotalpayments](https://static.openfintech.io/vendors/pivotalpayments/logo.png?w=600&c=v0.59.26#w200) |[**Pivotal Payments**](pivotalpayments/)|`pivotalpayments`| 
+|![planbpay](https://static.openfintech.io/vendors/planbpay/logo.svg?w=600&c=v0.59.26#w200) |[**Planbpay**](planbpay/)|`planbpay`| 
 |![planetpayment](https://static.openfintech.io/vendors/planetpayment/logo.png?w=600&c=v0.59.26#w200) |[**Planet Payment**](planetpayment/)|`planetpayment`| 
 |![platio](https://static.openfintech.io/vendors/platio/logo.svg?w=600&c=v0.59.26#w200) |[**Platio Limited**](platio/)|`platio`| 
 |![platiwm.biz](https://static.openfintech.io/vendors/platiwm.biz/logo.svg?w=600&c=v0.59.26#w200) |[**ПлатиWM**](platiwm.biz/)|`platiwm.biz`| 
