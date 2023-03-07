@@ -42,7 +42,7 @@
 |`beneficiary_address`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
 |`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
 |`sender_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
-|`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/`| 
+|`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
 |`beneficiary_phone`|✗|`string`|`/^(\+?91)?\d{10}$/`| 
 |`ifsc`|✗|`string`|`/^[A-Za-z0-9]{11}$/`| 
 |`bank_branch_code`|✗|`string`|`/^[0-9]{2,100}$/`| 
@@ -378,7 +378,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/` 
+	Regexp: `/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/` 
  
 	Required: `` 
  
@@ -776,7 +776,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Email"
       },
       "example":"johndoe@cashfree.com",
-      "regexp":"\/^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,3})$\/",
+      "regexp":"\/^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,4})$\/",
       "required":false,
       "position":19
     },

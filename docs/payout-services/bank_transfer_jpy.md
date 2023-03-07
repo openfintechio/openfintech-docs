@@ -35,7 +35,7 @@
 |`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s\p{L}]{2,100}$/u`| 
 |`beneficiary_address`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d\p{L}\p{L}]{2,64}$/u`| 
 |`beneficiary_country_code_iso`|✗|`string`|`/^.{2,6}$/`| 
-|`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/`| 
+|`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
 |`beneficiary_city`|✗|`string`|`/^.{1,255}$/`| 
 |`beneficiary_postcode`|✗|`string`|`/^.{1,255}$/`| 
 |`beneficiary_phone`|✗|`string`|`/^\+\d{1,15}$/`| 
@@ -248,7 +248,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/` 
+	Regexp: `/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/` 
  
 	Required: `` 
  
@@ -573,7 +573,7 @@
     {
       "key":"beneficiary_email",
       "type":"string",
-      "regexp":"\/^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,3})$\/",
+      "regexp":"\/^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,4})$\/",
       "required":false,
       "position":12,
       "label":{

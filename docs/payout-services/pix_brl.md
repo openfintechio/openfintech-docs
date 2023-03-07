@@ -26,7 +26,7 @@
 |:---:|:---:|:---:|:---:| 
 |`cpf_number`|✗|`string`|`/^[0-9\.\-]{1,14}$/`| 
 |`beneficiary_phone`|✗|`string`|`/^\+\d{10,14}$/`| 
-|`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/`| 
+|`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
 |`beneficiary_name`|✗|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
 |`beneficiary_lastname`|✗|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
 |`bank_code`|✗|`string`|`/^[-\d\s\p{L}]{2,12}$/u`| 
@@ -83,7 +83,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/` 
+	Regexp: `/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/` 
  
 	Required: `` 
  
@@ -361,7 +361,7 @@
     {
       "key":"beneficiary_email",
       "type":"string",
-      "regexp":"\/^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,3})$\/",
+      "regexp":"\/^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,4})$\/",
       "required":false,
       "position":3,
       "label":{
