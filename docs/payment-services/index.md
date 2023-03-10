@@ -184,6 +184,7 @@
 |![Caja Trujillo](https://static.openfintech.io/payment_methods/caja_trujillo/logo.svg?w=400&c=v0.59.26#w200) |[**Caja Trujillo**](/payment-methods/caja_trujillo/)|[`caja_trujillo_usd_hpp`](caja_trujillo_usd_hpp/)| 
 |![Canara Bank](https://static.openfintech.io/payment_methods/canara_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Canara Bank**](/payment-methods/canara_bank/)|[`canara_bank_inr_hpp`](canara_bank_inr_hpp/)| 
 |![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_rub_invoice`](card_transfer_rub_invoice/)| 
+|![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_uzs_invoice`](card_transfer_uzs_invoice/)| 
 |![CartaSi](https://static.openfintech.io/payment_methods/cartasi/logo.png?w=400&c=v0.59.26#w200) |[**CartaSi**](/payment-methods/cartasi/)|[`cartasi_eur_hpp`](cartasi_eur_hpp/)| 
 |![Carte Bleue](https://static.openfintech.io/payment_methods/cartebleue/logo.png?w=400&c=v0.59.26#w200) |[**Carte Bleue**](/payment-methods/cartebleue/)|[`cartebleue_eur_hpp`](cartebleue_eur_hpp/)| 
 |![Cascad](https://static.openfintech.io/payment_methods/cascad/logo.svg?w=400&c=v0.59.26#w200) |[**Cascad**](/payment-methods/cascad/)|[`cascad_uah_hpp`](cascad_uah_hpp/)| 
@@ -546,6 +547,7 @@
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_crc_hpp`](payment_card_crc_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_czk_hpp`](payment_card_czk_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_dkk_hpp`](payment_card_dkk_hpp/)| 
+|![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_egp_hpp`](payment_card_egp_hpp/)| 
 |![Payment card email](https://static.openfintech.io/payment_methods/payment_card_email/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card email**](/payment-methods/payment_card_email/)|[`payment_card_email_eur_hpp`](payment_card_email_eur_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_eur_hpp`](payment_card_eur_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_gbp_hpp`](payment_card_gbp_hpp/)| 
@@ -553,6 +555,7 @@
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_ghs_hpp`](payment_card_ghs_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_gip_hpp`](payment_card_gip_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_hkd_hpp`](payment_card_hkd_hpp/)| 
+|![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_hnl_hpp`](payment_card_hnl_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_hrk_hpp`](payment_card_hrk_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_huf_hpp`](payment_card_huf_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_idr_hpp`](payment_card_idr_hpp/)| 
@@ -570,7 +573,6 @@
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_mxn_hpp`](payment_card_mxn_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_myr_hpp`](payment_card_myr_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_ngn_hpp`](payment_card_ngn_hpp/)| 
-|![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_nhl_hpp`](payment_card_nhl_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_nok_hpp`](payment_card_nok_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_npr_hpp`](payment_card_npr_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_nzd_hpp`](payment_card_nzd_hpp/)| 

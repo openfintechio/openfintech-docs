@@ -1248,6 +1248,7 @@
 |![patseb_korporativnij_bank](https://static.openfintech.io/vendors/patseb_korporativnij_bank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'СЕБ КОРПОРАТИВНИЙ БАНК'**](patseb_korporativnij_bank/)|`patseb_korporativnij_bank`| 
 |![paxum](https://static.openfintech.io/vendors/paxum/logo.png?w=600&c=v0.59.26#w200) |[**Paxum**](paxum/)|`paxum`| 
 |![pay2kassa](https://static.openfintech.io/vendors/pay2kassa/logo.svg?w=600&c=v0.59.26#w200) |[**Pay2Kassa**](pay2kassa/)|`pay2kassa`| 
+|![pay2play](https://static.openfintech.io/vendors/pay2play/logo.svg?w=600&c=v0.59.26#w200) |[**pay2play**](pay2play/)|`pay2play`| 
 |![pay4](https://static.openfintech.io/vendors/pay4/logo.png?w=600&c=v0.59.26#w200) |[**PAY4**](pay4/)|`pay4`| 
 |![pay4bit.biz](https://static.openfintech.io/vendors/pay4bit.biz/logo.svg?w=600&c=v0.59.26#w200) |[**Pay4Bit**](pay4bit.biz/)|`pay4bit.biz`| 
 |![payabl](https://static.openfintech.io/vendors/payabl/logo.png?w=600&c=v0.59.26#w200) |[**Payabl.**](payabl/)|`payabl`| 

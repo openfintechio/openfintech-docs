@@ -25,14 +25,15 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`payer_first_name`|✔|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
-|`payer_last_name`|✔|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
+|`payer_first_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
+|`payer_last_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
 |`payer_address`|✗|`string`|`/^[a-zA-Z0-9 \/_.,'-]{1,200}$/`| 
 |`payer_country`|✗|`string`|`/^[a-zA-Z\-]{1,20}$/`| 
-|`payer_city`|✔|`string`|`/^[a-zA-Z\-\s]{1,20}$/`| 
+|`payer_city`|✗|`string`|`/^[a-zA-Z\-\s]{1,20}$/`| 
 |`payer_state`|✗|`string`|`/^[a-zA-Z\-\s]{1,20}$/`| 
 |`payer_zip_code`|✗|`string`|`/^[0-9\-\s]{1,20}$/`| 
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
+|`email`|✗|`string`|`/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$/`| 
  
 
 ### Details 
@@ -43,7 +44,7 @@
  
 	Regexp: `/^[A-Z\-\sa-z]{2,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Payer first name 
@@ -61,7 +62,7 @@
  
 	Regexp: `/^[A-Z\-\sa-z]{2,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Payer last name 
@@ -115,7 +116,7 @@
  
 	Regexp: `/^[a-zA-Z\-\s]{1,20}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Payer city 
@@ -181,6 +182,24 @@
 	: [RU] Введите код банка отправителя 
 	: [UK] Введіть код банку відправника 
  
+9. **`email`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Email 
+	: [RU] Email 
+	: [UK] Email 
+ 
+	Hint:  
+	: [EN] Enter email 
+	: [RU] Введите email 
+	: [UK] Введіть email 
+ 
 
 ## JSON Object 
 
@@ -195,7 +214,7 @@
       "key":"payer_first_name",
       "type":"string",
       "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
-      "required":true,
+      "required":false,
       "position":1,
       "label":{
         "en":"Payer first name",
@@ -213,7 +232,7 @@
       "key":"payer_last_name",
       "type":"string",
       "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
-      "required":true,
+      "required":false,
       "position":2,
       "label":{
         "en":"Payer last name",
@@ -266,7 +285,7 @@
       "key":"payer_city",
       "type":"string",
       "regexp":"\/^[a-zA-Z\\-\\s]{1,20}$\/",
-      "required":true,
+      "required":false,
       "position":5,
       "label":{
         "en":"Payer city",
@@ -333,6 +352,23 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443 \u0432\u0456\u0434\u043f\u0440\u0430\u0432\u043d\u0438\u043a\u0430"
       },
       "example":"050"
+    },
+    {
+      "key":"email",
+      "type":"string",
+      "label":{
+        "en":"Email",
+        "ru":"Email",
+        "uk":"Email"
+      },
+      "hint":{
+        "en":"Enter email",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 email",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c email"
+      },
+      "regexp":"\/^([a-z0-9_-]+\\.)*[a-z0-9_-]+@[a-z0-9_-]+(\\.[a-z0-9_-]+)*\\.[a-z]{2,6}$\/",
+      "required":false,
+      "position":9
     }
   ],
   "amount_min":0.01,

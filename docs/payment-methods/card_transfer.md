@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Card transfer_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_rub_invoice](/payment-services/card_transfer_rub_invoice/)|`card_transfer_rub_invoice`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_uzs_invoice](/payment-services/card_transfer_uzs_invoice/)|`card_transfer_uzs_invoice`| 
  
 
 ## Payment Providers 
@@ -46,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card tran
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![litepay](https://static.openfintech.io/payment_providers/litepay/icon.svg?w=278&c=v0.59.26#w100) |[LitePay](/payment-providers/litepay/)|`litepay`| 
+|![pay2play](https://static.openfintech.io/payment_providers/pay2play/icon.svg?w=278&c=v0.59.26#w100) |[pay2play](/payment-providers/pay2play/)|`pay2play`| 
  
 
 ## JSON Object 
