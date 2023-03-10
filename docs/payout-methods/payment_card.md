@@ -429,6 +429,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![addonpayments](https://static.openfintech.io/payment_providers/addonpayments/icon.svg?w=278&c=v0.59.26#w100) |[AddonPayments](/payment-providers/addonpayments/)|`addonpayments`| 
 |![pionpay](https://static.openfintech.io/payment_providers/pionpay/icon.png?w=278&c=v0.59.26#w100) |[PionPay](/payment-providers/pionpay/)|`pionpay`| 
 |![libernetix](https://static.openfintech.io/payment_providers/libernetix/icon.svg?w=278&c=v0.59.26#w100) |[Libernetix](/payment-providers/libernetix/)|`libernetix`| 
+|![paymecrypto](https://static.openfintech.io/payment_providers/paymecrypto/icon.svg?w=278&c=v0.59.26#w100) |[PaymeCrypto](/payment-providers/paymecrypto/)|`paymecrypto`| 
 |![epro](https://static.openfintech.io/payment_providers/epro/icon.svg?w=278&c=v0.59.26#w100) |[E-PRO](/payment-providers/epro/)|`epro`| 
 |![paytonegate](https://static.openfintech.io/payment_providers/paytonegate/icon.svg?w=278&c=v0.59.26#w100) |[PaytoneGate](/payment-providers/paytonegate/)|`paytonegate`| 
  
