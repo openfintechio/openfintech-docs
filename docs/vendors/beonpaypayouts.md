@@ -1,6 +1,6 @@
 
-# Beonpay Payouts 
-![beonpaypayouts](https://static.openfintech.io/vendors/beonpaypayouts/logo.svg?w=400&c=v0.59.26#w200)  
+# VP Payouts 
+![beonpaypayouts](https://static.openfintech.io/vendors/beonpaypayouts/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Beonpay Payouts 
-:	[RU] Beonpay Payouts 
-:	[UK] Beonpay Payouts 
+:	[EN] VP Payouts 
+:	[RU] VP Payouts 
+:	[UK] VP Payouts 
  
 **Status:** `active` 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![beonpaypayouts](https://static.openfintech.io/vendors/beonpaypayouts/logo.svg?w=400&c=v0.59.26#w200)  
+![beonpaypayouts](https://static.openfintech.io/vendors/beonpaypayouts/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/beonpaypayouts/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/beonpaypayouts/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![beonpaypayouts](https://static.openfintech.io/vendors/beonpaypayouts/icon.svg?w=278&c=v0.59.26#w100)  
+![beonpaypayouts](https://static.openfintech.io/vendors/beonpaypayouts/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/beonpaypayouts/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/beonpaypayouts/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 
@@ -39,9 +39,9 @@ https://static.openfintech.io/vendors/beonpaypayouts/icon.svg?w=278&c=v0.59.26#w
 {
   "code":"beonpaypayouts",
   "name":{
-    "en":"Beonpay Payouts",
-    "ru":"Beonpay Payouts",
-    "uk":"Beonpay Payouts"
+    "en":"VP Payouts",
+    "ru":"VP Payouts",
+    "uk":"VP Payouts"
   },
   "status":"active",
   "description":null,

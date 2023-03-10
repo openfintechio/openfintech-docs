@@ -85,7 +85,7 @@
 |![beanstream](https://static.openfintech.io/payment_providers/beanstream/logo.svg?w=600&c=v0.59.26#w100) |[**Beanstream**](beanstream/)|`beanstream`| 
 |![bennupay](https://static.openfintech.io/payment_providers/bennupay/logo.png?w=600&c=v0.59.26#w100) |[**Bennupay**](bennupay/)|`bennupay`| 
 |![beonpay](https://static.openfintech.io/payment_providers/beonpay/logo.png?w=600&c=v0.59.26#w100) |[**BeonPay**](beonpay/)|`beonpay`| 
-|![beonpaypayouts](https://static.openfintech.io/payment_providers/beonpaypayouts/logo.svg?w=600&c=v0.59.26#w100) |[**Beonpay Payouts**](beonpaypayouts/)|`beonpaypayouts`| 
+|![beonpaypayouts](https://static.openfintech.io/payment_providers/beonpaypayouts/logo.png?w=600&c=v0.59.26#w100) |[**VP Payouts**](beonpaypayouts/)|`beonpaypayouts`| 
 |![betatransfer](https://static.openfintech.io/payment_providers/betatransfer/logo.svg?w=600&c=v0.59.26#w100) |[**BetaTransfer**](betatransfer/)|`betatransfer`| 
 |![bilderlings](https://static.openfintech.io/payment_providers/bilderlings/logo.svg?w=600&c=v0.59.26#w100) |[**Bilderlings**](bilderlings/)|`bilderlings`| 
 |![billingcx](https://static.openfintech.io/payment_providers/billingcx/logo.svg?w=600&c=v0.59.26#w100) |[**Billing.CX**](billingcx/)|`billingcx`| 

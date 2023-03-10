@@ -1,6 +1,6 @@
 
-# Beonpay Payouts 
-![beonpaypayouts](https://static.openfintech.io/payment_providers/beonpaypayouts/logo.svg?w=400&c=v0.59.26#w100)  
+# VP Payouts 
+![beonpaypayouts](https://static.openfintech.io/payment_providers/beonpaypayouts/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -10,27 +10,27 @@
  
 **Name:** 
  
-:	[EN] Beonpay Payouts 
-:	[RU] Beonpay Payouts 
-:	[UK] Beonpay Payouts 
+:	[EN] VP Payouts 
+:	[RU] VP Payouts 
+:	[UK] VP Payouts 
  
 
 ## Images 
 
 ### Logo 
  
-![beonpaypayouts](https://static.openfintech.io/payment_providers/beonpaypayouts/logo.svg?w=400&c=v0.59.26#w100)  
+![beonpaypayouts](https://static.openfintech.io/payment_providers/beonpaypayouts/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/beonpaypayouts/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/beonpaypayouts/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![beonpaypayouts](https://static.openfintech.io/payment_providers/beonpaypayouts/icon.svg?w=278&c=v0.59.26#w100)  
+![beonpaypayouts](https://static.openfintech.io/payment_providers/beonpaypayouts/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/beonpaypayouts/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/beonpaypayouts/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payout Methods 
@@ -57,9 +57,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"Beonpay Payouts",
-    "ru":"Beonpay Payouts",
-    "uk":"Beonpay Payouts"
+    "en":"VP Payouts",
+    "ru":"VP Payouts",
+    "uk":"VP Payouts"
   }
 }
 ```  
