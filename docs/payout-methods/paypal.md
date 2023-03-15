@@ -72,6 +72,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PayPal_
 |:---:|:---:|:---:| 
 |![sisow](https://static.openfintech.io/payment_providers/sisow/icon.png?w=278&c=v0.59.26#w100) |[Sisow](/payment-providers/sisow/)|`sisow`| 
 |![ccnow](https://static.openfintech.io/payment_providers/ccnow/icon.png?w=278&c=v0.59.26#w100) |[CCNow](/payment-providers/ccnow/)|`ccnow`| 
+|![cardpay](https://static.openfintech.io/payment_providers/cardpay/icon.svg?w=278&c=v0.59.26#w100) |[Unlimint](/payment-providers/cardpay/)|`cardpay`| 
 |![paypal](https://static.openfintech.io/payment_providers/paypal/icon.svg?w=278&c=v0.59.26#w100) |[PayPal](/payment-providers/paypal/)|`paypal`| 
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
 |![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
