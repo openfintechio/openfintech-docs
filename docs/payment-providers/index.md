@@ -580,6 +580,7 @@
 |![paymentwall](https://static.openfintech.io/payment_providers/paymentwall/logo.svg?w=600&c=v0.59.26#w100) |[**Paymentwall**](paymentwall/)|`paymentwall`| 
 |![paymentz](https://static.openfintech.io/payment_providers/paymentz/logo.png?w=600&c=v0.59.26#w100) |[**Paymentz**](paymentz/)|`paymentz`| 
 |![paymill](https://static.openfintech.io/payment_providers/paymill/logo.png?w=600&c=v0.59.26#w100) |[**PAYMILL**](paymill/)|`paymill`| 
+|![paymtech](https://static.openfintech.io/payment_providers/paymtech/logo.svg?w=600&c=v0.59.26#w100) |[**Paymtech**](paymtech/)|`paymtech`| 
 |![paymundo](https://static.openfintech.io/payment_providers/paymundo/logo.png?w=600&c=v0.59.26#w100) |[**Paymundo**](paymundo/)|`paymundo`| 
 |![paynetsecure](https://static.openfintech.io/payment_providers/paynetsecure/logo.png?w=600&c=v0.59.26#w100) |[**PayNetSecure**](paynetsecure/)|`paynetsecure`| 
 |![paynl](https://static.openfintech.io/payment_providers/paynl/logo.png?w=600&c=v0.59.26#w100) |[**Pay.nl**](paynl/)|`paynl`| 
@@ -646,6 +647,7 @@
 |![perfectmoney](https://static.openfintech.io/payment_providers/perfectmoney/logo.png?w=600&c=v0.59.26#w100) |[**Perfect Money**](perfectmoney/)|`perfectmoney`| 
 |![piastrix](https://static.openfintech.io/payment_providers/piastrix/logo.svg?w=600&c=v0.59.26#w100) |[**Piastrix**](piastrix/)|`piastrix`| 
 |![picksell](https://static.openfintech.io/payment_providers/picksell/logo.png?w=600&c=v0.59.26#w100) |[**Picksell**](picksell/)|`picksell`| 
+|![pinpay](https://static.openfintech.io/payment_providers/pinpay/logo.png?w=600&c=v0.59.26#w100) |[**PinPay**](pinpay/)|`pinpay`| 
 |![pinpayments](https://static.openfintech.io/payment_providers/pinpayments/logo.png?w=600&c=v0.59.26#w100) |[**Pin Payments**](pinpayments/)|`pinpayments`| 
 |![pionpay](https://static.openfintech.io/payment_providers/pionpay/logo.png?w=600&c=v0.59.26#w100) |[**PionPay**](pionpay/)|`pionpay`| 
 |![pivdennybank](https://static.openfintech.io/payment_providers/pivdennybank/logo.svg?w=600&c=v0.59.26#w100) |[**Bank Pivdenny**](pivdennybank/)|`pivdennybank`| 

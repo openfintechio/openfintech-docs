@@ -35,6 +35,8 @@ The list of [Payout Services](/payout-services/) based on the _AdvCash_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![advcash_wallet](https://static.openfintech.io/payout_methods/advcash_wallet/icon.svg?w=278&c=v0.59.26#w40) |[advcash_wallet_uah](/payout-services/advcash_wallet_uah/)|`advcash_wallet_uah`| 
+|![advcash_wallet](https://static.openfintech.io/payout_methods/advcash_wallet/icon.svg?w=278&c=v0.59.26#w40) |[advcash_wallet_try](/payout-services/advcash_wallet_try/)|`advcash_wallet_try`| 
+|![advcash_wallet](https://static.openfintech.io/payout_methods/advcash_wallet/icon.svg?w=278&c=v0.59.26#w40) |[advcash_wallet_vnd](/payout-services/advcash_wallet_vnd/)|`advcash_wallet_vnd`| 
 |![advcash_wallet](https://static.openfintech.io/payout_methods/advcash_wallet/icon.svg?w=278&c=v0.59.26#w40) |[advcash_wallet_rub](/payout-services/advcash_wallet_rub/)|`advcash_wallet_rub`| 
 |![advcash_wallet](https://static.openfintech.io/payout_methods/advcash_wallet/icon.svg?w=278&c=v0.59.26#w40) |[advcash_wallet_usd](/payout-services/advcash_wallet_usd/)|`advcash_wallet_usd`| 
 |![advcash_wallet](https://static.openfintech.io/payout_methods/advcash_wallet/icon.svg?w=278&c=v0.59.26#w40) |[advcash_wallet_eur](/payout-services/advcash_wallet_eur/)|`advcash_wallet_eur`| 

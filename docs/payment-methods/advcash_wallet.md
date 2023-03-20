@@ -40,6 +40,8 @@ The list of [Payment Services](/payment-services/) based on the _AdvCash_
 |![advcash_wallet](https://static.openfintech.io/payment_methods/advcash_wallet/icon.svg?w=278&c=v0.59.26#w100) |[advcash_wallet_uah_hpp](/payment-services/advcash_wallet_uah_hpp/)|`advcash_wallet_uah_hpp`| 
 |![advcash_wallet](https://static.openfintech.io/payment_methods/advcash_wallet/icon.svg?w=278&c=v0.59.26#w100) |[advcash_wallet_gbp_hpp](/payment-services/advcash_wallet_gbp_hpp/)|`advcash_wallet_gbp_hpp`| 
 |![advcash_wallet](https://static.openfintech.io/payment_methods/advcash_wallet/icon.svg?w=278&c=v0.59.26#w100) |[advcash_wallet_kzt_hpp](/payment-services/advcash_wallet_kzt_hpp/)|`advcash_wallet_kzt_hpp`| 
+|![advcash_wallet](https://static.openfintech.io/payment_methods/advcash_wallet/icon.svg?w=278&c=v0.59.26#w100) |[advcash_wallet_vnd_hpp](/payment-services/advcash_wallet_vnd_hpp/)|`advcash_wallet_vnd_hpp`| 
+|![advcash_wallet](https://static.openfintech.io/payment_methods/advcash_wallet/icon.svg?w=278&c=v0.59.26#w100) |[advcash_wallet_try_hpp](/payment-services/advcash_wallet_try_hpp/)|`advcash_wallet_try_hpp`| 
 |![advcash_wallet](https://static.openfintech.io/payment_methods/advcash_wallet/icon.svg?w=278&c=v0.59.26#w100) |[advcash_wallet_brl_hpp](/payment-services/advcash_wallet_brl_hpp/)|`advcash_wallet_brl_hpp`| 
  
 

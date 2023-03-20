@@ -1320,6 +1320,7 @@
 |![paymentz](https://static.openfintech.io/vendors/paymentz/logo.png?w=600&c=v0.59.26#w200) |[**Paymentz**](paymentz/)|`paymentz`| 
 |![paymer](https://static.openfintech.io/vendors/paymer/logo.svg?w=600&c=v0.59.26#w200) |[**Paymer**](paymer/)|`paymer`| 
 |![paymill](https://static.openfintech.io/vendors/paymill/logo.png?w=600&c=v0.59.26#w200) |[**PAYMILL**](paymill/)|`paymill`| 
+|![paymtech](https://static.openfintech.io/vendors/paymtech/logo.svg?w=600&c=v0.59.26#w200) |[**Paymtech**](paymtech/)|`paymtech`| 
 |![paymundo](https://static.openfintech.io/vendors/paymundo/logo.png?w=600&c=v0.59.26#w200) |[**Paymundo**](paymundo/)|`paymundo`| 
 |![paynearme](https://static.openfintech.io/vendors/paynearme/logo.png?w=600&c=v0.59.26#w200) |[**PayNearMe**](paynearme/)|`paynearme`| 
 |![paynetsecure](https://static.openfintech.io/vendors/paynetsecure/logo.png?w=600&c=v0.59.26#w200) |[**PayNetSecure**](paynetsecure/)|`paynetsecure`| 
@@ -1407,6 +1408,7 @@
 |![picksell](https://static.openfintech.io/vendors/picksell/logo.png?w=600&c=v0.59.26#w200) |[**Picksell**](picksell/)|`picksell`| 
 |![picpay](https://static.openfintech.io/vendors/picpay/logo.svg?w=600&c=v0.59.26#w200) |[**PicPay**](picpay/)|`picpay`| 
 |![pingping](https://static.openfintech.io/vendors/pingping/logo.png?w=600&c=v0.59.26#w200) |[**ping.ping**](pingping/)|`pingping`| 
+|![pinpay](https://static.openfintech.io/vendors/pinpay/logo.png?w=600&c=v0.59.26#w200) |[**PinPay**](pinpay/)|`pinpay`| 
 |![pinpayments](https://static.openfintech.io/vendors/pinpayments/logo.png?w=600&c=v0.59.26#w200) |[**Pin Payments**](pinpayments/)|`pinpayments`| 
 |![pionpay](https://static.openfintech.io/vendors/pionpay/logo.png?w=600&c=v0.59.26#w200) |[**PionPay**](pionpay/)|`pionpay`| 
 |![pivdennybank](https://static.openfintech.io/vendors/pivdennybank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ АКЦІОНЕРНИЙ БАНК 'ПІВДЕННИЙ'**](pivdennybank/)|`pivdennybank`| 

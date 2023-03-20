@@ -426,6 +426,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![paymecrypto](https://static.openfintech.io/payment_providers/paymecrypto/icon.svg?w=278&c=v0.59.26#w100) |[PaymeCrypto](/payment-providers/paymecrypto/)|`paymecrypto`| 
 |![epro](https://static.openfintech.io/payment_providers/epro/icon.svg?w=278&c=v0.59.26#w100) |[E-PRO](/payment-providers/epro/)|`epro`| 
 |![paytonegate](https://static.openfintech.io/payment_providers/paytonegate/icon.svg?w=278&c=v0.59.26#w100) |[PaytoneGate](/payment-providers/paytonegate/)|`paytonegate`| 
+|![pinpay](https://static.openfintech.io/payment_providers/pinpay/icon.png?w=278&c=v0.59.26#w100) |[PinPay](/payment-providers/pinpay/)|`pinpay`| 
+|![paymtech](https://static.openfintech.io/payment_providers/paymtech/icon.svg?w=278&c=v0.59.26#w100) |[Paymtech](/payment-providers/paymtech/)|`paymtech`| 
  
 
 ## JSON Object 
