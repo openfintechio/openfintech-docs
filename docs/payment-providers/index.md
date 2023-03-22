@@ -33,6 +33,7 @@
 |![advcash](https://static.openfintech.io/payment_providers/advcash/logo.svg?w=600&c=v0.59.26#w100) |[**Advcash**](advcash/)|`advcash`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/logo.svg?w=600&c=v0.59.26#w100) |[**Adyen**](adyen/)|`adyen`| 
 |![africanpaymentsolutions](https://static.openfintech.io/payment_providers/africanpaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**African Payment Solutions**](africanpaymentsolutions/)|`africanpaymentsolutions`| 
+|![agentglobal](https://static.openfintech.io/payment_providers/agentglobal/logo.png?w=600&c=v0.59.26#w100) |[**AgentGlobal**](agentglobal/)|`agentglobal`| 
 |![aibmerchantservices](https://static.openfintech.io/payment_providers/aibmerchantservices/logo.png?w=600&c=v0.59.26#w100) |[**AIB Merchant Services**](aibmerchantservices/)|`aibmerchantservices`| 
 |![alfabank](https://static.openfintech.io/payment_providers/alfabank/logo.png?w=600&c=v0.59.26#w100) |[**Sense Bank**](alfabank/)|`alfabank`| 
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/logo.png?w=600&c=v0.59.26#w100) |[**ALGOCHARGE**](algocharge/)|`algocharge`| 
@@ -795,6 +796,7 @@
 |![txtnation](https://static.openfintech.io/payment_providers/txtnation/logo.png?w=600&c=v0.59.26#w100) |[**txtNation**](txtnation/)|`txtnation`| 
 || **U** ||
 |![uapay](https://static.openfintech.io/payment_providers/uapay/logo.svg?w=600&c=v0.59.26#w100) |[**UApay**](uapay/)|`uapay`| 
+|![ubankconnect](https://static.openfintech.io/payment_providers/ubankconnect/logo.svg?w=600&c=v0.59.26#w100) |[**UBank Connect**](ubankconnect/)|`ubankconnect`| 
 |![ugspaycom](https://static.openfintech.io/payment_providers/ugspaycom/logo.png?w=600&c=v0.59.26#w100) |[**UGSPay**](ugspaycom/)|`ugspaycom`| 
 |![ukrgasbank](https://static.openfintech.io/payment_providers/ukrgasbank/logo.png?w=600&c=v0.59.26#w100) |[**UkrGasBank**](ukrgasbank/)|`ukrgasbank`| 
 |![uniongate](https://static.openfintech.io/payment_providers/uniongate/logo.png?w=600&c=v0.59.26#w100) |[**UnionGate**](uniongate/)|`uniongate`| 

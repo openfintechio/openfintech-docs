@@ -38,6 +38,7 @@ The list of [Payment Services](/payment-services/) based on the _Hero Payments_
 |:---:|:---:|:---:| 
 |![hero_payments](https://static.openfintech.io/payment_methods/hero_payments/icon.svg?w=278&c=v0.59.26#w100) |[hero_payments_eur_hpp](/payment-services/hero_payments_eur_hpp/)|`hero_payments_eur_hpp`| 
 |![hero_payments](https://static.openfintech.io/payment_methods/hero_payments/icon.svg?w=278&c=v0.59.26#w100) |[hero_payments_usd_hpp](/payment-services/hero_payments_usd_hpp/)|`hero_payments_usd_hpp`| 
+|![hero_payments](https://static.openfintech.io/payment_methods/hero_payments/icon.svg?w=278&c=v0.59.26#w100) |[hero_payments_kzt_hpp](/payment-services/hero_payments_kzt_hpp/)|`hero_payments_kzt_hpp`| 
  
 
 ## Payment Providers 

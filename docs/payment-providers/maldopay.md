@@ -61,13 +61,10 @@ The list of supported [Payout Methods](/payout-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
-|![instant_bank_transfer](https://static.openfintech.io/payout_methods/instant_bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[instant_bank_transfer](payout-methodsinstant_bank_transfer/)|`instant_bank_transfer`| 
 |![papara](https://static.openfintech.io/payout_methods/papara/icon.svg?w=278&c=v0.59.26#w40) |[papara](payout-methodspapara/)|`papara`| 
 |![maldo_crypto](https://static.openfintech.io/payout_methods/maldo_crypto/icon.svg?w=278&c=v0.59.26#w40) |[maldo_crypto](payout-methodsmaldo_crypto/)|`maldo_crypto`| 
-|![paykwik](https://static.openfintech.io/payout_methods/paykwik/icon.png?w=278&c=v0.59.26#w40) |[paykwik](payout-methodspaykwik/)|`paykwik`| 
 |![payfix](https://static.openfintech.io/payout_methods/payfix/icon.png?w=278&c=v0.59.26#w40) |[payfix](payout-methodspayfix/)|`payfix`| 
 |![mefete](https://static.openfintech.io/payout_methods/mefete/icon.png?w=278&c=v0.59.26#w40) |[mefete](payout-methodsmefete/)|`mefete`| 
-|![astropay](https://static.openfintech.io/payout_methods/astropay/icon.svg?w=278&c=v0.59.26#w40) |[astropay](payout-methodsastropay/)|`astropay`| 
  
 
 ## JSON Object 
@@ -96,13 +93,10 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "payout_method":[
     "bank_transfer",
-    "instant_bank_transfer",
     "papara",
     "maldo_crypto",
-    "paykwik",
     "payfix",
-    "mefete",
-    "astropay"
+    "mefete"
   ],
   "metadata":null,
   "name":{

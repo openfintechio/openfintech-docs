@@ -65,6 +65,7 @@
 |![adyen](https://static.openfintech.io/vendors/adyen/logo.png?w=600&c=v0.59.26#w200) |[**Adyen**](adyen/)|`adyen`| 
 |![africanpaymentsolutions](https://static.openfintech.io/vendors/africanpaymentsolutions/logo.png?w=600&c=v0.59.26#w200) |[**African Payment Solutions**](africanpaymentsolutions/)|`africanpaymentsolutions`| 
 |![afterpay](https://static.openfintech.io/vendors/afterpay/logo.png?w=600&c=v0.59.26#w200) |[**AfterPay**](afterpay/)|`afterpay`| 
+|![agentglobal](https://static.openfintech.io/vendors/agentglobal/logo.png?w=600&c=v0.59.26#w200) |[**AgentGlobal**](agentglobal/)|`agentglobal`| 
 |![agriculturalbankofchina](https://static.openfintech.io/vendors/agriculturalbankofchina/logo.svg?w=600&c=v0.59.26#w200) |[**Agricultural Bank of China**](agriculturalbankofchina/)|`agriculturalbankofchina`| 
 |![aibmerchantservices](https://static.openfintech.io/vendors/aibmerchantservices/logo.png?w=600&c=v0.59.26#w200) |[**AIB Merchant Services**](aibmerchantservices/)|`aibmerchantservices`| 
 |![ajmanibank](https://static.openfintech.io/vendors/ajmanibank/logo.svg?w=600&c=v0.59.26#w200) |[**Айманибанк**](ajmanibank/)|`ajmanibank`| 
@@ -1722,6 +1723,7 @@
 || **U** ||
 |![uapay](https://static.openfintech.io/vendors/uapay/logo.svg?w=600&c=v0.59.26#w200) |[**UAPay**](uapay/)|`uapay`| 
 |![uatp](https://static.openfintech.io/vendors/uatp/logo.png?w=600&c=v0.59.26#w200) |[**UATP**](uatp/)|`uatp`| 
+|![ubankconnect](https://static.openfintech.io/vendors/ubankconnect/logo.svg?w=600&c=v0.59.26#w200) |[**UBank Connect**](ubankconnect/)|`ubankconnect`| 
 |![udppz_ukrposhta](https://static.openfintech.io/vendors/udppz_ukrposhta/logo.svg?w=600&c=v0.59.26#w200) |[**Українське державне підприємство поштового зв'язку 'Укрпошта'**](udppz_ukrposhta/)|`udppz_ukrposhta`| 
 |![ugspaycom](https://static.openfintech.io/vendors/ugspaycom/logo.png?w=600&c=v0.59.26#w200) |[**UGSPay**](ugspaycom/)|`ugspaycom`| 
 |![ukash](https://static.openfintech.io/vendors/ukash/logo.png?w=600&c=v0.59.26#w200) |[**Ukash**](ukash/)|`ukash`| 
