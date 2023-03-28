@@ -344,6 +344,7 @@
 |![ccexcom](https://static.openfintech.io/vendors/ccexcom/logo.svg?w=600&c=v0.59.26#w200) |[**c-cex.com**](ccexcom/)|`ccexcom`| 
 |![ccnow](https://static.openfintech.io/vendors/ccnow/logo.png?w=600&c=v0.59.26#w200) |[**CCNow**](ccnow/)|`ccnow`| 
 |![ccvpay](https://static.openfintech.io/vendors/ccvpay/logo.png?w=600&c=v0.59.26#w200) |[**CCV Pay**](ccvpay/)|`ccvpay`| 
+|![centiwise](https://static.openfintech.io/vendors/centiwise/logo.png?w=600&c=v0.59.26#w200) |[**Centiwise**](centiwise/)|`centiwise`| 
 |![centralna_fil_prat_ufg_u_m_chernivci](https://static.openfintech.io/vendors/centralna_fil_prat_ufg_u_m_chernivci/logo.svg?w=600&c=v0.59.26#w200) |[**Центральна філія ПрАТ 'Українська фінансова група' у м. Чернівці**](centralna_fil_prat_ufg_u_m_chernivci/)|`centralna_fil_prat_ufg_u_m_chernivci`| 
 |![centralna_filiya_prat_ufg_u_m_harkiv](https://static.openfintech.io/vendors/centralna_filiya_prat_ufg_u_m_harkiv/logo.svg?w=600&c=v0.59.26#w200) |[**Центральна філія ПрАТ 'Українська фінансова група' у м. Харків**](centralna_filiya_prat_ufg_u_m_harkiv/)|`centralna_filiya_prat_ufg_u_m_harkiv`| 
 |![centralna_rozrahunkova_palata_nbu](https://static.openfintech.io/vendors/centralna_rozrahunkova_palata_nbu/logo.svg?w=600&c=v0.59.26#w200) |[**Центральна розрахункова палата НБУ**](centralna_rozrahunkova_palata_nbu/)|`centralna_rozrahunkova_palata_nbu`| 

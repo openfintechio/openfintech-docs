@@ -838,7 +838,7 @@
 |![MoMo](https://static.openfintech.io/payout_methods/momo/logo.svg?w=400&c=v0.59.26#w24) |[**MoMo**](/payout-methods/momo/)|[`momo_vnd`](momo_vnd/)|`VND`| 
 |![MoneyVeo](https://static.openfintech.io/payout_methods/moneyveo/logo.png?w=400&c=v0.59.26#w24) |[**MoneyVeo**](/payout-methods/moneyveo/)|[`moneyveo_uah`](moneyveo_uah/)|`UAH`| 
 |![Monolit.net (Boryspil)](https://static.openfintech.io/payout_methods/monolit-net-borispol/logo.png?w=400&c=v0.59.26#w24) |[**Monolit.net (Boryspil)**](/payout-methods/monolit-net-borispol/)|[`monolit-net-borispol_uah`](monolit-net-borispol_uah/)|`UAH`| 
-|![Mpesa](https://static.openfintech.io/payout_methods/mpesa_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**Mpesa**](/payout-methods/mpesa_wallet/)|[`mpesa_wallet`](mpesa_wallet/)|`KES`| 
+|![Mpesa](https://static.openfintech.io/payout_methods/mpesa_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**Mpesa**](/payout-methods/mpesa_wallet/)|[`mpesa_wallet_kes`](mpesa_wallet_kes/)|`KES`| 
 |![MSL - state lottery](https://static.openfintech.io/payout_methods/msl-derzhavni-lotereyi/logo.svg?w=400&c=v0.59.26#w24) |[**MSL - state lottery**](/payout-methods/msl-derzhavni-lotereyi/)|[`msl-derzhavni-lotereyi_uah`](msl-derzhavni-lotereyi_uah/)|`UAH`| 
 |![MTK NO (Chernivtsi)](https://static.openfintech.io/payout_methods/mtk-net-chernovtsy/logo.png?w=400&c=v0.59.26#w24) |[**MTK NO (Chernivtsi)**](/payout-methods/mtk-net-chernovtsy/)|[`mtk-net-chernovtsy_uah`](mtk-net-chernovtsy_uah/)|`UAH`| 
 |![MTM](https://static.openfintech.io/payout_methods/mtm/logo.png?w=400&c=v0.59.26#w24) |[**MTM**](/payout-methods/mtm/)|[`mtm_uah`](mtm_uah/)|`UAH`| 

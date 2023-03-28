@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Mpesa_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![mpesa_wallet](https://static.openfintech.io/payout_methods/mpesa_wallet/icon.svg?w=278&c=v0.59.26#w40) |[mpesa_wallet](/payout-services/mpesa_wallet/)|`mpesa_wallet`| 
+|![mpesa_wallet](https://static.openfintech.io/payout_methods/mpesa_wallet/icon.svg?w=278&c=v0.59.26#w40) |[mpesa_wallet_kes](/payout-services/mpesa_wallet_kes/)|`mpesa_wallet_kes`| 
  
 
 ## JSON Object 

@@ -145,6 +145,7 @@
 |![ccbill](https://static.openfintech.io/payment_providers/ccbill/logo.png?w=600&c=v0.59.26#w100) |[**CCBill**](ccbill/)|`ccbill`| 
 |![ccnow](https://static.openfintech.io/payment_providers/ccnow/logo.png?w=600&c=v0.59.26#w100) |[**CCNow**](ccnow/)|`ccnow`| 
 |![ccvpay](https://static.openfintech.io/payment_providers/ccvpay/logo.png?w=600&c=v0.59.26#w100) |[**CCV Pay**](ccvpay/)|`ccvpay`| 
+|![centiwise](https://static.openfintech.io/payment_providers/centiwise/logo.png?w=600&c=v0.59.26#w100) |[**Centiwise**](centiwise/)|`centiwise`| 
 |![centus](https://static.openfintech.io/payment_providers/centus/logo.png?w=600&c=v0.59.26#w100) |[**Centus**](centus/)|`centus`| 
 |![certusfinance](https://static.openfintech.io/payment_providers/certusfinance/logo.png?w=600&c=v0.59.26#w100) |[**Certus Finance**](certusfinance/)|`certusfinance`| 
 |![changecoins](https://static.openfintech.io/payment_providers/changecoins/logo.png?w=600&c=v0.59.26#w100) |[**Сhangecoins Pay**](changecoins/)|`changecoins`| 
