@@ -30,14 +30,13 @@ https://static.openfintech.io/payment_methods/m_pesa/logo.png?w=400&c=v0.59.26#w
 https://static.openfintech.io/payment_methods/m_pesa/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _M-Pesa_ 
+The list of [Payment Services](/payment-services/) based on the _M-Pesa_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![m_pesa](https://static.openfintech.io/payout_methods/m_pesa/icon.svg?w=278&c=v0.59.26#w40) |[m_pesa_kes](/payout-services/m_pesa_kes/)|`m_pesa_kes`| 
-|![m_pesa](https://static.openfintech.io/payout_methods/m_pesa/icon.svg?w=278&c=v0.59.26#w40) |[m_pesa_tzs](/payout-services/m_pesa_tzs/)|`m_pesa_tzs`| 
+|![m_pesa](https://static.openfintech.io/payment_methods/m_pesa/icon.png?w=278&c=v0.59.26#w100) |[m_pesa_kes_invoice](/payment-services/m_pesa_kes_invoice/)|`m_pesa_kes_invoice`| 
  
 
 ## Payment Providers 

@@ -433,6 +433,7 @@
 |![Litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200) |[**Litecoin**](/payment-methods/litecoin/)|[`litecoin_usd_hpp`](litecoin_usd_hpp/)| 
 |![Litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200) |[**Litecoin**](/payment-methods/litecoin/)|[`litecoin_usd_invoice`](litecoin_usd_invoice/)| 
 ||| **M** ||
+|![M-Pesa](https://static.openfintech.io/payment_methods/m_pesa/logo.png?w=400&c=v0.59.26#w200) |[**M-Pesa**](/payment-methods/m_pesa/)|[`m_pesa_kes_invoice`](m_pesa_kes_invoice/)| 
 |![Mach](https://static.openfintech.io/payment_methods/mach/logo.png?w=400&c=v0.59.26#w200) |[**Mach**](/payment-methods/mach/)|[`mach_brl_hpp`](mach_brl_hpp/)| 
 |![Mach](https://static.openfintech.io/payment_methods/mach/logo.png?w=400&c=v0.59.26#w200) |[**Mach**](/payment-methods/mach/)|[`mach_clp_hpp`](mach_clp_hpp/)| 
 |![Mach](https://static.openfintech.io/payment_methods/mach/logo.png?w=400&c=v0.59.26#w200) |[**Mach**](/payment-methods/mach/)|[`mach_cop_hpp`](mach_cop_hpp/)| 
@@ -835,6 +836,7 @@
 |![Trustly](https://static.openfintech.io/payment_methods/trustly/logo.svg?w=400&c=v0.59.26#w200) |[**Trustly**](/payment-methods/trustly/)|[`trustly_chf_hpp`](trustly_chf_hpp/)| 
 |![Trustly](https://static.openfintech.io/payment_methods/trustly/logo.svg?w=400&c=v0.59.26#w200) |[**Trustly**](/payment-methods/trustly/)|[`trustly_eur_hpp`](trustly_eur_hpp/)| 
 |![Trustly](https://static.openfintech.io/payment_methods/trustly/logo.svg?w=400&c=v0.59.26#w200) |[**Trustly**](/payment-methods/trustly/)|[`trustly_gbp_hpp`](trustly_gbp_hpp/)| 
+|![Trustly Pay N Play](https://static.openfintech.io/payment_methods/trustly_paynplay/logo.svg?w=400&c=v0.59.26#w200) |[**Trustly Pay N Play**](/payment-methods/trustly_paynplay/)|[`trustly_paynplay_eur`](trustly_paynplay_eur/)| 
 |![Trustly](https://static.openfintech.io/payment_methods/trustly/logo.svg?w=400&c=v0.59.26#w200) |[**Trustly**](/payment-methods/trustly/)|[`trustly_pln_hpp`](trustly_pln_hpp/)| 
 ||| **U** ||
 |![UAX](https://static.openfintech.io/payment_methods/uax/logo.svg?w=400&c=v0.59.26#w200) |[**UAX**](/payment-methods/uax/)|[`uax_uah_invoice`](uax_uah_invoice/)| 

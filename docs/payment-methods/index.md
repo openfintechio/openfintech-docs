@@ -338,6 +338,7 @@
 |![liqpay_wallet](https://static.openfintech.io/payment_methods/liqpay_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**LiqPay wallet**](liqpay_wallet/)|`liqpay_wallet`| 
 |![litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200) |[**Litecoin**](litecoin/)|`litecoin`| 
 || **M** ||
+|![m_pesa](https://static.openfintech.io/payment_methods/m_pesa/logo.png?w=400&c=v0.59.26#w200) |[**M-Pesa**](m_pesa/)|`m_pesa`| 
 |![mach](https://static.openfintech.io/payment_methods/mach/logo.png?w=400&c=v0.59.26#w200) |[**Mach**](mach/)|`mach`| 
 |![magna](https://static.openfintech.io/payment_methods/magna/logo.svg?w=400&c=v0.59.26#w200) |[**Magna**](magna/)|`magna`| 
 |![maharashtra_bank_india](https://static.openfintech.io/payment_methods/maharashtra_bank_india/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Of Maharashtra**](maharashtra_bank_india/)|`maharashtra_bank_india`| 
@@ -607,6 +608,7 @@
 |![tron](https://static.openfintech.io/payment_methods/tron/logo.svg?w=400&c=v0.59.26#w200) |[**Tron**](tron/)|`tron`| 
 |![truemoney](https://static.openfintech.io/payment_methods/truemoney/logo.png?w=400&c=v0.59.26#w200) |[**True Money Wallet**](truemoney/)|`truemoney`| 
 |![trustly](https://static.openfintech.io/payment_methods/trustly/logo.svg?w=400&c=v0.59.26#w200) |[**Trustly**](trustly/)|`trustly`| 
+|![trustly_paynplay](https://static.openfintech.io/payment_methods/trustly_paynplay/logo.svg?w=400&c=v0.59.26#w200) |[**Trustly Pay N Play**](trustly_paynplay/)|`trustly_paynplay`| 
 || **U** ||
 |![uatp](https://static.openfintech.io/payment_methods/uatp/logo.png?w=400&c=v0.59.26#w200) |[**UATP**](uatp/)|`uatp`| 
 |![uax](https://static.openfintech.io/payment_methods/uax/logo.svg?w=400&c=v0.59.26#w200) |[**UAX**](uax/)|`uax`| 
