@@ -30,13 +30,13 @@ https://static.openfintech.io/payment_methods/rtgs/logo.svg?w=400&c=v0.59.26#w20
 https://static.openfintech.io/payment_methods/rtgs/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _RTGS_ 
+The list of [Payment Services](/payment-services/) based on the _RTGS_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![rtgs](https://static.openfintech.io/payout_methods/rtgs/icon.svg?w=278&c=v0.59.26#w40) |[rtgs_inr](/payout-services/rtgs_inr/)|`rtgs_inr`| 
+|![rtgs](https://static.openfintech.io/payment_methods/rtgs/icon.svg?w=278&c=v0.59.26#w100) |[rtgs_inr_hpp](/payment-services/rtgs_inr_hpp/)|`rtgs_inr_hpp`| 
  
 
 ## Payment Providers 

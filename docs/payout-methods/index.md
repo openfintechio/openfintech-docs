@@ -2403,6 +2403,7 @@
 |![velikonovoselkovskii-res](https://static.openfintech.io/payout_methods/velikonovoselkovskii-res/logo.png?w=400&c=v0.59.26#w24) |[**Velikonovoselkovsky RES**](velikonovoselkovskii-res/)|`velikonovoselkovskii-res`| 
 |![velton-telekom-po-personalnomu-kodu](https://static.openfintech.io/payout_methods/velton-telekom-po-personalnomu-kodu/logo.png?w=400&c=v0.59.26#w24) |[**Welton Telecom (by personal code)**](velton-telekom-po-personalnomu-kodu/)|`velton-telekom-po-personalnomu-kodu`| 
 |![velton-telekom-po-telefonu](https://static.openfintech.io/payout_methods/velton-telekom-po-telefonu/logo.png?w=400&c=v0.59.26#w24) |[**Welton Telecom (by phone)**](velton-telekom-po-telefonu/)|`velton-telekom-po-telefonu`| 
+|![venom](https://static.openfintech.io/payout_methods/venom/logo.svg?w=400&c=v0.59.26#w24) |[**VENOM**](venom/)|`venom`| 
 |![verkhnodniprovskii-rem-tsok-verkhnodniprovskogo-r-nu](https://static.openfintech.io/payout_methods/verkhnodniprovskii-rem-tsok-verkhnodniprovskogo-r-nu/logo.png?w=400&c=v0.59.26#w24) |[**Verkhnedneprovsky RES (CSC Verkhnedneprovsky District)**](verkhnodniprovskii-rem-tsok-verkhnodniprovskogo-r-nu/)|`verkhnodniprovskii-rem-tsok-verkhnodniprovskogo-r-nu`| 
 |![vgorode](https://static.openfintech.io/payout_methods/vgorode/logo.png?w=400&c=v0.59.26#w24) |[**Garden**](vgorode/)|`vgorode`| 
 |![viasat-uatv](https://static.openfintech.io/payout_methods/viasat-uatv/logo.png?w=400&c=v0.59.26#w24) |[**Viasat UATV**](viasat-uatv/)|`viasat-uatv`| 

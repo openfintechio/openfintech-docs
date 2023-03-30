@@ -37,6 +37,16 @@ The list of [Payment Services](/payment-services/) based on the _Card transfer_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_rub_invoice](/payment-services/card_transfer_rub_invoice/)|`card_transfer_rub_invoice`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_rub_hpp](/payment-services/card_transfer_rub_hpp/)|`card_transfer_rub_hpp`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_kzt_hpp](/payment-services/card_transfer_kzt_hpp/)|`card_transfer_kzt_hpp`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_uah_hpp](/payment-services/card_transfer_uah_hpp/)|`card_transfer_uah_hpp`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_mdl_hpp](/payment-services/card_transfer_mdl_hpp/)|`card_transfer_mdl_hpp`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_uzs_hpp](/payment-services/card_transfer_uzs_hpp/)|`card_transfer_uzs_hpp`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_azn_hpp](/payment-services/card_transfer_azn_hpp/)|`card_transfer_azn_hpp`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_ars_hpp](/payment-services/card_transfer_ars_hpp/)|`card_transfer_ars_hpp`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_kgs_hpp](/payment-services/card_transfer_kgs_hpp/)|`card_transfer_kgs_hpp`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_egp_hpp](/payment-services/card_transfer_egp_hpp/)|`card_transfer_egp_hpp`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_mxn_hpp](/payment-services/card_transfer_mxn_hpp/)|`card_transfer_mxn_hpp`| 
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_uzs_invoice](/payment-services/card_transfer_uzs_invoice/)|`card_transfer_uzs_invoice`| 
  
 
@@ -48,6 +58,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card tran
 |:---:|:---:|:---:| 
 |![litepay](https://static.openfintech.io/payment_providers/litepay/icon.svg?w=278&c=v0.59.26#w100) |[LitePay](/payment-providers/litepay/)|`litepay`| 
 |![pay2play](https://static.openfintech.io/payment_providers/pay2play/icon.svg?w=278&c=v0.59.26#w100) |[pay2play](/payment-providers/pay2play/)|`pay2play`| 
+|![payport](https://static.openfintech.io/payment_providers/payport/icon.svg?w=278&c=v0.59.26#w100) |[PayPort](/payment-providers/payport/)|`payport`| 
  
 
 ## JSON Object 

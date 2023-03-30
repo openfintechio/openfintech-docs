@@ -47,6 +47,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum](/payment-methods/ethereum/)|`ethereum`| 
 |![dai_coin](https://static.openfintech.io/payment_methods/dai_coin/icon.png?w=278&c=v0.59.26#w100) |[dai_coin](/payment-methods/dai_coin/)|`dai_coin`| 
 |![binance_smart_chain](https://static.openfintech.io/payment_methods/binance_smart_chain/icon.svg?w=278&c=v0.59.26#w100) |[binance_smart_chain](/payment-methods/binance_smart_chain/)|`binance_smart_chain`| 
+|![venom](https://static.openfintech.io/payment_methods/venom/icon.png?w=278&c=v0.59.26#w100) |[venom](/payment-methods/venom/)|`venom`| 
  
 
 ## Payout Methods 
@@ -62,6 +63,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![ethereum](https://static.openfintech.io/payout_methods/ethereum/icon.svg?w=278&c=v0.59.26#w40) |[ethereum](payout-methodsethereum/)|`ethereum`| 
 |![dai_coin](https://static.openfintech.io/payout_methods/dai_coin/icon.png?w=278&c=v0.59.26#w40) |[dai_coin](payout-methodsdai_coin/)|`dai_coin`| 
 |![binance_smart_chain](https://static.openfintech.io/payout_methods/binance_smart_chain/icon.svg?w=278&c=v0.59.26#w40) |[binance_smart_chain](payout-methodsbinance_smart_chain/)|`binance_smart_chain`| 
+|![venom](https://static.openfintech.io/payout_methods/venom/icon.svg?w=278&c=v0.59.26#w40) |[venom](payout-methodsvenom/)|`venom`| 
  
 
 ## JSON Object 
@@ -81,7 +83,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "usd_coin",
     "ethereum",
     "dai_coin",
-    "binance_smart_chain"
+    "binance_smart_chain",
+    "venom"
   ],
   "payout_method":[
     "bitcoin",
@@ -90,7 +93,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "usd_coin",
     "ethereum",
     "dai_coin",
-    "binance_smart_chain"
+    "binance_smart_chain",
+    "venom"
   ],
   "metadata":null,
   "name":{

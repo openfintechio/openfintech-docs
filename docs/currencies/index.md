@@ -682,6 +682,7 @@
 || **V** ||
 |![VB24UAH](https://static.openfintech.io/currencies/VB24UAH/icon.svg?w=278&c=v0.59.26#w100) |[**VB24UAH**](VB24UAH/)|`VB24UAH`| 
 |![VEF](https://static.openfintech.io/currencies/VEF/icon.svg?w=278&c=v0.59.26#w100) |[**Venezuelan Bolívar**](VEF/)|`VEF`| 
+|![VENOM](https://static.openfintech.io/currencies/VENOM/icon.svg?w=278&c=v0.59.26#w100) |[**VENOM**](VENOM/)|`VENOM`| 
 |![VES](https://static.openfintech.io/currencies/VES/icon.svg?w=278&c=v0.59.26#w100) |[**Bolívar Soberano**](VES/)|`VES`| 
 |![VKFBTRY](https://static.openfintech.io/currencies/VKFBTRY/icon.svg?w=278&c=v0.59.26#w100) |[**VKFBTRY**](VKFBTRY/)|`VKFBTRY`| 
 |![VMUSD](https://static.openfintech.io/currencies/VMUSD/icon.svg?w=278&c=v0.59.26#w100) |[**VMUSD**](VMUSD/)|`VMUSD`| 

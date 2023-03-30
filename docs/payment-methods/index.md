@@ -510,6 +510,7 @@
 |![rhb_bank](https://static.openfintech.io/payment_methods/rhb_bank/logo.svg?w=400&c=v0.59.26#w200) |[**RHB Bank**](rhb_bank/)|`rhb_bank`| 
 |![ripple](https://static.openfintech.io/payment_methods/ripple/logo.svg?w=400&c=v0.59.26#w200) |[**Ripple**](ripple/)|`ripple`| 
 |![rixty](https://static.openfintech.io/payment_methods/rixty/logo.png?w=400&c=v0.59.26#w200) |[**Rixty**](rixty/)|`rixty`| 
+|![rtgs](https://static.openfintech.io/payment_methods/rtgs/logo.svg?w=400&c=v0.59.26#w200) |[**RTGS**](rtgs/)|`rtgs`| 
 |![rupay](https://static.openfintech.io/payment_methods/rupay/logo.svg?w=400&c=v0.59.26#w200) |[**RuPay**](rupay/)|`rupay`| 
 |![rupaypaysecure](https://static.openfintech.io/payment_methods/rupaypaysecure/logo.png?w=400&c=v0.59.26#w200) |[**RuPay PaySecure**](rupaypaysecure/)|`rupaypaysecure`| 
 |![russian_standart_bank](https://static.openfintech.io/payment_methods/russian_standart_bank/logo.png?w=400&c=v0.59.26#w200) |[**Russian Standard Bank**](russian_standart_bank/)|`russian_standart_bank`| 
@@ -635,6 +636,7 @@
 || **V** ||
 |![vcreditos](https://static.openfintech.io/payment_methods/vcreditos/logo.svg?w=400&c=v0.59.26#w200) |[**VCreditos wallet**](vcreditos/)|`vcreditos`| 
 |![vcreditos_push](https://static.openfintech.io/payment_methods/vcreditos_push/logo.svg?w=400&c=v0.59.26#w200) |[**VCreditos wallet**](vcreditos_push/)|`vcreditos_push`| 
+|![venom](https://static.openfintech.io/payment_methods/venom/logo.svg?w=400&c=v0.59.26#w200) |[**VENOM**](venom/)|`venom`| 
 |![viabalotoonline](https://static.openfintech.io/payment_methods/viabalotoonline/logo.svg?w=400&c=v0.59.26#w200) |[**Via Baloto**](viabalotoonline/)|`viabalotoonline`| 
 |![vib_bank](https://static.openfintech.io/payment_methods/vib_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Vietnam International Commercial Joint Stock Bank**](vib_bank/)|`vib_bank`| 
 |![viber](https://static.openfintech.io/payment_methods/viber/logo.png?w=400&c=v0.59.26#w200) |[**Viber**](viber/)|`viber`| 
@@ -671,6 +673,7 @@
 |![wechat](https://static.openfintech.io/payment_methods/wechat/logo.svg?w=400&c=v0.59.26#w200) |[**Wechat**](wechat/)|`wechat`| 
 |![westpac](https://static.openfintech.io/payment_methods/westpac/logo.svg?w=400&c=v0.59.26#w200) |[**Westpac**](westpac/)|`westpac`| 
 |![wiretransfer](https://static.openfintech.io/payment_methods/wiretransfer/logo.svg?w=400&c=v0.59.26#w200) |[**Wire Transfer**](wiretransfer/)|`wiretransfer`| 
+|![wise](https://static.openfintech.io/payment_methods/wise/logo.svg?w=400&c=v0.59.26#w200) |[**Wise**](wise/)|`wise`| 
 |![wlandpay](https://static.openfintech.io/payment_methods/wlandpay/logo.svg?w=400&c=v0.59.26#w200) |[**Wlandpay**](wlandpay/)|`wlandpay`| 
 |![wmcard](https://static.openfintech.io/payment_methods/wmcard/logo.png?w=400&c=v0.59.26#w200) |[**WebMoney card**](wmcard/)|`wmcard`| 
 |![wmnote](https://static.openfintech.io/payment_methods/wmnote/logo.png?w=400&c=v0.59.26#w200) |[**WebMoney note**](wmnote/)|`wmnote`| 

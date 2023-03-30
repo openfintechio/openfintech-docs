@@ -38,6 +38,9 @@ The list of [Payment Services](/payment-services/) based on the _Cash_
 |:---:|:---:|:---:| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_rub_hpp](/payment-services/cash_rub_hpp/)|`cash_rub_hpp`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_eur_hpp](/payment-services/cash_eur_hpp/)|`cash_eur_hpp`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_egp_hpp](/payment-services/cash_egp_hpp/)|`cash_egp_hpp`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_krw_hpp](/payment-services/cash_krw_hpp/)|`cash_krw_hpp`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_kzt_hpp](/payment-services/cash_kzt_hpp/)|`cash_kzt_hpp`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_usd_hpp](/payment-services/cash_usd_hpp/)|`cash_usd_hpp`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_uah_hpp](/payment-services/cash_uah_hpp/)|`cash_uah_hpp`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_brl_hpp](/payment-services/cash_brl_hpp/)|`cash_brl_hpp`| 
@@ -65,6 +68,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Cash_
 |![liqpay](https://static.openfintech.io/payment_providers/liqpay/icon.svg?w=278&c=v0.59.26#w100) |[LiqPay](/payment-providers/liqpay/)|`liqpay`| 
 |![skrill](https://static.openfintech.io/payment_providers/skrill/icon.svg?w=278&c=v0.59.26#w100) |[Skrill](/payment-providers/skrill/)|`skrill`| 
 |![manual](https://static.openfintech.io/payment_providers/manual/icon.svg?w=278&c=v0.59.26#w100) |[Manual](/payment-providers/manual/)|`manual`| 
+|![payport](https://static.openfintech.io/payment_providers/payport/icon.svg?w=278&c=v0.59.26#w100) |[PayPort](/payment-providers/payport/)|`payport`| 
  
 
 ## JSON Object 

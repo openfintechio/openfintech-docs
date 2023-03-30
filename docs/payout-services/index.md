@@ -1112,6 +1112,7 @@
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_clp`](payment_card_clp/)|`CLP`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_cny`](payment_card_cny/)|`CNY`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_crc`](payment_card_crc/)|`CRC`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_cve`](payment_card_cve/)|`CVE`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_czk`](payment_card_czk/)|`CZK`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_dkk`](payment_card_dkk/)|`DKK`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_egp`](payment_card_egp/)|`EGP`| 
@@ -1156,6 +1157,7 @@
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_sar`](payment_card_sar/)|`SAR`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_sek`](payment_card_sek/)|`SEK`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_sgd`](payment_card_sgd/)|`SGD`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_sll`](payment_card_sll/)|`SLL`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_thb`](payment_card_thb/)|`THB`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_tjs`](payment_card_tjs/)|`TJS`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_tmt`](payment_card_tmt/)|`TMT`| 
@@ -1168,6 +1170,7 @@
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_uzs`](payment_card_uzs/)|`UZS`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_vef`](payment_card_vef/)|`VEF`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_vnd`](payment_card_vnd/)|`VND`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_xaf`](payment_card_xaf/)|`XAF`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_zar`](payment_card_zar/)|`ZAR`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_zwl`](payment_card_zwl/)|`ZWL`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_email_aud`](paypal_email_aud/)|`AUD`| 
@@ -2264,6 +2267,7 @@
 |![Великобурлукський РЕМ АК "Харківобленерго"(за послуги до 31.12.2018) ](https://static.openfintech.io/payout_methods/velikoburlukskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Великобурлукський РЕМ АК "Харківобленерго"(за послуги до 31.12.2018) **](/payout-methods/velikoburlukskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|[`velikoburlukskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018_uah`](velikoburlukskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018_uah/)|`UAH`| 
 |![Welton Telecom (by personal code)](https://static.openfintech.io/payout_methods/velton-telekom-po-personalnomu-kodu/logo.png?w=400&c=v0.59.26#w24) |[**Welton Telecom (by personal code)**](/payout-methods/velton-telekom-po-personalnomu-kodu/)|[`velton-telekom-po-personalnomu-kodu_uah`](velton-telekom-po-personalnomu-kodu_uah/)|`UAH`| 
 |![Welton Telecom (by phone)](https://static.openfintech.io/payout_methods/velton-telekom-po-telefonu/logo.png?w=400&c=v0.59.26#w24) |[**Welton Telecom (by phone)**](/payout-methods/velton-telekom-po-telefonu/)|[`velton-telekom-po-telefonu_uah`](velton-telekom-po-telefonu_uah/)|`UAH`| 
+|![VENOM](https://static.openfintech.io/payout_methods/venom/logo.svg?w=400&c=v0.59.26#w24) |[**VENOM**](/payout-methods/venom/)|[`venom_venom`](venom_venom/)|`VENOM`| 
 |![Garden](https://static.openfintech.io/payout_methods/vgorode/logo.png?w=400&c=v0.59.26#w24) |[**Garden**](/payout-methods/vgorode/)|[`vgorode_uah`](vgorode_uah/)|`UAH`| 
 |![Viasat UATV](https://static.openfintech.io/payout_methods/viasat-uatv/logo.png?w=400&c=v0.59.26#w24) |[**Viasat UATV**](/payout-methods/viasat-uatv/)|[`viasat-uatv_uah`](viasat-uatv_uah/)|`UAH`| 
 |![Vietnam International Commercial Joint Stock Bank](https://static.openfintech.io/payout_methods/vib_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Vietnam International Commercial Joint Stock Bank**](/payout-methods/vib_bank/)|[`vib_bank_vnd`](vib_bank_vnd/)|`VND`| 

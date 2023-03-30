@@ -36,7 +36,7 @@ The list of [Payment Services](/payment-services/) based on the _Trustly Pay N P
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![trustly_paynplay](https://static.openfintech.io/payment_methods/trustly_paynplay/icon.png?w=278&c=v0.59.26#w100) |[trustly_paynplay_eur](/payment-services/trustly_paynplay_eur/)|`trustly_paynplay_eur`| 
+|![trustly_paynplay](https://static.openfintech.io/payment_methods/trustly_paynplay/icon.png?w=278&c=v0.59.26#w100) |[trustly_paynplay_eur_hpp](/payment-services/trustly_paynplay_eur_hpp/)|`trustly_paynplay_eur_hpp`| 
  
 
 ## JSON Object 

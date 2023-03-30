@@ -1340,6 +1340,7 @@
 |![payplay](https://static.openfintech.io/vendors/payplay/logo.png?w=600&c=v0.59.26#w200) |[**PayPlay**](payplay/)|`payplay`| 
 |![payplug](https://static.openfintech.io/vendors/payplug/logo.png?w=600&c=v0.59.26#w200) |[**PayPlug**](payplug/)|`payplug`| 
 |![paypoint](https://static.openfintech.io/vendors/paypoint/logo.png?w=600&c=v0.59.26#w200) |[**PayPoint**](paypoint/)|`paypoint`| 
+|![payport](https://static.openfintech.io/vendors/payport/logo.svg?w=600&c=v0.59.26#w200) |[**PayPort**](payport/)|`payport`| 
 |![paypound](https://static.openfintech.io/vendors/paypound/logo.png?w=600&c=v0.59.26#w200) |[**PayPound**](paypound/)|`paypound`| 
 |![paypro](https://static.openfintech.io/vendors/paypro/logo.png?w=600&c=v0.59.26#w200) |[**PayPro**](paypro/)|`paypro`| 
 |![payproglobal](https://static.openfintech.io/vendors/payproglobal/logo.svg?w=600&c=v0.59.26#w200) |[**PayPro Global**](payproglobal/)|`payproglobal`| 
