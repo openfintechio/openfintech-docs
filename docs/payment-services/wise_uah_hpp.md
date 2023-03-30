@@ -9,7 +9,7 @@
 **Method:** `wise` 
  [show -->](/payment-methods/wise/) 
  
-**Currency:** `EUR` [show -->](/currencies/EUR/) 
+**Currency:** `UAH` [show -->](/currencies/UAH/) 
  
 **Name:** 
  
@@ -17,7 +17,7 @@
 :	[RU] Wise 
 :	[UK] Wise 
  
-**Amount limits:** from `0.01` to `100000` EUR 
+**Amount limits:** from `0.01` to `100000` UAH 
 
 ## JSON Object 
 
@@ -26,7 +26,7 @@
   "code":"wise_uah_hpp",
   "flow":"hpp",
   "method":"wise",
-  "currency":"EUR",
+  "currency":"UAH",
   "fields":null,
   "amount_min":0.01,
   "amount_max":100000

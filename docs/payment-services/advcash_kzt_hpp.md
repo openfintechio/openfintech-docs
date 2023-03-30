@@ -9,13 +9,13 @@
 **Method:** `advcash` 
  [show -->](/payment-methods/advcash/) 
  
-**Currency:** `EUR` [show -->](/currencies/EUR/) 
+**Currency:** `KZT` [show -->](/currencies/KZT/) 
  
 **Name:** 
  
 :	[EN] AdvCash 
  
-**Amount limits:** from `0.01` to `100000` EUR 
+**Amount limits:** from `0.01` to `100000` KZT 
 
 ## JSON Object 
 
@@ -24,7 +24,7 @@
   "code":"advcash_kzt_hpp",
   "flow":"hpp",
   "method":"advcash",
-  "currency":"EUR",
+  "currency":"KZT",
   "fields":null,
   "amount_min":0.01,
   "amount_max":100000
