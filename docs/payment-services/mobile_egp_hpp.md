@@ -17,7 +17,7 @@
 :	[RU] Mobile 
 :	[UK] Mobile 
  
-**Amount limits:** from `0.01` to `100000` KZT 
+**Amount limits:** from `0.01` to `1000000000` KZT 
 
 ## JSON Object 
 
@@ -29,6 +29,6 @@
   "currency":"KZT",
   "fields":null,
   "amount_min":0.01,
-  "amount_max":100000
+  "amount_max":1000000000
 }
 ```  
