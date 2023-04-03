@@ -88,6 +88,17 @@ The list of supported [Payment Methods](/payment-methods/)
 |![payzapp](https://static.openfintech.io/payment_methods/payzapp/icon.png?w=278&c=v0.59.26#w100) |[payzapp](/payment-methods/payzapp/)|`payzapp`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![imps](https://static.openfintech.io/payout_methods/imps/icon.png?w=278&c=v0.59.26#w40) |[imps](payout-methodsimps/)|`imps`| 
+|![rtgs](https://static.openfintech.io/payout_methods/rtgs/icon.svg?w=278&c=v0.59.26#w40) |[rtgs](payout-methodsrtgs/)|`rtgs`| 
+|![neft](https://static.openfintech.io/payout_methods/neft/icon.svg?w=278&c=v0.59.26#w40) |[neft](payout-methodsneft/)|`neft`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -146,7 +157,11 @@ The list of supported [Payment Methods](/payment-methods/)
     "bank_transfer",
     "payzapp"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "imps",
+    "rtgs",
+    "neft"
+  ],
   "metadata":null,
   "name":{
     "en":"UBank Connect",
