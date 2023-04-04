@@ -40,6 +40,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![trustly](https://static.openfintech.io/payment_methods/trustly/icon.svg?w=278&c=v0.59.26#w100) |[trustly](/payment-methods/trustly/)|`trustly`| 
+|![trustly_paynplay](https://static.openfintech.io/payment_methods/trustly_paynplay/icon.png?w=278&c=v0.59.26#w100) |[trustly_paynplay](/payment-methods/trustly_paynplay/)|`trustly_paynplay`| 
  
 
 ## JSON Object 
@@ -52,7 +53,8 @@ The list of supported [Payment Methods](/payment-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    "trustly"
+    "trustly",
+    "trustly_paynplay"
   ],
   "payout_method":null,
   "metadata":null,

@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Mobile_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_egp_hpp](/payment-services/mobile_egp_hpp/)|`mobile_egp_hpp`| 
+|![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_rub_hpp](/payment-services/mobile_rub_hpp/)|`mobile_rub_hpp`| 
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_pkr_hpp](/payment-services/mobile_pkr_hpp/)|`mobile_pkr_hpp`| 
  
 
