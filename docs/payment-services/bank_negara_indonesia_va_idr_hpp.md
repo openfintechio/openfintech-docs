@@ -15,7 +15,7 @@
  
 :	[EN] Bank Negara Indonesia (VA) 
  
-**Amount limits:** from `0.01` to `9999999` IDR 
+**Amount limits:** from `0.01` to `999999999` IDR 
 
 ## Fields 
 
@@ -76,6 +76,6 @@
     }
   ],
   "amount_min":0.01,
-  "amount_max":9999999
+  "amount_max":999999999
 }
 ```  

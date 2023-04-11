@@ -441,6 +441,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![paylama](https://static.openfintech.io/payment_providers/paylama/icon.png?w=278&c=v0.59.26#w100) |[PayLama](/payment-providers/paylama/)|`paylama`| 
 |![centiwise](https://static.openfintech.io/payment_providers/centiwise/icon.png?w=278&c=v0.59.26#w100) |[Centiwise](/payment-providers/centiwise/)|`centiwise`| 
 |![katarun](https://static.openfintech.io/payment_providers/katarun/icon.png?w=278&c=v0.59.26#w100) |[Katarun](/payment-providers/katarun/)|`katarun`| 
+|![futuritypay](https://static.openfintech.io/payment_providers/futuritypay/icon.png?w=278&c=v0.59.26#w100) |[Futuritypay](/payment-providers/futuritypay/)|`futuritypay`| 
  
 
 ## JSON Object 
