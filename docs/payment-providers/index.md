@@ -394,6 +394,7 @@
 |![kalixa](https://static.openfintech.io/payment_providers/kalixa/logo.png?w=600&c=v0.59.26#w100) |[**Kalixa Payments Group**](kalixa/)|`kalixa`| 
 |![kassa](https://static.openfintech.io/payment_providers/kassa/logo.svg?w=600&c=v0.59.26#w100) |[**Kassa**](kassa/)|`kassa`| 
 |![kassacompleet](https://static.openfintech.io/payment_providers/kassacompleet/logo.png?w=600&c=v0.59.26#w100) |[**Kassa Compleet**](kassacompleet/)|`kassacompleet`| 
+|![katarun](https://static.openfintech.io/payment_providers/katarun/logo.svg?w=600&c=v0.59.26#w100) |[**Katarun**](katarun/)|`katarun`| 
 |![kaznachey](https://static.openfintech.io/payment_providers/kaznachey/logo.png?w=600&c=v0.59.26#w100) |[**Kaznachey**](kaznachey/)|`kaznachey`| 
 |![keycollect](https://static.openfintech.io/payment_providers/keycollect/logo.png?w=600&c=v0.59.26#w100) |[**KeyCollect**](keycollect/)|`keycollect`| 
 |![kiberpay](https://static.openfintech.io/payment_providers/kiberpay/logo.png?w=600&c=v0.59.26#w100) |[**Kiberpay**](kiberpay/)|`kiberpay`| 

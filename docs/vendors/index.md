@@ -857,6 +857,7 @@
 |![kaspibankkredit](https://static.openfintech.io/vendors/kaspibankkredit/logo.svg?w=600&c=v0.59.26#w200) |[**Kaspi Bank (кредит)**](kaspibankkredit/)|`kaspibankkredit`| 
 |![kassa](https://static.openfintech.io/vendors/kassa/logo.svg?w=600&c=v0.59.26#w200) |[**Kassa**](kassa/)|`kassa`| 
 |![kassacompleet](https://static.openfintech.io/vendors/kassacompleet/logo.png?w=600&c=v0.59.26#w200) |[**Kassa Compleet**](kassacompleet/)|`kassacompleet`| 
+|![katarun](https://static.openfintech.io/vendors/katarun/logo.svg?w=600&c=v0.59.26#w200) |[**Katarun**](katarun/)|`katarun`| 
 |![kazinvestbank](https://static.openfintech.io/vendors/kazinvestbank/logo.svg?w=600&c=v0.59.26#w200) |[**КазИнвестБанк**](kazinvestbank/)|`kazinvestbank`| 
 |![kazkommercbank](https://static.openfintech.io/vendors/kazkommercbank/logo.svg?w=600&c=v0.59.26#w200) |[**Казкоммерцбанк**](kazkommercbank/)|`kazkommercbank`| 
 |![kaznachejstvo_ukrayini_el_adm_podat](https://static.openfintech.io/vendors/kaznachejstvo_ukrayini_el_adm_podat/logo.svg?w=600&c=v0.59.26#w200) |[**Державна казначейська служба України**](kaznachejstvo_ukrayini_el_adm_podat/)|`kaznachejstvo_ukrayini_el_adm_podat`| 
