@@ -16,7 +16,7 @@
 :	[RU] Card 
 :	[UK] Card 
  
-**Amount limits:** from `0.01` to `1000000` UZS 
+**Amount limits:** from `0.01` to `100000000` UZS 
 
 ## Fields 
 
@@ -82,6 +82,6 @@
     }
   ],
   "amount_min":"0.01",
-  "amount_max":"1000000"
+  "amount_max":"100000000"
 }
 ```  

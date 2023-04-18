@@ -16,7 +16,7 @@
 :	[RU] Neteller 
 :	[UK] Neteller 
  
-**Amount limits:** from `1` to `50000` UZS 
+**Amount limits:** from `1` to `100000000` UZS 
 
 ## Fields 
 
@@ -75,6 +75,6 @@
     }
   ],
   "amount_min":"1",
-  "amount_max":"50000"
+  "amount_max":"100000000"
 }
 ```  

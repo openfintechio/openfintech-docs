@@ -61,7 +61,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Bitcoin_
 |![paymentasia](https://static.openfintech.io/payment_providers/paymentasia/icon.png?w=278&c=v0.59.26#w100) |[Payment Asia](/payment-providers/paymentasia/)|`paymentasia`| 
 |![2000charge](https://static.openfintech.io/payment_providers/2000charge/icon.png?w=278&c=v0.59.26#w100) |[2000Charge.com](/payment-providers/2000charge/)|`2000charge`| 
 |![multicards](https://static.openfintech.io/payment_providers/multicards/icon.png?w=278&c=v0.59.26#w100) |[MultiCards Internet Billing](/payment-providers/multicards/)|`multicards`| 
-|![advcash](https://static.openfintech.io/payment_providers/advcash/icon.svg?w=278&c=v0.59.26#w100) |[Advcash](/payment-providers/advcash/)|`advcash`| 
 |![payeer](https://static.openfintech.io/payment_providers/payeer/icon.png?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
 |![anymoney](https://static.openfintech.io/payment_providers/anymoney/icon.svg?w=278&c=v0.59.26#w100) |[Any.Money](/payment-providers/anymoney/)|`anymoney`| 
 |![coinspaid](https://static.openfintech.io/payment_providers/coinspaid/icon.png?w=278&c=v0.59.26#w100) |[CoinsPaid](/payment-providers/coinspaid/)|`coinspaid`| 

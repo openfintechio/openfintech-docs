@@ -17,7 +17,7 @@
 :	[RU] Ecopayz 
 :	[UK] Ecopayz 
  
-**Amount limits:** from `0.01` to `999999` UZS 
+**Amount limits:** from `0.01` to `100000000` UZS 
 
 ## Fields 
 
@@ -149,6 +149,6 @@
     }
   ],
   "amount_min":0.01,
-  "amount_max":999999
+  "amount_max":100000000
 }
 ```  
