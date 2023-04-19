@@ -12,7 +12,7 @@
 :	[RU] Pay2Kassa 
 :	[UK] Pay2Kassa 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Links:** 
 : website [https://pay2kassa.net](https://pay2kassa.net) 
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/pay2kassa/icon.svg?w=278&c=v0.59.26#w100
     "ru":"Pay2Kassa",
     "uk":"Pay2Kassa"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":{
     "website":"https:\/\/pay2kassa.net"

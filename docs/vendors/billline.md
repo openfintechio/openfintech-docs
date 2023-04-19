@@ -12,7 +12,7 @@
 :	[RU] bill_line 
 :	[UK] bill_line 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Links:** 
 : website [https://billline.net/](https://billline.net/) 
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/billline/icon.svg?w=278&c=v0.59.26#w100
     "ru":"bill_line",
     "uk":"bill_line"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":{
     "website":"https:\/\/billline.net\/"

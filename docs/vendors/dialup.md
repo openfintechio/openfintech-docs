@@ -12,7 +12,7 @@
 :	[RU] Dialup 
 :	[UK] Dialup 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 
 ## Images 
@@ -43,7 +43,7 @@ https://static.openfintech.io/vendors/dialup/icon.svg?w=278&c=v0.59.26#w100
     "ru":"Dialup",
     "uk":"Dialup"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":null,
   "countries":null,

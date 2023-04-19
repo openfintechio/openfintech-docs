@@ -12,7 +12,7 @@
 :	[RU] PayPlay 
 :	[UK] PayPlay 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 
 ## Images 
@@ -43,7 +43,7 @@ https://static.openfintech.io/vendors/payplay/icon.png?w=278&c=v0.59.26#w100
     "ru":"PayPlay",
     "uk":"PayPlay"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":null,
   "countries":null,

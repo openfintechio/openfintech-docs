@@ -10,7 +10,7 @@
  
 :	[EN] Wirecapital 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Description:** 
  
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/wirecapital/icon.svg?w=278&c=v0.59.26#w100
   "name":{
     "en":"Wirecapital"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":{
     "en":" Wirecapital is integrated with leading acquiring banks and processing companies in EU, Northern America, Asia, CIS and additional countries. This allows a rapid activation of new customers from different parts of world. Wirecapital provides its customers with ability to focus on their main Internet business, while providing a seamless connectivity to online payment processing facilities. When appropriate, our financial specialists shall provide a consulting for business optimisation in offshore zones and will determine the most efficient credit card processing schemes according to a industry verticals. "
   },

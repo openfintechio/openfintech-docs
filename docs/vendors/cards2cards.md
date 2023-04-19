@@ -12,7 +12,7 @@
 :	[RU] cards2cards 
 :	[UK] cards2cards 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Links:** 
 : website [https://www.cards2cards.com/](https://www.cards2cards.com/) 
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/cards2cards/icon.svg?w=278&c=v0.59.26#w100
     "ru":"cards2cards",
     "uk":"cards2cards"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":{
     "website":"https:\/\/www.cards2cards.com\/"

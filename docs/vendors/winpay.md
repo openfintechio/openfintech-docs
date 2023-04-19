@@ -12,7 +12,7 @@
 :	[RU] Global Financial Innovations 
 :	[UK] Global Financial Innovations 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Links:** 
 : website [https://globalfin.uk](https://globalfin.uk) 
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/winpay/icon.svg?w=278&c=v0.59.26#w100
     "ru":"Global Financial Innovations",
     "uk":"Global Financial Innovations"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":{
     "website":"https:\/\/globalfin.uk"

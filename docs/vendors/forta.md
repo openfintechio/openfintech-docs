@@ -12,7 +12,7 @@
 :	[RU] Forta 
 :	[UK] Forta 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 
 ## Images 
@@ -43,7 +43,7 @@ https://static.openfintech.io/vendors/forta/icon.png?w=278&c=v0.59.26#w100
     "ru":"Forta",
     "uk":"Forta"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":null,
   "countries":null,

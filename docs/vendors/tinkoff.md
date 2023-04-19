@@ -12,7 +12,7 @@
 :	[RU] Тинькофф 
 :	[UK] Тінькофф 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Links:** 
 : website [https://www.tinkoff.ru](https://www.tinkoff.ru) 
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/tinkoff/icon.svg?w=278&c=v0.59.26#w100
     "ru":"\u0422\u0438\u043d\u044c\u043a\u043e\u0444\u0444",
     "uk":"\u0422\u0456\u043d\u044c\u043a\u043e\u0444\u0444"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":{
     "website":"https:\/\/www.tinkoff.ru"

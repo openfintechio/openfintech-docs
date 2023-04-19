@@ -12,7 +12,7 @@
 :	[RU] Reeves 
 :	[UK] Reeves 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 
 ## Images 
@@ -43,7 +43,7 @@ https://static.openfintech.io/vendors/reeves/icon.png?w=278&c=v0.59.26#w100
     "ru":"Reeves",
     "uk":"Reeves"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":null,
   "countries":null,

@@ -12,7 +12,7 @@
 :	[RU] АЙБОКС БАНК 
 :	[UK] АЙБОКС БАНК 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Links:** 
 : website [https://iboxbank.online](https://iboxbank.online) 
@@ -50,7 +50,7 @@ https://static.openfintech.io/vendors/iboxbank/icon.png?w=278&c=v0.59.26#w100
     "ru":"\u0410\u0419\u0411\u041e\u041a\u0421 \u0411\u0410\u041d\u041a",
     "uk":"\u0410\u0419\u0411\u041e\u041a\u0421 \u0411\u0410\u041d\u041a"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":{
     "website":"https:\/\/iboxbank.online"

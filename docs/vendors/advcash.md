@@ -10,7 +10,7 @@
  
 :	[EN] AdvCash 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Links:** 
 : website [https://advcash.com](https://advcash.com) 
@@ -42,7 +42,7 @@ https://static.openfintech.io/vendors/advcash/icon.png?w=278&c=v0.59.26#w100
   "name":{
     "en":"AdvCash"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":{
     "website":"https:\/\/advcash.com"

@@ -12,7 +12,7 @@
 :	[RU] BeonPay 
 :	[UK] BeonPay 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 
 ## Images 
@@ -43,7 +43,7 @@ https://static.openfintech.io/vendors/beonpay/icon.png?w=278&c=v0.59.26#w100
     "ru":"BeonPay",
     "uk":"BeonPay"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":null,
   "countries":null,

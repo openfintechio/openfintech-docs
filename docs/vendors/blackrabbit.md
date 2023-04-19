@@ -12,7 +12,7 @@
 :	[RU] BlackRabbit 
 :	[UK] BlackRabbit 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Links:** 
 : website [https://brpay.io](https://brpay.io) 
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/blackrabbit/icon.png?w=278&c=v0.59.26#w100
     "ru":"BlackRabbit",
     "uk":"BlackRabbit"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":{
     "website":"https:\/\/brpay.io"
