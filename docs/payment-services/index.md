@@ -194,6 +194,7 @@
 |![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_ars_hpp`](card_transfer_ars_hpp/)| 
 |![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_azn_hpp`](card_transfer_azn_hpp/)| 
 |![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_egp_hpp`](card_transfer_egp_hpp/)| 
+|![Humo card transfer](https://static.openfintech.io/payment_methods/card_transfer_humo/logo.svg?w=400&c=v0.59.26#w200) |[**Humo card transfer**](/payment-methods/card_transfer_humo/)|[`card_transfer_humo_uzs_invoice`](card_transfer_humo_uzs_invoice/)| 
 |![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_kgs_hpp`](card_transfer_kgs_hpp/)| 
 |![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_kzt_hpp`](card_transfer_kzt_hpp/)| 
 |![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_mdl_hpp`](card_transfer_mdl_hpp/)| 
@@ -202,6 +203,7 @@
 |![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_rub_invoice`](card_transfer_rub_invoice/)| 
 |![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_uah_hpp`](card_transfer_uah_hpp/)| 
 |![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_usd_hpp`](card_transfer_usd_hpp/)| 
+|![Uzcard card transfer](https://static.openfintech.io/payment_methods/card_transfer_uzcard/logo.svg?w=400&c=v0.59.26#w200) |[**Uzcard card transfer**](/payment-methods/card_transfer_uzcard/)|[`card_transfer_uzcard_uzs_invoice`](card_transfer_uzcard_uzs_invoice/)| 
 |![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_uzs_hpp`](card_transfer_uzs_hpp/)| 
 |![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_uzs_invoice`](card_transfer_uzs_invoice/)| 
 |![CartaSi](https://static.openfintech.io/payment_methods/cartasi/logo.png?w=400&c=v0.59.26#w200) |[**CartaSi**](/payment-methods/cartasi/)|[`cartasi_eur_hpp`](cartasi_eur_hpp/)| 

@@ -129,6 +129,8 @@
 |![capayable](https://static.openfintech.io/payment_methods/capayable/logo.png?w=400&c=v0.59.26#w200) |[**Capayable**](capayable/)|`capayable`| 
 |![card](https://static.openfintech.io/payment_methods/card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](card/)|`card`| 
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](card_transfer/)|`card_transfer`| 
+|![card_transfer_humo](https://static.openfintech.io/payment_methods/card_transfer_humo/logo.svg?w=400&c=v0.59.26#w200) |[**Humo card transfer**](card_transfer_humo/)|`card_transfer_humo`| 
+|![card_transfer_uzcard](https://static.openfintech.io/payment_methods/card_transfer_uzcard/logo.svg?w=400&c=v0.59.26#w200) |[**Uzcard card transfer**](card_transfer_uzcard/)|`card_transfer_uzcard`| 
 |![carrierbilling](https://static.openfintech.io/payment_methods/carrierbilling/logo.png?w=400&c=v0.59.26#w200) |[**Carrier Billing**](carrierbilling/)|`carrierbilling`| 
 |![cartasi](https://static.openfintech.io/payment_methods/cartasi/logo.png?w=400&c=v0.59.26#w200) |[**CartaSi**](cartasi/)|`cartasi`| 
 |![cartebancaires](https://static.openfintech.io/payment_methods/cartebancaires/logo.png?w=400&c=v0.59.26#w200) |[**Carte Bancaires**](cartebancaires/)|`cartebancaires`| 
