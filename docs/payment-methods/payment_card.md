@@ -437,6 +437,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![katarun](https://static.openfintech.io/payment_providers/katarun/icon.png?w=278&c=v0.59.26#w100) |[Katarun](/payment-providers/katarun/)|`katarun`| 
 |![futuritypay](https://static.openfintech.io/payment_providers/futuritypay/icon.png?w=278&c=v0.59.26#w100) |[Futuritypay](/payment-providers/futuritypay/)|`futuritypay`| 
 |![smartgates](https://static.openfintech.io/payment_providers/smartgates/icon.png?w=278&c=v0.59.26#w100) |[Smartgates](/payment-providers/smartgates/)|`smartgates`| 
+|![polyana](https://static.openfintech.io/payment_providers/polyana/icon.png?w=278&c=v0.59.26#w100) |[Polyana](/payment-providers/polyana/)|`polyana`| 
  
 
 ## JSON Object 

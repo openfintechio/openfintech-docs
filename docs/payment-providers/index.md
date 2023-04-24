@@ -665,6 +665,7 @@
 |![platron](https://static.openfintech.io/payment_providers/platron/logo.png?w=600&c=v0.59.26#w100) |[**Platron**](platron/)|`platron`| 
 |![pmsolutions](https://static.openfintech.io/payment_providers/pmsolutions/logo.png?w=600&c=v0.59.26#w100) |[**PMSolutions**](pmsolutions/)|`pmsolutions`| 
 |![poli](https://static.openfintech.io/payment_providers/poli/logo.svg?w=600&c=v0.59.26#w100) |[**POLi**](poli/)|`poli`| 
+|![polyana](https://static.openfintech.io/payment_providers/polyana/logo.png?w=600&c=v0.59.26#w100) |[**Polyana**](polyana/)|`polyana`| 
 |![portmone](https://static.openfintech.io/payment_providers/portmone/logo.svg?w=600&c=v0.59.26#w100) |[**Portmone.com**](portmone/)|`portmone`| 
 |![postfinance](https://static.openfintech.io/payment_providers/postfinance/logo.png?w=600&c=v0.59.26#w100) |[**PostFinance**](postfinance/)|`postfinance`| 
 |![powerpay21](https://static.openfintech.io/payment_providers/powerpay21/logo.png?w=600&c=v0.59.26#w100) |[**powerpay21**](powerpay21/)|`powerpay21`| 
