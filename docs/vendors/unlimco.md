@@ -12,7 +12,7 @@
 :	[RU] Unlimco 
 :	[UK] Unlimco 
  
-**Status:** `deprecated` 
+**Status:** `active` 
  
 **Links:** 
 : website [https://unlimco.ru/](https://unlimco.ru/) 
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/unlimco/icon.svg?w=278&c=v0.59.26#w100
     "ru":"Unlimco",
     "uk":"Unlimco"
   },
-  "status":"deprecated",
+  "status":"active",
   "description":null,
   "links":{
     "website":"https:\/\/unlimco.ru\/"

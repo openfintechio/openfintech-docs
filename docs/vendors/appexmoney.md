@@ -12,7 +12,7 @@
 :	[RU] Appexmoney 
 :	[UK] Appexmoney 
  
-**Status:** `deprecated` 
+**Status:** `active` 
  
 
 ## Images 
@@ -43,7 +43,7 @@ https://static.openfintech.io/vendors/appexmoney/icon.svg?w=278&c=v0.59.26#w100
     "ru":"Appexmoney",
     "uk":"Appexmoney"
   },
-  "status":"deprecated",
+  "status":"active",
   "description":null,
   "links":null,
   "countries":null,

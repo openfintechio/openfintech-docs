@@ -10,7 +10,7 @@
  
 :	[EN] Piastrix 
  
-**Status:** `deprecated` 
+**Status:** `active` 
  
 **Links:** 
 : website [https://piastrix.com](https://piastrix.com) 
@@ -42,7 +42,7 @@ https://static.openfintech.io/vendors/piastrix/icon.svg?w=278&c=v0.59.26#w100
   "name":{
     "en":"Piastrix"
   },
-  "status":"deprecated",
+  "status":"active",
   "description":null,
   "links":{
     "website":"https:\/\/piastrix.com"

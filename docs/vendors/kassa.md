@@ -12,7 +12,7 @@
 :	[RU] Kassa 
 :	[UK] Kassa 
  
-**Status:** `deprecated` 
+**Status:** `active` 
  
 **Links:** 
 : website [https://kassa.com](https://kassa.com) 
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/kassa/icon.svg?w=278&c=v0.59.26#w100
     "ru":"Kassa",
     "uk":"Kassa"
   },
-  "status":"deprecated",
+  "status":"active",
   "description":null,
   "links":{
     "website":"https:\/\/kassa.com"

@@ -12,7 +12,7 @@
 :	[RU] Qiwi 
 :	[UK] Qiwi 
  
-**Status:** `deprecated` 
+**Status:** `active` 
  
 
 ## Images 
@@ -43,7 +43,7 @@ https://static.openfintech.io/vendors/qiwi/icon.svg?w=278&c=v0.59.26#w100
     "ru":"Qiwi",
     "uk":"Qiwi"
   },
-  "status":"deprecated",
+  "status":"active",
   "description":null,
   "links":null,
   "countries":null,

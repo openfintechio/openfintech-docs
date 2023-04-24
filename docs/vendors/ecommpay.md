@@ -12,7 +12,7 @@
 :	[RU] ECOMMPAY 
 :	[UK] ECOMMPAY 
  
-**Status:** `deprecated` 
+**Status:** `active` 
  
 **Description:** 
  
@@ -50,7 +50,7 @@ https://static.openfintech.io/vendors/ecommpay/icon.png?w=278&c=v0.59.26#w100
     "ru":"ECOMMPAY",
     "uk":"ECOMMPAY"
   },
-  "status":"deprecated",
+  "status":"active",
   "description":{
     "en":" ECommPay is an innovative and fast thinking company that provides state of the art secure electronic payment solutions for clients worldwide. Our system is up-to-the-minute, secure, reliable and easy to connect with. Our solutions help to achieve higher transaction approval rates, lower chargeback ratios and other special requirements which help our clients achieve maximum revenues. The ECommPay payment system uses the most innovative anti-fraud technology which, in addition, can be adapted to each client's requirements & special needs. Every ECommPay client is special so we assign a personal manager to each client, regardless of your turnover amount. The ECommPay team is made of the best professionals in online payments which in turn makes the lives of our clients much easier. \u00a0 \u00a0 \u00a0 "
   },

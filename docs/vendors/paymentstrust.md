@@ -10,7 +10,7 @@
  
 :	[EN] Payments Trust 
  
-**Status:** `deprecated` 
+**Status:** `active` 
  
 
 ## Images 
@@ -39,7 +39,7 @@ https://static.openfintech.io/vendors/paymentstrust/icon.svg?w=278&c=v0.59.26#w1
   "name":{
     "en":"Payments Trust"
   },
-  "status":"deprecated",
+  "status":"active",
   "description":null,
   "links":null,
   "countries":null,

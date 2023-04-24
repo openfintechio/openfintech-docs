@@ -12,7 +12,7 @@
 :	[RU] PayAssist 
 :	[UK] PayAssist 
  
-**Status:** `deprecated` 
+**Status:** `active` 
  
 **Links:** 
 : website [https://payassist.io/](https://payassist.io/) 
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/payassist/icon.png?w=278&c=v0.59.26#w100
     "ru":"PayAssist",
     "uk":"PayAssist"
   },
-  "status":"deprecated",
+  "status":"active",
   "description":null,
   "links":{
     "website":"https:\/\/payassist.io\/"

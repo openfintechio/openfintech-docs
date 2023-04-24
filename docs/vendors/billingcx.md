@@ -12,7 +12,7 @@
 :	[RU] Billing.CX 
 :	[UK] Billing.CX 
  
-**Status:** `deprecated` 
+**Status:** `active` 
  
 **Links:** 
 : website [https://billing.cx/](https://billing.cx/) 
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/billingcx/icon.svg?w=278&c=v0.59.26#w100
     "ru":"Billing.CX",
     "uk":"Billing.CX"
   },
-  "status":"deprecated",
+  "status":"active",
   "description":null,
   "links":{
     "website":"https:\/\/billing.cx\/"

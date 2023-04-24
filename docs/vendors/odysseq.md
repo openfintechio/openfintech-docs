@@ -10,7 +10,7 @@
  
 :	[EN] Odysseq 
  
-**Status:** `deprecated` 
+**Status:** `active` 
  
 **Links:** 
 : website [https://odysseq.com](https://odysseq.com) 
@@ -42,7 +42,7 @@ https://static.openfintech.io/vendors/odysseq/icon.svg?w=278&c=v0.59.26#w100
   "name":{
     "en":"Odysseq"
   },
-  "status":"deprecated",
+  "status":"active",
   "description":null,
   "links":{
     "website":"https:\/\/odysseq.com"

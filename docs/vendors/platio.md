@@ -12,7 +12,7 @@
 :	[RU] Platio Limited 
 :	[UK] Platio Limited 
  
-**Status:** `deprecated` 
+**Status:** `active` 
  
 **Links:** 
 : website [https://platio.com/](https://platio.com/) 
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/platio/icon.svg?w=278&c=v0.59.26#w100
     "ru":"Platio Limited",
     "uk":"Platio Limited"
   },
-  "status":"deprecated",
+  "status":"active",
   "description":null,
   "links":{
     "website":"https:\/\/platio.com\/"

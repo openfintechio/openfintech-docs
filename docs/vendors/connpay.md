@@ -12,7 +12,7 @@
 :	[RU] ConnPay 
 :	[UK] ConnPay 
  
-**Status:** `deprecated` 
+**Status:** `active` 
  
 
 ## Images 
@@ -43,7 +43,7 @@ https://static.openfintech.io/vendors/connpay/icon.png?w=278&c=v0.59.26#w100
     "ru":"ConnPay",
     "uk":"ConnPay"
   },
-  "status":"deprecated",
+  "status":"active",
   "description":null,
   "links":null,
   "countries":null,

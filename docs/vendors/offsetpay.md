@@ -12,7 +12,7 @@
 :	[RU] OffsetPay 
 :	[UK] OffsetPay 
  
-**Status:** `deprecated` 
+**Status:** `active` 
  
 **Description:** 
  
@@ -53,7 +53,7 @@ https://static.openfintech.io/vendors/offsetpay/icon.png?w=278&c=v0.59.26#w100
     "ru":"OffsetPay",
     "uk":"OffsetPay"
   },
-  "status":"deprecated",
+  "status":"active",
   "description":{
     "en":"OffsetPay is an electronic payment processing company, that is regulated by Monetary Authority of Singapore. They abide by all norms of financial operations management in Singapore."
   },

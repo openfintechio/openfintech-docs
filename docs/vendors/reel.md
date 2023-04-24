@@ -12,7 +12,7 @@
 :	[RU] REEL 
 :	[UK] REEL 
  
-**Status:** `deprecated` 
+**Status:** `active` 
  
 **Links:** 
 : website [https://reelprocessing.com/](https://reelprocessing.com/) 
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/reel/icon.png?w=278&c=v0.59.26#w100
     "ru":"REEL",
     "uk":"REEL"
   },
-  "status":"deprecated",
+  "status":"active",
   "description":null,
   "links":{
     "website":"https:\/\/reelprocessing.com\/"

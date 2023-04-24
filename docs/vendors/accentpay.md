@@ -10,7 +10,7 @@
  
 :	[EN] Accentpay 
  
-**Status:** `deprecated` 
+**Status:** `active` 
  
 **Links:** 
 : website [https://accentpay.com](https://accentpay.com) 
@@ -42,7 +42,7 @@ https://static.openfintech.io/vendors/accentpay/icon.png?w=278&c=v0.59.26#w100
   "name":{
     "en":"Accentpay"
   },
-  "status":"deprecated",
+  "status":"active",
   "description":null,
   "links":{
     "website":"https:\/\/accentpay.com"

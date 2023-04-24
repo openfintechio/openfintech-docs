@@ -12,7 +12,7 @@
 :	[RU] BetaTransfer 
 :	[UK] BetaTransfer 
  
-**Status:** `deprecated` 
+**Status:** `active` 
  
 **Links:** 
 : website [https://merchant.betatransfer.io](https://merchant.betatransfer.io) 
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/betatransfer/icon.svg?w=278&c=v0.59.26#w10
     "ru":"BetaTransfer",
     "uk":"BetaTransfer"
   },
-  "status":"deprecated",
+  "status":"active",
   "description":null,
   "links":{
     "website":"https:\/\/merchant.betatransfer.io"

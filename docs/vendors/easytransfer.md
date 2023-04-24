@@ -12,7 +12,7 @@
 :	[RU] EasyTransfer 
 :	[UK] EasyTransfer 
  
-**Status:** `deprecated` 
+**Status:** `active` 
  
 **Links:** 
 : website [https://easytransfer.com.ua](https://easytransfer.com.ua) 
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/easytransfer/icon.svg?w=278&c=v0.59.26#w10
     "ru":"EasyTransfer",
     "uk":"EasyTransfer"
   },
-  "status":"deprecated",
+  "status":"active",
   "description":null,
   "links":{
     "website":"https:\/\/easytransfer.com.ua"
