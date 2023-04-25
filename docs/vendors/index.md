@@ -385,6 +385,7 @@
 |![citruspay](https://static.openfintech.io/vendors/citruspay/logo.png?w=600&c=v0.59.26#w200) |[**Citrus Pay**](citruspay/)|`citruspay`| 
 |![city24](https://static.openfintech.io/vendors/city24/logo.png?w=600&c=v0.59.26#w200) |[**City24**](city24/)|`city24`| 
 |![clearhaus](https://static.openfintech.io/vendors/clearhaus/logo.png?w=600&c=v0.59.26#w200) |[**Clearhaus**](clearhaus/)|`clearhaus`| 
+|![clearjunction](https://static.openfintech.io/vendors/clearjunction/logo.svg?w=600&c=v0.59.26#w200) |[**Clear Junction**](clearjunction/)|`clearjunction`| 
 |![cleverbridge](https://static.openfintech.io/vendors/cleverbridge/logo.png?w=600&c=v0.59.26#w200) |[**cleverbridge**](cleverbridge/)|`cleverbridge`| 
 |![clickandbuy](https://static.openfintech.io/vendors/clickandbuy/logo.png?w=600&c=v0.59.26#w200) |[**ClickandBuy**](clickandbuy/)|`clickandbuy`| 
 |![cmpayments](https://static.openfintech.io/vendors/cmpayments/logo.png?w=600&c=v0.59.26#w200) |[**CM Payments**](cmpayments/)|`cmpayments`| 
