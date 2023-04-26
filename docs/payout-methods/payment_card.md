@@ -84,6 +84,7 @@ The list of [Payout Services](/payout-services/) based on the _Card_
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_zar](/payout-services/payment_card_zar/)|`payment_card_zar`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_ghs](/payout-services/payment_card_ghs/)|`payment_card_ghs`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_kes](/payout-services/payment_card_kes/)|`payment_card_kes`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_ugx](/payout-services/payment_card_ugx/)|`payment_card_ugx`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_tjs](/payout-services/payment_card_tjs/)|`payment_card_tjs`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_azn](/payout-services/payment_card_azn/)|`payment_card_azn`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_inr](/payout-services/payment_card_inr/)|`payment_card_inr`| 
