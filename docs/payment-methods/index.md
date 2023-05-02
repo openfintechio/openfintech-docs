@@ -292,6 +292,7 @@
 |![instant_papara](https://static.openfintech.io/payment_methods/instant_papara/logo.svg?w=400&c=v0.59.26#w200) |[**Instant Papara**](instant_papara/)|`instant_papara`| 
 |![inteligo](https://static.openfintech.io/payment_methods/inteligo/logo.png?w=400&c=v0.59.26#w200) |[**Inteligo**](inteligo/)|`inteligo`| 
 |![interac](https://static.openfintech.io/payment_methods/interac/logo.png?w=400&c=v0.59.26#w200) |[**Interac Online**](interac/)|`interac`| 
+|![interac_aggregated](https://static.openfintech.io/payment_methods/interac_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**Interac Aggregated**](interac_aggregated/)|`interac_aggregated`| 
 |![interbank](https://static.openfintech.io/payment_methods/interbank/logo.svg?w=400&c=v0.59.26#w200) |[**Interbank**](interbank/)|`interbank`| 
 |![interkassa](https://static.openfintech.io/payment_methods/interkassa/logo.svg?w=400&c=v0.59.26#w200) |[**Interkassa**](interkassa/)|`interkassa`| 
 |![ivrbilling](https://static.openfintech.io/payment_methods/ivrbilling/logo.png?w=400&c=v0.59.26#w200) |[**IVR Billing**](ivrbilling/)|`ivrbilling`| 

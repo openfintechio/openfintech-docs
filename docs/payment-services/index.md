@@ -382,6 +382,7 @@
 |![ING Bank(Poland)](https://static.openfintech.io/payment_methods/ingpl/logo.svg?w=400&c=v0.59.26#w200) |[**ING Bank(Poland)**](/payment-methods/ingpl/)|[`ingbankpl_pln_hpp`](ingbankpl_pln_hpp/)| 
 |![Instant Bank Transfer](https://static.openfintech.io/payment_methods/instant_bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Instant Bank Transfer**](/payment-methods/instant_bank_transfer/)|[`instant_bank_transfer_try_hpp`](instant_bank_transfer_try_hpp/)| 
 |![Instant Papara](https://static.openfintech.io/payment_methods/instant_papara/logo.svg?w=400&c=v0.59.26#w200) |[**Instant Papara**](/payment-methods/instant_papara/)|[`instant_papara_try_hpp`](instant_papara_try_hpp/)| 
+|![Interac Aggregated](https://static.openfintech.io/payment_methods/interac_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**Interac Aggregated**](/payment-methods/interac_aggregated/)|[`interac_aggregated_cad_hpp`](interac_aggregated_cad_hpp/)| 
 |![Interac Online](https://static.openfintech.io/payment_methods/interac/logo.png?w=400&c=v0.59.26#w200) |[**Interac Online**](/payment-methods/interac/)|[`interac_cad_hpp`](interac_cad_hpp/)| 
 |![Interbank](https://static.openfintech.io/payment_methods/interbank/logo.svg?w=400&c=v0.59.26#w200) |[**Interbank**](/payment-methods/interbank/)|[`interbank_pen_hpp`](interbank_pen_hpp/)| 
 |![Interbank](https://static.openfintech.io/payment_methods/interbank/logo.svg?w=400&c=v0.59.26#w200) |[**Interbank**](/payment-methods/interbank/)|[`interbank_usd_hpp`](interbank_usd_hpp/)| 

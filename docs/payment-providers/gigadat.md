@@ -33,6 +33,15 @@ https://static.openfintech.io/payment_providers/gigadat/logo.png?w=400&c=v0.59.2
 https://static.openfintech.io/payment_providers/gigadat/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Methods 
+ 
+The list of supported [Payment Methods](/payment-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![interac_aggregated](https://static.openfintech.io/payment_methods/interac_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[interac_aggregated](/payment-methods/interac_aggregated/)|`interac_aggregated`| 
+ 
+
 ## Payout Methods 
  
 The list of supported [Payout Methods](/payout-methods/) 
@@ -51,7 +60,9 @@ The list of supported [Payout Methods](/payout-methods/)
   "vendor":"gigadat",
   "categories":null,
   "countries":null,
-  "payment_method":null,
+  "payment_method":[
+    "interac_aggregated"
+  ],
   "payout_method":[
     "interac_etranfser"
   ],

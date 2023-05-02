@@ -11,7 +11,7 @@
 :	[RU] Interac e-Transfer 
 :	[UK] Interac e-Transfer 
  
-**Category:** `digital_wallet` 
+**Category:** `online_banking` 
  
 
 ## Images 
@@ -52,6 +52,6 @@ The list of [Payout Services](/payout-services/) based on the _Interac e-Transfe
   },
   "description":null,
   "countries":null,
-  "category":"digital_wallet"
+  "category":"online_banking"
 }
 ```  

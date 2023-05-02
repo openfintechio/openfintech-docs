@@ -241,6 +241,7 @@
 |![bestobmin.net](https://static.openfintech.io/vendors/bestobmin.net/logo.svg?w=600&c=v0.59.26#w200) |[**BestObmin**](bestobmin.net/)|`bestobmin.net`| 
 |![betatransfer](https://static.openfintech.io/vendors/betatransfer/logo.svg?w=600&c=v0.59.26#w200) |[**BetaTransfer**](betatransfer/)|`betatransfer`| 
 |![betraemoney](https://static.openfintech.io/vendors/betraemoney/logo.svg?w=600&c=v0.59.26#w200) |[**Betrae Money**](betraemoney/)|`betraemoney`| 
+|![betterbro](https://static.openfintech.io/vendors/betterbro/logo.png?w=600&c=v0.59.26#w200) |[**Betterbro**](betterbro/)|`betterbro`| 
 |![bigconlinepayment](https://static.openfintech.io/vendors/bigconlinepayment/logo.png?w=600&c=v0.59.26#w200) |[**Big C**](bigconlinepayment/)|`bigconlinepayment`| 
 |![bilderlings](https://static.openfintech.io/vendors/bilderlings/logo.svg?w=600&c=v0.59.26#w200) |[**Bilderlings**](bilderlings/)|`bilderlings`| 
 |![billingcx](https://static.openfintech.io/vendors/billingcx/logo.svg?w=600&c=v0.59.26#w200) |[**Billing.CX**](billingcx/)|`billingcx`| 

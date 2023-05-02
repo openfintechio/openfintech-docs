@@ -1,0 +1,65 @@
+
+# Betterbro 
+![betterbro](https://static.openfintech.io/payment_providers/betterbro/logo.png?w=400&c=v0.59.26#w100)  
+
+## General 
+ 
+**Code:** `betterbro` 
+ 
+**Vendor:** `betterbro` [show -->](/vendors/betterbro/) 
+ 
+**Name:** 
+ 
+:	[EN] Betterbro 
+:	[RU] Betterbro 
+:	[UK] Betterbro 
+ 
+
+## Images 
+
+### Logo 
+ 
+![betterbro](https://static.openfintech.io/payment_providers/betterbro/logo.png?w=400&c=v0.59.26#w100)  
+
+```
+https://static.openfintech.io/payment_providers/betterbro/logo.png?w=400&c=v0.59.26#w100
+```  
+
+### Icon 
+ 
+![betterbro](https://static.openfintech.io/payment_providers/betterbro/icon.png?w=278&c=v0.59.26#w100)  
+
+```
+https://static.openfintech.io/payment_providers/betterbro/icon.png?w=278&c=v0.59.26#w100
+```  
+
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![upi](https://static.openfintech.io/payout_methods/upi/icon.svg?w=278&c=v0.59.26#w40) |[upi](payout-methodsupi/)|`upi`| 
+ 
+
+## JSON Object 
+
+```json
+{
+  "code":"betterbro",
+  "description":null,
+  "vendor":"betterbro",
+  "categories":null,
+  "countries":null,
+  "payment_method":null,
+  "payout_method":[
+    "upi"
+  ],
+  "metadata":null,
+  "name":{
+    "en":"Betterbro",
+    "ru":"Betterbro",
+    "uk":"Betterbro"
+  }
+}
+```  
