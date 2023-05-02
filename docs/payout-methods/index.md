@@ -496,7 +496,7 @@
 |![intelekt-chernovtsy](https://static.openfintech.io/payout_methods/intelekt-chernovtsy/logo.png?w=400&c=v0.59.26#w24) |[**Intelekt (Chernivtsi)**](intelekt-chernovtsy/)|`intelekt-chernovtsy`| 
 |![intera-2015](https://static.openfintech.io/payout_methods/intera-2015/logo.png?w=400&c=v0.59.26#w24) |[**INTERA 2015**](intera-2015/)|`intera-2015`| 
 |![interac](https://static.openfintech.io/payout_methods/interac/logo.svg?w=400&c=v0.59.26#w24) |[**Interac Online**](interac/)|`interac`| 
-|![interac_etranfser](https://static.openfintech.io/payout_methods/interac_etranfser/logo.svg?w=400&c=v0.59.26#w24) |[**Interac e-Transfer**](interac_etranfser/)|`interac_etranfser`| 
+|![interac_etransfer](https://static.openfintech.io/payout_methods/interac_etransfer/logo.svg?w=400&c=v0.59.26#w24) |[**Interac e-Transfer**](interac_etransfer/)|`interac_etransfer`| 
 |![interlan-vishgorod](https://static.openfintech.io/payout_methods/interlan-vishgorod/logo.png?w=400&c=v0.59.26#w24) |[**Interlan (Vyshgorod)**](interlan-vishgorod/)|`interlan-vishgorod`| 
 |![internet-ltc-lvivska](https://static.openfintech.io/payout_methods/internet-ltc-lvivska/logo.svg?w=400&c=v0.59.26#w24) |[**Internet LTC (Львівська)**](internet-ltc-lvivska/)|`internet-ltc-lvivska`| 
 |![internet-provaider-bit](https://static.openfintech.io/payout_methods/internet-provaider-bit/logo.svg?w=400&c=v0.59.26#w24) |[**Інтернет-провайдер "БІТ"**](internet-provaider-bit/)|`internet-provaider-bit`| 

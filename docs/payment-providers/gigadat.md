@@ -48,7 +48,7 @@ The list of supported [Payout Methods](/payout-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![interac_etranfser](https://static.openfintech.io/payout_methods/interac_etranfser/icon.svg?w=278&c=v0.59.26#w40) |[interac_etranfser](payout-methodsinterac_etranfser/)|`interac_etranfser`| 
+|![interac_etransfer](https://static.openfintech.io/payout_methods/interac_etransfer/icon.svg?w=278&c=v0.59.26#w40) |[interac_etransfer](payout-methodsinterac_etransfer/)|`interac_etransfer`| 
  
 
 ## JSON Object 
@@ -64,7 +64,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "interac_aggregated"
   ],
   "payout_method":[
-    "interac_etranfser"
+    "interac_etransfer"
   ],
   "metadata":null,
   "name":{
