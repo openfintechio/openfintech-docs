@@ -68,6 +68,7 @@
 |![agentglobal](https://static.openfintech.io/vendors/agentglobal/logo.png?w=600&c=v0.59.26#w200) |[**AgentGlobal**](agentglobal/)|`agentglobal`| 
 |![agriculturalbankofchina](https://static.openfintech.io/vendors/agriculturalbankofchina/logo.svg?w=600&c=v0.59.26#w200) |[**Agricultural Bank of China**](agriculturalbankofchina/)|`agriculturalbankofchina`| 
 |![aibmerchantservices](https://static.openfintech.io/vendors/aibmerchantservices/logo.png?w=600&c=v0.59.26#w200) |[**AIB Merchant Services**](aibmerchantservices/)|`aibmerchantservices`| 
+|![aifory](https://static.openfintech.io/vendors/aifory/logo.png?w=600&c=v0.59.26#w200) |[**Aifory**](aifory/)|`aifory`| 
 |![ajmanibank](https://static.openfintech.io/vendors/ajmanibank/logo.svg?w=600&c=v0.59.26#w200) |[**Айманибанк**](ajmanibank/)|`ajmanibank`| 
 |![akb_industrialbank](https://static.openfintech.io/vendors/akb_industrialbank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ АКЦІОНЕРНИЙ  КОМЕРЦІЙНИЙ БАНК 'ІНДУСТРІАЛБАНК'**](akb_industrialbank/)|`akb_industrialbank`| 
 |![akb_novij](https://static.openfintech.io/vendors/akb_novij/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'АКЦІОНЕРНИЙ КОМЕРЦІЙНИЙ БАНК 'НОВИЙ'**](akb_novij/)|`akb_novij`| 
@@ -794,6 +795,7 @@
 |![honeypay](https://static.openfintech.io/vendors/honeypay/logo.svg?w=600&c=v0.59.26#w200) |[**HoneyPay**](honeypay/)|`honeypay`| 
 |![houmkreditbank](https://static.openfintech.io/vendors/houmkreditbank/logo.svg?w=600&c=v0.59.26#w200) |[**Хоум Кредит банк**](houmkreditbank/)|`houmkreditbank`| 
 |![howpeoplepay](https://static.openfintech.io/vendors/howpeoplepay/logo.png?w=600&c=v0.59.26#w200) |[**HowPeoplePay.com**](howpeoplepay/)|`howpeoplepay`| 
+|![hr24](https://static.openfintech.io/vendors/hr24/logo.png?w=600&c=v0.59.26#w200) |[**HR-24**](hr24/)|`hr24`| 
 |![hwx](https://static.openfintech.io/vendors/hwx/logo.svg?w=600&c=v0.59.26#w200) |[**HWX**](hwx/)|`hwx`| 
 |![hyperwallet](https://static.openfintech.io/vendors/hyperwallet/logo.png?w=600&c=v0.59.26#w200) |[**hyperWALLET**](hyperwallet/)|`hyperwallet`| 
 || **I** ||

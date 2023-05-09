@@ -445,6 +445,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![futuritypay](https://static.openfintech.io/payment_providers/futuritypay/icon.png?w=278&c=v0.59.26#w100) |[Futuritypay](/payment-providers/futuritypay/)|`futuritypay`| 
 |![smartgates](https://static.openfintech.io/payment_providers/smartgates/icon.png?w=278&c=v0.59.26#w100) |[Smartgates](/payment-providers/smartgates/)|`smartgates`| 
 |![polyana](https://static.openfintech.io/payment_providers/polyana/icon.png?w=278&c=v0.59.26#w100) |[Polyana](/payment-providers/polyana/)|`polyana`| 
+|![aifory](https://static.openfintech.io/payment_providers/aifory/icon.png?w=278&c=v0.59.26#w100) |[Aifory](/payment-providers/aifory/)|`aifory`| 
+|![hr24](https://static.openfintech.io/payment_providers/hr24/icon.png?w=278&c=v0.59.26#w100) |[HR-24](/payment-providers/hr24/)|`hr24`| 
  
 
 ## JSON Object 

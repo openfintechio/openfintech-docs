@@ -35,6 +35,7 @@
 |![africanpaymentsolutions](https://static.openfintech.io/payment_providers/africanpaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**African Payment Solutions**](africanpaymentsolutions/)|`africanpaymentsolutions`| 
 |![agentglobal](https://static.openfintech.io/payment_providers/agentglobal/logo.png?w=600&c=v0.59.26#w100) |[**AgentGlobal**](agentglobal/)|`agentglobal`| 
 |![aibmerchantservices](https://static.openfintech.io/payment_providers/aibmerchantservices/logo.png?w=600&c=v0.59.26#w100) |[**AIB Merchant Services**](aibmerchantservices/)|`aibmerchantservices`| 
+|![aifory](https://static.openfintech.io/payment_providers/aifory/logo.png?w=600&c=v0.59.26#w100) |[**Aifory**](aifory/)|`aifory`| 
 |![alfabank](https://static.openfintech.io/payment_providers/alfabank/logo.svg?w=600&c=v0.59.26#w100) |[**Sense Bank**](alfabank/)|`alfabank`| 
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/logo.png?w=600&c=v0.59.26#w100) |[**ALGOCHARGE**](algocharge/)|`algocharge`| 
 |![alikassa](https://static.openfintech.io/payment_providers/alikassa/logo.svg?w=600&c=v0.59.26#w100) |[**AliKassa**](alikassa/)|`alikassa`| 
@@ -356,6 +357,7 @@
 |![hipaymobile](https://static.openfintech.io/payment_providers/hipaymobile/logo.png?w=600&c=v0.59.26#w100) |[**HiPay Mobile**](hipaymobile/)|`hipaymobile`| 
 |![honeypay](https://static.openfintech.io/payment_providers/honeypay/logo.svg?w=600&c=v0.59.26#w100) |[**HoneyPay**](honeypay/)|`honeypay`| 
 |![howpeoplepay](https://static.openfintech.io/payment_providers/howpeoplepay/logo.png?w=600&c=v0.59.26#w100) |[**HowPeoplePay.com**](howpeoplepay/)|`howpeoplepay`| 
+|![hr24](https://static.openfintech.io/payment_providers/hr24/logo.png?w=600&c=v0.59.26#w100) |[**HR-24**](hr24/)|`hr24`| 
 |![hwx](https://static.openfintech.io/payment_providers/hwx/logo.svg?w=600&c=v0.59.26#w100) |[**HWX**](hwx/)|`hwx`| 
 |![hyperwallet](https://static.openfintech.io/payment_providers/hyperwallet/logo.png?w=600&c=v0.59.26#w100) |[**hyperWALLET**](hyperwallet/)|`hyperwallet`| 
 || **I** ||
