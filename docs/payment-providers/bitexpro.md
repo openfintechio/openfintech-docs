@@ -47,6 +47,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![noros_p2p](https://static.openfintech.io/payment_methods/noros_p2p/icon.svg?w=278&c=v0.59.26#w100) |[noros_p2p](/payment-methods/noros_p2p/)|`noros_p2p`| 
 |![stripe](https://static.openfintech.io/payment_methods/stripe/icon.svg?w=278&c=v0.59.26#w100) |[stripe](/payment-methods/stripe/)|`stripe`| 
+|![bitexpro_p2p](https://static.openfintech.io/payment_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w100) |[bitexpro_p2p](/payment-methods/bitexpro_p2p/)|`bitexpro_p2p`| 
  
 
 ## Payout Methods 
@@ -60,6 +61,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![bitexpro_wallet](https://static.openfintech.io/payout_methods/bitexpro_wallet/icon.png?w=278&c=v0.59.26#w40) |[bitexpro_wallet](payout-methodsbitexpro_wallet/)|`bitexpro_wallet`| 
 |![hero_payments](https://static.openfintech.io/payout_methods/hero_payments/icon.svg?w=278&c=v0.59.26#w40) |[hero_payments](payout-methodshero_payments/)|`hero_payments`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
+|![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w40) |[bitexpro_p2p](payout-methodsbitexpro_p2p/)|`bitexpro_p2p`| 
  
 
 ## JSON Object 
@@ -79,14 +81,16 @@ The list of supported [Payout Methods](/payout-methods/)
     "hero_payments",
     "payment_card",
     "noros_p2p",
-    "stripe"
+    "stripe",
+    "bitexpro_p2p"
   ],
   "payout_method":[
     "advcash_wallet",
     "payeer",
     "bitexpro_wallet",
     "hero_payments",
-    "payment_card"
+    "payment_card",
+    "bitexpro_p2p"
   ],
   "metadata":null,
   "name":{

@@ -156,6 +156,7 @@
 |![bisnet-odesskaia-oblast](https://static.openfintech.io/payout_methods/bisnet-odesskaia-oblast/logo.png?w=400&c=v0.59.26#w24) |[**BISNET (Odessa region)**](bisnet-odesskaia-oblast/)|`bisnet-odesskaia-oblast`| 
 |![bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](bitcoin/)|`bitcoin`| 
 |![bitcoin_cash](https://static.openfintech.io/payout_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w24) |[**Bitcoin cash**](bitcoin_cash/)|`bitcoin_cash`| 
+|![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w24) |[**BitexPRO P2P**](bitexpro_p2p/)|`bitexpro_p2p`| 
 |![bitexpro_wallet](https://static.openfintech.io/payout_methods/bitexpro_wallet/logo.png?w=400&c=v0.59.26#w24) |[**BitexPRO wallet**](bitexpro_wallet/)|`bitexpro_wallet`| 
 |![bitnet-dobropole](https://static.openfintech.io/payout_methods/bitnet-dobropole/logo.png?w=400&c=v0.59.26#w24) |[**BiTnet (Dobropolye)**](bitnet-dobropole/)|`bitnet-dobropole`| 
 |![bitter-net-ternopil](https://static.openfintech.io/payout_methods/bitter-net-ternopil/logo.png?w=400&c=v0.59.26#w24) |[**BITTER.NET (Ternopil)**](bitter-net-ternopil/)|`bitter-net-ternopil`| 

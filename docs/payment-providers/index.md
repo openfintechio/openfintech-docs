@@ -524,6 +524,7 @@
 |![pandigitalnetwork](https://static.openfintech.io/payment_providers/pandigitalnetwork/logo.png?w=600&c=v0.59.26#w100) |[**Pan Digital Network**](pandigitalnetwork/)|`pandigitalnetwork`| 
 |![parallelpayments](https://static.openfintech.io/payment_providers/parallelpayments/logo.png?w=600&c=v0.59.26#w100) |[**Parallel Payments**](parallelpayments/)|`parallelpayments`| 
 |![parimatch](https://static.openfintech.io/payment_providers/parimatch/logo.svg?w=600&c=v0.59.26#w100) |[**Parimatch**](parimatch/)|`parimatch`| 
+|![passpoint](https://static.openfintech.io/payment_providers/passpoint/logo.png?w=600&c=v0.59.26#w100) |[**Passpoint**](passpoint/)|`passpoint`| 
 |![pay2kassa](https://static.openfintech.io/payment_providers/pay2kassa/logo.svg?w=600&c=v0.59.26#w100) |[**Pay2Kassa**](pay2kassa/)|`pay2kassa`| 
 |![pay2play](https://static.openfintech.io/payment_providers/pay2play/logo.svg?w=600&c=v0.59.26#w100) |[**pay2play**](pay2play/)|`pay2play`| 
 |![pay4](https://static.openfintech.io/payment_providers/pay4/logo.png?w=600&c=v0.59.26#w100) |[**PAY4**](pay4/)|`pay4`| 
@@ -628,6 +629,7 @@
 |![payspace](https://static.openfintech.io/payment_providers/payspace/logo.png?w=600&c=v0.59.26#w100) |[**PaySpace**](payspace/)|`payspace`| 
 |![paysquare](https://static.openfintech.io/payment_providers/paysquare/logo.png?w=600&c=v0.59.26#w100) |[**PaySquare**](paysquare/)|`paysquare`| 
 |![payssion](https://static.openfintech.io/payment_providers/payssion/logo.png?w=600&c=v0.59.26#w100) |[**Payssion**](payssion/)|`payssion`| 
+|![paystage](https://static.openfintech.io/payment_providers/paystage/logo.png?w=600&c=v0.59.26#w100) |[**PayStage**](paystage/)|`paystage`| 
 |![paystand](https://static.openfintech.io/payment_providers/paystand/logo.png?w=600&c=v0.59.26#w100) |[**PayStand**](paystand/)|`paystand`| 
 |![paystation](https://static.openfintech.io/payment_providers/paystation/logo.png?w=600&c=v0.59.26#w100) |[**Paystation**](paystation/)|`paystation`| 
 |![paystudio](https://static.openfintech.io/payment_providers/paystudio/logo.png?w=600&c=v0.59.26#w100) |[**PayStudio**](paystudio/)|`paystudio`| 
@@ -788,6 +790,7 @@
 |![tnspay](https://static.openfintech.io/payment_providers/tnspay/logo.png?w=600&c=v0.59.26#w100) |[**TNSPay**](tnspay/)|`tnspay`| 
 |![tome](https://static.openfintech.io/payment_providers/tome/logo.svg?w=600&c=v0.59.26#w100) |[**Tome**](tome/)|`tome`| 
 |![toshani](https://static.openfintech.io/payment_providers/toshani/logo.png?w=600&c=v0.59.26#w100) |[**Toshani**](toshani/)|`toshani`| 
+|![totalprocessing](https://static.openfintech.io/payment_providers/totalprocessing/logo.svg?w=600&c=v0.59.26#w100) |[**Total Processing**](totalprocessing/)|`totalprocessing`| 
 |![totalwebsolutions](https://static.openfintech.io/payment_providers/totalwebsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Total Web Solutions**](totalwebsolutions/)|`totalwebsolutions`| 
 |![tpaycom](https://static.openfintech.io/payment_providers/tpaycom/logo.png?w=600&c=v0.59.26#w100) |[**tpay.com**](tpaycom/)|`tpaycom`| 
 |![transact](https://static.openfintech.io/payment_providers/transact/logo.png?w=600&c=v0.59.26#w100) |[**Transact Europe**](transact/)|`transact`| 

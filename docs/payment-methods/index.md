@@ -108,6 +108,7 @@
 |![binancepay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](binancepay/)|`binancepay`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](bitcoin/)|`bitcoin`| 
 |![bitcoin_cash](https://static.openfintech.io/payment_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w200) |[**Bitcoin Cash**](bitcoin_cash/)|`bitcoin_cash`| 
+|![bitexpro_p2p](https://static.openfintech.io/payment_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**BitexPRO P2P**](bitexpro_p2p/)|`bitexpro_p2p`| 
 |![bitexpro_wallet](https://static.openfintech.io/payment_methods/bitexpro_wallet/logo.png?w=400&c=v0.59.26#w200) |[**BitexPRO wallet**](bitexpro_wallet/)|`bitexpro_wallet`| 
 |![bkmexpress](https://static.openfintech.io/payment_methods/bkmexpress/logo.png?w=400&c=v0.59.26#w200) |[**BKM Express**](bkmexpress/)|`bkmexpress`| 
 |![blik](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](blik/)|`blik`| 

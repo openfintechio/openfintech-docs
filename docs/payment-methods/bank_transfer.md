@@ -84,6 +84,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![ubankconnect](https://static.openfintech.io/payment_providers/ubankconnect/icon.svg?w=278&c=v0.59.26#w100) |[UBank Connect](/payment-providers/ubankconnect/)|`ubankconnect`| 
 |![payport](https://static.openfintech.io/payment_providers/payport/icon.svg?w=278&c=v0.59.26#w100) |[PayPort](/payment-providers/payport/)|`payport`| 
 |![clearjunction](https://static.openfintech.io/payment_providers/clearjunction/icon.svg?w=278&c=v0.59.26#w100) |[Clear Junction](/payment-providers/clearjunction/)|`clearjunction`| 
+|![paystage](https://static.openfintech.io/payment_providers/paystage/icon.png?w=278&c=v0.59.26#w100) |[PayStage](/payment-providers/paystage/)|`paystage`| 
  
 
 ## JSON Object 

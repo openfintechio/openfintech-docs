@@ -1126,6 +1126,7 @@
 |![parallelpayments](https://static.openfintech.io/vendors/parallelpayments/logo.png?w=600&c=v0.59.26#w200) |[**Parallel Payments**](parallelpayments/)|`parallelpayments`| 
 |![parimatch](https://static.openfintech.io/vendors/parimatch/logo.svg?w=600&c=v0.59.26#w200) |[**Parimatch**](parimatch/)|`parimatch`| 
 |![paspar.net](https://static.openfintech.io/vendors/paspar.net/logo.svg?w=600&c=v0.59.26#w200) |[**Paspar**](paspar.net/)|`paspar.net`| 
+|![passpoint](https://static.openfintech.io/vendors/passpoint/logo.png?w=600&c=v0.59.26#w200) |[**Passpoint**](passpoint/)|`passpoint`| 
 |![pat_a_bank](https://static.openfintech.io/vendors/pat_a_bank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'АКЦЕНТ - БАНК'**](pat_a_bank/)|`pat_a_bank`| 
 |![pat_ab_radabank](https://static.openfintech.io/vendors/pat_ab_radabank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'АКЦІОНЕРНИЙ БАНК 'РАДАБАНК'**](pat_ab_radabank/)|`pat_ab_radabank`| 
 |![pat_ab_stolichnij](https://static.openfintech.io/vendors/pat_ab_stolichnij/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ АКЦІОНЕРНИЙ БАНК 'СТОЛИЧНИЙ'**](pat_ab_stolichnij/)|`pat_ab_stolichnij`| 
@@ -1369,6 +1370,7 @@
 |![payspace](https://static.openfintech.io/vendors/payspace/logo.png?w=600&c=v0.59.26#w200) |[**PaySpace**](payspace/)|`payspace`| 
 |![paysquare](https://static.openfintech.io/vendors/paysquare/logo.png?w=600&c=v0.59.26#w200) |[**PaySquare**](paysquare/)|`paysquare`| 
 |![payssion](https://static.openfintech.io/vendors/payssion/logo.png?w=600&c=v0.59.26#w200) |[**Payssion**](payssion/)|`payssion`| 
+|![paystage](https://static.openfintech.io/vendors/paystage/logo.png?w=600&c=v0.59.26#w200) |[**PayStage**](paystage/)|`paystage`| 
 |![paystand](https://static.openfintech.io/vendors/paystand/logo.png?w=600&c=v0.59.26#w200) |[**PayStand**](paystand/)|`paystand`| 
 |![paystation](https://static.openfintech.io/vendors/paystation/logo.png?w=600&c=v0.59.26#w200) |[**Paystation**](paystation/)|`paystation`| 
 |![paystudio](https://static.openfintech.io/vendors/paystudio/logo.png?w=600&c=v0.59.26#w200) |[**PayStudio**](paystudio/)|`paystudio`| 
@@ -1679,6 +1681,7 @@
 |![tome](https://static.openfintech.io/vendors/tome/logo.svg?w=600&c=v0.59.26#w200) |[**Tome**](tome/)|`tome`| 
 |![toncoin](https://static.openfintech.io/vendors/toncoin/logo.png?w=600&c=v0.59.26#w200) |[**Toncoin**](toncoin/)|`toncoin`| 
 |![toshani](https://static.openfintech.io/vendors/toshani/logo.png?w=600&c=v0.59.26#w200) |[**Toshani**](toshani/)|`toshani`| 
+|![totalprocessing](https://static.openfintech.io/vendors/totalprocessing/logo.svg?w=600&c=v0.59.26#w200) |[**Total Processing**](totalprocessing/)|`totalprocessing`| 
 |![totalwebsolutions](https://static.openfintech.io/vendors/totalwebsolutions/logo.png?w=600&c=v0.59.26#w200) |[**Total Web Solutions**](totalwebsolutions/)|`totalwebsolutions`| 
 |![tov_24_onlajn](https://static.openfintech.io/vendors/tov_24_onlajn/logo.svg?w=600&c=v0.59.26#w200) |[**ТОВ '24 ОНЛАЙН'**](tov_24_onlajn/)|`tov_24_onlajn`| 
 |![tov_aj_ti_finans](https://static.openfintech.io/vendors/tov_aj_ti_finans/logo.svg?w=600&c=v0.59.26#w200) |[**Товариство з Обмеженою відповідальністю  'АЙ ТІ ФІНАНС'**](tov_aj_ti_finans/)|`tov_aj_ti_finans`| 

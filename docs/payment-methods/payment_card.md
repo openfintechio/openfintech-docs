@@ -372,6 +372,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![virtpay](https://static.openfintech.io/payment_providers/virtpay/icon.png?w=278&c=v0.59.26#w100) |[Virtpay](/payment-providers/virtpay/)|`virtpay`| 
 |![remitos](https://static.openfintech.io/payment_providers/remitos/icon.png?w=278&c=v0.59.26#w100) |[Remitos](/payment-providers/remitos/)|`remitos`| 
 |![payecardsakurateco](https://static.openfintech.io/payment_providers/payecardsakurateco/icon.png?w=278&c=v0.59.26#w100) |[PayeCards Akurateco](/payment-providers/payecardsakurateco/)|`payecardsakurateco`| 
+|![passpoint](https://static.openfintech.io/payment_providers/passpoint/icon.png?w=278&c=v0.59.26#w100) |[Passpoint](/payment-providers/passpoint/)|`passpoint`| 
 |![alycepay](https://static.openfintech.io/payment_providers/alycepay/icon.png?w=278&c=v0.59.26#w100) |[Alycepay](/payment-providers/alycepay/)|`alycepay`| 
 |![apcopay](https://static.openfintech.io/payment_providers/apcopay/icon.svg?w=278&c=v0.59.26#w100) |[Apcopay](/payment-providers/apcopay/)|`apcopay`| 
 |![azulpay](https://static.openfintech.io/payment_providers/azulpay/icon.png?w=278&c=v0.59.26#w100) |[Azul Pay](/payment-providers/azulpay/)|`azulpay`| 
@@ -441,6 +442,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![polyana](https://static.openfintech.io/payment_providers/polyana/icon.png?w=278&c=v0.59.26#w100) |[Polyana](/payment-providers/polyana/)|`polyana`| 
 |![aifory](https://static.openfintech.io/payment_providers/aifory/icon.png?w=278&c=v0.59.26#w100) |[Aifory](/payment-providers/aifory/)|`aifory`| 
 |![hr24](https://static.openfintech.io/payment_providers/hr24/icon.png?w=278&c=v0.59.26#w100) |[HR-24](/payment-providers/hr24/)|`hr24`| 
+|![totalprocessing](https://static.openfintech.io/payment_providers/totalprocessing/icon.png?w=278&c=v0.59.26#w100) |[Total Processing](/payment-providers/totalprocessing/)|`totalprocessing`| 
  
 
 ## JSON Object 
