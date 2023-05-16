@@ -370,7 +370,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![kiberpay](https://static.openfintech.io/payment_providers/kiberpay/icon.png?w=278&c=v0.59.26#w100) |[Kiberpay](/payment-providers/kiberpay/)|`kiberpay`| 
 |![hawex](https://static.openfintech.io/payment_providers/hawex/icon.svg?w=278&c=v0.59.26#w100) |[HAWEX](/payment-providers/hawex/)|`hawex`| 
 |![paytoneio](https://static.openfintech.io/payment_providers/paytoneio/icon.svg?w=278&c=v0.59.26#w100) |[Paytone.io](/payment-providers/paytoneio/)|`paytoneio`| 
-|![honeypay](https://static.openfintech.io/payment_providers/honeypay/icon.svg?w=278&c=v0.59.26#w100) |[HoneyPay](/payment-providers/honeypay/)|`honeypay`| 
+|![honeypay](https://static.openfintech.io/payment_providers/honeypay/icon.png?w=278&c=v0.59.26#w100) |[MilkyPay](/payment-providers/honeypay/)|`honeypay`| 
 |![inwizo](https://static.openfintech.io/payment_providers/inwizo/icon.svg?w=278&c=v0.59.26#w100) |[Inwizo](/payment-providers/inwizo/)|`inwizo`| 
 |![kvitum](https://static.openfintech.io/payment_providers/kvitum/icon.svg?w=278&c=v0.59.26#w100) |[Kvitum](/payment-providers/kvitum/)|`kvitum`| 
 |![maguapay](https://static.openfintech.io/payment_providers/maguapay/icon.png?w=278&c=v0.59.26#w100) |[Magua Pay](/payment-providers/maguapay/)|`maguapay`| 
@@ -449,6 +449,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![aifory](https://static.openfintech.io/payment_providers/aifory/icon.png?w=278&c=v0.59.26#w100) |[Aifory](/payment-providers/aifory/)|`aifory`| 
 |![hr24](https://static.openfintech.io/payment_providers/hr24/icon.png?w=278&c=v0.59.26#w100) |[HR-24](/payment-providers/hr24/)|`hr24`| 
 |![totalprocessing](https://static.openfintech.io/payment_providers/totalprocessing/icon.png?w=278&c=v0.59.26#w100) |[Total Processing](/payment-providers/totalprocessing/)|`totalprocessing`| 
+|![prismpay](https://static.openfintech.io/payment_providers/prismpay/icon.png?w=278&c=v0.59.26#w100) |[Prismpay](/payment-providers/prismpay/)|`prismpay`| 
  
 
 ## JSON Object 

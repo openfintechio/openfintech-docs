@@ -1,5 +1,5 @@
 
-# HoneyPay 
+# MilkyPay 
 ![honeypay](https://static.openfintech.io/payment_providers/honeypay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] HoneyPay 
-:	[RU] HoneyPay 
-:	[UK] HoneyPay 
+:	[EN] MilkyPay 
+:	[RU] MilkyPay 
+:	[UK] MilkyPay 
  
 
 ## Images 
@@ -27,10 +27,10 @@ https://static.openfintech.io/payment_providers/honeypay/logo.svg?w=400&c=v0.59.
 
 ### Icon 
  
-![honeypay](https://static.openfintech.io/payment_providers/honeypay/icon.svg?w=278&c=v0.59.26#w100)  
+![honeypay](https://static.openfintech.io/payment_providers/honeypay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/honeypay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/honeypay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -68,9 +68,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"HoneyPay",
-    "ru":"HoneyPay",
-    "uk":"HoneyPay"
+    "en":"MilkyPay",
+    "ru":"MilkyPay",
+    "uk":"MilkyPay"
   }
 }
 ```  

@@ -1,5 +1,5 @@
 
-# HoneyPay 
+# MilkyPay 
 ![honeypay](https://static.openfintech.io/vendors/honeypay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] HoneyPay 
-:	[RU] HoneyPay 
-:	[UK] HoneyPay 
+:	[EN] MilkyPay 
+:	[RU] MilkyPay 
+:	[UK] MilkyPay 
  
 **Status:** `active` 
  
@@ -27,10 +27,10 @@ https://static.openfintech.io/vendors/honeypay/logo.svg?w=400&c=v0.59.26#w200
 
 ### Icon 
  
-![honeypay](https://static.openfintech.io/vendors/honeypay/icon.svg?w=278&c=v0.59.26#w100)  
+![honeypay](https://static.openfintech.io/vendors/honeypay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/honeypay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/honeypay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 
@@ -39,9 +39,9 @@ https://static.openfintech.io/vendors/honeypay/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"honeypay",
   "name":{
-    "en":"HoneyPay",
-    "ru":"HoneyPay",
-    "uk":"HoneyPay"
+    "en":"MilkyPay",
+    "ru":"MilkyPay",
+    "uk":"MilkyPay"
   },
   "status":"active",
   "description":null,

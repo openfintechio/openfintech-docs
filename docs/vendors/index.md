@@ -792,7 +792,7 @@
 |![hmel_f_patkbprivatbank_m_hmelnickij](https://static.openfintech.io/vendors/hmel_f_patkbprivatbank_m_hmelnickij/logo.svg?w=600&c=v0.59.26#w200) |[**ХМЕЛЬНИЦЬКА ФІЛІЯ ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](hmel_f_patkbprivatbank_m_hmelnickij/)|`hmel_f_patkbprivatbank_m_hmelnickij`| 
 |![hmelnicka_oblasna_filiya_prat_ufg](https://static.openfintech.io/vendors/hmelnicka_oblasna_filiya_prat_ufg/logo.svg?w=600&c=v0.59.26#w200) |[**Хмельницька обласна філія ПрАТ 'Українська фінансова група'**](hmelnicka_oblasna_filiya_prat_ufg/)|`hmelnicka_oblasna_filiya_prat_ufg`| 
 |![hod_atrajffajzen_bank_avalm_harkiv](https://static.openfintech.io/vendors/hod_atrajffajzen_bank_avalm_harkiv/logo.svg?w=600&c=v0.59.26#w200) |[**Харківська обласна дирекція Публічного акціонерного товариства 'Райффайзен Банк Аваль'**](hod_atrajffajzen_bank_avalm_harkiv/)|`hod_atrajffajzen_bank_avalm_harkiv`| 
-|![honeypay](https://static.openfintech.io/vendors/honeypay/logo.svg?w=600&c=v0.59.26#w200) |[**HoneyPay**](honeypay/)|`honeypay`| 
+|![honeypay](https://static.openfintech.io/vendors/honeypay/logo.svg?w=600&c=v0.59.26#w200) |[**MilkyPay**](honeypay/)|`honeypay`| 
 |![houmkreditbank](https://static.openfintech.io/vendors/houmkreditbank/logo.svg?w=600&c=v0.59.26#w200) |[**Хоум Кредит банк**](houmkreditbank/)|`houmkreditbank`| 
 |![howpeoplepay](https://static.openfintech.io/vendors/howpeoplepay/logo.png?w=600&c=v0.59.26#w200) |[**HowPeoplePay.com**](howpeoplepay/)|`howpeoplepay`| 
 |![hr24](https://static.openfintech.io/vendors/hr24/logo.png?w=600&c=v0.59.26#w200) |[**HR-24**](hr24/)|`hr24`| 
@@ -1461,6 +1461,7 @@
 |![presto](https://static.openfintech.io/vendors/presto/logo.png?w=600&c=v0.59.26#w200) |[**Presto**](presto/)|`presto`| 
 |![primabanka](https://static.openfintech.io/vendors/primabanka/logo.png?w=600&c=v0.59.26#w200) |[**Prima Banka**](primabanka/)|`primabanka`| 
 |![primeiropay](https://static.openfintech.io/vendors/primeiropay/logo.png?w=600&c=v0.59.26#w200) |[**PrimeiroPay**](primeiropay/)|`primeiropay`| 
+|![prismpay](https://static.openfintech.io/vendors/prismpay/logo.png?w=600&c=v0.59.26#w200) |[**Prismpay**](prismpay/)|`prismpay`| 
 |![privat_bank](https://static.openfintech.io/vendors/privat_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Приват банк**](privat_bank/)|`privat_bank`| 
 |![privatbank](https://static.openfintech.io/vendors/privatbank/logo.svg?w=600&c=v0.59.26#w200) |[**Privat Banks**](privatbank/)|`privatbank`| 
 |![privatmoney](https://static.openfintech.io/vendors/privatmoney/logo.svg?w=600&c=v0.59.26#w200) |[**PrivatMoney**](privatmoney/)|`privatmoney`| 
