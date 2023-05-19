@@ -450,6 +450,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![hr24](https://static.openfintech.io/payment_providers/hr24/icon.png?w=278&c=v0.59.26#w100) |[HR-24](/payment-providers/hr24/)|`hr24`| 
 |![totalprocessing](https://static.openfintech.io/payment_providers/totalprocessing/icon.png?w=278&c=v0.59.26#w100) |[Total Processing](/payment-providers/totalprocessing/)|`totalprocessing`| 
 |![prismpay](https://static.openfintech.io/payment_providers/prismpay/icon.png?w=278&c=v0.59.26#w100) |[Prismpay](/payment-providers/prismpay/)|`prismpay`| 
+|![empayre](https://static.openfintech.io/payment_providers/empayre/icon.svg?w=278&c=v0.59.26#w100) |[Empayre](/payment-providers/empayre/)|`empayre`| 
  
 
 ## JSON Object 

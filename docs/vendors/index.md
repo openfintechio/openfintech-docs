@@ -538,6 +538,7 @@
 |![emerald24](https://static.openfintech.io/vendors/emerald24/logo.svg?w=600&c=v0.59.26#w200) |[**Emerald24**](emerald24/)|`emerald24`| 
 |![emerchantpay](https://static.openfintech.io/vendors/emerchantpay/logo.svg?w=600&c=v0.59.26#w200) |[**EmerchantPay**](emerchantpay/)|`emerchantpay`| 
 |![emoney16](https://static.openfintech.io/vendors/emoney16/logo.svg?w=600&c=v0.59.26#w200) |[**Emoney16**](emoney16/)|`emoney16`| 
+|![empayre](https://static.openfintech.io/vendors/empayre/logo.svg?w=600&c=v0.59.26#w200) |[**Empayre**](empayre/)|`empayre`| 
 |![ems](https://static.openfintech.io/vendors/ems/logo.svg?w=600&c=v0.59.26#w200) |[**EMS**](ems/)|`ems`| 
 |![endeavour](https://static.openfintech.io/vendors/endeavour/logo.png?w=600&c=v0.59.26#w200) |[**Endeavour**](endeavour/)|`endeavour`| 
 |![enets](https://static.openfintech.io/vendors/enets/logo.png?w=600&c=v0.59.26#w200) |[**eNETS**](enets/)|`enets`| 
