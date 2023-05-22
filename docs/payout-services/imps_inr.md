@@ -115,9 +115,9 @@
 	Required: `` 
  
 	Label:  
-	: [EN] Recipient bank name 
-	: [RU] Название банка получателя 
-	: [UK] Назва банку одержувача 
+	: [EN] Bank Name 
+	: [RU] Имя банка 
+	: [UK] Ім'я банку 
  
 	Hint:  
 	: [EN] Enter recipient bank name 
@@ -223,9 +223,9 @@
       "key":"bank_name",
       "type":"string",
       "label":{
-        "en":"Recipient bank name",
-        "ru":"\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0431\u0430\u043d\u043a\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
-        "uk":"\u041d\u0430\u0437\u0432\u0430 \u0431\u0430\u043d\u043a\u0443 \u043e\u0434\u0435\u0440\u0436\u0443\u0432\u0430\u0447\u0430"
+        "en":"Bank Name",
+        "ru":"\u0418\u043c\u044f \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u0406\u043c'\u044f \u0431\u0430\u043d\u043a\u0443"
       },
       "hint":{
         "en":"Enter recipient bank name",

@@ -147,8 +147,8 @@
  
 	Label:  
 	: [EN] Bank Name 
-	: [RU] Код банка 
-	: [UK] Код банку 
+	: [RU] Имя банка 
+	: [UK] Ім'я банку 
  
 	Hint:  
 	: [EN] Enter bank name 
@@ -492,8 +492,8 @@
       "position":6,
       "label":{
         "en":"Bank Name",
-        "ru":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
-        "uk":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443"
+        "ru":"\u0418\u043c\u044f \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u0406\u043c'\u044f \u0431\u0430\u043d\u043a\u0443"
       },
       "hint":{
         "en":"Enter bank name",
