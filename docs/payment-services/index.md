@@ -283,6 +283,7 @@
 |![Dai Coin](https://static.openfintech.io/payment_methods/dai_coin/logo.png?w=400&c=v0.59.26#w200) |[**Dai Coin**](/payment-methods/dai_coin/)|[`dai_coin_daibep20_hpp`](dai_coin_daibep20_hpp/)| 
 |![Dai Coin](https://static.openfintech.io/payment_methods/dai_coin/logo.png?w=400&c=v0.59.26#w200) |[**Dai Coin**](/payment-methods/dai_coin/)|[`dai_coin_daierc20_hpp`](dai_coin_daierc20_hpp/)| 
 |![Dai Coin](https://static.openfintech.io/payment_methods/dai_coin/logo.png?w=400&c=v0.59.26#w200) |[**Dai Coin**](/payment-methods/dai_coin/)|[`dai_coin_erc20_dai_hpp`](dai_coin_erc20_dai_hpp/)| 
+|![Dana](https://static.openfintech.io/payment_methods/dana/logo.png?w=400&c=v0.59.26#w200) |[**Dana**](/payment-methods/dana/)|[`dana_idr_hpp`](dana_idr_hpp/)| 
 |![Danamon Bank](https://static.openfintech.io/payment_methods/danamon_bank/logo.png?w=400&c=v0.59.26#w200) |[**Danamon Bank**](/payment-methods/danamon_bank/)|[`danamon_bank_idr_hpp`](danamon_bank_idr_hpp/)| 
 |![Dankort](https://static.openfintech.io/payment_methods/dankort/logo.png?w=400&c=v0.59.26#w200) |[**Dankort**](/payment-methods/dankort/)|[`dankort_eur_hpp`](dankort_eur_hpp/)| 
 |![Development Credit Bank](https://static.openfintech.io/payment_methods/dcb_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Development Credit Bank**](/payment-methods/dcb_bank_india/)|[`dcb_bank_india_inr_hpp`](dcb_bank_india_inr_hpp/)| 
@@ -905,6 +906,7 @@
 |![USSD](https://static.openfintech.io/payment_methods/ussd/logo.svg?w=400&c=v0.59.26#w200) |[**USSD**](/payment-methods/ussd/)|[`ussd_cny_hpp`](ussd_cny_hpp/)| 
 |![USSD](https://static.openfintech.io/payment_methods/ussd/logo.svg?w=400&c=v0.59.26#w200) |[**USSD**](/payment-methods/ussd/)|[`ussd_ngn_hpp`](ussd_ngn_hpp/)| 
 ||| **V** ||
+|![MayBank Virtual Account](https://static.openfintech.io/payment_methods/va_may_bank/logo.svg?w=400&c=v0.59.26#w200) |[**MayBank Virtual Account**](/payment-methods/va_may_bank/)|[`va_may_bank_idr_hpp`](va_may_bank_idr_hpp/)| 
 |![VCreditos wallet](https://static.openfintech.io/payment_methods/vcreditos/logo.svg?w=400&c=v0.59.26#w200) |[**VCreditos wallet**](/payment-methods/vcreditos/)|[`vcreditos_brl_transfer`](vcreditos_brl_transfer/)| 
 |![VCreditos wallet](https://static.openfintech.io/payment_methods/vcreditos_push/logo.svg?w=400&c=v0.59.26#w200) |[**VCreditos wallet**](/payment-methods/vcreditos_push/)|[`vcreditos_push_brl_transfer`](vcreditos_push_brl_transfer/)| 
 |![VENOM](https://static.openfintech.io/payment_methods/venom/logo.svg?w=400&c=v0.59.26#w200) |[**VENOM**](/payment-methods/venom/)|[`venom_venom_hpp`](venom_venom_hpp/)| 

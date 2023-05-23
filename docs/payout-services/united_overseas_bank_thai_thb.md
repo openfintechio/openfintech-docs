@@ -25,6 +25,7 @@
 |`account_number`|✗|`string`|`/^.{1,50}$/`| 
 |`beneficiary_first_name`|✗|`string`|`/^[A-Z\-\ a-z]{2,100}$/`| 
 |`beneficiary_last_name`|✗|`string`|`/^[A-Z\-\ a-z]{2,100}$/`| 
+|`full_address`|✗|`string`|`/^[A-Za-z{*}, -d]{2,64}$/`| 
  
 
 ### Details 
@@ -82,6 +83,24 @@
 	: [EN] Enter beneficiary last name 
 	: [RU] Введите фамилию получателя 
 	: [UK] Введіть прізвище отримувача 
+ 
+4. **`full_address`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z{*}, -d]{2,64}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Address 
+	: [RU] Address 
+	: [UK] Address 
+ 
+	Hint:  
+	: [EN] Enter address 
+	: [RU] Введите адрес 
+	: [UK] Введіть адресу 
  
 
 ## JSON Object 
@@ -145,6 +164,23 @@
       "required":false,
       "position":3,
       "example":"Doe"
+    },
+    {
+      "key":"full_address",
+      "type":"string",
+      "label":{
+        "en":"Address",
+        "ru":"Address",
+        "uk":"Address"
+      },
+      "hint":{
+        "en":"Enter address",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0430\u0434\u0440\u0435\u0441",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0430\u0434\u0440\u0435\u0441\u0443"
+      },
+      "regexp":"\/^[A-Za-z{*}, -d]{2,64}$\/",
+      "required":false,
+      "position":4
     }
   ],
   "amount_min":0.01,

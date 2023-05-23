@@ -5,6 +5,8 @@
 ## General 
 **Code:** `mandiri_bank` 
  
+**Vendor:** `mandiri_bank` [show -->](/vendors/mandiri_bank/) 
+ 
 **Name:** 
  
 :	[EN] Mandiri Bank 
@@ -53,7 +55,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Mandiri B
 ```json
 {
   "code":"mandiri_bank",
-  "vendor":null,
+  "vendor":"mandiri_bank",
   "name":{
     "en":"Mandiri Bank"
   },

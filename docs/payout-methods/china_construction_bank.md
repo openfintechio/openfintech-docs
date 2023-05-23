@@ -36,6 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _China Constructio
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![china_construction_bank](https://static.openfintech.io/payout_methods/china_construction_bank/icon.svg?w=278&c=v0.59.26#w40) |[china_construction_bank_cny](/payout-services/china_construction_bank_cny/)|`china_construction_bank_cny`| 
+|![china_construction_bank](https://static.openfintech.io/payout_methods/china_construction_bank/icon.svg?w=278&c=v0.59.26#w40) |[china_construction_bank_krw](/payout-services/china_construction_bank_krw/)|`china_construction_bank_krw`| 
  
 
 ## Payment Providers 

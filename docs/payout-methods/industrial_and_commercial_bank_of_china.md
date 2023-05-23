@@ -36,6 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Industrial and Co
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![industrial_and_commercial_bank_of_china](https://static.openfintech.io/payout_methods/industrial_and_commercial_bank_of_china/icon.svg?w=278&c=v0.59.26#w40) |[industrial_and_commercial_bank_of_china_cny](/payout-services/industrial_and_commercial_bank_of_china_cny/)|`industrial_and_commercial_bank_of_china_cny`| 
+|![industrial_and_commercial_bank_of_china](https://static.openfintech.io/payout_methods/industrial_and_commercial_bank_of_china/icon.svg?w=278&c=v0.59.26#w40) |[industrial_and_commercial_bank_of_china_krw](/payout-services/industrial_and_commercial_bank_of_china_krw/)|`industrial_and_commercial_bank_of_china_krw`| 
  
 
 ## Payment Providers 

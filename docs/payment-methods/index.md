@@ -181,6 +181,7 @@
 || **D** ||
 |![daegu_bank](https://static.openfintech.io/payment_methods/daegu_bank/logo.png?w=400&c=v0.59.26#w200) |[**Daegu Bank**](daegu_bank/)|`daegu_bank`| 
 |![dai_coin](https://static.openfintech.io/payment_methods/dai_coin/logo.png?w=400&c=v0.59.26#w200) |[**Dai Coin**](dai_coin/)|`dai_coin`| 
+|![dana](https://static.openfintech.io/payment_methods/dana/logo.png?w=400&c=v0.59.26#w200) |[**Dana**](dana/)|`dana`| 
 |![danamon_bank](https://static.openfintech.io/payment_methods/danamon_bank/logo.png?w=400&c=v0.59.26#w200) |[**Danamon Bank**](danamon_bank/)|`danamon_bank`| 
 |![dankort](https://static.openfintech.io/payment_methods/dankort/logo.png?w=400&c=v0.59.26#w200) |[**Dankort**](dankort/)|`dankort`| 
 |![danskebank](https://static.openfintech.io/payment_methods/danskebank/logo.png?w=400&c=v0.59.26#w200) |[**Danske Bank**](danskebank/)|`danskebank`| 
@@ -640,6 +641,7 @@
 |![usemyservices](https://static.openfintech.io/payment_methods/usemyservices/logo.png?w=400&c=v0.59.26#w200) |[**UseMyServices**](usemyservices/)|`usemyservices`| 
 |![ussd](https://static.openfintech.io/payment_methods/ussd/logo.svg?w=400&c=v0.59.26#w200) |[**USSD**](ussd/)|`ussd`| 
 || **V** ||
+|![va_may_bank](https://static.openfintech.io/payment_methods/va_may_bank/logo.svg?w=400&c=v0.59.26#w200) |[**MayBank Virtual Account**](va_may_bank/)|`va_may_bank`| 
 |![vcreditos](https://static.openfintech.io/payment_methods/vcreditos/logo.svg?w=400&c=v0.59.26#w200) |[**VCreditos wallet**](vcreditos/)|`vcreditos`| 
 |![vcreditos_push](https://static.openfintech.io/payment_methods/vcreditos_push/logo.svg?w=400&c=v0.59.26#w200) |[**VCreditos wallet**](vcreditos_push/)|`vcreditos_push`| 
 |![venom](https://static.openfintech.io/payment_methods/venom/logo.svg?w=400&c=v0.59.26#w200) |[**VENOM**](venom/)|`venom`| 

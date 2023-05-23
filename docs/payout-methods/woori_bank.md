@@ -37,6 +37,7 @@ The list of [Payout Services](/payout-services/) based on the _Woori Bank_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![woori_bank](https://static.openfintech.io/payout_methods/woori_bank/icon.svg?w=278&c=v0.59.26#w40) |[woori_bank_vnd](/payout-services/woori_bank_vnd/)|`woori_bank_vnd`| 
+|![woori_bank](https://static.openfintech.io/payout_methods/woori_bank/icon.svg?w=278&c=v0.59.26#w40) |[woori_bank_krw](/payout-services/woori_bank_krw/)|`woori_bank_krw`| 
  
 
 ## Payment Providers 

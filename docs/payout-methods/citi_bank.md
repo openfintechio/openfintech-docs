@@ -35,6 +35,7 @@ The list of [Payout Services](/payout-services/) based on the _Citibank_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![citi_bank](https://static.openfintech.io/payout_methods/citi_bank/icon.svg?w=278&c=v0.59.26#w40) |[citi_bank_myr](/payout-services/citi_bank_myr/)|`citi_bank_myr`| 
+|![citi_bank](https://static.openfintech.io/payout_methods/citi_bank/icon.svg?w=278&c=v0.59.26#w40) |[citi_bank_krw](/payout-services/citi_bank_krw/)|`citi_bank_krw`| 
  
 
 ## Payment Providers 

@@ -37,6 +37,7 @@ The list of [Payout Services](/payout-services/) based on the _Industrial Bank O
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![industrial_bank_ho_chi_minh](https://static.openfintech.io/payout_methods/industrial_bank_ho_chi_minh/icon.png?w=278&c=v0.59.26#w40) |[industrial_bank_ho_chi_minh_vnd](/payout-services/industrial_bank_ho_chi_minh_vnd/)|`industrial_bank_ho_chi_minh_vnd`| 
+|![industrial_bank_ho_chi_minh](https://static.openfintech.io/payout_methods/industrial_bank_ho_chi_minh/icon.png?w=278&c=v0.59.26#w40) |[industrial_bank_ho_chi_minh_krw](/payout-services/industrial_bank_ho_chi_minh_krw/)|`industrial_bank_ho_chi_minh_krw`| 
  
 
 ## Payment Providers 

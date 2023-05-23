@@ -164,6 +164,12 @@ The list of supported [Payment Methods](/payment-methods/)
 |![thai_qr_payment](https://static.openfintech.io/payment_methods/thai_qr_payment/icon.svg?w=278&c=v0.59.26#w100) |[thai_qr_payment](/payment-methods/thai_qr_payment/)|`thai_qr_payment`| 
 |![krungthai_bank](https://static.openfintech.io/payment_methods/krungthai_bank/icon.svg?w=278&c=v0.59.26#w100) |[krungthai_bank](/payment-methods/krungthai_bank/)|`krungthai_bank`| 
 |![kiatnakin_bank](https://static.openfintech.io/payment_methods/kiatnakin_bank/icon.svg?w=278&c=v0.59.26#w100) |[kiatnakin_bank](/payment-methods/kiatnakin_bank/)|`kiatnakin_bank`| 
+|![viettelpay](https://static.openfintech.io/payment_methods/viettelpay/icon.svg?w=278&c=v0.59.26#w100) |[viettelpay](/payment-methods/viettelpay/)|`viettelpay`| 
+|![truemoney](https://static.openfintech.io/payment_methods/truemoney/icon.png?w=278&c=v0.59.26#w100) |[truemoney](/payment-methods/truemoney/)|`truemoney`| 
+|![ovo](https://static.openfintech.io/payment_methods/ovo/icon.png?w=278&c=v0.59.26#w100) |[ovo](/payment-methods/ovo/)|`ovo`| 
+|![dana](https://static.openfintech.io/payment_methods/dana/icon.png?w=278&c=v0.59.26#w100) |[dana](/payment-methods/dana/)|`dana`| 
+|![gopay](https://static.openfintech.io/payment_methods/gopay/icon.png?w=278&c=v0.59.26#w100) |[gopay](/payment-methods/gopay/)|`gopay`| 
+|![va_may_bank](https://static.openfintech.io/payment_methods/va_may_bank/icon.svg?w=278&c=v0.59.26#w100) |[va_may_bank](/payment-methods/va_may_bank/)|`va_may_bank`| 
  
 
 ## Payout Methods 
@@ -400,7 +406,13 @@ The list of supported [Payout Methods](/payout-methods/)
     "land_and_houses_bank",
     "thai_qr_payment",
     "krungthai_bank",
-    "kiatnakin_bank"
+    "kiatnakin_bank",
+    "viettelpay",
+    "truemoney",
+    "ovo",
+    "dana",
+    "gopay",
+    "va_may_bank"
   ],
   "payout_method":[
     "hdfc_bank",

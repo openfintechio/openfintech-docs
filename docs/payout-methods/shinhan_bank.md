@@ -37,6 +37,7 @@ The list of [Payout Services](/payout-services/) based on the _Shinhan Bank_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![shinhan_bank](https://static.openfintech.io/payout_methods/shinhan_bank/icon.svg?w=278&c=v0.59.26#w40) |[shinhan_bank_vnd](/payout-services/shinhan_bank_vnd/)|`shinhan_bank_vnd`| 
+|![shinhan_bank](https://static.openfintech.io/payout_methods/shinhan_bank/icon.svg?w=278&c=v0.59.26#w40) |[shinhan_bank_krw](/payout-services/shinhan_bank_krw/)|`shinhan_bank_krw`| 
  
 
 ## Payment Providers 

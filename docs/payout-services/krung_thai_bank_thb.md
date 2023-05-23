@@ -23,11 +23,12 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`bank_branch`|✔|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
-|`customer_name`|✔|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
+|`customer_name`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`bank_account_name`|✔|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`bank_account_number`|✔|`string`|`/^[0-9]{5,100}$/`| 
 |`province`|✔|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`city`|✔|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
+|`full_address`|✗|`string`|`/^[A-Za-z{*}, -d]{2,64}$/`| 
  
 
 ### Details 
@@ -56,7 +57,7 @@
  
 	Regexp: `/^[A-Za-z,0-9]{2,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Customer name 
@@ -140,6 +141,24 @@
 	: [RU] Введите город 
 	: [UK] Введіть місто 
  
+7. **`full_address`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z{*}, -d]{2,64}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Address 
+	: [RU] Address 
+	: [UK] Address 
+ 
+	Hint:  
+	: [EN] Enter address 
+	: [RU] Введите адрес 
+	: [UK] Введіть адресу 
+ 
 
 ## JSON Object 
 
@@ -180,7 +199,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c'\u044f \u043a\u043b\u0456\u0454\u043d\u0442\u0430"
       },
       "regexp":"\/^[A-Za-z,0-9]{2,100}$\/",
-      "required":true,
+      "required":false,
       "position":2
     },
     {
@@ -250,6 +269,23 @@
       "regexp":"\/^[A-Za-z,0-9]{2,100}$\/",
       "required":true,
       "position":6
+    },
+    {
+      "key":"full_address",
+      "type":"string",
+      "label":{
+        "en":"Address",
+        "ru":"Address",
+        "uk":"Address"
+      },
+      "hint":{
+        "en":"Enter address",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0430\u0434\u0440\u0435\u0441",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0430\u0434\u0440\u0435\u0441\u0443"
+      },
+      "regexp":"\/^[A-Za-z{*}, -d]{2,64}$\/",
+      "required":false,
+      "position":7
     }
   ],
   "amount_min":"350",
