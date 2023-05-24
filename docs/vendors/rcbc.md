@@ -1,6 +1,6 @@
 
-# RCBC over-the-counter 
-![rcbc](https://static.openfintech.io/vendors/rcbc/logo.svg?w=400&c=v0.59.26#w200)  
+# Rizal Commercial Banking Corporation 
+![rcbc](https://static.openfintech.io/vendors/rcbc/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -8,7 +8,7 @@
  
 **Name:** 
  
-:	[EN] RCBC over-the-counter 
+:	[EN] Rizal Commercial Banking Corporation 
  
 **Status:** `active` 
  
@@ -16,23 +16,26 @@
 **Countries:** 
  
 :	![PH](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ph.svg#w24)  
+**Links:** 
+: website [https://www.rcbc.com](https://www.rcbc.com) 
+ 
 
 ## Images 
 
 ### Logo 
  
-![rcbc](https://static.openfintech.io/vendors/rcbc/logo.svg?w=400&c=v0.59.26#w200)  
+![rcbc](https://static.openfintech.io/vendors/rcbc/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/rcbc/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/rcbc/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![rcbc](https://static.openfintech.io/vendors/rcbc/icon.svg?w=278&c=v0.59.26#w100)  
+![rcbc](https://static.openfintech.io/vendors/rcbc/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/rcbc/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/rcbc/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 
@@ -41,11 +44,13 @@ https://static.openfintech.io/vendors/rcbc/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"rcbc",
   "name":{
-    "en":"RCBC over-the-counter"
+    "en":"Rizal Commercial Banking Corporation"
   },
   "status":"active",
   "description":null,
-  "links":null,
+  "links":{
+    "website":"https:\/\/www.rcbc.com"
+  },
   "countries":[
     "PH"
   ],

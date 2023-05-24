@@ -28,6 +28,15 @@ https://static.openfintech.io/payment_methods/public_bank_berhad/logo.png?w=400&
 https://static.openfintech.io/payment_methods/public_bank_berhad/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _Public Bank Berhad_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![public_bank_berhad](https://static.openfintech.io/payout_methods/public_bank_berhad/icon.png?w=278&c=v0.59.26#w40) |[public_bank_berhad_myr](/payout-services/public_bank_berhad_myr/)|`public_bank_berhad_myr`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Public Bank Berhad_ 

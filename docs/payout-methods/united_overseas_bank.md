@@ -35,6 +35,7 @@ The list of [Payout Services](/payout-services/) based on the _United Overseas B
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![united_overseas_bank](https://static.openfintech.io/payout_methods/united_overseas_bank/icon.svg?w=278&c=v0.59.26#w40) |[united_overseas_bank_thb](/payout-services/united_overseas_bank_thb/)|`united_overseas_bank_thb`| 
+|![united_overseas_bank](https://static.openfintech.io/payout_methods/united_overseas_bank/icon.svg?w=278&c=v0.59.26#w40) |[united_overseas_bank_vnd](/payout-services/united_overseas_bank_vnd/)|`united_overseas_bank_vnd`| 
  
 
 ## JSON Object 

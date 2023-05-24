@@ -22,13 +22,14 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`bank_branch`|✔|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
+|`bank_branch`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`customer_name`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
-|`bank_account_name`|✔|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
-|`bank_account_number`|✔|`string`|`/^[0-9]{5,100}$/`| 
-|`province`|✔|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
-|`city`|✔|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
+|`bank_account_name`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
+|`bank_account_number`|✗|`string`|`/^.{1,50}$/`| 
+|`province`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
+|`city`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`full_address`|✗|`string`|`/^[A-Za-z{*}, -d]{2,64}$/`| 
+|`bank_id`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
  
 
 ### Details 
@@ -39,7 +40,7 @@
  
 	Regexp: `/^[A-Za-z,0-9]{2,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Bank Branch 
@@ -75,7 +76,7 @@
  
 	Regexp: `/^[A-Za-z,0-9]{2,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Bank Account Name 
@@ -91,9 +92,9 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9]{5,100}$/` 
+	Regexp: `/^.{1,50}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Bank Account Number 
@@ -111,7 +112,7 @@
  
 	Regexp: `/^[A-Za-z,0-9]{2,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Province 
@@ -129,7 +130,7 @@
  
 	Regexp: `/^[A-Za-z,0-9]{2,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] City 
@@ -159,6 +160,24 @@
 	: [RU] Введите адрес 
 	: [UK] Введіть адресу 
  
+8. **`bank_id`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z0-9]{2,20}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank ID 
+	: [RU] ID Банка 
+	: [UK] ID Банку 
+ 
+	Hint:  
+	: [EN] Enter Bank ID 
+	: [RU] Введите ID Банка 
+	: [UK] Введіть ID Банку 
+ 
 
 ## JSON Object 
 
@@ -182,7 +201,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Bank Branch"
       },
       "regexp":"\/^[A-Za-z,0-9]{2,100}$\/",
-      "required":true,
+      "required":false,
       "position":1
     },
     {
@@ -200,6 +219,7 @@
       },
       "regexp":"\/^[A-Za-z,0-9]{2,100}$\/",
       "required":false,
+      "example":"John Doe",
       "position":2
     },
     {
@@ -216,7 +236,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Bank Account Name"
       },
       "regexp":"\/^[A-Za-z,0-9]{2,100}$\/",
-      "required":true,
+      "required":false,
       "position":3
     },
     {
@@ -232,8 +252,9 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Bank Account Number",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Bank Account Number"
       },
-      "regexp":"\/^[0-9]{5,100}$\/",
-      "required":true,
+      "regexp":"\/^.{1,50}$\/",
+      "required":false,
+      "example":"1100382992",
       "position":4
     },
     {
@@ -250,7 +271,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044e"
       },
       "regexp":"\/^[A-Za-z,0-9]{2,100}$\/",
-      "required":true,
+      "required":false,
       "position":5
     },
     {
@@ -267,7 +288,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043c\u0456\u0441\u0442\u043e"
       },
       "regexp":"\/^[A-Za-z,0-9]{2,100}$\/",
-      "required":true,
+      "required":false,
       "position":6
     },
     {
@@ -286,6 +307,24 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0430\u0434\u0440\u0435\u0441\u0443"
       },
       "regexp":"\/^[A-Za-z{*}, -d]{2,64}$\/"
+    },
+    {
+      "key":"bank_id",
+      "type":"string",
+      "label":{
+        "en":"Bank ID",
+        "ru":"ID \u0411\u0430\u043d\u043a\u0430",
+        "uk":"ID \u0411\u0430\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter Bank ID",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 ID \u0411\u0430\u043d\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c ID \u0411\u0430\u043d\u043a\u0443"
+      },
+      "regexp":"\/^[A-Za-z0-9]{2,20}$\/",
+      "required":false,
+      "example":"050",
+      "position":8
     }
   ],
   "amount_min":"50000",

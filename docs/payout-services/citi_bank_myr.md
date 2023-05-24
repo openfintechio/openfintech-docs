@@ -25,6 +25,8 @@
 |`account_number`|✗|`string`|`/^.{1,50}$/`| 
 |`beneficiary_first_name`|✗|`string`|`/^[A-Z\-\ a-z]{2,100}$/`| 
 |`beneficiary_last_name`|✗|`string`|`/^[A-Z\-\ a-z]{2,100}$/`| 
+|`customer_name`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
+|`bank_id`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
  
 
 ### Details 
@@ -82,6 +84,42 @@
 	: [EN] Enter beneficiary last name 
 	: [RU] Введите фамилию получателя 
 	: [UK] Введіть прізвище отримувача 
+ 
+4. **`customer_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z,0-9]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Customer name 
+	: [RU] Имя покупателя 
+	: [UK] Ім'я клієнта 
+ 
+	Hint:  
+	: [EN] Enter customer name 
+	: [RU] Введите имя покупателя 
+	: [UK] Введіть ім'я клієнта 
+ 
+5. **`bank_id`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z0-9]{2,20}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank ID 
+	: [RU] ID Банка 
+	: [UK] ID Банку 
+ 
+	Hint:  
+	: [EN] Enter Bank ID 
+	: [RU] Введите ID Банка 
+	: [UK] Введіть ID Банку 
  
 
 ## JSON Object 
@@ -145,6 +183,42 @@
       "required":false,
       "position":3,
       "example":"Doe"
+    },
+    {
+      "key":"customer_name",
+      "type":"string",
+      "label":{
+        "en":"Customer name",
+        "ru":"\u0418\u043c\u044f \u043f\u043e\u043a\u0443\u043f\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0406\u043c'\u044f \u043a\u043b\u0456\u0454\u043d\u0442\u0430"
+      },
+      "hint":{
+        "en":"Enter customer name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f \u043f\u043e\u043a\u0443\u043f\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c'\u044f \u043a\u043b\u0456\u0454\u043d\u0442\u0430"
+      },
+      "regexp":"\/^[A-Za-z,0-9]{2,100}$\/",
+      "required":false,
+      "example":"John Doe",
+      "position":4
+    },
+    {
+      "key":"bank_id",
+      "type":"string",
+      "label":{
+        "en":"Bank ID",
+        "ru":"ID \u0411\u0430\u043d\u043a\u0430",
+        "uk":"ID \u0411\u0430\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter Bank ID",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 ID \u0411\u0430\u043d\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c ID \u0411\u0430\u043d\u043a\u0443"
+      },
+      "regexp":"\/^[A-Za-z0-9]{2,20}$\/",
+      "required":false,
+      "example":"050",
+      "position":5
     }
   ],
   "amount_min":0.01,
