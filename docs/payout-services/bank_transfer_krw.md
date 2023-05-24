@@ -1,14 +1,14 @@
 
 # Bank Transfer (service) 
-![bank_transfer_mxn](https://static.openfintech.io/payout_methods/bank_transfer_mxn/logo.svg?w=400&c=v0.59.26#w24)  
+![bank_transfer_krw](https://static.openfintech.io/payout_methods/bank_transfer_krw/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
  
-**Code:** `bank_transfer_mxn` 
+**Code:** `bank_transfer_krw` 
  
 **Method:** `bank_transfer` [show -->](/payout-methods/bank_transfer/) 
  
-**Currency:** `MXN` [show -->](/currencies/MXN/) 
+**Currency:** `KRW` [show -->](/currencies/KRW/) 
  
 **Name:** 
  
@@ -16,7 +16,7 @@
 :	[RU] Банковский перевод 
 :	[UK] Банківський переказ 
  
-**Amount limits:** from `0.01` to `1000000` MXN 
+**Amount limits:** from `1` to `1000000` KRW 
 
 ## Fields 
 
@@ -147,9 +147,9 @@
 
 ```json
 {
-  "code":"bank_transfer_mxn",
+  "code":"bank_transfer_krw",
   "method":"bank_transfer",
-  "currency":"MXN",
+  "currency":"KRW",
   "fields":[
     {
       "key":"beneficiary_name",
@@ -254,7 +254,7 @@
       }
     }
   ],
-  "amount_min":"0.01",
-  "amount_max":"1000000"
+  "amount_min":1,
+  "amount_max":1000000
 }
 ```  

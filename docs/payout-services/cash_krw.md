@@ -1,20 +1,20 @@
 
 # CASH (service) 
-![cash_kzt](https://static.openfintech.io/payout_methods/cash_kzt/logo.svg?w=400&c=v0.59.26#w24)  
+![cash_krw](https://static.openfintech.io/payout_methods/cash_krw/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
  
-**Code:** `cash_kzt` 
+**Code:** `cash_krw` 
  
 **Method:** `cash` [show -->](/payout-methods/cash/) 
  
-**Currency:** `KZT` [show -->](/currencies/KZT/) 
+**Currency:** `KRW` [show -->](/currencies/KRW/) 
  
 **Name:** 
  
 :	[EN] CASH 
  
-**Amount limits:** from `0.01` to `10000000` KZT 
+**Amount limits:** from `1` to `133000000` KRW 
 
 ## Fields 
 
@@ -22,7 +22,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`pan_number`|✗|`string`|`/^[A-Za-z0-9\s]{10,15}$/`| 
+|`pan_number`|✔|`string`|`/^[A-Za-z0-9\s]{10,15}$/`| 
  
 
 ### Details 
@@ -33,7 +33,7 @@
  
 	Regexp: `/^[A-Za-z0-9\s]{10,15}$/` 
  
-	Required: `` 
+	Required: `1` 
  
 	Label:  
 	: [EN] PAN Number 
@@ -50,9 +50,9 @@
 
 ```json
 {
-  "code":"cash_kzt",
+  "code":"cash_krw",
   "method":"cash",
-  "currency":"KZT",
+  "currency":"KRW",
   "fields":[
     {
       "key":"pan_number",
@@ -68,11 +68,11 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c PAN \u043d\u043e\u043c\u0435\u0440"
       },
       "regexp":"\/^[A-Za-z0-9\\s]{10,15}$\/",
-      "required":false,
+      "required":true,
       "position":1
     }
   ],
-  "amount_min":0.01,
-  "amount_max":10000000
+  "amount_min":1,
+  "amount_max":133000000
 }
 ```  

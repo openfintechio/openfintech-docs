@@ -31,6 +31,7 @@
 |`beneficiary_phone`|✗|`string`|`/^\+91\d{10}$/`| 
 |`beneficiary_address`|✗|`string`|`/^(\w\|\.\| \|\-\|\+\|@){1,128}$/`| 
 |`ifsc_bank_code`|✗|`string`|`/^[A-Za-z0-9]{1,11}$/`| 
+|`pan_number`|✗|`string`|`/^[A-Za-z0-9\s]{10,15}$/`| 
  
 
 ### Details 
@@ -161,6 +162,24 @@
 	: [RU] Введите IFSC код банка 
 	: [UK] Введіть IFSC код банку 
  
+8. **`pan_number`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z0-9\s]{10,15}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] PAN Number 
+	: [RU] PAN номер 
+	: [UK] PAN номер 
+ 
+	Hint:  
+	: [EN] Enter PAN Number 
+	: [RU] Введите PAN номер 
+	: [UK] Введіть PAN номер 
+ 
 
 ## JSON Object 
 
@@ -290,6 +309,23 @@
       "regexp":"\/^[A-Za-z0-9]{1,11}$\/",
       "required":false,
       "position":7
+    },
+    {
+      "key":"pan_number",
+      "type":"string",
+      "label":{
+        "en":"PAN Number",
+        "ru":"PAN \u043d\u043e\u043c\u0435\u0440",
+        "uk":"PAN \u043d\u043e\u043c\u0435\u0440"
+      },
+      "hint":{
+        "en":"Enter PAN Number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 PAN \u043d\u043e\u043c\u0435\u0440",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c PAN \u043d\u043e\u043c\u0435\u0440"
+      },
+      "regexp":"\/^[A-Za-z0-9\\s]{10,15}$\/",
+      "required":false,
+      "position":8
     }
   ],
   "amount_min":0.01,

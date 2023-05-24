@@ -1464,6 +1464,7 @@
 |![philippines_development_bank](https://static.openfintech.io/vendors/philippines_development_bank/logo.png?w=600&c=v0.59.26#w200) |[**Development bank of the Philippines**](philippines_development_bank/)|`philippines_development_bank`| 
 |![philippines_land_bank](https://static.openfintech.io/vendors/philippines_land_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Land Bank of the Philippines**](philippines_land_bank/)|`philippines_land_bank`| 
 |![philippines_security_bank](https://static.openfintech.io/vendors/philippines_security_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Security Bank**](philippines_security_bank/)|`philippines_security_bank`| 
+|![phonepe](https://static.openfintech.io/vendors/phonepe/logo.svg?w=600&c=v0.59.26#w200) |[**Phonepe**](phonepe/)|`phonepe`| 
 |![piastrix](https://static.openfintech.io/vendors/piastrix/logo.svg?w=600&c=v0.59.26#w200) |[**Piastrix**](piastrix/)|`piastrix`| 
 |![picksell](https://static.openfintech.io/vendors/picksell/logo.png?w=600&c=v0.59.26#w200) |[**Picksell**](picksell/)|`picksell`| 
 |![picpay](https://static.openfintech.io/vendors/picpay/logo.svg?w=600&c=v0.59.26#w200) |[**PicPay**](picpay/)|`picpay`| 
@@ -1932,6 +1933,7 @@
 |![wirecard](https://static.openfintech.io/vendors/wirecard/logo.svg?w=600&c=v0.59.26#w200) |[**Wirecard**](wirecard/)|`wirecard`| 
 |![wireperevod](https://static.openfintech.io/vendors/wireperevod/logo.svg?w=600&c=v0.59.26#w200) |[**Wire-перевод**](wireperevod/)|`wireperevod`| 
 |![wiretransfer](https://static.openfintech.io/vendors/wiretransfer/logo.svg?w=600&c=v0.59.26#w200) |[**Wire Transfer**](wiretransfer/)|`wiretransfer`| 
+|![wise](https://static.openfintech.io/vendors/wise/logo.svg?w=600&c=v0.59.26#w200) |[**Wise**](wise/)|`wise`| 
 |![wlandpay](https://static.openfintech.io/vendors/wlandpay/logo.png?w=600&c=v0.59.26#w200) |[**Wlandpay**](wlandpay/)|`wlandpay`| 
 |![wm-drugba](https://static.openfintech.io/vendors/wm-drugba/logo.svg?w=600&c=v0.59.26#w200) |[**WM-Drugba**](wm-drugba/)|`wm-drugba`| 
 |![wm-privat](https://static.openfintech.io/vendors/wm-privat/logo.svg?w=600&c=v0.59.26#w200) |[**WM-Privat.com**](wm-privat/)|`wm-privat`| 

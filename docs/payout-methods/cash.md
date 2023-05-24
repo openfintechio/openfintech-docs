@@ -43,6 +43,8 @@ The list of [Payout Services](/payout-services/) based on the _CASH_
 |![cash](https://static.openfintech.io/payout_methods/cash/icon.png?w=278&c=v0.59.26#w40) |[cash_aud](/payout-services/cash_aud/)|`cash_aud`| 
 |![cash](https://static.openfintech.io/payout_methods/cash/icon.png?w=278&c=v0.59.26#w40) |[cash_pln](/payout-services/cash_pln/)|`cash_pln`| 
 |![cash](https://static.openfintech.io/payout_methods/cash/icon.png?w=278&c=v0.59.26#w40) |[cash_kzt](/payout-services/cash_kzt/)|`cash_kzt`| 
+|![cash](https://static.openfintech.io/payout_methods/cash/icon.png?w=278&c=v0.59.26#w40) |[cash_egp](/payout-services/cash_egp/)|`cash_egp`| 
+|![cash](https://static.openfintech.io/payout_methods/cash/icon.png?w=278&c=v0.59.26#w40) |[cash_krw](/payout-services/cash_krw/)|`cash_krw`| 
  
 
 ## Payment Providers 

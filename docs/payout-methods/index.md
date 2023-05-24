@@ -1367,6 +1367,7 @@
 |![philippines_development_bank](https://static.openfintech.io/payout_methods/philippines_development_bank/logo.png?w=400&c=v0.59.26#w24) |[**Development bank of the Philippines**](philippines_development_bank/)|`philippines_development_bank`| 
 |![philippines_land_bank](https://static.openfintech.io/payout_methods/philippines_land_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Land Bank of the Philippines**](philippines_land_bank/)|`philippines_land_bank`| 
 |![philippines_security_bank](https://static.openfintech.io/payout_methods/philippines_security_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Security Bank**](philippines_security_bank/)|`philippines_security_bank`| 
+|![phonepe](https://static.openfintech.io/payout_methods/phonepe/logo.svg?w=400&c=v0.59.26#w24) |[**Phonepe Wallet**](phonepe/)|`phonepe`| 
 |![piastrix](https://static.openfintech.io/payout_methods/piastrix/logo.svg?w=400&c=v0.59.26#w24) |[**Piastrix**](piastrix/)|`piastrix`| 
 |![ping_an_bank](https://static.openfintech.io/payout_methods/ping_an_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Ping An Bank**](ping_an_bank/)|`ping_an_bank`| 
 |![pishchanka-pat-vinnitsiaoblenergo](https://static.openfintech.io/payout_methods/pishchanka-pat-vinnitsiaoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Peschanka PJSC 'Vinnitsaoblenergo'**](pishchanka-pat-vinnitsiaoblenergo/)|`pishchanka-pat-vinnitsiaoblenergo`| 
@@ -2538,6 +2539,7 @@
 |![windows-phone-store-gift-card-us-25](https://static.openfintech.io/payout_methods/windows-phone-store-gift-card-us-25/logo.png?w=400&c=v0.59.26#w24) |[**Windows Phone Store Gift Card (US) $ 25**](windows-phone-store-gift-card-us-25/)|`windows-phone-store-gift-card-us-25`| 
 |![winpay](https://static.openfintech.io/payout_methods/winpay/logo.svg?w=400&c=v0.59.26#w24) |[**WinPay**](winpay/)|`winpay`| 
 |![wintelecom-vinnitsa](https://static.openfintech.io/payout_methods/wintelecom-vinnitsa/logo.png?w=400&c=v0.59.26#w24) |[**Wintelecom (Vinnitsa)**](wintelecom-vinnitsa/)|`wintelecom-vinnitsa`| 
+|![wise](https://static.openfintech.io/payout_methods/wise/logo.svg?w=400&c=v0.59.26#w24) |[**Wise**](wise/)|`wise`| 
 |![wizards-world-oplata-po-niku](https://static.openfintech.io/payout_methods/wizards-world-oplata-po-niku/logo.png?w=400&c=v0.59.26#w24) |[**Wizards World Nick payment**](wizards-world-oplata-po-niku/)|`wizards-world-oplata-po-niku`| 
 |![wizards-world-oplata-po-wid](https://static.openfintech.io/payout_methods/wizards-world-oplata-po-wid/logo.png?w=400&c=v0.59.26#w24) |[**Wizards World WID payment**](wizards-world-oplata-po-wid/)|`wizards-world-oplata-po-wid`| 
 |![woori_bank](https://static.openfintech.io/payout_methods/woori_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Woori Bank**](woori_bank/)|`woori_bank`| 
