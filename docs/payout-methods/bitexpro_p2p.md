@@ -49,6 +49,7 @@ The list of [Payout Services](/payout-services/) based on the _BitexPRO P2P_
 |![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w40) |[bitexpro_p2p_vnd](/payout-services/bitexpro_p2p_vnd/)|`bitexpro_p2p_vnd`| 
 |![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w40) |[bitexpro_p2p_eur](/payout-services/bitexpro_p2p_eur/)|`bitexpro_p2p_eur`| 
 |![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w40) |[bitexpro_p2p_usd](/payout-services/bitexpro_p2p_usd/)|`bitexpro_p2p_usd`| 
+|![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w40) |[bitexpro_p2p_gbp](/payout-services/bitexpro_p2p_gbp/)|`bitexpro_p2p_gbp`| 
  
 
 ## Payment Providers 
