@@ -41,6 +41,14 @@ The list of [Payout Services](/payout-services/) based on the _BitexPRO P2P_
 |![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w40) |[bitexpro_p2p_inr](/payout-services/bitexpro_p2p_inr/)|`bitexpro_p2p_inr`| 
 |![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w40) |[bitexpro_p2p_try](/payout-services/bitexpro_p2p_try/)|`bitexpro_p2p_try`| 
 |![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w40) |[bitexpro_p2p_uzs](/payout-services/bitexpro_p2p_uzs/)|`bitexpro_p2p_uzs`| 
+|![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w40) |[bitexpro_p2p_uah](/payout-services/bitexpro_p2p_uah/)|`bitexpro_p2p_uah`| 
+|![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w40) |[bitexpro_p2p_azn](/payout-services/bitexpro_p2p_azn/)|`bitexpro_p2p_azn`| 
+|![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w40) |[bitexpro_p2p_aed](/payout-services/bitexpro_p2p_aed/)|`bitexpro_p2p_aed`| 
+|![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w40) |[bitexpro_p2p_idr](/payout-services/bitexpro_p2p_idr/)|`bitexpro_p2p_idr`| 
+|![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w40) |[bitexpro_p2p_pkr](/payout-services/bitexpro_p2p_pkr/)|`bitexpro_p2p_pkr`| 
+|![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w40) |[bitexpro_p2p_vnd](/payout-services/bitexpro_p2p_vnd/)|`bitexpro_p2p_vnd`| 
+|![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w40) |[bitexpro_p2p_eur](/payout-services/bitexpro_p2p_eur/)|`bitexpro_p2p_eur`| 
+|![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w40) |[bitexpro_p2p_usd](/payout-services/bitexpro_p2p_usd/)|`bitexpro_p2p_usd`| 
  
 
 ## Payment Providers 

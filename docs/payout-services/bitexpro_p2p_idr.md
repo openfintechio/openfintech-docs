@@ -1,14 +1,14 @@
 
 # BitexPRO P2P (service) 
-![bitexpro_p2p_try](https://static.openfintech.io/payout_methods/bitexpro_p2p_try/logo.svg?w=400&c=v0.59.26#w24)  
+![bitexpro_p2p_idr](https://static.openfintech.io/payout_methods/bitexpro_p2p_idr/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
  
-**Code:** `bitexpro_p2p_try` 
+**Code:** `bitexpro_p2p_idr` 
  
 **Method:** `bitexpro_p2p` [show -->](/payout-methods/bitexpro_p2p/) 
  
-**Currency:** `TRY` [show -->](/currencies/TRY/) 
+**Currency:** `IDR` [show -->](/currencies/IDR/) 
  
 **Name:** 
  
@@ -16,7 +16,7 @@
 :	[RU] BitexPRO P2P 
 :	[UK] BitexPRO P2P 
  
-**Amount limits:** from `0.01` to `1800000` TRY 
+**Amount limits:** from `0.01` to `9999999` IDR 
 
 ## Fields 
 
@@ -52,9 +52,9 @@
 
 ```json
 {
-  "code":"bitexpro_p2p_try",
+  "code":"bitexpro_p2p_idr",
   "method":"bitexpro_p2p",
-  "currency":"TRY",
+  "currency":"IDR",
   "fields":[
     {
       "key":"card_number",
@@ -82,6 +82,6 @@
     }
   ],
   "amount_min":0.01,
-  "amount_max":1800000
+  "amount_max":9999999
 }
 ```  

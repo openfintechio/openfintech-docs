@@ -24,28 +24,28 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`wallet_id`|✔|`string`|`/^.{10,64}$/`| 
+|`card_number`|✔|`string`|`/^.{12,19}$/`| 
  
 
 ### Details 
  
-1. **`wallet_id`** 
+1. **`card_number`** 
  
 	Type: `string` 
  
-	Regexp: `/^.{10,64}$/` 
+	Regexp: `/^.{12,19}$/` 
  
 	Required: `1` 
  
 	Label:  
-	: [EN] Wallet ID 
-	: [RU] Номер кошелька 
-	: [UK] Номер гаманця 
+	: [EN] Card number 
+	: [RU] Номер карты 
+	: [UK] Номер карти 
  
 	Hint:  
-	: [EN] Enter wallet ID 
-	: [RU] Введите номер кошелька 
-	: [UK] Введіть номер гаманця 
+	: [EN] Enter card number 
+	: [RU] Введите номер карты 
+	: [UK] Введіть номер карти 
  
 
 ## JSON Object 
@@ -57,21 +57,28 @@
   "currency":"KZT",
   "fields":[
     {
-      "key":"wallet_id",
+      "key":"card_number",
       "type":"string",
       "label":{
-        "en":"Wallet ID",
-        "ru":"\u041d\u043e\u043c\u0435\u0440 \u043a\u043e\u0448\u0435\u043b\u044c\u043a\u0430",
-        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0433\u0430\u043c\u0430\u043d\u0446\u044f"
+        "en":"Card number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u043a\u0430\u0440\u0442\u044b",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u043a\u0430\u0440\u0442\u0438"
       },
       "hint":{
-        "en":"Enter wallet ID",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u043a\u043e\u0448\u0435\u043b\u044c\u043a\u0430",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0433\u0430\u043c\u0430\u043d\u0446\u044f"
+        "en":"Enter card number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u043a\u0430\u0440\u0442\u044b",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u043a\u0430\u0440\u0442\u0438"
       },
-      "regexp":"\/^.{10,64}$\/",
+      "regexp":"\/^.{12,19}$\/",
       "required":true,
-      "position":1
+      "position":1,
+      "options":{
+        "validators":[
+          {
+            "name":"Luhn"
+          }
+        ]
+      }
     }
   ],
   "amount_min":0.01,

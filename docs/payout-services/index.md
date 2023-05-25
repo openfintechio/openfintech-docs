@@ -199,11 +199,19 @@
 |![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_eur`](bitcoin_eur/)|`EUR`| 
 |![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_uah`](bitcoin_uah/)|`UAH`| 
 |![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_usd`](bitcoin_usd/)|`USD`| 
+|![BitexPRO P2P](https://static.openfintech.io/payout_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w24) |[**BitexPRO P2P**](/payout-methods/bitexpro_p2p/)|[`bitexpro_p2p_aed`](bitexpro_p2p_aed/)|`AED`| 
+|![BitexPRO P2P](https://static.openfintech.io/payout_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w24) |[**BitexPRO P2P**](/payout-methods/bitexpro_p2p/)|[`bitexpro_p2p_azn`](bitexpro_p2p_azn/)|`AZN`| 
+|![BitexPRO P2P](https://static.openfintech.io/payout_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w24) |[**BitexPRO P2P**](/payout-methods/bitexpro_p2p/)|[`bitexpro_p2p_eur`](bitexpro_p2p_eur/)|`EUR`| 
+|![BitexPRO P2P](https://static.openfintech.io/payout_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w24) |[**BitexPRO P2P**](/payout-methods/bitexpro_p2p/)|[`bitexpro_p2p_idr`](bitexpro_p2p_idr/)|`IDR`| 
 |![BitexPRO P2P](https://static.openfintech.io/payout_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w24) |[**BitexPRO P2P**](/payout-methods/bitexpro_p2p/)|[`bitexpro_p2p_inr`](bitexpro_p2p_inr/)|`INR`| 
 |![BitexPRO P2P](https://static.openfintech.io/payout_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w24) |[**BitexPRO P2P**](/payout-methods/bitexpro_p2p/)|[`bitexpro_p2p_kzt`](bitexpro_p2p_kzt/)|`KZT`| 
+|![BitexPRO P2P](https://static.openfintech.io/payout_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w24) |[**BitexPRO P2P**](/payout-methods/bitexpro_p2p/)|[`bitexpro_p2p_pkr`](bitexpro_p2p_pkr/)|`PKR`| 
 |![BitexPRO P2P](https://static.openfintech.io/payout_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w24) |[**BitexPRO P2P**](/payout-methods/bitexpro_p2p/)|[`bitexpro_p2p_rub`](bitexpro_p2p_rub/)|`RUB`| 
 |![BitexPRO P2P](https://static.openfintech.io/payout_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w24) |[**BitexPRO P2P**](/payout-methods/bitexpro_p2p/)|[`bitexpro_p2p_try`](bitexpro_p2p_try/)|`TRY`| 
+|![BitexPRO P2P](https://static.openfintech.io/payout_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w24) |[**BitexPRO P2P**](/payout-methods/bitexpro_p2p/)|[`bitexpro_p2p_uah`](bitexpro_p2p_uah/)|`UAH`| 
+|![BitexPRO P2P](https://static.openfintech.io/payout_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w24) |[**BitexPRO P2P**](/payout-methods/bitexpro_p2p/)|[`bitexpro_p2p_usd`](bitexpro_p2p_usd/)|`USD`| 
 |![BitexPRO P2P](https://static.openfintech.io/payout_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w24) |[**BitexPRO P2P**](/payout-methods/bitexpro_p2p/)|[`bitexpro_p2p_uzs`](bitexpro_p2p_uzs/)|`UZS`| 
+|![BitexPRO P2P](https://static.openfintech.io/payout_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w24) |[**BitexPRO P2P**](/payout-methods/bitexpro_p2p/)|[`bitexpro_p2p_vnd`](bitexpro_p2p_vnd/)|`VND`| 
 |![BitexPRO wallet](https://static.openfintech.io/payout_methods/bitexpro_wallet/logo.png?w=400&c=v0.59.26#w24) |[**BitexPRO wallet**](/payout-methods/bitexpro_wallet/)|[`bitexpro_wallet_eur`](bitexpro_wallet_eur/)|`EUR`| 
 |![BitexPRO wallet](https://static.openfintech.io/payout_methods/bitexpro_wallet/logo.png?w=400&c=v0.59.26#w24) |[**BitexPRO wallet**](/payout-methods/bitexpro_wallet/)|[`bitexpro_wallet_rub`](bitexpro_wallet_rub/)|`RUB`| 
 |![BitexPRO wallet](https://static.openfintech.io/payout_methods/bitexpro_wallet/logo.png?w=400&c=v0.59.26#w24) |[**BitexPRO wallet**](/payout-methods/bitexpro_wallet/)|[`bitexpro_wallet_usd`](bitexpro_wallet_usd/)|`USD`| 
