@@ -1399,6 +1399,7 @@
 |![payrexx](https://static.openfintech.io/vendors/payrexx/logo.png?w=600&c=v0.59.26#w200) |[**Payrexx Payments**](payrexx/)|`payrexx`| 
 |![payrun](https://static.openfintech.io/vendors/payrun/logo.svg?w=600&c=v0.59.26#w200) |[**PayRun**](payrun/)|`payrun`| 
 |![paysafe](https://static.openfintech.io/vendors/paysafe/logo.svg?w=600&c=v0.59.26#w200) |[**Paysafe**](paysafe/)|`paysafe`| 
+|![paysafebd](https://static.openfintech.io/vendors/paysafebd/logo.png?w=600&c=v0.59.26#w200) |[**Paysafebd**](paysafebd/)|`paysafebd`| 
 |![paysage](https://static.openfintech.io/vendors/paysage/logo.png?w=600&c=v0.59.26#w200) |[**PaySage.io**](paysage/)|`paysage`| 
 |![paysbuy](https://static.openfintech.io/vendors/paysbuy/logo.png?w=600&c=v0.59.26#w200) |[**PAYSBUY**](paysbuy/)|`paysbuy`| 
 |![payscout](https://static.openfintech.io/vendors/payscout/logo.png?w=600&c=v0.59.26#w200) |[**Payscout**](payscout/)|`payscout`| 

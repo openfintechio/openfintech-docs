@@ -24,12 +24,13 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`account_number`|✔|`string`|`/^[0-9]{5,100}$/`| 
+|`account_number`|✗|`string`|`/^[0-9]{5,100}$/`| 
 |`account_holder_full_name`|✗|`string`|`/^[a-zA-Z]+(([',. -][a-zA-Z ])?[a-zA-Z]*)*$/`| 
 |`beneficiary_phone`|✗|`string`|`/^(\+?91)?\d{10}$/`| 
 |`ifsc`|✗|`string`|`/^[A-Za-z0-9]{1,11}$/`| 
 |`bank_name`|✗|`string`|`/^[A-Z\-\ a-z0-9_]{2,100}$/`| 
 |`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
+|`vpa`|✗|`string`|`/^.{2,}@\w+$/`| 
  
 
 ### Details 
@@ -40,7 +41,7 @@
  
 	Regexp: `/^[0-9]{5,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Account Number 
@@ -142,6 +143,24 @@
 	: [RU] Введите полное имя получателя 
 	: [UK] Введіть повне імʼя одержувача 
  
+7. **`vpa`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{2,}@\w+$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] VPA 
+	: [RU] VPA 
+	: [UK] VPA 
+ 
+	Hint:  
+	: [EN] Enter VPA 
+	: [RU] Введите VPA 
+	: [UK] Введіть VPA 
+ 
 
 ## JSON Object 
 
@@ -165,7 +184,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Account Number"
       },
       "regexp":"\/^[0-9]{5,100}$\/",
-      "required":true,
+      "required":false,
       "position":1
     },
     {
@@ -252,6 +271,23 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u043e\u0434\u0435\u0440\u0436\u0443\u0432\u0430\u0447\u0430"
       }
+    },
+    {
+      "key":"vpa",
+      "type":"string",
+      "label":{
+        "en":"VPA",
+        "ru":"VPA",
+        "uk":"VPA"
+      },
+      "hint":{
+        "en":"Enter VPA",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 VPA",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c VPA"
+      },
+      "regexp":"\/^.{2,}@\\w+$\/",
+      "required":false,
+      "position":7
     }
   ],
   "amount_min":0.01,
