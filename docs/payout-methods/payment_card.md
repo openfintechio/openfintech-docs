@@ -114,6 +114,8 @@ The list of [Payout Services](/payout-services/) based on the _Card_
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_cve](/payout-services/payment_card_cve/)|`payment_card_cve`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_sll](/payout-services/payment_card_sll/)|`payment_card_sll`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_bwp](/payout-services/payment_card_bwp/)|`payment_card_bwp`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_bhd](/payout-services/payment_card_bhd/)|`payment_card_bhd`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_omr](/payout-services/payment_card_omr/)|`payment_card_omr`| 
  
 
 ## Payment Providers 
@@ -451,6 +453,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![totalprocessing](https://static.openfintech.io/payment_providers/totalprocessing/icon.png?w=278&c=v0.59.26#w100) |[Total Processing](/payment-providers/totalprocessing/)|`totalprocessing`| 
 |![prismpay](https://static.openfintech.io/payment_providers/prismpay/icon.png?w=278&c=v0.59.26#w100) |[Prismpay](/payment-providers/prismpay/)|`prismpay`| 
 |![empayre](https://static.openfintech.io/payment_providers/empayre/icon.svg?w=278&c=v0.59.26#w100) |[Empayre](/payment-providers/empayre/)|`empayre`| 
+|![sgate](https://static.openfintech.io/payment_providers/sgate/icon.svg?w=278&c=v0.59.26#w100) |[Sgate](/payment-providers/sgate/)|`sgate`| 
  
 
 ## JSON Object 

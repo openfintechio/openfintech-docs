@@ -742,6 +742,7 @@
 |![selcom](https://static.openfintech.io/payment_providers/selcom/logo.png?w=600&c=v0.59.26#w100) |[**Selcom**](selcom/)|`selcom`| 
 |![sentrypayments](https://static.openfintech.io/payment_providers/sentrypayments/logo.png?w=600&c=v0.59.26#w100) |[**SentryPayments**](sentrypayments/)|`sentrypayments`| 
 |![setcompaymentsolutions](https://static.openfintech.io/payment_providers/setcompaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Setcom Payment Solutions**](setcompaymentsolutions/)|`setcompaymentsolutions`| 
+|![sgate](https://static.openfintech.io/payment_providers/sgate/logo.svg?w=600&c=v0.59.26#w100) |[**Sgate**](sgate/)|`sgate`| 
 |![sidpayment](https://static.openfintech.io/payment_providers/sidpayment/logo.png?w=600&c=v0.59.26#w100) |[**SID Instant EFT**](sidpayment/)|`sidpayment`| 
 |![simplepay](https://static.openfintech.io/payment_providers/simplepay/logo.png?w=600&c=v0.59.26#w100) |[**SimplePay**](simplepay/)|`simplepay`| 
 |![simplifycommerce](https://static.openfintech.io/payment_providers/simplifycommerce/logo.png?w=600&c=v0.59.26#w100) |[**Simplify Commerce**](simplifycommerce/)|`simplifycommerce`| 

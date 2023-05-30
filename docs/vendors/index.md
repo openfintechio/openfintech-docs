@@ -1630,6 +1630,7 @@
 |![servipag](https://static.openfintech.io/vendors/servipag/logo.png?w=600&c=v0.59.26#w200) |[**Servipag**](servipag/)|`servipag`| 
 |![setcompaymentsolutions](https://static.openfintech.io/vendors/setcompaymentsolutions/logo.png?w=600&c=v0.59.26#w200) |[**Setcom Payment Solutions**](setcompaymentsolutions/)|`setcompaymentsolutions`| 
 |![sev_f_pat_kbprivatbank_m_sevastopol](https://static.openfintech.io/vendors/sev_f_pat_kbprivatbank_m_sevastopol/logo.svg?w=600&c=v0.59.26#w200) |[**СЕВАСТОПОЛЬСЬКА ФІЛІЯ ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](sev_f_pat_kbprivatbank_m_sevastopol/)|`sev_f_pat_kbprivatbank_m_sevastopol`| 
+|![sgate](https://static.openfintech.io/vendors/sgate/logo.svg?w=600&c=v0.59.26#w200) |[**Sgate**](sgate/)|`sgate`| 
 |![sidpayment](https://static.openfintech.io/vendors/sidpayment/logo.png?w=600&c=v0.59.26#w200) |[**SID Instant EFT**](sidpayment/)|`sidpayment`| 
 |![sigue_coinstar](https://static.openfintech.io/vendors/sigue_coinstar/logo.svg?w=600&c=v0.59.26#w200) |[**Sigue (coinstar)**](sigue_coinstar/)|`sigue_coinstar`| 
 |![siguecoinstar](https://static.openfintech.io/vendors/siguecoinstar/logo.svg?w=600&c=v0.59.26#w200) |[**Sigue (coinstar)**](siguecoinstar/)|`siguecoinstar`| 

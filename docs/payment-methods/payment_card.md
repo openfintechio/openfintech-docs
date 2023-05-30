@@ -108,6 +108,8 @@ The list of [Payment Services](/payment-services/) based on the _Payment card_
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_krw_hpp](/payment-services/payment_card_krw_hpp/)|`payment_card_krw_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_kwd_hpp](/payment-services/payment_card_kwd_hpp/)|`payment_card_kwd_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_cop_hpp](/payment-services/payment_card_cop_hpp/)|`payment_card_cop_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_bhd_hpp](/payment-services/payment_card_bhd_hpp/)|`payment_card_bhd_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_omr_hpp](/payment-services/payment_card_omr_hpp/)|`payment_card_omr_hpp`| 
  
 
 ## Payment Providers 
@@ -445,6 +447,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![totalprocessing](https://static.openfintech.io/payment_providers/totalprocessing/icon.png?w=278&c=v0.59.26#w100) |[Total Processing](/payment-providers/totalprocessing/)|`totalprocessing`| 
 |![prismpay](https://static.openfintech.io/payment_providers/prismpay/icon.png?w=278&c=v0.59.26#w100) |[Prismpay](/payment-providers/prismpay/)|`prismpay`| 
 |![empayre](https://static.openfintech.io/payment_providers/empayre/icon.svg?w=278&c=v0.59.26#w100) |[Empayre](/payment-providers/empayre/)|`empayre`| 
+|![sgate](https://static.openfintech.io/payment_providers/sgate/icon.svg?w=278&c=v0.59.26#w100) |[Sgate](/payment-providers/sgate/)|`sgate`| 
  
 
 ## JSON Object 
