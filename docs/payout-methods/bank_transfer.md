@@ -78,6 +78,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![ezeebill](https://static.openfintech.io/payment_providers/ezeebill/icon.svg?w=278&c=v0.59.26#w100) |[Ezeebill](/payment-providers/ezeebill/)|`ezeebill`| 
 |![poli](https://static.openfintech.io/payment_providers/poli/icon.svg?w=278&c=v0.59.26#w100) |[POLi](/payment-providers/poli/)|`poli`| 
 |![jetonlp](https://static.openfintech.io/payment_providers/jetonlp/icon.png?w=278&c=v0.59.26#w100) |[JetonLP](/payment-providers/jetonlp/)|`jetonlp`| 
+|![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
 |![payretailers](https://static.openfintech.io/payment_providers/payretailers/icon.svg?w=278&c=v0.59.26#w100) |[PayRetailers](/payment-providers/payretailers/)|`payretailers`| 
 |![v9pay](https://static.openfintech.io/payment_providers/v9pay/icon.png?w=278&c=v0.59.26#w100) |[V9Pay](/payment-providers/v9pay/)|`v9pay`| 
 |![alycepay](https://static.openfintech.io/payment_providers/alycepay/icon.png?w=278&c=v0.59.26#w100) |[Alycepay](/payment-providers/alycepay/)|`alycepay`| 

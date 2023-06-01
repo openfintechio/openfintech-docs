@@ -10,8 +10,6 @@
 **Name:** 
  
 :	[EN] GCash 
-:	[RU] GCash 
-:	[UK] GCash 
  
 **Category:** `digital_wallet` 
  
@@ -32,13 +30,13 @@ https://static.openfintech.io/payment_methods/gcash/logo.png?w=400&c=v0.59.26#w2
 https://static.openfintech.io/payment_methods/gcash/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _GCash_ 
+The list of [Payment Services](/payment-services/) based on the _GCash_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![gcash](https://static.openfintech.io/payout_methods/gcash/icon.png?w=278&c=v0.59.26#w40) |[gcash_php](/payout-services/gcash_php/)|`gcash_php`| 
+|![gcash](https://static.openfintech.io/payment_methods/gcash/icon.png?w=278&c=v0.59.26#w100) |[gcash_php_hpp](/payment-services/gcash_php_hpp/)|`gcash_php_hpp`| 
  
 
 ## Payment Providers 
@@ -57,9 +55,7 @@ The list of [Payment Providers](/payment-providers/) that support the _GCash_
   "code":"gcash",
   "vendor":"gcash",
   "name":{
-    "en":"GCash",
-    "ru":"GCash",
-    "uk":"GCash"
+    "en":"GCash"
   },
   "description":null,
   "countries":null,
