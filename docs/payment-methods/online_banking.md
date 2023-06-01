@@ -37,6 +37,10 @@ The list of [Payment Services](/payment-services/) based on the _Online Banking_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![online_banking](https://static.openfintech.io/payment_methods/online_banking/icon.svg?w=278&c=v0.59.26#w100) |[online_banking_vnd_hpp](/payment-services/online_banking_vnd_hpp/)|`online_banking_vnd_hpp`| 
+|![online_banking](https://static.openfintech.io/payment_methods/online_banking/icon.svg?w=278&c=v0.59.26#w100) |[online_banking_thb_hpp](/payment-services/online_banking_thb_hpp/)|`online_banking_thb_hpp`| 
+|![online_banking](https://static.openfintech.io/payment_methods/online_banking/icon.svg?w=278&c=v0.59.26#w100) |[online_banking_myr_hpp](/payment-services/online_banking_myr_hpp/)|`online_banking_myr_hpp`| 
+|![online_banking](https://static.openfintech.io/payment_methods/online_banking/icon.svg?w=278&c=v0.59.26#w100) |[online_banking_php_hpp](/payment-services/online_banking_php_hpp/)|`online_banking_php_hpp`| 
+|![online_banking](https://static.openfintech.io/payment_methods/online_banking/icon.svg?w=278&c=v0.59.26#w100) |[online_banking_idr_hpp](/payment-services/online_banking_idr_hpp/)|`online_banking_idr_hpp`| 
 |![online_banking](https://static.openfintech.io/payment_methods/online_banking/icon.svg?w=278&c=v0.59.26#w100) |[online_banking_brl_hpp](/payment-services/online_banking_brl_hpp/)|`online_banking_brl_hpp`| 
 |![online_banking](https://static.openfintech.io/payment_methods/online_banking/icon.svg?w=278&c=v0.59.26#w100) |[online_banking_cop_hpp](/payment-services/online_banking_cop_hpp/)|`online_banking_cop_hpp`| 
 |![online_banking](https://static.openfintech.io/payment_methods/online_banking/icon.svg?w=278&c=v0.59.26#w100) |[online_banking_mxn_hpp](/payment-services/online_banking_mxn_hpp/)|`online_banking_mxn_hpp`| 
