@@ -1,19 +1,19 @@
 
-# Boost (service) 
-![boost_myr_hpp](https://static.openfintech.io/payment_methods/boost_myr_hpp/logo.svg?w=400&c=v0.59.26#w200)  
+# Bank Islam Malaysia (FPX) (service) 
+![bank_islam_malaysia_fpx_myr_hpp](https://static.openfintech.io/payment_methods/bank_islam_malaysia_fpx_myr_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `boost_myr_hpp` 
+**Code:** `bank_islam_malaysia_fpx_myr_hpp` 
  
-**Method:** `boost` 
- [show -->](/payment-methods/boost/) 
+**Method:** `bank_islam_malaysia_fpx` 
+ [show -->](/payment-methods/bank_islam_malaysia_fpx/) 
  
 **Currency:** `MYR` [show -->](/currencies/MYR/) 
  
 **Name:** 
  
-:	[EN] Boost 
+:	[EN] Bank Islam Malaysia (FPX) 
  
 **Amount limits:** from `0.01` to `10000000` MYR 
 
@@ -23,7 +23,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`account`|✗|`string`|`/^.{1,50}$/`| 
+|`account`|✔|`string`|`/^.{1,50}$/`| 
  
 
 ### Details 
@@ -34,7 +34,7 @@
  
 	Regexp: `/^.{1,50}$/` 
  
-	Required: `` 
+	Required: `1` 
  
 	Label:  
 	: [EN] Client account number 
@@ -51,16 +51,16 @@
 
 ```json
 {
-  "code":"boost_myr_hpp",
+  "code":"bank_islam_malaysia_fpx_myr_hpp",
   "flow":"hpp",
-  "method":"boost",
+  "method":"bank_islam_malaysia_fpx",
   "currency":"MYR",
   "fields":[
     {
       "key":"account",
       "type":"string",
       "regexp":"\/^.{1,50}$\/",
-      "required":false,
+      "required":true,
       "position":1,
       "label":{
         "en":"Client account number",

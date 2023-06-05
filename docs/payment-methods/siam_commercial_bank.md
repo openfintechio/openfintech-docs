@@ -35,6 +35,7 @@ The list of [Payment Services](/payment-services/) based on the _Siam Commercial
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![siam_commercial_bank](https://static.openfintech.io/payment_methods/siam_commercial_bank/icon.svg?w=278&c=v0.59.26#w100) |[siam_commercial_bank_thb_hpp](/payment-services/siam_commercial_bank_thb_hpp/)|`siam_commercial_bank_thb_hpp`| 
+|![siam_commercial_bank](https://static.openfintech.io/payment_methods/siam_commercial_bank/icon.svg?w=278&c=v0.59.26#w100) |[siam_commercial_bank_vnd_hpp](/payment-services/siam_commercial_bank_vnd_hpp/)|`siam_commercial_bank_vnd_hpp`| 
  
 
 ## Payment Providers 

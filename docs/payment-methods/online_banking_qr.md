@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Online Banking 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![online_banking_qr](https://static.openfintech.io/payment_methods/online_banking_qr/icon.svg?w=278&c=v0.59.26#w100) |[online_banking_qr_try_hpp](/payment-services/online_banking_qr_try_hpp/)|`online_banking_qr_try_hpp`| 
+|![online_banking_qr](https://static.openfintech.io/payment_methods/online_banking_qr/icon.svg?w=278&c=v0.59.26#w100) |[online_banking_qr_myr_hpp](/payment-services/online_banking_qr_myr_hpp/)|`online_banking_qr_myr_hpp`| 
 |![online_banking_qr](https://static.openfintech.io/payment_methods/online_banking_qr/icon.svg?w=278&c=v0.59.26#w100) |[online_banking_qr_idr_hpp](/payment-services/online_banking_qr_idr_hpp/)|`online_banking_qr_idr_hpp`| 
 |![online_banking_qr](https://static.openfintech.io/payment_methods/online_banking_qr/icon.svg?w=278&c=v0.59.26#w100) |[online_banking_qr_vnd_hpp](/payment-services/online_banking_qr_vnd_hpp/)|`online_banking_qr_vnd_hpp`| 
  

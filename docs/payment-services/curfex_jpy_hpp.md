@@ -1,21 +1,21 @@
 
-# Boost (service) 
-![boost_myr_hpp](https://static.openfintech.io/payment_methods/boost_myr_hpp/logo.svg?w=400&c=v0.59.26#w200)  
+# Curfex Japan (service) 
+![curfex_jpy_hpp](https://static.openfintech.io/payment_methods/curfex_jpy_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `boost_myr_hpp` 
+**Code:** `curfex_jpy_hpp` 
  
-**Method:** `boost` 
- [show -->](/payment-methods/boost/) 
+**Method:** `curfex` 
+ [show -->](/payment-methods/curfex/) 
  
-**Currency:** `MYR` [show -->](/currencies/MYR/) 
+**Currency:** `JPY` [show -->](/currencies/JPY/) 
  
 **Name:** 
  
-:	[EN] Boost 
+:	[EN] Curfex Japan 
  
-**Amount limits:** from `0.01` to `10000000` MYR 
+**Amount limits:** from `1` to `13800000` JPY 
 
 ## Fields 
 
@@ -23,7 +23,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`account`|✗|`string`|`/^.{1,50}$/`| 
+|`account`|✔|`string`|`/^.{1,50}$/`| 
  
 
 ### Details 
@@ -34,7 +34,7 @@
  
 	Regexp: `/^.{1,50}$/` 
  
-	Required: `` 
+	Required: `1` 
  
 	Label:  
 	: [EN] Client account number 
@@ -51,16 +51,16 @@
 
 ```json
 {
-  "code":"boost_myr_hpp",
+  "code":"curfex_jpy_hpp",
   "flow":"hpp",
-  "method":"boost",
-  "currency":"MYR",
+  "method":"curfex",
+  "currency":"JPY",
   "fields":[
     {
       "key":"account",
       "type":"string",
       "regexp":"\/^.{1,50}$\/",
-      "required":false,
+      "required":true,
       "position":1,
       "label":{
         "en":"Client account number",
@@ -75,7 +75,7 @@
       "example":"1100382992"
     }
   ],
-  "amount_min":0.01,
-  "amount_max":10000000
+  "amount_min":1,
+  "amount_max":13800000
 }
 ```  

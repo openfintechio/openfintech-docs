@@ -1,19 +1,21 @@
 
-# Boost (service) 
-![boost_myr_hpp](https://static.openfintech.io/payment_methods/boost_myr_hpp/logo.svg?w=400&c=v0.59.26#w200)  
+# Online Banking QR (service) 
+![online_banking_qr_myr_hpp](https://static.openfintech.io/payment_methods/online_banking_qr_myr_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `boost_myr_hpp` 
+**Code:** `online_banking_qr_myr_hpp` 
  
-**Method:** `boost` 
- [show -->](/payment-methods/boost/) 
+**Method:** `online_banking_qr` 
+ [show -->](/payment-methods/online_banking_qr/) 
  
 **Currency:** `MYR` [show -->](/currencies/MYR/) 
  
 **Name:** 
  
-:	[EN] Boost 
+:	[EN] Online Banking QR 
+:	[RU] Online Banking QR 
+:	[UK] Online Banking QR 
  
 **Amount limits:** from `0.01` to `10000000` MYR 
 
@@ -51,9 +53,9 @@
 
 ```json
 {
-  "code":"boost_myr_hpp",
+  "code":"online_banking_qr_myr_hpp",
   "flow":"hpp",
-  "method":"boost",
+  "method":"online_banking_qr",
   "currency":"MYR",
   "fields":[
     {

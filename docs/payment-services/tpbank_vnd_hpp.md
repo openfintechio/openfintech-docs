@@ -1,21 +1,21 @@
 
-# Boost (service) 
-![boost_myr_hpp](https://static.openfintech.io/payment_methods/boost_myr_hpp/logo.svg?w=400&c=v0.59.26#w200)  
+# TP Bank Vietnam (service) 
+![tpbank_vnd_hpp](https://static.openfintech.io/payment_methods/tpbank_vnd_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `boost_myr_hpp` 
+**Code:** `tpbank_vnd_hpp` 
  
-**Method:** `boost` 
- [show -->](/payment-methods/boost/) 
+**Method:** `tpbank` 
+ [show -->](/payment-methods/tpbank/) 
  
-**Currency:** `MYR` [show -->](/currencies/MYR/) 
+**Currency:** `VND` [show -->](/currencies/VND/) 
  
 **Name:** 
  
-:	[EN] Boost 
+:	[EN] TP Bank Vietnam 
  
-**Amount limits:** from `0.01` to `10000000` MYR 
+**Amount limits:** from `1` to `9999999` VND 
 
 ## Fields 
 
@@ -23,7 +23,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`account`|✗|`string`|`/^.{1,50}$/`| 
+|`account`|✔|`string`|`/^.{1,50}$/`| 
  
 
 ### Details 
@@ -34,7 +34,7 @@
  
 	Regexp: `/^.{1,50}$/` 
  
-	Required: `` 
+	Required: `1` 
  
 	Label:  
 	: [EN] Client account number 
@@ -51,16 +51,16 @@
 
 ```json
 {
-  "code":"boost_myr_hpp",
+  "code":"tpbank_vnd_hpp",
   "flow":"hpp",
-  "method":"boost",
-  "currency":"MYR",
+  "method":"tpbank",
+  "currency":"VND",
   "fields":[
     {
       "key":"account",
       "type":"string",
       "regexp":"\/^.{1,50}$\/",
-      "required":false,
+      "required":true,
       "position":1,
       "label":{
         "en":"Client account number",
@@ -75,7 +75,7 @@
       "example":"1100382992"
     }
   ],
-  "amount_min":0.01,
-  "amount_max":10000000
+  "amount_min":1,
+  "amount_max":9999999
 }
 ```  
