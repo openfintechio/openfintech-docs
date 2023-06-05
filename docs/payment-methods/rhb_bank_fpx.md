@@ -28,6 +28,15 @@ https://static.openfintech.io/payment_methods/rhb_bank_fpx/logo.svg?w=400&c=v0.5
 https://static.openfintech.io/payment_methods/rhb_bank_fpx/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _RHB Bank (FPX)_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![rhb_bank_fpx](https://static.openfintech.io/payment_methods/rhb_bank_fpx/icon.svg?w=278&c=v0.59.26#w100) |[rhb_bank_fpx_myr_hpp](/payment-services/rhb_bank_fpx_myr_hpp/)|`rhb_bank_fpx_myr_hpp`| 
+ 
+
 ## JSON Object 
 
 ```json

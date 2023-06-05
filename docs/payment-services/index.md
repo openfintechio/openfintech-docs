@@ -782,6 +782,7 @@
 |![RBL Bank](https://static.openfintech.io/payment_methods/rbl_bank/logo.png?w=400&c=v0.59.26#w200) |[**RBL Bank**](/payment-methods/rbl_bank/)|[`rbl_bank_inr_hpp`](rbl_bank_inr_hpp/)| 
 |![Reliance JIO Wallet](https://static.openfintech.io/payment_methods/reliance_jio/logo.svg?w=400&c=v0.59.26#w200) |[**Reliance JIO Wallet**](/payment-methods/reliance_jio/)|[`reliance_jio_inr_hpp`](reliance_jio_inr_hpp/)| 
 |![Resurs bank](https://static.openfintech.io/payment_methods/resursbank/logo.svg?w=400&c=v0.59.26#w200) |[**Resurs bank**](/payment-methods/resursbank/)|[`resursbank_eur_hpp`](resursbank_eur_hpp/)| 
+|![RHB Bank (FPX)](https://static.openfintech.io/payment_methods/rhb_bank_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**RHB Bank (FPX)**](/payment-methods/rhb_bank_fpx/)|[`rhb_bank_fpx_myr_hpp`](rhb_bank_fpx_myr_hpp/)| 
 |![RHB Bank](https://static.openfintech.io/payment_methods/rhb_bank/logo.svg?w=400&c=v0.59.26#w200) |[**RHB Bank**](/payment-methods/rhb_bank/)|[`rhb_bank_myr_hpp`](rhb_bank_myr_hpp/)| 
 |![Ripple](https://static.openfintech.io/payment_methods/ripple/logo.svg?w=400&c=v0.59.26#w200) |[**Ripple**](/payment-methods/ripple/)|[`ripple_eur_hpp`](ripple_eur_hpp/)| 
 |![Ripple](https://static.openfintech.io/payment_methods/ripple/logo.svg?w=400&c=v0.59.26#w200) |[**Ripple**](/payment-methods/ripple/)|[`ripple_uah_hpp`](ripple_uah_hpp/)| 
