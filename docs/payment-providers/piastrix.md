@@ -42,20 +42,20 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![qiwi](https://static.openfintech.io/payment_methods/qiwi/icon.svg?w=278&c=v0.59.26#w100) |[qiwi](/payment-methods/qiwi/)|`qiwi`| 
-|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
-|![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay](/payment-methods/applepay/)|`applepay`| 
-|![beeline](https://static.openfintech.io/payment_methods/beeline/icon.png?w=278&c=v0.59.26#w100) |[beeline](/payment-methods/beeline/)|`beeline`| 
-|![bitcoin_cash](https://static.openfintech.io/payment_methods/bitcoin_cash/icon.png?w=278&c=v0.59.26#w100) |[bitcoin_cash](/payment-methods/bitcoin_cash/)|`bitcoin_cash`| 
-|![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum](/payment-methods/ethereum/)|`ethereum`| 
-|![megafon](https://static.openfintech.io/payment_methods/megafon/icon.png?w=278&c=v0.59.26#w100) |[megafon](/payment-methods/megafon/)|`megafon`| 
-|![mts](https://static.openfintech.io/payment_methods/mts/icon.png?w=278&c=v0.59.26#w100) |[mts](/payment-methods/mts/)|`mts`| 
-|![terminal_rf](https://static.openfintech.io/payment_methods/terminal_rf/icon.svg?w=278&c=v0.59.26#w100) |[terminal_rf](/payment-methods/terminal_rf/)|`terminal_rf`| 
 |![piastrix](https://static.openfintech.io/payment_methods/piastrix/icon.svg?w=278&c=v0.59.26#w100) |[piastrix](/payment-methods/piastrix/)|`piastrix`| 
-|![tele2ru](https://static.openfintech.io/payment_methods/tele2ru/icon.svg?w=278&c=v0.59.26#w100) |[tele2ru](/payment-methods/tele2ru/)|`tele2ru`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
+|![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin](/payment-methods/bitcoin/)|`bitcoin`| 
+|![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum](/payment-methods/ethereum/)|`ethereum`| 
 |![yandexmoney](https://static.openfintech.io/payment_methods/yandexmoney/icon.svg?w=278&c=v0.59.26#w100) |[yandexmoney](/payment-methods/yandexmoney/)|`yandexmoney`| 
 |![perfectmoney](https://static.openfintech.io/payment_methods/perfectmoney/icon.svg?w=278&c=v0.59.26#w100) |[perfectmoney](/payment-methods/perfectmoney/)|`perfectmoney`| 
 |![payeer](https://static.openfintech.io/payment_methods/payeer/icon.png?w=278&c=v0.59.26#w100) |[payeer](/payment-methods/payeer/)|`payeer`| 
 |![alfaclick](https://static.openfintech.io/payment_methods/alfaclick/icon.png?w=278&c=v0.59.26#w100) |[alfaclick](/payment-methods/alfaclick/)|`alfaclick`| 
+|![beeline](https://static.openfintech.io/payment_methods/beeline/icon.png?w=278&c=v0.59.26#w100) |[beeline](/payment-methods/beeline/)|`beeline`| 
+|![mts](https://static.openfintech.io/payment_methods/mts/icon.png?w=278&c=v0.59.26#w100) |[mts](/payment-methods/mts/)|`mts`| 
+|![megafon](https://static.openfintech.io/payment_methods/megafon/icon.png?w=278&c=v0.59.26#w100) |[megafon](/payment-methods/megafon/)|`megafon`| 
+|![tele2ru](https://static.openfintech.io/payment_methods/tele2ru/icon.svg?w=278&c=v0.59.26#w100) |[tele2ru](/payment-methods/tele2ru/)|`tele2ru`| 
+|![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay](/payment-methods/applepay/)|`applepay`| 
+|![terminal_rf](https://static.openfintech.io/payment_methods/terminal_rf/icon.svg?w=278&c=v0.59.26#w100) |[terminal_rf](/payment-methods/terminal_rf/)|`terminal_rf`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether](/payment-methods/tether/)|`tether`| 
  
 
@@ -95,20 +95,20 @@ The list of supported [Payout Methods](/payout-methods/)
   "countries":null,
   "payment_method":[
     "qiwi",
-    "payment_card",
-    "applepay",
-    "beeline",
-    "bitcoin_cash",
-    "ethereum",
-    "megafon",
-    "mts",
-    "terminal_rf",
     "piastrix",
-    "tele2ru",
+    "payment_card",
+    "bitcoin",
+    "ethereum",
     "yandexmoney",
     "perfectmoney",
     "payeer",
     "alfaclick",
+    "beeline",
+    "mts",
+    "megafon",
+    "tele2ru",
+    "applepay",
+    "terminal_rf",
     "tether"
   ],
   "payout_method":[

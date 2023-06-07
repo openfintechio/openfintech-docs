@@ -54,13 +54,10 @@ The list of [Payment Providers](/payment-providers/) that support the _Giropay_
 |:---:|:---:|:---:| 
 |![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.png?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
 |![sisow](https://static.openfintech.io/payment_providers/sisow/icon.png?w=278&c=v0.59.26#w100) |[Sisow](/payment-providers/sisow/)|`sisow`| 
-|![fondy](https://static.openfintech.io/payment_providers/fondy/icon.svg?w=278&c=v0.59.26#w100) |[FONDY](/payment-providers/fondy/)|`fondy`| 
-|![paydoo](https://static.openfintech.io/payment_providers/paydoo/icon.png?w=278&c=v0.59.26#w100) |[Paynt](/payment-providers/paydoo/)|`paydoo`| 
 |![paynl](https://static.openfintech.io/payment_providers/paynl/icon.png?w=278&c=v0.59.26#w100) |[Pay.nl](/payment-providers/paynl/)|`paynl`| 
 |![ppro](https://static.openfintech.io/payment_providers/ppro/icon.svg?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
-|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/icon.png?w=278&c=v0.59.26#w100) |[Buckaroo](/payment-providers/buckaroo/)|`buckaroo`| 
 |![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/icon.png?w=278&c=v0.59.26#w100) |[Alternative Payments](/payment-providers/alternativepayments/)|`alternativepayments`| 
 |![kalixa](https://static.openfintech.io/payment_providers/kalixa/icon.png?w=278&c=v0.59.26#w100) |[Kalixa Payments Group](/payment-providers/kalixa/)|`kalixa`| 
@@ -78,7 +75,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Giropay_
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.png?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
 |![2000charge](https://static.openfintech.io/payment_providers/2000charge/icon.png?w=278&c=v0.59.26#w100) |[2000Charge.com](/payment-providers/2000charge/)|`2000charge`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
  
 
 ## JSON Object 

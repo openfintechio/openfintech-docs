@@ -50,14 +50,12 @@ The list of [Payment Providers](/payment-providers/) that support the _Direct De
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.png?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
-|![paydoo](https://static.openfintech.io/payment_providers/paydoo/icon.png?w=278&c=v0.59.26#w100) |[Paynt](/payment-providers/paydoo/)|`paydoo`| 
 |![paymill](https://static.openfintech.io/payment_providers/paymill/icon.png?w=278&c=v0.59.26#w100) |[PAYMILL](/payment-providers/paymill/)|`paymill`| 
 |![gingerpayments](https://static.openfintech.io/payment_providers/gingerpayments/icon.png?w=278&c=v0.59.26#w100) |[Ginger Payments](/payment-providers/gingerpayments/)|`gingerpayments`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
 |![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
 |![lemonway](https://static.openfintech.io/payment_providers/lemonway/icon.png?w=278&c=v0.59.26#w100) |[Lemon Way](/payment-providers/lemonway/)|`lemonway`| 
-|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/icon.png?w=278&c=v0.59.26#w100) |[Buckaroo](/payment-providers/buckaroo/)|`buckaroo`| 
 |![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/icon.png?w=278&c=v0.59.26#w100) |[Alternative Payments](/payment-providers/alternativepayments/)|`alternativepayments`| 
 |![kalixa](https://static.openfintech.io/payment_providers/kalixa/icon.png?w=278&c=v0.59.26#w100) |[Kalixa Payments Group](/payment-providers/kalixa/)|`kalixa`| 
@@ -74,7 +72,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Direct De
 |![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
 |![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.png?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
 |![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.png?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
  
 

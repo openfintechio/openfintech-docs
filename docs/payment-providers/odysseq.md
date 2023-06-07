@@ -48,6 +48,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![qiwi](https://static.openfintech.io/payout_methods/qiwi/icon.svg?w=278&c=v0.59.26#w40) |[qiwi](payout-methodsqiwi/)|`qiwi`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
  
 
 ## JSON Object 
@@ -64,7 +65,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "payment_card"
   ],
   "payout_method":[
-    "qiwi"
+    "qiwi",
+    "payment_card"
   ],
   "metadata":null,
   "name":{

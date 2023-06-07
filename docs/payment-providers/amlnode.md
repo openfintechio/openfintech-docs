@@ -47,6 +47,9 @@ The list of supported [Payment Methods](/payment-methods/)
 |![bitcoin_cash](https://static.openfintech.io/payment_methods/bitcoin_cash/icon.png?w=278&c=v0.59.26#w100) |[bitcoin_cash](/payment-methods/bitcoin_cash/)|`bitcoin_cash`| 
 |![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin](/payment-methods/litecoin/)|`litecoin`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether](/payment-methods/tether/)|`tether`| 
+|![waves](https://static.openfintech.io/payment_methods/waves/icon.svg?w=278&c=v0.59.26#w100) |[waves](/payment-methods/waves/)|`waves`| 
+|![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum](/payment-methods/ethereum/)|`ethereum`| 
+|![ethereum_classic](https://static.openfintech.io/payment_methods/ethereum_classic/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_classic](/payment-methods/ethereum_classic/)|`ethereum_classic`| 
  
 
 ## JSON Object 
@@ -64,7 +67,10 @@ The list of supported [Payment Methods](/payment-methods/)
     "bitcoin",
     "bitcoin_cash",
     "litecoin",
-    "tether"
+    "tether",
+    "waves",
+    "ethereum",
+    "ethereum_classic"
   ],
   "payout_method":null,
   "metadata":null,

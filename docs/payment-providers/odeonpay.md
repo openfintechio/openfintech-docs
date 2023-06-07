@@ -84,6 +84,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![public_bank_berhad](https://static.openfintech.io/payment_methods/public_bank_berhad/icon.png?w=278&c=v0.59.26#w100) |[public_bank_berhad](/payment-methods/public_bank_berhad/)|`public_bank_berhad`| 
 |![rhb_bank](https://static.openfintech.io/payment_methods/rhb_bank/icon.svg?w=278&c=v0.59.26#w100) |[rhb_bank](/payment-methods/rhb_bank/)|`rhb_bank`| 
 |![united_overseas_bank_berhad](https://static.openfintech.io/payment_methods/united_overseas_bank_berhad/icon.svg?w=278&c=v0.59.26#w100) |[united_overseas_bank_berhad](/payment-methods/united_overseas_bank_berhad/)|`united_overseas_bank_berhad`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
+|![saraswat_cooperative_bank](https://static.openfintech.io/payment_methods/saraswat_cooperative_bank/icon.svg?w=278&c=v0.59.26#w100) |[saraswat_cooperative_bank](/payment-methods/saraswat_cooperative_bank/)|`saraswat_cooperative_bank`| 
 |![asia_commercial_bank_qr](https://static.openfintech.io/payment_methods/asia_commercial_bank_qr/icon.svg?w=278&c=v0.59.26#w100) |[asia_commercial_bank_qr](/payment-methods/asia_commercial_bank_qr/)|`asia_commercial_bank_qr`| 
 |![bidv_bank_qr](https://static.openfintech.io/payment_methods/bidv_bank_qr/icon.svg?w=278&c=v0.59.26#w100) |[bidv_bank_qr](/payment-methods/bidv_bank_qr/)|`bidv_bank_qr`| 
 |![vietcom_bank_qr](https://static.openfintech.io/payment_methods/vietcom_bank_qr/icon.svg?w=278&c=v0.59.26#w100) |[vietcom_bank_qr](/payment-methods/vietcom_bank_qr/)|`vietcom_bank_qr`| 
@@ -127,10 +129,9 @@ The list of supported [Payment Methods](/payment-methods/)
 |![indian_bank](https://static.openfintech.io/payment_methods/indian_bank/icon.svg?w=278&c=v0.59.26#w100) |[indian_bank](/payment-methods/indian_bank/)|`indian_bank`| 
 |![indian_overseas_bank](https://static.openfintech.io/payment_methods/indian_overseas_bank/icon.png?w=278&c=v0.59.26#w100) |[indian_overseas_bank](/payment-methods/indian_overseas_bank/)|`indian_overseas_bank`| 
 |![indian_development_bank](https://static.openfintech.io/payment_methods/indian_development_bank/icon.svg?w=278&c=v0.59.26#w100) |[indian_development_bank](/payment-methods/indian_development_bank/)|`indian_development_bank`| 
-|![karnataka_bank](https://static.openfintech.io/payment_methods/karnataka_bank/icon.svg?w=278&c=v0.59.26#w100) |[karnataka_bank](/payment-methods/karnataka_bank/)|`karnataka_bank`| 
 |![karurvysya_bank_india](https://static.openfintech.io/payment_methods/karurvysya_bank_india/icon.svg?w=278&c=v0.59.26#w100) |[karurvysya_bank_india](/payment-methods/karurvysya_bank_india/)|`karurvysya_bank_india`| 
 |![south_indian_bank](https://static.openfintech.io/payment_methods/south_indian_bank/icon.png?w=278&c=v0.59.26#w100) |[south_indian_bank](/payment-methods/south_indian_bank/)|`south_indian_bank`| 
-|![bank_of_baroda](https://static.openfintech.io/payment_methods/bank_of_baroda/icon.svg?w=278&c=v0.59.26#w100) |[bank_of_baroda](/payment-methods/bank_of_baroda/)|`bank_of_baroda`| 
+|![union_bank_of_india](https://static.openfintech.io/payment_methods/union_bank_of_india/icon.svg?w=278&c=v0.59.26#w100) |[union_bank_of_india](/payment-methods/union_bank_of_india/)|`union_bank_of_india`| 
 |![yes_bank](https://static.openfintech.io/payment_methods/yes_bank/icon.svg?w=278&c=v0.59.26#w100) |[yes_bank](/payment-methods/yes_bank/)|`yes_bank`| 
 |![andhra_bank](https://static.openfintech.io/payment_methods/andhra_bank/icon.svg?w=278&c=v0.59.26#w100) |[andhra_bank](/payment-methods/andhra_bank/)|`andhra_bank`| 
 |![uco_bank_india](https://static.openfintech.io/payment_methods/uco_bank_india/icon.png?w=278&c=v0.59.26#w100) |[uco_bank_india](/payment-methods/uco_bank_india/)|`uco_bank_india`| 
@@ -143,10 +144,6 @@ The list of supported [Payment Methods](/payment-methods/)
 |![punjab_sind_bank](https://static.openfintech.io/payment_methods/punjab_sind_bank/icon.png?w=278&c=v0.59.26#w100) |[punjab_sind_bank](/payment-methods/punjab_sind_bank/)|`punjab_sind_bank`| 
 |![rupay](https://static.openfintech.io/payment_methods/rupay/icon.svg?w=278&c=v0.59.26#w100) |[rupay](/payment-methods/rupay/)|`rupay`| 
 |![india_bank_selection](https://static.openfintech.io/payment_methods/india_bank_selection/icon.svg?w=278&c=v0.59.26#w100) |[india_bank_selection](/payment-methods/india_bank_selection/)|`india_bank_selection`| 
-|![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.png?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
-|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
-|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.png?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
-|![saraswat_cooperative_bank](https://static.openfintech.io/payment_methods/saraswat_cooperative_bank/icon.svg?w=278&c=v0.59.26#w100) |[saraswat_cooperative_bank](/payment-methods/saraswat_cooperative_bank/)|`saraswat_cooperative_bank`| 
 |![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer](/payment-methods/sepa_transfer/)|`sepa_transfer`| 
  
 
@@ -287,6 +284,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "public_bank_berhad",
     "rhb_bank",
     "united_overseas_bank_berhad",
+    "payment_card",
+    "saraswat_cooperative_bank",
     "asia_commercial_bank_qr",
     "bidv_bank_qr",
     "vietcom_bank_qr",
@@ -330,10 +329,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "indian_bank",
     "indian_overseas_bank",
     "indian_development_bank",
-    "karnataka_bank",
     "karurvysya_bank_india",
     "south_indian_bank",
-    "bank_of_baroda",
+    "union_bank_of_india",
     "yes_bank",
     "andhra_bank",
     "uco_bank_india",
@@ -346,10 +344,6 @@ The list of supported [Payout Methods](/payout-methods/)
     "punjab_sind_bank",
     "rupay",
     "india_bank_selection",
-    "visadebit",
-    "payment_card",
-    "mastercarddebit",
-    "saraswat_cooperative_bank",
     "sepa_transfer"
   ],
   "payout_method":[

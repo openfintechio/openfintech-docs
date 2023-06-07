@@ -40,9 +40,6 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
-|![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum](/payment-methods/ethereum/)|`ethereum`| 
-|![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether](/payment-methods/tether/)|`tether`| 
-|![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin](/payment-methods/bitcoin/)|`bitcoin`| 
  
 
 ## Payout Methods 
@@ -64,10 +61,7 @@ The list of supported [Payout Methods](/payout-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    "payment_card",
-    "ethereum",
-    "tether",
-    "bitcoin"
+    "payment_card"
   ],
   "payout_method":[
     "payment_card"

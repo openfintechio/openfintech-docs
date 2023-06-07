@@ -515,6 +515,8 @@
 |![Megafon](https://static.openfintech.io/payment_methods/megafon/logo.png?w=400&c=v0.59.26#w200) |[**Megafon**](/payment-methods/megafon/)|[`megafon_rub_hpp`](megafon_rub_hpp/)| 
 |![Megafon](https://static.openfintech.io/payment_methods/megafon/logo.png?w=400&c=v0.59.26#w200) |[**Megafon**](/payment-methods/megafon/)|[`megafon_rub_invoice`](megafon_rub_invoice/)| 
 |![Mercuryo](https://static.openfintech.io/payment_methods/mercuryo/logo.svg?w=400&c=v0.59.26#w200) |[**Mercuryo**](/payment-methods/mercuryo/)|[`mercuryo_btc_hpp`](mercuryo_btc_hpp/)| 
+|![Mercuryo](https://static.openfintech.io/payment_methods/mercuryo/logo.svg?w=400&c=v0.59.26#w200) |[**Mercuryo**](/payment-methods/mercuryo/)|[`mercuryo_eur_hpp`](mercuryo_eur_hpp/)| 
+|![Mercuryo](https://static.openfintech.io/payment_methods/mercuryo/logo.svg?w=400&c=v0.59.26#w200) |[**Mercuryo**](/payment-methods/mercuryo/)|[`mercuryo_usd_hpp`](mercuryo_usd_hpp/)| 
 |![Bank Mestika](https://static.openfintech.io/payment_methods/mestika_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Mestika**](/payment-methods/mestika_bank/)|[`mestika_bank_idr_hpp`](mestika_bank_idr_hpp/)| 
 |![MG Bank (Saemmul)](https://static.openfintech.io/payment_methods/mg_bank_saemmul/logo.png?w=400&c=v0.59.26#w200) |[**MG Bank (Saemmul)**](/payment-methods/mg_bank_saemmul/)|[`mg_bank_saemmul_krw_hpp`](mg_bank_saemmul_krw_hpp/)| 
 |![Military Commercial Joint Stock Bank QR](https://static.openfintech.io/payment_methods/military_commercial_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Military Commercial Joint Stock Bank QR**](/payment-methods/military_commercial_bank_qr/)|[`military_commercial_bank_qr_vnd_hpp`](military_commercial_bank_qr_vnd_hpp/)| 

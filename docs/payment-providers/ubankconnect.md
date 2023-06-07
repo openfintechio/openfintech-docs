@@ -55,7 +55,6 @@ The list of supported [Payment Methods](/payment-methods/)
 |![hdfc_bank](https://static.openfintech.io/payment_methods/hdfc_bank/icon.svg?w=278&c=v0.59.26#w100) |[hdfc_bank](/payment-methods/hdfc_bank/)|`hdfc_bank`| 
 |![icici_bank](https://static.openfintech.io/payment_methods/icici_bank/icon.svg?w=278&c=v0.59.26#w100) |[icici_bank](/payment-methods/icici_bank/)|`icici_bank`| 
 |![idfc_bank_india](https://static.openfintech.io/payment_methods/idfc_bank_india/icon.svg?w=278&c=v0.59.26#w100) |[idfc_bank_india](/payment-methods/idfc_bank_india/)|`idfc_bank_india`| 
-|![indian_bank](https://static.openfintech.io/payment_methods/indian_bank/icon.svg?w=278&c=v0.59.26#w100) |[indian_bank](/payment-methods/indian_bank/)|`indian_bank`| 
 |![indian_overseas_bank](https://static.openfintech.io/payment_methods/indian_overseas_bank/icon.png?w=278&c=v0.59.26#w100) |[indian_overseas_bank](/payment-methods/indian_overseas_bank/)|`indian_overseas_bank`| 
 |![indusind_bank](https://static.openfintech.io/payment_methods/indusind_bank/icon.png?w=278&c=v0.59.26#w100) |[indusind_bank](/payment-methods/indusind_bank/)|`indusind_bank`| 
 |![j_k_bank_india](https://static.openfintech.io/payment_methods/j_k_bank_india/icon.png?w=278&c=v0.59.26#w100) |[j_k_bank_india](/payment-methods/j_k_bank_india/)|`j_k_bank_india`| 
@@ -118,8 +117,8 @@ The list of supported [Payout Methods](/payout-methods/)
 |![mandiri_bank](https://static.openfintech.io/payout_methods/mandiri_bank/icon.svg?w=278&c=v0.59.26#w40) |[mandiri_bank](payout-methodsmandiri_bank/)|`mandiri_bank`| 
 |![bank_central_asia](https://static.openfintech.io/payout_methods/bank_central_asia/icon.svg?w=278&c=v0.59.26#w40) |[bank_central_asia](payout-methodsbank_central_asia/)|`bank_central_asia`| 
 |![bank_rakyat_indonesia](https://static.openfintech.io/payout_methods/bank_rakyat_indonesia/icon.svg?w=278&c=v0.59.26#w40) |[bank_rakyat_indonesia](payout-methodsbank_rakyat_indonesia/)|`bank_rakyat_indonesia`| 
-|![may_bank](https://static.openfintech.io/payout_methods/may_bank/icon.svg?w=278&c=v0.59.26#w40) |[may_bank](payout-methodsmay_bank/)|`may_bank`| 
 |![va_mandiri](https://static.openfintech.io/payout_methods/va_mandiri/icon.svg?w=278&c=v0.59.26#w40) |[va_mandiri](payout-methodsva_mandiri/)|`va_mandiri`| 
+|![may_bank](https://static.openfintech.io/payout_methods/may_bank/icon.svg?w=278&c=v0.59.26#w40) |[may_bank](payout-methodsmay_bank/)|`may_bank`| 
 |![industrial_bank_ho_chi_minh](https://static.openfintech.io/payout_methods/industrial_bank_ho_chi_minh/icon.png?w=278&c=v0.59.26#w40) |[industrial_bank_ho_chi_minh](payout-methodsindustrial_bank_ho_chi_minh/)|`industrial_bank_ho_chi_minh`| 
 |![kookmin_bank](https://static.openfintech.io/payout_methods/kookmin_bank/icon.png?w=278&c=v0.59.26#w40) |[kookmin_bank](payout-methodskookmin_bank/)|`kookmin_bank`| 
 |![woori_bank](https://static.openfintech.io/payout_methods/woori_bank/icon.svg?w=278&c=v0.59.26#w40) |[woori_bank](payout-methodswoori_bank/)|`woori_bank`| 
@@ -150,7 +149,6 @@ The list of supported [Payout Methods](/payout-methods/)
 |![kiwoom_bank](https://static.openfintech.io/payout_methods/kiwoom_bank/icon.png?w=278&c=v0.59.26#w40) |[kiwoom_bank](payout-methodskiwoom_bank/)|`kiwoom_bank`| 
 |![hana_financial_bank](https://static.openfintech.io/payout_methods/hana_financial_bank/icon.png?w=278&c=v0.59.26#w40) |[hana_financial_bank](payout-methodshana_financial_bank/)|`hana_financial_bank`| 
 |![hanwha_bank](https://static.openfintech.io/payout_methods/hanwha_bank/icon.svg?w=278&c=v0.59.26#w40) |[hanwha_bank](payout-methodshanwha_bank/)|`hanwha_bank`| 
-|![kbfg_bank](https://static.openfintech.io/payout_methods/kbfg_bank/icon.png?w=278&c=v0.59.26#w40) |[kbfg_bank](payout-methodskbfg_bank/)|`kbfg_bank`| 
 |![industrial_and_commercial_bank_of_china](https://static.openfintech.io/payout_methods/industrial_and_commercial_bank_of_china/icon.svg?w=278&c=v0.59.26#w40) |[industrial_and_commercial_bank_of_china](payout-methodsindustrial_and_commercial_bank_of_china/)|`industrial_and_commercial_bank_of_china`| 
 |![kakaopay_bank](https://static.openfintech.io/payout_methods/kakaopay_bank/icon.svg?w=278&c=v0.59.26#w40) |[kakaopay_bank](payout-methodskakaopay_bank/)|`kakaopay_bank`| 
 |![bnk_bank](https://static.openfintech.io/payout_methods/bnk_bank/icon.svg?w=278&c=v0.59.26#w40) |[bnk_bank](payout-methodsbnk_bank/)|`bnk_bank`| 
@@ -192,7 +190,6 @@ The list of supported [Payout Methods](/payout-methods/)
     "hdfc_bank",
     "icici_bank",
     "idfc_bank_india",
-    "indian_bank",
     "indian_overseas_bank",
     "indusind_bank",
     "j_k_bank_india",
@@ -249,8 +246,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "mandiri_bank",
     "bank_central_asia",
     "bank_rakyat_indonesia",
-    "may_bank",
     "va_mandiri",
+    "may_bank",
     "industrial_bank_ho_chi_minh",
     "kookmin_bank",
     "woori_bank",
@@ -281,7 +278,6 @@ The list of supported [Payout Methods](/payout-methods/)
     "kiwoom_bank",
     "hana_financial_bank",
     "hanwha_bank",
-    "kbfg_bank",
     "industrial_and_commercial_bank_of_china",
     "kakaopay_bank",
     "bnk_bank",

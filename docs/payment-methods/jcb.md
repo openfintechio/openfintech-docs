@@ -52,7 +52,6 @@ The list of [Payment Providers](/payment-providers/) that support the _JCB_
 |![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.png?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
 |![securionpay](https://static.openfintech.io/payment_providers/securionpay/icon.svg?w=278&c=v0.59.26#w100) |[SecurionPay](/payment-providers/securionpay/)|`securionpay`| 
 |![merchantscout](https://static.openfintech.io/payment_providers/merchantscout/icon.png?w=278&c=v0.59.26#w100) |[MerchantScout](/payment-providers/merchantscout/)|`merchantscout`| 
-|![paydoo](https://static.openfintech.io/payment_providers/paydoo/icon.png?w=278&c=v0.59.26#w100) |[Paynt](/payment-providers/paydoo/)|`paydoo`| 
 |![dalberry](https://static.openfintech.io/payment_providers/dalberry/icon.png?w=278&c=v0.59.26#w100) |[Dalberry](/payment-providers/dalberry/)|`dalberry`| 
 |![paymill](https://static.openfintech.io/payment_providers/paymill/icon.png?w=278&c=v0.59.26#w100) |[PAYMILL](/payment-providers/paymill/)|`paymill`| 
 |![4cash](https://static.openfintech.io/payment_providers/4cash/icon.png?w=278&c=v0.59.26#w100) |[4Cash](/payment-providers/4cash/)|`4cash`| 
@@ -62,7 +61,6 @@ The list of [Payment Providers](/payment-providers/) that support the _JCB_
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
 |![cngpro](https://static.openfintech.io/payment_providers/cngpro/icon.png?w=278&c=v0.59.26#w100) |[CNG Pro](/payment-providers/cngpro/)|`cngpro`| 
 |![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
-|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/icon.png?w=278&c=v0.59.26#w100) |[Alternative Payments](/payment-providers/alternativepayments/)|`alternativepayments`| 
 |![payu](https://static.openfintech.io/payment_providers/payu/icon.svg?w=278&c=v0.59.26#w100) |[PayU](/payment-providers/payu/)|`payu`| 
 |![vantagepayments](https://static.openfintech.io/payment_providers/vantagepayments/icon.png?w=278&c=v0.59.26#w100) |[Vantage Payments](/payment-providers/vantagepayments/)|`vantagepayments`| 
@@ -75,7 +73,6 @@ The list of [Payment Providers](/payment-providers/) that support the _JCB_
 |![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
 |![ebillingsolutions](https://static.openfintech.io/payment_providers/ebillingsolutions/icon.png?w=278&c=v0.59.26#w100) |[EBS](/payment-providers/ebillingsolutions/)|`ebillingsolutions`| 
-|![maxpay](https://static.openfintech.io/payment_providers/maxpay/icon.svg?w=278&c=v0.59.26#w100) |[Maxpay](/payment-providers/maxpay/)|`maxpay`| 
 |![europeanmerchantservices](https://static.openfintech.io/payment_providers/europeanmerchantservices/icon.png?w=278&c=v0.59.26#w100) |[EMS](/payment-providers/europeanmerchantservices/)|`europeanmerchantservices`| 
 |![payrexx](https://static.openfintech.io/payment_providers/payrexx/icon.png?w=278&c=v0.59.26#w100) |[Payrexx Payments](/payment-providers/payrexx/)|`payrexx`| 
 |![alliedwallet2](https://static.openfintech.io/payment_providers/alliedwallet2/icon.png?w=278&c=v0.59.26#w100) |[Allied Wallet](/payment-providers/alliedwallet2/)|`alliedwallet2`| 
@@ -96,7 +93,6 @@ The list of [Payment Providers](/payment-providers/) that support the _JCB_
 |![paymentbillsservice](https://static.openfintech.io/payment_providers/paymentbillsservice/icon.png?w=278&c=v0.59.26#w100) |[PaymentBillsService](/payment-providers/paymentbillsservice/)|`paymentbillsservice`| 
 |![yuupay](https://static.openfintech.io/payment_providers/yuupay/icon.png?w=278&c=v0.59.26#w100) |[YuuPay ](/payment-providers/yuupay/)|`yuupay`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
 |![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.png?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
  
 

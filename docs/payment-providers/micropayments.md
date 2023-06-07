@@ -33,6 +33,16 @@ https://static.openfintech.io/payment_providers/micropayments/logo.svg?w=400&c=v
 https://static.openfintech.io/payment_providers/micropayments/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Methods 
+ 
+The list of supported [Payment Methods](/payment-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
+|![sofort](https://static.openfintech.io/payment_methods/sofort/icon.svg?w=278&c=v0.59.26#w100) |[sofort](/payment-methods/sofort/)|`sofort`| 
+ 
+
 ## Payout Methods 
  
 The list of supported [Payout Methods](/payout-methods/) 
@@ -51,7 +61,10 @@ The list of supported [Payout Methods](/payout-methods/)
   "vendor":"micropayments",
   "categories":null,
   "countries":null,
-  "payment_method":null,
+  "payment_method":[
+    "paysafecard",
+    "sofort"
+  ],
   "payout_method":[
     "payment_card"
   ],

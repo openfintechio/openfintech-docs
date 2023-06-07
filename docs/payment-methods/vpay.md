@@ -46,7 +46,6 @@ The list of [Payment Providers](/payment-providers/) that support the _V PAY_
 |![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.png?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
 |![sisow](https://static.openfintech.io/payment_providers/sisow/icon.png?w=278&c=v0.59.26#w100) |[Sisow](/payment-providers/sisow/)|`sisow`| 
 |![magnius](https://static.openfintech.io/payment_providers/magnius/icon.png?w=278&c=v0.59.26#w100) |[Magnius](/payment-providers/magnius/)|`magnius`| 
-|![fondy](https://static.openfintech.io/payment_providers/fondy/icon.svg?w=278&c=v0.59.26#w100) |[FONDY](/payment-providers/fondy/)|`fondy`| 
 |![dalberry](https://static.openfintech.io/payment_providers/dalberry/icon.png?w=278&c=v0.59.26#w100) |[Dalberry](/payment-providers/dalberry/)|`dalberry`| 
 |![paymill](https://static.openfintech.io/payment_providers/paymill/icon.png?w=278&c=v0.59.26#w100) |[PAYMILL](/payment-providers/paymill/)|`paymill`| 
 |![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
@@ -55,7 +54,6 @@ The list of [Payment Providers](/payment-providers/) that support the _V PAY_
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
 |![cngpro](https://static.openfintech.io/payment_providers/cngpro/icon.png?w=278&c=v0.59.26#w100) |[CNG Pro](/payment-providers/cngpro/)|`cngpro`| 
 |![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
-|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/icon.png?w=278&c=v0.59.26#w100) |[Buckaroo](/payment-providers/buckaroo/)|`buckaroo`| 
 |![kalixa](https://static.openfintech.io/payment_providers/kalixa/icon.png?w=278&c=v0.59.26#w100) |[Kalixa Payments Group](/payment-providers/kalixa/)|`kalixa`| 
 |![nextpay](https://static.openfintech.io/payment_providers/nextpay/icon.png?w=278&c=v0.59.26#w100) |[NextPay](/payment-providers/nextpay/)|`nextpay`| 
@@ -73,7 +71,6 @@ The list of [Payment Providers](/payment-providers/) that support the _V PAY_
 |![ccvpay](https://static.openfintech.io/payment_providers/ccvpay/icon.png?w=278&c=v0.59.26#w100) |[CCV Pay](/payment-providers/ccvpay/)|`ccvpay`| 
 |![aibmerchantservices](https://static.openfintech.io/payment_providers/aibmerchantservices/icon.png?w=278&c=v0.59.26#w100) |[AIB Merchant Services](/payment-providers/aibmerchantservices/)|`aibmerchantservices`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
  
 
 ## JSON Object 

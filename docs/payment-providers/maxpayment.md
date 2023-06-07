@@ -42,6 +42,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![papara](https://static.openfintech.io/payment_methods/papara/icon.svg?w=278&c=v0.59.26#w100) |[papara](/payment-methods/papara/)|`papara`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
+|![pep](https://static.openfintech.io/payment_methods/pep/icon.png?w=278&c=v0.59.26#w100) |[pep](/payment-methods/pep/)|`pep`| 
+|![instant_papara](https://static.openfintech.io/payment_methods/instant_papara/icon.svg?w=278&c=v0.59.26#w100) |[instant_papara](/payment-methods/instant_papara/)|`instant_papara`| 
  
 
 ## Payout Methods 
@@ -67,7 +69,9 @@ The list of supported [Payout Methods](/payout-methods/)
   "payment_method":[
     "payment_card",
     "papara",
-    "bank_transfer"
+    "bank_transfer",
+    "pep",
+    "instant_papara"
   ],
   "payout_method":[
     "bank_transfer",

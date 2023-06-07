@@ -52,7 +52,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Debito Br
 |![alliedwallet2](https://static.openfintech.io/payment_providers/alliedwallet2/icon.png?w=278&c=v0.59.26#w100) |[Allied Wallet](/payment-providers/alliedwallet2/)|`alliedwallet2`| 
 |![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.png?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
 |![allpago](https://static.openfintech.io/payment_providers/allpago/icon.png?w=278&c=v0.59.26#w100) |[allpago - accept payments in Latin America](/payment-providers/allpago/)|`allpago`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
  
 
 ## JSON Object 

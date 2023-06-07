@@ -41,10 +41,21 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![liqpay](https://static.openfintech.io/payment_methods/liqpay/icon.svg?w=278&c=v0.59.26#w100) |[liqpay](/payment-methods/liqpay/)|`liqpay`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
+|![liqpay_wallet](https://static.openfintech.io/payment_methods/liqpay_wallet/icon.svg?w=278&c=v0.59.26#w100) |[liqpay_wallet](/payment-methods/liqpay_wallet/)|`liqpay_wallet`| 
 |![privat24](https://static.openfintech.io/payment_methods/privat24/icon.svg?w=278&c=v0.59.26#w100) |[privat24](/payment-methods/privat24/)|`privat24`| 
 |![masterpass](https://static.openfintech.io/payment_methods/masterpass/icon.png?w=278&c=v0.59.26#w100) |[masterpass](/payment-methods/masterpass/)|`masterpass`| 
-|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash](/payment-methods/cash/)|`cash`| 
-|![bank_card](https://static.openfintech.io/payment_methods/bank_card/icon.svg?w=278&c=v0.59.26#w100) |[bank_card](/payment-methods/bank_card/)|`bank_card`| 
+|![privatbank_ssk](https://static.openfintech.io/payment_methods/privatbank_ssk/icon.png?w=278&c=v0.59.26#w100) |[privatbank_ssk](/payment-methods/privatbank_ssk/)|`privatbank_ssk`| 
+ 
+
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
  
 
 ## JSON Object 
@@ -59,12 +70,16 @@ The list of supported [Payment Methods](/payment-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
+    "liqpay",
+    "payment_card",
+    "liqpay_wallet",
     "privat24",
     "masterpass",
-    "cash",
-    "bank_card"
+    "privatbank_ssk"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "payment_card"
+  ],
   "metadata":{
     "about_payments_code":"liqpay"
   },

@@ -45,7 +45,6 @@ The list of [Payment Providers](/payment-providers/) that support the _UPI_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![spoynt](https://static.openfintech.io/payment_providers/spoynt/icon.svg?w=278&c=v0.59.26#w100) |[Spoynt](/payment-providers/spoynt/)|`spoynt`| 
 |![10pay](https://static.openfintech.io/payment_providers/10pay/icon.svg?w=278&c=v0.59.26#w100) |[10Pay](/payment-providers/10pay/)|`10pay`| 
 |![alycepay](https://static.openfintech.io/payment_providers/alycepay/icon.png?w=278&c=v0.59.26#w100) |[Alycepay](/payment-providers/alycepay/)|`alycepay`| 
 |![virtouspayments](https://static.openfintech.io/payment_providers/virtouspayments/icon.png?w=278&c=v0.59.26#w100) |[Virtous Payments](/payment-providers/virtouspayments/)|`virtouspayments`| 

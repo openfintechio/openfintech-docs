@@ -137,58 +137,44 @@ The list of supported [Payout Methods](/payout-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bank_central_asia](https://static.openfintech.io/payout_methods/bank_central_asia/icon.svg?w=278&c=v0.59.26#w40) |[bank_central_asia](payout-methodsbank_central_asia/)|`bank_central_asia`| 
-|![bank_negara_indonesia](https://static.openfintech.io/payout_methods/bank_negara_indonesia/icon.svg?w=278&c=v0.59.26#w40) |[bank_negara_indonesia](payout-methodsbank_negara_indonesia/)|`bank_negara_indonesia`| 
-|![bank_rakyat_indonesia](https://static.openfintech.io/payout_methods/bank_rakyat_indonesia/icon.svg?w=278&c=v0.59.26#w40) |[bank_rakyat_indonesia](payout-methodsbank_rakyat_indonesia/)|`bank_rakyat_indonesia`| 
-|![btn_bank](https://static.openfintech.io/payout_methods/btn_bank/icon.png?w=278&c=v0.59.26#w40) |[btn_bank](payout-methodsbtn_bank/)|`btn_bank`| 
-|![cimb_clicks_indonesia](https://static.openfintech.io/payout_methods/cimb_clicks_indonesia/icon.png?w=278&c=v0.59.26#w40) |[cimb_clicks_indonesia](payout-methodscimb_clicks_indonesia/)|`cimb_clicks_indonesia`| 
-|![danamon_bank](https://static.openfintech.io/payout_methods/danamon_bank/icon.png?w=278&c=v0.59.26#w40) |[danamon_bank](payout-methodsdanamon_bank/)|`danamon_bank`| 
-|![mandiri_bank](https://static.openfintech.io/payout_methods/mandiri_bank/icon.svg?w=278&c=v0.59.26#w40) |[mandiri_bank](payout-methodsmandiri_bank/)|`mandiri_bank`| 
-|![permata_bank](https://static.openfintech.io/payout_methods/permata_bank/icon.svg?w=278&c=v0.59.26#w40) |[permata_bank](payout-methodspermata_bank/)|`permata_bank`| 
-|![industrial_and_commercial_bank_of_china](https://static.openfintech.io/payout_methods/industrial_and_commercial_bank_of_china/icon.svg?w=278&c=v0.59.26#w40) |[industrial_and_commercial_bank_of_china](payout-methodsindustrial_and_commercial_bank_of_china/)|`industrial_and_commercial_bank_of_china`| 
-|![bank_of_china](https://static.openfintech.io/payout_methods/bank_of_china/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_china](payout-methodsbank_of_china/)|`bank_of_china`| 
-|![bank_of_communication](https://static.openfintech.io/payout_methods/bank_of_communication/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_communication](payout-methodsbank_of_communication/)|`bank_of_communication`| 
 |![china_citic_bank](https://static.openfintech.io/payout_methods/china_citic_bank/icon.svg?w=278&c=v0.59.26#w40) |[china_citic_bank](payout-methodschina_citic_bank/)|`china_citic_bank`| 
-|![china_everbright_bank](https://static.openfintech.io/payout_methods/china_everbright_bank/icon.svg?w=278&c=v0.59.26#w40) |[china_everbright_bank](payout-methodschina_everbright_bank/)|`china_everbright_bank`| 
-|![shanghai_pudong_development_bank](https://static.openfintech.io/payout_methods/shanghai_pudong_development_bank/icon.svg?w=278&c=v0.59.26#w40) |[shanghai_pudong_development_bank](payout-methodsshanghai_pudong_development_bank/)|`shanghai_pudong_development_bank`| 
 |![china_guangfa_bank](https://static.openfintech.io/payout_methods/china_guangfa_bank/icon.png?w=278&c=v0.59.26#w40) |[china_guangfa_bank](payout-methodschina_guangfa_bank/)|`china_guangfa_bank`| 
-|![beijing_rural_commercial_bank](https://static.openfintech.io/payout_methods/beijing_rural_commercial_bank/icon.svg?w=278&c=v0.59.26#w40) |[beijing_rural_commercial_bank](payout-methodsbeijing_rural_commercial_bank/)|`beijing_rural_commercial_bank`| 
-|![bank_of_ningbo](https://static.openfintech.io/payout_methods/bank_of_ningbo/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_ningbo](payout-methodsbank_of_ningbo/)|`bank_of_ningbo`| 
-|![ping_an_bank](https://static.openfintech.io/payout_methods/ping_an_bank/icon.svg?w=278&c=v0.59.26#w40) |[ping_an_bank](payout-methodsping_an_bank/)|`ping_an_bank`| 
-|![china_zheshang_bank](https://static.openfintech.io/payout_methods/china_zheshang_bank/icon.svg?w=278&c=v0.59.26#w40) |[china_zheshang_bank](payout-methodschina_zheshang_bank/)|`china_zheshang_bank`| 
-|![bank_of_guangzhou](https://static.openfintech.io/payout_methods/bank_of_guangzhou/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_guangzhou](payout-methodsbank_of_guangzhou/)|`bank_of_guangzhou`| 
-|![china_minsheng_bank](https://static.openfintech.io/payout_methods/china_minsheng_bank/icon.svg?w=278&c=v0.59.26#w40) |[china_minsheng_bank](payout-methodschina_minsheng_bank/)|`china_minsheng_bank`| 
 |![china_merchants_bank](https://static.openfintech.io/payout_methods/china_merchants_bank/icon.svg?w=278&c=v0.59.26#w40) |[china_merchants_bank](payout-methodschina_merchants_bank/)|`china_merchants_bank`| 
-|![bank_of_dalian](https://static.openfintech.io/payout_methods/bank_of_dalian/icon.png?w=278&c=v0.59.26#w40) |[bank_of_dalian](payout-methodsbank_of_dalian/)|`bank_of_dalian`| 
-|![zhuhai_rural_credit_cooperatives](https://static.openfintech.io/payout_methods/zhuhai_rural_credit_cooperatives/icon.png?w=278&c=v0.59.26#w40) |[zhuhai_rural_credit_cooperatives](payout-methodszhuhai_rural_credit_cooperatives/)|`zhuhai_rural_credit_cooperatives`| 
-|![hankou_bank](https://static.openfintech.io/payout_methods/hankou_bank/icon.svg?w=278&c=v0.59.26#w40) |[hankou_bank](payout-methodshankou_bank/)|`hankou_bank`| 
+|![bank_of_china](https://static.openfintech.io/payout_methods/bank_of_china/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_china](payout-methodsbank_of_china/)|`bank_of_china`| 
 |![agricultural_bank_of_china](https://static.openfintech.io/payout_methods/agricultural_bank_of_china/icon.svg?w=278&c=v0.59.26#w40) |[agricultural_bank_of_china](payout-methodsagricultural_bank_of_china/)|`agricultural_bank_of_china`| 
+|![china_everbright_bank](https://static.openfintech.io/payout_methods/china_everbright_bank/icon.svg?w=278&c=v0.59.26#w40) |[china_everbright_bank](payout-methodschina_everbright_bank/)|`china_everbright_bank`| 
 |![china_construction_bank](https://static.openfintech.io/payout_methods/china_construction_bank/icon.svg?w=278&c=v0.59.26#w40) |[china_construction_bank](payout-methodschina_construction_bank/)|`china_construction_bank`| 
-|![china_industrial_bank](https://static.openfintech.io/payout_methods/china_industrial_bank/icon.svg?w=278&c=v0.59.26#w40) |[china_industrial_bank](payout-methodschina_industrial_bank/)|`china_industrial_bank`| 
-|![bank_of_east_asia](https://static.openfintech.io/payout_methods/bank_of_east_asia/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_east_asia](payout-methodsbank_of_east_asia/)|`bank_of_east_asia`| 
-|![shanghai_rural_commercial_bank](https://static.openfintech.io/payout_methods/shanghai_rural_commercial_bank/icon.png?w=278&c=v0.59.26#w40) |[shanghai_rural_commercial_bank](payout-methodsshanghai_rural_commercial_bank/)|`shanghai_rural_commercial_bank`| 
-|![china_bohai_bank](https://static.openfintech.io/payout_methods/china_bohai_bank/icon.svg?w=278&c=v0.59.26#w40) |[china_bohai_bank](payout-methodschina_bohai_bank/)|`china_bohai_bank`| 
-|![bank_of_nanjing](https://static.openfintech.io/payout_methods/bank_of_nanjing/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_nanjing](payout-methodsbank_of_nanjing/)|`bank_of_nanjing`| 
-|![hangzhou_city_commercial_bank](https://static.openfintech.io/payout_methods/hangzhou_city_commercial_bank/icon.png?w=278&c=v0.59.26#w40) |[hangzhou_city_commercial_bank](payout-methodshangzhou_city_commercial_bank/)|`hangzhou_city_commercial_bank`| 
-|![huishang_bank](https://static.openfintech.io/payout_methods/huishang_bank/icon.svg?w=278&c=v0.59.26#w40) |[huishang_bank](payout-methodshuishang_bank/)|`huishang_bank`| 
-|![bank_of_shanghai](https://static.openfintech.io/payout_methods/bank_of_shanghai/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_shanghai](payout-methodsbank_of_shanghai/)|`bank_of_shanghai`| 
-|![bank_of_chengdu](https://static.openfintech.io/payout_methods/bank_of_chengdu/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_chengdu](payout-methodsbank_of_chengdu/)|`bank_of_chengdu`| 
-|![shenzhen_develop_bank](https://static.openfintech.io/payout_methods/shenzhen_develop_bank/icon.svg?w=278&c=v0.59.26#w40) |[shenzhen_develop_bank](payout-methodsshenzhen_develop_bank/)|`shenzhen_develop_bank`| 
-|![bank_of_beijing](https://static.openfintech.io/payout_methods/bank_of_beijing/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_beijing](payout-methodsbank_of_beijing/)|`bank_of_beijing`| 
+|![ping_an_bank](https://static.openfintech.io/payout_methods/ping_an_bank/icon.svg?w=278&c=v0.59.26#w40) |[ping_an_bank](payout-methodsping_an_bank/)|`ping_an_bank`| 
+|![bank_of_communication](https://static.openfintech.io/payout_methods/bank_of_communication/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_communication](payout-methodsbank_of_communication/)|`bank_of_communication`| 
+|![industrial_and_commercial_bank_of_china](https://static.openfintech.io/payout_methods/industrial_and_commercial_bank_of_china/icon.svg?w=278&c=v0.59.26#w40) |[industrial_and_commercial_bank_of_china](payout-methodsindustrial_and_commercial_bank_of_china/)|`industrial_and_commercial_bank_of_china`| 
+|![shanghai_pudong_development_bank](https://static.openfintech.io/payout_methods/shanghai_pudong_development_bank/icon.svg?w=278&c=v0.59.26#w40) |[shanghai_pudong_development_bank](payout-methodsshanghai_pudong_development_bank/)|`shanghai_pudong_development_bank`| 
+|![china_minsheng_bank](https://static.openfintech.io/payout_methods/china_minsheng_bank/icon.svg?w=278&c=v0.59.26#w40) |[china_minsheng_bank](payout-methodschina_minsheng_bank/)|`china_minsheng_bank`| 
 |![bank_of_jiangsu](https://static.openfintech.io/payout_methods/bank_of_jiangsu/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_jiangsu](payout-methodsbank_of_jiangsu/)|`bank_of_jiangsu`| 
-|![shude_rural_credit_union](https://static.openfintech.io/payout_methods/shude_rural_credit_union/icon.svg?w=278&c=v0.59.26#w40) |[shude_rural_credit_union](payout-methodsshude_rural_credit_union/)|`shude_rural_credit_union`| 
-|![yaodu_rural_credit_union](https://static.openfintech.io/payout_methods/yaodu_rural_credit_union/icon.svg?w=278&c=v0.59.26#w40) |[yaodu_rural_credit_union](payout-methodsyaodu_rural_credit_union/)|`yaodu_rural_credit_union`| 
 |![jin_shang_commercial_bank](https://static.openfintech.io/payout_methods/jin_shang_commercial_bank/icon.png?w=278&c=v0.59.26#w40) |[jin_shang_commercial_bank](payout-methodsjin_shang_commercial_bank/)|`jin_shang_commercial_bank`| 
+|![yaodu_rural_credit_union](https://static.openfintech.io/payout_methods/yaodu_rural_credit_union/icon.svg?w=278&c=v0.59.26#w40) |[yaodu_rural_credit_union](payout-methodsyaodu_rural_credit_union/)|`yaodu_rural_credit_union`| 
+|![shude_rural_credit_union](https://static.openfintech.io/payout_methods/shude_rural_credit_union/icon.svg?w=278&c=v0.59.26#w40) |[shude_rural_credit_union](payout-methodsshude_rural_credit_union/)|`shude_rural_credit_union`| 
+|![bank_of_beijing](https://static.openfintech.io/payout_methods/bank_of_beijing/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_beijing](payout-methodsbank_of_beijing/)|`bank_of_beijing`| 
+|![shenzhen_develop_bank](https://static.openfintech.io/payout_methods/shenzhen_develop_bank/icon.svg?w=278&c=v0.59.26#w40) |[shenzhen_develop_bank](payout-methodsshenzhen_develop_bank/)|`shenzhen_develop_bank`| 
+|![bank_of_chengdu](https://static.openfintech.io/payout_methods/bank_of_chengdu/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_chengdu](payout-methodsbank_of_chengdu/)|`bank_of_chengdu`| 
+|![bank_of_shanghai](https://static.openfintech.io/payout_methods/bank_of_shanghai/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_shanghai](payout-methodsbank_of_shanghai/)|`bank_of_shanghai`| 
+|![huishang_bank](https://static.openfintech.io/payout_methods/huishang_bank/icon.svg?w=278&c=v0.59.26#w40) |[huishang_bank](payout-methodshuishang_bank/)|`huishang_bank`| 
+|![hangzhou_city_commercial_bank](https://static.openfintech.io/payout_methods/hangzhou_city_commercial_bank/icon.png?w=278&c=v0.59.26#w40) |[hangzhou_city_commercial_bank](payout-methodshangzhou_city_commercial_bank/)|`hangzhou_city_commercial_bank`| 
+|![bank_of_nanjing](https://static.openfintech.io/payout_methods/bank_of_nanjing/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_nanjing](payout-methodsbank_of_nanjing/)|`bank_of_nanjing`| 
+|![china_bohai_bank](https://static.openfintech.io/payout_methods/china_bohai_bank/icon.svg?w=278&c=v0.59.26#w40) |[china_bohai_bank](payout-methodschina_bohai_bank/)|`china_bohai_bank`| 
+|![shanghai_rural_commercial_bank](https://static.openfintech.io/payout_methods/shanghai_rural_commercial_bank/icon.png?w=278&c=v0.59.26#w40) |[shanghai_rural_commercial_bank](payout-methodsshanghai_rural_commercial_bank/)|`shanghai_rural_commercial_bank`| 
+|![bank_of_east_asia](https://static.openfintech.io/payout_methods/bank_of_east_asia/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_east_asia](payout-methodsbank_of_east_asia/)|`bank_of_east_asia`| 
+|![zhuhai_rural_credit_cooperatives](https://static.openfintech.io/payout_methods/zhuhai_rural_credit_cooperatives/icon.png?w=278&c=v0.59.26#w40) |[zhuhai_rural_credit_cooperatives](payout-methodszhuhai_rural_credit_cooperatives/)|`zhuhai_rural_credit_cooperatives`| 
 |![siam_commercial_bank](https://static.openfintech.io/payout_methods/siam_commercial_bank/icon.svg?w=278&c=v0.59.26#w40) |[siam_commercial_bank](payout-methodssiam_commercial_bank/)|`siam_commercial_bank`| 
 |![krung_thai_bank](https://static.openfintech.io/payout_methods/krung_thai_bank/icon.svg?w=278&c=v0.59.26#w40) |[krung_thai_bank](payout-methodskrung_thai_bank/)|`krung_thai_bank`| 
 |![krungsri](https://static.openfintech.io/payout_methods/krungsri/icon.png?w=278&c=v0.59.26#w40) |[krungsri](payout-methodskrungsri/)|`krungsri`| 
-|![bangko_bank](https://static.openfintech.io/payout_methods/bangko_bank/icon.svg?w=278&c=v0.59.26#w40) |[bangko_bank](payout-methodsbangko_bank/)|`bangko_bank`| 
 |![kasikorn_bank](https://static.openfintech.io/payout_methods/kasikorn_bank/icon.svg?w=278&c=v0.59.26#w40) |[kasikorn_bank](payout-methodskasikorn_bank/)|`kasikorn_bank`| 
+|![bangko_bank](https://static.openfintech.io/payout_methods/bangko_bank/icon.svg?w=278&c=v0.59.26#w40) |[bangko_bank](payout-methodsbangko_bank/)|`bangko_bank`| 
+|![united_overseas_bank](https://static.openfintech.io/payout_methods/united_overseas_bank/icon.svg?w=278&c=v0.59.26#w40) |[united_overseas_bank](payout-methodsunited_overseas_bank/)|`united_overseas_bank`| 
+|![public_bank_berhad](https://static.openfintech.io/payout_methods/public_bank_berhad/icon.png?w=278&c=v0.59.26#w40) |[public_bank_berhad](payout-methodspublic_bank_berhad/)|`public_bank_berhad`| 
 |![cimb_bank](https://static.openfintech.io/payout_methods/cimb_bank/icon.png?w=278&c=v0.59.26#w40) |[cimb_bank](payout-methodscimb_bank/)|`cimb_bank`| 
+|![rhb_bank](https://static.openfintech.io/payout_methods/rhb_bank/icon.svg?w=278&c=v0.59.26#w40) |[rhb_bank](payout-methodsrhb_bank/)|`rhb_bank`| 
 |![hong_leong_bank](https://static.openfintech.io/payout_methods/hong_leong_bank/icon.svg?w=278&c=v0.59.26#w40) |[hong_leong_bank](payout-methodshong_leong_bank/)|`hong_leong_bank`| 
 |![may_bank](https://static.openfintech.io/payout_methods/may_bank/icon.svg?w=278&c=v0.59.26#w40) |[may_bank](payout-methodsmay_bank/)|`may_bank`| 
-|![public_bank_berhad](https://static.openfintech.io/payout_methods/public_bank_berhad/icon.png?w=278&c=v0.59.26#w40) |[public_bank_berhad](payout-methodspublic_bank_berhad/)|`public_bank_berhad`| 
-|![rhb_bank](https://static.openfintech.io/payout_methods/rhb_bank/icon.svg?w=278&c=v0.59.26#w40) |[rhb_bank](payout-methodsrhb_bank/)|`rhb_bank`| 
 |![acb_bank](https://static.openfintech.io/payout_methods/acb_bank/icon.svg?w=278&c=v0.59.26#w40) |[acb_bank](payout-methodsacb_bank/)|`acb_bank`| 
 |![vietcom_bank](https://static.openfintech.io/payout_methods/vietcom_bank/icon.svg?w=278&c=v0.59.26#w40) |[vietcom_bank](payout-methodsvietcom_bank/)|`vietcom_bank`| 
 |![vietin_bank](https://static.openfintech.io/payout_methods/vietin_bank/icon.png?w=278&c=v0.59.26#w40) |[vietin_bank](payout-methodsvietin_bank/)|`vietin_bank`| 
@@ -348,58 +334,44 @@ The list of supported [Payout Methods](/payout-methods/)
     "unionpay_qr"
   ],
   "payout_method":[
-    "bank_central_asia",
-    "bank_negara_indonesia",
-    "bank_rakyat_indonesia",
-    "btn_bank",
-    "cimb_clicks_indonesia",
-    "danamon_bank",
-    "mandiri_bank",
-    "permata_bank",
-    "industrial_and_commercial_bank_of_china",
-    "bank_of_china",
-    "bank_of_communication",
     "china_citic_bank",
-    "china_everbright_bank",
-    "shanghai_pudong_development_bank",
     "china_guangfa_bank",
-    "beijing_rural_commercial_bank",
-    "bank_of_ningbo",
-    "ping_an_bank",
-    "china_zheshang_bank",
-    "bank_of_guangzhou",
-    "china_minsheng_bank",
     "china_merchants_bank",
-    "bank_of_dalian",
-    "zhuhai_rural_credit_cooperatives",
-    "hankou_bank",
+    "bank_of_china",
     "agricultural_bank_of_china",
+    "china_everbright_bank",
     "china_construction_bank",
-    "china_industrial_bank",
-    "bank_of_east_asia",
-    "shanghai_rural_commercial_bank",
-    "china_bohai_bank",
-    "bank_of_nanjing",
-    "hangzhou_city_commercial_bank",
-    "huishang_bank",
-    "bank_of_shanghai",
-    "bank_of_chengdu",
-    "shenzhen_develop_bank",
-    "bank_of_beijing",
+    "ping_an_bank",
+    "bank_of_communication",
+    "industrial_and_commercial_bank_of_china",
+    "shanghai_pudong_development_bank",
+    "china_minsheng_bank",
     "bank_of_jiangsu",
-    "shude_rural_credit_union",
-    "yaodu_rural_credit_union",
     "jin_shang_commercial_bank",
+    "yaodu_rural_credit_union",
+    "shude_rural_credit_union",
+    "bank_of_beijing",
+    "shenzhen_develop_bank",
+    "bank_of_chengdu",
+    "bank_of_shanghai",
+    "huishang_bank",
+    "hangzhou_city_commercial_bank",
+    "bank_of_nanjing",
+    "china_bohai_bank",
+    "shanghai_rural_commercial_bank",
+    "bank_of_east_asia",
+    "zhuhai_rural_credit_cooperatives",
     "siam_commercial_bank",
     "krung_thai_bank",
     "krungsri",
-    "bangko_bank",
     "kasikorn_bank",
+    "bangko_bank",
+    "united_overseas_bank",
+    "public_bank_berhad",
     "cimb_bank",
+    "rhb_bank",
     "hong_leong_bank",
     "may_bank",
-    "public_bank_berhad",
-    "rhb_bank",
     "acb_bank",
     "vietcom_bank",
     "vietin_bank",

@@ -46,7 +46,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
-|![payment_card_email](https://static.openfintech.io/payment_methods/payment_card_email/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_email](/payment-methods/payment_card_email/)|`payment_card_email`| 
+|![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller](/payment-methods/neteller/)|`neteller`| 
 |![paypal](https://static.openfintech.io/payment_methods/paypal/icon.svg?w=278&c=v0.59.26#w100) |[paypal](/payment-methods/paypal/)|`paypal`| 
  
 
@@ -75,7 +75,7 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "payment_method":[
     "payment_card",
-    "payment_card_email",
+    "neteller",
     "paypal"
   ],
   "payout_method":[

@@ -52,6 +52,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Sofort_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![ppro](https://static.openfintech.io/payment_providers/ppro/icon.svg?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
+|![micropayments](https://static.openfintech.io/payment_providers/micropayments/icon.svg?w=278&c=v0.59.26#w100) |[MicroPayments](/payment-providers/micropayments/)|`micropayments`| 
  
 
 ## JSON Object 

@@ -75,14 +75,14 @@ The list of supported [Payout Methods](/payout-methods/)
 |![beeline](https://static.openfintech.io/payout_methods/beeline/icon.svg?w=278&c=v0.59.26#w40) |[beeline](payout-methodsbeeline/)|`beeline`| 
 |![mts](https://static.openfintech.io/payout_methods/mts/icon.svg?w=278&c=v0.59.26#w40) |[mts](payout-methodsmts/)|`mts`| 
 |![megafon](https://static.openfintech.io/payout_methods/megafon/icon.svg?w=278&c=v0.59.26#w40) |[megafon](payout-methodsmegafon/)|`megafon`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
+|![yandexmoney](https://static.openfintech.io/payout_methods/yandexmoney/icon.svg?w=278&c=v0.59.26#w40) |[yandexmoney](payout-methodsyandexmoney/)|`yandexmoney`| 
 |![advcash_wallet](https://static.openfintech.io/payout_methods/advcash_wallet/icon.svg?w=278&c=v0.59.26#w40) |[advcash_wallet](payout-methodsadvcash_wallet/)|`advcash_wallet`| 
 |![tele2ru](https://static.openfintech.io/payout_methods/tele2ru/icon.svg?w=278&c=v0.59.26#w40) |[tele2ru](payout-methodstele2ru/)|`tele2ru`| 
 |![bitcoin](https://static.openfintech.io/payout_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w40) |[bitcoin](payout-methodsbitcoin/)|`bitcoin`| 
 |![ethereum](https://static.openfintech.io/payout_methods/ethereum/icon.svg?w=278&c=v0.59.26#w40) |[ethereum](payout-methodsethereum/)|`ethereum`| 
 |![bitcoin_cash](https://static.openfintech.io/payout_methods/bitcoin_cash/icon.png?w=278&c=v0.59.26#w40) |[bitcoin_cash](payout-methodsbitcoin_cash/)|`bitcoin_cash`| 
 |![litecoin](https://static.openfintech.io/payout_methods/litecoin/icon.png?w=278&c=v0.59.26#w40) |[litecoin](payout-methodslitecoin/)|`litecoin`| 
-|![dash](https://static.openfintech.io/payout_methods/dash/icon.png?w=278&c=v0.59.26#w40) |[dash](payout-methodsdash/)|`dash`| 
-|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
  
 
 ## JSON Object 
@@ -125,14 +125,14 @@ The list of supported [Payout Methods](/payout-methods/)
     "beeline",
     "mts",
     "megafon",
+    "payment_card",
+    "yandexmoney",
     "advcash_wallet",
     "tele2ru",
     "bitcoin",
     "ethereum",
     "bitcoin_cash",
-    "litecoin",
-    "dash",
-    "payment_card"
+    "litecoin"
   ],
   "metadata":null,
   "name":{

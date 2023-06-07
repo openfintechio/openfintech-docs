@@ -37,15 +37,6 @@ https://static.openfintech.io/payment_methods/zimpler/logo.png?w=400&c=v0.59.26#
 https://static.openfintech.io/payment_methods/zimpler/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payment Providers 
- 
-The list of [Payment Providers](/payment-providers/) that support the _Zimpler_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
- 
-
 ## JSON Object 
 
 ```json

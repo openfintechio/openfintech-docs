@@ -74,7 +74,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Dankort_
 |![aretosystems](https://static.openfintech.io/payment_providers/aretosystems/icon.png?w=278&c=v0.59.26#w100) |[Areto Systems](/payment-providers/aretosystems/)|`aretosystems`| 
 |![quickpay](https://static.openfintech.io/payment_providers/quickpay/icon.png?w=278&c=v0.59.26#w100) |[QuickPay](/payment-providers/quickpay/)|`quickpay`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
  
 
 ## JSON Object 

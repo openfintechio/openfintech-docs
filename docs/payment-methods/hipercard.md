@@ -58,7 +58,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Hipercard
 |![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.png?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
 |![computop](https://static.openfintech.io/payment_providers/computop/icon.png?w=278&c=v0.59.26#w100) |[Computop](/payment-providers/computop/)|`computop`| 
 |![ebanx](https://static.openfintech.io/payment_providers/ebanx/icon.png?w=278&c=v0.59.26#w100) |[EBANX](/payment-providers/ebanx/)|`ebanx`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
  
 
 ## JSON Object 

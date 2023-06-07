@@ -53,6 +53,26 @@ The list of supported [Payment Methods](/payment-methods/)
 |![phonepe](https://static.openfintech.io/payment_methods/phonepe/icon.svg?w=278&c=v0.59.26#w100) |[phonepe](/payment-methods/phonepe/)|`phonepe`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
+|![cash](https://static.openfintech.io/payout_methods/cash/icon.png?w=278&c=v0.59.26#w40) |[cash](payout-methodscash/)|`cash`| 
+|![wise](https://static.openfintech.io/payout_methods/wise/icon.svg?w=278&c=v0.59.26#w40) |[wise](payout-methodswise/)|`wise`| 
+|![advcash_wallet](https://static.openfintech.io/payout_methods/advcash_wallet/icon.svg?w=278&c=v0.59.26#w40) |[advcash_wallet](payout-methodsadvcash_wallet/)|`advcash_wallet`| 
+|![mobile](https://static.openfintech.io/payout_methods/mobile/icon.svg?w=278&c=v0.59.26#w40) |[mobile](payout-methodsmobile/)|`mobile`| 
+|![upi](https://static.openfintech.io/payout_methods/upi/icon.svg?w=278&c=v0.59.26#w40) |[upi](payout-methodsupi/)|`upi`| 
+|![neft](https://static.openfintech.io/payout_methods/neft/icon.svg?w=278&c=v0.59.26#w40) |[neft](payout-methodsneft/)|`neft`| 
+|![paytm](https://static.openfintech.io/payout_methods/paytm/icon.svg?w=278&c=v0.59.26#w40) |[paytm](payout-methodspaytm/)|`paytm`| 
+|![imps](https://static.openfintech.io/payout_methods/imps/icon.png?w=278&c=v0.59.26#w40) |[imps](payout-methodsimps/)|`imps`| 
+|![rtgs](https://static.openfintech.io/payout_methods/rtgs/icon.svg?w=278&c=v0.59.26#w40) |[rtgs](payout-methodsrtgs/)|`rtgs`| 
+|![phonepe](https://static.openfintech.io/payout_methods/phonepe/icon.svg?w=278&c=v0.59.26#w40) |[phonepe](payout-methodsphonepe/)|`phonepe`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -76,7 +96,20 @@ The list of supported [Payment Methods](/payment-methods/)
     "rtgs",
     "phonepe"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "bank_transfer",
+    "payment_card",
+    "cash",
+    "wise",
+    "advcash_wallet",
+    "mobile",
+    "upi",
+    "neft",
+    "paytm",
+    "imps",
+    "rtgs",
+    "phonepe"
+  ],
   "metadata":null,
   "name":{
     "en":"PayPort",

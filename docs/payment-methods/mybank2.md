@@ -51,7 +51,6 @@ The list of [Payment Providers](/payment-providers/) that support the _MyBank_
 |![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.png?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
 |![computop](https://static.openfintech.io/payment_providers/computop/icon.png?w=278&c=v0.59.26#w100) |[Computop](/payment-providers/computop/)|`computop`| 
 |![easypaymentgateway](https://static.openfintech.io/payment_providers/easypaymentgateway/icon.png?w=278&c=v0.59.26#w100) |[Easy Payment Gateway](/payment-providers/easypaymentgateway/)|`easypaymentgateway`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
  
 
 ## JSON Object 

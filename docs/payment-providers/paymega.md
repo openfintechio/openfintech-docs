@@ -43,7 +43,7 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bank_card](https://static.openfintech.io/payment_methods/bank_card/icon.svg?w=278&c=v0.59.26#w100) |[bank_card](/payment-methods/bank_card/)|`bank_card`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
  
 
 ## Payout Methods 
@@ -52,8 +52,8 @@ The list of supported [Payout Methods](/payout-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bank_card](https://static.openfintech.io/payout_methods/bank_card/icon.svg?w=278&c=v0.59.26#w40) |[bank_card](payout-methodsbank_card/)|`bank_card`| 
-|![qiwi](https://static.openfintech.io/payout_methods/qiwi/icon.svg?w=278&c=v0.59.26#w40) |[qiwi](payout-methodsqiwi/)|`qiwi`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
+|![yandexmoney](https://static.openfintech.io/payout_methods/yandexmoney/icon.svg?w=278&c=v0.59.26#w40) |[yandexmoney](payout-methodsyandexmoney/)|`yandexmoney`| 
  
 
 ## JSON Object 
@@ -70,11 +70,11 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "countries":null,
   "payment_method":[
-    "bank_card"
+    "payment_card"
   ],
   "payout_method":[
-    "bank_card",
-    "qiwi"
+    "payment_card",
+    "yandexmoney"
   ],
   "metadata":null,
   "name":{

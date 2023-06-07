@@ -41,8 +41,8 @@ The list of supported [Payout Methods](/payout-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![parimatch-loto](https://static.openfintech.io/payout_methods/parimatch-loto/icon.svg?w=278&c=v0.59.26#w40) |[parimatch-loto](payout-methodsparimatch-loto/)|`parimatch-loto`| 
 |![parimatch_account](https://static.openfintech.io/payout_methods/parimatch_account/icon.svg?w=278&c=v0.59.26#w40) |[parimatch_account](payout-methodsparimatch_account/)|`parimatch_account`| 
+|![pokermatch_account](https://static.openfintech.io/payout_methods/pokermatch_account/icon.svg?w=278&c=v0.59.26#w40) |[pokermatch_account](payout-methodspokermatch_account/)|`pokermatch_account`| 
  
 
 ## JSON Object 
@@ -58,8 +58,8 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "payment_method":null,
   "payout_method":[
-    "parimatch-loto",
-    "parimatch_account"
+    "parimatch_account",
+    "pokermatch_account"
   ],
   "metadata":null,
   "name":{

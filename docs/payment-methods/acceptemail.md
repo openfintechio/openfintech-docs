@@ -48,7 +48,6 @@ The list of [Payment Providers](/payment-providers/) that support the _AcceptEma
 |![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
 |![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
  
 
 ## JSON Object 

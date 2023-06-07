@@ -39,15 +39,6 @@ The list of [Payment Services](/payment-services/) based on the _Coins.ph_
 |![coins_ph](https://static.openfintech.io/payment_methods/coins_ph/icon.png?w=278&c=v0.59.26#w100) |[coins_ph_php_hpp](/payment-services/coins_ph_php_hpp/)|`coins_ph_php_hpp`| 
  
 
-## Payment Providers 
- 
-The list of [Payment Providers](/payment-providers/) that support the _Coins.ph_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
- 
-
 ## JSON Object 
 
 ```json

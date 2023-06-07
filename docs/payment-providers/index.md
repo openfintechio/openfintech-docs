@@ -39,6 +39,7 @@
 |![alfabank](https://static.openfintech.io/payment_providers/alfabank/logo.svg?w=600&c=v0.59.26#w100) |[**Sense Bank**](alfabank/)|`alfabank`| 
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/logo.png?w=600&c=v0.59.26#w100) |[**ALGOCHARGE**](algocharge/)|`algocharge`| 
 |![alikassa](https://static.openfintech.io/payment_providers/alikassa/logo.svg?w=600&c=v0.59.26#w100) |[**AliKassa**](alikassa/)|`alikassa`| 
+|![aliumpay](https://static.openfintech.io/payment_providers/aliumpay/logo.svg?w=600&c=v0.59.26#w100) |[**AliumPay**](aliumpay/)|`aliumpay`| 
 |![allchargecom](https://static.openfintech.io/payment_providers/allchargecom/logo.png?w=600&c=v0.59.26#w100) |[**AllCharge.com**](allchargecom/)|`allchargecom`| 
 |![alliedwallet2](https://static.openfintech.io/payment_providers/alliedwallet2/logo.png?w=600&c=v0.59.26#w100) |[**Allied Wallet**](alliedwallet2/)|`alliedwallet2`| 
 |![allpago](https://static.openfintech.io/payment_providers/allpago/logo.png?w=600&c=v0.59.26#w100) |[**allpago - accept payments in Latin America**](allpago/)|`allpago`| 
@@ -724,6 +725,7 @@
 |![safecharge](https://static.openfintech.io/payment_providers/safecharge/logo.svg?w=600&c=v0.59.26#w100) |[**Nuvei**](safecharge/)|`safecharge`| 
 |![safetypay](https://static.openfintech.io/payment_providers/safetypay/logo.png?w=600&c=v0.59.26#w100) |[**SafetyPay**](safetypay/)|`safetypay`| 
 |![sagepay3](https://static.openfintech.io/payment_providers/sagepay3/logo.svg?w=600&c=v0.59.26#w100) |[**Sage Pay**](sagepay3/)|`sagepay3`| 
+|![saltarpay](https://static.openfintech.io/payment_providers/saltarpay/logo.png?w=600&c=v0.59.26#w100) |[**SaltarPay**](saltarpay/)|`saltarpay`| 
 |![satchelpay](https://static.openfintech.io/payment_providers/satchelpay/logo.png?w=600&c=v0.59.26#w100) |[**Satchel**](satchelpay/)|`satchelpay`| 
 |![sbm](https://static.openfintech.io/payment_providers/sbm/logo.png?w=600&c=v0.59.26#w100) |[**State Bank of Mauritius**](sbm/)|`sbm`| 
 |![sbpay](https://static.openfintech.io/payment_providers/sbpay/logo.png?w=600&c=v0.59.26#w100) |[**SBPay**](sbpay/)|`sbpay`| 

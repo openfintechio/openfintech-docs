@@ -84,6 +84,7 @@
 |![algocharge](https://static.openfintech.io/vendors/algocharge/logo.png?w=600&c=v0.59.26#w200) |[**ALGOCHARGE**](algocharge/)|`algocharge`| 
 |![alikassa](https://static.openfintech.io/vendors/alikassa/logo.svg?w=600&c=v0.59.26#w200) |[**AliKassa**](alikassa/)|`alikassa`| 
 |![alipay](https://static.openfintech.io/vendors/alipay/logo.svg?w=600&c=v0.59.26#w200) |[**Alipay.com**](alipay/)|`alipay`| 
+|![aliumpay](https://static.openfintech.io/vendors/aliumpay/logo.svg?w=600&c=v0.59.26#w200) |[**AliumPay**](aliumpay/)|`aliumpay`| 
 |![allchargecom](https://static.openfintech.io/vendors/allchargecom/logo.png?w=600&c=v0.59.26#w200) |[**AllCharge.com**](allchargecom/)|`allchargecom`| 
 |![alliedwallet2](https://static.openfintech.io/vendors/alliedwallet2/logo.png?w=600&c=v0.59.26#w200) |[**Allied Wallet**](alliedwallet2/)|`alliedwallet2`| 
 |![allpago](https://static.openfintech.io/vendors/allpago/logo.png?w=600&c=v0.59.26#w200) |[**allpago - accept payments in Latin America**](allpago/)|`allpago`| 
@@ -1601,6 +1602,7 @@
 |![safepay.ua](https://static.openfintech.io/vendors/safepay.ua/logo.svg?w=600&c=v0.59.26#w200) |[**SafePay**](safepay.ua/)|`safepay.ua`| 
 |![safetypay](https://static.openfintech.io/vendors/safetypay/logo.png?w=600&c=v0.59.26#w200) |[**SafetyPay**](safetypay/)|`safetypay`| 
 |![sagepay3](https://static.openfintech.io/vendors/sagepay3/logo.svg?w=600&c=v0.59.26#w200) |[**Sage Pay**](sagepay3/)|`sagepay3`| 
+|![saltarpay](https://static.openfintech.io/vendors/saltarpay/logo.png?w=600&c=v0.59.26#w200) |[**SaltarPay**](saltarpay/)|`saltarpay`| 
 |![santander](https://static.openfintech.io/vendors/santander/logo.png?w=600&c=v0.59.26#w200) |[**Santander**](santander/)|`santander`| 
 |![satchelpay](https://static.openfintech.io/vendors/satchelpay/logo.png?w=600&c=v0.59.26#w200) |[**Satchel**](satchelpay/)|`satchelpay`| 
 |![savechange.ru](https://static.openfintech.io/vendors/savechange.ru/logo.svg?w=600&c=v0.59.26#w200) |[**SaveChange**](savechange.ru/)|`savechange.ru`| 

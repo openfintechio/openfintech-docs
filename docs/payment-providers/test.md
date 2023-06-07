@@ -40,6 +40,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![test](https://static.openfintech.io/payment_methods/test/icon.svg?w=278&c=v0.59.26#w100) |[test](/payment-methods/test/)|`test`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
  
 
 ## Payout Methods 
@@ -48,7 +49,7 @@ The list of supported [Payout Methods](/payout-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![test](https://static.openfintech.io/payout_methods/test/icon.svg?w=278&c=v0.59.26#w40) |[test](payout-methodstest/)|`test`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
  
 
 ## JSON Object 
@@ -61,10 +62,11 @@ The list of supported [Payout Methods](/payout-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    "test"
+    "test",
+    "payment_card"
   ],
   "payout_method":[
-    "test"
+    "payment_card"
   ],
   "metadata":null,
   "name":{

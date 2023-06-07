@@ -48,7 +48,6 @@ The list of [Payment Providers](/payment-providers/) that support the _PostPay_
 |![intelligentpayments](https://static.openfintech.io/payment_providers/intelligentpayments/icon.png?w=278&c=v0.59.26#w100) |[Intelligent Payments](/payment-providers/intelligentpayments/)|`intelligentpayments`| 
 |![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.png?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
  
 
 ## JSON Object 

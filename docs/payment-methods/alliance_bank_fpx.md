@@ -37,6 +37,15 @@ The list of [Payment Services](/payment-services/) based on the _Alliance Bank (
 |![alliance_bank_fpx](https://static.openfintech.io/payment_methods/alliance_bank_fpx/icon.svg?w=278&c=v0.59.26#w100) |[alliance_bank_fpx_myr_hpp](/payment-services/alliance_bank_fpx_myr_hpp/)|`alliance_bank_fpx_myr_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Alliance Bank (FPX), Malaysia_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
+ 
+
 ## JSON Object 
 
 ```json

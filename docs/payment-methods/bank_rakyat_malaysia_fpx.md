@@ -37,6 +37,15 @@ The list of [Payment Services](/payment-services/) based on the _Bank Rakyat (FP
 |![bank_rakyat_malaysia_fpx](https://static.openfintech.io/payment_methods/bank_rakyat_malaysia_fpx/icon.svg?w=278&c=v0.59.26#w100) |[bank_rakyat_malaysia_fpx_myr_hpp](/payment-services/bank_rakyat_malaysia_fpx_myr_hpp/)|`bank_rakyat_malaysia_fpx_myr_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Bank Rakyat (FPX), Malaysia_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
+ 
+
 ## JSON Object 
 
 ```json

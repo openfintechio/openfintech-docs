@@ -58,7 +58,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Card tran
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![litepay](https://static.openfintech.io/payment_providers/litepay/icon.svg?w=278&c=v0.59.26#w100) |[LitePay](/payment-providers/litepay/)|`litepay`| 
-|![payelata](https://static.openfintech.io/payment_providers/payelata/icon.svg?w=278&c=v0.59.26#w100) |[Payelata](/payment-providers/payelata/)|`payelata`| 
 |![payport](https://static.openfintech.io/payment_providers/payport/icon.svg?w=278&c=v0.59.26#w100) |[PayPort](/payment-providers/payport/)|`payport`| 
  
 

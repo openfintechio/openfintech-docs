@@ -42,18 +42,6 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
-|![papara](https://static.openfintech.io/payment_methods/papara/icon.svg?w=278&c=v0.59.26#w100) |[papara](/payment-methods/papara/)|`papara`| 
-|![online_banking_qr](https://static.openfintech.io/payment_methods/online_banking_qr/icon.svg?w=278&c=v0.59.26#w100) |[online_banking_qr](/payment-methods/online_banking_qr/)|`online_banking_qr`| 
-|![cepbank](https://static.openfintech.io/payment_methods/cepbank/icon.png?w=278&c=v0.59.26#w100) |[cepbank](/payment-methods/cepbank/)|`cepbank`| 
-|![jeton_wallet](https://static.openfintech.io/payment_methods/jeton_wallet/icon.png?w=278&c=v0.59.26#w100) |[jeton_wallet](/payment-methods/jeton_wallet/)|`jeton_wallet`| 
-|![interac](https://static.openfintech.io/payment_methods/interac/icon.png?w=278&c=v0.59.26#w100) |[interac](/payment-methods/interac/)|`interac`| 
-|![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix](/payment-methods/pix/)|`pix`| 
-|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario](/payment-methods/boleto_bancario/)|`boleto_bancario`| 
-|![spei](https://static.openfintech.io/payment_methods/spei/icon.svg?w=278&c=v0.59.26#w100) |[spei](/payment-methods/spei/)|`spei`| 
-|![pagoefectivo_cip](https://static.openfintech.io/payment_methods/pagoefectivo_cip/icon.svg?w=278&c=v0.59.26#w100) |[pagoefectivo_cip](/payment-methods/pagoefectivo_cip/)|`pagoefectivo_cip`| 
-|![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi](/payment-methods/upi/)|`upi`| 
-|![community_bank](https://static.openfintech.io/payment_methods/community_bank/icon.svg?w=278&c=v0.59.26#w100) |[community_bank](/payment-methods/community_bank/)|`community_bank`| 
-|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
  
 
 ## Payout Methods 
@@ -98,19 +86,7 @@ The list of supported [Payout Methods](/payout-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    "payment_card",
-    "papara",
-    "online_banking_qr",
-    "cepbank",
-    "jeton_wallet",
-    "interac",
-    "pix",
-    "boleto_bancario",
-    "spei",
-    "pagoefectivo_cip",
-    "upi",
-    "community_bank",
-    "bank_transfer"
+    "payment_card"
   ],
   "payout_method":[
     "payment_card",

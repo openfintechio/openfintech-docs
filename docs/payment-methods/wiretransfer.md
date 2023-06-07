@@ -45,7 +45,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Wire Tran
 |![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
 |![cngpro](https://static.openfintech.io/payment_providers/cngpro/icon.png?w=278&c=v0.59.26#w100) |[CNG Pro](/payment-providers/cngpro/)|`cngpro`| 
-|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/icon.png?w=278&c=v0.59.26#w100) |[Buckaroo](/payment-providers/buckaroo/)|`buckaroo`| 
 |![smart2pay](https://static.openfintech.io/payment_providers/smart2pay/icon.png?w=278&c=v0.59.26#w100) |[Smart2Pay](/payment-providers/smart2pay/)|`smart2pay`| 
 |![g2apay](https://static.openfintech.io/payment_providers/g2apay/icon.png?w=278&c=v0.59.26#w100) |[G2A PAY](/payment-providers/g2apay/)|`g2apay`| 
@@ -61,7 +60,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Wire Tran
 |![allpago](https://static.openfintech.io/payment_providers/allpago/icon.png?w=278&c=v0.59.26#w100) |[allpago - accept payments in Latin America](/payment-providers/allpago/)|`allpago`| 
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.png?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
 |![2checkoutcom](https://static.openfintech.io/payment_providers/2checkoutcom/icon.svg?w=278&c=v0.59.26#w100) |[2Checkout](/payment-providers/2checkoutcom/)|`2checkoutcom`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
  
 
 ## JSON Object 

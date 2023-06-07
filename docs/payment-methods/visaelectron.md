@@ -53,8 +53,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Visa Elec
 |![merchantscout](https://static.openfintech.io/payment_providers/merchantscout/icon.png?w=278&c=v0.59.26#w100) |[MerchantScout](/payment-providers/merchantscout/)|`merchantscout`| 
 |![magnius](https://static.openfintech.io/payment_providers/magnius/icon.png?w=278&c=v0.59.26#w100) |[Magnius](/payment-providers/magnius/)|`magnius`| 
 |![iyzipayments](https://static.openfintech.io/payment_providers/iyzipayments/icon.png?w=278&c=v0.59.26#w100) |[iyzico](/payment-providers/iyzipayments/)|`iyzipayments`| 
-|![fondy](https://static.openfintech.io/payment_providers/fondy/icon.svg?w=278&c=v0.59.26#w100) |[FONDY](/payment-providers/fondy/)|`fondy`| 
-|![paydoo](https://static.openfintech.io/payment_providers/paydoo/icon.png?w=278&c=v0.59.26#w100) |[Paynt](/payment-providers/paydoo/)|`paydoo`| 
 |![dalberry](https://static.openfintech.io/payment_providers/dalberry/icon.png?w=278&c=v0.59.26#w100) |[Dalberry](/payment-providers/dalberry/)|`dalberry`| 
 |![mollie](https://static.openfintech.io/payment_providers/mollie/icon.png?w=278&c=v0.59.26#w100) |[Mollie](/payment-providers/mollie/)|`mollie`| 
 |![paynl](https://static.openfintech.io/payment_providers/paynl/icon.png?w=278&c=v0.59.26#w100) |[Pay.nl](/payment-providers/paynl/)|`paynl`| 
@@ -69,7 +67,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Visa Elec
 |![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
 |![lemonway](https://static.openfintech.io/payment_providers/lemonway/icon.png?w=278&c=v0.59.26#w100) |[Lemon Way](/payment-providers/lemonway/)|`lemonway`| 
 |![dalpay](https://static.openfintech.io/payment_providers/dalpay/icon.png?w=278&c=v0.59.26#w100) |[DalPay](/payment-providers/dalpay/)|`dalpay`| 
-|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/icon.png?w=278&c=v0.59.26#w100) |[Buckaroo](/payment-providers/buckaroo/)|`buckaroo`| 
 |![payu](https://static.openfintech.io/payment_providers/payu/icon.svg?w=278&c=v0.59.26#w100) |[PayU](/payment-providers/payu/)|`payu`| 
 |![docdatapayments](https://static.openfintech.io/payment_providers/docdatapayments/icon.png?w=278&c=v0.59.26#w100) |[docdata payments](/payment-providers/docdatapayments/)|`docdatapayments`| 
@@ -77,7 +74,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Visa Elec
 |![vantagepayments](https://static.openfintech.io/payment_providers/vantagepayments/icon.png?w=278&c=v0.59.26#w100) |[Vantage Payments](/payment-providers/vantagepayments/)|`vantagepayments`| 
 |![nextpay](https://static.openfintech.io/payment_providers/nextpay/icon.png?w=278&c=v0.59.26#w100) |[NextPay](/payment-providers/nextpay/)|`nextpay`| 
 |![smart2pay](https://static.openfintech.io/payment_providers/smart2pay/icon.png?w=278&c=v0.59.26#w100) |[Smart2Pay](/payment-providers/smart2pay/)|`smart2pay`| 
-|![skrill](https://static.openfintech.io/payment_providers/skrill/icon.svg?w=278&c=v0.59.26#w100) |[Skrill](/payment-providers/skrill/)|`skrill`| 
 |![intelligentpayments](https://static.openfintech.io/payment_providers/intelligentpayments/icon.png?w=278&c=v0.59.26#w100) |[Intelligent Payments](/payment-providers/intelligentpayments/)|`intelligentpayments`| 
 |![payvision](https://static.openfintech.io/payment_providers/payvision/icon.png?w=278&c=v0.59.26#w100) |[Payvision](/payment-providers/payvision/)|`payvision`| 
 |![g2apay](https://static.openfintech.io/payment_providers/g2apay/icon.png?w=278&c=v0.59.26#w100) |[G2A PAY](/payment-providers/g2apay/)|`g2apay`| 
@@ -107,7 +103,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Visa Elec
 |![ccvpay](https://static.openfintech.io/payment_providers/ccvpay/icon.png?w=278&c=v0.59.26#w100) |[CCV Pay](/payment-providers/ccvpay/)|`ccvpay`| 
 |![paymentbillsservice](https://static.openfintech.io/payment_providers/paymentbillsservice/icon.png?w=278&c=v0.59.26#w100) |[PaymentBillsService](/payment-providers/paymentbillsservice/)|`paymentbillsservice`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
 |![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.png?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
 |![fibonatix](https://static.openfintech.io/payment_providers/fibonatix/icon.png?w=278&c=v0.59.26#w100) |[Fibonatix](/payment-providers/fibonatix/)|`fibonatix`| 
  

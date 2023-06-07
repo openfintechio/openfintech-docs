@@ -46,14 +46,12 @@ The list of [Payment Providers](/payment-providers/) that support the _Yandex.Mo
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
-|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![walletone](https://static.openfintech.io/payment_providers/walletone/icon.svg?w=278&c=v0.59.26#w100) |[Wallet One](/payment-providers/walletone/)|`walletone`| 
 |![payboutique](https://static.openfintech.io/payment_providers/payboutique/icon.png?w=278&c=v0.59.26#w100) |[Payboutique ](/payment-providers/payboutique/)|`payboutique`| 
 |![klikpay](https://static.openfintech.io/payment_providers/klikpay/icon.png?w=278&c=v0.59.26#w100) |[Klik & Pay](/payment-providers/klikpay/)|`klikpay`| 
 |![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.png?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
 |![deprecated](https://static.openfintech.io/payment_providers/deprecated/icon.svg?w=278&c=v0.59.26#w100) |[ASSIST](/payment-providers/deprecated/)|`deprecated`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
 |![payeer](https://static.openfintech.io/payment_providers/payeer/icon.png?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
 |![piastrix](https://static.openfintech.io/payment_providers/piastrix/icon.svg?w=278&c=v0.59.26#w100) |[Piastrix](/payment-providers/piastrix/)|`piastrix`| 
 |![accentpay](https://static.openfintech.io/payment_providers/accentpay/icon.png?w=278&c=v0.59.26#w100) |[Accentpay](/payment-providers/accentpay/)|`accentpay`| 

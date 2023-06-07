@@ -40,6 +40,15 @@ The list of [Payment Services](/payment-services/) based on the _wallet_
 |![i_wallet](https://static.openfintech.io/payment_methods/i_wallet/icon.svg?w=278&c=v0.59.26#w100) |[i_wallet_usd_hpp](/payment-services/i_wallet_usd_hpp/)|`i_wallet_usd_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _wallet_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![zotapay](https://static.openfintech.io/payment_providers/zotapay/icon.png?w=278&c=v0.59.26#w100) |[Zotapay](/payment-providers/zotapay/)|`zotapay`| 
+ 
+
 ## JSON Object 
 
 ```json

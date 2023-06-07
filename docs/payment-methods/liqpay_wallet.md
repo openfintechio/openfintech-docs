@@ -42,6 +42,15 @@ The list of [Payment Services](/payment-services/) based on the _LiqPay wallet_
 |![liqpay_wallet](https://static.openfintech.io/payment_methods/liqpay_wallet/icon.svg?w=278&c=v0.59.26#w100) |[liqpay_wallet_rub_hpp](/payment-services/liqpay_wallet_rub_hpp/)|`liqpay_wallet_rub_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _LiqPay wallet_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![liqpay](https://static.openfintech.io/payment_providers/liqpay/icon.svg?w=278&c=v0.59.26#w100) |[LiqPay](/payment-providers/liqpay/)|`liqpay`| 
+ 
+
 ## JSON Object 
 
 ```json

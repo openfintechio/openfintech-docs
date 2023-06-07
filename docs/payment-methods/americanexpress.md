@@ -54,7 +54,6 @@ The list of [Payment Providers](/payment-providers/) that support the _American 
 |![merchantscout](https://static.openfintech.io/payment_providers/merchantscout/icon.png?w=278&c=v0.59.26#w100) |[MerchantScout](/payment-providers/merchantscout/)|`merchantscout`| 
 |![magnius](https://static.openfintech.io/payment_providers/magnius/icon.png?w=278&c=v0.59.26#w100) |[Magnius](/payment-providers/magnius/)|`magnius`| 
 |![iyzipayments](https://static.openfintech.io/payment_providers/iyzipayments/icon.png?w=278&c=v0.59.26#w100) |[iyzico](/payment-providers/iyzipayments/)|`iyzipayments`| 
-|![paydoo](https://static.openfintech.io/payment_providers/paydoo/icon.png?w=278&c=v0.59.26#w100) |[Paynt](/payment-providers/paydoo/)|`paydoo`| 
 |![dalberry](https://static.openfintech.io/payment_providers/dalberry/icon.png?w=278&c=v0.59.26#w100) |[Dalberry](/payment-providers/dalberry/)|`dalberry`| 
 |![ccnow](https://static.openfintech.io/payment_providers/ccnow/icon.png?w=278&c=v0.59.26#w100) |[CCNow](/payment-providers/ccnow/)|`ccnow`| 
 |![paymill](https://static.openfintech.io/payment_providers/paymill/icon.png?w=278&c=v0.59.26#w100) |[PAYMILL](/payment-providers/paymill/)|`paymill`| 
@@ -70,7 +69,6 @@ The list of [Payment Providers](/payment-providers/) that support the _American 
 |![lemonway](https://static.openfintech.io/payment_providers/lemonway/icon.png?w=278&c=v0.59.26#w100) |[Lemon Way](/payment-providers/lemonway/)|`lemonway`| 
 |![securenetllc](https://static.openfintech.io/payment_providers/securenetllc/icon.png?w=278&c=v0.59.26#w100) |[SecureNet LLC](/payment-providers/securenetllc/)|`securenetllc`| 
 |![dalpay](https://static.openfintech.io/payment_providers/dalpay/icon.png?w=278&c=v0.59.26#w100) |[DalPay](/payment-providers/dalpay/)|`dalpay`| 
-|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![spryng](https://static.openfintech.io/payment_providers/spryng/icon.png?w=278&c=v0.59.26#w100) |[Spryng Payments](/payment-providers/spryng/)|`spryng`| 
 |![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/icon.png?w=278&c=v0.59.26#w100) |[Buckaroo](/payment-providers/buckaroo/)|`buckaroo`| 
 |![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/icon.png?w=278&c=v0.59.26#w100) |[Alternative Payments](/payment-providers/alternativepayments/)|`alternativepayments`| 
@@ -80,7 +78,6 @@ The list of [Payment Providers](/payment-providers/) that support the _American 
 |![vantagepayments](https://static.openfintech.io/payment_providers/vantagepayments/icon.png?w=278&c=v0.59.26#w100) |[Vantage Payments](/payment-providers/vantagepayments/)|`vantagepayments`| 
 |![nextpay](https://static.openfintech.io/payment_providers/nextpay/icon.png?w=278&c=v0.59.26#w100) |[NextPay](/payment-providers/nextpay/)|`nextpay`| 
 |![smart2pay](https://static.openfintech.io/payment_providers/smart2pay/icon.png?w=278&c=v0.59.26#w100) |[Smart2Pay](/payment-providers/smart2pay/)|`smart2pay`| 
-|![skrill](https://static.openfintech.io/payment_providers/skrill/icon.svg?w=278&c=v0.59.26#w100) |[Skrill](/payment-providers/skrill/)|`skrill`| 
 |![intelligentpayments](https://static.openfintech.io/payment_providers/intelligentpayments/icon.png?w=278&c=v0.59.26#w100) |[Intelligent Payments](/payment-providers/intelligentpayments/)|`intelligentpayments`| 
 |![payvision](https://static.openfintech.io/payment_providers/payvision/icon.png?w=278&c=v0.59.26#w100) |[Payvision](/payment-providers/payvision/)|`payvision`| 
 |![g2apay](https://static.openfintech.io/payment_providers/g2apay/icon.png?w=278&c=v0.59.26#w100) |[G2A PAY](/payment-providers/g2apay/)|`g2apay`| 
@@ -92,7 +89,6 @@ The list of [Payment Providers](/payment-providers/) that support the _American 
 |![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
 |![ebillingsolutions](https://static.openfintech.io/payment_providers/ebillingsolutions/icon.png?w=278&c=v0.59.26#w100) |[EBS](/payment-providers/ebillingsolutions/)|`ebillingsolutions`| 
-|![maxpay](https://static.openfintech.io/payment_providers/maxpay/icon.svg?w=278&c=v0.59.26#w100) |[Maxpay](/payment-providers/maxpay/)|`maxpay`| 
 |![europeanmerchantservices](https://static.openfintech.io/payment_providers/europeanmerchantservices/icon.png?w=278&c=v0.59.26#w100) |[EMS](/payment-providers/europeanmerchantservices/)|`europeanmerchantservices`| 
 |![payrexx](https://static.openfintech.io/payment_providers/payrexx/icon.png?w=278&c=v0.59.26#w100) |[Payrexx Payments](/payment-providers/payrexx/)|`payrexx`| 
 |![alliedwallet2](https://static.openfintech.io/payment_providers/alliedwallet2/icon.png?w=278&c=v0.59.26#w100) |[Allied Wallet](/payment-providers/alliedwallet2/)|`alliedwallet2`| 
@@ -119,7 +115,6 @@ The list of [Payment Providers](/payment-providers/) that support the _American 
 |![payfort](https://static.openfintech.io/payment_providers/payfort/icon.png?w=278&c=v0.59.26#w100) |[PayFort](/payment-providers/payfort/)|`payfort`| 
 |![yuupay](https://static.openfintech.io/payment_providers/yuupay/icon.png?w=278&c=v0.59.26#w100) |[YuuPay ](/payment-providers/yuupay/)|`yuupay`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
 |![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.png?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
  
 

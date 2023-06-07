@@ -41,6 +41,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |:---:|:---:|:---:| 
 |![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix](/payment-methods/pix/)|`pix`| 
 |![spei](https://static.openfintech.io/payment_methods/spei/icon.svg?w=278&c=v0.59.26#w100) |[spei](/payment-methods/spei/)|`spei`| 
+|![pse](https://static.openfintech.io/payment_methods/pse/icon.svg?w=278&c=v0.59.26#w100) |[pse](/payment-methods/pse/)|`pse`| 
 |![banco_guayaquil](https://static.openfintech.io/payment_methods/banco_guayaquil/icon.svg?w=278&c=v0.59.26#w100) |[banco_guayaquil](/payment-methods/banco_guayaquil/)|`banco_guayaquil`| 
 |![banco_pichincha](https://static.openfintech.io/payment_methods/banco_pichincha/icon.svg?w=278&c=v0.59.26#w100) |[banco_pichincha](/payment-methods/banco_pichincha/)|`banco_pichincha`| 
 |![banco_bci](https://static.openfintech.io/payment_methods/banco_bci/icon.svg?w=278&c=v0.59.26#w100) |[banco_bci](/payment-methods/banco_bci/)|`banco_bci`| 
@@ -58,7 +59,6 @@ The list of supported [Payment Methods](/payment-methods/)
 |![scotiabank](https://static.openfintech.io/payment_methods/scotiabank/icon.svg?w=278&c=v0.59.26#w100) |[scotiabank](/payment-methods/scotiabank/)|`scotiabank`| 
 |![banco_nacional](https://static.openfintech.io/payment_methods/banco_nacional/icon.svg?w=278&c=v0.59.26#w100) |[banco_nacional](/payment-methods/banco_nacional/)|`banco_nacional`| 
 |![transfer_bancaria](https://static.openfintech.io/payment_methods/transfer_bancaria/icon.svg?w=278&c=v0.59.26#w100) |[transfer_bancaria](/payment-methods/transfer_bancaria/)|`transfer_bancaria`| 
-|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
  
 
 ## Payout Methods 
@@ -84,6 +84,7 @@ The list of supported [Payout Methods](/payout-methods/)
   "payment_method":[
     "pix",
     "spei",
+    "pse",
     "banco_guayaquil",
     "banco_pichincha",
     "banco_bci",
@@ -100,8 +101,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "interbank",
     "scotiabank",
     "banco_nacional",
-    "transfer_bancaria",
-    "bank_transfer"
+    "transfer_bancaria"
   ],
   "payout_method":[
     "pix",

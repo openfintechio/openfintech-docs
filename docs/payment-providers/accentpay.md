@@ -45,6 +45,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![yandexmoney](https://static.openfintech.io/payment_methods/yandexmoney/icon.svg?w=278&c=v0.59.26#w100) |[yandexmoney](/payment-methods/yandexmoney/)|`yandexmoney`| 
 |![alfaclick](https://static.openfintech.io/payment_methods/alfaclick/icon.png?w=278&c=v0.59.26#w100) |[alfaclick](/payment-methods/alfaclick/)|`alfaclick`| 
 |![smsbilling](https://static.openfintech.io/payment_methods/smsbilling/icon.png?w=278&c=v0.59.26#w100) |[smsbilling](/payment-methods/smsbilling/)|`smsbilling`| 
+|![promsvyazbank](https://static.openfintech.io/payment_methods/promsvyazbank/icon.png?w=278&c=v0.59.26#w100) |[promsvyazbank](/payment-methods/promsvyazbank/)|`promsvyazbank`| 
+|![sberbank](https://static.openfintech.io/payment_methods/sberbank/icon.svg?w=278&c=v0.59.26#w100) |[sberbank](/payment-methods/sberbank/)|`sberbank`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
  
 
@@ -73,6 +75,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "yandexmoney",
     "alfaclick",
     "smsbilling",
+    "promsvyazbank",
+    "sberbank",
     "payment_card"
   ],
   "payout_method":[

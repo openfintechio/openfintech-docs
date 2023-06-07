@@ -37,7 +37,7 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![paypal](https://static.openfintech.io/payment_methods/paypal/icon.svg?w=278&c=v0.59.26#w100) |[paypal](/payment-methods/paypal/)|`paypal`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
  
 
 ## Payout Methods 
@@ -47,9 +47,6 @@ The list of supported [Payout Methods](/payout-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![paypal](https://static.openfintech.io/payout_methods/paypal/icon.svg?w=278&c=v0.59.26#w40) |[paypal](payout-methodspaypal/)|`paypal`| 
-|![paypal_id](https://static.openfintech.io/payout_methods/paypal_id/icon.svg?w=278&c=v0.59.26#w40) |[paypal_id](payout-methodspaypal_id/)|`paypal_id`| 
-|![paypal_email](https://static.openfintech.io/payout_methods/paypal_email/icon.svg?w=278&c=v0.59.26#w40) |[paypal_email](payout-methodspaypal_email/)|`paypal_email`| 
-|![paypal_phone](https://static.openfintech.io/payout_methods/paypal_phone/icon.svg?w=278&c=v0.59.26#w40) |[paypal_phone](payout-methodspaypal_phone/)|`paypal_phone`| 
  
 
 ## JSON Object 
@@ -62,13 +59,10 @@ The list of supported [Payout Methods](/payout-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    "paypal"
+    "payment_card"
   ],
   "payout_method":[
-    "paypal",
-    "paypal_id",
-    "paypal_email",
-    "paypal_phone"
+    "paypal"
   ],
   "metadata":null,
   "name":{

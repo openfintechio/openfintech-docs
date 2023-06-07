@@ -42,7 +42,13 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
+|![latam](https://static.openfintech.io/payment_methods/latam/icon.svg?w=278&c=v0.59.26#w100) |[latam](/payment-methods/latam/)|`latam`| 
+|![ussd](https://static.openfintech.io/payment_methods/ussd/icon.svg?w=278&c=v0.59.26#w100) |[ussd](/payment-methods/ussd/)|`ussd`| 
+|![i_wallet](https://static.openfintech.io/payment_methods/i_wallet/icon.svg?w=278&c=v0.59.26#w100) |[i_wallet](/payment-methods/i_wallet/)|`i_wallet`| 
+|![qiwi](https://static.openfintech.io/payment_methods/qiwi/icon.svg?w=278&c=v0.59.26#w100) |[qiwi](/payment-methods/qiwi/)|`qiwi`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
+|![visa_qr_code](https://static.openfintech.io/payment_methods/visa_qr_code/icon.svg?w=278&c=v0.59.26#w100) |[visa_qr_code](/payment-methods/visa_qr_code/)|`visa_qr_code`| 
+|![net_banking](https://static.openfintech.io/payment_methods/net_banking/icon.svg?w=278&c=v0.59.26#w100) |[net_banking](/payment-methods/net_banking/)|`net_banking`| 
  
 
 ## Payout Methods 
@@ -51,7 +57,6 @@ The list of supported [Payout Methods](/payout-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
  
 
@@ -68,10 +73,15 @@ The list of supported [Payout Methods](/payout-methods/)
   "countries":null,
   "payment_method":[
     "payment_card",
-    "bank_transfer"
+    "latam",
+    "ussd",
+    "i_wallet",
+    "qiwi",
+    "bank_transfer",
+    "visa_qr_code",
+    "net_banking"
   ],
   "payout_method":[
-    "payment_card",
     "bank_transfer"
   ],
   "metadata":null,

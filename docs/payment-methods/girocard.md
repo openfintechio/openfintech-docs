@@ -47,7 +47,6 @@ The list of [Payment Providers](/payment-providers/) that support the _girocard_
 |![merchantscout](https://static.openfintech.io/payment_providers/merchantscout/icon.png?w=278&c=v0.59.26#w100) |[MerchantScout](/payment-providers/merchantscout/)|`merchantscout`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
 |![lemonway](https://static.openfintech.io/payment_providers/lemonway/icon.png?w=278&c=v0.59.26#w100) |[Lemon Way](/payment-providers/lemonway/)|`lemonway`| 
-|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![be2bill](https://static.openfintech.io/payment_providers/be2bill/icon.png?w=278&c=v0.59.26#w100) |[Be2bill](/payment-providers/be2bill/)|`be2bill`| 
 |![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![payrexx](https://static.openfintech.io/payment_providers/payrexx/icon.png?w=278&c=v0.59.26#w100) |[Payrexx Payments](/payment-providers/payrexx/)|`payrexx`| 
@@ -56,7 +55,6 @@ The list of [Payment Providers](/payment-providers/) that support the _girocard_
 |![aretosystems](https://static.openfintech.io/payment_providers/aretosystems/icon.png?w=278&c=v0.59.26#w100) |[Areto Systems](/payment-providers/aretosystems/)|`aretosystems`| 
 |![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
 |![easypaymentgateway](https://static.openfintech.io/payment_providers/easypaymentgateway/icon.png?w=278&c=v0.59.26#w100) |[Easy Payment Gateway](/payment-providers/easypaymentgateway/)|`easypaymentgateway`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
  
 
 ## JSON Object 

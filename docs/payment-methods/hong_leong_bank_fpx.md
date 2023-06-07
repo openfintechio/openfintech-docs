@@ -37,6 +37,15 @@ The list of [Payment Services](/payment-services/) based on the _Hong Leong Bank
 |![hong_leong_bank_fpx](https://static.openfintech.io/payment_methods/hong_leong_bank_fpx/icon.svg?w=278&c=v0.59.26#w100) |[hong_leong_bank_fpx_myr_hpp](/payment-services/hong_leong_bank_fpx_myr_hpp/)|`hong_leong_bank_fpx_myr_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Hong Leong Bank (FPX), Malaysia_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
+ 
+
 ## JSON Object 
 
 ```json

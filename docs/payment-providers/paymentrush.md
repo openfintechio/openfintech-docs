@@ -42,6 +42,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |![paymentrush](https://static.openfintech.io/payment_methods/paymentrush/icon.png?w=278&c=v0.59.26#w100) |[paymentrush](/payment-methods/paymentrush/)|`paymentrush`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -54,7 +63,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payment_method":[
     "paymentrush"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "bank_transfer"
+  ],
   "metadata":null,
   "name":{
     "en":"Payment Rush",

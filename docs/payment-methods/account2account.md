@@ -44,7 +44,6 @@ The list of [Payment Providers](/payment-providers/) that support the _account2a
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![omnipayment](https://static.openfintech.io/payment_providers/omnipayment/icon.png?w=278&c=v0.59.26#w100) |[OmniPayment](/payment-providers/omnipayment/)|`omnipayment`| 
-|![fondy](https://static.openfintech.io/payment_providers/fondy/icon.svg?w=278&c=v0.59.26#w100) |[FONDY](/payment-providers/fondy/)|`fondy`| 
 |![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
  
 

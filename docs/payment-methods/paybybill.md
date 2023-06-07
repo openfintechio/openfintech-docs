@@ -44,7 +44,6 @@ The list of [Payment Providers](/payment-providers/) that support the _PayByBill
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![altapay](https://static.openfintech.io/payment_providers/altapay/icon.png?w=278&c=v0.59.26#w100) |[AltaPay](/payment-providers/altapay/)|`altapay`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
  
 
 ## JSON Object 

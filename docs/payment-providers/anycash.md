@@ -35,6 +35,22 @@ https://static.openfintech.io/payment_providers/anycash/logo.svg?w=400&c=v0.59.2
 https://static.openfintech.io/payment_providers/anycash/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![qiwi](https://static.openfintech.io/payout_methods/qiwi/icon.svg?w=278&c=v0.59.26#w40) |[qiwi](payout-methodsqiwi/)|`qiwi`| 
+|![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether](payout-methodstether/)|`tether`| 
+|![litecoin](https://static.openfintech.io/payout_methods/litecoin/icon.png?w=278&c=v0.59.26#w40) |[litecoin](payout-methodslitecoin/)|`litecoin`| 
+|![ethereum](https://static.openfintech.io/payout_methods/ethereum/icon.svg?w=278&c=v0.59.26#w40) |[ethereum](payout-methodsethereum/)|`ethereum`| 
+|![bitcoin_cash](https://static.openfintech.io/payout_methods/bitcoin_cash/icon.png?w=278&c=v0.59.26#w40) |[bitcoin_cash](payout-methodsbitcoin_cash/)|`bitcoin_cash`| 
+|![bitcoin](https://static.openfintech.io/payout_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w40) |[bitcoin](payout-methodsbitcoin/)|`bitcoin`| 
+|![webmoneytransfer](https://static.openfintech.io/payout_methods/webmoneytransfer/icon.svg?w=278&c=v0.59.26#w40) |[webmoneytransfer](payout-methodswebmoneytransfer/)|`webmoneytransfer`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -47,7 +63,16 @@ https://static.openfintech.io/payment_providers/anycash/icon.svg?w=278&c=v0.59.2
   "categories":null,
   "countries":null,
   "payment_method":null,
-  "payout_method":null,
+  "payout_method":[
+    "qiwi",
+    "tether",
+    "litecoin",
+    "ethereum",
+    "bitcoin_cash",
+    "bitcoin",
+    "webmoneytransfer",
+    "payment_card"
+  ],
   "metadata":null,
   "name":{
     "en":"AnyCash"

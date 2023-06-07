@@ -121,13 +121,16 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.png?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
 |![sisow](https://static.openfintech.io/payment_providers/sisow/icon.png?w=278&c=v0.59.26#w100) |[Sisow](/payment-providers/sisow/)|`sisow`| 
 |![omnipayment](https://static.openfintech.io/payment_providers/omnipayment/icon.png?w=278&c=v0.59.26#w100) |[OmniPayment](/payment-providers/omnipayment/)|`omnipayment`| 
+|![liqpay](https://static.openfintech.io/payment_providers/liqpay/icon.svg?w=278&c=v0.59.26#w100) |[LiqPay](/payment-providers/liqpay/)|`liqpay`| 
 |![4bill](https://static.openfintech.io/payment_providers/4bill/icon.svg?w=278&c=v0.59.26#w100) |[4bill](/payment-providers/4bill/)|`4bill`| 
 |![securionpay](https://static.openfintech.io/payment_providers/securionpay/icon.svg?w=278&c=v0.59.26#w100) |[SecurionPay](/payment-providers/securionpay/)|`securionpay`| 
 |![merchantscout](https://static.openfintech.io/payment_providers/merchantscout/icon.png?w=278&c=v0.59.26#w100) |[MerchantScout](/payment-providers/merchantscout/)|`merchantscout`| 
 |![zotapay](https://static.openfintech.io/payment_providers/zotapay/icon.png?w=278&c=v0.59.26#w100) |[Zotapay](/payment-providers/zotapay/)|`zotapay`| 
 |![1pay](https://static.openfintech.io/payment_providers/1pay/icon.png?w=278&c=v0.59.26#w100) |[1Pay](/payment-providers/1pay/)|`1pay`| 
 |![qiwi](https://static.openfintech.io/payment_providers/qiwi/icon.svg?w=278&c=v0.59.26#w100) |[Qiwi](/payment-providers/qiwi/)|`qiwi`| 
+|![epay](https://static.openfintech.io/payment_providers/epay/icon.png?w=278&c=v0.59.26#w100) |[ePay](/payment-providers/epay/)|`epay`| 
 |![paymentgarage](https://static.openfintech.io/payment_providers/paymentgarage/icon.png?w=278&c=v0.59.26#w100) |[PaymentGarage](/payment-providers/paymentgarage/)|`paymentgarage`| 
+|![paymega](https://static.openfintech.io/payment_providers/paymega/icon.svg?w=278&c=v0.59.26#w100) |[PayMega](/payment-providers/paymega/)|`paymega`| 
 |![digitalriverworldpayments](https://static.openfintech.io/payment_providers/digitalriverworldpayments/icon.png?w=278&c=v0.59.26#w100) |[Digital River World Payments](/payment-providers/digitalriverworldpayments/)|`digitalriverworldpayments`| 
 |![paybox](https://static.openfintech.io/payment_providers/paybox/icon.svg?w=278&c=v0.59.26#w100) |[Paybox](/payment-providers/paybox/)|`paybox`| 
 |![123x](https://static.openfintech.io/payment_providers/123x/icon.png?w=278&c=v0.59.26#w100) |[123x](/payment-providers/123x/)|`123x`| 
@@ -137,6 +140,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![paydoo](https://static.openfintech.io/payment_providers/paydoo/icon.png?w=278&c=v0.59.26#w100) |[Paynt](/payment-providers/paydoo/)|`paydoo`| 
 |![dalberry](https://static.openfintech.io/payment_providers/dalberry/icon.png?w=278&c=v0.59.26#w100) |[Dalberry](/payment-providers/dalberry/)|`dalberry`| 
 |![africanpaymentsolutions](https://static.openfintech.io/payment_providers/africanpaymentsolutions/icon.png?w=278&c=v0.59.26#w100) |[African Payment Solutions](/payment-providers/africanpaymentsolutions/)|`africanpaymentsolutions`| 
+|![test](https://static.openfintech.io/payment_providers/test/icon.svg?w=278&c=v0.59.26#w100) |[Test](/payment-providers/test/)|`test`| 
 |![mollie](https://static.openfintech.io/payment_providers/mollie/icon.png?w=278&c=v0.59.26#w100) |[Mollie](/payment-providers/mollie/)|`mollie`| 
 |![trustpay](https://static.openfintech.io/payment_providers/trustpay/icon.svg?w=278&c=v0.59.26#w100) |[TrustPay](/payment-providers/trustpay/)|`trustpay`| 
 |![ccnow](https://static.openfintech.io/payment_providers/ccnow/icon.png?w=278&c=v0.59.26#w100) |[CCNow](/payment-providers/ccnow/)|`ccnow`| 
@@ -147,9 +151,11 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![gingerpayments](https://static.openfintech.io/payment_providers/gingerpayments/icon.png?w=278&c=v0.59.26#w100) |[Ginger Payments](/payment-providers/gingerpayments/)|`gingerpayments`| 
 |![cardpay](https://static.openfintech.io/payment_providers/cardpay/icon.svg?w=278&c=v0.59.26#w100) |[Unlimint](/payment-providers/cardpay/)|`cardpay`| 
 |![portmone](https://static.openfintech.io/payment_providers/portmone/icon.svg?w=278&c=v0.59.26#w100) |[Portmone.com](/payment-providers/portmone/)|`portmone`| 
+|![oonex](https://static.openfintech.io/payment_providers/oonex/icon.png?w=278&c=v0.59.26#w100) |[Oonex](/payment-providers/oonex/)|`oonex`| 
 |![cardinity](https://static.openfintech.io/payment_providers/cardinity/icon.png?w=278&c=v0.59.26#w100) |[Cardinity](/payment-providers/cardinity/)|`cardinity`| 
 |![wirecapital](https://static.openfintech.io/payment_providers/wirecapital/icon.svg?w=278&c=v0.59.26#w100) |[Wirecapital](/payment-providers/wirecapital/)|`wirecapital`| 
 |![checkoutcom](https://static.openfintech.io/payment_providers/checkoutcom/icon.svg?w=278&c=v0.59.26#w100) |[Checkout.com](/payment-providers/checkoutcom/)|`checkoutcom`| 
+|![paypal](https://static.openfintech.io/payment_providers/paypal/icon.svg?w=278&c=v0.59.26#w100) |[PayPal](/payment-providers/paypal/)|`paypal`| 
 |![dusupay](https://static.openfintech.io/payment_providers/dusupay/icon.png?w=278&c=v0.59.26#w100) |[Dusupay](/payment-providers/dusupay/)|`dusupay`| 
 |![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
@@ -158,9 +164,11 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![cngpro](https://static.openfintech.io/payment_providers/cngpro/icon.png?w=278&c=v0.59.26#w100) |[CNG Pro](/payment-providers/cngpro/)|`cngpro`| 
 |![paygol](https://static.openfintech.io/payment_providers/paygol/icon.png?w=278&c=v0.59.26#w100) |[PayGol](/payment-providers/paygol/)|`paygol`| 
 |![payhub](https://static.openfintech.io/payment_providers/payhub/icon.svg?w=278&c=v0.59.26#w100) |[PayHub](/payment-providers/payhub/)|`payhub`| 
+|![stripe](https://static.openfintech.io/payment_providers/stripe/icon.svg?w=278&c=v0.59.26#w100) |[Stripe](/payment-providers/stripe/)|`stripe`| 
 |![commercegate](https://static.openfintech.io/payment_providers/commercegate/icon.svg?w=278&c=v0.59.26#w100) |[CommerceGate](/payment-providers/commercegate/)|`commercegate`| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
+|![rbkmoney](https://static.openfintech.io/payment_providers/rbkmoney/icon.png?w=278&c=v0.59.26#w100) |[RBK Money](/payment-providers/rbkmoney/)|`rbkmoney`| 
 |![lemonway](https://static.openfintech.io/payment_providers/lemonway/icon.png?w=278&c=v0.59.26#w100) |[Lemon Way](/payment-providers/lemonway/)|`lemonway`| 
 |![securenetllc](https://static.openfintech.io/payment_providers/securenetllc/icon.png?w=278&c=v0.59.26#w100) |[SecureNet LLC](/payment-providers/securenetllc/)|`securenetllc`| 
 |![dalpay](https://static.openfintech.io/payment_providers/dalpay/icon.png?w=278&c=v0.59.26#w100) |[DalPay](/payment-providers/dalpay/)|`dalpay`| 
@@ -173,6 +181,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![vantagepayments](https://static.openfintech.io/payment_providers/vantagepayments/icon.png?w=278&c=v0.59.26#w100) |[Vantage Payments](/payment-providers/vantagepayments/)|`vantagepayments`| 
 |![nextpay](https://static.openfintech.io/payment_providers/nextpay/icon.png?w=278&c=v0.59.26#w100) |[NextPay](/payment-providers/nextpay/)|`nextpay`| 
 |![megagatepay](https://static.openfintech.io/payment_providers/megagatepay/icon.svg?w=278&c=v0.59.26#w100) |[MegaGatePay](/payment-providers/megagatepay/)|`megagatepay`| 
+|![axcessmerchantservices](https://static.openfintech.io/payment_providers/axcessmerchantservices/icon.png?w=278&c=v0.59.26#w100) |[Axcess Merchant Services](/payment-providers/axcessmerchantservices/)|`axcessmerchantservices`| 
 |![smart2pay](https://static.openfintech.io/payment_providers/smart2pay/icon.png?w=278&c=v0.59.26#w100) |[Smart2Pay](/payment-providers/smart2pay/)|`smart2pay`| 
 |![skrill](https://static.openfintech.io/payment_providers/skrill/icon.svg?w=278&c=v0.59.26#w100) |[Skrill](/payment-providers/skrill/)|`skrill`| 
 |![apco](https://static.openfintech.io/payment_providers/apco/icon.png?w=278&c=v0.59.26#w100) |[APCO](/payment-providers/apco/)|`apco`| 
@@ -224,11 +233,14 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
 |![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.png?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
 |![emerchantpay](https://static.openfintech.io/payment_providers/emerchantpay/icon.svg?w=278&c=v0.59.26#w100) |[EmerchantPay](/payment-providers/emerchantpay/)|`emerchantpay`| 
+|![cybersource](https://static.openfintech.io/payment_providers/cybersource/icon.svg?w=278&c=v0.59.26#w100) |[CyberSource](/payment-providers/cybersource/)|`cybersource`| 
 |![fibonatix](https://static.openfintech.io/payment_providers/fibonatix/icon.png?w=278&c=v0.59.26#w100) |[Fibonatix](/payment-providers/fibonatix/)|`fibonatix`| 
 |![ecommpay](https://static.openfintech.io/payment_providers/ecommpay/icon.png?w=278&c=v0.59.26#w100) |[ECOMMPAY](/payment-providers/ecommpay/)|`ecommpay`| 
 |![platon](https://static.openfintech.io/payment_providers/platon/icon.svg?w=278&c=v0.59.26#w100) |[PSP Platon](/payment-providers/platon/)|`platon`| 
+|![uapay](https://static.openfintech.io/payment_providers/uapay/icon.svg?w=278&c=v0.59.26#w100) |[UApay](/payment-providers/uapay/)|`uapay`| 
 |![klasha](https://static.openfintech.io/payment_providers/klasha/icon.png?w=278&c=v0.59.26#w100) |[Klasha](/payment-providers/klasha/)|`klasha`| 
 |![xpayua](https://static.openfintech.io/payment_providers/xpayua/icon.svg?w=278&c=v0.59.26#w100) |[XPAY](/payment-providers/xpayua/)|`xpayua`| 
+|![paymentcenter](https://static.openfintech.io/payment_providers/paymentcenter/icon.png?w=278&c=v0.59.26#w100) |[Payment Center](/payment-providers/paymentcenter/)|`paymentcenter`| 
 |![paymegaio](https://static.openfintech.io/payment_providers/paymegaio/icon.svg?w=278&c=v0.59.26#w100) |[Paymega.io](/payment-providers/paymegaio/)|`paymegaio`| 
 |![paymentstrust](https://static.openfintech.io/payment_providers/paymentstrust/icon.svg?w=278&c=v0.59.26#w100) |[Payments Trust](/payment-providers/paymentstrust/)|`paymentstrust`| 
 |![twelvelive](https://static.openfintech.io/payment_providers/twelvelive/icon.svg?w=278&c=v0.59.26#w100) |[Twelve](/payment-providers/twelvelive/)|`twelvelive`| 
@@ -245,6 +257,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![paylink](https://static.openfintech.io/payment_providers/paylink/icon.png?w=278&c=v0.59.26#w100) |[PayLink](/payment-providers/paylink/)|`paylink`| 
 |![cardgate](https://static.openfintech.io/payment_providers/cardgate/icon.svg?w=278&c=v0.59.26#w100) |[CardGate](/payment-providers/cardgate/)|`cardgate`| 
 |![gate](https://static.openfintech.io/payment_providers/gate/icon.svg?w=278&c=v0.59.26#w100) |[Gate](/payment-providers/gate/)|`gate`| 
+|![manual](https://static.openfintech.io/payment_providers/manual/icon.svg?w=278&c=v0.59.26#w100) |[Manual](/payment-providers/manual/)|`manual`| 
 |![accentpay](https://static.openfintech.io/payment_providers/accentpay/icon.png?w=278&c=v0.59.26#w100) |[Accentpay](/payment-providers/accentpay/)|`accentpay`| 
 |![connectum](https://static.openfintech.io/payment_providers/connectum/icon.svg?w=278&c=v0.59.26#w100) |[Connectum](/payment-providers/connectum/)|`connectum`| 
 |![odysseq](https://static.openfintech.io/payment_providers/odysseq/icon.svg?w=278&c=v0.59.26#w100) |[Odysseq](/payment-providers/odysseq/)|`odysseq`| 
@@ -254,6 +267,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![forwardbank](https://static.openfintech.io/payment_providers/forwardbank/icon.svg?w=278&c=v0.59.26#w100) |[Forward Bank](/payment-providers/forwardbank/)|`forwardbank`| 
 |![genome](https://static.openfintech.io/payment_providers/genome/icon.svg?w=278&c=v0.59.26#w100) |[Genome](/payment-providers/genome/)|`genome`| 
 |![tkbpay](https://static.openfintech.io/payment_providers/tkbpay/icon.svg?w=278&c=v0.59.26#w100) |[TKB Pay](/payment-providers/tkbpay/)|`tkbpay`| 
+|![adgroup](https://static.openfintech.io/payment_providers/adgroup/icon.svg?w=278&c=v0.59.26#w100) |[ADgroup](/payment-providers/adgroup/)|`adgroup`| 
 |![mercuryo](https://static.openfintech.io/payment_providers/mercuryo/icon.svg?w=278&c=v0.59.26#w100) |[Mercuryo](/payment-providers/mercuryo/)|`mercuryo`| 
 |![paymentwall](https://static.openfintech.io/payment_providers/paymentwall/icon.svg?w=278&c=v0.59.26#w100) |[Paymentwall](/payment-providers/paymentwall/)|`paymentwall`| 
 |![wlandpay](https://static.openfintech.io/payment_providers/wlandpay/icon.png?w=278&c=v0.59.26#w100) |[Wlandpay](/payment-providers/wlandpay/)|`wlandpay`| 
@@ -299,6 +313,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![thorpayments](https://static.openfintech.io/payment_providers/thorpayments/icon.png?w=278&c=v0.59.26#w100) |[Thor Payments](/payment-providers/thorpayments/)|`thorpayments`| 
 |![transactworld](https://static.openfintech.io/payment_providers/transactworld/icon.png?w=278&c=v0.59.26#w100) |[Transact World](/payment-providers/transactworld/)|`transactworld`| 
 |![payclub](https://static.openfintech.io/payment_providers/payclub/icon.png?w=278&c=v0.59.26#w100) |[PayClub](/payment-providers/payclub/)|`payclub`| 
+|![dixonpay](https://static.openfintech.io/payment_providers/dixonpay/icon.svg?w=278&c=v0.59.26#w100) |[DixonPay](/payment-providers/dixonpay/)|`dixonpay`| 
 |![betatransfer](https://static.openfintech.io/payment_providers/betatransfer/icon.svg?w=278&c=v0.59.26#w100) |[BetaTransfer](/payment-providers/betatransfer/)|`betatransfer`| 
 |![gumballpay](https://static.openfintech.io/payment_providers/gumballpay/icon.png?w=278&c=v0.59.26#w100) |[GumballPay](/payment-providers/gumballpay/)|`gumballpay`| 
 |![paypound](https://static.openfintech.io/payment_providers/paypound/icon.png?w=278&c=v0.59.26#w100) |[PayPound](/payment-providers/paypound/)|`paypound`| 
@@ -331,6 +346,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![realdeposits](https://static.openfintech.io/payment_providers/realdeposits/icon.png?w=278&c=v0.59.26#w100) |[Real Deposits](/payment-providers/realdeposits/)|`realdeposits`| 
 |![payelata](https://static.openfintech.io/payment_providers/payelata/icon.svg?w=278&c=v0.59.26#w100) |[Payelata](/payment-providers/payelata/)|`payelata`| 
 |![payassist](https://static.openfintech.io/payment_providers/payassist/icon.png?w=278&c=v0.59.26#w100) |[PayAssist](/payment-providers/payassist/)|`payassist`| 
+|![ems](https://static.openfintech.io/payment_providers/ems/icon.svg?w=278&c=v0.59.26#w100) |[EMS](/payment-providers/ems/)|`ems`| 
 |![infotrend](https://static.openfintech.io/payment_providers/infotrend/icon.png?w=278&c=v0.59.26#w100) |[Infotrend](/payment-providers/infotrend/)|`infotrend`| 
 |![cards2cards](https://static.openfintech.io/payment_providers/cards2cards/icon.svg?w=278&c=v0.59.26#w100) |[cards2cards](/payment-providers/cards2cards/)|`cards2cards`| 
 |![connpay](https://static.openfintech.io/payment_providers/connpay/icon.png?w=278&c=v0.59.26#w100) |[ConnPay](/payment-providers/connpay/)|`connpay`| 
@@ -374,6 +390,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![virtpay](https://static.openfintech.io/payment_providers/virtpay/icon.png?w=278&c=v0.59.26#w100) |[Virtpay](/payment-providers/virtpay/)|`virtpay`| 
 |![remitos](https://static.openfintech.io/payment_providers/remitos/icon.png?w=278&c=v0.59.26#w100) |[Remitos](/payment-providers/remitos/)|`remitos`| 
 |![payecardsakurateco](https://static.openfintech.io/payment_providers/payecardsakurateco/icon.png?w=278&c=v0.59.26#w100) |[PayeCards Akurateco](/payment-providers/payecardsakurateco/)|`payecardsakurateco`| 
+|![agentglobal](https://static.openfintech.io/payment_providers/agentglobal/icon.png?w=278&c=v0.59.26#w100) |[AgentGlobal](/payment-providers/agentglobal/)|`agentglobal`| 
 |![passpoint](https://static.openfintech.io/payment_providers/passpoint/icon.png?w=278&c=v0.59.26#w100) |[Passpoint](/payment-providers/passpoint/)|`passpoint`| 
 |![alycepay](https://static.openfintech.io/payment_providers/alycepay/icon.png?w=278&c=v0.59.26#w100) |[Alycepay](/payment-providers/alycepay/)|`alycepay`| 
 |![apcopay](https://static.openfintech.io/payment_providers/apcopay/icon.svg?w=278&c=v0.59.26#w100) |[Apcopay](/payment-providers/apcopay/)|`apcopay`| 
@@ -412,6 +429,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![odeonpay](https://static.openfintech.io/payment_providers/odeonpay/icon.png?w=278&c=v0.59.26#w100) |[OdeonPay](/payment-providers/odeonpay/)|`odeonpay`| 
 |![gatetwoway](https://static.openfintech.io/payment_providers/gatetwoway/icon.svg?w=278&c=v0.59.26#w100) |[Gate2way](/payment-providers/gatetwoway/)|`gatetwoway`| 
 |![spartapay](https://static.openfintech.io/payment_providers/spartapay/icon.png?w=278&c=v0.59.26#w100) |[Sparta-Pay](/payment-providers/spartapay/)|`spartapay`| 
+|![payplanet](https://static.openfintech.io/payment_providers/payplanet/icon.svg?w=278&c=v0.59.26#w100) |[PayPlanet](/payment-providers/payplanet/)|`payplanet`| 
 |![cryptohawex](https://static.openfintech.io/payment_providers/cryptohawex/icon.svg?w=278&c=v0.59.26#w100) |[CryptoHawex](/payment-providers/cryptohawex/)|`cryptohawex`| 
 |![cashbulls](https://static.openfintech.io/payment_providers/cashbulls/icon.png?w=278&c=v0.59.26#w100) |[Cash Bulls](/payment-providers/cashbulls/)|`cashbulls`| 
 |![noda](https://static.openfintech.io/payment_providers/noda/icon.svg?w=278&c=v0.59.26#w100) |[Noda](/payment-providers/noda/)|`noda`| 
@@ -447,7 +465,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![totalprocessing](https://static.openfintech.io/payment_providers/totalprocessing/icon.png?w=278&c=v0.59.26#w100) |[Total Processing](/payment-providers/totalprocessing/)|`totalprocessing`| 
 |![prismpay](https://static.openfintech.io/payment_providers/prismpay/icon.png?w=278&c=v0.59.26#w100) |[Prismpay](/payment-providers/prismpay/)|`prismpay`| 
 |![empayre](https://static.openfintech.io/payment_providers/empayre/icon.svg?w=278&c=v0.59.26#w100) |[Empayre](/payment-providers/empayre/)|`empayre`| 
+|![saltarpay](https://static.openfintech.io/payment_providers/saltarpay/icon.png?w=278&c=v0.59.26#w100) |[SaltarPay](/payment-providers/saltarpay/)|`saltarpay`| 
 |![sgate](https://static.openfintech.io/payment_providers/sgate/icon.svg?w=278&c=v0.59.26#w100) |[Sgate](/payment-providers/sgate/)|`sgate`| 
+|![aliumpay](https://static.openfintech.io/payment_providers/aliumpay/icon.svg?w=278&c=v0.59.26#w100) |[AliumPay](/payment-providers/aliumpay/)|`aliumpay`| 
  
 
 ## JSON Object 

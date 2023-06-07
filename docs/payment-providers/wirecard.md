@@ -44,56 +44,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
-|![cartasi](https://static.openfintech.io/payment_methods/cartasi/icon.png?w=278&c=v0.59.26#w100) |[cartasi](/payment-methods/cartasi/)|`cartasi`| 
-|![bancontactmistercash](https://static.openfintech.io/payment_methods/bancontactmistercash/icon.png?w=278&c=v0.59.26#w100) |[bancontactmistercash](/payment-methods/bancontactmistercash/)|`bancontactmistercash`| 
-|![aura](https://static.openfintech.io/payment_methods/aura/icon.png?w=278&c=v0.59.26#w100) |[aura](/payment-methods/aura/)|`aura`| 
-|![girocard](https://static.openfintech.io/payment_methods/girocard/icon.png?w=278&c=v0.59.26#w100) |[girocard](/payment-methods/girocard/)|`girocard`| 
-|![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
-|![debitobradesco](https://static.openfintech.io/payment_methods/debitobradesco/icon.png?w=278&c=v0.59.26#w100) |[debitobradesco](/payment-methods/debitobradesco/)|`debitobradesco`| 
-|![chinaunionpay](https://static.openfintech.io/payment_methods/chinaunionpay/icon.svg?w=278&c=v0.59.26#w100) |[chinaunionpay](/payment-methods/chinaunionpay/)|`chinaunionpay`| 
-|![dankort](https://static.openfintech.io/payment_methods/dankort/icon.png?w=278&c=v0.59.26#w100) |[dankort](/payment-methods/dankort/)|`dankort`| 
-|![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
-|![hipercard](https://static.openfintech.io/payment_methods/hipercard/icon.png?w=278&c=v0.59.26#w100) |[hipercard](/payment-methods/hipercard/)|`hipercard`| 
-|![ukash](https://static.openfintech.io/payment_methods/ukash/icon.png?w=278&c=v0.59.26#w100) |[ukash](/payment-methods/ukash/)|`ukash`| 
-|![jcb](https://static.openfintech.io/payment_methods/jcb/icon.png?w=278&c=v0.59.26#w100) |[jcb](/payment-methods/jcb/)|`jcb`| 
-|![dinersclub](https://static.openfintech.io/payment_methods/dinersclub/icon.svg?w=278&c=v0.59.26#w100) |[dinersclub](/payment-methods/dinersclub/)|`dinersclub`| 
-|![cartebleue](https://static.openfintech.io/payment_methods/cartebleue/icon.png?w=278&c=v0.59.26#w100) |[cartebleue](/payment-methods/cartebleue/)|`cartebleue`| 
-|![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.png?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
-|![discover](https://static.openfintech.io/payment_methods/discover/icon.svg?w=278&c=v0.59.26#w100) |[discover](/payment-methods/discover/)|`discover`| 
-|![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.png?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
-|![vpay](https://static.openfintech.io/payment_methods/vpay/icon.png?w=278&c=v0.59.26#w100) |[vpay](/payment-methods/vpay/)|`vpay`| 
-|![uatp](https://static.openfintech.io/payment_methods/uatp/icon.png?w=278&c=v0.59.26#w100) |[uatp](/payment-methods/uatp/)|`uatp`| 
-|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.png?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
-|![postepay](https://static.openfintech.io/payment_methods/postepay/icon.png?w=278&c=v0.59.26#w100) |[postepay](/payment-methods/postepay/)|`postepay`| 
-|![wiretransfer](https://static.openfintech.io/payment_methods/wiretransfer/icon.svg?w=278&c=v0.59.26#w100) |[wiretransfer](/payment-methods/wiretransfer/)|`wiretransfer`| 
-|![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2](/payment-methods/mybank2/)|`mybank2`| 
-|![directdebit](https://static.openfintech.io/payment_methods/directdebit/icon.png?w=278&c=v0.59.26#w100) |[directdebit](/payment-methods/directdebit/)|`directdebit`| 
-|![bradescocomercioeletronico](https://static.openfintech.io/payment_methods/bradescocomercioeletronico/icon.png?w=278&c=v0.59.26#w100) |[bradescocomercioeletronico](/payment-methods/bradescocomercioeletronico/)|`bradescocomercioeletronico`| 
-|![ideal](https://static.openfintech.io/payment_methods/ideal/icon.svg?w=278&c=v0.59.26#w100) |[ideal](/payment-methods/ideal/)|`ideal`| 
-|![sepacredittransfer](https://static.openfintech.io/payment_methods/sepacredittransfer/icon.svg?w=278&c=v0.59.26#w100) |[sepacredittransfer](/payment-methods/sepacredittransfer/)|`sepacredittransfer`| 
-|![giropay](https://static.openfintech.io/payment_methods/giropay/icon.svg?w=278&c=v0.59.26#w100) |[giropay](/payment-methods/giropay/)|`giropay`| 
-|![barpay](https://static.openfintech.io/payment_methods/barpay/icon.png?w=278&c=v0.59.26#w100) |[barpay](/payment-methods/barpay/)|`barpay`| 
-|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario](/payment-methods/boleto_bancario/)|`boleto_bancario`| 
-|![sepadirectdebit](https://static.openfintech.io/payment_methods/sepadirectdebit/icon.svg?w=278&c=v0.59.26#w100) |[sepadirectdebit](/payment-methods/sepadirectdebit/)|`sepadirectdebit`| 
-|![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/icon.png?w=278&c=v0.59.26#w100) |[polipayonline](/payment-methods/polipayonline/)|`polipayonline`| 
-|![paybybill](https://static.openfintech.io/payment_methods/paybybill/icon.png?w=278&c=v0.59.26#w100) |[paybybill](/payment-methods/paybybill/)|`paybybill`| 
-|![elektronischeslastschriftverfahren](https://static.openfintech.io/payment_methods/elektronischeslastschriftverfahren/icon.png?w=278&c=v0.59.26#w100) |[elektronischeslastschriftverfahren](/payment-methods/elektronischeslastschriftverfahren/)|`elektronischeslastschriftverfahren`| 
-|![maybanknetbankingphillipines](https://static.openfintech.io/payment_methods/maybanknetbankingphillipines/icon.png?w=278&c=v0.59.26#w100) |[maybanknetbankingphillipines](/payment-methods/maybanknetbankingphillipines/)|`maybanknetbankingphillipines`| 
-|![postpay](https://static.openfintech.io/payment_methods/postpay/icon.png?w=278&c=v0.59.26#w100) |[postpay](/payment-methods/postpay/)|`postpay`| 
-|![cimbclicksinternetbanking](https://static.openfintech.io/payment_methods/cimbclicksinternetbanking/icon.png?w=278&c=v0.59.26#w100) |[cimbclicksinternetbanking](/payment-methods/cimbclicksinternetbanking/)|`cimbclicksinternetbanking`| 
-|![paydirekt](https://static.openfintech.io/payment_methods/paydirekt/icon.svg?w=278&c=v0.59.26#w100) |[paydirekt](/payment-methods/paydirekt/)|`paydirekt`| 
-|![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_klarna](/payment-methods/bank_transfer_klarna/)|`bank_transfer_klarna`| 
-|![ekonto](https://static.openfintech.io/payment_methods/ekonto/icon.png?w=278&c=v0.59.26#w100) |[ekonto](/payment-methods/ekonto/)|`ekonto`| 
-|![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.png?w=278&c=v0.59.26#w100) |[przelewy24](/payment-methods/przelewy24/)|`przelewy24`| 
-|![sofortbanking](https://static.openfintech.io/payment_methods/sofortbanking/icon.svg?w=278&c=v0.59.26#w100) |[sofortbanking](/payment-methods/sofortbanking/)|`sofortbanking`| 
-|![acceptemail](https://static.openfintech.io/payment_methods/acceptemail/icon.png?w=278&c=v0.59.26#w100) |[acceptemail](/payment-methods/acceptemail/)|`acceptemail`| 
-|![eps](https://static.openfintech.io/payment_methods/eps/icon.png?w=278&c=v0.59.26#w100) |[eps](/payment-methods/eps/)|`eps`| 
-|![paypal](https://static.openfintech.io/payment_methods/paypal/icon.svg?w=278&c=v0.59.26#w100) |[paypal](/payment-methods/paypal/)|`paypal`| 
-|![alipay](https://static.openfintech.io/payment_methods/alipay/icon.svg?w=278&c=v0.59.26#w100) |[alipay](/payment-methods/alipay/)|`alipay`| 
-|![moneta](https://static.openfintech.io/payment_methods/moneta/icon.png?w=278&c=v0.59.26#w100) |[moneta](/payment-methods/moneta/)|`moneta`| 
-|![mercadopago](https://static.openfintech.io/payment_methods/mercadopago/icon.png?w=278&c=v0.59.26#w100) |[mercadopago](/payment-methods/mercadopago/)|`mercadopago`| 
-|![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill](/payment-methods/skrill/)|`skrill`| 
-|![yandexmoney](https://static.openfintech.io/payment_methods/yandexmoney/icon.svg?w=278&c=v0.59.26#w100) |[yandexmoney](/payment-methods/yandexmoney/)|`yandexmoney`| 
+ 
+
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
  
 
 ## JSON Object 
@@ -161,59 +120,11 @@ The list of supported [Payment Methods](/payment-methods/)
     "UM"
   ],
   "payment_method":[
-    "payment_card",
-    "cartasi",
-    "bancontactmistercash",
-    "aura",
-    "girocard",
-    "paysafecard",
-    "debitobradesco",
-    "chinaunionpay",
-    "dankort",
-    "americanexpress",
-    "hipercard",
-    "ukash",
-    "jcb",
-    "dinersclub",
-    "cartebleue",
-    "visaelectron",
-    "discover",
-    "visadebit",
-    "vpay",
-    "uatp",
-    "mastercarddebit",
-    "postepay",
-    "wiretransfer",
-    "mybank2",
-    "directdebit",
-    "bradescocomercioeletronico",
-    "ideal",
-    "sepacredittransfer",
-    "giropay",
-    "barpay",
-    "boleto_bancario",
-    "sepadirectdebit",
-    "polipayonline",
-    "paybybill",
-    "elektronischeslastschriftverfahren",
-    "maybanknetbankingphillipines",
-    "postpay",
-    "cimbclicksinternetbanking",
-    "paydirekt",
-    "bank_transfer_klarna",
-    "ekonto",
-    "przelewy24",
-    "sofortbanking",
-    "acceptemail",
-    "eps",
-    "paypal",
-    "alipay",
-    "moneta",
-    "mercadopago",
-    "skrill",
-    "yandexmoney"
+    "payment_card"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "payment_card"
+  ],
   "metadata":{
     "about_payments_code":"wirecard"
   },

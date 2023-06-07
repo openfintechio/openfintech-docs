@@ -69,7 +69,6 @@ The list of [Payment Providers](/payment-providers/) that support the _CartaSi_
 |![payrexx](https://static.openfintech.io/payment_providers/payrexx/icon.png?w=278&c=v0.59.26#w100) |[Payrexx Payments](/payment-providers/payrexx/)|`payrexx`| 
 |![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.png?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.png?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
  
 
 ## JSON Object 

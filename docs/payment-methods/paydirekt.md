@@ -33,15 +33,6 @@ https://static.openfintech.io/payment_methods/paydirekt/logo.svg?w=400&c=v0.59.2
 https://static.openfintech.io/payment_methods/paydirekt/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payment Providers 
- 
-The list of [Payment Providers](/payment-providers/) that support the _paydirekt_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
- 
-
 ## JSON Object 
 
 ```json

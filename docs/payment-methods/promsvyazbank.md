@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Promsvyaz
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![webmoney](https://static.openfintech.io/payment_providers/webmoney/icon.svg?w=278&c=v0.59.26#w100) |[WebMoney](/payment-providers/webmoney/)|`webmoney`| 
+|![accentpay](https://static.openfintech.io/payment_providers/accentpay/icon.png?w=278&c=v0.59.26#w100) |[Accentpay](/payment-providers/accentpay/)|`accentpay`| 
  
 
 ## JSON Object 

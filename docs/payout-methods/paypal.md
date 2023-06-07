@@ -73,9 +73,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PayPal_
 |![sisow](https://static.openfintech.io/payment_providers/sisow/icon.png?w=278&c=v0.59.26#w100) |[Sisow](/payment-providers/sisow/)|`sisow`| 
 |![ccnow](https://static.openfintech.io/payment_providers/ccnow/icon.png?w=278&c=v0.59.26#w100) |[CCNow](/payment-providers/ccnow/)|`ccnow`| 
 |![cardpay](https://static.openfintech.io/payment_providers/cardpay/icon.svg?w=278&c=v0.59.26#w100) |[Unlimint](/payment-providers/cardpay/)|`cardpay`| 
-|![paypal](https://static.openfintech.io/payment_providers/paypal/icon.svg?w=278&c=v0.59.26#w100) |[PayPal](/payment-providers/paypal/)|`paypal`| 
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
-|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![intelligentpayments](https://static.openfintech.io/payment_providers/intelligentpayments/icon.png?w=278&c=v0.59.26#w100) |[Intelligent Payments](/payment-providers/intelligentpayments/)|`intelligentpayments`| 
 |![be2bill](https://static.openfintech.io/payment_providers/be2bill/icon.png?w=278&c=v0.59.26#w100) |[Be2bill](/payment-providers/be2bill/)|`be2bill`| 
 |![multisafepay](https://static.openfintech.io/payment_providers/multisafepay/icon.png?w=278&c=v0.59.26#w100) |[MultiSafepay](/payment-providers/multisafepay/)|`multisafepay`| 
@@ -87,7 +85,6 @@ The list of [Payment Providers](/payment-providers/) that support the _PayPal_
 |![2checkoutcom](https://static.openfintech.io/payment_providers/2checkoutcom/icon.svg?w=278&c=v0.59.26#w100) |[2Checkout](/payment-providers/2checkoutcom/)|`2checkoutcom`| 
 |![yuupay](https://static.openfintech.io/payment_providers/yuupay/icon.png?w=278&c=v0.59.26#w100) |[YuuPay ](/payment-providers/yuupay/)|`yuupay`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
 |![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.png?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
  
 

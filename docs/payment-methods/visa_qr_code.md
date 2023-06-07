@@ -43,6 +43,15 @@ The list of [Payment Services](/payment-services/) based on the _Visa QR Code_
 |![visa_qr_code](https://static.openfintech.io/payment_methods/visa_qr_code/icon.svg?w=278&c=v0.59.26#w100) |[visa_qr_code_vnd_hpp](/payment-services/visa_qr_code_vnd_hpp/)|`visa_qr_code_vnd_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Visa QR Code_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![zotapay](https://static.openfintech.io/payment_providers/zotapay/icon.png?w=278&c=v0.59.26#w100) |[Zotapay](/payment-providers/zotapay/)|`zotapay`| 
+ 
+
 ## JSON Object 
 
 ```json

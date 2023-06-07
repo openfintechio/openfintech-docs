@@ -39,6 +39,8 @@ The list of [Payment Services](/payment-services/) based on the _Mercuryo_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![mercuryo](https://static.openfintech.io/payment_methods/mercuryo/icon.svg?w=278&c=v0.59.26#w100) |[mercuryo_btc_hpp](/payment-services/mercuryo_btc_hpp/)|`mercuryo_btc_hpp`| 
+|![mercuryo](https://static.openfintech.io/payment_methods/mercuryo/icon.svg?w=278&c=v0.59.26#w100) |[mercuryo_usd_hpp](/payment-services/mercuryo_usd_hpp/)|`mercuryo_usd_hpp`| 
+|![mercuryo](https://static.openfintech.io/payment_methods/mercuryo/icon.svg?w=278&c=v0.59.26#w100) |[mercuryo_eur_hpp](/payment-services/mercuryo_eur_hpp/)|`mercuryo_eur_hpp`| 
  
 
 ## Payment Providers 

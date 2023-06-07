@@ -37,15 +37,6 @@ https://static.openfintech.io/payment_methods/mercadopago/logo.png?w=400&c=v0.59
 https://static.openfintech.io/payment_methods/mercadopago/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payment Providers 
- 
-The list of [Payment Providers](/payment-providers/) that support the _MercadoPago_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
- 
-
 ## JSON Object 
 
 ```json

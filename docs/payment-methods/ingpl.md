@@ -39,6 +39,15 @@ The list of [Payment Services](/payment-services/) based on the _ING Bank(Poland
 |![ingpl](https://static.openfintech.io/payment_methods/ingpl/icon.svg?w=278&c=v0.59.26#w100) |[ingbankpl_pln_hpp](/payment-services/ingbankpl_pln_hpp/)|`ingbankpl_pln_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _ING Bank(Poland)_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![ingbankpl](https://static.openfintech.io/payment_providers/ingbankpl/icon.svg?w=278&c=v0.59.26#w100) |[ING Bank Poland](/payment-providers/ingbankpl/)|`ingbankpl`| 
+ 
+
 ## JSON Object 
 
 ```json

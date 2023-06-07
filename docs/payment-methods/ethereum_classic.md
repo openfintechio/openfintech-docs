@@ -37,6 +37,15 @@ The list of [Payment Services](/payment-services/) based on the _Ethereum Classi
 |![ethereum_classic](https://static.openfintech.io/payment_methods/ethereum_classic/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_classic_etc_invoice](/payment-services/ethereum_classic_etc_invoice/)|`ethereum_classic_etc_invoice`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Ethereum Classic_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![amlnode](https://static.openfintech.io/payment_providers/amlnode/icon.png?w=278&c=v0.59.26#w100) |[AML Node](/payment-providers/amlnode/)|`amlnode`| 
+ 
+
 ## JSON Object 
 
 ```json

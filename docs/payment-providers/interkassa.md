@@ -42,23 +42,23 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![webmoneytransfer](https://static.openfintech.io/payment_methods/webmoneytransfer/icon.svg?w=278&c=v0.59.26#w100) |[webmoneytransfer](/payment-methods/webmoneytransfer/)|`webmoneytransfer`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
+|![upi_aggregated](https://static.openfintech.io/payment_methods/upi_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[upi_aggregated](/payment-methods/upi_aggregated/)|`upi_aggregated`| 
+|![webmoneytransfer](https://static.openfintech.io/payment_methods/webmoneytransfer/icon.svg?w=278&c=v0.59.26#w100) |[webmoneytransfer](/payment-methods/webmoneytransfer/)|`webmoneytransfer`| 
+|![advcash](https://static.openfintech.io/payment_methods/advcash/icon.svg?w=278&c=v0.59.26#w100) |[advcash](/payment-methods/advcash/)|`advcash`| 
+|![alfaclick](https://static.openfintech.io/payment_methods/alfaclick/icon.png?w=278&c=v0.59.26#w100) |[alfaclick](/payment-methods/alfaclick/)|`alfaclick`| 
 |![beeline](https://static.openfintech.io/payment_methods/beeline/icon.png?w=278&c=v0.59.26#w100) |[beeline](/payment-methods/beeline/)|`beeline`| 
+|![easypay](https://static.openfintech.io/payment_methods/easypay/icon.png?w=278&c=v0.59.26#w100) |[easypay](/payment-methods/easypay/)|`easypay`| 
+|![euroset](https://static.openfintech.io/payment_methods/euroset/icon.png?w=278&c=v0.59.26#w100) |[euroset](/payment-methods/euroset/)|`euroset`| 
+|![exmo](https://static.openfintech.io/payment_methods/exmo/icon.png?w=278&c=v0.59.26#w100) |[exmo](/payment-methods/exmo/)|`exmo`| 
 |![megafon](https://static.openfintech.io/payment_methods/megafon/icon.png?w=278&c=v0.59.26#w100) |[megafon](/payment-methods/megafon/)|`megafon`| 
 |![mts](https://static.openfintech.io/payment_methods/mts/icon.png?w=278&c=v0.59.26#w100) |[mts](/payment-methods/mts/)|`mts`| 
-|![exmo](https://static.openfintech.io/payment_methods/exmo/icon.png?w=278&c=v0.59.26#w100) |[exmo](/payment-methods/exmo/)|`exmo`| 
-|![yandexmoney](https://static.openfintech.io/payment_methods/yandexmoney/icon.svg?w=278&c=v0.59.26#w100) |[yandexmoney](/payment-methods/yandexmoney/)|`yandexmoney`| 
-|![tele2ru](https://static.openfintech.io/payment_methods/tele2ru/icon.svg?w=278&c=v0.59.26#w100) |[tele2ru](/payment-methods/tele2ru/)|`tele2ru`| 
-|![euroset](https://static.openfintech.io/payment_methods/euroset/icon.png?w=278&c=v0.59.26#w100) |[euroset](/payment-methods/euroset/)|`euroset`| 
-|![svyaznoy](https://static.openfintech.io/payment_methods/svyaznoy/icon.png?w=278&c=v0.59.26#w100) |[svyaznoy](/payment-methods/svyaznoy/)|`svyaznoy`| 
 |![perfectmoney](https://static.openfintech.io/payment_methods/perfectmoney/icon.svg?w=278&c=v0.59.26#w100) |[perfectmoney](/payment-methods/perfectmoney/)|`perfectmoney`| 
-|![alfaclick](https://static.openfintech.io/payment_methods/alfaclick/icon.png?w=278&c=v0.59.26#w100) |[alfaclick](/payment-methods/alfaclick/)|`alfaclick`| 
-|![psbretail](https://static.openfintech.io/payment_methods/psbretail/icon.png?w=278&c=v0.59.26#w100) |[psbretail](/payment-methods/psbretail/)|`psbretail`| 
-|![easypay](https://static.openfintech.io/payment_methods/easypay/icon.png?w=278&c=v0.59.26#w100) |[easypay](/payment-methods/easypay/)|`easypay`| 
 |![mminvoicing](https://static.openfintech.io/payment_methods/mminvoicing/icon.png?w=278&c=v0.59.26#w100) |[mminvoicing](/payment-methods/mminvoicing/)|`mminvoicing`| 
-|![advcash](https://static.openfintech.io/payment_methods/advcash/icon.svg?w=278&c=v0.59.26#w100) |[advcash](/payment-methods/advcash/)|`advcash`| 
-|![upi_aggregated](https://static.openfintech.io/payment_methods/upi_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[upi_aggregated](/payment-methods/upi_aggregated/)|`upi_aggregated`| 
+|![psbretail](https://static.openfintech.io/payment_methods/psbretail/icon.png?w=278&c=v0.59.26#w100) |[psbretail](/payment-methods/psbretail/)|`psbretail`| 
+|![svyaznoy](https://static.openfintech.io/payment_methods/svyaznoy/icon.png?w=278&c=v0.59.26#w100) |[svyaznoy](/payment-methods/svyaznoy/)|`svyaznoy`| 
+|![tele2ru](https://static.openfintech.io/payment_methods/tele2ru/icon.svg?w=278&c=v0.59.26#w100) |[tele2ru](/payment-methods/tele2ru/)|`tele2ru`| 
+|![yandexmoney](https://static.openfintech.io/payment_methods/yandexmoney/icon.svg?w=278&c=v0.59.26#w100) |[yandexmoney](/payment-methods/yandexmoney/)|`yandexmoney`| 
 |![bank_of_india](https://static.openfintech.io/payment_methods/bank_of_india/icon.svg?w=278&c=v0.59.26#w100) |[bank_of_india](/payment-methods/bank_of_india/)|`bank_of_india`| 
 |![maharashtra_bank_india](https://static.openfintech.io/payment_methods/maharashtra_bank_india/icon.svg?w=278&c=v0.59.26#w100) |[maharashtra_bank_india](/payment-methods/maharashtra_bank_india/)|`maharashtra_bank_india`| 
 |![canara_bank](https://static.openfintech.io/payment_methods/canara_bank/icon.svg?w=278&c=v0.59.26#w100) |[canara_bank](/payment-methods/canara_bank/)|`canara_bank`| 
@@ -95,6 +95,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![olamoney](https://static.openfintech.io/payment_methods/olamoney/icon.png?w=278&c=v0.59.26#w100) |[olamoney](/payment-methods/olamoney/)|`olamoney`| 
 |![freecharge](https://static.openfintech.io/payment_methods/freecharge/icon.svg?w=278&c=v0.59.26#w100) |[freecharge](/payment-methods/freecharge/)|`freecharge`| 
 |![phonepe](https://static.openfintech.io/payment_methods/phonepe/icon.svg?w=278&c=v0.59.26#w100) |[phonepe](/payment-methods/phonepe/)|`phonepe`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
 |![allahabad_bank](https://static.openfintech.io/payment_methods/allahabad_bank/icon.svg?w=278&c=v0.59.26#w100) |[allahabad_bank](/payment-methods/allahabad_bank/)|`allahabad_bank`| 
 |![axis_bank](https://static.openfintech.io/payment_methods/axis_bank/icon.svg?w=278&c=v0.59.26#w100) |[axis_bank](/payment-methods/axis_bank/)|`axis_bank`| 
 |![corporation_bank](https://static.openfintech.io/payment_methods/corporation_bank/icon.svg?w=278&c=v0.59.26#w100) |[corporation_bank](/payment-methods/corporation_bank/)|`corporation_bank`| 
@@ -102,7 +103,6 @@ The list of supported [Payment Methods](/payment-methods/)
 |![city_union_bank](https://static.openfintech.io/payment_methods/city_union_bank/icon.svg?w=278&c=v0.59.26#w100) |[city_union_bank](/payment-methods/city_union_bank/)|`city_union_bank`| 
 |![vijaya_bank](https://static.openfintech.io/payment_methods/vijaya_bank/icon.svg?w=278&c=v0.59.26#w100) |[vijaya_bank](/payment-methods/vijaya_bank/)|`vijaya_bank`| 
 |![united_bank_of_india](https://static.openfintech.io/payment_methods/united_bank_of_india/icon.svg?w=278&c=v0.59.26#w100) |[united_bank_of_india](/payment-methods/united_bank_of_india/)|`united_bank_of_india`| 
-|![state_bank_of_india](https://static.openfintech.io/payment_methods/state_bank_of_india/icon.svg?w=278&c=v0.59.26#w100) |[state_bank_of_india](/payment-methods/state_bank_of_india/)|`state_bank_of_india`| 
 |![rbl_bank](https://static.openfintech.io/payment_methods/rbl_bank/icon.png?w=278&c=v0.59.26#w100) |[rbl_bank](/payment-methods/rbl_bank/)|`rbl_bank`| 
 |![andhra_bank](https://static.openfintech.io/payment_methods/andhra_bank/icon.svg?w=278&c=v0.59.26#w100) |[andhra_bank](/payment-methods/andhra_bank/)|`andhra_bank`| 
 |![bank_of_baroda](https://static.openfintech.io/payment_methods/bank_of_baroda/icon.svg?w=278&c=v0.59.26#w100) |[bank_of_baroda](/payment-methods/bank_of_baroda/)|`bank_of_baroda`| 
@@ -122,6 +122,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
 |![upi](https://static.openfintech.io/payout_methods/upi/icon.svg?w=278&c=v0.59.26#w40) |[upi](payout-methodsupi/)|`upi`| 
 |![pix](https://static.openfintech.io/payout_methods/pix/icon.svg?w=278&c=v0.59.26#w40) |[pix](payout-methodspix/)|`pix`| 
+|![imps](https://static.openfintech.io/payout_methods/imps/icon.png?w=278&c=v0.59.26#w40) |[imps](payout-methodsimps/)|`imps`| 
  
 
 ## JSON Object 
@@ -137,23 +138,23 @@ The list of supported [Payout Methods](/payout-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    "webmoneytransfer",
     "payment_card",
+    "upi_aggregated",
+    "webmoneytransfer",
+    "advcash",
+    "alfaclick",
     "beeline",
+    "easypay",
+    "euroset",
+    "exmo",
     "megafon",
     "mts",
-    "exmo",
-    "yandexmoney",
-    "tele2ru",
-    "euroset",
-    "svyaznoy",
     "perfectmoney",
-    "alfaclick",
-    "psbretail",
-    "easypay",
     "mminvoicing",
-    "advcash",
-    "upi_aggregated",
+    "psbretail",
+    "svyaznoy",
+    "tele2ru",
+    "yandexmoney",
     "bank_of_india",
     "maharashtra_bank_india",
     "canara_bank",
@@ -190,6 +191,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "olamoney",
     "freecharge",
     "phonepe",
+    "bank_transfer",
     "allahabad_bank",
     "axis_bank",
     "corporation_bank",
@@ -197,7 +199,6 @@ The list of supported [Payout Methods](/payout-methods/)
     "city_union_bank",
     "vijaya_bank",
     "united_bank_of_india",
-    "state_bank_of_india",
     "rbl_bank",
     "andhra_bank",
     "bank_of_baroda",
@@ -210,7 +211,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "payment_card",
     "bank_transfer",
     "upi",
-    "pix"
+    "pix",
+    "imps"
   ],
   "metadata":null,
   "name":{

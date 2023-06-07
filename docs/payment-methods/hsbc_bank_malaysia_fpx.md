@@ -37,6 +37,15 @@ The list of [Payment Services](/payment-services/) based on the _HSBC Bank Malay
 |![hsbc_bank_malaysia_fpx](https://static.openfintech.io/payment_methods/hsbc_bank_malaysia_fpx/icon.svg?w=278&c=v0.59.26#w100) |[hsbc_bank_malaysia_fpx_myr_hpp](/payment-services/hsbc_bank_malaysia_fpx_myr_hpp/)|`hsbc_bank_malaysia_fpx_myr_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _HSBC Bank Malaysia (FPX), Malaysia_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
+ 
+
 ## JSON Object 
 
 ```json

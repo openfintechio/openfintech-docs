@@ -39,6 +39,15 @@ The list of [Payment Services](/payment-services/) based on the _SberBank_
 |![sberbank](https://static.openfintech.io/payment_methods/sberbank/icon.svg?w=278&c=v0.59.26#w100) |[sberbank_rub_hpp](/payment-services/sberbank_rub_hpp/)|`sberbank_rub_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _SberBank_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![accentpay](https://static.openfintech.io/payment_providers/accentpay/icon.png?w=278&c=v0.59.26#w100) |[Accentpay](/payment-providers/accentpay/)|`accentpay`| 
+ 
+
 ## JSON Object 
 
 ```json

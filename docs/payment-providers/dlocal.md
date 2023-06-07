@@ -35,6 +35,15 @@ https://static.openfintech.io/payment_providers/dlocal/logo.svg?w=400&c=v0.59.26
 https://static.openfintech.io/payment_providers/dlocal/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![dlocal](https://static.openfintech.io/payout_methods/dlocal/icon.svg?w=278&c=v0.59.26#w40) |[dlocal](payout-methodsdlocal/)|`dlocal`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -57,7 +66,9 @@ https://static.openfintech.io/payment_providers/dlocal/icon.svg?w=278&c=v0.59.26
     "IN"
   ],
   "payment_method":null,
-  "payout_method":null,
+  "payout_method":[
+    "dlocal"
+  ],
   "metadata":{
     "about_payments_code":"dlocal"
   },

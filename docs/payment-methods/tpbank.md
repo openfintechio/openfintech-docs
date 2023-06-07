@@ -37,6 +37,15 @@ The list of [Payment Services](/payment-services/) based on the _TP Bank Vietnam
 |![tpbank](https://static.openfintech.io/payment_methods/tpbank/icon.png?w=278&c=v0.59.26#w100) |[tpbank_vnd_hpp](/payment-services/tpbank_vnd_hpp/)|`tpbank_vnd_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _TP Bank Vietnam_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
+ 
+
 ## JSON Object 
 
 ```json

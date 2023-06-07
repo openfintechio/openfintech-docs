@@ -58,14 +58,10 @@ The list of supported [Payout Methods](/payout-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
-|![papara](https://static.openfintech.io/payout_methods/papara/icon.svg?w=278&c=v0.59.26#w40) |[papara](payout-methodspapara/)|`papara`| 
-|![interac](https://static.openfintech.io/payout_methods/interac/icon.svg?w=278&c=v0.59.26#w40) |[interac](payout-methodsinterac/)|`interac`| 
-|![pix](https://static.openfintech.io/payout_methods/pix/icon.svg?w=278&c=v0.59.26#w40) |[pix](payout-methodspix/)|`pix`| 
 |![ziraat_bank](https://static.openfintech.io/payout_methods/ziraat_bank/icon.png?w=278&c=v0.59.26#w40) |[ziraat_bank](payout-methodsziraat_bank/)|`ziraat_bank`| 
 |![turkey_econom_bank](https://static.openfintech.io/payout_methods/turkey_econom_bank/icon.png?w=278&c=v0.59.26#w40) |[turkey_econom_bank](payout-methodsturkey_econom_bank/)|`turkey_econom_bank`| 
-|![turkey_is_bank](https://static.openfintech.io/payout_methods/turkey_is_bank/icon.png?w=278&c=v0.59.26#w40) |[turkey_is_bank](payout-methodsturkey_is_bank/)|`turkey_is_bank`| 
 |![ing_bank_turkey](https://static.openfintech.io/payout_methods/ing_bank_turkey/icon.svg?w=278&c=v0.59.26#w40) |[ing_bank_turkey](payout-methodsing_bank_turkey/)|`ing_bank_turkey`| 
+|![turkey_is_bank](https://static.openfintech.io/payout_methods/turkey_is_bank/icon.png?w=278&c=v0.59.26#w40) |[turkey_is_bank](payout-methodsturkey_is_bank/)|`turkey_is_bank`| 
 |![ininal](https://static.openfintech.io/payout_methods/ininal/icon.svg?w=278&c=v0.59.26#w40) |[ininal](payout-methodsininal/)|`ininal`| 
 |![hegra_sparebank](https://static.openfintech.io/payout_methods/hegra_sparebank/icon.png?w=278&c=v0.59.26#w40) |[hegra_sparebank](payout-methodshegra_sparebank/)|`hegra_sparebank`| 
 |![sparebank_1_smn](https://static.openfintech.io/payout_methods/sparebank_1_smn/icon.svg?w=278&c=v0.59.26#w40) |[sparebank_1_smn](payout-methodssparebank_1_smn/)|`sparebank_1_smn`| 
@@ -104,14 +100,10 @@ The list of supported [Payout Methods](/payout-methods/)
     "online_banking_qr"
   ],
   "payout_method":[
-    "bank_transfer",
-    "papara",
-    "interac",
-    "pix",
     "ziraat_bank",
     "turkey_econom_bank",
-    "turkey_is_bank",
     "ing_bank_turkey",
+    "turkey_is_bank",
     "ininal",
     "hegra_sparebank",
     "sparebank_1_smn",

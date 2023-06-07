@@ -58,6 +58,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![geopaynet](https://static.openfintech.io/payout_methods/geopaynet/icon.svg?w=278&c=v0.59.26#w40) |[geopaynet](payout-methodsgeopaynet/)|`geopaynet`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
  
 
 ## JSON Object 
@@ -78,7 +79,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "binancepay"
   ],
   "payout_method":[
-    "geopaynet"
+    "geopaynet",
+    "payment_card"
   ],
   "metadata":null,
   "name":{

@@ -45,7 +45,6 @@ The list of [Payment Providers](/payment-providers/) that support the _SEPA Dire
 |:---:|:---:|:---:| 
 |![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.png?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
 |![magnius](https://static.openfintech.io/payment_providers/magnius/icon.png?w=278&c=v0.59.26#w100) |[Magnius](/payment-providers/magnius/)|`magnius`| 
-|![paydoo](https://static.openfintech.io/payment_providers/paydoo/icon.png?w=278&c=v0.59.26#w100) |[Paynt](/payment-providers/paydoo/)|`paydoo`| 
 |![mollie](https://static.openfintech.io/payment_providers/mollie/icon.png?w=278&c=v0.59.26#w100) |[Mollie](/payment-providers/mollie/)|`mollie`| 
 |![paynl](https://static.openfintech.io/payment_providers/paynl/icon.png?w=278&c=v0.59.26#w100) |[Pay.nl](/payment-providers/paynl/)|`paynl`| 
 |![paymill](https://static.openfintech.io/payment_providers/paymill/icon.png?w=278&c=v0.59.26#w100) |[PAYMILL](/payment-providers/paymill/)|`paymill`| 
@@ -54,7 +53,6 @@ The list of [Payment Providers](/payment-providers/) that support the _SEPA Dire
 |![atosworldline](https://static.openfintech.io/payment_providers/atosworldline/icon.png?w=278&c=v0.59.26#w100) |[Worldline](/payment-providers/atosworldline/)|`atosworldline`| 
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
 |![lemonway](https://static.openfintech.io/payment_providers/lemonway/icon.png?w=278&c=v0.59.26#w100) |[Lemon Way](/payment-providers/lemonway/)|`lemonway`| 
-|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![spryng](https://static.openfintech.io/payment_providers/spryng/icon.png?w=278&c=v0.59.26#w100) |[Spryng Payments](/payment-providers/spryng/)|`spryng`| 
 |![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/icon.png?w=278&c=v0.59.26#w100) |[Buckaroo](/payment-providers/buckaroo/)|`buckaroo`| 
 |![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/icon.png?w=278&c=v0.59.26#w100) |[Alternative Payments](/payment-providers/alternativepayments/)|`alternativepayments`| 
@@ -68,7 +66,6 @@ The list of [Payment Providers](/payment-providers/) that support the _SEPA Dire
 |![klikpay](https://static.openfintech.io/payment_providers/klikpay/icon.png?w=278&c=v0.59.26#w100) |[Klik & Pay](/payment-providers/klikpay/)|`klikpay`| 
 |![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
  
 
 ## JSON Object 

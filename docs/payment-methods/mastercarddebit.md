@@ -44,8 +44,6 @@ The list of [Payment Providers](/payment-providers/) that support the _MasterCar
 |![omnipayment](https://static.openfintech.io/payment_providers/omnipayment/icon.png?w=278&c=v0.59.26#w100) |[OmniPayment](/payment-providers/omnipayment/)|`omnipayment`| 
 |![magnius](https://static.openfintech.io/payment_providers/magnius/icon.png?w=278&c=v0.59.26#w100) |[Magnius](/payment-providers/magnius/)|`magnius`| 
 |![iyzipayments](https://static.openfintech.io/payment_providers/iyzipayments/icon.png?w=278&c=v0.59.26#w100) |[iyzico](/payment-providers/iyzipayments/)|`iyzipayments`| 
-|![fondy](https://static.openfintech.io/payment_providers/fondy/icon.svg?w=278&c=v0.59.26#w100) |[FONDY](/payment-providers/fondy/)|`fondy`| 
-|![paydoo](https://static.openfintech.io/payment_providers/paydoo/icon.png?w=278&c=v0.59.26#w100) |[Paynt](/payment-providers/paydoo/)|`paydoo`| 
 |![dalberry](https://static.openfintech.io/payment_providers/dalberry/icon.png?w=278&c=v0.59.26#w100) |[Dalberry](/payment-providers/dalberry/)|`dalberry`| 
 |![mollie](https://static.openfintech.io/payment_providers/mollie/icon.png?w=278&c=v0.59.26#w100) |[Mollie](/payment-providers/mollie/)|`mollie`| 
 |![paynl](https://static.openfintech.io/payment_providers/paynl/icon.png?w=278&c=v0.59.26#w100) |[Pay.nl](/payment-providers/paynl/)|`paynl`| 
@@ -61,7 +59,6 @@ The list of [Payment Providers](/payment-providers/) that support the _MasterCar
 |![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
 |![lemonway](https://static.openfintech.io/payment_providers/lemonway/icon.png?w=278&c=v0.59.26#w100) |[Lemon Way](/payment-providers/lemonway/)|`lemonway`| 
 |![dalpay](https://static.openfintech.io/payment_providers/dalpay/icon.png?w=278&c=v0.59.26#w100) |[DalPay](/payment-providers/dalpay/)|`dalpay`| 
-|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/icon.png?w=278&c=v0.59.26#w100) |[Buckaroo](/payment-providers/buckaroo/)|`buckaroo`| 
 |![payu](https://static.openfintech.io/payment_providers/payu/icon.svg?w=278&c=v0.59.26#w100) |[PayU](/payment-providers/payu/)|`payu`| 
 |![kalixa](https://static.openfintech.io/payment_providers/kalixa/icon.png?w=278&c=v0.59.26#w100) |[Kalixa Payments Group](/payment-providers/kalixa/)|`kalixa`| 
@@ -99,10 +96,7 @@ The list of [Payment Providers](/payment-providers/) that support the _MasterCar
 |![paymentbillsservice](https://static.openfintech.io/payment_providers/paymentbillsservice/icon.png?w=278&c=v0.59.26#w100) |[PaymentBillsService](/payment-providers/paymentbillsservice/)|`paymentbillsservice`| 
 |![yuupay](https://static.openfintech.io/payment_providers/yuupay/icon.png?w=278&c=v0.59.26#w100) |[YuuPay ](/payment-providers/yuupay/)|`yuupay`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
 |![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.png?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
-|![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
-|![odeonpay](https://static.openfintech.io/payment_providers/odeonpay/icon.png?w=278&c=v0.59.26#w100) |[OdeonPay](/payment-providers/odeonpay/)|`odeonpay`| 
  
 
 ## JSON Object 

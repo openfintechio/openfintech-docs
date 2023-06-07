@@ -37,6 +37,15 @@ The list of [Payment Services](/payment-services/) based on the _Bank Islam Mala
 |![bank_islam_malaysia_fpx](https://static.openfintech.io/payment_methods/bank_islam_malaysia_fpx/icon.svg?w=278&c=v0.59.26#w100) |[bank_islam_malaysia_fpx_myr_hpp](/payment-services/bank_islam_malaysia_fpx_myr_hpp/)|`bank_islam_malaysia_fpx_myr_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Bank Islam Malaysia (FPX)_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
+ 
+
 ## JSON Object 
 
 ```json

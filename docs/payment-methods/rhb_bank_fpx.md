@@ -37,6 +37,15 @@ The list of [Payment Services](/payment-services/) based on the _RHB Bank (FPX)_
 |![rhb_bank_fpx](https://static.openfintech.io/payment_methods/rhb_bank_fpx/icon.svg?w=278&c=v0.59.26#w100) |[rhb_bank_fpx_myr_hpp](/payment-services/rhb_bank_fpx_myr_hpp/)|`rhb_bank_fpx_myr_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _RHB Bank (FPX)_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
+ 
+
 ## JSON Object 
 
 ```json

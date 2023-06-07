@@ -56,7 +56,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Aura_
 |![computop](https://static.openfintech.io/payment_providers/computop/icon.png?w=278&c=v0.59.26#w100) |[Computop](/payment-providers/computop/)|`computop`| 
 |![ebanx](https://static.openfintech.io/payment_providers/ebanx/icon.png?w=278&c=v0.59.26#w100) |[EBANX](/payment-providers/ebanx/)|`ebanx`| 
 |![allpago](https://static.openfintech.io/payment_providers/allpago/icon.png?w=278&c=v0.59.26#w100) |[allpago - accept payments in Latin America](/payment-providers/allpago/)|`allpago`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
  
 
 ## JSON Object 

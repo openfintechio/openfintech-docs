@@ -48,20 +48,6 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
-|![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/icon.svg?w=278&c=v0.59.26#w100) |[americanexpress](/payment-methods/americanexpress/)|`americanexpress`| 
-|![jcb](https://static.openfintech.io/payment_methods/jcb/icon.png?w=278&c=v0.59.26#w100) |[jcb](/payment-methods/jcb/)|`jcb`| 
-|![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.png?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
-|![discover](https://static.openfintech.io/payment_methods/discover/icon.svg?w=278&c=v0.59.26#w100) |[discover](/payment-methods/discover/)|`discover`| 
-|![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.png?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
-|![chinaunionpay](https://static.openfintech.io/payment_methods/chinaunionpay/icon.svg?w=278&c=v0.59.26#w100) |[chinaunionpay](/payment-methods/chinaunionpay/)|`chinaunionpay`| 
-|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.png?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
-|![giropay](https://static.openfintech.io/payment_methods/giropay/icon.svg?w=278&c=v0.59.26#w100) |[giropay](/payment-methods/giropay/)|`giropay`| 
-|![directdebit](https://static.openfintech.io/payment_methods/directdebit/icon.png?w=278&c=v0.59.26#w100) |[directdebit](/payment-methods/directdebit/)|`directdebit`| 
-|![sofortbanking](https://static.openfintech.io/payment_methods/sofortbanking/icon.svg?w=278&c=v0.59.26#w100) |[sofortbanking](/payment-methods/sofortbanking/)|`sofortbanking`| 
-|![trustly](https://static.openfintech.io/payment_methods/trustly/icon.svg?w=278&c=v0.59.26#w100) |[trustly](/payment-methods/trustly/)|`trustly`| 
-|![ideal](https://static.openfintech.io/payment_methods/ideal/icon.svg?w=278&c=v0.59.26#w100) |[ideal](/payment-methods/ideal/)|`ideal`| 
-|![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_klarna](/payment-methods/bank_transfer_klarna/)|`bank_transfer_klarna`| 
-|![sepadirectdebit](https://static.openfintech.io/payment_methods/sepadirectdebit/icon.svg?w=278&c=v0.59.26#w100) |[sepadirectdebit](/payment-methods/sepadirectdebit/)|`sepadirectdebit`| 
  
 
 ## Payout Methods 
@@ -136,21 +122,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "AE"
   ],
   "payment_method":[
-    "payment_card",
-    "americanexpress",
-    "jcb",
-    "visaelectron",
-    "discover",
-    "visadebit",
-    "chinaunionpay",
-    "mastercarddebit",
-    "giropay",
-    "directdebit",
-    "sofortbanking",
-    "trustly",
-    "ideal",
-    "bank_transfer_klarna",
-    "sepadirectdebit"
+    "payment_card"
   ],
   "payout_method":[
     "payment_card"

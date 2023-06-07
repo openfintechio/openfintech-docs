@@ -37,6 +37,15 @@ The list of [Payment Services](/payment-services/) based on the _Curfex Japan_
 |![curfex](https://static.openfintech.io/payment_methods/curfex/icon.png?w=278&c=v0.59.26#w100) |[curfex_jpy_hpp](/payment-services/curfex_jpy_hpp/)|`curfex_jpy_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Curfex Japan_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
+ 
+
 ## JSON Object 
 
 ```json

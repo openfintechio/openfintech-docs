@@ -37,6 +37,15 @@ The list of [Payment Services](/payment-services/) based on the _UOB Bank (FPX),
 |![uob_fpx](https://static.openfintech.io/payment_methods/uob_fpx/icon.svg?w=278&c=v0.59.26#w100) |[uob_fpx_myr_hpp](/payment-services/uob_fpx_myr_hpp/)|`uob_fpx_myr_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _UOB Bank (FPX), Malaysia_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
+ 
+
 ## JSON Object 
 
 ```json

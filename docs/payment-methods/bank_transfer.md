@@ -65,14 +65,11 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![zotapay](https://static.openfintech.io/payment_providers/zotapay/icon.png?w=278&c=v0.59.26#w100) |[Zotapay](/payment-providers/zotapay/)|`zotapay`| 
+|![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![certusfinance](https://static.openfintech.io/payment_providers/certusfinance/icon.png?w=278&c=v0.59.26#w100) |[Certus Finance](/payment-providers/certusfinance/)|`certusfinance`| 
-|![spoynt](https://static.openfintech.io/payment_providers/spoynt/icon.svg?w=278&c=v0.59.26#w100) |[Spoynt](/payment-providers/spoynt/)|`spoynt`| 
-|![manual](https://static.openfintech.io/payment_providers/manual/icon.svg?w=278&c=v0.59.26#w100) |[Manual](/payment-providers/manual/)|`manual`| 
 |![ezeebill](https://static.openfintech.io/payment_providers/ezeebill/icon.svg?w=278&c=v0.59.26#w100) |[Ezeebill](/payment-providers/ezeebill/)|`ezeebill`| 
 |![poli](https://static.openfintech.io/payment_providers/poli/icon.svg?w=278&c=v0.59.26#w100) |[POLi](/payment-providers/poli/)|`poli`| 
 |![jetonlp](https://static.openfintech.io/payment_providers/jetonlp/icon.png?w=278&c=v0.59.26#w100) |[JetonLP](/payment-providers/jetonlp/)|`jetonlp`| 
-|![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
-|![payretailers](https://static.openfintech.io/payment_providers/payretailers/icon.svg?w=278&c=v0.59.26#w100) |[PayRetailers](/payment-providers/payretailers/)|`payretailers`| 
 |![v9pay](https://static.openfintech.io/payment_providers/v9pay/icon.png?w=278&c=v0.59.26#w100) |[V9Pay](/payment-providers/v9pay/)|`v9pay`| 
 |![alycepay](https://static.openfintech.io/payment_providers/alycepay/icon.png?w=278&c=v0.59.26#w100) |[Alycepay](/payment-providers/alycepay/)|`alycepay`| 
 |![copay](https://static.openfintech.io/payment_providers/copay/icon.svg?w=278&c=v0.59.26#w100) |[Copay](/payment-providers/copay/)|`copay`| 

@@ -47,7 +47,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Community
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![spoynt](https://static.openfintech.io/payment_providers/spoynt/icon.svg?w=278&c=v0.59.26#w100) |[Spoynt](/payment-providers/spoynt/)|`spoynt`| 
 |![jetonlp](https://static.openfintech.io/payment_providers/jetonlp/icon.png?w=278&c=v0.59.26#w100) |[JetonLP](/payment-providers/jetonlp/)|`jetonlp`| 
 |![maldopay](https://static.openfintech.io/payment_providers/maldopay/icon.png?w=278&c=v0.59.26#w100) |[MaldoPay](/payment-providers/maldopay/)|`maldopay`| 
  

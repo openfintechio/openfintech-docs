@@ -45,6 +45,15 @@ The list of [Payment Services](/payment-services/) based on the _Privatbank Term
 |![privatbank_ssk](https://static.openfintech.io/payment_methods/privatbank_ssk/icon.png?w=278&c=v0.59.26#w100) |[privatbank_ssk_eur_hpp](/payment-services/privatbank_ssk_eur_hpp/)|`privatbank_ssk_eur_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Privatbank Terminals_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![liqpay](https://static.openfintech.io/payment_providers/liqpay/icon.svg?w=278&c=v0.59.26#w100) |[LiqPay](/payment-providers/liqpay/)|`liqpay`| 
+ 
+
 ## JSON Object 
 
 ```json

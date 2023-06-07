@@ -37,6 +37,15 @@ The list of [Payment Services](/payment-services/) based on the _Bank Simpanan N
 |![bank_simpanan_nasional_fpx](https://static.openfintech.io/payment_methods/bank_simpanan_nasional_fpx/icon.svg?w=278&c=v0.59.26#w100) |[bank_simpanan_nasional_fpx_myr_hpp](/payment-services/bank_simpanan_nasional_fpx_myr_hpp/)|`bank_simpanan_nasional_fpx_myr_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Bank Simpanan Nasional (FPX), Malaysia_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
+ 
+
 ## JSON Object 
 
 ```json

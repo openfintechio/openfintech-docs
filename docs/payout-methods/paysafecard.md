@@ -59,7 +59,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Paysafeca
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
 |![paygol](https://static.openfintech.io/payment_providers/paygol/icon.png?w=278&c=v0.59.26#w100) |[PayGol](/payment-providers/paygol/)|`paygol`| 
 |![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
-|![safecharge](https://static.openfintech.io/payment_providers/safecharge/icon.svg?w=278&c=v0.59.26#w100) |[Nuvei](/payment-providers/safecharge/)|`safecharge`| 
 |![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/icon.png?w=278&c=v0.59.26#w100) |[Buckaroo](/payment-providers/buckaroo/)|`buckaroo`| 
 |![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/icon.png?w=278&c=v0.59.26#w100) |[Alternative Payments](/payment-providers/alternativepayments/)|`alternativepayments`| 
 |![docdatapayments](https://static.openfintech.io/payment_providers/docdatapayments/icon.png?w=278&c=v0.59.26#w100) |[docdata payments](/payment-providers/docdatapayments/)|`docdatapayments`| 
@@ -75,7 +74,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Paysafeca
 |![altapay](https://static.openfintech.io/payment_providers/altapay/icon.png?w=278&c=v0.59.26#w100) |[AltaPay](/payment-providers/altapay/)|`altapay`| 
 |![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
-|![maxpay](https://static.openfintech.io/payment_providers/maxpay/icon.svg?w=278&c=v0.59.26#w100) |[Maxpay](/payment-providers/maxpay/)|`maxpay`| 
 |![payrexx](https://static.openfintech.io/payment_providers/payrexx/icon.png?w=278&c=v0.59.26#w100) |[Payrexx Payments](/payment-providers/payrexx/)|`payrexx`| 
 |![alliedwallet2](https://static.openfintech.io/payment_providers/alliedwallet2/icon.png?w=278&c=v0.59.26#w100) |[Allied Wallet](/payment-providers/alliedwallet2/)|`alliedwallet2`| 
 |![computop](https://static.openfintech.io/payment_providers/computop/icon.png?w=278&c=v0.59.26#w100) |[Computop](/payment-providers/computop/)|`computop`| 
@@ -88,9 +86,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Paysafeca
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.png?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
 |![2000charge](https://static.openfintech.io/payment_providers/2000charge/icon.png?w=278&c=v0.59.26#w100) |[2000Charge.com](/payment-providers/2000charge/)|`2000charge`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
-|![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
 |![fibonatix](https://static.openfintech.io/payment_providers/fibonatix/icon.png?w=278&c=v0.59.26#w100) |[Fibonatix](/payment-providers/fibonatix/)|`fibonatix`| 
 |![paysafecard](https://static.openfintech.io/payment_providers/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[Paysafecard](/payment-providers/paysafecard/)|`paysafecard`| 
+|![micropayments](https://static.openfintech.io/payment_providers/micropayments/icon.svg?w=278&c=v0.59.26#w100) |[MicroPayments](/payment-providers/micropayments/)|`micropayments`| 
  
 
 ## JSON Object 

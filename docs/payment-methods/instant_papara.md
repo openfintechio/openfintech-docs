@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Instant P
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![maxpayment](https://static.openfintech.io/payment_providers/maxpayment/icon.svg?w=278&c=v0.59.26#w100) |[Maxpayment](/payment-providers/maxpayment/)|`maxpayment`| 
 |![maldopay](https://static.openfintech.io/payment_providers/maldopay/icon.png?w=278&c=v0.59.26#w100) |[MaldoPay](/payment-providers/maldopay/)|`maldopay`| 
  
 

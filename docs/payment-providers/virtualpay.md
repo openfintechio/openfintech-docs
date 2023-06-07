@@ -43,10 +43,10 @@ The list of supported [Payment Methods](/payment-methods/)
 |![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money](/payment-methods/airtel_money/)|`airtel_money`| 
 |![vodacom](https://static.openfintech.io/payment_methods/vodacom/icon.png?w=278&c=v0.59.26#w100) |[vodacom](/payment-methods/vodacom/)|`vodacom`| 
 |![tigo_pesa](https://static.openfintech.io/payment_methods/tigo_pesa/icon.png?w=278&c=v0.59.26#w100) |[tigo_pesa](/payment-methods/tigo_pesa/)|`tigo_pesa`| 
-|![halotel](https://static.openfintech.io/payment_methods/halotel/icon.png?w=278&c=v0.59.26#w100) |[halotel](/payment-methods/halotel/)|`halotel`| 
+|![halo_pesa](https://static.openfintech.io/payment_methods/halo_pesa/icon.png?w=278&c=v0.59.26#w100) |[halo_pesa](/payment-methods/halo_pesa/)|`halo_pesa`| 
 |![mtn](https://static.openfintech.io/payment_methods/mtn/icon.svg?w=278&c=v0.59.26#w100) |[mtn](/payment-methods/mtn/)|`mtn`| 
-|![equitel](https://static.openfintech.io/payment_methods/equitel/icon.png?w=278&c=v0.59.26#w100) |[equitel](/payment-methods/equitel/)|`equitel`| 
 |![zantel_ezypesa](https://static.openfintech.io/payment_methods/zantel_ezypesa/icon.png?w=278&c=v0.59.26#w100) |[zantel_ezypesa](/payment-methods/zantel_ezypesa/)|`zantel_ezypesa`| 
+|![equitel](https://static.openfintech.io/payment_methods/equitel/icon.png?w=278&c=v0.59.26#w100) |[equitel](/payment-methods/equitel/)|`equitel`| 
  
 
 ## Payout Methods 
@@ -75,10 +75,10 @@ The list of supported [Payout Methods](/payout-methods/)
     "airtel_money",
     "vodacom",
     "tigo_pesa",
-    "halotel",
+    "halo_pesa",
     "mtn",
-    "equitel",
-    "zantel_ezypesa"
+    "zantel_ezypesa",
+    "equitel"
   ],
   "payout_method":[
     "airtel_money",

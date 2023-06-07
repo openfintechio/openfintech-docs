@@ -37,6 +37,15 @@ The list of [Payment Services](/payment-services/) based on the _Standard Charte
 |![standard_chartered_bank_malaysia_fpx](https://static.openfintech.io/payment_methods/standard_chartered_bank_malaysia_fpx/icon.svg?w=278&c=v0.59.26#w100) |[standard_chartered_bank_malaysia_fpx_myr_hpp](/payment-services/standard_chartered_bank_malaysia_fpx_myr_hpp/)|`standard_chartered_bank_malaysia_fpx_myr_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Standard Chartered Bank (FPX)_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
+ 
+
 ## JSON Object 
 
 ```json

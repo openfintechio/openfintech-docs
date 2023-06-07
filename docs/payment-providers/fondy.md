@@ -44,20 +44,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
-|![visaelectron](https://static.openfintech.io/payment_methods/visaelectron/icon.png?w=278&c=v0.59.26#w100) |[visaelectron](/payment-methods/visaelectron/)|`visaelectron`| 
-|![visadebit](https://static.openfintech.io/payment_methods/visadebit/icon.png?w=278&c=v0.59.26#w100) |[visadebit](/payment-methods/visadebit/)|`visadebit`| 
-|![vpay](https://static.openfintech.io/payment_methods/vpay/icon.png?w=278&c=v0.59.26#w100) |[vpay](/payment-methods/vpay/)|`vpay`| 
-|![mastercarddebit](https://static.openfintech.io/payment_methods/mastercarddebit/icon.png?w=278&c=v0.59.26#w100) |[mastercarddebit](/payment-methods/mastercarddebit/)|`mastercarddebit`| 
-|![account2account](https://static.openfintech.io/payment_methods/account2account/icon.png?w=278&c=v0.59.26#w100) |[account2account](/payment-methods/account2account/)|`account2account`| 
-|![giropay](https://static.openfintech.io/payment_methods/giropay/icon.svg?w=278&c=v0.59.26#w100) |[giropay](/payment-methods/giropay/)|`giropay`| 
-|![komercnibanka](https://static.openfintech.io/payment_methods/komercnibanka/icon.png?w=278&c=v0.59.26#w100) |[komercnibanka](/payment-methods/komercnibanka/)|`komercnibanka`| 
-|![raiffeisenbank](https://static.openfintech.io/payment_methods/raiffeisenbank/icon.svg?w=278&c=v0.59.26#w100) |[raiffeisenbank](/payment-methods/raiffeisenbank/)|`raiffeisenbank`| 
-|![banklink](https://static.openfintech.io/payment_methods/banklink/icon.png?w=278&c=v0.59.26#w100) |[banklink](/payment-methods/banklink/)|`banklink`| 
-|![ceskasporitelna](https://static.openfintech.io/payment_methods/ceskasporitelna/icon.png?w=278&c=v0.59.26#w100) |[ceskasporitelna](/payment-methods/ceskasporitelna/)|`ceskasporitelna`| 
-|![sofortbanking](https://static.openfintech.io/payment_methods/sofortbanking/icon.svg?w=278&c=v0.59.26#w100) |[sofortbanking](/payment-methods/sofortbanking/)|`sofortbanking`| 
-|![csob](https://static.openfintech.io/payment_methods/csob/icon.png?w=278&c=v0.59.26#w100) |[csob](/payment-methods/csob/)|`csob`| 
-|![sepacredittransfer](https://static.openfintech.io/payment_methods/sepacredittransfer/icon.svg?w=278&c=v0.59.26#w100) |[sepacredittransfer](/payment-methods/sepacredittransfer/)|`sepacredittransfer`| 
-|![ekonto](https://static.openfintech.io/payment_methods/ekonto/icon.png?w=278&c=v0.59.26#w100) |[ekonto](/payment-methods/ekonto/)|`ekonto`| 
+ 
+
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
  
 
 ## JSON Object 
@@ -108,23 +103,11 @@ The list of supported [Payment Methods](/payment-methods/)
     "AE"
   ],
   "payment_method":[
-    "payment_card",
-    "visaelectron",
-    "visadebit",
-    "vpay",
-    "mastercarddebit",
-    "account2account",
-    "giropay",
-    "komercnibanka",
-    "raiffeisenbank",
-    "banklink",
-    "ceskasporitelna",
-    "sofortbanking",
-    "csob",
-    "sepacredittransfer",
-    "ekonto"
+    "payment_card"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "payment_card"
+  ],
   "metadata":{
     "about_payments_code":"fondy"
   },

@@ -39,6 +39,15 @@ The list of [Payout Services](/payout-services/) based on the _Sberbank_
 |![sberbank](https://static.openfintech.io/payout_methods/sberbank/icon.svg?w=278&c=v0.59.26#w40) |[sberbank_rub](/payout-services/sberbank_rub/)|`sberbank_rub`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Sberbank_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![accentpay](https://static.openfintech.io/payment_providers/accentpay/icon.png?w=278&c=v0.59.26#w100) |[Accentpay](/payment-providers/accentpay/)|`accentpay`| 
+ 
+
 ## JSON Object 
 
 ```json

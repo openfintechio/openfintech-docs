@@ -39,15 +39,6 @@ The list of [Payment Services](/payment-services/) based on the _Halotel_
 |![halotel](https://static.openfintech.io/payment_methods/halotel/icon.png?w=278&c=v0.59.26#w100) |[halotel_tzs_invoice](/payment-services/halotel_tzs_invoice/)|`halotel_tzs_invoice`| 
  
 
-## Payment Providers 
- 
-The list of [Payment Providers](/payment-providers/) that support the _Halotel_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![virtualpay](https://static.openfintech.io/payment_providers/virtualpay/icon.png?w=278&c=v0.59.26#w100) |[Virtual Pay](/payment-providers/virtualpay/)|`virtualpay`| 
- 
-
 ## JSON Object 
 
 ```json
