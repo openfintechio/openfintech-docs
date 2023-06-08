@@ -39,6 +39,15 @@ The list of [Payment Services](/payment-services/) based on the _DuitNow_
 |![duitnow](https://static.openfintech.io/payment_methods/duitnow/icon.png?w=278&c=v0.59.26#w100) |[duitnow_myr_hpp](/payment-services/duitnow_myr_hpp/)|`duitnow_myr_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _DuitNow_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
+ 
+
 ## JSON Object 
 
 ```json

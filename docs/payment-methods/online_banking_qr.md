@@ -49,6 +49,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Online Ba
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![jetonlp](https://static.openfintech.io/payment_providers/jetonlp/icon.png?w=278&c=v0.59.26#w100) |[JetonLP](/payment-providers/jetonlp/)|`jetonlp`| 
+|![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
 |![copay](https://static.openfintech.io/payment_providers/copay/icon.svg?w=278&c=v0.59.26#w100) |[Copay](/payment-providers/copay/)|`copay`| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
 |![maldopay](https://static.openfintech.io/payment_providers/maldopay/icon.png?w=278&c=v0.59.26#w100) |[MaldoPay](/payment-providers/maldopay/)|`maldopay`| 

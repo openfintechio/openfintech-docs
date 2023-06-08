@@ -39,6 +39,17 @@ The list of [Payment Services](/payment-services/) based on the _Hero Payments_
 |![hero_payments](https://static.openfintech.io/payment_methods/hero_payments/icon.svg?w=278&c=v0.59.26#w100) |[hero_payments_eur_hpp](/payment-services/hero_payments_eur_hpp/)|`hero_payments_eur_hpp`| 
 |![hero_payments](https://static.openfintech.io/payment_methods/hero_payments/icon.svg?w=278&c=v0.59.26#w100) |[hero_payments_usd_hpp](/payment-services/hero_payments_usd_hpp/)|`hero_payments_usd_hpp`| 
 |![hero_payments](https://static.openfintech.io/payment_methods/hero_payments/icon.svg?w=278&c=v0.59.26#w100) |[hero_payments_kzt_hpp](/payment-services/hero_payments_kzt_hpp/)|`hero_payments_kzt_hpp`| 
+|![hero_payments](https://static.openfintech.io/payment_methods/hero_payments/icon.svg?w=278&c=v0.59.26#w100) |[hero_payments_inr_hpp](/payment-services/hero_payments_inr_hpp/)|`hero_payments_inr_hpp`| 
+|![hero_payments](https://static.openfintech.io/payment_methods/hero_payments/icon.svg?w=278&c=v0.59.26#w100) |[hero_payments_rub_hpp](/payment-services/hero_payments_rub_hpp/)|`hero_payments_rub_hpp`| 
+|![hero_payments](https://static.openfintech.io/payment_methods/hero_payments/icon.svg?w=278&c=v0.59.26#w100) |[hero_payments_uah_hpp](/payment-services/hero_payments_uah_hpp/)|`hero_payments_uah_hpp`| 
+|![hero_payments](https://static.openfintech.io/payment_methods/hero_payments/icon.svg?w=278&c=v0.59.26#w100) |[hero_payments_try_hpp](/payment-services/hero_payments_try_hpp/)|`hero_payments_try_hpp`| 
+|![hero_payments](https://static.openfintech.io/payment_methods/hero_payments/icon.svg?w=278&c=v0.59.26#w100) |[hero_payments_uzs_hpp](/payment-services/hero_payments_uzs_hpp/)|`hero_payments_uzs_hpp`| 
+|![hero_payments](https://static.openfintech.io/payment_methods/hero_payments/icon.svg?w=278&c=v0.59.26#w100) |[hero_payments_azn_hpp](/payment-services/hero_payments_azn_hpp/)|`hero_payments_azn_hpp`| 
+|![hero_payments](https://static.openfintech.io/payment_methods/hero_payments/icon.svg?w=278&c=v0.59.26#w100) |[hero_payments_aed_hpp](/payment-services/hero_payments_aed_hpp/)|`hero_payments_aed_hpp`| 
+|![hero_payments](https://static.openfintech.io/payment_methods/hero_payments/icon.svg?w=278&c=v0.59.26#w100) |[hero_payments_idr_hpp](/payment-services/hero_payments_idr_hpp/)|`hero_payments_idr_hpp`| 
+|![hero_payments](https://static.openfintech.io/payment_methods/hero_payments/icon.svg?w=278&c=v0.59.26#w100) |[hero_payments_pkr_hpp](/payment-services/hero_payments_pkr_hpp/)|`hero_payments_pkr_hpp`| 
+|![hero_payments](https://static.openfintech.io/payment_methods/hero_payments/icon.svg?w=278&c=v0.59.26#w100) |[hero_payments_vnd_hpp](/payment-services/hero_payments_vnd_hpp/)|`hero_payments_vnd_hpp`| 
+|![hero_payments](https://static.openfintech.io/payment_methods/hero_payments/icon.svg?w=278&c=v0.59.26#w100) |[hero_payments_gbp_hpp](/payment-services/hero_payments_gbp_hpp/)|`hero_payments_gbp_hpp`| 
  
 
 ## Payment Providers 

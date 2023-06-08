@@ -40,6 +40,15 @@ The list of [Payment Services](/payment-services/) based on the _ShopeePay_
 |![shopeepay](https://static.openfintech.io/payment_methods/shopeepay/icon.svg?w=278&c=v0.59.26#w100) |[shopeepay_myr_hpp](/payment-services/shopeepay_myr_hpp/)|`shopeepay_myr_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _ShopeePay_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
+ 
+
 ## JSON Object 
 
 ```json

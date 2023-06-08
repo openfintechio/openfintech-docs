@@ -191,6 +191,7 @@
 |![contactpay](https://static.openfintech.io/payment_providers/contactpay/logo.png?w=600&c=v0.59.26#w100) |[**ContactPay**](contactpay/)|`contactpay`| 
 |![copay](https://static.openfintech.io/payment_providers/copay/logo.svg?w=600&c=v0.59.26#w100) |[**Copay**](copay/)|`copay`| 
 |![corvuspay](https://static.openfintech.io/payment_providers/corvuspay/logo.svg?w=600&c=v0.59.26#w100) |[**CorvusPay**](corvuspay/)|`corvuspay`| 
+|![cpay](https://static.openfintech.io/payment_providers/cpay/logo.png?w=600&c=v0.59.26#w100) |[**C.Pay**](cpay/)|`cpay`| 
 |![cps](https://static.openfintech.io/payment_providers/cps/logo.svg?w=600&c=v0.59.26#w100) |[**CPS**](cps/)|`cps`| 
 |![crederes](https://static.openfintech.io/payment_providers/crederes/logo.svg?w=600&c=v0.59.26#w100) |[**Crederes**](crederes/)|`crederes`| 
 |![creditcall](https://static.openfintech.io/payment_providers/creditcall/logo.svg?w=600&c=v0.59.26#w100) |[**Creditcall**](creditcall/)|`creditcall`| 

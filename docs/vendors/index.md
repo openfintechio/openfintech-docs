@@ -426,6 +426,7 @@
 |![copay](https://static.openfintech.io/vendors/copay/logo.svg?w=600&c=v0.59.26#w200) |[**Copay**](copay/)|`copay`| 
 |![corefy](https://static.openfintech.io/vendors/corefy/logo.svg?w=600&c=v0.59.26#w200) |[**Corefy**](corefy/)|`corefy`| 
 |![corvuspay](https://static.openfintech.io/vendors/corvuspay/logo.png?w=600&c=v0.59.26#w200) |[**CorvusPay**](corvuspay/)|`corvuspay`| 
+|![cpay](https://static.openfintech.io/vendors/cpay/logo.png?w=600&c=v0.59.26#w200) |[**C.Pay**](cpay/)|`cpay`| 
 |![cps](https://static.openfintech.io/vendors/cps/logo.png?w=600&c=v0.59.26#w200) |[**CPS**](cps/)|`cps`| 
 |![crederes](https://static.openfintech.io/vendors/crederes/logo.svg?w=600&c=v0.59.26#w200) |[**Crederes**](crederes/)|`crederes`| 
 |![credit_union_bank](https://static.openfintech.io/vendors/credit_union_bank/logo.png?w=600&c=v0.59.26#w200) |[**National Credit Union Federation of Korea**](credit_union_bank/)|`credit_union_bank`| 

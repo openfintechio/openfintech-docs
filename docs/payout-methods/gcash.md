@@ -41,6 +41,15 @@ The list of [Payout Services](/payout-services/) based on the _GCash_
 |![gcash](https://static.openfintech.io/payout_methods/gcash/icon.png?w=278&c=v0.59.26#w40) |[gcash_php](/payout-services/gcash_php/)|`gcash_php`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _GCash_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
+ 
+
 ## JSON Object 
 
 ```json

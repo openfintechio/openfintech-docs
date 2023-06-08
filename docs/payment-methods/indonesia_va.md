@@ -39,6 +39,15 @@ The list of [Payment Services](/payment-services/) based on the _Virtual Account
 |![indonesia_va](https://static.openfintech.io/payment_methods/indonesia_va/icon.svg?w=278&c=v0.59.26#w100) |[indonesia_va_idr_hpp](/payment-services/indonesia_va_idr_hpp/)|`indonesia_va_idr_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Virtual Accounts Indonesia_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
+ 
+
 ## JSON Object 
 
 ```json

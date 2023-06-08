@@ -49,6 +49,7 @@ The list of [Payment Providers](/payment-providers/) that support the _7-Eleven_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
+|![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
  
 
 ## JSON Object 
