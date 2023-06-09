@@ -224,6 +224,7 @@
 |![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_mxn_hpp`](card_transfer_mxn_hpp/)| 
 |![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_rub_hpp`](card_transfer_rub_hpp/)| 
 |![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_rub_invoice`](card_transfer_rub_invoice/)| 
+|![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_tjs_hpp`](card_transfer_tjs_hpp/)| 
 |![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_uah_hpp`](card_transfer_uah_hpp/)| 
 |![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_usd_hpp`](card_transfer_usd_hpp/)| 
 |![Uzcard card transfer](https://static.openfintech.io/payment_methods/card_transfer_uzcard/logo.svg?w=400&c=v0.59.26#w200) |[**Uzcard card transfer**](/payment-methods/card_transfer_uzcard/)|[`card_transfer_uzcard_uzs_invoice`](card_transfer_uzcard_uzs_invoice/)| 

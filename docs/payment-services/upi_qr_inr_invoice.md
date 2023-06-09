@@ -19,6 +19,36 @@
  
 **Amount limits:** from `0.01` to `1000000000` INR 
 
+## Fields 
+
+### Overview 
+
+|Key|Required|Type|Regexp| 
+|:---:|:---:|:---:|:---:| 
+|`vpa`|✔|`string`|`/^.{2,}@\w+$/`| 
+ 
+
+### Details 
+ 
+1. **`vpa`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{2,}@\w+$/` 
+ 
+	Required: `1` 
+ 
+	Label:  
+	: [EN] VPA 
+	: [RU] VPA 
+	: [UK] VPA 
+ 
+	Hint:  
+	: [EN] Enter VPA 
+	: [RU] Введите VPA 
+	: [UK] Введіть VPA 
+ 
+
 ## JSON Object 
 
 ```json
@@ -27,7 +57,25 @@
   "flow":"invoice",
   "method":"upi_qr",
   "currency":"INR",
-  "fields":null,
+  "fields":[
+    {
+      "key":"vpa",
+      "type":"string",
+      "label":{
+        "en":"VPA",
+        "ru":"VPA",
+        "uk":"VPA"
+      },
+      "hint":{
+        "en":"Enter VPA",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 VPA",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c VPA"
+      },
+      "regexp":"\/^.{2,}@\\w+$\/",
+      "required":true,
+      "position":1
+    }
+  ],
   "amount_min":0.01,
   "amount_max":1000000000
 }
