@@ -38,9 +38,9 @@
 	Required: `1` 
  
 	Label:  
-	: [EN] 3Mob Utel number: 
-	: [UK] Номер 3Mob Utel: 
-	: [RU] Номер 3Mob Utel: 
+	: [EN] 3Mob Utel number:  
+	: [UK] Номер 3Mob Utel:  
+	: [RU] Номер 3Mob Utel:  
  
 	Hint:  
 	: [EN] Enter your phone number in international format 
@@ -60,9 +60,9 @@
       "key":"phone_number",
       "type":"string",
       "label":{
-        "en":"3Mob Utel number:",
-        "uk":"\u041d\u043e\u043c\u0435\u0440 3Mob Utel:",
-        "ru":"\u041d\u043e\u043c\u0435\u0440 3Mob Utel:"
+        "en":"3Mob Utel number: ",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 3Mob Utel: ",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 3Mob Utel: "
       },
       "regexp":"\/^(\\+380)[0-9]{9}$\/",
       "required":true,

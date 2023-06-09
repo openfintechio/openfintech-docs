@@ -1,5 +1,5 @@
 
-# KTB Investment & Securities Co. Ltd (service) 
+# KTB Investment Securities (service) 
 ![ktb_bank_krw](https://static.openfintech.io/payout_methods/ktb_bank_krw/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,9 +12,9 @@
  
 **Name:** 
  
-:	[EN] KTB Investment & Securities Co. Ltd 
-:	[RU] KTB Investment & Securities Co. Ltd 
-:	[UK] KTB Investment & Securities Co. Ltd 
+:	[EN] KTB Investment Securities 
+:	[RU] KTB Investment Securities 
+:	[UK] KTB Investment Securities 
  
 **Amount limits:** from `1` to `133000000` KRW 
 

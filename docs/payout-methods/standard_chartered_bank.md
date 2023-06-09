@@ -35,6 +35,7 @@ The list of [Payout Services](/payout-services/) based on the _Standard Chartere
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![standard_chartered_bank](https://static.openfintech.io/payout_methods/standard_chartered_bank/icon.svg?w=278&c=v0.59.26#w40) |[standard_chartered_bank_myr](/payout-services/standard_chartered_bank_myr/)|`standard_chartered_bank_myr`| 
+|![standard_chartered_bank](https://static.openfintech.io/payout_methods/standard_chartered_bank/icon.svg?w=278&c=v0.59.26#w40) |[standard_chartered_bank_ngn](/payout-services/standard_chartered_bank_ngn/)|`standard_chartered_bank_ngn`| 
  
 
 ## JSON Object 

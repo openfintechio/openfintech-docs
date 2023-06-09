@@ -35,6 +35,7 @@ The list of [Payout Services](/payout-services/) based on the _Sterling Bank_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![sterling_bank](https://static.openfintech.io/payout_methods/sterling_bank/icon.png?w=278&c=v0.59.26#w40) |[sterling_bank_php](/payout-services/sterling_bank_php/)|`sterling_bank_php`| 
+|![sterling_bank](https://static.openfintech.io/payout_methods/sterling_bank/icon.png?w=278&c=v0.59.26#w40) |[sterling_bank_ngn](/payout-services/sterling_bank_ngn/)|`sterling_bank_ngn`| 
  
 
 ## JSON Object 

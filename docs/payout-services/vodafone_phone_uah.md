@@ -38,9 +38,9 @@
 	Required: `1` 
  
 	Label:  
-	: [EN] Vodafone number: 
-	: [UK] Номер Vodafone: 
-	: [RU] Номер Vodafone: 
+	: [EN] Vodafone number:  
+	: [UK] Номер Vodafone:  
+	: [RU] Номер Vodafone:  
  
 	Hint:  
 	: [EN] Enter your phone number in international format 
@@ -60,9 +60,9 @@
       "key":"phone_number",
       "type":"string",
       "label":{
-        "en":"Vodafone number:",
-        "uk":"\u041d\u043e\u043c\u0435\u0440 Vodafone:",
-        "ru":"\u041d\u043e\u043c\u0435\u0440 Vodafone:"
+        "en":"Vodafone number: ",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 Vodafone: ",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 Vodafone: "
       },
       "regexp":"\/^(\\+380)[0-9]{9}$\/",
       "required":true,

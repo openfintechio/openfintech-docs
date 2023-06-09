@@ -1,5 +1,5 @@
 
-# KTB Investment & Securities Co. Ltd 
+# KTB Investment Securities 
 ![ktb_bank](https://static.openfintech.io/payment_methods/ktb_bank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -9,9 +9,9 @@
  
 **Name:** 
  
-:	[EN] KTB Investment & Securities Co. Ltd 
-:	[RU] KTB Investment & Securities Co. Ltd 
-:	[UK] KTB Investment & Securities Co. Ltd 
+:	[EN] KTB Investment Securities 
+:	[RU] KTB Investment Securities 
+:	[UK] KTB Investment Securities 
  
 **Category:** `bank_transfer` 
  
@@ -34,7 +34,7 @@ https://static.openfintech.io/payment_methods/ktb_bank/icon.svg?w=278&c=v0.59.26
 
 ## Payout Services 
  
-The list of [Payout Services](/payout-services/) based on the _KTB Investment & Securities Co. Ltd_ 
+The list of [Payout Services](/payout-services/) based on the _KTB Investment Securities_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -48,9 +48,9 @@ The list of [Payout Services](/payout-services/) based on the _KTB Investment & 
   "code":"ktb_bank",
   "vendor":"ktb_bank",
   "name":{
-    "en":"KTB Investment & Securities Co. Ltd",
-    "ru":"KTB Investment & Securities Co. Ltd",
-    "uk":"KTB Investment & Securities Co. Ltd"
+    "en":"KTB Investment Securities",
+    "ru":"KTB Investment Securities",
+    "uk":"KTB Investment Securities"
   },
   "description":null,
   "countries":null,

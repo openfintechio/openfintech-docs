@@ -38,9 +38,9 @@
 	Required: `1` 
  
 	Label:  
-	: [EN] Lifecell number: 
-	: [UK] Номер Lifecell: 
-	: [RU] Номер Lifecell: 
+	: [EN] Lifecell number:  
+	: [UK] Номер Lifecell:  
+	: [RU] Номер Lifecell:  
  
 	Hint:  
 	: [EN] Enter your phone number in international format 
@@ -60,9 +60,9 @@
       "key":"phone_number",
       "type":"string",
       "label":{
-        "en":"Lifecell number:",
-        "uk":"\u041d\u043e\u043c\u0435\u0440 Lifecell:",
-        "ru":"\u041d\u043e\u043c\u0435\u0440 Lifecell:"
+        "en":"Lifecell number: ",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 Lifecell: ",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 Lifecell: "
       },
       "regexp":"\/^(\\+380)[0-9]{9}$\/",
       "required":true,

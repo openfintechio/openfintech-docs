@@ -38,9 +38,9 @@
 	Required: `1` 
  
 	Label:  
-	: [EN] Kyivstar number: 
-	: [UK] Номер Київстар: 
-	: [RU] Номер Киевстар: 
+	: [EN] Kyivstar number:  
+	: [UK] Номер Київстар:  
+	: [RU] Номер Киевстар:  
  
 	Hint:  
 	: [EN] Enter your phone number in international format 
@@ -60,9 +60,9 @@
       "key":"phone_number",
       "type":"string",
       "label":{
-        "en":"Kyivstar number:",
-        "uk":"\u041d\u043e\u043c\u0435\u0440 \u041a\u0438\u0457\u0432\u0441\u0442\u0430\u0440:",
-        "ru":"\u041d\u043e\u043c\u0435\u0440 \u041a\u0438\u0435\u0432\u0441\u0442\u0430\u0440:"
+        "en":"Kyivstar number: ",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u041a\u0438\u0457\u0432\u0441\u0442\u0430\u0440: ",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u041a\u0438\u0435\u0432\u0441\u0442\u0430\u0440: "
       },
       "regexp":"\/^(\\+380)[0-9]{9}$\/",
       "required":true,

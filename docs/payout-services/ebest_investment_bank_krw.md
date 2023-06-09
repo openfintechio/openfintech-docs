@@ -1,5 +1,5 @@
 
-# EBEST Investment & Securities Co. Ltd (service) 
+# EBEST Investment Securities (service) 
 ![ebest_investment_bank_krw](https://static.openfintech.io/payout_methods/ebest_investment_bank_krw/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,9 +12,9 @@
  
 **Name:** 
  
-:	[EN] EBEST Investment & Securities Co. Ltd 
-:	[RU] EBEST Investment & Securities Co. Ltd 
-:	[UK] EBEST Investment & Securities Co. Ltd 
+:	[EN] EBEST Investment Securities 
+:	[RU] EBEST Investment Securities 
+:	[UK] EBEST Investment Securities 
  
 **Amount limits:** from `1` to `133000000` KRW 
 

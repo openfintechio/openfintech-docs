@@ -1,5 +1,5 @@
 
-# NH Investment & Securities (service) 
+# NH Investment Securities (service) 
 ![nhqv_bank_krw](https://static.openfintech.io/payout_methods/nhqv_bank_krw/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,9 +12,9 @@
  
 **Name:** 
  
-:	[EN] NH Investment & Securities 
-:	[RU] NH Investment & Securities 
-:	[UK] NH Investment & Securities 
+:	[EN] NH Investment Securities 
+:	[RU] NH Investment Securities 
+:	[UK] NH Investment Securities 
  
 **Amount limits:** from `1` to `133000000` KRW 
 

@@ -1,5 +1,5 @@
 
-# NH Investment & Securities 
+# NH Investment Securities 
 ![nhqv_bank](https://static.openfintech.io/payment_methods/nhqv_bank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -9,9 +9,9 @@
  
 **Name:** 
  
-:	[EN] NH Investment & Securities 
-:	[RU] NH Investment & Securities 
-:	[UK] NH Investment & Securities 
+:	[EN] NH Investment Securities 
+:	[RU] NH Investment Securities 
+:	[UK] NH Investment Securities 
  
 **Category:** `bank_transfer` 
  
@@ -34,7 +34,7 @@ https://static.openfintech.io/payment_methods/nhqv_bank/icon.svg?w=278&c=v0.59.2
 
 ## Payout Services 
  
-The list of [Payout Services](/payout-services/) based on the _NH Investment & Securities_ 
+The list of [Payout Services](/payout-services/) based on the _NH Investment Securities_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -48,9 +48,9 @@ The list of [Payout Services](/payout-services/) based on the _NH Investment & S
   "code":"nhqv_bank",
   "vendor":"nhqv_bank",
   "name":{
-    "en":"NH Investment & Securities",
-    "ru":"NH Investment & Securities",
-    "uk":"NH Investment & Securities"
+    "en":"NH Investment Securities",
+    "ru":"NH Investment Securities",
+    "uk":"NH Investment Securities"
   },
   "description":null,
   "countries":null,

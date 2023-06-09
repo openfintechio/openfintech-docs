@@ -1,5 +1,5 @@
 
-# EBEST Investment & Securities Co. Ltd 
+# EBEST Investment Securities 
 ![ebest_investment_bank](https://static.openfintech.io/payment_methods/ebest_investment_bank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -9,9 +9,9 @@
  
 **Name:** 
  
-:	[EN] EBEST Investment & Securities Co. Ltd 
-:	[RU] EBEST Investment & Securities Co. Ltd 
-:	[UK] EBEST Investment & Securities Co. Ltd 
+:	[EN] EBEST Investment Securities 
+:	[RU] EBEST Investment Securities 
+:	[UK] EBEST Investment Securities 
  
 **Category:** `bank_transfer` 
  
@@ -34,7 +34,7 @@ https://static.openfintech.io/payment_methods/ebest_investment_bank/icon.svg?w=2
 
 ## Payout Services 
  
-The list of [Payout Services](/payout-services/) based on the _EBEST Investment & Securities Co. Ltd_ 
+The list of [Payout Services](/payout-services/) based on the _EBEST Investment Securities_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -48,9 +48,9 @@ The list of [Payout Services](/payout-services/) based on the _EBEST Investment 
   "code":"ebest_investment_bank",
   "vendor":"ebest_investment_bank",
   "name":{
-    "en":"EBEST Investment & Securities Co. Ltd",
-    "ru":"EBEST Investment & Securities Co. Ltd",
-    "uk":"EBEST Investment & Securities Co. Ltd"
+    "en":"EBEST Investment Securities",
+    "ru":"EBEST Investment Securities",
+    "uk":"EBEST Investment Securities"
   },
   "description":null,
   "countries":null,
