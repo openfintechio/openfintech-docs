@@ -553,6 +553,7 @@
 |![payex](https://static.openfintech.io/payment_providers/payex/logo.png?w=600&c=v0.59.26#w100) |[**PayEx**](payex/)|`payex`| 
 |![payfast](https://static.openfintech.io/payment_providers/payfast/logo.png?w=600&c=v0.59.26#w100) |[**PayFast**](payfast/)|`payfast`| 
 |![payfort](https://static.openfintech.io/payment_providers/payfort/logo.png?w=600&c=v0.59.26#w100) |[**PayFort**](payfort/)|`payfort`| 
+|![payfuture](https://static.openfintech.io/payment_providers/payfuture/logo.svg?w=600&c=v0.59.26#w100) |[**Payfuture**](payfuture/)|`payfuture`| 
 |![paygames](https://static.openfintech.io/payment_providers/paygames/logo.png?w=600&c=v0.59.26#w100) |[**PayGames**](paygames/)|`paygames`| 
 |![paygarden](https://static.openfintech.io/payment_providers/paygarden/logo.png?w=600&c=v0.59.26#w100) |[**PayGarden**](paygarden/)|`paygarden`| 
 |![paygate](https://static.openfintech.io/payment_providers/paygate/logo.png?w=600&c=v0.59.26#w100) |[**PayGate**](paygate/)|`paygate`| 

@@ -160,6 +160,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![oonex](https://static.openfintech.io/payment_providers/oonex/icon.png?w=278&c=v0.59.26#w100) |[Oonex](/payment-providers/oonex/)|`oonex`| 
 |![cardinity](https://static.openfintech.io/payment_providers/cardinity/icon.png?w=278&c=v0.59.26#w100) |[Cardinity](/payment-providers/cardinity/)|`cardinity`| 
 |![wirecapital](https://static.openfintech.io/payment_providers/wirecapital/icon.svg?w=278&c=v0.59.26#w100) |[Wirecapital](/payment-providers/wirecapital/)|`wirecapital`| 
+|![peachpayments](https://static.openfintech.io/payment_providers/peachpayments/icon.png?w=278&c=v0.59.26#w100) |[Peach Payments](/payment-providers/peachpayments/)|`peachpayments`| 
 |![checkoutcom](https://static.openfintech.io/payment_providers/checkoutcom/icon.svg?w=278&c=v0.59.26#w100) |[Checkout.com](/payment-providers/checkoutcom/)|`checkoutcom`| 
 |![paypal](https://static.openfintech.io/payment_providers/paypal/icon.svg?w=278&c=v0.59.26#w100) |[PayPal](/payment-providers/paypal/)|`paypal`| 
 |![dusupay](https://static.openfintech.io/payment_providers/dusupay/icon.png?w=278&c=v0.59.26#w100) |[Dusupay](/payment-providers/dusupay/)|`dusupay`| 

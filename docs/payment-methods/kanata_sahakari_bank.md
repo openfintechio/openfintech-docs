@@ -46,6 +46,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Janata Sa
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![virtouspayments](https://static.openfintech.io/payment_providers/virtouspayments/icon.png?w=278&c=v0.59.26#w100) |[Virtous Payments](/payment-providers/virtouspayments/)|`virtouspayments`| 
+|![payfuture](https://static.openfintech.io/payment_providers/payfuture/icon.svg?w=278&c=v0.59.26#w100) |[Payfuture](/payment-providers/payfuture/)|`payfuture`| 
  
 
 ## JSON Object 

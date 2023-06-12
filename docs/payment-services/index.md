@@ -51,6 +51,7 @@
 |![Apple Pay](https://static.openfintech.io/payment_methods/applepay/logo.svg?w=400&c=v0.59.26#w200) |[**Apple Pay**](/payment-methods/applepay/)|[`applepay_usd_hpp`](applepay_usd_hpp/)| 
 |![Bank Artha Graha](https://static.openfintech.io/payment_methods/artha_graha_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Artha Graha**](/payment-methods/artha_graha_bank/)|[`artha_graha_bank_idr_hpp`](artha_graha_bank_idr_hpp/)| 
 |![Asia Commercial Bank QR](https://static.openfintech.io/payment_methods/asia_commercial_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Asia Commercial Bank QR**](/payment-methods/asia_commercial_bank_qr/)|[`asia_commercial_bank_qr_vnd_hpp`](asia_commercial_bank_qr_vnd_hpp/)| 
+|![Asia Commercial Bank QR](https://static.openfintech.io/payment_methods/asia_commercial_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Asia Commercial Bank QR**](/payment-methods/asia_commercial_bank_qr/)|[`asia_commercial_bank_qr_vnd_invoice`](asia_commercial_bank_qr_vnd_invoice/)| 
 |![Asia Commercial Bank](https://static.openfintech.io/payment_methods/asia_commercial_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Asia Commercial Bank**](/payment-methods/asia_commercial_bank/)|[`asia_commercial_bank_vnd_hpp`](asia_commercial_bank_vnd_hpp/)| 
 |![Astropay](https://static.openfintech.io/payment_methods/astropay/logo.svg?w=400&c=v0.59.26#w200) |[**Astropay**](/payment-methods/astropay/)|[`astropay_try_hpp`](astropay_try_hpp/)| 
 |![Astropay - Cash / Invoice](https://static.openfintech.io/payment_methods/astropaycash/logo.svg?w=400&c=v0.59.26#w200) |[**Astropay - Cash / Invoice**](/payment-methods/astropaycash/)|[`astropaycash_eur_hpp`](astropaycash_eur_hpp/)| 
@@ -126,6 +127,7 @@
 |![Beeline](https://static.openfintech.io/payment_methods/beeline/logo.png?w=400&c=v0.59.26#w200) |[**Beeline**](/payment-methods/beeline/)|[`beeline_rub_hpp`](beeline_rub_hpp/)| 
 |![Beeline](https://static.openfintech.io/payment_methods/beeline/logo.png?w=400&c=v0.59.26#w200) |[**Beeline**](/payment-methods/beeline/)|[`beeline_rub_invoice`](beeline_rub_invoice/)| 
 |![BIDV Bank QR](https://static.openfintech.io/payment_methods/bidv_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**BIDV Bank QR**](/payment-methods/bidv_bank_qr/)|[`bidv_bank_qr_vnd_hpp`](bidv_bank_qr_vnd_hpp/)| 
+|![BIDV Bank QR](https://static.openfintech.io/payment_methods/bidv_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**BIDV Bank QR**](/payment-methods/bidv_bank_qr/)|[`bidv_bank_qr_vnd_invoice`](bidv_bank_qr_vnd_invoice/)| 
 |![BIDV Bank](https://static.openfintech.io/payment_methods/bidv_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BIDV Bank**](/payment-methods/bidv_bank/)|[`bidv_bank_vnd_hpp`](bidv_bank_vnd_hpp/)| 
 |![Binance Coin](https://static.openfintech.io/payment_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Coin**](/payment-methods/binance_coin/)|[`binance_coin_bnb_hpp`](binance_coin_bnb_hpp/)| 
 |![Binance smart chain](https://static.openfintech.io/payment_methods/binance_smart_chain/logo.png?w=400&c=v0.59.26#w200) |[**Binance smart chain**](/payment-methods/binance_smart_chain/)|[`binance_smart_chain_bep20_bnb_hpp`](binance_smart_chain_bep20_bnb_hpp/)| 
@@ -306,6 +308,7 @@
 |![Diners Club International](https://static.openfintech.io/payment_methods/dinersclub/logo.svg?w=400&c=v0.59.26#w200) |[**Diners Club International**](/payment-methods/dinersclub/)|[`dinersclub_eur_hpp`](dinersclub_eur_hpp/)| 
 |![Direct Debit](https://static.openfintech.io/payment_methods/directdebit/logo.png?w=400&c=v0.59.26#w200) |[**Direct Debit**](/payment-methods/directdebit/)|[`directdebit_eur_hpp`](directdebit_eur_hpp/)| 
 |![Dogecoin](https://static.openfintech.io/payment_methods/dogecoin/logo.svg?w=400&c=v0.59.26#w200) |[**Dogecoin**](/payment-methods/dogecoin/)|[`dogecoin_doge_hpp`](dogecoin_doge_hpp/)| 
+|![Dong A Bank Qr](https://static.openfintech.io/payment_methods/dong_a_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Dong A Bank Qr**](/payment-methods/dong_a_bank_qr/)|[`dong_a_bank_qr_vnd_invoice`](dong_a_bank_qr_vnd_invoice/)| 
 |![Dong A Bank](https://static.openfintech.io/payment_methods/dong_a_bank/logo.png?w=400&c=v0.59.26#w200) |[**Dong A Bank**](/payment-methods/dong_a_bank/)|[`dong_a_bank_vnd_hpp`](dong_a_bank_vnd_hpp/)| 
 |![DuitNow](https://static.openfintech.io/payment_methods/duitnow/logo.png?w=400&c=v0.59.26#w200) |[**DuitNow**](/payment-methods/duitnow/)|[`duitnow_myr_hpp`](duitnow_myr_hpp/)| 
 ||| **E** ||
@@ -348,6 +351,7 @@
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_usdt_hpp`](ethereum_usdt_hpp/)| 
 |![Euroset](https://static.openfintech.io/payment_methods/euroset/logo.png?w=400&c=v0.59.26#w200) |[**Euroset**](/payment-methods/euroset/)|[`euroset_rub_hpp`](euroset_rub_hpp/)| 
 |![EVERRICH Postal Savings and Insurance Bank](https://static.openfintech.io/payment_methods/everrich_postal_savings_and_insurance_bank/logo.svg?w=400&c=v0.59.26#w200) |[**EVERRICH Postal Savings and Insurance Bank**](/payment-methods/everrich_postal_savings_and_insurance_bank/)|[`everrich_postal_savings_and_insurance_bank_krw_hpp`](everrich_postal_savings_and_insurance_bank_krw_hpp/)| 
+|![Exim Bank Qr](https://static.openfintech.io/payment_methods/exim_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Exim Bank Qr**](/payment-methods/exim_bank_qr/)|[`exim_bank_qr_vnd_invoice`](exim_bank_qr_vnd_invoice/)| 
 |![Exim Bank](https://static.openfintech.io/payment_methods/exim_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Exim Bank**](/payment-methods/exim_bank/)|[`exim_bank_vnd_hpp`](exim_bank_vnd_hpp/)| 
 |![Exmo](https://static.openfintech.io/payment_methods/exmo/logo.png?w=400&c=v0.59.26#w200) |[**Exmo**](/payment-methods/exmo/)|[`exmo_eur_hpp`](exmo_eur_hpp/)| 
 |![Exmo](https://static.openfintech.io/payment_methods/exmo/logo.png?w=400&c=v0.59.26#w200) |[**Exmo**](/payment-methods/exmo/)|[`exmo_rub_hpp`](exmo_rub_hpp/)| 
@@ -399,9 +403,11 @@
 |![Hong Kong Shanghai Bank](https://static.openfintech.io/payment_methods/hong_kong_shanghai_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Hong Kong Shanghai Bank**](/payment-methods/hong_kong_shanghai_bank/)|[`hong_kong_shanghai_bank_thb_hpp`](hong_kong_shanghai_bank_thb_hpp/)| 
 |![Hong Leong Bank (FPX), Malaysia](https://static.openfintech.io/payment_methods/hong_leong_bank_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**Hong Leong Bank (FPX), Malaysia**](/payment-methods/hong_leong_bank_fpx/)|[`hong_leong_bank_fpx_myr_hpp`](hong_leong_bank_fpx_myr_hpp/)| 
 |![Hong Leong Bank](https://static.openfintech.io/payment_methods/hong_leong_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Hong Leong Bank**](/payment-methods/hong_leong_bank/)|[`hong_leong_bank_myr_hpp`](hong_leong_bank_myr_hpp/)| 
+|![Hong Leong Bank Qr](https://static.openfintech.io/payment_methods/hong_leong_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Hong Leong Bank Qr**](/payment-methods/hong_leong_bank_qr/)|[`hong_leong_bank_qr_myr_invoice`](hong_leong_bank_qr_myr_invoice/)| 
 |![Hong Leong Bank](https://static.openfintech.io/payment_methods/hong_leong_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Hong Leong Bank**](/payment-methods/hong_leong_bank/)|[`hong_leong_bank_vnd_hpp`](hong_leong_bank_vnd_hpp/)| 
 |![HSBC Bank Indonesia](https://static.openfintech.io/payment_methods/hsbc_bank_indonesia/logo.svg?w=400&c=v0.59.26#w200) |[**HSBC Bank Indonesia**](/payment-methods/hsbc_bank_indonesia/)|[`hsbc_bank_indonesia_idr_hpp`](hsbc_bank_indonesia_idr_hpp/)| 
 |![HSBC Bank Malaysia](https://static.openfintech.io/payment_methods/hsbc_bank_malaysia_berhad/logo.svg?w=400&c=v0.59.26#w200) |[**HSBC Bank Malaysia**](/payment-methods/hsbc_bank_malaysia_berhad/)|[`hsbc_bank_malaysia_berhad_myr_hpp`](hsbc_bank_malaysia_berhad_myr_hpp/)| 
+|![HSBC Bank Malaysia Qr](https://static.openfintech.io/payment_methods/hsbc_bank_malaysia_berhad_qr/logo.svg?w=400&c=v0.59.26#w200) |[**HSBC Bank Malaysia Qr**](/payment-methods/hsbc_bank_malaysia_berhad_qr/)|[`hsbc_bank_malaysia_berhad_qr_myr_invoice`](hsbc_bank_malaysia_berhad_qr_myr_invoice/)| 
 |![HSBC Bank Malaysia (FPX), Malaysia](https://static.openfintech.io/payment_methods/hsbc_bank_malaysia_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**HSBC Bank Malaysia (FPX), Malaysia**](/payment-methods/hsbc_bank_malaysia_fpx/)|[`hsbc_bank_malaysia_fpx_myr_hpp`](hsbc_bank_malaysia_fpx_myr_hpp/)| 
 ||| **I** ||
 |![wallet](https://static.openfintech.io/payment_methods/i_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**wallet**](/payment-methods/i_wallet/)|[`i_wallet_eur_hpp`](i_wallet_eur_hpp/)| 
@@ -521,6 +527,7 @@
 |![Maya](https://static.openfintech.io/payment_methods/maya/logo.svg?w=400&c=v0.59.26#w200) |[**Maya**](/payment-methods/maya/)|[`maya_php_hpp`](maya_php_hpp/)| 
 |![Maybank](https://static.openfintech.io/payment_methods/maybank_berhad/logo.svg?w=400&c=v0.59.26#w200) |[**Maybank**](/payment-methods/maybank_berhad/)|[`maybank_berhad_idr_hpp`](maybank_berhad_idr_hpp/)| 
 |![Maybank](https://static.openfintech.io/payment_methods/maybank_berhad/logo.svg?w=400&c=v0.59.26#w200) |[**Maybank**](/payment-methods/maybank_berhad/)|[`maybank_berhad_myr_hpp`](maybank_berhad_myr_hpp/)| 
+|![Maybank Qr](https://static.openfintech.io/payment_methods/maybank_berhad_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Maybank Qr**](/payment-methods/maybank_berhad_qr/)|[`maybank_berhad_qr_myr_invoice`](maybank_berhad_qr_myr_invoice/)| 
 |![MB Bank](https://static.openfintech.io/payment_methods/mb_bank/logo.png?w=400&c=v0.59.26#w200) |[**MB Bank**](/payment-methods/mb_bank/)|[`mb_bank_vnd_hpp`](mb_bank_vnd_hpp/)| 
 |![Mefete](https://static.openfintech.io/payment_methods/mefete/logo.png?w=400&c=v0.59.26#w200) |[**Mefete**](/payment-methods/mefete/)|[`mefete_try_hpp`](mefete_try_hpp/)| 
 |![Mega International Commercial Bank](https://static.openfintech.io/payment_methods/mega_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Mega International Commercial Bank**](/payment-methods/mega_bank/)|[`mega_bank_idr_hpp`](mega_bank_idr_hpp/)| 
@@ -780,6 +787,7 @@
 |![Public Bank Berhad](https://static.openfintech.io/payment_methods/public_bank_berhad/logo.png?w=400&c=v0.59.26#w200) |[**Public Bank Berhad**](/payment-methods/public_bank_berhad/)|[`public_bank_berhad_myr_hpp`](public_bank_berhad_myr_hpp/)| 
 |![Public Bank (FPX)](https://static.openfintech.io/payment_methods/public_bank_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**Public Bank (FPX)**](/payment-methods/public_bank_fpx/)|[`public_bank_fpx_myr_hpp`](public_bank_fpx_myr_hpp/)| 
 |![Public Bank](https://static.openfintech.io/payment_methods/public_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Public Bank**](/payment-methods/public_bank/)|[`public_bank_myr_hpp`](public_bank_myr_hpp/)| 
+|![Public Bank Qr](https://static.openfintech.io/payment_methods/public_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Public Bank Qr**](/payment-methods/public_bank_qr/)|[`public_bank_qr_myr_invoice`](public_bank_qr_myr_invoice/)| 
 |![Public Bank Vietnam](https://static.openfintech.io/payment_methods/public_bank_vietnam/logo.png?w=400&c=v0.59.26#w200) |[**Public Bank Vietnam**](/payment-methods/public_bank_vietnam/)|[`public_bank_vietnam_vnd_hpp`](public_bank_vietnam_vnd_hpp/)| 
 |![Punjab National Bank](https://static.openfintech.io/payment_methods/punjab_national_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Punjab National Bank**](/payment-methods/punjab_national_bank/)|[`punjab_national_bank_inr_hpp`](punjab_national_bank_inr_hpp/)| 
 |![Punjab & Sind Bank](https://static.openfintech.io/payment_methods/punjab_sind_bank/logo.png?w=400&c=v0.59.26#w200) |[**Punjab & Sind Bank**](/payment-methods/punjab_sind_bank/)|[`punjab_sind_bank_inr_hpp`](punjab_sind_bank_inr_hpp/)| 
@@ -798,12 +806,14 @@
 |![Resurs bank](https://static.openfintech.io/payment_methods/resursbank/logo.svg?w=400&c=v0.59.26#w200) |[**Resurs bank**](/payment-methods/resursbank/)|[`resursbank_eur_hpp`](resursbank_eur_hpp/)| 
 |![RHB Bank (FPX)](https://static.openfintech.io/payment_methods/rhb_bank_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**RHB Bank (FPX)**](/payment-methods/rhb_bank_fpx/)|[`rhb_bank_fpx_myr_hpp`](rhb_bank_fpx_myr_hpp/)| 
 |![RHB Bank](https://static.openfintech.io/payment_methods/rhb_bank/logo.svg?w=400&c=v0.59.26#w200) |[**RHB Bank**](/payment-methods/rhb_bank/)|[`rhb_bank_myr_hpp`](rhb_bank_myr_hpp/)| 
+|![RHB Bank Qr](https://static.openfintech.io/payment_methods/rhb_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**RHB Bank Qr**](/payment-methods/rhb_bank_qr/)|[`rhb_bank_qr_myr_invoice`](rhb_bank_qr_myr_invoice/)| 
 |![Ripple](https://static.openfintech.io/payment_methods/ripple/logo.svg?w=400&c=v0.59.26#w200) |[**Ripple**](/payment-methods/ripple/)|[`ripple_eur_hpp`](ripple_eur_hpp/)| 
 |![Ripple](https://static.openfintech.io/payment_methods/ripple/logo.svg?w=400&c=v0.59.26#w200) |[**Ripple**](/payment-methods/ripple/)|[`ripple_uah_hpp`](ripple_uah_hpp/)| 
 |![Ripple](https://static.openfintech.io/payment_methods/ripple/logo.svg?w=400&c=v0.59.26#w200) |[**Ripple**](/payment-methods/ripple/)|[`ripple_usd_hpp`](ripple_usd_hpp/)| 
 |![RTGS](https://static.openfintech.io/payment_methods/rtgs/logo.svg?w=400&c=v0.59.26#w200) |[**RTGS**](/payment-methods/rtgs/)|[`rtgs_inr_hpp`](rtgs_inr_hpp/)| 
 |![RuPay](https://static.openfintech.io/payment_methods/rupay/logo.svg?w=400&c=v0.59.26#w200) |[**RuPay**](/payment-methods/rupay/)|[`rupay_inr_hpp`](rupay_inr_hpp/)| 
 ||| **S** ||
+|![SACOM Bank Qr](https://static.openfintech.io/payment_methods/sacom_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**SACOM Bank Qr**](/payment-methods/sacom_bank_qr/)|[`sacom_bank_qr_vnd_invoice`](sacom_bank_qr_vnd_invoice/)| 
 |![SACOM Bank](https://static.openfintech.io/payment_methods/sacom_bank/logo.png?w=400&c=v0.59.26#w200) |[**SACOM Bank**](/payment-methods/sacom_bank/)|[`sacom_bank_vnd_hpp`](sacom_bank_vnd_hpp/)| 
 |![Safaricom](https://static.openfintech.io/payment_methods/safaricom/logo.png?w=400&c=v0.59.26#w200) |[**Safaricom**](/payment-methods/safaricom/)|[`safaricom_kes_invoice`](safaricom_kes_invoice/)| 
 |![SafetyPay](https://static.openfintech.io/payment_methods/safetypay/logo.png?w=400&c=v0.59.26#w200) |[**SafetyPay**](/payment-methods/safetypay/)|[`safetypay_mxn_hpp`](safetypay_mxn_hpp/)| 
@@ -876,6 +886,7 @@
 ||| **T** ||
 |![Tamilnad Mercantile Bank Limited](https://static.openfintech.io/payment_methods/tamilnad_mercantile_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Tamilnad Mercantile Bank Limited**](/payment-methods/tamilnad_mercantile_bank_india/)|[`tamilnad_mercantile_bank_india_inr_hpp`](tamilnad_mercantile_bank_india_inr_hpp/)| 
 |![Vietnam Technological and Commercial Joint Stock Bank QR](https://static.openfintech.io/payment_methods/techcom_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Vietnam Technological and Commercial Joint Stock Bank QR**](/payment-methods/techcom_bank_qr/)|[`techcom_bank_qr_vnd_hpp`](techcom_bank_qr_vnd_hpp/)| 
+|![Vietnam Technological and Commercial Joint Stock Bank QR](https://static.openfintech.io/payment_methods/techcom_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Vietnam Technological and Commercial Joint Stock Bank QR**](/payment-methods/techcom_bank_qr/)|[`techcom_bank_qr_vnd_invoice`](techcom_bank_qr_vnd_invoice/)| 
 |![Vietnam Technological and Commercial Joint Stock Bank](https://static.openfintech.io/payment_methods/techcom_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Vietnam Technological and Commercial Joint Stock Bank**](/payment-methods/techcom_bank/)|[`techcom_bank_vnd_hpp`](techcom_bank_vnd_hpp/)| 
 |![Techom Bank](https://static.openfintech.io/payment_methods/techom_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Techom Bank**](/payment-methods/techom_bank/)|[`techom_bank_vnd_hpp`](techom_bank_vnd_hpp/)| 
 |![Tele2](https://static.openfintech.io/payment_methods/tele2ru/logo.svg?w=400&c=v0.59.26#w200) |[**Tele2**](/payment-methods/tele2ru/)|[`tele2ru_rub_hpp`](tele2ru_rub_hpp/)| 
@@ -943,6 +954,7 @@
 |![Unionpay_QR](https://static.openfintech.io/payment_methods/unionpay_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Unionpay_QR**](/payment-methods/unionpay_qr/)|[`unionpay_qr_cny_hpp`](unionpay_qr_cny_hpp/)| 
 |![United Bank Of India](https://static.openfintech.io/payment_methods/united_bank_of_india/logo.svg?w=400&c=v0.59.26#w200) |[**United Bank Of India**](/payment-methods/united_bank_of_india/)|[`united_bank_of_india_inr_hpp`](united_bank_of_india_inr_hpp/)| 
 |![United Overseas Bank Malaysia](https://static.openfintech.io/payment_methods/united_overseas_bank_berhad/logo.svg?w=400&c=v0.59.26#w200) |[**United Overseas Bank Malaysia**](/payment-methods/united_overseas_bank_berhad/)|[`united_overseas_bank_berhad_myr_hpp`](united_overseas_bank_berhad_myr_hpp/)| 
+|![United Overseas Bank Malaysia Qr](https://static.openfintech.io/payment_methods/united_overseas_bank_berhad_qr/logo.svg?w=400&c=v0.59.26#w200) |[**United Overseas Bank Malaysia Qr**](/payment-methods/united_overseas_bank_berhad_qr/)|[`united_overseas_bank_berhad_qr_myr_invoice`](united_overseas_bank_berhad_qr_myr_invoice/)| 
 |![United Overseas Bank Indonesia](https://static.openfintech.io/payment_methods/united_overseas_bank_indonesia/logo.svg?w=400&c=v0.59.26#w200) |[**United Overseas Bank Indonesia**](/payment-methods/united_overseas_bank_indonesia/)|[`united_overseas_bank_indonesia_idr_hpp`](united_overseas_bank_indonesia_idr_hpp/)| 
 |![United Overseas Bank (Thai) PCL](https://static.openfintech.io/payment_methods/united_overseas_bank_thai/logo.svg?w=400&c=v0.59.26#w200) |[**United Overseas Bank (Thai) PCL**](/payment-methods/united_overseas_bank_thai/)|[`united_overseas_bank_thai_thb_hpp`](united_overseas_bank_thai_thb_hpp/)| 
 |![UOB Bank (FPX), Malaysia](https://static.openfintech.io/payment_methods/uob_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**UOB Bank (FPX), Malaysia**](/payment-methods/uob_fpx/)|[`uob_fpx_myr_hpp`](uob_fpx_myr_hpp/)| 
@@ -969,8 +981,10 @@
 |![Vietnam Thuong Tin Commercial Joint Stock Bank](https://static.openfintech.io/payment_methods/viet_bank/logo.png?w=400&c=v0.59.26#w200) |[**Vietnam Thuong Tin Commercial Joint Stock Bank**](/payment-methods/viet_bank/)|[`viet_bank_vnd_hpp`](viet_bank_vnd_hpp/)| 
 |![Viet Capital Commercial](https://static.openfintech.io/payment_methods/viet_capital_bank/logo.png?w=400&c=v0.59.26#w200) |[**Viet Capital Commercial**](/payment-methods/viet_capital_bank/)|[`viet_capital_bank_vnd_hpp`](viet_capital_bank_vnd_hpp/)| 
 |![VIETCOM Bank QR](https://static.openfintech.io/payment_methods/vietcom_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**VIETCOM Bank QR**](/payment-methods/vietcom_bank_qr/)|[`vietcom_bank_qr_vnd_hpp`](vietcom_bank_qr_vnd_hpp/)| 
+|![VIETCOM Bank QR](https://static.openfintech.io/payment_methods/vietcom_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**VIETCOM Bank QR**](/payment-methods/vietcom_bank_qr/)|[`vietcom_bank_qr_vnd_invoice`](vietcom_bank_qr_vnd_invoice/)| 
 |![VIETCOM Bank](https://static.openfintech.io/payment_methods/vietcom_bank/logo.svg?w=400&c=v0.59.26#w200) |[**VIETCOM Bank**](/payment-methods/vietcom_bank/)|[`vietcom_bank_vnd_hpp`](vietcom_bank_vnd_hpp/)| 
 |![VIETIN Bank QR](https://static.openfintech.io/payment_methods/vietin_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**VIETIN Bank QR**](/payment-methods/vietin_bank_qr/)|[`vietin_bank_qr_vnd_hpp`](vietin_bank_qr_vnd_hpp/)| 
+|![VIETIN Bank QR](https://static.openfintech.io/payment_methods/vietin_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**VIETIN Bank QR**](/payment-methods/vietin_bank_qr/)|[`vietin_bank_qr_vnd_invoice`](vietin_bank_qr_vnd_invoice/)| 
 |![VIETIN Bank](https://static.openfintech.io/payment_methods/vietin_bank/logo.png?w=400&c=v0.59.26#w200) |[**VIETIN Bank**](/payment-methods/vietin_bank/)|[`vietin_bank_vnd_hpp`](vietin_bank_vnd_hpp/)| 
 |![Vietnam Prosperity Joint-Stock Commercial Bank QR](https://static.openfintech.io/payment_methods/vietnam_prosperity_commerial_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Vietnam Prosperity Joint-Stock Commercial Bank QR**](/payment-methods/vietnam_prosperity_commerial_bank_qr/)|[`vietnam_prosperity_commerial_bank_qr_vnd_hpp`](vietnam_prosperity_commerial_bank_qr_vnd_hpp/)| 
 |![ViettelPay](https://static.openfintech.io/payment_methods/viettelpay/logo.svg?w=400&c=v0.59.26#w200) |[**ViettelPay**](/payment-methods/viettelpay/)|[`viettelpay_vnd_hpp`](viettelpay_vnd_hpp/)| 
@@ -984,6 +998,7 @@
 |![Visa Electron](https://static.openfintech.io/payment_methods/visaelectron/logo.png?w=400&c=v0.59.26#w200) |[**Visa Electron**](/payment-methods/visaelectron/)|[`visaelectron_eur_hpp`](visaelectron_eur_hpp/)| 
 |![VNPAY QR](https://static.openfintech.io/payment_methods/vnpay_qr/logo.png?w=400&c=v0.59.26#w200) |[**VNPAY QR**](/payment-methods/vnpay_qr/)|[`vnpay_qr_vnd_hpp`](vnpay_qr_vnd_hpp/)| 
 |![Vodacom](https://static.openfintech.io/payment_methods/vodacom/logo.png?w=400&c=v0.59.26#w200) |[**Vodacom**](/payment-methods/vodacom/)|[`vodacom_tzs_invoice`](vodacom_tzs_invoice/)| 
+|![Vietnam Prosperity Joint‑Stock Commercial Bank Qr](https://static.openfintech.io/payment_methods/vp_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Vietnam Prosperity Joint‑Stock Commercial Bank Qr**](/payment-methods/vp_bank_qr/)|[`vp_bank_qr_vnd_invoice`](vp_bank_qr_vnd_invoice/)| 
 |![Vietnam Prosperity Joint‑Stock Commercial Bank](https://static.openfintech.io/payment_methods/vp_bank/logo.png?w=400&c=v0.59.26#w200) |[**Vietnam Prosperity Joint‑Stock Commercial Bank**](/payment-methods/vp_bank/)|[`vp_bank_vnd_hpp`](vp_bank_vnd_hpp/)| 
 |![Vietnam - Russia Joint Venture Bank](https://static.openfintech.io/payment_methods/vrb_bank/logo.png?w=400&c=v0.59.26#w200) |[**Vietnam - Russia Joint Venture Bank**](/payment-methods/vrb_bank/)|[`vrb_bank_vnd_hpp`](vrb_bank_vnd_hpp/)| 
 ||| **W** ||

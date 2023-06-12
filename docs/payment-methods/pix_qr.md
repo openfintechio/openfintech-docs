@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Pix Qr_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![4bill](https://static.openfintech.io/payment_providers/4bill/icon.svg?w=278&c=v0.59.26#w100) |[4bill](/payment-providers/4bill/)|`4bill`| 
+|![payfuture](https://static.openfintech.io/payment_providers/payfuture/icon.svg?w=278&c=v0.59.26#w100) |[Payfuture](/payment-providers/payfuture/)|`payfuture`| 
  
 
 ## JSON Object 

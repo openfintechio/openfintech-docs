@@ -47,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _UPI QR_
 |:---:|:---:|:---:| 
 |![certusfinance](https://static.openfintech.io/payment_providers/certusfinance/icon.png?w=278&c=v0.59.26#w100) |[Certus Finance](/payment-providers/certusfinance/)|`certusfinance`| 
 |![toshani](https://static.openfintech.io/payment_providers/toshani/icon.png?w=278&c=v0.59.26#w100) |[Toshani](/payment-providers/toshani/)|`toshani`| 
+|![payfuture](https://static.openfintech.io/payment_providers/payfuture/icon.svg?w=278&c=v0.59.26#w100) |[Payfuture](/payment-providers/payfuture/)|`payfuture`| 
  
 
 ## JSON Object 
