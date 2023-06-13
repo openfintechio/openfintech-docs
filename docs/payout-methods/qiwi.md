@@ -62,6 +62,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Qiwi_
 |![piastrix](https://static.openfintech.io/payment_providers/piastrix/icon.svg?w=278&c=v0.59.26#w100) |[Piastrix](/payment-providers/piastrix/)|`piastrix`| 
 |![accentpay](https://static.openfintech.io/payment_providers/accentpay/icon.png?w=278&c=v0.59.26#w100) |[Accentpay](/payment-providers/accentpay/)|`accentpay`| 
 |![odysseq](https://static.openfintech.io/payment_providers/odysseq/icon.svg?w=278&c=v0.59.26#w100) |[Odysseq](/payment-providers/odysseq/)|`odysseq`| 
+|![adgroup](https://static.openfintech.io/payment_providers/adgroup/icon.svg?w=278&c=v0.59.26#w100) |[ADgroup](/payment-providers/adgroup/)|`adgroup`| 
 |![anymoney](https://static.openfintech.io/payment_providers/anymoney/icon.svg?w=278&c=v0.59.26#w100) |[Any.Money](/payment-providers/anymoney/)|`anymoney`| 
 |![kassa](https://static.openfintech.io/payment_providers/kassa/icon.svg?w=278&c=v0.59.26#w100) |[Kassa](/payment-providers/kassa/)|`kassa`| 
 |![mineexchange](https://static.openfintech.io/payment_providers/mineexchange/icon.png?w=278&c=v0.59.26#w100) |[MineExchange](/payment-providers/mineexchange/)|`mineexchange`| 
