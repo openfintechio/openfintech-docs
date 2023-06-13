@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Card transfer_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_rub_invoice](/payment-services/card_transfer_rub_invoice/)|`card_transfer_rub_invoice`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_uah_invoice](/payment-services/card_transfer_uah_invoice/)|`card_transfer_uah_invoice`| 
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_usd_hpp](/payment-services/card_transfer_usd_hpp/)|`card_transfer_usd_hpp`| 
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_rub_hpp](/payment-services/card_transfer_rub_hpp/)|`card_transfer_rub_hpp`| 
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_kzt_hpp](/payment-services/card_transfer_kzt_hpp/)|`card_transfer_kzt_hpp`| 
@@ -59,6 +60,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card tran
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![litepay](https://static.openfintech.io/payment_providers/litepay/icon.svg?w=278&c=v0.59.26#w100) |[LitePay](/payment-providers/litepay/)|`litepay`| 
+|![easytransfer](https://static.openfintech.io/payment_providers/easytransfer/icon.svg?w=278&c=v0.59.26#w100) |[EasyTransfer](/payment-providers/easytransfer/)|`easytransfer`| 
 |![payport](https://static.openfintech.io/payment_providers/payport/icon.svg?w=278&c=v0.59.26#w100) |[PayPort](/payment-providers/payport/)|`payport`| 
  
 

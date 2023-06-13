@@ -25,7 +25,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`vpa`|✔|`string`|`/^.{2,}@\w+$/`| 
+|`vpa`|✗|`string`|`/^.{2,}@\w+$/`| 
  
 
 ### Details 
@@ -36,7 +36,7 @@
  
 	Regexp: `/^.{2,}@\w+$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] VPA 
@@ -72,7 +72,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c VPA"
       },
       "regexp":"\/^.{2,}@\\w+$\/",
-      "required":true,
+      "required":false,
       "position":1
     }
   ],
