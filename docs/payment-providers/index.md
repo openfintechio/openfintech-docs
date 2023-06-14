@@ -36,6 +36,7 @@
 |![agentglobal](https://static.openfintech.io/payment_providers/agentglobal/logo.png?w=600&c=v0.59.26#w100) |[**AgentGlobal**](agentglobal/)|`agentglobal`| 
 |![aibmerchantservices](https://static.openfintech.io/payment_providers/aibmerchantservices/logo.png?w=600&c=v0.59.26#w100) |[**AIB Merchant Services**](aibmerchantservices/)|`aibmerchantservices`| 
 |![aifory](https://static.openfintech.io/payment_providers/aifory/logo.png?w=600&c=v0.59.26#w100) |[**Aifory**](aifory/)|`aifory`| 
+|![airpay](https://static.openfintech.io/payment_providers/airpay/logo.svg?w=600&c=v0.59.26#w100) |[**airpay**](airpay/)|`airpay`| 
 |![alfabank](https://static.openfintech.io/payment_providers/alfabank/logo.svg?w=600&c=v0.59.26#w100) |[**Sense Bank**](alfabank/)|`alfabank`| 
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/logo.png?w=600&c=v0.59.26#w100) |[**ALGOCHARGE**](algocharge/)|`algocharge`| 
 |![alikassa](https://static.openfintech.io/payment_providers/alikassa/logo.svg?w=600&c=v0.59.26#w100) |[**AliKassa**](alikassa/)|`alikassa`| 
@@ -750,6 +751,7 @@
 |![sidpayment](https://static.openfintech.io/payment_providers/sidpayment/logo.png?w=600&c=v0.59.26#w100) |[**SID Instant EFT**](sidpayment/)|`sidpayment`| 
 |![simplepay](https://static.openfintech.io/payment_providers/simplepay/logo.png?w=600&c=v0.59.26#w100) |[**SimplePay**](simplepay/)|`simplepay`| 
 |![simplifycommerce](https://static.openfintech.io/payment_providers/simplifycommerce/logo.png?w=600&c=v0.59.26#w100) |[**Simplify Commerce**](simplifycommerce/)|`simplifycommerce`| 
+|![siquro](https://static.openfintech.io/payment_providers/siquro/logo.png?w=600&c=v0.59.26#w100) |[**Siquro**](siquro/)|`siquro`| 
 |![sirpaga](https://static.openfintech.io/payment_providers/sirpaga/logo.png?w=600&c=v0.59.26#w100) |[**Sirpaga**](sirpaga/)|`sirpaga`| 
 |![sirumobile](https://static.openfintech.io/payment_providers/sirumobile/logo.png?w=600&c=v0.59.26#w100) |[**Siru Mobile**](sirumobile/)|`sirumobile`| 
 |![sisow](https://static.openfintech.io/payment_providers/sisow/logo.png?w=600&c=v0.59.26#w100) |[**Sisow**](sisow/)|`sisow`| 

@@ -69,6 +69,7 @@
 |![agriculturalbankofchina](https://static.openfintech.io/vendors/agriculturalbankofchina/logo.svg?w=600&c=v0.59.26#w200) |[**Agricultural Bank of China**](agriculturalbankofchina/)|`agriculturalbankofchina`| 
 |![aibmerchantservices](https://static.openfintech.io/vendors/aibmerchantservices/logo.png?w=600&c=v0.59.26#w200) |[**AIB Merchant Services**](aibmerchantservices/)|`aibmerchantservices`| 
 |![aifory](https://static.openfintech.io/vendors/aifory/logo.png?w=600&c=v0.59.26#w200) |[**Aifory**](aifory/)|`aifory`| 
+|![airpay](https://static.openfintech.io/vendors/airpay/logo.svg?w=600&c=v0.59.26#w200) |[**airpay**](airpay/)|`airpay`| 
 |![ajmanibank](https://static.openfintech.io/vendors/ajmanibank/logo.svg?w=600&c=v0.59.26#w200) |[**Айманибанк**](ajmanibank/)|`ajmanibank`| 
 |![akb_industrialbank](https://static.openfintech.io/vendors/akb_industrialbank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ АКЦІОНЕРНИЙ  КОМЕРЦІЙНИЙ БАНК 'ІНДУСТРІАЛБАНК'**](akb_industrialbank/)|`akb_industrialbank`| 
 |![akb_novij](https://static.openfintech.io/vendors/akb_novij/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'АКЦІОНЕРНИЙ КОМЕРЦІЙНИЙ БАНК 'НОВИЙ'**](akb_novij/)|`akb_novij`| 
@@ -1649,6 +1650,7 @@
 |![simplepay](https://static.openfintech.io/vendors/simplepay/logo.png?w=600&c=v0.59.26#w200) |[**SimplePay**](simplepay/)|`simplepay`| 
 |![simplex](https://static.openfintech.io/vendors/simplex/logo.png?w=600&c=v0.59.26#w200) |[**Simplex**](simplex/)|`simplex`| 
 |![simplifycommerce](https://static.openfintech.io/vendors/simplifycommerce/logo.png?w=600&c=v0.59.26#w200) |[**Simplify Commerce**](simplifycommerce/)|`simplifycommerce`| 
+|![siquro](https://static.openfintech.io/vendors/siquro/logo.png?w=600&c=v0.59.26#w200) |[**Siquro**](siquro/)|`siquro`| 
 |![sirpaga](https://static.openfintech.io/vendors/sirpaga/logo.png?w=600&c=v0.59.26#w200) |[**Sirpaga**](sirpaga/)|`sirpaga`| 
 |![sirumobile](https://static.openfintech.io/vendors/sirumobile/logo.png?w=600&c=v0.59.26#w200) |[**Siru Mobile**](sirumobile/)|`sirumobile`| 
 |![sisow](https://static.openfintech.io/vendors/sisow/logo.png?w=600&c=v0.59.26#w200) |[**Sisow**](sisow/)|`sisow`| 

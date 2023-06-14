@@ -470,6 +470,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![sgate](https://static.openfintech.io/payment_providers/sgate/icon.svg?w=278&c=v0.59.26#w100) |[Sgate](/payment-providers/sgate/)|`sgate`| 
 |![aliumpay](https://static.openfintech.io/payment_providers/aliumpay/icon.svg?w=278&c=v0.59.26#w100) |[AliumPay](/payment-providers/aliumpay/)|`aliumpay`| 
 |![cpay](https://static.openfintech.io/payment_providers/cpay/icon.png?w=278&c=v0.59.26#w100) |[C.Pay](/payment-providers/cpay/)|`cpay`| 
+|![siquro](https://static.openfintech.io/payment_providers/siquro/icon.png?w=278&c=v0.59.26#w100) |[Siquro](/payment-providers/siquro/)|`siquro`| 
  
 
 ## JSON Object 

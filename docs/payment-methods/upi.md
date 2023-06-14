@@ -54,6 +54,7 @@ The list of [Payment Providers](/payment-providers/) that support the _UPI_
 |![payport](https://static.openfintech.io/payment_providers/payport/icon.svg?w=278&c=v0.59.26#w100) |[PayPort](/payment-providers/payport/)|`payport`| 
 |![rumbapay](https://static.openfintech.io/payment_providers/rumbapay/icon.png?w=278&c=v0.59.26#w100) |[RumbaPay](/payment-providers/rumbapay/)|`rumbapay`| 
 |![paysafebd](https://static.openfintech.io/payment_providers/paysafebd/icon.png?w=278&c=v0.59.26#w100) |[Paysafebd](/payment-providers/paysafebd/)|`paysafebd`| 
+|![airpay](https://static.openfintech.io/payment_providers/airpay/icon.svg?w=278&c=v0.59.26#w100) |[airpay](/payment-providers/airpay/)|`airpay`| 
  
 
 ## JSON Object 
