@@ -536,6 +536,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![aba_bank_cambodia](https://static.openfintech.io/payout_methods/aba_bank_cambodia/icon.svg?w=278&c=v0.59.26#w40) |[aba_bank_cambodia](payout-methodsaba_bank_cambodia/)|`aba_bank_cambodia`| 
 |![wing_bank_cambodia](https://static.openfintech.io/payout_methods/wing_bank_cambodia/icon.svg?w=278&c=v0.59.26#w40) |[wing_bank_cambodia](payout-methodswing_bank_cambodia/)|`wing_bank_cambodia`| 
 |![acleda_bank_cambodia](https://static.openfintech.io/payout_methods/acleda_bank_cambodia/icon.svg?w=278&c=v0.59.26#w40) |[acleda_bank_cambodia](payout-methodsacleda_bank_cambodia/)|`acleda_bank_cambodia`| 
+|![shinsei_bank](https://static.openfintech.io/payout_methods/shinsei_bank/icon.svg?w=278&c=v0.59.26#w40) |[shinsei_bank](payout-methodsshinsei_bank/)|`shinsei_bank`| 
  
 
 ## JSON Object 
@@ -1038,7 +1039,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "local_cooperative_federation_bank",
     "aba_bank_cambodia",
     "wing_bank_cambodia",
-    "acleda_bank_cambodia"
+    "acleda_bank_cambodia",
+    "shinsei_bank"
   ],
   "metadata":null,
   "name":{
