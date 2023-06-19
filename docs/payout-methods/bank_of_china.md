@@ -36,6 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Bank of China_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bank_of_china](https://static.openfintech.io/payout_methods/bank_of_china/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_china_cny](/payout-services/bank_of_china_cny/)|`bank_of_china_cny`| 
+|![bank_of_china](https://static.openfintech.io/payout_methods/bank_of_china/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_china_jpy](/payout-services/bank_of_china_jpy/)|`bank_of_china_jpy`| 
  
 
 ## Payment Providers 

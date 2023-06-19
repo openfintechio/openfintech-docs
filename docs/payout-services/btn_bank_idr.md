@@ -22,12 +22,12 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`bank_branch`|✔|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
+|`bank_branch`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`customer_name`|✔|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
-|`bank_account_name`|✔|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
+|`bank_account_name`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`bank_account_number`|✔|`string`|`/^[0-9]{5,100}$/`| 
-|`province`|✔|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
-|`city`|✔|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
+|`province`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
+|`city`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
  
 
 ### Details 
@@ -38,7 +38,7 @@
  
 	Regexp: `/^[A-Za-z,0-9]{2,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Bank Branch 
@@ -74,7 +74,7 @@
  
 	Regexp: `/^[A-Za-z,0-9]{2,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Bank Account Name 
@@ -110,7 +110,7 @@
  
 	Regexp: `/^[A-Za-z,0-9]{2,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Province 
@@ -128,7 +128,7 @@
  
 	Regexp: `/^[A-Za-z,0-9]{2,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] City 
@@ -163,7 +163,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Bank Branch"
       },
       "regexp":"\/^[A-Za-z,0-9]{2,100}$\/",
-      "required":true,
+      "required":false,
       "position":1
     },
     {
@@ -197,7 +197,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Bank Account Name"
       },
       "regexp":"\/^[A-Za-z,0-9]{2,100}$\/",
-      "required":true,
+      "required":false,
       "position":3
     },
     {
@@ -231,7 +231,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044e"
       },
       "regexp":"\/^[A-Za-z,0-9]{2,100}$\/",
-      "required":true,
+      "required":false,
       "position":5
     },
     {
@@ -248,7 +248,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043c\u0456\u0441\u0442\u043e"
       },
       "regexp":"\/^[A-Za-z,0-9]{2,100}$\/",
-      "required":true,
+      "required":false,
       "position":6
     }
   ],

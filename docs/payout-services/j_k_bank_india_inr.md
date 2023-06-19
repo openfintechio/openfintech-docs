@@ -25,6 +25,7 @@
 |`account_number`|✗|`string`|`/^.{1,50}$/`| 
 |`beneficiary_first_name`|✗|`string`|`/^[A-Z\-\ a-z]{2,100}$/`| 
 |`beneficiary_last_name`|✗|`string`|`/^[A-Z\-\ a-z]{2,100}$/`| 
+|`ifsc`|✗|`string`|`/^[A-Za-z0-9]{11}$/`| 
  
 
 ### Details 
@@ -82,6 +83,24 @@
 	: [EN] Enter beneficiary last name 
 	: [RU] Введите фамилию получателя 
 	: [UK] Введіть прізвище отримувача 
+ 
+4. **`ifsc`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z0-9]{11}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] IFSC 
+	: [RU] IFSC 
+	: [UK] IFSC 
+ 
+	Hint:  
+	: [EN] Enter IFSC 
+	: [RU] Введите IFSC 
+	: [UK] Введіть IFSC 
  
 
 ## JSON Object 
@@ -145,6 +164,23 @@
       "required":false,
       "position":3,
       "example":"Doe"
+    },
+    {
+      "key":"ifsc",
+      "type":"string",
+      "label":{
+        "en":"IFSC",
+        "ru":"IFSC",
+        "uk":"IFSC"
+      },
+      "hint":{
+        "en":"Enter IFSC",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 IFSC",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c IFSC"
+      },
+      "regexp":"\/^[A-Za-z0-9]{11}$\/",
+      "required":false,
+      "position":4
     }
   ],
   "amount_min":0.01,
