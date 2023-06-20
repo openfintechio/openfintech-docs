@@ -17,7 +17,7 @@
 :	[RU] BitexPRO P2P 
 :	[UK] BitexPRO P2P 
  
-**Amount limits:** from `0.01` to `9999999` IDR 
+**Amount limits:** from `0.01` to `100000000` IDR 
 
 ## JSON Object 
 
@@ -29,6 +29,6 @@
   "currency":"IDR",
   "fields":null,
   "amount_min":0.01,
-  "amount_max":9999999
+  "amount_max":100000000
 }
 ```  
