@@ -39,6 +39,7 @@ The list of [Payout Services](/payout-services/) based on the _Polygon_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![polygon](https://static.openfintech.io/payout_methods/polygon/icon.svg?w=278&c=v0.59.26#w40) |[polygon_matic](/payout-services/polygon_matic/)|`polygon_matic`| 
+|![polygon](https://static.openfintech.io/payout_methods/polygon/icon.svg?w=278&c=v0.59.26#w40) |[polygon_usdc](/payout-services/polygon_usdc/)|`polygon_usdc`| 
  
 
 ## Payment Providers 

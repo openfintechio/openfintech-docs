@@ -339,6 +339,7 @@
 |![bitnet](https://static.openfintech.io/vendors/bitnet/logo.png?w=600&c=v0.59.26#w200) |[**Bitnet Technologies Ltd**](bitnet/)|`bitnet`| 
 |![bitochek.net](https://static.openfintech.io/vendors/bitochek.net/logo.svg?w=600&c=v0.59.26#w200) |[**bitochek.net**](bitochek.net/)|`bitochek.net`| 
 |![bitpay](https://static.openfintech.io/vendors/bitpay/logo.svg?w=600&c=v0.59.26#w200) |[**BitPay**](bitpay/)|`bitpay`| 
+|![bitso](https://static.openfintech.io/vendors/bitso/logo.svg?w=600&c=v0.59.26#w200) |[**Bitso**](bitso/)|`bitso`| 
 |![bkmexpress](https://static.openfintech.io/vendors/bkmexpress/logo.png?w=600&c=v0.59.26#w200) |[**BKM Express**](bkmexpress/)|`bkmexpress`| 
 |![blablapay](https://static.openfintech.io/vendors/blablapay/logo.svg?w=600&c=v0.59.26#w200) |[**BlaBlaPay**](blablapay/)|`blablapay`| 
 |![blackrabbit](https://static.openfintech.io/vendors/blackrabbit/logo.png?w=600&c=v0.59.26#w200) |[**BlackRabbit**](blackrabbit/)|`blackrabbit`| 
@@ -1847,6 +1848,7 @@
 |![soeasypay](https://static.openfintech.io/vendors/soeasypay/logo.png?w=600&c=v0.59.26#w200) |[**SoEasyPay**](soeasypay/)|`soeasypay`| 
 |![sofortbanking](https://static.openfintech.io/vendors/sofortbanking/logo.svg?w=600&c=v0.59.26#w200) |[**SOFORT, a Klarna Group Company**](sofortbanking/)|`sofortbanking`| 
 |![softlogic](https://static.openfintech.io/vendors/softlogic/logo.svg?w=600&c=v0.59.26#w200) |[**SOFT-LOGIC**](softlogic/)|`softlogic`| 
+|![solana](https://static.openfintech.io/vendors/solana/logo.svg?w=600&c=v0.59.26#w200) |[**Solana**](solana/)|`solana`| 
 |![solidchanger](https://static.openfintech.io/vendors/solidchanger/logo.svg?w=600&c=v0.59.26#w200) |[**SolidChanger**](solidchanger/)|`solidchanger`| 
 |![solidgate](https://static.openfintech.io/vendors/solidgate/logo.svg?w=600&c=v0.59.26#w200) |[**Solid**](solidgate/)|`solidgate`| 
 |![solidpayments](https://static.openfintech.io/vendors/solidpayments/logo.png?w=600&c=v0.59.26#w200) |[**Solid Payments**](solidpayments/)|`solidpayments`| 
@@ -1864,6 +1866,7 @@
 |![square](https://static.openfintech.io/vendors/square/logo.svg?w=600&c=v0.59.26#w200) |[**Square**](square/)|`square`| 
 |![standard_chartered_bank](https://static.openfintech.io/vendors/standard_chartered_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Standard Chartered Bank**](standard_chartered_bank/)|`standard_chartered_bank`| 
 |![start2pay](https://static.openfintech.io/vendors/start2pay/logo.png?w=600&c=v0.59.26#w200) |[**Start2Pay**](start2pay/)|`start2pay`| 
+|![stellar](https://static.openfintech.io/vendors/stellar/logo.svg?w=600&c=v0.59.26#w200) |[**Stellar**](stellar/)|`stellar`| 
 |![stepfourpay](https://static.openfintech.io/vendors/stepfourpay/logo.svg?w=600&c=v0.59.26#w200) |[**Step4Pay**](stepfourpay/)|`stepfourpay`| 
 |![sterling_bank](https://static.openfintech.io/vendors/sterling_bank/logo.png?w=600&c=v0.59.26#w200) |[**Sterling Bank**](sterling_bank/)|`sterling_bank`| 
 |![stolichna_filiya_pat_kbprivatbank_kiyiv](https://static.openfintech.io/vendors/stolichna_filiya_pat_kbprivatbank_kiyiv/logo.svg?w=600&c=v0.59.26#w200) |[**СТОЛИЧНА ФІЛІЯ ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](stolichna_filiya_pat_kbprivatbank_kiyiv/)|`stolichna_filiya_pat_kbprivatbank_kiyiv`| 

@@ -1949,6 +1949,7 @@
 |![soborka-net-odessa](https://static.openfintech.io/payout_methods/soborka-net-odessa/logo.png?w=400&c=v0.59.26#w24) |[**SOBORKA.NET (Odessa)**](soborka-net-odessa/)|`soborka-net-odessa`| 
 |![softlink-kiev](https://static.openfintech.io/payout_methods/softlink-kiev/logo.svg?w=400&c=v0.59.26#w24) |[**Softlink (Киев)**](softlink-kiev/)|`softlink-kiev`| 
 |![sohonet](https://static.openfintech.io/payout_methods/sohonet/logo.png?w=400&c=v0.59.26#w24) |[**SOHONET**](sohonet/)|`sohonet`| 
+|![solana](https://static.openfintech.io/payout_methods/solana/logo.svg?w=400&c=v0.59.26#w24) |[**Solana**](solana/)|`solana`| 
 |![sony_bank](https://static.openfintech.io/payout_methods/sony_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Sony Bank**](sony_bank/)|`sony_bank`| 
 |![south_indian_bank](https://static.openfintech.io/payout_methods/south_indian_bank/logo.svg?w=400&c=v0.59.26#w24) |[**South Indian Bank**](south_indian_bank/)|`south_indian_bank`| 
 |![spaidernet-odessa](https://static.openfintech.io/payout_methods/spaidernet-odessa/logo.png?w=400&c=v0.59.26#w24) |[**SpiderNet (Odessa)**](spaidernet-odessa/)|`spaidernet-odessa`| 
@@ -1976,6 +1977,7 @@
 |![status-kontrol-ubki](https://static.openfintech.io/payout_methods/status-kontrol-ubki/logo.svg?w=400&c=v0.59.26#w24) |[**Статус контроль(УБКІ)**](status-kontrol-ubki/)|`status-kontrol-ubki`| 
 |![steam](https://static.openfintech.io/payout_methods/steam/logo.png?w=400&c=v0.59.26#w24) |[**Steam**](steam/)|`steam`| 
 |![steam-vaucher-2-300usd](https://static.openfintech.io/payout_methods/steam-vaucher-2-300usd/logo.png?w=400&c=v0.59.26#w24) |[**Steam (Voucher 2-300USD)**](steam-vaucher-2-300usd/)|`steam-vaucher-2-300usd`| 
+|![stellar](https://static.openfintech.io/payout_methods/stellar/logo.svg?w=400&c=v0.59.26#w24) |[**Stellar**](stellar/)|`stellar`| 
 |![stellas_mfb](https://static.openfintech.io/payout_methods/stellas_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Stellas MFB**](stellas_mfb/)|`stellas_mfb`| 
 |![sterling_bank](https://static.openfintech.io/payout_methods/sterling_bank/logo.png?w=400&c=v0.59.26#w24) |[**Sterling Bank**](sterling_bank/)|`sterling_bank`| 
 |![stikonet](https://static.openfintech.io/payout_methods/stikonet/logo.png?w=400&c=v0.59.26#w24) |[**STIKONET**](stikonet/)|`stikonet`| 

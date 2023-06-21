@@ -1,22 +1,22 @@
 
-# Tether (service) 
-![tether_erc20_usdt](https://static.openfintech.io/payout_methods/tether_erc20_usdt/logo.svg?w=400&c=v0.59.26#w24)  
+# Stellar (service) 
+![stellar_usdc](https://static.openfintech.io/payout_methods/stellar_usdc/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
  
-**Code:** `tether_erc20_usdt` 
+**Code:** `stellar_usdc` 
  
-**Method:** `tether` [show -->](/payout-methods/tether/) 
+**Method:** `stellar` [show -->](/payout-methods/stellar/) 
  
-**Currency:** `USDT` [show -->](/currencies/USDT/) 
+**Currency:** `USDC` [show -->](/currencies/USDC/) 
  
 **Name:** 
  
-:	[EN] Tether 
-:	[RU] Tether 
-:	[UK] Tether 
+:	[EN] Stellar 
+:	[RU] Stellar 
+:	[UK] Stellar 
  
-**Amount limits:** from `0.00000001` to `1000000` USDT 
+**Amount limits:** from `0.01` to `1000000` USDC 
 
 ## Fields 
 
@@ -39,14 +39,14 @@
 	Required: `1` 
  
 	Label:  
-	: [EN] Tether ERC-20 wallet 
-	: [RU] Tether ERC-20 кошелёк 
-	: [UK] Tether ERC-20 гаманець 
+	: [EN] Stellar wallet 
+	: [RU] Stellar кошелёк 
+	: [UK] Stellar гаманець 
  
 	Hint:  
-	: [EN] Tether ERC-20 wallet 
-	: [RU] Tether ERC-20 кошелёк 
-	: [UK] Tether ERC-20 гаманець 
+	: [EN] Enter stellar wallet 
+	: [RU] Введите stellar кошелёк 
+	: [UK] Введіть stellar гаманець 
  
 2. **`vasp`** 
  
@@ -71,27 +71,26 @@
 
 ```json
 {
-  "code":"tether_erc20_usdt",
-  "method":"tether",
-  "currency":"USDT",
+  "code":"stellar_usdc",
+  "method":"stellar",
+  "currency":"USDC",
   "fields":[
     {
       "key":"wallet_id",
       "type":"string",
       "label":{
-        "en":"Tether ERC-20 wallet",
-        "ru":"Tether ERC-20 \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
-        "uk":"Tether ERC-20 \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
+        "en":"Stellar wallet",
+        "ru":"Stellar \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
+        "uk":"Stellar \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
       },
       "hint":{
-        "en":"Tether ERC-20 wallet",
-        "ru":"Tether ERC-20 \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
-        "uk":"Tether ERC-20 \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
+        "en":"Enter stellar wallet",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 stellar \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c stellar \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
       },
       "regexp":"\/^.{10,64}$\/",
       "required":true,
-      "position":1,
-      "example":"0x501906Ce564be7bA80Eb55A29EE31ECfaE41b6f2"
+      "position":1
     },
     {
       "key":"vasp",
@@ -111,7 +110,7 @@
       "position":2
     }
   ],
-  "amount_min":"0.00000001",
+  "amount_min":"0.01",
   "amount_max":"1000000"
 }
 ```  

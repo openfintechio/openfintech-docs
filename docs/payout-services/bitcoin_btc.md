@@ -25,6 +25,7 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`wallet_id`|✔|`string`|`/^(bc1\|[13])[a-zA-HJ-NP-Z0-9]{10,65}$/`| 
+|`vasp`|✗|`string`|`/^.{1,64}$/`| 
  
 
 ### Details 
@@ -46,6 +47,24 @@
 	: [EN] Enter Bitcoin wallet 
 	: [RU] Введите Bitcoin кошелёк 
 	: [UK] Введіть Bitcoin гаманець 
+ 
+2. **`vasp`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{1,64}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] VASP Name 
+	: [RU] VASP имя 
+	: [UK] VASP ім'я 
+ 
+	Hint:  
+	: [EN] Enter VASP Name 
+	: [RU] Введите имя ASP 
+	: [UK] Введіть ім'я VASP 
  
 
 ## JSON Object 
@@ -72,6 +91,23 @@
       "regexp":"\/^(bc1|[13])[a-zA-HJ-NP-Z0-9]{10,65}$\/",
       "required":true,
       "position":1
+    },
+    {
+      "key":"vasp",
+      "type":"string",
+      "label":{
+        "en":"VASP Name",
+        "ru":"VASP \u0438\u043c\u044f",
+        "uk":"VASP \u0456\u043c'\u044f"
+      },
+      "hint":{
+        "en":"Enter VASP Name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f ASP",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c'\u044f VASP"
+      },
+      "regexp":"\/^.{1,64}$\/",
+      "required":false,
+      "position":2
     }
   ],
   "amount_min":"0.00001",

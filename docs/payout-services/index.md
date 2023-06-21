@@ -253,6 +253,7 @@
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_pln`](bank_transfer_pln/)|`PLN`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_ron`](bank_transfer_ron/)|`RON`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_rub`](bank_transfer_rub/)|`RUB`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_sar`](bank_transfer_sar/)|`SAR`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_sek`](bank_transfer_sek/)|`SEK`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_thb`](bank_transfer_thb/)|`THB`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_try`](bank_transfer_try/)|`TRY`| 
@@ -1669,6 +1670,7 @@
 |![Полтаватеплоэнерго (Гаряча вода)](https://static.openfintech.io/payout_methods/poltavateploenergo-gariacha-voda/logo.svg?w=400&c=v0.59.26#w24) |[**Полтаватеплоэнерго (Гаряча вода)**](/payout-methods/poltavateploenergo-gariacha-voda/)|[`poltavateploenergo-gariacha-voda_uah`](poltavateploenergo-gariacha-voda_uah/)|`UAH`| 
 |![Полтаватеплоенерго (Опалення)](https://static.openfintech.io/payout_methods/poltavateploenergo-opalennia/logo.svg?w=400&c=v0.59.26#w24) |[**Полтаватеплоенерго (Опалення)**](/payout-methods/poltavateploenergo-opalennia/)|[`poltavateploenergo-opalennia_uah`](poltavateploenergo-opalennia_uah/)|`UAH`| 
 |![Polygon](https://static.openfintech.io/payout_methods/polygon/logo.svg?w=400&c=v0.59.26#w24) |[**Polygon**](/payout-methods/polygon/)|[`polygon_matic`](polygon_matic/)|`MATIC`| 
+|![Polygon](https://static.openfintech.io/payout_methods/polygon/logo.svg?w=400&c=v0.59.26#w24) |[**Polygon**](/payout-methods/polygon/)|[`polygon_usdc`](polygon_usdc/)|`USDC`| 
 |![Polyuwana MFB](https://static.openfintech.io/payout_methods/polyuwana_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Polyuwana MFB**](/payout-methods/polyuwana_mfb/)|[`polyuwana_mfb_ngn`](polyuwana_mfb_ngn/)|`NGN`| 
 |![Have come here (Mosvar)](https://static.openfintech.io/payout_methods/ponaekhali-tut-mosvar/logo.png?w=400&c=v0.59.26#w24) |[**Have come here (Mosvar)**](/payout-methods/ponaekhali-tut-mosvar/)|[`ponaekhali-tut-mosvar_uah`](ponaekhali-tut-mosvar_uah/)|`UAH`| 
 |![Поповнення карти Монобанк](https://static.openfintech.io/payout_methods/popovnennia-karti-monobank/logo.svg?w=400&c=v0.59.26#w24) |[**Поповнення карти Монобанк**](/payout-methods/popovnennia-karti-monobank/)|[`popovnennia-karti-monobank_uah`](popovnennia-karti-monobank_uah/)|`UAH`| 
@@ -1897,6 +1899,7 @@
 |![SOBORKA.NET (Odessa)](https://static.openfintech.io/payout_methods/soborka-net-odessa/logo.png?w=400&c=v0.59.26#w24) |[**SOBORKA.NET (Odessa)**](/payout-methods/soborka-net-odessa/)|[`soborka-net-odessa_uah`](soborka-net-odessa_uah/)|`UAH`| 
 |![Softlink (Киев)](https://static.openfintech.io/payout_methods/softlink-kiev/logo.svg?w=400&c=v0.59.26#w24) |[**Softlink (Киев)**](/payout-methods/softlink-kiev/)|[`softlink-kiev_uah`](softlink-kiev_uah/)|`UAH`| 
 |![SOHONET](https://static.openfintech.io/payout_methods/sohonet/logo.png?w=400&c=v0.59.26#w24) |[**SOHONET**](/payout-methods/sohonet/)|[`sohonet_uah`](sohonet_uah/)|`UAH`| 
+|![Solana](https://static.openfintech.io/payout_methods/solana/logo.svg?w=400&c=v0.59.26#w24) |[**Solana**](/payout-methods/solana/)|[`solana_usdc`](solana_usdc/)|`USDC`| 
 |![Sony Bank](https://static.openfintech.io/payout_methods/sony_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Sony Bank**](/payout-methods/sony_bank/)|[`sony_bank_jpy`](sony_bank_jpy/)|`JPY`| 
 |![South Indian Bank](https://static.openfintech.io/payout_methods/south_indian_bank/logo.svg?w=400&c=v0.59.26#w24) |[**South Indian Bank**](/payout-methods/south_indian_bank/)|[`south_indian_bank_inr`](south_indian_bank_inr/)|`INR`| 
 |![SpiderNet (Odessa)](https://static.openfintech.io/payout_methods/spaidernet-odessa/logo.png?w=400&c=v0.59.26#w24) |[**SpiderNet (Odessa)**](/payout-methods/spaidernet-odessa/)|[`spaidernet-odessa_uah`](spaidernet-odessa_uah/)|`UAH`| 
@@ -1931,6 +1934,7 @@
 |![Статус контроль(УБКІ)](https://static.openfintech.io/payout_methods/status-kontrol-ubki/logo.svg?w=400&c=v0.59.26#w24) |[**Статус контроль(УБКІ)**](/payout-methods/status-kontrol-ubki/)|[`status-kontrol-ubki_uah`](status-kontrol-ubki_uah/)|`UAH`| 
 |![Steam (Voucher 2-300USD)](https://static.openfintech.io/payout_methods/steam-vaucher-2-300usd/logo.png?w=400&c=v0.59.26#w24) |[**Steam (Voucher 2-300USD)**](/payout-methods/steam-vaucher-2-300usd/)|[`steam-vaucher-2-300usd_uah`](steam-vaucher-2-300usd_uah/)|`UAH`| 
 |![Steam](https://static.openfintech.io/payout_methods/steam/logo.png?w=400&c=v0.59.26#w24) |[**Steam**](/payout-methods/steam/)|[`steam_uah`](steam_uah/)|`UAH`| 
+|![Stellar](https://static.openfintech.io/payout_methods/stellar/logo.svg?w=400&c=v0.59.26#w24) |[**Stellar**](/payout-methods/stellar/)|[`stellar_usdc`](stellar_usdc/)|`USDC`| 
 |![Stellas MFB](https://static.openfintech.io/payout_methods/stellas_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Stellas MFB**](/payout-methods/stellas_mfb/)|[`stellas_mfb_ngn`](stellas_mfb_ngn/)|`NGN`| 
 |![Sterling Bank](https://static.openfintech.io/payout_methods/sterling_bank/logo.png?w=400&c=v0.59.26#w24) |[**Sterling Bank**](/payout-methods/sterling_bank/)|[`sterling_bank_ngn`](sterling_bank_ngn/)|`NGN`| 
 |![Sterling Bank](https://static.openfintech.io/payout_methods/sterling_bank/logo.png?w=400&c=v0.59.26#w24) |[**Sterling Bank**](/payout-methods/sterling_bank/)|[`sterling_bank_php`](sterling_bank_php/)|`PHP`| 
