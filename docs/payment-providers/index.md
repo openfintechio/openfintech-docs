@@ -858,6 +858,7 @@
 |![voguepay](https://static.openfintech.io/payment_providers/voguepay/logo.png?w=600&c=v0.59.26#w100) |[**VoguePay**](voguepay/)|`voguepay`| 
 |![volt](https://static.openfintech.io/payment_providers/volt/logo.svg?w=600&c=v0.59.26#w100) |[**VOLT**](volt/)|`volt`| 
 |![voltagepay](https://static.openfintech.io/payment_providers/voltagepay/logo.png?w=600&c=v0.59.26#w100) |[**Voltage Pay**](voltagepay/)|`voltagepay`| 
+|![vppay](https://static.openfintech.io/payment_providers/vppay/logo.svg?w=600&c=v0.59.26#w100) |[**VPPay**](vppay/)|`vppay`| 
 |![vtcpay](https://static.openfintech.io/payment_providers/vtcpay/logo.png?w=600&c=v0.59.26#w100) |[**VTC Pay**](vtcpay/)|`vtcpay`| 
 || **W** ||
 |![walletone](https://static.openfintech.io/payment_providers/walletone/logo.svg?w=600&c=v0.59.26#w100) |[**Wallet One**](walletone/)|`walletone`| 

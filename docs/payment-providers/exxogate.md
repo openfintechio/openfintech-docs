@@ -192,6 +192,13 @@ The list of supported [Payment Methods](/payment-methods/)
 |![ab_bank](https://static.openfintech.io/payment_methods/ab_bank/icon.png?w=278&c=v0.59.26#w100) |[ab_bank](/payment-methods/ab_bank/)|`ab_bank`| 
 |![vp_bank](https://static.openfintech.io/payment_methods/vp_bank/icon.png?w=278&c=v0.59.26#w100) |[vp_bank](/payment-methods/vp_bank/)|`vp_bank`| 
 |![scb_bank](https://static.openfintech.io/payment_methods/scb_bank/icon.png?w=278&c=v0.59.26#w100) |[scb_bank](/payment-methods/scb_bank/)|`scb_bank`| 
+|![uobt](https://static.openfintech.io/payment_methods/uobt/icon.svg?w=278&c=v0.59.26#w100) |[uobt](/payment-methods/uobt/)|`uobt`| 
+|![tmbthanachart_bank](https://static.openfintech.io/payment_methods/tmbthanachart_bank/icon.svg?w=278&c=v0.59.26#w100) |[tmbthanachart_bank](/payment-methods/tmbthanachart_bank/)|`tmbthanachart_bank`| 
+|![rhb_bank](https://static.openfintech.io/payment_methods/rhb_bank/icon.svg?w=278&c=v0.59.26#w100) |[rhb_bank](/payment-methods/rhb_bank/)|`rhb_bank`| 
+|![gcash](https://static.openfintech.io/payment_methods/gcash/icon.png?w=278&c=v0.59.26#w100) |[gcash](/payment-methods/gcash/)|`gcash`| 
+|![maya](https://static.openfintech.io/payment_methods/maya/icon.svg?w=278&c=v0.59.26#w100) |[maya](/payment-methods/maya/)|`maya`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
+|![bank_transfer_va](https://static.openfintech.io/payment_methods/bank_transfer_va/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_va](/payment-methods/bank_transfer_va/)|`bank_transfer_va`| 
  
 
 ## Payout Methods 
@@ -701,7 +708,14 @@ The list of supported [Payout Methods](/payout-methods/)
     "vib_bank",
     "ab_bank",
     "vp_bank",
-    "scb_bank"
+    "scb_bank",
+    "uobt",
+    "tmbthanachart_bank",
+    "rhb_bank",
+    "gcash",
+    "maya",
+    "bank_transfer",
+    "bank_transfer_va"
   ],
   "payout_method":[
     "hdfc_bank",

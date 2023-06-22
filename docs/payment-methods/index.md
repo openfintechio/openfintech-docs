@@ -85,6 +85,7 @@
 |![bank_simpanan_nasional_fpx](https://static.openfintech.io/payment_methods/bank_simpanan_nasional_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Simpanan Nasional (FPX), Malaysia**](bank_simpanan_nasional_fpx/)|`bank_simpanan_nasional_fpx`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](bank_transfer/)|`bank_transfer`| 
 |![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/logo.svg?w=400&c=v0.59.26#w200) |[**Klarna bank transfer**](bank_transfer_klarna/)|`bank_transfer_klarna`| 
+|![bank_transfer_va](https://static.openfintech.io/payment_methods/bank_transfer_va/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer VA**](bank_transfer_va/)|`bank_transfer_va`| 
 |![bankaxess](https://static.openfintech.io/payment_methods/bankaxess/logo.png?w=400&c=v0.59.26#w200) |[**Bankaxess**](bankaxess/)|`bankaxess`| 
 |![bankia](https://static.openfintech.io/payment_methods/bankia/logo.png?w=400&c=v0.59.26#w200) |[**Bankia**](bankia/)|`bankia`| 
 |![bankinter](https://static.openfintech.io/payment_methods/bankinter/logo.png?w=400&c=v0.59.26#w200) |[**Bank Inter**](bankinter/)|`bankinter`| 
@@ -641,6 +642,7 @@
 |![ticketpremium](https://static.openfintech.io/payment_methods/ticketpremium/logo.png?w=400&c=v0.59.26#w200) |[**Ticket Premium**](ticketpremium/)|`ticketpremium`| 
 |![tigo_pesa](https://static.openfintech.io/payment_methods/tigo_pesa/logo.png?w=400&c=v0.59.26#w200) |[**Tigo pesa**](tigo_pesa/)|`tigo_pesa`| 
 |![tinkoff](https://static.openfintech.io/payment_methods/tinkoff/logo.png?w=400&c=v0.59.26#w200) |[**Tinkoff**](tinkoff/)|`tinkoff`| 
+|![tmbthanachart_bank](https://static.openfintech.io/payment_methods/tmbthanachart_bank/logo.svg?w=400&c=v0.59.26#w200) |[**TMBThanachart Bank**](tmbthanachart_bank/)|`tmbthanachart_bank`| 
 |![toditocash](https://static.openfintech.io/payment_methods/toditocash/logo.png?w=400&c=v0.59.26#w200) |[**Todito Cash**](toditocash/)|`toditocash`| 
 |![toncoin](https://static.openfintech.io/payment_methods/toncoin/logo.png?w=400&c=v0.59.26#w200) |[**Toncoin**](toncoin/)|`toncoin`| 
 |![touchngo](https://static.openfintech.io/payment_methods/touchngo/logo.svg?w=400&c=v0.59.26#w200) |[**Touch‘n Go**](touchngo/)|`touchngo`| 

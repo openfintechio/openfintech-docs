@@ -2103,6 +2103,7 @@
 |![vostochnyjbank](https://static.openfintech.io/vendors/vostochnyjbank/logo.svg?w=600&c=v0.59.26#w200) |[**Восточный банк**](vostochnyjbank/)|`vostochnyjbank`| 
 |![vozrozhdeniebank](https://static.openfintech.io/vendors/vozrozhdeniebank/logo.svg?w=600&c=v0.59.26#w200) |[**Возрождение банк**](vozrozhdeniebank/)|`vozrozhdeniebank`| 
 |![vpay](https://static.openfintech.io/vendors/vpay/logo.png?w=600&c=v0.59.26#w200) |[**V PAY**](vpay/)|`vpay`| 
+|![vppay](https://static.openfintech.io/vendors/vppay/logo.svg?w=600&c=v0.59.26#w200) |[**VPPay**](vppay/)|`vppay`| 
 |![vtb24](https://static.openfintech.io/vendors/vtb24/logo.png?w=600&c=v0.59.26#w200) |[**ВТБ24**](vtb24/)|`vtb24`| 
 |![vtcpay](https://static.openfintech.io/vendors/vtcpay/logo.png?w=600&c=v0.59.26#w200) |[**VTC Pay**](vtcpay/)|`vtcpay`| 
 |![vubbanka](https://static.openfintech.io/vendors/vubbanka/logo.png?w=600&c=v0.59.26#w200) |[**VÚB Banka**](vubbanka/)|`vubbanka`| 

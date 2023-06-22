@@ -35,6 +35,7 @@ The list of [Payment Services](/payment-services/) based on the _Standard Charte
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![standard_chartered_bank_india](https://static.openfintech.io/payment_methods/standard_chartered_bank_india/icon.svg?w=278&c=v0.59.26#w100) |[standard_chartered_bank_india_inr_hpp](/payment-services/standard_chartered_bank_india_inr_hpp/)|`standard_chartered_bank_india_inr_hpp`| 
+|![standard_chartered_bank_india](https://static.openfintech.io/payment_methods/standard_chartered_bank_india/icon.svg?w=278&c=v0.59.26#w100) |[standard_chartered_bank_india_idr_hpp](/payment-services/standard_chartered_bank_india_idr_hpp/)|`standard_chartered_bank_india_idr_hpp`| 
  
 
 ## Payment Providers 

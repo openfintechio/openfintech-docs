@@ -28,13 +28,13 @@ https://static.openfintech.io/payment_methods/tmbthanachart_bank/logo.svg?w=400&
 https://static.openfintech.io/payment_methods/tmbthanachart_bank/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _TMBThanachart Bank_ 
+The list of [Payment Services](/payment-services/) based on the _TMBThanachart Bank_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![tmbthanachart_bank](https://static.openfintech.io/payout_methods/tmbthanachart_bank/icon.svg?w=278&c=v0.59.26#w40) |[tmbthanachart_bank_thb](/payout-services/tmbthanachart_bank_thb/)|`tmbthanachart_bank_thb`| 
+|![tmbthanachart_bank](https://static.openfintech.io/payment_methods/tmbthanachart_bank/icon.svg?w=278&c=v0.59.26#w100) |[tmbthanachart_bank_thb_hpp](/payment-services/tmbthanachart_bank_thb_hpp/)|`tmbthanachart_bank_thb_hpp`| 
  
 
 ## Payment Providers 
