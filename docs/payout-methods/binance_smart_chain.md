@@ -26,10 +26,10 @@ https://static.openfintech.io/payment_methods/binance_smart_chain/logo.png?w=400
 ```  
 
 ### Icon 
-![binance_smart_chain](https://static.openfintech.io/payment_methods/binance_smart_chain/icon.svg?w=278&c=v0.59.26#w100)  
+![binance_smart_chain](https://static.openfintech.io/payment_methods/binance_smart_chain/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/binance_smart_chain/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/binance_smart_chain/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payout Services 

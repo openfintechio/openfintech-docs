@@ -46,7 +46,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin](/payment-methods/usd_coin/)|`usd_coin`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum](/payment-methods/ethereum/)|`ethereum`| 
 |![dai_coin](https://static.openfintech.io/payment_methods/dai_coin/icon.png?w=278&c=v0.59.26#w100) |[dai_coin](/payment-methods/dai_coin/)|`dai_coin`| 
-|![binance_smart_chain](https://static.openfintech.io/payment_methods/binance_smart_chain/icon.svg?w=278&c=v0.59.26#w100) |[binance_smart_chain](/payment-methods/binance_smart_chain/)|`binance_smart_chain`| 
+|![binance_smart_chain](https://static.openfintech.io/payment_methods/binance_smart_chain/icon.png?w=278&c=v0.59.26#w100) |[binance_smart_chain](/payment-methods/binance_smart_chain/)|`binance_smart_chain`| 
 |![venom](https://static.openfintech.io/payment_methods/venom/icon.png?w=278&c=v0.59.26#w100) |[venom](/payment-methods/venom/)|`venom`| 
  
 

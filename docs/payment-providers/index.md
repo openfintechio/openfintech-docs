@@ -813,6 +813,7 @@
 |![transferhub](https://static.openfintech.io/payment_providers/transferhub/logo.svg?w=600&c=v0.59.26#w100) |[**TransferHub**](transferhub/)|`transferhub`| 
 |![tranzzo](https://static.openfintech.io/payment_providers/tranzzo/logo.svg?w=600&c=v0.59.26#w100) |[**Tranzzo**](tranzzo/)|`tranzzo`| 
 |![traxpay](https://static.openfintech.io/payment_providers/traxpay/logo.png?w=600&c=v0.59.26#w100) |[**Traxpay**](traxpay/)|`traxpay`| 
+|![triplea](https://static.openfintech.io/payment_providers/triplea/logo.png?w=600&c=v0.59.26#w100) |[**TripleA**](triplea/)|`triplea`| 
 |![truevo](https://static.openfintech.io/payment_providers/truevo/logo.png?w=600&c=v0.59.26#w100) |[**Truevo Payments**](truevo/)|`truevo`| 
 |![trustcommerce](https://static.openfintech.io/payment_providers/trustcommerce/logo.png?w=600&c=v0.59.26#w100) |[**TrustCommerce**](trustcommerce/)|`trustcommerce`| 
 |![trustly](https://static.openfintech.io/payment_providers/trustly/logo.svg?w=600&c=v0.59.26#w100) |[**Trustly**](trustly/)|`trustly`| 

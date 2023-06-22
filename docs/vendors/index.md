@@ -1985,6 +1985,7 @@
 |![transferhub](https://static.openfintech.io/vendors/transferhub/logo.svg?w=600&c=v0.59.26#w200) |[**TransferHub**](transferhub/)|`transferhub`| 
 |![tranzzo](https://static.openfintech.io/vendors/tranzzo/logo.svg?w=600&c=v0.59.26#w200) |[**Tranzzo**](tranzzo/)|`tranzzo`| 
 |![traxpay](https://static.openfintech.io/vendors/traxpay/logo.png?w=600&c=v0.59.26#w200) |[**Traxpay**](traxpay/)|`traxpay`| 
+|![triplea](https://static.openfintech.io/vendors/triplea/logo.png?w=600&c=v0.59.26#w200) |[**TripleA**](triplea/)|`triplea`| 
 |![tron](https://static.openfintech.io/vendors/tron/logo.svg?w=600&c=v0.59.26#w200) |[**Tron**](tron/)|`tron`| 
 |![truevo](https://static.openfintech.io/vendors/truevo/logo.png?w=600&c=v0.59.26#w200) |[**Truevo Payments**](truevo/)|`truevo`| 
 |![trust-exchange.org](https://static.openfintech.io/vendors/trust-exchange.org/logo.svg?w=600&c=v0.59.26#w200) |[**trust-exchange**](trust-exchange.org/)|`trust-exchange.org`| 

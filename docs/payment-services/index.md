@@ -293,6 +293,7 @@
 |![Corporation Bank](https://static.openfintech.io/payment_methods/corporation_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Corporation Bank**](/payment-methods/corporation_bank/)|[`corporation_bank_inr_hpp`](corporation_bank_inr_hpp/)| 
 |![Cosmos Co-operative Bank Ltd](https://static.openfintech.io/payment_methods/cosmos_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Cosmos Co-operative Bank Ltd**](/payment-methods/cosmos_bank_india/)|[`cosmos_bank_india_inr_hpp`](cosmos_bank_india_inr_hpp/)| 
 |![CRYPTO](https://static.openfintech.io/payment_methods/crypto/logo.svg?w=400&c=v0.59.26#w200) |[**CRYPTO**](/payment-methods/crypto/)|[`crypto_btc_hpp`](crypto_btc_hpp/)| 
+|![CRYPTO](https://static.openfintech.io/payment_methods/crypto/logo.svg?w=400&c=v0.59.26#w200) |[**CRYPTO**](/payment-methods/crypto/)|[`crypto_usd_hpp`](crypto_usd_hpp/)| 
 |![CSB Bank](https://static.openfintech.io/payment_methods/csb_bank/logo.png?w=400&c=v0.59.26#w200) |[**CSB Bank**](/payment-methods/csb_bank/)|[`csb_bank_inr_hpp`](csb_bank_inr_hpp/)| 
 |![Curfex Japan](https://static.openfintech.io/payment_methods/curfex/logo.png?w=400&c=v0.59.26#w200) |[**Curfex Japan**](/payment-methods/curfex/)|[`curfex_jpy_hpp`](curfex_jpy_hpp/)| 
 ||| **D** ||
