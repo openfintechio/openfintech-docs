@@ -187,6 +187,7 @@
 |![BitexPRO P2P](https://static.openfintech.io/payment_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**BitexPRO P2P**](/payment-methods/bitexpro_p2p/)|[`bitexpro_p2p_kzt_hpp`](bitexpro_p2p_kzt_hpp/)| 
 |![BitexPRO P2P](https://static.openfintech.io/payment_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**BitexPRO P2P**](/payment-methods/bitexpro_p2p/)|[`bitexpro_p2p_pkr_hpp`](bitexpro_p2p_pkr_hpp/)| 
 |![BitexPRO P2P](https://static.openfintech.io/payment_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**BitexPRO P2P**](/payment-methods/bitexpro_p2p/)|[`bitexpro_p2p_rub_hpp`](bitexpro_p2p_rub_hpp/)| 
+|![BitexPRO P2P](https://static.openfintech.io/payment_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**BitexPRO P2P**](/payment-methods/bitexpro_p2p/)|[`bitexpro_p2p_tjs_hpp`](bitexpro_p2p_tjs_hpp/)| 
 |![BitexPRO P2P](https://static.openfintech.io/payment_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**BitexPRO P2P**](/payment-methods/bitexpro_p2p/)|[`bitexpro_p2p_try_hpp`](bitexpro_p2p_try_hpp/)| 
 |![BitexPRO P2P](https://static.openfintech.io/payment_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**BitexPRO P2P**](/payment-methods/bitexpro_p2p/)|[`bitexpro_p2p_uah_hpp`](bitexpro_p2p_uah_hpp/)| 
 |![BitexPRO P2P](https://static.openfintech.io/payment_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**BitexPRO P2P**](/payment-methods/bitexpro_p2p/)|[`bitexpro_p2p_uzs_hpp`](bitexpro_p2p_uzs_hpp/)| 

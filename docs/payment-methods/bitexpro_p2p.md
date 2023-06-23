@@ -49,6 +49,7 @@ The list of [Payment Services](/payment-services/) based on the _BitexPRO P2P_
 |![bitexpro_p2p](https://static.openfintech.io/payment_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w100) |[bitexpro_p2p_vnd_hpp](/payment-services/bitexpro_p2p_vnd_hpp/)|`bitexpro_p2p_vnd_hpp`| 
 |![bitexpro_p2p](https://static.openfintech.io/payment_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w100) |[bitexpro_p2p_eur_hpp](/payment-services/bitexpro_p2p_eur_hpp/)|`bitexpro_p2p_eur_hpp`| 
 |![bitexpro_p2p](https://static.openfintech.io/payment_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w100) |[bitexpro_p2p_gbp_hpp](/payment-services/bitexpro_p2p_gbp_hpp/)|`bitexpro_p2p_gbp_hpp`| 
+|![bitexpro_p2p](https://static.openfintech.io/payment_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w100) |[bitexpro_p2p_tjs_hpp](/payment-services/bitexpro_p2p_tjs_hpp/)|`bitexpro_p2p_tjs_hpp`| 
  
 
 ## Payment Providers 

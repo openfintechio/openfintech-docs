@@ -37,6 +37,7 @@ The list of [Payout Services](/payout-services/) based on the _BitexPRO P2P_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w40) |[bitexpro_p2p_rub](/payout-services/bitexpro_p2p_rub/)|`bitexpro_p2p_rub`| 
+|![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w40) |[bitexpro_p2p_tjs](/payout-services/bitexpro_p2p_tjs/)|`bitexpro_p2p_tjs`| 
 |![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w40) |[bitexpro_p2p_kzt](/payout-services/bitexpro_p2p_kzt/)|`bitexpro_p2p_kzt`| 
 |![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w40) |[bitexpro_p2p_inr](/payout-services/bitexpro_p2p_inr/)|`bitexpro_p2p_inr`| 
 |![bitexpro_p2p](https://static.openfintech.io/payout_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w40) |[bitexpro_p2p_try](/payout-services/bitexpro_p2p_try/)|`bitexpro_p2p_try`| 
