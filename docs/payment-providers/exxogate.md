@@ -199,6 +199,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![maya](https://static.openfintech.io/payment_methods/maya/icon.svg?w=278&c=v0.59.26#w100) |[maya](/payment-methods/maya/)|`maya`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
 |![bank_transfer_va](https://static.openfintech.io/payment_methods/bank_transfer_va/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_va](/payment-methods/bank_transfer_va/)|`bank_transfer_va`| 
+|![bank_transfer_qr](https://static.openfintech.io/payment_methods/bank_transfer_qr/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_qr](/payment-methods/bank_transfer_qr/)|`bank_transfer_qr`| 
  
 
 ## Payout Methods 
@@ -715,7 +716,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "gcash",
     "maya",
     "bank_transfer",
-    "bank_transfer_va"
+    "bank_transfer_va",
+    "bank_transfer_qr"
   ],
   "payout_method":[
     "hdfc_bank",
