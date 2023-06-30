@@ -58,6 +58,13 @@ The list of [Payment Services](/payment-services/) based on the _Bank Transfer_
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_krw_hpp](/payment-services/bank_transfer_krw_hpp/)|`bank_transfer_krw_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_eur_invoice](/payment-services/bank_transfer_eur_invoice/)|`bank_transfer_eur_invoice`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_ngn_invoice](/payment-services/bank_transfer_ngn_invoice/)|`bank_transfer_ngn_invoice`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_try_invoice](/payment-services/bank_transfer_try_invoice/)|`bank_transfer_try_invoice`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_aed_invoice](/payment-services/bank_transfer_aed_invoice/)|`bank_transfer_aed_invoice`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_mxn_invoice](/payment-services/bank_transfer_mxn_invoice/)|`bank_transfer_mxn_invoice`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_pkr_invoice](/payment-services/bank_transfer_pkr_invoice/)|`bank_transfer_pkr_invoice`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_krw_invoice](/payment-services/bank_transfer_krw_invoice/)|`bank_transfer_krw_invoice`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_idr_invoice](/payment-services/bank_transfer_idr_invoice/)|`bank_transfer_idr_invoice`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_vnd_invoice](/payment-services/bank_transfer_vnd_invoice/)|`bank_transfer_vnd_invoice`| 
  
 
 ## Payment Providers 

@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Wise_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![wise](https://static.openfintech.io/payment_methods/wise/icon.svg?w=278&c=v0.59.26#w100) |[wise_uah_hpp](/payment-services/wise_uah_hpp/)|`wise_uah_hpp`| 
+|![wise](https://static.openfintech.io/payment_methods/wise/icon.svg?w=278&c=v0.59.26#w100) |[wise_uah_invoice](/payment-services/wise_uah_invoice/)|`wise_uah_invoice`| 
  
 
 ## Payment Providers 

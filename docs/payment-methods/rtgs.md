@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _RTGS_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![rtgs](https://static.openfintech.io/payment_methods/rtgs/icon.svg?w=278&c=v0.59.26#w100) |[rtgs_inr_hpp](/payment-services/rtgs_inr_hpp/)|`rtgs_inr_hpp`| 
+|![rtgs](https://static.openfintech.io/payment_methods/rtgs/icon.svg?w=278&c=v0.59.26#w100) |[rtgs_inr_invoice](/payment-services/rtgs_inr_invoice/)|`rtgs_inr_invoice`| 
  
 
 ## Payment Providers 

@@ -35,6 +35,7 @@ The list of [Payment Services](/payment-services/) based on the _AdvCash_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![advcash](https://static.openfintech.io/payment_methods/advcash/icon.svg?w=278&c=v0.59.26#w100) |[advcash_kzt_hpp](/payment-services/advcash_kzt_hpp/)|`advcash_kzt_hpp`| 
+|![advcash](https://static.openfintech.io/payment_methods/advcash/icon.svg?w=278&c=v0.59.26#w100) |[advcash_kzt_invoice](/payment-services/advcash_kzt_invoice/)|`advcash_kzt_invoice`| 
  
 
 ## Payment Providers 

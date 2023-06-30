@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _IMPS_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![imps](https://static.openfintech.io/payment_methods/imps/icon.png?w=278&c=v0.59.26#w100) |[imps_inr_hpp](/payment-services/imps_inr_hpp/)|`imps_inr_hpp`| 
+|![imps](https://static.openfintech.io/payment_methods/imps/icon.png?w=278&c=v0.59.26#w100) |[imps_inr_invoice](/payment-services/imps_inr_invoice/)|`imps_inr_invoice`| 
  
 
 ## Payment Providers 

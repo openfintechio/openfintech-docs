@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _UPI_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi_inr_hpp](/payment-services/upi_inr_hpp/)|`upi_inr_hpp`| 
+|![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi_inr_invoice](/payment-services/upi_inr_invoice/)|`upi_inr_invoice`| 
  
 
 ## Payment Providers 

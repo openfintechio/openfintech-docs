@@ -35,6 +35,7 @@ The list of [Payment Services](/payment-services/) based on the _Phonepe Wallet_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![phonepe](https://static.openfintech.io/payment_methods/phonepe/icon.svg?w=278&c=v0.59.26#w100) |[phonepe_inr_hpp](/payment-services/phonepe_inr_hpp/)|`phonepe_inr_hpp`| 
+|![phonepe](https://static.openfintech.io/payment_methods/phonepe/icon.svg?w=278&c=v0.59.26#w100) |[phonepe_inr_invoice](/payment-services/phonepe_inr_invoice/)|`phonepe_inr_invoice`| 
  
 
 ## Payment Providers 

@@ -51,6 +51,13 @@ The list of [Payment Services](/payment-services/) based on the _Card transfer_
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_egp_hpp](/payment-services/card_transfer_egp_hpp/)|`card_transfer_egp_hpp`| 
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_mxn_hpp](/payment-services/card_transfer_mxn_hpp/)|`card_transfer_mxn_hpp`| 
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_uzs_invoice](/payment-services/card_transfer_uzs_invoice/)|`card_transfer_uzs_invoice`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_kzt_invoice](/payment-services/card_transfer_kzt_invoice/)|`card_transfer_kzt_invoice`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_mdl_invoice](/payment-services/card_transfer_mdl_invoice/)|`card_transfer_mdl_invoice`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_azn_invoice](/payment-services/card_transfer_azn_invoice/)|`card_transfer_azn_invoice`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_ars_invoice](/payment-services/card_transfer_ars_invoice/)|`card_transfer_ars_invoice`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_kgs_invoice](/payment-services/card_transfer_kgs_invoice/)|`card_transfer_kgs_invoice`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_egp_invoice](/payment-services/card_transfer_egp_invoice/)|`card_transfer_egp_invoice`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_mxn_invoice](/payment-services/card_transfer_mxn_invoice/)|`card_transfer_mxn_invoice`| 
  
 
 ## Payment Providers 

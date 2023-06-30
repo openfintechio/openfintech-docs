@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Neft_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![neft](https://static.openfintech.io/payment_methods/neft/icon.svg?w=278&c=v0.59.26#w100) |[neft_inr_hpp](/payment-services/neft_inr_hpp/)|`neft_inr_hpp`| 
+|![neft](https://static.openfintech.io/payment_methods/neft/icon.svg?w=278&c=v0.59.26#w100) |[neft_inr_invoice](/payment-services/neft_inr_invoice/)|`neft_inr_invoice`| 
  
 
 ## Payment Providers 

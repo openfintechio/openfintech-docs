@@ -35,6 +35,7 @@ The list of [Payment Services](/payment-services/) based on the _PAYTM Wallet_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![paytm](https://static.openfintech.io/payment_methods/paytm/icon.svg?w=278&c=v0.59.26#w100) |[paytm_inr_hpp](/payment-services/paytm_inr_hpp/)|`paytm_inr_hpp`| 
+|![paytm](https://static.openfintech.io/payment_methods/paytm/icon.svg?w=278&c=v0.59.26#w100) |[paytm_inr_invoice](/payment-services/paytm_inr_invoice/)|`paytm_inr_invoice`| 
  
 
 ## Payment Providers 
