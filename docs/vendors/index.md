@@ -370,6 +370,7 @@
 |![btc-obmenka](https://static.openfintech.io/vendors/btc-obmenka/logo.svg?w=600&c=v0.59.26#w200) |[**btc-obmenka**](btc-obmenka/)|`btc-obmenka`| 
 |![btcbank.ua](https://static.openfintech.io/vendors/btcbank.ua/logo.svg?w=600&c=v0.59.26#w200) |[**btcbank.com.ua**](btcbank.ua/)|`btcbank.ua`| 
 |![btcupcom](https://static.openfintech.io/vendors/btcupcom/logo.svg?w=600&c=v0.59.26#w200) |[**btc-up.com**](btcupcom/)|`btcupcom`| 
+|![btgate](https://static.openfintech.io/vendors/btgate/logo.png?w=600&c=v0.59.26#w200) |[**btGate**](btgate/)|`btgate`| 
 |![buckaroo](https://static.openfintech.io/vendors/buckaroo/logo.png?w=600&c=v0.59.26#w200) |[**Buckaroo**](buckaroo/)|`buckaroo`| 
 |![bucksnet](https://static.openfintech.io/vendors/bucksnet/logo.png?w=600&c=v0.59.26#w200) |[**Bucks Net Services**](bucksnet/)|`bucksnet`| 
 |![budpay](https://static.openfintech.io/vendors/budpay/logo.png?w=600&c=v0.59.26#w200) |[**Budpay**](budpay/)|`budpay`| 
@@ -1758,6 +1759,7 @@
 |![safecharge](https://static.openfintech.io/vendors/safecharge/logo.svg?w=600&c=v0.59.26#w200) |[**Nuvei**](safecharge/)|`safecharge`| 
 |![safepay.ua](https://static.openfintech.io/vendors/safepay.ua/logo.svg?w=600&c=v0.59.26#w200) |[**SafePay**](safepay.ua/)|`safepay.ua`| 
 |![safetypay](https://static.openfintech.io/vendors/safetypay/logo.png?w=600&c=v0.59.26#w200) |[**SafetyPay**](safetypay/)|`safetypay`| 
+|![safexpay](https://static.openfintech.io/vendors/safexpay/logo.png?w=600&c=v0.59.26#w200) |[**Safexpay**](safexpay/)|`safexpay`| 
 |![saga_bank](https://static.openfintech.io/vendors/saga_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Saga Bank**](saga_bank/)|`saga_bank`| 
 |![saga_kyoei_bank](https://static.openfintech.io/vendors/saga_kyoei_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Saga Kyoei Bank**](saga_kyoei_bank/)|`saga_kyoei_bank`| 
 |![sagepay3](https://static.openfintech.io/vendors/sagepay3/logo.svg?w=600&c=v0.59.26#w200) |[**Sage Pay**](sagepay3/)|`sagepay3`| 

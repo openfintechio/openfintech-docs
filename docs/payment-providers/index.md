@@ -123,6 +123,7 @@
 |![braintree](https://static.openfintech.io/payment_providers/braintree/logo.svg?w=600&c=v0.59.26#w100) |[**Braintree**](braintree/)|`braintree`| 
 |![braspag](https://static.openfintech.io/payment_providers/braspag/logo.png?w=600&c=v0.59.26#w100) |[**Braspag**](braspag/)|`braspag`| 
 |![bscardservices](https://static.openfintech.io/payment_providers/bscardservices/logo.png?w=600&c=v0.59.26#w100) |[**B+S Card Service**](bscardservices/)|`bscardservices`| 
+|![btgate](https://static.openfintech.io/payment_providers/btgate/logo.png?w=600&c=v0.59.26#w100) |[**btGate**](btgate/)|`btgate`| 
 |![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/logo.png?w=600&c=v0.59.26#w100) |[**Buckaroo**](buckaroo/)|`buckaroo`| 
 |![bucksnet](https://static.openfintech.io/payment_providers/bucksnet/logo.svg?w=600&c=v0.59.26#w100) |[**Bucks Net Services**](bucksnet/)|`bucksnet`| 
 |![budpay](https://static.openfintech.io/payment_providers/budpay/logo.png?w=600&c=v0.59.26#w100) |[**Budpay**](budpay/)|`budpay`| 
@@ -730,6 +731,7 @@
 || **S** ||
 |![safecharge](https://static.openfintech.io/payment_providers/safecharge/logo.svg?w=600&c=v0.59.26#w100) |[**Nuvei**](safecharge/)|`safecharge`| 
 |![safetypay](https://static.openfintech.io/payment_providers/safetypay/logo.png?w=600&c=v0.59.26#w100) |[**SafetyPay**](safetypay/)|`safetypay`| 
+|![safexpay](https://static.openfintech.io/payment_providers/safexpay/logo.svg?w=600&c=v0.59.26#w100) |[**Safexpay**](safexpay/)|`safexpay`| 
 |![sagepay3](https://static.openfintech.io/payment_providers/sagepay3/logo.svg?w=600&c=v0.59.26#w100) |[**Sage Pay**](sagepay3/)|`sagepay3`| 
 |![saltarpay](https://static.openfintech.io/payment_providers/saltarpay/logo.png?w=600&c=v0.59.26#w100) |[**SaltarPay**](saltarpay/)|`saltarpay`| 
 |![satchelpay](https://static.openfintech.io/payment_providers/satchelpay/logo.png?w=600&c=v0.59.26#w100) |[**Satchel**](satchelpay/)|`satchelpay`| 
