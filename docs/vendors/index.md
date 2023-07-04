@@ -956,7 +956,7 @@
 |![inteligo](https://static.openfintech.io/vendors/inteligo/logo.png?w=600&c=v0.59.26#w200) |[**Inteligo**](inteligo/)|`inteligo`| 
 |![intelligentpayments](https://static.openfintech.io/vendors/intelligentpayments/logo.png?w=600&c=v0.59.26#w200) |[**Intelligent Payments**](intelligentpayments/)|`intelligentpayments`| 
 |![interac](https://static.openfintech.io/vendors/interac/logo.png?w=600&c=v0.59.26#w200) |[**Interac Online**](interac/)|`interac`| 
-|![interkassa](https://static.openfintech.io/vendors/interkassa/logo.svg?w=600&c=v0.59.26#w200) |[**Interkassa**](interkassa/)|`interkassa`| 
+|![interkassa](https://static.openfintech.io/vendors/interkassa/logo.png?w=600&c=v0.59.26#w200) |[**Interkassa**](interkassa/)|`interkassa`| 
 |![internationalpaymentsolutions](https://static.openfintech.io/vendors/internationalpaymentsolutions/logo.png?w=600&c=v0.59.26#w200) |[**International Payment Solutions (IPS)**](internationalpaymentsolutions/)|`internationalpaymentsolutions`| 
 |![intexchange.ru](https://static.openfintech.io/vendors/intexchange.ru/logo.svg?w=600&c=v0.59.26#w200) |[**IntExchange**](intexchange.ru/)|`intexchange.ru`| 
 |![inwizo](https://static.openfintech.io/vendors/inwizo/logo.svg?w=600&c=v0.59.26#w200) |[**Inwizo**](inwizo/)|`inwizo`| 

@@ -1,6 +1,6 @@
 
 # Interkassa 
-![interkassa](https://static.openfintech.io/vendors/interkassa/logo.svg?w=400&c=v0.59.26#w200)  
+![interkassa](https://static.openfintech.io/vendors/interkassa/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -26,10 +26,10 @@ city: Kiev
 
 ### Logo 
  
-![interkassa](https://static.openfintech.io/vendors/interkassa/logo.svg?w=400&c=v0.59.26#w200)  
+![interkassa](https://static.openfintech.io/vendors/interkassa/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/interkassa/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/interkassa/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
