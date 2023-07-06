@@ -212,6 +212,7 @@
 |![duitnow](https://static.openfintech.io/payment_methods/duitnow/logo.png?w=400&c=v0.59.26#w200) |[**DuitNow**](duitnow/)|`duitnow`| 
 |![dwolla](https://static.openfintech.io/payment_methods/dwolla/logo.svg?w=400&c=v0.59.26#w200) |[**Dwolla**](dwolla/)|`dwolla`| 
 || **E** ||
+|![easypaisa](https://static.openfintech.io/payment_methods/easypaisa/logo.svg?w=400&c=v0.59.26#w200) |[**Easypaisa**](easypaisa/)|`easypaisa`| 
 |![easypay](https://static.openfintech.io/payment_methods/easypay/logo.png?w=400&c=v0.59.26#w200) |[**EasyPay**](easypay/)|`easypay`| 
 |![ecobanq](https://static.openfintech.io/payment_methods/ecobanq/logo.png?w=400&c=v0.59.26#w200) |[**Ecobanq**](ecobanq/)|`ecobanq`| 
 |![ecoineu](https://static.openfintech.io/payment_methods/ecoineu/logo.png?w=400&c=v0.59.26#w200) |[**Ecoin.eu**](ecoineu/)|`ecoineu`| 
@@ -322,6 +323,7 @@
 |![ivrbilling](https://static.openfintech.io/payment_methods/ivrbilling/logo.png?w=400&c=v0.59.26#w200) |[**IVR Billing**](ivrbilling/)|`ivrbilling`| 
 || **J** ||
 |![j_k_bank_india](https://static.openfintech.io/payment_methods/j_k_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Jammu & Kashmir Bank**](j_k_bank_india/)|`j_k_bank_india`| 
+|![jazzcash](https://static.openfintech.io/payment_methods/jazzcash/logo.svg?w=400&c=v0.59.26#w200) |[**JazzCash**](jazzcash/)|`jazzcash`| 
 |![jcb](https://static.openfintech.io/payment_methods/jcb/logo.png?w=400&c=v0.59.26#w200) |[**JCB**](jcb/)|`jcb`| 
 |![jeton_wallet](https://static.openfintech.io/payment_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w200) |[**Jeton Wallet**](jeton_wallet/)|`jeton_wallet`| 
 |![jiomoney](https://static.openfintech.io/payment_methods/jiomoney/logo.svg?w=400&c=v0.59.26#w200) |[**JioMoney \| India Ka Naya Cash**](jiomoney/)|`jiomoney`| 

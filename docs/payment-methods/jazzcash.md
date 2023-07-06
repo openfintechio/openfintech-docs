@@ -32,13 +32,13 @@ https://static.openfintech.io/payment_methods/jazzcash/logo.svg?w=400&c=v0.59.26
 https://static.openfintech.io/payment_methods/jazzcash/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _JazzCash_ 
+The list of [Payment Services](/payment-services/) based on the _JazzCash_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![jazzcash](https://static.openfintech.io/payout_methods/jazzcash/icon.png?w=278&c=v0.59.26#w40) |[jazzcash_pkr](/payout-services/jazzcash_pkr/)|`jazzcash_pkr`| 
+|![jazzcash](https://static.openfintech.io/payment_methods/jazzcash/icon.svg?w=278&c=v0.59.26#w100) |[jazzcash_pkr_hpp](/payment-services/jazzcash_pkr_hpp/)|`jazzcash_pkr_hpp`| 
  
 
 ## Payment Providers 

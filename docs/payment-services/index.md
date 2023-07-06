@@ -336,6 +336,7 @@
 |![Dong A Bank](https://static.openfintech.io/payment_methods/dong_a_bank/logo.png?w=400&c=v0.59.26#w200) |[**Dong A Bank**](/payment-methods/dong_a_bank/)|[`dong_a_bank_vnd_hpp`](dong_a_bank_vnd_hpp/)| 
 |![DuitNow](https://static.openfintech.io/payment_methods/duitnow/logo.png?w=400&c=v0.59.26#w200) |[**DuitNow**](/payment-methods/duitnow/)|[`duitnow_myr_hpp`](duitnow_myr_hpp/)| 
 ||| **E** ||
+|![Easypaisa](https://static.openfintech.io/payment_methods/easypaisa/logo.svg?w=400&c=v0.59.26#w200) |[**Easypaisa**](/payment-methods/easypaisa/)|[`easypaisa_pkr_hpp`](easypaisa_pkr_hpp/)| 
 |![EasyPay](https://static.openfintech.io/payment_methods/easypay/logo.png?w=400&c=v0.59.26#w200) |[**EasyPay**](/payment-methods/easypay/)|[`easypay_uah_hpp`](easypay_uah_hpp/)| 
 |![Ecobanq](https://static.openfintech.io/payment_methods/ecobanq/logo.png?w=400&c=v0.59.26#w200) |[**Ecobanq**](/payment-methods/ecobanq/)|[`ecobanq_inr_transfer`](ecobanq_inr_transfer/)| 
 |![Ecopayz](https://static.openfintech.io/payment_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w200) |[**Ecopayz**](/payment-methods/ecopayz/)|[`ecopayz_aud_hpp`](ecopayz_aud_hpp/)| 
@@ -473,6 +474,7 @@
 |![Interkassa](https://static.openfintech.io/payment_methods/interkassa/logo.svg?w=400&c=v0.59.26#w200) |[**Interkassa**](/payment-methods/interkassa/)|[`interkassa_wmz_hpp`](interkassa_wmz_hpp/)| 
 ||| **J** ||
 |![Jammu & Kashmir Bank](https://static.openfintech.io/payment_methods/j_k_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Jammu & Kashmir Bank**](/payment-methods/j_k_bank_india/)|[`j_k_bank_india_inr_hpp`](j_k_bank_india_inr_hpp/)| 
+|![JazzCash](https://static.openfintech.io/payment_methods/jazzcash/logo.svg?w=400&c=v0.59.26#w200) |[**JazzCash**](/payment-methods/jazzcash/)|[`jazzcash_pkr_hpp`](jazzcash_pkr_hpp/)| 
 |![JCB](https://static.openfintech.io/payment_methods/jcb/logo.png?w=400&c=v0.59.26#w200) |[**JCB**](/payment-methods/jcb/)|[`jcb_eur_hpp`](jcb_eur_hpp/)| 
 |![Jeton Wallet](https://static.openfintech.io/payment_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w200) |[**Jeton Wallet**](/payment-methods/jeton_wallet/)|[`jeton_wallet_cad_hpp`](jeton_wallet_cad_hpp/)| 
 |![Jeton Wallet](https://static.openfintech.io/payment_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w200) |[**Jeton Wallet**](/payment-methods/jeton_wallet/)|[`jeton_wallet_eur_hpp`](jeton_wallet_eur_hpp/)| 

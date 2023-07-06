@@ -58,6 +58,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![gcash](https://static.openfintech.io/payment_methods/gcash/icon.png?w=278&c=v0.59.26#w100) |[gcash](/payment-methods/gcash/)|`gcash`| 
 |![maya](https://static.openfintech.io/payment_methods/maya/icon.svg?w=278&c=v0.59.26#w100) |[maya](/payment-methods/maya/)|`maya`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
+|![jazzcash](https://static.openfintech.io/payment_methods/jazzcash/icon.svg?w=278&c=v0.59.26#w100) |[jazzcash](/payment-methods/jazzcash/)|`jazzcash`| 
+|![easypaisa](https://static.openfintech.io/payment_methods/easypaisa/icon.svg?w=278&c=v0.59.26#w100) |[easypaisa](/payment-methods/easypaisa/)|`easypaisa`| 
  
 
 ## Payout Methods 
@@ -144,6 +146,8 @@ The list of supported [Payout Methods](/payout-methods/)
 |![philippines_security_bank](https://static.openfintech.io/payout_methods/philippines_security_bank/icon.svg?w=278&c=v0.59.26#w40) |[philippines_security_bank](payout-methodsphilippines_security_bank/)|`philippines_security_bank`| 
 |![sterling_bank](https://static.openfintech.io/payout_methods/sterling_bank/icon.png?w=278&c=v0.59.26#w40) |[sterling_bank](payout-methodssterling_bank/)|`sterling_bank`| 
 |![union_bank](https://static.openfintech.io/payout_methods/union_bank/icon.svg?w=278&c=v0.59.26#w40) |[union_bank](payout-methodsunion_bank/)|`union_bank`| 
+|![jazzcash](https://static.openfintech.io/payout_methods/jazzcash/icon.png?w=278&c=v0.59.26#w40) |[jazzcash](payout-methodsjazzcash/)|`jazzcash`| 
+|![easypaisa](https://static.openfintech.io/payout_methods/easypaisa/icon.png?w=278&c=v0.59.26#w40) |[easypaisa](payout-methodseasypaisa/)|`easypaisa`| 
  
 
 ## JSON Object 
@@ -174,7 +178,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "coins_ph",
     "gcash",
     "maya",
-    "payment_card"
+    "payment_card",
+    "jazzcash",
+    "easypaisa"
   ],
   "payout_method":[
     "payment_card",
@@ -254,7 +260,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "rcbc",
     "philippines_security_bank",
     "sterling_bank",
-    "union_bank"
+    "union_bank",
+    "jazzcash",
+    "easypaisa"
   ],
   "metadata":null,
   "name":{

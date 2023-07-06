@@ -41,6 +41,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |:---:|:---:|:---:| 
 |![card_transfer_uzcard](https://static.openfintech.io/payment_methods/card_transfer_uzcard/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_uzcard](/payment-methods/card_transfer_uzcard/)|`card_transfer_uzcard`| 
 |![card_transfer_humo](https://static.openfintech.io/payment_methods/card_transfer_humo/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_humo](/payment-methods/card_transfer_humo/)|`card_transfer_humo`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer](/payment-methods/card_transfer/)|`card_transfer`| 
  
 
 ## JSON Object 
@@ -54,7 +55,8 @@ The list of supported [Payment Methods](/payment-methods/)
   "countries":null,
   "payment_method":[
     "card_transfer_uzcard",
-    "card_transfer_humo"
+    "card_transfer_humo",
+    "card_transfer"
   ],
   "payout_method":null,
   "metadata":null,

@@ -1460,6 +1460,7 @@
 |![pay2play](https://static.openfintech.io/vendors/pay2play/logo.svg?w=600&c=v0.59.26#w200) |[**pay2play**](pay2play/)|`pay2play`| 
 |![pay4](https://static.openfintech.io/vendors/pay4/logo.png?w=600&c=v0.59.26#w200) |[**PAY4**](pay4/)|`pay4`| 
 |![pay4bit.biz](https://static.openfintech.io/vendors/pay4bit.biz/logo.svg?w=600&c=v0.59.26#w200) |[**Pay4Bit**](pay4bit.biz/)|`pay4bit.biz`| 
+|![pay4fun](https://static.openfintech.io/vendors/pay4fun/logo.png?w=600&c=v0.59.26#w200) |[**Pay4fun**](pay4fun/)|`pay4fun`| 
 |![payabl](https://static.openfintech.io/vendors/payabl/logo.png?w=600&c=v0.59.26#w200) |[**Payabl.**](payabl/)|`payabl`| 
 |![payanyway](https://static.openfintech.io/vendors/payanyway/logo.png?w=600&c=v0.59.26#w200) |[**PayAnyWay.com**](payanyway/)|`payanyway`| 
 |![payassist](https://static.openfintech.io/vendors/payassist/logo.png?w=600&c=v0.59.26#w200) |[**PayAssist**](payassist/)|`payassist`| 
@@ -1706,6 +1707,7 @@
 || **R** ||
 |![raboomnikassa](https://static.openfintech.io/vendors/raboomnikassa/logo.png?w=600&c=v0.59.26#w200) |[**Rabo OmniKassa**](raboomnikassa/)|`raboomnikassa`| 
 |![radiantpay](https://static.openfintech.io/vendors/radiantpay/logo.png?w=600&c=v0.59.26#w200) |[**RadiantPay**](radiantpay/)|`radiantpay`| 
+|![ragapay](https://static.openfintech.io/vendors/ragapay/logo.png?w=600&c=v0.59.26#w200) |[**Ragapay**](ragapay/)|`ragapay`| 
 |![raiffeisen](https://static.openfintech.io/vendors/raiffeisen/logo.svg?w=600&c=v0.59.26#w200) |[**Raiffeisen**](raiffeisen/)|`raiffeisen`| 
 |![raiffeisenbank](https://static.openfintech.io/vendors/raiffeisenbank/logo.svg?w=600&c=v0.59.26#w200) |[**Raiffeisen Bank**](raiffeisenbank/)|`raiffeisenbank`| 
 |![rakuten_bank](https://static.openfintech.io/vendors/rakuten_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Rakuten Bank**](rakuten_bank/)|`rakuten_bank`| 
