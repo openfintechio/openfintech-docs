@@ -568,6 +568,7 @@
 |![sberbank](https://static.openfintech.io/payment_methods/sberbank/logo.svg?w=400&c=v0.59.26#w200) |[**SberBank**](sberbank/)|`sberbank`| 
 |![sberonline](https://static.openfintech.io/payment_methods/sberonline/logo.svg?w=400&c=v0.59.26#w200) |[**Sberbank Online**](sberonline/)|`sberonline`| 
 |![sbp](https://static.openfintech.io/payment_methods/sbp/logo.svg?w=400&c=v0.59.26#w200) |[**SBP**](sbp/)|`sbp`| 
+|![sbp_qr](https://static.openfintech.io/payment_methods/sbp_qr/logo.svg?w=400&c=v0.59.26#w200) |[**SBP QR**](sbp_qr/)|`sbp_qr`| 
 |![sbp_tome_qr](https://static.openfintech.io/payment_methods/sbp_tome_qr/logo.svg?w=400&c=v0.59.26#w200) |[**SBP Tome QR**](sbp_tome_qr/)|`sbp_tome_qr`| 
 |![scb_bank](https://static.openfintech.io/payment_methods/scb_bank/logo.png?w=400&c=v0.59.26#w200) |[**Sai Gon Joint Stock Commercial Bank**](scb_bank/)|`scb_bank`| 
 |![scbbanknetbanking](https://static.openfintech.io/payment_methods/scbbanknetbanking/logo.png?w=400&c=v0.59.26#w200) |[**SCB netbanking**](scbbanknetbanking/)|`scbbanknetbanking`| 

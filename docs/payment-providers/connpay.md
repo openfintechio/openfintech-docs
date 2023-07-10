@@ -41,6 +41,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![sbp](https://static.openfintech.io/payment_methods/sbp/icon.svg?w=278&c=v0.59.26#w100) |[sbp](/payment-methods/sbp/)|`sbp`| 
+|![sbp_qr](https://static.openfintech.io/payment_methods/sbp_qr/icon.svg?w=278&c=v0.59.26#w100) |[sbp_qr](/payment-methods/sbp_qr/)|`sbp_qr`| 
  
 
 ## Payout Methods 
@@ -63,7 +64,8 @@ The list of supported [Payout Methods](/payout-methods/)
   "countries":null,
   "payment_method":[
     "payment_card",
-    "sbp"
+    "sbp",
+    "sbp_qr"
   ],
   "payout_method":[
     "payment_card"
