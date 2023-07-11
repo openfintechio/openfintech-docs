@@ -33,13 +33,13 @@ https://static.openfintech.io/payment_providers/ragapay/logo.png?w=400&c=v0.59.2
 https://static.openfintech.io/payment_providers/ragapay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Methods 
+## Payment Methods 
  
-The list of supported [Payout Methods](/payout-methods/) 
+The list of supported [Payment Methods](/payment-methods/) 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
  
 
 ## JSON Object 
@@ -51,10 +51,10 @@ The list of supported [Payout Methods](/payout-methods/)
   "vendor":"ragapay",
   "categories":null,
   "countries":null,
-  "payment_method":null,
-  "payout_method":[
+  "payment_method":[
     "payment_card"
   ],
+  "payout_method":null,
   "metadata":null,
   "name":{
     "en":"Ragapay",
