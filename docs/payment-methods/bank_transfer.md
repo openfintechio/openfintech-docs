@@ -47,6 +47,7 @@ The list of [Payment Services](/payment-services/) based on the _Bank Transfer_
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_jpy_hpp](/payment-services/bank_transfer_jpy_hpp/)|`bank_transfer_jpy_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_eur_hpp](/payment-services/bank_transfer_eur_hpp/)|`bank_transfer_eur_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_try_hpp](/payment-services/bank_transfer_try_hpp/)|`bank_transfer_try_hpp`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_uah_hpp](/payment-services/bank_transfer_uah_hpp/)|`bank_transfer_uah_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_aed_hpp](/payment-services/bank_transfer_aed_hpp/)|`bank_transfer_aed_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_mxn_hpp](/payment-services/bank_transfer_mxn_hpp/)|`bank_transfer_mxn_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_aud_hpp](/payment-services/bank_transfer_aud_hpp/)|`bank_transfer_aud_hpp`| 
@@ -81,6 +82,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![poli](https://static.openfintech.io/payment_providers/poli/icon.svg?w=278&c=v0.59.26#w100) |[POLi](/payment-providers/poli/)|`poli`| 
 |![jetonlp](https://static.openfintech.io/payment_providers/jetonlp/icon.png?w=278&c=v0.59.26#w100) |[JetonLP](/payment-providers/jetonlp/)|`jetonlp`| 
 |![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
+|![kvitum](https://static.openfintech.io/payment_providers/kvitum/icon.svg?w=278&c=v0.59.26#w100) |[Kvitum](/payment-providers/kvitum/)|`kvitum`| 
 |![v9pay](https://static.openfintech.io/payment_providers/v9pay/icon.png?w=278&c=v0.59.26#w100) |[V9Pay](/payment-providers/v9pay/)|`v9pay`| 
 |![alycepay](https://static.openfintech.io/payment_providers/alycepay/icon.png?w=278&c=v0.59.26#w100) |[Alycepay](/payment-providers/alycepay/)|`alycepay`| 
 |![copay](https://static.openfintech.io/payment_providers/copay/icon.svg?w=278&c=v0.59.26#w100) |[Copay](/payment-providers/copay/)|`copay`| 

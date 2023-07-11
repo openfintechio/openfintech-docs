@@ -128,6 +128,7 @@
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_thb_hpp`](bank_transfer_thb_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_try_hpp`](bank_transfer_try_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_try_invoice`](bank_transfer_try_invoice/)| 
+|![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_uah_hpp`](bank_transfer_uah_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_usd_hpp`](bank_transfer_usd_hpp/)| 
 |![Bank Transfer VA](https://static.openfintech.io/payment_methods/bank_transfer_va/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer VA**](/payment-methods/bank_transfer_va/)|[`bank_transfer_va_idr_hpp`](bank_transfer_va_idr_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_vnd_hpp`](bank_transfer_vnd_hpp/)| 
@@ -502,6 +503,10 @@
 |![Krung Thai Bank](https://static.openfintech.io/payment_methods/krung_thai_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Krung Thai Bank**](/payment-methods/krung_thai_bank/)|[`krung_thai_bank_thb_hpp`](krung_thai_bank_thb_hpp/)| 
 |![Krungsri (Bank of Ayudhya Public Company Limited)](https://static.openfintech.io/payment_methods/krungsri/logo.png?w=400&c=v0.59.26#w200) |[**Krungsri (Bank of Ayudhya Public Company Limited)**](/payment-methods/krungsri/)|[`krungsri_thb_hpp`](krungsri_thb_hpp/)| 
 |![Krungthai Bank](https://static.openfintech.io/payment_methods/krungthai_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Krungthai Bank**](/payment-methods/krungthai_bank/)|[`krungthai_bank_thb_hpp`](krungthai_bank_thb_hpp/)| 
+|![Kvitum](https://static.openfintech.io/payment_methods/kvitum/logo.svg?w=400&c=v0.59.26#w200) |[**Kvitum**](/payment-methods/kvitum/)|[`kvitum_eur_hpp`](kvitum_eur_hpp/)| 
+|![Kvitum](https://static.openfintech.io/payment_methods/kvitum/logo.svg?w=400&c=v0.59.26#w200) |[**Kvitum**](/payment-methods/kvitum/)|[`kvitum_kzt_hpp`](kvitum_kzt_hpp/)| 
+|![Kvitum](https://static.openfintech.io/payment_methods/kvitum/logo.svg?w=400&c=v0.59.26#w200) |[**Kvitum**](/payment-methods/kvitum/)|[`kvitum_uah_hpp`](kvitum_uah_hpp/)| 
+|![Kvitum](https://static.openfintech.io/payment_methods/kvitum/logo.svg?w=400&c=v0.59.26#w200) |[**Kvitum**](/payment-methods/kvitum/)|[`kvitum_usd_hpp`](kvitum_usd_hpp/)| 
 |![Kwangju Bank](https://static.openfintech.io/payment_methods/kwangju_bank/logo.png?w=400&c=v0.59.26#w200) |[**Kwangju Bank**](/payment-methods/kwangju_bank/)|[`kwangju_bank_krw_hpp`](kwangju_bank_krw_hpp/)| 
 ||| **L** ||
 |![Lakshmi Vilas Bank](https://static.openfintech.io/payment_methods/lakshmi_vilas_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Lakshmi Vilas Bank**](/payment-methods/lakshmi_vilas_bank_india/)|[`lakshmi_vilas_bank_india_inr_hpp`](lakshmi_vilas_bank_india_inr_hpp/)| 

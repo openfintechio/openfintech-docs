@@ -5,6 +5,8 @@
 ## General 
 **Code:** `kvitum` 
  
+**Vendor:** `kvitum` [show -->](/vendors/kvitum/) 
+ 
 **Name:** 
  
 :	[EN] Kvitum 
@@ -30,16 +32,16 @@ https://static.openfintech.io/payment_methods/kvitum/logo.svg?w=400&c=v0.59.26#w
 https://static.openfintech.io/payment_methods/kvitum/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _Kvitum_ 
+The list of [Payment Services](/payment-services/) based on the _Kvitum_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kvitum](https://static.openfintech.io/payout_methods/kvitum/icon.svg?w=278&c=v0.59.26#w40) |[kvitum_usd](/payout-services/kvitum_usd/)|`kvitum_usd`| 
-|![kvitum](https://static.openfintech.io/payout_methods/kvitum/icon.svg?w=278&c=v0.59.26#w40) |[kvitum_eur](/payout-services/kvitum_eur/)|`kvitum_eur`| 
-|![kvitum](https://static.openfintech.io/payout_methods/kvitum/icon.svg?w=278&c=v0.59.26#w40) |[kvitum_uah](/payout-services/kvitum_uah/)|`kvitum_uah`| 
-|![kvitum](https://static.openfintech.io/payout_methods/kvitum/icon.svg?w=278&c=v0.59.26#w40) |[kvitum_kzt](/payout-services/kvitum_kzt/)|`kvitum_kzt`| 
+|![kvitum](https://static.openfintech.io/payment_methods/kvitum/icon.svg?w=278&c=v0.59.26#w100) |[kvitum_eur_hpp](/payment-services/kvitum_eur_hpp/)|`kvitum_eur_hpp`| 
+|![kvitum](https://static.openfintech.io/payment_methods/kvitum/icon.svg?w=278&c=v0.59.26#w100) |[kvitum_usd_hpp](/payment-services/kvitum_usd_hpp/)|`kvitum_usd_hpp`| 
+|![kvitum](https://static.openfintech.io/payment_methods/kvitum/icon.svg?w=278&c=v0.59.26#w100) |[kvitum_uah_hpp](/payment-services/kvitum_uah_hpp/)|`kvitum_uah_hpp`| 
+|![kvitum](https://static.openfintech.io/payment_methods/kvitum/icon.svg?w=278&c=v0.59.26#w100) |[kvitum_kzt_hpp](/payment-services/kvitum_kzt_hpp/)|`kvitum_kzt_hpp`| 
  
 
 ## Payment Providers 
@@ -56,7 +58,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Kvitum_
 ```json
 {
   "code":"kvitum",
-  "vendor":null,
+  "vendor":"kvitum",
   "name":{
     "en":"Kvitum",
     "ru":"Kvitum",
