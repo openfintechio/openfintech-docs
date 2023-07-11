@@ -2853,6 +2853,7 @@
 || **V** ||
 |![v-lan](https://static.openfintech.io/payout_methods/v-lan/logo.png?w=400&c=v0.59.26#w24) |[**V-Lan**](v-lan/)|`v-lan`| 
 |![va_mandiri](https://static.openfintech.io/payout_methods/va_mandiri/logo.svg?w=400&c=v0.59.26#w24) |[**Mandiri Virtual Account**](va_mandiri/)|`va_mandiri`| 
+|![va_may_bank](https://static.openfintech.io/payout_methods/va_may_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Maybank VA**](va_may_bank/)|`va_may_bank`| 
 |![valkovskii-rem-ak-kharkivoblenergo](https://static.openfintech.io/payout_methods/valkovskii-rem-ak-kharkivoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Valkovsky RES AK 'Kharkivoblenergo'**](valkovskii-rem-ak-kharkivoblenergo/)|`valkovskii-rem-ak-kharkivoblenergo`| 
 |![valkovskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018](https://static.openfintech.io/payout_methods/valkovskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Валковський РЕМ АК "Харківобленерго" (за послуги до 31.12.2018)**](valkovskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|`valkovskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018`| 
 |![varvary](https://static.openfintech.io/payout_methods/varvary/logo.png?w=400&c=v0.59.26#w24) |[**Barbarians**](varvary/)|`varvary`| 

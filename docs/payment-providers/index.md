@@ -556,6 +556,7 @@
 |![payes](https://static.openfintech.io/payment_providers/payes/logo.png?w=600&c=v0.59.26#w100) |[**Payes**](payes/)|`payes`| 
 |![payex](https://static.openfintech.io/payment_providers/payex/logo.png?w=600&c=v0.59.26#w100) |[**PayEx**](payex/)|`payex`| 
 |![payfast](https://static.openfintech.io/payment_providers/payfast/logo.png?w=600&c=v0.59.26#w100) |[**PayFast**](payfast/)|`payfast`| 
+|![payforia](https://static.openfintech.io/payment_providers/payforia/logo.svg?w=600&c=v0.59.26#w100) |[**Payforia**](payforia/)|`payforia`| 
 |![payfort](https://static.openfintech.io/payment_providers/payfort/logo.png?w=600&c=v0.59.26#w100) |[**PayFort**](payfort/)|`payfort`| 
 |![payfuture](https://static.openfintech.io/payment_providers/payfuture/logo.svg?w=600&c=v0.59.26#w100) |[**Payfuture**](payfuture/)|`payfuture`| 
 |![paygames](https://static.openfintech.io/payment_providers/paygames/logo.png?w=600&c=v0.59.26#w100) |[**PayGames**](paygames/)|`paygames`| 
@@ -871,6 +872,7 @@
 |![walpay](https://static.openfintech.io/payment_providers/walpay/logo.png?w=600&c=v0.59.26#w100) |[**WalPay**](walpay/)|`walpay`| 
 |![wayforpay](https://static.openfintech.io/payment_providers/wayforpay/logo.png?w=600&c=v0.59.26#w100) |[**Wayforpay**](wayforpay/)|`wayforpay`| 
 |![wbpayment](https://static.openfintech.io/payment_providers/wbpayment/logo.svg?w=600&c=v0.59.26#w100) |[**WB Payment**](wbpayment/)|`wbpayment`| 
+|![wealthpay](https://static.openfintech.io/payment_providers/wealthpay/logo.png?w=600&c=v0.59.26#w100) |[**WealthPay**](wealthpay/)|`wealthpay`| 
 |![webbilling](https://static.openfintech.io/payment_providers/webbilling/logo.png?w=600&c=v0.59.26#w100) |[**Webbilling.com**](webbilling/)|`webbilling`| 
 |![webinc](https://static.openfintech.io/payment_providers/webinc/logo.png?w=600&c=v0.59.26#w100) |[**WEBINC**](webinc/)|`webinc`| 
 |![webmoney](https://static.openfintech.io/payment_providers/webmoney/logo.svg?w=600&c=v0.59.26#w100) |[**WebMoney**](webmoney/)|`webmoney`| 

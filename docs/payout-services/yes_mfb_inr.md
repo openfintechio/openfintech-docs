@@ -1,20 +1,18 @@
 
-# Punjab National Bank (service) 
-![punjab_national_bank_inr](https://static.openfintech.io/payout_methods/punjab_national_bank_inr/logo.svg?w=400&c=v0.59.26#w24)  
+# Yes MFB (service) 
+![yes_mfb_inr](https://static.openfintech.io/payout_methods/yes_mfb_inr/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
  
-**Code:** `punjab_national_bank_inr` 
+**Code:** `yes_mfb_inr` 
  
-**Method:** `punjab_national_bank` [show -->](/payout-methods/punjab_national_bank/) 
+**Method:** `yes_mfb` [show -->](/payout-methods/yes_mfb/) 
  
 **Currency:** `INR` [show -->](/currencies/INR/) 
  
 **Name:** 
  
-:	[EN] Punjab National Bank 
-:	[RU] Punjab National Bank 
-:	[UK] Punjab National Bank 
+:	[EN] Yes MFB 
  
 **Amount limits:** from `0.01` to `8300000` INR 
 
@@ -109,8 +107,8 @@
 
 ```json
 {
-  "code":"punjab_national_bank_inr",
-  "method":"punjab_national_bank",
+  "code":"yes_mfb_inr",
+  "method":"yes_mfb",
   "currency":"INR",
   "fields":[
     {

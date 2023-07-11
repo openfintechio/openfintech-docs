@@ -24,9 +24,9 @@
 |:---:|:---:|:---:|:---:| 
 |`bank_branch`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`customer_name`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
-|`bank_account_name`|✔|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
-|`bank_account_number`|✔|`string`|`/^[0-9]{5,100}$/`| 
-|`province`|✔|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
+|`bank_account_name`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
+|`bank_account_number`|✗|`string`|`/^[0-9]{5,100}$/`| 
+|`province`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`city`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`full_address`|✗|`string`|`/^[A-Za-z{*}, -d]{2,64}$/`| 
 |`bank_id`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
@@ -76,7 +76,7 @@
  
 	Regexp: `/^[A-Za-z,0-9]{2,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Bank Account Name 
@@ -94,7 +94,7 @@
  
 	Regexp: `/^[0-9]{5,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Bank Account Number 
@@ -112,7 +112,7 @@
  
 	Regexp: `/^[A-Za-z,0-9]{2,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Province 
@@ -236,7 +236,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Bank Account Name"
       },
       "regexp":"\/^[A-Za-z,0-9]{2,100}$\/",
-      "required":true,
+      "required":false,
       "position":3
     },
     {
@@ -253,7 +253,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Bank Account Number"
       },
       "regexp":"\/^[0-9]{5,100}$\/",
-      "required":true,
+      "required":false,
       "position":4
     },
     {
@@ -270,7 +270,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044e"
       },
       "regexp":"\/^[A-Za-z,0-9]{2,100}$\/",
-      "required":true,
+      "required":false,
       "position":5
     },
     {

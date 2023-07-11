@@ -481,6 +481,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![btgate](https://static.openfintech.io/payment_providers/btgate/icon.png?w=278&c=v0.59.26#w100) |[btGate](/payment-providers/btgate/)|`btgate`| 
 |![vppay](https://static.openfintech.io/payment_providers/vppay/icon.svg?w=278&c=v0.59.26#w100) |[VPPay](/payment-providers/vppay/)|`vppay`| 
 |![paypugs](https://static.openfintech.io/payment_providers/paypugs/icon.png?w=278&c=v0.59.26#w100) |[PayPugs](/payment-providers/paypugs/)|`paypugs`| 
+|![payforia](https://static.openfintech.io/payment_providers/payforia/icon.svg?w=278&c=v0.59.26#w100) |[Payforia](/payment-providers/payforia/)|`payforia`| 
  
 
 ## JSON Object 

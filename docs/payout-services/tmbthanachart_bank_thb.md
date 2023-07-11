@@ -30,7 +30,6 @@
 |`province`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`city`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`full_address`|✗|`string`|`/^[A-Za-z{*}, -d]{2,64}$/`| 
-|`full_address`|✗|`string`|`/^[A-Za-z{*}, -d]{2,64}$/`| 
 |`customer_name`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`bank_id`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
  
@@ -181,25 +180,7 @@
 	: [RU] Введите адрес 
 	: [UK] Введіть адресу 
  
-9. **`full_address`** 
- 
-	Type: `string` 
- 
-	Regexp: `/^[A-Za-z{*}, -d]{2,64}$/` 
- 
-	Required: `` 
- 
-	Label:  
-	: [EN] Address 
-	: [RU] Address 
-	: [UK] Address 
- 
-	Hint:  
-	: [EN] Enter address 
-	: [RU] Введите адрес 
-	: [UK] Введіть адресу 
- 
-10. **`customer_name`** 
+9. **`customer_name`** 
  
 	Type: `string` 
  
@@ -217,7 +198,7 @@
 	: [RU] Введите имя покупателя 
 	: [UK] Введіть ім'я клієнта 
  
-11. **`bank_id`** 
+10. **`bank_id`** 
  
 	Type: `string` 
  
@@ -382,23 +363,6 @@
       "regexp":"\/^[A-Za-z{*}, -d]{2,64}$\/",
       "required":false,
       "position":8
-    },
-    {
-      "key":"full_address",
-      "type":"string",
-      "label":{
-        "en":"Address",
-        "ru":"Address",
-        "uk":"Address"
-      },
-      "hint":{
-        "en":"Enter address",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0430\u0434\u0440\u0435\u0441",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0430\u0434\u0440\u0435\u0441\u0443"
-      },
-      "regexp":"\/^[A-Za-z{*}, -d]{2,64}$\/",
-      "required":false,
-      "position":9
     },
     {
       "key":"customer_name",

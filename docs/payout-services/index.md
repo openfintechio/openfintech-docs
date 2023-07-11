@@ -2961,6 +2961,7 @@
 |![Yandex.Money](https://static.openfintech.io/payout_methods/yandexmoney/logo.svg?w=400&c=v0.59.26#w24) |[**Yandex.Money**](/payout-methods/yandexmoney/)|[`yandexmoney_rub`](yandexmoney_rub/)|`RUB`| 
 |![YAODU RURAL CREDIT UNION](https://static.openfintech.io/payout_methods/yaodu_rural_credit_union/logo.svg?w=400&c=v0.59.26#w24) |[**YAODU RURAL CREDIT UNION**](/payout-methods/yaodu_rural_credit_union/)|[`yaodu_rural_credit_union_cny`](yaodu_rural_credit_union_cny/)|`CNY`| 
 |![Yes Bank](https://static.openfintech.io/payout_methods/yes_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Yes Bank**](/payout-methods/yes_bank/)|[`yes_bank_inr`](yes_bank_inr/)|`INR`| 
+|![Yes MFB](https://static.openfintech.io/payout_methods/yes_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Yes MFB**](/payout-methods/yes_mfb/)|[`yes_mfb_inr`](yes_mfb_inr/)|`INR`| 
 |![Yes MFB](https://static.openfintech.io/payout_methods/yes_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Yes MFB**](/payout-methods/yes_mfb/)|[`yes_mfb_ngn`](yes_mfb_ngn/)|`NGN`| 
 |![Yezzz!](https://static.openfintech.io/payout_methods/yezzz/logo.png?w=400&c=v0.59.26#w24) |[**Yezzz!**](/payout-methods/yezzz/)|[`yezzz_uah`](yezzz_uah/)|`UAH`| 
 |![Yokohama Bank](https://static.openfintech.io/payout_methods/yokohama_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Yokohama Bank**](/payout-methods/yokohama_bank/)|[`yokohama_bank_jpy`](yokohama_bank_jpy/)|`JPY`| 
