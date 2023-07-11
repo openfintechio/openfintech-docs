@@ -149,7 +149,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![hipay](https://static.openfintech.io/payment_providers/hipay/icon.png?w=278&c=v0.59.26#w100) |[HiPay](/payment-providers/hipay/)|`hipay`| 
 |![4cash](https://static.openfintech.io/payment_providers/4cash/icon.png?w=278&c=v0.59.26#w100) |[4Cash](/payment-providers/4cash/)|`4cash`| 
 |![gingerpayments](https://static.openfintech.io/payment_providers/gingerpayments/icon.png?w=278&c=v0.59.26#w100) |[Ginger Payments](/payment-providers/gingerpayments/)|`gingerpayments`| 
-|![cardpay](https://static.openfintech.io/payment_providers/cardpay/icon.svg?w=278&c=v0.59.26#w100) |[Unlimint](/payment-providers/cardpay/)|`cardpay`| 
+|![cardpay](https://static.openfintech.io/payment_providers/cardpay/icon.svg?w=278&c=v0.59.26#w100) |[Unlimit](/payment-providers/cardpay/)|`cardpay`| 
 |![portmone](https://static.openfintech.io/payment_providers/portmone/icon.svg?w=278&c=v0.59.26#w100) |[Portmone.com](/payment-providers/portmone/)|`portmone`| 
 |![oonex](https://static.openfintech.io/payment_providers/oonex/icon.png?w=278&c=v0.59.26#w100) |[Oonex](/payment-providers/oonex/)|`oonex`| 
 |![cardinity](https://static.openfintech.io/payment_providers/cardinity/icon.png?w=278&c=v0.59.26#w100) |[Cardinity](/payment-providers/cardinity/)|`cardinity`| 

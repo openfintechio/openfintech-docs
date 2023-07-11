@@ -388,7 +388,7 @@
 |![cardgateplus](https://static.openfintech.io/vendors/cardgateplus/logo.png?w=600&c=v0.59.26#w200) |[**CardGate**](cardgateplus/)|`cardgateplus`| 
 |![cardinalcommerce](https://static.openfintech.io/vendors/cardinalcommerce/logo.png?w=600&c=v0.59.26#w200) |[**CardinalCommerce**](cardinalcommerce/)|`cardinalcommerce`| 
 |![cardinity](https://static.openfintech.io/vendors/cardinity/logo.png?w=600&c=v0.59.26#w200) |[**Cardinity**](cardinity/)|`cardinity`| 
-|![cardpay](https://static.openfintech.io/vendors/cardpay/logo.svg?w=600&c=v0.59.26#w200) |[**Unlimint**](cardpay/)|`cardpay`| 
+|![cardpay](https://static.openfintech.io/vendors/cardpay/logo.svg?w=600&c=v0.59.26#w200) |[**Unlimit**](cardpay/)|`cardpay`| 
 |![cards2cards](https://static.openfintech.io/vendors/cards2cards/logo.png?w=600&c=v0.59.26#w200) |[**cards2cards**](cards2cards/)|`cards2cards`| 
 |![cardsave](https://static.openfintech.io/vendors/cardsave/logo.png?w=600&c=v0.59.26#w200) |[**Cardsave**](cardsave/)|`cardsave`| 
 |![cardstreamlimited](https://static.openfintech.io/vendors/cardstreamlimited/logo.png?w=600&c=v0.59.26#w200) |[**Cardstream**](cardstreamlimited/)|`cardstreamlimited`| 

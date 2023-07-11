@@ -1,5 +1,5 @@
 
-# Unlimint 
+# Unlimit 
 ![cardpay](https://static.openfintech.io/payment_providers/cardpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,7 +10,7 @@
  
 **Name:** 
  
-:	[EN] Unlimint 
+:	[EN] Unlimit 
  
 **Description:** 
  
@@ -86,7 +86,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "about_payments_code":"cardpay"
   },
   "name":{
-    "en":"Unlimint"
+    "en":"Unlimit"
   }
 }
 ```  

@@ -76,7 +76,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Neteller_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![cardpay](https://static.openfintech.io/payment_providers/cardpay/icon.svg?w=278&c=v0.59.26#w100) |[Unlimint](/payment-providers/cardpay/)|`cardpay`| 
+|![cardpay](https://static.openfintech.io/payment_providers/cardpay/icon.svg?w=278&c=v0.59.26#w100) |[Unlimit](/payment-providers/cardpay/)|`cardpay`| 
 |![skrill](https://static.openfintech.io/payment_providers/skrill/icon.svg?w=278&c=v0.59.26#w100) |[Skrill](/payment-providers/skrill/)|`skrill`| 
 |![intelligentpayments](https://static.openfintech.io/payment_providers/intelligentpayments/icon.png?w=278&c=v0.59.26#w100) |[Intelligent Payments](/payment-providers/intelligentpayments/)|`intelligentpayments`| 
 |![aretosystems](https://static.openfintech.io/payment_providers/aretosystems/icon.png?w=278&c=v0.59.26#w100) |[Areto Systems](/payment-providers/aretosystems/)|`aretosystems`| 

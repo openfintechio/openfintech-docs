@@ -136,7 +136,7 @@
 |![cardgateplus](https://static.openfintech.io/payment_providers/cardgateplus/logo.png?w=600&c=v0.59.26#w100) |[**CardGate**](cardgateplus/)|`cardgateplus`| 
 |![cardinalcommerce](https://static.openfintech.io/payment_providers/cardinalcommerce/logo.svg?w=600&c=v0.59.26#w100) |[**CardinalCommerce**](cardinalcommerce/)|`cardinalcommerce`| 
 |![cardinity](https://static.openfintech.io/payment_providers/cardinity/logo.png?w=600&c=v0.59.26#w100) |[**Cardinity**](cardinity/)|`cardinity`| 
-|![cardpay](https://static.openfintech.io/payment_providers/cardpay/logo.svg?w=600&c=v0.59.26#w100) |[**Unlimint**](cardpay/)|`cardpay`| 
+|![cardpay](https://static.openfintech.io/payment_providers/cardpay/logo.svg?w=600&c=v0.59.26#w100) |[**Unlimit**](cardpay/)|`cardpay`| 
 |![cards2cards](https://static.openfintech.io/payment_providers/cards2cards/logo.png?w=600&c=v0.59.26#w100) |[**cards2cards**](cards2cards/)|`cards2cards`| 
 |![cardsave](https://static.openfintech.io/payment_providers/cardsave/logo.svg?w=600&c=v0.59.26#w100) |[**Cardsave**](cardsave/)|`cardsave`| 
 |![cardstreamlimited](https://static.openfintech.io/payment_providers/cardstreamlimited/logo.png?w=600&c=v0.59.26#w100) |[**Cardstream**](cardstreamlimited/)|`cardstreamlimited`| 

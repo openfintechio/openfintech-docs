@@ -1,5 +1,5 @@
 
-# Unlimint 
+# Unlimit 
 ![cardpay](https://static.openfintech.io/vendors/cardpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,13 +8,13 @@
  
 **Name:** 
  
-:	[EN] Unlimint 
+:	[EN] Unlimit 
  
 **Status:** `active` 
  
 **Description:** 
  
-: [EN]  Unlimint not only provides card processing, it offers thousands of alternative payment methods. All of these are to make sure that you’ll be able to serve your customers anywhere in the world, even where plastic cards aren’t widespread.  
+: [EN]  Unlimit not only provides card processing, it offers thousands of alternative payment methods. All of these are to make sure that you’ll be able to serve your customers anywhere in the world, even where plastic cards aren’t widespread.  
  
 **Contacts:** 
 email: p.dalziel@cardpay.comphone: 00357 977 18986**Address:** 
@@ -44,11 +44,11 @@ https://static.openfintech.io/vendors/cardpay/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"cardpay",
   "name":{
-    "en":"Unlimint"
+    "en":"Unlimit"
   },
   "status":"active",
   "description":{
-    "en":" Unlimint not only provides card processing, it offers thousands of alternative payment methods. All of these are to make sure that you\u2019ll be able to serve your customers anywhere in the world, even where plastic cards aren\u2019t widespread. "
+    "en":" Unlimit not only provides card processing, it offers thousands of alternative payment methods. All of these are to make sure that you\u2019ll be able to serve your customers anywhere in the world, even where plastic cards aren\u2019t widespread. "
   },
   "links":null,
   "countries":null,
