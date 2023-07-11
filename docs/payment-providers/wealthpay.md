@@ -63,7 +63,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![state_bank_of_india](https://static.openfintech.io/payout_methods/state_bank_of_india/icon.svg?w=278&c=v0.59.26#w40) |[state_bank_of_india](payout-methodsstate_bank_of_india/)|`state_bank_of_india`| 
 |![bank_of_baroda](https://static.openfintech.io/payout_methods/bank_of_baroda/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_baroda](payout-methodsbank_of_baroda/)|`bank_of_baroda`| 
 |![punjab_national_bank](https://static.openfintech.io/payout_methods/punjab_national_bank/icon.svg?w=278&c=v0.59.26#w40) |[punjab_national_bank](payout-methodspunjab_national_bank/)|`punjab_national_bank`| 
-|![yes_mfb](https://static.openfintech.io/payout_methods/yes_mfb/icon.svg?w=278&c=v0.59.26#w40) |[yes_mfb](payout-methodsyes_mfb/)|`yes_mfb`| 
+|![yes_bank](https://static.openfintech.io/payout_methods/yes_bank/icon.svg?w=278&c=v0.59.26#w40) |[yes_bank](payout-methodsyes_bank/)|`yes_bank`| 
 |![bank_of_india](https://static.openfintech.io/payout_methods/bank_of_india/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_india](payout-methodsbank_of_india/)|`bank_of_india`| 
 |![kotak_mahindra_bank](https://static.openfintech.io/payout_methods/kotak_mahindra_bank/icon.svg?w=278&c=v0.59.26#w40) |[kotak_mahindra_bank](payout-methodskotak_mahindra_bank/)|`kotak_mahindra_bank`| 
 |![idfc_bank_india](https://static.openfintech.io/payout_methods/idfc_bank_india/icon.svg?w=278&c=v0.59.26#w40) |[idfc_bank_india](payout-methodsidfc_bank_india/)|`idfc_bank_india`| 
@@ -104,7 +104,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "state_bank_of_india",
     "bank_of_baroda",
     "punjab_national_bank",
-    "yes_mfb",
+    "yes_bank",
     "bank_of_india",
     "kotak_mahindra_bank",
     "idfc_bank_india"
