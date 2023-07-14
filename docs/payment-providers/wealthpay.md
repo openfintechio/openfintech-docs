@@ -33,6 +33,20 @@ https://static.openfintech.io/payment_providers/wealthpay/logo.png?w=400&c=v0.59
 https://static.openfintech.io/payment_providers/wealthpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Methods 
+ 
+The list of supported [Payment Methods](/payment-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![online_banking](https://static.openfintech.io/payment_methods/online_banking/icon.svg?w=278&c=v0.59.26#w100) |[online_banking](/payment-methods/online_banking/)|`online_banking`| 
+|![truemoney](https://static.openfintech.io/payment_methods/truemoney/icon.png?w=278&c=v0.59.26#w100) |[truemoney](/payment-methods/truemoney/)|`truemoney`| 
+|![promptpay](https://static.openfintech.io/payment_methods/promptpay/icon.svg?w=278&c=v0.59.26#w100) |[promptpay](/payment-methods/promptpay/)|`promptpay`| 
+|![vnpay_qr](https://static.openfintech.io/payment_methods/vnpay_qr/icon.png?w=278&c=v0.59.26#w100) |[vnpay_qr](/payment-methods/vnpay_qr/)|`vnpay_qr`| 
+|![momopay](https://static.openfintech.io/payment_methods/momopay/icon.png?w=278&c=v0.59.26#w100) |[momopay](/payment-methods/momopay/)|`momopay`| 
+|![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi](/payment-methods/upi/)|`upi`| 
+ 
+
 ## Payout Methods 
  
 The list of supported [Payout Methods](/payout-methods/) 
@@ -78,7 +92,14 @@ The list of supported [Payout Methods](/payout-methods/)
   "vendor":"wealthpay",
   "categories":null,
   "countries":null,
-  "payment_method":null,
+  "payment_method":[
+    "online_banking",
+    "truemoney",
+    "promptpay",
+    "vnpay_qr",
+    "momopay",
+    "upi"
+  ],
   "payout_method":[
     "krungsri",
     "bangko_bank",

@@ -60,6 +60,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![jazzcash](https://static.openfintech.io/payment_methods/jazzcash/icon.svg?w=278&c=v0.59.26#w100) |[jazzcash](/payment-methods/jazzcash/)|`jazzcash`| 
 |![easypaisa](https://static.openfintech.io/payment_methods/easypaisa/icon.svg?w=278&c=v0.59.26#w100) |[easypaisa](/payment-methods/easypaisa/)|`easypaisa`| 
+|![philippines_va](https://static.openfintech.io/payment_methods/philippines_va/icon.svg?w=278&c=v0.59.26#w100) |[philippines_va](/payment-methods/philippines_va/)|`philippines_va`| 
  
 
 ## Payout Methods 
@@ -180,7 +181,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "maya",
     "payment_card",
     "jazzcash",
-    "easypaisa"
+    "easypaisa",
+    "philippines_va"
   ],
   "payout_method":[
     "payment_card",

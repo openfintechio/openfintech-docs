@@ -1290,6 +1290,7 @@
 |![onlineips](https://static.openfintech.io/vendors/onlineips/logo.png?w=600&c=v0.59.26#w200) |[**Online IPS**](onlineips/)|`onlineips`| 
 |![onlinenaira](https://static.openfintech.io/vendors/onlinenaira/logo.png?w=600&c=v0.59.26#w200) |[**OnlineNaira**](onlinenaira/)|`onlinenaira`| 
 |![onlymoney](https://static.openfintech.io/vendors/onlymoney/logo.svg?w=600&c=v0.59.26#w200) |[**OnlyMoney**](onlymoney/)|`onlymoney`| 
+|![onlypay](https://static.openfintech.io/vendors/onlypay/logo.svg?w=600&c=v0.59.26#w200) |[**Onlypay**](onlypay/)|`onlypay`| 
 |![onpex](https://static.openfintech.io/vendors/onpex/logo.png?w=600&c=v0.59.26#w200) |[**ONPEX**](onpex/)|`onpex`| 
 |![oodatrajffajzen_bank_avalm_odesa](https://static.openfintech.io/vendors/oodatrajffajzen_bank_avalm_odesa/logo.svg?w=600&c=v0.59.26#w200) |[**Одеська обласна дирекція Публічного акціонерного товариства 'Райффайзен Банк Аваль'**](oodatrajffajzen_bank_avalm_odesa/)|`oodatrajffajzen_bank_avalm_odesa`| 
 |![oonex](https://static.openfintech.io/vendors/oonex/logo.png?w=600&c=v0.59.26#w200) |[**Oonex**](oonex/)|`oonex`| 
@@ -1583,6 +1584,7 @@
 |![paytabs](https://static.openfintech.io/vendors/paytabs/logo.png?w=600&c=v0.59.26#w200) |[**PayTabs**](paytabs/)|`paytabs`| 
 |![paytiencecc](https://static.openfintech.io/vendors/paytiencecc/logo.png?w=600&c=v0.59.26#w200) |[**Paytience.cc**](paytiencecc/)|`paytiencecc`| 
 |![paytochina](https://static.openfintech.io/vendors/paytochina/logo.svg?w=600&c=v0.59.26#w200) |[**PayToChina.com**](paytochina/)|`paytochina`| 
+|![paytocrypt](https://static.openfintech.io/vendors/paytocrypt/logo.png?w=600&c=v0.59.26#w200) |[**Paytocrypt**](paytocrypt/)|`paytocrypt`| 
 |![paytonegate](https://static.openfintech.io/vendors/paytonegate/logo.svg?w=600&c=v0.59.26#w200) |[**PaytoneGate**](paytonegate/)|`paytonegate`| 
 |![paytoneio](https://static.openfintech.io/vendors/paytoneio/logo.svg?w=600&c=v0.59.26#w200) |[**Paytone.io**](paytoneio/)|`paytoneio`| 
 |![paytpv](https://static.openfintech.io/vendors/paytpv/logo.png?w=600&c=v0.59.26#w200) |[**PAYTPV**](paytpv/)|`paytpv`| 

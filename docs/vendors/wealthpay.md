@@ -14,6 +14,9 @@
  
 **Status:** `active` 
  
+**Links:** 
+: website [https://wealthpay.net/](https://wealthpay.net/) 
+ 
 
 ## Images 
 
@@ -45,7 +48,9 @@ https://static.openfintech.io/vendors/wealthpay/icon.png?w=278&c=v0.59.26#w100
   },
   "status":"active",
   "description":null,
-  "links":null,
+  "links":{
+    "website":"https:\/\/wealthpay.net\/"
+  },
   "countries":null,
   "contacts":null,
   "address":null,

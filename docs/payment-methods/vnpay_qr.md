@@ -46,6 +46,7 @@ The list of [Payment Providers](/payment-providers/) that support the _VNPAY QR_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![ubankconnect](https://static.openfintech.io/payment_providers/ubankconnect/icon.svg?w=278&c=v0.59.26#w100) |[UBank Connect](/payment-providers/ubankconnect/)|`ubankconnect`| 
+|![wealthpay](https://static.openfintech.io/payment_providers/wealthpay/icon.png?w=278&c=v0.59.26#w100) |[WealthPay](/payment-providers/wealthpay/)|`wealthpay`| 
  
 
 ## JSON Object 

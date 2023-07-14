@@ -786,6 +786,7 @@
 |![Permata Bank](https://static.openfintech.io/payment_methods/permata_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Permata Bank**](/payment-methods/permata_bank/)|[`permata_bank_cny_hpp`](permata_bank_cny_hpp/)| 
 |![Permata Bank](https://static.openfintech.io/payment_methods/permata_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Permata Bank**](/payment-methods/permata_bank/)|[`permata_bank_idr_hpp`](permata_bank_idr_hpp/)| 
 |![Petrolimex Group Commercial Joint Stock Bank](https://static.openfintech.io/payment_methods/petrolimex_bank/logo.png?w=400&c=v0.59.26#w200) |[**Petrolimex Group Commercial Joint Stock Bank**](/payment-methods/petrolimex_bank/)|[`petrolimex_bank_vnd_hpp`](petrolimex_bank_vnd_hpp/)| 
+|![Philippines Virtual Accounts](https://static.openfintech.io/payment_methods/philippines_va/logo.svg?w=400&c=v0.59.26#w200) |[**Philippines Virtual Accounts**](/payment-methods/philippines_va/)|[`philippines_va_php_hpp`](philippines_va_php_hpp/)| 
 |![Phonepe Wallet](https://static.openfintech.io/payment_methods/phonepe/logo.svg?w=400&c=v0.59.26#w200) |[**Phonepe Wallet**](/payment-methods/phonepe/)|[`phonepe_inr_hpp`](phonepe_inr_hpp/)| 
 |![Phonepe Wallet](https://static.openfintech.io/payment_methods/phonepe/logo.svg?w=400&c=v0.59.26#w200) |[**Phonepe Wallet**](/payment-methods/phonepe/)|[`phonepe_inr_invoice`](phonepe_inr_invoice/)| 
 |![Piastrix](https://static.openfintech.io/payment_methods/piastrix/logo.svg?w=400&c=v0.59.26#w200) |[**Piastrix**](/payment-methods/piastrix/)|[`piastrix_eur_hpp`](piastrix_eur_hpp/)| 

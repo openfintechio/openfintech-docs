@@ -496,6 +496,7 @@
 |![perfectmoney_voucher](https://static.openfintech.io/payment_methods/perfectmoney_voucher/logo.png?w=400&c=v0.59.26#w200) |[**Perfect Money Voucher**](perfectmoney_voucher/)|`perfectmoney_voucher`| 
 |![permata_bank](https://static.openfintech.io/payment_methods/permata_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Permata Bank**](permata_bank/)|`permata_bank`| 
 |![petrolimex_bank](https://static.openfintech.io/payment_methods/petrolimex_bank/logo.png?w=400&c=v0.59.26#w200) |[**Petrolimex Group Commercial Joint Stock Bank**](petrolimex_bank/)|`petrolimex_bank`| 
+|![philippines_va](https://static.openfintech.io/payment_methods/philippines_va/logo.svg?w=400&c=v0.59.26#w200) |[**Philippines Virtual Accounts**](philippines_va/)|`philippines_va`| 
 |![phonepe](https://static.openfintech.io/payment_methods/phonepe/logo.svg?w=400&c=v0.59.26#w200) |[**Phonepe Wallet**](phonepe/)|`phonepe`| 
 |![piastrix](https://static.openfintech.io/payment_methods/piastrix/logo.svg?w=400&c=v0.59.26#w200) |[**Piastrix**](piastrix/)|`piastrix`| 
 |![picksell](https://static.openfintech.io/payment_methods/picksell/logo.png?w=400&c=v0.59.26#w200) |[**Picksell Wallet**](picksell/)|`picksell`| 
