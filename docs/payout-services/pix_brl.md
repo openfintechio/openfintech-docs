@@ -26,6 +26,8 @@
 |:---:|:---:|:---:|:---:| 
 |`cpf_number`|✗|`string`|`/^[0-9\.\-]{1,14}$/`| 
 |`beneficiary_phone`|✗|`string`|`/^\+\d{10,14}$/`| 
+|`beneficiary_phone_country_code`|✗|`string`|`/^\+\d{1,3}$/`| 
+|`beneficiary_phone_area_code`|✗|`string`|`/^\d{1,5}$/`| 
 |`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
 |`beneficiary_name`|✗|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
 |`beneficiary_lastname`|✗|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
@@ -39,6 +41,7 @@
 |`document_type`|✗|`string`|`/^(CPF\|CNPJ)$/`| 
 |`document_id`|✗|`string`|`/^[0-9]{1,100}$/`| 
 |`account_type`|✗|`string`|`/^(CPF\|CNPJ\|EVP\|PHONE\|EMAIL)$/`| 
+|`bank_account_type`|✗|`string`|`/^(saving\|personal)$/`| 
  
 
 ### Details 
@@ -79,7 +82,43 @@
 	: [RU] Введите номер телефона 
 	: [UK] Введіть номер телефону 
  
-3. **`beneficiary_email`** 
+3. **`beneficiary_phone_country_code`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^\+\d{1,3}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Phone country code 
+	: [RU] Телефонный код страны 
+	: [UK] Телефонний код країни 
+ 
+	Hint:  
+	: [EN] Enter phone country code 
+	: [RU] Введите телефонный код страны 
+	: [UK] Введіть телефонний код країни 
+ 
+4. **`beneficiary_phone_area_code`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^\d{1,5}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Phone area code 
+	: [RU] Телефонный код города 
+	: [UK] Телефонний код міста 
+ 
+	Hint:  
+	: [EN] Enter phone area code 
+	: [RU] Введите код города телефона 
+	: [UK] Введіть код міста телефону 
+ 
+5. **`beneficiary_email`** 
  
 	Type: `string` 
  
@@ -97,7 +136,7 @@
 	: [RU] Введите Email 
 	: [UK] Введіть Email 
  
-4. **`beneficiary_name`** 
+6. **`beneficiary_name`** 
  
 	Type: `string` 
  
@@ -115,7 +154,7 @@
 	: [RU] Введите имя получателя 
 	: [UK] Введіть імʼя отримувача 
  
-5. **`beneficiary_lastname`** 
+7. **`beneficiary_lastname`** 
  
 	Type: `string` 
  
@@ -133,7 +172,7 @@
 	: [RU] Введите фамилию получателя 
 	: [UK] Введіть прiзвище отримувача 
  
-6. **`bank_code`** 
+8. **`bank_code`** 
  
 	Type: `string` 
  
@@ -151,7 +190,7 @@
 	: [RU] Введите код банка 
 	: [UK] Введіть код банку 
  
-7. **`bank_agency_number`** 
+9. **`bank_agency_number`** 
  
 	Type: `string` 
  
@@ -169,7 +208,7 @@
 	: [RU] Введите aгентский код банка 
 	: [UK] Введіть aгентський код банку 
  
-8. **`account_number`** 
+10. **`account_number`** 
  
 	Type: `string` 
  
@@ -187,7 +226,7 @@
 	: [RU] Введите номер счёта 
 	: [UK] Введіть номер рахунку 
  
-9. **`pix_key`** 
+11. **`pix_key`** 
  
 	Type: `string` 
  
@@ -205,7 +244,7 @@
 	: [RU] Введите ключ Pix 
 	: [UK] Введіть ключ Pix 
  
-10. **`bank_isbp_code`** 
+12. **`bank_isbp_code`** 
  
 	Type: `string` 
  
@@ -223,7 +262,7 @@
 	: [RU] Введите ISBP код банку получателя 
 	: [UK] Введiть ISBP код банка отримувача 
  
-11. **`bank_branch_code`** 
+13. **`bank_branch_code`** 
  
 	Type: `string` 
  
@@ -241,7 +280,7 @@
 	: [RU] Введите код отделения банка получателя 
 	: [UK] Введіть код відділення банку одержувачаe 
  
-12. **`account_number_checksum`** 
+14. **`account_number_checksum`** 
  
 	Type: `string` 
  
@@ -259,7 +298,7 @@
 	: [RU] Введите контрольную сумму номера счета 
 	: [UK] Введіть контрольну суму номера рахунку 
  
-13. **`document_type`** 
+15. **`document_type`** 
  
 	Type: `string` 
  
@@ -277,7 +316,7 @@
 	: [RU] Введите тип документа получателя 
 	: [UK] Введіть тип документа отримувача 
  
-14. **`document_id`** 
+16. **`document_id`** 
  
 	Type: `string` 
  
@@ -295,7 +334,7 @@
 	: [RU] Введите номер документа получателя 
 	: [UK] Введіть номер документа отримувача 
  
-15. **`account_type`** 
+17. **`account_type`** 
  
 	Type: `string` 
  
@@ -312,6 +351,24 @@
 	: [EN] Enter beneficiary's PIX account type 
 	: [RU] Введите тип аккаунта PIX получателя 
 	: [UK] Введіть тип облікового запису PIX отримувача 
+ 
+18. **`bank_account_type`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^(saving|personal)$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary's bank account type 
+	: [RU] Тип банковского аккаунта получателя 
+	: [UK] Тип банковського облікового запису банку 
+ 
+	Hint:  
+	: [EN] Enter beneficiary's bank account type 
+	: [RU] Введите тип банковского аккаунта получателя 
+	: [UK] Введіть тип банковського облікового запису отримувача 
  
 
 ## JSON Object 
@@ -359,11 +416,47 @@
       "example":"+5588722651111"
     },
     {
+      "key":"beneficiary_phone_country_code",
+      "type":"string",
+      "regexp":"\/^\\+\\d{1,3}$\/",
+      "required":false,
+      "position":3,
+      "label":{
+        "en":"Phone country code",
+        "ru":"\u0422\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u044b\u0439 \u043a\u043e\u0434 \u0441\u0442\u0440\u0430\u043d\u044b",
+        "uk":"\u0422\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u0438\u0439 \u043a\u043e\u0434 \u043a\u0440\u0430\u0457\u043d\u0438"
+      },
+      "hint":{
+        "en":"Enter phone country code",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u044b\u0439 \u043a\u043e\u0434 \u0441\u0442\u0440\u0430\u043d\u044b",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u0438\u0439 \u043a\u043e\u0434 \u043a\u0440\u0430\u0457\u043d\u0438"
+      },
+      "example":"380"
+    },
+    {
+      "key":"beneficiary_phone_area_code",
+      "type":"string",
+      "regexp":"\/^\\d{1,5}$\/",
+      "required":false,
+      "position":4,
+      "label":{
+        "en":"Phone area code",
+        "ru":"\u0422\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u044b\u0439 \u043a\u043e\u0434 \u0433\u043e\u0440\u043e\u0434\u0430",
+        "uk":"\u0422\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u0438\u0439 \u043a\u043e\u0434 \u043c\u0456\u0441\u0442\u0430"
+      },
+      "hint":{
+        "en":"Enter phone area code",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u0434 \u0433\u043e\u0440\u043e\u0434\u0430 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u0434 \u043c\u0456\u0441\u0442\u0430 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
+      },
+      "example":"63"
+    },
+    {
       "key":"beneficiary_email",
       "type":"string",
       "regexp":"\/^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,4})$\/",
       "required":false,
-      "position":3,
+      "position":5,
       "label":{
         "en":"Email",
         "ru":"Email",
@@ -380,7 +473,7 @@
       "type":"string",
       "regexp":"\/^[-\\s\\p{L}]{2,100}$\/u",
       "required":false,
-      "position":4,
+      "position":6,
       "label":{
         "en":"Beneficiary first name",
         "ru":"\u0418\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
@@ -397,7 +490,7 @@
       "type":"string",
       "regexp":"\/^[-\\s\\p{L}]{2,100}$\/u",
       "required":false,
-      "position":5,
+      "position":7,
       "label":{
         "en":"Beneficiary last name",
         "ru":"\u0424\u0430\u043c\u0438\u043b\u0438\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
@@ -414,7 +507,7 @@
       "type":"string",
       "regexp":"\/^[-\\d\\s\\p{L}]{2,12}$\/u",
       "required":false,
-      "position":6,
+      "position":8,
       "label":{
         "en":"Bank Code",
         "ru":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
@@ -431,7 +524,7 @@
       "type":"string",
       "regexp":"\/^[A-z0-9]{2,5}$\/",
       "required":false,
-      "position":7,
+      "position":9,
       "label":{
         "en":"Agency Code of the Bank",
         "ru":"\u0410\u0433\u0435\u043d\u0442\u0441\u043a\u0438\u0439 \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
@@ -448,7 +541,7 @@
       "type":"string",
       "regexp":"\/^(^[0-9]{4,100}$)|(^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,3})$)|(^[a-z0-9-]{36}$)|(^\\+55\\d{10,12}$)$\/",
       "required":false,
-      "position":8,
+      "position":10,
       "label":{
         "en":"Account Number",
         "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0451\u0442\u0430",
@@ -465,7 +558,7 @@
       "type":"string",
       "regexp":"\/^.{4,255}$\/",
       "required":false,
-      "position":9,
+      "position":11,
       "label":{
         "en":"Pix key",
         "ru":"\u041a\u043b\u044e\u0447 Pix",
@@ -482,7 +575,7 @@
       "type":"string",
       "regexp":"\/^[0-9]{1,11}$\/",
       "required":false,
-      "position":10,
+      "position":12,
       "label":{
         "en":"Beneficiary bank ISBP code",
         "ru":"ISBP \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
@@ -499,7 +592,7 @@
       "type":"string",
       "regexp":"\/^[0-9]{1,5}$\/",
       "required":false,
-      "position":11,
+      "position":13,
       "label":{
         "en":"Beneficiary bank Branch code",
         "ru":"\u041a\u043e\u0434 \u043e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u0431\u0430\u043d\u043a\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
@@ -516,7 +609,7 @@
       "type":"string",
       "regexp":"\/^[0-9]{1,100}$\/",
       "required":false,
-      "position":12,
+      "position":14,
       "label":{
         "en":"Account number checksum",
         "ru":"\u041a\u043e\u043d\u0442\u0440\u043e\u043b\u044c\u043d\u0430\u044f \u0441\u0443\u043c\u043c\u0430 \u043d\u043e\u043c\u0435\u0440\u0430 \u0441\u0447\u0435\u0442\u0430",
@@ -533,7 +626,7 @@
       "type":"string",
       "regexp":"\/^(CPF|CNPJ)$\/",
       "required":false,
-      "position":13,
+      "position":15,
       "label":{
         "en":"Beneficiary's personal identification type",
         "ru":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
@@ -551,7 +644,7 @@
       "type":"string",
       "regexp":"\/^[0-9]{1,100}$\/",
       "required":false,
-      "position":14,
+      "position":16,
       "label":{
         "en":"Beneficiary's personal identification number",
         "ru":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
@@ -569,7 +662,7 @@
       "type":"string",
       "regexp":"\/^(CPF|CNPJ|EVP|PHONE|EMAIL)$\/",
       "required":false,
-      "position":15,
+      "position":17,
       "label":{
         "en":"Beneficiary's PIX account type",
         "ru":"\u0422\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430 PIX \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
@@ -581,6 +674,24 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u043f\u0438\u0441\u0443 PIX \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
       },
       "example":"EMAIL"
+    },
+    {
+      "key":"bank_account_type",
+      "type":"string",
+      "regexp":"\/^(saving|personal)$\/",
+      "required":false,
+      "position":18,
+      "label":{
+        "en":"Beneficiary's bank account type",
+        "ru":"\u0422\u0438\u043f \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0422\u0438\u043f \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u043f\u0438\u0441\u0443 \u0431\u0430\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter beneficiary's bank account type",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u043f\u0438\u0441\u0443 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "example":"personal"
     }
   ],
   "amount_min":1,
