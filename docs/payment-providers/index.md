@@ -238,6 +238,7 @@
 |![dotpay](https://static.openfintech.io/payment_providers/dotpay/logo.png?w=600&c=v0.59.26#w100) |[**Dotpay**](dotpay/)|`dotpay`| 
 |![dragonpay](https://static.openfintech.io/payment_providers/dragonpay/logo.png?w=600&c=v0.59.26#w100) |[**Dragonpay**](dragonpay/)|`dragonpay`| 
 |![dropayment](https://static.openfintech.io/payment_providers/dropayment/logo.svg?w=600&c=v0.59.26#w100) |[**Dropayment**](dropayment/)|`dropayment`| 
+|![dst](https://static.openfintech.io/payment_providers/dst/logo.svg?w=600&c=v0.59.26#w100) |[**DeStream**](dst/)|`dst`| 
 |![dusupay](https://static.openfintech.io/payment_providers/dusupay/logo.png?w=600&c=v0.59.26#w100) |[**Dusupay**](dusupay/)|`dusupay`| 
 || **E** ||
 |![easybits](https://static.openfintech.io/payment_providers/easybits/logo.svg?w=600&c=v0.59.26#w100) |[**EasyBits.io**](easybits/)|`easybits`| 
@@ -736,7 +737,7 @@
 || **S** ||
 |![safecharge](https://static.openfintech.io/payment_providers/safecharge/logo.svg?w=600&c=v0.59.26#w100) |[**Nuvei**](safecharge/)|`safecharge`| 
 |![safetypay](https://static.openfintech.io/payment_providers/safetypay/logo.png?w=600&c=v0.59.26#w100) |[**SafetyPay**](safetypay/)|`safetypay`| 
-|![safexpay](https://static.openfintech.io/payment_providers/safexpay/logo.svg?w=600&c=v0.59.26#w100) |[**Safexpay**](safexpay/)|`safexpay`| 
+|![safexpay](https://static.openfintech.io/payment_providers/safexpay/logo.png?w=600&c=v0.59.26#w100) |[**Safexpay**](safexpay/)|`safexpay`| 
 |![sagepay3](https://static.openfintech.io/payment_providers/sagepay3/logo.svg?w=600&c=v0.59.26#w100) |[**Sage Pay**](sagepay3/)|`sagepay3`| 
 |![saltarpay](https://static.openfintech.io/payment_providers/saltarpay/logo.png?w=600&c=v0.59.26#w100) |[**SaltarPay**](saltarpay/)|`saltarpay`| 
 |![satchelpay](https://static.openfintech.io/payment_providers/satchelpay/logo.png?w=600&c=v0.59.26#w100) |[**Satchel**](satchelpay/)|`satchelpay`| 

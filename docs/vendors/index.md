@@ -579,6 +579,7 @@
 |![druga_filiya_prat_ufg_u_m_lviv](https://static.openfintech.io/vendors/druga_filiya_prat_ufg_u_m_lviv/logo.svg?w=600&c=v0.59.26#w200) |[**Друга філія ПрАТ 'Українська фінансова група' у м. Львів**](druga_filiya_prat_ufg_u_m_lviv/)|`druga_filiya_prat_ufg_u_m_lviv`| 
 |![druga_filiya_prat_ufg_u_m_poltava](https://static.openfintech.io/vendors/druga_filiya_prat_ufg_u_m_poltava/logo.svg?w=600&c=v0.59.26#w200) |[**Друга філія ПрАТ 'Українська фінансова група' у м. Полтава**](druga_filiya_prat_ufg_u_m_poltava/)|`druga_filiya_prat_ufg_u_m_poltava`| 
 |![druga_sevastopolska_filiya_prat_ufg](https://static.openfintech.io/vendors/druga_sevastopolska_filiya_prat_ufg/logo.svg?w=600&c=v0.59.26#w200) |[**Друга Севастопольська філія ПрАТ 'Українська фінансова група'**](druga_sevastopolska_filiya_prat_ufg/)|`druga_sevastopolska_filiya_prat_ufg`| 
+|![dst](https://static.openfintech.io/vendors/dst/logo.svg?w=600&c=v0.59.26#w200) |[**DeStream**](dst/)|`dst`| 
 |![duitnow](https://static.openfintech.io/vendors/duitnow/logo.png?w=600&c=v0.59.26#w200) |[**DuitNow**](duitnow/)|`duitnow`| 
 |![dusupay](https://static.openfintech.io/vendors/dusupay/logo.png?w=600&c=v0.59.26#w200) |[**Dusupay**](dusupay/)|`dusupay`| 
 |![dwolla](https://static.openfintech.io/vendors/dwolla/logo.png?w=600&c=v0.59.26#w200) |[**Dwolla**](dwolla/)|`dwolla`| 

@@ -485,6 +485,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![ragapay](https://static.openfintech.io/payment_providers/ragapay/icon.png?w=278&c=v0.59.26#w100) |[Ragapay](/payment-providers/ragapay/)|`ragapay`| 
 |![payforia](https://static.openfintech.io/payment_providers/payforia/icon.svg?w=278&c=v0.59.26#w100) |[Payforia](/payment-providers/payforia/)|`payforia`| 
 |![onlypay](https://static.openfintech.io/payment_providers/onlypay/icon.svg?w=278&c=v0.59.26#w100) |[Onlypay](/payment-providers/onlypay/)|`onlypay`| 
+|![dst](https://static.openfintech.io/payment_providers/dst/icon.svg?w=278&c=v0.59.26#w100) |[DeStream](/payment-providers/dst/)|`dst`| 
  
 
 ## JSON Object 
