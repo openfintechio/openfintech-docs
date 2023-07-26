@@ -17,7 +17,7 @@
 :	[RU] Online Banking 
 :	[UK] Online Banking 
  
-**Amount limits:** from `1` to `100000` IDR 
+**Amount limits:** from `1` to `15000000000` IDR 
 
 ## JSON Object 
 
@@ -29,6 +29,6 @@
   "currency":"IDR",
   "fields":null,
   "amount_min":1,
-  "amount_max":100000
+  "amount_max":15000000000
 }
 ```  

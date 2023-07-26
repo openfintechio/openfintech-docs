@@ -15,7 +15,7 @@
  
 :	[EN] Standard Chartered Bank India 
  
-**Amount limits:** from `0.01` to `149000000` IDR 
+**Amount limits:** from `0.01` to `15000000000` IDR 
 
 ## Fields 
 
@@ -76,6 +76,6 @@
     }
   ],
   "amount_min":0.01,
-  "amount_max":149000000
+  "amount_max":15000000000
 }
 ```  

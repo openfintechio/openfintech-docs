@@ -15,7 +15,7 @@
  
 :	[EN] ShopeePay 
  
-**Amount limits:** from `0.01` to `10000000000` IDR 
+**Amount limits:** from `0.01` to `15000000000` IDR 
 
 ## JSON Object 
 
@@ -27,6 +27,6 @@
   "currency":"IDR",
   "fields":null,
   "amount_min":0.01,
-  "amount_max":10000000000
+  "amount_max":15000000000
 }
 ```  

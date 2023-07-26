@@ -15,7 +15,7 @@
  
 :	[EN] Bank CIMB Niaga 
  
-**Amount limits:** from `0.01` to `9999999` IDR 
+**Amount limits:** from `0.01` to `15000000000` IDR 
 
 ## Fields 
 
@@ -76,6 +76,6 @@
     }
   ],
   "amount_min":0.01,
-  "amount_max":9999999
+  "amount_max":15000000000
 }
 ```  
