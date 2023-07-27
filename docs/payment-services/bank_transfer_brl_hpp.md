@@ -1,21 +1,23 @@
 
-# Boleto Bancario (service) 
-![boleto_bancario_brl_hpp](https://static.openfintech.io/payment_methods/boleto_bancario_brl_hpp/logo.svg?w=400&c=v0.59.26#w200)  
+# Bank Transfer (service) 
+![bank_transfer_brl_hpp](https://static.openfintech.io/payment_methods/bank_transfer_brl_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `boleto_bancario_brl_hpp` 
+**Code:** `bank_transfer_brl_hpp` 
  
-**Method:** `boleto_bancario` 
- [show -->](/payment-methods/boleto_bancario/) 
+**Method:** `bank_transfer` 
+ [show -->](/payment-methods/bank_transfer/) 
  
 **Currency:** `BRL` [show -->](/currencies/BRL/) 
  
 **Name:** 
  
-:	[EN] Boleto Bancario 
+:	[EN] Bank Transfer 
+:	[RU] Банковский перевод 
+:	[UK] Банківський переказ 
  
-**Amount limits:** from `1` to `1000000` BRL 
+**Amount limits:** from `0.01` to `500000` BRL 
 
 ## Fields 
 
@@ -23,7 +25,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`cpf_number`|✗|`string`|`/^[0-9\.\-]{1,14}$/`| 
+|`cpf_number`|✔|`string`|`/^[0-9\.\-]{1,14}$/`| 
  
 
 ### Details 
@@ -34,7 +36,7 @@
  
 	Regexp: `/^[0-9\.\-]{1,14}$/` 
  
-	Required: `` 
+	Required: `1` 
  
 	Label:  
 	: [EN] CPF number 
@@ -51,16 +53,16 @@
 
 ```json
 {
-  "code":"boleto_bancario_brl_hpp",
+  "code":"bank_transfer_brl_hpp",
   "flow":"hpp",
-  "method":"boleto_bancario",
+  "method":"bank_transfer",
   "currency":"BRL",
   "fields":[
     {
       "key":"cpf_number",
       "type":"string",
       "regexp":"\/^[0-9\\.\\-]{1,14}$\/",
-      "required":false,
+      "required":true,
       "position":1,
       "label":{
         "en":"CPF number",
@@ -75,7 +77,7 @@
       "example":"12345678900"
     }
   ],
-  "amount_min":1,
-  "amount_max":1000000
+  "amount_min":0.01,
+  "amount_max":500000
 }
 ```  

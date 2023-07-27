@@ -46,6 +46,7 @@
 |![aba_bank_cambodia](https://static.openfintech.io/vendors/aba_bank_cambodia/logo.svg?w=600&c=v0.59.26#w200) |[**ABA Bank Cambodia**](aba_bank_cambodia/)|`aba_bank_cambodia`| 
 |![abaqoos](https://static.openfintech.io/vendors/abaqoos/logo.png?w=600&c=v0.59.26#w200) |[**Abaqoos**](abaqoos/)|`abaqoos`| 
 |![abashiri_shinkin_bank](https://static.openfintech.io/vendors/abashiri_shinkin_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Abashiri Shinkin Bank**](abashiri_shinkin_bank/)|`abashiri_shinkin_bank`| 
+|![abb](https://static.openfintech.io/vendors/abb/logo.svg?w=600&c=v0.59.26#w200) |[**ABB**](abb/)|`abb`| 
 |![abex](https://static.openfintech.io/vendors/abex/logo.svg?w=600&c=v0.59.26#w200) |[**Abex**](abex/)|`abex`| 
 |![abilipay](https://static.openfintech.io/vendors/abilipay/logo.png?w=600&c=v0.59.26#w200) |[**abilipay**](abilipay/)|`abilipay`| 
 |![about-payments](https://static.openfintech.io/vendors/about-payments/logo.svg?w=600&c=v0.59.26#w200) |[**About Payments**](about-payments/)|`about-payments`| 
@@ -114,6 +115,7 @@
 |![amlnode](https://static.openfintech.io/vendors/amlnode/logo.svg?w=600&c=v0.59.26#w200) |[**AML Node**](amlnode/)|`amlnode`| 
 |![andhra_pragathi_grameena_bank](https://static.openfintech.io/vendors/andhra_pragathi_grameena_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Andhra Pragathi Grameena Bank**](andhra_pragathi_grameena_bank/)|`andhra_pragathi_grameena_bank`| 
 |![anelik](https://static.openfintech.io/vendors/anelik/logo.png?w=600&c=v0.59.26#w200) |[**Anelik**](anelik/)|`anelik`| 
+|![anspacepay](https://static.openfintech.io/vendors/anspacepay/logo.png?w=600&c=v0.59.26#w200) |[**AnSpacePay**](anspacepay/)|`anspacepay`| 
 |![antrpay](https://static.openfintech.io/vendors/antrpay/logo.svg?w=600&c=v0.59.26#w200) |[**Antrpay**](antrpay/)|`antrpay`| 
 |![anycash](https://static.openfintech.io/vendors/anycash/logo.svg?w=600&c=v0.59.26#w200) |[**AnyCash**](anycash/)|`anycash`| 
 |![anymoney](https://static.openfintech.io/vendors/anymoney/logo.svg?w=600&c=v0.59.26#w200) |[**Any.Money**](anymoney/)|`anymoney`| 

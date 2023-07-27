@@ -23,7 +23,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`cpf_number`|✗|`string`|`/^[0-9\.\-]{1,11}$/`| 
+|`cpf_number`|✗|`string`|`/^[0-9\.\-]{1,14}$/`| 
 |`phone`|✗|`string`|`/^\+\d{10,14}$/`| 
 |`email`|✗|`string`|`/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$$/`| 
 |`payer_first_name`|✗|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
@@ -38,7 +38,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9\.\-]{1,11}$/` 
+	Regexp: `/^[0-9\.\-]{1,14}$/` 
  
 	Required: `` 
  
@@ -173,7 +173,7 @@
     {
       "key":"cpf_number",
       "type":"string",
-      "regexp":"\/^[0-9\\.\\-]{1,11}$\/",
+      "regexp":"\/^[0-9\\.\\-]{1,14}$\/",
       "required":false,
       "position":1,
       "label":{

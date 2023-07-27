@@ -21,6 +21,7 @@
 || **9** ||
 |![99bill](https://static.openfintech.io/payment_providers/99bill/logo.png?w=600&c=v0.59.26#w100) |[**99bill.com**](99bill/)|`99bill`| 
 || **A** ||
+|![abb](https://static.openfintech.io/payment_providers/abb/logo.svg?w=600&c=v0.59.26#w100) |[**ABB**](abb/)|`abb`| 
 |![abex](https://static.openfintech.io/payment_providers/abex/logo.svg?w=600&c=v0.59.26#w100) |[**Abex**](abex/)|`abex`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/logo.png?w=600&c=v0.59.26#w100) |[**abilipay**](abilipay/)|`abilipay`| 
 |![acapture](https://static.openfintech.io/payment_providers/acapture/logo.png?w=600&c=v0.59.26#w100) |[**Acapture**](acapture/)|`acapture`| 
@@ -52,6 +53,7 @@
 |![amazonpaymentservices](https://static.openfintech.io/payment_providers/amazonpaymentservices/logo.svg?w=600&c=v0.59.26#w100) |[**Amazon Payment Services**](amazonpaymentservices/)|`amazonpaymentservices`| 
 |![americanvolume](https://static.openfintech.io/payment_providers/americanvolume/logo.png?w=600&c=v0.59.26#w100) |[**GlobiPay**](americanvolume/)|`americanvolume`| 
 |![amlnode](https://static.openfintech.io/payment_providers/amlnode/logo.svg?w=600&c=v0.59.26#w100) |[**AML Node**](amlnode/)|`amlnode`| 
+|![anspacepay](https://static.openfintech.io/payment_providers/anspacepay/logo.png?w=600&c=v0.59.26#w100) |[**AnSpacePay**](anspacepay/)|`anspacepay`| 
 |![antrpay](https://static.openfintech.io/payment_providers/antrpay/logo.svg?w=600&c=v0.59.26#w100) |[**Antrpay**](antrpay/)|`antrpay`| 
 |![anycash](https://static.openfintech.io/payment_providers/anycash/logo.svg?w=600&c=v0.59.26#w100) |[**AnyCash**](anycash/)|`anycash`| 
 |![anymoney](https://static.openfintech.io/payment_providers/anymoney/logo.svg?w=600&c=v0.59.26#w100) |[**Any.Money**](anymoney/)|`anymoney`| 
