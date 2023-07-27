@@ -145,6 +145,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![rupay](https://static.openfintech.io/payment_methods/rupay/icon.svg?w=278&c=v0.59.26#w100) |[rupay](/payment-methods/rupay/)|`rupay`| 
 |![india_bank_selection](https://static.openfintech.io/payment_methods/india_bank_selection/icon.svg?w=278&c=v0.59.26#w100) |[india_bank_selection](/payment-methods/india_bank_selection/)|`india_bank_selection`| 
 |![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer](/payment-methods/sepa_transfer/)|`sepa_transfer`| 
+|![virtual_bank_aggregated](https://static.openfintech.io/payment_methods/virtual_bank_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[virtual_bank_aggregated](/payment-methods/virtual_bank_aggregated/)|`virtual_bank_aggregated`| 
  
 
 ## Payout Methods 
@@ -344,7 +345,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "punjab_sind_bank",
     "rupay",
     "india_bank_selection",
-    "sepa_transfer"
+    "sepa_transfer",
+    "virtual_bank_aggregated"
   ],
   "payout_method":[
     "hdfc_bank",

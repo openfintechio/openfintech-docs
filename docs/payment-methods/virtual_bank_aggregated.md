@@ -37,6 +37,15 @@ The list of [Payment Services](/payment-services/) based on the _Virtual bank ag
 |![virtual_bank_aggregated](https://static.openfintech.io/payment_methods/virtual_bank_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[virtual_bank_aggregated_krw_hpp](/payment-services/virtual_bank_aggregated_krw_hpp/)|`virtual_bank_aggregated_krw_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Virtual bank aggregated_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![odeonpay](https://static.openfintech.io/payment_providers/odeonpay/icon.png?w=278&c=v0.59.26#w100) |[OdeonPay](/payment-providers/odeonpay/)|`odeonpay`| 
+ 
+
 ## JSON Object 
 
 ```json
