@@ -703,6 +703,7 @@
 |![vietnam_prosperity_commerial_bank_qr](https://static.openfintech.io/payment_methods/vietnam_prosperity_commerial_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Vietnam Prosperity Joint-Stock Commercial Bank QR**](vietnam_prosperity_commerial_bank_qr/)|`vietnam_prosperity_commerial_bank_qr`| 
 |![viettelpay](https://static.openfintech.io/payment_methods/viettelpay/logo.svg?w=400&c=v0.59.26#w200) |[**ViettelPay**](viettelpay/)|`viettelpay`| 
 |![vijaya_bank](https://static.openfintech.io/payment_methods/vijaya_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Vijaya Bank**](vijaya_bank/)|`vijaya_bank`| 
+|![virtual_bank_aggregated](https://static.openfintech.io/payment_methods/virtual_bank_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**Virtual bank aggregated**](virtual_bank_aggregated/)|`virtual_bank_aggregated`| 
 |![visa_qr_code](https://static.openfintech.io/payment_methods/visa_qr_code/logo.svg?w=400&c=v0.59.26#w200) |[**Visa QR Code**](visa_qr_code/)|`visa_qr_code`| 
 |![visacheckout](https://static.openfintech.io/payment_methods/visacheckout/logo.png?w=400&c=v0.59.26#w200) |[**Visa Checkout**](visacheckout/)|`visacheckout`| 
 |![visadebit](https://static.openfintech.io/payment_methods/visadebit/logo.png?w=400&c=v0.59.26#w200) |[**Visa Debit**](visadebit/)|`visadebit`| 
