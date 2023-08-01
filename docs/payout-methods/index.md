@@ -1666,6 +1666,7 @@
 |![pautina-net](https://static.openfintech.io/payout_methods/pautina-net/logo.png?w=400&c=v0.59.26#w24) |[**Web.Net**](pautina-net/)|`pautina-net`| 
 |![pavlogradski-mem-tsok-pavlogradskogo-r-nu](https://static.openfintech.io/payout_methods/pavlogradski-mem-tsok-pavlogradskogo-r-nu/logo.png?w=400&c=v0.59.26#w24) |[**Pavlograd MES (CSC Pavlograd district)**](pavlogradski-mem-tsok-pavlogradskogo-r-nu/)|`pavlogradski-mem-tsok-pavlogradskogo-r-nu`| 
 |![pavlogradski-rem-tsok-pavlogradskogo-r-nu](https://static.openfintech.io/payout_methods/pavlogradski-rem-tsok-pavlogradskogo-r-nu/logo.png?w=400&c=v0.59.26#w24) |[**Pavlograd RES (CSC Pavlograd district)**](pavlogradski-rem-tsok-pavlogradskogo-r-nu/)|`pavlogradski-rem-tsok-pavlogradskogo-r-nu`| 
+|![pay_maya](https://static.openfintech.io/payout_methods/pay_maya/logo.png?w=400&c=v0.59.26#w24) |[**Maya Philippines**](pay_maya/)|`pay_maya`| 
 |![payattitude_online](https://static.openfintech.io/payout_methods/payattitude_online/logo.svg?w=400&c=v0.59.26#w24) |[**Payattitude Online**](payattitude_online/)|`payattitude_online`| 
 |![paybox](https://static.openfintech.io/payout_methods/paybox/logo.svg?w=400&c=v0.59.26#w24) |[**Paybox**](paybox/)|`paybox`| 
 |![paycom](https://static.openfintech.io/payout_methods/paycom/logo.svg?w=400&c=v0.59.26#w24) |[**Paycom**](paycom/)|`paycom`| 

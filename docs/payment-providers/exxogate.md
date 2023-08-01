@@ -570,6 +570,8 @@ The list of supported [Payout Methods](/payout-methods/)
 |![vodacom](https://static.openfintech.io/payout_methods/vodacom/icon.png?w=278&c=v0.59.26#w40) |[vodacom](payout-methodsvodacom/)|`vodacom`| 
 |![orange_money](https://static.openfintech.io/payout_methods/orange_money/icon.png?w=278&c=v0.59.26#w40) |[orange_money](payout-methodsorange_money/)|`orange_money`| 
 |![zamtel](https://static.openfintech.io/payout_methods/zamtel/icon.png?w=278&c=v0.59.26#w40) |[zamtel](payout-methodszamtel/)|`zamtel`| 
+|![pay_maya](https://static.openfintech.io/payout_methods/pay_maya/icon.png?w=278&c=v0.59.26#w40) |[pay_maya](payout-methodspay_maya/)|`pay_maya`| 
+|![gcash](https://static.openfintech.io/payout_methods/gcash/icon.png?w=278&c=v0.59.26#w40) |[gcash](payout-methodsgcash/)|`gcash`| 
  
 
 ## JSON Object 
@@ -1106,7 +1108,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "tigo_pesa",
     "vodacom",
     "orange_money",
-    "zamtel"
+    "zamtel",
+    "pay_maya",
+    "gcash"
   ],
   "metadata":null,
   "name":{
