@@ -61,6 +61,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![jazzcash](https://static.openfintech.io/payment_methods/jazzcash/icon.svg?w=278&c=v0.59.26#w100) |[jazzcash](/payment-methods/jazzcash/)|`jazzcash`| 
 |![easypaisa](https://static.openfintech.io/payment_methods/easypaisa/icon.svg?w=278&c=v0.59.26#w100) |[easypaisa](/payment-methods/easypaisa/)|`easypaisa`| 
 |![philippines_va](https://static.openfintech.io/payment_methods/philippines_va/icon.svg?w=278&c=v0.59.26#w100) |[philippines_va](/payment-methods/philippines_va/)|`philippines_va`| 
+|![vodafone_mpesa](https://static.openfintech.io/payment_methods/vodafone_mpesa/icon.png?w=278&c=v0.59.26#w100) |[vodafone_mpesa](/payment-methods/vodafone_mpesa/)|`vodafone_mpesa`| 
  
 
 ## Payout Methods 
@@ -149,6 +150,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![union_bank](https://static.openfintech.io/payout_methods/union_bank/icon.svg?w=278&c=v0.59.26#w40) |[union_bank](payout-methodsunion_bank/)|`union_bank`| 
 |![jazzcash](https://static.openfintech.io/payout_methods/jazzcash/icon.png?w=278&c=v0.59.26#w40) |[jazzcash](payout-methodsjazzcash/)|`jazzcash`| 
 |![easypaisa](https://static.openfintech.io/payout_methods/easypaisa/icon.png?w=278&c=v0.59.26#w40) |[easypaisa](payout-methodseasypaisa/)|`easypaisa`| 
+|![vodafone_mpesa](https://static.openfintech.io/payout_methods/vodafone_mpesa/icon.png?w=278&c=v0.59.26#w40) |[vodafone_mpesa](payout-methodsvodafone_mpesa/)|`vodafone_mpesa`| 
  
 
 ## JSON Object 
@@ -182,7 +184,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "payment_card",
     "jazzcash",
     "easypaisa",
-    "philippines_va"
+    "philippines_va",
+    "vodafone_mpesa"
   ],
   "payout_method":[
     "payment_card",
@@ -264,7 +267,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "sterling_bank",
     "union_bank",
     "jazzcash",
-    "easypaisa"
+    "easypaisa",
+    "vodafone_mpesa"
   ],
   "metadata":null,
   "name":{

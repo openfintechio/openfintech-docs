@@ -2942,6 +2942,7 @@
 |![vodafone_cash](https://static.openfintech.io/payout_methods/vodafone_cash/logo.svg?w=400&c=v0.59.26#w24) |[**Vodafone Cash**](vodafone_cash/)|`vodafone_cash`| 
 |![vodafone_contract](https://static.openfintech.io/payout_methods/vodafone_contract/logo.svg?w=400&c=v0.59.26#w24) |[**Vodafone (contract)**](vodafone_contract/)|`vodafone_contract`| 
 |![vodafone_ghana](https://static.openfintech.io/payout_methods/vodafone_ghana/logo.png?w=400&c=v0.59.26#w24) |[**Vodafone Ghana**](vodafone_ghana/)|`vodafone_ghana`| 
+|![vodafone_mpesa](https://static.openfintech.io/payout_methods/vodafone_mpesa/logo.png?w=400&c=v0.59.26#w24) |[**Vodafone-Mpesa**](vodafone_mpesa/)|`vodafone_mpesa`| 
 |![vodafone_phone](https://static.openfintech.io/payout_methods/vodafone_phone/logo.svg?w=400&c=v0.59.26#w24) |[**Vodafone (by phone number)**](vodafone_phone/)|`vodafone_phone`| 
 |![vodokanal-g-borispol](https://static.openfintech.io/payout_methods/vodokanal-g-borispol/logo.png?w=400&c=v0.59.26#w24) |[**Vodokanal (Borispol)**](vodokanal-g-borispol/)|`vodokanal-g-borispol`| 
 |![vodokanal-g-iagotin](https://static.openfintech.io/payout_methods/vodokanal-g-iagotin/logo.png?w=400&c=v0.59.26#w24) |[**Vodokanal (Yagotin)**](vodokanal-g-iagotin/)|`vodokanal-g-iagotin`| 

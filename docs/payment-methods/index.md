@@ -711,6 +711,7 @@
 |![vmevisa](https://static.openfintech.io/payment_methods/vmevisa/logo.png?w=400&c=v0.59.26#w200) |[**V.me by Visa**](vmevisa/)|`vmevisa`| 
 |![vnpay_qr](https://static.openfintech.io/payment_methods/vnpay_qr/logo.png?w=400&c=v0.59.26#w200) |[**VNPAY QR**](vnpay_qr/)|`vnpay_qr`| 
 |![vodacom](https://static.openfintech.io/payment_methods/vodacom/logo.png?w=400&c=v0.59.26#w200) |[**Vodacom**](vodacom/)|`vodacom`| 
+|![vodafone_mpesa](https://static.openfintech.io/payment_methods/vodafone_mpesa/logo.png?w=400&c=v0.59.26#w200) |[**Vodafone-Mpesa**](vodafone_mpesa/)|`vodafone_mpesa`| 
 |![volksbank](https://static.openfintech.io/payment_methods/volksbank/logo.png?w=400&c=v0.59.26#w200) |[**Volksbank**](volksbank/)|`volksbank`| 
 |![vp_bank](https://static.openfintech.io/payment_methods/vp_bank/logo.png?w=400&c=v0.59.26#w200) |[**Vietnam Prosperity Joint‑Stock Commercial Bank**](vp_bank/)|`vp_bank`| 
 |![vp_bank_qr](https://static.openfintech.io/payment_methods/vp_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Vietnam Prosperity Joint‑Stock Commercial Bank Qr**](vp_bank_qr/)|`vp_bank_qr`| 
