@@ -787,6 +787,7 @@
 |![fortumo](https://static.openfintech.io/vendors/fortumo/logo.png?w=600&c=v0.59.26#w200) |[**Fortumo**](fortumo/)|`fortumo`| 
 |![forwardbank](https://static.openfintech.io/vendors/forwardbank/logo.svg?w=600&c=v0.59.26#w200) |[**Forward Bank**](forwardbank/)|`forwardbank`| 
 |![fpoltavske_oblasne_atoshad_m_poltava](https://static.openfintech.io/vendors/fpoltavske_oblasne_atoshad_m_poltava/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Полтавське обласне управлiння ПАТ 'Державний ощадний банк України'**](fpoltavske_oblasne_atoshad_m_poltava/)|`fpoltavske_oblasne_atoshad_m_poltava`| 
+|![freepayment](https://static.openfintech.io/vendors/freepayment/logo.svg?w=600&c=v0.59.26#w200) |[**FreePayment**](freepayment/)|`freepayment`| 
 |![frenchonlinepaymentmethodewalletpaylib](https://static.openfintech.io/vendors/frenchonlinepaymentmethodewalletpaylib/logo.png?w=600&c=v0.59.26#w200) |[**paylib**](frenchonlinepaymentmethodewalletpaylib/)|`frenchonlinepaymentmethodewalletpaylib`| 
 |![frivnenske_oblasne_up_atoshad_m_rivne](https://static.openfintech.io/vendors/frivnenske_oblasne_up_atoshad_m_rivne/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Рiвненське обласне управлiння ПАТ 'Державний ощадний банк України'**](frivnenske_oblasne_up_atoshad_m_rivne/)|`frivnenske_oblasne_up_atoshad_m_rivne`| 
 |![frozrah_centrpat_kbprivatbank_kiyiv](https://static.openfintech.io/vendors/frozrah_centrpat_kbprivatbank_kiyiv/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ 'РОЗРАХУНКОВИЙ ЦЕНТР' ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](frozrah_centrpat_kbprivatbank_kiyiv/)|`frozrah_centrpat_kbprivatbank_kiyiv`| 
@@ -1931,6 +1932,7 @@
 |![theecheckcom](https://static.openfintech.io/vendors/theecheckcom/logo.png?w=600&c=v0.59.26#w200) |[**TheECheck.com**](theecheckcom/)|`theecheckcom`| 
 |![thelogicgroup](https://static.openfintech.io/vendors/thelogicgroup/logo.png?w=600&c=v0.59.26#w200) |[**The Logic Group**](thelogicgroup/)|`thelogicgroup`| 
 |![thenoy](https://static.openfintech.io/vendors/thenoy/logo.svg?w=600&c=v0.59.26#w200) |[**THENOY**](thenoy/)|`thenoy`| 
+|![thepaymentconsultant](https://static.openfintech.io/vendors/thepaymentconsultant/logo.svg?w=600&c=v0.59.26#w200) |[**The Payment Consultant**](thepaymentconsultant/)|`thepaymentconsultant`| 
 |![thorpayments](https://static.openfintech.io/vendors/thorpayments/logo.svg?w=600&c=v0.59.26#w200) |[**Thor Payments**](thorpayments/)|`thorpayments`| 
 |![ticketpremium](https://static.openfintech.io/vendors/ticketpremium/logo.png?w=600&c=v0.59.26#w200) |[**Ticket Premium**](ticketpremium/)|`ticketpremium`| 
 |![tinkoff](https://static.openfintech.io/vendors/tinkoff/logo.svg?w=600&c=v0.59.26#w200) |[**Tinkoff**](tinkoff/)|`tinkoff`| 

@@ -324,6 +324,7 @@
 |![fortepaymentsystems](https://static.openfintech.io/payment_providers/fortepaymentsystems/logo.png?w=600&c=v0.59.26#w100) |[**Forte Payment Systems**](fortepaymentsystems/)|`fortepaymentsystems`| 
 |![fortumo](https://static.openfintech.io/payment_providers/fortumo/logo.png?w=600&c=v0.59.26#w100) |[**Fortumo**](fortumo/)|`fortumo`| 
 |![forwardbank](https://static.openfintech.io/payment_providers/forwardbank/logo.svg?w=600&c=v0.59.26#w100) |[**Forward Bank**](forwardbank/)|`forwardbank`| 
+|![freepayment](https://static.openfintech.io/payment_providers/freepayment/logo.svg?w=600&c=v0.59.26#w100) |[**FreePayment**](freepayment/)|`freepayment`| 
 |![futuritypay](https://static.openfintech.io/payment_providers/futuritypay/logo.png?w=600&c=v0.59.26#w100) |[**Futuritypay**](futuritypay/)|`futuritypay`| 
 || **G** ||
 |![g2apay](https://static.openfintech.io/payment_providers/g2apay/logo.png?w=600&c=v0.59.26#w100) |[**G2A PAY**](g2apay/)|`g2apay`| 
@@ -807,6 +808,7 @@
 |![theecheckcom](https://static.openfintech.io/payment_providers/theecheckcom/logo.png?w=600&c=v0.59.26#w100) |[**TheECheck.com**](theecheckcom/)|`theecheckcom`| 
 |![thelogicgroup](https://static.openfintech.io/payment_providers/thelogicgroup/logo.png?w=600&c=v0.59.26#w100) |[**The Logic Group**](thelogicgroup/)|`thelogicgroup`| 
 |![thenoy](https://static.openfintech.io/payment_providers/thenoy/logo.svg?w=600&c=v0.59.26#w100) |[**THENOY**](thenoy/)|`thenoy`| 
+|![thepaymentconsultant](https://static.openfintech.io/payment_providers/thepaymentconsultant/logo.svg?w=600&c=v0.59.26#w100) |[**The Payment Consultant**](thepaymentconsultant/)|`thepaymentconsultant`| 
 |![thorpayments](https://static.openfintech.io/payment_providers/thorpayments/logo.png?w=600&c=v0.59.26#w100) |[**Thor Payments**](thorpayments/)|`thorpayments`| 
 |![tinkoff](https://static.openfintech.io/payment_providers/tinkoff/logo.svg?w=600&c=v0.59.26#w100) |[**Tinkoff**](tinkoff/)|`tinkoff`| 
 |![tkbpay](https://static.openfintech.io/payment_providers/tkbpay/logo.svg?w=600&c=v0.59.26#w100) |[**TKB Pay**](tkbpay/)|`tkbpay`| 
