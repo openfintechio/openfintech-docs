@@ -489,6 +489,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![abb](https://static.openfintech.io/payment_providers/abb/icon.svg?w=278&c=v0.59.26#w100) |[ABB](/payment-providers/abb/)|`abb`| 
 |![freepayment](https://static.openfintech.io/payment_providers/freepayment/icon.png?w=278&c=v0.59.26#w100) |[FreePayment](/payment-providers/freepayment/)|`freepayment`| 
 |![thepaymentconsultant](https://static.openfintech.io/payment_providers/thepaymentconsultant/icon.svg?w=278&c=v0.59.26#w100) |[The Payment Consultant](/payment-providers/thepaymentconsultant/)|`thepaymentconsultant`| 
+|![triple000](https://static.openfintech.io/payment_providers/triple000/icon.png?w=278&c=v0.59.26#w100) |[Triple000](/payment-providers/triple000/)|`triple000`| 
  
 
 ## JSON Object 
