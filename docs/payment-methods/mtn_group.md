@@ -5,9 +5,13 @@
 ## General 
 **Code:** `mtn_group` 
  
+**Vendor:** `mtn_group` [show -->](/vendors/mtn_group/) 
+ 
 **Name:** 
  
 :	[EN] MTN Group 
+:	[RU] MTN Group 
+:	[UK] MTN Group 
  
 **Category:** `mobile_payment` 
  
@@ -28,14 +32,14 @@ https://static.openfintech.io/payment_methods/mtn_group/logo.png?w=400&c=v0.59.2
 https://static.openfintech.io/payment_methods/mtn_group/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _MTN Group_ 
+The list of [Payment Services](/payment-services/) based on the _MTN Group_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![mtn_group](https://static.openfintech.io/payout_methods/mtn_group/icon.png?w=278&c=v0.59.26#w40) |[mtn_group_ghs](/payout-services/mtn_group_ghs/)|`mtn_group_ghs`| 
-|![mtn_group](https://static.openfintech.io/payout_methods/mtn_group/icon.png?w=278&c=v0.59.26#w40) |[mtn_group_zmw](/payout-services/mtn_group_zmw/)|`mtn_group_zmw`| 
+|![mtn_group](https://static.openfintech.io/payment_methods/mtn_group/icon.png?w=278&c=v0.59.26#w100) |[mtn_group_ghs_hpp](/payment-services/mtn_group_ghs_hpp/)|`mtn_group_ghs_hpp`| 
+|![mtn_group](https://static.openfintech.io/payment_methods/mtn_group/icon.png?w=278&c=v0.59.26#w100) |[mtn_group_zmw_hpp](/payment-services/mtn_group_zmw_hpp/)|`mtn_group_zmw_hpp`| 
  
 
 ## Payment Providers 
@@ -52,9 +56,11 @@ The list of [Payment Providers](/payment-providers/) that support the _MTN Group
 ```json
 {
   "code":"mtn_group",
-  "vendor":null,
+  "vendor":"mtn_group",
   "name":{
-    "en":"MTN Group"
+    "en":"MTN Group",
+    "ru":"MTN Group",
+    "uk":"MTN Group"
   },
   "description":null,
   "countries":null,

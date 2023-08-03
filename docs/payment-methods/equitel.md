@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Equitel_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![equitel](https://static.openfintech.io/payment_methods/equitel/icon.png?w=278&c=v0.59.26#w100) |[equitel_kes_invoice](/payment-services/equitel_kes_invoice/)|`equitel_kes_invoice`| 
+|![equitel](https://static.openfintech.io/payment_methods/equitel/icon.png?w=278&c=v0.59.26#w100) |[equitel_kes_hpp](/payment-services/equitel_kes_hpp/)|`equitel_kes_hpp`| 
  
 
 ## Payment Providers 
@@ -46,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Equitel_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![virtualpay](https://static.openfintech.io/payment_providers/virtualpay/icon.png?w=278&c=v0.59.26#w100) |[Virtual Pay](/payment-providers/virtualpay/)|`virtualpay`| 
+|![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
  
 
 ## JSON Object 

@@ -81,6 +81,7 @@
 |![aichi_shogin](https://static.openfintech.io/vendors/aichi_shogin/logo.svg?w=600&c=v0.59.26#w200) |[**Aichi Shogin**](aichi_shogin/)|`aichi_shogin`| 
 |![aifory](https://static.openfintech.io/vendors/aifory/logo.png?w=600&c=v0.59.26#w200) |[**Aifory**](aifory/)|`aifory`| 
 |![airpay](https://static.openfintech.io/vendors/airpay/logo.svg?w=600&c=v0.59.26#w200) |[**airpay**](airpay/)|`airpay`| 
+|![airteltigo](https://static.openfintech.io/vendors/airteltigo/logo.png?w=600&c=v0.59.26#w200) |[**AT Ghana**](airteltigo/)|`airteltigo`| 
 |![ajmanibank](https://static.openfintech.io/vendors/ajmanibank/logo.svg?w=600&c=v0.59.26#w200) |[**Айманибанк**](ajmanibank/)|`ajmanibank`| 
 |![akb_industrialbank](https://static.openfintech.io/vendors/akb_industrialbank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ АКЦІОНЕРНИЙ  КОМЕРЦІЙНИЙ БАНК 'ІНДУСТРІАЛБАНК'**](akb_industrialbank/)|`akb_industrialbank`| 
 |![akb_novij](https://static.openfintech.io/vendors/akb_novij/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'АКЦІОНЕРНИЙ КОМЕРЦІЙНИЙ БАНК 'НОВИЙ'**](akb_novij/)|`akb_novij`| 
@@ -608,6 +609,7 @@
 |![ecashme](https://static.openfintech.io/vendors/ecashme/logo.svg?w=600&c=v0.59.26#w200) |[**eCashMe**](ecashme/)|`ecashme`| 
 |![ecb](https://static.openfintech.io/vendors/ecb/logo.png?w=600&c=v0.59.26#w200) |[**European Central Bank**](ecb/)|`ecb`| 
 |![ecobanq](https://static.openfintech.io/vendors/ecobanq/logo.png?w=600&c=v0.59.26#w200) |[**Ecobanq**](ecobanq/)|`ecobanq`| 
+|![ecocash](https://static.openfintech.io/vendors/ecocash/logo.png?w=600&c=v0.59.26#w200) |[**EcoCash**](ecocash/)|`ecocash`| 
 |![ecoin.ua](https://static.openfintech.io/vendors/ecoin.ua/logo.svg?w=600&c=v0.59.26#w200) |[**ECoin**](ecoin.ua/)|`ecoin.ua`| 
 |![ecoin_cc](https://static.openfintech.io/vendors/ecoin_cc/logo.svg?w=600&c=v0.59.26#w200) |[**ecoin.cc**](ecoin_cc/)|`ecoin_cc`| 
 |![ecoincc](https://static.openfintech.io/vendors/ecoincc/logo.png?w=600&c=v0.59.26#w200) |[**ecoin.cc**](ecoincc/)|`ecoincc`| 
@@ -1186,6 +1188,7 @@
 |![mozcompayeasy](https://static.openfintech.io/vendors/mozcompayeasy/logo.png?w=600&c=v0.59.26#w200) |[**Mozcom PayEasy**](mozcompayeasy/)|`mozcompayeasy`| 
 |![mpay24](https://static.openfintech.io/vendors/mpay24/logo.png?w=600&c=v0.59.26#w200) |[**mPay24**](mpay24/)|`mpay24`| 
 |![mpayaisthailand](https://static.openfintech.io/vendors/mpayaisthailand/logo.png?w=600&c=v0.59.26#w200) |[**mPAY**](mpayaisthailand/)|`mpayaisthailand`| 
+|![mtn_group](https://static.openfintech.io/vendors/mtn_group/logo.png?w=600&c=v0.59.26#w200) |[**MTN Group**](mtn_group/)|`mtn_group`| 
 |![mtsbank](https://static.openfintech.io/vendors/mtsbank/logo.svg?w=600&c=v0.59.26#w200) |[**МТС банк**](mtsbank/)|`mtsbank`| 
 |![muchbetter](https://static.openfintech.io/vendors/muchbetter/logo.svg?w=600&c=v0.59.26#w200) |[**MuchBetter**](muchbetter/)|`muchbetter`| 
 |![mufg_bank](https://static.openfintech.io/vendors/mufg_bank/logo.svg?w=600&c=v0.59.26#w200) |[**MUFG Bank**](mufg_bank/)|`mufg_bank`| 
@@ -1305,6 +1308,7 @@
 |![optile](https://static.openfintech.io/vendors/optile/logo.png?w=600&c=v0.59.26#w200) |[**Optile**](optile/)|`optile`| 
 |![optimalpayments](https://static.openfintech.io/vendors/optimalpayments/logo.png?w=600&c=v0.59.26#w200) |[**Paysafe**](optimalpayments/)|`optimalpayments`| 
 |![optomany](https://static.openfintech.io/vendors/optomany/logo.png?w=600&c=v0.59.26#w200) |[**Optomany**](optomany/)|`optomany`| 
+|![orange_money](https://static.openfintech.io/vendors/orange_money/logo.png?w=600&c=v0.59.26#w200) |[**Orange Money**](orange_money/)|`orange_money`| 
 |![orangepay](https://static.openfintech.io/vendors/orangepay/logo.png?w=600&c=v0.59.26#w200) |[**OrangePay**](orangepay/)|`orangepay`| 
 |![orbitalpay](https://static.openfintech.io/vendors/orbitalpay/logo.png?w=600&c=v0.59.26#w200) |[**OrbitalPay**](orbitalpay/)|`orbitalpay`| 
 |![orbitcardservices](https://static.openfintech.io/vendors/orbitcardservices/logo.png?w=600&c=v0.59.26#w200) |[**Orbit Card Services**](orbitcardservices/)|`orbitcardservices`| 
@@ -2217,6 +2221,7 @@
 |![zakarp_ru_pat_kbprivatbank_m_uzhgorod](https://static.openfintech.io/vendors/zakarp_ru_pat_kbprivatbank_m_uzhgorod/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ 'ЗАКАРПАТСЬКЕ РЕГІОНАЛЬНЕ УПРАВЛІННЯ' ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](zakarp_ru_pat_kbprivatbank_m_uzhgorod/)|`zakarp_ru_pat_kbprivatbank_m_uzhgorod`| 
 |![zakarpatska_oblasna_filiya_prat_ufg](https://static.openfintech.io/vendors/zakarpatska_oblasna_filiya_prat_ufg/logo.svg?w=600&c=v0.59.26#w200) |[**Закарпатська обласна філія ПрАТ 'Українська фінансова група'**](zakarpatska_oblasna_filiya_prat_ufg/)|`zakarpatska_oblasna_filiya_prat_ufg`| 
 |![zakarpatska_regionalna_fprat_ufg](https://static.openfintech.io/vendors/zakarpatska_regionalna_fprat_ufg/logo.svg?w=600&c=v0.59.26#w200) |[**Закарпатська регіональна філія ПрАТ 'Українська фінансова група'**](zakarpatska_regionalna_fprat_ufg/)|`zakarpatska_regionalna_fprat_ufg`| 
+|![zamtel](https://static.openfintech.io/vendors/zamtel/logo.png?w=600&c=v0.59.26#w200) |[**Zamtel**](zamtel/)|`zamtel`| 
 |![zap_ru_pat_kbprivatbank_m_zaporizhzhya](https://static.openfintech.io/vendors/zap_ru_pat_kbprivatbank_m_zaporizhzhya/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ 'ЗАПОРІЗЬКЕ РЕГІОНАЛЬНЕ УПРАВЛІННЯ' ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](zap_ru_pat_kbprivatbank_m_zaporizhzhya/)|`zap_ru_pat_kbprivatbank_m_zaporizhzhya`| 
 |![zaporizka_oblasna_filiya_prat_ufg](https://static.openfintech.io/vendors/zaporizka_oblasna_filiya_prat_ufg/logo.svg?w=600&c=v0.59.26#w200) |[**Запорізька обласна філія ПрАТ 'Українська фінансова група'**](zaporizka_oblasna_filiya_prat_ufg/)|`zaporizka_oblasna_filiya_prat_ufg`| 
 |![zapp](https://static.openfintech.io/vendors/zapp/logo.png?w=600&c=v0.59.26#w200) |[**Zapp**](zapp/)|`zapp`| 

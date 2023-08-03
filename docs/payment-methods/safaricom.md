@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Safaricom_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![safaricom](https://static.openfintech.io/payment_methods/safaricom/icon.png?w=278&c=v0.59.26#w100) |[safaricom_kes_invoice](/payment-services/safaricom_kes_invoice/)|`safaricom_kes_invoice`| 
+|![safaricom](https://static.openfintech.io/payment_methods/safaricom/icon.png?w=278&c=v0.59.26#w100) |[safaricom_kes_hpp](/payment-services/safaricom_kes_hpp/)|`safaricom_kes_hpp`| 
  
 
 ## Payment Providers 
@@ -46,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Safaricom
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![virtualpay](https://static.openfintech.io/payment_providers/virtualpay/icon.png?w=278&c=v0.59.26#w100) |[Virtual Pay](/payment-providers/virtualpay/)|`virtualpay`| 
+|![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
  
 
 ## JSON Object 

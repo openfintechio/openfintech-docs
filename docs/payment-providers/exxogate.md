@@ -200,6 +200,18 @@ The list of supported [Payment Methods](/payment-methods/)
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
 |![bank_transfer_va](https://static.openfintech.io/payment_methods/bank_transfer_va/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_va](/payment-methods/bank_transfer_va/)|`bank_transfer_va`| 
 |![bank_transfer_qr](https://static.openfintech.io/payment_methods/bank_transfer_qr/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_qr](/payment-methods/bank_transfer_qr/)|`bank_transfer_qr`| 
+|![mtn](https://static.openfintech.io/payment_methods/mtn/icon.svg?w=278&c=v0.59.26#w100) |[mtn](/payment-methods/mtn/)|`mtn`| 
+|![safaricom](https://static.openfintech.io/payment_methods/safaricom/icon.png?w=278&c=v0.59.26#w100) |[safaricom](/payment-methods/safaricom/)|`safaricom`| 
+|![equitel](https://static.openfintech.io/payment_methods/equitel/icon.png?w=278&c=v0.59.26#w100) |[equitel](/payment-methods/equitel/)|`equitel`| 
+|![airteltigo](https://static.openfintech.io/payment_methods/airteltigo/icon.png?w=278&c=v0.59.26#w100) |[airteltigo](/payment-methods/airteltigo/)|`airteltigo`| 
+|![vodafone_cash](https://static.openfintech.io/payment_methods/vodafone_cash/icon.svg?w=278&c=v0.59.26#w100) |[vodafone_cash](/payment-methods/vodafone_cash/)|`vodafone_cash`| 
+|![mtn_group](https://static.openfintech.io/payment_methods/mtn_group/icon.png?w=278&c=v0.59.26#w100) |[mtn_group](/payment-methods/mtn_group/)|`mtn_group`| 
+|![vodafone_pay](https://static.openfintech.io/payment_methods/vodafone_pay/icon.svg?w=278&c=v0.59.26#w100) |[vodafone_pay](/payment-methods/vodafone_pay/)|`vodafone_pay`| 
+|![ecocash](https://static.openfintech.io/payment_methods/ecocash/icon.svg?w=278&c=v0.59.26#w100) |[ecocash](/payment-methods/ecocash/)|`ecocash`| 
+|![tigo_pesa](https://static.openfintech.io/payment_methods/tigo_pesa/icon.png?w=278&c=v0.59.26#w100) |[tigo_pesa](/payment-methods/tigo_pesa/)|`tigo_pesa`| 
+|![vodacom](https://static.openfintech.io/payment_methods/vodacom/icon.png?w=278&c=v0.59.26#w100) |[vodacom](/payment-methods/vodacom/)|`vodacom`| 
+|![orange_money](https://static.openfintech.io/payment_methods/orange_money/icon.svg?w=278&c=v0.59.26#w100) |[orange_money](/payment-methods/orange_money/)|`orange_money`| 
+|![zamtel](https://static.openfintech.io/payment_methods/zamtel/icon.png?w=278&c=v0.59.26#w100) |[zamtel](/payment-methods/zamtel/)|`zamtel`| 
  
 
 ## Payout Methods 
@@ -744,7 +756,19 @@ The list of supported [Payout Methods](/payout-methods/)
     "maya",
     "bank_transfer",
     "bank_transfer_va",
-    "bank_transfer_qr"
+    "bank_transfer_qr",
+    "mtn",
+    "safaricom",
+    "equitel",
+    "airteltigo",
+    "vodafone_cash",
+    "mtn_group",
+    "vodafone_pay",
+    "ecocash",
+    "tigo_pesa",
+    "vodacom",
+    "orange_money",
+    "zamtel"
   ],
   "payout_method":[
     "hdfc_bank",

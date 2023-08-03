@@ -42,6 +42,10 @@ The list of [Payment Services](/payment-services/) based on the _Airtel money_
 |![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money_kes_invoice](/payment-services/airtel_money_kes_invoice/)|`airtel_money_kes_invoice`| 
 |![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money_ugx_invoice](/payment-services/airtel_money_ugx_invoice/)|`airtel_money_ugx_invoice`| 
 |![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money_inr_hpp](/payment-services/airtel_money_inr_hpp/)|`airtel_money_inr_hpp`| 
+|![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money_ugx_hpp](/payment-services/airtel_money_ugx_hpp/)|`airtel_money_ugx_hpp`| 
+|![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money_kes_hpp](/payment-services/airtel_money_kes_hpp/)|`airtel_money_kes_hpp`| 
+|![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money_tzs_hpp](/payment-services/airtel_money_tzs_hpp/)|`airtel_money_tzs_hpp`| 
+|![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money_zmw_hpp](/payment-services/airtel_money_zmw_hpp/)|`airtel_money_zmw_hpp`| 
  
 
 ## Payment Providers 

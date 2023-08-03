@@ -1,13 +1,17 @@
 
-# AirtelTigo 
+# AT Ghana 
 ![airteltigo](https://static.openfintech.io/payment_methods/airteltigo/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `airteltigo` 
  
+**Vendor:** `airteltigo` [show -->](/vendors/airteltigo/) 
+ 
 **Name:** 
  
-:	[EN] AirtelTigo 
+:	[EN] AT Ghana 
+:	[RU] AT Ghana 
+:	[UK] AT Ghana 
  
 **Category:** `mobile_payment` 
  
@@ -28,19 +32,19 @@ https://static.openfintech.io/payment_methods/airteltigo/logo.png?w=400&c=v0.59.
 https://static.openfintech.io/payment_methods/airteltigo/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _AirtelTigo_ 
+The list of [Payment Services](/payment-services/) based on the _AT Ghana_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![airteltigo](https://static.openfintech.io/payout_methods/airteltigo/icon.svg?w=278&c=v0.59.26#w40) |[airteltigo_rwf](/payout-services/airteltigo_rwf/)|`airteltigo_rwf`| 
-|![airteltigo](https://static.openfintech.io/payout_methods/airteltigo/icon.svg?w=278&c=v0.59.26#w40) |[airteltigo_ghs](/payout-services/airteltigo_ghs/)|`airteltigo_ghs`| 
+|![airteltigo](https://static.openfintech.io/payment_methods/airteltigo/icon.png?w=278&c=v0.59.26#w100) |[airteltigo_rwf_hpp](/payment-services/airteltigo_rwf_hpp/)|`airteltigo_rwf_hpp`| 
+|![airteltigo](https://static.openfintech.io/payment_methods/airteltigo/icon.png?w=278&c=v0.59.26#w100) |[airteltigo_ghs_hpp](/payment-services/airteltigo_ghs_hpp/)|`airteltigo_ghs_hpp`| 
  
 
 ## Payment Providers 
  
-The list of [Payment Providers](/payment-providers/) that support the _AirtelTigo_ 
+The list of [Payment Providers](/payment-providers/) that support the _AT Ghana_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -52,9 +56,11 @@ The list of [Payment Providers](/payment-providers/) that support the _AirtelTig
 ```json
 {
   "code":"airteltigo",
-  "vendor":null,
+  "vendor":"airteltigo",
   "name":{
-    "en":"AirtelTigo"
+    "en":"AT Ghana",
+    "ru":"AT Ghana",
+    "uk":"AT Ghana"
   },
   "description":null,
   "countries":null,

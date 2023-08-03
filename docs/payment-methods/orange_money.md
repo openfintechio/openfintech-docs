@@ -5,9 +5,13 @@
 ## General 
 **Code:** `orange_money` 
  
+**Vendor:** `orange_money` [show -->](/vendors/orange_money/) 
+ 
 **Name:** 
  
 :	[EN] Orange Money 
+:	[RU] Orange Money 
+:	[UK] Orange Money 
  
 **Category:** `mobile_payment` 
  
@@ -28,13 +32,13 @@ https://static.openfintech.io/payment_methods/orange_money/logo.png?w=400&c=v0.5
 https://static.openfintech.io/payment_methods/orange_money/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _Orange Money_ 
+The list of [Payment Services](/payment-services/) based on the _Orange Money_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![orange_money](https://static.openfintech.io/payout_methods/orange_money/icon.png?w=278&c=v0.59.26#w40) |[orange_money_xaf](/payout-services/orange_money_xaf/)|`orange_money_xaf`| 
+|![orange_money](https://static.openfintech.io/payment_methods/orange_money/icon.svg?w=278&c=v0.59.26#w100) |[orange_money_xaf_hpp](/payment-services/orange_money_xaf_hpp/)|`orange_money_xaf_hpp`| 
  
 
 ## Payment Providers 
@@ -51,9 +55,11 @@ The list of [Payment Providers](/payment-providers/) that support the _Orange Mo
 ```json
 {
   "code":"orange_money",
-  "vendor":null,
+  "vendor":"orange_money",
   "name":{
-    "en":"Orange Money"
+    "en":"Orange Money",
+    "ru":"Orange Money",
+    "uk":"Orange Money"
   },
   "description":null,
   "countries":null,

@@ -5,9 +5,13 @@
 ## General 
 **Code:** `ecocash` 
  
+**Vendor:** `ecocash` [show -->](/vendors/ecocash/) 
+ 
 **Name:** 
  
 :	[EN] EcoCash 
+:	[RU] EcoCash 
+:	[UK] EcoCash 
  
 **Category:** `mobile_payment` 
  
@@ -28,13 +32,13 @@ https://static.openfintech.io/payment_methods/ecocash/logo.png?w=400&c=v0.59.26#
 https://static.openfintech.io/payment_methods/ecocash/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _EcoCash_ 
+The list of [Payment Services](/payment-services/) based on the _EcoCash_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ecocash](https://static.openfintech.io/payout_methods/ecocash/icon.png?w=278&c=v0.59.26#w40) |[ecocash_bif](/payout-services/ecocash_bif/)|`ecocash_bif`| 
+|![ecocash](https://static.openfintech.io/payment_methods/ecocash/icon.svg?w=278&c=v0.59.26#w100) |[ecocash_bif_hpp](/payment-services/ecocash_bif_hpp/)|`ecocash_bif_hpp`| 
  
 
 ## Payment Providers 
@@ -51,9 +55,11 @@ The list of [Payment Providers](/payment-providers/) that support the _EcoCash_
 ```json
 {
   "code":"ecocash",
-  "vendor":null,
+  "vendor":"ecocash",
   "name":{
-    "en":"EcoCash"
+    "en":"EcoCash",
+    "ru":"EcoCash",
+    "uk":"EcoCash"
   },
   "description":null,
   "countries":null,

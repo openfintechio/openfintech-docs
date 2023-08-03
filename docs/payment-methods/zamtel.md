@@ -5,9 +5,13 @@
 ## General 
 **Code:** `zamtel` 
  
+**Vendor:** `zamtel` [show -->](/vendors/zamtel/) 
+ 
 **Name:** 
  
 :	[EN] Zamtel 
+:	[RU] Zamtel 
+:	[UK] Zamtel 
  
 **Category:** `mobile_payment` 
  
@@ -28,13 +32,13 @@ https://static.openfintech.io/payment_methods/zamtel/logo.png?w=400&c=v0.59.26#w
 https://static.openfintech.io/payment_methods/zamtel/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _Zamtel_ 
+The list of [Payment Services](/payment-services/) based on the _Zamtel_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![zamtel](https://static.openfintech.io/payout_methods/zamtel/icon.png?w=278&c=v0.59.26#w40) |[zamtel_zmw](/payout-services/zamtel_zmw/)|`zamtel_zmw`| 
+|![zamtel](https://static.openfintech.io/payment_methods/zamtel/icon.png?w=278&c=v0.59.26#w100) |[zamtel_zmw_hpp](/payment-services/zamtel_zmw_hpp/)|`zamtel_zmw_hpp`| 
  
 
 ## Payment Providers 
@@ -51,9 +55,11 @@ The list of [Payment Providers](/payment-providers/) that support the _Zamtel_
 ```json
 {
   "code":"zamtel",
-  "vendor":null,
+  "vendor":"zamtel",
   "name":{
-    "en":"Zamtel"
+    "en":"Zamtel",
+    "ru":"Zamtel",
+    "uk":"Zamtel"
   },
   "description":null,
   "countries":null,
