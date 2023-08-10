@@ -216,6 +216,7 @@
 |![BitexPRO wallet](https://static.openfintech.io/payment_methods/bitexpro_wallet/logo.png?w=400&c=v0.59.26#w200) |[**BitexPRO wallet**](/payment-methods/bitexpro_wallet/)|[`bitexpro_wallet_usd_hpp`](bitexpro_wallet_usd_hpp/)| 
 |![BitexPRO wallet](https://static.openfintech.io/payment_methods/bitexpro_wallet/logo.png?w=400&c=v0.59.26#w200) |[**BitexPRO wallet**](/payment-methods/bitexpro_wallet/)|[`bitexpro_wallet_usdt_hpp`](bitexpro_wallet_usdt_hpp/)| 
 |![BitexPRO wallet](https://static.openfintech.io/payment_methods/bitexpro_wallet/logo.png?w=400&c=v0.59.26#w200) |[**BitexPRO wallet**](/payment-methods/bitexpro_wallet/)|[`bitexpro_wallet_znx_hpp`](bitexpro_wallet_znx_hpp/)| 
+|![Bkash Limited](https://static.openfintech.io/payment_methods/bkash_limited/logo.png?w=400&c=v0.59.26#w200) |[**Bkash Limited**](/payment-methods/bkash_limited/)|[`bkash_limited_bdt_hpp`](bkash_limited_bdt_hpp/)| 
 |![BLIK](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](/payment-methods/blik/)|[`blik_pln_hpp`](blik_pln_hpp/)| 
 |![Boleto Bancario](https://static.openfintech.io/payment_methods/boleto_bancario/logo.png?w=400&c=v0.59.26#w200) |[**Boleto Bancario**](/payment-methods/boleto_bancario/)|[`boleto_bancario_brl_hpp`](boleto_bancario_brl_hpp/)| 
 |![Boleto Bancario](https://static.openfintech.io/payment_methods/boleto_bancario/logo.png?w=400&c=v0.59.26#w200) |[**Boleto Bancario**](/payment-methods/boleto_bancario/)|[`boleto_bancario_clp_hpp`](boleto_bancario_clp_hpp/)| 
@@ -677,6 +678,7 @@
 |![Panin Bank](https://static.openfintech.io/payment_methods/panin_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Panin Bank**](/payment-methods/panin_bank/)|[`panin_bank_idr_hpp`](panin_bank_idr_hpp/)| 
 |![Papara](https://static.openfintech.io/payment_methods/papara/logo.svg?w=400&c=v0.59.26#w200) |[**Papara**](/payment-methods/papara/)|[`papara_try_hpp`](papara_try_hpp/)| 
 |![Parazula](https://static.openfintech.io/payment_methods/parazula/logo.png?w=400&c=v0.59.26#w200) |[**Parazula**](/payment-methods/parazula/)|[`parazula_try_hpp`](parazula_try_hpp/)| 
+|![Pay4Fun](https://static.openfintech.io/payment_methods/pay4fun/logo.png?w=400&c=v0.59.26#w200) |[**Pay4Fun**](/payment-methods/pay4fun/)|[`pay4fun_brl_hpp`](pay4fun_brl_hpp/)| 
 |![PayID](https://static.openfintech.io/payment_methods/pay_id/logo.svg?w=400&c=v0.59.26#w200) |[**PayID**](/payment-methods/pay_id/)|[`pay_id_aud_invoice`](pay_id_aud_invoice/)| 
 |![Payeer](https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&c=v0.59.26#w200) |[**Payeer**](/payment-methods/payeer/)|[`payeer_eur_hpp`](payeer_eur_hpp/)| 
 |![Payeer](https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&c=v0.59.26#w200) |[**Payeer**](/payment-methods/payeer/)|[`payeer_rub_hpp`](payeer_rub_hpp/)| 

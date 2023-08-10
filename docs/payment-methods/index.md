@@ -119,6 +119,7 @@
 |![bitcoin_cash](https://static.openfintech.io/payment_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w200) |[**Bitcoin Cash**](bitcoin_cash/)|`bitcoin_cash`| 
 |![bitexpro_p2p](https://static.openfintech.io/payment_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**BitexPRO P2P**](bitexpro_p2p/)|`bitexpro_p2p`| 
 |![bitexpro_wallet](https://static.openfintech.io/payment_methods/bitexpro_wallet/logo.png?w=400&c=v0.59.26#w200) |[**BitexPRO wallet**](bitexpro_wallet/)|`bitexpro_wallet`| 
+|![bkash_limited](https://static.openfintech.io/payment_methods/bkash_limited/logo.png?w=400&c=v0.59.26#w200) |[**Bkash Limited**](bkash_limited/)|`bkash_limited`| 
 |![bkmexpress](https://static.openfintech.io/payment_methods/bkmexpress/logo.png?w=400&c=v0.59.26#w200) |[**BKM Express**](bkmexpress/)|`bkmexpress`| 
 |![blik](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](blik/)|`blik`| 
 |![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/logo.png?w=400&c=v0.59.26#w200) |[**Boleto Bancario**](boleto_bancario/)|`boleto_bancario`| 
@@ -467,6 +468,7 @@
 |![papaya](https://static.openfintech.io/payment_methods/papaya/logo.png?w=400&c=v0.59.26#w200) |[**Papaya**](papaya/)|`papaya`| 
 |![papercheck](https://static.openfintech.io/payment_methods/papercheck/logo.png?w=400&c=v0.59.26#w200) |[**Paper Check**](papercheck/)|`papercheck`| 
 |![parazula](https://static.openfintech.io/payment_methods/parazula/logo.png?w=400&c=v0.59.26#w200) |[**Parazula**](parazula/)|`parazula`| 
+|![pay4fun](https://static.openfintech.io/payment_methods/pay4fun/logo.png?w=400&c=v0.59.26#w200) |[**Pay4Fun**](pay4fun/)|`pay4fun`| 
 |![pay_id](https://static.openfintech.io/payment_methods/pay_id/logo.svg?w=400&c=v0.59.26#w200) |[**PayID**](pay_id/)|`pay_id`| 
 |![paybybill](https://static.openfintech.io/payment_methods/paybybill/logo.png?w=400&c=v0.59.26#w200) |[**PayByBill**](paybybill/)|`paybybill`| 
 |![payd](https://static.openfintech.io/payment_methods/payd/logo.png?w=400&c=v0.59.26#w200) |[**payD**](payd/)|`payd`| 
