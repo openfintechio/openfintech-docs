@@ -25,8 +25,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`cpf_number`|✗|`string`|`/^[0-9\.\-]{1,14}$/`| 
-|`cnpj_number`|✗|`string`|`/^[0-9\.\-\/]{1,18}$/`| 
+|`cpf_number`|✗|`string`|`/^[0-9\.\-\/]{1,18}$/`| 
 |`phone`|✗|`string`|`/^\+\d{10,14}$/`| 
 |`email`|✗|`string`|`/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$$/`| 
 |`payer_first_name`|✗|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
@@ -41,7 +40,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9\.\-]{1,14}$/` 
+	Regexp: `/^[0-9\.\-\/]{1,18}$/` 
  
 	Required: `` 
  
@@ -55,25 +54,7 @@
 	: [RU] Введите CPF номер 
 	: [UK] Введіть CPF номер 
  
-2. **`cnpj_number`** 
- 
-	Type: `string` 
- 
-	Regexp: `/^[0-9\.\-\/]{1,18}$/` 
- 
-	Required: `` 
- 
-	Label:  
-	: [EN] CNPJ number 
-	: [RU] CNPJ номер 
-	: [UK] CNPJ номер 
- 
-	Hint:  
-	: [EN] Enter CNPJ number 
-	: [RU] Введите CNPJ номер 
-	: [UK] Введіть CNPJ номер 
- 
-3. **`phone`** 
+2. **`phone`** 
  
 	Type: `string` 
  
@@ -91,7 +72,7 @@
 	: [RU] Введите номер телефона 
 	: [UK] Введіть номер телефону 
  
-4. **`email`** 
+3. **`email`** 
  
 	Type: `string` 
  
@@ -109,7 +90,7 @@
 	: [RU] Введите email 
 	: [UK] Введіть email 
  
-5. **`payer_first_name`** 
+4. **`payer_first_name`** 
  
 	Type: `string` 
  
@@ -127,7 +108,7 @@
 	: [RU] Введите имя отправителя 
 	: [UK] Введіть імʼя відправника 
  
-6. **`payer_last_name`** 
+5. **`payer_last_name`** 
  
 	Type: `string` 
  
@@ -145,7 +126,7 @@
 	: [RU] Введите фамилию отправителя 
 	: [UK] Введіть прізвище відправника 
  
-7. **`payer_zip_code`** 
+6. **`payer_zip_code`** 
  
 	Type: `string` 
  
@@ -163,7 +144,7 @@
 	: [RU] Введите почтовый индекс плательщика 
 	: [UK] Введіть поштовий індекс платника 
  
-8. **`date_of_birth`** 
+7. **`date_of_birth`** 
  
 	Type: `string` 
  
@@ -194,7 +175,7 @@
     {
       "key":"cpf_number",
       "type":"string",
-      "regexp":"\/^[0-9\\.\\-]{1,14}$\/",
+      "regexp":"\/^[0-9\\.\\-\\\/]{1,18}$\/",
       "required":false,
       "position":1,
       "label":{
@@ -210,29 +191,11 @@
       "example":"12345678900"
     },
     {
-      "key":"cnpj_number",
-      "type":"string",
-      "regexp":"\/^[0-9\\.\\-\\\/]{1,18}$\/",
-      "required":false,
-      "position":2,
-      "label":{
-        "en":"CNPJ number",
-        "ru":"CNPJ \u043d\u043e\u043c\u0435\u0440",
-        "uk":"CNPJ \u043d\u043e\u043c\u0435\u0440"
-      },
-      "hint":{
-        "en":"Enter CNPJ number",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 CNPJ \u043d\u043e\u043c\u0435\u0440",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c CNPJ \u043d\u043e\u043c\u0435\u0440"
-      },
-      "example":"12.345.678\/0001-00"
-    },
-    {
       "key":"phone",
       "type":"string",
       "regexp":"\/^\\+\\d{10,14}$\/",
       "required":false,
-      "position":3,
+      "position":2,
       "example":"+255742044295",
       "label":{
         "en":"Phone number",
@@ -250,7 +213,7 @@
       "type":"string",
       "regexp":"\/^([a-z0-9_-]+\\.)*[a-z0-9_-]+@[a-z0-9_-]+(\\.[a-z0-9_-]+)*\\.[a-z]{2,6}$$\/",
       "required":false,
-      "position":4,
+      "position":3,
       "label":{
         "en":"Email",
         "ru":"Email",
@@ -267,7 +230,7 @@
       "type":"string",
       "regexp":"\/^[-\\s\\p{L}]{2,100}$\/u",
       "required":false,
-      "position":5,
+      "position":4,
       "label":{
         "en":"Payer first name",
         "ru":"\u0418\u043c\u044f \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
@@ -285,7 +248,7 @@
       "type":"string",
       "regexp":"\/^[-\\s\\p{L}]{2,100}$\/u",
       "required":false,
-      "position":6,
+      "position":5,
       "label":{
         "en":"Payer last name",
         "ru":"\u0424\u0430\u043c\u0438\u043b\u0438\u044f \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
@@ -303,7 +266,7 @@
       "type":"string",
       "regexp":"\/^\\d{8}$\/",
       "required":false,
-      "position":7,
+      "position":6,
       "label":{
         "en":"Payer zip code",
         "ru":"\u041f\u043e\u0447\u0442\u043e\u0432\u044b\u0439 \u0438\u043d\u0434\u0435\u043a\u0441 \u043f\u043b\u0430\u0442\u0435\u043b\u044c\u0449\u0438\u043a\u0430",
@@ -321,7 +284,7 @@
       "type":"string",
       "regexp":"\/^\\d{4}-\\d{2}-\\d{2}$\/",
       "required":false,
-      "position":8,
+      "position":7,
       "label":{
         "en":"Payer date of birth",
         "ru":"\u0414\u0430\u0442\u0430 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u043b\u044c\u0449\u0438\u043a\u0430",

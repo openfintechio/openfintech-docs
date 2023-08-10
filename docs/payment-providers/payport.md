@@ -72,6 +72,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![imps](https://static.openfintech.io/payout_methods/imps/icon.png?w=278&c=v0.59.26#w40) |[imps](payout-methodsimps/)|`imps`| 
 |![rtgs](https://static.openfintech.io/payout_methods/rtgs/icon.svg?w=278&c=v0.59.26#w40) |[rtgs](payout-methodsrtgs/)|`rtgs`| 
 |![phonepe](https://static.openfintech.io/payout_methods/phonepe/icon.svg?w=278&c=v0.59.26#w40) |[phonepe](payout-methodsphonepe/)|`phonepe`| 
+|![bkash_limited](https://static.openfintech.io/payout_methods/bkash_limited/icon.png?w=278&c=v0.59.26#w40) |[bkash_limited](payout-methodsbkash_limited/)|`bkash_limited`| 
  
 
 ## JSON Object 
@@ -110,7 +111,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "paytm",
     "imps",
     "rtgs",
-    "phonepe"
+    "phonepe",
+    "bkash_limited"
   ],
   "metadata":null,
   "name":{

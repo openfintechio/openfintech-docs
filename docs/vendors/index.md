@@ -1879,6 +1879,7 @@
 |![specializedprocessingsolutions](https://static.openfintech.io/vendors/specializedprocessingsolutions/logo.png?w=600&c=v0.59.26#w200) |[**Specialized Processing Solutions**](specializedprocessingsolutions/)|`specializedprocessingsolutions`| 
 |![spoynt](https://static.openfintech.io/vendors/spoynt/logo.svg?w=600&c=v0.59.26#w200) |[**Spoynt**](spoynt/)|`spoynt`| 
 |![spryng](https://static.openfintech.io/vendors/spryng/logo.png?w=600&c=v0.59.26#w200) |[**Spryng Payments**](spryng/)|`spryng`| 
+|![sqalapay](https://static.openfintech.io/vendors/sqalapay/logo.png?w=600&c=v0.59.26#w200) |[**Sqalapay**](sqalapay/)|`sqalapay`| 
 |![square](https://static.openfintech.io/vendors/square/logo.svg?w=600&c=v0.59.26#w200) |[**Square**](square/)|`square`| 
 |![standard_chartered_bank](https://static.openfintech.io/vendors/standard_chartered_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Standard Chartered Bank**](standard_chartered_bank/)|`standard_chartered_bank`| 
 |![start2pay](https://static.openfintech.io/vendors/start2pay/logo.png?w=600&c=v0.59.26#w200) |[**Start2Pay**](start2pay/)|`start2pay`| 

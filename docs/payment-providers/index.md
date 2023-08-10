@@ -787,6 +787,7 @@
 |![specializedprocessingsolutions](https://static.openfintech.io/payment_providers/specializedprocessingsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Specialized Processing Solutions**](specializedprocessingsolutions/)|`specializedprocessingsolutions`| 
 |![spoynt](https://static.openfintech.io/payment_providers/spoynt/logo.svg?w=600&c=v0.59.26#w100) |[**Spoynt**](spoynt/)|`spoynt`| 
 |![spryng](https://static.openfintech.io/payment_providers/spryng/logo.png?w=600&c=v0.59.26#w100) |[**Spryng Payments**](spryng/)|`spryng`| 
+|![sqalapay](https://static.openfintech.io/payment_providers/sqalapay/logo.png?w=600&c=v0.59.26#w100) |[**Sqalapay**](sqalapay/)|`sqalapay`| 
 |![square](https://static.openfintech.io/payment_providers/square/logo.svg?w=600&c=v0.59.26#w100) |[**Square**](square/)|`square`| 
 |![start2pay](https://static.openfintech.io/payment_providers/start2pay/logo.png?w=600&c=v0.59.26#w100) |[**Start2Pay**](start2pay/)|`start2pay`| 
 |![stepfourpay](https://static.openfintech.io/payment_providers/stepfourpay/logo.svg?w=600&c=v0.59.26#w100) |[**Step4Pay**](stepfourpay/)|`stepfourpay`| 
