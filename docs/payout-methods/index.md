@@ -261,6 +261,7 @@
 |![bitter-net-ternopil](https://static.openfintech.io/payout_methods/bitter-net-ternopil/logo.png?w=400&c=v0.59.26#w24) |[**BITTER.NET (Ternopil)**](bitter-net-ternopil/)|`bitter-net-ternopil`| 
 |![bitva-fermerov](https://static.openfintech.io/payout_methods/bitva-fermerov/logo.png?w=400&c=v0.59.26#w24) |[**Battle of the Farmers**](bitva-fermerov/)|`bitva-fermerov`| 
 |![bitva-titanov](https://static.openfintech.io/payout_methods/bitva-titanov/logo.png?w=400&c=v0.59.26#w24) |[**Clash of the Titans**](bitva-titanov/)|`bitva-titanov`| 
+|![bkash_limited](https://static.openfintech.io/payout_methods/bkash_limited/logo.png?w=400&c=v0.59.26#w24) |[**Bkash Limited**](bkash_limited/)|`bkash_limited`| 
 |![bkm-g-belaia-tserkov](https://static.openfintech.io/payout_methods/bkm-g-belaia-tserkov/logo.png?w=400&c=v0.59.26#w24) |[**BKM (Bila Tserkva)**](bkm-g-belaia-tserkov/)|`bkm-g-belaia-tserkov`| 
 |![blagodiinii-fond-oleksandriiskii](https://static.openfintech.io/payout_methods/blagodiinii-fond-oleksandriiskii/logo.png?w=400&c=v0.59.26#w24) |[**CHARITABLE FUND OF Alexandria**](blagodiinii-fond-oleksandriiskii/)|`blagodiinii-fond-oleksandriiskii`| 
 |![blizniukovskii-rem-ak-kharkivoblenergo](https://static.openfintech.io/payout_methods/blizniukovskii-rem-ak-kharkivoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Bliznyukovskogo RES AK 'Kharkovoblenergo'**](blizniukovskii-rem-ak-kharkivoblenergo/)|`blizniukovskii-rem-ak-kharkivoblenergo`| 
