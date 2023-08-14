@@ -228,6 +228,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![upi](https://static.openfintech.io/payout_methods/upi/icon.svg?w=278&c=v0.59.26#w40) |[upi](payout-methodsupi/)|`upi`| 
 |![upi_payout](https://static.openfintech.io/payout_methods/upi_payout/icon.svg?w=278&c=v0.59.26#w40) |[upi_payout](payout-methodsupi_payout/)|`upi_payout`| 
 |![sepa_transfer](https://static.openfintech.io/payout_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w40) |[sepa_transfer](payout-methodssepa_transfer/)|`sepa_transfer`| 
+|![virtual_bank_aggregated](https://static.openfintech.io/payout_methods/virtual_bank_aggregated/icon.svg?w=278&c=v0.59.26#w40) |[virtual_bank_aggregated](payout-methodsvirtual_bank_aggregated/)|`virtual_bank_aggregated`| 
  
 
 ## JSON Object 
@@ -422,7 +423,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "united_overseas_bank_indonesia",
     "upi",
     "upi_payout",
-    "sepa_transfer"
+    "sepa_transfer",
+    "virtual_bank_aggregated"
   ],
   "metadata":null,
   "name":{

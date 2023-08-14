@@ -2205,6 +2205,7 @@
 |![yapital](https://static.openfintech.io/vendors/yapital/logo.png?w=600&c=v0.59.26#w200) |[**Yapital**](yapital/)|`yapital`| 
 |![yapstone](https://static.openfintech.io/vendors/yapstone/logo.png?w=600&c=v0.59.26#w200) |[**YapStone**](yapstone/)|`yapstone`| 
 |![yeepay](https://static.openfintech.io/vendors/yeepay/logo.png?w=600&c=v0.59.26#w200) |[**YeePay**](yeepay/)|`yeepay`| 
+|![yelopay](https://static.openfintech.io/vendors/yelopay/logo.png?w=600&c=v0.59.26#w200) |[**YeloPay**](yelopay/)|`yelopay`| 
 |![yobit_net](https://static.openfintech.io/vendors/yobit_net/logo.svg?w=600&c=v0.59.26#w200) |[**yobit.net**](yobit_net/)|`yobit_net`| 
 |![yobitnet](https://static.openfintech.io/vendors/yobitnet/logo.svg?w=600&c=v0.59.26#w200) |[**yobit.net**](yobitnet/)|`yobitnet`| 
 |![yokohama_bank](https://static.openfintech.io/vendors/yokohama_bank/logo.svg?w=600&c=v0.59.26#w200) |[**The Bank of Yokohama**](yokohama_bank/)|`yokohama_bank`| 

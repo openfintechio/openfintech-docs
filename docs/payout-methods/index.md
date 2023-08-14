@@ -2923,6 +2923,7 @@
 |![viner-telekom](https://static.openfintech.io/payout_methods/viner-telekom/logo.png?w=400&c=v0.59.26#w24) |[**VINER TELECOM**](viner-telekom/)|`viner-telekom`| 
 |![vinnitsia-pat-vinnitsiaoblenergo-miski-em](https://static.openfintech.io/payout_methods/vinnitsia-pat-vinnitsiaoblenergo-miski-em/logo.png?w=400&c=v0.59.26#w24) |[**Vinnitsa PJSC 'Vinnitsaoblenergo' City EM**](vinnitsia-pat-vinnitsiaoblenergo-miski-em/)|`vinnitsia-pat-vinnitsiaoblenergo-miski-em`| 
 |![vinogradivskii-rem-zakarpattia-oe](https://static.openfintech.io/payout_methods/vinogradivskii-rem-zakarpattia-oe/logo.png?w=400&c=v0.59.26#w24) |[**Vinogradovsky Distribution Zone of Transcarpathia OE**](vinogradivskii-rem-zakarpattia-oe/)|`vinogradivskii-rem-zakarpattia-oe`| 
+|![virtual_bank_aggregated](https://static.openfintech.io/payout_methods/virtual_bank_aggregated/logo.svg?w=400&c=v0.59.26#w24) |[**Virtual Banking**](virtual_bank_aggregated/)|`virtual_bank_aggregated`| 
 |![virtualnaia-futbolnaia-liga](https://static.openfintech.io/payout_methods/virtualnaia-futbolnaia-liga/logo.png?w=400&c=v0.59.26#w24) |[**Virtual Football League**](virtualnaia-futbolnaia-liga/)|`virtualnaia-futbolnaia-liga`| 
 |![virtue_mfb](https://static.openfintech.io/payout_methods/virtue_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Virtue MFB**](virtue_mfb/)|`virtue_mfb`| 
 |![visa_mfb](https://static.openfintech.io/payout_methods/visa_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Visa MFB**](visa_mfb/)|`visa_mfb`| 

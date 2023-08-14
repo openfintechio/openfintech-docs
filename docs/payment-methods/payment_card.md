@@ -484,6 +484,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![freepayment](https://static.openfintech.io/payment_providers/freepayment/icon.png?w=278&c=v0.59.26#w100) |[FreePayment](/payment-providers/freepayment/)|`freepayment`| 
 |![thepaymentconsultant](https://static.openfintech.io/payment_providers/thepaymentconsultant/icon.svg?w=278&c=v0.59.26#w100) |[The Payment Consultant](/payment-providers/thepaymentconsultant/)|`thepaymentconsultant`| 
 |![triple000](https://static.openfintech.io/payment_providers/triple000/icon.png?w=278&c=v0.59.26#w100) |[Triple000](/payment-providers/triple000/)|`triple000`| 
+|![yelopay](https://static.openfintech.io/payment_providers/yelopay/icon.png?w=278&c=v0.59.26#w100) |[YeloPay](/payment-providers/yelopay/)|`yelopay`| 
  
 
 ## JSON Object 

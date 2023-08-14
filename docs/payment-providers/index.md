@@ -912,6 +912,7 @@
 |![yapital](https://static.openfintech.io/payment_providers/yapital/logo.png?w=600&c=v0.59.26#w100) |[**Yapital**](yapital/)|`yapital`| 
 |![yapstone](https://static.openfintech.io/payment_providers/yapstone/logo.png?w=600&c=v0.59.26#w100) |[**YapStone**](yapstone/)|`yapstone`| 
 |![yeepay](https://static.openfintech.io/payment_providers/yeepay/logo.png?w=600&c=v0.59.26#w100) |[**YeePay**](yeepay/)|`yeepay`| 
+|![yelopay](https://static.openfintech.io/payment_providers/yelopay/logo.png?w=600&c=v0.59.26#w100) |[**YeloPay**](yelopay/)|`yelopay`| 
 |![yourpay](https://static.openfintech.io/payment_providers/yourpay/logo.png?w=600&c=v0.59.26#w100) |[**YourPay**](yourpay/)|`yourpay`| 
 |![ypsilonpaymentsolutions](https://static.openfintech.io/payment_providers/ypsilonpaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Ypsilon Payment Solutions**](ypsilonpaymentsolutions/)|`ypsilonpaymentsolutions`| 
 |![yuupay](https://static.openfintech.io/payment_providers/yuupay/logo.png?w=600&c=v0.59.26#w100) |[**YuuPay **](yuupay/)|`yuupay`| 
