@@ -920,6 +920,7 @@
 |![zaakpay](https://static.openfintech.io/payment_providers/zaakpay/logo.png?w=600&c=v0.59.26#w100) |[**Zaakpay**](zaakpay/)|`zaakpay`| 
 |![zaypay](https://static.openfintech.io/payment_providers/zaypay/logo.png?w=600&c=v0.59.26#w100) |[**Zaypay**](zaypay/)|`zaypay`| 
 |![zchex](https://static.openfintech.io/payment_providers/zchex/logo.png?w=600&c=v0.59.26#w100) |[**ZCHEX**](zchex/)|`zchex`| 
+|![zenwallet](https://static.openfintech.io/payment_providers/zenwallet/logo.svg?w=600&c=v0.59.26#w100) |[**Zen Wallet**](zenwallet/)|`zenwallet`| 
 |![zepto](https://static.openfintech.io/payment_providers/zepto/logo.svg?w=600&c=v0.59.26#w100) |[**Zepto**](zepto/)|`zepto`| 
 |![zombaio](https://static.openfintech.io/payment_providers/zombaio/logo.png?w=600&c=v0.59.26#w100) |[**Zombaio**](zombaio/)|`zombaio`| 
 |![zong](https://static.openfintech.io/payment_providers/zong/logo.png?w=600&c=v0.59.26#w100) |[**Zong**](zong/)|`zong`| 

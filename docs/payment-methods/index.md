@@ -753,6 +753,7 @@
 |![zamtel](https://static.openfintech.io/payment_methods/zamtel/logo.png?w=400&c=v0.59.26#w200) |[**Zamtel**](zamtel/)|`zamtel`| 
 |![zantel_ezypesa](https://static.openfintech.io/payment_methods/zantel_ezypesa/logo.png?w=400&c=v0.59.26#w200) |[**Zantel ezypesa**](zantel_ezypesa/)|`zantel_ezypesa`| 
 |![zapp](https://static.openfintech.io/payment_methods/zapp/logo.png?w=400&c=v0.59.26#w200) |[**Zapp**](zapp/)|`zapp`| 
+|![zen_wallet](https://static.openfintech.io/payment_methods/zen_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**Zen wallet**](zen_wallet/)|`zen_wallet`| 
 |![zimpler](https://static.openfintech.io/payment_methods/zimpler/logo.png?w=400&c=v0.59.26#w200) |[**Zimpler**](zimpler/)|`zimpler`| 
 |![zipmark](https://static.openfintech.io/payment_methods/zipmark/logo.png?w=400&c=v0.59.26#w200) |[**Zipmark**](zipmark/)|`zipmark`| 
  

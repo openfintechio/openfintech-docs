@@ -2229,6 +2229,7 @@
 |![zapp](https://static.openfintech.io/vendors/zapp/logo.png?w=600&c=v0.59.26#w200) |[**Zapp**](zapp/)|`zapp`| 
 |![zaypay](https://static.openfintech.io/vendors/zaypay/logo.png?w=600&c=v0.59.26#w200) |[**Zaypay**](zaypay/)|`zaypay`| 
 |![zchex](https://static.openfintech.io/vendors/zchex/logo.png?w=600&c=v0.59.26#w200) |[**ZCHEX**](zchex/)|`zchex`| 
+|![zenwallet](https://static.openfintech.io/vendors/zenwallet/logo.svg?w=600&c=v0.59.26#w200) |[**Zen Wallet**](zenwallet/)|`zenwallet`| 
 |![zepto](https://static.openfintech.io/vendors/zepto/logo.svg?w=600&c=v0.59.26#w200) |[**Zepto**](zepto/)|`zepto`| 
 |![zhilstrojsberbank](https://static.openfintech.io/vendors/zhilstrojsberbank/logo.svg?w=600&c=v0.59.26#w200) |[**Жилстройсбербанк**](zhilstrojsberbank/)|`zhilstrojsberbank`| 
 |![zhitomir_ru_pat_kbprivatbankm_zhitomir](https://static.openfintech.io/vendors/zhitomir_ru_pat_kbprivatbankm_zhitomir/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ 'ЖИТОМИРСЬКЕ РЕГІОНАЛЬНЕ УПРАВЛІННЯ' ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](zhitomir_ru_pat_kbprivatbankm_zhitomir/)|`zhitomir_ru_pat_kbprivatbankm_zhitomir`| 
