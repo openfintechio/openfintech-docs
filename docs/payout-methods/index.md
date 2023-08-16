@@ -1667,6 +1667,7 @@
 |![pautina-net](https://static.openfintech.io/payout_methods/pautina-net/logo.png?w=400&c=v0.59.26#w24) |[**Web.Net**](pautina-net/)|`pautina-net`| 
 |![pavlogradski-mem-tsok-pavlogradskogo-r-nu](https://static.openfintech.io/payout_methods/pavlogradski-mem-tsok-pavlogradskogo-r-nu/logo.png?w=400&c=v0.59.26#w24) |[**Pavlograd MES (CSC Pavlograd district)**](pavlogradski-mem-tsok-pavlogradskogo-r-nu/)|`pavlogradski-mem-tsok-pavlogradskogo-r-nu`| 
 |![pavlogradski-rem-tsok-pavlogradskogo-r-nu](https://static.openfintech.io/payout_methods/pavlogradski-rem-tsok-pavlogradskogo-r-nu/logo.png?w=400&c=v0.59.26#w24) |[**Pavlograd RES (CSC Pavlograd district)**](pavlogradski-rem-tsok-pavlogradskogo-r-nu/)|`pavlogradski-rem-tsok-pavlogradskogo-r-nu`| 
+|![pay4fun](https://static.openfintech.io/payout_methods/pay4fun/logo.png?w=400&c=v0.59.26#w24) |[**Pay4Fun**](pay4fun/)|`pay4fun`| 
 |![pay_maya](https://static.openfintech.io/payout_methods/pay_maya/logo.png?w=400&c=v0.59.26#w24) |[**Maya Philippines**](pay_maya/)|`pay_maya`| 
 |![payattitude_online](https://static.openfintech.io/payout_methods/payattitude_online/logo.svg?w=400&c=v0.59.26#w24) |[**Payattitude Online**](payattitude_online/)|`payattitude_online`| 
 |![paybox](https://static.openfintech.io/payout_methods/paybox/logo.svg?w=400&c=v0.59.26#w24) |[**Paybox**](paybox/)|`paybox`| 
@@ -3034,6 +3035,7 @@
 |![zantel_ezypesa](https://static.openfintech.io/payout_methods/zantel_ezypesa/logo.png?w=400&c=v0.59.26#w24) |[**Zantel ezy Pesa**](zantel_ezypesa/)|`zantel_ezypesa`| 
 |![zastava-net](https://static.openfintech.io/payout_methods/zastava-net/logo.png?w=400&c=v0.59.26#w24) |[**Zastava.Net**](zastava-net/)|`zastava-net`| 
 |![zbarazh-tov-ternopiloblgaz](https://static.openfintech.io/payout_methods/zbarazh-tov-ternopiloblgaz/logo.svg?w=400&c=v0.59.26#w24) |[**Збараж ТОВ "Тернопільоблгаз"**](zbarazh-tov-ternopiloblgaz/)|`zbarazh-tov-ternopiloblgaz`| 
+|![zen_wallet](https://static.openfintech.io/payout_methods/zen_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**Zen wallet**](zen_wallet/)|`zen_wallet`| 
 |![zenit-internet-kurakhovo](https://static.openfintech.io/payout_methods/zenit-internet-kurakhovo/logo.png?w=400&c=v0.59.26#w24) |[**ZENIT - the Internet (Kurakhovo)**](zenit-internet-kurakhovo/)|`zenit-internet-kurakhovo`| 
 |![zenit-televidenie-kurakhovo](https://static.openfintech.io/payout_methods/zenit-televidenie-kurakhovo/logo.png?w=400&c=v0.59.26#w24) |[**ZENIT - Television (Kurakhovo)**](zenit-televidenie-kurakhovo/)|`zenit-televidenie-kurakhovo`| 
 |![zenith_bank](https://static.openfintech.io/payout_methods/zenith_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Zenith Bank**](zenith_bank/)|`zenith_bank`| 

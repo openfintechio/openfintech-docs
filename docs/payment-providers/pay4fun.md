@@ -42,6 +42,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |![pay4fun](https://static.openfintech.io/payment_methods/pay4fun/icon.png?w=278&c=v0.59.26#w100) |[pay4fun](/payment-methods/pay4fun/)|`pay4fun`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![pay4fun](https://static.openfintech.io/payout_methods/pay4fun/icon.png?w=278&c=v0.59.26#w40) |[pay4fun](payout-methodspay4fun/)|`pay4fun`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -54,7 +63,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payment_method":[
     "pay4fun"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "pay4fun"
+  ],
   "metadata":null,
   "name":{
     "en":"Pay4fun",

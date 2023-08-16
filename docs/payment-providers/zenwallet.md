@@ -42,6 +42,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |![zen_wallet](https://static.openfintech.io/payment_methods/zen_wallet/icon.svg?w=278&c=v0.59.26#w100) |[zen_wallet](/payment-methods/zen_wallet/)|`zen_wallet`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![zen_wallet](https://static.openfintech.io/payout_methods/zen_wallet/icon.svg?w=278&c=v0.59.26#w40) |[zen_wallet](payout-methodszen_wallet/)|`zen_wallet`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -54,7 +63,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payment_method":[
     "zen_wallet"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "zen_wallet"
+  ],
   "metadata":null,
   "name":{
     "en":"Zen Wallet",

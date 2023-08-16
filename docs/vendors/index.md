@@ -1292,6 +1292,7 @@
 |![onecard](https://static.openfintech.io/vendors/onecard/logo.png?w=600&c=v0.59.26#w200) |[**OneCard**](onecard/)|`onecard`| 
 |![onepay](https://static.openfintech.io/vendors/onepay/logo.png?w=600&c=v0.59.26#w200) |[**OnePAY**](onepay/)|`onepay`| 
 |![onestopmoneymanager](https://static.openfintech.io/vendors/onestopmoneymanager/logo.png?w=600&c=v0.59.26#w200) |[**Onestopmoneymanager Ltd**](onestopmoneymanager/)|`onestopmoneymanager`| 
+|![onevision](https://static.openfintech.io/vendors/onevision/logo.png?w=600&c=v0.59.26#w200) |[**Onevision**](onevision/)|`onevision`| 
 |![onlinebanktransfer](https://static.openfintech.io/vendors/onlinebanktransfer/logo.svg?w=600&c=v0.59.26#w200) |[**Online Bank Transfer**](onlinebanktransfer/)|`onlinebanktransfer`| 
 |![onlinechange](https://static.openfintech.io/vendors/onlinechange/logo.svg?w=600&c=v0.59.26#w200) |[**OnlineChange**](onlinechange/)|`onlinechange`| 
 |![onlineips](https://static.openfintech.io/vendors/onlineips/logo.png?w=600&c=v0.59.26#w200) |[**Online IPS**](onlineips/)|`onlineips`| 
