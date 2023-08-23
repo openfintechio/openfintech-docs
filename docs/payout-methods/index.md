@@ -454,6 +454,7 @@
 |![drakony](https://static.openfintech.io/payout_methods/drakony/logo.png?w=400&c=v0.59.26#w24) |[**Dragons**](drakony/)|`drakony`| 
 |![druzhkovskii-res](https://static.openfintech.io/payout_methods/druzhkovskii-res/logo.png?w=400&c=v0.59.26#w24) |[**Druzhkovsky RES**](druzhkovskii-res/)|`druzhkovskii-res`| 
 |![dts-dnipropetrovska](https://static.openfintech.io/payout_methods/dts-dnipropetrovska/logo.svg?w=400&c=v0.59.26#w24) |[**DTS(Дніпропетровська)**](dts-dnipropetrovska/)|`dts-dnipropetrovska`| 
+|![dutch_bangla_bank_limited_rocket](https://static.openfintech.io/payout_methods/dutch_bangla_bank_limited_rocket/logo.svg?w=400&c=v0.59.26#w24) |[**Dutch-Bangla Bank Rocket**](dutch_bangla_bank_limited_rocket/)|`dutch_bangla_bank_limited_rocket`| 
 |![dvorichanskii-rem-ak-kharkivoblenergo](https://static.openfintech.io/payout_methods/dvorichanskii-rem-ak-kharkivoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Dvurechensky RES AK 'Kharkivoblenergo'**](dvorichanskii-rem-ak-kharkivoblenergo/)|`dvorichanskii-rem-ak-kharkivoblenergo`| 
 |![dvorichanskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018](https://static.openfintech.io/payout_methods/dvorichanskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Дворічанський РЕМ АК "Харківобленерго" (за послуги до 31.12.2018)**](dvorichanskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|`dvorichanskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018`| 
 |![dzerzhinskii-res](https://static.openfintech.io/payout_methods/dzerzhinskii-res/logo.png?w=400&c=v0.59.26#w24) |[**Dzerzhinsky RES**](dzerzhinskii-res/)|`dzerzhinskii-res`| 
@@ -1196,6 +1197,7 @@
 || **N** ||
 |![n-line-kiev](https://static.openfintech.io/payout_methods/n-line-kiev/logo.png?w=400&c=v0.59.26#w24) |[**N-Line (Kiev)**](n-line-kiev/)|`n-line-kiev`| 
 |![naemniki](https://static.openfintech.io/payout_methods/naemniki/logo.png?w=400&c=v0.59.26#w24) |[**Mercenaries**](naemniki/)|`naemniki`| 
+|![nagad_wallet](https://static.openfintech.io/payout_methods/nagad_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**Nagad Digital Financial Service**](nagad_wallet/)|`nagad_wallet`| 
 |![nagano_bank](https://static.openfintech.io/payout_methods/nagano_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Nagano Bank**](nagano_bank/)|`nagano_bank`| 
 |![nagasaki_bank](https://static.openfintech.io/payout_methods/nagasaki_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Nagasaki Bank**](nagasaki_bank/)|`nagasaki_bank`| 
 |![nagoya_bank](https://static.openfintech.io/payout_methods/nagoya_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Nagoya Bank**](nagoya_bank/)|`nagoya_bank`| 
@@ -2844,6 +2846,7 @@
 |![union_bank_of_india](https://static.openfintech.io/payout_methods/union_bank_of_india/logo.svg?w=400&c=v0.59.26#w24) |[**Union Bank Of India**](union_bank_of_india/)|`union_bank_of_india`| 
 |![union_bankof_nigeria](https://static.openfintech.io/payout_methods/union_bankof_nigeria/logo.svg?w=400&c=v0.59.26#w24) |[**Union Bank of Nigeria**](union_bankof_nigeria/)|`union_bankof_nigeria`| 
 |![united_bankfor_africa](https://static.openfintech.io/payout_methods/united_bankfor_africa/logo.svg?w=400&c=v0.59.26#w24) |[**United Bank of Africa**](united_bankfor_africa/)|`united_bankfor_africa`| 
+|![united_commercial_bank_upay](https://static.openfintech.io/payout_methods/united_commercial_bank_upay/logo.svg?w=400&c=v0.59.26#w24) |[**United Commercial Bank Upay**](united_commercial_bank_upay/)|`united_commercial_bank_upay`| 
 |![united_overseas_bank](https://static.openfintech.io/payout_methods/united_overseas_bank/logo.svg?w=400&c=v0.59.26#w24) |[**United Overseas Bank**](united_overseas_bank/)|`united_overseas_bank`| 
 |![united_overseas_bank_berhad](https://static.openfintech.io/payout_methods/united_overseas_bank_berhad/logo.svg?w=400&c=v0.59.26#w24) |[**United Overseas Bank Malaysia**](united_overseas_bank_berhad/)|`united_overseas_bank_berhad`| 
 |![united_overseas_bank_indonesia](https://static.openfintech.io/payout_methods/united_overseas_bank_indonesia/logo.svg?w=400&c=v0.59.26#w24) |[**United Overseas Bank Indonesia**](united_overseas_bank_indonesia/)|`united_overseas_bank_indonesia`| 

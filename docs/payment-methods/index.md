@@ -212,6 +212,7 @@
 |![dong_a_bank](https://static.openfintech.io/payment_methods/dong_a_bank/logo.png?w=400&c=v0.59.26#w200) |[**Dong A Bank**](dong_a_bank/)|`dong_a_bank`| 
 |![dong_a_bank_qr](https://static.openfintech.io/payment_methods/dong_a_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Dong A Bank Qr**](dong_a_bank_qr/)|`dong_a_bank_qr`| 
 |![duitnow](https://static.openfintech.io/payment_methods/duitnow/logo.png?w=400&c=v0.59.26#w200) |[**DuitNow**](duitnow/)|`duitnow`| 
+|![dutch_bangla_bank_limited_rocket](https://static.openfintech.io/payment_methods/dutch_bangla_bank_limited_rocket/logo.png?w=400&c=v0.59.26#w200) |[**Dutch-Bangla Bank Rocket**](dutch_bangla_bank_limited_rocket/)|`dutch_bangla_bank_limited_rocket`| 
 |![dwolla](https://static.openfintech.io/payment_methods/dwolla/logo.svg?w=400&c=v0.59.26#w200) |[**Dwolla**](dwolla/)|`dwolla`| 
 || **E** ||
 |![easypaisa](https://static.openfintech.io/payment_methods/easypaisa/logo.svg?w=400&c=v0.59.26#w200) |[**Easypaisa**](easypaisa/)|`easypaisa`| 
@@ -421,6 +422,7 @@
 |![mybank2](https://static.openfintech.io/payment_methods/mybank2/logo.png?w=400&c=v0.59.26#w200) |[**MyBank**](mybank2/)|`mybank2`| 
 |![mypaywizard](https://static.openfintech.io/payment_methods/mypaywizard/logo.png?w=400&c=v0.59.26#w200) |[**MyPayWizard**](mypaywizard/)|`mypaywizard`| 
 || **N** ||
+|![nagad_wallet](https://static.openfintech.io/payment_methods/nagad_wallet/logo.png?w=400&c=v0.59.26#w200) |[**Nagad Digital Financial Service**](nagad_wallet/)|`nagad_wallet`| 
 |![nam_a_bank](https://static.openfintech.io/payment_methods/nam_a_bank/logo.png?w=400&c=v0.59.26#w200) |[**Nam A Commercial Joint Stock Bank**](nam_a_bank/)|`nam_a_bank`| 
 |![national_australia_bank](https://static.openfintech.io/payment_methods/national_australia_bank/logo.svg?w=400&c=v0.59.26#w200) |[**National Australia Bank**](national_australia_bank/)|`national_australia_bank`| 
 |![ncb_bank](https://static.openfintech.io/payment_methods/ncb_bank/logo.png?w=400&c=v0.59.26#w200) |[**National Citizen Commercial Joint Stock Bank**](ncb_bank/)|`ncb_bank`| 
@@ -678,6 +680,7 @@
 |![unionpay_qr](https://static.openfintech.io/payment_methods/unionpay_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Unionpay_QR**](unionpay_qr/)|`unionpay_qr`| 
 |![unistream](https://static.openfintech.io/payment_methods/unistream/logo.png?w=400&c=v0.59.26#w200) |[**Unistream**](unistream/)|`unistream`| 
 |![united_bank_of_india](https://static.openfintech.io/payment_methods/united_bank_of_india/logo.svg?w=400&c=v0.59.26#w200) |[**United Bank Of India**](united_bank_of_india/)|`united_bank_of_india`| 
+|![united_commercial_bank_upay](https://static.openfintech.io/payment_methods/united_commercial_bank_upay/logo.png?w=400&c=v0.59.26#w200) |[**United Commercial Bank Upay**](united_commercial_bank_upay/)|`united_commercial_bank_upay`| 
 |![united_overseas_bank_berhad](https://static.openfintech.io/payment_methods/united_overseas_bank_berhad/logo.svg?w=400&c=v0.59.26#w200) |[**United Overseas Bank Malaysia**](united_overseas_bank_berhad/)|`united_overseas_bank_berhad`| 
 |![united_overseas_bank_berhad_qr](https://static.openfintech.io/payment_methods/united_overseas_bank_berhad_qr/logo.svg?w=400&c=v0.59.26#w200) |[**United Overseas Bank Malaysia Qr**](united_overseas_bank_berhad_qr/)|`united_overseas_bank_berhad_qr`| 
 |![united_overseas_bank_indonesia](https://static.openfintech.io/payment_methods/united_overseas_bank_indonesia/logo.svg?w=400&c=v0.59.26#w200) |[**United Overseas Bank Indonesia**](united_overseas_bank_indonesia/)|`united_overseas_bank_indonesia`| 

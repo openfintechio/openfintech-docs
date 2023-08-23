@@ -62,6 +62,10 @@ The list of supported [Payment Methods](/payment-methods/)
 |![easypaisa](https://static.openfintech.io/payment_methods/easypaisa/icon.svg?w=278&c=v0.59.26#w100) |[easypaisa](/payment-methods/easypaisa/)|`easypaisa`| 
 |![philippines_va](https://static.openfintech.io/payment_methods/philippines_va/icon.svg?w=278&c=v0.59.26#w100) |[philippines_va](/payment-methods/philippines_va/)|`philippines_va`| 
 |![vodafone_mpesa](https://static.openfintech.io/payment_methods/vodafone_mpesa/icon.png?w=278&c=v0.59.26#w100) |[vodafone_mpesa](/payment-methods/vodafone_mpesa/)|`vodafone_mpesa`| 
+|![dutch_bangla_bank_limited_rocket](https://static.openfintech.io/payment_methods/dutch_bangla_bank_limited_rocket/icon.svg?w=278&c=v0.59.26#w100) |[dutch_bangla_bank_limited_rocket](/payment-methods/dutch_bangla_bank_limited_rocket/)|`dutch_bangla_bank_limited_rocket`| 
+|![united_commercial_bank_upay](https://static.openfintech.io/payment_methods/united_commercial_bank_upay/icon.png?w=278&c=v0.59.26#w100) |[united_commercial_bank_upay](/payment-methods/united_commercial_bank_upay/)|`united_commercial_bank_upay`| 
+|![bkash_limited](https://static.openfintech.io/payment_methods/bkash_limited/icon.png?w=278&c=v0.59.26#w100) |[bkash_limited](/payment-methods/bkash_limited/)|`bkash_limited`| 
+|![nagad_wallet](https://static.openfintech.io/payment_methods/nagad_wallet/icon.svg?w=278&c=v0.59.26#w100) |[nagad_wallet](/payment-methods/nagad_wallet/)|`nagad_wallet`| 
  
 
 ## Payout Methods 
@@ -152,6 +156,10 @@ The list of supported [Payout Methods](/payout-methods/)
 |![easypaisa](https://static.openfintech.io/payout_methods/easypaisa/icon.png?w=278&c=v0.59.26#w40) |[easypaisa](payout-methodseasypaisa/)|`easypaisa`| 
 |![vodafone_mpesa](https://static.openfintech.io/payout_methods/vodafone_mpesa/icon.png?w=278&c=v0.59.26#w40) |[vodafone_mpesa](payout-methodsvodafone_mpesa/)|`vodafone_mpesa`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
+|![dutch_bangla_bank_limited_rocket](https://static.openfintech.io/payout_methods/dutch_bangla_bank_limited_rocket/icon.svg?w=278&c=v0.59.26#w40) |[dutch_bangla_bank_limited_rocket](payout-methodsdutch_bangla_bank_limited_rocket/)|`dutch_bangla_bank_limited_rocket`| 
+|![united_commercial_bank_upay](https://static.openfintech.io/payout_methods/united_commercial_bank_upay/icon.svg?w=278&c=v0.59.26#w40) |[united_commercial_bank_upay](payout-methodsunited_commercial_bank_upay/)|`united_commercial_bank_upay`| 
+|![bkash_limited](https://static.openfintech.io/payout_methods/bkash_limited/icon.png?w=278&c=v0.59.26#w40) |[bkash_limited](payout-methodsbkash_limited/)|`bkash_limited`| 
+|![nagad_wallet](https://static.openfintech.io/payout_methods/nagad_wallet/icon.svg?w=278&c=v0.59.26#w40) |[nagad_wallet](payout-methodsnagad_wallet/)|`nagad_wallet`| 
  
 
 ## JSON Object 
@@ -186,7 +194,11 @@ The list of supported [Payout Methods](/payout-methods/)
     "jazzcash",
     "easypaisa",
     "philippines_va",
-    "vodafone_mpesa"
+    "vodafone_mpesa",
+    "dutch_bangla_bank_limited_rocket",
+    "united_commercial_bank_upay",
+    "bkash_limited",
+    "nagad_wallet"
   ],
   "payout_method":[
     "payment_card",
@@ -270,7 +282,11 @@ The list of supported [Payout Methods](/payout-methods/)
     "jazzcash",
     "easypaisa",
     "vodafone_mpesa",
-    "bank_transfer"
+    "bank_transfer",
+    "dutch_bangla_bank_limited_rocket",
+    "united_commercial_bank_upay",
+    "bkash_limited",
+    "nagad_wallet"
   ],
   "metadata":null,
   "name":{
