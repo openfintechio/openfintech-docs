@@ -100,6 +100,7 @@
 |![alipay](https://static.openfintech.io/vendors/alipay/logo.svg?w=600&c=v0.59.26#w200) |[**Alipay.com**](alipay/)|`alipay`| 
 |![aliumpay](https://static.openfintech.io/vendors/aliumpay/logo.svg?w=600&c=v0.59.26#w200) |[**AliumPay**](aliumpay/)|`aliumpay`| 
 |![allchargecom](https://static.openfintech.io/vendors/allchargecom/logo.png?w=600&c=v0.59.26#w200) |[**AllCharge.com**](allchargecom/)|`allchargecom`| 
+|![alliancepay](https://static.openfintech.io/vendors/alliancepay/logo.svg?w=600&c=v0.59.26#w200) |[**AlliancePay**](alliancepay/)|`alliancepay`| 
 |![alliedwallet2](https://static.openfintech.io/vendors/alliedwallet2/logo.png?w=600&c=v0.59.26#w200) |[**Allied Wallet**](alliedwallet2/)|`alliedwallet2`| 
 |![allpago](https://static.openfintech.io/vendors/allpago/logo.png?w=600&c=v0.59.26#w200) |[**allpago - accept payments in Latin America**](allpago/)|`allpago`| 
 |![alphapay24](https://static.openfintech.io/vendors/alphapay24/logo.svg?w=600&c=v0.59.26#w200) |[**Alphapay24**](alphapay24/)|`alphapay24`| 
@@ -2018,6 +2019,7 @@
 |![tsukuba_bank](https://static.openfintech.io/vendors/tsukuba_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Tsukuba Bank**](tsukuba_bank/)|`tsukuba_bank`| 
 |![twelvelive](https://static.openfintech.io/vendors/twelvelive/logo.svg?w=600&c=v0.59.26#w200) |[**Twelve**](twelvelive/)|`twelvelive`| 
 |![twoclick](https://static.openfintech.io/vendors/twoclick/logo.png?w=600&c=v0.59.26#w200) |[**2click**](twoclick/)|`twoclick`| 
+|![twopayler](https://static.openfintech.io/vendors/twopayler/logo.svg?w=600&c=v0.59.26#w200) |[**2PayLer**](twopayler/)|`twopayler`| 
 |![txtnation](https://static.openfintech.io/vendors/txtnation/logo.png?w=600&c=v0.59.26#w200) |[**txtNation**](txtnation/)|`txtnation`| 
 |![tzb](https://static.openfintech.io/vendors/tzb/logo.svg?w=600&c=v0.59.26#w200) |[**Bank of Tanzania**](tzb/)|`tzb`| 
 || **U** ||

@@ -43,6 +43,7 @@
 |![alikassa](https://static.openfintech.io/payment_providers/alikassa/logo.svg?w=600&c=v0.59.26#w100) |[**AliKassa**](alikassa/)|`alikassa`| 
 |![aliumpay](https://static.openfintech.io/payment_providers/aliumpay/logo.svg?w=600&c=v0.59.26#w100) |[**AliumPay**](aliumpay/)|`aliumpay`| 
 |![allchargecom](https://static.openfintech.io/payment_providers/allchargecom/logo.png?w=600&c=v0.59.26#w100) |[**AllCharge.com**](allchargecom/)|`allchargecom`| 
+|![alliancepay](https://static.openfintech.io/payment_providers/alliancepay/logo.svg?w=600&c=v0.59.26#w100) |[**AlliancePay**](alliancepay/)|`alliancepay`| 
 |![alliedwallet2](https://static.openfintech.io/payment_providers/alliedwallet2/logo.png?w=600&c=v0.59.26#w100) |[**Allied Wallet**](alliedwallet2/)|`alliedwallet2`| 
 |![allpago](https://static.openfintech.io/payment_providers/allpago/logo.png?w=600&c=v0.59.26#w100) |[**allpago - accept payments in Latin America**](allpago/)|`allpago`| 
 |![alphapaymentscloud](https://static.openfintech.io/payment_providers/alphapaymentscloud/logo.svg?w=600&c=v0.59.26#w100) |[**Alpha Payments Cloud**](alphapaymentscloud/)|`alphapaymentscloud`| 
@@ -840,6 +841,7 @@
 |![trustpayments](https://static.openfintech.io/payment_providers/trustpayments/logo.svg?w=600&c=v0.59.26#w100) |[**Trust Payments**](trustpayments/)|`trustpayments`| 
 |![twelvelive](https://static.openfintech.io/payment_providers/twelvelive/logo.svg?w=600&c=v0.59.26#w100) |[**Twelve**](twelvelive/)|`twelvelive`| 
 |![twoclick](https://static.openfintech.io/payment_providers/twoclick/logo.png?w=600&c=v0.59.26#w100) |[**2click**](twoclick/)|`twoclick`| 
+|![twopayler](https://static.openfintech.io/payment_providers/twopayler/logo.svg?w=600&c=v0.59.26#w100) |[**2PayLer**](twopayler/)|`twopayler`| 
 |![txtnation](https://static.openfintech.io/payment_providers/txtnation/logo.png?w=600&c=v0.59.26#w100) |[**txtNation**](txtnation/)|`txtnation`| 
 || **U** ||
 |![uapay](https://static.openfintech.io/payment_providers/uapay/logo.svg?w=600&c=v0.59.26#w100) |[**UApay**](uapay/)|`uapay`| 
