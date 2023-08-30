@@ -239,6 +239,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
 |![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
 |![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.png?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
+|![ccbill](https://static.openfintech.io/payment_providers/ccbill/icon.png?w=278&c=v0.59.26#w100) |[CCBill](/payment-providers/ccbill/)|`ccbill`| 
 |![emerchantpay](https://static.openfintech.io/payment_providers/emerchantpay/icon.svg?w=278&c=v0.59.26#w100) |[EmerchantPay](/payment-providers/emerchantpay/)|`emerchantpay`| 
 |![cybersource](https://static.openfintech.io/payment_providers/cybersource/icon.svg?w=278&c=v0.59.26#w100) |[CyberSource](/payment-providers/cybersource/)|`cybersource`| 
 |![fibonatix](https://static.openfintech.io/payment_providers/fibonatix/icon.png?w=278&c=v0.59.26#w100) |[Fibonatix](/payment-providers/fibonatix/)|`fibonatix`| 
