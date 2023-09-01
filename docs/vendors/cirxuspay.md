@@ -1,5 +1,5 @@
 
-# CirxusPay 
+# Cirxus Pay 
 ![cirxuspay](https://static.openfintech.io/vendors/cirxuspay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] CirxusPay 
-:	[RU] CirxusPay 
-:	[UK] CirxusPay 
+:	[EN] Cirxus Pay 
+:	[RU] Cirxus Pay 
+:	[UK] Cirxus Pay 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/cirxuspay/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"cirxuspay",
   "name":{
-    "en":"CirxusPay",
-    "ru":"CirxusPay",
-    "uk":"CirxusPay"
+    "en":"Cirxus Pay",
+    "ru":"Cirxus Pay",
+    "uk":"Cirxus Pay"
   },
   "status":"active",
   "description":null,

@@ -462,7 +462,7 @@
 |![cielo](https://static.openfintech.io/vendors/cielo/logo.png?w=600&c=v0.59.26#w200) |[**Cielo**](cielo/)|`cielo`| 
 |![cimbclicksinternetbanking](https://static.openfintech.io/vendors/cimbclicksinternetbanking/logo.png?w=600&c=v0.59.26#w200) |[**CIMBClicks**](cimbclicksinternetbanking/)|`cimbclicksinternetbanking`| 
 |![circulopayments](https://static.openfintech.io/vendors/circulopayments/logo.png?w=600&c=v0.59.26#w200) |[**Circulo Payments**](circulopayments/)|`circulopayments`| 
-|![cirxuspay](https://static.openfintech.io/vendors/cirxuspay/logo.png?w=600&c=v0.59.26#w200) |[**CirxusPay**](cirxuspay/)|`cirxuspay`| 
+|![cirxuspay](https://static.openfintech.io/vendors/cirxuspay/logo.png?w=600&c=v0.59.26#w200) |[**Cirxus Pay**](cirxuspay/)|`cirxuspay`| 
 |![citadelelatvia](https://static.openfintech.io/vendors/citadelelatvia/logo.png?w=600&c=v0.59.26#w200) |[**Citadele Latvia**](citadelelatvia/)|`citadelelatvia`| 
 |![citibank_indonesia](https://static.openfintech.io/vendors/citibank_indonesia/logo.svg?w=600&c=v0.59.26#w200) |[**Citibank Indonesia**](citibank_indonesia/)|`citibank_indonesia`| 
 |![citibank_n_a](https://static.openfintech.io/vendors/citibank_n_a/logo.svg?w=600&c=v0.59.26#w200) |[**Citibank, N.A**](citibank_n_a/)|`citibank_n_a`| 

@@ -171,7 +171,7 @@
 |![cib](https://static.openfintech.io/payment_providers/cib/logo.svg?w=600&c=v0.59.26#w100) |[**Commercial Industrial Bank Ukraine**](cib/)|`cib`| 
 |![cielo](https://static.openfintech.io/payment_providers/cielo/logo.png?w=600&c=v0.59.26#w100) |[**Cielo**](cielo/)|`cielo`| 
 |![circulopayments](https://static.openfintech.io/payment_providers/circulopayments/logo.svg?w=600&c=v0.59.26#w100) |[**Circulo Payments**](circulopayments/)|`circulopayments`| 
-|![cirxuspay](https://static.openfintech.io/payment_providers/cirxuspay/logo.svg?w=600&c=v0.59.26#w100) |[**CirxusPay**](cirxuspay/)|`cirxuspay`| 
+|![cirxuspay](https://static.openfintech.io/payment_providers/cirxuspay/logo.png?w=600&c=v0.59.26#w100) |[**Cirxus Pay**](cirxuspay/)|`cirxuspay`| 
 |![citopay](https://static.openfintech.io/payment_providers/citopay/logo.svg?w=600&c=v0.59.26#w100) |[**Citopay Online Merchant Services**](citopay/)|`citopay`| 
 |![citruspay](https://static.openfintech.io/payment_providers/citruspay/logo.svg?w=600&c=v0.59.26#w100) |[**Citrus Pay**](citruspay/)|`citruspay`| 
 |![city24](https://static.openfintech.io/payment_providers/city24/logo.png?w=600&c=v0.59.26#w100) |[**City24**](city24/)|`city24`| 
