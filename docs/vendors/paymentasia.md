@@ -1,5 +1,5 @@
 
-# Payment Asia 
+# PaymentAsia 
 ![paymentasia](https://static.openfintech.io/vendors/paymentasia/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,20 +8,15 @@
  
 **Name:** 
  
-:	[EN] Payment Asia 
+:	[EN] PaymentAsia 
+:	[RU] PaymentAsia 
+:	[UK] PaymentAsia 
  
 **Status:** `active` 
  
-**Description:** 
- 
-: [EN]  Special Provider Features Below you can find the special product and service features of this payment provider. Take this into account when choosing the payment provider to process your online payments. There is more to just payment processing and pricing.  
- 
 **Links:** 
-: website [http://www.paymentasia.com](http://www.paymentasia.com) 
+: website [https://www.paymentasia.com/](https://www.paymentasia.com/) 
  
-**Contacts:** 
-email: services@paymentasia.comphone: (852) 3105 8028**Address:** 
-street:  15-16/F, SML Tower, 165 Hoi Bun Road, Kwun Tong KowloonHong Kong  
 
 ## Images 
 
@@ -47,23 +42,18 @@ https://static.openfintech.io/vendors/paymentasia/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"paymentasia",
   "name":{
-    "en":"Payment Asia"
+    "en":"PaymentAsia",
+    "ru":"PaymentAsia",
+    "uk":"PaymentAsia"
   },
   "status":"active",
-  "description":{
-    "en":" Special Provider Features Below you can find the special product and service\u00a0features of this payment provider. Take this into account when choosing the payment provider to process your online payments. There is more to just payment processing and pricing. "
-  },
+  "description":null,
   "links":{
-    "website":"http:\/\/www.paymentasia.com"
+    "website":"https:\/\/www.paymentasia.com\/"
   },
   "countries":null,
-  "contacts":{
-    "email":"services@paymentasia.com",
-    "phone":"(852) 3105 8028"
-  },
-  "address":{
-    "street":" 15-16\/F, SML Tower, 165 Hoi Bun Road, Kwun Tong KowloonHong Kong "
-  },
+  "contacts":null,
+  "address":null,
   "social_profiles":null
 }
 ```  

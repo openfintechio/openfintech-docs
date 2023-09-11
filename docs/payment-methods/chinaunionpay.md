@@ -75,7 +75,6 @@ The list of [Payment Providers](/payment-providers/) that support the _China Uni
 |![easypaymentgateway](https://static.openfintech.io/payment_providers/easypaymentgateway/icon.png?w=278&c=v0.59.26#w100) |[Easy Payment Gateway](/payment-providers/easypaymentgateway/)|`easypaymentgateway`| 
 |![quickpay](https://static.openfintech.io/payment_providers/quickpay/icon.png?w=278&c=v0.59.26#w100) |[QuickPay](/payment-providers/quickpay/)|`quickpay`| 
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.png?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
-|![paymentasia](https://static.openfintech.io/payment_providers/paymentasia/icon.png?w=278&c=v0.59.26#w100) |[Payment Asia](/payment-providers/paymentasia/)|`paymentasia`| 
 |![2000charge](https://static.openfintech.io/payment_providers/2000charge/icon.png?w=278&c=v0.59.26#w100) |[2000Charge.com](/payment-providers/2000charge/)|`2000charge`| 
 |![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.png?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
 |![2c2p](https://static.openfintech.io/payment_providers/2c2p/icon.png?w=278&c=v0.59.26#w100) |[2C2P](/payment-providers/2c2p/)|`2c2p`| 

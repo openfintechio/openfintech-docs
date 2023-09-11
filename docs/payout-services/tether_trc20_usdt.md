@@ -25,6 +25,7 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`wallet_id`|✔|`string`|`/^.{10,64}$/`| 
+|`vasp`|✗|`string`|`/^.{1,64}$/`| 
  
 
 ### Details 
@@ -46,6 +47,24 @@
 	: [EN] Tether TRC-20 wallet 
 	: [RU] Tether TRC-20 кошелёк 
 	: [UK] Tether TRC-20 гаманець 
+ 
+2. **`vasp`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{1,64}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] VASP Name 
+	: [RU] VASP имя 
+	: [UK] VASP ім'я 
+ 
+	Hint:  
+	: [EN] Enter VASP Name 
+	: [RU] Введите имя ASP 
+	: [UK] Введіть ім'я VASP 
  
 
 ## JSON Object 
@@ -73,6 +92,23 @@
       "required":true,
       "position":1,
       "example":"0x501906Ce564be7bA80Eb55A29EE31ECfaE41b6f2"
+    },
+    {
+      "key":"vasp",
+      "type":"string",
+      "label":{
+        "en":"VASP Name",
+        "ru":"VASP \u0438\u043c\u044f",
+        "uk":"VASP \u0456\u043c'\u044f"
+      },
+      "hint":{
+        "en":"Enter VASP Name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f ASP",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c'\u044f VASP"
+      },
+      "regexp":"\/^.{1,64}$\/",
+      "required":false,
+      "position":2
     }
   ],
   "amount_min":"0.00000001",

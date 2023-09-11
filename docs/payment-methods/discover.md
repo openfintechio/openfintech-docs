@@ -74,7 +74,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Discover_
 |![quickpay](https://static.openfintech.io/payment_providers/quickpay/icon.png?w=278&c=v0.59.26#w100) |[QuickPay](/payment-providers/quickpay/)|`quickpay`| 
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.png?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
 |![2checkoutcom](https://static.openfintech.io/payment_providers/2checkoutcom/icon.svg?w=278&c=v0.59.26#w100) |[2Checkout](/payment-providers/2checkoutcom/)|`2checkoutcom`| 
-|![paymentasia](https://static.openfintech.io/payment_providers/paymentasia/icon.png?w=278&c=v0.59.26#w100) |[Payment Asia](/payment-providers/paymentasia/)|`paymentasia`| 
 |![2000charge](https://static.openfintech.io/payment_providers/2000charge/icon.png?w=278&c=v0.59.26#w100) |[2000Charge.com](/payment-providers/2000charge/)|`2000charge`| 
 |![2c2p](https://static.openfintech.io/payment_providers/2c2p/icon.png?w=278&c=v0.59.26#w100) |[2C2P](/payment-providers/2c2p/)|`2c2p`| 
 |![yuupay](https://static.openfintech.io/payment_providers/yuupay/icon.png?w=278&c=v0.59.26#w100) |[YuuPay ](/payment-providers/yuupay/)|`yuupay`| 

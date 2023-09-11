@@ -106,7 +106,6 @@ The list of [Payment Providers](/payment-providers/) that support the _American 
 |![faspay](https://static.openfintech.io/payment_providers/faspay/icon.png?w=278&c=v0.59.26#w100) |[Faspay](/payment-providers/faspay/)|`faspay`| 
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.png?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
 |![2checkoutcom](https://static.openfintech.io/payment_providers/2checkoutcom/icon.svg?w=278&c=v0.59.26#w100) |[2Checkout](/payment-providers/2checkoutcom/)|`2checkoutcom`| 
-|![paymentasia](https://static.openfintech.io/payment_providers/paymentasia/icon.png?w=278&c=v0.59.26#w100) |[Payment Asia](/payment-providers/paymentasia/)|`paymentasia`| 
 |![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.png?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
 |![multicards](https://static.openfintech.io/payment_providers/multicards/icon.png?w=278&c=v0.59.26#w100) |[MultiCards Internet Billing](/payment-providers/multicards/)|`multicards`| 
 |![2c2p](https://static.openfintech.io/payment_providers/2c2p/icon.png?w=278&c=v0.59.26#w100) |[2C2P](/payment-providers/2c2p/)|`2c2p`| 

@@ -86,7 +86,6 @@ The list of [Payment Providers](/payment-providers/) that support the _JCB_
 |![faspay](https://static.openfintech.io/payment_providers/faspay/icon.png?w=278&c=v0.59.26#w100) |[Faspay](/payment-providers/faspay/)|`faspay`| 
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.png?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
 |![2checkoutcom](https://static.openfintech.io/payment_providers/2checkoutcom/icon.svg?w=278&c=v0.59.26#w100) |[2Checkout](/payment-providers/2checkoutcom/)|`2checkoutcom`| 
-|![paymentasia](https://static.openfintech.io/payment_providers/paymentasia/icon.png?w=278&c=v0.59.26#w100) |[Payment Asia](/payment-providers/paymentasia/)|`paymentasia`| 
 |![2000charge](https://static.openfintech.io/payment_providers/2000charge/icon.png?w=278&c=v0.59.26#w100) |[2000Charge.com](/payment-providers/2000charge/)|`2000charge`| 
 |![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.png?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
 |![2c2p](https://static.openfintech.io/payment_providers/2c2p/icon.png?w=278&c=v0.59.26#w100) |[2C2P](/payment-providers/2c2p/)|`2c2p`| 

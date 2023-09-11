@@ -1529,7 +1529,7 @@
 |![paymega](https://static.openfintech.io/vendors/paymega/logo.svg?w=600&c=v0.59.26#w200) |[**PayMega**](paymega/)|`paymega`| 
 |![paymegaio](https://static.openfintech.io/vendors/paymegaio/logo.svg?w=600&c=v0.59.26#w200) |[**Paymega.io**](paymegaio/)|`paymegaio`| 
 |![payment21](https://static.openfintech.io/vendors/payment21/logo.png?w=600&c=v0.59.26#w200) |[**Payment21**](payment21/)|`payment21`| 
-|![paymentasia](https://static.openfintech.io/vendors/paymentasia/logo.png?w=600&c=v0.59.26#w200) |[**Payment Asia**](paymentasia/)|`paymentasia`| 
+|![paymentasia](https://static.openfintech.io/vendors/paymentasia/logo.png?w=600&c=v0.59.26#w200) |[**PaymentAsia**](paymentasia/)|`paymentasia`| 
 |![paymentbillsservice](https://static.openfintech.io/vendors/paymentbillsservice/logo.png?w=600&c=v0.59.26#w200) |[**PaymentBillsService**](paymentbillsservice/)|`paymentbillsservice`| 
 |![paymentcenter](https://static.openfintech.io/vendors/paymentcenter/logo.png?w=600&c=v0.59.26#w200) |[**Payment Center**](paymentcenter/)|`paymentcenter`| 
 |![paymentexpress](https://static.openfintech.io/vendors/paymentexpress/logo.png?w=600&c=v0.59.26#w200) |[**Payment Express**](paymentexpress/)|`paymentexpress`| 

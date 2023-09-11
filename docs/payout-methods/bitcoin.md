@@ -58,7 +58,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Bitcoin_
 |![ebanx](https://static.openfintech.io/payment_providers/ebanx/icon.png?w=278&c=v0.59.26#w100) |[EBANX](/payment-providers/ebanx/)|`ebanx`| 
 |![dengionline](https://static.openfintech.io/payment_providers/dengionline/icon.png?w=278&c=v0.59.26#w100) |[Dengi Online](/payment-providers/dengionline/)|`dengionline`| 
 |![quickpay](https://static.openfintech.io/payment_providers/quickpay/icon.png?w=278&c=v0.59.26#w100) |[QuickPay](/payment-providers/quickpay/)|`quickpay`| 
-|![paymentasia](https://static.openfintech.io/payment_providers/paymentasia/icon.png?w=278&c=v0.59.26#w100) |[Payment Asia](/payment-providers/paymentasia/)|`paymentasia`| 
 |![2000charge](https://static.openfintech.io/payment_providers/2000charge/icon.png?w=278&c=v0.59.26#w100) |[2000Charge.com](/payment-providers/2000charge/)|`2000charge`| 
 |![multicards](https://static.openfintech.io/payment_providers/multicards/icon.png?w=278&c=v0.59.26#w100) |[MultiCards Internet Billing](/payment-providers/multicards/)|`multicards`| 
 |![payeer](https://static.openfintech.io/payment_providers/payeer/icon.png?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
