@@ -1254,6 +1254,7 @@
 |![nordpay](https://static.openfintech.io/vendors/nordpay/logo.png?w=600&c=v0.59.26#w200) |[**NORDPAY**](nordpay/)|`nordpay`| 
 |![north_pacific_bank](https://static.openfintech.io/vendors/north_pacific_bank/logo.svg?w=600&c=v0.59.26#w200) |[**North Pacific Bank**](north_pacific_bank/)|`north_pacific_bank`| 
 |![northpayments](https://static.openfintech.io/vendors/northpayments/logo.png?w=600&c=v0.59.26#w200) |[**North Payments**](northpayments/)|`northpayments`| 
+|![northpeakpay](https://static.openfintech.io/vendors/northpeakpay/logo.svg?w=600&c=v0.59.26#w200) |[**Northpeak Pay**](northpeakpay/)|`northpeakpay`| 
 |![novalnet](https://static.openfintech.io/vendors/novalnet/logo.png?w=600&c=v0.59.26#w200) |[**Novalnet AG**](novalnet/)|`novalnet`| 
 |![nrb](https://static.openfintech.io/vendors/nrb/logo.svg?w=600&c=v0.59.26#w200) |[**Nepal Rastra Bank**](nrb/)|`nrb`| 
 |![nummuspay](https://static.openfintech.io/vendors/nummuspay/logo.png?w=600&c=v0.59.26#w200) |[**NummusPay**](nummuspay/)|`nummuspay`| 

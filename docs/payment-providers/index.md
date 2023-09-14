@@ -505,6 +505,7 @@
 |![noda](https://static.openfintech.io/payment_providers/noda/logo.svg?w=600&c=v0.59.26#w100) |[**Noda**](noda/)|`noda`| 
 |![nordpay](https://static.openfintech.io/payment_providers/nordpay/logo.png?w=600&c=v0.59.26#w100) |[**NORDPAY**](nordpay/)|`nordpay`| 
 |![northpayments](https://static.openfintech.io/payment_providers/northpayments/logo.png?w=600&c=v0.59.26#w100) |[**North Payments**](northpayments/)|`northpayments`| 
+|![northpeakpay](https://static.openfintech.io/payment_providers/northpeakpay/logo.svg?w=600&c=v0.59.26#w100) |[**Northpeak Pay**](northpeakpay/)|`northpeakpay`| 
 |![novalnet](https://static.openfintech.io/payment_providers/novalnet/logo.png?w=600&c=v0.59.26#w100) |[**Novalnet AG**](novalnet/)|`novalnet`| 
 |![nummuspay](https://static.openfintech.io/payment_providers/nummuspay/logo.png?w=600&c=v0.59.26#w100) |[**NummusPay**](nummuspay/)|`nummuspay`| 
 |![nxsystems](https://static.openfintech.io/payment_providers/nxsystems/logo.png?w=600&c=v0.59.26#w100) |[**NxSystems**](nxsystems/)|`nxsystems`| 

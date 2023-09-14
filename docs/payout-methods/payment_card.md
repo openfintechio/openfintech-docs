@@ -495,6 +495,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![alliancepay](https://static.openfintech.io/payment_providers/alliancepay/icon.png?w=278&c=v0.59.26#w100) |[AlliancePay](/payment-providers/alliancepay/)|`alliancepay`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
 |![cirxuspay](https://static.openfintech.io/payment_providers/cirxuspay/icon.png?w=278&c=v0.59.26#w100) |[Cirxus Pay](/payment-providers/cirxuspay/)|`cirxuspay`| 
+|![northpeakpay](https://static.openfintech.io/payment_providers/northpeakpay/icon.svg?w=278&c=v0.59.26#w100) |[Northpeak Pay](/payment-providers/northpeakpay/)|`northpeakpay`| 
 |![centpays](https://static.openfintech.io/payment_providers/centpays/icon.svg?w=278&c=v0.59.26#w100) |[Centpays](/payment-providers/centpays/)|`centpays`| 
  
 
