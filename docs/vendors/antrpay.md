@@ -14,6 +14,9 @@
  
 **Status:** `active` 
  
+**Links:** 
+: website [https://antrpay.com/](https://antrpay.com/) 
+ 
 
 ## Images 
 
@@ -27,10 +30,10 @@ https://static.openfintech.io/vendors/antrpay/logo.svg?w=400&c=v0.59.26#w200
 
 ### Icon 
  
-![antrpay](https://static.openfintech.io/vendors/antrpay/icon.svg?w=278&c=v0.59.26#w100)  
+![antrpay](https://static.openfintech.io/vendors/antrpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/antrpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/antrpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 
@@ -45,7 +48,9 @@ https://static.openfintech.io/vendors/antrpay/icon.svg?w=278&c=v0.59.26#w100
   },
   "status":"active",
   "description":null,
-  "links":null,
+  "links":{
+    "website":"https:\/\/antrpay.com\/"
+  },
   "countries":null,
   "contacts":null,
   "address":null,

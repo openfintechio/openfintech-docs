@@ -448,7 +448,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![payabl](https://static.openfintech.io/payment_providers/payabl/icon.png?w=278&c=v0.59.26#w100) |[Payabl.](/payment-providers/payabl/)|`payabl`| 
 |![fiatsystems](https://static.openfintech.io/payment_providers/fiatsystems/icon.png?w=278&c=v0.59.26#w100) |[FiatSystems](/payment-providers/fiatsystems/)|`fiatsystems`| 
 |![bitexpro](https://static.openfintech.io/payment_providers/bitexpro/icon.png?w=278&c=v0.59.26#w100) |[BitexPRO](/payment-providers/bitexpro/)|`bitexpro`| 
-|![antrpay](https://static.openfintech.io/payment_providers/antrpay/icon.svg?w=278&c=v0.59.26#w100) |[Antrpay](/payment-providers/antrpay/)|`antrpay`| 
+|![antrpay](https://static.openfintech.io/payment_providers/antrpay/icon.png?w=278&c=v0.59.26#w100) |[Antrpay](/payment-providers/antrpay/)|`antrpay`| 
 |![b2pay](https://static.openfintech.io/payment_providers/b2pay/icon.png?w=278&c=v0.59.26#w100) |[b2pay.io](/payment-providers/b2pay/)|`b2pay`| 
 |![maldopay](https://static.openfintech.io/payment_providers/maldopay/icon.png?w=278&c=v0.59.26#w100) |[MaldoPay](/payment-providers/maldopay/)|`maldopay`| 
 |![sirpaga](https://static.openfintech.io/payment_providers/sirpaga/icon.png?w=278&c=v0.59.26#w100) |[Sirpaga](/payment-providers/sirpaga/)|`sirpaga`| 
@@ -495,6 +495,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![alliancepay](https://static.openfintech.io/payment_providers/alliancepay/icon.png?w=278&c=v0.59.26#w100) |[AlliancePay](/payment-providers/alliancepay/)|`alliancepay`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
 |![cirxuspay](https://static.openfintech.io/payment_providers/cirxuspay/icon.png?w=278&c=v0.59.26#w100) |[Cirxus Pay](/payment-providers/cirxuspay/)|`cirxuspay`| 
+|![finvert](https://static.openfintech.io/payment_providers/finvert/icon.svg?w=278&c=v0.59.26#w100) |[Finvert](/payment-providers/finvert/)|`finvert`| 
 |![northpeakpay](https://static.openfintech.io/payment_providers/northpeakpay/icon.svg?w=278&c=v0.59.26#w100) |[Northpeak Pay](/payment-providers/northpeakpay/)|`northpeakpay`| 
 |![centpays](https://static.openfintech.io/payment_providers/centpays/icon.svg?w=278&c=v0.59.26#w100) |[Centpays](/payment-providers/centpays/)|`centpays`| 
  

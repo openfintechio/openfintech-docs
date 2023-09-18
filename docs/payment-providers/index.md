@@ -312,6 +312,7 @@
 |![fidelitypaymentservices](https://static.openfintech.io/payment_providers/fidelitypaymentservices/logo.png?w=600&c=v0.59.26#w100) |[**Fidelity Payment Services**](fidelitypaymentservices/)|`fidelitypaymentservices`| 
 |![filspay](https://static.openfintech.io/payment_providers/filspay/logo.png?w=600&c=v0.59.26#w100) |[**FilsPay**](filspay/)|`filspay`| 
 |![finhub](https://static.openfintech.io/payment_providers/finhub/logo.png?w=600&c=v0.59.26#w100) |[**FinHub**](finhub/)|`finhub`| 
+|![finvert](https://static.openfintech.io/payment_providers/finvert/logo.svg?w=600&c=v0.59.26#w100) |[**Finvert**](finvert/)|`finvert`| 
 |![fireballpsp](https://static.openfintech.io/payment_providers/fireballpsp/logo.svg?w=600&c=v0.59.26#w100) |[**Fireball PSP**](fireballpsp/)|`fireballpsp`| 
 |![firstatlanticcommerce](https://static.openfintech.io/payment_providers/firstatlanticcommerce/logo.png?w=600&c=v0.59.26#w100) |[**First Atlantic Commerce**](firstatlanticcommerce/)|`firstatlanticcommerce`| 
 |![firstdatamerchantsolutions](https://static.openfintech.io/payment_providers/firstdatamerchantsolutions/logo.svg?w=600&c=v0.59.26#w100) |[**First Data Merchant Services**](firstdatamerchantsolutions/)|`firstdatamerchantsolutions`| 

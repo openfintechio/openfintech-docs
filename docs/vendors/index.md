@@ -764,6 +764,7 @@
 |![filiyakibpatkredi_agrikol_bankkiyiv](https://static.openfintech.io/vendors/filiyakibpatkredi_agrikol_bankkiyiv/logo.svg?w=600&c=v0.59.26#w200) |[**Філія 'КІБ' Публічного акціонерного товариства 'КРЕДІ АГРІКОЛЬ БАНК'**](filiyakibpatkredi_agrikol_bankkiyiv/)|`filiyakibpatkredi_agrikol_bankkiyiv`| 
 |![filspay](https://static.openfintech.io/vendors/filspay/logo.png?w=600&c=v0.59.26#w200) |[**FilsPay**](filspay/)|`filspay`| 
 |![finhub](https://static.openfintech.io/vendors/finhub/logo.png?w=600&c=v0.59.26#w200) |[**FinHub**](finhub/)|`finhub`| 
+|![finvert](https://static.openfintech.io/vendors/finvert/logo.svg?w=600&c=v0.59.26#w200) |[**Finvert**](finvert/)|`finvert`| 
 |![fireballpsp](https://static.openfintech.io/vendors/fireballpsp/logo.png?w=600&c=v0.59.26#w200) |[**Fireball PSP**](fireballpsp/)|`fireballpsp`| 
 |![first_bank_of_toyama](https://static.openfintech.io/vendors/first_bank_of_toyama/logo.svg?w=600&c=v0.59.26#w200) |[**First Bank of Toyama**](first_bank_of_toyama/)|`first_bank_of_toyama`| 
 |![firstatlanticcommerce](https://static.openfintech.io/vendors/firstatlanticcommerce/logo.png?w=600&c=v0.59.26#w200) |[**First Atlantic Commerce**](firstatlanticcommerce/)|`firstatlanticcommerce`| 
