@@ -7,6 +7,7 @@
 |![100btc.pro](https://static.openfintech.io/vendors/100btc.pro/logo.svg?w=600&c=v0.59.26#w200) |[**100btc.pro**](100btc.pro/)|`100btc.pro`| 
 |![100monet.pro](https://static.openfintech.io/vendors/100monet.pro/logo.svg?w=600&c=v0.59.26#w200) |[**100 Монет**](100monet.pro/)|`100monet.pro`| 
 |![10pay](https://static.openfintech.io/vendors/10pay/logo.svg?w=600&c=v0.59.26#w200) |[**10Pay**](10pay/)|`10pay`| 
+|![123pay](https://static.openfintech.io/vendors/123pay/logo.svg?w=600&c=v0.59.26#w200) |[**OneTwoThreePay**](123pay/)|`123pay`| 
 |![123send](https://static.openfintech.io/vendors/123send/logo.png?w=600&c=v0.59.26#w200) |[**123Send**](123send/)|`123send`| 
 |![123x](https://static.openfintech.io/vendors/123x/logo.png?w=600&c=v0.59.26#w200) |[**123x**](123x/)|`123x`| 
 |![1obmen.ru](https://static.openfintech.io/vendors/1obmen.ru/logo.svg?w=600&c=v0.59.26#w200) |[**1obmen.ru**](1obmen.ru/)|`1obmen.ru`| 
@@ -1602,6 +1603,7 @@
 |![paytocrypt](https://static.openfintech.io/vendors/paytocrypt/logo.png?w=600&c=v0.59.26#w200) |[**Paytocrypt**](paytocrypt/)|`paytocrypt`| 
 |![paytonegate](https://static.openfintech.io/vendors/paytonegate/logo.svg?w=600&c=v0.59.26#w200) |[**PaytoneGate**](paytonegate/)|`paytonegate`| 
 |![paytoneio](https://static.openfintech.io/vendors/paytoneio/logo.svg?w=600&c=v0.59.26#w200) |[**Paytone.io**](paytoneio/)|`paytoneio`| 
+|![paytony](https://static.openfintech.io/vendors/paytony/logo.svg?w=600&c=v0.59.26#w200) |[**Paytony**](paytony/)|`paytony`| 
 |![paytpv](https://static.openfintech.io/vendors/paytpv/logo.png?w=600&c=v0.59.26#w200) |[**PAYTPV**](paytpv/)|`paytpv`| 
 |![paytrail](https://static.openfintech.io/vendors/paytrail/logo.png?w=600&c=v0.59.26#w200) |[**Paytrail**](paytrail/)|`paytrail`| 
 |![paytrek](https://static.openfintech.io/vendors/paytrek/logo.png?w=600&c=v0.59.26#w200) |[**Paytrek**](paytrek/)|`paytrek`| 

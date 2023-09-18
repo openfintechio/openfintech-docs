@@ -428,6 +428,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
 |![maxpayment](https://static.openfintech.io/payment_providers/maxpayment/icon.svg?w=278&c=v0.59.26#w100) |[Maxpayment](/payment-providers/maxpayment/)|`maxpayment`| 
 |![forestpayment](https://static.openfintech.io/payment_providers/forestpayment/icon.png?w=278&c=v0.59.26#w100) |[ForestPayment](/payment-providers/forestpayment/)|`forestpayment`| 
+|![paytony](https://static.openfintech.io/payment_providers/paytony/icon.svg?w=278&c=v0.59.26#w100) |[Paytony](/payment-providers/paytony/)|`paytony`| 
 |![impaya](https://static.openfintech.io/payment_providers/impaya/icon.png?w=278&c=v0.59.26#w100) |[Impaya](/payment-providers/impaya/)|`impaya`| 
 |![vevopay](https://static.openfintech.io/payment_providers/vevopay/icon.png?w=278&c=v0.59.26#w100) |[VevoPay](/payment-providers/vevopay/)|`vevopay`| 
 |![localpayments](https://static.openfintech.io/payment_providers/localpayments/icon.svg?w=278&c=v0.59.26#w100) |[Localpayments](/payment-providers/localpayments/)|`localpayments`| 
@@ -498,6 +499,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![finvert](https://static.openfintech.io/payment_providers/finvert/icon.svg?w=278&c=v0.59.26#w100) |[Finvert](/payment-providers/finvert/)|`finvert`| 
 |![northpeakpay](https://static.openfintech.io/payment_providers/northpeakpay/icon.svg?w=278&c=v0.59.26#w100) |[Northpeak Pay](/payment-providers/northpeakpay/)|`northpeakpay`| 
 |![centpays](https://static.openfintech.io/payment_providers/centpays/icon.svg?w=278&c=v0.59.26#w100) |[Centpays](/payment-providers/centpays/)|`centpays`| 
+|![123pay](https://static.openfintech.io/payment_providers/123pay/icon.svg?w=278&c=v0.59.26#w100) |[OneTwoThreePay](/payment-providers/123pay/)|`123pay`| 
  
 
 ## JSON Object 

@@ -5,6 +5,7 @@
 |:---:|:---:|:---:| 
 || **1** ||
 |![10pay](https://static.openfintech.io/payment_providers/10pay/logo.svg?w=600&c=v0.59.26#w100) |[**10Pay**](10pay/)|`10pay`| 
+|![123pay](https://static.openfintech.io/payment_providers/123pay/logo.svg?w=600&c=v0.59.26#w100) |[**OneTwoThreePay**](123pay/)|`123pay`| 
 |![123send](https://static.openfintech.io/payment_providers/123send/logo.png?w=600&c=v0.59.26#w100) |[**123Send**](123send/)|`123send`| 
 |![123x](https://static.openfintech.io/payment_providers/123x/logo.png?w=600&c=v0.59.26#w100) |[**123x**](123x/)|`123x`| 
 |![1pay](https://static.openfintech.io/payment_providers/1pay/logo.png?w=600&c=v0.59.26#w100) |[**1Pay**](1pay/)|`1pay`| 
@@ -664,6 +665,7 @@
 |![paytocrypt](https://static.openfintech.io/payment_providers/paytocrypt/logo.png?w=600&c=v0.59.26#w100) |[**Paytocrypt**](paytocrypt/)|`paytocrypt`| 
 |![paytonegate](https://static.openfintech.io/payment_providers/paytonegate/logo.svg?w=600&c=v0.59.26#w100) |[**PaytoneGate**](paytonegate/)|`paytonegate`| 
 |![paytoneio](https://static.openfintech.io/payment_providers/paytoneio/logo.svg?w=600&c=v0.59.26#w100) |[**Paytone.io**](paytoneio/)|`paytoneio`| 
+|![paytony](https://static.openfintech.io/payment_providers/paytony/logo.svg?w=600&c=v0.59.26#w100) |[**Paytony**](paytony/)|`paytony`| 
 |![paytpv](https://static.openfintech.io/payment_providers/paytpv/logo.png?w=600&c=v0.59.26#w100) |[**PAYTPV**](paytpv/)|`paytpv`| 
 |![paytrail](https://static.openfintech.io/payment_providers/paytrail/logo.png?w=600&c=v0.59.26#w100) |[**Paytrail**](paytrail/)|`paytrail`| 
 |![paytrek](https://static.openfintech.io/payment_providers/paytrek/logo.png?w=600&c=v0.59.26#w100) |[**Paytrek**](paytrek/)|`paytrek`| 
