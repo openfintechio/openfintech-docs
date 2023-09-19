@@ -37,6 +37,8 @@ The list of [Payout Services](/payout-services/) based on the _Citibank_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![citibank_n_a](https://static.openfintech.io/payout_methods/citibank_n_a/icon.svg?w=278&c=v0.59.26#w40) |[citibank_n_a_jpy](/payout-services/citibank_n_a_jpy/)|`citibank_n_a_jpy`| 
+|![citibank_n_a](https://static.openfintech.io/payout_methods/citibank_n_a/icon.svg?w=278&c=v0.59.26#w40) |[citibank_n_a_vnd](/payout-services/citibank_n_a_vnd/)|`citibank_n_a_vnd`| 
+|![citibank_n_a](https://static.openfintech.io/payout_methods/citibank_n_a/icon.svg?w=278&c=v0.59.26#w40) |[citibank_n_a_thb](/payout-services/citibank_n_a_thb/)|`citibank_n_a_thb`| 
  
 
 ## JSON Object 

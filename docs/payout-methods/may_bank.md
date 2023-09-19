@@ -36,6 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Maybank_
 |:---:|:---:|:---:| 
 |![may_bank](https://static.openfintech.io/payout_methods/may_bank/icon.svg?w=278&c=v0.59.26#w40) |[may_bank_myr](/payout-services/may_bank_myr/)|`may_bank_myr`| 
 |![may_bank](https://static.openfintech.io/payout_methods/may_bank/icon.svg?w=278&c=v0.59.26#w40) |[may_bank_idr](/payout-services/may_bank_idr/)|`may_bank_idr`| 
+|![may_bank](https://static.openfintech.io/payout_methods/may_bank/icon.svg?w=278&c=v0.59.26#w40) |[may_bank_php](/payout-services/may_bank_php/)|`may_bank_php`| 
  
 
 ## Payment Providers 
