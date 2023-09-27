@@ -1166,6 +1166,7 @@
 |![mizuho_bank](https://static.openfintech.io/vendors/mizuho_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Mizuho Bank**](mizuho_bank/)|`mizuho_bank`| 
 |![mobidram](https://static.openfintech.io/vendors/mobidram/logo.svg?w=600&c=v0.59.26#w200) |[**Mobidram**](mobidram/)|`mobidram`| 
 |![mobikwik](https://static.openfintech.io/vendors/mobikwik/logo.png?w=600&c=v0.59.26#w200) |[**MobiKwik**](mobikwik/)|`mobikwik`| 
+|![mobilum](https://static.openfintech.io/vendors/mobilum/logo.png?w=600&c=v0.59.26#w200) |[**Mobilum**](mobilum/)|`mobilum`| 
 |![mobipaid](https://static.openfintech.io/vendors/mobipaid/logo.png?w=600&c=v0.59.26#w200) |[**Mobipaid**](mobipaid/)|`mobipaid`| 
 |![mobivi](https://static.openfintech.io/vendors/mobivi/logo.png?w=600&c=v0.59.26#w200) |[**Mobivi**](mobivi/)|`mobivi`| 
 |![moip](https://static.openfintech.io/vendors/moip/logo.png?w=600&c=v0.59.26#w200) |[**Moip**](moip/)|`moip`| 

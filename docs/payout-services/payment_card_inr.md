@@ -25,6 +25,8 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`card_number`|✔|`string`|`/^\d{12,19}$/`| 
+|`ifsc`|✗|`string`|`/^[A-Za-z0-9]{11}$/`| 
+|`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
  
 
 ### Details 
@@ -46,6 +48,42 @@
 	: [EN] Enter card number 
 	: [RU] Введите номер карты 
 	: [UK] Введіть номер карти 
+ 
+2. **`ifsc`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z0-9]{11}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] IFSC 
+	: [RU] IFSC 
+	: [UK] IFSC 
+ 
+	Hint:  
+	: [EN] Enter IFSC 
+	: [RU] Введите IFSC 
+	: [UK] Введіть IFSC 
+ 
+3. **`beneficiary_full_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary full name 
+	: [RU] Полное имя получателя 
+	: [UK] Повне імʼя отримувача 
+ 
+	Hint:  
+	: [EN] Enter beneficiary full name 
+	: [RU] Введите полное имя получателя 
+	: [UK] Введіть повне імʼя отримувача 
  
 
 ## JSON Object 
@@ -78,6 +116,40 @@
             "name":"Luhn"
           }
         ]
+      }
+    },
+    {
+      "key":"ifsc",
+      "type":"string",
+      "label":{
+        "en":"IFSC",
+        "ru":"IFSC",
+        "uk":"IFSC"
+      },
+      "hint":{
+        "en":"Enter IFSC",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 IFSC",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c IFSC"
+      },
+      "regexp":"\/^[A-Za-z0-9]{11}$\/",
+      "required":false,
+      "position":2
+    },
+    {
+      "key":"beneficiary_full_name",
+      "type":"string",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\d\\s]{2,100}$\/",
+      "required":false,
+      "position":3,
+      "label":{
+        "en":"Beneficiary full name",
+        "ru":"\u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u041f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter beneficiary full name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
       }
     }
   ],

@@ -116,6 +116,7 @@ The list of [Payout Services](/payout-services/) based on the _Card_
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_bwp](/payout-services/payment_card_bwp/)|`payment_card_bwp`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_bhd](/payout-services/payment_card_bhd/)|`payment_card_bhd`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_omr](/payout-services/payment_card_omr/)|`payment_card_omr`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_bdt](/payout-services/payment_card_bdt/)|`payment_card_bdt`| 
  
 
 ## Payment Providers 
@@ -500,6 +501,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![northpeakpay](https://static.openfintech.io/payment_providers/northpeakpay/icon.svg?w=278&c=v0.59.26#w100) |[Northpeak Pay](/payment-providers/northpeakpay/)|`northpeakpay`| 
 |![centpays](https://static.openfintech.io/payment_providers/centpays/icon.svg?w=278&c=v0.59.26#w100) |[Centpays](/payment-providers/centpays/)|`centpays`| 
 |![123pay](https://static.openfintech.io/payment_providers/123pay/icon.svg?w=278&c=v0.59.26#w100) |[OneTwoThreePay](/payment-providers/123pay/)|`123pay`| 
+|![mobilum](https://static.openfintech.io/payment_providers/mobilum/icon.svg?w=278&c=v0.59.26#w100) |[Mobilum](/payment-providers/mobilum/)|`mobilum`| 
  
 
 ## JSON Object 

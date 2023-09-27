@@ -50,6 +50,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
  
 
 ## JSON Object 
@@ -66,7 +67,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "sbp"
   ],
   "payout_method":[
-    "payment_card"
+    "payment_card",
+    "bank_transfer"
   ],
   "metadata":null,
   "name":{

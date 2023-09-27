@@ -31,6 +31,7 @@
 |`phone_number`|✗|`string`|`/^\d{10,14}$/`| 
 |`beneficiary_account_number`|✗|`string`|`/^\w{1,30}$/`| 
 |`bank_branch_code`|✗|`string`|`/^[0-9]{2,100}$/`| 
+|`ifsc`|✗|`string`|`/^[A-Za-z0-9]{11}$/`| 
  
 
 ### Details 
@@ -160,6 +161,24 @@
 	: [EN] Enter Bank Branch Code 
 	: [RU] Введите Bank Branch Code 
 	: [UK] Введіть Bank Branch Code 
+ 
+8. **`ifsc`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z0-9]{11}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] IFSC 
+	: [RU] IFSC 
+	: [UK] IFSC 
+ 
+	Hint:  
+	: [EN] Enter IFSC 
+	: [RU] Введите IFSC 
+	: [UK] Введіть IFSC 
  
 
 ## JSON Object 
@@ -294,6 +313,23 @@
       "required":false,
       "position":7,
       "example":"626"
+    },
+    {
+      "key":"ifsc",
+      "type":"string",
+      "label":{
+        "en":"IFSC",
+        "ru":"IFSC",
+        "uk":"IFSC"
+      },
+      "hint":{
+        "en":"Enter IFSC",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 IFSC",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c IFSC"
+      },
+      "regexp":"\/^[A-Za-z0-9]{11}$\/",
+      "required":false,
+      "position":8
     }
   ],
   "amount_min":0.01,
