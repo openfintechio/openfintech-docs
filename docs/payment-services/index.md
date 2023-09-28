@@ -426,6 +426,7 @@
 |![Exmo](https://static.openfintech.io/payment_methods/exmo/logo.png?w=400&c=v0.59.26#w200) |[**Exmo**](/payment-methods/exmo/)|[`exmo_usd_hpp`](exmo_usd_hpp/)| 
 |![Express Lider](https://static.openfintech.io/payment_methods/express_lider_cash/logo.png?w=400&c=v0.59.26#w200) |[**Express Lider**](/payment-methods/express_lider_cash/)|[`express_lider_cash_clp_hpp`](express_lider_cash_clp_hpp/)| 
 ||| **F** ||
+|![Farmacias Santa Maria](https://static.openfintech.io/payment_methods/farmacias_santa_maria_cash/logo.svg?w=400&c=v0.59.26#w200) |[**Farmacias Santa Maria**](/payment-methods/farmacias_santa_maria_cash/)|[`farmacias_santa_maria_cash_mxn_hpp`](farmacias_santa_maria_cash_mxn_hpp/)| 
 |![Federal Bank of India](https://static.openfintech.io/payment_methods/federal_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Federal Bank of India**](/payment-methods/federal_bank_india/)|[`federal_bank_india_inr_hpp`](federal_bank_india_inr_hpp/)| 
 |![Freecharge Wallet](https://static.openfintech.io/payment_methods/freecharge/logo.svg?w=400&c=v0.59.26#w200) |[**Freecharge Wallet**](/payment-methods/freecharge/)|[`freecharge_inr_hpp`](freecharge_inr_hpp/)| 
 |![Fundacion Genesis](https://static.openfintech.io/payment_methods/fundacion_genesis_cash/logo.png?w=400&c=v0.59.26#w200) |[**Fundacion Genesis**](/payment-methods/fundacion_genesis_cash/)|[`fundacion_genesis_cash_gtq_hpp`](fundacion_genesis_cash_gtq_hpp/)| 

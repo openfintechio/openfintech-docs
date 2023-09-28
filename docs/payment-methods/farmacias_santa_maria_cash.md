@@ -30,6 +30,15 @@ https://static.openfintech.io/payment_methods/farmacias_santa_maria_cash/logo.sv
 https://static.openfintech.io/payment_methods/farmacias_santa_maria_cash/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Farmacias Santa Maria_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![farmacias_santa_maria_cash](https://static.openfintech.io/payment_methods/farmacias_santa_maria_cash/icon.svg?w=278&c=v0.59.26#w100) |[farmacias_santa_maria_cash_mxn_hpp](/payment-services/farmacias_santa_maria_cash_mxn_hpp/)|`farmacias_santa_maria_cash_mxn_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Farmacias Santa Maria_ 

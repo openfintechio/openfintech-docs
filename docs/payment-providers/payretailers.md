@@ -94,6 +94,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![farmacias_santa_maria_cash](https://static.openfintech.io/payment_methods/farmacias_santa_maria_cash/icon.svg?w=278&c=v0.59.26#w100) |[farmacias_santa_maria_cash](/payment-methods/farmacias_santa_maria_cash/)|`farmacias_santa_maria_cash`| 
 |![calimax_cash](https://static.openfintech.io/payment_methods/calimax_cash/icon.png?w=278&c=v0.59.26#w100) |[calimax_cash](/payment-methods/calimax_cash/)|`calimax_cash`| 
 |![western_union_panama_cash](https://static.openfintech.io/payment_methods/western_union_panama_cash/icon.png?w=278&c=v0.59.26#w100) |[western_union_panama_cash](/payment-methods/western_union_panama_cash/)|`western_union_panama_cash`| 
+|![farmacias_santa_maria_cash](https://static.openfintech.io/payment_methods/farmacias_santa_maria_cash/icon.svg?w=278&c=v0.59.26#w100) |[farmacias_santa_maria_cash](/payment-methods/farmacias_santa_maria_cash/)|`farmacias_santa_maria_cash`| 
  
 
 ## Payout Methods 
@@ -171,7 +172,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "open_pay_cash",
     "farmacias_santa_maria_cash",
     "calimax_cash",
-    "western_union_panama_cash"
+    "western_union_panama_cash",
+    "farmacias_santa_maria_cash"
   ],
   "payout_method":[
     "pix",
