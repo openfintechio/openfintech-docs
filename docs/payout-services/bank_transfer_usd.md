@@ -42,6 +42,7 @@
 |`beneficiary_address`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
 |`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
 |`sender_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
+|`document_type`|✗|`string`|`/^[0-9]{1,3}$/`| 
  
 
 ### Details 
@@ -370,6 +371,24 @@
 	: [RU] Введите полное имя отправителя 
 	: [UK] Введіть повне імʼя відправкника 
  
+19. **`document_type`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{1,3}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Document Type 
+	: [RU] Тип документа 
+	: [UK] Тип документу 
+ 
+	Hint:  
+	: [EN] Enter Document Type 
+	: [RU] Введите тип документа 
+	: [UK] Введіть тип документу 
+ 
 
 ## JSON Object 
 
@@ -684,6 +703,23 @@
         "en":"Enter Sender full name",
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u0432\u0456\u0434\u043f\u0440\u0430\u0432\u043a\u043d\u0438\u043a\u0430"
+      }
+    },
+    {
+      "key":"document_type",
+      "type":"string",
+      "regexp":"\/^[0-9]{1,3}$\/",
+      "required":false,
+      "position":19,
+      "label":{
+        "en":"Document Type",
+        "ru":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
+        "uk":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
+      },
+      "hint":{
+        "en":"Enter Document Type",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
       }
     }
   ],

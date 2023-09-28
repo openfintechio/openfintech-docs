@@ -1,6 +1,6 @@
 
 # Bbva Continental 
-![bbva_continental](https://static.openfintech.io/payment_methods/bbva_continental/logo.svg?w=400&c=v0.59.26#w200)  
+![bbva_continental](https://static.openfintech.io/payment_methods/bbva_continental/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `bbva_continental` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![bbva_continental](https://static.openfintech.io/payment_methods/bbva_continental/logo.svg?w=400&c=v0.59.26#w200)  
+![bbva_continental](https://static.openfintech.io/payment_methods/bbva_continental/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/bbva_continental/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/bbva_continental/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![bbva_continental](https://static.openfintech.io/payment_methods/bbva_continental/icon.svg?w=278&c=v0.59.26#w100)  
+![bbva_continental](https://static.openfintech.io/payment_methods/bbva_continental/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/bbva_continental/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/bbva_continental/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -36,8 +36,8 @@ The list of [Payment Services](/payment-services/) based on the _Bbva Continenta
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bbva_continental](https://static.openfintech.io/payment_methods/bbva_continental/icon.svg?w=278&c=v0.59.26#w100) |[bbva_continental_pen_hpp](/payment-services/bbva_continental_pen_hpp/)|`bbva_continental_pen_hpp`| 
-|![bbva_continental](https://static.openfintech.io/payment_methods/bbva_continental/icon.svg?w=278&c=v0.59.26#w100) |[bbva_continental_usd_hpp](/payment-services/bbva_continental_usd_hpp/)|`bbva_continental_usd_hpp`| 
+|![bbva_continental](https://static.openfintech.io/payment_methods/bbva_continental/icon.png?w=278&c=v0.59.26#w100) |[bbva_continental_pen_hpp](/payment-services/bbva_continental_pen_hpp/)|`bbva_continental_pen_hpp`| 
+|![bbva_continental](https://static.openfintech.io/payment_methods/bbva_continental/icon.png?w=278&c=v0.59.26#w100) |[bbva_continental_usd_hpp](/payment-services/bbva_continental_usd_hpp/)|`bbva_continental_usd_hpp`| 
  
 
 ## Payment Providers 

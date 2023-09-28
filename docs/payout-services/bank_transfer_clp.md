@@ -29,6 +29,7 @@
 |`beneficiary_document_id`|✗|`string`|`/^[A-Za-z0-9]{3,20}$/`| 
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
 |`account_number`|✗|`string`|`/^[0-9]{5,100}$/`| 
+|`account_type`|✗|`string`|`/^[A-Za-z0-9]{1,10}$/`| 
  
 
 ### Details 
@@ -123,6 +124,24 @@
 	: [RU] Введите номер счёта 
 	: [UK] Введіть номер рахунку 
  
+6. **`account_type`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z0-9]{1,10}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Account type 
+	: [RU] Тип аккаунта 
+	: [UK] Тип акаунту 
+ 
+	Hint:  
+	: [EN] Enter account type 
+	: [RU] Введите тип аккаунта 
+	: [UK] Введіть тип акаунту 
+ 
 
 ## JSON Object 
 
@@ -215,6 +234,23 @@
         "en":"Enter Bank Account Number",
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0441\u0447\u0451\u0442\u0430",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      }
+    },
+    {
+      "key":"account_type",
+      "type":"string",
+      "regexp":"\/^[A-Za-z0-9]{1,10}$\/",
+      "required":false,
+      "position":6,
+      "label":{
+        "en":"Account type",
+        "ru":"\u0422\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",
+        "uk":"\u0422\u0438\u043f \u0430\u043a\u0430\u0443\u043d\u0442\u0443"
+      },
+      "hint":{
+        "en":"Enter account type",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0430\u043a\u0430\u0443\u043d\u0442\u0443"
       }
     }
   ],

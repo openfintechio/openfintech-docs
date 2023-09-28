@@ -29,6 +29,8 @@
 |`beneficiary_lastname`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
 |`beneficiary_document_id`|✗|`string`|`/^[A-Za-z0-9]{3,20}$/`| 
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
+|`document_type`|✗|`string`|`/^[0-9]{1,3}$/`| 
+|`account_type`|✗|`string`|`/^[A-Za-z0-9]{1,10}$/`| 
  
 
 ### Details 
@@ -123,6 +125,42 @@
 	: [RU] Введите код банка 
 	: [UK] Введіть код банку 
  
+6. **`document_type`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{1,3}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Document Type 
+	: [RU] Тип документа 
+	: [UK] Тип документу 
+ 
+	Hint:  
+	: [EN] Enter Document Type 
+	: [RU] Введите тип документа 
+	: [UK] Введіть тип документу 
+ 
+7. **`account_type`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z0-9]{1,10}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Account type 
+	: [RU] Тип аккаунта 
+	: [UK] Тип акаунту 
+ 
+	Hint:  
+	: [EN] Enter account type 
+	: [RU] Введите тип аккаунта 
+	: [UK] Введіть тип акаунту 
+ 
 
 ## JSON Object 
 
@@ -216,6 +254,40 @@
       },
       "required":false,
       "position":5
+    },
+    {
+      "key":"document_type",
+      "type":"string",
+      "regexp":"\/^[0-9]{1,3}$\/",
+      "required":false,
+      "position":6,
+      "label":{
+        "en":"Document Type",
+        "ru":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
+        "uk":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
+      },
+      "hint":{
+        "en":"Enter Document Type",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
+      }
+    },
+    {
+      "key":"account_type",
+      "type":"string",
+      "regexp":"\/^[A-Za-z0-9]{1,10}$\/",
+      "required":false,
+      "position":7,
+      "label":{
+        "en":"Account type",
+        "ru":"\u0422\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",
+        "uk":"\u0422\u0438\u043f \u0430\u043a\u0430\u0443\u043d\u0442\u0443"
+      },
+      "hint":{
+        "en":"Enter account type",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0430\u043a\u0430\u0443\u043d\u0442\u0443"
+      }
     }
   ],
   "amount_min":"0.01",

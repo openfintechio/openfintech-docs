@@ -1,6 +1,6 @@
 
 # Banco Guayaquil 
-![banco_guayaquil](https://static.openfintech.io/payment_methods/banco_guayaquil/logo.svg?w=400&c=v0.59.26#w200)  
+![banco_guayaquil](https://static.openfintech.io/payment_methods/banco_guayaquil/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `banco_guayaquil` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![banco_guayaquil](https://static.openfintech.io/payment_methods/banco_guayaquil/logo.svg?w=400&c=v0.59.26#w200)  
+![banco_guayaquil](https://static.openfintech.io/payment_methods/banco_guayaquil/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/banco_guayaquil/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/banco_guayaquil/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![banco_guayaquil](https://static.openfintech.io/payment_methods/banco_guayaquil/icon.svg?w=278&c=v0.59.26#w100)  
+![banco_guayaquil](https://static.openfintech.io/payment_methods/banco_guayaquil/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/banco_guayaquil/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/banco_guayaquil/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -36,7 +36,7 @@ The list of [Payment Services](/payment-services/) based on the _Banco Guayaquil
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![banco_guayaquil](https://static.openfintech.io/payment_methods/banco_guayaquil/icon.svg?w=278&c=v0.59.26#w100) |[banco_guayaquil_usd_hpp](/payment-services/banco_guayaquil_usd_hpp/)|`banco_guayaquil_usd_hpp`| 
+|![banco_guayaquil](https://static.openfintech.io/payment_methods/banco_guayaquil/icon.png?w=278&c=v0.59.26#w100) |[banco_guayaquil_usd_hpp](/payment-services/banco_guayaquil_usd_hpp/)|`banco_guayaquil_usd_hpp`| 
  
 
 ## Payment Providers 
