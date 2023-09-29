@@ -676,6 +676,7 @@
 |![payunity](https://static.openfintech.io/payment_providers/payunity/logo.png?w=600&c=v0.59.26#w100) |[**PAYUNITY**](payunity/)|`payunity`| 
 |![payvector](https://static.openfintech.io/payment_providers/payvector/logo.png?w=600&c=v0.59.26#w100) |[**PayVector**](payvector/)|`payvector`| 
 |![payvision](https://static.openfintech.io/payment_providers/payvision/logo.png?w=600&c=v0.59.26#w100) |[**Payvision**](payvision/)|`payvision`| 
+|![paywings](https://static.openfintech.io/payment_providers/paywings/logo.png?w=600&c=v0.59.26#w100) |[**PayWings**](paywings/)|`paywings`| 
 |![paywise](https://static.openfintech.io/payment_providers/paywise/logo.png?w=600&c=v0.59.26#w100) |[**PayWise**](paywise/)|`paywise`| 
 |![paywiser](https://static.openfintech.io/payment_providers/paywiser/logo.png?w=600&c=v0.59.26#w100) |[**PayWiser**](paywiser/)|`paywiser`| 
 |![paywizard](https://static.openfintech.io/payment_providers/paywizard/logo.png?w=600&c=v0.59.26#w100) |[**PayWizard**](paywizard/)|`paywizard`| 

@@ -223,6 +223,7 @@
 |![bank_sulselbar](https://static.openfintech.io/payout_methods/bank_sulselbar/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Sulselbar**](bank_sulselbar/)|`bank_sulselbar`| 
 |![bank_sumselbabel](https://static.openfintech.io/payout_methods/bank_sumselbabel/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Sumselbabel**](bank_sumselbabel/)|`bank_sumselbabel`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](bank_transfer/)|`bank_transfer`| 
+|![bank_transfer_token](https://static.openfintech.io/payout_methods/bank_transfer_token/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer by Token**](bank_transfer_token/)|`bank_transfer_token`| 
 |![bank_victoria](https://static.openfintech.io/payout_methods/bank_victoria/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Victoria**](bank_victoria/)|`bank_victoria`| 
 |![bank_woori_saudara](https://static.openfintech.io/payout_methods/bank_woori_saudara/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Woori Saudara**](bank_woori_saudara/)|`bank_woori_saudara`| 
 |![banko_de_oro](https://static.openfintech.io/payout_methods/banko_de_oro/logo.svg?w=400&c=v0.59.26#w24) |[**Banko de Oro**](banko_de_oro/)|`banko_de_oro`| 

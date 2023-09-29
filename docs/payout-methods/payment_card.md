@@ -502,6 +502,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![centpays](https://static.openfintech.io/payment_providers/centpays/icon.svg?w=278&c=v0.59.26#w100) |[Centpays](/payment-providers/centpays/)|`centpays`| 
 |![123pay](https://static.openfintech.io/payment_providers/123pay/icon.svg?w=278&c=v0.59.26#w100) |[OneTwoThreePay](/payment-providers/123pay/)|`123pay`| 
 |![mobilum](https://static.openfintech.io/payment_providers/mobilum/icon.svg?w=278&c=v0.59.26#w100) |[Mobilum](/payment-providers/mobilum/)|`mobilum`| 
+|![paywings](https://static.openfintech.io/payment_providers/paywings/icon.png?w=278&c=v0.59.26#w100) |[PayWings](/payment-providers/paywings/)|`paywings`| 
  
 
 ## JSON Object 
