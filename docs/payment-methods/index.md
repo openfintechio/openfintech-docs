@@ -767,6 +767,7 @@
 |![vubbanka](https://static.openfintech.io/payment_methods/vubbanka/logo.png?w=400&c=v0.59.26#w200) |[**VÚB Banka**](vubbanka/)|`vubbanka`| 
 |![vvvgiftcard](https://static.openfintech.io/payment_methods/vvvgiftcard/logo.png?w=400&c=v0.59.26#w200) |[**VVV Giftcard**](vvvgiftcard/)|`vvvgiftcard`| 
 || **W** ||
+|![wallet_aggregated](https://static.openfintech.io/payment_methods/wallet_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**Wallet aggregated**](wallet_aggregated/)|`wallet_aggregated`| 
 |![walletone](https://static.openfintech.io/payment_methods/walletone/logo.png?w=400&c=v0.59.26#w200) |[**WalletOne**](walletone/)|`walletone`| 
 |![waves](https://static.openfintech.io/payment_methods/waves/logo.svg?w=400&c=v0.59.26#w200) |[**Waves**](waves/)|`waves`| 
 |![webmoneytransfer](https://static.openfintech.io/payment_methods/webmoneytransfer/logo.svg?w=400&c=v0.59.26#w200) |[**WebMoney Transfer**](webmoneytransfer/)|`webmoneytransfer`| 

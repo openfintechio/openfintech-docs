@@ -584,6 +584,10 @@ The list of supported [Payout Methods](/payout-methods/)
 |![zamtel](https://static.openfintech.io/payout_methods/zamtel/icon.png?w=278&c=v0.59.26#w40) |[zamtel](payout-methodszamtel/)|`zamtel`| 
 |![pay_maya](https://static.openfintech.io/payout_methods/pay_maya/icon.png?w=278&c=v0.59.26#w40) |[pay_maya](payout-methodspay_maya/)|`pay_maya`| 
 |![gcash](https://static.openfintech.io/payout_methods/gcash/icon.png?w=278&c=v0.59.26#w40) |[gcash](payout-methodsgcash/)|`gcash`| 
+|![bkash_limited](https://static.openfintech.io/payout_methods/bkash_limited/icon.png?w=278&c=v0.59.26#w40) |[bkash_limited](payout-methodsbkash_limited/)|`bkash_limited`| 
+|![nagad_wallet](https://static.openfintech.io/payout_methods/nagad_wallet/icon.svg?w=278&c=v0.59.26#w40) |[nagad_wallet](payout-methodsnagad_wallet/)|`nagad_wallet`| 
+|![dutch_bangla_bank_limited_rocket](https://static.openfintech.io/payout_methods/dutch_bangla_bank_limited_rocket/icon.svg?w=278&c=v0.59.26#w40) |[dutch_bangla_bank_limited_rocket](payout-methodsdutch_bangla_bank_limited_rocket/)|`dutch_bangla_bank_limited_rocket`| 
+|![united_commercial_bank_upay](https://static.openfintech.io/payout_methods/united_commercial_bank_upay/icon.svg?w=278&c=v0.59.26#w40) |[united_commercial_bank_upay](payout-methodsunited_commercial_bank_upay/)|`united_commercial_bank_upay`| 
  
 
 ## JSON Object 
@@ -1134,7 +1138,11 @@ The list of supported [Payout Methods](/payout-methods/)
     "orange_money",
     "zamtel",
     "pay_maya",
-    "gcash"
+    "gcash",
+    "bkash_limited",
+    "nagad_wallet",
+    "dutch_bangla_bank_limited_rocket",
+    "united_commercial_bank_upay"
   ],
   "metadata":null,
   "name":{
