@@ -80,6 +80,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![certusfinance](https://static.openfintech.io/payment_providers/certusfinance/icon.png?w=278&c=v0.59.26#w100) |[Certus Finance](/payment-providers/certusfinance/)|`certusfinance`| 
 |![klasha](https://static.openfintech.io/payment_providers/klasha/icon.png?w=278&c=v0.59.26#w100) |[Klasha](/payment-providers/klasha/)|`klasha`| 
+|![changecoins](https://static.openfintech.io/payment_providers/changecoins/icon.png?w=278&c=v0.59.26#w100) |[Сhangecoins Pay](/payment-providers/changecoins/)|`changecoins`| 
 |![ezeebill](https://static.openfintech.io/payment_providers/ezeebill/icon.svg?w=278&c=v0.59.26#w100) |[Ezeebill](/payment-providers/ezeebill/)|`ezeebill`| 
 |![poli](https://static.openfintech.io/payment_providers/poli/icon.svg?w=278&c=v0.59.26#w100) |[POLi](/payment-providers/poli/)|`poli`| 
 |![jetonlp](https://static.openfintech.io/payment_providers/jetonlp/icon.png?w=278&c=v0.59.26#w100) |[JetonLP](/payment-providers/jetonlp/)|`jetonlp`| 

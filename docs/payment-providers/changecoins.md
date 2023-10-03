@@ -50,6 +50,11 @@ The list of supported [Payment Methods](/payment-methods/)
 |![binance_coin](https://static.openfintech.io/payment_methods/binance_coin/icon.svg?w=278&c=v0.59.26#w100) |[binance_coin](/payment-methods/binance_coin/)|`binance_coin`| 
 |![dogecoin](https://static.openfintech.io/payment_methods/dogecoin/icon.svg?w=278&c=v0.59.26#w100) |[dogecoin](/payment-methods/dogecoin/)|`dogecoin`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
+|![wallet_aggregated](https://static.openfintech.io/payment_methods/wallet_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[wallet_aggregated](/payment-methods/wallet_aggregated/)|`wallet_aggregated`| 
+|![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi](/payment-methods/upi/)|`upi`| 
+|![net_banking](https://static.openfintech.io/payment_methods/net_banking/icon.svg?w=278&c=v0.59.26#w100) |[net_banking](/payment-methods/net_banking/)|`net_banking`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
+|![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile](/payment-methods/mobile/)|`mobile`| 
  
 
 ## Payout Methods 
@@ -85,7 +90,12 @@ The list of supported [Payout Methods](/payout-methods/)
     "tether",
     "binance_coin",
     "dogecoin",
-    "payment_card"
+    "payment_card",
+    "wallet_aggregated",
+    "upi",
+    "net_banking",
+    "bank_transfer",
+    "mobile"
   ],
   "payout_method":[
     "bank_transfer",

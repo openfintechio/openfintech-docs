@@ -47,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Pay with 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![zotapay](https://static.openfintech.io/payment_providers/zotapay/icon.png?w=278&c=v0.59.26#w100) |[Zotapay](/payment-providers/zotapay/)|`zotapay`| 
+|![changecoins](https://static.openfintech.io/payment_providers/changecoins/icon.png?w=278&c=v0.59.26#w100) |[Сhangecoins Pay](/payment-providers/changecoins/)|`changecoins`| 
  
 
 ## JSON Object 

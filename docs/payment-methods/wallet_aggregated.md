@@ -39,6 +39,15 @@ The list of [Payment Services](/payment-services/) based on the _Wallet aggregat
 |![wallet_aggregated](https://static.openfintech.io/payment_methods/wallet_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[wallet_aggregated_pkr_hpp](/payment-services/wallet_aggregated_pkr_hpp/)|`wallet_aggregated_pkr_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Wallet aggregated_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![changecoins](https://static.openfintech.io/payment_providers/changecoins/icon.png?w=278&c=v0.59.26#w100) |[Сhangecoins Pay](/payment-providers/changecoins/)|`changecoins`| 
+ 
+
 ## JSON Object 
 
 ```json
