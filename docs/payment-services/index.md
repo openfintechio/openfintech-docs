@@ -607,6 +607,7 @@
 |![Maybank](https://static.openfintech.io/payment_methods/maybank_berhad/logo.svg?w=400&c=v0.59.26#w200) |[**Maybank**](/payment-methods/maybank_berhad/)|[`maybank_berhad_myr_hpp`](maybank_berhad_myr_hpp/)| 
 |![Maybank Qr](https://static.openfintech.io/payment_methods/maybank_berhad_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Maybank Qr**](/payment-methods/maybank_berhad_qr/)|[`maybank_berhad_qr_myr_invoice`](maybank_berhad_qr_myr_invoice/)| 
 |![MB Bank](https://static.openfintech.io/payment_methods/mb_bank/logo.png?w=400&c=v0.59.26#w200) |[**MB Bank**](/payment-methods/mb_bank/)|[`mb_bank_vnd_hpp`](mb_bank_vnd_hpp/)| 
+|![MB WAY](https://static.openfintech.io/payment_methods/mb_way/logo.svg?w=400&c=v0.59.26#w200) |[**MB WAY**](/payment-methods/mb_way/)|[`mb_way_eur_hpp`](mb_way_eur_hpp/)| 
 |![Mefete](https://static.openfintech.io/payment_methods/mefete/logo.png?w=400&c=v0.59.26#w200) |[**Mefete**](/payment-methods/mefete/)|[`mefete_try_hpp`](mefete_try_hpp/)| 
 |![Mega International Commercial Bank](https://static.openfintech.io/payment_methods/mega_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Mega International Commercial Bank**](/payment-methods/mega_bank/)|[`mega_bank_idr_hpp`](mega_bank_idr_hpp/)| 
 |![Megafon](https://static.openfintech.io/payment_methods/megafon/logo.png?w=400&c=v0.59.26#w200) |[**Megafon**](/payment-methods/megafon/)|[`megafon_rub_hpp`](megafon_rub_hpp/)| 
@@ -721,6 +722,7 @@
 |![Papara](https://static.openfintech.io/payment_methods/papara/logo.svg?w=400&c=v0.59.26#w200) |[**Papara**](/payment-methods/papara/)|[`papara_try_hpp`](papara_try_hpp/)| 
 |![Parazula](https://static.openfintech.io/payment_methods/parazula/logo.png?w=400&c=v0.59.26#w200) |[**Parazula**](/payment-methods/parazula/)|[`parazula_try_hpp`](parazula_try_hpp/)| 
 |![Pay4Fun](https://static.openfintech.io/payment_methods/pay4fun/logo.png?w=400&c=v0.59.26#w200) |[**Pay4Fun**](/payment-methods/pay4fun/)|[`pay4fun_brl_hpp`](pay4fun_brl_hpp/)| 
+|![PayID](https://static.openfintech.io/payment_methods/pay_id/logo.svg?w=400&c=v0.59.26#w200) |[**PayID**](/payment-methods/pay_id/)|[`pay_id_aud_hpp`](pay_id_aud_hpp/)| 
 |![PayID](https://static.openfintech.io/payment_methods/pay_id/logo.svg?w=400&c=v0.59.26#w200) |[**PayID**](/payment-methods/pay_id/)|[`pay_id_aud_invoice`](pay_id_aud_invoice/)| 
 |![Payeer](https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&c=v0.59.26#w200) |[**Payeer**](/payment-methods/payeer/)|[`payeer_eur_hpp`](payeer_eur_hpp/)| 
 |![Payeer](https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&c=v0.59.26#w200) |[**Payeer**](/payment-methods/payeer/)|[`payeer_rub_hpp`](payeer_rub_hpp/)| 

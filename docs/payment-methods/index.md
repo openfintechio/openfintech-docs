@@ -416,6 +416,7 @@
 |![maybanknetbankingphillipines](https://static.openfintech.io/payment_methods/maybanknetbankingphillipines/logo.png?w=400&c=v0.59.26#w200) |[**Maybank netbanking**](maybanknetbankingphillipines/)|`maybanknetbankingphillipines`| 
 |![mazooma](https://static.openfintech.io/payment_methods/mazooma/logo.png?w=400&c=v0.59.26#w200) |[**Mazooma**](mazooma/)|`mazooma`| 
 |![mb_bank](https://static.openfintech.io/payment_methods/mb_bank/logo.png?w=400&c=v0.59.26#w200) |[**MB Bank**](mb_bank/)|`mb_bank`| 
+|![mb_way](https://static.openfintech.io/payment_methods/mb_way/logo.svg?w=400&c=v0.59.26#w200) |[**MB WAY**](mb_way/)|`mb_way`| 
 |![mbank](https://static.openfintech.io/payment_methods/mbank/logo.png?w=400&c=v0.59.26#w200) |[**mBank (mTransfer)**](mbank/)|`mbank`| 
 |![mefete](https://static.openfintech.io/payment_methods/mefete/logo.png?w=400&c=v0.59.26#w200) |[**Mefete**](mefete/)|`mefete`| 
 |![mega_bank](https://static.openfintech.io/payment_methods/mega_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Mega International Commercial Bank**](mega_bank/)|`mega_bank`| 
