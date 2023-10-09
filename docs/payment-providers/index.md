@@ -747,6 +747,7 @@
 |![rocketgate](https://static.openfintech.io/payment_providers/rocketgate/logo.png?w=600&c=v0.59.26#w100) |[**RocketGate**](rocketgate/)|`rocketgate`| 
 |![royalpay](https://static.openfintech.io/payment_providers/royalpay/logo.svg?w=600&c=v0.59.26#w100) |[**Royal Pay**](royalpay/)|`royalpay`| 
 |![rubikonsoft](https://static.openfintech.io/payment_providers/rubikonsoft/logo.png?w=600&c=v0.59.26#w100) |[**Rubikon Soft**](rubikonsoft/)|`rubikonsoft`| 
+|![rubinpay](https://static.openfintech.io/payment_providers/rubinpay/logo.png?w=600&c=v0.59.26#w100) |[**RubinPay**](rubinpay/)|`rubinpay`| 
 |![rumbapay](https://static.openfintech.io/payment_providers/rumbapay/logo.png?w=600&c=v0.59.26#w100) |[**RumbaPay**](rumbapay/)|`rumbapay`| 
 |![russianstandardbank](https://static.openfintech.io/payment_providers/russianstandardbank/logo.png?w=600&c=v0.59.26#w100) |[**Russian Standard Bank**](russianstandardbank/)|`russianstandardbank`| 
 || **S** ||

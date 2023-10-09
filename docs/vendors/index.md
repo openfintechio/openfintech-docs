@@ -1773,6 +1773,7 @@
 |![royalpay](https://static.openfintech.io/vendors/royalpay/logo.svg?w=600&c=v0.59.26#w200) |[**Royal Pay**](royalpay/)|`royalpay`| 
 |![ru.btcbit.net](https://static.openfintech.io/vendors/ru.btcbit.net/logo.svg?w=600&c=v0.59.26#w200) |[**btcbit**](ru.btcbit.net/)|`ru.btcbit.net`| 
 |![rubikonsoft](https://static.openfintech.io/vendors/rubikonsoft/logo.png?w=600&c=v0.59.26#w200) |[**Rubikon Soft**](rubikonsoft/)|`rubikonsoft`| 
+|![rubinpay](https://static.openfintech.io/vendors/rubinpay/logo.png?w=600&c=v0.59.26#w200) |[**RubinPay**](rubinpay/)|`rubinpay`| 
 |![rumbapay](https://static.openfintech.io/vendors/rumbapay/logo.png?w=600&c=v0.59.26#w200) |[**RumbaPay**](rumbapay/)|`rumbapay`| 
 |![rupaypaysecure](https://static.openfintech.io/vendors/rupaypaysecure/logo.png?w=600&c=v0.59.26#w200) |[**RuPay PaySecure**](rupaypaysecure/)|`rupaypaysecure`| 
 |![russianstandardbank](https://static.openfintech.io/vendors/russianstandardbank/logo.png?w=600&c=v0.59.26#w200) |[**Russian Standard Bank**](russianstandardbank/)|`russianstandardbank`| 
