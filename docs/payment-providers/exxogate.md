@@ -212,6 +212,10 @@ The list of supported [Payment Methods](/payment-methods/)
 |![vodacom](https://static.openfintech.io/payment_methods/vodacom/icon.png?w=278&c=v0.59.26#w100) |[vodacom](/payment-methods/vodacom/)|`vodacom`| 
 |![orange_money](https://static.openfintech.io/payment_methods/orange_money/icon.svg?w=278&c=v0.59.26#w100) |[orange_money](/payment-methods/orange_money/)|`orange_money`| 
 |![zamtel](https://static.openfintech.io/payment_methods/zamtel/icon.png?w=278&c=v0.59.26#w100) |[zamtel](/payment-methods/zamtel/)|`zamtel`| 
+|![bkash_limited](https://static.openfintech.io/payment_methods/bkash_limited/icon.png?w=278&c=v0.59.26#w100) |[bkash_limited](/payment-methods/bkash_limited/)|`bkash_limited`| 
+|![nagad_wallet](https://static.openfintech.io/payment_methods/nagad_wallet/icon.svg?w=278&c=v0.59.26#w100) |[nagad_wallet](/payment-methods/nagad_wallet/)|`nagad_wallet`| 
+|![dutch_bangla_bank_limited_rocket](https://static.openfintech.io/payment_methods/dutch_bangla_bank_limited_rocket/icon.svg?w=278&c=v0.59.26#w100) |[dutch_bangla_bank_limited_rocket](/payment-methods/dutch_bangla_bank_limited_rocket/)|`dutch_bangla_bank_limited_rocket`| 
+|![united_commercial_bank_upay](https://static.openfintech.io/payment_methods/united_commercial_bank_upay/icon.png?w=278&c=v0.59.26#w100) |[united_commercial_bank_upay](/payment-methods/united_commercial_bank_upay/)|`united_commercial_bank_upay`| 
  
 
 ## Payout Methods 
@@ -772,7 +776,11 @@ The list of supported [Payout Methods](/payout-methods/)
     "tigo_pesa",
     "vodacom",
     "orange_money",
-    "zamtel"
+    "zamtel",
+    "bkash_limited",
+    "nagad_wallet",
+    "dutch_bangla_bank_limited_rocket",
+    "united_commercial_bank_upay"
   ],
   "payout_method":[
     "hdfc_bank",

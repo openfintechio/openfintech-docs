@@ -1748,6 +1748,7 @@
 |![reddotpayment](https://static.openfintech.io/vendors/reddotpayment/logo.png?w=600&c=v0.59.26#w200) |[**Red Dot Payment**](reddotpayment/)|`reddotpayment`| 
 |![redecard](https://static.openfintech.io/vendors/redecard/logo.png?w=600&c=v0.59.26#w200) |[**Redecard**](redecard/)|`redecard`| 
 |![redpass](https://static.openfintech.io/vendors/redpass/logo.svg?w=600&c=v0.59.26#w200) |[**RedPass**](redpass/)|`redpass`| 
+|![redqueen](https://static.openfintech.io/vendors/redqueen/logo.png?w=600&c=v0.59.26#w200) |[**Red Queen**](redqueen/)|`redqueen`| 
 |![reel](https://static.openfintech.io/vendors/reel/logo.png?w=600&c=v0.59.26#w200) |[**REEL**](reel/)|`reel`| 
 |![reepay](https://static.openfintech.io/vendors/reepay/logo.png?w=600&c=v0.59.26#w200) |[**ReePay**](reepay/)|`reepay`| 
 |![reeves](https://static.openfintech.io/vendors/reeves/logo.png?w=600&c=v0.59.26#w200) |[**Reeves**](reeves/)|`reeves`| 
