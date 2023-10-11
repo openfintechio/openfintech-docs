@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`vpa`|✔|`string`|`/^.{2,}@\w+$/`| 
+|`vpa`|✗|`string`|`/^.{2,}@\w+$/`| 
 |`account_number`|✗|`string`|`/^.{1,50}$/`| 
 |`beneficiary_full_name`|✗|`string`|`/^[a-zA-Z]+(([',. -][a-zA-Z ])?[a-zA-Z]*)*$/`| 
 |`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
@@ -42,7 +42,7 @@
  
 	Regexp: `/^.{2,}@\w+$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] VPA 
@@ -203,7 +203,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c VPA"
       },
       "regexp":"\/^.{2,}@\\w+$\/",
-      "required":true,
+      "required":false,
       "position":1
     },
     {
