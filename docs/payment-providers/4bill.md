@@ -60,6 +60,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
 |![settlepay_wallet](https://static.openfintech.io/payout_methods/settlepay_wallet/icon.svg?w=278&c=v0.59.26#w40) |[settlepay_wallet](payout-methodssettlepay_wallet/)|`settlepay_wallet`| 
 |![pix](https://static.openfintech.io/payout_methods/pix/icon.svg?w=278&c=v0.59.26#w40) |[pix](payout-methodspix/)|`pix`| 
+|![upi](https://static.openfintech.io/payout_methods/upi/icon.svg?w=278&c=v0.59.26#w40) |[upi](payout-methodsupi/)|`upi`| 
  
 
 ## JSON Object 
@@ -84,7 +85,8 @@ The list of supported [Payout Methods](/payout-methods/)
   "payout_method":[
     "payment_card",
     "settlepay_wallet",
-    "pix"
+    "pix",
+    "upi"
   ],
   "metadata":null,
   "name":{

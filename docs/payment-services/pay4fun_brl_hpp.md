@@ -24,6 +24,7 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`account_id`|✗|`string`|`/^[\w]{1,64}$/`| 
+|`account_email`|✗|`string`|`/^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,3})$/`| 
  
 
 ### Details 
@@ -42,9 +43,27 @@
 	: [UK] Номер рахунку 
  
 	Hint:  
-	: [EN] Enter account id 
+	: [EN] Enter account ID 
 	: [RU] Введите номер счета 
 	: [UK] Введіть номер рахунку 
+ 
+2. **`account_email`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,3})$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Account Email 
+	: [RU] Еmail аккаунта 
+	: [UK] Еmail облікового запису 
+ 
+	Hint:  
+	: [EN] Enter account email 
+	: [RU] Введите email аккаунта 
+	: [UK] Введіть email облікового запису 
  
 
 ## JSON Object 
@@ -68,11 +87,29 @@
       "required":false,
       "position":1,
       "hint":{
-        "en":"Enter account id",
+        "en":"Enter account ID",
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
       },
-      "example":"GB97BARC20031877565489"
+      "example":"77413829266"
+    },
+    {
+      "key":"account_email",
+      "type":"string",
+      "label":{
+        "en":"Account Email",
+        "ru":"\u0415mail \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",
+        "uk":"\u0415mail \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u043f\u0438\u0441\u0443"
+      },
+      "regexp":"\/^[_a-zA-Z0-9-]+(\\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\\.[a-zA-Z0-9-]+)*(\\.[a-zA-Z]{2,3})$\/",
+      "required":false,
+      "position":2,
+      "hint":{
+        "en":"Enter account email",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 email \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c email \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u043f\u0438\u0441\u0443"
+      },
+      "example":"test_customer@p4f.com"
     }
   ],
   "amount_min":0.01,
