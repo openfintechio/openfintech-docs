@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _RTGS_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![decard](https://static.openfintech.io/payment_providers/decard/icon.svg?w=278&c=v0.59.26#w100) |[Decard](/payment-providers/decard/)|`decard`| 
 |![payport](https://static.openfintech.io/payment_providers/payport/icon.svg?w=278&c=v0.59.26#w100) |[PayPort](/payment-providers/payport/)|`payport`| 
  
 

@@ -1,23 +1,23 @@
 
-# Western Union Panama (service) 
-![western_union_panama_cash_usd_hpp](https://static.openfintech.io/payment_methods/western_union_panama_cash_usd_hpp/logo.svg?w=400&c=v0.59.26#w200)  
+# Bank Transfer (service) 
+![bank_transfer_pen_hpp](https://static.openfintech.io/payment_methods/bank_transfer_pen_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `western_union_panama_cash_usd_hpp` 
+**Code:** `bank_transfer_pen_hpp` 
  
-**Method:** `western_union_panama_cash` 
- [show -->](/payment-methods/western_union_panama_cash/) 
+**Method:** `bank_transfer` 
+ [show -->](/payment-methods/bank_transfer/) 
  
-**Currency:** `USD` [show -->](/currencies/USD/) 
+**Currency:** `PEN` [show -->](/currencies/PEN/) 
  
 **Name:** 
  
-:	[EN] Western Union Panama 
-:	[RU] Western Union Panama 
-:	[UK] Western Union Panama 
+:	[EN] Bank Transfer 
+:	[RU] Банковский перевод 
+:	[UK] Банківський переказ 
  
-**Amount limits:** from `0.01` to `100000` USD 
+**Amount limits:** from `0.01` to `377000` PEN 
 
 ## Fields 
 
@@ -72,10 +72,10 @@
 
 ```json
 {
-  "code":"western_union_panama_cash_usd_hpp",
+  "code":"bank_transfer_pen_hpp",
   "flow":"hpp",
-  "method":"western_union_panama_cash",
-  "currency":"USD",
+  "method":"bank_transfer",
+  "currency":"PEN",
   "fields":[
     {
       "key":"document_type",
@@ -114,6 +114,6 @@
     }
   ],
   "amount_min":0.01,
-  "amount_max":100000
+  "amount_max":377000
 }
 ```  

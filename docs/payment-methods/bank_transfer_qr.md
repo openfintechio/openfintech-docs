@@ -35,6 +35,7 @@ The list of [Payment Services](/payment-services/) based on the _Bank Transfer Q
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bank_transfer_qr](https://static.openfintech.io/payment_methods/bank_transfer_qr/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_qr_thb_hpp](/payment-services/bank_transfer_qr_thb_hpp/)|`bank_transfer_qr_thb_hpp`| 
+|![bank_transfer_qr](https://static.openfintech.io/payment_methods/bank_transfer_qr/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_qr_idr_hpp](/payment-services/bank_transfer_qr_idr_hpp/)|`bank_transfer_qr_idr_hpp`| 
  
 
 ## Payment Providers 
@@ -43,6 +44,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![decard](https://static.openfintech.io/payment_providers/decard/icon.svg?w=278&c=v0.59.26#w100) |[Decard](/payment-providers/decard/)|`decard`| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
  
 
