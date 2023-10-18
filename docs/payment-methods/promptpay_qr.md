@@ -47,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PromptPay
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![alikassa](https://static.openfintech.io/payment_providers/alikassa/icon.svg?w=278&c=v0.59.26#w100) |[AliKassa](/payment-providers/alikassa/)|`alikassa`| 
 |![ubankconnect](https://static.openfintech.io/payment_providers/ubankconnect/icon.svg?w=278&c=v0.59.26#w100) |[UBank Connect](/payment-providers/ubankconnect/)|`ubankconnect`| 
  
 

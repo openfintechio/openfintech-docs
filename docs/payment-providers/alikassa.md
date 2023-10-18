@@ -42,6 +42,20 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
+|![promptpay_qr](https://static.openfintech.io/payment_methods/promptpay_qr/icon.svg?w=278&c=v0.59.26#w100) |[promptpay_qr](/payment-methods/promptpay_qr/)|`promptpay_qr`| 
+|![truemoney](https://static.openfintech.io/payment_methods/truemoney/icon.png?w=278&c=v0.59.26#w100) |[truemoney](/payment-methods/truemoney/)|`truemoney`| 
+|![bank_transfer_qr](https://static.openfintech.io/payment_methods/bank_transfer_qr/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_qr](/payment-methods/bank_transfer_qr/)|`bank_transfer_qr`| 
+|![ovo](https://static.openfintech.io/payment_methods/ovo/icon.png?w=278&c=v0.59.26#w100) |[ovo](/payment-methods/ovo/)|`ovo`| 
+|![dana](https://static.openfintech.io/payment_methods/dana/icon.png?w=278&c=v0.59.26#w100) |[dana](/payment-methods/dana/)|`dana`| 
+|![linkaja](https://static.openfintech.io/payment_methods/linkaja/icon.svg?w=278&c=v0.59.26#w100) |[linkaja](/payment-methods/linkaja/)|`linkaja`| 
+|![shopeepay](https://static.openfintech.io/payment_methods/shopeepay/icon.svg?w=278&c=v0.59.26#w100) |[shopeepay](/payment-methods/shopeepay/)|`shopeepay`| 
+|![bank_central_asia](https://static.openfintech.io/payment_methods/bank_central_asia/icon.svg?w=278&c=v0.59.26#w100) |[bank_central_asia](/payment-methods/bank_central_asia/)|`bank_central_asia`| 
+|![bank_negara_indonesia](https://static.openfintech.io/payment_methods/bank_negara_indonesia/icon.svg?w=278&c=v0.59.26#w100) |[bank_negara_indonesia](/payment-methods/bank_negara_indonesia/)|`bank_negara_indonesia`| 
+|![bank_neo_commerce](https://static.openfintech.io/payment_methods/bank_neo_commerce/icon.png?w=278&c=v0.59.26#w100) |[bank_neo_commerce](/payment-methods/bank_neo_commerce/)|`bank_neo_commerce`| 
+|![bank_rakyat_indonesia](https://static.openfintech.io/payment_methods/bank_rakyat_indonesia/icon.svg?w=278&c=v0.59.26#w100) |[bank_rakyat_indonesia](/payment-methods/bank_rakyat_indonesia/)|`bank_rakyat_indonesia`| 
+|![permata_bank](https://static.openfintech.io/payment_methods/permata_bank/icon.svg?w=278&c=v0.59.26#w100) |[permata_bank](/payment-methods/permata_bank/)|`permata_bank`| 
+|![mandiri_bank](https://static.openfintech.io/payment_methods/mandiri_bank/icon.svg?w=278&c=v0.59.26#w100) |[mandiri_bank](/payment-methods/mandiri_bank/)|`mandiri_bank`| 
+|![cimb_niaga](https://static.openfintech.io/payment_methods/cimb_niaga/icon.svg?w=278&c=v0.59.26#w100) |[cimb_niaga](/payment-methods/cimb_niaga/)|`cimb_niaga`| 
  
 
 ## Payout Methods 
@@ -65,7 +79,21 @@ The list of supported [Payout Methods](/payout-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    "payment_card"
+    "payment_card",
+    "promptpay_qr",
+    "truemoney",
+    "bank_transfer_qr",
+    "ovo",
+    "dana",
+    "linkaja",
+    "shopeepay",
+    "bank_central_asia",
+    "bank_negara_indonesia",
+    "bank_neo_commerce",
+    "bank_rakyat_indonesia",
+    "permata_bank",
+    "mandiri_bank",
+    "cimb_niaga"
   ],
   "payout_method":[
     "payment_card"

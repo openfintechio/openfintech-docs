@@ -43,6 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank CIMB
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![alikassa](https://static.openfintech.io/payment_providers/alikassa/icon.svg?w=278&c=v0.59.26#w100) |[AliKassa](/payment-providers/alikassa/)|`alikassa`| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
 |![odeonpay](https://static.openfintech.io/payment_providers/odeonpay/icon.png?w=278&c=v0.59.26#w100) |[OdeonPay](/payment-providers/odeonpay/)|`odeonpay`| 
  
