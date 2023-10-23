@@ -30,6 +30,10 @@
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
 |`account_number`|✗|`string`|`/^[0-9]{5,100}$/`| 
 |`account_type`|✗|`string`|`/^[A-Za-z0-9]{1,10}$/`| 
+|`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
+|`beneficiary_country_code_iso`|✗|`string`|`/^.{2,6}$/`| 
+|`beneficiary_document_type`|✗|`string`|`/^[A-Za-z]{3,20}$/`| 
+|`beneficiary_state`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
  
 
 ### Details 
@@ -142,6 +146,78 @@
 	: [RU] Введите тип аккаунта 
 	: [UK] Введіть тип акаунту 
  
+7. **`beneficiary_email`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Email 
+	: [RU] Email 
+	: [UK] Email 
+ 
+	Hint:  
+	: [EN] Enter Email 
+	: [RU] Введите Email 
+	: [UK] Введіть Email 
+ 
+8. **`beneficiary_country_code_iso`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{2,6}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary country code 
+	: [RU] Beneficiary country code 
+	: [UK] Beneficiary country code 
+ 
+	Hint:  
+	: [EN] Enter beneficiary country code 
+	: [RU] Введите beneficiary country code 
+	: [UK] Введіть beneficiary country code 
+ 
+9. **`beneficiary_document_type`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z]{3,20}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary Document Type 
+	: [RU] Тип документа получателя 
+	: [UK] Тип документу отримувача 
+ 
+	Hint:  
+	: [EN] Enter Beneficiary Document Type 
+	: [RU] Введите тип документа получателя 
+	: [UK] Введіть тип документу отримувача 
+ 
+10. **`beneficiary_state`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary state 
+	: [RU] Beneficiary state 
+	: [UK] Beneficiary state 
+ 
+	Hint:  
+	: [EN] Enter beneficiary state 
+	: [RU] Введите beneficiary state 
+	: [UK] Введіть beneficiary state 
+ 
 
 ## JSON Object 
 
@@ -251,6 +327,75 @@
         "en":"Enter account type",
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0430\u043a\u0430\u0443\u043d\u0442\u0443"
+      }
+    },
+    {
+      "key":"beneficiary_email",
+      "type":"string",
+      "label":{
+        "en":"Email",
+        "ru":"Email",
+        "uk":"Email"
+      },
+      "hint":{
+        "en":"Enter Email",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Email",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Email"
+      },
+      "example":"johndoe@mail.com",
+      "regexp":"\/^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,4})$\/",
+      "required":false,
+      "position":7
+    },
+    {
+      "key":"beneficiary_country_code_iso",
+      "type":"string",
+      "regexp":"\/^.{2,6}$\/",
+      "required":false,
+      "position":8,
+      "label":{
+        "en":"Beneficiary country code",
+        "ru":"Beneficiary country code",
+        "uk":"Beneficiary country code"
+      },
+      "hint":{
+        "en":"Enter beneficiary country code",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 beneficiary country code",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c beneficiary country code"
+      }
+    },
+    {
+      "key":"beneficiary_document_type",
+      "type":"string",
+      "regexp":"\/^[A-Za-z]{3,20}$\/",
+      "required":false,
+      "position":9,
+      "label":{
+        "en":"Beneficiary Document Type",
+        "ru":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter Beneficiary Document Type",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      }
+    },
+    {
+      "key":"beneficiary_state",
+      "type":"string",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f,\\s\\-\\d]{2,64}$\/",
+      "required":false,
+      "position":10,
+      "label":{
+        "en":"Beneficiary state",
+        "ru":"Beneficiary state",
+        "uk":"Beneficiary state"
+      },
+      "hint":{
+        "en":"Enter beneficiary state",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 beneficiary state",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c beneficiary state"
       }
     }
   ],

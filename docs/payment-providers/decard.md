@@ -57,6 +57,21 @@ The list of supported [Payment Methods](/payment-methods/)
 |![truemoney](https://static.openfintech.io/payment_methods/truemoney/icon.png?w=278&c=v0.59.26#w100) |[truemoney](/payment-methods/truemoney/)|`truemoney`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![upi](https://static.openfintech.io/payout_methods/upi/icon.svg?w=278&c=v0.59.26#w40) |[upi](payout-methodsupi/)|`upi`| 
+|![imps](https://static.openfintech.io/payout_methods/imps/icon.png?w=278&c=v0.59.26#w40) |[imps](payout-methodsimps/)|`imps`| 
+|![phonepe](https://static.openfintech.io/payout_methods/phonepe/icon.svg?w=278&c=v0.59.26#w40) |[phonepe](payout-methodsphonepe/)|`phonepe`| 
+|![paytm](https://static.openfintech.io/payout_methods/paytm/icon.svg?w=278&c=v0.59.26#w40) |[paytm](payout-methodspaytm/)|`paytm`| 
+|![rtgs](https://static.openfintech.io/payout_methods/rtgs/icon.svg?w=278&c=v0.59.26#w40) |[rtgs](payout-methodsrtgs/)|`rtgs`| 
+|![neft](https://static.openfintech.io/payout_methods/neft/icon.svg?w=278&c=v0.59.26#w40) |[neft](payout-methodsneft/)|`neft`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -84,7 +99,15 @@ The list of supported [Payment Methods](/payment-methods/)
     "shopeepay",
     "truemoney"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "upi",
+    "imps",
+    "phonepe",
+    "paytm",
+    "rtgs",
+    "neft",
+    "bank_transfer"
+  ],
   "metadata":null,
   "name":{
     "en":"Decard",
