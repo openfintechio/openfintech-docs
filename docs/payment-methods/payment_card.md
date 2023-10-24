@@ -473,6 +473,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![aliumpay](https://static.openfintech.io/payment_providers/aliumpay/icon.svg?w=278&c=v0.59.26#w100) |[AliumPay](/payment-providers/aliumpay/)|`aliumpay`| 
 |![cpay](https://static.openfintech.io/payment_providers/cpay/icon.png?w=278&c=v0.59.26#w100) |[C.Pay](/payment-providers/cpay/)|`cpay`| 
 |![siquro](https://static.openfintech.io/payment_providers/siquro/icon.png?w=278&c=v0.59.26#w100) |[Siquro](/payment-providers/siquro/)|`siquro`| 
+|![paysecure](https://static.openfintech.io/payment_providers/paysecure/icon.png?w=278&c=v0.59.26#w100) |[Paysecure](/payment-providers/paysecure/)|`paysecure`| 
 |![paylinkio](https://static.openfintech.io/payment_providers/paylinkio/icon.png?w=278&c=v0.59.26#w100) |[Paylinkio](/payment-providers/paylinkio/)|`paylinkio`| 
 |![btgate](https://static.openfintech.io/payment_providers/btgate/icon.png?w=278&c=v0.59.26#w100) |[btGate](/payment-providers/btgate/)|`btgate`| 
 |![vppay](https://static.openfintech.io/payment_providers/vppay/icon.svg?w=278&c=v0.59.26#w100) |[VPPay](/payment-providers/vppay/)|`vppay`| 

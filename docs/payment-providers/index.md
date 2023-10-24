@@ -646,6 +646,7 @@
 |![paysage](https://static.openfintech.io/payment_providers/paysage/logo.png?w=600&c=v0.59.26#w100) |[**PaySage.io**](paysage/)|`paysage`| 
 |![payscout](https://static.openfintech.io/payment_providers/payscout/logo.png?w=600&c=v0.59.26#w100) |[**Payscout**](payscout/)|`payscout`| 
 |![paysec](https://static.openfintech.io/payment_providers/paysec/logo.svg?w=600&c=v0.59.26#w100) |[**PaySec**](paysec/)|`paysec`| 
+|![paysecure](https://static.openfintech.io/payment_providers/paysecure/logo.png?w=600&c=v0.59.26#w100) |[**Paysecure**](paysecure/)|`paysecure`| 
 |![paysera](https://static.openfintech.io/payment_providers/paysera/logo.png?w=600&c=v0.59.26#w100) |[**Paysera LT**](paysera/)|`paysera`| 
 |![payseven](https://static.openfintech.io/payment_providers/payseven/logo.png?w=600&c=v0.59.26#w100) |[**PaySeven**](payseven/)|`payseven`| 
 |![paysimple](https://static.openfintech.io/payment_providers/paysimple/logo.svg?w=600&c=v0.59.26#w100) |[**PaySimple**](paysimple/)|`paysimple`| 

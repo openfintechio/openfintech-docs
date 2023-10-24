@@ -1583,6 +1583,7 @@
 |![paysbuy](https://static.openfintech.io/vendors/paysbuy/logo.png?w=600&c=v0.59.26#w200) |[**PAYSBUY**](paysbuy/)|`paysbuy`| 
 |![payscout](https://static.openfintech.io/vendors/payscout/logo.png?w=600&c=v0.59.26#w200) |[**Payscout**](payscout/)|`payscout`| 
 |![paysec](https://static.openfintech.io/vendors/paysec/logo.png?w=600&c=v0.59.26#w200) |[**PaySec**](paysec/)|`paysec`| 
+|![paysecure](https://static.openfintech.io/vendors/paysecure/logo.png?w=600&c=v0.59.26#w200) |[**Paysecure**](paysecure/)|`paysecure`| 
 |![paysera](https://static.openfintech.io/vendors/paysera/logo.png?w=600&c=v0.59.26#w200) |[**Paysera LT**](paysera/)|`paysera`| 
 |![payseven](https://static.openfintech.io/vendors/payseven/logo.png?w=600&c=v0.59.26#w200) |[**PaySeven**](payseven/)|`payseven`| 
 |![payshop](https://static.openfintech.io/vendors/payshop/logo.png?w=600&c=v0.59.26#w200) |[**Payshop**](payshop/)|`payshop`| 
