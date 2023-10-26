@@ -40,6 +40,10 @@ The list of [Payout Services](/payout-services/) based on the _USD Coin_
 |![usd_coin](https://static.openfintech.io/payout_methods/usd_coin/icon.png?w=278&c=v0.59.26#w40) |[usd_coin_usdcerc20](/payout-services/usd_coin_usdcerc20/)|`usd_coin_usdcerc20`| 
 |![usd_coin](https://static.openfintech.io/payout_methods/usd_coin/icon.png?w=278&c=v0.59.26#w40) |[usd_coin_usdctrc20](/payout-services/usd_coin_usdctrc20/)|`usd_coin_usdctrc20`| 
 |![usd_coin](https://static.openfintech.io/payout_methods/usd_coin/icon.png?w=278&c=v0.59.26#w40) |[usd_coin_usdcbep20](/payout-services/usd_coin_usdcbep20/)|`usd_coin_usdcbep20`| 
+|![usd_coin](https://static.openfintech.io/payout_methods/usd_coin/icon.png?w=278&c=v0.59.26#w40) |[usd_coin_bep20_usd](/payout-services/usd_coin_bep20_usd/)|`usd_coin_bep20_usd`| 
+|![usd_coin](https://static.openfintech.io/payout_methods/usd_coin/icon.png?w=278&c=v0.59.26#w40) |[usd_coin_bep20_eur](/payout-services/usd_coin_bep20_eur/)|`usd_coin_bep20_eur`| 
+|![usd_coin](https://static.openfintech.io/payout_methods/usd_coin/icon.png?w=278&c=v0.59.26#w40) |[usd_coin_bep20_gbp](/payout-services/usd_coin_bep20_gbp/)|`usd_coin_bep20_gbp`| 
+|![usd_coin](https://static.openfintech.io/payout_methods/usd_coin/icon.png?w=278&c=v0.59.26#w40) |[usd_coin_bep20_chf](/payout-services/usd_coin_bep20_chf/)|`usd_coin_bep20_chf`| 
  
 
 ## Payment Providers 

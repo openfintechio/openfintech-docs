@@ -305,6 +305,10 @@
 |![BIDV Bank](https://static.openfintech.io/payout_methods/bidv_bank/logo.svg?w=400&c=v0.59.26#w24) |[**BIDV Bank**](/payout-methods/bidv_bank/)|[`bidv_bank_vnd`](bidv_bank_vnd/)|`VND`| 
 |![Bilotserkovteplomerezha](https://static.openfintech.io/payout_methods/bilotserkovteplomerezha/logo.png?w=400&c=v0.59.26#w24) |[**Bilotserkovteplomerezha**](/payout-methods/bilotserkovteplomerezha/)|[`bilotserkovteplomerezha_uah`](bilotserkovteplomerezha_uah/)|`UAH`| 
 |![Binance coin](https://static.openfintech.io/payout_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w24) |[**Binance coin**](/payout-methods/binance_coin/)|[`binance_coin_bnb`](binance_coin_bnb/)|`BNB`| 
+|![Binance coin](https://static.openfintech.io/payout_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w24) |[**Binance coin**](/payout-methods/binance_coin/)|[`binance_coin_chf`](binance_coin_chf/)|`CHF`| 
+|![Binance coin](https://static.openfintech.io/payout_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w24) |[**Binance coin**](/payout-methods/binance_coin/)|[`binance_coin_eur`](binance_coin_eur/)|`EUR`| 
+|![Binance coin](https://static.openfintech.io/payout_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w24) |[**Binance coin**](/payout-methods/binance_coin/)|[`binance_coin_gbp`](binance_coin_gbp/)|`GBP`| 
+|![Binance coin](https://static.openfintech.io/payout_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w24) |[**Binance coin**](/payout-methods/binance_coin/)|[`binance_coin_usd`](binance_coin_usd/)|`USD`| 
 |![Binance smart chain](https://static.openfintech.io/payout_methods/binance_smart_chain/logo.png?w=400&c=v0.59.26#w24) |[**Binance smart chain**](/payout-methods/binance_smart_chain/)|[`binance_smart_chain_bnb`](binance_smart_chain_bnb/)|`BNB`| 
 |![Binance Usd](https://static.openfintech.io/payout_methods/binance_usd/logo.png?w=400&c=v0.59.26#w24) |[**Binance Usd**](/payout-methods/binance_usd/)|[`binance_usd_busd`](binance_usd_busd/)|`BUSD`| 
 |![BISNET (Odessa region)](https://static.openfintech.io/payout_methods/bisnet-odesskaia-oblast/logo.png?w=400&c=v0.59.26#w24) |[**BISNET (Odessa region)**](/payout-methods/bisnet-odesskaia-oblast/)|[`bisnet-odesskaia-oblast_uah`](bisnet-odesskaia-oblast_uah/)|`UAH`| 
@@ -313,7 +317,9 @@
 |![Bitcoin cash](https://static.openfintech.io/payout_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w24) |[**Bitcoin cash**](/payout-methods/bitcoin_cash/)|[`bitcoin_cash_eur`](bitcoin_cash_eur/)|`EUR`| 
 |![Bitcoin cash](https://static.openfintech.io/payout_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w24) |[**Bitcoin cash**](/payout-methods/bitcoin_cash/)|[`bitcoin_cash_uah`](bitcoin_cash_uah/)|`UAH`| 
 |![Bitcoin cash](https://static.openfintech.io/payout_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w24) |[**Bitcoin cash**](/payout-methods/bitcoin_cash/)|[`bitcoin_cash_usd`](bitcoin_cash_usd/)|`USD`| 
+|![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_chf`](bitcoin_chf/)|`CHF`| 
 |![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_eur`](bitcoin_eur/)|`EUR`| 
+|![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_gbp`](bitcoin_gbp/)|`GBP`| 
 |![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_uah`](bitcoin_uah/)|`UAH`| 
 |![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_usd`](bitcoin_usd/)|`USD`| 
 |![BitexPRO P2P](https://static.openfintech.io/payout_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w24) |[**BitexPRO P2P**](/payout-methods/bitexpro_p2p/)|[`bitexpro_p2p_aed`](bitexpro_p2p_aed/)|`AED`| 
@@ -600,8 +606,10 @@
 |![ЄРЦ КП Дніпро](https://static.openfintech.io/payout_methods/erts-kp-dnipro/logo.svg?w=400&c=v0.59.26#w24) |[**ЄРЦ КП Дніпро**](/payout-methods/erts-kp-dnipro/)|[`erts-kp-dnipro_uah`](erts-kp-dnipro_uah/)|`UAH`| 
 |![Esan MFB](https://static.openfintech.io/payout_methods/esan_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Esan MFB**](/payout-methods/esan_mfb/)|[`esan_mfb_ngn`](esan_mfb_ngn/)|`NGN`| 
 |![Eso-E MFB](https://static.openfintech.io/payout_methods/esoe_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Eso-E MFB**](/payout-methods/esoe_mfb/)|[`esoe_mfb_ngn`](esoe_mfb_ngn/)|`NGN`| 
+|![Ethereum](https://static.openfintech.io/payout_methods/ethereum/logo.svg?w=400&c=v0.59.26#w24) |[**Ethereum**](/payout-methods/ethereum/)|[`ethereum_chf`](ethereum_chf/)|`CHF`| 
 |![Ethereum](https://static.openfintech.io/payout_methods/ethereum/logo.svg?w=400&c=v0.59.26#w24) |[**Ethereum**](/payout-methods/ethereum/)|[`ethereum_eth`](ethereum_eth/)|`ETH`| 
 |![Ethereum](https://static.openfintech.io/payout_methods/ethereum/logo.svg?w=400&c=v0.59.26#w24) |[**Ethereum**](/payout-methods/ethereum/)|[`ethereum_eur`](ethereum_eur/)|`EUR`| 
+|![Ethereum](https://static.openfintech.io/payout_methods/ethereum/logo.svg?w=400&c=v0.59.26#w24) |[**Ethereum**](/payout-methods/ethereum/)|[`ethereum_gbp`](ethereum_gbp/)|`GBP`| 
 |![Ethereum](https://static.openfintech.io/payout_methods/ethereum/logo.svg?w=400&c=v0.59.26#w24) |[**Ethereum**](/payout-methods/ethereum/)|[`ethereum_uah`](ethereum_uah/)|`UAH`| 
 |![Ethereum](https://static.openfintech.io/payout_methods/ethereum/logo.svg?w=400&c=v0.59.26#w24) |[**Ethereum**](/payout-methods/ethereum/)|[`ethereum_usd`](ethereum_usd/)|`USD`| 
 |![Etherlink](https://static.openfintech.io/payout_methods/etherlink/logo.svg?w=400&c=v0.59.26#w24) |[**Etherlink**](/payout-methods/etherlink/)|[`etherlink_uah`](etherlink_uah/)|`UAH`| 
@@ -2407,7 +2415,9 @@
 |![Test](https://static.openfintech.io/payout_methods/test/logo.png?w=400&c=v0.59.26#w24) |[**Test**](/payout-methods/test/)|[`test_xts`](test_xts/)|`XTS`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_bep20_aed`](tether_bep20_aed/)|`AED`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_bep20_azn`](tether_bep20_azn/)|`AZN`| 
+|![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_bep20_chf`](tether_bep20_chf/)|`CHF`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_bep20_eur`](tether_bep20_eur/)|`EUR`| 
+|![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_bep20_gbp`](tether_bep20_gbp/)|`GBP`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_bep20_idr`](tether_bep20_idr/)|`IDR`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_bep20_inr`](tether_bep20_inr/)|`INR`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_bep20_kzt`](tether_bep20_kzt/)|`KZT`| 
@@ -2422,7 +2432,9 @@
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_eos_usdt`](tether_eos_usdt/)|`USDT`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_erc20_aed`](tether_erc20_aed/)|`AED`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_erc20_azn`](tether_erc20_azn/)|`AZN`| 
+|![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_erc20_chf`](tether_erc20_chf/)|`CHF`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_erc20_eur`](tether_erc20_eur/)|`EUR`| 
+|![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_erc20_gbp`](tether_erc20_gbp/)|`GBP`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_erc20_idr`](tether_erc20_idr/)|`IDR`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_erc20_inr`](tether_erc20_inr/)|`INR`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_erc20_kzt`](tether_erc20_kzt/)|`KZT`| 
@@ -2451,7 +2463,9 @@
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_polygon_vnd`](tether_polygon_vnd/)|`VND`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_trc20_aed`](tether_trc20_aed/)|`AED`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_trc20_azn`](tether_trc20_azn/)|`AZN`| 
+|![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_trc20_chf`](tether_trc20_chf/)|`CHF`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_trc20_eur`](tether_trc20_eur/)|`EUR`| 
+|![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_trc20_gbp`](tether_trc20_gbp/)|`GBP`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_trc20_idr`](tether_trc20_idr/)|`IDR`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_trc20_inr`](tether_trc20_inr/)|`INR`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`tether_trc20_kzt`](tether_trc20_kzt/)|`KZT`| 
@@ -2874,6 +2888,14 @@
 |![UPI Payout](https://static.openfintech.io/payout_methods/upi_payout/logo.svg?w=400&c=v0.59.26#w24) |[**UPI Payout**](/payout-methods/upi_payout/)|[`upi_payout_inr`](upi_payout_inr/)|`INR`| 
 |![Упр.компания ЖКУ МИРЦ г.Артемовск](https://static.openfintech.io/payout_methods/upr-kompaniia-zhku-mirts-g-artemovsk/logo.svg?w=400&c=v0.59.26#w24) |[**Упр.компания ЖКУ МИРЦ г.Артемовск**](/payout-methods/upr-kompaniia-zhku-mirts-g-artemovsk/)|[`upr-kompaniia-zhku-mirts-g-artemovsk_uah`](upr-kompaniia-zhku-mirts-g-artemovsk_uah/)|`UAH`| 
 |![Urban Management (Vishneve)](https://static.openfintech.io/payout_methods/upravlenie-gorodskim-khoziaistvom-g-vishneve/logo.png?w=400&c=v0.59.26#w24) |[**Urban Management (Vishneve)**](/payout-methods/upravlenie-gorodskim-khoziaistvom-g-vishneve/)|[`upravlenie-gorodskim-khoziaistvom-g-vishneve_uah`](upravlenie-gorodskim-khoziaistvom-g-vishneve_uah/)|`UAH`| 
+|![USD Coin](https://static.openfintech.io/payout_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w24) |[**USD Coin**](/payout-methods/usd_coin/)|[`usd_coin_bep20_chf`](usd_coin_bep20_chf/)|`CHF`| 
+|![USD Coin](https://static.openfintech.io/payout_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w24) |[**USD Coin**](/payout-methods/usd_coin/)|[`usd_coin_bep20_eur`](usd_coin_bep20_eur/)|`EUR`| 
+|![USD Coin](https://static.openfintech.io/payout_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w24) |[**USD Coin**](/payout-methods/usd_coin/)|[`usd_coin_bep20_gbp`](usd_coin_bep20_gbp/)|`GBP`| 
+|![USD Coin](https://static.openfintech.io/payout_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w24) |[**USD Coin**](/payout-methods/usd_coin/)|[`usd_coin_bep20_usd`](usd_coin_bep20_usd/)|`USD`| 
+|![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`usd_coin_erc20_chf`](usd_coin_erc20_chf/)|`CHF`| 
+|![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`usd_coin_erc20_eur`](usd_coin_erc20_eur/)|`EUR`| 
+|![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`usd_coin_erc20_gbp`](usd_coin_erc20_gbp/)|`GBP`| 
+|![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`usd_coin_erc20_usd`](usd_coin_erc20_usd/)|`USD`| 
 |![USD Coin](https://static.openfintech.io/payout_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w24) |[**USD Coin**](/payout-methods/usd_coin/)|[`usd_coin_usdc`](usd_coin_usdc/)|`USDC`| 
 |![USD Coin](https://static.openfintech.io/payout_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w24) |[**USD Coin**](/payout-methods/usd_coin/)|[`usd_coin_usdcbep20`](usd_coin_usdcbep20/)|`USDCBEP20`| 
 |![USD Coin](https://static.openfintech.io/payout_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w24) |[**USD Coin**](/payout-methods/usd_coin/)|[`usd_coin_usdcerc20`](usd_coin_usdcerc20/)|`USDCERC20`| 

@@ -39,6 +39,10 @@ The list of [Payout Services](/payout-services/) based on the _Binance coin_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![binance_coin](https://static.openfintech.io/payout_methods/binance_coin/icon.svg?w=278&c=v0.59.26#w40) |[binance_coin_bnb](/payout-services/binance_coin_bnb/)|`binance_coin_bnb`| 
+|![binance_coin](https://static.openfintech.io/payout_methods/binance_coin/icon.svg?w=278&c=v0.59.26#w40) |[binance_coin_usd](/payout-services/binance_coin_usd/)|`binance_coin_usd`| 
+|![binance_coin](https://static.openfintech.io/payout_methods/binance_coin/icon.svg?w=278&c=v0.59.26#w40) |[binance_coin_eur](/payout-services/binance_coin_eur/)|`binance_coin_eur`| 
+|![binance_coin](https://static.openfintech.io/payout_methods/binance_coin/icon.svg?w=278&c=v0.59.26#w40) |[binance_coin_gbp](/payout-services/binance_coin_gbp/)|`binance_coin_gbp`| 
+|![binance_coin](https://static.openfintech.io/payout_methods/binance_coin/icon.svg?w=278&c=v0.59.26#w40) |[binance_coin_chf](/payout-services/binance_coin_chf/)|`binance_coin_chf`| 
  
 
 ## Payment Providers 

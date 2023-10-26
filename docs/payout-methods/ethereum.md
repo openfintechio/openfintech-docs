@@ -40,6 +40,8 @@ The list of [Payout Services](/payout-services/) based on the _Ethereum_
 |![ethereum](https://static.openfintech.io/payout_methods/ethereum/icon.svg?w=278&c=v0.59.26#w40) |[ethereum_uah](/payout-services/ethereum_uah/)|`ethereum_uah`| 
 |![ethereum](https://static.openfintech.io/payout_methods/ethereum/icon.svg?w=278&c=v0.59.26#w40) |[ethereum_usd](/payout-services/ethereum_usd/)|`ethereum_usd`| 
 |![ethereum](https://static.openfintech.io/payout_methods/ethereum/icon.svg?w=278&c=v0.59.26#w40) |[ethereum_eur](/payout-services/ethereum_eur/)|`ethereum_eur`| 
+|![ethereum](https://static.openfintech.io/payout_methods/ethereum/icon.svg?w=278&c=v0.59.26#w40) |[ethereum_gbp](/payout-services/ethereum_gbp/)|`ethereum_gbp`| 
+|![ethereum](https://static.openfintech.io/payout_methods/ethereum/icon.svg?w=278&c=v0.59.26#w40) |[ethereum_chf](/payout-services/ethereum_chf/)|`ethereum_chf`| 
  
 
 ## Payment Providers 
