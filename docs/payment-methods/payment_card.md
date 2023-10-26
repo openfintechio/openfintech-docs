@@ -241,6 +241,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![platon](https://static.openfintech.io/payment_providers/platon/icon.svg?w=278&c=v0.59.26#w100) |[PSP Platon](/payment-providers/platon/)|`platon`| 
 |![uapay](https://static.openfintech.io/payment_providers/uapay/icon.svg?w=278&c=v0.59.26#w100) |[UApay](/payment-providers/uapay/)|`uapay`| 
 |![klasha](https://static.openfintech.io/payment_providers/klasha/icon.png?w=278&c=v0.59.26#w100) |[Klasha](/payment-providers/klasha/)|`klasha`| 
+|![paymaster](https://static.openfintech.io/payment_providers/paymaster/icon.svg?w=278&c=v0.59.26#w100) |[Paymaster](/payment-providers/paymaster/)|`paymaster`| 
 |![xpayua](https://static.openfintech.io/payment_providers/xpayua/icon.svg?w=278&c=v0.59.26#w100) |[XPAY](/payment-providers/xpayua/)|`xpayua`| 
 |![paymentcenter](https://static.openfintech.io/payment_providers/paymentcenter/icon.png?w=278&c=v0.59.26#w100) |[Payment Center](/payment-providers/paymentcenter/)|`paymentcenter`| 
 |![paymegaio](https://static.openfintech.io/payment_providers/paymegaio/icon.svg?w=278&c=v0.59.26#w100) |[Paymega.io](/payment-providers/paymegaio/)|`paymegaio`| 

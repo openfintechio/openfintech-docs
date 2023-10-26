@@ -48,7 +48,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![walletone](https://static.openfintech.io/payment_providers/walletone/icon.svg?w=278&c=v0.59.26#w100) |[Wallet One](/payment-providers/walletone/)|`walletone`| 
-|![paymaster](https://static.openfintech.io/payment_providers/paymaster/icon.svg?w=278&c=v0.59.26#w100) |[Paymaster](/payment-providers/paymaster/)|`paymaster`| 
  
 
 ## JSON Object 

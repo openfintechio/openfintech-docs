@@ -30,15 +30,6 @@ https://static.openfintech.io/payment_methods/nsmep/logo.png?w=400&c=v0.59.26#w2
 https://static.openfintech.io/payment_methods/nsmep/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payment Providers 
- 
-The list of [Payment Providers](/payment-providers/) that support the _Prostir_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![paymaster](https://static.openfintech.io/payment_providers/paymaster/icon.svg?w=278&c=v0.59.26#w100) |[Paymaster](/payment-providers/paymaster/)|`paymaster`| 
- 
-
 ## JSON Object 
 
 ```json

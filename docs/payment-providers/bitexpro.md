@@ -45,6 +45,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![hero_payments](https://static.openfintech.io/payment_methods/hero_payments/icon.svg?w=278&c=v0.59.26#w100) |[hero_payments](/payment-methods/hero_payments/)|`hero_payments`| 
 |![bitexpro_p2p](https://static.openfintech.io/payment_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w100) |[bitexpro_p2p](/payment-methods/bitexpro_p2p/)|`bitexpro_p2p`| 
 |![bitexpro_wallet](https://static.openfintech.io/payment_methods/bitexpro_wallet/icon.png?w=278&c=v0.59.26#w100) |[bitexpro_wallet](/payment-methods/bitexpro_wallet/)|`bitexpro_wallet`| 
+|![bank_transfer_aggregated](https://static.openfintech.io/payment_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_aggregated](/payment-methods/bank_transfer_aggregated/)|`bank_transfer_aggregated`| 
  
 
 ## Payout Methods 
@@ -76,7 +77,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "payeer",
     "hero_payments",
     "bitexpro_p2p",
-    "bitexpro_wallet"
+    "bitexpro_wallet",
+    "bank_transfer_aggregated"
   ],
   "payout_method":[
     "advcash_wallet",

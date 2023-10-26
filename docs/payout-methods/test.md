@@ -53,7 +53,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Test_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![test](https://static.openfintech.io/payment_providers/test/icon.svg?w=278&c=v0.59.26#w100) |[Test](/payment-providers/test/)|`test`| 
-|![paymaster](https://static.openfintech.io/payment_providers/paymaster/icon.svg?w=278&c=v0.59.26#w100) |[Paymaster](/payment-providers/paymaster/)|`paymaster`| 
  
 
 ## JSON Object 
