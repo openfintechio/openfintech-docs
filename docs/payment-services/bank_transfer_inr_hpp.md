@@ -33,6 +33,8 @@
 |`payer_state`|✗|`string`|`/^[a-zA-Z\-\s]{1,20}$/`| 
 |`payer_zip_code`|✗|`string`|`/^[0-9\-\s]{1,20}$/`| 
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
+|`payer_email`|✗|`string`|`/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$/`| 
+|`payer_phone_number`|✗|`string`|`/^\+?\d{8,14}$/`| 
  
 
 ### Details 
@@ -180,6 +182,42 @@
 	: [EN] Enter payer bank code 
 	: [RU] Введите код банка отправителя 
 	: [UK] Введіть код банку відправника 
+ 
+9. **`payer_email`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Payer email 
+	: [RU] Email плательщика 
+	: [UK] Email платника 
+ 
+	Hint:  
+	: [EN] Enter payer email 
+	: [RU] Введите email плательщика 
+	: [UK] Введіть email платника 
+ 
+10. **`payer_phone_number`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^\+?\d{8,14}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Payer phone number 
+	: [RU] Номер телефона плательщика 
+	: [UK] Номер телефону платника 
+ 
+	Hint:  
+	: [EN] Enter payer phone number 
+	: [RU] Введите номер телефона плательщика 
+	: [UK] Введіть номер телефону платника 
  
 
 ## JSON Object 
@@ -333,6 +371,42 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443 \u0432\u0456\u0434\u043f\u0440\u0430\u0432\u043d\u0438\u043a\u0430"
       },
       "example":"050"
+    },
+    {
+      "key":"payer_email",
+      "type":"string",
+      "regexp":"\/^([a-z0-9_-]+\\.)*[a-z0-9_-]+@[a-z0-9_-]+(\\.[a-z0-9_-]+)*\\.[a-z]{2,6}$\/",
+      "required":false,
+      "position":9,
+      "label":{
+        "en":"Payer email",
+        "ru":"Email \u043f\u043b\u0430\u0442\u0435\u043b\u044c\u0449\u0438\u043a\u0430",
+        "uk":"Email \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
+      },
+      "hint":{
+        "en":"Enter payer email",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 email \u043f\u043b\u0430\u0442\u0435\u043b\u044c\u0449\u0438\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c email \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
+      },
+      "example":"example@gmail.com"
+    },
+    {
+      "key":"payer_phone_number",
+      "type":"string",
+      "regexp":"\/^\\+?\\d{8,14}$\/",
+      "required":false,
+      "position":10,
+      "example":"+919810597886",
+      "label":{
+        "en":"Payer phone number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430 \u043f\u043b\u0430\u0442\u0435\u043b\u044c\u0449\u0438\u043a\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443 \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
+      },
+      "hint":{
+        "en":"Enter payer phone number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430 \u043f\u043b\u0430\u0442\u0435\u043b\u044c\u0449\u0438\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443 \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
+      }
     }
   ],
   "amount_min":0.01,

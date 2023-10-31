@@ -45,7 +45,6 @@ The list of [Payment Providers](/payment-providers/) that support the _City Unio
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
 |![odeonpay](https://static.openfintech.io/payment_providers/odeonpay/icon.png?w=278&c=v0.59.26#w100) |[OdeonPay](/payment-providers/odeonpay/)|`odeonpay`| 
 |![ubankconnect](https://static.openfintech.io/payment_providers/ubankconnect/icon.svg?w=278&c=v0.59.26#w100) |[UBank Connect](/payment-providers/ubankconnect/)|`ubankconnect`| 
