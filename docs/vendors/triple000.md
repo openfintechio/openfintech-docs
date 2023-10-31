@@ -15,7 +15,7 @@
 **Status:** `active` 
  
 **Links:** 
-: website [https://triple000.com/](https://triple000.com/) 
+: website [https://www.triple000.com/](https://www.triple000.com/) 
  
 
 ## Images 
@@ -49,7 +49,7 @@ https://static.openfintech.io/vendors/triple000/icon.png?w=278&c=v0.59.26#w100
   "status":"active",
   "description":null,
   "links":{
-    "website":"https:\/\/triple000.com\/"
+    "website":"https:\/\/www.triple000.com\/"
   },
   "countries":null,
   "contacts":null,
