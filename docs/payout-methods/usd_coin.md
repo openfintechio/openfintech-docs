@@ -53,6 +53,7 @@ The list of [Payment Providers](/payment-providers/) that support the _USD Coin_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![cryptohawex](https://static.openfintech.io/payment_providers/cryptohawex/icon.svg?w=278&c=v0.59.26#w100) |[CryptoHawex](/payment-providers/cryptohawex/)|`cryptohawex`| 
+|![match2pay](https://static.openfintech.io/payment_providers/match2pay/icon.png?w=278&c=v0.59.26#w100) |[Match2Pay](/payment-providers/match2pay/)|`match2pay`| 
  
 
 ## JSON Object 

@@ -37,6 +37,15 @@ The list of [Payment Services](/payment-services/) based on the _PSB-Retail_
 |![psbretail](https://static.openfintech.io/payment_methods/psbretail/icon.png?w=278&c=v0.59.26#w100) |[psbretail_rub_hpp](/payment-services/psbretail_rub_hpp/)|`psbretail_rub_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _PSB-Retail_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
+ 
+
 ## JSON Object 
 
 ```json

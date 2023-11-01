@@ -39,6 +39,15 @@ The list of [Payout Services](/payout-services/) based on the _Rbl Bank_
 |![rbl_bank](https://static.openfintech.io/payout_methods/rbl_bank/icon.svg?w=278&c=v0.59.26#w40) |[rbl_bank_inr](/payout-services/rbl_bank_inr/)|`rbl_bank_inr`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Rbl Bank_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
+ 
+
 ## JSON Object 
 
 ```json

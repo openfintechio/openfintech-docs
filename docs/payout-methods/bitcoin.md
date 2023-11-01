@@ -72,6 +72,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bitcoin_
 |![changecoins](https://static.openfintech.io/payment_providers/changecoins/icon.png?w=278&c=v0.59.26#w100) |[Сhangecoins Pay](/payment-providers/changecoins/)|`changecoins`| 
 |![cryptohawex](https://static.openfintech.io/payment_providers/cryptohawex/icon.svg?w=278&c=v0.59.26#w100) |[CryptoHawex](/payment-providers/cryptohawex/)|`cryptohawex`| 
 |![cryptomus](https://static.openfintech.io/payment_providers/cryptomus/icon.svg?w=278&c=v0.59.26#w100) |[Cryptomus](/payment-providers/cryptomus/)|`cryptomus`| 
+|![match2pay](https://static.openfintech.io/payment_providers/match2pay/icon.png?w=278&c=v0.59.26#w100) |[Match2Pay](/payment-providers/match2pay/)|`match2pay`| 
  
 
 ## JSON Object 

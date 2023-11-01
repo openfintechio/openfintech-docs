@@ -39,8 +39,20 @@ The list of [Payment Services](/payment-services/) based on the _Usd Coin_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_trc20_usdc_hpp](/payment-services/usd_coin_trc20_usdc_hpp/)|`usd_coin_trc20_usdc_hpp`| 
+|![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_trc20_usd_hpp](/payment-services/usd_coin_trc20_usd_hpp/)|`usd_coin_trc20_usd_hpp`| 
+|![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_trc20_eur_hpp](/payment-services/usd_coin_trc20_eur_hpp/)|`usd_coin_trc20_eur_hpp`| 
+|![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_trc20_gbp_hpp](/payment-services/usd_coin_trc20_gbp_hpp/)|`usd_coin_trc20_gbp_hpp`| 
+|![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_trc20_chf_hpp](/payment-services/usd_coin_trc20_chf_hpp/)|`usd_coin_trc20_chf_hpp`| 
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_erc20_usdc_hpp](/payment-services/usd_coin_erc20_usdc_hpp/)|`usd_coin_erc20_usdc_hpp`| 
+|![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_erc20_usd_hpp](/payment-services/usd_coin_erc20_usd_hpp/)|`usd_coin_erc20_usd_hpp`| 
+|![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_erc20_eur_hpp](/payment-services/usd_coin_erc20_eur_hpp/)|`usd_coin_erc20_eur_hpp`| 
+|![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_erc20_gbp_hpp](/payment-services/usd_coin_erc20_gbp_hpp/)|`usd_coin_erc20_gbp_hpp`| 
+|![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_erc20_chf_hpp](/payment-services/usd_coin_erc20_chf_hpp/)|`usd_coin_erc20_chf_hpp`| 
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_bep20_usdc_hpp](/payment-services/usd_coin_bep20_usdc_hpp/)|`usd_coin_bep20_usdc_hpp`| 
+|![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_bep20_usd_hpp](/payment-services/usd_coin_bep20_usd_hpp/)|`usd_coin_bep20_usd_hpp`| 
+|![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_bep20_eur_hpp](/payment-services/usd_coin_bep20_eur_hpp/)|`usd_coin_bep20_eur_hpp`| 
+|![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_bep20_gbp_hpp](/payment-services/usd_coin_bep20_gbp_hpp/)|`usd_coin_bep20_gbp_hpp`| 
+|![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_bep20_chf_hpp](/payment-services/usd_coin_bep20_chf_hpp/)|`usd_coin_bep20_chf_hpp`| 
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_usdcerc20_hpp](/payment-services/usd_coin_usdcerc20_hpp/)|`usd_coin_usdcerc20_hpp`| 
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_usdctrc20_hpp](/payment-services/usd_coin_usdctrc20_hpp/)|`usd_coin_usdctrc20_hpp`| 
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_usdcbep20_hpp](/payment-services/usd_coin_usdcbep20_hpp/)|`usd_coin_usdcbep20_hpp`| 
@@ -53,6 +65,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Usd Coin_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![cryptohawex](https://static.openfintech.io/payment_providers/cryptohawex/icon.svg?w=278&c=v0.59.26#w100) |[CryptoHawex](/payment-providers/cryptohawex/)|`cryptohawex`| 
+|![match2pay](https://static.openfintech.io/payment_providers/match2pay/icon.png?w=278&c=v0.59.26#w100) |[Match2Pay](/payment-providers/match2pay/)|`match2pay`| 
  
 
 ## JSON Object 

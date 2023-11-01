@@ -43,6 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Developme
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![virtouspayments](https://static.openfintech.io/payment_providers/virtouspayments/icon.png?w=278&c=v0.59.26#w100) |[Virtous Payments](/payment-providers/virtouspayments/)|`virtouspayments`| 
 |![ubankconnect](https://static.openfintech.io/payment_providers/ubankconnect/icon.svg?w=278&c=v0.59.26#w100) |[UBank Connect](/payment-providers/ubankconnect/)|`ubankconnect`| 
 |![payfuture](https://static.openfintech.io/payment_providers/payfuture/icon.svg?w=278&c=v0.59.26#w100) |[Payfuture](/payment-providers/payfuture/)|`payfuture`| 

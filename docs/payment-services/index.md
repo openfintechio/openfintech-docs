@@ -177,6 +177,10 @@
 |![BIDV Bank QR](https://static.openfintech.io/payment_methods/bidv_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**BIDV Bank QR**](/payment-methods/bidv_bank_qr/)|[`bidv_bank_qr_vnd_invoice`](bidv_bank_qr_vnd_invoice/)| 
 |![BIDV Bank](https://static.openfintech.io/payment_methods/bidv_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BIDV Bank**](/payment-methods/bidv_bank/)|[`bidv_bank_vnd_hpp`](bidv_bank_vnd_hpp/)| 
 |![Binance Coin](https://static.openfintech.io/payment_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Coin**](/payment-methods/binance_coin/)|[`binance_coin_bnb_hpp`](binance_coin_bnb_hpp/)| 
+|![Binance Coin](https://static.openfintech.io/payment_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Coin**](/payment-methods/binance_coin/)|[`binance_coin_chf_hpp`](binance_coin_chf_hpp/)| 
+|![Binance Coin](https://static.openfintech.io/payment_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Coin**](/payment-methods/binance_coin/)|[`binance_coin_eur_hpp`](binance_coin_eur_hpp/)| 
+|![Binance Coin](https://static.openfintech.io/payment_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Coin**](/payment-methods/binance_coin/)|[`binance_coin_gbp_hpp`](binance_coin_gbp_hpp/)| 
+|![Binance Coin](https://static.openfintech.io/payment_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Coin**](/payment-methods/binance_coin/)|[`binance_coin_usd_hpp`](binance_coin_usd_hpp/)| 
 |![Binance smart chain](https://static.openfintech.io/payment_methods/binance_smart_chain/logo.png?w=400&c=v0.59.26#w200) |[**Binance smart chain**](/payment-methods/binance_smart_chain/)|[`binance_smart_chain_bep20_bnb_hpp`](binance_smart_chain_bep20_bnb_hpp/)| 
 |![Binance Usd](https://static.openfintech.io/payment_methods/binance_usd/logo.png?w=400&c=v0.59.26#w200) |[**Binance Usd**](/payment-methods/binance_usd/)|[`binance_usd_busd_hpp`](binance_usd_busd_hpp/)| 
 |![Binance Pay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](/payment-methods/binancepay/)|[`binancepay_aud_hpp`](binancepay_aud_hpp/)| 
@@ -210,9 +214,11 @@
 |![Bitcoin Cash](https://static.openfintech.io/payment_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w200) |[**Bitcoin Cash**](/payment-methods/bitcoin_cash/)|[`bitcoin_cash_uah_invoice`](bitcoin_cash_uah_invoice/)| 
 |![Bitcoin Cash](https://static.openfintech.io/payment_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w200) |[**Bitcoin Cash**](/payment-methods/bitcoin_cash/)|[`bitcoin_cash_usd_hpp`](bitcoin_cash_usd_hpp/)| 
 |![Bitcoin Cash](https://static.openfintech.io/payment_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w200) |[**Bitcoin Cash**](/payment-methods/bitcoin_cash/)|[`bitcoin_cash_usd_invoice`](bitcoin_cash_usd_invoice/)| 
+|![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_chf_hpp`](bitcoin_chf_hpp/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_eth_hpp`](bitcoin_eth_hpp/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_eur_hpp`](bitcoin_eur_hpp/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_eur_invoice`](bitcoin_eur_invoice/)| 
+|![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_gbp_hpp`](bitcoin_gbp_hpp/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_ltc_hpp`](bitcoin_ltc_hpp/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_ltc_invoice`](bitcoin_ltc_invoice/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_rub_hpp`](bitcoin_rub_hpp/)| 
@@ -412,10 +418,12 @@
 |![Equitel](https://static.openfintech.io/payment_methods/equitel/logo.png?w=400&c=v0.59.26#w200) |[**Equitel**](/payment-methods/equitel/)|[`equitel_kes_invoice`](equitel_kes_invoice/)| 
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_bch_hpp`](ethereum_bch_hpp/)| 
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_btc_hpp`](ethereum_btc_hpp/)| 
+|![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_chf_hpp`](ethereum_chf_hpp/)| 
 |![Ethereum Classic](https://static.openfintech.io/payment_methods/ethereum_classic/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum Classic**](/payment-methods/ethereum_classic/)|[`ethereum_classic_etc_invoice`](ethereum_classic_etc_invoice/)| 
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_eth_hpp`](ethereum_eth_hpp/)| 
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_eth_invoice`](ethereum_eth_invoice/)| 
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_eur_hpp`](ethereum_eur_hpp/)| 
+|![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_gbp_hpp`](ethereum_gbp_hpp/)| 
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_ltc_hpp`](ethereum_ltc_hpp/)| 
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_uah_hpp`](ethereum_uah_hpp/)| 
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_usd_hpp`](ethereum_usd_hpp/)| 
@@ -1026,7 +1034,9 @@
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_bch_invoice`](tether_bch_invoice/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_bep20_aed_hpp`](tether_bep20_aed_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_bep20_azn_hpp`](tether_bep20_azn_hpp/)| 
+|![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_bep20_chf_hpp`](tether_bep20_chf_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_bep20_eur_hpp`](tether_bep20_eur_hpp/)| 
+|![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_bep20_gbp_hpp`](tether_bep20_gbp_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_bep20_idr_hpp`](tether_bep20_idr_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_bep20_inr_hpp`](tether_bep20_inr_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_bep20_kzt_hpp`](tether_bep20_kzt_hpp/)| 
@@ -1042,8 +1052,10 @@
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_erc20_aed_hpp`](tether_erc20_aed_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_erc20_azn_hpp`](tether_erc20_azn_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_erc20_btc_hpp`](tether_erc20_btc_hpp/)| 
+|![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_erc20_chf_hpp`](tether_erc20_chf_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_erc20_eth_hpp`](tether_erc20_eth_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_erc20_eur_hpp`](tether_erc20_eur_hpp/)| 
+|![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_erc20_gbp_hpp`](tether_erc20_gbp_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_erc20_idr_hpp`](tether_erc20_idr_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_erc20_inr_hpp`](tether_erc20_inr_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_erc20_kzt_hpp`](tether_erc20_kzt_hpp/)| 
@@ -1076,7 +1088,9 @@
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_rub_invoice`](tether_rub_invoice/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_trc20_aed_hpp`](tether_trc20_aed_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_trc20_azn_hpp`](tether_trc20_azn_hpp/)| 
+|![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_trc20_chf_hpp`](tether_trc20_chf_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_trc20_eur_hpp`](tether_trc20_eur_hpp/)| 
+|![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_trc20_gbp_hpp`](tether_trc20_gbp_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_trc20_idr_hpp`](tether_trc20_idr_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_trc20_inr_hpp`](tether_trc20_inr_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_trc20_kzt_hpp`](tether_trc20_kzt_hpp/)| 
@@ -1108,7 +1122,11 @@
 |![TP Bank Vietnam](https://static.openfintech.io/payment_methods/tpbank/logo.png?w=400&c=v0.59.26#w200) |[**TP Bank Vietnam**](/payment-methods/tpbank/)|[`tpbank_vnd_hpp`](tpbank_vnd_hpp/)| 
 |![Transfer Bancaria](https://static.openfintech.io/payment_methods/transfer_bancaria/logo.svg?w=400&c=v0.59.26#w200) |[**Transfer Bancaria**](/payment-methods/transfer_bancaria/)|[`transfer_bancaria_brl_hpp`](transfer_bancaria_brl_hpp/)| 
 |![Transfer Bancaria](https://static.openfintech.io/payment_methods/transfer_bancaria/logo.svg?w=400&c=v0.59.26#w200) |[**Transfer Bancaria**](/payment-methods/transfer_bancaria/)|[`transfer_bancaria_usd_hpp`](transfer_bancaria_usd_hpp/)| 
+|![Tron](https://static.openfintech.io/payment_methods/tron/logo.svg?w=400&c=v0.59.26#w200) |[**Tron**](/payment-methods/tron/)|[`tron_chf_hpp`](tron_chf_hpp/)| 
+|![Tron](https://static.openfintech.io/payment_methods/tron/logo.svg?w=400&c=v0.59.26#w200) |[**Tron**](/payment-methods/tron/)|[`tron_eur_hpp`](tron_eur_hpp/)| 
+|![Tron](https://static.openfintech.io/payment_methods/tron/logo.svg?w=400&c=v0.59.26#w200) |[**Tron**](/payment-methods/tron/)|[`tron_gbp_hpp`](tron_gbp_hpp/)| 
 |![Tron](https://static.openfintech.io/payment_methods/tron/logo.svg?w=400&c=v0.59.26#w200) |[**Tron**](/payment-methods/tron/)|[`tron_trx_hpp`](tron_trx_hpp/)| 
+|![Tron](https://static.openfintech.io/payment_methods/tron/logo.svg?w=400&c=v0.59.26#w200) |[**Tron**](/payment-methods/tron/)|[`tron_usd_hpp`](tron_usd_hpp/)| 
 |![True Money Wallet](https://static.openfintech.io/payment_methods/truemoney/logo.png?w=400&c=v0.59.26#w200) |[**True Money Wallet**](/payment-methods/truemoney/)|[`truemoney_thb_hpp`](truemoney_thb_hpp/)| 
 |![Trustly](https://static.openfintech.io/payment_methods/trustly/logo.svg?w=400&c=v0.59.26#w200) |[**Trustly**](/payment-methods/trustly/)|[`trustly_chf_hpp`](trustly_chf_hpp/)| 
 |![Trustly](https://static.openfintech.io/payment_methods/trustly/logo.svg?w=400&c=v0.59.26#w200) |[**Trustly**](/payment-methods/trustly/)|[`trustly_eur_hpp`](trustly_eur_hpp/)| 
@@ -1134,8 +1152,20 @@
 |![UPI](https://static.openfintech.io/payment_methods/upi/logo.svg?w=400&c=v0.59.26#w200) |[**UPI**](/payment-methods/upi/)|[`upi_inr_hpp`](upi_inr_hpp/)| 
 |![UPI](https://static.openfintech.io/payment_methods/upi/logo.svg?w=400&c=v0.59.26#w200) |[**UPI**](/payment-methods/upi/)|[`upi_inr_invoice`](upi_inr_invoice/)| 
 |![UPI QR](https://static.openfintech.io/payment_methods/upi_qr/logo.png?w=400&c=v0.59.26#w200) |[**UPI QR**](/payment-methods/upi_qr/)|[`upi_qr_inr_invoice`](upi_qr_inr_invoice/)| 
+|![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_bep20_chf_hpp`](usd_coin_bep20_chf_hpp/)| 
+|![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_bep20_eur_hpp`](usd_coin_bep20_eur_hpp/)| 
+|![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_bep20_gbp_hpp`](usd_coin_bep20_gbp_hpp/)| 
+|![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_bep20_usd_hpp`](usd_coin_bep20_usd_hpp/)| 
 |![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_bep20_usdc_hpp`](usd_coin_bep20_usdc_hpp/)| 
+|![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_erc20_chf_hpp`](usd_coin_erc20_chf_hpp/)| 
+|![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_erc20_eur_hpp`](usd_coin_erc20_eur_hpp/)| 
+|![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_erc20_gbp_hpp`](usd_coin_erc20_gbp_hpp/)| 
+|![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_erc20_usd_hpp`](usd_coin_erc20_usd_hpp/)| 
 |![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_erc20_usdc_hpp`](usd_coin_erc20_usdc_hpp/)| 
+|![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_trc20_chf_hpp`](usd_coin_trc20_chf_hpp/)| 
+|![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_trc20_eur_hpp`](usd_coin_trc20_eur_hpp/)| 
+|![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_trc20_gbp_hpp`](usd_coin_trc20_gbp_hpp/)| 
+|![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_trc20_usd_hpp`](usd_coin_trc20_usd_hpp/)| 
 |![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_trc20_usdc_hpp`](usd_coin_trc20_usdc_hpp/)| 
 |![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_usdcbep20_hpp`](usd_coin_usdcbep20_hpp/)| 
 |![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_usdcerc20_hpp`](usd_coin_usdcerc20_hpp/)| 

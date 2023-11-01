@@ -42,6 +42,8 @@ The list of [Payment Services](/payment-services/) based on the _Bitcoin_
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_ltc_hpp](/payment-services/bitcoin_ltc_hpp/)|`bitcoin_ltc_hpp`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_rub_hpp](/payment-services/bitcoin_rub_hpp/)|`bitcoin_rub_hpp`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_eur_hpp](/payment-services/bitcoin_eur_hpp/)|`bitcoin_eur_hpp`| 
+|![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_gbp_hpp](/payment-services/bitcoin_gbp_hpp/)|`bitcoin_gbp_hpp`| 
+|![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_chf_hpp](/payment-services/bitcoin_chf_hpp/)|`bitcoin_chf_hpp`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_usd_hpp](/payment-services/bitcoin_usd_hpp/)|`bitcoin_usd_hpp`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_uah_hpp](/payment-services/bitcoin_uah_hpp/)|`bitcoin_uah_hpp`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_usdt_hpp](/payment-services/bitcoin_usdt_hpp/)|`bitcoin_usdt_hpp`| 
@@ -82,6 +84,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bitcoin_
 |![changecoins](https://static.openfintech.io/payment_providers/changecoins/icon.png?w=278&c=v0.59.26#w100) |[Сhangecoins Pay](/payment-providers/changecoins/)|`changecoins`| 
 |![cryptohawex](https://static.openfintech.io/payment_providers/cryptohawex/icon.svg?w=278&c=v0.59.26#w100) |[CryptoHawex](/payment-providers/cryptohawex/)|`cryptohawex`| 
 |![cryptomus](https://static.openfintech.io/payment_providers/cryptomus/icon.svg?w=278&c=v0.59.26#w100) |[Cryptomus](/payment-providers/cryptomus/)|`cryptomus`| 
+|![match2pay](https://static.openfintech.io/payment_providers/match2pay/icon.png?w=278&c=v0.59.26#w100) |[Match2Pay](/payment-providers/match2pay/)|`match2pay`| 
  
 
 ## JSON Object 

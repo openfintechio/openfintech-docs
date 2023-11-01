@@ -37,6 +37,15 @@ The list of [Payment Services](/payment-services/) based on the _Oriental Bank O
 |![oriental_bank_of_commerce](https://static.openfintech.io/payment_methods/oriental_bank_of_commerce/icon.svg?w=278&c=v0.59.26#w100) |[oriental_bank_of_commerce_inr_hpp](/payment-services/oriental_bank_of_commerce_inr_hpp/)|`oriental_bank_of_commerce_inr_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Oriental Bank Of Commerce_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
+ 
+
 ## JSON Object 
 
 ```json

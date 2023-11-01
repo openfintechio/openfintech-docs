@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Yandex.Mo
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![walletone](https://static.openfintech.io/payment_providers/walletone/icon.svg?w=278&c=v0.59.26#w100) |[Wallet One](/payment-providers/walletone/)|`walletone`| 
 |![payboutique](https://static.openfintech.io/payment_providers/payboutique/icon.png?w=278&c=v0.59.26#w100) |[Payboutique ](/payment-providers/payboutique/)|`payboutique`| 
 |![klikpay](https://static.openfintech.io/payment_providers/klikpay/icon.png?w=278&c=v0.59.26#w100) |[Klik & Pay](/payment-providers/klikpay/)|`klikpay`| 

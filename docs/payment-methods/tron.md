@@ -37,6 +37,10 @@ The list of [Payment Services](/payment-services/) based on the _Tron_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![tron](https://static.openfintech.io/payment_methods/tron/icon.png?w=278&c=v0.59.26#w100) |[tron_trx_hpp](/payment-services/tron_trx_hpp/)|`tron_trx_hpp`| 
+|![tron](https://static.openfintech.io/payment_methods/tron/icon.png?w=278&c=v0.59.26#w100) |[tron_usd_hpp](/payment-services/tron_usd_hpp/)|`tron_usd_hpp`| 
+|![tron](https://static.openfintech.io/payment_methods/tron/icon.png?w=278&c=v0.59.26#w100) |[tron_eur_hpp](/payment-services/tron_eur_hpp/)|`tron_eur_hpp`| 
+|![tron](https://static.openfintech.io/payment_methods/tron/icon.png?w=278&c=v0.59.26#w100) |[tron_gbp_hpp](/payment-services/tron_gbp_hpp/)|`tron_gbp_hpp`| 
+|![tron](https://static.openfintech.io/payment_methods/tron/icon.png?w=278&c=v0.59.26#w100) |[tron_chf_hpp](/payment-services/tron_chf_hpp/)|`tron_chf_hpp`| 
  
 
 ## Payment Providers 
