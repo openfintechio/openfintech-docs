@@ -1922,6 +1922,7 @@
 |![swishme](https://static.openfintech.io/vendors/swishme/logo.png?w=600&c=v0.59.26#w200) |[**Swish Payments Ltd**](swishme/)|`swishme`| 
 |![swisspay24](https://static.openfintech.io/vendors/swisspay24/logo.png?w=600&c=v0.59.26#w200) |[**SwissPay24**](swisspay24/)|`swisspay24`| 
 |![swisssecurepayment](https://static.openfintech.io/vendors/swisssecurepayment/logo.png?w=600&c=v0.59.26#w200) |[**Swiss Secure Payment™**](swisssecurepayment/)|`swisssecurepayment`| 
+|![symoco](https://static.openfintech.io/vendors/symoco/logo.png?w=600&c=v0.59.26#w200) |[**Symoco**](symoco/)|`symoco`| 
 || **T** ||
 |![taiko_bank](https://static.openfintech.io/vendors/taiko_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Taiko Bank**](taiko_bank/)|`taiko_bank`| 
 |![taisho_bank](https://static.openfintech.io/vendors/taisho_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Taisho Bank**](taisho_bank/)|`taisho_bank`| 

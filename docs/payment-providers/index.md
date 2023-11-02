@@ -813,6 +813,7 @@
 |![swishme](https://static.openfintech.io/payment_providers/swishme/logo.png?w=600&c=v0.59.26#w100) |[**Swish Payments Ltd**](swishme/)|`swishme`| 
 |![swisspay24](https://static.openfintech.io/payment_providers/swisspay24/logo.png?w=600&c=v0.59.26#w100) |[**SwissPay24**](swisspay24/)|`swisspay24`| 
 |![swisssecurepayment](https://static.openfintech.io/payment_providers/swisssecurepayment/logo.png?w=600&c=v0.59.26#w100) |[**Swiss Secure Payment™**](swisssecurepayment/)|`swisssecurepayment`| 
+|![symoco](https://static.openfintech.io/payment_providers/symoco/logo.png?w=600&c=v0.59.26#w100) |[**Symoco**](symoco/)|`symoco`| 
 || **T** ||
 |![tapanapi](https://static.openfintech.io/payment_providers/tapanapi/logo.svg?w=600&c=v0.59.26#w100) |[**TapAnApi**](tapanapi/)|`tapanapi`| 
 |![targetpay](https://static.openfintech.io/payment_providers/targetpay/logo.png?w=600&c=v0.59.26#w100) |[**Targetpay.com**](targetpay/)|`targetpay`| 
