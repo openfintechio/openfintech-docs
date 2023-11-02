@@ -24,7 +24,7 @@
 ```json
 {
   "code":"card_transfer_gel_hpp",
-  "flow":"invoice",
+  "flow":"hpp",
   "method":"card_transfer",
   "currency":"GEL",
   "fields":null,
