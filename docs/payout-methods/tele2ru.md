@@ -46,7 +46,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Tele 2_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![webmoney](https://static.openfintech.io/payment_providers/webmoney/icon.svg?w=278&c=v0.59.26#w100) |[WebMoney](/payment-providers/webmoney/)|`webmoney`| 
-|![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![walletone](https://static.openfintech.io/payment_providers/walletone/icon.svg?w=278&c=v0.59.26#w100) |[Wallet One](/payment-providers/walletone/)|`walletone`| 
 |![payeer](https://static.openfintech.io/payment_providers/payeer/icon.png?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
 |![piastrix](https://static.openfintech.io/payment_providers/piastrix/icon.svg?w=278&c=v0.59.26#w100) |[Piastrix](/payment-providers/piastrix/)|`piastrix`| 

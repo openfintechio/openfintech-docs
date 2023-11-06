@@ -37,15 +37,6 @@ The list of [Payment Services](/payment-services/) based on the _Corporation Ban
 |![corporation_bank](https://static.openfintech.io/payment_methods/corporation_bank/icon.svg?w=278&c=v0.59.26#w100) |[corporation_bank_inr_hpp](/payment-services/corporation_bank_inr_hpp/)|`corporation_bank_inr_hpp`| 
  
 
-## Payment Providers 
- 
-The list of [Payment Providers](/payment-providers/) that support the _Corporation Bank_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
- 
-
 ## JSON Object 
 
 ```json
