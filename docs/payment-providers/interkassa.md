@@ -110,6 +110,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![au_small_finance_bank](https://static.openfintech.io/payment_methods/au_small_finance_bank/icon.png?w=278&c=v0.59.26#w100) |[au_small_finance_bank](/payment-methods/au_small_finance_bank/)|`au_small_finance_bank`| 
 |![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix](/payment-methods/pix/)|`pix`| 
 |![picpay](https://static.openfintech.io/payment_methods/picpay/icon.svg?w=278&c=v0.59.26#w100) |[picpay](/payment-methods/picpay/)|`picpay`| 
+|![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi](/payment-methods/upi/)|`upi`| 
+|![imps](https://static.openfintech.io/payment_methods/imps/icon.png?w=278&c=v0.59.26#w100) |[imps](/payment-methods/imps/)|`imps`| 
  
 
 ## Payout Methods 
@@ -205,7 +207,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "csb_bank",
     "au_small_finance_bank",
     "pix",
-    "picpay"
+    "picpay",
+    "upi",
+    "imps"
   ],
   "payout_method":[
     "payment_card",
