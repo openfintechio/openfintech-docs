@@ -44,6 +44,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin](/payment-methods/usd_coin/)|`usd_coin`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum](/payment-methods/ethereum/)|`ethereum`| 
 |![binance_coin](https://static.openfintech.io/payment_methods/binance_coin/icon.svg?w=278&c=v0.59.26#w100) |[binance_coin](/payment-methods/binance_coin/)|`binance_coin`| 
+|![tron](https://static.openfintech.io/payment_methods/tron/icon.png?w=278&c=v0.59.26#w100) |[tron](/payment-methods/tron/)|`tron`| 
  
 
 ## Payout Methods 
@@ -73,7 +74,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "tether",
     "usd_coin",
     "ethereum",
-    "binance_coin"
+    "binance_coin",
+    "tron"
   ],
   "payout_method":[
     "bitcoin",
