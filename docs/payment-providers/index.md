@@ -489,6 +489,7 @@
 |![mygate](https://static.openfintech.io/payment_providers/mygate/logo.png?w=600&c=v0.59.26#w100) |[**MyGate**](mygate/)|`mygate`| 
 || **N** ||
 |![nationalach](https://static.openfintech.io/payment_providers/nationalach/logo.png?w=600&c=v0.59.26#w100) |[**NationalACH**](nationalach/)|`nationalach`| 
+|![neonpay](https://static.openfintech.io/payment_providers/neonpay/logo.png?w=600&c=v0.59.26#w100) |[**Neonpay**](neonpay/)|`neonpay`| 
 |![neopay](https://static.openfintech.io/payment_providers/neopay/logo.svg?w=600&c=v0.59.26#w100) |[**Neopay**](neopay/)|`neopay`| 
 |![netbanx](https://static.openfintech.io/payment_providers/netbanx/logo.png?w=600&c=v0.59.26#w100) |[**Netbanx**](netbanx/)|`netbanx`| 
 |![netbilling](https://static.openfintech.io/payment_providers/netbilling/logo.png?w=600&c=v0.59.26#w100) |[**Netbilling**](netbilling/)|`netbilling`| 
@@ -715,6 +716,7 @@
 |![procard](https://static.openfintech.io/payment_providers/procard/logo.png?w=600&c=v0.59.26#w100) |[**Procard**](procard/)|`procard`| 
 |![processingcom](https://static.openfintech.io/payment_providers/processingcom/logo.png?w=600&c=v0.59.26#w100) |[**Processing.com**](processingcom/)|`processingcom`| 
 |![processingpartners](https://static.openfintech.io/payment_providers/processingpartners/logo.png?w=600&c=v0.59.26#w100) |[**Processing Partners**](processingpartners/)|`processingpartners`| 
+|![projectonsolutionslimited](https://static.openfintech.io/payment_providers/projectonsolutionslimited/logo.svg?w=600&c=v0.59.26#w100) |[**Projecton Solutions Limited**](projectonsolutionslimited/)|`projectonsolutionslimited`| 
 |![propay](https://static.openfintech.io/payment_providers/propay/logo.png?w=600&c=v0.59.26#w100) |[**ProPay**](propay/)|`propay`| 
 |![prosum](https://static.openfintech.io/payment_providers/prosum/logo.png?w=600&c=v0.59.26#w100) |[**Prosum**](prosum/)|`prosum`| 
 |![psigate](https://static.openfintech.io/payment_providers/psigate/logo.png?w=600&c=v0.59.26#w100) |[**PSiGate**](psigate/)|`psigate`| 

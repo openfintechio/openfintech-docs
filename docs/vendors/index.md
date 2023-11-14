@@ -1224,6 +1224,7 @@
 |![nbrb](https://static.openfintech.io/vendors/nbrb/logo.png?w=600&c=v0.59.26#w200) |[**National Bank of the Republic of Belarus**](nbrb/)|`nbrb`| 
 |![nbt](https://static.openfintech.io/vendors/nbt/logo.svg?w=600&c=v0.59.26#w200) |[**National Bank of Tajikistan**](nbt/)|`nbt`| 
 |![nbu](https://static.openfintech.io/vendors/nbu/logo.png?w=600&c=v0.59.26#w200) |[**National Bank of Ukraine**](nbu/)|`nbu`| 
+|![neonpay](https://static.openfintech.io/vendors/neonpay/logo.png?w=600&c=v0.59.26#w200) |[**Neonpay**](neonpay/)|`neonpay`| 
 |![neopay](https://static.openfintech.io/vendors/neopay/logo.svg?w=600&c=v0.59.26#w200) |[**Neopay**](neopay/)|`neopay`| 
 |![neosurf](https://static.openfintech.io/vendors/neosurf/logo.png?w=600&c=v0.59.26#w200) |[**Neosurf**](neosurf/)|`neosurf`| 
 |![netbanx](https://static.openfintech.io/vendors/netbanx/logo.png?w=600&c=v0.59.26#w200) |[**Netbanx**](netbanx/)|`netbanx`| 
@@ -1705,6 +1706,7 @@
 |![processingcom](https://static.openfintech.io/vendors/processingcom/logo.png?w=600&c=v0.59.26#w200) |[**Processing.com**](processingcom/)|`processingcom`| 
 |![processingpartners](https://static.openfintech.io/vendors/processingpartners/logo.png?w=600&c=v0.59.26#w200) |[**Processing Partners**](processingpartners/)|`processingpartners`| 
 |![procreditbank](https://static.openfintech.io/vendors/procreditbank/logo.svg?w=600&c=v0.59.26#w200) |[**ProCredit Bank**](procreditbank/)|`procreditbank`| 
+|![projectonsolutionslimited](https://static.openfintech.io/vendors/projectonsolutionslimited/logo.svg?w=600&c=v0.59.26#w200) |[**Projecton Solutions Limited**](projectonsolutionslimited/)|`projectonsolutionslimited`| 
 |![promptpay](https://static.openfintech.io/vendors/promptpay/logo.svg?w=600&c=v0.59.26#w200) |[**PromptPay**](promptpay/)|`promptpay`| 
 |![promsvyazbank](https://static.openfintech.io/vendors/promsvyazbank/logo.svg?w=600&c=v0.59.26#w200) |[**Промсвязьбанк**](promsvyazbank/)|`promsvyazbank`| 
 |![propay](https://static.openfintech.io/vendors/propay/logo.png?w=600&c=v0.59.26#w200) |[**ProPay**](propay/)|`propay`| 
