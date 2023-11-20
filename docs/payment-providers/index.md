@@ -268,6 +268,7 @@
 |![eftglobal](https://static.openfintech.io/payment_providers/eftglobal/logo.svg?w=600&c=v0.59.26#w100) |[**EFT Global**](eftglobal/)|`eftglobal`| 
 |![elavoneu](https://static.openfintech.io/payment_providers/elavoneu/logo.png?w=600&c=v0.59.26#w100) |[**Elavon**](elavoneu/)|`elavoneu`| 
 |![electropay](https://static.openfintech.io/payment_providers/electropay/logo.png?w=600&c=v0.59.26#w100) |[**ElectroPay**](electropay/)|`electropay`| 
+|![elitepay](https://static.openfintech.io/payment_providers/elitepay/logo.svg?w=600&c=v0.59.26#w100) |[**Elitepay**](elitepay/)|`elitepay`| 
 |![ematters](https://static.openfintech.io/payment_providers/ematters/logo.svg?w=600&c=v0.59.26#w100) |[**eMatters**](ematters/)|`ematters`| 
 |![emblaze](https://static.openfintech.io/payment_providers/emblaze/logo.png?w=600&c=v0.59.26#w100) |[**eMblaze One**](emblaze/)|`emblaze`| 
 |![emerald24](https://static.openfintech.io/payment_providers/emerald24/logo.svg?w=600&c=v0.59.26#w100) |[**Emerald24**](emerald24/)|`emerald24`| 
@@ -394,6 +395,7 @@
 |![inpendium](https://static.openfintech.io/payment_providers/inpendium/logo.png?w=600&c=v0.59.26#w100) |[**Inpendium**](inpendium/)|`inpendium`| 
 |![inqud](https://static.openfintech.io/payment_providers/inqud/logo.svg?w=600&c=v0.59.26#w100) |[**Inqud**](inqud/)|`inqud`| 
 |![instabill](https://static.openfintech.io/payment_providers/instabill/logo.png?w=600&c=v0.59.26#w100) |[**Instabill**](instabill/)|`instabill`| 
+|![inswitch](https://static.openfintech.io/payment_providers/inswitch/logo.png?w=600&c=v0.59.26#w100) |[**Inswitch**](inswitch/)|`inswitch`| 
 |![integrapay](https://static.openfintech.io/payment_providers/integrapay/logo.png?w=600&c=v0.59.26#w100) |[**Integrapay**](integrapay/)|`integrapay`| 
 |![intelligentpayments](https://static.openfintech.io/payment_providers/intelligentpayments/logo.png?w=600&c=v0.59.26#w100) |[**Intelligent Payments**](intelligentpayments/)|`intelligentpayments`| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/logo.png?w=600&c=v0.59.26#w100) |[**Interkassa**](interkassa/)|`interkassa`| 

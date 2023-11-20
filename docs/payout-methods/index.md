@@ -406,6 +406,7 @@
 |![dbs_bank_india](https://static.openfintech.io/payout_methods/dbs_bank_india/logo.svg?w=400&c=v0.59.26#w24) |[**DBS Bank LTD**](dbs_bank_india/)|`dbs_bank_india`| 
 |![delta](https://static.openfintech.io/payout_methods/delta/logo.png?w=400&c=v0.59.26#w24) |[**Delta**](delta/)|`delta`| 
 |![deltanet-kiev](https://static.openfintech.io/payout_methods/deltanet-kiev/logo.png?w=400&c=v0.59.26#w24) |[**DeltaNet (Kiev)**](deltanet-kiev/)|`deltanet-kiev`| 
+|![deniz_bank](https://static.openfintech.io/payout_methods/deniz_bank/logo.png?w=400&c=v0.59.26#w24) |[**DenizBank**](deniz_bank/)|`deniz_bank`| 
 |![dergachivskii-rem-ak-kharkivoblenergo](https://static.openfintech.io/payout_methods/dergachivskii-rem-ak-kharkivoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Dergachevsky RES AK 'Kharkivoblenergo'**](dergachivskii-rem-ak-kharkivoblenergo/)|`dergachivskii-rem-ak-kharkivoblenergo`| 
 |![dergachivskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018](https://static.openfintech.io/payout_methods/dergachivskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Дергачівський РЕМ АК "Харківобленерго" (за послуги до 31.12.2018)**](dergachivskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|`dergachivskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018`| 
 |![detut-kiev](https://static.openfintech.io/payout_methods/detut-kiev/logo.png?w=400&c=v0.59.26#w24) |[**DETUT (Kiev)**](detut-kiev/)|`detut-kiev`| 
@@ -617,6 +618,7 @@
 |![gamestop-gift-card-10-us](https://static.openfintech.io/payout_methods/gamestop-gift-card-10-us/logo.png?w=400&c=v0.59.26#w24) |[**GameStop Gift Card $ 10 (US)**](gamestop-gift-card-10-us/)|`gamestop-gift-card-10-us`| 
 |![gamestop-gift-card-25-us](https://static.openfintech.io/payout_methods/gamestop-gift-card-25-us/logo.png?w=400&c=v0.59.26#w24) |[**GameStop Gift Card $ 25 (US)**](gamestop-gift-card-25-us/)|`gamestop-gift-card-25-us`| 
 |![gandzhubasovye-voiny](https://static.openfintech.io/payout_methods/gandzhubasovye-voiny/logo.png?w=400&c=v0.59.26#w24) |[**Gandzhubasovy war**](gandzhubasovye-voiny/)|`gandzhubasovye-voiny`| 
+|![garanti_bbva](https://static.openfintech.io/payout_methods/garanti_bbva/logo.png?w=400&c=v0.59.26#w24) |[**T. Garanti Bankası A.Ş.**](garanti_bbva/)|`garanti_bbva`| 
 |![garuda-taxi-kiyiv-kharkiv](https://static.openfintech.io/payout_methods/garuda-taxi-kiyiv-kharkiv/logo.png?w=400&c=v0.59.26#w24) |[**Garuda taxi (Kiev, Kharkov)**](garuda-taxi-kiyiv-kharkiv/)|`garuda-taxi-kiyiv-kharkiv`| 
 |![gashua_mfb](https://static.openfintech.io/payout_methods/gashua_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Gashua MFB**](gashua_mfb/)|`gashua_mfb`| 
 |![gateway_mortgage_bank](https://static.openfintech.io/payout_methods/gateway_mortgage_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Gateway Mortgage Bank**](gateway_mortgage_bank/)|`gateway_mortgage_bank`| 
@@ -676,6 +678,7 @@
 |![haddan](https://static.openfintech.io/payout_methods/haddan/logo.png?w=400&c=v0.59.26#w24) |[**Haddan**](haddan/)|`haddan`| 
 |![haggai_mortgage_bank](https://static.openfintech.io/payout_methods/haggai_mortgage_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Haggai Mortgage Bank**](haggai_mortgage_bank/)|`haggai_mortgage_bank`| 
 |![hala_mfb](https://static.openfintech.io/payout_methods/hala_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Hala MFB**](hala_mfb/)|`hala_mfb`| 
+|![halk_bank](https://static.openfintech.io/payout_methods/halk_bank/logo.png?w=400&c=v0.59.26#w24) |[**Türkiye Halk Bankası A.Ş.**](halk_bank/)|`halk_bank`| 
 |![halo_pesa](https://static.openfintech.io/payout_methods/halo_pesa/logo.png?w=400&c=v0.59.26#w24) |[**Halo pesa**](halo_pesa/)|`halo_pesa`| 
 |![hana_financial_bank](https://static.openfintech.io/payout_methods/hana_financial_bank/logo.png?w=400&c=v0.59.26#w24) |[**HANA FINANCIAL INVESTMENT CO. LTD**](hana_financial_bank/)|`hana_financial_bank`| 
 |![hangzhou_city_commercial_bank](https://static.openfintech.io/payout_methods/hangzhou_city_commercial_bank/logo.png?w=400&c=v0.59.26#w24) |[**Hangzhou City Commercial Bank**](hangzhou_city_commercial_bank/)|`hangzhou_city_commercial_bank`| 
@@ -1009,6 +1012,7 @@
 |![kumamoto_bank](https://static.openfintech.io/payout_methods/kumamoto_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Kumamoto Bank**](kumamoto_bank/)|`kumamoto_bank`| 
 |![kupianskii-rem-ak-kharkivoblenergo](https://static.openfintech.io/payout_methods/kupianskii-rem-ak-kharkivoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Kupyansky RES AK 'Kharkivoblenergo'**](kupianskii-rem-ak-kharkivoblenergo/)|`kupianskii-rem-ak-kharkivoblenergo`| 
 |![kupianskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018](https://static.openfintech.io/payout_methods/kupianskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Купянський РЕМ АК "Харківобленерго" (за послуги до 31.12.2018)**](kupianskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|`kupianskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018`| 
+|![kuveyt_turk_katilim_bank](https://static.openfintech.io/payout_methods/kuveyt_turk_katilim_bank/logo.png?w=400&c=v0.59.26#w24) |[**Kuveyt Türk Participation Bank**](kuveyt_turk_katilim_bank/)|`kuveyt_turk_katilim_bank`| 
 |![kuzia-kiev](https://static.openfintech.io/payout_methods/kuzia-kiev/logo.png?w=400&c=v0.59.26#w24) |[**KUZYA (Kiev)**](kuzia-kiev/)|`kuzia-kiev`| 
 |![kvant-ii-kolomiia](https://static.openfintech.io/payout_methods/kvant-ii-kolomiia/logo.png?w=400&c=v0.59.26#w24) |[**Quant-II (Kolomiya)**](kvant-ii-kolomiia/)|`kvant-ii-kolomiia`| 
 |![kvant-khodoriv](https://static.openfintech.io/payout_methods/kvant-khodoriv/logo.svg?w=400&c=v0.59.26#w24) |[**КВАНТ (Ходорів)**](kvant-khodoriv/)|`kvant-khodoriv`| 
@@ -2899,6 +2903,7 @@
 |![v-lan](https://static.openfintech.io/payout_methods/v-lan/logo.png?w=400&c=v0.59.26#w24) |[**V-Lan**](v-lan/)|`v-lan`| 
 |![va_mandiri](https://static.openfintech.io/payout_methods/va_mandiri/logo.svg?w=400&c=v0.59.26#w24) |[**Mandiri Virtual Account**](va_mandiri/)|`va_mandiri`| 
 |![va_may_bank](https://static.openfintech.io/payout_methods/va_may_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Maybank VA**](va_may_bank/)|`va_may_bank`| 
+|![vakif_bank](https://static.openfintech.io/payout_methods/vakif_bank/logo.png?w=400&c=v0.59.26#w24) |[**VakıfBank**](vakif_bank/)|`vakif_bank`| 
 |![valkovskii-rem-ak-kharkivoblenergo](https://static.openfintech.io/payout_methods/valkovskii-rem-ak-kharkivoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Valkovsky RES AK 'Kharkivoblenergo'**](valkovskii-rem-ak-kharkivoblenergo/)|`valkovskii-rem-ak-kharkivoblenergo`| 
 |![valkovskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018](https://static.openfintech.io/payout_methods/valkovskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Валковський РЕМ АК "Харківобленерго" (за послуги до 31.12.2018)**](valkovskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|`valkovskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018`| 
 |![varvary](https://static.openfintech.io/payout_methods/varvary/logo.png?w=400&c=v0.59.26#w24) |[**Barbarians**](varvary/)|`varvary`| 
@@ -3048,6 +3053,7 @@
 |![yamanashi_chuo_bank](https://static.openfintech.io/payout_methods/yamanashi_chuo_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Yamanashi Chuo Bank**](yamanashi_chuo_bank/)|`yamanashi_chuo_bank`| 
 |![yandexmoney](https://static.openfintech.io/payout_methods/yandexmoney/logo.svg?w=400&c=v0.59.26#w24) |[**Yandex.Money**](yandexmoney/)|`yandexmoney`| 
 |![yaodu_rural_credit_union](https://static.openfintech.io/payout_methods/yaodu_rural_credit_union/logo.svg?w=400&c=v0.59.26#w24) |[**YAODU RURAL CREDIT UNION**](yaodu_rural_credit_union/)|`yaodu_rural_credit_union`| 
+|![yapi_kredi_bank](https://static.openfintech.io/payout_methods/yapi_kredi_bank/logo.png?w=400&c=v0.59.26#w24) |[**Yapı ve Kredi Bankası A.Ş.**](yapi_kredi_bank/)|`yapi_kredi_bank`| 
 |![yes_bank](https://static.openfintech.io/payout_methods/yes_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Yes Bank**](yes_bank/)|`yes_bank`| 
 |![yes_mfb](https://static.openfintech.io/payout_methods/yes_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Yes MFB**](yes_mfb/)|`yes_mfb`| 
 |![yezzz](https://static.openfintech.io/payout_methods/yezzz/logo.png?w=400&c=v0.59.26#w24) |[**Yezzz!**](yezzz/)|`yezzz`| 

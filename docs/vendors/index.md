@@ -636,6 +636,7 @@
 |![electroniccheckach](https://static.openfintech.io/vendors/electroniccheckach/logo.png?w=600&c=v0.59.26#w200) |[**eCheck (ACH)**](electroniccheckach/)|`electroniccheckach`| 
 |![electropay](https://static.openfintech.io/vendors/electropay/logo.png?w=600&c=v0.59.26#w200) |[**ElectroPay**](electropay/)|`electropay`| 
 |![elektronischeslastschriftverfahren](https://static.openfintech.io/vendors/elektronischeslastschriftverfahren/logo.png?w=600&c=v0.59.26#w200) |[**ELV**](elektronischeslastschriftverfahren/)|`elektronischeslastschriftverfahren`| 
+|![elitepay](https://static.openfintech.io/vendors/elitepay/logo.png?w=600&c=v0.59.26#w200) |[**Elitepay**](elitepay/)|`elitepay`| 
 |![elo](https://static.openfintech.io/vendors/elo/logo.png?w=600&c=v0.59.26#w200) |[**Elo**](elo/)|`elo`| 
 |![elsom](https://static.openfintech.io/vendors/elsom/logo.svg?w=600&c=v0.59.26#w200) |[**Элсом**](elsom/)|`elsom`| 
 |![ematters](https://static.openfintech.io/vendors/ematters/logo.png?w=600&c=v0.59.26#w200) |[**eMatters**](ematters/)|`ematters`| 
@@ -964,6 +965,7 @@
 |![inpendium](https://static.openfintech.io/vendors/inpendium/logo.png?w=600&c=v0.59.26#w200) |[**Inpendium**](inpendium/)|`inpendium`| 
 |![inqud](https://static.openfintech.io/vendors/inqud/logo.svg?w=600&c=v0.59.26#w200) |[**Inqud**](inqud/)|`inqud`| 
 |![instabill](https://static.openfintech.io/vendors/instabill/logo.png?w=600&c=v0.59.26#w200) |[**Instabill**](instabill/)|`instabill`| 
+|![inswitch](https://static.openfintech.io/vendors/inswitch/logo.png?w=600&c=v0.59.26#w200) |[**Inswitch**](inswitch/)|`inswitch`| 
 |![integrapay](https://static.openfintech.io/vendors/integrapay/logo.png?w=600&c=v0.59.26#w200) |[**Integrapay**](integrapay/)|`integrapay`| 
 |![inteligo](https://static.openfintech.io/vendors/inteligo/logo.png?w=600&c=v0.59.26#w200) |[**Inteligo**](inteligo/)|`inteligo`| 
 |![intelligentpayments](https://static.openfintech.io/vendors/intelligentpayments/logo.png?w=600&c=v0.59.26#w200) |[**Intelligent Payments**](intelligentpayments/)|`intelligentpayments`| 
