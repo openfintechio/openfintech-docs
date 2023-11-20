@@ -1530,6 +1530,7 @@
 |![paylinecoza](https://static.openfintech.io/vendors/paylinecoza/logo.png?w=600&c=v0.59.26#w200) |[**Payline**](paylinecoza/)|`paylinecoza`| 
 |![paylink](https://static.openfintech.io/vendors/paylink/logo.png?w=600&c=v0.59.26#w200) |[**PayLink**](paylink/)|`paylink`| 
 |![paylinkio](https://static.openfintech.io/vendors/paylinkio/logo.png?w=600&c=v0.59.26#w200) |[**Paylinkio**](paylinkio/)|`paylinkio`| 
+|![paylinkvip](https://static.openfintech.io/vendors/paylinkvip/logo.svg?w=600&c=v0.59.26#w200) |[**PaylinkVip**](paylinkvip/)|`paylinkvip`| 
 |![paymark](https://static.openfintech.io/vendors/paymark/logo.png?w=600&c=v0.59.26#w200) |[**Paymark**](paymark/)|`paymark`| 
 |![paymaster](https://static.openfintech.io/vendors/paymaster/logo.png?w=600&c=v0.59.26#w200) |[**Paymaster**](paymaster/)|`paymaster`| 
 |![paymate](https://static.openfintech.io/vendors/paymate/logo.png?w=600&c=v0.59.26#w200) |[**Paymate**](paymate/)|`paymate`| 
