@@ -39,6 +39,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |:---:|:---:|:---:| 
 |![perfectmoney_account](https://static.openfintech.io/payment_methods/perfectmoney_account/icon.svg?w=278&c=v0.59.26#w100) |[perfectmoney_account](/payment-methods/perfectmoney_account/)|`perfectmoney_account`| 
 |![perfectmoney_voucher](https://static.openfintech.io/payment_methods/perfectmoney_voucher/icon.svg?w=278&c=v0.59.26#w100) |[perfectmoney_voucher](/payment-methods/perfectmoney_voucher/)|`perfectmoney_voucher`| 
+|![perfectmoney](https://static.openfintech.io/payment_methods/perfectmoney/icon.svg?w=278&c=v0.59.26#w100) |[perfectmoney](/payment-methods/perfectmoney/)|`perfectmoney`| 
  
 
 ## Payout Methods 
@@ -61,7 +62,8 @@ The list of supported [Payout Methods](/payout-methods/)
   "countries":null,
   "payment_method":[
     "perfectmoney_account",
-    "perfectmoney_voucher"
+    "perfectmoney_voucher",
+    "perfectmoney"
   ],
   "payout_method":[
     "perfectmoney_transfer"
