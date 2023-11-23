@@ -509,6 +509,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![rubinpay](https://static.openfintech.io/payment_providers/rubinpay/icon.png?w=278&c=v0.59.26#w100) |[RubinPay](/payment-providers/rubinpay/)|`rubinpay`| 
 |![symoco](https://static.openfintech.io/payment_providers/symoco/icon.png?w=278&c=v0.59.26#w100) |[Symoco](/payment-providers/symoco/)|`symoco`| 
 |![paylinkvip](https://static.openfintech.io/payment_providers/paylinkvip/icon.svg?w=278&c=v0.59.26#w100) |[PaylinkVip](/payment-providers/paylinkvip/)|`paylinkvip`| 
+|![jmitsolutions](https://static.openfintech.io/payment_providers/jmitsolutions/icon.svg?w=278&c=v0.59.26#w100) |[JMITsolutions](/payment-providers/jmitsolutions/)|`jmitsolutions`| 
 |![neonpay](https://static.openfintech.io/payment_providers/neonpay/icon.png?w=278&c=v0.59.26#w100) |[Neonpay](/payment-providers/neonpay/)|`neonpay`| 
 |![projectonsolutionslimited](https://static.openfintech.io/payment_providers/projectonsolutionslimited/icon.svg?w=278&c=v0.59.26#w100) |[Projecton Solutions Limited](/payment-providers/projectonsolutionslimited/)|`projectonsolutionslimited`| 
 |![concryt](https://static.openfintech.io/payment_providers/concryt/icon.svg?w=278&c=v0.59.26#w100) |[Concryt](/payment-providers/concryt/)|`concryt`| 

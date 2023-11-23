@@ -995,6 +995,7 @@
 |![jetonlp](https://static.openfintech.io/vendors/jetonlp/logo.png?w=600&c=v0.59.26#w200) |[**JetonLP**](jetonlp/)|`jetonlp`| 
 |![jetpay](https://static.openfintech.io/vendors/jetpay/logo.png?w=600&c=v0.59.26#w200) |[**JetPay**](jetpay/)|`jetpay`| 
 |![jibun_bank](https://static.openfintech.io/vendors/jibun_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Jibun Bank**](jibun_bank/)|`jibun_bank`| 
+|![jmitsolutions](https://static.openfintech.io/vendors/jmitsolutions/logo.svg?w=600&c=v0.59.26#w200) |[**JMITsolutions**](jmitsolutions/)|`jmitsolutions`| 
 |![jouyou_bank](https://static.openfintech.io/vendors/jouyou_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Jouyou Bank**](jouyou_bank/)|`jouyou_bank`| 
 |![jpmorgan_chase_bank](https://static.openfintech.io/vendors/jpmorgan_chase_bank/logo.svg?w=600&c=v0.59.26#w200) |[**JPMorgan Chase Bank**](jpmorgan_chase_bank/)|`jpmorgan_chase_bank`| 
 |![judopayments](https://static.openfintech.io/vendors/judopayments/logo.png?w=600&c=v0.59.26#w200) |[**Judo Payments**](judopayments/)|`judopayments`| 

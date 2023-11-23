@@ -45,6 +45,7 @@ The list of [Payment Services](/payment-services/) based on the _SBP QR_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![sbp_qr](https://static.openfintech.io/payment_methods/sbp_qr/icon.svg?w=278&c=v0.59.26#w100) |[sbp_qr_rub_hpp](/payment-services/sbp_qr_rub_hpp/)|`sbp_qr_rub_hpp`| 
+|![sbp_qr](https://static.openfintech.io/payment_methods/sbp_qr/icon.svg?w=278&c=v0.59.26#w100) |[sbp_qr_rub_invoice](/payment-services/sbp_qr_rub_invoice/)|`sbp_qr_rub_invoice`| 
  
 
 ## Payment Providers 
@@ -53,6 +54,7 @@ The list of [Payment Providers](/payment-providers/) that support the _SBP QR_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![forta](https://static.openfintech.io/payment_providers/forta/icon.png?w=278&c=v0.59.26#w100) |[Forta](/payment-providers/forta/)|`forta`| 
 |![connpay](https://static.openfintech.io/payment_providers/connpay/icon.png?w=278&c=v0.59.26#w100) |[ConnPay](/payment-providers/connpay/)|`connpay`| 
  
 

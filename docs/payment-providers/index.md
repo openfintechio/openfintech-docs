@@ -412,6 +412,7 @@
 |![jeton](https://static.openfintech.io/payment_providers/jeton/logo.png?w=600&c=v0.59.26#w100) |[**Jeton**](jeton/)|`jeton`| 
 |![jetonlp](https://static.openfintech.io/payment_providers/jetonlp/logo.png?w=600&c=v0.59.26#w100) |[**JetonLP**](jetonlp/)|`jetonlp`| 
 |![jetpay](https://static.openfintech.io/payment_providers/jetpay/logo.png?w=600&c=v0.59.26#w100) |[**JetPay**](jetpay/)|`jetpay`| 
+|![jmitsolutions](https://static.openfintech.io/payment_providers/jmitsolutions/logo.svg?w=600&c=v0.59.26#w100) |[**JMITsolutions**](jmitsolutions/)|`jmitsolutions`| 
 |![judopayments](https://static.openfintech.io/payment_providers/judopayments/logo.png?w=600&c=v0.59.26#w100) |[**Judo Payments**](judopayments/)|`judopayments`| 
 |![junglepay](https://static.openfintech.io/payment_providers/junglepay/logo.png?w=600&c=v0.59.26#w100) |[**JunglePay**](junglepay/)|`junglepay`| 
 || **K** ||
