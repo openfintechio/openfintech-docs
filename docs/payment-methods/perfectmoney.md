@@ -36,6 +36,7 @@ The list of [Payment Services](/payment-services/) based on the _Perfect Money_
 |:---:|:---:|:---:| 
 |![perfectmoney](https://static.openfintech.io/payment_methods/perfectmoney/icon.svg?w=278&c=v0.59.26#w100) |[perfectmoney_usd_hpp](/payment-services/perfectmoney_usd_hpp/)|`perfectmoney_usd_hpp`| 
 |![perfectmoney](https://static.openfintech.io/payment_methods/perfectmoney/icon.svg?w=278&c=v0.59.26#w100) |[perfectmoney_eur_hpp](/payment-services/perfectmoney_eur_hpp/)|`perfectmoney_eur_hpp`| 
+|![perfectmoney](https://static.openfintech.io/payment_methods/perfectmoney/icon.svg?w=278&c=v0.59.26#w100) |[perfectmoney_btc_hpp](/payment-services/perfectmoney_btc_hpp/)|`perfectmoney_btc_hpp`| 
  
 
 ## Payment Providers 
