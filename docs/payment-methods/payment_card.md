@@ -276,7 +276,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![mercuryo](https://static.openfintech.io/payment_providers/mercuryo/icon.svg?w=278&c=v0.59.26#w100) |[Mercuryo](/payment-providers/mercuryo/)|`mercuryo`| 
 |![paymentwall](https://static.openfintech.io/payment_providers/paymentwall/icon.svg?w=278&c=v0.59.26#w100) |[Paymentwall](/payment-providers/paymentwall/)|`paymentwall`| 
 |![wlandpay](https://static.openfintech.io/payment_providers/wlandpay/icon.png?w=278&c=v0.59.26#w100) |[Wlandpay](/payment-providers/wlandpay/)|`wlandpay`| 
-|![exactly](https://static.openfintech.io/payment_providers/exactly/icon.svg?w=278&c=v0.59.26#w100) |[Exactly](/payment-providers/exactly/)|`exactly`| 
+|![exactly](https://static.openfintech.io/payment_providers/exactly/icon.svg?w=278&c=v0.59.26#w100) |[exactly](/payment-providers/exactly/)|`exactly`| 
 |![xpate](https://static.openfintech.io/payment_providers/xpate/icon.svg?w=278&c=v0.59.26#w100) |[Xpate](/payment-providers/xpate/)|`xpate`| 
 |![dropayment](https://static.openfintech.io/payment_providers/dropayment/icon.svg?w=278&c=v0.59.26#w100) |[Dropayment](/payment-providers/dropayment/)|`dropayment`| 
 |![epayglobal](https://static.openfintech.io/payment_providers/epayglobal/icon.png?w=278&c=v0.59.26#w100) |[ePay Global](/payment-providers/epayglobal/)|`epayglobal`| 

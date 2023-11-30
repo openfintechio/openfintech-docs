@@ -1,5 +1,5 @@
 
-# Exactly 
+# exactly 
 ![exactly](https://static.openfintech.io/payment_providers/exactly/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,13 @@
  
 **Name:** 
  
-:	[EN] Exactly 
-:	[RU] Exactly 
-:	[UK] Exactly 
+:	[EN] exactly 
+:	[RU] exactly 
+:	[UK] exactly 
+ 
+**Description:** 
+ 
+: [EN] exactly® - Payment System is a robust platform designed to empower online businesses with enhanced capabilities and features. It facilitates growth by supporting major global and local currencies streamlining international and local transactions. Partnering merchants have access to a wide range of features that allow for continuous expansion in the online business world. These features include recurring payments, one-click payments, payment links, and other options to enhance convenience and promote business growth. The system seamlessly interacts with primary card types such as VISA, MasterCard, UnionPay, and various local payment methods, including MultiBanco, MBWay, etc. Security is paramount within exactly® Payment System, adhering rigorously to PCI DSS and 3D Secure 2 compliance standards, integrating advanced anti-fraud protection, and implementing two-factor authentication measures. exactly® makes global transactions simple, cost-effective, and practical, ensuring a smooth experience regardless of the preferred payment method. 
  
 
 ## Images 
@@ -56,7 +60,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"exactly",
-  "description":null,
+  "description":{
+    "en":"exactly\u00ae - Payment System is a robust platform designed to empower online businesses with enhanced capabilities and features. It facilitates growth by supporting major global and local currencies streamlining international and local transactions. Partnering merchants have access to a wide range of features that allow for continuous expansion in the online business world. These features include recurring payments, one-click payments, payment links, and other options to enhance convenience and promote business growth. The system seamlessly interacts with primary card types such as VISA, MasterCard, UnionPay, and various local payment methods, including MultiBanco, MBWay, etc. Security is paramount within exactly\u00ae Payment System, adhering rigorously to PCI DSS and 3D Secure 2 compliance standards, integrating advanced anti-fraud protection, and implementing two-factor authentication measures. exactly\u00ae makes global transactions simple, cost-effective, and practical, ensuring a smooth experience regardless of the preferred payment method."
+  },
   "vendor":"exactly",
   "categories":null,
   "countries":null,
@@ -68,9 +74,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"Exactly",
-    "ru":"Exactly",
-    "uk":"Exactly"
+    "en":"exactly",
+    "ru":"exactly",
+    "uk":"exactly"
   }
 }
 ```  

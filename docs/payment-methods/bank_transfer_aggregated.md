@@ -50,6 +50,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |:---:|:---:|:---:| 
 |![paymentasia](https://static.openfintech.io/payment_providers/paymentasia/icon.png?w=278&c=v0.59.26#w100) |[PaymentAsia](/payment-providers/paymentasia/)|`paymentasia`| 
 |![bitexpro](https://static.openfintech.io/payment_providers/bitexpro/icon.png?w=278&c=v0.59.26#w100) |[BitexPRO](/payment-providers/bitexpro/)|`bitexpro`| 
+|![katarun](https://static.openfintech.io/payment_providers/katarun/icon.png?w=278&c=v0.59.26#w100) |[Katarun](/payment-providers/katarun/)|`katarun`| 
  
 
 ## JSON Object 
