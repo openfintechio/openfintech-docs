@@ -853,7 +853,7 @@
 |![traxpay](https://static.openfintech.io/payment_providers/traxpay/logo.png?w=600&c=v0.59.26#w100) |[**Traxpay**](traxpay/)|`traxpay`| 
 |![triple000](https://static.openfintech.io/payment_providers/triple000/logo.png?w=600&c=v0.59.26#w100) |[**Triple000**](triple000/)|`triple000`| 
 |![triplea](https://static.openfintech.io/payment_providers/triplea/logo.png?w=600&c=v0.59.26#w100) |[**TripleA**](triplea/)|`triplea`| 
-|![truevo](https://static.openfintech.io/payment_providers/truevo/logo.png?w=600&c=v0.59.26#w100) |[**Truevo Payments**](truevo/)|`truevo`| 
+|![truevo](https://static.openfintech.io/payment_providers/truevo/logo.png?w=600&c=v0.59.26#w100) |[**Truevo Payments Ltd**](truevo/)|`truevo`| 
 |![trustcommerce](https://static.openfintech.io/payment_providers/trustcommerce/logo.png?w=600&c=v0.59.26#w100) |[**TrustCommerce**](trustcommerce/)|`trustcommerce`| 
 |![trustly](https://static.openfintech.io/payment_providers/trustly/logo.svg?w=600&c=v0.59.26#w100) |[**Trustly**](trustly/)|`trustly`| 
 |![trustpay](https://static.openfintech.io/payment_providers/trustpay/logo.svg?w=600&c=v0.59.26#w100) |[**TrustPay**](trustpay/)|`trustpay`| 

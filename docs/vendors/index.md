@@ -2029,7 +2029,7 @@
 |![triple000](https://static.openfintech.io/vendors/triple000/logo.png?w=600&c=v0.59.26#w200) |[**Triple000**](triple000/)|`triple000`| 
 |![triplea](https://static.openfintech.io/vendors/triplea/logo.png?w=600&c=v0.59.26#w200) |[**TripleA**](triplea/)|`triplea`| 
 |![tron](https://static.openfintech.io/vendors/tron/logo.svg?w=600&c=v0.59.26#w200) |[**Tron**](tron/)|`tron`| 
-|![truevo](https://static.openfintech.io/vendors/truevo/logo.png?w=600&c=v0.59.26#w200) |[**Truevo Payments**](truevo/)|`truevo`| 
+|![truevo](https://static.openfintech.io/vendors/truevo/logo.png?w=600&c=v0.59.26#w200) |[**Truevo Payments Ltd**](truevo/)|`truevo`| 
 |![trust-exchange.org](https://static.openfintech.io/vendors/trust-exchange.org/logo.svg?w=600&c=v0.59.26#w200) |[**trust-exchange**](trust-exchange.org/)|`trust-exchange.org`| 
 |![trustcommerce](https://static.openfintech.io/vendors/trustcommerce/logo.png?w=600&c=v0.59.26#w200) |[**TrustCommerce**](trustcommerce/)|`trustcommerce`| 
 |![trustly](https://static.openfintech.io/vendors/trustly/logo.svg?w=600&c=v0.59.26#w200) |[**Trustly**](trustly/)|`trustly`| 

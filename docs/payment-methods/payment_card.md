@@ -187,6 +187,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![axcessmerchantservices](https://static.openfintech.io/payment_providers/axcessmerchantservices/icon.png?w=278&c=v0.59.26#w100) |[Axcess Merchant Services](/payment-providers/axcessmerchantservices/)|`axcessmerchantservices`| 
 |![smart2pay](https://static.openfintech.io/payment_providers/smart2pay/icon.png?w=278&c=v0.59.26#w100) |[Smart2Pay](/payment-providers/smart2pay/)|`smart2pay`| 
 |![skrill](https://static.openfintech.io/payment_providers/skrill/icon.svg?w=278&c=v0.59.26#w100) |[Skrill](/payment-providers/skrill/)|`skrill`| 
+|![truevo](https://static.openfintech.io/payment_providers/truevo/icon.png?w=278&c=v0.59.26#w100) |[Truevo Payments Ltd](/payment-providers/truevo/)|`truevo`| 
 |![apco](https://static.openfintech.io/payment_providers/apco/icon.png?w=278&c=v0.59.26#w100) |[APCO](/payment-providers/apco/)|`apco`| 
 |![intelligentpayments](https://static.openfintech.io/payment_providers/intelligentpayments/icon.png?w=278&c=v0.59.26#w100) |[Intelligent Payments](/payment-providers/intelligentpayments/)|`intelligentpayments`| 
 |![payvision](https://static.openfintech.io/payment_providers/payvision/icon.png?w=278&c=v0.59.26#w100) |[Payvision](/payment-providers/payvision/)|`payvision`| 
