@@ -1536,6 +1536,7 @@
 |![paymark](https://static.openfintech.io/vendors/paymark/logo.png?w=600&c=v0.59.26#w200) |[**Paymark**](paymark/)|`paymark`| 
 |![paymaster](https://static.openfintech.io/vendors/paymaster/logo.png?w=600&c=v0.59.26#w200) |[**Paymaster**](paymaster/)|`paymaster`| 
 |![paymate](https://static.openfintech.io/vendors/paymate/logo.png?w=600&c=v0.59.26#w200) |[**Paymate**](paymate/)|`paymate`| 
+|![paymaxis](https://static.openfintech.io/vendors/paymaxis/logo.png?w=600&c=v0.59.26#w200) |[**PayMaxis**](paymaxis/)|`paymaxis`| 
 |![paymecrypto](https://static.openfintech.io/vendors/paymecrypto/logo.svg?w=600&c=v0.59.26#w200) |[**PaymeCrypto**](paymecrypto/)|`paymecrypto`| 
 |![paymega](https://static.openfintech.io/vendors/paymega/logo.svg?w=600&c=v0.59.26#w200) |[**PayMega**](paymega/)|`paymega`| 
 |![paymegaio](https://static.openfintech.io/vendors/paymegaio/logo.svg?w=600&c=v0.59.26#w200) |[**Paymega.io**](paymegaio/)|`paymegaio`| 

@@ -26,8 +26,8 @@
 |:---:|:---:|:---:|:---:| 
 |`beneficiary_name`|✔|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
 |`beneficiary_lastname`|✔|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
-|`document_id`|✔|`string`|`/^.{6,12}$/`| 
-|`bank_code`|✔|`string`|`/^[0-9]{2,4}$/`| 
+|`document_id`|✗|`string`|`/^.{6,12}$/`| 
+|`bank_code`|✗|`string`|`/^[0-9]{2,4}$/`| 
 |`account_number`|✔|`string`|`/^[0-9]{5,100}$/`| 
  
 
@@ -75,7 +75,7 @@
  
 	Regexp: `/^.{6,12}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Document ID 
@@ -93,7 +93,7 @@
  
 	Regexp: `/^[0-9]{2,4}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Bank Code 
@@ -181,7 +181,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
       },
       "position":3,
-      "required":true
+      "required":false
     },
     {
       "key":"bank_code",
@@ -198,7 +198,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443"
       },
       "position":4,
-      "required":true
+      "required":false
     },
     {
       "key":"account_number",

@@ -602,6 +602,7 @@
 |![paymark](https://static.openfintech.io/payment_providers/paymark/logo.png?w=600&c=v0.59.26#w100) |[**Paymark**](paymark/)|`paymark`| 
 |![paymaster](https://static.openfintech.io/payment_providers/paymaster/logo.svg?w=600&c=v0.59.26#w100) |[**Paymaster**](paymaster/)|`paymaster`| 
 |![paymate](https://static.openfintech.io/payment_providers/paymate/logo.png?w=600&c=v0.59.26#w100) |[**Paymate**](paymate/)|`paymate`| 
+|![paymaxis](https://static.openfintech.io/payment_providers/paymaxis/logo.png?w=600&c=v0.59.26#w100) |[**PayMaxis**](paymaxis/)|`paymaxis`| 
 |![paymecrypto](https://static.openfintech.io/payment_providers/paymecrypto/logo.svg?w=600&c=v0.59.26#w100) |[**PaymeCrypto**](paymecrypto/)|`paymecrypto`| 
 |![paymega](https://static.openfintech.io/payment_providers/paymega/logo.svg?w=600&c=v0.59.26#w100) |[**PayMega**](paymega/)|`paymega`| 
 |![paymegaio](https://static.openfintech.io/payment_providers/paymegaio/logo.svg?w=600&c=v0.59.26#w100) |[**Paymega.io**](paymegaio/)|`paymegaio`| 
