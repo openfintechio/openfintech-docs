@@ -42,6 +42,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |![spei](https://static.openfintech.io/payment_methods/spei/icon.svg?w=278&c=v0.59.26#w100) |[spei](/payment-methods/spei/)|`spei`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![spei](https://static.openfintech.io/payout_methods/spei/icon.svg?w=278&c=v0.59.26#w40) |[spei](payout-methodsspei/)|`spei`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -54,7 +63,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payment_method":[
     "spei"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "spei"
+  ],
   "metadata":null,
   "name":{
     "en":"Inswitch",
