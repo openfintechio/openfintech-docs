@@ -1494,6 +1494,7 @@
 |![payboxservices](https://static.openfintech.io/vendors/payboxservices/logo.png?w=600&c=v0.59.26#w200) |[**Paybox by Verifone**](payboxservices/)|`payboxservices`| 
 |![paybybill](https://static.openfintech.io/vendors/paybybill/logo.png?w=600&c=v0.59.26#w200) |[**PayByBill**](paybybill/)|`paybybill`| 
 |![paycash](https://static.openfintech.io/vendors/paycash/logo.png?w=600&c=v0.59.26#w200) |[**PayCash**](paycash/)|`paycash`| 
+|![paycc](https://static.openfintech.io/vendors/paycc/logo.svg?w=600&c=v0.59.26#w200) |[**Pay.CC**](paycc/)|`paycc`| 
 |![paycheckout](https://static.openfintech.io/vendors/paycheckout/logo.png?w=600&c=v0.59.26#w200) |[**PayCheckout**](paycheckout/)|`paycheckout`| 
 |![paycific](https://static.openfintech.io/vendors/paycific/logo.png?w=600&c=v0.59.26#w200) |[**PayCific**](paycific/)|`paycific`| 
 |![payclub](https://static.openfintech.io/vendors/payclub/logo.png?w=600&c=v0.59.26#w200) |[**PayClub**](payclub/)|`payclub`| 
@@ -1729,6 +1730,7 @@
 |![puat_smartbank](https://static.openfintech.io/vendors/puat_smartbank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'СМАРТБАНК'**](puat_smartbank/)|`puat_smartbank`| 
 |![pumb](https://static.openfintech.io/vendors/pumb/logo.svg?w=600&c=v0.59.26#w200) |[**The First Ukrainian International Bank**](pumb/)|`pumb`| 
 |![purebilling](https://static.openfintech.io/vendors/purebilling/logo.png?w=600&c=v0.59.26#w200) |[**purebilling.com**](purebilling/)|`purebilling`| 
+|![pylon](https://static.openfintech.io/vendors/pylon/logo.svg?w=600&c=v0.59.26#w200) |[**Pylon**](pylon/)|`pylon`| 
 || **Q** ||
 |![qantani](https://static.openfintech.io/vendors/qantani/logo.png?w=600&c=v0.59.26#w200) |[**Qantani**](qantani/)|`qantani`| 
 |![qazaqbanki](https://static.openfintech.io/vendors/qazaqbanki/logo.svg?w=600&c=v0.59.26#w200) |[**Qazaq Banki**](qazaqbanki/)|`qazaqbanki`| 

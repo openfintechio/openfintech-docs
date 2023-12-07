@@ -511,6 +511,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![concryt](https://static.openfintech.io/payment_providers/concryt/icon.svg?w=278&c=v0.59.26#w100) |[Concryt](/payment-providers/concryt/)|`concryt`| 
 |![paymaxis](https://static.openfintech.io/payment_providers/paymaxis/icon.png?w=278&c=v0.59.26#w100) |[PayMaxis](/payment-providers/paymaxis/)|`paymaxis`| 
 |![carespay](https://static.openfintech.io/payment_providers/carespay/icon.png?w=278&c=v0.59.26#w100) |[CaresPAY](/payment-providers/carespay/)|`carespay`| 
+|![pylon](https://static.openfintech.io/payment_providers/pylon/icon.svg?w=278&c=v0.59.26#w100) |[Pylon](/payment-providers/pylon/)|`pylon`| 
+|![paycc](https://static.openfintech.io/payment_providers/paycc/icon.svg?w=278&c=v0.59.26#w100) |[Pay.CC](/payment-providers/paycc/)|`paycc`| 
  
 
 ## JSON Object 

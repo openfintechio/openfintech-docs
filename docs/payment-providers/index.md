@@ -564,6 +564,7 @@
 |![paybox](https://static.openfintech.io/payment_providers/paybox/logo.svg?w=600&c=v0.59.26#w100) |[**Paybox**](paybox/)|`paybox`| 
 |![payboxservices](https://static.openfintech.io/payment_providers/payboxservices/logo.png?w=600&c=v0.59.26#w100) |[**Paybox by Verifone**](payboxservices/)|`payboxservices`| 
 |![paycash](https://static.openfintech.io/payment_providers/paycash/logo.png?w=600&c=v0.59.26#w100) |[**PayCash**](paycash/)|`paycash`| 
+|![paycc](https://static.openfintech.io/payment_providers/paycc/logo.svg?w=600&c=v0.59.26#w100) |[**Pay.CC**](paycc/)|`paycc`| 
 |![paycheckout](https://static.openfintech.io/payment_providers/paycheckout/logo.png?w=600&c=v0.59.26#w100) |[**PayCheckout**](paycheckout/)|`paycheckout`| 
 |![paycific](https://static.openfintech.io/payment_providers/paycific/logo.png?w=600&c=v0.59.26#w100) |[**PayCific**](paycific/)|`paycific`| 
 |![payclub](https://static.openfintech.io/payment_providers/payclub/logo.png?w=600&c=v0.59.26#w100) |[**PayClub**](payclub/)|`payclub`| 
@@ -731,6 +732,7 @@
 |![pspgate](https://static.openfintech.io/payment_providers/pspgate/logo.png?w=600&c=v0.59.26#w100) |[**PSPGate**](pspgate/)|`pspgate`| 
 |![pumb](https://static.openfintech.io/payment_providers/pumb/logo.svg?w=600&c=v0.59.26#w100) |[**The First Ukrainian International Bank**](pumb/)|`pumb`| 
 |![purebilling](https://static.openfintech.io/payment_providers/purebilling/logo.png?w=600&c=v0.59.26#w100) |[**purebilling.com**](purebilling/)|`purebilling`| 
+|![pylon](https://static.openfintech.io/payment_providers/pylon/logo.svg?w=600&c=v0.59.26#w100) |[**Pylon**](pylon/)|`pylon`| 
 || **Q** ||
 |![qantani](https://static.openfintech.io/payment_providers/qantani/logo.png?w=600&c=v0.59.26#w100) |[**Qantani**](qantani/)|`qantani`| 
 |![qiwi](https://static.openfintech.io/payment_providers/qiwi/logo.svg?w=600&c=v0.59.26#w100) |[**Qiwi**](qiwi/)|`qiwi`| 
