@@ -145,6 +145,7 @@
 |![cards2cards](https://static.openfintech.io/payment_providers/cards2cards/logo.png?w=600&c=v0.59.26#w100) |[**cards2cards**](cards2cards/)|`cards2cards`| 
 |![cardsave](https://static.openfintech.io/payment_providers/cardsave/logo.svg?w=600&c=v0.59.26#w100) |[**Cardsave**](cardsave/)|`cardsave`| 
 |![cardstreamlimited](https://static.openfintech.io/payment_providers/cardstreamlimited/logo.png?w=600&c=v0.59.26#w100) |[**Cardstream**](cardstreamlimited/)|`cardstreamlimited`| 
+|![carespay](https://static.openfintech.io/payment_providers/carespay/logo.png?w=600&c=v0.59.26#w100) |[**CaresPAY**](carespay/)|`carespay`| 
 |![cashbulls](https://static.openfintech.io/payment_providers/cashbulls/logo.png?w=600&c=v0.59.26#w100) |[**Cash Bulls**](cashbulls/)|`cashbulls`| 
 |![cashflows](https://static.openfintech.io/payment_providers/cashflows/logo.png?w=600&c=v0.59.26#w100) |[**CashFlows**](cashflows/)|`cashflows`| 
 |![cashfree](https://static.openfintech.io/payment_providers/cashfree/logo.png?w=600&c=v0.59.26#w100) |[**Cashfree**](cashfree/)|`cashfree`| 

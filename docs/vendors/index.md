@@ -399,6 +399,7 @@
 |![cardsave](https://static.openfintech.io/vendors/cardsave/logo.png?w=600&c=v0.59.26#w200) |[**Cardsave**](cardsave/)|`cardsave`| 
 |![cardstreamlimited](https://static.openfintech.io/vendors/cardstreamlimited/logo.png?w=600&c=v0.59.26#w200) |[**Cardstream**](cardstreamlimited/)|`cardstreamlimited`| 
 |![cardworldpayments](https://static.openfintech.io/vendors/cardworldpayments/logo.png?w=600&c=v0.59.26#w200) |[**Card World Payments**](cardworldpayments/)|`cardworldpayments`| 
+|![carespay](https://static.openfintech.io/vendors/carespay/logo.png?w=600&c=v0.59.26#w200) |[**CaresPAY**](carespay/)|`carespay`| 
 |![carrierbilling](https://static.openfintech.io/vendors/carrierbilling/logo.png?w=600&c=v0.59.26#w200) |[**Carrier Billing**](carrierbilling/)|`carrierbilling`| 
 |![cartasi](https://static.openfintech.io/vendors/cartasi/logo.png?w=600&c=v0.59.26#w200) |[**CartaSi**](cartasi/)|`cartasi`| 
 |![cartebancaires](https://static.openfintech.io/vendors/cartebancaires/logo.png?w=600&c=v0.59.26#w200) |[**Carte Bancaires**](cartebancaires/)|`cartebancaires`| 
