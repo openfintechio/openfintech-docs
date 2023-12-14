@@ -46,6 +46,18 @@ The list of supported [Payment Methods](/payment-methods/)
 |![bitexpro_p2p](https://static.openfintech.io/payment_methods/bitexpro_p2p/icon.svg?w=278&c=v0.59.26#w100) |[bitexpro_p2p](/payment-methods/bitexpro_p2p/)|`bitexpro_p2p`| 
 |![bitexpro_wallet](https://static.openfintech.io/payment_methods/bitexpro_wallet/icon.png?w=278&c=v0.59.26#w100) |[bitexpro_wallet](/payment-methods/bitexpro_wallet/)|`bitexpro_wallet`| 
 |![bank_transfer_aggregated](https://static.openfintech.io/payment_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_aggregated](/payment-methods/bank_transfer_aggregated/)|`bank_transfer_aggregated`| 
+|![wise](https://static.openfintech.io/payment_methods/wise/icon.svg?w=278&c=v0.59.26#w100) |[wise](/payment-methods/wise/)|`wise`| 
+|![revolut_bank](https://static.openfintech.io/payment_methods/revolut_bank/icon.png?w=278&c=v0.59.26#w100) |[revolut_bank](/payment-methods/revolut_bank/)|`revolut_bank`| 
+|![n26_bank](https://static.openfintech.io/payment_methods/n26_bank/icon.png?w=278&c=v0.59.26#w100) |[n26_bank](/payment-methods/n26_bank/)|`n26_bank`| 
+|![ing_group_bank](https://static.openfintech.io/payment_methods/ing_group_bank/icon.png?w=278&c=v0.59.26#w100) |[ing_group_bank](/payment-methods/ing_group_bank/)|`ing_group_bank`| 
+|![abn_amro_bank](https://static.openfintech.io/payment_methods/abn_amro_bank/icon.svg?w=278&c=v0.59.26#w100) |[abn_amro_bank](/payment-methods/abn_amro_bank/)|`abn_amro_bank`| 
+|![rabobank](https://static.openfintech.io/payment_methods/rabobank/icon.png?w=278&c=v0.59.26#w100) |[rabobank](/payment-methods/rabobank/)|`rabobank`| 
+|![societe_generale_bank](https://static.openfintech.io/payment_methods/societe_generale_bank/icon.svg?w=278&c=v0.59.26#w100) |[societe_generale_bank](/payment-methods/societe_generale_bank/)|`societe_generale_bank`| 
+|![credit_mutuel_bank](https://static.openfintech.io/payment_methods/credit_mutuel_bank/icon.png?w=278&c=v0.59.26#w100) |[credit_mutuel_bank](/payment-methods/credit_mutuel_bank/)|`credit_mutuel_bank`| 
+|![la_banque_postale](https://static.openfintech.io/payment_methods/la_banque_postale/icon.svg?w=278&c=v0.59.26#w100) |[la_banque_postale](/payment-methods/la_banque_postale/)|`la_banque_postale`| 
+|![aktivbank](https://static.openfintech.io/payment_methods/aktivbank/icon.png?w=278&c=v0.59.26#w100) |[aktivbank](/payment-methods/aktivbank/)|`aktivbank`| 
+|![commerzbank](https://static.openfintech.io/payment_methods/commerzbank/icon.svg?w=278&c=v0.59.26#w100) |[commerzbank](/payment-methods/commerzbank/)|`commerzbank`| 
+|![deutsche_bank](https://static.openfintech.io/payment_methods/deutsche_bank/icon.png?w=278&c=v0.59.26#w100) |[deutsche_bank](/payment-methods/deutsche_bank/)|`deutsche_bank`| 
  
 
 ## Payout Methods 
@@ -78,7 +90,19 @@ The list of supported [Payout Methods](/payout-methods/)
     "hero_payments",
     "bitexpro_p2p",
     "bitexpro_wallet",
-    "bank_transfer_aggregated"
+    "bank_transfer_aggregated",
+    "wise",
+    "revolut_bank",
+    "n26_bank",
+    "ing_group_bank",
+    "abn_amro_bank",
+    "rabobank",
+    "societe_generale_bank",
+    "credit_mutuel_bank",
+    "la_banque_postale",
+    "aktivbank",
+    "commerzbank",
+    "deutsche_bank"
   ],
   "payout_method":[
     "advcash_wallet",

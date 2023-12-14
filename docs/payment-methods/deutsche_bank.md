@@ -30,13 +30,13 @@ https://static.openfintech.io/payment_methods/deutsche_bank/logo.png?w=400&c=v0.
 https://static.openfintech.io/payment_methods/deutsche_bank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _Deutsche Bank_ 
+The list of [Payment Services](/payment-services/) based on the _Deutsche Bank_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![deutsche_bank](https://static.openfintech.io/payout_methods/deutsche_bank/icon.svg?w=278&c=v0.59.26#w40) |[deutsche_bank_jpy](/payout-services/deutsche_bank_jpy/)|`deutsche_bank_jpy`| 
+|![deutsche_bank](https://static.openfintech.io/payment_methods/deutsche_bank/icon.png?w=278&c=v0.59.26#w100) |[deutsche_bank_eur_hpp](/payment-services/deutsche_bank_eur_hpp/)|`deutsche_bank_eur_hpp`| 
  
 
 ## Payment Providers 

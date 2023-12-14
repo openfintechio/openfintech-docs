@@ -47,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Wise_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![bitexpro](https://static.openfintech.io/payment_providers/bitexpro/icon.png?w=278&c=v0.59.26#w100) |[BitexPRO](/payment-providers/bitexpro/)|`bitexpro`| 
 |![payport](https://static.openfintech.io/payment_providers/payport/icon.svg?w=278&c=v0.59.26#w100) |[PayPort](/payment-providers/payport/)|`payport`| 
  
 
