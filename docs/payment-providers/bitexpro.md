@@ -59,6 +59,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![commerzbank](https://static.openfintech.io/payment_methods/commerzbank/icon.svg?w=278&c=v0.59.26#w100) |[commerzbank](/payment-methods/commerzbank/)|`commerzbank`| 
 |![deutsche_bank](https://static.openfintech.io/payment_methods/deutsche_bank/icon.png?w=278&c=v0.59.26#w100) |[deutsche_bank](/payment-methods/deutsche_bank/)|`deutsche_bank`| 
 |![bnp_paribas_bank](https://static.openfintech.io/payment_methods/bnp_paribas_bank/icon.svg?w=278&c=v0.59.26#w100) |[bnp_paribas_bank](/payment-methods/bnp_paribas_bank/)|`bnp_paribas_bank`| 
+|![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile](/payment-methods/mobile/)|`mobile`| 
  
 
 ## Payout Methods 
@@ -104,7 +105,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "aktivbank",
     "commerzbank",
     "deutsche_bank",
-    "bnp_paribas_bank"
+    "bnp_paribas_bank",
+    "mobile"
   ],
   "payout_method":[
     "advcash_wallet",
