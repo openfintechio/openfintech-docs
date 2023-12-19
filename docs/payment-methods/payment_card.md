@@ -342,6 +342,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![constantpos](https://static.openfintech.io/payment_providers/constantpos/icon.svg?w=278&c=v0.59.26#w100) |[Constantpos](/payment-providers/constantpos/)|`constantpos`| 
 |![globaltransactioncharge](https://static.openfintech.io/payment_providers/globaltransactioncharge/icon.svg?w=278&c=v0.59.26#w100) |[GlobalTransactionCharge](/payment-providers/globaltransactioncharge/)|`globaltransactioncharge`| 
 |![bzpay](https://static.openfintech.io/payment_providers/bzpay/icon.svg?w=278&c=v0.59.26#w100) |[BZPAY](/payment-providers/bzpay/)|`bzpay`| 
+|![procardpay](https://static.openfintech.io/payment_providers/procardpay/icon.png?w=278&c=v0.59.26#w100) |[Procard.Pay](/payment-providers/procardpay/)|`procardpay`| 
 |![stepfourpay](https://static.openfintech.io/payment_providers/stepfourpay/icon.svg?w=278&c=v0.59.26#w100) |[Step4Pay](/payment-providers/stepfourpay/)|`stepfourpay`| 
 |![magicpayments](https://static.openfintech.io/payment_providers/magicpayments/icon.svg?w=278&c=v0.59.26#w100) |[Magic Payments](/payment-providers/magicpayments/)|`magicpayments`| 
 |![reeves](https://static.openfintech.io/payment_providers/reeves/icon.png?w=278&c=v0.59.26#w100) |[Reeves](/payment-providers/reeves/)|`reeves`| 
@@ -510,6 +511,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![projectonsolutionslimited](https://static.openfintech.io/payment_providers/projectonsolutionslimited/icon.svg?w=278&c=v0.59.26#w100) |[Projecton Solutions Limited](/payment-providers/projectonsolutionslimited/)|`projectonsolutionslimited`| 
 |![concryt](https://static.openfintech.io/payment_providers/concryt/icon.svg?w=278&c=v0.59.26#w100) |[Concryt](/payment-providers/concryt/)|`concryt`| 
 |![paymaxis](https://static.openfintech.io/payment_providers/paymaxis/icon.png?w=278&c=v0.59.26#w100) |[PayMaxis](/payment-providers/paymaxis/)|`paymaxis`| 
+|![inswitch](https://static.openfintech.io/payment_providers/inswitch/icon.png?w=278&c=v0.59.26#w100) |[Inswitch](/payment-providers/inswitch/)|`inswitch`| 
 |![carespay](https://static.openfintech.io/payment_providers/carespay/icon.png?w=278&c=v0.59.26#w100) |[CaresPAY](/payment-providers/carespay/)|`carespay`| 
 |![pylon](https://static.openfintech.io/payment_providers/pylon/icon.svg?w=278&c=v0.59.26#w100) |[Pylon](/payment-providers/pylon/)|`pylon`| 
 |![paycc](https://static.openfintech.io/payment_providers/paycc/icon.svg?w=278&c=v0.59.26#w100) |[Pay.CC](/payment-providers/paycc/)|`paycc`| 
