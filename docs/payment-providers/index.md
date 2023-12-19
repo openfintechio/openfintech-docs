@@ -723,7 +723,7 @@
 |![prismpay](https://static.openfintech.io/payment_providers/prismpay/logo.png?w=600&c=v0.59.26#w100) |[**Prismpay**](prismpay/)|`prismpay`| 
 |![prmoney](https://static.openfintech.io/payment_providers/prmoney/logo.png?w=600&c=v0.59.26#w100) |[**PrMoney**](prmoney/)|`prmoney`| 
 |![procard](https://static.openfintech.io/payment_providers/procard/logo.png?w=600&c=v0.59.26#w100) |[**Procard**](procard/)|`procard`| 
-|![procardpay](https://static.openfintech.io/payment_providers/procardpay/logo.svg?w=600&c=v0.59.26#w100) |[**Procard.Pay**](procardpay/)|`procardpay`| 
+|![procardpay](https://static.openfintech.io/payment_providers/procardpay/logo.png?w=600&c=v0.59.26#w100) |[**Procard.Pay**](procardpay/)|`procardpay`| 
 |![processingcom](https://static.openfintech.io/payment_providers/processingcom/logo.png?w=600&c=v0.59.26#w100) |[**Processing.com**](processingcom/)|`processingcom`| 
 |![processingpartners](https://static.openfintech.io/payment_providers/processingpartners/logo.png?w=600&c=v0.59.26#w100) |[**Processing Partners**](processingpartners/)|`processingpartners`| 
 |![projectonsolutionslimited](https://static.openfintech.io/payment_providers/projectonsolutionslimited/logo.svg?w=600&c=v0.59.26#w100) |[**Projecton Solutions Limited**](projectonsolutionslimited/)|`projectonsolutionslimited`| 

@@ -1,6 +1,6 @@
 
 # Procard.Pay 
-![procardpay](https://static.openfintech.io/payment_providers/procardpay/logo.svg?w=400&c=v0.59.26#w100)  
+![procardpay](https://static.openfintech.io/payment_providers/procardpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,10 +19,10 @@
 
 ### Logo 
  
-![procardpay](https://static.openfintech.io/payment_providers/procardpay/logo.svg?w=400&c=v0.59.26#w100)  
+![procardpay](https://static.openfintech.io/payment_providers/procardpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/procardpay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/procardpay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
