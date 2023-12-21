@@ -505,6 +505,7 @@
 |![netpay](https://static.openfintech.io/payment_providers/netpay/logo.png?w=600&c=v0.59.26#w100) |[**NetPay**](netpay/)|`netpay`| 
 |![netpayinternational2](https://static.openfintech.io/payment_providers/netpayinternational2/logo.png?w=600&c=v0.59.26#w100) |[**NetPay International**](netpayinternational2/)|`netpayinternational2`| 
 |![nets](https://static.openfintech.io/payment_providers/nets/logo.png?w=600&c=v0.59.26#w100) |[**Nets**](nets/)|`nets`| 
+|![networx](https://static.openfintech.io/payment_providers/networx/logo.png?w=600&c=v0.59.26#w100) |[**Networx**](networx/)|`networx`| 
 |![nextpay](https://static.openfintech.io/payment_providers/nextpay/logo.png?w=600&c=v0.59.26#w100) |[**NextPay**](nextpay/)|`nextpay`| 
 |![nganluong](https://static.openfintech.io/payment_providers/nganluong/logo.png?w=600&c=v0.59.26#w100) |[**Ngan Luong **](nganluong/)|`nganluong`| 
 |![nihaopay](https://static.openfintech.io/payment_providers/nihaopay/logo.png?w=600&c=v0.59.26#w100) |[**NihaoPay**](nihaopay/)|`nihaopay`| 

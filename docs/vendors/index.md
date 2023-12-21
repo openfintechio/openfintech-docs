@@ -1243,6 +1243,7 @@
 |![netpay](https://static.openfintech.io/vendors/netpay/logo.png?w=600&c=v0.59.26#w200) |[**NetPay**](netpay/)|`netpay`| 
 |![netpayinternational2](https://static.openfintech.io/vendors/netpayinternational2/logo.png?w=600&c=v0.59.26#w200) |[**NetPay International**](netpayinternational2/)|`netpayinternational2`| 
 |![nets](https://static.openfintech.io/vendors/nets/logo.png?w=600&c=v0.59.26#w200) |[**Nets**](nets/)|`nets`| 
+|![networx](https://static.openfintech.io/vendors/networx/logo.png?w=600&c=v0.59.26#w200) |[**Networx**](networx/)|`networx`| 
 |![nevabank](https://static.openfintech.io/vendors/nevabank/logo.svg?w=600&c=v0.59.26#w200) |[**НеваБанк**](nevabank/)|`nevabank`| 
 |![newline.online](https://static.openfintech.io/vendors/newline.online/logo.svg?w=600&c=v0.59.26#w200) |[**NewLine**](newline.online/)|`newline.online`| 
 |![nextpay](https://static.openfintech.io/vendors/nextpay/logo.png?w=600&c=v0.59.26#w200) |[**NextPay**](nextpay/)|`nextpay`| 
