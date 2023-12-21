@@ -124,7 +124,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![sisow](https://static.openfintech.io/payment_providers/sisow/icon.png?w=278&c=v0.59.26#w100) |[Sisow](/payment-providers/sisow/)|`sisow`| 
 |![omnipayment](https://static.openfintech.io/payment_providers/omnipayment/icon.png?w=278&c=v0.59.26#w100) |[OmniPayment](/payment-providers/omnipayment/)|`omnipayment`| 
 |![liqpay](https://static.openfintech.io/payment_providers/liqpay/icon.svg?w=278&c=v0.59.26#w100) |[LiqPay](/payment-providers/liqpay/)|`liqpay`| 
-|![4bill](https://static.openfintech.io/payment_providers/4bill/icon.svg?w=278&c=v0.59.26#w100) |[4bill](/payment-providers/4bill/)|`4bill`| 
+|![4bill](https://static.openfintech.io/payment_providers/4bill/icon.svg?w=278&c=v0.59.26#w100) |[SettlePay](/payment-providers/4bill/)|`4bill`| 
 |![securionpay](https://static.openfintech.io/payment_providers/securionpay/icon.svg?w=278&c=v0.59.26#w100) |[SecurionPay](/payment-providers/securionpay/)|`securionpay`| 
 |![merchantscout](https://static.openfintech.io/payment_providers/merchantscout/icon.png?w=278&c=v0.59.26#w100) |[MerchantScout](/payment-providers/merchantscout/)|`merchantscout`| 
 |![zotapay](https://static.openfintech.io/payment_providers/zotapay/icon.png?w=278&c=v0.59.26#w100) |[Zotapay](/payment-providers/zotapay/)|`zotapay`| 

@@ -1,5 +1,5 @@
 
-# 4bill 
+# SettlePay 
 ![4bill](https://static.openfintech.io/payment_providers/4bill/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,13 +10,13 @@
  
 **Name:** 
  
-:	[EN] 4bill 
-:	[RU] 4bill 
-:	[UK] 4bill 
+:	[EN] SettlePay 
+:	[RU] SettlePay 
+:	[UK] SettlePay 
  
 **Description:** 
  
-: [EN] 4Bill Payment Providers: If you want to receive payments from your clients without having to wait too long for the funds to arrive, you should check out 4bill payment providers. This article will explain how 4bill works and which providers are the best for you. It also includes some tips to make the most of 4bill. Hopefully, this information will be useful for you and your clients. Until next time, happy billing! And remember, your customers will thank you. 
+: [EN] Acquiring for your business from the leader of payment solutions on Ukrainian and the CIS markets - SettlePay. Direct access to the Ukrainian market (UAH), one of the lowest and the most flexible commissions rates, no limits, solutions for quick integration out of the box. Our product is already being used by market leaders: Binance, Kuna, etc. 
  
 
 ## Images 
@@ -69,7 +69,7 @@ The list of supported [Payout Methods](/payout-methods/)
 {
   "code":"4bill",
   "description":{
-    "en":"4Bill Payment Providers: If you want to receive payments from your clients without having to wait too long for the funds to arrive, you should check out 4bill payment providers. This article will explain how 4bill works and which providers are the best for you. It also includes some tips to make the most of 4bill. Hopefully, this information will be useful for you and your clients. Until next time, happy billing! And remember, your customers will thank you."
+    "en":"Acquiring for your business from the leader of payment solutions on Ukrainian and the CIS markets - SettlePay. Direct access to the Ukrainian market (UAH), one of the lowest and the most flexible commissions rates, no limits, solutions for quick integration out of the box. Our product is already being used by market leaders: Binance, Kuna, etc."
   },
   "vendor":"4bill",
   "categories":null,
@@ -90,9 +90,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"4bill",
-    "ru":"4bill",
-    "uk":"4bill"
+    "en":"SettlePay",
+    "ru":"SettlePay",
+    "uk":"SettlePay"
   }
 }
 ```  

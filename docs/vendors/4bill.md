@@ -1,5 +1,5 @@
 
-# 4bill 
+# SettlePay 
 ![4bill](https://static.openfintech.io/vendors/4bill/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,12 +8,12 @@
  
 **Name:** 
  
-:	[EN] 4bill 
+:	[EN] SettlePay 
  
 **Status:** `active` 
  
 **Links:** 
-: website [https://4bill.io/](https://4bill.io/) 
+: website [https://settlepay.net/](https://settlepay.net/) 
  
 
 ## Images 
@@ -40,12 +40,12 @@ https://static.openfintech.io/vendors/4bill/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"4bill",
   "name":{
-    "en":"4bill"
+    "en":"SettlePay"
   },
   "status":"active",
   "description":null,
   "links":{
-    "website":"https:\/\/4bill.io\/"
+    "website":"https:\/\/settlepay.net\/"
   },
   "countries":null,
   "contacts":null,

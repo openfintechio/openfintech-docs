@@ -17,7 +17,7 @@
 || **3** ||
 |![3gdirectpay](https://static.openfintech.io/payment_providers/3gdirectpay/logo.png?w=600&c=v0.59.26#w100) |[**3G Direct Pay**](3gdirectpay/)|`3gdirectpay`| 
 || **4** ||
-|![4bill](https://static.openfintech.io/payment_providers/4bill/logo.svg?w=600&c=v0.59.26#w100) |[**4bill**](4bill/)|`4bill`| 
+|![4bill](https://static.openfintech.io/payment_providers/4bill/logo.svg?w=600&c=v0.59.26#w100) |[**SettlePay**](4bill/)|`4bill`| 
 |![4cash](https://static.openfintech.io/payment_providers/4cash/logo.png?w=600&c=v0.59.26#w100) |[**4Cash**](4cash/)|`4cash`| 
 || **9** ||
 |![99bill](https://static.openfintech.io/payment_providers/99bill/logo.png?w=600&c=v0.59.26#w100) |[**99bill.com**](99bill/)|`99bill`| 

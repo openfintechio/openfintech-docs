@@ -26,11 +26,11 @@
 |:---:|:---:|:---:|:---:| 
 |`account_number`|✔|`string`|`/^[A-Z]{2}[A-ZА-Я\d\s\-\–\.\']{13,48}$\|^[\d]{3,48}$/`| 
 |`account_type`|✗|`string`|`/^[A-Za-z0-9]{1,10}$/`| 
-|`account_name`|✗|`string`|`/^[A-Za-zА-ЩЬЮЯҐЄІЇа-щьюяґєії0-9\s\.\,\-\(\)\ʼ]{2,100}$/`| 
-|`bank_branch`|✗|`string`|`/^[A-Za-zА-ЩЬЮЯҐЄІЇа-щьюяґєії0-9\s\.\,\-\(\)\ʼ]{2,100}$/`| 
+|`account_name`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
+|`bank_branch`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
-|`bank_name`|✗|`string`|`/^[A-Za-zА-ЩЬЮЯҐЄІЇа-щьюяґєії0-9\s\.\,\-\(\)\ʼ]{2,100}$/`| 
-|`bank_address`|✗|`string`|`/^[A-Za-zА-ЩЬЮЯҐЄІЇа-щьюяґєії0-9\s\.\,\-\(\)\ʼ]{2,100}$/`| 
+|`bank_name`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
+|`bank_address`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
 |`beneficiary_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\s]{2,100}$/`| 
 |`beneficiary_lastname`|✗|`string`|`/^[A-Za-zА-Яа-я\-\s]{2,100}$/`| 
 |`beneficiary_document_id`|✗|`string`|`/^[A-Z0-9]{3,20}$/`| 
@@ -38,12 +38,12 @@
 |`beneficiary_country_code_iso`|✗|`string`|`/^.{2,6}$/`| 
 |`beneficiary_city`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
 |`beneficiary_postcode`|✗|`string`|`/^[\w\-\s]{1,64}$/`| 
-|`beneficiary_state`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
-|`beneficiary_address`|✗|`string`|`/^[A-Za-zА-ЩЬЮЯҐЄІЇа-щьюяґєії0-9\s\.\,\-\(\)\ʼ]{2,100}$/`| 
+|`beneficiary_state`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
+|`beneficiary_address`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
 |`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
 |`sender_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
 |`beneficiary_itn`|✗|`string`|`/^\d{10}$/`| 
-|`payment_purpose`|✗|`string`|`/^[A-Za-zА-ЩЬЮЯҐЄІЇа-щьюяґєії0-9\s\.\,\-\(\)\ʼ]{2,100}$/`| 
+|`payment_purpose`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
  
 
 ### Details 
@@ -88,7 +88,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-zА-ЩЬЮЯҐЄІЇа-щьюяґєії0-9\s\.\,\-\(\)\ʼ]{2,100}$/` 
+	Regexp: `/^[\s\p{L}\p{N}\p{P}]{2,100}$/u` 
  
 	Required: `` 
  
@@ -106,7 +106,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-zА-ЩЬЮЯҐЄІЇа-щьюяґєії0-9\s\.\,\-\(\)\ʼ]{2,100}$/` 
+	Regexp: `/^[\s\p{L}\p{N}\p{P}]{2,100}$/u` 
  
 	Required: `` 
  
@@ -142,7 +142,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-zА-ЩЬЮЯҐЄІЇа-щьюяґєії0-9\s\.\,\-\(\)\ʼ]{2,100}$/` 
+	Regexp: `/^[\s\p{L}\p{N}\p{P}]{2,100}$/u` 
  
 	Required: `` 
  
@@ -160,7 +160,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-zА-ЩЬЮЯҐЄІЇа-щьюяґєії0-9\s\.\,\-\(\)\ʼ]{2,100}$/` 
+	Regexp: `/^[\s\p{L}\p{N}\p{P}]{2,100}$/u` 
  
 	Required: `` 
  
@@ -304,7 +304,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/` 
+	Regexp: `/^[\s\p{L}\p{N}\p{P}]{2,100}$/u` 
  
 	Required: `` 
  
@@ -322,7 +322,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-zА-ЩЬЮЯҐЄІЇа-щьюяґєії0-9\s\.\,\-\(\)\ʼ]{2,100}$/` 
+	Regexp: `/^[\s\p{L}\p{N}\p{P}]{2,100}$/u` 
  
 	Required: `` 
  
@@ -394,7 +394,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-zА-ЩЬЮЯҐЄІЇа-щьюяґєії0-9\s\.\,\-\(\)\ʼ]{2,100}$/` 
+	Regexp: `/^[\s\p{L}\p{N}\p{P}]{2,100}$/u` 
  
 	Required: `` 
  
@@ -455,7 +455,7 @@
     {
       "key":"account_name",
       "type":"string",
-      "regexp":"\/^[A-Za-z\u0410-\u0429\u042c\u042e\u042f\u0490\u0404\u0406\u0407\u0430-\u0449\u044c\u044e\u044f\u0491\u0454\u0456\u04570-9\\s\\.\\,\\-\\(\\)\\\u02bc]{2,100}$\/",
+      "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}]{2,100}$\/u",
       "required":false,
       "position":3,
       "label":{
@@ -472,7 +472,7 @@
     {
       "key":"bank_branch",
       "type":"string",
-      "regexp":"\/^[A-Za-z\u0410-\u0429\u042c\u042e\u042f\u0490\u0404\u0406\u0407\u0430-\u0449\u044c\u044e\u044f\u0491\u0454\u0456\u04570-9\\s\\.\\,\\-\\(\\)\\\u02bc]{2,100}$\/",
+      "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}]{2,100}$\/u",
       "required":false,
       "position":4,
       "label":{
@@ -506,7 +506,7 @@
     {
       "key":"bank_name",
       "type":"string",
-      "regexp":"\/^[A-Za-z\u0410-\u0429\u042c\u042e\u042f\u0490\u0404\u0406\u0407\u0430-\u0449\u044c\u044e\u044f\u0491\u0454\u0456\u04570-9\\s\\.\\,\\-\\(\\)\\\u02bc]{2,100}$\/",
+      "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}]{2,100}$\/u",
       "required":false,
       "position":6,
       "label":{
@@ -523,7 +523,7 @@
     {
       "key":"bank_address",
       "type":"string",
-      "regexp":"\/^[A-Za-z\u0410-\u0429\u042c\u042e\u042f\u0490\u0404\u0406\u0407\u0430-\u0449\u044c\u044e\u044f\u0491\u0454\u0456\u04570-9\\s\\.\\,\\-\\(\\)\\\u02bc]{2,100}$\/",
+      "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}]{2,100}$\/u",
       "required":false,
       "position":7,
       "label":{
@@ -659,7 +659,7 @@
     {
       "key":"beneficiary_state",
       "type":"string",
-      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f,\\s\\-\\d]{2,64}$\/",
+      "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}]{2,100}$\/u",
       "required":false,
       "position":15,
       "label":{
@@ -676,7 +676,7 @@
     {
       "key":"beneficiary_address",
       "type":"string",
-      "regexp":"\/^[A-Za-z\u0410-\u0429\u042c\u042e\u042f\u0490\u0404\u0406\u0407\u0430-\u0449\u044c\u044e\u044f\u0491\u0454\u0456\u04570-9\\s\\.\\,\\-\\(\\)\\\u02bc]{2,100}$\/",
+      "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}]{2,100}$\/u",
       "required":false,
       "position":16,
       "label":{
@@ -749,7 +749,7 @@
         "ru":"\u041d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043f\u043b\u0430\u0442\u0435\u0436\u0430",
         "uk":"\u041f\u0440\u0438\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0443"
       },
-      "regexp":"\/^[A-Za-z\u0410-\u0429\u042c\u042e\u042f\u0490\u0404\u0406\u0407\u0430-\u0449\u044c\u044e\u044f\u0491\u0454\u0456\u04570-9\\s\\.\\,\\-\\(\\)\\\u02bc]{2,100}$\/",
+      "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}]{2,100}$\/u",
       "required":false,
       "position":20,
       "hint":{

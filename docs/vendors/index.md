@@ -25,7 +25,7 @@
 |![365cash.co](https://static.openfintech.io/vendors/365cash.co/logo.svg?w=600&c=v0.59.26#w200) |[**365Cash**](365cash.co/)|`365cash.co`| 
 |![3gdirectpay](https://static.openfintech.io/vendors/3gdirectpay/logo.png?w=600&c=v0.59.26#w200) |[**3G Direct Pay**](3gdirectpay/)|`3gdirectpay`| 
 || **4** ||
-|![4bill](https://static.openfintech.io/vendors/4bill/logo.svg?w=600&c=v0.59.26#w200) |[**4bill**](4bill/)|`4bill`| 
+|![4bill](https://static.openfintech.io/vendors/4bill/logo.svg?w=600&c=v0.59.26#w200) |[**SettlePay**](4bill/)|`4bill`| 
 |![4cash](https://static.openfintech.io/vendors/4cash/logo.png?w=600&c=v0.59.26#w200) |[**4Cash**](4cash/)|`4cash`| 
 |![4exchange.cash](https://static.openfintech.io/vendors/4exchange.cash/logo.svg?w=600&c=v0.59.26#w200) |[**4exchange.cash**](4exchange.cash/)|`4exchange.cash`| 
 || **5** ||
