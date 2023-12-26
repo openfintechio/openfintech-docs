@@ -44,6 +44,7 @@
 |`sender_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
 |`document_type`|✗|`string`|`/^[0-9]{1,3}$/`| 
 |`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
+|`payment_purpose`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
  
 
 ### Details 
@@ -408,6 +409,24 @@
 	: [RU] Введите Email 
 	: [UK] Введіть Email 
  
+21. **`payment_purpose`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[\s\p{L}\p{N}\p{P}]{2,100}$/u` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Purpose of payment 
+	: [RU] Назначение платежа 
+	: [UK] Призначення платежу 
+ 
+	Hint:  
+	: [EN] Enter purpose of payment 
+	: [RU] Введите назначение платежа 
+	: [UK] Введіть призначення рахунку 
+ 
 
 ## JSON Object 
 
@@ -758,6 +777,24 @@
       "regexp":"\/^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,4})$\/",
       "required":false,
       "position":20
+    },
+    {
+      "key":"payment_purpose",
+      "type":"string",
+      "label":{
+        "en":"Purpose of payment",
+        "ru":"\u041d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043f\u043b\u0430\u0442\u0435\u0436\u0430",
+        "uk":"\u041f\u0440\u0438\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0443"
+      },
+      "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}]{2,100}$\/u",
+      "required":false,
+      "position":21,
+      "hint":{
+        "en":"Enter purpose of payment",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043f\u043b\u0430\u0442\u0435\u0436\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u0440\u0438\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "example":"Payment of utility services"
     }
   ],
   "amount_min":"0.01",
