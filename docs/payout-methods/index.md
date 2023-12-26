@@ -1010,6 +1010,7 @@
 |![ktb_bank](https://static.openfintech.io/payout_methods/ktb_bank/logo.svg?w=400&c=v0.59.26#w24) |[**KTB Investment Securities**](ktb_bank/)|`ktb_bank`| 
 |![kuda_mfb](https://static.openfintech.io/payout_methods/kuda_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Kuda MFB**](kuda_mfb/)|`kuda_mfb`| 
 |![kumamoto_bank](https://static.openfintech.io/payout_methods/kumamoto_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Kumamoto Bank**](kumamoto_bank/)|`kumamoto_bank`| 
+|![kunapay_crypto](https://static.openfintech.io/payout_methods/kunapay_crypto/logo.svg?w=400&c=v0.59.26#w24) |[**KunaPay Crypto**](kunapay_crypto/)|`kunapay_crypto`| 
 |![kupianskii-rem-ak-kharkivoblenergo](https://static.openfintech.io/payout_methods/kupianskii-rem-ak-kharkivoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Kupyansky RES AK 'Kharkivoblenergo'**](kupianskii-rem-ak-kharkivoblenergo/)|`kupianskii-rem-ak-kharkivoblenergo`| 
 |![kupianskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018](https://static.openfintech.io/payout_methods/kupianskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Купянський РЕМ АК "Харківобленерго" (за послуги до 31.12.2018)**](kupianskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|`kupianskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018`| 
 |![kuveyt_turk_katilim_bank](https://static.openfintech.io/payout_methods/kuveyt_turk_katilim_bank/logo.png?w=400&c=v0.59.26#w24) |[**Kuveyt Türk Participation Bank**](kuveyt_turk_katilim_bank/)|`kuveyt_turk_katilim_bank`| 

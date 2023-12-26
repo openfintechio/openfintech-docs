@@ -1083,6 +1083,7 @@
 |![kumamoto_bank](https://static.openfintech.io/vendors/kumamoto_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Kumamoto Bank**](kumamoto_bank/)|`kumamoto_bank`| 
 |![kuna](https://static.openfintech.io/vendors/kuna/logo.svg?w=600&c=v0.59.26#w200) |[**Kuna**](kuna/)|`kuna`| 
 |![kunapay](https://static.openfintech.io/vendors/kunapay/logo.svg?w=600&c=v0.59.26#w200) |[**Kuna Pay**](kunapay/)|`kunapay`| 
+|![kunapaycrypto](https://static.openfintech.io/vendors/kunapaycrypto/logo.svg?w=600&c=v0.59.26#w200) |[**KunaPay Crypto**](kunapaycrypto/)|`kunapaycrypto`| 
 |![kvitum](https://static.openfintech.io/vendors/kvitum/logo.svg?w=600&c=v0.59.26#w200) |[**Kvitum**](kvitum/)|`kvitum`| 
 |![kwangju_bank](https://static.openfintech.io/vendors/kwangju_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Kwangju Bank**](kwangju_bank/)|`kwangju_bank`| 
 |![kwixo](https://static.openfintech.io/vendors/kwixo/logo.png?w=600&c=v0.59.26#w200) |[**Kwixo**](kwixo/)|`kwixo`| 
@@ -1480,6 +1481,7 @@
 |![patkomercijnij_bankdaniel](https://static.openfintech.io/vendors/patkomercijnij_bankdaniel/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'КОМЕРЦІЙНИЙ БАНК 'ДАНІЕЛЬ'**](patkomercijnij_bankdaniel/)|`patkomercijnij_bankdaniel`| 
 |![patperehidn_bankrvs_bank](https://static.openfintech.io/vendors/patperehidn_bankrvs_bank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'ПЕРЕХІДНИЙ БАНК 'РВС БАНК'**](patperehidn_bankrvs_bank/)|`patperehidn_bankrvs_bank`| 
 |![patseb_korporativnij_bank](https://static.openfintech.io/vendors/patseb_korporativnij_bank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'СЕБ КОРПОРАТИВНИЙ БАНК'**](patseb_korporativnij_bank/)|`patseb_korporativnij_bank`| 
+|![pavpay](https://static.openfintech.io/vendors/pavpay/logo.svg?w=600&c=v0.59.26#w200) |[**PavPay**](pavpay/)|`pavpay`| 
 |![paxum](https://static.openfintech.io/vendors/paxum/logo.png?w=600&c=v0.59.26#w200) |[**Paxum**](paxum/)|`paxum`| 
 |![pay2kassa](https://static.openfintech.io/vendors/pay2kassa/logo.svg?w=600&c=v0.59.26#w200) |[**Pay2Kassa**](pay2kassa/)|`pay2kassa`| 
 |![pay2play](https://static.openfintech.io/vendors/pay2play/logo.svg?w=600&c=v0.59.26#w200) |[**pay2play**](pay2play/)|`pay2play`| 
