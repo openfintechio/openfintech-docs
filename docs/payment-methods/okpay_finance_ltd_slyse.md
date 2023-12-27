@@ -36,7 +36,7 @@ The list of [Payment Services](/payment-services/) based on the _OKPAY FINANCE L
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![okpay_finance_ltd_slyse](https://static.openfintech.io/payment_methods/okpay_finance_ltd_slyse/icon.png?w=278&c=v0.59.26#w100) |[okpay_finance_ltd_slyse_usd_hpp](/payment-services/okpay_finance_ltd_slyse_usd_hpp/)|`okpay_finance_ltd_slyse_usd_hpp`| 
+|![okpay_finance_ltd_slyse](https://static.openfintech.io/payment_methods/okpay_finance_ltd_slyse/icon.png?w=278&c=v0.59.26#w100) |[okpay_finance_ltd_slyse_eur_hpp](/payment-services/okpay_finance_ltd_slyse_eur_hpp/)|`okpay_finance_ltd_slyse_eur_hpp`| 
  
 
 ## Payment Providers 
