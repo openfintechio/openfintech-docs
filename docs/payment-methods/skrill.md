@@ -52,6 +52,9 @@ The list of [Payment Services](/payment-services/) based on the _Skrill Wallet_
 |![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill_lkr_hpp](/payment-services/skrill_lkr_hpp/)|`skrill_lkr_hpp`| 
 |![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill_mdl_hpp](/payment-services/skrill_mdl_hpp/)|`skrill_mdl_hpp`| 
 |![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill_mxn_hpp](/payment-services/skrill_mxn_hpp/)|`skrill_mxn_hpp`| 
+|![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill_aed_hpp](/payment-services/skrill_aed_hpp/)|`skrill_aed_hpp`| 
+|![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill_aud_hpp](/payment-services/skrill_aud_hpp/)|`skrill_aud_hpp`| 
+|![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill_nzd_hpp](/payment-services/skrill_nzd_hpp/)|`skrill_nzd_hpp`| 
  
 
 ## Payment Providers 
@@ -66,6 +69,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Skrill Wa
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.png?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
 |![yuupay](https://static.openfintech.io/payment_providers/yuupay/icon.png?w=278&c=v0.59.26#w100) |[YuuPay ](/payment-providers/yuupay/)|`yuupay`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
+|![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
  
 
 ## JSON Object 

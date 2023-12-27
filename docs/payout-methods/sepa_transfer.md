@@ -50,6 +50,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Sepa Tran
 |![cashbulls](https://static.openfintech.io/payment_providers/cashbulls/icon.png?w=278&c=v0.59.26#w100) |[Cash Bulls](/payment-providers/cashbulls/)|`cashbulls`| 
 |![noda](https://static.openfintech.io/payment_providers/noda/icon.svg?w=278&c=v0.59.26#w100) |[Noda](/payment-providers/noda/)|`noda`| 
 |![katarun](https://static.openfintech.io/payment_providers/katarun/icon.png?w=278&c=v0.59.26#w100) |[Katarun](/payment-providers/katarun/)|`katarun`| 
+|![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
  
 
 ## JSON Object 

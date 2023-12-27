@@ -51,6 +51,10 @@ The list of [Payment Services](/payment-services/) based on the _NETELLER_
 |![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_myr_hpp](/payment-services/neteller_myr_hpp/)|`neteller_myr_hpp`| 
 |![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_mxn_hpp](/payment-services/neteller_mxn_hpp/)|`neteller_mxn_hpp`| 
 |![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_mdl_hpp](/payment-services/neteller_mdl_hpp/)|`neteller_mdl_hpp`| 
+|![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_pln_hpp](/payment-services/neteller_pln_hpp/)|`neteller_pln_hpp`| 
+|![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_aed_hpp](/payment-services/neteller_aed_hpp/)|`neteller_aed_hpp`| 
+|![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_aud_hpp](/payment-services/neteller_aud_hpp/)|`neteller_aud_hpp`| 
+|![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_nzd_hpp](/payment-services/neteller_nzd_hpp/)|`neteller_nzd_hpp`| 
  
 
 ## Payment Providers 
@@ -67,6 +71,7 @@ The list of [Payment Providers](/payment-providers/) that support the _NETELLER_
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.png?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
 |![yuupay](https://static.openfintech.io/payment_providers/yuupay/icon.png?w=278&c=v0.59.26#w100) |[YuuPay ](/payment-providers/yuupay/)|`yuupay`| 
 |![paysafe](https://static.openfintech.io/payment_providers/paysafe/icon.svg?w=278&c=v0.59.26#w100) |[Paysafe](/payment-providers/paysafe/)|`paysafe`| 
+|![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
  
 
 ## JSON Object 

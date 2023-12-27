@@ -65,6 +65,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Google Pa
 |![tome](https://static.openfintech.io/payment_providers/tome/icon.svg?w=278&c=v0.59.26#w100) |[Tome](/payment-providers/tome/)|`tome`| 
 |![paysoftsolutions](https://static.openfintech.io/payment_providers/paysoftsolutions/icon.png?w=278&c=v0.59.26#w100) |[PaySoft Solutions](/payment-providers/paysoftsolutions/)|`paysoftsolutions`| 
 |![10pay](https://static.openfintech.io/payment_providers/10pay/icon.svg?w=278&c=v0.59.26#w100) |[10Pay](/payment-providers/10pay/)|`10pay`| 
+|![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
  
 
 ## JSON Object 
