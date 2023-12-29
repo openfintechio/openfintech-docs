@@ -30,16 +30,13 @@ https://static.openfintech.io/payment_methods/akbank/logo.svg?w=400&c=v0.59.26#w
 https://static.openfintech.io/payment_methods/akbank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _Akbank_ 
+The list of [Payment Services](/payment-services/) based on the _Akbank_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![akbank](https://static.openfintech.io/payout_methods/akbank/icon.png?w=278&c=v0.59.26#w40) |[akbank_try](/payout-services/akbank_try/)|`akbank_try`| 
-|![akbank](https://static.openfintech.io/payout_methods/akbank/icon.png?w=278&c=v0.59.26#w40) |[akbank_eur](/payout-services/akbank_eur/)|`akbank_eur`| 
-|![akbank](https://static.openfintech.io/payout_methods/akbank/icon.png?w=278&c=v0.59.26#w40) |[akbank_nok](/payout-services/akbank_nok/)|`akbank_nok`| 
-|![akbank](https://static.openfintech.io/payout_methods/akbank/icon.png?w=278&c=v0.59.26#w40) |[akbank_dkk](/payout-services/akbank_dkk/)|`akbank_dkk`| 
+|![akbank](https://static.openfintech.io/payment_methods/akbank/icon.png?w=278&c=v0.59.26#w100) |[akbank_try_invoice](/payment-services/akbank_try_invoice/)|`akbank_try_invoice`| 
  
 
 ## Payment Providers 

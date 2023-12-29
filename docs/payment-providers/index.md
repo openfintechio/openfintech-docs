@@ -584,6 +584,7 @@
 |![payfast](https://static.openfintech.io/payment_providers/payfast/logo.png?w=600&c=v0.59.26#w100) |[**PayFast**](payfast/)|`payfast`| 
 |![payforia](https://static.openfintech.io/payment_providers/payforia/logo.svg?w=600&c=v0.59.26#w100) |[**Payforia**](payforia/)|`payforia`| 
 |![payfort](https://static.openfintech.io/payment_providers/payfort/logo.png?w=600&c=v0.59.26#w100) |[**PayFort**](payfort/)|`payfort`| 
+|![payforu](https://static.openfintech.io/payment_providers/payforu/logo.png?w=600&c=v0.59.26#w100) |[**PayForU**](payforu/)|`payforu`| 
 |![payfuture](https://static.openfintech.io/payment_providers/payfuture/logo.svg?w=600&c=v0.59.26#w100) |[**Payfuture**](payfuture/)|`payfuture`| 
 |![paygames](https://static.openfintech.io/payment_providers/paygames/logo.png?w=600&c=v0.59.26#w100) |[**PayGames**](paygames/)|`paygames`| 
 |![paygarden](https://static.openfintech.io/payment_providers/paygarden/logo.png?w=600&c=v0.59.26#w100) |[**PayGarden**](paygarden/)|`paygarden`| 

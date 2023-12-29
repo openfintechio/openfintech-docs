@@ -30,16 +30,13 @@ https://static.openfintech.io/payment_methods/qnb_finansbank/logo.svg?w=400&c=v0
 https://static.openfintech.io/payment_methods/qnb_finansbank/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _QNB Finansbank_ 
+The list of [Payment Services](/payment-services/) based on the _QNB Finansbank_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![qnb_finansbank](https://static.openfintech.io/payout_methods/qnb_finansbank/icon.png?w=278&c=v0.59.26#w40) |[qnb_finansbank_try](/payout-services/qnb_finansbank_try/)|`qnb_finansbank_try`| 
-|![qnb_finansbank](https://static.openfintech.io/payout_methods/qnb_finansbank/icon.png?w=278&c=v0.59.26#w40) |[qnb_finansbank_eur](/payout-services/qnb_finansbank_eur/)|`qnb_finansbank_eur`| 
-|![qnb_finansbank](https://static.openfintech.io/payout_methods/qnb_finansbank/icon.png?w=278&c=v0.59.26#w40) |[qnb_finansbank_nok](/payout-services/qnb_finansbank_nok/)|`qnb_finansbank_nok`| 
-|![qnb_finansbank](https://static.openfintech.io/payout_methods/qnb_finansbank/icon.png?w=278&c=v0.59.26#w40) |[qnb_finansbank_dkk](/payout-services/qnb_finansbank_dkk/)|`qnb_finansbank_dkk`| 
+|![qnb_finansbank](https://static.openfintech.io/payment_methods/qnb_finansbank/icon.svg?w=278&c=v0.59.26#w100) |[qnb_finansbank_try_invoice](/payment-services/qnb_finansbank_try_invoice/)|`qnb_finansbank_try_invoice`| 
  
 
 ## Payment Providers 

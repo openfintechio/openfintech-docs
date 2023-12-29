@@ -45,6 +45,7 @@ The list of [Payment Services](/payment-services/) based on the _SBP_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![sbp](https://static.openfintech.io/payment_methods/sbp/icon.svg?w=278&c=v0.59.26#w100) |[sbp_rub_hpp](/payment-services/sbp_rub_hpp/)|`sbp_rub_hpp`| 
+|![sbp](https://static.openfintech.io/payment_methods/sbp/icon.svg?w=278&c=v0.59.26#w100) |[sbp_rub_invoice](/payment-services/sbp_rub_invoice/)|`sbp_rub_invoice`| 
  
 
 ## Payment Providers 
@@ -60,6 +61,7 @@ The list of [Payment Providers](/payment-providers/) that support the _SBP_
 |![antrpay](https://static.openfintech.io/payment_providers/antrpay/icon.png?w=278&c=v0.59.26#w100) |[Antrpay](/payment-providers/antrpay/)|`antrpay`| 
 |![paymecrypto](https://static.openfintech.io/payment_providers/paymecrypto/icon.svg?w=278&c=v0.59.26#w100) |[PaymeCrypto](/payment-providers/paymecrypto/)|`paymecrypto`| 
 |![freepayment](https://static.openfintech.io/payment_providers/freepayment/icon.png?w=278&c=v0.59.26#w100) |[FreePayment](/payment-providers/freepayment/)|`freepayment`| 
+|![payforu](https://static.openfintech.io/payment_providers/payforu/icon.png?w=278&c=v0.59.26#w100) |[PayForU](/payment-providers/payforu/)|`payforu`| 
  
 
 ## JSON Object 

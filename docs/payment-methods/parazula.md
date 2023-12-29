@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Parazula_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![parazula](https://static.openfintech.io/payment_methods/parazula/icon.png?w=278&c=v0.59.26#w100) |[parazula_try_hpp](/payment-services/parazula_try_hpp/)|`parazula_try_hpp`| 
+|![parazula](https://static.openfintech.io/payment_methods/parazula/icon.png?w=278&c=v0.59.26#w100) |[parazula_try_invoice](/payment-services/parazula_try_invoice/)|`parazula_try_invoice`| 
  
 
 ## Payment Providers 
@@ -46,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Parazula_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![vevopay](https://static.openfintech.io/payment_providers/vevopay/icon.png?w=278&c=v0.59.26#w100) |[VevoPay](/payment-providers/vevopay/)|`vevopay`| 
+|![elitepay](https://static.openfintech.io/payment_providers/elitepay/icon.svg?w=278&c=v0.59.26#w100) |[Elitepay](/payment-providers/elitepay/)|`elitepay`| 
  
 
 ## JSON Object 

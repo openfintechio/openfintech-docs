@@ -33,6 +33,20 @@ https://static.openfintech.io/payment_providers/elitepay/logo.svg?w=400&c=v0.59.
 https://static.openfintech.io/payment_providers/elitepay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Methods 
+ 
+The list of supported [Payment Methods](/payment-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![akbank](https://static.openfintech.io/payment_methods/akbank/icon.png?w=278&c=v0.59.26#w100) |[akbank](/payment-methods/akbank/)|`akbank`| 
+|![citibank_turkey](https://static.openfintech.io/payment_methods/citibank_turkey/icon.svg?w=278&c=v0.59.26#w100) |[citibank_turkey](/payment-methods/citibank_turkey/)|`citibank_turkey`| 
+|![qnb_finansbank](https://static.openfintech.io/payment_methods/qnb_finansbank/icon.svg?w=278&c=v0.59.26#w100) |[qnb_finansbank](/payment-methods/qnb_finansbank/)|`qnb_finansbank`| 
+|![papara](https://static.openfintech.io/payment_methods/papara/icon.svg?w=278&c=v0.59.26#w100) |[papara](/payment-methods/papara/)|`papara`| 
+|![payfix](https://static.openfintech.io/payment_methods/payfix/icon.png?w=278&c=v0.59.26#w100) |[payfix](/payment-methods/payfix/)|`payfix`| 
+|![parazula](https://static.openfintech.io/payment_methods/parazula/icon.png?w=278&c=v0.59.26#w100) |[parazula](/payment-methods/parazula/)|`parazula`| 
+ 
+
 ## Payout Methods 
  
 The list of supported [Payout Methods](/payout-methods/) 
@@ -65,7 +79,14 @@ The list of supported [Payout Methods](/payout-methods/)
   "vendor":"elitepay",
   "categories":null,
   "countries":null,
-  "payment_method":null,
+  "payment_method":[
+    "akbank",
+    "citibank_turkey",
+    "qnb_finansbank",
+    "papara",
+    "payfix",
+    "parazula"
+  ],
   "payout_method":[
     "deniz_bank",
     "qnb_finansbank",

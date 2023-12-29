@@ -26,6 +26,7 @@
 |![agricultural_bank_of_china](https://static.openfintech.io/payment_methods/agricultural_bank_of_china/logo.svg?w=400&c=v0.59.26#w200) |[**Agricultural Bank of China**](agricultural_bank_of_china/)|`agricultural_bank_of_china`| 
 |![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/logo.png?w=400&c=v0.59.26#w200) |[**Airtel money**](airtel_money/)|`airtel_money`| 
 |![airteltigo](https://static.openfintech.io/payment_methods/airteltigo/logo.png?w=400&c=v0.59.26#w200) |[**AT Ghana**](airteltigo/)|`airteltigo`| 
+|![akbank](https://static.openfintech.io/payment_methods/akbank/logo.svg?w=400&c=v0.59.26#w200) |[**Akbank**](akbank/)|`akbank`| 
 |![aktia](https://static.openfintech.io/payment_methods/aktia/logo.png?w=400&c=v0.59.26#w200) |[**Aktia**](aktia/)|`aktia`| 
 |![aktivbank](https://static.openfintech.io/payment_methods/aktivbank/logo.png?w=400&c=v0.59.26#w200) |[**Aktivbank**](aktivbank/)|`aktivbank`| 
 |![alandsbanken](https://static.openfintech.io/payment_methods/alandsbanken/logo.png?w=400&c=v0.59.26#w200) |[**Älandsbanken**](alandsbanken/)|`alandsbanken`| 
@@ -204,6 +205,7 @@
 |![citadelelatvia](https://static.openfintech.io/payment_methods/citadelelatvia/logo.png?w=400&c=v0.59.26#w200) |[**Citadele Latvia**](citadelelatvia/)|`citadelelatvia`| 
 |![citi_bank](https://static.openfintech.io/payment_methods/citi_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Citibank**](citi_bank/)|`citi_bank`| 
 |![citibank_korea](https://static.openfintech.io/payment_methods/citibank_korea/logo.svg?w=400&c=v0.59.26#w200) |[**Citibank Korea**](citibank_korea/)|`citibank_korea`| 
+|![citibank_turkey](https://static.openfintech.io/payment_methods/citibank_turkey/logo.svg?w=400&c=v0.59.26#w200) |[**Citibank Turkey**](citibank_turkey/)|`citibank_turkey`| 
 |![city_union_bank](https://static.openfintech.io/payment_methods/city_union_bank/logo.svg?w=400&c=v0.59.26#w200) |[**City Union Bank**](city_union_bank/)|`city_union_bank`| 
 |![clickandbuy](https://static.openfintech.io/payment_methods/clickandbuy/logo.png?w=400&c=v0.59.26#w200) |[**ClickandBuy**](clickandbuy/)|`clickandbuy`| 
 |![cmt](https://static.openfintech.io/payment_methods/cmt/logo.svg?w=400&c=v0.59.26#w200) |[**CMT**](cmt/)|`cmt`| 
@@ -593,6 +595,7 @@
 || **Q** ||
 |![qazkombank](https://static.openfintech.io/payment_methods/qazkombank/logo.png?w=400&c=v0.59.26#w200) |[**Qazkom Bank**](qazkombank/)|`qazkombank`| 
 |![qiwi](https://static.openfintech.io/payment_methods/qiwi/logo.svg?w=400&c=v0.59.26#w200) |[**VISA QIWI Wallet**](qiwi/)|`qiwi`| 
+|![qnb_finansbank](https://static.openfintech.io/payment_methods/qnb_finansbank/logo.svg?w=400&c=v0.59.26#w200) |[**QNB Finansbank**](qnb_finansbank/)|`qnb_finansbank`| 
 |![qqpay](https://static.openfintech.io/payment_methods/qqpay/logo.svg?w=400&c=v0.59.26#w200) |[**QQPay**](qqpay/)|`qqpay`| 
 || **R** ||
 |![rabobank](https://static.openfintech.io/payment_methods/rabobank/logo.png?w=400&c=v0.59.26#w200) |[**Rabobank**](rabobank/)|`rabobank`| 
