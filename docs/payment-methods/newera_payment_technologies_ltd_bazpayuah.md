@@ -39,6 +39,15 @@ The list of [Payment Services](/payment-services/) based on the _NEWERA PAYMENT 
 |![newera_payment_technologies_ltd_bazpayuah](https://static.openfintech.io/payment_methods/newera_payment_technologies_ltd_bazpayuah/icon.svg?w=278&c=v0.59.26#w100) |[newera_payment_technologies_ltd_bazpayuah_uah_hpp](/payment-services/newera_payment_technologies_ltd_bazpayuah_uah_hpp/)|`newera_payment_technologies_ltd_bazpayuah_uah_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _NEWERA PAYMENT TECHNOLOGIES LTD - BazpayUAH_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
+ 
+
 ## JSON Object 
 
 ```json

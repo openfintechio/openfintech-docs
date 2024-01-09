@@ -54,6 +54,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer](/payment-methods/sepa_transfer/)|`sepa_transfer`| 
 |![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill](/payment-methods/skrill/)|`skrill`| 
 |![okpay_finance_ltd_slyse](https://static.openfintech.io/payment_methods/okpay_finance_ltd_slyse/icon.png?w=278&c=v0.59.26#w100) |[okpay_finance_ltd_slyse](/payment-methods/okpay_finance_ltd_slyse/)|`okpay_finance_ltd_slyse`| 
+|![newera_payment_technologies_ltd_bazpayuah](https://static.openfintech.io/payment_methods/newera_payment_technologies_ltd_bazpayuah/icon.svg?w=278&c=v0.59.26#w100) |[newera_payment_technologies_ltd_bazpayuah](/payment-methods/newera_payment_technologies_ltd_bazpayuah/)|`newera_payment_technologies_ltd_bazpayuah`| 
  
 
 ## JSON Object 
@@ -80,7 +81,8 @@ The list of supported [Payment Methods](/payment-methods/)
     "raggett_limited_paycos",
     "sepa_transfer",
     "skrill",
-    "okpay_finance_ltd_slyse"
+    "okpay_finance_ltd_slyse",
+    "newera_payment_technologies_ltd_bazpayuah"
   ],
   "payout_method":null,
   "metadata":null,
