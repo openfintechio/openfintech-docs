@@ -45,7 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Citibank 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![elitepay](https://static.openfintech.io/payment_providers/elitepay/icon.svg?w=278&c=v0.59.26#w100) |[Elitepay](/payment-providers/elitepay/)|`elitepay`| 
+|![elitepay](https://static.openfintech.io/payment_providers/elitepay/icon.png?w=278&c=v0.59.26#w100) |[Elitepay](/payment-providers/elitepay/)|`elitepay`| 
  
 
 ## JSON Object 

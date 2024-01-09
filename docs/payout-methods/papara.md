@@ -49,7 +49,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Papara_
 |![maxpayment](https://static.openfintech.io/payment_providers/maxpayment/icon.svg?w=278&c=v0.59.26#w100) |[Maxpayment](/payment-providers/maxpayment/)|`maxpayment`| 
 |![vevopay](https://static.openfintech.io/payment_providers/vevopay/icon.png?w=278&c=v0.59.26#w100) |[VevoPay](/payment-providers/vevopay/)|`vevopay`| 
 |![maldopay](https://static.openfintech.io/payment_providers/maldopay/icon.png?w=278&c=v0.59.26#w100) |[MaldoPay](/payment-providers/maldopay/)|`maldopay`| 
-|![elitepay](https://static.openfintech.io/payment_providers/elitepay/icon.svg?w=278&c=v0.59.26#w100) |[Elitepay](/payment-providers/elitepay/)|`elitepay`| 
+|![elitepay](https://static.openfintech.io/payment_providers/elitepay/icon.png?w=278&c=v0.59.26#w100) |[Elitepay](/payment-providers/elitepay/)|`elitepay`| 
  
 
 ## JSON Object 

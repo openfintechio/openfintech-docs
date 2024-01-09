@@ -477,6 +477,7 @@
 |![net_banking](https://static.openfintech.io/payment_methods/net_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Pay with bank**](net_banking/)|`net_banking`| 
 |![neteller](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](neteller/)|`neteller`| 
 |![newera_payment_technologies_ltd_bazpay](https://static.openfintech.io/payment_methods/newera_payment_technologies_ltd_bazpay/logo.svg?w=400&c=v0.59.26#w200) |[**NEWERA PAYMENT TECHNOLOGIES LTD - Bazpay**](newera_payment_technologies_ltd_bazpay/)|`newera_payment_technologies_ltd_bazpay`| 
+|![newera_payment_technologies_ltd_bazpayuah](https://static.openfintech.io/payment_methods/newera_payment_technologies_ltd_bazpayuah/logo.svg?w=400&c=v0.59.26#w200) |[**NEWERA PAYMENT TECHNOLOGIES LTD - BazpayUAH**](newera_payment_technologies_ltd_bazpayuah/)|`newera_payment_technologies_ltd_bazpayuah`| 
 |![nixmoney](https://static.openfintech.io/payment_methods/nixmoney/logo.png?w=400&c=v0.59.26#w200) |[**NixMoney Wallet**](nixmoney/)|`nixmoney`| 
 |![nonghyup_bank](https://static.openfintech.io/payment_methods/nonghyup_bank/logo.png?w=400&c=v0.59.26#w200) |[**Nonghyup Bank**](nonghyup_bank/)|`nonghyup_bank`| 
 |![nordea](https://static.openfintech.io/payment_methods/nordea/logo.png?w=400&c=v0.59.26#w200) |[**Nordea**](nordea/)|`nordea`| 

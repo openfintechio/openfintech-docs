@@ -43,6 +43,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer](/payment-methods/sepa_transfer/)|`sepa_transfer`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -56,7 +65,9 @@ The list of supported [Payment Methods](/payment-methods/)
     "payment_card",
     "sepa_transfer"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "bank_transfer"
+  ],
   "metadata":null,
   "name":{
     "en":"Katarun",
