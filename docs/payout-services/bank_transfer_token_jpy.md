@@ -27,8 +27,8 @@
 |`bank_account_token`|✔|`string`|`/^.{3,100}$/`| 
 |`beneficiary_first_name`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
 |`beneficiary_last_name`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
-|`beneficiary_first_name_latin`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
-|`beneficiary_last_name_latin`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
+|`beneficiary_first_name_latin`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}-]{2,100}$/u`| 
+|`beneficiary_last_name_latin`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}-]{2,100}$/u`| 
  
 
 ### Details 
@@ -91,7 +91,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-z,0-9]{2,100}$/` 
+	Regexp: `/^[\s\p{L}\p{N}\p{P}-]{2,100}$/u` 
  
 	Required: `` 
  
@@ -109,7 +109,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-z,0-9]{2,100}$/` 
+	Regexp: `/^[\s\p{L}\p{N}\p{P}-]{2,100}$/u` 
  
 	Required: `` 
  
@@ -189,7 +189,7 @@
     {
       "key":"beneficiary_first_name_latin",
       "type":"string",
-      "regexp":"\/^[A-Za-z,0-9]{2,100}$\/",
+      "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}-]{2,100}$\/u",
       "required":false,
       "position":4,
       "label":{
@@ -207,7 +207,7 @@
     {
       "key":"beneficiary_last_name_latin",
       "type":"string",
-      "regexp":"\/^[A-Za-z,0-9]{2,100}$\/",
+      "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}-]{2,100}$\/u",
       "required":false,
       "position":5,
       "label":{
