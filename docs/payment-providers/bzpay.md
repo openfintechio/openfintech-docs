@@ -27,10 +27,10 @@ https://static.openfintech.io/payment_providers/bzpay/logo.png?w=400&c=v0.59.26#
 
 ### Icon 
  
-![bzpay](https://static.openfintech.io/payment_providers/bzpay/icon.svg?w=278&c=v0.59.26#w100)  
+![bzpay](https://static.openfintech.io/payment_providers/bzpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/bzpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/bzpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 

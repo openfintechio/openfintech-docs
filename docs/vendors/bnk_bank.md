@@ -1,6 +1,6 @@
 
 # BNK Securities Co. Ltd 
-![bnk_bank](https://static.openfintech.io/vendors/bnk_bank/logo.svg?w=400&c=v0.59.26#w200)  
+![bnk_bank](https://static.openfintech.io/vendors/bnk_bank/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@
 
 ### Logo 
  
-![bnk_bank](https://static.openfintech.io/vendors/bnk_bank/logo.svg?w=400&c=v0.59.26#w200)  
+![bnk_bank](https://static.openfintech.io/vendors/bnk_bank/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/bnk_bank/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/bnk_bank/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![bnk_bank](https://static.openfintech.io/vendors/bnk_bank/icon.svg?w=278&c=v0.59.26#w100)  
+![bnk_bank](https://static.openfintech.io/vendors/bnk_bank/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/bnk_bank/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/bnk_bank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

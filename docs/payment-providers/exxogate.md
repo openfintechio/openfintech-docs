@@ -204,17 +204,17 @@ The list of supported [Payment Methods](/payment-methods/)
 |![safaricom](https://static.openfintech.io/payment_methods/safaricom/icon.png?w=278&c=v0.59.26#w100) |[safaricom](/payment-methods/safaricom/)|`safaricom`| 
 |![equitel](https://static.openfintech.io/payment_methods/equitel/icon.png?w=278&c=v0.59.26#w100) |[equitel](/payment-methods/equitel/)|`equitel`| 
 |![airteltigo](https://static.openfintech.io/payment_methods/airteltigo/icon.png?w=278&c=v0.59.26#w100) |[airteltigo](/payment-methods/airteltigo/)|`airteltigo`| 
-|![vodafone_cash](https://static.openfintech.io/payment_methods/vodafone_cash/icon.svg?w=278&c=v0.59.26#w100) |[vodafone_cash](/payment-methods/vodafone_cash/)|`vodafone_cash`| 
+|![vodafone_cash](https://static.openfintech.io/payment_methods/vodafone_cash/icon.png?w=278&c=v0.59.26#w100) |[vodafone_cash](/payment-methods/vodafone_cash/)|`vodafone_cash`| 
 |![mtn_group](https://static.openfintech.io/payment_methods/mtn_group/icon.png?w=278&c=v0.59.26#w100) |[mtn_group](/payment-methods/mtn_group/)|`mtn_group`| 
-|![vodafone_pay](https://static.openfintech.io/payment_methods/vodafone_pay/icon.svg?w=278&c=v0.59.26#w100) |[vodafone_pay](/payment-methods/vodafone_pay/)|`vodafone_pay`| 
-|![ecocash](https://static.openfintech.io/payment_methods/ecocash/icon.svg?w=278&c=v0.59.26#w100) |[ecocash](/payment-methods/ecocash/)|`ecocash`| 
+|![vodafone_pay](https://static.openfintech.io/payment_methods/vodafone_pay/icon.png?w=278&c=v0.59.26#w100) |[vodafone_pay](/payment-methods/vodafone_pay/)|`vodafone_pay`| 
+|![ecocash](https://static.openfintech.io/payment_methods/ecocash/icon.png?w=278&c=v0.59.26#w100) |[ecocash](/payment-methods/ecocash/)|`ecocash`| 
 |![tigo_pesa](https://static.openfintech.io/payment_methods/tigo_pesa/icon.png?w=278&c=v0.59.26#w100) |[tigo_pesa](/payment-methods/tigo_pesa/)|`tigo_pesa`| 
 |![vodacom](https://static.openfintech.io/payment_methods/vodacom/icon.png?w=278&c=v0.59.26#w100) |[vodacom](/payment-methods/vodacom/)|`vodacom`| 
-|![orange_money](https://static.openfintech.io/payment_methods/orange_money/icon.svg?w=278&c=v0.59.26#w100) |[orange_money](/payment-methods/orange_money/)|`orange_money`| 
+|![orange_money](https://static.openfintech.io/payment_methods/orange_money/icon.png?w=278&c=v0.59.26#w100) |[orange_money](/payment-methods/orange_money/)|`orange_money`| 
 |![zamtel](https://static.openfintech.io/payment_methods/zamtel/icon.png?w=278&c=v0.59.26#w100) |[zamtel](/payment-methods/zamtel/)|`zamtel`| 
 |![bkash_limited](https://static.openfintech.io/payment_methods/bkash_limited/icon.png?w=278&c=v0.59.26#w100) |[bkash_limited](/payment-methods/bkash_limited/)|`bkash_limited`| 
-|![nagad_wallet](https://static.openfintech.io/payment_methods/nagad_wallet/icon.svg?w=278&c=v0.59.26#w100) |[nagad_wallet](/payment-methods/nagad_wallet/)|`nagad_wallet`| 
-|![dutch_bangla_bank_limited_rocket](https://static.openfintech.io/payment_methods/dutch_bangla_bank_limited_rocket/icon.svg?w=278&c=v0.59.26#w100) |[dutch_bangla_bank_limited_rocket](/payment-methods/dutch_bangla_bank_limited_rocket/)|`dutch_bangla_bank_limited_rocket`| 
+|![nagad_wallet](https://static.openfintech.io/payment_methods/nagad_wallet/icon.png?w=278&c=v0.59.26#w100) |[nagad_wallet](/payment-methods/nagad_wallet/)|`nagad_wallet`| 
+|![dutch_bangla_bank_limited_rocket](https://static.openfintech.io/payment_methods/dutch_bangla_bank_limited_rocket/icon.png?w=278&c=v0.59.26#w100) |[dutch_bangla_bank_limited_rocket](/payment-methods/dutch_bangla_bank_limited_rocket/)|`dutch_bangla_bank_limited_rocket`| 
 |![united_commercial_bank_upay](https://static.openfintech.io/payment_methods/united_commercial_bank_upay/icon.png?w=278&c=v0.59.26#w100) |[united_commercial_bank_upay](/payment-methods/united_commercial_bank_upay/)|`united_commercial_bank_upay`| 
  
 
@@ -558,7 +558,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![jeonbuk_bank](https://static.openfintech.io/payout_methods/jeonbuk_bank/icon.svg?w=278&c=v0.59.26#w40) |[jeonbuk_bank](payout-methodsjeonbuk_bank/)|`jeonbuk_bank`| 
 |![jeju_bank](https://static.openfintech.io/payout_methods/jeju_bank/icon.png?w=278&c=v0.59.26#w40) |[jeju_bank](payout-methodsjeju_bank/)|`jeju_bank`| 
 |![keb_hana_bank](https://static.openfintech.io/payout_methods/keb_hana_bank/icon.png?w=278&c=v0.59.26#w40) |[keb_hana_bank](payout-methodskeb_hana_bank/)|`keb_hana_bank`| 
-|![nonghyup_bank](https://static.openfintech.io/payout_methods/nonghyup_bank/icon.svg?w=278&c=v0.59.26#w40) |[nonghyup_bank](payout-methodsnonghyup_bank/)|`nonghyup_bank`| 
+|![nonghyup_bank](https://static.openfintech.io/payout_methods/nonghyup_bank/icon.png?w=278&c=v0.59.26#w40) |[nonghyup_bank](payout-methodsnonghyup_bank/)|`nonghyup_bank`| 
 |![credit_union_bank](https://static.openfintech.io/payout_methods/credit_union_bank/icon.png?w=278&c=v0.59.26#w40) |[credit_union_bank](payout-methodscredit_union_bank/)|`credit_union_bank`| 
 |![access_bank_nigeria](https://static.openfintech.io/payout_methods/access_bank_nigeria/icon.svg?w=278&c=v0.59.26#w40) |[access_bank_nigeria](payout-methodsaccess_bank_nigeria/)|`access_bank_nigeria`| 
 |![first_bankof_nigeria](https://static.openfintech.io/payout_methods/first_bankof_nigeria/icon.svg?w=278&c=v0.59.26#w40) |[first_bankof_nigeria](payout-methodsfirst_bankof_nigeria/)|`first_bankof_nigeria`| 

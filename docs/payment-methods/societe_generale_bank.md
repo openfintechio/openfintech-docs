@@ -24,10 +24,10 @@ https://static.openfintech.io/payment_methods/societe_generale_bank/logo.png?w=4
 ```  
 
 ### Icon 
-![societe_generale_bank](https://static.openfintech.io/payment_methods/societe_generale_bank/icon.svg?w=278&c=v0.59.26#w100)  
+![societe_generale_bank](https://static.openfintech.io/payment_methods/societe_generale_bank/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/societe_generale_bank/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/societe_generale_bank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -36,7 +36,7 @@ The list of [Payment Services](/payment-services/) based on the _Societe General
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![societe_generale_bank](https://static.openfintech.io/payment_methods/societe_generale_bank/icon.svg?w=278&c=v0.59.26#w100) |[societe_generale_bank_eur_hpp](/payment-services/societe_generale_bank_eur_hpp/)|`societe_generale_bank_eur_hpp`| 
+|![societe_generale_bank](https://static.openfintech.io/payment_methods/societe_generale_bank/icon.png?w=278&c=v0.59.26#w100) |[societe_generale_bank_eur_hpp](/payment-services/societe_generale_bank_eur_hpp/)|`societe_generale_bank_eur_hpp`| 
  
 
 ## Payment Providers 

@@ -1,6 +1,6 @@
 
 # Caja Tacna 
-![caja_tacna_cash](https://static.openfintech.io/payment_methods/caja_tacna_cash/logo.svg?w=400&c=v0.59.26#w200)  
+![caja_tacna_cash](https://static.openfintech.io/payment_methods/caja_tacna_cash/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `caja_tacna_cash` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![caja_tacna_cash](https://static.openfintech.io/payment_methods/caja_tacna_cash/logo.svg?w=400&c=v0.59.26#w200)  
+![caja_tacna_cash](https://static.openfintech.io/payment_methods/caja_tacna_cash/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/caja_tacna_cash/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/caja_tacna_cash/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![caja_tacna_cash](https://static.openfintech.io/payment_methods/caja_tacna_cash/icon.svg?w=278&c=v0.59.26#w100)  
+![caja_tacna_cash](https://static.openfintech.io/payment_methods/caja_tacna_cash/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/caja_tacna_cash/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/caja_tacna_cash/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -36,7 +36,7 @@ The list of [Payment Services](/payment-services/) based on the _Caja Tacna_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![caja_tacna_cash](https://static.openfintech.io/payment_methods/caja_tacna_cash/icon.svg?w=278&c=v0.59.26#w100) |[caja_tacna_cash_pen_hpp](/payment-services/caja_tacna_cash_pen_hpp/)|`caja_tacna_cash_pen_hpp`| 
+|![caja_tacna_cash](https://static.openfintech.io/payment_methods/caja_tacna_cash/icon.png?w=278&c=v0.59.26#w100) |[caja_tacna_cash_pen_hpp](/payment-services/caja_tacna_cash_pen_hpp/)|`caja_tacna_cash_pen_hpp`| 
  
 
 ## Payment Providers 

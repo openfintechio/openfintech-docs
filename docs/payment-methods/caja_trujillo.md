@@ -1,6 +1,6 @@
 
 # Caja Trujillo 
-![caja_trujillo](https://static.openfintech.io/payment_methods/caja_trujillo/logo.svg?w=400&c=v0.59.26#w200)  
+![caja_trujillo](https://static.openfintech.io/payment_methods/caja_trujillo/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `caja_trujillo` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![caja_trujillo](https://static.openfintech.io/payment_methods/caja_trujillo/logo.svg?w=400&c=v0.59.26#w200)  
+![caja_trujillo](https://static.openfintech.io/payment_methods/caja_trujillo/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/caja_trujillo/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/caja_trujillo/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![caja_trujillo](https://static.openfintech.io/payment_methods/caja_trujillo/icon.svg?w=278&c=v0.59.26#w100)  
+![caja_trujillo](https://static.openfintech.io/payment_methods/caja_trujillo/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/caja_trujillo/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/caja_trujillo/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -36,8 +36,8 @@ The list of [Payment Services](/payment-services/) based on the _Caja Trujillo_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![caja_trujillo](https://static.openfintech.io/payment_methods/caja_trujillo/icon.svg?w=278&c=v0.59.26#w100) |[caja_trujillo_pen_hpp](/payment-services/caja_trujillo_pen_hpp/)|`caja_trujillo_pen_hpp`| 
-|![caja_trujillo](https://static.openfintech.io/payment_methods/caja_trujillo/icon.svg?w=278&c=v0.59.26#w100) |[caja_trujillo_usd_hpp](/payment-services/caja_trujillo_usd_hpp/)|`caja_trujillo_usd_hpp`| 
+|![caja_trujillo](https://static.openfintech.io/payment_methods/caja_trujillo/icon.png?w=278&c=v0.59.26#w100) |[caja_trujillo_pen_hpp](/payment-services/caja_trujillo_pen_hpp/)|`caja_trujillo_pen_hpp`| 
+|![caja_trujillo](https://static.openfintech.io/payment_methods/caja_trujillo/icon.png?w=278&c=v0.59.26#w100) |[caja_trujillo_usd_hpp](/payment-services/caja_trujillo_usd_hpp/)|`caja_trujillo_usd_hpp`| 
  
 
 ## Payment Providers 

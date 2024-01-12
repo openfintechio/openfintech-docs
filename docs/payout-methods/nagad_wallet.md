@@ -24,10 +24,10 @@ https://static.openfintech.io/payment_methods/nagad_wallet/logo.png?w=400&c=v0.5
 ```  
 
 ### Icon 
-![nagad_wallet](https://static.openfintech.io/payment_methods/nagad_wallet/icon.svg?w=278&c=v0.59.26#w100)  
+![nagad_wallet](https://static.openfintech.io/payment_methods/nagad_wallet/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/nagad_wallet/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/nagad_wallet/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payout Services 

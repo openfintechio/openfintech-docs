@@ -1,6 +1,6 @@
 
 # Banco Pichincha 
-![banco_pichincha_cash](https://static.openfintech.io/payment_methods/banco_pichincha_cash/logo.svg?w=400&c=v0.59.26#w200)  
+![banco_pichincha_cash](https://static.openfintech.io/payment_methods/banco_pichincha_cash/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `banco_pichincha_cash` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![banco_pichincha_cash](https://static.openfintech.io/payment_methods/banco_pichincha_cash/logo.svg?w=400&c=v0.59.26#w200)  
+![banco_pichincha_cash](https://static.openfintech.io/payment_methods/banco_pichincha_cash/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/banco_pichincha_cash/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/banco_pichincha_cash/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![banco_pichincha_cash](https://static.openfintech.io/payment_methods/banco_pichincha_cash/icon.svg?w=278&c=v0.59.26#w100)  
+![banco_pichincha_cash](https://static.openfintech.io/payment_methods/banco_pichincha_cash/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/banco_pichincha_cash/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/banco_pichincha_cash/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -36,7 +36,7 @@ The list of [Payment Services](/payment-services/) based on the _Banco Pichincha
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![banco_pichincha_cash](https://static.openfintech.io/payment_methods/banco_pichincha_cash/icon.svg?w=278&c=v0.59.26#w100) |[banco_pichincha_cash_usd_hpp](/payment-services/banco_pichincha_cash_usd_hpp/)|`banco_pichincha_cash_usd_hpp`| 
+|![banco_pichincha_cash](https://static.openfintech.io/payment_methods/banco_pichincha_cash/icon.png?w=278&c=v0.59.26#w100) |[banco_pichincha_cash_usd_hpp](/payment-services/banco_pichincha_cash_usd_hpp/)|`banco_pichincha_cash_usd_hpp`| 
  
 
 ## Payment Providers 

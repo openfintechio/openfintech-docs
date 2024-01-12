@@ -1,6 +1,6 @@
 
 # Banco de Antigua 
-![banco_de_antigua_cash](https://static.openfintech.io/payment_methods/banco_de_antigua_cash/logo.svg?w=400&c=v0.59.26#w200)  
+![banco_de_antigua_cash](https://static.openfintech.io/payment_methods/banco_de_antigua_cash/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `banco_de_antigua_cash` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![banco_de_antigua_cash](https://static.openfintech.io/payment_methods/banco_de_antigua_cash/logo.svg?w=400&c=v0.59.26#w200)  
+![banco_de_antigua_cash](https://static.openfintech.io/payment_methods/banco_de_antigua_cash/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/banco_de_antigua_cash/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/banco_de_antigua_cash/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![banco_de_antigua_cash](https://static.openfintech.io/payment_methods/banco_de_antigua_cash/icon.svg?w=278&c=v0.59.26#w100)  
+![banco_de_antigua_cash](https://static.openfintech.io/payment_methods/banco_de_antigua_cash/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/banco_de_antigua_cash/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/banco_de_antigua_cash/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -36,7 +36,7 @@ The list of [Payment Services](/payment-services/) based on the _Banco de Antigu
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![banco_de_antigua_cash](https://static.openfintech.io/payment_methods/banco_de_antigua_cash/icon.svg?w=278&c=v0.59.26#w100) |[banco_de_antigua_cash_gtq_hpp](/payment-services/banco_de_antigua_cash_gtq_hpp/)|`banco_de_antigua_cash_gtq_hpp`| 
+|![banco_de_antigua_cash](https://static.openfintech.io/payment_methods/banco_de_antigua_cash/icon.png?w=278&c=v0.59.26#w100) |[banco_de_antigua_cash_gtq_hpp](/payment-services/banco_de_antigua_cash_gtq_hpp/)|`banco_de_antigua_cash_gtq_hpp`| 
  
 
 ## Payment Providers 

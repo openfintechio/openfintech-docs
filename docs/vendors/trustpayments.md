@@ -27,10 +27,10 @@ https://static.openfintech.io/vendors/trustpayments/logo.svg?w=400&c=v0.59.26#w2
 
 ### Icon 
  
-![trustpayments](https://static.openfintech.io/vendors/trustpayments/icon.svg?w=278&c=v0.59.26#w100)  
+![trustpayments](https://static.openfintech.io/vendors/trustpayments/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/trustpayments/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/trustpayments/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

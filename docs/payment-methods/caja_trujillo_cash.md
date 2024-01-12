@@ -1,6 +1,6 @@
 
 # Caja Trujillo 
-![caja_trujillo_cash](https://static.openfintech.io/payment_methods/caja_trujillo_cash/logo.svg?w=400&c=v0.59.26#w200)  
+![caja_trujillo_cash](https://static.openfintech.io/payment_methods/caja_trujillo_cash/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `caja_trujillo_cash` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![caja_trujillo_cash](https://static.openfintech.io/payment_methods/caja_trujillo_cash/logo.svg?w=400&c=v0.59.26#w200)  
+![caja_trujillo_cash](https://static.openfintech.io/payment_methods/caja_trujillo_cash/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/caja_trujillo_cash/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/caja_trujillo_cash/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![caja_trujillo_cash](https://static.openfintech.io/payment_methods/caja_trujillo_cash/icon.svg?w=278&c=v0.59.26#w100)  
+![caja_trujillo_cash](https://static.openfintech.io/payment_methods/caja_trujillo_cash/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/caja_trujillo_cash/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/caja_trujillo_cash/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -36,7 +36,7 @@ The list of [Payment Services](/payment-services/) based on the _Caja Trujillo_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![caja_trujillo_cash](https://static.openfintech.io/payment_methods/caja_trujillo_cash/icon.svg?w=278&c=v0.59.26#w100) |[caja_trujillo_cash_pen_hpp](/payment-services/caja_trujillo_cash_pen_hpp/)|`caja_trujillo_cash_pen_hpp`| 
+|![caja_trujillo_cash](https://static.openfintech.io/payment_methods/caja_trujillo_cash/icon.png?w=278&c=v0.59.26#w100) |[caja_trujillo_cash_pen_hpp](/payment-services/caja_trujillo_cash_pen_hpp/)|`caja_trujillo_cash_pen_hpp`| 
  
 
 ## Payment Providers 

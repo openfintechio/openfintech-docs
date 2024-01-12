@@ -30,10 +30,10 @@ https://static.openfintech.io/vendors/bzpay/logo.png?w=400&c=v0.59.26#w200
 
 ### Icon 
  
-![bzpay](https://static.openfintech.io/vendors/bzpay/icon.svg?w=278&c=v0.59.26#w100)  
+![bzpay](https://static.openfintech.io/vendors/bzpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/bzpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/bzpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

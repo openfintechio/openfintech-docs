@@ -274,7 +274,7 @@
 |![blizniukovskii-rem-ak-kharkivoblenergo](https://static.openfintech.io/payout_methods/blizniukovskii-rem-ak-kharkivoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Bliznyukovskogo RES AK 'Kharkovoblenergo'**](blizniukovskii-rem-ak-kharkivoblenergo/)|`blizniukovskii-rem-ak-kharkivoblenergo`| 
 |![blizniukovskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018](https://static.openfintech.io/payout_methods/blizniukovskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Близнюковський РЕМ АК "Харківобленерго" (за послуги до 31.12.2018)**](blizniukovskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|`blizniukovskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018`| 
 |![bloody-world](https://static.openfintech.io/payout_methods/bloody-world/logo.png?w=400&c=v0.59.26#w24) |[**Bloody world**](bloody-world/)|`bloody-world`| 
-|![bnk_bank](https://static.openfintech.io/payout_methods/bnk_bank/logo.svg?w=400&c=v0.59.26#w24) |[**BNK Securities Co. Ltd**](bnk_bank/)|`bnk_bank`| 
+|![bnk_bank](https://static.openfintech.io/payout_methods/bnk_bank/logo.png?w=400&c=v0.59.26#w24) |[**BNK Securities Co. Ltd**](bnk_bank/)|`bnk_bank`| 
 |![bnpparibas_bank](https://static.openfintech.io/payout_methods/bnpparibas_bank/logo.svg?w=400&c=v0.59.26#w24) |[**BNP Paribas for the Republic of Korea**](bnpparibas_bank/)|`bnpparibas_bank`| 
 |![boctrust_mfb](https://static.openfintech.io/payout_methods/boctrust_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Boctrust MFB**](boctrust_mfb/)|`boctrust_mfb`| 
 |![bogodukhivskii-rem-ak-kharkivoblenergo](https://static.openfintech.io/payout_methods/bogodukhivskii-rem-ak-kharkivoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Bogodukhovsky RES AK 'Kharkivoblenergo'**](bogodukhivskii-rem-ak-kharkivoblenergo/)|`bogodukhivskii-rem-ak-kharkivoblenergo`| 
@@ -481,7 +481,7 @@
 |![ebarcs_mfb](https://static.openfintech.io/payout_methods/ebarcs_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**E-Barcs MFB**](ebarcs_mfb/)|`ebarcs_mfb`| 
 |![ebay-gift-card-25-us](https://static.openfintech.io/payout_methods/ebay-gift-card-25-us/logo.png?w=400&c=v0.59.26#w24) |[**eBay Gift Card $ 25 (US)**](ebay-gift-card-25-us/)|`ebay-gift-card-25-us`| 
 |![ebay-gift-card-5-us](https://static.openfintech.io/payout_methods/ebay-gift-card-5-us/logo.png?w=400&c=v0.59.26#w24) |[**eBay Gift Card $ 5 (US)**](ebay-gift-card-5-us/)|`ebay-gift-card-5-us`| 
-|![ebest_investment_bank](https://static.openfintech.io/payout_methods/ebest_investment_bank/logo.svg?w=400&c=v0.59.26#w24) |[**EBEST Investment Securities**](ebest_investment_bank/)|`ebest_investment_bank`| 
+|![ebest_investment_bank](https://static.openfintech.io/payout_methods/ebest_investment_bank/logo.png?w=400&c=v0.59.26#w24) |[**EBEST Investment Securities**](ebest_investment_bank/)|`ebest_investment_bank`| 
 |![ecascad](https://static.openfintech.io/payout_methods/ecascad/logo.svg?w=400&c=v0.59.26#w24) |[**e.Cascad wallet**](ecascad/)|`ecascad`| 
 |![ecobank_bank](https://static.openfintech.io/payout_methods/ecobank_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Ecobank Bank**](ecobank_bank/)|`ecobank_bank`| 
 |![ecobank_xpress](https://static.openfintech.io/payout_methods/ecobank_xpress/logo.svg?w=400&c=v0.59.26#w24) |[**Ecobank Xpress**](ecobank_xpress/)|`ecobank_xpress`| 
@@ -897,7 +897,7 @@
 |![kirovskie-es](https://static.openfintech.io/payout_methods/kirovskie-es/logo.png?w=400&c=v0.59.26#w24) |[**Kirov ES**](kirovskie-es/)|`kirovskie-es`| 
 |![kita_nippon_bank](https://static.openfintech.io/payout_methods/kita_nippon_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Kita-Nippon Bank**](kita_nippon_bank/)|`kita_nippon_bank`| 
 |![kitakyushu_bank](https://static.openfintech.io/payout_methods/kitakyushu_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Kitakyushu Bank**](kitakyushu_bank/)|`kitakyushu_bank`| 
-|![kiwoom_bank](https://static.openfintech.io/payout_methods/kiwoom_bank/logo.svg?w=400&c=v0.59.26#w24) |[**KIWOOM SECURITIES CO LTD**](kiwoom_bank/)|`kiwoom_bank`| 
+|![kiwoom_bank](https://static.openfintech.io/payout_methods/kiwoom_bank/logo.png?w=400&c=v0.59.26#w24) |[**KIWOOM SECURITIES CO LTD**](kiwoom_bank/)|`kiwoom_bank`| 
 |![kiyiv-nks](https://static.openfintech.io/payout_methods/kiyiv-nks/logo.svg?w=400&c=v0.59.26#w24) |[**Київ НКС**](kiyiv-nks/)|`kiyiv-nks`| 
 |![kiyivstar-domashnii-kiyivstar](https://static.openfintech.io/payout_methods/kiyivstar-domashnii-kiyivstar/logo.png?w=400&c=v0.59.26#w24) |[**Kyivstar - home Kyivstar**](kiyivstar-domashnii-kiyivstar/)|`kiyivstar-domashnii-kiyivstar`| 
 |![kiyivstar-pokupka-nomera](https://static.openfintech.io/payout_methods/kiyivstar-pokupka-nomera/logo.svg?w=400&c=v0.59.26#w24) |[**Київстар - покупка номера**](kiyivstar-pokupka-nomera/)|`kiyivstar-pokupka-nomera`| 
@@ -1253,7 +1253,7 @@
 |![neverlands](https://static.openfintech.io/payout_methods/neverlands/logo.png?w=400&c=v0.59.26#w24) |[**NeverLands**](neverlands/)|`neverlands`| 
 |![new_dawn_mfb](https://static.openfintech.io/payout_methods/new_dawn_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**New Dawn MFB**](new_dawn_mfb/)|`new_dawn_mfb`| 
 |![new_prudential_bank](https://static.openfintech.io/payout_methods/new_prudential_bank/logo.svg?w=400&c=v0.59.26#w24) |[**New Prudential Bank**](new_prudential_bank/)|`new_prudential_bank`| 
-|![nhbank_bank](https://static.openfintech.io/payout_methods/nhbank_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Nonghyup Bank**](nhbank_bank/)|`nhbank_bank`| 
+|![nhbank_bank](https://static.openfintech.io/payout_methods/nhbank_bank/logo.png?w=400&c=v0.59.26#w24) |[**Nonghyup Bank**](nhbank_bank/)|`nhbank_bank`| 
 |![nhqv_bank](https://static.openfintech.io/payout_methods/nhqv_bank/logo.png?w=400&c=v0.59.26#w24) |[**NH Investment Securities**](nhqv_bank/)|`nhqv_bank`| 
 |![nigerian_navy_mfb](https://static.openfintech.io/payout_methods/nigerian_navy_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Nigerian Navy MFB**](nigerian_navy_mfb/)|`nigerian_navy_mfb`| 
 |![nigerian_police_force_mfb](https://static.openfintech.io/payout_methods/nigerian_police_force_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Nigerian Police Force MFB**](nigerian_police_force_mfb/)|`nigerian_police_force_mfb`| 
@@ -1265,7 +1265,7 @@
 |![nktv-nikolaev](https://static.openfintech.io/payout_methods/nktv-nikolaev/logo.png?w=400&c=v0.59.26#w24) |[**NKTV (Nikolaev)**](nktv-nikolaev/)|`nktv-nikolaev`| 
 |![nktv-ochakov](https://static.openfintech.io/payout_methods/nktv-ochakov/logo.png?w=400&c=v0.59.26#w24) |[**NKTV (Ochakov)**](nktv-ochakov/)|`nktv-ochakov`| 
 |![nnew_women_mfb](https://static.openfintech.io/payout_methods/nnew_women_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Nnew Women MFB**](nnew_women_mfb/)|`nnew_women_mfb`| 
-|![nonghyup_bank](https://static.openfintech.io/payout_methods/nonghyup_bank/logo.svg?w=400&c=v0.59.26#w24) |[**National Agricultural cooperative federation**](nonghyup_bank/)|`nonghyup_bank`| 
+|![nonghyup_bank](https://static.openfintech.io/payout_methods/nonghyup_bank/logo.png?w=400&c=v0.59.26#w24) |[**National Agricultural cooperative federation**](nonghyup_bank/)|`nonghyup_bank`| 
 |![nordea_bank](https://static.openfintech.io/payout_methods/nordea_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Nordea**](nordea_bank/)|`nordea_bank`| 
 |![norma-4-internet](https://static.openfintech.io/payout_methods/norma-4-internet/logo.png?w=400&c=v0.59.26#w24) |[**Norm 4 - the Internet**](norma-4-internet/)|`norma-4-internet`| 
 |![norma-4-televidenie](https://static.openfintech.io/payout_methods/norma-4-televidenie/logo.png?w=400&c=v0.59.26#w24) |[**Norm 4 - Television**](norma-4-televidenie/)|`norma-4-televidenie`| 

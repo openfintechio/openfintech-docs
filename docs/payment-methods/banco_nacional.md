@@ -1,6 +1,6 @@
 
 # Banco Nacional 
-![banco_nacional](https://static.openfintech.io/payment_methods/banco_nacional/logo.svg?w=400&c=v0.59.26#w200)  
+![banco_nacional](https://static.openfintech.io/payment_methods/banco_nacional/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `banco_nacional` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![banco_nacional](https://static.openfintech.io/payment_methods/banco_nacional/logo.svg?w=400&c=v0.59.26#w200)  
+![banco_nacional](https://static.openfintech.io/payment_methods/banco_nacional/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/banco_nacional/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/banco_nacional/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![banco_nacional](https://static.openfintech.io/payment_methods/banco_nacional/icon.svg?w=278&c=v0.59.26#w100)  
+![banco_nacional](https://static.openfintech.io/payment_methods/banco_nacional/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/banco_nacional/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/banco_nacional/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -36,8 +36,8 @@ The list of [Payment Services](/payment-services/) based on the _Banco Nacional_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![banco_nacional](https://static.openfintech.io/payment_methods/banco_nacional/icon.svg?w=278&c=v0.59.26#w100) |[banco_nacional_crc_hpp](/payment-services/banco_nacional_crc_hpp/)|`banco_nacional_crc_hpp`| 
-|![banco_nacional](https://static.openfintech.io/payment_methods/banco_nacional/icon.svg?w=278&c=v0.59.26#w100) |[banco_nacional_usd_hpp](/payment-services/banco_nacional_usd_hpp/)|`banco_nacional_usd_hpp`| 
+|![banco_nacional](https://static.openfintech.io/payment_methods/banco_nacional/icon.png?w=278&c=v0.59.26#w100) |[banco_nacional_crc_hpp](/payment-services/banco_nacional_crc_hpp/)|`banco_nacional_crc_hpp`| 
+|![banco_nacional](https://static.openfintech.io/payment_methods/banco_nacional/icon.png?w=278&c=v0.59.26#w100) |[banco_nacional_usd_hpp](/payment-services/banco_nacional_usd_hpp/)|`banco_nacional_usd_hpp`| 
  
 
 ## Payment Providers 

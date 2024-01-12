@@ -38,7 +38,7 @@ The list of [Payout Services](/payout-services/) based on the _National Agricult
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![nonghyup_bank](https://static.openfintech.io/payout_methods/nonghyup_bank/icon.svg?w=278&c=v0.59.26#w40) |[nonghyup_bank_krw](/payout-services/nonghyup_bank_krw/)|`nonghyup_bank_krw`| 
+|![nonghyup_bank](https://static.openfintech.io/payout_methods/nonghyup_bank/icon.png?w=278&c=v0.59.26#w40) |[nonghyup_bank_krw](/payout-services/nonghyup_bank_krw/)|`nonghyup_bank_krw`| 
  
 
 ## Payment Providers 

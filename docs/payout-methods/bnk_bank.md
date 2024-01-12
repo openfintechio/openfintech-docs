@@ -38,7 +38,7 @@ The list of [Payout Services](/payout-services/) based on the _BNK Securities Co
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bnk_bank](https://static.openfintech.io/payout_methods/bnk_bank/icon.svg?w=278&c=v0.59.26#w40) |[bnk_bank_krw](/payout-services/bnk_bank_krw/)|`bnk_bank_krw`| 
+|![bnk_bank](https://static.openfintech.io/payout_methods/bnk_bank/icon.png?w=278&c=v0.59.26#w40) |[bnk_bank_krw](/payout-services/bnk_bank_krw/)|`bnk_bank_krw`| 
  
 
 ## JSON Object 

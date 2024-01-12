@@ -1,6 +1,6 @@
 
 # Farmacias Santa Maria 
-![farmacias_santa_maria_cash](https://static.openfintech.io/payment_methods/farmacias_santa_maria_cash/logo.svg?w=400&c=v0.59.26#w200)  
+![farmacias_santa_maria_cash](https://static.openfintech.io/payment_methods/farmacias_santa_maria_cash/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `farmacias_santa_maria_cash` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![farmacias_santa_maria_cash](https://static.openfintech.io/payment_methods/farmacias_santa_maria_cash/logo.svg?w=400&c=v0.59.26#w200)  
+![farmacias_santa_maria_cash](https://static.openfintech.io/payment_methods/farmacias_santa_maria_cash/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/farmacias_santa_maria_cash/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/farmacias_santa_maria_cash/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![farmacias_santa_maria_cash](https://static.openfintech.io/payment_methods/farmacias_santa_maria_cash/icon.svg?w=278&c=v0.59.26#w100)  
+![farmacias_santa_maria_cash](https://static.openfintech.io/payment_methods/farmacias_santa_maria_cash/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/farmacias_santa_maria_cash/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/farmacias_santa_maria_cash/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -36,7 +36,7 @@ The list of [Payment Services](/payment-services/) based on the _Farmacias Santa
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![farmacias_santa_maria_cash](https://static.openfintech.io/payment_methods/farmacias_santa_maria_cash/icon.svg?w=278&c=v0.59.26#w100) |[farmacias_santa_maria_cash_mxn_hpp](/payment-services/farmacias_santa_maria_cash_mxn_hpp/)|`farmacias_santa_maria_cash_mxn_hpp`| 
+|![farmacias_santa_maria_cash](https://static.openfintech.io/payment_methods/farmacias_santa_maria_cash/icon.png?w=278&c=v0.59.26#w100) |[farmacias_santa_maria_cash_mxn_hpp](/payment-services/farmacias_santa_maria_cash_mxn_hpp/)|`farmacias_santa_maria_cash_mxn_hpp`| 
  
 
 ## Payment Providers 

@@ -30,10 +30,10 @@ https://static.openfintech.io/vendors/orange_money/logo.png?w=400&c=v0.59.26#w20
 
 ### Icon 
  
-![orange_money](https://static.openfintech.io/vendors/orange_money/icon.svg?w=278&c=v0.59.26#w100)  
+![orange_money](https://static.openfintech.io/vendors/orange_money/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/orange_money/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/orange_money/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

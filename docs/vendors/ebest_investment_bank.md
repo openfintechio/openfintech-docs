@@ -1,6 +1,6 @@
 
 # EBEST Investment & Securities Co. Ltd 
-![ebest_investment_bank](https://static.openfintech.io/vendors/ebest_investment_bank/logo.svg?w=400&c=v0.59.26#w200)  
+![ebest_investment_bank](https://static.openfintech.io/vendors/ebest_investment_bank/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@
 
 ### Logo 
  
-![ebest_investment_bank](https://static.openfintech.io/vendors/ebest_investment_bank/logo.svg?w=400&c=v0.59.26#w200)  
+![ebest_investment_bank](https://static.openfintech.io/vendors/ebest_investment_bank/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/ebest_investment_bank/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/ebest_investment_bank/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![ebest_investment_bank](https://static.openfintech.io/vendors/ebest_investment_bank/icon.svg?w=278&c=v0.59.26#w100)  
+![ebest_investment_bank](https://static.openfintech.io/vendors/ebest_investment_bank/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ebest_investment_bank/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ebest_investment_bank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

@@ -1,6 +1,6 @@
 
 # PaymeCrypto 
-![paymecrypto](https://static.openfintech.io/vendors/paymecrypto/logo.svg?w=400&c=v0.59.26#w200)  
+![paymecrypto](https://static.openfintech.io/vendors/paymecrypto/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![paymecrypto](https://static.openfintech.io/vendors/paymecrypto/logo.svg?w=400&c=v0.59.26#w200)  
+![paymecrypto](https://static.openfintech.io/vendors/paymecrypto/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paymecrypto/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paymecrypto/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paymecrypto](https://static.openfintech.io/vendors/paymecrypto/icon.svg?w=278&c=v0.59.26#w100)  
+![paymecrypto](https://static.openfintech.io/vendors/paymecrypto/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paymecrypto/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paymecrypto/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

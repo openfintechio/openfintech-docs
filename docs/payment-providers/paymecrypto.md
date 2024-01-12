@@ -1,6 +1,6 @@
 
 # PaymeCrypto 
-![paymecrypto](https://static.openfintech.io/payment_providers/paymecrypto/logo.svg?w=400&c=v0.59.26#w100)  
+![paymecrypto](https://static.openfintech.io/payment_providers/paymecrypto/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![paymecrypto](https://static.openfintech.io/payment_providers/paymecrypto/logo.svg?w=400&c=v0.59.26#w100)  
+![paymecrypto](https://static.openfintech.io/payment_providers/paymecrypto/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paymecrypto/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paymecrypto/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![paymecrypto](https://static.openfintech.io/payment_providers/paymecrypto/icon.svg?w=278&c=v0.59.26#w100)  
+![paymecrypto](https://static.openfintech.io/payment_providers/paymecrypto/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/paymecrypto/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/paymecrypto/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 

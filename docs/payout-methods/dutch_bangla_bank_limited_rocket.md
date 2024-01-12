@@ -24,10 +24,10 @@ https://static.openfintech.io/payment_methods/dutch_bangla_bank_limited_rocket/l
 ```  
 
 ### Icon 
-![dutch_bangla_bank_limited_rocket](https://static.openfintech.io/payment_methods/dutch_bangla_bank_limited_rocket/icon.svg?w=278&c=v0.59.26#w100)  
+![dutch_bangla_bank_limited_rocket](https://static.openfintech.io/payment_methods/dutch_bangla_bank_limited_rocket/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/dutch_bangla_bank_limited_rocket/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/dutch_bangla_bank_limited_rocket/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payout Services 

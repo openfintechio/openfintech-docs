@@ -26,10 +26,10 @@ https://static.openfintech.io/payment_methods/ecocash/logo.png?w=400&c=v0.59.26#
 ```  
 
 ### Icon 
-![ecocash](https://static.openfintech.io/payment_methods/ecocash/icon.svg?w=278&c=v0.59.26#w100)  
+![ecocash](https://static.openfintech.io/payment_methods/ecocash/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/ecocash/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/ecocash/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -38,7 +38,7 @@ The list of [Payment Services](/payment-services/) based on the _EcoCash_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ecocash](https://static.openfintech.io/payment_methods/ecocash/icon.svg?w=278&c=v0.59.26#w100) |[ecocash_bif_hpp](/payment-services/ecocash_bif_hpp/)|`ecocash_bif_hpp`| 
+|![ecocash](https://static.openfintech.io/payment_methods/ecocash/icon.png?w=278&c=v0.59.26#w100) |[ecocash_bif_hpp](/payment-services/ecocash_bif_hpp/)|`ecocash_bif_hpp`| 
  
 
 ## Payment Providers 

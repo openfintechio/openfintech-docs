@@ -38,7 +38,7 @@ The list of [Payout Services](/payout-services/) based on the _EBEST Investment 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ebest_investment_bank](https://static.openfintech.io/payout_methods/ebest_investment_bank/icon.svg?w=278&c=v0.59.26#w40) |[ebest_investment_bank_krw](/payout-services/ebest_investment_bank_krw/)|`ebest_investment_bank_krw`| 
+|![ebest_investment_bank](https://static.openfintech.io/payout_methods/ebest_investment_bank/icon.png?w=278&c=v0.59.26#w40) |[ebest_investment_bank_krw](/payout-services/ebest_investment_bank_krw/)|`ebest_investment_bank_krw`| 
  
 
 ## JSON Object 

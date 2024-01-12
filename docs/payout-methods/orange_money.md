@@ -22,10 +22,10 @@ https://static.openfintech.io/payment_methods/orange_money/logo.png?w=400&c=v0.5
 ```  
 
 ### Icon 
-![orange_money](https://static.openfintech.io/payment_methods/orange_money/icon.svg?w=278&c=v0.59.26#w100)  
+![orange_money](https://static.openfintech.io/payment_methods/orange_money/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/orange_money/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/orange_money/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payout Services 

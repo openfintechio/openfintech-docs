@@ -122,7 +122,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![nonghyup_bank](https://static.openfintech.io/payment_methods/nonghyup_bank/icon.png?w=278&c=v0.59.26#w100) |[nonghyup_bank](/payment-methods/nonghyup_bank/)|`nonghyup_bank`| 
 |![shinhan_bank](https://static.openfintech.io/payment_methods/shinhan_bank/icon.svg?w=278&c=v0.59.26#w100) |[shinhan_bank](/payment-methods/shinhan_bank/)|`shinhan_bank`| 
 |![standard_chartered_bank_korea](https://static.openfintech.io/payment_methods/standard_chartered_bank_korea/icon.svg?w=278&c=v0.59.26#w100) |[standard_chartered_bank_korea](/payment-methods/standard_chartered_bank_korea/)|`standard_chartered_bank_korea`| 
-|![suhyup_bank](https://static.openfintech.io/payment_methods/suhyup_bank/icon.svg?w=278&c=v0.59.26#w100) |[suhyup_bank](/payment-methods/suhyup_bank/)|`suhyup_bank`| 
+|![suhyup_bank](https://static.openfintech.io/payment_methods/suhyup_bank/icon.png?w=278&c=v0.59.26#w100) |[suhyup_bank](/payment-methods/suhyup_bank/)|`suhyup_bank`| 
 |![woori_bank](https://static.openfintech.io/payment_methods/woori_bank/icon.png?w=278&c=v0.59.26#w100) |[woori_bank](/payment-methods/woori_bank/)|`woori_bank`| 
 |![crypto](https://static.openfintech.io/payment_methods/crypto/icon.svg?w=278&c=v0.59.26#w100) |[crypto](/payment-methods/crypto/)|`crypto`| 
 |![wechat](https://static.openfintech.io/payment_methods/wechat/icon.svg?w=278&c=v0.59.26#w100) |[wechat](/payment-methods/wechat/)|`wechat`| 

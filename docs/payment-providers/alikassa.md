@@ -47,7 +47,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![bank_transfer_qr](https://static.openfintech.io/payment_methods/bank_transfer_qr/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_qr](/payment-methods/bank_transfer_qr/)|`bank_transfer_qr`| 
 |![ovo](https://static.openfintech.io/payment_methods/ovo/icon.png?w=278&c=v0.59.26#w100) |[ovo](/payment-methods/ovo/)|`ovo`| 
 |![dana](https://static.openfintech.io/payment_methods/dana/icon.png?w=278&c=v0.59.26#w100) |[dana](/payment-methods/dana/)|`dana`| 
-|![linkaja](https://static.openfintech.io/payment_methods/linkaja/icon.svg?w=278&c=v0.59.26#w100) |[linkaja](/payment-methods/linkaja/)|`linkaja`| 
+|![linkaja](https://static.openfintech.io/payment_methods/linkaja/icon.png?w=278&c=v0.59.26#w100) |[linkaja](/payment-methods/linkaja/)|`linkaja`| 
 |![shopeepay](https://static.openfintech.io/payment_methods/shopeepay/icon.svg?w=278&c=v0.59.26#w100) |[shopeepay](/payment-methods/shopeepay/)|`shopeepay`| 
 |![bank_central_asia](https://static.openfintech.io/payment_methods/bank_central_asia/icon.svg?w=278&c=v0.59.26#w100) |[bank_central_asia](/payment-methods/bank_central_asia/)|`bank_central_asia`| 
 |![bank_negara_indonesia](https://static.openfintech.io/payment_methods/bank_negara_indonesia/icon.svg?w=278&c=v0.59.26#w100) |[bank_negara_indonesia](/payment-methods/bank_negara_indonesia/)|`bank_negara_indonesia`| 

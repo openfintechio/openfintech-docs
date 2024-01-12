@@ -30,10 +30,10 @@ https://static.openfintech.io/vendors/kakaopay_bank/logo.png?w=400&c=v0.59.26#w2
 
 ### Icon 
  
-![kakaopay_bank](https://static.openfintech.io/vendors/kakaopay_bank/icon.svg?w=278&c=v0.59.26#w100)  
+![kakaopay_bank](https://static.openfintech.io/vendors/kakaopay_bank/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/kakaopay_bank/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/kakaopay_bank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

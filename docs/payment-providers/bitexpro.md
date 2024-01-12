@@ -52,7 +52,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![ing_group_bank](https://static.openfintech.io/payment_methods/ing_group_bank/icon.png?w=278&c=v0.59.26#w100) |[ing_group_bank](/payment-methods/ing_group_bank/)|`ing_group_bank`| 
 |![abn_amro_bank](https://static.openfintech.io/payment_methods/abn_amro_bank/icon.svg?w=278&c=v0.59.26#w100) |[abn_amro_bank](/payment-methods/abn_amro_bank/)|`abn_amro_bank`| 
 |![rabobank](https://static.openfintech.io/payment_methods/rabobank/icon.png?w=278&c=v0.59.26#w100) |[rabobank](/payment-methods/rabobank/)|`rabobank`| 
-|![societe_generale_bank](https://static.openfintech.io/payment_methods/societe_generale_bank/icon.svg?w=278&c=v0.59.26#w100) |[societe_generale_bank](/payment-methods/societe_generale_bank/)|`societe_generale_bank`| 
+|![societe_generale_bank](https://static.openfintech.io/payment_methods/societe_generale_bank/icon.png?w=278&c=v0.59.26#w100) |[societe_generale_bank](/payment-methods/societe_generale_bank/)|`societe_generale_bank`| 
 |![credit_mutuel_bank](https://static.openfintech.io/payment_methods/credit_mutuel_bank/icon.png?w=278&c=v0.59.26#w100) |[credit_mutuel_bank](/payment-methods/credit_mutuel_bank/)|`credit_mutuel_bank`| 
 |![la_banque_postale](https://static.openfintech.io/payment_methods/la_banque_postale/icon.svg?w=278&c=v0.59.26#w100) |[la_banque_postale](/payment-methods/la_banque_postale/)|`la_banque_postale`| 
 |![aktivbank](https://static.openfintech.io/payment_methods/aktivbank/icon.png?w=278&c=v0.59.26#w100) |[aktivbank](/payment-methods/aktivbank/)|`aktivbank`| 

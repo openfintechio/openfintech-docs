@@ -124,8 +124,8 @@ The list of supported [Payout Methods](/payout-methods/)
 |![woori_bank](https://static.openfintech.io/payout_methods/woori_bank/icon.svg?w=278&c=v0.59.26#w40) |[woori_bank](payout-methodswoori_bank/)|`woori_bank`| 
 |![shinhan_bank](https://static.openfintech.io/payout_methods/shinhan_bank/icon.svg?w=278&c=v0.59.26#w40) |[shinhan_bank](payout-methodsshinhan_bank/)|`shinhan_bank`| 
 |![keb_hana_bank](https://static.openfintech.io/payout_methods/keb_hana_bank/icon.png?w=278&c=v0.59.26#w40) |[keb_hana_bank](payout-methodskeb_hana_bank/)|`keb_hana_bank`| 
-|![nhbank_bank](https://static.openfintech.io/payout_methods/nhbank_bank/icon.svg?w=278&c=v0.59.26#w40) |[nhbank_bank](payout-methodsnhbank_bank/)|`nhbank_bank`| 
-|![nonghyup_bank](https://static.openfintech.io/payout_methods/nonghyup_bank/icon.svg?w=278&c=v0.59.26#w40) |[nonghyup_bank](payout-methodsnonghyup_bank/)|`nonghyup_bank`| 
+|![nhbank_bank](https://static.openfintech.io/payout_methods/nhbank_bank/icon.png?w=278&c=v0.59.26#w40) |[nhbank_bank](payout-methodsnhbank_bank/)|`nhbank_bank`| 
+|![nonghyup_bank](https://static.openfintech.io/payout_methods/nonghyup_bank/icon.png?w=278&c=v0.59.26#w40) |[nonghyup_bank](payout-methodsnonghyup_bank/)|`nonghyup_bank`| 
 |![sc_first_bank](https://static.openfintech.io/payout_methods/sc_first_bank/icon.png?w=278&c=v0.59.26#w40) |[sc_first_bank](payout-methodssc_first_bank/)|`sc_first_bank`| 
 |![citi_bank](https://static.openfintech.io/payout_methods/citi_bank/icon.svg?w=278&c=v0.59.26#w40) |[citi_bank](payout-methodsciti_bank/)|`citi_bank`| 
 |![korea_post_bank](https://static.openfintech.io/payout_methods/korea_post_bank/icon.png?w=278&c=v0.59.26#w40) |[korea_post_bank](payout-methodskorea_post_bank/)|`korea_post_bank`| 
@@ -145,13 +145,13 @@ The list of supported [Payout Methods](/payout-methods/)
 |![meritz_bank](https://static.openfintech.io/payout_methods/meritz_bank/icon.png?w=278&c=v0.59.26#w40) |[meritz_bank](payout-methodsmeritz_bank/)|`meritz_bank`| 
 |![bookook_bank](https://static.openfintech.io/payout_methods/bookook_bank/icon.png?w=278&c=v0.59.26#w40) |[bookook_bank](payout-methodsbookook_bank/)|`bookook_bank`| 
 |![nhqv_bank](https://static.openfintech.io/payout_methods/nhqv_bank/icon.png?w=278&c=v0.59.26#w40) |[nhqv_bank](payout-methodsnhqv_bank/)|`nhqv_bank`| 
-|![ebest_investment_bank](https://static.openfintech.io/payout_methods/ebest_investment_bank/icon.svg?w=278&c=v0.59.26#w40) |[ebest_investment_bank](payout-methodsebest_investment_bank/)|`ebest_investment_bank`| 
+|![ebest_investment_bank](https://static.openfintech.io/payout_methods/ebest_investment_bank/icon.png?w=278&c=v0.59.26#w40) |[ebest_investment_bank](payout-methodsebest_investment_bank/)|`ebest_investment_bank`| 
 |![kiwoom_bank](https://static.openfintech.io/payout_methods/kiwoom_bank/icon.png?w=278&c=v0.59.26#w40) |[kiwoom_bank](payout-methodskiwoom_bank/)|`kiwoom_bank`| 
 |![hana_financial_bank](https://static.openfintech.io/payout_methods/hana_financial_bank/icon.png?w=278&c=v0.59.26#w40) |[hana_financial_bank](payout-methodshana_financial_bank/)|`hana_financial_bank`| 
 |![hanwha_bank](https://static.openfintech.io/payout_methods/hanwha_bank/icon.svg?w=278&c=v0.59.26#w40) |[hanwha_bank](payout-methodshanwha_bank/)|`hanwha_bank`| 
 |![industrial_and_commercial_bank_of_china](https://static.openfintech.io/payout_methods/industrial_and_commercial_bank_of_china/icon.svg?w=278&c=v0.59.26#w40) |[industrial_and_commercial_bank_of_china](payout-methodsindustrial_and_commercial_bank_of_china/)|`industrial_and_commercial_bank_of_china`| 
-|![kakaopay_bank](https://static.openfintech.io/payout_methods/kakaopay_bank/icon.svg?w=278&c=v0.59.26#w40) |[kakaopay_bank](payout-methodskakaopay_bank/)|`kakaopay_bank`| 
-|![bnk_bank](https://static.openfintech.io/payout_methods/bnk_bank/icon.svg?w=278&c=v0.59.26#w40) |[bnk_bank](payout-methodsbnk_bank/)|`bnk_bank`| 
+|![kakaopay_bank](https://static.openfintech.io/payout_methods/kakaopay_bank/icon.png?w=278&c=v0.59.26#w40) |[kakaopay_bank](payout-methodskakaopay_bank/)|`kakaopay_bank`| 
+|![bnk_bank](https://static.openfintech.io/payout_methods/bnk_bank/icon.png?w=278&c=v0.59.26#w40) |[bnk_bank](payout-methodsbnk_bank/)|`bnk_bank`| 
 |![ktb_bank](https://static.openfintech.io/payout_methods/ktb_bank/icon.svg?w=278&c=v0.59.26#w40) |[ktb_bank](payout-methodsktb_bank/)|`ktb_bank`| 
 |![bnpparibas_bank](https://static.openfintech.io/payout_methods/bnpparibas_bank/icon.svg?w=278&c=v0.59.26#w40) |[bnpparibas_bank](payout-methodsbnpparibas_bank/)|`bnpparibas_bank`| 
 |![china_construction_bank](https://static.openfintech.io/payout_methods/china_construction_bank/icon.svg?w=278&c=v0.59.26#w40) |[china_construction_bank](payout-methodschina_construction_bank/)|`china_construction_bank`| 

@@ -24,10 +24,10 @@ https://static.openfintech.io/payment_methods/linkaja/logo.svg?w=400&c=v0.59.26#
 ```  
 
 ### Icon 
-![linkaja](https://static.openfintech.io/payment_methods/linkaja/icon.svg?w=278&c=v0.59.26#w100)  
+![linkaja](https://static.openfintech.io/payment_methods/linkaja/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/linkaja/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/linkaja/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -36,7 +36,7 @@ The list of [Payment Services](/payment-services/) based on the _PT Fintek Karya
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![linkaja](https://static.openfintech.io/payment_methods/linkaja/icon.svg?w=278&c=v0.59.26#w100) |[linkaja_idr_hpp](/payment-services/linkaja_idr_hpp/)|`linkaja_idr_hpp`| 
+|![linkaja](https://static.openfintech.io/payment_methods/linkaja/icon.png?w=278&c=v0.59.26#w100) |[linkaja_idr_hpp](/payment-services/linkaja_idr_hpp/)|`linkaja_idr_hpp`| 
  
 
 ## Payment Providers 

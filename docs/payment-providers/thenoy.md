@@ -1,6 +1,6 @@
 
 # THENOY 
-![thenoy](https://static.openfintech.io/payment_providers/thenoy/logo.svg?w=400&c=v0.59.26#w100)  
+![thenoy](https://static.openfintech.io/payment_providers/thenoy/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![thenoy](https://static.openfintech.io/payment_providers/thenoy/logo.svg?w=400&c=v0.59.26#w100)  
+![thenoy](https://static.openfintech.io/payment_providers/thenoy/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/thenoy/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/thenoy/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![thenoy](https://static.openfintech.io/payment_providers/thenoy/icon.svg?w=278&c=v0.59.26#w100)  
+![thenoy](https://static.openfintech.io/payment_providers/thenoy/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/thenoy/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/thenoy/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 

@@ -30,10 +30,10 @@ https://static.openfintech.io/vendors/ecocash/logo.png?w=400&c=v0.59.26#w200
 
 ### Icon 
  
-![ecocash](https://static.openfintech.io/vendors/ecocash/icon.svg?w=278&c=v0.59.26#w100)  
+![ecocash](https://static.openfintech.io/vendors/ecocash/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/ecocash/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/ecocash/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

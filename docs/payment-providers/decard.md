@@ -51,7 +51,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash](/payment-methods/cash/)|`cash`| 
 |![ovo](https://static.openfintech.io/payment_methods/ovo/icon.png?w=278&c=v0.59.26#w100) |[ovo](/payment-methods/ovo/)|`ovo`| 
 |![dana](https://static.openfintech.io/payment_methods/dana/icon.png?w=278&c=v0.59.26#w100) |[dana](/payment-methods/dana/)|`dana`| 
-|![linkaja](https://static.openfintech.io/payment_methods/linkaja/icon.svg?w=278&c=v0.59.26#w100) |[linkaja](/payment-methods/linkaja/)|`linkaja`| 
+|![linkaja](https://static.openfintech.io/payment_methods/linkaja/icon.png?w=278&c=v0.59.26#w100) |[linkaja](/payment-methods/linkaja/)|`linkaja`| 
 |![promptpay](https://static.openfintech.io/payment_methods/promptpay/icon.svg?w=278&c=v0.59.26#w100) |[promptpay](/payment-methods/promptpay/)|`promptpay`| 
 |![shopeepay](https://static.openfintech.io/payment_methods/shopeepay/icon.svg?w=278&c=v0.59.26#w100) |[shopeepay](/payment-methods/shopeepay/)|`shopeepay`| 
 |![truemoney](https://static.openfintech.io/payment_methods/truemoney/icon.png?w=278&c=v0.59.26#w100) |[truemoney](/payment-methods/truemoney/)|`truemoney`| 

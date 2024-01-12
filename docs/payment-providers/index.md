@@ -609,7 +609,7 @@
 |![paymaster](https://static.openfintech.io/payment_providers/paymaster/logo.svg?w=600&c=v0.59.26#w100) |[**Paymaster**](paymaster/)|`paymaster`| 
 |![paymate](https://static.openfintech.io/payment_providers/paymate/logo.png?w=600&c=v0.59.26#w100) |[**Paymate**](paymate/)|`paymate`| 
 |![paymaxis](https://static.openfintech.io/payment_providers/paymaxis/logo.png?w=600&c=v0.59.26#w100) |[**PayMaxis**](paymaxis/)|`paymaxis`| 
-|![paymecrypto](https://static.openfintech.io/payment_providers/paymecrypto/logo.svg?w=600&c=v0.59.26#w100) |[**PaymeCrypto**](paymecrypto/)|`paymecrypto`| 
+|![paymecrypto](https://static.openfintech.io/payment_providers/paymecrypto/logo.png?w=600&c=v0.59.26#w100) |[**PaymeCrypto**](paymecrypto/)|`paymecrypto`| 
 |![paymega](https://static.openfintech.io/payment_providers/paymega/logo.svg?w=600&c=v0.59.26#w100) |[**PayMega**](paymega/)|`paymega`| 
 |![paymegaio](https://static.openfintech.io/payment_providers/paymegaio/logo.svg?w=600&c=v0.59.26#w100) |[**Paymega.io**](paymegaio/)|`paymegaio`| 
 |![payment21](https://static.openfintech.io/payment_providers/payment21/logo.png?w=600&c=v0.59.26#w100) |[**Payment21**](payment21/)|`payment21`| 
@@ -841,7 +841,7 @@
 |![text2pay](https://static.openfintech.io/payment_providers/text2pay/logo.png?w=600&c=v0.59.26#w100) |[**Text2Pay**](text2pay/)|`text2pay`| 
 |![theecheckcom](https://static.openfintech.io/payment_providers/theecheckcom/logo.png?w=600&c=v0.59.26#w100) |[**TheECheck.com**](theecheckcom/)|`theecheckcom`| 
 |![thelogicgroup](https://static.openfintech.io/payment_providers/thelogicgroup/logo.png?w=600&c=v0.59.26#w100) |[**The Logic Group**](thelogicgroup/)|`thelogicgroup`| 
-|![thenoy](https://static.openfintech.io/payment_providers/thenoy/logo.svg?w=600&c=v0.59.26#w100) |[**THENOY**](thenoy/)|`thenoy`| 
+|![thenoy](https://static.openfintech.io/payment_providers/thenoy/logo.png?w=600&c=v0.59.26#w100) |[**THENOY**](thenoy/)|`thenoy`| 
 |![thepaymentconsultant](https://static.openfintech.io/payment_providers/thepaymentconsultant/logo.svg?w=600&c=v0.59.26#w100) |[**The Payment Consultant**](thepaymentconsultant/)|`thepaymentconsultant`| 
 |![thorpayments](https://static.openfintech.io/payment_providers/thorpayments/logo.png?w=600&c=v0.59.26#w100) |[**Thor Payments**](thorpayments/)|`thorpayments`| 
 |![tinkoff](https://static.openfintech.io/payment_providers/tinkoff/logo.svg?w=600&c=v0.59.26#w100) |[**Tinkoff**](tinkoff/)|`tinkoff`| 

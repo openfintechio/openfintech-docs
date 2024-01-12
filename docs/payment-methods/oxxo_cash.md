@@ -1,6 +1,6 @@
 
 # OXXO 
-![oxxo_cash](https://static.openfintech.io/payment_methods/oxxo_cash/logo.svg?w=400&c=v0.59.26#w200)  
+![oxxo_cash](https://static.openfintech.io/payment_methods/oxxo_cash/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `oxxo_cash` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![oxxo_cash](https://static.openfintech.io/payment_methods/oxxo_cash/logo.svg?w=400&c=v0.59.26#w200)  
+![oxxo_cash](https://static.openfintech.io/payment_methods/oxxo_cash/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/oxxo_cash/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/oxxo_cash/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![oxxo_cash](https://static.openfintech.io/payment_methods/oxxo_cash/icon.svg?w=278&c=v0.59.26#w100)  
+![oxxo_cash](https://static.openfintech.io/payment_methods/oxxo_cash/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/oxxo_cash/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/oxxo_cash/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -36,7 +36,7 @@ The list of [Payment Services](/payment-services/) based on the _OXXO_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![oxxo_cash](https://static.openfintech.io/payment_methods/oxxo_cash/icon.svg?w=278&c=v0.59.26#w100) |[oxxo_cash_mxn_hpp](/payment-services/oxxo_cash_mxn_hpp/)|`oxxo_cash_mxn_hpp`| 
+|![oxxo_cash](https://static.openfintech.io/payment_methods/oxxo_cash/icon.png?w=278&c=v0.59.26#w100) |[oxxo_cash_mxn_hpp](/payment-services/oxxo_cash_mxn_hpp/)|`oxxo_cash_mxn_hpp`| 
  
 
 ## Payment Providers 

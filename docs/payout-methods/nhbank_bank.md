@@ -38,7 +38,7 @@ The list of [Payout Services](/payout-services/) based on the _Nonghyup Bank_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![nhbank_bank](https://static.openfintech.io/payout_methods/nhbank_bank/icon.svg?w=278&c=v0.59.26#w40) |[nhbank_bank_krw](/payout-services/nhbank_bank_krw/)|`nhbank_bank_krw`| 
+|![nhbank_bank](https://static.openfintech.io/payout_methods/nhbank_bank/icon.png?w=278&c=v0.59.26#w40) |[nhbank_bank_krw](/payout-services/nhbank_bank_krw/)|`nhbank_bank_krw`| 
  
 
 ## JSON Object 

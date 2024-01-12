@@ -318,7 +318,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![pay2kassa](https://static.openfintech.io/payment_providers/pay2kassa/icon.svg?w=278&c=v0.59.26#w100) |[Pay2Kassa](/payment-providers/pay2kassa/)|`pay2kassa`| 
 |![easypayru](https://static.openfintech.io/payment_providers/easypayru/icon.svg?w=278&c=v0.59.26#w100) |[EasyPayRU](/payment-providers/easypayru/)|`easypayru`| 
 |![pspgate](https://static.openfintech.io/payment_providers/pspgate/icon.png?w=278&c=v0.59.26#w100) |[PSPGate](/payment-providers/pspgate/)|`pspgate`| 
-|![trustpayments](https://static.openfintech.io/payment_providers/trustpayments/icon.svg?w=278&c=v0.59.26#w100) |[Trust Payments](/payment-providers/trustpayments/)|`trustpayments`| 
+|![trustpayments](https://static.openfintech.io/payment_providers/trustpayments/icon.png?w=278&c=v0.59.26#w100) |[Trust Payments](/payment-providers/trustpayments/)|`trustpayments`| 
 |![concordpay](https://static.openfintech.io/payment_providers/concordpay/icon.png?w=278&c=v0.59.26#w100) |[Concord Pay](/payment-providers/concordpay/)|`concordpay`| 
 |![easytransfer](https://static.openfintech.io/payment_providers/easytransfer/icon.svg?w=278&c=v0.59.26#w100) |[EasyTransfer](/payment-providers/easytransfer/)|`easytransfer`| 
 |![thorpayments](https://static.openfintech.io/payment_providers/thorpayments/icon.png?w=278&c=v0.59.26#w100) |[Thor Payments](/payment-providers/thorpayments/)|`thorpayments`| 
@@ -346,7 +346,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![unlimco](https://static.openfintech.io/payment_providers/unlimco/icon.svg?w=278&c=v0.59.26#w100) |[Unlimco](/payment-providers/unlimco/)|`unlimco`| 
 |![constantpos](https://static.openfintech.io/payment_providers/constantpos/icon.svg?w=278&c=v0.59.26#w100) |[Constantpos](/payment-providers/constantpos/)|`constantpos`| 
 |![globaltransactioncharge](https://static.openfintech.io/payment_providers/globaltransactioncharge/icon.svg?w=278&c=v0.59.26#w100) |[GlobalTransactionCharge](/payment-providers/globaltransactioncharge/)|`globaltransactioncharge`| 
-|![bzpay](https://static.openfintech.io/payment_providers/bzpay/icon.svg?w=278&c=v0.59.26#w100) |[BZPAY](/payment-providers/bzpay/)|`bzpay`| 
+|![bzpay](https://static.openfintech.io/payment_providers/bzpay/icon.png?w=278&c=v0.59.26#w100) |[BZPAY](/payment-providers/bzpay/)|`bzpay`| 
 |![procardpay](https://static.openfintech.io/payment_providers/procardpay/icon.png?w=278&c=v0.59.26#w100) |[Procard.Pay](/payment-providers/procardpay/)|`procardpay`| 
 |![stepfourpay](https://static.openfintech.io/payment_providers/stepfourpay/icon.svg?w=278&c=v0.59.26#w100) |[Step4Pay](/payment-providers/stepfourpay/)|`stepfourpay`| 
 |![magicpayments](https://static.openfintech.io/payment_providers/magicpayments/icon.svg?w=278&c=v0.59.26#w100) |[Magic Payments](/payment-providers/magicpayments/)|`magicpayments`| 
@@ -418,7 +418,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![finhub](https://static.openfintech.io/payment_providers/finhub/icon.png?w=278&c=v0.59.26#w100) |[FinHub](/payment-providers/finhub/)|`finhub`| 
 |![crederes](https://static.openfintech.io/payment_providers/crederes/icon.svg?w=278&c=v0.59.26#w100) |[Crederes](/payment-providers/crederes/)|`crederes`| 
 |![payes](https://static.openfintech.io/payment_providers/payes/icon.png?w=278&c=v0.59.26#w100) |[Payes](/payment-providers/payes/)|`payes`| 
-|![thenoy](https://static.openfintech.io/payment_providers/thenoy/icon.svg?w=278&c=v0.59.26#w100) |[THENOY](/payment-providers/thenoy/)|`thenoy`| 
+|![thenoy](https://static.openfintech.io/payment_providers/thenoy/icon.png?w=278&c=v0.59.26#w100) |[THENOY](/payment-providers/thenoy/)|`thenoy`| 
 |![securepaycard](https://static.openfintech.io/payment_providers/securepaycard/icon.svg?w=278&c=v0.59.26#w100) |[Securepaycard](/payment-providers/securepaycard/)|`securepaycard`| 
 |![aps](https://static.openfintech.io/payment_providers/aps/icon.svg?w=278&c=v0.59.26#w100) |[APS](/payment-providers/aps/)|`aps`| 
 |![webpays](https://static.openfintech.io/payment_providers/webpays/icon.png?w=278&c=v0.59.26#w100) |[WebPays](/payment-providers/webpays/)|`webpays`| 
@@ -462,7 +462,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![addonpayments](https://static.openfintech.io/payment_providers/addonpayments/icon.svg?w=278&c=v0.59.26#w100) |[AddonPayments](/payment-providers/addonpayments/)|`addonpayments`| 
 |![pionpay](https://static.openfintech.io/payment_providers/pionpay/icon.png?w=278&c=v0.59.26#w100) |[PionPay](/payment-providers/pionpay/)|`pionpay`| 
 |![libernetix](https://static.openfintech.io/payment_providers/libernetix/icon.svg?w=278&c=v0.59.26#w100) |[Libernetix](/payment-providers/libernetix/)|`libernetix`| 
-|![paymecrypto](https://static.openfintech.io/payment_providers/paymecrypto/icon.svg?w=278&c=v0.59.26#w100) |[PaymeCrypto](/payment-providers/paymecrypto/)|`paymecrypto`| 
+|![paymecrypto](https://static.openfintech.io/payment_providers/paymecrypto/icon.png?w=278&c=v0.59.26#w100) |[PaymeCrypto](/payment-providers/paymecrypto/)|`paymecrypto`| 
 |![epro](https://static.openfintech.io/payment_providers/epro/icon.svg?w=278&c=v0.59.26#w100) |[E-PRO](/payment-providers/epro/)|`epro`| 
 |![paytonegate](https://static.openfintech.io/payment_providers/paytonegate/icon.svg?w=278&c=v0.59.26#w100) |[PaytoneGate](/payment-providers/paytonegate/)|`paytonegate`| 
 |![pinpay](https://static.openfintech.io/payment_providers/pinpay/icon.png?w=278&c=v0.59.26#w100) |[PinPay](/payment-providers/pinpay/)|`pinpay`| 

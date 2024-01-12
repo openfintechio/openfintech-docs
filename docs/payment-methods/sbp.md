@@ -59,7 +59,7 @@ The list of [Payment Providers](/payment-providers/) that support the _SBP_
 |![connpay](https://static.openfintech.io/payment_providers/connpay/icon.png?w=278&c=v0.59.26#w100) |[ConnPay](/payment-providers/connpay/)|`connpay`| 
 |![sbpay](https://static.openfintech.io/payment_providers/sbpay/icon.png?w=278&c=v0.59.26#w100) |[SBPay](/payment-providers/sbpay/)|`sbpay`| 
 |![antrpay](https://static.openfintech.io/payment_providers/antrpay/icon.png?w=278&c=v0.59.26#w100) |[Antrpay](/payment-providers/antrpay/)|`antrpay`| 
-|![paymecrypto](https://static.openfintech.io/payment_providers/paymecrypto/icon.svg?w=278&c=v0.59.26#w100) |[PaymeCrypto](/payment-providers/paymecrypto/)|`paymecrypto`| 
+|![paymecrypto](https://static.openfintech.io/payment_providers/paymecrypto/icon.png?w=278&c=v0.59.26#w100) |[PaymeCrypto](/payment-providers/paymecrypto/)|`paymecrypto`| 
 |![freepayment](https://static.openfintech.io/payment_providers/freepayment/icon.png?w=278&c=v0.59.26#w100) |[FreePayment](/payment-providers/freepayment/)|`freepayment`| 
 |![payforu](https://static.openfintech.io/payment_providers/payforu/icon.png?w=278&c=v0.59.26#w100) |[PayForU](/payment-providers/payforu/)|`payforu`| 
  

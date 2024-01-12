@@ -22,10 +22,10 @@ https://static.openfintech.io/payment_methods/ecocash/logo.png?w=400&c=v0.59.26#
 ```  
 
 ### Icon 
-![ecocash](https://static.openfintech.io/payment_methods/ecocash/icon.svg?w=278&c=v0.59.26#w100)  
+![ecocash](https://static.openfintech.io/payment_methods/ecocash/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/ecocash/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/ecocash/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payout Services 

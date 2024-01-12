@@ -1,6 +1,6 @@
 
 # KIWOOM SECURITIES CO LTD 
-![kiwoom_bank](https://static.openfintech.io/vendors/kiwoom_bank/logo.svg?w=400&c=v0.59.26#w200)  
+![kiwoom_bank](https://static.openfintech.io/vendors/kiwoom_bank/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,10 +22,10 @@
 
 ### Logo 
  
-![kiwoom_bank](https://static.openfintech.io/vendors/kiwoom_bank/logo.svg?w=400&c=v0.59.26#w200)  
+![kiwoom_bank](https://static.openfintech.io/vendors/kiwoom_bank/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/kiwoom_bank/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/kiwoom_bank/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 

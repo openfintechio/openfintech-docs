@@ -24,10 +24,10 @@ https://static.openfintech.io/payment_methods/vodafone_pay/logo.svg?w=400&c=v0.5
 ```  
 
 ### Icon 
-![vodafone_pay](https://static.openfintech.io/payment_methods/vodafone_pay/icon.svg?w=278&c=v0.59.26#w100)  
+![vodafone_pay](https://static.openfintech.io/payment_methods/vodafone_pay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/vodafone_pay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/vodafone_pay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -36,7 +36,7 @@ The list of [Payment Services](/payment-services/) based on the _Vodafone Pay_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![vodafone_pay](https://static.openfintech.io/payment_methods/vodafone_pay/icon.svg?w=278&c=v0.59.26#w100) |[vodafone_pay_ghs_hpp](/payment-services/vodafone_pay_ghs_hpp/)|`vodafone_pay_ghs_hpp`| 
+|![vodafone_pay](https://static.openfintech.io/payment_methods/vodafone_pay/icon.png?w=278&c=v0.59.26#w100) |[vodafone_pay_ghs_hpp](/payment-services/vodafone_pay_ghs_hpp/)|`vodafone_pay_ghs_hpp`| 
  
 
 ## Payment Providers 

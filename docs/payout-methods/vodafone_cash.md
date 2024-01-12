@@ -22,10 +22,10 @@ https://static.openfintech.io/payment_methods/vodafone_cash/logo.svg?w=400&c=v0.
 ```  
 
 ### Icon 
-![vodafone_cash](https://static.openfintech.io/payment_methods/vodafone_cash/icon.svg?w=278&c=v0.59.26#w100)  
+![vodafone_cash](https://static.openfintech.io/payment_methods/vodafone_cash/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/vodafone_cash/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/vodafone_cash/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payout Services 

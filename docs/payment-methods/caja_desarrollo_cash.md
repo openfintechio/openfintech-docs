@@ -1,6 +1,6 @@
 
 # Caja Desarrollo 
-![caja_desarrollo_cash](https://static.openfintech.io/payment_methods/caja_desarrollo_cash/logo.svg?w=400&c=v0.59.26#w200)  
+![caja_desarrollo_cash](https://static.openfintech.io/payment_methods/caja_desarrollo_cash/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `caja_desarrollo_cash` 
@@ -17,17 +17,17 @@
 ## Images 
 
 ### Logo 
-![caja_desarrollo_cash](https://static.openfintech.io/payment_methods/caja_desarrollo_cash/logo.svg?w=400&c=v0.59.26#w200)  
+![caja_desarrollo_cash](https://static.openfintech.io/payment_methods/caja_desarrollo_cash/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/caja_desarrollo_cash/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/caja_desarrollo_cash/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
-![caja_desarrollo_cash](https://static.openfintech.io/payment_methods/caja_desarrollo_cash/icon.svg?w=278&c=v0.59.26#w100)  
+![caja_desarrollo_cash](https://static.openfintech.io/payment_methods/caja_desarrollo_cash/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/caja_desarrollo_cash/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/caja_desarrollo_cash/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -36,7 +36,7 @@ The list of [Payment Services](/payment-services/) based on the _Caja Desarrollo
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![caja_desarrollo_cash](https://static.openfintech.io/payment_methods/caja_desarrollo_cash/icon.svg?w=278&c=v0.59.26#w100) |[caja_desarrollo_cash_gtq_hpp](/payment-services/caja_desarrollo_cash_gtq_hpp/)|`caja_desarrollo_cash_gtq_hpp`| 
+|![caja_desarrollo_cash](https://static.openfintech.io/payment_methods/caja_desarrollo_cash/icon.png?w=278&c=v0.59.26#w100) |[caja_desarrollo_cash_gtq_hpp](/payment-services/caja_desarrollo_cash_gtq_hpp/)|`caja_desarrollo_cash_gtq_hpp`| 
  
 
 ## Payment Providers 

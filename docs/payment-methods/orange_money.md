@@ -26,10 +26,10 @@ https://static.openfintech.io/payment_methods/orange_money/logo.png?w=400&c=v0.5
 ```  
 
 ### Icon 
-![orange_money](https://static.openfintech.io/payment_methods/orange_money/icon.svg?w=278&c=v0.59.26#w100)  
+![orange_money](https://static.openfintech.io/payment_methods/orange_money/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/orange_money/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/orange_money/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Services 
@@ -38,7 +38,7 @@ The list of [Payment Services](/payment-services/) based on the _Orange Money_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![orange_money](https://static.openfintech.io/payment_methods/orange_money/icon.svg?w=278&c=v0.59.26#w100) |[orange_money_xaf_hpp](/payment-services/orange_money_xaf_hpp/)|`orange_money_xaf_hpp`| 
+|![orange_money](https://static.openfintech.io/payment_methods/orange_money/icon.png?w=278&c=v0.59.26#w100) |[orange_money_xaf_hpp](/payment-services/orange_money_xaf_hpp/)|`orange_money_xaf_hpp`| 
  
 
 ## Payment Providers 
