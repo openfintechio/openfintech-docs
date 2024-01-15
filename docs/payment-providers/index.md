@@ -910,6 +910,7 @@
 |![vppay](https://static.openfintech.io/payment_providers/vppay/logo.svg?w=600&c=v0.59.26#w100) |[**VPPay**](vppay/)|`vppay`| 
 |![vtcpay](https://static.openfintech.io/payment_providers/vtcpay/logo.png?w=600&c=v0.59.26#w100) |[**VTC Pay**](vtcpay/)|`vtcpay`| 
 || **W** ||
+|![wallet378](https://static.openfintech.io/payment_providers/wallet378/logo.png?w=600&c=v0.59.26#w100) |[**Wallet378**](wallet378/)|`wallet378`| 
 |![walletone](https://static.openfintech.io/payment_providers/walletone/logo.svg?w=600&c=v0.59.26#w100) |[**Wallet One**](walletone/)|`walletone`| 
 |![walletto](https://static.openfintech.io/payment_providers/walletto/logo.svg?w=600&c=v0.59.26#w100) |[**Walletto**](walletto/)|`walletto`| 
 |![walpay](https://static.openfintech.io/payment_providers/walpay/logo.png?w=600&c=v0.59.26#w100) |[**WalPay**](walpay/)|`walpay`| 

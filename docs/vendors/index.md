@@ -2161,6 +2161,7 @@
 |![vv-obmen.ru](https://static.openfintech.io/vendors/vv-obmen.ru/logo.svg?w=600&c=v0.59.26#w200) |[**vv-obmen.ru**](vv-obmen.ru/)|`vv-obmen.ru`| 
 |![vvvgiftcard](https://static.openfintech.io/vendors/vvvgiftcard/logo.png?w=600&c=v0.59.26#w200) |[**VVV Giftcard**](vvvgiftcard/)|`vvvgiftcard`| 
 || **W** ||
+|![wallet378](https://static.openfintech.io/vendors/wallet378/logo.png?w=600&c=v0.59.26#w200) |[**Wallet378**](wallet378/)|`wallet378`| 
 |![wallet_one](https://static.openfintech.io/vendors/wallet_one/logo.svg?w=600&c=v0.59.26#w200) |[**W1**](wallet_one/)|`wallet_one`| 
 |![walletone](https://static.openfintech.io/vendors/walletone/logo.png?w=600&c=v0.59.26#w200) |[**Wallet One**](walletone/)|`walletone`| 
 |![walletonecheckout](https://static.openfintech.io/vendors/walletonecheckout/logo.png?w=600&c=v0.59.26#w200) |[**Wallet One**](walletonecheckout/)|`walletonecheckout`| 
