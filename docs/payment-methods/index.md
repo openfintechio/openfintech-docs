@@ -193,6 +193,7 @@
 |![china_postal_savings_bank](https://static.openfintech.io/payment_methods/china_postal_savings_bank/logo.png?w=400&c=v0.59.26#w200) |[**China Postal Savings Bank**](china_postal_savings_bank/)|`china_postal_savings_bank`| 
 |![china_union_pay](https://static.openfintech.io/payment_methods/china_union_pay/logo.svg?w=400&c=v0.59.26#w200) |[**China Union Pay**](china_union_pay/)|`china_union_pay`| 
 |![chinaunionpay](https://static.openfintech.io/payment_methods/chinaunionpay/logo.svg?w=400&c=v0.59.26#w200) |[**China UnionPay**](chinaunionpay/)|`chinaunionpay`| 
+|![cib_smart_wallet](https://static.openfintech.io/payment_methods/cib_smart_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**CIB Smart Wallet**](cib_smart_wallet/)|`cib_smart_wallet`| 
 |![ciberpay](https://static.openfintech.io/payment_methods/ciberpay/logo.png?w=400&c=v0.59.26#w200) |[**Ciber Pay**](ciberpay/)|`ciberpay`| 
 |![cifrograd](https://static.openfintech.io/payment_methods/cifrograd/logo.png?w=400&c=v0.59.26#w200) |[**Cifrograd**](cifrograd/)|`cifrograd`| 
 |![cimb_bank](https://static.openfintech.io/payment_methods/cimb_bank/logo.png?w=400&c=v0.59.26#w200) |[**CIMB Bank Vietnam Limited**](cimb_bank/)|`cimb_bank`| 
@@ -270,6 +271,7 @@
 |![erstebank](https://static.openfintech.io/payment_methods/erstebank/logo.png?w=400&c=v0.59.26#w200) |[**Erste Bank**](erstebank/)|`erstebank`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](ethereum/)|`ethereum`| 
 |![ethereum_classic](https://static.openfintech.io/payment_methods/ethereum_classic/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum Classic**](ethereum_classic/)|`ethereum_classic`| 
+|![etisalat_cash](https://static.openfintech.io/payment_methods/etisalat_cash/logo.svg?w=400&c=v0.59.26#w200) |[**Etisalat Cash**](etisalat_cash/)|`etisalat_cash`| 
 |![euroset](https://static.openfintech.io/payment_methods/euroset/logo.png?w=400&c=v0.59.26#w200) |[**Euroset**](euroset/)|`euroset`| 
 |![euteller](https://static.openfintech.io/payment_methods/euteller/logo.png?w=400&c=v0.59.26#w200) |[**Euteller**](euteller/)|`euteller`| 
 |![everi](https://static.openfintech.io/payment_methods/everi/logo.png?w=400&c=v0.59.26#w200) |[**Everi**](everi/)|`everi`| 

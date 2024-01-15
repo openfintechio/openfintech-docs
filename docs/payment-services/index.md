@@ -392,6 +392,7 @@
 |![China Minsheng Bank](https://static.openfintech.io/payment_methods/china_minsheng_bank/logo.png?w=400&c=v0.59.26#w200) |[**China Minsheng Bank**](/payment-methods/china_minsheng_bank/)|[`china_minsheng_bank_cny_hpp`](china_minsheng_bank_cny_hpp/)| 
 |![China Postal Savings Bank](https://static.openfintech.io/payment_methods/china_postal_savings_bank/logo.png?w=400&c=v0.59.26#w200) |[**China Postal Savings Bank**](/payment-methods/china_postal_savings_bank/)|[`china_postal_savings_bank_cny_hpp`](china_postal_savings_bank_cny_hpp/)| 
 |![China Union Pay](https://static.openfintech.io/payment_methods/china_union_pay/logo.svg?w=400&c=v0.59.26#w200) |[**China Union Pay**](/payment-methods/china_union_pay/)|[`china_union_pay_cny_hpp`](china_union_pay_cny_hpp/)| 
+|![CIB Smart Wallet](https://static.openfintech.io/payment_methods/cib_smart_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**CIB Smart Wallet**](/payment-methods/cib_smart_wallet/)|[`cib_smart_wallet_egp_hpp`](cib_smart_wallet_egp_hpp/)| 
 |![CIMB Bank (FPX)](https://static.openfintech.io/payment_methods/cimb_bank_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**CIMB Bank (FPX)**](/payment-methods/cimb_bank_fpx/)|[`cimb_bank_fpx_myr_hpp`](cimb_bank_fpx_myr_hpp/)| 
 |![CIMB Bank Vietnam Limited](https://static.openfintech.io/payment_methods/cimb_bank/logo.png?w=400&c=v0.59.26#w200) |[**CIMB Bank Vietnam Limited**](/payment-methods/cimb_bank/)|[`cimb_bank_myr_hpp`](cimb_bank_myr_hpp/)| 
 |![CIMB Bank Vietnam Limited](https://static.openfintech.io/payment_methods/cimb_bank/logo.png?w=400&c=v0.59.26#w200) |[**CIMB Bank Vietnam Limited**](/payment-methods/cimb_bank/)|[`cimb_bank_vnd_hpp`](cimb_bank_vnd_hpp/)| 
@@ -485,6 +486,7 @@
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_uah_hpp`](ethereum_uah_hpp/)| 
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_usd_hpp`](ethereum_usd_hpp/)| 
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_usdt_hpp`](ethereum_usdt_hpp/)| 
+|![Etisalat Cash](https://static.openfintech.io/payment_methods/etisalat_cash/logo.svg?w=400&c=v0.59.26#w200) |[**Etisalat Cash**](/payment-methods/etisalat_cash/)|[`etisalat_cash_egp_hpp`](etisalat_cash_egp_hpp/)| 
 |![Euroset](https://static.openfintech.io/payment_methods/euroset/logo.png?w=400&c=v0.59.26#w200) |[**Euroset**](/payment-methods/euroset/)|[`euroset_rub_hpp`](euroset_rub_hpp/)| 
 |![EVERRICH Postal Savings and Insurance Bank](https://static.openfintech.io/payment_methods/everrich_postal_savings_and_insurance_bank/logo.svg?w=400&c=v0.59.26#w200) |[**EVERRICH Postal Savings and Insurance Bank**](/payment-methods/everrich_postal_savings_and_insurance_bank/)|[`everrich_postal_savings_and_insurance_bank_krw_hpp`](everrich_postal_savings_and_insurance_bank_krw_hpp/)| 
 |![Exim Bank Qr](https://static.openfintech.io/payment_methods/exim_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Exim Bank Qr**](/payment-methods/exim_bank_qr/)|[`exim_bank_qr_vnd_invoice`](exim_bank_qr_vnd_invoice/)| 
@@ -1294,6 +1296,7 @@
 |![VNPAY QR](https://static.openfintech.io/payment_methods/vnpay_qr/logo.png?w=400&c=v0.59.26#w200) |[**VNPAY QR**](/payment-methods/vnpay_qr/)|[`vnpay_qr_vnd_hpp`](vnpay_qr_vnd_hpp/)| 
 |![Vodacom](https://static.openfintech.io/payment_methods/vodacom/logo.png?w=400&c=v0.59.26#w200) |[**Vodacom**](/payment-methods/vodacom/)|[`vodacom_tzs_hpp`](vodacom_tzs_hpp/)| 
 |![Vodacom](https://static.openfintech.io/payment_methods/vodacom/logo.png?w=400&c=v0.59.26#w200) |[**Vodacom**](/payment-methods/vodacom/)|[`vodacom_tzs_invoice`](vodacom_tzs_invoice/)| 
+|![Vodafone Cash](https://static.openfintech.io/payment_methods/vodafone_cash/logo.svg?w=400&c=v0.59.26#w200) |[**Vodafone Cash**](/payment-methods/vodafone_cash/)|[`vodafone_cash_egp_hpp`](vodafone_cash_egp_hpp/)| 
 |![Vodafone Cash](https://static.openfintech.io/payment_methods/vodafone_cash/logo.svg?w=400&c=v0.59.26#w200) |[**Vodafone Cash**](/payment-methods/vodafone_cash/)|[`vodafone_cash_ghs_hpp`](vodafone_cash_ghs_hpp/)| 
 |![Vodafone-Mpesa](https://static.openfintech.io/payment_methods/vodafone_mpesa/logo.png?w=400&c=v0.59.26#w200) |[**Vodafone-Mpesa**](/payment-methods/vodafone_mpesa/)|[`vodafone_mpesa_egp_hpp`](vodafone_mpesa_egp_hpp/)| 
 |![Vodafone Pay](https://static.openfintech.io/payment_methods/vodafone_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Vodafone Pay**](/payment-methods/vodafone_pay/)|[`vodafone_pay_ghs_hpp`](vodafone_pay_ghs_hpp/)| 

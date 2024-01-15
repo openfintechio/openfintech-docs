@@ -1566,6 +1566,7 @@
 |![paymentz](https://static.openfintech.io/vendors/paymentz/logo.png?w=600&c=v0.59.26#w200) |[**Paymentz**](paymentz/)|`paymentz`| 
 |![paymer](https://static.openfintech.io/vendors/paymer/logo.svg?w=600&c=v0.59.26#w200) |[**Paymer**](paymer/)|`paymer`| 
 |![paymill](https://static.openfintech.io/vendors/paymill/logo.png?w=600&c=v0.59.26#w200) |[**PAYMILL**](paymill/)|`paymill`| 
+|![paymob](https://static.openfintech.io/vendors/paymob/logo.png?w=600&c=v0.59.26#w200) |[**Paymob**](paymob/)|`paymob`| 
 |![paymtech](https://static.openfintech.io/vendors/paymtech/logo.svg?w=600&c=v0.59.26#w200) |[**Paymtech**](paymtech/)|`paymtech`| 
 |![paymundo](https://static.openfintech.io/vendors/paymundo/logo.png?w=600&c=v0.59.26#w200) |[**Paymundo**](paymundo/)|`paymundo`| 
 |![paynearme](https://static.openfintech.io/vendors/paynearme/logo.png?w=600&c=v0.59.26#w200) |[**PayNearMe**](paynearme/)|`paynearme`| 

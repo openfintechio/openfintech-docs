@@ -630,6 +630,7 @@
 |![paymentwall](https://static.openfintech.io/payment_providers/paymentwall/logo.svg?w=600&c=v0.59.26#w100) |[**Paymentwall**](paymentwall/)|`paymentwall`| 
 |![paymentz](https://static.openfintech.io/payment_providers/paymentz/logo.png?w=600&c=v0.59.26#w100) |[**Paymentz**](paymentz/)|`paymentz`| 
 |![paymill](https://static.openfintech.io/payment_providers/paymill/logo.png?w=600&c=v0.59.26#w100) |[**PAYMILL**](paymill/)|`paymill`| 
+|![paymob](https://static.openfintech.io/payment_providers/paymob/logo.png?w=600&c=v0.59.26#w100) |[**Paymob**](paymob/)|`paymob`| 
 |![paymtech](https://static.openfintech.io/payment_providers/paymtech/logo.svg?w=600&c=v0.59.26#w100) |[**Paymtech**](paymtech/)|`paymtech`| 
 |![paymundo](https://static.openfintech.io/payment_providers/paymundo/logo.png?w=600&c=v0.59.26#w100) |[**Paymundo**](paymundo/)|`paymundo`| 
 |![paynetsecure](https://static.openfintech.io/payment_providers/paynetsecure/logo.png?w=600&c=v0.59.26#w100) |[**PayNetSecure**](paynetsecure/)|`paynetsecure`| 

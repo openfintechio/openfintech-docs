@@ -44,6 +44,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Vodafone 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
+|![paymob](https://static.openfintech.io/payment_providers/paymob/icon.png?w=278&c=v0.59.26#w100) |[Paymob](/payment-providers/paymob/)|`paymob`| 
  
 
 ## JSON Object 
