@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Humo card
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![paycos](https://static.openfintech.io/payment_providers/paycos/icon.svg?w=278&c=v0.59.26#w100) |[PAYCOS](/payment-providers/paycos/)|`paycos`| 
 |![pay2play](https://static.openfintech.io/payment_providers/pay2play/icon.svg?w=278&c=v0.59.26#w100) |[pay2play](/payment-providers/pay2play/)|`pay2play`| 
  
 

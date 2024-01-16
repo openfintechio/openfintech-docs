@@ -1,5 +1,5 @@
 
-# T. Garanti Bankası A.Ş. 
+# Garanti BBVA 
 ![garanti_bbva](https://static.openfintech.io/payment_methods/garanti_bbva/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,11 +7,11 @@
  
 **Name:** 
  
-:	[EN] T. Garanti Bankası A.Ş. 
-:	[RU] T. Garanti Bankası A.Ş. 
-:	[UK] T. Garanti Bankası A.Ş. 
+:	[EN] Garanti BBVA 
+:	[RU] Garanti BBVA 
+:	[UK] Garanti BBVA 
  
-**Category:** `bank_transfer` 
+**Category:** `invoice_payment` 
  
 
 ## Images 
@@ -30,18 +30,18 @@ https://static.openfintech.io/payment_methods/garanti_bbva/logo.png?w=400&c=v0.5
 https://static.openfintech.io/payment_methods/garanti_bbva/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _T. Garanti Bankası A.Ş._ 
+The list of [Payment Services](/payment-services/) based on the _Garanti BBVA_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![garanti_bbva](https://static.openfintech.io/payout_methods/garanti_bbva/icon.png?w=278&c=v0.59.26#w40) |[garanti_bbva_try](/payout-services/garanti_bbva_try/)|`garanti_bbva_try`| 
+|![garanti_bbva](https://static.openfintech.io/payment_methods/garanti_bbva/icon.png?w=278&c=v0.59.26#w100) |[garanti_bbva_try_invoice](/payment-services/garanti_bbva_try_invoice/)|`garanti_bbva_try_invoice`| 
  
 
 ## Payment Providers 
  
-The list of [Payment Providers](/payment-providers/) that support the _T. Garanti Bankası A.Ş._ 
+The list of [Payment Providers](/payment-providers/) that support the _Garanti BBVA_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -55,12 +55,12 @@ The list of [Payment Providers](/payment-providers/) that support the _T. Garant
   "code":"garanti_bbva",
   "vendor":null,
   "name":{
-    "en":"T. Garanti Bankas\u0131 A.\u015e.",
-    "ru":"T. Garanti Bankas\u0131 A.\u015e.",
-    "uk":"T. Garanti Bankas\u0131 A.\u015e."
+    "en":"Garanti BBVA",
+    "ru":"Garanti BBVA",
+    "uk":"Garanti BBVA"
   },
   "description":null,
   "countries":null,
-  "category":"bank_transfer"
+  "category":"invoice_payment"
 }
 ```  

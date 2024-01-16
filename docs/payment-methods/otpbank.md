@@ -39,6 +39,15 @@ https://static.openfintech.io/payment_methods/otpbank/logo.png?w=400&c=v0.59.26#
 https://static.openfintech.io/payment_methods/otpbank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _OTP Bank_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![otpbank](https://static.openfintech.io/payment_methods/otpbank/icon.png?w=278&c=v0.59.26#w100) |[otpbank_uah_invoice](/payment-services/otpbank_uah_invoice/)|`otpbank_uah_invoice`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _OTP Bank_ 
@@ -46,6 +55,7 @@ The list of [Payment Providers](/payment-providers/) that support the _OTP Bank_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
+|![paycos](https://static.openfintech.io/payment_providers/paycos/icon.svg?w=278&c=v0.59.26#w100) |[PAYCOS](/payment-providers/paycos/)|`paycos`| 
  
 
 ## JSON Object 

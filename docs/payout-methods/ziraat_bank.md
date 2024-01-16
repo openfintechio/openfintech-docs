@@ -42,6 +42,15 @@ The list of [Payout Services](/payout-services/) based on the _Ziraat Bank_
 |![ziraat_bank](https://static.openfintech.io/payout_methods/ziraat_bank/icon.png?w=278&c=v0.59.26#w40) |[ziraat_bank_dkk](/payout-services/ziraat_bank_dkk/)|`ziraat_bank_dkk`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Ziraat Bank_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![paycos](https://static.openfintech.io/payment_providers/paycos/icon.svg?w=278&c=v0.59.26#w100) |[PAYCOS](/payment-providers/paycos/)|`paycos`| 
+ 
+
 ## JSON Object 
 
 ```json

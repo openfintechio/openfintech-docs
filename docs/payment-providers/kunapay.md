@@ -14,6 +14,10 @@
 :	[RU] Kuna Pay 
 :	[UK] Kuna Pay 
  
+**Description:** 
+ 
+: [EN] KUNA Pay is a flexible crypto payment platform. It enables companies to accept payments in a wide range of cryptocurrencies, including Tether, Ethereum, Bitcoin, and more. With KUNA Pay, you can easily set up the acceptance of crypto payments. Optionally, business have an ability to receive an API to integrate on a company’s website. The benefits also include a security guarantee and a support team available at all times. Moreover, businesses are provided with the ability to convert the accepted payments into EUR or Tether as soon as they have crypto received. 
+ 
 
 ## Images 
 
@@ -56,7 +60,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"kunapay",
-  "description":null,
+  "description":{
+    "en":"KUNA Pay is a flexible crypto payment platform. It enables companies to accept payments in a wide range of cryptocurrencies, including Tether, Ethereum, Bitcoin, and more. With KUNA Pay, you can easily set up the acceptance of crypto payments. Optionally, business have an ability to receive an API to integrate on a company\u2019s website. The benefits also include a security guarantee and a support team available at all times. Moreover, businesses are provided with the ability to convert the accepted payments into EUR or Tether as soon as they have crypto received."
+  },
   "vendor":"kunapay",
   "categories":null,
   "countries":null,

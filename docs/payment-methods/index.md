@@ -54,6 +54,7 @@
 |![aura](https://static.openfintech.io/payment_methods/aura/logo.png?w=400&c=v0.59.26#w200) |[**Aura**](aura/)|`aura`| 
 |![australia_and_new_zealand_banking_group](https://static.openfintech.io/payment_methods/australia_and_new_zealand_banking_group/logo.svg?w=400&c=v0.59.26#w200) |[**Australia and New Zealand Banking Group**](australia_and_new_zealand_banking_group/)|`australia_and_new_zealand_banking_group`| 
 |![axis_bank](https://static.openfintech.io/payment_methods/axis_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Axis Bank**](axis_bank/)|`axis_bank`| 
+|![azer_turk_bank](https://static.openfintech.io/payment_methods/azer_turk_bank/logo.svg?w=400&c=v0.59.26#w200) |[**AzərTurkBank**](azer_turk_bank/)|`azer_turk_bank`| 
 || **B** ||
 |![bac_a_bank](https://static.openfintech.io/payment_methods/bac_a_bank/logo.png?w=400&c=v0.59.26#w200) |[**North Asia Commercial Joint Stock Bank**](bac_a_bank/)|`bac_a_bank`| 
 |![banamex](https://static.openfintech.io/payment_methods/banamex/logo.svg?w=400&c=v0.59.26#w200) |[**Banamex**](banamex/)|`banamex`| 
@@ -170,6 +171,7 @@
 |![capayable](https://static.openfintech.io/payment_methods/capayable/logo.png?w=400&c=v0.59.26#w200) |[**Capayable**](capayable/)|`capayable`| 
 |![card](https://static.openfintech.io/payment_methods/card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](card/)|`card`| 
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](card_transfer/)|`card_transfer`| 
+|![card_transfer_aggregated](https://static.openfintech.io/payment_methods/card_transfer_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**Сard Transfer Aggregated**](card_transfer_aggregated/)|`card_transfer_aggregated`| 
 |![card_transfer_humo](https://static.openfintech.io/payment_methods/card_transfer_humo/logo.svg?w=400&c=v0.59.26#w200) |[**Humo card transfer**](card_transfer_humo/)|`card_transfer_humo`| 
 |![card_transfer_uzcard](https://static.openfintech.io/payment_methods/card_transfer_uzcard/logo.svg?w=400&c=v0.59.26#w200) |[**Uzcard card transfer**](card_transfer_uzcard/)|`card_transfer_uzcard`| 
 |![carrierbilling](https://static.openfintech.io/payment_methods/carrierbilling/logo.png?w=400&c=v0.59.26#w200) |[**Carrier Billing**](carrierbilling/)|`carrierbilling`| 
@@ -297,6 +299,7 @@
 |![fups](https://static.openfintech.io/payment_methods/fups/logo.png?w=400&c=v0.59.26#w200) |[**Fups**](fups/)|`fups`| 
 |![futurepay](https://static.openfintech.io/payment_methods/futurepay/logo.png?w=400&c=v0.59.26#w200) |[**FuturePay**](futurepay/)|`futurepay`| 
 || **G** ||
+|![garanti_bbva](https://static.openfintech.io/payment_methods/garanti_bbva/logo.png?w=400&c=v0.59.26#w200) |[**Garanti BBVA**](garanti_bbva/)|`garanti_bbva`| 
 |![gcash](https://static.openfintech.io/payment_methods/gcash/logo.png?w=400&c=v0.59.26#w200) |[**GCash**](gcash/)|`gcash`| 
 |![gcashwallet](https://static.openfintech.io/payment_methods/gcashwallet/logo.png?w=400&c=v0.59.26#w200) |[**GCASH**](gcashwallet/)|`gcashwallet`| 
 |![gemoney](https://static.openfintech.io/payment_methods/gemoney/logo.png?w=400&c=v0.59.26#w200) |[**GE Money**](gemoney/)|`gemoney`| 
@@ -364,6 +367,7 @@
 |![interac_aggregated](https://static.openfintech.io/payment_methods/interac_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**Interac Aggregated**](interac_aggregated/)|`interac_aggregated`| 
 |![interbank](https://static.openfintech.io/payment_methods/interbank/logo.png?w=400&c=v0.59.26#w200) |[**Interbank**](interbank/)|`interbank`| 
 |![interkassa](https://static.openfintech.io/payment_methods/interkassa/logo.svg?w=400&c=v0.59.26#w200) |[**Interkassa**](interkassa/)|`interkassa`| 
+|![international_bank_of_azerbaijan](https://static.openfintech.io/payment_methods/international_bank_of_azerbaijan/logo.svg?w=400&c=v0.59.26#w200) |[**Bank ABB**](international_bank_of_azerbaijan/)|`international_bank_of_azerbaijan`| 
 |![ivrbilling](https://static.openfintech.io/payment_methods/ivrbilling/logo.png?w=400&c=v0.59.26#w200) |[**IVR Billing**](ivrbilling/)|`ivrbilling`| 
 || **J** ||
 |![j_k_bank_india](https://static.openfintech.io/payment_methods/j_k_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Jammu & Kashmir Bank**](j_k_bank_india/)|`j_k_bank_india`| 
@@ -375,6 +379,7 @@
 |![jyskebank](https://static.openfintech.io/payment_methods/jyskebank/logo.png?w=400&c=v0.59.26#w200) |[**Jyske Bank**](jyskebank/)|`jyskebank`| 
 || **K** ||
 |![kanata_sahakari_bank](https://static.openfintech.io/payment_methods/kanata_sahakari_bank/logo.png?w=400&c=v0.59.26#w200) |[**Janata Sahakari Bank**](kanata_sahakari_bank/)|`kanata_sahakari_bank`| 
+|![kapital_bank](https://static.openfintech.io/payment_methods/kapital_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Kapital Bank**](kapital_bank/)|`kapital_bank`| 
 |![karnataka_bank](https://static.openfintech.io/payment_methods/karnataka_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Karnataka Bank**](karnataka_bank/)|`karnataka_bank`| 
 |![karurvysya_bank_india](https://static.openfintech.io/payment_methods/karurvysya_bank_india/logo.svg?w=400&c=v0.59.26#w200) |[**Karur Vysya Bank**](karurvysya_bank_india/)|`karurvysya_bank_india`| 
 |![kasikorn_bank](https://static.openfintech.io/payment_methods/kasikorn_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Kasikorn Bank**](kasikorn_bank/)|`kasikorn_bank`| 
@@ -407,6 +412,7 @@
 |![lansforsakringar](https://static.openfintech.io/payment_methods/lansforsakringar/logo.png?w=400&c=v0.59.26#w200) |[**Länsförsäkringar**](lansforsakringar/)|`lansforsakringar`| 
 |![latam](https://static.openfintech.io/payment_methods/latam/logo.svg?w=400&c=v0.59.26#w200) |[**Latam**](latam/)|`latam`| 
 |![laxmi_vilas_bank](https://static.openfintech.io/payment_methods/laxmi_vilas_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Lakshmi Vilas Bank**](laxmi_vilas_bank/)|`laxmi_vilas_bank`| 
+|![leobank](https://static.openfintech.io/payment_methods/leobank/logo.svg?w=400&c=v0.59.26#w200) |[**Leobank**](leobank/)|`leobank`| 
 |![libertybank](https://static.openfintech.io/payment_methods/libertybank/logo.png?w=400&c=v0.59.26#w200) |[**Liberty Bank**](libertybank/)|`libertybank`| 
 |![lider](https://static.openfintech.io/payment_methods/lider/logo.png?w=400&c=v0.59.26#w200) |[**Leader**](lider/)|`lider`| 
 |![lider_cash](https://static.openfintech.io/payment_methods/lider_cash/logo.png?w=400&c=v0.59.26#w200) |[**Lider**](lider_cash/)|`lider_cash`| 
@@ -416,6 +422,7 @@
 |![liqpay_wallet](https://static.openfintech.io/payment_methods/liqpay_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**LiqPay wallet**](liqpay_wallet/)|`liqpay_wallet`| 
 |![litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200) |[**Litecoin**](litecoin/)|`litecoin`| 
 || **M** ||
+|![m10](https://static.openfintech.io/payment_methods/m10/logo.svg?w=400&c=v0.59.26#w200) |[**m10**](m10/)|`m10`| 
 |![m_pesa](https://static.openfintech.io/payment_methods/m_pesa/logo.png?w=400&c=v0.59.26#w200) |[**M-Pesa**](m_pesa/)|`m_pesa`| 
 |![mach](https://static.openfintech.io/payment_methods/mach/logo.png?w=400&c=v0.59.26#w200) |[**Mach**](mach/)|`mach`| 
 |![magna](https://static.openfintech.io/payment_methods/magna/logo.svg?w=400&c=v0.59.26#w200) |[**Magna**](magna/)|`magna`| 
@@ -592,6 +599,7 @@
 |![public_bank_fpx](https://static.openfintech.io/payment_methods/public_bank_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**Public Bank (FPX)**](public_bank_fpx/)|`public_bank_fpx`| 
 |![public_bank_qr](https://static.openfintech.io/payment_methods/public_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Public Bank Qr**](public_bank_qr/)|`public_bank_qr`| 
 |![public_bank_vietnam](https://static.openfintech.io/payment_methods/public_bank_vietnam/logo.png?w=400&c=v0.59.26#w200) |[**Public Bank Vietnam**](public_bank_vietnam/)|`public_bank_vietnam`| 
+|![pumb](https://static.openfintech.io/payment_methods/pumb/logo.png?w=400&c=v0.59.26#w200) |[**PUMB**](pumb/)|`pumb`| 
 |![punjab_national_bank](https://static.openfintech.io/payment_methods/punjab_national_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Punjab National Bank**](punjab_national_bank/)|`punjab_national_bank`| 
 |![punjab_sind_bank](https://static.openfintech.io/payment_methods/punjab_sind_bank/logo.png?w=400&c=v0.59.26#w200) |[**Punjab & Sind Bank**](punjab_sind_bank/)|`punjab_sind_bank`| 
 |![pvcom_bank](https://static.openfintech.io/payment_methods/pvcom_bank/logo.png?w=400&c=v0.59.26#w200) |[**Vietnam Public Joint Stock Commercial Bank**](pvcom_bank/)|`pvcom_bank`| 
@@ -601,6 +609,7 @@
 |![qnb_finansbank](https://static.openfintech.io/payment_methods/qnb_finansbank/logo.svg?w=400&c=v0.59.26#w200) |[**QNB Finansbank**](qnb_finansbank/)|`qnb_finansbank`| 
 |![qqpay](https://static.openfintech.io/payment_methods/qqpay/logo.svg?w=400&c=v0.59.26#w200) |[**QQPay**](qqpay/)|`qqpay`| 
 || **R** ||
+|![rabitabank](https://static.openfintech.io/payment_methods/rabitabank/logo.svg?w=400&c=v0.59.26#w200) |[**Rabitabank**](rabitabank/)|`rabitabank`| 
 |![rabobank](https://static.openfintech.io/payment_methods/rabobank/logo.png?w=400&c=v0.59.26#w200) |[**Rabobank**](rabobank/)|`rabobank`| 
 |![raggett_limited_paycos](https://static.openfintech.io/payment_methods/raggett_limited_paycos/logo.svg?w=400&c=v0.59.26#w200) |[**RAGGETT LIMITED Paycos**](raggett_limited_paycos/)|`raggett_limited_paycos`| 
 |![raiffeisenbank](https://static.openfintech.io/payment_methods/raiffeisenbank/logo.svg?w=400&c=v0.59.26#w200) |[**Raiffeisen Bank**](raiffeisenbank/)|`raiffeisenbank`| 
@@ -646,6 +655,7 @@
 |![sea_bank](https://static.openfintech.io/payment_methods/sea_bank/logo.png?w=400&c=v0.59.26#w200) |[**Southeast Asia Commercial Joint Stock Bank**](sea_bank/)|`sea_bank`| 
 |![sebbank](https://static.openfintech.io/payment_methods/sebbank/logo.png?w=400&c=v0.59.26#w200) |[**SEB Bank**](sebbank/)|`sebbank`| 
 |![sencillito](https://static.openfintech.io/payment_methods/sencillito/logo.svg?w=400&c=v0.59.26#w200) |[**Sencillito**](sencillito/)|`sencillito`| 
+|![sensebank](https://static.openfintech.io/payment_methods/sensebank/logo.png?w=400&c=v0.59.26#w200) |[**Sense Bank**](sensebank/)|`sensebank`| 
 |![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Sepa Transfer**](sepa_transfer/)|`sepa_transfer`| 
 |![sepacredittransfer](https://static.openfintech.io/payment_methods/sepacredittransfer/logo.svg?w=400&c=v0.59.26#w200) |[**SEPA Credit Transfer**](sepacredittransfer/)|`sepacredittransfer`| 
 |![sepadirectdebit](https://static.openfintech.io/payment_methods/sepadirectdebit/logo.svg?w=400&c=v0.59.26#w200) |[**SEPA Direct Debit**](sepadirectdebit/)|`sepadirectdebit`| 
@@ -732,6 +742,7 @@
 |![truemoney](https://static.openfintech.io/payment_methods/truemoney/logo.png?w=400&c=v0.59.26#w200) |[**True Money Wallet**](truemoney/)|`truemoney`| 
 |![trustly](https://static.openfintech.io/payment_methods/trustly/logo.svg?w=400&c=v0.59.26#w200) |[**Trustly**](trustly/)|`trustly`| 
 |![trustly_paynplay](https://static.openfintech.io/payment_methods/trustly_paynplay/logo.svg?w=400&c=v0.59.26#w200) |[**Trustly Pay N Play**](trustly_paynplay/)|`trustly_paynplay`| 
+|![turkiye_finans_bank](https://static.openfintech.io/payment_methods/turkiye_finans_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Turkiye Finans**](turkiye_finans_bank/)|`turkiye_finans_bank`| 
 || **U** ||
 |![uatp](https://static.openfintech.io/payment_methods/uatp/logo.png?w=400&c=v0.59.26#w200) |[**UATP**](uatp/)|`uatp`| 
 |![uax](https://static.openfintech.io/payment_methods/uax/logo.svg?w=400&c=v0.59.26#w200) |[**UAX**](uax/)|`uax`| 
@@ -739,6 +750,7 @@
 |![ujjivan_small_finance_bank](https://static.openfintech.io/payment_methods/ujjivan_small_finance_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Ujjivan Small Finance Bank**](ujjivan_small_finance_bank/)|`ujjivan_small_finance_bank`| 
 |![ukash](https://static.openfintech.io/payment_methods/ukash/logo.png?w=400&c=v0.59.26#w200) |[**Ukash**](ukash/)|`ukash`| 
 |![ukrsibbank](https://static.openfintech.io/payment_methods/ukrsibbank/logo.png?w=400&c=v0.59.26#w200) |[**Ukrsib Bank**](ukrsibbank/)|`ukrsibbank`| 
+|![unibank](https://static.openfintech.io/payment_methods/unibank/logo.svg?w=400&c=v0.59.26#w200) |[**Unibank**](unibank/)|`unibank`| 
 |![unicredit](https://static.openfintech.io/payment_methods/unicredit/logo.png?w=400&c=v0.59.26#w200) |[**UniCredit**](unicredit/)|`unicredit`| 
 |![union_bank_of_india](https://static.openfintech.io/payment_methods/union_bank_of_india/logo.svg?w=400&c=v0.59.26#w200) |[**Union Bank of India**](union_bank_of_india/)|`union_bank_of_india`| 
 |![unionpay_qr](https://static.openfintech.io/payment_methods/unionpay_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Unionpay_QR**](unionpay_qr/)|`unionpay_qr`| 
@@ -825,6 +837,7 @@
 |![zen_wallet](https://static.openfintech.io/payment_methods/zen_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**Zen wallet**](zen_wallet/)|`zen_wallet`| 
 |![zimpler](https://static.openfintech.io/payment_methods/zimpler/logo.png?w=400&c=v0.59.26#w200) |[**Zimpler**](zimpler/)|`zimpler`| 
 |![zipmark](https://static.openfintech.io/payment_methods/zipmark/logo.png?w=400&c=v0.59.26#w200) |[**Zipmark**](zipmark/)|`zipmark`| 
+|![ziraat_bank](https://static.openfintech.io/payment_methods/ziraat_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Ziraat Bankası**](ziraat_bank/)|`ziraat_bank`| 
  
 
 # Payment Method Categories 

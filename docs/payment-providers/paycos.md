@@ -40,6 +40,25 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
+|![monobank](https://static.openfintech.io/payment_methods/monobank/icon.png?w=278&c=v0.59.26#w100) |[monobank](/payment-methods/monobank/)|`monobank`| 
+|![otpbank](https://static.openfintech.io/payment_methods/otpbank/icon.png?w=278&c=v0.59.26#w100) |[otpbank](/payment-methods/otpbank/)|`otpbank`| 
+|![pumb](https://static.openfintech.io/payment_methods/pumb/icon.png?w=278&c=v0.59.26#w100) |[pumb](/payment-methods/pumb/)|`pumb`| 
+|![sensebank](https://static.openfintech.io/payment_methods/sensebank/icon.png?w=278&c=v0.59.26#w100) |[sensebank](/payment-methods/sensebank/)|`sensebank`| 
+|![privatbank](https://static.openfintech.io/payment_methods/privatbank/icon.svg?w=278&c=v0.59.26#w100) |[privatbank](/payment-methods/privatbank/)|`privatbank`| 
+|![card_transfer_aggregated](https://static.openfintech.io/payment_methods/card_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_aggregated](/payment-methods/card_transfer_aggregated/)|`card_transfer_aggregated`| 
+|![ziraat_bank](https://static.openfintech.io/payment_methods/ziraat_bank/icon.svg?w=278&c=v0.59.26#w100) |[ziraat_bank](/payment-methods/ziraat_bank/)|`ziraat_bank`| 
+|![garanti_bbva](https://static.openfintech.io/payment_methods/garanti_bbva/icon.png?w=278&c=v0.59.26#w100) |[garanti_bbva](/payment-methods/garanti_bbva/)|`garanti_bbva`| 
+|![turkiye_finans_bank](https://static.openfintech.io/payment_methods/turkiye_finans_bank/icon.svg?w=278&c=v0.59.26#w100) |[turkiye_finans_bank](/payment-methods/turkiye_finans_bank/)|`turkiye_finans_bank`| 
+|![papara](https://static.openfintech.io/payment_methods/papara/icon.svg?w=278&c=v0.59.26#w100) |[papara](/payment-methods/papara/)|`papara`| 
+|![leobank](https://static.openfintech.io/payment_methods/leobank/icon.svg?w=278&c=v0.59.26#w100) |[leobank](/payment-methods/leobank/)|`leobank`| 
+|![rabitabank](https://static.openfintech.io/payment_methods/rabitabank/icon.svg?w=278&c=v0.59.26#w100) |[rabitabank](/payment-methods/rabitabank/)|`rabitabank`| 
+|![kapital_bank](https://static.openfintech.io/payment_methods/kapital_bank/icon.svg?w=278&c=v0.59.26#w100) |[kapital_bank](/payment-methods/kapital_bank/)|`kapital_bank`| 
+|![international_bank_of_azerbaijan](https://static.openfintech.io/payment_methods/international_bank_of_azerbaijan/icon.svg?w=278&c=v0.59.26#w100) |[international_bank_of_azerbaijan](/payment-methods/international_bank_of_azerbaijan/)|`international_bank_of_azerbaijan`| 
+|![unibank](https://static.openfintech.io/payment_methods/unibank/icon.svg?w=278&c=v0.59.26#w100) |[unibank](/payment-methods/unibank/)|`unibank`| 
+|![azer_turk_bank](https://static.openfintech.io/payment_methods/azer_turk_bank/icon.svg?w=278&c=v0.59.26#w100) |[azer_turk_bank](/payment-methods/azer_turk_bank/)|`azer_turk_bank`| 
+|![m10](https://static.openfintech.io/payment_methods/m10/icon.svg?w=278&c=v0.59.26#w100) |[m10](/payment-methods/m10/)|`m10`| 
+|![card_transfer_uzcard](https://static.openfintech.io/payment_methods/card_transfer_uzcard/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_uzcard](/payment-methods/card_transfer_uzcard/)|`card_transfer_uzcard`| 
+|![card_transfer_humo](https://static.openfintech.io/payment_methods/card_transfer_humo/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_humo](/payment-methods/card_transfer_humo/)|`card_transfer_humo`| 
  
 
 ## JSON Object 
@@ -52,7 +71,26 @@ The list of supported [Payment Methods](/payment-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    "payment_card"
+    "payment_card",
+    "monobank",
+    "otpbank",
+    "pumb",
+    "sensebank",
+    "privatbank",
+    "card_transfer_aggregated",
+    "ziraat_bank",
+    "garanti_bbva",
+    "turkiye_finans_bank",
+    "papara",
+    "leobank",
+    "rabitabank",
+    "kapital_bank",
+    "international_bank_of_azerbaijan",
+    "unibank",
+    "azer_turk_bank",
+    "m10",
+    "card_transfer_uzcard",
+    "card_transfer_humo"
   ],
   "payout_method":null,
   "metadata":null,
