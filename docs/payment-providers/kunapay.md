@@ -1,5 +1,5 @@
 
-# Kuna Pay 
+# KUNA Pay 
 ![kunapay](https://static.openfintech.io/payment_providers/kunapay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Kuna Pay 
-:	[RU] Kuna Pay 
-:	[UK] Kuna Pay 
+:	[EN] KUNA Pay 
+:	[RU] KUNA Pay 
+:	[UK] KUNA Pay 
  
 **Description:** 
  
@@ -74,9 +74,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"Kuna Pay",
-    "ru":"Kuna Pay",
-    "uk":"Kuna Pay"
+    "en":"KUNA Pay",
+    "ru":"KUNA Pay",
+    "uk":"KUNA Pay"
   }
 }
 ```  

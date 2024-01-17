@@ -16,7 +16,7 @@
 :	[RU] Банковский перевод по токену 
 :	[UK] Банківський переказ по токену 
  
-**Amount limits:** from `1` to `999999` JPY 
+**Amount limits:** from `1` to `7000000` JPY 
 
 ## Fields 
 
@@ -224,6 +224,6 @@
     }
   ],
   "amount_min":1,
-  "amount_max":999999
+  "amount_max":7000000
 }
 ```  
