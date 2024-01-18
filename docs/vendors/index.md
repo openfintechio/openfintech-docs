@@ -844,6 +844,7 @@
 |![globalcloudpay](https://static.openfintech.io/vendors/globalcloudpay/logo.png?w=600&c=v0.59.26#w200) |[**GlobalCloudPay**](globalcloudpay/)|`globalcloudpay`| 
 |![globalcollect](https://static.openfintech.io/vendors/globalcollect/logo.png?w=600&c=v0.59.26#w200) |[**GlobalCollect**](globalcollect/)|`globalcollect`| 
 |![globalmoney](https://static.openfintech.io/vendors/globalmoney/logo.svg?w=600&c=v0.59.26#w200) |[**GlobalMoney**](globalmoney/)|`globalmoney`| 
+|![globalotc](https://static.openfintech.io/vendors/globalotc/logo.svg?w=600&c=v0.59.26#w200) |[**GlobalOTC**](globalotc/)|`globalotc`| 
 |![globalpayltd](https://static.openfintech.io/vendors/globalpayltd/logo.png?w=600&c=v0.59.26#w200) |[**GlobalPay LTD**](globalpayltd/)|`globalpayltd`| 
 |![globalpayments](https://static.openfintech.io/vendors/globalpayments/logo.png?w=600&c=v0.59.26#w200) |[**Global Payments**](globalpayments/)|`globalpayments`| 
 |![globaltransactioncharge](https://static.openfintech.io/vendors/globaltransactioncharge/logo.svg?w=600&c=v0.59.26#w200) |[**GlobalTransactionCharge**](globaltransactioncharge/)|`globaltransactioncharge`| 
