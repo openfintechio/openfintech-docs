@@ -1063,6 +1063,7 @@
 |![komercnibanka](https://static.openfintech.io/vendors/komercnibanka/logo.png?w=600&c=v0.59.26#w200) |[**Komercni Banka**](komercnibanka/)|`komercnibanka`| 
 |![kontakt](https://static.openfintech.io/vendors/kontakt/logo.svg?w=600&c=v0.59.26#w200) |[**Контакт**](kontakt/)|`kontakt`| 
 |![kookmin_bank](https://static.openfintech.io/vendors/kookmin_bank/logo.png?w=600&c=v0.59.26#w200) |[**Kookmin Bank**](kookmin_bank/)|`kookmin_bank`| 
+|![kora](https://static.openfintech.io/vendors/kora/logo.svg?w=600&c=v0.59.26#w200) |[**Kora**](kora/)|`kora`| 
 |![korea_foss_bank](https://static.openfintech.io/vendors/korea_foss_bank/logo.png?w=600&c=v0.59.26#w200) |[**Korea Foss Securities**](korea_foss_bank/)|`korea_foss_bank`| 
 |![korea_post_bank](https://static.openfintech.io/vendors/korea_post_bank/logo.png?w=600&c=v0.59.26#w200) |[**Post Bank**](korea_post_bank/)|`korea_post_bank`| 
 |![kortapay](https://static.openfintech.io/vendors/kortapay/logo.png?w=600&c=v0.59.26#w200) |[**Korta Pay**](kortapay/)|`kortapay`| 

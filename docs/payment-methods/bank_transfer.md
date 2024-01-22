@@ -42,6 +42,8 @@ The list of [Payment Services](/payment-services/) based on the _Bank Transfer_
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_myr_hpp](/payment-services/bank_transfer_myr_hpp/)|`bank_transfer_myr_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_idr_hpp](/payment-services/bank_transfer_idr_hpp/)|`bank_transfer_idr_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_ngn_hpp](/payment-services/bank_transfer_ngn_hpp/)|`bank_transfer_ngn_hpp`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_ghs_hpp](/payment-services/bank_transfer_ghs_hpp/)|`bank_transfer_ghs_hpp`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_kes_hpp](/payment-services/bank_transfer_kes_hpp/)|`bank_transfer_kes_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_zar_hpp](/payment-services/bank_transfer_zar_hpp/)|`bank_transfer_zar_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_inr_hpp](/payment-services/bank_transfer_inr_hpp/)|`bank_transfer_inr_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_jpy_hpp](/payment-services/bank_transfer_jpy_hpp/)|`bank_transfer_jpy_hpp`| 
@@ -60,6 +62,8 @@ The list of [Payment Services](/payment-services/) based on the _Bank Transfer_
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_krw_hpp](/payment-services/bank_transfer_krw_hpp/)|`bank_transfer_krw_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_eur_invoice](/payment-services/bank_transfer_eur_invoice/)|`bank_transfer_eur_invoice`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_ngn_invoice](/payment-services/bank_transfer_ngn_invoice/)|`bank_transfer_ngn_invoice`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_ghs_invoice](/payment-services/bank_transfer_ghs_invoice/)|`bank_transfer_ghs_invoice`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_kes_invoice](/payment-services/bank_transfer_kes_invoice/)|`bank_transfer_kes_invoice`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_try_invoice](/payment-services/bank_transfer_try_invoice/)|`bank_transfer_try_invoice`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_aed_invoice](/payment-services/bank_transfer_aed_invoice/)|`bank_transfer_aed_invoice`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_mxn_invoice](/payment-services/bank_transfer_mxn_invoice/)|`bank_transfer_mxn_invoice`| 
@@ -104,6 +108,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![clearjunction](https://static.openfintech.io/payment_providers/clearjunction/icon.svg?w=278&c=v0.59.26#w100) |[Clear Junction](/payment-providers/clearjunction/)|`clearjunction`| 
 |![paystage](https://static.openfintech.io/payment_providers/paystage/icon.png?w=278&c=v0.59.26#w100) |[PayStage](/payment-providers/paystage/)|`paystage`| 
 |![pay4fungo](https://static.openfintech.io/payment_providers/pay4fungo/icon.png?w=278&c=v0.59.26#w100) |[Pay4funGo](/payment-providers/pay4fungo/)|`pay4fungo`| 
+|![kora](https://static.openfintech.io/payment_providers/kora/icon.svg?w=278&c=v0.59.26#w100) |[Kora](/payment-providers/kora/)|`kora`| 
  
 
 ## JSON Object 

@@ -38,6 +38,7 @@ The list of [Payment Services](/payment-services/) based on the _Mobile_
 |:---:|:---:|:---:| 
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_egp_hpp](/payment-services/mobile_egp_hpp/)|`mobile_egp_hpp`| 
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_kes_hpp](/payment-services/mobile_kes_hpp/)|`mobile_kes_hpp`| 
+|![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_ghs_hpp](/payment-services/mobile_ghs_hpp/)|`mobile_ghs_hpp`| 
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_ugx_hpp](/payment-services/mobile_ugx_hpp/)|`mobile_ugx_hpp`| 
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_inr_hpp](/payment-services/mobile_inr_hpp/)|`mobile_inr_hpp`| 
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_rub_hpp](/payment-services/mobile_rub_hpp/)|`mobile_rub_hpp`| 
@@ -55,6 +56,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Mobile_
 |![changecoins](https://static.openfintech.io/payment_providers/changecoins/icon.png?w=278&c=v0.59.26#w100) |[Сhangecoins Pay](/payment-providers/changecoins/)|`changecoins`| 
 |![bitexpro](https://static.openfintech.io/payment_providers/bitexpro/icon.png?w=278&c=v0.59.26#w100) |[BitexPRO](/payment-providers/bitexpro/)|`bitexpro`| 
 |![payport](https://static.openfintech.io/payment_providers/payport/icon.svg?w=278&c=v0.59.26#w100) |[PayPort](/payment-providers/payport/)|`payport`| 
+|![kora](https://static.openfintech.io/payment_providers/kora/icon.svg?w=278&c=v0.59.26#w100) |[Kora](/payment-providers/kora/)|`kora`| 
  
 
 ## JSON Object 
