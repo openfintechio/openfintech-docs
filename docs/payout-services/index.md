@@ -70,6 +70,7 @@
 |![Aika Online](https://static.openfintech.io/payout_methods/aika-online/logo.png?w=400&c=v0.59.26#w24) |[**Aika Online**](/payout-methods/aika-online/)|[`aika-online_uah`](aika-online_uah/)|`UAH`| 
 |![AiRNET (Kharkiv, pl. Dnipro)](https://static.openfintech.io/payout_methods/airnet-m-kharkiv-m-dnipro/logo.png?w=400&c=v0.59.26#w24) |[**AiRNET (Kharkiv, pl. Dnipro)**](/payout-methods/airnet-m-kharkiv-m-dnipro/)|[`airnet-m-kharkiv-m-dnipro_uah`](airnet-m-kharkiv-m-dnipro_uah/)|`UAH`| 
 |![AIRPORT](https://static.openfintech.io/payout_methods/airport/logo.png?w=400&c=v0.59.26#w24) |[**AIRPORT**](/payout-methods/airport/)|[`airport_uah`](airport_uah/)|`UAH`| 
+|![Airtel Money](https://static.openfintech.io/payout_methods/airtel_money/logo.png?w=400&c=v0.59.26#w24) |[**Airtel Money**](/payout-methods/airtel_money/)|[`airtel_money_ghs`](airtel_money_ghs/)|`GHS`| 
 |![Airtel Money](https://static.openfintech.io/payout_methods/airtel_money/logo.png?w=400&c=v0.59.26#w24) |[**Airtel Money**](/payout-methods/airtel_money/)|[`airtel_money_kes`](airtel_money_kes/)|`KES`| 
 |![Airtel Money](https://static.openfintech.io/payout_methods/airtel_money/logo.png?w=400&c=v0.59.26#w24) |[**Airtel Money**](/payout-methods/airtel_money/)|[`airtel_money_tzs`](airtel_money_tzs/)|`TZS`| 
 |![Airtel Money](https://static.openfintech.io/payout_methods/airtel_money/logo.png?w=400&c=v0.59.26#w24) |[**Airtel Money**](/payout-methods/airtel_money/)|[`airtel_money_ugx`](airtel_money_ugx/)|`UGX`| 
@@ -2041,6 +2042,7 @@
 |![SWIFT](https://static.openfintech.io/payout_methods/swift/logo.svg?w=400&c=v0.59.26#w24) |[**SWIFT**](/payout-methods/swift/)|[`swift_usd`](swift_usd/)|`USD`| 
 |![Sword](https://static.openfintech.io/payout_methods/sword/logo.png?w=400&c=v0.59.26#w24) |[**Sword**](/payout-methods/sword/)|[`sword_uah`](sword_uah/)|`UAH`| 
 ||| **T** ||
+|![T-Kash](https://static.openfintech.io/payout_methods/t_kash/logo.svg?w=400&c=v0.59.26#w24) |[**T-Kash**](/payout-methods/t_kash/)|[`t_kash_kes`](t_kash_kes/)|`KES`| 
 |![Tagpay](https://static.openfintech.io/payout_methods/tagpay/logo.svg?w=400&c=v0.59.26#w24) |[**Tagpay**](/payout-methods/tagpay/)|[`tagpay_ngn`](tagpay_ngn/)|`NGN`| 
 |![Taiko Bank](https://static.openfintech.io/payout_methods/taiko_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Taiko Bank**](/payout-methods/taiko_bank/)|[`taiko_bank_jpy`](taiko_bank_jpy/)|`JPY`| 
 |![Taisho Bank](https://static.openfintech.io/payout_methods/taisho_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Taisho Bank**](/payout-methods/taisho_bank/)|[`taisho_bank_jpy`](taisho_bank_jpy/)|`JPY`| 
@@ -2392,6 +2394,7 @@
 |![Telecomplex (Kiev)](https://static.openfintech.io/payout_methods/telekompleks-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Telecomplex (Kiev)**](/payout-methods/telekompleks-kiev/)|[`telekompleks-kiev_uah`](telekompleks-kiev_uah/)|`UAH`| 
 |![Telesystems of Ukraine (internet)](https://static.openfintech.io/payout_methods/telesistemy-ukrainy-internet/logo.png?w=400&c=v0.59.26#w24) |[**Telesystems of Ukraine (internet)**](/payout-methods/telesistemy-ukrainy-internet/)|[`telesistemy-ukrainy-internet_uah`](telesistemy-ukrainy-internet_uah/)|`UAH`| 
 |![Telesystems of Ukraine (phone / TV)](https://static.openfintech.io/payout_methods/telesistemy-ukrainy-telefon-tv/logo.png?w=400&c=v0.59.26#w24) |[**Telesystems of Ukraine (phone / TV)**](/payout-methods/telesistemy-ukrainy-telefon-tv/)|[`telesistemy-ukrainy-telefon-tv_uah`](telesistemy-ukrainy-telefon-tv_uah/)|`UAH`| 
+|![TELECOM](https://static.openfintech.io/payout_methods/telkom/logo.png?w=400&c=v0.59.26#w24) |[**TELECOM**](/payout-methods/telkom/)|[`telkom_kenya_kes`](telkom_kenya_kes/)|`KES`| 
 |![TELECOM](https://static.openfintech.io/payout_methods/telkom/logo.png?w=400&c=v0.59.26#w24) |[**TELECOM**](/payout-methods/telkom/)|[`telkom_uah`](telkom_uah/)|`UAH`| 
 |![Tenet - the Internet (Nikolaev)](https://static.openfintech.io/payout_methods/tenet-internet-nikolaev/logo.svg?w=400&c=v0.59.26#w24) |[**Tenet - the Internet (Nikolaev)**](/payout-methods/tenet-internet-nikolaev/)|[`tenet-internet-nikolaev_uah`](tenet-internet-nikolaev_uah/)|`UAH`| 
 |![Tenet - Internet (Odessa)](https://static.openfintech.io/payout_methods/tenet-internet-odessa/logo.png?w=400&c=v0.59.26#w24) |[**Tenet - Internet (Odessa)**](/payout-methods/tenet-internet-odessa/)|[`tenet-internet-odessa_uah`](tenet-internet-odessa_uah/)|`UAH`| 

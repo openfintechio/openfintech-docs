@@ -2051,6 +2051,7 @@
 |![swift](https://static.openfintech.io/payout_methods/swift/logo.svg?w=400&c=v0.59.26#w24) |[**SWIFT**](swift/)|`swift`| 
 |![sword](https://static.openfintech.io/payout_methods/sword/logo.png?w=400&c=v0.59.26#w24) |[**Sword**](sword/)|`sword`| 
 || **T** ||
+|![t_kash](https://static.openfintech.io/payout_methods/t_kash/logo.svg?w=400&c=v0.59.26#w24) |[**T-Kash**](t_kash/)|`t_kash`| 
 |![tagpay](https://static.openfintech.io/payout_methods/tagpay/logo.svg?w=400&c=v0.59.26#w24) |[**Tagpay**](tagpay/)|`tagpay`| 
 |![taiko_bank](https://static.openfintech.io/payout_methods/taiko_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Taiko Bank**](taiko_bank/)|`taiko_bank`| 
 |![taisho_bank](https://static.openfintech.io/payout_methods/taisho_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Taisho Bank**](taisho_bank/)|`taisho_bank`| 
@@ -2404,6 +2405,7 @@
 |![telesistemy-ukrainy-internet](https://static.openfintech.io/payout_methods/telesistemy-ukrainy-internet/logo.png?w=400&c=v0.59.26#w24) |[**Telesystems of Ukraine (internet)**](telesistemy-ukrainy-internet/)|`telesistemy-ukrainy-internet`| 
 |![telesistemy-ukrainy-telefon-tv](https://static.openfintech.io/payout_methods/telesistemy-ukrainy-telefon-tv/logo.png?w=400&c=v0.59.26#w24) |[**Telesystems of Ukraine (phone / TV)**](telesistemy-ukrainy-telefon-tv/)|`telesistemy-ukrainy-telefon-tv`| 
 |![telkom](https://static.openfintech.io/payout_methods/telkom/logo.png?w=400&c=v0.59.26#w24) |[**TELECOM**](telkom/)|`telkom`| 
+|![telkom_kenya](https://static.openfintech.io/payout_methods/telkom_kenya/logo.svg?w=400&c=v0.59.26#w24) |[**Telkom**](telkom_kenya/)|`telkom_kenya`| 
 |![tenet-internet-nikolaev](https://static.openfintech.io/payout_methods/tenet-internet-nikolaev/logo.svg?w=400&c=v0.59.26#w24) |[**Tenet - the Internet (Nikolaev)**](tenet-internet-nikolaev/)|`tenet-internet-nikolaev`| 
 |![tenet-internet-odessa](https://static.openfintech.io/payout_methods/tenet-internet-odessa/logo.png?w=400&c=v0.59.26#w24) |[**Tenet - Internet (Odessa)**](tenet-internet-odessa/)|`tenet-internet-odessa`| 
 |![tenet-televidenie-nikolaev](https://static.openfintech.io/payout_methods/tenet-televidenie-nikolaev/logo.svg?w=400&c=v0.59.26#w24) |[**Tenet - Television (Nikolaev)**](tenet-televidenie-nikolaev/)|`tenet-televidenie-nikolaev`| 
