@@ -1757,7 +1757,7 @@
 |![rapipago](https://static.openfintech.io/vendors/rapipago/logo.png?w=600&c=v0.59.26#w200) |[**Rapipago**](rapipago/)|`rapipago`| 
 |![rapyd](https://static.openfintech.io/vendors/rapyd/logo.svg?w=600&c=v0.59.26#w200) |[**Rapyd.net**](rapyd/)|`rapyd`| 
 |![ratepay](https://static.openfintech.io/vendors/ratepay/logo.png?w=600&c=v0.59.26#w200) |[**RatePAY**](ratepay/)|`ratepay`| 
-|![razorpay](https://static.openfintech.io/vendors/razorpay/logo.png?w=600&c=v0.59.26#w200) |[**Razorpay**](razorpay/)|`razorpay`| 
+|![razorpay](https://static.openfintech.io/vendors/razorpay/logo.svg?w=600&c=v0.59.26#w200) |[**Razorpay**](razorpay/)|`razorpay`| 
 |![rbkmoney](https://static.openfintech.io/vendors/rbkmoney/logo.png?w=600&c=v0.59.26#w200) |[**RBK Money**](rbkmoney/)|`rbkmoney`| 
 |![rcbc](https://static.openfintech.io/vendors/rcbc/logo.png?w=600&c=v0.59.26#w200) |[**Rizal Commercial Banking Corporation**](rcbc/)|`rcbc`| 
 |![rcoin](https://static.openfintech.io/vendors/rcoin/logo.svg?w=600&c=v0.59.26#w200) |[**Rcoin**](rcoin/)|`rcoin`| 

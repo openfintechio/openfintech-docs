@@ -1,6 +1,6 @@
 
 # Razorpay 
-![razorpay](https://static.openfintech.io/payment_providers/razorpay/logo.png?w=400&c=v0.59.26#w100)  
+![razorpay](https://static.openfintech.io/payment_providers/razorpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -21,19 +21,29 @@
 
 ### Logo 
  
-![razorpay](https://static.openfintech.io/payment_providers/razorpay/logo.png?w=400&c=v0.59.26#w100)  
+![razorpay](https://static.openfintech.io/payment_providers/razorpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/razorpay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/razorpay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![razorpay](https://static.openfintech.io/payment_providers/razorpay/icon.png?w=278&c=v0.59.26#w100)  
+![razorpay](https://static.openfintech.io/payment_providers/razorpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/razorpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/razorpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
+
+## Payment Methods 
+ 
+The list of supported [Payment Methods](/payment-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi](/payment-methods/upi/)|`upi`| 
+|![bank_transfer_aggregated](https://static.openfintech.io/payment_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_aggregated](/payment-methods/bank_transfer_aggregated/)|`bank_transfer_aggregated`| 
+ 
 
 ## JSON Object 
 
@@ -46,7 +56,10 @@ https://static.openfintech.io/payment_providers/razorpay/icon.png?w=278&c=v0.59.
   "vendor":"razorpay",
   "categories":null,
   "countries":null,
-  "payment_method":null,
+  "payment_method":[
+    "upi",
+    "bank_transfer_aggregated"
+  ],
   "payout_method":null,
   "metadata":{
     "about_payments_code":"razorpay"

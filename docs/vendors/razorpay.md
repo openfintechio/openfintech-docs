@@ -1,6 +1,6 @@
 
 # Razorpay 
-![razorpay](https://static.openfintech.io/vendors/razorpay/logo.png?w=400&c=v0.59.26#w200)  
+![razorpay](https://static.openfintech.io/vendors/razorpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -9,12 +9,17 @@
 **Name:** 
  
 :	[EN] Razorpay 
+:	[RU] Razorpay 
+:	[UK] Razorpay 
  
 **Status:** `active` 
  
 **Description:** 
  
 : [EN]  Razorpay aims to simplify the flow of online payments through a clean, easy-to-use & developer-friendly payment gateway.  
+ 
+**Links:** 
+: website [https://www.razorpay.com/](https://www.razorpay.com/) 
  
 **Address:** 
 street:  India  
@@ -23,18 +28,18 @@ street:  India
 
 ### Logo 
  
-![razorpay](https://static.openfintech.io/vendors/razorpay/logo.png?w=400&c=v0.59.26#w200)  
+![razorpay](https://static.openfintech.io/vendors/razorpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/razorpay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/razorpay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![razorpay](https://static.openfintech.io/vendors/razorpay/icon.png?w=278&c=v0.59.26#w100)  
+![razorpay](https://static.openfintech.io/vendors/razorpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/razorpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/razorpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 
@@ -43,13 +48,17 @@ https://static.openfintech.io/vendors/razorpay/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"razorpay",
   "name":{
-    "en":"Razorpay"
+    "en":"Razorpay",
+    "ru":"Razorpay",
+    "uk":"Razorpay"
   },
   "status":"active",
   "description":{
     "en":" Razorpay aims to simplify the flow of online payments through a clean, easy-to-use & developer-friendly payment gateway. "
   },
-  "links":null,
+  "links":{
+    "website":"https:\/\/www.razorpay.com\/"
+  },
   "countries":null,
   "contacts":null,
   "address":{

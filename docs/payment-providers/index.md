@@ -751,7 +751,7 @@
 |![raiffeisenbank](https://static.openfintech.io/payment_providers/raiffeisenbank/logo.svg?w=600&c=v0.59.26#w100) |[**Raiffeisen Bank**](raiffeisenbank/)|`raiffeisenbank`| 
 |![rapyd](https://static.openfintech.io/payment_providers/rapyd/logo.svg?w=600&c=v0.59.26#w100) |[**Rapyd.net**](rapyd/)|`rapyd`| 
 |![ratepay](https://static.openfintech.io/payment_providers/ratepay/logo.png?w=600&c=v0.59.26#w100) |[**RatePAY**](ratepay/)|`ratepay`| 
-|![razorpay](https://static.openfintech.io/payment_providers/razorpay/logo.png?w=600&c=v0.59.26#w100) |[**Razorpay**](razorpay/)|`razorpay`| 
+|![razorpay](https://static.openfintech.io/payment_providers/razorpay/logo.svg?w=600&c=v0.59.26#w100) |[**Razorpay**](razorpay/)|`razorpay`| 
 |![rbkmoney](https://static.openfintech.io/payment_providers/rbkmoney/logo.png?w=600&c=v0.59.26#w100) |[**RBK Money**](rbkmoney/)|`rbkmoney`| 
 |![realdeposits](https://static.openfintech.io/payment_providers/realdeposits/logo.png?w=600&c=v0.59.26#w100) |[**Real Deposits**](realdeposits/)|`realdeposits`| 
 |![realexpayments](https://static.openfintech.io/payment_providers/realexpayments/logo.png?w=600&c=v0.59.26#w100) |[**Realex Payments**](realexpayments/)|`realexpayments`| 
