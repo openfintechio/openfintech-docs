@@ -50,6 +50,7 @@
 |![alphapaymentscloud](https://static.openfintech.io/payment_providers/alphapaymentscloud/logo.svg?w=600&c=v0.59.26#w100) |[**Alpha Payments Cloud**](alphapaymentscloud/)|`alphapaymentscloud`| 
 |![altapay](https://static.openfintech.io/payment_providers/altapay/logo.png?w=600&c=v0.59.26#w100) |[**AltaPay**](altapay/)|`altapay`| 
 |![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/logo.png?w=600&c=v0.59.26#w100) |[**Alternative Payments**](alternativepayments/)|`alternativepayments`| 
+|![altitudepay](https://static.openfintech.io/payment_providers/altitudepay/logo.svg?w=600&c=v0.59.26#w100) |[**AltitudePay**](altitudepay/)|`altitudepay`| 
 |![altoglobalprocessing](https://static.openfintech.io/payment_providers/altoglobalprocessing/logo.png?w=600&c=v0.59.26#w100) |[**Alto Global Processing**](altoglobalprocessing/)|`altoglobalprocessing`| 
 |![alycepay](https://static.openfintech.io/payment_providers/alycepay/logo.png?w=600&c=v0.59.26#w100) |[**Alycepay**](alycepay/)|`alycepay`| 
 |![amazonpaymentservices](https://static.openfintech.io/payment_providers/amazonpaymentservices/logo.svg?w=600&c=v0.59.26#w100) |[**Amazon Payment Services**](amazonpaymentservices/)|`amazonpaymentservices`| 

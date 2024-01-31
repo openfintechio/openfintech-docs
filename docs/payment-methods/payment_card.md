@@ -516,6 +516,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![inswitch](https://static.openfintech.io/payment_providers/inswitch/icon.png?w=278&c=v0.59.26#w100) |[Inswitch](/payment-providers/inswitch/)|`inswitch`| 
 |![carespay](https://static.openfintech.io/payment_providers/carespay/icon.png?w=278&c=v0.59.26#w100) |[CaresPAY](/payment-providers/carespay/)|`carespay`| 
 |![pylon](https://static.openfintech.io/payment_providers/pylon/icon.svg?w=278&c=v0.59.26#w100) |[Pylon](/payment-providers/pylon/)|`pylon`| 
+|![altitudepay](https://static.openfintech.io/payment_providers/altitudepay/icon.svg?w=278&c=v0.59.26#w100) |[AltitudePay](/payment-providers/altitudepay/)|`altitudepay`| 
 |![paycc](https://static.openfintech.io/payment_providers/paycc/icon.svg?w=278&c=v0.59.26#w100) |[Pay.CC](/payment-providers/paycc/)|`paycc`| 
 |![pavpay](https://static.openfintech.io/payment_providers/pavpay/icon.svg?w=278&c=v0.59.26#w100) |[PavPay](/payment-providers/pavpay/)|`pavpay`| 
 |![kora](https://static.openfintech.io/payment_providers/kora/icon.svg?w=278&c=v0.59.26#w100) |[Kora](/payment-providers/kora/)|`kora`| 

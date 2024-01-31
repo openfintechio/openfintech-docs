@@ -108,6 +108,7 @@
 |![alphapaymentscloud](https://static.openfintech.io/vendors/alphapaymentscloud/logo.png?w=600&c=v0.59.26#w200) |[**Alpha Payments Cloud**](alphapaymentscloud/)|`alphapaymentscloud`| 
 |![altapay](https://static.openfintech.io/vendors/altapay/logo.png?w=600&c=v0.59.26#w200) |[**AltaPay**](altapay/)|`altapay`| 
 |![alternativepayments](https://static.openfintech.io/vendors/alternativepayments/logo.png?w=600&c=v0.59.26#w200) |[**Alternative Payments**](alternativepayments/)|`alternativepayments`| 
+|![altitudepay](https://static.openfintech.io/vendors/altitudepay/logo.svg?w=600&c=v0.59.26#w200) |[**AltitudePay**](altitudepay/)|`altitudepay`| 
 |![altoglobalprocessing](https://static.openfintech.io/vendors/altoglobalprocessing/logo.png?w=600&c=v0.59.26#w200) |[**Alto Global Processing**](altoglobalprocessing/)|`altoglobalprocessing`| 
 |![altynbank](https://static.openfintech.io/vendors/altynbank/logo.svg?w=600&c=v0.59.26#w200) |[**Altyn Bank**](altynbank/)|`altynbank`| 
 |![alycepay](https://static.openfintech.io/vendors/alycepay/logo.png?w=600&c=v0.59.26#w200) |[**Alycepay**](alycepay/)|`alycepay`| 
