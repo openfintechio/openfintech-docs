@@ -37,6 +37,24 @@ https://static.openfintech.io/payment_methods/bancobrasil/logo.png?w=400&c=v0.59
 https://static.openfintech.io/payment_methods/bancobrasil/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Banco do Brasil_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![bancobrasil](https://static.openfintech.io/payment_methods/bancobrasil/icon.png?w=278&c=v0.59.26#w100) |[bancobrasil_brl_hpp](/payment-services/bancobrasil_brl_hpp/)|`bancobrasil_brl_hpp`| 
+ 
+
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Banco do Brasil_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
+ 
+
 ## JSON Object 
 
 ```json

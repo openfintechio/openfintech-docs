@@ -1,19 +1,21 @@
 
-# Boleto Bancario (service) 
-![boleto_bancario_brl_hpp](https://static.openfintech.io/payment_methods/boleto_bancario_brl_hpp/logo.svg?w=400&c=v0.59.26#w200)  
+# Lotericas Voucher based payment method (service) 
+![loterica_brl_hpp](https://static.openfintech.io/payment_methods/loterica_brl_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `boleto_bancario_brl_hpp` 
+**Code:** `loterica_brl_hpp` 
  
-**Method:** `boleto_bancario` 
- [show -->](/payment-methods/boleto_bancario/) 
+**Method:** `loteria` 
+ [show -->](/payment-methods/loteria/) 
  
 **Currency:** `BRL` [show -->](/currencies/BRL/) 
  
 **Name:** 
  
-:	[EN] Boleto Bancario 
+:	[EN] Lotericas Voucher based payment method 
+:	[RU] Lotericas Voucher based payment method 
+:	[UK] Lotericas Voucher based payment method 
  
 **Amount limits:** from `1` to `1000000` BRL 
 
@@ -23,12 +25,12 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`cpf_number`|✗|`string`|`/^[0-9\.\-\/]{1,18}$/`| 
+|`cpf_cnpj_number`|✗|`string`|`/^[0-9\.\-\/]{1,18}$/`| 
  
 
 ### Details 
  
-1. **`cpf_number`** 
+1. **`cpf_cnpj_number`** 
  
 	Type: `string` 
  
@@ -51,13 +53,13 @@
 
 ```json
 {
-  "code":"boleto_bancario_brl_hpp",
+  "code":"loterica_brl_hpp",
   "flow":"hpp",
-  "method":"boleto_bancario",
+  "method":"loteria",
   "currency":"BRL",
   "fields":[
     {
-      "key":"cpf_number",
+      "key":"cpf_cnpj_number",
       "type":"string",
       "regexp":"\/^[0-9\\.\\-\\\/]{1,18}$\/",
       "required":false,
@@ -72,7 +74,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 CPF \u0438\u043b\u0438 CNPJ \u043d\u043e\u043c\u0435\u0440",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c CPF \u0430\u0431\u043e CNPJ \u043d\u043e\u043c\u0435\u0440"
       },
-      "example":"12345678900"
+      "example":"12.345.678\/0001-90"
     }
   ],
   "amount_min":1,

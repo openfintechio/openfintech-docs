@@ -56,6 +56,13 @@ The list of supported [Payment Methods](/payment-methods/)
 |![picpay](https://static.openfintech.io/payment_methods/picpay/icon.svg?w=278&c=v0.59.26#w100) |[picpay](/payment-methods/picpay/)|`picpay`| 
 |![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi](/payment-methods/upi/)|`upi`| 
 |![imps](https://static.openfintech.io/payment_methods/imps/icon.png?w=278&c=v0.59.26#w100) |[imps](/payment-methods/imps/)|`imps`| 
+|![bancobrasil](https://static.openfintech.io/payment_methods/bancobrasil/icon.png?w=278&c=v0.59.26#w100) |[bancobrasil](/payment-methods/bancobrasil/)|`bancobrasil`| 
+|![banco_bradesco](https://static.openfintech.io/payment_methods/banco_bradesco/icon.svg?w=278&c=v0.59.26#w100) |[banco_bradesco](/payment-methods/banco_bradesco/)|`banco_bradesco`| 
+|![banco_caixa](https://static.openfintech.io/payment_methods/banco_caixa/icon.svg?w=278&c=v0.59.26#w100) |[banco_caixa](/payment-methods/banco_caixa/)|`banco_caixa`| 
+|![bancoitau](https://static.openfintech.io/payment_methods/bancoitau/icon.png?w=278&c=v0.59.26#w100) |[bancoitau](/payment-methods/bancoitau/)|`bancoitau`| 
+|![banco_santander](https://static.openfintech.io/payment_methods/banco_santander/icon.png?w=278&c=v0.59.26#w100) |[banco_santander](/payment-methods/banco_santander/)|`banco_santander`| 
+|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario](/payment-methods/boleto_bancario/)|`boleto_bancario`| 
+|![loteria](https://static.openfintech.io/payment_methods/loteria/icon.svg?w=278&c=v0.59.26#w100) |[loteria](/payment-methods/loteria/)|`loteria`| 
  
 
 ## Payout Methods 
@@ -98,7 +105,14 @@ The list of supported [Payout Methods](/payout-methods/)
     "pix",
     "picpay",
     "upi",
-    "imps"
+    "imps",
+    "bancobrasil",
+    "banco_bradesco",
+    "banco_caixa",
+    "bancoitau",
+    "banco_santander",
+    "boleto_bancario",
+    "loteria"
   ],
   "payout_method":[
     "payment_card",

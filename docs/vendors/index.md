@@ -1636,6 +1636,7 @@
 |![paywings](https://static.openfintech.io/vendors/paywings/logo.png?w=600&c=v0.59.26#w200) |[**PayWings**](paywings/)|`paywings`| 
 |![paywise](https://static.openfintech.io/vendors/paywise/logo.png?w=600&c=v0.59.26#w200) |[**PayWise**](paywise/)|`paywise`| 
 |![paywiser](https://static.openfintech.io/vendors/paywiser/logo.png?w=600&c=v0.59.26#w200) |[**PayWiser**](paywiser/)|`paywiser`| 
+|![paywisesolutions](https://static.openfintech.io/vendors/paywisesolutions/logo.png?w=600&c=v0.59.26#w200) |[**PaywiseSolutions**](paywisesolutions/)|`paywisesolutions`| 
 |![paywizard](https://static.openfintech.io/vendors/paywizard/logo.png?w=600&c=v0.59.26#w200) |[**PayWizard**](paywizard/)|`paywizard`| 
 |![payxpert](https://static.openfintech.io/vendors/payxpert/logo.png?w=600&c=v0.59.26#w200) |[**PayXpert**](payxpert/)|`payxpert`| 
 |![payza](https://static.openfintech.io/vendors/payza/logo.png?w=600&c=v0.59.26#w200) |[**Payza**](payza/)|`payza`| 
@@ -1781,6 +1782,7 @@
 |![ria_money_transfer](https://static.openfintech.io/vendors/ria_money_transfer/logo.svg?w=600&c=v0.59.26#w200) |[**Ria Money Transfer**](ria_money_transfer/)|`ria_money_transfer`| 
 |![riamoneytransfer](https://static.openfintech.io/vendors/riamoneytransfer/logo.svg?w=600&c=v0.59.26#w200) |[**Ria Money Transfer**](riamoneytransfer/)|`riamoneytransfer`| 
 |![rietumu](https://static.openfintech.io/vendors/rietumu/logo.png?w=600&c=v0.59.26#w200) |[**Rietumu Banka**](rietumu/)|`rietumu`| 
+|![rivierapay](https://static.openfintech.io/vendors/rivierapay/logo.svg?w=600&c=v0.59.26#w200) |[**RivieraPay**](rivierapay/)|`rivierapay`| 
 |![rivnenska_f_pat_kb_privatbank_m_rivne](https://static.openfintech.io/vendors/rivnenska_f_pat_kb_privatbank_m_rivne/logo.svg?w=600&c=v0.59.26#w200) |[**РІВНЕНСЬКА ФІЛІЯ ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](rivnenska_f_pat_kb_privatbank_m_rivne/)|`rivnenska_f_pat_kb_privatbank_m_rivne`| 
 |![rixty](https://static.openfintech.io/vendors/rixty/logo.png?w=600&c=v0.59.26#w200) |[**Rixty**](rixty/)|`rixty`| 
 |![rizvan-obmen.net](https://static.openfintech.io/vendors/rizvan-obmen.net/logo.svg?w=600&c=v0.59.26#w200) |[**Rizvan-Obmen**](rizvan-obmen.net/)|`rizvan-obmen.net`| 

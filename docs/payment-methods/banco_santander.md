@@ -36,6 +36,7 @@ The list of [Payment Services](/payment-services/) based on the _Banco Santander
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![banco_santander](https://static.openfintech.io/payment_methods/banco_santander/icon.png?w=278&c=v0.59.26#w100) |[banco_santander_brl_hpp](/payment-services/banco_santander_brl_hpp/)|`banco_santander_brl_hpp`| 
 |![banco_santander](https://static.openfintech.io/payment_methods/banco_santander/icon.png?w=278&c=v0.59.26#w100) |[banco_santander_clp_hpp](/payment-services/banco_santander_clp_hpp/)|`banco_santander_clp_hpp`| 
 |![banco_santander](https://static.openfintech.io/payment_methods/banco_santander/icon.png?w=278&c=v0.59.26#w100) |[banco_santander_usd_hpp](/payment-services/banco_santander_usd_hpp/)|`banco_santander_usd_hpp`| 
  
@@ -46,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Banco San
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![payretailers](https://static.openfintech.io/payment_providers/payretailers/icon.svg?w=278&c=v0.59.26#w100) |[PayRetailers](/payment-providers/payretailers/)|`payretailers`| 
  
 

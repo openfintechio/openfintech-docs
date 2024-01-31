@@ -697,6 +697,7 @@
 |![paywings](https://static.openfintech.io/payment_providers/paywings/logo.png?w=600&c=v0.59.26#w100) |[**PayWings**](paywings/)|`paywings`| 
 |![paywise](https://static.openfintech.io/payment_providers/paywise/logo.png?w=600&c=v0.59.26#w100) |[**PayWise**](paywise/)|`paywise`| 
 |![paywiser](https://static.openfintech.io/payment_providers/paywiser/logo.png?w=600&c=v0.59.26#w100) |[**PayWiser**](paywiser/)|`paywiser`| 
+|![paywisesolutions](https://static.openfintech.io/payment_providers/paywisesolutions/logo.png?w=600&c=v0.59.26#w100) |[**PaywiseSolutions**](paywisesolutions/)|`paywisesolutions`| 
 |![paywizard](https://static.openfintech.io/payment_providers/paywizard/logo.png?w=600&c=v0.59.26#w100) |[**PayWizard**](paywizard/)|`paywizard`| 
 |![payxpert](https://static.openfintech.io/payment_providers/payxpert/logo.png?w=600&c=v0.59.26#w100) |[**PayXpert**](payxpert/)|`payxpert`| 
 |![payza](https://static.openfintech.io/payment_providers/payza/logo.png?w=600&c=v0.59.26#w100) |[**Payza**](payza/)|`payza`| 
@@ -765,6 +766,7 @@
 |![remitos](https://static.openfintech.io/payment_providers/remitos/logo.png?w=600&c=v0.59.26#w100) |[**Remitos**](remitos/)|`remitos`| 
 |![revolut](https://static.openfintech.io/payment_providers/revolut/logo.svg?w=600&c=v0.59.26#w100) |[**Revolut**](revolut/)|`revolut`| 
 |![rietumu](https://static.openfintech.io/payment_providers/rietumu/logo.png?w=600&c=v0.59.26#w100) |[**Rietumu Banka**](rietumu/)|`rietumu`| 
+|![rivierapay](https://static.openfintech.io/payment_providers/rivierapay/logo.svg?w=600&c=v0.59.26#w100) |[**RivieraPay**](rivierapay/)|`rivierapay`| 
 |![robokassa](https://static.openfintech.io/payment_providers/robokassa/logo.png?w=600&c=v0.59.26#w100) |[**Robokassa**](robokassa/)|`robokassa`| 
 |![rocketgate](https://static.openfintech.io/payment_providers/rocketgate/logo.png?w=600&c=v0.59.26#w100) |[**RocketGate**](rocketgate/)|`rocketgate`| 
 |![royalpay](https://static.openfintech.io/payment_providers/royalpay/logo.svg?w=600&c=v0.59.26#w100) |[**Royal Pay**](royalpay/)|`royalpay`| 

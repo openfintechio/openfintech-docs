@@ -32,6 +32,7 @@
 |`payer_last_name`|✗|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
 |`payer_zip_code`|✗|`string`|`/^\d{8}$/`| 
 |`date_of_birth`|✗|`string`|`/^\d{4}-\d{2}-\d{2}$/`| 
+|`document_type`|✗|`string`|`/^(CPF\|CNPJ)$/`| 
  
 
 ### Details 
@@ -45,14 +46,14 @@
 	Required: `` 
  
 	Label:  
-	: [EN] CPF number 
-	: [RU] CPF номер 
-	: [UK] CPF номер 
+	: [EN] CPF or CNPJ number 
+	: [RU] CPF или CNPJ номер 
+	: [UK] CPF або CNPJ номер 
  
 	Hint:  
-	: [EN] Enter CPF number 
-	: [RU] Введите CPF номер 
-	: [UK] Введіть CPF номер 
+	: [EN] Enter CPF or CNPJ number 
+	: [RU] Введите CPF или CNPJ номер 
+	: [UK] Введіть CPF або CNPJ номер 
  
 2. **`phone`** 
  
@@ -162,6 +163,24 @@
 	: [RU] Введите дату рождения плательщика 
 	: [UK] Введіть дату народження платника 
  
+8. **`document_type`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^(CPF|CNPJ)$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary's personal identification type 
+	: [RU] Тип документа получателя 
+	: [UK] Тип документа отримувача 
+ 
+	Hint:  
+	: [EN] Enter beneficiary's personal identification type 
+	: [RU] Введите тип документа получателя 
+	: [UK] Введіть тип документа отримувача 
+ 
 
 ## JSON Object 
 
@@ -179,14 +198,14 @@
       "required":false,
       "position":1,
       "label":{
-        "en":"CPF number",
-        "ru":"CPF \u043d\u043e\u043c\u0435\u0440",
-        "uk":"CPF \u043d\u043e\u043c\u0435\u0440"
+        "en":"CPF or CNPJ number",
+        "ru":"CPF \u0438\u043b\u0438 CNPJ \u043d\u043e\u043c\u0435\u0440",
+        "uk":"CPF \u0430\u0431\u043e CNPJ \u043d\u043e\u043c\u0435\u0440"
       },
       "hint":{
-        "en":"Enter CPF number",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 CPF \u043d\u043e\u043c\u0435\u0440",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c CPF \u043d\u043e\u043c\u0435\u0440"
+        "en":"Enter CPF or CNPJ number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 CPF \u0438\u043b\u0438 CNPJ \u043d\u043e\u043c\u0435\u0440",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c CPF \u0430\u0431\u043e CNPJ \u043d\u043e\u043c\u0435\u0440"
       },
       "example":"12345678900"
     },
@@ -296,6 +315,24 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0434\u0430\u0442\u0443 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
       },
       "example":"1986\u201005\u201022"
+    },
+    {
+      "key":"document_type",
+      "type":"string",
+      "regexp":"\/^(CPF|CNPJ)$\/",
+      "required":false,
+      "position":8,
+      "label":{
+        "en":"Beneficiary's personal identification type",
+        "ru":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter beneficiary's personal identification type",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "example":"CPF\/CNPJ"
     }
   ],
   "amount_min":1,

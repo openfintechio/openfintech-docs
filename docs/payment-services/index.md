@@ -78,6 +78,8 @@
 |![Banco Azteca](https://static.openfintech.io/payment_methods/banco_azteca_cash/logo.png?w=400&c=v0.59.26#w200) |[**Banco Azteca**](/payment-methods/banco_azteca_cash/)|[`banco_azteca_cash_mxn_hpp`](banco_azteca_cash_mxn_hpp/)| 
 |![Banco Bci](https://static.openfintech.io/payment_methods/banco_bci/logo.png?w=400&c=v0.59.26#w200) |[**Banco Bci**](/payment-methods/banco_bci/)|[`banco_bci_clp_hpp`](banco_bci_clp_hpp/)| 
 |![Banco Bci](https://static.openfintech.io/payment_methods/banco_bci/logo.png?w=400&c=v0.59.26#w200) |[**Banco Bci**](/payment-methods/banco_bci/)|[`banco_bci_usd_hpp`](banco_bci_usd_hpp/)| 
+|![Banco Bradesco S.A.](https://static.openfintech.io/payment_methods/banco_bradesco/logo.svg?w=400&c=v0.59.26#w200) |[**Banco Bradesco S.A.**](/payment-methods/banco_bradesco/)|[`banco_bradesco_brl_hpp`](banco_bradesco_brl_hpp/)| 
+|![Caixa Econômica Federal](https://static.openfintech.io/payment_methods/banco_caixa/logo.svg?w=400&c=v0.59.26#w200) |[**Caixa Econômica Federal**](/payment-methods/banco_caixa/)|[`banco_caixa_brl_hpp`](banco_caixa_brl_hpp/)| 
 |![Banco de Antigua](https://static.openfintech.io/payment_methods/banco_de_antigua_cash/logo.png?w=400&c=v0.59.26#w200) |[**Banco de Antigua**](/payment-methods/banco_de_antigua_cash/)|[`banco_de_antigua_cash_gtq_hpp`](banco_de_antigua_cash_gtq_hpp/)| 
 |![Banco de Chile](https://static.openfintech.io/payment_methods/banco_de_chile/logo.png?w=400&c=v0.59.26#w200) |[**Banco de Chile**](/payment-methods/banco_de_chile/)|[`banco_de_chile_clp_hpp`](banco_de_chile_clp_hpp/)| 
 |![Banco de Chile](https://static.openfintech.io/payment_methods/banco_de_chile/logo.png?w=400&c=v0.59.26#w200) |[**Banco de Chile**](/payment-methods/banco_de_chile/)|[`banco_de_chile_usd_hpp`](banco_de_chile_usd_hpp/)| 
@@ -95,8 +97,11 @@
 |![Banco Nacional](https://static.openfintech.io/payment_methods/banco_nacional/logo.png?w=400&c=v0.59.26#w200) |[**Banco Nacional**](/payment-methods/banco_nacional/)|[`banco_nacional_usd_hpp`](banco_nacional_usd_hpp/)| 
 |![Banco Pichincha](https://static.openfintech.io/payment_methods/banco_pichincha_cash/logo.png?w=400&c=v0.59.26#w200) |[**Banco Pichincha**](/payment-methods/banco_pichincha_cash/)|[`banco_pichincha_cash_usd_hpp`](banco_pichincha_cash_usd_hpp/)| 
 |![Banco Pichincha](https://static.openfintech.io/payment_methods/banco_pichincha/logo.png?w=400&c=v0.59.26#w200) |[**Banco Pichincha**](/payment-methods/banco_pichincha/)|[`banco_pichincha_usd_hpp`](banco_pichincha_usd_hpp/)| 
+|![Banco Santander](https://static.openfintech.io/payment_methods/banco_santander/logo.png?w=400&c=v0.59.26#w200) |[**Banco Santander**](/payment-methods/banco_santander/)|[`banco_santander_brl_hpp`](banco_santander_brl_hpp/)| 
 |![Banco Santander](https://static.openfintech.io/payment_methods/banco_santander/logo.png?w=400&c=v0.59.26#w200) |[**Banco Santander**](/payment-methods/banco_santander/)|[`banco_santander_clp_hpp`](banco_santander_clp_hpp/)| 
 |![Banco Santander](https://static.openfintech.io/payment_methods/banco_santander/logo.png?w=400&c=v0.59.26#w200) |[**Banco Santander**](/payment-methods/banco_santander/)|[`banco_santander_usd_hpp`](banco_santander_usd_hpp/)| 
+|![Banco do Brasil](https://static.openfintech.io/payment_methods/bancobrasil/logo.png?w=400&c=v0.59.26#w200) |[**Banco do Brasil**](/payment-methods/bancobrasil/)|[`bancobrasil_brl_hpp`](bancobrasil_brl_hpp/)| 
+|![Banco Itaú](https://static.openfintech.io/payment_methods/bancoitau/logo.png?w=400&c=v0.59.26#w200) |[**Banco Itaú**](/payment-methods/bancoitau/)|[`bancoitau_brl_hpp`](bancoitau_brl_hpp/)| 
 |![Bandhan Bank](https://static.openfintech.io/payment_methods/bandhan_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Bandhan Bank**](/payment-methods/bandhan_bank/)|[`bandhan_bank_inr_hpp`](bandhan_bank_inr_hpp/)| 
 |![Bangkok Bank](https://static.openfintech.io/payment_methods/bangko_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Bangkok Bank**](/payment-methods/bangko_bank/)|[`bangko_bank_thb_hpp`](bangko_bank_thb_hpp/)| 
 |![Card](https://static.openfintech.io/payment_methods/bank_card/logo.svg?w=400&c=v0.59.26#w200) |[**Card**](/payment-methods/bank_card/)|[`bank_card_eur_hpp`](bank_card_eur_hpp/)| 
@@ -668,6 +673,7 @@
 |![Litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200) |[**Litecoin**](/payment-methods/litecoin/)|[`litecoin_uah_invoice`](litecoin_uah_invoice/)| 
 |![Litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200) |[**Litecoin**](/payment-methods/litecoin/)|[`litecoin_usd_hpp`](litecoin_usd_hpp/)| 
 |![Litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200) |[**Litecoin**](/payment-methods/litecoin/)|[`litecoin_usd_invoice`](litecoin_usd_invoice/)| 
+|![Lotericas Voucher based payment method](https://static.openfintech.io/payment_methods/loteria/logo.svg?w=400&c=v0.59.26#w200) |[**Lotericas Voucher based payment method**](/payment-methods/loteria/)|[`loterica_brl_hpp`](loterica_brl_hpp/)| 
 ||| **M** ||
 |![m10](https://static.openfintech.io/payment_methods/m10/logo.svg?w=400&c=v0.59.26#w200) |[**m10**](/payment-methods/m10/)|[`m10_azn_invoice`](m10_azn_invoice/)| 
 |![M-Pesa](https://static.openfintech.io/payment_methods/m_pesa/logo.png?w=400&c=v0.59.26#w200) |[**M-Pesa**](/payment-methods/m_pesa/)|[`m_pesa_kes_invoice`](m_pesa_kes_invoice/)| 

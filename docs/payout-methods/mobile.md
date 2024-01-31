@@ -50,6 +50,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Mobile_
 |![bitexpro](https://static.openfintech.io/payment_providers/bitexpro/icon.png?w=278&c=v0.59.26#w100) |[BitexPRO](/payment-providers/bitexpro/)|`bitexpro`| 
 |![payport](https://static.openfintech.io/payment_providers/payport/icon.svg?w=278&c=v0.59.26#w100) |[PayPort](/payment-providers/payport/)|`payport`| 
 |![kora](https://static.openfintech.io/payment_providers/kora/icon.svg?w=278&c=v0.59.26#w100) |[Kora](/payment-providers/kora/)|`kora`| 
+|![rivierapay](https://static.openfintech.io/payment_providers/rivierapay/icon.svg?w=278&c=v0.59.26#w100) |[RivieraPay](/payment-providers/rivierapay/)|`rivierapay`| 
  
 
 ## JSON Object 

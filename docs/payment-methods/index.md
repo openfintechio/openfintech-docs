@@ -61,6 +61,8 @@
 |![bancnetdirectdebits](https://static.openfintech.io/payment_methods/bancnetdirectdebits/logo.png?w=400&c=v0.59.26#w200) |[**BancNet**](bancnetdirectdebits/)|`bancnetdirectdebits`| 
 |![banco_azteca_cash](https://static.openfintech.io/payment_methods/banco_azteca_cash/logo.png?w=400&c=v0.59.26#w200) |[**Banco Azteca**](banco_azteca_cash/)|`banco_azteca_cash`| 
 |![banco_bci](https://static.openfintech.io/payment_methods/banco_bci/logo.png?w=400&c=v0.59.26#w200) |[**Banco Bci**](banco_bci/)|`banco_bci`| 
+|![banco_bradesco](https://static.openfintech.io/payment_methods/banco_bradesco/logo.svg?w=400&c=v0.59.26#w200) |[**Banco Bradesco S.A.**](banco_bradesco/)|`banco_bradesco`| 
+|![banco_caixa](https://static.openfintech.io/payment_methods/banco_caixa/logo.svg?w=400&c=v0.59.26#w200) |[**Caixa Econômica Federal**](banco_caixa/)|`banco_caixa`| 
 |![banco_de_antigua_cash](https://static.openfintech.io/payment_methods/banco_de_antigua_cash/logo.png?w=400&c=v0.59.26#w200) |[**Banco de Antigua**](banco_de_antigua_cash/)|`banco_de_antigua_cash`| 
 |![banco_de_chile](https://static.openfintech.io/payment_methods/banco_de_chile/logo.png?w=400&c=v0.59.26#w200) |[**Banco de Chile**](banco_de_chile/)|`banco_de_chile`| 
 |![banco_de_credito](https://static.openfintech.io/payment_methods/banco_de_credito/logo.png?w=400&c=v0.59.26#w200) |[**Banco De Credito**](banco_de_credito/)|`banco_de_credito`| 
@@ -421,6 +423,7 @@
 |![liqpay](https://static.openfintech.io/payment_methods/liqpay/logo.svg?w=400&c=v0.59.26#w200) |[**LiqPay**](liqpay/)|`liqpay`| 
 |![liqpay_wallet](https://static.openfintech.io/payment_methods/liqpay_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**LiqPay wallet**](liqpay_wallet/)|`liqpay_wallet`| 
 |![litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200) |[**Litecoin**](litecoin/)|`litecoin`| 
+|![loteria](https://static.openfintech.io/payment_methods/loteria/logo.svg?w=400&c=v0.59.26#w200) |[**Lotericas Voucher based payment method**](loteria/)|`loteria`| 
 || **M** ||
 |![m10](https://static.openfintech.io/payment_methods/m10/logo.svg?w=400&c=v0.59.26#w200) |[**m10**](m10/)|`m10`| 
 |![m_pesa](https://static.openfintech.io/payment_methods/m_pesa/logo.png?w=400&c=v0.59.26#w200) |[**M-Pesa**](m_pesa/)|`m_pesa`| 
