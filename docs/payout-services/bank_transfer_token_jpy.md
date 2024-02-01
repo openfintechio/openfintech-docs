@@ -27,6 +27,7 @@
 |`bank_account_token`|✔|`string`|`/^.{3,100}$/`| 
 |`beneficiary_first_name`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
 |`beneficiary_last_name`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
+|`beneficiary_full_name`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
 |`beneficiary_first_name_latin`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}-]{2,100}$/u`| 
 |`beneficiary_last_name_latin`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}-]{2,100}$/u`| 
  
@@ -87,7 +88,25 @@
 	: [RU] Введите фамилию получателя 
 	: [UK] Введіть прізвище отримувача 
  
-4. **`beneficiary_first_name_latin`** 
+4. **`beneficiary_full_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[\s\p{L}\p{N}\p{P}]{2,100}$/u` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary full name 
+	: [RU] Полное имя получателя 
+	: [UK] Повне ім'я отримувача 
+ 
+	Hint:  
+	: [EN] Enter beneficiary full name 
+	: [RU] Введите полное имя получателя 
+	: [UK] Введіть повне ім'я отримувача 
+ 
+5. **`beneficiary_first_name_latin`** 
  
 	Type: `string` 
  
@@ -96,16 +115,16 @@
 	Required: `` 
  
 	Label:  
-	: [EN] Beneficiary first name 
-	: [RU] Имя получателя 
-	: [UK] Ім'я отримувача 
+	: [EN] Beneficiary first name latin 
+	: [RU] Имя получателя латиницей 
+	: [UK] Ім'я отримувача латиницею 
  
 	Hint:  
-	: [EN] Enter beneficiary first name 
-	: [RU] Введите имя получателя 
-	: [UK] Введіть ім'я отримувача 
+	: [EN] Enter beneficiary first name latin 
+	: [RU] Введите имя получателя латиницей 
+	: [UK] Введіть ім'я отримувача латиницею 
  
-5. **`beneficiary_last_name_latin`** 
+6. **`beneficiary_last_name_latin`** 
  
 	Type: `string` 
  
@@ -187,29 +206,47 @@
       "example":"\u30b3\u30e0\u30ed"
     },
     {
+      "key":"beneficiary_full_name",
+      "type":"string",
+      "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}]{2,100}$\/u",
+      "required":false,
+      "position":4,
+      "label":{
+        "en":"Beneficiary full name",
+        "ru":"\u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u041f\u043e\u0432\u043d\u0435 \u0456\u043c'\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter beneficiary full name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c'\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "example":"\u732a\u722a\u4e00\u78e8"
+    },
+    {
       "key":"beneficiary_first_name_latin",
       "type":"string",
       "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}-]{2,100}$\/u",
       "required":false,
-      "position":4,
+      "position":5,
       "label":{
-        "en":"Beneficiary first name",
-        "ru":"\u0418\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
-        "uk":"\u0406\u043c'\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+        "en":"Beneficiary first name latin",
+        "ru":"\u0418\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f \u043b\u0430\u0442\u0438\u043d\u0438\u0446\u0435\u0439",
+        "uk":"\u0406\u043c'\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430 \u043b\u0430\u0442\u0438\u043d\u0438\u0446\u0435\u044e"
       },
       "hint":{
-        "en":"Enter beneficiary first name",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c'\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+        "en":"Enter beneficiary first name latin",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f \u043b\u0430\u0442\u0438\u043d\u0438\u0446\u0435\u0439",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c'\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430 \u043b\u0430\u0442\u0438\u043d\u0438\u0446\u0435\u044e"
       },
-      "example":"John"
+      "example":"Inotsume"
     },
     {
       "key":"beneficiary_last_name_latin",
       "type":"string",
       "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}-]{2,100}$\/u",
       "required":false,
-      "position":5,
+      "position":6,
       "label":{
         "en":"Beneficiary last name latin",
         "ru":"\u0424\u0430\u043c\u0438\u043b\u0438\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f \u043b\u0430\u0442\u0438\u043d\u0438\u0446\u0435\u0439",
