@@ -1161,6 +1161,7 @@
 |![micropaymentgmbh](https://static.openfintech.io/vendors/micropaymentgmbh/logo.png?w=600&c=v0.59.26#w200) |[**micropayment™ GmbH**](micropaymentgmbh/)|`micropaymentgmbh`| 
 |![micropayments](https://static.openfintech.io/vendors/micropayments/logo.svg?w=600&c=v0.59.26#w200) |[**MicroPayments**](micropayments/)|`micropayments`| 
 |![mie_bank](https://static.openfintech.io/vendors/mie_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Mie Bank**](mie_bank/)|`mie_bank`| 
+|![mifinity](https://static.openfintech.io/vendors/mifinity/logo.svg?w=600&c=v0.59.26#w200) |[**MiFinity**](mifinity/)|`mifinity`| 
 |![mikolayivske_ruprivatbank_m_mikolayiv](https://static.openfintech.io/vendors/mikolayivske_ruprivatbank_m_mikolayiv/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ 'МИКОЛАЇВСЬКЕ РЕГІОНАЛЬНЕ УПРАВЛІННЯ' ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](mikolayivske_ruprivatbank_m_mikolayiv/)|`mikolayivske_ruprivatbank_m_mikolayiv`| 
 |![milleniumbank](https://static.openfintech.io/vendors/milleniumbank/logo.png?w=600&c=v0.59.26#w200) |[**Millenium Bank**](milleniumbank/)|`milleniumbank`| 
 |![millennium](https://static.openfintech.io/vendors/millennium/logo.svg?w=600&c=v0.59.26#w200) |[**Millennium**](millennium/)|`millennium`| 

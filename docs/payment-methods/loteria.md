@@ -36,6 +36,7 @@ The list of [Payment Services](/payment-services/) based on the _Lotericas Vouch
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![loteria](https://static.openfintech.io/payment_methods/loteria/icon.svg?w=278&c=v0.59.26#w100) |[loteria_brl_hpp](/payment-services/loteria_brl_hpp/)|`loteria_brl_hpp`| 
 |![loteria](https://static.openfintech.io/payment_methods/loteria/icon.svg?w=278&c=v0.59.26#w100) |[loterica_brl_hpp](/payment-services/loterica_brl_hpp/)|`loterica_brl_hpp`| 
  
 

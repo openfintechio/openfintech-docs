@@ -454,6 +454,7 @@
 |![mestika_bank](https://static.openfintech.io/payment_methods/mestika_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Mestika**](mestika_bank/)|`mestika_bank`| 
 |![mg_bank_saemmul](https://static.openfintech.io/payment_methods/mg_bank_saemmul/logo.png?w=400&c=v0.59.26#w200) |[**MG Bank (Saemmul)**](mg_bank_saemmul/)|`mg_bank_saemmul`| 
 |![mi_comisariato_cash](https://static.openfintech.io/payment_methods/mi_comisariato_cash/logo.png?w=400&c=v0.59.26#w200) |[**Mi Comisariato**](mi_comisariato_cash/)|`mi_comisariato_cash`| 
+|![mifinity](https://static.openfintech.io/payment_methods/mifinity/logo.svg?w=400&c=v0.59.26#w200) |[**Mifinity**](mifinity/)|`mifinity`| 
 |![military_commercial_bank_qr](https://static.openfintech.io/payment_methods/military_commercial_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Military Commercial Joint Stock Bank QR**](military_commercial_bank_qr/)|`military_commercial_bank_qr`| 
 |![milleniumbank](https://static.openfintech.io/payment_methods/milleniumbank/logo.png?w=400&c=v0.59.26#w200) |[**Millenium Bank**](milleniumbank/)|`milleniumbank`| 
 |![minitix](https://static.openfintech.io/payment_methods/minitix/logo.png?w=400&c=v0.59.26#w200) |[**Minitix**](minitix/)|`minitix`| 

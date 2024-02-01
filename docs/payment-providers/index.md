@@ -475,6 +475,7 @@
 |![mercuryo](https://static.openfintech.io/payment_providers/mercuryo/logo.svg?w=600&c=v0.59.26#w100) |[**Mercuryo**](mercuryo/)|`mercuryo`| 
 |![micropaymentgmbh](https://static.openfintech.io/payment_providers/micropaymentgmbh/logo.png?w=600&c=v0.59.26#w100) |[**micropayment™ GmbH**](micropaymentgmbh/)|`micropaymentgmbh`| 
 |![micropayments](https://static.openfintech.io/payment_providers/micropayments/logo.svg?w=600&c=v0.59.26#w100) |[**MicroPayments**](micropayments/)|`micropayments`| 
+|![mifinity](https://static.openfintech.io/payment_providers/mifinity/logo.svg?w=600&c=v0.59.26#w100) |[**MiFinity**](mifinity/)|`mifinity`| 
 |![millikart](https://static.openfintech.io/payment_providers/millikart/logo.png?w=600&c=v0.59.26#w100) |[**MilliKart**](millikart/)|`millikart`| 
 |![mineexchange](https://static.openfintech.io/payment_providers/mineexchange/logo.png?w=600&c=v0.59.26#w100) |[**MineExchange**](mineexchange/)|`mineexchange`| 
 |![mistralpay2](https://static.openfintech.io/payment_providers/mistralpay2/logo.png?w=600&c=v0.59.26#w100) |[**MistralPay**](mistralpay2/)|`mistralpay2`| 
