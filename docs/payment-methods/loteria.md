@@ -47,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Lotericas
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
+|![pagsmile](https://static.openfintech.io/payment_providers/pagsmile/icon.png?w=278&c=v0.59.26#w100) |[Pagsmile](/payment-providers/pagsmile/)|`pagsmile`| 
  
 
 ## JSON Object 

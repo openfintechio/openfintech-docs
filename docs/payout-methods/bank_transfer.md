@@ -95,6 +95,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![copay](https://static.openfintech.io/payment_providers/copay/icon.svg?w=278&c=v0.59.26#w100) |[Copay](/payment-providers/copay/)|`copay`| 
 |![yapily](https://static.openfintech.io/payment_providers/yapily/icon.png?w=278&c=v0.59.26#w100) |[Yapily](/payment-providers/yapily/)|`yapily`| 
 |![zepto](https://static.openfintech.io/payment_providers/zepto/icon.svg?w=278&c=v0.59.26#w100) |[Zepto](/payment-providers/zepto/)|`zepto`| 
+|![pagsmile](https://static.openfintech.io/payment_providers/pagsmile/icon.png?w=278&c=v0.59.26#w100) |[Pagsmile](/payment-providers/pagsmile/)|`pagsmile`| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
 |![maxpayment](https://static.openfintech.io/payment_providers/maxpayment/icon.svg?w=278&c=v0.59.26#w100) |[Maxpayment](/payment-providers/maxpayment/)|`maxpayment`| 
 |![vevopay](https://static.openfintech.io/payment_providers/vevopay/icon.png?w=278&c=v0.59.26#w100) |[VevoPay](/payment-providers/vevopay/)|`vevopay`| 

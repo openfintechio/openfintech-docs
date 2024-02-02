@@ -389,6 +389,7 @@
 |![caledoncardservices](https://static.openfintech.io/vendors/caledoncardservices/logo.png?w=600&c=v0.59.26#w200) |[**Caledon Card Services**](caledoncardservices/)|`caledoncardservices`| 
 |![capayable](https://static.openfintech.io/vendors/capayable/logo.png?w=600&c=v0.59.26#w200) |[**Capayable**](capayable/)|`capayable`| 
 |![capitalist](https://static.openfintech.io/vendors/capitalist/logo.svg?w=600&c=v0.59.26#w200) |[**Capitalist**](capitalist/)|`capitalist`| 
+|![capitalpay](https://static.openfintech.io/vendors/capitalpay/logo.png?w=600&c=v0.59.26#w200) |[**CapitalPay**](capitalpay/)|`capitalpay`| 
 |![cardcomplete](https://static.openfintech.io/vendors/cardcomplete/logo.png?w=600&c=v0.59.26#w200) |[**card complete**](cardcomplete/)|`cardcomplete`| 
 |![cardconnect](https://static.openfintech.io/vendors/cardconnect/logo.svg?w=600&c=v0.59.26#w200) |[**CardConnect**](cardconnect/)|`cardconnect`| 
 |![cardgate](https://static.openfintech.io/vendors/cardgate/logo.svg?w=600&c=v0.59.26#w200) |[**CardGate**](cardgate/)|`cardgate`| 

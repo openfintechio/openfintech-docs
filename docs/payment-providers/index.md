@@ -136,6 +136,7 @@
 |![bzpay](https://static.openfintech.io/payment_providers/bzpay/logo.png?w=600&c=v0.59.26#w100) |[**BZPAY**](bzpay/)|`bzpay`| 
 || **C** ||
 |![caledoncardservices](https://static.openfintech.io/payment_providers/caledoncardservices/logo.svg?w=600&c=v0.59.26#w100) |[**Caledon Card Services**](caledoncardservices/)|`caledoncardservices`| 
+|![capitalpay](https://static.openfintech.io/payment_providers/capitalpay/logo.png?w=600&c=v0.59.26#w100) |[**CapitalPay**](capitalpay/)|`capitalpay`| 
 |![cardcomplete](https://static.openfintech.io/payment_providers/cardcomplete/logo.png?w=600&c=v0.59.26#w100) |[**card complete**](cardcomplete/)|`cardcomplete`| 
 |![cardconnect](https://static.openfintech.io/payment_providers/cardconnect/logo.svg?w=600&c=v0.59.26#w100) |[**CardConnect**](cardconnect/)|`cardconnect`| 
 |![cardgate](https://static.openfintech.io/payment_providers/cardgate/logo.svg?w=600&c=v0.59.26#w100) |[**CardGate**](cardgate/)|`cardgate`| 

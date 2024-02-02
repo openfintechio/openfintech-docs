@@ -64,6 +64,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Boleto Ba
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.png?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
 |![jetonlp](https://static.openfintech.io/payment_providers/jetonlp/icon.png?w=278&c=v0.59.26#w100) |[JetonLP](/payment-providers/jetonlp/)|`jetonlp`| 
 |![onlineips](https://static.openfintech.io/payment_providers/onlineips/icon.png?w=278&c=v0.59.26#w100) |[Online IPS](/payment-providers/onlineips/)|`onlineips`| 
+|![pagsmile](https://static.openfintech.io/payment_providers/pagsmile/icon.png?w=278&c=v0.59.26#w100) |[Pagsmile](/payment-providers/pagsmile/)|`pagsmile`| 
 |![pay4fungo](https://static.openfintech.io/payment_providers/pay4fungo/icon.png?w=278&c=v0.59.26#w100) |[Pay4funGo](/payment-providers/pay4fungo/)|`pay4fungo`| 
  
 

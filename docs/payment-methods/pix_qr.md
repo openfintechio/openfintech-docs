@@ -36,6 +36,7 @@ The list of [Payment Services](/payment-services/) based on the _Pix Qr_
 |:---:|:---:|:---:| 
 |![pix_qr](https://static.openfintech.io/payment_methods/pix_qr/icon.svg?w=278&c=v0.59.26#w100) |[pix_qr_brl_invoice](/payment-services/pix_qr_brl_invoice/)|`pix_qr_brl_invoice`| 
 |![pix_qr](https://static.openfintech.io/payment_methods/pix_qr/icon.svg?w=278&c=v0.59.26#w100) |[pix_qr_ars_invoice](/payment-services/pix_qr_ars_invoice/)|`pix_qr_ars_invoice`| 
+|![pix_qr](https://static.openfintech.io/payment_methods/pix_qr/icon.svg?w=278&c=v0.59.26#w100) |[pix_qr_brl_hpp](/payment-services/pix_qr_brl_hpp/)|`pix_qr_brl_hpp`| 
  
 
 ## Payment Providers 
@@ -49,6 +50,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Pix Qr_
 |![payfuture](https://static.openfintech.io/payment_providers/payfuture/icon.svg?w=278&c=v0.59.26#w100) |[Payfuture](/payment-providers/payfuture/)|`payfuture`| 
 |![anspacepay](https://static.openfintech.io/payment_providers/anspacepay/icon.png?w=278&c=v0.59.26#w100) |[AnSpacePay](/payment-providers/anspacepay/)|`anspacepay`| 
 |![sqalapay](https://static.openfintech.io/payment_providers/sqalapay/icon.png?w=278&c=v0.59.26#w100) |[Sqalapay](/payment-providers/sqalapay/)|`sqalapay`| 
+|![capitalpay](https://static.openfintech.io/payment_providers/capitalpay/icon.png?w=278&c=v0.59.26#w100) |[CapitalPay](/payment-providers/capitalpay/)|`capitalpay`| 
  
 
 ## JSON Object 

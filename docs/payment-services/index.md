@@ -992,6 +992,7 @@
 |![PIX](https://static.openfintech.io/payment_methods/pix/logo.svg?w=400&c=v0.59.26#w200) |[**PIX**](/payment-methods/pix/)|[`pix_mxn_hpp`](pix_mxn_hpp/)| 
 |![PIX](https://static.openfintech.io/payment_methods/pix/logo.svg?w=400&c=v0.59.26#w200) |[**PIX**](/payment-methods/pix/)|[`pix_pen_hpp`](pix_pen_hpp/)| 
 |![Pix Qr](https://static.openfintech.io/payment_methods/pix_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Pix Qr**](/payment-methods/pix_qr/)|[`pix_qr_ars_invoice`](pix_qr_ars_invoice/)| 
+|![Pix Qr](https://static.openfintech.io/payment_methods/pix_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Pix Qr**](/payment-methods/pix_qr/)|[`pix_qr_brl_hpp`](pix_qr_brl_hpp/)| 
 |![Pix Qr](https://static.openfintech.io/payment_methods/pix_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Pix Qr**](/payment-methods/pix_qr/)|[`pix_qr_brl_invoice`](pix_qr_brl_invoice/)| 
 |![PIX](https://static.openfintech.io/payment_methods/pix/logo.svg?w=400&c=v0.59.26#w200) |[**PIX**](/payment-methods/pix/)|[`pix_usd_hpp`](pix_usd_hpp/)| 
 |![POLi Payments](https://static.openfintech.io/payment_methods/polipayonline/logo.png?w=400&c=v0.59.26#w200) |[**POLi Payments**](/payment-methods/polipayonline/)|[`polipayonline_aud_hpp`](polipayonline_aud_hpp/)| 
