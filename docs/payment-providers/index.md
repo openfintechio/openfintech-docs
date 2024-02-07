@@ -439,7 +439,7 @@
 |![kraft](https://static.openfintech.io/payment_providers/kraft/logo.svg?w=600&c=v0.59.26#w100) |[**Kraft**](kraft/)|`kraft`| 
 |![kuna](https://static.openfintech.io/payment_providers/kuna/logo.svg?w=600&c=v0.59.26#w100) |[**Kuna**](kuna/)|`kuna`| 
 |![kunapay](https://static.openfintech.io/payment_providers/kunapay/logo.svg?w=600&c=v0.59.26#w100) |[**KUNA Pay**](kunapay/)|`kunapay`| 
-|![kunapaycrypto](https://static.openfintech.io/payment_providers/kunapaycrypto/logo.svg?w=600&c=v0.59.26#w100) |[**KunaPay Crypto**](kunapaycrypto/)|`kunapaycrypto`| 
+|![kunapaycrypto](https://static.openfintech.io/payment_providers/kunapaycrypto/logo.svg?w=600&c=v0.59.26#w100) |[**KUNA Pay Crypto**](kunapaycrypto/)|`kunapaycrypto`| 
 |![kvitum](https://static.openfintech.io/payment_providers/kvitum/logo.svg?w=600&c=v0.59.26#w100) |[**Kvitum**](kvitum/)|`kvitum`| 
 || **L** ||
 |![lateralpaymentsolutions](https://static.openfintech.io/payment_providers/lateralpaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Lateral Payment Solutions**](lateralpaymentsolutions/)|`lateralpaymentsolutions`| 

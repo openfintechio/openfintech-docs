@@ -1,5 +1,5 @@
 
-# KunaPay Crypto 
+# KUNA Pay Crypto 
 ![kunapaycrypto](https://static.openfintech.io/vendors/kunapaycrypto/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] KunaPay Crypto 
-:	[RU] KunaPay Crypto 
-:	[UK] KunaPay Crypto 
+:	[EN] KUNA Pay Crypto 
+:	[RU] KUNA Pay Crypto 
+:	[UK] KUNA Pay Crypto 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/kunapaycrypto/icon.png?w=278&c=v0.59.26#w1
 {
   "code":"kunapaycrypto",
   "name":{
-    "en":"KunaPay Crypto",
-    "ru":"KunaPay Crypto",
-    "uk":"KunaPay Crypto"
+    "en":"KUNA Pay Crypto",
+    "ru":"KUNA Pay Crypto",
+    "uk":"KUNA Pay Crypto"
   },
   "status":"active",
   "description":null,

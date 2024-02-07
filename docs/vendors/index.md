@@ -1086,8 +1086,8 @@
 |![kukuruza](https://static.openfintech.io/vendors/kukuruza/logo.png?w=600&c=v0.59.26#w200) |[**Кукуруза**](kukuruza/)|`kukuruza`| 
 |![kumamoto_bank](https://static.openfintech.io/vendors/kumamoto_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Kumamoto Bank**](kumamoto_bank/)|`kumamoto_bank`| 
 |![kuna](https://static.openfintech.io/vendors/kuna/logo.svg?w=600&c=v0.59.26#w200) |[**Kuna**](kuna/)|`kuna`| 
-|![kunapay](https://static.openfintech.io/vendors/kunapay/logo.svg?w=600&c=v0.59.26#w200) |[**Kuna Pay**](kunapay/)|`kunapay`| 
-|![kunapaycrypto](https://static.openfintech.io/vendors/kunapaycrypto/logo.svg?w=600&c=v0.59.26#w200) |[**KunaPay Crypto**](kunapaycrypto/)|`kunapaycrypto`| 
+|![kunapay](https://static.openfintech.io/vendors/kunapay/logo.svg?w=600&c=v0.59.26#w200) |[**KUNA Pay**](kunapay/)|`kunapay`| 
+|![kunapaycrypto](https://static.openfintech.io/vendors/kunapaycrypto/logo.svg?w=600&c=v0.59.26#w200) |[**KUNA Pay Crypto**](kunapaycrypto/)|`kunapaycrypto`| 
 |![kvitum](https://static.openfintech.io/vendors/kvitum/logo.svg?w=600&c=v0.59.26#w200) |[**Kvitum**](kvitum/)|`kvitum`| 
 |![kwangju_bank](https://static.openfintech.io/vendors/kwangju_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Kwangju Bank**](kwangju_bank/)|`kwangju_bank`| 
 |![kwixo](https://static.openfintech.io/vendors/kwixo/logo.png?w=600&c=v0.59.26#w200) |[**Kwixo**](kwixo/)|`kwixo`| 

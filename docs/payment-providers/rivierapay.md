@@ -42,6 +42,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile](/payment-methods/mobile/)|`mobile`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![mobile](https://static.openfintech.io/payout_methods/mobile/icon.svg?w=278&c=v0.59.26#w40) |[mobile](payout-methodsmobile/)|`mobile`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -54,7 +63,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payment_method":[
     "mobile"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "mobile"
+  ],
   "metadata":null,
   "name":{
     "en":"RivieraPay",
