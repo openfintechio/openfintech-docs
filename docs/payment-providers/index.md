@@ -932,6 +932,7 @@
 |![websecpay](https://static.openfintech.io/payment_providers/websecpay/logo.png?w=600&c=v0.59.26#w100) |[**Websecpay**](websecpay/)|`websecpay`| 
 |![webteh](https://static.openfintech.io/payment_providers/webteh/logo.png?w=600&c=v0.59.26#w100) |[**Webteh**](webteh/)|`webteh`| 
 |![wedeal](https://static.openfintech.io/payment_providers/wedeal/logo.png?w=600&c=v0.59.26#w100) |[**weDeal**](wedeal/)|`wedeal`| 
+|![wellxpay](https://static.openfintech.io/payment_providers/wellxpay/logo.png?w=600&c=v0.59.26#w100) |[**WellxPay**](wellxpay/)|`wellxpay`| 
 |![wepay](https://static.openfintech.io/payment_providers/wepay/logo.svg?w=600&c=v0.59.26#w100) |[**WePay**](wepay/)|`wepay`| 
 |![whitebit](https://static.openfintech.io/payment_providers/whitebit/logo.svg?w=600&c=v0.59.26#w100) |[**WhiteBIT**](whitebit/)|`whitebit`| 
 |![whitepay](https://static.openfintech.io/payment_providers/whitepay/logo.svg?w=600&c=v0.59.26#w100) |[**Whitepay**](whitepay/)|`whitepay`| 

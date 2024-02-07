@@ -2188,6 +2188,7 @@
 |![websecpay](https://static.openfintech.io/vendors/websecpay/logo.png?w=600&c=v0.59.26#w200) |[**Websecpay**](websecpay/)|`websecpay`| 
 |![webteh](https://static.openfintech.io/vendors/webteh/logo.png?w=600&c=v0.59.26#w200) |[**Webteh**](webteh/)|`webteh`| 
 |![wedeal](https://static.openfintech.io/vendors/wedeal/logo.png?w=600&c=v0.59.26#w200) |[**weDeal**](wedeal/)|`wedeal`| 
+|![wellxpay](https://static.openfintech.io/vendors/wellxpay/logo.png?w=600&c=v0.59.26#w200) |[**WellxPay**](wellxpay/)|`wellxpay`| 
 |![wepay](https://static.openfintech.io/vendors/wepay/logo.svg?w=600&c=v0.59.26#w200) |[**WePay**](wepay/)|`wepay`| 
 |![westchange.pro](https://static.openfintech.io/vendors/westchange.pro/logo.svg?w=600&c=v0.59.26#w200) |[**WestChange**](westchange.pro/)|`westchange.pro`| 
 |![westchange.top](https://static.openfintech.io/vendors/westchange.top/logo.svg?w=600&c=v0.59.26#w200) |[**Westchange.top**](westchange.top/)|`westchange.top`| 
