@@ -1,6 +1,6 @@
 
 # AstroPay 
-![astropay](https://static.openfintech.io/payment_providers/astropay/logo.svg?w=400&c=v0.59.26#w100)  
+![astropay](https://static.openfintech.io/payment_providers/astropay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -11,6 +11,8 @@
 **Name:** 
  
 :	[EN] AstroPay 
+:	[RU] AstroPay 
+:	[UK] AstroPay 
  
  
 **Countries:** 
@@ -21,19 +23,37 @@
 
 ### Logo 
  
-![astropay](https://static.openfintech.io/payment_providers/astropay/logo.svg?w=400&c=v0.59.26#w100)  
+![astropay](https://static.openfintech.io/payment_providers/astropay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/astropay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/astropay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![astropay](https://static.openfintech.io/payment_providers/astropay/icon.svg?w=278&c=v0.59.26#w100)  
+![astropay](https://static.openfintech.io/payment_providers/astropay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/astropay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/astropay/icon.png?w=278&c=v0.59.26#w100
 ```  
+
+## Payment Methods 
+ 
+The list of supported [Payment Methods](/payment-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![pix_qr](https://static.openfintech.io/payment_methods/pix_qr/icon.svg?w=278&c=v0.59.26#w100) |[pix_qr](/payment-methods/pix_qr/)|`pix_qr`| 
+ 
+
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![pix](https://static.openfintech.io/payout_methods/pix/icon.svg?w=278&c=v0.59.26#w40) |[pix](payout-methodspix/)|`pix`| 
+ 
 
 ## JSON Object 
 
@@ -57,13 +77,19 @@ https://static.openfintech.io/payment_providers/astropay/icon.svg?w=278&c=v0.59.
     "PE",
     "VE"
   ],
-  "payment_method":null,
-  "payout_method":null,
+  "payment_method":[
+    "pix_qr"
+  ],
+  "payout_method":[
+    "pix"
+  ],
   "metadata":{
     "about_payments_code":"astropay"
   },
   "name":{
-    "en":"AstroPay"
+    "en":"AstroPay",
+    "ru":"AstroPay",
+    "uk":"AstroPay"
   }
 }
 ```  

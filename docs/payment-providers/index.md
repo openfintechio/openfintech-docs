@@ -68,7 +68,7 @@
 |![aretosystems](https://static.openfintech.io/payment_providers/aretosystems/logo.png?w=600&c=v0.59.26#w100) |[**Areto Systems**](aretosystems/)|`aretosystems`| 
 |![arvatofinance](https://static.openfintech.io/payment_providers/arvatofinance/logo.svg?w=600&c=v0.59.26#w100) |[**arvato Finance Services Ltd.**](arvatofinance/)|`arvatofinance`| 
 |![asiapay](https://static.openfintech.io/payment_providers/asiapay/logo.png?w=600&c=v0.59.26#w100) |[**AsiaPay**](asiapay/)|`asiapay`| 
-|![astropay](https://static.openfintech.io/payment_providers/astropay/logo.svg?w=600&c=v0.59.26#w100) |[**AstroPay**](astropay/)|`astropay`| 
+|![astropay](https://static.openfintech.io/payment_providers/astropay/logo.png?w=600&c=v0.59.26#w100) |[**AstroPay**](astropay/)|`astropay`| 
 |![atosworldline](https://static.openfintech.io/payment_providers/atosworldline/logo.png?w=600&c=v0.59.26#w100) |[**Worldline**](atosworldline/)|`atosworldline`| 
 |![australpay](https://static.openfintech.io/payment_providers/australpay/logo.png?w=600&c=v0.59.26#w100) |[**AustralPay**](australpay/)|`australpay`| 
 |![authorizenet](https://static.openfintech.io/payment_providers/authorizenet/logo.svg?w=600&c=v0.59.26#w100) |[**Authorize.Net**](authorizenet/)|`authorizenet`| 
