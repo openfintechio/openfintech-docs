@@ -45,6 +45,9 @@ The list of [Payout Services](/payout-services/) based on the _Skrill_
 |![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_lkr](/payout-services/skrill_lkr/)|`skrill_lkr`| 
 |![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_mdl](/payout-services/skrill_mdl/)|`skrill_mdl`| 
 |![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_mxn](/payout-services/skrill_mxn/)|`skrill_mxn`| 
+|![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_chf](/payout-services/skrill_chf/)|`skrill_chf`| 
+|![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_gbp](/payout-services/skrill_gbp/)|`skrill_gbp`| 
+|![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_pln](/payout-services/skrill_pln/)|`skrill_pln`| 
  
 
 ## Payment Providers 
