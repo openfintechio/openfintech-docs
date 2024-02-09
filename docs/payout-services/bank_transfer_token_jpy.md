@@ -25,8 +25,8 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`bank_account_token`|✔|`string`|`/^.{3,100}$/`| 
-|`beneficiary_first_name`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
-|`beneficiary_last_name`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
+|`beneficiary_first_name`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{1,100}$/u`| 
+|`beneficiary_last_name`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{1,100}$/u`| 
 |`beneficiary_full_name`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
 |`beneficiary_first_name_latin`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}-]{2,100}$/u`| 
 |`beneficiary_last_name_latin`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}-]{2,100}$/u`| 
@@ -56,7 +56,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[\s\p{L}\p{N}\p{P}]{2,100}$/u` 
+	Regexp: `/^[\s\p{L}\p{N}\p{P}]{1,100}$/u` 
  
 	Required: `` 
  
@@ -74,7 +74,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[\s\p{L}\p{N}\p{P}]{2,100}$/u` 
+	Regexp: `/^[\s\p{L}\p{N}\p{P}]{1,100}$/u` 
  
 	Required: `` 
  
@@ -172,7 +172,7 @@
     {
       "key":"beneficiary_first_name",
       "type":"string",
-      "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}]{2,100}$\/u",
+      "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}]{1,100}$\/u",
       "required":false,
       "position":2,
       "label":{
@@ -190,7 +190,7 @@
     {
       "key":"beneficiary_last_name",
       "type":"string",
-      "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}]{2,100}$\/u",
+      "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}]{1,100}$\/u",
       "required":false,
       "position":3,
       "label":{
