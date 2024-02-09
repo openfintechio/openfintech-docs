@@ -47,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _GrabPay_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
+|![paystage](https://static.openfintech.io/payment_providers/paystage/icon.png?w=278&c=v0.59.26#w100) |[PayStage](/payment-providers/paystage/)|`paystage`| 
  
 
 ## JSON Object 

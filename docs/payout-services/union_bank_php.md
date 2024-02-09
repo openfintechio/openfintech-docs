@@ -27,6 +27,8 @@
 |`bank_id`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
 |`beneficiary_phone`|✗|`string`|`/^\d{10,14}$/`| 
 |`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
+|`account_number`|✗|`string`|`/^[0-9]{2,100}$/`| 
+|`bank_code`|✗|`string`|`/^[0-9]{2,100}$/`| 
  
 
 ### Details 
@@ -120,6 +122,42 @@
 	: [EN] Enter Email 
 	: [RU] Введите Email 
 	: [UK] Введіть Email 
+ 
+6. **`account_number`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Account Number 
+	: [RU] Account Number 
+	: [UK] Account Number 
+ 
+	Hint:  
+	: [EN] Enter Account Number 
+	: [RU] Введите Account Number 
+	: [UK] Введіть Account Number 
+ 
+7. **`bank_code`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank code 
+	: [RU] Bank Account Number 
+	: [UK] Bank Account Number 
+ 
+	Hint:  
+	: [EN] Enter Bank Account Number 
+	: [RU] Введите Bank Account Number 
+	: [UK] Введіть Bank Account Number 
  
 
 ## JSON Object 
@@ -218,6 +256,40 @@
       "regexp":"\/^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,4})$\/",
       "required":false,
       "position":5
+    },
+    {
+      "key":"account_number",
+      "type":"string",
+      "label":{
+        "en":"Account Number",
+        "ru":"Account Number",
+        "uk":"Account Number"
+      },
+      "hint":{
+        "en":"Enter Account Number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Account Number",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Account Number"
+      },
+      "regexp":"\/^[0-9]{2,100}$\/",
+      "required":false,
+      "position":6
+    },
+    {
+      "key":"bank_code",
+      "type":"string",
+      "label":{
+        "en":"Bank code",
+        "ru":"Bank Account Number",
+        "uk":"Bank Account Number"
+      },
+      "hint":{
+        "en":"Enter Bank Account Number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Bank Account Number",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Bank Account Number"
+      },
+      "regexp":"\/^[0-9]{2,100}$\/",
+      "required":false,
+      "position":7
     }
   ],
   "amount_min":0.01,

@@ -758,6 +758,7 @@
 |![ininal](https://static.openfintech.io/payout_methods/ininal/logo.svg?w=400&c=v0.59.26#w24) |[**Ininal**](ininal/)|`ininal`| 
 |![innovectives_kesh](https://static.openfintech.io/payout_methods/innovectives_kesh/logo.svg?w=400&c=v0.59.26#w24) |[**Innovectives Kesh**](innovectives_kesh/)|`innovectives_kesh`| 
 |![instant_bank_transfer](https://static.openfintech.io/payout_methods/instant_bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Instant Bank Transfer**](instant_bank_transfer/)|`instant_bank_transfer`| 
+|![instapay](https://static.openfintech.io/payout_methods/instapay/logo.svg?w=400&c=v0.59.26#w24) |[**Instapay**](instapay/)|`instapay`| 
 |![intelekt-chernovtsy](https://static.openfintech.io/payout_methods/intelekt-chernovtsy/logo.png?w=400&c=v0.59.26#w24) |[**Intelekt (Chernivtsi)**](intelekt-chernovtsy/)|`intelekt-chernovtsy`| 
 |![intera-2015](https://static.openfintech.io/payout_methods/intera-2015/logo.png?w=400&c=v0.59.26#w24) |[**INTERA 2015**](intera-2015/)|`intera-2015`| 
 |![interac](https://static.openfintech.io/payout_methods/interac/logo.svg?w=400&c=v0.59.26#w24) |[**Interac Online**](interac/)|`interac`| 
@@ -1339,6 +1340,7 @@
 |![orange_money](https://static.openfintech.io/payout_methods/orange_money/logo.png?w=400&c=v0.59.26#w24) |[**Orange Money**](orange_money/)|`orange_money`| 
 |![orativ-pat-vinnitsiaoblenergo](https://static.openfintech.io/payout_methods/orativ-pat-vinnitsiaoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Mikhailovka PJSC 'Vinnitsaoblenergo'**](orativ-pat-vinnitsiaoblenergo/)|`orativ-pat-vinnitsiaoblenergo`| 
 |![orbita-odessa](https://static.openfintech.io/payout_methods/orbita-odessa/logo.png?w=400&c=v0.59.26#w24) |[**ORBITA (Odessa)**](orbita-odessa/)|`orbita-odessa`| 
+|![oriental_wallet](https://static.openfintech.io/payout_methods/oriental_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**Oriental Wallet**](oriental_wallet/)|`oriental_wallet`| 
 |![orion-city](https://static.openfintech.io/payout_methods/orion-city/logo.png?w=400&c=v0.59.26#w24) |[**Orion city**](orion-city/)|`orion-city`| 
 |![osada-onlain](https://static.openfintech.io/payout_methods/osada-onlain/logo.png?w=400&c=v0.59.26#w24) |[**Siege Online**](osada-onlain/)|`osada-onlain`| 
 |![osaka_shinkin_bank](https://static.openfintech.io/payout_methods/osaka_shinkin_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Osaka Shinkin Bank**](osaka_shinkin_bank/)|`osaka_shinkin_bank`| 
@@ -1729,6 +1731,7 @@
 |![pervomaiskii-rem-ak-kharkivoblenergo](https://static.openfintech.io/payout_methods/pervomaiskii-rem-ak-kharkivoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Pervomaysky RES AK 'Kharkivoblenergo'**](pervomaiskii-rem-ak-kharkivoblenergo/)|`pervomaiskii-rem-ak-kharkivoblenergo`| 
 |![pervomaiskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018](https://static.openfintech.io/payout_methods/pervomaiskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Первомайський РЕМ АК "Харківобленерго" (за послуги до 31.12.2018)**](pervomaiskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|`pervomaiskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018`| 
 |![pervomaiskii-res](https://static.openfintech.io/payout_methods/pervomaiskii-res/logo.png?w=400&c=v0.59.26#w24) |[**Pervomaysky RES**](pervomaiskii-res/)|`pervomaiskii-res`| 
+|![pesonet](https://static.openfintech.io/payout_methods/pesonet/logo.svg?w=400&c=v0.59.26#w24) |[**Pesonet**](pesonet/)|`pesonet`| 
 |![petra_mfb](https://static.openfintech.io/payout_methods/petra_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Petra MFB**](petra_mfb/)|`petra_mfb`| 
 |![petrikovska-dilnitsia-tsok-tsarichanskogo-r-nu](https://static.openfintech.io/payout_methods/petrikovska-dilnitsia-tsok-tsarichanskogo-r-nu/logo.png?w=400&c=v0.59.26#w24) |[**Petrikovska plot (CSC Tsarichansky district)**](petrikovska-dilnitsia-tsok-tsarichanskogo-r-nu/)|`petrikovska-dilnitsia-tsok-tsarichanskogo-r-nu`| 
 |![petrolimex_bank](https://static.openfintech.io/payout_methods/petrolimex_bank/logo.png?w=400&c=v0.59.26#w24) |[**Petrolimex Group Commercial Joint Stock Bank**](petrolimex_bank/)|`petrolimex_bank`| 

@@ -1,5 +1,5 @@
 
-# Unionbank 
+# Union Bank 
 ![union_bank](https://static.openfintech.io/payment_methods/union_bank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,7 +7,7 @@
  
 **Name:** 
  
-:	[EN] Unionbank 
+:	[EN] Union Bank 
  
 **Category:** `online_banking` 
  
@@ -28,18 +28,18 @@ https://static.openfintech.io/payment_methods/union_bank/logo.svg?w=400&c=v0.59.
 https://static.openfintech.io/payment_methods/union_bank/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _Unionbank_ 
+The list of [Payment Services](/payment-services/) based on the _Union Bank_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![union_bank](https://static.openfintech.io/payout_methods/union_bank/icon.svg?w=278&c=v0.59.26#w40) |[union_bank_php](/payout-services/union_bank_php/)|`union_bank_php`| 
+|![union_bank](https://static.openfintech.io/payment_methods/union_bank/icon.svg?w=278&c=v0.59.26#w100) |[union_bank_php_hpp](/payment-services/union_bank_php_hpp/)|`union_bank_php_hpp`| 
  
 
 ## Payment Providers 
  
-The list of [Payment Providers](/payment-providers/) that support the _Unionbank_ 
+The list of [Payment Providers](/payment-providers/) that support the _Union Bank_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -53,7 +53,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Unionbank
   "code":"union_bank",
   "vendor":null,
   "name":{
-    "en":"Unionbank"
+    "en":"Union Bank"
   },
   "description":null,
   "countries":null,

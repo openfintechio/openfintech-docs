@@ -43,6 +43,8 @@
 |`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
 |`sender_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
 |`bank_branch_code`|✗|`string`|`/^[0-9]{2,100}$/`| 
+|`bank_city`|✗|`string`|`/^[A-Za-z]{2,100}$/`| 
+|`bank_province`|✗|`string`|`/^[A-Za-z]{2,100}$/`| 
  
 
 ### Details 
@@ -389,6 +391,42 @@
 	: [RU] Введите Bank Branch Code 
 	: [UK] Введіть Bank Branch Code 
  
+20. **`bank_city`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank City 
+	: [RU] Bank City 
+	: [UK] Bank City 
+ 
+	Hint:  
+	: [EN] Enter bank city 
+	: [RU] Enter bank city 
+	: [UK] Enter bank city 
+ 
+21. **`bank_province`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank Province 
+	: [RU] Bank Province 
+	: [UK] Bank Province 
+ 
+	Hint:  
+	: [EN] Enter bank province 
+	: [RU] Enter bank province 
+	: [UK] Enter bank province 
+ 
 
 ## JSON Object 
 
@@ -722,6 +760,40 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Bank Branch Code"
       },
       "example":"626"
+    },
+    {
+      "key":"bank_city",
+      "type":"string",
+      "regexp":"\/^[A-Za-z]{2,100}$\/",
+      "required":false,
+      "position":20,
+      "label":{
+        "en":"Bank City",
+        "ru":"Bank City",
+        "uk":"Bank City"
+      },
+      "hint":{
+        "en":"Enter bank city",
+        "ru":"Enter bank city",
+        "uk":"Enter bank city"
+      }
+    },
+    {
+      "key":"bank_province",
+      "type":"string",
+      "regexp":"\/^[A-Za-z]{2,100}$\/",
+      "required":false,
+      "position":21,
+      "label":{
+        "en":"Bank Province",
+        "ru":"Bank Province",
+        "uk":"Bank Province"
+      },
+      "hint":{
+        "en":"Enter bank province",
+        "ru":"Enter bank province",
+        "uk":"Enter bank province"
+      }
     }
   ],
   "amount_min":"0.01",
