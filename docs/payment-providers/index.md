@@ -159,6 +159,7 @@
 |![ccbill](https://static.openfintech.io/payment_providers/ccbill/logo.png?w=600&c=v0.59.26#w100) |[**CCBill**](ccbill/)|`ccbill`| 
 |![ccnow](https://static.openfintech.io/payment_providers/ccnow/logo.png?w=600&c=v0.59.26#w100) |[**CCNow**](ccnow/)|`ccnow`| 
 |![ccvpay](https://static.openfintech.io/payment_providers/ccvpay/logo.png?w=600&c=v0.59.26#w100) |[**CCV Pay**](ccvpay/)|`ccvpay`| 
+|![cdn](https://static.openfintech.io/payment_providers/cdn/logo.svg?w=600&c=v0.59.26#w100) |[**CDN**](cdn/)|`cdn`| 
 |![centiwise](https://static.openfintech.io/payment_providers/centiwise/logo.png?w=600&c=v0.59.26#w100) |[**Centiwise**](centiwise/)|`centiwise`| 
 |![centpays](https://static.openfintech.io/payment_providers/centpays/logo.svg?w=600&c=v0.59.26#w100) |[**Centpays**](centpays/)|`centpays`| 
 |![centus](https://static.openfintech.io/payment_providers/centus/logo.png?w=600&c=v0.59.26#w100) |[**Centus**](centus/)|`centus`| 

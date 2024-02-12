@@ -1,0 +1,72 @@
+
+# Bank Transfer Aggregated 
+![bank_transfer_aggregated](https://static.openfintech.io/payment_methods/bank_transfer_aggregated/logo.svg?w=400&c=v0.59.26#w200)  
+
+## General 
+**Code:** `bank_transfer_aggregated` 
+ 
+**Name:** 
+ 
+:	[EN] Bank Transfer Aggregated 
+:	[RU] Bank Transfer Aggregated 
+:	[UK] Bank Transfer Aggregated 
+ 
+**Category:** `bank_transfer` 
+ 
+
+## Images 
+
+### Logo 
+![bank_transfer_aggregated](https://static.openfintech.io/payment_methods/bank_transfer_aggregated/logo.svg?w=400&c=v0.59.26#w200)  
+
+```
+https://static.openfintech.io/payment_methods/bank_transfer_aggregated/logo.svg?w=400&c=v0.59.26#w200
+```  
+
+### Icon 
+![bank_transfer_aggregated](https://static.openfintech.io/payment_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w100)  
+
+```
+https://static.openfintech.io/payment_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w100
+```  
+
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _Bank Transfer Aggregated_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![bank_transfer_aggregated](https://static.openfintech.io/payout_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_aggregated_usd](/payout-services/bank_transfer_aggregated_usd/)|`bank_transfer_aggregated_usd`| 
+|![bank_transfer_aggregated](https://static.openfintech.io/payout_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_aggregated_eur](/payout-services/bank_transfer_aggregated_eur/)|`bank_transfer_aggregated_eur`| 
+|![bank_transfer_aggregated](https://static.openfintech.io/payout_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_aggregated_gbp](/payout-services/bank_transfer_aggregated_gbp/)|`bank_transfer_aggregated_gbp`| 
+|![bank_transfer_aggregated](https://static.openfintech.io/payout_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_aggregated_chf](/payout-services/bank_transfer_aggregated_chf/)|`bank_transfer_aggregated_chf`| 
+ 
+
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Bank Transfer Aggregated_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![paymentasia](https://static.openfintech.io/payment_providers/paymentasia/icon.png?w=278&c=v0.59.26#w100) |[PaymentAsia](/payment-providers/paymentasia/)|`paymentasia`| 
+|![razorpay](https://static.openfintech.io/payment_providers/razorpay/icon.svg?w=278&c=v0.59.26#w100) |[Razorpay](/payment-providers/razorpay/)|`razorpay`| 
+|![bitexpro](https://static.openfintech.io/payment_providers/bitexpro/icon.png?w=278&c=v0.59.26#w100) |[BitexPRO](/payment-providers/bitexpro/)|`bitexpro`| 
+|![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
+ 
+
+## JSON Object 
+
+```json
+{
+  "code":"bank_transfer_aggregated",
+  "vendor":null,
+  "name":{
+    "en":"Bank Transfer Aggregated",
+    "ru":"Bank Transfer Aggregated",
+    "uk":"Bank Transfer Aggregated"
+  },
+  "description":null,
+  "countries":null,
+  "category":"bank_transfer"
+}
+```  

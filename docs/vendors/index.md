@@ -426,6 +426,7 @@
 |![ccexcom](https://static.openfintech.io/vendors/ccexcom/logo.svg?w=600&c=v0.59.26#w200) |[**c-cex.com**](ccexcom/)|`ccexcom`| 
 |![ccnow](https://static.openfintech.io/vendors/ccnow/logo.png?w=600&c=v0.59.26#w200) |[**CCNow**](ccnow/)|`ccnow`| 
 |![ccvpay](https://static.openfintech.io/vendors/ccvpay/logo.png?w=600&c=v0.59.26#w200) |[**CCV Pay**](ccvpay/)|`ccvpay`| 
+|![cdn](https://static.openfintech.io/vendors/cdn/logo.svg?w=600&c=v0.59.26#w200) |[**CDN**](cdn/)|`cdn`| 
 |![centiwise](https://static.openfintech.io/vendors/centiwise/logo.png?w=600&c=v0.59.26#w200) |[**Centiwise**](centiwise/)|`centiwise`| 
 |![centpays](https://static.openfintech.io/vendors/centpays/logo.png?w=600&c=v0.59.26#w200) |[**Centpays**](centpays/)|`centpays`| 
 |![centralna_fil_prat_ufg_u_m_chernivci](https://static.openfintech.io/vendors/centralna_fil_prat_ufg_u_m_chernivci/logo.svg?w=600&c=v0.59.26#w200) |[**Центральна філія ПрАТ 'Українська фінансова група' у м. Чернівці**](centralna_fil_prat_ufg_u_m_chernivci/)|`centralna_fil_prat_ufg_u_m_chernivci`| 
