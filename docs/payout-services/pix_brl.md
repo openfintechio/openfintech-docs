@@ -40,7 +40,7 @@
 |`account_number_checksum`|✗|`string`|`/^[0-9]{1,100}$/`| 
 |`document_type`|✗|`string`|`/^(CPF\|CNPJ)$/`| 
 |`document_id`|✗|`string`|`/^[0-9]{1,100}$/`| 
-|`account_type`|✗|`string`|`/^(CPF\|CNPJ\|EVP\|PHONE\|EMAIL)$/`| 
+|`account_type`|✗|`string`|`/^(CPF\|CNPJ\|EVP\|PHONE\|EMAIL\|RANDOMKEY)$/`| 
 |`bank_account_type`|✗|`string`|`/^(saving\|personal)$/`| 
  
 
@@ -338,7 +338,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^(CPF|CNPJ|EVP|PHONE|EMAIL)$/` 
+	Regexp: `/^(CPF|CNPJ|EVP|PHONE|EMAIL|RANDOMKEY)$/` 
  
 	Required: `` 
  
@@ -348,9 +348,9 @@
 	: [UK] Тип облікового запису PIX отримувача 
  
 	Hint:  
-	: [EN] Enter beneficiary's PIX account type 
-	: [RU] Введите тип аккаунта PIX получателя 
-	: [UK] Введіть тип облікового запису PIX отримувача 
+	: [EN] CPF|CNPJ|EVP|PHONE|EMAIL|RANDOMKEY 
+	: [RU] CPF|CNPJ|EVP|PHONE|EMAIL|RANDOMKEY 
+	: [UK] CPF|CNPJ|EVP|PHONE|EMAIL|RANDOMKEY 
  
 18. **`bank_account_type`** 
  
@@ -660,7 +660,7 @@
     {
       "key":"account_type",
       "type":"string",
-      "regexp":"\/^(CPF|CNPJ|EVP|PHONE|EMAIL)$\/",
+      "regexp":"\/^(CPF|CNPJ|EVP|PHONE|EMAIL|RANDOMKEY)$\/",
       "required":false,
       "position":17,
       "label":{
@@ -669,9 +669,9 @@
         "uk":"\u0422\u0438\u043f \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u043f\u0438\u0441\u0443 PIX \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
       },
       "hint":{
-        "en":"Enter beneficiary's PIX account type",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430 PIX \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u043f\u0438\u0441\u0443 PIX \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+        "en":"CPF|CNPJ|EVP|PHONE|EMAIL|RANDOMKEY",
+        "ru":"CPF|CNPJ|EVP|PHONE|EMAIL|RANDOMKEY",
+        "uk":"CPF|CNPJ|EVP|PHONE|EMAIL|RANDOMKEY"
       },
       "example":"EMAIL"
     },

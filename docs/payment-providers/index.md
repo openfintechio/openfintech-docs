@@ -273,6 +273,7 @@
 |![eftglobal](https://static.openfintech.io/payment_providers/eftglobal/logo.svg?w=600&c=v0.59.26#w100) |[**EFT Global**](eftglobal/)|`eftglobal`| 
 |![elavoneu](https://static.openfintech.io/payment_providers/elavoneu/logo.png?w=600&c=v0.59.26#w100) |[**Elavon**](elavoneu/)|`elavoneu`| 
 |![electropay](https://static.openfintech.io/payment_providers/electropay/logo.png?w=600&c=v0.59.26#w100) |[**ElectroPay**](electropay/)|`electropay`| 
+|![eleospay](https://static.openfintech.io/payment_providers/eleospay/logo.png?w=600&c=v0.59.26#w100) |[**EleosPay**](eleospay/)|`eleospay`| 
 |![elitepay](https://static.openfintech.io/payment_providers/elitepay/logo.png?w=600&c=v0.59.26#w100) |[**Elitepay**](elitepay/)|`elitepay`| 
 |![ematters](https://static.openfintech.io/payment_providers/ematters/logo.svg?w=600&c=v0.59.26#w100) |[**eMatters**](ematters/)|`ematters`| 
 |![emblaze](https://static.openfintech.io/payment_providers/emblaze/logo.png?w=600&c=v0.59.26#w100) |[**eMblaze One**](emblaze/)|`emblaze`| 

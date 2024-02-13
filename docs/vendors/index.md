@@ -641,6 +641,7 @@
 |![electroniccheckach](https://static.openfintech.io/vendors/electroniccheckach/logo.png?w=600&c=v0.59.26#w200) |[**eCheck (ACH)**](electroniccheckach/)|`electroniccheckach`| 
 |![electropay](https://static.openfintech.io/vendors/electropay/logo.png?w=600&c=v0.59.26#w200) |[**ElectroPay**](electropay/)|`electropay`| 
 |![elektronischeslastschriftverfahren](https://static.openfintech.io/vendors/elektronischeslastschriftverfahren/logo.png?w=600&c=v0.59.26#w200) |[**ELV**](elektronischeslastschriftverfahren/)|`elektronischeslastschriftverfahren`| 
+|![eleospay](https://static.openfintech.io/vendors/eleospay/logo.png?w=600&c=v0.59.26#w200) |[**EleosPay**](eleospay/)|`eleospay`| 
 |![elitepay](https://static.openfintech.io/vendors/elitepay/logo.png?w=600&c=v0.59.26#w200) |[**Elitepay**](elitepay/)|`elitepay`| 
 |![elo](https://static.openfintech.io/vendors/elo/logo.png?w=600&c=v0.59.26#w200) |[**Elo**](elo/)|`elo`| 
 |![elsom](https://static.openfintech.io/vendors/elsom/logo.svg?w=600&c=v0.59.26#w200) |[**Элсом**](elsom/)|`elsom`| 

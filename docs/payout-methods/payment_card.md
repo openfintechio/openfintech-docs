@@ -527,7 +527,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![pavpay](https://static.openfintech.io/payment_providers/pavpay/icon.svg?w=278&c=v0.59.26#w100) |[PavPay](/payment-providers/pavpay/)|`pavpay`| 
 |![kora](https://static.openfintech.io/payment_providers/kora/icon.svg?w=278&c=v0.59.26#w100) |[Kora](/payment-providers/kora/)|`kora`| 
 |![paywisesolutions](https://static.openfintech.io/payment_providers/paywisesolutions/icon.png?w=278&c=v0.59.26#w100) |[PaywiseSolutions](/payment-providers/paywisesolutions/)|`paywisesolutions`| 
+|![mtbbank](https://static.openfintech.io/payment_providers/mtbbank/icon.svg?w=278&c=v0.59.26#w100) |[MTB Bank](/payment-providers/mtbbank/)|`mtbbank`| 
 |![cdn](https://static.openfintech.io/payment_providers/cdn/icon.svg?w=278&c=v0.59.26#w100) |[CDN](/payment-providers/cdn/)|`cdn`| 
+|![eleospay](https://static.openfintech.io/payment_providers/eleospay/icon.png?w=278&c=v0.59.26#w100) |[EleosPay](/payment-providers/eleospay/)|`eleospay`| 
  
 
 ## JSON Object 
