@@ -1647,6 +1647,7 @@
 |![payxpert](https://static.openfintech.io/vendors/payxpert/logo.png?w=600&c=v0.59.26#w200) |[**PayXpert**](payxpert/)|`payxpert`| 
 |![payza](https://static.openfintech.io/vendors/payza/logo.png?w=600&c=v0.59.26#w200) |[**Payza**](payza/)|`payza`| 
 |![payzang](https://static.openfintech.io/vendors/payzang/logo.png?w=600&c=v0.59.26#w200) |[**PayZang**](payzang/)|`payzang`| 
+|![payzeasy](https://static.openfintech.io/vendors/payzeasy/logo.png?w=600&c=v0.59.26#w200) |[**PayzEasy**](payzeasy/)|`payzeasy`| 
 |![payzen](https://static.openfintech.io/vendors/payzen/logo.png?w=600&c=v0.59.26#w200) |[**PayZen**](payzen/)|`payzen`| 
 |![payzippy](https://static.openfintech.io/vendors/payzippy/logo.png?w=600&c=v0.59.26#w200) |[**PayZippy**](payzippy/)|`payzippy`| 
 |![payzoff](https://static.openfintech.io/vendors/payzoff/logo.png?w=600&c=v0.59.26#w200) |[**Payzoff**](payzoff/)|`payzoff`| 

@@ -1043,6 +1043,9 @@
 |![QNB Finansbank](https://static.openfintech.io/payment_methods/qnb_finansbank/logo.svg?w=400&c=v0.59.26#w200) |[**QNB Finansbank**](/payment-methods/qnb_finansbank/)|[`qnb_finansbank_try_invoice`](qnb_finansbank_try_invoice/)| 
 |![QQPay](https://static.openfintech.io/payment_methods/qqpay/logo.svg?w=400&c=v0.59.26#w200) |[**QQPay**](/payment-methods/qqpay/)|[`qqpay_cny_hpp`](qqpay_cny_hpp/)| 
 |![Qr Ph](https://static.openfintech.io/payment_methods/qr_ph/logo.svg?w=400&c=v0.59.26#w200) |[**Qr Ph**](/payment-methods/qr_ph/)|[`qr_ph_php_hpp`](qr_ph_php_hpp/)| 
+|![Quick Bit](https://static.openfintech.io/payment_methods/quick_bit/logo.svg?w=400&c=v0.59.26#w200) |[**Quick Bit**](/payment-methods/quick_bit/)|[`quick_bit_eur_hpp`](quick_bit_eur_hpp/)| 
+|![Quick Bit](https://static.openfintech.io/payment_methods/quick_bit/logo.svg?w=400&c=v0.59.26#w200) |[**Quick Bit**](/payment-methods/quick_bit/)|[`quick_bit_nok_hpp`](quick_bit_nok_hpp/)| 
+|![Quick Bit](https://static.openfintech.io/payment_methods/quick_bit/logo.svg?w=400&c=v0.59.26#w200) |[**Quick Bit**](/payment-methods/quick_bit/)|[`quick_bit_sek_hpp`](quick_bit_sek_hpp/)| 
 ||| **R** ||
 |![Rabitabank](https://static.openfintech.io/payment_methods/rabitabank/logo.svg?w=400&c=v0.59.26#w200) |[**Rabitabank**](/payment-methods/rabitabank/)|[`rabitabank_azn_invoice`](rabitabank_azn_invoice/)| 
 |![Rabobank](https://static.openfintech.io/payment_methods/rabobank/logo.png?w=400&c=v0.59.26#w200) |[**Rabobank**](/payment-methods/rabobank/)|[`rabobank_eur_hpp`](rabobank_eur_hpp/)| 

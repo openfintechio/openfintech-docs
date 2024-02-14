@@ -64,6 +64,7 @@ The list of [Payment Providers](/payment-providers/) that support the _UPI_
 |![wealthpay](https://static.openfintech.io/payment_providers/wealthpay/icon.png?w=278&c=v0.59.26#w100) |[WealthPay](/payment-providers/wealthpay/)|`wealthpay`| 
 |![123pay](https://static.openfintech.io/payment_providers/123pay/icon.svg?w=278&c=v0.59.26#w100) |[OneTwoThreePay](/payment-providers/123pay/)|`123pay`| 
 |![buckzy](https://static.openfintech.io/payment_providers/buckzy/icon.png?w=278&c=v0.59.26#w100) |[Buckzy](/payment-providers/buckzy/)|`buckzy`| 
+|![payzeasy](https://static.openfintech.io/payment_providers/payzeasy/icon.png?w=278&c=v0.59.26#w100) |[PayzEasy](/payment-providers/payzeasy/)|`payzeasy`| 
  
 
 ## JSON Object 
