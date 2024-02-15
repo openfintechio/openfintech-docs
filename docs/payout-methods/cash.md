@@ -34,6 +34,7 @@ The list of [Payout Services](/payout-services/) based on the _CASH_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![cash](https://static.openfintech.io/payout_methods/cash/icon.png?w=278&c=v0.59.26#w40) |[cash_cop](/payout-services/cash_cop/)|`cash_cop`| 
 |![cash](https://static.openfintech.io/payout_methods/cash/icon.png?w=278&c=v0.59.26#w40) |[cash_uah](/payout-services/cash_uah/)|`cash_uah`| 
 |![cash](https://static.openfintech.io/payout_methods/cash/icon.png?w=278&c=v0.59.26#w40) |[cash_rub](/payout-services/cash_rub/)|`cash_rub`| 
 |![cash](https://static.openfintech.io/payout_methods/cash/icon.png?w=278&c=v0.59.26#w40) |[cash_usd](/payout-services/cash_usd/)|`cash_usd`| 

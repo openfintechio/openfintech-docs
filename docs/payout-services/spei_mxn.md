@@ -29,6 +29,8 @@
 |`document_id`|✗|`string`|`/^.{6,12}$/`| 
 |`bank_code`|✗|`string`|`/^[0-9]{2,4}$/`| 
 |`account_number`|✔|`string`|`/^[0-9]{5,100}$/`| 
+|`payment_concept`|✗|`string`|`/^[a-zA-Z 0-9]+$/`| 
+|`beneficiary_full_name`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
  
 
 ### Details 
@@ -123,6 +125,38 @@
 	: [RU] Введите номер счёта 
 	: [UK] Введіть номер рахунку 
  
+6. **`payment_concept`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[a-zA-Z 0-9]+$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Payment concept 
+ 
+	Hint:  
+	: [EN] Enter Payment Concept 
+ 
+7. **`beneficiary_full_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[\s\p{L}\p{N}\p{P}]{2,100}$/u` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary full name 
+	: [RU] Полное имя получателя 
+	: [UK] Повне ім'я отримувача 
+ 
+	Hint:  
+	: [EN] Enter beneficiary full name 
+	: [RU] Введите полное имя получателя 
+	: [UK] Введіть повне ім'я отримувача 
+ 
 
 ## JSON Object 
 
@@ -216,6 +250,36 @@
       },
       "position":5,
       "required":true
+    },
+    {
+      "key":"payment_concept",
+      "type":"string",
+      "regexp":"\/^[a-zA-Z 0-9]+$\/",
+      "required":false,
+      "position":6,
+      "label":{
+        "en":"Payment concept"
+      },
+      "hint":{
+        "en":"Enter Payment Concept"
+      }
+    },
+    {
+      "key":"beneficiary_full_name",
+      "type":"string",
+      "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}]{2,100}$\/u",
+      "required":false,
+      "position":7,
+      "label":{
+        "en":"Beneficiary full name",
+        "ru":"\u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u041f\u043e\u0432\u043d\u0435 \u0456\u043c'\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter beneficiary full name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c'\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      }
     }
   ],
   "amount_min":"0.01",
