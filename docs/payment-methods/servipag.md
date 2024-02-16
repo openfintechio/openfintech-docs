@@ -37,6 +37,15 @@ https://static.openfintech.io/payment_methods/servipag/logo.png?w=400&c=v0.59.26
 https://static.openfintech.io/payment_methods/servipag/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Servipag_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![servipag](https://static.openfintech.io/payment_methods/servipag/icon.png?w=278&c=v0.59.26#w100) |[servipag_clp_hpp](/payment-services/servipag_clp_hpp/)|`servipag_clp_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Servipag_ 
@@ -44,6 +53,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Servipag_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
+|![inswitch](https://static.openfintech.io/payment_providers/inswitch/icon.png?w=278&c=v0.59.26#w100) |[Inswitch](/payment-providers/inswitch/)|`inswitch`| 
  
 
 ## JSON Object 

@@ -55,9 +55,11 @@ The list of [Payment Providers](/payment-providers/) that support the _PIX_
 |![onlineips](https://static.openfintech.io/payment_providers/onlineips/icon.png?w=278&c=v0.59.26#w100) |[Online IPS](/payment-providers/onlineips/)|`onlineips`| 
 |![payretailers](https://static.openfintech.io/payment_providers/payretailers/icon.svg?w=278&c=v0.59.26#w100) |[PayRetailers](/payment-providers/payretailers/)|`payretailers`| 
 |![pagsmile](https://static.openfintech.io/payment_providers/pagsmile/icon.png?w=278&c=v0.59.26#w100) |[Pagsmile](/payment-providers/pagsmile/)|`pagsmile`| 
+|![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
 |![pay4fungo](https://static.openfintech.io/payment_providers/pay4fungo/icon.png?w=278&c=v0.59.26#w100) |[Pay4funGo](/payment-providers/pay4fungo/)|`pay4fungo`| 
 |![anspacepay](https://static.openfintech.io/payment_providers/anspacepay/icon.png?w=278&c=v0.59.26#w100) |[AnSpacePay](/payment-providers/anspacepay/)|`anspacepay`| 
 |![sqalapay](https://static.openfintech.io/payment_providers/sqalapay/icon.png?w=278&c=v0.59.26#w100) |[Sqalapay](/payment-providers/sqalapay/)|`sqalapay`| 
+|![inswitch](https://static.openfintech.io/payment_providers/inswitch/icon.png?w=278&c=v0.59.26#w100) |[Inswitch](/payment-providers/inswitch/)|`inswitch`| 
 |![toppay](https://static.openfintech.io/payment_providers/toppay/icon.svg?w=278&c=v0.59.26#w100) |[TopPay](/payment-providers/toppay/)|`toppay`| 
  
 

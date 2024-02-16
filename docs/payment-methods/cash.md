@@ -71,6 +71,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Cash_
 |![manual](https://static.openfintech.io/payment_providers/manual/icon.svg?w=278&c=v0.59.26#w100) |[Manual](/payment-providers/manual/)|`manual`| 
 |![decard](https://static.openfintech.io/payment_providers/decard/icon.svg?w=278&c=v0.59.26#w100) |[Decard](/payment-providers/decard/)|`decard`| 
 |![payport](https://static.openfintech.io/payment_providers/payport/icon.svg?w=278&c=v0.59.26#w100) |[PayPort](/payment-providers/payport/)|`payport`| 
+|![inswitch](https://static.openfintech.io/payment_providers/inswitch/icon.png?w=278&c=v0.59.26#w100) |[Inswitch](/payment-providers/inswitch/)|`inswitch`| 
  
 
 ## JSON Object 

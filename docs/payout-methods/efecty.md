@@ -41,6 +41,15 @@ The list of [Payout Services](/payout-services/) based on the _Efecty_
 |![efecty](https://static.openfintech.io/payout_methods/efecty/icon.svg?w=278&c=v0.59.26#w40) |[efecty_cop](/payout-services/efecty_cop/)|`efecty_cop`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Efecty_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![inswitch](https://static.openfintech.io/payment_providers/inswitch/icon.png?w=278&c=v0.59.26#w100) |[Inswitch](/payment-providers/inswitch/)|`inswitch`| 
+ 
+
 ## JSON Object 
 
 ```json

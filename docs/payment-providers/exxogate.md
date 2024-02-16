@@ -216,6 +216,9 @@ The list of supported [Payment Methods](/payment-methods/)
 |![nagad_wallet](https://static.openfintech.io/payment_methods/nagad_wallet/icon.png?w=278&c=v0.59.26#w100) |[nagad_wallet](/payment-methods/nagad_wallet/)|`nagad_wallet`| 
 |![dutch_bangla_bank_limited_rocket](https://static.openfintech.io/payment_methods/dutch_bangla_bank_limited_rocket/icon.png?w=278&c=v0.59.26#w100) |[dutch_bangla_bank_limited_rocket](/payment-methods/dutch_bangla_bank_limited_rocket/)|`dutch_bangla_bank_limited_rocket`| 
 |![united_commercial_bank_upay](https://static.openfintech.io/payment_methods/united_commercial_bank_upay/icon.png?w=278&c=v0.59.26#w100) |[united_commercial_bank_upay](/payment-methods/united_commercial_bank_upay/)|`united_commercial_bank_upay`| 
+|![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix](/payment-methods/pix/)|`pix`| 
+|![picpay](https://static.openfintech.io/payment_methods/picpay/icon.svg?w=278&c=v0.59.26#w100) |[picpay](/payment-methods/picpay/)|`picpay`| 
+|![pse](https://static.openfintech.io/payment_methods/pse/icon.svg?w=278&c=v0.59.26#w100) |[pse](/payment-methods/pse/)|`pse`| 
  
 
 ## Payout Methods 
@@ -592,6 +595,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![nagad_wallet](https://static.openfintech.io/payout_methods/nagad_wallet/icon.svg?w=278&c=v0.59.26#w40) |[nagad_wallet](payout-methodsnagad_wallet/)|`nagad_wallet`| 
 |![dutch_bangla_bank_limited_rocket](https://static.openfintech.io/payout_methods/dutch_bangla_bank_limited_rocket/icon.svg?w=278&c=v0.59.26#w40) |[dutch_bangla_bank_limited_rocket](payout-methodsdutch_bangla_bank_limited_rocket/)|`dutch_bangla_bank_limited_rocket`| 
 |![united_commercial_bank_upay](https://static.openfintech.io/payout_methods/united_commercial_bank_upay/icon.svg?w=278&c=v0.59.26#w40) |[united_commercial_bank_upay](payout-methodsunited_commercial_bank_upay/)|`united_commercial_bank_upay`| 
+|![pix](https://static.openfintech.io/payout_methods/pix/icon.svg?w=278&c=v0.59.26#w40) |[pix](payout-methodspix/)|`pix`| 
  
 
 ## JSON Object 
@@ -780,7 +784,10 @@ The list of supported [Payout Methods](/payout-methods/)
     "bkash_limited",
     "nagad_wallet",
     "dutch_bangla_bank_limited_rocket",
-    "united_commercial_bank_upay"
+    "united_commercial_bank_upay",
+    "pix",
+    "picpay",
+    "pse"
   ],
   "payout_method":[
     "hdfc_bank",
@@ -1150,7 +1157,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "bkash_limited",
     "nagad_wallet",
     "dutch_bangla_bank_limited_rocket",
-    "united_commercial_bank_upay"
+    "united_commercial_bank_upay",
+    "pix"
   ],
   "metadata":null,
   "name":{

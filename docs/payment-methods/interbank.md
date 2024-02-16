@@ -47,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Interbank
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payretailers](https://static.openfintech.io/payment_providers/payretailers/icon.svg?w=278&c=v0.59.26#w100) |[PayRetailers](/payment-providers/payretailers/)|`payretailers`| 
+|![inswitch](https://static.openfintech.io/payment_providers/inswitch/icon.png?w=278&c=v0.59.26#w100) |[Inswitch](/payment-providers/inswitch/)|`inswitch`| 
  
 
 ## JSON Object 

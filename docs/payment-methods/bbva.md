@@ -37,6 +37,15 @@ https://static.openfintech.io/payment_methods/bbva/logo.png?w=400&c=v0.59.26#w20
 https://static.openfintech.io/payment_methods/bbva/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _BBVA_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![bbva](https://static.openfintech.io/payment_methods/bbva/icon.png?w=278&c=v0.59.26#w100) |[bbva_pen_hpp](/payment-services/bbva_pen_hpp/)|`bbva_pen_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _BBVA_ 
@@ -45,6 +54,7 @@ The list of [Payment Providers](/payment-providers/) that support the _BBVA_
 |:---:|:---:|:---:| 
 |![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
+|![inswitch](https://static.openfintech.io/payment_providers/inswitch/icon.png?w=278&c=v0.59.26#w100) |[Inswitch](/payment-providers/inswitch/)|`inswitch`| 
  
 
 ## JSON Object 

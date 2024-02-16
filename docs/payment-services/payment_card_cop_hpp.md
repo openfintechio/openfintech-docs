@@ -17,7 +17,7 @@
 :	[RU] Платежная карта 
 :	[UK] Платіжна карта 
  
-**Amount limits:** from `0.01` to `10000000` COP 
+**Amount limits:** from `1` to `5000000000` COP 
 
 ## JSON Object 
 
@@ -28,7 +28,7 @@
   "method":"payment_card",
   "currency":"COP",
   "fields":null,
-  "amount_min":0.01,
-  "amount_max":10000000
+  "amount_min":1,
+  "amount_max":5000000000
 }
 ```  
