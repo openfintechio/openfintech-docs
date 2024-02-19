@@ -46,9 +46,13 @@
  
 	Label:  
 	: [EN] Payment concept 
+	: [RU] Концепция платежа 
+	: [UK] Концепція платежу 
  
 	Hint:  
 	: [EN] Enter Payment Concept 
+	: [RU] Введите концепцию платежа 
+	: [UK] Введіть концепцію платежу 
  
 2. **`cci_key`** 
  
@@ -60,9 +64,13 @@
  
 	Label:  
 	: [EN] Cci key 
+	: [RU] Cci ключ 
+	: [UK] Cci ключ 
  
 	Hint:  
 	: [EN] Enter Cci Key 
+	: [RU] Введите Cci ключ 
+	: [UK] Введіть Cci ключ 
  
 3. **`document_number`** 
  
@@ -188,10 +196,14 @@
       "required":true,
       "position":1,
       "label":{
-        "en":"Payment concept"
+        "en":"Payment concept",
+        "ru":"\u041a\u043e\u043d\u0446\u0435\u043f\u0446\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430",
+        "uk":"\u041a\u043e\u043d\u0446\u0435\u043f\u0446\u0456\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0443"
       },
       "hint":{
-        "en":"Enter Payment Concept"
+        "en":"Enter Payment Concept",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u043d\u0446\u0435\u043f\u0446\u0438\u044e \u043f\u043b\u0430\u0442\u0435\u0436\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u043d\u0446\u0435\u043f\u0446\u0456\u044e \u043f\u043b\u0430\u0442\u0435\u0436\u0443"
       }
     },
     {
@@ -201,10 +213,14 @@
       "required":true,
       "position":2,
       "label":{
-        "en":"Cci key"
+        "en":"Cci key",
+        "ru":"Cci \u043a\u043b\u044e\u0447",
+        "uk":"Cci \u043a\u043b\u044e\u0447"
       },
       "hint":{
-        "en":"Enter Cci Key"
+        "en":"Enter Cci Key",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Cci \u043a\u043b\u044e\u0447",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Cci \u043a\u043b\u044e\u0447"
       }
     },
     {

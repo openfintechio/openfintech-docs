@@ -43,6 +43,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |![imps](https://static.openfintech.io/payment_methods/imps/icon.png?w=278&c=v0.59.26#w100) |[imps](/payment-methods/imps/)|`imps`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![imps](https://static.openfintech.io/payout_methods/imps/icon.png?w=278&c=v0.59.26#w40) |[imps](payout-methodsimps/)|`imps`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -56,7 +65,9 @@ The list of supported [Payment Methods](/payment-methods/)
     "upi",
     "imps"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "imps"
+  ],
   "metadata":null,
   "name":{
     "en":"PayzEasy",
