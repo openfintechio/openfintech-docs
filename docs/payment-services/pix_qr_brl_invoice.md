@@ -23,6 +23,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
+|`document_type`|✗|`string`|`/^(CPF\|CNPJ)$/`| 
 |`cpf_number`|✗|`string`|`/^[0-9\.\-\/]{1,18}$/`| 
 |`phone`|✗|`string`|`/^\+\d{10,14}$/`| 
 |`email`|✗|`string`|`/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$$/`| 
@@ -34,7 +35,25 @@
 
 ### Details 
  
-1. **`cpf_number`** 
+1. **`document_type`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^(CPF|CNPJ)$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary's personal identification type 
+	: [RU] Тип документа плательщика 
+	: [UK] Тип документа отримувача платника 
+ 
+	Hint:  
+	: [EN] Enter beneficiary's personal identification type 
+	: [RU] Введите тип документа плательщика 
+	: [UK] Введіть тип документа платника 
+ 
+2. **`cpf_number`** 
  
 	Type: `string` 
  
@@ -52,7 +71,7 @@
 	: [RU] Введите CPF номер 
 	: [UK] Введіть CPF номер 
  
-2. **`phone`** 
+3. **`phone`** 
  
 	Type: `string` 
  
@@ -70,7 +89,7 @@
 	: [RU] Введите номер телефона 
 	: [UK] Введіть номер телефону 
  
-3. **`email`** 
+4. **`email`** 
  
 	Type: `string` 
  
@@ -88,7 +107,7 @@
 	: [RU] Введите email 
 	: [UK] Введіть email 
  
-4. **`payer_first_name`** 
+5. **`payer_first_name`** 
  
 	Type: `string` 
  
@@ -106,7 +125,7 @@
 	: [RU] Введите имя отправителя 
 	: [UK] Введіть імʼя відправника 
  
-5. **`payer_last_name`** 
+6. **`payer_last_name`** 
  
 	Type: `string` 
  
@@ -124,7 +143,7 @@
 	: [RU] Введите фамилию отправителя 
 	: [UK] Введіть прізвище відправника 
  
-6. **`payer_zip_code`** 
+7. **`payer_zip_code`** 
  
 	Type: `string` 
  
@@ -142,7 +161,7 @@
 	: [RU] Введите почтовый индекс плательщика 
 	: [UK] Введіть поштовий індекс платника 
  
-7. **`date_of_birth`** 
+8. **`date_of_birth`** 
  
 	Type: `string` 
  
@@ -170,6 +189,24 @@
   "method":"pix_qr",
   "currency":"BRL",
   "fields":[
+    {
+      "key":"document_type",
+      "type":"string",
+      "regexp":"\/^(CPF|CNPJ)$\/",
+      "required":false,
+      "position":0,
+      "label":{
+        "en":"Beneficiary's personal identification type",
+        "ru":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043b\u0430\u0442\u0435\u043b\u044c\u0449\u0438\u043a\u0430",
+        "uk":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430 \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
+      },
+      "hint":{
+        "en":"Enter beneficiary's personal identification type",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043b\u0430\u0442\u0435\u043b\u044c\u0449\u0438\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
+      },
+      "example":"CPF\/CNPJ"
+    },
     {
       "key":"cpf_number",
       "type":"string",

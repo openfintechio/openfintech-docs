@@ -113,6 +113,7 @@
 |![bitnet](https://static.openfintech.io/payment_providers/bitnet/logo.svg?w=600&c=v0.59.26#w100) |[**Bitnet Technologies Ltd**](bitnet/)|`bitnet`| 
 |![bitpay](https://static.openfintech.io/payment_providers/bitpay/logo.svg?w=600&c=v0.59.26#w100) |[**BitPay**](bitpay/)|`bitpay`| 
 |![bitso](https://static.openfintech.io/payment_providers/bitso/logo.svg?w=600&c=v0.59.26#w100) |[**Bitso**](bitso/)|`bitso`| 
+|![bizon](https://static.openfintech.io/payment_providers/bizon/logo.png?w=600&c=v0.59.26#w100) |[**Bizon**](bizon/)|`bizon`| 
 |![blablapay](https://static.openfintech.io/payment_providers/blablapay/logo.svg?w=600&c=v0.59.26#w100) |[**BlaBlaPay**](blablapay/)|`blablapay`| 
 |![blackrabbit](https://static.openfintech.io/payment_providers/blackrabbit/logo.png?w=600&c=v0.59.26#w100) |[**BlackRabbit**](blackrabbit/)|`blackrabbit`| 
 |![bluepaid](https://static.openfintech.io/payment_providers/bluepaid/logo.png?w=600&c=v0.59.26#w100) |[**BLUE PAID**](bluepaid/)|`bluepaid`| 
@@ -408,6 +409,7 @@
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/logo.png?w=600&c=v0.59.26#w100) |[**Interkassa**](interkassa/)|`interkassa`| 
 |![internationalpaymentsolutions](https://static.openfintech.io/payment_providers/internationalpaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**International Payment Solutions (IPS)**](internationalpaymentsolutions/)|`internationalpaymentsolutions`| 
 |![inwizo](https://static.openfintech.io/payment_providers/inwizo/logo.svg?w=600&c=v0.59.26#w100) |[**Inwizo**](inwizo/)|`inwizo`| 
+|![ipague](https://static.openfintech.io/payment_providers/ipague/logo.png?w=600&c=v0.59.26#w100) |[**iPague**](ipague/)|`ipague`| 
 |![ipay88](https://static.openfintech.io/payment_providers/ipay88/logo.png?w=600&c=v0.59.26#w100) |[**iPay88**](ipay88/)|`ipay88`| 
 |![ipaydna](https://static.openfintech.io/payment_providers/ipaydna/logo.png?w=600&c=v0.59.26#w100) |[**iPayDNA**](ipaydna/)|`ipaydna`| 
 |![ipaymu](https://static.openfintech.io/payment_providers/ipaymu/logo.png?w=600&c=v0.59.26#w100) |[**IPAYMU**](ipaymu/)|`ipaymu`| 

@@ -509,7 +509,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![paywings](https://static.openfintech.io/payment_providers/paywings/icon.png?w=278&c=v0.59.26#w100) |[PayWings](/payment-providers/paywings/)|`paywings`| 
 |![rubinpay](https://static.openfintech.io/payment_providers/rubinpay/icon.png?w=278&c=v0.59.26#w100) |[RubinPay](/payment-providers/rubinpay/)|`rubinpay`| 
 |![wallet378](https://static.openfintech.io/payment_providers/wallet378/icon.png?w=278&c=v0.59.26#w100) |[Wallet378](/payment-providers/wallet378/)|`wallet378`| 
-|![symoco](https://static.openfintech.io/payment_providers/symoco/icon.png?w=278&c=v0.59.26#w100) |[Symoco](/payment-providers/symoco/)|`symoco`| 
 |![networx](https://static.openfintech.io/payment_providers/networx/icon.png?w=278&c=v0.59.26#w100) |[Networx](/payment-providers/networx/)|`networx`| 
 |![paylinkvip](https://static.openfintech.io/payment_providers/paylinkvip/icon.svg?w=278&c=v0.59.26#w100) |[PaylinkVip](/payment-providers/paylinkvip/)|`paylinkvip`| 
 |![jmitsolutions](https://static.openfintech.io/payment_providers/jmitsolutions/icon.svg?w=278&c=v0.59.26#w100) |[JMITsolutions](/payment-providers/jmitsolutions/)|`jmitsolutions`| 
@@ -528,6 +527,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![mtbbank](https://static.openfintech.io/payment_providers/mtbbank/icon.svg?w=278&c=v0.59.26#w100) |[MTB Bank](/payment-providers/mtbbank/)|`mtbbank`| 
 |![cdn](https://static.openfintech.io/payment_providers/cdn/icon.svg?w=278&c=v0.59.26#w100) |[CDN](/payment-providers/cdn/)|`cdn`| 
 |![eleospay](https://static.openfintech.io/payment_providers/eleospay/icon.png?w=278&c=v0.59.26#w100) |[EleosPay](/payment-providers/eleospay/)|`eleospay`| 
+|![bizon](https://static.openfintech.io/payment_providers/bizon/icon.png?w=278&c=v0.59.26#w100) |[Bizon](/payment-providers/bizon/)|`bizon`| 
  
 
 ## JSON Object 

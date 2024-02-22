@@ -56,6 +56,7 @@ The list of [Payment Providers](/payment-providers/) that support the _SBP QR_
 |:---:|:---:|:---:| 
 |![forta](https://static.openfintech.io/payment_providers/forta/icon.png?w=278&c=v0.59.26#w100) |[Forta](/payment-providers/forta/)|`forta`| 
 |![connpay](https://static.openfintech.io/payment_providers/connpay/icon.png?w=278&c=v0.59.26#w100) |[ConnPay](/payment-providers/connpay/)|`connpay`| 
+|![symoco](https://static.openfintech.io/payment_providers/symoco/icon.png?w=278&c=v0.59.26#w100) |[Symoco](/payment-providers/symoco/)|`symoco`| 
  
 
 ## JSON Object 

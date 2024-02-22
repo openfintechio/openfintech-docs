@@ -346,6 +346,7 @@
 |![bitochek.net](https://static.openfintech.io/vendors/bitochek.net/logo.svg?w=600&c=v0.59.26#w200) |[**bitochek.net**](bitochek.net/)|`bitochek.net`| 
 |![bitpay](https://static.openfintech.io/vendors/bitpay/logo.svg?w=600&c=v0.59.26#w200) |[**BitPay**](bitpay/)|`bitpay`| 
 |![bitso](https://static.openfintech.io/vendors/bitso/logo.svg?w=600&c=v0.59.26#w200) |[**Bitso**](bitso/)|`bitso`| 
+|![bizon](https://static.openfintech.io/vendors/bizon/logo.png?w=600&c=v0.59.26#w200) |[**Bizon**](bizon/)|`bizon`| 
 |![bkmexpress](https://static.openfintech.io/vendors/bkmexpress/logo.png?w=600&c=v0.59.26#w200) |[**BKM Express**](bkmexpress/)|`bkmexpress`| 
 |![blablapay](https://static.openfintech.io/vendors/blablapay/logo.svg?w=600&c=v0.59.26#w200) |[**BlaBlaPay**](blablapay/)|`blablapay`| 
 |![blackrabbit](https://static.openfintech.io/vendors/blackrabbit/logo.png?w=600&c=v0.59.26#w200) |[**BlackRabbit**](blackrabbit/)|`blackrabbit`| 
@@ -981,6 +982,7 @@
 |![internationalpaymentsolutions](https://static.openfintech.io/vendors/internationalpaymentsolutions/logo.png?w=600&c=v0.59.26#w200) |[**International Payment Solutions (IPS)**](internationalpaymentsolutions/)|`internationalpaymentsolutions`| 
 |![intexchange.ru](https://static.openfintech.io/vendors/intexchange.ru/logo.svg?w=600&c=v0.59.26#w200) |[**IntExchange**](intexchange.ru/)|`intexchange.ru`| 
 |![inwizo](https://static.openfintech.io/vendors/inwizo/logo.svg?w=600&c=v0.59.26#w200) |[**Inwizo**](inwizo/)|`inwizo`| 
+|![ipague](https://static.openfintech.io/vendors/ipague/logo.png?w=600&c=v0.59.26#w200) |[**iPague**](ipague/)|`ipague`| 
 |![ipay88](https://static.openfintech.io/vendors/ipay88/logo.png?w=600&c=v0.59.26#w200) |[**iPay88**](ipay88/)|`ipay88`| 
 |![ipaydna](https://static.openfintech.io/vendors/ipaydna/logo.png?w=600&c=v0.59.26#w200) |[**iPayDNA**](ipaydna/)|`ipaydna`| 
 |![ipaymu](https://static.openfintech.io/vendors/ipaymu/logo.png?w=600&c=v0.59.26#w200) |[**IPAYMU**](ipaymu/)|`ipaymu`| 
