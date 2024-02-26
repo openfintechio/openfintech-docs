@@ -1,5 +1,5 @@
 
-# EmerchantPay 
+# emerchantpay 
 ![emerchantpay](https://static.openfintech.io/payment_providers/emerchantpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,13 @@
  
 **Name:** 
  
-:	[EN] EmerchantPay 
-:	[RU] EmerchantPay 
-:	[UK] EmerchantPay 
+:	[EN] emerchantpay 
+:	[RU] emerchantpay 
+:	[UK] emerchantpay 
+ 
+**Description:** 
+ 
+: [EN] emerchantpay is a leading global payment service provider and acquirer for online, mobile, in-store and over-the-phone payments. Their global payments solution is available through a simple integration, offering a diverse range of features, including global acquiring, global and local payment methods, advanced fraud management and performance optimisation. They empower businesses to design seamless and engaging payment experiences for their consumers. 
  
 
 ## Images 
@@ -47,7 +51,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"emerchantpay",
-  "description":null,
+  "description":{
+    "en":"emerchantpay is a leading global payment service provider and acquirer for online, mobile, in-store and over-the-phone payments. Their global payments solution is available through a simple integration, offering a diverse range of features, including global acquiring, global and local payment methods, advanced fraud management and performance optimisation. They empower businesses to design seamless and engaging payment experiences for their consumers."
+  },
   "vendor":"emerchantpay",
   "categories":null,
   "countries":null,
@@ -57,9 +63,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"EmerchantPay",
-    "ru":"EmerchantPay",
-    "uk":"EmerchantPay"
+    "en":"emerchantpay",
+    "ru":"emerchantpay",
+    "uk":"emerchantpay"
   }
 }
 ```  

@@ -241,7 +241,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
 |![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.png?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
 |![ccbill](https://static.openfintech.io/payment_providers/ccbill/icon.png?w=278&c=v0.59.26#w100) |[CCBill](/payment-providers/ccbill/)|`ccbill`| 
-|![emerchantpay](https://static.openfintech.io/payment_providers/emerchantpay/icon.svg?w=278&c=v0.59.26#w100) |[EmerchantPay](/payment-providers/emerchantpay/)|`emerchantpay`| 
+|![emerchantpay](https://static.openfintech.io/payment_providers/emerchantpay/icon.svg?w=278&c=v0.59.26#w100) |[emerchantpay](/payment-providers/emerchantpay/)|`emerchantpay`| 
 |![cybersource](https://static.openfintech.io/payment_providers/cybersource/icon.svg?w=278&c=v0.59.26#w100) |[CyberSource](/payment-providers/cybersource/)|`cybersource`| 
 |![fibonatix](https://static.openfintech.io/payment_providers/fibonatix/icon.png?w=278&c=v0.59.26#w100) |[Fibonatix](/payment-providers/fibonatix/)|`fibonatix`| 
 |![ecommpay](https://static.openfintech.io/payment_providers/ecommpay/icon.png?w=278&c=v0.59.26#w100) |[ECOMMPAY](/payment-providers/ecommpay/)|`ecommpay`| 
@@ -531,6 +531,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![cdn](https://static.openfintech.io/payment_providers/cdn/icon.svg?w=278&c=v0.59.26#w100) |[CDN](/payment-providers/cdn/)|`cdn`| 
 |![eleospay](https://static.openfintech.io/payment_providers/eleospay/icon.png?w=278&c=v0.59.26#w100) |[EleosPay](/payment-providers/eleospay/)|`eleospay`| 
 |![bizon](https://static.openfintech.io/payment_providers/bizon/icon.png?w=278&c=v0.59.26#w100) |[Bizon](/payment-providers/bizon/)|`bizon`| 
+|![tillpayments](https://static.openfintech.io/payment_providers/tillpayments/icon.png?w=278&c=v0.59.26#w100) |[Till Payments](/payment-providers/tillpayments/)|`tillpayments`| 
+|![intervale](https://static.openfintech.io/payment_providers/intervale/icon.svg?w=278&c=v0.59.26#w100) |[Intervale](/payment-providers/intervale/)|`intervale`| 
  
 
 ## JSON Object 

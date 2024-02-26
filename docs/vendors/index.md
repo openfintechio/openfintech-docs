@@ -980,6 +980,7 @@
 |![interac](https://static.openfintech.io/vendors/interac/logo.png?w=600&c=v0.59.26#w200) |[**Interac Online**](interac/)|`interac`| 
 |![interkassa](https://static.openfintech.io/vendors/interkassa/logo.png?w=600&c=v0.59.26#w200) |[**Interkassa**](interkassa/)|`interkassa`| 
 |![internationalpaymentsolutions](https://static.openfintech.io/vendors/internationalpaymentsolutions/logo.png?w=600&c=v0.59.26#w200) |[**International Payment Solutions (IPS)**](internationalpaymentsolutions/)|`internationalpaymentsolutions`| 
+|![intervale](https://static.openfintech.io/vendors/intervale/logo.svg?w=600&c=v0.59.26#w200) |[**Intervale**](intervale/)|`intervale`| 
 |![intexchange.ru](https://static.openfintech.io/vendors/intexchange.ru/logo.svg?w=600&c=v0.59.26#w200) |[**IntExchange**](intexchange.ru/)|`intexchange.ru`| 
 |![inwizo](https://static.openfintech.io/vendors/inwizo/logo.svg?w=600&c=v0.59.26#w200) |[**Inwizo**](inwizo/)|`inwizo`| 
 |![ipague](https://static.openfintech.io/vendors/ipague/logo.png?w=600&c=v0.59.26#w200) |[**iPague**](ipague/)|`ipague`| 
@@ -1985,6 +1986,7 @@
 |![thepaymentconsultant](https://static.openfintech.io/vendors/thepaymentconsultant/logo.svg?w=600&c=v0.59.26#w200) |[**The Payment Consultant**](thepaymentconsultant/)|`thepaymentconsultant`| 
 |![thorpayments](https://static.openfintech.io/vendors/thorpayments/logo.svg?w=600&c=v0.59.26#w200) |[**Thor Payments**](thorpayments/)|`thorpayments`| 
 |![ticketpremium](https://static.openfintech.io/vendors/ticketpremium/logo.png?w=600&c=v0.59.26#w200) |[**Ticket Premium**](ticketpremium/)|`ticketpremium`| 
+|![tillpayments](https://static.openfintech.io/vendors/tillpayments/logo.png?w=600&c=v0.59.26#w200) |[**Till Payments**](tillpayments/)|`tillpayments`| 
 |![tinkoff](https://static.openfintech.io/vendors/tinkoff/logo.svg?w=600&c=v0.59.26#w200) |[**Tinkoff**](tinkoff/)|`tinkoff`| 
 |![tinkoffks](https://static.openfintech.io/vendors/tinkoffks/logo.svg?w=600&c=v0.59.26#w200) |[**Тинькофф КС**](tinkoffks/)|`tinkoffks`| 
 |![tkbbank](https://static.openfintech.io/vendors/tkbbank/logo.svg?w=600&c=v0.59.26#w200) |[**TKB Bank**](tkbbank/)|`tkbbank`| 

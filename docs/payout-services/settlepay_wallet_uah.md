@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`wallet_id`|✔|`string`|`/^SP[a-zA-Z\d]{13}$/`| 
+|`wallet_id`|✔|`string`|`/^(?i)SP[a-zA-Z\d]{13}$\|^380[0-9]{9}$/`| 
  
 
 ### Details 
@@ -33,7 +33,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^SP[a-zA-Z\d]{13}$/` 
+	Regexp: `/^(?i)SP[a-zA-Z\d]{13}$|^380[0-9]{9}$/` 
  
 	Required: `1` 
  
@@ -70,7 +70,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c ID Settlepay \u0433\u0430\u043c\u0430\u043d\u0446\u044f"
       },
       "example":"SP27ARC2B031973",
-      "regexp":"\/^SP[a-zA-Z\\d]{13}$\/",
+      "regexp":"\/^(?i)SP[a-zA-Z\\d]{13}$|^380[0-9]{9}$\/",
       "required":true,
       "position":1
     }

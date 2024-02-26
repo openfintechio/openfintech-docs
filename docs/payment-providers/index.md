@@ -279,7 +279,7 @@
 |![ematters](https://static.openfintech.io/payment_providers/ematters/logo.svg?w=600&c=v0.59.26#w100) |[**eMatters**](ematters/)|`ematters`| 
 |![emblaze](https://static.openfintech.io/payment_providers/emblaze/logo.png?w=600&c=v0.59.26#w100) |[**eMblaze One**](emblaze/)|`emblaze`| 
 |![emerald24](https://static.openfintech.io/payment_providers/emerald24/logo.svg?w=600&c=v0.59.26#w100) |[**Emerald24**](emerald24/)|`emerald24`| 
-|![emerchantpay](https://static.openfintech.io/payment_providers/emerchantpay/logo.svg?w=600&c=v0.59.26#w100) |[**EmerchantPay**](emerchantpay/)|`emerchantpay`| 
+|![emerchantpay](https://static.openfintech.io/payment_providers/emerchantpay/logo.svg?w=600&c=v0.59.26#w100) |[**emerchantpay**](emerchantpay/)|`emerchantpay`| 
 |![empayre](https://static.openfintech.io/payment_providers/empayre/logo.svg?w=600&c=v0.59.26#w100) |[**Empayre**](empayre/)|`empayre`| 
 |![ems](https://static.openfintech.io/payment_providers/ems/logo.svg?w=600&c=v0.59.26#w100) |[**EMS**](ems/)|`ems`| 
 |![endeavour](https://static.openfintech.io/payment_providers/endeavour/logo.svg?w=600&c=v0.59.26#w100) |[**Endeavour**](endeavour/)|`endeavour`| 
@@ -408,6 +408,7 @@
 |![intelligentpayments](https://static.openfintech.io/payment_providers/intelligentpayments/logo.png?w=600&c=v0.59.26#w100) |[**Intelligent Payments**](intelligentpayments/)|`intelligentpayments`| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/logo.png?w=600&c=v0.59.26#w100) |[**Interkassa**](interkassa/)|`interkassa`| 
 |![internationalpaymentsolutions](https://static.openfintech.io/payment_providers/internationalpaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**International Payment Solutions (IPS)**](internationalpaymentsolutions/)|`internationalpaymentsolutions`| 
+|![intervale](https://static.openfintech.io/payment_providers/intervale/logo.svg?w=600&c=v0.59.26#w100) |[**Intervale**](intervale/)|`intervale`| 
 |![inwizo](https://static.openfintech.io/payment_providers/inwizo/logo.svg?w=600&c=v0.59.26#w100) |[**Inwizo**](inwizo/)|`inwizo`| 
 |![ipague](https://static.openfintech.io/payment_providers/ipague/logo.png?w=600&c=v0.59.26#w100) |[**iPague**](ipague/)|`ipague`| 
 |![ipay88](https://static.openfintech.io/payment_providers/ipay88/logo.png?w=600&c=v0.59.26#w100) |[**iPay88**](ipay88/)|`ipay88`| 
@@ -858,6 +859,7 @@
 |![thenoy](https://static.openfintech.io/payment_providers/thenoy/logo.png?w=600&c=v0.59.26#w100) |[**THENOY**](thenoy/)|`thenoy`| 
 |![thepaymentconsultant](https://static.openfintech.io/payment_providers/thepaymentconsultant/logo.svg?w=600&c=v0.59.26#w100) |[**The Payment Consultant**](thepaymentconsultant/)|`thepaymentconsultant`| 
 |![thorpayments](https://static.openfintech.io/payment_providers/thorpayments/logo.png?w=600&c=v0.59.26#w100) |[**Thor Payments**](thorpayments/)|`thorpayments`| 
+|![tillpayments](https://static.openfintech.io/payment_providers/tillpayments/logo.png?w=600&c=v0.59.26#w100) |[**Till Payments**](tillpayments/)|`tillpayments`| 
 |![tinkoff](https://static.openfintech.io/payment_providers/tinkoff/logo.svg?w=600&c=v0.59.26#w100) |[**Tinkoff**](tinkoff/)|`tinkoff`| 
 |![tkbpay](https://static.openfintech.io/payment_providers/tkbpay/logo.svg?w=600&c=v0.59.26#w100) |[**TKB Pay**](tkbpay/)|`tkbpay`| 
 |![tnspay](https://static.openfintech.io/payment_providers/tnspay/logo.png?w=600&c=v0.59.26#w100) |[**TNSPay**](tnspay/)|`tnspay`| 
