@@ -1046,6 +1046,7 @@
 |![keiyo_bank](https://static.openfintech.io/vendors/keiyo_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Keiyo Bank**](keiyo_bank/)|`keiyo_bank`| 
 |![keycollect](https://static.openfintech.io/vendors/keycollect/logo.png?w=600&c=v0.59.26#w200) |[**KeyCollect**](keycollect/)|`keycollect`| 
 |![kfcc_bank](https://static.openfintech.io/vendors/kfcc_bank/logo.png?w=600&c=v0.59.26#w200) |[**Korean Federation of Community Credit**](kfcc_bank/)|`kfcc_bank`| 
+|![khanpay](https://static.openfintech.io/vendors/khanpay/logo.svg?w=600&c=v0.59.26#w200) |[**KhanPay**](khanpay/)|`khanpay`| 
 |![kiberpay](https://static.openfintech.io/vendors/kiberpay/logo.png?w=600&c=v0.59.26#w200) |[**Kiberpay**](kiberpay/)|`kiberpay`| 
 |![kicb](https://static.openfintech.io/vendors/kicb/logo.svg?w=600&c=v0.59.26#w200) |[**KICB**](kicb/)|`kicb`| 
 |![kingpaypayments](https://static.openfintech.io/vendors/kingpaypayments/logo.png?w=600&c=v0.59.26#w200) |[**KingPay**](kingpaypayments/)|`kingpaypayments`| 

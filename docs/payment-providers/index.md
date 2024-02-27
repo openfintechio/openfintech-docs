@@ -432,6 +432,7 @@
 |![katarun](https://static.openfintech.io/payment_providers/katarun/logo.svg?w=600&c=v0.59.26#w100) |[**Katarun**](katarun/)|`katarun`| 
 |![kaznachey](https://static.openfintech.io/payment_providers/kaznachey/logo.png?w=600&c=v0.59.26#w100) |[**Kaznachey**](kaznachey/)|`kaznachey`| 
 |![keycollect](https://static.openfintech.io/payment_providers/keycollect/logo.png?w=600&c=v0.59.26#w100) |[**KeyCollect**](keycollect/)|`keycollect`| 
+|![khanpay](https://static.openfintech.io/payment_providers/khanpay/logo.svg?w=600&c=v0.59.26#w100) |[**KhanPay**](khanpay/)|`khanpay`| 
 |![kiberpay](https://static.openfintech.io/payment_providers/kiberpay/logo.png?w=600&c=v0.59.26#w100) |[**Kiberpay**](kiberpay/)|`kiberpay`| 
 |![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/logo.png?w=600&c=v0.59.26#w100) |[**KingPay**](kingpaypayments/)|`kingpaypayments`| 
 |![kiwipay](https://static.openfintech.io/payment_providers/kiwipay/logo.png?w=600&c=v0.59.26#w100) |[**Kiwipay**](kiwipay/)|`kiwipay`| 
