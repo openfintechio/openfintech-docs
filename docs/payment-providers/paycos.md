@@ -59,6 +59,12 @@ The list of supported [Payment Methods](/payment-methods/)
 |![m10](https://static.openfintech.io/payment_methods/m10/icon.svg?w=278&c=v0.59.26#w100) |[m10](/payment-methods/m10/)|`m10`| 
 |![card_transfer_uzcard](https://static.openfintech.io/payment_methods/card_transfer_uzcard/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_uzcard](/payment-methods/card_transfer_uzcard/)|`card_transfer_uzcard`| 
 |![card_transfer_humo](https://static.openfintech.io/payment_methods/card_transfer_humo/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_humo](/payment-methods/card_transfer_humo/)|`card_transfer_humo`| 
+|![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix](/payment-methods/pix/)|`pix`| 
+|![pix_qr](https://static.openfintech.io/payment_methods/pix_qr/icon.svg?w=278&c=v0.59.26#w100) |[pix_qr](/payment-methods/pix_qr/)|`pix_qr`| 
+|![picpay](https://static.openfintech.io/payment_methods/picpay/icon.svg?w=278&c=v0.59.26#w100) |[picpay](/payment-methods/picpay/)|`picpay`| 
+|![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario](/payment-methods/boleto_bancario/)|`boleto_bancario`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
  
 
 ## JSON Object 
@@ -90,7 +96,13 @@ The list of supported [Payment Methods](/payment-methods/)
     "azer_turk_bank",
     "m10",
     "card_transfer_uzcard",
-    "card_transfer_humo"
+    "card_transfer_humo",
+    "pix",
+    "pix_qr",
+    "picpay",
+    "boleto_bancario",
+    "bank_transfer",
+    "payment_card"
   ],
   "payout_method":null,
   "metadata":null,
