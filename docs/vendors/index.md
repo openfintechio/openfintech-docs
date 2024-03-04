@@ -140,6 +140,7 @@
 |![asiacreditbank](https://static.openfintech.io/vendors/asiacreditbank/logo.svg?w=600&c=v0.59.26#w200) |[**AsiaCredit Bank**](asiacreditbank/)|`asiacreditbank`| 
 |![asiapay](https://static.openfintech.io/vendors/asiapay/logo.png?w=600&c=v0.59.26#w200) |[**AsiaPay**](asiapay/)|`asiapay`| 
 |![askbtcorg](https://static.openfintech.io/vendors/askbtcorg/logo.svg?w=600&c=v0.59.26#w200) |[**askbtc.org**](askbtcorg/)|`askbtcorg`| 
+|![aspay](https://static.openfintech.io/vendors/aspay/logo.png?w=600&c=v0.59.26#w200) |[**AsPay**](aspay/)|`aspay`| 
 |![assist](https://static.openfintech.io/vendors/assist/logo.png?w=600&c=v0.59.26#w200) |[**ASSIST**](assist/)|`assist`| 
 |![astropay](https://static.openfintech.io/vendors/astropay/logo.png?w=600&c=v0.59.26#w200) |[**AstroPay**](astropay/)|`astropay`| 
 |![at_artem_bank](https://static.openfintech.io/vendors/at_artem_bank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'АРТЕМ-БАНК'**](at_artem_bank/)|`at_artem_bank`| 
@@ -1110,7 +1111,7 @@
 |![lawson_bank](https://static.openfintech.io/vendors/lawson_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Lawson Bank**](lawson_bank/)|`lawson_bank`| 
 |![lemanpay](https://static.openfintech.io/vendors/lemanpay/logo.svg?w=600&c=v0.59.26#w200) |[**LemanPay**](lemanpay/)|`lemanpay`| 
 |![lemonway](https://static.openfintech.io/vendors/lemonway/logo.png?w=600&c=v0.59.26#w200) |[**Lemon Way**](lemonway/)|`lemonway`| 
-|![leobank](https://static.openfintech.io/vendors/leobank/logo.png?w=600&c=v0.59.26#w200) |[**LeoBank**](leobank/)|`leobank`| 
+|![leobank](https://static.openfintech.io/vendors/leobank/logo.svg?w=600&c=v0.59.26#w200) |[**Digimeth**](leobank/)|`leobank`| 
 |![leogaming](https://static.openfintech.io/vendors/leogaming/logo.svg?w=600&c=v0.59.26#w200) |[**leogaming**](leogaming/)|`leogaming`| 
 |![lianlianpay](https://static.openfintech.io/vendors/lianlianpay/logo.png?w=600&c=v0.59.26#w200) |[**LianlianPay**](lianlianpay/)|`lianlianpay`| 
 |![libernetix](https://static.openfintech.io/vendors/libernetix/logo.svg?w=600&c=v0.59.26#w200) |[**Libernetix**](libernetix/)|`libernetix`| 

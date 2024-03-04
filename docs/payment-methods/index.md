@@ -438,7 +438,7 @@
 |![lansforsakringar](https://static.openfintech.io/payment_methods/lansforsakringar/logo.png?w=400&c=v0.59.26#w200) |[**Länsförsäkringar**](lansforsakringar/)|`lansforsakringar`| 
 |![latam](https://static.openfintech.io/payment_methods/latam/logo.svg?w=400&c=v0.59.26#w200) |[**Latam**](latam/)|`latam`| 
 |![laxmi_vilas_bank](https://static.openfintech.io/payment_methods/laxmi_vilas_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Lakshmi Vilas Bank**](laxmi_vilas_bank/)|`laxmi_vilas_bank`| 
-|![leobank](https://static.openfintech.io/payment_methods/leobank/logo.svg?w=400&c=v0.59.26#w200) |[**Leobank**](leobank/)|`leobank`| 
+|![leobank](https://static.openfintech.io/payment_methods/leobank/logo.svg?w=400&c=v0.59.26#w200) |[**Digimeth**](leobank/)|`leobank`| 
 |![libertybank](https://static.openfintech.io/payment_methods/libertybank/logo.png?w=400&c=v0.59.26#w200) |[**Liberty Bank**](libertybank/)|`libertybank`| 
 |![lider](https://static.openfintech.io/payment_methods/lider/logo.png?w=400&c=v0.59.26#w200) |[**Leader**](lider/)|`lider`| 
 |![lider_cash](https://static.openfintech.io/payment_methods/lider_cash/logo.png?w=400&c=v0.59.26#w200) |[**Lider**](lider_cash/)|`lider_cash`| 

@@ -679,7 +679,7 @@
 |![La Perla](https://static.openfintech.io/payment_methods/la_perla/logo.svg?w=400&c=v0.59.26#w200) |[**La Perla**](/payment-methods/la_perla/)|[`laperlain_cop_hpp`](laperlain_cop_hpp/)| 
 |![Latam](https://static.openfintech.io/payment_methods/latam/logo.svg?w=400&c=v0.59.26#w200) |[**Latam**](/payment-methods/latam/)|[`latam_usd_hpp`](latam_usd_hpp/)| 
 |![Lakshmi Vilas Bank](https://static.openfintech.io/payment_methods/laxmi_vilas_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Lakshmi Vilas Bank**](/payment-methods/laxmi_vilas_bank/)|[`laxmi_vilas_bank_inr_hpp`](laxmi_vilas_bank_inr_hpp/)| 
-|![Leobank](https://static.openfintech.io/payment_methods/leobank/logo.svg?w=400&c=v0.59.26#w200) |[**Leobank**](/payment-methods/leobank/)|[`leobank_azn_invoice`](leobank_azn_invoice/)| 
+|![Digimeth](https://static.openfintech.io/payment_methods/leobank/logo.svg?w=400&c=v0.59.26#w200) |[**Digimeth**](/payment-methods/leobank/)|[`leobank_azn_invoice`](leobank_azn_invoice/)| 
 |![Lider](https://static.openfintech.io/payment_methods/lider_cash/logo.png?w=400&c=v0.59.26#w200) |[**Lider**](/payment-methods/lider_cash/)|[`lider_cash_clp_hpp`](lider_cash_clp_hpp/)| 
 |![LienVietPostBank](https://static.openfintech.io/payment_methods/lien_viet_post_bank/logo.png?w=400&c=v0.59.26#w200) |[**LienVietPostBank**](/payment-methods/lien_viet_post_bank/)|[`lien_viet_post_bank_vnd_hpp`](lien_viet_post_bank_vnd_hpp/)| 
 |![PT Fintek Karya Nusantara Linkaja e-wallet](https://static.openfintech.io/payment_methods/linkaja/logo.svg?w=400&c=v0.59.26#w200) |[**PT Fintek Karya Nusantara Linkaja e-wallet**](/payment-methods/linkaja/)|[`linkaja_idr_hpp`](linkaja_idr_hpp/)| 

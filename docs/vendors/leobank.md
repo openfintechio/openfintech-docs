@@ -1,6 +1,6 @@
 
-# LeoBank 
-![leobank](https://static.openfintech.io/vendors/leobank/logo.png?w=400&c=v0.59.26#w200)  
+# Digimeth 
+![leobank](https://static.openfintech.io/vendors/leobank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] LeoBank 
-:	[RU] LeoBank 
-:	[UK] LeoBank 
+:	[EN] Digimeth 
+:	[RU] Digimeth 
+:	[UK] Digimeth 
  
 **Status:** `active` 
  
@@ -22,18 +22,18 @@
 
 ### Logo 
  
-![leobank](https://static.openfintech.io/vendors/leobank/logo.png?w=400&c=v0.59.26#w200)  
+![leobank](https://static.openfintech.io/vendors/leobank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/leobank/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/leobank/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![leobank](https://static.openfintech.io/vendors/leobank/icon.png?w=278&c=v0.59.26#w100)  
+![leobank](https://static.openfintech.io/vendors/leobank/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/leobank/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/leobank/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/leobank/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"leobank",
   "name":{
-    "en":"LeoBank",
-    "ru":"LeoBank",
-    "uk":"LeoBank"
+    "en":"Digimeth",
+    "ru":"Digimeth",
+    "uk":"Digimeth"
   },
   "status":"active",
   "description":null,

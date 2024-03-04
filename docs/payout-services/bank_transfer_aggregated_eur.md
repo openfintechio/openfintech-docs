@@ -25,17 +25,19 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
-|`account_number`|✔|`string`|`/^[A-Z]{2}[A-Z0-9]{13,32}$\|^[0-9]{3,15}$/`| 
-|`beneficiary_dob`|✗|`string`|`/^([0-2][0-9]\|(3)[0-1])(\/)(((0)[0-9])\|((1)[0-2]))(\/)\d{4}$/`| 
+|`account_number`|✗|`string`|`/^[A-Z]{2}[A-Z0-9]{13,32}$\|^[0-9]{3,15}$/`| 
+|`beneficiary_dob`|✗|`string`|`^(?:(?:[0-2][0-9]\|(3)[0-1])/((0)[0-9]\|(1)[0-2])/\d{4})\|(?:\d{4}-\d{2}-\d{2})$`| 
 |`beneficiary_document_type`|✗|`string`|`/^[A-Za-z]{3,20}$/`| 
 |`beneficiary_document_id`|✗|`string`|`/^[A-Z0-9]{3,20}$/`| 
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
 |`bank_name`|✗|`string`|`/^[A-Za-zА-ЩЬЮЯҐЄІЇа-щьюяґєії0-9\s\.\,\-\(\)\ʼ]{2,100}$/`| 
-|`beneficiary_bic_swift`|✔|`string`|`/^[0-9A-Z]{8}$\|^[0-9A-Z]{11}$/`| 
-|`beneficiary_country_code_iso`|✗|`string`|`/^.{2,6}$/`| 
+|`beneficiary_bic_swift`|✗|`string`|`^(?:[0-9A-Z]{8}\|[0-9A-Z]{11})$`| 
+|`beneficiary_country_code_iso`|✗|`string`|`^(.{2,6}\|[A-Z]{2})$`| 
 |`beneficiary_address`|✗|`string`|`/^[A-Za-zА-ЩЬЮЯҐЄІЇа-щьюяґєії0-9\s\.\,\-\(\)\ʼ]{2,100}$/`| 
 |`beneficiary_city`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
 |`beneficiary_postcode`|✗|`string`|`/^[\w\-\s]{1,64}$/`| 
+|`account_type`|✗|`string`|`[0-1]`| 
+|`beneficiary_phone`|✗|`string`|`^(?=.{7,15}$)[\d +]+$`| 
  
 
 ### Details 
@@ -64,7 +66,7 @@
  
 	Regexp: `/^[A-Z]{2}[A-Z0-9]{13,32}$|^[0-9]{3,15}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Account number 
@@ -80,7 +82,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^([0-2][0-9]|(3)[0-1])(\/)(((0)[0-9])|((1)[0-2]))(\/)\d{4}$/` 
+	Regexp: `^(?:(?:[0-2][0-9]|(3)[0-1])/((0)[0-9]|(1)[0-2])/\d{4})|(?:\d{4}-\d{2}-\d{2})$` 
  
 	Required: `` 
  
@@ -170,9 +172,9 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9A-Z]{8}$|^[0-9A-Z]{11}$/` 
+	Regexp: `^(?:[0-9A-Z]{8}|[0-9A-Z]{11})$` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Bic swift 
@@ -188,7 +190,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^.{2,6}$/` 
+	Regexp: `^(.{2,6}|[A-Z]{2})$` 
  
 	Required: `` 
  
@@ -256,6 +258,42 @@
 	: [RU] Введите beneficiary postcode 
 	: [UK] Введіть beneficiary postcode 
  
+13. **`account_type`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `[0-1]` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Account type 
+	: [RU] Тип аккаунта 
+	: [UK] Тип акаунту 
+ 
+	Hint:  
+	: [EN] Enter account type 
+	: [RU] Введите тип аккаунта 
+	: [UK] Введіть тип акаунту 
+ 
+14. **`beneficiary_phone`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `^(?=.{7,15}$)[\d +]+$` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Phone number 
+	: [RU] Номер телефона 
+	: [UK] Номер телефону 
+ 
+	Hint:  
+	: [EN] Enter phone number 
+	: [RU] Введите номер телефона 
+	: [UK] Введіть номер телефону 
+ 
 
 ## JSON Object 
 
@@ -291,7 +329,7 @@
         "uk":"\u041d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
       },
       "regexp":"\/^[A-Z]{2}[A-Z0-9]{13,32}$|^[0-9]{3,15}$\/",
-      "required":true,
+      "required":false,
       "position":2,
       "hint":{
         "en":"Enter account number or IBAN",
@@ -303,7 +341,7 @@
     {
       "key":"beneficiary_dob",
       "type":"string",
-      "regexp":"\/^([0-2][0-9]|(3)[0-1])(\\\/)(((0)[0-9])|((1)[0-2]))(\\\/)\\d{4}$\/",
+      "regexp":"^(?:(?:[0-2][0-9]|(3)[0-1])\/((0)[0-9]|(1)[0-2])\/\\d{4})|(?:\\d{4}-\\d{2}-\\d{2})$",
       "required":false,
       "position":3,
       "label":{
@@ -316,7 +354,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0434\u0430\u0442\u0443 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0434\u0430\u0442\u0443 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f"
       },
-      "example":"10\/05\/1964"
+      "example":"28\/02\/2024 or 2024-02-28"
     },
     {
       "key":"beneficiary_document_type",
@@ -394,20 +432,20 @@
         "ru":"Bic swift",
         "uk":"Bic swift"
       },
-      "regexp":"\/^[0-9A-Z]{8}$|^[0-9A-Z]{11}$\/",
-      "required":true,
+      "regexp":"^(?:[0-9A-Z]{8}|[0-9A-Z]{11})$",
+      "required":false,
       "position":8,
       "hint":{
         "en":"Enter bic swift",
         "ru":"Enter bic swift",
         "uk":"Enter bic swift"
       },
-      "example":"100000000393#10"
+      "example":"1A2B3C4D5E or 100000000393#10"
     },
     {
       "key":"beneficiary_country_code_iso",
       "type":"string",
-      "regexp":"\/^.{2,6}$\/",
+      "regexp":"^(.{2,6}|[A-Z]{2})$",
       "required":false,
       "position":9,
       "label":{
@@ -470,6 +508,40 @@
         "en":"Enter beneficiary postcode",
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 beneficiary postcode",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c beneficiary postcode"
+      }
+    },
+    {
+      "key":"account_type",
+      "type":"string",
+      "regexp":"[0-1]",
+      "required":false,
+      "position":13,
+      "label":{
+        "en":"Account type",
+        "ru":"\u0422\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",
+        "uk":"\u0422\u0438\u043f \u0430\u043a\u0430\u0443\u043d\u0442\u0443"
+      },
+      "hint":{
+        "en":"Enter account type",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0430\u043a\u0430\u0443\u043d\u0442\u0443"
+      }
+    },
+    {
+      "key":"beneficiary_phone",
+      "type":"string",
+      "regexp":"^(?=.{7,15}$)[\\d +]+$",
+      "required":false,
+      "position":14,
+      "label":{
+        "en":"Phone number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
+      },
+      "hint":{
+        "en":"Enter phone number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
       }
     }
   ],

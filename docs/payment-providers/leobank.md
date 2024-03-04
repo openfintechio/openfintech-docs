@@ -1,6 +1,6 @@
 
-# LeoBank 
-![leobank](https://static.openfintech.io/payment_providers/leobank/logo.png?w=400&c=v0.59.26#w100)  
+# Digimeth 
+![leobank](https://static.openfintech.io/payment_providers/leobank/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -10,27 +10,27 @@
  
 **Name:** 
  
-:	[EN] LeoBank 
-:	[RU] LeoBank 
-:	[UK] LeoBank 
+:	[EN] Digimeth 
+:	[RU] Digimeth 
+:	[UK] Digimeth 
  
 
 ## Images 
 
 ### Logo 
  
-![leobank](https://static.openfintech.io/payment_providers/leobank/logo.png?w=400&c=v0.59.26#w100)  
+![leobank](https://static.openfintech.io/payment_providers/leobank/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/leobank/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/leobank/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![leobank](https://static.openfintech.io/payment_providers/leobank/icon.png?w=278&c=v0.59.26#w100)  
+![leobank](https://static.openfintech.io/payment_providers/leobank/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/leobank/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/leobank/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"LeoBank",
-    "ru":"LeoBank",
-    "uk":"LeoBank"
+    "en":"Digimeth",
+    "ru":"Digimeth",
+    "uk":"Digimeth"
   }
 }
 ```  

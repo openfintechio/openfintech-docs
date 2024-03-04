@@ -1,5 +1,5 @@
 
-# Leobank 
+# Digimeth 
 ![leobank](https://static.openfintech.io/payment_methods/leobank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,9 +7,9 @@
  
 **Name:** 
  
-:	[EN] Leobank 
-:	[RU] Leobank 
-:	[UK] Leobank 
+:	[EN] Digimeth 
+:	[RU] Digimeth 
+:	[UK] Digimeth 
  
 **Category:** `invoice_payment` 
  
@@ -32,7 +32,7 @@ https://static.openfintech.io/payment_methods/leobank/icon.svg?w=278&c=v0.59.26#
 
 ## Payment Services 
  
-The list of [Payment Services](/payment-services/) based on the _Leobank_ 
+The list of [Payment Services](/payment-services/) based on the _Digimeth_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -41,7 +41,7 @@ The list of [Payment Services](/payment-services/) based on the _Leobank_
 
 ## Payment Providers 
  
-The list of [Payment Providers](/payment-providers/) that support the _Leobank_ 
+The list of [Payment Providers](/payment-providers/) that support the _Digimeth_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -55,9 +55,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Leobank_
   "code":"leobank",
   "vendor":null,
   "name":{
-    "en":"Leobank",
-    "ru":"Leobank",
-    "uk":"Leobank"
+    "en":"Digimeth",
+    "ru":"Digimeth",
+    "uk":"Digimeth"
   },
   "description":null,
   "countries":null,

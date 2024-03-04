@@ -113,6 +113,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![pay4fungo](https://static.openfintech.io/payment_providers/pay4fungo/icon.png?w=278&c=v0.59.26#w100) |[Pay4funGo](/payment-providers/pay4fungo/)|`pay4fungo`| 
 |![inswitch](https://static.openfintech.io/payment_providers/inswitch/icon.png?w=278&c=v0.59.26#w100) |[Inswitch](/payment-providers/inswitch/)|`inswitch`| 
 |![kora](https://static.openfintech.io/payment_providers/kora/icon.svg?w=278&c=v0.59.26#w100) |[Kora](/payment-providers/kora/)|`kora`| 
+|![aspay](https://static.openfintech.io/payment_providers/aspay/icon.png?w=278&c=v0.59.26#w100) |[AsPay](/payment-providers/aspay/)|`aspay`| 
  
 
 ## JSON Object 

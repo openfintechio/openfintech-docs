@@ -68,6 +68,7 @@
 |![aretosystems](https://static.openfintech.io/payment_providers/aretosystems/logo.png?w=600&c=v0.59.26#w100) |[**Areto Systems**](aretosystems/)|`aretosystems`| 
 |![arvatofinance](https://static.openfintech.io/payment_providers/arvatofinance/logo.svg?w=600&c=v0.59.26#w100) |[**arvato Finance Services Ltd.**](arvatofinance/)|`arvatofinance`| 
 |![asiapay](https://static.openfintech.io/payment_providers/asiapay/logo.png?w=600&c=v0.59.26#w100) |[**AsiaPay**](asiapay/)|`asiapay`| 
+|![aspay](https://static.openfintech.io/payment_providers/aspay/logo.png?w=600&c=v0.59.26#w100) |[**AsPay**](aspay/)|`aspay`| 
 |![astropay](https://static.openfintech.io/payment_providers/astropay/logo.png?w=600&c=v0.59.26#w100) |[**AstroPay**](astropay/)|`astropay`| 
 |![atosworldline](https://static.openfintech.io/payment_providers/atosworldline/logo.png?w=600&c=v0.59.26#w100) |[**Worldline**](atosworldline/)|`atosworldline`| 
 |![australpay](https://static.openfintech.io/payment_providers/australpay/logo.png?w=600&c=v0.59.26#w100) |[**AustralPay**](australpay/)|`australpay`| 
@@ -452,7 +453,7 @@
 |![lava](https://static.openfintech.io/payment_providers/lava/logo.svg?w=600&c=v0.59.26#w100) |[**Lava**](lava/)|`lava`| 
 |![lemanpay](https://static.openfintech.io/payment_providers/lemanpay/logo.svg?w=600&c=v0.59.26#w100) |[**LemanPay**](lemanpay/)|`lemanpay`| 
 |![lemonway](https://static.openfintech.io/payment_providers/lemonway/logo.png?w=600&c=v0.59.26#w100) |[**Lemon Way**](lemonway/)|`lemonway`| 
-|![leobank](https://static.openfintech.io/payment_providers/leobank/logo.png?w=600&c=v0.59.26#w100) |[**LeoBank**](leobank/)|`leobank`| 
+|![leobank](https://static.openfintech.io/payment_providers/leobank/logo.svg?w=600&c=v0.59.26#w100) |[**Digimeth**](leobank/)|`leobank`| 
 |![leogaming](https://static.openfintech.io/payment_providers/leogaming/logo.svg?w=600&c=v0.59.26#w100) |[**LeoGaming**](leogaming/)|`leogaming`| 
 |![lianlianpay](https://static.openfintech.io/payment_providers/lianlianpay/logo.png?w=600&c=v0.59.26#w100) |[**LianlianPay**](lianlianpay/)|`lianlianpay`| 
 |![libernetix](https://static.openfintech.io/payment_providers/libernetix/logo.svg?w=600&c=v0.59.26#w100) |[**Libernetix**](libernetix/)|`libernetix`| 

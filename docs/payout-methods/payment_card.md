@@ -390,7 +390,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![tapanapi](https://static.openfintech.io/payment_providers/tapanapi/icon.svg?w=278&c=v0.59.26#w100) |[TapAnApi](/payment-providers/tapanapi/)|`tapanapi`| 
 |![millikart](https://static.openfintech.io/payment_providers/millikart/icon.png?w=278&c=v0.59.26#w100) |[MilliKart](/payment-providers/millikart/)|`millikart`| 
 |![dimocopayments](https://static.openfintech.io/payment_providers/dimocopayments/icon.png?w=278&c=v0.59.26#w100) |[DIMOCO Payments](/payment-providers/dimocopayments/)|`dimocopayments`| 
-|![leobank](https://static.openfintech.io/payment_providers/leobank/icon.png?w=278&c=v0.59.26#w100) |[LeoBank](/payment-providers/leobank/)|`leobank`| 
+|![leobank](https://static.openfintech.io/payment_providers/leobank/icon.svg?w=278&c=v0.59.26#w100) |[Digimeth](/payment-providers/leobank/)|`leobank`| 
 |![bennupay](https://static.openfintech.io/payment_providers/bennupay/icon.png?w=278&c=v0.59.26#w100) |[Bennupay](/payment-providers/bennupay/)|`bennupay`| 
 |![kiberpay](https://static.openfintech.io/payment_providers/kiberpay/icon.png?w=278&c=v0.59.26#w100) |[Kiberpay](/payment-providers/kiberpay/)|`kiberpay`| 
 |![hawex](https://static.openfintech.io/payment_providers/hawex/icon.svg?w=278&c=v0.59.26#w100) |[HAWEX](/payment-providers/hawex/)|`hawex`| 
@@ -534,6 +534,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![bizon](https://static.openfintech.io/payment_providers/bizon/icon.png?w=278&c=v0.59.26#w100) |[Bizon](/payment-providers/bizon/)|`bizon`| 
 |![tillpayments](https://static.openfintech.io/payment_providers/tillpayments/icon.png?w=278&c=v0.59.26#w100) |[Till Payments](/payment-providers/tillpayments/)|`tillpayments`| 
 |![intervale](https://static.openfintech.io/payment_providers/intervale/icon.svg?w=278&c=v0.59.26#w100) |[Intervale](/payment-providers/intervale/)|`intervale`| 
+|![aspay](https://static.openfintech.io/payment_providers/aspay/icon.png?w=278&c=v0.59.26#w100) |[AsPay](/payment-providers/aspay/)|`aspay`| 
  
 
 ## JSON Object 

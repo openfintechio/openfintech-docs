@@ -1,5 +1,5 @@
 
-# Leobank (service) 
+# Digimeth (service) 
 ![leobank_azn_invoice](https://static.openfintech.io/payment_methods/leobank_azn_invoice/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -13,9 +13,9 @@
  
 **Name:** 
  
-:	[EN] Leobank 
-:	[RU] Leobank 
-:	[UK] Leobank 
+:	[EN] Digimeth 
+:	[RU] Digimeth 
+:	[UK] Digimeth 
  
 **Amount limits:** from `0.01` to `1200000000` AZN 
 
