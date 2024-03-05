@@ -60,6 +60,7 @@
 |![Aeon Bank](https://static.openfintech.io/payout_methods/aeon_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Aeon Bank**](/payout-methods/aeon_bank/)|[`aeon_bank_jpy`](aeon_bank_jpy/)|`JPY`| 
 |![Afekhafe MFB](https://static.openfintech.io/payout_methods/afekhafe_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Afekhafe MFB**](/payout-methods/afekhafe_mfb/)|[`afekhafe_mfb_ngn`](afekhafe_mfb_ngn/)|`NGN`| 
 |![Affin Bank Berhad](https://static.openfintech.io/payout_methods/affin_bank_berhad/logo.svg?w=400&c=v0.59.26#w24) |[**Affin Bank Berhad**](/payout-methods/affin_bank_berhad/)|[`affin_bank_berhad_myr`](affin_bank_berhad_myr/)|`MYR`| 
+|![African Bank, South Africa](https://static.openfintech.io/payout_methods/african_bank/logo.svg?w=400&c=v0.59.26#w24) |[**African Bank, South Africa**](/payout-methods/african_bank/)|[`african_bank_zar`](african_bank_zar/)|`ZAR`| 
 |![Ag Mortgage Bank](https://static.openfintech.io/payout_methods/ag_mortgage_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Ag Mortgage Bank**](/payout-methods/ag_mortgage_bank/)|[`ag_mortgage_bank_ngn`](ag_mortgage_bank_ngn/)|`NGN`| 
 |![Vietnam Bank for Agriculture and Rural Development](https://static.openfintech.io/payout_methods/agri_bank/logo.png?w=400&c=v0.59.26#w24) |[**Vietnam Bank for Agriculture and Rural Development**](/payout-methods/agri_bank/)|[`agri_bank_vnd`](agri_bank_vnd/)|`VND`| 
 |![Agricultural Bank of China](https://static.openfintech.io/payout_methods/agricultural_bank_of_china/logo.svg?w=400&c=v0.59.26#w24) |[**Agricultural Bank of China**](/payout-methods/agricultural_bank_of_china/)|[`agricultural_bank_of_china_cny`](agricultural_bank_of_china_cny/)|`CNY`| 
@@ -309,6 +310,7 @@
 |![Bi.Net](https://static.openfintech.io/payout_methods/bi-net/logo.png?w=400&c=v0.59.26#w24) |[**Bi.Net**](/payout-methods/bi-net/)|[`bi-net_uah`](bi-net_uah/)|`UAH`| 
 |![BIDV Bank QR](https://static.openfintech.io/payout_methods/bidv_bank_qr/logo.svg?w=400&c=v0.59.26#w24) |[**BIDV Bank QR**](/payout-methods/bidv_bank_qr/)|[`bidv_bank_qr_vnd`](bidv_bank_qr_vnd/)|`VND`| 
 |![BIDV Bank](https://static.openfintech.io/payout_methods/bidv_bank/logo.svg?w=400&c=v0.59.26#w24) |[**BIDV Bank**](/payout-methods/bidv_bank/)|[`bidv_bank_vnd`](bidv_bank_vnd/)|`VND`| 
+|![Bidvest Bank, South Africa](https://static.openfintech.io/payout_methods/bidvest_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Bidvest Bank, South Africa**](/payout-methods/bidvest_bank/)|[`bidvest_bank_zar`](bidvest_bank_zar/)|`ZAR`| 
 |![Bilotserkovteplomerezha](https://static.openfintech.io/payout_methods/bilotserkovteplomerezha/logo.png?w=400&c=v0.59.26#w24) |[**Bilotserkovteplomerezha**](/payout-methods/bilotserkovteplomerezha/)|[`bilotserkovteplomerezha_uah`](bilotserkovteplomerezha_uah/)|`UAH`| 
 |![Binance coin](https://static.openfintech.io/payout_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w24) |[**Binance coin**](/payout-methods/binance_coin/)|[`binance_coin_bnb`](binance_coin_bnb/)|`BNB`| 
 |![Binance coin](https://static.openfintech.io/payout_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w24) |[**Binance coin**](/payout-methods/binance_coin/)|[`binance_coin_chf`](binance_coin_chf/)|`CHF`| 
@@ -448,6 +450,7 @@
 |![CIT MFB](https://static.openfintech.io/payout_methods/cit_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**CIT MFB**](/payout-methods/cit_mfb/)|[`cit_mfb_ngn`](cit_mfb_ngn/)|`NGN`| 
 |![Citibank](https://static.openfintech.io/payout_methods/citi_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Citibank**](/payout-methods/citi_bank/)|[`citi_bank_krw`](citi_bank_krw/)|`KRW`| 
 |![Citibank](https://static.openfintech.io/payout_methods/citi_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Citibank**](/payout-methods/citi_bank/)|[`citi_bank_myr`](citi_bank_myr/)|`MYR`| 
+|![Citi Bank, Nigeria](https://static.openfintech.io/payout_methods/citi_bank_nigeria/logo.svg?w=400&c=v0.59.26#w24) |[**Citi Bank, Nigeria**](/payout-methods/citi_bank_nigeria/)|[`citi_bank_nigeria_ngn`](citi_bank_nigeria_ngn/)|`NGN`| 
 |![Citibank](https://static.openfintech.io/payout_methods/citi_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Citibank**](/payout-methods/citi_bank/)|[`citi_bank_php`](citi_bank_php/)|`PHP`| 
 |![Citibank Indonesia](https://static.openfintech.io/payout_methods/citibank_indonesia/logo.svg?w=400&c=v0.59.26#w24) |[**Citibank Indonesia**](/payout-methods/citibank_indonesia/)|[`citibank_indonesia_idr`](citibank_indonesia_idr/)|`IDR`| 
 |![Citibank Korea](https://static.openfintech.io/payout_methods/citibank_korea/logo.svg?w=400&c=v0.59.26#w24) |[**Citibank Korea**](/payout-methods/citibank_korea/)|[`citibank_korea_krw`](citibank_korea_krw/)|`KRW`| 
@@ -508,6 +511,7 @@
 |![DETUT (Kiev)](https://static.openfintech.io/payout_methods/detut-kiev/logo.png?w=400&c=v0.59.26#w24) |[**DETUT (Kiev)**](/payout-methods/detut-kiev/)|[`detut-kiev_uah`](detut-kiev_uah/)|`UAH`| 
 |![Deutsche Bank](https://static.openfintech.io/payout_methods/deutsche_bank_india/logo.svg?w=400&c=v0.59.26#w24) |[**Deutsche Bank**](/payout-methods/deutsche_bank_india/)|[`deutsche_bank_india_inr`](deutsche_bank_india_inr/)|`INR`| 
 |![Deutsche Bank](https://static.openfintech.io/payout_methods/deutsche_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Deutsche Bank**](/payout-methods/deutsche_bank/)|[`deutsche_bank_jpy`](deutsche_bank_jpy/)|`JPY`| 
+|![Access Bank Plc (Diamond), Nigeria](https://static.openfintech.io/payout_methods/diamond_bank_nigeria/logo.svg?w=400&c=v0.59.26#w24) |[**Access Bank Plc (Diamond), Nigeria**](/payout-methods/diamond_bank_nigeria/)|[`diamond_bank_nigeria_ngn`](diamond_bank_nigeria_ngn/)|`NGN`| 
 |![DiaNet (Zaporizhia)](https://static.openfintech.io/payout_methods/dianet-zaporozhe/logo.png?w=400&c=v0.59.26#w24) |[**DiaNet (Zaporizhia)**](/payout-methods/dianet-zaporozhe/)|[`dianet-zaporozhe_uah`](dianet-zaporozhe_uah/)|`UAH`| 
 |![DIDGITNET (Mariupol)](https://static.openfintech.io/payout_methods/didgitnet-mariupol/logo.png?w=400&c=v0.59.26#w24) |[**DIDGITNET (Mariupol)**](/payout-methods/didgitnet-mariupol/)|[`didgitnet-mariupol_uah`](didgitnet-mariupol_uah/)|`UAH`| 
 |![Digicom](https://static.openfintech.io/payout_methods/digicom/logo.png?w=400&c=v0.59.26#w24) |[**Digicom**](/payout-methods/digicom/)|[`digicom_uah`](digicom_uah/)|`UAH`| 
@@ -578,6 +582,7 @@
 |![e.Cascad wallet](https://static.openfintech.io/payout_methods/ecascad/logo.svg?w=400&c=v0.59.26#w24) |[**e.Cascad wallet**](/payout-methods/ecascad/)|[`ecascad_account_uah`](ecascad_account_uah/)|`UAH`| 
 |![e.Cascad wallet](https://static.openfintech.io/payout_methods/ecascad/logo.svg?w=400&c=v0.59.26#w24) |[**e.Cascad wallet**](/payout-methods/ecascad/)|[`ecascad_phone_uah`](ecascad_phone_uah/)|`UAH`| 
 |![Ecobank Bank](https://static.openfintech.io/payout_methods/ecobank_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Ecobank Bank**](/payout-methods/ecobank_bank/)|[`ecobank_bank_ngn`](ecobank_bank_ngn/)|`NGN`| 
+|![Ecobank, Nigeria](https://static.openfintech.io/payout_methods/ecobank_nigeria/logo.svg?w=400&c=v0.59.26#w24) |[**Ecobank, Nigeria**](/payout-methods/ecobank_nigeria/)|[`ecobank_nigeria_ngn`](ecobank_nigeria_ngn/)|`NGN`| 
 |![Ecobank Xpress](https://static.openfintech.io/payout_methods/ecobank_xpress/logo.svg?w=400&c=v0.59.26#w24) |[**Ecobank Xpress**](/payout-methods/ecobank_xpress/)|[`ecobank_xpress_ngn`](ecobank_xpress_ngn/)|`NGN`| 
 |![Ecobanq](https://static.openfintech.io/payout_methods/ecobanq/logo.png?w=400&c=v0.59.26#w24) |[**Ecobanq**](/payout-methods/ecobanq/)|[`ecobanq_inr`](ecobanq_inr/)|`INR`| 
 |![EcoCash](https://static.openfintech.io/payout_methods/ecocash/logo.png?w=400&c=v0.59.26#w24) |[**EcoCash**](/payout-methods/ecocash/)|[`ecocash_bif`](ecocash_bif/)|`BIF`| 
@@ -656,6 +661,7 @@
 |![FFS Microfinance](https://static.openfintech.io/payout_methods/ffs_microfinance/logo.svg?w=400&c=v0.59.26#w24) |[**FFS Microfinance**](/payout-methods/ffs_microfinance/)|[`ffs_microfinance_ngn`](ffs_microfinance_ngn/)|`NGN`| 
 |![FIBER.NET (Киев)](https://static.openfintech.io/payout_methods/fiber-net-kiev/logo.svg?w=400&c=v0.59.26#w24) |[**FIBER.NET (Киев)**](/payout-methods/fiber-net-kiev/)|[`fiber-net-kiev_uah`](fiber-net-kiev_uah/)|`UAH`| 
 |![Fidelity Bank](https://static.openfintech.io/payout_methods/fidelity_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Fidelity Bank**](/payout-methods/fidelity_bank/)|[`fidelity_bank_ngn`](fidelity_bank_ngn/)|`NGN`| 
+|![Fidelity Bank, Nigeria](https://static.openfintech.io/payout_methods/fidelity_bank_nigeria/logo.svg?w=400&c=v0.59.26#w24) |[**Fidelity Bank, Nigeria**](/payout-methods/fidelity_bank_nigeria/)|[`fidelity_bank_nigeria_ngn`](fidelity_bank_nigeria_ngn/)|`NGN`| 
 |![Fidelity Mobile](https://static.openfintech.io/payout_methods/fidelity_mobile/logo.svg?w=400&c=v0.59.26#w24) |[**Fidelity Mobile**](/payout-methods/fidelity_mobile/)|[`fidelity_mobile_ngn`](fidelity_mobile_ngn/)|`NGN`| 
 |![Fidfund MFB](https://static.openfintech.io/payout_methods/fidfund_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Fidfund MFB**](/payout-methods/fidfund_mfb/)|[`fidfund_mfb_ngn`](fidfund_mfb_ngn/)|`NGN`| 
 |![Finatrust MFB](https://static.openfintech.io/payout_methods/finatrust_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Finatrust MFB**](/payout-methods/finatrust_mfb/)|[`finatrust_mfb_ngn`](finatrust_mfb_ngn/)|`NGN`| 
@@ -688,6 +694,7 @@
 |![Frigate - Internet](https://static.openfintech.io/payout_methods/fregat-internet/logo.png?w=400&c=v0.59.26#w24) |[**Frigate - Internet**](/payout-methods/fregat-internet/)|[`fregat-internet_uah`](fregat-internet_uah/)|`UAH`| 
 |![Fresh Taxi (Kiev)](https://static.openfintech.io/payout_methods/fresh-taxi-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Fresh Taxi (Kiev)**](/payout-methods/fresh-taxi-kiev/)|[`fresh-taxi-kiev_uah`](fresh-taxi-kiev_uah/)|`UAH`| 
 |![FSDH Merchant Bank](https://static.openfintech.io/payout_methods/fsdh_merchant_bank/logo.svg?w=400&c=v0.59.26#w24) |[**FSDH Merchant Bank**](/payout-methods/fsdh_merchant_bank/)|[`fsdh_merchant_bank_ngn`](fsdh_merchant_bank_ngn/)|`NGN`| 
+|![FCMB Plc, Nigeria](https://static.openfintech.io/payout_methods/fsmb_nigeria/logo.svg?w=400&c=v0.59.26#w24) |[**FCMB Plc, Nigeria**](/payout-methods/fsmb_nigeria/)|[`fsmb_nigeria_ngn`](fsmb_nigeria_ngn/)|`NGN`| 
 |![Fukuho Bank](https://static.openfintech.io/payout_methods/fukuho_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Fukuho Bank**](/payout-methods/fukuho_bank/)|[`fukuho_bank_jpy`](fukuho_bank_jpy/)|`JPY`| 
 |![Fukui Bank](https://static.openfintech.io/payout_methods/fukui_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Fukui Bank**](/payout-methods/fukui_bank/)|[`fukui_bank_jpy`](fukui_bank_jpy/)|`JPY`| 
 |![Fukuoka Bank](https://static.openfintech.io/payout_methods/fukuoka_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Fukuoka Bank**](/payout-methods/fukuoka_bank/)|[`fukuoka_bank_jpy`](fukuoka_bank_jpy/)|`JPY`| 
@@ -1749,6 +1756,7 @@
 |![Pokermatch Account](https://static.openfintech.io/payout_methods/pokermatch_account/logo.svg?w=400&c=v0.59.26#w24) |[**Pokermatch Account**](/payout-methods/pokermatch_account/)|[`pokermatch_account_uah`](pokermatch_account_uah/)|`UAH`| 
 |![Buy](https://static.openfintech.io/payout_methods/pokupon/logo.png?w=400&c=v0.59.26#w24) |[**Buy**](/payout-methods/pokupon/)|[`pokupon_uah`](pokupon_uah/)|`UAH`| 
 |![Polaris Bank](https://static.openfintech.io/payout_methods/polaris_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Polaris Bank**](/payout-methods/polaris_bank/)|[`polaris_bank_ngn`](polaris_bank_ngn/)|`NGN`| 
+|![Polaris Bank, Nigeria](https://static.openfintech.io/payout_methods/polaris_bank_nigeria/logo.svg?w=400&c=v0.59.26#w24) |[**Polaris Bank, Nigeria**](/payout-methods/polaris_bank_nigeria/)|[`polaris_bank_nigeria_ngn`](polaris_bank_nigeria_ngn/)|`NGN`| 
 |![PollyComm](https://static.openfintech.io/payout_methods/pollycomm/logo.png?w=400&c=v0.59.26#w24) |[**PollyComm**](/payout-methods/pollycomm/)|[`pollycomm_uah`](pollycomm_uah/)|`UAH`| 
 |![Full Pi](https://static.openfintech.io/payout_methods/polnyi-pi/logo.png?w=400&c=v0.59.26#w24) |[**Full Pi**](/payout-methods/polnyi-pi/)|[`polnyi-pi_uah`](polnyi-pi_uah/)|`UAH`| 
 |![Полтаватеплоэнерго (Гаряча вода)](https://static.openfintech.io/payout_methods/poltavateploenergo-gariacha-voda/logo.svg?w=400&c=v0.59.26#w24) |[**Полтаватеплоэнерго (Гаряча вода)**](/payout-methods/poltavateploenergo-gariacha-voda/)|[`poltavateploenergo-gariacha-voda_uah`](poltavateploenergo-gariacha-voda_uah/)|`UAH`| 
@@ -2008,6 +2016,7 @@
 |![SPEI](https://static.openfintech.io/payout_methods/spei/logo.png?w=400&c=v0.59.26#w24) |[**SPEI**](/payout-methods/spei/)|[`spei_usd`](spei_usd/)|`USD`| 
 |![Crazy Network](https://static.openfintech.io/payout_methods/srazy-network/logo.png?w=400&c=v0.59.26#w24) |[**Crazy Network**](/payout-methods/srazy-network/)|[`srazy-network_uah`](srazy-network_uah/)|`UAH`| 
 |![Steel Legion](https://static.openfintech.io/payout_methods/stalnoi-legion/logo.png?w=400&c=v0.59.26#w24) |[**Steel Legion**](/payout-methods/stalnoi-legion/)|[`stalnoi-legion_uah`](stalnoi-legion_uah/)|`UAH`| 
+|![Stanbic IBTC Bank, Nigeria](https://static.openfintech.io/payout_methods/stanbic_bank_nigeria/logo.svg?w=400&c=v0.59.26#w24) |[**Stanbic IBTC Bank, Nigeria**](/payout-methods/stanbic_bank_nigeria/)|[`stanbic_bank_nigeria_ngn`](stanbic_bank_nigeria_ngn/)|`NGN`| 
 |![Stanbic IBTC Ease Wal](https://static.openfintech.io/payout_methods/stanbic_ibtc_ease_wal/logo.svg?w=400&c=v0.59.26#w24) |[**Stanbic IBTC Ease Wal**](/payout-methods/stanbic_ibtc_ease_wal/)|[`stanbic_ibtc_ease_wal_ngn`](stanbic_ibtc_ease_wal_ngn/)|`NGN`| 
 |![Stanbic IBTC](https://static.openfintech.io/payout_methods/stanbic_ibtc/logo.svg?w=400&c=v0.59.26#w24) |[**Stanbic IBTC**](/payout-methods/stanbic_ibtc/)|[`stanbic_ibtc_ngn`](stanbic_ibtc_ngn/)|`NGN`| 
 |![Standard Bank](https://static.openfintech.io/payout_methods/standard_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Standard Bank**](/payout-methods/standard_bank/)|[`standard_bank_zar`](standard_bank_zar/)|`ZAR`| 
@@ -2863,6 +2872,7 @@
 |![YourNet / CityNet (Zaporozhye)](https://static.openfintech.io/payout_methods/tvoinet-sitinet-zaporozhe/logo.png?w=400&c=v0.59.26#w24) |[**YourNet / CityNet (Zaporozhye)**](/payout-methods/tvoinet-sitinet-zaporozhe/)|[`tvoinet-sitinet-zaporozhe_uah`](tvoinet-sitinet-zaporozhe_uah/)|`UAH`| 
 |![Your Tips - Loan Repayment](https://static.openfintech.io/payout_methods/tvoyi-groshi-pogashenie-kredita/logo.png?w=400&c=v0.59.26#w24) |[**Your Tips - Loan Repayment**](/payout-methods/tvoyi-groshi-pogashenie-kredita/)|[`tvoyi-groshi-pogashenie-kredita_uah`](tvoyi-groshi-pogashenie-kredita_uah/)|`UAH`| 
 |![Your Money - Credit Extension](https://static.openfintech.io/payout_methods/tvoyi-groshi-prodlenie-kredita/logo.png?w=400&c=v0.59.26#w24) |[**Your Money - Credit Extension**](/payout-methods/tvoyi-groshi-prodlenie-kredita/)|[`tvoyi-groshi-prodlenie-kredita_uah`](tvoyi-groshi-prodlenie-kredita_uah/)|`UAH`| 
+|![Tyme Bank, South Africa](https://static.openfintech.io/payout_methods/tyme_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Tyme Bank, South Africa**](/payout-methods/tyme_bank/)|[`tyme_bank_zar`](tyme_bank_zar/)|`ZAR`| 
 ||| **U** ||
 |![UNIT](https://static.openfintech.io/payout_methods/u-n-i-t/logo.png?w=400&c=v0.59.26#w24) |[**UNIT**](/payout-methods/u-n-i-t/)|[`u-n-i-t_uah`](u-n-i-t_uah/)|`UAH`| 
 |![Uacity](https://static.openfintech.io/payout_methods/uacity/logo.png?w=400&c=v0.59.26#w24) |[**Uacity**](/payout-methods/uacity/)|[`uacity_uah`](uacity_uah/)|`UAH`| 

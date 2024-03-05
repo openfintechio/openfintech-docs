@@ -212,10 +212,12 @@
 |![cps](https://static.openfintech.io/payment_providers/cps/logo.svg?w=600&c=v0.59.26#w100) |[**CPS**](cps/)|`cps`| 
 |![crederes](https://static.openfintech.io/payment_providers/crederes/logo.svg?w=600&c=v0.59.26#w100) |[**Crederes**](crederes/)|`crederes`| 
 |![creditcall](https://static.openfintech.io/payment_providers/creditcall/logo.svg?w=600&c=v0.59.26#w100) |[**Creditcall**](creditcall/)|`creditcall`| 
+|![creditum](https://static.openfintech.io/payment_providers/creditum/logo.png?w=600&c=v0.59.26#w100) |[**Creditum**](creditum/)|`creditum`| 
 |![credorax](https://static.openfintech.io/payment_providers/credorax/logo.png?w=600&c=v0.59.26#w100) |[**Credorax**](credorax/)|`credorax`| 
 |![crosspay](https://static.openfintech.io/payment_providers/crosspay/logo.png?w=600&c=v0.59.26#w100) |[**CrossPay**](crosspay/)|`crosspay`| 
 |![cryptohawex](https://static.openfintech.io/payment_providers/cryptohawex/logo.svg?w=600&c=v0.59.26#w100) |[**CryptoHawex**](cryptohawex/)|`cryptohawex`| 
 |![cryptomus](https://static.openfintech.io/payment_providers/cryptomus/logo.svg?w=600&c=v0.59.26#w100) |[**Cryptomus**](cryptomus/)|`cryptomus`| 
+|![crystalbank](https://static.openfintech.io/payment_providers/crystalbank/logo.png?w=600&c=v0.59.26#w100) |[**CrystalBank**](crystalbank/)|`crystalbank`| 
 |![ctopay](https://static.openfintech.io/payment_providers/ctopay/logo.png?w=600&c=v0.59.26#w100) |[**Ctopay**](ctopay/)|`ctopay`| 
 |![curopayments](https://static.openfintech.io/payment_providers/curopayments/logo.svg?w=600&c=v0.59.26#w100) |[**CURO payments**](curopayments/)|`curopayments`| 
 |![cxpay](https://static.openfintech.io/payment_providers/cxpay/logo.png?w=600&c=v0.59.26#w100) |[**CX Pay**](cxpay/)|`cxpay`| 
@@ -483,6 +485,7 @@
 |![mercuryo](https://static.openfintech.io/payment_providers/mercuryo/logo.svg?w=600&c=v0.59.26#w100) |[**Mercuryo**](mercuryo/)|`mercuryo`| 
 |![micropaymentgmbh](https://static.openfintech.io/payment_providers/micropaymentgmbh/logo.png?w=600&c=v0.59.26#w100) |[**micropayment™ GmbH**](micropaymentgmbh/)|`micropaymentgmbh`| 
 |![micropayments](https://static.openfintech.io/payment_providers/micropayments/logo.svg?w=600&c=v0.59.26#w100) |[**MicroPayments**](micropayments/)|`micropayments`| 
+|![mids](https://static.openfintech.io/payment_providers/mids/logo.png?w=600&c=v0.59.26#w100) |[**MIDs**](mids/)|`mids`| 
 |![mifinity](https://static.openfintech.io/payment_providers/mifinity/logo.svg?w=600&c=v0.59.26#w100) |[**MiFinity**](mifinity/)|`mifinity`| 
 |![millikart](https://static.openfintech.io/payment_providers/millikart/logo.png?w=600&c=v0.59.26#w100) |[**MilliKart**](millikart/)|`millikart`| 
 |![mineexchange](https://static.openfintech.io/payment_providers/mineexchange/logo.png?w=600&c=v0.59.26#w100) |[**MineExchange**](mineexchange/)|`mineexchange`| 

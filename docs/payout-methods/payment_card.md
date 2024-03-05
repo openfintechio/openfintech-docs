@@ -526,8 +526,11 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![altitudepay](https://static.openfintech.io/payment_providers/altitudepay/icon.svg?w=278&c=v0.59.26#w100) |[AltitudePay](/payment-providers/altitudepay/)|`altitudepay`| 
 |![paycc](https://static.openfintech.io/payment_providers/paycc/icon.svg?w=278&c=v0.59.26#w100) |[Pay.CC](/payment-providers/paycc/)|`paycc`| 
 |![pavpay](https://static.openfintech.io/payment_providers/pavpay/icon.svg?w=278&c=v0.59.26#w100) |[PavPay](/payment-providers/pavpay/)|`pavpay`| 
+|![crystalbank](https://static.openfintech.io/payment_providers/crystalbank/icon.png?w=278&c=v0.59.26#w100) |[CrystalBank](/payment-providers/crystalbank/)|`crystalbank`| 
 |![kora](https://static.openfintech.io/payment_providers/kora/icon.svg?w=278&c=v0.59.26#w100) |[Kora](/payment-providers/kora/)|`kora`| 
+|![mids](https://static.openfintech.io/payment_providers/mids/icon.png?w=278&c=v0.59.26#w100) |[MIDs](/payment-providers/mids/)|`mids`| 
 |![paywisesolutions](https://static.openfintech.io/payment_providers/paywisesolutions/icon.png?w=278&c=v0.59.26#w100) |[PaywiseSolutions](/payment-providers/paywisesolutions/)|`paywisesolutions`| 
+|![creditum](https://static.openfintech.io/payment_providers/creditum/icon.png?w=278&c=v0.59.26#w100) |[Creditum](/payment-providers/creditum/)|`creditum`| 
 |![mtbbank](https://static.openfintech.io/payment_providers/mtbbank/icon.svg?w=278&c=v0.59.26#w100) |[MTB Bank](/payment-providers/mtbbank/)|`mtbbank`| 
 |![cdn](https://static.openfintech.io/payment_providers/cdn/icon.svg?w=278&c=v0.59.26#w100) |[CDN](/payment-providers/cdn/)|`cdn`| 
 |![eleospay](https://static.openfintech.io/payment_providers/eleospay/icon.png?w=278&c=v0.59.26#w100) |[EleosPay](/payment-providers/eleospay/)|`eleospay`| 

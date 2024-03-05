@@ -71,6 +71,7 @@
 |![advex](https://static.openfintech.io/vendors/advex/logo.svg?w=600&c=v0.59.26#w200) |[**advex.com**](advex/)|`advex`| 
 |![adyen](https://static.openfintech.io/vendors/adyen/logo.png?w=600&c=v0.59.26#w200) |[**Adyen**](adyen/)|`adyen`| 
 |![aeon_bank](https://static.openfintech.io/vendors/aeon_bank/logo.svg?w=600&c=v0.59.26#w200) |[**AEON Bank**](aeon_bank/)|`aeon_bank`| 
+|![african_bank](https://static.openfintech.io/vendors/african_bank/logo.svg?w=600&c=v0.59.26#w200) |[**African Bank, South Africa**](african_bank/)|`african_bank`| 
 |![africanpaymentsolutions](https://static.openfintech.io/vendors/africanpaymentsolutions/logo.png?w=600&c=v0.59.26#w200) |[**African Payment Solutions**](africanpaymentsolutions/)|`africanpaymentsolutions`| 
 |![afterpay](https://static.openfintech.io/vendors/afterpay/logo.png?w=600&c=v0.59.26#w200) |[**AfterPay**](afterpay/)|`afterpay`| 
 |![agentglobal](https://static.openfintech.io/vendors/agentglobal/logo.png?w=600&c=v0.59.26#w200) |[**AgentGlobal**](agentglobal/)|`agentglobal`| 
@@ -314,6 +315,7 @@
 |![betatransfer](https://static.openfintech.io/vendors/betatransfer/logo.svg?w=600&c=v0.59.26#w200) |[**BetaTransfer**](betatransfer/)|`betatransfer`| 
 |![betraemoney](https://static.openfintech.io/vendors/betraemoney/logo.svg?w=600&c=v0.59.26#w200) |[**Betrae Money**](betraemoney/)|`betraemoney`| 
 |![betterbro](https://static.openfintech.io/vendors/betterbro/logo.png?w=600&c=v0.59.26#w200) |[**Betterbro**](betterbro/)|`betterbro`| 
+|![bidvest_bank](https://static.openfintech.io/vendors/bidvest_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Bidvest Bank, South Africa**](bidvest_bank/)|`bidvest_bank`| 
 |![bigconlinepayment](https://static.openfintech.io/vendors/bigconlinepayment/logo.png?w=600&c=v0.59.26#w200) |[**Big C**](bigconlinepayment/)|`bigconlinepayment`| 
 |![bilderlings](https://static.openfintech.io/vendors/bilderlings/logo.svg?w=600&c=v0.59.26#w200) |[**Bilderlings**](bilderlings/)|`bilderlings`| 
 |![billingcx](https://static.openfintech.io/vendors/billingcx/logo.svg?w=600&c=v0.59.26#w200) |[**Billing.CX**](billingcx/)|`billingcx`| 
@@ -472,6 +474,7 @@
 |![circulopayments](https://static.openfintech.io/vendors/circulopayments/logo.png?w=600&c=v0.59.26#w200) |[**Circulo Payments**](circulopayments/)|`circulopayments`| 
 |![cirxuspay](https://static.openfintech.io/vendors/cirxuspay/logo.png?w=600&c=v0.59.26#w200) |[**Cirxus Pay**](cirxuspay/)|`cirxuspay`| 
 |![citadelelatvia](https://static.openfintech.io/vendors/citadelelatvia/logo.png?w=600&c=v0.59.26#w200) |[**Citadele Latvia**](citadelelatvia/)|`citadelelatvia`| 
+|![citi_bank_nigeria](https://static.openfintech.io/vendors/citi_bank_nigeria/logo.svg?w=600&c=v0.59.26#w200) |[**Citi Bank, Nigeria**](citi_bank_nigeria/)|`citi_bank_nigeria`| 
 |![citibank_indonesia](https://static.openfintech.io/vendors/citibank_indonesia/logo.svg?w=600&c=v0.59.26#w200) |[**Citibank Indonesia**](citibank_indonesia/)|`citibank_indonesia`| 
 |![citibank_n_a](https://static.openfintech.io/vendors/citibank_n_a/logo.svg?w=600&c=v0.59.26#w200) |[**Citibank, N.A**](citibank_n_a/)|`citibank_n_a`| 
 |![citopay](https://static.openfintech.io/vendors/citopay/logo.png?w=600&c=v0.59.26#w200) |[**Citopay Online Merchant Services**](citopay/)|`citopay`| 
@@ -516,6 +519,7 @@
 |![credit_union_bank](https://static.openfintech.io/vendors/credit_union_bank/logo.png?w=600&c=v0.59.26#w200) |[**National Credit Union Federation of Korea**](credit_union_bank/)|`credit_union_bank`| 
 |![creditagricole](https://static.openfintech.io/vendors/creditagricole/logo.png?w=600&c=v0.59.26#w200) |[**Crédit Agricole**](creditagricole/)|`creditagricole`| 
 |![creditcall](https://static.openfintech.io/vendors/creditcall/logo.png?w=600&c=v0.59.26#w200) |[**Creditcall**](creditcall/)|`creditcall`| 
+|![creditum](https://static.openfintech.io/vendors/creditum/logo.png?w=600&c=v0.59.26#w200) |[**Creditum**](creditum/)|`creditum`| 
 |![credorax](https://static.openfintech.io/vendors/credorax/logo.png?w=600&c=v0.59.26#w200) |[**Credorax**](credorax/)|`credorax`| 
 |![crosspay](https://static.openfintech.io/vendors/crosspay/logo.png?w=600&c=v0.59.26#w200) |[**CrossPay**](crosspay/)|`crosspay`| 
 |![cryptocapitalco](https://static.openfintech.io/vendors/cryptocapitalco/logo.svg?w=600&c=v0.59.26#w200) |[**cryptocapital.co**](cryptocapitalco/)|`cryptocapitalco`| 
@@ -523,6 +527,7 @@
 |![cryptocompare](https://static.openfintech.io/vendors/cryptocompare/logo.png?w=600&c=v0.59.26#w200) |[**CryptoCompare**](cryptocompare/)|`cryptocompare`| 
 |![cryptohawex](https://static.openfintech.io/vendors/cryptohawex/logo.svg?w=600&c=v0.59.26#w200) |[**CryptoHawex**](cryptohawex/)|`cryptohawex`| 
 |![cryptomus](https://static.openfintech.io/vendors/cryptomus/logo.svg?w=600&c=v0.59.26#w200) |[**Cryptomus**](cryptomus/)|`cryptomus`| 
+|![crystalbank](https://static.openfintech.io/vendors/crystalbank/logo.png?w=600&c=v0.59.26#w200) |[**CrystalBank**](crystalbank/)|`crystalbank`| 
 |![csob](https://static.openfintech.io/vendors/csob/logo.png?w=600&c=v0.59.26#w200) |[**CSOB**](csob/)|`csob`| 
 |![ctopay](https://static.openfintech.io/vendors/ctopay/logo.png?w=600&c=v0.59.26#w200) |[**Ctopay**](ctopay/)|`ctopay`| 
 |![curopayments](https://static.openfintech.io/vendors/curopayments/logo.png?w=600&c=v0.59.26#w200) |[**CURO payments**](curopayments/)|`curopayments`| 
@@ -566,6 +571,7 @@
 |![deutschepayment](https://static.openfintech.io/vendors/deutschepayment/logo.png?w=600&c=v0.59.26#w200) |[**Deutsche Payment**](deutschepayment/)|`deutschepayment`| 
 |![dialup](https://static.openfintech.io/vendors/dialup/logo.svg?w=600&c=v0.59.26#w200) |[**Dialup**](dialup/)|`dialup`| 
 |![dialxs](https://static.openfintech.io/vendors/dialxs/logo.png?w=600&c=v0.59.26#w200) |[**DialXS**](dialxs/)|`dialxs`| 
+|![diamond_bank_nigeria](https://static.openfintech.io/vendors/diamond_bank_nigeria/logo.svg?w=600&c=v0.59.26#w200) |[**Access Bank Plc (Diamond), Nigeria**](diamond_bank_nigeria/)|`diamond_bank_nigeria`| 
 |![dibspaymentservices](https://static.openfintech.io/vendors/dibspaymentservices/logo.png?w=600&c=v0.59.26#w200) |[**DIBS Payment Services**](dibspaymentservices/)|`dibspaymentservices`| 
 |![digital_cash](https://static.openfintech.io/vendors/digital_cash/logo.png?w=600&c=v0.59.26#w200) |[**Digital Cash**](digital_cash/)|`digital_cash`| 
 |![digitalriverworldpayments](https://static.openfintech.io/vendors/digitalriverworldpayments/logo.png?w=600&c=v0.59.26#w200) |[**Digital River World Payments**](digitalriverworldpayments/)|`digitalriverworldpayments`| 
@@ -620,6 +626,7 @@
 |![ecascad](https://static.openfintech.io/vendors/ecascad/logo.svg?w=600&c=v0.59.26#w200) |[**e.Cascad**](ecascad/)|`ecascad`| 
 |![ecashme](https://static.openfintech.io/vendors/ecashme/logo.svg?w=600&c=v0.59.26#w200) |[**eCashMe**](ecashme/)|`ecashme`| 
 |![ecb](https://static.openfintech.io/vendors/ecb/logo.png?w=600&c=v0.59.26#w200) |[**European Central Bank**](ecb/)|`ecb`| 
+|![ecobank_nigeria](https://static.openfintech.io/vendors/ecobank_nigeria/logo.svg?w=600&c=v0.59.26#w200) |[**Ecobank, Nigeria**](ecobank_nigeria/)|`ecobank_nigeria`| 
 |![ecobanq](https://static.openfintech.io/vendors/ecobanq/logo.png?w=600&c=v0.59.26#w200) |[**Ecobanq**](ecobanq/)|`ecobanq`| 
 |![ecocash](https://static.openfintech.io/vendors/ecocash/logo.png?w=600&c=v0.59.26#w200) |[**EcoCash**](ecocash/)|`ecocash`| 
 |![ecoin.ua](https://static.openfintech.io/vendors/ecoin.ua/logo.svg?w=600&c=v0.59.26#w200) |[**ECoin**](ecoin.ua/)|`ecoin.ua`| 
@@ -755,6 +762,7 @@
 |![fhtpay](https://static.openfintech.io/vendors/fhtpay/logo.png?w=600&c=v0.59.26#w200) |[**FhtPay**](fhtpay/)|`fhtpay`| 
 |![fiatsystems](https://static.openfintech.io/vendors/fiatsystems/logo.png?w=600&c=v0.59.26#w200) |[**FiatSystems**](fiatsystems/)|`fiatsystems`| 
 |![fibonatix](https://static.openfintech.io/vendors/fibonatix/logo.png?w=600&c=v0.59.26#w200) |[**Fibonatix**](fibonatix/)|`fibonatix`| 
+|![fidelity_bank_nigeria](https://static.openfintech.io/vendors/fidelity_bank_nigeria/logo.svg?w=600&c=v0.59.26#w200) |[**Fidelity Bank, Nigeria**](fidelity_bank_nigeria/)|`fidelity_bank_nigeria`| 
 |![fidelitypaymentservices](https://static.openfintech.io/vendors/fidelitypaymentservices/logo.png?w=600&c=v0.59.26#w200) |[**Fidelity Payment Services**](fidelitypaymentservices/)|`fidelitypaymentservices`| 
 |![fidobank](https://static.openfintech.io/vendors/fidobank/logo.svg?w=600&c=v0.59.26#w200) |[**FIDOBANK**](fidobank/)|`fidobank`| 
 |![filiya_pat_pumb_v_m_kiyiv](https://static.openfintech.io/vendors/filiya_pat_pumb_v_m_kiyiv/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ ПАТ 'ПЕРШИЙ УКРАЇНСЬКИЙ МІЖНАРОДНИЙ БАНК' В М.КИЇВ**](filiya_pat_pumb_v_m_kiyiv/)|`filiya_pat_pumb_v_m_kiyiv`| 
@@ -808,6 +816,7 @@
 |![frenchonlinepaymentmethodewalletpaylib](https://static.openfintech.io/vendors/frenchonlinepaymentmethodewalletpaylib/logo.png?w=600&c=v0.59.26#w200) |[**paylib**](frenchonlinepaymentmethodewalletpaylib/)|`frenchonlinepaymentmethodewalletpaylib`| 
 |![frivnenske_oblasne_up_atoshad_m_rivne](https://static.openfintech.io/vendors/frivnenske_oblasne_up_atoshad_m_rivne/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Рiвненське обласне управлiння ПАТ 'Державний ощадний банк України'**](frivnenske_oblasne_up_atoshad_m_rivne/)|`frivnenske_oblasne_up_atoshad_m_rivne`| 
 |![frozrah_centrpat_kbprivatbank_kiyiv](https://static.openfintech.io/vendors/frozrah_centrpat_kbprivatbank_kiyiv/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ 'РОЗРАХУНКОВИЙ ЦЕНТР' ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](frozrah_centrpat_kbprivatbank_kiyiv/)|`frozrah_centrpat_kbprivatbank_kiyiv`| 
+|![fsmb_nigeria](https://static.openfintech.io/vendors/fsmb_nigeria/logo.svg?w=600&c=v0.59.26#w200) |[**FCMB Plc, Nigeria**](fsmb_nigeria/)|`fsmb_nigeria`| 
 |![fsumske_oblasne_upravl_atoshad_m_sumi](https://static.openfintech.io/vendors/fsumske_oblasne_upravl_atoshad_m_sumi/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Сумське обласне управлiння ПАТ 'Державний ощадний банк України'**](fsumske_oblasne_upravl_atoshad_m_sumi/)|`fsumske_oblasne_upravl_atoshad_m_sumi`| 
 |![fternopilske_obla_atoshad_m_ternopil](https://static.openfintech.io/vendors/fternopilske_obla_atoshad_m_ternopil/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Тернопiльське обласне управлiння ПАТ 'Державний ощадний банк України'**](fternopilske_obla_atoshad_m_ternopil/)|`fternopilske_obla_atoshad_m_ternopil`| 
 |![fukuho_bank](https://static.openfintech.io/vendors/fukuho_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Fukuho Bank**](fukuho_bank/)|`fukuho_bank`| 
@@ -1168,6 +1177,7 @@
 |![michinoku_bank](https://static.openfintech.io/vendors/michinoku_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Michinoku Bank**](michinoku_bank/)|`michinoku_bank`| 
 |![micropaymentgmbh](https://static.openfintech.io/vendors/micropaymentgmbh/logo.png?w=600&c=v0.59.26#w200) |[**micropayment™ GmbH**](micropaymentgmbh/)|`micropaymentgmbh`| 
 |![micropayments](https://static.openfintech.io/vendors/micropayments/logo.svg?w=600&c=v0.59.26#w200) |[**MicroPayments**](micropayments/)|`micropayments`| 
+|![mids](https://static.openfintech.io/vendors/mids/logo.png?w=600&c=v0.59.26#w200) |[**MIDs**](mids/)|`mids`| 
 |![mie_bank](https://static.openfintech.io/vendors/mie_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Mie Bank**](mie_bank/)|`mie_bank`| 
 |![mifinity](https://static.openfintech.io/vendors/mifinity/logo.svg?w=600&c=v0.59.26#w200) |[**MiFinity**](mifinity/)|`mifinity`| 
 |![mikolayivske_ruprivatbank_m_mikolayiv](https://static.openfintech.io/vendors/mikolayivske_ruprivatbank_m_mikolayiv/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ 'МИКОЛАЇВСЬКЕ РЕГІОНАЛЬНЕ УПРАВЛІННЯ' ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](mikolayivske_ruprivatbank_m_mikolayiv/)|`mikolayivske_ruprivatbank_m_mikolayiv`| 
@@ -1703,6 +1713,7 @@
 |![pochtabank](https://static.openfintech.io/vendors/pochtabank/logo.svg?w=600&c=v0.59.26#w200) |[**Почта Банк**](pochtabank/)|`pochtabank`| 
 |![pokermatch](https://static.openfintech.io/vendors/pokermatch/logo.svg?w=600&c=v0.59.26#w200) |[**Pokermatch**](pokermatch/)|`pokermatch`| 
 |![pokpay](https://static.openfintech.io/vendors/pokpay/logo.svg?w=600&c=v0.59.26#w200) |[**PokPay**](pokpay/)|`pokpay`| 
+|![polaris_bank_nigeria](https://static.openfintech.io/vendors/polaris_bank_nigeria/logo.svg?w=600&c=v0.59.26#w200) |[**Polaris Bank, Nigeria**](polaris_bank_nigeria/)|`polaris_bank_nigeria`| 
 |![poli](https://static.openfintech.io/vendors/poli/logo.svg?w=600&c=v0.59.26#w200) |[**POLi**](poli/)|`poli`| 
 |![polikombank](https://static.openfintech.io/vendors/polikombank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'Полікомбанк'**](polikombank/)|`polikombank`| 
 |![polipayonline](https://static.openfintech.io/vendors/polipayonline/logo.png?w=600&c=v0.59.26#w200) |[**POLi Payments**](polipayonline/)|`polipayonline`| 
@@ -1928,6 +1939,7 @@
 |![spryng](https://static.openfintech.io/vendors/spryng/logo.png?w=600&c=v0.59.26#w200) |[**Spryng Payments**](spryng/)|`spryng`| 
 |![sqalapay](https://static.openfintech.io/vendors/sqalapay/logo.png?w=600&c=v0.59.26#w200) |[**Sqalapay**](sqalapay/)|`sqalapay`| 
 |![square](https://static.openfintech.io/vendors/square/logo.svg?w=600&c=v0.59.26#w200) |[**Square**](square/)|`square`| 
+|![stanbic_bank_nigeria](https://static.openfintech.io/vendors/stanbic_bank_nigeria/logo.svg?w=600&c=v0.59.26#w200) |[**Stanbic IBTC Bank, Nigeria**](stanbic_bank_nigeria/)|`stanbic_bank_nigeria`| 
 |![standard_chartered_bank](https://static.openfintech.io/vendors/standard_chartered_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Standard Chartered Bank**](standard_chartered_bank/)|`standard_chartered_bank`| 
 |![start2pay](https://static.openfintech.io/vendors/start2pay/logo.png?w=600&c=v0.59.26#w200) |[**Start2Pay**](start2pay/)|`start2pay`| 
 |![stellar](https://static.openfintech.io/vendors/stellar/logo.svg?w=600&c=v0.59.26#w200) |[**Stellar**](stellar/)|`stellar`| 
@@ -2068,6 +2080,7 @@
 |![twoclick](https://static.openfintech.io/vendors/twoclick/logo.png?w=600&c=v0.59.26#w200) |[**2click**](twoclick/)|`twoclick`| 
 |![twopayler](https://static.openfintech.io/vendors/twopayler/logo.svg?w=600&c=v0.59.26#w200) |[**2PayLer**](twopayler/)|`twopayler`| 
 |![txtnation](https://static.openfintech.io/vendors/txtnation/logo.png?w=600&c=v0.59.26#w200) |[**txtNation**](txtnation/)|`txtnation`| 
+|![tyme_bank](https://static.openfintech.io/vendors/tyme_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Tyme Bank, South Africa**](tyme_bank/)|`tyme_bank`| 
 |![tzb](https://static.openfintech.io/vendors/tzb/logo.svg?w=600&c=v0.59.26#w200) |[**Bank of Tanzania**](tzb/)|`tzb`| 
 || **U** ||
 |![uapay](https://static.openfintech.io/vendors/uapay/logo.svg?w=600&c=v0.59.26#w200) |[**UAPay**](uapay/)|`uapay`| 

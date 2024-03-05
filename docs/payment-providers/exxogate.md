@@ -596,6 +596,16 @@ The list of supported [Payout Methods](/payout-methods/)
 |![dutch_bangla_bank_limited_rocket](https://static.openfintech.io/payout_methods/dutch_bangla_bank_limited_rocket/icon.svg?w=278&c=v0.59.26#w40) |[dutch_bangla_bank_limited_rocket](payout-methodsdutch_bangla_bank_limited_rocket/)|`dutch_bangla_bank_limited_rocket`| 
 |![united_commercial_bank_upay](https://static.openfintech.io/payout_methods/united_commercial_bank_upay/icon.svg?w=278&c=v0.59.26#w40) |[united_commercial_bank_upay](payout-methodsunited_commercial_bank_upay/)|`united_commercial_bank_upay`| 
 |![pix](https://static.openfintech.io/payout_methods/pix/icon.svg?w=278&c=v0.59.26#w40) |[pix](payout-methodspix/)|`pix`| 
+|![diamond_bank_nigeria](https://static.openfintech.io/payout_methods/diamond_bank_nigeria/icon.svg?w=278&c=v0.59.26#w40) |[diamond_bank_nigeria](payout-methodsdiamond_bank_nigeria/)|`diamond_bank_nigeria`| 
+|![citi_bank_nigeria](https://static.openfintech.io/payout_methods/citi_bank_nigeria/icon.svg?w=278&c=v0.59.26#w40) |[citi_bank_nigeria](payout-methodsciti_bank_nigeria/)|`citi_bank_nigeria`| 
+|![ecobank_nigeria](https://static.openfintech.io/payout_methods/ecobank_nigeria/icon.svg?w=278&c=v0.59.26#w40) |[ecobank_nigeria](payout-methodsecobank_nigeria/)|`ecobank_nigeria`| 
+|![fsmb_nigeria](https://static.openfintech.io/payout_methods/fsmb_nigeria/icon.svg?w=278&c=v0.59.26#w40) |[fsmb_nigeria](payout-methodsfsmb_nigeria/)|`fsmb_nigeria`| 
+|![fidelity_bank_nigeria](https://static.openfintech.io/payout_methods/fidelity_bank_nigeria/icon.svg?w=278&c=v0.59.26#w40) |[fidelity_bank_nigeria](payout-methodsfidelity_bank_nigeria/)|`fidelity_bank_nigeria`| 
+|![polaris_bank_nigeria](https://static.openfintech.io/payout_methods/polaris_bank_nigeria/icon.svg?w=278&c=v0.59.26#w40) |[polaris_bank_nigeria](payout-methodspolaris_bank_nigeria/)|`polaris_bank_nigeria`| 
+|![stanbic_bank_nigeria](https://static.openfintech.io/payout_methods/stanbic_bank_nigeria/icon.svg?w=278&c=v0.59.26#w40) |[stanbic_bank_nigeria](payout-methodsstanbic_bank_nigeria/)|`stanbic_bank_nigeria`| 
+|![tyme_bank](https://static.openfintech.io/payout_methods/tyme_bank/icon.svg?w=278&c=v0.59.26#w40) |[tyme_bank](payout-methodstyme_bank/)|`tyme_bank`| 
+|![african_bank](https://static.openfintech.io/payout_methods/african_bank/icon.svg?w=278&c=v0.59.26#w40) |[african_bank](payout-methodsafrican_bank/)|`african_bank`| 
+|![bidvest_bank](https://static.openfintech.io/payout_methods/bidvest_bank/icon.svg?w=278&c=v0.59.26#w40) |[bidvest_bank](payout-methodsbidvest_bank/)|`bidvest_bank`| 
  
 
 ## JSON Object 
@@ -1158,7 +1168,17 @@ The list of supported [Payout Methods](/payout-methods/)
     "nagad_wallet",
     "dutch_bangla_bank_limited_rocket",
     "united_commercial_bank_upay",
-    "pix"
+    "pix",
+    "diamond_bank_nigeria",
+    "citi_bank_nigeria",
+    "ecobank_nigeria",
+    "fsmb_nigeria",
+    "fidelity_bank_nigeria",
+    "polaris_bank_nigeria",
+    "stanbic_bank_nigeria",
+    "tyme_bank",
+    "african_bank",
+    "bidvest_bank"
   ],
   "metadata":null,
   "name":{
