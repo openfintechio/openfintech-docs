@@ -1994,6 +1994,7 @@
 |![tether](https://static.openfintech.io/vendors/tether/logo.svg?w=600&c=v0.59.26#w200) |[**Tether**](tether/)|`tether`| 
 |![text2pay](https://static.openfintech.io/vendors/text2pay/logo.png?w=600&c=v0.59.26#w200) |[**Text2Pay**](text2pay/)|`text2pay`| 
 |![thaimilitarybanktmbnetbanking](https://static.openfintech.io/vendors/thaimilitarybanktmbnetbanking/logo.png?w=600&c=v0.59.26#w200) |[**Thai Military Bank**](thaimilitarybanktmbnetbanking/)|`thaimilitarybanktmbnetbanking`| 
+|![thebilling](https://static.openfintech.io/vendors/thebilling/logo.svg?w=600&c=v0.59.26#w200) |[**The Billing**](thebilling/)|`thebilling`| 
 |![theecheckcom](https://static.openfintech.io/vendors/theecheckcom/logo.png?w=600&c=v0.59.26#w200) |[**TheECheck.com**](theecheckcom/)|`theecheckcom`| 
 |![thelogicgroup](https://static.openfintech.io/vendors/thelogicgroup/logo.png?w=600&c=v0.59.26#w200) |[**The Logic Group**](thelogicgroup/)|`thelogicgroup`| 
 |![thenoy](https://static.openfintech.io/vendors/thenoy/logo.png?w=600&c=v0.59.26#w200) |[**THENOY**](thenoy/)|`thenoy`| 
@@ -2063,6 +2064,7 @@
 |![transecute](https://static.openfintech.io/vendors/transecute/logo.png?w=600&c=v0.59.26#w200) |[**Transecute**](transecute/)|`transecute`| 
 |![transfer24.pro](https://static.openfintech.io/vendors/transfer24.pro/logo.svg?w=600&c=v0.59.26#w200) |[**Transfer24**](transfer24.pro/)|`transfer24.pro`| 
 |![transferhub](https://static.openfintech.io/vendors/transferhub/logo.svg?w=600&c=v0.59.26#w200) |[**TransferHub**](transferhub/)|`transferhub`| 
+|![transflofintech](https://static.openfintech.io/vendors/transflofintech/logo.png?w=600&c=v0.59.26#w200) |[**Transflo Fintech**](transflofintech/)|`transflofintech`| 
 |![tranzzo](https://static.openfintech.io/vendors/tranzzo/logo.svg?w=600&c=v0.59.26#w200) |[**Tranzzo**](tranzzo/)|`tranzzo`| 
 |![traxpay](https://static.openfintech.io/vendors/traxpay/logo.png?w=600&c=v0.59.26#w200) |[**Traxpay**](traxpay/)|`traxpay`| 
 |![triple000](https://static.openfintech.io/vendors/triple000/logo.png?w=600&c=v0.59.26#w200) |[**Triple000**](triple000/)|`triple000`| 

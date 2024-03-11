@@ -859,6 +859,7 @@
 |![telecash](https://static.openfintech.io/payment_providers/telecash/logo.png?w=600&c=v0.59.26#w100) |[**TeleCash**](telecash/)|`telecash`| 
 |![test](https://static.openfintech.io/payment_providers/test/logo.png?w=600&c=v0.59.26#w100) |[**Test**](test/)|`test`| 
 |![text2pay](https://static.openfintech.io/payment_providers/text2pay/logo.png?w=600&c=v0.59.26#w100) |[**Text2Pay**](text2pay/)|`text2pay`| 
+|![thebilling](https://static.openfintech.io/payment_providers/thebilling/logo.svg?w=600&c=v0.59.26#w100) |[**The Billing**](thebilling/)|`thebilling`| 
 |![theecheckcom](https://static.openfintech.io/payment_providers/theecheckcom/logo.png?w=600&c=v0.59.26#w100) |[**TheECheck.com**](theecheckcom/)|`theecheckcom`| 
 |![thelogicgroup](https://static.openfintech.io/payment_providers/thelogicgroup/logo.png?w=600&c=v0.59.26#w100) |[**The Logic Group**](thelogicgroup/)|`thelogicgroup`| 
 |![thenoy](https://static.openfintech.io/payment_providers/thenoy/logo.png?w=600&c=v0.59.26#w100) |[**THENOY**](thenoy/)|`thenoy`| 
@@ -880,6 +881,7 @@
 |![transactworld](https://static.openfintech.io/payment_providers/transactworld/logo.png?w=600&c=v0.59.26#w100) |[**Transact World**](transactworld/)|`transactworld`| 
 |![transecute](https://static.openfintech.io/payment_providers/transecute/logo.png?w=600&c=v0.59.26#w100) |[**Transecute**](transecute/)|`transecute`| 
 |![transferhub](https://static.openfintech.io/payment_providers/transferhub/logo.svg?w=600&c=v0.59.26#w100) |[**TransferHub**](transferhub/)|`transferhub`| 
+|![transflofintech](https://static.openfintech.io/payment_providers/transflofintech/logo.svg?w=600&c=v0.59.26#w100) |[**Transflo Fintech**](transflofintech/)|`transflofintech`| 
 |![tranzzo](https://static.openfintech.io/payment_providers/tranzzo/logo.svg?w=600&c=v0.59.26#w100) |[**Tranzzo**](tranzzo/)|`tranzzo`| 
 |![traxpay](https://static.openfintech.io/payment_providers/traxpay/logo.png?w=600&c=v0.59.26#w100) |[**Traxpay**](traxpay/)|`traxpay`| 
 |![triple000](https://static.openfintech.io/payment_providers/triple000/logo.png?w=600&c=v0.59.26#w100) |[**Triple000**](triple000/)|`triple000`| 
