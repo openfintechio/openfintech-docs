@@ -17,7 +17,7 @@
 :	[RU] Hero Payments 
 :	[UK] Hero Payments 
  
-**Amount limits:** from `0` to `100000` VND 
+**Amount limits:** from `1` to `9999999999` VND 
 
 ## JSON Object 
 
@@ -28,7 +28,7 @@
   "method":"hero_payments",
   "currency":"VND",
   "fields":null,
-  "amount_min":0,
-  "amount_max":100000
+  "amount_min":1,
+  "amount_max":9999999999
 }
 ```  

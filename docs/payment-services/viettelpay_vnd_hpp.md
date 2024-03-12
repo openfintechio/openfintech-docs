@@ -17,7 +17,7 @@
 :	[RU] ViettelPay 
 :	[UK] ViettelPay 
  
-**Amount limits:** from `1` to `9999999` VND 
+**Amount limits:** from `1` to `9999999999` VND 
 
 ## JSON Object 
 
@@ -29,6 +29,6 @@
   "currency":"VND",
   "fields":null,
   "amount_min":1,
-  "amount_max":9999999
+  "amount_max":9999999999
 }
 ```  

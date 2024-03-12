@@ -16,7 +16,7 @@
 :	[RU] BitexPRO P2P 
 :	[UK] BitexPRO P2P 
  
-**Amount limits:** from `1` to `4500000` VND 
+**Amount limits:** from `1` to `9999999999` VND 
 
 ## Fields 
 
@@ -82,6 +82,6 @@
     }
   ],
   "amount_min":1,
-  "amount_max":4500000
+  "amount_max":9999999999
 }
 ```  

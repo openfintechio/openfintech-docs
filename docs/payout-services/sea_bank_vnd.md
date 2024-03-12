@@ -16,7 +16,7 @@
 :	[RU] Southeast Asia Commercial Joint Stock Bank 
 :	[UK] Southeast Asia Commercial Joint Stock Bank 
  
-**Amount limits:** from `30000` to `1000000000` VND 
+**Amount limits:** from `1` to `9999999999` VND 
 
 ## Fields 
 
@@ -365,7 +365,7 @@
       "position":9
     }
   ],
-  "amount_min":"30000",
-  "amount_max":"1000000000"
+  "amount_min":"1",
+  "amount_max":"9999999999"
 }
 ```  

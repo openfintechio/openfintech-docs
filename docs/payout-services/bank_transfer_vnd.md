@@ -16,7 +16,7 @@
 :	[RU] Банковский перевод 
 :	[UK] Банківський переказ 
  
-**Amount limits:** from `1` to `100000` VND 
+**Amount limits:** from `1` to `9999999999` VND 
 
 ## Fields 
 
@@ -797,6 +797,6 @@
     }
   ],
   "amount_min":"1",
-  "amount_max":"100000"
+  "amount_max":"9999999999"
 }
 ```  

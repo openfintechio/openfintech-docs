@@ -17,7 +17,7 @@
 :	[RU] Vietnam International Commercial Joint Stock Bank 
 :	[UK] Vietnam International Commercial Joint Stock Bank 
  
-**Amount limits:** from `1` to `2500000000` VND 
+**Amount limits:** from `1` to `9999999999` VND 
 
 ## Fields 
 
@@ -115,6 +115,6 @@
     }
   ],
   "amount_min":1,
-  "amount_max":2500000000
+  "amount_max":9999999999
 }
 ```  
