@@ -536,7 +536,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![tillpayments](https://static.openfintech.io/payment_providers/tillpayments/icon.png?w=278&c=v0.59.26#w100) |[Till Payments](/payment-providers/tillpayments/)|`tillpayments`| 
 |![intervale](https://static.openfintech.io/payment_providers/intervale/icon.svg?w=278&c=v0.59.26#w100) |[Intervale](/payment-providers/intervale/)|`intervale`| 
 |![aspay](https://static.openfintech.io/payment_providers/aspay/icon.png?w=278&c=v0.59.26#w100) |[AsPay](/payment-providers/aspay/)|`aspay`| 
-|![transflofintech](https://static.openfintech.io/payment_providers/transflofintech/icon.svg?w=278&c=v0.59.26#w100) |[Transflo Fintech](/payment-providers/transflofintech/)|`transflofintech`| 
+|![transflofintech](https://static.openfintech.io/payment_providers/transflofintech/icon.png?w=278&c=v0.59.26#w100) |[Transflo Fintech](/payment-providers/transflofintech/)|`transflofintech`| 
 |![thebilling](https://static.openfintech.io/payment_providers/thebilling/icon.svg?w=278&c=v0.59.26#w100) |[The Billing](/payment-providers/thebilling/)|`thebilling`| 
  
 

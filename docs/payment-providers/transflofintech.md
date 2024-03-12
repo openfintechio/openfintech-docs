@@ -1,6 +1,6 @@
 
 # Transflo Fintech 
-![transflofintech](https://static.openfintech.io/payment_providers/transflofintech/logo.svg?w=400&c=v0.59.26#w100)  
+![transflofintech](https://static.openfintech.io/payment_providers/transflofintech/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![transflofintech](https://static.openfintech.io/payment_providers/transflofintech/logo.svg?w=400&c=v0.59.26#w100)  
+![transflofintech](https://static.openfintech.io/payment_providers/transflofintech/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/transflofintech/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/transflofintech/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![transflofintech](https://static.openfintech.io/payment_providers/transflofintech/icon.svg?w=278&c=v0.59.26#w100)  
+![transflofintech](https://static.openfintech.io/payment_providers/transflofintech/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/transflofintech/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/transflofintech/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
