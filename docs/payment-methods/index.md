@@ -162,6 +162,7 @@
 |![bri_bank](https://static.openfintech.io/payment_methods/bri_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BRI Bank**](bri_bank/)|`bri_bank`| 
 |![btn_bank](https://static.openfintech.io/payment_methods/btn_bank/logo.png?w=400&c=v0.59.26#w200) |[**BTN Bank**](btn_bank/)|`btn_bank`| 
 |![btpn_bank](https://static.openfintech.io/payment_methods/btpn_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Bank BTPN**](btpn_bank/)|`btpn_bank`| 
+|![budpay_aggregated](https://static.openfintech.io/payment_methods/budpay_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**BudPay aggregated**](budpay_aggregated/)|`budpay_aggregated`| 
 |![bukopin_bank](https://static.openfintech.io/payment_methods/bukopin_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Bank KB Bukopin**](bukopin_bank/)|`bukopin_bank`| 
 |![busan_bank](https://static.openfintech.io/payment_methods/busan_bank/logo.png?w=400&c=v0.59.26#w200) |[**Busan Bank**](busan_bank/)|`busan_bank`| 
 || **C** ||

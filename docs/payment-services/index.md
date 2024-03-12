@@ -319,6 +319,9 @@
 |![BRI Bank](https://static.openfintech.io/payment_methods/bri_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BRI Bank**](/payment-methods/bri_bank/)|[`bri_bank_cny_hpp`](bri_bank_cny_hpp/)| 
 |![BTN Bank](https://static.openfintech.io/payment_methods/btn_bank/logo.png?w=400&c=v0.59.26#w200) |[**BTN Bank**](/payment-methods/btn_bank/)|[`btn_bank_idr_hpp`](btn_bank_idr_hpp/)| 
 |![Bank BTPN](https://static.openfintech.io/payment_methods/btpn_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Bank BTPN**](/payment-methods/btpn_bank/)|[`btpn_bank_idr_hpp`](btpn_bank_idr_hpp/)| 
+|![BudPay aggregated](https://static.openfintech.io/payment_methods/budpay_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**BudPay aggregated**](/payment-methods/budpay_aggregated/)|[`budpay_aggregated_ghs_hpp`](budpay_aggregated_ghs_hpp/)| 
+|![BudPay aggregated](https://static.openfintech.io/payment_methods/budpay_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**BudPay aggregated**](/payment-methods/budpay_aggregated/)|[`budpay_aggregated_kes_hpp`](budpay_aggregated_kes_hpp/)| 
+|![BudPay aggregated](https://static.openfintech.io/payment_methods/budpay_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**BudPay aggregated**](/payment-methods/budpay_aggregated/)|[`budpay_aggregated_ngn_hpp`](budpay_aggregated_ngn_hpp/)| 
 |![Bank KB Bukopin](https://static.openfintech.io/payment_methods/bukopin_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Bank KB Bukopin**](/payment-methods/bukopin_bank/)|[`bukopin_bank_idr_hpp`](bukopin_bank_idr_hpp/)| 
 |![Busan Bank](https://static.openfintech.io/payment_methods/busan_bank/logo.png?w=400&c=v0.59.26#w200) |[**Busan Bank**](/payment-methods/busan_bank/)|[`busan_bank_krw_hpp`](busan_bank_krw_hpp/)| 
 ||| **C** ||

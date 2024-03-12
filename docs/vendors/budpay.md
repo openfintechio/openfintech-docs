@@ -15,7 +15,7 @@
 **Status:** `active` 
  
 **Links:** 
-: website [https://www.budpay.ng/](https://www.budpay.ng/) 
+: website [https://www.budpay.com/](https://www.budpay.com/) 
  
 
 ## Images 
@@ -49,7 +49,7 @@ https://static.openfintech.io/vendors/budpay/icon.png?w=278&c=v0.59.26#w100
   "status":"active",
   "description":null,
   "links":{
-    "website":"https:\/\/www.budpay.ng\/"
+    "website":"https:\/\/www.budpay.com\/"
   },
   "countries":null,
   "contacts":null,
