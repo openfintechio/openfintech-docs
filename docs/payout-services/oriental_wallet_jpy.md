@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`account_number`|✗|`string`|`/^[0-9]{2,100}$/`| 
+|`account_number`|✗|`string`|`/^.{2,50}$/`| 
  
 
 ### Details 
@@ -33,7 +33,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9]{2,100}$/` 
+	Regexp: `/^.{2,50}$/` 
  
 	Required: `` 
  
@@ -59,7 +59,7 @@
     {
       "key":"account_number",
       "type":"string",
-      "regexp":"\/^[0-9]{2,100}$\/",
+      "regexp":"\/^.{2,50}$\/",
       "label":{
         "en":"Account number",
         "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430",
