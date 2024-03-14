@@ -37,10 +37,10 @@ The list of [Payment Services](/payment-services/) based on the _Any.Money_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![anymoney](https://static.openfintech.io/payment_methods/anymoney/icon.png?w=278&c=v0.59.26#w100) |[anymoney_usdt_hpp](/payment-services/anymoney_usdt_hpp/)|`anymoney_usdt_hpp`| 
-|![anymoney](https://static.openfintech.io/payment_methods/anymoney/icon.png?w=278&c=v0.59.26#w100) |[any_money_trx_hpp](/payment-services/any_money_trx_hpp/)|`any_money_trx_hpp`| 
-|![anymoney](https://static.openfintech.io/payment_methods/anymoney/icon.png?w=278&c=v0.59.26#w100) |[any_money_ltc_hpp](/payment-services/any_money_ltc_hpp/)|`any_money_ltc_hpp`| 
-|![anymoney](https://static.openfintech.io/payment_methods/anymoney/icon.png?w=278&c=v0.59.26#w100) |[any_money_btc_hpp](/payment-services/any_money_btc_hpp/)|`any_money_btc_hpp`| 
-|![anymoney](https://static.openfintech.io/payment_methods/anymoney/icon.png?w=278&c=v0.59.26#w100) |[any_money_eth_hpp](/payment-services/any_money_eth_hpp/)|`any_money_eth_hpp`| 
+|![anymoney](https://static.openfintech.io/payment_methods/anymoney/icon.png?w=278&c=v0.59.26#w100) |[anymoney_trx_hpp](/payment-services/anymoney_trx_hpp/)|`anymoney_trx_hpp`| 
+|![anymoney](https://static.openfintech.io/payment_methods/anymoney/icon.png?w=278&c=v0.59.26#w100) |[anymoney_ltc_hpp](/payment-services/anymoney_ltc_hpp/)|`anymoney_ltc_hpp`| 
+|![anymoney](https://static.openfintech.io/payment_methods/anymoney/icon.png?w=278&c=v0.59.26#w100) |[anymoney_btc_hpp](/payment-services/anymoney_btc_hpp/)|`anymoney_btc_hpp`| 
+|![anymoney](https://static.openfintech.io/payment_methods/anymoney/icon.png?w=278&c=v0.59.26#w100) |[anymoney_eth_hpp](/payment-services/anymoney_eth_hpp/)|`anymoney_eth_hpp`| 
  
 
 ## Payment Providers 

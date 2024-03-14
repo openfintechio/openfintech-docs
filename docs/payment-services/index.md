@@ -55,10 +55,10 @@
 |![Ambank (FPX), Malaysia](https://static.openfintech.io/payment_methods/ambank_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**Ambank (FPX), Malaysia**](/payment-methods/ambank_fpx/)|[`ambank_fpx_myr_hpp`](ambank_fpx_myr_hpp/)| 
 |![American Express](https://static.openfintech.io/payment_methods/americanexpress/logo.svg?w=400&c=v0.59.26#w200) |[**American Express**](/payment-methods/americanexpress/)|[`americanexpress_eur_hpp`](americanexpress_eur_hpp/)| 
 |![Andhra Bank](https://static.openfintech.io/payment_methods/andhra_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Andhra Bank**](/payment-methods/andhra_bank/)|[`andhra_bank_inr_hpp`](andhra_bank_inr_hpp/)| 
-|![Any.Money](https://static.openfintech.io/payment_methods/anymoney/logo.png?w=400&c=v0.59.26#w200) |[**Any.Money**](/payment-methods/anymoney/)|[`any_money_btc_hpp`](any_money_btc_hpp/)| 
-|![Any.Money](https://static.openfintech.io/payment_methods/anymoney/logo.png?w=400&c=v0.59.26#w200) |[**Any.Money**](/payment-methods/anymoney/)|[`any_money_eth_hpp`](any_money_eth_hpp/)| 
-|![Any.Money](https://static.openfintech.io/payment_methods/anymoney/logo.png?w=400&c=v0.59.26#w200) |[**Any.Money**](/payment-methods/anymoney/)|[`any_money_ltc_hpp`](any_money_ltc_hpp/)| 
-|![Any.Money](https://static.openfintech.io/payment_methods/anymoney/logo.png?w=400&c=v0.59.26#w200) |[**Any.Money**](/payment-methods/anymoney/)|[`any_money_trx_hpp`](any_money_trx_hpp/)| 
+|![Any.Money](https://static.openfintech.io/payment_methods/anymoney/logo.png?w=400&c=v0.59.26#w200) |[**Any.Money**](/payment-methods/anymoney/)|[`anymoney_btc_hpp`](anymoney_btc_hpp/)| 
+|![Any.Money](https://static.openfintech.io/payment_methods/anymoney/logo.png?w=400&c=v0.59.26#w200) |[**Any.Money**](/payment-methods/anymoney/)|[`anymoney_eth_hpp`](anymoney_eth_hpp/)| 
+|![Any.Money](https://static.openfintech.io/payment_methods/anymoney/logo.png?w=400&c=v0.59.26#w200) |[**Any.Money**](/payment-methods/anymoney/)|[`anymoney_ltc_hpp`](anymoney_ltc_hpp/)| 
+|![Any.Money](https://static.openfintech.io/payment_methods/anymoney/logo.png?w=400&c=v0.59.26#w200) |[**Any.Money**](/payment-methods/anymoney/)|[`anymoney_trx_hpp`](anymoney_trx_hpp/)| 
 |![Any.Money](https://static.openfintech.io/payment_methods/anymoney/logo.png?w=400&c=v0.59.26#w200) |[**Any.Money**](/payment-methods/anymoney/)|[`anymoney_usdt_hpp`](anymoney_usdt_hpp/)| 
 |![Apostar](https://static.openfintech.io/payment_methods/apostar/logo.svg?w=400&c=v0.59.26#w200) |[**Apostar**](/payment-methods/apostar/)|[`apostarin_cop_hpp`](apostarin_cop_hpp/)| 
 |![Apple Pay](https://static.openfintech.io/payment_methods/applepay/logo.svg?w=400&c=v0.59.26#w200) |[**Apple Pay**](/payment-methods/applepay/)|[`applepay_aud_hpp`](applepay_aud_hpp/)| 

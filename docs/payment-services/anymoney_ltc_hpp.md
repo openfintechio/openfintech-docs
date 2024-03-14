@@ -1,0 +1,34 @@
+
+# Any.Money (service) 
+![anymoney_ltc_hpp](https://static.openfintech.io/payment_methods/anymoney_ltc_hpp/logo.svg?w=400&c=v0.59.26#w200)  
+
+## General 
+ 
+**Code:** `anymoney_ltc_hpp` 
+ 
+**Method:** `anymoney` 
+ [show -->](/payment-methods/anymoney/) 
+ 
+**Currency:** `LTC` [show -->](/currencies/LTC/) 
+ 
+**Name:** 
+ 
+:	[EN] Any.Money 
+:	[RU] Any.Money 
+:	[UK] Any.Money 
+ 
+**Amount limits:** from `1.0E-5` to `100000` LTC 
+
+## JSON Object 
+
+```json
+{
+  "code":"anymoney_ltc_hpp",
+  "flow":"hpp",
+  "method":"anymoney",
+  "currency":"LTC",
+  "fields":null,
+  "amount_min":1.0e-5,
+  "amount_max":100000
+}
+```  
