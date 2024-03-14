@@ -44,6 +44,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![bitcoin_cash](https://static.openfintech.io/payment_methods/bitcoin_cash/icon.png?w=278&c=v0.59.26#w100) |[bitcoin_cash](/payment-methods/bitcoin_cash/)|`bitcoin_cash`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether](/payment-methods/tether/)|`tether`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
+|![anymoney](https://static.openfintech.io/payment_methods/anymoney/icon.png?w=278&c=v0.59.26#w100) |[anymoney](/payment-methods/anymoney/)|`anymoney`| 
  
 
 ## Payout Methods 
@@ -79,7 +80,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "bitcoin",
     "bitcoin_cash",
     "tether",
-    "payment_card"
+    "payment_card",
+    "anymoney"
   ],
   "payout_method":[
     "mobile",

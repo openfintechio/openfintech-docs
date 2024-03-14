@@ -1336,6 +1336,7 @@
 |![onlinechange](https://static.openfintech.io/vendors/onlinechange/logo.svg?w=600&c=v0.59.26#w200) |[**OnlineChange**](onlinechange/)|`onlinechange`| 
 |![onlineips](https://static.openfintech.io/vendors/onlineips/logo.png?w=600&c=v0.59.26#w200) |[**Online IPS**](onlineips/)|`onlineips`| 
 |![onlinenaira](https://static.openfintech.io/vendors/onlinenaira/logo.png?w=600&c=v0.59.26#w200) |[**OnlineNaira**](onlinenaira/)|`onlinenaira`| 
+|![onlinepay](https://static.openfintech.io/vendors/onlinepay/logo.png?w=600&c=v0.59.26#w200) |[**OnlinePay**](onlinepay/)|`onlinepay`| 
 |![onlymoney](https://static.openfintech.io/vendors/onlymoney/logo.svg?w=600&c=v0.59.26#w200) |[**OnlyMoney**](onlymoney/)|`onlymoney`| 
 |![onlypay](https://static.openfintech.io/vendors/onlypay/logo.svg?w=600&c=v0.59.26#w200) |[**Onlypay**](onlypay/)|`onlypay`| 
 |![onpex](https://static.openfintech.io/vendors/onpex/logo.png?w=600&c=v0.59.26#w200) |[**ONPEX**](onpex/)|`onpex`| 

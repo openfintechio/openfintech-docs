@@ -43,6 +43,7 @@
 |![ambank_fpx](https://static.openfintech.io/payment_methods/ambank_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**Ambank (FPX), Malaysia**](ambank_fpx/)|`ambank_fpx`| 
 |![americanexpress](https://static.openfintech.io/payment_methods/americanexpress/logo.svg?w=400&c=v0.59.26#w200) |[**American Express**](americanexpress/)|`americanexpress`| 
 |![andhra_bank](https://static.openfintech.io/payment_methods/andhra_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Andhra Bank**](andhra_bank/)|`andhra_bank`| 
+|![anymoney](https://static.openfintech.io/payment_methods/anymoney/logo.png?w=400&c=v0.59.26#w200) |[**Any.Money**](anymoney/)|`anymoney`| 
 |![apostar](https://static.openfintech.io/payment_methods/apostar/logo.svg?w=400&c=v0.59.26#w200) |[**Apostar**](apostar/)|`apostar`| 
 |![applepay](https://static.openfintech.io/payment_methods/applepay/logo.svg?w=400&c=v0.59.26#w200) |[**Apple Pay**](applepay/)|`applepay`| 
 |![apuestascucuta75](https://static.openfintech.io/payment_methods/apuestascucuta75/logo.svg?w=400&c=v0.59.26#w200) |[**Apuestas Cucuta 75**](apuestascucuta75/)|`apuestascucuta75`| 

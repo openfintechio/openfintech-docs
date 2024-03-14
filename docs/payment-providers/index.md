@@ -549,6 +549,7 @@
 |![onestopmoneymanager](https://static.openfintech.io/payment_providers/onestopmoneymanager/logo.png?w=600&c=v0.59.26#w100) |[**Onestopmoneymanager Ltd**](onestopmoneymanager/)|`onestopmoneymanager`| 
 |![onevision](https://static.openfintech.io/payment_providers/onevision/logo.png?w=600&c=v0.59.26#w100) |[**Onevision**](onevision/)|`onevision`| 
 |![onlineips](https://static.openfintech.io/payment_providers/onlineips/logo.png?w=600&c=v0.59.26#w100) |[**Online IPS**](onlineips/)|`onlineips`| 
+|![onlinepay](https://static.openfintech.io/payment_providers/onlinepay/logo.png?w=600&c=v0.59.26#w100) |[**OnlinePay**](onlinepay/)|`onlinepay`| 
 |![onlypay](https://static.openfintech.io/payment_providers/onlypay/logo.svg?w=600&c=v0.59.26#w100) |[**Onlypay**](onlypay/)|`onlypay`| 
 |![onpex](https://static.openfintech.io/payment_providers/onpex/logo.png?w=600&c=v0.59.26#w100) |[**ONPEX**](onpex/)|`onpex`| 
 |![oonex](https://static.openfintech.io/payment_providers/oonex/logo.png?w=600&c=v0.59.26#w100) |[**Oonex**](oonex/)|`oonex`| 
