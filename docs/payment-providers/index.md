@@ -428,6 +428,7 @@
 |![jmitsolutions](https://static.openfintech.io/payment_providers/jmitsolutions/logo.svg?w=600&c=v0.59.26#w100) |[**JMITsolutions**](jmitsolutions/)|`jmitsolutions`| 
 |![judopayments](https://static.openfintech.io/payment_providers/judopayments/logo.png?w=600&c=v0.59.26#w100) |[**Judo Payments**](judopayments/)|`judopayments`| 
 |![junglepay](https://static.openfintech.io/payment_providers/junglepay/logo.png?w=600&c=v0.59.26#w100) |[**JunglePay**](junglepay/)|`junglepay`| 
+|![justipay](https://static.openfintech.io/payment_providers/justipay/logo.svg?w=600&c=v0.59.26#w100) |[**Justipay**](justipay/)|`justipay`| 
 || **K** ||
 |![kalixa](https://static.openfintech.io/payment_providers/kalixa/logo.png?w=600&c=v0.59.26#w100) |[**Kalixa Payments Group**](kalixa/)|`kalixa`| 
 |![kassa](https://static.openfintech.io/payment_providers/kassa/logo.svg?w=600&c=v0.59.26#w100) |[**Kassa**](kassa/)|`kassa`| 

@@ -1021,6 +1021,7 @@
 |![judopayments](https://static.openfintech.io/vendors/judopayments/logo.png?w=600&c=v0.59.26#w200) |[**Judo Payments**](judopayments/)|`judopayments`| 
 |![junglepay](https://static.openfintech.io/vendors/junglepay/logo.png?w=600&c=v0.59.26#w200) |[**JunglePay**](junglepay/)|`junglepay`| 
 |![juroku_banks](https://static.openfintech.io/vendors/juroku_banks/logo.svg?w=600&c=v0.59.26#w200) |[**Juroku Bank**](juroku_banks/)|`juroku_banks`| 
+|![justipay](https://static.openfintech.io/vendors/justipay/logo.svg?w=600&c=v0.59.26#w200) |[**Justipay**](justipay/)|`justipay`| 
 |![justpayewallet](https://static.openfintech.io/vendors/justpayewallet/logo.png?w=600&c=v0.59.26#w200) |[**TOT Just Pay**](justpayewallet/)|`justpayewallet`| 
 |![jyskebank](https://static.openfintech.io/vendors/jyskebank/logo.png?w=600&c=v0.59.26#w200) |[**Jyske Bank**](jyskebank/)|`jyskebank`| 
 |![jyuhachi_bank](https://static.openfintech.io/vendors/jyuhachi_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Jyuhachi Bank**](jyuhachi_bank/)|`jyuhachi_bank`| 
