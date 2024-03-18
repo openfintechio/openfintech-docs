@@ -562,6 +562,7 @@
 |![Giropay](https://static.openfintech.io/payment_methods/giropay/logo.svg?w=400&c=v0.59.26#w200) |[**Giropay**](/payment-methods/giropay/)|[`giropay_eur_hpp`](giropay_eur_hpp/)| 
 |![Google Pay](https://static.openfintech.io/payment_methods/googlepay/logo.svg?w=400&c=v0.59.26#w200) |[**Google Pay**](/payment-methods/googlepay/)|[`googlepay_eur_hpp`](googlepay_eur_hpp/)| 
 |![Google Pay](https://static.openfintech.io/payment_methods/googlepay/logo.svg?w=400&c=v0.59.26#w200) |[**Google Pay**](/payment-methods/googlepay/)|[`googlepay_inr_hpp`](googlepay_inr_hpp/)| 
+|![Google Pay](https://static.openfintech.io/payment_methods/googlepay/logo.svg?w=400&c=v0.59.26#w200) |[**Google Pay**](/payment-methods/googlepay/)|[`googlepay_inr_invoice`](googlepay_inr_invoice/)| 
 |![Google Pay](https://static.openfintech.io/payment_methods/googlepay/logo.svg?w=400&c=v0.59.26#w200) |[**Google Pay**](/payment-methods/googlepay/)|[`googlepay_rub_hpp`](googlepay_rub_hpp/)| 
 |![Google Pay](https://static.openfintech.io/payment_methods/googlepay/logo.svg?w=400&c=v0.59.26#w200) |[**Google Pay**](/payment-methods/googlepay/)|[`googlepay_uah_hpp`](googlepay_uah_hpp/)| 
 |![Google Pay](https://static.openfintech.io/payment_methods/googlepay/logo.svg?w=400&c=v0.59.26#w200) |[**Google Pay**](/payment-methods/googlepay/)|[`googlepay_usd_hpp`](googlepay_usd_hpp/)| 

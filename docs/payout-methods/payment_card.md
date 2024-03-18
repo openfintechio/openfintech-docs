@@ -542,6 +542,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![transflofintech](https://static.openfintech.io/payment_providers/transflofintech/icon.png?w=278&c=v0.59.26#w100) |[Transflo Fintech](/payment-providers/transflofintech/)|`transflofintech`| 
 |![thebilling](https://static.openfintech.io/payment_providers/thebilling/icon.svg?w=278&c=v0.59.26#w100) |[The Billing](/payment-providers/thebilling/)|`thebilling`| 
 |![onlinepay](https://static.openfintech.io/payment_providers/onlinepay/icon.png?w=278&c=v0.59.26#w100) |[OnlinePay](/payment-providers/onlinepay/)|`onlinepay`| 
+|![cashia](https://static.openfintech.io/payment_providers/cashia/icon.png?w=278&c=v0.59.26#w100) |[Cashia](/payment-providers/cashia/)|`cashia`| 
  
 
 ## JSON Object 

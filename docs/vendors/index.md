@@ -414,6 +414,7 @@
 |![cashbulls](https://static.openfintech.io/vendors/cashbulls/logo.png?w=600&c=v0.59.26#w200) |[**Cash Bulls**](cashbulls/)|`cashbulls`| 
 |![cashflows](https://static.openfintech.io/vendors/cashflows/logo.png?w=600&c=v0.59.26#w200) |[**CashFlows**](cashflows/)|`cashflows`| 
 |![cashfree](https://static.openfintech.io/vendors/cashfree/logo.png?w=600&c=v0.59.26#w200) |[**Cashfree**](cashfree/)|`cashfree`| 
+|![cashia](https://static.openfintech.io/vendors/cashia/logo.png?w=600&c=v0.59.26#w200) |[**Cashia**](cashia/)|`cashia`| 
 |![cashing.su](https://static.openfintech.io/vendors/cashing.su/logo.svg?w=600&c=v0.59.26#w200) |[**Cashing**](cashing.su/)|`cashing.su`| 
 |![cashonex](https://static.openfintech.io/vendors/cashonex/logo.png?w=600&c=v0.59.26#w200) |[**CashOneX**](cashonex/)|`cashonex`| 
 |![cashrun](https://static.openfintech.io/vendors/cashrun/logo.png?w=600&c=v0.59.26#w200) |[**CashRun**](cashrun/)|`cashrun`| 
@@ -1708,6 +1709,7 @@
 |![platiwm.biz](https://static.openfintech.io/vendors/platiwm.biz/logo.svg?w=600&c=v0.59.26#w200) |[**ПлатиWM**](platiwm.biz/)|`platiwm.biz`| 
 |![platon](https://static.openfintech.io/vendors/platon/logo.svg?w=600&c=v0.59.26#w200) |[**PSP Platon**](platon/)|`platon`| 
 |![platron](https://static.openfintech.io/vendors/platron/logo.png?w=600&c=v0.59.26#w200) |[**Platron**](platron/)|`platron`| 
+|![pluspedirect](https://static.openfintech.io/vendors/pluspedirect/logo.png?w=600&c=v0.59.26#w200) |[**PlusPeDirect**](pluspedirect/)|`pluspedirect`| 
 |![plyusbank](https://static.openfintech.io/vendors/plyusbank/logo.svg?w=600&c=v0.59.26#w200) |[**Плюс банк**](plyusbank/)|`plyusbank`| 
 |![pm-obmen.tv](https://static.openfintech.io/vendors/pm-obmen.tv/logo.svg?w=600&c=v0.59.26#w200) |[**PM-Obmen**](pm-obmen.tv/)|`pm-obmen.tv`| 
 |![pm-privat](https://static.openfintech.io/vendors/pm-privat/logo.svg?w=600&c=v0.59.26#w200) |[**PM-Privat**](pm-privat/)|`pm-privat`| 

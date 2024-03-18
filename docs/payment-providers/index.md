@@ -153,6 +153,7 @@
 |![cashbulls](https://static.openfintech.io/payment_providers/cashbulls/logo.png?w=600&c=v0.59.26#w100) |[**Cash Bulls**](cashbulls/)|`cashbulls`| 
 |![cashflows](https://static.openfintech.io/payment_providers/cashflows/logo.png?w=600&c=v0.59.26#w100) |[**CashFlows**](cashflows/)|`cashflows`| 
 |![cashfree](https://static.openfintech.io/payment_providers/cashfree/logo.png?w=600&c=v0.59.26#w100) |[**Cashfree**](cashfree/)|`cashfree`| 
+|![cashia](https://static.openfintech.io/payment_providers/cashia/logo.png?w=600&c=v0.59.26#w100) |[**Cashia**](cashia/)|`cashia`| 
 |![cashonex](https://static.openfintech.io/payment_providers/cashonex/logo.png?w=600&c=v0.59.26#w100) |[**CashOneX**](cashonex/)|`cashonex`| 
 |![cashrun](https://static.openfintech.io/payment_providers/cashrun/logo.svg?w=600&c=v0.59.26#w100) |[**CashRun**](cashrun/)|`cashrun`| 
 |![cashsender](https://static.openfintech.io/payment_providers/cashsender/logo.svg?w=600&c=v0.59.26#w100) |[**CashSender**](cashsender/)|`cashsender`| 
@@ -736,6 +737,7 @@
 |![platio](https://static.openfintech.io/payment_providers/platio/logo.svg?w=600&c=v0.59.26#w100) |[**Platio**](platio/)|`platio`| 
 |![platon](https://static.openfintech.io/payment_providers/platon/logo.svg?w=600&c=v0.59.26#w100) |[**PSP Platon**](platon/)|`platon`| 
 |![platron](https://static.openfintech.io/payment_providers/platron/logo.png?w=600&c=v0.59.26#w100) |[**Platron**](platron/)|`platron`| 
+|![pluspedirect](https://static.openfintech.io/payment_providers/pluspedirect/logo.png?w=600&c=v0.59.26#w100) |[**PlusPeDirect**](pluspedirect/)|`pluspedirect`| 
 |![pmsolutions](https://static.openfintech.io/payment_providers/pmsolutions/logo.png?w=600&c=v0.59.26#w100) |[**PMSolutions**](pmsolutions/)|`pmsolutions`| 
 |![poli](https://static.openfintech.io/payment_providers/poli/logo.svg?w=600&c=v0.59.26#w100) |[**POLi**](poli/)|`poli`| 
 |![polyana](https://static.openfintech.io/payment_providers/polyana/logo.png?w=600&c=v0.59.26#w100) |[**Polyana**](polyana/)|`polyana`| 
