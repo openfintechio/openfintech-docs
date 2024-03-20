@@ -65,7 +65,7 @@ The list of [Payment Providers](/payment-providers/) that support the _UPI_
 |![123pay](https://static.openfintech.io/payment_providers/123pay/icon.svg?w=278&c=v0.59.26#w100) |[OneTwoThreePay](/payment-providers/123pay/)|`123pay`| 
 |![buckzy](https://static.openfintech.io/payment_providers/buckzy/icon.png?w=278&c=v0.59.26#w100) |[Buckzy](/payment-providers/buckzy/)|`buckzy`| 
 |![payzeasy](https://static.openfintech.io/payment_providers/payzeasy/icon.png?w=278&c=v0.59.26#w100) |[PayzEasy](/payment-providers/payzeasy/)|`payzeasy`| 
-|![pluspedirect](https://static.openfintech.io/payment_providers/pluspedirect/icon.png?w=278&c=v0.59.26#w100) |[PlusPeDirect](/payment-providers/pluspedirect/)|`pluspedirect`| 
+|![pluspedirect](https://static.openfintech.io/payment_providers/pluspedirect/icon.svg?w=278&c=v0.59.26#w100) |[PlusPeDirect](/payment-providers/pluspedirect/)|`pluspedirect`| 
  
 
 ## JSON Object 

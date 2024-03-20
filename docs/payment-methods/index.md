@@ -585,6 +585,7 @@
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](paysafecard/)|`paysafecard`| 
 |![paysafecash](https://static.openfintech.io/payment_methods/paysafecash/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecash**](paysafecash/)|`paysafecash`| 
 |![paysbuy](https://static.openfintech.io/payment_methods/paysbuy/logo.png?w=400&c=v0.59.26#w200) |[**PAYSBUY**](paysbuy/)|`paysbuy`| 
+|![paysense](https://static.openfintech.io/payment_methods/paysense/logo.svg?w=400&c=v0.59.26#w200) |[**PaySense**](paysense/)|`paysense`| 
 |![payshop](https://static.openfintech.io/payment_methods/payshop/logo.png?w=400&c=v0.59.26#w200) |[**Payshop**](payshop/)|`payshop`| 
 |![paytm](https://static.openfintech.io/payment_methods/paytm/logo.svg?w=400&c=v0.59.26#w200) |[**PAYTM Wallet**](paytm/)|`paytm`| 
 |![paytm_payments_bank](https://static.openfintech.io/payment_methods/paytm_payments_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Paytm Payments Bank**](paytm_payments_bank/)|`paytm_payments_bank`| 

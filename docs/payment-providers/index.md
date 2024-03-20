@@ -737,7 +737,7 @@
 |![platio](https://static.openfintech.io/payment_providers/platio/logo.svg?w=600&c=v0.59.26#w100) |[**Platio**](platio/)|`platio`| 
 |![platon](https://static.openfintech.io/payment_providers/platon/logo.svg?w=600&c=v0.59.26#w100) |[**PSP Platon**](platon/)|`platon`| 
 |![platron](https://static.openfintech.io/payment_providers/platron/logo.png?w=600&c=v0.59.26#w100) |[**Platron**](platron/)|`platron`| 
-|![pluspedirect](https://static.openfintech.io/payment_providers/pluspedirect/logo.png?w=600&c=v0.59.26#w100) |[**PlusPeDirect**](pluspedirect/)|`pluspedirect`| 
+|![pluspedirect](https://static.openfintech.io/payment_providers/pluspedirect/logo.svg?w=600&c=v0.59.26#w100) |[**PlusPeDirect**](pluspedirect/)|`pluspedirect`| 
 |![pmsolutions](https://static.openfintech.io/payment_providers/pmsolutions/logo.png?w=600&c=v0.59.26#w100) |[**PMSolutions**](pmsolutions/)|`pmsolutions`| 
 |![poli](https://static.openfintech.io/payment_providers/poli/logo.svg?w=600&c=v0.59.26#w100) |[**POLi**](poli/)|`poli`| 
 |![polyana](https://static.openfintech.io/payment_providers/polyana/logo.png?w=600&c=v0.59.26#w100) |[**Polyana**](polyana/)|`polyana`| 

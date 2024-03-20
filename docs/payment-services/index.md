@@ -1008,6 +1008,7 @@
 |![Paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](/payment-methods/paysafecard/)|[`paysafecard_sek_hpp`](paysafecard_sek_hpp/)| 
 |![Paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](/payment-methods/paysafecard/)|[`paysafecard_usd_hpp`](paysafecard_usd_hpp/)| 
 |![Paysafecash](https://static.openfintech.io/payment_methods/paysafecash/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecash**](/payment-methods/paysafecash/)|[`paysafecash_eur_hpp`](paysafecash_eur_hpp/)| 
+|![PaySense](https://static.openfintech.io/payment_methods/paysense/logo.svg?w=400&c=v0.59.26#w200) |[**PaySense**](/payment-methods/paysense/)|[`paysense_uah_invoice`](paysense_uah_invoice/)| 
 |![PAYTM Wallet](https://static.openfintech.io/payment_methods/paytm/logo.svg?w=400&c=v0.59.26#w200) |[**PAYTM Wallet**](/payment-methods/paytm/)|[`paytm_inr_hpp`](paytm_inr_hpp/)| 
 |![PAYTM Wallet](https://static.openfintech.io/payment_methods/paytm/logo.svg?w=400&c=v0.59.26#w200) |[**PAYTM Wallet**](/payment-methods/paytm/)|[`paytm_inr_invoice`](paytm_inr_invoice/)| 
 |![Paytm Payments Bank](https://static.openfintech.io/payment_methods/paytm_payments_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Paytm Payments Bank**](/payment-methods/paytm_payments_bank/)|[`paytm_payments_bank_inr_hpp`](paytm_payments_bank_inr_hpp/)| 

@@ -1,6 +1,6 @@
 
 # PlusPeDirect 
-![pluspedirect](https://static.openfintech.io/payment_providers/pluspedirect/logo.png?w=400&c=v0.59.26#w100)  
+![pluspedirect](https://static.openfintech.io/payment_providers/pluspedirect/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![pluspedirect](https://static.openfintech.io/payment_providers/pluspedirect/logo.png?w=400&c=v0.59.26#w100)  
+![pluspedirect](https://static.openfintech.io/payment_providers/pluspedirect/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/pluspedirect/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/pluspedirect/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![pluspedirect](https://static.openfintech.io/payment_providers/pluspedirect/icon.png?w=278&c=v0.59.26#w100)  
+![pluspedirect](https://static.openfintech.io/payment_providers/pluspedirect/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/pluspedirect/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/pluspedirect/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -43,6 +43,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |![phonepe](https://static.openfintech.io/payment_methods/phonepe/icon.svg?w=278&c=v0.59.26#w100) |[phonepe](/payment-methods/phonepe/)|`phonepe`| 
 |![paytm](https://static.openfintech.io/payment_methods/paytm/icon.svg?w=278&c=v0.59.26#w100) |[paytm](/payment-methods/paytm/)|`paytm`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay](/payment-methods/googlepay/)|`googlepay`| 
+ 
+
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![imps](https://static.openfintech.io/payout_methods/imps/icon.png?w=278&c=v0.59.26#w40) |[imps](payout-methodsimps/)|`imps`| 
  
 
 ## JSON Object 
@@ -60,7 +69,9 @@ The list of supported [Payment Methods](/payment-methods/)
     "paytm",
     "googlepay"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "imps"
+  ],
   "metadata":null,
   "name":{
     "en":"PlusPeDirect",

@@ -1709,7 +1709,7 @@
 |![platiwm.biz](https://static.openfintech.io/vendors/platiwm.biz/logo.svg?w=600&c=v0.59.26#w200) |[**ПлатиWM**](platiwm.biz/)|`platiwm.biz`| 
 |![platon](https://static.openfintech.io/vendors/platon/logo.svg?w=600&c=v0.59.26#w200) |[**PSP Platon**](platon/)|`platon`| 
 |![platron](https://static.openfintech.io/vendors/platron/logo.png?w=600&c=v0.59.26#w200) |[**Platron**](platron/)|`platron`| 
-|![pluspedirect](https://static.openfintech.io/vendors/pluspedirect/logo.png?w=600&c=v0.59.26#w200) |[**PlusPeDirect**](pluspedirect/)|`pluspedirect`| 
+|![pluspedirect](https://static.openfintech.io/vendors/pluspedirect/logo.svg?w=600&c=v0.59.26#w200) |[**PlusPeDirect**](pluspedirect/)|`pluspedirect`| 
 |![plyusbank](https://static.openfintech.io/vendors/plyusbank/logo.svg?w=600&c=v0.59.26#w200) |[**Плюс банк**](plyusbank/)|`plyusbank`| 
 |![pm-obmen.tv](https://static.openfintech.io/vendors/pm-obmen.tv/logo.svg?w=600&c=v0.59.26#w200) |[**PM-Obmen**](pm-obmen.tv/)|`pm-obmen.tv`| 
 |![pm-privat](https://static.openfintech.io/vendors/pm-privat/logo.svg?w=600&c=v0.59.26#w200) |[**PM-Privat**](pm-privat/)|`pm-privat`| 
