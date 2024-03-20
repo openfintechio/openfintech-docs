@@ -740,6 +740,7 @@
 |![f_ya_atukreksimbank_zaporizhzhya](https://static.openfintech.io/vendors/f_ya_atukreksimbank_zaporizhzhya/logo.svg?w=600&c=v0.59.26#w200) |[**Філія ПАТ 'Державний експортно-імпортний банк України' в м. Запоріжжі**](f_ya_atukreksimbank_zaporizhzhya/)|`f_ya_atukreksimbank_zaporizhzhya`| 
 |![f_yakiyivsitipat_kbprivatbank_m_kiyiv](https://static.openfintech.io/vendors/f_yakiyivsitipat_kbprivatbank_m_kiyiv/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ 'КИЇВСІТІ' ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](f_yakiyivsitipat_kbprivatbank_m_kiyiv/)|`f_yakiyivsitipat_kbprivatbank_m_kiyiv`| 
 |![fabrika_banknotnogo_paperu](https://static.openfintech.io/vendors/fabrika_banknotnogo_paperu/logo.svg?w=600&c=v0.59.26#w200) |[**Фабрика банкнотного паперу**](fabrika_banknotnogo_paperu/)|`fabrika_banknotnogo_paperu`| 
+|![facilitapay](https://static.openfintech.io/vendors/facilitapay/logo.svg?w=600&c=v0.59.26#w200) |[**FacilitaPay**](facilitapay/)|`facilitapay`| 
 |![famsa](https://static.openfintech.io/vendors/famsa/logo.svg?w=600&c=v0.59.26#w200) |[**Famsa**](famsa/)|`famsa`| 
 |![farmaciasbenavides](https://static.openfintech.io/vendors/farmaciasbenavides/logo.svg?w=600&c=v0.59.26#w200) |[**Farmacias Benavides**](farmaciasbenavides/)|`farmaciasbenavides`| 
 |![farmaciasdelahorro](https://static.openfintech.io/vendors/farmaciasdelahorro/logo.svg?w=600&c=v0.59.26#w200) |[**Farmacias del Ahorro**](farmaciasdelahorro/)|`farmaciasdelahorro`| 

@@ -31,6 +31,8 @@
 |`payer_last_name`|✗|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
 |`payer_zip_code`|✗|`string`|`/^\d{8}$/`| 
 |`date_of_birth`|✗|`string`|`/^\d{4}-\d{2}-\d{2}$/`| 
+|`account_number`|✗|`string`|`/^[a-zA-Z0-9-]{13,36}$\|^[0-9]{3,15}$/`| 
+|`document_url`|✗|`string`|`/^(http(?:s?):\/\/[^?]*?\?)?\?*(.*?)(?:&?seal=([^&]*)(&?.*)?)?$/`| 
  
 
 ### Details 
@@ -178,6 +180,42 @@
 	: [EN] Enter payer date of birth 
 	: [RU] Введите дату рождения плательщика 
 	: [UK] Введіть дату народження платника 
+ 
+9. **`account_number`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[a-zA-Z0-9-]{13,36}$|^[0-9]{3,15}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Account number 
+	: [RU] Номер счета 
+	: [UK] Номер рахунку 
+ 
+	Hint:  
+	: [EN] Enter account number 
+	: [RU] Введите номер счета 
+	: [UK] Введіть номер рахунку 
+ 
+10. **`document_url`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^(http(?:s?):\/\/[^?]*?\?)?\?*(.*?)(?:&?seal=([^&]*)(&?.*)?)?$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Document file url 
+	: [RU] Url документов 
+	: [UK] Url документів 
+ 
+	Hint:  
+	: [EN] Enter document file url 
+	: [RU] Введите url где хранятся документы 
+	: [UK] Введіть url де зберыгаються документи 
  
 
 ## JSON Object 
@@ -331,6 +369,42 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0434\u0430\u0442\u0443 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
       },
       "example":"1986\u201005\u201022"
+    },
+    {
+      "key":"account_number",
+      "type":"string",
+      "regexp":"\/^[a-zA-Z0-9-]{13,36}$|^[0-9]{3,15}$\/",
+      "required":false,
+      "position":8,
+      "label":{
+        "en":"Account number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter account number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "example":"94b31fca-7b26-273c-0eb3-4ef6c2f85121"
+    },
+    {
+      "key":"document_url",
+      "type":"string",
+      "regexp":"\/^(http(?:s?):\\\/\\\/[^?]*?\\?)?\\?*(.*?)(?:&?seal=([^&]*)(&?.*)?)?$\/",
+      "required":false,
+      "position":9,
+      "label":{
+        "en":"Document file url",
+        "ru":"Url \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u0432",
+        "uk":"Url \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432"
+      },
+      "hint":{
+        "en":"Enter document file url",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 url \u0433\u0434\u0435 \u0445\u0440\u0430\u043d\u044f\u0442\u0441\u044f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c url \u0434\u0435 \u0437\u0431\u0435\u0440\u044b\u0433\u0430\u044e\u0442\u044c\u0441\u044f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0438"
+      },
+      "example":"https:\/\/somedomain.com\/document-x.pdf"
     }
   ],
   "amount_min":0.01,
