@@ -1,5 +1,5 @@
 
-# Aifory 
+# Euphoria 
 ![aifory](https://static.openfintech.io/vendors/aifory/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Aifory 
-:	[RU] Aifory 
-:	[UK] Aifory 
+:	[EN] Euphoria 
+:	[RU] Euphoria 
+:	[UK] Euphoria 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/aifory/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"aifory",
   "name":{
-    "en":"Aifory",
-    "ru":"Aifory",
-    "uk":"Aifory"
+    "en":"Euphoria",
+    "ru":"Euphoria",
+    "uk":"Euphoria"
   },
   "status":"active",
   "description":null,

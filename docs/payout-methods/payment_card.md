@@ -476,7 +476,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![smartgates](https://static.openfintech.io/payment_providers/smartgates/icon.png?w=278&c=v0.59.26#w100) |[Smartgates](/payment-providers/smartgates/)|`smartgates`| 
 |![polyana](https://static.openfintech.io/payment_providers/polyana/icon.png?w=278&c=v0.59.26#w100) |[Polyana](/payment-providers/polyana/)|`polyana`| 
 |![paystage](https://static.openfintech.io/payment_providers/paystage/icon.png?w=278&c=v0.59.26#w100) |[PayStage](/payment-providers/paystage/)|`paystage`| 
-|![aifory](https://static.openfintech.io/payment_providers/aifory/icon.png?w=278&c=v0.59.26#w100) |[Aifory](/payment-providers/aifory/)|`aifory`| 
+|![aifory](https://static.openfintech.io/payment_providers/aifory/icon.png?w=278&c=v0.59.26#w100) |[Euphoria](/payment-providers/aifory/)|`aifory`| 
 |![hr24](https://static.openfintech.io/payment_providers/hr24/icon.png?w=278&c=v0.59.26#w100) |[HR-24](/payment-providers/hr24/)|`hr24`| 
 |![totalprocessing](https://static.openfintech.io/payment_providers/totalprocessing/icon.png?w=278&c=v0.59.26#w100) |[Total Processing](/payment-providers/totalprocessing/)|`totalprocessing`| 
 |![prismpay](https://static.openfintech.io/payment_providers/prismpay/icon.png?w=278&c=v0.59.26#w100) |[Prismpay](/payment-providers/prismpay/)|`prismpay`| 

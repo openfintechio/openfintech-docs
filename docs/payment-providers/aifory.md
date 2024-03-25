@@ -1,5 +1,5 @@
 
-# Aifory 
+# Euphoria 
 ![aifory](https://static.openfintech.io/payment_providers/aifory/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Aifory 
-:	[RU] Aifory 
-:	[UK] Aifory 
+:	[EN] Euphoria 
+:	[RU] Euphoria 
+:	[UK] Euphoria 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"Aifory",
-    "ru":"Aifory",
-    "uk":"Aifory"
+    "en":"Euphoria",
+    "ru":"Euphoria",
+    "uk":"Euphoria"
   }
 }
 ```  
