@@ -533,6 +533,7 @@
 |![elan-internet-odessa](https://static.openfintech.io/payout_methods/elan-internet-odessa/logo.png?w=400&c=v0.59.26#w24) |[**ELAN - Internet (Odessa)**](elan-internet-odessa/)|`elan-internet-odessa`| 
 |![elan-tv-odessa](https://static.openfintech.io/payout_methods/elan-tv-odessa/logo.png?w=400&c=v0.59.26#w24) |[**ELAN - TV (Odessa)**](elan-tv-odessa/)|`elan-tv-odessa`| 
 |![elt-kiev](https://static.openfintech.io/payout_methods/elt-kiev/logo.png?w=400&c=v0.59.26#w24) |[**ELT (Kiev)**](elt-kiev/)|`elt-kiev`| 
+|![emanat](https://static.openfintech.io/payout_methods/emanat/logo.svg?w=400&c=v0.59.26#w24) |[**eManat**](emanat/)|`emanat`| 
 |![emeralds_mfb](https://static.openfintech.io/payout_methods/emeralds_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Emeralds MFB**](emeralds_mfb/)|`emeralds_mfb`| 
 |![empire_trust_mfb](https://static.openfintech.io/payout_methods/empire_trust_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Empire Trust MFB**](empire_trust_mfb/)|`empire_trust_mfb`| 
 |![equitas_bank](https://static.openfintech.io/payout_methods/equitas_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Equitas Bank**](equitas_bank/)|`equitas_bank`| 
@@ -1116,6 +1117,7 @@
 |![luxlite-kiev](https://static.openfintech.io/payout_methods/luxlite-kiev/logo.png?w=400&c=v0.59.26#w24) |[**LuxLite (Kiev)**](luxlite-kiev/)|`luxlite-kiev`| 
 || **M** ||
 |![m-tel-uman](https://static.openfintech.io/payout_methods/m-tel-uman/logo.png?w=400&c=v0.59.26#w24) |[**M-TEL (Uman)**](m-tel-uman/)|`m-tel-uman`| 
+|![m10](https://static.openfintech.io/payout_methods/m10/logo.png?w=400&c=v0.59.26#w24) |[**M10**](m10/)|`m10`| 
 |![m_kudi](https://static.openfintech.io/payout_methods/m_kudi/logo.svg?w=400&c=v0.59.26#w24) |[**M-Kudi**](m_kudi/)|`m_kudi`| 
 |![m_lhuillier](https://static.openfintech.io/payout_methods/m_lhuillier/logo.png?w=400&c=v0.59.26#w24) |[**M. Lhuillier**](m_lhuillier/)|`m_lhuillier`| 
 |![m_pesa](https://static.openfintech.io/payout_methods/m_pesa/logo.svg?w=400&c=v0.59.26#w24) |[**M-Pesa**](m_pesa/)|`m_pesa`| 

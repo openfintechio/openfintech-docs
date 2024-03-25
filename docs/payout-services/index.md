@@ -614,6 +614,7 @@
 |![ELAN - Internet (Odessa)](https://static.openfintech.io/payout_methods/elan-internet-odessa/logo.png?w=400&c=v0.59.26#w24) |[**ELAN - Internet (Odessa)**](/payout-methods/elan-internet-odessa/)|[`elan-internet-odessa_uah`](elan-internet-odessa_uah/)|`UAH`| 
 |![ELAN - TV (Odessa)](https://static.openfintech.io/payout_methods/elan-tv-odessa/logo.png?w=400&c=v0.59.26#w24) |[**ELAN - TV (Odessa)**](/payout-methods/elan-tv-odessa/)|[`elan-tv-odessa_uah`](elan-tv-odessa_uah/)|`UAH`| 
 |![ELT (Kiev)](https://static.openfintech.io/payout_methods/elt-kiev/logo.png?w=400&c=v0.59.26#w24) |[**ELT (Kiev)**](/payout-methods/elt-kiev/)|[`elt-kiev_uah`](elt-kiev_uah/)|`UAH`| 
+|![eManat](https://static.openfintech.io/payout_methods/emanat/logo.svg?w=400&c=v0.59.26#w24) |[**eManat**](/payout-methods/emanat/)|[`emanat_azn`](emanat_azn/)|`AZN`| 
 |![Emeralds MFB](https://static.openfintech.io/payout_methods/emeralds_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Emeralds MFB**](/payout-methods/emeralds_mfb/)|[`emeralds_mfb_ngn`](emeralds_mfb_ngn/)|`NGN`| 
 |![Empire Trust MFB](https://static.openfintech.io/payout_methods/empire_trust_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Empire Trust MFB**](/payout-methods/empire_trust_mfb/)|[`empire_trust_mfb_ngn`](empire_trust_mfb_ngn/)|`NGN`| 
 |![Equitas Bank](https://static.openfintech.io/payout_methods/equitas_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Equitas Bank**](/payout-methods/equitas_bank/)|[`equitas_bank_inr`](equitas_bank_inr/)|`INR`| 
@@ -1191,6 +1192,7 @@
 |![LuxLite (Kiev)](https://static.openfintech.io/payout_methods/luxlite-kiev/logo.png?w=400&c=v0.59.26#w24) |[**LuxLite (Kiev)**](/payout-methods/luxlite-kiev/)|[`luxlite-kiev_uah`](luxlite-kiev_uah/)|`UAH`| 
 ||| **M** ||
 |![M-TEL (Uman)](https://static.openfintech.io/payout_methods/m-tel-uman/logo.png?w=400&c=v0.59.26#w24) |[**M-TEL (Uman)**](/payout-methods/m-tel-uman/)|[`m-tel-uman_uah`](m-tel-uman_uah/)|`UAH`| 
+|![M10](https://static.openfintech.io/payout_methods/m10/logo.png?w=400&c=v0.59.26#w24) |[**M10**](/payout-methods/m10/)|[`m10_azn`](m10_azn/)|`AZN`| 
 |![M-Kudi](https://static.openfintech.io/payout_methods/m_kudi/logo.svg?w=400&c=v0.59.26#w24) |[**M-Kudi**](/payout-methods/m_kudi/)|[`m_kudi_ngn`](m_kudi_ngn/)|`NGN`| 
 |![M. Lhuillier](https://static.openfintech.io/payout_methods/m_lhuillier/logo.png?w=400&c=v0.59.26#w24) |[**M. Lhuillier**](/payout-methods/m_lhuillier/)|[`m_lhuillier_php`](m_lhuillier_php/)|`PHP`| 
 |![M-Pesa](https://static.openfintech.io/payout_methods/m_pesa/logo.svg?w=400&c=v0.59.26#w24) |[**M-Pesa**](/payout-methods/m_pesa/)|[`m_pesa_kes`](m_pesa_kes/)|`KES`| 
