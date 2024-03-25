@@ -1782,6 +1782,7 @@
 |![raiffeisen](https://static.openfintech.io/vendors/raiffeisen/logo.svg?w=600&c=v0.59.26#w200) |[**Raiffeisen**](raiffeisen/)|`raiffeisen`| 
 |![raiffeisenbank](https://static.openfintech.io/vendors/raiffeisenbank/logo.svg?w=600&c=v0.59.26#w200) |[**Raiffeisen Bank**](raiffeisenbank/)|`raiffeisenbank`| 
 |![rakuten_bank](https://static.openfintech.io/vendors/rakuten_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Rakuten Bank**](rakuten_bank/)|`rakuten_bank`| 
+|![rampnow](https://static.openfintech.io/vendors/rampnow/logo.png?w=600&c=v0.59.26#w200) |[**Rampnow**](rampnow/)|`rampnow`| 
 |![rapid-obmen](https://static.openfintech.io/vendors/rapid-obmen/logo.svg?w=600&c=v0.59.26#w200) |[**Rapid-Obmen**](rapid-obmen/)|`rapid-obmen`| 
 |![rapipago](https://static.openfintech.io/vendors/rapipago/logo.png?w=600&c=v0.59.26#w200) |[**Rapipago**](rapipago/)|`rapipago`| 
 |![rapyd](https://static.openfintech.io/vendors/rapyd/logo.svg?w=600&c=v0.59.26#w200) |[**Rapyd.net**](rapyd/)|`rapyd`| 

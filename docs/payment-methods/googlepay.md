@@ -46,6 +46,7 @@ The list of [Payment Services](/payment-services/) based on the _Google Pay_
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_rub_hpp](/payment-services/googlepay_rub_hpp/)|`googlepay_rub_hpp`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_usd_hpp](/payment-services/googlepay_usd_hpp/)|`googlepay_usd_hpp`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_eur_hpp](/payment-services/googlepay_eur_hpp/)|`googlepay_eur_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_pln_hpp](/payment-services/googlepay_pln_hpp/)|`googlepay_pln_hpp`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_inr_hpp](/payment-services/googlepay_inr_hpp/)|`googlepay_inr_hpp`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_inr_invoice](/payment-services/googlepay_inr_invoice/)|`googlepay_inr_invoice`| 
  
@@ -68,6 +69,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Google Pa
 |![10pay](https://static.openfintech.io/payment_providers/10pay/icon.svg?w=278&c=v0.59.26#w100) |[10Pay](/payment-providers/10pay/)|`10pay`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
 |![pluspedirect](https://static.openfintech.io/payment_providers/pluspedirect/icon.svg?w=278&c=v0.59.26#w100) |[PlusPeDirect](/payment-providers/pluspedirect/)|`pluspedirect`| 
+|![rampnow](https://static.openfintech.io/payment_providers/rampnow/icon.svg?w=278&c=v0.59.26#w100) |[Rampnow](/payment-providers/rampnow/)|`rampnow`| 
  
 
 ## JSON Object 

@@ -770,6 +770,7 @@
 |![raboomnikassa](https://static.openfintech.io/payment_providers/raboomnikassa/logo.png?w=600&c=v0.59.26#w100) |[**Rabo OmniKassa**](raboomnikassa/)|`raboomnikassa`| 
 |![ragapay](https://static.openfintech.io/payment_providers/ragapay/logo.png?w=600&c=v0.59.26#w100) |[**Ragapay**](ragapay/)|`ragapay`| 
 |![raiffeisenbank](https://static.openfintech.io/payment_providers/raiffeisenbank/logo.svg?w=600&c=v0.59.26#w100) |[**Raiffeisen Bank**](raiffeisenbank/)|`raiffeisenbank`| 
+|![rampnow](https://static.openfintech.io/payment_providers/rampnow/logo.png?w=600&c=v0.59.26#w100) |[**Rampnow**](rampnow/)|`rampnow`| 
 |![rapyd](https://static.openfintech.io/payment_providers/rapyd/logo.svg?w=600&c=v0.59.26#w100) |[**Rapyd.net**](rapyd/)|`rapyd`| 
 |![ratepay](https://static.openfintech.io/payment_providers/ratepay/logo.png?w=600&c=v0.59.26#w100) |[**RatePAY**](ratepay/)|`ratepay`| 
 |![razorpay](https://static.openfintech.io/payment_providers/razorpay/logo.svg?w=600&c=v0.59.26#w100) |[**Razorpay**](razorpay/)|`razorpay`| 

@@ -49,6 +49,7 @@ The list of [Payment Services](/payment-services/) based on the _Apple Pay_
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_rub_hpp](/payment-services/applepay_rub_hpp/)|`applepay_rub_hpp`| 
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_usd_hpp](/payment-services/applepay_usd_hpp/)|`applepay_usd_hpp`| 
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_eur_hpp](/payment-services/applepay_eur_hpp/)|`applepay_eur_hpp`| 
+|![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_pln_hpp](/payment-services/applepay_pln_hpp/)|`applepay_pln_hpp`| 
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_gbp_hpp](/payment-services/applepay_gbp_hpp/)|`applepay_gbp_hpp`| 
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_aud_hpp](/payment-services/applepay_aud_hpp/)|`applepay_aud_hpp`| 
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_cad_hpp](/payment-services/applepay_cad_hpp/)|`applepay_cad_hpp`| 
@@ -75,6 +76,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Apple Pay
 |![solidgate](https://static.openfintech.io/payment_providers/solidgate/icon.svg?w=278&c=v0.59.26#w100) |[Solid](/payment-providers/solidgate/)|`solidgate`| 
 |![paysoftsolutions](https://static.openfintech.io/payment_providers/paysoftsolutions/icon.png?w=278&c=v0.59.26#w100) |[PaySoft Solutions](/payment-providers/paysoftsolutions/)|`paysoftsolutions`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
+|![rampnow](https://static.openfintech.io/payment_providers/rampnow/icon.svg?w=278&c=v0.59.26#w100) |[Rampnow](/payment-providers/rampnow/)|`rampnow`| 
  
 
 ## JSON Object 
