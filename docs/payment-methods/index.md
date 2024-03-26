@@ -52,6 +52,7 @@
 |![asia_commercial_bank](https://static.openfintech.io/payment_methods/asia_commercial_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Asia Commercial Bank**](asia_commercial_bank/)|`asia_commercial_bank`| 
 |![asia_commercial_bank_qr](https://static.openfintech.io/payment_methods/asia_commercial_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Asia Commercial Bank QR**](asia_commercial_bank_qr/)|`asia_commercial_bank_qr`| 
 |![astropay](https://static.openfintech.io/payment_methods/astropay/logo.svg?w=400&c=v0.59.26#w200) |[**Astropay**](astropay/)|`astropay`| 
+|![astropay_wallet](https://static.openfintech.io/payment_methods/astropay_wallet/logo.png?w=400&c=v0.59.26#w200) |[**Astropay Wallet**](astropay_wallet/)|`astropay_wallet`| 
 |![astropaycash](https://static.openfintech.io/payment_methods/astropaycash/logo.svg?w=400&c=v0.59.26#w200) |[**Astropay - Cash / Invoice**](astropaycash/)|`astropaycash`| 
 |![astropaydirect](https://static.openfintech.io/payment_methods/astropaydirect/logo.svg?w=400&c=v0.59.26#w200) |[**Astropay - Direct Bank Transfer**](astropaydirect/)|`astropaydirect`| 
 |![astropaymanual](https://static.openfintech.io/payment_methods/astropaymanual/logo.svg?w=400&c=v0.59.26#w200) |[**Astropay - Manual Bank Transfer**](astropaymanual/)|`astropaymanual`| 

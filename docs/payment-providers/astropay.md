@@ -44,6 +44,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![pix_qr](https://static.openfintech.io/payment_methods/pix_qr/icon.svg?w=278&c=v0.59.26#w100) |[pix_qr](/payment-methods/pix_qr/)|`pix_qr`| 
+|![astropay_wallet](https://static.openfintech.io/payment_methods/astropay_wallet/icon.png?w=278&c=v0.59.26#w100) |[astropay_wallet](/payment-methods/astropay_wallet/)|`astropay_wallet`| 
  
 
 ## Payout Methods 
@@ -53,6 +54,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![pix](https://static.openfintech.io/payout_methods/pix/icon.svg?w=278&c=v0.59.26#w40) |[pix](payout-methodspix/)|`pix`| 
+|![astropay_wallet](https://static.openfintech.io/payout_methods/astropay_wallet/icon.png?w=278&c=v0.59.26#w40) |[astropay_wallet](payout-methodsastropay_wallet/)|`astropay_wallet`| 
  
 
 ## JSON Object 
@@ -78,10 +80,12 @@ The list of supported [Payout Methods](/payout-methods/)
     "VE"
   ],
   "payment_method":[
-    "pix_qr"
+    "pix_qr",
+    "astropay_wallet"
   ],
   "payout_method":[
-    "pix"
+    "pix",
+    "astropay_wallet"
   ],
   "metadata":{
     "about_payments_code":"astropay"
