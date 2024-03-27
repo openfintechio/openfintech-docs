@@ -926,6 +926,7 @@
 |![heidelpay](https://static.openfintech.io/vendors/heidelpay/logo.png?w=600&c=v0.59.26#w200) |[**Heidelpay**](heidelpay/)|`heidelpay`| 
 |![helixmoney](https://static.openfintech.io/vendors/helixmoney/logo.svg?w=600&c=v0.59.26#w200) |[**Helix Money**](helixmoney/)|`helixmoney`| 
 |![hellopay](https://static.openfintech.io/vendors/hellopay/logo.png?w=600&c=v0.59.26#w200) |[**helloPay**](hellopay/)|`hellopay`| 
+|![hellopayment](https://static.openfintech.io/vendors/hellopayment/logo.png?w=600&c=v0.59.26#w200) |[**Hellopayment**](hellopayment/)|`hellopayment`| 
 |![herson_f_pat_kb_privatbank_m_herson](https://static.openfintech.io/vendors/herson_f_pat_kb_privatbank_m_herson/logo.svg?w=600&c=v0.59.26#w200) |[**ХЕРСОНСЬКА ФІЛІЯ ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](herson_f_pat_kb_privatbank_m_herson/)|`herson_f_pat_kb_privatbank_m_herson`| 
 |![higashi_nippon_bank](https://static.openfintech.io/vendors/higashi_nippon_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Higashi-Nippon Bank**](higashi_nippon_bank/)|`higashi_nippon_bank`| 
 |![highriskholdings](https://static.openfintech.io/vendors/highriskholdings/logo.png?w=600&c=v0.59.26#w200) |[**High Risk Holdings**](highriskholdings/)|`highriskholdings`| 

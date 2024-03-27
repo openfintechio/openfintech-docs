@@ -383,6 +383,7 @@
 |![hawex](https://static.openfintech.io/payment_providers/hawex/logo.svg?w=600&c=v0.59.26#w100) |[**HAWEX**](hawex/)|`hawex`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/logo.png?w=600&c=v0.59.26#w100) |[**Heidelpay**](heidelpay/)|`heidelpay`| 
 |![hellopay](https://static.openfintech.io/payment_providers/hellopay/logo.png?w=600&c=v0.59.26#w100) |[**helloPay**](hellopay/)|`hellopay`| 
+|![hellopayment](https://static.openfintech.io/payment_providers/hellopayment/logo.png?w=600&c=v0.59.26#w100) |[**HelloPayment**](hellopayment/)|`hellopayment`| 
 |![hipay](https://static.openfintech.io/payment_providers/hipay/logo.png?w=600&c=v0.59.26#w100) |[**HiPay**](hipay/)|`hipay`| 
 |![hipaymobile](https://static.openfintech.io/payment_providers/hipaymobile/logo.png?w=600&c=v0.59.26#w100) |[**HiPay Mobile**](hipaymobile/)|`hipaymobile`| 
 |![honeypay](https://static.openfintech.io/payment_providers/honeypay/logo.svg?w=600&c=v0.59.26#w100) |[**MilkyPay**](honeypay/)|`honeypay`| 
