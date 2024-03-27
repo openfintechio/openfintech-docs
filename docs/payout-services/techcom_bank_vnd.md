@@ -469,7 +469,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Email",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Email"
       },
-      "example":"johndoe@cashfree.com",
+      "example":"johndoe@example.com",
       "regexp":"\/^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,4})$\/",
       "required":false,
       "position":12

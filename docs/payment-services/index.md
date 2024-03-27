@@ -520,6 +520,7 @@
 |![Ecopayz voucher](https://static.openfintech.io/payment_methods/ecopayz_voucher/logo.svg?w=400&c=v0.59.26#w200) |[**Ecopayz voucher**](/payment-methods/ecopayz_voucher/)|[`ecopayz_voucher_usd_hpp`](ecopayz_voucher_usd_hpp/)| 
 |![Efecty](https://static.openfintech.io/payment_methods/efecty/logo.svg?w=400&c=v0.59.26#w200) |[**Efecty**](/payment-methods/efecty/)|[`efecty_cop_hpp`](efecty_cop_hpp/)| 
 |![Efecty](https://static.openfintech.io/payment_methods/efecty/logo.svg?w=400&c=v0.59.26#w200) |[**Efecty**](/payment-methods/efecty/)|[`efectyin_cop_hpp`](efectyin_cop_hpp/)| 
+|![eManat](https://static.openfintech.io/payment_methods/emanat/logo.png?w=400&c=v0.59.26#w200) |[**eManat**](/payment-methods/emanat/)|[`emanat_azn_hpp`](emanat_azn_hpp/)| 
 |![ePay.bg](https://static.openfintech.io/payment_methods/epaybg/logo.svg?w=400&c=v0.59.26#w200) |[**ePay.bg**](/payment-methods/epaybg/)|[`epaybg_eur_hpp`](epaybg_eur_hpp/)| 
 |![eps e-payment](https://static.openfintech.io/payment_methods/eps/logo.png?w=400&c=v0.59.26#w200) |[**eps e-payment**](/payment-methods/eps/)|[`eps_eur_hpp`](eps_eur_hpp/)| 
 |![Equitel](https://static.openfintech.io/payment_methods/equitel/logo.png?w=400&c=v0.59.26#w200) |[**Equitel**](/payment-methods/equitel/)|[`equitel_kes_hpp`](equitel_kes_hpp/)| 
@@ -721,7 +722,8 @@
 |![Lotericas Voucher based payment method](https://static.openfintech.io/payment_methods/loteria/logo.svg?w=400&c=v0.59.26#w200) |[**Lotericas Voucher based payment method**](/payment-methods/loteria/)|[`loteria_brl_hpp`](loteria_brl_hpp/)| 
 |![Lotericas Voucher based payment method](https://static.openfintech.io/payment_methods/loteria/logo.svg?w=400&c=v0.59.26#w200) |[**Lotericas Voucher based payment method**](/payment-methods/loteria/)|[`loterica_brl_hpp`](loterica_brl_hpp/)| 
 ||| **M** ||
-|![m10](https://static.openfintech.io/payment_methods/m10/logo.svg?w=400&c=v0.59.26#w200) |[**m10**](/payment-methods/m10/)|[`m10_azn_invoice`](m10_azn_invoice/)| 
+|![m10](https://static.openfintech.io/payment_methods/m10/logo.png?w=400&c=v0.59.26#w200) |[**m10**](/payment-methods/m10/)|[`m10_azn_hpp`](m10_azn_hpp/)| 
+|![m10](https://static.openfintech.io/payment_methods/m10/logo.png?w=400&c=v0.59.26#w200) |[**m10**](/payment-methods/m10/)|[`m10_azn_invoice`](m10_azn_invoice/)| 
 |![M-Pesa](https://static.openfintech.io/payment_methods/m_pesa/logo.png?w=400&c=v0.59.26#w200) |[**M-Pesa**](/payment-methods/m_pesa/)|[`m_pesa_kes_invoice`](m_pesa_kes_invoice/)| 
 |![Mach](https://static.openfintech.io/payment_methods/mach/logo.png?w=400&c=v0.59.26#w200) |[**Mach**](/payment-methods/mach/)|[`mach_brl_hpp`](mach_brl_hpp/)| 
 |![Mach](https://static.openfintech.io/payment_methods/mach/logo.png?w=400&c=v0.59.26#w200) |[**Mach**](/payment-methods/mach/)|[`mach_clp_hpp`](mach_clp_hpp/)| 

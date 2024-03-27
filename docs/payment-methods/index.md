@@ -285,6 +285,7 @@
 |![electroniccheckach](https://static.openfintech.io/payment_methods/electroniccheckach/logo.png?w=400&c=v0.59.26#w200) |[**eCheck (ACH)**](electroniccheckach/)|`electroniccheckach`| 
 |![elektronischeslastschriftverfahren](https://static.openfintech.io/payment_methods/elektronischeslastschriftverfahren/logo.png?w=400&c=v0.59.26#w200) |[**ELV**](elektronischeslastschriftverfahren/)|`elektronischeslastschriftverfahren`| 
 |![elo](https://static.openfintech.io/payment_methods/elo/logo.png?w=400&c=v0.59.26#w200) |[**Elo**](elo/)|`elo`| 
+|![emanat](https://static.openfintech.io/payment_methods/emanat/logo.png?w=400&c=v0.59.26#w200) |[**eManat**](emanat/)|`emanat`| 
 |![enetsdirectdebit](https://static.openfintech.io/payment_methods/enetsdirectdebit/logo.png?w=400&c=v0.59.26#w200) |[**eNETS Direct Debit**](enetsdirectdebit/)|`enetsdirectdebit`| 
 |![epaybg](https://static.openfintech.io/payment_methods/epaybg/logo.svg?w=400&c=v0.59.26#w200) |[**ePay.bg**](epaybg/)|`epaybg`| 
 |![epayua](https://static.openfintech.io/payment_methods/epayua/logo.png?w=400&c=v0.59.26#w200) |[**E-Pay**](epayua/)|`epayua`| 
@@ -452,7 +453,7 @@
 |![litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200) |[**Litecoin**](litecoin/)|`litecoin`| 
 |![loteria](https://static.openfintech.io/payment_methods/loteria/logo.svg?w=400&c=v0.59.26#w200) |[**Lotericas Voucher based payment method**](loteria/)|`loteria`| 
 || **M** ||
-|![m10](https://static.openfintech.io/payment_methods/m10/logo.svg?w=400&c=v0.59.26#w200) |[**m10**](m10/)|`m10`| 
+|![m10](https://static.openfintech.io/payment_methods/m10/logo.png?w=400&c=v0.59.26#w200) |[**m10**](m10/)|`m10`| 
 |![m_pesa](https://static.openfintech.io/payment_methods/m_pesa/logo.png?w=400&c=v0.59.26#w200) |[**M-Pesa**](m_pesa/)|`m_pesa`| 
 |![mach](https://static.openfintech.io/payment_methods/mach/logo.png?w=400&c=v0.59.26#w200) |[**Mach**](mach/)|`mach`| 
 |![magna](https://static.openfintech.io/payment_methods/magna/logo.svg?w=400&c=v0.59.26#w200) |[**Magna**](magna/)|`magna`| 

@@ -30,13 +30,13 @@ https://static.openfintech.io/payment_methods/emanat/logo.png?w=400&c=v0.59.26#w
 https://static.openfintech.io/payment_methods/emanat/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _eManat_ 
+The list of [Payment Services](/payment-services/) based on the _eManat_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![emanat](https://static.openfintech.io/payout_methods/emanat/icon.svg?w=278&c=v0.59.26#w40) |[emanat_azn](/payout-services/emanat_azn/)|`emanat_azn`| 
+|![emanat](https://static.openfintech.io/payment_methods/emanat/icon.png?w=278&c=v0.59.26#w100) |[emanat_azn_hpp](/payment-services/emanat_azn_hpp/)|`emanat_azn_hpp`| 
  
 
 ## Payment Providers 
