@@ -52,6 +52,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![rtgs](https://static.openfintech.io/payment_methods/rtgs/icon.svg?w=278&c=v0.59.26#w100) |[rtgs](/payment-methods/rtgs/)|`rtgs`| 
 |![phonepe](https://static.openfintech.io/payment_methods/phonepe/icon.svg?w=278&c=v0.59.26#w100) |[phonepe](/payment-methods/phonepe/)|`phonepe`| 
 |![bkash_limited](https://static.openfintech.io/payment_methods/bkash_limited/icon.png?w=278&c=v0.59.26#w100) |[bkash_limited](/payment-methods/bkash_limited/)|`bkash_limited`| 
+|![nagad_wallet](https://static.openfintech.io/payment_methods/nagad_wallet/icon.png?w=278&c=v0.59.26#w100) |[nagad_wallet](/payment-methods/nagad_wallet/)|`nagad_wallet`| 
  
 
 ## Payout Methods 
@@ -97,7 +98,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "imps",
     "rtgs",
     "phonepe",
-    "bkash_limited"
+    "bkash_limited",
+    "nagad_wallet"
   ],
   "payout_method":[
     "bank_transfer",

@@ -810,6 +810,7 @@
 ||| **N** ||
 |![N26 Bank](https://static.openfintech.io/payment_methods/n26_bank/logo.png?w=400&c=v0.59.26#w200) |[**N26 Bank**](/payment-methods/n26_bank/)|[`n26_bank_eur_hpp`](n26_bank_eur_hpp/)| 
 |![Nagad Digital Financial Service](https://static.openfintech.io/payment_methods/nagad_wallet/logo.png?w=400&c=v0.59.26#w200) |[**Nagad Digital Financial Service**](/payment-methods/nagad_wallet/)|[`nagad_wallet_bdt_hpp`](nagad_wallet_bdt_hpp/)| 
+|![Nagad Digital Financial Service](https://static.openfintech.io/payment_methods/nagad_wallet/logo.png?w=400&c=v0.59.26#w200) |[**Nagad Digital Financial Service**](/payment-methods/nagad_wallet/)|[`nagad_wallet_bdt_invoice`](nagad_wallet_bdt_invoice/)| 
 |![Nam A Commercial Joint Stock Bank](https://static.openfintech.io/payment_methods/nam_a_bank/logo.png?w=400&c=v0.59.26#w200) |[**Nam A Commercial Joint Stock Bank**](/payment-methods/nam_a_bank/)|[`nam_a_bank_vnd_hpp`](nam_a_bank_vnd_hpp/)| 
 |![National Australia Bank](https://static.openfintech.io/payment_methods/national_australia_bank/logo.svg?w=400&c=v0.59.26#w200) |[**National Australia Bank**](/payment-methods/national_australia_bank/)|[`national_australia_bank_aud_hpp`](national_australia_bank_aud_hpp/)| 
 |![National Citizen Commercial Joint Stock Bank](https://static.openfintech.io/payment_methods/ncb_bank/logo.png?w=400&c=v0.59.26#w200) |[**National Citizen Commercial Joint Stock Bank**](/payment-methods/ncb_bank/)|[`ncb_bank_vnd_hpp`](ncb_bank_vnd_hpp/)| 
