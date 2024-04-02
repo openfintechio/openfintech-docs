@@ -32,6 +32,7 @@
 |`full_address`|✗|`string`|`/^[A-Za-z{*}, -d]{2,64}$/`| 
 |`beneficiary_phone`|✗|`string`|`/^\d{10,14}$/`| 
 |`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
+|`customer_name`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
  
 
 ### Details 
@@ -180,6 +181,24 @@
 	: [RU] Введите Email 
 	: [UK] Введіть Email 
  
+9. **`customer_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z,0-9]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Customer name 
+	: [RU] Имя покупателя 
+	: [UK] Ім'я клієнта 
+ 
+	Hint:  
+	: [EN] Enter customer name 
+	: [RU] Введите имя покупателя 
+	: [UK] Введіть ім'я клієнта 
+ 
 
 ## JSON Object 
 
@@ -308,7 +327,7 @@
       "example":"6339152330011",
       "regexp":"\/^\\d{10,14}$\/",
       "required":false,
-      "position":4
+      "position":7
     },
     {
       "key":"beneficiary_email",
@@ -326,7 +345,24 @@
       "example":"johndoe@example.com",
       "regexp":"\/^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,4})$\/",
       "required":false,
-      "position":5
+      "position":8
+    },
+    {
+      "key":"customer_name",
+      "type":"string",
+      "label":{
+        "en":"Customer name",
+        "ru":"\u0418\u043c\u044f \u043f\u043e\u043a\u0443\u043f\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0406\u043c'\u044f \u043a\u043b\u0456\u0454\u043d\u0442\u0430"
+      },
+      "hint":{
+        "en":"Enter customer name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f \u043f\u043e\u043a\u0443\u043f\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c'\u044f \u043a\u043b\u0456\u0454\u043d\u0442\u0430"
+      },
+      "regexp":"\/^[A-Za-z,0-9]{2,100}$\/",
+      "required":false,
+      "position":9
     }
   ],
   "amount_min":"1",
