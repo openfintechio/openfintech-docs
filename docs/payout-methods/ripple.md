@@ -48,6 +48,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Ripple_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![coinspaid](https://static.openfintech.io/payment_providers/coinspaid/icon.png?w=278&c=v0.59.26#w100) |[CoinsPaid](/payment-providers/coinspaid/)|`coinspaid`| 
+|![coinsflow](https://static.openfintech.io/payment_providers/coinsflow/icon.png?w=278&c=v0.59.26#w100) |[Coinsflow](/payment-providers/coinsflow/)|`coinsflow`| 
  
 
 ## JSON Object 

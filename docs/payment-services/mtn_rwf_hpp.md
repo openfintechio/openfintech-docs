@@ -25,14 +25,14 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`account`|✗|`rwfstring`|`/^.{1,50}$/`| 
+|`account`|✗|`string`|`/^.{1,50}$/`| 
  
 
 ### Details 
  
 1. **`account`** 
  
-	Type: `rwfstring` 
+	Type: `string` 
  
 	Regexp: `/^.{1,50}$/` 
  
@@ -60,7 +60,7 @@
   "fields":[
     {
       "key":"account",
-      "type":"rwfstring",
+      "type":"string",
       "regexp":"\/^.{1,50}$\/",
       "required":false,
       "position":1,

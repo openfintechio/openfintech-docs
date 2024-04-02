@@ -193,6 +193,7 @@
 |![coingate](https://static.openfintech.io/payment_providers/coingate/logo.svg?w=600&c=v0.59.26#w100) |[**CoinGate**](coingate/)|`coingate`| 
 |![coinify](https://static.openfintech.io/payment_providers/coinify/logo.png?w=600&c=v0.59.26#w100) |[**Coinify**](coinify/)|`coinify`| 
 |![coinpayments](https://static.openfintech.io/payment_providers/coinpayments/logo.png?w=600&c=v0.59.26#w100) |[**CoinPayments**](coinpayments/)|`coinpayments`| 
+|![coinsflow](https://static.openfintech.io/payment_providers/coinsflow/logo.svg?w=600&c=v0.59.26#w100) |[**Coinsflow**](coinsflow/)|`coinsflow`| 
 |![coinsnap](https://static.openfintech.io/payment_providers/coinsnap/logo.png?w=600&c=v0.59.26#w100) |[**Coinsnap**](coinsnap/)|`coinsnap`| 
 |![coinspaid](https://static.openfintech.io/payment_providers/coinspaid/logo.png?w=600&c=v0.59.26#w100) |[**CoinsPaid**](coinspaid/)|`coinspaid`| 
 |![coinzone](https://static.openfintech.io/payment_providers/coinzone/logo.svg?w=600&c=v0.59.26#w100) |[**Coinzone BV**](coinzone/)|`coinzone`| 

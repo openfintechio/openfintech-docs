@@ -57,9 +57,9 @@
 	Required: `1` 
  
 	Label:  
-	: [EN] Account Email 
-	: [RU] Еmail аккаунта 
-	: [UK] Еmail облікового запису 
+	: [EN] Account ID 
+	: [RU] Номер счета 
+	: [UK] Номер рахунку 
  
 	Hint:  
 	: [EN] Enter account email 
@@ -97,9 +97,9 @@
       "key":"account_email",
       "type":"string",
       "label":{
-        "en":"Account Email",
-        "ru":"\u0415mail \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",
-        "uk":"\u0415mail \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u043f\u0438\u0441\u0443"
+        "en":"Account ID",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
       },
       "hint":{
         "en":"Enter account email",

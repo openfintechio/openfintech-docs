@@ -400,6 +400,7 @@
 |![Uzcard card transfer](https://static.openfintech.io/payment_methods/card_transfer_uzcard/logo.svg?w=400&c=v0.59.26#w200) |[**Uzcard card transfer**](/payment-methods/card_transfer_uzcard/)|[`card_transfer_uzcard_uzs_invoice`](card_transfer_uzcard_uzs_invoice/)| 
 |![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_uzs_hpp`](card_transfer_uzs_hpp/)| 
 |![Card transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](/payment-methods/card_transfer/)|[`card_transfer_uzs_invoice`](card_transfer_uzs_invoice/)| 
+|![Cardano](https://static.openfintech.io/payment_methods/cardano/logo.svg?w=400&c=v0.59.26#w200) |[**Cardano**](/payment-methods/cardano/)|[`cardano_ada_hpp`](cardano_ada_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`cardurlmoin_cop_hpp`](cardurlmoin_cop_hpp/)| 
 |![CartaSi](https://static.openfintech.io/payment_methods/cartasi/logo.png?w=400&c=v0.59.26#w200) |[**CartaSi**](/payment-methods/cartasi/)|[`cartasi_eur_hpp`](cartasi_eur_hpp/)| 
 |![Carte Bleue](https://static.openfintech.io/payment_methods/cartebleue/logo.png?w=400&c=v0.59.26#w200) |[**Carte Bleue**](/payment-methods/cartebleue/)|[`cartebleue_eur_hpp`](cartebleue_eur_hpp/)| 
@@ -1117,6 +1118,7 @@
 |![Ripple](https://static.openfintech.io/payment_methods/ripple/logo.svg?w=400&c=v0.59.26#w200) |[**Ripple**](/payment-methods/ripple/)|[`ripple_eur_hpp`](ripple_eur_hpp/)| 
 |![Ripple](https://static.openfintech.io/payment_methods/ripple/logo.svg?w=400&c=v0.59.26#w200) |[**Ripple**](/payment-methods/ripple/)|[`ripple_uah_hpp`](ripple_uah_hpp/)| 
 |![Ripple](https://static.openfintech.io/payment_methods/ripple/logo.svg?w=400&c=v0.59.26#w200) |[**Ripple**](/payment-methods/ripple/)|[`ripple_usd_hpp`](ripple_usd_hpp/)| 
+|![Ripple](https://static.openfintech.io/payment_methods/ripple/logo.svg?w=400&c=v0.59.26#w200) |[**Ripple**](/payment-methods/ripple/)|[`ripple_xrp_hpp`](ripple_xrp_hpp/)| 
 |![RTGS](https://static.openfintech.io/payment_methods/rtgs/logo.svg?w=400&c=v0.59.26#w200) |[**RTGS**](/payment-methods/rtgs/)|[`rtgs_inr_hpp`](rtgs_inr_hpp/)| 
 |![RTGS](https://static.openfintech.io/payment_methods/rtgs/logo.svg?w=400&c=v0.59.26#w200) |[**RTGS**](/payment-methods/rtgs/)|[`rtgs_inr_invoice`](rtgs_inr_invoice/)| 
 |![RuPay](https://static.openfintech.io/payment_methods/rupay/logo.svg?w=400&c=v0.59.26#w200) |[**RuPay**](/payment-methods/rupay/)|[`rupay_inr_hpp`](rupay_inr_hpp/)| 
