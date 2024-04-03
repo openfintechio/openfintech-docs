@@ -392,6 +392,7 @@
 |![Capitec Bank](https://static.openfintech.io/payout_methods/capitec_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Capitec Bank**](/payout-methods/capitec_bank/)|[`capitec_bank_zar`](capitec_bank_zar/)|`ZAR`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`card`](card/)|`XXX`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`card_token`](card_token/)|`XXX`| 
+|![Cardano](https://static.openfintech.io/payout_methods/cardano/logo.svg?w=400&c=v0.59.26#w24) |[**Cardano**](/payout-methods/cardano/)|[`cardano_ada`](cardano_ada/)|`ADA`| 
 |![CASH](https://static.openfintech.io/payout_methods/cash/logo.png?w=400&c=v0.59.26#w24) |[**CASH**](/payout-methods/cash/)|[`cash_aud`](cash_aud/)|`AUD`| 
 |![CASH](https://static.openfintech.io/payout_methods/cash/logo.png?w=400&c=v0.59.26#w24) |[**CASH**](/payout-methods/cash/)|[`cash_cad`](cash_cad/)|`CAD`| 
 |![CASH](https://static.openfintech.io/payout_methods/cash/logo.png?w=400&c=v0.59.26#w24) |[**CASH**](/payout-methods/cash/)|[`cash_cop`](cash_cop/)|`COP`| 
@@ -1871,6 +1872,7 @@
 |![Ripple](https://static.openfintech.io/payout_methods/ripple/logo.svg?w=400&c=v0.59.26#w24) |[**Ripple**](/payout-methods/ripple/)|[`ripple_eur`](ripple_eur/)|`EUR`| 
 |![Ripple](https://static.openfintech.io/payout_methods/ripple/logo.svg?w=400&c=v0.59.26#w24) |[**Ripple**](/payout-methods/ripple/)|[`ripple_uah`](ripple_uah/)|`UAH`| 
 |![Ripple](https://static.openfintech.io/payout_methods/ripple/logo.svg?w=400&c=v0.59.26#w24) |[**Ripple**](/payout-methods/ripple/)|[`ripple_usd`](ripple_usd/)|`USD`| 
+|![Ripple](https://static.openfintech.io/payout_methods/ripple/logo.svg?w=400&c=v0.59.26#w24) |[**Ripple**](/payout-methods/ripple/)|[`ripple_xrp`](ripple_xrp/)|`XRP`| 
 |![Rivneoblvodokanal](https://static.openfintech.io/payout_methods/rivneoblvodokanal/logo.png?w=400&c=v0.59.26#w24) |[**Rivneoblvodokanal**](/payout-methods/rivneoblvodokanal/)|[`rivneoblvodokanal_uah`](rivneoblvodokanal_uah/)|`UAH`| 
 |![Robinsons Bank CA/SA](https://static.openfintech.io/payout_methods/robinsons_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Robinsons Bank CA/SA**](/payout-methods/robinsons_bank/)|[`robinsons_bank_php`](robinsons_bank_php/)|`PHP`| 
 |![Roket.Net (Donetsk region)](https://static.openfintech.io/payout_methods/roket-net-donetskaia-obl/logo.png?w=400&c=v0.59.26#w24) |[**Roket.Net (Donetsk region)**](/payout-methods/roket-net-donetskaia-obl/)|[`roket-net-donetskaia-obl_uah`](roket-net-donetskaia-obl_uah/)|`UAH`| 
@@ -2954,6 +2956,8 @@
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`usd_coin_erc20_eur`](usd_coin_erc20_eur/)|`EUR`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`usd_coin_erc20_gbp`](usd_coin_erc20_gbp/)|`GBP`| 
 |![Tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](/payout-methods/tether/)|[`usd_coin_erc20_usd`](usd_coin_erc20_usd/)|`USD`| 
+|![USD Coin](https://static.openfintech.io/payout_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w24) |[**USD Coin**](/payout-methods/usd_coin/)|[`usd_coin_erc20_usdc`](usd_coin_erc20_usdc/)|`USDC`| 
+|![USD Coin](https://static.openfintech.io/payout_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w24) |[**USD Coin**](/payout-methods/usd_coin/)|[`usd_coin_trc20_usdc`](usd_coin_trc20_usdc/)|`USDC`| 
 |![USD Coin](https://static.openfintech.io/payout_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w24) |[**USD Coin**](/payout-methods/usd_coin/)|[`usd_coin_usdc`](usd_coin_usdc/)|`USDC`| 
 |![USD Coin](https://static.openfintech.io/payout_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w24) |[**USD Coin**](/payout-methods/usd_coin/)|[`usd_coin_usdcbep20`](usd_coin_usdcbep20/)|`USDCBEP20`| 
 |![USD Coin](https://static.openfintech.io/payout_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w24) |[**USD Coin**](/payout-methods/usd_coin/)|[`usd_coin_usdcerc20`](usd_coin_usdcerc20/)|`USDCERC20`| 

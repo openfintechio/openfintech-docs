@@ -312,6 +312,7 @@
 |![canara_bank](https://static.openfintech.io/payout_methods/canara_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Canara Bank**](canara_bank/)|`canara_bank`| 
 |![capitec_bank](https://static.openfintech.io/payout_methods/capitec_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Capitec Bank**](capitec_bank/)|`capitec_bank`| 
 |![card](https://static.openfintech.io/payout_methods/card/logo.png?w=400&c=v0.59.26#w24) |[**Card**](card/)|`card`| 
+|![cardano](https://static.openfintech.io/payout_methods/cardano/logo.svg?w=400&c=v0.59.26#w24) |[**Cardano**](cardano/)|`cardano`| 
 |![cash](https://static.openfintech.io/payout_methods/cash/logo.png?w=400&c=v0.59.26#w24) |[**CASH**](cash/)|`cash`| 
 |![cashfree_bank_transfer](https://static.openfintech.io/payout_methods/cashfree_bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Cashfree bank transfer**](cashfree_bank_transfer/)|`cashfree_bank_transfer`| 
 |![cashfree_upi](https://static.openfintech.io/payout_methods/cashfree_upi/logo.svg?w=400&c=v0.59.26#w24) |[**Cashfree UPI**](cashfree_upi/)|`cashfree_upi`| 
