@@ -26,10 +26,10 @@ https://static.openfintech.io/payment_methods/kunapay_crypto/logo.svg?w=400&c=v0
 ```  
 
 ### Icon 
-![kunapay_crypto](https://static.openfintech.io/payment_methods/kunapay_crypto/icon.svg?w=278&c=v0.59.26#w100)  
+![kunapay_crypto](https://static.openfintech.io/payment_methods/kunapay_crypto/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_methods/kunapay_crypto/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_methods/kunapay_crypto/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payout Services 
@@ -41,6 +41,15 @@ The list of [Payout Services](/payout-services/) based on the _KunaPay Crypto_
 |![kunapay_crypto](https://static.openfintech.io/payout_methods/kunapay_crypto/icon.png?w=278&c=v0.59.26#w40) |[kunapay_crypto_eur](/payout-services/kunapay_crypto_eur/)|`kunapay_crypto_eur`| 
 |![kunapay_crypto](https://static.openfintech.io/payout_methods/kunapay_crypto/icon.png?w=278&c=v0.59.26#w40) |[kunapay_crypto_usd](/payout-services/kunapay_crypto_usd/)|`kunapay_crypto_usd`| 
 |![kunapay_crypto](https://static.openfintech.io/payout_methods/kunapay_crypto/icon.png?w=278&c=v0.59.26#w40) |[kunapay_crypto_uah](/payout-services/kunapay_crypto_uah/)|`kunapay_crypto_uah`| 
+ 
+
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _KunaPay Crypto_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![kunapaycrypto](https://static.openfintech.io/payment_providers/kunapaycrypto/icon.png?w=278&c=v0.59.26#w100) |[KUNA Pay Crypto](/payment-providers/kunapaycrypto/)|`kunapaycrypto`| 
  
 
 ## JSON Object 

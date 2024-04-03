@@ -33,6 +33,15 @@ https://static.openfintech.io/payment_providers/kunapaycrypto/logo.svg?w=400&c=v
 https://static.openfintech.io/payment_providers/kunapaycrypto/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Methods 
+ 
+The list of supported [Payment Methods](/payment-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![kunapay_crypto](https://static.openfintech.io/payment_methods/kunapay_crypto/icon.png?w=278&c=v0.59.26#w100) |[kunapay_crypto](/payment-methods/kunapay_crypto/)|`kunapay_crypto`| 
+ 
+
 ## Payout Methods 
  
 The list of supported [Payout Methods](/payout-methods/) 
@@ -53,7 +62,9 @@ The list of supported [Payout Methods](/payout-methods/)
   "vendor":"kunapaycrypto",
   "categories":null,
   "countries":null,
-  "payment_method":null,
+  "payment_method":[
+    "kunapay_crypto"
+  ],
   "payout_method":[
     "payment_card",
     "bank_transfer",

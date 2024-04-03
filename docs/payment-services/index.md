@@ -682,6 +682,10 @@
 |![Krung Thai Bank](https://static.openfintech.io/payment_methods/krung_thai_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Krung Thai Bank**](/payment-methods/krung_thai_bank/)|[`krung_thai_bank_thb_hpp`](krung_thai_bank_thb_hpp/)| 
 |![Krungsri (Bank of Ayudhya Public Company Limited)](https://static.openfintech.io/payment_methods/krungsri/logo.png?w=400&c=v0.59.26#w200) |[**Krungsri (Bank of Ayudhya Public Company Limited)**](/payment-methods/krungsri/)|[`krungsri_thb_hpp`](krungsri_thb_hpp/)| 
 |![Krungthai Bank](https://static.openfintech.io/payment_methods/krungthai_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Krungthai Bank**](/payment-methods/krungthai_bank/)|[`krungthai_bank_thb_hpp`](krungthai_bank_thb_hpp/)| 
+|![Kuna Pay](https://static.openfintech.io/payment_methods/kunapay_crypto/logo.svg?w=400&c=v0.59.26#w200) |[**Kuna Pay**](/payment-methods/kunapay_crypto/)|[`kunapay_crypto_eur_hpp`](kunapay_crypto_eur_hpp/)| 
+|![Kuna Pay](https://static.openfintech.io/payment_methods/kunapay_crypto/logo.svg?w=400&c=v0.59.26#w200) |[**Kuna Pay**](/payment-methods/kunapay_crypto/)|[`kunapay_crypto_uah_hpp`](kunapay_crypto_uah_hpp/)| 
+|![Kuna Pay](https://static.openfintech.io/payment_methods/kunapay_crypto/logo.svg?w=400&c=v0.59.26#w200) |[**Kuna Pay**](/payment-methods/kunapay_crypto/)|[`kunapay_crypto_usd_hpp`](kunapay_crypto_usd_hpp/)| 
+|![Kuna Pay](https://static.openfintech.io/payment_methods/kunapay_crypto/logo.svg?w=400&c=v0.59.26#w200) |[**Kuna Pay**](/payment-methods/kunapay_crypto/)|[`kunapay_crypto_usdt_hpp`](kunapay_crypto_usdt_hpp/)| 
 |![Kvitum](https://static.openfintech.io/payment_methods/kvitum/logo.svg?w=400&c=v0.59.26#w200) |[**Kvitum**](/payment-methods/kvitum/)|[`kvitum_eur_hpp`](kvitum_eur_hpp/)| 
 |![Kvitum](https://static.openfintech.io/payment_methods/kvitum/logo.svg?w=400&c=v0.59.26#w200) |[**Kvitum**](/payment-methods/kvitum/)|[`kvitum_kzt_hpp`](kvitum_kzt_hpp/)| 
 |![Kvitum](https://static.openfintech.io/payment_methods/kvitum/logo.svg?w=400&c=v0.59.26#w200) |[**Kvitum**](/payment-methods/kvitum/)|[`kvitum_uah_hpp`](kvitum_uah_hpp/)| 
