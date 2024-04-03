@@ -39,6 +39,15 @@ The list of [Payment Services](/payment-services/) based on the _Payment card em
 |![payment_card_email](https://static.openfintech.io/payment_methods/payment_card_email/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_email_eur_hpp](/payment-services/payment_card_email_eur_hpp/)|`payment_card_email_eur_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Payment card email_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![cardpay](https://static.openfintech.io/payment_providers/cardpay/icon.svg?w=278&c=v0.59.26#w100) |[Unlimit](/payment-providers/cardpay/)|`cardpay`| 
+ 
+
 ## JSON Object 
 
 ```json
