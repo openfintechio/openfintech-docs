@@ -62,7 +62,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![bancoitau](https://static.openfintech.io/payment_methods/bancoitau/icon.png?w=278&c=v0.59.26#w100) |[bancoitau](/payment-methods/bancoitau/)|`bancoitau`| 
 |![banco_santander](https://static.openfintech.io/payment_methods/banco_santander/icon.png?w=278&c=v0.59.26#w100) |[banco_santander](/payment-methods/banco_santander/)|`banco_santander`| 
 |![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario](/payment-methods/boleto_bancario/)|`boleto_bancario`| 
-|![loteria](https://static.openfintech.io/payment_methods/loteria/icon.svg?w=278&c=v0.59.26#w100) |[loteria](/payment-methods/loteria/)|`loteria`| 
+|![loteria](https://static.openfintech.io/payment_methods/loteria/icon.png?w=278&c=v0.59.26#w100) |[loteria](/payment-methods/loteria/)|`loteria`| 
  
 
 ## Payout Methods 

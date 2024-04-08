@@ -87,6 +87,7 @@
 |![bancobrasil](https://static.openfintech.io/payment_methods/bancobrasil/logo.png?w=400&c=v0.59.26#w200) |[**Banco do Brasil**](bancobrasil/)|`bancobrasil`| 
 |![bancodobrasil](https://static.openfintech.io/payment_methods/bancodobrasil/logo.svg?w=400&c=v0.59.26#w200) |[**Banco do Brasil**](bancodobrasil/)|`bancodobrasil`| 
 |![bancoitau](https://static.openfintech.io/payment_methods/bancoitau/logo.png?w=400&c=v0.59.26#w200) |[**Banco Itaú**](bancoitau/)|`bancoitau`| 
+|![bancontact](https://static.openfintech.io/payment_methods/bancontact/logo.png?w=400&c=v0.59.26#w200) |[**bancontact**](bancontact/)|`bancontact`| 
 |![bancontactmistercash](https://static.openfintech.io/payment_methods/bancontactmistercash/logo.png?w=400&c=v0.59.26#w200) |[**Bancontact/Mister Cash**](bancontactmistercash/)|`bancontactmistercash`| 
 |![bancopastor](https://static.openfintech.io/payment_methods/bancopastor/logo.png?w=400&c=v0.59.26#w200) |[**Banco Pastor**](bancopastor/)|`bancopastor`| 
 |![bancopopular](https://static.openfintech.io/payment_methods/bancopopular/logo.png?w=400&c=v0.59.26#w200) |[**Banco Popular**](bancopopular/)|`bancopopular`| 
@@ -453,7 +454,7 @@
 |![liqpay](https://static.openfintech.io/payment_methods/liqpay/logo.svg?w=400&c=v0.59.26#w200) |[**LiqPay**](liqpay/)|`liqpay`| 
 |![liqpay_wallet](https://static.openfintech.io/payment_methods/liqpay_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**LiqPay wallet**](liqpay_wallet/)|`liqpay_wallet`| 
 |![litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200) |[**Litecoin**](litecoin/)|`litecoin`| 
-|![loteria](https://static.openfintech.io/payment_methods/loteria/logo.svg?w=400&c=v0.59.26#w200) |[**Lotericas Voucher based payment method**](loteria/)|`loteria`| 
+|![loteria](https://static.openfintech.io/payment_methods/loteria/logo.png?w=400&c=v0.59.26#w200) |[**Lotericas Voucher based payment method**](loteria/)|`loteria`| 
 || **M** ||
 |![m10](https://static.openfintech.io/payment_methods/m10/logo.png?w=400&c=v0.59.26#w200) |[**m10**](m10/)|`m10`| 
 |![m_pesa](https://static.openfintech.io/payment_methods/m_pesa/logo.png?w=400&c=v0.59.26#w200) |[**M-Pesa**](m_pesa/)|`m_pesa`| 

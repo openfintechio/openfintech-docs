@@ -46,6 +46,7 @@ The list of [Payment Providers](/payment-providers/) that support the _BLIK_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![ppro](https://static.openfintech.io/payment_providers/ppro/icon.svg?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
+|![rampnow](https://static.openfintech.io/payment_providers/rampnow/icon.svg?w=278&c=v0.59.26#w100) |[Rampnow](/payment-providers/rampnow/)|`rampnow`| 
  
 
 ## JSON Object 

@@ -42,6 +42,10 @@ The list of supported [Payment Methods](/payment-methods/)
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay](/payment-methods/applepay/)|`applepay`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay](/payment-methods/googlepay/)|`googlepay`| 
+|![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik](/payment-methods/blik/)|`blik`| 
+|![bancontact](https://static.openfintech.io/payment_methods/bancontact/icon.png?w=278&c=v0.59.26#w100) |[bancontact](/payment-methods/bancontact/)|`bancontact`| 
+|![ideal](https://static.openfintech.io/payment_methods/ideal/icon.svg?w=278&c=v0.59.26#w100) |[ideal](/payment-methods/ideal/)|`ideal`| 
+|![sofort](https://static.openfintech.io/payment_methods/sofort/icon.svg?w=278&c=v0.59.26#w100) |[sofort](/payment-methods/sofort/)|`sofort`| 
  
 
 ## JSON Object 
@@ -56,7 +60,11 @@ The list of supported [Payment Methods](/payment-methods/)
   "payment_method":[
     "payment_card",
     "applepay",
-    "googlepay"
+    "googlepay",
+    "blik",
+    "bancontact",
+    "ideal",
+    "sofort"
   ],
   "payout_method":null,
   "metadata":null,

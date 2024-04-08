@@ -44,7 +44,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![picpay](https://static.openfintech.io/payment_methods/picpay/icon.svg?w=278&c=v0.59.26#w100) |[picpay](/payment-methods/picpay/)|`picpay`| 
 |![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario](/payment-methods/boleto_bancario/)|`boleto_bancario`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
-|![loteria](https://static.openfintech.io/payment_methods/loteria/icon.svg?w=278&c=v0.59.26#w100) |[loteria](/payment-methods/loteria/)|`loteria`| 
+|![loteria](https://static.openfintech.io/payment_methods/loteria/icon.png?w=278&c=v0.59.26#w100) |[loteria](/payment-methods/loteria/)|`loteria`| 
  
 
 ## Payout Methods 
