@@ -55,14 +55,14 @@
 	Required: `` 
  
 	Label:  
-	: [EN] CPF number 
-	: [RU] CPF номер 
-	: [UK] CPF номер 
+	: [EN] Beneficiary CPF or CNPJ number 
+	: [RU] Beneficiary CPF or CNPJ number 
+	: [UK] Beneficiary CPF or CNPJ number 
  
 	Hint:  
-	: [EN] Enter CPF number 
-	: [RU] Введите CPF номер 
-	: [UK] Введіть CPF номер 
+	: [EN] Enter beneficiary CPF or CNPJ number 
+	: [RU] Enter beneficiary CPF or CNPJ number 
+	: [UK] Enter beneficiary CPF or CNPJ number 
  
 2. **`beneficiary_phone`** 
  
@@ -343,9 +343,9 @@
 	Required: `` 
  
 	Label:  
-	: [EN] Beneficiary's PIX account type 
-	: [RU] Тип аккаунта PIX получателя 
-	: [UK] Тип облікового запису PIX отримувача 
+	: [EN] Beneficiary's PIX Key account type 
+	: [RU] Beneficiary's PIX Key account type 
+	: [UK] Beneficiary's PIX Key account type 
  
 	Hint:  
 	: [EN] CPF|CNPJ|EVP|PHONE|EMAIL|RANDOMKEY 
@@ -386,14 +386,14 @@
       "required":false,
       "position":1,
       "label":{
-        "en":"CPF number",
-        "ru":"CPF \u043d\u043e\u043c\u0435\u0440",
-        "uk":"CPF \u043d\u043e\u043c\u0435\u0440"
+        "en":"Beneficiary CPF or CNPJ number",
+        "ru":"Beneficiary CPF or CNPJ number",
+        "uk":"Beneficiary CPF or CNPJ number"
       },
       "hint":{
-        "en":"Enter CPF number",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 CPF \u043d\u043e\u043c\u0435\u0440",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c CPF \u043d\u043e\u043c\u0435\u0440"
+        "en":"Enter beneficiary CPF or CNPJ number",
+        "ru":"Enter beneficiary CPF or CNPJ number",
+        "uk":"Enter beneficiary CPF or CNPJ number"
       },
       "example":"88899988811"
     },
@@ -664,9 +664,9 @@
       "required":false,
       "position":17,
       "label":{
-        "en":"Beneficiary's PIX account type",
-        "ru":"\u0422\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430 PIX \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
-        "uk":"\u0422\u0438\u043f \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u043f\u0438\u0441\u0443 PIX \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+        "en":"Beneficiary's PIX Key account type",
+        "ru":"Beneficiary's PIX Key account type",
+        "uk":"Beneficiary's PIX Key account type"
       },
       "hint":{
         "en":"CPF|CNPJ|EVP|PHONE|EMAIL|RANDOMKEY",

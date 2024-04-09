@@ -45,6 +45,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |![bank_transfer_aggregated](https://static.openfintech.io/payment_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_aggregated](/payment-methods/bank_transfer_aggregated/)|`bank_transfer_aggregated`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![upi](https://static.openfintech.io/payout_methods/upi/icon.svg?w=278&c=v0.59.26#w40) |[upi](payout-methodsupi/)|`upi`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -60,7 +69,9 @@ The list of supported [Payment Methods](/payment-methods/)
     "upi",
     "bank_transfer_aggregated"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "upi"
+  ],
   "metadata":{
     "about_payments_code":"razorpay"
   },

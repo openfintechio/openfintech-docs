@@ -1072,6 +1072,7 @@
 |![kirovogradska_oblasna_filiya_prat_ufg](https://static.openfintech.io/vendors/kirovogradska_oblasna_filiya_prat_ufg/logo.svg?w=600&c=v0.59.26#w200) |[**Кіровоградська обласна філія ПрАТ 'Українська фінансова група'**](kirovogradska_oblasna_filiya_prat_ufg/)|`kirovogradska_oblasna_filiya_prat_ufg`| 
 |![kita_nippon_bank](https://static.openfintech.io/vendors/kita_nippon_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Kita-Nippon Bank**](kita_nippon_bank/)|`kita_nippon_bank`| 
 |![kitakyushu_bank](https://static.openfintech.io/vendors/kitakyushu_bank/logo.svg?w=600&c=v0.59.26#w200) |[**KITAKYUSHU BANK**](kitakyushu_bank/)|`kitakyushu_bank`| 
+|![kitopay](https://static.openfintech.io/vendors/kitopay/logo.png?w=600&c=v0.59.26#w200) |[**Kitopay**](kitopay/)|`kitopay`| 
 |![kiwipay](https://static.openfintech.io/vendors/kiwipay/logo.png?w=600&c=v0.59.26#w200) |[**Kiwipay**](kiwipay/)|`kiwipay`| 
 |![kiwoom_bank](https://static.openfintech.io/vendors/kiwoom_bank/logo.png?w=600&c=v0.59.26#w200) |[**KIWOOM SECURITIES CO LTD**](kiwoom_bank/)|`kiwoom_bank`| 
 |![kiyivska_filiya_at_misto_bank](https://static.openfintech.io/vendors/kiyivska_filiya_at_misto_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Київська філія ПАТ 'МІСТО БАНК'**](kiyivska_filiya_at_misto_bank/)|`kiyivska_filiya_at_misto_bank`| 

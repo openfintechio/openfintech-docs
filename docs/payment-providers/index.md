@@ -443,6 +443,7 @@
 |![khanpay](https://static.openfintech.io/payment_providers/khanpay/logo.svg?w=600&c=v0.59.26#w100) |[**KhanPay**](khanpay/)|`khanpay`| 
 |![kiberpay](https://static.openfintech.io/payment_providers/kiberpay/logo.png?w=600&c=v0.59.26#w100) |[**Kiberpay**](kiberpay/)|`kiberpay`| 
 |![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/logo.png?w=600&c=v0.59.26#w100) |[**KingPay**](kingpaypayments/)|`kingpaypayments`| 
+|![kitopay](https://static.openfintech.io/payment_providers/kitopay/logo.png?w=600&c=v0.59.26#w100) |[**Kitopay**](kitopay/)|`kitopay`| 
 |![kiwipay](https://static.openfintech.io/payment_providers/kiwipay/logo.png?w=600&c=v0.59.26#w100) |[**Kiwipay**](kiwipay/)|`kiwipay`| 
 |![klarna](https://static.openfintech.io/payment_providers/klarna/logo.svg?w=600&c=v0.59.26#w100) |[**Klarna**](klarna/)|`klarna`| 
 |![klasha](https://static.openfintech.io/payment_providers/klasha/logo.svg?w=600&c=v0.59.26#w100) |[**Klasha**](klasha/)|`klasha`| 
