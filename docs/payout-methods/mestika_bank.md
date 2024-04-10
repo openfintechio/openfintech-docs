@@ -35,6 +35,7 @@ The list of [Payout Services](/payout-services/) based on the _Bank Mestika_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![mestika_bank](https://static.openfintech.io/payout_methods/mestika_bank/icon.svg?w=278&c=v0.59.26#w40) |[metika_bank_idr](/payout-services/metika_bank_idr/)|`metika_bank_idr`| 
+|![mestika_bank](https://static.openfintech.io/payout_methods/mestika_bank/icon.svg?w=278&c=v0.59.26#w40) |[mestika_bank_idr](/payout-services/mestika_bank_idr/)|`mestika_bank_idr`| 
  
 
 ## Payment Providers 

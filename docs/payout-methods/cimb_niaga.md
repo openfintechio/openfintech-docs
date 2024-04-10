@@ -35,6 +35,7 @@ The list of [Payout Services](/payout-services/) based on the _Bank CIMB Niaga_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![cimb_niaga](https://static.openfintech.io/payout_methods/cimb_niaga/icon.svg?w=278&c=v0.59.26#w40) |[cimb_bank_idr](/payout-services/cimb_bank_idr/)|`cimb_bank_idr`| 
+|![cimb_niaga](https://static.openfintech.io/payout_methods/cimb_niaga/icon.svg?w=278&c=v0.59.26#w40) |[cimb_niaga_idr](/payout-services/cimb_niaga_idr/)|`cimb_niaga_idr`| 
  
 
 ## Payment Providers 

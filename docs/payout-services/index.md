@@ -451,6 +451,7 @@
 |![CIMB Bank Vietnam Limited](https://static.openfintech.io/payout_methods/cimb_bank/logo.png?w=400&c=v0.59.26#w24) |[**CIMB Bank Vietnam Limited**](/payout-methods/cimb_bank/)|[`cimb_bank_myr`](cimb_bank_myr/)|`MYR`| 
 |![CIMB Bank Vietnam Limited](https://static.openfintech.io/payout_methods/cimb_bank/logo.png?w=400&c=v0.59.26#w24) |[**CIMB Bank Vietnam Limited**](/payout-methods/cimb_bank/)|[`cimb_bank_vnd`](cimb_bank_vnd/)|`VND`| 
 |![CIMB Clicks Indonesia](https://static.openfintech.io/payout_methods/cimb_clicks_indonesia/logo.png?w=400&c=v0.59.26#w24) |[**CIMB Clicks Indonesia**](/payout-methods/cimb_clicks_indonesia/)|[`cimb_clicks_indonesia_idr`](cimb_clicks_indonesia_idr/)|`IDR`| 
+|![Bank CIMB Niaga](https://static.openfintech.io/payout_methods/cimb_niaga/logo.svg?w=400&c=v0.59.26#w24) |[**Bank CIMB Niaga**](/payout-methods/cimb_niaga/)|[`cimb_niaga_idr`](cimb_niaga_idr/)|`IDR`| 
 |![CIMB Thai Bank Public Company Limited](https://static.openfintech.io/payout_methods/cimb_thai_bank/logo.svg?w=400&c=v0.59.26#w24) |[**CIMB Thai Bank Public Company Limited**](/payout-methods/cimb_thai_bank/)|[`cimb_thai_bank_thb`](cimb_thai_bank_thb/)|`THB`| 
 |![CIT MFB](https://static.openfintech.io/payout_methods/cit_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**CIT MFB**](/payout-methods/cit_mfb/)|[`cit_mfb_ngn`](cit_mfb_ngn/)|`NGN`| 
 |![Citibank](https://static.openfintech.io/payout_methods/citi_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Citibank**](/payout-methods/citi_bank/)|[`citi_bank_krw`](citi_bank_krw/)|`KRW`| 
@@ -1136,6 +1137,7 @@
 |![Kyoto Bank](https://static.openfintech.io/payout_methods/kyoto_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Kyoto Bank**](/payout-methods/kyoto_bank/)|[`kyoto_bank_jpy`](kyoto_bank_jpy/)|`JPY`| 
 |![Kyoto Chuo Shinkin Bank](https://static.openfintech.io/payout_methods/kyoto_chuo_shinkin_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Kyoto Chuo Shinkin Bank**](/payout-methods/kyoto_chuo_shinkin_bank/)|[`kyoto_chuo_shinkin_bank_jpy`](kyoto_chuo_shinkin_bank_jpy/)|`JPY`| 
 |![The Kyoto Shinkin Bank](https://static.openfintech.io/payout_methods/kyoto_shinkin_bank/logo.svg?w=400&c=v0.59.26#w24) |[**The Kyoto Shinkin Bank**](/payout-methods/kyoto_shinkin_bank/)|[`kyoto_shinkin_bank`](kyoto_shinkin_bank/)|`JPY`| 
+|![The Kyoto Shinkin Bank](https://static.openfintech.io/payout_methods/kyoto_shinkin_bank/logo.svg?w=400&c=v0.59.26#w24) |[**The Kyoto Shinkin Bank**](/payout-methods/kyoto_shinkin_bank/)|[`kyoto_shinkin_bank_jpy`](kyoto_shinkin_bank_jpy/)|`JPY`| 
 |![KEKEP number 24](https://static.openfintech.io/payout_methods/kzhep-24/logo.png?w=400&c=v0.59.26#w24) |[**KEKEP number 24**](/payout-methods/kzhep-24/)|[`kzhep-24_uah`](kzhep-24_uah/)|`UAH`| 
 |![KZHEP NGS' Dawn'](https://static.openfintech.io/payout_methods/kzhep-mmr-zoria/logo.png?w=400&c=v0.59.26#w24) |[**KZHEP NGS' Dawn'**](/payout-methods/kzhep-mmr-zoria/)|[`kzhep-mmr-zoria_uah`](kzhep-mmr-zoria_uah/)|`UAH`| 
 |![КЖРЕП-4](https://static.openfintech.io/payout_methods/kzhrep-4/logo.png?w=400&c=v0.59.26#w24) |[**КЖРЕП-4**](/payout-methods/kzhrep-4/)|[`kzhrep-4_uah`](kzhrep-4_uah/)|`UAH`| 
@@ -1247,6 +1249,7 @@
 |![Mary Kay](https://static.openfintech.io/payout_methods/meri-kei/logo.svg?w=400&c=v0.59.26#w24) |[**Mary Kay**](/payout-methods/meri-kei/)|[`meri-kei_uah`](meri-kei_uah/)|`UAH`| 
 |![Meritz Securities Co. Ltd](https://static.openfintech.io/payout_methods/meritz_bank/logo.png?w=400&c=v0.59.26#w24) |[**Meritz Securities Co. Ltd**](/payout-methods/meritz_bank/)|[`meritz_bank_krw`](meritz_bank_krw/)|`KRW`| 
 |![Merlin Telecom (Kiev)](https://static.openfintech.io/payout_methods/merlin-telecom-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Merlin Telecom (Kiev)**](/payout-methods/merlin-telecom-kiev/)|[`merlin-telecom-kiev_uah`](merlin-telecom-kiev_uah/)|`UAH`| 
+|![Bank Mestika](https://static.openfintech.io/payout_methods/mestika_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Mestika**](/payout-methods/mestika_bank/)|[`mestika_bank_idr`](mestika_bank_idr/)|`IDR`| 
 |![Metal War Online](https://static.openfintech.io/payout_methods/metal-war-online/logo.png?w=400&c=v0.59.26#w24) |[**Metal War Online**](/payout-methods/metal-war-online/)|[`metal-war-online_uah`](metal-war-online_uah/)|`UAH`| 
 |![Bank Mestika](https://static.openfintech.io/payout_methods/mestika_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Mestika**](/payout-methods/mestika_bank/)|[`metika_bank_idr`](metika_bank_idr/)|`IDR`| 
 |![Metrobank](https://static.openfintech.io/payout_methods/metro_bank/logo.png?w=400&c=v0.59.26#w24) |[**Metrobank**](/payout-methods/metro_bank/)|[`metro_bank_php`](metro_bank_php/)|`PHP`| 

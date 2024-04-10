@@ -37,6 +37,7 @@ The list of [Payout Services](/payout-services/) based on the _The Kyoto Shinkin
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![kyoto_shinkin_bank](https://static.openfintech.io/payout_methods/kyoto_shinkin_bank/icon.svg?w=278&c=v0.59.26#w40) |[kyoto_shinkin_bank](/payout-services/kyoto_shinkin_bank/)|`kyoto_shinkin_bank`| 
+|![kyoto_shinkin_bank](https://static.openfintech.io/payout_methods/kyoto_shinkin_bank/icon.svg?w=278&c=v0.59.26#w40) |[kyoto_shinkin_bank_jpy](/payout-services/kyoto_shinkin_bank_jpy/)|`kyoto_shinkin_bank_jpy`| 
  
 
 ## JSON Object 
