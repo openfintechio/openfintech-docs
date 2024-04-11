@@ -527,6 +527,7 @@
 |![nordea](https://static.openfintech.io/payment_methods/nordea/logo.png?w=400&c=v0.59.26#w200) |[**Nordea**](nordea/)|`nordea`| 
 |![nordeasolo](https://static.openfintech.io/payment_methods/nordeasolo/logo.svg?w=400&c=v0.59.26#w200) |[**Nordea Solo**](nordeasolo/)|`nordeasolo`| 
 |![noros_p2p](https://static.openfintech.io/payment_methods/noros_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**NOROS P2P**](noros_p2p/)|`noros_p2p`| 
+|![nova_bank](https://static.openfintech.io/payment_methods/nova_bank/logo.svg?w=400&c=v0.59.26#w200) |[**NovaBank**](nova_bank/)|`nova_bank`| 
 |![nsmep](https://static.openfintech.io/payment_methods/nsmep/logo.png?w=400&c=v0.59.26#w200) |[**Prostir**](nsmep/)|`nsmep`| 
 || **O** ||
 |![ocb_bank](https://static.openfintech.io/payment_methods/ocb_bank/logo.png?w=400&c=v0.59.26#w200) |[**Orient Commercial Joint Stock Bank**](ocb_bank/)|`ocb_bank`| 
@@ -570,6 +571,7 @@
 |![parazula](https://static.openfintech.io/payment_methods/parazula/logo.png?w=400&c=v0.59.26#w200) |[**Parazula**](parazula/)|`parazula`| 
 |![pay4fun](https://static.openfintech.io/payment_methods/pay4fun/logo.png?w=400&c=v0.59.26#w200) |[**Pay4Fun**](pay4fun/)|`pay4fun`| 
 |![pay_id](https://static.openfintech.io/payment_methods/pay_id/logo.svg?w=400&c=v0.59.26#w200) |[**PayID**](pay_id/)|`pay_id`| 
+|![paybol](https://static.openfintech.io/payment_methods/paybol/logo.svg?w=400&c=v0.59.26#w200) |[**Paybol**](paybol/)|`paybol`| 
 |![paybybill](https://static.openfintech.io/payment_methods/paybybill/logo.png?w=400&c=v0.59.26#w200) |[**PayByBill**](paybybill/)|`paybybill`| 
 |![payd](https://static.openfintech.io/payment_methods/payd/logo.png?w=400&c=v0.59.26#w200) |[**payD**](payd/)|`payd`| 
 |![paydirekt](https://static.openfintech.io/payment_methods/paydirekt/logo.svg?w=400&c=v0.59.26#w200) |[**paydirekt**](paydirekt/)|`paydirekt`| 

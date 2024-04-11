@@ -37,6 +37,7 @@ The list of [Payout Services](/payout-services/) based on the _JPMorgan Chase Ba
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![jpmorgan_chase_bank](https://static.openfintech.io/payout_methods/jpmorgan_chase_bank/icon.svg?w=278&c=v0.59.26#w40) |[jpmorgan_chase_bank_jpy](/payout-services/jpmorgan_chase_bank_jpy/)|`jpmorgan_chase_bank_jpy`| 
+|![jpmorgan_chase_bank](https://static.openfintech.io/payout_methods/jpmorgan_chase_bank/icon.svg?w=278&c=v0.59.26#w40) |[jpmorgan_chase_bank_zar](/payout-services/jpmorgan_chase_bank_zar/)|`jpmorgan_chase_bank_zar`| 
  
 
 ## JSON Object 

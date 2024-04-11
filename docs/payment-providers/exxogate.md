@@ -218,6 +218,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![united_commercial_bank_upay](https://static.openfintech.io/payment_methods/united_commercial_bank_upay/icon.png?w=278&c=v0.59.26#w100) |[united_commercial_bank_upay](/payment-methods/united_commercial_bank_upay/)|`united_commercial_bank_upay`| 
 |![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix](/payment-methods/pix/)|`pix`| 
 |![picpay](https://static.openfintech.io/payment_methods/picpay/icon.svg?w=278&c=v0.59.26#w100) |[picpay](/payment-methods/picpay/)|`picpay`| 
+|![paybol](https://static.openfintech.io/payment_methods/paybol/icon.svg?w=278&c=v0.59.26#w100) |[paybol](/payment-methods/paybol/)|`paybol`| 
+|![nova_bank](https://static.openfintech.io/payment_methods/nova_bank/icon.svg?w=278&c=v0.59.26#w100) |[nova_bank](/payment-methods/nova_bank/)|`nova_bank`| 
 |![pse](https://static.openfintech.io/payment_methods/pse/icon.svg?w=278&c=v0.59.26#w100) |[pse](/payment-methods/pse/)|`pse`| 
  
 
@@ -389,6 +391,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![bank_jtrust_indonesia](https://static.openfintech.io/payout_methods/bank_jtrust_indonesia/icon.svg?w=278&c=v0.59.26#w40) |[bank_jtrust_indonesia](payout-methodsbank_jtrust_indonesia/)|`bank_jtrust_indonesia`| 
 |![bank_mayapada](https://static.openfintech.io/payout_methods/bank_mayapada/icon.svg?w=278&c=v0.59.26#w40) |[bank_mayapada](payout-methodsbank_mayapada/)|`bank_mayapada`| 
 |![bank_idrk](https://static.openfintech.io/payout_methods/bank_idrk/icon.svg?w=278&c=v0.59.26#w40) |[bank_idrk](payout-methodsbank_idrk/)|`bank_idrk`| 
+|![community_bank](https://static.openfintech.io/payout_methods/community_bank/icon.svg?w=278&c=v0.59.26#w40) |[community_bank](payout-methodscommunity_bank/)|`community_bank`| 
 |![pg_bank](https://static.openfintech.io/payout_methods/pg_bank/icon.svg?w=278&c=v0.59.26#w40) |[pg_bank](payout-methodspg_bank/)|`pg_bank`| 
 |![momiji_bank](https://static.openfintech.io/payout_methods/momiji_bank/icon.svg?w=278&c=v0.59.26#w40) |[momiji_bank](payout-methodsmomiji_bank/)|`momiji_bank`| 
 |![smbc_trust_bank](https://static.openfintech.io/payout_methods/smbc_trust_bank/icon.svg?w=278&c=v0.59.26#w40) |[smbc_trust_bank](payout-methodssmbc_trust_bank/)|`smbc_trust_bank`| 
@@ -605,6 +608,8 @@ The list of supported [Payout Methods](/payout-methods/)
 |![stanbic_bank_nigeria](https://static.openfintech.io/payout_methods/stanbic_bank_nigeria/icon.svg?w=278&c=v0.59.26#w40) |[stanbic_bank_nigeria](payout-methodsstanbic_bank_nigeria/)|`stanbic_bank_nigeria`| 
 |![tyme_bank](https://static.openfintech.io/payout_methods/tyme_bank/icon.svg?w=278&c=v0.59.26#w40) |[tyme_bank](payout-methodstyme_bank/)|`tyme_bank`| 
 |![african_bank](https://static.openfintech.io/payout_methods/african_bank/icon.svg?w=278&c=v0.59.26#w40) |[african_bank](payout-methodsafrican_bank/)|`african_bank`| 
+|![paybol](https://static.openfintech.io/payout_methods/paybol/icon.svg?w=278&c=v0.59.26#w40) |[paybol](payout-methodspaybol/)|`paybol`| 
+|![nova_bank](https://static.openfintech.io/payout_methods/nova_bank/icon.svg?w=278&c=v0.59.26#w40) |[nova_bank](payout-methodsnova_bank/)|`nova_bank`| 
 |![bidvest_bank](https://static.openfintech.io/payout_methods/bidvest_bank/icon.svg?w=278&c=v0.59.26#w40) |[bidvest_bank](payout-methodsbidvest_bank/)|`bidvest_bank`| 
  
 
@@ -797,6 +802,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "united_commercial_bank_upay",
     "pix",
     "picpay",
+    "paybol",
+    "nova_bank",
     "pse"
   ],
   "payout_method":[
@@ -962,6 +969,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "bank_jtrust_indonesia",
     "bank_mayapada",
     "bank_idrk",
+    "community_bank",
     "pg_bank",
     "momiji_bank",
     "smbc_trust_bank",
@@ -1178,6 +1186,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "stanbic_bank_nigeria",
     "tyme_bank",
     "african_bank",
+    "paybol",
+    "nova_bank",
     "bidvest_bank"
   ],
   "metadata":null,

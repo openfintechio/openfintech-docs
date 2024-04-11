@@ -857,6 +857,7 @@
 |![Nonghyup Bank](https://static.openfintech.io/payment_methods/nonghyup_bank/logo.png?w=400&c=v0.59.26#w200) |[**Nonghyup Bank**](/payment-methods/nonghyup_bank/)|[`nonghyup_bank_krw_hpp`](nonghyup_bank_krw_hpp/)| 
 |![Nordea Solo](https://static.openfintech.io/payment_methods/nordeasolo/logo.svg?w=400&c=v0.59.26#w200) |[**Nordea Solo**](/payment-methods/nordeasolo/)|[`nordeasolo_eur_hpp`](nordeasolo_eur_hpp/)| 
 |![NOROS P2P](https://static.openfintech.io/payment_methods/noros_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**NOROS P2P**](/payment-methods/noros_p2p/)|[`noros_p2p_rub_hpp`](noros_p2p_rub_hpp/)| 
+|![NovaBank](https://static.openfintech.io/payment_methods/nova_bank/logo.svg?w=400&c=v0.59.26#w200) |[**NovaBank**](/payment-methods/nova_bank/)|[`nova_bank_try_hpp`](nova_bank_try_hpp/)| 
 ||| **O** ||
 |![Orient Commercial Joint Stock Bank](https://static.openfintech.io/payment_methods/ocb_bank/logo.png?w=400&c=v0.59.26#w200) |[**Orient Commercial Joint Stock Bank**](/payment-methods/ocb_bank/)|[`ocb_bank_vnd_hpp`](ocb_bank_vnd_hpp/)| 
 |![OCBC Bank (Malaysia) (FPX), Malaysia](https://static.openfintech.io/payment_methods/ocbc_bank_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**OCBC Bank (Malaysia) (FPX), Malaysia**](/payment-methods/ocbc_bank_fpx/)|[`ocbc_bank_fpx_myr_hpp`](ocbc_bank_fpx_myr_hpp/)| 
@@ -909,6 +910,7 @@
 |![Pay4Fun](https://static.openfintech.io/payment_methods/pay4fun/logo.png?w=400&c=v0.59.26#w200) |[**Pay4Fun**](/payment-methods/pay4fun/)|[`pay4fun_brl_hpp`](pay4fun_brl_hpp/)| 
 |![PayID](https://static.openfintech.io/payment_methods/pay_id/logo.svg?w=400&c=v0.59.26#w200) |[**PayID**](/payment-methods/pay_id/)|[`pay_id_aud_hpp`](pay_id_aud_hpp/)| 
 |![PayID](https://static.openfintech.io/payment_methods/pay_id/logo.svg?w=400&c=v0.59.26#w200) |[**PayID**](/payment-methods/pay_id/)|[`pay_id_aud_invoice`](pay_id_aud_invoice/)| 
+|![Paybol](https://static.openfintech.io/payment_methods/paybol/logo.svg?w=400&c=v0.59.26#w200) |[**Paybol**](/payment-methods/paybol/)|[`paybol_try_hpp`](paybol_try_hpp/)| 
 |![Payeer](https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&c=v0.59.26#w200) |[**Payeer**](/payment-methods/payeer/)|[`payeer_eur_hpp`](payeer_eur_hpp/)| 
 |![Payeer](https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&c=v0.59.26#w200) |[**Payeer**](/payment-methods/payeer/)|[`payeer_rub_hpp`](payeer_rub_hpp/)| 
 |![Payeer](https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&c=v0.59.26#w200) |[**Payeer**](/payment-methods/payeer/)|[`payeer_usd_hpp`](payeer_usd_hpp/)| 

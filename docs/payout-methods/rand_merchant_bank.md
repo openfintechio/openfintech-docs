@@ -35,6 +35,7 @@ The list of [Payout Services](/payout-services/) based on the _Rand Merchant Ban
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![rand_merchant_bank](https://static.openfintech.io/payout_methods/rand_merchant_bank/icon.svg?w=278&c=v0.59.26#w40) |[rand_merchant_bank_ngn](/payout-services/rand_merchant_bank_ngn/)|`rand_merchant_bank_ngn`| 
+|![rand_merchant_bank](https://static.openfintech.io/payout_methods/rand_merchant_bank/icon.svg?w=278&c=v0.59.26#w40) |[rand_merchant_bank_zar](/payout-services/rand_merchant_bank_zar/)|`rand_merchant_bank_zar`| 
  
 
 ## JSON Object 
