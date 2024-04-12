@@ -405,6 +405,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![remitos](https://static.openfintech.io/payment_providers/remitos/icon.png?w=278&c=v0.59.26#w100) |[Remitos](/payment-providers/remitos/)|`remitos`| 
 |![payecardsakurateco](https://static.openfintech.io/payment_providers/payecardsakurateco/icon.png?w=278&c=v0.59.26#w100) |[PayeCards Akurateco](/payment-providers/payecardsakurateco/)|`payecardsakurateco`| 
 |![agentglobal](https://static.openfintech.io/payment_providers/agentglobal/icon.png?w=278&c=v0.59.26#w100) |[AgentGlobal](/payment-providers/agentglobal/)|`agentglobal`| 
+|![scpay](https://static.openfintech.io/payment_providers/scpay/icon.png?w=278&c=v0.59.26#w100) |[SecurePay](/payment-providers/scpay/)|`scpay`| 
 |![passpoint](https://static.openfintech.io/payment_providers/passpoint/icon.png?w=278&c=v0.59.26#w100) |[Passpoint](/payment-providers/passpoint/)|`passpoint`| 
 |![alycepay](https://static.openfintech.io/payment_providers/alycepay/icon.png?w=278&c=v0.59.26#w100) |[Alycepay](/payment-providers/alycepay/)|`alycepay`| 
 |![apcopay](https://static.openfintech.io/payment_providers/apcopay/icon.svg?w=278&c=v0.59.26#w100) |[Apcopay](/payment-providers/apcopay/)|`apcopay`| 

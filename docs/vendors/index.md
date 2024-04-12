@@ -1864,6 +1864,7 @@
 |![scanpay](https://static.openfintech.io/vendors/scanpay/logo.png?w=600&c=v0.59.26#w200) |[**Scanpay**](scanpay/)|`scanpay`| 
 |![scbbanknetbanking](https://static.openfintech.io/vendors/scbbanknetbanking/logo.png?w=600&c=v0.59.26#w200) |[**SCB netbanking**](scbbanknetbanking/)|`scbbanknetbanking`| 
 |![schetvbankedlyaipiliyurlic](https://static.openfintech.io/vendors/schetvbankedlyaipiliyurlic/logo.svg?w=600&c=v0.59.26#w200) |[**Счет в банке для ИП или юр лиц**](schetvbankedlyaipiliyurlic/)|`schetvbankedlyaipiliyurlic`| 
+|![scpay](https://static.openfintech.io/vendors/scpay/logo.png?w=600&c=v0.59.26#w200) |[**SecurePay**](scpay/)|`scpay`| 
 |![sebbank](https://static.openfintech.io/vendors/sebbank/logo.png?w=600&c=v0.59.26#w200) |[**SEB Bank**](sebbank/)|`sebbank`| 
 |![secupay](https://static.openfintech.io/vendors/secupay/logo.png?w=600&c=v0.59.26#w200) |[**secupay**](secupay/)|`secupay`| 
 |![securcharge](https://static.openfintech.io/vendors/securcharge/logo.png?w=600&c=v0.59.26#w200) |[**SecurCharge**](securcharge/)|`securcharge`| 

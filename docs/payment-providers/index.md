@@ -809,6 +809,7 @@
 |![sbm](https://static.openfintech.io/payment_providers/sbm/logo.png?w=600&c=v0.59.26#w100) |[**State Bank of Mauritius**](sbm/)|`sbm`| 
 |![sbpay](https://static.openfintech.io/payment_providers/sbpay/logo.png?w=600&c=v0.59.26#w100) |[**SBPay**](sbpay/)|`sbpay`| 
 |![scanpay](https://static.openfintech.io/payment_providers/scanpay/logo.png?w=600&c=v0.59.26#w100) |[**Scanpay**](scanpay/)|`scanpay`| 
+|![scpay](https://static.openfintech.io/payment_providers/scpay/logo.png?w=600&c=v0.59.26#w100) |[**SecurePay**](scpay/)|`scpay`| 
 |![secupay](https://static.openfintech.io/payment_providers/secupay/logo.png?w=600&c=v0.59.26#w100) |[**secupay**](secupay/)|`secupay`| 
 |![securcharge](https://static.openfintech.io/payment_providers/securcharge/logo.png?w=600&c=v0.59.26#w100) |[**SecurCharge**](securcharge/)|`securcharge`| 
 |![securenetllc](https://static.openfintech.io/payment_providers/securenetllc/logo.png?w=600&c=v0.59.26#w100) |[**SecureNet LLC**](securenetllc/)|`securenetllc`| 
