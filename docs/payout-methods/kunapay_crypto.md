@@ -41,6 +41,8 @@ The list of [Payout Services](/payout-services/) based on the _KunaPay Crypto_
 |![kunapay_crypto](https://static.openfintech.io/payout_methods/kunapay_crypto/icon.png?w=278&c=v0.59.26#w40) |[kunapay_crypto_eur](/payout-services/kunapay_crypto_eur/)|`kunapay_crypto_eur`| 
 |![kunapay_crypto](https://static.openfintech.io/payout_methods/kunapay_crypto/icon.png?w=278&c=v0.59.26#w40) |[kunapay_crypto_usd](/payout-services/kunapay_crypto_usd/)|`kunapay_crypto_usd`| 
 |![kunapay_crypto](https://static.openfintech.io/payout_methods/kunapay_crypto/icon.png?w=278&c=v0.59.26#w40) |[kunapay_crypto_uah](/payout-services/kunapay_crypto_uah/)|`kunapay_crypto_uah`| 
+|![kunapay_crypto](https://static.openfintech.io/payout_methods/kunapay_crypto/icon.png?w=278&c=v0.59.26#w40) |[kunapay_crypto_usdt](/payout-services/kunapay_crypto_usdt/)|`kunapay_crypto_usdt`| 
+|![kunapay_crypto](https://static.openfintech.io/payout_methods/kunapay_crypto/icon.png?w=278&c=v0.59.26#w40) |[kunapay_crypto_btc](/payout-services/kunapay_crypto_btc/)|`kunapay_crypto_btc`| 
  
 
 ## Payment Providers 
