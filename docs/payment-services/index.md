@@ -214,6 +214,7 @@
 |![Bank Transfer QR](https://static.openfintech.io/payment_methods/bank_transfer_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer QR**](/payment-methods/bank_transfer_qr/)|[`bank_transfer_qr_idr_hpp`](bank_transfer_qr_idr_hpp/)| 
 |![Bank Transfer QR](https://static.openfintech.io/payment_methods/bank_transfer_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer QR**](/payment-methods/bank_transfer_qr/)|[`bank_transfer_qr_thb_hpp`](bank_transfer_qr_thb_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_sar_hpp`](bank_transfer_sar_hpp/)| 
+|![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_sgd_hpp`](bank_transfer_sgd_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_thb_hpp`](bank_transfer_thb_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_try_hpp`](bank_transfer_try_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_try_invoice`](bank_transfer_try_invoice/)| 

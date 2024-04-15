@@ -275,6 +275,7 @@
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_rub`](bank_transfer_rub/)|`RUB`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_sar`](bank_transfer_sar/)|`SAR`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_sek`](bank_transfer_sek/)|`SEK`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_sgd`](bank_transfer_sgd/)|`SGD`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_thb`](bank_transfer_thb/)|`THB`| 
 |![Bank Transfer by Token](https://static.openfintech.io/payout_methods/bank_transfer_token/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer by Token**](/payout-methods/bank_transfer_token/)|[`bank_transfer_token_jpy`](bank_transfer_token_jpy/)|`JPY`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_try`](bank_transfer_try/)|`TRY`| 
