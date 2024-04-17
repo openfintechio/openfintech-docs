@@ -1,5 +1,5 @@
 
-# PayGames 
+# EasyPayGames 
 ![paygames](https://static.openfintech.io/vendors/paygames/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] PayGames 
-:	[RU] PayGames 
-:	[UK] PayGames 
+:	[EN] EasyPayGames 
+:	[RU] EasyPayGames 
+:	[UK] EasyPayGames 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/paygames/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"paygames",
   "name":{
-    "en":"PayGames",
-    "ru":"PayGames",
-    "uk":"PayGames"
+    "en":"EasyPayGames",
+    "ru":"EasyPayGames",
+    "uk":"EasyPayGames"
   },
   "status":"active",
   "description":null,

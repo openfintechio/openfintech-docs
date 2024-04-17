@@ -1,5 +1,5 @@
 
-# PayGames 
+# EasyPayGames 
 ![paygames](https://static.openfintech.io/payment_providers/paygames/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] PayGames 
-:	[RU] PayGames 
-:	[UK] PayGames 
+:	[EN] EasyPayGames 
+:	[RU] EasyPayGames 
+:	[UK] EasyPayGames 
  
 
 ## Images 
@@ -68,9 +68,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"PayGames",
-    "ru":"PayGames",
-    "uk":"PayGames"
+    "en":"EasyPayGames",
+    "ru":"EasyPayGames",
+    "uk":"EasyPayGames"
   }
 }
 ```  

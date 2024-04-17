@@ -429,7 +429,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![lpb](https://static.openfintech.io/payment_providers/lpb/icon.svg?w=278&c=v0.59.26#w100) |[LPB](/payment-providers/lpb/)|`lpb`| 
 |![nmi](https://static.openfintech.io/payment_providers/nmi/icon.png?w=278&c=v0.59.26#w100) |[NMI](/payment-providers/nmi/)|`nmi`| 
 |![walletto](https://static.openfintech.io/payment_providers/walletto/icon.svg?w=278&c=v0.59.26#w100) |[Walletto](/payment-providers/walletto/)|`walletto`| 
-|![paygames](https://static.openfintech.io/payment_providers/paygames/icon.png?w=278&c=v0.59.26#w100) |[PayGames](/payment-providers/paygames/)|`paygames`| 
+|![paygames](https://static.openfintech.io/payment_providers/paygames/icon.png?w=278&c=v0.59.26#w100) |[EasyPayGames](/payment-providers/paygames/)|`paygames`| 
 |![cashonex](https://static.openfintech.io/payment_providers/cashonex/icon.png?w=278&c=v0.59.26#w100) |[CashOneX](/payment-providers/cashonex/)|`cashonex`| 
 |![vanilapay](https://static.openfintech.io/payment_providers/vanilapay/icon.svg?w=278&c=v0.59.26#w100) |[VanilaPay](/payment-providers/vanilapay/)|`vanilapay`| 
 |![paytriot](https://static.openfintech.io/payment_providers/paytriot/icon.png?w=278&c=v0.59.26#w100) |[Paytriot](/payment-providers/paytriot/)|`paytriot`| 
@@ -547,6 +547,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![rampnow](https://static.openfintech.io/payment_providers/rampnow/icon.svg?w=278&c=v0.59.26#w100) |[Rampnow](/payment-providers/rampnow/)|`rampnow`| 
 |![hellopayment](https://static.openfintech.io/payment_providers/hellopayment/icon.png?w=278&c=v0.59.26#w100) |[HelloPayment](/payment-providers/hellopayment/)|`hellopayment`| 
 |![kitopay](https://static.openfintech.io/payment_providers/kitopay/icon.png?w=278&c=v0.59.26#w100) |[Kitopay](/payment-providers/kitopay/)|`kitopay`| 
+|![paymentspro](https://static.openfintech.io/payment_providers/paymentspro/icon.png?w=278&c=v0.59.26#w100) |[PaymentsPro](/payment-providers/paymentspro/)|`paymentspro`| 
  
 
 ## JSON Object 

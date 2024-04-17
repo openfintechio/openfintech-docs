@@ -1552,7 +1552,7 @@
 |![payfort](https://static.openfintech.io/vendors/payfort/logo.png?w=600&c=v0.59.26#w200) |[**PayFort**](payfort/)|`payfort`| 
 |![payforu](https://static.openfintech.io/vendors/payforu/logo.png?w=600&c=v0.59.26#w200) |[**PayForU**](payforu/)|`payforu`| 
 |![payfuture](https://static.openfintech.io/vendors/payfuture/logo.svg?w=600&c=v0.59.26#w200) |[**Payfuture**](payfuture/)|`payfuture`| 
-|![paygames](https://static.openfintech.io/vendors/paygames/logo.png?w=600&c=v0.59.26#w200) |[**PayGames**](paygames/)|`paygames`| 
+|![paygames](https://static.openfintech.io/vendors/paygames/logo.png?w=600&c=v0.59.26#w200) |[**EasyPayGames**](paygames/)|`paygames`| 
 |![paygarden](https://static.openfintech.io/vendors/paygarden/logo.png?w=600&c=v0.59.26#w200) |[**PayGarden**](paygarden/)|`paygarden`| 
 |![paygate](https://static.openfintech.io/vendors/paygate/logo.png?w=600&c=v0.59.26#w200) |[**PayGate**](paygate/)|`paygate`| 
 |![paygatecoltd](https://static.openfintech.io/vendors/paygatecoltd/logo.png?w=600&c=v0.59.26#w200) |[**PayGate Co. Ltd.**](paygatecoltd/)|`paygatecoltd`| 
@@ -1590,6 +1590,7 @@
 |![paymentone](https://static.openfintech.io/vendors/paymentone/logo.png?w=600&c=v0.59.26#w200) |[**PaymentOne**](paymentone/)|`paymentone`| 
 |![paymentoptions](https://static.openfintech.io/vendors/paymentoptions/logo.png?w=600&c=v0.59.26#w200) |[**Payment Options**](paymentoptions/)|`paymentoptions`| 
 |![paymentrush](https://static.openfintech.io/vendors/paymentrush/logo.svg?w=600&c=v0.59.26#w200) |[**Payment Rush**](paymentrush/)|`paymentrush`| 
+|![paymentspro](https://static.openfintech.io/vendors/paymentspro/logo.png?w=600&c=v0.59.26#w200) |[**PaymentsPro**](paymentspro/)|`paymentspro`| 
 |![paymentstrust](https://static.openfintech.io/vendors/paymentstrust/logo.svg?w=600&c=v0.59.26#w200) |[**Payments Trust**](paymentstrust/)|`paymentstrust`| 
 |![paymentus](https://static.openfintech.io/vendors/paymentus/logo.png?w=600&c=v0.59.26#w200) |[**Paymentus**](paymentus/)|`paymentus`| 
 |![paymentusa](https://static.openfintech.io/vendors/paymentusa/logo.png?w=600&c=v0.59.26#w200) |[**PaymentUSA**](paymentusa/)|`paymentusa`| 

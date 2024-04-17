@@ -162,6 +162,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![gcash](https://static.openfintech.io/payout_methods/gcash/icon.png?w=278&c=v0.59.26#w40) |[gcash](payout-methodsgcash/)|`gcash`| 
 |![easypaisa](https://static.openfintech.io/payout_methods/easypaisa/icon.png?w=278&c=v0.59.26#w40) |[easypaisa](payout-methodseasypaisa/)|`easypaisa`| 
 |![jazzcash](https://static.openfintech.io/payout_methods/jazzcash/icon.png?w=278&c=v0.59.26#w40) |[jazzcash](payout-methodsjazzcash/)|`jazzcash`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
  
 
 ## JSON Object 
@@ -290,7 +291,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "korea_foss_bank",
     "gcash",
     "easypaisa",
-    "jazzcash"
+    "jazzcash",
+    "bank_transfer"
   ],
   "metadata":null,
   "name":{
