@@ -837,6 +837,7 @@
 |![fzhitomirske_oblasne_atoshad_m_zhitomir](https://static.openfintech.io/vendors/fzhitomirske_oblasne_atoshad_m_zhitomir/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Житомирське обласне управлiння ПАТ 'Державний ощадний банк України'**](fzhitomirske_oblasne_atoshad_m_zhitomir/)|`fzhitomirske_oblasne_atoshad_m_zhitomir`| 
 || **G** ||
 |![g2apay](https://static.openfintech.io/vendors/g2apay/logo.png?w=600&c=v0.59.26#w200) |[**G2A PAY**](g2apay/)|`g2apay`| 
+|![gamespay](https://static.openfintech.io/vendors/gamespay/logo.svg?w=600&c=v0.59.26#w200) |[**PayGames**](gamespay/)|`gamespay`| 
 |![garantibank](https://static.openfintech.io/vendors/garantibank/logo.svg?w=600&c=v0.59.26#w200) |[**Garanti bank**](garantibank/)|`garantibank`| 
 |![gate](https://static.openfintech.io/vendors/gate/logo.svg?w=600&c=v0.59.26#w200) |[**Gate**](gate/)|`gate`| 
 |![gate2payments](https://static.openfintech.io/vendors/gate2payments/logo.png?w=600&c=v0.59.26#w200) |[**Gate2Payments **](gate2payments/)|`gate2payments`| 

@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Papara_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![appexmoney](https://static.openfintech.io/payment_providers/appexmoney/icon.svg?w=278&c=v0.59.26#w100) |[Appexmoney](/payment-providers/appexmoney/)|`appexmoney`| 
 |![jetonlp](https://static.openfintech.io/payment_providers/jetonlp/icon.png?w=278&c=v0.59.26#w100) |[JetonLP](/payment-providers/jetonlp/)|`jetonlp`| 
 |![paycos](https://static.openfintech.io/payment_providers/paycos/icon.svg?w=278&c=v0.59.26#w100) |[PAYCOS](/payment-providers/paycos/)|`paycos`| 
 |![maxpayment](https://static.openfintech.io/payment_providers/maxpayment/icon.svg?w=278&c=v0.59.26#w100) |[Maxpayment](/payment-providers/maxpayment/)|`maxpayment`| 

@@ -348,6 +348,7 @@
 |![futuritypay](https://static.openfintech.io/payment_providers/futuritypay/logo.png?w=600&c=v0.59.26#w100) |[**Futuritypay**](futuritypay/)|`futuritypay`| 
 || **G** ||
 |![g2apay](https://static.openfintech.io/payment_providers/g2apay/logo.png?w=600&c=v0.59.26#w100) |[**G2A PAY**](g2apay/)|`g2apay`| 
+|![gamespay](https://static.openfintech.io/payment_providers/gamespay/logo.svg?w=600&c=v0.59.26#w100) |[**PayGames**](gamespay/)|`gamespay`| 
 |![gate](https://static.openfintech.io/payment_providers/gate/logo.svg?w=600&c=v0.59.26#w100) |[**Gate**](gate/)|`gate`| 
 |![gate2payments](https://static.openfintech.io/payment_providers/gate2payments/logo.png?w=600&c=v0.59.26#w100) |[**Gate2Payments **](gate2payments/)|`gate2payments`| 
 |![gate2play](https://static.openfintech.io/payment_providers/gate2play/logo.png?w=600&c=v0.59.26#w100) |[**Gate2Play**](gate2play/)|`gate2play`| 

@@ -547,6 +547,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![kitopay](https://static.openfintech.io/payment_providers/kitopay/icon.png?w=278&c=v0.59.26#w100) |[Kitopay](/payment-providers/kitopay/)|`kitopay`| 
 |![paymentspro](https://static.openfintech.io/payment_providers/paymentspro/icon.png?w=278&c=v0.59.26#w100) |[PaymentsPro](/payment-providers/paymentspro/)|`paymentspro`| 
 |![pxpfinancial](https://static.openfintech.io/payment_providers/pxpfinancial/icon.png?w=278&c=v0.59.26#w100) |[PXP financial](/payment-providers/pxpfinancial/)|`pxpfinancial`| 
+|![gamespay](https://static.openfintech.io/payment_providers/gamespay/icon.svg?w=278&c=v0.59.26#w100) |[PayGames](/payment-providers/gamespay/)|`gamespay`| 
  
 
 ## JSON Object 
