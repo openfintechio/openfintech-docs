@@ -548,6 +548,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![hellopayment](https://static.openfintech.io/payment_providers/hellopayment/icon.png?w=278&c=v0.59.26#w100) |[HelloPayment](/payment-providers/hellopayment/)|`hellopayment`| 
 |![kitopay](https://static.openfintech.io/payment_providers/kitopay/icon.png?w=278&c=v0.59.26#w100) |[Kitopay](/payment-providers/kitopay/)|`kitopay`| 
 |![paymentspro](https://static.openfintech.io/payment_providers/paymentspro/icon.png?w=278&c=v0.59.26#w100) |[PaymentsPro](/payment-providers/paymentspro/)|`paymentspro`| 
+|![pxpfinancial](https://static.openfintech.io/payment_providers/pxpfinancial/icon.png?w=278&c=v0.59.26#w100) |[PXP financial](/payment-providers/pxpfinancial/)|`pxpfinancial`| 
  
 
 ## JSON Object 

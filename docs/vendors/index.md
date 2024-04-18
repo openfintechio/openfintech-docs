@@ -1772,6 +1772,7 @@
 |![puat_smartbank](https://static.openfintech.io/vendors/puat_smartbank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'СМАРТБАНК'**](puat_smartbank/)|`puat_smartbank`| 
 |![pumb](https://static.openfintech.io/vendors/pumb/logo.svg?w=600&c=v0.59.26#w200) |[**The First Ukrainian International Bank**](pumb/)|`pumb`| 
 |![purebilling](https://static.openfintech.io/vendors/purebilling/logo.png?w=600&c=v0.59.26#w200) |[**purebilling.com**](purebilling/)|`purebilling`| 
+|![pxpfinancial](https://static.openfintech.io/vendors/pxpfinancial/logo.png?w=600&c=v0.59.26#w200) |[**PXP financial**](pxpfinancial/)|`pxpfinancial`| 
 |![pylon](https://static.openfintech.io/vendors/pylon/logo.svg?w=600&c=v0.59.26#w200) |[**Pylon**](pylon/)|`pylon`| 
 || **Q** ||
 |![qantani](https://static.openfintech.io/vendors/qantani/logo.png?w=600&c=v0.59.26#w200) |[**Qantani**](qantani/)|`qantani`| 

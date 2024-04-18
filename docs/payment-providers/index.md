@@ -766,6 +766,7 @@
 |![pspgate](https://static.openfintech.io/payment_providers/pspgate/logo.png?w=600&c=v0.59.26#w100) |[**PSPGate**](pspgate/)|`pspgate`| 
 |![pumb](https://static.openfintech.io/payment_providers/pumb/logo.svg?w=600&c=v0.59.26#w100) |[**The First Ukrainian International Bank**](pumb/)|`pumb`| 
 |![purebilling](https://static.openfintech.io/payment_providers/purebilling/logo.png?w=600&c=v0.59.26#w100) |[**purebilling.com**](purebilling/)|`purebilling`| 
+|![pxpfinancial](https://static.openfintech.io/payment_providers/pxpfinancial/logo.png?w=600&c=v0.59.26#w100) |[**PXP financial**](pxpfinancial/)|`pxpfinancial`| 
 |![pylon](https://static.openfintech.io/payment_providers/pylon/logo.svg?w=600&c=v0.59.26#w100) |[**Pylon**](pylon/)|`pylon`| 
 || **Q** ||
 |![qantani](https://static.openfintech.io/payment_providers/qantani/logo.png?w=600&c=v0.59.26#w100) |[**Qantani**](qantani/)|`qantani`| 
