@@ -1167,6 +1167,10 @@
 |![Siam Commercial Bank](https://static.openfintech.io/payment_methods/siam_commercial_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Siam Commercial Bank**](/payment-methods/siam_commercial_bank/)|[`siam_commercial_bank_vnd_hpp`](siam_commercial_bank_vnd_hpp/)| 
 |![SIBS MBWay](https://static.openfintech.io/payment_methods/sibs_mbway/logo.svg?w=400&c=v0.59.26#w200) |[**SIBS MBWay**](/payment-methods/sibs_mbway/)|[`sibs_mbway_eur_hpp`](sibs_mbway_eur_hpp/)| 
 |![Bank Sinarmas](https://static.openfintech.io/payment_methods/sinar_mas_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Sinarmas**](/payment-methods/sinar_mas_bank/)|[`sinar_mas_bank_idr_hpp`](sinar_mas_bank_idr_hpp/)| 
+|![Siru Mobile](https://static.openfintech.io/payment_methods/siru_mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Siru Mobile**](/payment-methods/siru_mobile/)|[`siru_mobile_eur_hpp`](siru_mobile_eur_hpp/)| 
+|![Siru Mobile](https://static.openfintech.io/payment_methods/siru_mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Siru Mobile**](/payment-methods/siru_mobile/)|[`siru_mobile_gbp_hpp`](siru_mobile_gbp_hpp/)| 
+|![Siru Mobile](https://static.openfintech.io/payment_methods/siru_mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Siru Mobile**](/payment-methods/siru_mobile/)|[`siru_mobile_nok_hpp`](siru_mobile_nok_hpp/)| 
+|![Siru Mobile](https://static.openfintech.io/payment_methods/siru_mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Siru Mobile**](/payment-methods/siru_mobile/)|[`siru_mobile_sek_hpp`](siru_mobile_sek_hpp/)| 
 |![Skrill Wallet](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](/payment-methods/skrill/)|[`skrill_aed_hpp`](skrill_aed_hpp/)| 
 |![Skrill Wallet](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](/payment-methods/skrill/)|[`skrill_aud_hpp`](skrill_aud_hpp/)| 
 |![Skrill Wallet](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](/payment-methods/skrill/)|[`skrill_bdt_hpp`](skrill_bdt_hpp/)| 

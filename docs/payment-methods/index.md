@@ -720,6 +720,7 @@
 |![siam_commercial_bank](https://static.openfintech.io/payment_methods/siam_commercial_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Siam Commercial Bank**](siam_commercial_bank/)|`siam_commercial_bank`| 
 |![sibs_mbway](https://static.openfintech.io/payment_methods/sibs_mbway/logo.svg?w=400&c=v0.59.26#w200) |[**SIBS MBWay**](sibs_mbway/)|`sibs_mbway`| 
 |![sinar_mas_bank](https://static.openfintech.io/payment_methods/sinar_mas_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Sinarmas**](sinar_mas_bank/)|`sinar_mas_bank`| 
+|![siru_mobile](https://static.openfintech.io/payment_methods/siru_mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Siru Mobile**](siru_mobile/)|`siru_mobile`| 
 |![skandiabanken](https://static.openfintech.io/payment_methods/skandiabanken/logo.png?w=400&c=v0.59.26#w200) |[**Skandiabanken**](skandiabanken/)|`skandiabanken`| 
 |![skrill](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](skrill/)|`skrill`| 
 |![slovenskasporitelna](https://static.openfintech.io/payment_methods/slovenskasporitelna/logo.png?w=400&c=v0.59.26#w200) |[**Slovenská Sporitelña**](slovenskasporitelna/)|`slovenskasporitelna`| 
