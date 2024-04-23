@@ -1182,6 +1182,7 @@
 |![mercuryo](https://static.openfintech.io/vendors/mercuryo/logo.svg?w=600&c=v0.59.26#w200) |[**Mercuryo**](mercuryo/)|`mercuryo`| 
 |![meritz_bank](https://static.openfintech.io/vendors/meritz_bank/logo.png?w=600&c=v0.59.26#w200) |[**Meritz Securities Co. Ltd**](meritz_bank/)|`meritz_bank`| 
 |![metro_bank](https://static.openfintech.io/vendors/metro_bank/logo.png?w=600&c=v0.59.26#w200) |[**Metrobank**](metro_bank/)|`metro_bank`| 
+|![mfstream](https://static.openfintech.io/vendors/mfstream/logo.png?w=600&c=v0.59.26#w200) |[**MF Stream**](mfstream/)|`mfstream`| 
 |![michinoku_bank](https://static.openfintech.io/vendors/michinoku_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Michinoku Bank**](michinoku_bank/)|`michinoku_bank`| 
 |![micropaymentgmbh](https://static.openfintech.io/vendors/micropaymentgmbh/logo.png?w=600&c=v0.59.26#w200) |[**micropayment™ GmbH**](micropaymentgmbh/)|`micropaymentgmbh`| 
 |![micropayments](https://static.openfintech.io/vendors/micropayments/logo.svg?w=600&c=v0.59.26#w200) |[**MicroPayments**](micropayments/)|`micropayments`| 

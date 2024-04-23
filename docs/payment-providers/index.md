@@ -490,6 +490,7 @@
 |![meikopay](https://static.openfintech.io/payment_providers/meikopay/logo.png?w=600&c=v0.59.26#w100) |[**Meikopay**](meikopay/)|`meikopay`| 
 |![merchantscout](https://static.openfintech.io/payment_providers/merchantscout/logo.png?w=600&c=v0.59.26#w100) |[**MerchantScout**](merchantscout/)|`merchantscout`| 
 |![mercuryo](https://static.openfintech.io/payment_providers/mercuryo/logo.svg?w=600&c=v0.59.26#w100) |[**Mercuryo**](mercuryo/)|`mercuryo`| 
+|![mfstream](https://static.openfintech.io/payment_providers/mfstream/logo.png?w=600&c=v0.59.26#w100) |[**MF Stream**](mfstream/)|`mfstream`| 
 |![micropaymentgmbh](https://static.openfintech.io/payment_providers/micropaymentgmbh/logo.png?w=600&c=v0.59.26#w100) |[**micropayment™ GmbH**](micropaymentgmbh/)|`micropaymentgmbh`| 
 |![micropayments](https://static.openfintech.io/payment_providers/micropayments/logo.svg?w=600&c=v0.59.26#w100) |[**MicroPayments**](micropayments/)|`micropayments`| 
 |![mids](https://static.openfintech.io/payment_providers/mids/logo.png?w=600&c=v0.59.26#w100) |[**MIDs**](mids/)|`mids`| 

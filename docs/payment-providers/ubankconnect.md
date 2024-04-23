@@ -85,6 +85,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![momopay](https://static.openfintech.io/payment_methods/momopay/icon.png?w=278&c=v0.59.26#w100) |[momopay](/payment-methods/momopay/)|`momopay`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
 |![payzapp](https://static.openfintech.io/payment_methods/payzapp/icon.png?w=278&c=v0.59.26#w100) |[payzapp](/payment-methods/payzapp/)|`payzapp`| 
+|![maya](https://static.openfintech.io/payment_methods/maya/icon.svg?w=278&c=v0.59.26#w100) |[maya](/payment-methods/maya/)|`maya`| 
+|![gcash](https://static.openfintech.io/payment_methods/gcash/icon.png?w=278&c=v0.59.26#w100) |[gcash](/payment-methods/gcash/)|`gcash`| 
  
 
 ## Payout Methods 
@@ -220,7 +222,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "gopay",
     "momopay",
     "bank_transfer",
-    "payzapp"
+    "payzapp",
+    "maya",
+    "gcash"
   ],
   "payout_method":[
     "imps",
