@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`account_id`|✔|`string`|`/^[0-9a-fA-F]{8}-(?:[0-9a-fA-F]{4}-){3}[0-9a-fA-F]{12}$/`| 
+|`account_id`|✔|`string`|`/^kunaid-(.{1,36})$/`| 
  
 
 ### Details 
@@ -33,7 +33,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9a-fA-F]{8}-(?:[0-9a-fA-F]{4}-){3}[0-9a-fA-F]{12}$/` 
+	Regexp: `/^kunaid-(.{1,36})$/` 
  
 	Required: `1` 
  
@@ -59,7 +59,7 @@
     {
       "key":"account_id",
       "type":"string",
-      "regexp":"\/^[0-9a-fA-F]{8}-(?:[0-9a-fA-F]{4}-){3}[0-9a-fA-F]{12}$\/",
+      "regexp":"\/^kunaid-(.{1,36})$\/",
       "required":true,
       "position":1,
       "label":{

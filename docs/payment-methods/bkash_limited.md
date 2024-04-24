@@ -49,6 +49,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bkash Lim
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
 |![payport](https://static.openfintech.io/payment_providers/payport/icon.svg?w=278&c=v0.59.26#w100) |[PayPort](/payment-providers/payport/)|`payport`| 
 |![wellxpay](https://static.openfintech.io/payment_providers/wellxpay/icon.png?w=278&c=v0.59.26#w100) |[WellxPay](/payment-providers/wellxpay/)|`wellxpay`| 
+|![bkash](https://static.openfintech.io/payment_providers/bkash/icon.png?w=278&c=v0.59.26#w100) |[Bkash](/payment-providers/bkash/)|`bkash`| 
  
 
 ## JSON Object 

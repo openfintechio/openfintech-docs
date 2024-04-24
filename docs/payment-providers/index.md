@@ -115,6 +115,7 @@
 |![bitpay](https://static.openfintech.io/payment_providers/bitpay/logo.svg?w=600&c=v0.59.26#w100) |[**BitPay**](bitpay/)|`bitpay`| 
 |![bitso](https://static.openfintech.io/payment_providers/bitso/logo.svg?w=600&c=v0.59.26#w100) |[**Bitso**](bitso/)|`bitso`| 
 |![bizon](https://static.openfintech.io/payment_providers/bizon/logo.png?w=600&c=v0.59.26#w100) |[**Bizon**](bizon/)|`bizon`| 
+|![bkash](https://static.openfintech.io/payment_providers/bkash/logo.png?w=600&c=v0.59.26#w100) |[**Bkash**](bkash/)|`bkash`| 
 |![blablapay](https://static.openfintech.io/payment_providers/blablapay/logo.svg?w=600&c=v0.59.26#w100) |[**BlaBlaPay**](blablapay/)|`blablapay`| 
 |![blackrabbit](https://static.openfintech.io/payment_providers/blackrabbit/logo.png?w=600&c=v0.59.26#w100) |[**BlackRabbit**](blackrabbit/)|`blackrabbit`| 
 |![bluepaid](https://static.openfintech.io/payment_providers/bluepaid/logo.png?w=600&c=v0.59.26#w100) |[**BLUE PAID**](bluepaid/)|`bluepaid`| 
