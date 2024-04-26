@@ -552,6 +552,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![pxpfinancial](https://static.openfintech.io/payment_providers/pxpfinancial/icon.png?w=278&c=v0.59.26#w100) |[PXP financial](/payment-providers/pxpfinancial/)|`pxpfinancial`| 
 |![gamespay](https://static.openfintech.io/payment_providers/gamespay/icon.svg?w=278&c=v0.59.26#w100) |[PayGames](/payment-providers/gamespay/)|`gamespay`| 
 |![mfstream](https://static.openfintech.io/payment_providers/mfstream/icon.png?w=278&c=v0.59.26#w100) |[MF Stream](/payment-providers/mfstream/)|`mfstream`| 
+|![winteca](https://static.openfintech.io/payment_providers/winteca/icon.png?w=278&c=v0.59.26#w100) |[Winteca](/payment-providers/winteca/)|`winteca`| 
  
 
 ## JSON Object 

@@ -2243,6 +2243,7 @@
 |![whitepay](https://static.openfintech.io/vendors/whitepay/logo.svg?w=600&c=v0.59.26#w200) |[**Whitepay**](whitepay/)|`whitepay`| 
 |![wing_bank_cambodia](https://static.openfintech.io/vendors/wing_bank_cambodia/logo.svg?w=600&c=v0.59.26#w200) |[**Wing Bank**](wing_bank_cambodia/)|`wing_bank_cambodia`| 
 |![winpay](https://static.openfintech.io/vendors/winpay/logo.svg?w=600&c=v0.59.26#w200) |[**Global Financial Innovations**](winpay/)|`winpay`| 
+|![winteca](https://static.openfintech.io/vendors/winteca/logo.png?w=600&c=v0.59.26#w200) |[**Winteca**](winteca/)|`winteca`| 
 |![wire2pay](https://static.openfintech.io/vendors/wire2pay/logo.svg?w=600&c=v0.59.26#w200) |[**Wire2Pay**](wire2pay/)|`wire2pay`| 
 |![wire_perevod](https://static.openfintech.io/vendors/wire_perevod/logo.svg?w=600&c=v0.59.26#w200) |[**Wire-перевод**](wire_perevod/)|`wire_perevod`| 
 |![wirecapital](https://static.openfintech.io/vendors/wirecapital/logo.svg?w=600&c=v0.59.26#w200) |[**Wirecapital**](wirecapital/)|`wirecapital`| 
