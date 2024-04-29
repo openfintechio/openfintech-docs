@@ -611,6 +611,22 @@ The list of supported [Payout Methods](/payout-methods/)
 |![paybol](https://static.openfintech.io/payout_methods/paybol/icon.svg?w=278&c=v0.59.26#w40) |[paybol](payout-methodspaybol/)|`paybol`| 
 |![nova_bank](https://static.openfintech.io/payout_methods/nova_bank/icon.svg?w=278&c=v0.59.26#w40) |[nova_bank](payout-methodsnova_bank/)|`nova_bank`| 
 |![bidvest_bank](https://static.openfintech.io/payout_methods/bidvest_bank/icon.svg?w=278&c=v0.59.26#w40) |[bidvest_bank](payout-methodsbidvest_bank/)|`bidvest_bank`| 
+|![coronation_merchant_bank](https://static.openfintech.io/payout_methods/coronation_merchant_bank/icon.svg?w=278&c=v0.59.26#w40) |[coronation_merchant_bank](payout-methodscoronation_merchant_bank/)|`coronation_merchant_bank`| 
+|![enterprise_bank_limited](https://static.openfintech.io/payout_methods/enterprise_bank_limited/icon.png?w=278&c=v0.59.26#w40) |[enterprise_bank_limited](payout-methodsenterprise_bank_limited/)|`enterprise_bank_limited`| 
+|![etranzact](https://static.openfintech.io/payout_methods/etranzact/icon.svg?w=278&c=v0.59.26#w40) |[etranzact](payout-methodsetranzact/)|`etranzact`| 
+|![fsdh_merchant_bank](https://static.openfintech.io/payout_methods/fsdh_merchant_bank/icon.svg?w=278&c=v0.59.26#w40) |[fsdh_merchant_bank](payout-methodsfsdh_merchant_bank/)|`fsdh_merchant_bank`| 
+|![heritage_bank](https://static.openfintech.io/payout_methods/heritage_bank/icon.svg?w=278&c=v0.59.26#w40) |[heritage_bank](payout-methodsheritage_bank/)|`heritage_bank`| 
+|![jaiz_bank](https://static.openfintech.io/payout_methods/jaiz_bank/icon.svg?w=278&c=v0.59.26#w40) |[jaiz_bank](payout-methodsjaiz_bank/)|`jaiz_bank`| 
+|![keystone_bank](https://static.openfintech.io/payout_methods/keystone_bank/icon.svg?w=278&c=v0.59.26#w40) |[keystone_bank](payout-methodskeystone_bank/)|`keystone_bank`| 
+|![npfmicrofinance_bank](https://static.openfintech.io/payout_methods/npfmicrofinance_bank/icon.png?w=278&c=v0.59.26#w40) |[npfmicrofinance_bank](payout-methodsnpfmicrofinance_bank/)|`npfmicrofinance_bank`| 
+|![safetrust_mortgage_bank](https://static.openfintech.io/payout_methods/safetrust_mortgage_bank/icon.svg?w=278&c=v0.59.26#w40) |[safetrust_mortgage_bank](payout-methodssafetrust_mortgage_bank/)|`safetrust_mortgage_bank`| 
+|![standard_chartered_bank](https://static.openfintech.io/payout_methods/standard_chartered_bank/icon.svg?w=278&c=v0.59.26#w40) |[standard_chartered_bank](payout-methodsstandard_chartered_bank/)|`standard_chartered_bank`| 
+|![sterling_bank](https://static.openfintech.io/payout_methods/sterling_bank/icon.png?w=278&c=v0.59.26#w40) |[sterling_bank](payout-methodssterling_bank/)|`sterling_bank`| 
+|![union_bankof_nigeria](https://static.openfintech.io/payout_methods/union_bankof_nigeria/icon.svg?w=278&c=v0.59.26#w40) |[union_bankof_nigeria](payout-methodsunion_bankof_nigeria/)|`union_bankof_nigeria`| 
+|![united_bankfor_africa](https://static.openfintech.io/payout_methods/united_bankfor_africa/icon.svg?w=278&c=v0.59.26#w40) |[united_bankfor_africa](payout-methodsunited_bankfor_africa/)|`united_bankfor_africa`| 
+|![unity_bank](https://static.openfintech.io/payout_methods/unity_bank/icon.svg?w=278&c=v0.59.26#w40) |[unity_bank](payout-methodsunity_bank/)|`unity_bank`| 
+|![wema_bank](https://static.openfintech.io/payout_methods/wema_bank/icon.svg?w=278&c=v0.59.26#w40) |[wema_bank](payout-methodswema_bank/)|`wema_bank`| 
+|![zenith_bank](https://static.openfintech.io/payout_methods/zenith_bank/icon.svg?w=278&c=v0.59.26#w40) |[zenith_bank](payout-methodszenith_bank/)|`zenith_bank`| 
  
 
 ## JSON Object 
@@ -1188,7 +1204,23 @@ The list of supported [Payout Methods](/payout-methods/)
     "african_bank",
     "paybol",
     "nova_bank",
-    "bidvest_bank"
+    "bidvest_bank",
+    "coronation_merchant_bank",
+    "enterprise_bank_limited",
+    "etranzact",
+    "fsdh_merchant_bank",
+    "heritage_bank",
+    "jaiz_bank",
+    "keystone_bank",
+    "npfmicrofinance_bank",
+    "safetrust_mortgage_bank",
+    "standard_chartered_bank",
+    "sterling_bank",
+    "union_bankof_nigeria",
+    "united_bankfor_africa",
+    "unity_bank",
+    "wema_bank",
+    "zenith_bank"
   ],
   "metadata":null,
   "name":{

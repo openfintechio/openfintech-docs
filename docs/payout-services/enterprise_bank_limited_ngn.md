@@ -1,20 +1,22 @@
 
-# Jaiz Bank (service) 
-![jaiz_bank_ngn](https://static.openfintech.io/payout_methods/jaiz_bank_ngn/logo.svg?w=400&c=v0.59.26#w24)  
+# Enterprise Bank Limited (service) 
+![enterprise_bank_limited_ngn](https://static.openfintech.io/payout_methods/enterprise_bank_limited_ngn/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
  
-**Code:** `jaiz_bank_ngn` 
+**Code:** `enterprise_bank_limited_ngn` 
  
-**Method:** `jaiz_bank` [show -->](/payout-methods/jaiz_bank/) 
+**Method:** `enterprise_bank_limited` [show -->](/payout-methods/enterprise_bank_limited/) 
  
 **Currency:** `NGN` [show -->](/currencies/NGN/) 
  
 **Name:** 
  
-:	[EN] Jaiz Bank 
+:	[EN] Enterprise Bank Limited 
+:	[RU] Enterprise Bank Limited 
+:	[UK] Enterprise Bank Limited 
  
-**Amount limits:** from `1` to `10000000` NGN 
+**Amount limits:** from `133` to `133791000` NGN 
 
 ## Fields 
 
@@ -88,8 +90,8 @@
 
 ```json
 {
-  "code":"jaiz_bank_ngn",
-  "method":"jaiz_bank",
+  "code":"enterprise_bank_limited_ngn",
+  "method":"enterprise_bank_limited",
   "currency":"NGN",
   "fields":[
     {
@@ -146,7 +148,7 @@
       "example":"Doe"
     }
   ],
-  "amount_min":1,
-  "amount_max":10000000
+  "amount_min":133,
+  "amount_max":133791000
 }
 ```  
