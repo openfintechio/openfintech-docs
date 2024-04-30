@@ -1250,6 +1250,7 @@
 |![mypaywizard](https://static.openfintech.io/vendors/mypaywizard/logo.png?w=600&c=v0.59.26#w200) |[**MyPayWizard**](mypaywizard/)|`mypaywizard`| 
 || **N** ||
 |![nacionalnij_bank_ukrayini](https://static.openfintech.io/vendors/nacionalnij_bank_ukrayini/logo.svg?w=600&c=v0.59.26#w200) |[**Національний банк України**](nacionalnij_bank_ukrayini/)|`nacionalnij_bank_ukrayini`| 
+|![nagad](https://static.openfintech.io/vendors/nagad/logo.png?w=600&c=v0.59.26#w200) |[**Nagad**](nagad/)|`nagad`| 
 |![nagano_bank](https://static.openfintech.io/vendors/nagano_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Nagano Bank**](nagano_bank/)|`nagano_bank`| 
 |![nagasaki_bank](https://static.openfintech.io/vendors/nagasaki_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Nagasaki Bank**](nagasaki_bank/)|`nagasaki_bank`| 
 |![nagoya_bank](https://static.openfintech.io/vendors/nagoya_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Bank of Nagoya**](nagoya_bank/)|`nagoya_bank`| 
@@ -1602,6 +1603,7 @@
 |![paymer](https://static.openfintech.io/vendors/paymer/logo.svg?w=600&c=v0.59.26#w200) |[**Paymer**](paymer/)|`paymer`| 
 |![paymill](https://static.openfintech.io/vendors/paymill/logo.png?w=600&c=v0.59.26#w200) |[**PAYMILL**](paymill/)|`paymill`| 
 |![paymob](https://static.openfintech.io/vendors/paymob/logo.png?w=600&c=v0.59.26#w200) |[**Paymob**](paymob/)|`paymob`| 
+|![paymomentum](https://static.openfintech.io/vendors/paymomentum/logo.png?w=600&c=v0.59.26#w200) |[**Pay Momentum**](paymomentum/)|`paymomentum`| 
 |![paymtech](https://static.openfintech.io/vendors/paymtech/logo.svg?w=600&c=v0.59.26#w200) |[**Paymtech**](paymtech/)|`paymtech`| 
 |![paymundo](https://static.openfintech.io/vendors/paymundo/logo.png?w=600&c=v0.59.26#w200) |[**Paymundo**](paymundo/)|`paymundo`| 
 |![paynearme](https://static.openfintech.io/vendors/paynearme/logo.png?w=600&c=v0.59.26#w200) |[**PayNearMe**](paynearme/)|`paynearme`| 

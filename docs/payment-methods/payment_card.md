@@ -363,6 +363,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![cards2cards](https://static.openfintech.io/payment_providers/cards2cards/icon.svg?w=278&c=v0.59.26#w100) |[cards2cards](/payment-providers/cards2cards/)|`cards2cards`| 
 |![connpay](https://static.openfintech.io/payment_providers/connpay/icon.png?w=278&c=v0.59.26#w100) |[ConnPay](/payment-providers/connpay/)|`connpay`| 
 |![inqud](https://static.openfintech.io/payment_providers/inqud/icon.svg?w=278&c=v0.59.26#w100) |[Inqud](/payment-providers/inqud/)|`inqud`| 
+|![paymomentum](https://static.openfintech.io/payment_providers/paymomentum/icon.png?w=278&c=v0.59.26#w100) |[Pay Momentum](/payment-providers/paymomentum/)|`paymomentum`| 
 |![paysoftsolutions](https://static.openfintech.io/payment_providers/paysoftsolutions/icon.png?w=278&c=v0.59.26#w100) |[PaySoft Solutions](/payment-providers/paysoftsolutions/)|`paysoftsolutions`| 
 |![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
 |![pandigitalnetwork](https://static.openfintech.io/payment_providers/pandigitalnetwork/icon.png?w=278&c=v0.59.26#w100) |[Pan Digital Network](/payment-providers/pandigitalnetwork/)|`pandigitalnetwork`| 
