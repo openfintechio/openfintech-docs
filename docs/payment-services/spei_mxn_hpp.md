@@ -26,7 +26,7 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`cpf_number`|✗|`string`|`/^[0-9\.\-]{1,11}$/`| 
-|`phone`|✗|`string`|`/^\+\d{10,14}$/`| 
+|`phone`|✗|`string`|`/^\+?\d{10,14}$/`| 
 |`email`|✗|`string`|`/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$$/`| 
 |`payer_first_name`|✗|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
 |`payer_last_name`|✗|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
@@ -56,7 +56,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^\+\d{10,14}$/` 
+	Regexp: `/^\+?\d{10,14}$/` 
  
 	Required: `` 
  
@@ -155,7 +155,7 @@
     {
       "key":"phone",
       "type":"string",
-      "regexp":"\/^\\+\\d{10,14}$\/",
+      "regexp":"\/^\\+?\\d{10,14}$\/",
       "required":false,
       "position":2,
       "example":"+255742044295",
