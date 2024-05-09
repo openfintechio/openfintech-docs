@@ -45,7 +45,7 @@
 |`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
 |`beneficiary_phone`|✗|`string`|`/^(\+?91)?\d{10}$/`| 
 |`ifsc`|✗|`string`|`/^[A-Za-z0-9]{11}$/`| 
-|`bank_branch_code`|✗|`string`|`/^[0-9]{2,100}$/`| 
+|`bank_branch_code`|✗|`string`|`/^[A-Za-z0-9]{2,100}$/`| 
  
 
 ### Details 
@@ -432,7 +432,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9]{2,100}$/` 
+	Regexp: `/^[A-Za-z0-9]{2,100}$/` 
  
 	Required: `` 
  
@@ -817,7 +817,7 @@
     {
       "key":"bank_branch_code",
       "type":"string",
-      "regexp":"\/^[0-9]{2,100}$\/",
+      "regexp":"\/^[A-Za-z0-9]{2,100}$\/",
       "required":false,
       "position":22,
       "label":{
@@ -830,7 +830,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Bank Branch Code",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Bank Branch Code"
       },
-      "example":"626"
+      "example":"A6A2B6"
     }
   ],
   "amount_min":"0.01",
