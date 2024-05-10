@@ -49,22 +49,6 @@ The list of supported [Payout Methods](/payout-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![otp_bank](https://static.openfintech.io/payout_methods/otp_bank/icon.svg?w=278&c=v0.59.26#w40) |[otp_bank](payout-methodsotp_bank/)|`otp_bank`| 
-|![creditagricole_bank](https://static.openfintech.io/payout_methods/creditagricole_bank/icon.svg?w=278&c=v0.59.26#w40) |[creditagricole_bank](payout-methodscreditagricole_bank/)|`creditagricole_bank`| 
-|![creditdnipro_bank](https://static.openfintech.io/payout_methods/creditdnipro_bank/icon.svg?w=278&c=v0.59.26#w40) |[creditdnipro_bank](payout-methodscreditdnipro_bank/)|`creditdnipro_bank`| 
-|![vlasnyirakhunok_bank](https://static.openfintech.io/payout_methods/vlasnyirakhunok_bank/icon.svg?w=278&c=v0.59.26#w40) |[vlasnyirakhunok_bank](payout-methodsvlasnyirakhunok_bank/)|`vlasnyirakhunok_bank`| 
-|![izi_bank](https://static.openfintech.io/payout_methods/izi_bank/icon.svg?w=278&c=v0.59.26#w40) |[izi_bank](payout-methodsizi_bank/)|`izi_bank`| 
-|![pumb_bank](https://static.openfintech.io/payout_methods/pumb_bank/icon.svg?w=278&c=v0.59.26#w40) |[pumb_bank](payout-methodspumb_bank/)|`pumb_bank`| 
-|![abank](https://static.openfintech.io/payout_methods/abank/icon.svg?w=278&c=v0.59.26#w40) |[abank](payout-methodsabank/)|`abank`| 
-|![mono_bank](https://static.openfintech.io/payout_methods/mono_bank/icon.svg?w=278&c=v0.59.26#w40) |[mono_bank](payout-methodsmono_bank/)|`mono_bank`| 
-|![centercredit_bank](https://static.openfintech.io/payout_methods/centercredit_bank/icon.svg?w=278&c=v0.59.26#w40) |[centercredit_bank](payout-methodscentercredit_bank/)|`centercredit_bank`| 
-|![forte_bank](https://static.openfintech.io/payout_methods/forte_bank/icon.svg?w=278&c=v0.59.26#w40) |[forte_bank](payout-methodsforte_bank/)|`forte_bank`| 
-|![altyn_bank](https://static.openfintech.io/payout_methods/altyn_bank/icon.svg?w=278&c=v0.59.26#w40) |[altyn_bank](payout-methodsaltyn_bank/)|`altyn_bank`| 
-|![halyk_bank](https://static.openfintech.io/payout_methods/halyk_bank/icon.svg?w=278&c=v0.59.26#w40) |[halyk_bank](payout-methodshalyk_bank/)|`halyk_bank`| 
-|![jusan_bank](https://static.openfintech.io/payout_methods/jusan_bank/icon.svg?w=278&c=v0.59.26#w40) |[jusan_bank](payout-methodsjusan_bank/)|`jusan_bank`| 
-|![kaspi_bank](https://static.openfintech.io/payout_methods/kaspi_bank/icon.svg?w=278&c=v0.59.26#w40) |[kaspi_bank](payout-methodskaspi_bank/)|`kaspi_bank`| 
-|![tinkoff_bank](https://static.openfintech.io/payout_methods/tinkoff_bank/icon.svg?w=278&c=v0.59.26#w40) |[tinkoff_bank](payout-methodstinkoff_bank/)|`tinkoff_bank`| 
-|![sberbank](https://static.openfintech.io/payout_methods/sberbank/icon.svg?w=278&c=v0.59.26#w40) |[sberbank](payout-methodssberbank/)|`sberbank`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
  
 
@@ -82,22 +66,6 @@ The list of supported [Payout Methods](/payout-methods/)
     "sbp"
   ],
   "payout_method":[
-    "otp_bank",
-    "creditagricole_bank",
-    "creditdnipro_bank",
-    "vlasnyirakhunok_bank",
-    "izi_bank",
-    "pumb_bank",
-    "abank",
-    "mono_bank",
-    "centercredit_bank",
-    "forte_bank",
-    "altyn_bank",
-    "halyk_bank",
-    "jusan_bank",
-    "kaspi_bank",
-    "tinkoff_bank",
-    "sberbank",
     "payment_card"
   ],
   "metadata":null,
