@@ -1369,6 +1369,7 @@
 |![osuuspankki](https://static.openfintech.io/vendors/osuuspankki/logo.png?w=600&c=v0.59.26#w200) |[**Osuuspankki**](osuuspankki/)|`osuuspankki`| 
 |![otp_bank](https://static.openfintech.io/vendors/otp_bank/logo.svg?w=600&c=v0.59.26#w200) |[**OTP банк**](otp_bank/)|`otp_bank`| 
 |![otpbank](https://static.openfintech.io/vendors/otpbank/logo.png?w=600&c=v0.59.26#w200) |[**OTP Bank**](otpbank/)|`otpbank`| 
+|![overpay](https://static.openfintech.io/vendors/overpay/logo.svg?w=600&c=v0.59.26#w200) |[**Overpay**](overpay/)|`overpay`| 
 |![oxxo](https://static.openfintech.io/vendors/oxxo/logo.svg?w=600&c=v0.59.26#w200) |[**Oxxo**](oxxo/)|`oxxo`| 
 || **P** ||
 |![p2pchange.is](https://static.openfintech.io/vendors/p2pchange.is/logo.svg?w=600&c=v0.59.26#w200) |[**P2PChange**](p2pchange.is/)|`p2pchange.is`| 
