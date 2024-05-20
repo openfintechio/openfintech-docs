@@ -16,7 +16,7 @@
 :	[RU] Perfect Money 
 :	[UK] Perfect Money 
  
-**Amount limits:** from `0.01` to `10000` USD 
+**Amount limits:** from `0.01` to `100000` USD 
 
 ## Fields 
 
@@ -75,6 +75,6 @@
     }
   ],
   "amount_min":"0.01",
-  "amount_max":"10000"
+  "amount_max":"100000"
 }
 ```  

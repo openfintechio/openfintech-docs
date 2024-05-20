@@ -302,6 +302,7 @@
 |![epoch](https://static.openfintech.io/payment_providers/epoch/logo.png?w=600&c=v0.59.26#w100) |[**Epoch**](epoch/)|`epoch`| 
 |![epro](https://static.openfintech.io/payment_providers/epro/logo.svg?w=600&c=v0.59.26#w100) |[**E-PRO**](epro/)|`epro`| 
 |![escalion](https://static.openfintech.io/payment_providers/escalion/logo.png?w=600&c=v0.59.26#w100) |[**Escalion**](escalion/)|`escalion`| 
+|![espertopay](https://static.openfintech.io/payment_providers/espertopay/logo.png?w=600&c=v0.59.26#w100) |[**EspertoPay**](espertopay/)|`espertopay`| 
 |![eupaymentz](https://static.openfintech.io/payment_providers/eupaymentz/logo.png?w=600&c=v0.59.26#w100) |[**EUPaymentz**](eupaymentz/)|`eupaymentz`| 
 |![europabank](https://static.openfintech.io/payment_providers/europabank/logo.png?w=600&c=v0.59.26#w100) |[**Europabank**](europabank/)|`europabank`| 
 |![europayment](https://static.openfintech.io/payment_providers/europayment/logo.png?w=600&c=v0.59.26#w100) |[**Euro Payment Group**](europayment/)|`europayment`| 

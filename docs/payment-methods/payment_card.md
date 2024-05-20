@@ -290,6 +290,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![taslink](https://static.openfintech.io/payment_providers/taslink/icon.svg?w=278&c=v0.59.26#w100) |[TAS Link](/payment-providers/taslink/)|`taslink`| 
 |![anymoney](https://static.openfintech.io/payment_providers/anymoney/icon.svg?w=278&c=v0.59.26#w100) |[Any.Money](/payment-providers/anymoney/)|`anymoney`| 
 |![alikassa](https://static.openfintech.io/payment_providers/alikassa/icon.svg?w=278&c=v0.59.26#w100) |[AliKassa](/payment-providers/alikassa/)|`alikassa`| 
+|![paysafe](https://static.openfintech.io/payment_providers/paysafe/icon.svg?w=278&c=v0.59.26#w100) |[Paysafe](/payment-providers/paysafe/)|`paysafe`| 
 |![raiffeisenbank](https://static.openfintech.io/payment_providers/raiffeisenbank/icon.svg?w=278&c=v0.59.26#w100) |[Raiffeisen Bank](/payment-providers/raiffeisenbank/)|`raiffeisenbank`| 
 |![cauri](https://static.openfintech.io/payment_providers/cauri/icon.png?w=278&c=v0.59.26#w100) |[Cauri](/payment-providers/cauri/)|`cauri`| 
 |![ipaytotal](https://static.openfintech.io/payment_providers/ipaytotal/icon.png?w=278&c=v0.59.26#w100) |[IPaytotal](/payment-providers/ipaytotal/)|`ipaytotal`| 
@@ -553,6 +554,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![gamespay](https://static.openfintech.io/payment_providers/gamespay/icon.svg?w=278&c=v0.59.26#w100) |[PayGames](/payment-providers/gamespay/)|`gamespay`| 
 |![mfstream](https://static.openfintech.io/payment_providers/mfstream/icon.png?w=278&c=v0.59.26#w100) |[MF Stream](/payment-providers/mfstream/)|`mfstream`| 
 |![winteca](https://static.openfintech.io/payment_providers/winteca/icon.png?w=278&c=v0.59.26#w100) |[Winteca](/payment-providers/winteca/)|`winteca`| 
+|![espertopay](https://static.openfintech.io/payment_providers/espertopay/icon.png?w=278&c=v0.59.26#w100) |[EspertoPay](/payment-providers/espertopay/)|`espertopay`| 
  
 
 ## JSON Object 

@@ -685,6 +685,7 @@
 |![equitas_bank](https://static.openfintech.io/vendors/equitas_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Equitas Bank**](equitas_bank/)|`equitas_bank`| 
 |![erstebank](https://static.openfintech.io/vendors/erstebank/logo.png?w=600&c=v0.59.26#w200) |[**Erste Bank**](erstebank/)|`erstebank`| 
 |![escalion](https://static.openfintech.io/vendors/escalion/logo.png?w=600&c=v0.59.26#w200) |[**Escalion**](escalion/)|`escalion`| 
+|![espertopay](https://static.openfintech.io/vendors/espertopay/logo.png?w=600&c=v0.59.26#w200) |[**EspertoPay**](espertopay/)|`espertopay`| 
 |![eupaymentz](https://static.openfintech.io/vendors/eupaymentz/logo.png?w=600&c=v0.59.26#w200) |[**EUPaymentz.com**](eupaymentz/)|`eupaymentz`| 
 |![europabank](https://static.openfintech.io/vendors/europabank/logo.png?w=600&c=v0.59.26#w200) |[**Europabank**](europabank/)|`europabank`| 
 |![europayment](https://static.openfintech.io/vendors/europayment/logo.png?w=600&c=v0.59.26#w200) |[**Euro Payment Group**](europayment/)|`europayment`| 
