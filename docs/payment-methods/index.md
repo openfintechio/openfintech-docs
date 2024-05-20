@@ -361,6 +361,7 @@
 |![hsbc_bank_malaysia_berhad](https://static.openfintech.io/payment_methods/hsbc_bank_malaysia_berhad/logo.svg?w=400&c=v0.59.26#w200) |[**HSBC Bank Malaysia**](hsbc_bank_malaysia_berhad/)|`hsbc_bank_malaysia_berhad`| 
 |![hsbc_bank_malaysia_berhad_qr](https://static.openfintech.io/payment_methods/hsbc_bank_malaysia_berhad_qr/logo.svg?w=400&c=v0.59.26#w200) |[**HSBC Bank Malaysia Qr**](hsbc_bank_malaysia_berhad_qr/)|`hsbc_bank_malaysia_berhad_qr`| 
 |![hsbc_bank_malaysia_fpx](https://static.openfintech.io/payment_methods/hsbc_bank_malaysia_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**HSBC Bank Malaysia (FPX), Malaysia**](hsbc_bank_malaysia_fpx/)|`hsbc_bank_malaysia_fpx`| 
+|![humo](https://static.openfintech.io/payment_methods/humo/logo.svg?w=400&c=v0.59.26#w200) |[**Humo**](humo/)|`humo`| 
 || **I** ||
 |![i_wallet](https://static.openfintech.io/payment_methods/i_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**wallet**](i_wallet/)|`i_wallet`| 
 |![ibox](https://static.openfintech.io/payment_methods/ibox/logo.svg?w=400&c=v0.59.26#w200) |[**Ibox**](ibox/)|`ibox`| 
@@ -826,6 +827,7 @@
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](usd_coin/)|`usd_coin`| 
 |![usemyservices](https://static.openfintech.io/payment_methods/usemyservices/logo.png?w=400&c=v0.59.26#w200) |[**UseMyServices**](usemyservices/)|`usemyservices`| 
 |![ussd](https://static.openfintech.io/payment_methods/ussd/logo.svg?w=400&c=v0.59.26#w200) |[**USSD**](ussd/)|`ussd`| 
+|![uzcard](https://static.openfintech.io/payment_methods/uzcard/logo.svg?w=400&c=v0.59.26#w200) |[**Uzcard**](uzcard/)|`uzcard`| 
 || **V** ||
 |![va_may_bank](https://static.openfintech.io/payment_methods/va_may_bank/logo.svg?w=400&c=v0.59.26#w200) |[**MayBank Virtual Account**](va_may_bank/)|`va_may_bank`| 
 |![vcreditos](https://static.openfintech.io/payment_methods/vcreditos/logo.svg?w=400&c=v0.59.26#w200) |[**VCreditos wallet**](vcreditos/)|`vcreditos`| 

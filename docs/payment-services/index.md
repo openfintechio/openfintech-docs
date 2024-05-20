@@ -610,6 +610,7 @@
 |![HSBC Bank Malaysia](https://static.openfintech.io/payment_methods/hsbc_bank_malaysia_berhad/logo.svg?w=400&c=v0.59.26#w200) |[**HSBC Bank Malaysia**](/payment-methods/hsbc_bank_malaysia_berhad/)|[`hsbc_bank_malaysia_berhad_myr_hpp`](hsbc_bank_malaysia_berhad_myr_hpp/)| 
 |![HSBC Bank Malaysia Qr](https://static.openfintech.io/payment_methods/hsbc_bank_malaysia_berhad_qr/logo.svg?w=400&c=v0.59.26#w200) |[**HSBC Bank Malaysia Qr**](/payment-methods/hsbc_bank_malaysia_berhad_qr/)|[`hsbc_bank_malaysia_berhad_qr_myr_invoice`](hsbc_bank_malaysia_berhad_qr_myr_invoice/)| 
 |![HSBC Bank Malaysia (FPX), Malaysia](https://static.openfintech.io/payment_methods/hsbc_bank_malaysia_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**HSBC Bank Malaysia (FPX), Malaysia**](/payment-methods/hsbc_bank_malaysia_fpx/)|[`hsbc_bank_malaysia_fpx_myr_hpp`](hsbc_bank_malaysia_fpx_myr_hpp/)| 
+|![Humo](https://static.openfintech.io/payment_methods/humo/logo.svg?w=400&c=v0.59.26#w200) |[**Humo**](/payment-methods/humo/)|[`humo_uzs_hpp`](humo_uzs_hpp/)| 
 ||| **I** ||
 |![wallet](https://static.openfintech.io/payment_methods/i_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**wallet**](/payment-methods/i_wallet/)|[`i_wallet_eur_hpp`](i_wallet_eur_hpp/)| 
 |![wallet](https://static.openfintech.io/payment_methods/i_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**wallet**](/payment-methods/i_wallet/)|[`i_wallet_usd_hpp`](i_wallet_usd_hpp/)| 
@@ -1387,6 +1388,7 @@
 |![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_usdctrc20_hpp`](usd_coin_usdctrc20_hpp/)| 
 |![USSD](https://static.openfintech.io/payment_methods/ussd/logo.svg?w=400&c=v0.59.26#w200) |[**USSD**](/payment-methods/ussd/)|[`ussd_cny_hpp`](ussd_cny_hpp/)| 
 |![USSD](https://static.openfintech.io/payment_methods/ussd/logo.svg?w=400&c=v0.59.26#w200) |[**USSD**](/payment-methods/ussd/)|[`ussd_ngn_hpp`](ussd_ngn_hpp/)| 
+|![Uzcard](https://static.openfintech.io/payment_methods/uzcard/logo.svg?w=400&c=v0.59.26#w200) |[**Uzcard**](/payment-methods/uzcard/)|[`uzcard_uzs_hpp`](uzcard_uzs_hpp/)| 
 ||| **V** ||
 |![MayBank Virtual Account](https://static.openfintech.io/payment_methods/va_may_bank/logo.svg?w=400&c=v0.59.26#w200) |[**MayBank Virtual Account**](/payment-methods/va_may_bank/)|[`va_may_bank_idr_hpp`](va_may_bank_idr_hpp/)| 
 |![VCreditos wallet](https://static.openfintech.io/payment_methods/vcreditos/logo.svg?w=400&c=v0.59.26#w200) |[**VCreditos wallet**](/payment-methods/vcreditos/)|[`vcreditos_brl_transfer`](vcreditos_brl_transfer/)| 
