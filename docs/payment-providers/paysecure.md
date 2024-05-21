@@ -46,6 +46,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![quick_bit](https://static.openfintech.io/payment_methods/quick_bit/icon.svg?w=278&c=v0.59.26#w100) |[quick_bit](/payment-methods/quick_bit/)|`quick_bit`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
+|![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix](/payment-methods/pix/)|`pix`| 
  
 
 ## JSON Object 
@@ -62,7 +63,8 @@ The list of supported [Payment Methods](/payment-methods/)
   "payment_method":[
     "payment_card",
     "quick_bit",
-    "bank_transfer"
+    "bank_transfer",
+    "pix"
   ],
   "payout_method":null,
   "metadata":null,
