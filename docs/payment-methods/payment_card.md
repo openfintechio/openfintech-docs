@@ -555,6 +555,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![mfstream](https://static.openfintech.io/payment_providers/mfstream/icon.png?w=278&c=v0.59.26#w100) |[MF Stream](/payment-providers/mfstream/)|`mfstream`| 
 |![winteca](https://static.openfintech.io/payment_providers/winteca/icon.png?w=278&c=v0.59.26#w100) |[Winteca](/payment-providers/winteca/)|`winteca`| 
 |![espertopay](https://static.openfintech.io/payment_providers/espertopay/icon.png?w=278&c=v0.59.26#w100) |[EspertoPay](/payment-providers/espertopay/)|`espertopay`| 
+|![freepay](https://static.openfintech.io/payment_providers/freepay/icon.svg?w=278&c=v0.59.26#w100) |[FreePay](/payment-providers/freepay/)|`freepay`| 
  
 
 ## JSON Object 

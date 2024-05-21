@@ -818,6 +818,7 @@
 |![fortumo](https://static.openfintech.io/vendors/fortumo/logo.png?w=600&c=v0.59.26#w200) |[**Fortumo**](fortumo/)|`fortumo`| 
 |![forwardbank](https://static.openfintech.io/vendors/forwardbank/logo.svg?w=600&c=v0.59.26#w200) |[**Forward Bank**](forwardbank/)|`forwardbank`| 
 |![fpoltavske_oblasne_atoshad_m_poltava](https://static.openfintech.io/vendors/fpoltavske_oblasne_atoshad_m_poltava/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Полтавське обласне управлiння ПАТ 'Державний ощадний банк України'**](fpoltavske_oblasne_atoshad_m_poltava/)|`fpoltavske_oblasne_atoshad_m_poltava`| 
+|![freepay](https://static.openfintech.io/vendors/freepay/logo.png?w=600&c=v0.59.26#w200) |[**FreePay**](freepay/)|`freepay`| 
 |![freepayment](https://static.openfintech.io/vendors/freepayment/logo.svg?w=600&c=v0.59.26#w200) |[**FreePayment**](freepayment/)|`freepayment`| 
 |![frenchonlinepaymentmethodewalletpaylib](https://static.openfintech.io/vendors/frenchonlinepaymentmethodewalletpaylib/logo.png?w=600&c=v0.59.26#w200) |[**paylib**](frenchonlinepaymentmethodewalletpaylib/)|`frenchonlinepaymentmethodewalletpaylib`| 
 |![frivnenske_oblasne_up_atoshad_m_rivne](https://static.openfintech.io/vendors/frivnenske_oblasne_up_atoshad_m_rivne/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Рiвненське обласне управлiння ПАТ 'Державний ощадний банк України'**](frivnenske_oblasne_up_atoshad_m_rivne/)|`frivnenske_oblasne_up_atoshad_m_rivne`| 

@@ -346,6 +346,7 @@
 |![fortepaymentsystems](https://static.openfintech.io/payment_providers/fortepaymentsystems/logo.png?w=600&c=v0.59.26#w100) |[**Forte Payment Systems**](fortepaymentsystems/)|`fortepaymentsystems`| 
 |![fortumo](https://static.openfintech.io/payment_providers/fortumo/logo.png?w=600&c=v0.59.26#w100) |[**Fortumo**](fortumo/)|`fortumo`| 
 |![forwardbank](https://static.openfintech.io/payment_providers/forwardbank/logo.svg?w=600&c=v0.59.26#w100) |[**Forward Bank**](forwardbank/)|`forwardbank`| 
+|![freepay](https://static.openfintech.io/payment_providers/freepay/logo.png?w=600&c=v0.59.26#w100) |[**FreePay**](freepay/)|`freepay`| 
 |![freepayment](https://static.openfintech.io/payment_providers/freepayment/logo.svg?w=600&c=v0.59.26#w100) |[**FreePayment**](freepayment/)|`freepayment`| 
 |![futuritypay](https://static.openfintech.io/payment_providers/futuritypay/logo.png?w=600&c=v0.59.26#w100) |[**Futuritypay**](futuritypay/)|`futuritypay`| 
 || **G** ||
