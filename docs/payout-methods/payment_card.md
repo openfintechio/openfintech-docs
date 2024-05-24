@@ -558,6 +558,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![winteca](https://static.openfintech.io/payment_providers/winteca/icon.png?w=278&c=v0.59.26#w100) |[Winteca](/payment-providers/winteca/)|`winteca`| 
 |![espertopay](https://static.openfintech.io/payment_providers/espertopay/icon.png?w=278&c=v0.59.26#w100) |[EspertoPay](/payment-providers/espertopay/)|`espertopay`| 
 |![freepay](https://static.openfintech.io/payment_providers/freepay/icon.svg?w=278&c=v0.59.26#w100) |[FreePay](/payment-providers/freepay/)|`freepay`| 
+|![prosperos](https://static.openfintech.io/payment_providers/prosperos/icon.svg?w=278&c=v0.59.26#w100) |[Prosperos](/payment-providers/prosperos/)|`prosperos`| 
  
 
 ## JSON Object 

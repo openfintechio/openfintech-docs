@@ -769,6 +769,7 @@
 |![processingpartners](https://static.openfintech.io/payment_providers/processingpartners/logo.png?w=600&c=v0.59.26#w100) |[**Processing Partners**](processingpartners/)|`processingpartners`| 
 |![projectonsolutionslimited](https://static.openfintech.io/payment_providers/projectonsolutionslimited/logo.svg?w=600&c=v0.59.26#w100) |[**Projecton Solutions Limited**](projectonsolutionslimited/)|`projectonsolutionslimited`| 
 |![propay](https://static.openfintech.io/payment_providers/propay/logo.png?w=600&c=v0.59.26#w100) |[**ProPay**](propay/)|`propay`| 
+|![prosperos](https://static.openfintech.io/payment_providers/prosperos/logo.svg?w=600&c=v0.59.26#w100) |[**Prosperos**](prosperos/)|`prosperos`| 
 |![prosum](https://static.openfintech.io/payment_providers/prosum/logo.png?w=600&c=v0.59.26#w100) |[**Prosum**](prosum/)|`prosum`| 
 |![psigate](https://static.openfintech.io/payment_providers/psigate/logo.png?w=600&c=v0.59.26#w100) |[**PSiGate**](psigate/)|`psigate`| 
 |![pspgate](https://static.openfintech.io/payment_providers/pspgate/logo.png?w=600&c=v0.59.26#w100) |[**PSPGate**](pspgate/)|`pspgate`| 

@@ -1769,6 +1769,7 @@
 |![promptpay](https://static.openfintech.io/vendors/promptpay/logo.svg?w=600&c=v0.59.26#w200) |[**PromptPay**](promptpay/)|`promptpay`| 
 |![promsvyazbank](https://static.openfintech.io/vendors/promsvyazbank/logo.svg?w=600&c=v0.59.26#w200) |[**Промсвязьбанк**](promsvyazbank/)|`promsvyazbank`| 
 |![propay](https://static.openfintech.io/vendors/propay/logo.png?w=600&c=v0.59.26#w200) |[**ProPay**](propay/)|`propay`| 
+|![prosperos](https://static.openfintech.io/vendors/prosperos/logo.png?w=600&c=v0.59.26#w200) |[**Prosperos**](prosperos/)|`prosperos`| 
 |![prostocash](https://static.openfintech.io/vendors/prostocash/logo.svg?w=600&c=v0.59.26#w200) |[**prostocash**](prostocash/)|`prostocash`| 
 |![prosum](https://static.openfintech.io/vendors/prosum/logo.png?w=600&c=v0.59.26#w200) |[**Prosum**](prosum/)|`prosum`| 
 |![provinciapagos](https://static.openfintech.io/vendors/provinciapagos/logo.png?w=600&c=v0.59.26#w200) |[**ProvinciaPagos**](provinciapagos/)|`provinciapagos`| 
