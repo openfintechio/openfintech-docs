@@ -560,6 +560,7 @@
 |![Gana Gana](https://static.openfintech.io/payment_methods/gana_gana/logo.svg?w=400&c=v0.59.26#w200) |[**Gana Gana**](/payment-methods/gana_gana/)|[`ganaganain_cop_hpp`](ganaganain_cop_hpp/)| 
 |![Gana](https://static.openfintech.io/payment_methods/gana/logo.svg?w=400&c=v0.59.26#w200) |[**Gana**](/payment-methods/gana/)|[`ganain_cop_hpp`](ganain_cop_hpp/)| 
 |![Garanti BBVA](https://static.openfintech.io/payment_methods/garanti_bbva/logo.png?w=400&c=v0.59.26#w200) |[**Garanti BBVA**](/payment-methods/garanti_bbva/)|[`garanti_bbva_try_invoice`](garanti_bbva_try_invoice/)| 
+|![Gate Pay](https://static.openfintech.io/payment_methods/gatepay/logo.png?w=400&c=v0.59.26#w200) |[**Gate Pay**](/payment-methods/gatepay/)|[`gatepay_usd_hpp`](gatepay_usd_hpp/)| 
 |![GCash](https://static.openfintech.io/payment_methods/gcash/logo.png?w=400&c=v0.59.26#w200) |[**GCash**](/payment-methods/gcash/)|[`gcash_php_hpp`](gcash_php_hpp/)| 
 |![GE Money](https://static.openfintech.io/payment_methods/gemoney/logo.png?w=400&c=v0.59.26#w200) |[**GE Money**](/payment-methods/gemoney/)|[`gemoney_gel_hpp`](gemoney_gel_hpp/)| 
 |![GEO Pay](https://static.openfintech.io/payment_methods/geopaynet/logo.svg?w=400&c=v0.59.26#w200) |[**GEO Pay**](/payment-methods/geopaynet/)|[`geopaynet_eur_hpp`](geopaynet_eur_hpp/)| 

@@ -49,6 +49,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![settlepay_wallet](https://static.openfintech.io/payment_methods/settlepay_wallet/icon.svg?w=278&c=v0.59.26#w100) |[settlepay_wallet](/payment-methods/settlepay_wallet/)|`settlepay_wallet`| 
 |![pix_qr](https://static.openfintech.io/payment_methods/pix_qr/icon.svg?w=278&c=v0.59.26#w100) |[pix_qr](/payment-methods/pix_qr/)|`pix_qr`| 
 |![binancepay](https://static.openfintech.io/payment_methods/binancepay/icon.svg?w=278&c=v0.59.26#w100) |[binancepay](/payment-methods/binancepay/)|`binancepay`| 
+|![gatepay](https://static.openfintech.io/payment_methods/gatepay/icon.png?w=278&c=v0.59.26#w100) |[gatepay](/payment-methods/gatepay/)|`gatepay`| 
  
 
 ## Payout Methods 
@@ -80,7 +81,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "googlepay",
     "settlepay_wallet",
     "pix_qr",
-    "binancepay"
+    "binancepay",
+    "gatepay"
   ],
   "payout_method":[
     "payment_card",

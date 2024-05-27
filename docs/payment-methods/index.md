@@ -328,6 +328,7 @@
 |![gana](https://static.openfintech.io/payment_methods/gana/logo.svg?w=400&c=v0.59.26#w200) |[**Gana**](gana/)|`gana`| 
 |![gana_gana](https://static.openfintech.io/payment_methods/gana_gana/logo.svg?w=400&c=v0.59.26#w200) |[**Gana Gana**](gana_gana/)|`gana_gana`| 
 |![garanti_bbva](https://static.openfintech.io/payment_methods/garanti_bbva/logo.png?w=400&c=v0.59.26#w200) |[**Garanti BBVA**](garanti_bbva/)|`garanti_bbva`| 
+|![gatepay](https://static.openfintech.io/payment_methods/gatepay/logo.png?w=400&c=v0.59.26#w200) |[**Gate Pay**](gatepay/)|`gatepay`| 
 |![gcash](https://static.openfintech.io/payment_methods/gcash/logo.png?w=400&c=v0.59.26#w200) |[**GCash**](gcash/)|`gcash`| 
 |![gcashwallet](https://static.openfintech.io/payment_methods/gcashwallet/logo.png?w=400&c=v0.59.26#w200) |[**GCASH**](gcashwallet/)|`gcashwallet`| 
 |![gemoney](https://static.openfintech.io/payment_methods/gemoney/logo.png?w=400&c=v0.59.26#w200) |[**GE Money**](gemoney/)|`gemoney`| 
