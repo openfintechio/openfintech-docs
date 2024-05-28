@@ -1997,6 +1997,7 @@
 |![tajima_bank](https://static.openfintech.io/vendors/tajima_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Tajima Bank**](tajima_bank/)|`tajima_bank`| 
 |![tama_shinkin_bank](https://static.openfintech.io/vendors/tama_shinkin_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Tama Shinkin Bank**](tama_shinkin_bank/)|`tama_shinkin_bank`| 
 |![tapanapi](https://static.openfintech.io/vendors/tapanapi/logo.svg?w=600&c=v0.59.26#w200) |[**TapAnApi**](tapanapi/)|`tapanapi`| 
+|![tapbank](https://static.openfintech.io/vendors/tapbank/logo.png?w=600&c=v0.59.26#w200) |[**TapBank**](tapbank/)|`tapbank`| 
 |![tapiola](https://static.openfintech.io/vendors/tapiola/logo.png?w=600&c=v0.59.26#w200) |[**Tapiola**](tapiola/)|`tapiola`| 
 |![targetpay](https://static.openfintech.io/vendors/targetpay/logo.png?w=600&c=v0.59.26#w200) |[**Targetpay.com**](targetpay/)|`targetpay`| 
 |![tarjetanaranjacreditcard](https://static.openfintech.io/vendors/tarjetanaranjacreditcard/logo.png?w=600&c=v0.59.26#w200) |[**tarjeta naranja**](tarjetanaranjacreditcard/)|`tarjetanaranjacreditcard`| 

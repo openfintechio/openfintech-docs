@@ -875,6 +875,7 @@
 |![symoco](https://static.openfintech.io/payment_providers/symoco/logo.png?w=600&c=v0.59.26#w100) |[**Symoco**](symoco/)|`symoco`| 
 || **T** ||
 |![tapanapi](https://static.openfintech.io/payment_providers/tapanapi/logo.svg?w=600&c=v0.59.26#w100) |[**TapAnApi**](tapanapi/)|`tapanapi`| 
+|![tapbank](https://static.openfintech.io/payment_providers/tapbank/logo.png?w=600&c=v0.59.26#w100) |[**TapBank**](tapbank/)|`tapbank`| 
 |![targetpay](https://static.openfintech.io/payment_providers/targetpay/logo.png?w=600&c=v0.59.26#w100) |[**Targetpay.com**](targetpay/)|`targetpay`| 
 |![taslink](https://static.openfintech.io/payment_providers/taslink/logo.svg?w=600&c=v0.59.26#w100) |[**TAS Link**](taslink/)|`taslink`| 
 |![tefpay](https://static.openfintech.io/payment_providers/tefpay/logo.png?w=600&c=v0.59.26#w100) |[**tefpay**](tefpay/)|`tefpay`| 
