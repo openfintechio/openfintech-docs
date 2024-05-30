@@ -38,7 +38,7 @@
 |`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
 |`beneficiary_city`|✗|`string`|`/^.{1,255}$/`| 
 |`beneficiary_postcode`|✗|`string`|`/^.{1,255}$/`| 
-|`beneficiary_phone`|✗|`string`|`/^\+?[\d\- ]{1,15}/`| 
+|`beneficiary_phone`|✗|`string`|`/^\+?[\d\- ]{1,15}$/`| 
 |`beneficiary_dob`|✗|`string`|`/^([0-2][0-9]\|(3)[0-1])(\/)(((0)[0-9])\|((1)[0-2]))(\/)\d{4}$/`| 
 |`sender_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\s\p{L}]{2,100}$/u`| 
 |`beneficiary_state`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,64}$/u`| 
@@ -304,7 +304,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^\+?[\d\- ]{1,15}/` 
+	Regexp: `/^\+?[\d\- ]{1,15}$/` 
  
 	Required: `` 
  
@@ -665,7 +665,7 @@
     {
       "key":"beneficiary_phone",
       "type":"string",
-      "regexp":"\/^\\+?[\\d\\- ]{1,15}\/",
+      "regexp":"\/^\\+?[\\d\\- ]{1,15}$\/",
       "required":false,
       "position":15,
       "label":{
@@ -702,7 +702,7 @@
       "type":"string",
       "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\s\\p{L}]{2,100}$\/u",
       "required":false,
-      "position":16,
+      "position":17,
       "label":{
         "en":"Sender full name",
         "ru":"\u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
@@ -719,7 +719,7 @@
       "type":"string",
       "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}]{2,64}$\/u",
       "required":false,
-      "position":17,
+      "position":18,
       "label":{
         "en":"Beneficiary state",
         "ru":"Beneficiary state",
@@ -736,7 +736,7 @@
       "type":"string",
       "regexp":"\/^[A-Za-z]{2,100}$\/",
       "required":false,
-      "position":18,
+      "position":19,
       "label":{
         "en":"Bank City",
         "ru":"Bank City",
@@ -753,7 +753,7 @@
       "type":"string",
       "regexp":"\/^[A-Za-z]{2,100}$\/",
       "required":false,
-      "position":19,
+      "position":20,
       "label":{
         "en":"Bank Province",
         "ru":"Bank Province",
