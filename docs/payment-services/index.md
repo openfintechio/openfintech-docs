@@ -430,6 +430,8 @@
 |![Cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200) |[**Cash**](/payment-methods/cash/)|[`cash_uah_invoice`](cash_uah_invoice/)| 
 |![Cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200) |[**Cash**](/payment-methods/cash/)|[`cash_usd_hpp`](cash_usd_hpp/)| 
 |![Cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200) |[**Cash**](/payment-methods/cash/)|[`cash_usd_invoice`](cash_usd_invoice/)| 
+|![CASHlib Voucher](https://static.openfintech.io/payment_methods/cashlib_voucher/logo.png?w=400&c=v0.59.26#w200) |[**CASHlib Voucher**](/payment-methods/cashlib_voucher/)|[`cashlib_voucher_eur_hpp`](cashlib_voucher_eur_hpp/)| 
+|![CASHlib Voucher](https://static.openfintech.io/payment_methods/cashlib_voucher/logo.png?w=400&c=v0.59.26#w200) |[**CASHlib Voucher**](/payment-methods/cashlib_voucher/)|[`cashlib_voucher_usd_hpp`](cashlib_voucher_usd_hpp/)| 
 |![Cebuana Pawnshop](https://static.openfintech.io/payment_methods/cebuana_pawnshop/logo.svg?w=400&c=v0.59.26#w200) |[**Cebuana Pawnshop**](/payment-methods/cebuana_pawnshop/)|[`cebuana_pawnshop_php_hpp`](cebuana_pawnshop_php_hpp/)| 
 |![Central Bank of India](https://static.openfintech.io/payment_methods/central_bank_of_india/logo.png?w=400&c=v0.59.26#w200) |[**Central Bank of India**](/payment-methods/central_bank_of_india/)|[`central_bank_of_india_inr_hpp`](central_bank_of_india_inr_hpp/)| 
 |![CepBank](https://static.openfintech.io/payment_methods/cepbank/logo.png?w=400&c=v0.59.26#w200) |[**CepBank**](/payment-methods/cepbank/)|[`cepbank_try_hpp`](cepbank_try_hpp/)| 

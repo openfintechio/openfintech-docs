@@ -155,6 +155,7 @@
 |![cashflows](https://static.openfintech.io/payment_providers/cashflows/logo.png?w=600&c=v0.59.26#w100) |[**CashFlows**](cashflows/)|`cashflows`| 
 |![cashfree](https://static.openfintech.io/payment_providers/cashfree/logo.png?w=600&c=v0.59.26#w100) |[**Cashfree**](cashfree/)|`cashfree`| 
 |![cashia](https://static.openfintech.io/payment_providers/cashia/logo.png?w=600&c=v0.59.26#w100) |[**Cashia**](cashia/)|`cashia`| 
+|![cashlib](https://static.openfintech.io/payment_providers/cashlib/logo.png?w=600&c=v0.59.26#w100) |[**CASHlib**](cashlib/)|`cashlib`| 
 |![cashonex](https://static.openfintech.io/payment_providers/cashonex/logo.png?w=600&c=v0.59.26#w100) |[**CashOneX**](cashonex/)|`cashonex`| 
 |![cashrun](https://static.openfintech.io/payment_providers/cashrun/logo.svg?w=600&c=v0.59.26#w100) |[**CashRun**](cashrun/)|`cashrun`| 
 |![cashsender](https://static.openfintech.io/payment_providers/cashsender/logo.svg?w=600&c=v0.59.26#w100) |[**CashSender**](cashsender/)|`cashsender`| 
@@ -835,6 +836,7 @@
 |![selcom](https://static.openfintech.io/payment_providers/selcom/logo.png?w=600&c=v0.59.26#w100) |[**Selcom**](selcom/)|`selcom`| 
 |![sentrypayments](https://static.openfintech.io/payment_providers/sentrypayments/logo.png?w=600&c=v0.59.26#w100) |[**SentryPayments**](sentrypayments/)|`sentrypayments`| 
 |![setcompaymentsolutions](https://static.openfintech.io/payment_providers/setcompaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Setcom Payment Solutions**](setcompaymentsolutions/)|`setcompaymentsolutions`| 
+|![settlespot](https://static.openfintech.io/payment_providers/settlespot/logo.png?w=600&c=v0.59.26#w100) |[**SettleSpot**](settlespot/)|`settlespot`| 
 |![sgate](https://static.openfintech.io/payment_providers/sgate/logo.svg?w=600&c=v0.59.26#w100) |[**Sgate**](sgate/)|`sgate`| 
 |![sidpayment](https://static.openfintech.io/payment_providers/sidpayment/logo.png?w=600&c=v0.59.26#w100) |[**SID Instant EFT**](sidpayment/)|`sidpayment`| 
 |![simplepay](https://static.openfintech.io/payment_providers/simplepay/logo.png?w=600&c=v0.59.26#w100) |[**SimplePay**](simplepay/)|`simplepay`| 

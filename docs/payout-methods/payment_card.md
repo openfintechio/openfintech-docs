@@ -559,6 +559,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![espertopay](https://static.openfintech.io/payment_providers/espertopay/icon.png?w=278&c=v0.59.26#w100) |[EspertoPay](/payment-providers/espertopay/)|`espertopay`| 
 |![freepay](https://static.openfintech.io/payment_providers/freepay/icon.svg?w=278&c=v0.59.26#w100) |[FreePay](/payment-providers/freepay/)|`freepay`| 
 |![prosperos](https://static.openfintech.io/payment_providers/prosperos/icon.svg?w=278&c=v0.59.26#w100) |[Prosperos](/payment-providers/prosperos/)|`prosperos`| 
+|![settlespot](https://static.openfintech.io/payment_providers/settlespot/icon.png?w=278&c=v0.59.26#w100) |[SettleSpot](/payment-providers/settlespot/)|`settlespot`| 
  
 
 ## JSON Object 

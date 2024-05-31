@@ -197,6 +197,7 @@
 |![cartebleue](https://static.openfintech.io/payment_methods/cartebleue/logo.png?w=400&c=v0.59.26#w200) |[**Carte Bleue**](cartebleue/)|`cartebleue`| 
 |![cascad](https://static.openfintech.io/payment_methods/cascad/logo.svg?w=400&c=v0.59.26#w200) |[**Cascad**](cascad/)|`cascad`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200) |[**Cash**](cash/)|`cash`| 
+|![cashlib_voucher](https://static.openfintech.io/payment_methods/cashlib_voucher/logo.png?w=400&c=v0.59.26#w200) |[**CASHlib Voucher**](cashlib_voucher/)|`cashlib_voucher`| 
 |![cashu](https://static.openfintech.io/payment_methods/cashu/logo.png?w=400&c=v0.59.26#w200) |[**CASHU**](cashu/)|`cashu`| 
 |![cebuana_pawnshop](https://static.openfintech.io/payment_methods/cebuana_pawnshop/logo.svg?w=400&c=v0.59.26#w200) |[**Cebuana Pawnshop**](cebuana_pawnshop/)|`cebuana_pawnshop`| 
 |![cellularworld](https://static.openfintech.io/payment_methods/cellularworld/logo.png?w=400&c=v0.59.26#w200) |[**Cellular World**](cellularworld/)|`cellularworld`| 

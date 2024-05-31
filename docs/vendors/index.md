@@ -418,6 +418,7 @@
 |![cashfree](https://static.openfintech.io/vendors/cashfree/logo.png?w=600&c=v0.59.26#w200) |[**Cashfree**](cashfree/)|`cashfree`| 
 |![cashia](https://static.openfintech.io/vendors/cashia/logo.png?w=600&c=v0.59.26#w200) |[**Cashia**](cashia/)|`cashia`| 
 |![cashing.su](https://static.openfintech.io/vendors/cashing.su/logo.svg?w=600&c=v0.59.26#w200) |[**Cashing**](cashing.su/)|`cashing.su`| 
+|![cashlib](https://static.openfintech.io/vendors/cashlib/logo.png?w=600&c=v0.59.26#w200) |[**CASHlib**](cashlib/)|`cashlib`| 
 |![cashonex](https://static.openfintech.io/vendors/cashonex/logo.png?w=600&c=v0.59.26#w200) |[**CashOneX**](cashonex/)|`cashonex`| 
 |![cashrun](https://static.openfintech.io/vendors/cashrun/logo.png?w=600&c=v0.59.26#w200) |[**CashRun**](cashrun/)|`cashrun`| 
 |![cashsender](https://static.openfintech.io/vendors/cashsender/logo.png?w=600&c=v0.59.26#w200) |[**CashSender**](cashsender/)|`cashsender`| 
@@ -1898,6 +1899,7 @@
 |![serve](https://static.openfintech.io/vendors/serve/logo.png?w=600&c=v0.59.26#w200) |[**Serve**](serve/)|`serve`| 
 |![servipag](https://static.openfintech.io/vendors/servipag/logo.png?w=600&c=v0.59.26#w200) |[**Servipag**](servipag/)|`servipag`| 
 |![setcompaymentsolutions](https://static.openfintech.io/vendors/setcompaymentsolutions/logo.png?w=600&c=v0.59.26#w200) |[**Setcom Payment Solutions**](setcompaymentsolutions/)|`setcompaymentsolutions`| 
+|![settlespot](https://static.openfintech.io/vendors/settlespot/logo.png?w=600&c=v0.59.26#w200) |[**SettleSpot**](settlespot/)|`settlespot`| 
 |![sev_f_pat_kbprivatbank_m_sevastopol](https://static.openfintech.io/vendors/sev_f_pat_kbprivatbank_m_sevastopol/logo.svg?w=600&c=v0.59.26#w200) |[**СЕВАСТОПОЛЬСЬКА ФІЛІЯ ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](sev_f_pat_kbprivatbank_m_sevastopol/)|`sev_f_pat_kbprivatbank_m_sevastopol`| 
 |![seven_bank](https://static.openfintech.io/vendors/seven_bank/logo.svg?w=600&c=v0.59.26#w200) |[**SEVEN BANK**](seven_bank/)|`seven_bank`| 
 |![sgate](https://static.openfintech.io/vendors/sgate/logo.svg?w=600&c=v0.59.26#w200) |[**Sgate**](sgate/)|`sgate`| 
