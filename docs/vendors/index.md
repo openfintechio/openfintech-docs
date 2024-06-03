@@ -333,6 +333,7 @@
 |![binance_smart_chain](https://static.openfintech.io/vendors/binance_smart_chain/logo.svg?w=600&c=v0.59.26#w200) |[**Binance smart chain**](binance_smart_chain/)|`binance_smart_chain`| 
 |![binance_usd](https://static.openfintech.io/vendors/binance_usd/logo.png?w=600&c=v0.59.26#w200) |[**Binance Usd**](binance_usd/)|`binance_usd`| 
 |![binbank](https://static.openfintech.io/vendors/binbank/logo.svg?w=600&c=v0.59.26#w200) |[**БИНБАНК**](binbank/)|`binbank`| 
+|![bingopay](https://static.openfintech.io/vendors/bingopay/logo.svg?w=600&c=v0.59.26#w200) |[**BingoPay**](bingopay/)|`bingopay`| 
 |![bips](https://static.openfintech.io/vendors/bips/logo.png?w=600&c=v0.59.26#w200) |[**BIPS**](bips/)|`bips`| 
 |![bit-changer.net](https://static.openfintech.io/vendors/bit-changer.net/logo.svg?w=600&c=v0.59.26#w200) |[**Bit-Changer**](bit-changer.net/)|`bit-changer.net`| 
 |![bit-exchanger.ru](https://static.openfintech.io/vendors/bit-exchanger.ru/logo.svg?w=600&c=v0.59.26#w200) |[**bit-exchanger.ru**](bit-exchanger.ru/)|`bit-exchanger.ru`| 
