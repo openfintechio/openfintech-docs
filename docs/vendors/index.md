@@ -185,6 +185,7 @@
 |![atosworldline](https://static.openfintech.io/vendors/atosworldline/logo.png?w=600&c=v0.59.26#w200) |[**Worldline**](atosworldline/)|`atosworldline`| 
 |![auditor_firma_prajsvoterhauskupers](https://static.openfintech.io/vendors/auditor_firma_prajsvoterhauskupers/logo.svg?w=600&c=v0.59.26#w200) |[**Аудиторська фірма 'ПрайсвотерхаусКуперс'**](auditor_firma_prajsvoterhauskupers/)|`auditor_firma_prajsvoterhauskupers`| 
 |![aura](https://static.openfintech.io/vendors/aura/logo.png?w=600&c=v0.59.26#w200) |[**Aura**](aura/)|`aura`| 
+|![aureavia](https://static.openfintech.io/vendors/aureavia/logo.png?w=600&c=v0.59.26#w200) |[**Aurea Via**](aureavia/)|`aureavia`| 
 |![australpay](https://static.openfintech.io/vendors/australpay/logo.png?w=600&c=v0.59.26#w200) |[**AustralPay**](australpay/)|`australpay`| 
 |![authorizenet](https://static.openfintech.io/vendors/authorizenet/logo.svg?w=600&c=v0.59.26#w200) |[**Authorize.Net**](authorizenet/)|`authorizenet`| 
 |![avangard](https://static.openfintech.io/vendors/avangard/logo.svg?w=600&c=v0.59.26#w200) |[**Авангард**](avangard/)|`avangard`| 

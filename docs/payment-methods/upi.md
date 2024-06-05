@@ -56,6 +56,7 @@ The list of [Payment Providers](/payment-providers/) that support the _UPI_
 |![payes](https://static.openfintech.io/payment_providers/payes/icon.png?w=278&c=v0.59.26#w100) |[Payes](/payment-providers/payes/)|`payes`| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
 |![odeonpay](https://static.openfintech.io/payment_providers/odeonpay/icon.png?w=278&c=v0.59.26#w100) |[OdeonPay](/payment-providers/odeonpay/)|`odeonpay`| 
+|![cashbulls](https://static.openfintech.io/payment_providers/cashbulls/icon.png?w=278&c=v0.59.26#w100) |[Cash Bulls](/payment-providers/cashbulls/)|`cashbulls`| 
 |![b2pay](https://static.openfintech.io/payment_providers/b2pay/icon.png?w=278&c=v0.59.26#w100) |[b2pay.io](/payment-providers/b2pay/)|`b2pay`| 
 |![ubankconnect](https://static.openfintech.io/payment_providers/ubankconnect/icon.svg?w=278&c=v0.59.26#w100) |[UBank Connect](/payment-providers/ubankconnect/)|`ubankconnect`| 
 |![payport](https://static.openfintech.io/payment_providers/payport/icon.svg?w=278&c=v0.59.26#w100) |[PayPort](/payment-providers/payport/)|`payport`| 

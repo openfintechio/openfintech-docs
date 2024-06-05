@@ -115,6 +115,7 @@ The list of [Payment Services](/payment-services/) based on the _Payment card_
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[cardurlmoin_cop_hpp](/payment-services/cardurlmoin_cop_hpp/)|`cardurlmoin_cop_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[moviicard3dsin_cop_hpp](/payment-services/moviicard3dsin_cop_hpp/)|`moviicard3dsin_cop_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[westernunionin_cop_hpp](/payment-services/westernunionin_cop_hpp/)|`westernunionin_cop_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_zmw_hpp](/payment-services/payment_card_zmw_hpp/)|`payment_card_zmw_hpp`| 
  
 
 ## Payment Providers 
@@ -559,6 +560,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![freepay](https://static.openfintech.io/payment_providers/freepay/icon.svg?w=278&c=v0.59.26#w100) |[FreePay](/payment-providers/freepay/)|`freepay`| 
 |![prosperos](https://static.openfintech.io/payment_providers/prosperos/icon.svg?w=278&c=v0.59.26#w100) |[Prosperos](/payment-providers/prosperos/)|`prosperos`| 
 |![settlespot](https://static.openfintech.io/payment_providers/settlespot/icon.png?w=278&c=v0.59.26#w100) |[SettleSpot](/payment-providers/settlespot/)|`settlespot`| 
+|![aureavia](https://static.openfintech.io/payment_providers/aureavia/icon.png?w=278&c=v0.59.26#w100) |[Aurea Via](/payment-providers/aureavia/)|`aureavia`| 
  
 
 ## JSON Object 

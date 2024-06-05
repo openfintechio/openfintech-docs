@@ -52,6 +52,8 @@ The list of supported [Payout Methods](/payout-methods/)
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
 |![cash](https://static.openfintech.io/payout_methods/cash/icon.png?w=278&c=v0.59.26#w40) |[cash](payout-methodscash/)|`cash`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
+|![bkash_limited](https://static.openfintech.io/payout_methods/bkash_limited/icon.png?w=278&c=v0.59.26#w40) |[bkash_limited](payout-methodsbkash_limited/)|`bkash_limited`| 
+|![nagad_wallet](https://static.openfintech.io/payout_methods/nagad_wallet/icon.svg?w=278&c=v0.59.26#w40) |[nagad_wallet](payout-methodsnagad_wallet/)|`nagad_wallet`| 
  
 
 ## JSON Object 
@@ -72,7 +74,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "swift",
     "bank_transfer",
     "cash",
-    "payment_card"
+    "payment_card",
+    "bkash_limited",
+    "nagad_wallet"
   ],
   "metadata":null,
   "name":{
