@@ -1446,6 +1446,7 @@
 |![Western Union Panama](https://static.openfintech.io/payment_methods/western_union_panama_cash/logo.png?w=400&c=v0.59.26#w200) |[**Western Union Panama**](/payment-methods/western_union_panama_cash/)|[`western_union_panama_cash_usd_hpp`](western_union_panama_cash_usd_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`westernunionin_cop_hpp`](westernunionin_cop_hpp/)| 
 |![Westpac](https://static.openfintech.io/payment_methods/westpac/logo.svg?w=400&c=v0.59.26#w200) |[**Westpac**](/payment-methods/westpac/)|[`westpac_aud_hpp`](westpac_aud_hpp/)| 
+|![Whitepay](https://static.openfintech.io/payment_methods/whitepay/logo.svg?w=400&c=v0.59.26#w200) |[**Whitepay**](/payment-methods/whitepay/)|[`whitepay_usdt_hpp`](whitepay_usdt_hpp/)| 
 |![Wise](https://static.openfintech.io/payment_methods/wise/logo.svg?w=400&c=v0.59.26#w200) |[**Wise**](/payment-methods/wise/)|[`wise_eur_hpp`](wise_eur_hpp/)| 
 |![Wise](https://static.openfintech.io/payment_methods/wise/logo.svg?w=400&c=v0.59.26#w200) |[**Wise**](/payment-methods/wise/)|[`wise_uah_hpp`](wise_uah_hpp/)| 
 |![Wise](https://static.openfintech.io/payment_methods/wise/logo.svg?w=400&c=v0.59.26#w200) |[**Wise**](/payment-methods/wise/)|[`wise_uah_invoice`](wise_uah_invoice/)| 

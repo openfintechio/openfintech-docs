@@ -877,6 +877,7 @@
 |![wechat](https://static.openfintech.io/payment_methods/wechat/logo.svg?w=400&c=v0.59.26#w200) |[**Wechat**](wechat/)|`wechat`| 
 |![western_union_panama_cash](https://static.openfintech.io/payment_methods/western_union_panama_cash/logo.png?w=400&c=v0.59.26#w200) |[**Western Union Panama**](western_union_panama_cash/)|`western_union_panama_cash`| 
 |![westpac](https://static.openfintech.io/payment_methods/westpac/logo.svg?w=400&c=v0.59.26#w200) |[**Westpac**](westpac/)|`westpac`| 
+|![whitepay](https://static.openfintech.io/payment_methods/whitepay/logo.svg?w=400&c=v0.59.26#w200) |[**Whitepay**](whitepay/)|`whitepay`| 
 |![wiretransfer](https://static.openfintech.io/payment_methods/wiretransfer/logo.svg?w=400&c=v0.59.26#w200) |[**Wire Transfer**](wiretransfer/)|`wiretransfer`| 
 |![wise](https://static.openfintech.io/payment_methods/wise/logo.svg?w=400&c=v0.59.26#w200) |[**Wise**](wise/)|`wise`| 
 |![wlandpay](https://static.openfintech.io/payment_methods/wlandpay/logo.svg?w=400&c=v0.59.26#w200) |[**Wlandpay**](wlandpay/)|`wlandpay`| 
