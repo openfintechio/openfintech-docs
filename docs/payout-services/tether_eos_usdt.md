@@ -25,6 +25,7 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`wallet_id`|✔|`string`|`/^.{10,64}$/`| 
+|`memo`|✗|`string`|`/^.{10,64}$/`| 
  
 
 ### Details 
@@ -46,6 +47,24 @@
 	: [EN] Tether EOS wallet 
 	: [RU] Tether EOS кошелёк 
 	: [UK] Tether EOS гаманець 
+ 
+2. **`memo`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{10,64}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Destination tag / MEMO 
+	: [RU] Destination tag / MEMO 
+	: [UK] Destination tag / MEMO 
+ 
+	Hint:  
+	: [EN] MEMO is a necessary tag to identify the transfer 
+	: [RU] MEMO is a necessary tag to identify the transfer 
+	: [UK] MEMO is a necessary tag to identify the transfer 
  
 
 ## JSON Object 
@@ -73,6 +92,24 @@
       "required":true,
       "position":1,
       "example":"0x501906Ce564be7bA80Eb55A29EE31ECfaE41b6f2"
+    },
+    {
+      "key":"memo",
+      "type":"string",
+      "label":{
+        "en":"Destination tag \/ MEMO",
+        "ru":"Destination tag \/ MEMO",
+        "uk":"Destination tag \/ MEMO"
+      },
+      "hint":{
+        "en":"MEMO is a necessary tag to identify the transfer",
+        "ru":"MEMO is a necessary tag to identify the transfer",
+        "uk":"MEMO is a necessary tag to identify the transfer"
+      },
+      "regexp":"\/^.{10,64}$\/",
+      "required":false,
+      "position":2,
+      "example":"2921353769"
     }
   ],
   "amount_min":"0.00000001",

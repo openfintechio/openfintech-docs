@@ -41,6 +41,10 @@ The list of [Payout Services](/payout-services/) based on the _Tether_
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_polygon_usdt](/payout-services/tether_polygon_usdt/)|`tether_polygon_usdt`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_usd](/payout-services/tether_usd/)|`tether_usd`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_erc20_usd](/payout-services/tether_erc20_usd/)|`tether_erc20_usd`| 
+|![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_arbitrum_usdt](/payout-services/tether_arbitrum_usdt/)|`tether_arbitrum_usdt`| 
+|![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_cchain_usdt](/payout-services/tether_cchain_usdt/)|`tether_cchain_usdt`| 
+|![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_near_usdt](/payout-services/tether_near_usdt/)|`tether_near_usdt`| 
+|![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_sol_usdt](/payout-services/tether_sol_usdt/)|`tether_sol_usdt`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_erc20_usdt](/payout-services/tether_erc20_usdt/)|`tether_erc20_usdt`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_trc20_usdt](/payout-services/tether_trc20_usdt/)|`tether_trc20_usdt`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_omni_usdt](/payout-services/tether_omni_usdt/)|`tether_omni_usdt`| 
