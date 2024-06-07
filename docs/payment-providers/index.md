@@ -480,6 +480,7 @@
 |![localpayments](https://static.openfintech.io/payment_providers/localpayments/logo.svg?w=600&c=v0.59.26#w100) |[**Localpayments**](localpayments/)|`localpayments`| 
 |![lpb](https://static.openfintech.io/payment_providers/lpb/logo.svg?w=600&c=v0.59.26#w100) |[**LPB**](lpb/)|`lpb`| 
 || **M** ||
+|![macropay](https://static.openfintech.io/payment_providers/macropay/logo.png?w=600&c=v0.59.26#w100) |[**Macropay**](macropay/)|`macropay`| 
 |![magicpayments](https://static.openfintech.io/payment_providers/magicpayments/logo.svg?w=600&c=v0.59.26#w100) |[**Magic Payments**](magicpayments/)|`magicpayments`| 
 |![magnius](https://static.openfintech.io/payment_providers/magnius/logo.png?w=600&c=v0.59.26#w100) |[**Magnius**](magnius/)|`magnius`| 
 |![maguapay](https://static.openfintech.io/payment_providers/maguapay/logo.png?w=600&c=v0.59.26#w100) |[**Magua Pay**](maguapay/)|`maguapay`| 

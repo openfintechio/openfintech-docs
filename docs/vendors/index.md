@@ -1154,6 +1154,7 @@
 |![lugan_f_ya_pat_kbprivatbankm_lugansk](https://static.openfintech.io/vendors/lugan_f_ya_pat_kbprivatbankm_lugansk/logo.svg?w=600&c=v0.59.26#w200) |[**ЛУГАНСЬКА ФІЛІЯ ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](lugan_f_ya_pat_kbprivatbankm_lugansk/)|`lugan_f_ya_pat_kbprivatbankm_lugansk`| 
 |![lyubojbanktailanda](https://static.openfintech.io/vendors/lyubojbanktailanda/logo.svg?w=600&c=v0.59.26#w200) |[**Любой банк Таиланда**](lyubojbanktailanda/)|`lyubojbanktailanda`| 
 || **M** ||
+|![macropay](https://static.openfintech.io/vendors/macropay/logo.png?w=600&c=v0.59.26#w200) |[**Macropay**](macropay/)|`macropay`| 
 |![maestro](https://static.openfintech.io/vendors/maestro/logo.svg?w=600&c=v0.59.26#w200) |[**Maestro**](maestro/)|`maestro`| 
 |![magicpayments](https://static.openfintech.io/vendors/magicpayments/logo.svg?w=600&c=v0.59.26#w200) |[**Magic Payments**](magicpayments/)|`magicpayments`| 
 |![magna](https://static.openfintech.io/vendors/magna/logo.svg?w=600&c=v0.59.26#w200) |[**Magna**](magna/)|`magna`| 
