@@ -43,6 +43,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi](/payment-methods/upi/)|`upi`| 
 |![humo](https://static.openfintech.io/payment_methods/humo/icon.svg?w=278&c=v0.59.26#w100) |[humo](/payment-methods/humo/)|`humo`| 
 |![uzcard](https://static.openfintech.io/payment_methods/uzcard/icon.svg?w=278&c=v0.59.26#w100) |[uzcard](/payment-methods/uzcard/)|`uzcard`| 
+|![easypaisa](https://static.openfintech.io/payment_methods/easypaisa/icon.svg?w=278&c=v0.59.26#w100) |[easypaisa](/payment-methods/easypaisa/)|`easypaisa`| 
+|![jazzcash](https://static.openfintech.io/payment_methods/jazzcash/icon.svg?w=278&c=v0.59.26#w100) |[jazzcash](/payment-methods/jazzcash/)|`jazzcash`| 
  
 
 ## Payout Methods 
@@ -70,7 +72,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "payment_card",
     "upi",
     "humo",
-    "uzcard"
+    "uzcard",
+    "easypaisa",
+    "jazzcash"
   ],
   "payout_method":[
     "payment_card",
