@@ -323,6 +323,7 @@
 |![ezeebill](https://static.openfintech.io/payment_providers/ezeebill/logo.svg?w=600&c=v0.59.26#w100) |[**Ezeebill**](ezeebill/)|`ezeebill`| 
 |![ezic](https://static.openfintech.io/payment_providers/ezic/logo.png?w=600&c=v0.59.26#w100) |[**Ezic**](ezic/)|`ezic`| 
 || **F** ||
+|![facilero](https://static.openfintech.io/payment_providers/facilero/logo.png?w=600&c=v0.59.26#w100) |[**Facilero**](facilero/)|`facilero`| 
 |![facilitapay](https://static.openfintech.io/payment_providers/facilitapay/logo.svg?w=600&c=v0.59.26#w100) |[**FacilitaPay**](facilitapay/)|`facilitapay`| 
 |![faspay](https://static.openfintech.io/payment_providers/faspay/logo.png?w=600&c=v0.59.26#w100) |[**Faspay**](faspay/)|`faspay`| 
 |![faturah](https://static.openfintech.io/payment_providers/faturah/logo.svg?w=600&c=v0.59.26#w100) |[**Faturah**](faturah/)|`faturah`| 
