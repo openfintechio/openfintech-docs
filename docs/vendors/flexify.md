@@ -14,6 +14,9 @@
  
 **Status:** `active` 
  
+**Links:** 
+: website [https://flexify.finance/](https://flexify.finance/) 
+ 
 
 ## Images 
 
@@ -45,7 +48,9 @@ https://static.openfintech.io/vendors/flexify/icon.png?w=278&c=v0.59.26#w100
   },
   "status":"active",
   "description":null,
-  "links":null,
+  "links":{
+    "website":"https:\/\/flexify.finance\/"
+  },
   "countries":null,
   "contacts":null,
   "address":null,

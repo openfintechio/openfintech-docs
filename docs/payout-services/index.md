@@ -1712,6 +1712,7 @@
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_vef`](payment_card_vef/)|`VEF`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_vnd`](payment_card_vnd/)|`VND`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_xaf`](payment_card_xaf/)|`XAF`| 
+|![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_xts`](payment_card_xts/)|`XTS`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_zar`](payment_card_zar/)|`ZAR`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`payment_card_zwl`](payment_card_zwl/)|`ZWL`| 
 |![PayPal](https://static.openfintech.io/payout_methods/paypal/logo.svg?w=400&c=v0.59.26#w24) |[**PayPal**](/payout-methods/paypal/)|[`paypal_email_aud`](paypal_email_aud/)|`AUD`| 

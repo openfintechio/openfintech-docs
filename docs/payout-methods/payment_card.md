@@ -117,6 +117,7 @@ The list of [Payout Services](/payout-services/) based on the _Card_
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_bhd](/payout-services/payment_card_bhd/)|`payment_card_bhd`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_omr](/payout-services/payment_card_omr/)|`payment_card_omr`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_bdt](/payout-services/payment_card_bdt/)|`payment_card_bdt`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_xts](/payout-services/payment_card_xts/)|`payment_card_xts`| 
  
 
 ## Payment Providers 
