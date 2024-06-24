@@ -40,6 +40,7 @@ The list of [Payment Services](/payment-services/) based on the _Rapid Transfer_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![rapidtransfer](https://static.openfintech.io/payment_methods/rapidtransfer/icon.png?w=278&c=v0.59.26#w100) |[rapidtransfer_eur_hpp](/payment-services/rapidtransfer_eur_hpp/)|`rapidtransfer_eur_hpp`| 
+|![rapidtransfer](https://static.openfintech.io/payment_methods/rapidtransfer/icon.png?w=278&c=v0.59.26#w100) |[rapidtransfer_usd_hpp](/payment-services/rapidtransfer_usd_hpp/)|`rapidtransfer_usd_hpp`| 
  
 
 ## Payment Providers 
@@ -49,6 +50,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Rapid Tra
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![skrill](https://static.openfintech.io/payment_providers/skrill/icon.svg?w=278&c=v0.59.26#w100) |[Skrill](/payment-providers/skrill/)|`skrill`| 
+|![gatetwoway](https://static.openfintech.io/payment_providers/gatetwoway/icon.svg?w=278&c=v0.59.26#w100) |[Gate2way](/payment-providers/gatetwoway/)|`gatetwoway`| 
  
 
 ## JSON Object 
