@@ -33,6 +33,15 @@ https://static.openfintech.io/payment_providers/betterbro/logo.png?w=400&c=v0.59
 https://static.openfintech.io/payment_providers/betterbro/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Methods 
+ 
+The list of supported [Payment Methods](/payment-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![binancepay](https://static.openfintech.io/payment_methods/binancepay/icon.svg?w=278&c=v0.59.26#w100) |[binancepay](/payment-methods/binancepay/)|`binancepay`| 
+ 
+
 ## Payout Methods 
  
 The list of supported [Payout Methods](/payout-methods/) 
@@ -51,7 +60,9 @@ The list of supported [Payout Methods](/payout-methods/)
   "vendor":"betterbro",
   "categories":null,
   "countries":null,
-  "payment_method":null,
+  "payment_method":[
+    "binancepay"
+  ],
   "payout_method":[
     "upi"
   ],

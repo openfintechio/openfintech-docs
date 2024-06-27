@@ -363,6 +363,7 @@
 |![chuguyivskii-rem-ak-kharkivoblenergo](https://static.openfintech.io/payout_methods/chuguyivskii-rem-ak-kharkivoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Chuguevsky RES AK 'Kharkivoblenergo'**](chuguyivskii-rem-ak-kharkivoblenergo/)|`chuguyivskii-rem-ak-kharkivoblenergo`| 
 |![chuguyivskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018](https://static.openfintech.io/payout_methods/chuguyivskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Чугуївський РЕМ АК "Харківобленерго" (за послуги до 31.12.2018)**](chuguyivskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|`chuguyivskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018`| 
 |![chukyo_bank](https://static.openfintech.io/payout_methods/chukyo_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Chukyo Bank**](chukyo_bank/)|`chukyo_bank`| 
+|![cib_smart_wallet](https://static.openfintech.io/payout_methods/cib_smart_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**CIB Smart Wallet**](cib_smart_wallet/)|`cib_smart_wallet`| 
 |![cid-net-ua-login-kiev](https://static.openfintech.io/payout_methods/cid-net-ua-login-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Cid.net.ua - Login (Kiev)**](cid-net-ua-login-kiev/)|`cid-net-ua-login-kiev`| 
 |![cid-net-ua-uid-kiev](https://static.openfintech.io/payout_methods/cid-net-ua-uid-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Cid.net.ua - UID (Kiev)**](cid-net-ua-uid-kiev/)|`cid-net-ua-uid-kiev`| 
 |![cimb_bank](https://static.openfintech.io/payout_methods/cimb_bank/logo.png?w=400&c=v0.59.26#w24) |[**CIMB Bank Vietnam Limited**](cimb_bank/)|`cimb_bank`| 
@@ -556,6 +557,7 @@
 |![esoe_mfb](https://static.openfintech.io/payout_methods/esoe_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Eso-E MFB**](esoe_mfb/)|`esoe_mfb`| 
 |![ethereum](https://static.openfintech.io/payout_methods/ethereum/logo.svg?w=400&c=v0.59.26#w24) |[**Ethereum**](ethereum/)|`ethereum`| 
 |![etherlink](https://static.openfintech.io/payout_methods/etherlink/logo.svg?w=400&c=v0.59.26#w24) |[**Etherlink**](etherlink/)|`etherlink`| 
+|![etisalat_cash](https://static.openfintech.io/payout_methods/etisalat_cash/logo.svg?w=400&c=v0.59.26#w24) |[**Etisalat Cash**](etisalat_cash/)|`etisalat_cash`| 
 |![etranzact](https://static.openfintech.io/payout_methods/etranzact/logo.svg?w=400&c=v0.59.26#w24) |[**Etranzact**](etranzact/)|`etranzact`| 
 |![eurogroshi](https://static.openfintech.io/payout_methods/eurogroshi/logo.svg?w=400&c=v0.59.26#w24) |[**Eurogroshi**](eurogroshi/)|`eurogroshi`| 
 |![eurolan](https://static.openfintech.io/payout_methods/eurolan/logo.png?w=400&c=v0.59.26#w24) |[**Eurolan**](eurolan/)|`eurolan`| 

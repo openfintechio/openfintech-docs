@@ -35,6 +35,7 @@ The list of [Payout Services](/payout-services/) based on the _Vodafone Cash_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![vodafone_cash](https://static.openfintech.io/payout_methods/vodafone_cash/icon.svg?w=278&c=v0.59.26#w40) |[vodafone_cash_ghs](/payout-services/vodafone_cash_ghs/)|`vodafone_cash_ghs`| 
+|![vodafone_cash](https://static.openfintech.io/payout_methods/vodafone_cash/icon.svg?w=278&c=v0.59.26#w40) |[vodafone_cash_egp](/payout-services/vodafone_cash_egp/)|`vodafone_cash_egp`| 
  
 
 ## Payment Providers 

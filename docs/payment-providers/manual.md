@@ -54,6 +54,9 @@ The list of supported [Payout Methods](/payout-methods/)
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
 |![bkash_limited](https://static.openfintech.io/payout_methods/bkash_limited/icon.png?w=278&c=v0.59.26#w40) |[bkash_limited](payout-methodsbkash_limited/)|`bkash_limited`| 
 |![nagad_wallet](https://static.openfintech.io/payout_methods/nagad_wallet/icon.svg?w=278&c=v0.59.26#w40) |[nagad_wallet](payout-methodsnagad_wallet/)|`nagad_wallet`| 
+|![etisalat_cash](https://static.openfintech.io/payout_methods/etisalat_cash/icon.svg?w=278&c=v0.59.26#w40) |[etisalat_cash](payout-methodsetisalat_cash/)|`etisalat_cash`| 
+|![cib_smart_wallet](https://static.openfintech.io/payout_methods/cib_smart_wallet/icon.svg?w=278&c=v0.59.26#w40) |[cib_smart_wallet](payout-methodscib_smart_wallet/)|`cib_smart_wallet`| 
+|![vodafone_cash](https://static.openfintech.io/payout_methods/vodafone_cash/icon.svg?w=278&c=v0.59.26#w40) |[vodafone_cash](payout-methodsvodafone_cash/)|`vodafone_cash`| 
  
 
 ## JSON Object 
@@ -76,7 +79,10 @@ The list of supported [Payout Methods](/payout-methods/)
     "cash",
     "payment_card",
     "bkash_limited",
-    "nagad_wallet"
+    "nagad_wallet",
+    "etisalat_cash",
+    "cib_smart_wallet",
+    "vodafone_cash"
   ],
   "metadata":null,
   "name":{

@@ -77,6 +77,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![pix](https://static.openfintech.io/payout_methods/pix/icon.svg?w=278&c=v0.59.26#w40) |[pix](payout-methodspix/)|`pix`| 
 |![imps](https://static.openfintech.io/payout_methods/imps/icon.png?w=278&c=v0.59.26#w40) |[imps](payout-methodsimps/)|`imps`| 
 |![paytm](https://static.openfintech.io/payout_methods/paytm/icon.svg?w=278&c=v0.59.26#w40) |[paytm](payout-methodspaytm/)|`paytm`| 
+|![sepa_transfer](https://static.openfintech.io/payout_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w40) |[sepa_transfer](payout-methodssepa_transfer/)|`sepa_transfer`| 
  
 
 ## JSON Object 
@@ -120,7 +121,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "upi",
     "pix",
     "imps",
-    "paytm"
+    "paytm",
+    "sepa_transfer"
   ],
   "metadata":null,
   "name":{

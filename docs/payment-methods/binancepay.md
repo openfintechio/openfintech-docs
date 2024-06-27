@@ -59,6 +59,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Binance P
 |:---:|:---:|:---:| 
 |![4bill](https://static.openfintech.io/payment_providers/4bill/icon.svg?w=278&c=v0.59.26#w100) |[SettlePay](/payment-providers/4bill/)|`4bill`| 
 |![geopaynet](https://static.openfintech.io/payment_providers/geopaynet/icon.svg?w=278&c=v0.59.26#w100) |[GEO Pay](/payment-providers/geopaynet/)|`geopaynet`| 
+|![betterbro](https://static.openfintech.io/payment_providers/betterbro/icon.png?w=278&c=v0.59.26#w100) |[Betterbro](/payment-providers/betterbro/)|`betterbro`| 
  
 
 ## JSON Object 
