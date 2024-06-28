@@ -916,6 +916,7 @@
 |![PayID](https://static.openfintech.io/payment_methods/pay_id/logo.svg?w=400&c=v0.59.26#w200) |[**PayID**](/payment-methods/pay_id/)|[`pay_id_aud_hpp`](pay_id_aud_hpp/)| 
 |![PayID](https://static.openfintech.io/payment_methods/pay_id/logo.svg?w=400&c=v0.59.26#w200) |[**PayID**](/payment-methods/pay_id/)|[`pay_id_aud_invoice`](pay_id_aud_invoice/)| 
 |![Paybol](https://static.openfintech.io/payment_methods/paybol/logo.svg?w=400&c=v0.59.26#w200) |[**Paybol**](/payment-methods/paybol/)|[`paybol_try_hpp`](paybol_try_hpp/)| 
+|![PayByBank](https://static.openfintech.io/payment_methods/paybybank/logo.png?w=400&c=v0.59.26#w200) |[**PayByBank**](/payment-methods/paybybank/)|[`paybybank_eur_hpp`](paybybank_eur_hpp/)| 
 |![Payeer](https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&c=v0.59.26#w200) |[**Payeer**](/payment-methods/payeer/)|[`payeer_eur_hpp`](payeer_eur_hpp/)| 
 |![Payeer](https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&c=v0.59.26#w200) |[**Payeer**](/payment-methods/payeer/)|[`payeer_rub_hpp`](payeer_rub_hpp/)| 
 |![Payeer](https://static.openfintech.io/payment_methods/payeer/logo.svg?w=400&c=v0.59.26#w200) |[**Payeer**](/payment-methods/payeer/)|[`payeer_usd_hpp`](payeer_usd_hpp/)| 

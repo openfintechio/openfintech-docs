@@ -109,6 +109,7 @@
 |![billtomobile](https://static.openfintech.io/payment_providers/billtomobile/logo.svg?w=600&c=v0.59.26#w100) |[**BilltoMobile**](billtomobile/)|`billtomobile`| 
 |![bingopay](https://static.openfintech.io/payment_providers/bingopay/logo.svg?w=600&c=v0.59.26#w100) |[**BingoPay**](bingopay/)|`bingopay`| 
 |![bips](https://static.openfintech.io/payment_providers/bips/logo.svg?w=600&c=v0.59.26#w100) |[**BIPS**](bips/)|`bips`| 
+|![bitandpay](https://static.openfintech.io/payment_providers/bitandpay/logo.png?w=600&c=v0.59.26#w100) |[**BitAndPay**](bitandpay/)|`bitandpay`| 
 |![bitcoinpay](https://static.openfintech.io/payment_providers/bitcoinpay/logo.svg?w=600&c=v0.59.26#w100) |[**BitcoinPay**](bitcoinpay/)|`bitcoinpay`| 
 |![bitcoinpaygate](https://static.openfintech.io/payment_providers/bitcoinpaygate/logo.svg?w=600&c=v0.59.26#w100) |[**Bitcoinpaygate**](bitcoinpaygate/)|`bitcoinpaygate`| 
 |![bitexpro](https://static.openfintech.io/payment_providers/bitexpro/logo.png?w=600&c=v0.59.26#w100) |[**BitexPRO**](bitexpro/)|`bitexpro`| 

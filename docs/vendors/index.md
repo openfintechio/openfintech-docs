@@ -339,6 +339,7 @@
 |![bit-changer.net](https://static.openfintech.io/vendors/bit-changer.net/logo.svg?w=600&c=v0.59.26#w200) |[**Bit-Changer**](bit-changer.net/)|`bit-changer.net`| 
 |![bit-exchanger.ru](https://static.openfintech.io/vendors/bit-exchanger.ru/logo.svg?w=600&c=v0.59.26#w200) |[**bit-exchanger.ru**](bit-exchanger.ru/)|`bit-exchanger.ru`| 
 |![bit-obmenka](https://static.openfintech.io/vendors/bit-obmenka/logo.svg?w=600&c=v0.59.26#w200) |[**bit-obmenka**](bit-obmenka/)|`bit-obmenka`| 
+|![bitandpay](https://static.openfintech.io/vendors/bitandpay/logo.png?w=600&c=v0.59.26#w200) |[**BitAndPay**](bitandpay/)|`bitandpay`| 
 |![bitcoin](https://static.openfintech.io/vendors/bitcoin/logo.svg?w=600&c=v0.59.26#w200) |[**Bitcoin**](bitcoin/)|`bitcoin`| 
 |![bitcoin-obmen](https://static.openfintech.io/vendors/bitcoin-obmen/logo.svg?w=600&c=v0.59.26#w200) |[**Bitcoin-Obmen**](bitcoin-obmen/)|`bitcoin-obmen`| 
 |![bitcoin24.su](https://static.openfintech.io/vendors/bitcoin24.su/logo.svg?w=600&c=v0.59.26#w200) |[**bitcoin24.su**](bitcoin24.su/)|`bitcoin24.su`| 

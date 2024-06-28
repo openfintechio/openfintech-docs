@@ -575,6 +575,7 @@
 |![pay4fun](https://static.openfintech.io/payment_methods/pay4fun/logo.png?w=400&c=v0.59.26#w200) |[**Pay4Fun**](pay4fun/)|`pay4fun`| 
 |![pay_id](https://static.openfintech.io/payment_methods/pay_id/logo.svg?w=400&c=v0.59.26#w200) |[**PayID**](pay_id/)|`pay_id`| 
 |![paybol](https://static.openfintech.io/payment_methods/paybol/logo.svg?w=400&c=v0.59.26#w200) |[**Paybol**](paybol/)|`paybol`| 
+|![paybybank](https://static.openfintech.io/payment_methods/paybybank/logo.png?w=400&c=v0.59.26#w200) |[**PayByBank**](paybybank/)|`paybybank`| 
 |![paybybill](https://static.openfintech.io/payment_methods/paybybill/logo.png?w=400&c=v0.59.26#w200) |[**PayByBill**](paybybill/)|`paybybill`| 
 |![payd](https://static.openfintech.io/payment_methods/payd/logo.png?w=400&c=v0.59.26#w200) |[**payD**](payd/)|`payd`| 
 |![paydirekt](https://static.openfintech.io/payment_methods/paydirekt/logo.svg?w=400&c=v0.59.26#w200) |[**paydirekt**](paydirekt/)|`paydirekt`| 
