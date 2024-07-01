@@ -994,6 +994,7 @@
 |![xpate](https://static.openfintech.io/payment_providers/xpate/logo.svg?w=600&c=v0.59.26#w100) |[**Xpate**](xpate/)|`xpate`| 
 |![xpayua](https://static.openfintech.io/payment_providers/xpayua/logo.svg?w=600&c=v0.59.26#w100) |[**XPAY**](xpayua/)|`xpayua`| 
 |![xpresspayio](https://static.openfintech.io/payment_providers/xpresspayio/logo.svg?w=600&c=v0.59.26#w100) |[**XpressPay.io**](xpresspayio/)|`xpresspayio`| 
+|![xsellmoney](https://static.openfintech.io/payment_providers/xsellmoney/logo.png?w=600&c=v0.59.26#w100) |[**Xsell.money**](xsellmoney/)|`xsellmoney`| 
 |![xsolla](https://static.openfintech.io/payment_providers/xsolla/logo.png?w=600&c=v0.59.26#w100) |[**Xsolla**](xsolla/)|`xsolla`| 
 || **Y** ||
 |![yandexcheckout](https://static.openfintech.io/payment_providers/yandexcheckout/logo.png?w=600&c=v0.59.26#w100) |[**Yandex.Checkout**](yandexcheckout/)|`yandexcheckout`| 

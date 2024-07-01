@@ -2293,6 +2293,7 @@
 |![xpate](https://static.openfintech.io/vendors/xpate/logo.svg?w=600&c=v0.59.26#w200) |[**Xpate**](xpate/)|`xpate`| 
 |![xpayua](https://static.openfintech.io/vendors/xpayua/logo.svg?w=600&c=v0.59.26#w200) |[**XPAY**](xpayua/)|`xpayua`| 
 |![xpresspayio](https://static.openfintech.io/vendors/xpresspayio/logo.svg?w=600&c=v0.59.26#w200) |[**XpressPay.io**](xpresspayio/)|`xpresspayio`| 
+|![xsellmoney](https://static.openfintech.io/vendors/xsellmoney/logo.png?w=600&c=v0.59.26#w200) |[**Xsell.money**](xsellmoney/)|`xsellmoney`| 
 |![xsolla](https://static.openfintech.io/vendors/xsolla/logo.png?w=600&c=v0.59.26#w200) |[**Xsolla**](xsolla/)|`xsolla`| 
 |![xzzx.biz](https://static.openfintech.io/vendors/xzzx.biz/logo.svg?w=600&c=v0.59.26#w200) |[**xzzx.biz**](xzzx.biz/)|`xzzx.biz`| 
 || **Y** ||

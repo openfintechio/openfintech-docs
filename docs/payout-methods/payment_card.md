@@ -564,6 +564,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![prosperos](https://static.openfintech.io/payment_providers/prosperos/icon.svg?w=278&c=v0.59.26#w100) |[Prosperos](/payment-providers/prosperos/)|`prosperos`| 
 |![settlespot](https://static.openfintech.io/payment_providers/settlespot/icon.png?w=278&c=v0.59.26#w100) |[SettleSpot](/payment-providers/settlespot/)|`settlespot`| 
 |![aureavia](https://static.openfintech.io/payment_providers/aureavia/icon.png?w=278&c=v0.59.26#w100) |[Aurea Via](/payment-providers/aureavia/)|`aureavia`| 
+|![xsellmoney](https://static.openfintech.io/payment_providers/xsellmoney/icon.png?w=278&c=v0.59.26#w100) |[Xsell.money](/payment-providers/xsellmoney/)|`xsellmoney`| 
  
 
 ## JSON Object 
