@@ -2133,6 +2133,7 @@
 |![unichange.me](https://static.openfintech.io/vendors/unichange.me/logo.svg?w=600&c=v0.59.26#w200) |[**UniChange**](unichange.me/)|`unichange.me`| 
 |![unicredit](https://static.openfintech.io/vendors/unicredit/logo.png?w=600&c=v0.59.26#w200) |[**UniCredit**](unicredit/)|`unicredit`| 
 |![uniex.co](https://static.openfintech.io/vendors/uniex.co/logo.svg?w=600&c=v0.59.26#w200) |[**uniex.co**](uniex.co/)|`uniex.co`| 
+|![unifiedfinance](https://static.openfintech.io/vendors/unifiedfinance/logo.svg?w=600&c=v0.59.26#w200) |[**Unified Finance**](unifiedfinance/)|`unifiedfinance`| 
 |![uniobmen.ru](https://static.openfintech.io/vendors/uniobmen.ru/logo.svg?w=600&c=v0.59.26#w200) |[**Uniobmen.ru**](uniobmen.ru/)|`uniobmen.ru`| 
 |![union_bank](https://static.openfintech.io/vendors/union_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Unionbank**](union_bank/)|`union_bank`| 
 |![uniongate](https://static.openfintech.io/vendors/uniongate/logo.png?w=600&c=v0.59.26#w200) |[**UnionGate**](uniongate/)|`uniongate`| 

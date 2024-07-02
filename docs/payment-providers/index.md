@@ -931,6 +931,7 @@
 |![ubankconnect](https://static.openfintech.io/payment_providers/ubankconnect/logo.svg?w=600&c=v0.59.26#w100) |[**UBank Connect**](ubankconnect/)|`ubankconnect`| 
 |![ugspaycom](https://static.openfintech.io/payment_providers/ugspaycom/logo.png?w=600&c=v0.59.26#w100) |[**UGSPay**](ugspaycom/)|`ugspaycom`| 
 |![ukrgasbank](https://static.openfintech.io/payment_providers/ukrgasbank/logo.png?w=600&c=v0.59.26#w100) |[**UkrGasBank**](ukrgasbank/)|`ukrgasbank`| 
+|![unifiedfinance](https://static.openfintech.io/payment_providers/unifiedfinance/logo.svg?w=600&c=v0.59.26#w100) |[**Unified Finance**](unifiedfinance/)|`unifiedfinance`| 
 |![uniongate](https://static.openfintech.io/payment_providers/uniongate/logo.png?w=600&c=v0.59.26#w100) |[**UnionGate**](uniongate/)|`uniongate`| 
 |![uniteller](https://static.openfintech.io/payment_providers/uniteller/logo.png?w=600&c=v0.59.26#w100) |[**Uniteller**](uniteller/)|`uniteller`| 
 |![uniteplat](https://static.openfintech.io/payment_providers/uniteplat/logo.png?w=600&c=v0.59.26#w100) |[**UnitePlat**](uniteplat/)|`uniteplat`| 
