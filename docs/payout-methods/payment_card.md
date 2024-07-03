@@ -566,6 +566,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![aureavia](https://static.openfintech.io/payment_providers/aureavia/icon.png?w=278&c=v0.59.26#w100) |[Aurea Via](/payment-providers/aureavia/)|`aureavia`| 
 |![xsellmoney](https://static.openfintech.io/payment_providers/xsellmoney/icon.png?w=278&c=v0.59.26#w100) |[Xsell.money](/payment-providers/xsellmoney/)|`xsellmoney`| 
 |![unifiedfinance](https://static.openfintech.io/payment_providers/unifiedfinance/icon.svg?w=278&c=v0.59.26#w100) |[Unified Finance](/payment-providers/unifiedfinance/)|`unifiedfinance`| 
+|![vendo](https://static.openfintech.io/payment_providers/vendo/icon.png?w=278&c=v0.59.26#w100) |[Vendo Services GmbH](/payment-providers/vendo/)|`vendo`| 
  
 
 ## JSON Object 
