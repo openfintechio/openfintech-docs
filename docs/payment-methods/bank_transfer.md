@@ -75,6 +75,7 @@ The list of [Payment Services](/payment-services/) based on the _Bank Transfer_
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_vnd_invoice](/payment-services/bank_transfer_vnd_invoice/)|`bank_transfer_vnd_invoice`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_pen_hpp](/payment-services/bank_transfer_pen_hpp/)|`bank_transfer_pen_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bancotestin_cop_hpp](/payment-services/bancotestin_cop_hpp/)|`bancotestin_cop_hpp`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_cad_hpp](/payment-services/bank_transfer_cad_hpp/)|`bank_transfer_cad_hpp`| 
  
 
 ## Payment Providers 
@@ -118,6 +119,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![aspay](https://static.openfintech.io/payment_providers/aspay/icon.png?w=278&c=v0.59.26#w100) |[AsPay](/payment-providers/aspay/)|`aspay`| 
 |![hellopayment](https://static.openfintech.io/payment_providers/hellopayment/icon.png?w=278&c=v0.59.26#w100) |[HelloPayment](/payment-providers/hellopayment/)|`hellopayment`| 
 |![tapbank](https://static.openfintech.io/payment_providers/tapbank/icon.png?w=278&c=v0.59.26#w100) |[TapBank](/payment-providers/tapbank/)|`tapbank`| 
+|![vendo](https://static.openfintech.io/payment_providers/vendo/icon.png?w=278&c=v0.59.26#w100) |[Vendo Services GmbH](/payment-providers/vendo/)|`vendo`| 
  
 
 ## JSON Object 

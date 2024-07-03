@@ -37,6 +37,8 @@ The list of [Payment Services](/payment-services/) based on the _Sepa Transfer_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_eur_hpp](/payment-services/sepa_transfer_eur_hpp/)|`sepa_transfer_eur_hpp`| 
+|![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_cad_hpp](/payment-services/sepa_transfer_cad_hpp/)|`sepa_transfer_cad_hpp`| 
+|![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_usd_hpp](/payment-services/sepa_transfer_usd_hpp/)|`sepa_transfer_usd_hpp`| 
  
 
 ## Payment Providers 
@@ -50,6 +52,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Sepa Tran
 |![noda](https://static.openfintech.io/payment_providers/noda/icon.svg?w=278&c=v0.59.26#w100) |[Noda](/payment-providers/noda/)|`noda`| 
 |![katarun](https://static.openfintech.io/payment_providers/katarun/icon.png?w=278&c=v0.59.26#w100) |[Katarun](/payment-providers/katarun/)|`katarun`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
+|![vendo](https://static.openfintech.io/payment_providers/vendo/icon.png?w=278&c=v0.59.26#w100) |[Vendo Services GmbH](/payment-providers/vendo/)|`vendo`| 
  
 
 ## JSON Object 

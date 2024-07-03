@@ -949,6 +949,7 @@
 |![vantagepayments](https://static.openfintech.io/payment_providers/vantagepayments/logo.png?w=600&c=v0.59.26#w100) |[**Vantage Payments**](vantagepayments/)|`vantagepayments`| 
 |![vantiv](https://static.openfintech.io/payment_providers/vantiv/logo.png?w=600&c=v0.59.26#w100) |[**Vantiv**](vantiv/)|`vantiv`| 
 |![vcreditos](https://static.openfintech.io/payment_providers/vcreditos/logo.svg?w=600&c=v0.59.26#w100) |[**VCreditos**](vcreditos/)|`vcreditos`| 
+|![vendo](https://static.openfintech.io/payment_providers/vendo/logo.png?w=600&c=v0.59.26#w100) |[**Vendo Services GmbH**](vendo/)|`vendo`| 
 |![veritransinc](https://static.openfintech.io/payment_providers/veritransinc/logo.png?w=600&c=v0.59.26#w100) |[**VeriTrans Inc.**](veritransinc/)|`veritransinc`| 
 |![veritransindonesia](https://static.openfintech.io/payment_providers/veritransindonesia/logo.png?w=600&c=v0.59.26#w100) |[**Veritrans Indonesia**](veritransindonesia/)|`veritransindonesia`| 
 |![verotel](https://static.openfintech.io/payment_providers/verotel/logo.png?w=600&c=v0.59.26#w100) |[**Verotel**](verotel/)|`verotel`| 
