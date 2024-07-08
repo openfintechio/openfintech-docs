@@ -62,6 +62,7 @@
 |![anymoney](https://static.openfintech.io/payment_providers/anymoney/logo.svg?w=600&c=v0.59.26#w100) |[**Any.Money**](anymoney/)|`anymoney`| 
 |![apco](https://static.openfintech.io/payment_providers/apco/logo.png?w=600&c=v0.59.26#w100) |[**APCO**](apco/)|`apco`| 
 |![apcopay](https://static.openfintech.io/payment_providers/apcopay/logo.svg?w=600&c=v0.59.26#w100) |[**Apcopay**](apcopay/)|`apcopay`| 
+|![apixoom](https://static.openfintech.io/payment_providers/apixoom/logo.png?w=600&c=v0.59.26#w100) |[**Apixoom**](apixoom/)|`apixoom`| 
 |![appexmoney](https://static.openfintech.io/payment_providers/appexmoney/logo.svg?w=600&c=v0.59.26#w100) |[**Appexmoney**](appexmoney/)|`appexmoney`| 
 |![aps](https://static.openfintech.io/payment_providers/aps/logo.svg?w=600&c=v0.59.26#w100) |[**APS**](aps/)|`aps`| 
 |![aramorpayments](https://static.openfintech.io/payment_providers/aramorpayments/logo.svg?w=600&c=v0.59.26#w100) |[**Aramor Payments**](aramorpayments/)|`aramorpayments`| 
