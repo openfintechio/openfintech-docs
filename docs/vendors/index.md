@@ -806,6 +806,7 @@
 |![fkirovogradske_ou_atoshad_m_kirovogra](https://static.openfintech.io/vendors/fkirovogradske_ou_atoshad_m_kirovogra/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Кiровоградське обласне управлiння ПАТ 'Державний ощадний банк України'**](fkirovogradske_ou_atoshad_m_kirovogra/)|`fkirovogradske_ou_atoshad_m_kirovogra`| 
 |![flexepin](https://static.openfintech.io/vendors/flexepin/logo.svg?w=600&c=v0.59.26#w200) |[**Flexepin**](flexepin/)|`flexepin`| 
 |![flexepinemoneyvouchers](https://static.openfintech.io/vendors/flexepinemoneyvouchers/logo.png?w=600&c=v0.59.26#w200) |[**Flexepin**](flexepinemoneyvouchers/)|`flexepinemoneyvouchers`| 
+|![flexfactor](https://static.openfintech.io/vendors/flexfactor/logo.svg?w=600&c=v0.59.26#w200) |[**FlexFactor**](flexfactor/)|`flexfactor`| 
 |![flexify](https://static.openfintech.io/vendors/flexify/logo.png?w=600&c=v0.59.26#w200) |[**Flexify**](flexify/)|`flexify`| 
 |![flexipay](https://static.openfintech.io/vendors/flexipay/logo.png?w=600&c=v0.59.26#w200) |[**UNIVERSUM Group - FlexiPay®**](flexipay/)|`flexipay`| 
 |![flo2cash](https://static.openfintech.io/vendors/flo2cash/logo.png?w=600&c=v0.59.26#w200) |[**Flo2Cash**](flo2cash/)|`flo2cash`| 

@@ -342,6 +342,7 @@
 |![firstdatamerchantsolutions](https://static.openfintech.io/payment_providers/firstdatamerchantsolutions/logo.svg?w=600&c=v0.59.26#w100) |[**First Data Merchant Services**](firstdatamerchantsolutions/)|`firstdatamerchantsolutions`| 
 |![firstglobalbilling](https://static.openfintech.io/payment_providers/firstglobalbilling/logo.png?w=600&c=v0.59.26#w100) |[**First Global Billing**](firstglobalbilling/)|`firstglobalbilling`| 
 |![flashpay](https://static.openfintech.io/payment_providers/flashpay/logo.png?w=600&c=v0.59.26#w100) |[**FlashPay**](flashpay/)|`flashpay`| 
+|![flexfactor](https://static.openfintech.io/payment_providers/flexfactor/logo.svg?w=600&c=v0.59.26#w100) |[**FlexFactor**](flexfactor/)|`flexfactor`| 
 |![flexify](https://static.openfintech.io/payment_providers/flexify/logo.png?w=600&c=v0.59.26#w100) |[**Flexify**](flexify/)|`flexify`| 
 |![flexipay](https://static.openfintech.io/payment_providers/flexipay/logo.png?w=600&c=v0.59.26#w100) |[**UNIVERSUM Group - FlexiPay®**](flexipay/)|`flexipay`| 
 |![flo2cash](https://static.openfintech.io/payment_providers/flo2cash/logo.png?w=600&c=v0.59.26#w100) |[**Flo2Cash**](flo2cash/)|`flo2cash`| 
