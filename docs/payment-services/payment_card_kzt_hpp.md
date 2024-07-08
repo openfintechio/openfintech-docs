@@ -17,7 +17,7 @@
 :	[RU] Платежная карта 
 :	[UK] Платіжна карта 
  
-**Amount limits:** from `0.01` to `1000000` KZT 
+**Amount limits:** from `0.01` to `40000000` KZT 
 
 ## JSON Object 
 
@@ -29,6 +29,6 @@
   "currency":"KZT",
   "fields":null,
   "amount_min":0.01,
-  "amount_max":1000000
+  "amount_max":40000000
 }
 ```  
