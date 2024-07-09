@@ -507,6 +507,7 @@
 |![mtn_group](https://static.openfintech.io/payment_methods/mtn_group/logo.png?w=400&c=v0.59.26#w200) |[**MTN Group**](mtn_group/)|`mtn_group`| 
 |![mts](https://static.openfintech.io/payment_methods/mts/logo.png?w=400&c=v0.59.26#w200) |[**MTS**](mts/)|`mts`| 
 |![muchbetter](https://static.openfintech.io/payment_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w200) |[**MuchBetter**](muchbetter/)|`muchbetter`| 
+|![multibanco](https://static.openfintech.io/payment_methods/multibanco/logo.png?w=400&c=v0.59.26#w200) |[**Multibanco**](multibanco/)|`multibanco`| 
 |![multibanconet](https://static.openfintech.io/payment_methods/multibanconet/logo.png?w=400&c=v0.59.26#w200) |[**MultiBanco NET**](multibanconet/)|`multibanconet`| 
 |![multibank](https://static.openfintech.io/payment_methods/multibank/logo.png?w=400&c=v0.59.26#w200) |[**MultiTransfer**](multibank/)|`multibank`| 
 |![multicaja](https://static.openfintech.io/payment_methods/multicaja/logo.svg?w=400&c=v0.59.26#w200) |[**Multicaja**](multicaja/)|`multicaja`| 
