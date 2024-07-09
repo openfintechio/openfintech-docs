@@ -16,7 +16,7 @@
 :	[RU] Card 
 :	[UK] Card 
  
-**Amount limits:** from `0.01` to `1000000` KZT 
+**Amount limits:** from `4.80` to `48000000` KZT 
 
 ## Fields 
 
@@ -81,7 +81,7 @@
       }
     }
   ],
-  "amount_min":"0.01",
-  "amount_max":"1000000"
+  "amount_min":"4.80",
+  "amount_max":"48000000"
 }
 ```  
