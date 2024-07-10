@@ -994,6 +994,7 @@
 |![wlandpay](https://static.openfintech.io/payment_providers/wlandpay/logo.png?w=600&c=v0.59.26#w100) |[**Wlandpay**](wlandpay/)|`wlandpay`| 
 |![worldpay](https://static.openfintech.io/payment_providers/worldpay/logo.svg?w=600&c=v0.59.26#w100) |[**Worldpay**](worldpay/)|`worldpay`| 
 |![wpayments](https://static.openfintech.io/payment_providers/wpayments/logo.png?w=600&c=v0.59.26#w100) |[**WPayments**](wpayments/)|`wpayments`| 
+|![wzrdpay](https://static.openfintech.io/payment_providers/wzrdpay/logo.png?w=600&c=v0.59.26#w100) |[**WZRD PAY**](wzrdpay/)|`wzrdpay`| 
 || **X** ||
 |![xpate](https://static.openfintech.io/payment_providers/xpate/logo.svg?w=600&c=v0.59.26#w100) |[**Xpate**](xpate/)|`xpate`| 
 |![xpayua](https://static.openfintech.io/payment_providers/xpayua/logo.svg?w=600&c=v0.59.26#w100) |[**XPAY**](xpayua/)|`xpayua`| 

@@ -110,6 +110,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![paytonegate](https://static.openfintech.io/payment_providers/paytonegate/icon.svg?w=278&c=v0.59.26#w100) |[PaytoneGate](/payment-providers/paytonegate/)|`paytonegate`| 
 |![ubankconnect](https://static.openfintech.io/payment_providers/ubankconnect/icon.svg?w=278&c=v0.59.26#w100) |[UBank Connect](/payment-providers/ubankconnect/)|`ubankconnect`| 
 |![payport](https://static.openfintech.io/payment_providers/payport/icon.svg?w=278&c=v0.59.26#w100) |[PayPort](/payment-providers/payport/)|`payport`| 
+|![katarun](https://static.openfintech.io/payment_providers/katarun/icon.png?w=278&c=v0.59.26#w100) |[Katarun](/payment-providers/katarun/)|`katarun`| 
 |![clearjunction](https://static.openfintech.io/payment_providers/clearjunction/icon.svg?w=278&c=v0.59.26#w100) |[Clear Junction](/payment-providers/clearjunction/)|`clearjunction`| 
 |![paystage](https://static.openfintech.io/payment_providers/paystage/icon.png?w=278&c=v0.59.26#w100) |[PayStage](/payment-providers/paystage/)|`paystage`| 
 |![paysecure](https://static.openfintech.io/payment_providers/paysecure/icon.png?w=278&c=v0.59.26#w100) |[Paysecure](/payment-providers/paysecure/)|`paysecure`| 

@@ -43,6 +43,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer](/payment-methods/sepa_transfer/)|`sepa_transfer`| 
 |![mb_way](https://static.openfintech.io/payment_methods/mb_way/icon.svg?w=278&c=v0.59.26#w100) |[mb_way](/payment-methods/mb_way/)|`mb_way`| 
 |![multibanco](https://static.openfintech.io/payment_methods/multibanco/icon.png?w=278&c=v0.59.26#w100) |[multibanco](/payment-methods/multibanco/)|`multibanco`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
  
 
 ## Payout Methods 
@@ -67,7 +68,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "payment_card",
     "sepa_transfer",
     "mb_way",
-    "multibanco"
+    "multibanco",
+    "bank_transfer"
   ],
   "payout_method":[
     "bank_transfer"

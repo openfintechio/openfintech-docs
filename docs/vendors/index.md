@@ -2291,6 +2291,7 @@
 |![wpayments](https://static.openfintech.io/vendors/wpayments/logo.png?w=600&c=v0.59.26#w200) |[**WPayments**](wpayments/)|`wpayments`| 
 |![wupay](https://static.openfintech.io/vendors/wupay/logo.png?w=600&c=v0.59.26#w200) |[**WU Pay**](wupay/)|`wupay`| 
 |![ww-pay.net](https://static.openfintech.io/vendors/ww-pay.net/logo.svg?w=600&c=v0.59.26#w200) |[**WW-Pay**](ww-pay.net/)|`ww-pay.net`| 
+|![wzrdpay](https://static.openfintech.io/vendors/wzrdpay/logo.png?w=600&c=v0.59.26#w200) |[**WZRD PAY**](wzrdpay/)|`wzrdpay`| 
 || **X** ||
 |![xn--80aa7cln](https://static.openfintech.io/vendors/xn--80aa7cln/logo.svg?w=600&c=v0.59.26#w200) |[**Шахта**](xn--80aa7cln/)|`xn--80aa7cln`| 
 |![xn--e1aidfgi0j.ua](https://static.openfintech.io/vendors/xn--e1aidfgi0j.ua/logo.svg?w=600&c=v0.59.26#w200) |[**Menyaiko**](xn--e1aidfgi0j.ua/)|`xn--e1aidfgi0j.ua`| 

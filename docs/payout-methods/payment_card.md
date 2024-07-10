@@ -568,6 +568,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![unifiedfinance](https://static.openfintech.io/payment_providers/unifiedfinance/icon.svg?w=278&c=v0.59.26#w100) |[Unified Finance](/payment-providers/unifiedfinance/)|`unifiedfinance`| 
 |![vendo](https://static.openfintech.io/payment_providers/vendo/icon.png?w=278&c=v0.59.26#w100) |[Vendo Services GmbH](/payment-providers/vendo/)|`vendo`| 
 |![flexfactor](https://static.openfintech.io/payment_providers/flexfactor/icon.svg?w=278&c=v0.59.26#w100) |[FlexFactor](/payment-providers/flexfactor/)|`flexfactor`| 
+|![wzrdpay](https://static.openfintech.io/payment_providers/wzrdpay/icon.png?w=278&c=v0.59.26#w100) |[WZRD PAY](/payment-providers/wzrdpay/)|`wzrdpay`| 
  
 
 ## JSON Object 
