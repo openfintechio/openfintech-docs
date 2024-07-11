@@ -446,6 +446,7 @@
 |![justipay](https://static.openfintech.io/payment_providers/justipay/logo.svg?w=600&c=v0.59.26#w100) |[**Justipay**](justipay/)|`justipay`| 
 || **K** ||
 |![kalixa](https://static.openfintech.io/payment_providers/kalixa/logo.png?w=600&c=v0.59.26#w100) |[**Kalixa Payments Group**](kalixa/)|`kalixa`| 
+|![kasha](https://static.openfintech.io/payment_providers/kasha/logo.png?w=600&c=v0.59.26#w100) |[**Kasha**](kasha/)|`kasha`| 
 |![kassa](https://static.openfintech.io/payment_providers/kassa/logo.svg?w=600&c=v0.59.26#w100) |[**Kassa**](kassa/)|`kassa`| 
 |![kassacompleet](https://static.openfintech.io/payment_providers/kassacompleet/logo.png?w=600&c=v0.59.26#w100) |[**Kassa Compleet**](kassacompleet/)|`kassacompleet`| 
 |![katarun](https://static.openfintech.io/payment_providers/katarun/logo.svg?w=600&c=v0.59.26#w100) |[**Katarun**](katarun/)|`katarun`| 

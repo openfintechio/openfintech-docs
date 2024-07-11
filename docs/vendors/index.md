@@ -1053,6 +1053,7 @@
 |![kansai_mirai_bank](https://static.openfintech.io/vendors/kansai_mirai_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Kansai Mirai Bank**](kansai_mirai_bank/)|`kansai_mirai_bank`| 
 |![kapitalbank](https://static.openfintech.io/vendors/kapitalbank/logo.svg?w=600&c=v0.59.26#w200) |[**Kapital bank**](kapitalbank/)|`kapitalbank`| 
 |![kartamir](https://static.openfintech.io/vendors/kartamir/logo.svg?w=600&c=v0.59.26#w200) |[**Карта 'Мир'**](kartamir/)|`kartamir`| 
+|![kasha](https://static.openfintech.io/vendors/kasha/logo.png?w=600&c=v0.59.26#w200) |[**Kasha**](kasha/)|`kasha`| 
 |![kasikornbank](https://static.openfintech.io/vendors/kasikornbank/logo.svg?w=600&c=v0.59.26#w200) |[**KASIKORNBANK**](kasikornbank/)|`kasikornbank`| 
 |![kasikornbankkbanknetbanking](https://static.openfintech.io/vendors/kasikornbankkbanknetbanking/logo.png?w=600&c=v0.59.26#w200) |[**Kbank netbanking**](kasikornbankkbanknetbanking/)|`kasikornbankkbanknetbanking`| 
 |![kaspibankdepozit](https://static.openfintech.io/vendors/kaspibankdepozit/logo.svg?w=600&c=v0.59.26#w200) |[**Kaspi Bank (депозит)**](kaspibankdepozit/)|`kaspibankdepozit`| 
