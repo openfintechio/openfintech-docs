@@ -257,6 +257,7 @@
 |![dixipay](https://static.openfintech.io/payment_providers/dixipay/logo.png?w=600&c=v0.59.26#w100) |[**DIXIPAY**](dixipay/)|`dixipay`| 
 |![dixonpay](https://static.openfintech.io/payment_providers/dixonpay/logo.svg?w=600&c=v0.59.26#w100) |[**DixonPay**](dixonpay/)|`dixonpay`| 
 |![dlocal](https://static.openfintech.io/payment_providers/dlocal/logo.svg?w=600&c=v0.59.26#w100) |[**dLocal**](dlocal/)|`dlocal`| 
+|![dnspay](https://static.openfintech.io/payment_providers/dnspay/logo.png?w=600&c=v0.59.26#w100) |[**DNSPAY**](dnspay/)|`dnspay`| 
 |![docdatapayments](https://static.openfintech.io/payment_providers/docdatapayments/logo.png?w=600&c=v0.59.26#w100) |[**docdata payments**](docdatapayments/)|`docdatapayments`| 
 |![doku](https://static.openfintech.io/payment_providers/doku/logo.png?w=600&c=v0.59.26#w100) |[**DOKU**](doku/)|`doku`| 
 |![dotpay](https://static.openfintech.io/payment_providers/dotpay/logo.png?w=600&c=v0.59.26#w100) |[**Dotpay**](dotpay/)|`dotpay`| 

@@ -596,6 +596,7 @@
 |![dixonpay](https://static.openfintech.io/vendors/dixonpay/logo.svg?w=600&c=v0.59.26#w200) |[**DixonPay**](dixonpay/)|`dixonpay`| 
 |![dlocal](https://static.openfintech.io/vendors/dlocal/logo.svg?w=600&c=v0.59.26#w200) |[**dLocal**](dlocal/)|`dlocal`| 
 |![dniprop_ska_oblasna_filiya_prat_ufg](https://static.openfintech.io/vendors/dniprop_ska_oblasna_filiya_prat_ufg/logo.svg?w=600&c=v0.59.26#w200) |[**Дніпропетровська обласна філія ПрАТ 'Українська фінансова група'**](dniprop_ska_oblasna_filiya_prat_ufg/)|`dniprop_ska_oblasna_filiya_prat_ufg`| 
+|![dnspay](https://static.openfintech.io/vendors/dnspay/logo.png?w=600&c=v0.59.26#w200) |[**DNSPAY**](dnspay/)|`dnspay`| 
 |![docdatapayments](https://static.openfintech.io/vendors/docdatapayments/logo.png?w=600&c=v0.59.26#w200) |[**docdata payments**](docdatapayments/)|`docdatapayments`| 
 |![dodatrajffajzenbankavalm_dnipr_sk](https://static.openfintech.io/vendors/dodatrajffajzenbankavalm_dnipr_sk/logo.svg?w=600&c=v0.59.26#w200) |[**Дніпропетровська обласна дирекція Публічного акціонерного товариства 'Райффайзен Банк Аваль'**](dodatrajffajzenbankavalm_dnipr_sk/)|`dodatrajffajzenbankavalm_dnipr_sk`| 
 |![dogecoin](https://static.openfintech.io/vendors/dogecoin/logo.svg?w=600&c=v0.59.26#w200) |[**Dogecoin**](dogecoin/)|`dogecoin`| 
