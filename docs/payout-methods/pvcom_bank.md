@@ -46,6 +46,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Vietnam P
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![skpay](https://static.openfintech.io/payment_providers/skpay/icon.png?w=278&c=v0.59.26#w100) |[SKPay](/payment-providers/skpay/)|`skpay`| 
+|![payok](https://static.openfintech.io/payment_providers/payok/icon.png?w=278&c=v0.59.26#w100) |[Payok](/payment-providers/payok/)|`payok`| 
  
 
 ## JSON Object 

@@ -49,6 +49,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Dana_
 |![decard](https://static.openfintech.io/payment_providers/decard/icon.svg?w=278&c=v0.59.26#w100) |[Decard](/payment-providers/decard/)|`decard`| 
 |![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
+|![payok](https://static.openfintech.io/payment_providers/payok/icon.png?w=278&c=v0.59.26#w100) |[Payok](/payment-providers/payok/)|`payok`| 
  
 
 ## JSON Object 

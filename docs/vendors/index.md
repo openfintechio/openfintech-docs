@@ -1625,6 +1625,7 @@
 |![paynova](https://static.openfintech.io/vendors/paynova/logo.png?w=600&c=v0.59.26#w200) |[**Paynova**](paynova/)|`paynova`| 
 |![payobin](https://static.openfintech.io/vendors/payobin/logo.png?w=600&c=v0.59.26#w200) |[**Payobin**](payobin/)|`payobin`| 
 |![payofix](https://static.openfintech.io/vendors/payofix/logo.png?w=600&c=v0.59.26#w200) |[**Payofix**](payofix/)|`payofix`| 
+|![payok](https://static.openfintech.io/vendors/payok/logo.png?w=600&c=v0.59.26#w200) |[**Payok**](payok/)|`payok`| 
 |![payone](https://static.openfintech.io/vendors/payone/logo.png?w=600&c=v0.59.26#w200) |[**PAYONE**](payone/)|`payone`| 
 |![payoneer](https://static.openfintech.io/vendors/payoneer/logo.svg?w=600&c=v0.59.26#w200) |[**Payoneer**](payoneer/)|`payoneer`| 
 |![payonline](https://static.openfintech.io/vendors/payonline/logo.png?w=600&c=v0.59.26#w200) |[**PayOnline**](payonline/)|`payonline`| 

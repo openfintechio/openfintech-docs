@@ -51,6 +51,7 @@ The list of [Payment Providers](/payment-providers/) that support the _True Mone
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
 |![ubankconnect](https://static.openfintech.io/payment_providers/ubankconnect/icon.svg?w=278&c=v0.59.26#w100) |[UBank Connect](/payment-providers/ubankconnect/)|`ubankconnect`| 
 |![wealthpay](https://static.openfintech.io/payment_providers/wealthpay/icon.png?w=278&c=v0.59.26#w100) |[WealthPay](/payment-providers/wealthpay/)|`wealthpay`| 
+|![payok](https://static.openfintech.io/payment_providers/payok/icon.png?w=278&c=v0.59.26#w100) |[Payok](/payment-providers/payok/)|`payok`| 
  
 
 ## JSON Object 

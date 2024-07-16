@@ -121,6 +121,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![hellopayment](https://static.openfintech.io/payment_providers/hellopayment/icon.png?w=278&c=v0.59.26#w100) |[HelloPayment](/payment-providers/hellopayment/)|`hellopayment`| 
 |![tapbank](https://static.openfintech.io/payment_providers/tapbank/icon.png?w=278&c=v0.59.26#w100) |[TapBank](/payment-providers/tapbank/)|`tapbank`| 
 |![vendo](https://static.openfintech.io/payment_providers/vendo/icon.png?w=278&c=v0.59.26#w100) |[Vendo Services GmbH](/payment-providers/vendo/)|`vendo`| 
+|![payok](https://static.openfintech.io/payment_providers/payok/icon.png?w=278&c=v0.59.26#w100) |[Payok](/payment-providers/payok/)|`payok`| 
  
 
 ## JSON Object 

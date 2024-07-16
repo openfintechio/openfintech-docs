@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _ACB Bank_
 |:---:|:---:|:---:| 
 |![paysec](https://static.openfintech.io/payment_providers/paysec/icon.png?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
 |![skpay](https://static.openfintech.io/payment_providers/skpay/icon.png?w=278&c=v0.59.26#w100) |[SKPay](/payment-providers/skpay/)|`skpay`| 
+|![payok](https://static.openfintech.io/payment_providers/payok/icon.png?w=278&c=v0.59.26#w100) |[Payok](/payment-providers/payok/)|`payok`| 
  
 
 ## JSON Object 

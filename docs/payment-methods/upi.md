@@ -69,6 +69,7 @@ The list of [Payment Providers](/payment-providers/) that support the _UPI_
 |![payzeasy](https://static.openfintech.io/payment_providers/payzeasy/icon.png?w=278&c=v0.59.26#w100) |[PayzEasy](/payment-providers/payzeasy/)|`payzeasy`| 
 |![pluspedirect](https://static.openfintech.io/payment_providers/pluspedirect/icon.svg?w=278&c=v0.59.26#w100) |[PlusPeDirect](/payment-providers/pluspedirect/)|`pluspedirect`| 
 |![gamespay](https://static.openfintech.io/payment_providers/gamespay/icon.svg?w=278&c=v0.59.26#w100) |[PayGames](/payment-providers/gamespay/)|`gamespay`| 
+|![payok](https://static.openfintech.io/payment_providers/payok/icon.png?w=278&c=v0.59.26#w100) |[Payok](/payment-providers/payok/)|`payok`| 
  
 
 ## JSON Object 
