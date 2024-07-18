@@ -56,6 +56,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![pix](https://static.openfintech.io/payout_methods/pix/icon.svg?w=278&c=v0.59.26#w40) |[pix](payout-methodspix/)|`pix`| 
+|![interac](https://static.openfintech.io/payout_methods/interac/icon.svg?w=278&c=v0.59.26#w40) |[interac](payout-methodsinterac/)|`interac`| 
  
 
 ## JSON Object 
@@ -76,7 +77,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "pix"
   ],
   "payout_method":[
-    "pix"
+    "pix",
+    "interac"
   ],
   "metadata":null,
   "name":{
