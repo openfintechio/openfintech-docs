@@ -55,6 +55,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Pix Qr_
 |![capitalpay](https://static.openfintech.io/payment_providers/capitalpay/icon.png?w=278&c=v0.59.26#w100) |[CapitalPay](/payment-providers/capitalpay/)|`capitalpay`| 
 |![ipague](https://static.openfintech.io/payment_providers/ipague/icon.png?w=278&c=v0.59.26#w100) |[iPague](/payment-providers/ipague/)|`ipague`| 
 |![facilitapay](https://static.openfintech.io/payment_providers/facilitapay/icon.svg?w=278&c=v0.59.26#w100) |[FacilitaPay](/payment-providers/facilitapay/)|`facilitapay`| 
+|![starkbank](https://static.openfintech.io/payment_providers/starkbank/icon.svg?w=278&c=v0.59.26#w100) |[STARK BANK](/payment-providers/starkbank/)|`starkbank`| 
  
 
 ## JSON Object 

@@ -567,6 +567,7 @@
 |![olpays](https://static.openfintech.io/payment_providers/olpays/logo.png?w=600&c=v0.59.26#w100) |[**Olpays**](olpays/)|`olpays`| 
 |![ombaug](https://static.openfintech.io/payment_providers/ombaug/logo.png?w=600&c=v0.59.26#w100) |[**omba**](ombaug/)|`ombaug`| 
 |![omnipayment](https://static.openfintech.io/payment_providers/omnipayment/logo.png?w=600&c=v0.59.26#w100) |[**OmniPayment**](omnipayment/)|`omnipayment`| 
+|![omno](https://static.openfintech.io/payment_providers/omno/logo.png?w=600&c=v0.59.26#w100) |[**OMNO**](omno/)|`omno`| 
 |![onepay](https://static.openfintech.io/payment_providers/onepay/logo.png?w=600&c=v0.59.26#w100) |[**OnePAY**](onepay/)|`onepay`| 
 |![onestopmoneymanager](https://static.openfintech.io/payment_providers/onestopmoneymanager/logo.png?w=600&c=v0.59.26#w100) |[**Onestopmoneymanager Ltd**](onestopmoneymanager/)|`onestopmoneymanager`| 
 |![onevision](https://static.openfintech.io/payment_providers/onevision/logo.png?w=600&c=v0.59.26#w100) |[**Onevision**](onevision/)|`onevision`| 
@@ -874,6 +875,7 @@
 |![spryng](https://static.openfintech.io/payment_providers/spryng/logo.png?w=600&c=v0.59.26#w100) |[**Spryng Payments**](spryng/)|`spryng`| 
 |![sqalapay](https://static.openfintech.io/payment_providers/sqalapay/logo.png?w=600&c=v0.59.26#w100) |[**Sqalapay**](sqalapay/)|`sqalapay`| 
 |![square](https://static.openfintech.io/payment_providers/square/logo.svg?w=600&c=v0.59.26#w100) |[**Square**](square/)|`square`| 
+|![starkbank](https://static.openfintech.io/payment_providers/starkbank/logo.png?w=600&c=v0.59.26#w100) |[**STARK BANK**](starkbank/)|`starkbank`| 
 |![start2pay](https://static.openfintech.io/payment_providers/start2pay/logo.png?w=600&c=v0.59.26#w100) |[**Start2Pay**](start2pay/)|`start2pay`| 
 |![stepfourpay](https://static.openfintech.io/payment_providers/stepfourpay/logo.svg?w=600&c=v0.59.26#w100) |[**Step4Pay**](stepfourpay/)|`stepfourpay`| 
 |![streampay](https://static.openfintech.io/payment_providers/streampay/logo.png?w=600&c=v0.59.26#w100) |[**StreamPay**](streampay/)|`streampay`| 

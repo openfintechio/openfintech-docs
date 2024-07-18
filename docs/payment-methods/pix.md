@@ -67,6 +67,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PIX_
 |![sqalapay](https://static.openfintech.io/payment_providers/sqalapay/icon.png?w=278&c=v0.59.26#w100) |[Sqalapay](/payment-providers/sqalapay/)|`sqalapay`| 
 |![inswitch](https://static.openfintech.io/payment_providers/inswitch/icon.png?w=278&c=v0.59.26#w100) |[Inswitch](/payment-providers/inswitch/)|`inswitch`| 
 |![toppay](https://static.openfintech.io/payment_providers/toppay/icon.svg?w=278&c=v0.59.26#w100) |[TopPay](/payment-providers/toppay/)|`toppay`| 
+|![starkbank](https://static.openfintech.io/payment_providers/starkbank/icon.svg?w=278&c=v0.59.26#w100) |[STARK BANK](/payment-providers/starkbank/)|`starkbank`| 
  
 
 ## JSON Object 

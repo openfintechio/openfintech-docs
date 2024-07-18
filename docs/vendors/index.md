@@ -1351,6 +1351,7 @@
 |![olpays](https://static.openfintech.io/vendors/olpays/logo.png?w=600&c=v0.59.26#w200) |[**Olpays**](olpays/)|`olpays`| 
 |![ombaug](https://static.openfintech.io/vendors/ombaug/logo.png?w=600&c=v0.59.26#w200) |[**omba**](ombaug/)|`ombaug`| 
 |![omnipayment](https://static.openfintech.io/vendors/omnipayment/logo.png?w=600&c=v0.59.26#w200) |[**OmniPayment**](omnipayment/)|`omnipayment`| 
+|![omno](https://static.openfintech.io/vendors/omno/logo.png?w=600&c=v0.59.26#w200) |[**OMNO**](omno/)|`omno`| 
 |![onecard](https://static.openfintech.io/vendors/onecard/logo.png?w=600&c=v0.59.26#w200) |[**OneCard**](onecard/)|`onecard`| 
 |![onepay](https://static.openfintech.io/vendors/onepay/logo.png?w=600&c=v0.59.26#w200) |[**OnePAY**](onepay/)|`onepay`| 
 |![onestopmoneymanager](https://static.openfintech.io/vendors/onestopmoneymanager/logo.png?w=600&c=v0.59.26#w200) |[**Onestopmoneymanager Ltd**](onestopmoneymanager/)|`onestopmoneymanager`| 
@@ -1976,6 +1977,7 @@
 |![square](https://static.openfintech.io/vendors/square/logo.svg?w=600&c=v0.59.26#w200) |[**Square**](square/)|`square`| 
 |![stanbic_bank_nigeria](https://static.openfintech.io/vendors/stanbic_bank_nigeria/logo.svg?w=600&c=v0.59.26#w200) |[**Stanbic IBTC Bank, Nigeria**](stanbic_bank_nigeria/)|`stanbic_bank_nigeria`| 
 |![standard_chartered_bank](https://static.openfintech.io/vendors/standard_chartered_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Standard Chartered Bank**](standard_chartered_bank/)|`standard_chartered_bank`| 
+|![starkbank](https://static.openfintech.io/vendors/starkbank/logo.png?w=600&c=v0.59.26#w200) |[**STARK BANK**](starkbank/)|`starkbank`| 
 |![start2pay](https://static.openfintech.io/vendors/start2pay/logo.png?w=600&c=v0.59.26#w200) |[**Start2Pay**](start2pay/)|`start2pay`| 
 |![stellar](https://static.openfintech.io/vendors/stellar/logo.svg?w=600&c=v0.59.26#w200) |[**Stellar**](stellar/)|`stellar`| 
 |![stepfourpay](https://static.openfintech.io/vendors/stepfourpay/logo.svg?w=600&c=v0.59.26#w200) |[**Step4Pay**](stepfourpay/)|`stepfourpay`| 
