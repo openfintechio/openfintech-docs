@@ -188,6 +188,7 @@
 |![circulopayments](https://static.openfintech.io/payment_providers/circulopayments/logo.svg?w=600&c=v0.59.26#w100) |[**Circulo Payments**](circulopayments/)|`circulopayments`| 
 |![cirxuspay](https://static.openfintech.io/payment_providers/cirxuspay/logo.png?w=600&c=v0.59.26#w100) |[**Cirxus Pay**](cirxuspay/)|`cirxuspay`| 
 |![citopay](https://static.openfintech.io/payment_providers/citopay/logo.svg?w=600&c=v0.59.26#w100) |[**Citopay Online Merchant Services**](citopay/)|`citopay`| 
+|![citrinepay](https://static.openfintech.io/payment_providers/citrinepay/logo.png?w=600&c=v0.59.26#w100) |[**CitrinePay**](citrinepay/)|`citrinepay`| 
 |![citruspay](https://static.openfintech.io/payment_providers/citruspay/logo.svg?w=600&c=v0.59.26#w100) |[**Citrus Pay**](citruspay/)|`citruspay`| 
 |![city24](https://static.openfintech.io/payment_providers/city24/logo.png?w=600&c=v0.59.26#w100) |[**City24**](city24/)|`city24`| 
 |![clearhaus](https://static.openfintech.io/payment_providers/clearhaus/logo.png?w=600&c=v0.59.26#w100) |[**Clearhaus**](clearhaus/)|`clearhaus`| 

@@ -38,6 +38,11 @@ The list of [Payout Services](/payout-services/) based on the _USD Coin_
 |:---:|:---:|:---:| 
 |![usd_coin](https://static.openfintech.io/payout_methods/usd_coin/icon.png?w=278&c=v0.59.26#w40) |[usd_coin_erc20_usdc](/payout-services/usd_coin_erc20_usdc/)|`usd_coin_erc20_usdc`| 
 |![usd_coin](https://static.openfintech.io/payout_methods/usd_coin/icon.png?w=278&c=v0.59.26#w40) |[usd_coin_trc20_usdc](/payout-services/usd_coin_trc20_usdc/)|`usd_coin_trc20_usdc`| 
+|![usd_coin](https://static.openfintech.io/payout_methods/usd_coin/icon.png?w=278&c=v0.59.26#w40) |[usd_coin_near_usdc](/payout-services/usd_coin_near_usdc/)|`usd_coin_near_usdc`| 
+|![usd_coin](https://static.openfintech.io/payout_methods/usd_coin/icon.png?w=278&c=v0.59.26#w40) |[usd_coin_polygon_usdc](/payout-services/usd_coin_polygon_usdc/)|`usd_coin_polygon_usdc`| 
+|![usd_coin](https://static.openfintech.io/payout_methods/usd_coin/icon.png?w=278&c=v0.59.26#w40) |[usd_coin_sol_usdc](/payout-services/usd_coin_sol_usdc/)|`usd_coin_sol_usdc`| 
+|![usd_coin](https://static.openfintech.io/payout_methods/usd_coin/icon.png?w=278&c=v0.59.26#w40) |[usd_coin_whitechain_usdc](/payout-services/usd_coin_whitechain_usdc/)|`usd_coin_whitechain_usdc`| 
+|![usd_coin](https://static.openfintech.io/payout_methods/usd_coin/icon.png?w=278&c=v0.59.26#w40) |[usd_coin_stellar_usdc](/payout-services/usd_coin_stellar_usdc/)|`usd_coin_stellar_usdc`| 
 |![usd_coin](https://static.openfintech.io/payout_methods/usd_coin/icon.png?w=278&c=v0.59.26#w40) |[usd_coin_usdc](/payout-services/usd_coin_usdc/)|`usd_coin_usdc`| 
 |![usd_coin](https://static.openfintech.io/payout_methods/usd_coin/icon.png?w=278&c=v0.59.26#w40) |[usd_coin_usdcerc20](/payout-services/usd_coin_usdcerc20/)|`usd_coin_usdcerc20`| 
 |![usd_coin](https://static.openfintech.io/payout_methods/usd_coin/icon.png?w=278&c=v0.59.26#w40) |[usd_coin_usdctrc20](/payout-services/usd_coin_usdctrc20/)|`usd_coin_usdctrc20`| 

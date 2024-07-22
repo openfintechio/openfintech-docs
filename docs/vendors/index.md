@@ -486,6 +486,7 @@
 |![citibank_indonesia](https://static.openfintech.io/vendors/citibank_indonesia/logo.svg?w=600&c=v0.59.26#w200) |[**Citibank Indonesia**](citibank_indonesia/)|`citibank_indonesia`| 
 |![citibank_n_a](https://static.openfintech.io/vendors/citibank_n_a/logo.svg?w=600&c=v0.59.26#w200) |[**Citibank, N.A**](citibank_n_a/)|`citibank_n_a`| 
 |![citopay](https://static.openfintech.io/vendors/citopay/logo.png?w=600&c=v0.59.26#w200) |[**Citopay Online Merchant Services**](citopay/)|`citopay`| 
+|![citrinepay](https://static.openfintech.io/vendors/citrinepay/logo.png?w=600&c=v0.59.26#w200) |[**CitrinePay**](citrinepay/)|`citrinepay`| 
 |![citruspay](https://static.openfintech.io/vendors/citruspay/logo.png?w=600&c=v0.59.26#w200) |[**Citrus Pay**](citruspay/)|`citruspay`| 
 |![city24](https://static.openfintech.io/vendors/city24/logo.png?w=600&c=v0.59.26#w200) |[**City24**](city24/)|`city24`| 
 |![clearhaus](https://static.openfintech.io/vendors/clearhaus/logo.png?w=600&c=v0.59.26#w200) |[**Clearhaus**](clearhaus/)|`clearhaus`| 

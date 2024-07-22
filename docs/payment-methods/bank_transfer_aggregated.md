@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Bank Transfer A
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bank_transfer_aggregated](https://static.openfintech.io/payment_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_aggregated_php_hpp](/payment-services/bank_transfer_aggregated_php_hpp/)|`bank_transfer_aggregated_php_hpp`| 
+|![bank_transfer_aggregated](https://static.openfintech.io/payment_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_aggregated_idr_hpp](/payment-services/bank_transfer_aggregated_idr_hpp/)|`bank_transfer_aggregated_idr_hpp`| 
 |![bank_transfer_aggregated](https://static.openfintech.io/payment_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_aggregated_thb_hpp](/payment-services/bank_transfer_aggregated_thb_hpp/)|`bank_transfer_aggregated_thb_hpp`| 
 |![bank_transfer_aggregated](https://static.openfintech.io/payment_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_aggregated_vnd_hpp](/payment-services/bank_transfer_aggregated_vnd_hpp/)|`bank_transfer_aggregated_vnd_hpp`| 
 |![bank_transfer_aggregated](https://static.openfintech.io/payment_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_aggregated_eur_hpp](/payment-services/bank_transfer_aggregated_eur_hpp/)|`bank_transfer_aggregated_eur_hpp`| 
@@ -70,6 +71,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![razorpay](https://static.openfintech.io/payment_providers/razorpay/icon.svg?w=278&c=v0.59.26#w100) |[Razorpay](/payment-providers/razorpay/)|`razorpay`| 
 |![bitexpro](https://static.openfintech.io/payment_providers/bitexpro/icon.png?w=278&c=v0.59.26#w100) |[BitexPRO](/payment-providers/bitexpro/)|`bitexpro`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
+|![citrinepay](https://static.openfintech.io/payment_providers/citrinepay/icon.png?w=278&c=v0.59.26#w100) |[CitrinePay](/payment-providers/citrinepay/)|`citrinepay`| 
  
 
 ## JSON Object 

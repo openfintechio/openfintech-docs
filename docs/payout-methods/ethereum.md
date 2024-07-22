@@ -37,6 +37,10 @@ The list of [Payout Services](/payout-services/) based on the _Ethereum_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![ethereum](https://static.openfintech.io/payout_methods/ethereum/icon.svg?w=278&c=v0.59.26#w40) |[ethereum_eth](/payout-services/ethereum_eth/)|`ethereum_eth`| 
+|![ethereum](https://static.openfintech.io/payout_methods/ethereum/icon.svg?w=278&c=v0.59.26#w40) |[ethereum_erc20_eth](/payout-services/ethereum_erc20_eth/)|`ethereum_erc20_eth`| 
+|![ethereum](https://static.openfintech.io/payout_methods/ethereum/icon.svg?w=278&c=v0.59.26#w40) |[ethereum_bep20_eth](/payout-services/ethereum_bep20_eth/)|`ethereum_bep20_eth`| 
+|![ethereum](https://static.openfintech.io/payout_methods/ethereum/icon.svg?w=278&c=v0.59.26#w40) |[ethereum_optimism_eth](/payout-services/ethereum_optimism_eth/)|`ethereum_optimism_eth`| 
+|![ethereum](https://static.openfintech.io/payout_methods/ethereum/icon.svg?w=278&c=v0.59.26#w40) |[ethereum_arbitrum_eth](/payout-services/ethereum_arbitrum_eth/)|`ethereum_arbitrum_eth`| 
 |![ethereum](https://static.openfintech.io/payout_methods/ethereum/icon.svg?w=278&c=v0.59.26#w40) |[ethereum_uah](/payout-services/ethereum_uah/)|`ethereum_uah`| 
 |![ethereum](https://static.openfintech.io/payout_methods/ethereum/icon.svg?w=278&c=v0.59.26#w40) |[ethereum_usd](/payout-services/ethereum_usd/)|`ethereum_usd`| 
 |![ethereum](https://static.openfintech.io/payout_methods/ethereum/icon.svg?w=278&c=v0.59.26#w40) |[ethereum_eur](/payout-services/ethereum_eur/)|`ethereum_eur`| 
