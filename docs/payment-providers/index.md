@@ -677,6 +677,7 @@
 |![paymomentum](https://static.openfintech.io/payment_providers/paymomentum/logo.png?w=600&c=v0.59.26#w100) |[**Pay Momentum**](paymomentum/)|`paymomentum`| 
 |![paymtech](https://static.openfintech.io/payment_providers/paymtech/logo.svg?w=600&c=v0.59.26#w100) |[**Paymtech**](paymtech/)|`paymtech`| 
 |![paymundo](https://static.openfintech.io/payment_providers/paymundo/logo.png?w=600&c=v0.59.26#w100) |[**Paymundo**](paymundo/)|`paymundo`| 
+|![payneteasy](https://static.openfintech.io/payment_providers/payneteasy/logo.svg?w=600&c=v0.59.26#w100) |[**Payneteasy**](payneteasy/)|`payneteasy`| 
 |![paynetsecure](https://static.openfintech.io/payment_providers/paynetsecure/logo.png?w=600&c=v0.59.26#w100) |[**PayNetSecure**](paynetsecure/)|`paynetsecure`| 
 |![paynl](https://static.openfintech.io/payment_providers/paynl/logo.png?w=600&c=v0.59.26#w100) |[**Pay.nl**](paynl/)|`paynl`| 
 |![paynova](https://static.openfintech.io/payment_providers/paynova/logo.png?w=600&c=v0.59.26#w100) |[**Paynova**](paynova/)|`paynova`| 
