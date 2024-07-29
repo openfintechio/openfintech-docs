@@ -50,6 +50,7 @@ The list of [Payout Services](/payout-services/) based on the _Bank Transfer_
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_rub](/payout-services/bank_transfer_rub/)|`bank_transfer_rub`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_aed](/payout-services/bank_transfer_aed/)|`bank_transfer_aed`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_pkr](/payout-services/bank_transfer_pkr/)|`bank_transfer_pkr`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_php](/payout-services/bank_transfer_php/)|`bank_transfer_php`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_idr](/payout-services/bank_transfer_idr/)|`bank_transfer_idr`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_aud](/payout-services/bank_transfer_aud/)|`bank_transfer_aud`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_myr](/payout-services/bank_transfer_myr/)|`bank_transfer_myr`| 
