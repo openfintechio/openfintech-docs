@@ -32,6 +32,7 @@
 |`city`|✔|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`beneficiary_phone`|✗|`string`|`/^\d{10,14}$/`| 
 |`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
+|`identity_id`|✗|`string`|`/^[0-9]{9,12}$/`| 
  
 
 ### Details 
@@ -180,6 +181,24 @@
 	: [RU] Введите Email 
 	: [UK] Введіть Email 
  
+9. **`identity_id`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{9,12}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Identity ID 
+	: [RU] Идентификационный номер 
+	: [UK] Ідентифікаційний номер 
+ 
+	Hint:  
+	: [EN] Enter identity ID 
+	: [RU] Введите идентификационный номер 
+	: [UK] Введіть ідентифікаційний номер 
+ 
 
 ## JSON Object 
 
@@ -326,6 +345,23 @@
       "regexp":"\/^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,4})$\/",
       "required":false,
       "position":8
+    },
+    {
+      "key":"identity_id",
+      "type":"string",
+      "label":{
+        "en":"Identity ID",
+        "ru":"\u0418\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440",
+        "uk":"\u0406\u0434\u0435\u043d\u0442\u0438\u0444\u0456\u043a\u0430\u0446\u0456\u0439\u043d\u0438\u0439 \u043d\u043e\u043c\u0435\u0440"
+      },
+      "hint":{
+        "en":"Enter identity ID",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u0434\u0435\u043d\u0442\u0438\u0444\u0456\u043a\u0430\u0446\u0456\u0439\u043d\u0438\u0439 \u043d\u043e\u043c\u0435\u0440"
+      },
+      "regexp":"\/^[0-9]{9,12}$\/",
+      "required":false,
+      "position":9
     }
   ],
   "amount_min":"1",

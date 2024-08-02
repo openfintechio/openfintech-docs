@@ -36,6 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _UOB Bank_
 |:---:|:---:|:---:| 
 |![uob_bank](https://static.openfintech.io/payout_methods/uob_bank/icon.svg?w=278&c=v0.59.26#w40) |[uob_bank_thb](/payout-services/uob_bank_thb/)|`uob_bank_thb`| 
 |![uob_bank](https://static.openfintech.io/payout_methods/uob_bank/icon.svg?w=278&c=v0.59.26#w40) |[uob_bank_myr](/payout-services/uob_bank_myr/)|`uob_bank_myr`| 
+|![uob_bank](https://static.openfintech.io/payout_methods/uob_bank/icon.svg?w=278&c=v0.59.26#w40) |[uob_bank_idr](/payout-services/uob_bank_idr/)|`uob_bank_idr`| 
  
 
 ## JSON Object 
