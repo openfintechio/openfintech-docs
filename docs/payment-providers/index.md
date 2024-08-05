@@ -34,6 +34,7 @@
 |![aduno](https://static.openfintech.io/payment_providers/aduno/logo.png?w=600&c=v0.59.26#w100) |[**Aduno**](aduno/)|`aduno`| 
 |![advcash](https://static.openfintech.io/payment_providers/advcash/logo.svg?w=600&c=v0.59.26#w100) |[**Advcash**](advcash/)|`advcash`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/logo.svg?w=600&c=v0.59.26#w100) |[**Adyen**](adyen/)|`adyen`| 
+|![aeteredge](https://static.openfintech.io/payment_providers/aeteredge/logo.svg?w=600&c=v0.59.26#w100) |[**AeterEdge**](aeteredge/)|`aeteredge`| 
 |![africanpaymentsolutions](https://static.openfintech.io/payment_providers/africanpaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**African Payment Solutions**](africanpaymentsolutions/)|`africanpaymentsolutions`| 
 |![agentglobal](https://static.openfintech.io/payment_providers/agentglobal/logo.png?w=600&c=v0.59.26#w100) |[**AgentGlobal**](agentglobal/)|`agentglobal`| 
 |![aibmerchantservices](https://static.openfintech.io/payment_providers/aibmerchantservices/logo.png?w=600&c=v0.59.26#w100) |[**AIB Merchant Services**](aibmerchantservices/)|`aibmerchantservices`| 

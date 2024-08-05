@@ -71,6 +71,7 @@
 |![advex](https://static.openfintech.io/vendors/advex/logo.svg?w=600&c=v0.59.26#w200) |[**advex.com**](advex/)|`advex`| 
 |![adyen](https://static.openfintech.io/vendors/adyen/logo.png?w=600&c=v0.59.26#w200) |[**Adyen**](adyen/)|`adyen`| 
 |![aeon_bank](https://static.openfintech.io/vendors/aeon_bank/logo.svg?w=600&c=v0.59.26#w200) |[**AEON Bank**](aeon_bank/)|`aeon_bank`| 
+|![aeteredge](https://static.openfintech.io/vendors/aeteredge/logo.svg?w=600&c=v0.59.26#w200) |[**AeterEdge**](aeteredge/)|`aeteredge`| 
 |![african_bank](https://static.openfintech.io/vendors/african_bank/logo.svg?w=600&c=v0.59.26#w200) |[**African Bank, South Africa**](african_bank/)|`african_bank`| 
 |![africanpaymentsolutions](https://static.openfintech.io/vendors/africanpaymentsolutions/logo.png?w=600&c=v0.59.26#w200) |[**African Payment Solutions**](africanpaymentsolutions/)|`africanpaymentsolutions`| 
 |![afterpay](https://static.openfintech.io/vendors/afterpay/logo.png?w=600&c=v0.59.26#w200) |[**AfterPay**](afterpay/)|`afterpay`| 
