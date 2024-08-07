@@ -29,7 +29,7 @@
 |`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
 |`ifsc`|✗|`string`|`/^[A-Za-z0-9]{1,11}$/`| 
 |`bank_name`|✗|`string`|`/^[A-Z\-\ a-z0-9_]{2,100}$/`| 
-|`beneficiary_phone`|✗|`string`|`/^\+?\d{10-14}$/`| 
+|`beneficiary_phone`|✗|`string`|`/^\+?\d{10,14}$/`| 
  
 
 ### Details 
@@ -128,7 +128,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^\+?\d{10-14}$/` 
+	Regexp: `/^\+?\d{10,14}$/` 
  
 	Required: `` 
  
@@ -249,7 +249,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
       },
-      "regexp":"\/^\\+?\\d{10-14}$\/",
+      "regexp":"\/^\\+?\\d{10,14}$\/",
       "required":false,
       "position":3
     }

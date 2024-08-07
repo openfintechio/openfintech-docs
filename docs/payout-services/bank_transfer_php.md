@@ -41,7 +41,7 @@
 |`beneficiary_state`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
 |`beneficiary_address`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
 |`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
-|`beneficiary_phone`|✔|`string`|`/^\+?\d{10-14}$/`| 
+|`beneficiary_phone`|✔|`string`|`/^\+?\d{10,14}$/`| 
 |`beneficiary_email`|✔|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
 |`sender_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
 |`bank_branch_code`|✗|`string`|`/^[0-9]{2,100}$/`| 
@@ -359,7 +359,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^\+?\d{10-14}$/` 
+	Regexp: `/^\+?\d{10,14}$/` 
  
 	Required: `1` 
  
@@ -740,7 +740,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
       },
       "example":"+91236456977",
-      "regexp":"\/^\\+?\\d{10-14}$\/",
+      "regexp":"\/^\\+?\\d{10,14}$\/",
       "required":true,
       "position":18
     },

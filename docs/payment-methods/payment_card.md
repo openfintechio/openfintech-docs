@@ -573,6 +573,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![dnspay](https://static.openfintech.io/payment_providers/dnspay/icon.svg?w=278&c=v0.59.26#w100) |[DNSPAY](/payment-providers/dnspay/)|`dnspay`| 
 |![omno](https://static.openfintech.io/payment_providers/omno/icon.png?w=278&c=v0.59.26#w100) |[OMNO](/payment-providers/omno/)|`omno`| 
 |![aeteredge](https://static.openfintech.io/payment_providers/aeteredge/icon.svg?w=278&c=v0.59.26#w100) |[AeterEdge](/payment-providers/aeteredge/)|`aeteredge`| 
+|![paytorapayment](https://static.openfintech.io/payment_providers/paytorapayment/icon.png?w=278&c=v0.59.26#w100) |[PaytoraPayment](/payment-providers/paytorapayment/)|`paytorapayment`| 
+|![paytently](https://static.openfintech.io/payment_providers/paytently/icon.svg?w=278&c=v0.59.26#w100) |[Paytently](/payment-providers/paytently/)|`paytently`| 
  
 
 ## JSON Object 

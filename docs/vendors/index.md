@@ -1670,12 +1670,14 @@
 |![paystudio](https://static.openfintech.io/vendors/paystudio/logo.png?w=600&c=v0.59.26#w200) |[**PayStudio**](paystudio/)|`paystudio`| 
 |![paysure](https://static.openfintech.io/vendors/paysure/logo.png?w=600&c=v0.59.26#w200) |[**Paysure**](paysure/)|`paysure`| 
 |![paytabs](https://static.openfintech.io/vendors/paytabs/logo.png?w=600&c=v0.59.26#w200) |[**PayTabs**](paytabs/)|`paytabs`| 
+|![paytently](https://static.openfintech.io/vendors/paytently/logo.svg?w=600&c=v0.59.26#w200) |[**Paytently**](paytently/)|`paytently`| 
 |![paytiencecc](https://static.openfintech.io/vendors/paytiencecc/logo.png?w=600&c=v0.59.26#w200) |[**Paytience.cc**](paytiencecc/)|`paytiencecc`| 
 |![paytochina](https://static.openfintech.io/vendors/paytochina/logo.svg?w=600&c=v0.59.26#w200) |[**PayToChina.com**](paytochina/)|`paytochina`| 
 |![paytocrypt](https://static.openfintech.io/vendors/paytocrypt/logo.png?w=600&c=v0.59.26#w200) |[**Paytocrypt**](paytocrypt/)|`paytocrypt`| 
 |![paytonegate](https://static.openfintech.io/vendors/paytonegate/logo.svg?w=600&c=v0.59.26#w200) |[**PaytoneGate**](paytonegate/)|`paytonegate`| 
 |![paytoneio](https://static.openfintech.io/vendors/paytoneio/logo.svg?w=600&c=v0.59.26#w200) |[**Paytone.io**](paytoneio/)|`paytoneio`| 
 |![paytony](https://static.openfintech.io/vendors/paytony/logo.svg?w=600&c=v0.59.26#w200) |[**Paytony**](paytony/)|`paytony`| 
+|![paytorapayment](https://static.openfintech.io/vendors/paytorapayment/logo.png?w=600&c=v0.59.26#w200) |[**PaytoraPayment**](paytorapayment/)|`paytorapayment`| 
 |![paytpv](https://static.openfintech.io/vendors/paytpv/logo.png?w=600&c=v0.59.26#w200) |[**PAYTPV**](paytpv/)|`paytpv`| 
 |![paytrail](https://static.openfintech.io/vendors/paytrail/logo.png?w=600&c=v0.59.26#w200) |[**Paytrail**](paytrail/)|`paytrail`| 
 |![paytrek](https://static.openfintech.io/vendors/paytrek/logo.png?w=600&c=v0.59.26#w200) |[**Paytrek**](paytrek/)|`paytrek`| 

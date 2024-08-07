@@ -26,12 +26,11 @@
 |:---:|:---:|:---:|:---:| 
 |`beneficiary_name`|✔|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
 |`beneficiary_lastname`|✔|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
-|`document_id`|✗|`string`|`/^.{6,12}$/`| 
+|`document_id`|✗|`string`|`/^.{6,36}$/`| 
 |`bank_code`|✗|`string`|`/^[0-9]{2,4}$/`| 
 |`account_number`|✔|`string`|`/^[0-9]{5,100}$/`| 
 |`payment_concept`|✗|`string`|`/^[a-zA-Z 0-9]+$/`| 
 |`beneficiary_full_name`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
-|`document_number`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
  
 
 ### Details 
@@ -76,7 +75,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^.{6,12}$/` 
+	Regexp: `/^.{6,36}$/` 
  
 	Required: `` 
  
@@ -162,24 +161,6 @@
 	: [RU] Введите полное имя получателя 
 	: [UK] Введіть повне ім'я отримувача 
  
-8. **`document_number`** 
- 
-	Type: `string` 
- 
-	Regexp: `/^[A-Za-z,0-9]{2,100}$/` 
- 
-	Required: `` 
- 
-	Label:  
-	: [EN] Document Number 
-	: [RU] Номер документа 
-	: [UK] Номер документу 
- 
-	Hint:  
-	: [EN] Enter Document Number 
-	: [RU] Введите номер документа 
-	: [UK] Введіть номер документу 
- 
 
 ## JSON Object 
 
@@ -225,7 +206,7 @@
     },
     {
       "key":"document_id",
-      "regexp":"\/^.{6,12}$\/",
+      "regexp":"\/^.{6,36}$\/",
       "type":"string",
       "label":{
         "en":"Document ID",
@@ -306,23 +287,6 @@
         "en":"Enter beneficiary full name",
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c'\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
-      }
-    },
-    {
-      "key":"document_number",
-      "type":"string",
-      "regexp":"\/^[A-Za-z,0-9]{2,100}$\/",
-      "required":false,
-      "position":8,
-      "label":{
-        "en":"Document Number",
-        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
-        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
-      },
-      "hint":{
-        "en":"Enter Document Number",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
       }
     }
   ],
