@@ -165,6 +165,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![easypaisa](https://static.openfintech.io/payout_methods/easypaisa/icon.png?w=278&c=v0.59.26#w40) |[easypaisa](payout-methodseasypaisa/)|`easypaisa`| 
 |![jazzcash](https://static.openfintech.io/payout_methods/jazzcash/icon.png?w=278&c=v0.59.26#w40) |[jazzcash](payout-methodsjazzcash/)|`jazzcash`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
+|![pay_maya](https://static.openfintech.io/payout_methods/pay_maya/icon.png?w=278&c=v0.59.26#w40) |[pay_maya](payout-methodspay_maya/)|`pay_maya`| 
  
 
 ## JSON Object 
@@ -296,7 +297,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "gcash",
     "easypaisa",
     "jazzcash",
-    "bank_transfer"
+    "bank_transfer",
+    "pay_maya"
   ],
   "metadata":null,
   "name":{
