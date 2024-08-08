@@ -87,6 +87,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![payzapp](https://static.openfintech.io/payment_methods/payzapp/icon.png?w=278&c=v0.59.26#w100) |[payzapp](/payment-methods/payzapp/)|`payzapp`| 
 |![maya](https://static.openfintech.io/payment_methods/maya/icon.svg?w=278&c=v0.59.26#w100) |[maya](/payment-methods/maya/)|`maya`| 
 |![gcash](https://static.openfintech.io/payment_methods/gcash/icon.png?w=278&c=v0.59.26#w100) |[gcash](/payment-methods/gcash/)|`gcash`| 
+|![gcash_qr](https://static.openfintech.io/payment_methods/gcash_qr/icon.png?w=278&c=v0.59.26#w100) |[gcash_qr](/payment-methods/gcash_qr/)|`gcash_qr`| 
  
 
 ## Payout Methods 
@@ -225,7 +226,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "bank_transfer",
     "payzapp",
     "maya",
-    "gcash"
+    "gcash",
+    "gcash_qr"
   ],
   "payout_method":[
     "imps",

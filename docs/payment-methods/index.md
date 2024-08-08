@@ -338,6 +338,7 @@
 |![garanti_bbva](https://static.openfintech.io/payment_methods/garanti_bbva/logo.png?w=400&c=v0.59.26#w200) |[**Garanti BBVA**](garanti_bbva/)|`garanti_bbva`| 
 |![gatepay](https://static.openfintech.io/payment_methods/gatepay/logo.png?w=400&c=v0.59.26#w200) |[**Gate Pay**](gatepay/)|`gatepay`| 
 |![gcash](https://static.openfintech.io/payment_methods/gcash/logo.png?w=400&c=v0.59.26#w200) |[**GCash**](gcash/)|`gcash`| 
+|![gcash_qr](https://static.openfintech.io/payment_methods/gcash_qr/logo.png?w=400&c=v0.59.26#w200) |[**GCash QR**](gcash_qr/)|`gcash_qr`| 
 |![gcashwallet](https://static.openfintech.io/payment_methods/gcashwallet/logo.png?w=400&c=v0.59.26#w200) |[**GCASH**](gcashwallet/)|`gcashwallet`| 
 |![gemoney](https://static.openfintech.io/payment_methods/gemoney/logo.png?w=400&c=v0.59.26#w200) |[**GE Money**](gemoney/)|`gemoney`| 
 |![geopaynet](https://static.openfintech.io/payment_methods/geopaynet/logo.svg?w=400&c=v0.59.26#w200) |[**GEO Pay**](geopaynet/)|`geopaynet`| 

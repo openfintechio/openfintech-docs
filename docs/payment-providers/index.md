@@ -724,7 +724,7 @@
 |![paystation](https://static.openfintech.io/payment_providers/paystation/logo.png?w=600&c=v0.59.26#w100) |[**Paystation**](paystation/)|`paystation`| 
 |![paystudio](https://static.openfintech.io/payment_providers/paystudio/logo.png?w=600&c=v0.59.26#w100) |[**PayStudio**](paystudio/)|`paystudio`| 
 |![paysure](https://static.openfintech.io/payment_providers/paysure/logo.png?w=600&c=v0.59.26#w100) |[**Paysure**](paysure/)|`paysure`| 
-|![payswiftly](https://static.openfintech.io/payment_providers/payswiftly/logo.svg?w=600&c=v0.59.26#w100) |[**Payswiftly**](payswiftly/)|`payswiftly`| 
+|![payswiftly](https://static.openfintech.io/payment_providers/payswiftly/logo.png?w=600&c=v0.59.26#w100) |[**Payswiftly**](payswiftly/)|`payswiftly`| 
 |![paytabs](https://static.openfintech.io/payment_providers/paytabs/logo.png?w=600&c=v0.59.26#w100) |[**PayTabs**](paytabs/)|`paytabs`| 
 |![paytently](https://static.openfintech.io/payment_providers/paytently/logo.svg?w=600&c=v0.59.26#w100) |[**Paytently**](paytently/)|`paytently`| 
 |![paytiencecc](https://static.openfintech.io/payment_providers/paytiencecc/logo.png?w=600&c=v0.59.26#w100) |[**Paytience.cc**](paytiencecc/)|`paytiencecc`| 
