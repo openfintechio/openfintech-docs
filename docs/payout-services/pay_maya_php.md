@@ -32,7 +32,7 @@
 |`bank_branch`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`province`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`city`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
-|`full_address`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
+|`full_address`|✗|`string`|`/^[A-Za-z,\s0-9]{2,100}$/`| 
 |`account_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
  
 
@@ -186,7 +186,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-z,0-9]{2,100}$/` 
+	Regexp: `/^[A-Za-z,\s0-9]{2,100}$/` 
  
 	Required: `` 
  
@@ -382,7 +382,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0430\u0434\u0440\u0435\u0441",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0430\u0434\u0440\u0435\u0441\u0443"
       },
-      "regexp":"\/^[A-Za-z,0-9]{2,100}$\/"
+      "regexp":"\/^[A-Za-z,\\s0-9]{2,100}$\/"
     },
     {
       "key":"account_name",
