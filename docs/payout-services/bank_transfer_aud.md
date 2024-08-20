@@ -26,6 +26,18 @@
 |:---:|:---:|:---:|:---:| 
 |`bank_branch_code`|✔|`string`|`/^\d{1,20}$/`| 
 |`account_number`|✔|`string`|`/^\d{1,20}$/`| 
+|`account_type`|✗|`string`|`/^[A-Za-z0-9]{1,10}$/`| 
+|`beneficiary_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\s]{2,100}$/`| 
+|`beneficiary_lastname`|✗|`string`|`/^[A-Za-zА-Яа-я\-\s]{2,100}$/`| 
+|`beneficiary_document_id`|✗|`string`|`/^[A-Z0-9]{3,20}$/`| 
+|`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
+|`beneficiary_phone`|✗|`string`|`/^\d{10,14}$/`| 
+|`beneficiary_dob`|✗|`string`|`/^([0-2][0-9]\|(3)[0-1])(\/)(((0)[0-9])\|((1)[0-2]))(\/)\d{4}$/`| 
+|`beneficiary_country_code_iso`|✗|`string`|`/^.{2,6}$/`| 
+|`beneficiary_city`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
+|`beneficiary_postcode`|✗|`string`|`/^[\w\-\s]{1,64}$/`| 
+|`beneficiary_state`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
+|`beneficiary_address`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
  
 
 ### Details 
@@ -65,6 +77,222 @@
 	: [EN] Enter account number 
 	: [RU] Введите номер аккаунта 
 	: [UK] Введіть номер аккаунта 
+ 
+3. **`account_type`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z0-9]{1,10}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Account type 
+	: [RU] Тип аккаунта 
+	: [UK] Тип акаунту 
+ 
+	Hint:  
+	: [EN] Enter account type 
+	: [RU] Введите тип аккаунта 
+	: [UK] Введіть тип акаунту 
+ 
+4. **`beneficiary_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-zА-Яа-я\-\s]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary first name 
+	: [RU] Имя получателя 
+	: [UK] Імʼя отримувача 
+ 
+	Hint:  
+	: [EN] Enter beneficiary first name 
+	: [RU] Введите имя получателя 
+	: [UK] Введіть імʼя отримувача 
+ 
+5. **`beneficiary_lastname`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-zА-Яа-я\-\s]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary last name 
+	: [RU] Фамилия получателя 
+	: [UK] Прізвище отримувача 
+ 
+	Hint:  
+	: [EN] Enter beneficiary last name 
+	: [RU] Введите фамилию получателя 
+	: [UK] Введіть прізвище отримувача 
+ 
+6. **`beneficiary_document_id`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Z0-9]{3,20}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary Document ID 
+	: [RU] Номер документа получателя 
+	: [UK] Номер документу отримувача 
+ 
+	Hint:  
+	: [EN] Enter Beneficiary Document ID 
+	: [RU] Введите номер документа получателя 
+	: [UK] Введіть номер документу отримувача 
+ 
+7. **`beneficiary_email`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Email 
+	: [RU] Email 
+	: [UK] Email 
+ 
+	Hint:  
+	: [EN] Enter Email 
+	: [RU] Введите Email 
+	: [UK] Введіть Email 
+ 
+8. **`beneficiary_phone`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^\d{10,14}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Phone number 
+	: [RU] Номер телефона 
+	: [UK] Номер телефону 
+ 
+	Hint:  
+	: [EN] Enter phone number 
+	: [RU] Введите номер телефона 
+	: [UK] Введіть номер телефону 
+ 
+9. **`beneficiary_dob`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^([0-2][0-9]|(3)[0-1])(\/)(((0)[0-9])|((1)[0-2]))(\/)\d{4}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Date of birth 
+	: [RU] Дата рождения 
+	: [UK] Дата народження 
+ 
+	Hint:  
+	: [EN] Enter date of birth 
+	: [RU] Введите дату рождения 
+	: [UK] Введіть дату народження 
+ 
+10. **`beneficiary_country_code_iso`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{2,6}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary country code 
+	: [RU] Beneficiary country code 
+	: [UK] Beneficiary country code 
+ 
+	Hint:  
+	: [EN] Enter beneficiary country code 
+	: [RU] Введите beneficiary country code 
+	: [UK] Введіть beneficiary country code 
+ 
+11. **`beneficiary_city`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary city 
+	: [RU] Beneficiary city 
+	: [UK] Beneficiary city 
+ 
+	Hint:  
+	: [EN] Enter beneficiary city 
+	: [RU] Введите beneficiary city 
+	: [UK] Введіть beneficiary city 
+ 
+12. **`beneficiary_postcode`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[\w\-\s]{1,64}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary postcode 
+	: [RU] Beneficiary postcode 
+	: [UK] Beneficiary postcode 
+ 
+	Hint:  
+	: [EN] Enter beneficiary postcode 
+	: [RU] Введите beneficiary postcode 
+	: [UK] Введіть beneficiary postcode 
+ 
+13. **`beneficiary_state`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary state 
+	: [RU] Beneficiary state 
+	: [UK] Beneficiary state 
+ 
+	Hint:  
+	: [EN] Enter beneficiary state 
+	: [RU] Введите beneficiary state 
+	: [UK] Введіть beneficiary state 
+ 
+14. **`beneficiary_address`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary address 
+	: [RU] Beneficiary address 
+	: [UK] Beneficiary address 
+ 
+	Hint:  
+	: [EN] Enter beneficiary country code 
+	: [RU] Введите beneficiary country code 
+	: [UK] Введіть beneficiary country code 
  
 
 ## JSON Object 
@@ -110,6 +338,213 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430"
       },
       "example":"100000000393"
+    },
+    {
+      "key":"account_type",
+      "type":"string",
+      "regexp":"\/^[A-Za-z0-9]{1,10}$\/",
+      "required":false,
+      "position":3,
+      "label":{
+        "en":"Account type",
+        "ru":"\u0422\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",
+        "uk":"\u0422\u0438\u043f \u0430\u043a\u0430\u0443\u043d\u0442\u0443"
+      },
+      "hint":{
+        "en":"Enter account type",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0430\u043a\u0430\u0443\u043d\u0442\u0443"
+      }
+    },
+    {
+      "key":"beneficiary_name",
+      "type":"string",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\s]{2,100}$\/",
+      "required":false,
+      "position":4,
+      "label":{
+        "en":"Beneficiary first name",
+        "ru":"\u0418\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0406\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter beneficiary first name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      }
+    },
+    {
+      "key":"beneficiary_lastname",
+      "type":"string",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\s]{2,100}$\/",
+      "required":false,
+      "position":5,
+      "label":{
+        "en":"Beneficiary last name",
+        "ru":"\u0424\u0430\u043c\u0438\u043b\u0438\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u041f\u0440\u0456\u0437\u0432\u0438\u0449\u0435 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter beneficiary last name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0444\u0430\u043c\u0438\u043b\u0438\u044e \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u0440\u0456\u0437\u0432\u0438\u0449\u0435 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      }
+    },
+    {
+      "key":"beneficiary_document_id",
+      "type":"string",
+      "regexp":"\/^[A-Z0-9]{3,20}$\/",
+      "required":false,
+      "position":6,
+      "label":{
+        "en":"Beneficiary Document ID",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter Beneficiary Document ID",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      }
+    },
+    {
+      "key":"beneficiary_email",
+      "type":"string",
+      "label":{
+        "en":"Email",
+        "ru":"Email",
+        "uk":"Email"
+      },
+      "hint":{
+        "en":"Enter Email",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Email",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Email"
+      },
+      "example":"johndoe@example.com",
+      "regexp":"\/^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,4})$\/",
+      "required":false,
+      "position":7
+    },
+    {
+      "key":"beneficiary_phone",
+      "type":"string",
+      "label":{
+        "en":"Phone number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
+      },
+      "hint":{
+        "en":"Enter phone number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
+      },
+      "example":"6339152330011",
+      "regexp":"\/^\\d{10,14}$\/",
+      "required":false,
+      "position":8
+    },
+    {
+      "key":"beneficiary_dob",
+      "type":"string",
+      "regexp":"\/^([0-2][0-9]|(3)[0-1])(\\\/)(((0)[0-9])|((1)[0-2]))(\\\/)\\d{4}$\/",
+      "required":false,
+      "position":9,
+      "label":{
+        "en":"Date of birth",
+        "ru":"\u0414\u0430\u0442\u0430 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
+        "uk":"\u0414\u0430\u0442\u0430 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f"
+      },
+      "hint":{
+        "en":"Enter date of birth",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0434\u0430\u0442\u0443 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0434\u0430\u0442\u0443 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f"
+      },
+      "example":"10\/05\/1964"
+    },
+    {
+      "key":"beneficiary_country_code_iso",
+      "type":"string",
+      "regexp":"\/^.{2,6}$\/",
+      "required":false,
+      "position":10,
+      "label":{
+        "en":"Beneficiary country code",
+        "ru":"Beneficiary country code",
+        "uk":"Beneficiary country code"
+      },
+      "hint":{
+        "en":"Enter beneficiary country code",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 beneficiary country code",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c beneficiary country code"
+      }
+    },
+    {
+      "key":"beneficiary_city",
+      "type":"string",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f,\\s\\-\\d]{2,64}$\/",
+      "required":false,
+      "position":11,
+      "label":{
+        "en":"Beneficiary city",
+        "ru":"Beneficiary city",
+        "uk":"Beneficiary city"
+      },
+      "hint":{
+        "en":"Enter beneficiary city",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 beneficiary city",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c beneficiary city"
+      }
+    },
+    {
+      "key":"beneficiary_postcode",
+      "type":"string",
+      "regexp":"\/^[\\w\\-\\s]{1,64}$\/",
+      "required":false,
+      "position":12,
+      "label":{
+        "en":"Beneficiary postcode",
+        "ru":"Beneficiary postcode",
+        "uk":"Beneficiary postcode"
+      },
+      "hint":{
+        "en":"Enter beneficiary postcode",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 beneficiary postcode",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c beneficiary postcode"
+      }
+    },
+    {
+      "key":"beneficiary_state",
+      "type":"string",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f,\\s\\-\\d]{2,64}$\/",
+      "required":false,
+      "position":13,
+      "label":{
+        "en":"Beneficiary state",
+        "ru":"Beneficiary state",
+        "uk":"Beneficiary state"
+      },
+      "hint":{
+        "en":"Enter beneficiary state",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 beneficiary state",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c beneficiary state"
+      }
+    },
+    {
+      "key":"beneficiary_address",
+      "type":"string",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f,\\s\\-\\d]{2,64}$\/",
+      "required":false,
+      "position":14,
+      "label":{
+        "en":"Beneficiary address",
+        "ru":"Beneficiary address",
+        "uk":"Beneficiary address"
+      },
+      "hint":{
+        "en":"Enter beneficiary country code",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 beneficiary country code",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c beneficiary country code"
+      }
     }
   ],
   "amount_min":"0.01",

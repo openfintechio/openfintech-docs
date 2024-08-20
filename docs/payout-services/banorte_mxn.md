@@ -1,22 +1,22 @@
 
-# SPEI (service) 
-![spei_mxn](https://static.openfintech.io/payout_methods/spei_mxn/logo.svg?w=400&c=v0.59.26#w24)  
+# Banco Mercantil del Norte S.A. (service) 
+![banorte_mxn](https://static.openfintech.io/payout_methods/banorte_mxn/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
  
-**Code:** `spei_mxn` 
+**Code:** `banorte_mxn` 
  
-**Method:** `spei` [show -->](/payout-methods/spei/) 
+**Method:** `banorte` [show -->](/payout-methods/banorte/) 
  
 **Currency:** `MXN` [show -->](/currencies/MXN/) 
  
 **Name:** 
  
-:	[EN] SPEI 
-:	[RU] SPEI 
-:	[UK] SPEI 
+:	[EN] Banco Mercantil del Norte S.A. 
+:	[RU] Banco Mercantil del Norte S.A. 
+:	[UK] Banco Mercantil del Norte S.A. 
  
-**Amount limits:** from `0.01` to `1000000` MXN 
+**Amount limits:** from `0.19` to `1000000` MXN 
 
 ## Fields 
 
@@ -26,9 +26,9 @@
 |:---:|:---:|:---:|:---:| 
 |`beneficiary_name`|✔|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
 |`beneficiary_lastname`|✔|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
+|`account_number`|✔|`string`|`/^[0-9]{5,100}$/`| 
 |`document_id`|✗|`string`|`/^.{6,36}$/`| 
 |`bank_code`|✗|`string`|`/^[0-9]{2,5}$/`| 
-|`account_number`|✔|`string`|`/^[0-9]{5,100}$/`| 
 |`payment_concept`|✗|`string`|`/^[a-zA-Z 0-9]+$/`| 
 |`beneficiary_full_name`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
  
@@ -71,7 +71,25 @@
 	: [RU] Введите фамилию получателя 
 	: [UK] Введіть прiзвище отримувача 
  
-3. **`document_id`** 
+3. **`account_number`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{5,100}$/` 
+ 
+	Required: `1` 
+ 
+	Label:  
+	: [EN] Account Number 
+	: [RU] Номер счёта 
+	: [UK] Номер рахунку 
+ 
+	Hint:  
+	: [EN] Enter Account Number 
+	: [RU] Введите номер счёта 
+	: [UK] Введіть номер рахунку 
+ 
+4. **`document_id`** 
  
 	Type: `string` 
  
@@ -89,7 +107,7 @@
 	: [RU] Введите номер документа 
 	: [UK] Введіть номер документу 
  
-4. **`bank_code`** 
+5. **`bank_code`** 
  
 	Type: `string` 
  
@@ -106,24 +124,6 @@
 	: [EN] Enter bank code 
 	: [RU] Введите код банка 
 	: [UK] Введіть код банку 
- 
-5. **`account_number`** 
- 
-	Type: `string` 
- 
-	Regexp: `/^[0-9]{5,100}$/` 
- 
-	Required: `1` 
- 
-	Label:  
-	: [EN] Account Number 
-	: [RU] Номер счёта 
-	: [UK] Номер рахунку 
- 
-	Hint:  
-	: [EN] Enter Account Number 
-	: [RU] Введите номер счёта 
-	: [UK] Введіть номер рахунку 
  
 6. **`payment_concept`** 
  
@@ -166,8 +166,8 @@
 
 ```json
 {
-  "code":"spei_mxn",
-  "method":"spei",
+  "code":"banorte_mxn",
+  "method":"banorte",
   "currency":"MXN",
   "fields":[
     {
@@ -205,6 +205,23 @@
       "required":true
     },
     {
+      "key":"account_number",
+      "regexp":"\/^[0-9]{5,100}$\/",
+      "type":"string",
+      "label":{
+        "en":"Account Number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0451\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter Account Number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0441\u0447\u0451\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "position":3,
+      "required":true
+    },
+    {
       "key":"document_id",
       "regexp":"\/^.{6,36}$\/",
       "type":"string",
@@ -218,7 +235,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
       },
-      "position":3,
+      "position":4,
       "required":false
     },
     {
@@ -235,25 +252,8 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443"
       },
-      "position":4,
-      "required":false
-    },
-    {
-      "key":"account_number",
-      "regexp":"\/^[0-9]{5,100}$\/",
-      "type":"string",
-      "label":{
-        "en":"Account Number",
-        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0451\u0442\u0430",
-        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
-      },
-      "hint":{
-        "en":"Enter Account Number",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0441\u0447\u0451\u0442\u0430",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
-      },
       "position":5,
-      "required":true
+      "required":false
     },
     {
       "key":"payment_concept",
@@ -290,7 +290,7 @@
       }
     }
   ],
-  "amount_min":"0.01",
+  "amount_min":"0.19",
   "amount_max":"1000000"
 }
 ```  

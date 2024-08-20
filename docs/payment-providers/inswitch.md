@@ -99,6 +99,9 @@ The list of supported [Payout Methods](/payout-methods/)
 |![prymera_bank](https://static.openfintech.io/payout_methods/prymera_bank/icon.svg?w=278&c=v0.59.26#w40) |[prymera_bank](payout-methodsprymera_bank/)|`prymera_bank`| 
 |![inter_bank](https://static.openfintech.io/payout_methods/inter_bank/icon.svg?w=278&c=v0.59.26#w40) |[inter_bank](payout-methodsinter_bank/)|`inter_bank`| 
 |![kasnet](https://static.openfintech.io/payout_methods/kasnet/icon.svg?w=278&c=v0.59.26#w40) |[kasnet](payout-methodskasnet/)|`kasnet`| 
+|![bbva_bancomer](https://static.openfintech.io/payout_methods/bbva_bancomer/icon.svg?w=278&c=v0.59.26#w40) |[bbva_bancomer](payout-methodsbbva_bancomer/)|`bbva_bancomer`| 
+|![banco_santander](https://static.openfintech.io/payout_methods/banco_santander/icon.svg?w=278&c=v0.59.26#w40) |[banco_santander](payout-methodsbanco_santander/)|`banco_santander`| 
+|![banorte](https://static.openfintech.io/payout_methods/banorte/icon.svg?w=278&c=v0.59.26#w40) |[banorte](payout-methodsbanorte/)|`banorte`| 
  
 
 ## JSON Object 
@@ -164,7 +167,10 @@ The list of supported [Payout Methods](/payout-methods/)
     "bbva",
     "prymera_bank",
     "inter_bank",
-    "kasnet"
+    "kasnet",
+    "bbva_bancomer",
+    "banco_santander",
+    "banorte"
   ],
   "metadata":null,
   "name":{

@@ -161,6 +161,7 @@
 |![balakliiskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018](https://static.openfintech.io/payout_methods/balakliiskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Балаклійський РЕМ АК "Харківобленерго" (за послуги до 31.12.2018)**](balakliiskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|`balakliiskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018`| 
 |![balogun_gambari_mfb](https://static.openfintech.io/payout_methods/balogun_gambari_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Balogun Gambari MFB**](balogun_gambari_mfb/)|`balogun_gambari_mfb`| 
 |![banana-wars](https://static.openfintech.io/payout_methods/banana-wars/logo.png?w=400&c=v0.59.26#w24) |[**Banana Wars**](banana-wars/)|`banana-wars`| 
+|![banco_santander](https://static.openfintech.io/payout_methods/banco_santander/logo.svg?w=400&c=v0.59.26#w24) |[**SANTANDER**](banco_santander/)|`banco_santander`| 
 |![bancoitau](https://static.openfintech.io/payout_methods/bancoitau/logo.svg?w=400&c=v0.59.26#w24) |[**Banco Itaú**](bancoitau/)|`bancoitau`| 
 |![bancopopular](https://static.openfintech.io/payout_methods/bancopopular/logo.svg?w=400&c=v0.59.26#w24) |[**Banco Popular**](bancopopular/)|`bancopopular`| 
 |![bandhan_bank](https://static.openfintech.io/payout_methods/bandhan_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Bandhan Bank**](bandhan_bank/)|`bandhan_bank`| 
@@ -239,6 +240,7 @@
 |![banko_de_oro](https://static.openfintech.io/payout_methods/banko_de_oro/logo.svg?w=400&c=v0.59.26#w24) |[**Banko de Oro**](banko_de_oro/)|`banko_de_oro`| 
 |![banko_de_oro_corporate](https://static.openfintech.io/payout_methods/banko_de_oro_corporate/logo.svg?w=400&c=v0.59.26#w24) |[**Banko de Oro Corporate Account**](banko_de_oro_corporate/)|`banko_de_oro_corporate`| 
 |![banktransfer](https://static.openfintech.io/payout_methods/banktransfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](banktransfer/)|`banktransfer`| 
+|![banorte](https://static.openfintech.io/payout_methods/banorte/logo.svg?w=400&c=v0.59.26#w24) |[**Banco Mercantil del Norte S.A.**](banorte/)|`banorte`| 
 |![baobab_mfb](https://static.openfintech.io/payout_methods/baobab_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Baobab MFB**](baobab_mfb/)|`baobab_mfb`| 
 |![baoviet_bank](https://static.openfintech.io/payout_methods/baoviet_bank/logo.png?w=400&c=v0.59.26#w24) |[**Baoviet Joint Stock Commercial Bank**](baoviet_bank/)|`baoviet_bank`| 
 |![bar-pat-vinnitsiaoblenergo](https://static.openfintech.io/payout_methods/bar-pat-vinnitsiaoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Bar of PJSC 'Vinnitsaoblenergo'**](bar-pat-vinnitsiaoblenergo/)|`bar-pat-vinnitsiaoblenergo`| 
@@ -246,6 +248,7 @@
 |![barvinkovskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018](https://static.openfintech.io/payout_methods/barvinkovskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Барвінковський РЕМ АК "Харківобленерго" (за послуги до 31.12.2018)**](barvinkovskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|`barvinkovskii-rem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018`| 
 |![batyevka-net-kiev](https://static.openfintech.io/payout_methods/batyevka-net-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Batyevka.net (Kiev)**](batyevka-net-kiev/)|`batyevka-net-kiev`| 
 |![bbva](https://static.openfintech.io/payout_methods/bbva/logo.svg?w=400&c=v0.59.26#w24) |[**BBVA Continental**](bbva/)|`bbva`| 
+|![bbva_bancomer](https://static.openfintech.io/payout_methods/bbva_bancomer/logo.svg?w=400&c=v0.59.26#w24) |[**BBVA Bancomer S.A.**](bbva_bancomer/)|`bbva_bancomer`| 
 |![bbva_colombia](https://static.openfintech.io/payout_methods/bbva_colombia/logo.svg?w=400&c=v0.59.26#w24) |[**BBVA Colombia**](bbva_colombia/)|`bbva_colombia`| 
 |![bc-big-net-kievskaia-obl](https://static.openfintech.io/payout_methods/bc-big-net-kievskaia-obl/logo.png?w=400&c=v0.59.26#w24) |[**BC Big.Net (Kyiv region)**](bc-big-net-kievskaia-obl/)|`bc-big-net-kievskaia-obl`| 
 |![bc_kash_mfb](https://static.openfintech.io/payout_methods/bc_kash_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**BC Kash MFB**](bc_kash_mfb/)|`bc_kash_mfb`| 
