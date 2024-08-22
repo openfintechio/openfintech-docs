@@ -752,6 +752,7 @@
 |![spankki](https://static.openfintech.io/payment_methods/spankki/logo.png?w=400&c=v0.59.26#w200) |[**S-Pankki**](spankki/)|`spankki`| 
 |![spcbl](https://static.openfintech.io/payment_methods/spcbl/logo.png?w=400&c=v0.59.26#w200) |[**The Surat Peoples Co-Operative Bank Limited**](spcbl/)|`spcbl`| 
 |![spei](https://static.openfintech.io/payment_methods/spei/logo.png?w=400&c=v0.59.26#w200) |[**SPEI**](spei/)|`spei`| 
+|![spush_pay](https://static.openfintech.io/payment_methods/spush_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Spush Pay**](spush_pay/)|`spush_pay`| 
 |![ssk](https://static.openfintech.io/payment_methods/ssk/logo.png?w=400&c=v0.59.26#w200) |[**Self service kiosk**](ssk/)|`ssk`| 
 |![ssk_by](https://static.openfintech.io/payment_methods/ssk_by/logo.png?w=400&c=v0.59.26#w200) |[**Self service kiosk Belarus**](ssk_by/)|`ssk_by`| 
 |![ssk_ge](https://static.openfintech.io/payment_methods/ssk_ge/logo.png?w=400&c=v0.59.26#w200) |[**Self service kiosk Georgia**](ssk_ge/)|`ssk_ge`| 

@@ -722,6 +722,7 @@
 |![paystage](https://static.openfintech.io/payment_providers/paystage/logo.png?w=600&c=v0.59.26#w100) |[**PayStage**](paystage/)|`paystage`| 
 |![paystand](https://static.openfintech.io/payment_providers/paystand/logo.png?w=600&c=v0.59.26#w100) |[**PayStand**](paystand/)|`paystand`| 
 |![paystation](https://static.openfintech.io/payment_providers/paystation/logo.png?w=600&c=v0.59.26#w100) |[**Paystation**](paystation/)|`paystation`| 
+|![paystrax](https://static.openfintech.io/payment_providers/paystrax/logo.png?w=600&c=v0.59.26#w100) |[**Paystrax**](paystrax/)|`paystrax`| 
 |![paystudio](https://static.openfintech.io/payment_providers/paystudio/logo.png?w=600&c=v0.59.26#w100) |[**PayStudio**](paystudio/)|`paystudio`| 
 |![paysure](https://static.openfintech.io/payment_providers/paysure/logo.png?w=600&c=v0.59.26#w100) |[**Paysure**](paysure/)|`paysure`| 
 |![payswiftly](https://static.openfintech.io/payment_providers/payswiftly/logo.png?w=600&c=v0.59.26#w100) |[**Payswiftly**](payswiftly/)|`payswiftly`| 
@@ -879,6 +880,7 @@
 |![specializedprocessingsolutions](https://static.openfintech.io/payment_providers/specializedprocessingsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Specialized Processing Solutions**](specializedprocessingsolutions/)|`specializedprocessingsolutions`| 
 |![spoynt](https://static.openfintech.io/payment_providers/spoynt/logo.svg?w=600&c=v0.59.26#w100) |[**Spoynt**](spoynt/)|`spoynt`| 
 |![spryng](https://static.openfintech.io/payment_providers/spryng/logo.png?w=600&c=v0.59.26#w100) |[**Spryng Payments**](spryng/)|`spryng`| 
+|![spush](https://static.openfintech.io/payment_providers/spush/logo.svg?w=600&c=v0.59.26#w100) |[**Spush Pay**](spush/)|`spush`| 
 |![sqalapay](https://static.openfintech.io/payment_providers/sqalapay/logo.png?w=600&c=v0.59.26#w100) |[**Sqalapay**](sqalapay/)|`sqalapay`| 
 |![square](https://static.openfintech.io/payment_providers/square/logo.svg?w=600&c=v0.59.26#w100) |[**Square**](square/)|`square`| 
 |![starkbank](https://static.openfintech.io/payment_providers/starkbank/logo.png?w=600&c=v0.59.26#w100) |[**STARK BANK**](starkbank/)|`starkbank`| 

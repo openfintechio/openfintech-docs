@@ -1667,6 +1667,7 @@
 |![paystage](https://static.openfintech.io/vendors/paystage/logo.png?w=600&c=v0.59.26#w200) |[**PayStage**](paystage/)|`paystage`| 
 |![paystand](https://static.openfintech.io/vendors/paystand/logo.png?w=600&c=v0.59.26#w200) |[**PayStand**](paystand/)|`paystand`| 
 |![paystation](https://static.openfintech.io/vendors/paystation/logo.png?w=600&c=v0.59.26#w200) |[**Paystation**](paystation/)|`paystation`| 
+|![paystrax](https://static.openfintech.io/vendors/paystrax/logo.png?w=600&c=v0.59.26#w200) |[**Paystrax**](paystrax/)|`paystrax`| 
 |![paystudio](https://static.openfintech.io/vendors/paystudio/logo.png?w=600&c=v0.59.26#w200) |[**PayStudio**](paystudio/)|`paystudio`| 
 |![paysure](https://static.openfintech.io/vendors/paysure/logo.png?w=600&c=v0.59.26#w200) |[**Paysure**](paysure/)|`paysure`| 
 |![payswiftly](https://static.openfintech.io/vendors/payswiftly/logo.png?w=600&c=v0.59.26#w200) |[**Payswiftly**](payswiftly/)|`payswiftly`| 
@@ -1979,6 +1980,7 @@
 |![specializedprocessingsolutions](https://static.openfintech.io/vendors/specializedprocessingsolutions/logo.png?w=600&c=v0.59.26#w200) |[**Specialized Processing Solutions**](specializedprocessingsolutions/)|`specializedprocessingsolutions`| 
 |![spoynt](https://static.openfintech.io/vendors/spoynt/logo.svg?w=600&c=v0.59.26#w200) |[**Spoynt**](spoynt/)|`spoynt`| 
 |![spryng](https://static.openfintech.io/vendors/spryng/logo.png?w=600&c=v0.59.26#w200) |[**Spryng Payments**](spryng/)|`spryng`| 
+|![spush](https://static.openfintech.io/vendors/spush/logo.svg?w=600&c=v0.59.26#w200) |[**Spush Pay**](spush/)|`spush`| 
 |![sqalapay](https://static.openfintech.io/vendors/sqalapay/logo.png?w=600&c=v0.59.26#w200) |[**Sqalapay**](sqalapay/)|`sqalapay`| 
 |![square](https://static.openfintech.io/vendors/square/logo.svg?w=600&c=v0.59.26#w200) |[**Square**](square/)|`square`| 
 |![stanbic_bank_nigeria](https://static.openfintech.io/vendors/stanbic_bank_nigeria/logo.svg?w=600&c=v0.59.26#w200) |[**Stanbic IBTC Bank, Nigeria**](stanbic_bank_nigeria/)|`stanbic_bank_nigeria`| 
