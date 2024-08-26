@@ -1167,6 +1167,8 @@
 |![Saigon Bank For Industry And Trade](https://static.openfintech.io/payment_methods/saigon_bank/logo.png?w=400&c=v0.59.26#w200) |[**Saigon Bank For Industry And Trade**](/payment-methods/saigon_bank/)|[`saigon_bank_vnd_hpp`](saigon_bank_vnd_hpp/)| 
 |![Saraswat Cooperative Bank](https://static.openfintech.io/payment_methods/saraswat_cooperative_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Saraswat Cooperative Bank**](/payment-methods/saraswat_cooperative_bank/)|[`saraswat_cooperative_bank_inr_hpp`](saraswat_cooperative_bank_inr_hpp/)| 
 |![SberBank](https://static.openfintech.io/payment_methods/sberbank/logo.svg?w=400&c=v0.59.26#w200) |[**SberBank**](/payment-methods/sberbank/)|[`sberbank_rub_hpp`](sberbank_rub_hpp/)| 
+|![SBP](https://static.openfintech.io/payment_methods/sbp/logo.svg?w=400&c=v0.59.26#w200) |[**SBP**](/payment-methods/sbp/)|[`sbp_azn_hpp`](sbp_azn_hpp/)| 
+|![SBP QR](https://static.openfintech.io/payment_methods/sbp_qr/logo.svg?w=400&c=v0.59.26#w200) |[**SBP QR**](/payment-methods/sbp_qr/)|[`sbp_qr_azn_hpp`](sbp_qr_azn_hpp/)| 
 |![SBP QR](https://static.openfintech.io/payment_methods/sbp_qr/logo.svg?w=400&c=v0.59.26#w200) |[**SBP QR**](/payment-methods/sbp_qr/)|[`sbp_qr_rub_hpp`](sbp_qr_rub_hpp/)| 
 |![SBP QR](https://static.openfintech.io/payment_methods/sbp_qr/logo.svg?w=400&c=v0.59.26#w200) |[**SBP QR**](/payment-methods/sbp_qr/)|[`sbp_qr_rub_invoice`](sbp_qr_rub_invoice/)| 
 |![SBP](https://static.openfintech.io/payment_methods/sbp/logo.svg?w=400&c=v0.59.26#w200) |[**SBP**](/payment-methods/sbp/)|[`sbp_rub_hpp`](sbp_rub_hpp/)| 

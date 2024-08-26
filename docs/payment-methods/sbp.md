@@ -45,6 +45,7 @@ The list of [Payment Services](/payment-services/) based on the _SBP_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![sbp](https://static.openfintech.io/payment_methods/sbp/icon.svg?w=278&c=v0.59.26#w100) |[sbp_rub_hpp](/payment-services/sbp_rub_hpp/)|`sbp_rub_hpp`| 
+|![sbp](https://static.openfintech.io/payment_methods/sbp/icon.svg?w=278&c=v0.59.26#w100) |[sbp_azn_hpp](/payment-services/sbp_azn_hpp/)|`sbp_azn_hpp`| 
 |![sbp](https://static.openfintech.io/payment_methods/sbp/icon.svg?w=278&c=v0.59.26#w100) |[sbp_rub_invoice](/payment-services/sbp_rub_invoice/)|`sbp_rub_invoice`| 
  
 
