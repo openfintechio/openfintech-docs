@@ -1,5 +1,5 @@
 
-# Spush Pay 
+# Spush 
 ![spush](https://static.openfintech.io/payment_providers/spush/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Spush Pay 
-:	[RU] Spush Pay 
-:	[UK] Spush Pay 
+:	[EN] Spush 
+:	[RU] Spush 
+:	[UK] Spush 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"Spush Pay",
-    "ru":"Spush Pay",
-    "uk":"Spush Pay"
+    "en":"Spush",
+    "ru":"Spush",
+    "uk":"Spush"
   }
 }
 ```  

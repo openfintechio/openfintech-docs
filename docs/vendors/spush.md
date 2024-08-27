@@ -1,5 +1,5 @@
 
-# Spush Pay 
+# Spush 
 ![spush](https://static.openfintech.io/vendors/spush/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Spush Pay 
-:	[RU] Spush Pay 
-:	[UK] Spush Pay 
+:	[EN] Spush 
+:	[RU] Spush 
+:	[UK] Spush 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/spush/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"spush",
   "name":{
-    "en":"Spush Pay",
-    "ru":"Spush Pay",
-    "uk":"Spush Pay"
+    "en":"Spush",
+    "ru":"Spush",
+    "uk":"Spush"
   },
   "status":"active",
   "description":null,

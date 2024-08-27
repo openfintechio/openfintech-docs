@@ -47,7 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Spush Pay
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![spush](https://static.openfintech.io/payment_providers/spush/icon.svg?w=278&c=v0.59.26#w100) |[Spush Pay](/payment-providers/spush/)|`spush`| 
+|![spush](https://static.openfintech.io/payment_providers/spush/icon.svg?w=278&c=v0.59.26#w100) |[Spush](/payment-providers/spush/)|`spush`| 
  
 
 ## JSON Object 

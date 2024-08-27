@@ -75,6 +75,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi](/payment-methods/upi/)|`upi`| 
 |![nequi](https://static.openfintech.io/payment_methods/nequi/icon.svg?w=278&c=v0.59.26#w100) |[nequi](/payment-methods/nequi/)|`nequi`| 
 |![colombia_bank](https://static.openfintech.io/payment_methods/colombia_bank/icon.svg?w=278&c=v0.59.26#w100) |[colombia_bank](/payment-methods/colombia_bank/)|`colombia_bank`| 
+|![efecty](https://static.openfintech.io/payment_methods/efecty/icon.svg?w=278&c=v0.59.26#w100) |[efecty](/payment-methods/efecty/)|`efecty`| 
 |![pse](https://static.openfintech.io/payment_methods/pse/icon.svg?w=278&c=v0.59.26#w100) |[pse](/payment-methods/pse/)|`pse`| 
  
 
@@ -187,6 +188,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "upi",
     "nequi",
     "colombia_bank",
+    "efecty",
     "pse"
   ],
   "payout_method":[

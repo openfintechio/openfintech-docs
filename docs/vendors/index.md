@@ -690,6 +690,7 @@
 |![epoch](https://static.openfintech.io/vendors/epoch/logo.png?w=600&c=v0.59.26#w200) |[**Epoch**](epoch/)|`epoch`| 
 |![epro](https://static.openfintech.io/vendors/epro/logo.svg?w=600&c=v0.59.26#w200) |[**E-PRO**](epro/)|`epro`| 
 |![eps](https://static.openfintech.io/vendors/eps/logo.png?w=600&c=v0.59.26#w200) |[**eps e-payment**](eps/)|`eps`| 
+|![epx](https://static.openfintech.io/vendors/epx/logo.png?w=600&c=v0.59.26#w200) |[**EPX**](epx/)|`epx`| 
 |![equitas_bank](https://static.openfintech.io/vendors/equitas_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Equitas Bank**](equitas_bank/)|`equitas_bank`| 
 |![erstebank](https://static.openfintech.io/vendors/erstebank/logo.png?w=600&c=v0.59.26#w200) |[**Erste Bank**](erstebank/)|`erstebank`| 
 |![escalion](https://static.openfintech.io/vendors/escalion/logo.png?w=600&c=v0.59.26#w200) |[**Escalion**](escalion/)|`escalion`| 
@@ -1980,7 +1981,7 @@
 |![specializedprocessingsolutions](https://static.openfintech.io/vendors/specializedprocessingsolutions/logo.png?w=600&c=v0.59.26#w200) |[**Specialized Processing Solutions**](specializedprocessingsolutions/)|`specializedprocessingsolutions`| 
 |![spoynt](https://static.openfintech.io/vendors/spoynt/logo.svg?w=600&c=v0.59.26#w200) |[**Spoynt**](spoynt/)|`spoynt`| 
 |![spryng](https://static.openfintech.io/vendors/spryng/logo.png?w=600&c=v0.59.26#w200) |[**Spryng Payments**](spryng/)|`spryng`| 
-|![spush](https://static.openfintech.io/vendors/spush/logo.svg?w=600&c=v0.59.26#w200) |[**Spush Pay**](spush/)|`spush`| 
+|![spush](https://static.openfintech.io/vendors/spush/logo.svg?w=600&c=v0.59.26#w200) |[**Spush**](spush/)|`spush`| 
 |![sqalapay](https://static.openfintech.io/vendors/sqalapay/logo.png?w=600&c=v0.59.26#w200) |[**Sqalapay**](sqalapay/)|`sqalapay`| 
 |![square](https://static.openfintech.io/vendors/square/logo.svg?w=600&c=v0.59.26#w200) |[**Square**](square/)|`square`| 
 |![stanbic_bank_nigeria](https://static.openfintech.io/vendors/stanbic_bank_nigeria/logo.svg?w=600&c=v0.59.26#w200) |[**Stanbic IBTC Bank, Nigeria**](stanbic_bank_nigeria/)|`stanbic_bank_nigeria`| 

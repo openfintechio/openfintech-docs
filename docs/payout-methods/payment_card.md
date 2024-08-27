@@ -571,6 +571,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![wzrdpay](https://static.openfintech.io/payment_providers/wzrdpay/icon.png?w=278&c=v0.59.26#w100) |[WZRD PAY](/payment-providers/wzrdpay/)|`wzrdpay`| 
 |![kasha](https://static.openfintech.io/payment_providers/kasha/icon.png?w=278&c=v0.59.26#w100) |[Kasha](/payment-providers/kasha/)|`kasha`| 
 |![dnspay](https://static.openfintech.io/payment_providers/dnspay/icon.svg?w=278&c=v0.59.26#w100) |[DNSPAY](/payment-providers/dnspay/)|`dnspay`| 
+|![epx](https://static.openfintech.io/payment_providers/epx/icon.png?w=278&c=v0.59.26#w100) |[EPX](/payment-providers/epx/)|`epx`| 
 |![omno](https://static.openfintech.io/payment_providers/omno/icon.png?w=278&c=v0.59.26#w100) |[OMNO](/payment-providers/omno/)|`omno`| 
 |![aeteredge](https://static.openfintech.io/payment_providers/aeteredge/icon.svg?w=278&c=v0.59.26#w100) |[AeterEdge](/payment-providers/aeteredge/)|`aeteredge`| 
 |![paytorapayment](https://static.openfintech.io/payment_providers/paytorapayment/icon.png?w=278&c=v0.59.26#w100) |[PaytoraPayment](/payment-providers/paytorapayment/)|`paytorapayment`| 

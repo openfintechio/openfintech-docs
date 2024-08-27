@@ -309,6 +309,7 @@
 |![epaymentsglobalcom](https://static.openfintech.io/payment_providers/epaymentsglobalcom/logo.svg?w=600&c=v0.59.26#w100) |[**ePaymentsglobal.com**](epaymentsglobalcom/)|`epaymentsglobalcom`| 
 |![epoch](https://static.openfintech.io/payment_providers/epoch/logo.png?w=600&c=v0.59.26#w100) |[**Epoch**](epoch/)|`epoch`| 
 |![epro](https://static.openfintech.io/payment_providers/epro/logo.svg?w=600&c=v0.59.26#w100) |[**E-PRO**](epro/)|`epro`| 
+|![epx](https://static.openfintech.io/payment_providers/epx/logo.png?w=600&c=v0.59.26#w100) |[**EPX**](epx/)|`epx`| 
 |![escalion](https://static.openfintech.io/payment_providers/escalion/logo.png?w=600&c=v0.59.26#w100) |[**Escalion**](escalion/)|`escalion`| 
 |![espertopay](https://static.openfintech.io/payment_providers/espertopay/logo.png?w=600&c=v0.59.26#w100) |[**EspertoPay**](espertopay/)|`espertopay`| 
 |![eupaymentz](https://static.openfintech.io/payment_providers/eupaymentz/logo.png?w=600&c=v0.59.26#w100) |[**EUPaymentz**](eupaymentz/)|`eupaymentz`| 
@@ -880,7 +881,7 @@
 |![specializedprocessingsolutions](https://static.openfintech.io/payment_providers/specializedprocessingsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Specialized Processing Solutions**](specializedprocessingsolutions/)|`specializedprocessingsolutions`| 
 |![spoynt](https://static.openfintech.io/payment_providers/spoynt/logo.svg?w=600&c=v0.59.26#w100) |[**Spoynt**](spoynt/)|`spoynt`| 
 |![spryng](https://static.openfintech.io/payment_providers/spryng/logo.png?w=600&c=v0.59.26#w100) |[**Spryng Payments**](spryng/)|`spryng`| 
-|![spush](https://static.openfintech.io/payment_providers/spush/logo.svg?w=600&c=v0.59.26#w100) |[**Spush Pay**](spush/)|`spush`| 
+|![spush](https://static.openfintech.io/payment_providers/spush/logo.svg?w=600&c=v0.59.26#w100) |[**Spush**](spush/)|`spush`| 
 |![sqalapay](https://static.openfintech.io/payment_providers/sqalapay/logo.png?w=600&c=v0.59.26#w100) |[**Sqalapay**](sqalapay/)|`sqalapay`| 
 |![square](https://static.openfintech.io/payment_providers/square/logo.svg?w=600&c=v0.59.26#w100) |[**Square**](square/)|`square`| 
 |![starkbank](https://static.openfintech.io/payment_providers/starkbank/logo.png?w=600&c=v0.59.26#w100) |[**STARK BANK**](starkbank/)|`starkbank`| 
