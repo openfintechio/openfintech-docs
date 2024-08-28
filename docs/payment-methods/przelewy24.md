@@ -41,6 +41,7 @@ The list of [Payment Services](/payment-services/) based on the _Przelewy24_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.png?w=278&c=v0.59.26#w100) |[przelewy24_eur_hpp](/payment-services/przelewy24_eur_hpp/)|`przelewy24_eur_hpp`| 
+|![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.png?w=278&c=v0.59.26#w100) |[przelewy24_usd_hpp](/payment-services/przelewy24_usd_hpp/)|`przelewy24_usd_hpp`| 
  
 
 ## Payment Providers 
@@ -66,6 +67,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Przelewy2
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.png?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
 |![2000charge](https://static.openfintech.io/payment_providers/2000charge/icon.png?w=278&c=v0.59.26#w100) |[2000Charge.com](/payment-providers/2000charge/)|`2000charge`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
+|![utorg](https://static.openfintech.io/payment_providers/utorg/icon.png?w=278&c=v0.59.26#w100) |[Utorg](/payment-providers/utorg/)|`utorg`| 
  
 
 ## JSON Object 

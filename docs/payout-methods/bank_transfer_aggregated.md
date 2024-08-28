@@ -53,6 +53,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![payneteasy](https://static.openfintech.io/payment_providers/payneteasy/icon.svg?w=278&c=v0.59.26#w100) |[Payneteasy](/payment-providers/payneteasy/)|`payneteasy`| 
 |![bitexpro](https://static.openfintech.io/payment_providers/bitexpro/icon.png?w=278&c=v0.59.26#w100) |[BitexPRO](/payment-providers/bitexpro/)|`bitexpro`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
+|![kasha](https://static.openfintech.io/payment_providers/kasha/icon.png?w=278&c=v0.59.26#w100) |[Kasha](/payment-providers/kasha/)|`kasha`| 
 |![citrinepay](https://static.openfintech.io/payment_providers/citrinepay/icon.png?w=278&c=v0.59.26#w100) |[CitrinePay](/payment-providers/citrinepay/)|`citrinepay`| 
  
 

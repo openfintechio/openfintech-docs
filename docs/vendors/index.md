@@ -2193,6 +2193,7 @@
 |![usbxpay](https://static.openfintech.io/vendors/usbxpay/logo.png?w=600&c=v0.59.26#w200) |[**USBxPAY**](usbxpay/)|`usbxpay`| 
 |![usd_coin](https://static.openfintech.io/vendors/usd_coin/logo.svg?w=600&c=v0.59.26#w200) |[**Usd Coin**](usd_coin/)|`usd_coin`| 
 |![usemyservices](https://static.openfintech.io/vendors/usemyservices/logo.png?w=600&c=v0.59.26#w200) |[**UseMyServices**](usemyservices/)|`usemyservices`| 
+|![utorg](https://static.openfintech.io/vendors/utorg/logo.png?w=600&c=v0.59.26#w200) |[**Utorg**](utorg/)|`utorg`| 
 |![uzcard](https://static.openfintech.io/vendors/uzcard/logo.svg?w=600&c=v0.59.26#w200) |[**Uzcard**](uzcard/)|`uzcard`| 
 || **V** ||
 |![v-obmen.net](https://static.openfintech.io/vendors/v-obmen.net/logo.svg?w=600&c=v0.59.26#w200) |[**V-Obmen**](v-obmen.net/)|`v-obmen.net`| 

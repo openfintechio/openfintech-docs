@@ -44,6 +44,7 @@ The list of [Payment Services](/payment-services/) based on the _Giropay_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![giropay](https://static.openfintech.io/payment_methods/giropay/icon.svg?w=278&c=v0.59.26#w100) |[giropay_eur_hpp](/payment-services/giropay_eur_hpp/)|`giropay_eur_hpp`| 
+|![giropay](https://static.openfintech.io/payment_methods/giropay/icon.svg?w=278&c=v0.59.26#w100) |[giropay_usd_hpp](/payment-services/giropay_usd_hpp/)|`giropay_usd_hpp`| 
  
 
 ## Payment Providers 
@@ -75,6 +76,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Giropay_
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.png?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
 |![2000charge](https://static.openfintech.io/payment_providers/2000charge/icon.png?w=278&c=v0.59.26#w100) |[2000Charge.com](/payment-providers/2000charge/)|`2000charge`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
+|![utorg](https://static.openfintech.io/payment_providers/utorg/icon.png?w=278&c=v0.59.26#w100) |[Utorg](/payment-providers/utorg/)|`utorg`| 
  
 
 ## JSON Object 

@@ -957,6 +957,7 @@
 |![upclick](https://static.openfintech.io/payment_providers/upclick/logo.png?w=600&c=v0.59.26#w100) |[**Upclick**](upclick/)|`upclick`| 
 |![usaepay](https://static.openfintech.io/payment_providers/usaepay/logo.png?w=600&c=v0.59.26#w100) |[**USAePay**](usaepay/)|`usaepay`| 
 |![usbxpay](https://static.openfintech.io/payment_providers/usbxpay/logo.png?w=600&c=v0.59.26#w100) |[**USBxPAY**](usbxpay/)|`usbxpay`| 
+|![utorg](https://static.openfintech.io/payment_providers/utorg/logo.png?w=600&c=v0.59.26#w100) |[**Utorg**](utorg/)|`utorg`| 
 || **V** ||
 |![v9pay](https://static.openfintech.io/payment_providers/v9pay/logo.png?w=600&c=v0.59.26#w100) |[**V9Pay**](v9pay/)|`v9pay`| 
 |![valitor](https://static.openfintech.io/payment_providers/valitor/logo.png?w=600&c=v0.59.26#w100) |[**Valitor**](valitor/)|`valitor`| 

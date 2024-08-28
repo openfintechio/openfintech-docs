@@ -322,7 +322,9 @@
 |![BitexPRO wallet](https://static.openfintech.io/payment_methods/bitexpro_wallet/logo.png?w=400&c=v0.59.26#w200) |[**BitexPRO wallet**](/payment-methods/bitexpro_wallet/)|[`bitexpro_wallet_usdt_hpp`](bitexpro_wallet_usdt_hpp/)| 
 |![BitexPRO wallet](https://static.openfintech.io/payment_methods/bitexpro_wallet/logo.png?w=400&c=v0.59.26#w200) |[**BitexPRO wallet**](/payment-methods/bitexpro_wallet/)|[`bitexpro_wallet_znx_hpp`](bitexpro_wallet_znx_hpp/)| 
 |![Bkash Limited](https://static.openfintech.io/payment_methods/bkash_limited/logo.png?w=400&c=v0.59.26#w200) |[**Bkash Limited**](/payment-methods/bkash_limited/)|[`bkash_limited_bdt_hpp`](bkash_limited_bdt_hpp/)| 
+|![BLIK](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](/payment-methods/blik/)|[`blik_eur_hpp`](blik_eur_hpp/)| 
 |![BLIK](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](/payment-methods/blik/)|[`blik_pln_hpp`](blik_pln_hpp/)| 
+|![BLIK](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](/payment-methods/blik/)|[`blik_usd_hpp`](blik_usd_hpp/)| 
 |![BNCVA](https://static.openfintech.io/payment_methods/bnc_va/logo.svg?w=400&c=v0.59.26#w200) |[**BNCVA**](/payment-methods/bnc_va/)|[`bnc_va_idr_hpp`](bnc_va_idr_hpp/)| 
 |![BNIVA](https://static.openfintech.io/payment_methods/bni_va/logo.svg?w=400&c=v0.59.26#w200) |[**BNIVA**](/payment-methods/bni_va/)|[`bni_va_idr_hpp`](bni_va_idr_hpp/)| 
 |![BNP Paribas Bank](https://static.openfintech.io/payment_methods/bnp_paribas_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BNP Paribas Bank**](/payment-methods/bnp_paribas_bank/)|[`bnp_paribas_bank_eur_hpp`](bnp_paribas_bank_eur_hpp/)| 
@@ -580,6 +582,7 @@
 |![GEO Pay](https://static.openfintech.io/payment_methods/geopaynet/logo.svg?w=400&c=v0.59.26#w200) |[**GEO Pay**](/payment-methods/geopaynet/)|[`geopaynet_rub_hpp`](geopaynet_rub_hpp/)| 
 |![GEO Pay](https://static.openfintech.io/payment_methods/geopaynet/logo.svg?w=400&c=v0.59.26#w200) |[**GEO Pay**](/payment-methods/geopaynet/)|[`geopaynet_uah_hpp`](geopaynet_uah_hpp/)| 
 |![Giropay](https://static.openfintech.io/payment_methods/giropay/logo.svg?w=400&c=v0.59.26#w200) |[**Giropay**](/payment-methods/giropay/)|[`giropay_eur_hpp`](giropay_eur_hpp/)| 
+|![Giropay](https://static.openfintech.io/payment_methods/giropay/logo.svg?w=400&c=v0.59.26#w200) |[**Giropay**](/payment-methods/giropay/)|[`giropay_usd_hpp`](giropay_usd_hpp/)| 
 |![Google Pay](https://static.openfintech.io/payment_methods/googlepay/logo.svg?w=400&c=v0.59.26#w200) |[**Google Pay**](/payment-methods/googlepay/)|[`googlepay_eur_hpp`](googlepay_eur_hpp/)| 
 |![Google Pay](https://static.openfintech.io/payment_methods/googlepay/logo.svg?w=400&c=v0.59.26#w200) |[**Google Pay**](/payment-methods/googlepay/)|[`googlepay_inr_hpp`](googlepay_inr_hpp/)| 
 |![Google Pay](https://static.openfintech.io/payment_methods/googlepay/logo.svg?w=400&c=v0.59.26#w200) |[**Google Pay**](/payment-methods/googlepay/)|[`googlepay_inr_invoice`](googlepay_inr_invoice/)| 
@@ -892,6 +895,7 @@
 |![Online Banking](https://static.openfintech.io/payment_methods/online_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking**](/payment-methods/online_banking/)|[`online_banking_brl_hpp`](online_banking_brl_hpp/)| 
 |![Online Banking](https://static.openfintech.io/payment_methods/online_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking**](/payment-methods/online_banking/)|[`online_banking_clp_hpp`](online_banking_clp_hpp/)| 
 |![Online Banking](https://static.openfintech.io/payment_methods/online_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking**](/payment-methods/online_banking/)|[`online_banking_cop_hpp`](online_banking_cop_hpp/)| 
+|![Online Banking](https://static.openfintech.io/payment_methods/online_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking**](/payment-methods/online_banking/)|[`online_banking_eur_hpp`](online_banking_eur_hpp/)| 
 |![Online Banking](https://static.openfintech.io/payment_methods/online_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking**](/payment-methods/online_banking/)|[`online_banking_idr_hpp`](online_banking_idr_hpp/)| 
 |![Online Banking](https://static.openfintech.io/payment_methods/online_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking**](/payment-methods/online_banking/)|[`online_banking_mxn_hpp`](online_banking_mxn_hpp/)| 
 |![Online Banking](https://static.openfintech.io/payment_methods/online_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking**](/payment-methods/online_banking/)|[`online_banking_myr_hpp`](online_banking_myr_hpp/)| 
@@ -902,6 +906,7 @@
 |![Online Banking QR](https://static.openfintech.io/payment_methods/online_banking_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking QR**](/payment-methods/online_banking_qr/)|[`online_banking_qr_try_hpp`](online_banking_qr_try_hpp/)| 
 |![Online Banking QR](https://static.openfintech.io/payment_methods/online_banking_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking QR**](/payment-methods/online_banking_qr/)|[`online_banking_qr_vnd_hpp`](online_banking_qr_vnd_hpp/)| 
 |![Online Banking](https://static.openfintech.io/payment_methods/online_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking**](/payment-methods/online_banking/)|[`online_banking_thb_hpp`](online_banking_thb_hpp/)| 
+|![Online Banking](https://static.openfintech.io/payment_methods/online_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking**](/payment-methods/online_banking/)|[`online_banking_usd_hpp`](online_banking_usd_hpp/)| 
 |![Online Banking](https://static.openfintech.io/payment_methods/online_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking**](/payment-methods/online_banking/)|[`online_banking_vnd_hpp`](online_banking_vnd_hpp/)| 
 |![OpenPay](https://static.openfintech.io/payment_methods/open_pay_cash/logo.svg?w=400&c=v0.59.26#w200) |[**OpenPay**](/payment-methods/open_pay_cash/)|[`open_pay_cash_mxn_hpp`](open_pay_cash_mxn_hpp/)| 
 |![Orange Money](https://static.openfintech.io/payment_methods/orange_money/logo.png?w=400&c=v0.59.26#w200) |[**Orange Money**](/payment-methods/orange_money/)|[`orange_money_xaf_hpp`](orange_money_xaf_hpp/)| 
@@ -1105,6 +1110,7 @@
 |![PromptPay](https://static.openfintech.io/payment_methods/promptpay/logo.svg?w=400&c=v0.59.26#w200) |[**PromptPay**](/payment-methods/promptpay/)|[`promptpay_thb_hpp`](promptpay_thb_hpp/)| 
 |![Promsvyazbank](https://static.openfintech.io/payment_methods/promsvyazbank/logo.png?w=400&c=v0.59.26#w200) |[**Promsvyazbank**](/payment-methods/promsvyazbank/)|[`promsvyazbank_rub_hpp`](promsvyazbank_rub_hpp/)| 
 |![Przelewy24](https://static.openfintech.io/payment_methods/przelewy24/logo.png?w=400&c=v0.59.26#w200) |[**Przelewy24**](/payment-methods/przelewy24/)|[`przelewy24_eur_hpp`](przelewy24_eur_hpp/)| 
+|![Przelewy24](https://static.openfintech.io/payment_methods/przelewy24/logo.png?w=400&c=v0.59.26#w200) |[**Przelewy24**](/payment-methods/przelewy24/)|[`przelewy24_usd_hpp`](przelewy24_usd_hpp/)| 
 |![PSB-Retail](https://static.openfintech.io/payment_methods/psbretail/logo.png?w=400&c=v0.59.26#w200) |[**PSB-Retail**](/payment-methods/psbretail/)|[`psbretail_rub_hpp`](psbretail_rub_hpp/)| 
 |![PSE](https://static.openfintech.io/payment_methods/pse/logo.svg?w=400&c=v0.59.26#w200) |[**PSE**](/payment-methods/pse/)|[`pse_cop_hpp`](pse_cop_hpp/)| 
 |![PSE](https://static.openfintech.io/payment_methods/pse/logo.svg?w=400&c=v0.59.26#w200) |[**PSE**](/payment-methods/pse/)|[`pse_usd_hpp`](pse_usd_hpp/)| 

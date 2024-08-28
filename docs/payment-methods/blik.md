@@ -37,6 +37,8 @@ The list of [Payment Services](/payment-services/) based on the _BLIK_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik_pln_hpp](/payment-services/blik_pln_hpp/)|`blik_pln_hpp`| 
+|![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik_usd_hpp](/payment-services/blik_usd_hpp/)|`blik_usd_hpp`| 
+|![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik_eur_hpp](/payment-services/blik_eur_hpp/)|`blik_eur_hpp`| 
  
 
 ## Payment Providers 
@@ -48,6 +50,7 @@ The list of [Payment Providers](/payment-providers/) that support the _BLIK_
 |![ppro](https://static.openfintech.io/payment_providers/ppro/icon.svg?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
 |![bizon](https://static.openfintech.io/payment_providers/bizon/icon.png?w=278&c=v0.59.26#w100) |[Bizon](/payment-providers/bizon/)|`bizon`| 
 |![rampnow](https://static.openfintech.io/payment_providers/rampnow/icon.svg?w=278&c=v0.59.26#w100) |[Rampnow](/payment-providers/rampnow/)|`rampnow`| 
+|![utorg](https://static.openfintech.io/payment_providers/utorg/icon.png?w=278&c=v0.59.26#w100) |[Utorg](/payment-providers/utorg/)|`utorg`| 
  
 
 ## JSON Object 
