@@ -1003,6 +1003,7 @@
 |![inpendium](https://static.openfintech.io/vendors/inpendium/logo.png?w=600&c=v0.59.26#w200) |[**Inpendium**](inpendium/)|`inpendium`| 
 |![inqud](https://static.openfintech.io/vendors/inqud/logo.svg?w=600&c=v0.59.26#w200) |[**Inqud**](inqud/)|`inqud`| 
 |![instabill](https://static.openfintech.io/vendors/instabill/logo.png?w=600&c=v0.59.26#w200) |[**Instabill**](instabill/)|`instabill`| 
+|![instaxchange](https://static.openfintech.io/vendors/instaxchange/logo.svg?w=600&c=v0.59.26#w200) |[**Instaxchange**](instaxchange/)|`instaxchange`| 
 |![inswitch](https://static.openfintech.io/vendors/inswitch/logo.png?w=600&c=v0.59.26#w200) |[**Inswitch**](inswitch/)|`inswitch`| 
 |![integrapay](https://static.openfintech.io/vendors/integrapay/logo.png?w=600&c=v0.59.26#w200) |[**Integrapay**](integrapay/)|`integrapay`| 
 |![inteligo](https://static.openfintech.io/vendors/inteligo/logo.png?w=600&c=v0.59.26#w200) |[**Inteligo**](inteligo/)|`inteligo`| 

@@ -596,6 +596,7 @@
 |![paygate](https://static.openfintech.io/payment_methods/paygate/logo.svg?w=400&c=v0.59.26#w200) |[**Paygate**](paygate/)|`paygate`| 
 |![paykwik](https://static.openfintech.io/payment_methods/paykwik/logo.svg?w=400&c=v0.59.26#w200) |[**Paykwik**](paykwik/)|`paykwik`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](payment_card/)|`payment_card`| 
+|![payment_card_crypto](https://static.openfintech.io/payment_methods/payment_card_crypto/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](payment_card_crypto/)|`payment_card_crypto`| 
 |![payment_card_email](https://static.openfintech.io/payment_methods/payment_card_email/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card email**](payment_card_email/)|`payment_card_email`| 
 |![payment_card_token](https://static.openfintech.io/payment_methods/payment_card_token/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card by token**](payment_card_token/)|`payment_card_token`| 
 |![paymentrush](https://static.openfintech.io/payment_methods/paymentrush/logo.png?w=400&c=v0.59.26#w200) |[**Payment Rush**](paymentrush/)|`paymentrush`| 
