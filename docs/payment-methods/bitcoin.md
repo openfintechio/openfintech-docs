@@ -37,12 +37,19 @@ The list of [Payment Services](/payment-services/) based on the _Bitcoin_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_btc_hpp](/payment-services/bitcoin_btc_hpp/)|`bitcoin_btc_hpp`| 
+|![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_cad_hpp](/payment-services/bitcoin_cad_hpp/)|`bitcoin_cad_hpp`| 
+|![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_bep20_cad_hpp](/payment-services/bitcoin_bep20_cad_hpp/)|`bitcoin_bep20_cad_hpp`| 
+|![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_aud_hpp](/payment-services/bitcoin_aud_hpp/)|`bitcoin_aud_hpp`| 
+|![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_bep20_aud_hpp](/payment-services/bitcoin_bep20_aud_hpp/)|`bitcoin_bep20_aud_hpp`| 
+|![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_bep20_usd_hpp](/payment-services/bitcoin_bep20_usd_hpp/)|`bitcoin_bep20_usd_hpp`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_bch_hpp](/payment-services/bitcoin_bch_hpp/)|`bitcoin_bch_hpp`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_eth_hpp](/payment-services/bitcoin_eth_hpp/)|`bitcoin_eth_hpp`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_ltc_hpp](/payment-services/bitcoin_ltc_hpp/)|`bitcoin_ltc_hpp`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_rub_hpp](/payment-services/bitcoin_rub_hpp/)|`bitcoin_rub_hpp`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_eur_hpp](/payment-services/bitcoin_eur_hpp/)|`bitcoin_eur_hpp`| 
+|![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_bep20_eur_hpp](/payment-services/bitcoin_bep20_eur_hpp/)|`bitcoin_bep20_eur_hpp`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_gbp_hpp](/payment-services/bitcoin_gbp_hpp/)|`bitcoin_gbp_hpp`| 
+|![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_bep20_gbp_hpp](/payment-services/bitcoin_bep20_gbp_hpp/)|`bitcoin_bep20_gbp_hpp`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_chf_hpp](/payment-services/bitcoin_chf_hpp/)|`bitcoin_chf_hpp`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_usd_hpp](/payment-services/bitcoin_usd_hpp/)|`bitcoin_usd_hpp`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin_uah_hpp](/payment-services/bitcoin_uah_hpp/)|`bitcoin_uah_hpp`| 
@@ -86,6 +93,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bitcoin_
 |![cryptomus](https://static.openfintech.io/payment_providers/cryptomus/icon.svg?w=278&c=v0.59.26#w100) |[Cryptomus](/payment-providers/cryptomus/)|`cryptomus`| 
 |![match2pay](https://static.openfintech.io/payment_providers/match2pay/icon.png?w=278&c=v0.59.26#w100) |[Match2Pay](/payment-providers/match2pay/)|`match2pay`| 
 |![coinsflow](https://static.openfintech.io/payment_providers/coinsflow/icon.png?w=278&c=v0.59.26#w100) |[Coinsflow](/payment-providers/coinsflow/)|`coinsflow`| 
+|![cryptopay](https://static.openfintech.io/payment_providers/cryptopay/icon.svg?w=278&c=v0.59.26#w100) |[Cryptopay](/payment-providers/cryptopay/)|`cryptopay`| 
  
 
 ## JSON Object 

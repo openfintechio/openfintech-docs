@@ -55,6 +55,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Litecoin_
 |![amlnode](https://static.openfintech.io/payment_providers/amlnode/icon.png?w=278&c=v0.59.26#w100) |[AML Node](/payment-providers/amlnode/)|`amlnode`| 
 |![cryptomus](https://static.openfintech.io/payment_providers/cryptomus/icon.svg?w=278&c=v0.59.26#w100) |[Cryptomus](/payment-providers/cryptomus/)|`cryptomus`| 
 |![coinsflow](https://static.openfintech.io/payment_providers/coinsflow/icon.png?w=278&c=v0.59.26#w100) |[Coinsflow](/payment-providers/coinsflow/)|`coinsflow`| 
+|![cryptopay](https://static.openfintech.io/payment_providers/cryptopay/icon.svg?w=278&c=v0.59.26#w100) |[Cryptopay](/payment-providers/cryptopay/)|`cryptopay`| 
  
 
 ## JSON Object 

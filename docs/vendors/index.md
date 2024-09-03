@@ -538,6 +538,7 @@
 |![cryptocompare](https://static.openfintech.io/vendors/cryptocompare/logo.png?w=600&c=v0.59.26#w200) |[**CryptoCompare**](cryptocompare/)|`cryptocompare`| 
 |![cryptohawex](https://static.openfintech.io/vendors/cryptohawex/logo.svg?w=600&c=v0.59.26#w200) |[**CryptoHawex**](cryptohawex/)|`cryptohawex`| 
 |![cryptomus](https://static.openfintech.io/vendors/cryptomus/logo.svg?w=600&c=v0.59.26#w200) |[**Cryptomus**](cryptomus/)|`cryptomus`| 
+|![cryptopay](https://static.openfintech.io/vendors/cryptopay/logo.svg?w=600&c=v0.59.26#w200) |[**Cryptopay**](cryptopay/)|`cryptopay`| 
 |![crystalbank](https://static.openfintech.io/vendors/crystalbank/logo.png?w=600&c=v0.59.26#w200) |[**CrystalBank**](crystalbank/)|`crystalbank`| 
 |![csob](https://static.openfintech.io/vendors/csob/logo.png?w=600&c=v0.59.26#w200) |[**CSOB**](csob/)|`csob`| 
 |![ctopay](https://static.openfintech.io/vendors/ctopay/logo.png?w=600&c=v0.59.26#w200) |[**Ctopay**](ctopay/)|`ctopay`| 

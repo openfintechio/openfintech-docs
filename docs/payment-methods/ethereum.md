@@ -38,16 +38,23 @@ The list of [Payment Services](/payment-services/) based on the _Ethereum_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_eth_invoice](/payment-services/ethereum_eth_invoice/)|`ethereum_eth_invoice`| 
+|![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_cad_hpp](/payment-services/ethereum_cad_hpp/)|`ethereum_cad_hpp`| 
+|![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_bep20_cad_hpp](/payment-services/ethereum_bep20_cad_hpp/)|`ethereum_bep20_cad_hpp`| 
+|![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_aud_hpp](/payment-services/ethereum_aud_hpp/)|`ethereum_aud_hpp`| 
+|![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_bep20_aud_hpp](/payment-services/ethereum_bep20_aud_hpp/)|`ethereum_bep20_aud_hpp`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_eth_hpp](/payment-services/ethereum_eth_hpp/)|`ethereum_eth_hpp`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_btc_hpp](/payment-services/ethereum_btc_hpp/)|`ethereum_btc_hpp`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_bch_hpp](/payment-services/ethereum_bch_hpp/)|`ethereum_bch_hpp`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_ltc_hpp](/payment-services/ethereum_ltc_hpp/)|`ethereum_ltc_hpp`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_usd_hpp](/payment-services/ethereum_usd_hpp/)|`ethereum_usd_hpp`| 
+|![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_bep20_usd_hpp](/payment-services/ethereum_bep20_usd_hpp/)|`ethereum_bep20_usd_hpp`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_gbp_hpp](/payment-services/ethereum_gbp_hpp/)|`ethereum_gbp_hpp`| 
+|![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_bep20_gbp_hpp](/payment-services/ethereum_bep20_gbp_hpp/)|`ethereum_bep20_gbp_hpp`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_chf_hpp](/payment-services/ethereum_chf_hpp/)|`ethereum_chf_hpp`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_usdt_hpp](/payment-services/ethereum_usdt_hpp/)|`ethereum_usdt_hpp`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_uah_hpp](/payment-services/ethereum_uah_hpp/)|`ethereum_uah_hpp`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_eur_hpp](/payment-services/ethereum_eur_hpp/)|`ethereum_eur_hpp`| 
+|![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum_bep20_eur_hpp](/payment-services/ethereum_bep20_eur_hpp/)|`ethereum_bep20_eur_hpp`| 
  
 
 ## Payment Providers 
@@ -68,6 +75,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Ethereum_
 |![cryptomus](https://static.openfintech.io/payment_providers/cryptomus/icon.svg?w=278&c=v0.59.26#w100) |[Cryptomus](/payment-providers/cryptomus/)|`cryptomus`| 
 |![match2pay](https://static.openfintech.io/payment_providers/match2pay/icon.png?w=278&c=v0.59.26#w100) |[Match2Pay](/payment-providers/match2pay/)|`match2pay`| 
 |![coinsflow](https://static.openfintech.io/payment_providers/coinsflow/icon.png?w=278&c=v0.59.26#w100) |[Coinsflow](/payment-providers/coinsflow/)|`coinsflow`| 
+|![cryptopay](https://static.openfintech.io/payment_providers/cryptopay/icon.svg?w=278&c=v0.59.26#w100) |[Cryptopay](/payment-providers/cryptopay/)|`cryptopay`| 
  
 
 ## JSON Object 

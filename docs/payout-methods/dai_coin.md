@@ -49,6 +49,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Dai Coin_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![cryptohawex](https://static.openfintech.io/payment_providers/cryptohawex/icon.svg?w=278&c=v0.59.26#w100) |[CryptoHawex](/payment-providers/cryptohawex/)|`cryptohawex`| 
+|![cryptopay](https://static.openfintech.io/payment_providers/cryptopay/icon.svg?w=278&c=v0.59.26#w100) |[Cryptopay](/payment-providers/cryptopay/)|`cryptopay`| 
  
 
 ## JSON Object 

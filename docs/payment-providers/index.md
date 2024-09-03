@@ -227,6 +227,7 @@
 |![crosspay](https://static.openfintech.io/payment_providers/crosspay/logo.png?w=600&c=v0.59.26#w100) |[**CrossPay**](crosspay/)|`crosspay`| 
 |![cryptohawex](https://static.openfintech.io/payment_providers/cryptohawex/logo.svg?w=600&c=v0.59.26#w100) |[**CryptoHawex**](cryptohawex/)|`cryptohawex`| 
 |![cryptomus](https://static.openfintech.io/payment_providers/cryptomus/logo.svg?w=600&c=v0.59.26#w100) |[**Cryptomus**](cryptomus/)|`cryptomus`| 
+|![cryptopay](https://static.openfintech.io/payment_providers/cryptopay/logo.svg?w=600&c=v0.59.26#w100) |[**Cryptopay**](cryptopay/)|`cryptopay`| 
 |![crystalbank](https://static.openfintech.io/payment_providers/crystalbank/logo.png?w=600&c=v0.59.26#w100) |[**CrystalBank**](crystalbank/)|`crystalbank`| 
 |![ctopay](https://static.openfintech.io/payment_providers/ctopay/logo.png?w=600&c=v0.59.26#w100) |[**Ctopay**](ctopay/)|`ctopay`| 
 |![curopayments](https://static.openfintech.io/payment_providers/curopayments/logo.svg?w=600&c=v0.59.26#w100) |[**CURO payments**](curopayments/)|`curopayments`| 

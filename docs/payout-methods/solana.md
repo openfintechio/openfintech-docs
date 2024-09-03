@@ -41,6 +41,15 @@ The list of [Payout Services](/payout-services/) based on the _Solana_
 |![solana](https://static.openfintech.io/payout_methods/solana/icon.svg?w=278&c=v0.59.26#w40) |[solana_usdc](/payout-services/solana_usdc/)|`solana_usdc`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Solana_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![cryptopay](https://static.openfintech.io/payment_providers/cryptopay/icon.svg?w=278&c=v0.59.26#w100) |[Cryptopay](/payment-providers/cryptopay/)|`cryptopay`| 
+ 
+
 ## JSON Object 
 
 ```json

@@ -748,6 +748,7 @@
 |![societe_generale_bank](https://static.openfintech.io/payment_methods/societe_generale_bank/logo.png?w=400&c=v0.59.26#w200) |[**Societe Generale Bank**](societe_generale_bank/)|`societe_generale_bank`| 
 |![sofort](https://static.openfintech.io/payment_methods/sofort/logo.svg?w=400&c=v0.59.26#w200) |[**Sofort**](sofort/)|`sofort`| 
 |![sofortbanking](https://static.openfintech.io/payment_methods/sofortbanking/logo.svg?w=400&c=v0.59.26#w200) |[**SOFORT, a Klarna Group Company**](sofortbanking/)|`sofortbanking`| 
+|![solana](https://static.openfintech.io/payment_methods/solana/logo.svg?w=400&c=v0.59.26#w200) |[**Solana**](solana/)|`solana`| 
 |![soriana_cash](https://static.openfintech.io/payment_methods/soriana_cash/logo.png?w=400&c=v0.59.26#w200) |[**Soriana**](soriana_cash/)|`soriana_cash`| 
 |![south_indian_bank](https://static.openfintech.io/payment_methods/south_indian_bank/logo.png?w=400&c=v0.59.26#w200) |[**South Indian Bank**](south_indian_bank/)|`south_indian_bank`| 
 |![spankki](https://static.openfintech.io/payment_methods/spankki/logo.png?w=400&c=v0.59.26#w200) |[**S-Pankki**](spankki/)|`spankki`| 

@@ -35,12 +35,20 @@ The list of [Payment Services](/payment-services/) based on the _Litecoin_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_ltc_hpp](/payment-services/litecoin_ltc_hpp/)|`litecoin_ltc_hpp`| 
+|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_aud_hpp](/payment-services/litecoin_aud_hpp/)|`litecoin_aud_hpp`| 
+|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_bep20_aud_hpp](/payment-services/litecoin_bep20_aud_hpp/)|`litecoin_bep20_aud_hpp`| 
+|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_gbp_hpp](/payment-services/litecoin_gbp_hpp/)|`litecoin_gbp_hpp`| 
+|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_bep20_gbp_hpp](/payment-services/litecoin_bep20_gbp_hpp/)|`litecoin_bep20_gbp_hpp`| 
 |![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_btc_hpp](/payment-services/litecoin_btc_hpp/)|`litecoin_btc_hpp`| 
 |![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_uah_hpp](/payment-services/litecoin_uah_hpp/)|`litecoin_uah_hpp`| 
+|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_cad_hpp](/payment-services/litecoin_cad_hpp/)|`litecoin_cad_hpp`| 
+|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_bep20_cad_hpp](/payment-services/litecoin_bep20_cad_hpp/)|`litecoin_bep20_cad_hpp`| 
 |![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_bch_hpp](/payment-services/litecoin_bch_hpp/)|`litecoin_bch_hpp`| 
 |![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_eth_hpp](/payment-services/litecoin_eth_hpp/)|`litecoin_eth_hpp`| 
 |![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_usd_hpp](/payment-services/litecoin_usd_hpp/)|`litecoin_usd_hpp`| 
+|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_bep20_usd_hpp](/payment-services/litecoin_bep20_usd_hpp/)|`litecoin_bep20_usd_hpp`| 
 |![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_eur_hpp](/payment-services/litecoin_eur_hpp/)|`litecoin_eur_hpp`| 
+|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_bep20_eur_hpp](/payment-services/litecoin_bep20_eur_hpp/)|`litecoin_bep20_eur_hpp`| 
 |![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_btc_invoice](/payment-services/litecoin_btc_invoice/)|`litecoin_btc_invoice`| 
 |![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_rub_invoice](/payment-services/litecoin_rub_invoice/)|`litecoin_rub_invoice`| 
 |![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin_ltc_invoice](/payment-services/litecoin_ltc_invoice/)|`litecoin_ltc_invoice`| 
@@ -62,6 +70,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Litecoin_
 |![amlnode](https://static.openfintech.io/payment_providers/amlnode/icon.png?w=278&c=v0.59.26#w100) |[AML Node](/payment-providers/amlnode/)|`amlnode`| 
 |![cryptomus](https://static.openfintech.io/payment_providers/cryptomus/icon.svg?w=278&c=v0.59.26#w100) |[Cryptomus](/payment-providers/cryptomus/)|`cryptomus`| 
 |![coinsflow](https://static.openfintech.io/payment_providers/coinsflow/icon.png?w=278&c=v0.59.26#w100) |[Coinsflow](/payment-providers/coinsflow/)|`coinsflow`| 
+|![cryptopay](https://static.openfintech.io/payment_providers/cryptopay/icon.svg?w=278&c=v0.59.26#w100) |[Cryptopay](/payment-providers/cryptopay/)|`cryptopay`| 
  
 
 ## JSON Object 
