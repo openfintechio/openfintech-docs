@@ -1705,6 +1705,7 @@
 |![payzeasy](https://static.openfintech.io/vendors/payzeasy/logo.png?w=600&c=v0.59.26#w200) |[**PayzEasy**](payzeasy/)|`payzeasy`| 
 |![payzen](https://static.openfintech.io/vendors/payzen/logo.png?w=600&c=v0.59.26#w200) |[**PayZen**](payzen/)|`payzen`| 
 |![payzippy](https://static.openfintech.io/vendors/payzippy/logo.png?w=600&c=v0.59.26#w200) |[**PayZippy**](payzippy/)|`payzippy`| 
+|![payzln](https://static.openfintech.io/vendors/payzln/logo.svg?w=600&c=v0.59.26#w200) |[**Payzln**](payzln/)|`payzln`| 
 |![payzoff](https://static.openfintech.io/vendors/payzoff/logo.png?w=600&c=v0.59.26#w200) |[**Payzoff**](payzoff/)|`payzoff`| 
 |![pct](https://static.openfintech.io/vendors/pct/logo.svg?w=600&c=v0.59.26#w200) |[**Central Bank of Paraguay**](pct/)|`pct`| 
 |![peachpayments](https://static.openfintech.io/vendors/peachpayments/logo.png?w=600&c=v0.59.26#w200) |[**Peach Payments**](peachpayments/)|`peachpayments`| 

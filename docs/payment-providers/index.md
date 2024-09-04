@@ -757,6 +757,7 @@
 |![payzang](https://static.openfintech.io/payment_providers/payzang/logo.png?w=600&c=v0.59.26#w100) |[**PayZang**](payzang/)|`payzang`| 
 |![payzeasy](https://static.openfintech.io/payment_providers/payzeasy/logo.png?w=600&c=v0.59.26#w100) |[**PayzEasy**](payzeasy/)|`payzeasy`| 
 |![payzen](https://static.openfintech.io/payment_providers/payzen/logo.png?w=600&c=v0.59.26#w100) |[**PayZen**](payzen/)|`payzen`| 
+|![payzln](https://static.openfintech.io/payment_providers/payzln/logo.svg?w=600&c=v0.59.26#w100) |[**Payzln**](payzln/)|`payzln`| 
 |![payzoff](https://static.openfintech.io/payment_providers/payzoff/logo.png?w=600&c=v0.59.26#w100) |[**Payzoff**](payzoff/)|`payzoff`| 
 |![peachpayments](https://static.openfintech.io/payment_providers/peachpayments/logo.png?w=600&c=v0.59.26#w100) |[**Peach Payments**](peachpayments/)|`peachpayments`| 
 |![pencepay](https://static.openfintech.io/payment_providers/pencepay/logo.png?w=600&c=v0.59.26#w100) |[**PencePay**](pencepay/)|`pencepay`| 
