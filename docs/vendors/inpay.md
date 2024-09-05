@@ -9,8 +9,13 @@
 **Name:** 
  
 :	[EN] inpay 
+:	[RU] inpay 
+:	[UK] inpay 
  
 **Status:** `active` 
+ 
+**Links:** 
+: website [https://www.inpay.com/](https://www.inpay.com/) 
  
 
 ## Images 
@@ -37,11 +42,15 @@ https://static.openfintech.io/vendors/inpay/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"inpay",
   "name":{
-    "en":"inpay"
+    "en":"inpay",
+    "ru":"inpay",
+    "uk":"inpay"
   },
   "status":"active",
   "description":null,
-  "links":null,
+  "links":{
+    "website":"https:\/\/www.inpay.com\/"
+  },
   "countries":null,
   "contacts":null,
   "address":null,
