@@ -37,6 +37,15 @@ https://static.openfintech.io/payment_methods/elo/logo.png?w=400&c=v0.59.26#w200
 https://static.openfintech.io/payment_methods/elo/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Elo_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![elo](https://static.openfintech.io/payment_methods/elo/icon.png?w=278&c=v0.59.26#w100) |[elo_brl_hpp](/payment-services/elo_brl_hpp/)|`elo_brl_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Elo_ 
@@ -57,6 +66,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Elo_
 |![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.png?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
 |![computop](https://static.openfintech.io/payment_providers/computop/icon.png?w=278&c=v0.59.26#w100) |[Computop](/payment-providers/computop/)|`computop`| 
 |![ebanx](https://static.openfintech.io/payment_providers/ebanx/icon.png?w=278&c=v0.59.26#w100) |[EBANX](/payment-providers/ebanx/)|`ebanx`| 
+|![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
  
 
 ## JSON Object 

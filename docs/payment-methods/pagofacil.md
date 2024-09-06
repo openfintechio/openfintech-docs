@@ -37,6 +37,15 @@ https://static.openfintech.io/payment_methods/pagofacil/logo.png?w=400&c=v0.59.2
 https://static.openfintech.io/payment_methods/pagofacil/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Pagofacil_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![pagofacil](https://static.openfintech.io/payment_methods/pagofacil/icon.png?w=278&c=v0.59.26#w100) |[pagofacil_bob_hpp](/payment-services/pagofacil_bob_hpp/)|`pagofacil_bob_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Pagofacil_ 
@@ -44,6 +53,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Pagofacil
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
+|![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
  
 
 ## JSON Object 

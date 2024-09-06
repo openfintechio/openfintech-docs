@@ -41,6 +41,7 @@ The list of [Payment Services](/payment-services/) based on the _Banco Itaú_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bancoitau](https://static.openfintech.io/payment_methods/bancoitau/icon.png?w=278&c=v0.59.26#w100) |[bancoitau_brl_hpp](/payment-services/bancoitau_brl_hpp/)|`bancoitau_brl_hpp`| 
+|![bancoitau](https://static.openfintech.io/payment_methods/bancoitau/icon.png?w=278&c=v0.59.26#w100) |[bancoitau_clp_hpp](/payment-services/bancoitau_clp_hpp/)|`bancoitau_clp_hpp`| 
  
 
 ## Payment Providers 
@@ -53,6 +54,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Banco Ita
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.png?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
+|![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
  
 
 ## JSON Object 

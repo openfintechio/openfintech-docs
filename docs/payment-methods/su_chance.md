@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Su Chance_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![su_chance](https://static.openfintech.io/payment_methods/su_chance/icon.svg?w=278&c=v0.59.26#w100) |[suchancein_cop_hpp](/payment-services/suchancein_cop_hpp/)|`suchancein_cop_hpp`| 
+|![su_chance](https://static.openfintech.io/payment_methods/su_chance/icon.svg?w=278&c=v0.59.26#w100) |[su_chance_cop_hpp](/payment-services/su_chance_cop_hpp/)|`su_chance_cop_hpp`| 
  
 
 ## Payment Providers 
@@ -46,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Su Chance
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![inswitch](https://static.openfintech.io/payment_providers/inswitch/icon.png?w=278&c=v0.59.26#w100) |[Inswitch](/payment-providers/inswitch/)|`inswitch`| 
+|![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
  
 
 ## JSON Object 

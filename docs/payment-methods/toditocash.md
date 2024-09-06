@@ -37,6 +37,24 @@ https://static.openfintech.io/payment_methods/toditocash/logo.png?w=400&c=v0.59.
 https://static.openfintech.io/payment_methods/toditocash/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Todito Cash_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![toditocash](https://static.openfintech.io/payment_methods/toditocash/icon.png?w=278&c=v0.59.26#w100) |[toditocash_mxn_hpp](/payment-services/toditocash_mxn_hpp/)|`toditocash_mxn_hpp`| 
+ 
+
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Todito Cash_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
+ 
+
 ## JSON Object 
 
 ```json

@@ -33,6 +33,15 @@ https://static.openfintech.io/payment_methods/banamex/logo.svg?w=400&c=v0.59.26#
 https://static.openfintech.io/payment_methods/banamex/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Banamex_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![banamex](https://static.openfintech.io/payment_methods/banamex/icon.svg?w=278&c=v0.59.26#w100) |[banamex_mxn_hpp](/payment-services/banamex_mxn_hpp/)|`banamex_mxn_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Banamex_ 
@@ -49,6 +58,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Banamex_
 |![ebanx](https://static.openfintech.io/payment_providers/ebanx/icon.png?w=278&c=v0.59.26#w100) |[EBANX](/payment-providers/ebanx/)|`ebanx`| 
 |![easypaymentgateway](https://static.openfintech.io/payment_providers/easypaymentgateway/icon.png?w=278&c=v0.59.26#w100) |[Easy Payment Gateway](/payment-providers/easypaymentgateway/)|`easypaymentgateway`| 
 |![allpago](https://static.openfintech.io/payment_providers/allpago/icon.png?w=278&c=v0.59.26#w100) |[allpago - accept payments in Latin America](/payment-providers/allpago/)|`allpago`| 
+|![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
  
 
 ## JSON Object 

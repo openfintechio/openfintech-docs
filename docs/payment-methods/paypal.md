@@ -46,6 +46,9 @@ The list of [Payment Services](/payment-services/) based on the _PayPal_
 |![paypal](https://static.openfintech.io/payment_methods/paypal/icon.svg?w=278&c=v0.59.26#w100) |[paypal_gbp_hpp](/payment-services/paypal_gbp_hpp/)|`paypal_gbp_hpp`| 
 |![paypal](https://static.openfintech.io/payment_methods/paypal/icon.svg?w=278&c=v0.59.26#w100) |[paypal_cad_hpp](/payment-services/paypal_cad_hpp/)|`paypal_cad_hpp`| 
 |![paypal](https://static.openfintech.io/payment_methods/paypal/icon.svg?w=278&c=v0.59.26#w100) |[paypal_aud_hpp](/payment-services/paypal_aud_hpp/)|`paypal_aud_hpp`| 
+|![paypal](https://static.openfintech.io/payment_methods/paypal/icon.svg?w=278&c=v0.59.26#w100) |[paypal_crc_hpp](/payment-services/paypal_crc_hpp/)|`paypal_crc_hpp`| 
+|![paypal](https://static.openfintech.io/payment_methods/paypal/icon.svg?w=278&c=v0.59.26#w100) |[paypal_mxn_hpp](/payment-services/paypal_mxn_hpp/)|`paypal_mxn_hpp`| 
+|![paypal](https://static.openfintech.io/payment_methods/paypal/icon.svg?w=278&c=v0.59.26#w100) |[paypal_nio_hpp](/payment-services/paypal_nio_hpp/)|`paypal_nio_hpp`| 
  
 
 ## Payment Providers 
@@ -71,6 +74,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PayPal_
 |![yuupay](https://static.openfintech.io/payment_providers/yuupay/icon.png?w=278&c=v0.59.26#w100) |[YuuPay ](/payment-providers/yuupay/)|`yuupay`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
 |![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.png?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
+|![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
  
 
 ## JSON Object 

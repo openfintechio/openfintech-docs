@@ -33,6 +33,15 @@ https://static.openfintech.io/payment_methods/oxxo/logo.svg?w=400&c=v0.59.26#w20
 https://static.openfintech.io/payment_methods/oxxo/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Oxxo_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![oxxo](https://static.openfintech.io/payment_methods/oxxo/icon.svg?w=278&c=v0.59.26#w100) |[oxxo_mxn_hpp](/payment-services/oxxo_mxn_hpp/)|`oxxo_mxn_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Oxxo_ 
@@ -40,6 +49,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Oxxo_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
+|![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
  
 
 ## JSON Object 

@@ -71,6 +71,7 @@ The list of [Payment Providers](/payment-providers/) that support the _UPI_
 |![gamespay](https://static.openfintech.io/payment_providers/gamespay/icon.svg?w=278&c=v0.59.26#w100) |[PayGames](/payment-providers/gamespay/)|`gamespay`| 
 |![payok](https://static.openfintech.io/payment_providers/payok/icon.png?w=278&c=v0.59.26#w100) |[Payok](/payment-providers/payok/)|`payok`| 
 |![payzln](https://static.openfintech.io/payment_providers/payzln/icon.svg?w=278&c=v0.59.26#w100) |[Payzln](/payment-providers/payzln/)|`payzln`| 
+|![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
  
 
 ## JSON Object 

@@ -34,6 +34,15 @@ https://static.openfintech.io/payment_methods/banrisulbanricompras/logo.png?w=40
 https://static.openfintech.io/payment_methods/banrisulbanricompras/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Banrisul Banricompras_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![banrisulbanricompras](https://static.openfintech.io/payment_methods/banrisulbanricompras/icon.png?w=278&c=v0.59.26#w100) |[banrisulbanricompras_brl_hpp](/payment-services/banrisulbanricompras_brl_hpp/)|`banrisulbanricompras_brl_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Banrisul Banricompras_ 
@@ -41,6 +50,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Banrisul 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
+|![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
  
 
 ## JSON Object 

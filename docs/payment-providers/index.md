@@ -236,6 +236,7 @@
 |![cybersource](https://static.openfintech.io/payment_providers/cybersource/logo.svg?w=600&c=v0.59.26#w100) |[**CyberSource**](cybersource/)|`cybersource`| 
 |![cypix](https://static.openfintech.io/payment_providers/cypix/logo.svg?w=600&c=v0.59.26#w100) |[**Cypix**](cypix/)|`cypix`| 
 || **D** ||
+|![d24](https://static.openfintech.io/payment_providers/d24/logo.svg?w=600&c=v0.59.26#w100) |[**D24**](d24/)|`d24`| 
 |![dalberry](https://static.openfintech.io/payment_providers/dalberry/logo.png?w=600&c=v0.59.26#w100) |[**Dalberry**](dalberry/)|`dalberry`| 
 |![dalpay](https://static.openfintech.io/payment_providers/dalpay/logo.png?w=600&c=v0.59.26#w100) |[**DalPay**](dalpay/)|`dalpay`| 
 |![daopay](https://static.openfintech.io/payment_providers/daopay/logo.png?w=600&c=v0.59.26#w100) |[**DaoPay**](daopay/)|`daopay`| 
