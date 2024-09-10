@@ -63,6 +63,11 @@ The list of supported [Payment Methods](/payment-methods/)
 |![banco_santander](https://static.openfintech.io/payment_methods/banco_santander/icon.png?w=278&c=v0.59.26#w100) |[banco_santander](/payment-methods/banco_santander/)|`banco_santander`| 
 |![boleto_bancario](https://static.openfintech.io/payment_methods/boleto_bancario/icon.png?w=278&c=v0.59.26#w100) |[boleto_bancario](/payment-methods/boleto_bancario/)|`boleto_bancario`| 
 |![loteria](https://static.openfintech.io/payment_methods/loteria/icon.png?w=278&c=v0.59.26#w100) |[loteria](/payment-methods/loteria/)|`loteria`| 
+|![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik](/payment-methods/blik/)|`blik`| 
+|![ideal](https://static.openfintech.io/payment_methods/ideal/icon.svg?w=278&c=v0.59.26#w100) |[ideal](/payment-methods/ideal/)|`ideal`| 
+|![bancontact](https://static.openfintech.io/payment_methods/bancontact/icon.png?w=278&c=v0.59.26#w100) |[bancontact](/payment-methods/bancontact/)|`bancontact`| 
+|![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay](/payment-methods/applepay/)|`applepay`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay](/payment-methods/googlepay/)|`googlepay`| 
  
 
 ## Payout Methods 
@@ -113,7 +118,12 @@ The list of supported [Payout Methods](/payout-methods/)
     "bancoitau",
     "banco_santander",
     "boleto_bancario",
-    "loteria"
+    "loteria",
+    "blik",
+    "ideal",
+    "bancontact",
+    "applepay",
+    "googlepay"
   ],
   "payout_method":[
     "payment_card",

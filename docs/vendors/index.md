@@ -1956,6 +1956,7 @@
 |![slimpay](https://static.openfintech.io/vendors/slimpay/logo.png?w=600&c=v0.59.26#w200) |[**SlimPay**](slimpay/)|`slimpay`| 
 |![slotoking](https://static.openfintech.io/vendors/slotoking/logo.svg?w=600&c=v0.59.26#w200) |[**Slotoking**](slotoking/)|`slotoking`| 
 |![slovenskasporitelna](https://static.openfintech.io/vendors/slovenskasporitelna/logo.png?w=600&c=v0.59.26#w200) |[**Slovenská Sporitelña**](slovenskasporitelna/)|`slovenskasporitelna`| 
+|![slyse](https://static.openfintech.io/vendors/slyse/logo.png?w=600&c=v0.59.26#w200) |[**SLYSE**](slyse/)|`slyse`| 
 |![smart-exchange.ua](https://static.openfintech.io/vendors/smart-exchange.ua/logo.svg?w=600&c=v0.59.26#w200) |[**Smart-pays**](smart-exchange.ua/)|`smart-exchange.ua`| 
 |![smart2pay](https://static.openfintech.io/vendors/smart2pay/logo.png?w=600&c=v0.59.26#w200) |[**Smart2Pay**](smart2pay/)|`smart2pay`| 
 |![smartdebit](https://static.openfintech.io/vendors/smartdebit/logo.png?w=600&c=v0.59.26#w200) |[**SmartDebit**](smartdebit/)|`smartdebit`| 

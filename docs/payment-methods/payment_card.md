@@ -578,6 +578,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![paytorapayment](https://static.openfintech.io/payment_providers/paytorapayment/icon.png?w=278&c=v0.59.26#w100) |[PaytoraPayment](/payment-providers/paytorapayment/)|`paytorapayment`| 
 |![paytently](https://static.openfintech.io/payment_providers/paytently/icon.svg?w=278&c=v0.59.26#w100) |[Paytently](/payment-providers/paytently/)|`paytently`| 
 |![paystrax](https://static.openfintech.io/payment_providers/paystrax/icon.png?w=278&c=v0.59.26#w100) |[Paystrax](/payment-providers/paystrax/)|`paystrax`| 
+|![slyse](https://static.openfintech.io/payment_providers/slyse/icon.png?w=278&c=v0.59.26#w100) |[SLYSE](/payment-providers/slyse/)|`slyse`| 
  
 
 ## JSON Object 
