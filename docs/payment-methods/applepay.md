@@ -76,6 +76,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Apple Pay
 |![ukrgasbank](https://static.openfintech.io/payment_providers/ukrgasbank/icon.png?w=278&c=v0.59.26#w100) |[UkrGasBank](/payment-providers/ukrgasbank/)|`ukrgasbank`| 
 |![solidgate](https://static.openfintech.io/payment_providers/solidgate/icon.svg?w=278&c=v0.59.26#w100) |[Solid](/payment-providers/solidgate/)|`solidgate`| 
 |![paysoftsolutions](https://static.openfintech.io/payment_providers/paysoftsolutions/icon.png?w=278&c=v0.59.26#w100) |[PaySoft Solutions](/payment-providers/paysoftsolutions/)|`paysoftsolutions`| 
+|![justipay](https://static.openfintech.io/payment_providers/justipay/icon.png?w=278&c=v0.59.26#w100) |[Justipay](/payment-providers/justipay/)|`justipay`| 
 |![lpb](https://static.openfintech.io/payment_providers/lpb/icon.svg?w=278&c=v0.59.26#w100) |[LPB](/payment-providers/lpb/)|`lpb`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
 |![rampnow](https://static.openfintech.io/payment_providers/rampnow/icon.svg?w=278&c=v0.59.26#w100) |[Rampnow](/payment-providers/rampnow/)|`rampnow`| 

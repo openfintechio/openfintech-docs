@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Interac A
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![justipay](https://static.openfintech.io/payment_providers/justipay/icon.png?w=278&c=v0.59.26#w100) |[Justipay](/payment-providers/justipay/)|`justipay`| 
 |![gigadat](https://static.openfintech.io/payment_providers/gigadat/icon.png?w=278&c=v0.59.26#w100) |[Gigadat](/payment-providers/gigadat/)|`gigadat`| 
  
 
