@@ -921,6 +921,7 @@
 |![tinkoff](https://static.openfintech.io/payment_providers/tinkoff/logo.svg?w=600&c=v0.59.26#w100) |[**Tinkoff**](tinkoff/)|`tinkoff`| 
 |![tkbpay](https://static.openfintech.io/payment_providers/tkbpay/logo.svg?w=600&c=v0.59.26#w100) |[**TKB Pay**](tkbpay/)|`tkbpay`| 
 |![tnspay](https://static.openfintech.io/payment_providers/tnspay/logo.png?w=600&c=v0.59.26#w100) |[**TNSPay**](tnspay/)|`tnspay`| 
+|![todapay](https://static.openfintech.io/payment_providers/todapay/logo.svg?w=600&c=v0.59.26#w100) |[**TODA Pay**](todapay/)|`todapay`| 
 |![tome](https://static.openfintech.io/payment_providers/tome/logo.svg?w=600&c=v0.59.26#w100) |[**Tome**](tome/)|`tome`| 
 |![toppay](https://static.openfintech.io/payment_providers/toppay/logo.svg?w=600&c=v0.59.26#w100) |[**TopPay**](toppay/)|`toppay`| 
 |![toshani](https://static.openfintech.io/payment_providers/toshani/logo.png?w=600&c=v0.59.26#w100) |[**Toshani**](toshani/)|`toshani`| 
