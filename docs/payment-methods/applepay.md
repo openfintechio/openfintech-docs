@@ -52,6 +52,7 @@ The list of [Payment Services](/payment-services/) based on the _Apple Pay_
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_pln_hpp](/payment-services/applepay_pln_hpp/)|`applepay_pln_hpp`| 
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_gbp_hpp](/payment-services/applepay_gbp_hpp/)|`applepay_gbp_hpp`| 
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_aud_hpp](/payment-services/applepay_aud_hpp/)|`applepay_aud_hpp`| 
+|![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_nzd_hpp](/payment-services/applepay_nzd_hpp/)|`applepay_nzd_hpp`| 
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_cad_hpp](/payment-services/applepay_cad_hpp/)|`applepay_cad_hpp`| 
  
 

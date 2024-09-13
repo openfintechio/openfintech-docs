@@ -1,15 +1,15 @@
 
 # Apple Pay (service) 
-![applepay_aud_hpp](https://static.openfintech.io/payment_methods/applepay_aud_hpp/logo.svg?w=400&c=v0.59.26#w200)  
+![applepay_nzd_hpp](https://static.openfintech.io/payment_methods/applepay_nzd_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `applepay_aud_hpp` 
+**Code:** `applepay_nzd_hpp` 
  
 **Method:** `applepay` 
  [show -->](/payment-methods/applepay/) 
  
-**Currency:** `AUD` [show -->](/currencies/AUD/) 
+**Currency:** `NZD` [show -->](/currencies/NZD/) 
  
 **Name:** 
  
@@ -17,16 +17,16 @@
 :	[RU] Apple Pay 
 :	[UK] Apple Pay 
  
-**Amount limits:** from `0.01` to `200000` AUD 
+**Amount limits:** from `0.01` to `200000` NZD 
 
 ## JSON Object 
 
 ```json
 {
-  "code":"applepay_aud_hpp",
+  "code":"applepay_nzd_hpp",
   "flow":"hpp",
   "method":"applepay",
-  "currency":"AUD",
+  "currency":"NZD",
   "fields":null,
   "amount_min":0.01,
   "amount_max":200000
