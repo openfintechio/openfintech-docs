@@ -25,9 +25,9 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`first_name`|✔|`string`|`/^[A-ZА-Я\-\sa-zа-я]{2,255}$/`| 
-|`last_name`|✔|`string`|`/^[A-ZА-Я\-\sa-zа-я]{2,255}$/`| 
-|`date_of_birth`|✔|`string`|`/^\d{4}-\d{2}-\d{2}$/`| 
+|`first_name`|✗|`string`|`/^[A-ZА-Я\-\sa-zа-я]{2,255}$/`| 
+|`last_name`|✗|`string`|`/^[A-ZА-Я\-\sa-zа-я]{2,255}$/`| 
+|`date_of_birth`|✗|`string`|`/^\d{4}-\d{2}-\d{2}$/`| 
  
 
 ### Details 
@@ -38,7 +38,7 @@
  
 	Regexp: `/^[A-ZА-Я\-\sa-zа-я]{2,255}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] First name 
@@ -56,7 +56,7 @@
  
 	Regexp: `/^[A-ZА-Я\-\sa-zа-я]{2,255}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Last name 
@@ -74,7 +74,7 @@
  
 	Regexp: `/^\d{4}-\d{2}-\d{2}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Date of birth 
@@ -110,7 +110,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c`\u044f"
       },
       "regexp":"\/^[A-Z\u0410-\u042f\\-\\sa-z\u0430-\u044f]{2,255}$\/",
-      "required":true,
+      "required":false,
       "position":1
     },
     {
@@ -127,7 +127,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u0440\u0456\u0437\u0432\u0438\u0449\u0435"
       },
       "regexp":"\/^[A-Z\u0410-\u042f\\-\\sa-z\u0430-\u044f]{2,255}$\/",
-      "required":true,
+      "required":false,
       "position":2
     },
     {
@@ -144,7 +144,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0434\u0430\u0442\u0443 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f"
       },
       "regexp":"\/^\\d{4}-\\d{2}-\\d{2}$\/",
-      "required":true,
+      "required":false,
       "position":3
     }
   ],

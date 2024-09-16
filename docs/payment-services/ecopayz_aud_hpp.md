@@ -25,8 +25,8 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`first_name`|✔|`string`|`/^.{0,255}$/`| 
-|`last_name`|✔|`string`|`/^.{0,255}$/`| 
+|`first_name`|✗|`string`|`/^.{0,255}$/`| 
+|`last_name`|✗|`string`|`/^.{0,255}$/`| 
 |`date_of_birth`|✔|`string`|`/^\d{4}-\d{2}-\d{2}$/`| 
  
 
@@ -38,7 +38,7 @@
  
 	Regexp: `/^.{0,255}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] First name 
@@ -56,7 +56,7 @@
  
 	Regexp: `/^.{0,255}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Last name 
@@ -110,7 +110,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c`\u044f"
       },
       "regexp":"\/^.{0,255}$\/",
-      "required":true,
+      "required":false,
       "position":1
     },
     {
@@ -127,7 +127,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u0440\u0456\u0437\u0432\u0438\u0449\u0435"
       },
       "regexp":"\/^.{0,255}$\/",
-      "required":true,
+      "required":false,
       "position":2
     },
     {
