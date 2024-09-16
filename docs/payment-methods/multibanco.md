@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Multibanc
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![impaya](https://static.openfintech.io/payment_providers/impaya/icon.png?w=278&c=v0.59.26#w100) |[Impaya](/payment-providers/impaya/)|`impaya`| 
 |![katarun](https://static.openfintech.io/payment_providers/katarun/icon.png?w=278&c=v0.59.26#w100) |[Katarun](/payment-providers/katarun/)|`katarun`| 
  
 

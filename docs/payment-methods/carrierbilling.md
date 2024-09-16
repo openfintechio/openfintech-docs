@@ -52,6 +52,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Carrier B
 |![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![dengionline](https://static.openfintech.io/payment_providers/dengionline/icon.png?w=278&c=v0.59.26#w100) |[Dengi Online](/payment-providers/dengionline/)|`dengionline`| 
 |![easypaymentgateway](https://static.openfintech.io/payment_providers/easypaymentgateway/icon.png?w=278&c=v0.59.26#w100) |[Easy Payment Gateway](/payment-providers/easypaymentgateway/)|`easypaymentgateway`| 
+|![dimocopayments](https://static.openfintech.io/payment_providers/dimocopayments/icon.png?w=278&c=v0.59.26#w100) |[DIMOCO Payments](/payment-providers/dimocopayments/)|`dimocopayments`| 
  
 
 ## JSON Object 
