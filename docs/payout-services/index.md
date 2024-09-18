@@ -979,8 +979,10 @@
 |![Jeju Bank](https://static.openfintech.io/payout_methods/jeju_bank/logo.png?w=400&c=v0.59.26#w24) |[**Jeju Bank**](/payout-methods/jeju_bank/)|[`jeju_bank_krw`](jeju_bank_krw/)|`KRW`| 
 |![The Jeonbuk Bank Ltd](https://static.openfintech.io/payout_methods/jeonbuk_bank/logo.svg?w=400&c=v0.59.26#w24) |[**The Jeonbuk Bank Ltd**](/payout-methods/jeonbuk_bank/)|[`jeonbuk_bank_krw`](jeonbuk_bank_krw/)|`KRW`| 
 |![Jeton Wallet](https://static.openfintech.io/payout_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Jeton Wallet**](/payout-methods/jeton_wallet/)|[`jeton_wallet_cad`](jeton_wallet_cad/)|`CAD`| 
+|![Jeton Wallet](https://static.openfintech.io/payout_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Jeton Wallet**](/payout-methods/jeton_wallet/)|[`jeton_wallet_czk`](jeton_wallet_czk/)|`CZK`| 
 |![Jeton Wallet](https://static.openfintech.io/payout_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Jeton Wallet**](/payout-methods/jeton_wallet/)|[`jeton_wallet_eur`](jeton_wallet_eur/)|`EUR`| 
 |![Jeton Wallet](https://static.openfintech.io/payout_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Jeton Wallet**](/payout-methods/jeton_wallet/)|[`jeton_wallet_gbp`](jeton_wallet_gbp/)|`GBP`| 
+|![Jeton Wallet](https://static.openfintech.io/payout_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Jeton Wallet**](/payout-methods/jeton_wallet/)|[`jeton_wallet_huf`](jeton_wallet_huf/)|`HUF`| 
 |![Jeton Wallet](https://static.openfintech.io/payout_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Jeton Wallet**](/payout-methods/jeton_wallet/)|[`jeton_wallet_inr`](jeton_wallet_inr/)|`INR`| 
 |![Jeton Wallet](https://static.openfintech.io/payout_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Jeton Wallet**](/payout-methods/jeton_wallet/)|[`jeton_wallet_jpy`](jeton_wallet_jpy/)|`JPY`| 
 |![Jeton Wallet](https://static.openfintech.io/payout_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Jeton Wallet**](/payout-methods/jeton_wallet/)|[`jeton_wallet_nok`](jeton_wallet_nok/)|`NOK`| 
@@ -2093,6 +2095,7 @@
 |![Sparta (WG)](https://static.openfintech.io/payout_methods/sparta-wg/logo.png?w=400&c=v0.59.26#w24) |[**Sparta (WG)**](/payout-methods/sparta-wg/)|[`sparta-wg_uah`](sparta-wg_uah/)|`UAH`| 
 |![SPEI](https://static.openfintech.io/payout_methods/spei/logo.png?w=400&c=v0.59.26#w24) |[**SPEI**](/payout-methods/spei/)|[`spei_mxn`](spei_mxn/)|`MXN`| 
 |![SPEI](https://static.openfintech.io/payout_methods/spei/logo.png?w=400&c=v0.59.26#w24) |[**SPEI**](/payout-methods/spei/)|[`spei_usd`](spei_usd/)|`USD`| 
+|![Spush Pay](https://static.openfintech.io/payout_methods/spush_pay/logo.svg?w=400&c=v0.59.26#w24) |[**Spush Pay**](/payout-methods/spush_pay/)|[`spush_pay_eur`](spush_pay_eur/)|`EUR`| 
 |![Crazy Network](https://static.openfintech.io/payout_methods/srazy-network/logo.png?w=400&c=v0.59.26#w24) |[**Crazy Network**](/payout-methods/srazy-network/)|[`srazy-network_uah`](srazy-network_uah/)|`UAH`| 
 |![Steel Legion](https://static.openfintech.io/payout_methods/stalnoi-legion/logo.png?w=400&c=v0.59.26#w24) |[**Steel Legion**](/payout-methods/stalnoi-legion/)|[`stalnoi-legion_uah`](stalnoi-legion_uah/)|`UAH`| 
 |![Stanbic IBTC Bank, Nigeria](https://static.openfintech.io/payout_methods/stanbic_bank_nigeria/logo.svg?w=400&c=v0.59.26#w24) |[**Stanbic IBTC Bank, Nigeria**](/payout-methods/stanbic_bank_nigeria/)|[`stanbic_bank_nigeria_ngn`](stanbic_bank_nigeria_ngn/)|`NGN`| 

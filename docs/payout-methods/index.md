@@ -2084,6 +2084,7 @@
 |![sparkle_bank](https://static.openfintech.io/payout_methods/sparkle_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Sparkle Bank**](sparkle_bank/)|`sparkle_bank`| 
 |![sparta-wg](https://static.openfintech.io/payout_methods/sparta-wg/logo.png?w=400&c=v0.59.26#w24) |[**Sparta (WG)**](sparta-wg/)|`sparta-wg`| 
 |![spei](https://static.openfintech.io/payout_methods/spei/logo.png?w=400&c=v0.59.26#w24) |[**SPEI**](spei/)|`spei`| 
+|![spush_pay](https://static.openfintech.io/payout_methods/spush_pay/logo.svg?w=400&c=v0.59.26#w24) |[**Spush Pay**](spush_pay/)|`spush_pay`| 
 |![srazy-network](https://static.openfintech.io/payout_methods/srazy-network/logo.png?w=400&c=v0.59.26#w24) |[**Crazy Network**](srazy-network/)|`srazy-network`| 
 |![stalnoi-legion](https://static.openfintech.io/payout_methods/stalnoi-legion/logo.png?w=400&c=v0.59.26#w24) |[**Steel Legion**](stalnoi-legion/)|`stalnoi-legion`| 
 |![stanbic_bank_nigeria](https://static.openfintech.io/payout_methods/stanbic_bank_nigeria/logo.svg?w=400&c=v0.59.26#w24) |[**Stanbic IBTC Bank, Nigeria**](stanbic_bank_nigeria/)|`stanbic_bank_nigeria`| 

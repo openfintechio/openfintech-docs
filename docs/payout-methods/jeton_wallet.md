@@ -46,6 +46,8 @@ The list of [Payout Services](/payout-services/) based on the _Jeton Wallet_
 |![jeton_wallet](https://static.openfintech.io/payout_methods/jeton_wallet/icon.png?w=278&c=v0.59.26#w40) |[jeton_wallet_pln](/payout-services/jeton_wallet_pln/)|`jeton_wallet_pln`| 
 |![jeton_wallet](https://static.openfintech.io/payout_methods/jeton_wallet/icon.png?w=278&c=v0.59.26#w40) |[jeton_wallet_cad](/payout-services/jeton_wallet_cad/)|`jeton_wallet_cad`| 
 |![jeton_wallet](https://static.openfintech.io/payout_methods/jeton_wallet/icon.png?w=278&c=v0.59.26#w40) |[jeton_wallet_sek](/payout-services/jeton_wallet_sek/)|`jeton_wallet_sek`| 
+|![jeton_wallet](https://static.openfintech.io/payout_methods/jeton_wallet/icon.png?w=278&c=v0.59.26#w40) |[jeton_wallet_huf](/payout-services/jeton_wallet_huf/)|`jeton_wallet_huf`| 
+|![jeton_wallet](https://static.openfintech.io/payout_methods/jeton_wallet/icon.png?w=278&c=v0.59.26#w40) |[jeton_wallet_czk](/payout-services/jeton_wallet_czk/)|`jeton_wallet_czk`| 
  
 
 ## Payment Providers 

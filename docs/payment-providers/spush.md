@@ -42,6 +42,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |![spush_pay](https://static.openfintech.io/payment_methods/spush_pay/icon.svg?w=278&c=v0.59.26#w100) |[spush_pay](/payment-methods/spush_pay/)|`spush_pay`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![spush_pay](https://static.openfintech.io/payout_methods/spush_pay/icon.svg?w=278&c=v0.59.26#w40) |[spush_pay](payout-methodsspush_pay/)|`spush_pay`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -54,7 +63,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payment_method":[
     "spush_pay"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "spush_pay"
+  ],
   "metadata":null,
   "name":{
     "en":"Spush",
