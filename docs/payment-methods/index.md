@@ -462,6 +462,7 @@
 |![kapital_bank](https://static.openfintech.io/payment_methods/kapital_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Kapital Bank**](kapital_bank/)|`kapital_bank`| 
 |![karnataka_bank](https://static.openfintech.io/payment_methods/karnataka_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Karnataka Bank**](karnataka_bank/)|`karnataka_bank`| 
 |![karurvysya_bank_india](https://static.openfintech.io/payment_methods/karurvysya_bank_india/logo.svg?w=400&c=v0.59.26#w200) |[**Karur Vysya Bank**](karurvysya_bank_india/)|`karurvysya_bank_india`| 
+|![kasha_wallet](https://static.openfintech.io/payment_methods/kasha_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**Kasha wallet**](kasha_wallet/)|`kasha_wallet`| 
 |![kasikorn_bank](https://static.openfintech.io/payment_methods/kasikorn_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Kasikorn Bank**](kasikorn_bank/)|`kasikorn_bank`| 
 |![kasikornbankkbanknetbanking](https://static.openfintech.io/payment_methods/kasikornbankkbanknetbanking/logo.png?w=400&c=v0.59.26#w200) |[**Kbank netbanking**](kasikornbankkbanknetbanking/)|`kasikornbankkbanknetbanking`| 
 |![kasnet_cash](https://static.openfintech.io/payment_methods/kasnet_cash/logo.png?w=400&c=v0.59.26#w200) |[**Kasnet**](kasnet_cash/)|`kasnet_cash`| 
