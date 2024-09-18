@@ -56,7 +56,7 @@ The list of [Payment Services](/payment-services/) based on the _Kasha wallet_
 |![kasha_wallet](https://static.openfintech.io/payment_methods/kasha_wallet/icon.svg?w=278&c=v0.59.26#w100) |[kasha_wallet_kzt_hpp](/payment-services/kasha_wallet_kzt_hpp/)|`kasha_wallet_kzt_hpp`| 
 |![kasha_wallet](https://static.openfintech.io/payment_methods/kasha_wallet/icon.svg?w=278&c=v0.59.26#w100) |[kasha_wallet_uzs_hpp](/payment-services/kasha_wallet_uzs_hpp/)|`kasha_wallet_uzs_hpp`| 
 |![kasha_wallet](https://static.openfintech.io/payment_methods/kasha_wallet/icon.svg?w=278&c=v0.59.26#w100) |[kasha_wallet_pkr_hpp](/payment-services/kasha_wallet_pkr_hpp/)|`kasha_wallet_pkr_hpp`| 
-|![kasha_wallet](https://static.openfintech.io/payment_methods/kasha_wallet/icon.svg?w=278&c=v0.59.26#w100) |[kasha_wallet_pgs_hpp](/payment-services/kasha_wallet_pgs_hpp/)|`kasha_wallet_pgs_hpp`| 
+|![kasha_wallet](https://static.openfintech.io/payment_methods/kasha_wallet/icon.svg?w=278&c=v0.59.26#w100) |[kasha_wallet_kgs_hpp](/payment-services/kasha_wallet_kgs_hpp/)|`kasha_wallet_kgs_hpp`| 
 |![kasha_wallet](https://static.openfintech.io/payment_methods/kasha_wallet/icon.svg?w=278&c=v0.59.26#w100) |[kasha_wallet_uah_hpp](/payment-services/kasha_wallet_uah_hpp/)|`kasha_wallet_uah_hpp`| 
 |![kasha_wallet](https://static.openfintech.io/payment_methods/kasha_wallet/icon.svg?w=278&c=v0.59.26#w100) |[kasha_wallet_aed_hpp](/payment-services/kasha_wallet_aed_hpp/)|`kasha_wallet_aed_hpp`| 
 |![kasha_wallet](https://static.openfintech.io/payment_methods/kasha_wallet/icon.svg?w=278&c=v0.59.26#w100) |[kasha_wallet_sar_hpp](/payment-services/kasha_wallet_sar_hpp/)|`kasha_wallet_sar_hpp`| 
