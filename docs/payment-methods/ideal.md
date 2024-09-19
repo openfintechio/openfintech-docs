@@ -87,6 +87,7 @@ The list of [Payment Providers](/payment-providers/) that support the _iDEAL_
 |![multicards](https://static.openfintech.io/payment_providers/multicards/icon.png?w=278&c=v0.59.26#w100) |[MultiCards Internet Billing](/payment-providers/multicards/)|`multicards`| 
 |![ccvpay](https://static.openfintech.io/payment_providers/ccvpay/icon.png?w=278&c=v0.59.26#w100) |[CCV Pay](/payment-providers/ccvpay/)|`ccvpay`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
+|![gumballpay](https://static.openfintech.io/payment_providers/gumballpay/icon.png?w=278&c=v0.59.26#w100) |[GumballPay](/payment-providers/gumballpay/)|`gumballpay`| 
 |![justipay](https://static.openfintech.io/payment_providers/justipay/icon.png?w=278&c=v0.59.26#w100) |[Justipay](/payment-providers/justipay/)|`justipay`| 
 |![rampnow](https://static.openfintech.io/payment_providers/rampnow/icon.svg?w=278&c=v0.59.26#w100) |[Rampnow](/payment-providers/rampnow/)|`rampnow`| 
  
