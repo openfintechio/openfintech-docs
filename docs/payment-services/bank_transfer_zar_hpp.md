@@ -25,6 +25,9 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
+|`payer_email`|✗|`string`|`/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$/`| 
+|`payer_phone_number`|✗|`string`|`/^\+\d{10,14}$/`| 
+|`payer_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
 |`payer_first_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
 |`payer_last_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
 |`payer_address`|✗|`string`|`/^[a-zA-Z0-9 \/_.,'-]{1,200}$/`| 
@@ -38,7 +41,61 @@
 
 ### Details 
  
-1. **`payer_first_name`** 
+1. **`payer_email`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Payer email 
+	: [RU] Email плательщика 
+	: [UK] Email платника 
+ 
+	Hint:  
+	: [EN] Enter payer email 
+	: [RU] Введите email плательщика 
+	: [UK] Введіть email платника 
+ 
+2. **`payer_phone_number`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^\+\d{10,14}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Payer phone number 
+	: [RU] Номер телефона плательщика 
+	: [UK] Номер телефону платника 
+ 
+	Hint:  
+	: [EN] Enter payer phone number 
+	: [RU] Введите номер телефона плательщика 
+	: [UK] Введіть номер телефону платника 
+ 
+3. **`payer_full_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Payer full name 
+	: [RU] Полное имя плательщика 
+	: [UK] Повне імʼя платника 
+ 
+	Hint:  
+	: [EN] Enter Payer name 
+	: [RU] Введите полное имя плательщика 
+	: [UK] Введіть повне імʼя платника 
+ 
+4. **`payer_first_name`** 
  
 	Type: `string` 
  
@@ -56,7 +113,7 @@
 	: [RU] Введите имя отправителя 
 	: [UK] Введіть імʼя відправника 
  
-2. **`payer_last_name`** 
+5. **`payer_last_name`** 
  
 	Type: `string` 
  
@@ -74,7 +131,7 @@
 	: [RU] Введите фамилию отправителя 
 	: [UK] Введіть прізвище відправника 
  
-3. **`payer_address`** 
+6. **`payer_address`** 
  
 	Type: `string` 
  
@@ -92,7 +149,7 @@
 	: [RU] Введите адрес отправителя 
 	: [UK] Введіть адресу відправника 
  
-4. **`payer_country`** 
+7. **`payer_country`** 
  
 	Type: `string` 
  
@@ -110,7 +167,7 @@
 	: [RU] Введите страну отправителя 
 	: [UK] Введіть країну відправника 
  
-5. **`payer_city`** 
+8. **`payer_city`** 
  
 	Type: `string` 
  
@@ -128,7 +185,7 @@
 	: [RU] Введите город отправителя 
 	: [UK] Введіть місто відправника 
  
-6. **`payer_state`** 
+9. **`payer_state`** 
  
 	Type: `string` 
  
@@ -146,7 +203,7 @@
 	: [RU] Введите штат отправителя 
 	: [UK] Введіть штат відправника 
  
-7. **`payer_zip_code`** 
+10. **`payer_zip_code`** 
  
 	Type: `string` 
  
@@ -164,7 +221,7 @@
 	: [RU] Введите почтовый индекс отправителя 
 	: [UK] Введіть поштовий індекс відправника 
  
-8. **`bank_code`** 
+11. **`bank_code`** 
  
 	Type: `string` 
  
@@ -182,7 +239,7 @@
 	: [RU] Введите код банка отправителя 
 	: [UK] Введіть код банку відправника 
  
-9. **`account`** 
+12. **`account`** 
  
 	Type: `string` 
  
@@ -211,11 +268,64 @@
   "currency":"ZAR",
   "fields":[
     {
+      "key":"payer_email",
+      "type":"string",
+      "label":{
+        "en":"Payer email",
+        "ru":"Email \u043f\u043b\u0430\u0442\u0435\u043b\u044c\u0449\u0438\u043a\u0430",
+        "uk":"Email \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
+      },
+      "hint":{
+        "en":"Enter payer email",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 email \u043f\u043b\u0430\u0442\u0435\u043b\u044c\u0449\u0438\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c email \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
+      },
+      "regexp":"\/^([a-z0-9_-]+\\.)*[a-z0-9_-]+@[a-z0-9_-]+(\\.[a-z0-9_-]+)*\\.[a-z]{2,6}$\/",
+      "required":false,
+      "position":1
+    },
+    {
+      "key":"payer_phone_number",
+      "type":"string",
+      "regexp":"\/^\\+\\d{10,14}$\/",
+      "required":false,
+      "position":2,
+      "example":"+234742044295",
+      "label":{
+        "en":"Payer phone number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430 \u043f\u043b\u0430\u0442\u0435\u043b\u044c\u0449\u0438\u043a\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443 \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
+      },
+      "hint":{
+        "en":"Enter payer phone number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430 \u043f\u043b\u0430\u0442\u0435\u043b\u044c\u0449\u0438\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443 \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
+      }
+    },
+    {
+      "key":"payer_full_name",
+      "type":"string",
+      "label":{
+        "en":"Payer full name",
+        "ru":"\u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043b\u0430\u0442\u0435\u043b\u044c\u0449\u0438\u043a\u0430",
+        "uk":"\u041f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
+      },
+      "hint":{
+        "en":"Enter Payer name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043b\u0430\u0442\u0435\u043b\u044c\u0449\u0438\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
+      },
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\d\\s]{2,100}$\/",
+      "required":false,
+      "example":"VAN TUONG LAN",
+      "position":3
+    },
+    {
       "key":"payer_first_name",
       "type":"string",
       "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
       "required":false,
-      "position":1,
+      "position":4,
       "label":{
         "en":"Payer first name",
         "ru":"\u0418\u043c\u044f \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
@@ -233,7 +343,7 @@
       "type":"string",
       "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
       "required":false,
-      "position":2,
+      "position":5,
       "label":{
         "en":"Payer last name",
         "ru":"\u0424\u0430\u043c\u0438\u043b\u0438\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
@@ -251,7 +361,7 @@
       "type":"string",
       "regexp":"\/^[a-zA-Z0-9 \\\/_.,'-]{1,200}$\/",
       "required":false,
-      "position":3,
+      "position":6,
       "label":{
         "en":"Payer address",
         "ru":"\u0410\u0434\u0440\u0435\u0441 \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
@@ -268,7 +378,7 @@
       "type":"string",
       "regexp":"\/^[a-zA-Z\\-]{1,20}$\/",
       "required":false,
-      "position":4,
+      "position":7,
       "label":{
         "en":"Payer country",
         "ru":"\u0421\u0442\u0440\u0430\u043d\u0430 \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
@@ -286,7 +396,7 @@
       "type":"string",
       "regexp":"\/^[a-zA-Z\\-\\s]{1,20}$\/",
       "required":false,
-      "position":5,
+      "position":8,
       "label":{
         "en":"Payer city",
         "ru":"\u0413\u043e\u0440\u043e\u0434 \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
@@ -304,7 +414,7 @@
       "type":"string",
       "regexp":"\/^[a-zA-Z\\-\\s]{1,20}$\/",
       "required":false,
-      "position":6,
+      "position":9,
       "label":{
         "en":"Payer state",
         "ru":"\u0428\u0442\u0430\u0442 \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
@@ -322,7 +432,7 @@
       "type":"string",
       "regexp":"\/^[0-9\\-\\s]{1,20}$\/",
       "required":false,
-      "position":7,
+      "position":10,
       "label":{
         "en":"Payer zip code",
         "ru":"\u041f\u043e\u0447\u0442\u043e\u0432\u044b\u0439 \u0438\u043d\u0434\u0435\u043a\u0441 \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
@@ -340,7 +450,7 @@
       "type":"string",
       "regexp":"\/^[A-Za-z0-9]{2,20}$\/",
       "required":false,
-      "position":8,
+      "position":11,
       "label":{
         "en":"Payer bank code",
         "ru":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430 \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
@@ -358,7 +468,7 @@
       "type":"string",
       "regexp":"\/^.{1,50}$\/",
       "required":false,
-      "position":9,
+      "position":12,
       "label":{
         "en":"Client account number",
         "ru":"\u041d\u043e\u043c\u0435\u0440 \u043a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430",
