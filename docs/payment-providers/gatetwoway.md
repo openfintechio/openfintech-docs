@@ -44,6 +44,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller](/payment-methods/neteller/)|`neteller`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
 |![rapidtransfer](https://static.openfintech.io/payment_methods/rapidtransfer/icon.png?w=278&c=v0.59.26#w100) |[rapidtransfer](/payment-methods/rapidtransfer/)|`rapidtransfer`| 
+|![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik](/payment-methods/blik/)|`blik`| 
  
 
 ## JSON Object 
@@ -60,7 +61,8 @@ The list of supported [Payment Methods](/payment-methods/)
     "skrill",
     "neteller",
     "paysafecard",
-    "rapidtransfer"
+    "rapidtransfer",
+    "blik"
   ],
   "payout_method":null,
   "metadata":null,
