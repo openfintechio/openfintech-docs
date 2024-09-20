@@ -463,6 +463,7 @@
 |![Cardano](https://static.openfintech.io/payment_methods/cardano/logo.svg?w=400&c=v0.59.26#w200) |[**Cardano**](/payment-methods/cardano/)|[`cardano_gbp_hpp`](cardano_gbp_hpp/)| 
 |![Cardano](https://static.openfintech.io/payment_methods/cardano/logo.svg?w=400&c=v0.59.26#w200) |[**Cardano**](/payment-methods/cardano/)|[`cardano_usd_hpp`](cardano_usd_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`cardurlmoin_cop_hpp`](cardurlmoin_cop_hpp/)| 
+|![Carrier Billing](https://static.openfintech.io/payment_methods/carrierbilling/logo.png?w=400&c=v0.59.26#w200) |[**Carrier Billing**](/payment-methods/carrierbilling/)|[`carrierbilling_eur_hpp`](carrierbilling_eur_hpp/)| 
 |![CartaSi](https://static.openfintech.io/payment_methods/cartasi/logo.png?w=400&c=v0.59.26#w200) |[**CartaSi**](/payment-methods/cartasi/)|[`cartasi_eur_hpp`](cartasi_eur_hpp/)| 
 |![Carte Bleue](https://static.openfintech.io/payment_methods/cartebleue/logo.png?w=400&c=v0.59.26#w200) |[**Carte Bleue**](/payment-methods/cartebleue/)|[`cartebleue_eur_hpp`](cartebleue_eur_hpp/)| 
 |![Carulla](https://static.openfintech.io/payment_methods/carulla/logo.svg?w=400&c=v0.59.26#w200) |[**Carulla**](/payment-methods/carulla/)|[`carulla_cop_hpp`](carulla_cop_hpp/)| 

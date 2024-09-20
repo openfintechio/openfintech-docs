@@ -34,6 +34,15 @@ https://static.openfintech.io/payment_methods/carrierbilling/logo.png?w=400&c=v0
 https://static.openfintech.io/payment_methods/carrierbilling/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Carrier Billing_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![carrierbilling](https://static.openfintech.io/payment_methods/carrierbilling/icon.png?w=278&c=v0.59.26#w100) |[carrierbilling_eur_hpp](/payment-services/carrierbilling_eur_hpp/)|`carrierbilling_eur_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Carrier Billing_ 
