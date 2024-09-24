@@ -1983,6 +1983,7 @@
 |![spankki](https://static.openfintech.io/vendors/spankki/logo.png?w=600&c=v0.59.26#w200) |[**S-Pankki**](spankki/)|`spankki`| 
 |![spartapay](https://static.openfintech.io/vendors/spartapay/logo.png?w=600&c=v0.59.26#w200) |[**Sparta-Pay**](spartapay/)|`spartapay`| 
 |![spasibo.kz](https://static.openfintech.io/vendors/spasibo.kz/logo.svg?w=600&c=v0.59.26#w200) |[**Spasibo**](spasibo.kz/)|`spasibo.kz`| 
+|![spayz](https://static.openfintech.io/vendors/spayz/logo.svg?w=600&c=v0.59.26#w200) |[**Spayz**](spayz/)|`spayz`| 
 |![spbwmcasher.ru](https://static.openfintech.io/vendors/spbwmcasher.ru/logo.svg?w=600&c=v0.59.26#w200) |[**SpbWMCasher**](spbwmcasher.ru/)|`spbwmcasher.ru`| 
 |![specializedprocessingsolutions](https://static.openfintech.io/vendors/specializedprocessingsolutions/logo.png?w=600&c=v0.59.26#w200) |[**Specialized Processing Solutions**](specializedprocessingsolutions/)|`specializedprocessingsolutions`| 
 |![spoynt](https://static.openfintech.io/vendors/spoynt/logo.svg?w=600&c=v0.59.26#w200) |[**Spoynt**](spoynt/)|`spoynt`| 
