@@ -1633,7 +1633,6 @@
 |![UPI](https://static.openfintech.io/payment_methods/upi/logo.svg?w=400&c=v0.59.26#w200) |[**UPI**](/payment-methods/upi/)|[`upi_inr_hpp`](upi_inr_hpp/)| 
 |![UPI](https://static.openfintech.io/payment_methods/upi/logo.svg?w=400&c=v0.59.26#w200) |[**UPI**](/payment-methods/upi/)|[`upi_inr_invoice`](upi_inr_invoice/)| 
 |![UPI QR](https://static.openfintech.io/payment_methods/upi_qr/logo.png?w=400&c=v0.59.26#w200) |[**UPI QR**](/payment-methods/upi_qr/)|[`upi_qr_inr_invoice`](upi_qr_inr_invoice/)| 
-|![UPI Seamless](https://static.openfintech.io/payment_methods/upi_seamless/logo.svg?w=400&c=v0.59.26#w200) |[**UPI Seamless**](/payment-methods/upi_seamless/)|[`upi_seamless_inr_hpp`](upi_seamless_inr_hpp/)| 
 |![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_bep20_aud_hpp`](usd_coin_bep20_aud_hpp/)| 
 |![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_bep20_cad_hpp`](usd_coin_bep20_cad_hpp/)| 
 |![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_bep20_chf_hpp`](usd_coin_bep20_chf_hpp/)| 

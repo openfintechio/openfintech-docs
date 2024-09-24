@@ -1826,6 +1826,7 @@
 |![rapid-obmen](https://static.openfintech.io/vendors/rapid-obmen/logo.svg?w=600&c=v0.59.26#w200) |[**Rapid-Obmen**](rapid-obmen/)|`rapid-obmen`| 
 |![rapipago](https://static.openfintech.io/vendors/rapipago/logo.png?w=600&c=v0.59.26#w200) |[**Rapipago**](rapipago/)|`rapipago`| 
 |![rapyd](https://static.openfintech.io/vendors/rapyd/logo.svg?w=600&c=v0.59.26#w200) |[**Rapyd.net**](rapyd/)|`rapyd`| 
+|![rashpay](https://static.openfintech.io/vendors/rashpay/logo.svg?w=600&c=v0.59.26#w200) |[**RashPay**](rashpay/)|`rashpay`| 
 |![ratepay](https://static.openfintech.io/vendors/ratepay/logo.png?w=600&c=v0.59.26#w200) |[**RatePAY**](ratepay/)|`ratepay`| 
 |![razorpay](https://static.openfintech.io/vendors/razorpay/logo.svg?w=600&c=v0.59.26#w200) |[**Razorpay**](razorpay/)|`razorpay`| 
 |![rbkmoney](https://static.openfintech.io/vendors/rbkmoney/logo.png?w=600&c=v0.59.26#w200) |[**RBK Money**](rbkmoney/)|`rbkmoney`| 

@@ -140,6 +140,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![paymentgarage](https://static.openfintech.io/payment_providers/paymentgarage/icon.png?w=278&c=v0.59.26#w100) |[PaymentGarage](/payment-providers/paymentgarage/)|`paymentgarage`| 
 |![paymega](https://static.openfintech.io/payment_providers/paymega/icon.svg?w=278&c=v0.59.26#w100) |[PayMega](/payment-providers/paymega/)|`paymega`| 
 |![digitalriverworldpayments](https://static.openfintech.io/payment_providers/digitalriverworldpayments/icon.png?w=278&c=v0.59.26#w100) |[Digital River World Payments](/payment-providers/digitalriverworldpayments/)|`digitalriverworldpayments`| 
+|![rashpay](https://static.openfintech.io/payment_providers/rashpay/icon.svg?w=278&c=v0.59.26#w100) |[RashPay](/payment-providers/rashpay/)|`rashpay`| 
 |![paybox](https://static.openfintech.io/payment_providers/paybox/icon.svg?w=278&c=v0.59.26#w100) |[Paybox](/payment-providers/paybox/)|`paybox`| 
 |![123x](https://static.openfintech.io/payment_providers/123x/icon.png?w=278&c=v0.59.26#w100) |[123x](/payment-providers/123x/)|`123x`| 
 |![magnius](https://static.openfintech.io/payment_providers/magnius/icon.png?w=278&c=v0.59.26#w100) |[Magnius](/payment-providers/magnius/)|`magnius`| 
