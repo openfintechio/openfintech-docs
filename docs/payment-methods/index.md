@@ -17,6 +17,7 @@
 |![acceptgiro](https://static.openfintech.io/payment_methods/acceptgiro/logo.png?w=400&c=v0.59.26#w200) |[**Acceptgiro**](acceptgiro/)|`acceptgiro`| 
 |![account2account](https://static.openfintech.io/payment_methods/account2account/logo.png?w=400&c=v0.59.26#w200) |[**account2account**](account2account/)|`account2account`| 
 |![acertemos](https://static.openfintech.io/payment_methods/acertemos/logo.svg?w=400&c=v0.59.26#w200) |[**Acertemos**](acertemos/)|`acertemos`| 
+|![activ_kcell](https://static.openfintech.io/payment_methods/activ_kcell/logo.svg?w=400&c=v0.59.26#w200) |[**Kcell/Activ**](activ_kcell/)|`activ_kcell`| 
 |![activa_westernunion](https://static.openfintech.io/payment_methods/activa_westernunion/logo.svg?w=400&c=v0.59.26#w200) |[**Activa WesternUnion**](activa_westernunion/)|`activa_westernunion`| 
 |![advcash](https://static.openfintech.io/payment_methods/advcash/logo.svg?w=400&c=v0.59.26#w200) |[**AdvCash**](advcash/)|`advcash`| 
 |![advcash_card](https://static.openfintech.io/payment_methods/advcash_card/logo.svg?w=400&c=v0.59.26#w200) |[**AdvCash**](advcash_card/)|`advcash_card`| 
@@ -42,6 +43,7 @@
 |![alliance_bank](https://static.openfintech.io/payment_methods/alliance_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Alliance Bank Malaysia Berhad**](alliance_bank/)|`alliance_bank`| 
 |![alliance_bank_fpx](https://static.openfintech.io/payment_methods/alliance_bank_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**Alliance Bank (FPX), Malaysia**](alliance_bank_fpx/)|`alliance_bank_fpx`| 
 |![almacenes_exito](https://static.openfintech.io/payment_methods/almacenes_exito/logo.svg?w=400&c=v0.59.26#w200) |[**Almacenes Exito**](almacenes_exito/)|`almacenes_exito`| 
+|![altel_tele2](https://static.openfintech.io/payment_methods/altel_tele2/logo.svg?w=400&c=v0.59.26#w200) |[**Tele2/Altel**](altel_tele2/)|`altel_tele2`| 
 |![amazon_pay](https://static.openfintech.io/payment_methods/amazon_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Amazon Pay**](amazon_pay/)|`amazon_pay`| 
 |![ambank_berhad](https://static.openfintech.io/payment_methods/ambank_berhad/logo.svg?w=400&c=v0.59.26#w200) |[**AmBank**](ambank_berhad/)|`ambank_berhad`| 
 |![ambank_fpx](https://static.openfintech.io/payment_methods/ambank_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**Ambank (FPX), Malaysia**](ambank_fpx/)|`ambank_fpx`| 

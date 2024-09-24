@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Beeline_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![beeline](https://static.openfintech.io/payment_methods/beeline/icon.png?w=278&c=v0.59.26#w100) |[beeline_rub_hpp](/payment-services/beeline_rub_hpp/)|`beeline_rub_hpp`| 
+|![beeline](https://static.openfintech.io/payment_methods/beeline/icon.png?w=278&c=v0.59.26#w100) |[beeline_kzt_hpp](/payment-services/beeline_kzt_hpp/)|`beeline_kzt_hpp`| 
 |![beeline](https://static.openfintech.io/payment_methods/beeline/icon.png?w=278&c=v0.59.26#w100) |[beeline_rub_invoice](/payment-services/beeline_rub_invoice/)|`beeline_rub_invoice`| 
  
 
@@ -50,6 +51,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Beeline_
 |![walletone](https://static.openfintech.io/payment_providers/walletone/icon.svg?w=278&c=v0.59.26#w100) |[Wallet One](/payment-providers/walletone/)|`walletone`| 
 |![payeer](https://static.openfintech.io/payment_providers/payeer/icon.png?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
 |![piastrix](https://static.openfintech.io/payment_providers/piastrix/icon.svg?w=278&c=v0.59.26#w100) |[Piastrix](/payment-providers/piastrix/)|`piastrix`| 
+|![kvitum](https://static.openfintech.io/payment_providers/kvitum/icon.svg?w=278&c=v0.59.26#w100) |[Kvitum](/payment-providers/kvitum/)|`kvitum`| 
  
 
 ## JSON Object 

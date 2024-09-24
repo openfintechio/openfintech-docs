@@ -11,6 +11,7 @@
 |![ABN AMRO Bank](https://static.openfintech.io/payment_methods/abn_amro_bank/logo.svg?w=400&c=v0.59.26#w200) |[**ABN AMRO Bank**](/payment-methods/abn_amro_bank/)|[`abn_amro_bank_eur_hpp`](abn_amro_bank_eur_hpp/)| 
 |![ACB Bank](https://static.openfintech.io/payment_methods/acb_bank/logo.svg?w=400&c=v0.59.26#w200) |[**ACB Bank**](/payment-methods/acb_bank/)|[`acb_bank_vnd_hpp`](acb_bank_vnd_hpp/)| 
 |![Acertemos](https://static.openfintech.io/payment_methods/acertemos/logo.svg?w=400&c=v0.59.26#w200) |[**Acertemos**](/payment-methods/acertemos/)|[`acertemosin_cop_hpp`](acertemosin_cop_hpp/)| 
+|![Kcell/Activ](https://static.openfintech.io/payment_methods/activ_kcell/logo.svg?w=400&c=v0.59.26#w200) |[**Kcell/Activ**](/payment-methods/activ_kcell/)|[`activ_kcell_kzt_hpp`](activ_kcell_kzt_hpp/)| 
 |![Activa WesternUnion](https://static.openfintech.io/payment_methods/activa_westernunion/logo.svg?w=400&c=v0.59.26#w200) |[**Activa WesternUnion**](/payment-methods/activa_westernunion/)|[`activa_westernunion_usd_hpp`](activa_westernunion_usd_hpp/)| 
 |![AdvCash](https://static.openfintech.io/payment_methods/advcash_card/logo.svg?w=400&c=v0.59.26#w200) |[**AdvCash**](/payment-methods/advcash_card/)|[`advcash_card_eur_hpp`](advcash_card_eur_hpp/)| 
 |![AdvCash](https://static.openfintech.io/payment_methods/advcash_card/logo.svg?w=400&c=v0.59.26#w200) |[**AdvCash**](/payment-methods/advcash_card/)|[`advcash_card_usd_hpp`](advcash_card_usd_hpp/)| 
@@ -54,6 +55,7 @@
 |![Alliance Bank (FPX), Malaysia](https://static.openfintech.io/payment_methods/alliance_bank_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**Alliance Bank (FPX), Malaysia**](/payment-methods/alliance_bank_fpx/)|[`alliance_bank_fpx_myr_hpp`](alliance_bank_fpx_myr_hpp/)| 
 |![Alliance Bank Malaysia Berhad](https://static.openfintech.io/payment_methods/alliance_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Alliance Bank Malaysia Berhad**](/payment-methods/alliance_bank/)|[`alliance_bank_myr_hpp`](alliance_bank_myr_hpp/)| 
 |![Almacenes Exito](https://static.openfintech.io/payment_methods/almacenes_exito/logo.svg?w=400&c=v0.59.26#w200) |[**Almacenes Exito**](/payment-methods/almacenes_exito/)|[`almacenes_exito_cop_hpp`](almacenes_exito_cop_hpp/)| 
+|![Tele2/Altel](https://static.openfintech.io/payment_methods/altel_tele2/logo.svg?w=400&c=v0.59.26#w200) |[**Tele2/Altel**](/payment-methods/altel_tele2/)|[`altel_tele2_kzt_hpp`](altel_tele2_kzt_hpp/)| 
 |![Amazon Pay](https://static.openfintech.io/payment_methods/amazon_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Amazon Pay**](/payment-methods/amazon_pay/)|[`amazon_pay_inr_hpp`](amazon_pay_inr_hpp/)| 
 |![AmBank](https://static.openfintech.io/payment_methods/ambank_berhad/logo.svg?w=400&c=v0.59.26#w200) |[**AmBank**](/payment-methods/ambank_berhad/)|[`ambank_berhad_myr_hpp`](ambank_berhad_myr_hpp/)| 
 |![Ambank (FPX), Malaysia](https://static.openfintech.io/payment_methods/ambank_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**Ambank (FPX), Malaysia**](/payment-methods/ambank_fpx/)|[`ambank_fpx_myr_hpp`](ambank_fpx_myr_hpp/)| 
@@ -266,6 +268,7 @@
 |![BBVA COLOMBIA SA](https://static.openfintech.io/payment_methods/bbva_colombia/logo.svg?w=400&c=v0.59.26#w200) |[**BBVA COLOMBIA SA**](/payment-methods/bbva_colombia/)|[`bbvacolombiain_cop_hpp`](bbvacolombiain_cop_hpp/)| 
 |![BCAVA](https://static.openfintech.io/payment_methods/bca_va/logo.svg?w=400&c=v0.59.26#w200) |[**BCAVA**](/payment-methods/bca_va/)|[`bca_va_idr_hpp`](bca_va_idr_hpp/)| 
 |![BCP](https://static.openfintech.io/payment_methods/bcp/logo.svg?w=400&c=v0.59.26#w200) |[**BCP**](/payment-methods/bcp/)|[`bcp_pen_hpp`](bcp_pen_hpp/)| 
+|![Beeline](https://static.openfintech.io/payment_methods/beeline/logo.png?w=400&c=v0.59.26#w200) |[**Beeline**](/payment-methods/beeline/)|[`beeline_kzt_hpp`](beeline_kzt_hpp/)| 
 |![Beeline](https://static.openfintech.io/payment_methods/beeline/logo.png?w=400&c=v0.59.26#w200) |[**Beeline**](/payment-methods/beeline/)|[`beeline_rub_hpp`](beeline_rub_hpp/)| 
 |![Beeline](https://static.openfintech.io/payment_methods/beeline/logo.png?w=400&c=v0.59.26#w200) |[**Beeline**](/payment-methods/beeline/)|[`beeline_rub_invoice`](beeline_rub_invoice/)| 
 |![BIDV Bank QR](https://static.openfintech.io/payment_methods/bidv_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**BIDV Bank QR**](/payment-methods/bidv_bank_qr/)|[`bidv_bank_qr_vnd_hpp`](bidv_bank_qr_vnd_hpp/)| 
