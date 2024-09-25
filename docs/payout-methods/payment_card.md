@@ -581,6 +581,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![paytently](https://static.openfintech.io/payment_providers/paytently/icon.svg?w=278&c=v0.59.26#w100) |[Paytently](/payment-providers/paytently/)|`paytently`| 
 |![paystrax](https://static.openfintech.io/payment_providers/paystrax/icon.png?w=278&c=v0.59.26#w100) |[Paystrax](/payment-providers/paystrax/)|`paystrax`| 
 |![slyse](https://static.openfintech.io/payment_providers/slyse/icon.png?w=278&c=v0.59.26#w100) |[SLYSE](/payment-providers/slyse/)|`slyse`| 
+|![paylivre](https://static.openfintech.io/payment_providers/paylivre/icon.png?w=278&c=v0.59.26#w100) |[Paylivre](/payment-providers/paylivre/)|`paylivre`| 
  
 
 ## JSON Object 
