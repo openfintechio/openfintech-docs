@@ -25,7 +25,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`phone`|✔|`string`|`/^\+\d{10,14}$/`| 
+|`phone`|✗|`string`|`/^\+\d{10,14}$/`| 
  
 
 ### Details 
@@ -36,7 +36,7 @@
  
 	Regexp: `/^\+\d{10,14}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Phone number 
@@ -72,7 +72,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
       },
       "regexp":"\/^\\+\\d{10,14}$\/",
-      "required":true,
+      "required":false,
       "position":1
     }
   ],
