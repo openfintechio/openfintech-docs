@@ -495,6 +495,7 @@
 || **M** ||
 |![macropay](https://static.openfintech.io/payment_providers/macropay/logo.png?w=600&c=v0.59.26#w100) |[**Macropay**](macropay/)|`macropay`| 
 |![magicpayments](https://static.openfintech.io/payment_providers/magicpayments/logo.svg?w=600&c=v0.59.26#w100) |[**Magic Payments**](magicpayments/)|`magicpayments`| 
+|![magnetiqbank](https://static.openfintech.io/payment_providers/magnetiqbank/logo.png?w=600&c=v0.59.26#w100) |[**Magnetiq Bank**](magnetiqbank/)|`magnetiqbank`| 
 |![magnius](https://static.openfintech.io/payment_providers/magnius/logo.png?w=600&c=v0.59.26#w100) |[**Magnius**](magnius/)|`magnius`| 
 |![maguapay](https://static.openfintech.io/payment_providers/maguapay/logo.png?w=600&c=v0.59.26#w100) |[**Magua Pay**](maguapay/)|`maguapay`| 
 |![maldopay](https://static.openfintech.io/payment_providers/maldopay/logo.png?w=600&c=v0.59.26#w100) |[**MaldoPay**](maldopay/)|`maldopay`| 
@@ -837,6 +838,7 @@
 |![rubinpay](https://static.openfintech.io/payment_providers/rubinpay/logo.png?w=600&c=v0.59.26#w100) |[**RubinPay**](rubinpay/)|`rubinpay`| 
 |![rumbapay](https://static.openfintech.io/payment_providers/rumbapay/logo.png?w=600&c=v0.59.26#w100) |[**RumbaPay**](rumbapay/)|`rumbapay`| 
 |![russianstandardbank](https://static.openfintech.io/payment_providers/russianstandardbank/logo.png?w=600&c=v0.59.26#w100) |[**Russian Standard Bank**](russianstandardbank/)|`russianstandardbank`| 
+|![ryvyl](https://static.openfintech.io/payment_providers/ryvyl/logo.svg?w=600&c=v0.59.26#w100) |[**Ryvyl**](ryvyl/)|`ryvyl`| 
 || **S** ||
 |![safecharge](https://static.openfintech.io/payment_providers/safecharge/logo.svg?w=600&c=v0.59.26#w100) |[**Nuvei**](safecharge/)|`safecharge`| 
 |![safetypay](https://static.openfintech.io/payment_providers/safetypay/logo.png?w=600&c=v0.59.26#w100) |[**SafetyPay**](safetypay/)|`safetypay`| 

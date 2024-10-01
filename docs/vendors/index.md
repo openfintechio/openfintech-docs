@@ -1171,6 +1171,7 @@
 |![magicpayments](https://static.openfintech.io/vendors/magicpayments/logo.svg?w=600&c=v0.59.26#w200) |[**Magic Payments**](magicpayments/)|`magicpayments`| 
 |![magna](https://static.openfintech.io/vendors/magna/logo.svg?w=600&c=v0.59.26#w200) |[**Magna**](magna/)|`magna`| 
 |![magneticexchange](https://static.openfintech.io/vendors/magneticexchange/logo.svg?w=600&c=v0.59.26#w200) |[**MagneticExchange**](magneticexchange/)|`magneticexchange`| 
+|![magnetiqbank](https://static.openfintech.io/vendors/magnetiqbank/logo.png?w=600&c=v0.59.26#w200) |[**Magnetiq Bank**](magnetiqbank/)|`magnetiqbank`| 
 |![magnius](https://static.openfintech.io/vendors/magnius/logo.png?w=600&c=v0.59.26#w200) |[**Magnius**](magnius/)|`magnius`| 
 |![maguapay](https://static.openfintech.io/vendors/maguapay/logo.png?w=600&c=v0.59.26#w200) |[**Magua Pay**](maguapay/)|`maguapay`| 
 |![maldopay](https://static.openfintech.io/vendors/maldopay/logo.png?w=600&c=v0.59.26#w200) |[**MaldoPay**](maldopay/)|`maldopay`| 
@@ -1873,6 +1874,7 @@
 |![russianstandardbank](https://static.openfintech.io/vendors/russianstandardbank/logo.png?w=600&c=v0.59.26#w200) |[**Russian Standard Bank**](russianstandardbank/)|`russianstandardbank`| 
 |![russkijstandart](https://static.openfintech.io/vendors/russkijstandart/logo.svg?w=600&c=v0.59.26#w200) |[**Русский Стандарт**](russkijstandart/)|`russkijstandart`| 
 |![ryukyu_bank](https://static.openfintech.io/vendors/ryukyu_bank/logo.svg?w=600&c=v0.59.26#w200) |[**BANK OF THE RYUKYUS**](ryukyu_bank/)|`ryukyu_bank`| 
+|![ryvyl](https://static.openfintech.io/vendors/ryvyl/logo.svg?w=600&c=v0.59.26#w200) |[**Ryvyl**](ryvyl/)|`ryvyl`| 
 || **S** ||
 |![saastopankki](https://static.openfintech.io/vendors/saastopankki/logo.png?w=600&c=v0.59.26#w200) |[**Säästöpankki**](saastopankki/)|`saastopankki`| 
 |![safecharge](https://static.openfintech.io/vendors/safecharge/logo.svg?w=600&c=v0.59.26#w200) |[**Nuvei**](safecharge/)|`safecharge`| 
