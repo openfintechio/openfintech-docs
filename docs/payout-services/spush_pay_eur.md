@@ -38,14 +38,14 @@
 	Required: `1` 
  
 	Label:  
-	: [EN] Account Number 
-	: [RU] Номер счёта 
-	: [UK] Номер рахунку 
+	: [EN] Customer account number 
+	: [RU] Номер счета клиента 
+	: [UK] Номер рахунку клієнта 
  
 	Hint:  
-	: [EN] Enter Account Number 
-	: [RU] Введите номер счёта 
-	: [UK] Введіть номер рахунку 
+	: [EN] Enter customer account number 
+	: [RU] Введите номер счета клиента 
+	: [UK] Введiть номер рахунку клієнта 
  
 
 ## JSON Object 
@@ -63,14 +63,14 @@
       "required":true,
       "position":1,
       "label":{
-        "en":"Account Number",
-        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0451\u0442\u0430",
-        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+        "en":"Customer account number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430 \u043a\u043b\u0438\u0435\u043d\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 \u043a\u043b\u0456\u0454\u043d\u0442\u0430"
       },
       "hint":{
-        "en":"Enter Account Number",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0441\u0447\u0451\u0442\u0430",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+        "en":"Enter customer account number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430 \u043a\u043b\u0438\u0435\u043d\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434i\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 \u043a\u043b\u0456\u0454\u043d\u0442\u0430"
       }
     }
   ],
