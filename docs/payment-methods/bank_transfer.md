@@ -51,6 +51,7 @@ The list of [Payment Services](/payment-services/) based on the _Bank Transfer_
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_eur_hpp](/payment-services/bank_transfer_eur_hpp/)|`bank_transfer_eur_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_try_hpp](/payment-services/bank_transfer_try_hpp/)|`bank_transfer_try_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_uah_hpp](/payment-services/bank_transfer_uah_hpp/)|`bank_transfer_uah_hpp`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_kzt_hpp](/payment-services/bank_transfer_kzt_hpp/)|`bank_transfer_kzt_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_aed_hpp](/payment-services/bank_transfer_aed_hpp/)|`bank_transfer_aed_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_mxn_hpp](/payment-services/bank_transfer_mxn_hpp/)|`bank_transfer_mxn_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_brl_hpp](/payment-services/bank_transfer_brl_hpp/)|`bank_transfer_brl_hpp`| 

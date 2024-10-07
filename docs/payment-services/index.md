@@ -230,6 +230,7 @@
 |![Klarna bank transfer](https://static.openfintech.io/payment_methods/bank_transfer_klarna/logo.svg?w=400&c=v0.59.26#w200) |[**Klarna bank transfer**](/payment-methods/bank_transfer_klarna/)|[`bank_transfer_klarna_pln_hpp`](bank_transfer_klarna_pln_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_krw_hpp`](bank_transfer_krw_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_krw_invoice`](bank_transfer_krw_invoice/)| 
+|![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_kzt_hpp`](bank_transfer_kzt_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_mxn_hpp`](bank_transfer_mxn_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_mxn_invoice`](bank_transfer_mxn_invoice/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_myr_hpp`](bank_transfer_myr_hpp/)| 
