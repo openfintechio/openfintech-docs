@@ -54,6 +54,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Sepa Tran
 |![katarun](https://static.openfintech.io/payment_providers/katarun/icon.png?w=278&c=v0.59.26#w100) |[Katarun](/payment-providers/katarun/)|`katarun`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
 |![vendo](https://static.openfintech.io/payment_providers/vendo/icon.png?w=278&c=v0.59.26#w100) |[Vendo Services GmbH](/payment-providers/vendo/)|`vendo`| 
+|![yotta](https://static.openfintech.io/payment_providers/yotta/icon.svg?w=278&c=v0.59.26#w100) |[Yotta](/payment-providers/yotta/)|`yotta`| 
  
 
 ## JSON Object 

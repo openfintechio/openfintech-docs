@@ -2343,6 +2343,7 @@
 |![yobit_net](https://static.openfintech.io/vendors/yobit_net/logo.svg?w=600&c=v0.59.26#w200) |[**yobit.net**](yobit_net/)|`yobit_net`| 
 |![yobitnet](https://static.openfintech.io/vendors/yobitnet/logo.svg?w=600&c=v0.59.26#w200) |[**yobit.net**](yobitnet/)|`yobitnet`| 
 |![yokohama_bank](https://static.openfintech.io/vendors/yokohama_bank/logo.svg?w=600&c=v0.59.26#w200) |[**The Bank of Yokohama**](yokohama_bank/)|`yokohama_bank`| 
+|![yotta](https://static.openfintech.io/vendors/yotta/logo.svg?w=600&c=v0.59.26#w200) |[**Yotta**](yotta/)|`yotta`| 
 |![your-coins](https://static.openfintech.io/vendors/your-coins/logo.svg?w=600&c=v0.59.26#w200) |[**your-coins**](your-coins/)|`your-coins`| 
 |![yourpay](https://static.openfintech.io/vendors/yourpay/logo.png?w=600&c=v0.59.26#w200) |[**YourPay**](yourpay/)|`yourpay`| 
 |![ypsilonpaymentsolutions](https://static.openfintech.io/vendors/ypsilonpaymentsolutions/logo.png?w=600&c=v0.59.26#w200) |[**Ypsilon Payment Solutions**](ypsilonpaymentsolutions/)|`ypsilonpaymentsolutions`| 
