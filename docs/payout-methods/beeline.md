@@ -37,6 +37,7 @@ The list of [Payout Services](/payout-services/) based on the _Beeline_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![beeline](https://static.openfintech.io/payout_methods/beeline/icon.svg?w=278&c=v0.59.26#w40) |[beeline_rub](/payout-services/beeline_rub/)|`beeline_rub`| 
+|![beeline](https://static.openfintech.io/payout_methods/beeline/icon.svg?w=278&c=v0.59.26#w40) |[beeline_kzt](/payout-services/beeline_kzt/)|`beeline_kzt`| 
  
 
 ## Payment Providers 

@@ -23,7 +23,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`email`|✗|`string`|`^[0-9A-Za-z-_\.]+@([0-9A-Za-z-_]+\.)+[0-9A-Za-z-_]{2,5}$`| 
+|`email`|✗|`string`|`/^[0-9A-Za-z-_\.]+@([0-9A-Za-z-_]+\.)+[0-9A-Za-z-_]{2,5}$/`| 
 |`expiration_days`|✗|`string`|`.*`| 
 |`document_type`|✗|`string`|`/^[A-Z]{2,4}$/`| 
 |`document_id`|✗|`string`|`/^[a-zA-Z0-9]{6,15}$/`| 
@@ -35,7 +35,7 @@
  
 	Type: `string` 
  
-	Regexp: `^[0-9A-Za-z-_\.]+@([0-9A-Za-z-_]+\.)+[0-9A-Za-z-_]{2,5}$` 
+	Regexp: `/^[0-9A-Za-z-_\.]+@([0-9A-Za-z-_]+\.)+[0-9A-Za-z-_]{2,5}$/` 
  
 	Required: `` 
  
@@ -116,7 +116,7 @@
     {
       "key":"email",
       "type":"string",
-      "regexp":"^[0-9A-Za-z-_\\.]+@([0-9A-Za-z-_]+\\.)+[0-9A-Za-z-_]{2,5}$",
+      "regexp":"\/^[0-9A-Za-z-_\\.]+@([0-9A-Za-z-_]+\\.)+[0-9A-Za-z-_]{2,5}$\/",
       "required":false,
       "position":0,
       "label":{

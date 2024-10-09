@@ -31,13 +31,13 @@
 |`beneficiary_document_id`|✗|`string`|`/^[A-Z0-9]{3,20}$/`| 
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
 |`bank_name`|✗|`string`|`/^[A-Za-zА-ЩЬЮЯҐЄІЇа-щьюяґєії0-9\s\.\,\-\(\)\ʼ]{2,100}$/`| 
-|`beneficiary_bic_swift`|✗|`string`|`^(?:[0-9A-Z]{8}\|[0-9A-Z]{11})$`| 
-|`beneficiary_country_code_iso`|✗|`string`|`^(.{2,6}\|[A-Z]{2})$`| 
+|`beneficiary_bic_swift`|✗|`string`|`/^(?:[0-9A-Z]{8}\|[0-9A-Z]{11})$/`| 
+|`beneficiary_country_code_iso`|✗|`string`|`/^(.{2,6}\|[A-Z]{2})$/`| 
 |`beneficiary_address`|✗|`string`|`/^[A-Za-zА-ЩЬЮЯҐЄІЇа-щьюяґєії0-9\s\.\,\-\(\)\ʼ]{2,100}$/`| 
 |`beneficiary_city`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
 |`beneficiary_postcode`|✗|`string`|`/^[\w\-\s]{1,64}$/`| 
 |`account_type`|✗|`string`|`/^[0-1]{1}$/`| 
-|`beneficiary_phone`|✗|`string`|`^(?=.{7,15}$)[\d +]+$`| 
+|`beneficiary_phone`|✗|`string`|`/^(?=.{7,15}$)[\d +]+$/`| 
  
 
 ### Details 
@@ -172,7 +172,7 @@
  
 	Type: `string` 
  
-	Regexp: `^(?:[0-9A-Z]{8}|[0-9A-Z]{11})$` 
+	Regexp: `/^(?:[0-9A-Z]{8}|[0-9A-Z]{11})$/` 
  
 	Required: `` 
  
@@ -190,7 +190,7 @@
  
 	Type: `string` 
  
-	Regexp: `^(.{2,6}|[A-Z]{2})$` 
+	Regexp: `/^(.{2,6}|[A-Z]{2})$/` 
  
 	Required: `` 
  
@@ -280,7 +280,7 @@
  
 	Type: `string` 
  
-	Regexp: `^(?=.{7,15}$)[\d +]+$` 
+	Regexp: `/^(?=.{7,15}$)[\d +]+$/` 
  
 	Required: `` 
  
@@ -432,7 +432,7 @@
         "ru":"Bic swift",
         "uk":"Bic swift"
       },
-      "regexp":"^(?:[0-9A-Z]{8}|[0-9A-Z]{11})$",
+      "regexp":"\/^(?:[0-9A-Z]{8}|[0-9A-Z]{11})$\/",
       "required":false,
       "position":8,
       "hint":{
@@ -445,7 +445,7 @@
     {
       "key":"beneficiary_country_code_iso",
       "type":"string",
-      "regexp":"^(.{2,6}|[A-Z]{2})$",
+      "regexp":"\/^(.{2,6}|[A-Z]{2})$\/",
       "required":false,
       "position":9,
       "label":{
@@ -530,7 +530,7 @@
     {
       "key":"beneficiary_phone",
       "type":"string",
-      "regexp":"^(?=.{7,15}$)[\\d +]+$",
+      "regexp":"\/^(?=.{7,15}$)[\\d +]+$\/",
       "required":false,
       "position":14,
       "label":{

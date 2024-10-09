@@ -41,6 +41,7 @@
 |![accion_mfb](https://static.openfintech.io/payout_methods/accion_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Accion MFB**](accion_mfb/)|`accion_mfb`| 
 |![ace-online](https://static.openfintech.io/payout_methods/ace-online/logo.png?w=400&c=v0.59.26#w24) |[**Ace Online**](ace-online/)|`ace-online`| 
 |![acleda_bank_cambodia](https://static.openfintech.io/payout_methods/acleda_bank_cambodia/logo.svg?w=400&c=v0.59.26#w24) |[**ACLEDA Bank**](acleda_bank_cambodia/)|`acleda_bank_cambodia`| 
+|![activ_kcell](https://static.openfintech.io/payout_methods/activ_kcell/logo.svg?w=400&c=v0.59.26#w24) |[**Kcell/Activ**](activ_kcell/)|`activ_kcell`| 
 |![adamant-telekom-domen-i-khosting](https://static.openfintech.io/payout_methods/adamant-telekom-domen-i-khosting/logo.png?w=400&c=v0.59.26#w24) |[**ADAMANT-TELECOM - Domain and Hosting**](adamant-telekom-domen-i-khosting/)|`adamant-telekom-domen-i-khosting`| 
 |![adamant-telekom-internet](https://static.openfintech.io/payout_methods/adamant-telekom-internet/logo.png?w=400&c=v0.59.26#w24) |[**ADAMANT-TELECOM - Internet**](adamant-telekom-internet/)|`adamant-telekom-internet`| 
 |![adamant-telekom-vps-i-kolokeishn](https://static.openfintech.io/payout_methods/adamant-telekom-vps-i-kolokeishn/logo.png?w=400&c=v0.59.26#w24) |[**ADAMANT-TELECOM - UPU and Collocation**](adamant-telekom-vps-i-kolokeishn/)|`adamant-telekom-vps-i-kolokeishn`| 
@@ -90,6 +91,7 @@
 |![allworkers_mfb](https://static.openfintech.io/payout_methods/allworkers_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Allworkers MFB**](allworkers_mfb/)|`allworkers_mfb`| 
 |![alpha_kapital_mfb](https://static.openfintech.io/payout_methods/alpha_kapital_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Alpha Kapital MFB**](alpha_kapital_mfb/)|`alpha_kapital_mfb`| 
 |![alrha-fox-fop-dovgun-irina-mikhailivna](https://static.openfintech.io/payout_methods/alrha-fox-fop-dovgun-irina-mikhailivna/logo.svg?w=400&c=v0.59.26#w24) |[**Alрha-fox ФОП Довгунь Ірина Михайлівна**](alrha-fox-fop-dovgun-irina-mikhailivna/)|`alrha-fox-fop-dovgun-irina-mikhailivna`| 
+|![altel_tele2](https://static.openfintech.io/payout_methods/altel_tele2/logo.svg?w=400&c=v0.59.26#w24) |[**Tele2/Altel**](altel_tele2/)|`altel_tele2`| 
 |![altyn_bank](https://static.openfintech.io/payout_methods/altyn_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Altyn Bank**](altyn_bank/)|`altyn_bank`| 
 |![amagasaki_shinkin_bank](https://static.openfintech.io/payout_methods/amagasaki_shinkin_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Amagasaki Shinkin Bank**](amagasaki_shinkin_bank/)|`amagasaki_shinkin_bank`| 
 |![amazon-gift-card-us-10](https://static.openfintech.io/payout_methods/amazon-gift-card-us-10/logo.png?w=400&c=v0.59.26#w24) |[**Amazon Gift Card (US) $ 10**](amazon-gift-card-us-10/)|`amazon-gift-card-us-10`| 

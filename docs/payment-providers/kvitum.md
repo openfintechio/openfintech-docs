@@ -55,6 +55,9 @@ The list of supported [Payout Methods](/payout-methods/)
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
 |![kvitum](https://static.openfintech.io/payout_methods/kvitum/icon.svg?w=278&c=v0.59.26#w40) |[kvitum](payout-methodskvitum/)|`kvitum`| 
+|![altel_tele2](https://static.openfintech.io/payout_methods/altel_tele2/icon.svg?w=278&c=v0.59.26#w40) |[altel_tele2](payout-methodsaltel_tele2/)|`altel_tele2`| 
+|![activ_kcell](https://static.openfintech.io/payout_methods/activ_kcell/icon.svg?w=278&c=v0.59.26#w40) |[activ_kcell](payout-methodsactiv_kcell/)|`activ_kcell`| 
+|![beeline](https://static.openfintech.io/payout_methods/beeline/icon.svg?w=278&c=v0.59.26#w40) |[beeline](payout-methodsbeeline/)|`beeline`| 
  
 
 ## JSON Object 
@@ -76,7 +79,10 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "payout_method":[
     "payment_card",
-    "kvitum"
+    "kvitum",
+    "altel_tele2",
+    "activ_kcell",
+    "beeline"
   ],
   "metadata":null,
   "name":{
