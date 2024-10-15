@@ -43,7 +43,7 @@
 |`beneficiary_lastname`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
 |`bank_code`|✗|`string`|`/^[0-9]{1,3}$/`| 
 |`account_type`|✗|`string`|`/^[A-Z]{1}$/`| 
-|`bank_account`|✗|`string`|`/^[0-9]{22}$/`| 
+|`bank_account`|✗|`string`|`/^[0-9]{1,30}$/`| 
  
 
 ### Details 
@@ -394,7 +394,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9]{22}$/` 
+	Regexp: `/^[0-9]{1,30}$/` 
  
 	Required: `` 
  
@@ -750,7 +750,7 @@
     {
       "key":"bank_account",
       "type":"string",
-      "regexp":"\/^[0-9]{22}$\/",
+      "regexp":"\/^[0-9]{1,30}$\/",
       "label":{
         "en":"Bank Account",
         "ru":"\u041d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430",
