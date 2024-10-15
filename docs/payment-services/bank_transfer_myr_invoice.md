@@ -1,15 +1,15 @@
 
 # Bank Transfer (service) 
-![bank_transfer_vnd_invoice](https://static.openfintech.io/payment_methods/bank_transfer_vnd_invoice/logo.svg?w=400&c=v0.59.26#w200)  
+![bank_transfer_myr_invoice](https://static.openfintech.io/payment_methods/bank_transfer_myr_invoice/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `bank_transfer_vnd_invoice` 
+**Code:** `bank_transfer_myr_invoice` 
  
 **Method:** `bank_transfer` 
  [show -->](/payment-methods/bank_transfer/) 
  
-**Currency:** `VND` [show -->](/currencies/VND/) 
+**Currency:** `MYR` [show -->](/currencies/MYR/) 
  
 **Name:** 
  
@@ -17,7 +17,7 @@
 :	[RU] Банковский перевод 
 :	[UK] Банківський переказ 
  
-**Amount limits:** from `1` to `9999999999` VND 
+**Amount limits:** from `0.01` to `999999` MYR 
 
 ## Fields 
 
@@ -53,10 +53,10 @@
 
 ```json
 {
-  "code":"bank_transfer_vnd_invoice",
+  "code":"bank_transfer_myr_invoice",
   "flow":"invoice",
   "method":"bank_transfer",
-  "currency":"VND",
+  "currency":"MYR",
   "fields":[
     {
       "key":"bank_code",
@@ -77,7 +77,7 @@
       "example":"050"
     }
   ],
-  "amount_min":1,
-  "amount_max":9999999999
+  "amount_min":0.01,
+  "amount_max":999999
 }
 ```  

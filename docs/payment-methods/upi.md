@@ -38,6 +38,9 @@ The list of [Payment Services](/payment-services/) based on the _UPI_
 |:---:|:---:|:---:| 
 |![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi_inr_hpp](/payment-services/upi_inr_hpp/)|`upi_inr_hpp`| 
 |![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi_inr_invoice](/payment-services/upi_inr_invoice/)|`upi_inr_invoice`| 
+|![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi_brl_invoice](/payment-services/upi_brl_invoice/)|`upi_brl_invoice`| 
+|![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi_myr_invoice](/payment-services/upi_myr_invoice/)|`upi_myr_invoice`| 
+|![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi_vnd_invoice](/payment-services/upi_vnd_invoice/)|`upi_vnd_invoice`| 
  
 
 ## Payment Providers 
@@ -62,6 +65,7 @@ The list of [Payment Providers](/payment-providers/) that support the _UPI_
 |![payport](https://static.openfintech.io/payment_providers/payport/icon.svg?w=278&c=v0.59.26#w100) |[PayPort](/payment-providers/payport/)|`payport`| 
 |![rumbapay](https://static.openfintech.io/payment_providers/rumbapay/icon.png?w=278&c=v0.59.26#w100) |[RumbaPay](/payment-providers/rumbapay/)|`rumbapay`| 
 |![paysafebd](https://static.openfintech.io/payment_providers/paysafebd/icon.png?w=278&c=v0.59.26#w100) |[Paysafebd](/payment-providers/paysafebd/)|`paysafebd`| 
+|![payfuture](https://static.openfintech.io/payment_providers/payfuture/icon.svg?w=278&c=v0.59.26#w100) |[Payfuture](/payment-providers/payfuture/)|`payfuture`| 
 |![airpay](https://static.openfintech.io/payment_providers/airpay/icon.svg?w=278&c=v0.59.26#w100) |[airpay](/payment-providers/airpay/)|`airpay`| 
 |![wealthpay](https://static.openfintech.io/payment_providers/wealthpay/icon.png?w=278&c=v0.59.26#w100) |[WealthPay](/payment-providers/wealthpay/)|`wealthpay`| 
 |![123pay](https://static.openfintech.io/payment_providers/123pay/icon.svg?w=278&c=v0.59.26#w100) |[OneTwoThreePay](/payment-providers/123pay/)|`123pay`| 

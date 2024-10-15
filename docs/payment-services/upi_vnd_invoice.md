@@ -1,15 +1,15 @@
 
 # UPI (service) 
-![upi_inr_invoice](https://static.openfintech.io/payment_methods/upi_inr_invoice/logo.svg?w=400&c=v0.59.26#w200)  
+![upi_vnd_invoice](https://static.openfintech.io/payment_methods/upi_vnd_invoice/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `upi_inr_invoice` 
+**Code:** `upi_vnd_invoice` 
  
 **Method:** `upi` 
  [show -->](/payment-methods/upi/) 
  
-**Currency:** `INR` [show -->](/currencies/INR/) 
+**Currency:** `VND` [show -->](/currencies/VND/) 
  
 **Name:** 
  
@@ -17,7 +17,7 @@
 :	[RU] UPI 
 :	[UK] UPI 
  
-**Amount limits:** from `0.01` to `1000000000` INR 
+**Amount limits:** from `1` to `9999999999` VND 
 
 ## Fields 
 
@@ -53,10 +53,10 @@
 
 ```json
 {
-  "code":"upi_inr_invoice",
+  "code":"upi_vnd_invoice",
   "flow":"invoice",
   "method":"upi",
-  "currency":"INR",
+  "currency":"VND",
   "fields":[
     {
       "key":"account",
@@ -77,7 +77,7 @@
       "example":"name@bankname"
     }
   ],
-  "amount_min":0.01,
-  "amount_max":1000000000
+  "amount_min":1,
+  "amount_max":9999999999
 }
 ```  

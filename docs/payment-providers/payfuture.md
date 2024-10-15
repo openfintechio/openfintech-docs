@@ -94,6 +94,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![lakshmi_vilas_bank_india](https://static.openfintech.io/payment_methods/lakshmi_vilas_bank_india/icon.png?w=278&c=v0.59.26#w100) |[lakshmi_vilas_bank_india](/payment-methods/lakshmi_vilas_bank_india/)|`lakshmi_vilas_bank_india`| 
 |![punjab_national_bank](https://static.openfintech.io/payment_methods/punjab_national_bank/icon.svg?w=278&c=v0.59.26#w100) |[punjab_national_bank](/payment-methods/punjab_national_bank/)|`punjab_national_bank`| 
 |![cimb_bank](https://static.openfintech.io/payment_methods/cimb_bank/icon.png?w=278&c=v0.59.26#w100) |[cimb_bank](/payment-methods/cimb_bank/)|`cimb_bank`| 
+|![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi](/payment-methods/upi/)|`upi`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
  
 
 ## JSON Object 
@@ -160,7 +162,9 @@ The list of supported [Payment Methods](/payment-methods/)
     "karurvysya_bank_india",
     "lakshmi_vilas_bank_india",
     "punjab_national_bank",
-    "cimb_bank"
+    "cimb_bank",
+    "upi",
+    "bank_transfer"
   ],
   "payout_method":null,
   "metadata":null,
