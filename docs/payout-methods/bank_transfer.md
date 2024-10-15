@@ -74,6 +74,21 @@ The list of [Payout Services](/payout-services/) based on the _Bank Transfer_
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_sek](/payout-services/bank_transfer_sek/)|`bank_transfer_sek`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_sar](/payout-services/bank_transfer_sar/)|`bank_transfer_sar`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_sgd](/payout-services/bank_transfer_sgd/)|`bank_transfer_sgd`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_ars](/payout-services/bank_transfer_ars/)|`bank_transfer_ars`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_bdt](/payout-services/bank_transfer_bdt/)|`bank_transfer_bdt`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_bob](/payout-services/bank_transfer_bob/)|`bank_transfer_bob`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_xaf](/payout-services/bank_transfer_xaf/)|`bank_transfer_xaf`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_cny](/payout-services/bank_transfer_cny/)|`bank_transfer_cny`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_crc](/payout-services/bank_transfer_crc/)|`bank_transfer_crc`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_xof](/payout-services/bank_transfer_xof/)|`bank_transfer_xof`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_dop](/payout-services/bank_transfer_dop/)|`bank_transfer_dop`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_svc](/payout-services/bank_transfer_svc/)|`bank_transfer_svc`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_gtq](/payout-services/bank_transfer_gtq/)|`bank_transfer_gtq`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_nio](/payout-services/bank_transfer_nio/)|`bank_transfer_nio`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_pyg](/payout-services/bank_transfer_pyg/)|`bank_transfer_pyg`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_ugx](/payout-services/bank_transfer_ugx/)|`bank_transfer_ugx`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_uyu](/payout-services/bank_transfer_uyu/)|`bank_transfer_uyu`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_ves](/payout-services/bank_transfer_ves/)|`bank_transfer_ves`| 
  
 
 ## Payment Providers 

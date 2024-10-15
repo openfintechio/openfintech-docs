@@ -421,6 +421,7 @@
 |![cyberlan-kharkivska](https://static.openfintech.io/payout_methods/cyberlan-kharkivska/logo.svg?w=400&c=v0.59.26#w24) |[**CYBERLAN (Харківська)**](cyberlan-kharkivska/)|`cyberlan-kharkivska`| 
 || **D** ||
 |![d-a-4-ok-net-kiev](https://static.openfintech.io/payout_methods/d-a-4-ok-net-kiev/logo.svg?w=400&c=v0.59.26#w24) |[**Д.А.4 ОК.Net (Киев)**](d-a-4-ok-net-kiev/)|`d-a-4-ok-net-kiev`| 
+|![d24_wallet](https://static.openfintech.io/payout_methods/d24_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**D24 Wallet**](d24_wallet/)|`d24_wallet`| 
 |![daegu_bank](https://static.openfintech.io/payout_methods/daegu_bank/logo.png?w=400&c=v0.59.26#w24) |[**DGB Daegu Bank**](daegu_bank/)|`daegu_bank`| 
 |![dai_coin](https://static.openfintech.io/payout_methods/dai_coin/logo.png?w=400&c=v0.59.26#w24) |[**Dai Coin**](dai_coin/)|`dai_coin`| 
 |![daisan_bank](https://static.openfintech.io/payout_methods/daisan_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Daisan Bank**](daisan_bank/)|`daisan_bank`| 

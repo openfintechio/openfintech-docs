@@ -32,8 +32,15 @@
 |`account_type`|✗|`string`|`/^[A-Za-z0-9]{1,10}$/`| 
 |`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
 |`beneficiary_country_code_iso`|✗|`string`|`/^.{2,6}$/`| 
-|`beneficiary_document_type`|✗|`string`|`/^[A-Za-z]{3,20}$/`| 
+|`beneficiary_document_type`|✗|`string`|`/^[A-Za-z]{2,20}$/`| 
 |`beneficiary_state`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
+|`beneficiary_phone`|✗|`string`|`/^\d{10,14}$/`| 
+|`beneficiary_dob`|✗|`string`|`/^([0-2][0-9]\|(3)[0-1])(\/)(((0)[0-9])\|((1)[0-2]))(\/)\d{4}\|\|((19\|20)\d{2}(0[1-9]\|1[0-2])(0[1-9]\|[12]\d\|3[01]))$/`| 
+|`beneficiary_city`|✗|`string`|`/^.{1,100}$/`| 
+|`beneficiary_postcode`|✗|`string`|`/^.{1,255}$/`| 
+|`beneficiary_address`|✗|`string`|`/^.{1,255}$/`| 
+|`bank_branch`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
+|`bank_account`|✗|`string`|`/^[0-9]{22}$/`| 
  
 
 ### Details 
@@ -186,7 +193,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-z]{3,20}$/` 
+	Regexp: `/^[A-Za-z]{2,20}$/` 
  
 	Required: `` 
  
@@ -217,6 +224,132 @@
 	: [EN] Enter beneficiary state 
 	: [RU] Введите beneficiary state 
 	: [UK] Введіть beneficiary state 
+ 
+11. **`beneficiary_phone`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^\d{10,14}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Phone number 
+	: [RU] Номер телефона 
+	: [UK] Номер телефону 
+ 
+	Hint:  
+	: [EN] Enter phone number 
+	: [RU] Введите номер телефона 
+	: [UK] Введіть номер телефону 
+ 
+12. **`beneficiary_dob`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^([0-2][0-9]|(3)[0-1])(\/)(((0)[0-9])|((1)[0-2]))(\/)\d{4}||((19|20)\d{2}(0[1-9]|1[0-2])(0[1-9]|[12]\d|3[01]))$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Date of birth 
+	: [RU] Дата рождения 
+	: [UK] Дата народження 
+ 
+	Hint:  
+	: [EN] Enter date of birth 
+	: [RU] Введите дату рождения 
+	: [UK] Введіть дату народження 
+ 
+13. **`beneficiary_city`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{1,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] City 
+	: [RU] City 
+	: [UK] City 
+ 
+	Hint:  
+	: [EN] Enter city 
+	: [RU] Enter city 
+	: [UK] Enter city 
+ 
+14. **`beneficiary_postcode`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{1,255}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Postcode 
+	: [RU] Postcode 
+	: [UK] Postcode 
+ 
+	Hint:  
+	: [EN] Enter postcode 
+	: [RU] Enter postcode 
+	: [UK] Enter postcode 
+ 
+15. **`beneficiary_address`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{1,255}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Address 
+	: [RU] Address 
+	: [UK] Address 
+ 
+	Hint:  
+	: [EN] Enter address 
+	: [RU] Enter address 
+	: [UK] Enter address 
+ 
+16. **`bank_branch`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z,0-9]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank Branch 
+	: [RU] Bank Branch 
+	: [UK] Bank Branch 
+ 
+	Hint:  
+	: [EN] Enter Bank Branch 
+	: [RU] Введите Bank Branch 
+	: [UK] Введіть Bank Branch 
+ 
+17. **`bank_account`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{22}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank Account 
+	: [RU] Номер банковского счета 
+	: [UK] Номер банківського рахунку 
+ 
+	Hint:  
+	: [EN] Enter bank account 
+	: [RU] Введите номер банковского счета 
+	: [UK] Введіть номер банківського рахунку 
  
 
 ## JSON Object 
@@ -367,7 +500,7 @@
     {
       "key":"beneficiary_document_type",
       "type":"string",
-      "regexp":"\/^[A-Za-z]{3,20}$\/",
+      "regexp":"\/^[A-Za-z]{2,20}$\/",
       "required":false,
       "position":9,
       "label":{
@@ -397,6 +530,130 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 beneficiary state",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c beneficiary state"
       }
+    },
+    {
+      "key":"beneficiary_phone",
+      "type":"string",
+      "label":{
+        "en":"Phone number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
+      },
+      "hint":{
+        "en":"Enter phone number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
+      },
+      "example":"6339152330011",
+      "regexp":"\/^\\d{10,14}$\/",
+      "required":false,
+      "position":11
+    },
+    {
+      "key":"beneficiary_dob",
+      "type":"string",
+      "regexp":"\/^([0-2][0-9]|(3)[0-1])(\\\/)(((0)[0-9])|((1)[0-2]))(\\\/)\\d{4}||((19|20)\\d{2}(0[1-9]|1[0-2])(0[1-9]|[12]\\d|3[01]))$\/",
+      "required":false,
+      "position":12,
+      "label":{
+        "en":"Date of birth",
+        "ru":"\u0414\u0430\u0442\u0430 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
+        "uk":"\u0414\u0430\u0442\u0430 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f"
+      },
+      "hint":{
+        "en":"Enter date of birth",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0434\u0430\u0442\u0443 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0434\u0430\u0442\u0443 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f"
+      },
+      "example":"10\/05\/1964"
+    },
+    {
+      "key":"beneficiary_city",
+      "type":"string",
+      "label":{
+        "en":"City",
+        "ru":"City",
+        "uk":"City"
+      },
+      "regexp":"\/^.{1,100}$\/",
+      "required":false,
+      "position":13,
+      "hint":{
+        "en":"Enter city",
+        "ru":"Enter city",
+        "uk":"Enter city"
+      },
+      "example":"London"
+    },
+    {
+      "key":"beneficiary_postcode",
+      "type":"string",
+      "label":{
+        "en":"Postcode",
+        "ru":"Postcode",
+        "uk":"Postcode"
+      },
+      "regexp":"\/^.{1,255}$\/",
+      "required":false,
+      "position":14,
+      "hint":{
+        "en":"Enter postcode",
+        "ru":"Enter postcode",
+        "uk":"Enter postcode"
+      },
+      "example":"postcode"
+    },
+    {
+      "key":"beneficiary_address",
+      "type":"string",
+      "label":{
+        "en":"Address",
+        "ru":"Address",
+        "uk":"Address"
+      },
+      "regexp":"\/^.{1,255}$\/",
+      "required":false,
+      "position":15,
+      "hint":{
+        "en":"Enter address",
+        "ru":"Enter address",
+        "uk":"Enter address"
+      },
+      "example":"Volodumurska 17"
+    },
+    {
+      "key":"bank_branch",
+      "type":"string",
+      "label":{
+        "en":"Bank Branch",
+        "ru":"Bank Branch",
+        "uk":"Bank Branch"
+      },
+      "hint":{
+        "en":"Enter Bank Branch",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Bank Branch",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Bank Branch"
+      },
+      "regexp":"\/^[A-Za-z,0-9]{2,100}$\/",
+      "required":false,
+      "position":16
+    },
+    {
+      "key":"bank_account",
+      "type":"string",
+      "regexp":"\/^[0-9]{22}$\/",
+      "label":{
+        "en":"Bank Account",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter bank account",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "position":17,
+      "required":false
     }
   ],
   "amount_min":"1",

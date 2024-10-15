@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`account_number`|✔|`string`|`/^[A-Z]{2}[A-Z0-9]{13,32}$\|^[0-9]{3,30}$/`| 
+|`account_number`|✗|`string`|`/^[A-Z]{2}[A-Z0-9]{13,32}$\|^[0-9]{3,30}$/`| 
 |`account_type`|✗|`string`|`/^[A-Za-z0-9]{1,10}$/`| 
 |`account_name`|✗|`string`|`/^[A-Za-z0-9\s]{2,100}$/`| 
 |`bank_branch`|✗|`string`|`/^[A-za-z,0-9\s]{2,100}$/`| 
@@ -45,6 +45,7 @@
 |`bank_branch_code`|✗|`string`|`/^[0-9]{2,100}$/`| 
 |`bank_city`|✗|`string`|`/^[A-Za-z]{2,100}$/`| 
 |`bank_province`|✗|`string`|`/^[A-Za-z]{2,100}$/`| 
+|`bank_account`|✗|`string`|`/^[0-9]{22}$/`| 
  
 
 ### Details 
@@ -55,7 +56,7 @@
  
 	Regexp: `/^[A-Z]{2}[A-Z0-9]{13,32}$|^[0-9]{3,30}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Account number 
@@ -427,6 +428,24 @@
 	: [RU] Enter bank province 
 	: [UK] Enter bank province 
  
+22. **`bank_account`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{22}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank Account 
+	: [RU] Номер банковского счета 
+	: [UK] Номер банківського рахунку 
+ 
+	Hint:  
+	: [EN] Enter bank account 
+	: [RU] Введите номер банковского счета 
+	: [UK] Введіть номер банківського рахунку 
+ 
 
 ## JSON Object 
 
@@ -445,7 +464,7 @@
         "uk":"\u041d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
       },
       "regexp":"\/^[A-Z]{2}[A-Z0-9]{13,32}$|^[0-9]{3,30}$\/",
-      "required":true,
+      "required":false,
       "position":1,
       "hint":{
         "en":"Enter account number or IBAN",
@@ -794,6 +813,23 @@
         "ru":"Enter bank province",
         "uk":"Enter bank province"
       }
+    },
+    {
+      "key":"bank_account",
+      "type":"string",
+      "regexp":"\/^[0-9]{22}$\/",
+      "label":{
+        "en":"Bank Account",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter bank account",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "position":21,
+      "required":false
     }
   ],
   "amount_min":"1",

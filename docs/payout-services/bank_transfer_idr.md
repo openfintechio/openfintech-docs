@@ -34,7 +34,7 @@
 |`beneficiary_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\s]{2,100}$/`| 
 |`beneficiary_lastname`|✗|`string`|`/^[A-Za-zА-Яа-я\-\s]{2,100}$/`| 
 |`beneficiary_document_id`|✗|`string`|`/^[A-Z0-9]{3,20}$/`| 
-|`beneficiary_document_type`|✗|`string`|`/^[A-Za-z]{3,20}$/`| 
+|`beneficiary_document_type`|✗|`string`|`/^[A-Za-z]{2,20}$/`| 
 |`beneficiary_country_code_iso`|✗|`string`|`/^.{2,6}$/`| 
 |`beneficiary_city`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
 |`beneficiary_postcode`|✗|`string`|`/^[\w\-\s]{1,64}$/`| 
@@ -45,6 +45,8 @@
 |`beneficiary_email`|✔|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
 |`sender_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
 |`bank_branch_code`|✗|`string`|`/^[0-9]{2,100}$/`| 
+|`beneficiary_dob`|✗|`string`|`/^([0-2][0-9]\|(3)[0-1])(\/)(((0)[0-9])\|((1)[0-2]))(\/)\d{4}\|\|((19\|20)\d{2}(0[1-9]\|1[0-2])(0[1-9]\|[12]\d\|3[01]))$/`| 
+|`bank_account`|✗|`string`|`/^[0-9]{22}$/`| 
  
 
 ### Details 
@@ -233,7 +235,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-z]{3,20}$/` 
+	Regexp: `/^[A-Za-z]{2,20}$/` 
  
 	Required: `` 
  
@@ -427,6 +429,42 @@
 	: [RU] Введите Bank Branch Code 
 	: [UK] Введіть Bank Branch Code 
  
+22. **`beneficiary_dob`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^([0-2][0-9]|(3)[0-1])(\/)(((0)[0-9])|((1)[0-2]))(\/)\d{4}||((19|20)\d{2}(0[1-9]|1[0-2])(0[1-9]|[12]\d|3[01]))$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Date of birth 
+	: [RU] Дата рождения 
+	: [UK] Дата народження 
+ 
+	Hint:  
+	: [EN] Enter date of birth 
+	: [RU] Введите дату рождения 
+	: [UK] Введіть дату народження 
+ 
+23. **`bank_account`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{22}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank Account 
+	: [RU] Номер банковского счета 
+	: [UK] Номер банківського рахунку 
+ 
+	Hint:  
+	: [EN] Enter bank account 
+	: [RU] Введите номер банковского счета 
+	: [UK] Введіть номер банківського рахунку 
+ 
 
 ## JSON Object 
 
@@ -610,7 +648,7 @@
     {
       "key":"beneficiary_document_type",
       "type":"string",
-      "regexp":"\/^[A-Za-z]{3,20}$\/",
+      "regexp":"\/^[A-Za-z]{2,20}$\/",
       "required":false,
       "position":11,
       "label":{
@@ -796,6 +834,41 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Bank Branch Code"
       },
       "example":"626"
+    },
+    {
+      "key":"beneficiary_dob",
+      "type":"string",
+      "regexp":"\/^([0-2][0-9]|(3)[0-1])(\\\/)(((0)[0-9])|((1)[0-2]))(\\\/)\\d{4}||((19|20)\\d{2}(0[1-9]|1[0-2])(0[1-9]|[12]\\d|3[01]))$\/",
+      "required":false,
+      "position":20,
+      "label":{
+        "en":"Date of birth",
+        "ru":"\u0414\u0430\u0442\u0430 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
+        "uk":"\u0414\u0430\u0442\u0430 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f"
+      },
+      "hint":{
+        "en":"Enter date of birth",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0434\u0430\u0442\u0443 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0434\u0430\u0442\u0443 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f"
+      },
+      "example":"10\/05\/1964"
+    },
+    {
+      "key":"bank_account",
+      "type":"string",
+      "regexp":"\/^[0-9]{22}$\/",
+      "label":{
+        "en":"Bank Account",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter bank account",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "position":21,
+      "required":false
     }
   ],
   "amount_min":"0.01",

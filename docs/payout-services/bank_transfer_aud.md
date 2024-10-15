@@ -24,8 +24,8 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`bank_branch_code`|✔|`string`|`/^\d{1,20}$/`| 
-|`account_number`|✔|`string`|`/^\d{1,20}$/`| 
+|`bank_branch_code`|✗|`string`|`/^\d{1,20}$/`| 
+|`account_number`|✗|`string`|`/^\d{1,20}$/`| 
 |`account_type`|✗|`string`|`/^[A-Za-z0-9]{1,10}$/`| 
 |`beneficiary_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\s]{2,100}$/`| 
 |`beneficiary_lastname`|✗|`string`|`/^[A-Za-zА-Яа-я\-\s]{2,100}$/`| 
@@ -38,6 +38,9 @@
 |`beneficiary_postcode`|✗|`string`|`/^[\w\-\s]{1,64}$/`| 
 |`beneficiary_state`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
 |`beneficiary_address`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
+|`beneficiary_document_type`|✗|`string`|`/^[A-Za-z]{2,20}$/`| 
+|`bank_code`|✗|`string`|`/^[0-9]{1,3}$/`| 
+|`bank_account`|✗|`string`|`/^[0-9]{22}$/`| 
  
 
 ### Details 
@@ -48,7 +51,7 @@
  
 	Regexp: `/^\d{1,20}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Branch code 
@@ -66,7 +69,7 @@
  
 	Regexp: `/^\d{1,20}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Account number 
@@ -294,6 +297,60 @@
 	: [RU] Введите beneficiary country code 
 	: [UK] Введіть beneficiary country code 
  
+15. **`beneficiary_document_type`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z]{2,20}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary Document Type 
+	: [RU] Тип документа получателя 
+	: [UK] Тип документу отримувача 
+ 
+	Hint:  
+	: [EN] Enter Beneficiary Document Type 
+	: [RU] Введите тип документа получателя 
+	: [UK] Введіть тип документу отримувача 
+ 
+16. **`bank_code`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{1,3}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank Code 
+	: [RU] Код банка 
+	: [UK] Код банку 
+ 
+	Hint:  
+	: [EN] Enter bank code 
+	: [RU] Введите код банка 
+	: [UK] Введіть код банку 
+ 
+17. **`bank_account`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{22}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank Account 
+	: [RU] Номер банковского счета 
+	: [UK] Номер банківського рахунку 
+ 
+	Hint:  
+	: [EN] Enter bank account 
+	: [RU] Введите номер банковского счета 
+	: [UK] Введіть номер банківського рахунку 
+ 
 
 ## JSON Object 
 
@@ -307,7 +364,7 @@
       "key":"bank_branch_code",
       "type":"string",
       "regexp":"\/^\\d{1,20}$\/",
-      "required":true,
+      "required":false,
       "position":1,
       "label":{
         "en":"Branch code",
@@ -325,7 +382,7 @@
       "key":"account_number",
       "type":"string",
       "regexp":"\/^\\d{1,20}$\/",
-      "required":true,
+      "required":false,
       "position":2,
       "label":{
         "en":"Account number",
@@ -545,6 +602,57 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 beneficiary country code",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c beneficiary country code"
       }
+    },
+    {
+      "key":"beneficiary_document_type",
+      "type":"string",
+      "regexp":"\/^[A-Za-z]{2,20}$\/",
+      "required":false,
+      "position":15,
+      "label":{
+        "en":"Beneficiary Document Type",
+        "ru":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter Beneficiary Document Type",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      }
+    },
+    {
+      "key":"bank_code",
+      "type":"string",
+      "regexp":"\/^[0-9]{1,3}$\/",
+      "label":{
+        "en":"Bank Code",
+        "ru":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter bank code",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443"
+      },
+      "required":false,
+      "position":16
+    },
+    {
+      "key":"bank_account",
+      "type":"string",
+      "regexp":"\/^[0-9]{22}$\/",
+      "label":{
+        "en":"Bank Account",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter bank account",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "position":17,
+      "required":false
     }
   ],
   "amount_min":"0.01",
