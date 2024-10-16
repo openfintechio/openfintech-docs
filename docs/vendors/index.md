@@ -860,6 +860,7 @@
 |![gate2play](https://static.openfintech.io/vendors/gate2play/logo.png?w=600&c=v0.59.26#w200) |[**Gate2Play**](gate2play/)|`gate2play`| 
 |![gateexpress](https://static.openfintech.io/vendors/gateexpress/logo.svg?w=600&c=v0.59.26#w200) |[**Gate.Express**](gateexpress/)|`gateexpress`| 
 |![gatetwoway](https://static.openfintech.io/vendors/gatetwoway/logo.svg?w=600&c=v0.59.26#w200) |[**Gate2way**](gatetwoway/)|`gatetwoway`| 
+|![gatewaypay](https://static.openfintech.io/vendors/gatewaypay/logo.png?w=600&c=v0.59.26#w200) |[**GatewayPay**](gatewaypay/)|`gatewaypay`| 
 |![gazprombank](https://static.openfintech.io/vendors/gazprombank/logo.svg?w=600&c=v0.59.26#w200) |[**Газпромбанк**](gazprombank/)|`gazprombank`| 
 |![gcash](https://static.openfintech.io/vendors/gcash/logo.png?w=600&c=v0.59.26#w200) |[**GCash**](gcash/)|`gcash`| 
 |![gcashwallet](https://static.openfintech.io/vendors/gcashwallet/logo.png?w=600&c=v0.59.26#w200) |[**GCASH**](gcashwallet/)|`gcashwallet`| 
@@ -2160,6 +2161,7 @@
 |![ultrachange24](https://static.openfintech.io/vendors/ultrachange24/logo.svg?w=600&c=v0.59.26#w200) |[**UltraChange24**](ultrachange24/)|`ultrachange24`| 
 |![ultragold.org](https://static.openfintech.io/vendors/ultragold.org/logo.svg?w=600&c=v0.59.26#w200) |[**ultragold.org**](ultragold.org/)|`ultragold.org`| 
 |![unichange.me](https://static.openfintech.io/vendors/unichange.me/logo.svg?w=600&c=v0.59.26#w200) |[**UniChange**](unichange.me/)|`unichange.me`| 
+|![unicorn_group](https://static.openfintech.io/vendors/unicorn_group/logo.png?w=600&c=v0.59.26#w200) |[**Unicorn Group**](unicorn_group/)|`unicorn_group`| 
 |![unicredit](https://static.openfintech.io/vendors/unicredit/logo.png?w=600&c=v0.59.26#w200) |[**UniCredit**](unicredit/)|`unicredit`| 
 |![uniex.co](https://static.openfintech.io/vendors/uniex.co/logo.svg?w=600&c=v0.59.26#w200) |[**uniex.co**](uniex.co/)|`uniex.co`| 
 |![unifiedfinance](https://static.openfintech.io/vendors/unifiedfinance/logo.svg?w=600&c=v0.59.26#w200) |[**Unified Finance**](unifiedfinance/)|`unifiedfinance`| 

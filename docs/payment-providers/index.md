@@ -370,6 +370,7 @@
 |![gate2play](https://static.openfintech.io/payment_providers/gate2play/logo.png?w=600&c=v0.59.26#w100) |[**Gate2Play**](gate2play/)|`gate2play`| 
 |![gateexpress](https://static.openfintech.io/payment_providers/gateexpress/logo.svg?w=600&c=v0.59.26#w100) |[**Gate.Express**](gateexpress/)|`gateexpress`| 
 |![gatetwoway](https://static.openfintech.io/payment_providers/gatetwoway/logo.svg?w=600&c=v0.59.26#w100) |[**Gate2way**](gatetwoway/)|`gatetwoway`| 
+|![gatewaypay](https://static.openfintech.io/payment_providers/gatewaypay/logo.png?w=600&c=v0.59.26#w100) |[**GatewayPay**](gatewaypay/)|`gatewaypay`| 
 |![genome](https://static.openfintech.io/payment_providers/genome/logo.svg?w=600&c=v0.59.26#w100) |[**Genome**](genome/)|`genome`| 
 |![geopaynet](https://static.openfintech.io/payment_providers/geopaynet/logo.svg?w=600&c=v0.59.26#w100) |[**GEO Pay**](geopaynet/)|`geopaynet`| 
 |![gestpay](https://static.openfintech.io/payment_providers/gestpay/logo.png?w=600&c=v0.59.26#w100) |[**GestPay**](gestpay/)|`gestpay`| 
@@ -961,6 +962,7 @@
 |![ubankconnect](https://static.openfintech.io/payment_providers/ubankconnect/logo.svg?w=600&c=v0.59.26#w100) |[**UBank Connect**](ubankconnect/)|`ubankconnect`| 
 |![ugspaycom](https://static.openfintech.io/payment_providers/ugspaycom/logo.png?w=600&c=v0.59.26#w100) |[**UGSPay**](ugspaycom/)|`ugspaycom`| 
 |![ukrgasbank](https://static.openfintech.io/payment_providers/ukrgasbank/logo.png?w=600&c=v0.59.26#w100) |[**UkrGasBank**](ukrgasbank/)|`ukrgasbank`| 
+|![unicorn_group](https://static.openfintech.io/payment_providers/unicorn_group/logo.png?w=600&c=v0.59.26#w100) |[**Unicorn Group**](unicorn_group/)|`unicorn_group`| 
 |![unifiedfinance](https://static.openfintech.io/payment_providers/unifiedfinance/logo.svg?w=600&c=v0.59.26#w100) |[**Unified Finance**](unifiedfinance/)|`unifiedfinance`| 
 |![uniongate](https://static.openfintech.io/payment_providers/uniongate/logo.png?w=600&c=v0.59.26#w100) |[**UnionGate**](uniongate/)|`uniongate`| 
 |![uniteller](https://static.openfintech.io/payment_providers/uniteller/logo.png?w=600&c=v0.59.26#w100) |[**Uniteller**](uniteller/)|`uniteller`| 
