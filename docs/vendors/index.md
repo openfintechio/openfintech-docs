@@ -2161,7 +2161,7 @@
 |![ultrachange24](https://static.openfintech.io/vendors/ultrachange24/logo.svg?w=600&c=v0.59.26#w200) |[**UltraChange24**](ultrachange24/)|`ultrachange24`| 
 |![ultragold.org](https://static.openfintech.io/vendors/ultragold.org/logo.svg?w=600&c=v0.59.26#w200) |[**ultragold.org**](ultragold.org/)|`ultragold.org`| 
 |![unichange.me](https://static.openfintech.io/vendors/unichange.me/logo.svg?w=600&c=v0.59.26#w200) |[**UniChange**](unichange.me/)|`unichange.me`| 
-|![unicorn_group](https://static.openfintech.io/vendors/unicorn_group/logo.png?w=600&c=v0.59.26#w200) |[**Unicorn Group**](unicorn_group/)|`unicorn_group`| 
+|![unicorngroup](https://static.openfintech.io/vendors/unicorngroup/logo.png?w=600&c=v0.59.26#w200) |[**Unicorn Group**](unicorngroup/)|`unicorngroup`| 
 |![unicredit](https://static.openfintech.io/vendors/unicredit/logo.png?w=600&c=v0.59.26#w200) |[**UniCredit**](unicredit/)|`unicredit`| 
 |![uniex.co](https://static.openfintech.io/vendors/uniex.co/logo.svg?w=600&c=v0.59.26#w200) |[**uniex.co**](uniex.co/)|`uniex.co`| 
 |![unifiedfinance](https://static.openfintech.io/vendors/unifiedfinance/logo.svg?w=600&c=v0.59.26#w200) |[**Unified Finance**](unifiedfinance/)|`unifiedfinance`| 

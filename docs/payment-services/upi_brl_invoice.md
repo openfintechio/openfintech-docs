@@ -25,10 +25,9 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`account`|✗|`string`|`/^.{1,50}$/`| 
-|`bank_code`|✗|`string`|`/^.{1,100}$/`| 
-|`document_id`|✗|`string`|`/^.{1,100}$/`| 
-|`document_type`|✗|`string`|`/^.{1,100}$/`| 
+|`account`|✗|`string`|`/^.{1,128}$/`| 
+|`document_type`|✗|`string`|`/^[A-Z]{2,3}$/`| 
+|`document_id`|✗|`string`|`/^[a-zA-Z0-9]{8,16}$/`| 
  
 
 ### Details 
@@ -37,73 +36,55 @@
  
 	Type: `string` 
  
-	Regexp: `/^.{1,50}$/` 
+	Regexp: `/^.{1,128}$/` 
  
 	Required: `` 
  
 	Label:  
-	: [EN] Client account number 
-	: [RU] Номер клиентского счета 
-	: [UK] Номер рахунку клієнта 
+	: [EN] Account Number 
+	: [RU] Номер счета 
+	: [UK] Номер рахунку 
  
 	Hint:  
-	: [EN] Enter client account number 
-	: [RU] Введите номер клиентского счета 
-	: [UK] Введіть номер рахунку клієнта 
+	: [EN] Enter Account Number 
+	: [RU] Введите номер счета 
+	: [UK] Введіть номер рахунку 
  
-2. **`bank_code`** 
+2. **`document_type`** 
  
 	Type: `string` 
  
-	Regexp: `/^.{1,100}$/` 
+	Regexp: `/^[A-Z]{2,3}$/` 
  
 	Required: `` 
  
 	Label:  
-	: [EN] Bank code 
-	: [RU] Код банка 
-	: [UK] Код банку 
+	: [EN] Document Type 
+	: [RU] Тип документа 
+	: [UK] Тип документу 
  
 	Hint:  
-	: [EN] Enter bank code 
-	: [RU] Введите код банка 
-	: [UK] Введіть код банку 
+	: [EN] Enter Document Type (ID, DL, UID) 
+	: [RU] Введите тип документа (ID, DL, UID) 
+	: [UK] Введіть тип документу (ID, DL, UID) 
  
 3. **`document_id`** 
  
 	Type: `string` 
  
-	Regexp: `/^.{1,100}$/` 
+	Regexp: `/^[a-zA-Z0-9]{8,16}$/` 
  
 	Required: `` 
  
 	Label:  
-	: [EN] Client document id 
-	: [RU] Id клиентского документа 
-	: [UK] Id документу клієнта 
+	: [EN] Payer personal identification number 
+	: [RU] Номер документа плательщика 
+	: [UK] Номер документа платника 
  
 	Hint:  
-	: [EN] Enter document id 
-	: [RU] Введите id документа 
-	: [UK] Введіть id документу 
- 
-4. **`document_type`** 
- 
-	Type: `string` 
- 
-	Regexp: `/^.{1,100}$/` 
- 
-	Required: `` 
- 
-	Label:  
-	: [EN] Client document type 
-	: [RU] Тип клиентского документа 
-	: [UK] Тип документу клієнта 
- 
-	Hint:  
-	: [EN] Enter document type 
-	: [RU] Введите тип документа 
-	: [UK] Введіть тип документу 
+	: [EN] Enter payer personal identification number 
+	: [RU] Введите номер документа плательщика 
+	: [UK] Введіть номер документа платника 
  
 
 ## JSON Object 
@@ -118,74 +99,54 @@
     {
       "key":"account",
       "type":"string",
-      "regexp":"\/^.{1,50}$\/",
+      "regexp":"\/^.{1,128}$\/",
       "required":false,
       "position":1,
       "label":{
-        "en":"Client account number",
-        "ru":"\u041d\u043e\u043c\u0435\u0440 \u043a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430",
-        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 \u043a\u043b\u0456\u0454\u043d\u0442\u0430"
+        "en":"Account Number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
       },
       "hint":{
-        "en":"Enter client account number",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u043a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 \u043a\u043b\u0456\u0454\u043d\u0442\u0430"
+        "en":"Enter Account Number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
       },
-      "example":"1100382992"
-    },
-    {
-      "key":"bank_code",
-      "type":"string",
-      "label":{
-        "en":"Bank code",
-        "ru":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
-        "uk":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443"
-      },
-      "regexp":"\/^.{1,100}$\/",
-      "required":false,
-      "position":2,
-      "hint":{
-        "en":"Enter bank code",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443"
-      },
-      "example":"050"
-    },
-    {
-      "key":"document_id",
-      "type":"string",
-      "label":{
-        "en":"Client document id",
-        "ru":"Id \u043a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u043e\u0433\u043e \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
-        "uk":"Id \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443 \u043a\u043b\u0456\u0454\u043d\u0442\u0430"
-      },
-      "regexp":"\/^.{1,100}$\/",
-      "required":false,
-      "position":3,
-      "hint":{
-        "en":"Enter document id",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 id \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c id \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
-      },
-      "example":"50284414727"
+      "example":"name@bankname"
     },
     {
       "key":"document_type",
       "type":"string",
-      "label":{
-        "en":"Client document type",
-        "ru":"\u0422\u0438\u043f \u043a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u043e\u0433\u043e \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
-        "uk":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443 \u043a\u043b\u0456\u0454\u043d\u0442\u0430"
-      },
-      "regexp":"\/^.{1,100}$\/",
+      "regexp":"\/^[A-Z]{2,3}$\/",
       "required":false,
-      "position":4,
-      "hint":{
-        "en":"Enter document type",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
+      "position":2,
+      "label":{
+        "en":"Document Type",
+        "ru":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
+        "uk":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
       },
-      "example":"CPF"
+      "hint":{
+        "en":"Enter Document Type (ID, DL, UID)",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 (ID, DL, UID)",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443 (ID, DL, UID)"
+      }
+    },
+    {
+      "key":"document_id",
+      "type":"string",
+      "regexp":"\/^[a-zA-Z0-9]{8,16}$\/",
+      "required":false,
+      "position":3,
+      "label":{
+        "en":"Payer personal identification number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043b\u0430\u0442\u0435\u043b\u044c\u0449\u0438\u043a\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
+      },
+      "hint":{
+        "en":"Enter payer personal identification number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043b\u0430\u0442\u0435\u043b\u044c\u0449\u0438\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
+      }
     }
   ],
   "amount_min":0.01,
