@@ -14,7 +14,7 @@
  
 :	[EN] Mobile 
  
-**Amount limits:** from `10` to `14000` RUB 
+**Amount limits:** from `1` to `500000` RUB 
 
 ## Fields 
 
@@ -73,7 +73,7 @@
       "position":1
     }
   ],
-  "amount_min":"10",
-  "amount_max":"14000"
+  "amount_min":"1",
+  "amount_max":"500000"
 }
 ```  
