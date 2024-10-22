@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`account_number`|✔|`string`|`/^\d{20}$/`| 
+|`account_number`|✔|`string`|`/^\d{16,20}$/`| 
  
 
 ### Details 
@@ -33,7 +33,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^\d{20}$/` 
+	Regexp: `/^\d{16,20}$/` 
  
 	Required: `1` 
  
@@ -59,7 +59,7 @@
     {
       "key":"account_number",
       "type":"string",
-      "regexp":"\/^\\d{20}$\/",
+      "regexp":"\/^\\d{16,20}$\/",
       "required":true,
       "position":1,
       "label":{
