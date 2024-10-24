@@ -48,6 +48,7 @@ The list of [Payment Providers](/payment-providers/) that support the _MoMoPay_
 |![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
 |![ubankconnect](https://static.openfintech.io/payment_providers/ubankconnect/icon.svg?w=278&c=v0.59.26#w100) |[UBank Connect](/payment-providers/ubankconnect/)|`ubankconnect`| 
 |![wealthpay](https://static.openfintech.io/payment_providers/wealthpay/icon.png?w=278&c=v0.59.26#w100) |[WealthPay](/payment-providers/wealthpay/)|`wealthpay`| 
+|![wangupay](https://static.openfintech.io/payment_providers/wangupay/icon.png?w=278&c=v0.59.26#w100) |[WanguPay](/payment-providers/wangupay/)|`wangupay`| 
  
 
 ## JSON Object 

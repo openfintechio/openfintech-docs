@@ -2266,6 +2266,7 @@
 |![walletonecheckout](https://static.openfintech.io/vendors/walletonecheckout/logo.png?w=600&c=v0.59.26#w200) |[**Wallet One**](walletonecheckout/)|`walletonecheckout`| 
 |![walletto](https://static.openfintech.io/vendors/walletto/logo.svg?w=600&c=v0.59.26#w200) |[**Walletto**](walletto/)|`walletto`| 
 |![walpay](https://static.openfintech.io/vendors/walpay/logo.png?w=600&c=v0.59.26#w200) |[**WalPay**](walpay/)|`walpay`| 
+|![wangupay](https://static.openfintech.io/vendors/wangupay/logo.png?w=600&c=v0.59.26#w200) |[**WanguPay**](wangupay/)|`wangupay`| 
 |![wayforpay](https://static.openfintech.io/vendors/wayforpay/logo.png?w=600&c=v0.59.26#w200) |[**Wayforpay**](wayforpay/)|`wayforpay`| 
 |![wbpayment](https://static.openfintech.io/vendors/wbpayment/logo.svg?w=600&c=v0.59.26#w200) |[**WB Payment**](wbpayment/)|`wbpayment`| 
 |![wealthpay](https://static.openfintech.io/vendors/wealthpay/logo.png?w=600&c=v0.59.26#w200) |[**WealthPay**](wealthpay/)|`wealthpay`| 
