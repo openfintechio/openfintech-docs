@@ -25,8 +25,8 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`first_name`|✔|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
-|`last_name`|✔|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
+|`first_name`|✔|`string`|`/^.{2,100}$/`| 
+|`last_name`|✔|`string`|`/^.{2,100}$/`| 
 |`phone`|✔|`string`|`/^\+\d{10,14}$/`| 
 |`email`|✔|`string`|`/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$$/`| 
  
@@ -37,7 +37,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z\-\sa-z]{2,100}$/` 
+	Regexp: `/^.{2,100}$/` 
  
 	Required: `1` 
  
@@ -55,7 +55,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z\-\sa-z]{2,100}$/` 
+	Regexp: `/^.{2,100}$/` 
  
 	Required: `1` 
  
@@ -118,7 +118,7 @@
     {
       "key":"first_name",
       "type":"string",
-      "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
+      "regexp":"\/^.{2,100}$\/",
       "required":true,
       "position":1,
       "label":{
@@ -136,7 +136,7 @@
     {
       "key":"last_name",
       "type":"string",
-      "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
+      "regexp":"\/^.{2,100}$\/",
       "required":true,
       "position":2,
       "label":{
