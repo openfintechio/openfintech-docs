@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Multibanco_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![multibanco](https://static.openfintech.io/payment_methods/multibanco/icon.png?w=278&c=v0.59.26#w100) |[multibanco_eur_hpp](/payment-services/multibanco_eur_hpp/)|`multibanco_eur_hpp`| 
+|![multibanco](https://static.openfintech.io/payment_methods/multibanco/icon.png?w=278&c=v0.59.26#w100) |[multibanco_eur_invoice](/payment-services/multibanco_eur_invoice/)|`multibanco_eur_invoice`| 
  
 
 ## Payment Providers 

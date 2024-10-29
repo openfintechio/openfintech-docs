@@ -869,6 +869,7 @@
 |![setcompaymentsolutions](https://static.openfintech.io/payment_providers/setcompaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Setcom Payment Solutions**](setcompaymentsolutions/)|`setcompaymentsolutions`| 
 |![settlespot](https://static.openfintech.io/payment_providers/settlespot/logo.png?w=600&c=v0.59.26#w100) |[**SettleSpot**](settlespot/)|`settlespot`| 
 |![sgate](https://static.openfintech.io/payment_providers/sgate/logo.svg?w=600&c=v0.59.26#w100) |[**Sgate**](sgate/)|`sgate`| 
+|![shift4](https://static.openfintech.io/payment_providers/shift4/logo.svg?w=600&c=v0.59.26#w100) |[**Shift4**](shift4/)|`shift4`| 
 |![sidpayment](https://static.openfintech.io/payment_providers/sidpayment/logo.png?w=600&c=v0.59.26#w100) |[**SID Instant EFT**](sidpayment/)|`sidpayment`| 
 |![simplepay](https://static.openfintech.io/payment_providers/simplepay/logo.png?w=600&c=v0.59.26#w100) |[**SimplePay**](simplepay/)|`simplepay`| 
 |![simplifycommerce](https://static.openfintech.io/payment_providers/simplifycommerce/logo.png?w=600&c=v0.59.26#w100) |[**Simplify Commerce**](simplifycommerce/)|`simplifycommerce`| 
@@ -1025,6 +1026,7 @@
 |![wirecard](https://static.openfintech.io/payment_providers/wirecard/logo.svg?w=600&c=v0.59.26#w100) |[**Wirecard**](wirecard/)|`wirecard`| 
 |![wlandpay](https://static.openfintech.io/payment_providers/wlandpay/logo.png?w=600&c=v0.59.26#w100) |[**Wlandpay**](wlandpay/)|`wlandpay`| 
 |![worldpay](https://static.openfintech.io/payment_providers/worldpay/logo.svg?w=600&c=v0.59.26#w100) |[**Worldpay**](worldpay/)|`worldpay`| 
+|![wpay](https://static.openfintech.io/payment_providers/wpay/logo.png?w=600&c=v0.59.26#w100) |[**W PAY**](wpay/)|`wpay`| 
 |![wpayments](https://static.openfintech.io/payment_providers/wpayments/logo.png?w=600&c=v0.59.26#w100) |[**WPayments**](wpayments/)|`wpayments`| 
 |![wzrdpay](https://static.openfintech.io/payment_providers/wzrdpay/logo.png?w=600&c=v0.59.26#w100) |[**WZRD PAY**](wzrdpay/)|`wzrdpay`| 
 || **X** ||

@@ -1933,6 +1933,7 @@
 |![sev_f_pat_kbprivatbank_m_sevastopol](https://static.openfintech.io/vendors/sev_f_pat_kbprivatbank_m_sevastopol/logo.svg?w=600&c=v0.59.26#w200) |[**СЕВАСТОПОЛЬСЬКА ФІЛІЯ ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](sev_f_pat_kbprivatbank_m_sevastopol/)|`sev_f_pat_kbprivatbank_m_sevastopol`| 
 |![seven_bank](https://static.openfintech.io/vendors/seven_bank/logo.svg?w=600&c=v0.59.26#w200) |[**SEVEN BANK**](seven_bank/)|`seven_bank`| 
 |![sgate](https://static.openfintech.io/vendors/sgate/logo.svg?w=600&c=v0.59.26#w200) |[**Sgate**](sgate/)|`sgate`| 
+|![shift4](https://static.openfintech.io/vendors/shift4/logo.svg?w=600&c=v0.59.26#w200) |[**Shift4**](shift4/)|`shift4`| 
 |![shiga_bank](https://static.openfintech.io/vendors/shiga_bank/logo.svg?w=600&c=v0.59.26#w200) |[**THE SHIGA BANK**](shiga_bank/)|`shiga_bank`| 
 |![shikoku_bank](https://static.openfintech.io/vendors/shikoku_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Shikoku Bank**](shikoku_bank/)|`shikoku_bank`| 
 |![shimane_bank](https://static.openfintech.io/vendors/shimane_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Shimane Bank**](shimane_bank/)|`shimane_bank`| 
@@ -2319,6 +2320,7 @@
 |![worldchange.ru](https://static.openfintech.io/vendors/worldchange.ru/logo.svg?w=600&c=v0.59.26#w200) |[**WorldChange**](worldchange.ru/)|`worldchange.ru`| 
 |![worldcore](https://static.openfintech.io/vendors/worldcore/logo.svg?w=600&c=v0.59.26#w200) |[**Worldcore**](worldcore/)|`worldcore`| 
 |![worldpay](https://static.openfintech.io/vendors/worldpay/logo.svg?w=600&c=v0.59.26#w200) |[**Worldpay**](worldpay/)|`worldpay`| 
+|![wpay](https://static.openfintech.io/vendors/wpay/logo.png?w=600&c=v0.59.26#w200) |[**W PAY**](wpay/)|`wpay`| 
 |![wpayments](https://static.openfintech.io/vendors/wpayments/logo.png?w=600&c=v0.59.26#w200) |[**WPayments**](wpayments/)|`wpayments`| 
 |![wupay](https://static.openfintech.io/vendors/wupay/logo.png?w=600&c=v0.59.26#w200) |[**WU Pay**](wupay/)|`wupay`| 
 |![ww-pay.net](https://static.openfintech.io/vendors/ww-pay.net/logo.svg?w=600&c=v0.59.26#w200) |[**WW-Pay**](ww-pay.net/)|`ww-pay.net`| 

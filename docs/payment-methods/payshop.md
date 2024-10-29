@@ -37,6 +37,16 @@ https://static.openfintech.io/payment_methods/payshop/logo.png?w=400&c=v0.59.26#
 https://static.openfintech.io/payment_methods/payshop/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Payshop_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![payshop](https://static.openfintech.io/payment_methods/payshop/icon.png?w=278&c=v0.59.26#w100) |[payshop_eur_hpp](/payment-services/payshop_eur_hpp/)|`payshop_eur_hpp`| 
+|![payshop](https://static.openfintech.io/payment_methods/payshop/icon.png?w=278&c=v0.59.26#w100) |[payshop_eur_invoice](/payment-services/payshop_eur_invoice/)|`payshop_eur_invoice`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Payshop_ 
@@ -46,6 +56,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payshop_
 |![hipaymobile](https://static.openfintech.io/payment_providers/hipaymobile/icon.png?w=278&c=v0.59.26#w100) |[HiPay Mobile](/payment-providers/hipaymobile/)|`hipaymobile`| 
 |![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
+|![katarun](https://static.openfintech.io/payment_providers/katarun/icon.png?w=278&c=v0.59.26#w100) |[Katarun](/payment-providers/katarun/)|`katarun`| 
  
 
 ## JSON Object 

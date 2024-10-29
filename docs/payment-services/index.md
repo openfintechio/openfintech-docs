@@ -922,6 +922,7 @@
 |![Maybank Qr](https://static.openfintech.io/payment_methods/maybank_berhad_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Maybank Qr**](/payment-methods/maybank_berhad_qr/)|[`maybank_berhad_qr_myr_invoice`](maybank_berhad_qr_myr_invoice/)| 
 |![MB Bank](https://static.openfintech.io/payment_methods/mb_bank/logo.png?w=400&c=v0.59.26#w200) |[**MB Bank**](/payment-methods/mb_bank/)|[`mb_bank_vnd_hpp`](mb_bank_vnd_hpp/)| 
 |![MB WAY](https://static.openfintech.io/payment_methods/mb_way/logo.svg?w=400&c=v0.59.26#w200) |[**MB WAY**](/payment-methods/mb_way/)|[`mb_way_eur_hpp`](mb_way_eur_hpp/)| 
+|![MB WAY](https://static.openfintech.io/payment_methods/mb_way/logo.svg?w=400&c=v0.59.26#w200) |[**MB WAY**](/payment-methods/mb_way/)|[`mb_way_eur_invoice`](mb_way_eur_invoice/)| 
 |![Mefete](https://static.openfintech.io/payment_methods/mefete/logo.png?w=400&c=v0.59.26#w200) |[**Mefete**](/payment-methods/mefete/)|[`mefete_try_hpp`](mefete_try_hpp/)| 
 |![Mega International Commercial Bank](https://static.openfintech.io/payment_methods/mega_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Mega International Commercial Bank**](/payment-methods/mega_bank/)|[`mega_bank_idr_hpp`](mega_bank_idr_hpp/)| 
 |![Megafon](https://static.openfintech.io/payment_methods/megafon/logo.png?w=400&c=v0.59.26#w200) |[**Megafon**](/payment-methods/megafon/)|[`megafon_rub_hpp`](megafon_rub_hpp/)| 
@@ -984,6 +985,7 @@
 |![MuchBetter](https://static.openfintech.io/payment_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w200) |[**MuchBetter**](/payment-methods/muchbetter/)|[`muchbetter_usd_invoice`](muchbetter_usd_invoice/)| 
 |![MuchBetter](https://static.openfintech.io/payment_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w200) |[**MuchBetter**](/payment-methods/muchbetter/)|[`muchbetter_vnd_invoice`](muchbetter_vnd_invoice/)| 
 |![Multibanco](https://static.openfintech.io/payment_methods/multibanco/logo.png?w=400&c=v0.59.26#w200) |[**Multibanco**](/payment-methods/multibanco/)|[`multibanco_eur_hpp`](multibanco_eur_hpp/)| 
+|![Multibanco](https://static.openfintech.io/payment_methods/multibanco/logo.png?w=400&c=v0.59.26#w200) |[**Multibanco**](/payment-methods/multibanco/)|[`multibanco_eur_invoice`](multibanco_eur_invoice/)| 
 |![MultiBanco NET](https://static.openfintech.io/payment_methods/multibanconet/logo.png?w=400&c=v0.59.26#w200) |[**MultiBanco NET**](/payment-methods/multibanconet/)|[`multibanconet_eur_hpp`](multibanconet_eur_hpp/)| 
 |![Multicaja](https://static.openfintech.io/payment_methods/multicaja/logo.svg?w=400&c=v0.59.26#w200) |[**Multicaja**](/payment-methods/multicaja/)|[`multicaja_clp_hpp`](multicaja_clp_hpp/)| 
 |![Multicaja](https://static.openfintech.io/payment_methods/multicaja/logo.svg?w=400&c=v0.59.26#w200) |[**Multicaja**](/payment-methods/multicaja/)|[`multicaja_usd_hpp`](multicaja_usd_hpp/)| 
@@ -1227,6 +1229,8 @@
 |![Paysafecash](https://static.openfintech.io/payment_methods/paysafecash/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecash**](/payment-methods/paysafecash/)|[`paysafecash_eur_hpp`](paysafecash_eur_hpp/)| 
 |![PaySense](https://static.openfintech.io/payment_methods/paysense/logo.svg?w=400&c=v0.59.26#w200) |[**PaySense**](/payment-methods/paysense/)|[`paysense_uah_invoice`](paysense_uah_invoice/)| 
 |![Payser](https://static.openfintech.io/payment_methods/payser/logo.svg?w=400&c=v0.59.26#w200) |[**Payser**](/payment-methods/payser/)|[`payser_crc_hpp`](payser_crc_hpp/)| 
+|![Payshop](https://static.openfintech.io/payment_methods/payshop/logo.png?w=400&c=v0.59.26#w200) |[**Payshop**](/payment-methods/payshop/)|[`payshop_eur_hpp`](payshop_eur_hpp/)| 
+|![Payshop](https://static.openfintech.io/payment_methods/payshop/logo.png?w=400&c=v0.59.26#w200) |[**Payshop**](/payment-methods/payshop/)|[`payshop_eur_invoice`](payshop_eur_invoice/)| 
 |![PAYTM Wallet](https://static.openfintech.io/payment_methods/paytm/logo.svg?w=400&c=v0.59.26#w200) |[**PAYTM Wallet**](/payment-methods/paytm/)|[`paytm_inr_hpp`](paytm_inr_hpp/)| 
 |![PAYTM Wallet](https://static.openfintech.io/payment_methods/paytm/logo.svg?w=400&c=v0.59.26#w200) |[**PAYTM Wallet**](/payment-methods/paytm/)|[`paytm_inr_invoice`](paytm_inr_invoice/)| 
 |![Paytm Payments Bank](https://static.openfintech.io/payment_methods/paytm_payments_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Paytm Payments Bank**](/payment-methods/paytm_payments_bank/)|[`paytm_payments_bank_inr_hpp`](paytm_payments_bank_inr_hpp/)| 
