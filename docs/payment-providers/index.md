@@ -145,6 +145,7 @@
 || **C** ||
 |![caledoncardservices](https://static.openfintech.io/payment_providers/caledoncardservices/logo.svg?w=600&c=v0.59.26#w100) |[**Caledon Card Services**](caledoncardservices/)|`caledoncardservices`| 
 |![capitalpay](https://static.openfintech.io/payment_providers/capitalpay/logo.png?w=600&c=v0.59.26#w100) |[**CapitalPay**](capitalpay/)|`capitalpay`| 
+|![cardaq](https://static.openfintech.io/payment_providers/cardaq/logo.png?w=600&c=v0.59.26#w100) |[**Cardaq**](cardaq/)|`cardaq`| 
 |![cardcomplete](https://static.openfintech.io/payment_providers/cardcomplete/logo.png?w=600&c=v0.59.26#w100) |[**card complete**](cardcomplete/)|`cardcomplete`| 
 |![cardconnect](https://static.openfintech.io/payment_providers/cardconnect/logo.svg?w=600&c=v0.59.26#w100) |[**CardConnect**](cardconnect/)|`cardconnect`| 
 |![cardgate](https://static.openfintech.io/payment_providers/cardgate/logo.svg?w=600&c=v0.59.26#w100) |[**CardGate**](cardgate/)|`cardgate`| 
@@ -834,6 +835,7 @@
 |![revolut](https://static.openfintech.io/payment_providers/revolut/logo.svg?w=600&c=v0.59.26#w100) |[**Revolut**](revolut/)|`revolut`| 
 |![rietumu](https://static.openfintech.io/payment_providers/rietumu/logo.png?w=600&c=v0.59.26#w100) |[**Rietumu Banka**](rietumu/)|`rietumu`| 
 |![rivierapay](https://static.openfintech.io/payment_providers/rivierapay/logo.svg?w=600&c=v0.59.26#w100) |[**RivieraPay**](rivierapay/)|`rivierapay`| 
+|![rixsus](https://static.openfintech.io/payment_providers/rixsus/logo.svg?w=600&c=v0.59.26#w100) |[**Rixsus**](rixsus/)|`rixsus`| 
 |![robokassa](https://static.openfintech.io/payment_providers/robokassa/logo.png?w=600&c=v0.59.26#w100) |[**Robokassa**](robokassa/)|`robokassa`| 
 |![rocketgate](https://static.openfintech.io/payment_providers/rocketgate/logo.png?w=600&c=v0.59.26#w100) |[**RocketGate**](rocketgate/)|`rocketgate`| 
 |![royalpay](https://static.openfintech.io/payment_providers/royalpay/logo.svg?w=600&c=v0.59.26#w100) |[**Royal Pay**](royalpay/)|`royalpay`| 

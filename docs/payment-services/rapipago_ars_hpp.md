@@ -1,21 +1,19 @@
 
-# Bank Transfer (service) 
-![bank_transfer_ars_hpp](https://static.openfintech.io/payment_methods/bank_transfer_ars_hpp/logo.svg?w=400&c=v0.59.26#w200)  
+# Rapipago (service) 
+![rapipago_ars_hpp](https://static.openfintech.io/payment_methods/rapipago_ars_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `bank_transfer_ars_hpp` 
+**Code:** `rapipago_ars_hpp` 
  
-**Method:** `bank_transfer` 
- [show -->](/payment-methods/bank_transfer/) 
+**Method:** `rapipago` 
+ [show -->](/payment-methods/rapipago/) 
  
 **Currency:** `ARS` [show -->](/currencies/ARS/) 
  
 **Name:** 
  
-:	[EN] Bank Transfer 
-:	[RU] Банковский перевод 
-:	[UK] Банківський переказ 
+:	[EN] Rapipago 
  
 **Amount limits:** from `0.01` to `1000000000` ARS 
 
@@ -53,9 +51,9 @@
 
 ```json
 {
-  "code":"bank_transfer_ars_hpp",
+  "code":"rapipago_ars_hpp",
   "flow":"hpp",
-  "method":"bank_transfer",
+  "method":"rapipago",
   "currency":"ARS",
   "fields":[
     {

@@ -589,6 +589,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![gatewaypay](https://static.openfintech.io/payment_providers/gatewaypay/icon.png?w=278&c=v0.59.26#w100) |[GatewayPay](/payment-providers/gatewaypay/)|`gatewaypay`| 
 |![paytend](https://static.openfintech.io/payment_providers/paytend/icon.png?w=278&c=v0.59.26#w100) |[Paytend](/payment-providers/paytend/)|`paytend`| 
 |![shift4](https://static.openfintech.io/payment_providers/shift4/icon.svg?w=278&c=v0.59.26#w100) |[Shift4](/payment-providers/shift4/)|`shift4`| 
+|![cardaq](https://static.openfintech.io/payment_providers/cardaq/icon.png?w=278&c=v0.59.26#w100) |[Cardaq](/payment-providers/cardaq/)|`cardaq`| 
  
 
 ## JSON Object 

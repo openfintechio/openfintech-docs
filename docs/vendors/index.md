@@ -401,6 +401,7 @@
 |![capitalist](https://static.openfintech.io/vendors/capitalist/logo.svg?w=600&c=v0.59.26#w200) |[**Capitalist**](capitalist/)|`capitalist`| 
 |![capitalpay](https://static.openfintech.io/vendors/capitalpay/logo.png?w=600&c=v0.59.26#w200) |[**CapitalPay**](capitalpay/)|`capitalpay`| 
 |![cardano](https://static.openfintech.io/vendors/cardano/logo.svg?w=600&c=v0.59.26#w200) |[**Cardano**](cardano/)|`cardano`| 
+|![cardaq](https://static.openfintech.io/vendors/cardaq/logo.png?w=600&c=v0.59.26#w200) |[**Cardaq**](cardaq/)|`cardaq`| 
 |![cardcomplete](https://static.openfintech.io/vendors/cardcomplete/logo.png?w=600&c=v0.59.26#w200) |[**card complete**](cardcomplete/)|`cardcomplete`| 
 |![cardconnect](https://static.openfintech.io/vendors/cardconnect/logo.svg?w=600&c=v0.59.26#w200) |[**CardConnect**](cardconnect/)|`cardconnect`| 
 |![cardgate](https://static.openfintech.io/vendors/cardgate/logo.svg?w=600&c=v0.59.26#w200) |[**CardGate**](cardgate/)|`cardgate`| 
@@ -1859,6 +1860,7 @@
 |![rietumu](https://static.openfintech.io/vendors/rietumu/logo.png?w=600&c=v0.59.26#w200) |[**Rietumu Banka**](rietumu/)|`rietumu`| 
 |![rivierapay](https://static.openfintech.io/vendors/rivierapay/logo.svg?w=600&c=v0.59.26#w200) |[**RivieraPay**](rivierapay/)|`rivierapay`| 
 |![rivnenska_f_pat_kb_privatbank_m_rivne](https://static.openfintech.io/vendors/rivnenska_f_pat_kb_privatbank_m_rivne/logo.svg?w=600&c=v0.59.26#w200) |[**РІВНЕНСЬКА ФІЛІЯ ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](rivnenska_f_pat_kb_privatbank_m_rivne/)|`rivnenska_f_pat_kb_privatbank_m_rivne`| 
+|![rixsus](https://static.openfintech.io/vendors/rixsus/logo.svg?w=600&c=v0.59.26#w200) |[**Rixsus**](rixsus/)|`rixsus`| 
 |![rixty](https://static.openfintech.io/vendors/rixty/logo.png?w=600&c=v0.59.26#w200) |[**Rixty**](rixty/)|`rixty`| 
 |![rizvan-obmen.net](https://static.openfintech.io/vendors/rizvan-obmen.net/logo.svg?w=600&c=v0.59.26#w200) |[**Rizvan-Obmen**](rizvan-obmen.net/)|`rizvan-obmen.net`| 
 |![rnkbank](https://static.openfintech.io/vendors/rnkbank/logo.svg?w=600&c=v0.59.26#w200) |[**РНК банк**](rnkbank/)|`rnkbank`| 

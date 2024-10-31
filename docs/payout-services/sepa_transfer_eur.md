@@ -33,6 +33,7 @@
 |`beneficiary_bank_swift_code`|✗|`string`|`/^[A-Z]{6}[A-Z0-9]{2}([A-Z0-9]{3})?$/`| 
 |`beneficiary_bank_name`|✗|`string`|`/^[A-Z\-\ a-z0-9_]{2,100}$/`| 
 |`beneficiary_postcode`|✗|`string`|`/^[\w\-\s]{1,64}$/`| 
+|`beneficiary_date_of_birth`|✗|`string`|`/^\d{4}-\d{2}-\d{2}$/`| 
  
 
 ### Details 
@@ -198,6 +199,24 @@
 	: [EN] Enter beneficiary postcode 
 	: [RU] Введите beneficiary postcode 
 	: [UK] Введіть beneficiary postcode 
+ 
+10. **`beneficiary_date_of_birth`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^\d{4}-\d{2}-\d{2}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Date of birth 
+	: [RU] Дата рождения 
+	: [UK] Дата народження 
+ 
+	Hint:  
+	: [EN] Date of birth 
+	: [RU] Дата рождения 
+	: [UK] Дата народження 
  
 
 ## JSON Object 
@@ -368,6 +387,24 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 beneficiary postcode",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c beneficiary postcode"
       }
+    },
+    {
+      "key":"beneficiary_date_of_birth",
+      "type":"string",
+      "regexp":"\/^\\d{4}-\\d{2}-\\d{2}$\/",
+      "required":false,
+      "position":10,
+      "label":{
+        "en":"Date of birth",
+        "ru":"\u0414\u0430\u0442\u0430 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
+        "uk":"\u0414\u0430\u0442\u0430 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f"
+      },
+      "hint":{
+        "en":"Date of birth",
+        "ru":"\u0414\u0430\u0442\u0430 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
+        "uk":"\u0414\u0430\u0442\u0430 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f"
+      },
+      "example":"1999-02-02"
     }
   ],
   "amount_min":"0.01",

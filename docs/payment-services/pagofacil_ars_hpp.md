@@ -1,21 +1,19 @@
 
-# Bank Transfer (service) 
-![bank_transfer_ars_hpp](https://static.openfintech.io/payment_methods/bank_transfer_ars_hpp/logo.svg?w=400&c=v0.59.26#w200)  
+# Pagofacil (service) 
+![pagofacil_ars_hpp](https://static.openfintech.io/payment_methods/pagofacil_ars_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `bank_transfer_ars_hpp` 
+**Code:** `pagofacil_ars_hpp` 
  
-**Method:** `bank_transfer` 
- [show -->](/payment-methods/bank_transfer/) 
+**Method:** `pagofacil` 
+ [show -->](/payment-methods/pagofacil/) 
  
 **Currency:** `ARS` [show -->](/currencies/ARS/) 
  
 **Name:** 
  
-:	[EN] Bank Transfer 
-:	[RU] Банковский перевод 
-:	[UK] Банківський переказ 
+:	[EN] Pagofacil 
  
 **Amount limits:** from `0.01` to `1000000000` ARS 
 
@@ -53,9 +51,9 @@
 
 ```json
 {
-  "code":"bank_transfer_ars_hpp",
+  "code":"pagofacil_ars_hpp",
   "flow":"hpp",
-  "method":"bank_transfer",
+  "method":"pagofacil",
   "currency":"ARS",
   "fields":[
     {
