@@ -25,7 +25,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`document_id`|✗|`string`|`/^[a-zA-Z0-9]{9,12}$/`| 
+|`document_id`|✗|`string`|`/^[a-zA-Z0-9]{8,12}$/`| 
  
 
 ### Details 
@@ -34,7 +34,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[a-zA-Z0-9]{9,12}$/` 
+	Regexp: `/^[a-zA-Z0-9]{8,12}$/` 
  
 	Required: `` 
  
@@ -61,7 +61,7 @@
     {
       "key":"document_id",
       "type":"string",
-      "regexp":"\/^[a-zA-Z0-9]{9,12}$\/",
+      "regexp":"\/^[a-zA-Z0-9]{8,12}$\/",
       "required":false,
       "position":1,
       "label":{

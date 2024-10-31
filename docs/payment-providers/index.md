@@ -354,6 +354,7 @@
 |![flexipay](https://static.openfintech.io/payment_providers/flexipay/logo.png?w=600&c=v0.59.26#w100) |[**UNIVERSUM Group - FlexiPay®**](flexipay/)|`flexipay`| 
 |![flo2cash](https://static.openfintech.io/payment_providers/flo2cash/logo.png?w=600&c=v0.59.26#w100) |[**Flo2Cash**](flo2cash/)|`flo2cash`| 
 |![flocash](https://static.openfintech.io/payment_providers/flocash/logo.png?w=600&c=v0.59.26#w100) |[**Flocash**](flocash/)|`flocash`| 
+|![fmpay](https://static.openfintech.io/payment_providers/fmpay/logo.svg?w=600&c=v0.59.26#w100) |[**FMPay**](fmpay/)|`fmpay`| 
 |![fondy](https://static.openfintech.io/payment_providers/fondy/logo.svg?w=600&c=v0.59.26#w100) |[**FONDY**](fondy/)|`fondy`| 
 |![forestpayment](https://static.openfintech.io/payment_providers/forestpayment/logo.png?w=600&c=v0.59.26#w100) |[**ForestPayment**](forestpayment/)|`forestpayment`| 
 |![forta](https://static.openfintech.io/payment_providers/forta/logo.png?w=600&c=v0.59.26#w100) |[**Forta**](forta/)|`forta`| 
