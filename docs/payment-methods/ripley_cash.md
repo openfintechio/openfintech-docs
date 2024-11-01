@@ -46,6 +46,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Ripley_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payretailers](https://static.openfintech.io/payment_providers/payretailers/icon.svg?w=278&c=v0.59.26#w100) |[PayRetailers](/payment-providers/payretailers/)|`payretailers`| 
+|![paylivre](https://static.openfintech.io/payment_providers/paylivre/icon.png?w=278&c=v0.59.26#w100) |[Paylivre](/payment-providers/paylivre/)|`paylivre`| 
  
 
 ## JSON Object 

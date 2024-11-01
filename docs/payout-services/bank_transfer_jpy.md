@@ -44,7 +44,7 @@
 |`beneficiary_state`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,64}$/u`| 
 |`bank_city`|✗|`string`|`/^[A-Za-z]{2,100}$/`| 
 |`bank_province`|✗|`string`|`/^[A-Za-z]{2,100}$/`| 
-|`account_type`|✗|`string`|`/^[A-Z]{1}$/`| 
+|`account_type`|✗|`string`|`/^[A-Z]{1,20}$/`| 
 |`beneficiary_document_type`|✗|`string`|`/^[A-Za-z]{2,20}$/`| 
 |`beneficiary_lastname`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
 |`beneficiary_document_id`|✗|`string`|`/^[A-Z0-9]{3,20}$/`| 
@@ -417,7 +417,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z]{1}$/` 
+	Regexp: `/^[A-Z]{1,20}$/` 
  
 	Required: `` 
  
@@ -863,7 +863,7 @@
     {
       "key":"account_type",
       "type":"string",
-      "regexp":"\/^[A-Z]{1}$\/",
+      "regexp":"\/^[A-Z]{1,20}$\/",
       "label":{
         "en":"Account type",
         "ru":"\u0422\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",
