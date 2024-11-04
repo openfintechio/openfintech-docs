@@ -45,6 +45,17 @@ The list of supported [Payment Methods](/payment-methods/)
 |![pse](https://static.openfintech.io/payment_methods/pse/icon.svg?w=278&c=v0.59.26#w100) |[pse](/payment-methods/pse/)|`pse`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![rapipago](https://static.openfintech.io/payout_methods/rapipago/icon.png?w=278&c=v0.59.26#w40) |[rapipago](payout-methodsrapipago/)|`rapipago`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
+|![ach](https://static.openfintech.io/payout_methods/ach/icon.png?w=278&c=v0.59.26#w40) |[ach](payout-methodsach/)|`ach`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -60,7 +71,11 @@ The list of supported [Payment Methods](/payment-methods/)
     "bank_transfer",
     "pse"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "rapipago",
+    "bank_transfer",
+    "ach"
+  ],
   "metadata":null,
   "name":{
     "en":"Rixsus",

@@ -40,6 +40,7 @@
 |![AccessNet](https://static.openfintech.io/payout_methods/accessnet/logo.png?w=400&c=v0.59.26#w24) |[**AccessNet**](/payout-methods/accessnet/)|[`accessnet_uah`](accessnet_uah/)|`UAH`| 
 |![Accion MFB](https://static.openfintech.io/payout_methods/accion_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Accion MFB**](/payout-methods/accion_mfb/)|[`accion_mfb_ngn`](accion_mfb_ngn/)|`NGN`| 
 |![Ace Online](https://static.openfintech.io/payout_methods/ace-online/logo.png?w=400&c=v0.59.26#w24) |[**Ace Online**](/payout-methods/ace-online/)|[`ace-online_uah`](ace-online_uah/)|`UAH`| 
+|![Automated Clearing House (ACH)](https://static.openfintech.io/payout_methods/ach/logo.png?w=400&c=v0.59.26#w24) |[**Automated Clearing House (ACH)**](/payout-methods/ach/)|[`ach_cop`](ach_cop/)|`COP`| 
 |![ACLEDA Bank](https://static.openfintech.io/payout_methods/acleda_bank_cambodia/logo.svg?w=400&c=v0.59.26#w24) |[**ACLEDA Bank**](/payout-methods/acleda_bank_cambodia/)|[`acleda_bank_cambodia_usd`](acleda_bank_cambodia_usd/)|`USD`| 
 |![Kcell/Activ](https://static.openfintech.io/payout_methods/activ_kcell/logo.svg?w=400&c=v0.59.26#w24) |[**Kcell/Activ**](/payout-methods/activ_kcell/)|[`activ_kcell_kzt`](activ_kcell_kzt/)|`KZT`| 
 |![ADAMANT-TELECOM - Domain and Hosting](https://static.openfintech.io/payout_methods/adamant-telekom-domen-i-khosting/logo.png?w=400&c=v0.59.26#w24) |[**ADAMANT-TELECOM - Domain and Hosting**](/payout-methods/adamant-telekom-domen-i-khosting/)|[`adamant-telekom-domen-i-khosting_uah`](adamant-telekom-domen-i-khosting_uah/)|`UAH`| 
@@ -1959,6 +1960,7 @@
 |![Rakuten Bank](https://static.openfintech.io/payout_methods/rakuten_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Rakuten Bank**](/payout-methods/rakuten_bank/)|[`rakuten_bank_jpy`](rakuten_bank_jpy/)|`JPY`| 
 |![Rand Merchant Bank](https://static.openfintech.io/payout_methods/rand_merchant_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Rand Merchant Bank**](/payout-methods/rand_merchant_bank/)|[`rand_merchant_bank_ngn`](rand_merchant_bank_ngn/)|`NGN`| 
 |![Rand Merchant Bank](https://static.openfintech.io/payout_methods/rand_merchant_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Rand Merchant Bank**](/payout-methods/rand_merchant_bank/)|[`rand_merchant_bank_zar`](rand_merchant_bank_zar/)|`ZAR`| 
+|![Rapipago](https://static.openfintech.io/payout_methods/rapipago/logo.png?w=400&c=v0.59.26#w24) |[**Rapipago**](/payout-methods/rapipago/)|[`rapipago_ars`](rapipago_ars/)|`ARS`| 
 |![Rappelz](https://static.openfintech.io/payout_methods/rappelz/logo.png?w=400&c=v0.59.26#w24) |[**Rappelz**](/payout-methods/rappelz/)|[`rappelz_uah`](rappelz_uah/)|`UAH`| 
 |![RappiPay Compañía de Financiamiento S.A](https://static.openfintech.io/payout_methods/rappipay/logo.svg?w=400&c=v0.59.26#w24) |[**RappiPay Compañía de Financiamiento S.A**](/payout-methods/rappipay/)|[`rappipay_cop`](rappipay_cop/)|`COP`| 
 |![Rappipay Daviplata](https://static.openfintech.io/payout_methods/rappipay_daviplata/logo.svg?w=400&c=v0.59.26#w24) |[**Rappipay Daviplata**](/payout-methods/rappipay_daviplata/)|[`rappipay_daviplata_cop`](rappipay_daviplata_cop/)|`COP`| 
