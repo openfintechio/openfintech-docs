@@ -1366,6 +1366,7 @@
 |![Safaricom](https://static.openfintech.io/payment_methods/safaricom/logo.png?w=400&c=v0.59.26#w200) |[**Safaricom**](/payment-methods/safaricom/)|[`safaricom_kes_invoice`](safaricom_kes_invoice/)| 
 |![SafetyPay](https://static.openfintech.io/payment_methods/safetypay/logo.png?w=400&c=v0.59.26#w200) |[**SafetyPay**](/payment-methods/safetypay/)|[`safetypay_mxn_hpp`](safetypay_mxn_hpp/)| 
 |![Saigon Bank For Industry And Trade](https://static.openfintech.io/payment_methods/saigon_bank/logo.png?w=400&c=v0.59.26#w200) |[**Saigon Bank For Industry And Trade**](/payment-methods/saigon_bank/)|[`saigon_bank_vnd_hpp`](saigon_bank_vnd_hpp/)| 
+|![Sams Club](https://static.openfintech.io/payment_methods/sams_club/logo.png?w=400&c=v0.59.26#w200) |[**Sams Club**](/payment-methods/sams_club/)|[`sams_club_mxn_hpp`](sams_club_mxn_hpp/)| 
 |![Santander SuperNet](https://static.openfintech.io/payment_methods/santander_supernet/logo.svg?w=400&c=v0.59.26#w200) |[**Santander SuperNet**](/payment-methods/santander_supernet/)|[`santander_supernet_mxn_hpp`](santander_supernet_mxn_hpp/)| 
 |![Saraswat Cooperative Bank](https://static.openfintech.io/payment_methods/saraswat_cooperative_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Saraswat Cooperative Bank**](/payment-methods/saraswat_cooperative_bank/)|[`saraswat_cooperative_bank_inr_hpp`](saraswat_cooperative_bank_inr_hpp/)| 
 |![SberBank](https://static.openfintech.io/payment_methods/sberbank/logo.svg?w=400&c=v0.59.26#w200) |[**SberBank**](/payment-methods/sberbank/)|[`sberbank_rub_hpp`](sberbank_rub_hpp/)| 
@@ -1443,8 +1444,8 @@
 |![Soriana](https://static.openfintech.io/payment_methods/soriana_cash/logo.png?w=400&c=v0.59.26#w200) |[**Soriana**](/payment-methods/soriana_cash/)|[`soriana_cash_mxn_hpp`](soriana_cash_mxn_hpp/)| 
 |![South Indian Bank](https://static.openfintech.io/payment_methods/south_indian_bank/logo.png?w=400&c=v0.59.26#w200) |[**South Indian Bank**](/payment-methods/south_indian_bank/)|[`south_indian_bank_inr_hpp`](south_indian_bank_inr_hpp/)| 
 |![The Surat Peoples Co-Operative Bank Limited](https://static.openfintech.io/payment_methods/spcbl/logo.png?w=400&c=v0.59.26#w200) |[**The Surat Peoples Co-Operative Bank Limited**](/payment-methods/spcbl/)|[`spcbl_inr_hpp`](spcbl_inr_hpp/)| 
-|![SPEI](https://static.openfintech.io/payment_methods/spei/logo.png?w=400&c=v0.59.26#w200) |[**SPEI**](/payment-methods/spei/)|[`spei_mxn_hpp`](spei_mxn_hpp/)| 
-|![SPEI](https://static.openfintech.io/payment_methods/spei/logo.png?w=400&c=v0.59.26#w200) |[**SPEI**](/payment-methods/spei/)|[`spei_usd_hpp`](spei_usd_hpp/)| 
+|![SPEI](https://static.openfintech.io/payment_methods/spei/logo.svg?w=400&c=v0.59.26#w200) |[**SPEI**](/payment-methods/spei/)|[`spei_mxn_hpp`](spei_mxn_hpp/)| 
+|![SPEI](https://static.openfintech.io/payment_methods/spei/logo.svg?w=400&c=v0.59.26#w200) |[**SPEI**](/payment-methods/spei/)|[`spei_usd_hpp`](spei_usd_hpp/)| 
 |![Spush Pay](https://static.openfintech.io/payment_methods/spush_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Spush Pay**](/payment-methods/spush_pay/)|[`spush_pay_eur_invoice`](spush_pay_eur_invoice/)| 
 |![Standard Charter Bank](https://static.openfintech.io/payment_methods/standard_charter_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Standard Charter Bank**](/payment-methods/standard_charter_bank/)|[`standard_charter_bank_inr_hpp`](standard_charter_bank_inr_hpp/)| 
 |![Standard Chartered Bank India](https://static.openfintech.io/payment_methods/standard_chartered_bank_india/logo.svg?w=400&c=v0.59.26#w200) |[**Standard Chartered Bank India**](/payment-methods/standard_chartered_bank_india/)|[`standard_chartered_bank_india_idr_hpp`](standard_chartered_bank_india_idr_hpp/)| 
@@ -1463,6 +1464,7 @@
 |![Suhyup Bank](https://static.openfintech.io/payment_methods/suhyup_bank/logo.png?w=400&c=v0.59.26#w200) |[**Suhyup Bank**](/payment-methods/suhyup_bank/)|[`suhyup_bank_krw_hpp`](suhyup_bank_krw_hpp/)| 
 |![Sumut Bank](https://static.openfintech.io/payment_methods/sumut_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Sumut Bank**](/payment-methods/sumut_bank/)|[`sumut_bank_idr_hpp`](sumut_bank_idr_hpp/)| 
 |![Superama](https://static.openfintech.io/payment_methods/superama/logo.svg?w=400&c=v0.59.26#w200) |[**Superama**](/payment-methods/superama/)|[`superama_mxn_hpp`](superama_mxn_hpp/)| 
+|![SuperCity](https://static.openfintech.io/payment_methods/supercity/logo.png?w=400&c=v0.59.26#w200) |[**SuperCity**](/payment-methods/supercity/)|[`supercity_mxn_hpp`](supercity_mxn_hpp/)| 
 |![Superinter](https://static.openfintech.io/payment_methods/superinter/logo.svg?w=400&c=v0.59.26#w200) |[**Superinter**](/payment-methods/superinter/)|[`superinter_cop_hpp`](superinter_cop_hpp/)| 
 |![Super Pagos](https://static.openfintech.io/payment_methods/super_pagos/logo.svg?w=400&c=v0.59.26#w200) |[**Super Pagos**](/payment-methods/super_pagos/)|[`superpagosin_cop_hpp`](superpagosin_cop_hpp/)| 
 |![Surti Mayorista](https://static.openfintech.io/payment_methods/surti_mayorista/logo.svg?w=400&c=v0.59.26#w200) |[**Surti Mayorista**](/payment-methods/surti_mayorista/)|[`surti_mayorista_cop_hpp`](surti_mayorista_cop_hpp/)| 

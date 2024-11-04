@@ -764,6 +764,7 @@
 |![safaricom](https://static.openfintech.io/payment_methods/safaricom/logo.png?w=400&c=v0.59.26#w200) |[**Safaricom**](safaricom/)|`safaricom`| 
 |![safetypay](https://static.openfintech.io/payment_methods/safetypay/logo.png?w=400&c=v0.59.26#w200) |[**SafetyPay**](safetypay/)|`safetypay`| 
 |![saigon_bank](https://static.openfintech.io/payment_methods/saigon_bank/logo.png?w=400&c=v0.59.26#w200) |[**Saigon Bank For Industry And Trade**](saigon_bank/)|`saigon_bank`| 
+|![sams_club](https://static.openfintech.io/payment_methods/sams_club/logo.png?w=400&c=v0.59.26#w200) |[**Sams Club**](sams_club/)|`sams_club`| 
 |![santander](https://static.openfintech.io/payment_methods/santander/logo.png?w=400&c=v0.59.26#w200) |[**Santander**](santander/)|`santander`| 
 |![santander_colombia_bank](https://static.openfintech.io/payment_methods/santander_colombia_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BANCO SANTANDER COLOMBIA**](santander_colombia_bank/)|`santander_colombia_bank`| 
 |![santander_supernet](https://static.openfintech.io/payment_methods/santander_supernet/logo.svg?w=400&c=v0.59.26#w200) |[**Santander SuperNet**](santander_supernet/)|`santander_supernet`| 
@@ -812,7 +813,7 @@
 |![south_indian_bank](https://static.openfintech.io/payment_methods/south_indian_bank/logo.png?w=400&c=v0.59.26#w200) |[**South Indian Bank**](south_indian_bank/)|`south_indian_bank`| 
 |![spankki](https://static.openfintech.io/payment_methods/spankki/logo.png?w=400&c=v0.59.26#w200) |[**S-Pankki**](spankki/)|`spankki`| 
 |![spcbl](https://static.openfintech.io/payment_methods/spcbl/logo.png?w=400&c=v0.59.26#w200) |[**The Surat Peoples Co-Operative Bank Limited**](spcbl/)|`spcbl`| 
-|![spei](https://static.openfintech.io/payment_methods/spei/logo.png?w=400&c=v0.59.26#w200) |[**SPEI**](spei/)|`spei`| 
+|![spei](https://static.openfintech.io/payment_methods/spei/logo.svg?w=400&c=v0.59.26#w200) |[**SPEI**](spei/)|`spei`| 
 |![spush_pay](https://static.openfintech.io/payment_methods/spush_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Spush Pay**](spush_pay/)|`spush_pay`| 
 |![ssk](https://static.openfintech.io/payment_methods/ssk/logo.png?w=400&c=v0.59.26#w200) |[**Self service kiosk**](ssk/)|`ssk`| 
 |![ssk_by](https://static.openfintech.io/payment_methods/ssk_by/logo.png?w=400&c=v0.59.26#w200) |[**Self service kiosk Belarus**](ssk_by/)|`ssk_by`| 
@@ -839,6 +840,7 @@
 |![sumut_bank](https://static.openfintech.io/payment_methods/sumut_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Sumut Bank**](sumut_bank/)|`sumut_bank`| 
 |![super_pagos](https://static.openfintech.io/payment_methods/super_pagos/logo.svg?w=400&c=v0.59.26#w200) |[**Super Pagos**](super_pagos/)|`super_pagos`| 
 |![superama](https://static.openfintech.io/payment_methods/superama/logo.svg?w=400&c=v0.59.26#w200) |[**Superama**](superama/)|`superama`| 
+|![supercity](https://static.openfintech.io/payment_methods/supercity/logo.png?w=400&c=v0.59.26#w200) |[**SuperCity**](supercity/)|`supercity`| 
 |![superinter](https://static.openfintech.io/payment_methods/superinter/logo.svg?w=400&c=v0.59.26#w200) |[**Superinter**](superinter/)|`superinter`| 
 |![surti_mayorista](https://static.openfintech.io/payment_methods/surti_mayorista/logo.svg?w=400&c=v0.59.26#w200) |[**Surti Mayorista**](surti_mayorista/)|`surti_mayorista`| 
 |![surtimax](https://static.openfintech.io/payment_methods/surtimax/logo.svg?w=400&c=v0.59.26#w200) |[**Surtimax**](surtimax/)|`surtimax`| 

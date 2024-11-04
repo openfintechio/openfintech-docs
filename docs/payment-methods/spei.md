@@ -1,6 +1,6 @@
 
 # SPEI 
-![spei](https://static.openfintech.io/payment_methods/spei/logo.png?w=400&c=v0.59.26#w200)  
+![spei](https://static.openfintech.io/payment_methods/spei/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
 **Code:** `spei` 
@@ -19,10 +19,10 @@
 ## Images 
 
 ### Logo 
-![spei](https://static.openfintech.io/payment_methods/spei/logo.png?w=400&c=v0.59.26#w200)  
+![spei](https://static.openfintech.io/payment_methods/spei/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/payment_methods/spei/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/payment_methods/spei/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
