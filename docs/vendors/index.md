@@ -649,7 +649,7 @@
 |![ecoincc](https://static.openfintech.io/vendors/ecoincc/logo.png?w=600&c=v0.59.26#w200) |[**ecoin.cc**](ecoincc/)|`ecoincc`| 
 |![ecoineu](https://static.openfintech.io/vendors/ecoineu/logo.svg?w=600&c=v0.59.26#w200) |[**ecoin.eu**](ecoineu/)|`ecoineu`| 
 |![ecomcharge](https://static.openfintech.io/vendors/ecomcharge/logo.png?w=600&c=v0.59.26#w200) |[**eComCharge**](ecomcharge/)|`ecomcharge`| 
-|![ecommpay](https://static.openfintech.io/vendors/ecommpay/logo.png?w=600&c=v0.59.26#w200) |[**ECOMMPAY**](ecommpay/)|`ecommpay`| 
+|![ecommpay](https://static.openfintech.io/vendors/ecommpay/logo.png?w=600&c=v0.59.26#w200) |[**Ecommpay**](ecommpay/)|`ecommpay`| 
 |![ecomprocessing](https://static.openfintech.io/vendors/ecomprocessing/logo.png?w=600&c=v0.59.26#w200) |[**E-Comprocessing (ECP)**](ecomprocessing/)|`ecomprocessing`| 
 |![econtext](https://static.openfintech.io/vendors/econtext/logo.png?w=600&c=v0.59.26#w200) |[**Econtext**](econtext/)|`econtext`| 
 |![ecopayz](https://static.openfintech.io/vendors/ecopayz/logo.svg?w=600&c=v0.59.26#w200) |[**Ecopayz**](ecopayz/)|`ecopayz`| 

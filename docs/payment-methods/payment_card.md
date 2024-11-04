@@ -246,7 +246,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![emerchantpay](https://static.openfintech.io/payment_providers/emerchantpay/icon.svg?w=278&c=v0.59.26#w100) |[emerchantpay](/payment-providers/emerchantpay/)|`emerchantpay`| 
 |![cybersource](https://static.openfintech.io/payment_providers/cybersource/icon.svg?w=278&c=v0.59.26#w100) |[CyberSource](/payment-providers/cybersource/)|`cybersource`| 
 |![fibonatix](https://static.openfintech.io/payment_providers/fibonatix/icon.png?w=278&c=v0.59.26#w100) |[Fibonatix](/payment-providers/fibonatix/)|`fibonatix`| 
-|![ecommpay](https://static.openfintech.io/payment_providers/ecommpay/icon.png?w=278&c=v0.59.26#w100) |[ECOMMPAY](/payment-providers/ecommpay/)|`ecommpay`| 
+|![ecommpay](https://static.openfintech.io/payment_providers/ecommpay/icon.png?w=278&c=v0.59.26#w100) |[Ecommpay](/payment-providers/ecommpay/)|`ecommpay`| 
 |![platon](https://static.openfintech.io/payment_providers/platon/icon.svg?w=278&c=v0.59.26#w100) |[PSP Platon](/payment-providers/platon/)|`platon`| 
 |![paymentz](https://static.openfintech.io/payment_providers/paymentz/icon.png?w=278&c=v0.59.26#w100) |[Paymentz](/payment-providers/paymentz/)|`paymentz`| 
 |![certusfinance](https://static.openfintech.io/payment_providers/certusfinance/icon.png?w=278&c=v0.59.26#w100) |[Certus Finance](/payment-providers/certusfinance/)|`certusfinance`| 

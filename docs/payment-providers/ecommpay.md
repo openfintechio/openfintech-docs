@@ -1,5 +1,5 @@
 
-# ECOMMPAY 
+# Ecommpay 
 ![ecommpay](https://static.openfintech.io/payment_providers/ecommpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,13 @@
  
 **Name:** 
  
-:	[EN] ECOMMPAY 
-:	[RU] ECOMMPAY 
-:	[UK] ECOMMPAY 
+:	[EN] Ecommpay 
+:	[RU] Ecommpay 
+:	[UK] Ecommpay 
+ 
+**Description:** 
+ 
+: [EN] Headquartered in London, Ecommpay operates as a fully authorised payment institution regulated by the Financial Conduct Authority, while also being a principal member of both Visa and Mastercard, with Level 1 PCI DSS compliance. Ecommpay's end-to-end payment solution brings together direct acquiring capabilities, over 100 alternative payment methods, Direct Debits, open banking features, and mass payout options — all accessible through a single, seamless integration. 
  
 
 ## Images 
@@ -56,7 +60,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"ecommpay",
-  "description":null,
+  "description":{
+    "en":"Headquartered in London, Ecommpay operates as a fully authorised payment institution regulated by the Financial Conduct Authority, while also being a principal member of both Visa and Mastercard, with Level 1 PCI DSS compliance. Ecommpay's end-to-end payment solution brings together direct acquiring capabilities, over 100 alternative payment methods, Direct Debits, open banking features, and mass payout options \u2014 all accessible through a single, seamless integration."
+  },
   "vendor":"ecommpay",
   "categories":null,
   "countries":null,
@@ -70,9 +76,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "about_payments_code":"ecommpay"
   },
   "name":{
-    "en":"ECOMMPAY",
-    "ru":"ECOMMPAY",
-    "uk":"ECOMMPAY"
+    "en":"Ecommpay",
+    "ru":"Ecommpay",
+    "uk":"Ecommpay"
   }
 }
 ```  

@@ -1,5 +1,5 @@
 
-# ECOMMPAY 
+# Ecommpay 
 ![ecommpay](https://static.openfintech.io/vendors/ecommpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,19 +8,19 @@
  
 **Name:** 
  
-:	[EN] ECOMMPAY 
-:	[RU] ECOMMPAY 
-:	[UK] ECOMMPAY 
+:	[EN] Ecommpay 
+:	[RU] Ecommpay 
+:	[UK] Ecommpay 
  
 **Status:** `active` 
  
 **Description:** 
  
-: [EN]  ECommPay is an innovative and fast thinking company that provides state of the art secure electronic payment solutions for clients worldwide. Our system is up-to-the-minute, secure, reliable and easy to connect with. Our solutions help to achieve higher transaction approval rates, lower chargeback ratios and other special requirements which help our clients achieve maximum revenues. The ECommPay payment system uses the most innovative anti-fraud technology which, in addition, can be adapted to each client's requirements & special needs. Every ECommPay client is special so we assign a personal manager to each client, regardless of your turnover amount. The ECommPay team is made of the best professionals in online payments which in turn makes the lives of our clients much easier.        
+: [EN]  Headquartered in London, Ecommpay operates as a fully authorised payment institution regulated by the Financial Conduct Authority, while also being a principal member of both Visa and Mastercard, with Level 1 PCI DSS compliance. Ecommpay's end-to-end payment solution brings together direct acquiring capabilities, over 100 alternative payment methods, Direct Debits, open banking features, and mass payout options — all accessible through a single, seamless integration.  
  
 **Contacts:** 
 email: info@ecommpay.comphone: +44 2030360043**Address:** 
-street:  15 Stratton StreetW1J 8LQ LondonUnited Kingdom  
+street:  5th Floor, Churchill House, 142-146 Old St, London EC1V 9BW  
 
 ## Images 
 
@@ -46,13 +46,13 @@ https://static.openfintech.io/vendors/ecommpay/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"ecommpay",
   "name":{
-    "en":"ECOMMPAY",
-    "ru":"ECOMMPAY",
-    "uk":"ECOMMPAY"
+    "en":"Ecommpay",
+    "ru":"Ecommpay",
+    "uk":"Ecommpay"
   },
   "status":"active",
   "description":{
-    "en":" ECommPay is an innovative and fast thinking company that provides state of the art secure electronic payment solutions for clients worldwide. Our system is up-to-the-minute, secure, reliable and easy to connect with. Our solutions help to achieve higher transaction approval rates, lower chargeback ratios and other special requirements which help our clients achieve maximum revenues. The ECommPay payment system uses the most innovative anti-fraud technology which, in addition, can be adapted to each client's requirements & special needs. Every ECommPay client is special so we assign a personal manager to each client, regardless of your turnover amount. The ECommPay team is made of the best professionals in online payments which in turn makes the lives of our clients much easier. \u00a0 \u00a0 \u00a0 "
+    "en":" Headquartered in London, Ecommpay operates as a fully authorised payment institution regulated by the Financial Conduct Authority, while also being a principal member of both Visa and Mastercard, with Level 1 PCI DSS compliance. Ecommpay's end-to-end payment solution brings together direct acquiring capabilities, over 100 alternative payment methods, Direct Debits, open banking features, and mass payout options \u2014 all accessible through a single, seamless integration. "
   },
   "links":null,
   "countries":null,
@@ -61,7 +61,7 @@ https://static.openfintech.io/vendors/ecommpay/icon.png?w=278&c=v0.59.26#w100
     "phone":"+44 2030360043"
   },
   "address":{
-    "street":" 15 Stratton StreetW1J 8LQ LondonUnited Kingdom "
+    "street":" 5th Floor, Churchill House, 142-146 Old St, London EC1V 9BW "
   },
   "social_profiles":null
 }
