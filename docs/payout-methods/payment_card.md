@@ -591,6 +591,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![shift4](https://static.openfintech.io/payment_providers/shift4/icon.svg?w=278&c=v0.59.26#w100) |[Shift4](/payment-providers/shift4/)|`shift4`| 
 |![cardaq](https://static.openfintech.io/payment_providers/cardaq/icon.png?w=278&c=v0.59.26#w100) |[Cardaq](/payment-providers/cardaq/)|`cardaq`| 
 |![fmpay](https://static.openfintech.io/payment_providers/fmpay/icon.svg?w=278&c=v0.59.26#w100) |[FMPay](/payment-providers/fmpay/)|`fmpay`| 
+|![shiftfour](https://static.openfintech.io/payment_providers/shiftfour/icon.svg?w=278&c=v0.59.26#w100) |[Shift4](/payment-providers/shiftfour/)|`shiftfour`| 
  
 
 ## JSON Object 

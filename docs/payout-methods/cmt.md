@@ -37,15 +37,6 @@ The list of [Payout Services](/payout-services/) based on the _CMT Wallet_
 |![cmt](https://static.openfintech.io/payout_methods/cmt/icon.svg?w=278&c=v0.59.26#w40) |[cmt_try](/payout-services/cmt_try/)|`cmt_try`| 
  
 
-## Payment Providers 
- 
-The list of [Payment Providers](/payment-providers/) that support the _CMT Wallet_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![vevopay](https://static.openfintech.io/payment_providers/vevopay/icon.png?w=278&c=v0.59.26#w100) |[VevoPay](/payment-providers/vevopay/)|`vevopay`| 
- 
-
 ## JSON Object 
 
 ```json

@@ -39,15 +39,6 @@ The list of [Payment Services](/payment-services/) based on the _CMT_
 |![cmt](https://static.openfintech.io/payment_methods/cmt/icon.svg?w=278&c=v0.59.26#w100) |[cmt_try_hpp](/payment-services/cmt_try_hpp/)|`cmt_try_hpp`| 
  
 
-## Payment Providers 
- 
-The list of [Payment Providers](/payment-providers/) that support the _CMT_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![vevopay](https://static.openfintech.io/payment_providers/vevopay/icon.png?w=278&c=v0.59.26#w100) |[VevoPay](/payment-providers/vevopay/)|`vevopay`| 
- 
-
 ## JSON Object 
 
 ```json

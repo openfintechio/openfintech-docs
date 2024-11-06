@@ -46,7 +46,6 @@ The list of supported [Payment Methods](/payment-methods/)
 |![payfix](https://static.openfintech.io/payment_methods/payfix/icon.png?w=278&c=v0.59.26#w100) |[payfix](/payment-methods/payfix/)|`payfix`| 
 |![parazula](https://static.openfintech.io/payment_methods/parazula/icon.png?w=278&c=v0.59.26#w100) |[parazula](/payment-methods/parazula/)|`parazula`| 
 |![fups](https://static.openfintech.io/payment_methods/fups/icon.png?w=278&c=v0.59.26#w100) |[fups](/payment-methods/fups/)|`fups`| 
-|![cmt](https://static.openfintech.io/payment_methods/cmt/icon.svg?w=278&c=v0.59.26#w100) |[cmt](/payment-methods/cmt/)|`cmt`| 
 |![pep](https://static.openfintech.io/payment_methods/pep/icon.png?w=278&c=v0.59.26#w100) |[pep](/payment-methods/pep/)|`pep`| 
  
 
@@ -83,7 +82,6 @@ The list of supported [Payout Methods](/payout-methods/)
     "payfix",
     "parazula",
     "fups",
-    "cmt",
     "pep"
   ],
   "payout_method":[

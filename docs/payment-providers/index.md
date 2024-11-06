@@ -873,6 +873,7 @@
 |![settlespot](https://static.openfintech.io/payment_providers/settlespot/logo.png?w=600&c=v0.59.26#w100) |[**SettleSpot**](settlespot/)|`settlespot`| 
 |![sgate](https://static.openfintech.io/payment_providers/sgate/logo.svg?w=600&c=v0.59.26#w100) |[**Sgate**](sgate/)|`sgate`| 
 |![shift4](https://static.openfintech.io/payment_providers/shift4/logo.svg?w=600&c=v0.59.26#w100) |[**Shift4**](shift4/)|`shift4`| 
+|![shiftfour](https://static.openfintech.io/payment_providers/shiftfour/logo.svg?w=600&c=v0.59.26#w100) |[**Shift4**](shiftfour/)|`shiftfour`| 
 |![sidpayment](https://static.openfintech.io/payment_providers/sidpayment/logo.png?w=600&c=v0.59.26#w100) |[**SID Instant EFT**](sidpayment/)|`sidpayment`| 
 |![simplepay](https://static.openfintech.io/payment_providers/simplepay/logo.png?w=600&c=v0.59.26#w100) |[**SimplePay**](simplepay/)|`simplepay`| 
 |![simplifycommerce](https://static.openfintech.io/payment_providers/simplifycommerce/logo.png?w=600&c=v0.59.26#w100) |[**Simplify Commerce**](simplifycommerce/)|`simplifycommerce`| 
