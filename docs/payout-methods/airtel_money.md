@@ -49,6 +49,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Airtel Mo
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![klasha](https://static.openfintech.io/payment_providers/klasha/icon.png?w=278&c=v0.59.26#w100) |[Klasha](/payment-providers/klasha/)|`klasha`| 
 |![selcom](https://static.openfintech.io/payment_providers/selcom/icon.png?w=278&c=v0.59.26#w100) |[Selcom](/payment-providers/selcom/)|`selcom`| 
 |![virtualpay](https://static.openfintech.io/payment_providers/virtualpay/icon.png?w=278&c=v0.59.26#w100) |[Virtual Pay](/payment-providers/virtualpay/)|`virtualpay`| 
 |![virtouspayments](https://static.openfintech.io/payment_providers/virtouspayments/icon.png?w=278&c=v0.59.26#w100) |[Virtous Payments](/payment-providers/virtouspayments/)|`virtouspayments`| 

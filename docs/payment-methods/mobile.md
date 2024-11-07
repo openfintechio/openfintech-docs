@@ -45,6 +45,7 @@ The list of [Payment Services](/payment-services/) based on the _Mobile_
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_pkr_hpp](/payment-services/mobile_pkr_hpp/)|`mobile_pkr_hpp`| 
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_pkr_invoice](/payment-services/mobile_pkr_invoice/)|`mobile_pkr_invoice`| 
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_egp_invoice](/payment-services/mobile_egp_invoice/)|`mobile_egp_invoice`| 
+|![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_ugx_invoice](/payment-services/mobile_ugx_invoice/)|`mobile_ugx_invoice`| 
  
 
 ## Payment Providers 
@@ -53,6 +54,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Mobile_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![klasha](https://static.openfintech.io/payment_providers/klasha/icon.png?w=278&c=v0.59.26#w100) |[Klasha](/payment-providers/klasha/)|`klasha`| 
 |![changecoins](https://static.openfintech.io/payment_providers/changecoins/icon.png?w=278&c=v0.59.26#w100) |[Сhangecoins Pay](/payment-providers/changecoins/)|`changecoins`| 
 |![bitexpro](https://static.openfintech.io/payment_providers/bitexpro/icon.png?w=278&c=v0.59.26#w100) |[BitexPRO](/payment-providers/bitexpro/)|`bitexpro`| 
 |![payport](https://static.openfintech.io/payment_providers/payport/icon.svg?w=278&c=v0.59.26#w100) |[PayPort](/payment-providers/payport/)|`payport`| 

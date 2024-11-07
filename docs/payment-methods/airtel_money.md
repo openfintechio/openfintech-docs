@@ -46,6 +46,7 @@ The list of [Payment Services](/payment-services/) based on the _Airtel money_
 |![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money_kes_hpp](/payment-services/airtel_money_kes_hpp/)|`airtel_money_kes_hpp`| 
 |![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money_tzs_hpp](/payment-services/airtel_money_tzs_hpp/)|`airtel_money_tzs_hpp`| 
 |![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money_zmw_hpp](/payment-services/airtel_money_zmw_hpp/)|`airtel_money_zmw_hpp`| 
+|![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money_zmw_invoice](/payment-services/airtel_money_zmw_invoice/)|`airtel_money_zmw_invoice`| 
  
 
 ## Payment Providers 
@@ -54,6 +55,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Airtel mo
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![klasha](https://static.openfintech.io/payment_providers/klasha/icon.png?w=278&c=v0.59.26#w100) |[Klasha](/payment-providers/klasha/)|`klasha`| 
 |![selcom](https://static.openfintech.io/payment_providers/selcom/icon.png?w=278&c=v0.59.26#w100) |[Selcom](/payment-providers/selcom/)|`selcom`| 
 |![virtualpay](https://static.openfintech.io/payment_providers/virtualpay/icon.png?w=278&c=v0.59.26#w100) |[Virtual Pay](/payment-providers/virtualpay/)|`virtualpay`| 
 |![virtouspayments](https://static.openfintech.io/payment_providers/virtouspayments/icon.png?w=278&c=v0.59.26#w100) |[Virtous Payments](/payment-providers/virtouspayments/)|`virtouspayments`| 
