@@ -418,6 +418,7 @@
 |![cartasi](https://static.openfintech.io/vendors/cartasi/logo.png?w=600&c=v0.59.26#w200) |[**CartaSi**](cartasi/)|`cartasi`| 
 |![cartebancaires](https://static.openfintech.io/vendors/cartebancaires/logo.png?w=600&c=v0.59.26#w200) |[**Carte Bancaires**](cartebancaires/)|`cartebancaires`| 
 |![cartebleue](https://static.openfintech.io/vendors/cartebleue/logo.png?w=600&c=v0.59.26#w200) |[**Carte Bleue**](cartebleue/)|`cartebleue`| 
+|![cascad](https://static.openfintech.io/vendors/cascad/logo.png?w=600&c=v0.59.26#w200) |[**CASCAD**](cascad/)|`cascad`| 
 |![cash4pay](https://static.openfintech.io/vendors/cash4pay/logo.svg?w=600&c=v0.59.26#w200) |[**Cash4Pay**](cash4pay/)|`cash4pay`| 
 |![cashbulls](https://static.openfintech.io/vendors/cashbulls/logo.png?w=600&c=v0.59.26#w200) |[**Cash Bulls**](cashbulls/)|`cashbulls`| 
 |![cashflows](https://static.openfintech.io/vendors/cashflows/logo.png?w=600&c=v0.59.26#w200) |[**CashFlows**](cashflows/)|`cashflows`| 

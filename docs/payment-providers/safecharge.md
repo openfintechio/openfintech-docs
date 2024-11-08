@@ -53,6 +53,8 @@ The list of supported [Payout Methods](/payout-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
+|![sepa_transfer](https://static.openfintech.io/payout_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w40) |[sepa_transfer](payout-methodssepa_transfer/)|`sepa_transfer`| 
  
 
 ## JSON Object 
@@ -75,7 +77,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "payment_card"
   ],
   "payout_method":[
-    "payment_card"
+    "payment_card",
+    "bank_transfer",
+    "sepa_transfer"
   ],
   "metadata":{
     "about_payments_code":"safecharge"

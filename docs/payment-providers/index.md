@@ -157,6 +157,7 @@
 |![cardsave](https://static.openfintech.io/payment_providers/cardsave/logo.svg?w=600&c=v0.59.26#w100) |[**Cardsave**](cardsave/)|`cardsave`| 
 |![cardstreamlimited](https://static.openfintech.io/payment_providers/cardstreamlimited/logo.png?w=600&c=v0.59.26#w100) |[**Cardstream**](cardstreamlimited/)|`cardstreamlimited`| 
 |![carespay](https://static.openfintech.io/payment_providers/carespay/logo.png?w=600&c=v0.59.26#w100) |[**CaresPAY**](carespay/)|`carespay`| 
+|![cascad](https://static.openfintech.io/payment_providers/cascad/logo.png?w=600&c=v0.59.26#w100) |[**CASCAD**](cascad/)|`cascad`| 
 |![cashbulls](https://static.openfintech.io/payment_providers/cashbulls/logo.png?w=600&c=v0.59.26#w100) |[**Cash Bulls**](cashbulls/)|`cashbulls`| 
 |![cashflows](https://static.openfintech.io/payment_providers/cashflows/logo.png?w=600&c=v0.59.26#w100) |[**CashFlows**](cashflows/)|`cashflows`| 
 |![cashfree](https://static.openfintech.io/payment_providers/cashfree/logo.png?w=600&c=v0.59.26#w100) |[**Cashfree**](cashfree/)|`cashfree`| 
