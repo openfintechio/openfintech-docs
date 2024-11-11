@@ -132,7 +132,7 @@
 |![apixoom](https://static.openfintech.io/vendors/apixoom/logo.png?w=600&c=v0.59.26#w200) |[**Apixoom**](apixoom/)|`apixoom`| 
 |![appexmoney](https://static.openfintech.io/vendors/appexmoney/logo.svg?w=600&c=v0.59.26#w200) |[**Appexmoney**](appexmoney/)|`appexmoney`| 
 |![applepay](https://static.openfintech.io/vendors/applepay/logo.svg?w=600&c=v0.59.26#w200) |[**Apple Pay**](applepay/)|`applepay`| 
-|![aps](https://static.openfintech.io/vendors/aps/logo.svg?w=600&c=v0.59.26#w200) |[**APS**](aps/)|`aps`| 
+|![aps](https://static.openfintech.io/vendors/aps/logo.png?w=600&c=v0.59.26#w200) |[**APS**](aps/)|`aps`| 
 |![aramorpayments](https://static.openfintech.io/vendors/aramorpayments/logo.png?w=600&c=v0.59.26#w200) |[**Aramor Payments**](aramorpayments/)|`aramorpayments`| 
 |![arca](https://static.openfintech.io/vendors/arca/logo.svg?w=600&c=v0.59.26#w200) |[**ArCa**](arca/)|`arca`| 
 |![aretosystems](https://static.openfintech.io/vendors/aretosystems/logo.png?w=600&c=v0.59.26#w200) |[**Areto Systems**](aretosystems/)|`aretosystems`| 
@@ -515,6 +515,7 @@
 |![commercegate](https://static.openfintech.io/vendors/commercegate/logo.svg?w=600&c=v0.59.26#w200) |[**CommerceGate**](commercegate/)|`commercegate`| 
 |![computop](https://static.openfintech.io/vendors/computop/logo.png?w=600&c=v0.59.26#w200) |[**Computop**](computop/)|`computop`| 
 |![concardis](https://static.openfintech.io/vendors/concardis/logo.png?w=600&c=v0.59.26#w200) |[**ConCardis**](concardis/)|`concardis`| 
+|![conceptpay](https://static.openfintech.io/vendors/conceptpay/logo.png?w=600&c=v0.59.26#w200) |[**ConceptPay**](conceptpay/)|`conceptpay`| 
 |![concordbank](https://static.openfintech.io/vendors/concordbank/logo.svg?w=600&c=v0.59.26#w200) |[**Concord Bank**](concordbank/)|`concordbank`| 
 |![concordpay](https://static.openfintech.io/vendors/concordpay/logo.svg?w=600&c=v0.59.26#w200) |[**Concord Pay**](concordpay/)|`concordpay`| 
 |![concryt](https://static.openfintech.io/vendors/concryt/logo.svg?w=600&c=v0.59.26#w200) |[**Concryt**](concryt/)|`concryt`| 

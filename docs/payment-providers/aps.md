@@ -1,6 +1,6 @@
 
 # APS 
-![aps](https://static.openfintech.io/payment_providers/aps/logo.svg?w=400&c=v0.59.26#w100)  
+![aps](https://static.openfintech.io/payment_providers/aps/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![aps](https://static.openfintech.io/payment_providers/aps/logo.svg?w=400&c=v0.59.26#w100)  
+![aps](https://static.openfintech.io/payment_providers/aps/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/aps/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/aps/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![aps](https://static.openfintech.io/payment_providers/aps/icon.svg?w=278&c=v0.59.26#w100)  
+![aps](https://static.openfintech.io/payment_providers/aps/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/aps/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/aps/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 

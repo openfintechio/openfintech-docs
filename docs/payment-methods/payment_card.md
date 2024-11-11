@@ -431,7 +431,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![payes](https://static.openfintech.io/payment_providers/payes/icon.png?w=278&c=v0.59.26#w100) |[Payes](/payment-providers/payes/)|`payes`| 
 |![thenoy](https://static.openfintech.io/payment_providers/thenoy/icon.png?w=278&c=v0.59.26#w100) |[THENOY](/payment-providers/thenoy/)|`thenoy`| 
 |![securepaycard](https://static.openfintech.io/payment_providers/securepaycard/icon.svg?w=278&c=v0.59.26#w100) |[Securepaycard](/payment-providers/securepaycard/)|`securepaycard`| 
-|![aps](https://static.openfintech.io/payment_providers/aps/icon.svg?w=278&c=v0.59.26#w100) |[APS](/payment-providers/aps/)|`aps`| 
+|![aps](https://static.openfintech.io/payment_providers/aps/icon.png?w=278&c=v0.59.26#w100) |[APS](/payment-providers/aps/)|`aps`| 
 |![webpays](https://static.openfintech.io/payment_providers/webpays/icon.png?w=278&c=v0.59.26#w100) |[WebPays](/payment-providers/webpays/)|`webpays`| 
 |![amazonpaymentservices](https://static.openfintech.io/payment_providers/amazonpaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Amazon Payment Services](/payment-providers/amazonpaymentservices/)|`amazonpaymentservices`| 
 |![lpb](https://static.openfintech.io/payment_providers/lpb/icon.svg?w=278&c=v0.59.26#w100) |[LPB](/payment-providers/lpb/)|`lpb`| 
@@ -445,6 +445,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![maxpayment](https://static.openfintech.io/payment_providers/maxpayment/icon.svg?w=278&c=v0.59.26#w100) |[Maxpayment](/payment-providers/maxpayment/)|`maxpayment`| 
 |![forestpayment](https://static.openfintech.io/payment_providers/forestpayment/icon.png?w=278&c=v0.59.26#w100) |[ForestPayment](/payment-providers/forestpayment/)|`forestpayment`| 
 |![paytony](https://static.openfintech.io/payment_providers/paytony/icon.svg?w=278&c=v0.59.26#w100) |[Paytony](/payment-providers/paytony/)|`paytony`| 
+|![conceptpay](https://static.openfintech.io/payment_providers/conceptpay/icon.png?w=278&c=v0.59.26#w100) |[ConceptPay](/payment-providers/conceptpay/)|`conceptpay`| 
 |![impaya](https://static.openfintech.io/payment_providers/impaya/icon.png?w=278&c=v0.59.26#w100) |[Impaya](/payment-providers/impaya/)|`impaya`| 
 |![vevopay](https://static.openfintech.io/payment_providers/vevopay/icon.png?w=278&c=v0.59.26#w100) |[VevoPay](/payment-providers/vevopay/)|`vevopay`| 
 |![localpayments](https://static.openfintech.io/payment_providers/localpayments/icon.svg?w=278&c=v0.59.26#w100) |[Localpayments](/payment-providers/localpayments/)|`localpayments`| 

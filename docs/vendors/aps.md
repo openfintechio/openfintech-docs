@@ -1,6 +1,6 @@
 
 # APS 
-![aps](https://static.openfintech.io/vendors/aps/logo.svg?w=400&c=v0.59.26#w200)  
+![aps](https://static.openfintech.io/vendors/aps/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![aps](https://static.openfintech.io/vendors/aps/logo.svg?w=400&c=v0.59.26#w200)  
+![aps](https://static.openfintech.io/vendors/aps/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/aps/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/aps/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![aps](https://static.openfintech.io/vendors/aps/icon.svg?w=278&c=v0.59.26#w100)  
+![aps](https://static.openfintech.io/vendors/aps/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/aps/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/aps/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 
