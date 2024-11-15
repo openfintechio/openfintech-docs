@@ -25,7 +25,6 @@
 |`account_number`|✔|`string`|`/^.{1,100}$/`| 
 |`beneficiary_full_name`|✗|`string`|`/^[\s\p{L}]{2,100}$/u`| 
 |`document_id`|✗|`string`|`/^.{1,50}$/`| 
-|`document_id`|✗|`string`|`/^.{1,50}$/`| 
  
 
 ### Details 
@@ -67,24 +66,6 @@
 	: [UK] Введіть повне імʼя одержувача 
  
 3. **`document_id`** 
- 
-	Type: `string` 
- 
-	Regexp: `/^.{1,50}$/` 
- 
-	Required: `` 
- 
-	Label:  
-	: [EN] Document ID 
-	: [RU] Номер документа 
-	: [UK] Номер документу 
- 
-	Hint:  
-	: [EN] Enter Document ID 
-	: [RU] Введите номер документа 
-	: [UK] Введіть номер документу 
- 
-4. **`document_id`** 
  
 	Type: `string` 
  
@@ -145,24 +126,6 @@
       "regexp":"\/^[\\s\\p{L}]{2,100}$\/u",
       "required":false,
       "position":2
-    },
-    {
-      "key":"document_id",
-      "type":"string",
-      "label":{
-        "en":"Document ID",
-        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
-        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
-      },
-      "hint":{
-        "en":"Enter Document ID",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
-      },
-      "regexp":"\/^.{1,50}$\/",
-      "example":"123949203412831345",
-      "required":false,
-      "position":3
     },
     {
       "key":"document_id",
