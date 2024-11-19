@@ -595,6 +595,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![shiftfour](https://static.openfintech.io/payment_providers/shiftfour/icon.svg?w=278&c=v0.59.26#w100) |[Shift4](/payment-providers/shiftfour/)|`shiftfour`| 
 |![cascad](https://static.openfintech.io/payment_providers/cascad/icon.png?w=278&c=v0.59.26#w100) |[CASCAD](/payment-providers/cascad/)|`cascad`| 
 |![gmo](https://static.openfintech.io/payment_providers/gmo/icon.png?w=278&c=v0.59.26#w100) |[GMO](/payment-providers/gmo/)|`gmo`| 
+|![cardifyx](https://static.openfintech.io/payment_providers/cardifyx/icon.png?w=278&c=v0.59.26#w100) |[CardifyX](/payment-providers/cardifyx/)|`cardifyx`| 
  
 
 ## JSON Object 

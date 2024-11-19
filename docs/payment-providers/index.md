@@ -150,6 +150,7 @@
 |![cardconnect](https://static.openfintech.io/payment_providers/cardconnect/logo.svg?w=600&c=v0.59.26#w100) |[**CardConnect**](cardconnect/)|`cardconnect`| 
 |![cardgate](https://static.openfintech.io/payment_providers/cardgate/logo.svg?w=600&c=v0.59.26#w100) |[**CardGate**](cardgate/)|`cardgate`| 
 |![cardgateplus](https://static.openfintech.io/payment_providers/cardgateplus/logo.png?w=600&c=v0.59.26#w100) |[**CardGate**](cardgateplus/)|`cardgateplus`| 
+|![cardifyx](https://static.openfintech.io/payment_providers/cardifyx/logo.png?w=600&c=v0.59.26#w100) |[**CardifyX**](cardifyx/)|`cardifyx`| 
 |![cardinalcommerce](https://static.openfintech.io/payment_providers/cardinalcommerce/logo.svg?w=600&c=v0.59.26#w100) |[**CardinalCommerce**](cardinalcommerce/)|`cardinalcommerce`| 
 |![cardinity](https://static.openfintech.io/payment_providers/cardinity/logo.png?w=600&c=v0.59.26#w100) |[**Cardinity**](cardinity/)|`cardinity`| 
 |![cardpay](https://static.openfintech.io/payment_providers/cardpay/logo.svg?w=600&c=v0.59.26#w100) |[**Unlimit**](cardpay/)|`cardpay`| 
