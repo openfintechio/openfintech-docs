@@ -486,6 +486,7 @@
 || **L** ||
 |![lateralpaymentsolutions](https://static.openfintech.io/payment_providers/lateralpaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Lateral Payment Solutions**](lateralpaymentsolutions/)|`lateralpaymentsolutions`| 
 |![lava](https://static.openfintech.io/payment_providers/lava/logo.svg?w=600&c=v0.59.26#w100) |[**Lava**](lava/)|`lava`| 
+|![leikur](https://static.openfintech.io/payment_providers/leikur/logo.svg?w=600&c=v0.59.26#w100) |[**Leikur**](leikur/)|`leikur`| 
 |![lemanpay](https://static.openfintech.io/payment_providers/lemanpay/logo.svg?w=600&c=v0.59.26#w100) |[**LemanPay**](lemanpay/)|`lemanpay`| 
 |![lemonway](https://static.openfintech.io/payment_providers/lemonway/logo.png?w=600&c=v0.59.26#w100) |[**Lemon Way**](lemonway/)|`lemonway`| 
 |![leobank](https://static.openfintech.io/payment_providers/leobank/logo.svg?w=600&c=v0.59.26#w100) |[**Digimeth**](leobank/)|`leobank`| 

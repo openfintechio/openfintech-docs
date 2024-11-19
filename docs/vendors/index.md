@@ -1151,6 +1151,7 @@
 |![lava](https://static.openfintech.io/vendors/lava/logo.svg?w=600&c=v0.59.26#w200) |[**Lava**](lava/)|`lava`| 
 |![lavapay](https://static.openfintech.io/vendors/lavapay/logo.svg?w=600&c=v0.59.26#w200) |[**LavaPay**](lavapay/)|`lavapay`| 
 |![lawson_bank](https://static.openfintech.io/vendors/lawson_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Lawson Bank**](lawson_bank/)|`lawson_bank`| 
+|![leikur](https://static.openfintech.io/vendors/leikur/logo.svg?w=600&c=v0.59.26#w200) |[**Leikur**](leikur/)|`leikur`| 
 |![lemanpay](https://static.openfintech.io/vendors/lemanpay/logo.svg?w=600&c=v0.59.26#w200) |[**LemanPay**](lemanpay/)|`lemanpay`| 
 |![lemonway](https://static.openfintech.io/vendors/lemonway/logo.png?w=600&c=v0.59.26#w200) |[**Lemon Way**](lemonway/)|`lemonway`| 
 |![leobank](https://static.openfintech.io/vendors/leobank/logo.svg?w=600&c=v0.59.26#w200) |[**Digimeth**](leobank/)|`leobank`| 
