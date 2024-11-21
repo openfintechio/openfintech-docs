@@ -96,6 +96,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![cimb_bank](https://static.openfintech.io/payment_methods/cimb_bank/icon.png?w=278&c=v0.59.26#w100) |[cimb_bank](/payment-methods/cimb_bank/)|`cimb_bank`| 
 |![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi](/payment-methods/upi/)|`upi`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash](/payment-methods/cash/)|`cash`| 
  
 
 ## JSON Object 
@@ -164,7 +165,8 @@ The list of supported [Payment Methods](/payment-methods/)
     "punjab_national_bank",
     "cimb_bank",
     "upi",
-    "bank_transfer"
+    "bank_transfer",
+    "cash"
   ],
   "payout_method":null,
   "metadata":null,

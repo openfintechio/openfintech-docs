@@ -34,6 +34,7 @@
 |`payer_zip_code`|✗|`string`|`/^[0-9\-\s]{1,20}$/`| 
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
 |`document_id`|✗|`string`|`/^[0-9]{10-14}$/`| 
+|`account`|✗|`string`|`/^.{1,50}$/`| 
  
 
 ### Details 
@@ -199,6 +200,24 @@
 	: [EN] Enter payer personal identification number 
 	: [RU] Введите номер документа плательщика 
 	: [UK] Введіть номер документа платника 
+ 
+10. **`account`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{1,50}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Client account number 
+	: [RU] Номер клиентского счета 
+	: [UK] Номер рахунку клієнта 
+ 
+	Hint:  
+	: [EN] Enter client account number 
+	: [RU] Введите номер клиентского счета 
+	: [UK] Введіть номер рахунку клієнта 
  
 
 ## JSON Object 
@@ -369,6 +388,24 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043b\u0430\u0442\u0435\u043b\u044c\u0449\u0438\u043a\u0430",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
       }
+    },
+    {
+      "key":"account",
+      "type":"string",
+      "regexp":"\/^.{1,50}$\/",
+      "required":false,
+      "position":10,
+      "label":{
+        "en":"Client account number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u043a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 \u043a\u043b\u0456\u0454\u043d\u0442\u0430"
+      },
+      "hint":{
+        "en":"Enter client account number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u043a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 \u043a\u043b\u0456\u0454\u043d\u0442\u0430"
+      },
+      "example":"1100382992"
     }
   ],
   "amount_min":0.01,
