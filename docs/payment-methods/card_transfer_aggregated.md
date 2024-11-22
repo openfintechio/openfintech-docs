@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Сard Transfer 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![card_transfer_aggregated](https://static.openfintech.io/payment_methods/card_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_aggregated_uah_invoice](/payment-services/card_transfer_aggregated_uah_invoice/)|`card_transfer_aggregated_uah_invoice`| 
+|![card_transfer_aggregated](https://static.openfintech.io/payment_methods/card_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_aggregated_rub_invoice](/payment-services/card_transfer_aggregated_rub_invoice/)|`card_transfer_aggregated_rub_invoice`| 
  
 
 ## Payment Providers 
