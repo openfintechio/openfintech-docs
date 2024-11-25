@@ -2183,6 +2183,7 @@
 |![unitedoverseasbankuobnetbanking](https://static.openfintech.io/vendors/unitedoverseasbankuobnetbanking/logo.png?w=600&c=v0.59.26#w200) |[**UOB netbanking**](unitedoverseasbankuobnetbanking/)|`unitedoverseasbankuobnetbanking`| 
 |![uniteller](https://static.openfintech.io/vendors/uniteller/logo.png?w=600&c=v0.59.26#w200) |[**Uniteller**](uniteller/)|`uniteller`| 
 |![uniteplat](https://static.openfintech.io/vendors/uniteplat/logo.svg?w=600&c=v0.59.26#w200) |[**UnitePlat**](uniteplat/)|`uniteplat`| 
+|![unityfinance](https://static.openfintech.io/vendors/unityfinance/logo.svg?w=600&c=v0.59.26#w200) |[**Unity Finance**](unityfinance/)|`unityfinance`| 
 |![universalbank](https://static.openfintech.io/vendors/universalbank/logo.svg?w=600&c=v0.59.26#w200) |[**Универсал Банк**](universalbank/)|`universalbank`| 
 |![universalpay](https://static.openfintech.io/vendors/universalpay/logo.png?w=600&c=v0.59.26#w200) |[**UniversalPay**](universalpay/)|`universalpay`| 
 |![universepay](https://static.openfintech.io/vendors/universepay/logo.png?w=600&c=v0.59.26#w200) |[**UniversePay**](universepay/)|`universepay`| 

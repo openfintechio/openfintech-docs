@@ -977,6 +977,7 @@
 |![uniongate](https://static.openfintech.io/payment_providers/uniongate/logo.png?w=600&c=v0.59.26#w100) |[**UnionGate**](uniongate/)|`uniongate`| 
 |![uniteller](https://static.openfintech.io/payment_providers/uniteller/logo.png?w=600&c=v0.59.26#w100) |[**Uniteller**](uniteller/)|`uniteller`| 
 |![uniteplat](https://static.openfintech.io/payment_providers/uniteplat/logo.png?w=600&c=v0.59.26#w100) |[**UnitePlat**](uniteplat/)|`uniteplat`| 
+|![unityfinance](https://static.openfintech.io/payment_providers/unityfinance/logo.svg?w=600&c=v0.59.26#w100) |[**Unity Finance**](unityfinance/)|`unityfinance`| 
 |![universepay](https://static.openfintech.io/payment_providers/universepay/logo.png?w=600&c=v0.59.26#w100) |[**UniversePay**](universepay/)|`universepay`| 
 |![unlimco](https://static.openfintech.io/payment_providers/unlimco/logo.svg?w=600&c=v0.59.26#w100) |[**Unlimco**](unlimco/)|`unlimco`| 
 |![unonapay](https://static.openfintech.io/payment_providers/unonapay/logo.png?w=600&c=v0.59.26#w100) |[**UnonaPay**](unonapay/)|`unonapay`| 
