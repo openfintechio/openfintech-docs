@@ -40,6 +40,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![momopay](https://static.openfintech.io/payment_methods/momopay/icon.png?w=278&c=v0.59.26#w100) |[momopay](/payment-methods/momopay/)|`momopay`| 
+|![online_banking_qr](https://static.openfintech.io/payment_methods/online_banking_qr/icon.svg?w=278&c=v0.59.26#w100) |[online_banking_qr](/payment-methods/online_banking_qr/)|`online_banking_qr`| 
  
 
 ## JSON Object 
@@ -52,7 +53,8 @@ The list of supported [Payment Methods](/payment-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    "momopay"
+    "momopay",
+    "online_banking_qr"
   ],
   "payout_method":null,
   "metadata":null,

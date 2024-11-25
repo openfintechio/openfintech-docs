@@ -53,6 +53,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Online Ba
 |![copay](https://static.openfintech.io/payment_providers/copay/icon.svg?w=278&c=v0.59.26#w100) |[Copay](/payment-providers/copay/)|`copay`| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
 |![maldopay](https://static.openfintech.io/payment_providers/maldopay/icon.png?w=278&c=v0.59.26#w100) |[MaldoPay](/payment-providers/maldopay/)|`maldopay`| 
+|![wangupay](https://static.openfintech.io/payment_providers/wangupay/icon.png?w=278&c=v0.59.26#w100) |[WanguPay](/payment-providers/wangupay/)|`wangupay`| 
  
 
 ## JSON Object 
