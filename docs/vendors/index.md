@@ -432,7 +432,7 @@
 |![cashsender](https://static.openfintech.io/vendors/cashsender/logo.png?w=600&c=v0.59.26#w200) |[**CashSender**](cashsender/)|`cashsender`| 
 |![cashu](https://static.openfintech.io/vendors/cashu/logo.png?w=600&c=v0.59.26#w200) |[**CASHU**](cashu/)|`cashu`| 
 |![catalunyacaixa](https://static.openfintech.io/vendors/catalunyacaixa/logo.png?w=600&c=v0.59.26#w200) |[**CatalunyaCaixa**](catalunyacaixa/)|`catalunyacaixa`| 
-|![cauri](https://static.openfintech.io/vendors/cauri/logo.png?w=600&c=v0.59.26#w200) |[**Cauri**](cauri/)|`cauri`| 
+|![cauri](https://static.openfintech.io/vendors/cauri/logo.png?w=600&c=v0.59.26#w200) |[**Kale**](cauri/)|`cauri`| 
 |![cba](https://static.openfintech.io/vendors/cba/logo.svg?w=600&c=v0.59.26#w200) |[**Central Bank of Armenia**](cba/)|`cba`| 
 |![cbar](https://static.openfintech.io/vendors/cbar/logo.svg?w=600&c=v0.59.26#w200) |[**Central Bank of the Republic of Azerbaijan**](cbar/)|`cbar`| 
 |![cbr](https://static.openfintech.io/vendors/cbr/logo.png?w=600&c=v0.59.26#w200) |[**Central Bank of the Russian Federation**](cbr/)|`cbr`| 

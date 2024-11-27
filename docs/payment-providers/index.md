@@ -168,7 +168,7 @@
 |![cashrun](https://static.openfintech.io/payment_providers/cashrun/logo.svg?w=600&c=v0.59.26#w100) |[**CashRun**](cashrun/)|`cashrun`| 
 |![cashsender](https://static.openfintech.io/payment_providers/cashsender/logo.svg?w=600&c=v0.59.26#w100) |[**CashSender**](cashsender/)|`cashsender`| 
 |![catalunyacaixa](https://static.openfintech.io/payment_providers/catalunyacaixa/logo.png?w=600&c=v0.59.26#w100) |[**CatalunyaCaixa**](catalunyacaixa/)|`catalunyacaixa`| 
-|![cauri](https://static.openfintech.io/payment_providers/cauri/logo.png?w=600&c=v0.59.26#w100) |[**Cauri**](cauri/)|`cauri`| 
+|![cauri](https://static.openfintech.io/payment_providers/cauri/logo.png?w=600&c=v0.59.26#w100) |[**Kale**](cauri/)|`cauri`| 
 |![ccbill](https://static.openfintech.io/payment_providers/ccbill/logo.png?w=600&c=v0.59.26#w100) |[**CCBill**](ccbill/)|`ccbill`| 
 |![ccnow](https://static.openfintech.io/payment_providers/ccnow/logo.png?w=600&c=v0.59.26#w100) |[**CCNow**](ccnow/)|`ccnow`| 
 |![ccvpay](https://static.openfintech.io/payment_providers/ccvpay/logo.png?w=600&c=v0.59.26#w100) |[**CCV Pay**](ccvpay/)|`ccvpay`| 

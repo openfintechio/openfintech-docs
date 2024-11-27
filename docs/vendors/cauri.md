@@ -1,5 +1,5 @@
 
-# Cauri 
+# Kale 
 ![cauri](https://static.openfintech.io/vendors/cauri/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,14 +8,14 @@
  
 **Name:** 
  
-:	[EN] Cauri 
-:	[RU] Cauri 
-:	[UK] Cauri 
+:	[EN] Kale 
+:	[RU] Kale 
+:	[UK] Kale 
  
 **Status:** `active` 
  
 **Links:** 
-: website [https://cauri.com](https://cauri.com) 
+: website [https://kale.money](https://kale.money) 
  
 
 ## Images 
@@ -42,14 +42,14 @@ https://static.openfintech.io/vendors/cauri/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"cauri",
   "name":{
-    "en":"Cauri",
-    "ru":"Cauri",
-    "uk":"Cauri"
+    "en":"Kale",
+    "ru":"Kale",
+    "uk":"Kale"
   },
   "status":"active",
   "description":null,
   "links":{
-    "website":"https:\/\/cauri.com"
+    "website":"https:\/\/kale.money"
   },
   "countries":null,
   "contacts":null,

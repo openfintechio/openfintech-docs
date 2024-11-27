@@ -298,7 +298,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![alikassa](https://static.openfintech.io/payment_providers/alikassa/icon.svg?w=278&c=v0.59.26#w100) |[AliKassa](/payment-providers/alikassa/)|`alikassa`| 
 |![paysafe](https://static.openfintech.io/payment_providers/paysafe/icon.svg?w=278&c=v0.59.26#w100) |[Paysafe](/payment-providers/paysafe/)|`paysafe`| 
 |![raiffeisenbank](https://static.openfintech.io/payment_providers/raiffeisenbank/icon.svg?w=278&c=v0.59.26#w100) |[Raiffeisen Bank](/payment-providers/raiffeisenbank/)|`raiffeisenbank`| 
-|![cauri](https://static.openfintech.io/payment_providers/cauri/icon.png?w=278&c=v0.59.26#w100) |[Cauri](/payment-providers/cauri/)|`cauri`| 
+|![cauri](https://static.openfintech.io/payment_providers/cauri/icon.png?w=278&c=v0.59.26#w100) |[Kale](/payment-providers/cauri/)|`cauri`| 
 |![ipaytotal](https://static.openfintech.io/payment_providers/ipaytotal/icon.png?w=278&c=v0.59.26#w100) |[IPaytotal](/payment-providers/ipaytotal/)|`ipaytotal`| 
 |![pumb](https://static.openfintech.io/payment_providers/pumb/icon.svg?w=278&c=v0.59.26#w100) |[The First Ukrainian International Bank](/payment-providers/pumb/)|`pumb`| 
 |![twoclick](https://static.openfintech.io/payment_providers/twoclick/icon.png?w=278&c=v0.59.26#w100) |[2click](/payment-providers/twoclick/)|`twoclick`| 
