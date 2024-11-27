@@ -598,6 +598,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![gmo](https://static.openfintech.io/payment_providers/gmo/icon.png?w=278&c=v0.59.26#w100) |[GMO](/payment-providers/gmo/)|`gmo`| 
 |![cardifyx](https://static.openfintech.io/payment_providers/cardifyx/icon.png?w=278&c=v0.59.26#w100) |[CardifyX](/payment-providers/cardifyx/)|`cardifyx`| 
 |![leikur](https://static.openfintech.io/payment_providers/leikur/icon.svg?w=278&c=v0.59.26#w100) |[Leikur](/payment-providers/leikur/)|`leikur`| 
+|![cecabank](https://static.openfintech.io/payment_providers/cecabank/icon.png?w=278&c=v0.59.26#w100) |[Cecabank](/payment-providers/cecabank/)|`cecabank`| 
  
 
 ## JSON Object 

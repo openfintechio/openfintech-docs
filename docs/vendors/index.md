@@ -443,6 +443,7 @@
 |![ccnow](https://static.openfintech.io/vendors/ccnow/logo.png?w=600&c=v0.59.26#w200) |[**CCNow**](ccnow/)|`ccnow`| 
 |![ccvpay](https://static.openfintech.io/vendors/ccvpay/logo.png?w=600&c=v0.59.26#w200) |[**CCV Pay**](ccvpay/)|`ccvpay`| 
 |![cdn](https://static.openfintech.io/vendors/cdn/logo.svg?w=600&c=v0.59.26#w200) |[**CDN**](cdn/)|`cdn`| 
+|![cecabank](https://static.openfintech.io/vendors/cecabank/logo.png?w=600&c=v0.59.26#w200) |[**Cecabank**](cecabank/)|`cecabank`| 
 |![centiwise](https://static.openfintech.io/vendors/centiwise/logo.png?w=600&c=v0.59.26#w200) |[**Centiwise**](centiwise/)|`centiwise`| 
 |![centpays](https://static.openfintech.io/vendors/centpays/logo.png?w=600&c=v0.59.26#w200) |[**Centpays**](centpays/)|`centpays`| 
 |![centralna_fil_prat_ufg_u_m_chernivci](https://static.openfintech.io/vendors/centralna_fil_prat_ufg_u_m_chernivci/logo.svg?w=600&c=v0.59.26#w200) |[**Центральна філія ПрАТ 'Українська фінансова група' у м. Чернівці**](centralna_fil_prat_ufg_u_m_chernivci/)|`centralna_fil_prat_ufg_u_m_chernivci`| 
@@ -1347,6 +1348,7 @@
 |![obmeno.kiev.ua](https://static.openfintech.io/vendors/obmeno.kiev.ua/logo.svg?w=600&c=v0.59.26#w200) |[**Obmeno.Kiev**](obmeno.kiev.ua/)|`obmeno.kiev.ua`| 
 |![obmenoff.cc](https://static.openfintech.io/vendors/obmenoff.cc/logo.svg?w=600&c=v0.59.26#w200) |[**obmenoff.cc**](obmenoff.cc/)|`obmenoff.cc`| 
 |![obmenvalut.net](https://static.openfintech.io/vendors/obmenvalut.net/logo.svg?w=600&c=v0.59.26#w200) |[**ObmenValut.net**](obmenvalut.net/)|`obmenvalut.net`| 
+|![octopays](https://static.openfintech.io/vendors/octopays/logo.svg?w=600&c=v0.59.26#w200) |[**Octopays**](octopays/)|`octopays`| 
 |![octopayz](https://static.openfintech.io/vendors/octopayz/logo.png?w=600&c=v0.59.26#w200) |[**Octopayz**](octopayz/)|`octopayz`| 
 |![octopus](https://static.openfintech.io/vendors/octopus/logo.svg?w=600&c=v0.59.26#w200) |[**Octopus**](octopus/)|`octopus`| 
 |![odeonpay](https://static.openfintech.io/vendors/odeonpay/logo.png?w=600&c=v0.59.26#w200) |[**OdeonPay**](odeonpay/)|`odeonpay`| 

@@ -173,6 +173,7 @@
 |![ccnow](https://static.openfintech.io/payment_providers/ccnow/logo.png?w=600&c=v0.59.26#w100) |[**CCNow**](ccnow/)|`ccnow`| 
 |![ccvpay](https://static.openfintech.io/payment_providers/ccvpay/logo.png?w=600&c=v0.59.26#w100) |[**CCV Pay**](ccvpay/)|`ccvpay`| 
 |![cdn](https://static.openfintech.io/payment_providers/cdn/logo.svg?w=600&c=v0.59.26#w100) |[**CDN**](cdn/)|`cdn`| 
+|![cecabank](https://static.openfintech.io/payment_providers/cecabank/logo.png?w=600&c=v0.59.26#w100) |[**Cecabank**](cecabank/)|`cecabank`| 
 |![centiwise](https://static.openfintech.io/payment_providers/centiwise/logo.png?w=600&c=v0.59.26#w100) |[**Centiwise**](centiwise/)|`centiwise`| 
 |![centpays](https://static.openfintech.io/payment_providers/centpays/logo.svg?w=600&c=v0.59.26#w100) |[**Centpays**](centpays/)|`centpays`| 
 |![centus](https://static.openfintech.io/payment_providers/centus/logo.png?w=600&c=v0.59.26#w100) |[**Centus**](centus/)|`centus`| 
@@ -576,6 +577,7 @@
 |![nummuspay](https://static.openfintech.io/payment_providers/nummuspay/logo.png?w=600&c=v0.59.26#w100) |[**NummusPay**](nummuspay/)|`nummuspay`| 
 |![nxsystems](https://static.openfintech.io/payment_providers/nxsystems/logo.png?w=600&c=v0.59.26#w100) |[**NxSystems**](nxsystems/)|`nxsystems`| 
 || **O** ||
+|![octopays](https://static.openfintech.io/payment_providers/octopays/logo.svg?w=600&c=v0.59.26#w100) |[**Octopays**](octopays/)|`octopays`| 
 |![octopayz](https://static.openfintech.io/payment_providers/octopayz/logo.png?w=600&c=v0.59.26#w100) |[**Octopayz**](octopayz/)|`octopayz`| 
 |![odeonpay](https://static.openfintech.io/payment_providers/odeonpay/logo.png?w=600&c=v0.59.26#w100) |[**OdeonPay**](odeonpay/)|`odeonpay`| 
 |![odysseq](https://static.openfintech.io/payment_providers/odysseq/logo.svg?w=600&c=v0.59.26#w100) |[**Odysseq**](odysseq/)|`odysseq`| 

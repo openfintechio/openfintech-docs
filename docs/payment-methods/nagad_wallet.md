@@ -52,6 +52,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Nagad Dig
 |![wellxpay](https://static.openfintech.io/payment_providers/wellxpay/icon.png?w=278&c=v0.59.26#w100) |[WellxPay](/payment-providers/wellxpay/)|`wellxpay`| 
 |![nagad](https://static.openfintech.io/payment_providers/nagad/icon.png?w=278&c=v0.59.26#w100) |[Nagad](/payment-providers/nagad/)|`nagad`| 
 |![xoompay](https://static.openfintech.io/payment_providers/xoompay/icon.png?w=278&c=v0.59.26#w100) |[Xoompay](/payment-providers/xoompay/)|`xoompay`| 
+|![octopays](https://static.openfintech.io/payment_providers/octopays/icon.svg?w=278&c=v0.59.26#w100) |[Octopays](/payment-providers/octopays/)|`octopays`| 
  
 
 ## JSON Object 
