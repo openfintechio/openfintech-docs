@@ -217,6 +217,7 @@
 |![card](https://static.openfintech.io/payment_methods/card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](card/)|`card`| 
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](card_transfer/)|`card_transfer`| 
 |![card_transfer_aggregated](https://static.openfintech.io/payment_methods/card_transfer_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**Сard Transfer Aggregated**](card_transfer_aggregated/)|`card_transfer_aggregated`| 
+|![card_transfer_aggregated_p2p](https://static.openfintech.io/payment_methods/card_transfer_aggregated_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**Сard Transfer Aggregated P2P**](card_transfer_aggregated_p2p/)|`card_transfer_aggregated_p2p`| 
 |![card_transfer_humo](https://static.openfintech.io/payment_methods/card_transfer_humo/logo.svg?w=400&c=v0.59.26#w200) |[**Humo card transfer**](card_transfer_humo/)|`card_transfer_humo`| 
 |![card_transfer_uzcard](https://static.openfintech.io/payment_methods/card_transfer_uzcard/logo.svg?w=400&c=v0.59.26#w200) |[**Uzcard card transfer**](card_transfer_uzcard/)|`card_transfer_uzcard`| 
 |![cardano](https://static.openfintech.io/payment_methods/cardano/logo.svg?w=400&c=v0.59.26#w200) |[**Cardano**](cardano/)|`cardano`| 
