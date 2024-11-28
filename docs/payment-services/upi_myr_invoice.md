@@ -39,9 +39,9 @@
 	Required: `` 
  
 	Label:  
-	: [EN] Account Number 
-	: [RU] Номер счета 
-	: [UK] Номер рахунку 
+	: [EN] Account Number (VPA) 
+	: [RU] Номер счета (VPA) 
+	: [UK] Номер рахунку (VPA) 
  
 	Hint:  
 	: [EN] Enter Account Number (VPA) 
@@ -65,9 +65,9 @@
       "required":false,
       "position":1,
       "label":{
-        "en":"Account Number",
-        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430",
-        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+        "en":"Account Number (VPA)",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430 (VPA)",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 (VPA)"
       },
       "hint":{
         "en":"Enter Account Number (VPA)",
