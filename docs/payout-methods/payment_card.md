@@ -404,6 +404,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![kiberpay](https://static.openfintech.io/payment_providers/kiberpay/icon.png?w=278&c=v0.59.26#w100) |[Kiberpay](/payment-providers/kiberpay/)|`kiberpay`| 
 |![hawex](https://static.openfintech.io/payment_providers/hawex/icon.svg?w=278&c=v0.59.26#w100) |[HAWEX](/payment-providers/hawex/)|`hawex`| 
 |![paytoneio](https://static.openfintech.io/payment_providers/paytoneio/icon.svg?w=278&c=v0.59.26#w100) |[Paytone.io](/payment-providers/paytoneio/)|`paytoneio`| 
+|![transfr](https://static.openfintech.io/payment_providers/transfr/icon.png?w=278&c=v0.59.26#w100) |[Transfr](/payment-providers/transfr/)|`transfr`| 
 |![honeypay](https://static.openfintech.io/payment_providers/honeypay/icon.png?w=278&c=v0.59.26#w100) |[MilkyPay](/payment-providers/honeypay/)|`honeypay`| 
 |![inwizo](https://static.openfintech.io/payment_providers/inwizo/icon.svg?w=278&c=v0.59.26#w100) |[Inwizo](/payment-providers/inwizo/)|`inwizo`| 
 |![kvitum](https://static.openfintech.io/payment_providers/kvitum/icon.svg?w=278&c=v0.59.26#w100) |[Kvitum](/payment-providers/kvitum/)|`kvitum`| 
