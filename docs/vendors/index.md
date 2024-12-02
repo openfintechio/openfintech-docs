@@ -1634,6 +1634,7 @@
 |![paymentz](https://static.openfintech.io/vendors/paymentz/logo.png?w=600&c=v0.59.26#w200) |[**Paymentz**](paymentz/)|`paymentz`| 
 |![paymer](https://static.openfintech.io/vendors/paymer/logo.svg?w=600&c=v0.59.26#w200) |[**Paymer**](paymer/)|`paymer`| 
 |![paymill](https://static.openfintech.io/vendors/paymill/logo.png?w=600&c=v0.59.26#w200) |[**PAYMILL**](paymill/)|`paymill`| 
+|![paymixvia](https://static.openfintech.io/vendors/paymixvia/logo.svg?w=600&c=v0.59.26#w200) |[**PaymixVia**](paymixvia/)|`paymixvia`| 
 |![paymob](https://static.openfintech.io/vendors/paymob/logo.png?w=600&c=v0.59.26#w200) |[**Paymob**](paymob/)|`paymob`| 
 |![paymomentum](https://static.openfintech.io/vendors/paymomentum/logo.png?w=600&c=v0.59.26#w200) |[**Pay Momentum**](paymomentum/)|`paymomentum`| 
 |![paymtech](https://static.openfintech.io/vendors/paymtech/logo.svg?w=600&c=v0.59.26#w200) |[**Paymtech**](paymtech/)|`paymtech`| 
@@ -2055,6 +2056,7 @@
 |![tbcbank](https://static.openfintech.io/vendors/tbcbank/logo.svg?w=600&c=v0.59.26#w200) |[**TBC Bank**](tbcbank/)|`tbcbank`| 
 |![tcb](https://static.openfintech.io/vendors/tcb/logo.png?w=600&c=v0.59.26#w200) |[**National Bank of Georgia**](tcb/)|`tcb`| 
 |![tcmb](https://static.openfintech.io/vendors/tcmb/logo.svg?w=600&c=v0.59.26#w200) |[**Central Bank of the Republic of Turkey**](tcmb/)|`tcmb`| 
+|![techtopay](https://static.openfintech.io/vendors/techtopay/logo.png?w=600&c=v0.59.26#w200) |[**TechToPay**](techtopay/)|`techtopay`| 
 |![tefpay](https://static.openfintech.io/vendors/tefpay/logo.png?w=600&c=v0.59.26#w200) |[**tefpay**](tefpay/)|`tefpay`| 
 |![telecash](https://static.openfintech.io/vendors/telecash/logo.png?w=600&c=v0.59.26#w200) |[**TeleCash**](telecash/)|`telecash`| 
 |![teleingreso](https://static.openfintech.io/vendors/teleingreso/logo.png?w=600&c=v0.59.26#w200) |[**Teleingreso**](teleingreso/)|`teleingreso`| 

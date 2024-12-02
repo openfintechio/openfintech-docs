@@ -498,6 +498,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![sgate](https://static.openfintech.io/payment_providers/sgate/icon.svg?w=278&c=v0.59.26#w100) |[Sgate](/payment-providers/sgate/)|`sgate`| 
 |![aliumpay](https://static.openfintech.io/payment_providers/aliumpay/icon.svg?w=278&c=v0.59.26#w100) |[AliumPay](/payment-providers/aliumpay/)|`aliumpay`| 
 |![cpay](https://static.openfintech.io/payment_providers/cpay/icon.png?w=278&c=v0.59.26#w100) |[C.Pay](/payment-providers/cpay/)|`cpay`| 
+|![techtopay](https://static.openfintech.io/payment_providers/techtopay/icon.png?w=278&c=v0.59.26#w100) |[TechToPay](/payment-providers/techtopay/)|`techtopay`| 
 |![siquro](https://static.openfintech.io/payment_providers/siquro/icon.png?w=278&c=v0.59.26#w100) |[Siquro](/payment-providers/siquro/)|`siquro`| 
 |![paysecure](https://static.openfintech.io/payment_providers/paysecure/icon.png?w=278&c=v0.59.26#w100) |[Paysecure](/payment-providers/paysecure/)|`paysecure`| 
 |![paylinkio](https://static.openfintech.io/payment_providers/paylinkio/icon.png?w=278&c=v0.59.26#w100) |[Paylinkio](/payment-providers/paylinkio/)|`paylinkio`| 
@@ -600,6 +601,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![cardifyx](https://static.openfintech.io/payment_providers/cardifyx/icon.png?w=278&c=v0.59.26#w100) |[CardifyX](/payment-providers/cardifyx/)|`cardifyx`| 
 |![leikur](https://static.openfintech.io/payment_providers/leikur/icon.svg?w=278&c=v0.59.26#w100) |[Leikur](/payment-providers/leikur/)|`leikur`| 
 |![cecabank](https://static.openfintech.io/payment_providers/cecabank/icon.png?w=278&c=v0.59.26#w100) |[Cecabank](/payment-providers/cecabank/)|`cecabank`| 
+|![paymixvia](https://static.openfintech.io/payment_providers/paymixvia/icon.svg?w=278&c=v0.59.26#w100) |[PaymixVia](/payment-providers/paymixvia/)|`paymixvia`| 
  
 
 ## JSON Object 

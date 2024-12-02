@@ -691,6 +691,7 @@
 |![paymentwall](https://static.openfintech.io/payment_providers/paymentwall/logo.svg?w=600&c=v0.59.26#w100) |[**Paymentwall**](paymentwall/)|`paymentwall`| 
 |![paymentz](https://static.openfintech.io/payment_providers/paymentz/logo.png?w=600&c=v0.59.26#w100) |[**Paymentz**](paymentz/)|`paymentz`| 
 |![paymill](https://static.openfintech.io/payment_providers/paymill/logo.png?w=600&c=v0.59.26#w100) |[**PAYMILL**](paymill/)|`paymill`| 
+|![paymixvia](https://static.openfintech.io/payment_providers/paymixvia/logo.svg?w=600&c=v0.59.26#w100) |[**PaymixVia**](paymixvia/)|`paymixvia`| 
 |![paymob](https://static.openfintech.io/payment_providers/paymob/logo.png?w=600&c=v0.59.26#w100) |[**Paymob**](paymob/)|`paymob`| 
 |![paymomentum](https://static.openfintech.io/payment_providers/paymomentum/logo.png?w=600&c=v0.59.26#w100) |[**Pay Momentum**](paymomentum/)|`paymomentum`| 
 |![paymtech](https://static.openfintech.io/payment_providers/paymtech/logo.svg?w=600&c=v0.59.26#w100) |[**Paymtech**](paymtech/)|`paymtech`| 
@@ -927,6 +928,7 @@
 |![tapbank](https://static.openfintech.io/payment_providers/tapbank/logo.png?w=600&c=v0.59.26#w100) |[**TapBank**](tapbank/)|`tapbank`| 
 |![targetpay](https://static.openfintech.io/payment_providers/targetpay/logo.png?w=600&c=v0.59.26#w100) |[**Targetpay.com**](targetpay/)|`targetpay`| 
 |![taslink](https://static.openfintech.io/payment_providers/taslink/logo.svg?w=600&c=v0.59.26#w100) |[**TAS Link**](taslink/)|`taslink`| 
+|![techtopay](https://static.openfintech.io/payment_providers/techtopay/logo.png?w=600&c=v0.59.26#w100) |[**TechToPay**](techtopay/)|`techtopay`| 
 |![tefpay](https://static.openfintech.io/payment_providers/tefpay/logo.png?w=600&c=v0.59.26#w100) |[**tefpay**](tefpay/)|`tefpay`| 
 |![telecash](https://static.openfintech.io/payment_providers/telecash/logo.png?w=600&c=v0.59.26#w100) |[**TeleCash**](telecash/)|`telecash`| 
 |![test](https://static.openfintech.io/payment_providers/test/logo.png?w=600&c=v0.59.26#w100) |[**Test**](test/)|`test`| 
