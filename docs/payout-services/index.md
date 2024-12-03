@@ -1407,6 +1407,7 @@
 |![MTN](https://static.openfintech.io/payout_methods/mtn/logo.svg?w=400&c=v0.59.26#w24) |[**MTN**](/payout-methods/mtn/)|[`mtn_rwf`](mtn_rwf/)|`RWF`| 
 |![MTN](https://static.openfintech.io/payout_methods/mtn/logo.svg?w=400&c=v0.59.26#w24) |[**MTN**](/payout-methods/mtn/)|[`mtn_ugx`](mtn_ugx/)|`UGX`| 
 |![MTN](https://static.openfintech.io/payout_methods/mtn/logo.svg?w=400&c=v0.59.26#w24) |[**MTN**](/payout-methods/mtn/)|[`mtn_xaf`](mtn_xaf/)|`XAF`| 
+|![MTN](https://static.openfintech.io/payout_methods/mtn/logo.svg?w=400&c=v0.59.26#w24) |[**MTN**](/payout-methods/mtn/)|[`mtn_xof`](mtn_xof/)|`XOF`| 
 |![MTS](https://static.openfintech.io/payout_methods/mts/logo.svg?w=400&c=v0.59.26#w24) |[**MTS**](/payout-methods/mts/)|[`mts_rub`](mts_rub/)|`RUB`| 
 |![MuchBetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](/payout-methods/muchbetter/)|[`muchbetter_brl`](muchbetter_brl/)|`BRL`| 
 |![MuchBetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](/payout-methods/muchbetter/)|[`muchbetter_cad`](muchbetter_cad/)|`CAD`| 
@@ -1564,6 +1565,7 @@
 |![LLC 'VOKS'](https://static.openfintech.io/payout_methods/ooo-voks/logo.png?w=400&c=v0.59.26#w24) |[**LLC 'VOKS'**](/payout-methods/ooo-voks/)|[`ooo-voks_uah`](ooo-voks_uah/)|`UAH`| 
 |![OPTIM (Kiev)](https://static.openfintech.io/payout_methods/optim-kiev/logo.svg?w=400&c=v0.59.26#w24) |[**OPTIM (Kiev)**](/payout-methods/optim-kiev/)|[`optim-kiev_uah`](optim-kiev_uah/)|`UAH`| 
 |![Orange Money](https://static.openfintech.io/payout_methods/orange_money/logo.png?w=400&c=v0.59.26#w24) |[**Orange Money**](/payout-methods/orange_money/)|[`orange_money_xaf`](orange_money_xaf/)|`XAF`| 
+|![Orange Money](https://static.openfintech.io/payout_methods/orange_money/logo.png?w=400&c=v0.59.26#w24) |[**Orange Money**](/payout-methods/orange_money/)|[`orange_money_xof`](orange_money_xof/)|`XOF`| 
 |![ORBITA (Odessa)](https://static.openfintech.io/payout_methods/orbita-odessa/logo.png?w=400&c=v0.59.26#w24) |[**ORBITA (Odessa)**](/payout-methods/orbita-odessa/)|[`orbita-odessa_uah`](orbita-odessa_uah/)|`UAH`| 
 |![Oriental Wallet](https://static.openfintech.io/payout_methods/oriental_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**Oriental Wallet**](/payout-methods/oriental_wallet/)|[`oriental_wallet_eur`](oriental_wallet_eur/)|`EUR`| 
 |![Oriental Wallet](https://static.openfintech.io/payout_methods/oriental_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**Oriental Wallet**](/payout-methods/oriental_wallet/)|[`oriental_wallet_jpy`](oriental_wallet_jpy/)|`JPY`| 
