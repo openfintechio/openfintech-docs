@@ -44,6 +44,7 @@ The list of [Payment Services](/payment-services/) based on the _Rapipago_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![rapipago](https://static.openfintech.io/payment_methods/rapipago/icon.png?w=278&c=v0.59.26#w100) |[rapipago_ars_hpp](/payment-services/rapipago_ars_hpp/)|`rapipago_ars_hpp`| 
+|![rapipago](https://static.openfintech.io/payment_methods/rapipago/icon.png?w=278&c=v0.59.26#w100) |[rapipago_ars_invoice](/payment-services/rapipago_ars_invoice/)|`rapipago_ars_invoice`| 
  
 
 ## Payment Providers 
@@ -55,6 +56,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Rapipago_
 |![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.png?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
 |![allpago](https://static.openfintech.io/payment_providers/allpago/icon.png?w=278&c=v0.59.26#w100) |[allpago - accept payments in Latin America](/payment-providers/allpago/)|`allpago`| 
+|![pagsmile](https://static.openfintech.io/payment_providers/pagsmile/icon.png?w=278&c=v0.59.26#w100) |[Pagsmile](/payment-providers/pagsmile/)|`pagsmile`| 
 |![rixsus](https://static.openfintech.io/payment_providers/rixsus/icon.png?w=278&c=v0.59.26#w100) |[Rixsus](/payment-providers/rixsus/)|`rixsus`| 
  
 

@@ -1340,6 +1340,7 @@
 |![Rapid Transfer](https://static.openfintech.io/payment_methods/rapidtransfer/logo.png?w=400&c=v0.59.26#w200) |[**Rapid Transfer**](/payment-methods/rapidtransfer/)|[`rapidtransfer_eur_hpp`](rapidtransfer_eur_hpp/)| 
 |![Rapid Transfer](https://static.openfintech.io/payment_methods/rapidtransfer/logo.png?w=400&c=v0.59.26#w200) |[**Rapid Transfer**](/payment-methods/rapidtransfer/)|[`rapidtransfer_usd_hpp`](rapidtransfer_usd_hpp/)| 
 |![Rapipago](https://static.openfintech.io/payment_methods/rapipago/logo.png?w=400&c=v0.59.26#w200) |[**Rapipago**](/payment-methods/rapipago/)|[`rapipago_ars_hpp`](rapipago_ars_hpp/)| 
+|![Rapipago](https://static.openfintech.io/payment_methods/rapipago/logo.png?w=400&c=v0.59.26#w200) |[**Rapipago**](/payment-methods/rapipago/)|[`rapipago_ars_invoice`](rapipago_ars_invoice/)| 
 |![RBK Money](https://static.openfintech.io/payment_methods/rbkmoney/logo.png?w=400&c=v0.59.26#w200) |[**RBK Money**](/payment-methods/rbkmoney/)|[`rbkmoney_rub_hpp`](rbkmoney_rub_hpp/)| 
 |![RBL Bank](https://static.openfintech.io/payment_methods/rbl_bank/logo.png?w=400&c=v0.59.26#w200) |[**RBL Bank**](/payment-methods/rbl_bank/)|[`rbl_bank_inr_hpp`](rbl_bank_inr_hpp/)| 
 |![Red Activa](https://static.openfintech.io/payment_methods/red_activa_cash/logo.png?w=400&c=v0.59.26#w200) |[**Red Activa**](/payment-methods/red_activa_cash/)|[`red_activa_cash_usd_hpp`](red_activa_cash_usd_hpp/)| 
