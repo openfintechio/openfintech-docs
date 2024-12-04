@@ -32,6 +32,7 @@
 |`beneficiary_account_number`|✗|`string`|`/^\w{1,30}$/`| 
 |`bank_branch_code`|✗|`string`|`/^[0-9]{2,100}$/`| 
 |`ifsc`|✗|`string`|`/^[A-Za-z0-9]{11}$/`| 
+|`bank_name`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
  
 
 ### Details 
@@ -179,6 +180,24 @@
 	: [EN] Enter IFSC 
 	: [RU] Введите IFSC 
 	: [UK] Введіть IFSC 
+ 
+9. **`bank_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[\s\p{L}\p{N}\p{P}]{2,100}$/u` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank Name 
+	: [RU] Название банка 
+	: [UK] Назву банку 
+ 
+	Hint:  
+	: [EN] Enter bank name 
+	: [RU] Введите название банка 
+	: [UK] Введіть назву банку 
  
 
 ## JSON Object 
@@ -330,6 +349,23 @@
       "regexp":"\/^[A-Za-z0-9]{11}$\/",
       "required":false,
       "position":8
+    },
+    {
+      "key":"bank_name",
+      "type":"string",
+      "label":{
+        "en":"Bank Name",
+        "ru":"\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u041d\u0430\u0437\u0432\u0443 \u0431\u0430\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter bank name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u0430\u0437\u0432\u0443 \u0431\u0430\u043d\u043a\u0443"
+      },
+      "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}]{2,100}$\/u",
+      "required":false,
+      "position":9
     }
   ],
   "amount_min":0.01,

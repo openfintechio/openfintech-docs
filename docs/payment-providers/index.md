@@ -251,6 +251,7 @@
 |![decard](https://static.openfintech.io/payment_providers/decard/logo.svg?w=600&c=v0.59.26#w100) |[**Decard**](decard/)|`decard`| 
 |![decta](https://static.openfintech.io/payment_providers/decta/logo.svg?w=600&c=v0.59.26#w100) |[**Decta**](decta/)|`decta`| 
 |![dectasoap](https://static.openfintech.io/payment_providers/dectasoap/logo.svg?w=600&c=v0.59.26#w100) |[**DectaSoap**](dectasoap/)|`dectasoap`| 
+|![deficopay](https://static.openfintech.io/payment_providers/deficopay/logo.png?w=600&c=v0.59.26#w100) |[**DEFICOPAY**](deficopay/)|`deficopay`| 
 |![dengionline](https://static.openfintech.io/payment_providers/dengionline/logo.png?w=600&c=v0.59.26#w100) |[**Dengi Online**](dengionline/)|`dengionline`| 
 |![deprecated](https://static.openfintech.io/payment_providers/deprecated/logo.svg?w=600&c=v0.59.26#w100) |[**ASSIST**](deprecated/)|`deprecated`| 
 |![deutschepayment](https://static.openfintech.io/payment_providers/deutschepayment/logo.png?w=600&c=v0.59.26#w100) |[**Deutsche Payment**](deutschepayment/)|`deutschepayment`| 
