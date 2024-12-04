@@ -84,6 +84,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![unity_bank](https://static.openfintech.io/payout_methods/unity_bank/icon.svg?w=278&c=v0.59.26#w40) |[unity_bank](payout-methodsunity_bank/)|`unity_bank`| 
 |![wema_bank](https://static.openfintech.io/payout_methods/wema_bank/icon.svg?w=278&c=v0.59.26#w40) |[wema_bank](payout-methodswema_bank/)|`wema_bank`| 
 |![zenith_bank](https://static.openfintech.io/payout_methods/zenith_bank/icon.svg?w=278&c=v0.59.26#w40) |[zenith_bank](payout-methodszenith_bank/)|`zenith_bank`| 
+|![orange_money](https://static.openfintech.io/payout_methods/orange_money/icon.png?w=278&c=v0.59.26#w40) |[orange_money](payout-methodsorange_money/)|`orange_money`| 
  
 
 ## JSON Object 
@@ -134,7 +135,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "united_bankfor_africa",
     "unity_bank",
     "wema_bank",
-    "zenith_bank"
+    "zenith_bank",
+    "orange_money"
   ],
   "metadata":null,
   "name":{
