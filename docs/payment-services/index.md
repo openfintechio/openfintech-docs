@@ -835,6 +835,7 @@
 |![Kasha wallet](https://static.openfintech.io/payment_methods/kasha_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**Kasha wallet**](/payment-methods/kasha_wallet/)|[`kasha_wallet_zmw_hpp`](kasha_wallet_zmw_hpp/)| 
 |![Kasikorn Bank](https://static.openfintech.io/payment_methods/kasikorn_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Kasikorn Bank**](/payment-methods/kasikorn_bank/)|[`kasikorn_bank_thb_hpp`](kasikorn_bank_thb_hpp/)| 
 |![Kasnet](https://static.openfintech.io/payment_methods/kasnet_cash/logo.png?w=400&c=v0.59.26#w200) |[**Kasnet**](/payment-methods/kasnet_cash/)|[`kasnet_cash_pen_hpp`](kasnet_cash_pen_hpp/)| 
+|![Khipu](https://static.openfintech.io/payment_methods/khipu/logo.png?w=400&c=v0.59.26#w200) |[**Khipu**](/payment-methods/khipu/)|[`khipu_ars_hpp`](khipu_ars_hpp/)| 
 |![Khipu](https://static.openfintech.io/payment_methods/khipu/logo.png?w=400&c=v0.59.26#w200) |[**Khipu**](/payment-methods/khipu/)|[`khipu_clp_hpp`](khipu_clp_hpp/)| 
 |![Khipu](https://static.openfintech.io/payment_methods/khipu/logo.png?w=400&c=v0.59.26#w200) |[**Khipu**](/payment-methods/khipu/)|[`khipu_usd_hpp`](khipu_usd_hpp/)| 
 |![Kiatnakin Bank](https://static.openfintech.io/payment_methods/kiatnakin_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Kiatnakin Bank**](/payment-methods/kiatnakin_bank/)|[`kiatnakin_bank_thb_hpp`](kiatnakin_bank_thb_hpp/)| 

@@ -27,6 +27,7 @@
 |:---:|:---:|:---:|:---:| 
 |`identification_number`|✗|`string`|`/^.{1,50}$/`| 
 |`account`|✗|`string`|`/^.{1,50}$/`| 
+|`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
  
 
 ### Details 
@@ -66,6 +67,24 @@
 	: [EN] Enter client account number 
 	: [RU] Введите номер клиентского счета 
 	: [UK] Введіть номер рахунку клієнта 
+ 
+3. **`bank_code`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z0-9]{2,20}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Payer bank code 
+	: [RU] Код банка отправителя 
+	: [UK] Код банку відправника 
+ 
+	Hint:  
+	: [EN] Enter payer bank code 
+	: [RU] Введите код банка отправителя 
+	: [UK] Введіть код банку відправника 
  
 
 ## JSON Object 
@@ -112,6 +131,24 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 \u043a\u043b\u0456\u0454\u043d\u0442\u0430"
       },
       "example":"1100382992"
+    },
+    {
+      "key":"bank_code",
+      "type":"string",
+      "regexp":"\/^[A-Za-z0-9]{2,20}$\/",
+      "required":false,
+      "position":3,
+      "label":{
+        "en":"Payer bank code",
+        "ru":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430 \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
+        "uk":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443 \u0432\u0456\u0434\u043f\u0440\u0430\u0432\u043d\u0438\u043a\u0430"
+      },
+      "hint":{
+        "en":"Enter payer bank code",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430 \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443 \u0432\u0456\u0434\u043f\u0440\u0430\u0432\u043d\u0438\u043a\u0430"
+      },
+      "example":"050"
     }
   ],
   "amount_min":0.01,
