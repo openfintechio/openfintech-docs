@@ -61,6 +61,10 @@ The list of supported [Payout Methods](/payout-methods/)
 |![upi](https://static.openfintech.io/payout_methods/upi/icon.svg?w=278&c=v0.59.26#w40) |[upi](payout-methodsupi/)|`upi`| 
 |![imps](https://static.openfintech.io/payout_methods/imps/icon.png?w=278&c=v0.59.26#w40) |[imps](payout-methodsimps/)|`imps`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
+|![bkash_limited](https://static.openfintech.io/payout_methods/bkash_limited/icon.png?w=278&c=v0.59.26#w40) |[bkash_limited](payout-methodsbkash_limited/)|`bkash_limited`| 
+|![nagad_wallet](https://static.openfintech.io/payout_methods/nagad_wallet/icon.svg?w=278&c=v0.59.26#w40) |[nagad_wallet](payout-methodsnagad_wallet/)|`nagad_wallet`| 
+|![dutch_bangla_bank_limited_rocket](https://static.openfintech.io/payout_methods/dutch_bangla_bank_limited_rocket/icon.svg?w=278&c=v0.59.26#w40) |[dutch_bangla_bank_limited_rocket](payout-methodsdutch_bangla_bank_limited_rocket/)|`dutch_bangla_bank_limited_rocket`| 
+|![united_commercial_bank_upay](https://static.openfintech.io/payout_methods/united_commercial_bank_upay/icon.svg?w=278&c=v0.59.26#w40) |[united_commercial_bank_upay](payout-methodsunited_commercial_bank_upay/)|`united_commercial_bank_upay`| 
  
 
 ## JSON Object 
@@ -88,7 +92,11 @@ The list of supported [Payout Methods](/payout-methods/)
     "payment_card",
     "upi",
     "imps",
-    "bank_transfer"
+    "bank_transfer",
+    "bkash_limited",
+    "nagad_wallet",
+    "dutch_bangla_bank_limited_rocket",
+    "united_commercial_bank_upay"
   ],
   "metadata":null,
   "name":{
