@@ -560,6 +560,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![cashia](https://static.openfintech.io/payment_providers/cashia/icon.png?w=278&c=v0.59.26#w100) |[Cashia](/payment-providers/cashia/)|`cashia`| 
 |![rampnow](https://static.openfintech.io/payment_providers/rampnow/icon.svg?w=278&c=v0.59.26#w100) |[Rampnow](/payment-providers/rampnow/)|`rampnow`| 
 |![hellopayment](https://static.openfintech.io/payment_providers/hellopayment/icon.png?w=278&c=v0.59.26#w100) |[HelloPayment](/payment-providers/hellopayment/)|`hellopayment`| 
+|![thetarget](https://static.openfintech.io/payment_providers/thetarget/icon.svg?w=278&c=v0.59.26#w100) |[Target](/payment-providers/thetarget/)|`thetarget`| 
 |![kitopay](https://static.openfintech.io/payment_providers/kitopay/icon.png?w=278&c=v0.59.26#w100) |[Kitopay](/payment-providers/kitopay/)|`kitopay`| 
 |![paymentspro](https://static.openfintech.io/payment_providers/paymentspro/icon.png?w=278&c=v0.59.26#w100) |[PaymentsPro](/payment-providers/paymentspro/)|`paymentspro`| 
 |![pxpfinancial](https://static.openfintech.io/payment_providers/pxpfinancial/icon.png?w=278&c=v0.59.26#w100) |[PXP financial](/payment-providers/pxpfinancial/)|`pxpfinancial`| 

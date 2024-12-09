@@ -939,6 +939,7 @@
 |![thelogicgroup](https://static.openfintech.io/payment_providers/thelogicgroup/logo.png?w=600&c=v0.59.26#w100) |[**The Logic Group**](thelogicgroup/)|`thelogicgroup`| 
 |![thenoy](https://static.openfintech.io/payment_providers/thenoy/logo.png?w=600&c=v0.59.26#w100) |[**THENOY**](thenoy/)|`thenoy`| 
 |![thepaymentconsultant](https://static.openfintech.io/payment_providers/thepaymentconsultant/logo.svg?w=600&c=v0.59.26#w100) |[**The Payment Consultant**](thepaymentconsultant/)|`thepaymentconsultant`| 
+|![thetarget](https://static.openfintech.io/payment_providers/thetarget/logo.svg?w=600&c=v0.59.26#w100) |[**Target**](thetarget/)|`thetarget`| 
 |![thorpayments](https://static.openfintech.io/payment_providers/thorpayments/logo.png?w=600&c=v0.59.26#w100) |[**Thor Payments**](thorpayments/)|`thorpayments`| 
 |![tillpayments](https://static.openfintech.io/payment_providers/tillpayments/logo.png?w=600&c=v0.59.26#w100) |[**Till Payments**](tillpayments/)|`tillpayments`| 
 |![tinkoff](https://static.openfintech.io/payment_providers/tinkoff/logo.svg?w=600&c=v0.59.26#w100) |[**Tinkoff**](tinkoff/)|`tinkoff`| 

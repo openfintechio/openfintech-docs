@@ -2074,6 +2074,7 @@
 |![thelogicgroup](https://static.openfintech.io/vendors/thelogicgroup/logo.png?w=600&c=v0.59.26#w200) |[**The Logic Group**](thelogicgroup/)|`thelogicgroup`| 
 |![thenoy](https://static.openfintech.io/vendors/thenoy/logo.png?w=600&c=v0.59.26#w200) |[**THENOY**](thenoy/)|`thenoy`| 
 |![thepaymentconsultant](https://static.openfintech.io/vendors/thepaymentconsultant/logo.svg?w=600&c=v0.59.26#w200) |[**The Payment Consultant**](thepaymentconsultant/)|`thepaymentconsultant`| 
+|![thetarget](https://static.openfintech.io/vendors/thetarget/logo.svg?w=600&c=v0.59.26#w200) |[**Target**](thetarget/)|`thetarget`| 
 |![thorpayments](https://static.openfintech.io/vendors/thorpayments/logo.svg?w=600&c=v0.59.26#w200) |[**Thor Payments**](thorpayments/)|`thorpayments`| 
 |![ticketpremium](https://static.openfintech.io/vendors/ticketpremium/logo.png?w=600&c=v0.59.26#w200) |[**Ticket Premium**](ticketpremium/)|`ticketpremium`| 
 |![tillpayments](https://static.openfintech.io/vendors/tillpayments/logo.png?w=600&c=v0.59.26#w200) |[**Till Payments**](tillpayments/)|`tillpayments`| 
