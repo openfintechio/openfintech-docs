@@ -100,6 +100,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |![bank_transfer_aggregated](https://static.openfintech.io/payment_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_aggregated](/payment-methods/bank_transfer_aggregated/)|`bank_transfer_aggregated`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -170,7 +179,9 @@ The list of supported [Payment Methods](/payment-methods/)
     "cash",
     "bank_transfer_aggregated"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "bank_transfer"
+  ],
   "metadata":null,
   "name":{
     "en":"Payfuture",

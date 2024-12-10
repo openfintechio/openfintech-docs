@@ -25,7 +25,7 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`account_number`|✗|`string`|`/^[A-Z]{2}[A-Z0-9]{13,32}$\|^[0-9]{3,15}$/`| 
-|`account_type`|✗|`string`|`/^[A-Za-z0-9]{1,10}$/`| 
+|`account_type`|✗|`string`|`/^[A-Za-z0-9]{1,50}$/`| 
 |`account_name`|✗|`string`|`/^[A-Za-z0-9\s]{2,100}$/`| 
 |`bank_branch`|✗|`string`|`/^[A-za-z,0-9]{2,100}$/`| 
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
@@ -46,6 +46,7 @@
 |`beneficiary_phone`|✗|`string`|`/^\d{10,14}$/`| 
 |`beneficiary_dob`|✗|`string`|`/^([0-2][0-9]\|(3)[0-1])(\/)(((0)[0-9])\|((1)[0-2]))(\/)\d{4}\|\|((19\|20)\d{2}(0[1-9]\|1[0-2])(0[1-9]\|[12]\d\|3[01]))$/`| 
 |`bank_account`|✗|`string`|`/^[0-9]{1,30}$/`| 
+|`bank_branch_code`|✗|`string`|`/^[A-Za-z0-9]{2,100}$/`| 
  
 
 ### Details 
@@ -72,7 +73,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-z0-9]{1,10}$/` 
+	Regexp: `/^[A-Za-z0-9]{1,50}$/` 
  
 	Required: `` 
  
@@ -446,6 +447,24 @@
 	: [RU] Введите номер банковского счета 
 	: [UK] Введіть номер банківського рахунку 
  
+23. **`bank_branch_code`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z0-9]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank Branch Code 
+	: [RU] Bank Branch Code 
+	: [UK] Bank Branch Code 
+ 
+	Hint:  
+	: [EN] Enter Bank Branch Code 
+	: [RU] Введите Bank Branch Code 
+	: [UK] Введіть Bank Branch Code 
+ 
 
 ## JSON Object 
 
@@ -476,7 +495,7 @@
     {
       "key":"account_type",
       "type":"string",
-      "regexp":"\/^[A-Za-z0-9]{1,10}$\/",
+      "regexp":"\/^[A-Za-z0-9]{1,50}$\/",
       "required":false,
       "position":2,
       "label":{
@@ -778,7 +797,7 @@
       "example":"johndoe@example.com",
       "regexp":"\/[a-z0-9!#$%&'*+\\\/=?^_`{|}~-]+(?:\\.[a-z0-9!#$%&'*+\\\/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])\/",
       "required":false,
-      "position":12
+      "position":19
     },
     {
       "key":"beneficiary_phone",
@@ -796,14 +815,14 @@
       "example":"6339152330011",
       "regexp":"\/^\\d{10,14}$\/",
       "required":false,
-      "position":13
+      "position":20
     },
     {
       "key":"beneficiary_dob",
       "type":"string",
       "regexp":"\/^([0-2][0-9]|(3)[0-1])(\\\/)(((0)[0-9])|((1)[0-2]))(\\\/)\\d{4}||((19|20)\\d{2}(0[1-9]|1[0-2])(0[1-9]|[12]\\d|3[01]))$\/",
       "required":false,
-      "position":14,
+      "position":21,
       "label":{
         "en":"Date of birth",
         "ru":"\u0414\u0430\u0442\u0430 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
@@ -830,8 +849,26 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
       },
-      "position":15,
+      "position":22,
       "required":false
+    },
+    {
+      "key":"bank_branch_code",
+      "type":"string",
+      "regexp":"\/^[A-Za-z0-9]{2,100}$\/",
+      "required":false,
+      "position":23,
+      "label":{
+        "en":"Bank Branch Code",
+        "ru":"Bank Branch Code",
+        "uk":"Bank Branch Code"
+      },
+      "hint":{
+        "en":"Enter Bank Branch Code",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Bank Branch Code",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Bank Branch Code"
+      },
+      "example":"A6A2B6"
     }
   ],
   "amount_min":"0.01",

@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`account_type`|✗|`string`|`/^[A-Z]{1,3}$/`| 
+|`account_type`|✗|`string`|`/^[A-Za-z]{1,50}$/`| 
 |`bank_code`|✗|`string`|`/^[0-9]{1,3}$/`| 
 |`beneficiary_document_type`|✗|`string`|`/^[A-Za-z]{2,20}$/`| 
 |`beneficiary_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
@@ -39,6 +39,12 @@
 |`beneficiary_dob`|✗|`string`|`/^([0-2][0-9]\|(3)[0-1])(\/)(((0)[0-9])\|((1)[0-2]))(\/)\d{4}\|\|((19\|20)\d{2}(0[1-9]\|1[0-2])(0[1-9]\|[12]\d\|3[01]))$/`| 
 |`beneficiary_city`|✗|`string`|`/^.{1,100}$/`| 
 |`beneficiary_postcode`|✗|`string`|`/^.{1,255}$/`| 
+|`account_number`|✗|`string`|`/^[A-Z]{2}[A-Z0-9]{13,32}$\|^[0-9]{3,20}$/`| 
+|`bank_name`|✗|`string`|`/^[A-Z\-\sa-z0-9_]{2,100}$/`| 
+|`bank_address`|✗|`string`|`/^[a-zA-Z0-9 \/_.,'-]{1,200}$/`| 
+|`beneficiary_state`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
+|`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
+|`bank_branch_code`|✗|`string`|`/^[A-Za-z0-9]{2,100}$/`| 
  
 
 ### Details 
@@ -47,7 +53,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z]{1,3}$/` 
+	Regexp: `/^[A-Za-z]{1,50}$/` 
  
 	Required: `` 
  
@@ -125,13 +131,13 @@
  
 	Label:  
 	: [EN] Beneficiary last name 
-	: [RU] Имя получателя 
-	: [UK] Імʼя отримувача 
+	: [RU] Фамилия получателя 
+	: [UK] Прізвище отримувача 
  
 	Hint:  
 	: [EN] Enter beneficiary last name 
-	: [RU] Введите имя получателя 
-	: [UK] Введіть імʼя отримувача 
+	: [RU] Введите фамилию получателя 
+	: [UK] Введіть прізвище отримувача 
  
 6. **`bank_account`** 
  
@@ -313,6 +319,114 @@
 	: [RU] Enter postcode 
 	: [UK] Enter postcode 
  
+16. **`account_number`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Z]{2}[A-Z0-9]{13,32}$|^[0-9]{3,20}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Account number 
+	: [RU] Номер счета 
+	: [UK] Номер рахунку 
+ 
+	Hint:  
+	: [EN] Enter account number or IBAN 
+	: [RU] Введите номер счета или IBAN 
+	: [UK] Введіть номер рахунку або IBAN 
+ 
+17. **`bank_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Z\-\sa-z0-9_]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank Name 
+	: [RU] Имя банка 
+	: [UK] Ім'я банку 
+ 
+	Hint:  
+	: [EN] Enter bank name 
+	: [RU] Введите имя банка 
+	: [UK] Введіть ім'я банку 
+ 
+18. **`bank_address`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[a-zA-Z0-9 \/_.,'-]{1,200}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank Address 
+	: [RU] Адрес банка 
+	: [UK] Адреса банку 
+ 
+	Hint:  
+	: [EN] Enter bank address 
+	: [RU] Введите адрес банка 
+	: [UK] Введіть адресу банку 
+ 
+19. **`beneficiary_state`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary state 
+	: [RU] Beneficiary state 
+	: [UK] Beneficiary state 
+ 
+	Hint:  
+	: [EN] Enter beneficiary state 
+	: [RU] Введите beneficiary state 
+	: [UK] Введіть beneficiary state 
+ 
+20. **`beneficiary_full_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary full name 
+	: [RU] Полное имя получателя 
+	: [UK] Повне імʼя отримувача 
+ 
+	Hint:  
+	: [EN] Enter beneficiary full name 
+	: [RU] Введите полное имя получателя 
+	: [UK] Введіть повне імʼя отримувача 
+ 
+21. **`bank_branch_code`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z0-9]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank Branch Code 
+	: [RU] Bank Branch Code 
+	: [UK] Bank Branch Code 
+ 
+	Hint:  
+	: [EN] Enter Bank Branch Code 
+	: [RU] Введите Bank Branch Code 
+	: [UK] Введіть Bank Branch Code 
+ 
 
 ## JSON Object 
 
@@ -325,7 +439,7 @@
     {
       "key":"account_type",
       "type":"string",
-      "regexp":"\/^[A-Z]{1,3}$\/",
+      "regexp":"\/^[A-Za-z]{1,50}$\/",
       "label":{
         "en":"Account type",
         "ru":"\u0422\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",
@@ -395,13 +509,13 @@
       "type":"string",
       "label":{
         "en":"Beneficiary last name",
-        "ru":"\u0418\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
-        "uk":"\u0406\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+        "ru":"\u0424\u0430\u043c\u0438\u043b\u0438\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u041f\u0440\u0456\u0437\u0432\u0438\u0449\u0435 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
       },
       "hint":{
         "en":"Enter beneficiary last name",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0444\u0430\u043c\u0438\u043b\u0438\u044e \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u0440\u0456\u0437\u0432\u0438\u0449\u0435 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
       },
       "regexp":"\/^[A-Z\\-\\sa-z]{2,100}$\/",
       "position":5,
@@ -582,6 +696,110 @@
         "uk":"Enter postcode"
       },
       "example":"postcode"
+    },
+    {
+      "key":"account_number",
+      "type":"string",
+      "label":{
+        "en":"Account number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "regexp":"\/^[A-Z]{2}[A-Z0-9]{13,32}$|^[0-9]{3,20}$\/",
+      "required":false,
+      "position":16,
+      "hint":{
+        "en":"Enter account number or IBAN",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430 \u0438\u043b\u0438 IBAN",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 \u0430\u0431\u043e IBAN"
+      },
+      "example":"GB97BARC20031877565489"
+    },
+    {
+      "key":"bank_name",
+      "type":"string",
+      "regexp":"\/^[A-Z\\-\\sa-z0-9_]{2,100}$\/",
+      "required":false,
+      "position":17,
+      "label":{
+        "en":"Bank Name",
+        "ru":"\u0418\u043c\u044f \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u0406\u043c'\u044f \u0431\u0430\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter bank name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c'\u044f \u0431\u0430\u043d\u043a\u0443"
+      }
+    },
+    {
+      "key":"bank_address",
+      "type":"string",
+      "regexp":"\/^[a-zA-Z0-9 \\\/_.,'-]{1,200}$\/",
+      "required":false,
+      "position":18,
+      "label":{
+        "en":"Bank Address",
+        "ru":"\u0410\u0434\u0440\u0435\u0441 \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u0410\u0434\u0440\u0435\u0441\u0430 \u0431\u0430\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter bank address",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0430\u0434\u0440\u0435\u0441 \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0430\u0434\u0440\u0435\u0441\u0443 \u0431\u0430\u043d\u043a\u0443"
+      }
+    },
+    {
+      "key":"beneficiary_state",
+      "type":"string",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f,\\s\\-\\d]{2,64}$\/",
+      "required":false,
+      "position":19,
+      "label":{
+        "en":"Beneficiary state",
+        "ru":"Beneficiary state",
+        "uk":"Beneficiary state"
+      },
+      "hint":{
+        "en":"Enter beneficiary state",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 beneficiary state",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c beneficiary state"
+      }
+    },
+    {
+      "key":"beneficiary_full_name",
+      "type":"string",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\d\\s]{2,100}$\/",
+      "required":false,
+      "position":20,
+      "label":{
+        "en":"Beneficiary full name",
+        "ru":"\u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u041f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter beneficiary full name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      }
+    },
+    {
+      "key":"bank_branch_code",
+      "type":"string",
+      "regexp":"\/^[A-Za-z0-9]{2,100}$\/",
+      "required":false,
+      "position":21,
+      "label":{
+        "en":"Bank Branch Code",
+        "ru":"Bank Branch Code",
+        "uk":"Bank Branch Code"
+      },
+      "hint":{
+        "en":"Enter Bank Branch Code",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Bank Branch Code",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Bank Branch Code"
+      },
+      "example":"A6A2B6"
     }
   ],
   "amount_min":1,
