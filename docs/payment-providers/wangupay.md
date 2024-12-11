@@ -43,6 +43,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |![online_banking_qr](https://static.openfintech.io/payment_methods/online_banking_qr/icon.svg?w=278&c=v0.59.26#w100) |[online_banking_qr](/payment-methods/online_banking_qr/)|`online_banking_qr`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![momo](https://static.openfintech.io/payout_methods/momo/icon.svg?w=278&c=v0.59.26#w40) |[momo](payout-methodsmomo/)|`momo`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -56,7 +65,9 @@ The list of supported [Payment Methods](/payment-methods/)
     "momopay",
     "online_banking_qr"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "momo"
+  ],
   "metadata":null,
   "name":{
     "en":"WanguPay",
