@@ -39,6 +39,7 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![momo](https://static.openfintech.io/payment_methods/momo/icon.png?w=278&c=v0.59.26#w100) |[momo](/payment-methods/momo/)|`momo`| 
 |![momopay](https://static.openfintech.io/payment_methods/momopay/icon.png?w=278&c=v0.59.26#w100) |[momopay](/payment-methods/momopay/)|`momopay`| 
 |![online_banking_qr](https://static.openfintech.io/payment_methods/online_banking_qr/icon.svg?w=278&c=v0.59.26#w100) |[online_banking_qr](/payment-methods/online_banking_qr/)|`online_banking_qr`| 
  
@@ -62,6 +63,7 @@ The list of supported [Payout Methods](/payout-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
+    "momo",
     "momopay",
     "online_banking_qr"
   ],
