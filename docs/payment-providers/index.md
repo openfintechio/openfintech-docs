@@ -463,6 +463,7 @@
 |![justipay](https://static.openfintech.io/payment_providers/justipay/logo.svg?w=600&c=v0.59.26#w100) |[**Justipay**](justipay/)|`justipay`| 
 || **K** ||
 |![kalixa](https://static.openfintech.io/payment_providers/kalixa/logo.png?w=600&c=v0.59.26#w100) |[**Kalixa Payments Group**](kalixa/)|`kalixa`| 
+|![kalonpay](https://static.openfintech.io/payment_providers/kalonpay/logo.svg?w=600&c=v0.59.26#w100) |[**KalonPay**](kalonpay/)|`kalonpay`| 
 |![kasha](https://static.openfintech.io/payment_providers/kasha/logo.png?w=600&c=v0.59.26#w100) |[**Kasha**](kasha/)|`kasha`| 
 |![kassa](https://static.openfintech.io/payment_providers/kassa/logo.svg?w=600&c=v0.59.26#w100) |[**Kassa**](kassa/)|`kassa`| 
 |![kassacompleet](https://static.openfintech.io/payment_providers/kassacompleet/logo.png?w=600&c=v0.59.26#w100) |[**Kassa Compleet**](kassacompleet/)|`kassacompleet`| 
@@ -562,6 +563,7 @@
 |![netpay](https://static.openfintech.io/payment_providers/netpay/logo.png?w=600&c=v0.59.26#w100) |[**NetPay**](netpay/)|`netpay`| 
 |![netpayinternational2](https://static.openfintech.io/payment_providers/netpayinternational2/logo.png?w=600&c=v0.59.26#w100) |[**NetPay International**](netpayinternational2/)|`netpayinternational2`| 
 |![nets](https://static.openfintech.io/payment_providers/nets/logo.png?w=600&c=v0.59.26#w100) |[**Nets**](nets/)|`nets`| 
+|![netsellerpay](https://static.openfintech.io/payment_providers/netsellerpay/logo.png?w=600&c=v0.59.26#w100) |[**Netsellerpay**](netsellerpay/)|`netsellerpay`| 
 |![networx](https://static.openfintech.io/payment_providers/networx/logo.png?w=600&c=v0.59.26#w100) |[**Networx**](networx/)|`networx`| 
 |![nextpay](https://static.openfintech.io/payment_providers/nextpay/logo.png?w=600&c=v0.59.26#w100) |[**NextPay**](nextpay/)|`nextpay`| 
 |![nganluong](https://static.openfintech.io/payment_providers/nganluong/logo.png?w=600&c=v0.59.26#w100) |[**Ngan Luong **](nganluong/)|`nganluong`| 

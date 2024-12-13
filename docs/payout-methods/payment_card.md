@@ -604,6 +604,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![cecabank](https://static.openfintech.io/payment_providers/cecabank/icon.png?w=278&c=v0.59.26#w100) |[Cecabank](/payment-providers/cecabank/)|`cecabank`| 
 |![paymixvia](https://static.openfintech.io/payment_providers/paymixvia/icon.svg?w=278&c=v0.59.26#w100) |[PaymixVia](/payment-providers/paymixvia/)|`paymixvia`| 
 |![deficopay](https://static.openfintech.io/payment_providers/deficopay/icon.png?w=278&c=v0.59.26#w100) |[DEFICOPAY](/payment-providers/deficopay/)|`deficopay`| 
+|![netsellerpay](https://static.openfintech.io/payment_providers/netsellerpay/icon.png?w=278&c=v0.59.26#w100) |[Netsellerpay](/payment-providers/netsellerpay/)|`netsellerpay`| 
+|![kalonpay](https://static.openfintech.io/payment_providers/kalonpay/icon.svg?w=278&c=v0.59.26#w100) |[KalonPay](/payment-providers/kalonpay/)|`kalonpay`| 
  
 
 ## JSON Object 

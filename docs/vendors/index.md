@@ -1065,6 +1065,7 @@
 |![kakao_bank](https://static.openfintech.io/vendors/kakao_bank/logo.png?w=600&c=v0.59.26#w200) |[**KakaoBank Corp.**](kakao_bank/)|`kakao_bank`| 
 |![kakaopay_bank](https://static.openfintech.io/vendors/kakaopay_bank/logo.png?w=600&c=v0.59.26#w200) |[**Kakaopay Securities Corp.**](kakaopay_bank/)|`kakaopay_bank`| 
 |![kalixa](https://static.openfintech.io/vendors/kalixa/logo.png?w=600&c=v0.59.26#w200) |[**Kalixa Payments Group**](kalixa/)|`kalixa`| 
+|![kalonpay](https://static.openfintech.io/vendors/kalonpay/logo.svg?w=600&c=v0.59.26#w200) |[**KalonPay**](kalonpay/)|`kalonpay`| 
 |![kanagawa_bank](https://static.openfintech.io/vendors/kanagawa_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Kanagawa Bank**](kanagawa_bank/)|`kanagawa_bank`| 
 |![kansai_mirai_bank](https://static.openfintech.io/vendors/kansai_mirai_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Kansai Mirai Bank**](kansai_mirai_bank/)|`kansai_mirai_bank`| 
 |![kapitalbank](https://static.openfintech.io/vendors/kapitalbank/logo.svg?w=600&c=v0.59.26#w200) |[**Kapital bank**](kapitalbank/)|`kapitalbank`| 
@@ -1307,6 +1308,7 @@
 |![netpay](https://static.openfintech.io/vendors/netpay/logo.png?w=600&c=v0.59.26#w200) |[**NetPay**](netpay/)|`netpay`| 
 |![netpayinternational2](https://static.openfintech.io/vendors/netpayinternational2/logo.png?w=600&c=v0.59.26#w200) |[**NetPay International**](netpayinternational2/)|`netpayinternational2`| 
 |![nets](https://static.openfintech.io/vendors/nets/logo.png?w=600&c=v0.59.26#w200) |[**Nets**](nets/)|`nets`| 
+|![netsellerpay](https://static.openfintech.io/vendors/netsellerpay/logo.png?w=600&c=v0.59.26#w200) |[**Netsellerpay**](netsellerpay/)|`netsellerpay`| 
 |![networx](https://static.openfintech.io/vendors/networx/logo.png?w=600&c=v0.59.26#w200) |[**Networx**](networx/)|`networx`| 
 |![nevabank](https://static.openfintech.io/vendors/nevabank/logo.svg?w=600&c=v0.59.26#w200) |[**НеваБанк**](nevabank/)|`nevabank`| 
 |![newline.online](https://static.openfintech.io/vendors/newline.online/logo.svg?w=600&c=v0.59.26#w200) |[**NewLine**](newline.online/)|`newline.online`| 
