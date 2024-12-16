@@ -607,6 +607,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![netsellerpay](https://static.openfintech.io/payment_providers/netsellerpay/icon.png?w=278&c=v0.59.26#w100) |[Netsellerpay](/payment-providers/netsellerpay/)|`netsellerpay`| 
 |![kalonpay](https://static.openfintech.io/payment_providers/kalonpay/icon.svg?w=278&c=v0.59.26#w100) |[KalonPay](/payment-providers/kalonpay/)|`kalonpay`| 
 |![intersect](https://static.openfintech.io/payment_providers/intersect/icon.png?w=278&c=v0.59.26#w100) |[Intersect](/payment-providers/intersect/)|`intersect`| 
+|![glory](https://static.openfintech.io/payment_providers/glory/icon.png?w=278&c=v0.59.26#w100) |[Glory](/payment-providers/glory/)|`glory`| 
  
 
 ## JSON Object 
