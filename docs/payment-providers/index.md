@@ -117,6 +117,7 @@
 |![bitexpro](https://static.openfintech.io/payment_providers/bitexpro/logo.png?w=600&c=v0.59.26#w100) |[**BitexPRO**](bitexpro/)|`bitexpro`| 
 |![bitmerch](https://static.openfintech.io/payment_providers/bitmerch/logo.svg?w=600&c=v0.59.26#w100) |[**BitMerch**](bitmerch/)|`bitmerch`| 
 |![bitnet](https://static.openfintech.io/payment_providers/bitnet/logo.svg?w=600&c=v0.59.26#w100) |[**Bitnet Technologies Ltd**](bitnet/)|`bitnet`| 
+|![bitpace](https://static.openfintech.io/payment_providers/bitpace/logo.png?w=600&c=v0.59.26#w100) |[**Bitpace**](bitpace/)|`bitpace`| 
 |![bitpay](https://static.openfintech.io/payment_providers/bitpay/logo.svg?w=600&c=v0.59.26#w100) |[**BitPay**](bitpay/)|`bitpay`| 
 |![bitso](https://static.openfintech.io/payment_providers/bitso/logo.svg?w=600&c=v0.59.26#w100) |[**Bitso**](bitso/)|`bitso`| 
 |![bizon](https://static.openfintech.io/payment_providers/bizon/logo.png?w=600&c=v0.59.26#w100) |[**Bizon**](bizon/)|`bizon`| 
@@ -443,6 +444,7 @@
 |![intelligentpayments](https://static.openfintech.io/payment_providers/intelligentpayments/logo.png?w=600&c=v0.59.26#w100) |[**Intelligent Payments**](intelligentpayments/)|`intelligentpayments`| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/logo.png?w=600&c=v0.59.26#w100) |[**Interkassa**](interkassa/)|`interkassa`| 
 |![internationalpaymentsolutions](https://static.openfintech.io/payment_providers/internationalpaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**International Payment Solutions (IPS)**](internationalpaymentsolutions/)|`internationalpaymentsolutions`| 
+|![intersect](https://static.openfintech.io/payment_providers/intersect/logo.png?w=600&c=v0.59.26#w100) |[**Intersect**](intersect/)|`intersect`| 
 |![intervale](https://static.openfintech.io/payment_providers/intervale/logo.svg?w=600&c=v0.59.26#w100) |[**Intervale**](intervale/)|`intervale`| 
 |![inwizo](https://static.openfintech.io/payment_providers/inwizo/logo.svg?w=600&c=v0.59.26#w100) |[**Inwizo**](inwizo/)|`inwizo`| 
 |![ipague](https://static.openfintech.io/payment_providers/ipague/logo.png?w=600&c=v0.59.26#w100) |[**iPague**](ipague/)|`ipague`| 
@@ -625,6 +627,7 @@
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/logo.svg?w=600&c=v0.59.26#w100) |[**Payadmit**](payadmit/)|`payadmit`| 
 |![payanyway](https://static.openfintech.io/payment_providers/payanyway/logo.png?w=600&c=v0.59.26#w100) |[**PayAnyWay.com**](payanyway/)|`payanyway`| 
 |![payassist](https://static.openfintech.io/payment_providers/payassist/logo.png?w=600&c=v0.59.26#w100) |[**PayAssist**](payassist/)|`payassist`| 
+|![paybis](https://static.openfintech.io/payment_providers/paybis/logo.png?w=600&c=v0.59.26#w100) |[**Paybis**](paybis/)|`paybis`| 
 |![payboutique](https://static.openfintech.io/payment_providers/payboutique/logo.png?w=600&c=v0.59.26#w100) |[**Payboutique **](payboutique/)|`payboutique`| 
 |![paybox](https://static.openfintech.io/payment_providers/paybox/logo.svg?w=600&c=v0.59.26#w100) |[**Paybox**](paybox/)|`paybox`| 
 |![payboxservices](https://static.openfintech.io/payment_providers/payboxservices/logo.png?w=600&c=v0.59.26#w100) |[**Paybox by Verifone**](payboxservices/)|`payboxservices`| 

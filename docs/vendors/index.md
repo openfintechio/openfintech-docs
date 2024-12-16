@@ -352,6 +352,7 @@
 |![bitmerch](https://static.openfintech.io/vendors/bitmerch/logo.png?w=600&c=v0.59.26#w200) |[**BitMerch**](bitmerch/)|`bitmerch`| 
 |![bitnet](https://static.openfintech.io/vendors/bitnet/logo.png?w=600&c=v0.59.26#w200) |[**Bitnet Technologies Ltd**](bitnet/)|`bitnet`| 
 |![bitochek.net](https://static.openfintech.io/vendors/bitochek.net/logo.svg?w=600&c=v0.59.26#w200) |[**bitochek.net**](bitochek.net/)|`bitochek.net`| 
+|![bitpace](https://static.openfintech.io/vendors/bitpace/logo.png?w=600&c=v0.59.26#w200) |[**Bitpace**](bitpace/)|`bitpace`| 
 |![bitpay](https://static.openfintech.io/vendors/bitpay/logo.svg?w=600&c=v0.59.26#w200) |[**BitPay**](bitpay/)|`bitpay`| 
 |![bitso](https://static.openfintech.io/vendors/bitso/logo.svg?w=600&c=v0.59.26#w200) |[**Bitso**](bitso/)|`bitso`| 
 |![bizon](https://static.openfintech.io/vendors/bizon/logo.png?w=600&c=v0.59.26#w200) |[**Bizon**](bizon/)|`bizon`| 
@@ -1022,6 +1023,7 @@
 |![interac](https://static.openfintech.io/vendors/interac/logo.png?w=600&c=v0.59.26#w200) |[**Interac Online**](interac/)|`interac`| 
 |![interkassa](https://static.openfintech.io/vendors/interkassa/logo.png?w=600&c=v0.59.26#w200) |[**Interkassa**](interkassa/)|`interkassa`| 
 |![internationalpaymentsolutions](https://static.openfintech.io/vendors/internationalpaymentsolutions/logo.png?w=600&c=v0.59.26#w200) |[**International Payment Solutions (IPS)**](internationalpaymentsolutions/)|`internationalpaymentsolutions`| 
+|![intersect](https://static.openfintech.io/vendors/intersect/logo.png?w=600&c=v0.59.26#w200) |[**Intersect**](intersect/)|`intersect`| 
 |![intervale](https://static.openfintech.io/vendors/intervale/logo.svg?w=600&c=v0.59.26#w200) |[**Intervale**](intervale/)|`intervale`| 
 |![intexchange.ru](https://static.openfintech.io/vendors/intexchange.ru/logo.svg?w=600&c=v0.59.26#w200) |[**IntExchange**](intexchange.ru/)|`intexchange.ru`| 
 |![inwizo](https://static.openfintech.io/vendors/inwizo/logo.svg?w=600&c=v0.59.26#w200) |[**Inwizo**](inwizo/)|`inwizo`| 
@@ -1561,6 +1563,7 @@
 |![payadmit](https://static.openfintech.io/vendors/payadmit/logo.svg?w=600&c=v0.59.26#w200) |[**Payadmit**](payadmit/)|`payadmit`| 
 |![payanyway](https://static.openfintech.io/vendors/payanyway/logo.png?w=600&c=v0.59.26#w200) |[**PayAnyWay.com**](payanyway/)|`payanyway`| 
 |![payassist](https://static.openfintech.io/vendors/payassist/logo.png?w=600&c=v0.59.26#w200) |[**PayAssist**](payassist/)|`payassist`| 
+|![paybis](https://static.openfintech.io/vendors/paybis/logo.png?w=600&c=v0.59.26#w200) |[**Paybis**](paybis/)|`paybis`| 
 |![payboutique](https://static.openfintech.io/vendors/payboutique/logo.png?w=600&c=v0.59.26#w200) |[**Payboutique **](payboutique/)|`payboutique`| 
 |![paybox](https://static.openfintech.io/vendors/paybox/logo.svg?w=600&c=v0.59.26#w200) |[**Paybox**](paybox/)|`paybox`| 
 |![payboxservices](https://static.openfintech.io/vendors/payboxservices/logo.png?w=600&c=v0.59.26#w200) |[**Paybox by Verifone**](payboxservices/)|`payboxservices`| 
