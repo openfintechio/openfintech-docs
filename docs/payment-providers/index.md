@@ -482,6 +482,7 @@
 |![klasha](https://static.openfintech.io/payment_providers/klasha/logo.svg?w=600&c=v0.59.26#w100) |[**Klasha**](klasha/)|`klasha`| 
 |![klikpay](https://static.openfintech.io/payment_providers/klikpay/logo.png?w=600&c=v0.59.26#w100) |[**Klik & Pay**](klikpay/)|`klikpay`| 
 |![kluwp](https://static.openfintech.io/payment_providers/kluwp/logo.png?w=600&c=v0.59.26#w100) |[**Kluwp**](kluwp/)|`kluwp`| 
+|![klyme](https://static.openfintech.io/payment_providers/klyme/logo.png?w=600&c=v0.59.26#w100) |[**Klyme**](klyme/)|`klyme`| 
 |![kora](https://static.openfintech.io/payment_providers/kora/logo.svg?w=600&c=v0.59.26#w100) |[**Kora**](kora/)|`kora`| 
 |![kortapay](https://static.openfintech.io/payment_providers/kortapay/logo.png?w=600&c=v0.59.26#w100) |[**Korta Pay**](kortapay/)|`kortapay`| 
 |![kraft](https://static.openfintech.io/payment_providers/kraft/logo.svg?w=600&c=v0.59.26#w100) |[**Kraft**](kraft/)|`kraft`| 
@@ -556,6 +557,7 @@
 || **N** ||
 |![nagad](https://static.openfintech.io/payment_providers/nagad/logo.png?w=600&c=v0.59.26#w100) |[**Nagad**](nagad/)|`nagad`| 
 |![nationalach](https://static.openfintech.io/payment_providers/nationalach/logo.png?w=600&c=v0.59.26#w100) |[**NationalACH**](nationalach/)|`nationalach`| 
+|![nayem](https://static.openfintech.io/payment_providers/nayem/logo.png?w=600&c=v0.59.26#w100) |[**Nayem**](nayem/)|`nayem`| 
 |![neonpay](https://static.openfintech.io/payment_providers/neonpay/logo.png?w=600&c=v0.59.26#w100) |[**Neonpay**](neonpay/)|`neonpay`| 
 |![neopay](https://static.openfintech.io/payment_providers/neopay/logo.svg?w=600&c=v0.59.26#w100) |[**Neopay**](neopay/)|`neopay`| 
 |![netbanx](https://static.openfintech.io/payment_providers/netbanx/logo.png?w=600&c=v0.59.26#w100) |[**Netbanx**](netbanx/)|`netbanx`| 

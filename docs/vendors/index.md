@@ -1116,6 +1116,7 @@
 |![klasha](https://static.openfintech.io/vendors/klasha/logo.svg?w=600&c=v0.59.26#w200) |[**Klasha**](klasha/)|`klasha`| 
 |![klikpay](https://static.openfintech.io/vendors/klikpay/logo.png?w=600&c=v0.59.26#w200) |[**Klik & Pay**](klikpay/)|`klikpay`| 
 |![kluwp](https://static.openfintech.io/vendors/kluwp/logo.png?w=600&c=v0.59.26#w200) |[**Kluwp**](kluwp/)|`kluwp`| 
+|![klyme](https://static.openfintech.io/vendors/klyme/logo.png?w=600&c=v0.59.26#w200) |[**Klyme**](klyme/)|`klyme`| 
 |![kochi_bank](https://static.openfintech.io/vendors/kochi_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Kochi Bank**](kochi_bank/)|`kochi_bank`| 
 |![komercnibanka](https://static.openfintech.io/vendors/komercnibanka/logo.png?w=600&c=v0.59.26#w200) |[**Komercni Banka**](komercnibanka/)|`komercnibanka`| 
 |![kontakt](https://static.openfintech.io/vendors/kontakt/logo.svg?w=600&c=v0.59.26#w200) |[**Контакт**](kontakt/)|`kontakt`| 
@@ -1291,6 +1292,7 @@
 |![nalichnye](https://static.openfintech.io/vendors/nalichnye/logo.svg?w=600&c=v0.59.26#w200) |[**Наличные**](nalichnye/)|`nalichnye`| 
 |![nanto_bank](https://static.openfintech.io/vendors/nanto_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Nanto Bank**](nanto_bank/)|`nanto_bank`| 
 |![nationalach](https://static.openfintech.io/vendors/nationalach/logo.png?w=600&c=v0.59.26#w200) |[**NationalACH**](nationalach/)|`nationalach`| 
+|![nayem](https://static.openfintech.io/vendors/nayem/logo.png?w=600&c=v0.59.26#w200) |[**Nayem**](nayem/)|`nayem`| 
 |![nbkr](https://static.openfintech.io/vendors/nbkr/logo.svg?w=600&c=v0.59.26#w200) |[**National Bank of the Kyrgyz Republic**](nbkr/)|`nbkr`| 
 |![nbkz](https://static.openfintech.io/vendors/nbkz/logo.png?w=600&c=v0.59.26#w200) |[**National Bank of Kazakhstan**](nbkz/)|`nbkz`| 
 |![nbm](https://static.openfintech.io/vendors/nbm/logo.svg?w=600&c=v0.59.26#w200) |[**National Bank of Moldova**](nbm/)|`nbm`| 
