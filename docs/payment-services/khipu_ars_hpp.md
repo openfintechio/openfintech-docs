@@ -25,7 +25,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`bank_code`|✔|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
+|`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
  
 
 ### Details 
@@ -36,7 +36,7 @@
  
 	Regexp: `/^[A-Za-z0-9]{2,20}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Payer bank code 
@@ -62,7 +62,7 @@
       "key":"bank_code",
       "type":"string",
       "regexp":"\/^[A-Za-z0-9]{2,20}$\/",
-      "required":true,
+      "required":false,
       "position":1,
       "label":{
         "en":"Payer bank code",
