@@ -40,6 +40,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![paybybank](https://static.openfintech.io/payment_methods/paybybank/icon.png?w=278&c=v0.59.26#w100) |[paybybank](/payment-methods/paybybank/)|`paybybank`| 
+|![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik](/payment-methods/blik/)|`blik`| 
  
 
 ## JSON Object 
@@ -52,7 +53,8 @@ The list of supported [Payment Methods](/payment-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    "paybybank"
+    "paybybank",
+    "blik"
   ],
   "payout_method":null,
   "metadata":null,

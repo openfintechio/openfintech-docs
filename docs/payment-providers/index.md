@@ -607,6 +607,7 @@
 |![oppey](https://static.openfintech.io/payment_providers/oppey/logo.svg?w=600&c=v0.59.26#w100) |[**Oppey**](oppey/)|`oppey`| 
 |![optile](https://static.openfintech.io/payment_providers/optile/logo.png?w=600&c=v0.59.26#w100) |[**Optile**](optile/)|`optile`| 
 |![optimalpayments](https://static.openfintech.io/payment_providers/optimalpayments/logo.png?w=600&c=v0.59.26#w100) |[**Paysafe**](optimalpayments/)|`optimalpayments`| 
+|![optipay](https://static.openfintech.io/payment_providers/optipay/logo.svg?w=600&c=v0.59.26#w100) |[**Optipay**](optipay/)|`optipay`| 
 |![optomany](https://static.openfintech.io/payment_providers/optomany/logo.png?w=600&c=v0.59.26#w100) |[**Optomany**](optomany/)|`optomany`| 
 |![orbitalpay](https://static.openfintech.io/payment_providers/orbitalpay/logo.png?w=600&c=v0.59.26#w100) |[**OrbitalPay**](orbitalpay/)|`orbitalpay`| 
 |![orbitcardservices](https://static.openfintech.io/payment_providers/orbitcardservices/logo.png?w=600&c=v0.59.26#w100) |[**Orbit Card Services**](orbitcardservices/)|`orbitcardservices`| 

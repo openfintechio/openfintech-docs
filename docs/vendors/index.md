@@ -1397,6 +1397,7 @@
 |![oppohjola](https://static.openfintech.io/vendors/oppohjola/logo.png?w=600&c=v0.59.26#w200) |[**OP-Pohjola**](oppohjola/)|`oppohjola`| 
 |![optile](https://static.openfintech.io/vendors/optile/logo.png?w=600&c=v0.59.26#w200) |[**Optile**](optile/)|`optile`| 
 |![optimalpayments](https://static.openfintech.io/vendors/optimalpayments/logo.png?w=600&c=v0.59.26#w200) |[**Paysafe**](optimalpayments/)|`optimalpayments`| 
+|![optipay](https://static.openfintech.io/vendors/optipay/logo.svg?w=600&c=v0.59.26#w200) |[**Optipay**](optipay/)|`optipay`| 
 |![optomany](https://static.openfintech.io/vendors/optomany/logo.png?w=600&c=v0.59.26#w200) |[**Optomany**](optomany/)|`optomany`| 
 |![orange_money](https://static.openfintech.io/vendors/orange_money/logo.png?w=600&c=v0.59.26#w200) |[**Orange Money**](orange_money/)|`orange_money`| 
 |![orangepay](https://static.openfintech.io/vendors/orangepay/logo.png?w=600&c=v0.59.26#w200) |[**OrangePay**](orangepay/)|`orangepay`| 

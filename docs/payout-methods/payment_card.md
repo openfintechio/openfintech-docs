@@ -542,6 +542,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![paycc](https://static.openfintech.io/payment_providers/paycc/icon.svg?w=278&c=v0.59.26#w100) |[Pay.CC](/payment-providers/paycc/)|`paycc`| 
 |![pavpay](https://static.openfintech.io/payment_providers/pavpay/icon.svg?w=278&c=v0.59.26#w100) |[PavPay](/payment-providers/pavpay/)|`pavpay`| 
 |![crystalbank](https://static.openfintech.io/payment_providers/crystalbank/icon.png?w=278&c=v0.59.26#w100) |[CrystalBank](/payment-providers/crystalbank/)|`crystalbank`| 
+|![optipay](https://static.openfintech.io/payment_providers/optipay/icon.svg?w=278&c=v0.59.26#w100) |[Optipay](/payment-providers/optipay/)|`optipay`| 
 |![kora](https://static.openfintech.io/payment_providers/kora/icon.svg?w=278&c=v0.59.26#w100) |[Kora](/payment-providers/kora/)|`kora`| 
 |![mids](https://static.openfintech.io/payment_providers/mids/icon.png?w=278&c=v0.59.26#w100) |[MIDs](/payment-providers/mids/)|`mids`| 
 |![paywisesolutions](https://static.openfintech.io/payment_providers/paywisesolutions/icon.png?w=278&c=v0.59.26#w100) |[PaywiseSolutions](/payment-providers/paywisesolutions/)|`paywisesolutions`| 
