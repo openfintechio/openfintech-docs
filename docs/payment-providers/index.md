@@ -151,6 +151,7 @@
 |![cardconnect](https://static.openfintech.io/payment_providers/cardconnect/logo.svg?w=600&c=v0.59.26#w100) |[**CardConnect**](cardconnect/)|`cardconnect`| 
 |![cardgate](https://static.openfintech.io/payment_providers/cardgate/logo.svg?w=600&c=v0.59.26#w100) |[**CardGate**](cardgate/)|`cardgate`| 
 |![cardgateplus](https://static.openfintech.io/payment_providers/cardgateplus/logo.png?w=600&c=v0.59.26#w100) |[**CardGate**](cardgateplus/)|`cardgateplus`| 
+|![cardiful](https://static.openfintech.io/payment_providers/cardiful/logo.svg?w=600&c=v0.59.26#w100) |[**Cardiful**](cardiful/)|`cardiful`| 
 |![cardifyx](https://static.openfintech.io/payment_providers/cardifyx/logo.png?w=600&c=v0.59.26#w100) |[**CardifyX**](cardifyx/)|`cardifyx`| 
 |![cardinalcommerce](https://static.openfintech.io/payment_providers/cardinalcommerce/logo.svg?w=600&c=v0.59.26#w100) |[**CardinalCommerce**](cardinalcommerce/)|`cardinalcommerce`| 
 |![cardinity](https://static.openfintech.io/payment_providers/cardinity/logo.png?w=600&c=v0.59.26#w100) |[**Cardinity**](cardinity/)|`cardinity`| 
@@ -218,6 +219,7 @@
 |![concord](https://static.openfintech.io/payment_providers/concord/logo.svg?w=600&c=v0.59.26#w100) |[**Concord Bank**](concord/)|`concord`| 
 |![concordpay](https://static.openfintech.io/payment_providers/concordpay/logo.png?w=600&c=v0.59.26#w100) |[**Concord Pay**](concordpay/)|`concordpay`| 
 |![concryt](https://static.openfintech.io/payment_providers/concryt/logo.svg?w=600&c=v0.59.26#w100) |[**Concryt**](concryt/)|`concryt`| 
+|![connectivity](https://static.openfintech.io/payment_providers/connectivity/logo.png?w=600&c=v0.59.26#w100) |[**Connectivity**](connectivity/)|`connectivity`| 
 |![connectum](https://static.openfintech.io/payment_providers/connectum/logo.svg?w=600&c=v0.59.26#w100) |[**Connectum**](connectum/)|`connectum`| 
 |![connpay](https://static.openfintech.io/payment_providers/connpay/logo.png?w=600&c=v0.59.26#w100) |[**ConnPay**](connpay/)|`connpay`| 
 |![constantpos](https://static.openfintech.io/payment_providers/constantpos/logo.svg?w=600&c=v0.59.26#w100) |[**Constantpos**](constantpos/)|`constantpos`| 

@@ -543,6 +543,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![pavpay](https://static.openfintech.io/payment_providers/pavpay/icon.svg?w=278&c=v0.59.26#w100) |[PavPay](/payment-providers/pavpay/)|`pavpay`| 
 |![crystalbank](https://static.openfintech.io/payment_providers/crystalbank/icon.png?w=278&c=v0.59.26#w100) |[CrystalBank](/payment-providers/crystalbank/)|`crystalbank`| 
 |![optipay](https://static.openfintech.io/payment_providers/optipay/icon.svg?w=278&c=v0.59.26#w100) |[Optipay](/payment-providers/optipay/)|`optipay`| 
+|![connectivity](https://static.openfintech.io/payment_providers/connectivity/icon.png?w=278&c=v0.59.26#w100) |[Connectivity](/payment-providers/connectivity/)|`connectivity`| 
 |![kora](https://static.openfintech.io/payment_providers/kora/icon.svg?w=278&c=v0.59.26#w100) |[Kora](/payment-providers/kora/)|`kora`| 
 |![mids](https://static.openfintech.io/payment_providers/mids/icon.png?w=278&c=v0.59.26#w100) |[MIDs](/payment-providers/mids/)|`mids`| 
 |![paywisesolutions](https://static.openfintech.io/payment_providers/paywisesolutions/icon.png?w=278&c=v0.59.26#w100) |[PaywiseSolutions](/payment-providers/paywisesolutions/)|`paywisesolutions`| 
@@ -607,6 +608,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![deficopay](https://static.openfintech.io/payment_providers/deficopay/icon.png?w=278&c=v0.59.26#w100) |[DEFICOPAY](/payment-providers/deficopay/)|`deficopay`| 
 |![netsellerpay](https://static.openfintech.io/payment_providers/netsellerpay/icon.png?w=278&c=v0.59.26#w100) |[Netsellerpay](/payment-providers/netsellerpay/)|`netsellerpay`| 
 |![kalonpay](https://static.openfintech.io/payment_providers/kalonpay/icon.svg?w=278&c=v0.59.26#w100) |[KalonPay](/payment-providers/kalonpay/)|`kalonpay`| 
+|![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 
 |![intersect](https://static.openfintech.io/payment_providers/intersect/icon.png?w=278&c=v0.59.26#w100) |[Intersect](/payment-providers/intersect/)|`intersect`| 
 |![glory](https://static.openfintech.io/payment_providers/glory/icon.png?w=278&c=v0.59.26#w100) |[Glory](/payment-providers/glory/)|`glory`| 
  
