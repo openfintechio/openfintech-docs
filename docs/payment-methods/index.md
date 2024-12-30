@@ -662,6 +662,7 @@
 |![paysense](https://static.openfintech.io/payment_methods/paysense/logo.svg?w=400&c=v0.59.26#w200) |[**PaySense**](paysense/)|`paysense`| 
 |![payser](https://static.openfintech.io/payment_methods/payser/logo.svg?w=400&c=v0.59.26#w200) |[**Payser**](payser/)|`payser`| 
 |![payshop](https://static.openfintech.io/payment_methods/payshop/logo.png?w=400&c=v0.59.26#w200) |[**Payshop**](payshop/)|`payshop`| 
+|![payskin](https://static.openfintech.io/payment_methods/payskin/logo.svg?w=400&c=v0.59.26#w200) |[**Payskin**](payskin/)|`payskin`| 
 |![paytm](https://static.openfintech.io/payment_methods/paytm/logo.svg?w=400&c=v0.59.26#w200) |[**PAYTM Wallet**](paytm/)|`paytm`| 
 |![paytm_payments_bank](https://static.openfintech.io/payment_methods/paytm_payments_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Paytm Payments Bank**](paytm_payments_bank/)|`paytm_payments_bank`| 
 |![paywise_cash](https://static.openfintech.io/payment_methods/paywise_cash/logo.svg?w=400&c=v0.59.26#w200) |[**PayWise Cash transfer**](paywise_cash/)|`paywise_cash`| 

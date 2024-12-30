@@ -46,6 +46,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Revolut B
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bitexpro](https://static.openfintech.io/payment_providers/bitexpro/icon.png?w=278&c=v0.59.26#w100) |[BitexPRO](/payment-providers/bitexpro/)|`bitexpro`| 
+|![gateiq](https://static.openfintech.io/payment_providers/gateiq/icon.svg?w=278&c=v0.59.26#w100) |[GateIQ](/payment-providers/gateiq/)|`gateiq`| 
  
 
 ## JSON Object 

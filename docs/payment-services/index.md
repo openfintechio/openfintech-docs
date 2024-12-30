@@ -1241,6 +1241,7 @@
 |![Payser](https://static.openfintech.io/payment_methods/payser/logo.svg?w=400&c=v0.59.26#w200) |[**Payser**](/payment-methods/payser/)|[`payser_crc_hpp`](payser_crc_hpp/)| 
 |![Payshop](https://static.openfintech.io/payment_methods/payshop/logo.png?w=400&c=v0.59.26#w200) |[**Payshop**](/payment-methods/payshop/)|[`payshop_eur_hpp`](payshop_eur_hpp/)| 
 |![Payshop](https://static.openfintech.io/payment_methods/payshop/logo.png?w=400&c=v0.59.26#w200) |[**Payshop**](/payment-methods/payshop/)|[`payshop_eur_invoice`](payshop_eur_invoice/)| 
+|![Payskin](https://static.openfintech.io/payment_methods/payskin/logo.svg?w=400&c=v0.59.26#w200) |[**Payskin**](/payment-methods/payskin/)|[`payskin_eur_hpp`](payskin_eur_hpp/)| 
 |![PAYTM Wallet](https://static.openfintech.io/payment_methods/paytm/logo.svg?w=400&c=v0.59.26#w200) |[**PAYTM Wallet**](/payment-methods/paytm/)|[`paytm_inr_hpp`](paytm_inr_hpp/)| 
 |![PAYTM Wallet](https://static.openfintech.io/payment_methods/paytm/logo.svg?w=400&c=v0.59.26#w200) |[**PAYTM Wallet**](/payment-methods/paytm/)|[`paytm_inr_invoice`](paytm_inr_invoice/)| 
 |![Paytm Payments Bank](https://static.openfintech.io/payment_methods/paytm_payments_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Paytm Payments Bank**](/payment-methods/paytm_payments_bank/)|[`paytm_payments_bank_inr_hpp`](paytm_payments_bank_inr_hpp/)| 
@@ -1529,6 +1530,7 @@
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_bep20_usdt_hpp`](tether_bep20_usdt_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_bep20_uzs_hpp`](tether_bep20_uzs_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_bep20_vnd_hpp`](tether_bep20_vnd_hpp/)| 
+|![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_bsc_eur_hpp`](tether_bsc_eur_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_btc_invoice`](tether_btc_invoice/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_erc20_aed_hpp`](tether_erc20_aed_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_erc20_aud_hpp`](tether_erc20_aud_hpp/)| 

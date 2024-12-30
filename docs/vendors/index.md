@@ -869,6 +869,7 @@
 |![gate2payments](https://static.openfintech.io/vendors/gate2payments/logo.png?w=600&c=v0.59.26#w200) |[**Gate2Payments **](gate2payments/)|`gate2payments`| 
 |![gate2play](https://static.openfintech.io/vendors/gate2play/logo.png?w=600&c=v0.59.26#w200) |[**Gate2Play**](gate2play/)|`gate2play`| 
 |![gateexpress](https://static.openfintech.io/vendors/gateexpress/logo.svg?w=600&c=v0.59.26#w200) |[**Gate.Express**](gateexpress/)|`gateexpress`| 
+|![gateiq](https://static.openfintech.io/vendors/gateiq/logo.svg?w=600&c=v0.59.26#w200) |[**GateIQ**](gateiq/)|`gateiq`| 
 |![gatetwoway](https://static.openfintech.io/vendors/gatetwoway/logo.svg?w=600&c=v0.59.26#w200) |[**Gate2way**](gatetwoway/)|`gatetwoway`| 
 |![gatewaypay](https://static.openfintech.io/vendors/gatewaypay/logo.png?w=600&c=v0.59.26#w200) |[**GatewayPay**](gatewaypay/)|`gatewaypay`| 
 |![gazprombank](https://static.openfintech.io/vendors/gazprombank/logo.svg?w=600&c=v0.59.26#w200) |[**Газпромбанк**](gazprombank/)|`gazprombank`| 
@@ -1689,6 +1690,7 @@
 |![payshop](https://static.openfintech.io/vendors/payshop/logo.png?w=600&c=v0.59.26#w200) |[**Payshop**](payshop/)|`payshop`| 
 |![paysimple](https://static.openfintech.io/vendors/paysimple/logo.svg?w=600&c=v0.59.26#w200) |[**PaySimple**](paysimple/)|`paysimple`| 
 |![paysitecash](https://static.openfintech.io/vendors/paysitecash/logo.png?w=600&c=v0.59.26#w200) |[**Paysite-cash**](paysitecash/)|`paysitecash`| 
+|![payskin](https://static.openfintech.io/vendors/payskin/logo.svg?w=600&c=v0.59.26#w200) |[**Payskin**](payskin/)|`payskin`| 
 |![paysoftsolutions](https://static.openfintech.io/vendors/paysoftsolutions/logo.png?w=600&c=v0.59.26#w200) |[**PaySoft Solutions**](paysoftsolutions/)|`paysoftsolutions`| 
 |![payspace](https://static.openfintech.io/vendors/payspace/logo.png?w=600&c=v0.59.26#w200) |[**PaySpace**](payspace/)|`payspace`| 
 |![paysquare](https://static.openfintech.io/vendors/paysquare/logo.png?w=600&c=v0.59.26#w200) |[**PaySquare**](paysquare/)|`paysquare`| 
