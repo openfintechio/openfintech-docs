@@ -24,9 +24,9 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`account_number`|✔|`string`|`/^[0-9]{5,100}$/`| 
-|`account_transit_number`|✔|`string`|`/^[0-9]{5,100}$/`| 
-|`bank_financial_institution_number`|✔|`string`|`/^[0-9]{1,3}$/`| 
+|`account_number`|✗|`string`|`/^[0-9]{5,100}$/`| 
+|`account_transit_number`|✗|`string`|`/^[0-9]{5,100}$/`| 
+|`bank_financial_institution_number`|✗|`string`|`/^[0-9]{1,3}$/`| 
  
 
 ### Details 
@@ -37,7 +37,7 @@
  
 	Regexp: `/^[0-9]{5,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Account number 
@@ -55,7 +55,7 @@
  
 	Regexp: `/^[0-9]{5,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Account transit number 
@@ -73,7 +73,7 @@
  
 	Regexp: `/^[0-9]{1,3}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Bank financial institution number 
@@ -109,7 +109,7 @@
       },
       "example":"1234567",
       "regexp":"\/^[0-9]{5,100}$\/",
-      "required":true,
+      "required":false,
       "position":1
     },
     {
@@ -127,7 +127,7 @@
       },
       "example":"123450101212345",
       "regexp":"\/^[0-9]{5,100}$\/",
-      "required":true,
+      "required":false,
       "position":2
     },
     {
@@ -145,7 +145,7 @@
       },
       "example":"241",
       "regexp":"\/^[0-9]{1,3}$\/",
-      "required":true,
+      "required":false,
       "position":3
     }
   ],

@@ -579,6 +579,7 @@
 |![nihaopay](https://static.openfintech.io/payment_providers/nihaopay/logo.png?w=600&c=v0.59.26#w100) |[**NihaoPay**](nihaopay/)|`nihaopay`| 
 |![nium](https://static.openfintech.io/payment_providers/nium/logo.png?w=600&c=v0.59.26#w100) |[**Nium**](nium/)|`nium`| 
 |![nixmoney](https://static.openfintech.io/payment_providers/nixmoney/logo.png?w=600&c=v0.59.26#w100) |[**NixMoney**](nixmoney/)|`nixmoney`| 
+|![nixxe](https://static.openfintech.io/payment_providers/nixxe/logo.svg?w=600&c=v0.59.26#w100) |[**Nixxe**](nixxe/)|`nixxe`| 
 |![nmi](https://static.openfintech.io/payment_providers/nmi/logo.png?w=600&c=v0.59.26#w100) |[**NMI**](nmi/)|`nmi`| 
 |![nochexltd](https://static.openfintech.io/payment_providers/nochexltd/logo.png?w=600&c=v0.59.26#w100) |[**Nochex**](nochexltd/)|`nochexltd`| 
 |![noda](https://static.openfintech.io/payment_providers/noda/logo.svg?w=600&c=v0.59.26#w100) |[**Noda**](noda/)|`noda`| 

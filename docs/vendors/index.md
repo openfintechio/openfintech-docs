@@ -1331,6 +1331,7 @@
 |![nium](https://static.openfintech.io/vendors/nium/logo.png?w=600&c=v0.59.26#w200) |[**Nium**](nium/)|`nium`| 
 |![nixexchange](https://static.openfintech.io/vendors/nixexchange/logo.svg?w=600&c=v0.59.26#w200) |[**NixExchange**](nixexchange/)|`nixexchange`| 
 |![nixmoney](https://static.openfintech.io/vendors/nixmoney/logo.png?w=600&c=v0.59.26#w200) |[**NixMoney**](nixmoney/)|`nixmoney`| 
+|![nixxe](https://static.openfintech.io/vendors/nixxe/logo.svg?w=600&c=v0.59.26#w200) |[**Nixxe**](nixxe/)|`nixxe`| 
 |![nmi](https://static.openfintech.io/vendors/nmi/logo.png?w=600&c=v0.59.26#w200) |[**NMI**](nmi/)|`nmi`| 
 |![nochexltd](https://static.openfintech.io/vendors/nochexltd/logo.png?w=600&c=v0.59.26#w200) |[**Nochex**](nochexltd/)|`nochexltd`| 
 |![noda](https://static.openfintech.io/vendors/noda/logo.svg?w=600&c=v0.59.26#w200) |[**Noda**](noda/)|`noda`| 

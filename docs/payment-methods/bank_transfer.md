@@ -135,6 +135,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![wpay](https://static.openfintech.io/payment_providers/wpay/icon.png?w=278&c=v0.59.26#w100) |[W PAY](/payment-providers/wpay/)|`wpay`| 
 |![rixsus](https://static.openfintech.io/payment_providers/rixsus/icon.png?w=278&c=v0.59.26#w100) |[Rixsus](/payment-providers/rixsus/)|`rixsus`| 
 |![klyme](https://static.openfintech.io/payment_providers/klyme/icon.png?w=278&c=v0.59.26#w100) |[Klyme](/payment-providers/klyme/)|`klyme`| 
+|![nixxe](https://static.openfintech.io/payment_providers/nixxe/icon.svg?w=278&c=v0.59.26#w100) |[Nixxe](/payment-providers/nixxe/)|`nixxe`| 
  
 
 ## JSON Object 
