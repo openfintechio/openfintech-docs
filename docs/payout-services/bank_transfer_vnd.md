@@ -46,6 +46,8 @@
 |`bank_city`|✗|`string`|`/^[A-Za-z]{2,100}$/`| 
 |`bank_province`|✗|`string`|`/^[A-Za-z]{2,100}$/`| 
 |`bank_account`|✗|`string`|`/^[0-9]{1,30}$/`| 
+|`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
+|`beneficiary_phone`|✗|`string`|`/^\+?\d{10,14}$/`| 
  
 
 ### Details 
@@ -446,6 +448,42 @@
 	: [RU] Введите номер банковского счета 
 	: [UK] Введіть номер банківського рахунку 
  
+23. **`beneficiary_email`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Email 
+	: [RU] Email 
+	: [UK] Email 
+ 
+	Hint:  
+	: [EN] Enter Email 
+	: [RU] Введите Email 
+	: [UK] Введіть Email 
+ 
+24. **`beneficiary_phone`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^\+?\d{10,14}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Phone number 
+	: [RU] Номер телефона 
+	: [UK] Номер телефону 
+ 
+	Hint:  
+	: [EN] Enter phone number 
+	: [RU] Введите номер телефона 
+	: [UK] Введіть номер телефону 
+ 
 
 ## JSON Object 
 
@@ -830,6 +868,42 @@
       },
       "position":21,
       "required":false
+    },
+    {
+      "key":"beneficiary_email",
+      "type":"string",
+      "label":{
+        "en":"Email",
+        "ru":"Email",
+        "uk":"Email"
+      },
+      "hint":{
+        "en":"Enter Email",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Email",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Email"
+      },
+      "example":"johndoe@mail.com",
+      "regexp":"\/^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,4})$\/",
+      "required":false,
+      "position":22
+    },
+    {
+      "key":"beneficiary_phone",
+      "type":"string",
+      "label":{
+        "en":"Phone number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
+      },
+      "hint":{
+        "en":"Enter phone number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
+      },
+      "example":"+91236456977",
+      "regexp":"\/^\\+?\\d{10,14}$\/",
+      "required":false,
+      "position":23
     }
   ],
   "amount_min":"1",
