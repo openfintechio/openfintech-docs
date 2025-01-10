@@ -122,6 +122,7 @@
 |![bank_of_china](https://static.openfintech.io/payment_methods/bank_of_china/logo.svg?w=400&c=v0.59.26#w200) |[**Bank of China**](bank_of_china/)|`bank_of_china`| 
 |![bank_of_communication](https://static.openfintech.io/payment_methods/bank_of_communication/logo.svg?w=400&c=v0.59.26#w200) |[**Bank of Communication**](bank_of_communication/)|`bank_of_communication`| 
 |![bank_of_india](https://static.openfintech.io/payment_methods/bank_of_india/logo.svg?w=400&c=v0.59.26#w200) |[**Bank of India**](bank_of_india/)|`bank_of_india`| 
+|![bank_qr](https://static.openfintech.io/payment_methods/bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Bank QR**](bank_qr/)|`bank_qr`| 
 |![bank_rakyat_indonesia](https://static.openfintech.io/payment_methods/bank_rakyat_indonesia/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Rakyat Indonesia**](bank_rakyat_indonesia/)|`bank_rakyat_indonesia`| 
 |![bank_rakyat_malaysia_berhad](https://static.openfintech.io/payment_methods/bank_rakyat_malaysia_berhad/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Rakyat**](bank_rakyat_malaysia_berhad/)|`bank_rakyat_malaysia_berhad`| 
 |![bank_rakyat_malaysia_fpx](https://static.openfintech.io/payment_methods/bank_rakyat_malaysia_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Rakyat (FPX), Malaysia**](bank_rakyat_malaysia_fpx/)|`bank_rakyat_malaysia_fpx`| 
