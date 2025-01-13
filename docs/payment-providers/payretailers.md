@@ -94,6 +94,21 @@ The list of supported [Payment Methods](/payment-methods/)
 |![farmacias_santa_maria_cash](https://static.openfintech.io/payment_methods/farmacias_santa_maria_cash/icon.png?w=278&c=v0.59.26#w100) |[farmacias_santa_maria_cash](/payment-methods/farmacias_santa_maria_cash/)|`farmacias_santa_maria_cash`| 
 |![calimax_cash](https://static.openfintech.io/payment_methods/calimax_cash/icon.png?w=278&c=v0.59.26#w100) |[calimax_cash](/payment-methods/calimax_cash/)|`calimax_cash`| 
 |![western_union_panama_cash](https://static.openfintech.io/payment_methods/western_union_panama_cash/icon.png?w=278&c=v0.59.26#w100) |[western_union_panama_cash](/payment-methods/western_union_panama_cash/)|`western_union_panama_cash`| 
+|![bbva_frances](https://static.openfintech.io/payment_methods/bbva_frances/icon.png?w=278&c=v0.59.26#w100) |[bbva_frances](/payment-methods/bbva_frances/)|`bbva_frances`| 
+|![banco_credicoop](https://static.openfintech.io/payment_methods/banco_credicoop/icon.png?w=278&c=v0.59.26#w100) |[banco_credicoop](/payment-methods/banco_credicoop/)|`banco_credicoop`| 
+|![wilobank](https://static.openfintech.io/payment_methods/wilobank/icon.png?w=278&c=v0.59.26#w100) |[wilobank](/payment-methods/wilobank/)|`wilobank`| 
+|![galicia](https://static.openfintech.io/payment_methods/galicia/icon.png?w=278&c=v0.59.26#w100) |[galicia](/payment-methods/galicia/)|`galicia`| 
+|![icbc](https://static.openfintech.io/payment_methods/icbc/icon.png?w=278&c=v0.59.26#w100) |[icbc](/payment-methods/icbc/)|`icbc`| 
+|![macro](https://static.openfintech.io/payment_methods/macro/icon.png?w=278&c=v0.59.26#w100) |[macro](/payment-methods/macro/)|`macro`| 
+|![banco_nacion](https://static.openfintech.io/payment_methods/banco_nacion/icon.png?w=278&c=v0.59.26#w100) |[banco_nacion](/payment-methods/banco_nacion/)|`banco_nacion`| 
+|![banco_ciudad](https://static.openfintech.io/payment_methods/banco_ciudad/icon.png?w=278&c=v0.59.26#w100) |[banco_ciudad](/payment-methods/banco_ciudad/)|`banco_ciudad`| 
+|![hsbc](https://static.openfintech.io/payment_methods/hsbc/icon.png?w=278&c=v0.59.26#w100) |[hsbc](/payment-methods/hsbc/)|`hsbc`| 
+|![supervielle](https://static.openfintech.io/payment_methods/supervielle/icon.png?w=278&c=v0.59.26#w100) |[supervielle](/payment-methods/supervielle/)|`supervielle`| 
+|![spenn](https://static.openfintech.io/payment_methods/spenn/icon.png?w=278&c=v0.59.26#w100) |[spenn](/payment-methods/spenn/)|`spenn`| 
+|![halo_pesa](https://static.openfintech.io/payment_methods/halo_pesa/icon.png?w=278&c=v0.59.26#w100) |[halo_pesa](/payment-methods/halo_pesa/)|`halo_pesa`| 
+|![vodafone_pay](https://static.openfintech.io/payment_methods/vodafone_pay/icon.png?w=278&c=v0.59.26#w100) |[vodafone_pay](/payment-methods/vodafone_pay/)|`vodafone_pay`| 
+|![tigo](https://static.openfintech.io/payment_methods/tigo/icon.png?w=278&c=v0.59.26#w100) |[tigo](/payment-methods/tigo/)|`tigo`| 
+|![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money](/payment-methods/airtel_money/)|`airtel_money`| 
  
 
 ## Payout Methods 
@@ -171,7 +186,22 @@ The list of supported [Payout Methods](/payout-methods/)
     "open_pay_cash",
     "farmacias_santa_maria_cash",
     "calimax_cash",
-    "western_union_panama_cash"
+    "western_union_panama_cash",
+    "bbva_frances",
+    "banco_credicoop",
+    "wilobank",
+    "galicia",
+    "icbc",
+    "macro",
+    "banco_nacion",
+    "banco_ciudad",
+    "hsbc",
+    "supervielle",
+    "spenn",
+    "halo_pesa",
+    "vodafone_pay",
+    "tigo",
+    "airtel_money"
   ],
   "payout_method":[
     "pix",

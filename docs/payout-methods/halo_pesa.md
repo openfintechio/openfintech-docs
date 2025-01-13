@@ -47,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Halo pesa
 |:---:|:---:|:---:| 
 |![selcom](https://static.openfintech.io/payment_providers/selcom/icon.png?w=278&c=v0.59.26#w100) |[Selcom](/payment-providers/selcom/)|`selcom`| 
 |![virtualpay](https://static.openfintech.io/payment_providers/virtualpay/icon.png?w=278&c=v0.59.26#w100) |[Virtual Pay](/payment-providers/virtualpay/)|`virtualpay`| 
+|![payretailers](https://static.openfintech.io/payment_providers/payretailers/icon.svg?w=278&c=v0.59.26#w100) |[PayRetailers](/payment-providers/payretailers/)|`payretailers`| 
  
 
 ## JSON Object 
