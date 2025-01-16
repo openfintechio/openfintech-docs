@@ -850,6 +850,9 @@
 |![Khipu](https://static.openfintech.io/payment_methods/khipu/logo.png?w=400&c=v0.59.26#w200) |[**Khipu**](/payment-methods/khipu/)|[`khipu_usd_hpp`](khipu_usd_hpp/)| 
 |![Kiatnakin Bank](https://static.openfintech.io/payment_methods/kiatnakin_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Kiatnakin Bank**](/payment-methods/kiatnakin_bank/)|[`kiatnakin_bank_thb_hpp`](kiatnakin_bank_thb_hpp/)| 
 |![Kien Long Commercial Joint - Stock Bank](https://static.openfintech.io/payment_methods/kien_long_bank/logo.png?w=400&c=v0.59.26#w200) |[**Kien Long Commercial Joint - Stock Bank**](/payment-methods/kien_long_bank/)|[`kien_long_bank_vnd_hpp`](kien_long_bank_vnd_hpp/)| 
+|![Klyme](https://static.openfintech.io/payment_methods/klyme/logo.png?w=400&c=v0.59.26#w200) |[**Klyme**](/payment-methods/klyme/)|[`klyme_eur_invoice`](klyme_eur_invoice/)| 
+|![Klyme](https://static.openfintech.io/payment_methods/klyme/logo.png?w=400&c=v0.59.26#w200) |[**Klyme**](/payment-methods/klyme/)|[`klyme_gbp_invoice`](klyme_gbp_invoice/)| 
+|![Klyme](https://static.openfintech.io/payment_methods/klyme/logo.png?w=400&c=v0.59.26#w200) |[**Klyme**](/payment-methods/klyme/)|[`klyme_usd_invoice`](klyme_usd_invoice/)| 
 |![Kookmin Bank](https://static.openfintech.io/payment_methods/kookmin_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Kookmin Bank**](/payment-methods/kookmin_bank/)|[`kookmin_bank_krw_hpp`](kookmin_bank_krw_hpp/)| 
 |![Korea Development Bank](https://static.openfintech.io/payment_methods/korea_development_bank/logo.png?w=400&c=v0.59.26#w200) |[**Korea Development Bank**](/payment-methods/korea_development_bank/)|[`korea_development_bank_krw_hpp`](korea_development_bank_krw_hpp/)| 
 |![Kotak Mahindra Bank](https://static.openfintech.io/payment_methods/kotak_mahindra_bank/logo.png?w=400&c=v0.59.26#w200) |[**Kotak Mahindra Bank**](/payment-methods/kotak_mahindra_bank/)|[`kotak_mahindra_bank_inr_hpp`](kotak_mahindra_bank_inr_hpp/)| 

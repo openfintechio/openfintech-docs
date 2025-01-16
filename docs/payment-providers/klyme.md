@@ -39,7 +39,7 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
+|![klyme](https://static.openfintech.io/payment_methods/klyme/icon.png?w=278&c=v0.59.26#w100) |[klyme](/payment-methods/klyme/)|`klyme`| 
  
 
 ## JSON Object 
@@ -52,7 +52,7 @@ The list of supported [Payment Methods](/payment-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    "bank_transfer"
+    "klyme"
   ],
   "payout_method":null,
   "metadata":null,

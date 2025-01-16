@@ -482,6 +482,7 @@
 |![kiatnakin_bank](https://static.openfintech.io/payment_methods/kiatnakin_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Kiatnakin Bank**](kiatnakin_bank/)|`kiatnakin_bank`| 
 |![kien_long_bank](https://static.openfintech.io/payment_methods/kien_long_bank/logo.png?w=400&c=v0.59.26#w200) |[**Kien Long Commercial Joint - Stock Bank**](kien_long_bank/)|`kien_long_bank`| 
 |![kievstar](https://static.openfintech.io/payment_methods/kievstar/logo.png?w=400&c=v0.59.26#w200) |[**Kievstar**](kievstar/)|`kievstar`| 
+|![klyme](https://static.openfintech.io/payment_methods/klyme/logo.png?w=400&c=v0.59.26#w200) |[**Klyme**](klyme/)|`klyme`| 
 |![komercnibanka](https://static.openfintech.io/payment_methods/komercnibanka/logo.png?w=400&c=v0.59.26#w200) |[**Komercni Banka**](komercnibanka/)|`komercnibanka`| 
 |![kookmin_bank](https://static.openfintech.io/payment_methods/kookmin_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Kookmin Bank**](kookmin_bank/)|`kookmin_bank`| 
 |![korea_development_bank](https://static.openfintech.io/payment_methods/korea_development_bank/logo.png?w=400&c=v0.59.26#w200) |[**Korea Development Bank**](korea_development_bank/)|`korea_development_bank`| 
