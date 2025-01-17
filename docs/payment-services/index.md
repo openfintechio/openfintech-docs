@@ -1313,6 +1313,7 @@
 |![PromptPay QR](https://static.openfintech.io/payment_methods/promptpay_qr/logo.svg?w=400&c=v0.59.26#w200) |[**PromptPay QR**](/payment-methods/promptpay_qr/)|[`promptpay_qr_idr_hpp`](promptpay_qr_idr_hpp/)| 
 |![PromptPay QR](https://static.openfintech.io/payment_methods/promptpay_qr/logo.svg?w=400&c=v0.59.26#w200) |[**PromptPay QR**](/payment-methods/promptpay_qr/)|[`promptpay_qr_myr_hpp`](promptpay_qr_myr_hpp/)| 
 |![PromptPay QR](https://static.openfintech.io/payment_methods/promptpay_qr/logo.svg?w=400&c=v0.59.26#w200) |[**PromptPay QR**](/payment-methods/promptpay_qr/)|[`promptpay_qr_thb_hpp`](promptpay_qr_thb_hpp/)| 
+|![PromptPay QR](https://static.openfintech.io/payment_methods/promptpay_qr/logo.svg?w=400&c=v0.59.26#w200) |[**PromptPay QR**](/payment-methods/promptpay_qr/)|[`promptpay_qr_thb_invoice`](promptpay_qr_thb_invoice/)| 
 |![PromptPay](https://static.openfintech.io/payment_methods/promptpay/logo.svg?w=400&c=v0.59.26#w200) |[**PromptPay**](/payment-methods/promptpay/)|[`promptpay_thb_hpp`](promptpay_thb_hpp/)| 
 |![Promsvyazbank](https://static.openfintech.io/payment_methods/promsvyazbank/logo.png?w=400&c=v0.59.26#w200) |[**Promsvyazbank**](/payment-methods/promsvyazbank/)|[`promsvyazbank_rub_hpp`](promsvyazbank_rub_hpp/)| 
 |![Przelewy24](https://static.openfintech.io/payment_methods/przelewy24/logo.png?w=400&c=v0.59.26#w200) |[**Przelewy24**](/payment-methods/przelewy24/)|[`przelewy24_eur_hpp`](przelewy24_eur_hpp/)| 

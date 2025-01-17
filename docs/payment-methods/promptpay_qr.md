@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _PromptPay QR_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![promptpay_qr](https://static.openfintech.io/payment_methods/promptpay_qr/icon.svg?w=278&c=v0.59.26#w100) |[promptpay_qr_thb_hpp](/payment-services/promptpay_qr_thb_hpp/)|`promptpay_qr_thb_hpp`| 
+|![promptpay_qr](https://static.openfintech.io/payment_methods/promptpay_qr/icon.svg?w=278&c=v0.59.26#w100) |[promptpay_qr_thb_invoice](/payment-services/promptpay_qr_thb_invoice/)|`promptpay_qr_thb_invoice`| 
 |![promptpay_qr](https://static.openfintech.io/payment_methods/promptpay_qr/icon.svg?w=278&c=v0.59.26#w100) |[promptpay_qr_idr_hpp](/payment-services/promptpay_qr_idr_hpp/)|`promptpay_qr_idr_hpp`| 
 |![promptpay_qr](https://static.openfintech.io/payment_methods/promptpay_qr/icon.svg?w=278&c=v0.59.26#w100) |[promptpay_qr_myr_hpp](/payment-services/promptpay_qr_myr_hpp/)|`promptpay_qr_myr_hpp`| 
  
@@ -49,6 +50,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PromptPay
 |:---:|:---:|:---:| 
 |![alikassa](https://static.openfintech.io/payment_providers/alikassa/icon.svg?w=278&c=v0.59.26#w100) |[AliKassa](/payment-providers/alikassa/)|`alikassa`| 
 |![ubankconnect](https://static.openfintech.io/payment_providers/ubankconnect/icon.svg?w=278&c=v0.59.26#w100) |[UBank Connect](/payment-providers/ubankconnect/)|`ubankconnect`| 
+|![spayz](https://static.openfintech.io/payment_providers/spayz/icon.svg?w=278&c=v0.59.26#w100) |[Spayz](/payment-providers/spayz/)|`spayz`| 
  
 
 ## JSON Object 

@@ -14,6 +14,9 @@
  
 **Status:** `active` 
  
+**Links:** 
+: website [https://boxplat.com/en/](https://boxplat.com/en/) 
+ 
 
 ## Images 
 
@@ -45,7 +48,9 @@ https://static.openfintech.io/vendors/bp/icon.svg?w=278&c=v0.59.26#w100
   },
   "status":"active",
   "description":null,
-  "links":null,
+  "links":{
+    "website":"https:\/\/boxplat.com\/en\/"
+  },
   "countries":null,
   "contacts":null,
   "address":null,
