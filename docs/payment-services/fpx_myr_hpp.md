@@ -26,6 +26,7 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`document_id`|✗|`string`|`/^[0-9]{10,14}$/`| 
+|`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
  
 
 ### Details 
@@ -47,6 +48,24 @@
 	: [EN] Enter payer personal identification number 
 	: [RU] Введите номер документа плательщика 
 	: [UK] Введіть номер документа платника 
+ 
+2. **`bank_code`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z0-9]{2,20}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank code 
+	: [RU] Код банка 
+	: [UK] Код банку 
+ 
+	Hint:  
+	: [EN] Enter bank code 
+	: [RU] Введите код банка 
+	: [UK] Введіть код банку 
  
 
 ## JSON Object 
@@ -73,6 +92,23 @@
         "en":"Enter payer personal identification number",
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043b\u0430\u0442\u0435\u043b\u044c\u0449\u0438\u043a\u0430",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
+      }
+    },
+    {
+      "key":"bank_code",
+      "type":"string",
+      "regexp":"\/^[A-Za-z0-9]{2,20}$\/",
+      "required":false,
+      "position":2,
+      "label":{
+        "en":"Bank code",
+        "ru":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter bank code",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443"
       }
     }
   ],
