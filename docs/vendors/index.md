@@ -855,6 +855,7 @@
 |![fukuoka_bank](https://static.openfintech.io/vendors/fukuoka_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Fukuoka Bank**](fukuoka_bank/)|`fukuoka_bank`| 
 |![fukuoka_chuo_bank](https://static.openfintech.io/vendors/fukuoka_chuo_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Fukuoka Chuo Bank**](fukuoka_chuo_bank/)|`fukuoka_chuo_bank`| 
 |![fukushima_bank](https://static.openfintech.io/vendors/fukushima_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Fukushima Bank**](fukushima_bank/)|`fukushima_bank`| 
+|![fullpays](https://static.openfintech.io/vendors/fullpays/logo.png?w=600&c=v0.59.26#w200) |[**FullPays**](fullpays/)|`fullpays`| 
 |![futurepay](https://static.openfintech.io/vendors/futurepay/logo.png?w=600&c=v0.59.26#w200) |[**FuturePay**](futurepay/)|`futurepay`| 
 |![futuritypay](https://static.openfintech.io/vendors/futuritypay/logo.png?w=600&c=v0.59.26#w200) |[**Futuritypay**](futuritypay/)|`futuritypay`| 
 |![fvinnicke_oblasne_u_atoshad_m_vinnicya](https://static.openfintech.io/vendors/fvinnicke_oblasne_u_atoshad_m_vinnicya/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Вiнницьке обласне управлiння ПАТ 'Державний ощадний банк України'**](fvinnicke_oblasne_u_atoshad_m_vinnicya/)|`fvinnicke_oblasne_u_atoshad_m_vinnicya`| 

@@ -52,6 +52,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Papara_
 |![vevopay](https://static.openfintech.io/payment_providers/vevopay/icon.png?w=278&c=v0.59.26#w100) |[VevoPay](/payment-providers/vevopay/)|`vevopay`| 
 |![maldopay](https://static.openfintech.io/payment_providers/maldopay/icon.png?w=278&c=v0.59.26#w100) |[MaldoPay](/payment-providers/maldopay/)|`maldopay`| 
 |![elitepay](https://static.openfintech.io/payment_providers/elitepay/icon.png?w=278&c=v0.59.26#w100) |[Elitepay](/payment-providers/elitepay/)|`elitepay`| 
+|![fullpays](https://static.openfintech.io/payment_providers/fullpays/icon.png?w=278&c=v0.59.26#w100) |[FullPays](/payment-providers/fullpays/)|`fullpays`| 
 |![payok](https://static.openfintech.io/payment_providers/payok/icon.png?w=278&c=v0.59.26#w100) |[Payok](/payment-providers/payok/)|`payok`| 
  
 
