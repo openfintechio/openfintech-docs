@@ -1305,6 +1305,7 @@
 |![nbrb](https://static.openfintech.io/vendors/nbrb/logo.png?w=600&c=v0.59.26#w200) |[**National Bank of the Republic of Belarus**](nbrb/)|`nbrb`| 
 |![nbt](https://static.openfintech.io/vendors/nbt/logo.svg?w=600&c=v0.59.26#w200) |[**National Bank of Tajikistan**](nbt/)|`nbt`| 
 |![nbu](https://static.openfintech.io/vendors/nbu/logo.png?w=600&c=v0.59.26#w200) |[**National Bank of Ukraine**](nbu/)|`nbu`| 
+|![nebeus](https://static.openfintech.io/vendors/nebeus/logo.svg?w=600&c=v0.59.26#w200) |[**Nebeus**](nebeus/)|`nebeus`| 
 |![neonpay](https://static.openfintech.io/vendors/neonpay/logo.png?w=600&c=v0.59.26#w200) |[**Neonpay**](neonpay/)|`neonpay`| 
 |![neopay](https://static.openfintech.io/vendors/neopay/logo.svg?w=600&c=v0.59.26#w200) |[**Neopay**](neopay/)|`neopay`| 
 |![neosurf](https://static.openfintech.io/vendors/neosurf/logo.png?w=600&c=v0.59.26#w200) |[**Neosurf**](neosurf/)|`neosurf`| 
@@ -2023,6 +2024,7 @@
 |![spayz](https://static.openfintech.io/vendors/spayz/logo.svg?w=600&c=v0.59.26#w200) |[**Spayz**](spayz/)|`spayz`| 
 |![spbwmcasher.ru](https://static.openfintech.io/vendors/spbwmcasher.ru/logo.svg?w=600&c=v0.59.26#w200) |[**SpbWMCasher**](spbwmcasher.ru/)|`spbwmcasher.ru`| 
 |![specializedprocessingsolutions](https://static.openfintech.io/vendors/specializedprocessingsolutions/logo.png?w=600&c=v0.59.26#w200) |[**Specialized Processing Solutions**](specializedprocessingsolutions/)|`specializedprocessingsolutions`| 
+|![spitamenbank](https://static.openfintech.io/vendors/spitamenbank/logo.svg?w=600&c=v0.59.26#w200) |[**Spitamen Bank**](spitamenbank/)|`spitamenbank`| 
 |![spoynt](https://static.openfintech.io/vendors/spoynt/logo.svg?w=600&c=v0.59.26#w200) |[**Spoynt**](spoynt/)|`spoynt`| 
 |![spryng](https://static.openfintech.io/vendors/spryng/logo.png?w=600&c=v0.59.26#w200) |[**Spryng Payments**](spryng/)|`spryng`| 
 |![spush](https://static.openfintech.io/vendors/spush/logo.svg?w=600&c=v0.59.26#w200) |[**Spush**](spush/)|`spush`| 

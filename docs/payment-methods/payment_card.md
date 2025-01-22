@@ -611,6 +611,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 
 |![intersect](https://static.openfintech.io/payment_providers/intersect/icon.png?w=278&c=v0.59.26#w100) |[Intersect](/payment-providers/intersect/)|`intersect`| 
 |![glory](https://static.openfintech.io/payment_providers/glory/icon.png?w=278&c=v0.59.26#w100) |[Glory](/payment-providers/glory/)|`glory`| 
+|![spitamenbank](https://static.openfintech.io/payment_providers/spitamenbank/icon.png?w=278&c=v0.59.26#w100) |[Spitamen Bank](/payment-providers/spitamenbank/)|`spitamenbank`| 
  
 
 ## JSON Object 

@@ -563,6 +563,7 @@
 |![nagad](https://static.openfintech.io/payment_providers/nagad/logo.png?w=600&c=v0.59.26#w100) |[**Nagad**](nagad/)|`nagad`| 
 |![nationalach](https://static.openfintech.io/payment_providers/nationalach/logo.png?w=600&c=v0.59.26#w100) |[**NationalACH**](nationalach/)|`nationalach`| 
 |![nayem](https://static.openfintech.io/payment_providers/nayem/logo.png?w=600&c=v0.59.26#w100) |[**Nayem**](nayem/)|`nayem`| 
+|![nebeus](https://static.openfintech.io/payment_providers/nebeus/logo.svg?w=600&c=v0.59.26#w100) |[**Nebeus**](nebeus/)|`nebeus`| 
 |![neonpay](https://static.openfintech.io/payment_providers/neonpay/logo.png?w=600&c=v0.59.26#w100) |[**Neonpay**](neonpay/)|`neonpay`| 
 |![neopay](https://static.openfintech.io/payment_providers/neopay/logo.svg?w=600&c=v0.59.26#w100) |[**Neopay**](neopay/)|`neopay`| 
 |![netbanx](https://static.openfintech.io/payment_providers/netbanx/logo.png?w=600&c=v0.59.26#w100) |[**Netbanx**](netbanx/)|`netbanx`| 
@@ -923,6 +924,7 @@
 |![spartapay](https://static.openfintech.io/payment_providers/spartapay/logo.png?w=600&c=v0.59.26#w100) |[**Sparta-Pay**](spartapay/)|`spartapay`| 
 |![spayz](https://static.openfintech.io/payment_providers/spayz/logo.svg?w=600&c=v0.59.26#w100) |[**Spayz**](spayz/)|`spayz`| 
 |![specializedprocessingsolutions](https://static.openfintech.io/payment_providers/specializedprocessingsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Specialized Processing Solutions**](specializedprocessingsolutions/)|`specializedprocessingsolutions`| 
+|![spitamenbank](https://static.openfintech.io/payment_providers/spitamenbank/logo.svg?w=600&c=v0.59.26#w100) |[**Spitamen Bank**](spitamenbank/)|`spitamenbank`| 
 |![spoynt](https://static.openfintech.io/payment_providers/spoynt/logo.svg?w=600&c=v0.59.26#w100) |[**Spoynt**](spoynt/)|`spoynt`| 
 |![spryng](https://static.openfintech.io/payment_providers/spryng/logo.png?w=600&c=v0.59.26#w100) |[**Spryng Payments**](spryng/)|`spryng`| 
 |![spush](https://static.openfintech.io/payment_providers/spush/logo.svg?w=600&c=v0.59.26#w100) |[**Spush**](spush/)|`spush`| 

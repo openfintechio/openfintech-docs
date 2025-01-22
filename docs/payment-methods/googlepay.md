@@ -51,6 +51,7 @@ The list of [Payment Services](/payment-services/) based on the _Google Pay_
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_pln_hpp](/payment-services/googlepay_pln_hpp/)|`googlepay_pln_hpp`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_inr_hpp](/payment-services/googlepay_inr_hpp/)|`googlepay_inr_hpp`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_inr_invoice](/payment-services/googlepay_inr_invoice/)|`googlepay_inr_invoice`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_gbp_hpp](/payment-services/googlepay_gbp_hpp/)|`googlepay_gbp_hpp`| 
  
 
 ## Payment Providers 
@@ -78,6 +79,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Google Pa
 |![gateiq](https://static.openfintech.io/payment_providers/gateiq/icon.svg?w=278&c=v0.59.26#w100) |[GateIQ](/payment-providers/gateiq/)|`gateiq`| 
 |![pluspedirect](https://static.openfintech.io/payment_providers/pluspedirect/icon.svg?w=278&c=v0.59.26#w100) |[PlusPeDirect](/payment-providers/pluspedirect/)|`pluspedirect`| 
 |![rampnow](https://static.openfintech.io/payment_providers/rampnow/icon.svg?w=278&c=v0.59.26#w100) |[Rampnow](/payment-providers/rampnow/)|`rampnow`| 
+|![spitamenbank](https://static.openfintech.io/payment_providers/spitamenbank/icon.png?w=278&c=v0.59.26#w100) |[Spitamen Bank](/payment-providers/spitamenbank/)|`spitamenbank`| 
  
 
 ## JSON Object 
