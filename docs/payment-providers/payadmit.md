@@ -55,6 +55,9 @@ The list of supported [Payment Methods](/payment-methods/)
 |![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill](/payment-methods/skrill/)|`skrill`| 
 |![okpay_finance_ltd_slyse](https://static.openfintech.io/payment_methods/okpay_finance_ltd_slyse/icon.png?w=278&c=v0.59.26#w100) |[okpay_finance_ltd_slyse](/payment-methods/okpay_finance_ltd_slyse/)|`okpay_finance_ltd_slyse`| 
 |![newera_payment_technologies_ltd_bazpayuah](https://static.openfintech.io/payment_methods/newera_payment_technologies_ltd_bazpayuah/icon.svg?w=278&c=v0.59.26#w100) |[newera_payment_technologies_ltd_bazpayuah](/payment-methods/newera_payment_technologies_ltd_bazpayuah/)|`newera_payment_technologies_ltd_bazpayuah`| 
+|![bitexpro_advwallet](https://static.openfintech.io/payment_methods/bitexpro_advwallet/icon.svg?w=278&c=v0.59.26#w100) |[bitexpro_advwallet](/payment-methods/bitexpro_advwallet/)|`bitexpro_advwallet`| 
+|![bitexpro_payeer](https://static.openfintech.io/payment_methods/bitexpro_payeer/icon.svg?w=278&c=v0.59.26#w100) |[bitexpro_payeer](/payment-methods/bitexpro_payeer/)|`bitexpro_payeer`| 
+|![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking](/payment-methods/openbanking/)|`openbanking`| 
  
 
 ## Payout Methods 
@@ -91,7 +94,10 @@ The list of supported [Payout Methods](/payout-methods/)
     "sepa_transfer",
     "skrill",
     "okpay_finance_ltd_slyse",
-    "newera_payment_technologies_ltd_bazpayuah"
+    "newera_payment_technologies_ltd_bazpayuah",
+    "bitexpro_advwallet",
+    "bitexpro_payeer",
+    "openbanking"
   ],
   "payout_method":[
     "payment_card"

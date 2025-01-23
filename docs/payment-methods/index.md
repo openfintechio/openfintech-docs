@@ -176,7 +176,9 @@
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](bitcoin/)|`bitcoin`| 
 |![bitcoin_cash](https://static.openfintech.io/payment_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w200) |[**Bitcoin Cash**](bitcoin_cash/)|`bitcoin_cash`| 
 |![bitexpro](https://static.openfintech.io/payment_methods/bitexpro/logo.png?w=400&c=v0.59.26#w200) |[**BitexPRO**](bitexpro/)|`bitexpro`| 
+|![bitexpro_advwallet](https://static.openfintech.io/payment_methods/bitexpro_advwallet/logo.svg?w=400&c=v0.59.26#w200) |[**BitexPRO advwallet**](bitexpro_advwallet/)|`bitexpro_advwallet`| 
 |![bitexpro_p2p](https://static.openfintech.io/payment_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**BitexPRO P2P**](bitexpro_p2p/)|`bitexpro_p2p`| 
+|![bitexpro_payeer](https://static.openfintech.io/payment_methods/bitexpro_payeer/logo.svg?w=400&c=v0.59.26#w200) |[**BitexPRO payeer**](bitexpro_payeer/)|`bitexpro_payeer`| 
 |![bitexpro_wallet](https://static.openfintech.io/payment_methods/bitexpro_wallet/logo.png?w=400&c=v0.59.26#w200) |[**BitexPRO wallet**](bitexpro_wallet/)|`bitexpro_wallet`| 
 |![bkash_limited](https://static.openfintech.io/payment_methods/bkash_limited/logo.png?w=400&c=v0.59.26#w200) |[**Bkash Limited**](bkash_limited/)|`bkash_limited`| 
 |![bkmexpress](https://static.openfintech.io/payment_methods/bkmexpress/logo.png?w=400&c=v0.59.26#w200) |[**BKM Express**](bkmexpress/)|`bkmexpress`| 
@@ -617,6 +619,7 @@
 |![online_banking_qr](https://static.openfintech.io/payment_methods/online_banking_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking QR**](online_banking_qr/)|`online_banking_qr`| 
 |![onlinenaira](https://static.openfintech.io/payment_methods/onlinenaira/logo.png?w=400&c=v0.59.26#w200) |[**OnlineNaira**](onlinenaira/)|`onlinenaira`| 
 |![open_pay_cash](https://static.openfintech.io/payment_methods/open_pay_cash/logo.svg?w=400&c=v0.59.26#w200) |[**OpenPay**](open_pay_cash/)|`open_pay_cash`| 
+|![openbanking](https://static.openfintech.io/payment_methods/openbanking/logo.svg?w=400&c=v0.59.26#w200) |[**Openbanking**](openbanking/)|`openbanking`| 
 |![oppohjola](https://static.openfintech.io/payment_methods/oppohjola/logo.png?w=400&c=v0.59.26#w200) |[**OP-Pohjola**](oppohjola/)|`oppohjola`| 
 |![orange_money](https://static.openfintech.io/payment_methods/orange_money/logo.png?w=400&c=v0.59.26#w200) |[**Orange Money**](orange_money/)|`orange_money`| 
 |![oriental_bank_of_commerce](https://static.openfintech.io/payment_methods/oriental_bank_of_commerce/logo.png?w=400&c=v0.59.26#w200) |[**Oriental Bank Of Commerce**](oriental_bank_of_commerce/)|`oriental_bank_of_commerce`| 

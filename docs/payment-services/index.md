@@ -342,6 +342,7 @@
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_usd_hpp`](bitcoin_usd_hpp/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_usd_invoice`](bitcoin_usd_invoice/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_usdt_hpp`](bitcoin_usdt_hpp/)| 
+|![BitexPRO advwallet](https://static.openfintech.io/payment_methods/bitexpro_advwallet/logo.svg?w=400&c=v0.59.26#w200) |[**BitexPRO advwallet**](/payment-methods/bitexpro_advwallet/)|[`bitexpro_advwallet_eur_hpp`](bitexpro_advwallet_eur_hpp/)| 
 |![BitexPRO](https://static.openfintech.io/payment_methods/bitexpro/logo.png?w=400&c=v0.59.26#w200) |[**BitexPRO**](/payment-methods/bitexpro/)|[`bitexpro_aed_hpp`](bitexpro_aed_hpp/)| 
 |![BitexPRO](https://static.openfintech.io/payment_methods/bitexpro/logo.png?w=400&c=v0.59.26#w200) |[**BitexPRO**](/payment-methods/bitexpro/)|[`bitexpro_eur_hpp`](bitexpro_eur_hpp/)| 
 |![BitexPRO](https://static.openfintech.io/payment_methods/bitexpro/logo.png?w=400&c=v0.59.26#w200) |[**BitexPRO**](/payment-methods/bitexpro/)|[`bitexpro_inr_hpp`](bitexpro_inr_hpp/)| 
@@ -360,6 +361,7 @@
 |![BitexPRO P2P](https://static.openfintech.io/payment_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**BitexPRO P2P**](/payment-methods/bitexpro_p2p/)|[`bitexpro_p2p_uah_hpp`](bitexpro_p2p_uah_hpp/)| 
 |![BitexPRO P2P](https://static.openfintech.io/payment_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**BitexPRO P2P**](/payment-methods/bitexpro_p2p/)|[`bitexpro_p2p_uzs_hpp`](bitexpro_p2p_uzs_hpp/)| 
 |![BitexPRO P2P](https://static.openfintech.io/payment_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**BitexPRO P2P**](/payment-methods/bitexpro_p2p/)|[`bitexpro_p2p_vnd_hpp`](bitexpro_p2p_vnd_hpp/)| 
+|![BitexPRO payeer](https://static.openfintech.io/payment_methods/bitexpro_payeer/logo.svg?w=400&c=v0.59.26#w200) |[**BitexPRO payeer**](/payment-methods/bitexpro_payeer/)|[`bitexpro_payeer_eur_hpp`](bitexpro_payeer_eur_hpp/)| 
 |![BitexPRO](https://static.openfintech.io/payment_methods/bitexpro/logo.png?w=400&c=v0.59.26#w200) |[**BitexPRO**](/payment-methods/bitexpro/)|[`bitexpro_rub_hpp`](bitexpro_rub_hpp/)| 
 |![BitexPRO](https://static.openfintech.io/payment_methods/bitexpro/logo.png?w=400&c=v0.59.26#w200) |[**BitexPRO**](/payment-methods/bitexpro/)|[`bitexpro_usd_hpp`](bitexpro_usd_hpp/)| 
 |![BitexPRO wallet](https://static.openfintech.io/payment_methods/bitexpro_wallet/logo.png?w=400&c=v0.59.26#w200) |[**BitexPRO wallet**](/payment-methods/bitexpro_wallet/)|[`bitexpro_wallet_eur_hpp`](bitexpro_wallet_eur_hpp/)| 
@@ -1092,6 +1094,7 @@
 |![Online Banking](https://static.openfintech.io/payment_methods/online_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking**](/payment-methods/online_banking/)|[`online_banking_usd_hpp`](online_banking_usd_hpp/)| 
 |![Online Banking](https://static.openfintech.io/payment_methods/online_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking**](/payment-methods/online_banking/)|[`online_banking_vnd_hpp`](online_banking_vnd_hpp/)| 
 |![OpenPay](https://static.openfintech.io/payment_methods/open_pay_cash/logo.svg?w=400&c=v0.59.26#w200) |[**OpenPay**](/payment-methods/open_pay_cash/)|[`open_pay_cash_mxn_hpp`](open_pay_cash_mxn_hpp/)| 
+|![Openbanking](https://static.openfintech.io/payment_methods/openbanking/logo.svg?w=400&c=v0.59.26#w200) |[**Openbanking**](/payment-methods/openbanking/)|[`openbanking_eur_hpp`](openbanking_eur_hpp/)| 
 |![Orange Money](https://static.openfintech.io/payment_methods/orange_money/logo.png?w=400&c=v0.59.26#w200) |[**Orange Money**](/payment-methods/orange_money/)|[`orange_money_xaf_hpp`](orange_money_xaf_hpp/)| 
 |![Oriental Bank Of Commerce](https://static.openfintech.io/payment_methods/oriental_bank_of_commerce/logo.png?w=400&c=v0.59.26#w200) |[**Oriental Bank Of Commerce**](/payment-methods/oriental_bank_of_commerce/)|[`oriental_bank_of_commerce_inr_hpp`](oriental_bank_of_commerce_inr_hpp/)| 
 |![Oriental Wallet](https://static.openfintech.io/payment_methods/oriental_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**Oriental Wallet**](/payment-methods/oriental_wallet/)|[`oriental_wallet_eur_hpp`](oriental_wallet_eur_hpp/)| 
