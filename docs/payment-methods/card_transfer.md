@@ -50,6 +50,7 @@ The list of [Payment Services](/payment-services/) based on the _Card transfer_
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_ars_hpp](/payment-services/card_transfer_ars_hpp/)|`card_transfer_ars_hpp`| 
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_kgs_hpp](/payment-services/card_transfer_kgs_hpp/)|`card_transfer_kgs_hpp`| 
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_egp_hpp](/payment-services/card_transfer_egp_hpp/)|`card_transfer_egp_hpp`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_eur_hpp](/payment-services/card_transfer_eur_hpp/)|`card_transfer_eur_hpp`| 
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_mxn_hpp](/payment-services/card_transfer_mxn_hpp/)|`card_transfer_mxn_hpp`| 
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_bdt_hpp](/payment-services/card_transfer_bdt_hpp/)|`card_transfer_bdt_hpp`| 
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer_uzs_invoice](/payment-services/card_transfer_uzs_invoice/)|`card_transfer_uzs_invoice`| 
@@ -76,6 +77,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card tran
 |![appexmoney](https://static.openfintech.io/payment_providers/appexmoney/icon.svg?w=278&c=v0.59.26#w100) |[Appexmoney](/payment-providers/appexmoney/)|`appexmoney`| 
 |![payelata](https://static.openfintech.io/payment_providers/payelata/icon.svg?w=278&c=v0.59.26#w100) |[Payelata](/payment-providers/payelata/)|`payelata`| 
 |![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
+|![inwizo](https://static.openfintech.io/payment_providers/inwizo/icon.svg?w=278&c=v0.59.26#w100) |[Inwizo](/payment-providers/inwizo/)|`inwizo`| 
 |![pay2play](https://static.openfintech.io/payment_providers/pay2play/icon.svg?w=278&c=v0.59.26#w100) |[pay2play](/payment-providers/pay2play/)|`pay2play`| 
 |![payport](https://static.openfintech.io/payment_providers/payport/icon.svg?w=278&c=v0.59.26#w100) |[PayPort](/payment-providers/payport/)|`payport`| 
 |![twopayler](https://static.openfintech.io/payment_providers/twopayler/icon.svg?w=278&c=v0.59.26#w100) |[2PayLer](/payment-providers/twopayler/)|`twopayler`| 

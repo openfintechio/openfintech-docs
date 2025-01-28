@@ -40,6 +40,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer](/payment-methods/card_transfer/)|`card_transfer`| 
 |![m10](https://static.openfintech.io/payment_methods/m10/icon.png?w=278&c=v0.59.26#w100) |[m10](/payment-methods/m10/)|`m10`| 
 |![emanat](https://static.openfintech.io/payment_methods/emanat/icon.png?w=278&c=v0.59.26#w100) |[emanat](/payment-methods/emanat/)|`emanat`| 
  
@@ -66,6 +67,7 @@ The list of supported [Payout Methods](/payout-methods/)
   "countries":null,
   "payment_method":[
     "payment_card",
+    "card_transfer",
     "m10",
     "emanat"
   ],
