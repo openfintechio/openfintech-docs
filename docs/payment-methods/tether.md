@@ -125,6 +125,7 @@ The list of [Payment Services](/payment-services/) based on the _Tether_
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_usdterc20_hpp](/payment-services/tether_usdterc20_hpp/)|`tether_usdterc20_hpp`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_usdttrc20_hpp](/payment-services/tether_usdttrc20_hpp/)|`tether_usdttrc20_hpp`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_usdtbep20_hpp](/payment-services/tether_usdtbep20_hpp/)|`tether_usdtbep20_hpp`| 
+|![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_eur_hpp](/payment-services/tether_eur_hpp/)|`tether_eur_hpp`| 
  
 
 ## Payment Providers 

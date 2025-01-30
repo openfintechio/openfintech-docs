@@ -38,6 +38,7 @@
 |![alandsbanken](https://static.openfintech.io/payment_methods/alandsbanken/logo.png?w=400&c=v0.59.26#w200) |[**Älandsbanken**](alandsbanken/)|`alandsbanken`| 
 |![alfaclick](https://static.openfintech.io/payment_methods/alfaclick/logo.png?w=400&c=v0.59.26#w200) |[**Alfa Click**](alfaclick/)|`alfaclick`| 
 |![alfamart](https://static.openfintech.io/payment_methods/alfamart/logo.svg?w=400&c=v0.59.26#w200) |[**Alfamart**](alfamart/)|`alfamart`| 
+|![algorand](https://static.openfintech.io/payment_methods/algorand/logo.png?w=400&c=v0.59.26#w200) |[**Algorand**](algorand/)|`algorand`| 
 |![alipay](https://static.openfintech.io/payment_methods/alipay/logo.svg?w=400&c=v0.59.26#w200) |[**Alipay**](alipay/)|`alipay`| 
 |![allahabad_bank](https://static.openfintech.io/payment_methods/allahabad_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Allahabad Bank**](allahabad_bank/)|`allahabad_bank`| 
 |![alliance_bank](https://static.openfintech.io/payment_methods/alliance_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Alliance Bank Malaysia Berhad**](alliance_bank/)|`alliance_bank`| 
@@ -243,6 +244,7 @@
 |![cepbank](https://static.openfintech.io/payment_methods/cepbank/logo.png?w=400&c=v0.59.26#w200) |[**CepBank**](cepbank/)|`cepbank`| 
 |![ceskasporitelna](https://static.openfintech.io/payment_methods/ceskasporitelna/logo.png?w=400&c=v0.59.26#w200) |[**Ceská Sporitelna**](ceskasporitelna/)|`ceskasporitelna`| 
 |![cfc_bank](https://static.openfintech.io/payment_methods/cfc_bank/logo.png?w=400&c=v0.59.26#w200) |[**VietCredit Finance Joint Stock Company**](cfc_bank/)|`cfc_bank`| 
+|![chainlink](https://static.openfintech.io/payment_methods/chainlink/logo.png?w=400&c=v0.59.26#w200) |[**Chainlink**](chainlink/)|`chainlink`| 
 |![china_citic_bank](https://static.openfintech.io/payment_methods/china_citic_bank/logo.svg?w=400&c=v0.59.26#w200) |[**China Citic Bank**](china_citic_bank/)|`china_citic_bank`| 
 |![china_construction_bank](https://static.openfintech.io/payment_methods/china_construction_bank/logo.svg?w=400&c=v0.59.26#w200) |[**China Construction Bank**](china_construction_bank/)|`china_construction_bank`| 
 |![china_everbright_bank](https://static.openfintech.io/payment_methods/china_everbright_bank/logo.svg?w=400&c=v0.59.26#w200) |[**China Everbright Bank**](china_everbright_bank/)|`china_everbright_bank`| 
@@ -337,6 +339,7 @@
 |![elo](https://static.openfintech.io/payment_methods/elo/logo.png?w=400&c=v0.59.26#w200) |[**Elo**](elo/)|`elo`| 
 |![emanat](https://static.openfintech.io/payment_methods/emanat/logo.png?w=400&c=v0.59.26#w200) |[**eManat**](emanat/)|`emanat`| 
 |![enetsdirectdebit](https://static.openfintech.io/payment_methods/enetsdirectdebit/logo.png?w=400&c=v0.59.26#w200) |[**eNETS Direct Debit**](enetsdirectdebit/)|`enetsdirectdebit`| 
+|![eos](https://static.openfintech.io/payment_methods/eos/logo.png?w=400&c=v0.59.26#w200) |[**EOS**](eos/)|`eos`| 
 |![epaybg](https://static.openfintech.io/payment_methods/epaybg/logo.svg?w=400&c=v0.59.26#w200) |[**ePay.bg**](epaybg/)|`epaybg`| 
 |![epayua](https://static.openfintech.io/payment_methods/epayua/logo.png?w=400&c=v0.59.26#w200) |[**E-Pay**](epayua/)|`epayua`| 
 |![epese](https://static.openfintech.io/payment_methods/epese/logo.png?w=400&c=v0.59.26#w200) |[**Epese**](epese/)|`epese`| 
@@ -700,6 +703,7 @@
 |![pix](https://static.openfintech.io/payment_methods/pix/logo.svg?w=400&c=v0.59.26#w200) |[**PIX**](pix/)|`pix`| 
 |![pix_qr](https://static.openfintech.io/payment_methods/pix_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Pix Qr**](pix_qr/)|`pix_qr`| 
 |![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/logo.png?w=400&c=v0.59.26#w200) |[**POLi Payments**](polipayonline/)|`polipayonline`| 
+|![polkadot](https://static.openfintech.io/payment_methods/polkadot/logo.png?w=400&c=v0.59.26#w200) |[**Polkadot**](polkadot/)|`polkadot`| 
 |![polygon](https://static.openfintech.io/payment_methods/polygon/logo.svg?w=400&c=v0.59.26#w200) |[**Polygon**](polygon/)|`polygon`| 
 |![poppankki](https://static.openfintech.io/payment_methods/poppankki/logo.png?w=400&c=v0.59.26#w200) |[**POP Pankki**](poppankki/)|`poppankki`| 
 |![popular_bank](https://static.openfintech.io/payment_methods/popular_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BANCO POPULAR**](popular_bank/)|`popular_bank`| 

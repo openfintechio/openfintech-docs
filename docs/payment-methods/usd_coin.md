@@ -62,6 +62,8 @@ The list of [Payment Services](/payment-services/) based on the _Usd Coin_
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_usdcerc20_hpp](/payment-services/usd_coin_usdcerc20_hpp/)|`usd_coin_usdcerc20_hpp`| 
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_usdctrc20_hpp](/payment-services/usd_coin_usdctrc20_hpp/)|`usd_coin_usdctrc20_hpp`| 
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_usdcbep20_hpp](/payment-services/usd_coin_usdcbep20_hpp/)|`usd_coin_usdcbep20_hpp`| 
+|![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_eur_hpp](/payment-services/usd_coin_eur_hpp/)|`usd_coin_eur_hpp`| 
+|![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_usd_hpp](/payment-services/usd_coin_usd_hpp/)|`usd_coin_usd_hpp`| 
  
 
 ## Payment Providers 

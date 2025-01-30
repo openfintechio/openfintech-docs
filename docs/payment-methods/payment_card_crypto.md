@@ -53,7 +53,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![instaxchange](https://static.openfintech.io/payment_providers/instaxchange/icon.png?w=278&c=v0.59.26#w100) |[Instaxchange](/payment-providers/instaxchange/)|`instaxchange`| 
-|![bitpace](https://static.openfintech.io/payment_providers/bitpace/icon.png?w=278&c=v0.59.26#w100) |[Bitpace](/payment-providers/bitpace/)|`bitpace`| 
 |![paybis](https://static.openfintech.io/payment_providers/paybis/icon.png?w=278&c=v0.59.26#w100) |[Paybis](/payment-providers/paybis/)|`paybis`| 
  
 

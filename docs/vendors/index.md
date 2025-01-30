@@ -528,6 +528,7 @@
 |![connpay](https://static.openfintech.io/vendors/connpay/logo.png?w=600&c=v0.59.26#w200) |[**ConnPay**](connpay/)|`connpay`| 
 |![constantpos](https://static.openfintech.io/vendors/constantpos/logo.svg?w=600&c=v0.59.26#w200) |[**Constantpos**](constantpos/)|`constantpos`| 
 |![contactpay](https://static.openfintech.io/vendors/contactpay/logo.png?w=600&c=v0.59.26#w200) |[**ContactPay**](contactpay/)|`contactpay`| 
+|![contiant](https://static.openfintech.io/vendors/contiant/logo.png?w=600&c=v0.59.26#w200) |[**Contiant**](contiant/)|`contiant`| 
 |![convergegate](https://static.openfintech.io/vendors/convergegate/logo.svg?w=600&c=v0.59.26#w200) |[**ConvergeGate**](convergegate/)|`convergegate`| 
 |![conversebank](https://static.openfintech.io/vendors/conversebank/logo.svg?w=600&c=v0.59.26#w200) |[**Converse Bank**](conversebank/)|`conversebank`| 
 |![copay](https://static.openfintech.io/vendors/copay/logo.svg?w=600&c=v0.59.26#w200) |[**Copay**](copay/)|`copay`| 

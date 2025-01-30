@@ -224,6 +224,7 @@
 |![connpay](https://static.openfintech.io/payment_providers/connpay/logo.png?w=600&c=v0.59.26#w100) |[**ConnPay**](connpay/)|`connpay`| 
 |![constantpos](https://static.openfintech.io/payment_providers/constantpos/logo.svg?w=600&c=v0.59.26#w100) |[**Constantpos**](constantpos/)|`constantpos`| 
 |![contactpay](https://static.openfintech.io/payment_providers/contactpay/logo.png?w=600&c=v0.59.26#w100) |[**ContactPay**](contactpay/)|`contactpay`| 
+|![contiant](https://static.openfintech.io/payment_providers/contiant/logo.png?w=600&c=v0.59.26#w100) |[**Contiant**](contiant/)|`contiant`| 
 |![convergegate](https://static.openfintech.io/payment_providers/convergegate/logo.svg?w=600&c=v0.59.26#w100) |[**ConvergeGate**](convergegate/)|`convergegate`| 
 |![copay](https://static.openfintech.io/payment_providers/copay/logo.svg?w=600&c=v0.59.26#w100) |[**Copay**](copay/)|`copay`| 
 |![corvuspay](https://static.openfintech.io/payment_providers/corvuspay/logo.svg?w=600&c=v0.59.26#w100) |[**CorvusPay**](corvuspay/)|`corvuspay`| 
