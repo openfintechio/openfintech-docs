@@ -852,6 +852,7 @@
 |![standard_chartered_bank_vietnam](https://static.openfintech.io/payment_methods/standard_chartered_bank_vietnam/logo.png?w=400&c=v0.59.26#w200) |[**Standard Chartered Bank (Vietnam) Limited**](standard_chartered_bank_vietnam/)|`standard_chartered_bank_vietnam`| 
 |![standardbank](https://static.openfintech.io/payment_methods/standardbank/logo.png?w=400&c=v0.59.26#w200) |[**Standart Bank**](standardbank/)|`standardbank`| 
 |![state_bank_of_india](https://static.openfintech.io/payment_methods/state_bank_of_india/logo.svg?w=400&c=v0.59.26#w200) |[**State Bank of India**](state_bank_of_india/)|`state_bank_of_india`| 
+|![stellar](https://static.openfintech.io/payment_methods/stellar/logo.png?w=400&c=v0.59.26#w200) |[**Stellar**](stellar/)|`stellar`| 
 |![stripe](https://static.openfintech.io/payment_methods/stripe/logo.svg?w=400&c=v0.59.26#w200) |[**Stripe**](stripe/)|`stripe`| 
 |![su_chance](https://static.openfintech.io/payment_methods/su_chance/logo.svg?w=400&c=v0.59.26#w200) |[**Su Chance**](su_chance/)|`su_chance`| 
 |![su_red](https://static.openfintech.io/payment_methods/su_red/logo.svg?w=400&c=v0.59.26#w200) |[**Su Red**](su_red/)|`su_red`| 

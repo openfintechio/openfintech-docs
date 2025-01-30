@@ -1,21 +1,21 @@
 
-# Cardano (service) 
+# Stellar (service) 
 ![stellar_eur_hpp](https://static.openfintech.io/payment_methods/stellar_eur_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
 **Code:** `stellar_eur_hpp` 
  
-**Method:** `cardano` 
- [show -->](/payment-methods/cardano/) 
+**Method:** `stellar` 
+ [show -->](/payment-methods/stellar/) 
  
 **Currency:** `EUR` [show -->](/currencies/EUR/) 
  
 **Name:** 
  
-:	[EN] Cardano 
-:	[RU] Cardano 
-:	[UK] Cardano 
+:	[EN] Stellar 
+:	[RU] Stellar 
+:	[UK] Stellar 
  
 **Amount limits:** from `0.01` to `100000` EUR 
 
@@ -25,7 +25,7 @@
 {
   "code":"stellar_eur_hpp",
   "flow":"hpp",
-  "method":"cardano",
+  "method":"stellar",
   "currency":"EUR",
   "fields":null,
   "amount_min":0.01,

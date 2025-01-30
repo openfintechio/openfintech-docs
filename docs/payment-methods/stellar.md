@@ -5,8 +5,6 @@
 ## General 
 **Code:** `stellar` 
  
-**Vendor:** `stellar` [show -->](/vendors/stellar/) 
- 
 **Name:** 
  
 :	[EN] Stellar 
@@ -32,13 +30,14 @@ https://static.openfintech.io/payment_methods/stellar/logo.png?w=400&c=v0.59.26#
 https://static.openfintech.io/payment_methods/stellar/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _Stellar_ 
+The list of [Payment Services](/payment-services/) based on the _Stellar_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![stellar](https://static.openfintech.io/payout_methods/stellar/icon.svg?w=278&c=v0.59.26#w40) |[stellar_usdc](/payout-services/stellar_usdc/)|`stellar_usdc`| 
+|![stellar](https://static.openfintech.io/payment_methods/stellar/icon.png?w=278&c=v0.59.26#w100) |[stellar_eur_hpp](/payment-services/stellar_eur_hpp/)|`stellar_eur_hpp`| 
+|![stellar](https://static.openfintech.io/payment_methods/stellar/icon.png?w=278&c=v0.59.26#w100) |[stellar_usd_hpp](/payment-services/stellar_usd_hpp/)|`stellar_usd_hpp`| 
  
 
 ## Payment Providers 
@@ -55,7 +54,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Stellar_
 ```json
 {
   "code":"stellar",
-  "vendor":"stellar",
+  "vendor":null,
   "name":{
     "en":"Stellar",
     "ru":"Stellar",

@@ -39,8 +39,6 @@ The list of [Payment Services](/payment-services/) based on the _Cardano_
 |![cardano](https://static.openfintech.io/payment_methods/cardano/icon.svg?w=278&c=v0.59.26#w100) |[cardano_ada_hpp](/payment-services/cardano_ada_hpp/)|`cardano_ada_hpp`| 
 |![cardano](https://static.openfintech.io/payment_methods/cardano/icon.svg?w=278&c=v0.59.26#w100) |[cardano_usd_hpp](/payment-services/cardano_usd_hpp/)|`cardano_usd_hpp`| 
 |![cardano](https://static.openfintech.io/payment_methods/cardano/icon.svg?w=278&c=v0.59.26#w100) |[cardano_eur_hpp](/payment-services/cardano_eur_hpp/)|`cardano_eur_hpp`| 
-|![cardano](https://static.openfintech.io/payment_methods/cardano/icon.svg?w=278&c=v0.59.26#w100) |[stellar_eur_hpp](/payment-services/stellar_eur_hpp/)|`stellar_eur_hpp`| 
-|![cardano](https://static.openfintech.io/payment_methods/cardano/icon.svg?w=278&c=v0.59.26#w100) |[stellar_usd_hpp](/payment-services/stellar_usd_hpp/)|`stellar_usd_hpp`| 
 |![cardano](https://static.openfintech.io/payment_methods/cardano/icon.svg?w=278&c=v0.59.26#w100) |[cardano_bep20_eur_hpp](/payment-services/cardano_bep20_eur_hpp/)|`cardano_bep20_eur_hpp`| 
 |![cardano](https://static.openfintech.io/payment_methods/cardano/icon.svg?w=278&c=v0.59.26#w100) |[cardano_cad_hpp](/payment-services/cardano_cad_hpp/)|`cardano_cad_hpp`| 
 |![cardano](https://static.openfintech.io/payment_methods/cardano/icon.svg?w=278&c=v0.59.26#w100) |[cardano_bep20_cad_hpp](/payment-services/cardano_bep20_cad_hpp/)|`cardano_bep20_cad_hpp`| 
