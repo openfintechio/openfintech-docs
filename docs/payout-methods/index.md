@@ -1312,6 +1312,7 @@
 |![net-city-zhitomir](https://static.openfintech.io/payout_methods/net-city-zhitomir/logo.png?w=400&c=v0.59.26#w24) |[**Net-City (Zhytomyr)**](net-city-zhitomir/)|`net-city-zhitomir`| 
 |![net-line-03241-4-20-21](https://static.openfintech.io/payout_methods/net-line-03241-4-20-21/logo.png?w=400&c=v0.59.26#w24) |[**NET-LINE (03241 4-20-21)**](net-line-03241-4-20-21/)|`net-line-03241-4-20-21`| 
 |![netassist-kiev](https://static.openfintech.io/payout_methods/netassist-kiev/logo.png?w=400&c=v0.59.26#w24) |[**NetAssist (Kiev)**](netassist-kiev/)|`netassist-kiev`| 
+|![netbanking](https://static.openfintech.io/payout_methods/netbanking/logo.svg?w=400&c=v0.59.26#w24) |[**Net Banking**](netbanking/)|`netbanking`| 
 |![neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](neteller/)|`neteller`| 
 |![netgroup-kiev](https://static.openfintech.io/payout_methods/netgroup-kiev/logo.png?w=400&c=v0.59.26#w24) |[**NetGroup (Kiev)**](netgroup-kiev/)|`netgroup-kiev`| 
 |![netlink](https://static.openfintech.io/payout_methods/netlink/logo.png?w=400&c=v0.59.26#w24) |[**Netlink**](netlink/)|`netlink`| 

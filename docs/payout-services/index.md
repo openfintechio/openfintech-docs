@@ -1457,6 +1457,7 @@
 |![Net-City (Zhytomyr)](https://static.openfintech.io/payout_methods/net-city-zhitomir/logo.png?w=400&c=v0.59.26#w24) |[**Net-City (Zhytomyr)**](/payout-methods/net-city-zhitomir/)|[`net-city-zhitomir_uah`](net-city-zhitomir_uah/)|`UAH`| 
 |![NET-LINE (03241 4-20-21)](https://static.openfintech.io/payout_methods/net-line-03241-4-20-21/logo.png?w=400&c=v0.59.26#w24) |[**NET-LINE (03241 4-20-21)**](/payout-methods/net-line-03241-4-20-21/)|[`net-line-03241-4-20-21_uah`](net-line-03241-4-20-21_uah/)|`UAH`| 
 |![NetAssist (Kiev)](https://static.openfintech.io/payout_methods/netassist-kiev/logo.png?w=400&c=v0.59.26#w24) |[**NetAssist (Kiev)**](/payout-methods/netassist-kiev/)|[`netassist-kiev_uah`](netassist-kiev_uah/)|`UAH`| 
+|![Net Banking](https://static.openfintech.io/payout_methods/netbanking/logo.svg?w=400&c=v0.59.26#w24) |[**Net Banking**](/payout-methods/netbanking/)|[`netbanking_inr`](netbanking_inr/)|`INR`| 
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_aed`](neteller_aed/)|`AED`| 
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_aud`](neteller_aud/)|`AUD`| 
 |![Neteller](https://static.openfintech.io/payout_methods/neteller/logo.svg?w=400&c=v0.59.26#w24) |[**Neteller**](/payout-methods/neteller/)|[`neteller_azn`](neteller_azn/)|`AZN`| 
