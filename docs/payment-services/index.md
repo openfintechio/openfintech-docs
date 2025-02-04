@@ -873,10 +873,10 @@
 |![Kuna Pay](https://static.openfintech.io/payment_methods/kunapay_crypto/logo.svg?w=400&c=v0.59.26#w200) |[**Kuna Pay**](/payment-methods/kunapay_crypto/)|[`kunapay_crypto_uah_hpp`](kunapay_crypto_uah_hpp/)| 
 |![Kuna Pay](https://static.openfintech.io/payment_methods/kunapay_crypto/logo.svg?w=400&c=v0.59.26#w200) |[**Kuna Pay**](/payment-methods/kunapay_crypto/)|[`kunapay_crypto_usd_hpp`](kunapay_crypto_usd_hpp/)| 
 |![Kuna Pay](https://static.openfintech.io/payment_methods/kunapay_crypto/logo.svg?w=400&c=v0.59.26#w200) |[**Kuna Pay**](/payment-methods/kunapay_crypto/)|[`kunapay_crypto_usdt_hpp`](kunapay_crypto_usdt_hpp/)| 
-|![Kvitum](https://static.openfintech.io/payment_methods/kvitum/logo.svg?w=400&c=v0.59.26#w200) |[**Kvitum**](/payment-methods/kvitum/)|[`kvitum_eur_hpp`](kvitum_eur_hpp/)| 
-|![Kvitum](https://static.openfintech.io/payment_methods/kvitum/logo.svg?w=400&c=v0.59.26#w200) |[**Kvitum**](/payment-methods/kvitum/)|[`kvitum_kzt_hpp`](kvitum_kzt_hpp/)| 
-|![Kvitum](https://static.openfintech.io/payment_methods/kvitum/logo.svg?w=400&c=v0.59.26#w200) |[**Kvitum**](/payment-methods/kvitum/)|[`kvitum_uah_hpp`](kvitum_uah_hpp/)| 
-|![Kvitum](https://static.openfintech.io/payment_methods/kvitum/logo.svg?w=400&c=v0.59.26#w200) |[**Kvitum**](/payment-methods/kvitum/)|[`kvitum_usd_hpp`](kvitum_usd_hpp/)| 
+|![Qostiq](https://static.openfintech.io/payment_methods/kvitum/logo.svg?w=400&c=v0.59.26#w200) |[**Qostiq**](/payment-methods/kvitum/)|[`kvitum_eur_hpp`](kvitum_eur_hpp/)| 
+|![Qostiq](https://static.openfintech.io/payment_methods/kvitum/logo.svg?w=400&c=v0.59.26#w200) |[**Qostiq**](/payment-methods/kvitum/)|[`kvitum_kzt_hpp`](kvitum_kzt_hpp/)| 
+|![Qostiq](https://static.openfintech.io/payment_methods/kvitum/logo.svg?w=400&c=v0.59.26#w200) |[**Qostiq**](/payment-methods/kvitum/)|[`kvitum_uah_hpp`](kvitum_uah_hpp/)| 
+|![Qostiq](https://static.openfintech.io/payment_methods/kvitum/logo.svg?w=400&c=v0.59.26#w200) |[**Qostiq**](/payment-methods/kvitum/)|[`kvitum_usd_hpp`](kvitum_usd_hpp/)| 
 |![Kwangju Bank](https://static.openfintech.io/payment_methods/kwangju_bank/logo.png?w=400&c=v0.59.26#w200) |[**Kwangju Bank**](/payment-methods/kwangju_bank/)|[`kwangju_bank_krw_hpp`](kwangju_bank_krw_hpp/)| 
 ||| **L** ||
 |![La Banque Postale](https://static.openfintech.io/payment_methods/la_banque_postale/logo.svg?w=400&c=v0.59.26#w200) |[**La Banque Postale**](/payment-methods/la_banque_postale/)|[`la_banque_postale_eur_hpp`](la_banque_postale_eur_hpp/)| 

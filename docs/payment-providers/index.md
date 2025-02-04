@@ -495,7 +495,7 @@
 |![kuna](https://static.openfintech.io/payment_providers/kuna/logo.svg?w=600&c=v0.59.26#w100) |[**Kuna**](kuna/)|`kuna`| 
 |![kunapay](https://static.openfintech.io/payment_providers/kunapay/logo.svg?w=600&c=v0.59.26#w100) |[**KUNA Pay**](kunapay/)|`kunapay`| 
 |![kunapaycrypto](https://static.openfintech.io/payment_providers/kunapaycrypto/logo.svg?w=600&c=v0.59.26#w100) |[**KUNA Pay Crypto**](kunapaycrypto/)|`kunapaycrypto`| 
-|![kvitum](https://static.openfintech.io/payment_providers/kvitum/logo.svg?w=600&c=v0.59.26#w100) |[**Kvitum**](kvitum/)|`kvitum`| 
+|![kvitum](https://static.openfintech.io/payment_providers/kvitum/logo.svg?w=600&c=v0.59.26#w100) |[**Qostiq**](kvitum/)|`kvitum`| 
 || **L** ||
 |![lateralpaymentsolutions](https://static.openfintech.io/payment_providers/lateralpaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Lateral Payment Solutions**](lateralpaymentsolutions/)|`lateralpaymentsolutions`| 
 |![lava](https://static.openfintech.io/payment_providers/lava/logo.svg?w=600&c=v0.59.26#w100) |[**Lava**](lava/)|`lava`| 

@@ -407,7 +407,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![transfr](https://static.openfintech.io/payment_providers/transfr/icon.png?w=278&c=v0.59.26#w100) |[Transfr](/payment-providers/transfr/)|`transfr`| 
 |![honeypay](https://static.openfintech.io/payment_providers/honeypay/icon.png?w=278&c=v0.59.26#w100) |[MilkyPay](/payment-providers/honeypay/)|`honeypay`| 
 |![inwizo](https://static.openfintech.io/payment_providers/inwizo/icon.svg?w=278&c=v0.59.26#w100) |[Inwizo](/payment-providers/inwizo/)|`inwizo`| 
-|![kvitum](https://static.openfintech.io/payment_providers/kvitum/icon.svg?w=278&c=v0.59.26#w100) |[Kvitum](/payment-providers/kvitum/)|`kvitum`| 
+|![kvitum](https://static.openfintech.io/payment_providers/kvitum/icon.svg?w=278&c=v0.59.26#w100) |[Qostiq](/payment-providers/kvitum/)|`kvitum`| 
 |![maguapay](https://static.openfintech.io/payment_providers/maguapay/icon.png?w=278&c=v0.59.26#w100) |[Magua Pay](/payment-providers/maguapay/)|`maguapay`| 
 |![planbpay](https://static.openfintech.io/payment_providers/planbpay/icon.svg?w=278&c=v0.59.26#w100) |[Planbpay](/payment-providers/planbpay/)|`planbpay`| 
 |![virtpay](https://static.openfintech.io/payment_providers/virtpay/icon.png?w=278&c=v0.59.26#w100) |[Virtpay](/payment-providers/virtpay/)|`virtpay`| 

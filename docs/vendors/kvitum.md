@@ -1,5 +1,5 @@
 
-# Kvitum 
+# Qostiq 
 ![kvitum](https://static.openfintech.io/vendors/kvitum/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,14 +8,14 @@
  
 **Name:** 
  
-:	[EN] Kvitum 
-:	[RU] Kvitum 
-:	[UK] Kvitum 
+:	[EN] Qostiq 
+:	[RU] Qostiq 
+:	[UK] Qostiq 
  
 **Status:** `active` 
  
 **Links:** 
-: website [https://kvitum.com/](https://kvitum.com/) 
+: website [https://qostiq.com/](https://qostiq.com/) 
  
 
 ## Images 
@@ -42,14 +42,14 @@ https://static.openfintech.io/vendors/kvitum/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"kvitum",
   "name":{
-    "en":"Kvitum",
-    "ru":"Kvitum",
-    "uk":"Kvitum"
+    "en":"Qostiq",
+    "ru":"Qostiq",
+    "uk":"Qostiq"
   },
   "status":"active",
   "description":null,
   "links":{
-    "website":"https:\/\/kvitum.com\/"
+    "website":"https:\/\/qostiq.com\/"
   },
   "countries":null,
   "contacts":null,

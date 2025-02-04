@@ -500,7 +500,7 @@
 |![krungthaibanknetbanking](https://static.openfintech.io/payment_methods/krungthaibanknetbanking/logo.png?w=400&c=v0.59.26#w200) |[**Krungthai Bank netbanking**](krungthaibanknetbanking/)|`krungthaibanknetbanking`| 
 |![kunapay_crypto](https://static.openfintech.io/payment_methods/kunapay_crypto/logo.svg?w=400&c=v0.59.26#w200) |[**Kuna Pay**](kunapay_crypto/)|`kunapay_crypto`| 
 |![kviku](https://static.openfintech.io/payment_methods/kviku/logo.png?w=400&c=v0.59.26#w200) |[**Kviku**](kviku/)|`kviku`| 
-|![kvitum](https://static.openfintech.io/payment_methods/kvitum/logo.svg?w=400&c=v0.59.26#w200) |[**Kvitum**](kvitum/)|`kvitum`| 
+|![kvitum](https://static.openfintech.io/payment_methods/kvitum/logo.svg?w=400&c=v0.59.26#w200) |[**Qostiq**](kvitum/)|`kvitum`| 
 |![kwangju_bank](https://static.openfintech.io/payment_methods/kwangju_bank/logo.png?w=400&c=v0.59.26#w200) |[**Kwangju Bank**](kwangju_bank/)|`kwangju_bank`| 
 |![kwixo](https://static.openfintech.io/payment_methods/kwixo/logo.png?w=400&c=v0.59.26#w200) |[**Kwixo**](kwixo/)|`kwixo`| 
 || **L** ||

@@ -48,7 +48,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Kvitum_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![kvitum](https://static.openfintech.io/payment_providers/kvitum/icon.svg?w=278&c=v0.59.26#w100) |[Kvitum](/payment-providers/kvitum/)|`kvitum`| 
+|![kvitum](https://static.openfintech.io/payment_providers/kvitum/icon.svg?w=278&c=v0.59.26#w100) |[Qostiq](/payment-providers/kvitum/)|`kvitum`| 
  
 
 ## JSON Object 

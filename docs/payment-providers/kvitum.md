@@ -1,5 +1,5 @@
 
-# Kvitum 
+# Qostiq 
 ![kvitum](https://static.openfintech.io/payment_providers/kvitum/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Kvitum 
-:	[RU] Kvitum 
-:	[UK] Kvitum 
+:	[EN] Qostiq 
+:	[RU] Qostiq 
+:	[UK] Qostiq 
  
 
 ## Images 
@@ -86,9 +86,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"Kvitum",
-    "ru":"Kvitum",
-    "uk":"Kvitum"
+    "en":"Qostiq",
+    "ru":"Qostiq",
+    "uk":"Qostiq"
   }
 }
 ```  
