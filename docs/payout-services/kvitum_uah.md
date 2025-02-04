@@ -1,5 +1,5 @@
 
-# Kvitum (service) 
+# Qostiq (service) 
 ![kvitum_uah](https://static.openfintech.io/payout_methods/kvitum_uah/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,9 +12,9 @@
  
 **Name:** 
  
-:	[EN] Kvitum 
-:	[RU] Kvitum 
-:	[UK] Kvitum 
+:	[EN] Qostiq 
+:	[RU] Qostiq 
+:	[UK] Qostiq 
  
 **Amount limits:** from `1.00` to `3000000.00` UAH 
 

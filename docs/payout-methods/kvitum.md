@@ -1,5 +1,5 @@
 
-# Kvitum 
+# Qostiq 
 ![kvitum](https://static.openfintech.io/payment_methods/kvitum/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,9 +7,9 @@
  
 **Name:** 
  
-:	[EN] Kvitum 
-:	[RU] Kvitum 
-:	[UK] Kvitum 
+:	[EN] Qostiq 
+:	[RU] Qostiq 
+:	[UK] Qostiq 
  
 **Category:** `digital_wallet` 
  
@@ -32,7 +32,7 @@ https://static.openfintech.io/payment_methods/kvitum/icon.svg?w=278&c=v0.59.26#w
 
 ## Payout Services 
  
-The list of [Payout Services](/payout-services/) based on the _Kvitum_ 
+The list of [Payout Services](/payout-services/) based on the _Qostiq_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -44,7 +44,7 @@ The list of [Payout Services](/payout-services/) based on the _Kvitum_
 
 ## Payment Providers 
  
-The list of [Payment Providers](/payment-providers/) that support the _Kvitum_ 
+The list of [Payment Providers](/payment-providers/) that support the _Qostiq_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -58,9 +58,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Kvitum_
   "code":"kvitum",
   "vendor":null,
   "name":{
-    "en":"Kvitum",
-    "ru":"Kvitum",
-    "uk":"Kvitum"
+    "en":"Qostiq",
+    "ru":"Qostiq",
+    "uk":"Qostiq"
   },
   "description":null,
   "countries":null,

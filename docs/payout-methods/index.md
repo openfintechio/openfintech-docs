@@ -1080,7 +1080,7 @@
 |![kvant-khodoriv](https://static.openfintech.io/payout_methods/kvant-khodoriv/logo.svg?w=400&c=v0.59.26#w24) |[**КВАНТ (Ходорів)**](kvant-khodoriv/)|`kvant-khodoriv`| 
 |![kvant-mostiska](https://static.openfintech.io/payout_methods/kvant-mostiska/logo.svg?w=400&c=v0.59.26#w24) |[**КВАНТ (Мостиська)**](kvant-mostiska/)|`kvant-mostiska`| 
 |![kvazar-link-melitopol](https://static.openfintech.io/payout_methods/kvazar-link-melitopol/logo.png?w=400&c=v0.59.26#w24) |[**KVAZAR-LINK (Melitopol)**](kvazar-link-melitopol/)|`kvazar-link-melitopol`| 
-|![kvitum](https://static.openfintech.io/payout_methods/kvitum/logo.svg?w=400&c=v0.59.26#w24) |[**Kvitum**](kvitum/)|`kvitum`| 
+|![kvitum](https://static.openfintech.io/payout_methods/kvitum/logo.svg?w=400&c=v0.59.26#w24) |[**Qostiq**](kvitum/)|`kvitum`| 
 |![kwangju_bank](https://static.openfintech.io/payout_methods/kwangju_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Kwangju Bank**](kwangju_bank/)|`kwangju_bank`| 
 |![kyivlink](https://static.openfintech.io/payout_methods/kyivlink/logo.png?w=400&c=v0.59.26#w24) |[**KyivLink**](kyivlink/)|`kyivlink`| 
 |![kyivstar_contract](https://static.openfintech.io/payout_methods/kyivstar_contract/logo.svg?w=400&c=v0.59.26#w24) |[**Kyivstar (contract)**](kyivstar_contract/)|`kyivstar_contract`| 
