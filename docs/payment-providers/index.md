@@ -808,7 +808,7 @@
 |![planbpay](https://static.openfintech.io/payment_providers/planbpay/logo.svg?w=600&c=v0.59.26#w100) |[**Planbpay**](planbpay/)|`planbpay`| 
 |![planetpayment](https://static.openfintech.io/payment_providers/planetpayment/logo.png?w=600&c=v0.59.26#w100) |[**Planet Payment**](planetpayment/)|`planetpayment`| 
 |![platio](https://static.openfintech.io/payment_providers/platio/logo.svg?w=600&c=v0.59.26#w100) |[**Platio**](platio/)|`platio`| 
-|![platon](https://static.openfintech.io/payment_providers/platon/logo.svg?w=600&c=v0.59.26#w100) |[**PSP Platon**](platon/)|`platon`| 
+|![platon](https://static.openfintech.io/payment_providers/platon/logo.png?w=600&c=v0.59.26#w100) |[**TrustyPay**](platon/)|`platon`| 
 |![platron](https://static.openfintech.io/payment_providers/platron/logo.png?w=600&c=v0.59.26#w100) |[**Platron**](platron/)|`platron`| 
 |![pluspedirect](https://static.openfintech.io/payment_providers/pluspedirect/logo.svg?w=600&c=v0.59.26#w100) |[**PlusPeDirect**](pluspedirect/)|`pluspedirect`| 
 |![pmsolutions](https://static.openfintech.io/payment_providers/pmsolutions/logo.png?w=600&c=v0.59.26#w100) |[**PMSolutions**](pmsolutions/)|`pmsolutions`| 

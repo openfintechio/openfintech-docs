@@ -1781,7 +1781,7 @@
 |![planetpayment](https://static.openfintech.io/vendors/planetpayment/logo.png?w=600&c=v0.59.26#w200) |[**Planet Payment**](planetpayment/)|`planetpayment`| 
 |![platio](https://static.openfintech.io/vendors/platio/logo.svg?w=600&c=v0.59.26#w200) |[**Platio Limited**](platio/)|`platio`| 
 |![platiwm.biz](https://static.openfintech.io/vendors/platiwm.biz/logo.svg?w=600&c=v0.59.26#w200) |[**ПлатиWM**](platiwm.biz/)|`platiwm.biz`| 
-|![platon](https://static.openfintech.io/vendors/platon/logo.svg?w=600&c=v0.59.26#w200) |[**PSP Platon**](platon/)|`platon`| 
+|![platon](https://static.openfintech.io/vendors/platon/logo.png?w=600&c=v0.59.26#w200) |[**TrustyPay**](platon/)|`platon`| 
 |![platron](https://static.openfintech.io/vendors/platron/logo.png?w=600&c=v0.59.26#w200) |[**Platron**](platron/)|`platron`| 
 |![pluspedirect](https://static.openfintech.io/vendors/pluspedirect/logo.svg?w=600&c=v0.59.26#w200) |[**PlusPeDirect**](pluspedirect/)|`pluspedirect`| 
 |![plyusbank](https://static.openfintech.io/vendors/plyusbank/logo.svg?w=600&c=v0.59.26#w200) |[**Плюс банк**](plyusbank/)|`plyusbank`| 
