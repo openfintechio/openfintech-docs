@@ -25,7 +25,7 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`bank_branch`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
-|`customer_name`|✔|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
+|`customer_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
 |`bank_account_name`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`bank_account_number`|✔|`string`|`/^[0-9]{5,100}$/`| 
 |`province`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
@@ -61,7 +61,7 @@
  
 	Regexp: `/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Customer name 
@@ -239,7 +239,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c'\u044f \u043a\u043b\u0456\u0454\u043d\u0442\u0430"
       },
       "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\d\\s]{2,100}$\/",
-      "required":true,
+      "required":false,
       "position":2
     },
     {
