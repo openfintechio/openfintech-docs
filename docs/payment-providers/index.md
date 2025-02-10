@@ -847,6 +847,7 @@
 |![rampnow](https://static.openfintech.io/payment_providers/rampnow/logo.png?w=600&c=v0.59.26#w100) |[**Rampnow**](rampnow/)|`rampnow`| 
 |![rapyd](https://static.openfintech.io/payment_providers/rapyd/logo.svg?w=600&c=v0.59.26#w100) |[**Rapyd.net**](rapyd/)|`rapyd`| 
 |![rashpay](https://static.openfintech.io/payment_providers/rashpay/logo.svg?w=600&c=v0.59.26#w100) |[**RashPay**](rashpay/)|`rashpay`| 
+|![rastpay](https://static.openfintech.io/payment_providers/rastpay/logo.svg?w=600&c=v0.59.26#w100) |[**Rastpay**](rastpay/)|`rastpay`| 
 |![ratepay](https://static.openfintech.io/payment_providers/ratepay/logo.png?w=600&c=v0.59.26#w100) |[**RatePAY**](ratepay/)|`ratepay`| 
 |![razorpay](https://static.openfintech.io/payment_providers/razorpay/logo.svg?w=600&c=v0.59.26#w100) |[**Razorpay**](razorpay/)|`razorpay`| 
 |![rbkmoney](https://static.openfintech.io/payment_providers/rbkmoney/logo.png?w=600&c=v0.59.26#w100) |[**RBK Money**](rbkmoney/)|`rbkmoney`| 
@@ -1007,6 +1008,7 @@
 |![universepay](https://static.openfintech.io/payment_providers/universepay/logo.png?w=600&c=v0.59.26#w100) |[**UniversePay**](universepay/)|`universepay`| 
 |![unlimco](https://static.openfintech.io/payment_providers/unlimco/logo.svg?w=600&c=v0.59.26#w100) |[**Unlimco**](unlimco/)|`unlimco`| 
 |![unonapay](https://static.openfintech.io/payment_providers/unonapay/logo.png?w=600&c=v0.59.26#w100) |[**UnonaPay**](unonapay/)|`unonapay`| 
+|![upc](https://static.openfintech.io/payment_providers/upc/logo.png?w=600&c=v0.59.26#w100) |[**UPC**](upc/)|`upc`| 
 |![upclick](https://static.openfintech.io/payment_providers/upclick/logo.png?w=600&c=v0.59.26#w100) |[**Upclick**](upclick/)|`upclick`| 
 |![usaepay](https://static.openfintech.io/payment_providers/usaepay/logo.png?w=600&c=v0.59.26#w100) |[**USAePay**](usaepay/)|`usaepay`| 
 |![usbxpay](https://static.openfintech.io/payment_providers/usbxpay/logo.png?w=600&c=v0.59.26#w100) |[**USBxPAY**](usbxpay/)|`usbxpay`| 

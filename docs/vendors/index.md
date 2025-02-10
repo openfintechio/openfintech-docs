@@ -1862,6 +1862,7 @@
 |![rapipago](https://static.openfintech.io/vendors/rapipago/logo.png?w=600&c=v0.59.26#w200) |[**Rapipago**](rapipago/)|`rapipago`| 
 |![rapyd](https://static.openfintech.io/vendors/rapyd/logo.svg?w=600&c=v0.59.26#w200) |[**Rapyd.net**](rapyd/)|`rapyd`| 
 |![rashpay](https://static.openfintech.io/vendors/rashpay/logo.svg?w=600&c=v0.59.26#w200) |[**RashPay**](rashpay/)|`rashpay`| 
+|![rastpay](https://static.openfintech.io/vendors/rastpay/logo.svg?w=600&c=v0.59.26#w200) |[**Rastpay**](rastpay/)|`rastpay`| 
 |![ratepay](https://static.openfintech.io/vendors/ratepay/logo.png?w=600&c=v0.59.26#w200) |[**RatePAY**](ratepay/)|`ratepay`| 
 |![razorpay](https://static.openfintech.io/vendors/razorpay/logo.svg?w=600&c=v0.59.26#w200) |[**Razorpay**](razorpay/)|`razorpay`| 
 |![rbkmoney](https://static.openfintech.io/vendors/rbkmoney/logo.png?w=600&c=v0.59.26#w200) |[**RBK Money**](rbkmoney/)|`rbkmoney`| 
@@ -2217,6 +2218,7 @@
 |![unlimco](https://static.openfintech.io/vendors/unlimco/logo.svg?w=600&c=v0.59.26#w200) |[**Unlimco**](unlimco/)|`unlimco`| 
 |![unonapay](https://static.openfintech.io/vendors/unonapay/logo.png?w=600&c=v0.59.26#w200) |[**UnonaPay**](unonapay/)|`unonapay`| 
 |![uobmen.ru](https://static.openfintech.io/vendors/uobmen.ru/logo.svg?w=600&c=v0.59.26#w200) |[**UObmen**](uobmen.ru/)|`uobmen.ru`| 
+|![upc](https://static.openfintech.io/vendors/upc/logo.png?w=600&c=v0.59.26#w200) |[**UPC**](upc/)|`upc`| 
 |![upclick](https://static.openfintech.io/vendors/upclick/logo.png?w=600&c=v0.59.26#w200) |[**Upclick**](upclick/)|`upclick`| 
 |![upravlinnya_nbu_u_hmelnickij_oblasti](https://static.openfintech.io/vendors/upravlinnya_nbu_u_hmelnickij_oblasti/logo.svg?w=600&c=v0.59.26#w200) |[**Управління Національного банку України  у Хмельницькій області**](upravlinnya_nbu_u_hmelnickij_oblasti/)|`upravlinnya_nbu_u_hmelnickij_oblasti`| 
 |![upravlinnya_nbu_u_lvivskij_oblasti](https://static.openfintech.io/vendors/upravlinnya_nbu_u_lvivskij_oblasti/logo.svg?w=600&c=v0.59.26#w200) |[**Управління Національного банку України у Львівській області**](upravlinnya_nbu_u_lvivskij_oblasti/)|`upravlinnya_nbu_u_lvivskij_oblasti`| 

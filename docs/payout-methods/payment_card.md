@@ -612,6 +612,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![intersect](https://static.openfintech.io/payment_providers/intersect/icon.png?w=278&c=v0.59.26#w100) |[Intersect](/payment-providers/intersect/)|`intersect`| 
 |![glory](https://static.openfintech.io/payment_providers/glory/icon.png?w=278&c=v0.59.26#w100) |[Glory](/payment-providers/glory/)|`glory`| 
 |![spitamenbank](https://static.openfintech.io/payment_providers/spitamenbank/icon.png?w=278&c=v0.59.26#w100) |[Spitamen Bank](/payment-providers/spitamenbank/)|`spitamenbank`| 
+|![upc](https://static.openfintech.io/payment_providers/upc/icon.png?w=278&c=v0.59.26#w100) |[UPC](/payment-providers/upc/)|`upc`| 
+|![rastpay](https://static.openfintech.io/payment_providers/rastpay/icon.svg?w=278&c=v0.59.26#w100) |[Rastpay](/payment-providers/rastpay/)|`rastpay`| 
  
 
 ## JSON Object 
