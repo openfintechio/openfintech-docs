@@ -29,8 +29,10 @@
 |`beneficiary_phone`|✗|`string`|`/^(\+?91)?\d{10}$/`| 
 |`ifsc`|✗|`string`|`/^[A-Za-z0-9]{1,11}$/`| 
 |`bank_name`|✗|`string`|`/^[A-Z\-\ a-z0-9_]{2,100}$/`| 
-|`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
 |`vpa`|✗|`string`|`/^.{2,}@\w+$/`| 
+|`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
+|`beneficiary_first_name`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
+|`beneficiary_last_name`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
  
 
 ### Details 
@@ -125,7 +127,25 @@
 	: [RU] Введите название банка получателя 
 	: [UK] Введіть назву банку одержувача 
  
-6. **`beneficiary_full_name`** 
+6. **`vpa`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{2,}@\w+$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] VPA 
+	: [RU] VPA 
+	: [UK] VPA 
+ 
+	Hint:  
+	: [EN] Enter VPA 
+	: [RU] Введите VPA 
+	: [UK] Введіть VPA 
+ 
+7. **`beneficiary_full_name`** 
  
 	Type: `string` 
  
@@ -143,23 +163,41 @@
 	: [RU] Введите полное имя получателя 
 	: [UK] Введіть повне імʼя одержувача 
  
-7. **`vpa`** 
+8. **`beneficiary_first_name`** 
  
 	Type: `string` 
  
-	Regexp: `/^.{2,}@\w+$/` 
+	Regexp: `/^[\s\p{L}\p{N}\p{P}]{2,100}$/u` 
  
 	Required: `` 
  
 	Label:  
-	: [EN] VPA 
-	: [RU] VPA 
-	: [UK] VPA 
+	: [EN] Beneficiary first name 
+	: [RU] Имя получателя 
+	: [UK] Ім'я отримувача 
  
 	Hint:  
-	: [EN] Enter VPA 
-	: [RU] Введите VPA 
-	: [UK] Введіть VPA 
+	: [EN] Enter beneficiary first name 
+	: [RU] Введите имя получателя 
+	: [UK] Введіть ім'я отримувача 
+ 
+9. **`beneficiary_last_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[\s\p{L}\p{N}\p{P}]{2,100}$/u` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary last name 
+	: [RU] Фамилия получателя 
+	: [UK] Прізвище отримувача 
+ 
+	Hint:  
+	: [EN] Enter beneficiary last name 
+	: [RU] Введите фамилию получателя 
+	: [UK] Введіть прізвище отримувача 
  
 
 ## JSON Object 
@@ -256,23 +294,6 @@
       "position":5
     },
     {
-      "key":"beneficiary_full_name",
-      "type":"string",
-      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\d\\s]{2,100}$\/",
-      "required":false,
-      "position":6,
-      "label":{
-        "en":"Recipient full name",
-        "ru":"\u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
-        "uk":"\u041f\u043e\u0432\u043d\u0435 i\u043c'\u044f \u043e\u0434\u0435\u0440\u0436\u0443\u0432\u0430\u0447\u0430"
-      },
-      "hint":{
-        "en":"Enter Beneficiary full name",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u043e\u0434\u0435\u0440\u0436\u0443\u0432\u0430\u0447\u0430"
-      }
-    },
-    {
       "key":"vpa",
       "type":"string",
       "label":{
@@ -287,7 +308,58 @@
       },
       "regexp":"\/^.{2,}@\\w+$\/",
       "required":false,
-      "position":7
+      "position":6
+    },
+    {
+      "key":"beneficiary_full_name",
+      "type":"string",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\d\\s]{2,100}$\/",
+      "required":false,
+      "position":7,
+      "label":{
+        "en":"Recipient full name",
+        "ru":"\u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u041f\u043e\u0432\u043d\u0435 i\u043c'\u044f \u043e\u0434\u0435\u0440\u0436\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter Beneficiary full name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u043e\u0434\u0435\u0440\u0436\u0443\u0432\u0430\u0447\u0430"
+      }
+    },
+    {
+      "key":"beneficiary_first_name",
+      "type":"string",
+      "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}]{2,100}$\/u",
+      "required":false,
+      "position":8,
+      "label":{
+        "en":"Beneficiary first name",
+        "ru":"\u0418\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0406\u043c'\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter beneficiary first name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c'\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      }
+    },
+    {
+      "key":"beneficiary_last_name",
+      "type":"string",
+      "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}]{2,100}$\/u",
+      "required":false,
+      "position":9,
+      "label":{
+        "en":"Beneficiary last name",
+        "ru":"\u0424\u0430\u043c\u0438\u043b\u0438\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u041f\u0440\u0456\u0437\u0432\u0438\u0449\u0435 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter beneficiary last name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0444\u0430\u043c\u0438\u043b\u0438\u044e \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u0440\u0456\u0437\u0432\u0438\u0449\u0435 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      }
     }
   ],
   "amount_min":0.01,
