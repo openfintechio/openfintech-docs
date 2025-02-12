@@ -37,8 +37,11 @@ The list of [Payment Services](/payment-services/) based on the _Bank Transfer_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_gbp_hpp](/payment-services/bank_transfer_gbp_hpp/)|`bank_transfer_gbp_hpp`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_uyu_invoice](/payment-services/bank_transfer_uyu_invoice/)|`bank_transfer_uyu_invoice`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_usd_invoice](/payment-services/bank_transfer_usd_invoice/)|`bank_transfer_usd_invoice`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_usd_hpp](/payment-services/bank_transfer_usd_hpp/)|`bank_transfer_usd_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_thb_hpp](/payment-services/bank_transfer_thb_hpp/)|`bank_transfer_thb_hpp`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_ves_invoice](/payment-services/bank_transfer_ves_invoice/)|`bank_transfer_ves_invoice`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_vnd_hpp](/payment-services/bank_transfer_vnd_hpp/)|`bank_transfer_vnd_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_myr_hpp](/payment-services/bank_transfer_myr_hpp/)|`bank_transfer_myr_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_idr_hpp](/payment-services/bank_transfer_idr_hpp/)|`bank_transfer_idr_hpp`| 
@@ -57,6 +60,7 @@ The list of [Payment Services](/payment-services/) based on the _Bank Transfer_
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_mxn_hpp](/payment-services/bank_transfer_mxn_hpp/)|`bank_transfer_mxn_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_brl_hpp](/payment-services/bank_transfer_brl_hpp/)|`bank_transfer_brl_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_aud_hpp](/payment-services/bank_transfer_aud_hpp/)|`bank_transfer_aud_hpp`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_clp_invoice](/payment-services/bank_transfer_clp_invoice/)|`bank_transfer_clp_invoice`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_clp_hpp](/payment-services/bank_transfer_clp_hpp/)|`bank_transfer_clp_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_sar_hpp](/payment-services/bank_transfer_sar_hpp/)|`bank_transfer_sar_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_sgd_hpp](/payment-services/bank_transfer_sgd_hpp/)|`bank_transfer_sgd_hpp`| 
@@ -76,10 +80,12 @@ The list of [Payment Services](/payment-services/) based on the _Bank Transfer_
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_jpy_invoice](/payment-services/bank_transfer_jpy_invoice/)|`bank_transfer_jpy_invoice`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_idr_invoice](/payment-services/bank_transfer_idr_invoice/)|`bank_transfer_idr_invoice`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_vnd_invoice](/payment-services/bank_transfer_vnd_invoice/)|`bank_transfer_vnd_invoice`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_pen_invoice](/payment-services/bank_transfer_pen_invoice/)|`bank_transfer_pen_invoice`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_pen_hpp](/payment-services/bank_transfer_pen_hpp/)|`bank_transfer_pen_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_ars_invoice](/payment-services/bank_transfer_ars_invoice/)|`bank_transfer_ars_invoice`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bancotestin_cop_hpp](/payment-services/bancotestin_cop_hpp/)|`bancotestin_cop_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_cad_hpp](/payment-services/bank_transfer_cad_hpp/)|`bank_transfer_cad_hpp`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_pyg_invoice](/payment-services/bank_transfer_pyg_invoice/)|`bank_transfer_pyg_invoice`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_pyg_hpp](/payment-services/bank_transfer_pyg_hpp/)|`bank_transfer_pyg_hpp`| 
  
 
@@ -133,6 +139,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![payok](https://static.openfintech.io/payment_providers/payok/icon.png?w=278&c=v0.59.26#w100) |[Payok](/payment-providers/payok/)|`payok`| 
 |![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
 |![spayz](https://static.openfintech.io/payment_providers/spayz/icon.svg?w=278&c=v0.59.26#w100) |[Spayz](/payment-providers/spayz/)|`spayz`| 
+|![payelu](https://static.openfintech.io/payment_providers/payelu/icon.png?w=278&c=v0.59.26#w100) |[Payelu](/payment-providers/payelu/)|`payelu`| 
 |![wpay](https://static.openfintech.io/payment_providers/wpay/icon.png?w=278&c=v0.59.26#w100) |[W PAY](/payment-providers/wpay/)|`wpay`| 
 |![rixsus](https://static.openfintech.io/payment_providers/rixsus/icon.png?w=278&c=v0.59.26#w100) |[Rixsus](/payment-providers/rixsus/)|`rixsus`| 
 |![nixxe](https://static.openfintech.io/payment_providers/nixxe/icon.svg?w=278&c=v0.59.26#w100) |[Nixxe](/payment-providers/nixxe/)|`nixxe`| 

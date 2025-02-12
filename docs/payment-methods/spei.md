@@ -39,6 +39,7 @@ The list of [Payment Services](/payment-services/) based on the _SPEI_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![spei](https://static.openfintech.io/payment_methods/spei/icon.svg?w=278&c=v0.59.26#w100) |[spei_usd_hpp](/payment-services/spei_usd_hpp/)|`spei_usd_hpp`| 
+|![spei](https://static.openfintech.io/payment_methods/spei/icon.svg?w=278&c=v0.59.26#w100) |[spei_mxn_invoice](/payment-services/spei_mxn_invoice/)|`spei_mxn_invoice`| 
 |![spei](https://static.openfintech.io/payment_methods/spei/icon.svg?w=278&c=v0.59.26#w100) |[spei_mxn_hpp](/payment-services/spei_mxn_hpp/)|`spei_mxn_hpp`| 
  
 
@@ -52,6 +53,7 @@ The list of [Payment Providers](/payment-providers/) that support the _SPEI_
 |![inswitch](https://static.openfintech.io/payment_providers/inswitch/icon.png?w=278&c=v0.59.26#w100) |[Inswitch](/payment-providers/inswitch/)|`inswitch`| 
 |![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
 |![paylivre](https://static.openfintech.io/payment_providers/paylivre/icon.png?w=278&c=v0.59.26#w100) |[Paylivre](/payment-providers/paylivre/)|`paylivre`| 
+|![payelu](https://static.openfintech.io/payment_providers/payelu/icon.png?w=278&c=v0.59.26#w100) |[Payelu](/payment-providers/payelu/)|`payelu`| 
  
 
 ## JSON Object 
