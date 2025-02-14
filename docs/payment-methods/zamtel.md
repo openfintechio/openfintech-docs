@@ -39,6 +39,7 @@ The list of [Payment Services](/payment-services/) based on the _Zamtel_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![zamtel](https://static.openfintech.io/payment_methods/zamtel/icon.png?w=278&c=v0.59.26#w100) |[zamtel_zmw_hpp](/payment-services/zamtel_zmw_hpp/)|`zamtel_zmw_hpp`| 
+|![zamtel](https://static.openfintech.io/payment_methods/zamtel/icon.png?w=278&c=v0.59.26#w100) |[zamtel_zmw_invoice](/payment-services/zamtel_zmw_invoice/)|`zamtel_zmw_invoice`| 
  
 
 ## Payment Providers 
@@ -47,6 +48,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Zamtel_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![klasha](https://static.openfintech.io/payment_providers/klasha/icon.png?w=278&c=v0.59.26#w100) |[Klasha](/payment-providers/klasha/)|`klasha`| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
  
 

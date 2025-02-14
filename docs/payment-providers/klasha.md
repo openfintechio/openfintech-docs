@@ -43,6 +43,10 @@ The list of supported [Payment Methods](/payment-methods/)
 |![m_pesa](https://static.openfintech.io/payment_methods/m_pesa/icon.png?w=278&c=v0.59.26#w100) |[m_pesa](/payment-methods/m_pesa/)|`m_pesa`| 
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile](/payment-methods/mobile/)|`mobile`| 
 |![mtn](https://static.openfintech.io/payment_methods/mtn/icon.svg?w=278&c=v0.59.26#w100) |[mtn](/payment-methods/mtn/)|`mtn`| 
+|![zamtel](https://static.openfintech.io/payment_methods/zamtel/icon.png?w=278&c=v0.59.26#w100) |[zamtel](/payment-methods/zamtel/)|`zamtel`| 
+|![vodacom](https://static.openfintech.io/payment_methods/vodacom/icon.png?w=278&c=v0.59.26#w100) |[vodacom](/payment-methods/vodacom/)|`vodacom`| 
+|![tigo_pesa](https://static.openfintech.io/payment_methods/tigo_pesa/icon.png?w=278&c=v0.59.26#w100) |[tigo_pesa](/payment-methods/tigo_pesa/)|`tigo_pesa`| 
+|![halotel](https://static.openfintech.io/payment_methods/halotel/icon.png?w=278&c=v0.59.26#w100) |[halotel](/payment-methods/halotel/)|`halotel`| 
 |![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money](/payment-methods/airtel_money/)|`airtel_money`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
  
@@ -108,6 +112,10 @@ The list of supported [Payout Methods](/payout-methods/)
     "m_pesa",
     "mobile",
     "mtn",
+    "zamtel",
+    "vodacom",
+    "tigo_pesa",
+    "halotel",
     "airtel_money",
     "bank_transfer"
   ],

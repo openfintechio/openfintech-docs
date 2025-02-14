@@ -1806,6 +1806,7 @@
 |![ZaloPay QR](https://static.openfintech.io/payment_methods/zalo_qr/logo.svg?w=400&c=v0.59.26#w200) |[**ZaloPay QR**](/payment-methods/zalo_qr/)|[`zalo_qr_vnd_hpp`](zalo_qr_vnd_hpp/)| 
 |![ZaloPay](https://static.openfintech.io/payment_methods/zalopay/logo.svg?w=400&c=v0.59.26#w200) |[**ZaloPay**](/payment-methods/zalopay/)|[`zalopay_vnd_hpp`](zalopay_vnd_hpp/)| 
 |![Zamtel](https://static.openfintech.io/payment_methods/zamtel/logo.png?w=400&c=v0.59.26#w200) |[**Zamtel**](/payment-methods/zamtel/)|[`zamtel_zmw_hpp`](zamtel_zmw_hpp/)| 
+|![Zamtel](https://static.openfintech.io/payment_methods/zamtel/logo.png?w=400&c=v0.59.26#w200) |[**Zamtel**](/payment-methods/zamtel/)|[`zamtel_zmw_invoice`](zamtel_zmw_invoice/)| 
 |![Zantel ezypesa](https://static.openfintech.io/payment_methods/zantel_ezypesa/logo.png?w=400&c=v0.59.26#w200) |[**Zantel ezypesa**](/payment-methods/zantel_ezypesa/)|[`zantel_ezypesa_tzs_invoice`](zantel_ezypesa_tzs_invoice/)| 
 |![Zantel ezypesa](https://static.openfintech.io/payment_methods/zantel_ezypesa/logo.png?w=400&c=v0.59.26#w200) |[**Zantel ezypesa**](/payment-methods/zantel_ezypesa/)|[`zantel_ezypesa_zmw_invoice`](zantel_ezypesa_zmw_invoice/)| 
 |![Zen wallet](https://static.openfintech.io/payment_methods/zen_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**Zen wallet**](/payment-methods/zen_wallet/)|[`zen_wallet_eur_invoice`](zen_wallet_eur_invoice/)| 

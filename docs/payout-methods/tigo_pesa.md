@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Tigo Pesa
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![klasha](https://static.openfintech.io/payment_providers/klasha/icon.png?w=278&c=v0.59.26#w100) |[Klasha](/payment-providers/klasha/)|`klasha`| 
 |![selcom](https://static.openfintech.io/payment_providers/selcom/icon.png?w=278&c=v0.59.26#w100) |[Selcom](/payment-providers/selcom/)|`selcom`| 
 |![virtualpay](https://static.openfintech.io/payment_providers/virtualpay/icon.png?w=278&c=v0.59.26#w100) |[Virtual Pay](/payment-providers/virtualpay/)|`virtualpay`| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
