@@ -249,6 +249,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![fibonatix](https://static.openfintech.io/payment_providers/fibonatix/icon.png?w=278&c=v0.59.26#w100) |[Fibonatix](/payment-providers/fibonatix/)|`fibonatix`| 
 |![ecommpay](https://static.openfintech.io/payment_providers/ecommpay/icon.png?w=278&c=v0.59.26#w100) |[Ecommpay](/payment-providers/ecommpay/)|`ecommpay`| 
 |![platon](https://static.openfintech.io/payment_providers/platon/icon.png?w=278&c=v0.59.26#w100) |[TrustyPay](/payment-providers/platon/)|`platon`| 
+|![trustypay](https://static.openfintech.io/payment_providers/trustypay/icon.png?w=278&c=v0.59.26#w100) |[TrustyPay](/payment-providers/trustypay/)|`trustypay`| 
 |![paymentz](https://static.openfintech.io/payment_providers/paymentz/icon.png?w=278&c=v0.59.26#w100) |[Paymentz](/payment-providers/paymentz/)|`paymentz`| 
 |![certusfinance](https://static.openfintech.io/payment_providers/certusfinance/icon.png?w=278&c=v0.59.26#w100) |[Certus Finance](/payment-providers/certusfinance/)|`certusfinance`| 
 |![uapay](https://static.openfintech.io/payment_providers/uapay/icon.svg?w=278&c=v0.59.26#w100) |[UApay](/payment-providers/uapay/)|`uapay`| 

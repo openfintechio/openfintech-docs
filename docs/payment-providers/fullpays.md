@@ -42,6 +42,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |![papara](https://static.openfintech.io/payment_methods/papara/icon.svg?w=278&c=v0.59.26#w100) |[papara](/payment-methods/papara/)|`papara`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![papara](https://static.openfintech.io/payout_methods/papara/icon.svg?w=278&c=v0.59.26#w40) |[papara](payout-methodspapara/)|`papara`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -54,7 +63,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payment_method":[
     "papara"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "papara"
+  ],
   "metadata":null,
   "name":{
     "en":"FullPays",

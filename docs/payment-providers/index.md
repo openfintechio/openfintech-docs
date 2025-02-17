@@ -991,6 +991,7 @@
 |![trustpay](https://static.openfintech.io/payment_providers/trustpay/logo.svg?w=600&c=v0.59.26#w100) |[**TrustPay**](trustpay/)|`trustpay`| 
 |![trustpayglobal](https://static.openfintech.io/payment_providers/trustpayglobal/logo.png?w=600&c=v0.59.26#w100) |[**ILIXIUM**](trustpayglobal/)|`trustpayglobal`| 
 |![trustpayments](https://static.openfintech.io/payment_providers/trustpayments/logo.svg?w=600&c=v0.59.26#w100) |[**Trust Payments**](trustpayments/)|`trustpayments`| 
+|![trustypay](https://static.openfintech.io/payment_providers/trustypay/logo.png?w=600&c=v0.59.26#w100) |[**TrustyPay**](trustypay/)|`trustypay`| 
 |![twelvelive](https://static.openfintech.io/payment_providers/twelvelive/logo.svg?w=600&c=v0.59.26#w100) |[**Twelve**](twelvelive/)|`twelvelive`| 
 |![twoclick](https://static.openfintech.io/payment_providers/twoclick/logo.png?w=600&c=v0.59.26#w100) |[**2click**](twoclick/)|`twoclick`| 
 |![twopayler](https://static.openfintech.io/payment_providers/twopayler/logo.svg?w=600&c=v0.59.26#w100) |[**2PayLer**](twopayler/)|`twopayler`| 

@@ -2177,6 +2177,7 @@
 |![trustpay](https://static.openfintech.io/vendors/trustpay/logo.svg?w=600&c=v0.59.26#w200) |[**TrustPay**](trustpay/)|`trustpay`| 
 |![trustpayglobal](https://static.openfintech.io/vendors/trustpayglobal/logo.png?w=600&c=v0.59.26#w200) |[**ILIXIUM**](trustpayglobal/)|`trustpayglobal`| 
 |![trustpayments](https://static.openfintech.io/vendors/trustpayments/logo.svg?w=600&c=v0.59.26#w200) |[**Trust Payments**](trustpayments/)|`trustpayments`| 
+|![trustypay](https://static.openfintech.io/vendors/trustypay/logo.png?w=600&c=v0.59.26#w200) |[**TrustyPay**](trustypay/)|`trustypay`| 
 |![tsukuba_bank](https://static.openfintech.io/vendors/tsukuba_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Tsukuba Bank**](tsukuba_bank/)|`tsukuba_bank`| 
 |![twelvelive](https://static.openfintech.io/vendors/twelvelive/logo.svg?w=600&c=v0.59.26#w200) |[**Twelve**](twelvelive/)|`twelvelive`| 
 |![twoclick](https://static.openfintech.io/vendors/twoclick/logo.png?w=600&c=v0.59.26#w200) |[**2click**](twoclick/)|`twoclick`| 
