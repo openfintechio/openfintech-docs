@@ -83,6 +83,7 @@
 |![aichi_shinkin_bank](https://static.openfintech.io/vendors/aichi_shinkin_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Aichi Shinkin Bank**](aichi_shinkin_bank/)|`aichi_shinkin_bank`| 
 |![aichi_shogin](https://static.openfintech.io/vendors/aichi_shogin/logo.svg?w=600&c=v0.59.26#w200) |[**Aichi Shogin**](aichi_shogin/)|`aichi_shogin`| 
 |![aifory](https://static.openfintech.io/vendors/aifory/logo.png?w=600&c=v0.59.26#w200) |[**Euphoria**](aifory/)|`aifory`| 
+|![aipay](https://static.openfintech.io/vendors/aipay/logo.png?w=600&c=v0.59.26#w200) |[**AiPay**](aipay/)|`aipay`| 
 |![airpay](https://static.openfintech.io/vendors/airpay/logo.svg?w=600&c=v0.59.26#w200) |[**airpay**](airpay/)|`airpay`| 
 |![airteltigo](https://static.openfintech.io/vendors/airteltigo/logo.png?w=600&c=v0.59.26#w200) |[**AT Ghana**](airteltigo/)|`airteltigo`| 
 |![ajmanibank](https://static.openfintech.io/vendors/ajmanibank/logo.svg?w=600&c=v0.59.26#w200) |[**Айманибанк**](ajmanibank/)|`ajmanibank`| 
