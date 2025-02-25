@@ -25,7 +25,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`phone`|✔|`string`|`/^\+\d{10,14}$/`| 
+|`phone`|✗|`string`|`/^\+\d{10,14}$/`| 
  
 
 ### Details 
@@ -36,7 +36,7 @@
  
 	Regexp: `/^\+\d{10,14}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Phone number 
@@ -73,7 +73,7 @@
       },
       "example":"255742044295",
       "regexp":"\/^\\+\\d{10,14}$\/",
-      "required":true,
+      "required":false,
       "position":1
     }
   ],
