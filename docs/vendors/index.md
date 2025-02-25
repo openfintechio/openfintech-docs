@@ -1015,6 +1015,7 @@
 |![incash24](https://static.openfintech.io/vendors/incash24/logo.svg?w=600&c=v0.59.26#w200) |[**www.incash24.com**](incash24/)|`incash24`| 
 |![indiapay](https://static.openfintech.io/vendors/indiapay/logo.png?w=600&c=v0.59.26#w200) |[**IndiaPay**](indiapay/)|`indiapay`| 
 |![indonesia_va](https://static.openfintech.io/vendors/indonesia_va/logo.svg?w=600&c=v0.59.26#w200) |[**Virtual Accounts Indonesia**](indonesia_va/)|`indonesia_va`| 
+|![infinityspace](https://static.openfintech.io/vendors/infinityspace/logo.png?w=600&c=v0.59.26#w200) |[**Infinity Space**](infinityspace/)|`infinityspace`| 
 |![infotrend](https://static.openfintech.io/vendors/infotrend/logo.png?w=600&c=v0.59.26#w200) |[**Infotrend**](infotrend/)|`infotrend`| 
 |![ingenicopaymentservices](https://static.openfintech.io/vendors/ingenicopaymentservices/logo.png?w=600&c=v0.59.26#w200) |[**Ingenico ePayments**](ingenicopaymentservices/)|`ingenicopaymentservices`| 
 |![inghomepay](https://static.openfintech.io/vendors/inghomepay/logo.png?w=600&c=v0.59.26#w200) |[**Home'Pay**](inghomepay/)|`inghomepay`| 
