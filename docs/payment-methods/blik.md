@@ -54,6 +54,7 @@ The list of [Payment Providers](/payment-providers/) that support the _BLIK_
 |![convergegate](https://static.openfintech.io/payment_providers/convergegate/icon.svg?w=278&c=v0.59.26#w100) |[ConvergeGate](/payment-providers/convergegate/)|`convergegate`| 
 |![gatetwoway](https://static.openfintech.io/payment_providers/gatetwoway/icon.svg?w=278&c=v0.59.26#w100) |[Gate2way](/payment-providers/gatetwoway/)|`gatetwoway`| 
 |![cashbulls](https://static.openfintech.io/payment_providers/cashbulls/icon.png?w=278&c=v0.59.26#w100) |[Cash Bulls](/payment-providers/cashbulls/)|`cashbulls`| 
+|![betterbro](https://static.openfintech.io/payment_providers/betterbro/icon.png?w=278&c=v0.59.26#w100) |[Betterbro](/payment-providers/betterbro/)|`betterbro`| 
 |![freepayment](https://static.openfintech.io/payment_providers/freepayment/icon.png?w=278&c=v0.59.26#w100) |[FreePayment](/payment-providers/freepayment/)|`freepayment`| 
 |![gateiq](https://static.openfintech.io/payment_providers/gateiq/icon.svg?w=278&c=v0.59.26#w100) |[GateIQ](/payment-providers/gateiq/)|`gateiq`| 
 |![bizon](https://static.openfintech.io/payment_providers/bizon/icon.png?w=278&c=v0.59.26#w100) |[Bizon](/payment-providers/bizon/)|`bizon`| 

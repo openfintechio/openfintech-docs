@@ -1108,6 +1108,8 @@
 |![Online Banking](https://static.openfintech.io/payment_methods/online_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking**](/payment-methods/online_banking/)|[`online_banking_vnd_hpp`](online_banking_vnd_hpp/)| 
 |![OpenPay](https://static.openfintech.io/payment_methods/open_pay_cash/logo.svg?w=400&c=v0.59.26#w200) |[**OpenPay**](/payment-methods/open_pay_cash/)|[`open_pay_cash_mxn_hpp`](open_pay_cash_mxn_hpp/)| 
 |![Openbanking](https://static.openfintech.io/payment_methods/openbanking/logo.svg?w=400&c=v0.59.26#w200) |[**Openbanking**](/payment-methods/openbanking/)|[`openbanking_eur_hpp`](openbanking_eur_hpp/)| 
+|![Openbanking](https://static.openfintech.io/payment_methods/openbanking/logo.svg?w=400&c=v0.59.26#w200) |[**Openbanking**](/payment-methods/openbanking/)|[`openbanking_pln_hpp`](openbanking_pln_hpp/)| 
+|![Openbanking](https://static.openfintech.io/payment_methods/openbanking/logo.svg?w=400&c=v0.59.26#w200) |[**Openbanking**](/payment-methods/openbanking/)|[`openbanking_usd_hpp`](openbanking_usd_hpp/)| 
 |![Orange Money](https://static.openfintech.io/payment_methods/orange_money/logo.png?w=400&c=v0.59.26#w200) |[**Orange Money**](/payment-methods/orange_money/)|[`orange_money_xaf_hpp`](orange_money_xaf_hpp/)| 
 |![Oriental Bank Of Commerce](https://static.openfintech.io/payment_methods/oriental_bank_of_commerce/logo.png?w=400&c=v0.59.26#w200) |[**Oriental Bank Of Commerce**](/payment-methods/oriental_bank_of_commerce/)|[`oriental_bank_of_commerce_inr_hpp`](oriental_bank_of_commerce_inr_hpp/)| 
 |![Oriental Wallet](https://static.openfintech.io/payment_methods/oriental_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**Oriental Wallet**](/payment-methods/oriental_wallet/)|[`oriental_wallet_eur_hpp`](oriental_wallet_eur_hpp/)| 
