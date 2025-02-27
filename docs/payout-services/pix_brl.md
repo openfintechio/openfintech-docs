@@ -38,7 +38,7 @@
 |`bank_isbp_code`|✗|`string`|`/^[0-9]{1,11}$/`| 
 |`bank_branch_code`|✗|`string`|`/^[0-9-]{1,6}$/`| 
 |`account_number_checksum`|✗|`string`|`/^[0-9]{1,100}$/`| 
-|`document_type`|✗|`string`|`/^(CPF\|CNPJ)$/`| 
+|`document_type`|✗|`string`|`/^(CPF\|CNPJ\|EVP\|EMAIL\|PHONE\|RANDOMKEY)$/`| 
 |`document_id`|✗|`string`|`/^[0-9]{1,100}$/`| 
 |`account_type`|✗|`string`|`/^(CPF\|CNPJ\|EVP\|PHONE\|EMAIL\|RANDOMKEY)$/`| 
 |`bank_account_type`|✗|`string`|`/^(saving\|personal)$/`| 
@@ -302,7 +302,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^(CPF|CNPJ)$/` 
+	Regexp: `/^(CPF|CNPJ|EVP|EMAIL|PHONE|RANDOMKEY)$/` 
  
 	Required: `` 
  
@@ -312,9 +312,9 @@
 	: [UK] Тип документа отримувача 
  
 	Hint:  
-	: [EN] Enter beneficiary's personal identification type 
-	: [RU] Введите тип документа получателя 
-	: [UK] Введіть тип документа отримувача 
+	: [EN] CPF|CNPJ|EVP|EMAIL|PHONE|RANDOMKEY 
+	: [RU] CPF|CNPJ|EVP|EMAIL|PHONE|RANDOMKEY 
+	: [UK] CPF|CNPJ|EVP|EMAIL|PHONE|RANDOMKEY 
  
 16. **`document_id`** 
  
@@ -624,7 +624,7 @@
     {
       "key":"document_type",
       "type":"string",
-      "regexp":"\/^(CPF|CNPJ)$\/",
+      "regexp":"\/^(CPF|CNPJ|EVP|EMAIL|PHONE|RANDOMKEY)$\/",
       "required":false,
       "position":15,
       "label":{
@@ -633,11 +633,11 @@
         "uk":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
       },
       "hint":{
-        "en":"Enter beneficiary's personal identification type",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+        "en":"CPF|CNPJ|EVP|EMAIL|PHONE|RANDOMKEY",
+        "ru":"CPF|CNPJ|EVP|EMAIL|PHONE|RANDOMKEY",
+        "uk":"CPF|CNPJ|EVP|EMAIL|PHONE|RANDOMKEY"
       },
-      "example":"CPF"
+      "example":"EMAIL"
     },
     {
       "key":"document_id",
