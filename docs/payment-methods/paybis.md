@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Paybis_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_btc_usd_hpp](/payment-services/paybis_btc_usd_hpp/)|`paybis_btc_usd_hpp`| 
+|![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_ltc_usd_hpp](/payment-services/paybis_ltc_usd_hpp/)|`paybis_ltc_usd_hpp`| 
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_eth_usd_hpp](/payment-services/paybis_eth_usd_hpp/)|`paybis_eth_usd_hpp`| 
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_xrp_usd_hpp](/payment-services/paybis_xrp_usd_hpp/)|`paybis_xrp_usd_hpp`| 
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_bch_usd_hpp](/payment-services/paybis_bch_usd_hpp/)|`paybis_bch_usd_hpp`| 
@@ -44,6 +45,7 @@ The list of [Payment Services](/payment-services/) based on the _Paybis_
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_usdt_bep20_usd_hpp](/payment-services/paybis_usdt_bep20_usd_hpp/)|`paybis_usdt_bep20_usd_hpp`| 
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_usdt_er20_ropsten_usd_hpp](/payment-services/paybis_usdt_er20_ropsten_usd_hpp/)|`paybis_usdt_er20_ropsten_usd_hpp`| 
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_usdt_goerli_usd_hpp](/payment-services/paybis_usdt_goerli_usd_hpp/)|`paybis_usdt_goerli_usd_hpp`| 
+|![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_usdt_polygon_usd_hpp](/payment-services/paybis_usdt_polygon_usd_hpp/)|`paybis_usdt_polygon_usd_hpp`| 
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_usdt_sepolia_usd_hpp](/payment-services/paybis_usdt_sepolia_usd_hpp/)|`paybis_usdt_sepolia_usd_hpp`| 
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_usdt_trc20_usd_hpp](/payment-services/paybis_usdt_trc20_usd_hpp/)|`paybis_usdt_trc20_usd_hpp`| 
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_usdt_trc20_shasta_usd_hpp](/payment-services/paybis_usdt_trc20_shasta_usd_hpp/)|`paybis_usdt_trc20_shasta_usd_hpp`| 
@@ -63,7 +65,9 @@ The list of [Payment Services](/payment-services/) based on the _Paybis_
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_usdc_ropsten_usd_hpp](/payment-services/paybis_usdc_ropsten_usd_hpp/)|`paybis_usdc_ropsten_usd_hpp`| 
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_usdc_sepolia_usd_hpp](/payment-services/paybis_usdc_sepolia_usd_hpp/)|`paybis_usdc_sepolia_usd_hpp`| 
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_usdc_stellar_usd_hpp](/payment-services/paybis_usdc_stellar_usd_hpp/)|`paybis_usdc_stellar_usd_hpp`| 
+|![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_xlm_usd_hpp](/payment-services/paybis_xlm_usd_hpp/)|`paybis_xlm_usd_hpp`| 
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_btc_eur_hpp](/payment-services/paybis_btc_eur_hpp/)|`paybis_btc_eur_hpp`| 
+|![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_ltc_eur_hpp](/payment-services/paybis_ltc_eur_hpp/)|`paybis_ltc_eur_hpp`| 
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_eth_eur_hpp](/payment-services/paybis_eth_eur_hpp/)|`paybis_eth_eur_hpp`| 
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_xrp_eur_hpp](/payment-services/paybis_xrp_eur_hpp/)|`paybis_xrp_eur_hpp`| 
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_bch_eur_hpp](/payment-services/paybis_bch_eur_hpp/)|`paybis_bch_eur_hpp`| 
@@ -71,6 +75,7 @@ The list of [Payment Services](/payment-services/) based on the _Paybis_
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_usdt_bep20_eur_hpp](/payment-services/paybis_usdt_bep20_eur_hpp/)|`paybis_usdt_bep20_eur_hpp`| 
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_usdt_er20_ropsten_eur_hpp](/payment-services/paybis_usdt_er20_ropsten_eur_hpp/)|`paybis_usdt_er20_ropsten_eur_hpp`| 
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_usdt_goerli_eur_hpp](/payment-services/paybis_usdt_goerli_eur_hpp/)|`paybis_usdt_goerli_eur_hpp`| 
+|![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_usdt_polygon_eur_hpp](/payment-services/paybis_usdt_polygon_eur_hpp/)|`paybis_usdt_polygon_eur_hpp`| 
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_usdt_sepolia_eur_hpp](/payment-services/paybis_usdt_sepolia_eur_hpp/)|`paybis_usdt_sepolia_eur_hpp`| 
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_usdt_trc20_eur_hpp](/payment-services/paybis_usdt_trc20_eur_hpp/)|`paybis_usdt_trc20_eur_hpp`| 
 |![paybis](https://static.openfintech.io/payment_methods/paybis/icon.png?w=278&c=v0.59.26#w100) |[paybis_usdt_trc20_shasta_eur_hpp](/payment-services/paybis_usdt_trc20_shasta_eur_hpp/)|`paybis_usdt_trc20_shasta_eur_hpp`| 

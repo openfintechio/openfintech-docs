@@ -1159,6 +1159,8 @@
 |![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_link_sepolia_eur_hpp`](paybis_link_sepolia_eur_hpp/)| 
 |![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_link_sepolia_usd_hpp`](paybis_link_sepolia_usd_hpp/)| 
 |![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_link_usd_hpp`](paybis_link_usd_hpp/)| 
+|![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_ltc_eur_hpp`](paybis_ltc_eur_hpp/)| 
+|![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_ltc_usd_hpp`](paybis_ltc_usd_hpp/)| 
 |![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_trx_eur_hpp`](paybis_trx_eur_hpp/)| 
 |![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_trx_usd_hpp`](paybis_trx_usd_hpp/)| 
 |![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_usdc_eur_hpp`](paybis_usdc_eur_hpp/)| 
@@ -1184,6 +1186,8 @@
 |![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_usdt_eur_hpp`](paybis_usdt_eur_hpp/)| 
 |![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_usdt_goerli_eur_hpp`](paybis_usdt_goerli_eur_hpp/)| 
 |![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_usdt_goerli_usd_hpp`](paybis_usdt_goerli_usd_hpp/)| 
+|![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_usdt_polygon_eur_hpp`](paybis_usdt_polygon_eur_hpp/)| 
+|![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_usdt_polygon_usd_hpp`](paybis_usdt_polygon_usd_hpp/)| 
 |![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_usdt_sepolia_eur_hpp`](paybis_usdt_sepolia_eur_hpp/)| 
 |![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_usdt_sepolia_usd_hpp`](paybis_usdt_sepolia_usd_hpp/)| 
 |![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_usdt_trc20_eur_hpp`](paybis_usdt_trc20_eur_hpp/)| 
@@ -1192,6 +1196,7 @@
 |![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_usdt_trc20_usd_hpp`](paybis_usdt_trc20_usd_hpp/)| 
 |![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_usdt_usd_hpp`](paybis_usdt_usd_hpp/)| 
 |![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_xlm_eur_hpp`](paybis_xlm_eur_hpp/)| 
+|![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_xlm_usd_hpp`](paybis_xlm_usd_hpp/)| 
 |![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_xrp_eur_hpp`](paybis_xrp_eur_hpp/)| 
 |![Paybis](https://static.openfintech.io/payment_methods/paybis/logo.png?w=400&c=v0.59.26#w200) |[**Paybis**](/payment-methods/paybis/)|[`paybis_xrp_usd_hpp`](paybis_xrp_usd_hpp/)| 
 |![Paybol](https://static.openfintech.io/payment_methods/paybol/logo.svg?w=400&c=v0.59.26#w200) |[**Paybol**](/payment-methods/paybol/)|[`paybol_try_hpp`](paybol_try_hpp/)| 
