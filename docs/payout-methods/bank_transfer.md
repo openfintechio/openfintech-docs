@@ -127,7 +127,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![katarun](https://static.openfintech.io/payment_providers/katarun/icon.png?w=278&c=v0.59.26#w100) |[Katarun](/payment-providers/katarun/)|`katarun`| 
 |![clearjunction](https://static.openfintech.io/payment_providers/clearjunction/icon.svg?w=278&c=v0.59.26#w100) |[Clear Junction](/payment-providers/clearjunction/)|`clearjunction`| 
 |![paystage](https://static.openfintech.io/payment_providers/paystage/icon.png?w=278&c=v0.59.26#w100) |[PayStage](/payment-providers/paystage/)|`paystage`| 
-|![betterbro](https://static.openfintech.io/payment_providers/betterbro/icon.png?w=278&c=v0.59.26#w100) |[Betterbro](/payment-providers/betterbro/)|`betterbro`| 
 |![payfuture](https://static.openfintech.io/payment_providers/payfuture/icon.svg?w=278&c=v0.59.26#w100) |[Payfuture](/payment-providers/payfuture/)|`payfuture`| 
 |![paysecure](https://static.openfintech.io/payment_providers/paysecure/icon.png?w=278&c=v0.59.26#w100) |[Paysecure](/payment-providers/paysecure/)|`paysecure`| 
 |![pay4fungo](https://static.openfintech.io/payment_providers/pay4fungo/icon.png?w=278&c=v0.59.26#w100) |[Pay4funGo](/payment-providers/pay4fungo/)|`pay4fungo`| 

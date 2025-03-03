@@ -40,7 +40,6 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![binancepay](https://static.openfintech.io/payment_methods/binancepay/icon.svg?w=278&c=v0.59.26#w100) |[binancepay](/payment-methods/binancepay/)|`binancepay`| 
-|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
 |![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking](/payment-methods/openbanking/)|`openbanking`| 
 |![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik](/payment-methods/blik/)|`blik`| 
  
@@ -65,7 +64,6 @@ The list of supported [Payout Methods](/payout-methods/)
   "countries":null,
   "payment_method":[
     "binancepay",
-    "bank_transfer",
     "openbanking",
     "blik"
   ],
