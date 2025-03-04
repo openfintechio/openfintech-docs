@@ -972,9 +972,14 @@
 |![Bank Mestika](https://static.openfintech.io/payment_methods/mestika_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Mestika**](/payment-methods/mestika_bank/)|[`mestika_bank_idr_hpp`](mestika_bank_idr_hpp/)| 
 |![MG Bank (Saemmul)](https://static.openfintech.io/payment_methods/mg_bank_saemmul/logo.png?w=400&c=v0.59.26#w200) |[**MG Bank (Saemmul)**](/payment-methods/mg_bank_saemmul/)|[`mg_bank_saemmul_krw_hpp`](mg_bank_saemmul_krw_hpp/)| 
 |![Mi Comisariato](https://static.openfintech.io/payment_methods/mi_comisariato_cash/logo.png?w=400&c=v0.59.26#w200) |[**Mi Comisariato**](/payment-methods/mi_comisariato_cash/)|[`mi_comisariato_cash_usd_hpp`](mi_comisariato_cash_usd_hpp/)| 
+|![Mifinity](https://static.openfintech.io/payment_methods/mifinity/logo.svg?w=400&c=v0.59.26#w200) |[**Mifinity**](/payment-methods/mifinity/)|[`mifinity_aud_invoice`](mifinity_aud_invoice/)| 
+|![Mifinity](https://static.openfintech.io/payment_methods/mifinity/logo.svg?w=400&c=v0.59.26#w200) |[**Mifinity**](/payment-methods/mifinity/)|[`mifinity_cad_invoice`](mifinity_cad_invoice/)| 
 |![Mifinity](https://static.openfintech.io/payment_methods/mifinity/logo.svg?w=400&c=v0.59.26#w200) |[**Mifinity**](/payment-methods/mifinity/)|[`mifinity_chf_invoice`](mifinity_chf_invoice/)| 
 |![Mifinity](https://static.openfintech.io/payment_methods/mifinity/logo.svg?w=400&c=v0.59.26#w200) |[**Mifinity**](/payment-methods/mifinity/)|[`mifinity_eur_invoice`](mifinity_eur_invoice/)| 
 |![Mifinity](https://static.openfintech.io/payment_methods/mifinity/logo.svg?w=400&c=v0.59.26#w200) |[**Mifinity**](/payment-methods/mifinity/)|[`mifinity_gbp_invoice`](mifinity_gbp_invoice/)| 
+|![Mifinity](https://static.openfintech.io/payment_methods/mifinity/logo.svg?w=400&c=v0.59.26#w200) |[**Mifinity**](/payment-methods/mifinity/)|[`mifinity_nok_invoice`](mifinity_nok_invoice/)| 
+|![Mifinity](https://static.openfintech.io/payment_methods/mifinity/logo.svg?w=400&c=v0.59.26#w200) |[**Mifinity**](/payment-methods/mifinity/)|[`mifinity_nzd_invoice`](mifinity_nzd_invoice/)| 
+|![Mifinity](https://static.openfintech.io/payment_methods/mifinity/logo.svg?w=400&c=v0.59.26#w200) |[**Mifinity**](/payment-methods/mifinity/)|[`mifinity_sek_invoice`](mifinity_sek_invoice/)| 
 |![Mifinity](https://static.openfintech.io/payment_methods/mifinity/logo.svg?w=400&c=v0.59.26#w200) |[**Mifinity**](/payment-methods/mifinity/)|[`mifinity_usd_invoice`](mifinity_usd_invoice/)| 
 |![Military Commercial Joint Stock Bank QR](https://static.openfintech.io/payment_methods/military_commercial_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Military Commercial Joint Stock Bank QR**](/payment-methods/military_commercial_bank_qr/)|[`military_commercial_bank_qr_vnd_hpp`](military_commercial_bank_qr_vnd_hpp/)| 
 |![MM Invoicing](https://static.openfintech.io/payment_methods/mminvoicing/logo.png?w=400&c=v0.59.26#w200) |[**MM Invoicing**](/payment-methods/mminvoicing/)|[`mminvoicing_gel_hpp`](mminvoicing_gel_hpp/)| 

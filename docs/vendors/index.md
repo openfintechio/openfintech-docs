@@ -1838,6 +1838,7 @@
 |![provinciapagos](https://static.openfintech.io/vendors/provinciapagos/logo.png?w=600&c=v0.59.26#w200) |[**ProvinciaPagos**](provinciapagos/)|`provinciapagos`| 
 |![przelewy24](https://static.openfintech.io/vendors/przelewy24/logo.png?w=600&c=v0.59.26#w200) |[**Przelewy24**](przelewy24/)|`przelewy24`| 
 |![psigate](https://static.openfintech.io/vendors/psigate/logo.png?w=600&c=v0.59.26#w200) |[**PSiGate**](psigate/)|`psigate`| 
+|![pspark](https://static.openfintech.io/vendors/pspark/logo.svg?w=600&c=v0.59.26#w200) |[**PSPARK**](pspark/)|`pspark`| 
 |![pspgate](https://static.openfintech.io/vendors/pspgate/logo.svg?w=600&c=v0.59.26#w200) |[**PSPGate**](pspgate/)|`pspgate`| 
 |![puat_fidobank](https://static.openfintech.io/vendors/puat_fidobank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'ФІДОБАНК'**](puat_fidobank/)|`puat_fidobank`| 
 |![puat_kb_akordbank](https://static.openfintech.io/vendors/puat_kb_akordbank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'КОМЕРЦІЙНИЙ БАНК 'АКОРДБАНК'**](puat_kb_akordbank/)|`puat_kb_akordbank`| 

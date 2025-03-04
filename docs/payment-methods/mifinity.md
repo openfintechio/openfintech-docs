@@ -40,6 +40,11 @@ The list of [Payment Services](/payment-services/) based on the _Mifinity_
 |![mifinity](https://static.openfintech.io/payment_methods/mifinity/icon.svg?w=278&c=v0.59.26#w100) |[mifinity_eur_invoice](/payment-services/mifinity_eur_invoice/)|`mifinity_eur_invoice`| 
 |![mifinity](https://static.openfintech.io/payment_methods/mifinity/icon.svg?w=278&c=v0.59.26#w100) |[mifinity_gbp_invoice](/payment-services/mifinity_gbp_invoice/)|`mifinity_gbp_invoice`| 
 |![mifinity](https://static.openfintech.io/payment_methods/mifinity/icon.svg?w=278&c=v0.59.26#w100) |[mifinity_chf_invoice](/payment-services/mifinity_chf_invoice/)|`mifinity_chf_invoice`| 
+|![mifinity](https://static.openfintech.io/payment_methods/mifinity/icon.svg?w=278&c=v0.59.26#w100) |[mifinity_cad_invoice](/payment-services/mifinity_cad_invoice/)|`mifinity_cad_invoice`| 
+|![mifinity](https://static.openfintech.io/payment_methods/mifinity/icon.svg?w=278&c=v0.59.26#w100) |[mifinity_aud_invoice](/payment-services/mifinity_aud_invoice/)|`mifinity_aud_invoice`| 
+|![mifinity](https://static.openfintech.io/payment_methods/mifinity/icon.svg?w=278&c=v0.59.26#w100) |[mifinity_nzd_invoice](/payment-services/mifinity_nzd_invoice/)|`mifinity_nzd_invoice`| 
+|![mifinity](https://static.openfintech.io/payment_methods/mifinity/icon.svg?w=278&c=v0.59.26#w100) |[mifinity_nok_invoice](/payment-services/mifinity_nok_invoice/)|`mifinity_nok_invoice`| 
+|![mifinity](https://static.openfintech.io/payment_methods/mifinity/icon.svg?w=278&c=v0.59.26#w100) |[mifinity_sek_invoice](/payment-services/mifinity_sek_invoice/)|`mifinity_sek_invoice`| 
  
 
 ## Payment Providers 

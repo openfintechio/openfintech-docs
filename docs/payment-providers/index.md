@@ -835,6 +835,7 @@
 |![prosperos](https://static.openfintech.io/payment_providers/prosperos/logo.svg?w=600&c=v0.59.26#w100) |[**Prosperos**](prosperos/)|`prosperos`| 
 |![prosum](https://static.openfintech.io/payment_providers/prosum/logo.png?w=600&c=v0.59.26#w100) |[**Prosum**](prosum/)|`prosum`| 
 |![psigate](https://static.openfintech.io/payment_providers/psigate/logo.png?w=600&c=v0.59.26#w100) |[**PSiGate**](psigate/)|`psigate`| 
+|![pspark](https://static.openfintech.io/payment_providers/pspark/logo.svg?w=600&c=v0.59.26#w100) |[**PSPARK**](pspark/)|`pspark`| 
 |![pspgate](https://static.openfintech.io/payment_providers/pspgate/logo.png?w=600&c=v0.59.26#w100) |[**PSPGate**](pspgate/)|`pspgate`| 
 |![pumb](https://static.openfintech.io/payment_providers/pumb/logo.svg?w=600&c=v0.59.26#w100) |[**The First Ukrainian International Bank**](pumb/)|`pumb`| 
 |![purebilling](https://static.openfintech.io/payment_providers/purebilling/logo.png?w=600&c=v0.59.26#w100) |[**purebilling.com**](purebilling/)|`purebilling`| 
