@@ -1037,6 +1037,7 @@
 |![virtpay](https://static.openfintech.io/payment_providers/virtpay/logo.png?w=600&c=v0.59.26#w100) |[**Virtpay**](virtpay/)|`virtpay`| 
 |![virtualpay](https://static.openfintech.io/payment_providers/virtualpay/logo.png?w=600&c=v0.59.26#w100) |[**Virtual Pay**](virtualpay/)|`virtualpay`| 
 |![virtualxs](https://static.openfintech.io/payment_providers/virtualxs/logo.png?w=600&c=v0.59.26#w100) |[**Virtual Access**](virtualxs/)|`virtualxs`| 
+|![visanetconnect](https://static.openfintech.io/payment_providers/visanetconnect/logo.svg?w=600&c=v0.59.26#w100) |[**VisaNet Connect**](visanetconnect/)|`visanetconnect`| 
 |![viveum](https://static.openfintech.io/payment_providers/viveum/logo.png?w=600&c=v0.59.26#w100) |[**VIVEUM**](viveum/)|`viveum`| 
 |![voguepay](https://static.openfintech.io/payment_providers/voguepay/logo.png?w=600&c=v0.59.26#w100) |[**VoguePay**](voguepay/)|`voguepay`| 
 |![volt](https://static.openfintech.io/payment_providers/volt/logo.svg?w=600&c=v0.59.26#w100) |[**VOLT**](volt/)|`volt`| 

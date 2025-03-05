@@ -2288,6 +2288,7 @@
 |![visadebit](https://static.openfintech.io/vendors/visadebit/logo.png?w=600&c=v0.59.26#w200) |[**Visa Debit**](visadebit/)|`visadebit`| 
 |![visaelectron](https://static.openfintech.io/vendors/visaelectron/logo.png?w=600&c=v0.59.26#w200) |[**Visa Electron**](visaelectron/)|`visaelectron`| 
 |![visamastercard](https://static.openfintech.io/vendors/visamastercard/logo.png?w=600&c=v0.59.26#w200) |[**Visa/MasterCard**](visamastercard/)|`visamastercard`| 
+|![visanetconnect](https://static.openfintech.io/vendors/visanetconnect/logo.svg?w=600&c=v0.59.26#w200) |[**VisaNet Connect**](visanetconnect/)|`visanetconnect`| 
 |![viveum](https://static.openfintech.io/vendors/viveum/logo.png?w=600&c=v0.59.26#w200) |[**VIVEUM**](viveum/)|`viveum`| 
 |![vmevisa](https://static.openfintech.io/vendors/vmevisa/logo.png?w=600&c=v0.59.26#w200) |[**V.me by Visa**](vmevisa/)|`vmevisa`| 
 |![voguepay](https://static.openfintech.io/vendors/voguepay/logo.png?w=600&c=v0.59.26#w200) |[**VoguePay**](voguepay/)|`voguepay`| 
