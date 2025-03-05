@@ -825,6 +825,7 @@
 |![slovenskasporitelna](https://static.openfintech.io/payment_methods/slovenskasporitelna/logo.png?w=400&c=v0.59.26#w200) |[**Slovenská Sporitelña**](slovenskasporitelna/)|`slovenskasporitelna`| 
 |![smartmoney](https://static.openfintech.io/payment_methods/smartmoney/logo.png?w=400&c=v0.59.26#w200) |[**Smart Money**](smartmoney/)|`smartmoney`| 
 |![smsbilling](https://static.openfintech.io/payment_methods/smsbilling/logo.png?w=400&c=v0.59.26#w200) |[**SMS Billing**](smsbilling/)|`smsbilling`| 
+|![snapscan_qr](https://static.openfintech.io/payment_methods/snapscan_qr/logo.png?w=400&c=v0.59.26#w200) |[**SnapScan**](snapscan_qr/)|`snapscan_qr`| 
 |![societe_generale_bank](https://static.openfintech.io/payment_methods/societe_generale_bank/logo.png?w=400&c=v0.59.26#w200) |[**Societe Generale Bank**](societe_generale_bank/)|`societe_generale_bank`| 
 |![sofort](https://static.openfintech.io/payment_methods/sofort/logo.svg?w=400&c=v0.59.26#w200) |[**Sofort**](sofort/)|`sofort`| 
 |![sofortbanking](https://static.openfintech.io/payment_methods/sofortbanking/logo.svg?w=400&c=v0.59.26#w200) |[**SOFORT, a Klarna Group Company**](sofortbanking/)|`sofortbanking`| 

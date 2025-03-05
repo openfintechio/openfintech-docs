@@ -46,6 +46,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Swiffy EF
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![swiffy](https://static.openfintech.io/payment_providers/swiffy/icon.png?w=278&c=v0.59.26#w100) |[Swiffy](/payment-providers/swiffy/)|`swiffy`| 
+|![startbutton](https://static.openfintech.io/payment_providers/startbutton/icon.png?w=278&c=v0.59.26#w100) |[Startbutton](/payment-providers/startbutton/)|`startbutton`| 
  
 
 ## JSON Object 

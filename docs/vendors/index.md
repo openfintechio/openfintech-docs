@@ -2041,6 +2041,7 @@
 |![standard_chartered_bank](https://static.openfintech.io/vendors/standard_chartered_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Standard Chartered Bank**](standard_chartered_bank/)|`standard_chartered_bank`| 
 |![starkbank](https://static.openfintech.io/vendors/starkbank/logo.png?w=600&c=v0.59.26#w200) |[**STARK BANK**](starkbank/)|`starkbank`| 
 |![start2pay](https://static.openfintech.io/vendors/start2pay/logo.png?w=600&c=v0.59.26#w200) |[**Start2Pay**](start2pay/)|`start2pay`| 
+|![startbutton](https://static.openfintech.io/vendors/startbutton/logo.png?w=600&c=v0.59.26#w200) |[**Startbutton**](startbutton/)|`startbutton`| 
 |![stellar](https://static.openfintech.io/vendors/stellar/logo.svg?w=600&c=v0.59.26#w200) |[**Stellar**](stellar/)|`stellar`| 
 |![stepfourpay](https://static.openfintech.io/vendors/stepfourpay/logo.svg?w=600&c=v0.59.26#w200) |[**Step4Pay**](stepfourpay/)|`stepfourpay`| 
 |![sterling_bank](https://static.openfintech.io/vendors/sterling_bank/logo.png?w=600&c=v0.59.26#w200) |[**Sterling Bank**](sterling_bank/)|`sterling_bank`| 

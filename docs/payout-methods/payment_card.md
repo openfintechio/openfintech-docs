@@ -585,6 +585,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![epx](https://static.openfintech.io/payment_providers/epx/icon.png?w=278&c=v0.59.26#w100) |[EPX](/payment-providers/epx/)|`epx`| 
 |![aipay](https://static.openfintech.io/payment_providers/aipay/icon.png?w=278&c=v0.59.26#w100) |[AiPay](/payment-providers/aipay/)|`aipay`| 
 |![infinityspace](https://static.openfintech.io/payment_providers/infinityspace/icon.png?w=278&c=v0.59.26#w100) |[Infinity Space](/payment-providers/infinityspace/)|`infinityspace`| 
+|![startbutton](https://static.openfintech.io/payment_providers/startbutton/icon.png?w=278&c=v0.59.26#w100) |[Startbutton](/payment-providers/startbutton/)|`startbutton`| 
 |![bitlabz](https://static.openfintech.io/payment_providers/bitlabz/icon.svg?w=278&c=v0.59.26#w100) |[Bitlabz](/payment-providers/bitlabz/)|`bitlabz`| 
 |![pipay](https://static.openfintech.io/payment_providers/pipay/icon.png?w=278&c=v0.59.26#w100) |[Pi Pay](/payment-providers/pipay/)|`pipay`| 
 |![omno](https://static.openfintech.io/payment_providers/omno/icon.png?w=278&c=v0.59.26#w100) |[OMNO](/payment-providers/omno/)|`omno`| 
