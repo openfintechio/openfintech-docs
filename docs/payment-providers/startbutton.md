@@ -41,6 +41,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![swiffy_eft](https://static.openfintech.io/payment_methods/swiffy_eft/icon.png?w=278&c=v0.59.26#w100) |[swiffy_eft](/payment-methods/swiffy_eft/)|`swiffy_eft`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
 |![snapscan_qr](https://static.openfintech.io/payment_methods/snapscan_qr/icon.svg?w=278&c=v0.59.26#w100) |[snapscan_qr](/payment-methods/snapscan_qr/)|`snapscan_qr`| 
  
 
@@ -56,6 +57,7 @@ The list of supported [Payment Methods](/payment-methods/)
   "payment_method":[
     "payment_card",
     "swiffy_eft",
+    "bank_transfer",
     "snapscan_qr"
   ],
   "payout_method":null,
