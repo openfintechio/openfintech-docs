@@ -328,6 +328,7 @@
 |![cactus](https://static.openfintech.io/payout_methods/cactus/logo.png?w=400&c=v0.59.26#w24) |[**CACTUS**](cactus/)|`cactus`| 
 |![canara_bank](https://static.openfintech.io/payout_methods/canara_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Canara Bank**](canara_bank/)|`canara_bank`| 
 |![capitec_bank](https://static.openfintech.io/payout_methods/capitec_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Capitec Bank**](capitec_bank/)|`capitec_bank`| 
+|![capitec_business](https://static.openfintech.io/payout_methods/capitec_business/logo.svg?w=400&c=v0.59.26#w24) |[**Capitec Business**](capitec_business/)|`capitec_business`| 
 |![card](https://static.openfintech.io/payout_methods/card/logo.png?w=400&c=v0.59.26#w24) |[**Card**](card/)|`card`| 
 |![cardano](https://static.openfintech.io/payout_methods/cardano/logo.svg?w=400&c=v0.59.26#w24) |[**Cardano**](cardano/)|`cardano`| 
 |![cash](https://static.openfintech.io/payout_methods/cash/logo.png?w=400&c=v0.59.26#w24) |[**CASH**](cash/)|`cash`| 
@@ -617,6 +618,7 @@
 |![fidelity_mobile](https://static.openfintech.io/payout_methods/fidelity_mobile/logo.svg?w=400&c=v0.59.26#w24) |[**Fidelity Mobile**](fidelity_mobile/)|`fidelity_mobile`| 
 |![fidfund_mfb](https://static.openfintech.io/payout_methods/fidfund_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Fidfund MFB**](fidfund_mfb/)|`fidfund_mfb`| 
 |![finatrust_mfb](https://static.openfintech.io/payout_methods/finatrust_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Finatrust MFB**](finatrust_mfb/)|`finatrust_mfb`| 
+|![finbond_epe](https://static.openfintech.io/payout_methods/finbond_epe/logo.svg?w=400&c=v0.59.26#w24) |[**Finbond EPE**](finbond_epe/)|`finbond_epe`| 
 |![finbond_mutual_bank](https://static.openfintech.io/payout_methods/finbond_mutual_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Finbond Mutual Bank, South Africa**](finbond_mutual_bank/)|`finbond_mutual_bank`| 
 |![finet](https://static.openfintech.io/payout_methods/finet/logo.png?w=400&c=v0.59.26#w24) |[**FiNET**](finet/)|`finet`| 
 |![firestorm](https://static.openfintech.io/payout_methods/firestorm/logo.png?w=400&c=v0.59.26#w24) |[**Firestorm**](firestorm/)|`firestorm`| 
@@ -742,6 +744,7 @@
 |![happy-net](https://static.openfintech.io/payout_methods/happy-net/logo.png?w=400&c=v0.59.26#w24) |[**HAPPY.NET**](happy-net/)|`happy-net`| 
 |![hasal_mfb](https://static.openfintech.io/payout_methods/hasal_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Hasal MFB**](hasal_mfb/)|`hasal_mfb`| 
 |![hausenet-brovary](https://static.openfintech.io/payout_methods/hausenet-brovary/logo.png?w=400&c=v0.59.26#w24) |[**HauseNET (Brovary)**](hausenet-brovary/)|`hausenet-brovary`| 
+|![hbz_bank](https://static.openfintech.io/payout_methods/hbz_bank/logo.svg?w=400&c=v0.59.26#w24) |[**HBZ Bank (Westville)**](hbz_bank/)|`hbz_bank`| 
 |![hd_bank](https://static.openfintech.io/payout_methods/hd_bank/logo.png?w=400&c=v0.59.26#w24) |[**Housing Development Commercial Joint Stock Bank**](hd_bank/)|`hd_bank`| 
 |![hdfc_bank](https://static.openfintech.io/payout_methods/hdfc_bank/logo.svg?w=400&c=v0.59.26#w24) |[**HDFC Bank**](hdfc_bank/)|`hdfc_bank`| 
 |![hedonmark](https://static.openfintech.io/payout_methods/hedonmark/logo.svg?w=400&c=v0.59.26#w24) |[**Hedonmark**](hedonmark/)|`hedonmark`| 
@@ -877,6 +880,7 @@
 |![jin_shang_commercial_bank](https://static.openfintech.io/payout_methods/jin_shang_commercial_bank/logo.png?w=400&c=v0.59.26#w24) |[**Jin Shang Commercial Bank**](jin_shang_commercial_bank/)|`jin_shang_commercial_bank`| 
 |![jouyou_bank](https://static.openfintech.io/payout_methods/jouyou_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Jouyou Bank**](jouyou_bank/)|`jouyou_bank`| 
 |![jpmorgan_chase_bank](https://static.openfintech.io/payout_methods/jpmorgan_chase_bank/logo.svg?w=400&c=v0.59.26#w24) |[**JPMorgan Chase Bank**](jpmorgan_chase_bank/)|`jpmorgan_chase_bank`| 
+|![jpmorgan_south_africa](https://static.openfintech.io/payout_methods/jpmorgan_south_africa/logo.svg?w=400&c=v0.59.26#w24) |[**JP Morgan South Africa**](jpmorgan_south_africa/)|`jpmorgan_south_africa`| 
 |![jubilee_life](https://static.openfintech.io/payout_methods/jubilee_life/logo.svg?w=400&c=v0.59.26#w24) |[**Jubilee Life**](jubilee_life/)|`jubilee_life`| 
 |![juroku_banks](https://static.openfintech.io/payout_methods/juroku_banks/logo.svg?w=400&c=v0.59.26#w24) |[**Juroku Banks**](juroku_banks/)|`juroku_banks`| 
 |![jusan_bank](https://static.openfintech.io/payout_methods/jusan_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Jusan Bank**](jusan_bank/)|`jusan_bank`| 
@@ -2079,6 +2083,7 @@
 |![smeshariki](https://static.openfintech.io/payout_methods/smeshariki/logo.png?w=400&c=v0.59.26#w24) |[**Smeshariki**](smeshariki/)|`smeshariki`| 
 |![sobnet-vinnitskaia-obl](https://static.openfintech.io/payout_methods/sobnet-vinnitskaia-obl/logo.png?w=400&c=v0.59.26#w24) |[**SobNet (Vinnitsa region)**](sobnet-vinnitskaia-obl/)|`sobnet-vinnitskaia-obl`| 
 |![soborka-net-odessa](https://static.openfintech.io/payout_methods/soborka-net-odessa/logo.png?w=400&c=v0.59.26#w24) |[**SOBORKA.NET (Odessa)**](soborka-net-odessa/)|`soborka-net-odessa`| 
+|![societe_generale_south_africa](https://static.openfintech.io/payout_methods/societe_generale_south_africa/logo.svg?w=400&c=v0.59.26#w24) |[**Société Générale South Africa**](societe_generale_south_africa/)|`societe_generale_south_africa`| 
 |![softlink-kiev](https://static.openfintech.io/payout_methods/softlink-kiev/logo.svg?w=400&c=v0.59.26#w24) |[**Softlink (Киев)**](softlink-kiev/)|`softlink-kiev`| 
 |![sohonet](https://static.openfintech.io/payout_methods/sohonet/logo.png?w=400&c=v0.59.26#w24) |[**SOHONET**](sohonet/)|`sohonet`| 
 |![solana](https://static.openfintech.io/payout_methods/solana/logo.svg?w=400&c=v0.59.26#w24) |[**Solana**](solana/)|`solana`| 
