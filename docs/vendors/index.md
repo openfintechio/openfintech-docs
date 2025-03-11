@@ -701,6 +701,7 @@
 |![epayglobal](https://static.openfintech.io/vendors/epayglobal/logo.png?w=600&c=v0.59.26#w200) |[**ePay Global**](epayglobal/)|`epayglobal`| 
 |![epayments](https://static.openfintech.io/vendors/epayments/logo.svg?w=600&c=v0.59.26#w200) |[**ePayments**](epayments/)|`epayments`| 
 |![epaymentsglobalcom](https://static.openfintech.io/vendors/epaymentsglobalcom/logo.png?w=600&c=v0.59.26#w200) |[**ePaymentsglobal.com**](epaymentsglobalcom/)|`epaymentsglobalcom`| 
+|![epb](https://static.openfintech.io/vendors/epb/logo.svg?w=600&c=v0.59.26#w200) |[**EPB**](epb/)|`epb`| 
 |![epese](https://static.openfintech.io/vendors/epese/logo.svg?w=600&c=v0.59.26#w200) |[**Epese**](epese/)|`epese`| 
 |![epoch](https://static.openfintech.io/vendors/epoch/logo.png?w=600&c=v0.59.26#w200) |[**Epoch**](epoch/)|`epoch`| 
 |![epro](https://static.openfintech.io/vendors/epro/logo.svg?w=600&c=v0.59.26#w200) |[**E-PRO**](epro/)|`epro`| 

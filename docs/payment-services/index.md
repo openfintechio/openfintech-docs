@@ -651,6 +651,7 @@
 |![eps e-payment](https://static.openfintech.io/payment_methods/eps/logo.png?w=400&c=v0.59.26#w200) |[**eps e-payment**](/payment-methods/eps/)|[`eps_eur_hpp`](eps_eur_hpp/)| 
 |![Equitel](https://static.openfintech.io/payment_methods/equitel/logo.png?w=400&c=v0.59.26#w200) |[**Equitel**](/payment-methods/equitel/)|[`equitel_kes_hpp`](equitel_kes_hpp/)| 
 |![Equitel](https://static.openfintech.io/payment_methods/equitel/logo.png?w=400&c=v0.59.26#w200) |[**Equitel**](/payment-methods/equitel/)|[`equitel_kes_invoice`](equitel_kes_invoice/)| 
+|![Esewa](https://static.openfintech.io/payment_methods/esewa/logo.png?w=400&c=v0.59.26#w200) |[**Esewa**](/payment-methods/esewa/)|[`esewa_npr_hpp`](esewa_npr_hpp/)| 
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_aud_hpp`](ethereum_aud_hpp/)| 
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_bch_hpp`](ethereum_bch_hpp/)| 
 |![Ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](/payment-methods/ethereum/)|[`ethereum_bep20_aud_hpp`](ethereum_bep20_aud_hpp/)| 
@@ -765,6 +766,7 @@
 |![IDBI Bank Ltd](https://static.openfintech.io/payment_methods/idbi_bank/logo.svg?w=400&c=v0.59.26#w200) |[**IDBI Bank Ltd**](/payment-methods/idbi_bank/)|[`idbi_bank_inr_hpp`](idbi_bank_inr_hpp/)| 
 |![iDEAL](https://static.openfintech.io/payment_methods/ideal/logo.svg?w=400&c=v0.59.26#w200) |[**iDEAL**](/payment-methods/ideal/)|[`ideal_eur_hpp`](ideal_eur_hpp/)| 
 |![IDFC BANK](https://static.openfintech.io/payment_methods/idfc_bank_india/logo.svg?w=400&c=v0.59.26#w200) |[**IDFC BANK**](/payment-methods/idfc_bank_india/)|[`idfc_bank_india_inr_hpp`](idfc_bank_india_inr_hpp/)| 
+|![Imepay](https://static.openfintech.io/payment_methods/imepay/logo.svg?w=400&c=v0.59.26#w200) |[**Imepay**](/payment-methods/imepay/)|[`imepay_npr_hpp`](imepay_npr_hpp/)| 
 |![IMPS](https://static.openfintech.io/payment_methods/imps/logo.png?w=400&c=v0.59.26#w200) |[**IMPS**](/payment-methods/imps/)|[`imps_inr_hpp`](imps_inr_hpp/)| 
 |![IMPS](https://static.openfintech.io/payment_methods/imps/logo.png?w=400&c=v0.59.26#w200) |[**IMPS**](/payment-methods/imps/)|[`imps_inr_invoice`](imps_inr_invoice/)| 
 |![India Bank Selection](https://static.openfintech.io/payment_methods/india_bank_selection/logo.svg?w=400&c=v0.59.26#w200) |[**India Bank Selection**](/payment-methods/india_bank_selection/)|[`india_bank_selection_inr_hpp`](india_bank_selection_inr_hpp/)| 
@@ -861,6 +863,7 @@
 |![Kasha wallet](https://static.openfintech.io/payment_methods/kasha_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**Kasha wallet**](/payment-methods/kasha_wallet/)|[`kasha_wallet_zmw_hpp`](kasha_wallet_zmw_hpp/)| 
 |![Kasikorn Bank](https://static.openfintech.io/payment_methods/kasikorn_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Kasikorn Bank**](/payment-methods/kasikorn_bank/)|[`kasikorn_bank_thb_hpp`](kasikorn_bank_thb_hpp/)| 
 |![Kasnet](https://static.openfintech.io/payment_methods/kasnet_cash/logo.png?w=400&c=v0.59.26#w200) |[**Kasnet**](/payment-methods/kasnet_cash/)|[`kasnet_cash_pen_hpp`](kasnet_cash_pen_hpp/)| 
+|![Khalti](https://static.openfintech.io/payment_methods/khalti/logo.svg?w=400&c=v0.59.26#w200) |[**Khalti**](/payment-methods/khalti/)|[`khalti_npr_hpp`](khalti_npr_hpp/)| 
 |![Khipu](https://static.openfintech.io/payment_methods/khipu/logo.png?w=400&c=v0.59.26#w200) |[**Khipu**](/payment-methods/khipu/)|[`khipu_ars_hpp`](khipu_ars_hpp/)| 
 |![Khipu](https://static.openfintech.io/payment_methods/khipu/logo.png?w=400&c=v0.59.26#w200) |[**Khipu**](/payment-methods/khipu/)|[`khipu_clp_hpp`](khipu_clp_hpp/)| 
 |![Khipu](https://static.openfintech.io/payment_methods/khipu/logo.png?w=400&c=v0.59.26#w200) |[**Khipu**](/payment-methods/khipu/)|[`khipu_usd_hpp`](khipu_usd_hpp/)| 

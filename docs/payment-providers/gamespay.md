@@ -49,6 +49,9 @@ The list of supported [Payment Methods](/payment-methods/)
 |![nagad_wallet](https://static.openfintech.io/payment_methods/nagad_wallet/icon.png?w=278&c=v0.59.26#w100) |[nagad_wallet](/payment-methods/nagad_wallet/)|`nagad_wallet`| 
 |![dutch_bangla_bank_limited_rocket](https://static.openfintech.io/payment_methods/dutch_bangla_bank_limited_rocket/icon.png?w=278&c=v0.59.26#w100) |[dutch_bangla_bank_limited_rocket](/payment-methods/dutch_bangla_bank_limited_rocket/)|`dutch_bangla_bank_limited_rocket`| 
 |![united_commercial_bank_upay](https://static.openfintech.io/payment_methods/united_commercial_bank_upay/icon.png?w=278&c=v0.59.26#w100) |[united_commercial_bank_upay](/payment-methods/united_commercial_bank_upay/)|`united_commercial_bank_upay`| 
+|![khalti](https://static.openfintech.io/payment_methods/khalti/icon.svg?w=278&c=v0.59.26#w100) |[khalti](/payment-methods/khalti/)|`khalti`| 
+|![esewa](https://static.openfintech.io/payment_methods/esewa/icon.png?w=278&c=v0.59.26#w100) |[esewa](/payment-methods/esewa/)|`esewa`| 
+|![imepay](https://static.openfintech.io/payment_methods/imepay/icon.svg?w=278&c=v0.59.26#w100) |[imepay](/payment-methods/imepay/)|`imepay`| 
  
 
 ## Payout Methods 
@@ -87,7 +90,10 @@ The list of supported [Payout Methods](/payout-methods/)
     "bkash_limited",
     "nagad_wallet",
     "dutch_bangla_bank_limited_rocket",
-    "united_commercial_bank_upay"
+    "united_commercial_bank_upay",
+    "khalti",
+    "esewa",
+    "imepay"
   ],
   "payout_method":[
     "payment_card",

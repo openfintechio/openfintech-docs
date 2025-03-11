@@ -347,6 +347,7 @@
 |![equitel](https://static.openfintech.io/payment_methods/equitel/logo.png?w=400&c=v0.59.26#w200) |[**Equitel**](equitel/)|`equitel`| 
 |![erip](https://static.openfintech.io/payment_methods/erip/logo.png?w=400&c=v0.59.26#w200) |[**Erip**](erip/)|`erip`| 
 |![erstebank](https://static.openfintech.io/payment_methods/erstebank/logo.png?w=400&c=v0.59.26#w200) |[**Erste Bank**](erstebank/)|`erstebank`| 
+|![esewa](https://static.openfintech.io/payment_methods/esewa/logo.png?w=400&c=v0.59.26#w200) |[**Esewa**](esewa/)|`esewa`| 
 |![ethereum](https://static.openfintech.io/payment_methods/ethereum/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum**](ethereum/)|`ethereum`| 
 |![ethereum_classic](https://static.openfintech.io/payment_methods/ethereum_classic/logo.svg?w=400&c=v0.59.26#w200) |[**Ethereum Classic**](ethereum_classic/)|`ethereum_classic`| 
 |![etisalat_cash](https://static.openfintech.io/payment_methods/etisalat_cash/logo.svg?w=400&c=v0.59.26#w200) |[**Etisalat Cash**](etisalat_cash/)|`etisalat_cash`| 
@@ -434,6 +435,7 @@
 |![idbi_bank](https://static.openfintech.io/payment_methods/idbi_bank/logo.svg?w=400&c=v0.59.26#w200) |[**IDBI Bank Ltd**](idbi_bank/)|`idbi_bank`| 
 |![ideal](https://static.openfintech.io/payment_methods/ideal/logo.svg?w=400&c=v0.59.26#w200) |[**iDEAL**](ideal/)|`ideal`| 
 |![idfc_bank_india](https://static.openfintech.io/payment_methods/idfc_bank_india/logo.svg?w=400&c=v0.59.26#w200) |[**IDFC BANK**](idfc_bank_india/)|`idfc_bank_india`| 
+|![imepay](https://static.openfintech.io/payment_methods/imepay/logo.svg?w=400&c=v0.59.26#w200) |[**Imepay**](imepay/)|`imepay`| 
 |![imps](https://static.openfintech.io/payment_methods/imps/logo.png?w=400&c=v0.59.26#w200) |[**IMPS**](imps/)|`imps`| 
 |![india_bank_selection](https://static.openfintech.io/payment_methods/india_bank_selection/logo.svg?w=400&c=v0.59.26#w200) |[**India Bank Selection**](india_bank_selection/)|`india_bank_selection`| 
 |![india_post_payment_bank](https://static.openfintech.io/payment_methods/india_post_payment_bank/logo.svg?w=400&c=v0.59.26#w200) |[**India Post Payments Bank**](india_post_payment_bank/)|`india_post_payment_bank`| 
@@ -483,6 +485,7 @@
 |![kasikornbankkbanknetbanking](https://static.openfintech.io/payment_methods/kasikornbankkbanknetbanking/logo.png?w=400&c=v0.59.26#w200) |[**Kbank netbanking**](kasikornbankkbanknetbanking/)|`kasikornbankkbanknetbanking`| 
 |![kasnet_cash](https://static.openfintech.io/payment_methods/kasnet_cash/logo.png?w=400&c=v0.59.26#w200) |[**Kasnet**](kasnet_cash/)|`kasnet_cash`| 
 |![kbcbetaalknop](https://static.openfintech.io/payment_methods/kbcbetaalknop/logo.png?w=400&c=v0.59.26#w200) |[**KBC / CBC Online**](kbcbetaalknop/)|`kbcbetaalknop`| 
+|![khalti](https://static.openfintech.io/payment_methods/khalti/logo.svg?w=400&c=v0.59.26#w200) |[**Khalti**](khalti/)|`khalti`| 
 |![khipu](https://static.openfintech.io/payment_methods/khipu/logo.png?w=400&c=v0.59.26#w200) |[**Khipu**](khipu/)|`khipu`| 
 |![kiatnakin_bank](https://static.openfintech.io/payment_methods/kiatnakin_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Kiatnakin Bank**](kiatnakin_bank/)|`kiatnakin_bank`| 
 |![kien_long_bank](https://static.openfintech.io/payment_methods/kien_long_bank/logo.png?w=400&c=v0.59.26#w200) |[**Kien Long Commercial Joint - Stock Bank**](kien_long_bank/)|`kien_long_bank`| 

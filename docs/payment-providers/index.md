@@ -322,6 +322,7 @@
 |![epaybg](https://static.openfintech.io/payment_providers/epaybg/logo.png?w=600&c=v0.59.26#w100) |[**ePay.bg**](epaybg/)|`epaybg`| 
 |![epayglobal](https://static.openfintech.io/payment_providers/epayglobal/logo.png?w=600&c=v0.59.26#w100) |[**ePay Global**](epayglobal/)|`epayglobal`| 
 |![epaymentsglobalcom](https://static.openfintech.io/payment_providers/epaymentsglobalcom/logo.svg?w=600&c=v0.59.26#w100) |[**ePaymentsglobal.com**](epaymentsglobalcom/)|`epaymentsglobalcom`| 
+|![epb](https://static.openfintech.io/payment_providers/epb/logo.svg?w=600&c=v0.59.26#w100) |[**EPB**](epb/)|`epb`| 
 |![epoch](https://static.openfintech.io/payment_providers/epoch/logo.png?w=600&c=v0.59.26#w100) |[**Epoch**](epoch/)|`epoch`| 
 |![epro](https://static.openfintech.io/payment_providers/epro/logo.svg?w=600&c=v0.59.26#w100) |[**E-PRO**](epro/)|`epro`| 
 |![epx](https://static.openfintech.io/payment_providers/epx/logo.png?w=600&c=v0.59.26#w100) |[**EPX**](epx/)|`epx`| 

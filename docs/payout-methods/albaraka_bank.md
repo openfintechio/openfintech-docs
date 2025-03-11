@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Albaraka Bank, So
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![albaraka_bank](https://static.openfintech.io/payout_methods/albaraka_bank/icon.svg?w=278&c=v0.59.26#w40) |[albaraka_bank_zard](/payout-services/albaraka_bank_zard/)|`albaraka_bank_zard`| 
+|![albaraka_bank](https://static.openfintech.io/payout_methods/albaraka_bank/icon.svg?w=278&c=v0.59.26#w40) |[albaraka_bank_zar](/payout-services/albaraka_bank_zar/)|`albaraka_bank_zar`| 
  
 
 ## JSON Object 

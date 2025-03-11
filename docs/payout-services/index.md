@@ -89,7 +89,7 @@
 |![Akita Bank](https://static.openfintech.io/payout_methods/akita_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Akita Bank**](/payout-methods/akita_bank/)|[`akita_bank_jpy`](akita_bank_jpy/)|`JPY`| 
 |![Al-Barkah MFB](https://static.openfintech.io/payout_methods/al_barkah_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Al-Barkah MFB**](/payout-methods/al_barkah_mfb/)|[`al_barkah_mfb_ngn`](al_barkah_mfb_ngn/)|`NGN`| 
 |![Al-Hayat MFB](https://static.openfintech.io/payout_methods/al_hayat_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Al-Hayat MFB**](/payout-methods/al_hayat_mfb/)|[`al_hayat_mfb_ngn`](al_hayat_mfb_ngn/)|`NGN`| 
-|![Albaraka Bank, South Africa](https://static.openfintech.io/payout_methods/albaraka_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Albaraka Bank, South Africa**](/payout-methods/albaraka_bank/)|[`albaraka_bank_zard`](albaraka_bank_zard/)|`ZAR`| 
+|![Albaraka Bank, South Africa](https://static.openfintech.io/payout_methods/albaraka_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Albaraka Bank, South Africa**](/payout-methods/albaraka_bank/)|[`albaraka_bank_zar`](albaraka_bank_zar/)|`ZAR`| 
 |![Alekun MFB](https://static.openfintech.io/payout_methods/alekun_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Alekun MFB**](/payout-methods/alekun_mfb/)|[`alekun_mfb_ngn`](alekun_mfb_ngn/)|`NGN`| 
 |![Alert MFB](https://static.openfintech.io/payout_methods/alert_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Alert MFB**](/payout-methods/alert_mfb/)|[`alert_mfb_ngn`](alert_mfb_ngn/)|`NGN`| 
 |![ALEXCREDIT (подовження)](https://static.openfintech.io/payout_methods/alexcredit-podovzhennia/logo.svg?w=400&c=v0.59.26#w24) |[**ALEXCREDIT (подовження)**](/payout-methods/alexcredit-podovzhennia/)|[`alexcredit-podovzhennia_uah`](alexcredit-podovzhennia_uah/)|`UAH`| 
