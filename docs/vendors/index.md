@@ -358,6 +358,7 @@
 |![bitpay](https://static.openfintech.io/vendors/bitpay/logo.svg?w=600&c=v0.59.26#w200) |[**BitPay**](bitpay/)|`bitpay`| 
 |![bitso](https://static.openfintech.io/vendors/bitso/logo.svg?w=600&c=v0.59.26#w200) |[**Bitso**](bitso/)|`bitso`| 
 |![bizon](https://static.openfintech.io/vendors/bizon/logo.png?w=600&c=v0.59.26#w200) |[**Bizon**](bizon/)|`bizon`| 
+|![bizum](https://static.openfintech.io/vendors/bizum/logo.png?w=600&c=v0.59.26#w200) |[**Bizum**](bizum/)|`bizum`| 
 |![bkash](https://static.openfintech.io/vendors/bkash/logo.png?w=600&c=v0.59.26#w200) |[**Bkash**](bkash/)|`bkash`| 
 |![bkmexpress](https://static.openfintech.io/vendors/bkmexpress/logo.png?w=600&c=v0.59.26#w200) |[**BKM Express**](bkmexpress/)|`bkmexpress`| 
 |![blablapay](https://static.openfintech.io/vendors/blablapay/logo.svg?w=600&c=v0.59.26#w200) |[**BlaBlaPay**](blablapay/)|`blablapay`| 

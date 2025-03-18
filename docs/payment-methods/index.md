@@ -181,6 +181,7 @@
 |![bitexpro_p2p](https://static.openfintech.io/payment_methods/bitexpro_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**BitexPRO P2P**](bitexpro_p2p/)|`bitexpro_p2p`| 
 |![bitexpro_payeer](https://static.openfintech.io/payment_methods/bitexpro_payeer/logo.svg?w=400&c=v0.59.26#w200) |[**BitexPRO payeer**](bitexpro_payeer/)|`bitexpro_payeer`| 
 |![bitexpro_wallet](https://static.openfintech.io/payment_methods/bitexpro_wallet/logo.png?w=400&c=v0.59.26#w200) |[**BitexPRO wallet**](bitexpro_wallet/)|`bitexpro_wallet`| 
+|![bizum](https://static.openfintech.io/payment_methods/bizum/logo.png?w=400&c=v0.59.26#w200) |[**Bizum**](bizum/)|`bizum`| 
 |![bkash_limited](https://static.openfintech.io/payment_methods/bkash_limited/logo.png?w=400&c=v0.59.26#w200) |[**Bkash Limited**](bkash_limited/)|`bkash_limited`| 
 |![bkmexpress](https://static.openfintech.io/payment_methods/bkmexpress/logo.png?w=400&c=v0.59.26#w200) |[**BKM Express**](bkmexpress/)|`bkmexpress`| 
 |![blik](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](blik/)|`blik`| 
