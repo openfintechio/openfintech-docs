@@ -1278,6 +1278,7 @@
 |![mozcompayeasy](https://static.openfintech.io/vendors/mozcompayeasy/logo.png?w=600&c=v0.59.26#w200) |[**Mozcom PayEasy**](mozcompayeasy/)|`mozcompayeasy`| 
 |![mpay24](https://static.openfintech.io/vendors/mpay24/logo.png?w=600&c=v0.59.26#w200) |[**mPay24**](mpay24/)|`mpay24`| 
 |![mpayaisthailand](https://static.openfintech.io/vendors/mpayaisthailand/logo.png?w=600&c=v0.59.26#w200) |[**mPAY**](mpayaisthailand/)|`mpayaisthailand`| 
+|![mtb](https://static.openfintech.io/vendors/mtb/logo.svg?w=600&c=v0.59.26#w200) |[**MTB**](mtb/)|`mtb`| 
 |![mtbbank](https://static.openfintech.io/vendors/mtbbank/logo.svg?w=600&c=v0.59.26#w200) |[**MTB Bank**](mtbbank/)|`mtbbank`| 
 |![mtn_group](https://static.openfintech.io/vendors/mtn_group/logo.png?w=600&c=v0.59.26#w200) |[**MTN Group**](mtn_group/)|`mtn_group`| 
 |![mtsbank](https://static.openfintech.io/vendors/mtsbank/logo.svg?w=600&c=v0.59.26#w200) |[**МТС банк**](mtsbank/)|`mtsbank`| 

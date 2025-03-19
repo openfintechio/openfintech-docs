@@ -558,6 +558,7 @@
 |![mopay](https://static.openfintech.io/payment_providers/mopay/logo.png?w=600&c=v0.59.26#w100) |[**mopay**](mopay/)|`mopay`| 
 |![mozcompayeasy](https://static.openfintech.io/payment_providers/mozcompayeasy/logo.png?w=600&c=v0.59.26#w100) |[**Mozcom PayEasy**](mozcompayeasy/)|`mozcompayeasy`| 
 |![mpay24](https://static.openfintech.io/payment_providers/mpay24/logo.png?w=600&c=v0.59.26#w100) |[**mPay24**](mpay24/)|`mpay24`| 
+|![mtb](https://static.openfintech.io/payment_providers/mtb/logo.svg?w=600&c=v0.59.26#w100) |[**MTB**](mtb/)|`mtb`| 
 |![mtbbank](https://static.openfintech.io/payment_providers/mtbbank/logo.svg?w=600&c=v0.59.26#w100) |[**MTB Bank**](mtbbank/)|`mtbbank`| 
 |![muchbetter](https://static.openfintech.io/payment_providers/muchbetter/logo.svg?w=600&c=v0.59.26#w100) |[**MuchBetter**](muchbetter/)|`muchbetter`| 
 |![multicards](https://static.openfintech.io/payment_providers/multicards/logo.png?w=600&c=v0.59.26#w100) |[**MultiCards Internet Billing**](multicards/)|`multicards`| 

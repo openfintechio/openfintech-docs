@@ -551,6 +551,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![paywisesolutions](https://static.openfintech.io/payment_providers/paywisesolutions/icon.png?w=278&c=v0.59.26#w100) |[PaywiseSolutions](/payment-providers/paywisesolutions/)|`paywisesolutions`| 
 |![creditum](https://static.openfintech.io/payment_providers/creditum/icon.png?w=278&c=v0.59.26#w100) |[Creditum](/payment-providers/creditum/)|`creditum`| 
 |![mtbbank](https://static.openfintech.io/payment_providers/mtbbank/icon.svg?w=278&c=v0.59.26#w100) |[MTB Bank](/payment-providers/mtbbank/)|`mtbbank`| 
+|![mtb](https://static.openfintech.io/payment_providers/mtb/icon.svg?w=278&c=v0.59.26#w100) |[MTB](/payment-providers/mtb/)|`mtb`| 
 |![cdn](https://static.openfintech.io/payment_providers/cdn/icon.svg?w=278&c=v0.59.26#w100) |[CDN](/payment-providers/cdn/)|`cdn`| 
 |![eleospay](https://static.openfintech.io/payment_providers/eleospay/icon.png?w=278&c=v0.59.26#w100) |[EleosPay](/payment-providers/eleospay/)|`eleospay`| 
 |![bizon](https://static.openfintech.io/payment_providers/bizon/icon.png?w=278&c=v0.59.26#w100) |[Bizon](/payment-providers/bizon/)|`bizon`| 
