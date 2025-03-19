@@ -47,6 +47,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![payskin](https://static.openfintech.io/payment_methods/payskin/icon.svg?w=278&c=v0.59.26#w100) |[payskin](/payment-methods/payskin/)|`payskin`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether](/payment-methods/tether/)|`tether`| 
 |![n26_bank](https://static.openfintech.io/payment_methods/n26_bank/icon.png?w=278&c=v0.59.26#w100) |[n26_bank](/payment-methods/n26_bank/)|`n26_bank`| 
+|![wise](https://static.openfintech.io/payment_methods/wise/icon.svg?w=278&c=v0.59.26#w100) |[wise](/payment-methods/wise/)|`wise`| 
  
 
 ## JSON Object 
@@ -66,7 +67,8 @@ The list of supported [Payment Methods](/payment-methods/)
     "bank_transfer",
     "payskin",
     "tether",
-    "n26_bank"
+    "n26_bank",
+    "wise"
   ],
   "payout_method":null,
   "metadata":null,
