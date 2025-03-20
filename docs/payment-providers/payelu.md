@@ -51,7 +51,6 @@ The list of supported [Payout Methods](/payout-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
-|![spei](https://static.openfintech.io/payout_methods/spei/icon.svg?w=278&c=v0.59.26#w40) |[spei](payout-methodsspei/)|`spei`| 
 |![pix](https://static.openfintech.io/payout_methods/pix/icon.svg?w=278&c=v0.59.26#w40) |[pix](payout-methodspix/)|`pix`| 
  
 
@@ -71,7 +70,6 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "payout_method":[
     "bank_transfer",
-    "spei",
     "pix"
   ],
   "metadata":null,

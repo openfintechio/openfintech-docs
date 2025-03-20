@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`account_type`|✗|`string`|`/^[A-Z]{1}$/`| 
+|`account_type`|✗|`string`|`/^[A-Z_]{1,20}$/`| 
 |`bank_code`|✗|`string`|`/^[0-9]{1,3}$/`| 
 |`beneficiary_document_type`|✗|`string`|`/^[A-Za-z]{2,20}$/`| 
 |`beneficiary_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
@@ -34,11 +34,12 @@
 |`beneficiary_address`|✗|`string`|`/^.{1,255}$/`| 
 |`beneficiary_document_id`|✗|`string`|`/^[A-Z0-9]{3,20}$/`| 
 |`beneficiary_country_code_iso`|✗|`string`|`/^[A-Z]{2}$/`| 
-|`beneficiary_email`|✗|`string`|`/[a-z0-9!#$%&'*+\/=?^_`{\|}~-]+(?:\.[a-z0-9!#$%&'*+\/=?^_`{\|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])/`| 
+|`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
 |`beneficiary_phone`|✗|`string`|`/^\d{10,14}$/`| 
 |`beneficiary_dob`|✗|`string`|`/^([0-2][0-9]\|(3)[0-1])(\/)(((0)[0-9])\|((1)[0-2]))(\/)\d{4}\|\|((19\|20)\d{2}(0[1-9]\|1[0-2])(0[1-9]\|[12]\d\|3[01]))$/`| 
 |`beneficiary_city`|✗|`string`|`/^.{1,100}$/`| 
 |`beneficiary_postcode`|✗|`string`|`/^.{1,255}$/`| 
+|`sender_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
  
 
 ### Details 
@@ -47,7 +48,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z]{1}$/` 
+	Regexp: `/^[A-Z_]{1,20}$/` 
  
 	Required: `` 
  
@@ -227,7 +228,7 @@
  
 	Type: `string` 
  
-	Regexp: `/[a-z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])/` 
+	Regexp: `/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/` 
  
 	Required: `` 
  
@@ -313,6 +314,24 @@
 	: [RU] Enter postcode 
 	: [UK] Enter postcode 
  
+16. **`sender_full_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Sender full name 
+	: [RU] Полное имя отправителя 
+	: [UK] Повне імʼя відправкника 
+ 
+	Hint:  
+	: [EN] Enter Sender full name 
+	: [RU] Введите полное имя отправителя 
+	: [UK] Введіть повне імʼя відправкника 
+ 
 
 ## JSON Object 
 
@@ -325,7 +344,7 @@
     {
       "key":"account_type",
       "type":"string",
-      "regexp":"\/^[A-Z]{1}$\/",
+      "regexp":"\/^[A-Z_]{1,20}$\/",
       "label":{
         "en":"Account type",
         "ru":"\u0422\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",
@@ -507,7 +526,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Email"
       },
       "example":"johndoe@example.com",
-      "regexp":"\/[a-z0-9!#$%&'*+\\\/=?^_`{|}~-]+(?:\\.[a-z0-9!#$%&'*+\\\/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])\/",
+      "regexp":"\/^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,4})$\/",
       "required":false,
       "position":11
     },
@@ -582,6 +601,23 @@
         "uk":"Enter postcode"
       },
       "example":"postcode"
+    },
+    {
+      "key":"sender_full_name",
+      "type":"string",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\d\\s]{2,100}$\/",
+      "required":false,
+      "position":16,
+      "label":{
+        "en":"Sender full name",
+        "ru":"\u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
+        "uk":"\u041f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u0432\u0456\u0434\u043f\u0440\u0430\u0432\u043a\u043d\u0438\u043a\u0430"
+      },
+      "hint":{
+        "en":"Enter Sender full name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u0432\u0456\u0434\u043f\u0440\u0430\u0432\u043a\u043d\u0438\u043a\u0430"
+      }
     }
   ],
   "amount_min":1,

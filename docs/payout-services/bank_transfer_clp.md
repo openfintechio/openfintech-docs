@@ -41,6 +41,7 @@
 |`beneficiary_address`|✗|`string`|`/^.{1,255}$/`| 
 |`bank_branch`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`bank_account`|✗|`string`|`/^[0-9]{1,30}$/`| 
+|`sender_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
  
 
 ### Details 
@@ -351,6 +352,24 @@
 	: [RU] Введите номер банковского счета 
 	: [UK] Введіть номер банківського рахунку 
  
+18. **`sender_full_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Sender full name 
+	: [RU] Полное имя отправителя 
+	: [UK] Повне імʼя відправкника 
+ 
+	Hint:  
+	: [EN] Enter Sender full name 
+	: [RU] Введите полное имя отправителя 
+	: [UK] Введіть повне імʼя відправкника 
+ 
 
 ## JSON Object 
 
@@ -654,6 +673,23 @@
       },
       "position":17,
       "required":false
+    },
+    {
+      "key":"sender_full_name",
+      "type":"string",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\d\\s]{2,100}$\/",
+      "required":false,
+      "position":18,
+      "label":{
+        "en":"Sender full name",
+        "ru":"\u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
+        "uk":"\u041f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u0432\u0456\u0434\u043f\u0440\u0430\u0432\u043a\u043d\u0438\u043a\u0430"
+      },
+      "hint":{
+        "en":"Enter Sender full name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u0432\u0456\u0434\u043f\u0440\u0430\u0432\u043a\u043d\u0438\u043a\u0430"
+      }
     }
   ],
   "amount_min":"1",
