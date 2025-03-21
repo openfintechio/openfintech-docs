@@ -69,6 +69,9 @@ The list of supported [Payout Methods](/payout-methods/)
 |![dutch_bangla_bank_limited_rocket](https://static.openfintech.io/payout_methods/dutch_bangla_bank_limited_rocket/icon.svg?w=278&c=v0.59.26#w40) |[dutch_bangla_bank_limited_rocket](payout-methodsdutch_bangla_bank_limited_rocket/)|`dutch_bangla_bank_limited_rocket`| 
 |![united_commercial_bank_upay](https://static.openfintech.io/payout_methods/united_commercial_bank_upay/icon.svg?w=278&c=v0.59.26#w40) |[united_commercial_bank_upay](payout-methodsunited_commercial_bank_upay/)|`united_commercial_bank_upay`| 
 |![netbanking](https://static.openfintech.io/payout_methods/netbanking/icon.svg?w=278&c=v0.59.26#w40) |[netbanking](payout-methodsnetbanking/)|`netbanking`| 
+|![khalti](https://static.openfintech.io/payout_methods/khalti/icon.svg?w=278&c=v0.59.26#w40) |[khalti](payout-methodskhalti/)|`khalti`| 
+|![esewa](https://static.openfintech.io/payout_methods/esewa/icon.png?w=278&c=v0.59.26#w40) |[esewa](payout-methodsesewa/)|`esewa`| 
+|![imepay](https://static.openfintech.io/payout_methods/imepay/icon.svg?w=278&c=v0.59.26#w40) |[imepay](payout-methodsimepay/)|`imepay`| 
  
 
 ## JSON Object 
@@ -104,7 +107,10 @@ The list of supported [Payout Methods](/payout-methods/)
     "nagad_wallet",
     "dutch_bangla_bank_limited_rocket",
     "united_commercial_bank_upay",
-    "netbanking"
+    "netbanking",
+    "khalti",
+    "esewa",
+    "imepay"
   ],
   "metadata":null,
   "name":{

@@ -576,6 +576,7 @@
 |![equitel](https://static.openfintech.io/payout_methods/equitel/logo.png?w=400&c=v0.59.26#w24) |[**Equitel**](equitel/)|`equitel`| 
 |![erts-kp-dnipro](https://static.openfintech.io/payout_methods/erts-kp-dnipro/logo.svg?w=400&c=v0.59.26#w24) |[**ЄРЦ КП Дніпро**](erts-kp-dnipro/)|`erts-kp-dnipro`| 
 |![esan_mfb](https://static.openfintech.io/payout_methods/esan_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Esan MFB**](esan_mfb/)|`esan_mfb`| 
+|![esewa](https://static.openfintech.io/payout_methods/esewa/logo.png?w=400&c=v0.59.26#w24) |[**Esewa**](esewa/)|`esewa`| 
 |![esoe_mfb](https://static.openfintech.io/payout_methods/esoe_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Eso-E MFB**](esoe_mfb/)|`esoe_mfb`| 
 |![ethereum](https://static.openfintech.io/payout_methods/ethereum/logo.svg?w=400&c=v0.59.26#w24) |[**Ethereum**](ethereum/)|`ethereum`| 
 |![etherlink](https://static.openfintech.io/payout_methods/etherlink/logo.svg?w=400&c=v0.59.26#w24) |[**Etherlink**](etherlink/)|`etherlink`| 
@@ -791,6 +792,7 @@
 |![ikire_mfb](https://static.openfintech.io/payout_methods/ikire_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Ikire MFB**](ikire_mfb/)|`ikire_mfb`| 
 |![ilan](https://static.openfintech.io/payout_methods/ilan/logo.png?w=400&c=v0.59.26#w24) |[**ILAN**](ilan/)|`ilan`| 
 |![illintsi-pat-vinnitsiaoblenergo](https://static.openfintech.io/payout_methods/illintsi-pat-vinnitsiaoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Ilintsy PJSC 'Vinnitsaoblenergo'**](illintsi-pat-vinnitsiaoblenergo/)|`illintsi-pat-vinnitsiaoblenergo`| 
+|![imepay](https://static.openfintech.io/payout_methods/imepay/logo.svg?w=400&c=v0.59.26#w24) |[**Imepay**](imepay/)|`imepay`| 
 |![imo_state_mfb](https://static.openfintech.io/payout_methods/imo_state_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Imo State MFB**](imo_state_mfb/)|`imo_state_mfb`| 
 |![imperial_homes_mortgage_bank](https://static.openfintech.io/payout_methods/imperial_homes_mortgage_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Imperial Homes Mortgage Bank**](imperial_homes_mortgage_bank/)|`imperial_homes_mortgage_bank`| 
 |![imps](https://static.openfintech.io/payout_methods/imps/logo.png?w=400&c=v0.59.26#w24) |[**IMPS**](imps/)|`imps`| 
@@ -923,6 +925,7 @@
 |![keystone_bank](https://static.openfintech.io/payout_methods/keystone_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Keystone Bank**](keystone_bank/)|`keystone_bank`| 
 |![kf_of_ccc_bank](https://static.openfintech.io/payout_methods/kf_of_ccc_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Korea Fedration of Community Credi Cooperative**](kf_of_ccc_bank/)|`kf_of_ccc_bank`| 
 |![kfcc_bank](https://static.openfintech.io/payout_methods/kfcc_bank/logo.png?w=400&c=v0.59.26#w24) |[**Korean Federation of Community Credit**](kfcc_bank/)|`kfcc_bank`| 
+|![khalti](https://static.openfintech.io/payout_methods/khalti/logo.svg?w=400&c=v0.59.26#w24) |[**Khalti**](khalti/)|`khalti`| 
 |![kharkivskii-mem-ak-kharkivoblenergo](https://static.openfintech.io/payout_methods/kharkivskii-mem-ak-kharkivoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Kharkov MES AK 'Kharkivoblenergo'**](kharkivskii-mem-ak-kharkivoblenergo/)|`kharkivskii-mem-ak-kharkivoblenergo`| 
 |![kharkivskii-mem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018](https://static.openfintech.io/payout_methods/kharkivskii-mem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Харківський МЕМ АК "Харківобленерго" (за послуги до 31.12.2018)**](kharkivskii-mem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|`kharkivskii-mem-ak-kharkivoblenergo-za-poslugi-do-31-12-2018`| 
 |![khatanet-pereiaslav-khmelnitskii](https://static.openfintech.io/payout_methods/khatanet-pereiaslav-khmelnitskii/logo.png?w=400&c=v0.59.26#w24) |[**HataNet (Pereyaslav-Khmelnitsky)**](khatanet-pereiaslav-khmelnitskii/)|`khatanet-pereiaslav-khmelnitskii`| 
