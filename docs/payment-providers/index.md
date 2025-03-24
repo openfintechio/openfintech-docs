@@ -860,6 +860,7 @@
 |![rbkmoney](https://static.openfintech.io/payment_providers/rbkmoney/logo.png?w=600&c=v0.59.26#w100) |[**RBK Money**](rbkmoney/)|`rbkmoney`| 
 |![realdeposits](https://static.openfintech.io/payment_providers/realdeposits/logo.png?w=600&c=v0.59.26#w100) |[**Real Deposits**](realdeposits/)|`realdeposits`| 
 |![realexpayments](https://static.openfintech.io/payment_providers/realexpayments/logo.png?w=600&c=v0.59.26#w100) |[**Realex Payments**](realexpayments/)|`realexpayments`| 
+|![redcashoutsystem](https://static.openfintech.io/payment_providers/redcashoutsystem/logo.png?w=600&c=v0.59.26#w100) |[**Red Cashout System**](redcashoutsystem/)|`redcashoutsystem`| 
 |![reddotpayment](https://static.openfintech.io/payment_providers/reddotpayment/logo.png?w=600&c=v0.59.26#w100) |[**Red Dot Payment**](reddotpayment/)|`reddotpayment`| 
 |![redecard](https://static.openfintech.io/payment_providers/redecard/logo.png?w=600&c=v0.59.26#w100) |[**Redecard**](redecard/)|`redecard`| 
 |![redqueen](https://static.openfintech.io/payment_providers/redqueen/logo.png?w=600&c=v0.59.26#w100) |[**Red Queen**](redqueen/)|`redqueen`| 
