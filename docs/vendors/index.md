@@ -389,6 +389,7 @@
 |![btc-change.biz](https://static.openfintech.io/vendors/btc-change.biz/logo.svg?w=600&c=v0.59.26#w200) |[**btc-change.biz**](btc-change.biz/)|`btc-change.biz`| 
 |![btc-obmenka](https://static.openfintech.io/vendors/btc-obmenka/logo.svg?w=600&c=v0.59.26#w200) |[**btc-obmenka**](btc-obmenka/)|`btc-obmenka`| 
 |![btcbank.ua](https://static.openfintech.io/vendors/btcbank.ua/logo.svg?w=600&c=v0.59.26#w200) |[**btcbank.com.ua**](btcbank.ua/)|`btcbank.ua`| 
+|![btcbit](https://static.openfintech.io/vendors/btcbit/logo.png?w=600&c=v0.59.26#w200) |[**Btcbit**](btcbit/)|`btcbit`| 
 |![btcupcom](https://static.openfintech.io/vendors/btcupcom/logo.svg?w=600&c=v0.59.26#w200) |[**btc-up.com**](btcupcom/)|`btcupcom`| 
 |![btgate](https://static.openfintech.io/vendors/btgate/logo.png?w=600&c=v0.59.26#w200) |[**btGate**](btgate/)|`btgate`| 
 |![buckaroo](https://static.openfintech.io/vendors/buckaroo/logo.png?w=600&c=v0.59.26#w200) |[**Buckaroo**](buckaroo/)|`buckaroo`| 
@@ -865,6 +866,7 @@
 |![futuritypay](https://static.openfintech.io/vendors/futuritypay/logo.png?w=600&c=v0.59.26#w200) |[**Futuritypay**](futuritypay/)|`futuritypay`| 
 |![fvinnicke_oblasne_u_atoshad_m_vinnicya](https://static.openfintech.io/vendors/fvinnicke_oblasne_u_atoshad_m_vinnicya/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Вiнницьке обласне управлiння ПАТ 'Державний ощадний банк України'**](fvinnicke_oblasne_u_atoshad_m_vinnicya/)|`fvinnicke_oblasne_u_atoshad_m_vinnicya`| 
 |![fvolinske_oblasne_upr_atoshad_m_luck](https://static.openfintech.io/vendors/fvolinske_oblasne_upr_atoshad_m_luck/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Волинське обласне управлiння ПАТ 'Державний ощадний банк України'**](fvolinske_oblasne_upr_atoshad_m_luck/)|`fvolinske_oblasne_upr_atoshad_m_luck`| 
+|![fyst](https://static.openfintech.io/vendors/fyst/logo.png?w=600&c=v0.59.26#w200) |[**FYST**](fyst/)|`fyst`| 
 |![fzakarpatske_oblasn_atoshad_m_uzhgorod](https://static.openfintech.io/vendors/fzakarpatske_oblasn_atoshad_m_uzhgorod/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Закарпатське обласне управлiння ПАТ 'Державний ощадний банк України'**](fzakarpatske_oblasn_atoshad_m_uzhgorod/)|`fzakarpatske_oblasn_atoshad_m_uzhgorod`| 
 |![fzaporizke_oblasne_atoshad_m_zaporizhzh](https://static.openfintech.io/vendors/fzaporizke_oblasne_atoshad_m_zaporizhzh/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Запорiзьке обласне управлiння ПАТ 'Державний ощадний банк України'**](fzaporizke_oblasne_atoshad_m_zaporizhzh/)|`fzaporizke_oblasne_atoshad_m_zaporizhzh`| 
 |![fzhitomirske_oblasne_atoshad_m_zhitomir](https://static.openfintech.io/vendors/fzhitomirske_oblasne_atoshad_m_zhitomir/logo.svg?w=600&c=v0.59.26#w200) |[**Фiлiя - Житомирське обласне управлiння ПАТ 'Державний ощадний банк України'**](fzhitomirske_oblasne_atoshad_m_zhitomir/)|`fzhitomirske_oblasne_atoshad_m_zhitomir`| 

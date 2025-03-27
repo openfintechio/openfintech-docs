@@ -92,6 +92,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Paysafeca
 |![micropayments](https://static.openfintech.io/payment_providers/micropayments/icon.svg?w=278&c=v0.59.26#w100) |[MicroPayments](/payment-providers/micropayments/)|`micropayments`| 
 |![gatetwoway](https://static.openfintech.io/payment_providers/gatetwoway/icon.svg?w=278&c=v0.59.26#w100) |[Gate2way](/payment-providers/gatetwoway/)|`gatetwoway`| 
 |![utorg](https://static.openfintech.io/payment_providers/utorg/icon.png?w=278&c=v0.59.26#w100) |[Utorg](/payment-providers/utorg/)|`utorg`| 
+|![btcbit](https://static.openfintech.io/payment_providers/btcbit/icon.png?w=278&c=v0.59.26#w100) |[Btcbit](/payment-providers/btcbit/)|`btcbit`| 
  
 
 ## JSON Object 

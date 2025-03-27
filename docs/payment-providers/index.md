@@ -139,6 +139,7 @@
 |![braintree](https://static.openfintech.io/payment_providers/braintree/logo.svg?w=600&c=v0.59.26#w100) |[**Braintree**](braintree/)|`braintree`| 
 |![braspag](https://static.openfintech.io/payment_providers/braspag/logo.png?w=600&c=v0.59.26#w100) |[**Braspag**](braspag/)|`braspag`| 
 |![bscardservices](https://static.openfintech.io/payment_providers/bscardservices/logo.png?w=600&c=v0.59.26#w100) |[**B+S Card Service**](bscardservices/)|`bscardservices`| 
+|![btcbit](https://static.openfintech.io/payment_providers/btcbit/logo.png?w=600&c=v0.59.26#w100) |[**Btcbit**](btcbit/)|`btcbit`| 
 |![btgate](https://static.openfintech.io/payment_providers/btgate/logo.png?w=600&c=v0.59.26#w100) |[**btGate**](btgate/)|`btgate`| 
 |![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/logo.png?w=600&c=v0.59.26#w100) |[**Buckaroo**](buckaroo/)|`buckaroo`| 
 |![bucksnet](https://static.openfintech.io/payment_providers/bucksnet/logo.svg?w=600&c=v0.59.26#w100) |[**Bucks Net Services**](bucksnet/)|`bucksnet`| 
@@ -378,6 +379,7 @@
 |![freepayment](https://static.openfintech.io/payment_providers/freepayment/logo.svg?w=600&c=v0.59.26#w100) |[**FreePayment**](freepayment/)|`freepayment`| 
 |![fullpays](https://static.openfintech.io/payment_providers/fullpays/logo.png?w=600&c=v0.59.26#w100) |[**FullPays**](fullpays/)|`fullpays`| 
 |![futuritypay](https://static.openfintech.io/payment_providers/futuritypay/logo.png?w=600&c=v0.59.26#w100) |[**Futuritypay**](futuritypay/)|`futuritypay`| 
+|![fyst](https://static.openfintech.io/payment_providers/fyst/logo.png?w=600&c=v0.59.26#w100) |[**FYST**](fyst/)|`fyst`| 
 || **G** ||
 |![g2apay](https://static.openfintech.io/payment_providers/g2apay/logo.png?w=600&c=v0.59.26#w100) |[**G2A PAY**](g2apay/)|`g2apay`| 
 |![gamespay](https://static.openfintech.io/payment_providers/gamespay/logo.svg?w=600&c=v0.59.26#w100) |[**PayGames**](gamespay/)|`gamespay`| 

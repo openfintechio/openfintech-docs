@@ -90,6 +90,7 @@ The list of [Payment Providers](/payment-providers/) that support the _iDEAL_
 |![gumballpay](https://static.openfintech.io/payment_providers/gumballpay/icon.png?w=278&c=v0.59.26#w100) |[GumballPay](/payment-providers/gumballpay/)|`gumballpay`| 
 |![justipay](https://static.openfintech.io/payment_providers/justipay/icon.png?w=278&c=v0.59.26#w100) |[Justipay](/payment-providers/justipay/)|`justipay`| 
 |![rampnow](https://static.openfintech.io/payment_providers/rampnow/icon.svg?w=278&c=v0.59.26#w100) |[Rampnow](/payment-providers/rampnow/)|`rampnow`| 
+|![btcbit](https://static.openfintech.io/payment_providers/btcbit/icon.png?w=278&c=v0.59.26#w100) |[Btcbit](/payment-providers/btcbit/)|`btcbit`| 
  
 
 ## JSON Object 
