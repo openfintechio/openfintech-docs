@@ -665,6 +665,7 @@
 |![payeer](https://static.openfintech.io/payment_providers/payeer/logo.svg?w=600&c=v0.59.26#w100) |[**Payeer**](payeer/)|`payeer`| 
 |![payelata](https://static.openfintech.io/payment_providers/payelata/logo.svg?w=600&c=v0.59.26#w100) |[**Payelata**](payelata/)|`payelata`| 
 |![payelu](https://static.openfintech.io/payment_providers/payelu/logo.png?w=600&c=v0.59.26#w100) |[**Payelu**](payelu/)|`payelu`| 
+|![payermax](https://static.openfintech.io/payment_providers/payermax/logo.png?w=600&c=v0.59.26#w100) |[**PayerMax**](payermax/)|`payermax`| 
 |![payes](https://static.openfintech.io/payment_providers/payes/logo.png?w=600&c=v0.59.26#w100) |[**Payes**](payes/)|`payes`| 
 |![payex](https://static.openfintech.io/payment_providers/payex/logo.png?w=600&c=v0.59.26#w100) |[**PayEx**](payex/)|`payex`| 
 |![payfast](https://static.openfintech.io/payment_providers/payfast/logo.png?w=600&c=v0.59.26#w100) |[**PayFast**](payfast/)|`payfast`| 
@@ -978,6 +979,7 @@
 |![tnspay](https://static.openfintech.io/payment_providers/tnspay/logo.png?w=600&c=v0.59.26#w100) |[**TNSPay**](tnspay/)|`tnspay`| 
 |![todapay](https://static.openfintech.io/payment_providers/todapay/logo.svg?w=600&c=v0.59.26#w100) |[**TODA Pay**](todapay/)|`todapay`| 
 |![tome](https://static.openfintech.io/payment_providers/tome/logo.svg?w=600&c=v0.59.26#w100) |[**Tome**](tome/)|`tome`| 
+|![tompayment](https://static.openfintech.io/payment_providers/tompayment/logo.svg?w=600&c=v0.59.26#w100) |[**TomPayment**](tompayment/)|`tompayment`| 
 |![toppay](https://static.openfintech.io/payment_providers/toppay/logo.svg?w=600&c=v0.59.26#w100) |[**TopPay**](toppay/)|`toppay`| 
 |![toshani](https://static.openfintech.io/payment_providers/toshani/logo.png?w=600&c=v0.59.26#w100) |[**Toshani**](toshani/)|`toshani`| 
 |![totalprocessing](https://static.openfintech.io/payment_providers/totalprocessing/logo.svg?w=600&c=v0.59.26#w100) |[**Total Processing**](totalprocessing/)|`totalprocessing`| 

@@ -357,6 +357,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![khanpay](https://static.openfintech.io/payment_providers/khanpay/icon.svg?w=278&c=v0.59.26#w100) |[KhanPay](/payment-providers/khanpay/)|`khanpay`| 
 |![procardpay](https://static.openfintech.io/payment_providers/procardpay/icon.png?w=278&c=v0.59.26#w100) |[Procard.Pay](/payment-providers/procardpay/)|`procardpay`| 
 |![epb](https://static.openfintech.io/payment_providers/epb/icon.svg?w=278&c=v0.59.26#w100) |[EPB](/payment-providers/epb/)|`epb`| 
+|![payermax](https://static.openfintech.io/payment_providers/payermax/icon.png?w=278&c=v0.59.26#w100) |[PayerMax](/payment-providers/payermax/)|`payermax`| 
 |![stepfourpay](https://static.openfintech.io/payment_providers/stepfourpay/icon.svg?w=278&c=v0.59.26#w100) |[Step4Pay](/payment-providers/stepfourpay/)|`stepfourpay`| 
 |![magicpayments](https://static.openfintech.io/payment_providers/magicpayments/icon.svg?w=278&c=v0.59.26#w100) |[Magic Payments](/payment-providers/magicpayments/)|`magicpayments`| 
 |![reeves](https://static.openfintech.io/payment_providers/reeves/icon.png?w=278&c=v0.59.26#w100) |[Reeves](/payment-providers/reeves/)|`reeves`| 
@@ -622,6 +623,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![upc](https://static.openfintech.io/payment_providers/upc/icon.png?w=278&c=v0.59.26#w100) |[UPC](/payment-providers/upc/)|`upc`| 
 |![rastpay](https://static.openfintech.io/payment_providers/rastpay/icon.svg?w=278&c=v0.59.26#w100) |[Rastpay](/payment-providers/rastpay/)|`rastpay`| 
 |![visanetconnect](https://static.openfintech.io/payment_providers/visanetconnect/icon.svg?w=278&c=v0.59.26#w100) |[VisaNet Connect](/payment-providers/visanetconnect/)|`visanetconnect`| 
+|![tompayment](https://static.openfintech.io/payment_providers/tompayment/icon.svg?w=278&c=v0.59.26#w100) |[TomPayment](/payment-providers/tompayment/)|`tompayment`| 
  
 
 ## JSON Object 

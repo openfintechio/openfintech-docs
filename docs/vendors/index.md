@@ -1606,6 +1606,7 @@
 |![payeer](https://static.openfintech.io/vendors/payeer/logo.png?w=600&c=v0.59.26#w200) |[**Payeer**](payeer/)|`payeer`| 
 |![payelata](https://static.openfintech.io/vendors/payelata/logo.svg?w=600&c=v0.59.26#w200) |[**Payelata**](payelata/)|`payelata`| 
 |![payelu](https://static.openfintech.io/vendors/payelu/logo.png?w=600&c=v0.59.26#w200) |[**Payelu**](payelu/)|`payelu`| 
+|![payermax](https://static.openfintech.io/vendors/payermax/logo.png?w=600&c=v0.59.26#w200) |[**PayerMax**](payermax/)|`payermax`| 
 |![payes](https://static.openfintech.io/vendors/payes/logo.png?w=600&c=v0.59.26#w200) |[**Payes**](payes/)|`payes`| 
 |![payex](https://static.openfintech.io/vendors/payex/logo.png?w=600&c=v0.59.26#w200) |[**PayEx**](payex/)|`payex`| 
 |![payfast](https://static.openfintech.io/vendors/payfast/logo.png?w=600&c=v0.59.26#w200) |[**PayFast**](payfast/)|`payfast`| 
@@ -2124,6 +2125,7 @@
 |![tokyo_star_bank](https://static.openfintech.io/vendors/tokyo_star_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Tokyo Star Bank**](tokyo_star_bank/)|`tokyo_star_bank`| 
 |![tomato_bank](https://static.openfintech.io/vendors/tomato_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Tomato Bank**](tomato_bank/)|`tomato_bank`| 
 |![tome](https://static.openfintech.io/vendors/tome/logo.svg?w=600&c=v0.59.26#w200) |[**Tome**](tome/)|`tome`| 
+|![tompayment](https://static.openfintech.io/vendors/tompayment/logo.svg?w=600&c=v0.59.26#w200) |[**TomPayment**](tompayment/)|`tompayment`| 
 |![toncoin](https://static.openfintech.io/vendors/toncoin/logo.png?w=600&c=v0.59.26#w200) |[**Toncoin**](toncoin/)|`toncoin`| 
 |![toppay](https://static.openfintech.io/vendors/toppay/logo.svg?w=600&c=v0.59.26#w200) |[**TopPay**](toppay/)|`toppay`| 
 |![toshani](https://static.openfintech.io/vendors/toshani/logo.png?w=600&c=v0.59.26#w200) |[**Toshani**](toshani/)|`toshani`| 
