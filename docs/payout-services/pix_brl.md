@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`cpf_number`|✗|`string`|`/^[0-9\.\-\/]{1,18}$/`| 
+|`cpf_number`|✗|`string`|`/^.{1,255}$/`| 
 |`beneficiary_phone`|✗|`string`|`/^\+\d{10,14}$/`| 
 |`beneficiary_phone_country_code`|✗|`string`|`/^\+\d{1,3}$/`| 
 |`beneficiary_phone_area_code`|✗|`string`|`/^\d{1,5}$/`| 
@@ -50,7 +50,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9\.\-\/]{1,18}$/` 
+	Regexp: `/^.{1,255}$/` 
  
 	Required: `` 
  
@@ -382,7 +382,7 @@
     {
       "key":"cpf_number",
       "type":"string",
-      "regexp":"\/^[0-9\\.\\-\\\/]{1,18}$\/",
+      "regexp":"\/^.{1,255}$\/",
       "required":false,
       "position":1,
       "label":{
