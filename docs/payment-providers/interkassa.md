@@ -68,6 +68,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![bancontact](https://static.openfintech.io/payment_methods/bancontact/icon.png?w=278&c=v0.59.26#w100) |[bancontact](/payment-methods/bancontact/)|`bancontact`| 
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay](/payment-methods/applepay/)|`applepay`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay](/payment-methods/googlepay/)|`googlepay`| 
+|![multibanco](https://static.openfintech.io/payment_methods/multibanco/icon.png?w=278&c=v0.59.26#w100) |[multibanco](/payment-methods/multibanco/)|`multibanco`| 
+|![mb_way](https://static.openfintech.io/payment_methods/mb_way/icon.svg?w=278&c=v0.59.26#w100) |[mb_way](/payment-methods/mb_way/)|`mb_way`| 
  
 
 ## Payout Methods 
@@ -123,7 +125,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "ideal",
     "bancontact",
     "applepay",
-    "googlepay"
+    "googlepay",
+    "multibanco",
+    "mb_way"
   ],
   "payout_method":[
     "payment_card",
