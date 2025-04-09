@@ -37,6 +37,7 @@ The list of [Payout Services](/payout-services/) based on the _Automated Clearin
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![ach](https://static.openfintech.io/payout_methods/ach/icon.png?w=278&c=v0.59.26#w40) |[ach_cop](/payout-services/ach_cop/)|`ach_cop`| 
+|![ach](https://static.openfintech.io/payout_methods/ach/icon.png?w=278&c=v0.59.26#w40) |[ach_usd](/payout-services/ach_usd/)|`ach_usd`| 
  
 
 ## JSON Object 

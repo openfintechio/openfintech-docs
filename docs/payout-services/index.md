@@ -41,6 +41,7 @@
 |![Accion MFB](https://static.openfintech.io/payout_methods/accion_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Accion MFB**](/payout-methods/accion_mfb/)|[`accion_mfb_ngn`](accion_mfb_ngn/)|`NGN`| 
 |![Ace Online](https://static.openfintech.io/payout_methods/ace-online/logo.png?w=400&c=v0.59.26#w24) |[**Ace Online**](/payout-methods/ace-online/)|[`ace-online_uah`](ace-online_uah/)|`UAH`| 
 |![Automated Clearing House (ACH)](https://static.openfintech.io/payout_methods/ach/logo.png?w=400&c=v0.59.26#w24) |[**Automated Clearing House (ACH)**](/payout-methods/ach/)|[`ach_cop`](ach_cop/)|`COP`| 
+|![Automated Clearing House (ACH)](https://static.openfintech.io/payout_methods/ach/logo.png?w=400&c=v0.59.26#w24) |[**Automated Clearing House (ACH)**](/payout-methods/ach/)|[`ach_usd`](ach_usd/)|`USD`| 
 |![ACLEDA Bank](https://static.openfintech.io/payout_methods/acleda_bank_cambodia/logo.svg?w=400&c=v0.59.26#w24) |[**ACLEDA Bank**](/payout-methods/acleda_bank_cambodia/)|[`acleda_bank_cambodia_usd`](acleda_bank_cambodia_usd/)|`USD`| 
 |![Kcell/Activ](https://static.openfintech.io/payout_methods/activ_kcell/logo.svg?w=400&c=v0.59.26#w24) |[**Kcell/Activ**](/payout-methods/activ_kcell/)|[`activ_kcell_kzt`](activ_kcell_kzt/)|`KZT`| 
 |![ADAMANT-TELECOM - Domain and Hosting](https://static.openfintech.io/payout_methods/adamant-telekom-domen-i-khosting/logo.png?w=400&c=v0.59.26#w24) |[**ADAMANT-TELECOM - Domain and Hosting**](/payout-methods/adamant-telekom-domen-i-khosting/)|[`adamant-telekom-domen-i-khosting_uah`](adamant-telekom-domen-i-khosting_uah/)|`UAH`| 
@@ -698,6 +699,7 @@
 |![EdFin MFB](https://static.openfintech.io/payout_methods/edfin_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**EdFin MFB**](/payout-methods/edfin_mfb/)|[`edfin_mfb_ngn`](edfin_mfb_ngn/)|`NGN`| 
 |![Efecty](https://static.openfintech.io/payout_methods/efecty/logo.svg?w=400&c=v0.59.26#w24) |[**Efecty**](/payout-methods/efecty/)|[`efecty_cop`](efecty_cop/)|`COP`| 
 |![Ether (Mangush)](https://static.openfintech.io/payout_methods/efir-mangush/logo.png?w=400&c=v0.59.26#w24) |[**Ether (Mangush)**](/payout-methods/efir-mangush/)|[`efir-mangush_uah`](efir-mangush_uah/)|`UAH`| 
+|![Electronic funds transfer (EFT)](https://static.openfintech.io/payout_methods/eft/logo.svg?w=400&c=v0.59.26#w24) |[**Electronic funds transfer (EFT)**](/payout-methods/eft/)|[`eft_cad`](eft_cad/)|`CAD`| 
 |![Ehime Bank](https://static.openfintech.io/payout_methods/ehime_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Ehime Bank**](/payout-methods/ehime_bank/)|[`ehime_bank_jpy`](ehime_bank_jpy/)|`JPY`| 
 |![Ekondo MFB](https://static.openfintech.io/payout_methods/ekondo_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Ekondo MFB**](/payout-methods/ekondo_mfb/)|[`ekondo_mfb_ngn`](ekondo_mfb_ngn/)|`NGN`| 
 |![Economic online game Raska](https://static.openfintech.io/payout_methods/ekonomicheskaia-onlain-igra-rashka/logo.png?w=400&c=v0.59.26#w24) |[**Economic online game Raska**](/payout-methods/ekonomicheskaia-onlain-igra-rashka/)|[`ekonomicheskaia-onlain-igra-rashka_uah`](ekonomicheskaia-onlain-igra-rashka_uah/)|`UAH`| 

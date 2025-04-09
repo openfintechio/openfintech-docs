@@ -534,6 +534,7 @@
 |![edfin_mfb](https://static.openfintech.io/payout_methods/edfin_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**EdFin MFB**](edfin_mfb/)|`edfin_mfb`| 
 |![efecty](https://static.openfintech.io/payout_methods/efecty/logo.svg?w=400&c=v0.59.26#w24) |[**Efecty**](efecty/)|`efecty`| 
 |![efir-mangush](https://static.openfintech.io/payout_methods/efir-mangush/logo.png?w=400&c=v0.59.26#w24) |[**Ether (Mangush)**](efir-mangush/)|`efir-mangush`| 
+|![eft](https://static.openfintech.io/payout_methods/eft/logo.svg?w=400&c=v0.59.26#w24) |[**Electronic funds transfer (EFT)**](eft/)|`eft`| 
 |![ehime_bank](https://static.openfintech.io/payout_methods/ehime_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Ehime Bank**](ehime_bank/)|`ehime_bank`| 
 |![ek-odesaoblenergo-ananyivskii-rem](https://static.openfintech.io/payout_methods/ek-odesaoblenergo-ananyivskii-rem/logo.png?w=400&c=v0.59.26#w24) |[**EK Odessaaoblenergo '- Ananievsky Distribution Zone**](ek-odesaoblenergo-ananyivskii-rem/)|`ek-odesaoblenergo-ananyivskii-rem`| 
 |![ek-odesaoblenergo-artsizskii-rem](https://static.openfintech.io/payout_methods/ek-odesaoblenergo-artsizskii-rem/logo.png?w=400&c=v0.59.26#w24) |[**EK Odessaoblenergo '- Artsizsky Distribution Zone**](ek-odesaoblenergo-artsizskii-rem/)|`ek-odesaoblenergo-artsizskii-rem`| 
