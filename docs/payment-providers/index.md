@@ -495,6 +495,7 @@
 |![klikpay](https://static.openfintech.io/payment_providers/klikpay/logo.png?w=600&c=v0.59.26#w100) |[**Klik & Pay**](klikpay/)|`klikpay`| 
 |![kluwp](https://static.openfintech.io/payment_providers/kluwp/logo.png?w=600&c=v0.59.26#w100) |[**Kluwp**](kluwp/)|`kluwp`| 
 |![klyme](https://static.openfintech.io/payment_providers/klyme/logo.png?w=600&c=v0.59.26#w100) |[**Klyme**](klyme/)|`klyme`| 
+|![kodapay](https://static.openfintech.io/payment_providers/kodapay/logo.png?w=600&c=v0.59.26#w100) |[**KodaPay**](kodapay/)|`kodapay`| 
 |![kora](https://static.openfintech.io/payment_providers/kora/logo.svg?w=600&c=v0.59.26#w100) |[**Kora**](kora/)|`kora`| 
 |![kortapay](https://static.openfintech.io/payment_providers/kortapay/logo.png?w=600&c=v0.59.26#w100) |[**Korta Pay**](kortapay/)|`kortapay`| 
 |![kraft](https://static.openfintech.io/payment_providers/kraft/logo.svg?w=600&c=v0.59.26#w100) |[**Kraft**](kraft/)|`kraft`| 

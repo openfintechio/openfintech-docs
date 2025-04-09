@@ -1131,6 +1131,7 @@
 |![kluwp](https://static.openfintech.io/vendors/kluwp/logo.png?w=600&c=v0.59.26#w200) |[**Kluwp**](kluwp/)|`kluwp`| 
 |![klyme](https://static.openfintech.io/vendors/klyme/logo.png?w=600&c=v0.59.26#w200) |[**Klyme**](klyme/)|`klyme`| 
 |![kochi_bank](https://static.openfintech.io/vendors/kochi_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Kochi Bank**](kochi_bank/)|`kochi_bank`| 
+|![kodapay](https://static.openfintech.io/vendors/kodapay/logo.png?w=600&c=v0.59.26#w200) |[**KodaPay**](kodapay/)|`kodapay`| 
 |![komercnibanka](https://static.openfintech.io/vendors/komercnibanka/logo.png?w=600&c=v0.59.26#w200) |[**Komercni Banka**](komercnibanka/)|`komercnibanka`| 
 |![kontakt](https://static.openfintech.io/vendors/kontakt/logo.svg?w=600&c=v0.59.26#w200) |[**Контакт**](kontakt/)|`kontakt`| 
 |![kookmin_bank](https://static.openfintech.io/vendors/kookmin_bank/logo.png?w=600&c=v0.59.26#w200) |[**Kookmin Bank**](kookmin_bank/)|`kookmin_bank`| 
