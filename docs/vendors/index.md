@@ -1967,6 +1967,7 @@
 |![selcom](https://static.openfintech.io/vendors/selcom/logo.png?w=600&c=v0.59.26#w200) |[**Selcom**](selcom/)|`selcom`| 
 |![sencillito](https://static.openfintech.io/vendors/sencillito/logo.svg?w=600&c=v0.59.26#w200) |[**Sencillito**](sencillito/)|`sencillito`| 
 |![sendai_bank](https://static.openfintech.io/vendors/sendai_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Sendai Bank**](sendai_bank/)|`sendai_bank`| 
+|![sends](https://static.openfintech.io/vendors/sends/logo.svg?w=600&c=v0.59.26#w200) |[**Sends**](sends/)|`sends`| 
 |![sentrypayments](https://static.openfintech.io/vendors/sentrypayments/logo.png?w=600&c=v0.59.26#w200) |[**SentryPayments**](sentrypayments/)|`sentrypayments`| 
 |![sepa](https://static.openfintech.io/vendors/sepa/logo.svg?w=600&c=v0.59.26#w200) |[**SEPA**](sepa/)|`sepa`| 
 |![sepacredittransfer](https://static.openfintech.io/vendors/sepacredittransfer/logo.svg?w=600&c=v0.59.26#w200) |[**SEPA Credit Transfer**](sepacredittransfer/)|`sepacredittransfer`| 
