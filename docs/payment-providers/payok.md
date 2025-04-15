@@ -62,7 +62,6 @@ The list of supported [Payment Methods](/payment-methods/)
 |![bidv_bank_qr](https://static.openfintech.io/payment_methods/bidv_bank_qr/icon.svg?w=278&c=v0.59.26#w100) |[bidv_bank_qr](/payment-methods/bidv_bank_qr/)|`bidv_bank_qr`| 
 |![vp_bank](https://static.openfintech.io/payment_methods/vp_bank/icon.png?w=278&c=v0.59.26#w100) |[vp_bank](/payment-methods/vp_bank/)|`vp_bank`| 
 |![vietcom_bank_qr](https://static.openfintech.io/payment_methods/vietcom_bank_qr/icon.svg?w=278&c=v0.59.26#w100) |[vietcom_bank_qr](/payment-methods/vietcom_bank_qr/)|`vietcom_bank_qr`| 
-|![vietin_bank_qr](https://static.openfintech.io/payment_methods/vietin_bank_qr/icon.svg?w=278&c=v0.59.26#w100) |[vietin_bank_qr](/payment-methods/vietin_bank_qr/)|`vietin_bank_qr`| 
 |![tpbank](https://static.openfintech.io/payment_methods/tpbank/icon.png?w=278&c=v0.59.26#w100) |[tpbank](/payment-methods/tpbank/)|`tpbank`| 
 |![vib_bank](https://static.openfintech.io/payment_methods/vib_bank/icon.png?w=278&c=v0.59.26#w100) |[vib_bank](/payment-methods/vib_bank/)|`vib_bank`| 
 |![agri_bank](https://static.openfintech.io/payment_methods/agri_bank/icon.png?w=278&c=v0.59.26#w100) |[agri_bank](/payment-methods/agri_bank/)|`agri_bank`| 
@@ -71,12 +70,11 @@ The list of supported [Payment Methods](/payment-methods/)
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
 |![promptpay](https://static.openfintech.io/payment_methods/promptpay/icon.svg?w=278&c=v0.59.26#w100) |[promptpay](/payment-methods/promptpay/)|`promptpay`| 
 |![papara](https://static.openfintech.io/payment_methods/papara/icon.svg?w=278&c=v0.59.26#w100) |[papara](/payment-methods/papara/)|`papara`| 
-|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
 |![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi](/payment-methods/upi/)|`upi`| 
 |![nequi](https://static.openfintech.io/payment_methods/nequi/icon.svg?w=278&c=v0.59.26#w100) |[nequi](/payment-methods/nequi/)|`nequi`| 
-|![colombia_bank](https://static.openfintech.io/payment_methods/colombia_bank/icon.svg?w=278&c=v0.59.26#w100) |[colombia_bank](/payment-methods/colombia_bank/)|`colombia_bank`| 
 |![efecty](https://static.openfintech.io/payment_methods/efecty/icon.svg?w=278&c=v0.59.26#w100) |[efecty](/payment-methods/efecty/)|`efecty`| 
 |![pse](https://static.openfintech.io/payment_methods/pse/icon.svg?w=278&c=v0.59.26#w100) |[pse](/payment-methods/pse/)|`pse`| 
+|![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix](/payment-methods/pix/)|`pix`| 
  
 
 ## Payout Methods 
@@ -176,7 +174,6 @@ The list of supported [Payout Methods](/payout-methods/)
     "bidv_bank_qr",
     "vp_bank",
     "vietcom_bank_qr",
-    "vietin_bank_qr",
     "tpbank",
     "vib_bank",
     "agri_bank",
@@ -185,12 +182,11 @@ The list of supported [Payout Methods](/payout-methods/)
     "bank_transfer",
     "promptpay",
     "papara",
-    "bank_transfer",
     "upi",
     "nequi",
-    "colombia_bank",
     "efecty",
-    "pse"
+    "pse",
+    "pix"
   ],
   "payout_method":[
     "bangko_bank",
