@@ -25,7 +25,7 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`account_number`|✗|`string`|`/^[A-Z]{2}[A-ZА-Я\d\s\-\–\.\']{13,48}$\|^[\d]{3,48}$/`| 
-|`routing_number`|✗|`string`|`/^\d+-\d+$/`| 
+|`routing_number`|✗|`string`|`/^\d+-?\d+$/`| 
 |`account_type`|✗|`string`|`/^[A-Za-z0-9]{1,10}$/`| 
 |`beneficiary_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
 |`beneficiary_lastname`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
@@ -64,7 +64,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^\d+-\d+$/` 
+	Regexp: `/^\d+-?\d+$/` 
  
 	Required: `` 
  
@@ -324,7 +324,7 @@
     {
       "key":"routing_number",
       "type":"string",
-      "regexp":"\/^\\d+-\\d+$\/",
+      "regexp":"\/^\\d+-?\\d+$\/",
       "required":false,
       "position":2,
       "label":{
