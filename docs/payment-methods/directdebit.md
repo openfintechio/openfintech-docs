@@ -69,7 +69,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Direct De
 |![europeanmerchantservices](https://static.openfintech.io/payment_providers/europeanmerchantservices/icon.png?w=278&c=v0.59.26#w100) |[EMS](/payment-providers/europeanmerchantservices/)|`europeanmerchantservices`| 
 |![computop](https://static.openfintech.io/payment_providers/computop/icon.png?w=278&c=v0.59.26#w100) |[Computop](/payment-providers/computop/)|`computop`| 
 |![ebanx](https://static.openfintech.io/payment_providers/ebanx/icon.png?w=278&c=v0.59.26#w100) |[EBANX](/payment-providers/ebanx/)|`ebanx`| 
-|![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
 |![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.png?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
 |![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.png?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 

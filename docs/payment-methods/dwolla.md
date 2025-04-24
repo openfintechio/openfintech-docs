@@ -37,15 +37,6 @@ https://static.openfintech.io/payment_methods/dwolla/logo.svg?w=400&c=v0.59.26#w
 https://static.openfintech.io/payment_methods/dwolla/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
-## Payment Providers 
- 
-The list of [Payment Providers](/payment-providers/) that support the _Dwolla_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
- 
-
 ## JSON Object 
 
 ```json

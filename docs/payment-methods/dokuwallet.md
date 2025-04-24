@@ -34,15 +34,6 @@ https://static.openfintech.io/payment_methods/dokuwallet/logo.png?w=400&c=v0.59.
 https://static.openfintech.io/payment_methods/dokuwallet/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payment Providers 
- 
-The list of [Payment Providers](/payment-providers/) that support the _DOKU Wallet_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
- 
-
 ## JSON Object 
 
 ```json

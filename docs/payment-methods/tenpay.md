@@ -40,7 +40,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Tenpay_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
 |![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.png?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
  
 

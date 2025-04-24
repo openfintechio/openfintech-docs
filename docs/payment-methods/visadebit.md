@@ -84,7 +84,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Visa Debi
 |![ebanx](https://static.openfintech.io/payment_providers/ebanx/icon.png?w=278&c=v0.59.26#w100) |[EBANX](/payment-providers/ebanx/)|`ebanx`| 
 |![klikpay](https://static.openfintech.io/payment_providers/klikpay/icon.png?w=278&c=v0.59.26#w100) |[Klik & Pay](/payment-providers/klikpay/)|`klikpay`| 
 |![dengionline](https://static.openfintech.io/payment_providers/dengionline/icon.png?w=278&c=v0.59.26#w100) |[Dengi Online](/payment-providers/dengionline/)|`dengionline`| 
-|![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
 |![easypaymentgateway](https://static.openfintech.io/payment_providers/easypaymentgateway/icon.png?w=278&c=v0.59.26#w100) |[Easy Payment Gateway](/payment-providers/easypaymentgateway/)|`easypaymentgateway`| 
 |![allpago](https://static.openfintech.io/payment_providers/allpago/icon.png?w=278&c=v0.59.26#w100) |[allpago - accept payments in Latin America](/payment-providers/allpago/)|`allpago`| 
 |![quickpay](https://static.openfintech.io/payment_providers/quickpay/icon.png?w=278&c=v0.59.26#w100) |[QuickPay](/payment-providers/quickpay/)|`quickpay`| 

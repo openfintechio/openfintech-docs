@@ -62,7 +62,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Klarna ba
 |![multisafepay](https://static.openfintech.io/payment_providers/multisafepay/icon.png?w=278&c=v0.59.26#w100) |[MultiSafepay](/payment-providers/multisafepay/)|`multisafepay`| 
 |![altapay](https://static.openfintech.io/payment_providers/altapay/icon.png?w=278&c=v0.59.26#w100) |[AltaPay](/payment-providers/altapay/)|`altapay`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
-|![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
 |![quickpay](https://static.openfintech.io/payment_providers/quickpay/icon.png?w=278&c=v0.59.26#w100) |[QuickPay](/payment-providers/quickpay/)|`quickpay`| 
 |![klarna](https://static.openfintech.io/payment_providers/klarna/icon.svg?w=278&c=v0.59.26#w100) |[Klarna](/payment-providers/klarna/)|`klarna`| 
  

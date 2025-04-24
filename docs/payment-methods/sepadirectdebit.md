@@ -64,7 +64,6 @@ The list of [Payment Providers](/payment-providers/) that support the _SEPA Dire
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
 |![europeanmerchantservices](https://static.openfintech.io/payment_providers/europeanmerchantservices/icon.png?w=278&c=v0.59.26#w100) |[EMS](/payment-providers/europeanmerchantservices/)|`europeanmerchantservices`| 
 |![klikpay](https://static.openfintech.io/payment_providers/klikpay/icon.png?w=278&c=v0.59.26#w100) |[Klik & Pay](/payment-providers/klikpay/)|`klikpay`| 
-|![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
  
 

@@ -60,7 +60,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Trustly_
 |![skrill](https://static.openfintech.io/payment_providers/skrill/icon.svg?w=278&c=v0.59.26#w100) |[Skrill](/payment-providers/skrill/)|`skrill`| 
 |![apco](https://static.openfintech.io/payment_providers/apco/icon.png?w=278&c=v0.59.26#w100) |[APCO](/payment-providers/apco/)|`apco`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
-|![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
 |![quickpay](https://static.openfintech.io/payment_providers/quickpay/icon.png?w=278&c=v0.59.26#w100) |[QuickPay](/payment-providers/quickpay/)|`quickpay`| 
 |![trustly](https://static.openfintech.io/payment_providers/trustly/icon.svg?w=278&c=v0.59.26#w100) |[Trustly](/payment-providers/trustly/)|`trustly`| 
 |![bizon](https://static.openfintech.io/payment_providers/bizon/icon.png?w=278&c=v0.59.26#w100) |[Bizon](/payment-providers/bizon/)|`bizon`| 

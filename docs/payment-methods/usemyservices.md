@@ -41,7 +41,6 @@ The list of [Payment Providers](/payment-providers/) that support the _UseMyServ
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
-|![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
  
 
 ## JSON Object 

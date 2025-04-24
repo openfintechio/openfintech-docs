@@ -63,7 +63,6 @@ The list of [Payment Providers](/payment-providers/) that support the _VISA QIWI
 |![walletone](https://static.openfintech.io/payment_providers/walletone/icon.svg?w=278&c=v0.59.26#w100) |[Wallet One](/payment-providers/walletone/)|`walletone`| 
 |![payboutique](https://static.openfintech.io/payment_providers/payboutique/icon.png?w=278&c=v0.59.26#w100) |[Payboutique ](/payment-providers/payboutique/)|`payboutique`| 
 |![hipaymobile](https://static.openfintech.io/payment_providers/hipaymobile/icon.png?w=278&c=v0.59.26#w100) |[HiPay Mobile](/payment-providers/hipaymobile/)|`hipaymobile`| 
-|![worldpay](https://static.openfintech.io/payment_providers/worldpay/icon.svg?w=278&c=v0.59.26#w100) |[Worldpay](/payment-providers/worldpay/)|`worldpay`| 
 |![algocharge](https://static.openfintech.io/payment_providers/algocharge/icon.png?w=278&c=v0.59.26#w100) |[ALGOCHARGE](/payment-providers/algocharge/)|`algocharge`| 
 |![deprecated](https://static.openfintech.io/payment_providers/deprecated/icon.svg?w=278&c=v0.59.26#w100) |[ASSIST](/payment-providers/deprecated/)|`deprecated`| 
 |![payeer](https://static.openfintech.io/payment_providers/payeer/icon.png?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
