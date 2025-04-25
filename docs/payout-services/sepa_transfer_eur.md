@@ -36,6 +36,9 @@
 |`beneficiary_date_of_birth`|✗|`string`|`/^\d{4}-\d{2}-\d{2}$/`| 
 |`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
 |`payment_purpose`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
+|`beneficiary_phone`|✗|`string`|`/^\d{10,14}$/`| 
+|`beneficiary_document_id`|✗|`string`|`/^[A-Z0-9]{3,20}$/`| 
+|`beneficiary_state`|✗|`string`|`/^.{1,100}$/`| 
  
 
 ### Details 
@@ -255,6 +258,60 @@
 	: [EN] Enter purpose of payment 
 	: [RU] Введите назначение платежа 
 	: [UK] Введіть призначення рахунку 
+ 
+13. **`beneficiary_phone`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^\d{10,14}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Phone number 
+	: [RU] Номер телефона 
+	: [UK] Номер телефону 
+ 
+	Hint:  
+	: [EN] Enter phone number 
+	: [RU] Введите номер телефона 
+	: [UK] Введіть номер телефону 
+ 
+14. **`beneficiary_document_id`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Z0-9]{3,20}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary Document ID 
+	: [RU] Номер документа получателя 
+	: [UK] Номер документу отримувача 
+ 
+	Hint:  
+	: [EN] Enter Beneficiary Document ID 
+	: [RU] Введите номер документа получателя 
+	: [UK] Введіть номер документу отримувача 
+ 
+15. **`beneficiary_state`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{1,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] State 
+	: [RU] State 
+	: [UK] State 
+ 
+	Hint:  
+	: [EN] Enter state 
+	: [RU] Enter state 
+	: [UK] Enter state 
  
 
 ## JSON Object 
@@ -479,6 +536,58 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u0440\u0438\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
       },
       "example":"Payment of utility services"
+    },
+    {
+      "key":"beneficiary_phone",
+      "type":"string",
+      "label":{
+        "en":"Phone number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
+      },
+      "hint":{
+        "en":"Enter phone number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
+      },
+      "example":"6339152330011",
+      "regexp":"\/^\\d{10,14}$\/",
+      "required":false,
+      "position":13
+    },
+    {
+      "key":"beneficiary_document_id",
+      "type":"string",
+      "regexp":"\/^[A-Z0-9]{3,20}$\/",
+      "required":false,
+      "position":14,
+      "label":{
+        "en":"Beneficiary Document ID",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter Beneficiary Document ID",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      }
+    },
+    {
+      "key":"beneficiary_state",
+      "type":"string",
+      "label":{
+        "en":"State",
+        "ru":"State",
+        "uk":"State"
+      },
+      "regexp":"\/^.{1,100}$\/",
+      "required":false,
+      "position":15,
+      "hint":{
+        "en":"Enter state",
+        "ru":"Enter state",
+        "uk":"Enter state"
+      }
     }
   ],
   "amount_min":"0.01",

@@ -41,7 +41,6 @@
 |`beneficiary_postcode`|✗|`string`|`/^[\w\-\s]{1,64}$/`| 
 |`beneficiary_state`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
 |`beneficiary_address`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
-|`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
 |`sender_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
 |`beneficiary_itn`|✗|`string`|`/^\d{10}$/`| 
 |`payment_purpose`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
@@ -359,25 +358,7 @@
 	: [RU] Введите beneficiary country code 
 	: [UK] Введіть beneficiary country code 
  
-18. **`beneficiary_full_name`** 
- 
-	Type: `string` 
- 
-	Regexp: `/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/` 
- 
-	Required: `` 
- 
-	Label:  
-	: [EN] Beneficiary full name 
-	: [RU] Полное имя получателя 
-	: [UK] Повне імʼя отримувача 
- 
-	Hint:  
-	: [EN] Enter beneficiary full name 
-	: [RU] Введите полное имя получателя 
-	: [UK] Введіть повне імʼя отримувача 
- 
-19. **`sender_full_name`** 
+18. **`sender_full_name`** 
  
 	Type: `string` 
  
@@ -395,7 +376,7 @@
 	: [RU] Введите полное имя отправителя 
 	: [UK] Введіть повне імʼя відправкника 
  
-20. **`beneficiary_itn`** 
+19. **`beneficiary_itn`** 
  
 	Type: `string` 
  
@@ -413,7 +394,7 @@
 	: [RU] Введите ИНН получателя 
 	: [UK] Введіть ІПН отримувача 
  
-21. **`payment_purpose`** 
+20. **`payment_purpose`** 
  
 	Type: `string` 
  
@@ -431,7 +412,7 @@
 	: [RU] Введите назначение платежа 
 	: [UK] Введіть призначення рахунку 
  
-22. **`beneficiary_phone`** 
+21. **`beneficiary_phone`** 
  
 	Type: `string` 
  
@@ -449,7 +430,7 @@
 	: [RU] Введите номер телефона 
 	: [UK] Введіть номер телефону 
  
-23. **`beneficiary_dob`** 
+22. **`beneficiary_dob`** 
  
 	Type: `string` 
  
@@ -467,7 +448,7 @@
 	: [RU] Введите дату рождения 
 	: [UK] Введіть дату народження 
  
-24. **`beneficiary_email`** 
+23. **`beneficiary_email`** 
  
 	Type: `string` 
  
@@ -485,7 +466,7 @@
 	: [RU] Введите Email 
 	: [UK] Введіть Email 
  
-25. **`bank_account`** 
+24. **`bank_account`** 
  
 	Type: `string` 
  
@@ -804,28 +785,11 @@
       }
     },
     {
-      "key":"beneficiary_full_name",
-      "type":"string",
-      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\d\\s]{2,100}$\/",
-      "required":false,
-      "position":18,
-      "label":{
-        "en":"Beneficiary full name",
-        "ru":"\u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
-        "uk":"\u041f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
-      },
-      "hint":{
-        "en":"Enter beneficiary full name",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
-      }
-    },
-    {
       "key":"sender_full_name",
       "type":"string",
       "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\d\\s]{2,100}$\/",
       "required":false,
-      "position":19,
+      "position":18,
       "label":{
         "en":"Sender full name",
         "ru":"\u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
@@ -842,7 +806,7 @@
       "type":"string",
       "regexp":"\/^\\d{10}$\/",
       "required":false,
-      "position":20,
+      "position":19,
       "label":{
         "en":"Beneficiary ITN",
         "ru":"\u0418\u041d\u041d \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
@@ -864,7 +828,7 @@
       },
       "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}]{2,100}$\/u",
       "required":false,
-      "position":21,
+      "position":20,
       "hint":{
         "en":"Enter purpose of payment",
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043f\u043b\u0430\u0442\u0435\u0436\u0430",
@@ -888,14 +852,14 @@
       "example":"6339152330011",
       "regexp":"\/^\\d{10,14}$\/",
       "required":false,
-      "position":22
+      "position":21
     },
     {
       "key":"beneficiary_dob",
       "type":"string",
       "regexp":"\/^([0-2][0-9]|(3)[0-1])(\\\/)(((0)[0-9])|((1)[0-2]))(\\\/)\\d{4}$\/",
       "required":false,
-      "position":23,
+      "position":22,
       "label":{
         "en":"Date of birth",
         "ru":"\u0414\u0430\u0442\u0430 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
@@ -924,7 +888,7 @@
       "example":"johndoe@example.com",
       "regexp":"\/[a-z0-9!#$%&'*+\\\/=?^_`{|}~-]+(?:\\.[a-z0-9!#$%&'*+\\\/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])\/",
       "required":false,
-      "position":24
+      "position":23
     },
     {
       "key":"bank_account",
@@ -940,7 +904,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
       },
-      "position":25,
+      "position":24,
       "required":false
     }
   ],
