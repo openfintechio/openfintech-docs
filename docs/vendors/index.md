@@ -2280,6 +2280,7 @@
 |![vantiv](https://static.openfintech.io/vendors/vantiv/logo.png?w=600&c=v0.59.26#w200) |[**Vantiv**](vantiv/)|`vantiv`| 
 |![vbchange.ru](https://static.openfintech.io/vendors/vbchange.ru/logo.svg?w=600&c=v0.59.26#w200) |[**vbchange**](vbchange.ru/)|`vbchange.ru`| 
 |![vcreditos](https://static.openfintech.io/vendors/vcreditos/logo.svg?w=600&c=v0.59.26#w200) |[**VCreditos**](vcreditos/)|`vcreditos`| 
+|![velpay](https://static.openfintech.io/vendors/velpay/logo.png?w=600&c=v0.59.26#w200) |[**VelPay**](velpay/)|`velpay`| 
 |![vendo](https://static.openfintech.io/vendors/vendo/logo.png?w=600&c=v0.59.26#w200) |[**Vendo Services GmbH**](vendo/)|`vendo`| 
 |![veritransinc](https://static.openfintech.io/vendors/veritransinc/logo.png?w=600&c=v0.59.26#w200) |[**VeriTrans Inc.**](veritransinc/)|`veritransinc`| 
 |![veritransindonesia](https://static.openfintech.io/vendors/veritransindonesia/logo.png?w=600&c=v0.59.26#w200) |[**Veritrans Indonesia**](veritransindonesia/)|`veritransindonesia`| 
