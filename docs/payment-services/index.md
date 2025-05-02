@@ -237,7 +237,10 @@
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_jpy_invoice`](bank_transfer_jpy_invoice/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_kes_hpp`](bank_transfer_kes_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_kes_invoice`](bank_transfer_kes_invoice/)| 
+|![Klarna bank transfer](https://static.openfintech.io/payment_methods/bank_transfer_klarna/logo.svg?w=400&c=v0.59.26#w200) |[**Klarna bank transfer**](/payment-methods/bank_transfer_klarna/)|[`bank_transfer_klarna_eur_hpp`](bank_transfer_klarna_eur_hpp/)| 
+|![Klarna bank transfer](https://static.openfintech.io/payment_methods/bank_transfer_klarna/logo.svg?w=400&c=v0.59.26#w200) |[**Klarna bank transfer**](/payment-methods/bank_transfer_klarna/)|[`bank_transfer_klarna_gbp_hpp`](bank_transfer_klarna_gbp_hpp/)| 
 |![Klarna bank transfer](https://static.openfintech.io/payment_methods/bank_transfer_klarna/logo.svg?w=400&c=v0.59.26#w200) |[**Klarna bank transfer**](/payment-methods/bank_transfer_klarna/)|[`bank_transfer_klarna_pln_hpp`](bank_transfer_klarna_pln_hpp/)| 
+|![Klarna bank transfer](https://static.openfintech.io/payment_methods/bank_transfer_klarna/logo.svg?w=400&c=v0.59.26#w200) |[**Klarna bank transfer**](/payment-methods/bank_transfer_klarna/)|[`bank_transfer_klarna_usd_hpp`](bank_transfer_klarna_usd_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_krw_hpp`](bank_transfer_krw_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_krw_invoice`](bank_transfer_krw_invoice/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_kzt_hpp`](bank_transfer_kzt_hpp/)| 
@@ -898,6 +901,9 @@
 |![Digimeth](https://static.openfintech.io/payment_methods/leobank/logo.svg?w=400&c=v0.59.26#w200) |[**Digimeth**](/payment-methods/leobank/)|[`leobank_azn_invoice`](leobank_azn_invoice/)| 
 |![Lider](https://static.openfintech.io/payment_methods/lider_cash/logo.png?w=400&c=v0.59.26#w200) |[**Lider**](/payment-methods/lider_cash/)|[`lider_cash_clp_hpp`](lider_cash_clp_hpp/)| 
 |![LienVietPostBank](https://static.openfintech.io/payment_methods/lien_viet_post_bank/logo.png?w=400&c=v0.59.26#w200) |[**LienVietPostBank**](/payment-methods/lien_viet_post_bank/)|[`lien_viet_post_bank_vnd_hpp`](lien_viet_post_bank_vnd_hpp/)| 
+|![Link](https://static.openfintech.io/payment_methods/link/logo.svg?w=400&c=v0.59.26#w200) |[**Link**](/payment-methods/link/)|[`link_eur_hpp`](link_eur_hpp/)| 
+|![Link](https://static.openfintech.io/payment_methods/link/logo.svg?w=400&c=v0.59.26#w200) |[**Link**](/payment-methods/link/)|[`link_gbp_hpp`](link_gbp_hpp/)| 
+|![Link](https://static.openfintech.io/payment_methods/link/logo.svg?w=400&c=v0.59.26#w200) |[**Link**](/payment-methods/link/)|[`link_usd_hpp`](link_usd_hpp/)| 
 |![PT Fintek Karya Nusantara Linkaja e-wallet](https://static.openfintech.io/payment_methods/linkaja/logo.svg?w=400&c=v0.59.26#w200) |[**PT Fintek Karya Nusantara Linkaja e-wallet**](/payment-methods/linkaja/)|[`linkaja_idr_hpp`](linkaja_idr_hpp/)| 
 |![LiqPay](https://static.openfintech.io/payment_methods/liqpay/logo.svg?w=400&c=v0.59.26#w200) |[**LiqPay**](/payment-methods/liqpay/)|[`liqpay_eur_hpp`](liqpay_eur_hpp/)| 
 |![LiqPay](https://static.openfintech.io/payment_methods/liqpay/logo.svg?w=400&c=v0.59.26#w200) |[**LiqPay**](/payment-methods/liqpay/)|[`liqpay_rub_hpp`](liqpay_rub_hpp/)| 
@@ -1408,6 +1414,7 @@
 |![PromptPay](https://static.openfintech.io/payment_methods/promptpay/logo.svg?w=400&c=v0.59.26#w200) |[**PromptPay**](/payment-methods/promptpay/)|[`promptpay_thb_hpp`](promptpay_thb_hpp/)| 
 |![Promsvyazbank](https://static.openfintech.io/payment_methods/promsvyazbank/logo.png?w=400&c=v0.59.26#w200) |[**Promsvyazbank**](/payment-methods/promsvyazbank/)|[`promsvyazbank_rub_hpp`](promsvyazbank_rub_hpp/)| 
 |![Przelewy24](https://static.openfintech.io/payment_methods/przelewy24/logo.png?w=400&c=v0.59.26#w200) |[**Przelewy24**](/payment-methods/przelewy24/)|[`przelewy24_eur_hpp`](przelewy24_eur_hpp/)| 
+|![Przelewy24](https://static.openfintech.io/payment_methods/przelewy24/logo.png?w=400&c=v0.59.26#w200) |[**Przelewy24**](/payment-methods/przelewy24/)|[`przelewy24_pln_hpp`](przelewy24_pln_hpp/)| 
 |![Przelewy24](https://static.openfintech.io/payment_methods/przelewy24/logo.png?w=400&c=v0.59.26#w200) |[**Przelewy24**](/payment-methods/przelewy24/)|[`przelewy24_usd_hpp`](przelewy24_usd_hpp/)| 
 |![PSB-Retail](https://static.openfintech.io/payment_methods/psbretail/logo.png?w=400&c=v0.59.26#w200) |[**PSB-Retail**](/payment-methods/psbretail/)|[`psbretail_rub_hpp`](psbretail_rub_hpp/)| 
 |![PSE](https://static.openfintech.io/payment_methods/pse/logo.svg?w=400&c=v0.59.26#w200) |[**PSE**](/payment-methods/pse/)|[`pse_cop_hpp`](pse_cop_hpp/)| 
@@ -1456,6 +1463,7 @@
 |![Reliance JIO Wallet](https://static.openfintech.io/payment_methods/reliance_jio/logo.svg?w=400&c=v0.59.26#w200) |[**Reliance JIO Wallet**](/payment-methods/reliance_jio/)|[`reliance_jio_inr_hpp`](reliance_jio_inr_hpp/)| 
 |![Resurs bank](https://static.openfintech.io/payment_methods/resursbank/logo.svg?w=400&c=v0.59.26#w200) |[**Resurs bank**](/payment-methods/resursbank/)|[`resursbank_eur_hpp`](resursbank_eur_hpp/)| 
 |![Revolut Bank](https://static.openfintech.io/payment_methods/revolut_bank/logo.png?w=400&c=v0.59.26#w200) |[**Revolut Bank**](/payment-methods/revolut_bank/)|[`revolut_bank_eur_hpp`](revolut_bank_eur_hpp/)| 
+|![Revolut Bank](https://static.openfintech.io/payment_methods/revolut_bank/logo.png?w=400&c=v0.59.26#w200) |[**Revolut Bank**](/payment-methods/revolut_bank/)|[`revolut_bank_gbp_hpp`](revolut_bank_gbp_hpp/)| 
 |![RHB Bank (FPX)](https://static.openfintech.io/payment_methods/rhb_bank_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**RHB Bank (FPX)**](/payment-methods/rhb_bank_fpx/)|[`rhb_bank_fpx_myr_hpp`](rhb_bank_fpx_myr_hpp/)| 
 |![RHB Bank](https://static.openfintech.io/payment_methods/rhb_bank/logo.svg?w=400&c=v0.59.26#w200) |[**RHB Bank**](/payment-methods/rhb_bank/)|[`rhb_bank_myr_hpp`](rhb_bank_myr_hpp/)| 
 |![RHB Bank Qr](https://static.openfintech.io/payment_methods/rhb_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**RHB Bank Qr**](/payment-methods/rhb_bank_qr/)|[`rhb_bank_qr_myr_invoice`](rhb_bank_qr_myr_invoice/)| 
@@ -1751,6 +1759,7 @@
 |![Tupay](https://static.openfintech.io/payment_methods/tupay/logo.svg?w=400&c=v0.59.26#w200) |[**Tupay**](/payment-methods/tupay/)|[`tupay_pen_hpp`](tupay_pen_hpp/)| 
 |![Tupay QR](https://static.openfintech.io/payment_methods/tupay_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Tupay QR**](/payment-methods/tupay_qr/)|[`tupay_qr_pen_hpp`](tupay_qr_pen_hpp/)| 
 |![Turkiye Finans](https://static.openfintech.io/payment_methods/turkiye_finans_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Turkiye Finans**](/payment-methods/turkiye_finans_bank/)|[`turkiye_finans_bank_try_invoice`](turkiye_finans_bank_try_invoice/)| 
+|![Twint](https://static.openfintech.io/payment_methods/twint/logo.svg?w=400&c=v0.59.26#w200) |[**Twint**](/payment-methods/twint/)|[`twint_chf_hpp`](twint_chf_hpp/)| 
 ||| **U** ||
 |![UAX](https://static.openfintech.io/payment_methods/uax/logo.svg?w=400&c=v0.59.26#w200) |[**UAX**](/payment-methods/uax/)|[`uax_uah_invoice`](uax_uah_invoice/)| 
 |![UCO Bank](https://static.openfintech.io/payment_methods/uco_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**UCO Bank**](/payment-methods/uco_bank_india/)|[`uco_bank_india_inr_hpp`](uco_bank_india_inr_hpp/)| 

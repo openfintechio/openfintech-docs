@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _bancontac
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![stripe](https://static.openfintech.io/payment_providers/stripe/icon.svg?w=278&c=v0.59.26#w100) |[Stripe](/payment-providers/stripe/)|`stripe`| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![justipay](https://static.openfintech.io/payment_providers/justipay/icon.png?w=278&c=v0.59.26#w100) |[Justipay](/payment-providers/justipay/)|`justipay`| 
 |![rampnow](https://static.openfintech.io/payment_providers/rampnow/icon.svg?w=278&c=v0.59.26#w100) |[Rampnow](/payment-providers/rampnow/)|`rampnow`| 

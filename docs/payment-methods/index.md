@@ -521,6 +521,7 @@
 |![lider](https://static.openfintech.io/payment_methods/lider/logo.png?w=400&c=v0.59.26#w200) |[**Leader**](lider/)|`lider`| 
 |![lider_cash](https://static.openfintech.io/payment_methods/lider_cash/logo.png?w=400&c=v0.59.26#w200) |[**Lider**](lider_cash/)|`lider_cash`| 
 |![lien_viet_post_bank](https://static.openfintech.io/payment_methods/lien_viet_post_bank/logo.png?w=400&c=v0.59.26#w200) |[**LienVietPostBank**](lien_viet_post_bank/)|`lien_viet_post_bank`| 
+|![link](https://static.openfintech.io/payment_methods/link/logo.svg?w=400&c=v0.59.26#w200) |[**Link**](link/)|`link`| 
 |![linkaja](https://static.openfintech.io/payment_methods/linkaja/logo.svg?w=400&c=v0.59.26#w200) |[**PT Fintek Karya Nusantara Linkaja e-wallet**](linkaja/)|`linkaja`| 
 |![liqpay](https://static.openfintech.io/payment_methods/liqpay/logo.svg?w=400&c=v0.59.26#w200) |[**LiqPay**](liqpay/)|`liqpay`| 
 |![liqpay_wallet](https://static.openfintech.io/payment_methods/liqpay_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**LiqPay wallet**](liqpay_wallet/)|`liqpay_wallet`| 
@@ -921,6 +922,7 @@
 |![tupay_bank_transfers](https://static.openfintech.io/payment_methods/tupay_bank_transfers/logo.svg?w=400&c=v0.59.26#w200) |[**Tupay Bank Transfers**](tupay_bank_transfers/)|`tupay_bank_transfers`| 
 |![tupay_qr](https://static.openfintech.io/payment_methods/tupay_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Tupay QR**](tupay_qr/)|`tupay_qr`| 
 |![turkiye_finans_bank](https://static.openfintech.io/payment_methods/turkiye_finans_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Turkiye Finans**](turkiye_finans_bank/)|`turkiye_finans_bank`| 
+|![twint](https://static.openfintech.io/payment_methods/twint/logo.svg?w=400&c=v0.59.26#w200) |[**Twint**](twint/)|`twint`| 
 || **U** ||
 |![uatp](https://static.openfintech.io/payment_methods/uatp/logo.png?w=400&c=v0.59.26#w200) |[**UATP**](uatp/)|`uatp`| 
 |![uax](https://static.openfintech.io/payment_methods/uax/logo.svg?w=400&c=v0.59.26#w200) |[**UAX**](uax/)|`uax`| 

@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Revolut Bank_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![revolut_bank](https://static.openfintech.io/payment_methods/revolut_bank/icon.png?w=278&c=v0.59.26#w100) |[revolut_bank_eur_hpp](/payment-services/revolut_bank_eur_hpp/)|`revolut_bank_eur_hpp`| 
+|![revolut_bank](https://static.openfintech.io/payment_methods/revolut_bank/icon.png?w=278&c=v0.59.26#w100) |[revolut_bank_gbp_hpp](/payment-services/revolut_bank_gbp_hpp/)|`revolut_bank_gbp_hpp`| 
  
 
 ## Payment Providers 
@@ -45,6 +46,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Revolut B
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![stripe](https://static.openfintech.io/payment_providers/stripe/icon.svg?w=278&c=v0.59.26#w100) |[Stripe](/payment-providers/stripe/)|`stripe`| 
 |![bitexpro](https://static.openfintech.io/payment_providers/bitexpro/icon.png?w=278&c=v0.59.26#w100) |[BitexPRO](/payment-providers/bitexpro/)|`bitexpro`| 
 |![gateiq](https://static.openfintech.io/payment_providers/gateiq/icon.svg?w=278&c=v0.59.26#w100) |[GateIQ](/payment-providers/gateiq/)|`gateiq`| 
  

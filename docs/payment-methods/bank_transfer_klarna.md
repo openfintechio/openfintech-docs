@@ -44,6 +44,9 @@ The list of [Payment Services](/payment-services/) based on the _Klarna bank tra
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_klarna_pln_hpp](/payment-services/bank_transfer_klarna_pln_hpp/)|`bank_transfer_klarna_pln_hpp`| 
+|![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_klarna_eur_hpp](/payment-services/bank_transfer_klarna_eur_hpp/)|`bank_transfer_klarna_eur_hpp`| 
+|![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_klarna_usd_hpp](/payment-services/bank_transfer_klarna_usd_hpp/)|`bank_transfer_klarna_usd_hpp`| 
+|![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_klarna_gbp_hpp](/payment-services/bank_transfer_klarna_gbp_hpp/)|`bank_transfer_klarna_gbp_hpp`| 
  
 
 ## Payment Providers 
@@ -57,6 +60,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Klarna ba
 |![paymill](https://static.openfintech.io/payment_providers/paymill/icon.png?w=278&c=v0.59.26#w100) |[PAYMILL](/payment-providers/paymill/)|`paymill`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
+|![stripe](https://static.openfintech.io/payment_providers/stripe/icon.svg?w=278&c=v0.59.26#w100) |[Stripe](/payment-providers/stripe/)|`stripe`| 
 |![spryng](https://static.openfintech.io/payment_providers/spryng/icon.png?w=278&c=v0.59.26#w100) |[Spryng Payments](/payment-providers/spryng/)|`spryng`| 
 |![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/icon.png?w=278&c=v0.59.26#w100) |[Buckaroo](/payment-providers/buckaroo/)|`buckaroo`| 
 |![multisafepay](https://static.openfintech.io/payment_providers/multisafepay/icon.png?w=278&c=v0.59.26#w100) |[MultiSafepay](/payment-providers/multisafepay/)|`multisafepay`| 

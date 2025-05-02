@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Amazon Pa
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![stripe](https://static.openfintech.io/payment_providers/stripe/icon.svg?w=278&c=v0.59.26#w100) |[Stripe](/payment-providers/stripe/)|`stripe`| 
 |![virtouspayments](https://static.openfintech.io/payment_providers/virtouspayments/icon.png?w=278&c=v0.59.26#w100) |[Virtous Payments](/payment-providers/virtouspayments/)|`virtouspayments`| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
 |![odeonpay](https://static.openfintech.io/payment_providers/odeonpay/icon.png?w=278&c=v0.59.26#w100) |[OdeonPay](/payment-providers/odeonpay/)|`odeonpay`| 

@@ -41,6 +41,7 @@ The list of [Payment Services](/payment-services/) based on the _Przelewy24_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.png?w=278&c=v0.59.26#w100) |[przelewy24_eur_hpp](/payment-services/przelewy24_eur_hpp/)|`przelewy24_eur_hpp`| 
+|![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.png?w=278&c=v0.59.26#w100) |[przelewy24_pln_hpp](/payment-services/przelewy24_pln_hpp/)|`przelewy24_pln_hpp`| 
 |![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.png?w=278&c=v0.59.26#w100) |[przelewy24_usd_hpp](/payment-services/przelewy24_usd_hpp/)|`przelewy24_usd_hpp`| 
  
 
@@ -55,6 +56,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Przelewy2
 |![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
+|![stripe](https://static.openfintech.io/payment_providers/stripe/icon.svg?w=278&c=v0.59.26#w100) |[Stripe](/payment-providers/stripe/)|`stripe`| 
 |![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
 |![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/icon.png?w=278&c=v0.59.26#w100) |[Alternative Payments](/payment-providers/alternativepayments/)|`alternativepayments`| 
 |![kalixa](https://static.openfintech.io/payment_providers/kalixa/icon.png?w=278&c=v0.59.26#w100) |[Kalixa Payments Group](/payment-providers/kalixa/)|`kalixa`| 

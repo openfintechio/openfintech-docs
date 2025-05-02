@@ -62,6 +62,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Google Pa
 |:---:|:---:|:---:| 
 |![4bill](https://static.openfintech.io/payment_providers/4bill/icon.svg?w=278&c=v0.59.26#w100) |[SettlePay](/payment-providers/4bill/)|`4bill`| 
 |![portmone](https://static.openfintech.io/payment_providers/portmone/icon.svg?w=278&c=v0.59.26#w100) |[Portmone.com](/payment-providers/portmone/)|`portmone`| 
+|![stripe](https://static.openfintech.io/payment_providers/stripe/icon.svg?w=278&c=v0.59.26#w100) |[Stripe](/payment-providers/stripe/)|`stripe`| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![tranzzo](https://static.openfintech.io/payment_providers/tranzzo/icon.svg?w=278&c=v0.59.26#w100) |[Tranzzo](/payment-providers/tranzzo/)|`tranzzo`| 
 |![billline](https://static.openfintech.io/payment_providers/billline/icon.svg?w=278&c=v0.59.26#w100) |[bill_line](/payment-providers/billline/)|`billline`| 
