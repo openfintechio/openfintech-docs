@@ -43,6 +43,7 @@ The list of [Payment Services](/payment-services/) based on the _Google Pay_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_aud_hpp](/payment-services/googlepay_aud_hpp/)|`googlepay_aud_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_cad_hpp](/payment-services/googlepay_cad_hpp/)|`googlepay_cad_hpp`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_nzd_hpp](/payment-services/googlepay_nzd_hpp/)|`googlepay_nzd_hpp`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_uah_hpp](/payment-services/googlepay_uah_hpp/)|`googlepay_uah_hpp`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_rub_hpp](/payment-services/googlepay_rub_hpp/)|`googlepay_rub_hpp`| 
