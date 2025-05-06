@@ -567,6 +567,7 @@
 |![mobikwik](https://static.openfintech.io/payment_methods/mobikwik/logo.png?w=400&c=v0.59.26#w200) |[**MobiKwik**](mobikwik/)|`mobikwik`| 
 |![mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](mobile/)|`mobile`| 
 |![mobile_money](https://static.openfintech.io/payment_methods/mobile_money/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile Money**](mobile_money/)|`mobile_money`| 
+|![mobilepay](https://static.openfintech.io/payment_methods/mobilepay/logo.svg?w=400&c=v0.59.26#w200) |[**MobilePay**](mobilepay/)|`mobilepay`| 
 |![momo](https://static.openfintech.io/payment_methods/momo/logo.png?w=400&c=v0.59.26#w200) |[**Momo**](momo/)|`momo`| 
 |![momo_qr](https://static.openfintech.io/payment_methods/momo_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Momo QR**](momo_qr/)|`momo_qr`| 
 |![momopay](https://static.openfintech.io/payment_methods/momopay/logo.png?w=400&c=v0.59.26#w200) |[**MoMoPay**](momopay/)|`momopay`| 
