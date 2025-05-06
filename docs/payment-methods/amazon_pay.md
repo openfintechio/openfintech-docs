@@ -37,6 +37,9 @@ The list of [Payment Services](/payment-services/) based on the _Amazon Pay_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![amazon_pay](https://static.openfintech.io/payment_methods/amazon_pay/icon.svg?w=278&c=v0.59.26#w100) |[amazon_pay_inr_hpp](/payment-services/amazon_pay_inr_hpp/)|`amazon_pay_inr_hpp`| 
+|![amazon_pay](https://static.openfintech.io/payment_methods/amazon_pay/icon.svg?w=278&c=v0.59.26#w100) |[amazon_pay_eur_hpp](/payment-services/amazon_pay_eur_hpp/)|`amazon_pay_eur_hpp`| 
+|![amazon_pay](https://static.openfintech.io/payment_methods/amazon_pay/icon.svg?w=278&c=v0.59.26#w100) |[amazon_pay_usd_hpp](/payment-services/amazon_pay_usd_hpp/)|`amazon_pay_usd_hpp`| 
+|![amazon_pay](https://static.openfintech.io/payment_methods/amazon_pay/icon.svg?w=278&c=v0.59.26#w100) |[amazon_pay_gbp_hpp](/payment-services/amazon_pay_gbp_hpp/)|`amazon_pay_gbp_hpp`| 
  
 
 ## Payment Providers 

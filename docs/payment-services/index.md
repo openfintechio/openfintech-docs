@@ -59,7 +59,10 @@
 |![Alliance Bank Malaysia Berhad](https://static.openfintech.io/payment_methods/alliance_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Alliance Bank Malaysia Berhad**](/payment-methods/alliance_bank/)|[`alliance_bank_myr_hpp`](alliance_bank_myr_hpp/)| 
 |![Almacenes Exito](https://static.openfintech.io/payment_methods/almacenes_exito/logo.svg?w=400&c=v0.59.26#w200) |[**Almacenes Exito**](/payment-methods/almacenes_exito/)|[`almacenes_exito_cop_hpp`](almacenes_exito_cop_hpp/)| 
 |![Tele2/Altel](https://static.openfintech.io/payment_methods/altel_tele2/logo.svg?w=400&c=v0.59.26#w200) |[**Tele2/Altel**](/payment-methods/altel_tele2/)|[`altel_tele2_kzt_hpp`](altel_tele2_kzt_hpp/)| 
+|![Amazon Pay](https://static.openfintech.io/payment_methods/amazon_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Amazon Pay**](/payment-methods/amazon_pay/)|[`amazon_pay_eur_hpp`](amazon_pay_eur_hpp/)| 
+|![Amazon Pay](https://static.openfintech.io/payment_methods/amazon_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Amazon Pay**](/payment-methods/amazon_pay/)|[`amazon_pay_gbp_hpp`](amazon_pay_gbp_hpp/)| 
 |![Amazon Pay](https://static.openfintech.io/payment_methods/amazon_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Amazon Pay**](/payment-methods/amazon_pay/)|[`amazon_pay_inr_hpp`](amazon_pay_inr_hpp/)| 
+|![Amazon Pay](https://static.openfintech.io/payment_methods/amazon_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Amazon Pay**](/payment-methods/amazon_pay/)|[`amazon_pay_usd_hpp`](amazon_pay_usd_hpp/)| 
 |![AmBank](https://static.openfintech.io/payment_methods/ambank_berhad/logo.svg?w=400&c=v0.59.26#w200) |[**AmBank**](/payment-methods/ambank_berhad/)|[`ambank_berhad_myr_hpp`](ambank_berhad_myr_hpp/)| 
 |![Ambank (FPX), Malaysia](https://static.openfintech.io/payment_methods/ambank_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**Ambank (FPX), Malaysia**](/payment-methods/ambank_fpx/)|[`ambank_fpx_myr_hpp`](ambank_fpx_myr_hpp/)| 
 |![American Express](https://static.openfintech.io/payment_methods/americanexpress/logo.svg?w=400&c=v0.59.26#w200) |[**American Express**](/payment-methods/americanexpress/)|[`americanexpress_eur_hpp`](americanexpress_eur_hpp/)| 
