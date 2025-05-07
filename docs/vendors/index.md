@@ -950,6 +950,7 @@
 |![gu_dksu_v_ark_m_simferopol](https://static.openfintech.io/vendors/gu_dksu_v_ark_m_simferopol/logo.svg?w=600&c=v0.59.26#w200) |[**ГОЛОВНЕ УПРАВЛІННЯ ДЕРЖАВНОЇ КАЗНАЧЕЙСЬКОЇ СЛУЖБИ УКРАЇНИ В АВТОНОМНІЙ РЕСПУБЛІЦІ КРИМ**](gu_dksu_v_ark_m_simferopol/)|`gu_dksu_v_ark_m_simferopol`| 
 |![gu_dksu_v_ivano_frankivskiyi_oblasti](https://static.openfintech.io/vendors/gu_dksu_v_ivano_frankivskiyi_oblasti/logo.svg?w=600&c=v0.59.26#w200) |[**ГОЛОВНЕ УПРАВЛІННЯ ДЕРЖАВНОЇ КАЗНАЧЕЙСЬКОЇ СЛУЖБИ УКРАЇНИ В ІВАНО-ФРАНКІВСЬКІЙ ОБЛАСТІ**](gu_dksu_v_ivano_frankivskiyi_oblasti/)|`gu_dksu_v_ivano_frankivskiyi_oblasti`| 
 |![gu_dksu_v_odeskij_oblasti](https://static.openfintech.io/vendors/gu_dksu_v_odeskij_oblasti/logo.svg?w=600&c=v0.59.26#w200) |[**ГОЛОВНЕ УПРАВЛІННЯ ДЕРЖАВНОЇ КАЗНАЧЕЙСЬКОЇ СЛУЖБИ УКРАЇНИ В ОДЕСЬКІЙ ОБЛАСТІ**](gu_dksu_v_odeskij_oblasti/)|`gu_dksu_v_odeskij_oblasti`| 
+|![guava](https://static.openfintech.io/vendors/guava/logo.svg?w=600&c=v0.59.26#w200) |[**Guava**](guava/)|`guava`| 
 |![gumballpay](https://static.openfintech.io/vendors/gumballpay/logo.svg?w=600&c=v0.59.26#w200) |[**GumballPay**](gumballpay/)|`gumballpay`| 
 |![gunma_bank](https://static.openfintech.io/vendors/gunma_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Gunma Bank**](gunma_bank/)|`gunma_bank`| 
 || **H** ||

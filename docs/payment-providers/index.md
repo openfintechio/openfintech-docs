@@ -417,6 +417,7 @@
 |![graypay](https://static.openfintech.io/payment_providers/graypay/logo.png?w=600&c=v0.59.26#w100) |[**GRAYPAY**](graypay/)|`graypay`| 
 |![greta11](https://static.openfintech.io/payment_providers/greta11/logo.png?w=600&c=v0.59.26#w100) |[**Greta11**](greta11/)|`greta11`| 
 |![groupecreditmutuel](https://static.openfintech.io/payment_providers/groupecreditmutuel/logo.png?w=600&c=v0.59.26#w100) |[**Groupe Credit Mutuel**](groupecreditmutuel/)|`groupecreditmutuel`| 
+|![guava](https://static.openfintech.io/payment_providers/guava/logo.svg?w=600&c=v0.59.26#w100) |[**Guava**](guava/)|`guava`| 
 |![gumballpay](https://static.openfintech.io/payment_providers/gumballpay/logo.svg?w=600&c=v0.59.26#w100) |[**GumballPay**](gumballpay/)|`gumballpay`| 
 || **H** ||
 |![hashconnect](https://static.openfintech.io/payment_providers/hashconnect/logo.png?w=600&c=v0.59.26#w100) |[**Hashconnect**](hashconnect/)|`hashconnect`| 
