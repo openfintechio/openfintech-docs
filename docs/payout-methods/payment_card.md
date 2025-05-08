@@ -279,6 +279,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![odysseq](https://static.openfintech.io/payment_providers/odysseq/icon.svg?w=278&c=v0.59.26#w100) |[Odysseq](/payment-providers/odysseq/)|`odysseq`| 
 |![rapyd](https://static.openfintech.io/payment_providers/rapyd/icon.svg?w=278&c=v0.59.26#w100) |[Rapyd.net](/payment-providers/rapyd/)|`rapyd`| 
 |![alfabank](https://static.openfintech.io/payment_providers/alfabank/icon.svg?w=278&c=v0.59.26#w100) |[Sense Bank](/payment-providers/alfabank/)|`alfabank`| 
+|![sensebank](https://static.openfintech.io/payment_providers/sensebank/icon.svg?w=278&c=v0.59.26#w100) |[Sense Bank](/payment-providers/sensebank/)|`sensebank`| 
 |![concord](https://static.openfintech.io/payment_providers/concord/icon.svg?w=278&c=v0.59.26#w100) |[Concord Bank](/payment-providers/concord/)|`concord`| 
 |![procard](https://static.openfintech.io/payment_providers/procard/icon.png?w=278&c=v0.59.26#w100) |[Procard](/payment-providers/procard/)|`procard`| 
 |![forwardbank](https://static.openfintech.io/payment_providers/forwardbank/icon.svg?w=278&c=v0.59.26#w100) |[Forward Bank](/payment-providers/forwardbank/)|`forwardbank`| 
