@@ -39,6 +39,11 @@ The list of [Payout Services](/payout-services/) based on the _Bank Transfer Agg
 |![bank_transfer_aggregated](https://static.openfintech.io/payout_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_aggregated_usd](/payout-services/bank_transfer_aggregated_usd/)|`bank_transfer_aggregated_usd`| 
 |![bank_transfer_aggregated](https://static.openfintech.io/payout_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_aggregated_eur](/payout-services/bank_transfer_aggregated_eur/)|`bank_transfer_aggregated_eur`| 
 |![bank_transfer_aggregated](https://static.openfintech.io/payout_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_aggregated_gbp](/payout-services/bank_transfer_aggregated_gbp/)|`bank_transfer_aggregated_gbp`| 
+|![bank_transfer_aggregated](https://static.openfintech.io/payout_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_aggregated_cad](/payout-services/bank_transfer_aggregated_cad/)|`bank_transfer_aggregated_cad`| 
+|![bank_transfer_aggregated](https://static.openfintech.io/payout_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_aggregated_aud](/payout-services/bank_transfer_aggregated_aud/)|`bank_transfer_aggregated_aud`| 
+|![bank_transfer_aggregated](https://static.openfintech.io/payout_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_aggregated_nzd](/payout-services/bank_transfer_aggregated_nzd/)|`bank_transfer_aggregated_nzd`| 
+|![bank_transfer_aggregated](https://static.openfintech.io/payout_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_aggregated_nok](/payout-services/bank_transfer_aggregated_nok/)|`bank_transfer_aggregated_nok`| 
+|![bank_transfer_aggregated](https://static.openfintech.io/payout_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_aggregated_sek](/payout-services/bank_transfer_aggregated_sek/)|`bank_transfer_aggregated_sek`| 
 |![bank_transfer_aggregated](https://static.openfintech.io/payout_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_aggregated_chf](/payout-services/bank_transfer_aggregated_chf/)|`bank_transfer_aggregated_chf`| 
  
 
