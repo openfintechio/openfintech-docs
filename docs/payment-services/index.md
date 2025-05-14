@@ -1519,6 +1519,7 @@
 |![Sense Bank](https://static.openfintech.io/payment_methods/sensebank/logo.png?w=400&c=v0.59.26#w200) |[**Sense Bank**](/payment-methods/sensebank/)|[`sensebank_uah_invoice`](sensebank_uah_invoice/)| 
 |![Sepa Transfer](https://static.openfintech.io/payment_methods/sepa_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Sepa Transfer**](/payment-methods/sepa_transfer/)|[`sepa_transfer_cad_hpp`](sepa_transfer_cad_hpp/)| 
 |![Sepa Transfer](https://static.openfintech.io/payment_methods/sepa_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Sepa Transfer**](/payment-methods/sepa_transfer/)|[`sepa_transfer_eur_hpp`](sepa_transfer_eur_hpp/)| 
+|![Sepa Transfer Instant](https://static.openfintech.io/payment_methods/sepa_transfer_instant/logo.svg?w=400&c=v0.59.26#w200) |[**Sepa Transfer Instant**](/payment-methods/sepa_transfer_instant/)|[`sepa_transfer_instant_eur_hpp`](sepa_transfer_instant_eur_hpp/)| 
 |![Sepa Transfer](https://static.openfintech.io/payment_methods/sepa_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Sepa Transfer**](/payment-methods/sepa_transfer/)|[`sepa_transfer_usd_hpp`](sepa_transfer_usd_hpp/)| 
 |![Servipag](https://static.openfintech.io/payment_methods/servipag/logo.png?w=400&c=v0.59.26#w200) |[**Servipag**](/payment-methods/servipag/)|[`servipag_clp_hpp`](servipag_clp_hpp/)| 
 |![ServiPagos](https://static.openfintech.io/payment_methods/servipagos/logo.svg?w=400&c=v0.59.26#w200) |[**ServiPagos**](/payment-methods/servipagos/)|[`servipagos_usd_hpp`](servipagos_usd_hpp/)| 

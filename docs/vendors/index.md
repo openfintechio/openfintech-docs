@@ -1936,6 +1936,7 @@
 |![saikyo_bank](https://static.openfintech.io/vendors/saikyo_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Saikyo Bank**](saikyo_bank/)|`saikyo_bank`| 
 |![saitama_resona_bank](https://static.openfintech.io/vendors/saitama_resona_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Saitama Resona Bank**](saitama_resona_bank/)|`saitama_resona_bank`| 
 |![saltarpay](https://static.openfintech.io/vendors/saltarpay/logo.png?w=600&c=v0.59.26#w200) |[**SaltarPay**](saltarpay/)|`saltarpay`| 
+|![saltedge](https://static.openfintech.io/vendors/saltedge/logo.svg?w=600&c=v0.59.26#w200) |[**SaltEdge**](saltedge/)|`saltedge`| 
 |![san_in_godo_bank](https://static.openfintech.io/vendors/san_in_godo_bank/logo.svg?w=600&c=v0.59.26#w200) |[**SAN-IN GODO BANK**](san_in_godo_bank/)|`san_in_godo_bank`| 
 |![santander](https://static.openfintech.io/vendors/santander/logo.png?w=600&c=v0.59.26#w200) |[**Santander**](santander/)|`santander`| 
 |![satchelpay](https://static.openfintech.io/vendors/satchelpay/logo.png?w=600&c=v0.59.26#w200) |[**Satchel**](satchelpay/)|`satchelpay`| 
@@ -2386,6 +2387,7 @@
 |![ww-pay.net](https://static.openfintech.io/vendors/ww-pay.net/logo.svg?w=600&c=v0.59.26#w200) |[**WW-Pay**](ww-pay.net/)|`ww-pay.net`| 
 |![wzrdpay](https://static.openfintech.io/vendors/wzrdpay/logo.png?w=600&c=v0.59.26#w200) |[**WZRD PAY**](wzrdpay/)|`wzrdpay`| 
 || **X** ||
+|![xmgate](https://static.openfintech.io/vendors/xmgate/logo.svg?w=600&c=v0.59.26#w200) |[**Xmgate**](xmgate/)|`xmgate`| 
 |![xn--80aa7cln](https://static.openfintech.io/vendors/xn--80aa7cln/logo.svg?w=600&c=v0.59.26#w200) |[**Шахта**](xn--80aa7cln/)|`xn--80aa7cln`| 
 |![xn--e1aidfgi0j.ua](https://static.openfintech.io/vendors/xn--e1aidfgi0j.ua/logo.svg?w=600&c=v0.59.26#w200) |[**Menyaiko**](xn--e1aidfgi0j.ua/)|`xn--e1aidfgi0j.ua`| 
 |![xoompay](https://static.openfintech.io/vendors/xoompay/logo.png?w=600&c=v0.59.26#w200) |[**Xoompay**](xoompay/)|`xoompay`| 

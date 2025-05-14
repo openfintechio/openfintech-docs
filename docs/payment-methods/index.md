@@ -809,6 +809,7 @@
 |![sencillito](https://static.openfintech.io/payment_methods/sencillito/logo.svg?w=400&c=v0.59.26#w200) |[**Sencillito**](sencillito/)|`sencillito`| 
 |![sensebank](https://static.openfintech.io/payment_methods/sensebank/logo.png?w=400&c=v0.59.26#w200) |[**Sense Bank**](sensebank/)|`sensebank`| 
 |![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Sepa Transfer**](sepa_transfer/)|`sepa_transfer`| 
+|![sepa_transfer_instant](https://static.openfintech.io/payment_methods/sepa_transfer_instant/logo.svg?w=400&c=v0.59.26#w200) |[**Sepa Transfer Instant**](sepa_transfer_instant/)|`sepa_transfer_instant`| 
 |![sepacredittransfer](https://static.openfintech.io/payment_methods/sepacredittransfer/logo.svg?w=400&c=v0.59.26#w200) |[**SEPA Credit Transfer**](sepacredittransfer/)|`sepacredittransfer`| 
 |![sepadirectdebit](https://static.openfintech.io/payment_methods/sepadirectdebit/logo.svg?w=400&c=v0.59.26#w200) |[**SEPA Direct Debit**](sepadirectdebit/)|`sepadirectdebit`| 
 |![serfinanza_bank](https://static.openfintech.io/payment_methods/serfinanza_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BANCO SERFINANZA**](serfinanza_bank/)|`serfinanza_bank`| 

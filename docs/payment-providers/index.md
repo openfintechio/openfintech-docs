@@ -892,6 +892,7 @@
 |![safexpay](https://static.openfintech.io/payment_providers/safexpay/logo.png?w=600&c=v0.59.26#w100) |[**Safexpay**](safexpay/)|`safexpay`| 
 |![sagepay3](https://static.openfintech.io/payment_providers/sagepay3/logo.svg?w=600&c=v0.59.26#w100) |[**Sage Pay**](sagepay3/)|`sagepay3`| 
 |![saltarpay](https://static.openfintech.io/payment_providers/saltarpay/logo.png?w=600&c=v0.59.26#w100) |[**SaltarPay**](saltarpay/)|`saltarpay`| 
+|![saltedge](https://static.openfintech.io/payment_providers/saltedge/logo.svg?w=600&c=v0.59.26#w100) |[**SaltEdge**](saltedge/)|`saltedge`| 
 |![satchelpay](https://static.openfintech.io/payment_providers/satchelpay/logo.png?w=600&c=v0.59.26#w100) |[**Satchel**](satchelpay/)|`satchelpay`| 
 |![sbm](https://static.openfintech.io/payment_providers/sbm/logo.png?w=600&c=v0.59.26#w100) |[**State Bank of Mauritius**](sbm/)|`sbm`| 
 |![sbpay](https://static.openfintech.io/payment_providers/sbpay/logo.png?w=600&c=v0.59.26#w100) |[**SBPay**](sbpay/)|`sbpay`| 
@@ -1088,6 +1089,7 @@
 |![wpayments](https://static.openfintech.io/payment_providers/wpayments/logo.png?w=600&c=v0.59.26#w100) |[**WPayments**](wpayments/)|`wpayments`| 
 |![wzrdpay](https://static.openfintech.io/payment_providers/wzrdpay/logo.png?w=600&c=v0.59.26#w100) |[**WZRD PAY**](wzrdpay/)|`wzrdpay`| 
 || **X** ||
+|![xmgate](https://static.openfintech.io/payment_providers/xmgate/logo.svg?w=600&c=v0.59.26#w100) |[**Xmgate**](xmgate/)|`xmgate`| 
 |![xoompay](https://static.openfintech.io/payment_providers/xoompay/logo.png?w=600&c=v0.59.26#w100) |[**Xoompay**](xoompay/)|`xoompay`| 
 |![xpate](https://static.openfintech.io/payment_providers/xpate/logo.svg?w=600&c=v0.59.26#w100) |[**Xpate**](xpate/)|`xpate`| 
 |![xpayua](https://static.openfintech.io/payment_providers/xpayua/logo.svg?w=600&c=v0.59.26#w100) |[**XPAY**](xpayua/)|`xpayua`| 
