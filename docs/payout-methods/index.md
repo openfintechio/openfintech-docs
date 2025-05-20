@@ -1434,6 +1434,7 @@
 |![p-iatikhatskii-rem-tsok-piatikhatskogo-r-nu](https://static.openfintech.io/payout_methods/p-iatikhatskii-rem-tsok-piatikhatskogo-r-nu/logo.png?w=400&c=v0.59.26#w24) |[**Pyatikhatsky RES (CSC Pyatikhatsky district)**](p-iatikhatskii-rem-tsok-piatikhatskogo-r-nu/)|`p-iatikhatskii-rem-tsok-piatikhatskogo-r-nu`| 
 |![paga](https://static.openfintech.io/payout_methods/paga/logo.svg?w=400&c=v0.59.26#w24) |[**Paga**](paga/)|`paga`| 
 |![page_financials](https://static.openfintech.io/payout_methods/page_financials/logo.svg?w=400&c=v0.59.26#w24) |[**Page Financials**](page_financials/)|`page_financials`| 
+|![pagomovil](https://static.openfintech.io/payout_methods/pagomovil/logo.png?w=400&c=v0.59.26#w24) |[**PagoMóvil**](pagomovil/)|`pagomovil`| 
 |![palmpay](https://static.openfintech.io/payout_methods/palmpay/logo.svg?w=400&c=v0.59.26#w24) |[**Palmpay**](palmpay/)|`palmpay`| 
 |![pan-telekom-kiev](https://static.openfintech.io/payout_methods/pan-telekom-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Pan-Telecom (Kiev)**](pan-telekom-kiev/)|`pan-telekom-kiev`| 
 |![panin_bank](https://static.openfintech.io/payout_methods/panin_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Panin Bank**](panin_bank/)|`panin_bank`| 

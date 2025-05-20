@@ -52,6 +52,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |:---:|:---:|:---:| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
 |![pix](https://static.openfintech.io/payout_methods/pix/icon.svg?w=278&c=v0.59.26#w40) |[pix](payout-methodspix/)|`pix`| 
+|![pagomovil](https://static.openfintech.io/payout_methods/pagomovil/icon.png?w=278&c=v0.59.26#w40) |[pagomovil](payout-methodspagomovil/)|`pagomovil`| 
  
 
 ## JSON Object 
@@ -70,7 +71,8 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "payout_method":[
     "bank_transfer",
-    "pix"
+    "pix",
+    "pagomovil"
   ],
   "metadata":null,
   "name":{
