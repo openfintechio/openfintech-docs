@@ -40,6 +40,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bank_qr](https://static.openfintech.io/payment_methods/bank_qr/icon.svg?w=278&c=v0.59.26#w100) |[bank_qr](/payment-methods/bank_qr/)|`bank_qr`| 
+|![jazzcash](https://static.openfintech.io/payment_methods/jazzcash/icon.svg?w=278&c=v0.59.26#w100) |[jazzcash](/payment-methods/jazzcash/)|`jazzcash`| 
+|![easypaisa](https://static.openfintech.io/payment_methods/easypaisa/icon.svg?w=278&c=v0.59.26#w100) |[easypaisa](/payment-methods/easypaisa/)|`easypaisa`| 
  
 
 ## Payout Methods 
@@ -61,7 +63,9 @@ The list of supported [Payout Methods](/payout-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    "bank_qr"
+    "bank_qr",
+    "jazzcash",
+    "easypaisa"
   ],
   "payout_method":[
     "bank_transfer"

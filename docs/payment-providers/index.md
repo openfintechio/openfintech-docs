@@ -532,6 +532,7 @@
 |![manual](https://static.openfintech.io/payment_providers/manual/logo.svg?w=600&c=v0.59.26#w100) |[**Manual**](manual/)|`manual`| 
 |![masterpayment](https://static.openfintech.io/payment_providers/masterpayment/logo.png?w=600&c=v0.59.26#w100) |[**Masterpayment**](masterpayment/)|`masterpayment`| 
 |![match2pay](https://static.openfintech.io/payment_providers/match2pay/logo.png?w=600&c=v0.59.26#w100) |[**Match2Pay**](match2pay/)|`match2pay`| 
+|![matrixpay](https://static.openfintech.io/payment_providers/matrixpay/logo.png?w=600&c=v0.59.26#w100) |[**MatrixPay**](matrixpay/)|`matrixpay`| 
 |![maxconnectsingaporepteltd](https://static.openfintech.io/payment_providers/maxconnectsingaporepteltd/logo.png?w=600&c=v0.59.26#w100) |[**Maxconnect**](maxconnectsingaporepteltd/)|`maxconnectsingaporepteltd`| 
 |![maxipago](https://static.openfintech.io/payment_providers/maxipago/logo.png?w=600&c=v0.59.26#w100) |[**maxiPago!**](maxipago/)|`maxipago`| 
 |![maxpay](https://static.openfintech.io/payment_providers/maxpay/logo.svg?w=600&c=v0.59.26#w100) |[**Maxpay**](maxpay/)|`maxpay`| 
