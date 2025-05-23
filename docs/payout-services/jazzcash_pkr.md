@@ -30,6 +30,8 @@
 |`province`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`city`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`full_address`|✗|`string`|`/^[A-Za-z{*}, -d]{2,64}$/`| 
+|`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
+|`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
  
 
 ### Details 
@@ -142,6 +144,42 @@
 	: [RU] Введите адрес 
 	: [UK] Введіть адресу 
  
+7. **`beneficiary_full_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary full name 
+	: [RU] Полное имя получателя 
+	: [UK] Повне імʼя отримувача 
+ 
+	Hint:  
+	: [EN] Enter beneficiary full name 
+	: [RU] Введите полное имя получателя 
+	: [UK] Введіть повне імʼя отримувача 
+ 
+8. **`bank_code`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z0-9]{2,20}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank Code 
+	: [RU] Код банка 
+	: [UK] Код банку 
+ 
+	Hint:  
+	: [EN] Enter bank code 
+	: [RU] Введите код банка 
+	: [UK] Введіть код банку 
+ 
 
 ## JSON Object 
 
@@ -253,6 +291,40 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0430\u0434\u0440\u0435\u0441\u0443"
       },
       "regexp":"\/^[A-Za-z{*}, -d]{2,64}$\/"
+    },
+    {
+      "key":"beneficiary_full_name",
+      "type":"string",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\d\\s]{2,100}$\/",
+      "required":false,
+      "position":7,
+      "label":{
+        "en":"Beneficiary full name",
+        "ru":"\u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u041f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter beneficiary full name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      }
+    },
+    {
+      "key":"bank_code",
+      "type":"string",
+      "regexp":"\/^[A-Za-z0-9]{2,20}$\/",
+      "required":false,
+      "position":8,
+      "label":{
+        "en":"Bank Code",
+        "ru":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter bank code",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443"
+      }
     }
   ],
   "amount_min":"1",

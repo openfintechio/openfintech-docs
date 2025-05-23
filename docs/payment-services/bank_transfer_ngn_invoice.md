@@ -25,9 +25,9 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`payer_email`|✔|`string`|`/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$/`| 
-|`payer_phone_number`|✔|`string`|`/^\+\d{10,14}$/`| 
-|`payer_full_name`|✔|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
+|`payer_email`|✗|`string`|`/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$/`| 
+|`payer_phone_number`|✗|`string`|`/^\+\d{10,14}$/`| 
+|`payer_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
  
 
 ### Details 
@@ -38,7 +38,7 @@
  
 	Regexp: `/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Payer email 
@@ -56,7 +56,7 @@
  
 	Regexp: `/^\+\d{10,14}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Payer phone number 
@@ -74,7 +74,7 @@
  
 	Regexp: `/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Payer full name 
@@ -110,14 +110,14 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c email \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
       },
       "regexp":"\/^([a-z0-9_-]+\\.)*[a-z0-9_-]+@[a-z0-9_-]+(\\.[a-z0-9_-]+)*\\.[a-z]{2,6}$\/",
-      "required":true,
+      "required":false,
       "position":1
     },
     {
       "key":"payer_phone_number",
       "type":"string",
       "regexp":"\/^\\+\\d{10,14}$\/",
-      "required":true,
+      "required":false,
       "position":2,
       "example":"+234742044295",
       "label":{
@@ -145,7 +145,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
       },
       "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\d\\s]{2,100}$\/",
-      "required":true,
+      "required":false,
       "example":"VAN TUONG LAN",
       "position":3
     }
