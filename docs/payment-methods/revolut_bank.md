@@ -48,6 +48,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Revolut B
 |:---:|:---:|:---:| 
 |![stripe](https://static.openfintech.io/payment_providers/stripe/icon.svg?w=278&c=v0.59.26#w100) |[Stripe](/payment-providers/stripe/)|`stripe`| 
 |![bitexpro](https://static.openfintech.io/payment_providers/bitexpro/icon.png?w=278&c=v0.59.26#w100) |[BitexPRO](/payment-providers/bitexpro/)|`bitexpro`| 
+|![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
 |![gateiq](https://static.openfintech.io/payment_providers/gateiq/icon.svg?w=278&c=v0.59.26#w100) |[GateIQ](/payment-providers/gateiq/)|`gateiq`| 
  
 

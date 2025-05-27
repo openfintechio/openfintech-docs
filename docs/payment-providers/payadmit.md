@@ -57,6 +57,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![newera_payment_technologies_ltd_bazpayuah](https://static.openfintech.io/payment_methods/newera_payment_technologies_ltd_bazpayuah/icon.svg?w=278&c=v0.59.26#w100) |[newera_payment_technologies_ltd_bazpayuah](/payment-methods/newera_payment_technologies_ltd_bazpayuah/)|`newera_payment_technologies_ltd_bazpayuah`| 
 |![bitexpro_advwallet](https://static.openfintech.io/payment_methods/bitexpro_advwallet/icon.svg?w=278&c=v0.59.26#w100) |[bitexpro_advwallet](/payment-methods/bitexpro_advwallet/)|`bitexpro_advwallet`| 
 |![bitexpro_payeer](https://static.openfintech.io/payment_methods/bitexpro_payeer/icon.svg?w=278&c=v0.59.26#w100) |[bitexpro_payeer](/payment-methods/bitexpro_payeer/)|`bitexpro_payeer`| 
+|![revolut_bank](https://static.openfintech.io/payment_methods/revolut_bank/icon.png?w=278&c=v0.59.26#w100) |[revolut_bank](/payment-methods/revolut_bank/)|`revolut_bank`| 
 |![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking](/payment-methods/openbanking/)|`openbanking`| 
  
 
@@ -97,6 +98,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "newera_payment_technologies_ltd_bazpayuah",
     "bitexpro_advwallet",
     "bitexpro_payeer",
+    "revolut_bank",
     "openbanking"
   ],
   "payout_method":[
