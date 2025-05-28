@@ -42,6 +42,7 @@
 |`beneficiary_document_type`|✗|`string`|`/^[A-Za-z]{2,20}$/`| 
 |`bank_code`|✗|`string`|`/^[0-9]{1,3}$/`| 
 |`bank_account`|✗|`string`|`/^[0-9]{1,30}$/`| 
+|`dialcode`|✗|`string`|`/^[0-9]{1,4}$/`| 
 |`payment_purpose`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
  
 
@@ -371,7 +372,25 @@
 	: [RU] Введите номер банковского счета 
 	: [UK] Введіть номер банківського рахунку 
  
-19. **`payment_purpose`** 
+19. **`dialcode`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{1,4}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Dial Code 
+	: [RU] Код набора 
+	: [UK] Код набору 
+ 
+	Hint:  
+	: [EN] Enter dial code 
+	: [RU] Введите код набора 
+	: [UK] Введіть Код набору 
+ 
+20. **`payment_purpose`** 
  
 	Type: `string` 
  
@@ -708,6 +727,24 @@
       },
       "position":18,
       "required":false
+    },
+    {
+      "key":"dialcode",
+      "type":"string",
+      "regexp":"\/^[0-9]{1,4}$\/",
+      "required":false,
+      "position":19,
+      "label":{
+        "en":"Dial Code",
+        "ru":"\u041a\u043e\u0434 \u043d\u0430\u0431\u043e\u0440\u0430",
+        "uk":"\u041a\u043e\u0434 \u043d\u0430\u0431\u043e\u0440\u0443"
+      },
+      "hint":{
+        "en":"Enter dial code",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u0434 \u043d\u0430\u0431\u043e\u0440\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u041a\u043e\u0434 \u043d\u0430\u0431\u043e\u0440\u0443"
+      },
+      "example":"1234"
     },
     {
       "key":"payment_purpose",

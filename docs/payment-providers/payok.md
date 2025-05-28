@@ -139,6 +139,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![linkaja](https://static.openfintech.io/payout_methods/linkaja/icon.svg?w=278&c=v0.59.26#w40) |[linkaja](payout-methodslinkaja/)|`linkaja`| 
 |![shopeepay](https://static.openfintech.io/payout_methods/shopeepay/icon.svg?w=278&c=v0.59.26#w40) |[shopeepay](payout-methodsshopeepay/)|`shopeepay`| 
 |![pix](https://static.openfintech.io/payout_methods/pix/icon.svg?w=278&c=v0.59.26#w40) |[pix](payout-methodspix/)|`pix`| 
+|![imps](https://static.openfintech.io/payout_methods/imps/icon.png?w=278&c=v0.59.26#w40) |[imps](payout-methodsimps/)|`imps`| 
  
 
 ## JSON Object 
@@ -244,7 +245,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "dana",
     "linkaja",
     "shopeepay",
-    "pix"
+    "pix",
+    "imps"
   ],
   "metadata":null,
   "name":{

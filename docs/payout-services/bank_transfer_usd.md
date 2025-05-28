@@ -48,6 +48,7 @@
 |`beneficiary_phone`|✗|`string`|`/^\d{10,14}$/`| 
 |`beneficiary_dob`|✗|`string`|`/^([0-2][0-9]\|(3)[0-1])(\/)(((0)[0-9])\|((1)[0-2]))(\/)\d{4}$/`| 
 |`bank_account`|✗|`string`|`/^[0-9]{1,30}$/`| 
+|`dialcode`|✗|`string`|`/^[0-9]{1,4}$/`| 
  
 
 ### Details 
@@ -484,6 +485,24 @@
 	: [RU] Введите номер банковского счета 
 	: [UK] Введіть номер банківського рахунку 
  
+25. **`dialcode`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{1,4}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Dial Code 
+	: [RU] Код набора 
+	: [UK] Код набору 
+ 
+	Hint:  
+	: [EN] Enter dial code 
+	: [RU] Введите код набора 
+	: [UK] Введіть Код набору 
+ 
 
 ## JSON Object 
 
@@ -905,6 +924,24 @@
       },
       "position":23,
       "required":false
+    },
+    {
+      "key":"dialcode",
+      "type":"string",
+      "regexp":"\/^[0-9]{1,4}$\/",
+      "required":false,
+      "position":24,
+      "label":{
+        "en":"Dial Code",
+        "ru":"\u041a\u043e\u0434 \u043d\u0430\u0431\u043e\u0440\u0430",
+        "uk":"\u041a\u043e\u0434 \u043d\u0430\u0431\u043e\u0440\u0443"
+      },
+      "hint":{
+        "en":"Enter dial code",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u0434 \u043d\u0430\u0431\u043e\u0440\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u041a\u043e\u0434 \u043d\u0430\u0431\u043e\u0440\u0443"
+      },
+      "example":"1234"
     }
   ],
   "amount_min":"0.01",
