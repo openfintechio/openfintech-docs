@@ -129,6 +129,7 @@
 |![bluepaid](https://static.openfintech.io/payment_providers/bluepaid/logo.png?w=600&c=v0.59.26#w100) |[**BLUE PAID**](bluepaid/)|`bluepaid`| 
 |![bluepay](https://static.openfintech.io/payment_providers/bluepay/logo.svg?w=600&c=v0.59.26#w100) |[**BluePay**](bluepay/)|`bluepay`| 
 |![bluesnap](https://static.openfintech.io/payment_providers/bluesnap/logo.svg?w=600&c=v0.59.26#w100) |[**BlueSnap**](bluesnap/)|`bluesnap`| 
+|![blueworld](https://static.openfintech.io/payment_providers/blueworld/logo.png?w=600&c=v0.59.26#w100) |[**Blue World**](blueworld/)|`blueworld`| 
 |![bnlpositivity](https://static.openfintech.io/payment_providers/bnlpositivity/logo.png?w=600&c=v0.59.26#w100) |[**BNL POSitivity**](bnlpositivity/)|`bnlpositivity`| 
 |![bnpparibas](https://static.openfintech.io/payment_providers/bnpparibas/logo.png?w=600&c=v0.59.26#w100) |[**BNP Paribas**](bnpparibas/)|`bnpparibas`| 
 |![boacompra](https://static.openfintech.io/payment_providers/boacompra/logo.png?w=600&c=v0.59.26#w100) |[**UOL BoaCompra**](boacompra/)|`boacompra`| 

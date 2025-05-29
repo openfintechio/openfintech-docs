@@ -622,6 +622,7 @@
 |![Dutch-Bangla Bank Rocket](https://static.openfintech.io/payment_methods/dutch_bangla_bank_limited_rocket/logo.png?w=400&c=v0.59.26#w200) |[**Dutch-Bangla Bank Rocket**](/payment-methods/dutch_bangla_bank_limited_rocket/)|[`dutch_bangla_bank_limited_rocket_bdt_hpp`](dutch_bangla_bank_limited_rocket_bdt_hpp/)| 
 ||| **E** ||
 |![Easypaisa](https://static.openfintech.io/payment_methods/easypaisa/logo.svg?w=400&c=v0.59.26#w200) |[**Easypaisa**](/payment-methods/easypaisa/)|[`easypaisa_pkr_hpp`](easypaisa_pkr_hpp/)| 
+|![Easypaisa](https://static.openfintech.io/payment_methods/easypaisa/logo.svg?w=400&c=v0.59.26#w200) |[**Easypaisa**](/payment-methods/easypaisa/)|[`easypaisa_pkr_transfer`](easypaisa_pkr_transfer/)| 
 |![EasyPay](https://static.openfintech.io/payment_methods/easypay/logo.png?w=400&c=v0.59.26#w200) |[**EasyPay**](/payment-methods/easypay/)|[`easypay_uah_hpp`](easypay_uah_hpp/)| 
 |![Ecobanq](https://static.openfintech.io/payment_methods/ecobanq/logo.png?w=400&c=v0.59.26#w200) |[**Ecobanq**](/payment-methods/ecobanq/)|[`ecobanq_inr_transfer`](ecobanq_inr_transfer/)| 
 |![EcoCash](https://static.openfintech.io/payment_methods/ecocash/logo.png?w=400&c=v0.59.26#w200) |[**EcoCash**](/payment-methods/ecocash/)|[`ecocash_bif_hpp`](ecocash_bif_hpp/)| 
@@ -813,6 +814,7 @@
 ||| **J** ||
 |![Jammu & Kashmir Bank](https://static.openfintech.io/payment_methods/j_k_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Jammu & Kashmir Bank**](/payment-methods/j_k_bank_india/)|[`j_k_bank_india_inr_hpp`](j_k_bank_india_inr_hpp/)| 
 |![JazzCash](https://static.openfintech.io/payment_methods/jazzcash/logo.svg?w=400&c=v0.59.26#w200) |[**JazzCash**](/payment-methods/jazzcash/)|[`jazzcash_pkr_hpp`](jazzcash_pkr_hpp/)| 
+|![JazzCash](https://static.openfintech.io/payment_methods/jazzcash/logo.svg?w=400&c=v0.59.26#w200) |[**JazzCash**](/payment-methods/jazzcash/)|[`jazzcash_pkr_transfer`](jazzcash_pkr_transfer/)| 
 |![JCB](https://static.openfintech.io/payment_methods/jcb/logo.png?w=400&c=v0.59.26#w200) |[**JCB**](/payment-methods/jcb/)|[`jcb_eur_hpp`](jcb_eur_hpp/)| 
 |![Jer](https://static.openfintech.io/payment_methods/jer/logo.svg?w=400&c=v0.59.26#w200) |[**Jer**](/payment-methods/jer/)|[`jer_cop_hpp`](jer_cop_hpp/)| 
 |![Jer](https://static.openfintech.io/payment_methods/jer/logo.svg?w=400&c=v0.59.26#w200) |[**Jer**](/payment-methods/jer/)|[`jerin_cop_hpp`](jerin_cop_hpp/)| 

@@ -51,6 +51,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Easypaisa
 |![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
 |![odeonpay](https://static.openfintech.io/payment_providers/odeonpay/icon.png?w=278&c=v0.59.26#w100) |[OdeonPay](/payment-providers/odeonpay/)|`odeonpay`| 
 |![gamespay](https://static.openfintech.io/payment_providers/gamespay/icon.svg?w=278&c=v0.59.26#w100) |[PayGames](/payment-providers/gamespay/)|`gamespay`| 
+|![blueworld](https://static.openfintech.io/payment_providers/blueworld/icon.png?w=278&c=v0.59.26#w100) |[Blue World](/payment-providers/blueworld/)|`blueworld`| 
  
 
 ## JSON Object 

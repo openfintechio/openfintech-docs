@@ -367,6 +367,7 @@
 |![bluepaid](https://static.openfintech.io/vendors/bluepaid/logo.png?w=600&c=v0.59.26#w200) |[**BLUE PAID**](bluepaid/)|`bluepaid`| 
 |![bluepay](https://static.openfintech.io/vendors/bluepay/logo.svg?w=600&c=v0.59.26#w200) |[**BluePay**](bluepay/)|`bluepay`| 
 |![bluesnap](https://static.openfintech.io/vendors/bluesnap/logo.svg?w=600&c=v0.59.26#w200) |[**BlueSnap**](bluesnap/)|`bluesnap`| 
+|![blueworld](https://static.openfintech.io/vendors/blueworld/logo.png?w=600&c=v0.59.26#w200) |[**Blue World**](blueworld/)|`blueworld`| 
 |![bnd](https://static.openfintech.io/vendors/bnd/logo.svg?w=600&c=v0.59.26#w200) |[**Banco de México**](bnd/)|`bnd`| 
 |![bnk_bank](https://static.openfintech.io/vendors/bnk_bank/logo.png?w=600&c=v0.59.26#w200) |[**BNK Securities Co. Ltd**](bnk_bank/)|`bnk_bank`| 
 |![bnlpositivity](https://static.openfintech.io/vendors/bnlpositivity/logo.png?w=600&c=v0.59.26#w200) |[**BNL POSitivity**](bnlpositivity/)|`bnlpositivity`| 
