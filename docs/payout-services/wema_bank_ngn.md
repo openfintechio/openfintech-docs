@@ -14,7 +14,7 @@
  
 :	[EN] Wema Bank 
  
-**Amount limits:** from `1` to `10000000` NGN 
+**Amount limits:** from `1` to `100000000` NGN 
 
 ## Fields 
 
@@ -147,6 +147,6 @@
     }
   ],
   "amount_min":1,
-  "amount_max":10000000
+  "amount_max":100000000
 }
 ```  
