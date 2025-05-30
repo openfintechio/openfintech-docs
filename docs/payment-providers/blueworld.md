@@ -43,6 +43,16 @@ The list of supported [Payment Methods](/payment-methods/)
 |![easypaisa](https://static.openfintech.io/payment_methods/easypaisa/icon.svg?w=278&c=v0.59.26#w100) |[easypaisa](/payment-methods/easypaisa/)|`easypaisa`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![jazzcash](https://static.openfintech.io/payout_methods/jazzcash/icon.png?w=278&c=v0.59.26#w40) |[jazzcash](payout-methodsjazzcash/)|`jazzcash`| 
+|![easypaisa](https://static.openfintech.io/payout_methods/easypaisa/icon.png?w=278&c=v0.59.26#w40) |[easypaisa](payout-methodseasypaisa/)|`easypaisa`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -56,7 +66,10 @@ The list of supported [Payment Methods](/payment-methods/)
     "jazzcash",
     "easypaisa"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "jazzcash",
+    "easypaisa"
+  ],
   "metadata":null,
   "name":{
     "en":"Blue World",
