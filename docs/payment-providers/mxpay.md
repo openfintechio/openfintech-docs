@@ -14,6 +14,10 @@
 :	[RU] MXPay 
 :	[UK] MXPay 
  
+**Description:** 
+ 
+: [EN] MXPay is a digital payment platform offering a comprehensive suite of financial services tailored for businesses and individuals. The platform enables users to send and receive money, request payments, process voucher payments, utilize escrow services, and withdraw funds. With support for over 24 payment gateways worldwide, MXPay facilitates seamless transactions across various channels. Additional features include real-time tracking, multi-currency support, robust security measures, user-friendly interfaces, quick settlements, and 24/7 customer support, making it a versatile solution for diverse payment needs. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -47,7 +51,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"mxpay",
-  "description":null,
+  "description":{
+    "en":"MXPay is a digital payment platform offering a comprehensive suite of financial services tailored for businesses and individuals. The platform enables users to send and receive money, request payments, process voucher payments, utilize escrow services, and withdraw funds. With support for over 24 payment gateways worldwide, MXPay facilitates seamless transactions across various channels. Additional features include real-time tracking, multi-currency support, robust security measures, user-friendly interfaces, quick settlements, and 24\/7 customer support, making it a versatile solution for diverse payment needs. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"mxpay",
   "categories":null,
   "countries":null,

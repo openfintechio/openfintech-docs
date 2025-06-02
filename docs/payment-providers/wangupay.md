@@ -14,6 +14,10 @@
 :	[RU] WanguPay 
 :	[UK] WanguPay 
  
+**Description:** 
+ 
+: [EN] WanguPay is a global payment service provider specializing in seamless, secure, and efficient transaction solutions, with a strong emphasis on the Nigerian market. The platform offers a range of payment methods, including mobile payments via MoMo, digital wallets like MoMoPay, and online banking through QR codes. For payouts, WanguPay supports MoMo mobile payments, facilitating swift and reliable fund transfers. Designed for businesses seeking to expand their reach in Africa, WanguPay provides a stable API gateway that simplifies integration and accelerates time-to-market. The platform boasts a high transaction success rate, real-time settlements, and 24/7 customer support, ensuring a robust payment infrastructure for merchants. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -58,7 +62,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"wangupay",
-  "description":null,
+  "description":{
+    "en":"WanguPay is a global payment service provider specializing in seamless, secure, and efficient transaction solutions, with a strong emphasis on the Nigerian market. The platform offers a range of payment methods, including mobile payments via MoMo, digital wallets like MoMoPay, and online banking through QR codes. For payouts, WanguPay supports MoMo mobile payments, facilitating swift and reliable fund transfers. Designed for businesses seeking to expand their reach in Africa, WanguPay provides a stable API gateway that simplifies integration and accelerates time-to-market. The platform boasts a high transaction success rate, real-time settlements, and 24\/7 customer support, ensuring a robust payment infrastructure for merchants. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"wangupay",
   "categories":null,
   "countries":null,

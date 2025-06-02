@@ -14,6 +14,10 @@
 :	[RU] DIMOCO Payments 
 :	[UK] DIMOCO Payments 
  
+**Description:** 
+ 
+: [EN] DIMOCO Payments is an Austria-based payment service provider specializing in carrier billing and acquiring services, offering tailored payment solutions for businesses across various industries, including e-commerce, mobility, lifestyle, and iGaming. Licensed by the Austrian Financial Market Authority (FMA), DIMOCO enables merchants to accept payments through a wide array of methods, such as credit and debit cards, alternative payment methods, and direct carrier billing, which allows consumers to charge purchases directly to their mobile phone bills. This approach is particularly beneficial for reaching underbanked populations and facilitating microtransactions for digital content. DIMOCO’s platform emphasizes flexibility, security, and compliance, providing features like intelligent payment routing, fraud prevention, and mobile identity services to enhance transaction success rates and user authentication. The company has also partnered with IXOPAY to leverage advanced payment orchestration capabilities, improving transaction efficiency and scalability for high-risk merchants. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -48,7 +52,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"dimocopayments",
-  "description":null,
+  "description":{
+    "en":"DIMOCO Payments is an Austria-based payment service provider specializing in carrier billing and acquiring services, offering tailored payment solutions for businesses across various industries, including e-commerce, mobility, lifestyle, and iGaming. Licensed by the Austrian Financial Market Authority (FMA), DIMOCO enables merchants to accept payments through a wide array of methods, such as credit and debit cards, alternative payment methods, and direct carrier billing, which allows consumers to charge purchases directly to their mobile phone bills. This approach is particularly beneficial for reaching underbanked populations and facilitating microtransactions for digital content. DIMOCO\u2019s platform emphasizes flexibility, security, and compliance, providing features like intelligent payment routing, fraud prevention, and mobile identity services to enhance transaction success rates and user authentication. The company has also partnered with IXOPAY to leverage advanced payment orchestration capabilities, improving transaction efficiency and scalability for high-risk merchants. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"dimocopayments",
   "categories":null,
   "countries":null,

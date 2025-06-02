@@ -14,6 +14,10 @@
 :	[RU] WealthPay 
 :	[UK] WealthPay 
  
+**Description:** 
+ 
+: [EN] WealthPay is a Southeast Asia-focused payment service provider established in 2006, offering secure and efficient transaction solutions for businesses and consumers across the region. The platform supports a variety of payment methods, including bank transfers and e-wallets, and is integrated with major banks in countries like Thailand, Vietnam, and Indonesia. WealthPay is particularly popular in industries such as online gaming and e-commerce, providing features like real-time settlements and robust security measures to ensure reliable payment processing. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -88,7 +92,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"wealthpay",
-  "description":null,
+  "description":{
+    "en":"WealthPay is a Southeast Asia-focused payment service provider established in 2006, offering secure and efficient transaction solutions for businesses and consumers across the region. The platform supports a variety of payment methods, including bank transfers and e-wallets, and is integrated with major banks in countries like Thailand, Vietnam, and Indonesia. WealthPay is particularly popular in industries such as online gaming and e-commerce, providing features like real-time settlements and robust security measures to ensure reliable payment processing. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"wealthpay",
   "categories":null,
   "countries":null,

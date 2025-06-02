@@ -1,6 +1,6 @@
 
 # PayNearMe 
-![paynearme](https://static.openfintech.io/vendors/paynearme/logo.png?w=400&c=v0.59.26#w200)  
+![paynearme](https://static.openfintech.io/vendors/paynearme/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -9,30 +9,31 @@
 **Name:** 
  
 :	[EN] PayNearMe 
+:	[RU] PayNearMe 
+:	[UK] PayNearMe 
  
 **Status:** `active` 
  
+**Links:** 
+: website [https://home.paynearme.com/](https://home.paynearme.com/) 
  
-**Countries:** 
- 
-:	![UM](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/um.svg#w24)  
 
 ## Images 
 
 ### Logo 
  
-![paynearme](https://static.openfintech.io/vendors/paynearme/logo.png?w=400&c=v0.59.26#w200)  
+![paynearme](https://static.openfintech.io/vendors/paynearme/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/paynearme/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/paynearme/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![paynearme](https://static.openfintech.io/vendors/paynearme/icon.png?w=278&c=v0.59.26#w100)  
+![paynearme](https://static.openfintech.io/vendors/paynearme/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/paynearme/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/paynearme/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 
@@ -41,14 +42,16 @@ https://static.openfintech.io/vendors/paynearme/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"paynearme",
   "name":{
-    "en":"PayNearMe"
+    "en":"PayNearMe",
+    "ru":"PayNearMe",
+    "uk":"PayNearMe"
   },
   "status":"active",
   "description":null,
-  "links":null,
-  "countries":[
-    "UM"
-  ],
+  "links":{
+    "website":"https:\/\/home.paynearme.com\/"
+  },
+  "countries":null,
   "contacts":null,
   "address":null,
   "social_profiles":null

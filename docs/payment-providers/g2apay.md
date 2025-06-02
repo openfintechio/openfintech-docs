@@ -12,6 +12,10 @@
  
 :	[EN] G2A PAY 
  
+**Description:** 
+ 
+: [EN] G2A PAY is a global online payment gateway developed by G2A.COM, primarily designed to serve digital commerce businesses, especially in the gaming and entertainment sectors. The platform supports over 200 global and local payment methods, including credit cards, e-wallets, bank transfers, and regional options tailored to specific markets. G2A PAY offers features such as multi-currency processing, fraud prevention tools, and a streamlined checkout experience aimed at maximizing conversion rates. With a strong emphasis on accessibility and scalability, it caters to merchants looking to expand internationally without the need for multiple individual integrations. This and 500+ providers are already integrated to Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 **Categories:**`collecting` ,`distributing` ,`aggregating` 
  
 
@@ -69,7 +73,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"g2apay",
-  "description":null,
+  "description":{
+    "en":"G2A PAY is a global online payment gateway developed by G2A.COM, primarily designed to serve digital commerce businesses, especially in the gaming and entertainment sectors. The platform supports over 200 global and local payment methods, including credit cards, e-wallets, bank transfers, and regional options tailored to specific markets. G2A PAY offers features such as multi-currency processing, fraud prevention tools, and a streamlined checkout experience aimed at maximizing conversion rates. With a strong emphasis on accessibility and scalability, it caters to merchants looking to expand internationally without the need for multiple individual integrations. This and 500+ providers are already integrated to Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"g2apay",
   "categories":[
     "collecting",

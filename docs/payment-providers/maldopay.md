@@ -14,6 +14,10 @@
 :	[RU] MaldoPay 
 :	[UK] MaldoPay 
  
+**Description:** 
+ 
+: [EN] MaldoPay is a Malta-based payment gateway established in 2016, offering a comprehensive suite of payment solutions tailored for e-commerce, iGaming, and other online industries. The platform supports a wide array of payment methods, including credit and debit cards, bank transfers, e-vouchers, digital wallets, and cryptocurrencies like Bitcoin, enabling merchants to cater to diverse customer preferences across multiple regions. MaldoPay’s integration options, such as iFrame and JSON, provide flexibility for businesses to customize their checkout experiences, while its PCI DSS compliance ensures robust security measures are in place to protect transaction data. With services available in over 15 countries, MaldoPay facilitates seamless global transactions, making it a reliable partner for businesses seeking to expand their payment capabilities. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -72,7 +76,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"maldopay",
-  "description":null,
+  "description":{
+    "en":"MaldoPay is a Malta-based payment gateway established in 2016, offering a comprehensive suite of payment solutions tailored for e-commerce, iGaming, and other online industries. The platform supports a wide array of payment methods, including credit and debit cards, bank transfers, e-vouchers, digital wallets, and cryptocurrencies like Bitcoin, enabling merchants to cater to diverse customer preferences across multiple regions. MaldoPay\u2019s integration options, such as iFrame and JSON, provide flexibility for businesses to customize their checkout experiences, while its PCI DSS compliance ensures robust security measures are in place to protect transaction data. With services available in over 15 countries, MaldoPay facilitates seamless global transactions, making it a reliable partner for businesses seeking to expand their payment capabilities. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"maldopay",
   "categories":null,
   "countries":null,

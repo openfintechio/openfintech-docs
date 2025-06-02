@@ -14,6 +14,10 @@
 :	[RU] Gigadat 
 :	[UK] Gigadat 
  
+**Description:** 
+ 
+: [EN] Gigadat is a Canadian payment service provider that partners with Interac to offer secure and convenient bank transfer solutions for online merchants. It enables businesses to accept payments directly from customers’ bank accounts through Interac Online and Interac e-Transfer, which are widely used and trusted across Canada. Gigadat is particularly popular in industries like iGaming, e-commerce, and digital services, offering fast, frictionless transactions and real-time payment confirmation. The platform is known for its focus on compliance, user privacy, and fraud prevention, making it a reliable partner for merchants looking to serve Canadian customers. This and 500+ providers are already integrated to Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -56,7 +60,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"gigadat",
-  "description":null,
+  "description":{
+    "en":"Gigadat is a Canadian payment service provider that partners with Interac to offer secure and convenient bank transfer solutions for online merchants. It enables businesses to accept payments directly from customers\u2019 bank accounts through Interac Online and Interac e-Transfer, which are widely used and trusted across Canada. Gigadat is particularly popular in industries like iGaming, e-commerce, and digital services, offering fast, frictionless transactions and real-time payment confirmation. The platform is known for its focus on compliance, user privacy, and fraud prevention, making it a reliable partner for merchants looking to serve Canadian customers. This and 500+ providers are already integrated to Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"gigadat",
   "categories":null,
   "countries":null,

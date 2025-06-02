@@ -14,6 +14,10 @@
 :	[RU] Decard 
 :	[UK] Decard 
  
+**Description:** 
+ 
+: [EN] DeCard is a next-generation payment solution developed by DCS Card Centre in partnership with Visa, designed to bridge traditional finance and digital assets. Operating on a top-up model, DeCard allows users to fund their accounts using either fiat currency or select digital assets like USDT and USDC, which are converted into fiat through MAS-licensed Digital Payment Token service providers. This approach enables users to spend only what they have, promoting financial responsibility. The card is accepted at over 150 million merchant locations worldwide and supports integration with digital wallets such as Google Pay and Apple Pay. With features like competitive conversion rates, no annual fees, and capped ATM withdrawal charges, DeCard offers a cost-effective and secure payment experience. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -77,7 +81,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"decard",
-  "description":null,
+  "description":{
+    "en":"DeCard is a next-generation payment solution developed by DCS Card Centre in partnership with Visa, designed to bridge traditional finance and digital assets. Operating on a top-up model, DeCard allows users to fund their accounts using either fiat currency or select digital assets like USDT and USDC, which are converted into fiat through MAS-licensed Digital Payment Token service providers. This approach enables users to spend only what they have, promoting financial responsibility. The card is accepted at over 150 million merchant locations worldwide and supports integration with digital wallets such as Google Pay and Apple Pay. With features like competitive conversion rates, no annual fees, and capped ATM withdrawal charges, DeCard offers a cost-effective and secure payment experience. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"decard",
   "categories":null,
   "countries":null,

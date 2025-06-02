@@ -14,6 +14,10 @@
 :	[RU] Kasha 
 :	[UK] Kasha 
  
+**Description:** 
+ 
+: [EN] Kasha is a UK-based fintech company offering an all-in-one business management platform tailored for freelancers, solopreneurs, and micro-businesses. Launched in 2021, Kasha provides a comprehensive suite of tools, including company formation, website building, booking systems, CRM, contracts, invoicing, business accounts, and payment processing . The platform supports various payment methods, such as payment cards, aggregated bank transfers, and its proprietary digital wallet, facilitating seamless financial transactions for users . With a focus on simplifying business operations, Kasha enables users to manage clients, track expenses, and handle payments efficiently, all within a single interface. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -49,7 +53,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"kasha",
-  "description":null,
+  "description":{
+    "en":"Kasha is a UK-based fintech company offering an all-in-one business management platform tailored for freelancers, solopreneurs, and micro-businesses. Launched in 2021, Kasha provides a comprehensive suite of tools, including company formation, website building, booking systems, CRM, contracts, invoicing, business accounts, and payment processing . The platform supports various payment methods, such as payment cards, aggregated bank transfers, and its proprietary digital wallet, facilitating seamless financial transactions for users . With a focus on simplifying business operations, Kasha enables users to manage clients, track expenses, and handle payments efficiently, all within a single interface. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"kasha",
   "categories":null,
   "countries":null,

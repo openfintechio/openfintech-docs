@@ -14,6 +14,10 @@
 :	[RU] Katarun 
 :	[UK] Katarun 
  
+**Description:** 
+ 
+: [EN] Katarun is a payment service provider offering streamlined solutions for businesses to manage both payments and payouts. Integrated with Corefy’s platform, Katarun supports key payout methods such as bank transfers and card payments, enabling merchants to process transactions efficiently. The provider’s integration with Corefy facilitates a seamless setup, allowing clients to initiate transactions without the need for extensive coding. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -63,7 +67,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"katarun",
-  "description":null,
+  "description":{
+    "en":"Katarun is a payment service provider offering streamlined solutions for businesses to manage both payments and payouts. Integrated with Corefy\u2019s platform, Katarun supports key payout methods such as bank transfers and card payments, enabling merchants to process transactions efficiently. The provider\u2019s integration with Corefy facilitates a seamless setup, allowing clients to initiate transactions without the need for extensive coding. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"katarun",
   "categories":null,
   "countries":null,

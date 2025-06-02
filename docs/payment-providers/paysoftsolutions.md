@@ -14,6 +14,10 @@
 :	[RU] PaySoft Solutions 
 :	[UK] PaySoft Solutions 
  
+**Description:** 
+ 
+: [EN] PaySoft Solutions is a payment service provider operating in the Ukrainian market, offering secure and efficient internet acquiring services for merchants across various industries. The company supports a range of payment methods, including Visa and Mastercard card payments, as well as digital wallets like Apple Pay and Google Pay. For payouts, PaySoft Solutions provides options such as card payouts, bank transfers, and mobile payments via Ukrainian telecom operators like Lifecell, Kyivstar, and Vodafone. Their platform is designed to facilitate seamless payment processing and fund disbursement, catering to the needs of businesses seeking reliable transaction solutions. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -62,7 +66,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"paysoftsolutions",
-  "description":null,
+  "description":{
+    "en":"PaySoft Solutions is a payment service provider operating in the Ukrainian market, offering secure and efficient internet acquiring services for merchants across various industries. The company supports a range of payment methods, including Visa and Mastercard card payments, as well as digital wallets like Apple Pay and Google Pay. For payouts, PaySoft Solutions provides options such as card payouts, bank transfers, and mobile payments via Ukrainian telecom operators like Lifecell, Kyivstar, and Vodafone. Their platform is designed to facilitate seamless payment processing and fund disbursement, catering to the needs of businesses seeking reliable transaction solutions. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"paysoftsolutions",
   "categories":null,
   "countries":null,

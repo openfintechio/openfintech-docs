@@ -14,6 +14,10 @@
 :	[RU] Monetix 
 :	[UK] Monetix 
  
+**Description:** 
+ 
+: [EN] Monetix is a payment service provider offering a comprehensive suite of solutions tailored for online businesses seeking global reach and flexibility. Founded in 2019, Monetix delivers a unified platform that supports both acquiring and alternative payment methods, enabling merchants to accept payments and process payouts efficiently across various currencies and regions. The platform features smart routing and cascading technologies, optimizing transaction flows based on factors like geography, currency, and card BINs to enhance approval rates and reduce declines. Merchants benefit from customizable payment pages that align with their brand identity, as well as robust API integrations that facilitate seamless connectivity with existing systems. Monetix also offers automated and manual payout options, catering to diverse operational needs. With a focus on security and compliance, the company adheres to PCI DSS Level 1 standards and employs SSL encryption to safeguard transaction data. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard 
+ 
 
 ## Images 
 
@@ -168,7 +172,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"monetix",
-  "description":null,
+  "description":{
+    "en":"Monetix is a payment service provider offering a comprehensive suite of solutions tailored for online businesses seeking global reach and flexibility. Founded in 2019, Monetix delivers a unified platform that supports both acquiring and alternative payment methods, enabling merchants to accept payments and process payouts efficiently across various currencies and regions. The platform features smart routing and cascading technologies, optimizing transaction flows based on factors like geography, currency, and card BINs to enhance approval rates and reduce declines. Merchants benefit from customizable payment pages that align with their brand identity, as well as robust API integrations that facilitate seamless connectivity with existing systems. Monetix also offers automated and manual payout options, catering to diverse operational needs. With a focus on security and compliance, the company adheres to PCI DSS Level 1 standards and employs SSL encryption to safeguard transaction data. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard"
+  },
   "vendor":"monetix",
   "categories":null,
   "countries":null,

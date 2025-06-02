@@ -11,6 +11,10 @@
 :	[RU] Maldo Crypto 
 :	[UK] Maldo Crypto 
  
+**Description:** 
+ 
+: [EN] Maldo Crypto is a cryptocurrency-based payment method that enables merchants to accept digital assets such as Bitcoin, Ethereum, and other popular cryptocurrencies as a form of payment. Tailored for online businesses and high-risk industries, Maldo Crypto focuses on providing a fast, borderless, and secure alternative to traditional payment options. It allows for real-time settlements, low transaction fees, and reduced chargeback risk, making it particularly attractive for global merchants looking to expand their reach and streamline cross-border transactions. With growing demand for crypto payments among users seeking privacy and decentralization, Maldo Crypto supports wallet-to-wallet transfers and often includes built-in tools for conversion to fiat, compliance checks, and transaction monitoring. 
+ 
 **Category:** `digital_wallet` 
  
 
@@ -59,7 +63,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Maldo Cry
     "ru":"Maldo Crypto",
     "uk":"Maldo Crypto"
   },
-  "description":null,
+  "description":{
+    "en":"Maldo Crypto is a cryptocurrency-based payment method that enables merchants to accept digital assets such as Bitcoin, Ethereum, and other popular cryptocurrencies as a form of payment. Tailored for online businesses and high-risk industries, Maldo Crypto focuses on providing a fast, borderless, and secure alternative to traditional payment options. It allows for real-time settlements, low transaction fees, and reduced chargeback risk, making it particularly attractive for global merchants looking to expand their reach and streamline cross-border transactions. With growing demand for crypto payments among users seeking privacy and decentralization, Maldo Crypto supports wallet-to-wallet transfers and often includes built-in tools for conversion to fiat, compliance checks, and transaction monitoring."
+  },
   "countries":null,
   "category":"digital_wallet"
 }

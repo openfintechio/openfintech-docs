@@ -12,6 +12,10 @@
  
 :	[EN] Webbilling.com 
  
+**Description:** 
+ 
+: [EN] Webbilling was a payment service provider that specialized in offering carrier billing solutions primarily for high-risk and digital content industries. It enabled merchants to accept payments through direct carrier billing, allowing customers to charge online purchases to their mobile phone bills. Headquartered in Germany, Webbilling operated across various European markets and provided a convenient alternative to credit cards, especially in regions with lower card penetration. The service focused on maximizing conversions by simplifying the checkout process, particularly for adult entertainment, gaming, and other digital service providers. This and 500+ providers are already integrated to Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
  
 **Countries:** 
  
@@ -40,7 +44,9 @@ https://static.openfintech.io/payment_providers/webbilling/icon.png?w=278&c=v0.5
 ```json
 {
   "code":"webbilling",
-  "description":null,
+  "description":{
+    "en":"Webbilling was a payment service provider that specialized in offering carrier billing solutions primarily for high-risk and digital content industries. It enabled merchants to accept payments through direct carrier billing, allowing customers to charge online purchases to their mobile phone bills. Headquartered in Germany, Webbilling operated across various European markets and provided a convenient alternative to credit cards, especially in regions with lower card penetration. The service focused on maximizing conversions by simplifying the checkout process, particularly for adult entertainment, gaming, and other digital service providers. This and 500+ providers are already integrated to Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"webbilling",
   "categories":null,
   "countries":[

@@ -14,6 +14,10 @@
 :	[RU] Virtpay 
 :	[UK] Virtpay 
  
+**Description:** 
+ 
+: [EN] Virtpay is a versatile payment gateway integrated with Corefy’s platform, enabling businesses to process credit card transactions securely and efficiently. The platform supports 3D Secure v2 authentication, enhancing transaction security and reducing fraud risks. Virtpay’s integration with Corefy allows merchants to manage payments seamlessly, offering features like merchant management, reconciliations, analytics, and a comprehensive dashboard. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -56,7 +60,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"virtpay",
-  "description":null,
+  "description":{
+    "en":"Virtpay is a versatile payment gateway integrated with Corefy\u2019s platform, enabling businesses to process credit card transactions securely and efficiently. The platform supports 3D Secure v2 authentication, enhancing transaction security and reducing fraud risks. Virtpay\u2019s integration with Corefy allows merchants to manage payments seamlessly, offering features like merchant management, reconciliations, analytics, and a comprehensive dashboard. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"virtpay",
   "categories":null,
   "countries":null,

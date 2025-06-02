@@ -17,6 +17,7 @@
 |![acceptgiro](https://static.openfintech.io/payment_methods/acceptgiro/logo.png?w=400&c=v0.59.26#w200) |[**Acceptgiro**](acceptgiro/)|`acceptgiro`| 
 |![account2account](https://static.openfintech.io/payment_methods/account2account/logo.png?w=400&c=v0.59.26#w200) |[**account2account**](account2account/)|`account2account`| 
 |![acertemos](https://static.openfintech.io/payment_methods/acertemos/logo.svg?w=400&c=v0.59.26#w200) |[**Acertemos**](acertemos/)|`acertemos`| 
+|![ach](https://static.openfintech.io/payment_methods/ach/logo.svg?w=400&c=v0.59.26#w200) |[**Automated Clearing House (ACH)**](ach/)|`ach`| 
 |![activ_kcell](https://static.openfintech.io/payment_methods/activ_kcell/logo.svg?w=400&c=v0.59.26#w200) |[**Kcell/Activ**](activ_kcell/)|`activ_kcell`| 
 |![activa_westernunion](https://static.openfintech.io/payment_methods/activa_westernunion/logo.svg?w=400&c=v0.59.26#w200) |[**Activa WesternUnion**](activa_westernunion/)|`activa_westernunion`| 
 |![advcash](https://static.openfintech.io/payment_methods/advcash/logo.svg?w=400&c=v0.59.26#w200) |[**AdvCash**](advcash/)|`advcash`| 

@@ -60,6 +60,7 @@ The list of [Payment Providers](/payment-providers/) that support the _CASH_
 |![payport](https://static.openfintech.io/payment_providers/payport/icon.svg?w=278&c=v0.59.26#w100) |[PayPort](/payment-providers/payport/)|`payport`| 
 |![payfuture](https://static.openfintech.io/payment_providers/payfuture/icon.svg?w=278&c=v0.59.26#w100) |[Payfuture](/payment-providers/payfuture/)|`payfuture`| 
 |![inswitch](https://static.openfintech.io/payment_providers/inswitch/icon.png?w=278&c=v0.59.26#w100) |[Inswitch](/payment-providers/inswitch/)|`inswitch`| 
+|![paynearme](https://static.openfintech.io/payment_providers/paynearme/icon.svg?w=278&c=v0.59.26#w100) |[PayNearMe](/payment-providers/paynearme/)|`paynearme`| 
  
 
 ## JSON Object 

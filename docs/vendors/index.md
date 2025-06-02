@@ -1673,7 +1673,7 @@
 |![paymomentum](https://static.openfintech.io/vendors/paymomentum/logo.png?w=600&c=v0.59.26#w200) |[**Pay Momentum**](paymomentum/)|`paymomentum`| 
 |![paymtech](https://static.openfintech.io/vendors/paymtech/logo.svg?w=600&c=v0.59.26#w200) |[**Paymtech**](paymtech/)|`paymtech`| 
 |![paymundo](https://static.openfintech.io/vendors/paymundo/logo.png?w=600&c=v0.59.26#w200) |[**Paymundo**](paymundo/)|`paymundo`| 
-|![paynearme](https://static.openfintech.io/vendors/paynearme/logo.png?w=600&c=v0.59.26#w200) |[**PayNearMe**](paynearme/)|`paynearme`| 
+|![paynearme](https://static.openfintech.io/vendors/paynearme/logo.svg?w=600&c=v0.59.26#w200) |[**PayNearMe**](paynearme/)|`paynearme`| 
 |![payneteasy](https://static.openfintech.io/vendors/payneteasy/logo.svg?w=600&c=v0.59.26#w200) |[**Payneteasy**](payneteasy/)|`payneteasy`| 
 |![paynetsecure](https://static.openfintech.io/vendors/paynetsecure/logo.png?w=600&c=v0.59.26#w200) |[**PayNetSecure**](paynetsecure/)|`paynetsecure`| 
 |![paynl](https://static.openfintech.io/vendors/paynl/logo.png?w=600&c=v0.59.26#w200) |[**Pay.nl**](paynl/)|`paynl`| 

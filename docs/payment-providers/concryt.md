@@ -14,6 +14,10 @@
 :	[RU] Concryt 
 :	[UK] Concryt 
  
+**Description:** 
+ 
+: [EN] Concryt is a Barcelona-based fintech company established in 2023, specializing in comprehensive payment and banking solutions for businesses worldwide. The company offers a diverse range of services, including card acquiring, alternative payment methods (APMs), bank transfers, and outbound credit transfers (OCTs), catering to both deposits and payouts. Concryt also facilitates B2B banking services such as account opening and foreign exchange, leveraging its extensive global banking network to provide seamless financial operations . Emphasizing security and compliance, Concryt’s platform operates entirely on Amazon Web Services (AWS) and adheres to the General Data Protection Regulation (GDPR) standards . This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -47,7 +51,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"concryt",
-  "description":null,
+  "description":{
+    "en":"Concryt is a Barcelona-based fintech company established in 2023, specializing in comprehensive payment and banking solutions for businesses worldwide. The company offers a diverse range of services, including card acquiring, alternative payment methods (APMs), bank transfers, and outbound credit transfers (OCTs), catering to both deposits and payouts. Concryt also facilitates B2B banking services such as account opening and foreign exchange, leveraging its extensive global banking network to provide seamless financial operations . Emphasizing security and compliance, Concryt\u2019s platform operates entirely on Amazon Web Services (AWS) and adheres to the General Data Protection Regulation (GDPR) standards . This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"concryt",
   "categories":null,
   "countries":null,

@@ -14,6 +14,10 @@
 :	[RU] Gate2way 
 :	[UK] Gate2way 
  
+**Description:** 
+ 
+: [EN] Gate2way is a high-risk merchant account provider that specializes in delivering tailored payment processing solutions for online businesses operating in complex industries. With a focus on sectors such as iGaming, forex, and digital content, Gate2way offers a comprehensive suite of services, including payment processing, corporate account setup, and incorporation assistance. The company supports over 500 currencies, enabling merchants to cater to a global customer base with localized strategies. Gate2way provides flexible integration options, including server-to-server and hosted payment page solutions, ensuring seamless technical implementation for businesses. By leveraging a network of payment providers, Gate2way facilitates direct connections to popular processing products, enhancing transaction efficiency and success rates. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -53,7 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"gatetwoway",
-  "description":null,
+  "description":{
+    "en":"Gate2way is a high-risk merchant account provider that specializes in delivering tailored payment processing solutions for online businesses operating in complex industries. With a focus on sectors such as iGaming, forex, and digital content, Gate2way offers a comprehensive suite of services, including payment processing, corporate account setup, and incorporation assistance. The company supports over 500 currencies, enabling merchants to cater to a global customer base with localized strategies. Gate2way provides flexible integration options, including server-to-server and hosted payment page solutions, ensuring seamless technical implementation for businesses. By leveraging a network of payment providers, Gate2way facilitates direct connections to popular processing products, enhancing transaction efficiency and success rates. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"gatetwoway",
   "categories":null,
   "countries":null,

@@ -14,6 +14,10 @@
 :	[RU] Exxogate 
 :	[UK] Exxogate 
  
+**Description:** 
+ 
+: [EN] Exxogate is a payment service provider offering online payment processing and commerce solutions for internet businesses of all sizes. It supports various payment methods, including online banking, mobile payments, QR codes, UPI, digital wallets, and wire transfers, catering to regions such as Southeast Asia, the Gulf Cooperation Council (GCC) countries, and India. The platform emphasizes flexibility with features like cascading payments, allowing repeated transactions through alternative gateways if the primary channel is unavailable, and supports bulk payouts to clients’ bank cards, phones, or other sources. Security is a priority, offering 3D Secure authorization, an anti-fraud module with customizable filters, and comprehensive support for disputed payments and refunds. Real-time transaction monitoring and transparent reporting tools are also integral parts of their service. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -634,7 +638,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"exxogate",
-  "description":null,
+  "description":{
+    "en":"Exxogate is a payment service provider offering online payment processing and commerce solutions for internet businesses of all sizes. It supports various payment methods, including online banking, mobile payments, QR codes, UPI, digital wallets, and wire transfers, catering to regions such as Southeast Asia, the Gulf Cooperation Council (GCC) countries, and India. The platform emphasizes flexibility with features like cascading payments, allowing repeated transactions through alternative gateways if the primary channel is unavailable, and supports bulk payouts to clients\u2019 bank cards, phones, or other sources. Security is a priority, offering 3D Secure authorization, an anti-fraud module with customizable filters, and comprehensive support for disputed payments and refunds. Real-time transaction monitoring and transparent reporting tools are also integral parts of their service. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"exxogate",
   "categories":null,
   "countries":null,

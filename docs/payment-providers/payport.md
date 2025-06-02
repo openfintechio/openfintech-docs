@@ -14,6 +14,10 @@
 :	[RU] PayPort 
 :	[UK] PayPort 
  
+**Description:** 
+ 
+: [EN] PayPort is a multi-channel payment infrastructure provider offering a comprehensive suite of services for businesses seeking to streamline their global payment operations. The platform supports over 100 payment methods across more than 30 countries, including card-to-card transfers, bank transfers, alternative payment methods (APMs), and cryptocurrency transactions with assets like BTC, ETH, and USDT. PayPort’s infrastructure is designed for rapid deployment, allowing businesses to go live within two days, and offers features such as smart routing, cascading, and real-time fraud prevention to optimize transaction success rates and reduce processing costs. With a focus on industries like fintech, e-commerce, and gaming, PayPort provides a user-friendly API, multilingual support, and robust security measures to ensure seamless and secure payment experiences. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -81,7 +85,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"payport",
-  "description":null,
+  "description":{
+    "en":"PayPort is a multi-channel payment infrastructure provider offering a comprehensive suite of services for businesses seeking to streamline their global payment operations. The platform supports over 100 payment methods across more than 30 countries, including card-to-card transfers, bank transfers, alternative payment methods (APMs), and cryptocurrency transactions with assets like BTC, ETH, and USDT. PayPort\u2019s infrastructure is designed for rapid deployment, allowing businesses to go live within two days, and offers features such as smart routing, cascading, and real-time fraud prevention to optimize transaction success rates and reduce processing costs. With a focus on industries like fintech, e-commerce, and gaming, PayPort provides a user-friendly API, multilingual support, and robust security measures to ensure seamless and secure payment experiences. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"payport",
   "categories":null,
   "countries":null,

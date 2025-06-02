@@ -12,6 +12,10 @@
  
 :	[EN] mopay 
  
+**Description:** 
+ 
+: [EN] Mopay is a mobile payment platform that enables users to send and receive money, make purchases, and pay bills directly from their mobile devices. The app supports transactions through major mobile money services, providing a convenient and secure way to manage financial activities. With features like QR code scanning for swift payments and a user-friendly interface, Mopay simplifies the payment process for both individuals and merchants. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
  
 **Countries:** 
  
@@ -40,7 +44,9 @@ https://static.openfintech.io/payment_providers/mopay/icon.png?w=278&c=v0.59.26#
 ```json
 {
   "code":"mopay",
-  "description":null,
+  "description":{
+    "en":"Mopay is a mobile payment platform that enables users to send and receive money, make purchases, and pay bills directly from their mobile devices. The app supports transactions through major mobile money services, providing a convenient and secure way to manage financial activities. With features like QR code scanning for swift payments and a user-friendly interface, Mopay simplifies the payment process for both individuals and merchants. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"mopay",
   "categories":null,
   "countries":[

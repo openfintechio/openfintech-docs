@@ -11,6 +11,7 @@
 |![ABN AMRO Bank](https://static.openfintech.io/payment_methods/abn_amro_bank/logo.svg?w=400&c=v0.59.26#w200) |[**ABN AMRO Bank**](/payment-methods/abn_amro_bank/)|[`abn_amro_bank_eur_hpp`](abn_amro_bank_eur_hpp/)| 
 |![ACB Bank](https://static.openfintech.io/payment_methods/acb_bank/logo.svg?w=400&c=v0.59.26#w200) |[**ACB Bank**](/payment-methods/acb_bank/)|[`acb_bank_vnd_hpp`](acb_bank_vnd_hpp/)| 
 |![Acertemos](https://static.openfintech.io/payment_methods/acertemos/logo.svg?w=400&c=v0.59.26#w200) |[**Acertemos**](/payment-methods/acertemos/)|[`acertemosin_cop_hpp`](acertemosin_cop_hpp/)| 
+|![Automated Clearing House (ACH)](https://static.openfintech.io/payment_methods/ach/logo.svg?w=400&c=v0.59.26#w200) |[**Automated Clearing House (ACH)**](/payment-methods/ach/)|[`ach_usd_hpp`](ach_usd_hpp/)| 
 |![Kcell/Activ](https://static.openfintech.io/payment_methods/activ_kcell/logo.svg?w=400&c=v0.59.26#w200) |[**Kcell/Activ**](/payment-methods/activ_kcell/)|[`activ_kcell_kzt_hpp`](activ_kcell_kzt_hpp/)| 
 |![Activa WesternUnion](https://static.openfintech.io/payment_methods/activa_westernunion/logo.svg?w=400&c=v0.59.26#w200) |[**Activa WesternUnion**](/payment-methods/activa_westernunion/)|[`activa_westernunion_usd_hpp`](activa_westernunion_usd_hpp/)| 
 |![AdvCash](https://static.openfintech.io/payment_methods/advcash_card/logo.svg?w=400&c=v0.59.26#w200) |[**AdvCash**](/payment-methods/advcash_card/)|[`advcash_card_eur_hpp`](advcash_card_eur_hpp/)| 

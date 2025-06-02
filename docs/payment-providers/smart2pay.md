@@ -12,6 +12,10 @@
  
 :	[EN] Smart2Pay 
  
+**Description:** 
+ 
+: [EN] Smart2Pay, now operating under the name Nuvei Local Payments, is a global payment service provider that enables merchants to accept local and alternative payment methods in over 100 countries. The platform offers access to a wide range of payment options including bank transfers, e-wallets, prepaid cards, and cash payments, making it particularly valuable for businesses looking to expand their reach in emerging markets. Smart2Pay’s unified API allows for seamless integration and simplifies the complexity of managing multiple local payment providers. With a focus on compliance, fraud prevention, and localization, Smart2Pay supports industries such as digital content, e-commerce, gaming, and travel. This and 500+ providers are already integrated to Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 **Categories:**`aggregating` ,`distributing` ,`collecting` 
  
  
@@ -77,7 +81,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"smart2pay",
-  "description":null,
+  "description":{
+    "en":"Smart2Pay, now operating under the name Nuvei Local Payments, is a global payment service provider that enables merchants to accept local and alternative payment methods in over 100 countries. The platform offers access to a wide range of payment options including bank transfers, e-wallets, prepaid cards, and cash payments, making it particularly valuable for businesses looking to expand their reach in emerging markets. Smart2Pay\u2019s unified API allows for seamless integration and simplifies the complexity of managing multiple local payment providers. With a focus on compliance, fraud prevention, and localization, Smart2Pay supports industries such as digital content, e-commerce, gaming, and travel. This and 500+ providers are already integrated to Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"smart2pay",
   "categories":[
     "aggregating",

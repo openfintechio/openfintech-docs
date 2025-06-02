@@ -11,6 +11,10 @@
 :	[RU] Payfix 
 :	[UK] Payfix 
  
+**Description:** 
+ 
+: [EN] PayFix is a licensed electronic money institution based in Turkey, offering digital wallet and payment solutions for both individuals and businesses. Regulated by the Central Bank of the Republic of Turkey, PayFix enables users to perform secure and fast financial transactions, including money transfers, bill payments, and online purchases. The platform provides a mobile wallet that supports Turkish Lira transactions and features such as IBAN creation, QR code payments, and integration with local banking systems. For merchants, PayFix offers tools to accept payments online, manage customer transactions, and track financial activities via a user-friendly interface. This and 500+ providers are already integrated to Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 **Category:** `alternative` 
  
 
@@ -63,7 +67,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Payfix_
     "ru":"Payfix",
     "uk":"Payfix"
   },
-  "description":null,
+  "description":{
+    "en":"PayFix is a licensed electronic money institution based in Turkey, offering digital wallet and payment solutions for both individuals and businesses. Regulated by the Central Bank of the Republic of Turkey, PayFix enables users to perform secure and fast financial transactions, including money transfers, bill payments, and online purchases. The platform provides a mobile wallet that supports Turkish Lira transactions and features such as IBAN creation, QR code payments, and integration with local banking systems. For merchants, PayFix offers tools to accept payments online, manage customer transactions, and track financial activities via a user-friendly interface. This and 500+ providers are already integrated to Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "countries":null,
   "category":"alternative"
 }

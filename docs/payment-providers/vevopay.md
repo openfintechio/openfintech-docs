@@ -14,6 +14,10 @@
 :	[RU] VevoPay 
 :	[UK] VevoPay 
  
+**Description:** 
+ 
+: [EN] VevoPay is a digital payment service provider that facilitates seamless online transactions for businesses, particularly in regions where alternative payment methods are prevalent. Specializing in offering a variety of local payment options, VevoPay enables merchants to cater to diverse customer preferences, enhancing the overall payment experience. The platform supports integrations with various payment methods, ensuring flexibility and adaptability for businesses aiming to expand their reach. VevoPay’s infrastructure is designed to provide secure, efficient, and user-friendly payment solutions, making it a valuable partner for merchants seeking to optimize their payment processes. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -70,7 +74,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"vevopay",
-  "description":null,
+  "description":{
+    "en":"VevoPay is a digital payment service provider that facilitates seamless online transactions for businesses, particularly in regions where alternative payment methods are prevalent. Specializing in offering a variety of local payment options, VevoPay enables merchants to cater to diverse customer preferences, enhancing the overall payment experience. The platform supports integrations with various payment methods, ensuring flexibility and adaptability for businesses aiming to expand their reach. VevoPay\u2019s infrastructure is designed to provide secure, efficient, and user-friendly payment solutions, making it a valuable partner for merchants seeking to optimize their payment processes. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"vevopay",
   "categories":null,
   "countries":null,

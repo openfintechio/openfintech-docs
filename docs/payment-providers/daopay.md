@@ -12,6 +12,10 @@
  
 :	[EN] DaoPay 
  
+**Description:** 
+ 
+: [EN] DaoPay is a global payment service provider that specializes in enabling merchants to accept payments via phone and mobile billing. Established in Austria, DaoPay allows users to make purchases by charging transactions directly to their phone bills or using prepaid mobile credit, making it especially popular in regions with limited access to banking or credit cards. The platform supports voice calls, SMS payments, and direct carrier billing, and is commonly used in industries like online gaming, entertainment, and digital content. With a focus on accessibility, security, and ease of use, DaoPay helps businesses reach broader audiences by offering simple and inclusive payment options. This and 500+ providers are already integrated to Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
  
 **Countries:** 
  
@@ -40,7 +44,9 @@ https://static.openfintech.io/payment_providers/daopay/icon.png?w=278&c=v0.59.26
 ```json
 {
   "code":"daopay",
-  "description":null,
+  "description":{
+    "en":"DaoPay is a global payment service provider that specializes in enabling merchants to accept payments via phone and mobile billing. Established in Austria, DaoPay allows users to make purchases by charging transactions directly to their phone bills or using prepaid mobile credit, making it especially popular in regions with limited access to banking or credit cards. The platform supports voice calls, SMS payments, and direct carrier billing, and is commonly used in industries like online gaming, entertainment, and digital content. With a focus on accessibility, security, and ease of use, DaoPay helps businesses reach broader audiences by offering simple and inclusive payment options. This and 500+ providers are already integrated to Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"daopay",
   "categories":null,
   "countries":[

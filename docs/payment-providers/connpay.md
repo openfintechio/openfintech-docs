@@ -14,6 +14,10 @@
 :	[RU] ConnPay 
 :	[UK] ConnPay 
  
+**Description:** 
+ 
+: [EN] ConnPay is a PCI DSS-compliant payment gateway solution developed by CONNECTGROUP DWC-LLC, a UAE-based IT company. It offers a comprehensive suite of international payment processing services, supporting various transaction types associated with bank card payments. ConnPay’s platform is designed to facilitate seamless integration for businesses, providing tools for efficient payment management and processing. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -58,7 +62,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"connpay",
-  "description":null,
+  "description":{
+    "en":"ConnPay is a PCI DSS-compliant payment gateway solution developed by CONNECTGROUP DWC-LLC, a UAE-based IT company. It offers a comprehensive suite of international payment processing services, supporting various transaction types associated with bank card payments. ConnPay\u2019s platform is designed to facilitate seamless integration for businesses, providing tools for efficient payment management and processing. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"connpay",
   "categories":null,
   "countries":null,

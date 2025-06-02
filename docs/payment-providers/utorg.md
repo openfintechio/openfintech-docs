@@ -14,6 +14,10 @@
 :	[RU] Utorg 
 :	[UK] Utorg 
  
+**Description:** 
+ 
+: [EN] Utorg is a fintech company that provides a fiat-to-crypto payment gateway, enabling users to buy cryptocurrencies instantly using traditional payment methods like credit and debit cards, Apple Pay, Google Pay, and bank transfers. Headquartered in Lithuania, Utorg is regulated under EU financial laws and emphasizes security, compliance, and ease of use. Its widget can be seamlessly integrated into websites, wallets, and exchanges, allowing businesses to onboard users quickly and expand their crypto offerings. The platform supports multiple fiat currencies and a growing list of cryptocurrencies, offering a fast and intuitive user experience with built-in KYC verification. This and 500+ providers are already integrated to Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -53,7 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"utorg",
-  "description":null,
+  "description":{
+    "en":"Utorg is a fintech company that provides a fiat-to-crypto payment gateway, enabling users to buy cryptocurrencies instantly using traditional payment methods like credit and debit cards, Apple Pay, Google Pay, and bank transfers. Headquartered in Lithuania, Utorg is regulated under EU financial laws and emphasizes security, compliance, and ease of use. Its widget can be seamlessly integrated into websites, wallets, and exchanges, allowing businesses to onboard users quickly and expand their crypto offerings. The platform supports multiple fiat currencies and a growing list of cryptocurrencies, offering a fast and intuitive user experience with built-in KYC verification. This and 500+ providers are already integrated to Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"utorg",
   "categories":null,
   "countries":null,

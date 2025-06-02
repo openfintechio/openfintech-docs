@@ -14,6 +14,10 @@
 :	[RU] Flexify 
 :	[UK] Flexify 
  
+**Description:** 
+ 
+: [EN] Flexify Finance is a Canadian-registered fintech company providing comprehensive global payment solutions for businesses of all sizes. Licensed by FINTRAC, Flexify offers a secure, PCI DSS-compliant platform supporting over 60 payment methods and more than 20 currencies, including USD, EUR, UAH, INR, NGN, KES, TRY, and KGS. Their services encompass card acquiring, digital wallets, open banking, cryptocurrency payments, and mass payouts, catering to industries such as e-commerce, iGaming, and high-risk sectors. Flexify’s platform features cascading and routing technologies to optimize transaction success rates and offers seamless integration through APIs and CMS plugins. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -58,7 +62,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"flexify",
-  "description":null,
+  "description":{
+    "en":"Flexify Finance is a Canadian-registered fintech company providing comprehensive global payment solutions for businesses of all sizes. Licensed by FINTRAC, Flexify offers a secure, PCI DSS-compliant platform supporting over 60 payment methods and more than 20 currencies, including USD, EUR, UAH, INR, NGN, KES, TRY, and KGS. Their services encompass card acquiring, digital wallets, open banking, cryptocurrency payments, and mass payouts, catering to industries such as e-commerce, iGaming, and high-risk sectors. Flexify\u2019s platform features cascading and routing technologies to optimize transaction success rates and offers seamless integration through APIs and CMS plugins. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"flexify",
   "categories":null,
   "countries":null,

@@ -14,6 +14,10 @@
 :	[RU] b2pay.io 
 :	[UK] b2pay.io 
  
+**Description:** 
+ 
+: [EN] B2Pay is a global payment service provider offering a comprehensive suite of solutions for online businesses, including card acquiring, payouts, and digital wallet services. The platform supports major card networks such as Visa, Mastercard, American Express, Discover, JCB, and UnionPay, enabling merchants to accept payments from customers worldwide. B2Pay also facilitates payouts to cards globally in EUR and issues both virtual and physical cards for projects, providing flexibility in managing funds. With APIs supporting card-to-card (C2C), peer-to-peer (P2P), and original credit transfer (OCT) transactions, B2Pay ensures seamless integration and efficient payment processing. Operating in a multi-jurisdictional regulated environment, B2Pay emphasizes security and compliance, offering services in over 190 countries. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -48,7 +52,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"b2pay",
-  "description":null,
+  "description":{
+    "en":"B2Pay is a global payment service provider offering a comprehensive suite of solutions for online businesses, including card acquiring, payouts, and digital wallet services. The platform supports major card networks such as Visa, Mastercard, American Express, Discover, JCB, and UnionPay, enabling merchants to accept payments from customers worldwide. B2Pay also facilitates payouts to cards globally in EUR and issues both virtual and physical cards for projects, providing flexibility in managing funds. With APIs supporting card-to-card (C2C), peer-to-peer (P2P), and original credit transfer (OCT) transactions, B2Pay ensures seamless integration and efficient payment processing. Operating in a multi-jurisdictional regulated environment, B2Pay emphasizes security and compliance, offering services in over 190 countries. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"b2pay",
   "categories":null,
   "countries":null,

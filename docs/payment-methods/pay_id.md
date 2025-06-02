@@ -11,6 +11,10 @@
 :	[UK] PayID 
 :	[RU] PayID 
  
+**Description:** 
+ 
+: [EN] Pay ID is a real-time payment method developed for the New Payments Platform (NPP) in Australia, designed to simplify the process of sending and receiving money using easy-to-remember identifiers instead of traditional bank account numbers. Users can link a Pay ID—such as a mobile number, email address, or ABN—to their bank account, enabling fast, secure, and near-instant transfers 24/7. Widely adopted by Australian banks and financial institutions, Pay ID enhances user experience by making payments more accessible and reducing input errors. It is particularly useful for peer-to-peer transfers, bill payments, and business transactions, offering the benefits of real-time confirmation, strong security standards, and compatibility with mobile banking apps. 
+ 
 **Category:** `invoice_payment` 
  
 
@@ -61,7 +65,9 @@ The list of [Payment Providers](/payment-providers/) that support the _PayID_
     "uk":"PayID",
     "ru":"PayID"
   },
-  "description":null,
+  "description":{
+    "en":"Pay ID is a real-time payment method developed for the New Payments Platform (NPP) in Australia, designed to simplify the process of sending and receiving money using easy-to-remember identifiers instead of traditional bank account numbers. Users can link a Pay ID\u2014such as a mobile number, email address, or ABN\u2014to their bank account, enabling fast, secure, and near-instant transfers 24\/7. Widely adopted by Australian banks and financial institutions, Pay ID enhances user experience by making payments more accessible and reducing input errors. It is particularly useful for peer-to-peer transfers, bill payments, and business transactions, offering the benefits of real-time confirmation, strong security standards, and compatibility with mobile banking apps."
+  },
   "countries":null,
   "category":"invoice_payment"
 }

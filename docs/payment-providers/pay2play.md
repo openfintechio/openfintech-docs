@@ -14,6 +14,10 @@
 :	[RU] pay2play 
 :	[UK] pay2play 
  
+**Description:** 
+ 
+: [EN] Pay2Play is a fintech payment service provider specializing in peer-to-peer (P2P) payment solutions tailored for high-risk industries such as iGaming, forex, cryptocurrency, and online poker. The platform emphasizes secure, private, and efficient transactions, offering features like instant settlements (T+0), 24/7 support, and a 1:1 exchange rate. Pay2Play’s infrastructure is designed for seamless integration, providing businesses with a reliable and user-friendly payment processing experience. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -59,7 +63,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"pay2play",
-  "description":null,
+  "description":{
+    "en":"Pay2Play is a fintech payment service provider specializing in peer-to-peer (P2P) payment solutions tailored for high-risk industries such as iGaming, forex, cryptocurrency, and online poker. The platform emphasizes secure, private, and efficient transactions, offering features like instant settlements (T+0), 24\/7 support, and a 1:1 exchange rate. Pay2Play\u2019s infrastructure is designed for seamless integration, providing businesses with a reliable and user-friendly payment processing experience. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"pay2play",
   "categories":null,
   "countries":null,
