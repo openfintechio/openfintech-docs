@@ -45,6 +45,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
 |![rapidtransfer](https://static.openfintech.io/payment_methods/rapidtransfer/icon.png?w=278&c=v0.59.26#w100) |[rapidtransfer](/payment-methods/rapidtransfer/)|`rapidtransfer`| 
 |![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik](/payment-methods/blik/)|`blik`| 
+|![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/icon.png?w=278&c=v0.59.26#w100) |[polipayonline](/payment-methods/polipayonline/)|`polipayonline`| 
  
 
 ## JSON Object 
@@ -62,7 +63,8 @@ The list of supported [Payment Methods](/payment-methods/)
     "neteller",
     "paysafecard",
     "rapidtransfer",
-    "blik"
+    "blik",
+    "polipayonline"
   ],
   "payout_method":null,
   "metadata":null,

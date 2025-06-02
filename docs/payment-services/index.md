@@ -1401,6 +1401,7 @@
 |![Pix Qr](https://static.openfintech.io/payment_methods/pix_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Pix Qr**](/payment-methods/pix_qr/)|[`pix_qr_brl_invoice`](pix_qr_brl_invoice/)| 
 |![PIX](https://static.openfintech.io/payment_methods/pix/logo.svg?w=400&c=v0.59.26#w200) |[**PIX**](/payment-methods/pix/)|[`pix_usd_hpp`](pix_usd_hpp/)| 
 |![POLi Payments](https://static.openfintech.io/payment_methods/polipayonline/logo.png?w=400&c=v0.59.26#w200) |[**POLi Payments**](/payment-methods/polipayonline/)|[`polipayonline_aud_hpp`](polipayonline_aud_hpp/)| 
+|![POLi Payments](https://static.openfintech.io/payment_methods/polipayonline/logo.png?w=400&c=v0.59.26#w200) |[**POLi Payments**](/payment-methods/polipayonline/)|[`polipayonline_nzd_hpp`](polipayonline_nzd_hpp/)| 
 |![Polkadot](https://static.openfintech.io/payment_methods/polkadot/logo.png?w=400&c=v0.59.26#w200) |[**Polkadot**](/payment-methods/polkadot/)|[`polkadot_eur_hpp`](polkadot_eur_hpp/)| 
 |![Polkadot](https://static.openfintech.io/payment_methods/polkadot/logo.png?w=400&c=v0.59.26#w200) |[**Polkadot**](/payment-methods/polkadot/)|[`polkadot_usd_hpp`](polkadot_usd_hpp/)| 
 |![Polygon](https://static.openfintech.io/payment_methods/polygon/logo.svg?w=400&c=v0.59.26#w200) |[**Polygon**](/payment-methods/polygon/)|[`polygon_matic_hpp`](polygon_matic_hpp/)| 

@@ -44,6 +44,7 @@ The list of [Payment Services](/payment-services/) based on the _POLi Payments_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/icon.png?w=278&c=v0.59.26#w100) |[polipayonline_aud_hpp](/payment-services/polipayonline_aud_hpp/)|`polipayonline_aud_hpp`| 
+|![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/icon.png?w=278&c=v0.59.26#w100) |[polipayonline_nzd_hpp](/payment-services/polipayonline_nzd_hpp/)|`polipayonline_nzd_hpp`| 
  
 
 ## Payment Providers 
@@ -64,6 +65,7 @@ The list of [Payment Providers](/payment-providers/) that support the _POLi Paym
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
 |![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.png?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
 |![asiapay](https://static.openfintech.io/payment_providers/asiapay/icon.png?w=278&c=v0.59.26#w100) |[AsiaPay](/payment-providers/asiapay/)|`asiapay`| 
+|![gatetwoway](https://static.openfintech.io/payment_providers/gatetwoway/icon.svg?w=278&c=v0.59.26#w100) |[Gate2way](/payment-providers/gatetwoway/)|`gatetwoway`| 
  
 
 ## JSON Object 
