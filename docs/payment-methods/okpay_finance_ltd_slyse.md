@@ -11,6 +11,10 @@
 :	[RU] OKPAY FINANCE LTD Slyse 
 :	[UK] OKPAY FINANCE LTD Slyse 
  
+**Description:** 
+ 
+: [EN] OKPAY FINANCE LTD, operating under the name Slyse, is a digital payment method that facilitates online transactions through electronic wallets and multi-currency accounts, with a focus on fast and secure money transfers for both individuals and businesses. It offers a convenient way to pay for goods and services, send remittances, and manage cross-border transactions, supporting a wide array of funding options including bank transfers, card payments, and other digital assets. Slyse is particularly popular in regions and industries where access to traditional banking may be limited or where alternative, flexible payment methods are in demand. Its infrastructure is built to support scalability and compliance, with user-friendly interfaces and tools for transaction management. 
+ 
 **Category:** `digital_wallet` 
  
 
@@ -59,7 +63,9 @@ The list of [Payment Providers](/payment-providers/) that support the _OKPAY FIN
     "ru":"OKPAY FINANCE LTD Slyse",
     "uk":"OKPAY FINANCE LTD Slyse"
   },
-  "description":null,
+  "description":{
+    "en":"OKPAY FINANCE LTD, operating under the name Slyse, is a digital payment method that facilitates online transactions through electronic wallets and multi-currency accounts, with a focus on fast and secure money transfers for both individuals and businesses. It offers a convenient way to pay for goods and services, send remittances, and manage cross-border transactions, supporting a wide array of funding options including bank transfers, card payments, and other digital assets. Slyse is particularly popular in regions and industries where access to traditional banking may be limited or where alternative, flexible payment methods are in demand. Its infrastructure is built to support scalability and compliance, with user-friendly interfaces and tools for transaction management."
+  },
   "countries":null,
   "category":"digital_wallet"
 }

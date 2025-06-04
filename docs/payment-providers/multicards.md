@@ -12,6 +12,10 @@
  
 :	[EN] MultiCards Internet Billing 
  
+**Description:** 
+ 
+: [EN] Multicards is a global payment service provider offering secure and versatile online payment processing solutions tailored to international e-commerce businesses. With a history dating back to the 1990s, Multicards enables merchants to accept a wide range of payment methods, including credit and debit cards, direct debits, bank transfers, and various local payment options across multiple currencies and countries. The platform is designed to support subscription billing, fraud prevention, and multi-language interfaces, making it particularly suitable for businesses with a global customer base. Multicards provides robust reporting and reconciliation tools, along with customizable checkout experiences to enhance conversion rates. Its services cater to both low- and high-risk industries, ensuring compliance with regulatory standards like PCI DSS. Multicards and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 **Categories:**`aggregating` ,`distributing` ,`collecting` 
  
  
@@ -60,7 +64,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"multicards",
-  "description":null,
+  "description":{
+    "en":"Multicards is a global payment service provider offering secure and versatile online payment processing solutions tailored to international e-commerce businesses. With a history dating back to the 1990s, Multicards enables merchants to accept a wide range of payment methods, including credit and debit cards, direct debits, bank transfers, and various local payment options across multiple currencies and countries. The platform is designed to support subscription billing, fraud prevention, and multi-language interfaces, making it particularly suitable for businesses with a global customer base. Multicards provides robust reporting and reconciliation tools, along with customizable checkout experiences to enhance conversion rates. Its services cater to both low- and high-risk industries, ensuring compliance with regulatory standards like PCI DSS. Multicards and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"multicards",
   "categories":[
     "aggregating",

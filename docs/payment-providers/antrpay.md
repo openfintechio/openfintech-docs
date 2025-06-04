@@ -14,6 +14,10 @@
 :	[RU] Antrpay 
 :	[UK] Antrpay 
  
+**Description:** 
+ 
+: [EN] AntrPay is a digital payment platform designed to facilitate seamless, secure, and fast online transactions for businesses and consumers. It provides a range of services including online payment processing, merchant accounts, and support for multiple local and international payment methods. AntrPay focuses on enhancing user experience by offering simplified checkout flows, strong fraud prevention mechanisms, and real-time transaction monitoring. The platform is tailored for various industries, including e-commerce, digital services, and financial platforms, helping businesses manage their payment operations efficiently and scale across markets. AntrPay and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -58,7 +62,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"antrpay",
-  "description":null,
+  "description":{
+    "en":"AntrPay is a digital payment platform designed to facilitate seamless, secure, and fast online transactions for businesses and consumers. It provides a range of services including online payment processing, merchant accounts, and support for multiple local and international payment methods. AntrPay focuses on enhancing user experience by offering simplified checkout flows, strong fraud prevention mechanisms, and real-time transaction monitoring. The platform is tailored for various industries, including e-commerce, digital services, and financial platforms, helping businesses manage their payment operations efficiently and scale across markets. AntrPay and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"antrpay",
   "categories":null,
   "countries":null,

@@ -13,7 +13,7 @@
  
 **Description:** 
  
-: [EN] The SEPA Direct Debit enables to make pan-European collections in euro's on a one-off or recurrent basis. 
+: [EN] SEPA Direct Debit is a popular bank-to-bank payment method used across the Single Euro Payments Area (SEPA), enabling merchants to collect euro-denominated payments directly from customers’ bank accounts. Ideal for recurring payments such as subscriptions, utility bills, and memberships, SEPA Direct Debit offers a reliable and low-cost alternative to card payments in Europe. Customers authorize merchants through a one-time mandate, after which payments can be pulled automatically on agreed dates. This method is known for its convenience, security, and low failure rates, as well as providing merchants with clear settlement timelines and customers with the right to dispute unauthorized transactions. SEPA Direct Debit is supported by virtually all European banks and is fully regulated under EU payment laws, ensuring high compliance and standardization. 
  
 **Category:** `direct_debit` 
  
@@ -77,7 +77,7 @@ The list of [Payment Providers](/payment-providers/) that support the _SEPA Dire
     "en":"SEPA Direct Debit"
   },
   "description":{
-    "en":"The SEPA Direct Debit enables to make pan-European collections in euro's on a one-off or recurrent basis."
+    "en":"SEPA Direct Debit is a popular bank-to-bank payment method used across the Single Euro Payments Area (SEPA), enabling merchants to collect euro-denominated payments directly from customers\u2019 bank accounts. Ideal for recurring payments such as subscriptions, utility bills, and memberships, SEPA Direct Debit offers a reliable and low-cost alternative to card payments in Europe. Customers authorize merchants through a one-time mandate, after which payments can be pulled automatically on agreed dates. This method is known for its convenience, security, and low failure rates, as well as providing merchants with clear settlement timelines and customers with the right to dispute unauthorized transactions. SEPA Direct Debit is supported by virtually all European banks and is fully regulated under EU payment laws, ensuring high compliance and standardization."
   },
   "countries":[
     "AL",

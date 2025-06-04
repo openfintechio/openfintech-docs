@@ -14,6 +14,10 @@
 :	[RU] Boom-Bill 
 :	[UK] Boom-Bill 
  
+**Description:** 
+ 
+: [EN] Boombill is a payment service provider that facilitates online transactions with a focus on offering customized solutions for high-risk industries, including iGaming, adult entertainment, and digital services. The company delivers a suite of tools for merchants, including payment processing, fraud prevention, and chargeback management. Boombill supports multiple payment methods such as credit cards, alternative payment solutions, and localized options tailored to different regions, aiming to enhance transaction success rates and user experience. With an emphasis on compliance and secure processing, Boombill helps merchants navigate complex regulatory landscapes while optimizing revenue streams. Boombill and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -47,7 +51,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"boombill",
-  "description":null,
+  "description":{
+    "en":"Boombill is a payment service provider that facilitates online transactions with a focus on offering customized solutions for high-risk industries, including iGaming, adult entertainment, and digital services. The company delivers a suite of tools for merchants, including payment processing, fraud prevention, and chargeback management. Boombill supports multiple payment methods such as credit cards, alternative payment solutions, and localized options tailored to different regions, aiming to enhance transaction success rates and user experience. With an emphasis on compliance and secure processing, Boombill helps merchants navigate complex regulatory landscapes while optimizing revenue streams. Boombill and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"boombill",
   "categories":null,
   "countries":null,

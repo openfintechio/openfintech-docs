@@ -14,6 +14,10 @@
 :	[RU] Rixsus 
 :	[UK] Rixsus 
  
+**Description:** 
+ 
+: [EN] Rixsus is a global fintech company that provides payment processing and banking solutions for online businesses, with a focus on high-risk and cross-border industries such as iGaming, forex, and e-commerce. The company offers acquiring services, card payment solutions, alternative payment methods, and virtual IBANs, enabling merchants to operate efficiently across multiple markets. Rixsus emphasizes regulatory compliance, secure infrastructure, and flexible integration options to support both startups and established enterprises in managing complex payment flows. Its platform includes tools for transaction monitoring, fraud prevention, and real-time analytics, helping businesses optimize revenue while mitigating risk. Rixsus and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -61,7 +65,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"rixsus",
-  "description":null,
+  "description":{
+    "en":"Rixsus is a global fintech company that provides payment processing and banking solutions for online businesses, with a focus on high-risk and cross-border industries such as iGaming, forex, and e-commerce. The company offers acquiring services, card payment solutions, alternative payment methods, and virtual IBANs, enabling merchants to operate efficiently across multiple markets. Rixsus emphasizes regulatory compliance, secure infrastructure, and flexible integration options to support both startups and established enterprises in managing complex payment flows. Its platform includes tools for transaction monitoring, fraud prevention, and real-time analytics, helping businesses optimize revenue while mitigating risk. Rixsus and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"rixsus",
   "categories":null,
   "countries":null,

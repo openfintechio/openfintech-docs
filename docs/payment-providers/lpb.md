@@ -14,6 +14,10 @@
 :	[RU] LPB 
 :	[UK] LPB 
  
+**Description:** 
+ 
+: [EN] LPB Bank (Latvijas Pasta Banka) is a Latvia-based financial institution that offers a wide range of banking and financial services, including payment processing and merchant acquiring for businesses operating locally and internationally. The bank provides tailored solutions for e-commerce companies, including support for card payments, SEPA and SWIFT transfers, multi-currency accounts, and fraud prevention tools. LPB Bank specializes in servicing digital businesses and high-risk industries, offering streamlined onboarding and a focus on compliance with EU regulations, including AML and KYC standards. Its infrastructure is designed to support fast, secure transactions and reliable cross-border banking. LPB and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -49,7 +53,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"lpb",
-  "description":null,
+  "description":{
+    "en":"LPB Bank (Latvijas Pasta Banka) is a Latvia-based financial institution that offers a wide range of banking and financial services, including payment processing and merchant acquiring for businesses operating locally and internationally. The bank provides tailored solutions for e-commerce companies, including support for card payments, SEPA and SWIFT transfers, multi-currency accounts, and fraud prevention tools. LPB Bank specializes in servicing digital businesses and high-risk industries, offering streamlined onboarding and a focus on compliance with EU regulations, including AML and KYC standards. Its infrastructure is designed to support fast, secure transactions and reliable cross-border banking. LPB and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"lpb",
   "categories":null,
   "countries":null,

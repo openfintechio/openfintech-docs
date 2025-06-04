@@ -14,6 +14,10 @@
 :	[RU] AliumPay 
 :	[UK] AliumPay 
  
+**Description:** 
+ 
+: [EN] AliumPay is a payment service provider offering digital payment solutions tailored for online businesses operating in sectors such as e-commerce, digital services, and high-risk industries. The platform supports a wide range of payment methods, including global card schemes, local alternatives, and bank transfers, allowing merchants to process transactions securely and efficiently across multiple markets. AliumPay emphasizes flexible integration options, real-time transaction monitoring, and tools for fraud prevention to help businesses optimize conversion rates and reduce payment risk. With multi-currency support and scalable infrastructure, AliumPay enables merchants to expand globally while ensuring compliance with regulatory standards. AliumPay and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -56,7 +60,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"aliumpay",
-  "description":null,
+  "description":{
+    "en":"AliumPay is a payment service provider offering digital payment solutions tailored for online businesses operating in sectors such as e-commerce, digital services, and high-risk industries. The platform supports a wide range of payment methods, including global card schemes, local alternatives, and bank transfers, allowing merchants to process transactions securely and efficiently across multiple markets. AliumPay emphasizes flexible integration options, real-time transaction monitoring, and tools for fraud prevention to help businesses optimize conversion rates and reduce payment risk. With multi-currency support and scalable infrastructure, AliumPay enables merchants to expand globally while ensuring compliance with regulatory standards. AliumPay and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"aliumpay",
   "categories":null,
   "countries":null,

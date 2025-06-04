@@ -12,6 +12,10 @@
  
 :	[EN] Buckaroo 
  
+**Description:** 
+ 
+: [EN] Buckaroo is a Netherlands-based payment service provider that offers a full suite of payment and subscription management solutions tailored for businesses across sectors like retail, e-commerce, B2B, and services. The platform supports over 40 national and international payment methods, including iDEAL, Bancontact, PayPal, credit cards, and buy-now-pay-later options, enabling merchants to serve both local and cross-border customers. Buckaroo also offers tools for invoicing, recurring billing, credit management, and marketplace payments, making it a robust platform for managing the entire payment lifecycle. With a focus on reliability, scalability, and compliance, Buckaroo helps businesses streamline their financial processes while enhancing the customer experience. Buckaroo and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 **Categories:**`aggregating` ,`distributing` ,`collecting` 
  
  
@@ -81,7 +85,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"buckaroo",
-  "description":null,
+  "description":{
+    "en":"Buckaroo is a Netherlands-based payment service provider that offers a full suite of payment and subscription management solutions tailored for businesses across sectors like retail, e-commerce, B2B, and services. The platform supports over 40 national and international payment methods, including iDEAL, Bancontact, PayPal, credit cards, and buy-now-pay-later options, enabling merchants to serve both local and cross-border customers. Buckaroo also offers tools for invoicing, recurring billing, credit management, and marketplace payments, making it a robust platform for managing the entire payment lifecycle. With a focus on reliability, scalability, and compliance, Buckaroo helps businesses streamline their financial processes while enhancing the customer experience. Buckaroo and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"buckaroo",
   "categories":[
     "aggregating",

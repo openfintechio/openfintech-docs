@@ -14,6 +14,10 @@
 :	[RU] Dropayment 
 :	[UK] Dropayment 
  
+**Description:** 
+ 
+: [EN] Dropayment is a payment service provider focused on delivering flexible and secure online payment solutions tailored to the needs of digital merchants, especially those operating in high-risk and rapidly growing industries like iGaming, e-commerce, and digital content. The company supports a variety of global and local payment methods, enabling merchants to reach broader audiences and facilitate smooth cross-border transactions. Dropayment emphasizes seamless integration, offering APIs and hosted payment pages, along with tools for fraud prevention, real-time transaction monitoring, and chargeback management. Its infrastructure is built to support multi-currency payments and scalable merchant onboarding, helping businesses grow with confidence in complex regulatory environments. Dropayment and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -56,7 +60,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"dropayment",
-  "description":null,
+  "description":{
+    "en":"Dropayment is a payment service provider focused on delivering flexible and secure online payment solutions tailored to the needs of digital merchants, especially those operating in high-risk and rapidly growing industries like iGaming, e-commerce, and digital content. The company supports a variety of global and local payment methods, enabling merchants to reach broader audiences and facilitate smooth cross-border transactions. Dropayment emphasizes seamless integration, offering APIs and hosted payment pages, along with tools for fraud prevention, real-time transaction monitoring, and chargeback management. Its infrastructure is built to support multi-currency payments and scalable merchant onboarding, helping businesses grow with confidence in complex regulatory environments. Dropayment and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"dropayment",
   "categories":null,
   "countries":null,

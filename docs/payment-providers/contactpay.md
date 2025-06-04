@@ -14,6 +14,10 @@
 :	[RU] ContactPay 
 :	[UK] ContactPay 
  
+**Description:** 
+ 
+: [EN] ContactPay is a payment service provider offering digital payment solutions designed to streamline online transactions for businesses across various industries, including e-commerce, travel, and digital content. The platform supports a wide range of payment methods, including major card networks, alternative payment options, and local methods to facilitate cross-border commerce. ContactPay focuses on delivering secure, fast, and scalable payment processing with features like fraud prevention, real-time analytics, and multi-currency support. Its API-driven infrastructure and flexible integration options make it suitable for businesses aiming to optimize checkout experiences and improve transaction success rates. ContactPay and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -57,7 +61,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"contactpay",
-  "description":null,
+  "description":{
+    "en":"ContactPay is a payment service provider offering digital payment solutions designed to streamline online transactions for businesses across various industries, including e-commerce, travel, and digital content. The platform supports a wide range of payment methods, including major card networks, alternative payment options, and local methods to facilitate cross-border commerce. ContactPay focuses on delivering secure, fast, and scalable payment processing with features like fraud prevention, real-time analytics, and multi-currency support. Its API-driven infrastructure and flexible integration options make it suitable for businesses aiming to optimize checkout experiences and improve transaction success rates. ContactPay and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"contactpay",
   "categories":null,
   "countries":null,

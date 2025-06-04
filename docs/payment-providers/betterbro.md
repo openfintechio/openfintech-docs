@@ -50,7 +50,7 @@ The list of supported [Payout Methods](/payout-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![upi](https://static.openfintech.io/payout_methods/upi/icon.svg?w=278&c=v0.59.26#w40) |[upi](payout-methodsupi/)|`upi`| 
+|![binancepay](https://static.openfintech.io/payout_methods/binancepay/icon.svg?w=278&c=v0.59.26#w40) |[binancepay](payout-methodsbinancepay/)|`binancepay`| 
  
 
 ## JSON Object 
@@ -68,7 +68,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "blik"
   ],
   "payout_method":[
-    "upi"
+    "binancepay"
   ],
   "metadata":null,
   "name":{

@@ -14,6 +14,10 @@
 :	[RU] PayStudio 
 :	[UK] PayStudio 
  
+**Description:** 
+ 
+: [EN] PayStudio is a payment service provider that offers a range of financial solutions tailored to the needs of online merchants, particularly in high-risk and digital sectors such as iGaming, forex, and e-commerce. The company focuses on delivering reliable acquiring services, card payment processing, alternative payment methods, and advanced fraud prevention tools. With an emphasis on compliance, security, and performance, PayStudio enables businesses to accept payments globally while optimizing approval rates and reducing chargebacks. The platform is built to be flexible and scalable, supporting multi-currency transactions and seamless integration through APIs or hosted solutions. PayStudio and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -47,7 +51,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"paystudio",
-  "description":null,
+  "description":{
+    "en":"PayStudio is a payment service provider that offers a range of financial solutions tailored to the needs of online merchants, particularly in high-risk and digital sectors such as iGaming, forex, and e-commerce. The company focuses on delivering reliable acquiring services, card payment processing, alternative payment methods, and advanced fraud prevention tools. With an emphasis on compliance, security, and performance, PayStudio enables businesses to accept payments globally while optimizing approval rates and reducing chargebacks. The platform is built to be flexible and scalable, supporting multi-currency transactions and seamless integration through APIs or hosted solutions. PayStudio and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"paystudio",
   "categories":null,
   "countries":null,

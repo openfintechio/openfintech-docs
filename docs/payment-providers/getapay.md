@@ -14,6 +14,10 @@
 :	[RU] GetaPay 
 :	[UK] GetaPay 
  
+**Description:** 
+ 
+: [EN] GetaPay is a payment service provider offering tailored online payment solutions for businesses in sectors such as e-commerce, digital services, and high-risk industries like iGaming and forex. The platform enables merchants to accept a variety of payment methods, including international credit and debit cards, alternative payment systems, and localized banking options. GetaPay emphasizes fast onboarding, secure transaction processing, and flexible integration through APIs or hosted payment pages. With features like fraud prevention, chargeback management, and multi-currency support, GetaPay is designed to help merchants optimize conversion rates and expand their global reach. GetaPay and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -56,7 +60,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"getapay",
-  "description":null,
+  "description":{
+    "en":"GetaPay is a payment service provider offering tailored online payment solutions for businesses in sectors such as e-commerce, digital services, and high-risk industries like iGaming and forex. The platform enables merchants to accept a variety of payment methods, including international credit and debit cards, alternative payment systems, and localized banking options. GetaPay emphasizes fast onboarding, secure transaction processing, and flexible integration through APIs or hosted payment pages. With features like fraud prevention, chargeback management, and multi-currency support, GetaPay is designed to help merchants optimize conversion rates and expand their global reach. GetaPay and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"getapay",
   "categories":null,
   "countries":null,

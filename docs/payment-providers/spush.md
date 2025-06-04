@@ -14,6 +14,10 @@
 :	[RU] Spush 
 :	[UK] Spush 
  
+**Description:** 
+ 
+: [EN] Spush is a digital wallet platform designed to facilitate seamless and secure online payments. It offers users a straightforward interface for managing everyday financial transactions, including money transfers and service payments. Emphasizing instant processing and bank-level security, Spush ensures that users can handle their digital finances efficiently and with confidence. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -56,7 +60,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"spush",
-  "description":null,
+  "description":{
+    "en":"Spush is a digital wallet platform designed to facilitate seamless and secure online payments. It offers users a straightforward interface for managing everyday financial transactions, including money transfers and service payments. Emphasizing instant processing and bank-level security, Spush ensures that users can handle their digital finances efficiently and with confidence. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"spush",
   "categories":null,
   "countries":null,

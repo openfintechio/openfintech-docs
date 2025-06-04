@@ -14,6 +14,10 @@
 :	[RU] AstroPay 
 :	[UK] AstroPay 
  
+**Description:** 
+ 
+: [EN] AstroPay is a global payment solution that enables users to make online purchases and deposits without the need for a traditional bank account or credit card. Operating primarily in emerging markets across Latin America, Asia, and Africa, AstroPay offers prepaid cards, a digital wallet, and local payment methods to support fast and secure transactions. Its platform is designed to bridge the gap between merchants and users in regions where access to international banking infrastructure may be limited. AstroPay supports a wide array of currencies and provides services tailored to iGaming, forex, e-commerce, and other online sectors. With a strong emphasis on compliance and user data protection, AstroPay ensures regulatory alignment in the various jurisdictions where it operates. AstroPay and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
  
 **Countries:** 
  
@@ -62,7 +66,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"astropay",
-  "description":null,
+  "description":{
+    "en":"AstroPay is a global payment solution that enables users to make online purchases and deposits without the need for a traditional bank account or credit card. Operating primarily in emerging markets across Latin America, Asia, and Africa, AstroPay offers prepaid cards, a digital wallet, and local payment methods to support fast and secure transactions. Its platform is designed to bridge the gap between merchants and users in regions where access to international banking infrastructure may be limited. AstroPay supports a wide array of currencies and provides services tailored to iGaming, forex, e-commerce, and other online sectors. With a strong emphasis on compliance and user data protection, AstroPay ensures regulatory alignment in the various jurisdictions where it operates. AstroPay and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"astropay",
   "categories":null,
   "countries":[

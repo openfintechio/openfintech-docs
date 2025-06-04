@@ -12,6 +12,10 @@
  
 :	[EN] CardGate 
  
+**Description:** 
+ 
+: [EN] Cardgate by PayCore.io is a payment gateway solution designed to facilitate secure and efficient online card processing for businesses across various industries. Operating as part of the broader PayCore.io ecosystem, Cardgate provides a unified API that allows merchants to accept credit and debit card payments globally, while benefiting from advanced fraud protection, dynamic routing, and real-time transaction monitoring. The platform supports 3D Secure, tokenization, and customizable checkout options, enabling merchants to optimize conversion rates and ensure compliance with international security standards such as PCI DSS. Cardgate is particularly suitable for high-risk sectors and businesses looking to consolidate payment operations under a single infrastructure. 
+ 
  
 **Countries:** 
  
@@ -52,7 +56,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"cardgate",
-  "description":null,
+  "description":{
+    "en":"Cardgate by PayCore.io is a payment gateway solution designed to facilitate secure and efficient online card processing for businesses across various industries. Operating as part of the broader PayCore.io ecosystem, Cardgate provides a unified API that allows merchants to accept credit and debit card payments globally, while benefiting from advanced fraud protection, dynamic routing, and real-time transaction monitoring. The platform supports 3D Secure, tokenization, and customizable checkout options, enabling merchants to optimize conversion rates and ensure compliance with international security standards such as PCI DSS. Cardgate is particularly suitable for high-risk sectors and businesses looking to consolidate payment operations under a single infrastructure."
+  },
   "vendor":"paycore",
   "categories":null,
   "countries":[

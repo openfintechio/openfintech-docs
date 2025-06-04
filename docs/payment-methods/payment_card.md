@@ -11,6 +11,10 @@
 :	[RU] Платежная карта 
 :	[UK] Платіжна карта 
  
+**Description:** 
+ 
+: [EN] A payment card is a widely used financial instrument that allows consumers to make purchases, withdraw cash, and complete other financial transactions electronically. This category includes credit cards, debit cards, and prepaid cards, all of which are issued by banks or financial institutions and linked to either a line of credit, a bank account, or a preloaded balance. Payment cards are accepted globally across online and in-store channels and are supported by major card networks such as Visa, Mastercard, American Express, and others. They offer convenience, speed, and often additional features like fraud protection, cashback, and travel insurance. For merchants, accepting payment cards means broader customer reach, higher conversion rates, and access to billions of cardholders worldwide. Payment card transactions are typically processed through secure, PCI DSS-compliant infrastructures, ensuring data safety and operational reliability. 
+ 
 **Category:** `payment_card` 
  
 
@@ -648,7 +652,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
     "ru":"\u041f\u043b\u0430\u0442\u0435\u0436\u043d\u0430\u044f \u043a\u0430\u0440\u0442\u0430",
     "uk":"\u041f\u043b\u0430\u0442\u0456\u0436\u043d\u0430 \u043a\u0430\u0440\u0442\u0430"
   },
-  "description":null,
+  "description":{
+    "en":"A payment card is a widely used financial instrument that allows consumers to make purchases, withdraw cash, and complete other financial transactions electronically. This category includes credit cards, debit cards, and prepaid cards, all of which are issued by banks or financial institutions and linked to either a line of credit, a bank account, or a preloaded balance. Payment cards are accepted globally across online and in-store channels and are supported by major card networks such as Visa, Mastercard, American Express, and others. They offer convenience, speed, and often additional features like fraud protection, cashback, and travel insurance. For merchants, accepting payment cards means broader customer reach, higher conversion rates, and access to billions of cardholders worldwide. Payment card transactions are typically processed through secure, PCI DSS-compliant infrastructures, ensuring data safety and operational reliability."
+  },
   "countries":null,
   "category":"payment_card"
 }

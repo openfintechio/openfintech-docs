@@ -14,6 +14,10 @@
 :	[RU] Cash Bulls 
 :	[UK] Cash Bulls 
  
+**Description:** 
+ 
+: [EN] CashBulls is a payment service provider offering tailored online payment solutions for businesses operating in high-risk and fast-growing sectors such as iGaming, e-commerce, and digital services. The company delivers acquiring services, card processing, alternative payment methods, and merchant accounts, helping businesses accept payments globally with a focus on speed, security, and flexibility. CashBulls emphasizes ease of integration, high approval rates, and compliance with industry standards, providing tools for fraud prevention, transaction monitoring, and multi-currency processing. Its infrastructure supports scalable growth and enables merchants to reach international markets with localized payment experiences. CashBulls and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -50,7 +54,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"cashbulls",
-  "description":null,
+  "description":{
+    "en":"CashBulls is a payment service provider offering tailored online payment solutions for businesses operating in high-risk and fast-growing sectors such as iGaming, e-commerce, and digital services. The company delivers acquiring services, card processing, alternative payment methods, and merchant accounts, helping businesses accept payments globally with a focus on speed, security, and flexibility. CashBulls emphasizes ease of integration, high approval rates, and compliance with industry standards, providing tools for fraud prevention, transaction monitoring, and multi-currency processing. Its infrastructure supports scalable growth and enables merchants to reach international markets with localized payment experiences. CashBulls and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"cashbulls",
   "categories":null,
   "countries":null,

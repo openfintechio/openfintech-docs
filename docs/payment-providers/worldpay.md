@@ -12,6 +12,10 @@
  
 :	[EN] Worldpay 
  
+**Description:** 
+ 
+: [EN] Worldpay is one of the largest global payment processing companies, offering a comprehensive suite of solutions for businesses of all sizes to accept payments in-store, online, and via mobile. Originally based in the UK and now part of FIS (Fidelity National Information Services), Worldpay serves millions of merchants worldwide and supports over 300 payment methods across more than 120 currencies. Its services include card acquiring, payment gateway solutions, fraud prevention, recurring billing, and advanced data analytics. Worldpay is known for its strong presence in both low-risk and high-risk industries, providing scalable infrastructure and global reach for enterprises seeking to grow internationally. The platform is PCI DSS compliant and offers robust APIs and hosted checkout options to suit various integration needs. Worldpay and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 **Categories:**`distributing` ,`aggregating` ,`acquiring` ,`collecting` 
  
  
@@ -60,7 +64,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"worldpay",
-  "description":null,
+  "description":{
+    "en":"Worldpay is one of the largest global payment processing companies, offering a comprehensive suite of solutions for businesses of all sizes to accept payments in-store, online, and via mobile. Originally based in the UK and now part of FIS (Fidelity National Information Services), Worldpay serves millions of merchants worldwide and supports over 300 payment methods across more than 120 currencies. Its services include card acquiring, payment gateway solutions, fraud prevention, recurring billing, and advanced data analytics. Worldpay is known for its strong presence in both low-risk and high-risk industries, providing scalable infrastructure and global reach for enterprises seeking to grow internationally. The platform is PCI DSS compliant and offers robust APIs and hosted checkout options to suit various integration needs. Worldpay and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"worldpay",
   "categories":[
     "distributing",

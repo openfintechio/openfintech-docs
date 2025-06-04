@@ -14,6 +14,10 @@
 :	[RU] Onlypay 
 :	[UK] Onlypay 
  
+**Description:** 
+ 
+: [EN] OnlyPay is a digital payment platform offering fast, secure, and flexible payment processing services tailored to online businesses across various sectors, including e-commerce, gaming, and digital services. The provider focuses on enabling merchants to accept a wide range of payment methods, including major credit and debit cards, alternative payment solutions, and region-specific options to support cross-border transactions. OnlyPay emphasizes ease of integration, fraud prevention, and compliance, helping businesses improve approval rates while ensuring security and regulatory alignment. The platform is designed to be scalable, with real-time reporting, seamless onboarding, and tools for managing high-risk transaction environments. OnlyPay and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -47,7 +51,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"onlypay",
-  "description":null,
+  "description":{
+    "en":"OnlyPay is a digital payment platform offering fast, secure, and flexible payment processing services tailored to online businesses across various sectors, including e-commerce, gaming, and digital services. The provider focuses on enabling merchants to accept a wide range of payment methods, including major credit and debit cards, alternative payment solutions, and region-specific options to support cross-border transactions. OnlyPay emphasizes ease of integration, fraud prevention, and compliance, helping businesses improve approval rates while ensuring security and regulatory alignment. The platform is designed to be scalable, with real-time reporting, seamless onboarding, and tools for managing high-risk transaction environments. OnlyPay and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"onlypay",
   "categories":null,
   "countries":null,

@@ -12,6 +12,10 @@
  
 :	[EN] SegPay 
  
+**Description:** 
+ 
+: [EN] Segpay is a global payment service provider specializing in high-risk and subscription-based industries such as adult entertainment, digital media, and online services. Founded in 2005 and headquartered in Florida, USA, Segpay offers merchant acquiring, payment processing, fraud prevention, and compliance services with a strong emphasis on customer protection and regulatory adherence. The platform supports multiple currencies and payment methods, including credit cards and alternative payments, and is known for its real-time reporting, dynamic billing options, and chargeback management tools. As a PCI DSS Level 1-certified provider and EU-licensed payment institution, Segpay ensures a secure and fully compliant payment environment. This and 500+ providers are already integrated to Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -36,7 +40,9 @@ https://static.openfintech.io/payment_providers/segpay/icon.png?w=278&c=v0.59.26
 ```json
 {
   "code":"segpay",
-  "description":null,
+  "description":{
+    "en":"Segpay is a global payment service provider specializing in high-risk and subscription-based industries such as adult entertainment, digital media, and online services. Founded in 2005 and headquartered in Florida, USA, Segpay offers merchant acquiring, payment processing, fraud prevention, and compliance services with a strong emphasis on customer protection and regulatory adherence. The platform supports multiple currencies and payment methods, including credit cards and alternative payments, and is known for its real-time reporting, dynamic billing options, and chargeback management tools. As a PCI DSS Level 1-certified provider and EU-licensed payment institution, Segpay ensures a secure and fully compliant payment environment. This and 500+ providers are already integrated to Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"segpay",
   "categories":null,
   "countries":null,

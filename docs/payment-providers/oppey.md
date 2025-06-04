@@ -14,6 +14,10 @@
 :	[RU] Oppey 
 :	[UK] Oppey 
  
+**Description:** 
+ 
+: [EN] Oppey is a fintech company providing online payment processing solutions tailored for digital businesses, with a particular focus on sectors such as iGaming, e-commerce, and SaaS. The platform supports a wide array of payment methods, including major credit and debit cards as well as alternative and local options, enabling merchants to accept payments globally. Oppey emphasizes high approval rates, seamless integration, and regulatory compliance, offering tools such as fraud detection, transaction analytics, and real-time monitoring to ensure secure and efficient payment flows. The service is designed to be flexible and scalable, making it suitable for both startups and established businesses looking to optimize their global payment infrastructure. Oppey and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -47,7 +51,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"oppey",
-  "description":null,
+  "description":{
+    "en":"Oppey is a fintech company providing online payment processing solutions tailored for digital businesses, with a particular focus on sectors such as iGaming, e-commerce, and SaaS. The platform supports a wide array of payment methods, including major credit and debit cards as well as alternative and local options, enabling merchants to accept payments globally. Oppey emphasizes high approval rates, seamless integration, and regulatory compliance, offering tools such as fraud detection, transaction analytics, and real-time monitoring to ensure secure and efficient payment flows. The service is designed to be flexible and scalable, making it suitable for both startups and established businesses looking to optimize their global payment infrastructure. Oppey and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"oppey",
   "categories":null,
   "countries":null,

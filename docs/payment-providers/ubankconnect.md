@@ -14,6 +14,10 @@
 :	[RU] UBank Connect 
 :	[UK] UBank Connect 
  
+**Description:** 
+ 
+: [EN] UBank Connect is a Dubai-based fintech company specializing in alternative payment solutions tailored for emerging markets across Asia, Africa, Latin America, and Europe. The platform offers a comprehensive suite of services, including card payments, e-wallets, bank transfers, QR payments, and peer-to-peer transactions, all accessible through a single API integration. UBank Connect supports over 100 local and international payment methods, such as UPI, FPX, JazzCash, Easypaisa, Alipay, and AstroPay, enabling businesses to cater to diverse customer preferences. With a strong emphasis on security and compliance, the company provides features like 3D Secure, PCI DSS certification, fraud prevention, and pre-authentication services. UBank Connect is particularly suited for high-risk industries, including iGaming, forex, and digital commerce, offering real-time transaction processing, dedicated bank accounts, and direct connections to local banks. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -174,7 +178,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"ubankconnect",
-  "description":null,
+  "description":{
+    "en":"UBank Connect is a Dubai-based fintech company specializing in alternative payment solutions tailored for emerging markets across Asia, Africa, Latin America, and Europe. The platform offers a comprehensive suite of services, including card payments, e-wallets, bank transfers, QR payments, and peer-to-peer transactions, all accessible through a single API integration. UBank Connect supports over 100 local and international payment methods, such as UPI, FPX, JazzCash, Easypaisa, Alipay, and AstroPay, enabling businesses to cater to diverse customer preferences. With a strong emphasis on security and compliance, the company provides features like 3D Secure, PCI DSS certification, fraud prevention, and pre-authentication services. UBank Connect is particularly suited for high-risk industries, including iGaming, forex, and digital commerce, offering real-time transaction processing, dedicated bank accounts, and direct connections to local banks. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"ubankconnect",
   "categories":null,
   "countries":null,

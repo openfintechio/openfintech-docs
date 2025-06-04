@@ -14,6 +14,10 @@
 :	[RU] Cardinity 
 :	[UK] Cardinity 
  
+**Description:** 
+ 
+: [EN] Cardinity is a licensed payment service provider based in the European Union, offering secure and straightforward online payment processing for e-commerce businesses. Regulated by the Bank of Lithuania and compliant with PSD2 and PCI DSS standards, Cardinity specializes in enabling merchants to accept credit and debit card payments globally. The platform supports major card networks like Visa and Mastercard, and is designed to serve a wide range of industries, including those considered high-risk. Cardinity provides features such as recurring billing, fraud protection, multi-currency support, and seamless API integration, making it a flexible and scalable solution for growing businesses. Its user-friendly interface and transparent pricing structure appeal to both startups and established companies looking to expand their online payment capabilities. Cardinity and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
  
 **Countries:** 
  
@@ -51,7 +55,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"cardinity",
-  "description":null,
+  "description":{
+    "en":"Cardinity is a licensed payment service provider based in the European Union, offering secure and straightforward online payment processing for e-commerce businesses. Regulated by the Bank of Lithuania and compliant with PSD2 and PCI DSS standards, Cardinity specializes in enabling merchants to accept credit and debit card payments globally. The platform supports major card networks like Visa and Mastercard, and is designed to serve a wide range of industries, including those considered high-risk. Cardinity provides features such as recurring billing, fraud protection, multi-currency support, and seamless API integration, making it a flexible and scalable solution for growing businesses. Its user-friendly interface and transparent pricing structure appeal to both startups and established companies looking to expand their online payment capabilities. Cardinity and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"cardinity",
   "categories":null,
   "countries":[

@@ -12,6 +12,10 @@
  
 :	[EN] docdata payments 
  
+**Description:** 
+ 
+: [EN] Docdata Payments was a Dutch payment service provider that offered a comprehensive range of online payment solutions tailored to e-commerce businesses. It enabled merchants to accept a wide variety of local and international payment methods, including credit cards, direct debits, and e-wallets, through a single integration. Docdata Payments focused on reliability, security, and flexibility, helping businesses manage transactions efficiently while ensuring compliance with regulatory standards. In 2015, Docdata Payments was acquired by Ingram Micro and later became part of CM.com, a global communications and payments platform. Its services have since been integrated into CM.com’s broader offering, providing enhanced capabilities such as conversational commerce, messaging, and payment processing under a unified infrastructure. Docdata Payments and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 **Categories:**`distributing` ,`collecting` ,`aggregating` 
  
 
@@ -52,7 +56,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"docdatapayments",
-  "description":null,
+  "description":{
+    "en":"Docdata Payments was a Dutch payment service provider that offered a comprehensive range of online payment solutions tailored to e-commerce businesses. It enabled merchants to accept a wide variety of local and international payment methods, including credit cards, direct debits, and e-wallets, through a single integration. Docdata Payments focused on reliability, security, and flexibility, helping businesses manage transactions efficiently while ensuring compliance with regulatory standards. In 2015, Docdata Payments was acquired by Ingram Micro and later became part of CM.com, a global communications and payments platform. Its services have since been integrated into CM.com\u2019s broader offering, providing enhanced capabilities such as conversational commerce, messaging, and payment processing under a unified infrastructure. Docdata Payments and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"docdatapayments",
   "categories":[
     "distributing",

@@ -14,6 +14,10 @@
 :	[RU] KalonPay 
 :	[UK] KalonPay 
  
+**Description:** 
+ 
+: [EN] KalonPay is a fintech company that provides digital payment solutions designed to simplify and accelerate online transactions for businesses and consumers. The platform focuses on offering secure, compliant, and user-friendly services, including online card processing, alternative payment methods, and merchant accounts. KalonPay supports businesses across various sectors, including e-commerce, digital services, and high-risk industries, helping them expand globally with localized payment options. With features like anti-fraud tools, real-time reporting, and seamless API integration, KalonPay aims to optimize transaction success rates and enhance user experience. KalonPay and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -47,7 +51,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"kalonpay",
-  "description":null,
+  "description":{
+    "en":"KalonPay is a fintech company that provides digital payment solutions designed to simplify and accelerate online transactions for businesses and consumers. The platform focuses on offering secure, compliant, and user-friendly services, including online card processing, alternative payment methods, and merchant accounts. KalonPay supports businesses across various sectors, including e-commerce, digital services, and high-risk industries, helping them expand globally with localized payment options. With features like anti-fraud tools, real-time reporting, and seamless API integration, KalonPay aims to optimize transaction success rates and enhance user experience. KalonPay and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"kalonpay",
   "categories":null,
   "countries":null,

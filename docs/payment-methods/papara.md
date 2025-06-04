@@ -11,6 +11,10 @@
 :	[UK] Papara 
 :	[RU] Papara 
  
+**Description:** 
+ 
+: [EN] Papara is a digital wallet and prepaid card-based payment method originating from Turkey, designed to provide a fast, secure, and cost-effective alternative to traditional banking services. It allows users to make online payments, send and receive money instantly, and manage their finances via a mobile app or web platform. Papara supports transactions in Turkish lira and offers features such as bill payments, budgeting tools, and cashback on purchases. It is widely used for domestic e-commerce, gaming, and digital services, especially among younger users and those without access to credit cards. With minimal fees and no need for a bank account, Papara provides financial inclusion for underbanked populations. 
+ 
 **Category:** `alternative` 
  
 
@@ -68,7 +72,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Papara_
     "uk":"Papara",
     "ru":"Papara"
   },
-  "description":null,
+  "description":{
+    "en":"Papara is a digital wallet and prepaid card-based payment method originating from Turkey, designed to provide a fast, secure, and cost-effective alternative to traditional banking services. It allows users to make online payments, send and receive money instantly, and manage their finances via a mobile app or web platform. Papara supports transactions in Turkish lira and offers features such as bill payments, budgeting tools, and cashback on purchases. It is widely used for domestic e-commerce, gaming, and digital services, especially among younger users and those without access to credit cards. With minimal fees and no need for a bank account, Papara provides financial inclusion for underbanked populations."
+  },
   "countries":null,
   "category":"alternative"
 }

@@ -11,6 +11,10 @@
 :	[UK] SettlePay Wallet 
 :	[RU] SettlePay Wallet 
  
+**Description:** 
+ 
+: [EN] SettlePay Wallet is a crypto-fiat digital wallet developed by WorldSec Payments Limited, designed to bridge the gap between cryptocurrencies and traditional finance. Available on both Android and iOS platforms, the wallet enables users to deposit, withdraw, and manage funds across major crypto exchanges. It supports various top-up methods, including Binance Pay and fiat options, and offers seamless verification through Ukraine’s Diia app for streamlined KYC processes. SettlePay Wallet also integrates with MoneyGram, allowing users to convert crypto to cash and withdraw funds globally. This and 500+ providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 **Category:** `digital_wallet` 
  
 
@@ -59,7 +63,9 @@ The list of [Payment Providers](/payment-providers/) that support the _SettlePay
     "uk":"SettlePay Wallet",
     "ru":"SettlePay Wallet"
   },
-  "description":null,
+  "description":{
+    "en":"SettlePay Wallet is a crypto-fiat digital wallet developed by WorldSec Payments Limited, designed to bridge the gap between cryptocurrencies and traditional finance. Available on both Android and iOS platforms, the wallet enables users to deposit, withdraw, and manage funds across major crypto exchanges. It supports various top-up methods, including Binance Pay and fiat options, and offers seamless verification through Ukraine\u2019s Diia app for streamlined KYC processes. SettlePay Wallet also integrates with MoneyGram, allowing users to convert crypto to cash and withdraw funds globally. This and 500+ providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "countries":null,
   "category":"digital_wallet"
 }
