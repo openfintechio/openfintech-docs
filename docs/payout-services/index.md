@@ -360,7 +360,7 @@
 |![Binance coin](https://static.openfintech.io/payout_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w24) |[**Binance coin**](/payout-methods/binance_coin/)|[`binance_coin_usd`](binance_coin_usd/)|`USD`| 
 |![Binance smart chain](https://static.openfintech.io/payout_methods/binance_smart_chain/logo.png?w=400&c=v0.59.26#w24) |[**Binance smart chain**](/payout-methods/binance_smart_chain/)|[`binance_smart_chain_bnb`](binance_smart_chain_bnb/)|`BNB`| 
 |![Binance Usd](https://static.openfintech.io/payout_methods/binance_usd/logo.png?w=400&c=v0.59.26#w24) |[**Binance Usd**](/payout-methods/binance_usd/)|[`binance_usd_busd`](binance_usd_busd/)|`BUSD`| 
-|![Binance Pay](https://static.openfintech.io/payout_methods/binancepay/logo.svg?w=400&c=v0.59.26#w24) |[**Binance Pay**](/payout-methods/binancepay/)|[`binancepay_usd_hpp`](binancepay_usd_hpp/)|`USD`| 
+|![Binance Pay](https://static.openfintech.io/payout_methods/binancepay/logo.svg?w=400&c=v0.59.26#w24) |[**Binance Pay**](/payout-methods/binancepay/)|[`binancepay_usd`](binancepay_usd/)|`USD`| 
 |![BISNET (Odessa region)](https://static.openfintech.io/payout_methods/bisnet-odesskaia-oblast/logo.png?w=400&c=v0.59.26#w24) |[**BISNET (Odessa region)**](/payout-methods/bisnet-odesskaia-oblast/)|[`bisnet-odesskaia-oblast_uah`](bisnet-odesskaia-oblast_uah/)|`UAH`| 
 |![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_btc`](bitcoin_btc/)|`BTC`| 
 |![Bitcoin cash](https://static.openfintech.io/payout_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w24) |[**Bitcoin cash**](/payout-methods/bitcoin_cash/)|[`bitcoin_cash_bch`](bitcoin_cash_bch/)|`BCH`| 

@@ -36,7 +36,7 @@ The list of [Payout Services](/payout-services/) based on the _Binance Pay_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![binancepay](https://static.openfintech.io/payout_methods/binancepay/icon.svg?w=278&c=v0.59.26#w40) |[binancepay_usd_hpp](/payout-services/binancepay_usd_hpp/)|`binancepay_usd_hpp`| 
+|![binancepay](https://static.openfintech.io/payout_methods/binancepay/icon.svg?w=278&c=v0.59.26#w40) |[binancepay_usd](/payout-services/binancepay_usd/)|`binancepay_usd`| 
  
 
 ## Payment Providers 
