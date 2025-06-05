@@ -14,6 +14,10 @@
 :	[RU] Klasha 
 :	[UK] Klasha 
  
+**Description:** 
+ 
+: [EN] Klasha is a fintech company that enables seamless cross-border commerce for African consumers and global merchants by providing localized payment solutions. Headquartered in Lagos and operating across several African countries, Klasha allows businesses to accept payments in local African currencies while settling globally in USD, GBP, or EUR. The platform supports various local payment methods such as mobile money, bank transfers, and card payments, catering to the unique preferences and infrastructure of the African market. In addition to payment processing, Klasha offers tools for currency conversion, checkout optimization, and last-mile logistics support to help international merchants sell effectively in Africa. Klasha and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -103,7 +107,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"klasha",
-  "description":null,
+  "description":{
+    "en":"Klasha is a fintech company that enables seamless cross-border commerce for African consumers and global merchants by providing localized payment solutions. Headquartered in Lagos and operating across several African countries, Klasha allows businesses to accept payments in local African currencies while settling globally in USD, GBP, or EUR. The platform supports various local payment methods such as mobile money, bank transfers, and card payments, catering to the unique preferences and infrastructure of the African market. In addition to payment processing, Klasha offers tools for currency conversion, checkout optimization, and last-mile logistics support to help international merchants sell effectively in Africa. Klasha and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"klasha",
   "categories":null,
   "countries":null,

@@ -14,6 +14,11 @@
 :	[RU] Inswitch 
 :	[UK] Inswitch 
  
+**Description:** 
+ 
+: [ES] Inswitch es un proveedor de tecnología financiera que permite a empresas ofrecer servicios de pagos, billeteras digitales, remesas, y emisión de tarjetas virtuales mediante una plataforma modular basada en APIs. Con foco en América Latina, facilita la inclusión financiera digital, permitiendo a las empresas lanzar soluciones fintech rápidamente con cumplimiento normativo local. Este y más de 500 proveedores ya están integrados en la plataforma de orquestación de pagos de Corefy, lo que permite a nuestros clientes comenzar a usar la integración al instante sin necesidad de programación, simplemente introduciendo sus credenciales MID en el panel de Corefy. 
+: [EN] Inswitch is a financial technology provider that enables companies to offer payment services, digital wallets, remittances, and virtual card issuance through a modular API-based platform. With a focus on Latin America, it facilitates digital financial inclusion, enabling companies to launch fintech solutions quickly with local regulatory compliance. This and more than 500 other providers are already integrated into Corefy's payment orchestration platform, allowing our clients to start using the integration instantly with no programming required, simply by entering their MID credentials in Corefy's dashboard. 
+ 
 
 ## Images 
 
@@ -109,7 +114,10 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"inswitch",
-  "description":null,
+  "description":{
+    "es":"Inswitch es un proveedor de tecnolog\u00eda financiera que permite a empresas ofrecer servicios de pagos, billeteras digitales, remesas, y emisi\u00f3n de tarjetas virtuales mediante una plataforma modular basada en APIs. Con foco en Am\u00e9rica Latina, facilita la inclusi\u00f3n financiera digital, permitiendo a las empresas lanzar soluciones fintech r\u00e1pidamente con cumplimiento normativo local. Este y m\u00e1s de 500 proveedores ya est\u00e1n integrados en la plataforma de orquestaci\u00f3n de pagos de Corefy, lo que permite a nuestros clientes comenzar a usar la integraci\u00f3n al instante sin necesidad de programaci\u00f3n, simplemente introduciendo sus credenciales MID en el panel de Corefy.",
+    "en":"Inswitch is a financial technology provider that enables companies to offer payment services, digital wallets, remittances, and virtual card issuance through a modular API-based platform. With a focus on Latin America, it facilitates digital financial inclusion, enabling companies to launch fintech solutions quickly with local regulatory compliance. This and more than 500 other providers are already integrated into Corefy's payment orchestration platform, allowing our clients to start using the integration instantly with no programming required, simply by entering their MID credentials in Corefy's dashboard."
+  },
   "vendor":"inswitch",
   "categories":null,
   "countries":null,

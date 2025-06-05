@@ -14,6 +14,10 @@
 :	[RU] SKPay 
 :	[UK] SKPay 
  
+**Description:** 
+ 
+: [EN] SKPay is a digital payment service provider that delivers comprehensive solutions for businesses looking to accept online payments efficiently and securely. The platform supports a range of global and local payment methods, including credit and debit cards, bank transfers, and alternative payment options, making it suitable for e-commerce, digital services, and high-risk industries. SKPay focuses on providing fast onboarding, real-time transaction processing, fraud prevention, and multi-currency support to help merchants expand their operations across borders. Its infrastructure is built for scalability and ease of integration, offering both API and hosted checkout options to streamline payment experiences. SKPay and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -154,7 +158,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"skpay",
-  "description":null,
+  "description":{
+    "en":"SKPay is a digital payment service provider that delivers comprehensive solutions for businesses looking to accept online payments efficiently and securely. The platform supports a range of global and local payment methods, including credit and debit cards, bank transfers, and alternative payment options, making it suitable for e-commerce, digital services, and high-risk industries. SKPay focuses on providing fast onboarding, real-time transaction processing, fraud prevention, and multi-currency support to help merchants expand their operations across borders. Its infrastructure is built for scalability and ease of integration, offering both API and hosted checkout options to streamline payment experiences. SKPay and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"skpay",
   "categories":null,
   "countries":null,

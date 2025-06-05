@@ -12,6 +12,11 @@
  
 :	[EN] PayZen 
  
+**Description:** 
+ 
+: [DE] PayZen ist ein französischer Zahlungsdienstleister, der sichere und modulare E-Commerce-Zahlungslösungen anbietet. Die Plattform wurde von Lyra Network entwickelt und unterstützt über 150 Zahlungsarten, darunter Kreditkarten, SEPA-Lastschrift, PayPal, Sofortüberweisung und lokale Wallets. Mit Fokus auf französische und europäische Märkte bietet PayZen Funktionen wie Abo-Verwaltung, Ratenzahlung, 3D Secure, Betrugsprävention und mehrsprachige Checkout-Seiten. Dank einfacher Plug-and-Play-Integration und einer gut dokumentierten API eignet sich PayZen besonders für Online-Händler im Gesundheitswesen, im Einzelhandel und im öffentlichen Sektor. PayZen und über 500 weitere Anbieter sind bereits in Corefys Payment-Orchestration-Plattform integriert, wodurch unsere Kunden die Integration sofort und ohne Programmieraufwand nutzen können – einfach durch Eingabe ihrer MID-Zugangsdaten im Corefy-Dashboard. 
+: [EN] PayZen is a French payment service provider that offers secure and modular e-commerce payment solutions. The platform was developed by Lyra Network and supports over 150 payment methods, including credit cards, SEPA direct debit, PayPal, Sofortüberweisung and local wallets. With a focus on French and European markets, PayZen offers features such as subscription management, installment payments, 3D Secure, fraud prevention and multilingual checkout pages. Thanks to easy plug-and-play integration and a well-documented API, PayZen is particularly suitable for online merchants in the healthcare, retail and public sectors. PayZen and over 500 other providers are already integrated into Corefy's payment orchestration platform, allowing our customers to use the integration immediately and without programming - simply by entering their MID credentials in the Corefy dashboard. 
+ 
  
 **Countries:** 
  
@@ -40,7 +45,10 @@ https://static.openfintech.io/payment_providers/payzen/icon.png?w=278&c=v0.59.26
 ```json
 {
   "code":"payzen",
-  "description":null,
+  "description":{
+    "de":"PayZen ist ein franz\u00f6sischer Zahlungsdienstleister, der sichere und modulare E-Commerce-Zahlungsl\u00f6sungen anbietet. Die Plattform wurde von Lyra Network entwickelt und unterst\u00fctzt \u00fcber 150 Zahlungsarten, darunter Kreditkarten, SEPA-Lastschrift, PayPal, Sofort\u00fcberweisung und lokale Wallets. Mit Fokus auf franz\u00f6sische und europ\u00e4ische M\u00e4rkte bietet PayZen Funktionen wie Abo-Verwaltung, Ratenzahlung, 3D Secure, Betrugspr\u00e4vention und mehrsprachige Checkout-Seiten. Dank einfacher Plug-and-Play-Integration und einer gut dokumentierten API eignet sich PayZen besonders f\u00fcr Online-H\u00e4ndler im Gesundheitswesen, im Einzelhandel und im \u00f6ffentlichen Sektor. PayZen und \u00fcber 500 weitere Anbieter sind bereits in Corefys Payment-Orchestration-Plattform integriert, wodurch unsere Kunden die Integration sofort und ohne Programmieraufwand nutzen k\u00f6nnen \u2013 einfach durch Eingabe ihrer MID-Zugangsdaten im Corefy-Dashboard.",
+    "en":"PayZen is a French payment service provider that offers secure and modular e-commerce payment solutions. The platform was developed by Lyra Network and supports over 150 payment methods, including credit cards, SEPA direct debit, PayPal, Sofort\u00fcberweisung and local wallets. With a focus on French and European markets, PayZen offers features such as subscription management, installment payments, 3D Secure, fraud prevention and multilingual checkout pages. Thanks to easy plug-and-play integration and a well-documented API, PayZen is particularly suitable for online merchants in the healthcare, retail and public sectors. PayZen and over 500 other providers are already integrated into Corefy's payment orchestration platform, allowing our customers to use the integration immediately and without programming - simply by entering their MID credentials in the Corefy dashboard."
+  },
   "vendor":"payzen",
   "categories":null,
   "countries":[

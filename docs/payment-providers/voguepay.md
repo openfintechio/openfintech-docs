@@ -12,6 +12,11 @@
  
 :	[EN] VoguePay 
  
+**Description:** 
+ 
+: [FR] VoguePay est un prestataire de services de paiement basé au Nigeria, conçu pour faciliter les paiements en ligne de manière simple, sécurisée et accessible, tant pour les entreprises locales que pour les commerçants internationaux opérant en Afrique. Il prend en charge les paiements par carte bancaire, portefeuilles numériques, virements bancaires locaux, et propose également des fonctionnalités telles que la facturation récurrente, l’intégration e-commerce et des services de conformité. L’un des objectifs de VoguePay est de promouvoir l’inclusion financière sur le continent africain en fournissant une infrastructure moderne adaptée aux spécificités régionales. Ce prestataire, ainsi que plus de 500 autres, est déjà intégré à la plateforme d’orchestration de paiements de Corefy, permettant à nos clients de commencer à utiliser l’intégration instantanément, sans codage, en saisissant simplement leurs identifiants MID dans le tableau de bord Corefy. 
+: [EN] VoguePay is a Nigeria-based payment service provider designed to make online payments simple, secure and accessible for both local businesses and international merchants operating in Africa. It supports credit card payments, digital wallets, local bank transfers, and also offers features such as recurring billing, e-commerce integration and compliance services. One of VoguePay's objectives is to promote financial inclusion on the African continent by providing a modern infrastructure adapted to regional specificities. This provider, along with over 500 others, is already integrated with Corefy's payment orchestration platform, enabling our customers to start using the integration instantly, without coding, by simply entering their MID credentials into the Corefy dashboard. 
+ 
  
 **Countries:** 
  
@@ -40,7 +45,10 @@ https://static.openfintech.io/payment_providers/voguepay/icon.png?w=278&c=v0.59.
 ```json
 {
   "code":"voguepay",
-  "description":null,
+  "description":{
+    "fr":"VoguePay est un prestataire de services de paiement bas\u00e9 au Nigeria, con\u00e7u pour faciliter les paiements en ligne de mani\u00e8re simple, s\u00e9curis\u00e9e et accessible, tant pour les entreprises locales que pour les commer\u00e7ants internationaux op\u00e9rant en Afrique. Il prend en charge les paiements par carte bancaire, portefeuilles num\u00e9riques, virements bancaires locaux, et propose \u00e9galement des fonctionnalit\u00e9s telles que la facturation r\u00e9currente, l\u2019int\u00e9gration e-commerce et des services de conformit\u00e9. L\u2019un des objectifs de VoguePay est de promouvoir l\u2019inclusion financi\u00e8re sur le continent africain en fournissant une infrastructure moderne adapt\u00e9e aux sp\u00e9cificit\u00e9s r\u00e9gionales. Ce prestataire, ainsi que plus de 500 autres, est d\u00e9j\u00e0 int\u00e9gr\u00e9 \u00e0 la plateforme d\u2019orchestration de paiements de Corefy, permettant \u00e0 nos clients de commencer \u00e0 utiliser l\u2019int\u00e9gration instantan\u00e9ment, sans codage, en saisissant simplement leurs identifiants MID dans le tableau de bord Corefy.",
+    "en":"VoguePay is a Nigeria-based payment service provider designed to make online payments simple, secure and accessible for both local businesses and international merchants operating in Africa. It supports credit card payments, digital wallets, local bank transfers, and also offers features such as recurring billing, e-commerce integration and compliance services. One of VoguePay's objectives is to promote financial inclusion on the African continent by providing a modern infrastructure adapted to regional specificities. This provider, along with over 500 others, is already integrated with Corefy's payment orchestration platform, enabling our customers to start using the integration instantly, without coding, by simply entering their MID credentials into the Corefy dashboard."
+  },
   "vendor":"voguepay",
   "categories":null,
   "countries":[

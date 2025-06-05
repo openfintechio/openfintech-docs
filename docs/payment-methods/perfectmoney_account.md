@@ -11,6 +11,11 @@
  
 :	[EN] Perfect Money Account 
  
+**Description:** 
+ 
+: [ES] Perfect Money es una plataforma financiera que permite a los usuarios realizar pagos instantáneos y transferencias en línea, así como almacenar fondos en varias divisas, incluido oro digital. Es comúnmente utilizada en mercados donde los sistemas financieros tradicionales son limitados. Los usuarios pueden depositar y retirar fondos mediante transferencias bancarias, tarjetas, criptomonedas o intercambiadores autorizados. Este y más de 500 proveedores ya están integrados en la plataforma de orquestación de pagos de Corefy, lo que permite a nuestros clientes comenzar a usar la integración al instante sin necesidad de programación, simplemente introduciendo sus credenciales MID en el panel de Corefy. 
+: [EN] Perfect Money is a financial platform that allows users to make instant payments and transfers online, as well as store funds in various currencies, including digital gold. It is commonly used in markets where traditional financial systems are limited. Users can deposit and withdraw funds via bank transfers, cards, cryptocurrencies or authorized exchangers. This and more than 500 other providers are already integrated into Corefy's payment orchestration platform, allowing our clients to start using the integration instantly with no programming required, simply by entering their MID credentials into the Corefy dashboard. 
+ 
 **Category:** `alternative` 
  
 **Countries:** 
@@ -62,7 +67,10 @@ The list of [Payment Providers](/payment-providers/) that support the _Perfect M
   "name":{
     "en":"Perfect Money Account"
   },
-  "description":null,
+  "description":{
+    "es":"Perfect Money es una plataforma financiera que permite a los usuarios realizar pagos instant\u00e1neos y transferencias en l\u00ednea, as\u00ed como almacenar fondos en varias divisas, incluido oro digital. Es com\u00fanmente utilizada en mercados donde los sistemas financieros tradicionales son limitados. Los usuarios pueden depositar y retirar fondos mediante transferencias bancarias, tarjetas, criptomonedas o intercambiadores autorizados. Este y m\u00e1s de 500 proveedores ya est\u00e1n integrados en la plataforma de orquestaci\u00f3n de pagos de Corefy, lo que permite a nuestros clientes comenzar a usar la integraci\u00f3n al instante sin necesidad de programaci\u00f3n, simplemente introduciendo sus credenciales MID en el panel de Corefy.",
+    "en":"Perfect Money is a financial platform that allows users to make instant payments and transfers online, as well as store funds in various currencies, including digital gold. It is commonly used in markets where traditional financial systems are limited. Users can deposit and withdraw funds via bank transfers, cards, cryptocurrencies or authorized exchangers. This and more than 500 other providers are already integrated into Corefy's payment orchestration platform, allowing our clients to start using the integration instantly with no programming required, simply by entering their MID credentials into the Corefy dashboard."
+  },
   "countries":[
     "UA"
   ],

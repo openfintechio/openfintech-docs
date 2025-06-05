@@ -14,6 +14,10 @@
 :	[RU] Paylinkio 
 :	[UK] Paylinkio 
  
+**Description:** 
+ 
+: [EN] Paylink.io is a digital payment platform that enables businesses and freelancers to accept payments online through customizable and easy-to-use payment links. Designed for simplicity and flexibility, Paylink.io allows users to generate and share secure payment requests via email, SMS, or social media, making it ideal for remote sales, service providers, and small businesses without a traditional e-commerce setup. The platform supports various payment methods, including major credit and debit cards, and offers features such as multi-currency support, recurring billing, and transaction tracking. With no need for a full-scale integration, Paylink.io helps streamline the payment process while ensuring secure and compliant transactions. Paylink.io and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -56,7 +60,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"paylinkio",
-  "description":null,
+  "description":{
+    "en":"Paylink.io is a digital payment platform that enables businesses and freelancers to accept payments online through customizable and easy-to-use payment links. Designed for simplicity and flexibility, Paylink.io allows users to generate and share secure payment requests via email, SMS, or social media, making it ideal for remote sales, service providers, and small businesses without a traditional e-commerce setup. The platform supports various payment methods, including major credit and debit cards, and offers features such as multi-currency support, recurring billing, and transaction tracking. With no need for a full-scale integration, Paylink.io helps streamline the payment process while ensuring secure and compliant transactions. Paylink.io and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"paylinkio",
   "categories":null,
   "countries":null,

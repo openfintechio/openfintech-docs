@@ -12,6 +12,11 @@
  
 :	[EN] EMS 
  
+**Description:** 
+ 
+: [ES] EMS es un proveedor de soluciones de pago con sede en los Países Bajos, enfocado en procesamiento de tarjetas y adquirencia para comercios europeos. Fundado como una empresa conjunta entre First Data y ABN AMRO, ofrece servicios de TPV físicos y virtuales, pagos móviles y terminales inteligentes. EMS destaca por su atención al cliente en mercados locales, su seguridad y cumplimiento con estándares europeos. Este y más de 500 proveedores ya están integrados en la plataforma de orquestación de pagos de Corefy, lo que permite a nuestros clientes comenzar a usar la integración al instante sin necesidad de programación, simplemente introduciendo sus credenciales MID en el panel de Corefy. 
+: [EN] EMS is a Netherlands-based payment solutions provider focused on card processing and acquiring for European merchants. Founded as a joint venture between First Data and ABN AMRO, it offers physical and virtual POS services, mobile payments and smart terminals. EMS stands out for its customer service in local markets, its security and compliance with European standards. It and more than 500 other providers are already integrated into Corefy's payment orchestration platform, allowing our clients to start using the integration instantly without any programming, simply by entering their MID credentials into the Corefy dashboard. 
+ 
 **Categories:**`collecting` ,`aggregating` ,`acquiring` ,`distributing` 
  
 
@@ -60,7 +65,10 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"europeanmerchantservices",
-  "description":null,
+  "description":{
+    "es":"EMS es un proveedor de soluciones de pago con sede en los Pa\u00edses Bajos, enfocado en procesamiento de tarjetas y adquirencia para comercios europeos. Fundado como una empresa conjunta entre First Data y ABN AMRO, ofrece servicios de TPV f\u00edsicos y virtuales, pagos m\u00f3viles y terminales inteligentes. EMS destaca por su atenci\u00f3n al cliente en mercados locales, su seguridad y cumplimiento con est\u00e1ndares europeos. Este y m\u00e1s de 500 proveedores ya est\u00e1n integrados en la plataforma de orquestaci\u00f3n de pagos de Corefy, lo que permite a nuestros clientes comenzar a usar la integraci\u00f3n al instante sin necesidad de programaci\u00f3n, simplemente introduciendo sus credenciales MID en el panel de Corefy.",
+    "en":"EMS is a Netherlands-based payment solutions provider focused on card processing and acquiring for European merchants. Founded as a joint venture between First Data and ABN AMRO, it offers physical and virtual POS services, mobile payments and smart terminals. EMS stands out for its customer service in local markets, its security and compliance with European standards. It and more than 500 other providers are already integrated into Corefy's payment orchestration platform, allowing our clients to start using the integration instantly without any programming, simply by entering their MID credentials into the Corefy dashboard."
+  },
   "vendor":"europeanmerchantservices",
   "categories":[
     "collecting",

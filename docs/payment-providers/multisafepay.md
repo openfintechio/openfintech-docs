@@ -12,6 +12,11 @@
  
 :	[EN] MultiSafepay 
  
+**Description:** 
+ 
+: [DE] MultiSafepay ist ein niederländischer Zahlungsdienstleister, der umfassende Zahlungslösungen für Online-Händler bietet. Die Plattform unterstützt eine breite Palette von Zahlungsmethoden – darunter iDEAL, Bancontact, Kreditkarten, PayPal, Klarna, Apple Pay und viele mehr – und ist besonders auf die Anforderungen des Benelux-Marktes abgestimmt. MultiSafepay bietet außerdem Funktionen wie wiederkehrende Zahlungen, Zahlung auf Rechnung, Risikomanagement, Reporting, Zahlungslinks und eine einheitliche API für einfache Integration. Durch direkte Bankbeziehungen und eigenen Acquiring-Ansatz profitieren Händler von schnellen Auszahlungen und optimierter Kostenstruktur. MultiSafepay und über 500 weitere Anbieter sind bereits in Corefys Payment-Orchestration-Plattform integriert, wodurch unsere Kunden die Integration sofort und ohne Programmieraufwand nutzen können – einfach durch Eingabe ihrer MID-Zugangsdaten im Corefy-Dashboard. 
+: [EN] MultiSafepay is a Dutch payment service provider that offers comprehensive payment solutions for online merchants. The platform supports a wide range of payment methods - including iDEAL, Bancontact, credit cards, PayPal, Klarna, Apple Pay and many more - and is specially tailored to the requirements of the Benelux market. MultiSafepay also offers features such as recurring payments, payment on account, risk management, reporting, payment links and a unified API for easy integration. Thanks to direct bank relationships and its own acquiring approach, merchants benefit from fast payouts and an optimized cost structure. MultiSafepay and over 500 other providers are already integrated into Corefy's payment orchestration platform, allowing our customers to use the integration immediately and without programming effort - simply by entering their MID credentials in the Corefy dashboard. 
+ 
 **Categories:**`aggregating` ,`collecting` ,`distributing` 
  
  
@@ -75,7 +80,10 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"multisafepay",
-  "description":null,
+  "description":{
+    "de":"MultiSafepay ist ein niederl\u00e4ndischer Zahlungsdienstleister, der umfassende Zahlungsl\u00f6sungen f\u00fcr Online-H\u00e4ndler bietet. Die Plattform unterst\u00fctzt eine breite Palette von Zahlungsmethoden \u2013 darunter iDEAL, Bancontact, Kreditkarten, PayPal, Klarna, Apple Pay und viele mehr \u2013 und ist besonders auf die Anforderungen des Benelux-Marktes abgestimmt. MultiSafepay bietet au\u00dferdem Funktionen wie wiederkehrende Zahlungen, Zahlung auf Rechnung, Risikomanagement, Reporting, Zahlungslinks und eine einheitliche API f\u00fcr einfache Integration. Durch direkte Bankbeziehungen und eigenen Acquiring-Ansatz profitieren H\u00e4ndler von schnellen Auszahlungen und optimierter Kostenstruktur. MultiSafepay und \u00fcber 500 weitere Anbieter sind bereits in Corefys Payment-Orchestration-Plattform integriert, wodurch unsere Kunden die Integration sofort und ohne Programmieraufwand nutzen k\u00f6nnen \u2013 einfach durch Eingabe ihrer MID-Zugangsdaten im Corefy-Dashboard.",
+    "en":"MultiSafepay is a Dutch payment service provider that offers comprehensive payment solutions for online merchants. The platform supports a wide range of payment methods - including iDEAL, Bancontact, credit cards, PayPal, Klarna, Apple Pay and many more - and is specially tailored to the requirements of the Benelux market. MultiSafepay also offers features such as recurring payments, payment on account, risk management, reporting, payment links and a unified API for easy integration. Thanks to direct bank relationships and its own acquiring approach, merchants benefit from fast payouts and an optimized cost structure. MultiSafepay and over 500 other providers are already integrated into Corefy's payment orchestration platform, allowing our customers to use the integration immediately and without programming effort - simply by entering their MID credentials in the Corefy dashboard."
+  },
   "vendor":"multisafepay",
   "categories":[
     "aggregating",

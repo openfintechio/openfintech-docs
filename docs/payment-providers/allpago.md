@@ -12,6 +12,11 @@
  
 :	[EN] allpago - accept payments in Latin America 
  
+**Description:** 
+ 
+: [ES] Allpago, ahora parte de PPRO, fue un proveedor de pagos centrado en América Latina que permitía a comerciantes internacionales aceptar pagos locales en países como Brasil, México, Colombia, Chile y Argentina. Ofrecía métodos de pago alternativos, adquirencia local, cumplimiento normativo y mitigación de riesgos, facilitando la entrada de empresas extranjeras a estos mercados. Tras su adquisición por PPRO, sus servicios se integraron en una infraestructura global de pagos. Este y más de 500 proveedores ya están integrados en la plataforma de orquestación de pagos de Corefy, lo que permite a nuestros clientes comenzar a usar la integración al instante sin necesidad de programación, simplemente introduciendo sus credenciales MID en el panel de Corefy. 
+: [EN] Allpago, now part of PPRO, was a Latin America-focused payment provider that enabled international merchants to accept local payments in countries such as Brazil, Mexico, Colombia, Chile and Argentina. It offered alternative payment methods, local acquiring, regulatory compliance and risk mitigation, facilitating the entry of foreign companies into these markets. Following its acquisition by PPRO, its services were integrated into a global payments infrastructure. It and more than 500 other providers are now integrated into Corefy's payment orchestration platform, allowing our clients to start using the integration instantly with no programming required, simply by entering their MID credentials into the Corefy dashboard. 
+ 
 **Categories:**`distributing` 
  
  
@@ -64,7 +69,10 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"allpago",
-  "description":null,
+  "description":{
+    "es":"Allpago, ahora parte de PPRO, fue un proveedor de pagos centrado en Am\u00e9rica Latina que permit\u00eda a comerciantes internacionales aceptar pagos locales en pa\u00edses como Brasil, M\u00e9xico, Colombia, Chile y Argentina. Ofrec\u00eda m\u00e9todos de pago alternativos, adquirencia local, cumplimiento normativo y mitigaci\u00f3n de riesgos, facilitando la entrada de empresas extranjeras a estos mercados. Tras su adquisici\u00f3n por PPRO, sus servicios se integraron en una infraestructura global de pagos. Este y m\u00e1s de 500 proveedores ya est\u00e1n integrados en la plataforma de orquestaci\u00f3n de pagos de Corefy, lo que permite a nuestros clientes comenzar a usar la integraci\u00f3n al instante sin necesidad de programaci\u00f3n, simplemente introduciendo sus credenciales MID en el panel de Corefy.",
+    "en":"Allpago, now part of PPRO, was a Latin America-focused payment provider that enabled international merchants to accept local payments in countries such as Brazil, Mexico, Colombia, Chile and Argentina. It offered alternative payment methods, local acquiring, regulatory compliance and risk mitigation, facilitating the entry of foreign companies into these markets. Following its acquisition by PPRO, its services were integrated into a global payments infrastructure. It and more than 500 other providers are now integrated into Corefy's payment orchestration platform, allowing our clients to start using the integration instantly with no programming required, simply by entering their MID credentials into the Corefy dashboard."
+  },
   "vendor":"allpago",
   "categories":[
     "distributing"

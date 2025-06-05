@@ -12,6 +12,10 @@
  
 :	[EN] Kalixa Payments Group 
  
+**Description:** 
+ 
+: [EN] Kalixa was a global payment service provider offering end-to-end payment solutions for businesses, including payment processing, issuing, and acquiring services. The company supported a broad range of payment methods, including credit and debit cards, digital wallets, and alternative payment options, serving industries such as travel, e-commerce, and digital entertainment. Kalixa aimed to simplify the complexities of global payments by providing a unified platform with tools for fraud prevention, real-time reporting, and multi-currency support. In 2016, Kalixa was acquired by PXP Financial, and its services have since been integrated into the PXP Financial ecosystem, continuing to support merchants with robust, secure, and scalable payment infrastructure. Kalixa and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 **Categories:**`collecting` ,`aggregating` ,`acquiring` ,`distributing` 
  
  
@@ -79,7 +83,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"kalixa",
-  "description":null,
+  "description":{
+    "en":"Kalixa was a global payment service provider offering end-to-end payment solutions for businesses, including payment processing, issuing, and acquiring services. The company supported a broad range of payment methods, including credit and debit cards, digital wallets, and alternative payment options, serving industries such as travel, e-commerce, and digital entertainment. Kalixa aimed to simplify the complexities of global payments by providing a unified platform with tools for fraud prevention, real-time reporting, and multi-currency support. In 2016, Kalixa was acquired by PXP Financial, and its services have since been integrated into the PXP Financial ecosystem, continuing to support merchants with robust, secure, and scalable payment infrastructure. Kalixa and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"kalixa",
   "categories":[
     "collecting",

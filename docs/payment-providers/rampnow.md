@@ -14,6 +14,10 @@
 :	[RU] Rampnow 
 :	[UK] Rampnow 
  
+**Description:** 
+ 
+: [EN] RampNow is a payment platform focused on enabling businesses to accept cryptocurrency payments easily and securely. It offers on-ramp solutions that allow users to convert fiat currency into crypto directly within apps, wallets, and platforms, streamlining the process of acquiring digital assets. Designed with both developers and end-users in mind, RampNow provides a compliant, user-friendly interface, supports multiple fiat currencies and blockchain networks, and ensures regulatory alignment through KYC and AML procedures. Its infrastructure is built for fast integration and seamless checkout experiences, helping companies tap into the growing crypto economy without building their own conversion tools. RampNow and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -53,7 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"rampnow",
-  "description":null,
+  "description":{
+    "en":"RampNow is a payment platform focused on enabling businesses to accept cryptocurrency payments easily and securely. It offers on-ramp solutions that allow users to convert fiat currency into crypto directly within apps, wallets, and platforms, streamlining the process of acquiring digital assets. Designed with both developers and end-users in mind, RampNow provides a compliant, user-friendly interface, supports multiple fiat currencies and blockchain networks, and ensures regulatory alignment through KYC and AML procedures. Its infrastructure is built for fast integration and seamless checkout experiences, helping companies tap into the growing crypto economy without building their own conversion tools. RampNow and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"rampnow",
   "categories":null,
   "countries":null,

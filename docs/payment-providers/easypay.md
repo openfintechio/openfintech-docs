@@ -12,7 +12,7 @@
  
 :	[EN] EasyPay 
 :	[RU] EasyPay 
-:	[UA] EasyPay 
+:	[UK] EasyPay 
  
 
 ## Images 
@@ -59,7 +59,7 @@ The list of supported [Payout Methods](/payout-methods/)
   "name":{
     "en":"EasyPay",
     "ru":"EasyPay",
-    "ua":"EasyPay"
+    "uk":"EasyPay"
   }
 }
 ```  

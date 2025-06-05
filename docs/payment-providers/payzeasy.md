@@ -14,6 +14,10 @@
 :	[RU] PayzEasy 
 :	[UK] PayzEasy 
  
+**Description:** 
+ 
+: [EN] Payzeasy is a digital payment service provider offering comprehensive online payment solutions designed for businesses in sectors such as e-commerce, digital services, and high-risk industries like iGaming and forex. The platform enables merchants to accept a variety of payment methods, including global credit and debit cards, alternative payment options, and region-specific methods, helping them expand their reach across different markets. Payzeasy focuses on delivering fast, secure, and compliant transactions, with features like fraud prevention, real-time analytics, multi-currency support, and seamless integration via APIs or hosted payment pages. Its scalable infrastructure and focus on merchant support make it a reliable choice for businesses aiming to optimize payment operations and conversion rates. Payzeasy and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -57,7 +61,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"payzeasy",
-  "description":null,
+  "description":{
+    "en":"Payzeasy is a digital payment service provider offering comprehensive online payment solutions designed for businesses in sectors such as e-commerce, digital services, and high-risk industries like iGaming and forex. The platform enables merchants to accept a variety of payment methods, including global credit and debit cards, alternative payment options, and region-specific methods, helping them expand their reach across different markets. Payzeasy focuses on delivering fast, secure, and compliant transactions, with features like fraud prevention, real-time analytics, multi-currency support, and seamless integration via APIs or hosted payment pages. Its scalable infrastructure and focus on merchant support make it a reliable choice for businesses aiming to optimize payment operations and conversion rates. Payzeasy and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"payzeasy",
   "categories":null,
   "countries":null,

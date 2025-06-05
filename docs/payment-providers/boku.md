@@ -12,6 +12,11 @@
  
 :	[EN] BOKU 
  
+**Description:** 
+ 
+: [ES] Boku es un proveedor de pagos móviles líder especializado en facturación directa con operadores móviles (DCB) y carteras digitales. Permite a los usuarios pagar productos y servicios con su saldo móvil, especialmente útil en mercados emergentes y para usuarios sin tarjeta de crédito. Con una red que abarca más de 70 países, Boku facilita pagos seguros en sectores como juegos, entretenimiento y suscripciones digitales. Este y más de 500 proveedores ya están integrados en la plataforma de orquestación de pagos de Corefy, lo que permite a nuestros clientes comenzar a usar la integración al instante sin necesidad de programación, simplemente introduciendo sus credenciales MID en el panel de Corefy. 
+: [EN] Boku is a leading mobile payment provider specializing in direct billing with mobile operators (DCB) and digital wallets. It enables users to pay for products and services with their mobile balance, especially useful in emerging markets and for users without a credit card. With a network spanning more than 70 countries, Boku facilitates secure payments in sectors such as gaming, entertainment and digital subscriptions. It and more than 500 other providers are already integrated into Corefy's payment orchestration platform, allowing our customers to start using the integration instantly with no programming required, simply by entering their MID credentials into the Corefy dashboard. 
+ 
  
 **Countries:** 
  
@@ -40,7 +45,10 @@ https://static.openfintech.io/payment_providers/boku/icon.svg?w=278&c=v0.59.26#w
 ```json
 {
   "code":"boku",
-  "description":null,
+  "description":{
+    "es":"Boku es un proveedor de pagos m\u00f3viles l\u00edder especializado en facturaci\u00f3n directa con operadores m\u00f3viles (DCB) y carteras digitales. Permite a los usuarios pagar productos y servicios con su saldo m\u00f3vil, especialmente \u00fatil en mercados emergentes y para usuarios sin tarjeta de cr\u00e9dito. Con una red que abarca m\u00e1s de 70 pa\u00edses, Boku facilita pagos seguros en sectores como juegos, entretenimiento y suscripciones digitales. Este y m\u00e1s de 500 proveedores ya est\u00e1n integrados en la plataforma de orquestaci\u00f3n de pagos de Corefy, lo que permite a nuestros clientes comenzar a usar la integraci\u00f3n al instante sin necesidad de programaci\u00f3n, simplemente introduciendo sus credenciales MID en el panel de Corefy.",
+    "en":"Boku is a leading mobile payment provider specializing in direct billing with mobile operators (DCB) and digital wallets. It enables users to pay for products and services with their mobile balance, especially useful in emerging markets and for users without a credit card. With a network spanning more than 70 countries, Boku facilitates secure payments in sectors such as gaming, entertainment and digital subscriptions. It and more than 500 other providers are already integrated into Corefy's payment orchestration platform, allowing our customers to start using the integration instantly with no programming required, simply by entering their MID credentials into the Corefy dashboard."
+  },
   "vendor":"boku",
   "categories":null,
   "countries":[

@@ -14,6 +14,10 @@
 :	[RU] Sqalapay 
 :	[UK] Sqalapay 
  
+**Description:** 
+ 
+: [EN] Sqala is a payment service provider delivering digital payment solutions tailored for online merchants operating across sectors like e-commerce, digital services, and high-risk industries. The platform enables businesses to accept a broad range of payment methods, including international card payments, alternative options, and local methods, helping to expand their reach and optimize conversions. Sqala emphasizes secure and scalable transaction processing, offering features such as fraud prevention, real-time analytics, and multi-currency support. With flexible integration options through APIs or hosted checkouts, Sqala is designed to streamline payment operations and simplify global expansion. Sqala and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -57,7 +61,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"sqalapay",
-  "description":null,
+  "description":{
+    "en":"Sqala is a payment service provider delivering digital payment solutions tailored for online merchants operating across sectors like e-commerce, digital services, and high-risk industries. The platform enables businesses to accept a broad range of payment methods, including international card payments, alternative options, and local methods, helping to expand their reach and optimize conversions. Sqala emphasizes secure and scalable transaction processing, offering features such as fraud prevention, real-time analytics, and multi-currency support. With flexible integration options through APIs or hosted checkouts, Sqala is designed to streamline payment operations and simplify global expansion. Sqala and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"sqalapay",
   "categories":null,
   "countries":null,

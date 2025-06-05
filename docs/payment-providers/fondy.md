@@ -12,6 +12,12 @@
  
 :	[EN] FONDY 
  
+**Description:** 
+ 
+: [DE] Fondy ist ein internationaler Zahlungsdienstleister mit Sitz in der Ukraine, der flexible und skalierbare Zahlungslösungen für Online-Händler, Plattformen und Marktplätze anbietet. Die Plattform unterstützt über 300 Zahlungsmethoden, darunter Karten, Apple Pay, Google Pay, SEPA, SWIFT und lokale Banküberweisungen in über 150 Ländern. Fondy bietet Funktionen wie wiederkehrende Zahlungen, Split-Payments, Checkout-Anpassung, Multi-Währungsabrechnung und eine benutzerfreundliche API. Dank einfacher Integration in CMS-Systeme wie WooCommerce, OpenCart und Shopify ist Fondy besonders attraktiv für schnell wachsende Unternehmen. Fondy und über 500 weitere Anbieter sind bereits in Corefys Payment-Orchestration-Plattform integriert, wodurch unsere Kunden die Integration sofort und ohne Programmieraufwand nutzen können – einfach durch Eingabe ihrer MID-Zugangsdaten im Corefy-Dashboard. 
+: [ES] Fondy es un proveedor de servicios de pago con sede en Ucrania que ofrece soluciones completas de procesamiento para negocios en línea. Su plataforma admite pagos con tarjetas, transferencias bancarias, Apple Pay, Google Pay y otros métodos locales en Europa, Reino Unido y Asia Central. Fondy también proporciona herramientas de checkout personalizables, gestión de suscripciones, pagos recurrentes y paneles de análisis. Este y más de 500 proveedores ya están integrados en la plataforma de orquestación de pagos de Corefy, lo que permite a nuestros clientes comenzar a usar la integración al instante sin necesidad de programación, simplemente introduciendo sus credenciales MID en el panel de Corefy. 
+: [EN] Fondy is a Ukraine-based payment service provider offering complete processing solutions for online businesses. Its platform supports card payments, bank transfers, Apple Pay, Google Pay and other local methods in Europe, UK and Central Asia. Fondy also provides customizable checkout tools, subscription management, recurring payments and analytics dashboards. This and more than 500 other vendors are already integrated into Corefy's payment orchestration platform, allowing our customers to start using the integration instantly with no programming required, simply by entering their MID credentials into the Corefy dashboard. 
+ 
 **Categories:**`aggregating` ,`collecting` ,`distributing` 
  
  
@@ -60,7 +66,11 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"fondy",
-  "description":null,
+  "description":{
+    "de":"Fondy ist ein internationaler Zahlungsdienstleister mit Sitz in der Ukraine, der flexible und skalierbare Zahlungsl\u00f6sungen f\u00fcr Online-H\u00e4ndler, Plattformen und Marktpl\u00e4tze anbietet. Die Plattform unterst\u00fctzt \u00fcber 300 Zahlungsmethoden, darunter Karten, Apple Pay, Google Pay, SEPA, SWIFT und lokale Bank\u00fcberweisungen in \u00fcber 150 L\u00e4ndern. Fondy bietet Funktionen wie wiederkehrende Zahlungen, Split-Payments, Checkout-Anpassung, Multi-W\u00e4hrungsabrechnung und eine benutzerfreundliche API. Dank einfacher Integration in CMS-Systeme wie WooCommerce, OpenCart und Shopify ist Fondy besonders attraktiv f\u00fcr schnell wachsende Unternehmen. Fondy und \u00fcber 500 weitere Anbieter sind bereits in Corefys Payment-Orchestration-Plattform integriert, wodurch unsere Kunden die Integration sofort und ohne Programmieraufwand nutzen k\u00f6nnen \u2013 einfach durch Eingabe ihrer MID-Zugangsdaten im Corefy-Dashboard.",
+    "es":"Fondy es un proveedor de servicios de pago con sede en Ucrania que ofrece soluciones completas de procesamiento para negocios en l\u00ednea. Su plataforma admite pagos con tarjetas, transferencias bancarias, Apple Pay, Google Pay y otros m\u00e9todos locales en Europa, Reino Unido y Asia Central. Fondy tambi\u00e9n proporciona herramientas de checkout personalizables, gesti\u00f3n de suscripciones, pagos recurrentes y paneles de an\u00e1lisis. Este y m\u00e1s de 500 proveedores ya est\u00e1n integrados en la plataforma de orquestaci\u00f3n de pagos de Corefy, lo que permite a nuestros clientes comenzar a usar la integraci\u00f3n al instante sin necesidad de programaci\u00f3n, simplemente introduciendo sus credenciales MID en el panel de Corefy.",
+    "en":"Fondy is a Ukraine-based payment service provider offering complete processing solutions for online businesses. Its platform supports card payments, bank transfers, Apple Pay, Google Pay and other local methods in Europe, UK and Central Asia. Fondy also provides customizable checkout tools, subscription management, recurring payments and analytics dashboards. This and more than 500 other vendors are already integrated into Corefy's payment orchestration platform, allowing our customers to start using the integration instantly with no programming required, simply by entering their MID credentials into the Corefy dashboard."
+  },
   "vendor":"fondy",
   "categories":[
     "aggregating",

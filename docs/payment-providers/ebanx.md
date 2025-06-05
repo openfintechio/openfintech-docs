@@ -12,6 +12,11 @@
  
 :	[EN] EBANX 
  
+**Description:** 
+ 
+: [ES] EBANX es un proveedor de pagos con sede en Brasil que permite a empresas globales aceptar pagos locales en América Latina. Admite tarjetas nacionales, boletos bancarios, transferencias y wallets digitales en países como Brasil, México, Colombia, Chile, Perú y Argentina. EBANX se destaca por su enfoque en pagos localizados y su infraestructura que simplifica la expansión internacional de comercios digitales en mercados emergentes. Este y más de 500 proveedores ya están integrados en la plataforma de orquestación de pagos de Corefy, lo que permite a nuestros clientes comenzar a usar la integración al instante sin necesidad de programación, simplemente introduciendo sus credenciales MID en el panel de Corefy. 
+: [EN] EBANX is a Brazil-based payment provider that enables global businesses to accept local payments in Latin America. It supports domestic cards, boletos bancários, wire transfers and digital wallets in countries such as Brazil, Mexico, Colombia, Chile, Peru and Argentina. EBANX stands out for its focus on localized payments and its infrastructure that simplifies the international expansion of digital merchants in emerging markets. It and more than 500 other providers are already integrated into Corefy's payment orchestration platform, allowing our customers to start using the integration instantly without any programming, simply by entering their MID credentials in the Corefy dashboard. 
+ 
 **Categories:**`collecting` ,`aggregating` ,`distributing` 
  
 
@@ -61,7 +66,10 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"ebanx",
-  "description":null,
+  "description":{
+    "es":"EBANX es un proveedor de pagos con sede en Brasil que permite a empresas globales aceptar pagos locales en Am\u00e9rica Latina. Admite tarjetas nacionales, boletos bancarios, transferencias y wallets digitales en pa\u00edses como Brasil, M\u00e9xico, Colombia, Chile, Per\u00fa y Argentina. EBANX se destaca por su enfoque en pagos localizados y su infraestructura que simplifica la expansi\u00f3n internacional de comercios digitales en mercados emergentes. Este y m\u00e1s de 500 proveedores ya est\u00e1n integrados en la plataforma de orquestaci\u00f3n de pagos de Corefy, lo que permite a nuestros clientes comenzar a usar la integraci\u00f3n al instante sin necesidad de programaci\u00f3n, simplemente introduciendo sus credenciales MID en el panel de Corefy.",
+    "en":"EBANX is a Brazil-based payment provider that enables global businesses to accept local payments in Latin America. It supports domestic cards, boletos banc\u00e1rios, wire transfers and digital wallets in countries such as Brazil, Mexico, Colombia, Chile, Peru and Argentina. EBANX stands out for its focus on localized payments and its infrastructure that simplifies the international expansion of digital merchants in emerging markets. It and more than 500 other providers are already integrated into Corefy's payment orchestration platform, allowing our customers to start using the integration instantly without any programming, simply by entering their MID credentials in the Corefy dashboard."
+  },
   "vendor":"ebanx",
   "categories":[
     "collecting",

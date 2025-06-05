@@ -14,6 +14,7 @@
 **Description:** 
  
 : [EN] JCB is the Japanese credit card, which can also be used for online purchases. Around 85 million JCB credit cards are issued worldwide, 15 million cards outside of Japan. 
+: [ES] JCB (Japan Credit Bureau) es una red de tarjetas de pago originaria de Japón que ofrece soluciones de crédito, débito y prepago. Con millones de titulares en Asia y presencia global mediante acuerdos con otras redes, JCB es ampliamente aceptada por comercios que buscan captar consumidores asiáticos. Sus servicios incluyen protección antifraude, programas de fidelización y tecnología sin contacto. Este y más de 500 proveedores ya están integrados en la plataforma de orquestación de pagos de Corefy, lo que permite a nuestros clientes comenzar a usar la integración al instante sin necesidad de programación, simplemente introduciendo sus credenciales MID en el panel de Corefy. 
  
 **Category:** `payment_card` 
  
@@ -105,7 +106,8 @@ The list of [Payment Providers](/payment-providers/) that support the _JCB_
     "en":"JCB"
   },
   "description":{
-    "en":"JCB is the Japanese credit card, which can also be used for online purchases. Around 85 million JCB credit cards are issued worldwide, 15 million cards outside of Japan."
+    "en":"JCB is the Japanese credit card, which can also be used for online purchases. Around 85 million JCB credit cards are issued worldwide, 15 million cards outside of Japan.",
+    "es":"JCB (Japan Credit Bureau) es una red de tarjetas de pago originaria de Jap\u00f3n que ofrece soluciones de cr\u00e9dito, d\u00e9bito y prepago. Con millones de titulares en Asia y presencia global mediante acuerdos con otras redes, JCB es ampliamente aceptada por comercios que buscan captar consumidores asi\u00e1ticos. Sus servicios incluyen protecci\u00f3n antifraude, programas de fidelizaci\u00f3n y tecnolog\u00eda sin contacto. Este y m\u00e1s de 500 proveedores ya est\u00e1n integrados en la plataforma de orquestaci\u00f3n de pagos de Corefy, lo que permite a nuestros clientes comenzar a usar la integraci\u00f3n al instante sin necesidad de programaci\u00f3n, simplemente introduciendo sus credenciales MID en el panel de Corefy."
   },
   "countries":null,
   "category":"payment_card"

@@ -12,6 +12,11 @@
  
 :	[EN] PayU 
  
+**Description:** 
+ 
+: [DE] PayU ist ein globaler Zahlungsdienstleister mit starker Präsenz in aufstrebenden Märkten wie Indien, Lateinamerika, Mittel- und Osteuropa sowie Afrika. Als Teil der Prosus/Naspers-Gruppe bietet PayU eine umfassende Zahlungsplattform mit lokal bevorzugten Zahlungsmethoden, Acquiring-Diensten, wiederkehrenden Zahlungen, Kreditvergabe und Risikomanagement. Das Unternehmen arbeitet mit über 450.000 Händlern weltweit zusammen und unterstützt mehr als 400 Zahlungsmethoden in über 50 Ländern. PayU bietet APIs, SDKs und vorkonfigurierte Plug-ins für einfache Integration und richtet sich an schnell wachsende Unternehmen im E-Commerce, Fintech und digitalen Dienstleistungen. PayU und über 500 weitere Anbieter sind bereits in Corefys Payment-Orchestration-Plattform integriert, wodurch unsere Kunden die Integration sofort und ohne Programmieraufwand nutzen können – einfach durch Eingabe ihrer MID-Zugangsdaten im Corefy-Dashboard. 
+: [EN] PayU is a global payment service provider with a strong presence in emerging markets such as India, Latin America, Central and Eastern Europe and Africa. As part of the Prosus/Naspers Group, PayU offers a comprehensive payment platform with locally preferred payment methods, acquiring services, recurring payments, credit and risk management. The company works with over 450,000 merchants worldwide and supports more than 400 payment methods in over 50 countries. PayU offers APIs, SDKs and pre-configured plug-ins for easy integration and is aimed at fast-growing companies in e-commerce, fintech and digital services. PayU and over 500 other providers are already integrated into Corefy's payment orchestration platform, allowing our customers to use the integration immediately and without programming effort - simply by entering their MID credentials in the Corefy dashboard. 
+ 
 **Categories:**`collecting` ,`aggregating` ,`distributing` 
  
  
@@ -69,7 +74,10 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"payu",
-  "description":null,
+  "description":{
+    "de":"PayU ist ein globaler Zahlungsdienstleister mit starker Pr\u00e4senz in aufstrebenden M\u00e4rkten wie Indien, Lateinamerika, Mittel- und Osteuropa sowie Afrika. Als Teil der Prosus\/Naspers-Gruppe bietet PayU eine umfassende Zahlungsplattform mit lokal bevorzugten Zahlungsmethoden, Acquiring-Diensten, wiederkehrenden Zahlungen, Kreditvergabe und Risikomanagement. Das Unternehmen arbeitet mit \u00fcber 450.000 H\u00e4ndlern weltweit zusammen und unterst\u00fctzt mehr als 400 Zahlungsmethoden in \u00fcber 50 L\u00e4ndern. PayU bietet APIs, SDKs und vorkonfigurierte Plug-ins f\u00fcr einfache Integration und richtet sich an schnell wachsende Unternehmen im E-Commerce, Fintech und digitalen Dienstleistungen. PayU und \u00fcber 500 weitere Anbieter sind bereits in Corefys Payment-Orchestration-Plattform integriert, wodurch unsere Kunden die Integration sofort und ohne Programmieraufwand nutzen k\u00f6nnen \u2013 einfach durch Eingabe ihrer MID-Zugangsdaten im Corefy-Dashboard.",
+    "en":"PayU is a global payment service provider with a strong presence in emerging markets such as India, Latin America, Central and Eastern Europe and Africa. As part of the Prosus\/Naspers Group, PayU offers a comprehensive payment platform with locally preferred payment methods, acquiring services, recurring payments, credit and risk management. The company works with over 450,000 merchants worldwide and supports more than 400 payment methods in over 50 countries. PayU offers APIs, SDKs and pre-configured plug-ins for easy integration and is aimed at fast-growing companies in e-commerce, fintech and digital services. PayU and over 500 other providers are already integrated into Corefy's payment orchestration platform, allowing our customers to use the integration immediately and without programming effort - simply by entering their MID credentials in the Corefy dashboard."
+  },
   "vendor":"payu",
   "categories":[
     "collecting",

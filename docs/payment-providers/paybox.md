@@ -12,6 +12,10 @@
  
 :	[EN] Paybox 
  
+**Description:** 
+ 
+: [EN] Paybox is a payment service provider offering secure and flexible online payment solutions for businesses of all sizes, primarily across Europe. Originally developed in France and now part of the Verifone group, Paybox enables merchants to accept a wide range of payment methods, including credit and debit cards, digital wallets, and local options like Carte Bancaire. The platform supports e-commerce, mobile, and in-store payments, with features such as real-time transaction processing, fraud prevention, tokenization, and multi-currency capabilities. Paybox is known for its reliability, compliance with European security standards such as PCI DSS and 3D Secure, and its compatibility with various shopping carts and CMS platforms. Paybox and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -54,7 +58,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"paybox",
-  "description":null,
+  "description":{
+    "en":"Paybox is a payment service provider offering secure and flexible online payment solutions for businesses of all sizes, primarily across Europe. Originally developed in France and now part of the Verifone group, Paybox enables merchants to accept a wide range of payment methods, including credit and debit cards, digital wallets, and local options like Carte Bancaire. The platform supports e-commerce, mobile, and in-store payments, with features such as real-time transaction processing, fraud prevention, tokenization, and multi-currency capabilities. Paybox is known for its reliability, compliance with European security standards such as PCI DSS and 3D Secure, and its compatibility with various shopping carts and CMS platforms. Paybox and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"paybox",
   "categories":null,
   "countries":null,

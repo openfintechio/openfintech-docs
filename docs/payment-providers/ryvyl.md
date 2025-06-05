@@ -14,6 +14,10 @@
 :	[RU] Ryvyl 
 :	[UK] Ryvyl 
  
+**Description:** 
+ 
+: [EN] RYVYL, formerly known as GreenBox POS, is a fintech company specializing in blockchain-based payment processing and digital financial solutions. Headquartered in the United States, RYVYL provides an end-to-end ecosystem for secure, scalable, and real-time transaction processing using proprietary blockchain technology. The platform serves industries such as e-commerce, banking, and high-risk verticals by offering services including merchant acquiring, payment gateway solutions, fraud prevention, and digital wallets. RYVYL aims to modernize traditional payment systems by enhancing transparency, speed, and security while reducing processing costs. With a focus on compliance, RYVYL is registered as a money services business and adheres to regulatory standards in the jurisdictions it operates. RYVYL and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -47,7 +51,9 @@ The list of supported [Payment Methods](/payment-methods/)
 ```json
 {
   "code":"ryvyl",
-  "description":null,
+  "description":{
+    "en":"RYVYL, formerly known as GreenBox POS, is a fintech company specializing in blockchain-based payment processing and digital financial solutions. Headquartered in the United States, RYVYL provides an end-to-end ecosystem for secure, scalable, and real-time transaction processing using proprietary blockchain technology. The platform serves industries such as e-commerce, banking, and high-risk verticals by offering services including merchant acquiring, payment gateway solutions, fraud prevention, and digital wallets. RYVYL aims to modernize traditional payment systems by enhancing transparency, speed, and security while reducing processing costs. With a focus on compliance, RYVYL is registered as a money services business and adheres to regulatory standards in the jurisdictions it operates. RYVYL and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"ryvyl",
   "categories":null,
   "countries":null,

@@ -12,6 +12,10 @@
  
 :	[EN] Skrill 
  
+**Description:** 
+ 
+: [EN] Skrill is a globally recognized digital wallet and online payment platform that enables individuals and businesses to send, receive, and store money securely. Founded in 2001 and now part of the Paysafe Group, Skrill supports a wide range of payment services, including international money transfers, card payments, cryptocurrency transactions, and prepaid card issuance. It’s widely used in industries such as e-commerce, iGaming, forex, and digital services, offering fast and cost-effective payment options in over 100 countries and 40 currencies. Skrill is known for its user-friendly interface, high security standards, and additional features like loyalty rewards and one-click checkout. Merchants benefit from its global reach, robust fraud protection, and seamless integration options via APIs and plugins. Skrill and 500+ other payment providers are already integrated into Corefy’s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy’s dashboard. 
+ 
 
 ## Images 
 
@@ -84,7 +88,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"skrill",
-  "description":null,
+  "description":{
+    "en":"Skrill is a globally recognized digital wallet and online payment platform that enables individuals and businesses to send, receive, and store money securely. Founded in 2001 and now part of the Paysafe Group, Skrill supports a wide range of payment services, including international money transfers, card payments, cryptocurrency transactions, and prepaid card issuance. It\u2019s widely used in industries such as e-commerce, iGaming, forex, and digital services, offering fast and cost-effective payment options in over 100 countries and 40 currencies. Skrill is known for its user-friendly interface, high security standards, and additional features like loyalty rewards and one-click checkout. Merchants benefit from its global reach, robust fraud protection, and seamless integration options via APIs and plugins. Skrill and 500+ other payment providers are already integrated into Corefy\u2019s payment orchestration platform, allowing our clients to start using the integration instantly without coding by simply entering their MID credentials in Corefy\u2019s dashboard."
+  },
   "vendor":"skrill",
   "categories":null,
   "countries":null,
