@@ -52,6 +52,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin](/payment-methods/litecoin/)|`litecoin`| 
 |![ripple](https://static.openfintech.io/payment_methods/ripple/icon.svg?w=278&c=v0.59.26#w100) |[ripple](/payment-methods/ripple/)|`ripple`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether](/payment-methods/tether/)|`tether`| 
+|![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin](/payment-methods/usd_coin/)|`usd_coin`| 
  
 
 ## Payout Methods 
@@ -88,7 +89,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "ethereum",
     "litecoin",
     "ripple",
-    "tether"
+    "tether",
+    "usd_coin"
   ],
   "payout_method":[
     "bitcoin",
