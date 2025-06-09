@@ -17,7 +17,7 @@
 :	[RU] Банковский перевод 
 :	[UK] Банківський переказ 
  
-**Amount limits:** from `1.6` to `16000000` KES 
+**Amount limits:** from `1.3` to `16000000` KES 
 
 ## Fields 
 
@@ -408,7 +408,7 @@
       "example":"1100382992"
     }
   ],
-  "amount_min":1.6,
+  "amount_min":1.3,
   "amount_max":16000000
 }
 ```  

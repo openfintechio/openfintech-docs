@@ -17,7 +17,7 @@
 :	[RU] Банковский перевод 
 :	[UK] Банківський переказ 
  
-**Amount limits:** from `0.01` to `9999999` NGN 
+**Amount limits:** from `15` to `100000000` NGN 
 
 ## Fields 
 
@@ -444,7 +444,7 @@
       }
     }
   ],
-  "amount_min":0.01,
-  "amount_max":9999999
+  "amount_min":15,
+  "amount_max":100000000
 }
 ```  

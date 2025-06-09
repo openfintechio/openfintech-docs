@@ -17,7 +17,7 @@
 :	[RU] Банковский перевод 
 :	[UK] Банківський переказ 
  
-**Amount limits:** from `0.01` to `9999999` ZAR 
+**Amount limits:** from `0.18` to `1778255` ZAR 
 
 ## Fields 
 
@@ -482,7 +482,7 @@
       "example":"1100382992"
     }
   ],
-  "amount_min":0.01,
-  "amount_max":9999999
+  "amount_min":0.18,
+  "amount_max":1778255
 }
 ```  

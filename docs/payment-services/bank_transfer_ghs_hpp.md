@@ -17,7 +17,7 @@
 :	[RU] Банковский перевод 
 :	[UK] Банківський переказ 
  
-**Amount limits:** from `0.2` to `1200000` GHS 
+**Amount limits:** from `0.1` to `1200000` GHS 
 
 ## Fields 
 
@@ -408,7 +408,7 @@
       "example":"1100382992"
     }
   ],
-  "amount_min":0.2,
+  "amount_min":0.1,
   "amount_max":1200000
 }
 ```  
