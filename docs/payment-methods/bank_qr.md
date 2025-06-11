@@ -46,6 +46,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank QR_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![okpay](https://static.openfintech.io/payment_providers/okpay/icon.png?w=278&c=v0.59.26#w100) |[Okpay](/payment-providers/okpay/)|`okpay`| 
+|![cashix](https://static.openfintech.io/payment_providers/cashix/icon.png?w=278&c=v0.59.26#w100) |[Cashix](/payment-providers/cashix/)|`cashix`| 
  
 
 ## JSON Object 

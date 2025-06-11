@@ -433,6 +433,7 @@
 |![cashfree](https://static.openfintech.io/vendors/cashfree/logo.png?w=600&c=v0.59.26#w200) |[**Cashfree**](cashfree/)|`cashfree`| 
 |![cashia](https://static.openfintech.io/vendors/cashia/logo.png?w=600&c=v0.59.26#w200) |[**Cashia**](cashia/)|`cashia`| 
 |![cashing.su](https://static.openfintech.io/vendors/cashing.su/logo.svg?w=600&c=v0.59.26#w200) |[**Cashing**](cashing.su/)|`cashing.su`| 
+|![cashix](https://static.openfintech.io/vendors/cashix/logo.png?w=600&c=v0.59.26#w200) |[**Cashix**](cashix/)|`cashix`| 
 |![cashlib](https://static.openfintech.io/vendors/cashlib/logo.png?w=600&c=v0.59.26#w200) |[**CASHlib**](cashlib/)|`cashlib`| 
 |![cashonex](https://static.openfintech.io/vendors/cashonex/logo.png?w=600&c=v0.59.26#w200) |[**CashOneX**](cashonex/)|`cashonex`| 
 |![cashrun](https://static.openfintech.io/vendors/cashrun/logo.png?w=600&c=v0.59.26#w200) |[**CashRun**](cashrun/)|`cashrun`| 

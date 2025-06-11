@@ -89,6 +89,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card tran
 |![twopayler](https://static.openfintech.io/payment_providers/twopayler/icon.svg?w=278&c=v0.59.26#w100) |[2PayLer](/payment-providers/twopayler/)|`twopayler`| 
 |![payforu](https://static.openfintech.io/payment_providers/payforu/icon.png?w=278&c=v0.59.26#w100) |[PayForU](/payment-providers/payforu/)|`payforu`| 
 |![tapbank](https://static.openfintech.io/payment_providers/tapbank/icon.png?w=278&c=v0.59.26#w100) |[TapBank](/payment-providers/tapbank/)|`tapbank`| 
+|![cashix](https://static.openfintech.io/payment_providers/cashix/icon.png?w=278&c=v0.59.26#w100) |[Cashix](/payment-providers/cashix/)|`cashix`| 
  
 
 ## JSON Object 

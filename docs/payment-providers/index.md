@@ -169,6 +169,7 @@
 |![cashflows](https://static.openfintech.io/payment_providers/cashflows/logo.png?w=600&c=v0.59.26#w100) |[**CashFlows**](cashflows/)|`cashflows`| 
 |![cashfree](https://static.openfintech.io/payment_providers/cashfree/logo.png?w=600&c=v0.59.26#w100) |[**Cashfree**](cashfree/)|`cashfree`| 
 |![cashia](https://static.openfintech.io/payment_providers/cashia/logo.png?w=600&c=v0.59.26#w100) |[**Cashia**](cashia/)|`cashia`| 
+|![cashix](https://static.openfintech.io/payment_providers/cashix/logo.png?w=600&c=v0.59.26#w100) |[**Cashix**](cashix/)|`cashix`| 
 |![cashlib](https://static.openfintech.io/payment_providers/cashlib/logo.png?w=600&c=v0.59.26#w100) |[**CASHlib**](cashlib/)|`cashlib`| 
 |![cashonex](https://static.openfintech.io/payment_providers/cashonex/logo.png?w=600&c=v0.59.26#w100) |[**CashOneX**](cashonex/)|`cashonex`| 
 |![cashrun](https://static.openfintech.io/payment_providers/cashrun/logo.svg?w=600&c=v0.59.26#w100) |[**CashRun**](cashrun/)|`cashrun`| 
