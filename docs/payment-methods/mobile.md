@@ -62,6 +62,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Mobile_
 |![payport](https://static.openfintech.io/payment_providers/payport/icon.svg?w=278&c=v0.59.26#w100) |[PayPort](/payment-providers/payport/)|`payport`| 
 |![kora](https://static.openfintech.io/payment_providers/kora/icon.svg?w=278&c=v0.59.26#w100) |[Kora](/payment-providers/kora/)|`kora`| 
 |![rivierapay](https://static.openfintech.io/payment_providers/rivierapay/icon.svg?w=278&c=v0.59.26#w100) |[RivieraPay](/payment-providers/rivierapay/)|`rivierapay`| 
+|![pspark](https://static.openfintech.io/payment_providers/pspark/icon.svg?w=278&c=v0.59.26#w100) |[PSPARK](/payment-providers/pspark/)|`pspark`| 
  
 
 ## JSON Object 
