@@ -1399,6 +1399,7 @@
 |![MCP Chernovtsyteplokommunenergo](https://static.openfintech.io/payout_methods/mkp-chernivtsiteplokomunenergo/logo.png?w=400&c=v0.59.26#w24) |[**MCP Chernovtsyteplokommunenergo**](/payout-methods/mkp-chernivtsiteplokomunenergo/)|[`mkp-chernivtsiteplokomunenergo_uah`](mkp-chernivtsiteplokomunenergo_uah/)|`UAH`| 
 |![МКП МУКАЧІВВОДОКАНАЛ](https://static.openfintech.io/payout_methods/mkp-mukachivvodokanal/logo.png?w=400&c=v0.59.26#w24) |[**МКП МУКАЧІВВОДОКАНАЛ**](/payout-methods/mkp-mukachivvodokanal/)|[`mkp-mukachivvodokanal_uah`](mkp-mukachivvodokanal_uah/)|`UAH`| 
 |![Mobile](https://static.openfintech.io/payout_methods/mobile/logo.svg?w=400&c=v0.59.26#w24) |[**Mobile**](/payout-methods/mobile/)|[`mobile_egp`](mobile_egp/)|`EGP`| 
+|![Mobile](https://static.openfintech.io/payout_methods/mobile/logo.svg?w=400&c=v0.59.26#w24) |[**Mobile**](/payout-methods/mobile/)|[`mobile_kes`](mobile_kes/)|`KES`| 
 |![Mobile](https://static.openfintech.io/payout_methods/mobile/logo.svg?w=400&c=v0.59.26#w24) |[**Mobile**](/payout-methods/mobile/)|[`mobile_pkr`](mobile_pkr/)|`PKR`| 
 |![Mobile](https://static.openfintech.io/payout_methods/mobile/logo.svg?w=400&c=v0.59.26#w24) |[**Mobile**](/payout-methods/mobile/)|[`mobile_rub`](mobile_rub/)|`RUB`| 
 |![Mobile](https://static.openfintech.io/payout_methods/mobile/logo.svg?w=400&c=v0.59.26#w24) |[**Mobile**](/payout-methods/mobile/)|[`mobile_uah`](mobile_uah/)|`UAH`| 

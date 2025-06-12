@@ -38,6 +38,7 @@ The list of [Payout Services](/payout-services/) based on the _Mobile_
 |![mobile](https://static.openfintech.io/payout_methods/mobile/icon.svg?w=278&c=v0.59.26#w40) |[mobile_rub](/payout-services/mobile_rub/)|`mobile_rub`| 
 |![mobile](https://static.openfintech.io/payout_methods/mobile/icon.svg?w=278&c=v0.59.26#w40) |[mobile_pkr](/payout-services/mobile_pkr/)|`mobile_pkr`| 
 |![mobile](https://static.openfintech.io/payout_methods/mobile/icon.svg?w=278&c=v0.59.26#w40) |[mobile_egp](/payout-services/mobile_egp/)|`mobile_egp`| 
+|![mobile](https://static.openfintech.io/payout_methods/mobile/icon.svg?w=278&c=v0.59.26#w40) |[mobile_kes](/payout-services/mobile_kes/)|`mobile_kes`| 
  
 
 ## Payment Providers 
