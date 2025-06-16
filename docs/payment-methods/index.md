@@ -278,6 +278,7 @@
 |![codi](https://static.openfintech.io/payment_methods/codi/logo.svg?w=400&c=v0.59.26#w200) |[**CoDi**](codi/)|`codi`| 
 |![coingate](https://static.openfintech.io/payment_methods/coingate/logo.svg?w=400&c=v0.59.26#w200) |[**CoinGate**](coingate/)|`coingate`| 
 |![coins_ph](https://static.openfintech.io/payment_methods/coins_ph/logo.png?w=400&c=v0.59.26#w200) |[**Coins.ph**](coins_ph/)|`coins_ph`| 
+|![coinspaid](https://static.openfintech.io/payment_methods/coinspaid/logo.png?w=400&c=v0.59.26#w200) |[**CoinsPaid**](coinspaid/)|`coinspaid`| 
 |![colombia_bank](https://static.openfintech.io/payment_methods/colombia_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BANCOLOMBIA QA**](colombia_bank/)|`colombia_bank`| 
 |![colombia_bank_cah](https://static.openfintech.io/payment_methods/colombia_bank_cah/logo.svg?w=400&c=v0.59.26#w200) |[**Bancolombia Cash**](colombia_bank_cah/)|`colombia_bank_cah`| 
 |![comercial_avvillas_bank](https://static.openfintech.io/payment_methods/comercial_avvillas_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BANCO COMERCIAL AVVILLAS S.A.**](comercial_avvillas_bank/)|`comercial_avvillas_bank`| 

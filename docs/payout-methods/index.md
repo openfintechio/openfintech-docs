@@ -604,6 +604,7 @@
 |![fantastic-fishing](https://static.openfintech.io/payout_methods/fantastic-fishing/logo.png?w=400&c=v0.59.26#w24) |[**Fantastic Fishing**](fantastic-fishing/)|`fantastic-fishing`| 
 |![fantazium-2-evoliutsiia](https://static.openfintech.io/payout_methods/fantazium-2-evoliutsiia/logo.png?w=400&c=v0.59.26#w24) |[**Fantazium 2: Evolution**](fantazium-2-evoliutsiia/)|`fantazium-2-evoliutsiia`| 
 |![fast_mfb](https://static.openfintech.io/payout_methods/fast_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Fast MFB**](fast_mfb/)|`fast_mfb`| 
+|![faster_payments](https://static.openfintech.io/payout_methods/faster_payments/logo.svg?w=400&c=v0.59.26#w24) |[**Faster Payments**](faster_payments/)|`faster_payments`| 
 |![fastynet-kyiv](https://static.openfintech.io/payout_methods/fastynet-kyiv/logo.png?w=400&c=v0.59.26#w24) |[**FastyNet (Kyiv)**](fastynet-kyiv/)|`fastynet-kyiv`| 
 |![faust-kiev](https://static.openfintech.io/payout_methods/faust-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Faust (Kiev)**](faust-kiev/)|`faust-kiev`| 
 |![favorit-sport](https://static.openfintech.io/payout_methods/favorit-sport/logo.png?w=400&c=v0.59.26#w24) |[**Favorite Sport**](favorit-sport/)|`favorit-sport`| 

@@ -755,6 +755,8 @@
 |![Fantastic Fishing](https://static.openfintech.io/payout_methods/fantastic-fishing/logo.png?w=400&c=v0.59.26#w24) |[**Fantastic Fishing**](/payout-methods/fantastic-fishing/)|[`fantastic-fishing_uah`](fantastic-fishing_uah/)|`UAH`| 
 |![Fantazium 2: Evolution](https://static.openfintech.io/payout_methods/fantazium-2-evoliutsiia/logo.png?w=400&c=v0.59.26#w24) |[**Fantazium 2: Evolution**](/payout-methods/fantazium-2-evoliutsiia/)|[`fantazium-2-evoliutsiia_uah`](fantazium-2-evoliutsiia_uah/)|`UAH`| 
 |![Fast MFB](https://static.openfintech.io/payout_methods/fast_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Fast MFB**](/payout-methods/fast_mfb/)|[`fast_mfb_ngn`](fast_mfb_ngn/)|`NGN`| 
+|![Faster Payments](https://static.openfintech.io/payout_methods/faster_payments/logo.svg?w=400&c=v0.59.26#w24) |[**Faster Payments**](/payout-methods/faster_payments/)|[`faster_payments_eur`](faster_payments_eur/)|`EUR`| 
+|![Faster Payments](https://static.openfintech.io/payout_methods/faster_payments/logo.svg?w=400&c=v0.59.26#w24) |[**Faster Payments**](/payout-methods/faster_payments/)|[`faster_payments_gbp`](faster_payments_gbp/)|`GBP`| 
 |![FastyNet (Kyiv)](https://static.openfintech.io/payout_methods/fastynet-kyiv/logo.png?w=400&c=v0.59.26#w24) |[**FastyNet (Kyiv)**](/payout-methods/fastynet-kyiv/)|[`fastynet-kyiv_uah`](fastynet-kyiv_uah/)|`UAH`| 
 |![Faust (Kiev)](https://static.openfintech.io/payout_methods/faust-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Faust (Kiev)**](/payout-methods/faust-kiev/)|[`faust-kiev_uah`](faust-kiev_uah/)|`UAH`| 
 |![Favorite Sport](https://static.openfintech.io/payout_methods/favorit-sport/logo.png?w=400&c=v0.59.26#w24) |[**Favorite Sport**](/payout-methods/favorit-sport/)|[`favorit-sport_uah`](favorit-sport_uah/)|`UAH`| 

@@ -560,6 +560,7 @@
 |![CoinGate](https://static.openfintech.io/payment_methods/coingate/logo.svg?w=400&c=v0.59.26#w200) |[**CoinGate**](/payment-methods/coingate/)|[`coingate_eur_hpp`](coingate_eur_hpp/)| 
 |![CoinGate](https://static.openfintech.io/payment_methods/coingate/logo.svg?w=400&c=v0.59.26#w200) |[**CoinGate**](/payment-methods/coingate/)|[`coingate_usd_hpp`](coingate_usd_hpp/)| 
 |![Coins.ph](https://static.openfintech.io/payment_methods/coins_ph/logo.png?w=400&c=v0.59.26#w200) |[**Coins.ph**](/payment-methods/coins_ph/)|[`coins_ph_php_hpp`](coins_ph_php_hpp/)| 
+|![CoinsPaid](https://static.openfintech.io/payment_methods/coinspaid/logo.png?w=400&c=v0.59.26#w200) |[**CoinsPaid**](/payment-methods/coinspaid/)|[`coinspaid_eur_hpp`](coinspaid_eur_hpp/)| 
 |![Commerzbank](https://static.openfintech.io/payment_methods/commerzbank/logo.svg?w=400&c=v0.59.26#w200) |[**Commerzbank**](/payment-methods/commerzbank/)|[`commerzbank_eur_hpp`](commerzbank_eur_hpp/)| 
 |![Commonwealth Bank](https://static.openfintech.io/payment_methods/commonwealth_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Commonwealth Bank**](/payment-methods/commonwealth_bank/)|[`commonwealth_bank_aud_hpp`](commonwealth_bank_aud_hpp/)| 
 |![Commonwealth Bank](https://static.openfintech.io/payment_methods/commonwealth_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Commonwealth Bank**](/payment-methods/commonwealth_bank/)|[`commonwealth_bank_idr_hpp`](commonwealth_bank_idr_hpp/)| 
