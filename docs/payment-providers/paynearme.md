@@ -43,6 +43,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay](/payment-methods/googlepay/)|`googlepay`| 
 |![ach](https://static.openfintech.io/payment_methods/ach/icon.svg?w=278&c=v0.59.26#w100) |[ach](/payment-methods/ach/)|`ach`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash](/payment-methods/cash/)|`cash`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
  
 
 ## JSON Object 
@@ -58,7 +59,8 @@ The list of supported [Payment Methods](/payment-methods/)
     "applepay",
     "googlepay",
     "ach",
-    "cash"
+    "cash",
+    "payment_card"
   ],
   "payout_method":null,
   "metadata":null,
