@@ -1397,6 +1397,7 @@
 |![okinawa_kaiho_bank](https://static.openfintech.io/vendors/okinawa_kaiho_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Okinawa kaiho bank**](okinawa_kaiho_bank/)|`okinawa_kaiho_bank`| 
 |![okpay](https://static.openfintech.io/vendors/okpay/logo.svg?w=600&c=v0.59.26#w200) |[**OKPay**](okpay/)|`okpay`| 
 |![okpay_provider](https://static.openfintech.io/vendors/okpay_provider/logo.png?w=600&c=v0.59.26#w200) |[**Okpay**](okpay_provider/)|`okpay_provider`| 
+|![okto](https://static.openfintech.io/vendors/okto/logo.svg?w=600&c=v0.59.26#w200) |[**OKTO**](okto/)|`okto`| 
 |![olpays](https://static.openfintech.io/vendors/olpays/logo.png?w=600&c=v0.59.26#w200) |[**Olpays**](olpays/)|`olpays`| 
 |![ombaug](https://static.openfintech.io/vendors/ombaug/logo.png?w=600&c=v0.59.26#w200) |[**omba**](ombaug/)|`ombaug`| 
 |![omnipayment](https://static.openfintech.io/vendors/omnipayment/logo.png?w=600&c=v0.59.26#w200) |[**OmniPayment**](omnipayment/)|`omnipayment`| 

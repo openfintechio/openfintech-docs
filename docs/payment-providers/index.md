@@ -613,6 +613,7 @@
 |![odysseq](https://static.openfintech.io/payment_providers/odysseq/logo.svg?w=600&c=v0.59.26#w100) |[**Odysseq**](odysseq/)|`odysseq`| 
 |![offsetpay](https://static.openfintech.io/payment_providers/offsetpay/logo.png?w=600&c=v0.59.26#w100) |[**OffsetPay**](offsetpay/)|`offsetpay`| 
 |![okpay](https://static.openfintech.io/payment_providers/okpay/logo.png?w=600&c=v0.59.26#w100) |[**Okpay**](okpay/)|`okpay`| 
+|![okto](https://static.openfintech.io/payment_providers/okto/logo.svg?w=600&c=v0.59.26#w100) |[**OKTO**](okto/)|`okto`| 
 |![olpays](https://static.openfintech.io/payment_providers/olpays/logo.png?w=600&c=v0.59.26#w100) |[**Olpays**](olpays/)|`olpays`| 
 |![ombaug](https://static.openfintech.io/payment_providers/ombaug/logo.png?w=600&c=v0.59.26#w100) |[**omba**](ombaug/)|`ombaug`| 
 |![omnipayment](https://static.openfintech.io/payment_providers/omnipayment/logo.png?w=600&c=v0.59.26#w100) |[**OmniPayment**](omnipayment/)|`omnipayment`| 

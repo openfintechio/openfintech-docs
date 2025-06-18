@@ -644,6 +644,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![paynearme](https://static.openfintech.io/payment_providers/paynearme/icon.svg?w=278&c=v0.59.26#w100) |[PayNearMe](/payment-providers/paynearme/)|`paynearme`| 
 |![payon](https://static.openfintech.io/payment_providers/payon/icon.png?w=278&c=v0.59.26#w100) |[Payon](/payment-providers/payon/)|`payon`| 
 |![kalemoney](https://static.openfintech.io/payment_providers/kalemoney/icon.svg?w=278&c=v0.59.26#w100) |[Kale.Money](/payment-providers/kalemoney/)|`kalemoney`| 
+|![okto](https://static.openfintech.io/payment_providers/okto/icon.png?w=278&c=v0.59.26#w100) |[OKTO](/payment-providers/okto/)|`okto`| 
  
 
 ## JSON Object 
