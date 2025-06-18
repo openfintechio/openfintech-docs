@@ -32,6 +32,7 @@
 |`beneficiary_address`|✗|`string`|`/^[A-Za-z{*}, -d]{2,64}$/`| 
 |`beneficiary_bank_swift_code`|✗|`string`|`/^[A-Z]{6}[A-Z0-9]{2}([A-Z0-9]{3})?$/`| 
 |`beneficiary_bank_name`|✗|`string`|`/^[A-Z\-\ a-z0-9_]{2,100}$/`| 
+|`beneficiary_postcode`|✗|`string`|`/^[\w\-\s]{1,64}$/`| 
  
 
 ### Details 
@@ -179,6 +180,24 @@
 	: [EN] Enter bank name 
 	: [RU] Введите название банка 
 	: [UK] Введіть назву банку 
+ 
+9. **`beneficiary_postcode`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[\w\-\s]{1,64}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary postcode 
+	: [RU] Beneficiary postcode 
+	: [UK] Beneficiary postcode 
+ 
+	Hint:  
+	: [EN] Enter beneficiary postcode 
+	: [RU] Введите beneficiary postcode 
+	: [UK] Введіть beneficiary postcode 
  
 
 ## JSON Object 
@@ -332,6 +351,23 @@
       "required":false,
       "position":8,
       "example":"Bank of Lemuria"
+    },
+    {
+      "key":"beneficiary_postcode",
+      "type":"string",
+      "regexp":"\/^[\\w\\-\\s]{1,64}$\/",
+      "required":false,
+      "position":9,
+      "label":{
+        "en":"Beneficiary postcode",
+        "ru":"Beneficiary postcode",
+        "uk":"Beneficiary postcode"
+      },
+      "hint":{
+        "en":"Enter beneficiary postcode",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 beneficiary postcode",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c beneficiary postcode"
+      }
     }
   ],
   "amount_min":0.01,

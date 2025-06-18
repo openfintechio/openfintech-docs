@@ -480,6 +480,7 @@
 |![junglepay](https://static.openfintech.io/payment_providers/junglepay/logo.png?w=600&c=v0.59.26#w100) |[**JunglePay**](junglepay/)|`junglepay`| 
 |![justipay](https://static.openfintech.io/payment_providers/justipay/logo.svg?w=600&c=v0.59.26#w100) |[**Justipay**](justipay/)|`justipay`| 
 || **K** ||
+|![kalemoney](https://static.openfintech.io/payment_providers/kalemoney/logo.svg?w=600&c=v0.59.26#w100) |[**Kale.Money**](kalemoney/)|`kalemoney`| 
 |![kalixa](https://static.openfintech.io/payment_providers/kalixa/logo.png?w=600&c=v0.59.26#w100) |[**Kalixa Payments Group**](kalixa/)|`kalixa`| 
 |![kalonpay](https://static.openfintech.io/payment_providers/kalonpay/logo.svg?w=600&c=v0.59.26#w100) |[**KalonPay**](kalonpay/)|`kalonpay`| 
 |![kasha](https://static.openfintech.io/payment_providers/kasha/logo.png?w=600&c=v0.59.26#w100) |[**Kasha**](kasha/)|`kasha`| 

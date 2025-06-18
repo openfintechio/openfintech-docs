@@ -1083,6 +1083,7 @@
 |![kagoshima_bank](https://static.openfintech.io/vendors/kagoshima_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Kagoshima Bank**](kagoshima_bank/)|`kagoshima_bank`| 
 |![kakao_bank](https://static.openfintech.io/vendors/kakao_bank/logo.png?w=600&c=v0.59.26#w200) |[**KakaoBank Corp.**](kakao_bank/)|`kakao_bank`| 
 |![kakaopay_bank](https://static.openfintech.io/vendors/kakaopay_bank/logo.png?w=600&c=v0.59.26#w200) |[**Kakaopay Securities Corp.**](kakaopay_bank/)|`kakaopay_bank`| 
+|![kalemoney](https://static.openfintech.io/vendors/kalemoney/logo.svg?w=600&c=v0.59.26#w200) |[**Kale.Money**](kalemoney/)|`kalemoney`| 
 |![kalixa](https://static.openfintech.io/vendors/kalixa/logo.png?w=600&c=v0.59.26#w200) |[**Kalixa Payments Group**](kalixa/)|`kalixa`| 
 |![kalonpay](https://static.openfintech.io/vendors/kalonpay/logo.svg?w=600&c=v0.59.26#w200) |[**KalonPay**](kalonpay/)|`kalonpay`| 
 |![kanagawa_bank](https://static.openfintech.io/vendors/kanagawa_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Kanagawa Bank**](kanagawa_bank/)|`kanagawa_bank`| 
