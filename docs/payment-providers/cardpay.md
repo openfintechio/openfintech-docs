@@ -53,6 +53,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![paypal](https://static.openfintech.io/payment_methods/paypal/icon.svg?w=278&c=v0.59.26#w100) |[paypal](/payment-methods/paypal/)|`paypal`| 
 |![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer](/payment-methods/sepa_transfer/)|`sepa_transfer`| 
 |![online_banking](https://static.openfintech.io/payment_methods/online_banking/icon.svg?w=278&c=v0.59.26#w100) |[online_banking](/payment-methods/online_banking/)|`online_banking`| 
+|![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay](/payment-methods/applepay/)|`applepay`| 
  
 
 ## Payout Methods 
@@ -86,7 +87,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "neteller",
     "paypal",
     "sepa_transfer",
-    "online_banking"
+    "online_banking",
+    "applepay"
   ],
   "payout_method":[
     "payment_card",
