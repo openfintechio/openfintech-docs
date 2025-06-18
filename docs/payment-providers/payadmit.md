@@ -64,6 +64,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![bitexpro_payeer](https://static.openfintech.io/payment_methods/bitexpro_payeer/icon.svg?w=278&c=v0.59.26#w100) |[bitexpro_payeer](/payment-methods/bitexpro_payeer/)|`bitexpro_payeer`| 
 |![revolut_bank](https://static.openfintech.io/payment_methods/revolut_bank/icon.png?w=278&c=v0.59.26#w100) |[revolut_bank](/payment-methods/revolut_bank/)|`revolut_bank`| 
 |![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking](/payment-methods/openbanking/)|`openbanking`| 
+|![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
  
 
 ## Payout Methods 
@@ -107,7 +108,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "bitexpro_advwallet",
     "bitexpro_payeer",
     "revolut_bank",
-    "openbanking"
+    "openbanking",
+    "paysafecard"
   ],
   "payout_method":[
     "payment_card"
