@@ -148,6 +148,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![virtual_bank_aggregated](https://static.openfintech.io/payment_methods/virtual_bank_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[virtual_bank_aggregated](/payment-methods/virtual_bank_aggregated/)|`virtual_bank_aggregated`| 
 |![easypaisa](https://static.openfintech.io/payment_methods/easypaisa/icon.svg?w=278&c=v0.59.26#w100) |[easypaisa](/payment-methods/easypaisa/)|`easypaisa`| 
 |![jazzcash](https://static.openfintech.io/payment_methods/jazzcash/icon.svg?w=278&c=v0.59.26#w100) |[jazzcash](/payment-methods/jazzcash/)|`jazzcash`| 
+|![upi_qr](https://static.openfintech.io/payment_methods/upi_qr/icon.png?w=278&c=v0.59.26#w100) |[upi_qr](/payment-methods/upi_qr/)|`upi_qr`| 
  
 
 ## Payout Methods 
@@ -353,7 +354,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "sepa_transfer",
     "virtual_bank_aggregated",
     "easypaisa",
-    "jazzcash"
+    "jazzcash",
+    "upi_qr"
   ],
   "payout_method":[
     "hdfc_bank",
