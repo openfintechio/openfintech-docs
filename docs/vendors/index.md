@@ -818,6 +818,7 @@
 |![filiya_prat_ufg_u_m_svitlovodsk](https://static.openfintech.io/vendors/filiya_prat_ufg_u_m_svitlovodsk/logo.svg?w=600&c=v0.59.26#w200) |[**Філія ПрАТ 'Українська фінансова група' у м. Світловодськ**](filiya_prat_ufg_u_m_svitlovodsk/)|`filiya_prat_ufg_u_m_svitlovodsk`| 
 |![filiyakibpatkredi_agrikol_bankkiyiv](https://static.openfintech.io/vendors/filiyakibpatkredi_agrikol_bankkiyiv/logo.svg?w=600&c=v0.59.26#w200) |[**Філія 'КІБ' Публічного акціонерного товариства 'КРЕДІ АГРІКОЛЬ БАНК'**](filiyakibpatkredi_agrikol_bankkiyiv/)|`filiyakibpatkredi_agrikol_bankkiyiv`| 
 |![filspay](https://static.openfintech.io/vendors/filspay/logo.png?w=600&c=v0.59.26#w200) |[**FilsPay**](filspay/)|`filspay`| 
+|![fingenom](https://static.openfintech.io/vendors/fingenom/logo.png?w=600&c=v0.59.26#w200) |[**Fingenom**](fingenom/)|`fingenom`| 
 |![finhub](https://static.openfintech.io/vendors/finhub/logo.png?w=600&c=v0.59.26#w200) |[**FinHub**](finhub/)|`finhub`| 
 |![finvert](https://static.openfintech.io/vendors/finvert/logo.svg?w=600&c=v0.59.26#w200) |[**Finvert**](finvert/)|`finvert`| 
 |![fireballpsp](https://static.openfintech.io/vendors/fireballpsp/logo.png?w=600&c=v0.59.26#w200) |[**Fireball PSP**](fireballpsp/)|`fireballpsp`| 

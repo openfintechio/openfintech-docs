@@ -603,6 +603,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![infinityspace](https://static.openfintech.io/payment_providers/infinityspace/icon.png?w=278&c=v0.59.26#w100) |[Infinity Space](/payment-providers/infinityspace/)|`infinityspace`| 
 |![startbutton](https://static.openfintech.io/payment_providers/startbutton/icon.png?w=278&c=v0.59.26#w100) |[Startbutton](/payment-providers/startbutton/)|`startbutton`| 
 |![bitlabz](https://static.openfintech.io/payment_providers/bitlabz/icon.svg?w=278&c=v0.59.26#w100) |[Bitlabz](/payment-providers/bitlabz/)|`bitlabz`| 
+|![fingenom](https://static.openfintech.io/payment_providers/fingenom/icon.png?w=278&c=v0.59.26#w100) |[Fingenom](/payment-providers/fingenom/)|`fingenom`| 
 |![pipay](https://static.openfintech.io/payment_providers/pipay/icon.png?w=278&c=v0.59.26#w100) |[Pi Pay](/payment-providers/pipay/)|`pipay`| 
 |![omno](https://static.openfintech.io/payment_providers/omno/icon.png?w=278&c=v0.59.26#w100) |[OMNO](/payment-providers/omno/)|`omno`| 
 |![aeteredge](https://static.openfintech.io/payment_providers/aeteredge/icon.svg?w=278&c=v0.59.26#w100) |[AeterEdge](/payment-providers/aeteredge/)|`aeteredge`| 

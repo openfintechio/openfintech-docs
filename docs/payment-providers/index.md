@@ -358,6 +358,7 @@
 |![fibonatix](https://static.openfintech.io/payment_providers/fibonatix/logo.png?w=600&c=v0.59.26#w100) |[**Fibonatix**](fibonatix/)|`fibonatix`| 
 |![fidelitypaymentservices](https://static.openfintech.io/payment_providers/fidelitypaymentservices/logo.png?w=600&c=v0.59.26#w100) |[**Fidelity Payment Services**](fidelitypaymentservices/)|`fidelitypaymentservices`| 
 |![filspay](https://static.openfintech.io/payment_providers/filspay/logo.png?w=600&c=v0.59.26#w100) |[**FilsPay**](filspay/)|`filspay`| 
+|![fingenom](https://static.openfintech.io/payment_providers/fingenom/logo.png?w=600&c=v0.59.26#w100) |[**Fingenom**](fingenom/)|`fingenom`| 
 |![finhub](https://static.openfintech.io/payment_providers/finhub/logo.png?w=600&c=v0.59.26#w100) |[**FinHub**](finhub/)|`finhub`| 
 |![finvert](https://static.openfintech.io/payment_providers/finvert/logo.svg?w=600&c=v0.59.26#w100) |[**Finvert**](finvert/)|`finvert`| 
 |![fireballpsp](https://static.openfintech.io/payment_providers/fireballpsp/logo.svg?w=600&c=v0.59.26#w100) |[**Fireball PSP**](fireballpsp/)|`fireballpsp`| 
