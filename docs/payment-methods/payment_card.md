@@ -642,6 +642,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![novacasp](https://static.openfintech.io/payment_providers/novacasp/icon.svg?w=278&c=v0.59.26#w100) |[NovaCasp](/payment-providers/novacasp/)|`novacasp`| 
 |![xmgate](https://static.openfintech.io/payment_providers/xmgate/icon.svg?w=278&c=v0.59.26#w100) |[Xmgate](/payment-providers/xmgate/)|`xmgate`| 
 |![matrixpay](https://static.openfintech.io/payment_providers/matrixpay/icon.png?w=278&c=v0.59.26#w100) |[MatrixPay](/payment-providers/matrixpay/)|`matrixpay`| 
+|![asupay](https://static.openfintech.io/payment_providers/asupay/icon.svg?w=278&c=v0.59.26#w100) |[AsuPay](/payment-providers/asupay/)|`asupay`| 
 |![paynearme](https://static.openfintech.io/payment_providers/paynearme/icon.svg?w=278&c=v0.59.26#w100) |[PayNearMe](/payment-providers/paynearme/)|`paynearme`| 
 |![payon](https://static.openfintech.io/payment_providers/payon/icon.png?w=278&c=v0.59.26#w100) |[Payon](/payment-providers/payon/)|`payon`| 
 |![kalemoney](https://static.openfintech.io/payment_providers/kalemoney/icon.svg?w=278&c=v0.59.26#w100) |[Kale.Money](/payment-providers/kalemoney/)|`kalemoney`| 

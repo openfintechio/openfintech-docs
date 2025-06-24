@@ -147,6 +147,7 @@
 |![aspay](https://static.openfintech.io/vendors/aspay/logo.png?w=600&c=v0.59.26#w200) |[**AsPay**](aspay/)|`aspay`| 
 |![assist](https://static.openfintech.io/vendors/assist/logo.png?w=600&c=v0.59.26#w200) |[**ASSIST**](assist/)|`assist`| 
 |![astropay](https://static.openfintech.io/vendors/astropay/logo.png?w=600&c=v0.59.26#w200) |[**AstroPay**](astropay/)|`astropay`| 
+|![asupay](https://static.openfintech.io/vendors/asupay/logo.svg?w=600&c=v0.59.26#w200) |[**AsuPay**](asupay/)|`asupay`| 
 |![at_artem_bank](https://static.openfintech.io/vendors/at_artem_bank/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'АРТЕМ-БАНК'**](at_artem_bank/)|`at_artem_bank`| 
 |![at_bank_boguslav](https://static.openfintech.io/vendors/at_bank_boguslav/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'БАНК БОГУСЛАВ'**](at_bank_boguslav/)|`at_bank_boguslav`| 
 |![at_bank_tavrika](https://static.openfintech.io/vendors/at_bank_tavrika/logo.svg?w=600&c=v0.59.26#w200) |[**ПАТ 'БАНК 'ТАВРИКА'**](at_bank_tavrika/)|`at_bank_tavrika`| 

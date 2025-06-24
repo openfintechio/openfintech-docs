@@ -73,6 +73,7 @@
 |![asiapay](https://static.openfintech.io/payment_providers/asiapay/logo.png?w=600&c=v0.59.26#w100) |[**AsiaPay**](asiapay/)|`asiapay`| 
 |![aspay](https://static.openfintech.io/payment_providers/aspay/logo.png?w=600&c=v0.59.26#w100) |[**AsPay**](aspay/)|`aspay`| 
 |![astropay](https://static.openfintech.io/payment_providers/astropay/logo.png?w=600&c=v0.59.26#w100) |[**AstroPay**](astropay/)|`astropay`| 
+|![asupay](https://static.openfintech.io/payment_providers/asupay/logo.svg?w=600&c=v0.59.26#w100) |[**AsuPay**](asupay/)|`asupay`| 
 |![atosworldline](https://static.openfintech.io/payment_providers/atosworldline/logo.png?w=600&c=v0.59.26#w100) |[**Worldline**](atosworldline/)|`atosworldline`| 
 |![aureavia](https://static.openfintech.io/payment_providers/aureavia/logo.png?w=600&c=v0.59.26#w100) |[**Aurea Via**](aureavia/)|`aureavia`| 
 |![australpay](https://static.openfintech.io/payment_providers/australpay/logo.png?w=600&c=v0.59.26#w100) |[**AustralPay**](australpay/)|`australpay`| 
