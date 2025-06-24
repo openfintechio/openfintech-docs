@@ -567,6 +567,7 @@
 |![cypix](https://static.openfintech.io/vendors/cypix/logo.svg?w=600&c=v0.59.26#w200) |[**Cypix**](cypix/)|`cypix`| 
 || **D** ||
 |![d24](https://static.openfintech.io/vendors/d24/logo.svg?w=600&c=v0.59.26#w200) |[**D24**](d24/)|`d24`| 
+|![d8](https://static.openfintech.io/vendors/d8/logo.png?w=600&c=v0.59.26#w200) |[**D8 Corporation**](d8/)|`d8`| 
 |![daegu_bank](https://static.openfintech.io/vendors/daegu_bank/logo.png?w=600&c=v0.59.26#w200) |[**DGB Daegu Bank**](daegu_bank/)|`daegu_bank`| 
 |![dai_coin](https://static.openfintech.io/vendors/dai_coin/logo.svg?w=600&c=v0.59.26#w200) |[**Dai Coin**](dai_coin/)|`dai_coin`| 
 |![daisan_bank](https://static.openfintech.io/vendors/daisan_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Daisan Bank**](daisan_bank/)|`daisan_bank`| 

@@ -637,6 +637,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![payon](https://static.openfintech.io/payment_providers/payon/icon.png?w=278&c=v0.59.26#w100) |[Payon](/payment-providers/payon/)|`payon`| 
 |![kalemoney](https://static.openfintech.io/payment_providers/kalemoney/icon.svg?w=278&c=v0.59.26#w100) |[Kale.Money](/payment-providers/kalemoney/)|`kalemoney`| 
 |![okto](https://static.openfintech.io/payment_providers/okto/icon.png?w=278&c=v0.59.26#w100) |[OKTO](/payment-providers/okto/)|`okto`| 
+|![d8](https://static.openfintech.io/payment_providers/d8/icon.png?w=278&c=v0.59.26#w100) |[D8 Corporation](/payment-providers/d8/)|`d8`| 
  
 
 ## JSON Object 
