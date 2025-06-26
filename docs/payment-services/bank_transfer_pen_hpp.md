@@ -25,7 +25,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`document_type`|✗|`string`|`/^.{1,3}$/`| 
+|`document_type`|✗|`string`|`/^.{1,32}$/`| 
 |`document_id`|✗|`string`|`/^[0-9]{1,100}$/`| 
  
 
@@ -35,7 +35,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^.{1,3}$/` 
+	Regexp: `/^.{1,32}$/` 
  
 	Required: `` 
  
@@ -80,7 +80,7 @@
     {
       "key":"document_type",
       "type":"string",
-      "regexp":"\/^.{1,3}$\/",
+      "regexp":"\/^.{1,32}$\/",
       "required":false,
       "position":1,
       "label":{

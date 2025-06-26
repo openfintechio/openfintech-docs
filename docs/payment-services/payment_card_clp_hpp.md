@@ -26,8 +26,8 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`installments`|✗|`string`|`/^(?:[1-9]\|1[0-9]?\|2[0-4]?)$/`| 
-|`document_type`|✗|`string`|`/^.{1,3}$/`| 
-|`document_id`|✗|`string`|`/^[0-9]{1,100}$/`| 
+|`document_type`|✗|`string`|`/^.{1,32}$/`| 
+|`document_id`|✗|`string`|`/^[a-zA-Z0-9\-]{1,100}$/`| 
  
 
 ### Details 
@@ -54,7 +54,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^.{1,3}$/` 
+	Regexp: `/^.{1,32}$/` 
  
 	Required: `` 
  
@@ -72,7 +72,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9]{1,100}$/` 
+	Regexp: `/^[a-zA-Z0-9\-]{1,100}$/` 
  
 	Required: `` 
  
@@ -116,7 +116,7 @@
     {
       "key":"document_type",
       "type":"string",
-      "regexp":"\/^.{1,3}$\/",
+      "regexp":"\/^.{1,32}$\/",
       "required":false,
       "position":2,
       "label":{
@@ -133,7 +133,7 @@
     {
       "key":"document_id",
       "type":"string",
-      "regexp":"\/^[0-9]{1,100}$\/",
+      "regexp":"\/^[a-zA-Z0-9\\-]{1,100}$\/",
       "required":false,
       "position":3,
       "label":{

@@ -33,8 +33,8 @@
 |`payer_state`|✗|`string`|`/^[a-zA-Z\-\s]{1,20}$/`| 
 |`payer_zip_code`|✗|`string`|`/^[0-9\-\s]{1,20}$/`| 
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
-|`document_type`|✗|`string`|`/^.{1,3}$/`| 
-|`document_id`|✗|`string`|`/^[0-9]{1,100}$/`| 
+|`document_type`|✗|`string`|`/^.{1,32}$/`| 
+|`document_id`|✗|`string`|`/^[a-zA-Z0-9\-]{1,100}$/`| 
  
 
 ### Details 
@@ -187,7 +187,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^.{1,3}$/` 
+	Regexp: `/^.{1,32}$/` 
  
 	Required: `` 
  
@@ -205,7 +205,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9]{1,100}$/` 
+	Regexp: `/^[a-zA-Z0-9\-]{1,100}$/` 
  
 	Required: `` 
  
@@ -375,9 +375,9 @@
     {
       "key":"document_type",
       "type":"string",
-      "regexp":"\/^.{1,3}$\/",
+      "regexp":"\/^.{1,32}$\/",
       "required":false,
-      "position":1,
+      "position":9,
       "label":{
         "en":"Document Type",
         "ru":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
@@ -392,9 +392,9 @@
     {
       "key":"document_id",
       "type":"string",
-      "regexp":"\/^[0-9]{1,100}$\/",
+      "regexp":"\/^[a-zA-Z0-9\\-]{1,100}$\/",
       "required":false,
-      "position":2,
+      "position":10,
       "label":{
         "en":"Beneficiary's personal identification number",
         "ru":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
