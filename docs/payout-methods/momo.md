@@ -37,6 +37,7 @@ The list of [Payout Services](/payout-services/) based on the _MoMo_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![momo](https://static.openfintech.io/payout_methods/momo/icon.svg?w=278&c=v0.59.26#w40) |[momo_vnd](/payout-services/momo_vnd/)|`momo_vnd`| 
+|![momo](https://static.openfintech.io/payout_methods/momo/icon.svg?w=278&c=v0.59.26#w40) |[momo_zmw](/payout-services/momo_zmw/)|`momo_zmw`| 
  
 
 ## Payment Providers 

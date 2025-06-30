@@ -1411,6 +1411,7 @@
 |![Momiji Bank](https://static.openfintech.io/payout_methods/momiji_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Momiji Bank**](/payout-methods/momiji_bank/)|[`momiji_bank_jpy`](momiji_bank_jpy/)|`JPY`| 
 |![Momo QR](https://static.openfintech.io/payout_methods/momo_qr/logo.svg?w=400&c=v0.59.26#w24) |[**Momo QR**](/payout-methods/momo_qr/)|[`momo_qr_vnd`](momo_qr_vnd/)|`VND`| 
 |![MoMo](https://static.openfintech.io/payout_methods/momo/logo.svg?w=400&c=v0.59.26#w24) |[**MoMo**](/payout-methods/momo/)|[`momo_vnd`](momo_vnd/)|`VND`| 
+|![MoMo](https://static.openfintech.io/payout_methods/momo/logo.svg?w=400&c=v0.59.26#w24) |[**MoMo**](/payout-methods/momo/)|[`momo_zmw`](momo_zmw/)|`ZMW`| 
 |![Money Trust MFB](https://static.openfintech.io/payout_methods/money_trust_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Money Trust MFB**](/payout-methods/money_trust_mfb/)|[`money_trust_mfb_ngn`](money_trust_mfb_ngn/)|`NGN`| 
 |![Moneybox](https://static.openfintech.io/payout_methods/moneybox/logo.svg?w=400&c=v0.59.26#w24) |[**Moneybox**](/payout-methods/moneybox/)|[`moneybox_ngn`](moneybox_ngn/)|`NGN`| 
 |![MoneyVeo](https://static.openfintech.io/payout_methods/moneyveo/logo.png?w=400&c=v0.59.26#w24) |[**MoneyVeo**](/payout-methods/moneyveo/)|[`moneyveo_uah`](moneyveo_uah/)|`UAH`| 
