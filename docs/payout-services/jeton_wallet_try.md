@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`wallet_id`|✔|`string`|`/^(\d{1,8})$/`| 
+|`wallet_id`|✔|`string`|`/^(\d{1,9})$/`| 
  
 
 ### Details 
@@ -33,7 +33,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^(\d{1,8})$/` 
+	Regexp: `/^(\d{1,9})$/` 
  
 	Required: `1` 
  
@@ -70,7 +70,7 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c ID Jeton \u0433\u0430\u043c\u0430\u043d\u0446\u044f"
       },
       "example":"12345678",
-      "regexp":"\/^(\\d{1,8})$\/",
+      "regexp":"\/^(\\d{1,9})$\/",
       "required":true,
       "position":1
     }
