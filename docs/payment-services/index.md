@@ -1052,6 +1052,8 @@
 |![MultiBanco NET](https://static.openfintech.io/payment_methods/multibanconet/logo.png?w=400&c=v0.59.26#w200) |[**MultiBanco NET**](/payment-methods/multibanconet/)|[`multibanconet_eur_hpp`](multibanconet_eur_hpp/)| 
 |![Multicaja](https://static.openfintech.io/payment_methods/multicaja/logo.svg?w=400&c=v0.59.26#w200) |[**Multicaja**](/payment-methods/multicaja/)|[`multicaja_clp_hpp`](multicaja_clp_hpp/)| 
 |![Multicaja](https://static.openfintech.io/payment_methods/multicaja/logo.svg?w=400&c=v0.59.26#w200) |[**Multicaja**](/payment-methods/multicaja/)|[`multicaja_usd_hpp`](multicaja_usd_hpp/)| 
+|![MyBank](https://static.openfintech.io/payment_methods/mybank2/logo.png?w=400&c=v0.59.26#w200) |[**MyBank**](/payment-methods/mybank2/)|[`mybank2_eur_hpp`](mybank2_eur_hpp/)| 
+|![MyBank](https://static.openfintech.io/payment_methods/mybank2/logo.png?w=400&c=v0.59.26#w200) |[**MyBank**](/payment-methods/mybank2/)|[`mybank2_pln_hpp`](mybank2_pln_hpp/)| 
 ||| **N** ||
 |![N26 Bank](https://static.openfintech.io/payment_methods/n26_bank/logo.png?w=400&c=v0.59.26#w200) |[**N26 Bank**](/payment-methods/n26_bank/)|[`n26_bank_eur_hpp`](n26_bank_eur_hpp/)| 
 |![Nagad Digital Financial Service](https://static.openfintech.io/payment_methods/nagad_wallet/logo.png?w=400&c=v0.59.26#w200) |[**Nagad Digital Financial Service**](/payment-methods/nagad_wallet/)|[`nagad_wallet_bdt_hpp`](nagad_wallet_bdt_hpp/)| 

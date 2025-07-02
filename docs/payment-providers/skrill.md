@@ -72,6 +72,10 @@ The list of supported [Payment Methods](/payment-methods/)
 |![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix](/payment-methods/pix/)|`pix`| 
 |![online_banking](https://static.openfintech.io/payment_methods/online_banking/icon.svg?w=278&c=v0.59.26#w100) |[online_banking](/payment-methods/online_banking/)|`online_banking`| 
 |![mach](https://static.openfintech.io/payment_methods/mach/icon.png?w=278&c=v0.59.26#w100) |[mach](/payment-methods/mach/)|`mach`| 
+|![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik](/payment-methods/blik/)|`blik`| 
+|![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2](/payment-methods/mybank2/)|`mybank2`| 
+|![mb_way](https://static.openfintech.io/payment_methods/mb_way/icon.svg?w=278&c=v0.59.26#w100) |[mb_way](/payment-methods/mb_way/)|`mb_way`| 
+|![multibanco](https://static.openfintech.io/payment_methods/multibanco/icon.png?w=278&c=v0.59.26#w100) |[multibanco](/payment-methods/multibanco/)|`multibanco`| 
  
 
 ## Payout Methods 
@@ -125,7 +129,11 @@ The list of supported [Payout Methods](/payout-methods/)
     "boleto_bancario",
     "pix",
     "online_banking",
-    "mach"
+    "mach",
+    "blik",
+    "mybank2",
+    "mb_way",
+    "multibanco"
   ],
   "payout_method":[
     "skrill"
