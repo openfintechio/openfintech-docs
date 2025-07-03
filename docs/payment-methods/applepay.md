@@ -84,6 +84,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Apple Pay
 |![justipay](https://static.openfintech.io/payment_providers/justipay/icon.png?w=278&c=v0.59.26#w100) |[Justipay](/payment-providers/justipay/)|`justipay`| 
 |![bp](https://static.openfintech.io/payment_providers/bp/icon.svg?w=278&c=v0.59.26#w100) |[BP](/payment-providers/bp/)|`bp`| 
 |![flexify](https://static.openfintech.io/payment_providers/flexify/icon.png?w=278&c=v0.59.26#w100) |[Flexify](/payment-providers/flexify/)|`flexify`| 
+|![crederes](https://static.openfintech.io/payment_providers/crederes/icon.svg?w=278&c=v0.59.26#w100) |[Crederes](/payment-providers/crederes/)|`crederes`| 
 |![lpb](https://static.openfintech.io/payment_providers/lpb/icon.svg?w=278&c=v0.59.26#w100) |[LPB](/payment-providers/lpb/)|`lpb`| 
 |![btgate](https://static.openfintech.io/payment_providers/btgate/icon.png?w=278&c=v0.59.26#w100) |[btGate](/payment-providers/btgate/)|`btgate`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
