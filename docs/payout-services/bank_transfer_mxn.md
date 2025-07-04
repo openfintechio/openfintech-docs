@@ -41,6 +41,8 @@
 |`beneficiary_document_type`|✗|`string`|`/^[A-Za-z]{2,20}$/`| 
 |`bank_account`|✗|`string`|`/^[0-9]{1,30}$/`| 
 |`payment_purpose`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
+|`document_type`|✗|`string`|`/^.{1,32}$/`| 
+|`document_id`|✗|`string`|`/^[0-9]{1,13}$/`| 
  
 
 ### Details 
@@ -351,6 +353,42 @@
 	: [RU] Введите назначение платежа 
 	: [UK] Введіть призначення рахунку 
  
+18. **`document_type`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{1,32}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Document Type 
+	: [RU] Тип документа 
+	: [UK] Тип документу 
+ 
+	Hint:  
+	: [EN] Enter Document Type 
+	: [RU] Введите тип документа 
+	: [UK] Введіть тип документу 
+ 
+19. **`document_id`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{1,13}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary's personal identification number 
+	: [RU] Номер документа получателя 
+	: [UK] Номер документа отримувача 
+ 
+	Hint:  
+	: [EN] Enter beneficiary's personal identification number 
+	: [RU] Введите номер документа получателя 
+	: [UK] Введіть номер документа отримувача 
+ 
 
 ## JSON Object 
 
@@ -655,6 +693,41 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u0440\u0438\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
       },
       "example":"Payment of utility services"
+    },
+    {
+      "key":"document_type",
+      "type":"string",
+      "regexp":"\/^.{1,32}$\/",
+      "required":false,
+      "position":18,
+      "label":{
+        "en":"Document Type",
+        "ru":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
+        "uk":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
+      },
+      "hint":{
+        "en":"Enter Document Type",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
+      }
+    },
+    {
+      "key":"document_id",
+      "type":"string",
+      "regexp":"\/^[0-9]{1,13}$\/",
+      "required":false,
+      "position":19,
+      "label":{
+        "en":"Beneficiary's personal identification number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter beneficiary's personal identification number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "example":"1450284414727"
     }
   ],
   "amount_min":"0.01",

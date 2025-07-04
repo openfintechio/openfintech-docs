@@ -27,7 +27,7 @@
 |:---:|:---:|:---:|:---:| 
 |`installments`|✗|`string`|`/^(?:[1-9]\|1[0-9]?\|2[0-4]?)$/`| 
 |`document_type`|✗|`string`|`/^.{1,32}$/`| 
-|`document_id`|✗|`string`|`/^[a-zA-Z0-9\-]{1,100}$/`| 
+|`document_id`|✗|`string`|`/^[a-zA-Z0-9\.\-]{1,30}$/`| 
  
 
 ### Details 
@@ -72,7 +72,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[a-zA-Z0-9\-]{1,100}$/` 
+	Regexp: `/^[a-zA-Z0-9\.\-]{1,30}$/` 
  
 	Required: `` 
  
@@ -133,7 +133,7 @@
     {
       "key":"document_id",
       "type":"string",
-      "regexp":"\/^[a-zA-Z0-9\\-]{1,100}$\/",
+      "regexp":"\/^[a-zA-Z0-9\\.\\-]{1,30}$\/",
       "required":false,
       "position":3,
       "label":{

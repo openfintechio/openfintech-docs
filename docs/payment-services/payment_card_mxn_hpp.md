@@ -26,7 +26,7 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`document_type`|✗|`string`|`/^.{1,32}$/`| 
-|`document_id`|✗|`string`|`/^[0-9]{1,100}$/`| 
+|`document_id`|✗|`string`|`/^[a-zA-Z0-9]{12,18}$/`| 
  
 
 ### Details 
@@ -53,7 +53,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9]{1,100}$/` 
+	Regexp: `/^[a-zA-Z0-9]{12,18}$/` 
  
 	Required: `` 
  
@@ -97,7 +97,7 @@
     {
       "key":"document_id",
       "type":"string",
-      "regexp":"\/^[0-9]{1,100}$\/",
+      "regexp":"\/^[a-zA-Z0-9]{12,18}$\/",
       "required":false,
       "position":2,
       "label":{
@@ -110,7 +110,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
       },
-      "example":"50284414727"
+      "example":"50284414727FDVS"
     }
   ],
   "amount_min":0.01,

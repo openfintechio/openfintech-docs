@@ -42,6 +42,8 @@
 |`bank_branch`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`bank_account`|✗|`string`|`/^[0-9]{1,30}$/`| 
 |`sender_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
+|`document_type`|✗|`string`|`/^.{1,32}$/`| 
+|`document_id`|✗|`string`|`/^[a-zA-Z0-9\.\-]{1,30}$/`| 
  
 
 ### Details 
@@ -370,6 +372,42 @@
 	: [RU] Введите полное имя отправителя 
 	: [UK] Введіть повне імʼя відправкника 
  
+19. **`document_type`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{1,32}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Document Type 
+	: [RU] Тип документа 
+	: [UK] Тип документу 
+ 
+	Hint:  
+	: [EN] Enter Document Type 
+	: [RU] Введите тип документа 
+	: [UK] Введіть тип документу 
+ 
+20. **`document_id`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[a-zA-Z0-9\.\-]{1,30}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary's personal identification number 
+	: [RU] Номер документа получателя 
+	: [UK] Номер документа отримувача 
+ 
+	Hint:  
+	: [EN] Enter beneficiary's personal identification number 
+	: [RU] Введите номер документа получателя 
+	: [UK] Введіть номер документа отримувача 
+ 
 
 ## JSON Object 
 
@@ -690,6 +728,41 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u0432\u0456\u0434\u043f\u0440\u0430\u0432\u043a\u043d\u0438\u043a\u0430"
       }
+    },
+    {
+      "key":"document_type",
+      "type":"string",
+      "regexp":"\/^.{1,32}$\/",
+      "required":false,
+      "position":19,
+      "label":{
+        "en":"Document Type",
+        "ru":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
+        "uk":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
+      },
+      "hint":{
+        "en":"Enter Document Type",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
+      }
+    },
+    {
+      "key":"document_id",
+      "type":"string",
+      "regexp":"\/^[a-zA-Z0-9\\.\\-]{1,30}$\/",
+      "required":false,
+      "position":20,
+      "label":{
+        "en":"Beneficiary's personal identification number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter beneficiary's personal identification number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "example":"22333444-K"
     }
   ],
   "amount_min":"1",
