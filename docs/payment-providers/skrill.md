@@ -76,6 +76,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2](/payment-methods/mybank2/)|`mybank2`| 
 |![mb_way](https://static.openfintech.io/payment_methods/mb_way/icon.svg?w=278&c=v0.59.26#w100) |[mb_way](/payment-methods/mb_way/)|`mb_way`| 
 |![multibanco](https://static.openfintech.io/payment_methods/multibanco/icon.png?w=278&c=v0.59.26#w100) |[multibanco](/payment-methods/multibanco/)|`multibanco`| 
+|![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_klarna](/payment-methods/bank_transfer_klarna/)|`bank_transfer_klarna`| 
  
 
 ## Payout Methods 
@@ -133,7 +134,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "blik",
     "mybank2",
     "mb_way",
-    "multibanco"
+    "multibanco",
+    "bank_transfer_klarna"
   ],
   "payout_method":[
     "skrill"
