@@ -146,6 +146,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![magnius](https://static.openfintech.io/payment_providers/magnius/icon.png?w=278&c=v0.59.26#w100) |[Magnius](/payment-providers/magnius/)|`magnius`| 
 |![iyzipayments](https://static.openfintech.io/payment_providers/iyzipayments/icon.png?w=278&c=v0.59.26#w100) |[iyzico](/payment-providers/iyzipayments/)|`iyzipayments`| 
 |![fondy](https://static.openfintech.io/payment_providers/fondy/icon.svg?w=278&c=v0.59.26#w100) |[FONDY](/payment-providers/fondy/)|`fondy`| 
+|![wayforpay](https://static.openfintech.io/payment_providers/wayforpay/icon.png?w=278&c=v0.59.26#w100) |[Wayforpay](/payment-providers/wayforpay/)|`wayforpay`| 
 |![paydoo](https://static.openfintech.io/payment_providers/paydoo/icon.png?w=278&c=v0.59.26#w100) |[Paynt](/payment-providers/paydoo/)|`paydoo`| 
 |![dalberry](https://static.openfintech.io/payment_providers/dalberry/icon.png?w=278&c=v0.59.26#w100) |[Dalberry](/payment-providers/dalberry/)|`dalberry`| 
 |![africanpaymentsolutions](https://static.openfintech.io/payment_providers/africanpaymentsolutions/icon.png?w=278&c=v0.59.26#w100) |[African Payment Solutions](/payment-providers/africanpaymentsolutions/)|`africanpaymentsolutions`| 

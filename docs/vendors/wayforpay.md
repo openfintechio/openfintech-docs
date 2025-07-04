@@ -9,6 +9,8 @@
 **Name:** 
  
 :	[EN] Wayforpay 
+:	[RU] Wayforpay 
+:	[UK] Wayforpay 
  
 **Status:** `active` 
  
@@ -43,7 +45,9 @@ https://static.openfintech.io/vendors/wayforpay/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"wayforpay",
   "name":{
-    "en":"Wayforpay"
+    "en":"Wayforpay",
+    "ru":"Wayforpay",
+    "uk":"Wayforpay"
   },
   "status":"active",
   "description":{
