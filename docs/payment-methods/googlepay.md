@@ -52,6 +52,27 @@ The list of [Payment Services](/payment-services/) based on the _Google Pay_
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_pln_hpp](/payment-services/googlepay_pln_hpp/)|`googlepay_pln_hpp`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_inr_hpp](/payment-services/googlepay_inr_hpp/)|`googlepay_inr_hpp`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_inr_invoice](/payment-services/googlepay_inr_invoice/)|`googlepay_inr_invoice`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_ars_hpp](/payment-services/googlepay_ars_hpp/)|`googlepay_ars_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_bhd_hpp](/payment-services/googlepay_bhd_hpp/)|`googlepay_bhd_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_brl_hpp](/payment-services/googlepay_brl_hpp/)|`googlepay_brl_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_bsd_hpp](/payment-services/googlepay_bsd_hpp/)|`googlepay_bsd_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_chf_hpp](/payment-services/googlepay_chf_hpp/)|`googlepay_chf_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_gyd_hpp](/payment-services/googlepay_gyd_hpp/)|`googlepay_gyd_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_hkd_hpp](/payment-services/googlepay_hkd_hpp/)|`googlepay_hkd_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_jod_hpp](/payment-services/googlepay_jod_hpp/)|`googlepay_jod_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_jpy_hpp](/payment-services/googlepay_jpy_hpp/)|`googlepay_jpy_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_krw_hpp](/payment-services/googlepay_krw_hpp/)|`googlepay_krw_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_kwd_hpp](/payment-services/googlepay_kwd_hpp/)|`googlepay_kwd_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_mxn_hpp](/payment-services/googlepay_mxn_hpp/)|`googlepay_mxn_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_myr_hpp](/payment-services/googlepay_myr_hpp/)|`googlepay_myr_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_nok_hpp](/payment-services/googlepay_nok_hpp/)|`googlepay_nok_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_omr_hpp](/payment-services/googlepay_omr_hpp/)|`googlepay_omr_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_qar_hpp](/payment-services/googlepay_qar_hpp/)|`googlepay_qar_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_sar_hpp](/payment-services/googlepay_sar_hpp/)|`googlepay_sar_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_sgd_hpp](/payment-services/googlepay_sgd_hpp/)|`googlepay_sgd_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_thb_hpp](/payment-services/googlepay_thb_hpp/)|`googlepay_thb_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_try_hpp](/payment-services/googlepay_try_hpp/)|`googlepay_try_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_zar_hpp](/payment-services/googlepay_zar_hpp/)|`googlepay_zar_hpp`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_gbp_hpp](/payment-services/googlepay_gbp_hpp/)|`googlepay_gbp_hpp`| 
  
 
