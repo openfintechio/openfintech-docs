@@ -105,6 +105,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Google Pa
 |![lpb](https://static.openfintech.io/payment_providers/lpb/icon.svg?w=278&c=v0.59.26#w100) |[LPB](/payment-providers/lpb/)|`lpb`| 
 |![btgate](https://static.openfintech.io/payment_providers/btgate/icon.png?w=278&c=v0.59.26#w100) |[btGate](/payment-providers/btgate/)|`btgate`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
+|![altitudepay](https://static.openfintech.io/payment_providers/altitudepay/icon.svg?w=278&c=v0.59.26#w100) |[AltitudePay](/payment-providers/altitudepay/)|`altitudepay`| 
 |![gateiq](https://static.openfintech.io/payment_providers/gateiq/icon.svg?w=278&c=v0.59.26#w100) |[GateIQ](/payment-providers/gateiq/)|`gateiq`| 
 |![pluspedirect](https://static.openfintech.io/payment_providers/pluspedirect/icon.svg?w=278&c=v0.59.26#w100) |[PlusPeDirect](/payment-providers/pluspedirect/)|`pluspedirect`| 
 |![rampnow](https://static.openfintech.io/payment_providers/rampnow/icon.svg?w=278&c=v0.59.26#w100) |[Rampnow](/payment-providers/rampnow/)|`rampnow`| 

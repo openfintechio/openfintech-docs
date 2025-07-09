@@ -53,6 +53,8 @@ The list of supported [Payout Methods](/payout-methods/)
 |![airtel_money](https://static.openfintech.io/payout_methods/airtel_money/icon.png?w=278&c=v0.59.26#w40) |[airtel_money](payout-methodsairtel_money/)|`airtel_money`| 
 |![safaricom](https://static.openfintech.io/payout_methods/safaricom/icon.png?w=278&c=v0.59.26#w40) |[safaricom](payout-methodssafaricom/)|`safaricom`| 
 |![t_kash](https://static.openfintech.io/payout_methods/t_kash/icon.svg?w=278&c=v0.59.26#w40) |[t_kash](payout-methodst_kash/)|`t_kash`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
+|![m10](https://static.openfintech.io/payout_methods/m10/icon.png?w=278&c=v0.59.26#w40) |[m10](payout-methodsm10/)|`m10`| 
  
 
 ## JSON Object 
@@ -72,7 +74,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "blik",
     "airtel_money",
     "safaricom",
-    "t_kash"
+    "t_kash",
+    "payment_card",
+    "m10"
   ],
   "metadata":null,
   "name":{

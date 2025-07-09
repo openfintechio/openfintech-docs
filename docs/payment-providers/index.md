@@ -536,6 +536,7 @@
 |![maldopay](https://static.openfintech.io/payment_providers/maldopay/logo.png?w=600&c=v0.59.26#w100) |[**MaldoPay**](maldopay/)|`maldopay`| 
 |![mangopay](https://static.openfintech.io/payment_providers/mangopay/logo.png?w=600&c=v0.59.26#w100) |[**MangoPay**](mangopay/)|`mangopay`| 
 |![manual](https://static.openfintech.io/payment_providers/manual/logo.svg?w=600&c=v0.59.26#w100) |[**Manual**](manual/)|`manual`| 
+|![masspay](https://static.openfintech.io/payment_providers/masspay/logo.png?w=600&c=v0.59.26#w100) |[**MassPay**](masspay/)|`masspay`| 
 |![masterpayment](https://static.openfintech.io/payment_providers/masterpayment/logo.png?w=600&c=v0.59.26#w100) |[**Masterpayment**](masterpayment/)|`masterpayment`| 
 |![match2pay](https://static.openfintech.io/payment_providers/match2pay/logo.png?w=600&c=v0.59.26#w100) |[**Match2Pay**](match2pay/)|`match2pay`| 
 |![matrixpay](https://static.openfintech.io/payment_providers/matrixpay/logo.png?w=600&c=v0.59.26#w100) |[**MatrixPay**](matrixpay/)|`matrixpay`| 

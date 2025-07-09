@@ -1214,6 +1214,7 @@
 |![mandiri_bank](https://static.openfintech.io/vendors/mandiri_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Bank Mandiri**](mandiri_bank/)|`mandiri_bank`| 
 |![mangopay](https://static.openfintech.io/vendors/mangopay/logo.png?w=600&c=v0.59.26#w200) |[**MangoPay**](mangopay/)|`mangopay`| 
 |![mariup_f_pat_kbprivatbankm_mariupol](https://static.openfintech.io/vendors/mariup_f_pat_kbprivatbankm_mariupol/logo.svg?w=600&c=v0.59.26#w200) |[**МАРІУПОЛЬСЬКА ФІЛІЯ ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](mariup_f_pat_kbprivatbankm_mariupol/)|`mariup_f_pat_kbprivatbankm_mariupol`| 
+|![masspay](https://static.openfintech.io/vendors/masspay/logo.png?w=600&c=v0.59.26#w200) |[**MassPay**](masspay/)|`masspay`| 
 |![mastercard](https://static.openfintech.io/vendors/mastercard/logo.svg?w=600&c=v0.59.26#w200) |[**MasterCard**](mastercard/)|`mastercard`| 
 |![mastercarddebit](https://static.openfintech.io/vendors/mastercarddebit/logo.png?w=600&c=v0.59.26#w200) |[**MasterCard Debit**](mastercarddebit/)|`mastercarddebit`| 
 |![masterpass](https://static.openfintech.io/vendors/masterpass/logo.png?w=600&c=v0.59.26#w200) |[**Masterpass**](masterpass/)|`masterpass`| 
