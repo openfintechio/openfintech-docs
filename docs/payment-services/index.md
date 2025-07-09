@@ -74,6 +74,7 @@
 |![Any.Money](https://static.openfintech.io/payment_methods/anymoney/logo.png?w=400&c=v0.59.26#w200) |[**Any.Money**](/payment-methods/anymoney/)|[`anymoney_trx_hpp`](anymoney_trx_hpp/)| 
 |![Any.Money](https://static.openfintech.io/payment_methods/anymoney/logo.png?w=400&c=v0.59.26#w200) |[**Any.Money**](/payment-methods/anymoney/)|[`anymoney_usdt_hpp`](anymoney_usdt_hpp/)| 
 |![Apostar](https://static.openfintech.io/payment_methods/apostar/logo.svg?w=400&c=v0.59.26#w200) |[**Apostar**](/payment-methods/apostar/)|[`apostarin_cop_hpp`](apostarin_cop_hpp/)| 
+|![Apple Pay](https://static.openfintech.io/payment_methods/applepay/logo.svg?w=400&c=v0.59.26#w200) |[**Apple Pay**](/payment-methods/applepay/)|[`applepay_aed_hpp`](applepay_aed_hpp/)| 
 |![Apple Pay](https://static.openfintech.io/payment_methods/applepay/logo.svg?w=400&c=v0.59.26#w200) |[**Apple Pay**](/payment-methods/applepay/)|[`applepay_ars_hpp`](applepay_ars_hpp/)| 
 |![Apple Pay](https://static.openfintech.io/payment_methods/applepay/logo.svg?w=400&c=v0.59.26#w200) |[**Apple Pay**](/payment-methods/applepay/)|[`applepay_aud_hpp`](applepay_aud_hpp/)| 
 |![Apple Pay](https://static.openfintech.io/payment_methods/applepay/logo.svg?w=400&c=v0.59.26#w200) |[**Apple Pay**](/payment-methods/applepay/)|[`applepay_bhd_hpp`](applepay_bhd_hpp/)| 
@@ -741,6 +742,7 @@
 |![GEO Pay](https://static.openfintech.io/payment_methods/geopaynet/logo.svg?w=400&c=v0.59.26#w200) |[**GEO Pay**](/payment-methods/geopaynet/)|[`geopaynet_uah_hpp`](geopaynet_uah_hpp/)| 
 |![Giropay](https://static.openfintech.io/payment_methods/giropay/logo.svg?w=400&c=v0.59.26#w200) |[**Giropay**](/payment-methods/giropay/)|[`giropay_eur_hpp`](giropay_eur_hpp/)| 
 |![Giropay](https://static.openfintech.io/payment_methods/giropay/logo.svg?w=400&c=v0.59.26#w200) |[**Giropay**](/payment-methods/giropay/)|[`giropay_usd_hpp`](giropay_usd_hpp/)| 
+|![Google Pay](https://static.openfintech.io/payment_methods/googlepay/logo.svg?w=400&c=v0.59.26#w200) |[**Google Pay**](/payment-methods/googlepay/)|[`googlepay_aed_hpp`](googlepay_aed_hpp/)| 
 |![Google Pay](https://static.openfintech.io/payment_methods/googlepay/logo.svg?w=400&c=v0.59.26#w200) |[**Google Pay**](/payment-methods/googlepay/)|[`googlepay_ars_hpp`](googlepay_ars_hpp/)| 
 |![Google Pay](https://static.openfintech.io/payment_methods/googlepay/logo.svg?w=400&c=v0.59.26#w200) |[**Google Pay**](/payment-methods/googlepay/)|[`googlepay_aud_hpp`](googlepay_aud_hpp/)| 
 |![Google Pay](https://static.openfintech.io/payment_methods/googlepay/logo.svg?w=400&c=v0.59.26#w200) |[**Google Pay**](/payment-methods/googlepay/)|[`googlepay_bhd_hpp`](googlepay_bhd_hpp/)| 
