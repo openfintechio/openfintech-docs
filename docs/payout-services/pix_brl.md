@@ -39,7 +39,7 @@
 |`bank_branch_code`|✗|`string`|`/^[0-9-]{1,6}$/`| 
 |`account_number_checksum`|✗|`string`|`/^[0-9]{1,100}$/`| 
 |`document_type`|✗|`string`|`/^(CPF\|CNPJ\|EVP\|EMAIL\|PHONE\|RANDOMKEY)$/`| 
-|`document_id`|✗|`string`|`/^[0-9]{1,100}$/`| 
+|`document_id`|✗|`string`|`/^.{1,100}$/`| 
 |`account_type`|✗|`string`|`/^(CPF\|CNPJ\|EVP\|PHONE\|EMAIL\|RANDOMKEY)$/`| 
 |`bank_account_type`|✗|`string`|`/^(saving\|personal)$/`| 
  
@@ -320,7 +320,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9]{1,100}$/` 
+	Regexp: `/^.{1,100}$/` 
  
 	Required: `` 
  
@@ -642,7 +642,7 @@
     {
       "key":"document_id",
       "type":"string",
-      "regexp":"\/^[0-9]{1,100}$\/",
+      "regexp":"\/^.{1,100}$\/",
       "required":false,
       "position":16,
       "label":{
