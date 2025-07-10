@@ -62,6 +62,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![kyivstar_phone](https://static.openfintech.io/payout_methods/kyivstar_phone/icon.svg?w=278&c=v0.59.26#w40) |[kyivstar_phone](payout-methodskyivstar_phone/)|`kyivstar_phone`| 
 |![vodafone_phone](https://static.openfintech.io/payout_methods/vodafone_phone/icon.svg?w=278&c=v0.59.26#w40) |[vodafone_phone](payout-methodsvodafone_phone/)|`vodafone_phone`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
+|![m10](https://static.openfintech.io/payout_methods/m10/icon.png?w=278&c=v0.59.26#w40) |[m10](payout-methodsm10/)|`m10`| 
  
 
 ## JSON Object 
@@ -88,7 +89,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "lifecell_phone",
     "kyivstar_phone",
     "vodafone_phone",
-    "bank_transfer"
+    "bank_transfer",
+    "m10"
   ],
   "metadata":null,
   "name":{
