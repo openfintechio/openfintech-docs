@@ -417,6 +417,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![kvitum](https://static.openfintech.io/payment_providers/kvitum/icon.svg?w=278&c=v0.59.26#w100) |[Qostiq](/payment-providers/kvitum/)|`kvitum`| 
 |![maguapay](https://static.openfintech.io/payment_providers/maguapay/icon.png?w=278&c=v0.59.26#w100) |[Magua Pay](/payment-providers/maguapay/)|`maguapay`| 
 |![planbpay](https://static.openfintech.io/payment_providers/planbpay/icon.svg?w=278&c=v0.59.26#w100) |[Planbpay](/payment-providers/planbpay/)|`planbpay`| 
+|![monobank](https://static.openfintech.io/payment_providers/monobank/icon.svg?w=278&c=v0.59.26#w100) |[Monobank](/payment-providers/monobank/)|`monobank`| 
 |![virtpay](https://static.openfintech.io/payment_providers/virtpay/icon.png?w=278&c=v0.59.26#w100) |[Virtpay](/payment-providers/virtpay/)|`virtpay`| 
 |![remitos](https://static.openfintech.io/payment_providers/remitos/icon.png?w=278&c=v0.59.26#w100) |[Remitos](/payment-providers/remitos/)|`remitos`| 
 |![payecardsakurateco](https://static.openfintech.io/payment_providers/payecardsakurateco/icon.png?w=278&c=v0.59.26#w100) |[PayeCards Akurateco](/payment-providers/payecardsakurateco/)|`payecardsakurateco`| 
