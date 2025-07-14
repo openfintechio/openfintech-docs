@@ -8,6 +8,8 @@
 **Name:** 
  
 :	[EN] Palmpay 
+:	[RU] Palmpay 
+:	[UK] Palmpay 
  
 **Category:** `bank_transfer` 
  
@@ -28,13 +30,13 @@ https://static.openfintech.io/payment_methods/palmpay/logo.png?w=400&c=v0.59.26#
 https://static.openfintech.io/payment_methods/palmpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _Palmpay_ 
+The list of [Payment Services](/payment-services/) based on the _Palmpay_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![palmpay](https://static.openfintech.io/payout_methods/palmpay/icon.svg?w=278&c=v0.59.26#w40) |[palmpay_ngn](/payout-services/palmpay_ngn/)|`palmpay_ngn`| 
+|![palmpay](https://static.openfintech.io/payment_methods/palmpay/icon.png?w=278&c=v0.59.26#w100) |[palmpay_ngn_hpp](/payment-services/palmpay_ngn_hpp/)|`palmpay_ngn_hpp`| 
  
 
 ## Payment Providers 
@@ -53,7 +55,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Palmpay_
   "code":"palmpay",
   "vendor":null,
   "name":{
-    "en":"Palmpay"
+    "en":"Palmpay",
+    "ru":"Palmpay",
+    "uk":"Palmpay"
   },
   "description":null,
   "countries":null,

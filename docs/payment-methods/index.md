@@ -629,6 +629,7 @@
 |![online_banking](https://static.openfintech.io/payment_methods/online_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking**](online_banking/)|`online_banking`| 
 |![online_banking_qr](https://static.openfintech.io/payment_methods/online_banking_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Online Banking QR**](online_banking_qr/)|`online_banking_qr`| 
 |![onlinenaira](https://static.openfintech.io/payment_methods/onlinenaira/logo.png?w=400&c=v0.59.26#w200) |[**OnlineNaira**](onlinenaira/)|`onlinenaira`| 
+|![opay](https://static.openfintech.io/payment_methods/opay/logo.svg?w=400&c=v0.59.26#w200) |[**Opay**](opay/)|`opay`| 
 |![open_pay_cash](https://static.openfintech.io/payment_methods/open_pay_cash/logo.svg?w=400&c=v0.59.26#w200) |[**OpenPay**](open_pay_cash/)|`open_pay_cash`| 
 |![openbanking](https://static.openfintech.io/payment_methods/openbanking/logo.svg?w=400&c=v0.59.26#w200) |[**Openbanking**](openbanking/)|`openbanking`| 
 |![oppohjola](https://static.openfintech.io/payment_methods/oppohjola/logo.png?w=400&c=v0.59.26#w200) |[**OP-Pohjola**](oppohjola/)|`oppohjola`| 
@@ -650,6 +651,7 @@
 |![pagorapido](https://static.openfintech.io/payment_methods/pagorapido/logo.png?w=400&c=v0.59.26#w200) |[**PagoRapido**](pagorapido/)|`pagorapido`| 
 |![pagseguro](https://static.openfintech.io/payment_methods/pagseguro/logo.png?w=400&c=v0.59.26#w200) |[**PagSeguro**](pagseguro/)|`pagseguro`| 
 |![palawan_pawnshop](https://static.openfintech.io/payment_methods/palawan_pawnshop/logo.svg?w=400&c=v0.59.26#w200) |[**Palawan Pawnshop**](palawan_pawnshop/)|`palawan_pawnshop`| 
+|![palmpay](https://static.openfintech.io/payment_methods/palmpay/logo.png?w=400&c=v0.59.26#w200) |[**Palmpay**](palmpay/)|`palmpay`| 
 |![panin_bank](https://static.openfintech.io/payment_methods/panin_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Panin Bank**](panin_bank/)|`panin_bank`| 
 |![papara](https://static.openfintech.io/payment_methods/papara/logo.svg?w=400&c=v0.59.26#w200) |[**Papara**](papara/)|`papara`| 
 |![papaya](https://static.openfintech.io/payment_methods/papaya/logo.png?w=400&c=v0.59.26#w200) |[**Papaya**](papaya/)|`papaya`| 

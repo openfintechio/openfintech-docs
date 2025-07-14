@@ -42,6 +42,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile](/payment-methods/mobile/)|`mobile`| 
+|![opay](https://static.openfintech.io/payment_methods/opay/icon.svg?w=278&c=v0.59.26#w100) |[opay](/payment-methods/opay/)|`opay`| 
+|![palmpay](https://static.openfintech.io/payment_methods/palmpay/icon.png?w=278&c=v0.59.26#w100) |[palmpay](/payment-methods/palmpay/)|`palmpay`| 
  
 
 ## Payout Methods 
@@ -99,7 +101,9 @@ The list of supported [Payout Methods](/payout-methods/)
   "payment_method":[
     "payment_card",
     "bank_transfer",
-    "mobile"
+    "mobile",
+    "opay",
+    "palmpay"
   ],
   "payout_method":[
     "bank_transfer",
