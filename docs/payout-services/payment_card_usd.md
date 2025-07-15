@@ -26,6 +26,7 @@
 |:---:|:---:|:---:|:---:| 
 |`card_number`|✔|`string`|`/^\d{12,19}$/`| 
 |`document_id`|✗|`string`|`/^[0-9]{9}$/`| 
+|`beneficiary_postcode`|✗|`string`|`/^.{1,255}$/`| 
  
 
 ### Details 
@@ -65,6 +66,24 @@
 	: [EN] Enter beneficiary's personal identification number 
 	: [RU] Введите номер документа получателя 
 	: [UK] Введіть номер документа отримувача 
+ 
+3. **`beneficiary_postcode`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{1,255}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Postcode 
+	: [RU] Postcode 
+	: [UK] Postcode 
+ 
+	Hint:  
+	: [EN] Enter postcode 
+	: [RU] Enter postcode 
+	: [UK] Enter postcode 
  
 
 ## JSON Object 
@@ -116,6 +135,24 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
       },
       "example":"138491324"
+    },
+    {
+      "key":"beneficiary_postcode",
+      "type":"string",
+      "label":{
+        "en":"Postcode",
+        "ru":"Postcode",
+        "uk":"Postcode"
+      },
+      "regexp":"\/^.{1,255}$\/",
+      "required":false,
+      "position":3,
+      "hint":{
+        "en":"Enter postcode",
+        "ru":"Enter postcode",
+        "uk":"Enter postcode"
+      },
+      "example":"postcode"
     }
   ],
   "amount_min":"0.01",
