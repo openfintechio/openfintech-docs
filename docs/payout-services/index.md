@@ -2134,6 +2134,7 @@
 |![Skarbnytsya](https://static.openfintech.io/payout_methods/skarbnitsia/logo.png?w=400&c=v0.59.26#w24) |[**Skarbnytsya**](/payout-methods/skarbnitsia/)|[`skarbnitsia_uah`](skarbnitsia_uah/)|`UAH`| 
 |![SCM (Sumy)](https://static.openfintech.io/payout_methods/skm-sumy/logo.png?w=400&c=v0.59.26#w24) |[**SCM (Sumy)**](/payout-methods/skm-sumy/)|[`skm-sumy_uah`](skm-sumy_uah/)|`UAH`| 
 |![Skrill](https://static.openfintech.io/payout_methods/skrill/logo.svg?w=400&c=v0.59.26#w24) |[**Skrill**](/payout-methods/skrill/)|[`skrill_bdt`](skrill_bdt/)|`BDT`| 
+|![Skrill](https://static.openfintech.io/payout_methods/skrill/logo.svg?w=400&c=v0.59.26#w24) |[**Skrill**](/payout-methods/skrill/)|[`skrill_cad`](skrill_cad/)|`CAD`| 
 |![Skrill](https://static.openfintech.io/payout_methods/skrill/logo.svg?w=400&c=v0.59.26#w24) |[**Skrill**](/payout-methods/skrill/)|[`skrill_chf`](skrill_chf/)|`CHF`| 
 |![Skrill](https://static.openfintech.io/payout_methods/skrill/logo.svg?w=400&c=v0.59.26#w24) |[**Skrill**](/payout-methods/skrill/)|[`skrill_eur`](skrill_eur/)|`EUR`| 
 |![Skrill](https://static.openfintech.io/payout_methods/skrill/logo.svg?w=400&c=v0.59.26#w24) |[**Skrill**](/payout-methods/skrill/)|[`skrill_gbp`](skrill_gbp/)|`GBP`| 
