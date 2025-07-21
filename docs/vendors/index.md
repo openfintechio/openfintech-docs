@@ -563,6 +563,7 @@
 |![currencylayer](https://static.openfintech.io/vendors/currencylayer/logo.png?w=600&c=v0.59.26#w200) |[**Currencylayer**](currencylayer/)|`currencylayer`| 
 |![cxpay](https://static.openfintech.io/vendors/cxpay/logo.png?w=600&c=v0.59.26#w200) |[**CX Pay**](cxpay/)|`cxpay`| 
 |![cyberbit](https://static.openfintech.io/vendors/cyberbit/logo.png?w=600&c=v0.59.26#w200) |[**Cyberbit**](cyberbit/)|`cyberbit`| 
+|![cyberpay](https://static.openfintech.io/vendors/cyberpay/logo.png?w=600&c=v0.59.26#w200) |[**Cyberpay**](cyberpay/)|`cyberpay`| 
 |![cybersource](https://static.openfintech.io/vendors/cybersource/logo.svg?w=600&c=v0.59.26#w200) |[**CyberSource**](cybersource/)|`cybersource`| 
 |![cypix](https://static.openfintech.io/vendors/cypix/logo.svg?w=600&c=v0.59.26#w200) |[**Cypix**](cypix/)|`cypix`| 
 || **D** ||
@@ -822,6 +823,7 @@
 |![filspay](https://static.openfintech.io/vendors/filspay/logo.png?w=600&c=v0.59.26#w200) |[**FilsPay**](filspay/)|`filspay`| 
 |![fingenom](https://static.openfintech.io/vendors/fingenom/logo.png?w=600&c=v0.59.26#w200) |[**Fingenom**](fingenom/)|`fingenom`| 
 |![finhub](https://static.openfintech.io/vendors/finhub/logo.png?w=600&c=v0.59.26#w200) |[**FinHub**](finhub/)|`finhub`| 
+|![finix](https://static.openfintech.io/vendors/finix/logo.svg?w=600&c=v0.59.26#w200) |[**Finix**](finix/)|`finix`| 
 |![finvert](https://static.openfintech.io/vendors/finvert/logo.svg?w=600&c=v0.59.26#w200) |[**Finvert**](finvert/)|`finvert`| 
 |![fireballpsp](https://static.openfintech.io/vendors/fireballpsp/logo.png?w=600&c=v0.59.26#w200) |[**Fireball PSP**](fireballpsp/)|`fireballpsp`| 
 |![first_bank_of_toyama](https://static.openfintech.io/vendors/first_bank_of_toyama/logo.svg?w=600&c=v0.59.26#w200) |[**First Bank of Toyama**](first_bank_of_toyama/)|`first_bank_of_toyama`| 

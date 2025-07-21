@@ -12,7 +12,7 @@
 :	[RU] Kasha 
 :	[UK] Kasha 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Links:** 
 : website [https://kasha.io/](https://kasha.io/) 
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/kasha/icon.png?w=278&c=v0.59.26#w100
     "ru":"Kasha",
     "uk":"Kasha"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":{
     "website":"https:\/\/kasha.io\/"

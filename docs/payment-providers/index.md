@@ -249,6 +249,7 @@
 |![curopayments](https://static.openfintech.io/payment_providers/curopayments/logo.svg?w=600&c=v0.59.26#w100) |[**CURO payments**](curopayments/)|`curopayments`| 
 |![cxpay](https://static.openfintech.io/payment_providers/cxpay/logo.png?w=600&c=v0.59.26#w100) |[**CX Pay**](cxpay/)|`cxpay`| 
 |![cyberbit](https://static.openfintech.io/payment_providers/cyberbit/logo.svg?w=600&c=v0.59.26#w100) |[**Cyberbit**](cyberbit/)|`cyberbit`| 
+|![cyberpay](https://static.openfintech.io/payment_providers/cyberpay/logo.svg?w=600&c=v0.59.26#w100) |[**Cyberpay**](cyberpay/)|`cyberpay`| 
 |![cybersource](https://static.openfintech.io/payment_providers/cybersource/logo.svg?w=600&c=v0.59.26#w100) |[**CyberSource**](cybersource/)|`cybersource`| 
 |![cypix](https://static.openfintech.io/payment_providers/cypix/logo.svg?w=600&c=v0.59.26#w100) |[**Cypix**](cypix/)|`cypix`| 
 || **D** ||
@@ -362,6 +363,7 @@
 |![filspay](https://static.openfintech.io/payment_providers/filspay/logo.png?w=600&c=v0.59.26#w100) |[**FilsPay**](filspay/)|`filspay`| 
 |![fingenom](https://static.openfintech.io/payment_providers/fingenom/logo.png?w=600&c=v0.59.26#w100) |[**Fingenom**](fingenom/)|`fingenom`| 
 |![finhub](https://static.openfintech.io/payment_providers/finhub/logo.png?w=600&c=v0.59.26#w100) |[**FinHub**](finhub/)|`finhub`| 
+|![finix](https://static.openfintech.io/payment_providers/finix/logo.svg?w=600&c=v0.59.26#w100) |[**Finix**](finix/)|`finix`| 
 |![finvert](https://static.openfintech.io/payment_providers/finvert/logo.svg?w=600&c=v0.59.26#w100) |[**Finvert**](finvert/)|`finvert`| 
 |![fireballpsp](https://static.openfintech.io/payment_providers/fireballpsp/logo.svg?w=600&c=v0.59.26#w100) |[**Fireball PSP**](fireballpsp/)|`fireballpsp`| 
 |![firstatlanticcommerce](https://static.openfintech.io/payment_providers/firstatlanticcommerce/logo.png?w=600&c=v0.59.26#w100) |[**First Atlantic Commerce**](firstatlanticcommerce/)|`firstatlanticcommerce`| 

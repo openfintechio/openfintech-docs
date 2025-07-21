@@ -299,6 +299,7 @@
 |![csb_bank](https://static.openfintech.io/payment_methods/csb_bank/logo.png?w=400&c=v0.59.26#w200) |[**CSB Bank**](csb_bank/)|`csb_bank`| 
 |![csob](https://static.openfintech.io/payment_methods/csob/logo.png?w=400&c=v0.59.26#w200) |[**CSOB**](csob/)|`csob`| 
 |![curfex](https://static.openfintech.io/payment_methods/curfex/logo.png?w=400&c=v0.59.26#w200) |[**Curfex Japan**](curfex/)|`curfex`| 
+|![cyberpay_wallet](https://static.openfintech.io/payment_methods/cyberpay_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**Сyberpay wallet**](cyberpay_wallet/)|`cyberpay_wallet`| 
 |![cypix](https://static.openfintech.io/payment_methods/cypix/logo.svg?w=400&c=v0.59.26#w200) |[**Cypix**](cypix/)|`cypix`| 
 || **D** ||
 |![daegu_bank](https://static.openfintech.io/payment_methods/daegu_bank/logo.png?w=400&c=v0.59.26#w200) |[**Daegu Bank**](daegu_bank/)|`daegu_bank`| 
