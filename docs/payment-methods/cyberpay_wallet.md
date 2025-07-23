@@ -79,7 +79,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Сyberpay
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![cyberpay](https://static.openfintech.io/payment_providers/cyberpay/icon.svg?w=278&c=v0.59.26#w100) |[Cyberpay](/payment-providers/cyberpay/)|`cyberpay`| 
+|![cyberpay](https://static.openfintech.io/payment_providers/cyberpay/icon.png?w=278&c=v0.59.26#w100) |[Cyberpay](/payment-providers/cyberpay/)|`cyberpay`| 
  
 
 ## JSON Object 

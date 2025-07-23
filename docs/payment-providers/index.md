@@ -249,7 +249,7 @@
 |![curopayments](https://static.openfintech.io/payment_providers/curopayments/logo.svg?w=600&c=v0.59.26#w100) |[**CURO payments**](curopayments/)|`curopayments`| 
 |![cxpay](https://static.openfintech.io/payment_providers/cxpay/logo.png?w=600&c=v0.59.26#w100) |[**CX Pay**](cxpay/)|`cxpay`| 
 |![cyberbit](https://static.openfintech.io/payment_providers/cyberbit/logo.svg?w=600&c=v0.59.26#w100) |[**Cyberbit**](cyberbit/)|`cyberbit`| 
-|![cyberpay](https://static.openfintech.io/payment_providers/cyberpay/logo.svg?w=600&c=v0.59.26#w100) |[**Cyberpay**](cyberpay/)|`cyberpay`| 
+|![cyberpay](https://static.openfintech.io/payment_providers/cyberpay/logo.png?w=600&c=v0.59.26#w100) |[**Cyberpay**](cyberpay/)|`cyberpay`| 
 |![cybersource](https://static.openfintech.io/payment_providers/cybersource/logo.svg?w=600&c=v0.59.26#w100) |[**CyberSource**](cybersource/)|`cybersource`| 
 |![cypix](https://static.openfintech.io/payment_providers/cypix/logo.svg?w=600&c=v0.59.26#w100) |[**Cypix**](cypix/)|`cypix`| 
 || **D** ||

@@ -1,6 +1,6 @@
 
 # Cyberpay 
-![cyberpay](https://static.openfintech.io/payment_providers/cyberpay/logo.svg?w=400&c=v0.59.26#w100)  
+![cyberpay](https://static.openfintech.io/payment_providers/cyberpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![cyberpay](https://static.openfintech.io/payment_providers/cyberpay/logo.svg?w=400&c=v0.59.26#w100)  
+![cyberpay](https://static.openfintech.io/payment_providers/cyberpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/cyberpay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/cyberpay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![cyberpay](https://static.openfintech.io/payment_providers/cyberpay/icon.svg?w=278&c=v0.59.26#w100)  
+![cyberpay](https://static.openfintech.io/payment_providers/cyberpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/cyberpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/cyberpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
