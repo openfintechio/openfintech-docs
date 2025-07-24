@@ -363,6 +363,7 @@
 |![filspay](https://static.openfintech.io/payment_providers/filspay/logo.png?w=600&c=v0.59.26#w100) |[**FilsPay**](filspay/)|`filspay`| 
 |![fingenom](https://static.openfintech.io/payment_providers/fingenom/logo.png?w=600&c=v0.59.26#w100) |[**Fingenom**](fingenom/)|`fingenom`| 
 |![finhub](https://static.openfintech.io/payment_providers/finhub/logo.png?w=600&c=v0.59.26#w100) |[**FinHub**](finhub/)|`finhub`| 
+|![finiqly](https://static.openfintech.io/payment_providers/finiqly/logo.svg?w=600&c=v0.59.26#w100) |[**Finiqly**](finiqly/)|`finiqly`| 
 |![finix](https://static.openfintech.io/payment_providers/finix/logo.svg?w=600&c=v0.59.26#w100) |[**Finix**](finix/)|`finix`| 
 |![finvert](https://static.openfintech.io/payment_providers/finvert/logo.svg?w=600&c=v0.59.26#w100) |[**Finvert**](finvert/)|`finvert`| 
 |![fireballpsp](https://static.openfintech.io/payment_providers/fireballpsp/logo.svg?w=600&c=v0.59.26#w100) |[**Fireball PSP**](fireballpsp/)|`fireballpsp`| 
