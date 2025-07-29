@@ -65,6 +65,12 @@ The list of supported [Payment Methods](/payment-methods/)
 |![revolut_bank](https://static.openfintech.io/payment_methods/revolut_bank/icon.png?w=278&c=v0.59.26#w100) |[revolut_bank](/payment-methods/revolut_bank/)|`revolut_bank`| 
 |![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking](/payment-methods/openbanking/)|`openbanking`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
+|![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik](/payment-methods/blik/)|`blik`| 
+|![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.png?w=278&c=v0.59.26#w100) |[przelewy24](/payment-methods/przelewy24/)|`przelewy24`| 
+|![multibanco](https://static.openfintech.io/payment_methods/multibanco/icon.png?w=278&c=v0.59.26#w100) |[multibanco](/payment-methods/multibanco/)|`multibanco`| 
+|![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2](/payment-methods/mybank2/)|`mybank2`| 
+|![eps](https://static.openfintech.io/payment_methods/eps/icon.png?w=278&c=v0.59.26#w100) |[eps](/payment-methods/eps/)|`eps`| 
+|![bancontact](https://static.openfintech.io/payment_methods/bancontact/icon.png?w=278&c=v0.59.26#w100) |[bancontact](/payment-methods/bancontact/)|`bancontact`| 
  
 
 ## Payout Methods 
@@ -109,7 +115,13 @@ The list of supported [Payout Methods](/payout-methods/)
     "bitexpro_payeer",
     "revolut_bank",
     "openbanking",
-    "paysafecard"
+    "paysafecard",
+    "blik",
+    "przelewy24",
+    "multibanco",
+    "mybank2",
+    "eps",
+    "bancontact"
   ],
   "payout_method":[
     "payment_card"
