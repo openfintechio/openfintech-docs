@@ -44,6 +44,12 @@ The list of [Payment Services](/payment-services/) based on the _Payment card_
 |![payment_card_crypto](https://static.openfintech.io/payment_methods/payment_card_crypto/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_crypto_eur_hpp](/payment-services/payment_card_crypto_eur_hpp/)|`payment_card_crypto_eur_hpp`| 
 |![payment_card_crypto](https://static.openfintech.io/payment_methods/payment_card_crypto/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_crypto_cad_hpp](/payment-services/payment_card_crypto_cad_hpp/)|`payment_card_crypto_cad_hpp`| 
 |![payment_card_crypto](https://static.openfintech.io/payment_methods/payment_card_crypto/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_crypto_aud_hpp](/payment-services/payment_card_crypto_aud_hpp/)|`payment_card_crypto_aud_hpp`| 
+|![payment_card_crypto](https://static.openfintech.io/payment_methods/payment_card_crypto/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_crypto_pln_hpp](/payment-services/payment_card_crypto_pln_hpp/)|`payment_card_crypto_pln_hpp`| 
+|![payment_card_crypto](https://static.openfintech.io/payment_methods/payment_card_crypto/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_crypto_brl_hpp](/payment-services/payment_card_crypto_brl_hpp/)|`payment_card_crypto_brl_hpp`| 
+|![payment_card_crypto](https://static.openfintech.io/payment_methods/payment_card_crypto/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_crypto_mxn_hpp](/payment-services/payment_card_crypto_mxn_hpp/)|`payment_card_crypto_mxn_hpp`| 
+|![payment_card_crypto](https://static.openfintech.io/payment_methods/payment_card_crypto/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_crypto_egp_hpp](/payment-services/payment_card_crypto_egp_hpp/)|`payment_card_crypto_egp_hpp`| 
+|![payment_card_crypto](https://static.openfintech.io/payment_methods/payment_card_crypto/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_crypto_inr_hpp](/payment-services/payment_card_crypto_inr_hpp/)|`payment_card_crypto_inr_hpp`| 
+|![payment_card_crypto](https://static.openfintech.io/payment_methods/payment_card_crypto/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_crypto_try_hpp](/payment-services/payment_card_crypto_try_hpp/)|`payment_card_crypto_try_hpp`| 
  
 
 ## Payment Providers 
