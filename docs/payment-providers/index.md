@@ -804,6 +804,7 @@
 |![paytriot](https://static.openfintech.io/payment_providers/paytriot/logo.png?w=600&c=v0.59.26#w100) |[**Paytriot**](paytriot/)|`paytriot`| 
 |![payture](https://static.openfintech.io/payment_providers/payture/logo.png?w=600&c=v0.59.26#w100) |[**Payture**](payture/)|`payture`| 
 |![payu](https://static.openfintech.io/payment_providers/payu/logo.svg?w=600&c=v0.59.26#w100) |[**PayU**](payu/)|`payu`| 
+|![payua](https://static.openfintech.io/payment_providers/payua/logo.png?w=600&c=v0.59.26#w100) |[**Pay UA**](payua/)|`payua`| 
 |![payunity](https://static.openfintech.io/payment_providers/payunity/logo.png?w=600&c=v0.59.26#w100) |[**PAYUNITY**](payunity/)|`payunity`| 
 |![payvector](https://static.openfintech.io/payment_providers/payvector/logo.png?w=600&c=v0.59.26#w100) |[**PayVector**](payvector/)|`payvector`| 
 |![payvision](https://static.openfintech.io/payment_providers/payvision/logo.png?w=600&c=v0.59.26#w100) |[**Payvision**](payvision/)|`payvision`| 

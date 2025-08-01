@@ -1750,6 +1750,7 @@
 |![paytriot](https://static.openfintech.io/vendors/paytriot/logo.png?w=600&c=v0.59.26#w200) |[**Paytriot**](paytriot/)|`paytriot`| 
 |![payture](https://static.openfintech.io/vendors/payture/logo.png?w=600&c=v0.59.26#w200) |[**Payture**](payture/)|`payture`| 
 |![payu](https://static.openfintech.io/vendors/payu/logo.svg?w=600&c=v0.59.26#w200) |[**PayU**](payu/)|`payu`| 
+|![payua](https://static.openfintech.io/vendors/payua/logo.png?w=600&c=v0.59.26#w200) |[**Pay UA**](payua/)|`payua`| 
 |![payunity](https://static.openfintech.io/vendors/payunity/logo.png?w=600&c=v0.59.26#w200) |[**PAYUNITY**](payunity/)|`payunity`| 
 |![payvector](https://static.openfintech.io/vendors/payvector/logo.png?w=600&c=v0.59.26#w200) |[**PayVector**](payvector/)|`payvector`| 
 |![payvision](https://static.openfintech.io/vendors/payvision/logo.png?w=600&c=v0.59.26#w200) |[**Payvision**](payvision/)|`payvision`| 
