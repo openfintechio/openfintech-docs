@@ -12,7 +12,7 @@
 :	[RU] Spectre Payments 
 :	[UK] Spectre Payments 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Links:** 
 : website [https://spectrepayments.com/](https://spectrepayments.com/) 
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/spectrepayments/icon.png?w=278&c=v0.59.26#
     "ru":"Spectre Payments",
     "uk":"Spectre Payments"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":{
     "website":"https:\/\/spectrepayments.com\/"

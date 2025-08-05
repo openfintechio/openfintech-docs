@@ -904,6 +904,7 @@
 |![russianstandardbank](https://static.openfintech.io/payment_providers/russianstandardbank/logo.png?w=600&c=v0.59.26#w100) |[**Russian Standard Bank**](russianstandardbank/)|`russianstandardbank`| 
 |![ryvyl](https://static.openfintech.io/payment_providers/ryvyl/logo.svg?w=600&c=v0.59.26#w100) |[**Ryvyl**](ryvyl/)|`ryvyl`| 
 || **S** ||
+|![s3cpay](https://static.openfintech.io/payment_providers/s3cpay/logo.png?w=600&c=v0.59.26#w100) |[**S3СРАY**](s3cpay/)|`s3cpay`| 
 |![safecharge](https://static.openfintech.io/payment_providers/safecharge/logo.svg?w=600&c=v0.59.26#w100) |[**Nuvei**](safecharge/)|`safecharge`| 
 |![safetypay](https://static.openfintech.io/payment_providers/safetypay/logo.png?w=600&c=v0.59.26#w100) |[**SafetyPay**](safetypay/)|`safetypay`| 
 |![safexpay](https://static.openfintech.io/payment_providers/safexpay/logo.png?w=600&c=v0.59.26#w100) |[**Safexpay**](safexpay/)|`safexpay`| 

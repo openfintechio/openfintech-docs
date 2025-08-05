@@ -1941,6 +1941,7 @@
 |![ryukyu_bank](https://static.openfintech.io/vendors/ryukyu_bank/logo.svg?w=600&c=v0.59.26#w200) |[**BANK OF THE RYUKYUS**](ryukyu_bank/)|`ryukyu_bank`| 
 |![ryvyl](https://static.openfintech.io/vendors/ryvyl/logo.svg?w=600&c=v0.59.26#w200) |[**Ryvyl**](ryvyl/)|`ryvyl`| 
 || **S** ||
+|![s3cpay](https://static.openfintech.io/vendors/s3cpay/logo.png?w=600&c=v0.59.26#w200) |[**S3СРАY**](s3cpay/)|`s3cpay`| 
 |![saastopankki](https://static.openfintech.io/vendors/saastopankki/logo.png?w=600&c=v0.59.26#w200) |[**Säästöpankki**](saastopankki/)|`saastopankki`| 
 |![safecharge](https://static.openfintech.io/vendors/safecharge/logo.svg?w=600&c=v0.59.26#w200) |[**Nuvei**](safecharge/)|`safecharge`| 
 |![safepay.ua](https://static.openfintech.io/vendors/safepay.ua/logo.svg?w=600&c=v0.59.26#w200) |[**SafePay**](safepay.ua/)|`safepay.ua`| 

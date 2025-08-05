@@ -615,6 +615,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![paytently](https://static.openfintech.io/payment_providers/paytently/icon.svg?w=278&c=v0.59.26#w100) |[Paytently](/payment-providers/paytently/)|`paytently`| 
 |![paystrax](https://static.openfintech.io/payment_providers/paystrax/icon.png?w=278&c=v0.59.26#w100) |[Paystrax](/payment-providers/paystrax/)|`paystrax`| 
 |![spectrepayments](https://static.openfintech.io/payment_providers/spectrepayments/icon.png?w=278&c=v0.59.26#w100) |[Spectre Payments](/payment-providers/spectrepayments/)|`spectrepayments`| 
+|![s3cpay](https://static.openfintech.io/payment_providers/s3cpay/icon.png?w=278&c=v0.59.26#w100) |[S3СРАY](/payment-providers/s3cpay/)|`s3cpay`| 
 |![slyse](https://static.openfintech.io/payment_providers/slyse/icon.png?w=278&c=v0.59.26#w100) |[SLYSE](/payment-providers/slyse/)|`slyse`| 
 |![paylivre](https://static.openfintech.io/payment_providers/paylivre/icon.png?w=278&c=v0.59.26#w100) |[Paylivre](/payment-providers/paylivre/)|`paylivre`| 
 |![ryvyl](https://static.openfintech.io/payment_providers/ryvyl/icon.png?w=278&c=v0.59.26#w100) |[Ryvyl](/payment-providers/ryvyl/)|`ryvyl`| 
