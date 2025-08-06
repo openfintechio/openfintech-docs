@@ -1837,7 +1837,6 @@
 |![pitomtsy](https://static.openfintech.io/payout_methods/pitomtsy/logo.png?w=400&c=v0.59.26#w24) |[**Pets**](pitomtsy/)|`pitomtsy`| 
 |![pivnichline-rovnenskaia-obl](https://static.openfintech.io/payout_methods/pivnichline-rovnenskaia-obl/logo.png?w=400&c=v0.59.26#w24) |[**PivnichLine (Rivne region)**](pivnichline-rovnenskaia-obl/)|`pivnichline-rovnenskaia-obl`| 
 |![pix](https://static.openfintech.io/payout_methods/pix/logo.svg?w=400&c=v0.59.26#w24) |[**PIX**](pix/)|`pix`| 
-|![pix_cpf_req](https://static.openfintech.io/payout_methods/pix_cpf_req/logo.svg?w=400&c=v0.59.26#w24) |[**PIX**](pix_cpf_req/)|`pix_cpf_req`| 
 |![platinum_mortgage_bank](https://static.openfintech.io/payout_methods/platinum_mortgage_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Platinum Mortgage Bank**](platinum_mortgage_bank/)|`platinum_mortgage_bank`| 
 |![pogrebishche-pat-vinnitsiaoblenergo](https://static.openfintech.io/payout_methods/pogrebishche-pat-vinnitsiaoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**The burial ground of PJSC 'Vinnitsaoblenergo'**](pogrebishche-pat-vinnitsiaoblenergo/)|`pogrebishche-pat-vinnitsiaoblenergo`| 
 |![pointblank](https://static.openfintech.io/payout_methods/pointblank/logo.png?w=400&c=v0.59.26#w24) |[**PointBlank**](pointblank/)|`pointblank`| 

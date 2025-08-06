@@ -61,7 +61,6 @@ The list of supported [Payout Methods](/payout-methods/)
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
 |![settlepay_wallet](https://static.openfintech.io/payout_methods/settlepay_wallet/icon.svg?w=278&c=v0.59.26#w40) |[settlepay_wallet](payout-methodssettlepay_wallet/)|`settlepay_wallet`| 
 |![pix](https://static.openfintech.io/payout_methods/pix/icon.svg?w=278&c=v0.59.26#w40) |[pix](payout-methodspix/)|`pix`| 
-|![pix_cpf_req](https://static.openfintech.io/payout_methods/pix_cpf_req/icon.svg?w=278&c=v0.59.26#w40) |[pix_cpf_req](payout-methodspix_cpf_req/)|`pix_cpf_req`| 
 |![upi](https://static.openfintech.io/payout_methods/upi/icon.svg?w=278&c=v0.59.26#w40) |[upi](payout-methodsupi/)|`upi`| 
  
 
@@ -89,7 +88,6 @@ The list of supported [Payout Methods](/payout-methods/)
     "payment_card",
     "settlepay_wallet",
     "pix",
-    "pix_cpf_req",
     "upi"
   ],
   "metadata":null,

@@ -1902,7 +1902,6 @@
 |![PivnichLine (Rivne region)](https://static.openfintech.io/payout_methods/pivnichline-rovnenskaia-obl/logo.png?w=400&c=v0.59.26#w24) |[**PivnichLine (Rivne region)**](/payout-methods/pivnichline-rovnenskaia-obl/)|[`pivnichline-rovnenskaia-obl_uah`](pivnichline-rovnenskaia-obl_uah/)|`UAH`| 
 |![PIX](https://static.openfintech.io/payout_methods/pix/logo.svg?w=400&c=v0.59.26#w24) |[**PIX**](/payout-methods/pix/)|[`pix_ars`](pix_ars/)|`ARS`| 
 |![PIX](https://static.openfintech.io/payout_methods/pix/logo.svg?w=400&c=v0.59.26#w24) |[**PIX**](/payout-methods/pix/)|[`pix_brl`](pix_brl/)|`BRL`| 
-|![PIX](https://static.openfintech.io/payout_methods/pix_cpf_req/logo.svg?w=400&c=v0.59.26#w24) |[**PIX**](/payout-methods/pix_cpf_req/)|[`pix_cpf_req_brl`](pix_cpf_req_brl/)|`BRL`| 
 |![Platinum Mortgage Bank](https://static.openfintech.io/payout_methods/platinum_mortgage_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Platinum Mortgage Bank**](/payout-methods/platinum_mortgage_bank/)|[`platinum_mortgage_bank_ngn`](platinum_mortgage_bank_ngn/)|`NGN`| 
 |![PointBlank](https://static.openfintech.io/payout_methods/pointblank/logo.png?w=400&c=v0.59.26#w24) |[**PointBlank**](/payout-methods/pointblank/)|[`pointblank_uah`](pointblank_uah/)|`UAH`| 
 |![Pokermatch Account](https://static.openfintech.io/payout_methods/pokermatch_account/logo.svg?w=400&c=v0.59.26#w24) |[**Pokermatch Account**](/payout-methods/pokermatch_account/)|[`pokermatch_account_uah`](pokermatch_account_uah/)|`UAH`| 
