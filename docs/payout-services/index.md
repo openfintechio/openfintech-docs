@@ -891,6 +891,7 @@
 |![Hala MFB](https://static.openfintech.io/payout_methods/hala_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Hala MFB**](/payout-methods/hala_mfb/)|[`hala_mfb_ngn`](hala_mfb_ngn/)|`NGN`| 
 |![Türkiye Halk Bankası A.Ş.](https://static.openfintech.io/payout_methods/halk_bank/logo.png?w=400&c=v0.59.26#w24) |[**Türkiye Halk Bankası A.Ş.**](/payout-methods/halk_bank/)|[`halk_bank_try`](halk_bank_try/)|`TRY`| 
 |![Halo pesa](https://static.openfintech.io/payout_methods/halo_pesa/logo.png?w=400&c=v0.59.26#w24) |[**Halo pesa**](/payout-methods/halo_pesa/)|[`halo_pesa_tzs`](halo_pesa_tzs/)|`TZS`| 
+|![Halotel](https://static.openfintech.io/payout_methods/halotel/logo.png?w=400&c=v0.59.26#w24) |[**Halotel**](/payout-methods/halotel/)|[`halotel_tzs`](halotel_tzs/)|`TZS`| 
 |![Halyk Bank](https://static.openfintech.io/payout_methods/halyk_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Halyk Bank**](/payout-methods/halyk_bank/)|[`halyk_bank_kzt`](halyk_bank_kzt/)|`KZT`| 
 |![HANA FINANCIAL INVESTMENT CO. LTD](https://static.openfintech.io/payout_methods/hana_financial_bank/logo.png?w=400&c=v0.59.26#w24) |[**HANA FINANCIAL INVESTMENT CO. LTD**](/payout-methods/hana_financial_bank/)|[`hana_financial_bank_krw`](hana_financial_bank_krw/)|`KRW`| 
 |![Hangzhou City Commercial Bank](https://static.openfintech.io/payout_methods/hangzhou_city_commercial_bank/logo.png?w=400&c=v0.59.26#w24) |[**Hangzhou City Commercial Bank**](/payout-methods/hangzhou_city_commercial_bank/)|[`hangzhou_city_commercial_bank_cny`](hangzhou_city_commercial_bank_cny/)|`CNY`| 
@@ -1429,6 +1430,7 @@
 |![MTN](https://static.openfintech.io/payout_methods/mtn/logo.svg?w=400&c=v0.59.26#w24) |[**MTN**](/payout-methods/mtn/)|[`mtn_ugx`](mtn_ugx/)|`UGX`| 
 |![MTN](https://static.openfintech.io/payout_methods/mtn/logo.svg?w=400&c=v0.59.26#w24) |[**MTN**](/payout-methods/mtn/)|[`mtn_xaf`](mtn_xaf/)|`XAF`| 
 |![MTN](https://static.openfintech.io/payout_methods/mtn/logo.svg?w=400&c=v0.59.26#w24) |[**MTN**](/payout-methods/mtn/)|[`mtn_xof`](mtn_xof/)|`XOF`| 
+|![MTN](https://static.openfintech.io/payout_methods/mtn/logo.svg?w=400&c=v0.59.26#w24) |[**MTN**](/payout-methods/mtn/)|[`mtn_zmw`](mtn_zmw/)|`ZMW`| 
 |![MTS](https://static.openfintech.io/payout_methods/mts/logo.svg?w=400&c=v0.59.26#w24) |[**MTS**](/payout-methods/mts/)|[`mts_rub`](mts_rub/)|`RUB`| 
 |![MuchBetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](/payout-methods/muchbetter/)|[`muchbetter_brl`](muchbetter_brl/)|`BRL`| 
 |![MuchBetter](https://static.openfintech.io/payout_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w24) |[**MuchBetter**](/payout-methods/muchbetter/)|[`muchbetter_cad`](muchbetter_cad/)|`CAD`| 

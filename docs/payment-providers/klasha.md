@@ -104,6 +104,9 @@ The list of supported [Payout Methods](/payout-methods/)
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
 |![tigo_pesa](https://static.openfintech.io/payout_methods/tigo_pesa/icon.png?w=278&c=v0.59.26#w40) |[tigo_pesa](payout-methodstigo_pesa/)|`tigo_pesa`| 
 |![airtel_money](https://static.openfintech.io/payout_methods/airtel_money/icon.png?w=278&c=v0.59.26#w40) |[airtel_money](payout-methodsairtel_money/)|`airtel_money`| 
+|![zamtel](https://static.openfintech.io/payout_methods/zamtel/icon.png?w=278&c=v0.59.26#w40) |[zamtel](payout-methodszamtel/)|`zamtel`| 
+|![mtn](https://static.openfintech.io/payout_methods/mtn/icon.svg?w=278&c=v0.59.26#w40) |[mtn](payout-methodsmtn/)|`mtn`| 
+|![halotel](https://static.openfintech.io/payout_methods/halotel/icon.png?w=278&c=v0.59.26#w40) |[halotel](payout-methodshalotel/)|`halotel`| 
  
 
 ## JSON Object 
@@ -172,7 +175,10 @@ The list of supported [Payout Methods](/payout-methods/)
     "momo",
     "bank_transfer",
     "tigo_pesa",
-    "airtel_money"
+    "airtel_money",
+    "zamtel",
+    "mtn",
+    "halotel"
   ],
   "metadata":null,
   "name":{

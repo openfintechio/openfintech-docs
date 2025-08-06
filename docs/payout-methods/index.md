@@ -740,6 +740,7 @@
 |![hala_mfb](https://static.openfintech.io/payout_methods/hala_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Hala MFB**](hala_mfb/)|`hala_mfb`| 
 |![halk_bank](https://static.openfintech.io/payout_methods/halk_bank/logo.png?w=400&c=v0.59.26#w24) |[**Türkiye Halk Bankası A.Ş.**](halk_bank/)|`halk_bank`| 
 |![halo_pesa](https://static.openfintech.io/payout_methods/halo_pesa/logo.png?w=400&c=v0.59.26#w24) |[**Halo pesa**](halo_pesa/)|`halo_pesa`| 
+|![halotel](https://static.openfintech.io/payout_methods/halotel/logo.png?w=400&c=v0.59.26#w24) |[**Halotel**](halotel/)|`halotel`| 
 |![halyk_bank](https://static.openfintech.io/payout_methods/halyk_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Halyk Bank**](halyk_bank/)|`halyk_bank`| 
 |![hana_financial_bank](https://static.openfintech.io/payout_methods/hana_financial_bank/logo.png?w=400&c=v0.59.26#w24) |[**HANA FINANCIAL INVESTMENT CO. LTD**](hana_financial_bank/)|`hana_financial_bank`| 
 |![hangzhou_city_commercial_bank](https://static.openfintech.io/payout_methods/hangzhou_city_commercial_bank/logo.png?w=400&c=v0.59.26#w24) |[**Hangzhou City Commercial Bank**](hangzhou_city_commercial_bank/)|`hangzhou_city_commercial_bank`| 

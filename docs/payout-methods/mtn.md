@@ -41,6 +41,7 @@ The list of [Payout Services](/payout-services/) based on the _MTN_
 |![mtn](https://static.openfintech.io/payout_methods/mtn/icon.svg?w=278&c=v0.59.26#w40) |[mtn_rwf](/payout-services/mtn_rwf/)|`mtn_rwf`| 
 |![mtn](https://static.openfintech.io/payout_methods/mtn/icon.svg?w=278&c=v0.59.26#w40) |[mtn_xaf](/payout-services/mtn_xaf/)|`mtn_xaf`| 
 |![mtn](https://static.openfintech.io/payout_methods/mtn/icon.svg?w=278&c=v0.59.26#w40) |[mtn_xof](/payout-services/mtn_xof/)|`mtn_xof`| 
+|![mtn](https://static.openfintech.io/payout_methods/mtn/icon.svg?w=278&c=v0.59.26#w40) |[mtn_zmw](/payout-services/mtn_zmw/)|`mtn_zmw`| 
  
 
 ## Payment Providers 

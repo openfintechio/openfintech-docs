@@ -106,6 +106,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Google Pa
 |![cashbulls](https://static.openfintech.io/payment_providers/cashbulls/icon.png?w=278&c=v0.59.26#w100) |[Cash Bulls](/payment-providers/cashbulls/)|`cashbulls`| 
 |![btgate](https://static.openfintech.io/payment_providers/btgate/icon.png?w=278&c=v0.59.26#w100) |[btGate](/payment-providers/btgate/)|`btgate`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
+|![jmitsolutions](https://static.openfintech.io/payment_providers/jmitsolutions/icon.svg?w=278&c=v0.59.26#w100) |[JMITsolutions](/payment-providers/jmitsolutions/)|`jmitsolutions`| 
 |![altitudepay](https://static.openfintech.io/payment_providers/altitudepay/icon.svg?w=278&c=v0.59.26#w100) |[AltitudePay](/payment-providers/altitudepay/)|`altitudepay`| 
 |![gateiq](https://static.openfintech.io/payment_providers/gateiq/icon.svg?w=278&c=v0.59.26#w100) |[GateIQ](/payment-providers/gateiq/)|`gateiq`| 
 |![pluspedirect](https://static.openfintech.io/payment_providers/pluspedirect/icon.svg?w=278&c=v0.59.26#w100) |[PlusPeDirect](/payment-providers/pluspedirect/)|`pluspedirect`| 
