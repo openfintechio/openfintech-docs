@@ -99,6 +99,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Google Pa
 |![paysoftsolutions](https://static.openfintech.io/payment_providers/paysoftsolutions/icon.png?w=278&c=v0.59.26#w100) |[PaySoft Solutions](/payment-providers/paysoftsolutions/)|`paysoftsolutions`| 
 |![justipay](https://static.openfintech.io/payment_providers/justipay/icon.png?w=278&c=v0.59.26#w100) |[Justipay](/payment-providers/justipay/)|`justipay`| 
 |![bp](https://static.openfintech.io/payment_providers/bp/icon.svg?w=278&c=v0.59.26#w100) |[BP](/payment-providers/bp/)|`bp`| 
+|![leobank](https://static.openfintech.io/payment_providers/leobank/icon.svg?w=278&c=v0.59.26#w100) |[Digimeth](/payment-providers/leobank/)|`leobank`| 
 |![10pay](https://static.openfintech.io/payment_providers/10pay/icon.svg?w=278&c=v0.59.26#w100) |[10Pay](/payment-providers/10pay/)|`10pay`| 
 |![flexify](https://static.openfintech.io/payment_providers/flexify/icon.png?w=278&c=v0.59.26#w100) |[Flexify](/payment-providers/flexify/)|`flexify`| 
 |![crederes](https://static.openfintech.io/payment_providers/crederes/icon.svg?w=278&c=v0.59.26#w100) |[Crederes](/payment-providers/crederes/)|`crederes`| 
