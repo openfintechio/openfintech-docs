@@ -87,6 +87,14 @@ The list of supported [Payout Methods](/payout-methods/)
 |![wema_bank](https://static.openfintech.io/payout_methods/wema_bank/icon.svg?w=278&c=v0.59.26#w40) |[wema_bank](payout-methodswema_bank/)|`wema_bank`| 
 |![zenith_bank](https://static.openfintech.io/payout_methods/zenith_bank/icon.svg?w=278&c=v0.59.26#w40) |[zenith_bank](payout-methodszenith_bank/)|`zenith_bank`| 
 |![orange_money](https://static.openfintech.io/payout_methods/orange_money/icon.png?w=278&c=v0.59.26#w40) |[orange_money](payout-methodsorange_money/)|`orange_money`| 
+|![absa_bank](https://static.openfintech.io/payout_methods/absa_bank/icon.svg?w=278&c=v0.59.26#w40) |[absa_bank](payout-methodsabsa_bank/)|`absa_bank`| 
+|![african_bank](https://static.openfintech.io/payout_methods/african_bank/icon.svg?w=278&c=v0.59.26#w40) |[african_bank](payout-methodsafrican_bank/)|`african_bank`| 
+|![bidvest_bank](https://static.openfintech.io/payout_methods/bidvest_bank/icon.svg?w=278&c=v0.59.26#w40) |[bidvest_bank](payout-methodsbidvest_bank/)|`bidvest_bank`| 
+|![first_national_bank](https://static.openfintech.io/payout_methods/first_national_bank/icon.svg?w=278&c=v0.59.26#w40) |[first_national_bank](payout-methodsfirst_national_bank/)|`first_national_bank`| 
+|![investec_bank](https://static.openfintech.io/payout_methods/investec_bank/icon.svg?w=278&c=v0.59.26#w40) |[investec_bank](payout-methodsinvestec_bank/)|`investec_bank`| 
+|![ned_bank](https://static.openfintech.io/payout_methods/ned_bank/icon.svg?w=278&c=v0.59.26#w40) |[ned_bank](payout-methodsned_bank/)|`ned_bank`| 
+|![standard_bank](https://static.openfintech.io/payout_methods/standard_bank/icon.svg?w=278&c=v0.59.26#w40) |[standard_bank](payout-methodsstandard_bank/)|`standard_bank`| 
+|![tyme_bank](https://static.openfintech.io/payout_methods/tyme_bank/icon.svg?w=278&c=v0.59.26#w40) |[tyme_bank](payout-methodstyme_bank/)|`tyme_bank`| 
  
 
 ## JSON Object 
@@ -140,7 +148,15 @@ The list of supported [Payout Methods](/payout-methods/)
     "unity_bank",
     "wema_bank",
     "zenith_bank",
-    "orange_money"
+    "orange_money",
+    "absa_bank",
+    "african_bank",
+    "bidvest_bank",
+    "first_national_bank",
+    "investec_bank",
+    "ned_bank",
+    "standard_bank",
+    "tyme_bank"
   ],
   "metadata":null,
   "name":{
