@@ -42,6 +42,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi](/payment-methods/upi/)|`upi`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![upi](https://static.openfintech.io/payout_methods/upi/icon.svg?w=278&c=v0.59.26#w40) |[upi](payout-methodsupi/)|`upi`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -54,7 +63,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payment_method":[
     "upi"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "upi"
+  ],
   "metadata":null,
   "name":{
     "en":"CardPaymentz",
