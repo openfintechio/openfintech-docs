@@ -37,6 +37,9 @@ The list of [Payout Services](/payout-services/) based on the _Binance Pay_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![binancepay](https://static.openfintech.io/payout_methods/binancepay/icon.svg?w=278&c=v0.59.26#w40) |[binancepay_usd](/payout-services/binancepay_usd/)|`binancepay_usd`| 
+|![binancepay](https://static.openfintech.io/payout_methods/binancepay/icon.svg?w=278&c=v0.59.26#w40) |[binancepay_wallet_netting_usd](/payout-services/binancepay_wallet_netting_usd/)|`binancepay_wallet_netting_usd`| 
+|![binancepay](https://static.openfintech.io/payout_methods/binancepay/icon.svg?w=278&c=v0.59.26#w40) |[binancepay_wallet_netting_usdt](/payout-services/binancepay_wallet_netting_usdt/)|`binancepay_wallet_netting_usdt`| 
+|![binancepay](https://static.openfintech.io/payout_methods/binancepay/icon.svg?w=278&c=v0.59.26#w40) |[binancepay_wallet_netting_usdc](/payout-services/binancepay_wallet_netting_usdc/)|`binancepay_wallet_netting_usdc`| 
  
 
 ## Payment Providers 
