@@ -51,7 +51,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Litecoin_
 |:---:|:---:|:---:| 
 |![coingate](https://static.openfintech.io/payment_providers/coingate/icon.svg?w=278&c=v0.59.26#w100) |[CoinGate](/payment-providers/coingate/)|`coingate`| 
 |![anymoney](https://static.openfintech.io/payment_providers/anymoney/icon.svg?w=278&c=v0.59.26#w100) |[Any.Money](/payment-providers/anymoney/)|`anymoney`| 
-|![payua](https://static.openfintech.io/payment_providers/payua/icon.png?w=278&c=v0.59.26#w100) |[Pay UA](/payment-providers/payua/)|`payua`| 
 |![coinspaid](https://static.openfintech.io/payment_providers/coinspaid/icon.png?w=278&c=v0.59.26#w100) |[CoinsPaid](/payment-providers/coinspaid/)|`coinspaid`| 
 |![amlnode](https://static.openfintech.io/payment_providers/amlnode/icon.png?w=278&c=v0.59.26#w100) |[AML Node](/payment-providers/amlnode/)|`amlnode`| 
 |![cryptomus](https://static.openfintech.io/payment_providers/cryptomus/icon.svg?w=278&c=v0.59.26#w100) |[Cryptomus](/payment-providers/cryptomus/)|`cryptomus`| 

@@ -39,13 +39,7 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin](/payment-methods/litecoin/)|`litecoin`| 
-|![ethereum](https://static.openfintech.io/payment_methods/ethereum/icon.svg?w=278&c=v0.59.26#w100) |[ethereum](/payment-methods/ethereum/)|`ethereum`| 
-|![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin](/payment-methods/bitcoin/)|`bitcoin`| 
-|![bitcoin_cash](https://static.openfintech.io/payment_methods/bitcoin_cash/icon.png?w=278&c=v0.59.26#w100) |[bitcoin_cash](/payment-methods/bitcoin_cash/)|`bitcoin_cash`| 
-|![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether](/payment-methods/tether/)|`tether`| 
-|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
-|![anymoney](https://static.openfintech.io/payment_methods/anymoney/icon.png?w=278&c=v0.59.26#w100) |[anymoney](/payment-methods/anymoney/)|`anymoney`| 
+|![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer](/payment-methods/card_transfer/)|`card_transfer`| 
  
 
 ## JSON Object 
@@ -58,13 +52,7 @@ The list of supported [Payment Methods](/payment-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    "litecoin",
-    "ethereum",
-    "bitcoin",
-    "bitcoin_cash",
-    "tether",
-    "payment_card",
-    "anymoney"
+    "card_transfer"
   ],
   "payout_method":null,
   "metadata":null,

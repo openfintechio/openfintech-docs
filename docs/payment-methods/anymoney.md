@@ -50,7 +50,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Any.Money
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![anymoney](https://static.openfintech.io/payment_providers/anymoney/icon.svg?w=278&c=v0.59.26#w100) |[Any.Money](/payment-providers/anymoney/)|`anymoney`| 
-|![payua](https://static.openfintech.io/payment_providers/payua/icon.png?w=278&c=v0.59.26#w100) |[Pay UA](/payment-providers/payua/)|`payua`| 
  
 
 ## JSON Object 

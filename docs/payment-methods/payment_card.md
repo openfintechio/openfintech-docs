@@ -309,7 +309,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![winpay](https://static.openfintech.io/payment_providers/winpay/icon.png?w=278&c=v0.59.26#w100) |[Global Financial Innovations](/payment-providers/winpay/)|`winpay`| 
 |![taslink](https://static.openfintech.io/payment_providers/taslink/icon.svg?w=278&c=v0.59.26#w100) |[TAS Link](/payment-providers/taslink/)|`taslink`| 
 |![anymoney](https://static.openfintech.io/payment_providers/anymoney/icon.svg?w=278&c=v0.59.26#w100) |[Any.Money](/payment-providers/anymoney/)|`anymoney`| 
-|![payua](https://static.openfintech.io/payment_providers/payua/icon.png?w=278&c=v0.59.26#w100) |[Pay UA](/payment-providers/payua/)|`payua`| 
 |![alikassa](https://static.openfintech.io/payment_providers/alikassa/icon.svg?w=278&c=v0.59.26#w100) |[AliKassa](/payment-providers/alikassa/)|`alikassa`| 
 |![paysafe](https://static.openfintech.io/payment_providers/paysafe/icon.svg?w=278&c=v0.59.26#w100) |[Paysafe](/payment-providers/paysafe/)|`paysafe`| 
 |![raiffeisenbank](https://static.openfintech.io/payment_providers/raiffeisenbank/icon.svg?w=278&c=v0.59.26#w100) |[Raiffeisen Bank](/payment-providers/raiffeisenbank/)|`raiffeisenbank`| 
