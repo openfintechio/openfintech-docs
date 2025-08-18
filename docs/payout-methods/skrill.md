@@ -49,6 +49,21 @@ The list of [Payout Services](/payout-services/) based on the _Skrill_
 |![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_cad](/payout-services/skrill_cad/)|`skrill_cad`| 
 |![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_gbp](/payout-services/skrill_gbp/)|`skrill_gbp`| 
 |![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_pln](/payout-services/skrill_pln/)|`skrill_pln`| 
+|![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_aed](/payout-services/skrill_aed/)|`skrill_aed`| 
+|![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_aud](/payout-services/skrill_aud/)|`skrill_aud`| 
+|![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_bgn](/payout-services/skrill_bgn/)|`skrill_bgn`| 
+|![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_brl](/payout-services/skrill_brl/)|`skrill_brl`| 
+|![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_clp](/payout-services/skrill_clp/)|`skrill_clp`| 
+|![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_czk](/payout-services/skrill_czk/)|`skrill_czk`| 
+|![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_dkk](/payout-services/skrill_dkk/)|`skrill_dkk`| 
+|![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_inr](/payout-services/skrill_inr/)|`skrill_inr`| 
+|![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_jpy](/payout-services/skrill_jpy/)|`skrill_jpy`| 
+|![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_krw](/payout-services/skrill_krw/)|`skrill_krw`| 
+|![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_nok](/payout-services/skrill_nok/)|`skrill_nok`| 
+|![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_nzd](/payout-services/skrill_nzd/)|`skrill_nzd`| 
+|![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_sek](/payout-services/skrill_sek/)|`skrill_sek`| 
+|![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_try](/payout-services/skrill_try/)|`skrill_try`| 
+|![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill_zar](/payout-services/skrill_zar/)|`skrill_zar`| 
  
 
 ## Payment Providers 

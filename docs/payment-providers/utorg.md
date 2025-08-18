@@ -56,6 +56,16 @@ The list of supported [Payment Methods](/payment-methods/)
 |![online_banking](https://static.openfintech.io/payment_methods/online_banking/icon.svg?w=278&c=v0.59.26#w100) |[online_banking](/payment-methods/online_banking/)|`online_banking`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill](payout-methodsskrill/)|`skrill`| 
+|![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller](payout-methodsneteller/)|`neteller`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -80,7 +90,10 @@ The list of supported [Payment Methods](/payment-methods/)
     "przelewy24",
     "online_banking"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "skrill",
+    "neteller"
+  ],
   "metadata":null,
   "name":{
     "en":"Utorg",
