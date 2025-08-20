@@ -52,6 +52,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Multibanc
 |![impaya](https://static.openfintech.io/payment_providers/impaya/icon.png?w=278&c=v0.59.26#w100) |[Impaya](/payment-providers/impaya/)|`impaya`| 
 |![katarun](https://static.openfintech.io/payment_providers/katarun/icon.png?w=278&c=v0.59.26#w100) |[Katarun](/payment-providers/katarun/)|`katarun`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
+|![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 
  
 
 ## JSON Object 

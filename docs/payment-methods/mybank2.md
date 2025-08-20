@@ -63,6 +63,7 @@ The list of [Payment Providers](/payment-providers/) that support the _MyBank_
 |![computop](https://static.openfintech.io/payment_providers/computop/icon.png?w=278&c=v0.59.26#w100) |[Computop](/payment-providers/computop/)|`computop`| 
 |![easypaymentgateway](https://static.openfintech.io/payment_providers/easypaymentgateway/icon.png?w=278&c=v0.59.26#w100) |[Easy Payment Gateway](/payment-providers/easypaymentgateway/)|`easypaymentgateway`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
+|![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 
  
 
 ## JSON Object 

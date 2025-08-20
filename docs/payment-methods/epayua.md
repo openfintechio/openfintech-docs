@@ -28,6 +28,15 @@ https://static.openfintech.io/payment_methods/epayua/logo.png?w=400&c=v0.59.26#w
 https://static.openfintech.io/payment_methods/epayua/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _E-Pay_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 
+ 
+
 ## JSON Object 
 
 ```json

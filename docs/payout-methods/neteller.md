@@ -92,6 +92,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Neteller_
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
 |![gateiq](https://static.openfintech.io/payment_providers/gateiq/icon.svg?w=278&c=v0.59.26#w100) |[GateIQ](/payment-providers/gateiq/)|`gateiq`| 
 |![utorg](https://static.openfintech.io/payment_providers/utorg/icon.png?w=278&c=v0.59.26#w100) |[Utorg](/payment-providers/utorg/)|`utorg`| 
+|![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 
 |![btcbit](https://static.openfintech.io/payment_providers/btcbit/icon.png?w=278&c=v0.59.26#w100) |[Btcbit](/payment-providers/btcbit/)|`btcbit`| 
  
 

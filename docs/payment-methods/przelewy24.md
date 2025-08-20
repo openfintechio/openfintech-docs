@@ -71,6 +71,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Przelewy2
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
 |![utorg](https://static.openfintech.io/payment_providers/utorg/icon.png?w=278&c=v0.59.26#w100) |[Utorg](/payment-providers/utorg/)|`utorg`| 
+|![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 
  
 
 ## JSON Object 
