@@ -1,5 +1,5 @@
 
-# Epay 
+# ePay 
 ![epay](https://static.openfintech.io/payment_methods/epay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -9,9 +9,9 @@
  
 **Name:** 
  
-:	[EN] Epay 
-:	[RU] Epay 
-:	[UK] Epay 
+:	[EN] ePay 
+:	[RU] ePay 
+:	[UK] ePay 
  
 **Category:** `alternative` 
  
@@ -34,7 +34,7 @@ https://static.openfintech.io/payment_methods/epay/icon.svg?w=278&c=v0.59.26#w10
 
 ## Payment Services 
  
-The list of [Payment Services](/payment-services/) based on the _Epay_ 
+The list of [Payment Services](/payment-services/) based on the _ePay_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -43,7 +43,7 @@ The list of [Payment Services](/payment-services/) based on the _Epay_
 
 ## Payment Providers 
  
-The list of [Payment Providers](/payment-providers/) that support the _Epay_ 
+The list of [Payment Providers](/payment-providers/) that support the _ePay_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -57,9 +57,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Epay_
   "code":"epay",
   "vendor":"epay",
   "name":{
-    "en":"Epay",
-    "ru":"Epay",
-    "uk":"Epay"
+    "en":"ePay",
+    "ru":"ePay",
+    "uk":"ePay"
   },
   "description":null,
   "countries":null,

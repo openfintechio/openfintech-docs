@@ -730,7 +730,7 @@
 |![eManat](https://static.openfintech.io/payment_methods/emanat/logo.png?w=400&c=v0.59.26#w200) |[**eManat**](/payment-methods/emanat/)|[`emanat_azn_hpp`](emanat_azn_hpp/)| 
 |![EOS](https://static.openfintech.io/payment_methods/eos/logo.png?w=400&c=v0.59.26#w200) |[**EOS**](/payment-methods/eos/)|[`eos_eur_hpp`](eos_eur_hpp/)| 
 |![EOS](https://static.openfintech.io/payment_methods/eos/logo.png?w=400&c=v0.59.26#w200) |[**EOS**](/payment-methods/eos/)|[`eos_usd_hpp`](eos_usd_hpp/)| 
-|![Epay](https://static.openfintech.io/payment_methods/epay/logo.svg?w=400&c=v0.59.26#w200) |[**Epay**](/payment-methods/epay/)|[`epay_eur_hpp`](epay_eur_hpp/)| 
+|![ePay](https://static.openfintech.io/payment_methods/epay/logo.svg?w=400&c=v0.59.26#w200) |[**ePay**](/payment-methods/epay/)|[`epay_eur_hpp`](epay_eur_hpp/)| 
 |![ePay.bg](https://static.openfintech.io/payment_methods/epaybg/logo.svg?w=400&c=v0.59.26#w200) |[**ePay.bg**](/payment-methods/epaybg/)|[`epaybg_eur_hpp`](epaybg_eur_hpp/)| 
 |![eps e-payment](https://static.openfintech.io/payment_methods/eps/logo.png?w=400&c=v0.59.26#w200) |[**eps e-payment**](/payment-methods/eps/)|[`eps_eur_hpp`](eps_eur_hpp/)| 
 |![Equitel](https://static.openfintech.io/payment_methods/equitel/logo.png?w=400&c=v0.59.26#w200) |[**Equitel**](/payment-methods/equitel/)|[`equitel_kes_hpp`](equitel_kes_hpp/)| 

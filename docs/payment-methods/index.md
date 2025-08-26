@@ -346,7 +346,7 @@
 |![emanat](https://static.openfintech.io/payment_methods/emanat/logo.png?w=400&c=v0.59.26#w200) |[**eManat**](emanat/)|`emanat`| 
 |![enetsdirectdebit](https://static.openfintech.io/payment_methods/enetsdirectdebit/logo.png?w=400&c=v0.59.26#w200) |[**eNETS Direct Debit**](enetsdirectdebit/)|`enetsdirectdebit`| 
 |![eos](https://static.openfintech.io/payment_methods/eos/logo.png?w=400&c=v0.59.26#w200) |[**EOS**](eos/)|`eos`| 
-|![epay](https://static.openfintech.io/payment_methods/epay/logo.svg?w=400&c=v0.59.26#w200) |[**Epay**](epay/)|`epay`| 
+|![epay](https://static.openfintech.io/payment_methods/epay/logo.svg?w=400&c=v0.59.26#w200) |[**ePay**](epay/)|`epay`| 
 |![epaybg](https://static.openfintech.io/payment_methods/epaybg/logo.svg?w=400&c=v0.59.26#w200) |[**ePay.bg**](epaybg/)|`epaybg`| 
 |![epayua](https://static.openfintech.io/payment_methods/epayua/logo.png?w=400&c=v0.59.26#w200) |[**E-Pay**](epayua/)|`epayua`| 
 |![epese](https://static.openfintech.io/payment_methods/epese/logo.png?w=400&c=v0.59.26#w200) |[**Epese**](epese/)|`epese`| 

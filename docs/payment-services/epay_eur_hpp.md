@@ -1,5 +1,5 @@
 
-# Epay (service) 
+# ePay (service) 
 ![epay_eur_hpp](https://static.openfintech.io/payment_methods/epay_eur_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -13,9 +13,9 @@
  
 **Name:** 
  
-:	[EN] Epay 
-:	[RU] Epay 
-:	[UK] Epay 
+:	[EN] ePay 
+:	[RU] ePay 
+:	[UK] ePay 
  
 **Amount limits:** from `0.01` to `100000` EUR 
 
