@@ -693,6 +693,12 @@
 |![Dong A Bank Qr](https://static.openfintech.io/payment_methods/dong_a_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Dong A Bank Qr**](/payment-methods/dong_a_bank_qr/)|[`dong_a_bank_qr_vnd_invoice`](dong_a_bank_qr_vnd_invoice/)| 
 |![Dong A Bank](https://static.openfintech.io/payment_methods/dong_a_bank/logo.png?w=400&c=v0.59.26#w200) |[**Dong A Bank**](/payment-methods/dong_a_bank/)|[`dong_a_bank_vnd_hpp`](dong_a_bank_vnd_hpp/)| 
 |![DragonPay](https://static.openfintech.io/payment_methods/dragonpay/logo.svg?w=400&c=v0.59.26#w200) |[**DragonPay**](/payment-methods/dragonpay/)|[`dragonpay_php_hpp`](dragonpay_php_hpp/)| 
+|![DragonTech](https://static.openfintech.io/payment_methods/dragontech/logo.png?w=400&c=v0.59.26#w200) |[**DragonTech**](/payment-methods/dragontech/)|[`dragontech_ars_hpp`](dragontech_ars_hpp/)| 
+|![DragonTech](https://static.openfintech.io/payment_methods/dragontech/logo.png?w=400&c=v0.59.26#w200) |[**DragonTech**](/payment-methods/dragontech/)|[`dragontech_clp_hpp`](dragontech_clp_hpp/)| 
+|![DragonTech](https://static.openfintech.io/payment_methods/dragontech/logo.png?w=400&c=v0.59.26#w200) |[**DragonTech**](/payment-methods/dragontech/)|[`dragontech_cop_hpp`](dragontech_cop_hpp/)| 
+|![DragonTech](https://static.openfintech.io/payment_methods/dragontech/logo.png?w=400&c=v0.59.26#w200) |[**DragonTech**](/payment-methods/dragontech/)|[`dragontech_eur_hpp`](dragontech_eur_hpp/)| 
+|![DragonTech](https://static.openfintech.io/payment_methods/dragontech/logo.png?w=400&c=v0.59.26#w200) |[**DragonTech**](/payment-methods/dragontech/)|[`dragontech_mxn_hpp`](dragontech_mxn_hpp/)| 
+|![DragonTech](https://static.openfintech.io/payment_methods/dragontech/logo.png?w=400&c=v0.59.26#w200) |[**DragonTech**](/payment-methods/dragontech/)|[`dragontech_usd_hpp`](dragontech_usd_hpp/)| 
 |![DuitNow](https://static.openfintech.io/payment_methods/duitnow/logo.png?w=400&c=v0.59.26#w200) |[**DuitNow**](/payment-methods/duitnow/)|[`duitnow_myr_hpp`](duitnow_myr_hpp/)| 
 |![Dutch-Bangla Bank Rocket](https://static.openfintech.io/payment_methods/dutch_bangla_bank_limited_rocket/logo.png?w=400&c=v0.59.26#w200) |[**Dutch-Bangla Bank Rocket**](/payment-methods/dutch_bangla_bank_limited_rocket/)|[`dutch_bangla_bank_limited_rocket_bdt_hpp`](dutch_bangla_bank_limited_rocket_bdt_hpp/)| 
 ||| **E** ||

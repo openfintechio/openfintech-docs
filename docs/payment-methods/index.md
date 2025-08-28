@@ -326,6 +326,7 @@
 |![dong_a_bank](https://static.openfintech.io/payment_methods/dong_a_bank/logo.png?w=400&c=v0.59.26#w200) |[**Dong A Bank**](dong_a_bank/)|`dong_a_bank`| 
 |![dong_a_bank_qr](https://static.openfintech.io/payment_methods/dong_a_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Dong A Bank Qr**](dong_a_bank_qr/)|`dong_a_bank_qr`| 
 |![dragonpay](https://static.openfintech.io/payment_methods/dragonpay/logo.svg?w=400&c=v0.59.26#w200) |[**DragonPay**](dragonpay/)|`dragonpay`| 
+|![dragontech](https://static.openfintech.io/payment_methods/dragontech/logo.png?w=400&c=v0.59.26#w200) |[**DragonTech**](dragontech/)|`dragontech`| 
 |![duitnow](https://static.openfintech.io/payment_methods/duitnow/logo.png?w=400&c=v0.59.26#w200) |[**DuitNow**](duitnow/)|`duitnow`| 
 |![dutch_bangla_bank_limited_rocket](https://static.openfintech.io/payment_methods/dutch_bangla_bank_limited_rocket/logo.png?w=400&c=v0.59.26#w200) |[**Dutch-Bangla Bank Rocket**](dutch_bangla_bank_limited_rocket/)|`dutch_bangla_bank_limited_rocket`| 
 |![dwolla](https://static.openfintech.io/payment_methods/dwolla/logo.svg?w=400&c=v0.59.26#w200) |[**Dwolla**](dwolla/)|`dwolla`| 

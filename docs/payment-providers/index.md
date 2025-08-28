@@ -287,6 +287,7 @@
 |![doku](https://static.openfintech.io/payment_providers/doku/logo.png?w=600&c=v0.59.26#w100) |[**DOKU**](doku/)|`doku`| 
 |![dotpay](https://static.openfintech.io/payment_providers/dotpay/logo.png?w=600&c=v0.59.26#w100) |[**Dotpay**](dotpay/)|`dotpay`| 
 |![dragonpay](https://static.openfintech.io/payment_providers/dragonpay/logo.png?w=600&c=v0.59.26#w100) |[**Dragonpay**](dragonpay/)|`dragonpay`| 
+|![dragontech](https://static.openfintech.io/payment_providers/dragontech/logo.png?w=600&c=v0.59.26#w100) |[**Dragon**](dragontech/)|`dragontech`| 
 |![dropayment](https://static.openfintech.io/payment_providers/dropayment/logo.svg?w=600&c=v0.59.26#w100) |[**Dropayment**](dropayment/)|`dropayment`| 
 |![dst](https://static.openfintech.io/payment_providers/dst/logo.svg?w=600&c=v0.59.26#w100) |[**DeStream**](dst/)|`dst`| 
 |![dusupay](https://static.openfintech.io/payment_providers/dusupay/logo.png?w=600&c=v0.59.26#w100) |[**Dusupay**](dusupay/)|`dusupay`| 
