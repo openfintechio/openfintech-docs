@@ -30,13 +30,13 @@ https://static.openfintech.io/payment_methods/pagomovil/logo.png?w=400&c=v0.59.2
 https://static.openfintech.io/payment_methods/pagomovil/icon.png?w=278&c=v0.59.26#w100
 ```  
 
-## Payout Services 
+## Payment Services 
  
-The list of [Payout Services](/payout-services/) based on the _PagoMóvil_ 
+The list of [Payment Services](/payment-services/) based on the _PagoMóvil_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![pagomovil](https://static.openfintech.io/payout_methods/pagomovil/icon.png?w=278&c=v0.59.26#w40) |[pagomovil_ves](/payout-services/pagomovil_ves/)|`pagomovil_ves`| 
+|![pagomovil](https://static.openfintech.io/payment_methods/pagomovil/icon.png?w=278&c=v0.59.26#w100) |[pagomovil_ves_invoice](/payment-services/pagomovil_ves_invoice/)|`pagomovil_ves_invoice`| 
  
 
 ## JSON Object 

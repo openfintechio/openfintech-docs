@@ -657,6 +657,7 @@
 |![pagoefectivo](https://static.openfintech.io/payment_methods/pagoefectivo/logo.png?w=400&c=v0.59.26#w200) |[**PagoEfectivo**](pagoefectivo/)|`pagoefectivo`| 
 |![pagoefectivo_cip](https://static.openfintech.io/payment_methods/pagoefectivo_cip/logo.svg?w=400&c=v0.59.26#w200) |[**PagoEfectivo CIP**](pagoefectivo_cip/)|`pagoefectivo_cip`| 
 |![pagofacil](https://static.openfintech.io/payment_methods/pagofacil/logo.png?w=400&c=v0.59.26#w200) |[**Pagofacil**](pagofacil/)|`pagofacil`| 
+|![pagomovil](https://static.openfintech.io/payment_methods/pagomovil/logo.png?w=400&c=v0.59.26#w200) |[**PagoMóvil**](pagomovil/)|`pagomovil`| 
 |![pagorapido](https://static.openfintech.io/payment_methods/pagorapido/logo.png?w=400&c=v0.59.26#w200) |[**PagoRapido**](pagorapido/)|`pagorapido`| 
 |![pagseguro](https://static.openfintech.io/payment_methods/pagseguro/logo.png?w=400&c=v0.59.26#w200) |[**PagSeguro**](pagseguro/)|`pagseguro`| 
 |![palawan_pawnshop](https://static.openfintech.io/payment_methods/palawan_pawnshop/logo.svg?w=400&c=v0.59.26#w200) |[**Palawan Pawnshop**](palawan_pawnshop/)|`palawan_pawnshop`| 

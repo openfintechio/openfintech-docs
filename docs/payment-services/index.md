@@ -1276,6 +1276,7 @@
 |![PagoEfectivo](https://static.openfintech.io/payment_methods/pagoefectivo/logo.png?w=400&c=v0.59.26#w200) |[**PagoEfectivo**](/payment-methods/pagoefectivo/)|[`pagoefectivo_pen_hpp`](pagoefectivo_pen_hpp/)| 
 |![Pagofacil](https://static.openfintech.io/payment_methods/pagofacil/logo.png?w=400&c=v0.59.26#w200) |[**Pagofacil**](/payment-methods/pagofacil/)|[`pagofacil_ars_hpp`](pagofacil_ars_hpp/)| 
 |![Pagofacil](https://static.openfintech.io/payment_methods/pagofacil/logo.png?w=400&c=v0.59.26#w200) |[**Pagofacil**](/payment-methods/pagofacil/)|[`pagofacil_bob_hpp`](pagofacil_bob_hpp/)| 
+|![PagoMóvil](https://static.openfintech.io/payment_methods/pagomovil/logo.png?w=400&c=v0.59.26#w200) |[**PagoMóvil**](/payment-methods/pagomovil/)|[`pagomovil_ves_invoice`](pagomovil_ves_invoice/)| 
 |![Palawan Pawnshop](https://static.openfintech.io/payment_methods/palawan_pawnshop/logo.svg?w=400&c=v0.59.26#w200) |[**Palawan Pawnshop**](/payment-methods/palawan_pawnshop/)|[`palawan_pawnshop_php_hpp`](palawan_pawnshop_php_hpp/)| 
 |![Palmpay](https://static.openfintech.io/payment_methods/palmpay/logo.png?w=400&c=v0.59.26#w200) |[**Palmpay**](/payment-methods/palmpay/)|[`palmpay_ngn_hpp`](palmpay_ngn_hpp/)| 
 |![Panin Bank](https://static.openfintech.io/payment_methods/panin_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Panin Bank**](/payment-methods/panin_bank/)|[`panin_bank_idr_hpp`](panin_bank_idr_hpp/)| 
