@@ -1,5 +1,5 @@
 
-# Dragon 
+# DragonTech 
 ![dragontech](https://static.openfintech.io/payment_providers/dragontech/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Dragon 
-:	[RU] Dragon 
-:	[UK] Dragon 
+:	[EN] DragonTech 
+:	[RU] DragonTech 
+:	[UK] DragonTech 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"Dragon",
-    "ru":"Dragon",
-    "uk":"Dragon"
+    "en":"DragonTech",
+    "ru":"DragonTech",
+    "uk":"DragonTech"
   }
 }
 ```  

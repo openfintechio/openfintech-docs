@@ -1,5 +1,5 @@
 
-# Dragon 
+# DragonTech 
 ![dragontech](https://static.openfintech.io/vendors/dragontech/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Dragon 
-:	[RU] Dragon 
-:	[UK] Dragon 
+:	[EN] DragonTech 
+:	[RU] DragonTech 
+:	[UK] DragonTech 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/dragontech/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"dragontech",
   "name":{
-    "en":"Dragon",
-    "ru":"Dragon",
-    "uk":"Dragon"
+    "en":"DragonTech",
+    "ru":"DragonTech",
+    "uk":"DragonTech"
   },
   "status":"active",
   "description":null,

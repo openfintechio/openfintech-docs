@@ -52,7 +52,7 @@ The list of [Payment Providers](/payment-providers/) that support the _DragonTec
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![dragontech](https://static.openfintech.io/payment_providers/dragontech/icon.png?w=278&c=v0.59.26#w100) |[Dragon](/payment-providers/dragontech/)|`dragontech`| 
+|![dragontech](https://static.openfintech.io/payment_providers/dragontech/icon.png?w=278&c=v0.59.26#w100) |[DragonTech](/payment-providers/dragontech/)|`dragontech`| 
  
 
 ## JSON Object 
