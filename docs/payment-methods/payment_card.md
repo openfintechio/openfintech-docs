@@ -612,6 +612,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![omno](https://static.openfintech.io/payment_providers/omno/icon.png?w=278&c=v0.59.26#w100) |[OMNO](/payment-providers/omno/)|`omno`| 
 |![aeteredge](https://static.openfintech.io/payment_providers/aeteredge/icon.svg?w=278&c=v0.59.26#w100) |[AeterEdge](/payment-providers/aeteredge/)|`aeteredge`| 
 |![paytorapayment](https://static.openfintech.io/payment_providers/paytorapayment/icon.png?w=278&c=v0.59.26#w100) |[PaytoraPayment](/payment-providers/paytorapayment/)|`paytorapayment`| 
+|![yardpay](https://static.openfintech.io/payment_providers/yardpay/icon.png?w=278&c=v0.59.26#w100) |[YardPay](/payment-providers/yardpay/)|`yardpay`| 
 |![paytently](https://static.openfintech.io/payment_providers/paytently/icon.svg?w=278&c=v0.59.26#w100) |[Paytently](/payment-providers/paytently/)|`paytently`| 
 |![paystrax](https://static.openfintech.io/payment_providers/paystrax/icon.png?w=278&c=v0.59.26#w100) |[Paystrax](/payment-providers/paystrax/)|`paystrax`| 
 |![spectrepayments](https://static.openfintech.io/payment_providers/spectrepayments/icon.png?w=278&c=v0.59.26#w100) |[Spectre Payments](/payment-providers/spectrepayments/)|`spectrepayments`| 

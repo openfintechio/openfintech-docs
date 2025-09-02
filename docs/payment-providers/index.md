@@ -577,6 +577,7 @@
 |![mozcompayeasy](https://static.openfintech.io/payment_providers/mozcompayeasy/logo.png?w=600&c=v0.59.26#w100) |[**Mozcom PayEasy**](mozcompayeasy/)|`mozcompayeasy`| 
 |![mpay24](https://static.openfintech.io/payment_providers/mpay24/logo.png?w=600&c=v0.59.26#w100) |[**mPay24**](mpay24/)|`mpay24`| 
 |![mtb](https://static.openfintech.io/payment_providers/mtb/logo.svg?w=600&c=v0.59.26#w100) |[**MTB**](mtb/)|`mtb`| 
+|![mtb2](https://static.openfintech.io/payment_providers/mtb2/logo.svg?w=600&c=v0.59.26#w100) |[**MTB2**](mtb2/)|`mtb2`| 
 |![mtbbank](https://static.openfintech.io/payment_providers/mtbbank/logo.svg?w=600&c=v0.59.26#w100) |[**MTB Bank**](mtbbank/)|`mtbbank`| 
 |![muchbetter](https://static.openfintech.io/payment_providers/muchbetter/logo.svg?w=600&c=v0.59.26#w100) |[**MuchBetter**](muchbetter/)|`muchbetter`| 
 |![multicards](https://static.openfintech.io/payment_providers/multicards/logo.png?w=600&c=v0.59.26#w100) |[**MultiCards Internet Billing**](multicards/)|`multicards`| 
@@ -1126,6 +1127,7 @@
 |![yapily](https://static.openfintech.io/payment_providers/yapily/logo.png?w=600&c=v0.59.26#w100) |[**Yapily**](yapily/)|`yapily`| 
 |![yapital](https://static.openfintech.io/payment_providers/yapital/logo.png?w=600&c=v0.59.26#w100) |[**Yapital**](yapital/)|`yapital`| 
 |![yapstone](https://static.openfintech.io/payment_providers/yapstone/logo.png?w=600&c=v0.59.26#w100) |[**YapStone**](yapstone/)|`yapstone`| 
+|![yardpay](https://static.openfintech.io/payment_providers/yardpay/logo.png?w=600&c=v0.59.26#w100) |[**YardPay**](yardpay/)|`yardpay`| 
 |![yeepay](https://static.openfintech.io/payment_providers/yeepay/logo.png?w=600&c=v0.59.26#w100) |[**YeePay**](yeepay/)|`yeepay`| 
 |![yelopay](https://static.openfintech.io/payment_providers/yelopay/logo.png?w=600&c=v0.59.26#w100) |[**YeloPay**](yelopay/)|`yelopay`| 
 |![yotta](https://static.openfintech.io/payment_providers/yotta/logo.svg?w=600&c=v0.59.26#w100) |[**Yotta**](yotta/)|`yotta`| 

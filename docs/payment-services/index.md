@@ -1143,6 +1143,7 @@
 |![Monobank](https://static.openfintech.io/payment_methods/monobank/logo.png?w=400&c=v0.59.26#w200) |[**Monobank**](/payment-methods/monobank/)|[`monobank_uah_invoice`](monobank_uah_invoice/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`moviicard3dsin_cop_hpp`](moviicard3dsin_cop_hpp/)| 
 |![Moviired](https://static.openfintech.io/payment_methods/moviired/logo.svg?w=400&c=v0.59.26#w200) |[**Moviired**](/payment-methods/moviired/)|[`moviired_cop_hpp`](moviired_cop_hpp/)| 
+|![MTB](https://static.openfintech.io/payment_methods/mtb/logo.svg?w=400&c=v0.59.26#w200) |[**MTB**](/payment-methods/mtb/)|[`mtb_uah_invoice`](mtb_uah_invoice/)| 
 |![MTN](https://static.openfintech.io/payment_methods/mtn/logo.svg?w=400&c=v0.59.26#w200) |[**MTN**](/payment-methods/mtn/)|[`mtn_ghs_hpp`](mtn_ghs_hpp/)| 
 |![MTN](https://static.openfintech.io/payment_methods/mtn/logo.svg?w=400&c=v0.59.26#w200) |[**MTN**](/payment-methods/mtn/)|[`mtn_ghs_invoice`](mtn_ghs_invoice/)| 
 |![MTN Group](https://static.openfintech.io/payment_methods/mtn_group/logo.png?w=400&c=v0.59.26#w200) |[**MTN Group**](/payment-methods/mtn_group/)|[`mtn_group_ghs_hpp`](mtn_group_ghs_hpp/)| 

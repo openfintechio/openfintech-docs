@@ -2429,6 +2429,7 @@
 |![yapily](https://static.openfintech.io/vendors/yapily/logo.png?w=600&c=v0.59.26#w200) |[**Yapily**](yapily/)|`yapily`| 
 |![yapital](https://static.openfintech.io/vendors/yapital/logo.png?w=600&c=v0.59.26#w200) |[**Yapital**](yapital/)|`yapital`| 
 |![yapstone](https://static.openfintech.io/vendors/yapstone/logo.png?w=600&c=v0.59.26#w200) |[**YapStone**](yapstone/)|`yapstone`| 
+|![yardpay](https://static.openfintech.io/vendors/yardpay/logo.png?w=600&c=v0.59.26#w200) |[**YardPay**](yardpay/)|`yardpay`| 
 |![yeepay](https://static.openfintech.io/vendors/yeepay/logo.png?w=600&c=v0.59.26#w200) |[**YeePay**](yeepay/)|`yeepay`| 
 |![yelopay](https://static.openfintech.io/vendors/yelopay/logo.png?w=600&c=v0.59.26#w200) |[**YeloPay**](yelopay/)|`yelopay`| 
 |![yobit_net](https://static.openfintech.io/vendors/yobit_net/logo.svg?w=600&c=v0.59.26#w200) |[**yobit.net**](yobit_net/)|`yobit_net`| 
