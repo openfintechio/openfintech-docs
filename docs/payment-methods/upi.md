@@ -50,6 +50,7 @@ The list of [Payment Providers](/payment-providers/) that support the _UPI_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
+|![unityfinance](https://static.openfintech.io/payment_providers/unityfinance/icon.svg?w=278&c=v0.59.26#w100) |[Unity Finance](/payment-providers/unityfinance/)|`unityfinance`| 
 |![razorpay](https://static.openfintech.io/payment_providers/razorpay/icon.svg?w=278&c=v0.59.26#w100) |[Razorpay](/payment-providers/razorpay/)|`razorpay`| 
 |![changecoins](https://static.openfintech.io/payment_providers/changecoins/icon.png?w=278&c=v0.59.26#w100) |[Сhangecoins Pay](/payment-providers/changecoins/)|`changecoins`| 
 |![decard](https://static.openfintech.io/payment_providers/decard/icon.svg?w=278&c=v0.59.26#w100) |[Decard](/payment-providers/decard/)|`decard`| 

@@ -97,6 +97,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |:---:|:---:|:---:| 
 |![zotapay](https://static.openfintech.io/payment_providers/zotapay/icon.png?w=278&c=v0.59.26#w100) |[Zotapay](/payment-providers/zotapay/)|`zotapay`| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
+|![unityfinance](https://static.openfintech.io/payment_providers/unityfinance/icon.svg?w=278&c=v0.59.26#w100) |[Unity Finance](/payment-providers/unityfinance/)|`unityfinance`| 
 |![certusfinance](https://static.openfintech.io/payment_providers/certusfinance/icon.png?w=278&c=v0.59.26#w100) |[Certus Finance](/payment-providers/certusfinance/)|`certusfinance`| 
 |![klasha](https://static.openfintech.io/payment_providers/klasha/icon.png?w=278&c=v0.59.26#w100) |[Klasha](/payment-providers/klasha/)|`klasha`| 
 |![changecoins](https://static.openfintech.io/payment_providers/changecoins/icon.png?w=278&c=v0.59.26#w100) |[Сhangecoins Pay](/payment-providers/changecoins/)|`changecoins`| 
