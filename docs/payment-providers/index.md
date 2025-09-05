@@ -986,6 +986,7 @@
 |![swisssecurepayment](https://static.openfintech.io/payment_providers/swisssecurepayment/logo.png?w=600&c=v0.59.26#w100) |[**Swiss Secure Payment™**](swisssecurepayment/)|`swisssecurepayment`| 
 |![symoco](https://static.openfintech.io/payment_providers/symoco/logo.png?w=600&c=v0.59.26#w100) |[**Symoco**](symoco/)|`symoco`| 
 || **T** ||
+|![takapayjazzcash](https://static.openfintech.io/payment_providers/takapayjazzcash/logo.png?w=600&c=v0.59.26#w100) |[**TakapayJazzCash**](takapayjazzcash/)|`takapayjazzcash`| 
 |![tapanapi](https://static.openfintech.io/payment_providers/tapanapi/logo.svg?w=600&c=v0.59.26#w100) |[**TapAnApi**](tapanapi/)|`tapanapi`| 
 |![tapbank](https://static.openfintech.io/payment_providers/tapbank/logo.png?w=600&c=v0.59.26#w100) |[**TapBank**](tapbank/)|`tapbank`| 
 |![targetpay](https://static.openfintech.io/payment_providers/targetpay/logo.png?w=600&c=v0.59.26#w100) |[**Targetpay.com**](targetpay/)|`targetpay`| 

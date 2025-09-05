@@ -53,6 +53,7 @@ The list of [Payment Providers](/payment-providers/) that support the _JazzCash_
 |![gamespay](https://static.openfintech.io/payment_providers/gamespay/icon.svg?w=278&c=v0.59.26#w100) |[PayGames](/payment-providers/gamespay/)|`gamespay`| 
 |![blueworld](https://static.openfintech.io/payment_providers/blueworld/icon.png?w=278&c=v0.59.26#w100) |[Blue World](/payment-providers/blueworld/)|`blueworld`| 
 |![cashix](https://static.openfintech.io/payment_providers/cashix/icon.png?w=278&c=v0.59.26#w100) |[Cashix](/payment-providers/cashix/)|`cashix`| 
+|![takapayjazzcash](https://static.openfintech.io/payment_providers/takapayjazzcash/icon.png?w=278&c=v0.59.26#w100) |[TakapayJazzCash](/payment-providers/takapayjazzcash/)|`takapayjazzcash`| 
  
 
 ## JSON Object 

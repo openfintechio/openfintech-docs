@@ -2106,6 +2106,7 @@
 |![taiko_bank](https://static.openfintech.io/vendors/taiko_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Taiko Bank**](taiko_bank/)|`taiko_bank`| 
 |![taisho_bank](https://static.openfintech.io/vendors/taisho_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Taisho Bank**](taisho_bank/)|`taisho_bank`| 
 |![tajima_bank](https://static.openfintech.io/vendors/tajima_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Tajima Bank**](tajima_bank/)|`tajima_bank`| 
+|![takapayjazzcash](https://static.openfintech.io/vendors/takapayjazzcash/logo.png?w=600&c=v0.59.26#w200) |[**TakapayJazzCash**](takapayjazzcash/)|`takapayjazzcash`| 
 |![tama_shinkin_bank](https://static.openfintech.io/vendors/tama_shinkin_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Tama Shinkin Bank**](tama_shinkin_bank/)|`tama_shinkin_bank`| 
 |![tapanapi](https://static.openfintech.io/vendors/tapanapi/logo.svg?w=600&c=v0.59.26#w200) |[**TapAnApi**](tapanapi/)|`tapanapi`| 
 |![tapbank](https://static.openfintech.io/vendors/tapbank/logo.png?w=600&c=v0.59.26#w200) |[**TapBank**](tapbank/)|`tapbank`| 
