@@ -1445,6 +1445,7 @@
 |![otpbank](https://static.openfintech.io/vendors/otpbank/logo.png?w=600&c=v0.59.26#w200) |[**OTP Bank**](otpbank/)|`otpbank`| 
 |![overpay](https://static.openfintech.io/vendors/overpay/logo.svg?w=600&c=v0.59.26#w200) |[**Overpay**](overpay/)|`overpay`| 
 |![oxxo](https://static.openfintech.io/vendors/oxxo/logo.svg?w=600&c=v0.59.26#w200) |[**Oxxo**](oxxo/)|`oxxo`| 
+|![ozow](https://static.openfintech.io/vendors/ozow/logo.png?w=600&c=v0.59.26#w200) |[**Ozow**](ozow/)|`ozow`| 
 || **P** ||
 |![p2pchange.is](https://static.openfintech.io/vendors/p2pchange.is/logo.svg?w=600&c=v0.59.26#w200) |[**P2PChange**](p2pchange.is/)|`p2pchange.is`| 
 |![paddle](https://static.openfintech.io/vendors/paddle/logo.png?w=600&c=v0.59.26#w200) |[**Paddle**](paddle/)|`paddle`| 

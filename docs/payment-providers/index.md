@@ -647,6 +647,7 @@
 |![orbitalpay](https://static.openfintech.io/payment_providers/orbitalpay/logo.png?w=600&c=v0.59.26#w100) |[**OrbitalPay**](orbitalpay/)|`orbitalpay`| 
 |![orbitcardservices](https://static.openfintech.io/payment_providers/orbitcardservices/logo.png?w=600&c=v0.59.26#w100) |[**Orbit Card Services**](orbitcardservices/)|`orbitcardservices`| 
 |![overpay](https://static.openfintech.io/payment_providers/overpay/logo.svg?w=600&c=v0.59.26#w100) |[**Overpay**](overpay/)|`overpay`| 
+|![ozow](https://static.openfintech.io/payment_providers/ozow/logo.png?w=600&c=v0.59.26#w100) |[**Ozow**](ozow/)|`ozow`| 
 || **P** ||
 |![paddle](https://static.openfintech.io/payment_providers/paddle/logo.png?w=600&c=v0.59.26#w100) |[**Paddle**](paddle/)|`paddle`| 
 |![pagantis](https://static.openfintech.io/payment_providers/pagantis/logo.png?w=600&c=v0.59.26#w100) |[**Pagantis**](pagantis/)|`pagantis`| 

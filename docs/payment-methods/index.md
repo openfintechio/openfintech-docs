@@ -226,6 +226,7 @@
 |![calypso_pay_ltd_gateexpress](https://static.openfintech.io/payment_methods/calypso_pay_ltd_gateexpress/logo.svg?w=400&c=v0.59.26#w200) |[**CALYPSO PAY LTD - GateExpress**](calypso_pay_ltd_gateexpress/)|`calypso_pay_ltd_gateexpress`| 
 |![canara_bank](https://static.openfintech.io/payment_methods/canara_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Canara Bank**](canara_bank/)|`canara_bank`| 
 |![capayable](https://static.openfintech.io/payment_methods/capayable/logo.png?w=400&c=v0.59.26#w200) |[**Capayable**](capayable/)|`capayable`| 
+|![capitec_pay](https://static.openfintech.io/payment_methods/capitec_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Capitec Pay**](capitec_pay/)|`capitec_pay`| 
 |![card](https://static.openfintech.io/payment_methods/card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](card/)|`card`| 
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Card transfer**](card_transfer/)|`card_transfer`| 
 |![card_transfer_aggregated](https://static.openfintech.io/payment_methods/card_transfer_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**Сard Transfer Aggregated**](card_transfer_aggregated/)|`card_transfer_aggregated`| 
