@@ -48,6 +48,8 @@ The list of [Payment Services](/payment-services/) based on the _Mobile_
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_pkr_invoice](/payment-services/mobile_pkr_invoice/)|`mobile_pkr_invoice`| 
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_egp_invoice](/payment-services/mobile_egp_invoice/)|`mobile_egp_invoice`| 
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_ugx_invoice](/payment-services/mobile_ugx_invoice/)|`mobile_ugx_invoice`| 
+|![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_kes_invoice](/payment-services/mobile_kes_invoice/)|`mobile_kes_invoice`| 
+|![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_ghs_invoice](/payment-services/mobile_ghs_invoice/)|`mobile_ghs_invoice`| 
  
 
 ## Payment Providers 

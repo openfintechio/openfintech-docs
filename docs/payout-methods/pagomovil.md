@@ -39,6 +39,15 @@ The list of [Payout Services](/payout-services/) based on the _PagoMóvil_
 |![pagomovil](https://static.openfintech.io/payout_methods/pagomovil/icon.png?w=278&c=v0.59.26#w40) |[pagomovil_ves](/payout-services/pagomovil_ves/)|`pagomovil_ves`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _PagoMóvil_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![payelu](https://static.openfintech.io/payment_providers/payelu/icon.png?w=278&c=v0.59.26#w100) |[Payelu](/payment-providers/payelu/)|`payelu`| 
+ 
+
 ## JSON Object 
 
 ```json
