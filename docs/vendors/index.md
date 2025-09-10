@@ -474,7 +474,7 @@
 |![changer4u](https://static.openfintech.io/vendors/changer4u/logo.svg?w=600&c=v0.59.26#w200) |[**Changer4u**](changer4u/)|`changer4u`| 
 |![chargemoney](https://static.openfintech.io/vendors/chargemoney/logo.png?w=600&c=v0.59.26#w200) |[**ChargeMoney**](chargemoney/)|`chargemoney`| 
 |![charityclear](https://static.openfintech.io/vendors/charityclear/logo.png?w=600&c=v0.59.26#w200) |[**CharityClear**](charityclear/)|`charityclear`| 
-|![chasepaymentech](https://static.openfintech.io/vendors/chasepaymentech/logo.png?w=600&c=v0.59.26#w200) |[**J.P. Morgan Commerce Solutions**](chasepaymentech/)|`chasepaymentech`| 
+|![chasepaymentech](https://static.openfintech.io/vendors/chasepaymentech/logo.svg?w=600&c=v0.59.26#w200) |[**Chase**](chasepaymentech/)|`chasepaymentech`| 
 |![checkalt](https://static.openfintech.io/vendors/checkalt/logo.png?w=600&c=v0.59.26#w200) |[**CheckAlt Payment Solutions**](checkalt/)|`checkalt`| 
 |![checkoutbyamazon](https://static.openfintech.io/vendors/checkoutbyamazon/logo.svg?w=600&c=v0.59.26#w200) |[**Amazon Payments**](checkoutbyamazon/)|`checkoutbyamazon`| 
 |![checkoutcom](https://static.openfintech.io/vendors/checkoutcom/logo.svg?w=600&c=v0.59.26#w200) |[**Checkout.com**](checkoutcom/)|`checkoutcom`| 

@@ -1,6 +1,6 @@
 
-# J.P. Morgan Commerce Solutions 
-![chasepaymentech](https://static.openfintech.io/payment_providers/chasepaymentech/logo.png?w=400&c=v0.59.26#w100)  
+# Chase 
+![chasepaymentech](https://static.openfintech.io/payment_providers/chasepaymentech/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -10,25 +10,27 @@
  
 **Name:** 
  
-:	[EN] J.P. Morgan Commerce Solutions 
+:	[EN] Chase 
+:	[RU] Chase 
+:	[UK] Chase 
  
 
 ## Images 
 
 ### Logo 
  
-![chasepaymentech](https://static.openfintech.io/payment_providers/chasepaymentech/logo.png?w=400&c=v0.59.26#w100)  
+![chasepaymentech](https://static.openfintech.io/payment_providers/chasepaymentech/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/chasepaymentech/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/chasepaymentech/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![chasepaymentech](https://static.openfintech.io/payment_providers/chasepaymentech/icon.png?w=278&c=v0.59.26#w100)  
+![chasepaymentech](https://static.openfintech.io/payment_providers/chasepaymentech/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/chasepaymentech/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/chasepaymentech/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 
@@ -46,7 +48,9 @@ https://static.openfintech.io/payment_providers/chasepaymentech/icon.png?w=278&c
     "about_payments_code":"chasepaymentech"
   },
   "name":{
-    "en":"J.P. Morgan Commerce Solutions"
+    "en":"Chase",
+    "ru":"Chase",
+    "uk":"Chase"
   }
 }
 ```  

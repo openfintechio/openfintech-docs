@@ -47,7 +47,6 @@ The list of supported [Payment Methods](/payment-methods/)
 |:---:|:---:|:---:| 
 |![china_citic_bank](https://static.openfintech.io/payment_methods/china_citic_bank/icon.svg?w=278&c=v0.59.26#w100) |[china_citic_bank](/payment-methods/china_citic_bank/)|`china_citic_bank`| 
 |![industrial_bank](https://static.openfintech.io/payment_methods/industrial_bank/icon.svg?w=278&c=v0.59.26#w100) |[industrial_bank](/payment-methods/industrial_bank/)|`industrial_bank`| 
-|![china_guangfa_bank](https://static.openfintech.io/payment_methods/china_guangfa_bank/icon.png?w=278&c=v0.59.26#w100) |[china_guangfa_bank](/payment-methods/china_guangfa_bank/)|`china_guangfa_bank`| 
 |![china_merchants_bank](https://static.openfintech.io/payment_methods/china_merchants_bank/icon.svg?w=278&c=v0.59.26#w100) |[china_merchants_bank](/payment-methods/china_merchants_bank/)|`china_merchants_bank`| 
 |![china_postal_savings_bank](https://static.openfintech.io/payment_methods/china_postal_savings_bank/icon.svg?w=278&c=v0.59.26#w100) |[china_postal_savings_bank](/payment-methods/china_postal_savings_bank/)|`china_postal_savings_bank`| 
 |![bank_of_china](https://static.openfintech.io/payment_methods/bank_of_china/icon.svg?w=278&c=v0.59.26#w100) |[bank_of_china](/payment-methods/bank_of_china/)|`bank_of_china`| 
@@ -138,7 +137,6 @@ The list of supported [Payout Methods](/payout-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![china_citic_bank](https://static.openfintech.io/payout_methods/china_citic_bank/icon.svg?w=278&c=v0.59.26#w40) |[china_citic_bank](payout-methodschina_citic_bank/)|`china_citic_bank`| 
-|![china_guangfa_bank](https://static.openfintech.io/payout_methods/china_guangfa_bank/icon.png?w=278&c=v0.59.26#w40) |[china_guangfa_bank](payout-methodschina_guangfa_bank/)|`china_guangfa_bank`| 
 |![china_merchants_bank](https://static.openfintech.io/payout_methods/china_merchants_bank/icon.svg?w=278&c=v0.59.26#w40) |[china_merchants_bank](payout-methodschina_merchants_bank/)|`china_merchants_bank`| 
 |![bank_of_china](https://static.openfintech.io/payout_methods/bank_of_china/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_china](payout-methodsbank_of_china/)|`bank_of_china`| 
 |![agricultural_bank_of_china](https://static.openfintech.io/payout_methods/agricultural_bank_of_china/icon.svg?w=278&c=v0.59.26#w40) |[agricultural_bank_of_china](payout-methodsagricultural_bank_of_china/)|`agricultural_bank_of_china`| 
@@ -159,8 +157,6 @@ The list of supported [Payout Methods](/payout-methods/)
 |![bank_of_shanghai](https://static.openfintech.io/payout_methods/bank_of_shanghai/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_shanghai](payout-methodsbank_of_shanghai/)|`bank_of_shanghai`| 
 |![huishang_bank](https://static.openfintech.io/payout_methods/huishang_bank/icon.svg?w=278&c=v0.59.26#w40) |[huishang_bank](payout-methodshuishang_bank/)|`huishang_bank`| 
 |![hangzhou_city_commercial_bank](https://static.openfintech.io/payout_methods/hangzhou_city_commercial_bank/icon.png?w=278&c=v0.59.26#w40) |[hangzhou_city_commercial_bank](payout-methodshangzhou_city_commercial_bank/)|`hangzhou_city_commercial_bank`| 
-|![bank_of_nanjing](https://static.openfintech.io/payout_methods/bank_of_nanjing/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_nanjing](payout-methodsbank_of_nanjing/)|`bank_of_nanjing`| 
-|![china_bohai_bank](https://static.openfintech.io/payout_methods/china_bohai_bank/icon.svg?w=278&c=v0.59.26#w40) |[china_bohai_bank](payout-methodschina_bohai_bank/)|`china_bohai_bank`| 
 |![shanghai_rural_commercial_bank](https://static.openfintech.io/payout_methods/shanghai_rural_commercial_bank/icon.png?w=278&c=v0.59.26#w40) |[shanghai_rural_commercial_bank](payout-methodsshanghai_rural_commercial_bank/)|`shanghai_rural_commercial_bank`| 
 |![bank_of_east_asia](https://static.openfintech.io/payout_methods/bank_of_east_asia/icon.svg?w=278&c=v0.59.26#w40) |[bank_of_east_asia](payout-methodsbank_of_east_asia/)|`bank_of_east_asia`| 
 |![zhuhai_rural_credit_cooperatives](https://static.openfintech.io/payout_methods/zhuhai_rural_credit_cooperatives/icon.png?w=278&c=v0.59.26#w40) |[zhuhai_rural_credit_cooperatives](payout-methodszhuhai_rural_credit_cooperatives/)|`zhuhai_rural_credit_cooperatives`| 
@@ -250,7 +246,6 @@ The list of supported [Payout Methods](/payout-methods/)
   "payment_method":[
     "china_citic_bank",
     "industrial_bank",
-    "china_guangfa_bank",
     "china_merchants_bank",
     "china_postal_savings_bank",
     "bank_of_china",
@@ -335,7 +330,6 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "payout_method":[
     "china_citic_bank",
-    "china_guangfa_bank",
     "china_merchants_bank",
     "bank_of_china",
     "agricultural_bank_of_china",
@@ -356,8 +350,6 @@ The list of supported [Payout Methods](/payout-methods/)
     "bank_of_shanghai",
     "huishang_bank",
     "hangzhou_city_commercial_bank",
-    "bank_of_nanjing",
-    "china_bohai_bank",
     "shanghai_rural_commercial_bank",
     "bank_of_east_asia",
     "zhuhai_rural_credit_cooperatives",

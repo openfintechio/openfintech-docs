@@ -190,7 +190,7 @@
 |![changecoins](https://static.openfintech.io/payment_providers/changecoins/logo.png?w=600&c=v0.59.26#w100) |[**Сhangecoins Pay**](changecoins/)|`changecoins`| 
 |![chargemoney](https://static.openfintech.io/payment_providers/chargemoney/logo.png?w=600&c=v0.59.26#w100) |[**ChargeMoney**](chargemoney/)|`chargemoney`| 
 |![charityclear](https://static.openfintech.io/payment_providers/charityclear/logo.png?w=600&c=v0.59.26#w100) |[**CharityClear**](charityclear/)|`charityclear`| 
-|![chasepaymentech](https://static.openfintech.io/payment_providers/chasepaymentech/logo.png?w=600&c=v0.59.26#w100) |[**J.P. Morgan Commerce Solutions**](chasepaymentech/)|`chasepaymentech`| 
+|![chasepaymentech](https://static.openfintech.io/payment_providers/chasepaymentech/logo.svg?w=600&c=v0.59.26#w100) |[**Chase**](chasepaymentech/)|`chasepaymentech`| 
 |![checkalt](https://static.openfintech.io/payment_providers/checkalt/logo.svg?w=600&c=v0.59.26#w100) |[**CheckAlt Payment Solutions**](checkalt/)|`checkalt`| 
 |![checkoutbyamazon](https://static.openfintech.io/payment_providers/checkoutbyamazon/logo.svg?w=600&c=v0.59.26#w100) |[**Amazon Payments**](checkoutbyamazon/)|`checkoutbyamazon`| 
 |![checkoutcom](https://static.openfintech.io/payment_providers/checkoutcom/logo.svg?w=600&c=v0.59.26#w100) |[**Checkout.com**](checkoutcom/)|`checkoutcom`| 

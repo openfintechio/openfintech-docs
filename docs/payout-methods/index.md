@@ -220,8 +220,6 @@
 |![bank_of_guangzhou](https://static.openfintech.io/payout_methods/bank_of_guangzhou/logo.svg?w=400&c=v0.59.26#w24) |[**Bank of Guangzhou**](bank_of_guangzhou/)|`bank_of_guangzhou`| 
 |![bank_of_india](https://static.openfintech.io/payout_methods/bank_of_india/logo.svg?w=400&c=v0.59.26#w24) |[**Bank of India**](bank_of_india/)|`bank_of_india`| 
 |![bank_of_jiangsu](https://static.openfintech.io/payout_methods/bank_of_jiangsu/logo.png?w=400&c=v0.59.26#w24) |[**BANK OF JIANGSU**](bank_of_jiangsu/)|`bank_of_jiangsu`| 
-|![bank_of_nanjing](https://static.openfintech.io/payout_methods/bank_of_nanjing/logo.png?w=400&c=v0.59.26#w24) |[**Bank Of NanJing**](bank_of_nanjing/)|`bank_of_nanjing`| 
-|![bank_of_ningbo](https://static.openfintech.io/payout_methods/bank_of_ningbo/logo.png?w=400&c=v0.59.26#w24) |[**Bank Of NingBo**](bank_of_ningbo/)|`bank_of_ningbo`| 
 |![bank_of_shanghai](https://static.openfintech.io/payout_methods/bank_of_shanghai/logo.svg?w=400&c=v0.59.26#w24) |[**Bank of Shanghai**](bank_of_shanghai/)|`bank_of_shanghai`| 
 |![bank_papua](https://static.openfintech.io/payout_methods/bank_papua/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Papua**](bank_papua/)|`bank_papua`| 
 |![bank_qnb_indonesia](https://static.openfintech.io/payout_methods/bank_qnb_indonesia/logo.svg?w=400&c=v0.59.26#w24) |[**Bank QNB Indonesia**](bank_qnb_indonesia/)|`bank_qnb_indonesia`| 
@@ -363,11 +361,9 @@
 |![chilean_commercial_bank](https://static.openfintech.io/payout_methods/chilean_commercial_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Chilean Commercial Bank**](chilean_commercial_bank/)|`chilean_commercial_bank`| 
 |![china_bank](https://static.openfintech.io/payout_methods/china_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Chinabank CA/SA**](china_bank/)|`china_bank`| 
 |![china_bank_savings](https://static.openfintech.io/payout_methods/china_bank_savings/logo.png?w=400&c=v0.59.26#w24) |[**Chinabank Savings**](china_bank_savings/)|`china_bank_savings`| 
-|![china_bohai_bank](https://static.openfintech.io/payout_methods/china_bohai_bank/logo.png?w=400&c=v0.59.26#w24) |[**China BoHai Bank**](china_bohai_bank/)|`china_bohai_bank`| 
 |![china_citic_bank](https://static.openfintech.io/payout_methods/china_citic_bank/logo.svg?w=400&c=v0.59.26#w24) |[**China Citic Bank**](china_citic_bank/)|`china_citic_bank`| 
 |![china_construction_bank](https://static.openfintech.io/payout_methods/china_construction_bank/logo.svg?w=400&c=v0.59.26#w24) |[**China Construction Bank**](china_construction_bank/)|`china_construction_bank`| 
 |![china_everbright_bank](https://static.openfintech.io/payout_methods/china_everbright_bank/logo.svg?w=400&c=v0.59.26#w24) |[**China Everbright Bank**](china_everbright_bank/)|`china_everbright_bank`| 
-|![china_guangfa_bank](https://static.openfintech.io/payout_methods/china_guangfa_bank/logo.png?w=400&c=v0.59.26#w24) |[**China Guangfa Bank**](china_guangfa_bank/)|`china_guangfa_bank`| 
 |![china_industrial_bank](https://static.openfintech.io/payout_methods/china_industrial_bank/logo.svg?w=400&c=v0.59.26#w24) |[**China Industrial Bank**](china_industrial_bank/)|`china_industrial_bank`| 
 |![china_merchants_bank](https://static.openfintech.io/payout_methods/china_merchants_bank/logo.svg?w=400&c=v0.59.26#w24) |[**China Merchants Bank**](china_merchants_bank/)|`china_merchants_bank`| 
 |![china_minsheng_bank](https://static.openfintech.io/payout_methods/china_minsheng_bank/logo.png?w=400&c=v0.59.26#w24) |[**China Minsheng Bank**](china_minsheng_bank/)|`china_minsheng_bank`| 

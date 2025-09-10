@@ -253,7 +253,6 @@
 |![china_citic_bank](https://static.openfintech.io/payment_methods/china_citic_bank/logo.svg?w=400&c=v0.59.26#w200) |[**China Citic Bank**](china_citic_bank/)|`china_citic_bank`| 
 |![china_construction_bank](https://static.openfintech.io/payment_methods/china_construction_bank/logo.svg?w=400&c=v0.59.26#w200) |[**China Construction Bank**](china_construction_bank/)|`china_construction_bank`| 
 |![china_everbright_bank](https://static.openfintech.io/payment_methods/china_everbright_bank/logo.svg?w=400&c=v0.59.26#w200) |[**China Everbright Bank**](china_everbright_bank/)|`china_everbright_bank`| 
-|![china_guangfa_bank](https://static.openfintech.io/payment_methods/china_guangfa_bank/logo.png?w=400&c=v0.59.26#w200) |[**China Guangfa Bank**](china_guangfa_bank/)|`china_guangfa_bank`| 
 |![china_merchants_bank](https://static.openfintech.io/payment_methods/china_merchants_bank/logo.svg?w=400&c=v0.59.26#w200) |[**China Merchants Bank**](china_merchants_bank/)|`china_merchants_bank`| 
 |![china_minsheng_bank](https://static.openfintech.io/payment_methods/china_minsheng_bank/logo.png?w=400&c=v0.59.26#w200) |[**China Minsheng Bank**](china_minsheng_bank/)|`china_minsheng_bank`| 
 |![china_postal_savings_bank](https://static.openfintech.io/payment_methods/china_postal_savings_bank/logo.png?w=400&c=v0.59.26#w200) |[**China Postal Savings Bank**](china_postal_savings_bank/)|`china_postal_savings_bank`| 
