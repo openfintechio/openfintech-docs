@@ -45,6 +45,7 @@ The list of [Payment Services](/payment-services/) based on the _MercadoPago_
 |:---:|:---:|:---:| 
 |![mercadopago](https://static.openfintech.io/payment_methods/mercadopago/icon.png?w=278&c=v0.59.26#w100) |[mercadopago_brl_hpp](/payment-services/mercadopago_brl_hpp/)|`mercadopago_brl_hpp`| 
 |![mercadopago](https://static.openfintech.io/payment_methods/mercadopago/icon.png?w=278&c=v0.59.26#w100) |[mercadopago_cop_hpp](/payment-services/mercadopago_cop_hpp/)|`mercadopago_cop_hpp`| 
+|![mercadopago](https://static.openfintech.io/payment_methods/mercadopago/icon.png?w=278&c=v0.59.26#w100) |[mercadopago_ars_hpp](/payment-services/mercadopago_ars_hpp/)|`mercadopago_ars_hpp`| 
 |![mercadopago](https://static.openfintech.io/payment_methods/mercadopago/icon.png?w=278&c=v0.59.26#w100) |[mercadopago_mxn_hpp](/payment-services/mercadopago_mxn_hpp/)|`mercadopago_mxn_hpp`| 
 |![mercadopago](https://static.openfintech.io/payment_methods/mercadopago/icon.png?w=278&c=v0.59.26#w100) |[mercadopago_pen_hpp](/payment-services/mercadopago_pen_hpp/)|`mercadopago_pen_hpp`| 
  
@@ -56,6 +57,7 @@ The list of [Payment Providers](/payment-providers/) that support the _MercadoPa
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
+|![creedo](https://static.openfintech.io/payment_providers/creedo/icon.png?w=278&c=v0.59.26#w100) |[Creedo](/payment-providers/creedo/)|`creedo`| 
  
 
 ## JSON Object 

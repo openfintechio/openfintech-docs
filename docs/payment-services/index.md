@@ -1099,6 +1099,7 @@
 |![Mega International Commercial Bank](https://static.openfintech.io/payment_methods/mega_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Mega International Commercial Bank**](/payment-methods/mega_bank/)|[`mega_bank_idr_hpp`](mega_bank_idr_hpp/)| 
 |![Megafon](https://static.openfintech.io/payment_methods/megafon/logo.png?w=400&c=v0.59.26#w200) |[**Megafon**](/payment-methods/megafon/)|[`megafon_rub_hpp`](megafon_rub_hpp/)| 
 |![Megafon](https://static.openfintech.io/payment_methods/megafon/logo.png?w=400&c=v0.59.26#w200) |[**Megafon**](/payment-methods/megafon/)|[`megafon_rub_invoice`](megafon_rub_invoice/)| 
+|![MercadoPago](https://static.openfintech.io/payment_methods/mercadopago/logo.png?w=400&c=v0.59.26#w200) |[**MercadoPago**](/payment-methods/mercadopago/)|[`mercadopago_ars_hpp`](mercadopago_ars_hpp/)| 
 |![MercadoPago](https://static.openfintech.io/payment_methods/mercadopago/logo.png?w=400&c=v0.59.26#w200) |[**MercadoPago**](/payment-methods/mercadopago/)|[`mercadopago_brl_hpp`](mercadopago_brl_hpp/)| 
 |![MercadoPago](https://static.openfintech.io/payment_methods/mercadopago/logo.png?w=400&c=v0.59.26#w200) |[**MercadoPago**](/payment-methods/mercadopago/)|[`mercadopago_cop_hpp`](mercadopago_cop_hpp/)| 
 |![MercadoPago](https://static.openfintech.io/payment_methods/mercadopago/logo.png?w=400&c=v0.59.26#w200) |[**MercadoPago**](/payment-methods/mercadopago/)|[`mercadopago_mxn_hpp`](mercadopago_mxn_hpp/)| 

@@ -1212,6 +1212,7 @@
 |![megogo-legkaia](https://static.openfintech.io/payout_methods/megogo-legkaia/logo.png?w=400&c=v0.59.26#w24) |[**MEGOGO (light)**](megogo-legkaia/)|`megogo-legkaia`| 
 |![megogo-maksimalnaia](https://static.openfintech.io/payout_methods/megogo-maksimalnaia/logo.png?w=400&c=v0.59.26#w24) |[**MEGOGO (maximum)**](megogo-maksimalnaia/)|`megogo-maksimalnaia`| 
 |![megogo-optimalnaia](https://static.openfintech.io/payout_methods/megogo-optimalnaia/logo.png?w=400&c=v0.59.26#w24) |[**MEGOGO (optimal)**](megogo-optimalnaia/)|`megogo-optimalnaia`| 
+|![mercadopago](https://static.openfintech.io/payout_methods/mercadopago/logo.png?w=400&c=v0.59.26#w24) |[**MercadoPago**](mercadopago/)|`mercadopago`| 
 |![merefske-rve-ak-kharkivoblenergo](https://static.openfintech.io/payout_methods/merefske-rve-ak-kharkivoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Merefske ROE AK 'Kharkivoblenergo'**](merefske-rve-ak-kharkivoblenergo/)|`merefske-rve-ak-kharkivoblenergo`| 
 |![merefske-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018](https://static.openfintech.io/payout_methods/merefske-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Мерефське РВЕ АК "Харківобленерго" (за послуги до 31.12.2018)**](merefske-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|`merefske-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018`| 
 |![merezha](https://static.openfintech.io/payout_methods/merezha/logo.png?w=400&c=v0.59.26#w24) |[**Network +**](merezha/)|`merezha`| 
