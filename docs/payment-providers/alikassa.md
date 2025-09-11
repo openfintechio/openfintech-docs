@@ -56,6 +56,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![permata_bank](https://static.openfintech.io/payment_methods/permata_bank/icon.svg?w=278&c=v0.59.26#w100) |[permata_bank](/payment-methods/permata_bank/)|`permata_bank`| 
 |![mandiri_bank](https://static.openfintech.io/payment_methods/mandiri_bank/icon.svg?w=278&c=v0.59.26#w100) |[mandiri_bank](/payment-methods/mandiri_bank/)|`mandiri_bank`| 
 |![cimb_niaga](https://static.openfintech.io/payment_methods/cimb_niaga/icon.svg?w=278&c=v0.59.26#w100) |[cimb_niaga](/payment-methods/cimb_niaga/)|`cimb_niaga`| 
+|![online_banking](https://static.openfintech.io/payment_methods/online_banking/icon.svg?w=278&c=v0.59.26#w100) |[online_banking](/payment-methods/online_banking/)|`online_banking`| 
  
 
 ## Payout Methods 
@@ -94,7 +95,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "bank_rakyat_indonesia",
     "permata_bank",
     "mandiri_bank",
-    "cimb_niaga"
+    "cimb_niaga",
+    "online_banking"
   ],
   "payout_method":[
     "payment_card",
