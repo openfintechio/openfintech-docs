@@ -1209,6 +1209,7 @@
 |![lyubojbanktailanda](https://static.openfintech.io/vendors/lyubojbanktailanda/logo.svg?w=600&c=v0.59.26#w200) |[**Любой банк Таиланда**](lyubojbanktailanda/)|`lyubojbanktailanda`| 
 || **M** ||
 |![macropay](https://static.openfintech.io/vendors/macropay/logo.png?w=600&c=v0.59.26#w200) |[**Macropay**](macropay/)|`macropay`| 
+|![madfin](https://static.openfintech.io/vendors/madfin/logo.png?w=600&c=v0.59.26#w200) |[**MADFIN**](madfin/)|`madfin`| 
 |![maestro](https://static.openfintech.io/vendors/maestro/logo.svg?w=600&c=v0.59.26#w200) |[**Maestro**](maestro/)|`maestro`| 
 |![magicpayments](https://static.openfintech.io/vendors/magicpayments/logo.svg?w=600&c=v0.59.26#w200) |[**Magic Payments**](magicpayments/)|`magicpayments`| 
 |![magna](https://static.openfintech.io/vendors/magna/logo.svg?w=600&c=v0.59.26#w200) |[**Magna**](magna/)|`magna`| 
