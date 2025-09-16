@@ -756,6 +756,7 @@
 |![higo_bank](https://static.openfintech.io/payout_methods/higo_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Higo Bank**](higo_bank/)|`higo_bank`| 
 |![hiroshima_bank](https://static.openfintech.io/payout_methods/hiroshima_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Hiroshima Bank**](hiroshima_bank/)|`hiroshima_bank`| 
 |![hiroshima_shinkin_bank](https://static.openfintech.io/payout_methods/hiroshima_shinkin_bank/logo.svg?w=400&c=v0.59.26#w24) |[**The Hiroshima Shinkin Bank**](hiroshima_shinkin_bank/)|`hiroshima_shinkin_bank`| 
+|![hkma_fps](https://static.openfintech.io/payout_methods/hkma_fps/logo.svg?w=400&c=v0.59.26#w24) |[**HKMA - FPS**](hkma_fps/)|`hkma_fps`| 
 |![hokkaido_bank](https://static.openfintech.io/payout_methods/hokkaido_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Hokkaido Bank**](hokkaido_bank/)|`hokkaido_bank`| 
 |![hokkoku_bank](https://static.openfintech.io/payout_methods/hokkoku_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Hokkoku Bank**](hokkoku_bank/)|`hokkoku_bank`| 
 |![hokuetsu_bank](https://static.openfintech.io/payout_methods/hokuetsu_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Hokuetsu Bank**](hokuetsu_bank/)|`hokuetsu_bank`| 

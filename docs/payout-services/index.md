@@ -926,6 +926,7 @@
 |![Higo Bank](https://static.openfintech.io/payout_methods/higo_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Higo Bank**](/payout-methods/higo_bank/)|[`higo_bank_jpy`](higo_bank_jpy/)|`JPY`| 
 |![Hiroshima Bank](https://static.openfintech.io/payout_methods/hiroshima_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Hiroshima Bank**](/payout-methods/hiroshima_bank/)|[`hiroshima_bank_jpy`](hiroshima_bank_jpy/)|`JPY`| 
 |![The Hiroshima Shinkin Bank](https://static.openfintech.io/payout_methods/hiroshima_shinkin_bank/logo.svg?w=400&c=v0.59.26#w24) |[**The Hiroshima Shinkin Bank**](/payout-methods/hiroshima_shinkin_bank/)|[`hiroshima_shinkin_bank_jpy`](hiroshima_shinkin_bank_jpy/)|`JPY`| 
+|![HKMA - FPS](https://static.openfintech.io/payout_methods/hkma_fps/logo.svg?w=400&c=v0.59.26#w24) |[**HKMA - FPS**](/payout-methods/hkma_fps/)|[`hkma_fps_gbp`](hkma_fps_gbp/)|`GBP`| 
 |![Hokkaido Bank](https://static.openfintech.io/payout_methods/hokkaido_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Hokkaido Bank**](/payout-methods/hokkaido_bank/)|[`hokkaido_bank_jpy`](hokkaido_bank_jpy/)|`JPY`| 
 |![Hokkoku Bank](https://static.openfintech.io/payout_methods/hokkoku_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Hokkoku Bank**](/payout-methods/hokkoku_bank/)|[`hokkoku_bank_jpy`](hokkoku_bank_jpy/)|`JPY`| 
 |![Hokuetsu Bank](https://static.openfintech.io/payout_methods/hokuetsu_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Hokuetsu Bank**](/payout-methods/hokuetsu_bank/)|[`hokuetsu_bank_jpy`](hokuetsu_bank_jpy/)|`JPY`| 
