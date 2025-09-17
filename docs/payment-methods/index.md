@@ -298,6 +298,7 @@
 |![credit_mutuel_bank](https://static.openfintech.io/payment_methods/credit_mutuel_bank/logo.png?w=400&c=v0.59.26#w200) |[**Credit Mutuel Bank**](credit_mutuel_bank/)|`credit_mutuel_bank`| 
 |![creditagricole](https://static.openfintech.io/payment_methods/creditagricole/logo.png?w=400&c=v0.59.26#w200) |[**Crédit Agricole**](creditagricole/)|`creditagricole`| 
 |![crypto](https://static.openfintech.io/payment_methods/crypto/logo.svg?w=400&c=v0.59.26#w200) |[**CRYPTO**](crypto/)|`crypto`| 
+|![crypto_aggregated](https://static.openfintech.io/payment_methods/crypto_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**Crypto Aggregated**](crypto_aggregated/)|`crypto_aggregated`| 
 |![csb_bank](https://static.openfintech.io/payment_methods/csb_bank/logo.png?w=400&c=v0.59.26#w200) |[**CSB Bank**](csb_bank/)|`csb_bank`| 
 |![csob](https://static.openfintech.io/payment_methods/csob/logo.png?w=400&c=v0.59.26#w200) |[**CSOB**](csob/)|`csob`| 
 |![curfex](https://static.openfintech.io/payment_methods/curfex/logo.png?w=400&c=v0.59.26#w200) |[**Curfex Japan**](curfex/)|`curfex`| 
