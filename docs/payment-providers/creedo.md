@@ -14,6 +14,10 @@
 :	[RU] Creedo 
 :	[UK] Creedo 
  
+**Description:** 
+ 
+: [EN] Creedo.Capital is a global payments service provider that delivers modern businesses with tailored payment solutions, combining seamless integration, proven performance and transparency. Having powered the infrastructure of intermediaries, white-label providers and service platforms for many years, the company is now offering its technology directly to merchants. It provides cost efficiency and unmatched reliability that strengthen payment flow. From start-ups to enterprise giants, Creedo.Capital designs flexible payment solutions to meet a variety of business models, providing 24/7 dedicated support. With in-depth knowledge of specific markets, Creedo.Capital facilitates local operations in high-growth regions such Asia and LATAM offering seamless payment processing across borders, helping navigate regulations and optimize operations. 
+ 
 
 ## Images 
 
@@ -62,7 +66,9 @@ The list of supported [Payout Methods](/payout-methods/)
 ```json
 {
   "code":"creedo",
-  "description":null,
+  "description":{
+    "en":"Creedo.Capital is a global payments service provider that delivers modern businesses with tailored payment solutions, combining seamless integration, proven performance and transparency. Having powered the infrastructure of intermediaries, white-label providers and service platforms for many years, the company is now offering its technology directly to merchants. It provides cost efficiency and unmatched reliability that strengthen payment flow. From start-ups to enterprise giants, Creedo.Capital designs flexible payment solutions to meet a variety of business models, providing 24\/7 dedicated support. With in-depth knowledge of specific markets, Creedo.Capital facilitates local operations in high-growth regions such Asia and LATAM offering seamless payment processing across borders, helping navigate regulations and optimize operations."
+  },
   "vendor":"creedo",
   "categories":null,
   "countries":null,
