@@ -71,6 +71,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2](/payment-methods/mybank2/)|`mybank2`| 
 |![eps](https://static.openfintech.io/payment_methods/eps/icon.png?w=278&c=v0.59.26#w100) |[eps](/payment-methods/eps/)|`eps`| 
 |![bancontact](https://static.openfintech.io/payment_methods/bancontact/icon.png?w=278&c=v0.59.26#w100) |[bancontact](/payment-methods/bancontact/)|`bancontact`| 
+|![crypto_aggregated](https://static.openfintech.io/payment_methods/crypto_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[crypto_aggregated](/payment-methods/crypto_aggregated/)|`crypto_aggregated`| 
  
 
 ## Payout Methods 
@@ -123,7 +124,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "multibanco",
     "mybank2",
     "eps",
-    "bancontact"
+    "bancontact",
+    "crypto_aggregated"
   ],
   "payout_method":[
     "payment_card",
