@@ -360,7 +360,7 @@
 |![faspay](https://static.openfintech.io/payment_providers/faspay/logo.png?w=600&c=v0.59.26#w100) |[**Faspay**](faspay/)|`faspay`| 
 |![faturah](https://static.openfintech.io/payment_providers/faturah/logo.svg?w=600&c=v0.59.26#w100) |[**Faturah**](faturah/)|`faturah`| 
 |![fatzebra](https://static.openfintech.io/payment_providers/fatzebra/logo.png?w=600&c=v0.59.26#w100) |[**Fat Zebra**](fatzebra/)|`fatzebra`| 
-|![fenige](https://static.openfintech.io/payment_providers/fenige/logo.png?w=600&c=v0.59.26#w100) |[**Fenige**](fenige/)|`fenige`| 
+|![fenige](https://static.openfintech.io/payment_providers/fenige/logo.svg?w=600&c=v0.59.26#w100) |[**Fenige**](fenige/)|`fenige`| 
 |![fiatsystems](https://static.openfintech.io/payment_providers/fiatsystems/logo.png?w=600&c=v0.59.26#w100) |[**FiatSystems**](fiatsystems/)|`fiatsystems`| 
 |![fibonatix](https://static.openfintech.io/payment_providers/fibonatix/logo.png?w=600&c=v0.59.26#w100) |[**Fibonatix**](fibonatix/)|`fibonatix`| 
 |![fidelitypaymentservices](https://static.openfintech.io/payment_providers/fidelitypaymentservices/logo.png?w=600&c=v0.59.26#w100) |[**Fidelity Payment Services**](fidelitypaymentservices/)|`fidelitypaymentservices`| 

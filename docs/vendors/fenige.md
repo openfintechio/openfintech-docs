@@ -1,6 +1,6 @@
 
 # Fenige 
-![fenige](https://static.openfintech.io/vendors/fenige/logo.png?w=400&c=v0.59.26#w200)  
+![fenige](https://static.openfintech.io/vendors/fenige/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,10 +22,10 @@
 
 ### Logo 
  
-![fenige](https://static.openfintech.io/vendors/fenige/logo.png?w=400&c=v0.59.26#w200)  
+![fenige](https://static.openfintech.io/vendors/fenige/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/fenige/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/fenige/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 

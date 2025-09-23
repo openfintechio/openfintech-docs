@@ -381,6 +381,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![realdeposits](https://static.openfintech.io/payment_providers/realdeposits/icon.png?w=278&c=v0.59.26#w100) |[Real Deposits](/payment-providers/realdeposits/)|`realdeposits`| 
 |![payelata](https://static.openfintech.io/payment_providers/payelata/icon.svg?w=278&c=v0.59.26#w100) |[Payelata](/payment-providers/payelata/)|`payelata`| 
 |![payassist](https://static.openfintech.io/payment_providers/payassist/icon.png?w=278&c=v0.59.26#w100) |[PayAssist](/payment-providers/payassist/)|`payassist`| 
+|![fenige](https://static.openfintech.io/payment_providers/fenige/icon.svg?w=278&c=v0.59.26#w100) |[Fenige](/payment-providers/fenige/)|`fenige`| 
 |![ems](https://static.openfintech.io/payment_providers/ems/icon.svg?w=278&c=v0.59.26#w100) |[EMS](/payment-providers/ems/)|`ems`| 
 |![infotrend](https://static.openfintech.io/payment_providers/infotrend/icon.png?w=278&c=v0.59.26#w100) |[Infotrend](/payment-providers/infotrend/)|`infotrend`| 
 |![cards2cards](https://static.openfintech.io/payment_providers/cards2cards/icon.svg?w=278&c=v0.59.26#w100) |[cards2cards](/payment-providers/cards2cards/)|`cards2cards`| 
