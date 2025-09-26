@@ -2385,6 +2385,7 @@
 |![winteca](https://static.openfintech.io/vendors/winteca/logo.png?w=600&c=v0.59.26#w200) |[**Winteca**](winteca/)|`winteca`| 
 |![wire2pay](https://static.openfintech.io/vendors/wire2pay/logo.svg?w=600&c=v0.59.26#w200) |[**Wire2Pay**](wire2pay/)|`wire2pay`| 
 |![wire_perevod](https://static.openfintech.io/vendors/wire_perevod/logo.svg?w=600&c=v0.59.26#w200) |[**Wire-перевод**](wire_perevod/)|`wire_perevod`| 
+|![wirebloom](https://static.openfintech.io/vendors/wirebloom/logo.png?w=600&c=v0.59.26#w200) |[**Wirebloom**](wirebloom/)|`wirebloom`| 
 |![wirecapital](https://static.openfintech.io/vendors/wirecapital/logo.svg?w=600&c=v0.59.26#w200) |[**Wirecapital**](wirecapital/)|`wirecapital`| 
 |![wirecard](https://static.openfintech.io/vendors/wirecard/logo.svg?w=600&c=v0.59.26#w200) |[**Wirecard**](wirecard/)|`wirecard`| 
 |![wireperevod](https://static.openfintech.io/vendors/wireperevod/logo.svg?w=600&c=v0.59.26#w200) |[**Wire-перевод**](wireperevod/)|`wireperevod`| 

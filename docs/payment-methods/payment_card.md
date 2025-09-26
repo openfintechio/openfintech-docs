@@ -568,6 +568,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![kora](https://static.openfintech.io/payment_providers/kora/icon.svg?w=278&c=v0.59.26#w100) |[Kora](/payment-providers/kora/)|`kora`| 
 |![mids](https://static.openfintech.io/payment_providers/mids/icon.png?w=278&c=v0.59.26#w100) |[MIDs](/payment-providers/mids/)|`mids`| 
 |![paywisesolutions](https://static.openfintech.io/payment_providers/paywisesolutions/icon.png?w=278&c=v0.59.26#w100) |[PaywiseSolutions](/payment-providers/paywisesolutions/)|`paywisesolutions`| 
+|![wirebloom](https://static.openfintech.io/payment_providers/wirebloom/icon.png?w=278&c=v0.59.26#w100) |[Wirebloom](/payment-providers/wirebloom/)|`wirebloom`| 
 |![creditum](https://static.openfintech.io/payment_providers/creditum/icon.png?w=278&c=v0.59.26#w100) |[Creditum](/payment-providers/creditum/)|`creditum`| 
 |![mtbbank](https://static.openfintech.io/payment_providers/mtbbank/icon.svg?w=278&c=v0.59.26#w100) |[MTB Bank](/payment-providers/mtbbank/)|`mtbbank`| 
 |![mtb](https://static.openfintech.io/payment_providers/mtb/icon.svg?w=278&c=v0.59.26#w100) |[MTB](/payment-providers/mtb/)|`mtb`| 
