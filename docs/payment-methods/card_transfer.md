@@ -78,6 +78,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card tran
 |:---:|:---:|:---:| 
 |![litepay](https://static.openfintech.io/payment_providers/litepay/icon.svg?w=278&c=v0.59.26#w100) |[LitePay](/payment-providers/litepay/)|`litepay`| 
 |![geopaynet](https://static.openfintech.io/payment_providers/geopaynet/icon.svg?w=278&c=v0.59.26#w100) |[GEO Pay](/payment-providers/geopaynet/)|`geopaynet`| 
+|![spoynt](https://static.openfintech.io/payment_providers/spoynt/icon.svg?w=278&c=v0.59.26#w100) |[Spoynt](/payment-providers/spoynt/)|`spoynt`| 
 |![easybits](https://static.openfintech.io/payment_providers/easybits/icon.svg?w=278&c=v0.59.26#w100) |[EasyBits.io](/payment-providers/easybits/)|`easybits`| 
 |![payua](https://static.openfintech.io/payment_providers/payua/icon.png?w=278&c=v0.59.26#w100) |[Pay UA](/payment-providers/payua/)|`payua`| 
 |![easytransfer](https://static.openfintech.io/payment_providers/easytransfer/icon.svg?w=278&c=v0.59.26#w100) |[EasyTransfer](/payment-providers/easytransfer/)|`easytransfer`| 

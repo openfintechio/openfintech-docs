@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PromptPay
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![spoynt](https://static.openfintech.io/payment_providers/spoynt/icon.svg?w=278&c=v0.59.26#w100) |[Spoynt](/payment-providers/spoynt/)|`spoynt`| 
 |![decard](https://static.openfintech.io/payment_providers/decard/icon.svg?w=278&c=v0.59.26#w100) |[Decard](/payment-providers/decard/)|`decard`| 
 |![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
 |![wealthpay](https://static.openfintech.io/payment_providers/wealthpay/icon.png?w=278&c=v0.59.26#w100) |[WealthPay](/payment-providers/wealthpay/)|`wealthpay`| 

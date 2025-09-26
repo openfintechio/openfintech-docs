@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _ViettelPa
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![spoynt](https://static.openfintech.io/payment_providers/spoynt/icon.svg?w=278&c=v0.59.26#w100) |[Spoynt](/payment-providers/spoynt/)|`spoynt`| 
 |![v9pay](https://static.openfintech.io/payment_providers/v9pay/icon.png?w=278&c=v0.59.26#w100) |[V9Pay](/payment-providers/v9pay/)|`v9pay`| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
 |![payok](https://static.openfintech.io/payment_providers/payok/icon.png?w=278&c=v0.59.26#w100) |[Payok](/payment-providers/payok/)|`payok`| 

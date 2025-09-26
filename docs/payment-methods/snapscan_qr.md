@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _SnapScan_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![spoynt](https://static.openfintech.io/payment_providers/spoynt/icon.svg?w=278&c=v0.59.26#w100) |[Spoynt](/payment-providers/spoynt/)|`spoynt`| 
 |![startbutton](https://static.openfintech.io/payment_providers/startbutton/icon.png?w=278&c=v0.59.26#w100) |[Startbutton](/payment-providers/startbutton/)|`startbutton`| 
  
 

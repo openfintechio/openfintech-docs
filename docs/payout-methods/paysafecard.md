@@ -86,6 +86,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Paysafeca
 |![2000charge](https://static.openfintech.io/payment_providers/2000charge/icon.png?w=278&c=v0.59.26#w100) |[2000Charge.com](/payment-providers/2000charge/)|`2000charge`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
 |![fibonatix](https://static.openfintech.io/payment_providers/fibonatix/icon.png?w=278&c=v0.59.26#w100) |[Fibonatix](/payment-providers/fibonatix/)|`fibonatix`| 
+|![spoynt](https://static.openfintech.io/payment_providers/spoynt/icon.svg?w=278&c=v0.59.26#w100) |[Spoynt](/payment-providers/spoynt/)|`spoynt`| 
 |![paysafecard](https://static.openfintech.io/payment_providers/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[Paysafecard](/payment-providers/paysafecard/)|`paysafecard`| 
 |![paysafe](https://static.openfintech.io/payment_providers/paysafe/icon.svg?w=278&c=v0.59.26#w100) |[Paysafe](/payment-providers/paysafe/)|`paysafe`| 
 |![micropayments](https://static.openfintech.io/payment_providers/micropayments/icon.svg?w=278&c=v0.59.26#w100) |[MicroPayments](/payment-providers/micropayments/)|`micropayments`| 
