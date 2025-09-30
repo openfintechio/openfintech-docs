@@ -698,6 +698,7 @@
 |![payphone](https://static.openfintech.io/payment_methods/payphone/logo.svg?w=400&c=v0.59.26#w200) |[**Payphone**](payphone/)|`payphone`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](paysafecard/)|`paysafecard`| 
 |![paysafecash](https://static.openfintech.io/payment_methods/paysafecash/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecash**](paysafecash/)|`paysafecash`| 
+|![paysage_crypto](https://static.openfintech.io/payment_methods/paysage_crypto/logo.svg?w=400&c=v0.59.26#w200) |[**Paysage Crypto**](paysage_crypto/)|`paysage_crypto`| 
 |![paysbuy](https://static.openfintech.io/payment_methods/paysbuy/logo.png?w=400&c=v0.59.26#w200) |[**PAYSBUY**](paysbuy/)|`paysbuy`| 
 |![paysense](https://static.openfintech.io/payment_methods/paysense/logo.svg?w=400&c=v0.59.26#w200) |[**PaySense**](paysense/)|`paysense`| 
 |![payser](https://static.openfintech.io/payment_methods/payser/logo.svg?w=400&c=v0.59.26#w200) |[**Payser**](payser/)|`payser`| 
