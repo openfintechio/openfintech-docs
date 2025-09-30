@@ -40,6 +40,7 @@ The list of [Payment Services](/payment-services/) based on the _Solana_
 |![solana](https://static.openfintech.io/payment_methods/solana/icon.svg?w=278&c=v0.59.26#w100) |[solana_gbp_hpp](/payment-services/solana_gbp_hpp/)|`solana_gbp_hpp`| 
 |![solana](https://static.openfintech.io/payment_methods/solana/icon.svg?w=278&c=v0.59.26#w100) |[solana_bep20_gbp_hpp](/payment-services/solana_bep20_gbp_hpp/)|`solana_bep20_gbp_hpp`| 
 |![solana](https://static.openfintech.io/payment_methods/solana/icon.svg?w=278&c=v0.59.26#w100) |[solana_cad_hpp](/payment-services/solana_cad_hpp/)|`solana_cad_hpp`| 
+|![solana](https://static.openfintech.io/payment_methods/solana/icon.svg?w=278&c=v0.59.26#w100) |[solana_sol_hpp](/payment-services/solana_sol_hpp/)|`solana_sol_hpp`| 
 |![solana](https://static.openfintech.io/payment_methods/solana/icon.svg?w=278&c=v0.59.26#w100) |[solana_bep20_cad_hpp](/payment-services/solana_bep20_cad_hpp/)|`solana_bep20_cad_hpp`| 
 |![solana](https://static.openfintech.io/payment_methods/solana/icon.svg?w=278&c=v0.59.26#w100) |[solana_aud_hpp](/payment-services/solana_aud_hpp/)|`solana_aud_hpp`| 
 |![solana](https://static.openfintech.io/payment_methods/solana/icon.svg?w=278&c=v0.59.26#w100) |[solana_bep20_aud_hpp](/payment-services/solana_bep20_aud_hpp/)|`solana_bep20_aud_hpp`| 
@@ -55,6 +56,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Solana_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![cryptopay](https://static.openfintech.io/payment_providers/cryptopay/icon.svg?w=278&c=v0.59.26#w100) |[Cryptopay](/payment-providers/cryptopay/)|`cryptopay`| 
+|![boomfi](https://static.openfintech.io/payment_providers/boomfi/icon.svg?w=278&c=v0.59.26#w100) |[Boomfi](/payment-providers/boomfi/)|`boomfi`| 
  
 
 ## JSON Object 

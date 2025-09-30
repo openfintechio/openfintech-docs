@@ -1722,6 +1722,7 @@
 |![Solana](https://static.openfintech.io/payment_methods/solana/logo.svg?w=400&c=v0.59.26#w200) |[**Solana**](/payment-methods/solana/)|[`solana_cad_hpp`](solana_cad_hpp/)| 
 |![Solana](https://static.openfintech.io/payment_methods/solana/logo.svg?w=400&c=v0.59.26#w200) |[**Solana**](/payment-methods/solana/)|[`solana_eur_hpp`](solana_eur_hpp/)| 
 |![Solana](https://static.openfintech.io/payment_methods/solana/logo.svg?w=400&c=v0.59.26#w200) |[**Solana**](/payment-methods/solana/)|[`solana_gbp_hpp`](solana_gbp_hpp/)| 
+|![Solana](https://static.openfintech.io/payment_methods/solana/logo.svg?w=400&c=v0.59.26#w200) |[**Solana**](/payment-methods/solana/)|[`solana_sol_hpp`](solana_sol_hpp/)| 
 |![Solana](https://static.openfintech.io/payment_methods/solana/logo.svg?w=400&c=v0.59.26#w200) |[**Solana**](/payment-methods/solana/)|[`solana_usd_hpp`](solana_usd_hpp/)| 
 |![Soriana](https://static.openfintech.io/payment_methods/soriana_cash/logo.png?w=400&c=v0.59.26#w200) |[**Soriana**](/payment-methods/soriana_cash/)|[`soriana_cash_mxn_hpp`](soriana_cash_mxn_hpp/)| 
 |![South Indian Bank](https://static.openfintech.io/payment_methods/south_indian_bank/logo.png?w=400&c=v0.59.26#w200) |[**South Indian Bank**](/payment-methods/south_indian_bank/)|[`south_indian_bank_inr_hpp`](south_indian_bank_inr_hpp/)| 
@@ -1872,6 +1873,7 @@
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_uah_invoice`](tether_uah_invoice/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_usd_hpp`](tether_usd_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_usd_invoice`](tether_usd_invoice/)| 
+|![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_usdt_hpp`](tether_usdt_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_usdt_invoice`](tether_usdt_invoice/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_usdtbep20_hpp`](tether_usdtbep20_hpp/)| 
 |![Tether](https://static.openfintech.io/payment_methods/tether/logo.svg?w=400&c=v0.59.26#w200) |[**Tether**](/payment-methods/tether/)|[`tether_usdterc20_hpp`](tether_usdterc20_hpp/)| 
@@ -1964,6 +1966,7 @@
 |![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_trc20_usd_hpp`](usd_coin_trc20_usd_hpp/)| 
 |![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_trc20_usdc_hpp`](usd_coin_trc20_usdc_hpp/)| 
 |![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_usd_hpp`](usd_coin_usd_hpp/)| 
+|![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_usdc_hpp`](usd_coin_usdc_hpp/)| 
 |![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_usdcbep20_hpp`](usd_coin_usdcbep20_hpp/)| 
 |![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_usdcerc20_hpp`](usd_coin_usdcerc20_hpp/)| 
 |![Usd Coin](https://static.openfintech.io/payment_methods/usd_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Usd Coin**](/payment-methods/usd_coin/)|[`usd_coin_usdctrc20_hpp`](usd_coin_usdctrc20_hpp/)| 

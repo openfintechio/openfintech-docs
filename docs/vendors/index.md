@@ -379,6 +379,7 @@
 |![boku](https://static.openfintech.io/vendors/boku/logo.png?w=600&c=v0.59.26#w200) |[**BOKU**](boku/)|`boku`| 
 |![bookook_bank](https://static.openfintech.io/vendors/bookook_bank/logo.png?w=600&c=v0.59.26#w200) |[**Bookook Securities Co. Ltd**](bookook_bank/)|`bookook_bank`| 
 |![boombill](https://static.openfintech.io/vendors/boombill/logo.png?w=600&c=v0.59.26#w200) |[**Boom-Bill**](boombill/)|`boombill`| 
+|![boomfi](https://static.openfintech.io/vendors/boomfi/logo.svg?w=600&c=v0.59.26#w200) |[**Boomfi**](boomfi/)|`boomfi`| 
 |![boost](https://static.openfintech.io/vendors/boost/logo.svg?w=600&c=v0.59.26#w200) |[**Boost**](boost/)|`boost`| 
 |![borgun](https://static.openfintech.io/vendors/borgun/logo.png?w=600&c=v0.59.26#w200) |[**Borgun**](borgun/)|`borgun`| 
 |![bp](https://static.openfintech.io/vendors/bp/logo.svg?w=600&c=v0.59.26#w200) |[**BP**](bp/)|`bp`| 

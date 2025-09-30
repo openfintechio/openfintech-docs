@@ -598,6 +598,7 @@
 |![SMSRUB](https://static.openfintech.io/currencies/SMSRUB/icon.svg?w=278&c=v0.59.26#w100) |[**SMSRUB**](SMSRUB/)|`SMSRUB`| 
 |![SMUAH](https://static.openfintech.io/currencies/SMUAH/icon.svg?w=278&c=v0.59.26#w100) |[**SMUAH**](SMUAH/)|`SMUAH`| 
 |![SMUSD](https://static.openfintech.io/currencies/SMUSD/icon.svg?w=278&c=v0.59.26#w100) |[**SMUSD**](SMUSD/)|`SMUSD`| 
+|![SOL](https://static.openfintech.io/currencies/SOL/icon.svg?w=278&c=v0.59.26#w100) |[**SOL**](SOL/)|`SOL`| 
 |![SOS](https://static.openfintech.io/currencies/SOS/icon.svg?w=278&c=v0.59.26#w100) |[**Somali Shilling**](SOS/)|`SOS`| 
 |![SPBBRUB](https://static.openfintech.io/currencies/SPBBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**SPBBRUB**](SPBBRUB/)|`SPBBRUB`| 
 |![SRD](https://static.openfintech.io/currencies/SRD/icon.svg?w=278&c=v0.59.26#w100) |[**Surinam Dollar**](SRD/)|`SRD`| 

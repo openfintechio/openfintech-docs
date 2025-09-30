@@ -39,6 +39,7 @@ The list of [Payment Services](/payment-services/) based on the _Usd Coin_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_trc20_usdc_hpp](/payment-services/usd_coin_trc20_usdc_hpp/)|`usd_coin_trc20_usdc_hpp`| 
+|![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_usdc_hpp](/payment-services/usd_coin_usdc_hpp/)|`usd_coin_usdc_hpp`| 
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_erc20_cad_hpp](/payment-services/usd_coin_erc20_cad_hpp/)|`usd_coin_erc20_cad_hpp`| 
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_trc20_cad_hpp](/payment-services/usd_coin_trc20_cad_hpp/)|`usd_coin_trc20_cad_hpp`| 
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_bep20_cad_hpp](/payment-services/usd_coin_bep20_cad_hpp/)|`usd_coin_bep20_cad_hpp`| 
@@ -77,6 +78,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Usd Coin_
 |![match2pay](https://static.openfintech.io/payment_providers/match2pay/icon.png?w=278&c=v0.59.26#w100) |[Match2Pay](/payment-providers/match2pay/)|`match2pay`| 
 |![coinsflow](https://static.openfintech.io/payment_providers/coinsflow/icon.png?w=278&c=v0.59.26#w100) |[Coinsflow](/payment-providers/coinsflow/)|`coinsflow`| 
 |![cryptopay](https://static.openfintech.io/payment_providers/cryptopay/icon.svg?w=278&c=v0.59.26#w100) |[Cryptopay](/payment-providers/cryptopay/)|`cryptopay`| 
+|![boomfi](https://static.openfintech.io/payment_providers/boomfi/icon.svg?w=278&c=v0.59.26#w100) |[Boomfi](/payment-providers/boomfi/)|`boomfi`| 
  
 
 ## JSON Object 

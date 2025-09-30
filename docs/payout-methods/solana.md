@@ -48,6 +48,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Solana_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![cryptopay](https://static.openfintech.io/payment_providers/cryptopay/icon.svg?w=278&c=v0.59.26#w100) |[Cryptopay](/payment-providers/cryptopay/)|`cryptopay`| 
+|![boomfi](https://static.openfintech.io/payment_providers/boomfi/icon.svg?w=278&c=v0.59.26#w100) |[Boomfi](/payment-providers/boomfi/)|`boomfi`| 
  
 
 ## JSON Object 

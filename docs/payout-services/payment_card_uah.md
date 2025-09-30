@@ -16,7 +16,7 @@
 :	[RU] Card 
 :	[UK] Card 
  
-**Amount limits:** from `0.01` to `100000` UAH 
+**Amount limits:** from `0.01` to `4100000` UAH 
 
 ## Fields 
 
@@ -82,6 +82,6 @@
     }
   ],
   "amount_min":"0.01",
-  "amount_max":"100000"
+  "amount_max":"4100000"
 }
 ```  

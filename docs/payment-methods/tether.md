@@ -122,6 +122,7 @@ The list of [Payment Services](/payment-services/) based on the _Tether_
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_bep20_chf_hpp](/payment-services/tether_bep20_chf_hpp/)|`tether_bep20_chf_hpp`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_bep20_usd_hpp](/payment-services/tether_bep20_usd_hpp/)|`tether_bep20_usd_hpp`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_trc20_usdt_hpp](/payment-services/tether_trc20_usdt_hpp/)|`tether_trc20_usdt_hpp`| 
+|![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_usdt_hpp](/payment-services/tether_usdt_hpp/)|`tether_usdt_hpp`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_usdterc20_hpp](/payment-services/tether_usdterc20_hpp/)|`tether_usdterc20_hpp`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_usdttrc20_hpp](/payment-services/tether_usdttrc20_hpp/)|`tether_usdttrc20_hpp`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether_usdtbep20_hpp](/payment-services/tether_usdtbep20_hpp/)|`tether_usdtbep20_hpp`| 
@@ -149,6 +150,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Tether_
 |![gateiq](https://static.openfintech.io/payment_providers/gateiq/icon.svg?w=278&c=v0.59.26#w100) |[GateIQ](/payment-providers/gateiq/)|`gateiq`| 
 |![coinsflow](https://static.openfintech.io/payment_providers/coinsflow/icon.png?w=278&c=v0.59.26#w100) |[Coinsflow](/payment-providers/coinsflow/)|`coinsflow`| 
 |![cryptopay](https://static.openfintech.io/payment_providers/cryptopay/icon.svg?w=278&c=v0.59.26#w100) |[Cryptopay](/payment-providers/cryptopay/)|`cryptopay`| 
+|![boomfi](https://static.openfintech.io/payment_providers/boomfi/icon.svg?w=278&c=v0.59.26#w100) |[Boomfi](/payment-providers/boomfi/)|`boomfi`| 
  
 
 ## JSON Object 

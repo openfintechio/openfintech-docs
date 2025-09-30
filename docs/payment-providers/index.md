@@ -136,6 +136,7 @@
 |![boacompra](https://static.openfintech.io/payment_providers/boacompra/logo.png?w=600&c=v0.59.26#w100) |[**UOL BoaCompra**](boacompra/)|`boacompra`| 
 |![boku](https://static.openfintech.io/payment_providers/boku/logo.svg?w=600&c=v0.59.26#w100) |[**BOKU**](boku/)|`boku`| 
 |![boombill](https://static.openfintech.io/payment_providers/boombill/logo.png?w=600&c=v0.59.26#w100) |[**Boom-Bill**](boombill/)|`boombill`| 
+|![boomfi](https://static.openfintech.io/payment_providers/boomfi/logo.svg?w=600&c=v0.59.26#w100) |[**Boomfi**](boomfi/)|`boomfi`| 
 |![borgun](https://static.openfintech.io/payment_providers/borgun/logo.png?w=600&c=v0.59.26#w100) |[**Borgun**](borgun/)|`borgun`| 
 |![bp](https://static.openfintech.io/payment_providers/bp/logo.svg?w=600&c=v0.59.26#w100) |[**BP**](bp/)|`bp`| 
 |![braintree](https://static.openfintech.io/payment_providers/braintree/logo.svg?w=600&c=v0.59.26#w100) |[**Braintree**](braintree/)|`braintree`| 

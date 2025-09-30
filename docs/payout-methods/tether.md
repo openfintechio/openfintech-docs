@@ -137,6 +137,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Tether_
 |![gateiq](https://static.openfintech.io/payment_providers/gateiq/icon.svg?w=278&c=v0.59.26#w100) |[GateIQ](/payment-providers/gateiq/)|`gateiq`| 
 |![coinsflow](https://static.openfintech.io/payment_providers/coinsflow/icon.png?w=278&c=v0.59.26#w100) |[Coinsflow](/payment-providers/coinsflow/)|`coinsflow`| 
 |![cryptopay](https://static.openfintech.io/payment_providers/cryptopay/icon.svg?w=278&c=v0.59.26#w100) |[Cryptopay](/payment-providers/cryptopay/)|`cryptopay`| 
+|![boomfi](https://static.openfintech.io/payment_providers/boomfi/icon.svg?w=278&c=v0.59.26#w100) |[Boomfi](/payment-providers/boomfi/)|`boomfi`| 
  
 
 ## JSON Object 
