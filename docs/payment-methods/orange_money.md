@@ -39,6 +39,10 @@ The list of [Payment Services](/payment-services/) based on the _Orange Money_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![orange_money](https://static.openfintech.io/payment_methods/orange_money/icon.png?w=278&c=v0.59.26#w100) |[orange_money_xaf_hpp](/payment-services/orange_money_xaf_hpp/)|`orange_money_xaf_hpp`| 
+|![orange_money](https://static.openfintech.io/payment_methods/orange_money/icon.png?w=278&c=v0.59.26#w100) |[orange_money_xof_invoice](/payment-services/orange_money_xof_invoice/)|`orange_money_xof_invoice`| 
+|![orange_money](https://static.openfintech.io/payment_methods/orange_money/icon.png?w=278&c=v0.59.26#w100) |[orange_money_xaf_invoice](/payment-services/orange_money_xaf_invoice/)|`orange_money_xaf_invoice`| 
+|![orange_money](https://static.openfintech.io/payment_methods/orange_money/icon.png?w=278&c=v0.59.26#w100) |[orange_money_sll_invoice](/payment-services/orange_money_sll_invoice/)|`orange_money_sll_invoice`| 
+|![orange_money](https://static.openfintech.io/payment_methods/orange_money/icon.png?w=278&c=v0.59.26#w100) |[orange_money_cdf_invoice](/payment-services/orange_money_cdf_invoice/)|`orange_money_cdf_invoice`| 
  
 
 ## Payment Providers 

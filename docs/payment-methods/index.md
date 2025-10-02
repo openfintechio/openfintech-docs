@@ -587,6 +587,7 @@
 |![moneymail](https://static.openfintech.io/payment_methods/moneymail/logo.png?w=400&c=v0.59.26#w200) |[**MoneyMail**](moneymail/)|`moneymail`| 
 |![moneytopay](https://static.openfintech.io/payment_methods/moneytopay/logo.png?w=400&c=v0.59.26#w200) |[**MoneyToPay**](moneytopay/)|`moneytopay`| 
 |![monobank](https://static.openfintech.io/payment_methods/monobank/logo.png?w=400&c=v0.59.26#w200) |[**Monobank**](monobank/)|`monobank`| 
+|![moov](https://static.openfintech.io/payment_methods/moov/logo.png?w=400&c=v0.59.26#w200) |[**Moov**](moov/)|`moov`| 
 |![moviired](https://static.openfintech.io/payment_methods/moviired/logo.svg?w=400&c=v0.59.26#w200) |[**Moviired**](moviired/)|`moviired`| 
 |![mpayaisthailand](https://static.openfintech.io/payment_methods/mpayaisthailand/logo.png?w=400&c=v0.59.26#w200) |[**mPAY**](mpayaisthailand/)|`mpayaisthailand`| 
 |![mtb](https://static.openfintech.io/payment_methods/mtb/logo.svg?w=400&c=v0.59.26#w200) |[**MTB**](mtb/)|`mtb`| 
@@ -926,6 +927,7 @@
 |![tigo_pesa](https://static.openfintech.io/payment_methods/tigo_pesa/logo.png?w=400&c=v0.59.26#w200) |[**Tigo pesa**](tigo_pesa/)|`tigo_pesa`| 
 |![tinkoff](https://static.openfintech.io/payment_methods/tinkoff/logo.png?w=400&c=v0.59.26#w200) |[**Tinkoff**](tinkoff/)|`tinkoff`| 
 |![tmbthanachart_bank](https://static.openfintech.io/payment_methods/tmbthanachart_bank/logo.svg?w=400&c=v0.59.26#w200) |[**TMBThanachart Bank**](tmbthanachart_bank/)|`tmbthanachart_bank`| 
+|![tnm](https://static.openfintech.io/payment_methods/tnm/logo.svg?w=400&c=v0.59.26#w200) |[**TNM**](tnm/)|`tnm`| 
 |![toditocash](https://static.openfintech.io/payment_methods/toditocash/logo.png?w=400&c=v0.59.26#w200) |[**Todito Cash**](toditocash/)|`toditocash`| 
 |![toncoin](https://static.openfintech.io/payment_methods/toncoin/logo.png?w=400&c=v0.59.26#w200) |[**Toncoin**](toncoin/)|`toncoin`| 
 |![touch_n_go](https://static.openfintech.io/payment_methods/touch_n_go/logo.svg?w=400&c=v0.59.26#w200) |[**Touch'n Go**](touch_n_go/)|`touch_n_go`| 
@@ -1017,6 +1019,7 @@
 |![walletone](https://static.openfintech.io/payment_methods/walletone/logo.png?w=400&c=v0.59.26#w200) |[**WalletOne**](walletone/)|`walletone`| 
 |![walmart](https://static.openfintech.io/payment_methods/walmart/logo.svg?w=400&c=v0.59.26#w200) |[**Walmart**](walmart/)|`walmart`| 
 |![walmart_express](https://static.openfintech.io/payment_methods/walmart_express/logo.svg?w=400&c=v0.59.26#w200) |[**Walmart Express**](walmart_express/)|`walmart_express`| 
+|![wave](https://static.openfintech.io/payment_methods/wave/logo.png?w=400&c=v0.59.26#w200) |[**Wave**](wave/)|`wave`| 
 |![waves](https://static.openfintech.io/payment_methods/waves/logo.svg?w=400&c=v0.59.26#w200) |[**Waves**](waves/)|`waves`| 
 |![webmoneytransfer](https://static.openfintech.io/payment_methods/webmoneytransfer/logo.svg?w=400&c=v0.59.26#w200) |[**WebMoney Transfer**](webmoneytransfer/)|`webmoneytransfer`| 
 |![webpay](https://static.openfintech.io/payment_methods/webpay/logo.svg?w=400&c=v0.59.26#w200) |[**Webpay**](webpay/)|`webpay`| 

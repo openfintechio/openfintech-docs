@@ -76,10 +76,14 @@
 |![Aika Online](https://static.openfintech.io/payout_methods/aika-online/logo.png?w=400&c=v0.59.26#w24) |[**Aika Online**](/payout-methods/aika-online/)|[`aika-online_uah`](aika-online_uah/)|`UAH`| 
 |![AiRNET (Kharkiv, pl. Dnipro)](https://static.openfintech.io/payout_methods/airnet-m-kharkiv-m-dnipro/logo.png?w=400&c=v0.59.26#w24) |[**AiRNET (Kharkiv, pl. Dnipro)**](/payout-methods/airnet-m-kharkiv-m-dnipro/)|[`airnet-m-kharkiv-m-dnipro_uah`](airnet-m-kharkiv-m-dnipro_uah/)|`UAH`| 
 |![AIRPORT](https://static.openfintech.io/payout_methods/airport/logo.png?w=400&c=v0.59.26#w24) |[**AIRPORT**](/payout-methods/airport/)|[`airport_uah`](airport_uah/)|`UAH`| 
+|![Airtel Money](https://static.openfintech.io/payout_methods/airtel_money/logo.png?w=400&c=v0.59.26#w24) |[**Airtel Money**](/payout-methods/airtel_money/)|[`airtel_money_cdf`](airtel_money_cdf/)|`CDF`| 
 |![Airtel Money](https://static.openfintech.io/payout_methods/airtel_money/logo.png?w=400&c=v0.59.26#w24) |[**Airtel Money**](/payout-methods/airtel_money/)|[`airtel_money_ghs`](airtel_money_ghs/)|`GHS`| 
 |![Airtel Money](https://static.openfintech.io/payout_methods/airtel_money/logo.png?w=400&c=v0.59.26#w24) |[**Airtel Money**](/payout-methods/airtel_money/)|[`airtel_money_kes`](airtel_money_kes/)|`KES`| 
+|![Airtel Money](https://static.openfintech.io/payout_methods/airtel_money/logo.png?w=400&c=v0.59.26#w24) |[**Airtel Money**](/payout-methods/airtel_money/)|[`airtel_money_mwk`](airtel_money_mwk/)|`MWK`| 
+|![Airtel Money](https://static.openfintech.io/payout_methods/airtel_money/logo.png?w=400&c=v0.59.26#w24) |[**Airtel Money**](/payout-methods/airtel_money/)|[`airtel_money_rwf`](airtel_money_rwf/)|`RWF`| 
 |![Airtel Money](https://static.openfintech.io/payout_methods/airtel_money/logo.png?w=400&c=v0.59.26#w24) |[**Airtel Money**](/payout-methods/airtel_money/)|[`airtel_money_tzs`](airtel_money_tzs/)|`TZS`| 
 |![Airtel Money](https://static.openfintech.io/payout_methods/airtel_money/logo.png?w=400&c=v0.59.26#w24) |[**Airtel Money**](/payout-methods/airtel_money/)|[`airtel_money_ugx`](airtel_money_ugx/)|`UGX`| 
+|![Airtel Money](https://static.openfintech.io/payout_methods/airtel_money/logo.png?w=400&c=v0.59.26#w24) |[**Airtel Money**](/payout-methods/airtel_money/)|[`airtel_money_xaf`](airtel_money_xaf/)|`XAF`| 
 |![Airtel Money](https://static.openfintech.io/payout_methods/airtel_money/logo.png?w=400&c=v0.59.26#w24) |[**Airtel Money**](/payout-methods/airtel_money/)|[`airtel_money_zmw`](airtel_money_zmw/)|`ZMW`| 
 |![AirtelTigo](https://static.openfintech.io/payout_methods/airteltigo/logo.svg?w=400&c=v0.59.26#w24) |[**AirtelTigo**](/payout-methods/airteltigo/)|[`airteltigo_ghs`](airteltigo_ghs/)|`GHS`| 
 |![AirtelTigo](https://static.openfintech.io/payout_methods/airteltigo/logo.svg?w=400&c=v0.59.26#w24) |[**AirtelTigo**](/payout-methods/airteltigo/)|[`airteltigo_rwf`](airteltigo_rwf/)|`RWF`| 
@@ -1419,6 +1423,7 @@
 |![MoneyVeo](https://static.openfintech.io/payout_methods/moneyveo/logo.png?w=400&c=v0.59.26#w24) |[**MoneyVeo**](/payout-methods/moneyveo/)|[`moneyveo_uah`](moneyveo_uah/)|`UAH`| 
 |![Mono Bank](https://static.openfintech.io/payout_methods/mono_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Mono Bank**](/payout-methods/mono_bank/)|[`mono_bank_uah`](mono_bank_uah/)|`UAH`| 
 |![Monolit.net (Boryspil)](https://static.openfintech.io/payout_methods/monolit-net-borispol/logo.png?w=400&c=v0.59.26#w24) |[**Monolit.net (Boryspil)**](/payout-methods/monolit-net-borispol/)|[`monolit-net-borispol_uah`](monolit-net-borispol_uah/)|`UAH`| 
+|![Moov](https://static.openfintech.io/payout_methods/moov/logo.png?w=400&c=v0.59.26#w24) |[**Moov**](/payout-methods/moov/)|[`moov_xof`](moov_xof/)|`XOF`| 
 |![Movii](https://static.openfintech.io/payout_methods/movii/logo.svg?w=400&c=v0.59.26#w24) |[**Movii**](/payout-methods/movii/)|[`movii_cop`](movii_cop/)|`COP`| 
 |![Mpesa](https://static.openfintech.io/payout_methods/mpesa_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**Mpesa**](/payout-methods/mpesa_wallet/)|[`mpesa_wallet_kes`](mpesa_wallet_kes/)|`KES`| 
 |![MSL - state lottery](https://static.openfintech.io/payout_methods/msl-derzhavni-lotereyi/logo.svg?w=400&c=v0.59.26#w24) |[**MSL - state lottery**](/payout-methods/msl-derzhavni-lotereyi/)|[`msl-derzhavni-lotereyi_uah`](msl-derzhavni-lotereyi_uah/)|`UAH`| 
@@ -1593,6 +1598,8 @@
 |![OOO Tisa](https://static.openfintech.io/payout_methods/ooo-tisa/logo.png?w=400&c=v0.59.26#w24) |[**OOO Tisa**](/payout-methods/ooo-tisa/)|[`ooo-tisa_uah`](ooo-tisa_uah/)|`UAH`| 
 |![LLC 'VOKS'](https://static.openfintech.io/payout_methods/ooo-voks/logo.png?w=400&c=v0.59.26#w24) |[**LLC 'VOKS'**](/payout-methods/ooo-voks/)|[`ooo-voks_uah`](ooo-voks_uah/)|`UAH`| 
 |![OPTIM (Kiev)](https://static.openfintech.io/payout_methods/optim-kiev/logo.svg?w=400&c=v0.59.26#w24) |[**OPTIM (Kiev)**](/payout-methods/optim-kiev/)|[`optim-kiev_uah`](optim-kiev_uah/)|`UAH`| 
+|![Orange Money](https://static.openfintech.io/payout_methods/orange_money/logo.png?w=400&c=v0.59.26#w24) |[**Orange Money**](/payout-methods/orange_money/)|[`orange_money_cdf`](orange_money_cdf/)|`CDF`| 
+|![Orange Money](https://static.openfintech.io/payout_methods/orange_money/logo.png?w=400&c=v0.59.26#w24) |[**Orange Money**](/payout-methods/orange_money/)|[`orange_money_sll`](orange_money_sll/)|`SLL`| 
 |![Orange Money](https://static.openfintech.io/payout_methods/orange_money/logo.png?w=400&c=v0.59.26#w24) |[**Orange Money**](/payout-methods/orange_money/)|[`orange_money_xaf`](orange_money_xaf/)|`XAF`| 
 |![Orange Money](https://static.openfintech.io/payout_methods/orange_money/logo.png?w=400&c=v0.59.26#w24) |[**Orange Money**](/payout-methods/orange_money/)|[`orange_money_xof`](orange_money_xof/)|`XOF`| 
 |![ORBITA (Odessa)](https://static.openfintech.io/payout_methods/orbita-odessa/logo.png?w=400&c=v0.59.26#w24) |[**ORBITA (Odessa)**](/payout-methods/orbita-odessa/)|[`orbita-odessa_uah`](orbita-odessa_uah/)|`UAH`| 
@@ -2742,6 +2749,7 @@
 |![TNEU - For training](https://static.openfintech.io/payout_methods/tneu-za-navchannia/logo.svg?w=400&c=v0.59.26#w24) |[**TNEU - For training**](/payout-methods/tneu-za-navchannia/)|[`tneu-za-navchannia_uah`](tneu-za-navchannia_uah/)|`UAH`| 
 |![TNEU - For rent](https://static.openfintech.io/payout_methods/tneu-za-orendu/logo.svg?w=400&c=v0.59.26#w24) |[**TNEU - For rent**](/payout-methods/tneu-za-orendu/)|[`tneu-za-orendu_uah`](tneu-za-orendu_uah/)|`UAH`| 
 |![TNEU - For an extract to the diploma of education](https://static.openfintech.io/payout_methods/tneu-za-vipisku-do-diplomu-pro-osvitu/logo.svg?w=400&c=v0.59.26#w24) |[**TNEU - For an extract to the diploma of education**](/payout-methods/tneu-za-vipisku-do-diplomu-pro-osvitu/)|[`tneu-za-vipisku-do-diplomu-pro-osvitu_uah`](tneu-za-vipisku-do-diplomu-pro-osvitu_uah/)|`UAH`| 
+|![TNM](https://static.openfintech.io/payout_methods/tnm/logo.svg?w=400&c=v0.59.26#w24) |[**TNM**](/payout-methods/tnm/)|[`tnm_mwk`](tnm_mwk/)|`MWK`| 
 |![Tochigi Bank](https://static.openfintech.io/payout_methods/tochigi_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Tochigi Bank**](/payout-methods/tochigi_bank/)|[`tochigi_bank_jpy`](tochigi_bank_jpy/)|`JPY`| 
 |![Tohoku Bank](https://static.openfintech.io/payout_methods/tohoku_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Tohoku Bank**](/payout-methods/tohoku_bank/)|[`tohoku_bank_jpy`](tohoku_bank_jpy/)|`JPY`| 
 |![Tokushima Bank](https://static.openfintech.io/payout_methods/tokushima_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Tokushima Bank**](/payout-methods/tokushima_bank/)|[`tokushima_bank_jpy`](tokushima_bank_jpy/)|`JPY`| 

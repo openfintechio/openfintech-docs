@@ -44,6 +44,9 @@ The list of [Payment Services](/payment-services/) based on the _MTN_
 |![mtn](https://static.openfintech.io/payment_methods/mtn/icon.svg?w=278&c=v0.59.26#w100) |[mtn_ghs_hpp](/payment-services/mtn_ghs_hpp/)|`mtn_ghs_hpp`| 
 |![mtn](https://static.openfintech.io/payment_methods/mtn/icon.svg?w=278&c=v0.59.26#w100) |[mtn_xaf_hpp](/payment-services/mtn_xaf_hpp/)|`mtn_xaf_hpp`| 
 |![mtn](https://static.openfintech.io/payment_methods/mtn/icon.svg?w=278&c=v0.59.26#w100) |[mtn_zmw_invoice](/payment-services/mtn_zmw_invoice/)|`mtn_zmw_invoice`| 
+|![mtn](https://static.openfintech.io/payment_methods/mtn/icon.svg?w=278&c=v0.59.26#w100) |[mtn_xof_invoice](/payment-services/mtn_xof_invoice/)|`mtn_xof_invoice`| 
+|![mtn](https://static.openfintech.io/payment_methods/mtn/icon.svg?w=278&c=v0.59.26#w100) |[mtn_xaf_invoice](/payment-services/mtn_xaf_invoice/)|`mtn_xaf_invoice`| 
+|![mtn](https://static.openfintech.io/payment_methods/mtn/icon.svg?w=278&c=v0.59.26#w100) |[mtn_cdf_invoice](/payment-services/mtn_cdf_invoice/)|`mtn_cdf_invoice`| 
  
 
 ## Payment Providers 

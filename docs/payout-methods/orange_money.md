@@ -36,6 +36,8 @@ The list of [Payout Services](/payout-services/) based on the _Orange Money_
 |:---:|:---:|:---:| 
 |![orange_money](https://static.openfintech.io/payout_methods/orange_money/icon.png?w=278&c=v0.59.26#w40) |[orange_money_xaf](/payout-services/orange_money_xaf/)|`orange_money_xaf`| 
 |![orange_money](https://static.openfintech.io/payout_methods/orange_money/icon.png?w=278&c=v0.59.26#w40) |[orange_money_xof](/payout-services/orange_money_xof/)|`orange_money_xof`| 
+|![orange_money](https://static.openfintech.io/payout_methods/orange_money/icon.png?w=278&c=v0.59.26#w40) |[orange_money_cdf](/payout-services/orange_money_cdf/)|`orange_money_cdf`| 
+|![orange_money](https://static.openfintech.io/payout_methods/orange_money/icon.png?w=278&c=v0.59.26#w40) |[orange_money_sll](/payout-services/orange_money_sll/)|`orange_money_sll`| 
  
 
 ## Payment Providers 

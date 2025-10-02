@@ -1271,6 +1271,7 @@
 |![moneyveo](https://static.openfintech.io/payout_methods/moneyveo/logo.png?w=400&c=v0.59.26#w24) |[**MoneyVeo**](moneyveo/)|`moneyveo`| 
 |![mono_bank](https://static.openfintech.io/payout_methods/mono_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Mono Bank**](mono_bank/)|`mono_bank`| 
 |![monolit-net-borispol](https://static.openfintech.io/payout_methods/monolit-net-borispol/logo.png?w=400&c=v0.59.26#w24) |[**Monolit.net (Boryspil)**](monolit-net-borispol/)|`monolit-net-borispol`| 
+|![moov](https://static.openfintech.io/payout_methods/moov/logo.png?w=400&c=v0.59.26#w24) |[**Moov**](moov/)|`moov`| 
 |![movii](https://static.openfintech.io/payout_methods/movii/logo.svg?w=400&c=v0.59.26#w24) |[**Movii**](movii/)|`movii`| 
 |![mpesa_wallet](https://static.openfintech.io/payout_methods/mpesa_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**Mpesa**](mpesa_wallet/)|`mpesa_wallet`| 
 |![msl-derzhavni-lotereyi](https://static.openfintech.io/payout_methods/msl-derzhavni-lotereyi/logo.svg?w=400&c=v0.59.26#w24) |[**MSL - state lottery**](msl-derzhavni-lotereyi/)|`msl-derzhavni-lotereyi`| 
@@ -2563,6 +2564,7 @@
 |![tneu-za-navchannia-u-koledzhi-epit](https://static.openfintech.io/payout_methods/tneu-za-navchannia-u-koledzhi-epit/logo.svg?w=400&c=v0.59.26#w24) |[**TNEU - For study at the College Epitom**](tneu-za-navchannia-u-koledzhi-epit/)|`tneu-za-navchannia-u-koledzhi-epit`| 
 |![tneu-za-orendu](https://static.openfintech.io/payout_methods/tneu-za-orendu/logo.svg?w=400&c=v0.59.26#w24) |[**TNEU - For rent**](tneu-za-orendu/)|`tneu-za-orendu`| 
 |![tneu-za-vipisku-do-diplomu-pro-osvitu](https://static.openfintech.io/payout_methods/tneu-za-vipisku-do-diplomu-pro-osvitu/logo.svg?w=400&c=v0.59.26#w24) |[**TNEU - For an extract to the diploma of education**](tneu-za-vipisku-do-diplomu-pro-osvitu/)|`tneu-za-vipisku-do-diplomu-pro-osvitu`| 
+|![tnm](https://static.openfintech.io/payout_methods/tnm/logo.svg?w=400&c=v0.59.26#w24) |[**TNM**](tnm/)|`tnm`| 
 |![tochigi_bank](https://static.openfintech.io/payout_methods/tochigi_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Tochigi Bank**](tochigi_bank/)|`tochigi_bank`| 
 |![tohoku_bank](https://static.openfintech.io/payout_methods/tohoku_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Tohoku Bank**](tohoku_bank/)|`tohoku_bank`| 
 |![tokushima_bank](https://static.openfintech.io/payout_methods/tokushima_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Tokushima Bank**](tokushima_bank/)|`tokushima_bank`| 
