@@ -2070,6 +2070,7 @@
 |![spbwmcasher.ru](https://static.openfintech.io/vendors/spbwmcasher.ru/logo.svg?w=600&c=v0.59.26#w200) |[**SpbWMCasher**](spbwmcasher.ru/)|`spbwmcasher.ru`| 
 |![specializedprocessingsolutions](https://static.openfintech.io/vendors/specializedprocessingsolutions/logo.png?w=600&c=v0.59.26#w200) |[**Specialized Processing Solutions**](specializedprocessingsolutions/)|`specializedprocessingsolutions`| 
 |![spectrepayments](https://static.openfintech.io/vendors/spectrepayments/logo.png?w=600&c=v0.59.26#w200) |[**Spectre Payments**](spectrepayments/)|`spectrepayments`| 
+|![spell](https://static.openfintech.io/vendors/spell/logo.png?w=600&c=v0.59.26#w200) |[**Spell**](spell/)|`spell`| 
 |![spitamenbank](https://static.openfintech.io/vendors/spitamenbank/logo.svg?w=600&c=v0.59.26#w200) |[**Spitamen Bank**](spitamenbank/)|`spitamenbank`| 
 |![spoynt](https://static.openfintech.io/vendors/spoynt/logo.svg?w=600&c=v0.59.26#w200) |[**Spoynt**](spoynt/)|`spoynt`| 
 |![spryng](https://static.openfintech.io/vendors/spryng/logo.png?w=600&c=v0.59.26#w200) |[**Spryng Payments**](spryng/)|`spryng`| 

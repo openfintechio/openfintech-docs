@@ -971,6 +971,7 @@
 |![spayz](https://static.openfintech.io/payment_providers/spayz/logo.svg?w=600&c=v0.59.26#w100) |[**Spayz**](spayz/)|`spayz`| 
 |![specializedprocessingsolutions](https://static.openfintech.io/payment_providers/specializedprocessingsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Specialized Processing Solutions**](specializedprocessingsolutions/)|`specializedprocessingsolutions`| 
 |![spectrepayments](https://static.openfintech.io/payment_providers/spectrepayments/logo.png?w=600&c=v0.59.26#w100) |[**Spectre Payments**](spectrepayments/)|`spectrepayments`| 
+|![spell](https://static.openfintech.io/payment_providers/spell/logo.png?w=600&c=v0.59.26#w100) |[**Spell**](spell/)|`spell`| 
 |![spitamenbank](https://static.openfintech.io/payment_providers/spitamenbank/logo.svg?w=600&c=v0.59.26#w100) |[**Spitamen Bank**](spitamenbank/)|`spitamenbank`| 
 |![spoynt](https://static.openfintech.io/payment_providers/spoynt/logo.svg?w=600&c=v0.59.26#w100) |[**Spoynt**](spoynt/)|`spoynt`| 
 |![spryng](https://static.openfintech.io/payment_providers/spryng/logo.png?w=600&c=v0.59.26#w100) |[**Spryng Payments**](spryng/)|`spryng`| 
