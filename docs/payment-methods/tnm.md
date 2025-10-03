@@ -39,6 +39,15 @@ The list of [Payment Services](/payment-services/) based on the _TNM_
 |![tnm](https://static.openfintech.io/payment_methods/tnm/icon.svg?w=278&c=v0.59.26#w100) |[tnm_mwk_invoice](/payment-services/tnm_mwk_invoice/)|`tnm_mwk_invoice`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _TNM_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![klasha](https://static.openfintech.io/payment_providers/klasha/icon.png?w=278&c=v0.59.26#w100) |[Klasha](/payment-providers/klasha/)|`klasha`| 
+ 
+
 ## JSON Object 
 
 ```json

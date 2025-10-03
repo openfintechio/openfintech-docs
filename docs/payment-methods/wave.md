@@ -39,6 +39,15 @@ The list of [Payment Services](/payment-services/) based on the _Wave_
 |![wave](https://static.openfintech.io/payment_methods/wave/icon.png?w=278&c=v0.59.26#w100) |[wave_xof_invoice](/payment-services/wave_xof_invoice/)|`wave_xof_invoice`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Wave_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![klasha](https://static.openfintech.io/payment_providers/klasha/icon.png?w=278&c=v0.59.26#w100) |[Klasha](/payment-providers/klasha/)|`klasha`| 
+ 
+
 ## JSON Object 
 
 ```json

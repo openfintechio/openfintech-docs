@@ -39,6 +39,15 @@ The list of [Payment Services](/payment-services/) based on the _Moov_
 |![moov](https://static.openfintech.io/payment_methods/moov/icon.png?w=278&c=v0.59.26#w100) |[moov_xof_invoice](/payment-services/moov_xof_invoice/)|`moov_xof_invoice`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Moov_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![klasha](https://static.openfintech.io/payment_providers/klasha/icon.png?w=278&c=v0.59.26#w100) |[Klasha](/payment-providers/klasha/)|`klasha`| 
+ 
+
 ## JSON Object 
 
 ```json

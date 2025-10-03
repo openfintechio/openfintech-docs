@@ -39,6 +39,15 @@ The list of [Payout Services](/payout-services/) based on the _TNM_
 |![tnm](https://static.openfintech.io/payout_methods/tnm/icon.svg?w=278&c=v0.59.26#w40) |[tnm_mwk](/payout-services/tnm_mwk/)|`tnm_mwk`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _TNM_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![klasha](https://static.openfintech.io/payment_providers/klasha/icon.png?w=278&c=v0.59.26#w100) |[Klasha](/payment-providers/klasha/)|`klasha`| 
+ 
+
 ## JSON Object 
 
 ```json

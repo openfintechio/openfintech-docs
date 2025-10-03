@@ -53,6 +53,10 @@ The list of supported [Payment Methods](/payment-methods/)
 |![halotel](https://static.openfintech.io/payment_methods/halotel/icon.png?w=278&c=v0.59.26#w100) |[halotel](/payment-methods/halotel/)|`halotel`| 
 |![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money](/payment-methods/airtel_money/)|`airtel_money`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
+|![moov](https://static.openfintech.io/payment_methods/moov/icon.png?w=278&c=v0.59.26#w100) |[moov](/payment-methods/moov/)|`moov`| 
+|![wave](https://static.openfintech.io/payment_methods/wave/icon.png?w=278&c=v0.59.26#w100) |[wave](/payment-methods/wave/)|`wave`| 
+|![orange_money](https://static.openfintech.io/payment_methods/orange_money/icon.png?w=278&c=v0.59.26#w100) |[orange_money](/payment-methods/orange_money/)|`orange_money`| 
+|![tnm](https://static.openfintech.io/payment_methods/tnm/icon.svg?w=278&c=v0.59.26#w100) |[tnm](/payment-methods/tnm/)|`tnm`| 
  
 
 ## Payout Methods 
@@ -107,6 +111,10 @@ The list of supported [Payout Methods](/payout-methods/)
 |![zamtel](https://static.openfintech.io/payout_methods/zamtel/icon.png?w=278&c=v0.59.26#w40) |[zamtel](payout-methodszamtel/)|`zamtel`| 
 |![mtn](https://static.openfintech.io/payout_methods/mtn/icon.svg?w=278&c=v0.59.26#w40) |[mtn](payout-methodsmtn/)|`mtn`| 
 |![halotel](https://static.openfintech.io/payout_methods/halotel/icon.png?w=278&c=v0.59.26#w40) |[halotel](payout-methodshalotel/)|`halotel`| 
+|![orange_money](https://static.openfintech.io/payout_methods/orange_money/icon.png?w=278&c=v0.59.26#w40) |[orange_money](payout-methodsorange_money/)|`orange_money`| 
+|![moov](https://static.openfintech.io/payout_methods/moov/icon.png?w=278&c=v0.59.26#w40) |[moov](payout-methodsmoov/)|`moov`| 
+|![m_pesa](https://static.openfintech.io/payout_methods/m_pesa/icon.svg?w=278&c=v0.59.26#w40) |[m_pesa](payout-methodsm_pesa/)|`m_pesa`| 
+|![tnm](https://static.openfintech.io/payout_methods/tnm/icon.svg?w=278&c=v0.59.26#w40) |[tnm](payout-methodstnm/)|`tnm`| 
  
 
 ## JSON Object 
@@ -130,7 +138,11 @@ The list of supported [Payout Methods](/payout-methods/)
     "tigo_pesa",
     "halotel",
     "airtel_money",
-    "bank_transfer"
+    "bank_transfer",
+    "moov",
+    "wave",
+    "orange_money",
+    "tnm"
   ],
   "payout_method":[
     "zenith_bank",
@@ -178,7 +190,11 @@ The list of supported [Payout Methods](/payout-methods/)
     "airtel_money",
     "zamtel",
     "mtn",
-    "halotel"
+    "halotel",
+    "orange_money",
+    "moov",
+    "m_pesa",
+    "tnm"
   ],
   "metadata":null,
   "name":{
