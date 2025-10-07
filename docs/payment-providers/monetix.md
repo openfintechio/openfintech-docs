@@ -166,6 +166,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![dutch_bangla_bank_limited_rocket](https://static.openfintech.io/payout_methods/dutch_bangla_bank_limited_rocket/icon.svg?w=278&c=v0.59.26#w40) |[dutch_bangla_bank_limited_rocket](payout-methodsdutch_bangla_bank_limited_rocket/)|`dutch_bangla_bank_limited_rocket`| 
 |![united_commercial_bank_upay](https://static.openfintech.io/payout_methods/united_commercial_bank_upay/icon.svg?w=278&c=v0.59.26#w40) |[united_commercial_bank_upay](payout-methodsunited_commercial_bank_upay/)|`united_commercial_bank_upay`| 
 |![bkash_limited](https://static.openfintech.io/payout_methods/bkash_limited/icon.png?w=278&c=v0.59.26#w40) |[bkash_limited](payout-methodsbkash_limited/)|`bkash_limited`| 
+|![sepa_transfer](https://static.openfintech.io/payout_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w40) |[sepa_transfer](payout-methodssepa_transfer/)|`sepa_transfer`| 
 |![nagad_wallet](https://static.openfintech.io/payout_methods/nagad_wallet/icon.svg?w=278&c=v0.59.26#w40) |[nagad_wallet](payout-methodsnagad_wallet/)|`nagad_wallet`| 
  
 
@@ -298,6 +299,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "dutch_bangla_bank_limited_rocket",
     "united_commercial_bank_upay",
     "bkash_limited",
+    "sepa_transfer",
     "nagad_wallet"
   ],
   "metadata":null,
