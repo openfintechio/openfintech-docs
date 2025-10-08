@@ -2162,6 +2162,7 @@
 |![tome](https://static.openfintech.io/vendors/tome/logo.svg?w=600&c=v0.59.26#w200) |[**Tome**](tome/)|`tome`| 
 |![tompayment](https://static.openfintech.io/vendors/tompayment/logo.svg?w=600&c=v0.59.26#w200) |[**TomPayment**](tompayment/)|`tompayment`| 
 |![toncoin](https://static.openfintech.io/vendors/toncoin/logo.png?w=600&c=v0.59.26#w200) |[**Toncoin**](toncoin/)|`toncoin`| 
+|![topay](https://static.openfintech.io/vendors/topay/logo.svg?w=600&c=v0.59.26#w200) |[**TOPAY.PRO**](topay/)|`topay`| 
 |![toppay](https://static.openfintech.io/vendors/toppay/logo.svg?w=600&c=v0.59.26#w200) |[**TopPay**](toppay/)|`toppay`| 
 |![toshani](https://static.openfintech.io/vendors/toshani/logo.png?w=600&c=v0.59.26#w200) |[**Toshani**](toshani/)|`toshani`| 
 |![toss_bank](https://static.openfintech.io/vendors/toss_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Toss Bank**](toss_bank/)|`toss_bank`| 
