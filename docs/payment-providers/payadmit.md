@@ -72,6 +72,9 @@ The list of supported [Payment Methods](/payment-methods/)
 |![eps](https://static.openfintech.io/payment_methods/eps/icon.png?w=278&c=v0.59.26#w100) |[eps](/payment-methods/eps/)|`eps`| 
 |![bancontact](https://static.openfintech.io/payment_methods/bancontact/icon.png?w=278&c=v0.59.26#w100) |[bancontact](/payment-methods/bancontact/)|`bancontact`| 
 |![crypto_aggregated](https://static.openfintech.io/payment_methods/crypto_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[crypto_aggregated](/payment-methods/crypto_aggregated/)|`crypto_aggregated`| 
+|![interac](https://static.openfintech.io/payment_methods/interac/icon.png?w=278&c=v0.59.26#w100) |[interac](/payment-methods/interac/)|`interac`| 
+|![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/icon.png?w=278&c=v0.59.26#w100) |[polipayonline](/payment-methods/polipayonline/)|`polipayonline`| 
+|![ideal](https://static.openfintech.io/payment_methods/ideal/icon.svg?w=278&c=v0.59.26#w100) |[ideal](/payment-methods/ideal/)|`ideal`| 
  
 
 ## Payout Methods 
@@ -125,7 +128,10 @@ The list of supported [Payout Methods](/payout-methods/)
     "mybank2",
     "eps",
     "bancontact",
-    "crypto_aggregated"
+    "crypto_aggregated",
+    "interac",
+    "polipayonline",
+    "ideal"
   ],
   "payout_method":[
     "payment_card",

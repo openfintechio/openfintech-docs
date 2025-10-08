@@ -2047,6 +2047,7 @@
 |![smartgates](https://static.openfintech.io/vendors/smartgates/logo.png?w=600&c=v0.59.26#w200) |[**Smartgates**](smartgates/)|`smartgates`| 
 |![smartmoney](https://static.openfintech.io/vendors/smartmoney/logo.png?w=600&c=v0.59.26#w200) |[**Smart Money**](smartmoney/)|`smartmoney`| 
 |![smartwm.ru](https://static.openfintech.io/vendors/smartwm.ru/logo.svg?w=600&c=v0.59.26#w200) |[**SmartWM**](smartwm.ru/)|`smartwm.ru`| 
+|![smashpay](https://static.openfintech.io/vendors/smashpay/logo.png?w=600&c=v0.59.26#w200) |[**SmashPay**](smashpay/)|`smashpay`| 
 |![smbc_trust_bank](https://static.openfintech.io/vendors/smbc_trust_bank/logo.svg?w=600&c=v0.59.26#w200) |[**SMBC Trust Bank**](smbc_trust_bank/)|`smbc_trust_bank`| 
 |![smilepayments](https://static.openfintech.io/vendors/smilepayments/logo.png?w=600&c=v0.59.26#w200) |[**Smile Payments**](smilepayments/)|`smilepayments`| 
 |![smpbank](https://static.openfintech.io/vendors/smpbank/logo.svg?w=600&c=v0.59.26#w200) |[**СМП банк**](smpbank/)|`smpbank`| 

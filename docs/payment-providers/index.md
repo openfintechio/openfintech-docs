@@ -963,6 +963,7 @@
 |![smart2pay](https://static.openfintech.io/payment_providers/smart2pay/logo.png?w=600&c=v0.59.26#w100) |[**Smart2Pay**](smart2pay/)|`smart2pay`| 
 |![smartdebit](https://static.openfintech.io/payment_providers/smartdebit/logo.png?w=600&c=v0.59.26#w100) |[**SmartDebit**](smartdebit/)|`smartdebit`| 
 |![smartgates](https://static.openfintech.io/payment_providers/smartgates/logo.png?w=600&c=v0.59.26#w100) |[**Smartgates**](smartgates/)|`smartgates`| 
+|![smashpay](https://static.openfintech.io/payment_providers/smashpay/logo.png?w=600&c=v0.59.26#w100) |[**SmashPay**](smashpay/)|`smashpay`| 
 |![smilepayments](https://static.openfintech.io/payment_providers/smilepayments/logo.png?w=600&c=v0.59.26#w100) |[**Smile Payments**](smilepayments/)|`smilepayments`| 
 |![sobini](https://static.openfintech.io/payment_providers/sobini/logo.svg?w=600&c=v0.59.26#w100) |[**Sobini**](sobini/)|`sobini`| 
 |![soeasypay](https://static.openfintech.io/payment_providers/soeasypay/logo.png?w=600&c=v0.59.26#w100) |[**SoEasyPay**](soeasypay/)|`soeasypay`| 
