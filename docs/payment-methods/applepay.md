@@ -113,6 +113,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Apple Pay
 |![flexify](https://static.openfintech.io/payment_providers/flexify/icon.png?w=278&c=v0.59.26#w100) |[Flexify](/payment-providers/flexify/)|`flexify`| 
 |![crederes](https://static.openfintech.io/payment_providers/crederes/icon.svg?w=278&c=v0.59.26#w100) |[Crederes](/payment-providers/crederes/)|`crederes`| 
 |![lpb](https://static.openfintech.io/payment_providers/lpb/icon.svg?w=278&c=v0.59.26#w100) |[LPB](/payment-providers/lpb/)|`lpb`| 
+|![impaya](https://static.openfintech.io/payment_providers/impaya/icon.png?w=278&c=v0.59.26#w100) |[Impaya](/payment-providers/impaya/)|`impaya`| 
 |![cashbulls](https://static.openfintech.io/payment_providers/cashbulls/icon.png?w=278&c=v0.59.26#w100) |[Cash Bulls](/payment-providers/cashbulls/)|`cashbulls`| 
 |![payabl](https://static.openfintech.io/payment_providers/payabl/icon.png?w=278&c=v0.59.26#w100) |[Payabl.](/payment-providers/payabl/)|`payabl`| 
 |![btgate](https://static.openfintech.io/payment_providers/btgate/icon.png?w=278&c=v0.59.26#w100) |[btGate](/payment-providers/btgate/)|`btgate`| 

@@ -40,6 +40,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![muchbetter](https://static.openfintech.io/payment_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w100) |[muchbetter](/payment-methods/muchbetter/)|`muchbetter`| 
+|![interac](https://static.openfintech.io/payment_methods/interac/icon.png?w=278&c=v0.59.26#w100) |[interac](/payment-methods/interac/)|`interac`| 
  
 
 ## Payout Methods 
@@ -49,6 +50,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![muchbetter](https://static.openfintech.io/payout_methods/muchbetter/icon.svg?w=278&c=v0.59.26#w40) |[muchbetter](payout-methodsmuchbetter/)|`muchbetter`| 
+|![interac](https://static.openfintech.io/payout_methods/interac/icon.svg?w=278&c=v0.59.26#w40) |[interac](payout-methodsinterac/)|`interac`| 
  
 
 ## JSON Object 
@@ -61,10 +63,12 @@ The list of supported [Payout Methods](/payout-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    "muchbetter"
+    "muchbetter",
+    "interac"
   ],
   "payout_method":[
-    "muchbetter"
+    "muchbetter",
+    "interac"
   ],
   "metadata":null,
   "name":{
