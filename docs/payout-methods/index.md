@@ -1905,6 +1905,7 @@
 |![providus_bank](https://static.openfintech.io/payout_methods/providus_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Providus Bank**](providus_bank/)|`providus_bank`| 
 |![prymera_bank](https://static.openfintech.io/payout_methods/prymera_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Prymera Bank**](prymera_bank/)|`prymera_bank`| 
 |![ps_bank](https://static.openfintech.io/payout_methods/ps_bank/logo.png?w=400&c=v0.59.26#w24) |[**PSBank (Philippine Savings Bank)**](ps_bank/)|`ps_bank`| 
+|![pse](https://static.openfintech.io/payout_methods/pse/logo.png?w=400&c=v0.59.26#w24) |[**PSE**](pse/)|`pse`| 
 |![psts](https://static.openfintech.io/payout_methods/psts/logo.png?w=400&c=v0.59.26#w24) |[**PSTS**](psts/)|`psts`| 
 |![public_bank_berhad](https://static.openfintech.io/payout_methods/public_bank_berhad/logo.png?w=400&c=v0.59.26#w24) |[**Public Bank Berhad**](public_bank_berhad/)|`public_bank_berhad`| 
 |![public_bank_vietnam](https://static.openfintech.io/payout_methods/public_bank_vietnam/logo.png?w=400&c=v0.59.26#w24) |[**Public Bank Vietnam**](public_bank_vietnam/)|`public_bank_vietnam`| 

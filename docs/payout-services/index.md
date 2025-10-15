@@ -1970,6 +1970,7 @@
 |![Providus Bank](https://static.openfintech.io/payout_methods/providus_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Providus Bank**](/payout-methods/providus_bank/)|[`providus_bank_ngn`](providus_bank_ngn/)|`NGN`| 
 |![Prymera Bank](https://static.openfintech.io/payout_methods/prymera_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Prymera Bank**](/payout-methods/prymera_bank/)|[`prymera_bank_pen`](prymera_bank_pen/)|`PEN`| 
 |![PSBank (Philippine Savings Bank)](https://static.openfintech.io/payout_methods/ps_bank/logo.png?w=400&c=v0.59.26#w24) |[**PSBank (Philippine Savings Bank)**](/payout-methods/ps_bank/)|[`ps_bank_php`](ps_bank_php/)|`PHP`| 
+|![PSE](https://static.openfintech.io/payout_methods/pse/logo.png?w=400&c=v0.59.26#w24) |[**PSE**](/payout-methods/pse/)|[`pse_cop`](pse_cop/)|`COP`| 
 |![PSTS](https://static.openfintech.io/payout_methods/psts/logo.png?w=400&c=v0.59.26#w24) |[**PSTS**](/payout-methods/psts/)|[`psts_uah`](psts_uah/)|`UAH`| 
 |![Public Bank Berhad](https://static.openfintech.io/payout_methods/public_bank_berhad/logo.png?w=400&c=v0.59.26#w24) |[**Public Bank Berhad**](/payout-methods/public_bank_berhad/)|[`public_bank_berhad_myr`](public_bank_berhad_myr/)|`MYR`| 
 |![Public Bank Vietnam](https://static.openfintech.io/payout_methods/public_bank_vietnam/logo.png?w=400&c=v0.59.26#w24) |[**Public Bank Vietnam**](/payout-methods/public_bank_vietnam/)|[`public_bank_vietnam_myr`](public_bank_vietnam_myr/)|`MYR`| 
