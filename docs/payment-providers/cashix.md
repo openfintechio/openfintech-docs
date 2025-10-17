@@ -46,6 +46,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![bank_qr](https://static.openfintech.io/payment_methods/bank_qr/icon.svg?w=278&c=v0.59.26#w100) |[bank_qr](/payment-methods/bank_qr/)|`bank_qr`| 
 |![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi](/payment-methods/upi/)|`upi`| 
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer](/payment-methods/card_transfer/)|`card_transfer`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
  
 
 ## JSON Object 
@@ -64,7 +65,8 @@ The list of supported [Payment Methods](/payment-methods/)
     "jazzcash",
     "bank_qr",
     "upi",
-    "card_transfer"
+    "card_transfer",
+    "payment_card"
   ],
   "payout_method":null,
   "metadata":null,
