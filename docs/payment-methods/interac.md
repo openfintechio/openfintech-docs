@@ -45,6 +45,7 @@ The list of [Payment Services](/payment-services/) based on the _Interac Online_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![interac](https://static.openfintech.io/payment_methods/interac/icon.png?w=278&c=v0.59.26#w100) |[interac_cad_hpp](/payment-services/interac_cad_hpp/)|`interac_cad_hpp`| 
+|![interac](https://static.openfintech.io/payment_methods/interac/icon.png?w=278&c=v0.59.26#w100) |[interac_mb_cad_hpp](/payment-services/interac_mb_cad_hpp/)|`interac_mb_cad_hpp`| 
  
 
 ## Payment Providers 

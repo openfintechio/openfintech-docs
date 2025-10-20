@@ -927,6 +927,7 @@
 |![Interac Online](https://static.openfintech.io/payment_methods/interac/logo.png?w=400&c=v0.59.26#w200) |[**Interac Online**](/payment-methods/interac/)|[`interac_cad_hpp`](interac_cad_hpp/)| 
 |![Interac Online](https://static.openfintech.io/payment_methods/interac_crypto/logo.png?w=400&c=v0.59.26#w200) |[**Interac Online**](/payment-methods/interac_crypto/)|[`interac_crypto_cad_hpp`](interac_crypto_cad_hpp/)| 
 |![Interac Etransfer](https://static.openfintech.io/payment_methods/interac_etransfer/logo.svg?w=400&c=v0.59.26#w200) |[**Interac Etransfer**](/payment-methods/interac_etransfer/)|[`interac_etransfer_cad_hpp`](interac_etransfer_cad_hpp/)| 
+|![Interac Online](https://static.openfintech.io/payment_methods/interac/logo.png?w=400&c=v0.59.26#w200) |[**Interac Online**](/payment-methods/interac/)|[`interac_mb_cad_hpp`](interac_mb_cad_hpp/)| 
 |![Interbank](https://static.openfintech.io/payment_methods/interbank/logo.png?w=400&c=v0.59.26#w200) |[**Interbank**](/payment-methods/interbank/)|[`interbank_pen_hpp`](interbank_pen_hpp/)| 
 |![Interbank](https://static.openfintech.io/payment_methods/interbank/logo.png?w=400&c=v0.59.26#w200) |[**Interbank**](/payment-methods/interbank/)|[`interbank_usd_hpp`](interbank_usd_hpp/)| 
 |![Interkassa](https://static.openfintech.io/payment_methods/interkassa/logo.svg?w=400&c=v0.59.26#w200) |[**Interkassa**](/payment-methods/interkassa/)|[`interkassa_eur_hpp`](interkassa_eur_hpp/)| 
