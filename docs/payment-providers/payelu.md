@@ -43,6 +43,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![spei](https://static.openfintech.io/payment_methods/spei/icon.svg?w=278&c=v0.59.26#w100) |[spei](/payment-methods/spei/)|`spei`| 
 |![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix](/payment-methods/pix/)|`pix`| 
 |![pagomovil](https://static.openfintech.io/payment_methods/pagomovil/icon.png?w=278&c=v0.59.26#w100) |[pagomovil](/payment-methods/pagomovil/)|`pagomovil`| 
+|![pse](https://static.openfintech.io/payment_methods/pse/icon.svg?w=278&c=v0.59.26#w100) |[pse](/payment-methods/pse/)|`pse`| 
+|![webpay](https://static.openfintech.io/payment_methods/webpay/icon.svg?w=278&c=v0.59.26#w100) |[webpay](/payment-methods/webpay/)|`webpay`| 
  
 
 ## Payout Methods 
@@ -71,7 +73,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "bank_transfer",
     "spei",
     "pix",
-    "pagomovil"
+    "pagomovil",
+    "pse",
+    "webpay"
   ],
   "payout_method":[
     "bank_transfer",
