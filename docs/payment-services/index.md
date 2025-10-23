@@ -451,6 +451,7 @@
 |![BudPay aggregated](https://static.openfintech.io/payment_methods/budpay_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**BudPay aggregated**](/payment-methods/budpay_aggregated/)|[`budpay_aggregated_kes_hpp`](budpay_aggregated_kes_hpp/)| 
 |![BudPay aggregated](https://static.openfintech.io/payment_methods/budpay_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**BudPay aggregated**](/payment-methods/budpay_aggregated/)|[`budpay_aggregated_ngn_hpp`](budpay_aggregated_ngn_hpp/)| 
 |![Bank KB Bukopin](https://static.openfintech.io/payment_methods/bukopin_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Bank KB Bukopin**](/payment-methods/bukopin_bank/)|[`bukopin_bank_idr_hpp`](bukopin_bank_idr_hpp/)| 
+|![Bunq](https://static.openfintech.io/payment_methods/bunq/logo.png?w=400&c=v0.59.26#w200) |[**Bunq**](/payment-methods/bunq/)|[`bunq_eur_hpp`](bunq_eur_hpp/)| 
 |![Busan Bank](https://static.openfintech.io/payment_methods/busan_bank/logo.png?w=400&c=v0.59.26#w200) |[**Busan Bank**](/payment-methods/busan_bank/)|[`busan_bank_krw_hpp`](busan_bank_krw_hpp/)| 
 |![Bybit Pay](https://static.openfintech.io/payment_methods/bybit_pay/logo.png?w=400&c=v0.59.26#w200) |[**Bybit Pay**](/payment-methods/bybit_pay/)|[`bybit_pay_usdt_hpp`](bybit_pay_usdt_hpp/)| 
 ||| **C** ||
