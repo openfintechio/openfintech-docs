@@ -75,6 +75,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![interac](https://static.openfintech.io/payment_methods/interac/icon.png?w=278&c=v0.59.26#w100) |[interac](/payment-methods/interac/)|`interac`| 
 |![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/icon.png?w=278&c=v0.59.26#w100) |[polipayonline](/payment-methods/polipayonline/)|`polipayonline`| 
 |![ideal](https://static.openfintech.io/payment_methods/ideal/icon.svg?w=278&c=v0.59.26#w100) |[ideal](/payment-methods/ideal/)|`ideal`| 
+|![epay](https://static.openfintech.io/payment_methods/epay/icon.svg?w=278&c=v0.59.26#w100) |[epay](/payment-methods/epay/)|`epay`| 
  
 
 ## Payout Methods 
@@ -131,7 +132,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "crypto_aggregated",
     "interac",
     "polipayonline",
-    "ideal"
+    "ideal",
+    "epay"
   ],
   "payout_method":[
     "payment_card",
