@@ -51,6 +51,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![binancepay](https://static.openfintech.io/payment_methods/binancepay/icon.svg?w=278&c=v0.59.26#w100) |[binancepay](/payment-methods/binancepay/)|`binancepay`| 
 |![gatepay](https://static.openfintech.io/payment_methods/gatepay/icon.png?w=278&c=v0.59.26#w100) |[gatepay](/payment-methods/gatepay/)|`gatepay`| 
 |![bybit_pay](https://static.openfintech.io/payment_methods/bybit_pay/icon.png?w=278&c=v0.59.26#w100) |[bybit_pay](/payment-methods/bybit_pay/)|`bybit_pay`| 
+|![mb_way](https://static.openfintech.io/payment_methods/mb_way/icon.svg?w=278&c=v0.59.26#w100) |[mb_way](/payment-methods/mb_way/)|`mb_way`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
  
 
@@ -86,6 +87,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "binancepay",
     "gatepay",
     "bybit_pay",
+    "mb_way",
     "bank_transfer"
   ],
   "payout_method":[

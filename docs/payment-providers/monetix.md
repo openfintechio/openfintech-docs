@@ -73,6 +73,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![bkash_limited](https://static.openfintech.io/payment_methods/bkash_limited/icon.png?w=278&c=v0.59.26#w100) |[bkash_limited](/payment-methods/bkash_limited/)|`bkash_limited`| 
 |![nagad_wallet](https://static.openfintech.io/payment_methods/nagad_wallet/icon.png?w=278&c=v0.59.26#w100) |[nagad_wallet](/payment-methods/nagad_wallet/)|`nagad_wallet`| 
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer](/payment-methods/card_transfer/)|`card_transfer`| 
+|![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking](/payment-methods/openbanking/)|`openbanking`| 
  
 
 ## Payout Methods 
@@ -211,7 +212,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "united_commercial_bank_upay",
     "bkash_limited",
     "nagad_wallet",
-    "card_transfer"
+    "card_transfer",
+    "openbanking"
   ],
   "payout_method":[
     "payment_card",
