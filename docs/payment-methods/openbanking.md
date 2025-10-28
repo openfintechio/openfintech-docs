@@ -39,6 +39,7 @@ The list of [Payment Services](/payment-services/) based on the _Openbanking_
 |![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking_eur_hpp](/payment-services/openbanking_eur_hpp/)|`openbanking_eur_hpp`| 
 |![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking_usd_hpp](/payment-services/openbanking_usd_hpp/)|`openbanking_usd_hpp`| 
 |![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking_pln_hpp](/payment-services/openbanking_pln_hpp/)|`openbanking_pln_hpp`| 
+|![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking_gbp_hpp](/payment-services/openbanking_gbp_hpp/)|`openbanking_gbp_hpp`| 
  
 
 ## Payment Providers 
