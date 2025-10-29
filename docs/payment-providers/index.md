@@ -619,6 +619,7 @@
 |![northpeakpay](https://static.openfintech.io/payment_providers/northpeakpay/logo.svg?w=600&c=v0.59.26#w100) |[**Northpeak Pay**](northpeakpay/)|`northpeakpay`| 
 |![novacasp](https://static.openfintech.io/payment_providers/novacasp/logo.svg?w=600&c=v0.59.26#w100) |[**NovaCasp**](novacasp/)|`novacasp`| 
 |![novalnet](https://static.openfintech.io/payment_providers/novalnet/logo.png?w=600&c=v0.59.26#w100) |[**Novalnet AG**](novalnet/)|`novalnet`| 
+|![noveba](https://static.openfintech.io/payment_providers/noveba/logo.svg?w=600&c=v0.59.26#w100) |[**Noveba**](noveba/)|`noveba`| 
 |![nummuspay](https://static.openfintech.io/payment_providers/nummuspay/logo.png?w=600&c=v0.59.26#w100) |[**NummusPay**](nummuspay/)|`nummuspay`| 
 |![nxsystems](https://static.openfintech.io/payment_providers/nxsystems/logo.png?w=600&c=v0.59.26#w100) |[**NxSystems**](nxsystems/)|`nxsystems`| 
 || **O** ||
