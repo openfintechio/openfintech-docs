@@ -49,6 +49,20 @@ The list of supported [Payment Methods](/payment-methods/)
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![bkash_limited](https://static.openfintech.io/payout_methods/bkash_limited/icon.png?w=278&c=v0.59.26#w40) |[bkash_limited](payout-methodsbkash_limited/)|`bkash_limited`| 
+|![nagad_wallet](https://static.openfintech.io/payout_methods/nagad_wallet/icon.svg?w=278&c=v0.59.26#w40) |[nagad_wallet](payout-methodsnagad_wallet/)|`nagad_wallet`| 
+|![easypaisa](https://static.openfintech.io/payout_methods/easypaisa/icon.png?w=278&c=v0.59.26#w40) |[easypaisa](payout-methodseasypaisa/)|`easypaisa`| 
+|![jazzcash](https://static.openfintech.io/payout_methods/jazzcash/icon.png?w=278&c=v0.59.26#w40) |[jazzcash](payout-methodsjazzcash/)|`jazzcash`| 
+|![upi](https://static.openfintech.io/payout_methods/upi/icon.svg?w=278&c=v0.59.26#w40) |[upi](payout-methodsupi/)|`upi`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -68,7 +82,14 @@ The list of supported [Payment Methods](/payment-methods/)
     "card_transfer",
     "payment_card"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "bkash_limited",
+    "nagad_wallet",
+    "easypaisa",
+    "jazzcash",
+    "upi",
+    "payment_card"
+  ],
   "metadata":null,
   "name":{
     "en":"Cashix",
