@@ -1,6 +1,6 @@
 
 # TODA Pay 
-![todapay](https://static.openfintech.io/payment_providers/todapay/logo.svg?w=400&c=v0.59.26#w100)  
+![todapay](https://static.openfintech.io/payment_providers/todapay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![todapay](https://static.openfintech.io/payment_providers/todapay/logo.svg?w=400&c=v0.59.26#w100)  
+![todapay](https://static.openfintech.io/payment_providers/todapay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/todapay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/todapay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![todapay](https://static.openfintech.io/payment_providers/todapay/icon.svg?w=278&c=v0.59.26#w100)  
+![todapay](https://static.openfintech.io/payment_providers/todapay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/todapay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/todapay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -53,6 +53,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
 |![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer](/payment-methods/sepa_transfer/)|`sepa_transfer`| 
 |![interac](https://static.openfintech.io/payment_methods/interac/icon.png?w=278&c=v0.59.26#w100) |[interac](/payment-methods/interac/)|`interac`| 
+|![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik](/payment-methods/blik/)|`blik`| 
+|![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2](/payment-methods/mybank2/)|`mybank2`| 
  
 
 ## JSON Object 
@@ -78,7 +80,9 @@ The list of supported [Payment Methods](/payment-methods/)
     "openbanking",
     "bank_transfer",
     "sepa_transfer",
-    "interac"
+    "interac",
+    "blik",
+    "mybank2"
   ],
   "payout_method":null,
   "metadata":null,

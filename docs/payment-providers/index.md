@@ -1015,7 +1015,7 @@
 |![tinkoff](https://static.openfintech.io/payment_providers/tinkoff/logo.svg?w=600&c=v0.59.26#w100) |[**Tinkoff**](tinkoff/)|`tinkoff`| 
 |![tkbpay](https://static.openfintech.io/payment_providers/tkbpay/logo.svg?w=600&c=v0.59.26#w100) |[**TKB Pay**](tkbpay/)|`tkbpay`| 
 |![tnspay](https://static.openfintech.io/payment_providers/tnspay/logo.png?w=600&c=v0.59.26#w100) |[**TNSPay**](tnspay/)|`tnspay`| 
-|![todapay](https://static.openfintech.io/payment_providers/todapay/logo.svg?w=600&c=v0.59.26#w100) |[**TODA Pay**](todapay/)|`todapay`| 
+|![todapay](https://static.openfintech.io/payment_providers/todapay/logo.png?w=600&c=v0.59.26#w100) |[**TODA Pay**](todapay/)|`todapay`| 
 |![tome](https://static.openfintech.io/payment_providers/tome/logo.svg?w=600&c=v0.59.26#w100) |[**Tome**](tome/)|`tome`| 
 |![tompayment](https://static.openfintech.io/payment_providers/tompayment/logo.svg?w=600&c=v0.59.26#w100) |[**TomPayment**](tompayment/)|`tompayment`| 
 |![topay](https://static.openfintech.io/payment_providers/topay/logo.svg?w=600&c=v0.59.26#w100) |[**TOPAY.PRO**](topay/)|`topay`| 

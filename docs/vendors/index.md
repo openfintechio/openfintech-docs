@@ -2154,7 +2154,7 @@
 |![tmb](https://static.openfintech.io/vendors/tmb/logo.svg?w=600&c=v0.59.26#w200) |[**Central Bank of Turkmenistan**](tmb/)|`tmb`| 
 |![tnspay](https://static.openfintech.io/vendors/tnspay/logo.png?w=600&c=v0.59.26#w200) |[**TNSPay**](tnspay/)|`tnspay`| 
 |![tochigi_bank](https://static.openfintech.io/vendors/tochigi_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Tochigi Bank**](tochigi_bank/)|`tochigi_bank`| 
-|![todapay](https://static.openfintech.io/vendors/todapay/logo.svg?w=600&c=v0.59.26#w200) |[**TODA Pay**](todapay/)|`todapay`| 
+|![todapay](https://static.openfintech.io/vendors/todapay/logo.png?w=600&c=v0.59.26#w200) |[**TODA Pay**](todapay/)|`todapay`| 
 |![toditocash](https://static.openfintech.io/vendors/toditocash/logo.png?w=600&c=v0.59.26#w200) |[**Todito Cash**](toditocash/)|`toditocash`| 
 |![tohoku_bank](https://static.openfintech.io/vendors/tohoku_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Tohoku Bank**](tohoku_bank/)|`tohoku_bank`| 
 |![tokushima_bank](https://static.openfintech.io/vendors/tokushima_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Tokushima Bank**](tokushima_bank/)|`tokushima_bank`| 

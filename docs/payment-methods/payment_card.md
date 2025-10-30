@@ -398,7 +398,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![onlineips](https://static.openfintech.io/payment_providers/onlineips/icon.png?w=278&c=v0.59.26#w100) |[Online IPS](/payment-providers/onlineips/)|`onlineips`| 
 |![beonpay](https://static.openfintech.io/payment_providers/beonpay/icon.png?w=278&c=v0.59.26#w100) |[BeonPay](/payment-providers/beonpay/)|`beonpay`| 
 |![justipay](https://static.openfintech.io/payment_providers/justipay/icon.png?w=278&c=v0.59.26#w100) |[Justipay](/payment-providers/justipay/)|`justipay`| 
-|![todapay](https://static.openfintech.io/payment_providers/todapay/icon.svg?w=278&c=v0.59.26#w100) |[TODA Pay](/payment-providers/todapay/)|`todapay`| 
+|![todapay](https://static.openfintech.io/payment_providers/todapay/icon.png?w=278&c=v0.59.26#w100) |[TODA Pay](/payment-providers/todapay/)|`todapay`| 
 |![payecards](https://static.openfintech.io/payment_providers/payecards/icon.png?w=278&c=v0.59.26#w100) |[Payecards](/payment-providers/payecards/)|`payecards`| 
 |![topay](https://static.openfintech.io/payment_providers/topay/icon.svg?w=278&c=v0.59.26#w100) |[TOPAY.PRO](/payment-providers/topay/)|`topay`| 
 |![ensopay](https://static.openfintech.io/payment_providers/ensopay/icon.png?w=278&c=v0.59.26#w100) |[EnsoPay](/payment-providers/ensopay/)|`ensopay`| 

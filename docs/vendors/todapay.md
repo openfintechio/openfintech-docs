@@ -1,6 +1,6 @@
 
 # TODA Pay 
-![todapay](https://static.openfintech.io/vendors/todapay/logo.svg?w=400&c=v0.59.26#w200)  
+![todapay](https://static.openfintech.io/vendors/todapay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -22,18 +22,18 @@
 
 ### Logo 
  
-![todapay](https://static.openfintech.io/vendors/todapay/logo.svg?w=400&c=v0.59.26#w200)  
+![todapay](https://static.openfintech.io/vendors/todapay/logo.png?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/todapay/logo.svg?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/todapay/logo.png?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![todapay](https://static.openfintech.io/vendors/todapay/icon.svg?w=278&c=v0.59.26#w100)  
+![todapay](https://static.openfintech.io/vendors/todapay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/todapay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/todapay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 
