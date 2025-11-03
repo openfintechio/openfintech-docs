@@ -10,9 +10,9 @@
  
 :	[EN] Azerbaijani Manat 
  
-**Symbol:** `man.` 
+**Symbol:** `₼` 
  
-**Native symbol:** `ман.` 
+**Native symbol:** `₼` 
  
 **Category:** `other` 
  
@@ -51,8 +51,8 @@ https://static.openfintech.io/currencies/AZN/icon.svg?w=278&c=v0.59.26#w100
   "category":"other",
   "iso_numeric3_code":"944",
   "iso_alpha3_code":"AZN",
-  "symbol":"man.",
-  "native_symbol":"\u043c\u0430\u043d.",
+  "symbol":"\u20bc",
+  "native_symbol":"\u20bc",
   "metadata":null
 }
 ```  
