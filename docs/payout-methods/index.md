@@ -1418,6 +1418,7 @@
 |![ooo-voks](https://static.openfintech.io/payout_methods/ooo-voks/logo.png?w=400&c=v0.59.26#w24) |[**LLC 'VOKS'**](ooo-voks/)|`ooo-voks`| 
 |![ooo-zhkk-mk-2010-g-kramatorsk](https://static.openfintech.io/payout_methods/ooo-zhkk-mk-2010-g-kramatorsk/logo.png?w=400&c=v0.59.26#w24) |[**LLC ZhKK MK 2010 Kramatorsk**](ooo-zhkk-mk-2010-g-kramatorsk/)|`ooo-zhkk-mk-2010-g-kramatorsk`| 
 |![optim-kiev](https://static.openfintech.io/payout_methods/optim-kiev/logo.svg?w=400&c=v0.59.26#w24) |[**OPTIM (Kiev)**](optim-kiev/)|`optim-kiev`| 
+|![orange_cash](https://static.openfintech.io/payout_methods/orange_cash/logo.png?w=400&c=v0.59.26#w24) |[**Orange cash**](orange_cash/)|`orange_cash`| 
 |![orange_money](https://static.openfintech.io/payout_methods/orange_money/logo.png?w=400&c=v0.59.26#w24) |[**Orange Money**](orange_money/)|`orange_money`| 
 |![orativ-pat-vinnitsiaoblenergo](https://static.openfintech.io/payout_methods/orativ-pat-vinnitsiaoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Mikhailovka PJSC 'Vinnitsaoblenergo'**](orativ-pat-vinnitsiaoblenergo/)|`orativ-pat-vinnitsiaoblenergo`| 
 |![orbita-odessa](https://static.openfintech.io/payout_methods/orbita-odessa/logo.png?w=400&c=v0.59.26#w24) |[**ORBITA (Odessa)**](orbita-odessa/)|`orbita-odessa`| 

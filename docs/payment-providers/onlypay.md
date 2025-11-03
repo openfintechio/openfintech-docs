@@ -46,6 +46,20 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
+|![orange_cash](https://static.openfintech.io/payment_methods/orange_cash/icon.png?w=278&c=v0.59.26#w100) |[orange_cash](/payment-methods/orange_cash/)|`orange_cash`| 
+|![instapay](https://static.openfintech.io/payment_methods/instapay/icon.svg?w=278&c=v0.59.26#w100) |[instapay](/payment-methods/instapay/)|`instapay`| 
+|![vodafone_cash](https://static.openfintech.io/payment_methods/vodafone_cash/icon.png?w=278&c=v0.59.26#w100) |[vodafone_cash](/payment-methods/vodafone_cash/)|`vodafone_cash`| 
+ 
+
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![orange_cash](https://static.openfintech.io/payout_methods/orange_cash/icon.png?w=278&c=v0.59.26#w40) |[orange_cash](payout-methodsorange_cash/)|`orange_cash`| 
+|![instapay](https://static.openfintech.io/payout_methods/instapay/icon.svg?w=278&c=v0.59.26#w40) |[instapay](payout-methodsinstapay/)|`instapay`| 
+|![vodafone_cash](https://static.openfintech.io/payout_methods/vodafone_cash/icon.svg?w=278&c=v0.59.26#w40) |[vodafone_cash](payout-methodsvodafone_cash/)|`vodafone_cash`| 
  
 
 ## JSON Object 
@@ -62,9 +76,16 @@ The list of supported [Payment Methods](/payment-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    "payment_card"
+    "payment_card",
+    "orange_cash",
+    "instapay",
+    "vodafone_cash"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "orange_cash",
+    "instapay",
+    "vodafone_cash"
+  ],
   "metadata":null,
   "name":{
     "en":"Onlypay",

@@ -41,6 +41,8 @@ The list of [Payment Services](/payment-services/) based on the _Instapay_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![instapay](https://static.openfintech.io/payment_methods/instapay/icon.svg?w=278&c=v0.59.26#w100) |[instapay_php_hpp](/payment-services/instapay_php_hpp/)|`instapay_php_hpp`| 
+|![instapay](https://static.openfintech.io/payment_methods/instapay/icon.svg?w=278&c=v0.59.26#w100) |[instapay_egp_invoice](/payment-services/instapay_egp_invoice/)|`instapay_egp_invoice`| 
+|![instapay](https://static.openfintech.io/payment_methods/instapay/icon.svg?w=278&c=v0.59.26#w100) |[instapay_egp_hpp](/payment-services/instapay_egp_hpp/)|`instapay_egp_hpp`| 
  
 
 ## Payment Providers 
@@ -50,6 +52,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Instapay_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![paystage](https://static.openfintech.io/payment_providers/paystage/icon.png?w=278&c=v0.59.26#w100) |[PayStage](/payment-providers/paystage/)|`paystage`| 
+|![onlypay](https://static.openfintech.io/payment_providers/onlypay/icon.svg?w=278&c=v0.59.26#w100) |[Onlypay](/payment-providers/onlypay/)|`onlypay`| 
  
 
 ## JSON Object 

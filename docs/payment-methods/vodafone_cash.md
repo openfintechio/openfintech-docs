@@ -45,6 +45,7 @@ The list of [Payment Services](/payment-services/) based on the _Vodafone Cash_
 |:---:|:---:|:---:| 
 |![vodafone_cash](https://static.openfintech.io/payment_methods/vodafone_cash/icon.png?w=278&c=v0.59.26#w100) |[vodafone_cash_ghs_hpp](/payment-services/vodafone_cash_ghs_hpp/)|`vodafone_cash_ghs_hpp`| 
 |![vodafone_cash](https://static.openfintech.io/payment_methods/vodafone_cash/icon.png?w=278&c=v0.59.26#w100) |[vodafone_cash_egp_hpp](/payment-services/vodafone_cash_egp_hpp/)|`vodafone_cash_egp_hpp`| 
+|![vodafone_cash](https://static.openfintech.io/payment_methods/vodafone_cash/icon.png?w=278&c=v0.59.26#w100) |[vodafone_cash_egp_invoice](/payment-services/vodafone_cash_egp_invoice/)|`vodafone_cash_egp_invoice`| 
  
 
 ## Payment Providers 
@@ -54,6 +55,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Vodafone 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
+|![onlypay](https://static.openfintech.io/payment_providers/onlypay/icon.svg?w=278&c=v0.59.26#w100) |[Onlypay](/payment-providers/onlypay/)|`onlypay`| 
 |![paymob](https://static.openfintech.io/payment_providers/paymob/icon.png?w=278&c=v0.59.26#w100) |[Paymob](/payment-providers/paymob/)|`paymob`| 
  
 

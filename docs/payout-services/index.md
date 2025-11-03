@@ -1001,6 +1001,7 @@
 |![Ininal](https://static.openfintech.io/payout_methods/ininal/logo.svg?w=400&c=v0.59.26#w24) |[**Ininal**](/payout-methods/ininal/)|[`ininal_try`](ininal_try/)|`TRY`| 
 |![Innovectives Kesh](https://static.openfintech.io/payout_methods/innovectives_kesh/logo.svg?w=400&c=v0.59.26#w24) |[**Innovectives Kesh**](/payout-methods/innovectives_kesh/)|[`innovectives_kesh_ngn`](innovectives_kesh_ngn/)|`NGN`| 
 |![Instant Bank Transfer](https://static.openfintech.io/payout_methods/instant_bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Instant Bank Transfer**](/payout-methods/instant_bank_transfer/)|[`instant_bank_transfer_try`](instant_bank_transfer_try/)|`TRY`| 
+|![Instapay](https://static.openfintech.io/payout_methods/instapay/logo.svg?w=400&c=v0.59.26#w24) |[**Instapay**](/payout-methods/instapay/)|[`instapay_egp`](instapay_egp/)|`EGP`| 
 |![Instapay](https://static.openfintech.io/payout_methods/instapay/logo.svg?w=400&c=v0.59.26#w24) |[**Instapay**](/payout-methods/instapay/)|[`instapay_php`](instapay_php/)|`PHP`| 
 |![Intelekt (Chernivtsi)](https://static.openfintech.io/payout_methods/intelekt-chernovtsy/logo.png?w=400&c=v0.59.26#w24) |[**Intelekt (Chernivtsi)**](/payout-methods/intelekt-chernovtsy/)|[`intelekt-chernovtsy_uah`](intelekt-chernovtsy_uah/)|`UAH`| 
 |![Inter bank](https://static.openfintech.io/payout_methods/inter_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Inter bank**](/payout-methods/inter_bank/)|[`inter_bank_pen`](inter_bank_pen/)|`PEN`| 
@@ -1598,6 +1599,7 @@
 |![OOO Tisa](https://static.openfintech.io/payout_methods/ooo-tisa/logo.png?w=400&c=v0.59.26#w24) |[**OOO Tisa**](/payout-methods/ooo-tisa/)|[`ooo-tisa_uah`](ooo-tisa_uah/)|`UAH`| 
 |![LLC 'VOKS'](https://static.openfintech.io/payout_methods/ooo-voks/logo.png?w=400&c=v0.59.26#w24) |[**LLC 'VOKS'**](/payout-methods/ooo-voks/)|[`ooo-voks_uah`](ooo-voks_uah/)|`UAH`| 
 |![OPTIM (Kiev)](https://static.openfintech.io/payout_methods/optim-kiev/logo.svg?w=400&c=v0.59.26#w24) |[**OPTIM (Kiev)**](/payout-methods/optim-kiev/)|[`optim-kiev_uah`](optim-kiev_uah/)|`UAH`| 
+|![Orange cash](https://static.openfintech.io/payout_methods/orange_cash/logo.png?w=400&c=v0.59.26#w24) |[**Orange cash**](/payout-methods/orange_cash/)|[`orange_cash_egp`](orange_cash_egp/)|`EGP`| 
 |![Orange Money](https://static.openfintech.io/payout_methods/orange_money/logo.png?w=400&c=v0.59.26#w24) |[**Orange Money**](/payout-methods/orange_money/)|[`orange_money_cdf`](orange_money_cdf/)|`CDF`| 
 |![Orange Money](https://static.openfintech.io/payout_methods/orange_money/logo.png?w=400&c=v0.59.26#w24) |[**Orange Money**](/payout-methods/orange_money/)|[`orange_money_sll`](orange_money_sll/)|`SLL`| 
 |![Orange Money](https://static.openfintech.io/payout_methods/orange_money/logo.png?w=400&c=v0.59.26#w24) |[**Orange Money**](/payout-methods/orange_money/)|[`orange_money_xaf`](orange_money_xaf/)|`XAF`| 
