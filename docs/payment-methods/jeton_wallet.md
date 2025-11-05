@@ -52,6 +52,7 @@ The list of [Payment Services](/payment-services/) based on the _Jeton Wallet_
 |![jeton_wallet](https://static.openfintech.io/payment_methods/jeton_wallet/icon.png?w=278&c=v0.59.26#w100) |[jeton_wallet_sek_hpp](/payment-services/jeton_wallet_sek_hpp/)|`jeton_wallet_sek_hpp`| 
 |![jeton_wallet](https://static.openfintech.io/payment_methods/jeton_wallet/icon.png?w=278&c=v0.59.26#w100) |[jeton_wallet_huf_hpp](/payment-services/jeton_wallet_huf_hpp/)|`jeton_wallet_huf_hpp`| 
 |![jeton_wallet](https://static.openfintech.io/payment_methods/jeton_wallet/icon.png?w=278&c=v0.59.26#w100) |[jeton_wallet_czk_hpp](/payment-services/jeton_wallet_czk_hpp/)|`jeton_wallet_czk_hpp`| 
+|![jeton_wallet](https://static.openfintech.io/payment_methods/jeton_wallet/icon.png?w=278&c=v0.59.26#w100) |[jeton_wallet_aud_hpp](/payment-services/jeton_wallet_aud_hpp/)|`jeton_wallet_aud_hpp`| 
  
 
 ## Payment Providers 

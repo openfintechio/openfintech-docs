@@ -951,6 +951,7 @@
 |![JCB](https://static.openfintech.io/payment_methods/jcb/logo.png?w=400&c=v0.59.26#w200) |[**JCB**](/payment-methods/jcb/)|[`jcb_eur_hpp`](jcb_eur_hpp/)| 
 |![Jer](https://static.openfintech.io/payment_methods/jer/logo.svg?w=400&c=v0.59.26#w200) |[**Jer**](/payment-methods/jer/)|[`jer_cop_hpp`](jer_cop_hpp/)| 
 |![Jer](https://static.openfintech.io/payment_methods/jer/logo.svg?w=400&c=v0.59.26#w200) |[**Jer**](/payment-methods/jer/)|[`jerin_cop_hpp`](jerin_cop_hpp/)| 
+|![Jeton Wallet](https://static.openfintech.io/payment_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w200) |[**Jeton Wallet**](/payment-methods/jeton_wallet/)|[`jeton_wallet_aud_hpp`](jeton_wallet_aud_hpp/)| 
 |![Jeton Wallet](https://static.openfintech.io/payment_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w200) |[**Jeton Wallet**](/payment-methods/jeton_wallet/)|[`jeton_wallet_cad_hpp`](jeton_wallet_cad_hpp/)| 
 |![Jeton Wallet](https://static.openfintech.io/payment_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w200) |[**Jeton Wallet**](/payment-methods/jeton_wallet/)|[`jeton_wallet_czk_hpp`](jeton_wallet_czk_hpp/)| 
 |![Jeton Wallet](https://static.openfintech.io/payment_methods/jeton_wallet/logo.png?w=400&c=v0.59.26#w200) |[**Jeton Wallet**](/payment-methods/jeton_wallet/)|[`jeton_wallet_eur_hpp`](jeton_wallet_eur_hpp/)| 
