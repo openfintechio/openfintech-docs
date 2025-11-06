@@ -51,8 +51,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Sofort_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![ppro](https://static.openfintech.io/payment_providers/ppro/icon.svg?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
-|![micropayments](https://static.openfintech.io/payment_providers/micropayments/icon.svg?w=278&c=v0.59.26#w100) |[MicroPayments](/payment-providers/micropayments/)|`micropayments`| 
+|![ppro](https://static.openfintech.io/payment_providers/ppro/icon.svg?w=278&c=v0.59.26#w100) |[PPRO](/payment-providers/ppro/)|`ppro`| 
+|![micropayments](https://static.openfintech.io/payment_providers/micropayments/icon.svg?w=278&c=v0.59.26#w100) |[Micropayment AG](/payment-providers/micropayments/)|`micropayments`| 
 |![rampnow](https://static.openfintech.io/payment_providers/rampnow/icon.svg?w=278&c=v0.59.26#w100) |[Rampnow](/payment-providers/rampnow/)|`rampnow`| 
 |![macropay](https://static.openfintech.io/payment_providers/macropay/icon.png?w=278&c=v0.59.26#w100) |[Macropay](/payment-providers/macropay/)|`macropay`| 
  

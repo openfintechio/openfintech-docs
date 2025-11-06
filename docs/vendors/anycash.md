@@ -1,5 +1,5 @@
 
-# AnyCash 
+# Any.Cash 
 ![anycash](https://static.openfintech.io/vendors/anycash/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,7 +8,9 @@
  
 **Name:** 
  
-:	[EN] AnyCash 
+:	[EN] Any.Cash 
+:	[RU] Any.Cash 
+:	[UK] Any.Cash 
  
 **Status:** `active` 
  
@@ -37,7 +39,9 @@ https://static.openfintech.io/vendors/anycash/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"anycash",
   "name":{
-    "en":"AnyCash"
+    "en":"Any.Cash",
+    "ru":"Any.Cash",
+    "uk":"Any.Cash"
   },
   "status":"active",
   "description":null,

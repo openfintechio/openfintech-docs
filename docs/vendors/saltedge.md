@@ -1,5 +1,5 @@
 
-# SaltEdge 
+# Salt Edge 
 ![saltedge](https://static.openfintech.io/vendors/saltedge/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] SaltEdge 
-:	[RU] SaltEdge 
-:	[UK] SaltEdge 
+:	[EN] Salt Edge 
+:	[RU] Salt Edge 
+:	[UK] Salt Edge 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/saltedge/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"saltedge",
   "name":{
-    "en":"SaltEdge",
-    "ru":"SaltEdge",
-    "uk":"SaltEdge"
+    "en":"Salt Edge",
+    "ru":"Salt Edge",
+    "uk":"Salt Edge"
   },
   "status":"active",
   "description":null,

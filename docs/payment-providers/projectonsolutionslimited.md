@@ -1,5 +1,5 @@
 
-# Projecton Solutions Limited 
+# ProjectOn 
 ![projectonsolutionslimited](https://static.openfintech.io/payment_providers/projectonsolutionslimited/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Projecton Solutions Limited 
-:	[RU] Projecton Solutions Limited 
-:	[UK] Projecton Solutions Limited 
+:	[EN] ProjectOn 
+:	[RU] ProjectOn 
+:	[UK] ProjectOn 
  
 **Description:** 
  
@@ -63,9 +63,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"Projecton Solutions Limited",
-    "ru":"Projecton Solutions Limited",
-    "uk":"Projecton Solutions Limited"
+    "en":"ProjectOn",
+    "ru":"ProjectOn",
+    "uk":"ProjectOn"
   }
 }
 ```  

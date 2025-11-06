@@ -1,5 +1,5 @@
 
-# Kale.Money 
+# Kale 
 ![kalemoney](https://static.openfintech.io/vendors/kalemoney/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Kale.Money 
-:	[RU] Kale.Money 
-:	[UK] Kale.Money 
+:	[EN] Kale 
+:	[RU] Kale 
+:	[UK] Kale 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/kalemoney/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"kalemoney",
   "name":{
-    "en":"Kale.Money",
-    "ru":"Kale.Money",
-    "uk":"Kale.Money"
+    "en":"Kale",
+    "ru":"Kale",
+    "uk":"Kale"
   },
   "status":"active",
   "description":null,

@@ -1,5 +1,5 @@
 
-# TrustPay 
+# finby 
 ![trustpay](https://static.openfintech.io/vendors/trustpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,7 +8,9 @@
  
 **Name:** 
  
-:	[EN] TrustPay 
+:	[EN] finby 
+:	[RU] finby 
+:	[UK] finby 
  
 **Status:** `active` 
  
@@ -48,7 +50,9 @@ https://static.openfintech.io/vendors/trustpay/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"trustpay",
   "name":{
-    "en":"TrustPay"
+    "en":"finby",
+    "ru":"finby",
+    "uk":"finby"
   },
   "status":"active",
   "description":{

@@ -1,5 +1,5 @@
 
-# EUPaymentz.com 
+# EU Paymentz 
 ![eupaymentz](https://static.openfintech.io/vendors/eupaymentz/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,7 +8,9 @@
  
 **Name:** 
  
-:	[EN] EUPaymentz.com 
+:	[EN] EU Paymentz 
+:	[RU] EU Paymentz 
+:	[UK] EU Paymentz 
  
 **Status:** `active` 
  
@@ -44,7 +46,9 @@ https://static.openfintech.io/vendors/eupaymentz/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"eupaymentz",
   "name":{
-    "en":"EUPaymentz.com"
+    "en":"EU Paymentz",
+    "ru":"EU Paymentz",
+    "uk":"EU Paymentz"
   },
   "status":"active",
   "description":{

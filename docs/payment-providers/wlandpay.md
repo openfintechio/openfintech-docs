@@ -1,5 +1,5 @@
 
-# Wlandpay 
+# Wonderlandpay 
 ![wlandpay](https://static.openfintech.io/payment_providers/wlandpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Wlandpay 
-:	[RU] Wlandpay 
-:	[UK] Wlandpay 
+:	[EN] Wonderlandpay 
+:	[RU] Wonderlandpay 
+:	[UK] Wonderlandpay 
  
 **Description:** 
  
@@ -63,9 +63,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"Wlandpay",
-    "ru":"Wlandpay",
-    "uk":"Wlandpay"
+    "en":"Wonderlandpay",
+    "ru":"Wonderlandpay",
+    "uk":"Wonderlandpay"
   }
 }
 ```  

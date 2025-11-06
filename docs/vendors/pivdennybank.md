@@ -1,5 +1,5 @@
 
-# ПАТ АКЦІОНЕРНИЙ БАНК 'ПІВДЕННИЙ' 
+# Pivdenny Bank 
 ![pivdennybank](https://static.openfintech.io/vendors/pivdennybank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,7 +8,9 @@
  
 **Name:** 
  
-:	[EN] ПАТ АКЦІОНЕРНИЙ БАНК 'ПІВДЕННИЙ' 
+:	[EN] Pivdenny Bank 
+:	[RU] Pivdenny Bank 
+:	[UK] Pivdenny Bank 
  
 **Status:** `active` 
  
@@ -42,7 +44,9 @@ https://static.openfintech.io/vendors/pivdennybank/icon.svg?w=278&c=v0.59.26#w10
 {
   "code":"pivdennybank",
   "name":{
-    "en":"\u041f\u0410\u0422 \u0410\u041a\u0426\u0406\u041e\u041d\u0415\u0420\u041d\u0418\u0419 \u0411\u0410\u041d\u041a '\u041f\u0406\u0412\u0414\u0415\u041d\u041d\u0418\u0419'"
+    "en":"Pivdenny Bank",
+    "ru":"Pivdenny Bank",
+    "uk":"Pivdenny Bank"
   },
   "status":"active",
   "description":null,

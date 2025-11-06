@@ -1,5 +1,5 @@
 
-# BP 
+# Boxplat 
 ![bp](https://static.openfintech.io/payment_providers/bp/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] BP 
-:	[RU] BP 
-:	[UK] BP 
+:	[EN] Boxplat 
+:	[RU] Boxplat 
+:	[UK] Boxplat 
  
 
 ## Images 
@@ -72,9 +72,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"BP",
-    "ru":"BP",
-    "uk":"BP"
+    "en":"Boxplat",
+    "ru":"Boxplat",
+    "uk":"Boxplat"
   }
 }
 ```  

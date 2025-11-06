@@ -1,5 +1,5 @@
 
-# HelloPayment 
+# Hello Payment Solutions 
 ![hellopayment](https://static.openfintech.io/payment_providers/hellopayment/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] HelloPayment 
-:	[RU] HelloPayment 
-:	[UK] HelloPayment 
+:	[EN] Hello Payment Solutions 
+:	[RU] Hello Payment Solutions 
+:	[UK] Hello Payment Solutions 
  
 
 ## Images 
@@ -72,9 +72,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"HelloPayment",
-    "ru":"HelloPayment",
-    "uk":"HelloPayment"
+    "en":"Hello Payment Solutions",
+    "ru":"Hello Payment Solutions",
+    "uk":"Hello Payment Solutions"
   }
 }
 ```  

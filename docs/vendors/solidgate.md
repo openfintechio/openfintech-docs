@@ -1,5 +1,5 @@
 
-# Solid 
+# Solidgate 
 ![solidgate](https://static.openfintech.io/vendors/solidgate/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Solid 
-:	[RU] Solid 
-:	[UK] Solid 
+:	[EN] Solidgate 
+:	[RU] Solidgate 
+:	[UK] Solidgate 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/solidgate/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"solidgate",
   "name":{
-    "en":"Solid",
-    "ru":"Solid",
-    "uk":"Solid"
+    "en":"Solidgate",
+    "ru":"Solidgate",
+    "uk":"Solidgate"
   },
   "status":"active",
   "description":null,

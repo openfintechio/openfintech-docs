@@ -1,5 +1,5 @@
 
-# TripleA 
+# Triple-A 
 ![triplea](https://static.openfintech.io/vendors/triplea/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] TripleA 
-:	[RU] TripleA 
-:	[UK] TripleA 
+:	[EN] Triple-A 
+:	[RU] Triple-A 
+:	[UK] Triple-A 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/triplea/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"triplea",
   "name":{
-    "en":"TripleA",
-    "ru":"TripleA",
-    "uk":"TripleA"
+    "en":"Triple-A",
+    "ru":"Triple-A",
+    "uk":"Triple-A"
   },
   "status":"active",
   "description":null,

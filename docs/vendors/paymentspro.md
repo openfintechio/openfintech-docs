@@ -1,5 +1,5 @@
 
-# PaymentsPro 
+# Payments Pro 
 ![paymentspro](https://static.openfintech.io/vendors/paymentspro/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] PaymentsPro 
-:	[RU] PaymentsPro 
-:	[UK] PaymentsPro 
+:	[EN] Payments Pro 
+:	[RU] Payments Pro 
+:	[UK] Payments Pro 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/paymentspro/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"paymentspro",
   "name":{
-    "en":"PaymentsPro",
-    "ru":"PaymentsPro",
-    "uk":"PaymentsPro"
+    "en":"Payments Pro",
+    "ru":"Payments Pro",
+    "uk":"Payments Pro"
   },
   "status":"active",
   "description":null,

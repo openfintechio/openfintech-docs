@@ -1,5 +1,5 @@
 
-# UPC 
+# Ukrainian Processing Center (UPC) 
 ![upc](https://static.openfintech.io/payment_providers/upc/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] UPC 
-:	[RU] UPC 
-:	[UK] UPC 
+:	[EN] Ukrainian Processing Center (UPC) 
+:	[RU] Ukrainian Processing Center (UPC) 
+:	[UK] Ukrainian Processing Center (UPC) 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"UPC",
-    "ru":"UPC",
-    "uk":"UPC"
+    "en":"Ukrainian Processing Center (UPC)",
+    "ru":"Ukrainian Processing Center (UPC)",
+    "uk":"Ukrainian Processing Center (UPC)"
   }
 }
 ```  

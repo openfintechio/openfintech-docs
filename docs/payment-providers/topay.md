@@ -1,5 +1,5 @@
 
-# TOPAY.PRO 
+# ToPay 
 ![topay](https://static.openfintech.io/payment_providers/topay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] TOPAY.PRO 
-:	[RU] TOPAY.PRO 
-:	[UK] TOPAY.PRO 
+:	[EN] ToPay 
+:	[RU] ToPay 
+:	[UK] ToPay 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"TOPAY.PRO",
-    "ru":"TOPAY.PRO",
-    "uk":"TOPAY.PRO"
+    "en":"ToPay",
+    "ru":"ToPay",
+    "uk":"ToPay"
   }
 }
 ```  

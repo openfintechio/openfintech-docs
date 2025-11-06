@@ -1,5 +1,5 @@
 
-# Solid 
+# Solidgate 
 ![solidgate](https://static.openfintech.io/payment_providers/solidgate/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Solid 
-:	[RU] Solid 
-:	[UK] Solid 
+:	[EN] Solidgate 
+:	[RU] Solidgate 
+:	[UK] Solidgate 
  
 **Description:** 
  
@@ -67,9 +67,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"Solid",
-    "ru":"Solid",
-    "uk":"Solid"
+    "en":"Solidgate",
+    "ru":"Solidgate",
+    "uk":"Solidgate"
   }
 }
 ```  

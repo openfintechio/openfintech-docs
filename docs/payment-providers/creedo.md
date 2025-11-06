@@ -1,5 +1,5 @@
 
-# Creedo 
+# Creedo.Capital 
 ![creedo](https://static.openfintech.io/payment_providers/creedo/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Creedo 
-:	[RU] Creedo 
-:	[UK] Creedo 
+:	[EN] Creedo.Capital 
+:	[RU] Creedo.Capital 
+:	[UK] Creedo.Capital 
  
 **Description:** 
  
@@ -86,9 +86,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"Creedo",
-    "ru":"Creedo",
-    "uk":"Creedo"
+    "en":"Creedo.Capital",
+    "ru":"Creedo.Capital",
+    "uk":"Creedo.Capital"
   }
 }
 ```  

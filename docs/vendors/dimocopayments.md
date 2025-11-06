@@ -1,5 +1,5 @@
 
-# DIMOCO Payments 
+# DIMOCO 
 ![dimocopayments](https://static.openfintech.io/vendors/dimocopayments/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] DIMOCO Payments 
-:	[RU] DIMOCO Payments 
-:	[UK] DIMOCO Payments 
+:	[EN] DIMOCO 
+:	[RU] DIMOCO 
+:	[UK] DIMOCO 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/dimocopayments/icon.png?w=278&c=v0.59.26#w
 {
   "code":"dimocopayments",
   "name":{
-    "en":"DIMOCO Payments",
-    "ru":"DIMOCO Payments",
-    "uk":"DIMOCO Payments"
+    "en":"DIMOCO",
+    "ru":"DIMOCO",
+    "uk":"DIMOCO"
   },
   "status":"active",
   "description":null,

@@ -1,5 +1,5 @@
 
-# Yotta 
+# Yotta Pay 
 ![yotta](https://static.openfintech.io/payment_providers/yotta/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Yotta 
-:	[RU] Yotta 
-:	[UK] Yotta 
+:	[EN] Yotta Pay 
+:	[RU] Yotta Pay 
+:	[UK] Yotta Pay 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"Yotta",
-    "ru":"Yotta",
-    "uk":"Yotta"
+    "en":"Yotta Pay",
+    "ru":"Yotta Pay",
+    "uk":"Yotta Pay"
   }
 }
 ```  

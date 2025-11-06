@@ -1,5 +1,5 @@
 
-# Constantpos 
+# Constant Payments 
 ![constantpos](https://static.openfintech.io/payment_providers/constantpos/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Constantpos 
-:	[RU] Constantpos 
-:	[UK] Constantpos 
+:	[EN] Constant Payments 
+:	[RU] Constant Payments 
+:	[UK] Constant Payments 
  
 
 ## Images 
@@ -68,9 +68,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"Constantpos",
-    "ru":"Constantpos",
-    "uk":"Constantpos"
+    "en":"Constant Payments",
+    "ru":"Constant Payments",
+    "uk":"Constant Payments"
   }
 }
 ```  

@@ -1,5 +1,5 @@
 
-# Cashfree 
+# Cashfree Payments 
 ![cashfree](https://static.openfintech.io/payment_providers/cashfree/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Cashfree 
-:	[RU] Cashfree 
-:	[UK] Cashfree 
+:	[EN] Cashfree Payments 
+:	[RU] Cashfree Payments 
+:	[UK] Cashfree Payments 
  
 
 ## Images 
@@ -69,9 +69,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"Cashfree",
-    "ru":"Cashfree",
-    "uk":"Cashfree"
+    "en":"Cashfree Payments",
+    "ru":"Cashfree Payments",
+    "uk":"Cashfree Payments"
   }
 }
 ```  

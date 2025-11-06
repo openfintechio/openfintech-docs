@@ -1,5 +1,5 @@
 
-# Payment Rush 
+# PaymentRush 
 ![paymentrush](https://static.openfintech.io/vendors/paymentrush/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Payment Rush 
-:	[RU] Payment Rush 
-:	[UK] Payment Rush 
+:	[EN] PaymentRush 
+:	[RU] PaymentRush 
+:	[UK] PaymentRush 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/paymentrush/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"paymentrush",
   "name":{
-    "en":"Payment Rush",
-    "ru":"Payment Rush",
-    "uk":"Payment Rush"
+    "en":"PaymentRush",
+    "ru":"PaymentRush",
+    "uk":"PaymentRush"
   },
   "status":"active",
   "description":null,

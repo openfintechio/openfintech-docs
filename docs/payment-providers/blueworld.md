@@ -1,5 +1,5 @@
 
-# Blue World 
+# Linx Tech Solutions 
 ![blueworld](https://static.openfintech.io/payment_providers/blueworld/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Blue World 
-:	[RU] Blue World 
-:	[UK] Blue World 
+:	[EN] Linx Tech Solutions 
+:	[RU] Linx Tech Solutions 
+:	[UK] Linx Tech Solutions 
  
 
 ## Images 
@@ -72,9 +72,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"Blue World",
-    "ru":"Blue World",
-    "uk":"Blue World"
+    "en":"Linx Tech Solutions",
+    "ru":"Linx Tech Solutions",
+    "uk":"Linx Tech Solutions"
   }
 }
 ```  

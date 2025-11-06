@@ -55,7 +55,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bkash Lim
 |![octopays](https://static.openfintech.io/payment_providers/octopays/icon.svg?w=278&c=v0.59.26#w100) |[Octopays](/payment-providers/octopays/)|`octopays`| 
 |![kodapay](https://static.openfintech.io/payment_providers/kodapay/icon.png?w=278&c=v0.59.26#w100) |[KodaPay](/payment-providers/kodapay/)|`kodapay`| 
 |![cashix](https://static.openfintech.io/payment_providers/cashix/icon.png?w=278&c=v0.59.26#w100) |[Cashix](/payment-providers/cashix/)|`cashix`| 
-|![creedo](https://static.openfintech.io/payment_providers/creedo/icon.png?w=278&c=v0.59.26#w100) |[Creedo](/payment-providers/creedo/)|`creedo`| 
+|![creedo](https://static.openfintech.io/payment_providers/creedo/icon.png?w=278&c=v0.59.26#w100) |[Creedo.Capital](/payment-providers/creedo/)|`creedo`| 
  
 
 ## JSON Object 

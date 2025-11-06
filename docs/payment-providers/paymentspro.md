@@ -1,5 +1,5 @@
 
-# PaymentsPro 
+# Payments Pro 
 ![paymentspro](https://static.openfintech.io/payment_providers/paymentspro/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] PaymentsPro 
-:	[RU] PaymentsPro 
-:	[UK] PaymentsPro 
+:	[EN] Payments Pro 
+:	[RU] Payments Pro 
+:	[UK] Payments Pro 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"PaymentsPro",
-    "ru":"PaymentsPro",
-    "uk":"PaymentsPro"
+    "en":"Payments Pro",
+    "ru":"Payments Pro",
+    "uk":"Payments Pro"
   }
 }
 ```  

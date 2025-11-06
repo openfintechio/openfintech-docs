@@ -1,5 +1,5 @@
 
-# AltitudePay 
+# Altitude Pay 
 ![altitudepay](https://static.openfintech.io/payment_providers/altitudepay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] AltitudePay 
-:	[RU] AltitudePay 
-:	[UK] AltitudePay 
+:	[EN] Altitude Pay 
+:	[RU] Altitude Pay 
+:	[UK] Altitude Pay 
  
 **Description:** 
  
@@ -67,9 +67,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"AltitudePay",
-    "ru":"AltitudePay",
-    "uk":"AltitudePay"
+    "en":"Altitude Pay",
+    "ru":"Altitude Pay",
+    "uk":"Altitude Pay"
   }
 }
 ```  

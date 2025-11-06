@@ -1,5 +1,5 @@
 
-# Toshani 
+# Toshani Digital 
 ![toshani](https://static.openfintech.io/vendors/toshani/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Toshani 
-:	[RU] Toshani 
-:	[UK] Toshani 
+:	[EN] Toshani Digital 
+:	[RU] Toshani Digital 
+:	[UK] Toshani Digital 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/toshani/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"toshani",
   "name":{
-    "en":"Toshani",
-    "ru":"Toshani",
-    "uk":"Toshani"
+    "en":"Toshani Digital",
+    "ru":"Toshani Digital",
+    "uk":"Toshani Digital"
   },
   "status":"active",
   "description":null,

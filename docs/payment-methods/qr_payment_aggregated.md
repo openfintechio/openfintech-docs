@@ -47,7 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _QR Paymen
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![citrinepay](https://static.openfintech.io/payment_providers/citrinepay/icon.png?w=278&c=v0.59.26#w100) |[CitrinePay](/payment-providers/citrinepay/)|`citrinepay`| 
+|![citrinepay](https://static.openfintech.io/payment_providers/citrinepay/icon.png?w=278&c=v0.59.26#w100) |[Citrine Merchant Services](/payment-providers/citrinepay/)|`citrinepay`| 
  
 
 ## JSON Object 

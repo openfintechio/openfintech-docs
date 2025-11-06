@@ -1,5 +1,5 @@
 
-# Portmone.com 
+# Portmone 
 ![portmone](https://static.openfintech.io/vendors/portmone/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,7 +8,9 @@
  
 **Name:** 
  
-:	[EN] Portmone.com 
+:	[EN] Portmone 
+:	[RU] Portmone 
+:	[UK] Portmone 
  
 **Status:** `active` 
  
@@ -47,7 +49,9 @@ https://static.openfintech.io/vendors/portmone/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"portmone",
   "name":{
-    "en":"Portmone.com"
+    "en":"Portmone",
+    "ru":"Portmone",
+    "uk":"Portmone"
   },
   "status":"active",
   "description":{

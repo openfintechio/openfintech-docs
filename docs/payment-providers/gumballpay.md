@@ -1,5 +1,5 @@
 
-# GumballPay 
+# Finera 
 ![gumballpay](https://static.openfintech.io/payment_providers/gumballpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] GumballPay 
-:	[RU] GumballPay 
-:	[UK] GumballPay 
+:	[EN] Finera 
+:	[RU] Finera 
+:	[UK] Finera 
  
 **Description:** 
  
@@ -82,9 +82,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"GumballPay",
-    "ru":"GumballPay",
-    "uk":"GumballPay"
+    "en":"Finera",
+    "ru":"Finera",
+    "uk":"Finera"
   }
 }
 ```  

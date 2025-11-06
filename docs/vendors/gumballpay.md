@@ -1,5 +1,5 @@
 
-# GumballPay 
+# Finera 
 ![gumballpay](https://static.openfintech.io/vendors/gumballpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] GumballPay 
-:	[RU] GumballPay 
-:	[UK] GumballPay 
+:	[EN] Finera 
+:	[RU] Finera 
+:	[UK] Finera 
  
 **Status:** `active` 
  
@@ -39,9 +39,9 @@ https://static.openfintech.io/vendors/gumballpay/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"gumballpay",
   "name":{
-    "en":"GumballPay",
-    "ru":"GumballPay",
-    "uk":"GumballPay"
+    "en":"Finera",
+    "ru":"Finera",
+    "uk":"Finera"
   },
   "status":"active",
   "description":null,

@@ -1,5 +1,5 @@
 
-# PaymentAsia 
+# Payment Asia 
 ![paymentasia](https://static.openfintech.io/payment_providers/paymentasia/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] PaymentAsia 
-:	[RU] PaymentAsia 
-:	[UK] PaymentAsia 
+:	[EN] Payment Asia 
+:	[RU] Payment Asia 
+:	[UK] Payment Asia 
  
 
 ## Images 
@@ -254,9 +254,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"PaymentAsia",
-    "ru":"PaymentAsia",
-    "uk":"PaymentAsia"
+    "en":"Payment Asia",
+    "ru":"Payment Asia",
+    "uk":"Payment Asia"
   }
 }
 ```  

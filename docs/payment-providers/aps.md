@@ -1,5 +1,5 @@
 
-# APS 
+# Advanced Payment Solutions (APS) 
 ![aps](https://static.openfintech.io/payment_providers/aps/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] APS 
-:	[RU] APS 
-:	[UK] APS 
+:	[EN] Advanced Payment Solutions (APS) 
+:	[RU] Advanced Payment Solutions (APS) 
+:	[UK] Advanced Payment Solutions (APS) 
  
 
 ## Images 
@@ -68,9 +68,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"APS",
-    "ru":"APS",
-    "uk":"APS"
+    "en":"Advanced Payment Solutions (APS)",
+    "ru":"Advanced Payment Solutions (APS)",
+    "uk":"Advanced Payment Solutions (APS)"
   }
 }
 ```  

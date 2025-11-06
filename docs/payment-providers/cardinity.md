@@ -1,5 +1,5 @@
 
-# Cardinity 
+# Nomupay 
 ![cardinity](https://static.openfintech.io/payment_providers/cardinity/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Cardinity 
-:	[RU] Cardinity 
-:	[UK] Cardinity 
+:	[EN] Nomupay 
+:	[RU] Nomupay 
+:	[UK] Nomupay 
  
 **Description:** 
  
@@ -102,9 +102,9 @@ The list of supported [Payment Methods](/payment-methods/)
     "about_payments_code":"cardinity"
   },
   "name":{
-    "en":"Cardinity",
-    "ru":"Cardinity",
-    "uk":"Cardinity"
+    "en":"Nomupay",
+    "ru":"Nomupay",
+    "uk":"Nomupay"
   }
 }
 ```  

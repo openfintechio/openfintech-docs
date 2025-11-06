@@ -1,5 +1,5 @@
 
-# Creedo 
+# Creedo.Capital 
 ![creedo](https://static.openfintech.io/vendors/creedo/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Creedo 
-:	[RU] Creedo 
-:	[UK] Creedo 
+:	[EN] Creedo.Capital 
+:	[RU] Creedo.Capital 
+:	[UK] Creedo.Capital 
  
 **Status:** `active` 
  
@@ -39,9 +39,9 @@ https://static.openfintech.io/vendors/creedo/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"creedo",
   "name":{
-    "en":"Creedo",
-    "ru":"Creedo",
-    "uk":"Creedo"
+    "en":"Creedo.Capital",
+    "ru":"Creedo.Capital",
+    "uk":"Creedo.Capital"
   },
   "status":"active",
   "description":null,

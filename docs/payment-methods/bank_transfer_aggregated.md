@@ -71,16 +71,16 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![paymentasia](https://static.openfintech.io/payment_providers/paymentasia/icon.png?w=278&c=v0.59.26#w100) |[PaymentAsia](/payment-providers/paymentasia/)|`paymentasia`| 
+|![paymentasia](https://static.openfintech.io/payment_providers/paymentasia/icon.png?w=278&c=v0.59.26#w100) |[Payment Asia](/payment-providers/paymentasia/)|`paymentasia`| 
 |![razorpay](https://static.openfintech.io/payment_providers/razorpay/icon.svg?w=278&c=v0.59.26#w100) |[Razorpay](/payment-providers/razorpay/)|`razorpay`| 
 |![payneteasy](https://static.openfintech.io/payment_providers/payneteasy/icon.svg?w=278&c=v0.59.26#w100) |[Payneteasy](/payment-providers/payneteasy/)|`payneteasy`| 
-|![gateexpress](https://static.openfintech.io/payment_providers/gateexpress/icon.svg?w=278&c=v0.59.26#w100) |[Gate.Express](/payment-providers/gateexpress/)|`gateexpress`| 
+|![gateexpress](https://static.openfintech.io/payment_providers/gateexpress/icon.svg?w=278&c=v0.59.26#w100) |[Gate Express](/payment-providers/gateexpress/)|`gateexpress`| 
 |![bitexpro](https://static.openfintech.io/payment_providers/bitexpro/icon.png?w=278&c=v0.59.26#w100) |[BitexPRO](/payment-providers/bitexpro/)|`bitexpro`| 
 |![payfuture](https://static.openfintech.io/payment_providers/payfuture/icon.svg?w=278&c=v0.59.26#w100) |[Payfuture](/payment-providers/payfuture/)|`payfuture`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
 |![kasha](https://static.openfintech.io/payment_providers/kasha/icon.png?w=278&c=v0.59.26#w100) |[Kasha](/payment-providers/kasha/)|`kasha`| 
 |![cyberpay](https://static.openfintech.io/payment_providers/cyberpay/icon.png?w=278&c=v0.59.26#w100) |[Cyberpay](/payment-providers/cyberpay/)|`cyberpay`| 
-|![citrinepay](https://static.openfintech.io/payment_providers/citrinepay/icon.png?w=278&c=v0.59.26#w100) |[CitrinePay](/payment-providers/citrinepay/)|`citrinepay`| 
+|![citrinepay](https://static.openfintech.io/payment_providers/citrinepay/icon.png?w=278&c=v0.59.26#w100) |[Citrine Merchant Services](/payment-providers/citrinepay/)|`citrinepay`| 
  
 
 ## JSON Object 

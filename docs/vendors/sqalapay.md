@@ -1,5 +1,5 @@
 
-# Sqalapay 
+# Sqala 
 ![sqalapay](https://static.openfintech.io/vendors/sqalapay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Sqalapay 
-:	[RU] Sqalapay 
-:	[UK] Sqalapay 
+:	[EN] Sqala 
+:	[RU] Sqala 
+:	[UK] Sqala 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/sqalapay/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"sqalapay",
   "name":{
-    "en":"Sqalapay",
-    "ru":"Sqalapay",
-    "uk":"Sqalapay"
+    "en":"Sqala",
+    "ru":"Sqala",
+    "uk":"Sqala"
   },
   "status":"active",
   "description":null,

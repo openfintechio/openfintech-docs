@@ -1,5 +1,5 @@
 
-# Sqalapay 
+# Sqala 
 ![sqalapay](https://static.openfintech.io/payment_providers/sqalapay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Sqalapay 
-:	[RU] Sqalapay 
-:	[UK] Sqalapay 
+:	[EN] Sqala 
+:	[RU] Sqala 
+:	[UK] Sqala 
  
 **Description:** 
  
@@ -76,9 +76,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"Sqalapay",
-    "ru":"Sqalapay",
-    "uk":"Sqalapay"
+    "en":"Sqala",
+    "ru":"Sqala",
+    "uk":"Sqala"
   }
 }
 ```  

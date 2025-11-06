@@ -1,5 +1,5 @@
 
-# Platio Limited 
+# Platio 
 ![platio](https://static.openfintech.io/vendors/platio/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Platio Limited 
-:	[RU] Platio Limited 
-:	[UK] Platio Limited 
+:	[EN] Platio 
+:	[RU] Platio 
+:	[UK] Platio 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/platio/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"platio",
   "name":{
-    "en":"Platio Limited",
-    "ru":"Platio Limited",
-    "uk":"Platio Limited"
+    "en":"Platio",
+    "ru":"Platio",
+    "uk":"Platio"
   },
   "status":"active",
   "description":null,

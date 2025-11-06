@@ -1,5 +1,5 @@
 
-# Vendo Services GmbH 
+# Vendo 
 ![vendo](https://static.openfintech.io/vendors/vendo/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Vendo Services GmbH 
-:	[RU] Vendo Services GmbH 
-:	[UK] Vendo Services GmbH 
+:	[EN] Vendo 
+:	[RU] Vendo 
+:	[UK] Vendo 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/vendo/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"vendo",
   "name":{
-    "en":"Vendo Services GmbH",
-    "ru":"Vendo Services GmbH",
-    "uk":"Vendo Services GmbH"
+    "en":"Vendo",
+    "ru":"Vendo",
+    "uk":"Vendo"
   },
   "status":"active",
   "description":null,

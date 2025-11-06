@@ -1,5 +1,5 @@
 
-# Payon 
+# ACI Worldwide 
 ![payon](https://static.openfintech.io/payment_providers/payon/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Payon 
-:	[RU] Payon 
-:	[UK] Payon 
+:	[EN] ACI Worldwide 
+:	[RU] ACI Worldwide 
+:	[UK] ACI Worldwide 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"Payon",
-    "ru":"Payon",
-    "uk":"Payon"
+    "en":"ACI Worldwide",
+    "ru":"ACI Worldwide",
+    "uk":"ACI Worldwide"
   }
 }
 ```  

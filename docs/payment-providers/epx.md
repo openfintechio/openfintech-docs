@@ -1,5 +1,5 @@
 
-# EPX 
+# North Enterprise 
 ![epx](https://static.openfintech.io/payment_providers/epx/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] EPX 
-:	[RU] EPX 
-:	[UK] EPX 
+:	[EN] North Enterprise 
+:	[RU] North Enterprise 
+:	[UK] North Enterprise 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"EPX",
-    "ru":"EPX",
-    "uk":"EPX"
+    "en":"North Enterprise",
+    "ru":"North Enterprise",
+    "uk":"North Enterprise"
   }
 }
 ```  

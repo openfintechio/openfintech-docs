@@ -1,5 +1,5 @@
 
-# Advcash 
+# Volet.com 
 ![advcash](https://static.openfintech.io/payment_providers/advcash/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Advcash 
-:	[RU] Advcash 
-:	[UK] Advcash 
+:	[EN] Volet.com 
+:	[RU] Volet.com 
+:	[UK] Volet.com 
  
 **Description:** 
  
@@ -74,9 +74,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"Advcash",
-    "ru":"Advcash",
-    "uk":"Advcash"
+    "en":"Volet.com",
+    "ru":"Volet.com",
+    "uk":"Volet.com"
   }
 }
 ```  

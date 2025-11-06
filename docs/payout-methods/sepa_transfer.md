@@ -54,9 +54,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Sepa Tran
 |![noda](https://static.openfintech.io/payment_providers/noda/icon.svg?w=278&c=v0.59.26#w100) |[Noda](/payment-providers/noda/)|`noda`| 
 |![katarun](https://static.openfintech.io/payment_providers/katarun/icon.png?w=278&c=v0.59.26#w100) |[Katarun](/payment-providers/katarun/)|`katarun`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
-|![vendo](https://static.openfintech.io/payment_providers/vendo/icon.png?w=278&c=v0.59.26#w100) |[Vendo Services GmbH](/payment-providers/vendo/)|`vendo`| 
-|![yotta](https://static.openfintech.io/payment_providers/yotta/icon.svg?w=278&c=v0.59.26#w100) |[Yotta](/payment-providers/yotta/)|`yotta`| 
-|![saltedge](https://static.openfintech.io/payment_providers/saltedge/icon.svg?w=278&c=v0.59.26#w100) |[SaltEdge](/payment-providers/saltedge/)|`saltedge`| 
+|![vendo](https://static.openfintech.io/payment_providers/vendo/icon.png?w=278&c=v0.59.26#w100) |[Vendo](/payment-providers/vendo/)|`vendo`| 
+|![yotta](https://static.openfintech.io/payment_providers/yotta/icon.svg?w=278&c=v0.59.26#w100) |[Yotta Pay](/payment-providers/yotta/)|`yotta`| 
+|![saltedge](https://static.openfintech.io/payment_providers/saltedge/icon.svg?w=278&c=v0.59.26#w100) |[Salt Edge](/payment-providers/saltedge/)|`saltedge`| 
  
 
 ## JSON Object 

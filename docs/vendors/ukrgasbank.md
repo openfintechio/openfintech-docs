@@ -1,5 +1,5 @@
 
-# PUBLIC JOINT STOCK COMPANY JOINT STOCK BANK "UKRGASBANK" 
+# Ukrgasbank 
 ![ukrgasbank](https://static.openfintech.io/vendors/ukrgasbank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[UK] ПУБЛІЧНЕ АКЦІОНЕРНЕ ТОВАРИСТВО АКЦІОНЕРНИЙ БАНК "УКРГАЗБАНК" 
-:	[EN] PUBLIC JOINT STOCK COMPANY JOINT STOCK BANK "UKRGASBANK" 
-:	[RU] ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО АКЦИОНЕРНЫЙ БАНК "УКРГАЗБАНК" 
+:	[EN] Ukrgasbank 
+:	[RU] Ukrgasbank 
+:	[UK] Ukrgasbank 
  
 **Status:** `active` 
  
@@ -47,9 +47,9 @@ https://static.openfintech.io/vendors/ukrgasbank/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"ukrgasbank",
   "name":{
-    "uk":"\u041f\u0423\u0411\u041b\u0406\u0427\u041d\u0415 \u0410\u041a\u0426\u0406\u041e\u041d\u0415\u0420\u041d\u0415 \u0422\u041e\u0412\u0410\u0420\u0418\u0421\u0422\u0412\u041e \u0410\u041a\u0426\u0406\u041e\u041d\u0415\u0420\u041d\u0418\u0419 \u0411\u0410\u041d\u041a \"\u0423\u041a\u0420\u0413\u0410\u0417\u0411\u0410\u041d\u041a\"",
-    "en":"PUBLIC JOINT STOCK COMPANY JOINT STOCK BANK \"UKRGASBANK\"",
-    "ru":"\u041f\u0423\u0411\u041b\u0418\u0427\u041d\u041e\u0415 \u0410\u041a\u0426\u0418\u041e\u041d\u0415\u0420\u041d\u041e\u0415 \u041e\u0411\u0429\u0415\u0421\u0422\u0412\u041e \u0410\u041a\u0426\u0418\u041e\u041d\u0415\u0420\u041d\u042b\u0419 \u0411\u0410\u041d\u041a \"\u0423\u041a\u0420\u0413\u0410\u0417\u0411\u0410\u041d\u041a\""
+    "en":"Ukrgasbank",
+    "ru":"Ukrgasbank",
+    "uk":"Ukrgasbank"
   },
   "status":"active",
   "description":null,

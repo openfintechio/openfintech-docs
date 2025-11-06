@@ -1,5 +1,5 @@
 
-# AML Node 
+# AMLNode 
 ![amlnode](https://static.openfintech.io/vendors/amlnode/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] AML Node 
-:	[RU] AML Node 
-:	[UK] AML Node 
+:	[EN] AMLNode 
+:	[RU] AMLNode 
+:	[UK] AMLNode 
  
 **Status:** `active` 
  
@@ -39,9 +39,9 @@ https://static.openfintech.io/vendors/amlnode/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"amlnode",
   "name":{
-    "en":"AML Node",
-    "ru":"AML Node",
-    "uk":"AML Node"
+    "en":"AMLNode",
+    "ru":"AMLNode",
+    "uk":"AMLNode"
   },
   "status":"active",
   "description":null,

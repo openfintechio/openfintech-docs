@@ -1,5 +1,5 @@
 
-# Transact World 
+# TransactWorld 
 ![transactworld](https://static.openfintech.io/payment_providers/transactworld/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Transact World 
-:	[RU] Transact World 
-:	[UK] Transact World 
+:	[EN] TransactWorld 
+:	[RU] TransactWorld 
+:	[UK] TransactWorld 
  
 
 ## Images 
@@ -68,9 +68,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"Transact World",
-    "ru":"Transact World",
-    "uk":"Transact World"
+    "en":"TransactWorld",
+    "ru":"TransactWorld",
+    "uk":"TransactWorld"
   }
 }
 ```  

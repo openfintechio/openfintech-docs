@@ -1,5 +1,5 @@
 
-# DNSPAY 
+# DNS PAY 
 ![dnspay](https://static.openfintech.io/vendors/dnspay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] DNSPAY 
-:	[RU] DNSPAY 
-:	[UK] DNSPAY 
+:	[EN] DNS PAY 
+:	[RU] DNS PAY 
+:	[UK] DNS PAY 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/dnspay/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"dnspay",
   "name":{
-    "en":"DNSPAY",
-    "ru":"DNSPAY",
-    "uk":"DNSPAY"
+    "en":"DNS PAY",
+    "ru":"DNS PAY",
+    "uk":"DNS PAY"
   },
   "status":"active",
   "description":null,

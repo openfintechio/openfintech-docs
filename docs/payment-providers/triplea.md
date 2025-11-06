@@ -1,5 +1,5 @@
 
-# TripleA 
+# Triple-A 
 ![triplea](https://static.openfintech.io/payment_providers/triplea/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] TripleA 
-:	[RU] TripleA 
-:	[UK] TripleA 
+:	[EN] Triple-A 
+:	[RU] Triple-A 
+:	[UK] Triple-A 
  
 **Description:** 
  
@@ -65,9 +65,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"TripleA",
-    "ru":"TripleA",
-    "uk":"TripleA"
+    "en":"Triple-A",
+    "ru":"Triple-A",
+    "uk":"Triple-A"
   }
 }
 ```  

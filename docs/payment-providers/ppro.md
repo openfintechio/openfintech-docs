@@ -1,5 +1,5 @@
 
-# PPRO Financial Ltd 
+# PPRO 
 ![ppro](https://static.openfintech.io/payment_providers/ppro/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,7 +10,9 @@
  
 **Name:** 
  
-:	[EN] PPRO Financial Ltd 
+:	[EN] PPRO 
+:	[RU] PPRO 
+:	[UK] PPRO 
  
 **Description:** 
  
@@ -85,7 +87,9 @@ The list of supported [Payment Methods](/payment-methods/)
     "about_payments_code":"ppro"
   },
   "name":{
-    "en":"PPRO Financial Ltd"
+    "en":"PPRO",
+    "ru":"PPRO",
+    "uk":"PPRO"
   }
 }
 ```  

@@ -1,5 +1,5 @@
 
-# First Atlantic Commerce 
+# Powertranz 
 ![firstatlanticcommerce](https://static.openfintech.io/vendors/firstatlanticcommerce/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] First Atlantic Commerce 
-:	[RU] First Atlantic Commerce 
-:	[UK] First Atlantic Commerce 
+:	[EN] Powertranz 
+:	[RU] Powertranz 
+:	[UK] Powertranz 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/firstatlanticcommerce/icon.png?w=278&c=v0.
 {
   "code":"firstatlanticcommerce",
   "name":{
-    "en":"First Atlantic Commerce",
-    "ru":"First Atlantic Commerce",
-    "uk":"First Atlantic Commerce"
+    "en":"Powertranz",
+    "ru":"Powertranz",
+    "uk":"Powertranz"
   },
   "status":"active",
   "description":null,

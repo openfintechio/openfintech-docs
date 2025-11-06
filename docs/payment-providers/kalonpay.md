@@ -1,5 +1,5 @@
 
-# KalonPay 
+# BearlaPay 
 ![kalonpay](https://static.openfintech.io/payment_providers/kalonpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] KalonPay 
-:	[RU] KalonPay 
-:	[UK] KalonPay 
+:	[EN] BearlaPay 
+:	[RU] BearlaPay 
+:	[UK] BearlaPay 
  
 **Description:** 
  
@@ -63,9 +63,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"KalonPay",
-    "ru":"KalonPay",
-    "uk":"KalonPay"
+    "en":"BearlaPay",
+    "ru":"BearlaPay",
+    "uk":"BearlaPay"
   }
 }
 ```  

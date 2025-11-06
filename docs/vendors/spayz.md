@@ -1,5 +1,5 @@
 
-# Spayz 
+# SPAYZ.io 
 ![spayz](https://static.openfintech.io/vendors/spayz/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Spayz 
-:	[RU] Spayz 
-:	[UK] Spayz 
+:	[EN] SPAYZ.io 
+:	[RU] SPAYZ.io 
+:	[UK] SPAYZ.io 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/spayz/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"spayz",
   "name":{
-    "en":"Spayz",
-    "ru":"Spayz",
-    "uk":"Spayz"
+    "en":"SPAYZ.io",
+    "ru":"SPAYZ.io",
+    "uk":"SPAYZ.io"
   },
   "status":"active",
   "description":null,

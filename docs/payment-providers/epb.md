@@ -1,5 +1,5 @@
 
-# EPB 
+# Europrombank (EPB) 
 ![epb](https://static.openfintech.io/payment_providers/epb/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] EPB 
-:	[RU] EPB 
-:	[UK] ЄПБ 
+:	[EN] Europrombank (EPB) 
+:	[RU] Europrombank (EPB) 
+:	[UK] Europrombank (EPB) 
  
 
 ## Images 
@@ -68,9 +68,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"EPB",
-    "ru":"EPB",
-    "uk":"\u0404\u041f\u0411"
+    "en":"Europrombank (EPB)",
+    "ru":"Europrombank (EPB)",
+    "uk":"Europrombank (EPB)"
   }
 }
 ```  

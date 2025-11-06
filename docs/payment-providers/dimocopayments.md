@@ -1,5 +1,5 @@
 
-# DIMOCO Payments 
+# DIMOCO 
 ![dimocopayments](https://static.openfintech.io/payment_providers/dimocopayments/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] DIMOCO Payments 
-:	[RU] DIMOCO Payments 
-:	[UK] DIMOCO Payments 
+:	[EN] DIMOCO 
+:	[RU] DIMOCO 
+:	[UK] DIMOCO 
  
 **Description:** 
  
@@ -67,9 +67,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"DIMOCO Payments",
-    "ru":"DIMOCO Payments",
-    "uk":"DIMOCO Payments"
+    "en":"DIMOCO",
+    "ru":"DIMOCO",
+    "uk":"DIMOCO"
   }
 }
 ```  

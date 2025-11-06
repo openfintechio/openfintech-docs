@@ -1,5 +1,5 @@
 
-# CitrinePay 
+# Citrine Merchant Services 
 ![citrinepay](https://static.openfintech.io/vendors/citrinepay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] CitrinePay 
-:	[RU] CitrinePay 
-:	[UK] CitrinePay 
+:	[EN] Citrine Merchant Services 
+:	[RU] Citrine Merchant Services 
+:	[UK] Citrine Merchant Services 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/citrinepay/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"citrinepay",
   "name":{
-    "en":"CitrinePay",
-    "ru":"CitrinePay",
-    "uk":"CitrinePay"
+    "en":"Citrine Merchant Services",
+    "ru":"Citrine Merchant Services",
+    "uk":"Citrine Merchant Services"
   },
   "status":"active",
   "description":null,

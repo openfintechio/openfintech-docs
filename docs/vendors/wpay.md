@@ -1,5 +1,5 @@
 
-# W PAY 
+# Wpay 
 ![wpay](https://static.openfintech.io/vendors/wpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] W PAY 
-:	[RU] W PAY 
-:	[UK] W PAY 
+:	[EN] Wpay 
+:	[RU] Wpay 
+:	[UK] Wpay 
  
 **Status:** `active` 
  
@@ -39,9 +39,9 @@ https://static.openfintech.io/vendors/wpay/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"wpay",
   "name":{
-    "en":"W PAY",
-    "ru":"W PAY",
-    "uk":"W PAY"
+    "en":"Wpay",
+    "ru":"Wpay",
+    "uk":"Wpay"
   },
   "status":"active",
   "description":null,

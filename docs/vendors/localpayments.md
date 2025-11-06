@@ -1,5 +1,5 @@
 
-# Localpayments 
+# Localpayment 
 ![localpayments](https://static.openfintech.io/vendors/localpayments/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Localpayments 
-:	[RU] Localpayments 
-:	[UK] Localpayments 
+:	[EN] Localpayment 
+:	[RU] Localpayment 
+:	[UK] Localpayment 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/localpayments/icon.svg?w=278&c=v0.59.26#w1
 {
   "code":"localpayments",
   "name":{
-    "en":"Localpayments",
-    "ru":"Localpayments",
-    "uk":"Localpayments"
+    "en":"Localpayment",
+    "ru":"Localpayment",
+    "uk":"Localpayment"
   },
   "status":"active",
   "description":null,

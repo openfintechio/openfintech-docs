@@ -1,5 +1,5 @@
 
-# W PAY 
+# Wpay 
 ![wpay](https://static.openfintech.io/payment_providers/wpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] W PAY 
-:	[RU] W PAY 
-:	[UK] W PAY 
+:	[EN] Wpay 
+:	[RU] Wpay 
+:	[UK] Wpay 
  
 
 ## Images 
@@ -68,9 +68,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"W PAY",
-    "ru":"W PAY",
-    "uk":"W PAY"
+    "en":"Wpay",
+    "ru":"Wpay",
+    "uk":"Wpay"
   }
 }
 ```  

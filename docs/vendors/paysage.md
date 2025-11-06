@@ -1,5 +1,5 @@
 
-# PaySage.io 
+# COLIBRIX 
 ![paysage](https://static.openfintech.io/vendors/paysage/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] PaySage.io 
-:	[RU] PaySage.io 
-:	[UK] PaySage.io 
+:	[EN] COLIBRIX 
+:	[RU] COLIBRIX 
+:	[UK] COLIBRIX 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/paysage/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"paysage",
   "name":{
-    "en":"PaySage.io",
-    "ru":"PaySage.io",
-    "uk":"PaySage.io"
+    "en":"COLIBRIX",
+    "ru":"COLIBRIX",
+    "uk":"COLIBRIX"
   },
   "status":"active",
   "description":null,

@@ -1,5 +1,5 @@
 
-# Pay.CC 
+# Pay CC 
 ![paycc](https://static.openfintech.io/payment_providers/paycc/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Pay.CC 
-:	[RU] Pay.CC 
-:	[UK] Pay.CC 
+:	[EN] Pay CC 
+:	[RU] Pay CC 
+:	[UK] Pay CC 
  
 **Description:** 
  
@@ -67,9 +67,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"Pay.CC",
-    "ru":"Pay.CC",
-    "uk":"Pay.CC"
+    "en":"Pay CC",
+    "ru":"Pay CC",
+    "uk":"Pay CC"
   }
 }
 ```  

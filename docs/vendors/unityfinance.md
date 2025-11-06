@@ -1,5 +1,5 @@
 
-# Unity Finance 
+# UnityFinance 
 ![unityfinance](https://static.openfintech.io/vendors/unityfinance/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Unity Finance 
-:	[UK] Unity Finance 
-:	[RU] Unity Finance 
+:	[EN] UnityFinance 
+:	[RU] UnityFinance 
+:	[UK] UnityFinance 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/unityfinance/icon.svg?w=278&c=v0.59.26#w10
 {
   "code":"unityfinance",
   "name":{
-    "en":"Unity Finance",
-    "uk":"Unity Finance",
-    "ru":"Unity Finance"
+    "en":"UnityFinance",
+    "ru":"UnityFinance",
+    "uk":"UnityFinance"
   },
   "status":"active",
   "description":null,

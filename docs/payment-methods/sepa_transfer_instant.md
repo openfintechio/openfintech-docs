@@ -45,7 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Sepa Tran
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![saltedge](https://static.openfintech.io/payment_providers/saltedge/icon.svg?w=278&c=v0.59.26#w100) |[SaltEdge](/payment-providers/saltedge/)|`saltedge`| 
+|![saltedge](https://static.openfintech.io/payment_providers/saltedge/icon.svg?w=278&c=v0.59.26#w100) |[Salt Edge](/payment-providers/saltedge/)|`saltedge`| 
  
 
 ## JSON Object 

@@ -1,5 +1,5 @@
 
-# Vendo Services GmbH 
+# Vendo 
 ![vendo](https://static.openfintech.io/payment_providers/vendo/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Vendo Services GmbH 
-:	[RU] Vendo Services GmbH 
-:	[UK] Vendo Services GmbH 
+:	[EN] Vendo 
+:	[RU] Vendo 
+:	[UK] Vendo 
  
 **Description:** 
  
@@ -69,9 +69,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"Vendo Services GmbH",
-    "ru":"Vendo Services GmbH",
-    "uk":"Vendo Services GmbH"
+    "en":"Vendo",
+    "ru":"Vendo",
+    "uk":"Vendo"
   }
 }
 ```  

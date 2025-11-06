@@ -1,5 +1,5 @@
 
-# Hellopayment 
+# Hello Payment Solutions 
 ![hellopayment](https://static.openfintech.io/vendors/hellopayment/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Hellopayment 
-:	[RU] Hellopayment 
-:	[UK] Hellopayment 
+:	[EN] Hello Payment Solutions 
+:	[RU] Hello Payment Solutions 
+:	[UK] Hello Payment Solutions 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/hellopayment/icon.png?w=278&c=v0.59.26#w10
 {
   "code":"hellopayment",
   "name":{
-    "en":"Hellopayment",
-    "ru":"Hellopayment",
-    "uk":"Hellopayment"
+    "en":"Hello Payment Solutions",
+    "ru":"Hello Payment Solutions",
+    "uk":"Hello Payment Solutions"
   },
   "status":"active",
   "description":null,

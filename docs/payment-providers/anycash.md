@@ -1,5 +1,5 @@
 
-# AnyCash 
+# Any.Cash 
 ![anycash](https://static.openfintech.io/payment_providers/anycash/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,7 +10,9 @@
  
 **Name:** 
  
-:	[EN] AnyCash 
+:	[EN] Any.Cash 
+:	[RU] Any.Cash 
+:	[UK] Any.Cash 
  
 **Description:** 
  
@@ -75,7 +77,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"AnyCash"
+    "en":"Any.Cash",
+    "ru":"Any.Cash",
+    "uk":"Any.Cash"
   }
 }
 ```  

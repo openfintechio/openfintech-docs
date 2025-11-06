@@ -1,5 +1,5 @@
 
-# MicroPayments 
+# Micropayment AG 
 ![micropayments](https://static.openfintech.io/payment_providers/micropayments/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] MicroPayments 
-:	[RU] MicroPayments 
-:	[UK] MicroPayments 
+:	[EN] Micropayment AG 
+:	[RU] Micropayment AG 
+:	[UK] Micropayment AG 
  
 
 ## Images 
@@ -70,9 +70,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"MicroPayments",
-    "ru":"MicroPayments",
-    "uk":"MicroPayments"
+    "en":"Micropayment AG",
+    "ru":"Micropayment AG",
+    "uk":"Micropayment AG"
   }
 }
 ```  

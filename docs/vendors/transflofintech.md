@@ -1,5 +1,5 @@
 
-# Transflo Fintech 
+# Transflo 
 ![transflofintech](https://static.openfintech.io/vendors/transflofintech/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Transflo Fintech 
-:	[RU] Transflo Fintech 
-:	[UK] Transflo Fintech 
+:	[EN] Transflo 
+:	[RU] Transflo 
+:	[UK] Transflo 
  
 **Status:** `active` 
  
@@ -39,9 +39,9 @@ https://static.openfintech.io/vendors/transflofintech/icon.png?w=278&c=v0.59.26#
 {
   "code":"transflofintech",
   "name":{
-    "en":"Transflo Fintech",
-    "ru":"Transflo Fintech",
-    "uk":"Transflo Fintech"
+    "en":"Transflo",
+    "ru":"Transflo",
+    "uk":"Transflo"
   },
   "status":"active",
   "description":null,

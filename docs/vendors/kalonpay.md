@@ -1,5 +1,5 @@
 
-# KalonPay 
+# BearlaPay 
 ![kalonpay](https://static.openfintech.io/vendors/kalonpay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] KalonPay 
-:	[RU] KalonPay 
-:	[UK] KalonPay 
+:	[EN] BearlaPay 
+:	[RU] BearlaPay 
+:	[UK] BearlaPay 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/kalonpay/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"kalonpay",
   "name":{
-    "en":"KalonPay",
-    "ru":"KalonPay",
-    "uk":"KalonPay"
+    "en":"BearlaPay",
+    "ru":"BearlaPay",
+    "uk":"BearlaPay"
   },
   "status":"active",
   "description":null,

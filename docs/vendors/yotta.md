@@ -1,5 +1,5 @@
 
-# Yotta 
+# Yotta Pay 
 ![yotta](https://static.openfintech.io/vendors/yotta/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Yotta 
-:	[RU] Yotta 
-:	[UK] Yotta 
+:	[EN] Yotta Pay 
+:	[RU] Yotta Pay 
+:	[UK] Yotta Pay 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/yotta/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"yotta",
   "name":{
-    "en":"Yotta",
-    "ru":"Yotta",
-    "uk":"Yotta"
+    "en":"Yotta Pay",
+    "ru":"Yotta Pay",
+    "uk":"Yotta Pay"
   },
   "status":"active",
   "description":null,

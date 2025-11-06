@@ -45,7 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Paysage C
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![paysage](https://static.openfintech.io/payment_providers/paysage/icon.png?w=278&c=v0.59.26#w100) |[PaySage.io](/payment-providers/paysage/)|`paysage`| 
+|![paysage](https://static.openfintech.io/payment_providers/paysage/icon.png?w=278&c=v0.59.26#w100) |[COLIBRIX](/payment-providers/paysage/)|`paysage`| 
  
 
 ## JSON Object 

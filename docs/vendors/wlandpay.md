@@ -1,5 +1,5 @@
 
-# Wlandpay 
+# Wonderlandpay 
 ![wlandpay](https://static.openfintech.io/vendors/wlandpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Wlandpay 
-:	[RU] Wlandpay 
-:	[UK] Wlandpay 
+:	[EN] Wonderlandpay 
+:	[RU] Wonderlandpay 
+:	[UK] Wonderlandpay 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/wlandpay/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"wlandpay",
   "name":{
-    "en":"Wlandpay",
-    "ru":"Wlandpay",
-    "uk":"Wlandpay"
+    "en":"Wonderlandpay",
+    "ru":"Wonderlandpay",
+    "uk":"Wonderlandpay"
   },
   "status":"active",
   "description":null,

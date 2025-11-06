@@ -1,5 +1,5 @@
 
-# EPX 
+# North Enterprise 
 ![epx](https://static.openfintech.io/vendors/epx/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] EPX 
-:	[RU] EPX 
-:	[UK] EPX 
+:	[EN] North Enterprise 
+:	[RU] North Enterprise 
+:	[UK] North Enterprise 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/epx/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"epx",
   "name":{
-    "en":"EPX",
-    "ru":"EPX",
-    "uk":"EPX"
+    "en":"North Enterprise",
+    "ru":"North Enterprise",
+    "uk":"North Enterprise"
   },
   "status":"active",
   "description":null,

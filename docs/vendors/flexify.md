@@ -1,5 +1,5 @@
 
-# Flexify 
+# Flexify.finance 
 ![flexify](https://static.openfintech.io/vendors/flexify/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Flexify 
-:	[RU] Flexify 
-:	[UK] Flexify 
+:	[EN] Flexify.finance 
+:	[RU] Flexify.finance 
+:	[UK] Flexify.finance 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/flexify/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"flexify",
   "name":{
-    "en":"Flexify",
-    "ru":"Flexify",
-    "uk":"Flexify"
+    "en":"Flexify.finance",
+    "ru":"Flexify.finance",
+    "uk":"Flexify.finance"
   },
   "status":"active",
   "description":null,

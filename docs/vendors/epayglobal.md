@@ -1,5 +1,5 @@
 
-# ePay Global 
+# Epay 
 ![epayglobal](https://static.openfintech.io/vendors/epayglobal/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] ePay Global 
-:	[RU] ePay Global 
-:	[UK] ePay Global 
+:	[EN] Epay 
+:	[RU] Epay 
+:	[UK] Epay 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/epayglobal/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"epayglobal",
   "name":{
-    "en":"ePay Global",
-    "ru":"ePay Global",
-    "uk":"ePay Global"
+    "en":"Epay",
+    "ru":"Epay",
+    "uk":"Epay"
   },
   "status":"active",
   "description":null,

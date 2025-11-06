@@ -1,5 +1,5 @@
 
-# EUPaymentz 
+# EU Paymentz 
 ![eupaymentz](https://static.openfintech.io/payment_providers/eupaymentz/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] EUPaymentz 
-:	[RU] EUPaymentz 
-:	[UK] EUPaymentz 
+:	[EN] EU Paymentz 
+:	[RU] EU Paymentz 
+:	[UK] EU Paymentz 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"EUPaymentz",
-    "ru":"EUPaymentz",
-    "uk":"EUPaymentz"
+    "en":"EU Paymentz",
+    "ru":"EU Paymentz",
+    "uk":"EU Paymentz"
   }
 }
 ```  

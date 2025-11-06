@@ -1,5 +1,5 @@
 
-# ePay Global 
+# Epay 
 ![epayglobal](https://static.openfintech.io/payment_providers/epayglobal/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] ePay Global 
-:	[RU] ePay Global 
-:	[UK] ePay Global 
+:	[EN] Epay 
+:	[RU] Epay 
+:	[UK] Epay 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"ePay Global",
-    "ru":"ePay Global",
-    "uk":"ePay Global"
+    "en":"Epay",
+    "ru":"Epay",
+    "uk":"Epay"
   }
 }
 ```  

@@ -1,5 +1,5 @@
 
-# TOPAY.PRO 
+# ToPay 
 ![topay](https://static.openfintech.io/vendors/topay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] TOPAY.PRO 
-:	[RU] TOPAY.PRO 
-:	[UK] TOPAY.PRO 
+:	[EN] ToPay 
+:	[RU] ToPay 
+:	[UK] ToPay 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/topay/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"topay",
   "name":{
-    "en":"TOPAY.PRO",
-    "ru":"TOPAY.PRO",
-    "uk":"TOPAY.PRO"
+    "en":"ToPay",
+    "ru":"ToPay",
+    "uk":"ToPay"
   },
   "status":"active",
   "description":null,

@@ -1,5 +1,5 @@
 
-# ConvergeGate 
+# Converge Gate 
 ![convergegate](https://static.openfintech.io/vendors/convergegate/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] ConvergeGate 
-:	[UK] ConvergeGate 
-:	[RU] ConvergeGate 
+:	[EN] Converge Gate 
+:	[RU] Converge Gate 
+:	[UK] Converge Gate 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/convergegate/icon.svg?w=278&c=v0.59.26#w10
 {
   "code":"convergegate",
   "name":{
-    "en":"ConvergeGate",
-    "uk":"ConvergeGate",
-    "ru":"ConvergeGate"
+    "en":"Converge Gate",
+    "ru":"Converge Gate",
+    "uk":"Converge Gate"
   },
   "status":"active",
   "description":null,

@@ -45,7 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _CRYPTO_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![paysec](https://static.openfintech.io/payment_providers/paysec/icon.png?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
-|![triplea](https://static.openfintech.io/payment_providers/triplea/icon.png?w=278&c=v0.59.26#w100) |[TripleA](/payment-providers/triplea/)|`triplea`| 
+|![triplea](https://static.openfintech.io/payment_providers/triplea/icon.png?w=278&c=v0.59.26#w100) |[Triple-A](/payment-providers/triplea/)|`triplea`| 
  
 
 ## JSON Object 

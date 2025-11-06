@@ -11,6 +11,8 @@
 **Name:** 
  
 :	[EN] Platio 
+:	[RU] Platio 
+:	[UK] Platio 
  
  
 **Countries:** 
@@ -80,7 +82,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"Platio"
+    "en":"Platio",
+    "ru":"Platio",
+    "uk":"Platio"
   }
 }
 ```  

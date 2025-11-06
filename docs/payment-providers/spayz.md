@@ -1,5 +1,5 @@
 
-# Spayz 
+# SPAYZ.io 
 ![spayz](https://static.openfintech.io/payment_providers/spayz/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Spayz 
-:	[RU] Spayz 
-:	[UK] Spayz 
+:	[EN] SPAYZ.io 
+:	[RU] SPAYZ.io 
+:	[UK] SPAYZ.io 
  
 
 ## Images 
@@ -84,9 +84,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"Spayz",
-    "ru":"Spayz",
-    "uk":"Spayz"
+    "en":"SPAYZ.io",
+    "ru":"SPAYZ.io",
+    "uk":"SPAYZ.io"
   }
 }
 ```  

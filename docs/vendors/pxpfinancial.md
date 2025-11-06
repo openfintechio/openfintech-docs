@@ -1,5 +1,5 @@
 
-# PXP financial 
+# PXP 
 ![pxpfinancial](https://static.openfintech.io/vendors/pxpfinancial/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] PXP financial 
-:	[RU] PXP financial 
-:	[UK] PXP financial 
+:	[EN] PXP 
+:	[RU] PXP 
+:	[UK] PXP 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/pxpfinancial/icon.png?w=278&c=v0.59.26#w10
 {
   "code":"pxpfinancial",
   "name":{
-    "en":"PXP financial",
-    "ru":"PXP financial",
-    "uk":"PXP financial"
+    "en":"PXP",
+    "ru":"PXP",
+    "uk":"PXP"
   },
   "status":"active",
   "description":null,

@@ -1,5 +1,5 @@
 
-# PaymentAsia 
+# Payment Asia 
 ![paymentasia](https://static.openfintech.io/vendors/paymentasia/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] PaymentAsia 
-:	[RU] PaymentAsia 
-:	[UK] PaymentAsia 
+:	[EN] Payment Asia 
+:	[RU] Payment Asia 
+:	[UK] Payment Asia 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/paymentasia/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"paymentasia",
   "name":{
-    "en":"PaymentAsia",
-    "ru":"PaymentAsia",
-    "uk":"PaymentAsia"
+    "en":"Payment Asia",
+    "ru":"Payment Asia",
+    "uk":"Payment Asia"
   },
   "status":"active",
   "description":null,

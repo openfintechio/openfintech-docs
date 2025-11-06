@@ -1,5 +1,5 @@
 
-# ConvergeGate 
+# Converge Gate 
 ![convergegate](https://static.openfintech.io/payment_providers/convergegate/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] ConvergeGate 
-:	[RU] ConvergeGate 
-:	[UK] ConvergeGate 
+:	[EN] Converge Gate 
+:	[RU] Converge Gate 
+:	[UK] Converge Gate 
  
 
 ## Images 
@@ -59,9 +59,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"ConvergeGate",
-    "ru":"ConvergeGate",
-    "uk":"ConvergeGate"
+    "en":"Converge Gate",
+    "ru":"Converge Gate",
+    "uk":"Converge Gate"
   }
 }
 ```  

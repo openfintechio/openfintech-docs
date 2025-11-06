@@ -1,5 +1,5 @@
 
-# Paymentz 
+# Paio 
 ![paymentz](https://static.openfintech.io/vendors/paymentz/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Paymentz 
-:	[RU] Paymentz 
-:	[UK] Paymentz 
+:	[EN] Paio 
+:	[RU] Paio 
+:	[UK] Paio 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/paymentz/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"paymentz",
   "name":{
-    "en":"Paymentz",
-    "ru":"Paymentz",
-    "uk":"Paymentz"
+    "en":"Paio",
+    "ru":"Paio",
+    "uk":"Paio"
   },
   "status":"active",
   "description":null,

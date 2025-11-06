@@ -1,5 +1,5 @@
 
-# Rapyd.net 
+# Rapyd 
 ![rapyd](https://static.openfintech.io/vendors/rapyd/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,7 +8,9 @@
  
 **Name:** 
  
-:	[EN] Rapyd.net 
+:	[EN] Rapyd 
+:	[RU] Rapyd 
+:	[UK] Rapyd 
  
 **Status:** `active` 
  
@@ -40,7 +42,9 @@ https://static.openfintech.io/vendors/rapyd/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"rapyd",
   "name":{
-    "en":"Rapyd.net"
+    "en":"Rapyd",
+    "ru":"Rapyd",
+    "uk":"Rapyd"
   },
   "status":"active",
   "description":null,

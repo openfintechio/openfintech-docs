@@ -1,5 +1,5 @@
 
-# Transact World 
+# TransactWorld 
 ![transactworld](https://static.openfintech.io/vendors/transactworld/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Transact World 
-:	[RU] Transact World 
-:	[UK] Transact World 
+:	[EN] TransactWorld 
+:	[RU] TransactWorld 
+:	[UK] TransactWorld 
  
 **Status:** `active` 
  
@@ -39,9 +39,9 @@ https://static.openfintech.io/vendors/transactworld/icon.png?w=278&c=v0.59.26#w1
 {
   "code":"transactworld",
   "name":{
-    "en":"Transact World",
-    "ru":"Transact World",
-    "uk":"Transact World"
+    "en":"TransactWorld",
+    "ru":"TransactWorld",
+    "uk":"TransactWorld"
   },
   "status":"active",
   "description":null,

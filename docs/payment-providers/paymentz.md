@@ -1,5 +1,5 @@
 
-# Paymentz 
+# Paio 
 ![paymentz](https://static.openfintech.io/payment_providers/paymentz/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Paymentz 
-:	[RU] Paymentz 
-:	[UK] Paymentz 
+:	[EN] Paio 
+:	[RU] Paio 
+:	[UK] Paio 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"Paymentz",
-    "ru":"Paymentz",
-    "uk":"Paymentz"
+    "en":"Paio",
+    "ru":"Paio",
+    "uk":"Paio"
   }
 }
 ```  

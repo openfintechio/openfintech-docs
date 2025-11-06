@@ -1,5 +1,5 @@
 
-# Apixoom 
+# Nagad 
 ![apixoom](https://static.openfintech.io/vendors/apixoom/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[RU] Apixoom 
-:	[EN] Apixoom 
-:	[UK] Apixoom 
+:	[EN] Nagad 
+:	[RU] Nagad 
+:	[UK] Nagad 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/apixoom/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"apixoom",
   "name":{
-    "ru":"Apixoom",
-    "en":"Apixoom",
-    "uk":"Apixoom"
+    "en":"Nagad",
+    "ru":"Nagad",
+    "uk":"Nagad"
   },
   "status":"active",
   "description":null,

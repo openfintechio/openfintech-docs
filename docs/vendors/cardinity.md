@@ -1,5 +1,5 @@
 
-# Cardinity 
+# Nomupay 
 ![cardinity](https://static.openfintech.io/vendors/cardinity/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Cardinity 
-:	[RU] Cardinity 
-:	[UK] Cardinity 
+:	[EN] Nomupay 
+:	[RU] Nomupay 
+:	[UK] Nomupay 
  
 **Status:** `active` 
  
@@ -53,9 +53,9 @@ https://static.openfintech.io/vendors/cardinity/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"cardinity",
   "name":{
-    "en":"Cardinity",
-    "ru":"Cardinity",
-    "uk":"Cardinity"
+    "en":"Nomupay",
+    "ru":"Nomupay",
+    "uk":"Nomupay"
   },
   "status":"active",
   "description":{

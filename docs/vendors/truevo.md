@@ -1,5 +1,5 @@
 
-# Truevo Payments Ltd 
+# Truevo 
 ![truevo](https://static.openfintech.io/vendors/truevo/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Truevo Payments Ltd 
-:	[RU] Truevo Payments Ltd 
-:	[UK] Truevo Payments Ltd 
+:	[EN] Truevo 
+:	[RU] Truevo 
+:	[UK] Truevo 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/truevo/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"truevo",
   "name":{
-    "en":"Truevo Payments Ltd",
-    "ru":"Truevo Payments Ltd",
-    "uk":"Truevo Payments Ltd"
+    "en":"Truevo",
+    "ru":"Truevo",
+    "uk":"Truevo"
   },
   "status":"active",
   "description":null,

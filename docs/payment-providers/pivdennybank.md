@@ -1,5 +1,5 @@
 
-# Bank Pivdenny 
+# Pivdenny Bank 
 ![pivdennybank](https://static.openfintech.io/payment_providers/pivdennybank/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Bank Pivdenny 
-:	[RU] Банк Південний 
-:	[UK] Банк Південний 
+:	[EN] Pivdenny Bank 
+:	[RU] Pivdenny Bank 
+:	[UK] Pivdenny Bank 
  
  
 **Countries:** 
@@ -74,9 +74,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"Bank Pivdenny",
-    "ru":"\u0411\u0430\u043d\u043a \u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0438\u0439",
-    "uk":"\u0411\u0430\u043d\u043a \u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0438\u0439"
+    "en":"Pivdenny Bank",
+    "ru":"Pivdenny Bank",
+    "uk":"Pivdenny Bank"
   }
 }
 ```  

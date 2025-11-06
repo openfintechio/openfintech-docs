@@ -1,5 +1,5 @@
 
-# CitrinePay 
+# Citrine Merchant Services 
 ![citrinepay](https://static.openfintech.io/payment_providers/citrinepay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] CitrinePay 
-:	[RU] CitrinePay 
-:	[UK] CitrinePay 
+:	[EN] Citrine Merchant Services 
+:	[RU] Citrine Merchant Services 
+:	[UK] Citrine Merchant Services 
  
 
 ## Images 
@@ -70,9 +70,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"CitrinePay",
-    "ru":"CitrinePay",
-    "uk":"CitrinePay"
+    "en":"Citrine Merchant Services",
+    "ru":"Citrine Merchant Services",
+    "uk":"Citrine Merchant Services"
   }
 }
 ```  

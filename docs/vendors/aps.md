@@ -1,5 +1,5 @@
 
-# APS 
+# Advanced Payment Solutions (APS) 
 ![aps](https://static.openfintech.io/vendors/aps/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] APS 
-:	[RU] APS 
-:	[UK] APS 
+:	[EN] Advanced Payment Solutions (APS) 
+:	[RU] Advanced Payment Solutions (APS) 
+:	[UK] Advanced Payment Solutions (APS) 
  
 **Status:** `active` 
  
@@ -39,9 +39,9 @@ https://static.openfintech.io/vendors/aps/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"aps",
   "name":{
-    "en":"APS",
-    "ru":"APS",
-    "uk":"APS"
+    "en":"Advanced Payment Solutions (APS)",
+    "ru":"Advanced Payment Solutions (APS)",
+    "uk":"Advanced Payment Solutions (APS)"
   },
   "status":"active",
   "description":null,

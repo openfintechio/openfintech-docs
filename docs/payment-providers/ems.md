@@ -1,5 +1,5 @@
 
-# EMS 
+# European Merchant Services 
 ![ems](https://static.openfintech.io/payment_providers/ems/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] EMS 
-:	[RU] EMS 
-:	[UK] EMS 
+:	[EN] European Merchant Services 
+:	[RU] European Merchant Services 
+:	[UK] European Merchant Services 
  
 
 ## Images 
@@ -68,9 +68,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"EMS",
-    "ru":"EMS",
-    "uk":"EMS"
+    "en":"European Merchant Services",
+    "ru":"European Merchant Services",
+    "uk":"European Merchant Services"
   }
 }
 ```  

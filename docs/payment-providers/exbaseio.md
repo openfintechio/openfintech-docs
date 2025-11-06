@@ -1,5 +1,5 @@
 
-# EXBASE.IO 
+# EXBASE 
 ![exbaseio](https://static.openfintech.io/payment_providers/exbaseio/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] EXBASE.IO 
-:	[RU] EXBASE.IO 
-:	[UK] EXBASE.IO 
+:	[EN] EXBASE 
+:	[RU] EXBASE 
+:	[UK] EXBASE 
  
 
 ## Images 
@@ -68,9 +68,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"EXBASE.IO",
-    "ru":"EXBASE.IO",
-    "uk":"EXBASE.IO"
+    "en":"EXBASE",
+    "ru":"EXBASE",
+    "uk":"EXBASE"
   }
 }
 ```  

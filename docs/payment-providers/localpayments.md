@@ -1,5 +1,5 @@
 
-# Localpayments 
+# Localpayment 
 ![localpayments](https://static.openfintech.io/payment_providers/localpayments/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Localpayments 
-:	[RU] Localpayments 
-:	[UK] Localpayments 
+:	[EN] Localpayment 
+:	[RU] Localpayment 
+:	[UK] Localpayment 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"Localpayments",
-    "ru":"Localpayments",
-    "uk":"Localpayments"
+    "en":"Localpayment",
+    "ru":"Localpayment",
+    "uk":"Localpayment"
   }
 }
 ```  

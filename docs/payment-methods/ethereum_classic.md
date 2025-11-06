@@ -43,7 +43,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Ethereum 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![amlnode](https://static.openfintech.io/payment_providers/amlnode/icon.png?w=278&c=v0.59.26#w100) |[AML Node](/payment-providers/amlnode/)|`amlnode`| 
+|![amlnode](https://static.openfintech.io/payment_providers/amlnode/icon.png?w=278&c=v0.59.26#w100) |[AMLNode](/payment-providers/amlnode/)|`amlnode`| 
  
 
 ## JSON Object 

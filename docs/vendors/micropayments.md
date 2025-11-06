@@ -1,5 +1,5 @@
 
-# MicroPayments 
+# Micropayment AG 
 ![micropayments](https://static.openfintech.io/vendors/micropayments/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] MicroPayments 
-:	[RU] MicroPayments 
-:	[UK] MicroPayments 
+:	[EN] Micropayment AG 
+:	[RU] Micropayment AG 
+:	[UK] Micropayment AG 
  
 **Status:** `active` 
  
@@ -39,9 +39,9 @@ https://static.openfintech.io/vendors/micropayments/icon.svg?w=278&c=v0.59.26#w1
 {
   "code":"micropayments",
   "name":{
-    "en":"MicroPayments",
-    "ru":"MicroPayments",
-    "uk":"MicroPayments"
+    "en":"Micropayment AG",
+    "ru":"Micropayment AG",
+    "uk":"Micropayment AG"
   },
   "status":"active",
   "description":null,

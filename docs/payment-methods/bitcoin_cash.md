@@ -59,7 +59,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bitcoin C
 |![coingate](https://static.openfintech.io/payment_providers/coingate/icon.svg?w=278&c=v0.59.26#w100) |[CoinGate](/payment-providers/coingate/)|`coingate`| 
 |![anymoney](https://static.openfintech.io/payment_providers/anymoney/icon.svg?w=278&c=v0.59.26#w100) |[Any.Money](/payment-providers/anymoney/)|`anymoney`| 
 |![coinspaid](https://static.openfintech.io/payment_providers/coinspaid/icon.png?w=278&c=v0.59.26#w100) |[CoinsPaid](/payment-providers/coinspaid/)|`coinspaid`| 
-|![amlnode](https://static.openfintech.io/payment_providers/amlnode/icon.png?w=278&c=v0.59.26#w100) |[AML Node](/payment-providers/amlnode/)|`amlnode`| 
+|![amlnode](https://static.openfintech.io/payment_providers/amlnode/icon.png?w=278&c=v0.59.26#w100) |[AMLNode](/payment-providers/amlnode/)|`amlnode`| 
 |![bitpace](https://static.openfintech.io/payment_providers/bitpace/icon.png?w=278&c=v0.59.26#w100) |[Bitpace](/payment-providers/bitpace/)|`bitpace`| 
 |![coinsflow](https://static.openfintech.io/payment_providers/coinsflow/icon.png?w=278&c=v0.59.26#w100) |[Coinsflow](/payment-providers/coinsflow/)|`coinsflow`| 
  

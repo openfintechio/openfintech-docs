@@ -1,5 +1,5 @@
 
-# Gate.Express 
+# Gate Express 
 ![gateexpress](https://static.openfintech.io/payment_providers/gateexpress/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Gate.Express 
-:	[RU] Gate.Express 
-:	[UK] Gate.Express 
+:	[EN] Gate Express 
+:	[RU] Gate Express 
+:	[UK] Gate Express 
  
 **Description:** 
  
@@ -78,9 +78,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"Gate.Express",
-    "ru":"Gate.Express",
-    "uk":"Gate.Express"
+    "en":"Gate Express",
+    "ru":"Gate Express",
+    "uk":"Gate Express"
   }
 }
 ```  

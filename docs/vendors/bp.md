@@ -1,5 +1,5 @@
 
-# BP 
+# Boxplat 
 ![bp](https://static.openfintech.io/vendors/bp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] BP 
-:	[RU] BP 
-:	[UK] BP 
+:	[EN] Boxplat 
+:	[RU] Boxplat 
+:	[UK] Boxplat 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/bp/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"bp",
   "name":{
-    "en":"BP",
-    "ru":"BP",
-    "uk":"BP"
+    "en":"Boxplat",
+    "ru":"Boxplat",
+    "uk":"Boxplat"
   },
   "status":"active",
   "description":null,

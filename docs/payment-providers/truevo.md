@@ -1,5 +1,5 @@
 
-# Truevo Payments Ltd 
+# Truevo 
 ![truevo](https://static.openfintech.io/payment_providers/truevo/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Truevo Payments Ltd 
-:	[RU] Truevo Payments Ltd 
-:	[UK] Truevo Payments Ltd 
+:	[EN] Truevo 
+:	[RU] Truevo 
+:	[UK] Truevo 
  
 **Description:** 
  
@@ -67,9 +67,9 @@ The list of supported [Payment Methods](/payment-methods/)
     "about_payments_code":"truevo"
   },
   "name":{
-    "en":"Truevo Payments Ltd",
-    "ru":"Truevo Payments Ltd",
-    "uk":"Truevo Payments Ltd"
+    "en":"Truevo",
+    "ru":"Truevo",
+    "uk":"Truevo"
   }
 }
 ```  

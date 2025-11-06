@@ -1,5 +1,5 @@
 
-# Gate.Express 
+# Gate Express 
 ![gateexpress](https://static.openfintech.io/vendors/gateexpress/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Gate.Express 
-:	[RU] Gate.Express 
-:	[UK] Gate.Express 
+:	[EN] Gate Express 
+:	[RU] Gate Express 
+:	[UK] Gate Express 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/gateexpress/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"gateexpress",
   "name":{
-    "en":"Gate.Express",
-    "ru":"Gate.Express",
-    "uk":"Gate.Express"
+    "en":"Gate Express",
+    "ru":"Gate Express",
+    "uk":"Gate Express"
   },
   "status":"active",
   "description":null,

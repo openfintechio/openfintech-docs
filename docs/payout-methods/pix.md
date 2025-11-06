@@ -49,7 +49,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PIX_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
-|![unityfinance](https://static.openfintech.io/payment_providers/unityfinance/icon.svg?w=278&c=v0.59.26#w100) |[Unity Finance](/payment-providers/unityfinance/)|`unityfinance`| 
+|![unityfinance](https://static.openfintech.io/payment_providers/unityfinance/icon.svg?w=278&c=v0.59.26#w100) |[UnityFinance](/payment-providers/unityfinance/)|`unityfinance`| 
 |![skrill](https://static.openfintech.io/payment_providers/skrill/icon.svg?w=278&c=v0.59.26#w100) |[Skrill](/payment-providers/skrill/)|`skrill`| 
 |![spoynt](https://static.openfintech.io/payment_providers/spoynt/icon.svg?w=278&c=v0.59.26#w100) |[Spoynt](/payment-providers/spoynt/)|`spoynt`| 
 |![billline](https://static.openfintech.io/payment_providers/billline/icon.svg?w=278&c=v0.59.26#w100) |[bill_line](/payment-providers/billline/)|`billline`| 
@@ -62,7 +62,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PIX_
 |![paysecure](https://static.openfintech.io/payment_providers/paysecure/icon.png?w=278&c=v0.59.26#w100) |[Paysecure](/payment-providers/paysecure/)|`paysecure`| 
 |![pay4fungo](https://static.openfintech.io/payment_providers/pay4fungo/icon.png?w=278&c=v0.59.26#w100) |[Pay4funGo](/payment-providers/pay4fungo/)|`pay4fungo`| 
 |![anspacepay](https://static.openfintech.io/payment_providers/anspacepay/icon.png?w=278&c=v0.59.26#w100) |[AnSpacePay](/payment-providers/anspacepay/)|`anspacepay`| 
-|![sqalapay](https://static.openfintech.io/payment_providers/sqalapay/icon.png?w=278&c=v0.59.26#w100) |[Sqalapay](/payment-providers/sqalapay/)|`sqalapay`| 
+|![sqalapay](https://static.openfintech.io/payment_providers/sqalapay/icon.png?w=278&c=v0.59.26#w100) |[Sqala](/payment-providers/sqalapay/)|`sqalapay`| 
 |![inswitch](https://static.openfintech.io/payment_providers/inswitch/icon.png?w=278&c=v0.59.26#w100) |[Inswitch](/payment-providers/inswitch/)|`inswitch`| 
 |![toppay](https://static.openfintech.io/payment_providers/toppay/icon.svg?w=278&c=v0.59.26#w100) |[TopPay](/payment-providers/toppay/)|`toppay`| 
 |![starkbank](https://static.openfintech.io/payment_providers/starkbank/icon.svg?w=278&c=v0.59.26#w100) |[STARK BANK](/payment-providers/starkbank/)|`starkbank`| 

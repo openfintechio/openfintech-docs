@@ -1,5 +1,5 @@
 
-# PaytoraPayment 
+# Paytora 
 ![paytorapayment](https://static.openfintech.io/vendors/paytorapayment/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] PaytoraPayment 
-:	[RU] PaytoraPayment 
-:	[UK] PaytoraPayment 
+:	[EN] Paytora 
+:	[RU] Paytora 
+:	[UK] Paytora 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/paytorapayment/icon.png?w=278&c=v0.59.26#w
 {
   "code":"paytorapayment",
   "name":{
-    "en":"PaytoraPayment",
-    "ru":"PaytoraPayment",
-    "uk":"PaytoraPayment"
+    "en":"Paytora",
+    "ru":"Paytora",
+    "uk":"Paytora"
   },
   "status":"active",
   "description":null,

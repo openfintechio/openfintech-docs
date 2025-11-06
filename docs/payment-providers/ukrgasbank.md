@@ -1,5 +1,5 @@
 
-# UkrGasBank 
+# Ukrgasbank 
 ![ukrgasbank](https://static.openfintech.io/payment_providers/ukrgasbank/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[UK] Укргазбанк 
-:	[EN] UkrGasBank 
-:	[RU] Укргазбанк 
+:	[EN] Ukrgasbank 
+:	[RU] Ukrgasbank 
+:	[UK] Ukrgasbank 
  
 
 ## Images 
@@ -70,9 +70,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "uk":"\u0423\u043a\u0440\u0433\u0430\u0437\u0431\u0430\u043d\u043a",
-    "en":"UkrGasBank",
-    "ru":"\u0423\u043a\u0440\u0433\u0430\u0437\u0431\u0430\u043d\u043a"
+    "en":"Ukrgasbank",
+    "ru":"Ukrgasbank",
+    "uk":"Ukrgasbank"
   }
 }
 ```  

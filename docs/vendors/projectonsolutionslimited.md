@@ -1,5 +1,5 @@
 
-# Projecton Solutions Limited 
+# ProjectOn 
 ![projectonsolutionslimited](https://static.openfintech.io/vendors/projectonsolutionslimited/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Projecton Solutions Limited 
-:	[RU] Projecton Solutions Limited 
-:	[UK] Projecton Solutions Limited 
+:	[EN] ProjectOn 
+:	[RU] ProjectOn 
+:	[UK] ProjectOn 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/projectonsolutionslimited/icon.svg?w=278&c
 {
   "code":"projectonsolutionslimited",
   "name":{
-    "en":"Projecton Solutions Limited",
-    "ru":"Projecton Solutions Limited",
-    "uk":"Projecton Solutions Limited"
+    "en":"ProjectOn",
+    "ru":"ProjectOn",
+    "uk":"ProjectOn"
   },
   "status":"active",
   "description":null,

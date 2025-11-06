@@ -1,5 +1,5 @@
 
-# SaltEdge 
+# Salt Edge 
 ![saltedge](https://static.openfintech.io/payment_providers/saltedge/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] SaltEdge 
-:	[RU] SaltEdge 
-:	[UK] SaltEdge 
+:	[EN] Salt Edge 
+:	[RU] Salt Edge 
+:	[UK] Salt Edge 
  
 
 ## Images 
@@ -67,9 +67,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"SaltEdge",
-    "ru":"SaltEdge",
-    "uk":"SaltEdge"
+    "en":"Salt Edge",
+    "ru":"Salt Edge",
+    "uk":"Salt Edge"
   }
 }
 ```  

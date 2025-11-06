@@ -1,5 +1,5 @@
 
-# AddonPayments 
+# Addon Payments 
 ![addonpayments](https://static.openfintech.io/vendors/addonpayments/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] AddonPayments 
-:	[RU] AddonPayments 
-:	[UK] AddonPayments 
+:	[EN] Addon Payments 
+:	[RU] Addon Payments 
+:	[UK] Addon Payments 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/addonpayments/icon.svg?w=278&c=v0.59.26#w1
 {
   "code":"addonpayments",
   "name":{
-    "en":"AddonPayments",
-    "ru":"AddonPayments",
-    "uk":"AddonPayments"
+    "en":"Addon Payments",
+    "ru":"Addon Payments",
+    "uk":"Addon Payments"
   },
   "status":"active",
   "description":null,

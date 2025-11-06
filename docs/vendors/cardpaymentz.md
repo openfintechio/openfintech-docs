@@ -1,5 +1,5 @@
 
-# CardPaymentz 
+# Card Paymentz 
 ![cardpaymentz](https://static.openfintech.io/vendors/cardpaymentz/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] CardPaymentz 
-:	[RU] CardPaymentz 
-:	[UK] CardPaymentz 
+:	[EN] Card Paymentz 
+:	[RU] Card Paymentz 
+:	[UK] Card Paymentz 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/cardpaymentz/icon.png?w=278&c=v0.59.26#w10
 {
   "code":"cardpaymentz",
   "name":{
-    "en":"CardPaymentz",
-    "ru":"CardPaymentz",
-    "uk":"CardPaymentz"
+    "en":"Card Paymentz",
+    "ru":"Card Paymentz",
+    "uk":"Card Paymentz"
   },
   "status":"active",
   "description":null,

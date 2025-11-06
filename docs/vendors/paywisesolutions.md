@@ -1,5 +1,5 @@
 
-# PaywiseSolutions 
+# Paywise Solutions 
 ![paywisesolutions](https://static.openfintech.io/vendors/paywisesolutions/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] PaywiseSolutions 
-:	[RU] PaywiseSolutions 
-:	[UK] PaywiseSolutions 
+:	[EN] Paywise Solutions 
+:	[RU] Paywise Solutions 
+:	[UK] Paywise Solutions 
  
 **Status:** `active` 
  
@@ -39,9 +39,9 @@ https://static.openfintech.io/vendors/paywisesolutions/icon.png?w=278&c=v0.59.26
 {
   "code":"paywisesolutions",
   "name":{
-    "en":"PaywiseSolutions",
-    "ru":"PaywiseSolutions",
-    "uk":"PaywiseSolutions"
+    "en":"Paywise Solutions",
+    "ru":"Paywise Solutions",
+    "uk":"Paywise Solutions"
   },
   "status":"active",
   "description":null,

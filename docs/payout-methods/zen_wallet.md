@@ -48,7 +48,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Zen walle
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![zenwallet](https://static.openfintech.io/payment_providers/zenwallet/icon.svg?w=278&c=v0.59.26#w100) |[Zen Wallet](/payment-providers/zenwallet/)|`zenwallet`| 
+|![zenwallet](https://static.openfintech.io/payment_providers/zenwallet/icon.svg?w=278&c=v0.59.26#w100) |[ZEN.COM](/payment-providers/zenwallet/)|`zenwallet`| 
  
 
 ## JSON Object 

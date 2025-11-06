@@ -47,7 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment R
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![paymentrush](https://static.openfintech.io/payment_providers/paymentrush/icon.png?w=278&c=v0.59.26#w100) |[Payment Rush](/payment-providers/paymentrush/)|`paymentrush`| 
+|![paymentrush](https://static.openfintech.io/payment_providers/paymentrush/icon.png?w=278&c=v0.59.26#w100) |[PaymentRush](/payment-providers/paymentrush/)|`paymentrush`| 
  
 
 ## JSON Object 

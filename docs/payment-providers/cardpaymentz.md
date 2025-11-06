@@ -1,5 +1,5 @@
 
-# CardPaymentz 
+# Card Paymentz 
 ![cardpaymentz](https://static.openfintech.io/payment_providers/cardpaymentz/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] CardPaymentz 
-:	[RU] CardPaymentz 
-:	[UK] CardPaymentz 
+:	[EN] Card Paymentz 
+:	[RU] Card Paymentz 
+:	[UK] Card Paymentz 
  
 
 ## Images 
@@ -68,9 +68,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"CardPaymentz",
-    "ru":"CardPaymentz",
-    "uk":"CardPaymentz"
+    "en":"Card Paymentz",
+    "ru":"Card Paymentz",
+    "uk":"Card Paymentz"
   }
 }
 ```  

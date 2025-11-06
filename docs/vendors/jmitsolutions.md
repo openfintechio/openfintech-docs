@@ -1,5 +1,5 @@
 
-# JMITsolutions 
+# JM IT Solutions 
 ![jmitsolutions](https://static.openfintech.io/vendors/jmitsolutions/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] JMITsolutions 
-:	[RU] JMITsolutions 
-:	[UK] JMITsolutions 
+:	[EN] JM IT Solutions 
+:	[RU] JM IT Solutions 
+:	[UK] JM IT Solutions 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/jmitsolutions/icon.svg?w=278&c=v0.59.26#w1
 {
   "code":"jmitsolutions",
   "name":{
-    "en":"JMITsolutions",
-    "ru":"JMITsolutions",
-    "uk":"JMITsolutions"
+    "en":"JM IT Solutions",
+    "ru":"JM IT Solutions",
+    "uk":"JM IT Solutions"
   },
   "status":"active",
   "description":null,

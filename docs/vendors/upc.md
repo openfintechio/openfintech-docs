@@ -1,5 +1,5 @@
 
-# UPC 
+# Ukrainian Processing Center (UPC) 
 ![upc](https://static.openfintech.io/vendors/upc/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] UPC 
-:	[RU] UPC 
-:	[UK] UPC 
+:	[EN] Ukrainian Processing Center (UPC) 
+:	[RU] Ukrainian Processing Center (UPC) 
+:	[UK] Ukrainian Processing Center (UPC) 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/upc/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"upc",
   "name":{
-    "en":"UPC",
-    "ru":"UPC",
-    "uk":"UPC"
+    "en":"Ukrainian Processing Center (UPC)",
+    "ru":"Ukrainian Processing Center (UPC)",
+    "uk":"Ukrainian Processing Center (UPC)"
   },
   "status":"active",
   "description":null,

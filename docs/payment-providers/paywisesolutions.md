@@ -1,5 +1,5 @@
 
-# PaywiseSolutions 
+# Paywise Solutions 
 ![paywisesolutions](https://static.openfintech.io/payment_providers/paywisesolutions/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] PaywiseSolutions 
-:	[RU] PaywiseSolutions 
-:	[UK] PaywiseSolutions 
+:	[EN] Paywise Solutions 
+:	[RU] Paywise Solutions 
+:	[UK] Paywise Solutions 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"PaywiseSolutions",
-    "ru":"PaywiseSolutions",
-    "uk":"PaywiseSolutions"
+    "en":"Paywise Solutions",
+    "ru":"Paywise Solutions",
+    "uk":"Paywise Solutions"
   }
 }
 ```  

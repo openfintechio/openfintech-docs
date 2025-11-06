@@ -1,5 +1,5 @@
 
-# Blue World 
+# Linx Tech Solutions 
 ![blueworld](https://static.openfintech.io/vendors/blueworld/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Blue World 
-:	[RU] Blue World 
-:	[UK] Blue World 
+:	[EN] Linx Tech Solutions 
+:	[RU] Linx Tech Solutions 
+:	[UK] Linx Tech Solutions 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/blueworld/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"blueworld",
   "name":{
-    "en":"Blue World",
-    "ru":"Blue World",
-    "uk":"Blue World"
+    "en":"Linx Tech Solutions",
+    "ru":"Linx Tech Solutions",
+    "uk":"Linx Tech Solutions"
   },
   "status":"active",
   "description":null,

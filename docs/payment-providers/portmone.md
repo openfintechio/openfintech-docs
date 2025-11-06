@@ -1,5 +1,5 @@
 
-# Portmone.com 
+# Portmone 
 ![portmone](https://static.openfintech.io/payment_providers/portmone/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,7 +10,9 @@
  
 **Name:** 
  
-:	[EN] Portmone.com 
+:	[EN] Portmone 
+:	[RU] Portmone 
+:	[UK] Portmone 
  
  
 **Countries:** 
@@ -65,7 +67,9 @@ The list of supported [Payment Methods](/payment-methods/)
     "about_payments_code":"portmone"
   },
   "name":{
-    "en":"Portmone.com"
+    "en":"Portmone",
+    "ru":"Portmone",
+    "uk":"Portmone"
   }
 }
 ```  

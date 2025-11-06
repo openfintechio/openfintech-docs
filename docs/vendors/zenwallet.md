@@ -1,5 +1,5 @@
 
-# Zen Wallet 
+# ZEN.COM 
 ![zenwallet](https://static.openfintech.io/vendors/zenwallet/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Zen Wallet 
-:	[RU] Zen Wallet 
-:	[UK] Zen Wallet 
+:	[EN] ZEN.COM 
+:	[RU] ZEN.COM 
+:	[UK] ZEN.COM 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/zenwallet/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"zenwallet",
   "name":{
-    "en":"Zen Wallet",
-    "ru":"Zen Wallet",
-    "uk":"Zen Wallet"
+    "en":"ZEN.COM",
+    "ru":"ZEN.COM",
+    "uk":"ZEN.COM"
   },
   "status":"active",
   "description":null,

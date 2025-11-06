@@ -1,5 +1,5 @@
 
-# Pay.CC 
+# Pay CC 
 ![paycc](https://static.openfintech.io/vendors/paycc/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Pay.CC 
-:	[RU] Pay.CC 
-:	[UK] Pay.CC 
+:	[EN] Pay CC 
+:	[RU] Pay CC 
+:	[UK] Pay CC 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/paycc/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"paycc",
   "name":{
-    "en":"Pay.CC",
-    "ru":"Pay.CC",
-    "uk":"Pay.CC"
+    "en":"Pay CC",
+    "ru":"Pay CC",
+    "uk":"Pay CC"
   },
   "status":"active",
   "description":null,

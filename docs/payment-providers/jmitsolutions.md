@@ -1,5 +1,5 @@
 
-# JMITsolutions 
+# JM IT Solutions 
 ![jmitsolutions](https://static.openfintech.io/payment_providers/jmitsolutions/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] JMITsolutions 
-:	[RU] JMITsolutions 
-:	[UK] JMITsolutions 
+:	[EN] JM IT Solutions 
+:	[RU] JM IT Solutions 
+:	[UK] JM IT Solutions 
  
 
 ## Images 
@@ -61,9 +61,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"JMITsolutions",
-    "ru":"JMITsolutions",
-    "uk":"JMITsolutions"
+    "en":"JM IT Solutions",
+    "ru":"JM IT Solutions",
+    "uk":"JM IT Solutions"
   }
 }
 ```  

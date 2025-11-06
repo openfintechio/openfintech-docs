@@ -1,5 +1,5 @@
 
-# AdvCash 
+# Volet.com 
 ![advcash](https://static.openfintech.io/vendors/advcash/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,7 +8,9 @@
  
 **Name:** 
  
-:	[EN] AdvCash 
+:	[EN] Volet.com 
+:	[RU] Volet.com 
+:	[UK] Volet.com 
  
 **Status:** `active` 
  
@@ -40,7 +42,9 @@ https://static.openfintech.io/vendors/advcash/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"advcash",
   "name":{
-    "en":"AdvCash"
+    "en":"Volet.com",
+    "ru":"Volet.com",
+    "uk":"Volet.com"
   },
   "status":"active",
   "description":null,

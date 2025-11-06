@@ -1,5 +1,5 @@
 
-# AML Node 
+# AMLNode 
 ![amlnode](https://static.openfintech.io/payment_providers/amlnode/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] AML Node 
-:	[RU] AML Node 
-:	[UK] AML node 
+:	[EN] AMLNode 
+:	[RU] AMLNode 
+:	[UK] AMLNode 
  
 **Description:** 
  
@@ -75,9 +75,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"AML Node",
-    "ru":"AML Node",
-    "uk":"AML node"
+    "en":"AMLNode",
+    "ru":"AMLNode",
+    "uk":"AMLNode"
   }
 }
 ```  

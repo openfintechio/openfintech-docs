@@ -1,5 +1,5 @@
 
-# First Atlantic Commerce 
+# Powertranz 
 ![firstatlanticcommerce](https://static.openfintech.io/payment_providers/firstatlanticcommerce/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] First Atlantic Commerce 
-:	[RU] First Atlantic Commerce 
-:	[UK] First Atlantic Commerce 
+:	[EN] Powertranz 
+:	[RU] Powertranz 
+:	[UK] Powertranz 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"First Atlantic Commerce",
-    "ru":"First Atlantic Commerce",
-    "uk":"First Atlantic Commerce"
+    "en":"Powertranz",
+    "ru":"Powertranz",
+    "uk":"Powertranz"
   }
 }
 ```  

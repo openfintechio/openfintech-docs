@@ -1,5 +1,5 @@
 
-# TrustPay 
+# finby 
 ![trustpay](https://static.openfintech.io/payment_providers/trustpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] TrustPay 
-:	[RU] TrustPay 
-:	[UK] TrustPay 
+:	[EN] finby 
+:	[RU] finby 
+:	[UK] finby 
  
 **Description:** 
  
@@ -65,9 +65,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"TrustPay",
-    "ru":"TrustPay",
-    "uk":"TrustPay"
+    "en":"finby",
+    "ru":"finby",
+    "uk":"finby"
   }
 }
 ```  

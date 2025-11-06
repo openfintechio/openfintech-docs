@@ -1,5 +1,5 @@
 
-# DNSPAY 
+# DNS PAY 
 ![dnspay](https://static.openfintech.io/payment_providers/dnspay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] DNSPAY 
-:	[RU] DNSPAY 
-:	[UK] DNSPAY 
+:	[EN] DNS PAY 
+:	[RU] DNS PAY 
+:	[UK] DNS PAY 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"DNSPAY",
-    "ru":"DNSPAY",
-    "uk":"DNSPAY"
+    "en":"DNS PAY",
+    "ru":"DNS PAY",
+    "uk":"DNS PAY"
   }
 }
 ```  

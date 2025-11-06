@@ -1,5 +1,5 @@
 
-# Constantpos 
+# Constant Payments 
 ![constantpos](https://static.openfintech.io/vendors/constantpos/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Constantpos 
-:	[RU] Constantpos 
-:	[UK] Constantpos 
+:	[EN] Constant Payments 
+:	[RU] Constant Payments 
+:	[UK] Constant Payments 
  
 **Status:** `active` 
  
@@ -39,9 +39,9 @@ https://static.openfintech.io/vendors/constantpos/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"constantpos",
   "name":{
-    "en":"Constantpos",
-    "ru":"Constantpos",
-    "uk":"Constantpos"
+    "en":"Constant Payments",
+    "ru":"Constant Payments",
+    "uk":"Constant Payments"
   },
   "status":"active",
   "description":null,

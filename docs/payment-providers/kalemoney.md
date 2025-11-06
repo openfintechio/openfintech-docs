@@ -1,5 +1,5 @@
 
-# Kale.Money 
+# Kale 
 ![kalemoney](https://static.openfintech.io/payment_providers/kalemoney/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Kale.Money 
-:	[RU] Kale.Money 
-:	[UK] Kale.Money 
+:	[EN] Kale 
+:	[RU] Kale 
+:	[UK] Kale 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"Kale.Money",
-    "ru":"Kale.Money",
-    "uk":"Kale.Money"
+    "en":"Kale",
+    "ru":"Kale",
+    "uk":"Kale"
   }
 }
 ```  

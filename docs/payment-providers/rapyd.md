@@ -1,5 +1,5 @@
 
-# Rapyd.net 
+# Rapyd 
 ![rapyd](https://static.openfintech.io/payment_providers/rapyd/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,7 +10,9 @@
  
 **Name:** 
  
-:	[EN] Rapyd.net 
+:	[EN] Rapyd 
+:	[RU] Rapyd 
+:	[UK] Rapyd 
  
 
 ## Images 
@@ -66,7 +68,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"Rapyd.net"
+    "en":"Rapyd",
+    "ru":"Rapyd",
+    "uk":"Rapyd"
   }
 }
 ```  

@@ -1,5 +1,5 @@
 
-# PaytoraPayment 
+# Paytora 
 ![paytorapayment](https://static.openfintech.io/payment_providers/paytorapayment/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] PaytoraPayment 
-:	[RU] PaytoraPayment 
-:	[UK] PaytoraPayment 
+:	[EN] Paytora 
+:	[RU] Paytora 
+:	[UK] Paytora 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"PaytoraPayment",
-    "ru":"PaytoraPayment",
-    "uk":"PaytoraPayment"
+    "en":"Paytora",
+    "ru":"Paytora",
+    "uk":"Paytora"
   }
 }
 ```  

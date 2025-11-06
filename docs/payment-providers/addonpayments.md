@@ -1,5 +1,5 @@
 
-# AddonPayments 
+# Addon Payments 
 ![addonpayments](https://static.openfintech.io/payment_providers/addonpayments/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] AddonPayments 
-:	[RU] AddonPayments 
-:	[UK] AddonPayments 
+:	[EN] Addon Payments 
+:	[RU] Addon Payments 
+:	[UK] Addon Payments 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"AddonPayments",
-    "ru":"AddonPayments",
-    "uk":"AddonPayments"
+    "en":"Addon Payments",
+    "ru":"Addon Payments",
+    "uk":"Addon Payments"
   }
 }
 ```  

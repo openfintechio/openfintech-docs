@@ -1,5 +1,5 @@
 
-# PaySage.io 
+# COLIBRIX 
 ![paysage](https://static.openfintech.io/payment_providers/paysage/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] PaySage.io 
-:	[RU] PaySage.io 
-:	[UK] PaySage.io 
+:	[EN] COLIBRIX 
+:	[RU] COLIBRIX 
+:	[UK] COLIBRIX 
  
 **Description:** 
  
@@ -90,9 +90,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"PaySage.io",
-    "ru":"PaySage.io",
-    "uk":"PaySage.io"
+    "en":"COLIBRIX",
+    "ru":"COLIBRIX",
+    "uk":"COLIBRIX"
   }
 }
 ```  
