@@ -69,6 +69,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![multibanco](https://static.openfintech.io/payment_methods/multibanco/icon.png?w=278&c=v0.59.26#w100) |[multibanco](/payment-methods/multibanco/)|`multibanco`| 
 |![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill](/payment-methods/skrill/)|`skrill`| 
 |![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller](/payment-methods/neteller/)|`neteller`| 
+|![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking](/payment-methods/openbanking/)|`openbanking`| 
  
 
 ## Payout Methods 
@@ -125,7 +126,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "mb_way",
     "multibanco",
     "skrill",
-    "neteller"
+    "neteller",
+    "openbanking"
   ],
   "payout_method":[
     "payment_card",
