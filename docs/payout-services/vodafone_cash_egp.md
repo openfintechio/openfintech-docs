@@ -25,6 +25,7 @@
 |`account_number`|✔|`string`|`/^.{1,50}$/`| 
 |`beneficiary_first_name`|✗|`string`|`/^[A-Z\-\ a-z]{2,100}$/`| 
 |`beneficiary_last_name`|✗|`string`|`/^[A-Z\-\ a-z]{2,100}$/`| 
+|`wallet_id`|✗|`string`|`/^\+\d{10,14}$/`| 
  
 
 ### Details 
@@ -82,6 +83,24 @@
 	: [EN] Enter beneficiary last name 
 	: [RU] Введите фамилию получателя 
 	: [UK] Введіть прізвище отримувача 
+ 
+4. **`wallet_id`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^\+\d{10,14}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Wallet number 
+	: [RU] Номер кошелька 
+	: [UK] Номер гаманця 
+ 
+	Hint:  
+	: [EN] Enter wallet number 
+	: [RU] Введите номер кошелька 
+	: [UK] Введіть номер гаманця 
  
 
 ## JSON Object 
@@ -144,6 +163,23 @@
       "required":false,
       "position":3,
       "example":"Doe"
+    },
+    {
+      "key":"wallet_id",
+      "type":"string",
+      "label":{
+        "en":"Wallet number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u043a\u043e\u0448\u0435\u043b\u044c\u043a\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0433\u0430\u043c\u0430\u043d\u0446\u044f"
+      },
+      "hint":{
+        "en":"Enter wallet number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u043a\u043e\u0448\u0435\u043b\u044c\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0433\u0430\u043c\u0430\u043d\u0446\u044f"
+      },
+      "regexp":"\/^\\+\\d{10,14}$\/",
+      "required":false,
+      "position":4
     }
   ],
   "amount_min":0.01,
