@@ -49,6 +49,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Openbanki
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![unityfinance](https://static.openfintech.io/payment_providers/unityfinance/icon.svg?w=278&c=v0.59.26#w100) |[Unity Finance](/payment-providers/unityfinance/)|`unityfinance`| 
+|![paysage](https://static.openfintech.io/payment_providers/paysage/icon.png?w=278&c=v0.59.26#w100) |[PaySage.io](/payment-providers/paysage/)|`paysage`| 
 |![gumballpay](https://static.openfintech.io/payment_providers/gumballpay/icon.png?w=278&c=v0.59.26#w100) |[GumballPay](/payment-providers/gumballpay/)|`gumballpay`| 
 |![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
 |![todapay](https://static.openfintech.io/payment_providers/todapay/icon.png?w=278&c=v0.59.26#w100) |[TODA Pay](/payment-providers/todapay/)|`todapay`| 

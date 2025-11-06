@@ -51,6 +51,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![mb_way](https://static.openfintech.io/payment_methods/mb_way/icon.svg?w=278&c=v0.59.26#w100) |[mb_way](/payment-methods/mb_way/)|`mb_way`| 
 |![multibanco](https://static.openfintech.io/payment_methods/multibanco/icon.png?w=278&c=v0.59.26#w100) |[multibanco](/payment-methods/multibanco/)|`multibanco`| 
 |![paysage_crypto](https://static.openfintech.io/payment_methods/paysage_crypto/icon.svg?w=278&c=v0.59.26#w100) |[paysage_crypto](/payment-methods/paysage_crypto/)|`paysage_crypto`| 
+|![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking](/payment-methods/openbanking/)|`openbanking`| 
  
 
 ## Payout Methods 
@@ -81,7 +82,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "googlepay",
     "mb_way",
     "multibanco",
-    "paysage_crypto"
+    "paysage_crypto",
+    "openbanking"
   ],
   "payout_method":[
     "payment_card"

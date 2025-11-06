@@ -547,6 +547,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![concryt](https://static.openfintech.io/payment_providers/concryt/icon.svg?w=278&c=v0.59.26#w100) |[Concryt](/payment-providers/concryt/)|`concryt`| 
 |![paymaxis](https://static.openfintech.io/payment_providers/paymaxis/icon.png?w=278&c=v0.59.26#w100) |[PayMaxis](/payment-providers/paymaxis/)|`paymaxis`| 
 |![madfin](https://static.openfintech.io/payment_providers/madfin/icon.png?w=278&c=v0.59.26#w100) |[MADFIN](/payment-providers/madfin/)|`madfin`| 
+|![uapayio](https://static.openfintech.io/payment_providers/uapayio/icon.png?w=278&c=v0.59.26#w100) |[UA Pay](/payment-providers/uapayio/)|`uapayio`| 
 |![inswitch](https://static.openfintech.io/payment_providers/inswitch/icon.png?w=278&c=v0.59.26#w100) |[Inswitch](/payment-providers/inswitch/)|`inswitch`| 
 |![carespay](https://static.openfintech.io/payment_providers/carespay/icon.png?w=278&c=v0.59.26#w100) |[CaresPAY](/payment-providers/carespay/)|`carespay`| 
 |![pylon](https://static.openfintech.io/payment_providers/pylon/icon.svg?w=278&c=v0.59.26#w100) |[Pylon](/payment-providers/pylon/)|`pylon`| 

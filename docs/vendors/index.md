@@ -2237,6 +2237,7 @@
 |![tzb](https://static.openfintech.io/vendors/tzb/logo.svg?w=600&c=v0.59.26#w200) |[**Bank of Tanzania**](tzb/)|`tzb`| 
 || **U** ||
 |![uapay](https://static.openfintech.io/vendors/uapay/logo.svg?w=600&c=v0.59.26#w200) |[**UAPay**](uapay/)|`uapay`| 
+|![uapayio](https://static.openfintech.io/vendors/uapayio/logo.png?w=600&c=v0.59.26#w200) |[**UA Pay**](uapayio/)|`uapayio`| 
 |![uatp](https://static.openfintech.io/vendors/uatp/logo.png?w=600&c=v0.59.26#w200) |[**UATP**](uatp/)|`uatp`| 
 |![ubankconnect](https://static.openfintech.io/vendors/ubankconnect/logo.svg?w=600&c=v0.59.26#w200) |[**UBank Connect**](ubankconnect/)|`ubankconnect`| 
 |![udppz_ukrposhta](https://static.openfintech.io/vendors/udppz_ukrposhta/logo.svg?w=600&c=v0.59.26#w200) |[**Українське державне підприємство поштового зв'язку 'Укрпошта'**](udppz_ukrposhta/)|`udppz_ukrposhta`| 

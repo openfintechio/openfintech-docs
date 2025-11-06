@@ -1049,6 +1049,7 @@
 |![txtnation](https://static.openfintech.io/payment_providers/txtnation/logo.png?w=600&c=v0.59.26#w100) |[**txtNation**](txtnation/)|`txtnation`| 
 || **U** ||
 |![uapay](https://static.openfintech.io/payment_providers/uapay/logo.svg?w=600&c=v0.59.26#w100) |[**UApay**](uapay/)|`uapay`| 
+|![uapayio](https://static.openfintech.io/payment_providers/uapayio/logo.png?w=600&c=v0.59.26#w100) |[**UA Pay**](uapayio/)|`uapayio`| 
 |![ubankconnect](https://static.openfintech.io/payment_providers/ubankconnect/logo.svg?w=600&c=v0.59.26#w100) |[**UBank Connect**](ubankconnect/)|`ubankconnect`| 
 |![ugspaycom](https://static.openfintech.io/payment_providers/ugspaycom/logo.png?w=600&c=v0.59.26#w100) |[**UGSPay**](ugspaycom/)|`ugspaycom`| 
 |![ukrgasbank](https://static.openfintech.io/payment_providers/ukrgasbank/logo.png?w=600&c=v0.59.26#w100) |[**UkrGasBank**](ukrgasbank/)|`ukrgasbank`| 
