@@ -1,20 +1,22 @@
 
-# Palmpay (service) 
-![palmpay_ngn](https://static.openfintech.io/payout_methods/palmpay_ngn/logo.svg?w=400&c=v0.59.26#w24)  
+# NCBA Bank Kenya (service) 
+![ncba_bank_kenya_kes](https://static.openfintech.io/payout_methods/ncba_bank_kenya_kes/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
  
-**Code:** `palmpay_ngn` 
+**Code:** `ncba_bank_kenya_kes` 
  
-**Method:** `palmpay` [show -->](/payout-methods/palmpay/) 
+**Method:** `ncba_bank_kenya` [show -->](/payout-methods/ncba_bank_kenya/) 
  
-**Currency:** `NGN` [show -->](/currencies/NGN/) 
+**Currency:** `KES` [show -->](/currencies/KES/) 
  
 **Name:** 
  
-:	[EN] Palmpay 
+:	[EN] NCBA Bank Kenya 
+:	[RU] NCBA Bank Kenya 
+:	[UK] NCBA Bank Kenya 
  
-**Amount limits:** from `1` to `10000000` NGN 
+**Amount limits:** from `1.29` to `1292000` KES 
 
 ## Fields 
 
@@ -25,6 +27,8 @@
 |`account_number`|✔|`string`|`/^.{1,50}$/`| 
 |`beneficiary_first_name`|✗|`string`|`/^[A-Z\-\ a-z]{2,100}$/`| 
 |`beneficiary_last_name`|✗|`string`|`/^[A-Z\-\ a-z]{2,100}$/`| 
+|`beneficiary_phone`|✗|`string`|`/^\d{10,14}$/`| 
+|`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
  
 
 ### Details 
@@ -83,14 +87,50 @@
 	: [RU] Введите фамилию получателя 
 	: [UK] Введіть прізвище отримувача 
  
+4. **`beneficiary_phone`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^\d{10,14}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Phone number 
+	: [RU] Номер телефона 
+	: [UK] Номер телефону 
+ 
+	Hint:  
+	: [EN] Enter phone number 
+	: [RU] Введите номер телефона 
+	: [UK] Введіть номер телефону 
+ 
+5. **`beneficiary_email`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Email 
+	: [RU] Email 
+	: [UK] Email 
+ 
+	Hint:  
+	: [EN] Enter Email 
+	: [RU] Введите Email 
+	: [UK] Введіть Email 
+ 
 
 ## JSON Object 
 
 ```json
 {
-  "code":"palmpay_ngn",
-  "method":"palmpay",
-  "currency":"NGN",
+  "code":"ncba_bank_kenya_kes",
+  "method":"ncba_bank_kenya",
+  "currency":"KES",
   "fields":[
     {
       "key":"account_number",
@@ -144,9 +184,45 @@
       "required":false,
       "position":3,
       "example":"Doe"
+    },
+    {
+      "key":"beneficiary_phone",
+      "type":"string",
+      "label":{
+        "en":"Phone number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
+      },
+      "hint":{
+        "en":"Enter phone number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
+      },
+      "example":"6339152330011",
+      "regexp":"\/^\\d{10,14}$\/",
+      "required":false,
+      "position":4
+    },
+    {
+      "key":"beneficiary_email",
+      "type":"string",
+      "label":{
+        "en":"Email",
+        "ru":"Email",
+        "uk":"Email"
+      },
+      "hint":{
+        "en":"Enter Email",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Email",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Email"
+      },
+      "example":"johndoe@example.com",
+      "regexp":"\/^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,4})$\/",
+      "required":false,
+      "position":5
     }
   ],
-  "amount_min":1,
-  "amount_max":10000000
+  "amount_min":"1.29",
+  "amount_max":"1292000"
 }
 ```  
