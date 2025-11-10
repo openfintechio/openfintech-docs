@@ -389,6 +389,7 @@
 |![flexepinemoneyvouchers](https://static.openfintech.io/payment_methods/flexepinemoneyvouchers/logo.png?w=400&c=v0.59.26#w200) |[**Flexepin**](flexepinemoneyvouchers/)|`flexepinemoneyvouchers`| 
 |![forexbank](https://static.openfintech.io/payment_methods/forexbank/logo.png?w=400&c=v0.59.26#w200) |[**Forex Bank**](forexbank/)|`forexbank`| 
 |![fpx](https://static.openfintech.io/payment_methods/fpx/logo.svg?w=400&c=v0.59.26#w200) |[**FPX**](fpx/)|`fpx`| 
+|![free_money](https://static.openfintech.io/payment_methods/free_money/logo.svg?w=400&c=v0.59.26#w200) |[**Free money**](free_money/)|`free_money`| 
 |![freecharge](https://static.openfintech.io/payment_methods/freecharge/logo.svg?w=400&c=v0.59.26#w200) |[**Freecharge Wallet**](freecharge/)|`freecharge`| 
 |![frenchonlinepaymentmethodewalletpaylib](https://static.openfintech.io/payment_methods/frenchonlinepaymentmethodewalletpaylib/logo.png?w=400&c=v0.59.26#w200) |[**paylib**](frenchonlinepaymentmethodewalletpaylib/)|`frenchonlinepaymentmethodewalletpaylib`| 
 |![fullcarga](https://static.openfintech.io/payment_methods/fullcarga/logo.svg?w=400&c=v0.59.26#w200) |[**FullCarga**](fullcarga/)|`fullcarga`| 

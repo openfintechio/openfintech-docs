@@ -57,6 +57,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![wave](https://static.openfintech.io/payment_methods/wave/icon.png?w=278&c=v0.59.26#w100) |[wave](/payment-methods/wave/)|`wave`| 
 |![orange_money](https://static.openfintech.io/payment_methods/orange_money/icon.png?w=278&c=v0.59.26#w100) |[orange_money](/payment-methods/orange_money/)|`orange_money`| 
 |![tnm](https://static.openfintech.io/payment_methods/tnm/icon.svg?w=278&c=v0.59.26#w100) |[tnm](/payment-methods/tnm/)|`tnm`| 
+|![free_money](https://static.openfintech.io/payment_methods/free_money/icon.svg?w=278&c=v0.59.26#w100) |[free_money](/payment-methods/free_money/)|`free_money`| 
  
 
 ## Payout Methods 
@@ -142,7 +143,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "moov",
     "wave",
     "orange_money",
-    "tnm"
+    "tnm",
+    "free_money"
   ],
   "payout_method":[
     "zenith_bank",

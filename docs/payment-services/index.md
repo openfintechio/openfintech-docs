@@ -791,6 +791,7 @@
 |![Fawry](https://static.openfintech.io/payment_methods/fawry_crypto/logo.png?w=400&c=v0.59.26#w200) |[**Fawry**](/payment-methods/fawry_crypto/)|[`fawry_crypto_egp_hpp`](fawry_crypto_egp_hpp/)| 
 |![Federal Bank of India](https://static.openfintech.io/payment_methods/federal_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Federal Bank of India**](/payment-methods/federal_bank_india/)|[`federal_bank_india_inr_hpp`](federal_bank_india_inr_hpp/)| 
 |![FPX](https://static.openfintech.io/payment_methods/fpx/logo.svg?w=400&c=v0.59.26#w200) |[**FPX**](/payment-methods/fpx/)|[`fpx_myr_hpp`](fpx_myr_hpp/)| 
+|![Free money](https://static.openfintech.io/payment_methods/free_money/logo.svg?w=400&c=v0.59.26#w200) |[**Free money**](/payment-methods/free_money/)|[`free_money_xof_invoice`](free_money_xof_invoice/)| 
 |![Freecharge Wallet](https://static.openfintech.io/payment_methods/freecharge/logo.svg?w=400&c=v0.59.26#w200) |[**Freecharge Wallet**](/payment-methods/freecharge/)|[`freecharge_inr_hpp`](freecharge_inr_hpp/)| 
 |![FullCarga](https://static.openfintech.io/payment_methods/fullcarga/logo.svg?w=400&c=v0.59.26#w200) |[**FullCarga**](/payment-methods/fullcarga/)|[`fullcarga_cop_hpp`](fullcarga_cop_hpp/)| 
 |![Fundacion Genesis](https://static.openfintech.io/payment_methods/fundacion_genesis_cash/logo.png?w=400&c=v0.59.26#w200) |[**Fundacion Genesis**](/payment-methods/fundacion_genesis_cash/)|[`fundacion_genesis_cash_gtq_hpp`](fundacion_genesis_cash_gtq_hpp/)| 
