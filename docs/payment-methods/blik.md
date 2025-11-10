@@ -58,6 +58,7 @@ The list of [Payment Providers](/payment-providers/) that support the _BLIK_
 |![justipay](https://static.openfintech.io/payment_providers/justipay/icon.png?w=278&c=v0.59.26#w100) |[Justipay](/payment-providers/justipay/)|`justipay`| 
 |![todapay](https://static.openfintech.io/payment_providers/todapay/icon.png?w=278&c=v0.59.26#w100) |[TODA Pay](/payment-providers/todapay/)|`todapay`| 
 |![leobank](https://static.openfintech.io/payment_providers/leobank/icon.svg?w=278&c=v0.59.26#w100) |[Digimeth](/payment-providers/leobank/)|`leobank`| 
+|![lemanpay](https://static.openfintech.io/payment_providers/lemanpay/icon.svg?w=278&c=v0.59.26#w100) |[LemanPay](/payment-providers/lemanpay/)|`lemanpay`| 
 |![convergegate](https://static.openfintech.io/payment_providers/convergegate/icon.svg?w=278&c=v0.59.26#w100) |[Converge Gate](/payment-providers/convergegate/)|`convergegate`| 
 |![gatetwoway](https://static.openfintech.io/payment_providers/gatetwoway/icon.svg?w=278&c=v0.59.26#w100) |[Gate2way](/payment-providers/gatetwoway/)|`gatetwoway`| 
 |![cashbulls](https://static.openfintech.io/payment_providers/cashbulls/icon.png?w=278&c=v0.59.26#w100) |[Cash Bulls](/payment-providers/cashbulls/)|`cashbulls`| 
