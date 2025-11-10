@@ -630,7 +630,7 @@
 |![firestorm](https://static.openfintech.io/payout_methods/firestorm/logo.png?w=400&c=v0.59.26#w24) |[**Firestorm**](firestorm/)|`firestorm`| 
 |![firma-radio-vinnitsia](https://static.openfintech.io/payout_methods/firma-radio-vinnitsia/logo.png?w=400&c=v0.59.26#w24) |[**Firma 'RADIO' (Vinnitsya)**](firma-radio-vinnitsia/)|`firma-radio-vinnitsia`| 
 |![first_apple](https://static.openfintech.io/payout_methods/first_apple/logo.svg?w=400&c=v0.59.26#w24) |[**First Apple**](first_apple/)|`first_apple`| 
-|![first_bank_of_nigeria_nigeria](https://static.openfintech.io/payout_methods/first_bank_of_nigeria_nigeria/logo.svg?w=400&c=v0.59.26#w24) |[**First Bank of Nigeria**](first_bank_of_nigeria_nigeria/)|`first_bank_of_nigeria_nigeria`| 
+|![first_bank_of_nigeria](https://static.openfintech.io/payout_methods/first_bank_of_nigeria/logo.svg?w=400&c=v0.59.26#w24) |[**First Bank of Nigeria**](first_bank_of_nigeria/)|`first_bank_of_nigeria`| 
 |![first_bank_of_toyama](https://static.openfintech.io/payout_methods/first_bank_of_toyama/logo.svg?w=400&c=v0.59.26#w24) |[**First Bank of Toyama**](first_bank_of_toyama/)|`first_bank_of_toyama`| 
 |![first_bankof_nigeria](https://static.openfintech.io/payout_methods/first_bankof_nigeria/logo.svg?w=400&c=v0.59.26#w24) |[**First Bank of Nigeria**](first_bankof_nigeria/)|`first_bankof_nigeria`| 
 |![first_city_monument_bank](https://static.openfintech.io/payout_methods/first_city_monument_bank/logo.svg?w=400&c=v0.59.26#w24) |[**First City Monument Bank**](first_city_monument_bank/)|`first_city_monument_bank`| 

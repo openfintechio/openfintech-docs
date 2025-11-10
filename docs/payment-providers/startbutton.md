@@ -82,6 +82,37 @@ The list of supported [Payout Methods](/payout-methods/)
 |![tyme_bank](https://static.openfintech.io/payout_methods/tyme_bank/icon.svg?w=278&c=v0.59.26#w40) |[tyme_bank](payout-methodstyme_bank/)|`tyme_bank`| 
 |![ubank](https://static.openfintech.io/payout_methods/ubank/icon.svg?w=278&c=v0.59.26#w40) |[ubank](payout-methodsubank/)|`ubank`| 
 |![vbs_mutual_bank](https://static.openfintech.io/payout_methods/vbs_mutual_bank/icon.svg?w=278&c=v0.59.26#w40) |[vbs_mutual_bank](payout-methodsvbs_mutual_bank/)|`vbs_mutual_bank`| 
+|![access_bank_nigeria](https://static.openfintech.io/payout_methods/access_bank_nigeria/icon.svg?w=278&c=v0.59.26#w40) |[access_bank_nigeria](payout-methodsaccess_bank_nigeria/)|`access_bank_nigeria`| 
+|![fidelity_bank_nigeria](https://static.openfintech.io/payout_methods/fidelity_bank_nigeria/icon.svg?w=278&c=v0.59.26#w40) |[fidelity_bank_nigeria](payout-methodsfidelity_bank_nigeria/)|`fidelity_bank_nigeria`| 
+|![first_bank_of_nigeria](https://static.openfintech.io/payout_methods/first_bank_of_nigeria/icon.svg?w=278&c=v0.59.26#w40) |[first_bank_of_nigeria](payout-methodsfirst_bank_of_nigeria/)|`first_bank_of_nigeria`| 
+|![guaranty_trust_bank](https://static.openfintech.io/payout_methods/guaranty_trust_bank/icon.svg?w=278&c=v0.59.26#w40) |[guaranty_trust_bank](payout-methodsguaranty_trust_bank/)|`guaranty_trust_bank`| 
+|![united_bankfor_africa](https://static.openfintech.io/payout_methods/united_bankfor_africa/icon.svg?w=278&c=v0.59.26#w40) |[united_bankfor_africa](payout-methodsunited_bankfor_africa/)|`united_bankfor_africa`| 
+|![zenith_bank](https://static.openfintech.io/payout_methods/zenith_bank/icon.svg?w=278&c=v0.59.26#w40) |[zenith_bank](payout-methodszenith_bank/)|`zenith_bank`| 
+|![wema_bank](https://static.openfintech.io/payout_methods/wema_bank/icon.svg?w=278&c=v0.59.26#w40) |[wema_bank](payout-methodswema_bank/)|`wema_bank`| 
+|![polaris_bank_nigeria](https://static.openfintech.io/payout_methods/polaris_bank_nigeria/icon.svg?w=278&c=v0.59.26#w40) |[polaris_bank_nigeria](payout-methodspolaris_bank_nigeria/)|`polaris_bank_nigeria`| 
+|![stanbic_bank_nigeria](https://static.openfintech.io/payout_methods/stanbic_bank_nigeria/icon.svg?w=278&c=v0.59.26#w40) |[stanbic_bank_nigeria](payout-methodsstanbic_bank_nigeria/)|`stanbic_bank_nigeria`| 
+|![sterling_bank](https://static.openfintech.io/payout_methods/sterling_bank/icon.png?w=278&c=v0.59.26#w40) |[sterling_bank](payout-methodssterling_bank/)|`sterling_bank`| 
+|![providus_bank](https://static.openfintech.io/payout_methods/providus_bank/icon.svg?w=278&c=v0.59.26#w40) |[providus_bank](payout-methodsprovidus_bank/)|`providus_bank`| 
+|![moniepoint_mfb_nigeria](https://static.openfintech.io/payout_methods/moniepoint_mfb_nigeria/icon.svg?w=278&c=v0.59.26#w40) |[moniepoint_mfb_nigeria](payout-methodsmoniepoint_mfb_nigeria/)|`moniepoint_mfb_nigeria`| 
+|![kuda_bank_nigeria](https://static.openfintech.io/payout_methods/kuda_bank_nigeria/icon.svg?w=278&c=v0.59.26#w40) |[kuda_bank_nigeria](payout-methodskuda_bank_nigeria/)|`kuda_bank_nigeria`| 
+|![opay_digital_services_nigeria](https://static.openfintech.io/payout_methods/opay_digital_services_nigeria/icon.svg?w=278&c=v0.59.26#w40) |[opay_digital_services_nigeria](payout-methodsopay_digital_services_nigeria/)|`opay_digital_services_nigeria`| 
+|![palmpay](https://static.openfintech.io/payout_methods/palmpay/icon.svg?w=278&c=v0.59.26#w40) |[palmpay](payout-methodspalmpay/)|`palmpay`| 
+|![absa_bank_ghana_ltd](https://static.openfintech.io/payout_methods/absa_bank_ghana_ltd/icon.svg?w=278&c=v0.59.26#w40) |[absa_bank_ghana_ltd](payout-methodsabsa_bank_ghana_ltd/)|`absa_bank_ghana_ltd`| 
+|![ecobank_ghana_limited](https://static.openfintech.io/payout_methods/ecobank_ghana_limited/icon.svg?w=278&c=v0.59.26#w40) |[ecobank_ghana_limited](payout-methodsecobank_ghana_limited/)|`ecobank_ghana_limited`| 
+|![fidelity_bank_ghana_limited](https://static.openfintech.io/payout_methods/fidelity_bank_ghana_limited/icon.svg?w=278&c=v0.59.26#w40) |[fidelity_bank_ghana_limited](payout-methodsfidelity_bank_ghana_limited/)|`fidelity_bank_ghana_limited`| 
+|![gcb_bank_limited_ghana](https://static.openfintech.io/payout_methods/gcb_bank_limited_ghana/icon.svg?w=278&c=v0.59.26#w40) |[gcb_bank_limited_ghana](payout-methodsgcb_bank_limited_ghana/)|`gcb_bank_limited_ghana`| 
+|![standard_chartered_bank_ghana_limited](https://static.openfintech.io/payout_methods/standard_chartered_bank_ghana_limited/icon.svg?w=278&c=v0.59.26#w40) |[standard_chartered_bank_ghana_limited](payout-methodsstandard_chartered_bank_ghana_limited/)|`standard_chartered_bank_ghana_limited`| 
+|![stanbic_bank_ghana_limited](https://static.openfintech.io/payout_methods/stanbic_bank_ghana_limited/icon.svg?w=278&c=v0.59.26#w40) |[stanbic_bank_ghana_limited](payout-methodsstanbic_bank_ghana_limited/)|`stanbic_bank_ghana_limited`| 
+|![united_bank_for_africa_ghana_limited](https://static.openfintech.io/payout_methods/united_bank_for_africa_ghana_limited/icon.svg?w=278&c=v0.59.26#w40) |[united_bank_for_africa_ghana_limited](payout-methodsunited_bank_for_africa_ghana_limited/)|`united_bank_for_africa_ghana_limited`| 
+|![zenith_bank_ghana](https://static.openfintech.io/payout_methods/zenith_bank_ghana/icon.svg?w=278&c=v0.59.26#w40) |[zenith_bank_ghana](payout-methodszenith_bank_ghana/)|`zenith_bank_ghana`| 
+|![absa_bank_kenya_plc](https://static.openfintech.io/payout_methods/absa_bank_kenya_plc/icon.svg?w=278&c=v0.59.26#w40) |[absa_bank_kenya_plc](payout-methodsabsa_bank_kenya_plc/)|`absa_bank_kenya_plc`| 
+|![cooperative_bank_of_kenya_ltd](https://static.openfintech.io/payout_methods/cooperative_bank_of_kenya_ltd/icon.svg?w=278&c=v0.59.26#w40) |[cooperative_bank_of_kenya_ltd](payout-methodscooperative_bank_of_kenya_ltd/)|`cooperative_bank_of_kenya_ltd`| 
+|![equity_bank_kenya_ltd](https://static.openfintech.io/payout_methods/equity_bank_kenya_ltd/icon.svg?w=278&c=v0.59.26#w40) |[equity_bank_kenya_ltd](payout-methodsequity_bank_kenya_ltd/)|`equity_bank_kenya_ltd`| 
+|![kenya_commercial_bank](https://static.openfintech.io/payout_methods/kenya_commercial_bank/icon.svg?w=278&c=v0.59.26#w40) |[kenya_commercial_bank](payout-methodskenya_commercial_bank/)|`kenya_commercial_bank`| 
+|![ncba_bank_kenya](https://static.openfintech.io/payout_methods/ncba_bank_kenya/icon.svg?w=278&c=v0.59.26#w40) |[ncba_bank_kenya](payout-methodsncba_bank_kenya/)|`ncba_bank_kenya`| 
+|![standard_chartered_bank_kenya](https://static.openfintech.io/payout_methods/standard_chartered_bank_kenya/icon.svg?w=278&c=v0.59.26#w40) |[standard_chartered_bank_kenya](payout-methodsstandard_chartered_bank_kenya/)|`standard_chartered_bank_kenya`| 
+|![stanbic_bank_kenya_limited](https://static.openfintech.io/payout_methods/stanbic_bank_kenya_limited/icon.svg?w=278&c=v0.59.26#w40) |[stanbic_bank_kenya_limited](payout-methodsstanbic_bank_kenya_limited/)|`stanbic_bank_kenya_limited`| 
+|![united_bank_for_africa_kenya_ltd](https://static.openfintech.io/payout_methods/united_bank_for_africa_kenya_ltd/icon.svg?w=278&c=v0.59.26#w40) |[united_bank_for_africa_kenya_ltd](payout-methodsunited_bank_for_africa_kenya_ltd/)|`united_bank_for_africa_kenya_ltd`| 
  
 
 ## JSON Object 
@@ -130,7 +161,38 @@ The list of supported [Payout Methods](/payout-methods/)
     "standard_chartered_bank",
     "tyme_bank",
     "ubank",
-    "vbs_mutual_bank"
+    "vbs_mutual_bank",
+    "access_bank_nigeria",
+    "fidelity_bank_nigeria",
+    "first_bank_of_nigeria",
+    "guaranty_trust_bank",
+    "united_bankfor_africa",
+    "zenith_bank",
+    "wema_bank",
+    "polaris_bank_nigeria",
+    "stanbic_bank_nigeria",
+    "sterling_bank",
+    "providus_bank",
+    "moniepoint_mfb_nigeria",
+    "kuda_bank_nigeria",
+    "opay_digital_services_nigeria",
+    "palmpay",
+    "absa_bank_ghana_ltd",
+    "ecobank_ghana_limited",
+    "fidelity_bank_ghana_limited",
+    "gcb_bank_limited_ghana",
+    "standard_chartered_bank_ghana_limited",
+    "stanbic_bank_ghana_limited",
+    "united_bank_for_africa_ghana_limited",
+    "zenith_bank_ghana",
+    "absa_bank_kenya_plc",
+    "cooperative_bank_of_kenya_ltd",
+    "equity_bank_kenya_ltd",
+    "kenya_commercial_bank",
+    "ncba_bank_kenya",
+    "standard_chartered_bank_kenya",
+    "stanbic_bank_kenya_limited",
+    "united_bank_for_africa_kenya_ltd"
   ],
   "metadata":null,
   "name":{
