@@ -197,6 +197,7 @@
 |![avangard](https://static.openfintech.io/vendors/avangard/logo.svg?w=600&c=v0.59.26#w200) |[**Авангард**](avangard/)|`avangard`| 
 |![avangate](https://static.openfintech.io/vendors/avangate/logo.png?w=600&c=v0.59.26#w200) |[**Avangate Inc.**](avangate/)|`avangate`| 
 |![avenuesindiaprivatelimited](https://static.openfintech.io/vendors/avenuesindiaprivatelimited/logo.png?w=600&c=v0.59.26#w200) |[**CCAvenue**](avenuesindiaprivatelimited/)|`avenuesindiaprivatelimited`| 
+|![avepay](https://static.openfintech.io/vendors/avepay/logo.png?w=600&c=v0.59.26#w200) |[**AvePay**](avepay/)|`avepay`| 
 |![awa_bank](https://static.openfintech.io/vendors/awa_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Awa Bank**](awa_bank/)|`awa_bank`| 
 |![awepay](https://static.openfintech.io/vendors/awepay/logo.png?w=600&c=v0.59.26#w200) |[**AWEpay**](awepay/)|`awepay`| 
 |![axcessmerchantservices](https://static.openfintech.io/vendors/axcessmerchantservices/logo.png?w=600&c=v0.59.26#w200) |[**Axcess Merchant Services**](axcessmerchantservices/)|`axcessmerchantservices`| 

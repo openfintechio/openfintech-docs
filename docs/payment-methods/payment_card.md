@@ -48,6 +48,7 @@ The list of [Payment Services](/payment-services/) based on the _Payment card_
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_cve_hpp](/payment-services/payment_card_cve_hpp/)|`payment_card_cve_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_sll_hpp](/payment-services/payment_card_sll_hpp/)|`payment_card_sll_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_ars_hpp](/payment-services/payment_card_ars_hpp/)|`payment_card_ars_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_ars_invoice](/payment-services/payment_card_ars_invoice/)|`payment_card_ars_invoice`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_chf_hpp](/payment-services/payment_card_chf_hpp/)|`payment_card_chf_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_nok_hpp](/payment-services/payment_card_nok_hpp/)|`payment_card_nok_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_dkk_hpp](/payment-services/payment_card_dkk_hpp/)|`payment_card_dkk_hpp`| 
@@ -86,6 +87,7 @@ The list of [Payment Services](/payment-services/) based on the _Payment card_
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_ghs_hpp](/payment-services/payment_card_ghs_hpp/)|`payment_card_ghs_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_gbp_hpp](/payment-services/payment_card_gbp_hpp/)|`payment_card_gbp_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_try_hpp](/payment-services/payment_card_try_hpp/)|`payment_card_try_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_try_invoice](/payment-services/payment_card_try_invoice/)|`payment_card_try_invoice`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_cad_hpp](/payment-services/payment_card_cad_hpp/)|`payment_card_cad_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_aud_hpp](/payment-services/payment_card_aud_hpp/)|`payment_card_aud_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_czk_hpp](/payment-services/payment_card_czk_hpp/)|`payment_card_czk_hpp`| 
@@ -665,6 +667,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![spell](https://static.openfintech.io/payment_providers/spell/icon.png?w=278&c=v0.59.26#w100) |[Spell](/payment-providers/spell/)|`spell`| 
 |![matrixpaysolution](https://static.openfintech.io/payment_providers/matrixpaysolution/icon.png?w=278&c=v0.59.26#w100) |[MatrixPaySolution](/payment-providers/matrixpaysolution/)|`matrixpaysolution`| 
 |![smashpay](https://static.openfintech.io/payment_providers/smashpay/icon.png?w=278&c=v0.59.26#w100) |[SmashPay](/payment-providers/smashpay/)|`smashpay`| 
+|![avepay](https://static.openfintech.io/payment_providers/avepay/icon.png?w=278&c=v0.59.26#w100) |[AvePay](/payment-providers/avepay/)|`avepay`| 
  
 
 ## JSON Object 

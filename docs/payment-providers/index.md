@@ -80,6 +80,7 @@
 |![authorizenet](https://static.openfintech.io/payment_providers/authorizenet/logo.svg?w=600&c=v0.59.26#w100) |[**Authorize.Net**](authorizenet/)|`authorizenet`| 
 |![avangate](https://static.openfintech.io/payment_providers/avangate/logo.png?w=600&c=v0.59.26#w100) |[**Avangate Inc.**](avangate/)|`avangate`| 
 |![avenuesindiaprivatelimited](https://static.openfintech.io/payment_providers/avenuesindiaprivatelimited/logo.png?w=600&c=v0.59.26#w100) |[**CCAvenue**](avenuesindiaprivatelimited/)|`avenuesindiaprivatelimited`| 
+|![avepay](https://static.openfintech.io/payment_providers/avepay/logo.png?w=600&c=v0.59.26#w100) |[**AvePay**](avepay/)|`avepay`| 
 |![awepay](https://static.openfintech.io/payment_providers/awepay/logo.png?w=600&c=v0.59.26#w100) |[**AWEpay**](awepay/)|`awepay`| 
 |![axcessmerchantservices](https://static.openfintech.io/payment_providers/axcessmerchantservices/logo.png?w=600&c=v0.59.26#w100) |[**Axcess Merchant Services**](axcessmerchantservices/)|`axcessmerchantservices`| 
 |![axiarpaymentsolutionslimited](https://static.openfintech.io/payment_providers/axiarpaymentsolutionslimited/logo.svg?w=600&c=v0.59.26#w100) |[**Axiar Payments**](axiarpaymentsolutionslimited/)|`axiarpaymentsolutionslimited`| 
