@@ -45,6 +45,7 @@ The list of [Payment Services](/payment-services/) based on the _Mifinity_
 |![mifinity](https://static.openfintech.io/payment_methods/mifinity/icon.svg?w=278&c=v0.59.26#w100) |[mifinity_nzd_invoice](/payment-services/mifinity_nzd_invoice/)|`mifinity_nzd_invoice`| 
 |![mifinity](https://static.openfintech.io/payment_methods/mifinity/icon.svg?w=278&c=v0.59.26#w100) |[mifinity_nok_invoice](/payment-services/mifinity_nok_invoice/)|`mifinity_nok_invoice`| 
 |![mifinity](https://static.openfintech.io/payment_methods/mifinity/icon.svg?w=278&c=v0.59.26#w100) |[mifinity_sek_invoice](/payment-services/mifinity_sek_invoice/)|`mifinity_sek_invoice`| 
+|![mifinity](https://static.openfintech.io/payment_methods/mifinity/icon.svg?w=278&c=v0.59.26#w100) |[mifinity_dkk_invoice](/payment-services/mifinity_dkk_invoice/)|`mifinity_dkk_invoice`| 
  
 
 ## Payment Providers 

@@ -1129,6 +1129,7 @@
 |![Mifinity](https://static.openfintech.io/payment_methods/mifinity/logo.svg?w=400&c=v0.59.26#w200) |[**Mifinity**](/payment-methods/mifinity/)|[`mifinity_aud_invoice`](mifinity_aud_invoice/)| 
 |![Mifinity](https://static.openfintech.io/payment_methods/mifinity/logo.svg?w=400&c=v0.59.26#w200) |[**Mifinity**](/payment-methods/mifinity/)|[`mifinity_cad_invoice`](mifinity_cad_invoice/)| 
 |![Mifinity](https://static.openfintech.io/payment_methods/mifinity/logo.svg?w=400&c=v0.59.26#w200) |[**Mifinity**](/payment-methods/mifinity/)|[`mifinity_chf_invoice`](mifinity_chf_invoice/)| 
+|![Mifinity](https://static.openfintech.io/payment_methods/mifinity/logo.svg?w=400&c=v0.59.26#w200) |[**Mifinity**](/payment-methods/mifinity/)|[`mifinity_dkk_invoice`](mifinity_dkk_invoice/)| 
 |![Mifinity](https://static.openfintech.io/payment_methods/mifinity/logo.svg?w=400&c=v0.59.26#w200) |[**Mifinity**](/payment-methods/mifinity/)|[`mifinity_eur_invoice`](mifinity_eur_invoice/)| 
 |![Mifinity](https://static.openfintech.io/payment_methods/mifinity/logo.svg?w=400&c=v0.59.26#w200) |[**Mifinity**](/payment-methods/mifinity/)|[`mifinity_gbp_invoice`](mifinity_gbp_invoice/)| 
 |![Mifinity](https://static.openfintech.io/payment_methods/mifinity/logo.svg?w=400&c=v0.59.26#w200) |[**Mifinity**](/payment-methods/mifinity/)|[`mifinity_nok_invoice`](mifinity_nok_invoice/)| 
