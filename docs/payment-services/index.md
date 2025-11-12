@@ -432,6 +432,7 @@
 |![Bkash p2p](https://static.openfintech.io/payment_methods/bkash_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**Bkash p2p**](/payment-methods/bkash_p2p/)|[`bkash_p2p_bdt_hpp`](bkash_p2p_bdt_hpp/)| 
 |![BLIK](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](/payment-methods/blik/)|[`blik_eur_hpp`](blik_eur_hpp/)| 
 |![BLIK](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](/payment-methods/blik/)|[`blik_pln_hpp`](blik_pln_hpp/)| 
+|![BLIK](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](/payment-methods/blik/)|[`blik_pln_invoice`](blik_pln_invoice/)| 
 |![BLIK](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](/payment-methods/blik/)|[`blik_usd_hpp`](blik_usd_hpp/)| 
 |![BNCVA](https://static.openfintech.io/payment_methods/bnc_va/logo.svg?w=400&c=v0.59.26#w200) |[**BNCVA**](/payment-methods/bnc_va/)|[`bnc_va_idr_hpp`](bnc_va_idr_hpp/)| 
 |![BNIVA](https://static.openfintech.io/payment_methods/bni_va/logo.svg?w=400&c=v0.59.26#w200) |[**BNIVA**](/payment-methods/bni_va/)|[`bni_va_idr_hpp`](bni_va_idr_hpp/)| 

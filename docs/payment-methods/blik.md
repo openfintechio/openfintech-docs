@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _BLIK_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik_pln_hpp](/payment-services/blik_pln_hpp/)|`blik_pln_hpp`| 
+|![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik_pln_invoice](/payment-services/blik_pln_invoice/)|`blik_pln_invoice`| 
 |![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik_usd_hpp](/payment-services/blik_usd_hpp/)|`blik_usd_hpp`| 
 |![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik_eur_hpp](/payment-services/blik_eur_hpp/)|`blik_eur_hpp`| 
  
