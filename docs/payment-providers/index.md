@@ -801,6 +801,7 @@
 |![paysure](https://static.openfintech.io/payment_providers/paysure/logo.png?w=600&c=v0.59.26#w100) |[**Paysure**](paysure/)|`paysure`| 
 |![payswiftly](https://static.openfintech.io/payment_providers/payswiftly/logo.png?w=600&c=v0.59.26#w100) |[**Payswiftly**](payswiftly/)|`payswiftly`| 
 |![paytabs](https://static.openfintech.io/payment_providers/paytabs/logo.png?w=600&c=v0.59.26#w100) |[**PayTabs**](paytabs/)|`paytabs`| 
+|![paytech](https://static.openfintech.io/payment_providers/paytech/logo.png?w=600&c=v0.59.26#w100) |[**paytech**](paytech/)|`paytech`| 
 |![paytend](https://static.openfintech.io/payment_providers/paytend/logo.png?w=600&c=v0.59.26#w100) |[**Paytend**](paytend/)|`paytend`| 
 |![paytently](https://static.openfintech.io/payment_providers/paytently/logo.svg?w=600&c=v0.59.26#w100) |[**Paytently**](paytently/)|`paytently`| 
 |![paytiencecc](https://static.openfintech.io/payment_providers/paytiencecc/logo.png?w=600&c=v0.59.26#w100) |[**Paytience.cc**](paytiencecc/)|`paytiencecc`| 
@@ -1035,7 +1036,7 @@
 |![transfr](https://static.openfintech.io/payment_providers/transfr/logo.png?w=600&c=v0.59.26#w100) |[**Transfr**](transfr/)|`transfr`| 
 |![tranzzo](https://static.openfintech.io/payment_providers/tranzzo/logo.svg?w=600&c=v0.59.26#w100) |[**Tranzzo**](tranzzo/)|`tranzzo`| 
 |![traxpay](https://static.openfintech.io/payment_providers/traxpay/logo.png?w=600&c=v0.59.26#w100) |[**Traxpay**](traxpay/)|`traxpay`| 
-|![trezuz](https://static.openfintech.io/payment_providers/trezuz/logo.svg?w=600&c=v0.59.26#w100) |[**Trezuz**](trezuz/)|`trezuz`| 
+|![trezuz](https://static.openfintech.io/payment_providers/trezuz/logo.png?w=600&c=v0.59.26#w100) |[**Trezuz**](trezuz/)|`trezuz`| 
 |![triple000](https://static.openfintech.io/payment_providers/triple000/logo.png?w=600&c=v0.59.26#w100) |[**Triple000**](triple000/)|`triple000`| 
 |![triplea](https://static.openfintech.io/payment_providers/triplea/logo.png?w=600&c=v0.59.26#w100) |[**Triple-A**](triplea/)|`triplea`| 
 |![truevo](https://static.openfintech.io/payment_providers/truevo/logo.png?w=600&c=v0.59.26#w100) |[**Truevo**](truevo/)|`truevo`| 

@@ -1,6 +1,6 @@
 
 # Trezuz 
-![trezuz](https://static.openfintech.io/payment_providers/trezuz/logo.svg?w=400&c=v0.59.26#w100)  
+![trezuz](https://static.openfintech.io/payment_providers/trezuz/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![trezuz](https://static.openfintech.io/payment_providers/trezuz/logo.svg?w=400&c=v0.59.26#w100)  
+![trezuz](https://static.openfintech.io/payment_providers/trezuz/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/trezuz/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/trezuz/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![trezuz](https://static.openfintech.io/payment_providers/trezuz/icon.svg?w=278&c=v0.59.26#w100)  
+![trezuz](https://static.openfintech.io/payment_providers/trezuz/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/trezuz/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/trezuz/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
