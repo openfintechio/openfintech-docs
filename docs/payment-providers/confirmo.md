@@ -42,6 +42,16 @@ The list of supported [Payment Methods](/payment-methods/)
 |![crypto_aggregated](https://static.openfintech.io/payment_methods/crypto_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[crypto_aggregated](/payment-methods/crypto_aggregated/)|`crypto_aggregated`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![usd_coin](https://static.openfintech.io/payout_methods/usd_coin/icon.png?w=278&c=v0.59.26#w40) |[usd_coin](payout-methodsusd_coin/)|`usd_coin`| 
+|![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether](payout-methodstether/)|`tether`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -54,7 +64,10 @@ The list of supported [Payment Methods](/payment-methods/)
   "payment_method":[
     "crypto_aggregated"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "usd_coin",
+    "tether"
+  ],
   "metadata":null,
   "name":{
     "en":"Confirmo",
