@@ -668,6 +668,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![matrixpaysolution](https://static.openfintech.io/payment_providers/matrixpaysolution/icon.png?w=278&c=v0.59.26#w100) |[MatrixPaySolution](/payment-providers/matrixpaysolution/)|`matrixpaysolution`| 
 |![smashpay](https://static.openfintech.io/payment_providers/smashpay/icon.png?w=278&c=v0.59.26#w100) |[SmashPay](/payment-providers/smashpay/)|`smashpay`| 
 |![avepay](https://static.openfintech.io/payment_providers/avepay/icon.png?w=278&c=v0.59.26#w100) |[AvePay](/payment-providers/avepay/)|`avepay`| 
+|![trezuz](https://static.openfintech.io/payment_providers/trezuz/icon.svg?w=278&c=v0.59.26#w100) |[Trezuz](/payment-providers/trezuz/)|`trezuz`| 
  
 
 ## JSON Object 

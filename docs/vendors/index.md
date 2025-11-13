@@ -2235,6 +2235,7 @@
 |![transfr](https://static.openfintech.io/vendors/transfr/logo.png?w=600&c=v0.59.26#w200) |[**Transfr**](transfr/)|`transfr`| 
 |![tranzzo](https://static.openfintech.io/vendors/tranzzo/logo.svg?w=600&c=v0.59.26#w200) |[**Tranzzo**](tranzzo/)|`tranzzo`| 
 |![traxpay](https://static.openfintech.io/vendors/traxpay/logo.png?w=600&c=v0.59.26#w200) |[**Traxpay**](traxpay/)|`traxpay`| 
+|![trezuz](https://static.openfintech.io/vendors/trezuz/logo.png?w=600&c=v0.59.26#w200) |[**Trezuz**](trezuz/)|`trezuz`| 
 |![triple000](https://static.openfintech.io/vendors/triple000/logo.png?w=600&c=v0.59.26#w200) |[**Triple000**](triple000/)|`triple000`| 
 |![triplea](https://static.openfintech.io/vendors/triplea/logo.png?w=600&c=v0.59.26#w200) |[**Triple-A**](triplea/)|`triplea`| 
 |![tron](https://static.openfintech.io/vendors/tron/logo.svg?w=600&c=v0.59.26#w200) |[**Tron**](tron/)|`tron`| 
