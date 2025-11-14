@@ -26,7 +26,7 @@
 |:---:|:---:|:---:|:---:| 
 |`account_type`|✗|`string`|`/^[A-Z]{1}$/`| 
 |`bank_code`|✗|`string`|`/^[0-9]{1,20}$/`| 
-|`beneficiary_document_type`|✗|`string`|`/^[A-Za-z]{2,20}$/`| 
+|`beneficiary_document_type`|✗|`string`|`/^[A-Za-z]{1,20}$/`| 
 |`beneficiary_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
 |`beneficiary_lastname`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
 |`bank_account`|✗|`string`|`/^[0-9]{1,30}$/`| 
@@ -83,7 +83,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-z]{2,20}$/` 
+	Regexp: `/^[A-Za-z]{1,20}$/` 
  
 	Required: `` 
  
@@ -359,7 +359,7 @@
     {
       "key":"beneficiary_document_type",
       "type":"string",
-      "regexp":"\/^[A-Za-z]{2,20}$\/",
+      "regexp":"\/^[A-Za-z]{1,20}$\/",
       "required":false,
       "position":3,
       "label":{

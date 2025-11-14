@@ -202,6 +202,7 @@
 |![awepay](https://static.openfintech.io/vendors/awepay/logo.png?w=600&c=v0.59.26#w200) |[**AWEpay**](awepay/)|`awepay`| 
 |![axcessmerchantservices](https://static.openfintech.io/vendors/axcessmerchantservices/logo.png?w=600&c=v0.59.26#w200) |[**Axcess Merchant Services**](axcessmerchantservices/)|`axcessmerchantservices`| 
 |![axiarpaymentsolutionslimited](https://static.openfintech.io/vendors/axiarpaymentsolutionslimited/logo.png?w=600&c=v0.59.26#w200) |[**Axiar Payments**](axiarpaymentsolutionslimited/)|`axiarpaymentsolutionslimited`| 
+|![axipays](https://static.openfintech.io/vendors/axipays/logo.png?w=600&c=v0.59.26#w200) |[**Axipays**](axipays/)|`axipays`| 
 |![azulpay](https://static.openfintech.io/vendors/azulpay/logo.png?w=600&c=v0.59.26#w200) |[**Azul Pay**](azulpay/)|`azulpay`| 
 || **B** ||
 |![b1nk](https://static.openfintech.io/vendors/b1nk/logo.svg?w=600&c=v0.59.26#w200) |[**B1NK**](b1nk/)|`b1nk`| 

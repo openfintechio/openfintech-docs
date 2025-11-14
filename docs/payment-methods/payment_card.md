@@ -371,6 +371,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![bzpay](https://static.openfintech.io/payment_providers/bzpay/icon.png?w=278&c=v0.59.26#w100) |[BZPAY](/payment-providers/bzpay/)|`bzpay`| 
 |![khanpay](https://static.openfintech.io/payment_providers/khanpay/icon.svg?w=278&c=v0.59.26#w100) |[KhanPay](/payment-providers/khanpay/)|`khanpay`| 
 |![procardpay](https://static.openfintech.io/payment_providers/procardpay/icon.png?w=278&c=v0.59.26#w100) |[Procard.Pay](/payment-providers/procardpay/)|`procardpay`| 
+|![axipays](https://static.openfintech.io/payment_providers/axipays/icon.png?w=278&c=v0.59.26#w100) |[Axipays](/payment-providers/axipays/)|`axipays`| 
 |![epb](https://static.openfintech.io/payment_providers/epb/icon.svg?w=278&c=v0.59.26#w100) |[Europrombank (EPB)](/payment-providers/epb/)|`epb`| 
 |![payermax](https://static.openfintech.io/payment_providers/payermax/icon.png?w=278&c=v0.59.26#w100) |[PayerMax](/payment-providers/payermax/)|`payermax`| 
 |![stepfourpay](https://static.openfintech.io/payment_providers/stepfourpay/icon.svg?w=278&c=v0.59.26#w100) |[Step4Pay](/payment-providers/stepfourpay/)|`stepfourpay`| 
