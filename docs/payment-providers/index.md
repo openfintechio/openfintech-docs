@@ -1029,6 +1029,7 @@
 |![tpaycom](https://static.openfintech.io/payment_providers/tpaycom/logo.png?w=600&c=v0.59.26#w100) |[**tpay.com**](tpaycom/)|`tpaycom`| 
 |![transact](https://static.openfintech.io/payment_providers/transact/logo.png?w=600&c=v0.59.26#w100) |[**Transact Europe**](transact/)|`transact`| 
 |![transact24](https://static.openfintech.io/payment_providers/transact24/logo.png?w=600&c=v0.59.26#w100) |[**Transact24**](transact24/)|`transact24`| 
+|![transacto](https://static.openfintech.io/payment_providers/transacto/logo.png?w=600&c=v0.59.26#w100) |[**TRANSACTO**](transacto/)|`transacto`| 
 |![transactpro](https://static.openfintech.io/payment_providers/transactpro/logo.png?w=600&c=v0.59.26#w100) |[**Transact Pro**](transactpro/)|`transactpro`| 
 |![transactworld](https://static.openfintech.io/payment_providers/transactworld/logo.png?w=600&c=v0.59.26#w100) |[**TransactWorld**](transactworld/)|`transactworld`| 
 |![transecute](https://static.openfintech.io/payment_providers/transecute/logo.png?w=600&c=v0.59.26#w100) |[**Transecute**](transecute/)|`transecute`| 
