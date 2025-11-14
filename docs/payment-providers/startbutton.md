@@ -43,6 +43,13 @@ The list of supported [Payment Methods](/payment-methods/)
 |![swiffy_eft](https://static.openfintech.io/payment_methods/swiffy_eft/icon.png?w=278&c=v0.59.26#w100) |[swiffy_eft](/payment-methods/swiffy_eft/)|`swiffy_eft`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
 |![snapscan_qr](https://static.openfintech.io/payment_methods/snapscan_qr/icon.svg?w=278&c=v0.59.26#w100) |[snapscan_qr](/payment-methods/snapscan_qr/)|`snapscan_qr`| 
+|![mtn](https://static.openfintech.io/payment_methods/mtn/icon.svg?w=278&c=v0.59.26#w100) |[mtn](/payment-methods/mtn/)|`mtn`| 
+|![airteltigo](https://static.openfintech.io/payment_methods/airteltigo/icon.png?w=278&c=v0.59.26#w100) |[airteltigo](/payment-methods/airteltigo/)|`airteltigo`| 
+|![vodafone_pay](https://static.openfintech.io/payment_methods/vodafone_pay/icon.png?w=278&c=v0.59.26#w100) |[vodafone_pay](/payment-methods/vodafone_pay/)|`vodafone_pay`| 
+|![m_pesa](https://static.openfintech.io/payment_methods/m_pesa/icon.png?w=278&c=v0.59.26#w100) |[m_pesa](/payment-methods/m_pesa/)|`m_pesa`| 
+|![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money](/payment-methods/airtel_money/)|`airtel_money`| 
+|![tigo](https://static.openfintech.io/payment_methods/tigo/icon.png?w=278&c=v0.59.26#w100) |[tigo](/payment-methods/tigo/)|`tigo`| 
+|![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile](/payment-methods/mobile/)|`mobile`| 
  
 
 ## Payout Methods 
@@ -128,7 +135,14 @@ The list of supported [Payout Methods](/payout-methods/)
     "payment_card",
     "swiffy_eft",
     "bank_transfer",
-    "snapscan_qr"
+    "snapscan_qr",
+    "mtn",
+    "airteltigo",
+    "vodafone_pay",
+    "m_pesa",
+    "airtel_money",
+    "tigo",
+    "mobile"
   ],
   "payout_method":[
     "absa_bank",

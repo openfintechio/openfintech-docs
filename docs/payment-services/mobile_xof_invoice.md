@@ -1,23 +1,23 @@
 
-# M-Pesa (service) 
-![m_pesa_kes_invoice](https://static.openfintech.io/payment_methods/m_pesa_kes_invoice/logo.svg?w=400&c=v0.59.26#w200)  
+# Mobile (service) 
+![mobile_xof_invoice](https://static.openfintech.io/payment_methods/mobile_xof_invoice/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `m_pesa_kes_invoice` 
+**Code:** `mobile_xof_invoice` 
  
-**Method:** `m_pesa` 
- [show -->](/payment-methods/m_pesa/) 
+**Method:** `mobile` 
+ [show -->](/payment-methods/mobile/) 
  
-**Currency:** `KES` [show -->](/currencies/KES/) 
+**Currency:** `XOF` [show -->](/currencies/XOF/) 
  
 **Name:** 
  
-:	[EN] M-Pesa 
-:	[RU] M-Pesa 
-:	[UK] M-Pesa 
+:	[EN] Mobile 
+:	[RU] Mobile 
+:	[UK] Mobile 
  
-**Amount limits:** from `1` to `13200000` KES 
+**Amount limits:** from `6` to `62000000` XOF 
 
 ## Fields 
 
@@ -72,10 +72,10 @@
 
 ```json
 {
-  "code":"m_pesa_kes_invoice",
+  "code":"mobile_xof_invoice",
   "flow":"invoice",
-  "method":"m_pesa",
-  "currency":"KES",
+  "method":"mobile",
+  "currency":"XOF",
   "fields":[
     {
       "key":"phone",
@@ -90,7 +90,6 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
       },
-      "example":"+255742044295",
       "regexp":"\/^\\+\\d{10,14}$\/",
       "required":false,
       "position":1
@@ -113,7 +112,7 @@
       }
     }
   ],
-  "amount_min":1,
-  "amount_max":13200000
+  "amount_min":6,
+  "amount_max":62000000
 }
 ```  

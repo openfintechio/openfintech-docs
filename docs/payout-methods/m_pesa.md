@@ -47,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _M-Pesa_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![klasha](https://static.openfintech.io/payment_providers/klasha/icon.png?w=278&c=v0.59.26#w100) |[Klasha](/payment-providers/klasha/)|`klasha`| 
+|![startbutton](https://static.openfintech.io/payment_providers/startbutton/icon.png?w=278&c=v0.59.26#w100) |[Startbutton](/payment-providers/startbutton/)|`startbutton`| 
  
 
 ## JSON Object 

@@ -47,6 +47,7 @@
 |![Airtel money](https://static.openfintech.io/payment_methods/airtel_money/logo.png?w=400&c=v0.59.26#w200) |[**Airtel money**](/payment-methods/airtel_money/)|[`airtel_money_zmw_hpp`](airtel_money_zmw_hpp/)| 
 |![Airtel money](https://static.openfintech.io/payment_methods/airtel_money/logo.png?w=400&c=v0.59.26#w200) |[**Airtel money**](/payment-methods/airtel_money/)|[`airtel_money_zmw_invoice`](airtel_money_zmw_invoice/)| 
 |![AT Ghana](https://static.openfintech.io/payment_methods/airteltigo/logo.png?w=400&c=v0.59.26#w200) |[**AT Ghana**](/payment-methods/airteltigo/)|[`airteltigo_ghs_hpp`](airteltigo_ghs_hpp/)| 
+|![AT Ghana](https://static.openfintech.io/payment_methods/airteltigo/logo.png?w=400&c=v0.59.26#w200) |[**AT Ghana**](/payment-methods/airteltigo/)|[`airteltigo_ghs_invoice`](airteltigo_ghs_invoice/)| 
 |![AT Ghana](https://static.openfintech.io/payment_methods/airteltigo/logo.png?w=400&c=v0.59.26#w200) |[**AT Ghana**](/payment-methods/airteltigo/)|[`airteltigo_rwf_hpp`](airteltigo_rwf_hpp/)| 
 |![Akbank](https://static.openfintech.io/payment_methods/akbank/logo.svg?w=400&c=v0.59.26#w200) |[**Akbank**](/payment-methods/akbank/)|[`akbank_try_invoice`](akbank_try_invoice/)| 
 |![Aktivbank](https://static.openfintech.io/payment_methods/aktivbank/logo.png?w=400&c=v0.59.26#w200) |[**Aktivbank**](/payment-methods/aktivbank/)|[`aktivbank_eur_hpp`](aktivbank_eur_hpp/)| 
@@ -1143,6 +1144,7 @@
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_egp_invoice`](mobile_egp_invoice/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_ghs_hpp`](mobile_ghs_hpp/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_ghs_invoice`](mobile_ghs_invoice/)| 
+|![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_gnf_invoice`](mobile_gnf_invoice/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_inr_hpp`](mobile_inr_hpp/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_kes_hpp`](mobile_kes_hpp/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_kes_invoice`](mobile_kes_invoice/)| 
@@ -1151,10 +1153,13 @@
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_pkr_hpp`](mobile_pkr_hpp/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_pkr_invoice`](mobile_pkr_invoice/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_rub_hpp`](mobile_rub_hpp/)| 
+|![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_tzs_invoice`](mobile_tzs_invoice/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_ugx_hpp`](mobile_ugx_hpp/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_ugx_invoice`](mobile_ugx_invoice/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_xaf_hpp`](mobile_xaf_hpp/)| 
+|![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_xaf_invoice`](mobile_xaf_invoice/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_xof_hpp`](mobile_xof_hpp/)| 
+|![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_xof_invoice`](mobile_xof_invoice/)| 
 |![MobilePay](https://static.openfintech.io/payment_methods/mobilepay/logo.svg?w=400&c=v0.59.26#w200) |[**MobilePay**](/payment-methods/mobilepay/)|[`mobilepay_eur_hpp`](mobilepay_eur_hpp/)| 
 |![Momo QR](https://static.openfintech.io/payment_methods/momo_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Momo QR**](/payment-methods/momo_qr/)|[`momo_qr_vnd_hpp`](momo_qr_vnd_hpp/)| 
 |![Momo](https://static.openfintech.io/payment_methods/momo/logo.png?w=400&c=v0.59.26#w200) |[**Momo**](/payment-methods/momo/)|[`momo_vnd_hpp`](momo_vnd_hpp/)| 
@@ -1909,6 +1914,7 @@
 |![Thai Military Bank](https://static.openfintech.io/payment_methods/thai_military_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Thai Military Bank**](/payment-methods/thai_military_bank/)|[`thai_military_bank_thb_hpp`](thai_military_bank_thb_hpp/)| 
 |![Thai QR Payment](https://static.openfintech.io/payment_methods/thai_qr_payment/logo.svg?w=400&c=v0.59.26#w200) |[**Thai QR Payment**](/payment-methods/thai_qr_payment/)|[`thai_qr_payment_thb_hpp`](thai_qr_payment_thb_hpp/)| 
 |![Tia](https://static.openfintech.io/payment_methods/tia/logo.svg?w=400&c=v0.59.26#w200) |[**Tia**](/payment-methods/tia/)|[`tia_usd_hpp`](tia_usd_hpp/)| 
+|![Tigo](https://static.openfintech.io/payment_methods/tigo/logo.png?w=400&c=v0.59.26#w200) |[**Tigo**](/payment-methods/tigo/)|[`tigo_kes_invoice`](tigo_kes_invoice/)| 
 |![Tigo pesa](https://static.openfintech.io/payment_methods/tigo_pesa/logo.png?w=400&c=v0.59.26#w200) |[**Tigo pesa**](/payment-methods/tigo_pesa/)|[`tigo_pesa_tzs_hpp`](tigo_pesa_tzs_hpp/)| 
 |![Tigo pesa](https://static.openfintech.io/payment_methods/tigo_pesa/logo.png?w=400&c=v0.59.26#w200) |[**Tigo pesa**](/payment-methods/tigo_pesa/)|[`tigo_pesa_tzs_invoice`](tigo_pesa_tzs_invoice/)| 
 |![Tigo](https://static.openfintech.io/payment_methods/tigo/logo.png?w=400&c=v0.59.26#w200) |[**Tigo**](/payment-methods/tigo/)|[`tigo_tzs_hpp`](tigo_tzs_hpp/)| 
@@ -2036,6 +2042,7 @@
 |![Vodafone Cash](https://static.openfintech.io/payment_methods/vodafone_cash/logo.svg?w=400&c=v0.59.26#w200) |[**Vodafone Cash**](/payment-methods/vodafone_cash/)|[`vodafone_cash_ghs_hpp`](vodafone_cash_ghs_hpp/)| 
 |![Vodafone-Mpesa](https://static.openfintech.io/payment_methods/vodafone_mpesa/logo.png?w=400&c=v0.59.26#w200) |[**Vodafone-Mpesa**](/payment-methods/vodafone_mpesa/)|[`vodafone_mpesa_egp_hpp`](vodafone_mpesa_egp_hpp/)| 
 |![Vodafone Pay](https://static.openfintech.io/payment_methods/vodafone_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Vodafone Pay**](/payment-methods/vodafone_pay/)|[`vodafone_pay_ghs_hpp`](vodafone_pay_ghs_hpp/)| 
+|![Vodafone Pay](https://static.openfintech.io/payment_methods/vodafone_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Vodafone Pay**](/payment-methods/vodafone_pay/)|[`vodafone_pay_ghs_invoice`](vodafone_pay_ghs_invoice/)| 
 |![Vodafone Pay](https://static.openfintech.io/payment_methods/vodafone_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Vodafone Pay**](/payment-methods/vodafone_pay/)|[`vodafone_pay_tzs_hpp`](vodafone_pay_tzs_hpp/)| 
 |![Vietnam Prosperity Joint‑Stock Commercial Bank Qr](https://static.openfintech.io/payment_methods/vp_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Vietnam Prosperity Joint‑Stock Commercial Bank Qr**](/payment-methods/vp_bank_qr/)|[`vp_bank_qr_vnd_invoice`](vp_bank_qr_vnd_invoice/)| 
 |![Vietnam Prosperity Joint‑Stock Commercial Bank](https://static.openfintech.io/payment_methods/vp_bank/logo.png?w=400&c=v0.59.26#w200) |[**Vietnam Prosperity Joint‑Stock Commercial Bank**](/payment-methods/vp_bank/)|[`vp_bank_vnd_hpp`](vp_bank_vnd_hpp/)| 

@@ -1,21 +1,21 @@
 
-# M-Pesa (service) 
-![m_pesa_kes_invoice](https://static.openfintech.io/payment_methods/m_pesa_kes_invoice/logo.svg?w=400&c=v0.59.26#w200)  
+# Tigo (service) 
+![tigo_kes_invoice](https://static.openfintech.io/payment_methods/tigo_kes_invoice/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `m_pesa_kes_invoice` 
+**Code:** `tigo_kes_invoice` 
  
-**Method:** `m_pesa` 
- [show -->](/payment-methods/m_pesa/) 
+**Method:** `tigo` 
+ [show -->](/payment-methods/tigo/) 
  
 **Currency:** `KES` [show -->](/currencies/KES/) 
  
 **Name:** 
  
-:	[EN] M-Pesa 
-:	[RU] M-Pesa 
-:	[UK] M-Pesa 
+:	[EN] Tigo 
+:	[RU] Tigo 
+:	[UK] Tigo 
  
 **Amount limits:** from `1` to `13200000` KES 
 
@@ -72,9 +72,9 @@
 
 ```json
 {
-  "code":"m_pesa_kes_invoice",
+  "code":"tigo_kes_invoice",
   "flow":"invoice",
-  "method":"m_pesa",
+  "method":"tigo",
   "currency":"KES",
   "fields":[
     {

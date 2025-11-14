@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _AirtelTig
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
+|![startbutton](https://static.openfintech.io/payment_providers/startbutton/icon.png?w=278&c=v0.59.26#w100) |[Startbutton](/payment-providers/startbutton/)|`startbutton`| 
  
 
 ## JSON Object 

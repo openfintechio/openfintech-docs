@@ -1,23 +1,23 @@
 
-# M-Pesa (service) 
-![m_pesa_kes_invoice](https://static.openfintech.io/payment_methods/m_pesa_kes_invoice/logo.svg?w=400&c=v0.59.26#w200)  
+# AT Ghana (service) 
+![airteltigo_ghs_invoice](https://static.openfintech.io/payment_methods/airteltigo_ghs_invoice/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `m_pesa_kes_invoice` 
+**Code:** `airteltigo_ghs_invoice` 
  
-**Method:** `m_pesa` 
- [show -->](/payment-methods/m_pesa/) 
+**Method:** `airteltigo` 
+ [show -->](/payment-methods/airteltigo/) 
  
-**Currency:** `KES` [show -->](/currencies/KES/) 
+**Currency:** `GHS` [show -->](/currencies/GHS/) 
  
 **Name:** 
  
-:	[EN] M-Pesa 
-:	[RU] M-Pesa 
-:	[UK] M-Pesa 
+:	[EN] AT Ghana 
+:	[RU] AT Ghana 
+:	[UK] AT Ghana 
  
-**Amount limits:** from `1` to `13200000` KES 
+**Amount limits:** from `0.1` to `1090000` GHS 
 
 ## Fields 
 
@@ -72,10 +72,10 @@
 
 ```json
 {
-  "code":"m_pesa_kes_invoice",
+  "code":"airteltigo_ghs_invoice",
   "flow":"invoice",
-  "method":"m_pesa",
-  "currency":"KES",
+  "method":"airteltigo",
+  "currency":"GHS",
   "fields":[
     {
       "key":"phone",
@@ -113,7 +113,7 @@
       }
     }
   ],
-  "amount_min":1,
-  "amount_max":13200000
+  "amount_min":0.1,
+  "amount_max":1090000
 }
 ```  
