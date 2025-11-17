@@ -650,7 +650,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![paynearme](https://static.openfintech.io/payment_providers/paynearme/icon.svg?w=278&c=v0.59.26#w100) |[PayNearMe](/payment-providers/paynearme/)|`paynearme`| 
 |![payon](https://static.openfintech.io/payment_providers/payon/icon.png?w=278&c=v0.59.26#w100) |[ACI Worldwide](/payment-providers/payon/)|`payon`| 
 |![cashix](https://static.openfintech.io/payment_providers/cashix/icon.png?w=278&c=v0.59.26#w100) |[Cashix](/payment-providers/cashix/)|`cashix`| 
-|![paytech](https://static.openfintech.io/payment_providers/paytech/icon.png?w=278&c=v0.59.26#w100) |[paytech](/payment-providers/paytech/)|`paytech`| 
+|![creditumnew](https://static.openfintech.io/payment_providers/creditumnew/icon.png?w=278&c=v0.59.26#w100) |[Creditum (new)](/payment-providers/creditumnew/)|`creditumnew`| 
 |![kalemoney](https://static.openfintech.io/payment_providers/kalemoney/icon.svg?w=278&c=v0.59.26#w100) |[Kale](/payment-providers/kalemoney/)|`kalemoney`| 
 |![okto](https://static.openfintech.io/payment_providers/okto/icon.png?w=278&c=v0.59.26#w100) |[OKTO](/payment-providers/okto/)|`okto`| 
 |![d8](https://static.openfintech.io/payment_providers/d8/icon.png?w=278&c=v0.59.26#w100) |[D8 Corporation](/payment-providers/d8/)|`d8`| 

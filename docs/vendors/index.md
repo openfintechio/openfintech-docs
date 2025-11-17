@@ -556,6 +556,7 @@
 |![creditagricole](https://static.openfintech.io/vendors/creditagricole/logo.png?w=600&c=v0.59.26#w200) |[**Crédit Agricole**](creditagricole/)|`creditagricole`| 
 |![creditcall](https://static.openfintech.io/vendors/creditcall/logo.png?w=600&c=v0.59.26#w200) |[**Creditcall**](creditcall/)|`creditcall`| 
 |![creditum](https://static.openfintech.io/vendors/creditum/logo.png?w=600&c=v0.59.26#w200) |[**Creditum**](creditum/)|`creditum`| 
+|![creditumnew](https://static.openfintech.io/vendors/creditumnew/logo.svg?w=600&c=v0.59.26#w200) |[**Creditum (new)**](creditumnew/)|`creditumnew`| 
 |![credorax](https://static.openfintech.io/vendors/credorax/logo.png?w=600&c=v0.59.26#w200) |[**Credorax**](credorax/)|`credorax`| 
 |![creedo](https://static.openfintech.io/vendors/creedo/logo.png?w=600&c=v0.59.26#w200) |[**Creedo.Capital**](creedo/)|`creedo`| 
 |![crosspay](https://static.openfintech.io/vendors/crosspay/logo.png?w=600&c=v0.59.26#w200) |[**CrossPay**](crosspay/)|`crosspay`| 
@@ -1759,7 +1760,6 @@
 |![paysure](https://static.openfintech.io/vendors/paysure/logo.png?w=600&c=v0.59.26#w200) |[**Paysure**](paysure/)|`paysure`| 
 |![payswiftly](https://static.openfintech.io/vendors/payswiftly/logo.png?w=600&c=v0.59.26#w200) |[**Payswiftly**](payswiftly/)|`payswiftly`| 
 |![paytabs](https://static.openfintech.io/vendors/paytabs/logo.png?w=600&c=v0.59.26#w200) |[**PayTabs**](paytabs/)|`paytabs`| 
-|![paytech](https://static.openfintech.io/vendors/paytech/logo.png?w=600&c=v0.59.26#w200) |[**paytech**](paytech/)|`paytech`| 
 |![paytend](https://static.openfintech.io/vendors/paytend/logo.png?w=600&c=v0.59.26#w200) |[**Paytend**](paytend/)|`paytend`| 
 |![paytently](https://static.openfintech.io/vendors/paytently/logo.svg?w=600&c=v0.59.26#w200) |[**Paytently**](paytently/)|`paytently`| 
 |![paytiencecc](https://static.openfintech.io/vendors/paytiencecc/logo.png?w=600&c=v0.59.26#w200) |[**Paytience.cc**](paytiencecc/)|`paytiencecc`| 
