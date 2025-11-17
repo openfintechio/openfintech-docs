@@ -34,6 +34,7 @@ The list of [Payout Services](/payout-services/) based on the _AirtelTigo_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![airteltigo](https://static.openfintech.io/payout_methods/airteltigo/icon.svg?w=278&c=v0.59.26#w40) |[airteltigo_ugx](/payout-services/airteltigo_ugx/)|`airteltigo_ugx`| 
 |![airteltigo](https://static.openfintech.io/payout_methods/airteltigo/icon.svg?w=278&c=v0.59.26#w40) |[airteltigo_rwf](/payout-services/airteltigo_rwf/)|`airteltigo_rwf`| 
 |![airteltigo](https://static.openfintech.io/payout_methods/airteltigo/icon.svg?w=278&c=v0.59.26#w40) |[airteltigo_ghs](/payout-services/airteltigo_ghs/)|`airteltigo_ghs`| 
  

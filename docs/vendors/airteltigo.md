@@ -1,5 +1,5 @@
 
-# AT Ghana 
+# Airteltigo 
 ![airteltigo](https://static.openfintech.io/vendors/airteltigo/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] AT Ghana 
-:	[RU] AT Ghana 
-:	[UK] AT Ghana 
+:	[EN] Airteltigo 
+:	[RU] Airteltigo 
+:	[UK] Airteltigo 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/airteltigo/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"airteltigo",
   "name":{
-    "en":"AT Ghana",
-    "ru":"AT Ghana",
-    "uk":"AT Ghana"
+    "en":"Airteltigo",
+    "ru":"Airteltigo",
+    "uk":"Airteltigo"
   },
   "status":"active",
   "description":null,
