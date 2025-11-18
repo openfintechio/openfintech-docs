@@ -53,6 +53,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Multibanc
 |![spoynt](https://static.openfintech.io/payment_providers/spoynt/icon.svg?w=278&c=v0.59.26#w100) |[Spoynt](/payment-providers/spoynt/)|`spoynt`| 
 |![paysage](https://static.openfintech.io/payment_providers/paysage/icon.png?w=278&c=v0.59.26#w100) |[COLIBRIX](/payment-providers/paysage/)|`paysage`| 
 |![impaya](https://static.openfintech.io/payment_providers/impaya/icon.png?w=278&c=v0.59.26#w100) |[Impaya](/payment-providers/impaya/)|`impaya`| 
+|![pionpay](https://static.openfintech.io/payment_providers/pionpay/icon.png?w=278&c=v0.59.26#w100) |[PionPay](/payment-providers/pionpay/)|`pionpay`| 
 |![katarun](https://static.openfintech.io/payment_providers/katarun/icon.png?w=278&c=v0.59.26#w100) |[Katarun](/payment-providers/katarun/)|`katarun`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
 |![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 

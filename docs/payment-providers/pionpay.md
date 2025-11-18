@@ -40,6 +40,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
+|![multibanco](https://static.openfintech.io/payment_methods/multibanco/icon.png?w=278&c=v0.59.26#w100) |[multibanco](/payment-methods/multibanco/)|`multibanco`| 
  
 
 ## JSON Object 
@@ -52,7 +53,8 @@ The list of supported [Payment Methods](/payment-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    "payment_card"
+    "payment_card",
+    "multibanco"
   ],
   "payout_method":null,
   "metadata":null,
