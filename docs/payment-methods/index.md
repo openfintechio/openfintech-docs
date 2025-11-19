@@ -32,6 +32,8 @@
 |![agri_bank](https://static.openfintech.io/payment_methods/agri_bank/logo.png?w=400&c=v0.59.26#w200) |[**Vietnam Bank for Agriculture and Rural Development**](agri_bank/)|`agri_bank`| 
 |![agricultural_bank_of_china](https://static.openfintech.io/payment_methods/agricultural_bank_of_china/logo.svg?w=400&c=v0.59.26#w200) |[**Agricultural Bank of China**](agricultural_bank_of_china/)|`agricultural_bank_of_china`| 
 |![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/logo.png?w=400&c=v0.59.26#w200) |[**Airtel money**](airtel_money/)|`airtel_money`| 
+|![airtel_money_cog](https://static.openfintech.io/payment_methods/airtel_money_cog/logo.svg?w=400&c=v0.59.26#w200) |[**Airtel money COG**](airtel_money_cog/)|`airtel_money_cog`| 
+|![airtel_money_gab](https://static.openfintech.io/payment_methods/airtel_money_gab/logo.svg?w=400&c=v0.59.26#w200) |[**Airtel money GAB**](airtel_money_gab/)|`airtel_money_gab`| 
 |![airteltigo](https://static.openfintech.io/payment_methods/airteltigo/logo.png?w=400&c=v0.59.26#w200) |[**AT Ghana**](airteltigo/)|`airteltigo`| 
 |![akbank](https://static.openfintech.io/payment_methods/akbank/logo.svg?w=400&c=v0.59.26#w200) |[**Akbank**](akbank/)|`akbank`| 
 |![aktia](https://static.openfintech.io/payment_methods/aktia/logo.png?w=400&c=v0.59.26#w200) |[**Aktia**](aktia/)|`aktia`| 
@@ -650,6 +652,8 @@
 |![oppohjola](https://static.openfintech.io/payment_methods/oppohjola/logo.png?w=400&c=v0.59.26#w200) |[**OP-Pohjola**](oppohjola/)|`oppohjola`| 
 |![orange_cash](https://static.openfintech.io/payment_methods/orange_cash/logo.png?w=400&c=v0.59.26#w200) |[**Orange cash**](orange_cash/)|`orange_cash`| 
 |![orange_money](https://static.openfintech.io/payment_methods/orange_money/logo.png?w=400&c=v0.59.26#w200) |[**Orange Money**](orange_money/)|`orange_money`| 
+|![orange_money_civ](https://static.openfintech.io/payment_methods/orange_money_civ/logo.svg?w=400&c=v0.59.26#w200) |[**Orange Money**](orange_money_civ/)|`orange_money_civ`| 
+|![orange_money_sen](https://static.openfintech.io/payment_methods/orange_money_sen/logo.svg?w=400&c=v0.59.26#w200) |[**Orange Money**](orange_money_sen/)|`orange_money_sen`| 
 |![oriental_bank_of_commerce](https://static.openfintech.io/payment_methods/oriental_bank_of_commerce/logo.png?w=400&c=v0.59.26#w200) |[**Oriental Bank Of Commerce**](oriental_bank_of_commerce/)|`oriental_bank_of_commerce`| 
 |![oriental_wallet](https://static.openfintech.io/payment_methods/oriental_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**Oriental Wallet**](oriental_wallet/)|`oriental_wallet`| 
 |![osuuspankki](https://static.openfintech.io/payment_methods/osuuspankki/logo.png?w=400&c=v0.59.26#w200) |[**Osuuspankki**](osuuspankki/)|`osuuspankki`| 

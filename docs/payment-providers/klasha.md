@@ -58,6 +58,10 @@ The list of supported [Payment Methods](/payment-methods/)
 |![orange_money](https://static.openfintech.io/payment_methods/orange_money/icon.png?w=278&c=v0.59.26#w100) |[orange_money](/payment-methods/orange_money/)|`orange_money`| 
 |![tnm](https://static.openfintech.io/payment_methods/tnm/icon.svg?w=278&c=v0.59.26#w100) |[tnm](/payment-methods/tnm/)|`tnm`| 
 |![free_money](https://static.openfintech.io/payment_methods/free_money/icon.svg?w=278&c=v0.59.26#w100) |[free_money](/payment-methods/free_money/)|`free_money`| 
+|![orange_money_civ](https://static.openfintech.io/payment_methods/orange_money_civ/icon.svg?w=278&c=v0.59.26#w100) |[orange_money_civ](/payment-methods/orange_money_civ/)|`orange_money_civ`| 
+|![orange_money_sen](https://static.openfintech.io/payment_methods/orange_money_sen/icon.svg?w=278&c=v0.59.26#w100) |[orange_money_sen](/payment-methods/orange_money_sen/)|`orange_money_sen`| 
+|![airtel_money_cog](https://static.openfintech.io/payment_methods/airtel_money_cog/icon.svg?w=278&c=v0.59.26#w100) |[airtel_money_cog](/payment-methods/airtel_money_cog/)|`airtel_money_cog`| 
+|![airtel_money_gab](https://static.openfintech.io/payment_methods/airtel_money_gab/icon.svg?w=278&c=v0.59.26#w100) |[airtel_money_gab](/payment-methods/airtel_money_gab/)|`airtel_money_gab`| 
  
 
 ## Payout Methods 
@@ -144,7 +148,11 @@ The list of supported [Payout Methods](/payout-methods/)
     "wave",
     "orange_money",
     "tnm",
-    "free_money"
+    "free_money",
+    "orange_money_civ",
+    "orange_money_sen",
+    "airtel_money_cog",
+    "airtel_money_gab"
   ],
   "payout_method":[
     "zenith_bank",
