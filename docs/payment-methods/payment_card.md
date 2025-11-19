@@ -672,6 +672,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![smashpay](https://static.openfintech.io/payment_providers/smashpay/icon.png?w=278&c=v0.59.26#w100) |[SmashPay](/payment-providers/smashpay/)|`smashpay`| 
 |![avepay](https://static.openfintech.io/payment_providers/avepay/icon.png?w=278&c=v0.59.26#w100) |[AvePay](/payment-providers/avepay/)|`avepay`| 
 |![trezuz](https://static.openfintech.io/payment_providers/trezuz/icon.png?w=278&c=v0.59.26#w100) |[Trezuz](/payment-providers/trezuz/)|`trezuz`| 
+|![paytorean](https://static.openfintech.io/payment_providers/paytorean/icon.png?w=278&c=v0.59.26#w100) |[Paytorean](/payment-providers/paytorean/)|`paytorean`| 
  
 
 ## JSON Object 

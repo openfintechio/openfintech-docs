@@ -1774,6 +1774,7 @@
 |![paytoneio](https://static.openfintech.io/vendors/paytoneio/logo.svg?w=600&c=v0.59.26#w200) |[**Paytone.io**](paytoneio/)|`paytoneio`| 
 |![paytony](https://static.openfintech.io/vendors/paytony/logo.svg?w=600&c=v0.59.26#w200) |[**Paytony**](paytony/)|`paytony`| 
 |![paytorapayment](https://static.openfintech.io/vendors/paytorapayment/logo.png?w=600&c=v0.59.26#w200) |[**Paytora**](paytorapayment/)|`paytorapayment`| 
+|![paytorean](https://static.openfintech.io/vendors/paytorean/logo.png?w=600&c=v0.59.26#w200) |[**Paytorean**](paytorean/)|`paytorean`| 
 |![paytpv](https://static.openfintech.io/vendors/paytpv/logo.png?w=600&c=v0.59.26#w200) |[**PAYTPV**](paytpv/)|`paytpv`| 
 |![paytrail](https://static.openfintech.io/vendors/paytrail/logo.png?w=600&c=v0.59.26#w200) |[**Paytrail**](paytrail/)|`paytrail`| 
 |![paytrek](https://static.openfintech.io/vendors/paytrek/logo.png?w=600&c=v0.59.26#w200) |[**Paytrek**](paytrek/)|`paytrek`| 
