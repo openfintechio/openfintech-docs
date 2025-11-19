@@ -667,6 +667,7 @@
 |![USDCBEP20](https://static.openfintech.io/currencies/USDCBEP20/icon.svg?w=278&c=v0.59.26#w100) |[**USDCBEP20**](USDCBEP20/)|`USDCBEP20`| 
 |![USDCERC20](https://static.openfintech.io/currencies/USDCERC20/icon.svg?w=278&c=v0.59.26#w100) |[**USDCERC20**](USDCERC20/)|`USDCERC20`| 
 |![USDCTRC20](https://static.openfintech.io/currencies/USDCTRC20/icon.svg?w=278&c=v0.59.26#w100) |[**USDCTRC20**](USDCTRC20/)|`USDCTRC20`| 
+|![USDG](https://static.openfintech.io/currencies/USDG/icon.svg?w=278&c=v0.59.26#w100) |[**USDG**](USDG/)|`USDG`| 
 |![USDT](https://static.openfintech.io/currencies/USDT/icon.svg?w=278&c=v0.59.26#w100) |[**USDT**](USDT/)|`USDT`| 
 |![USDTBEP20](https://static.openfintech.io/currencies/USDTBEP20/icon.svg?w=278&c=v0.59.26#w100) |[**USDTBEP20**](USDTBEP20/)|`USDTBEP20`| 
 |![USDTERC20](https://static.openfintech.io/currencies/USDTERC20/icon.svg?w=278&c=v0.59.26#w100) |[**USDTERC20**](USDTERC20/)|`USDTERC20`| 
