@@ -2449,6 +2449,7 @@
 |![wmtocash](https://static.openfintech.io/vendors/wmtocash/logo.svg?w=600&c=v0.59.26#w200) |[**WMToCash**](wmtocash/)|`wmtocash`| 
 |![worldchange.ru](https://static.openfintech.io/vendors/worldchange.ru/logo.svg?w=600&c=v0.59.26#w200) |[**WorldChange**](worldchange.ru/)|`worldchange.ru`| 
 |![worldcore](https://static.openfintech.io/vendors/worldcore/logo.svg?w=600&c=v0.59.26#w200) |[**Worldcore**](worldcore/)|`worldcore`| 
+|![worldline](https://static.openfintech.io/vendors/worldline/logo.svg?w=600&c=v0.59.26#w200) |[**Worldline**](worldline/)|`worldline`| 
 |![worldpay](https://static.openfintech.io/vendors/worldpay/logo.svg?w=600&c=v0.59.26#w200) |[**Worldpay**](worldpay/)|`worldpay`| 
 |![wpay](https://static.openfintech.io/vendors/wpay/logo.png?w=600&c=v0.59.26#w200) |[**Wpay**](wpay/)|`wpay`| 
 |![wpayments](https://static.openfintech.io/vendors/wpayments/logo.png?w=600&c=v0.59.26#w200) |[**WPayments**](wpayments/)|`wpayments`| 

@@ -1127,6 +1127,7 @@
 |![wirecapital](https://static.openfintech.io/payment_providers/wirecapital/logo.svg?w=600&c=v0.59.26#w100) |[**Wirecapital**](wirecapital/)|`wirecapital`| 
 |![wirecard](https://static.openfintech.io/payment_providers/wirecard/logo.svg?w=600&c=v0.59.26#w100) |[**Wirecard**](wirecard/)|`wirecard`| 
 |![wlandpay](https://static.openfintech.io/payment_providers/wlandpay/logo.png?w=600&c=v0.59.26#w100) |[**Wonderlandpay**](wlandpay/)|`wlandpay`| 
+|![worldline](https://static.openfintech.io/payment_providers/worldline/logo.svg?w=600&c=v0.59.26#w100) |[**Worldline**](worldline/)|`worldline`| 
 |![worldpay](https://static.openfintech.io/payment_providers/worldpay/logo.svg?w=600&c=v0.59.26#w100) |[**Worldpay**](worldpay/)|`worldpay`| 
 |![wpay](https://static.openfintech.io/payment_providers/wpay/logo.png?w=600&c=v0.59.26#w100) |[**Wpay**](wpay/)|`wpay`| 
 |![wpayments](https://static.openfintech.io/payment_providers/wpayments/logo.png?w=600&c=v0.59.26#w100) |[**WPayments**](wpayments/)|`wpayments`| 

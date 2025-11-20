@@ -187,6 +187,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![cngpro](https://static.openfintech.io/payment_providers/cngpro/icon.png?w=278&c=v0.59.26#w100) |[CNG Pro](/payment-providers/cngpro/)|`cngpro`| 
 |![paygol](https://static.openfintech.io/payment_providers/paygol/icon.png?w=278&c=v0.59.26#w100) |[PayGol](/payment-providers/paygol/)|`paygol`| 
 |![payhub](https://static.openfintech.io/payment_providers/payhub/icon.svg?w=278&c=v0.59.26#w100) |[PayHub](/payment-providers/payhub/)|`payhub`| 
+|![worldline](https://static.openfintech.io/payment_providers/worldline/icon.svg?w=278&c=v0.59.26#w100) |[Worldline](/payment-providers/worldline/)|`worldline`| 
 |![stripe](https://static.openfintech.io/payment_providers/stripe/icon.svg?w=278&c=v0.59.26#w100) |[Stripe](/payment-providers/stripe/)|`stripe`| 
 |![commercegate](https://static.openfintech.io/payment_providers/commercegate/icon.svg?w=278&c=v0.59.26#w100) |[CommerceGate](/payment-providers/commercegate/)|`commercegate`| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
