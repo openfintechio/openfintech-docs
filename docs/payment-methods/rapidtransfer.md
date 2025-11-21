@@ -46,6 +46,10 @@ The list of [Payment Services](/payment-services/) based on the _Rapid Transfer_
 |:---:|:---:|:---:| 
 |![rapidtransfer](https://static.openfintech.io/payment_methods/rapidtransfer/icon.png?w=278&c=v0.59.26#w100) |[rapidtransfer_eur_hpp](/payment-services/rapidtransfer_eur_hpp/)|`rapidtransfer_eur_hpp`| 
 |![rapidtransfer](https://static.openfintech.io/payment_methods/rapidtransfer/icon.png?w=278&c=v0.59.26#w100) |[rapidtransfer_usd_hpp](/payment-services/rapidtransfer_usd_hpp/)|`rapidtransfer_usd_hpp`| 
+|![rapidtransfer](https://static.openfintech.io/payment_methods/rapidtransfer/icon.png?w=278&c=v0.59.26#w100) |[rapidtransfer_pln_hpp](/payment-services/rapidtransfer_pln_hpp/)|`rapidtransfer_pln_hpp`| 
+|![rapidtransfer](https://static.openfintech.io/payment_methods/rapidtransfer/icon.png?w=278&c=v0.59.26#w100) |[rapidtransfer_nok_hpp](/payment-services/rapidtransfer_nok_hpp/)|`rapidtransfer_nok_hpp`| 
+|![rapidtransfer](https://static.openfintech.io/payment_methods/rapidtransfer/icon.png?w=278&c=v0.59.26#w100) |[rapidtransfer_aud_hpp](/payment-services/rapidtransfer_aud_hpp/)|`rapidtransfer_aud_hpp`| 
+|![rapidtransfer](https://static.openfintech.io/payment_methods/rapidtransfer/icon.png?w=278&c=v0.59.26#w100) |[rapidtransfer_cad_hpp](/payment-services/rapidtransfer_cad_hpp/)|`rapidtransfer_cad_hpp`| 
  
 
 ## Payment Providers 

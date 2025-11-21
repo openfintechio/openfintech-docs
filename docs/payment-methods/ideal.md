@@ -44,6 +44,10 @@ The list of [Payment Services](/payment-services/) based on the _iDEAL_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![ideal](https://static.openfintech.io/payment_methods/ideal/icon.svg?w=278&c=v0.59.26#w100) |[ideal_eur_hpp](/payment-services/ideal_eur_hpp/)|`ideal_eur_hpp`| 
+|![ideal](https://static.openfintech.io/payment_methods/ideal/icon.svg?w=278&c=v0.59.26#w100) |[ideal_nok_hpp](/payment-services/ideal_nok_hpp/)|`ideal_nok_hpp`| 
+|![ideal](https://static.openfintech.io/payment_methods/ideal/icon.svg?w=278&c=v0.59.26#w100) |[ideal_pln_hpp](/payment-services/ideal_pln_hpp/)|`ideal_pln_hpp`| 
+|![ideal](https://static.openfintech.io/payment_methods/ideal/icon.svg?w=278&c=v0.59.26#w100) |[ideal_aud_hpp](/payment-services/ideal_aud_hpp/)|`ideal_aud_hpp`| 
+|![ideal](https://static.openfintech.io/payment_methods/ideal/icon.svg?w=278&c=v0.59.26#w100) |[ideal_cad_hpp](/payment-services/ideal_cad_hpp/)|`ideal_cad_hpp`| 
  
 
 ## Payment Providers 

@@ -44,6 +44,8 @@ The list of [Payment Services](/payment-services/) based on the _Skrill Wallet_
 |![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill_gbp_hpp](/payment-services/skrill_gbp_hpp/)|`skrill_gbp_hpp`| 
 |![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill_pln_hpp](/payment-services/skrill_pln_hpp/)|`skrill_pln_hpp`| 
 |![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill_chf_hpp](/payment-services/skrill_chf_hpp/)|`skrill_chf_hpp`| 
+|![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill_cad_hpp](/payment-services/skrill_cad_hpp/)|`skrill_cad_hpp`| 
+|![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill_nok_hpp](/payment-services/skrill_nok_hpp/)|`skrill_nok_hpp`| 
 |![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill_usd_hpp](/payment-services/skrill_usd_hpp/)|`skrill_usd_hpp`| 
 |![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill_thb_hpp](/payment-services/skrill_thb_hpp/)|`skrill_thb_hpp`| 
 |![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill_myr_hpp](/payment-services/skrill_myr_hpp/)|`skrill_myr_hpp`| 

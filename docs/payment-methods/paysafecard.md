@@ -47,6 +47,8 @@ The list of [Payment Services](/payment-services/) based on the _Paysafecard_
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard_eur_hpp](/payment-services/paysafecard_eur_hpp/)|`paysafecard_eur_hpp`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard_gbp_hpp](/payment-services/paysafecard_gbp_hpp/)|`paysafecard_gbp_hpp`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard_chf_hpp](/payment-services/paysafecard_chf_hpp/)|`paysafecard_chf_hpp`| 
+|![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard_cad_hpp](/payment-services/paysafecard_cad_hpp/)|`paysafecard_cad_hpp`| 
+|![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard_aud_hpp](/payment-services/paysafecard_aud_hpp/)|`paysafecard_aud_hpp`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard_bgn_hpp](/payment-services/paysafecard_bgn_hpp/)|`paysafecard_bgn_hpp`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard_czk_hpp](/payment-services/paysafecard_czk_hpp/)|`paysafecard_czk_hpp`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard_dkk_hpp](/payment-services/paysafecard_dkk_hpp/)|`paysafecard_dkk_hpp`| 

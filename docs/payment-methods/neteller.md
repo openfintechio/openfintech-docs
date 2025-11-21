@@ -55,6 +55,8 @@ The list of [Payment Services](/payment-services/) based on the _NETELLER_
 |![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_aed_hpp](/payment-services/neteller_aed_hpp/)|`neteller_aed_hpp`| 
 |![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_aud_hpp](/payment-services/neteller_aud_hpp/)|`neteller_aud_hpp`| 
 |![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_nzd_hpp](/payment-services/neteller_nzd_hpp/)|`neteller_nzd_hpp`| 
+|![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_nok_hpp](/payment-services/neteller_nok_hpp/)|`neteller_nok_hpp`| 
+|![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_cad_hpp](/payment-services/neteller_cad_hpp/)|`neteller_cad_hpp`| 
  
 
 ## Payment Providers 

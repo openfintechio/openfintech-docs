@@ -907,8 +907,12 @@
 |![ICBC](https://static.openfintech.io/payment_methods/icbc/logo.png?w=400&c=v0.59.26#w200) |[**ICBC**](/payment-methods/icbc/)|[`icbc_ars_hpp`](icbc_ars_hpp/)| 
 |![ICICI Bank](https://static.openfintech.io/payment_methods/icici_bank/logo.svg?w=400&c=v0.59.26#w200) |[**ICICI Bank**](/payment-methods/icici_bank/)|[`icici_bank_inr_hpp`](icici_bank_inr_hpp/)| 
 |![IDBI Bank Ltd](https://static.openfintech.io/payment_methods/idbi_bank/logo.svg?w=400&c=v0.59.26#w200) |[**IDBI Bank Ltd**](/payment-methods/idbi_bank/)|[`idbi_bank_inr_hpp`](idbi_bank_inr_hpp/)| 
+|![iDEAL](https://static.openfintech.io/payment_methods/ideal/logo.svg?w=400&c=v0.59.26#w200) |[**iDEAL**](/payment-methods/ideal/)|[`ideal_aud_hpp`](ideal_aud_hpp/)| 
+|![iDEAL](https://static.openfintech.io/payment_methods/ideal/logo.svg?w=400&c=v0.59.26#w200) |[**iDEAL**](/payment-methods/ideal/)|[`ideal_cad_hpp`](ideal_cad_hpp/)| 
 |![iDEAL](https://static.openfintech.io/payment_methods/ideal_crypto/logo.svg?w=400&c=v0.59.26#w200) |[**iDEAL**](/payment-methods/ideal_crypto/)|[`ideal_crypto_eur_hpp`](ideal_crypto_eur_hpp/)| 
 |![iDEAL](https://static.openfintech.io/payment_methods/ideal/logo.svg?w=400&c=v0.59.26#w200) |[**iDEAL**](/payment-methods/ideal/)|[`ideal_eur_hpp`](ideal_eur_hpp/)| 
+|![iDEAL](https://static.openfintech.io/payment_methods/ideal/logo.svg?w=400&c=v0.59.26#w200) |[**iDEAL**](/payment-methods/ideal/)|[`ideal_nok_hpp`](ideal_nok_hpp/)| 
+|![iDEAL](https://static.openfintech.io/payment_methods/ideal/logo.svg?w=400&c=v0.59.26#w200) |[**iDEAL**](/payment-methods/ideal/)|[`ideal_pln_hpp`](ideal_pln_hpp/)| 
 |![IDFC BANK](https://static.openfintech.io/payment_methods/idfc_bank_india/logo.svg?w=400&c=v0.59.26#w200) |[**IDFC BANK**](/payment-methods/idfc_bank_india/)|[`idfc_bank_india_inr_hpp`](idfc_bank_india_inr_hpp/)| 
 |![Imepay](https://static.openfintech.io/payment_methods/imepay/logo.svg?w=400&c=v0.59.26#w200) |[**Imepay**](/payment-methods/imepay/)|[`imepay_npr_hpp`](imepay_npr_hpp/)| 
 |![IMPS](https://static.openfintech.io/payment_methods/imps/logo.png?w=400&c=v0.59.26#w200) |[**IMPS**](/payment-methods/imps/)|[`imps_inr_hpp`](imps_inr_hpp/)| 
@@ -1223,12 +1227,14 @@
 |![NETELLER](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](/payment-methods/neteller/)|[`neteller_aud_hpp`](neteller_aud_hpp/)| 
 |![NETELLER](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](/payment-methods/neteller/)|[`neteller_azn_hpp`](neteller_azn_hpp/)| 
 |![NETELLER](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](/payment-methods/neteller/)|[`neteller_brl_hpp`](neteller_brl_hpp/)| 
+|![NETELLER](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](/payment-methods/neteller/)|[`neteller_cad_hpp`](neteller_cad_hpp/)| 
 |![NETELLER](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](/payment-methods/neteller/)|[`neteller_eur_hpp`](neteller_eur_hpp/)| 
 |![NETELLER](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](/payment-methods/neteller/)|[`neteller_inr_hpp`](neteller_inr_hpp/)| 
 |![NETELLER](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](/payment-methods/neteller/)|[`neteller_mdl_hpp`](neteller_mdl_hpp/)| 
 |![NETELLER](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](/payment-methods/neteller/)|[`neteller_mxn_hpp`](neteller_mxn_hpp/)| 
 |![NETELLER](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](/payment-methods/neteller/)|[`neteller_myr_hpp`](neteller_myr_hpp/)| 
 |![NETELLER](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](/payment-methods/neteller/)|[`neteller_ngn_hpp`](neteller_ngn_hpp/)| 
+|![NETELLER](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](/payment-methods/neteller/)|[`neteller_nok_hpp`](neteller_nok_hpp/)| 
 |![NETELLER](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](/payment-methods/neteller/)|[`neteller_nzd_hpp`](neteller_nzd_hpp/)| 
 |![NETELLER](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](/payment-methods/neteller/)|[`neteller_pkr_hpp`](neteller_pkr_hpp/)| 
 |![NETELLER](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](/payment-methods/neteller/)|[`neteller_pln_hpp`](neteller_pln_hpp/)| 
@@ -1517,7 +1523,9 @@
 |![PayPay](https://static.openfintech.io/payment_methods/paypay/logo.png?w=400&c=v0.59.26#w200) |[**PayPay**](/payment-methods/paypay/)|[`paypay_jpy_hpp`](paypay_jpy_hpp/)| 
 |![PayPay](https://static.openfintech.io/payment_methods/paypay/logo.png?w=400&c=v0.59.26#w200) |[**PayPay**](/payment-methods/paypay/)|[`paypay_usd_hpp`](paypay_usd_hpp/)| 
 |![Payphone](https://static.openfintech.io/payment_methods/payphone/logo.svg?w=400&c=v0.59.26#w200) |[**Payphone**](/payment-methods/payphone/)|[`payphone_usd_hpp`](payphone_usd_hpp/)| 
+|![Paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](/payment-methods/paysafecard/)|[`paysafecard_aud_hpp`](paysafecard_aud_hpp/)| 
 |![Paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](/payment-methods/paysafecard/)|[`paysafecard_bgn_hpp`](paysafecard_bgn_hpp/)| 
+|![Paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](/payment-methods/paysafecard/)|[`paysafecard_cad_hpp`](paysafecard_cad_hpp/)| 
 |![Paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](/payment-methods/paysafecard/)|[`paysafecard_chf_hpp`](paysafecard_chf_hpp/)| 
 |![Paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](/payment-methods/paysafecard/)|[`paysafecard_czk_hpp`](paysafecard_czk_hpp/)| 
 |![Paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](/payment-methods/paysafecard/)|[`paysafecard_dkk_hpp`](paysafecard_dkk_hpp/)| 
@@ -1642,7 +1650,11 @@
 |![RAGGETT LIMITED Paycos](https://static.openfintech.io/payment_methods/raggett_limited_paycos/logo.svg?w=400&c=v0.59.26#w200) |[**RAGGETT LIMITED Paycos**](/payment-methods/raggett_limited_paycos/)|[`raggett_limited_paycos_eur_hpp`](raggett_limited_paycos_eur_hpp/)| 
 |![RAGGETT LIMITED Paycos](https://static.openfintech.io/payment_methods/raggett_limited_paycos/logo.svg?w=400&c=v0.59.26#w200) |[**RAGGETT LIMITED Paycos**](/payment-methods/raggett_limited_paycos/)|[`raggett_limited_paycos_usd_hpp`](raggett_limited_paycos_usd_hpp/)| 
 |![RapidPagos](https://static.openfintech.io/payment_methods/rapidpagos/logo.svg?w=400&c=v0.59.26#w200) |[**RapidPagos**](/payment-methods/rapidpagos/)|[`rapidpagos_bob_hpp`](rapidpagos_bob_hpp/)| 
+|![Rapid Transfer](https://static.openfintech.io/payment_methods/rapidtransfer/logo.png?w=400&c=v0.59.26#w200) |[**Rapid Transfer**](/payment-methods/rapidtransfer/)|[`rapidtransfer_aud_hpp`](rapidtransfer_aud_hpp/)| 
+|![Rapid Transfer](https://static.openfintech.io/payment_methods/rapidtransfer/logo.png?w=400&c=v0.59.26#w200) |[**Rapid Transfer**](/payment-methods/rapidtransfer/)|[`rapidtransfer_cad_hpp`](rapidtransfer_cad_hpp/)| 
 |![Rapid Transfer](https://static.openfintech.io/payment_methods/rapidtransfer/logo.png?w=400&c=v0.59.26#w200) |[**Rapid Transfer**](/payment-methods/rapidtransfer/)|[`rapidtransfer_eur_hpp`](rapidtransfer_eur_hpp/)| 
+|![Rapid Transfer](https://static.openfintech.io/payment_methods/rapidtransfer/logo.png?w=400&c=v0.59.26#w200) |[**Rapid Transfer**](/payment-methods/rapidtransfer/)|[`rapidtransfer_nok_hpp`](rapidtransfer_nok_hpp/)| 
+|![Rapid Transfer](https://static.openfintech.io/payment_methods/rapidtransfer/logo.png?w=400&c=v0.59.26#w200) |[**Rapid Transfer**](/payment-methods/rapidtransfer/)|[`rapidtransfer_pln_hpp`](rapidtransfer_pln_hpp/)| 
 |![Rapid Transfer](https://static.openfintech.io/payment_methods/rapidtransfer/logo.png?w=400&c=v0.59.26#w200) |[**Rapid Transfer**](/payment-methods/rapidtransfer/)|[`rapidtransfer_usd_hpp`](rapidtransfer_usd_hpp/)| 
 |![Rapipago](https://static.openfintech.io/payment_methods/rapipago/logo.png?w=400&c=v0.59.26#w200) |[**Rapipago**](/payment-methods/rapipago/)|[`rapipago_ars_hpp`](rapipago_ars_hpp/)| 
 |![Rapipago](https://static.openfintech.io/payment_methods/rapipago/logo.png?w=400&c=v0.59.26#w200) |[**Rapipago**](/payment-methods/rapipago/)|[`rapipago_ars_invoice`](rapipago_ars_invoice/)| 
@@ -1730,6 +1742,7 @@
 |![Skrill Wallet](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](/payment-methods/skrill/)|[`skrill_aed_hpp`](skrill_aed_hpp/)| 
 |![Skrill Wallet](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](/payment-methods/skrill/)|[`skrill_aud_hpp`](skrill_aud_hpp/)| 
 |![Skrill Wallet](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](/payment-methods/skrill/)|[`skrill_bdt_hpp`](skrill_bdt_hpp/)| 
+|![Skrill Wallet](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](/payment-methods/skrill/)|[`skrill_cad_hpp`](skrill_cad_hpp/)| 
 |![Skrill Wallet](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](/payment-methods/skrill/)|[`skrill_chf_hpp`](skrill_chf_hpp/)| 
 |![Skrill Wallet](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](/payment-methods/skrill/)|[`skrill_eur_hpp`](skrill_eur_hpp/)| 
 |![Skrill Wallet](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](/payment-methods/skrill/)|[`skrill_gbp_hpp`](skrill_gbp_hpp/)| 
@@ -1737,6 +1750,7 @@
 |![Skrill Wallet](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](/payment-methods/skrill/)|[`skrill_mdl_hpp`](skrill_mdl_hpp/)| 
 |![Skrill Wallet](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](/payment-methods/skrill/)|[`skrill_mxn_hpp`](skrill_mxn_hpp/)| 
 |![Skrill Wallet](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](/payment-methods/skrill/)|[`skrill_myr_hpp`](skrill_myr_hpp/)| 
+|![Skrill Wallet](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](/payment-methods/skrill/)|[`skrill_nok_hpp`](skrill_nok_hpp/)| 
 |![Skrill Wallet](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](/payment-methods/skrill/)|[`skrill_npr_hpp`](skrill_npr_hpp/)| 
 |![Skrill Wallet](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](/payment-methods/skrill/)|[`skrill_nzd_hpp`](skrill_nzd_hpp/)| 
 |![Skrill Wallet](https://static.openfintech.io/payment_methods/skrill/logo.svg?w=400&c=v0.59.26#w200) |[**Skrill Wallet**](/payment-methods/skrill/)|[`skrill_pln_hpp`](skrill_pln_hpp/)| 
