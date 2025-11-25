@@ -371,6 +371,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![globaltransactioncharge](https://static.openfintech.io/payment_providers/globaltransactioncharge/icon.svg?w=278&c=v0.59.26#w100) |[GlobalTransactionCharge](/payment-providers/globaltransactioncharge/)|`globaltransactioncharge`| 
 |![bzpay](https://static.openfintech.io/payment_providers/bzpay/icon.png?w=278&c=v0.59.26#w100) |[BZPAY](/payment-providers/bzpay/)|`bzpay`| 
 |![khanpay](https://static.openfintech.io/payment_providers/khanpay/icon.svg?w=278&c=v0.59.26#w100) |[KhanPay](/payment-providers/khanpay/)|`khanpay`| 
+|![paymentfarm](https://static.openfintech.io/payment_providers/paymentfarm/icon.png?w=278&c=v0.59.26#w100) |[Paymentfarm](/payment-providers/paymentfarm/)|`paymentfarm`| 
 |![procardpay](https://static.openfintech.io/payment_providers/procardpay/icon.png?w=278&c=v0.59.26#w100) |[Procard.Pay](/payment-providers/procardpay/)|`procardpay`| 
 |![axipays](https://static.openfintech.io/payment_providers/axipays/icon.png?w=278&c=v0.59.26#w100) |[Axipays](/payment-providers/axipays/)|`axipays`| 
 |![epb](https://static.openfintech.io/payment_providers/epb/icon.svg?w=278&c=v0.59.26#w100) |[Europrombank (EPB)](/payment-providers/epb/)|`epb`| 

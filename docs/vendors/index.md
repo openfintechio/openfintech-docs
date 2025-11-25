@@ -1693,6 +1693,7 @@
 |![paymentcenter](https://static.openfintech.io/vendors/paymentcenter/logo.png?w=600&c=v0.59.26#w200) |[**Payment Center**](paymentcenter/)|`paymentcenter`| 
 |![paymentexpress](https://static.openfintech.io/vendors/paymentexpress/logo.png?w=600&c=v0.59.26#w200) |[**Payment Express**](paymentexpress/)|`paymentexpress`| 
 |![paymentez](https://static.openfintech.io/vendors/paymentez/logo.png?w=600&c=v0.59.26#w200) |[**Paymentez**](paymentez/)|`paymentez`| 
+|![paymentfarm](https://static.openfintech.io/vendors/paymentfarm/logo.png?w=600&c=v0.59.26#w200) |[**Paymentfarm**](paymentfarm/)|`paymentfarm`| 
 |![paymentgarage](https://static.openfintech.io/vendors/paymentgarage/logo.png?w=600&c=v0.59.26#w200) |[**PaymentGarage**](paymentgarage/)|`paymentgarage`| 
 |![paymentgateway](https://static.openfintech.io/vendors/paymentgateway/logo.png?w=600&c=v0.59.26#w200) |[**PayGateway**](paymentgateway/)|`paymentgateway`| 
 |![paymentnetworks](https://static.openfintech.io/vendors/paymentnetworks/logo.png?w=600&c=v0.59.26#w200) |[**PaymentNetworks.com**](paymentnetworks/)|`paymentnetworks`| 

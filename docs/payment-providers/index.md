@@ -734,6 +734,7 @@
 |![paymentcenter](https://static.openfintech.io/payment_providers/paymentcenter/logo.png?w=600&c=v0.59.26#w100) |[**Payment Center**](paymentcenter/)|`paymentcenter`| 
 |![paymentexpress](https://static.openfintech.io/payment_providers/paymentexpress/logo.png?w=600&c=v0.59.26#w100) |[**Payment Express**](paymentexpress/)|`paymentexpress`| 
 |![paymentez](https://static.openfintech.io/payment_providers/paymentez/logo.png?w=600&c=v0.59.26#w100) |[**Paymentez**](paymentez/)|`paymentez`| 
+|![paymentfarm](https://static.openfintech.io/payment_providers/paymentfarm/logo.png?w=600&c=v0.59.26#w100) |[**Paymentfarm**](paymentfarm/)|`paymentfarm`| 
 |![paymentgarage](https://static.openfintech.io/payment_providers/paymentgarage/logo.png?w=600&c=v0.59.26#w100) |[**PaymentGarage**](paymentgarage/)|`paymentgarage`| 
 |![paymentgateway](https://static.openfintech.io/payment_providers/paymentgateway/logo.png?w=600&c=v0.59.26#w100) |[**PayGateway**](paymentgateway/)|`paymentgateway`| 
 |![paymento](https://static.openfintech.io/payment_providers/paymento/logo.png?w=600&c=v0.59.26#w100) |[**Paymento SA**](paymento/)|`paymento`| 
