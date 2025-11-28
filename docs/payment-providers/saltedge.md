@@ -45,6 +45,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![wise](https://static.openfintech.io/payment_methods/wise/icon.svg?w=278&c=v0.59.26#w100) |[wise](/payment-methods/wise/)|`wise`| 
 |![n26_bank](https://static.openfintech.io/payment_methods/n26_bank/icon.png?w=278&c=v0.59.26#w100) |[n26_bank](/payment-methods/n26_bank/)|`n26_bank`| 
 |![bunq](https://static.openfintech.io/payment_methods/bunq/icon.png?w=278&c=v0.59.26#w100) |[bunq](/payment-methods/bunq/)|`bunq`| 
+|![sofortuberweisung](https://static.openfintech.io/payment_methods/sofortuberweisung/icon.svg?w=278&c=v0.59.26#w100) |[sofortuberweisung](/payment-methods/sofortuberweisung/)|`sofortuberweisung`| 
  
 
 ## JSON Object 
@@ -62,7 +63,8 @@ The list of supported [Payment Methods](/payment-methods/)
     "revolut_bank",
     "wise",
     "n26_bank",
-    "bunq"
+    "bunq",
+    "sofortuberweisung"
   ],
   "payout_method":null,
   "metadata":null,

@@ -1764,6 +1764,7 @@
 |![Sofort](https://static.openfintech.io/payment_methods/sofort/logo.svg?w=400&c=v0.59.26#w200) |[**Sofort**](/payment-methods/sofort/)|[`sofort_gbp_hpp`](sofort_gbp_hpp/)| 
 |![Sofort](https://static.openfintech.io/payment_methods/sofort/logo.svg?w=400&c=v0.59.26#w200) |[**Sofort**](/payment-methods/sofort/)|[`sofort_pln_hpp`](sofort_pln_hpp/)| 
 |![Sofort](https://static.openfintech.io/payment_methods/sofort/logo.svg?w=400&c=v0.59.26#w200) |[**Sofort**](/payment-methods/sofort/)|[`sofort_usd_hpp`](sofort_usd_hpp/)| 
+|![Sofort uberweisung](https://static.openfintech.io/payment_methods/sofortuberweisung/logo.svg?w=400&c=v0.59.26#w200) |[**Sofort uberweisung**](/payment-methods/sofortuberweisung/)|[`sofortuberweisung_eur_hpp`](sofortuberweisung_eur_hpp/)| 
 |![Solana](https://static.openfintech.io/payment_methods/solana/logo.svg?w=400&c=v0.59.26#w200) |[**Solana**](/payment-methods/solana/)|[`solana_aud_hpp`](solana_aud_hpp/)| 
 |![Solana](https://static.openfintech.io/payment_methods/solana/logo.svg?w=400&c=v0.59.26#w200) |[**Solana**](/payment-methods/solana/)|[`solana_bep20_aud_hpp`](solana_bep20_aud_hpp/)| 
 |![Solana](https://static.openfintech.io/payment_methods/solana/logo.svg?w=400&c=v0.59.26#w200) |[**Solana**](/payment-methods/solana/)|[`solana_bep20_cad_hpp`](solana_bep20_cad_hpp/)| 
