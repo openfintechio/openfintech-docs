@@ -1005,6 +1005,7 @@
 |![tapbank](https://static.openfintech.io/payment_providers/tapbank/logo.png?w=600&c=v0.59.26#w100) |[**TapBank**](tapbank/)|`tapbank`| 
 |![targetpay](https://static.openfintech.io/payment_providers/targetpay/logo.png?w=600&c=v0.59.26#w100) |[**Targetpay.com**](targetpay/)|`targetpay`| 
 |![taslink](https://static.openfintech.io/payment_providers/taslink/logo.svg?w=600&c=v0.59.26#w100) |[**TAS Link**](taslink/)|`taslink`| 
+|![tbn](https://static.openfintech.io/payment_providers/tbn/logo.svg?w=600&c=v0.59.26#w100) |[**TBN**](tbn/)|`tbn`| 
 |![techtopay](https://static.openfintech.io/payment_providers/techtopay/logo.png?w=600&c=v0.59.26#w100) |[**TechToPay**](techtopay/)|`techtopay`| 
 |![tefpay](https://static.openfintech.io/payment_providers/tefpay/logo.png?w=600&c=v0.59.26#w100) |[**tefpay**](tefpay/)|`tefpay`| 
 |![telecash](https://static.openfintech.io/payment_providers/telecash/logo.png?w=600&c=v0.59.26#w100) |[**TeleCash**](telecash/)|`telecash`| 

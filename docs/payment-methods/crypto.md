@@ -36,6 +36,7 @@ The list of [Payment Services](/payment-services/) based on the _CRYPTO_
 |:---:|:---:|:---:| 
 |![crypto](https://static.openfintech.io/payment_methods/crypto/icon.svg?w=278&c=v0.59.26#w100) |[crypto_btc_hpp](/payment-services/crypto_btc_hpp/)|`crypto_btc_hpp`| 
 |![crypto](https://static.openfintech.io/payment_methods/crypto/icon.svg?w=278&c=v0.59.26#w100) |[crypto_usd_hpp](/payment-services/crypto_usd_hpp/)|`crypto_usd_hpp`| 
+|![crypto](https://static.openfintech.io/payment_methods/crypto/icon.svg?w=278&c=v0.59.26#w100) |[crypto_eur_hpp](/payment-services/crypto_eur_hpp/)|`crypto_eur_hpp`| 
  
 
 ## Payment Providers 
@@ -46,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _CRYPTO_
 |:---:|:---:|:---:| 
 |![paysec](https://static.openfintech.io/payment_providers/paysec/icon.png?w=278&c=v0.59.26#w100) |[PaySec](/payment-providers/paysec/)|`paysec`| 
 |![triplea](https://static.openfintech.io/payment_providers/triplea/icon.png?w=278&c=v0.59.26#w100) |[Triple-A](/payment-providers/triplea/)|`triplea`| 
+|![tbn](https://static.openfintech.io/payment_providers/tbn/icon.svg?w=278&c=v0.59.26#w100) |[TBN](/payment-providers/tbn/)|`tbn`| 
  
 
 ## JSON Object 

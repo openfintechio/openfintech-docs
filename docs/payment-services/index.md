@@ -627,6 +627,7 @@
 |![Crypto Aggregated](https://static.openfintech.io/payment_methods/crypto_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**Crypto Aggregated**](/payment-methods/crypto_aggregated/)|[`crypto_aggregated_eur_hpp`](crypto_aggregated_eur_hpp/)| 
 |![Crypto Aggregated](https://static.openfintech.io/payment_methods/crypto_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**Crypto Aggregated**](/payment-methods/crypto_aggregated/)|[`crypto_aggregated_usd_hpp`](crypto_aggregated_usd_hpp/)| 
 |![CRYPTO](https://static.openfintech.io/payment_methods/crypto/logo.svg?w=400&c=v0.59.26#w200) |[**CRYPTO**](/payment-methods/crypto/)|[`crypto_btc_hpp`](crypto_btc_hpp/)| 
+|![CRYPTO](https://static.openfintech.io/payment_methods/crypto/logo.svg?w=400&c=v0.59.26#w200) |[**CRYPTO**](/payment-methods/crypto/)|[`crypto_eur_hpp`](crypto_eur_hpp/)| 
 |![CRYPTO](https://static.openfintech.io/payment_methods/crypto/logo.svg?w=400&c=v0.59.26#w200) |[**CRYPTO**](/payment-methods/crypto/)|[`crypto_usd_hpp`](crypto_usd_hpp/)| 
 |![CSB Bank](https://static.openfintech.io/payment_methods/csb_bank/logo.png?w=400&c=v0.59.26#w200) |[**CSB Bank**](/payment-methods/csb_bank/)|[`csb_bank_inr_hpp`](csb_bank_inr_hpp/)| 
 |![Curfex Japan](https://static.openfintech.io/payment_methods/curfex/logo.png?w=400&c=v0.59.26#w200) |[**Curfex Japan**](/payment-methods/curfex/)|[`curfex_jpy_hpp`](curfex_jpy_hpp/)| 

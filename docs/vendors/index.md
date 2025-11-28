@@ -2153,6 +2153,7 @@
 |![taslink](https://static.openfintech.io/vendors/taslink/logo.svg?w=600&c=v0.59.26#w200) |[**TAS Link**](taslink/)|`taslink`| 
 |![tatrabanka](https://static.openfintech.io/vendors/tatrabanka/logo.png?w=600&c=v0.59.26#w200) |[**Tatra Banka**](tatrabanka/)|`tatrabanka`| 
 |![tbcbank](https://static.openfintech.io/vendors/tbcbank/logo.svg?w=600&c=v0.59.26#w200) |[**TBC Bank**](tbcbank/)|`tbcbank`| 
+|![tbn](https://static.openfintech.io/vendors/tbn/logo.svg?w=600&c=v0.59.26#w200) |[**TBN**](tbn/)|`tbn`| 
 |![tcb](https://static.openfintech.io/vendors/tcb/logo.png?w=600&c=v0.59.26#w200) |[**National Bank of Georgia**](tcb/)|`tcb`| 
 |![tcmb](https://static.openfintech.io/vendors/tcmb/logo.svg?w=600&c=v0.59.26#w200) |[**Central Bank of the Republic of Turkey**](tcmb/)|`tcmb`| 
 |![techtopay](https://static.openfintech.io/vendors/techtopay/logo.png?w=600&c=v0.59.26#w200) |[**TechToPay**](techtopay/)|`techtopay`| 
