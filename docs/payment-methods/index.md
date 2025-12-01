@@ -386,6 +386,7 @@
 |![farmaciasbenavides](https://static.openfintech.io/payment_methods/farmaciasbenavides/logo.svg?w=400&c=v0.59.26#w200) |[**Farmacias Benavides**](farmaciasbenavides/)|`farmaciasbenavides`| 
 |![farmaciasdelahorro](https://static.openfintech.io/payment_methods/farmaciasdelahorro/logo.svg?w=400&c=v0.59.26#w200) |[**Farmacias del Ahorro**](farmaciasdelahorro/)|`farmaciasdelahorro`| 
 |![fastcheckoutmultisafepay](https://static.openfintech.io/payment_methods/fastcheckoutmultisafepay/logo.png?w=400&c=v0.59.26#w200) |[**MultiSafepay**](fastcheckoutmultisafepay/)|`fastcheckoutmultisafepay`| 
+|![faster_payments](https://static.openfintech.io/payment_methods/faster_payments/logo.svg?w=400&c=v0.59.26#w200) |[**Faster Payments Scheme Ltd (FPSL)**](faster_payments/)|`faster_payments`| 
 |![fawry_crypto](https://static.openfintech.io/payment_methods/fawry_crypto/logo.png?w=400&c=v0.59.26#w200) |[**Fawry**](fawry_crypto/)|`fawry_crypto`| 
 |![federal_bank_india](https://static.openfintech.io/payment_methods/federal_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Federal Bank of India**](federal_bank_india/)|`federal_bank_india`| 
 |![flexepinemoneyvouchers](https://static.openfintech.io/payment_methods/flexepinemoneyvouchers/logo.png?w=400&c=v0.59.26#w200) |[**Flexepin**](flexepinemoneyvouchers/)|`flexepinemoneyvouchers`| 
