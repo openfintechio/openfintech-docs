@@ -147,6 +147,7 @@
 |![asiapay](https://static.openfintech.io/vendors/asiapay/logo.png?w=600&c=v0.59.26#w200) |[**AsiaPay**](asiapay/)|`asiapay`| 
 |![askbtcorg](https://static.openfintech.io/vendors/askbtcorg/logo.svg?w=600&c=v0.59.26#w200) |[**askbtc.org**](askbtcorg/)|`askbtcorg`| 
 |![aspay](https://static.openfintech.io/vendors/aspay/logo.png?w=600&c=v0.59.26#w200) |[**AsPay**](aspay/)|`aspay`| 
+|![assanpay](https://static.openfintech.io/vendors/assanpay/logo.png?w=600&c=v0.59.26#w200) |[**AssanPay**](assanpay/)|`assanpay`| 
 |![assist](https://static.openfintech.io/vendors/assist/logo.png?w=600&c=v0.59.26#w200) |[**ASSIST**](assist/)|`assist`| 
 |![astropay](https://static.openfintech.io/vendors/astropay/logo.png?w=600&c=v0.59.26#w200) |[**AstroPay**](astropay/)|`astropay`| 
 |![asupay](https://static.openfintech.io/vendors/asupay/logo.svg?w=600&c=v0.59.26#w200) |[**AsuPay**](asupay/)|`asupay`| 

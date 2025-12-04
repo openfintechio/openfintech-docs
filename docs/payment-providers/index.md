@@ -72,6 +72,7 @@
 |![arvatofinance](https://static.openfintech.io/payment_providers/arvatofinance/logo.svg?w=600&c=v0.59.26#w100) |[**arvato Finance Services Ltd.**](arvatofinance/)|`arvatofinance`| 
 |![asiapay](https://static.openfintech.io/payment_providers/asiapay/logo.png?w=600&c=v0.59.26#w100) |[**AsiaPay**](asiapay/)|`asiapay`| 
 |![aspay](https://static.openfintech.io/payment_providers/aspay/logo.png?w=600&c=v0.59.26#w100) |[**AsPay**](aspay/)|`aspay`| 
+|![assanpay](https://static.openfintech.io/payment_providers/assanpay/logo.png?w=600&c=v0.59.26#w100) |[**AssanPay**](assanpay/)|`assanpay`| 
 |![astropay](https://static.openfintech.io/payment_providers/astropay/logo.png?w=600&c=v0.59.26#w100) |[**AstroPay**](astropay/)|`astropay`| 
 |![asupay](https://static.openfintech.io/payment_providers/asupay/logo.svg?w=600&c=v0.59.26#w100) |[**AsuPay**](asupay/)|`asupay`| 
 |![atosworldline](https://static.openfintech.io/payment_providers/atosworldline/logo.png?w=600&c=v0.59.26#w100) |[**Worldline**](atosworldline/)|`atosworldline`| 
