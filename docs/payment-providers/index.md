@@ -974,6 +974,7 @@
 |![smilepayments](https://static.openfintech.io/payment_providers/smilepayments/logo.png?w=600&c=v0.59.26#w100) |[**Smile Payments**](smilepayments/)|`smilepayments`| 
 |![sobini](https://static.openfintech.io/payment_providers/sobini/logo.svg?w=600&c=v0.59.26#w100) |[**Sobini**](sobini/)|`sobini`| 
 |![soeasypay](https://static.openfintech.io/payment_providers/soeasypay/logo.png?w=600&c=v0.59.26#w100) |[**SoEasyPay**](soeasypay/)|`soeasypay`| 
+|![sola](https://static.openfintech.io/payment_providers/sola/logo.svg?w=600&c=v0.59.26#w100) |[**Sola**](sola/)|`sola`| 
 |![solidgate](https://static.openfintech.io/payment_providers/solidgate/logo.svg?w=600&c=v0.59.26#w100) |[**Solidgate**](solidgate/)|`solidgate`| 
 |![spartapay](https://static.openfintech.io/payment_providers/spartapay/logo.png?w=600&c=v0.59.26#w100) |[**Sparta-Pay**](spartapay/)|`spartapay`| 
 |![spayz](https://static.openfintech.io/payment_providers/spayz/logo.svg?w=600&c=v0.59.26#w100) |[**SPAYZ.io**](spayz/)|`spayz`| 

@@ -2081,6 +2081,7 @@
 |![soeasypay](https://static.openfintech.io/vendors/soeasypay/logo.png?w=600&c=v0.59.26#w200) |[**SoEasyPay**](soeasypay/)|`soeasypay`| 
 |![sofortbanking](https://static.openfintech.io/vendors/sofortbanking/logo.svg?w=600&c=v0.59.26#w200) |[**SOFORT, a Klarna Group Company**](sofortbanking/)|`sofortbanking`| 
 |![softlogic](https://static.openfintech.io/vendors/softlogic/logo.svg?w=600&c=v0.59.26#w200) |[**SOFT-LOGIC**](softlogic/)|`softlogic`| 
+|![sola](https://static.openfintech.io/vendors/sola/logo.svg?w=600&c=v0.59.26#w200) |[**Sola**](sola/)|`sola`| 
 |![solana](https://static.openfintech.io/vendors/solana/logo.svg?w=600&c=v0.59.26#w200) |[**Solana**](solana/)|`solana`| 
 |![solidchanger](https://static.openfintech.io/vendors/solidchanger/logo.svg?w=600&c=v0.59.26#w200) |[**SolidChanger**](solidchanger/)|`solidchanger`| 
 |![solidgate](https://static.openfintech.io/vendors/solidgate/logo.svg?w=600&c=v0.59.26#w200) |[**Solidgate**](solidgate/)|`solidgate`| 
