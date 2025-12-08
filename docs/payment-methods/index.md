@@ -618,6 +618,7 @@
 |![neopay](https://static.openfintech.io/payment_methods/neopay/logo.svg?w=400&c=v0.59.26#w200) |[**NEOpay**](neopay/)|`neopay`| 
 |![neosurf](https://static.openfintech.io/payment_methods/neosurf/logo.png?w=400&c=v0.59.26#w200) |[**Neosurf**](neosurf/)|`neosurf`| 
 |![nequi](https://static.openfintech.io/payment_methods/nequi/logo.svg?w=400&c=v0.59.26#w200) |[**NEQUI PUSH**](nequi/)|`nequi`| 
+|![nequi_qr](https://static.openfintech.io/payment_methods/nequi_qr/logo.svg?w=400&c=v0.59.26#w200) |[**NEQUI QR**](nequi_qr/)|`nequi_qr`| 
 |![net_banking](https://static.openfintech.io/payment_methods/net_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Pay with bank**](net_banking/)|`net_banking`| 
 |![neteller](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](neteller/)|`neteller`| 
 |![newera_payment_technologies_ltd_bazpay](https://static.openfintech.io/payment_methods/newera_payment_technologies_ltd_bazpay/logo.svg?w=400&c=v0.59.26#w200) |[**NEWERA PAYMENT TECHNOLOGIES LTD - Bazpay**](newera_payment_technologies_ltd_bazpay/)|`newera_payment_technologies_ltd_bazpay`| 

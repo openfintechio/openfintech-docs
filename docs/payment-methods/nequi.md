@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _NEQUI PUSH_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![nequi](https://static.openfintech.io/payment_methods/nequi/icon.svg?w=278&c=v0.59.26#w100) |[nequi_cop_hpp](/payment-services/nequi_cop_hpp/)|`nequi_cop_hpp`| 
+|![nequi](https://static.openfintech.io/payment_methods/nequi/icon.svg?w=278&c=v0.59.26#w100) |[nequi_cop_invoice](/payment-services/nequi_cop_invoice/)|`nequi_cop_invoice`| 
  
 
 ## Payment Providers 

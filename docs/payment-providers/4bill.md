@@ -54,6 +54,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![mb_way](https://static.openfintech.io/payment_methods/mb_way/icon.svg?w=278&c=v0.59.26#w100) |[mb_way](/payment-methods/mb_way/)|`mb_way`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
 |![nequi](https://static.openfintech.io/payment_methods/nequi/icon.svg?w=278&c=v0.59.26#w100) |[nequi](/payment-methods/nequi/)|`nequi`| 
+|![nequi_qr](https://static.openfintech.io/payment_methods/nequi_qr/icon.svg?w=278&c=v0.59.26#w100) |[nequi_qr](/payment-methods/nequi_qr/)|`nequi_qr`| 
  
 
 ## Payout Methods 
@@ -90,7 +91,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "bybit_pay",
     "mb_way",
     "bank_transfer",
-    "nequi"
+    "nequi",
+    "nequi_qr"
   ],
   "payout_method":[
     "payment_card",
