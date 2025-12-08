@@ -47,6 +47,7 @@
 |![alliance_bank](https://static.openfintech.io/payment_methods/alliance_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Alliance Bank Malaysia Berhad**](alliance_bank/)|`alliance_bank`| 
 |![alliance_bank_fpx](https://static.openfintech.io/payment_methods/alliance_bank_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**Alliance Bank (FPX), Malaysia**](alliance_bank_fpx/)|`alliance_bank_fpx`| 
 |![almacenes_exito](https://static.openfintech.io/payment_methods/almacenes_exito/logo.svg?w=400&c=v0.59.26#w200) |[**Almacenes Exito**](almacenes_exito/)|`almacenes_exito`| 
+|![alphapo](https://static.openfintech.io/payment_methods/alphapo/logo.png?w=400&c=v0.59.26#w200) |[**Alphapo**](alphapo/)|`alphapo`| 
 |![altel_tele2](https://static.openfintech.io/payment_methods/altel_tele2/logo.svg?w=400&c=v0.59.26#w200) |[**Tele2/Altel**](altel_tele2/)|`altel_tele2`| 
 |![amazon_pay](https://static.openfintech.io/payment_methods/amazon_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Amazon Pay**](amazon_pay/)|`amazon_pay`| 
 |![ambank_berhad](https://static.openfintech.io/payment_methods/ambank_berhad/logo.svg?w=400&c=v0.59.26#w200) |[**AmBank**](ambank_berhad/)|`ambank_berhad`| 
@@ -167,6 +168,7 @@
 |![bdo](https://static.openfintech.io/payment_methods/bdo/logo.svg?w=400&c=v0.59.26#w200) |[**BDO Over-The-Counter**](bdo/)|`bdo`| 
 |![beeline](https://static.openfintech.io/payment_methods/beeline/logo.png?w=400&c=v0.59.26#w200) |[**Beeline**](beeline/)|`beeline`| 
 |![belfiusdirectnet](https://static.openfintech.io/payment_methods/belfiusdirectnet/logo.png?w=400&c=v0.59.26#w200) |[**Belfius DirectNet**](belfiusdirectnet/)|`belfiusdirectnet`| 
+|![berliner_sparkasse](https://static.openfintech.io/payment_methods/berliner_sparkasse/logo.png?w=400&c=v0.59.26#w200) |[**Berliner Sparkasse**](berliner_sparkasse/)|`berliner_sparkasse`| 
 |![bidv_bank](https://static.openfintech.io/payment_methods/bidv_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BIDV Bank**](bidv_bank/)|`bidv_bank`| 
 |![bidv_bank_qr](https://static.openfintech.io/payment_methods/bidv_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**BIDV Bank QR**](bidv_bank_qr/)|`bidv_bank_qr`| 
 |![bigconlinepayment](https://static.openfintech.io/payment_methods/bigconlinepayment/logo.png?w=400&c=v0.59.26#w200) |[**Big C**](bigconlinepayment/)|`bigconlinepayment`| 
@@ -468,6 +470,7 @@
 |![industrial_bank_hanoi](https://static.openfintech.io/payment_methods/industrial_bank_hanoi/logo.png?w=400&c=v0.59.26#w200) |[**INDUSTRIAL BANK OF KOREA – HANOI BRANCH**](industrial_bank_hanoi/)|`industrial_bank_hanoi`| 
 |![industrial_bank_ho_chi_minh](https://static.openfintech.io/payment_methods/industrial_bank_ho_chi_minh/logo.png?w=400&c=v0.59.26#w200) |[**Industrial Bank Of Korea (IBK) - Ho Chi Minh City Branch**](industrial_bank_ho_chi_minh/)|`industrial_bank_ho_chi_minh`| 
 |![industrial_bank_of_korea](https://static.openfintech.io/payment_methods/industrial_bank_of_korea/logo.svg?w=400&c=v0.59.26#w200) |[**Industrial Bank of Korea**](industrial_bank_of_korea/)|`industrial_bank_of_korea`| 
+|![ing](https://static.openfintech.io/payment_methods/ing/logo.png?w=400&c=v0.59.26#w200) |[**ING**](ing/)|`ing`| 
 |![ing_group_bank](https://static.openfintech.io/payment_methods/ing_group_bank/logo.png?w=400&c=v0.59.26#w200) |[**ING Group Bank**](ing_group_bank/)|`ing_group_bank`| 
 |![inghomepay](https://static.openfintech.io/payment_methods/inghomepay/logo.png?w=400&c=v0.59.26#w200) |[**Home'Pay**](inghomepay/)|`inghomepay`| 
 |![ingpl](https://static.openfintech.io/payment_methods/ingpl/logo.svg?w=400&c=v0.59.26#w200) |[**ING Bank(Poland)**](ingpl/)|`ingpl`| 
@@ -745,6 +748,7 @@
 |![polygon](https://static.openfintech.io/payment_methods/polygon/logo.svg?w=400&c=v0.59.26#w200) |[**Polygon**](polygon/)|`polygon`| 
 |![poppankki](https://static.openfintech.io/payment_methods/poppankki/logo.png?w=400&c=v0.59.26#w200) |[**POP Pankki**](poppankki/)|`poppankki`| 
 |![popular_bank](https://static.openfintech.io/payment_methods/popular_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BANCO POPULAR**](popular_bank/)|`popular_bank`| 
+|![postbank](https://static.openfintech.io/payment_methods/postbank/logo.png?w=400&c=v0.59.26#w200) |[**Deutsche Postbank**](postbank/)|`postbank`| 
 |![postepay](https://static.openfintech.io/payment_methods/postepay/logo.png?w=400&c=v0.59.26#w200) |[**Postepay**](postepay/)|`postepay`| 
 |![postfinancecard](https://static.openfintech.io/payment_methods/postfinancecard/logo.png?w=400&c=v0.59.26#w200) |[**PostFinance Card**](postfinancecard/)|`postfinancecard`| 
 |![postfinanceefinance](https://static.openfintech.io/payment_methods/postfinanceefinance/logo.png?w=400&c=v0.59.26#w200) |[**PostFinance E-Finance**](postfinanceefinance/)|`postfinanceefinance`| 
@@ -865,6 +869,7 @@
 |![smartmoney](https://static.openfintech.io/payment_methods/smartmoney/logo.png?w=400&c=v0.59.26#w200) |[**Smart Money**](smartmoney/)|`smartmoney`| 
 |![smsbilling](https://static.openfintech.io/payment_methods/smsbilling/logo.png?w=400&c=v0.59.26#w200) |[**SMS Billing**](smsbilling/)|`smsbilling`| 
 |![snapscan_qr](https://static.openfintech.io/payment_methods/snapscan_qr/logo.png?w=400&c=v0.59.26#w200) |[**SnapScan**](snapscan_qr/)|`snapscan_qr`| 
+|![snsbank](https://static.openfintech.io/payment_methods/snsbank/logo.png?w=400&c=v0.59.26#w200) |[**SNS Bank**](snsbank/)|`snsbank`| 
 |![societe_generale_bank](https://static.openfintech.io/payment_methods/societe_generale_bank/logo.png?w=400&c=v0.59.26#w200) |[**Societe Generale Bank**](societe_generale_bank/)|`societe_generale_bank`| 
 |![sofort](https://static.openfintech.io/payment_methods/sofort/logo.svg?w=400&c=v0.59.26#w200) |[**Sofort**](sofort/)|`sofort`| 
 |![sofortbanking](https://static.openfintech.io/payment_methods/sofortbanking/logo.svg?w=400&c=v0.59.26#w200) |[**SOFORT, a Klarna Group Company**](sofortbanking/)|`sofortbanking`| 

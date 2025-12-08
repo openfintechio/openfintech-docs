@@ -52,6 +52,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Ripple_
 |![bitpace](https://static.openfintech.io/payment_providers/bitpace/icon.png?w=278&c=v0.59.26#w100) |[Bitpace](/payment-providers/bitpace/)|`bitpace`| 
 |![coinsflow](https://static.openfintech.io/payment_providers/coinsflow/icon.png?w=278&c=v0.59.26#w100) |[Coinsflow](/payment-providers/coinsflow/)|`coinsflow`| 
 |![cryptopay](https://static.openfintech.io/payment_providers/cryptopay/icon.svg?w=278&c=v0.59.26#w100) |[Cryptopay](/payment-providers/cryptopay/)|`cryptopay`| 
+|![alphapo](https://static.openfintech.io/payment_providers/alphapo/icon.png?w=278&c=v0.59.26#w100) |[Alphapo](/payment-providers/alphapo/)|`alphapo`| 
  
 
 ## JSON Object 

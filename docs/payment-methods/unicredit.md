@@ -39,6 +39,15 @@ https://static.openfintech.io/payment_methods/unicredit/logo.png?w=400&c=v0.59.2
 https://static.openfintech.io/payment_methods/unicredit/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _UniCredit_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![unicredit](https://static.openfintech.io/payment_methods/unicredit/icon.png?w=278&c=v0.59.26#w100) |[unicredit_eur_hpp](/payment-services/unicredit_eur_hpp/)|`unicredit_eur_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _UniCredit_ 
@@ -50,6 +59,7 @@ The list of [Payment Providers](/payment-providers/) that support the _UniCredit
 |![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
 |![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.png?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
+|![siquro](https://static.openfintech.io/payment_providers/siquro/icon.png?w=278&c=v0.59.26#w100) |[Siquro](/payment-providers/siquro/)|`siquro`| 
  
 
 ## JSON Object 

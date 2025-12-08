@@ -50,6 +50,7 @@
 |![alliedwallet2](https://static.openfintech.io/payment_providers/alliedwallet2/logo.png?w=600&c=v0.59.26#w100) |[**Allied Wallet**](alliedwallet2/)|`alliedwallet2`| 
 |![allpago](https://static.openfintech.io/payment_providers/allpago/logo.png?w=600&c=v0.59.26#w100) |[**allpago - accept payments in Latin America**](allpago/)|`allpago`| 
 |![alphapaymentscloud](https://static.openfintech.io/payment_providers/alphapaymentscloud/logo.svg?w=600&c=v0.59.26#w100) |[**Alpha Payments Cloud**](alphapaymentscloud/)|`alphapaymentscloud`| 
+|![alphapo](https://static.openfintech.io/payment_providers/alphapo/logo.png?w=600&c=v0.59.26#w100) |[**Alphapo**](alphapo/)|`alphapo`| 
 |![altapay](https://static.openfintech.io/payment_providers/altapay/logo.png?w=600&c=v0.59.26#w100) |[**AltaPay**](altapay/)|`altapay`| 
 |![alternativepayments](https://static.openfintech.io/payment_providers/alternativepayments/logo.png?w=600&c=v0.59.26#w100) |[**Alternative Payments**](alternativepayments/)|`alternativepayments`| 
 |![altitudepay](https://static.openfintech.io/payment_providers/altitudepay/logo.svg?w=600&c=v0.59.26#w100) |[**Altitude Pay**](altitudepay/)|`altitudepay`| 

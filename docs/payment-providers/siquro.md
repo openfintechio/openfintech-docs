@@ -52,7 +52,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |![skrill](https://static.openfintech.io/payment_methods/skrill/icon.svg?w=278&c=v0.59.26#w100) |[skrill](/payment-methods/skrill/)|`skrill`| 
 |![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.png?w=278&c=v0.59.26#w100) |[przelewy24](/payment-methods/przelewy24/)|`przelewy24`| 
 |![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2](/payment-methods/mybank2/)|`mybank2`| 
-|![epay](https://static.openfintech.io/payment_methods/epay/icon.svg?w=278&c=v0.59.26#w100) |[epay](/payment-methods/epay/)|`epay`| 
+|![commerzbank](https://static.openfintech.io/payment_methods/commerzbank/icon.svg?w=278&c=v0.59.26#w100) |[commerzbank](/payment-methods/commerzbank/)|`commerzbank`| 
+|![revolut_bank](https://static.openfintech.io/payment_methods/revolut_bank/icon.png?w=278&c=v0.59.26#w100) |[revolut_bank](/payment-methods/revolut_bank/)|`revolut_bank`| 
+|![postbank](https://static.openfintech.io/payment_methods/postbank/icon.png?w=278&c=v0.59.26#w100) |[postbank](/payment-methods/postbank/)|`postbank`| 
+|![unicredit](https://static.openfintech.io/payment_methods/unicredit/icon.png?w=278&c=v0.59.26#w100) |[unicredit](/payment-methods/unicredit/)|`unicredit`| 
+|![berliner_sparkasse](https://static.openfintech.io/payment_methods/berliner_sparkasse/icon.png?w=278&c=v0.59.26#w100) |[berliner_sparkasse](/payment-methods/berliner_sparkasse/)|`berliner_sparkasse`| 
+|![ing](https://static.openfintech.io/payment_methods/ing/icon.png?w=278&c=v0.59.26#w100) |[ing](/payment-methods/ing/)|`ing`| 
+|![rabobank](https://static.openfintech.io/payment_methods/rabobank/icon.png?w=278&c=v0.59.26#w100) |[rabobank](/payment-methods/rabobank/)|`rabobank`| 
+|![abn_amro_bank](https://static.openfintech.io/payment_methods/abn_amro_bank/icon.svg?w=278&c=v0.59.26#w100) |[abn_amro_bank](/payment-methods/abn_amro_bank/)|`abn_amro_bank`| 
+|![snsbank](https://static.openfintech.io/payment_methods/snsbank/icon.png?w=278&c=v0.59.26#w100) |[snsbank](/payment-methods/snsbank/)|`snsbank`| 
  
 
 ## JSON Object 
@@ -78,7 +86,15 @@ The list of supported [Payment Methods](/payment-methods/)
     "skrill",
     "przelewy24",
     "mybank2",
-    "epay"
+    "commerzbank",
+    "revolut_bank",
+    "postbank",
+    "unicredit",
+    "berliner_sparkasse",
+    "ing",
+    "rabobank",
+    "abn_amro_bank",
+    "snsbank"
   ],
   "payout_method":null,
   "metadata":null,

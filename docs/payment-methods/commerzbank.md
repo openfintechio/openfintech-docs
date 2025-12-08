@@ -46,6 +46,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Commerzba
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bitexpro](https://static.openfintech.io/payment_providers/bitexpro/icon.png?w=278&c=v0.59.26#w100) |[BitexPRO](/payment-providers/bitexpro/)|`bitexpro`| 
+|![siquro](https://static.openfintech.io/payment_providers/siquro/icon.png?w=278&c=v0.59.26#w100) |[Siquro](/payment-providers/siquro/)|`siquro`| 
  
 
 ## JSON Object 

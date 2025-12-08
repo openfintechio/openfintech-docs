@@ -111,6 +111,7 @@
 |![allpago](https://static.openfintech.io/vendors/allpago/logo.png?w=600&c=v0.59.26#w200) |[**allpago - accept payments in Latin America**](allpago/)|`allpago`| 
 |![alphapay24](https://static.openfintech.io/vendors/alphapay24/logo.svg?w=600&c=v0.59.26#w200) |[**Alphapay24**](alphapay24/)|`alphapay24`| 
 |![alphapaymentscloud](https://static.openfintech.io/vendors/alphapaymentscloud/logo.png?w=600&c=v0.59.26#w200) |[**Alpha Payments Cloud**](alphapaymentscloud/)|`alphapaymentscloud`| 
+|![alphapo](https://static.openfintech.io/vendors/alphapo/logo.png?w=600&c=v0.59.26#w200) |[**Alphapo**](alphapo/)|`alphapo`| 
 |![altapay](https://static.openfintech.io/vendors/altapay/logo.png?w=600&c=v0.59.26#w200) |[**AltaPay**](altapay/)|`altapay`| 
 |![alternativepayments](https://static.openfintech.io/vendors/alternativepayments/logo.png?w=600&c=v0.59.26#w200) |[**Alternative Payments**](alternativepayments/)|`alternativepayments`| 
 |![altitudepay](https://static.openfintech.io/vendors/altitudepay/logo.svg?w=600&c=v0.59.26#w200) |[**Altitude Pay**](altitudepay/)|`altitudepay`| 
