@@ -557,6 +557,7 @@
 |![Carte Bleue](https://static.openfintech.io/payment_methods/cartebleue/logo.png?w=400&c=v0.59.26#w200) |[**Carte Bleue**](/payment-methods/cartebleue/)|[`cartebleue_eur_hpp`](cartebleue_eur_hpp/)| 
 |![Carulla](https://static.openfintech.io/payment_methods/carulla/logo.svg?w=400&c=v0.59.26#w200) |[**Carulla**](/payment-methods/carulla/)|[`carulla_cop_hpp`](carulla_cop_hpp/)| 
 |![Cascad](https://static.openfintech.io/payment_methods/cascad/logo.svg?w=400&c=v0.59.26#w200) |[**Cascad**](/payment-methods/cascad/)|[`cascad_uah_hpp`](cascad_uah_hpp/)| 
+|![Cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200) |[**Cash**](/payment-methods/cash/)|[`cash_ars_hpp`](cash_ars_hpp/)| 
 |![Cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200) |[**Cash**](/payment-methods/cash/)|[`cash_aud_invoice`](cash_aud_invoice/)| 
 |![Cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200) |[**Cash**](/payment-methods/cash/)|[`cash_brl_hpp`](cash_brl_hpp/)| 
 |![Cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200) |[**Cash**](/payment-methods/cash/)|[`cash_cad_invoice`](cash_cad_invoice/)| 
@@ -1099,6 +1100,7 @@
 |![m10](https://static.openfintech.io/payment_methods/m10/logo.png?w=400&c=v0.59.26#w200) |[**m10**](/payment-methods/m10/)|[`m10_azn_hpp`](m10_azn_hpp/)| 
 |![m10](https://static.openfintech.io/payment_methods/m10/logo.png?w=400&c=v0.59.26#w200) |[**m10**](/payment-methods/m10/)|[`m10_azn_invoice`](m10_azn_invoice/)| 
 |![M-Pesa](https://static.openfintech.io/payment_methods/m_pesa/logo.png?w=400&c=v0.59.26#w200) |[**M-Pesa**](/payment-methods/m_pesa/)|[`m_pesa_kes_invoice`](m_pesa_kes_invoice/)| 
+|![Mach](https://static.openfintech.io/payment_methods/mach/logo.png?w=400&c=v0.59.26#w200) |[**Mach**](/payment-methods/mach/)|[`mach_ars_hpp`](mach_ars_hpp/)| 
 |![Mach](https://static.openfintech.io/payment_methods/mach/logo.png?w=400&c=v0.59.26#w200) |[**Mach**](/payment-methods/mach/)|[`mach_brl_hpp`](mach_brl_hpp/)| 
 |![Mach](https://static.openfintech.io/payment_methods/mach/logo.png?w=400&c=v0.59.26#w200) |[**Mach**](/payment-methods/mach/)|[`mach_clp_hpp`](mach_clp_hpp/)| 
 |![Mach](https://static.openfintech.io/payment_methods/mach/logo.png?w=400&c=v0.59.26#w200) |[**Mach**](/payment-methods/mach/)|[`mach_cop_hpp`](mach_cop_hpp/)| 
@@ -1587,6 +1589,7 @@
 |![Picksell Wallet](https://static.openfintech.io/payment_methods/picksell/logo.png?w=400&c=v0.59.26#w200) |[**Picksell Wallet**](/payment-methods/picksell/)|[`picksell_eur_hpp`](picksell_eur_hpp/)| 
 |![PicPay](https://static.openfintech.io/payment_methods/picpay/logo.svg?w=400&c=v0.59.26#w200) |[**PicPay**](/payment-methods/picpay/)|[`picpay_brl_hpp`](picpay_brl_hpp/)| 
 |![Ping An Bank](https://static.openfintech.io/payment_methods/ping_an_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Ping An Bank**](/payment-methods/ping_an_bank/)|[`ping_an_bank_cny_hpp`](ping_an_bank_cny_hpp/)| 
+|![PIX](https://static.openfintech.io/payment_methods/pix/logo.svg?w=400&c=v0.59.26#w200) |[**PIX**](/payment-methods/pix/)|[`pix_ars_hpp`](pix_ars_hpp/)| 
 |![PIX](https://static.openfintech.io/payment_methods/pix/logo.svg?w=400&c=v0.59.26#w200) |[**PIX**](/payment-methods/pix/)|[`pix_brl_hpp`](pix_brl_hpp/)| 
 |![PIX](https://static.openfintech.io/payment_methods/pix/logo.svg?w=400&c=v0.59.26#w200) |[**PIX**](/payment-methods/pix/)|[`pix_brl_invoice`](pix_brl_invoice/)| 
 |![PIX](https://static.openfintech.io/payment_methods/pix/logo.svg?w=400&c=v0.59.26#w200) |[**PIX**](/payment-methods/pix/)|[`pix_clp_hpp`](pix_clp_hpp/)| 
@@ -1648,7 +1651,12 @@
 |![VISA QIWI Wallet](https://static.openfintech.io/payment_methods/qiwi/logo.svg?w=400&c=v0.59.26#w200) |[**VISA QIWI Wallet**](/payment-methods/qiwi/)|[`qiwi_usd_hpp`](qiwi_usd_hpp/)| 
 |![QNB Finansbank](https://static.openfintech.io/payment_methods/qnb_finansbank/logo.svg?w=400&c=v0.59.26#w200) |[**QNB Finansbank**](/payment-methods/qnb_finansbank/)|[`qnb_finansbank_try_invoice`](qnb_finansbank_try_invoice/)| 
 |![QQPay](https://static.openfintech.io/payment_methods/qqpay/logo.svg?w=400&c=v0.59.26#w200) |[**QQPay**](/payment-methods/qqpay/)|[`qqpay_cny_hpp`](qqpay_cny_hpp/)| 
+|![QR Payment Aggregated](https://static.openfintech.io/payment_methods/qr_payment_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**QR Payment Aggregated**](/payment-methods/qr_payment_aggregated/)|[`qr_payment_aggregated_ars_hpp`](qr_payment_aggregated_ars_hpp/)| 
+|![QR Payment Aggregated](https://static.openfintech.io/payment_methods/qr_payment_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**QR Payment Aggregated**](/payment-methods/qr_payment_aggregated/)|[`qr_payment_aggregated_brl_hpp`](qr_payment_aggregated_brl_hpp/)| 
+|![QR Payment Aggregated](https://static.openfintech.io/payment_methods/qr_payment_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**QR Payment Aggregated**](/payment-methods/qr_payment_aggregated/)|[`qr_payment_aggregated_clp_hpp`](qr_payment_aggregated_clp_hpp/)| 
 |![QR Payment Aggregated](https://static.openfintech.io/payment_methods/qr_payment_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**QR Payment Aggregated**](/payment-methods/qr_payment_aggregated/)|[`qr_payment_aggregated_idr_hpp`](qr_payment_aggregated_idr_hpp/)| 
+|![QR Payment Aggregated](https://static.openfintech.io/payment_methods/qr_payment_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**QR Payment Aggregated**](/payment-methods/qr_payment_aggregated/)|[`qr_payment_aggregated_mxn_hpp`](qr_payment_aggregated_mxn_hpp/)| 
+|![QR Payment Aggregated](https://static.openfintech.io/payment_methods/qr_payment_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**QR Payment Aggregated**](/payment-methods/qr_payment_aggregated/)|[`qr_payment_aggregated_pen_hpp`](qr_payment_aggregated_pen_hpp/)| 
 |![QR Payment Aggregated](https://static.openfintech.io/payment_methods/qr_payment_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**QR Payment Aggregated**](/payment-methods/qr_payment_aggregated/)|[`qr_payment_aggregated_php_hpp`](qr_payment_aggregated_php_hpp/)| 
 |![QR Payment Aggregated](https://static.openfintech.io/payment_methods/qr_payment_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**QR Payment Aggregated**](/payment-methods/qr_payment_aggregated/)|[`qr_payment_aggregated_vnd_hpp`](qr_payment_aggregated_vnd_hpp/)| 
 |![Qr Ph](https://static.openfintech.io/payment_methods/qr_ph/logo.svg?w=400&c=v0.59.26#w200) |[**Qr Ph**](/payment-methods/qr_ph/)|[`qr_ph_php_hpp`](qr_ph_php_hpp/)| 

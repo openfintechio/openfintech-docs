@@ -36,7 +36,12 @@ The list of [Payment Services](/payment-services/) based on the _QR Payment Aggr
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![qr_payment_aggregated](https://static.openfintech.io/payment_methods/qr_payment_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[qr_payment_aggregated_brl_hpp](/payment-services/qr_payment_aggregated_brl_hpp/)|`qr_payment_aggregated_brl_hpp`| 
+|![qr_payment_aggregated](https://static.openfintech.io/payment_methods/qr_payment_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[qr_payment_aggregated_clp_hpp](/payment-services/qr_payment_aggregated_clp_hpp/)|`qr_payment_aggregated_clp_hpp`| 
+|![qr_payment_aggregated](https://static.openfintech.io/payment_methods/qr_payment_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[qr_payment_aggregated_ars_hpp](/payment-services/qr_payment_aggregated_ars_hpp/)|`qr_payment_aggregated_ars_hpp`| 
 |![qr_payment_aggregated](https://static.openfintech.io/payment_methods/qr_payment_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[qr_payment_aggregated_idr_hpp](/payment-services/qr_payment_aggregated_idr_hpp/)|`qr_payment_aggregated_idr_hpp`| 
+|![qr_payment_aggregated](https://static.openfintech.io/payment_methods/qr_payment_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[qr_payment_aggregated_mxn_hpp](/payment-services/qr_payment_aggregated_mxn_hpp/)|`qr_payment_aggregated_mxn_hpp`| 
+|![qr_payment_aggregated](https://static.openfintech.io/payment_methods/qr_payment_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[qr_payment_aggregated_pen_hpp](/payment-services/qr_payment_aggregated_pen_hpp/)|`qr_payment_aggregated_pen_hpp`| 
 |![qr_payment_aggregated](https://static.openfintech.io/payment_methods/qr_payment_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[qr_payment_aggregated_php_hpp](/payment-services/qr_payment_aggregated_php_hpp/)|`qr_payment_aggregated_php_hpp`| 
 |![qr_payment_aggregated](https://static.openfintech.io/payment_methods/qr_payment_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[qr_payment_aggregated_vnd_hpp](/payment-services/qr_payment_aggregated_vnd_hpp/)|`qr_payment_aggregated_vnd_hpp`| 
  
@@ -47,6 +52,7 @@ The list of [Payment Providers](/payment-providers/) that support the _QR Paymen
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
 |![citrinepay](https://static.openfintech.io/payment_providers/citrinepay/icon.png?w=278&c=v0.59.26#w100) |[Citrine Merchant Services](/payment-providers/citrinepay/)|`citrinepay`| 
  
 

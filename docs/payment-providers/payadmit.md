@@ -76,6 +76,10 @@ The list of supported [Payment Methods](/payment-methods/)
 |![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/icon.png?w=278&c=v0.59.26#w100) |[polipayonline](/payment-methods/polipayonline/)|`polipayonline`| 
 |![ideal](https://static.openfintech.io/payment_methods/ideal/icon.svg?w=278&c=v0.59.26#w100) |[ideal](/payment-methods/ideal/)|`ideal`| 
 |![epay](https://static.openfintech.io/payment_methods/epay/icon.svg?w=278&c=v0.59.26#w100) |[epay](/payment-methods/epay/)|`epay`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash](/payment-methods/cash/)|`cash`| 
+|![mach](https://static.openfintech.io/payment_methods/mach/icon.png?w=278&c=v0.59.26#w100) |[mach](/payment-methods/mach/)|`mach`| 
+|![qr_payment_aggregated](https://static.openfintech.io/payment_methods/qr_payment_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[qr_payment_aggregated](/payment-methods/qr_payment_aggregated/)|`qr_payment_aggregated`| 
+|![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix](/payment-methods/pix/)|`pix`| 
  
 
 ## Payout Methods 
@@ -133,7 +137,11 @@ The list of supported [Payout Methods](/payout-methods/)
     "interac",
     "polipayonline",
     "ideal",
-    "epay"
+    "epay",
+    "cash",
+    "mach",
+    "qr_payment_aggregated",
+    "pix"
   ],
   "payout_method":[
     "payment_card",
