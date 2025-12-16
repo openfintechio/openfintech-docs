@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _CoinsPaid_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![coinspaid](https://static.openfintech.io/payment_methods/coinspaid/icon.png?w=278&c=v0.59.26#w100) |[coinspaid_eur_hpp](/payment-services/coinspaid_eur_hpp/)|`coinspaid_eur_hpp`| 
+|![coinspaid](https://static.openfintech.io/payment_methods/coinspaid/icon.png?w=278&c=v0.59.26#w100) |[coinspaid_usd_hpp](/payment-services/coinspaid_usd_hpp/)|`coinspaid_usd_hpp`| 
  
 
 ## Payment Providers 
