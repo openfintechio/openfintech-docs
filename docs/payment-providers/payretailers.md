@@ -114,6 +114,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![vodafone_pay](https://static.openfintech.io/payment_methods/vodafone_pay/icon.png?w=278&c=v0.59.26#w100) |[vodafone_pay](/payment-methods/vodafone_pay/)|`vodafone_pay`| 
 |![tigo](https://static.openfintech.io/payment_methods/tigo/icon.png?w=278&c=v0.59.26#w100) |[tigo](/payment-methods/tigo/)|`tigo`| 
 |![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money](/payment-methods/airtel_money/)|`airtel_money`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash](/payment-methods/cash/)|`cash`| 
  
 
 ## Payout Methods 
@@ -209,7 +211,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "halo_pesa",
     "vodafone_pay",
     "tigo",
-    "airtel_money"
+    "airtel_money",
+    "bank_transfer",
+    "cash"
   ],
   "payout_method":[
     "pix",

@@ -116,6 +116,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![todapay](https://static.openfintech.io/payment_providers/todapay/icon.png?w=278&c=v0.59.26#w100) |[TODA Pay](/payment-providers/todapay/)|`todapay`| 
 |![paycos](https://static.openfintech.io/payment_providers/paycos/icon.svg?w=278&c=v0.59.26#w100) |[PAYCOS](/payment-providers/paycos/)|`paycos`| 
 |![kvitum](https://static.openfintech.io/payment_providers/kvitum/icon.svg?w=278&c=v0.59.26#w100) |[Qostiq](/payment-providers/kvitum/)|`kvitum`| 
+|![payretailers](https://static.openfintech.io/payment_providers/payretailers/icon.svg?w=278&c=v0.59.26#w100) |[PayRetailers](/payment-providers/payretailers/)|`payretailers`| 
 |![v9pay](https://static.openfintech.io/payment_providers/v9pay/icon.png?w=278&c=v0.59.26#w100) |[V9Pay](/payment-providers/v9pay/)|`v9pay`| 
 |![alycepay](https://static.openfintech.io/payment_providers/alycepay/icon.png?w=278&c=v0.59.26#w100) |[Alycepay](/payment-providers/alycepay/)|`alycepay`| 
 |![copay](https://static.openfintech.io/payment_providers/copay/icon.svg?w=278&c=v0.59.26#w100) |[Copay](/payment-providers/copay/)|`copay`| 

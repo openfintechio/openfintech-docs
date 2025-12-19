@@ -71,6 +71,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Cash_
 |![skrill](https://static.openfintech.io/payment_providers/skrill/icon.svg?w=278&c=v0.59.26#w100) |[Skrill](/payment-providers/skrill/)|`skrill`| 
 |![manual](https://static.openfintech.io/payment_providers/manual/icon.svg?w=278&c=v0.59.26#w100) |[Manual](/payment-providers/manual/)|`manual`| 
 |![decard](https://static.openfintech.io/payment_providers/decard/icon.svg?w=278&c=v0.59.26#w100) |[Decard](/payment-providers/decard/)|`decard`| 
+|![payretailers](https://static.openfintech.io/payment_providers/payretailers/icon.svg?w=278&c=v0.59.26#w100) |[PayRetailers](/payment-providers/payretailers/)|`payretailers`| 
 |![payport](https://static.openfintech.io/payment_providers/payport/icon.svg?w=278&c=v0.59.26#w100) |[PayPort](/payment-providers/payport/)|`payport`| 
 |![payfuture](https://static.openfintech.io/payment_providers/payfuture/icon.svg?w=278&c=v0.59.26#w100) |[Payfuture](/payment-providers/payfuture/)|`payfuture`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
