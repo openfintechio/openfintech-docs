@@ -658,6 +658,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![d8](https://static.openfintech.io/payment_providers/d8/icon.png?w=278&c=v0.59.26#w100) |[D8 Corporation](/payment-providers/d8/)|`d8`| 
 |![finix](https://static.openfintech.io/payment_providers/finix/icon.svg?w=278&c=v0.59.26#w100) |[Finix](/payment-providers/finix/)|`finix`| 
 |![spell](https://static.openfintech.io/payment_providers/spell/icon.png?w=278&c=v0.59.26#w100) |[Spell](/payment-providers/spell/)|`spell`| 
+|![vialet](https://static.openfintech.io/payment_providers/vialet/icon.png?w=278&c=v0.59.26#w100) |[Vialet](/payment-providers/vialet/)|`vialet`| 
 |![syspay](https://static.openfintech.io/payment_providers/syspay/icon.png?w=278&c=v0.59.26#w100) |[SysPay](/payment-providers/syspay/)|`syspay`| 
 |![matrixpaysolution](https://static.openfintech.io/payment_providers/matrixpaysolution/icon.png?w=278&c=v0.59.26#w100) |[MatrixPaySolution](/payment-providers/matrixpaysolution/)|`matrixpaysolution`| 
 |![smashpay](https://static.openfintech.io/payment_providers/smashpay/icon.png?w=278&c=v0.59.26#w100) |[SmashPay](/payment-providers/smashpay/)|`smashpay`| 
