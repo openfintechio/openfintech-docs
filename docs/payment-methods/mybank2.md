@@ -46,6 +46,7 @@ The list of [Payment Services](/payment-services/) based on the _MyBank_
 |![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2_pln_hpp](/payment-services/mybank2_pln_hpp/)|`mybank2_pln_hpp`| 
 |![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2_eur_hpp](/payment-services/mybank2_eur_hpp/)|`mybank2_eur_hpp`| 
 |![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2_bgn_hpp](/payment-services/mybank2_bgn_hpp/)|`mybank2_bgn_hpp`| 
+|![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2_czk_hpp](/payment-services/mybank2_czk_hpp/)|`mybank2_czk_hpp`| 
  
 
 ## Payment Providers 
@@ -64,6 +65,7 @@ The list of [Payment Providers](/payment-providers/) that support the _MyBank_
 |![computop](https://static.openfintech.io/payment_providers/computop/icon.png?w=278&c=v0.59.26#w100) |[Computop](/payment-providers/computop/)|`computop`| 
 |![easypaymentgateway](https://static.openfintech.io/payment_providers/easypaymentgateway/icon.png?w=278&c=v0.59.26#w100) |[Easy Payment Gateway](/payment-providers/easypaymentgateway/)|`easypaymentgateway`| 
 |![todapay](https://static.openfintech.io/payment_providers/todapay/icon.png?w=278&c=v0.59.26#w100) |[TODA Pay](/payment-providers/todapay/)|`todapay`| 
+|![dimocopayments](https://static.openfintech.io/payment_providers/dimocopayments/icon.png?w=278&c=v0.59.26#w100) |[DIMOCO](/payment-providers/dimocopayments/)|`dimocopayments`| 
 |![siquro](https://static.openfintech.io/payment_providers/siquro/icon.png?w=278&c=v0.59.26#w100) |[Siquro](/payment-providers/siquro/)|`siquro`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
 |![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 

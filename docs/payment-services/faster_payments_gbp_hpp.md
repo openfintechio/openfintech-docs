@@ -1,5 +1,5 @@
 
-# Faster Payments Scheme Ltd (FPSL) (service) 
+# Faster Payments (service) 
 ![faster_payments_gbp_hpp](https://static.openfintech.io/payment_methods/faster_payments_gbp_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -13,9 +13,9 @@
  
 **Name:** 
  
-:	[EN] Faster Payments Scheme Ltd (FPSL) 
-:	[RU] Faster Payments Scheme Ltd (FPSL) 
-:	[UK] Faster Payments Scheme Ltd (FPSL) 
+:	[EN] Faster Payments 
+:	[RU] Faster Payments 
+:	[UK] Faster Payments 
  
 **Amount limits:** from `0.01` to `75445` GBP 
 
@@ -26,9 +26,9 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`debtor_sort_code`|✗|`string`|`/^.{1,16}$/`| 
-|`debtor_account_number`|✔|`string`|`/^.{1,64}$/`| 
+|`debtor_account_number`|✗|`string`|`/^.{1,64}$/`| 
 |`creditor_sort_code`|✗|`string`|`/^.{1,16}$/`| 
-|`creditor_account_number`|✔|`string`|`/^.{1,64}$/`| 
+|`creditor_account_number`|✗|`string`|`/^.{1,64}$/`| 
  
 
 ### Details 
@@ -57,7 +57,7 @@
  
 	Regexp: `/^.{1,64}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] The Debtor’s Provider account number 
@@ -93,7 +93,7 @@
  
 	Regexp: `/^.{1,64}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] The Creditor’s Provider account number 
@@ -142,7 +142,7 @@
         "uk":"\u041d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 \u043f\u043e\u0441\u0442\u0430\u0447\u0430\u043b\u044c\u043d\u0438\u043a\u0430 \u0414\u0435\u0431\u0456\u0442\u043e\u0440\u0430"
       },
       "regexp":"\/^.{1,64}$\/",
-      "required":true,
+      "required":false,
       "position":2,
       "hint":{
         "en":"Enter Debtor\u2019s Provider account number",
@@ -178,7 +178,7 @@
         "uk":"\u041d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 \u043f\u043e\u0441\u0442\u0430\u0447\u0430\u043b\u044c\u043d\u0438\u043a\u0430 \u041a\u0440\u0435\u0434\u0438\u0442\u043e\u0440\u0430"
       },
       "regexp":"\/^.{1,64}$\/",
-      "required":true,
+      "required":false,
       "position":4,
       "hint":{
         "en":"Enter Creditor\u2019s Provider account number",

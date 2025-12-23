@@ -46,6 +46,13 @@ The list of supported [Payment Methods](/payment-methods/)
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![carrierbilling](https://static.openfintech.io/payment_methods/carrierbilling/icon.png?w=278&c=v0.59.26#w100) |[carrierbilling](/payment-methods/carrierbilling/)|`carrierbilling`| 
+|![bancontact](https://static.openfintech.io/payment_methods/bancontact/icon.png?w=278&c=v0.59.26#w100) |[bancontact](/payment-methods/bancontact/)|`bancontact`| 
+|![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik](/payment-methods/blik/)|`blik`| 
+|![eps](https://static.openfintech.io/payment_methods/eps/icon.png?w=278&c=v0.59.26#w100) |[eps](/payment-methods/eps/)|`eps`| 
+|![multibanco](https://static.openfintech.io/payment_methods/multibanco/icon.png?w=278&c=v0.59.26#w100) |[multibanco](/payment-methods/multibanco/)|`multibanco`| 
+|![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2](/payment-methods/mybank2/)|`mybank2`| 
+|![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.png?w=278&c=v0.59.26#w100) |[przelewy24](/payment-methods/przelewy24/)|`przelewy24`| 
+|![payu](https://static.openfintech.io/payment_methods/payu/icon.png?w=278&c=v0.59.26#w100) |[payu](/payment-methods/payu/)|`payu`| 
  
 
 ## JSON Object 
@@ -62,7 +69,14 @@ The list of supported [Payment Methods](/payment-methods/)
   "countries":null,
   "payment_method":[
     "payment_card",
-    "carrierbilling"
+    "carrierbilling",
+    "bancontact",
+    "blik",
+    "eps",
+    "multibanco",
+    "mybank2",
+    "przelewy24",
+    "payu"
   ],
   "payout_method":null,
   "metadata":null,

@@ -41,6 +41,8 @@ The list of [Payment Services](/payment-services/) based on the _eps e-payment_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![eps](https://static.openfintech.io/payment_methods/eps/icon.png?w=278&c=v0.59.26#w100) |[eps_eur_hpp](/payment-services/eps_eur_hpp/)|`eps_eur_hpp`| 
+|![eps](https://static.openfintech.io/payment_methods/eps/icon.png?w=278&c=v0.59.26#w100) |[eps_czk_hpp](/payment-services/eps_czk_hpp/)|`eps_czk_hpp`| 
+|![eps](https://static.openfintech.io/payment_methods/eps/icon.png?w=278&c=v0.59.26#w100) |[eps_pln_hpp](/payment-services/eps_pln_hpp/)|`eps_pln_hpp`| 
  
 
 ## Payment Providers 
@@ -69,6 +71,7 @@ The list of [Payment Providers](/payment-providers/) that support the _eps e-pay
 |![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.png?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
 |![spoynt](https://static.openfintech.io/payment_providers/spoynt/icon.svg?w=278&c=v0.59.26#w100) |[Spoynt](/payment-providers/spoynt/)|`spoynt`| 
 |![todapay](https://static.openfintech.io/payment_providers/todapay/icon.png?w=278&c=v0.59.26#w100) |[TODA Pay](/payment-providers/todapay/)|`todapay`| 
+|![dimocopayments](https://static.openfintech.io/payment_providers/dimocopayments/icon.png?w=278&c=v0.59.26#w100) |[DIMOCO](/payment-providers/dimocopayments/)|`dimocopayments`| 
 |![siquro](https://static.openfintech.io/payment_providers/siquro/icon.png?w=278&c=v0.59.26#w100) |[Siquro](/payment-providers/siquro/)|`siquro`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
 |![gateiq](https://static.openfintech.io/payment_providers/gateiq/icon.svg?w=278&c=v0.59.26#w100) |[GateIQ](/payment-providers/gateiq/)|`gateiq`| 

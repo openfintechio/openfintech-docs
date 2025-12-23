@@ -37,6 +37,8 @@ The list of [Payment Services](/payment-services/) based on the _bancontact_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bancontact](https://static.openfintech.io/payment_methods/bancontact/icon.png?w=278&c=v0.59.26#w100) |[bancontact_eur_hpp](/payment-services/bancontact_eur_hpp/)|`bancontact_eur_hpp`| 
+|![bancontact](https://static.openfintech.io/payment_methods/bancontact/icon.png?w=278&c=v0.59.26#w100) |[bancontact_pln_hpp](/payment-services/bancontact_pln_hpp/)|`bancontact_pln_hpp`| 
+|![bancontact](https://static.openfintech.io/payment_methods/bancontact/icon.png?w=278&c=v0.59.26#w100) |[bancontact_czk_hpp](/payment-services/bancontact_czk_hpp/)|`bancontact_czk_hpp`| 
  
 
 ## Payment Providers 
@@ -49,6 +51,7 @@ The list of [Payment Providers](/payment-providers/) that support the _bancontac
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![unityfinance](https://static.openfintech.io/payment_providers/unityfinance/icon.svg?w=278&c=v0.59.26#w100) |[UnityFinance](/payment-providers/unityfinance/)|`unityfinance`| 
 |![justipay](https://static.openfintech.io/payment_providers/justipay/icon.png?w=278&c=v0.59.26#w100) |[Justipay](/payment-providers/justipay/)|`justipay`| 
+|![dimocopayments](https://static.openfintech.io/payment_providers/dimocopayments/icon.png?w=278&c=v0.59.26#w100) |[DIMOCO](/payment-providers/dimocopayments/)|`dimocopayments`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
 |![rampnow](https://static.openfintech.io/payment_providers/rampnow/icon.svg?w=278&c=v0.59.26#w100) |[Rampnow](/payment-providers/rampnow/)|`rampnow`| 
  

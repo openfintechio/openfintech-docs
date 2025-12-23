@@ -1,5 +1,5 @@
 
-# Faster Payments Scheme Ltd (FPSL) 
+# Faster Payments 
 ![faster_payments](https://static.openfintech.io/payment_methods/faster_payments/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,9 +7,9 @@
  
 **Name:** 
  
-:	[EN] Faster Payments Scheme Ltd (FPSL) 
-:	[RU] Faster Payments Scheme Ltd (FPSL) 
-:	[UK] Faster Payments Scheme Ltd (FPSL) 
+:	[EN] Faster Payments 
+:	[RU] Faster Payments 
+:	[UK] Faster Payments 
  
 **Category:** `bank_transfer` 
  
@@ -32,7 +32,7 @@ https://static.openfintech.io/payment_methods/faster_payments/icon.svg?w=278&c=v
 
 ## Payment Services 
  
-The list of [Payment Services](/payment-services/) based on the _Faster Payments Scheme Ltd (FPSL)_ 
+The list of [Payment Services](/payment-services/) based on the _Faster Payments_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -46,9 +46,9 @@ The list of [Payment Services](/payment-services/) based on the _Faster Payments
   "code":"faster_payments",
   "vendor":null,
   "name":{
-    "en":"Faster Payments Scheme Ltd (FPSL)",
-    "ru":"Faster Payments Scheme Ltd (FPSL)",
-    "uk":"Faster Payments Scheme Ltd (FPSL)"
+    "en":"Faster Payments",
+    "ru":"Faster Payments",
+    "uk":"Faster Payments"
   },
   "description":null,
   "countries":null,

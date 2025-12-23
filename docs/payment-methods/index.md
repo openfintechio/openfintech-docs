@@ -388,7 +388,7 @@
 |![farmaciasbenavides](https://static.openfintech.io/payment_methods/farmaciasbenavides/logo.svg?w=400&c=v0.59.26#w200) |[**Farmacias Benavides**](farmaciasbenavides/)|`farmaciasbenavides`| 
 |![farmaciasdelahorro](https://static.openfintech.io/payment_methods/farmaciasdelahorro/logo.svg?w=400&c=v0.59.26#w200) |[**Farmacias del Ahorro**](farmaciasdelahorro/)|`farmaciasdelahorro`| 
 |![fastcheckoutmultisafepay](https://static.openfintech.io/payment_methods/fastcheckoutmultisafepay/logo.png?w=400&c=v0.59.26#w200) |[**MultiSafepay**](fastcheckoutmultisafepay/)|`fastcheckoutmultisafepay`| 
-|![faster_payments](https://static.openfintech.io/payment_methods/faster_payments/logo.svg?w=400&c=v0.59.26#w200) |[**Faster Payments Scheme Ltd (FPSL)**](faster_payments/)|`faster_payments`| 
+|![faster_payments](https://static.openfintech.io/payment_methods/faster_payments/logo.svg?w=400&c=v0.59.26#w200) |[**Faster Payments**](faster_payments/)|`faster_payments`| 
 |![fawry_crypto](https://static.openfintech.io/payment_methods/fawry_crypto/logo.png?w=400&c=v0.59.26#w200) |[**Fawry**](fawry_crypto/)|`fawry_crypto`| 
 |![federal_bank_india](https://static.openfintech.io/payment_methods/federal_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Federal Bank of India**](federal_bank_india/)|`federal_bank_india`| 
 |![flexepinemoneyvouchers](https://static.openfintech.io/payment_methods/flexepinemoneyvouchers/logo.png?w=400&c=v0.59.26#w200) |[**Flexepin**](flexepinemoneyvouchers/)|`flexepinemoneyvouchers`| 
@@ -721,6 +721,7 @@
 |![payskin](https://static.openfintech.io/payment_methods/payskin/logo.svg?w=400&c=v0.59.26#w200) |[**Payskin**](payskin/)|`payskin`| 
 |![paytm](https://static.openfintech.io/payment_methods/paytm/logo.svg?w=400&c=v0.59.26#w200) |[**PAYTM Wallet**](paytm/)|`paytm`| 
 |![paytm_payments_bank](https://static.openfintech.io/payment_methods/paytm_payments_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Paytm Payments Bank**](paytm_payments_bank/)|`paytm_payments_bank`| 
+|![payu](https://static.openfintech.io/payment_methods/payu/logo.png?w=400&c=v0.59.26#w200) |[**PayU**](payu/)|`payu`| 
 |![paywise_cash](https://static.openfintech.io/payment_methods/paywise_cash/logo.svg?w=400&c=v0.59.26#w200) |[**PayWise Cash transfer**](paywise_cash/)|`paywise_cash`| 
 |![payzapp](https://static.openfintech.io/payment_methods/payzapp/logo.png?w=400&c=v0.59.26#w200) |[**HDFC PayZapp**](payzapp/)|`payzapp`| 
 |![payzippy](https://static.openfintech.io/payment_methods/payzippy/logo.png?w=400&c=v0.59.26#w200) |[**PayZippy**](payzippy/)|`payzippy`| 

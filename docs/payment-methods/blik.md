@@ -40,6 +40,7 @@ The list of [Payment Services](/payment-services/) based on the _BLIK_
 |![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik_pln_invoice](/payment-services/blik_pln_invoice/)|`blik_pln_invoice`| 
 |![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik_usd_hpp](/payment-services/blik_usd_hpp/)|`blik_usd_hpp`| 
 |![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik_eur_hpp](/payment-services/blik_eur_hpp/)|`blik_eur_hpp`| 
+|![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik_czk_hpp](/payment-services/blik_czk_hpp/)|`blik_czk_hpp`| 
  
 
 ## Payment Providers 
@@ -58,6 +59,7 @@ The list of [Payment Providers](/payment-providers/) that support the _BLIK_
 |![paysage](https://static.openfintech.io/payment_providers/paysage/icon.png?w=278&c=v0.59.26#w100) |[COLIBRIX](/payment-providers/paysage/)|`paysage`| 
 |![justipay](https://static.openfintech.io/payment_providers/justipay/icon.png?w=278&c=v0.59.26#w100) |[Justipay](/payment-providers/justipay/)|`justipay`| 
 |![todapay](https://static.openfintech.io/payment_providers/todapay/icon.png?w=278&c=v0.59.26#w100) |[TODA Pay](/payment-providers/todapay/)|`todapay`| 
+|![dimocopayments](https://static.openfintech.io/payment_providers/dimocopayments/icon.png?w=278&c=v0.59.26#w100) |[DIMOCO](/payment-providers/dimocopayments/)|`dimocopayments`| 
 |![leobank](https://static.openfintech.io/payment_providers/leobank/icon.svg?w=278&c=v0.59.26#w100) |[Digimeth](/payment-providers/leobank/)|`leobank`| 
 |![lemanpay](https://static.openfintech.io/payment_providers/lemanpay/icon.svg?w=278&c=v0.59.26#w100) |[LemanPay](/payment-providers/lemanpay/)|`lemanpay`| 
 |![convergegate](https://static.openfintech.io/payment_providers/convergegate/icon.svg?w=278&c=v0.59.26#w100) |[Converge Gate](/payment-providers/convergegate/)|`convergegate`| 
