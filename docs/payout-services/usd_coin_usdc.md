@@ -16,7 +16,7 @@
 :	[RU] USD Coin 
 :	[UK] USD Coin 
  
-**Amount limits:** from `0.01` to `1000000` USDC 
+**Amount limits:** from `0.01` to `100000` USDC 
 
 ## Fields 
 
@@ -75,6 +75,6 @@
     }
   ],
   "amount_min":"0.01",
-  "amount_max":"1000000"
+  "amount_max":"100000"
 }
 ```  

@@ -1,22 +1,22 @@
 
-# TRON (service) 
-![tron_trx](https://static.openfintech.io/payout_methods/tron_trx/logo.svg?w=400&c=v0.59.26#w24)  
+# Tether (service) 
+![tether_usdt](https://static.openfintech.io/payout_methods/tether_usdt/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
  
-**Code:** `tron_trx` 
+**Code:** `tether_usdt` 
  
-**Method:** `tron` [show -->](/payout-methods/tron/) 
+**Method:** `tether` [show -->](/payout-methods/tether/) 
  
-**Currency:** `TRX` [show -->](/currencies/TRX/) 
+**Currency:** `USDT` [show -->](/currencies/USDT/) 
  
 **Name:** 
  
-:	[EN] TRON 
-:	[RU] TRON 
-:	[UK] TRON 
+:	[EN] Tether 
+:	[RU] Tether 
+:	[UK] Tether 
  
-**Amount limits:** from `0.000001` to `100000` TRX 
+**Amount limits:** from `0.01` to `100000` USDT 
 
 ## Fields 
 
@@ -52,9 +52,9 @@
 
 ```json
 {
-  "code":"tron_trx",
-  "method":"tron",
-  "currency":"TRX",
+  "code":"tether_usdt",
+  "method":"tether",
+  "currency":"USDT",
   "fields":[
     {
       "key":"wallet_id",
@@ -74,7 +74,7 @@
       "position":1
     }
   ],
-  "amount_min":"0.000001",
+  "amount_min":"0.01",
   "amount_max":"100000"
 }
 ```  
