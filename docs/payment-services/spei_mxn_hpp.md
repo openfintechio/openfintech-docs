@@ -25,7 +25,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`cpf_number`|✗|`string`|`/^(([A-Z][AEIOUX][A-Z]{2}\d{2}(?:0[1-9]\|1[0-2])(?:0[1-9]\|[12]\d\|3[01])[HM](?:AS\|B[CS]\|C[CLMSH]\|D[FG]\|G[TR]\|HG\|JC\|M[CNS]\|N[ETL]\|OC\|PL\|Q[TR]\|S[PLR]\|T[CSL]\|VZ\|YN\|ZS)[B-DF-HJ-NP-TV-Z]{3}[A-Z\d])(\d)$)\|(^[0-9\.\-]{1,11})$/`| 
+|`cpf_number`|✗|`string`|`/^(([A-Z][AEIOUX][A-Z]{2}\d{2}(?:0[1-9]\|1[0-2])(?:0[1-9]\|[12]\d\|3[01])[HM](?:AS\|B[CS]\|C[CLMSH]\|D[FG]\|G[TR]\|HG\|JC\|M[CNS]\|N[ETL]\|OC\|PL\|Q[TR]\|S[PLR]\|T[CSL]\|VZ\|YN\|ZS)[B-DF-HJ-NP-TV-Z]{3}[A-Z\d])(\d)$)\|(^[0-9\.\-]{1,13})$/`| 
 |`phone`|✗|`string`|`/^\+?\d{10,14}$/`| 
 |`email`|✗|`string`|`/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$$/`| 
 |`payer_first_name`|✗|`string`|`/^[-\s\p{L}]{2,100}$/u`| 
@@ -38,7 +38,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^(([A-Z][AEIOUX][A-Z]{2}\d{2}(?:0[1-9]|1[0-2])(?:0[1-9]|[12]\d|3[01])[HM](?:AS|B[CS]|C[CLMSH]|D[FG]|G[TR]|HG|JC|M[CNS]|N[ETL]|OC|PL|Q[TR]|S[PLR]|T[CSL]|VZ|YN|ZS)[B-DF-HJ-NP-TV-Z]{3}[A-Z\d])(\d)$)|(^[0-9\.\-]{1,11})$/` 
+	Regexp: `/^(([A-Z][AEIOUX][A-Z]{2}\d{2}(?:0[1-9]|1[0-2])(?:0[1-9]|[12]\d|3[01])[HM](?:AS|B[CS]|C[CLMSH]|D[FG]|G[TR]|HG|JC|M[CNS]|N[ETL]|OC|PL|Q[TR]|S[PLR]|T[CSL]|VZ|YN|ZS)[B-DF-HJ-NP-TV-Z]{3}[A-Z\d])(\d)$)|(^[0-9\.\-]{1,13})$/` 
  
 	Required: `` 
  
@@ -137,7 +137,7 @@
     {
       "key":"cpf_number",
       "type":"string",
-      "regexp":"\/^(([A-Z][AEIOUX][A-Z]{2}\\d{2}(?:0[1-9]|1[0-2])(?:0[1-9]|[12]\\d|3[01])[HM](?:AS|B[CS]|C[CLMSH]|D[FG]|G[TR]|HG|JC|M[CNS]|N[ETL]|OC|PL|Q[TR]|S[PLR]|T[CSL]|VZ|YN|ZS)[B-DF-HJ-NP-TV-Z]{3}[A-Z\\d])(\\d)$)|(^[0-9\\.\\-]{1,11})$\/",
+      "regexp":"\/^(([A-Z][AEIOUX][A-Z]{2}\\d{2}(?:0[1-9]|1[0-2])(?:0[1-9]|[12]\\d|3[01])[HM](?:AS|B[CS]|C[CLMSH]|D[FG]|G[TR]|HG|JC|M[CNS]|N[ETL]|OC|PL|Q[TR]|S[PLR]|T[CSL]|VZ|YN|ZS)[B-DF-HJ-NP-TV-Z]{3}[A-Z\\d])(\\d)$)|(^[0-9\\.\\-]{1,13})$\/",
       "required":false,
       "position":1,
       "label":{
