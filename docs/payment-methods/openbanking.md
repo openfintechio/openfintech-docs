@@ -56,6 +56,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Openbanki
 |![betterbro](https://static.openfintech.io/payment_providers/betterbro/icon.png?w=278&c=v0.59.26#w100) |[Betterbro](/payment-providers/betterbro/)|`betterbro`| 
 |![siquro](https://static.openfintech.io/payment_providers/siquro/icon.png?w=278&c=v0.59.26#w100) |[Siquro](/payment-providers/siquro/)|`siquro`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
+|![inpay](https://static.openfintech.io/payment_providers/inpay/icon.svg?w=278&c=v0.59.26#w100) |[inpay](/payment-providers/inpay/)|`inpay`| 
  
 
 ## JSON Object 
