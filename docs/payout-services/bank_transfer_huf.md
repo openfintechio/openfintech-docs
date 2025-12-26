@@ -41,6 +41,7 @@
 |`beneficiary_state`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
 |`beneficiary_address`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
 |`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
+|`beneficiary_date_of_birth`|✗|`string`|`/^\d{4}-\d{2}-\d{2}$/`| 
 |`sender_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
 |`beneficiary_itn`|✗|`string`|`/^\d{10}$/`| 
  
@@ -353,7 +354,25 @@
 	: [RU] Введите полное имя получателя 
 	: [UK] Введіть повне імʼя отримувача 
  
-18. **`sender_full_name`** 
+18. **`beneficiary_date_of_birth`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^\d{4}-\d{2}-\d{2}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Date of birth 
+	: [RU] Дата рождения 
+	: [UK] Дата народження 
+ 
+	Hint:  
+	: [EN] Date of birth 
+	: [RU] Дата рождения 
+	: [UK] Дата народження 
+ 
+19. **`sender_full_name`** 
  
 	Type: `string` 
  
@@ -371,7 +390,7 @@
 	: [RU] Введите полное имя отправителя 
 	: [UK] Введіть повне імʼя відправкника 
  
-19. **`beneficiary_itn`** 
+20. **`beneficiary_itn`** 
  
 	Type: `string` 
  
@@ -689,11 +708,29 @@
       }
     },
     {
+      "key":"beneficiary_date_of_birth",
+      "type":"string",
+      "regexp":"\/^\\d{4}-\\d{2}-\\d{2}$\/",
+      "required":false,
+      "position":18,
+      "label":{
+        "en":"Date of birth",
+        "ru":"\u0414\u0430\u0442\u0430 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
+        "uk":"\u0414\u0430\u0442\u0430 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f"
+      },
+      "hint":{
+        "en":"Date of birth",
+        "ru":"\u0414\u0430\u0442\u0430 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
+        "uk":"\u0414\u0430\u0442\u0430 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f"
+      },
+      "example":"1999-02-02"
+    },
+    {
       "key":"sender_full_name",
       "type":"string",
       "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\d\\s]{2,100}$\/",
       "required":false,
-      "position":18,
+      "position":19,
       "label":{
         "en":"Sender full name",
         "ru":"\u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044f",
@@ -710,7 +747,7 @@
       "type":"string",
       "regexp":"\/^\\d{10}$\/",
       "required":false,
-      "position":19,
+      "position":20,
       "label":{
         "en":"Beneficiary ITN",
         "ru":"\u0418\u041d\u041d \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",

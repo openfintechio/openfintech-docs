@@ -33,6 +33,11 @@
 |`bank_branch_code`|✗|`string`|`/^[0-9]{2,100}$/`| 
 |`ifsc`|✗|`string`|`/^[A-Za-z0-9]{11}$/`| 
 |`bank_name`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
+|`beneficiary_country`|✗|`string`|`/^[A-Z]{2}$/`| 
+|`beneficiary_city`|✗|`string`|`/^[A-Za-z,\s\-\d]{2,64}$/`| 
+|`beneficiary_address`|✗|`string`|`/^[A-Za-z{*}, -d]{2,64}$/`| 
+|`beneficiary_postcode`|✗|`string`|`/^[\w\-\s]{1,64}$/`| 
+|`beneficiary_date_of_birth`|✗|`string`|`/^\d{4}-\d{2}-\d{2}$/`| 
  
 
 ### Details 
@@ -198,6 +203,96 @@
 	: [EN] Enter bank name 
 	: [RU] Введите название банка 
 	: [UK] Введіть назву банку 
+ 
+10. **`beneficiary_country`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Z]{2}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary country code 
+	: [RU] Beneficiary country code 
+	: [UK] Beneficiary country code 
+ 
+	Hint:  
+	: [EN] Enter beneficiary country code 
+	: [RU] Введите beneficiary country code 
+	: [UK] Введіть beneficiary country code 
+ 
+11. **`beneficiary_city`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z,\s\-\d]{2,64}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary city 
+	: [RU] Beneficiary city 
+	: [UK] Beneficiary city 
+ 
+	Hint:  
+	: [EN] Enter beneficiary city 
+	: [RU] Введите beneficiary city 
+	: [UK] Введіть beneficiary city 
+ 
+12. **`beneficiary_address`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z{*}, -d]{2,64}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary address 
+	: [RU] Beneficiary address 
+	: [UK] Beneficiary address 
+ 
+	Hint:  
+	: [EN] Enter beneficiary address 
+	: [RU] Введите адрес получателя 
+	: [UK] Введіть адресу отримувача 
+ 
+13. **`beneficiary_postcode`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[\w\-\s]{1,64}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary postcode 
+	: [RU] Beneficiary postcode 
+	: [UK] Beneficiary postcode 
+ 
+	Hint:  
+	: [EN] Enter beneficiary postcode 
+	: [RU] Введите beneficiary postcode 
+	: [UK] Введіть beneficiary postcode 
+ 
+14. **`beneficiary_date_of_birth`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^\d{4}-\d{2}-\d{2}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Date of birth 
+	: [RU] Дата рождения 
+	: [UK] Дата народження 
+ 
+	Hint:  
+	: [EN] Date of birth 
+	: [RU] Дата рождения 
+	: [UK] Дата народження 
  
 
 ## JSON Object 
@@ -366,6 +461,95 @@
       "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}]{2,100}$\/u",
       "required":false,
       "position":9
+    },
+    {
+      "key":"beneficiary_country",
+      "type":"string",
+      "label":{
+        "en":"Beneficiary country code",
+        "ru":"Beneficiary country code",
+        "uk":"Beneficiary country code"
+      },
+      "hint":{
+        "en":"Enter beneficiary country code",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 beneficiary country code",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c beneficiary country code"
+      },
+      "regexp":"\/^[A-Z]{2}$\/",
+      "required":false,
+      "position":10,
+      "example":"UA"
+    },
+    {
+      "key":"beneficiary_city",
+      "type":"string",
+      "label":{
+        "en":"Beneficiary city",
+        "ru":"Beneficiary city",
+        "uk":"Beneficiary city"
+      },
+      "hint":{
+        "en":"Enter beneficiary city",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 beneficiary city",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c beneficiary city"
+      },
+      "regexp":"\/^[A-Za-z,\\s\\-\\d]{2,64}$\/",
+      "required":false,
+      "position":11,
+      "example":"Kyiv"
+    },
+    {
+      "key":"beneficiary_address",
+      "type":"string",
+      "label":{
+        "en":"Beneficiary address",
+        "ru":"Beneficiary address",
+        "uk":"Beneficiary address"
+      },
+      "hint":{
+        "en":"Enter beneficiary address",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0430\u0434\u0440\u0435\u0441 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0430\u0434\u0440\u0435\u0441\u0443 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "regexp":"\/^[A-Za-z{*}, -d]{2,64}$\/",
+      "required":false,
+      "position":12,
+      "example":"Dzerzhinskogo str., bld. 30"
+    },
+    {
+      "key":"beneficiary_postcode",
+      "type":"string",
+      "regexp":"\/^[\\w\\-\\s]{1,64}$\/",
+      "required":false,
+      "position":13,
+      "label":{
+        "en":"Beneficiary postcode",
+        "ru":"Beneficiary postcode",
+        "uk":"Beneficiary postcode"
+      },
+      "hint":{
+        "en":"Enter beneficiary postcode",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 beneficiary postcode",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c beneficiary postcode"
+      }
+    },
+    {
+      "key":"beneficiary_date_of_birth",
+      "type":"string",
+      "regexp":"\/^\\d{4}-\\d{2}-\\d{2}$\/",
+      "required":false,
+      "position":14,
+      "label":{
+        "en":"Date of birth",
+        "ru":"\u0414\u0430\u0442\u0430 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
+        "uk":"\u0414\u0430\u0442\u0430 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f"
+      },
+      "hint":{
+        "en":"Date of birth",
+        "ru":"\u0414\u0430\u0442\u0430 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
+        "uk":"\u0414\u0430\u0442\u0430 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f"
+      },
+      "example":"1999-02-02"
     }
   ],
   "amount_min":0.01,
