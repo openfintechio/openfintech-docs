@@ -1,6 +1,6 @@
 
 # inpay 
-![inpay](https://static.openfintech.io/payment_providers/inpay/logo.svg?w=400&c=v0.59.26#w100)  
+![inpay](https://static.openfintech.io/payment_providers/inpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![inpay](https://static.openfintech.io/payment_providers/inpay/logo.svg?w=400&c=v0.59.26#w100)  
+![inpay](https://static.openfintech.io/payment_providers/inpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/inpay/logo.svg?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/inpay/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![inpay](https://static.openfintech.io/payment_providers/inpay/icon.svg?w=278&c=v0.59.26#w100)  
+![inpay](https://static.openfintech.io/payment_providers/inpay/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/inpay/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/inpay/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 

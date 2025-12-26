@@ -43,6 +43,7 @@
 |`payment_purpose`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
 |`document_type`|✗|`string`|`/^.{1,32}$/`| 
 |`document_id`|✗|`string`|`/^[0-9]{1,13}$/`| 
+|`routing_number`|✗|`string`|`/^\d{1,16}$/`| 
  
 
 ### Details 
@@ -389,6 +390,24 @@
 	: [RU] Введите номер документа получателя 
 	: [UK] Введіть номер документа отримувача 
  
+20. **`routing_number`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^\d{1,16}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Routing number 
+	: [RU] Routing number 
+	: [UK] Routing number 
+ 
+	Hint:  
+	: [EN] Enter routing number 
+	: [RU] Enter routing number 
+	: [UK] Enter routing number 
+ 
 
 ## JSON Object 
 
@@ -728,6 +747,24 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
       },
       "example":"1450284414727"
+    },
+    {
+      "key":"routing_number",
+      "type":"string",
+      "regexp":"\/^\\d{1,16}$\/",
+      "required":false,
+      "position":20,
+      "label":{
+        "en":"Routing number",
+        "ru":"Routing number",
+        "uk":"Routing number"
+      },
+      "hint":{
+        "en":"Enter routing number",
+        "ru":"Enter routing number",
+        "uk":"Enter routing number"
+      },
+      "example":"123450012"
     }
   ],
   "amount_min":"0.01",

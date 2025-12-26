@@ -52,6 +52,7 @@ The list of [Payment Providers](/payment-providers/) that support the _JazzCash_
 |![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
 |![odeonpay](https://static.openfintech.io/payment_providers/odeonpay/icon.png?w=278&c=v0.59.26#w100) |[OdeonPay](/payment-providers/odeonpay/)|`odeonpay`| 
 |![gamespay](https://static.openfintech.io/payment_providers/gamespay/icon.svg?w=278&c=v0.59.26#w100) |[PayGames](/payment-providers/gamespay/)|`gamespay`| 
+|![assanpay](https://static.openfintech.io/payment_providers/assanpay/icon.png?w=278&c=v0.59.26#w100) |[AssanPay](/payment-providers/assanpay/)|`assanpay`| 
 |![blueworld](https://static.openfintech.io/payment_providers/blueworld/icon.png?w=278&c=v0.59.26#w100) |[Linx Tech Solutions](/payment-providers/blueworld/)|`blueworld`| 
 |![cashix](https://static.openfintech.io/payment_providers/cashix/icon.png?w=278&c=v0.59.26#w100) |[Cashix](/payment-providers/cashix/)|`cashix`| 
 |![takapayjazzcash](https://static.openfintech.io/payment_providers/takapayjazzcash/icon.png?w=278&c=v0.59.26#w100) |[TakapayJazzCash](/payment-providers/takapayjazzcash/)|`takapayjazzcash`| 

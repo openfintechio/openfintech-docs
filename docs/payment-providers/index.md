@@ -466,7 +466,7 @@
 |![ingbankpl](https://static.openfintech.io/payment_providers/ingbankpl/logo.svg?w=600&c=v0.59.26#w100) |[**ING Bank Poland**](ingbankpl/)|`ingbankpl`| 
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/logo.png?w=600&c=v0.59.26#w100) |[**Ingenico ePayments**](ingenicopaymentservices/)|`ingenicopaymentservices`| 
 |![innovatepayments](https://static.openfintech.io/payment_providers/innovatepayments/logo.png?w=600&c=v0.59.26#w100) |[**Innovate Payments**](innovatepayments/)|`innovatepayments`| 
-|![inpay](https://static.openfintech.io/payment_providers/inpay/logo.svg?w=600&c=v0.59.26#w100) |[**inpay**](inpay/)|`inpay`| 
+|![inpay](https://static.openfintech.io/payment_providers/inpay/logo.png?w=600&c=v0.59.26#w100) |[**inpay**](inpay/)|`inpay`| 
 |![inpendium](https://static.openfintech.io/payment_providers/inpendium/logo.png?w=600&c=v0.59.26#w100) |[**Inpendium**](inpendium/)|`inpendium`| 
 |![inqud](https://static.openfintech.io/payment_providers/inqud/logo.svg?w=600&c=v0.59.26#w100) |[**Inqud**](inqud/)|`inqud`| 
 |![instabill](https://static.openfintech.io/payment_providers/instabill/logo.png?w=600&c=v0.59.26#w100) |[**Instabill**](instabill/)|`instabill`| 
