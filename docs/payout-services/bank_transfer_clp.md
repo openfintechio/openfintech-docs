@@ -27,7 +27,7 @@
 |`beneficiary_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
 |`beneficiary_lastname`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
 |`beneficiary_document_id`|✗|`string`|`/^[A-Za-z0-9]{3,20}$/`| 
-|`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
+|`bank_code`|✗|`string`|`/^[A-Za-z0-9_]{2,20}$/`| 
 |`account_number`|✗|`string`|`/^[0-9]{5,100}$/`| 
 |`account_type`|✗|`string`|`/^[A-Za-z0-9]{1,10}$/`| 
 |`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
@@ -106,7 +106,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-z0-9]{2,20}$/` 
+	Regexp: `/^[A-Za-z0-9_]{2,20}$/` 
  
 	Required: `` 
  
@@ -471,7 +471,7 @@
     {
       "key":"bank_code",
       "type":"string",
-      "regexp":"\/^[A-Za-z0-9]{2,20}$\/",
+      "regexp":"\/^[A-Za-z0-9_]{2,20}$\/",
       "label":{
         "en":"Bank Code",
         "ru":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
