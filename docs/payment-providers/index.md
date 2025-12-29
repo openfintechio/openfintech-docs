@@ -891,6 +891,7 @@
 |![ragapay](https://static.openfintech.io/payment_providers/ragapay/logo.png?w=600&c=v0.59.26#w100) |[**Ragapay**](ragapay/)|`ragapay`| 
 |![raiffeisenbank](https://static.openfintech.io/payment_providers/raiffeisenbank/logo.svg?w=600&c=v0.59.26#w100) |[**Raiffeisen Bank**](raiffeisenbank/)|`raiffeisenbank`| 
 |![rampnow](https://static.openfintech.io/payment_providers/rampnow/logo.png?w=600&c=v0.59.26#w100) |[**Rampnow**](rampnow/)|`rampnow`| 
+|![raptorway](https://static.openfintech.io/payment_providers/raptorway/logo.svg?w=600&c=v0.59.26#w100) |[**RaptorWay**](raptorway/)|`raptorway`| 
 |![rapyd](https://static.openfintech.io/payment_providers/rapyd/logo.svg?w=600&c=v0.59.26#w100) |[**Rapyd**](rapyd/)|`rapyd`| 
 |![rashpay](https://static.openfintech.io/payment_providers/rashpay/logo.svg?w=600&c=v0.59.26#w100) |[**RashPay**](rashpay/)|`rashpay`| 
 |![rastpay](https://static.openfintech.io/payment_providers/rastpay/logo.svg?w=600&c=v0.59.26#w100) |[**Rastpay**](rastpay/)|`rastpay`| 
