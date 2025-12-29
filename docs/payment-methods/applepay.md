@@ -117,6 +117,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Apple Pay
 |![impaya](https://static.openfintech.io/payment_providers/impaya/icon.png?w=278&c=v0.59.26#w100) |[Impaya](/payment-providers/impaya/)|`impaya`| 
 |![cashbulls](https://static.openfintech.io/payment_providers/cashbulls/icon.png?w=278&c=v0.59.26#w100) |[Cash Bulls](/payment-providers/cashbulls/)|`cashbulls`| 
 |![payabl](https://static.openfintech.io/payment_providers/payabl/icon.png?w=278&c=v0.59.26#w100) |[Payabl.](/payment-providers/payabl/)|`payabl`| 
+|![libernetix](https://static.openfintech.io/payment_providers/libernetix/icon.svg?w=278&c=v0.59.26#w100) |[Libernetix](/payment-providers/libernetix/)|`libernetix`| 
 |![aliumpay](https://static.openfintech.io/payment_providers/aliumpay/icon.svg?w=278&c=v0.59.26#w100) |[AliumPay](/payment-providers/aliumpay/)|`aliumpay`| 
 |![btgate](https://static.openfintech.io/payment_providers/btgate/icon.png?w=278&c=v0.59.26#w100) |[btGate](/payment-providers/btgate/)|`btgate`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
