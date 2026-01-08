@@ -909,6 +909,7 @@
 |![reeves](https://static.openfintech.io/payment_providers/reeves/logo.png?w=600&c=v0.59.26#w100) |[**Reeves**](reeves/)|`reeves`| 
 |![regularpay](https://static.openfintech.io/payment_providers/regularpay/logo.png?w=600&c=v0.59.26#w100) |[**RegularPay**](regularpay/)|`regularpay`| 
 |![remitos](https://static.openfintech.io/payment_providers/remitos/logo.png?w=600&c=v0.59.26#w100) |[**Remitos**](remitos/)|`remitos`| 
+|![reset](https://static.openfintech.io/payment_providers/reset/logo.png?w=600&c=v0.59.26#w100) |[**Re-set**](reset/)|`reset`| 
 |![revolut](https://static.openfintech.io/payment_providers/revolut/logo.svg?w=600&c=v0.59.26#w100) |[**Revolut**](revolut/)|`revolut`| 
 |![rietumu](https://static.openfintech.io/payment_providers/rietumu/logo.png?w=600&c=v0.59.26#w100) |[**Rietumu Banka**](rietumu/)|`rietumu`| 
 |![rivierapay](https://static.openfintech.io/payment_providers/rivierapay/logo.svg?w=600&c=v0.59.26#w100) |[**RivieraPay**](rivierapay/)|`rivierapay`| 

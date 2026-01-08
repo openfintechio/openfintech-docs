@@ -602,6 +602,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![cyberpay](https://static.openfintech.io/payment_providers/cyberpay/icon.png?w=278&c=v0.59.26#w100) |[Cyberpay](/payment-providers/cyberpay/)|`cyberpay`| 
 |![dnspay](https://static.openfintech.io/payment_providers/dnspay/icon.svg?w=278&c=v0.59.26#w100) |[DNS PAY](/payment-providers/dnspay/)|`dnspay`| 
 |![epx](https://static.openfintech.io/payment_providers/epx/icon.png?w=278&c=v0.59.26#w100) |[North Enterprise](/payment-providers/epx/)|`epx`| 
+|![reset](https://static.openfintech.io/payment_providers/reset/icon.png?w=278&c=v0.59.26#w100) |[Re-set](/payment-providers/reset/)|`reset`| 
 |![aipay](https://static.openfintech.io/payment_providers/aipay/icon.png?w=278&c=v0.59.26#w100) |[AiPay](/payment-providers/aipay/)|`aipay`| 
 |![infinityspace](https://static.openfintech.io/payment_providers/infinityspace/icon.png?w=278&c=v0.59.26#w100) |[Infinity Space](/payment-providers/infinityspace/)|`infinityspace`| 
 |![startbutton](https://static.openfintech.io/payment_providers/startbutton/icon.png?w=278&c=v0.59.26#w100) |[Startbutton](/payment-providers/startbutton/)|`startbutton`| 

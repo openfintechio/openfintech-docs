@@ -1947,6 +1947,7 @@
 |![regionalna_filiya_prat_ufg_u_m_harkiv](https://static.openfintech.io/vendors/regionalna_filiya_prat_ufg_u_m_harkiv/logo.svg?w=600&c=v0.59.26#w200) |[**Регіональна філія ПрАТ 'Українська фінансова група' у м. Харків**](regionalna_filiya_prat_ufg_u_m_harkiv/)|`regionalna_filiya_prat_ufg_u_m_harkiv`| 
 |![regularpay](https://static.openfintech.io/vendors/regularpay/logo.png?w=600&c=v0.59.26#w200) |[**RegularPay**](regularpay/)|`regularpay`| 
 |![remitos](https://static.openfintech.io/vendors/remitos/logo.png?w=600&c=v0.59.26#w200) |[**Remitos**](remitos/)|`remitos`| 
+|![reset](https://static.openfintech.io/vendors/reset/logo.png?w=600&c=v0.59.26#w200) |[**Re-set**](reset/)|`reset`| 
 |![resona_bank](https://static.openfintech.io/vendors/resona_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Resona Bank,**](resona_bank/)|`resona_bank`| 
 |![resursbank](https://static.openfintech.io/vendors/resursbank/logo.svg?w=600&c=v0.59.26#w200) |[**Resurs bank**](resursbank/)|`resursbank`| 
 |![revolut](https://static.openfintech.io/vendors/revolut/logo.svg?w=600&c=v0.59.26#w200) |[**Revolut**](revolut/)|`revolut`| 
