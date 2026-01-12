@@ -1,5 +1,5 @@
 
-# RaptorWay 
+# Tranzify 
 ![raptorway](https://static.openfintech.io/payment_providers/raptorway/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] RaptorWay 
-:	[RU] RaptorWay 
-:	[UK] RaptorWay 
+:	[EN] Tranzify 
+:	[RU] Tranzify 
+:	[UK] Tranzify 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"RaptorWay",
-    "ru":"RaptorWay",
-    "uk":"RaptorWay"
+    "en":"Tranzify",
+    "ru":"Tranzify",
+    "uk":"Tranzify"
   }
 }
 ```  

@@ -1,5 +1,5 @@
 
-# RaptorWay 
+# Tranzify 
 ![raptorway](https://static.openfintech.io/vendors/raptorway/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,14 +8,11 @@
  
 **Name:** 
  
-:	[EN] RaptorWay 
-:	[RU] RaptorWay 
-:	[UK] RaptorWay 
+:	[EN] Tranzify 
+:	[RU] Tranzify 
+:	[UK] Tranzify 
  
 **Status:** `active` 
- 
-**Links:** 
-: website [https://www.google.com/](https://www.google.com/) 
  
 
 ## Images 
@@ -42,15 +39,13 @@ https://static.openfintech.io/vendors/raptorway/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"raptorway",
   "name":{
-    "en":"RaptorWay",
-    "ru":"RaptorWay",
-    "uk":"RaptorWay"
+    "en":"Tranzify",
+    "ru":"Tranzify",
+    "uk":"Tranzify"
   },
   "status":"active",
   "description":null,
-  "links":{
-    "website":"https:\/\/www.google.com\/"
-  },
+  "links":null,
   "countries":null,
   "contacts":null,
   "address":null,
