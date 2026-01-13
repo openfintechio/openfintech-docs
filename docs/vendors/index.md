@@ -1924,7 +1924,6 @@
 |![rampnow](https://static.openfintech.io/vendors/rampnow/logo.png?w=600&c=v0.59.26#w200) |[**Rampnow**](rampnow/)|`rampnow`| 
 |![rapid-obmen](https://static.openfintech.io/vendors/rapid-obmen/logo.svg?w=600&c=v0.59.26#w200) |[**Rapid-Obmen**](rapid-obmen/)|`rapid-obmen`| 
 |![rapipago](https://static.openfintech.io/vendors/rapipago/logo.png?w=600&c=v0.59.26#w200) |[**Rapipago**](rapipago/)|`rapipago`| 
-|![raptorway](https://static.openfintech.io/vendors/raptorway/logo.svg?w=600&c=v0.59.26#w200) |[**Tranzify**](raptorway/)|`raptorway`| 
 |![rapyd](https://static.openfintech.io/vendors/rapyd/logo.svg?w=600&c=v0.59.26#w200) |[**Rapyd**](rapyd/)|`rapyd`| 
 |![rashpay](https://static.openfintech.io/vendors/rashpay/logo.svg?w=600&c=v0.59.26#w200) |[**RashPay**](rashpay/)|`rashpay`| 
 |![rastpay](https://static.openfintech.io/vendors/rastpay/logo.svg?w=600&c=v0.59.26#w200) |[**Rastpay**](rastpay/)|`rastpay`| 
@@ -2253,6 +2252,7 @@
 |![transferhub](https://static.openfintech.io/vendors/transferhub/logo.svg?w=600&c=v0.59.26#w200) |[**TransferHub**](transferhub/)|`transferhub`| 
 |![transflofintech](https://static.openfintech.io/vendors/transflofintech/logo.png?w=600&c=v0.59.26#w200) |[**Transflo**](transflofintech/)|`transflofintech`| 
 |![transfr](https://static.openfintech.io/vendors/transfr/logo.png?w=600&c=v0.59.26#w200) |[**Transfr**](transfr/)|`transfr`| 
+|![tranzify](https://static.openfintech.io/vendors/tranzify/logo.svg?w=600&c=v0.59.26#w200) |[**Tranzify**](tranzify/)|`tranzify`| 
 |![tranzzo](https://static.openfintech.io/vendors/tranzzo/logo.svg?w=600&c=v0.59.26#w200) |[**Tranzzo**](tranzzo/)|`tranzzo`| 
 |![traxpay](https://static.openfintech.io/vendors/traxpay/logo.png?w=600&c=v0.59.26#w200) |[**Traxpay**](traxpay/)|`traxpay`| 
 |![trezuz](https://static.openfintech.io/vendors/trezuz/logo.png?w=600&c=v0.59.26#w200) |[**Trezuz**](trezuz/)|`trezuz`| 

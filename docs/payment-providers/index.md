@@ -892,7 +892,6 @@
 |![ragapay](https://static.openfintech.io/payment_providers/ragapay/logo.png?w=600&c=v0.59.26#w100) |[**Ragapay**](ragapay/)|`ragapay`| 
 |![raiffeisenbank](https://static.openfintech.io/payment_providers/raiffeisenbank/logo.svg?w=600&c=v0.59.26#w100) |[**Raiffeisen Bank**](raiffeisenbank/)|`raiffeisenbank`| 
 |![rampnow](https://static.openfintech.io/payment_providers/rampnow/logo.png?w=600&c=v0.59.26#w100) |[**Rampnow**](rampnow/)|`rampnow`| 
-|![raptorway](https://static.openfintech.io/payment_providers/raptorway/logo.svg?w=600&c=v0.59.26#w100) |[**Tranzify**](raptorway/)|`raptorway`| 
 |![rapyd](https://static.openfintech.io/payment_providers/rapyd/logo.svg?w=600&c=v0.59.26#w100) |[**Rapyd**](rapyd/)|`rapyd`| 
 |![rashpay](https://static.openfintech.io/payment_providers/rashpay/logo.svg?w=600&c=v0.59.26#w100) |[**RashPay**](rashpay/)|`rashpay`| 
 |![rastpay](https://static.openfintech.io/payment_providers/rastpay/logo.svg?w=600&c=v0.59.26#w100) |[**Rastpay**](rastpay/)|`rastpay`| 
@@ -1046,6 +1045,7 @@
 |![transferhub](https://static.openfintech.io/payment_providers/transferhub/logo.svg?w=600&c=v0.59.26#w100) |[**TransferHub**](transferhub/)|`transferhub`| 
 |![transflofintech](https://static.openfintech.io/payment_providers/transflofintech/logo.png?w=600&c=v0.59.26#w100) |[**Transflo**](transflofintech/)|`transflofintech`| 
 |![transfr](https://static.openfintech.io/payment_providers/transfr/logo.png?w=600&c=v0.59.26#w100) |[**Transfr**](transfr/)|`transfr`| 
+|![tranzify](https://static.openfintech.io/payment_providers/tranzify/logo.svg?w=600&c=v0.59.26#w100) |[**Tranzify**](tranzify/)|`tranzify`| 
 |![tranzzo](https://static.openfintech.io/payment_providers/tranzzo/logo.svg?w=600&c=v0.59.26#w100) |[**Tranzzo**](tranzzo/)|`tranzzo`| 
 |![traxpay](https://static.openfintech.io/payment_providers/traxpay/logo.png?w=600&c=v0.59.26#w100) |[**Traxpay**](traxpay/)|`traxpay`| 
 |![trezuz](https://static.openfintech.io/payment_providers/trezuz/logo.png?w=600&c=v0.59.26#w100) |[**Trezuz**](trezuz/)|`trezuz`| 

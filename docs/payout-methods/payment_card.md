@@ -666,7 +666,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![avepay](https://static.openfintech.io/payment_providers/avepay/icon.png?w=278&c=v0.59.26#w100) |[AvePay](/payment-providers/avepay/)|`avepay`| 
 |![trezuz](https://static.openfintech.io/payment_providers/trezuz/icon.png?w=278&c=v0.59.26#w100) |[Trezuz](/payment-providers/trezuz/)|`trezuz`| 
 |![paytorean](https://static.openfintech.io/payment_providers/paytorean/icon.png?w=278&c=v0.59.26#w100) |[Paytorean](/payment-providers/paytorean/)|`paytorean`| 
-|![raptorway](https://static.openfintech.io/payment_providers/raptorway/icon.svg?w=278&c=v0.59.26#w100) |[Tranzify](/payment-providers/raptorway/)|`raptorway`| 
+|![tranzify](https://static.openfintech.io/payment_providers/tranzify/icon.svg?w=278&c=v0.59.26#w100) |[Tranzify](/payment-providers/tranzify/)|`tranzify`| 
 |![sola](https://static.openfintech.io/payment_providers/sola/icon.svg?w=278&c=v0.59.26#w100) |[Sola](/payment-providers/sola/)|`sola`| 
  
 
