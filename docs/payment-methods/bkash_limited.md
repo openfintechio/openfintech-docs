@@ -51,6 +51,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bkash Lim
 |![wellxpay](https://static.openfintech.io/payment_providers/wellxpay/icon.png?w=278&c=v0.59.26#w100) |[WellxPay](/payment-providers/wellxpay/)|`wellxpay`| 
 |![gamespay](https://static.openfintech.io/payment_providers/gamespay/icon.svg?w=278&c=v0.59.26#w100) |[PayGames](/payment-providers/gamespay/)|`gamespay`| 
 |![bkash](https://static.openfintech.io/payment_providers/bkash/icon.png?w=278&c=v0.59.26#w100) |[Bkash](/payment-providers/bkash/)|`bkash`| 
+|![piqpay](https://static.openfintech.io/payment_providers/piqpay/icon.png?w=278&c=v0.59.26#w100) |[PIQPAY](/payment-providers/piqpay/)|`piqpay`| 
 |![xoompay](https://static.openfintech.io/payment_providers/xoompay/icon.png?w=278&c=v0.59.26#w100) |[Xoompay](/payment-providers/xoompay/)|`xoompay`| 
 |![octopays](https://static.openfintech.io/payment_providers/octopays/icon.svg?w=278&c=v0.59.26#w100) |[Octopays](/payment-providers/octopays/)|`octopays`| 
 |![kodapay](https://static.openfintech.io/payment_providers/kodapay/icon.png?w=278&c=v0.59.26#w100) |[KodaPay](/payment-providers/kodapay/)|`kodapay`| 

@@ -1836,6 +1836,7 @@
 |![pinpayments](https://static.openfintech.io/vendors/pinpayments/logo.png?w=600&c=v0.59.26#w200) |[**Pin Payments**](pinpayments/)|`pinpayments`| 
 |![pionpay](https://static.openfintech.io/vendors/pionpay/logo.png?w=600&c=v0.59.26#w200) |[**PionPay**](pionpay/)|`pionpay`| 
 |![pipay](https://static.openfintech.io/vendors/pipay/logo.png?w=600&c=v0.59.26#w200) |[**Pi Pay**](pipay/)|`pipay`| 
+|![piqpay](https://static.openfintech.io/vendors/piqpay/logo.png?w=600&c=v0.59.26#w200) |[**PIQPAY**](piqpay/)|`piqpay`| 
 |![pivdennybank](https://static.openfintech.io/vendors/pivdennybank/logo.svg?w=600&c=v0.59.26#w200) |[**Pivdenny Bank**](pivdennybank/)|`pivdennybank`| 
 |![pivotalpayments](https://static.openfintech.io/vendors/pivotalpayments/logo.png?w=600&c=v0.59.26#w200) |[**Pivotal Payments**](pivotalpayments/)|`pivotalpayments`| 
 |![planbpay](https://static.openfintech.io/vendors/planbpay/logo.svg?w=600&c=v0.59.26#w200) |[**Planbpay**](planbpay/)|`planbpay`| 
