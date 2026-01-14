@@ -69,6 +69,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Boleto Ba
 |![pay4fungo](https://static.openfintech.io/payment_providers/pay4fungo/icon.png?w=278&c=v0.59.26#w100) |[Pay4funGo](/payment-providers/pay4fungo/)|`pay4fungo`| 
 |![inswitch](https://static.openfintech.io/payment_providers/inswitch/icon.png?w=278&c=v0.59.26#w100) |[Inswitch](/payment-providers/inswitch/)|`inswitch`| 
 |![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
+|![smartfastpay](https://static.openfintech.io/payment_providers/smartfastpay/icon.png?w=278&c=v0.59.26#w100) |[SmartFastPay](/payment-providers/smartfastpay/)|`smartfastpay`| 
  
 
 ## JSON Object 

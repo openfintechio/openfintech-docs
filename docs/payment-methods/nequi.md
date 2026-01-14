@@ -50,6 +50,7 @@ The list of [Payment Providers](/payment-providers/) that support the _NEQUI PUS
 |![spoynt](https://static.openfintech.io/payment_providers/spoynt/icon.svg?w=278&c=v0.59.26#w100) |[Spoynt](/payment-providers/spoynt/)|`spoynt`| 
 |![payok](https://static.openfintech.io/payment_providers/payok/icon.png?w=278&c=v0.59.26#w100) |[Payok](/payment-providers/payok/)|`payok`| 
 |![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
+|![smartfastpay](https://static.openfintech.io/payment_providers/smartfastpay/icon.png?w=278&c=v0.59.26#w100) |[SmartFastPay](/payment-providers/smartfastpay/)|`smartfastpay`| 
  
 
 ## JSON Object 

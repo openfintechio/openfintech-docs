@@ -280,6 +280,7 @@
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_cad_hpp`](bank_transfer_cad_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_clp_hpp`](bank_transfer_clp_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_clp_invoice`](bank_transfer_clp_invoice/)| 
+|![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_cop_hpp`](bank_transfer_cop_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_eur_hpp`](bank_transfer_eur_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_eur_invoice`](bank_transfer_eur_invoice/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_gbp_hpp`](bank_transfer_gbp_hpp/)| 
@@ -588,6 +589,7 @@
 |![Cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200) |[**Cash**](/payment-methods/cash/)|[`cash_uah_invoice`](cash_uah_invoice/)| 
 |![Cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200) |[**Cash**](/payment-methods/cash/)|[`cash_usd_hpp`](cash_usd_hpp/)| 
 |![Cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200) |[**Cash**](/payment-methods/cash/)|[`cash_usd_invoice`](cash_usd_invoice/)| 
+|![Cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200) |[**Cash**](/payment-methods/cash/)|[`cash_uyu_hpp`](cash_uyu_hpp/)| 
 |![CASHlib Voucher](https://static.openfintech.io/payment_methods/cashlib_voucher/logo.png?w=400&c=v0.59.26#w200) |[**CASHlib Voucher**](/payment-methods/cashlib_voucher/)|[`cashlib_voucher_eur_hpp`](cashlib_voucher_eur_hpp/)| 
 |![CASHlib Voucher](https://static.openfintech.io/payment_methods/cashlib_voucher/logo.png?w=400&c=v0.59.26#w200) |[**CASHlib Voucher**](/payment-methods/cashlib_voucher/)|[`cashlib_voucher_usd_hpp`](cashlib_voucher_usd_hpp/)| 
 |![Cebuana Pawnshop](https://static.openfintech.io/payment_methods/cebuana_pawnshop/logo.svg?w=400&c=v0.59.26#w200) |[**Cebuana Pawnshop**](/payment-methods/cebuana_pawnshop/)|[`cebuana_pawnshop_php_hpp`](cebuana_pawnshop_php_hpp/)| 
@@ -1176,6 +1178,7 @@
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_kes_invoice`](mobile_kes_invoice/)| 
 |![Mobile Money](https://static.openfintech.io/payment_methods/mobile_money/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile Money**](/payment-methods/mobile_money/)|[`mobile_money_ghs_hpp`](mobile_money_ghs_hpp/)| 
 |![Mobile Money](https://static.openfintech.io/payment_methods/mobile_money/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile Money**](/payment-methods/mobile_money/)|[`mobile_money_kes_hpp`](mobile_money_kes_hpp/)| 
+|![Mobile Money](https://static.openfintech.io/payment_methods/mobile_money/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile Money**](/payment-methods/mobile_money/)|[`mobile_money_usd_hpp`](mobile_money_usd_hpp/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_pkr_hpp`](mobile_pkr_hpp/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_pkr_invoice`](mobile_pkr_invoice/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_rub_hpp`](mobile_rub_hpp/)| 
@@ -2106,7 +2109,13 @@
 |![Vietnam Prosperity Joint‑Stock Commercial Bank](https://static.openfintech.io/payment_methods/vp_bank/logo.png?w=400&c=v0.59.26#w200) |[**Vietnam Prosperity Joint‑Stock Commercial Bank**](/payment-methods/vp_bank/)|[`vp_bank_vnd_hpp`](vp_bank_vnd_hpp/)| 
 |![Vietnam - Russia Joint Venture Bank](https://static.openfintech.io/payment_methods/vrb_bank/logo.png?w=400&c=v0.59.26#w200) |[**Vietnam - Russia Joint Venture Bank**](/payment-methods/vrb_bank/)|[`vrb_bank_vnd_hpp`](vrb_bank_vnd_hpp/)| 
 ||| **W** ||
+|![Wallet aggregated](https://static.openfintech.io/payment_methods/wallet_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**Wallet aggregated**](/payment-methods/wallet_aggregated/)|[`wallet_aggregated_ars_hpp`](wallet_aggregated_ars_hpp/)| 
+|![Wallet aggregated](https://static.openfintech.io/payment_methods/wallet_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**Wallet aggregated**](/payment-methods/wallet_aggregated/)|[`wallet_aggregated_bob_hpp`](wallet_aggregated_bob_hpp/)| 
+|![Wallet aggregated](https://static.openfintech.io/payment_methods/wallet_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**Wallet aggregated**](/payment-methods/wallet_aggregated/)|[`wallet_aggregated_clp_hpp`](wallet_aggregated_clp_hpp/)| 
+|![Wallet aggregated](https://static.openfintech.io/payment_methods/wallet_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**Wallet aggregated**](/payment-methods/wallet_aggregated/)|[`wallet_aggregated_mxn_hpp`](wallet_aggregated_mxn_hpp/)| 
+|![Wallet aggregated](https://static.openfintech.io/payment_methods/wallet_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**Wallet aggregated**](/payment-methods/wallet_aggregated/)|[`wallet_aggregated_pen_hpp`](wallet_aggregated_pen_hpp/)| 
 |![Wallet aggregated](https://static.openfintech.io/payment_methods/wallet_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**Wallet aggregated**](/payment-methods/wallet_aggregated/)|[`wallet_aggregated_pkr_hpp`](wallet_aggregated_pkr_hpp/)| 
+|![Wallet aggregated](https://static.openfintech.io/payment_methods/wallet_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**Wallet aggregated**](/payment-methods/wallet_aggregated/)|[`wallet_aggregated_usd_hpp`](wallet_aggregated_usd_hpp/)| 
 |![Walmart Express](https://static.openfintech.io/payment_methods/walmart_express/logo.svg?w=400&c=v0.59.26#w200) |[**Walmart Express**](/payment-methods/walmart_express/)|[`walmart_express_mxn_hpp`](walmart_express_mxn_hpp/)| 
 |![Walmart](https://static.openfintech.io/payment_methods/walmart/logo.svg?w=400&c=v0.59.26#w200) |[**Walmart**](/payment-methods/walmart/)|[`walmart_mxn_hpp`](walmart_mxn_hpp/)| 
 |![Wave](https://static.openfintech.io/payment_methods/wave/logo.png?w=400&c=v0.59.26#w200) |[**Wave**](/payment-methods/wave/)|[`wave_xof_invoice`](wave_xof_invoice/)| 

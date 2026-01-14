@@ -53,6 +53,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PSE_
 |![paylivre](https://static.openfintech.io/payment_providers/paylivre/icon.png?w=278&c=v0.59.26#w100) |[Paylivre](/payment-providers/paylivre/)|`paylivre`| 
 |![payelu](https://static.openfintech.io/payment_providers/payelu/icon.png?w=278&c=v0.59.26#w100) |[Payelu](/payment-providers/payelu/)|`payelu`| 
 |![rixsus](https://static.openfintech.io/payment_providers/rixsus/icon.png?w=278&c=v0.59.26#w100) |[Rixsus](/payment-providers/rixsus/)|`rixsus`| 
+|![smartfastpay](https://static.openfintech.io/payment_providers/smartfastpay/icon.png?w=278&c=v0.59.26#w100) |[SmartFastPay](/payment-providers/smartfastpay/)|`smartfastpay`| 
  
 
 ## JSON Object 

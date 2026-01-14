@@ -61,6 +61,7 @@ The list of [Payment Services](/payment-services/) based on the _Bank Transfer_
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_mxn_hpp](/payment-services/bank_transfer_mxn_hpp/)|`bank_transfer_mxn_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_brl_hpp](/payment-services/bank_transfer_brl_hpp/)|`bank_transfer_brl_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_aud_hpp](/payment-services/bank_transfer_aud_hpp/)|`bank_transfer_aud_hpp`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_cop_hpp](/payment-services/bank_transfer_cop_hpp/)|`bank_transfer_cop_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_clp_invoice](/payment-services/bank_transfer_clp_invoice/)|`bank_transfer_clp_invoice`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_clp_hpp](/payment-services/bank_transfer_clp_hpp/)|`bank_transfer_clp_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_sar_hpp](/payment-services/bank_transfer_sar_hpp/)|`bank_transfer_sar_hpp`| 
@@ -156,6 +157,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![matrixpay](https://static.openfintech.io/payment_providers/matrixpay/icon.png?w=278&c=v0.59.26#w100) |[MatrixPay](/payment-providers/matrixpay/)|`matrixpay`| 
 |![okto](https://static.openfintech.io/payment_providers/okto/icon.png?w=278&c=v0.59.26#w100) |[OKTO](/payment-providers/okto/)|`okto`| 
 |![ozow](https://static.openfintech.io/payment_providers/ozow/icon.png?w=278&c=v0.59.26#w100) |[Ozow](/payment-providers/ozow/)|`ozow`| 
+|![smartfastpay](https://static.openfintech.io/payment_providers/smartfastpay/icon.png?w=278&c=v0.59.26#w100) |[SmartFastPay](/payment-providers/smartfastpay/)|`smartfastpay`| 
  
 
 ## JSON Object 

@@ -2072,6 +2072,7 @@
 |![smart-exchange.ua](https://static.openfintech.io/vendors/smart-exchange.ua/logo.svg?w=600&c=v0.59.26#w200) |[**Smart-pays**](smart-exchange.ua/)|`smart-exchange.ua`| 
 |![smart2pay](https://static.openfintech.io/vendors/smart2pay/logo.png?w=600&c=v0.59.26#w200) |[**Smart2Pay**](smart2pay/)|`smart2pay`| 
 |![smartdebit](https://static.openfintech.io/vendors/smartdebit/logo.png?w=600&c=v0.59.26#w200) |[**SmartDebit**](smartdebit/)|`smartdebit`| 
+|![smartfastpay](https://static.openfintech.io/vendors/smartfastpay/logo.png?w=600&c=v0.59.26#w200) |[**SmartFastPay**](smartfastpay/)|`smartfastpay`| 
 |![smartgates](https://static.openfintech.io/vendors/smartgates/logo.png?w=600&c=v0.59.26#w200) |[**Smartgates**](smartgates/)|`smartgates`| 
 |![smartmoney](https://static.openfintech.io/vendors/smartmoney/logo.png?w=600&c=v0.59.26#w200) |[**Smart Money**](smartmoney/)|`smartmoney`| 
 |![smartwm.ru](https://static.openfintech.io/vendors/smartwm.ru/logo.svg?w=600&c=v0.59.26#w200) |[**SmartWM**](smartwm.ru/)|`smartwm.ru`| 

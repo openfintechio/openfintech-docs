@@ -45,6 +45,7 @@ The list of [Payment Services](/payment-services/) based on the _Cash_
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_uah_hpp](/payment-services/cash_uah_hpp/)|`cash_uah_hpp`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_brl_hpp](/payment-services/cash_brl_hpp/)|`cash_brl_hpp`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_cop_hpp](/payment-services/cash_cop_hpp/)|`cash_cop_hpp`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_uyu_hpp](/payment-services/cash_uyu_hpp/)|`cash_uyu_hpp`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_ars_hpp](/payment-services/cash_ars_hpp/)|`cash_ars_hpp`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_mxn_hpp](/payment-services/cash_mxn_hpp/)|`cash_mxn_hpp`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_clp_hpp](/payment-services/cash_clp_hpp/)|`cash_clp_hpp`| 
@@ -78,6 +79,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Cash_
 |![inswitch](https://static.openfintech.io/payment_providers/inswitch/icon.png?w=278&c=v0.59.26#w100) |[Inswitch](/payment-providers/inswitch/)|`inswitch`| 
 |![paynearme](https://static.openfintech.io/payment_providers/paynearme/icon.svg?w=278&c=v0.59.26#w100) |[PayNearMe](/payment-providers/paynearme/)|`paynearme`| 
 |![okto](https://static.openfintech.io/payment_providers/okto/icon.png?w=278&c=v0.59.26#w100) |[OKTO](/payment-providers/okto/)|`okto`| 
+|![smartfastpay](https://static.openfintech.io/payment_providers/smartfastpay/icon.png?w=278&c=v0.59.26#w100) |[SmartFastPay](/payment-providers/smartfastpay/)|`smartfastpay`| 
  
 
 ## JSON Object 

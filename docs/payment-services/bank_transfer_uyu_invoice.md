@@ -17,7 +17,7 @@
 :	[RU] Банковский перевод 
 :	[UK] Банківський переказ 
  
-**Amount limits:** from `0.43` to `43327513` UYU 
+**Amount limits:** from `1` to `4000000` UYU 
 
 ## JSON Object 
 
@@ -28,7 +28,7 @@
   "method":"bank_transfer",
   "currency":"UYU",
   "fields":null,
-  "amount_min":0.43,
-  "amount_max":43327513
+  "amount_min":1,
+  "amount_max":4000000
 }
 ```  
