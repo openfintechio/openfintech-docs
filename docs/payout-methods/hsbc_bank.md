@@ -37,6 +37,7 @@ The list of [Payout Services](/payout-services/) based on the _HSBC Bank (Vietna
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![hsbc_bank](https://static.openfintech.io/payout_methods/hsbc_bank/icon.svg?w=278&c=v0.59.26#w40) |[hsbc_bank_vnd](/payout-services/hsbc_bank_vnd/)|`hsbc_bank_vnd`| 
+|![hsbc_bank](https://static.openfintech.io/payout_methods/hsbc_bank/icon.svg?w=278&c=v0.59.26#w40) |[hsbc_bank_zar](/payout-services/hsbc_bank_zar/)|`hsbc_bank_zar`| 
  
 
 ## JSON Object 

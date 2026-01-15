@@ -648,6 +648,7 @@
 |![flipnet-zakarpatska](https://static.openfintech.io/payout_methods/flipnet-zakarpatska/logo.svg?w=400&c=v0.59.26#w24) |[**FLIPNET (Закарпатська)**](flipnet-zakarpatska/)|`flipnet-zakarpatska`| 
 |![flutterwave_tech_solutions](https://static.openfintech.io/payout_methods/flutterwave_tech_solutions/logo.svg?w=400&c=v0.59.26#w24) |[**Flutterwave Tech Solutions**](flutterwave_tech_solutions/)|`flutterwave_tech_solutions`| 
 |![flynet-kharkov](https://static.openfintech.io/payout_methods/flynet-kharkov/logo.png?w=400&c=v0.59.26#w24) |[**FlyNet (Kharkov)**](flynet-kharkov/)|`flynet-kharkov`| 
+|![fnb_bank](https://static.openfintech.io/payout_methods/fnb_bank/logo.svg?w=400&c=v0.59.26#w24) |[**FNB**](fnb_bank/)|`fnb_bank`| 
 |![format-mariupol](https://static.openfintech.io/payout_methods/format-mariupol/logo.png?w=400&c=v0.59.26#w24) |[**Format (Mariupol)**](format-mariupol/)|`format-mariupol`| 
 |![forte_bank](https://static.openfintech.io/payout_methods/forte_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Forte Bank**](forte_bank/)|`forte_bank`| 
 |![fortis_mfb](https://static.openfintech.io/payout_methods/fortis_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Fortis MFB**](fortis_mfb/)|`fortis_mfb`| 
@@ -1226,6 +1227,7 @@
 |![megogo-maksimalnaia](https://static.openfintech.io/payout_methods/megogo-maksimalnaia/logo.png?w=400&c=v0.59.26#w24) |[**MEGOGO (maximum)**](megogo-maksimalnaia/)|`megogo-maksimalnaia`| 
 |![megogo-optimalnaia](https://static.openfintech.io/payout_methods/megogo-optimalnaia/logo.png?w=400&c=v0.59.26#w24) |[**MEGOGO (optimal)**](megogo-optimalnaia/)|`megogo-optimalnaia`| 
 |![mercadopago](https://static.openfintech.io/payout_methods/mercadopago/logo.png?w=400&c=v0.59.26#w24) |[**MercadoPago**](mercadopago/)|`mercadopago`| 
+|![mercantile_bank](https://static.openfintech.io/payout_methods/mercantile_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Mercantile Bank**](mercantile_bank/)|`mercantile_bank`| 
 |![merefske-rve-ak-kharkivoblenergo](https://static.openfintech.io/payout_methods/merefske-rve-ak-kharkivoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Merefske ROE AK 'Kharkivoblenergo'**](merefske-rve-ak-kharkivoblenergo/)|`merefske-rve-ak-kharkivoblenergo`| 
 |![merefske-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018](https://static.openfintech.io/payout_methods/merefske-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Мерефське РВЕ АК "Харківобленерго" (за послуги до 31.12.2018)**](merefske-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|`merefske-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018`| 
 |![merezha](https://static.openfintech.io/payout_methods/merezha/logo.png?w=400&c=v0.59.26#w24) |[**Network +**](merezha/)|`merezha`| 
