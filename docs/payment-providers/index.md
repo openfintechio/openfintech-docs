@@ -102,6 +102,7 @@
 |![barion](https://static.openfintech.io/payment_providers/barion/logo.png?w=600&c=v0.59.26#w100) |[**Barion Payments**](barion/)|`barion`| 
 |![be2bill](https://static.openfintech.io/payment_providers/be2bill/logo.png?w=600&c=v0.59.26#w100) |[**Be2bill**](be2bill/)|`be2bill`| 
 |![beanstream](https://static.openfintech.io/payment_providers/beanstream/logo.svg?w=600&c=v0.59.26#w100) |[**Beanstream**](beanstream/)|`beanstream`| 
+|![benker](https://static.openfintech.io/payment_providers/benker/logo.svg?w=600&c=v0.59.26#w100) |[**Benker**](benker/)|`benker`| 
 |![bennupay](https://static.openfintech.io/payment_providers/bennupay/logo.png?w=600&c=v0.59.26#w100) |[**Bennupay**](bennupay/)|`bennupay`| 
 |![beonpay](https://static.openfintech.io/payment_providers/beonpay/logo.png?w=600&c=v0.59.26#w100) |[**BeonPay**](beonpay/)|`beonpay`| 
 |![beonpaypayouts](https://static.openfintech.io/payment_providers/beonpaypayouts/logo.png?w=600&c=v0.59.26#w100) |[**VP Payouts**](beonpaypayouts/)|`beonpaypayouts`| 
