@@ -9,6 +9,7 @@
 |![aCuenta](https://static.openfintech.io/payment_methods/a_cuenta_cash/logo.png?w=400&c=v0.59.26#w200) |[**aCuenta**](/payment-methods/a_cuenta_cash/)|[`a_cuenta_cash_clp_hpp`](a_cuenta_cash_clp_hpp/)| 
 |![An Binh Commercial Joint Stock Bank](https://static.openfintech.io/payment_methods/ab_bank/logo.png?w=400&c=v0.59.26#w200) |[**An Binh Commercial Joint Stock Bank**](/payment-methods/ab_bank/)|[`ab_bank_vnd_hpp`](ab_bank_vnd_hpp/)| 
 |![ABN AMRO Bank](https://static.openfintech.io/payment_methods/abn_amro_bank/logo.svg?w=400&c=v0.59.26#w200) |[**ABN AMRO Bank**](/payment-methods/abn_amro_bank/)|[`abn_amro_bank_eur_hpp`](abn_amro_bank_eur_hpp/)| 
+|![Absa Pay](https://static.openfintech.io/payment_methods/absa_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Absa Pay**](/payment-methods/absa_pay/)|[`absa_pay_zar_hpp`](absa_pay_zar_hpp/)| 
 |![ACB Bank](https://static.openfintech.io/payment_methods/acb_bank/logo.svg?w=400&c=v0.59.26#w200) |[**ACB Bank**](/payment-methods/acb_bank/)|[`acb_bank_vnd_hpp`](acb_bank_vnd_hpp/)| 
 |![Acertemos](https://static.openfintech.io/payment_methods/acertemos/logo.svg?w=400&c=v0.59.26#w200) |[**Acertemos**](/payment-methods/acertemos/)|[`acertemosin_cop_hpp`](acertemosin_cop_hpp/)| 
 |![Automated Clearing House (ACH)](https://static.openfintech.io/payment_methods/ach/logo.svg?w=400&c=v0.59.26#w200) |[**Automated Clearing House (ACH)**](/payment-methods/ach/)|[`ach_usd_hpp`](ach_usd_hpp/)| 
@@ -1244,6 +1245,7 @@
 |![Nam A Commercial Joint Stock Bank](https://static.openfintech.io/payment_methods/nam_a_bank/logo.png?w=400&c=v0.59.26#w200) |[**Nam A Commercial Joint Stock Bank**](/payment-methods/nam_a_bank/)|[`nam_a_bank_vnd_hpp`](nam_a_bank_vnd_hpp/)| 
 |![National Australia Bank](https://static.openfintech.io/payment_methods/national_australia_bank/logo.svg?w=400&c=v0.59.26#w200) |[**National Australia Bank**](/payment-methods/national_australia_bank/)|[`national_australia_bank_aud_hpp`](national_australia_bank_aud_hpp/)| 
 |![National Citizen Commercial Joint Stock Bank](https://static.openfintech.io/payment_methods/ncb_bank/logo.png?w=400&c=v0.59.26#w200) |[**National Citizen Commercial Joint Stock Bank**](/payment-methods/ncb_bank/)|[`ncb_bank_vnd_hpp`](ncb_bank_vnd_hpp/)| 
+|![Nedbank Pay](https://static.openfintech.io/payment_methods/nedbank_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Nedbank Pay**](/payment-methods/nedbank_pay/)|[`nedbank_pay_zar_hpp`](nedbank_pay_zar_hpp/)| 
 |![Neft](https://static.openfintech.io/payment_methods/neft/logo.svg?w=400&c=v0.59.26#w200) |[**Neft**](/payment-methods/neft/)|[`neft_inr_hpp`](neft_inr_hpp/)| 
 |![Neft](https://static.openfintech.io/payment_methods/neft/logo.svg?w=400&c=v0.59.26#w200) |[**Neft**](/payment-methods/neft/)|[`neft_inr_invoice`](neft_inr_invoice/)| 
 |![NEOpay](https://static.openfintech.io/payment_methods/neopay/logo.svg?w=400&c=v0.59.26#w200) |[**NEOpay**](/payment-methods/neopay/)|[`neopay_uah_hpp`](neopay_uah_hpp/)| 

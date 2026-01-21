@@ -12,6 +12,7 @@
 |![ab_bank](https://static.openfintech.io/payment_methods/ab_bank/logo.png?w=400&c=v0.59.26#w200) |[**An Binh Commercial Joint Stock Bank**](ab_bank/)|`ab_bank`| 
 |![abaqoos](https://static.openfintech.io/payment_methods/abaqoos/logo.png?w=400&c=v0.59.26#w200) |[**Abaqoos**](abaqoos/)|`abaqoos`| 
 |![abn_amro_bank](https://static.openfintech.io/payment_methods/abn_amro_bank/logo.svg?w=400&c=v0.59.26#w200) |[**ABN AMRO Bank**](abn_amro_bank/)|`abn_amro_bank`| 
+|![absa_pay](https://static.openfintech.io/payment_methods/absa_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Absa Pay**](absa_pay/)|`absa_pay`| 
 |![acb_bank](https://static.openfintech.io/payment_methods/acb_bank/logo.svg?w=400&c=v0.59.26#w200) |[**ACB Bank**](acb_bank/)|`acb_bank`| 
 |![acceptemail](https://static.openfintech.io/payment_methods/acceptemail/logo.png?w=400&c=v0.59.26#w200) |[**AcceptEmail**](acceptemail/)|`acceptemail`| 
 |![acceptgiro](https://static.openfintech.io/payment_methods/acceptgiro/logo.png?w=400&c=v0.59.26#w200) |[**Acceptgiro**](acceptgiro/)|`acceptgiro`| 
@@ -617,6 +618,7 @@
 |![nam_a_bank](https://static.openfintech.io/payment_methods/nam_a_bank/logo.png?w=400&c=v0.59.26#w200) |[**Nam A Commercial Joint Stock Bank**](nam_a_bank/)|`nam_a_bank`| 
 |![national_australia_bank](https://static.openfintech.io/payment_methods/national_australia_bank/logo.svg?w=400&c=v0.59.26#w200) |[**National Australia Bank**](national_australia_bank/)|`national_australia_bank`| 
 |![ncb_bank](https://static.openfintech.io/payment_methods/ncb_bank/logo.png?w=400&c=v0.59.26#w200) |[**National Citizen Commercial Joint Stock Bank**](ncb_bank/)|`ncb_bank`| 
+|![nedbank_pay](https://static.openfintech.io/payment_methods/nedbank_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Nedbank Pay**](nedbank_pay/)|`nedbank_pay`| 
 |![neft](https://static.openfintech.io/payment_methods/neft/logo.svg?w=400&c=v0.59.26#w200) |[**Neft**](neft/)|`neft`| 
 |![neopay](https://static.openfintech.io/payment_methods/neopay/logo.svg?w=400&c=v0.59.26#w200) |[**NEOpay**](neopay/)|`neopay`| 
 |![neosurf](https://static.openfintech.io/payment_methods/neosurf/logo.png?w=400&c=v0.59.26#w200) |[**Neosurf**](neosurf/)|`neosurf`| 

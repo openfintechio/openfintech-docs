@@ -55,6 +55,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |![interac](https://static.openfintech.io/payment_methods/interac/icon.png?w=278&c=v0.59.26#w100) |[interac](/payment-methods/interac/)|`interac`| 
 |![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik](/payment-methods/blik/)|`blik`| 
 |![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2](/payment-methods/mybank2/)|`mybank2`| 
+|![abn_amro_bank](https://static.openfintech.io/payment_methods/abn_amro_bank/icon.svg?w=278&c=v0.59.26#w100) |[abn_amro_bank](/payment-methods/abn_amro_bank/)|`abn_amro_bank`| 
+|![berliner_sparkasse](https://static.openfintech.io/payment_methods/berliner_sparkasse/icon.png?w=278&c=v0.59.26#w100) |[berliner_sparkasse](/payment-methods/berliner_sparkasse/)|`berliner_sparkasse`| 
+|![commerzbank](https://static.openfintech.io/payment_methods/commerzbank/icon.svg?w=278&c=v0.59.26#w100) |[commerzbank](/payment-methods/commerzbank/)|`commerzbank`| 
+|![ing](https://static.openfintech.io/payment_methods/ing/icon.png?w=278&c=v0.59.26#w100) |[ing](/payment-methods/ing/)|`ing`| 
+|![postbank](https://static.openfintech.io/payment_methods/postbank/icon.png?w=278&c=v0.59.26#w100) |[postbank](/payment-methods/postbank/)|`postbank`| 
+|![rabobank](https://static.openfintech.io/payment_methods/rabobank/icon.png?w=278&c=v0.59.26#w100) |[rabobank](/payment-methods/rabobank/)|`rabobank`| 
+|![revolut_bank](https://static.openfintech.io/payment_methods/revolut_bank/icon.png?w=278&c=v0.59.26#w100) |[revolut_bank](/payment-methods/revolut_bank/)|`revolut_bank`| 
+|![snsbank](https://static.openfintech.io/payment_methods/snsbank/icon.png?w=278&c=v0.59.26#w100) |[snsbank](/payment-methods/snsbank/)|`snsbank`| 
+|![unicredit](https://static.openfintech.io/payment_methods/unicredit/icon.png?w=278&c=v0.59.26#w100) |[unicredit](/payment-methods/unicredit/)|`unicredit`| 
  
 
 ## JSON Object 
@@ -82,7 +91,16 @@ The list of supported [Payment Methods](/payment-methods/)
     "sepa_transfer",
     "interac",
     "blik",
-    "mybank2"
+    "mybank2",
+    "abn_amro_bank",
+    "berliner_sparkasse",
+    "commerzbank",
+    "ing",
+    "postbank",
+    "rabobank",
+    "revolut_bank",
+    "snsbank",
+    "unicredit"
   ],
   "payout_method":null,
   "metadata":null,

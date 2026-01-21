@@ -41,6 +41,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |:---:|:---:|:---:| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
 |![capitec_pay](https://static.openfintech.io/payment_methods/capitec_pay/icon.svg?w=278&c=v0.59.26#w100) |[capitec_pay](/payment-methods/capitec_pay/)|`capitec_pay`| 
+|![absa_pay](https://static.openfintech.io/payment_methods/absa_pay/icon.svg?w=278&c=v0.59.26#w100) |[absa_pay](/payment-methods/absa_pay/)|`absa_pay`| 
+|![nedbank_pay](https://static.openfintech.io/payment_methods/nedbank_pay/icon.svg?w=278&c=v0.59.26#w100) |[nedbank_pay](/payment-methods/nedbank_pay/)|`nedbank_pay`| 
  
 
 ## Payout Methods 
@@ -84,7 +86,9 @@ The list of supported [Payout Methods](/payout-methods/)
   "countries":null,
   "payment_method":[
     "bank_transfer",
-    "capitec_pay"
+    "capitec_pay",
+    "absa_pay",
+    "nedbank_pay"
   ],
   "payout_method":[
     "absa_bank",
