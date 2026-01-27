@@ -44,6 +44,7 @@
 |`document_type`|✗|`string`|`/^.{1,32}$/`| 
 |`document_id`|✗|`string`|`/^[0-9]{1,13}$/`| 
 |`routing_number`|✗|`string`|`/^\d{1,16}$/`| 
+|`account_type`|✗|`string`|`/^[A-Za-z0-9_]{1,20}$/`| 
  
 
 ### Details 
@@ -408,6 +409,24 @@
 	: [RU] Enter routing number 
 	: [UK] Enter routing number 
  
+21. **`account_type`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-z0-9_]{1,20}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Account type 
+	: [RU] Тип аккаунта 
+	: [UK] Тип акаунту 
+ 
+	Hint:  
+	: [EN] Enter account type 
+	: [RU] Введите тип аккаунта 
+	: [UK] Введіть тип акаунту 
+ 
 
 ## JSON Object 
 
@@ -765,6 +784,23 @@
         "uk":"Enter routing number"
       },
       "example":"123450012"
+    },
+    {
+      "key":"account_type",
+      "type":"string",
+      "regexp":"\/^[A-Za-z0-9_]{1,20}$\/",
+      "required":false,
+      "position":21,
+      "label":{
+        "en":"Account type",
+        "ru":"\u0422\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",
+        "uk":"\u0422\u0438\u043f \u0430\u043a\u0430\u0443\u043d\u0442\u0443"
+      },
+      "hint":{
+        "en":"Enter account type",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0430\u043a\u0430\u0443\u043d\u0442\u0443"
+      }
     }
   ],
   "amount_min":"0.01",

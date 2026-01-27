@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`account_type`|✗|`string`|`/^[A-Z]{1}$/`| 
+|`account_type`|✗|`string`|`/^[A-Z_]{1,20}$/`| 
 |`bank_code`|✗|`string`|`/^[0-9]{1,3}$/`| 
 |`beneficiary_document_type`|✗|`string`|`/^[A-Za-z]{2,20}$/`| 
 |`beneficiary_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
@@ -47,7 +47,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z]{1}$/` 
+	Regexp: `/^[A-Z_]{1,20}$/` 
  
 	Required: `` 
  
@@ -325,7 +325,7 @@
     {
       "key":"account_type",
       "type":"string",
-      "regexp":"\/^[A-Z]{1}$\/",
+      "regexp":"\/^[A-Z_]{1,20}$\/",
       "label":{
         "en":"Account type",
         "ru":"\u0422\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",

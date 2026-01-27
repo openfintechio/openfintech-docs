@@ -25,7 +25,7 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`account_number`|✗|`string`|`/^[A-Z]{2}[A-Z0-9]{13,32}$\|^[0-9]{3,15}$/`| 
-|`account_type`|✗|`string`|`/^[A-Za-z0-9]{1,10}$/`| 
+|`account_type`|✗|`string`|`/^[A-Za-z0-9_]{1,20}$/`| 
 |`account_name`|✗|`string`|`/^[A-Za-zА-ЩЬЮЯҐЄІЇа-щьюяґєії0-9\s\.\,\-\(\)\ʼ]{2,100}$/`| 
 |`bank_branch`|✗|`string`|`/^[A-Za-zА-ЩЬЮЯҐЄІЇа-щьюяґєії0-9\s\.\,\-\(\)\ʼ]{2,100}$/`| 
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
@@ -75,7 +75,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-z0-9]{1,10}$/` 
+	Regexp: `/^[A-Za-z0-9_]{1,20}$/` 
  
 	Required: `` 
  
@@ -533,7 +533,7 @@
     {
       "key":"account_type",
       "type":"string",
-      "regexp":"\/^[A-Za-z0-9]{1,10}$\/",
+      "regexp":"\/^[A-Za-z0-9_]{1,20}$\/",
       "required":false,
       "position":2,
       "label":{

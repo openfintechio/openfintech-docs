@@ -41,8 +41,9 @@
 |`beneficiary_email`|✗|`string`|`/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$$/`| 
 |`beneficiary_country_code_iso`|✗|`string`|`/^[A-Z]{2}$/`| 
 |`beneficiary_address`|✗|`string`|`/^.{1,255}$/`| 
-|`account_type`|✗|`string`|`/^[A-Z]{1}$/`| 
+|`account_type`|✗|`string`|`/^[A-Z_]{1,20}$/`| 
 |`bank_account`|✗|`string`|`/^[0-9]{1,30}$/`| 
+|`bank_name`|✗|`string`|`/^[\s\p{L}\p{N}\p{P}]{2,100}$/u`| 
  
 
 ### Details 
@@ -357,7 +358,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z]{1}$/` 
+	Regexp: `/^[A-Z_]{1,20}$/` 
  
 	Required: `` 
  
@@ -388,6 +389,24 @@
 	: [EN] Enter bank account 
 	: [RU] Введите номер банковского счета 
 	: [UK] Введіть номер банківського рахунку 
+ 
+20. **`bank_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[\s\p{L}\p{N}\p{P}]{2,100}$/u` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank Name 
+	: [RU] Имя банка 
+	: [UK] Ім'я банку 
+ 
+	Hint:  
+	: [EN] Enter bank name 
+	: [RU] Введите имя банка 
+	: [UK] Введіть ім'я банку 
  
 
 ## JSON Object 
@@ -698,7 +717,7 @@
     {
       "key":"account_type",
       "type":"string",
-      "regexp":"\/^[A-Z]{1}$\/",
+      "regexp":"\/^[A-Z_]{1,20}$\/",
       "label":{
         "en":"Account type",
         "ru":"\u0422\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",
@@ -728,6 +747,23 @@
       },
       "position":19,
       "required":false
+    },
+    {
+      "key":"bank_name",
+      "type":"string",
+      "regexp":"\/^[\\s\\p{L}\\p{N}\\p{P}]{2,100}$\/u",
+      "required":false,
+      "position":20,
+      "label":{
+        "en":"Bank Name",
+        "ru":"\u0418\u043c\u044f \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u0406\u043c'\u044f \u0431\u0430\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter bank name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0456\u043c'\u044f \u0431\u0430\u043d\u043a\u0443"
+      }
     }
   ],
   "amount_min":"0.01",

@@ -30,7 +30,7 @@
 |`beneficiary_document_id`|✗|`string`|`/^[A-Za-z0-9]{3,20}$/`| 
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
 |`document_type`|✗|`string`|`/^([0-9]{1,3})\|([A-Z]{2,20})$/`| 
-|`account_type`|✗|`string`|`/^[A-Za-z0-9]{1,10}$/`| 
+|`account_type`|✗|`string`|`/^[A-Za-z0-9_]{1,20}$/`| 
 |`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
 |`beneficiary_phone`|✗|`string`|`/^\d{10,14}$/`| 
 |`beneficiary_dob`|✗|`string`|`/^([0-2][0-9]\|(3)[0-1])(\/)(((0)[0-9])\|((1)[0-2]))(\/)\d{4}\|\|((19\|20)\d{2}(0[1-9]\|1[0-2])(0[1-9]\|[12]\d\|3[01]))$/`| 
@@ -159,7 +159,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-z0-9]{1,10}$/` 
+	Regexp: `/^[A-Za-z0-9_]{1,20}$/` 
  
 	Required: `` 
  
@@ -503,7 +503,7 @@
     {
       "key":"account_type",
       "type":"string",
-      "regexp":"\/^[A-Za-z0-9]{1,10}$\/",
+      "regexp":"\/^[A-Za-z0-9_]{1,20}$\/",
       "required":false,
       "position":7,
       "label":{

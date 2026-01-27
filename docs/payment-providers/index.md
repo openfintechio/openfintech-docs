@@ -982,6 +982,7 @@
 |![soeasypay](https://static.openfintech.io/payment_providers/soeasypay/logo.png?w=600&c=v0.59.26#w100) |[**SoEasyPay**](soeasypay/)|`soeasypay`| 
 |![sola](https://static.openfintech.io/payment_providers/sola/logo.svg?w=600&c=v0.59.26#w100) |[**Sola**](sola/)|`sola`| 
 |![solidgate](https://static.openfintech.io/payment_providers/solidgate/logo.svg?w=600&c=v0.59.26#w100) |[**Solidgate**](solidgate/)|`solidgate`| 
+|![solvex](https://static.openfintech.io/payment_providers/solvex/logo.svg?w=600&c=v0.59.26#w100) |[**Solvex**](solvex/)|`solvex`| 
 |![spartapay](https://static.openfintech.io/payment_providers/spartapay/logo.png?w=600&c=v0.59.26#w100) |[**Sparta-Pay**](spartapay/)|`spartapay`| 
 |![spayz](https://static.openfintech.io/payment_providers/spayz/logo.svg?w=600&c=v0.59.26#w100) |[**SPAYZ.io**](spayz/)|`spayz`| 
 |![specializedprocessingsolutions](https://static.openfintech.io/payment_providers/specializedprocessingsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Specialized Processing Solutions**](specializedprocessingsolutions/)|`specializedprocessingsolutions`| 

@@ -2094,6 +2094,7 @@
 |![solidpayments](https://static.openfintech.io/vendors/solidpayments/logo.png?w=600&c=v0.59.26#w200) |[**Solid Payments**](solidpayments/)|`solidpayments`| 
 |![solidtrust_pay](https://static.openfintech.io/vendors/solidtrust_pay/logo.svg?w=600&c=v0.59.26#w200) |[**SolidTrust Pay**](solidtrust_pay/)|`solidtrust_pay`| 
 |![solidtrustpay](https://static.openfintech.io/vendors/solidtrustpay/logo.svg?w=600&c=v0.59.26#w200) |[**SolidTrust Pay**](solidtrustpay/)|`solidtrustpay`| 
+|![solvex](https://static.openfintech.io/vendors/solvex/logo.svg?w=600&c=v0.59.26#w200) |[**Solvex**](solvex/)|`solvex`| 
 |![sony_bank](https://static.openfintech.io/vendors/sony_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Sony Bank**](sony_bank/)|`sony_bank`| 
 |![sovkombank](https://static.openfintech.io/vendors/sovkombank/logo.svg?w=600&c=v0.59.26#w200) |[**Совкомбанк**](sovkombank/)|`sovkombank`| 
 |![spankki](https://static.openfintech.io/vendors/spankki/logo.png?w=600&c=v0.59.26#w200) |[**S-Pankki**](spankki/)|`spankki`| 

@@ -681,6 +681,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![tranzify](https://static.openfintech.io/payment_providers/tranzify/icon.svg?w=278&c=v0.59.26#w100) |[Tranzify](/payment-providers/tranzify/)|`tranzify`| 
 |![sola](https://static.openfintech.io/payment_providers/sola/icon.svg?w=278&c=v0.59.26#w100) |[Sola](/payment-providers/sola/)|`sola`| 
 |![smartfastpay](https://static.openfintech.io/payment_providers/smartfastpay/icon.png?w=278&c=v0.59.26#w100) |[SmartFastPay](/payment-providers/smartfastpay/)|`smartfastpay`| 
+|![solvex](https://static.openfintech.io/payment_providers/solvex/icon.svg?w=278&c=v0.59.26#w100) |[Solvex](/payment-providers/solvex/)|`solvex`| 
  
 
 ## JSON Object 

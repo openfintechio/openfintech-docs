@@ -38,7 +38,7 @@
 |`beneficiary_country_code_iso`|✗|`string`|`/^[A-Z]{2}$/`| 
 |`beneficiary_address`|✗|`string`|`/^.{1,255}$/`| 
 |`bank_branch`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
-|`account_type`|✗|`string`|`/^[A-Z]{1}$/`| 
+|`account_type`|✗|`string`|`/^[A-Z_]{1,20}$/`| 
 |`bank_account`|✗|`string`|`/^[0-9]{1,30}$/`| 
  
 
@@ -300,7 +300,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z]{1}$/` 
+	Regexp: `/^[A-Z_]{1,20}$/` 
  
 	Required: `` 
  
@@ -588,7 +588,7 @@
     {
       "key":"account_type",
       "type":"string",
-      "regexp":"\/^[A-Z]{1}$\/",
+      "regexp":"\/^[A-Z_]{1,20}$\/",
       "label":{
         "en":"Account type",
         "ru":"\u0422\u0438\u043f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430",
