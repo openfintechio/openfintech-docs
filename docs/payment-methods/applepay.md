@@ -48,6 +48,12 @@ The list of [Payment Services](/payment-services/) based on the _Apple Pay_
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_uah_hpp](/payment-services/applepay_uah_hpp/)|`applepay_uah_hpp`| 
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_rub_hpp](/payment-services/applepay_rub_hpp/)|`applepay_rub_hpp`| 
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_usd_hpp](/payment-services/applepay_usd_hpp/)|`applepay_usd_hpp`| 
+|![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_czk_hpp](/payment-services/applepay_czk_hpp/)|`applepay_czk_hpp`| 
+|![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_dkk_hpp](/payment-services/applepay_dkk_hpp/)|`applepay_dkk_hpp`| 
+|![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_huf_hpp](/payment-services/applepay_huf_hpp/)|`applepay_huf_hpp`| 
+|![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_isk_hpp](/payment-services/applepay_isk_hpp/)|`applepay_isk_hpp`| 
+|![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_ron_hpp](/payment-services/applepay_ron_hpp/)|`applepay_ron_hpp`| 
+|![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_sek_hpp](/payment-services/applepay_sek_hpp/)|`applepay_sek_hpp`| 
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_eur_hpp](/payment-services/applepay_eur_hpp/)|`applepay_eur_hpp`| 
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_pln_hpp](/payment-services/applepay_pln_hpp/)|`applepay_pln_hpp`| 
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay_gbp_hpp](/payment-services/applepay_gbp_hpp/)|`applepay_gbp_hpp`| 
@@ -110,6 +116,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Apple Pay
 |![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
 |![justipay](https://static.openfintech.io/payment_providers/justipay/icon.png?w=278&c=v0.59.26#w100) |[Justipay](/payment-providers/justipay/)|`justipay`| 
 |![bp](https://static.openfintech.io/payment_providers/bp/icon.svg?w=278&c=v0.59.26#w100) |[Boxplat](/payment-providers/bp/)|`bp`| 
+|![moneliq](https://static.openfintech.io/payment_providers/moneliq/icon.png?w=278&c=v0.59.26#w100) |[Moneliq](/payment-providers/moneliq/)|`moneliq`| 
 |![leobank](https://static.openfintech.io/payment_providers/leobank/icon.svg?w=278&c=v0.59.26#w100) |[Digimeth](/payment-providers/leobank/)|`leobank`| 
 |![flexify](https://static.openfintech.io/payment_providers/flexify/icon.png?w=278&c=v0.59.26#w100) |[Flexify.finance](/payment-providers/flexify/)|`flexify`| 
 |![crederes](https://static.openfintech.io/payment_providers/crederes/icon.svg?w=278&c=v0.59.26#w100) |[Crederes](/payment-providers/crederes/)|`crederes`| 

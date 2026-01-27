@@ -578,6 +578,7 @@
 |![mollie](https://static.openfintech.io/payment_providers/mollie/logo.png?w=600&c=v0.59.26#w100) |[**Mollie**](mollie/)|`mollie`| 
 |![molpay](https://static.openfintech.io/payment_providers/molpay/logo.png?w=600&c=v0.59.26#w100) |[**MOLPay**](molpay/)|`molpay`| 
 |![mondido](https://static.openfintech.io/payment_providers/mondido/logo.png?w=600&c=v0.59.26#w100) |[**Mondido**](mondido/)|`mondido`| 
+|![moneliq](https://static.openfintech.io/payment_providers/moneliq/logo.png?w=600&c=v0.59.26#w100) |[**Moneliq**](moneliq/)|`moneliq`| 
 |![monetaru](https://static.openfintech.io/payment_providers/monetaru/logo.png?w=600&c=v0.59.26#w100) |[**Moneta.RU**](monetaru/)|`monetaru`| 
 |![monetix](https://static.openfintech.io/payment_providers/monetix/logo.png?w=600&c=v0.59.26#w100) |[**Monetix**](monetix/)|`monetix`| 
 |![moneymovers](https://static.openfintech.io/payment_providers/moneymovers/logo.svg?w=600&c=v0.59.26#w100) |[**MoneyMovers**](moneymovers/)|`moneymovers`| 

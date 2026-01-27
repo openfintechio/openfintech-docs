@@ -44,6 +44,12 @@ The list of [Payment Services](/payment-services/) based on the _Google Pay_
 |:---:|:---:|:---:| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_aud_hpp](/payment-services/googlepay_aud_hpp/)|`googlepay_aud_hpp`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_cad_hpp](/payment-services/googlepay_cad_hpp/)|`googlepay_cad_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_czk_hpp](/payment-services/googlepay_czk_hpp/)|`googlepay_czk_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_dkk_hpp](/payment-services/googlepay_dkk_hpp/)|`googlepay_dkk_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_huf_hpp](/payment-services/googlepay_huf_hpp/)|`googlepay_huf_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_isk_hpp](/payment-services/googlepay_isk_hpp/)|`googlepay_isk_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_ron_hpp](/payment-services/googlepay_ron_hpp/)|`googlepay_ron_hpp`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_sek_hpp](/payment-services/googlepay_sek_hpp/)|`googlepay_sek_hpp`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_nzd_hpp](/payment-services/googlepay_nzd_hpp/)|`googlepay_nzd_hpp`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_uah_hpp](/payment-services/googlepay_uah_hpp/)|`googlepay_uah_hpp`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_rub_hpp](/payment-services/googlepay_rub_hpp/)|`googlepay_rub_hpp`| 
@@ -102,6 +108,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Google Pa
 |![paysoftsolutions](https://static.openfintech.io/payment_providers/paysoftsolutions/icon.png?w=278&c=v0.59.26#w100) |[PaySoft Solutions](/payment-providers/paysoftsolutions/)|`paysoftsolutions`| 
 |![justipay](https://static.openfintech.io/payment_providers/justipay/icon.png?w=278&c=v0.59.26#w100) |[Justipay](/payment-providers/justipay/)|`justipay`| 
 |![bp](https://static.openfintech.io/payment_providers/bp/icon.svg?w=278&c=v0.59.26#w100) |[Boxplat](/payment-providers/bp/)|`bp`| 
+|![moneliq](https://static.openfintech.io/payment_providers/moneliq/icon.png?w=278&c=v0.59.26#w100) |[Moneliq](/payment-providers/moneliq/)|`moneliq`| 
 |![leobank](https://static.openfintech.io/payment_providers/leobank/icon.svg?w=278&c=v0.59.26#w100) |[Digimeth](/payment-providers/leobank/)|`leobank`| 
 |![10pay](https://static.openfintech.io/payment_providers/10pay/icon.svg?w=278&c=v0.59.26#w100) |[10Pay](/payment-providers/10pay/)|`10pay`| 
 |![flexify](https://static.openfintech.io/payment_providers/flexify/icon.png?w=278&c=v0.59.26#w100) |[Flexify.finance](/payment-providers/flexify/)|`flexify`| 

@@ -1300,6 +1300,7 @@
 |![molpay](https://static.openfintech.io/vendors/molpay/logo.png?w=600&c=v0.59.26#w200) |[**MOLPay**](molpay/)|`molpay`| 
 |![momiji_bank](https://static.openfintech.io/vendors/momiji_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Momiji Bank**](momiji_bank/)|`momiji_bank`| 
 |![mondido](https://static.openfintech.io/vendors/mondido/logo.png?w=600&c=v0.59.26#w200) |[**Mondido**](mondido/)|`mondido`| 
+|![moneliq](https://static.openfintech.io/vendors/moneliq/logo.png?w=600&c=v0.59.26#w200) |[**Moneliq**](moneliq/)|`moneliq`| 
 |![moneta](https://static.openfintech.io/vendors/moneta/logo.png?w=600&c=v0.59.26#w200) |[**Moneta**](moneta/)|`moneta`| 
 |![monetaru](https://static.openfintech.io/vendors/monetaru/logo.png?w=600&c=v0.59.26#w200) |[**Moneta.RU**](monetaru/)|`monetaru`| 
 |![monetix](https://static.openfintech.io/vendors/monetix/logo.png?w=600&c=v0.59.26#w200) |[**Monetix**](monetix/)|`monetix`| 
