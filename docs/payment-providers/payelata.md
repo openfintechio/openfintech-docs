@@ -48,6 +48,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![pix_qr](https://static.openfintech.io/payment_methods/pix_qr/icon.svg?w=278&c=v0.59.26#w100) |[pix_qr](/payment-methods/pix_qr/)|`pix_qr`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
 |![online_banking](https://static.openfintech.io/payment_methods/online_banking/icon.svg?w=278&c=v0.59.26#w100) |[online_banking](/payment-methods/online_banking/)|`online_banking`| 
+|![nequi](https://static.openfintech.io/payment_methods/nequi/icon.svg?w=278&c=v0.59.26#w100) |[nequi](/payment-methods/nequi/)|`nequi`| 
 |![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi](/payment-methods/upi/)|`upi`| 
  
 
@@ -60,7 +61,6 @@ The list of supported [Payout Methods](/payout-methods/)
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card](payout-methodspayment_card/)|`payment_card`| 
 |![mobile](https://static.openfintech.io/payout_methods/mobile/icon.svg?w=278&c=v0.59.26#w40) |[mobile](payout-methodsmobile/)|`mobile`| 
 |![pix](https://static.openfintech.io/payout_methods/pix/icon.svg?w=278&c=v0.59.26#w40) |[pix](payout-methodspix/)|`pix`| 
-|![interac_etransfer](https://static.openfintech.io/payout_methods/interac_etransfer/icon.svg?w=278&c=v0.59.26#w40) |[interac_etransfer](payout-methodsinterac_etransfer/)|`interac_etransfer`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
  
 
@@ -83,13 +83,13 @@ The list of supported [Payout Methods](/payout-methods/)
     "pix_qr",
     "bank_transfer",
     "online_banking",
+    "nequi",
     "upi"
   ],
   "payout_method":[
     "payment_card",
     "mobile",
     "pix",
-    "interac_etransfer",
     "bank_transfer"
   ],
   "metadata":null,
