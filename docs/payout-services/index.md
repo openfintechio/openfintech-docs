@@ -1450,6 +1450,7 @@
 |![Movii](https://static.openfintech.io/payout_methods/movii/logo.svg?w=400&c=v0.59.26#w24) |[**Movii**](/payout-methods/movii/)|[`movii_cop`](movii_cop/)|`COP`| 
 |![Mpesa](https://static.openfintech.io/payout_methods/mpesa_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**Mpesa**](/payout-methods/mpesa_wallet/)|[`mpesa_wallet_kes`](mpesa_wallet_kes/)|`KES`| 
 |![MSL - state lottery](https://static.openfintech.io/payout_methods/msl-derzhavni-lotereyi/logo.svg?w=400&c=v0.59.26#w24) |[**MSL - state lottery**](/payout-methods/msl-derzhavni-lotereyi/)|[`msl-derzhavni-lotereyi_uah`](msl-derzhavni-lotereyi_uah/)|`UAH`| 
+|![MTB](https://static.openfintech.io/payout_methods/mtb/logo.svg?w=400&c=v0.59.26#w24) |[**MTB**](/payout-methods/mtb/)|[`mtb_uah`](mtb_uah/)|`UAH`| 
 |![MTK NO (Chernivtsi)](https://static.openfintech.io/payout_methods/mtk-net-chernovtsy/logo.png?w=400&c=v0.59.26#w24) |[**MTK NO (Chernivtsi)**](/payout-methods/mtk-net-chernovtsy/)|[`mtk-net-chernovtsy_uah`](mtk-net-chernovtsy_uah/)|`UAH`| 
 |![MTM](https://static.openfintech.io/payout_methods/mtm/logo.png?w=400&c=v0.59.26#w24) |[**MTM**](/payout-methods/mtm/)|[`mtm_uah`](mtm_uah/)|`UAH`| 
 |![MTN_BJ](https://static.openfintech.io/payout_methods/mtn_bj/logo.svg?w=400&c=v0.59.26#w24) |[**MTN_BJ**](/payout-methods/mtn_bj/)|[`mtn_bj_xof`](mtn_bj_xof/)|`XOF`| 

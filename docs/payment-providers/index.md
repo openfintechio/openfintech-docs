@@ -149,6 +149,7 @@
 |![bscardservices](https://static.openfintech.io/payment_providers/bscardservices/logo.png?w=600&c=v0.59.26#w100) |[**B+S Card Service**](bscardservices/)|`bscardservices`| 
 |![btcbit](https://static.openfintech.io/payment_providers/btcbit/logo.png?w=600&c=v0.59.26#w100) |[**Btcbit**](btcbit/)|`btcbit`| 
 |![btgate](https://static.openfintech.io/payment_providers/btgate/logo.png?w=600&c=v0.59.26#w100) |[**btGate**](btgate/)|`btgate`| 
+|![btqfinance](https://static.openfintech.io/payment_providers/btqfinance/logo.png?w=600&c=v0.59.26#w100) |[**BTQ Finance**](btqfinance/)|`btqfinance`| 
 |![buckaroo](https://static.openfintech.io/payment_providers/buckaroo/logo.png?w=600&c=v0.59.26#w100) |[**Buckaroo**](buckaroo/)|`buckaroo`| 
 |![bucksnet](https://static.openfintech.io/payment_providers/bucksnet/logo.svg?w=600&c=v0.59.26#w100) |[**Bucks Net Services**](bucksnet/)|`bucksnet`| 
 |![buckzy](https://static.openfintech.io/payment_providers/buckzy/logo.png?w=600&c=v0.59.26#w100) |[**Buckzy**](buckzy/)|`buckzy`| 

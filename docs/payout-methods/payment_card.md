@@ -601,6 +601,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![kasha](https://static.openfintech.io/payment_providers/kasha/icon.png?w=278&c=v0.59.26#w100) |[Kasha](/payment-providers/kasha/)|`kasha`| 
 |![cyberpay](https://static.openfintech.io/payment_providers/cyberpay/icon.png?w=278&c=v0.59.26#w100) |[Cyberpay](/payment-providers/cyberpay/)|`cyberpay`| 
 |![dnspay](https://static.openfintech.io/payment_providers/dnspay/icon.svg?w=278&c=v0.59.26#w100) |[DNS PAY](/payment-providers/dnspay/)|`dnspay`| 
+|![btqfinance](https://static.openfintech.io/payment_providers/btqfinance/icon.png?w=278&c=v0.59.26#w100) |[BTQ Finance](/payment-providers/btqfinance/)|`btqfinance`| 
 |![epx](https://static.openfintech.io/payment_providers/epx/icon.png?w=278&c=v0.59.26#w100) |[North Enterprise](/payment-providers/epx/)|`epx`| 
 |![reset](https://static.openfintech.io/payment_providers/reset/icon.png?w=278&c=v0.59.26#w100) |[Re-set](/payment-providers/reset/)|`reset`| 
 |![aipay](https://static.openfintech.io/payment_providers/aipay/icon.png?w=278&c=v0.59.26#w100) |[AiPay](/payment-providers/aipay/)|`aipay`| 

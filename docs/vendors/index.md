@@ -402,6 +402,7 @@
 |![btcbit](https://static.openfintech.io/vendors/btcbit/logo.png?w=600&c=v0.59.26#w200) |[**Btcbit**](btcbit/)|`btcbit`| 
 |![btcupcom](https://static.openfintech.io/vendors/btcupcom/logo.svg?w=600&c=v0.59.26#w200) |[**btc-up.com**](btcupcom/)|`btcupcom`| 
 |![btgate](https://static.openfintech.io/vendors/btgate/logo.png?w=600&c=v0.59.26#w200) |[**btGate**](btgate/)|`btgate`| 
+|![btqfinance](https://static.openfintech.io/vendors/btqfinance/logo.png?w=600&c=v0.59.26#w200) |[**BTQ Finance**](btqfinance/)|`btqfinance`| 
 |![buckaroo](https://static.openfintech.io/vendors/buckaroo/logo.png?w=600&c=v0.59.26#w200) |[**Buckaroo**](buckaroo/)|`buckaroo`| 
 |![bucksnet](https://static.openfintech.io/vendors/bucksnet/logo.png?w=600&c=v0.59.26#w200) |[**Bucks Net Services**](bucksnet/)|`bucksnet`| 
 |![buckzy](https://static.openfintech.io/vendors/buckzy/logo.png?w=600&c=v0.59.26#w200) |[**Buckzy**](buckzy/)|`buckzy`| 

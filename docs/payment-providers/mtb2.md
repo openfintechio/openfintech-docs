@@ -42,6 +42,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |![mtb](https://static.openfintech.io/payment_methods/mtb/icon.svg?w=278&c=v0.59.26#w100) |[mtb](/payment-methods/mtb/)|`mtb`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![mtb](https://static.openfintech.io/payout_methods/mtb/icon.svg?w=278&c=v0.59.26#w40) |[mtb](payout-methodsmtb/)|`mtb`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -54,7 +63,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payment_method":[
     "mtb"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "mtb"
+  ],
   "metadata":null,
   "name":{
     "en":"MTB2",
