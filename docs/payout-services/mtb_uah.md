@@ -18,6 +18,36 @@
  
 **Amount limits:** from `0.01` to `430000` UAH 
 
+## Fields 
+
+### Overview 
+
+|Key|Required|Type|Regexp| 
+|:---:|:---:|:---:|:---:| 
+|`iban`|✔|`string`|`/^[A-Z]{2}(\w){13,29}$/`| 
+ 
+
+### Details 
+ 
+1. **`iban`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Z]{2}(\w){13,29}$/` 
+ 
+	Required: `1` 
+ 
+	Label:  
+	: [EN] IBAN 
+	: [RU] IBAN 
+	: [UK] IBAN 
+ 
+	Hint:  
+	: [EN] Enter IBAN 
+	: [RU] Введите IBAN 
+	: [UK] Введіть IBAN 
+ 
+
 ## JSON Object 
 
 ```json
@@ -25,7 +55,25 @@
   "code":"mtb_uah",
   "method":"mtb",
   "currency":"UAH",
-  "fields":null,
+  "fields":[
+    {
+      "key":"iban",
+      "type":"string",
+      "label":{
+        "en":"IBAN",
+        "ru":"IBAN",
+        "uk":"IBAN"
+      },
+      "hint":{
+        "en":"Enter IBAN",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 IBAN",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c IBAN"
+      },
+      "regexp":"\/^[A-Z]{2}(\\w){13,29}$\/",
+      "required":true,
+      "position":1
+    }
+  ],
   "amount_min":0.01,
   "amount_max":430000
 }
