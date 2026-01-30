@@ -1,5 +1,5 @@
 
-# paytech 
+# Paytech 
 ![paytech](https://static.openfintech.io/vendors/paytech/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,14 +8,14 @@
  
 **Name:** 
  
-:	[EN] paytech 
-:	[RU] paytech 
-:	[UK] paytech 
+:	[EN] Paytech 
+:	[RU] Paytech 
+:	[UK] Paytech 
  
 **Status:** `active` 
  
 **Links:** 
-: website [https://pay.tech/](https://pay.tech/) 
+: website [https://www.pay.tech/](https://www.pay.tech/) 
  
 
 ## Images 
@@ -42,14 +42,14 @@ https://static.openfintech.io/vendors/paytech/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"paytech",
   "name":{
-    "en":"paytech",
-    "ru":"paytech",
-    "uk":"paytech"
+    "en":"Paytech",
+    "ru":"Paytech",
+    "uk":"Paytech"
   },
   "status":"active",
   "description":null,
   "links":{
-    "website":"https:\/\/pay.tech\/"
+    "website":"https:\/\/www.pay.tech\/"
   },
   "countries":null,
   "contacts":null,

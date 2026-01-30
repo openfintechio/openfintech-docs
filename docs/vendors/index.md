@@ -1771,6 +1771,7 @@
 |![paysure](https://static.openfintech.io/vendors/paysure/logo.png?w=600&c=v0.59.26#w200) |[**Paysure**](paysure/)|`paysure`| 
 |![payswiftly](https://static.openfintech.io/vendors/payswiftly/logo.png?w=600&c=v0.59.26#w200) |[**Payswiftly**](payswiftly/)|`payswiftly`| 
 |![paytabs](https://static.openfintech.io/vendors/paytabs/logo.png?w=600&c=v0.59.26#w200) |[**PayTabs**](paytabs/)|`paytabs`| 
+|![paytech](https://static.openfintech.io/vendors/paytech/logo.png?w=600&c=v0.59.26#w200) |[**Paytech**](paytech/)|`paytech`| 
 |![paytend](https://static.openfintech.io/vendors/paytend/logo.png?w=600&c=v0.59.26#w200) |[**Paytend**](paytend/)|`paytend`| 
 |![paytently](https://static.openfintech.io/vendors/paytently/logo.svg?w=600&c=v0.59.26#w200) |[**Paytently**](paytently/)|`paytently`| 
 |![paytiencecc](https://static.openfintech.io/vendors/paytiencecc/logo.png?w=600&c=v0.59.26#w200) |[**Paytience.cc**](paytiencecc/)|`paytiencecc`| 

@@ -1,5 +1,5 @@
 
-# paytech 
+# Paytech 
 ![paytech](https://static.openfintech.io/payment_providers/paytech/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] paytech 
-:	[RU] paytech 
-:	[UK] paytech 
+:	[EN] Paytech 
+:	[RU] Paytech 
+:	[UK] Paytech 
  
 
 ## Images 
@@ -39,6 +39,8 @@ The list of supported [Payment Methods](/payment-methods/)
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay](/payment-methods/applepay/)|`applepay`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay](/payment-methods/googlepay/)|`googlepay`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
  
 
@@ -52,14 +54,16 @@ The list of supported [Payment Methods](/payment-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
+    "applepay",
+    "googlepay",
     "payment_card"
   ],
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"paytech",
-    "ru":"paytech",
-    "uk":"paytech"
+    "en":"Paytech",
+    "ru":"Paytech",
+    "uk":"Paytech"
   }
 }
 ```  
