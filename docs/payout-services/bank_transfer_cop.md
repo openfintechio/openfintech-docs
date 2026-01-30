@@ -26,7 +26,7 @@
 |:---:|:---:|:---:|:---:| 
 |`beneficiary_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
 |`beneficiary_lastname`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
-|`document_type`|✗|`string`|`/^[0-6]{2,2}$/`| 
+|`document_type`|✗|`string`|`/^[0-9A-Z]{2,20}$/`| 
 |`beneficiary_document_id`|✗|`string`|`/^[A-Za-z0-9]{3,20}$/`| 
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
 |`account_number`|✗|`string`|`/^[0-9]{5,100}$/`| 
@@ -84,7 +84,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-6]{2,2}$/` 
+	Regexp: `/^[0-9A-Z]{2,20}$/` 
  
 	Required: `` 
  
@@ -377,7 +377,7 @@
     },
     {
       "key":"document_type",
-      "regexp":"\/^[0-6]{2,2}$\/",
+      "regexp":"\/^[0-9A-Z]{2,20}$\/",
       "type":"string",
       "label":{
         "en":"Document Type",

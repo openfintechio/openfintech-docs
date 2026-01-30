@@ -34,7 +34,7 @@
 |`beneficiary_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\s]{2,100}$/`| 
 |`beneficiary_lastname`|✗|`string`|`/^[A-Za-zА-Яа-я\-\s]{2,100}$/`| 
 |`beneficiary_document_id`|✗|`string`|`/^[A-Z0-9]{3,20}$/`| 
-|`beneficiary_document_type`|✗|`string`|`/^[A-Za-z]{3,20}$/`| 
+|`beneficiary_document_type`|✗|`string`|`/^[A-Za-z]{2,20}$/`| 
 |`beneficiary_country_code_iso`|✗|`string`|`/^.{2,6}$/`| 
 |`beneficiary_city`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
 |`beneficiary_postcode`|✗|`string`|`/^[\w\-\s]{1,64}$/`| 
@@ -237,7 +237,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-z]{3,20}$/` 
+	Regexp: `/^[A-Za-z]{2,20}$/` 
  
 	Required: `` 
  
@@ -686,7 +686,7 @@
     {
       "key":"beneficiary_document_type",
       "type":"string",
-      "regexp":"\/^[A-Za-z]{3,20}$\/",
+      "regexp":"\/^[A-Za-z]{2,20}$\/",
       "required":false,
       "position":11,
       "label":{
