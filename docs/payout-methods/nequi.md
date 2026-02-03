@@ -50,6 +50,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Nequi_
 |![payelata](https://static.openfintech.io/payment_providers/payelata/icon.svg?w=278&c=v0.59.26#w100) |[Payelata](/payment-providers/payelata/)|`payelata`| 
 |![payok](https://static.openfintech.io/payment_providers/payok/icon.png?w=278&c=v0.59.26#w100) |[Payok](/payment-providers/payok/)|`payok`| 
 |![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
+|![apay](https://static.openfintech.io/payment_providers/apay/icon.svg?w=278&c=v0.59.26#w100) |[Apay](/payment-providers/apay/)|`apay`| 
 |![smartfastpay](https://static.openfintech.io/payment_providers/smartfastpay/icon.png?w=278&c=v0.59.26#w100) |[SmartFastPay](/payment-providers/smartfastpay/)|`smartfastpay`| 
  
 

@@ -131,6 +131,7 @@
 |![anymoney](https://static.openfintech.io/vendors/anymoney/logo.svg?w=600&c=v0.59.26#w200) |[**Any.Money**](anymoney/)|`anymoney`| 
 |![aomori_bank](https://static.openfintech.io/vendors/aomori_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Aomori Bank**](aomori_bank/)|`aomori_bank`| 
 |![aozora_bank](https://static.openfintech.io/vendors/aozora_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Aozora Bank**](aozora_bank/)|`aozora_bank`| 
+|![apay](https://static.openfintech.io/vendors/apay/logo.svg?w=600&c=v0.59.26#w200) |[**Apay**](apay/)|`apay`| 
 |![apco](https://static.openfintech.io/vendors/apco/logo.png?w=600&c=v0.59.26#w200) |[**APCO**](apco/)|`apco`| 
 |![apcopay](https://static.openfintech.io/vendors/apcopay/logo.svg?w=600&c=v0.59.26#w200) |[**Apcopay**](apcopay/)|`apcopay`| 
 |![apixoom](https://static.openfintech.io/vendors/apixoom/logo.png?w=600&c=v0.59.26#w200) |[**Nagad**](apixoom/)|`apixoom`| 

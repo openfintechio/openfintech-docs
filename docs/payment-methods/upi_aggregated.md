@@ -37,6 +37,15 @@ The list of [Payment Services](/payment-services/) based on the _UPI Aggregated_
 |![upi_aggregated](https://static.openfintech.io/payment_methods/upi_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[upi_aggregated_inr_hpp](/payment-services/upi_aggregated_inr_hpp/)|`upi_aggregated_inr_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _UPI Aggregated_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![apay](https://static.openfintech.io/payment_providers/apay/icon.svg?w=278&c=v0.59.26#w100) |[Apay](/payment-providers/apay/)|`apay`| 
+ 
+
 ## JSON Object 
 
 ```json

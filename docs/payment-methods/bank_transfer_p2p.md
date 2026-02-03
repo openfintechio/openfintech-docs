@@ -37,6 +37,16 @@ The list of [Payment Services](/payment-services/) based on the _Bank Transfer (
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bank_transfer_p2p](https://static.openfintech.io/payment_methods/bank_transfer_p2p/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_p2p_cny_hpp](/payment-services/bank_transfer_p2p_cny_hpp/)|`bank_transfer_p2p_cny_hpp`| 
+|![bank_transfer_p2p](https://static.openfintech.io/payment_methods/bank_transfer_p2p/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_p2p_inr_hpp](/payment-services/bank_transfer_p2p_inr_hpp/)|`bank_transfer_p2p_inr_hpp`| 
+ 
+
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Bank Transfer (P2P)_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![apay](https://static.openfintech.io/payment_providers/apay/icon.svg?w=278&c=v0.59.26#w100) |[Apay](/payment-providers/apay/)|`apay`| 
  
 
 ## JSON Object 

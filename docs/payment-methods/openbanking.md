@@ -60,6 +60,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Openbanki
 |![benker](https://static.openfintech.io/payment_providers/benker/icon.png?w=278&c=v0.59.26#w100) |[Benker](/payment-providers/benker/)|`benker`| 
 |![btqfinance](https://static.openfintech.io/payment_providers/btqfinance/icon.png?w=278&c=v0.59.26#w100) |[BTQ Finance](/payment-providers/btqfinance/)|`btqfinance`| 
 |![inpay](https://static.openfintech.io/payment_providers/inpay/icon.png?w=278&c=v0.59.26#w100) |[inpay](/payment-providers/inpay/)|`inpay`| 
+|![apay](https://static.openfintech.io/payment_providers/apay/icon.svg?w=278&c=v0.59.26#w100) |[Apay](/payment-providers/apay/)|`apay`| 
  
 
 ## JSON Object 

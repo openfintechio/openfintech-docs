@@ -663,6 +663,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![spell](https://static.openfintech.io/payment_providers/spell/icon.png?w=278&c=v0.59.26#w100) |[Spell](/payment-providers/spell/)|`spell`| 
 |![vialet](https://static.openfintech.io/payment_providers/vialet/icon.png?w=278&c=v0.59.26#w100) |[Vialet](/payment-providers/vialet/)|`vialet`| 
 |![syspay](https://static.openfintech.io/payment_providers/syspay/icon.png?w=278&c=v0.59.26#w100) |[SysPay](/payment-providers/syspay/)|`syspay`| 
+|![apay](https://static.openfintech.io/payment_providers/apay/icon.svg?w=278&c=v0.59.26#w100) |[Apay](/payment-providers/apay/)|`apay`| 
 |![matrixpaysolution](https://static.openfintech.io/payment_providers/matrixpaysolution/icon.png?w=278&c=v0.59.26#w100) |[MatrixPaySolution](/payment-providers/matrixpaysolution/)|`matrixpaysolution`| 
 |![smashpay](https://static.openfintech.io/payment_providers/smashpay/icon.png?w=278&c=v0.59.26#w100) |[SmashPay](/payment-providers/smashpay/)|`smashpay`| 
 |![avepay](https://static.openfintech.io/payment_providers/avepay/icon.png?w=278&c=v0.59.26#w100) |[AvePay](/payment-providers/avepay/)|`avepay`| 

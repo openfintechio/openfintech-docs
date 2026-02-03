@@ -158,6 +158,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![matrixpay](https://static.openfintech.io/payment_providers/matrixpay/icon.png?w=278&c=v0.59.26#w100) |[MatrixPay](/payment-providers/matrixpay/)|`matrixpay`| 
 |![okto](https://static.openfintech.io/payment_providers/okto/icon.png?w=278&c=v0.59.26#w100) |[OKTO](/payment-providers/okto/)|`okto`| 
 |![ozow](https://static.openfintech.io/payment_providers/ozow/icon.png?w=278&c=v0.59.26#w100) |[Ozow](/payment-providers/ozow/)|`ozow`| 
+|![apay](https://static.openfintech.io/payment_providers/apay/icon.svg?w=278&c=v0.59.26#w100) |[Apay](/payment-providers/apay/)|`apay`| 
 |![smartfastpay](https://static.openfintech.io/payment_providers/smartfastpay/icon.png?w=278&c=v0.59.26#w100) |[SmartFastPay](/payment-providers/smartfastpay/)|`smartfastpay`| 
  
 

@@ -63,6 +63,7 @@
 |![antrpay](https://static.openfintech.io/payment_providers/antrpay/logo.svg?w=600&c=v0.59.26#w100) |[**Antrpay**](antrpay/)|`antrpay`| 
 |![anycash](https://static.openfintech.io/payment_providers/anycash/logo.svg?w=600&c=v0.59.26#w100) |[**Any.Cash**](anycash/)|`anycash`| 
 |![anymoney](https://static.openfintech.io/payment_providers/anymoney/logo.svg?w=600&c=v0.59.26#w100) |[**Any.Money**](anymoney/)|`anymoney`| 
+|![apay](https://static.openfintech.io/payment_providers/apay/logo.svg?w=600&c=v0.59.26#w100) |[**Apay**](apay/)|`apay`| 
 |![apco](https://static.openfintech.io/payment_providers/apco/logo.png?w=600&c=v0.59.26#w100) |[**APCO**](apco/)|`apco`| 
 |![apcopay](https://static.openfintech.io/payment_providers/apcopay/logo.svg?w=600&c=v0.59.26#w100) |[**Apcopay**](apcopay/)|`apcopay`| 
 |![apixoom](https://static.openfintech.io/payment_providers/apixoom/logo.png?w=600&c=v0.59.26#w100) |[**Nagad**](apixoom/)|`apixoom`| 
