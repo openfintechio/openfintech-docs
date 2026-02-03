@@ -90,6 +90,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Google Pa
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![4bill](https://static.openfintech.io/payment_providers/4bill/icon.svg?w=278&c=v0.59.26#w100) |[SettlePay](/payment-providers/4bill/)|`4bill`| 
+|![cardpay](https://static.openfintech.io/payment_providers/cardpay/icon.svg?w=278&c=v0.59.26#w100) |[Unlimit](/payment-providers/cardpay/)|`cardpay`| 
 |![portmone](https://static.openfintech.io/payment_providers/portmone/icon.svg?w=278&c=v0.59.26#w100) |[Portmone](/payment-providers/portmone/)|`portmone`| 
 |![stripe](https://static.openfintech.io/payment_providers/stripe/icon.svg?w=278&c=v0.59.26#w100) |[Stripe](/payment-providers/stripe/)|`stripe`| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
@@ -127,6 +128,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Google Pa
 |![rampnow](https://static.openfintech.io/payment_providers/rampnow/icon.svg?w=278&c=v0.59.26#w100) |[Rampnow](/payment-providers/rampnow/)|`rampnow`| 
 |![paytently](https://static.openfintech.io/payment_providers/paytently/icon.svg?w=278&c=v0.59.26#w100) |[Paytently](/payment-providers/paytently/)|`paytently`| 
 |![slyse](https://static.openfintech.io/payment_providers/slyse/icon.png?w=278&c=v0.59.26#w100) |[SLYSE](/payment-providers/slyse/)|`slyse`| 
+|![cardaq](https://static.openfintech.io/payment_providers/cardaq/icon.png?w=278&c=v0.59.26#w100) |[Cardaq](/payment-providers/cardaq/)|`cardaq`| 
 |![spitamenbank](https://static.openfintech.io/payment_providers/spitamenbank/icon.png?w=278&c=v0.59.26#w100) |[Spitamen Bank](/payment-providers/spitamenbank/)|`spitamenbank`| 
 |![xmgate](https://static.openfintech.io/payment_providers/xmgate/icon.svg?w=278&c=v0.59.26#w100) |[Xmgate](/payment-providers/xmgate/)|`xmgate`| 
 |![paynearme](https://static.openfintech.io/payment_providers/paynearme/icon.svg?w=278&c=v0.59.26#w100) |[PayNearMe](/payment-providers/paynearme/)|`paynearme`| 
