@@ -9,7 +9,7 @@
 **Method:** `mobile` 
  [show -->](/payment-methods/mobile/) 
  
-**Currency:** `KZT` [show -->](/currencies/KZT/) 
+**Currency:** `EGP` [show -->](/currencies/EGP/) 
  
 **Name:** 
  
@@ -17,7 +17,7 @@
 :	[RU] Mobile 
 :	[UK] Mobile 
  
-**Amount limits:** from `0.01` to `1000000000` KZT 
+**Amount limits:** from `0.5` to `5000000` EGP 
 
 ## JSON Object 
 
@@ -26,9 +26,9 @@
   "code":"mobile_egp_invoice",
   "flow":"invoice",
   "method":"mobile",
-  "currency":"KZT",
+  "currency":"EGP",
   "fields":null,
-  "amount_min":0.01,
-  "amount_max":1000000000
+  "amount_min":0.5,
+  "amount_max":5000000
 }
 ```  
