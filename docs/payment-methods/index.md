@@ -602,6 +602,8 @@
 |![mpayaisthailand](https://static.openfintech.io/payment_methods/mpayaisthailand/logo.png?w=400&c=v0.59.26#w200) |[**mPAY**](mpayaisthailand/)|`mpayaisthailand`| 
 |![mtb](https://static.openfintech.io/payment_methods/mtb/logo.svg?w=400&c=v0.59.26#w200) |[**MTB**](mtb/)|`mtb`| 
 |![mtn](https://static.openfintech.io/payment_methods/mtn/logo.svg?w=400&c=v0.59.26#w200) |[**MTN**](mtn/)|`mtn`| 
+|![mtn_civ](https://static.openfintech.io/payment_methods/mtn_civ/logo.svg?w=400&c=v0.59.26#w200) |[**MTN**](mtn_civ/)|`mtn_civ`| 
+|![mtn_cog](https://static.openfintech.io/payment_methods/mtn_cog/logo.svg?w=400&c=v0.59.26#w200) |[**MTN**](mtn_cog/)|`mtn_cog`| 
 |![mtn_group](https://static.openfintech.io/payment_methods/mtn_group/logo.png?w=400&c=v0.59.26#w200) |[**MTN Group**](mtn_group/)|`mtn_group`| 
 |![mts](https://static.openfintech.io/payment_methods/mts/logo.png?w=400&c=v0.59.26#w200) |[**MTS**](mts/)|`mts`| 
 |![muchbetter](https://static.openfintech.io/payment_methods/muchbetter/logo.svg?w=400&c=v0.59.26#w200) |[**MuchBetter**](muchbetter/)|`muchbetter`| 

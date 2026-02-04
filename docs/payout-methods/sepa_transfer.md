@@ -56,6 +56,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Sepa Tran
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
 |![vendo](https://static.openfintech.io/payment_providers/vendo/icon.png?w=278&c=v0.59.26#w100) |[Vendo](/payment-providers/vendo/)|`vendo`| 
 |![yotta](https://static.openfintech.io/payment_providers/yotta/icon.svg?w=278&c=v0.59.26#w100) |[Yotta Pay](/payment-providers/yotta/)|`yotta`| 
+|![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 
 |![saltedge](https://static.openfintech.io/payment_providers/saltedge/icon.svg?w=278&c=v0.59.26#w100) |[Salt Edge](/payment-providers/saltedge/)|`saltedge`| 
  
 

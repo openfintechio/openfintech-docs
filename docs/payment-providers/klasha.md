@@ -47,6 +47,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![m_pesa](https://static.openfintech.io/payment_methods/m_pesa/icon.png?w=278&c=v0.59.26#w100) |[m_pesa](/payment-methods/m_pesa/)|`m_pesa`| 
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile](/payment-methods/mobile/)|`mobile`| 
 |![mtn](https://static.openfintech.io/payment_methods/mtn/icon.svg?w=278&c=v0.59.26#w100) |[mtn](/payment-methods/mtn/)|`mtn`| 
+|![mtn_cog](https://static.openfintech.io/payment_methods/mtn_cog/icon.svg?w=278&c=v0.59.26#w100) |[mtn_cog](/payment-methods/mtn_cog/)|`mtn_cog`| 
+|![mtn_civ](https://static.openfintech.io/payment_methods/mtn_civ/icon.svg?w=278&c=v0.59.26#w100) |[mtn_civ](/payment-methods/mtn_civ/)|`mtn_civ`| 
 |![zamtel](https://static.openfintech.io/payment_methods/zamtel/icon.png?w=278&c=v0.59.26#w100) |[zamtel](/payment-methods/zamtel/)|`zamtel`| 
 |![vodacom](https://static.openfintech.io/payment_methods/vodacom/icon.png?w=278&c=v0.59.26#w100) |[vodacom](/payment-methods/vodacom/)|`vodacom`| 
 |![tigo_pesa](https://static.openfintech.io/payment_methods/tigo_pesa/icon.png?w=278&c=v0.59.26#w100) |[tigo_pesa](/payment-methods/tigo_pesa/)|`tigo_pesa`| 
@@ -138,6 +140,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "m_pesa",
     "mobile",
     "mtn",
+    "mtn_cog",
+    "mtn_civ",
     "zamtel",
     "vodacom",
     "tigo_pesa",

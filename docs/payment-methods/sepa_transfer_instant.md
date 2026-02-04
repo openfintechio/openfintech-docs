@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Sepa Tran
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 
 |![saltedge](https://static.openfintech.io/payment_providers/saltedge/icon.svg?w=278&c=v0.59.26#w100) |[Salt Edge](/payment-providers/saltedge/)|`saltedge`| 
  
 

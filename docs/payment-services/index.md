@@ -1125,6 +1125,7 @@
 ||| **M** ||
 |![m10](https://static.openfintech.io/payment_methods/m10/logo.png?w=400&c=v0.59.26#w200) |[**m10**](/payment-methods/m10/)|[`m10_azn_hpp`](m10_azn_hpp/)| 
 |![m10](https://static.openfintech.io/payment_methods/m10/logo.png?w=400&c=v0.59.26#w200) |[**m10**](/payment-methods/m10/)|[`m10_azn_invoice`](m10_azn_invoice/)| 
+|![M-Pesa](https://static.openfintech.io/payment_methods/m_pesa/logo.png?w=400&c=v0.59.26#w200) |[**M-Pesa**](/payment-methods/m_pesa/)|[`m_pesa_cdf_invoice`](m_pesa_cdf_invoice/)| 
 |![M-Pesa](https://static.openfintech.io/payment_methods/m_pesa/logo.png?w=400&c=v0.59.26#w200) |[**M-Pesa**](/payment-methods/m_pesa/)|[`m_pesa_kes_invoice`](m_pesa_kes_invoice/)| 
 |![Mach](https://static.openfintech.io/payment_methods/mach/logo.png?w=400&c=v0.59.26#w200) |[**Mach**](/payment-methods/mach/)|[`mach_ars_hpp`](mach_ars_hpp/)| 
 |![Mach](https://static.openfintech.io/payment_methods/mach/logo.png?w=400&c=v0.59.26#w200) |[**Mach**](/payment-methods/mach/)|[`mach_brl_hpp`](mach_brl_hpp/)| 
@@ -1214,6 +1215,8 @@
 |![Moviired](https://static.openfintech.io/payment_methods/moviired/logo.svg?w=400&c=v0.59.26#w200) |[**Moviired**](/payment-methods/moviired/)|[`moviired_cop_hpp`](moviired_cop_hpp/)| 
 |![MTB](https://static.openfintech.io/payment_methods/mtb/logo.svg?w=400&c=v0.59.26#w200) |[**MTB**](/payment-methods/mtb/)|[`mtb_uah_invoice`](mtb_uah_invoice/)| 
 |![MTN](https://static.openfintech.io/payment_methods/mtn/logo.svg?w=400&c=v0.59.26#w200) |[**MTN**](/payment-methods/mtn/)|[`mtn_cdf_invoice`](mtn_cdf_invoice/)| 
+|![MTN](https://static.openfintech.io/payment_methods/mtn_civ/logo.svg?w=400&c=v0.59.26#w200) |[**MTN**](/payment-methods/mtn_civ/)|[`mtn_civ_xof_invoice`](mtn_civ_xof_invoice/)| 
+|![MTN](https://static.openfintech.io/payment_methods/mtn_cog/logo.svg?w=400&c=v0.59.26#w200) |[**MTN**](/payment-methods/mtn_cog/)|[`mtn_cog_xaf_invoice`](mtn_cog_xaf_invoice/)| 
 |![MTN](https://static.openfintech.io/payment_methods/mtn/logo.svg?w=400&c=v0.59.26#w200) |[**MTN**](/payment-methods/mtn/)|[`mtn_ghs_hpp`](mtn_ghs_hpp/)| 
 |![MTN](https://static.openfintech.io/payment_methods/mtn/logo.svg?w=400&c=v0.59.26#w200) |[**MTN**](/payment-methods/mtn/)|[`mtn_ghs_invoice`](mtn_ghs_invoice/)| 
 |![MTN Group](https://static.openfintech.io/payment_methods/mtn_group/logo.png?w=400&c=v0.59.26#w200) |[**MTN Group**](/payment-methods/mtn_group/)|[`mtn_group_ghs_hpp`](mtn_group_ghs_hpp/)| 
@@ -2114,6 +2117,7 @@
 |![Visa Checkout](https://static.openfintech.io/payment_methods/visacheckout/logo.png?w=400&c=v0.59.26#w200) |[**Visa Checkout**](/payment-methods/visacheckout/)|[`visacheckout_uah_hpp`](visacheckout_uah_hpp/)| 
 |![Visa Electron](https://static.openfintech.io/payment_methods/visaelectron/logo.png?w=400&c=v0.59.26#w200) |[**Visa Electron**](/payment-methods/visaelectron/)|[`visaelectron_eur_hpp`](visaelectron_eur_hpp/)| 
 |![VNPAY QR](https://static.openfintech.io/payment_methods/vnpay_qr/logo.png?w=400&c=v0.59.26#w200) |[**VNPAY QR**](/payment-methods/vnpay_qr/)|[`vnpay_qr_vnd_hpp`](vnpay_qr_vnd_hpp/)| 
+|![Vodacom](https://static.openfintech.io/payment_methods/vodacom/logo.png?w=400&c=v0.59.26#w200) |[**Vodacom**](/payment-methods/vodacom/)|[`vodacom_cdf_invoice`](vodacom_cdf_invoice/)| 
 |![Vodacom](https://static.openfintech.io/payment_methods/vodacom/logo.png?w=400&c=v0.59.26#w200) |[**Vodacom**](/payment-methods/vodacom/)|[`vodacom_tzs_hpp`](vodacom_tzs_hpp/)| 
 |![Vodacom](https://static.openfintech.io/payment_methods/vodacom/logo.png?w=400&c=v0.59.26#w200) |[**Vodacom**](/payment-methods/vodacom/)|[`vodacom_tzs_invoice`](vodacom_tzs_invoice/)| 
 |![Vodafone Cash](https://static.openfintech.io/payment_methods/vodafone_cash/logo.svg?w=400&c=v0.59.26#w200) |[**Vodafone Cash**](/payment-methods/vodafone_cash/)|[`vodafone_cash_egp_hpp`](vodafone_cash_egp_hpp/)| 

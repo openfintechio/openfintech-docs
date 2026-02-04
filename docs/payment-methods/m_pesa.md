@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _M-Pesa_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![m_pesa](https://static.openfintech.io/payment_methods/m_pesa/icon.png?w=278&c=v0.59.26#w100) |[m_pesa_kes_invoice](/payment-services/m_pesa_kes_invoice/)|`m_pesa_kes_invoice`| 
+|![m_pesa](https://static.openfintech.io/payment_methods/m_pesa/icon.png?w=278&c=v0.59.26#w100) |[m_pesa_cdf_invoice](/payment-services/m_pesa_cdf_invoice/)|`m_pesa_cdf_invoice`| 
  
 
 ## Payment Providers 

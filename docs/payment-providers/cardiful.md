@@ -54,6 +54,10 @@ The list of supported [Payment Methods](/payment-methods/)
 |![multibanco](https://static.openfintech.io/payment_methods/multibanco/icon.png?w=278&c=v0.59.26#w100) |[multibanco](/payment-methods/multibanco/)|`multibanco`| 
 |![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2](/payment-methods/mybank2/)|`mybank2`| 
 |![polipayonline](https://static.openfintech.io/payment_methods/polipayonline/icon.png?w=278&c=v0.59.26#w100) |[polipayonline](/payment-methods/polipayonline/)|`polipayonline`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay](/payment-methods/googlepay/)|`googlepay`| 
+|![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay](/payment-methods/applepay/)|`applepay`| 
+|![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer](/payment-methods/sepa_transfer/)|`sepa_transfer`| 
+|![sepa_transfer_instant](https://static.openfintech.io/payment_methods/sepa_transfer_instant/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_instant](/payment-methods/sepa_transfer_instant/)|`sepa_transfer_instant`| 
  
 
 ## Payout Methods 
@@ -89,7 +93,11 @@ The list of supported [Payout Methods](/payout-methods/)
     "sibs_mbway",
     "multibanco",
     "mybank2",
-    "polipayonline"
+    "polipayonline",
+    "googlepay",
+    "applepay",
+    "sepa_transfer",
+    "sepa_transfer_instant"
   ],
   "payout_method":[
     "payment_card"

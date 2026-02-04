@@ -39,6 +39,7 @@ The list of [Payment Services](/payment-services/) based on the _Vodacom_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![vodacom](https://static.openfintech.io/payment_methods/vodacom/icon.png?w=278&c=v0.59.26#w100) |[vodacom_tzs_invoice](/payment-services/vodacom_tzs_invoice/)|`vodacom_tzs_invoice`| 
+|![vodacom](https://static.openfintech.io/payment_methods/vodacom/icon.png?w=278&c=v0.59.26#w100) |[vodacom_cdf_invoice](/payment-services/vodacom_cdf_invoice/)|`vodacom_cdf_invoice`| 
 |![vodacom](https://static.openfintech.io/payment_methods/vodacom/icon.png?w=278&c=v0.59.26#w100) |[vodacom_tzs_hpp](/payment-services/vodacom_tzs_hpp/)|`vodacom_tzs_hpp`| 
  
 
