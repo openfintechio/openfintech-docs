@@ -130,6 +130,8 @@ The list of [Payment Services](/payment-services/) based on the _Payment card_
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[moviicard3dsin_cop_hpp](/payment-services/moviicard3dsin_cop_hpp/)|`moviicard3dsin_cop_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[westernunionin_cop_hpp](/payment-services/westernunionin_cop_hpp/)|`westernunionin_cop_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_zmw_hpp](/payment-services/payment_card_zmw_hpp/)|`payment_card_zmw_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_mkd_hpp](/payment-services/payment_card_mkd_hpp/)|`payment_card_mkd_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_dop_hpp](/payment-services/payment_card_dop_hpp/)|`payment_card_dop_hpp`| 
  
 
 ## Payment Providers 
