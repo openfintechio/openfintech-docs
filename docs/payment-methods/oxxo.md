@@ -54,6 +54,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Oxxo_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
+|![mids](https://static.openfintech.io/payment_providers/mids/icon.svg?w=278&c=v0.59.26#w100) |[MIDs](/payment-providers/mids/)|`mids`| 
 |![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
  
 

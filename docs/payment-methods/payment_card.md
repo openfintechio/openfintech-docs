@@ -44,6 +44,14 @@ The list of [Payment Services](/payment-services/) based on the _Payment card_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_php_hpp](/payment-services/payment_card_php_hpp/)|`payment_card_php_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_pab_hpp](/payment-services/payment_card_pab_hpp/)|`payment_card_pab_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_nio_hpp](/payment-services/payment_card_nio_hpp/)|`payment_card_nio_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_bob_hpp](/payment-services/payment_card_bob_hpp/)|`payment_card_bob_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_xof_hpp](/payment-services/payment_card_xof_hpp/)|`payment_card_xof_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_svc_hpp](/payment-services/payment_card_svc_hpp/)|`payment_card_svc_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_pyg_hpp](/payment-services/payment_card_pyg_hpp/)|`payment_card_pyg_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_uyu_hpp](/payment-services/payment_card_uyu_hpp/)|`payment_card_uyu_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_ves_hpp](/payment-services/payment_card_ves_hpp/)|`payment_card_ves_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_xaf_hpp](/payment-services/payment_card_xaf_hpp/)|`payment_card_xaf_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_cve_hpp](/payment-services/payment_card_cve_hpp/)|`payment_card_cve_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_sll_hpp](/payment-services/payment_card_sll_hpp/)|`payment_card_sll_hpp`| 
@@ -577,7 +585,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![optipay](https://static.openfintech.io/payment_providers/optipay/icon.svg?w=278&c=v0.59.26#w100) |[Optipay](/payment-providers/optipay/)|`optipay`| 
 |![connectivity](https://static.openfintech.io/payment_providers/connectivity/icon.png?w=278&c=v0.59.26#w100) |[Connectivity](/payment-providers/connectivity/)|`connectivity`| 
 |![kora](https://static.openfintech.io/payment_providers/kora/icon.svg?w=278&c=v0.59.26#w100) |[Kora](/payment-providers/kora/)|`kora`| 
-|![mids](https://static.openfintech.io/payment_providers/mids/icon.png?w=278&c=v0.59.26#w100) |[MIDs](/payment-providers/mids/)|`mids`| 
+|![mids](https://static.openfintech.io/payment_providers/mids/icon.svg?w=278&c=v0.59.26#w100) |[MIDs](/payment-providers/mids/)|`mids`| 
 |![paywisesolutions](https://static.openfintech.io/payment_providers/paywisesolutions/icon.png?w=278&c=v0.59.26#w100) |[Paywise Solutions](/payment-providers/paywisesolutions/)|`paywisesolutions`| 
 |![wirebloom](https://static.openfintech.io/payment_providers/wirebloom/icon.png?w=278&c=v0.59.26#w100) |[Wirebloom](/payment-providers/wirebloom/)|`wirebloom`| 
 |![creditum](https://static.openfintech.io/payment_providers/creditum/icon.png?w=278&c=v0.59.26#w100) |[Creditum](/payment-providers/creditum/)|`creditum`| 

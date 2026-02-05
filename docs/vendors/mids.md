@@ -1,6 +1,6 @@
 
 # MIDs 
-![mids](https://static.openfintech.io/vendors/mids/logo.png?w=400&c=v0.59.26#w200)  
+![mids](https://static.openfintech.io/vendors/mids/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![mids](https://static.openfintech.io/vendors/mids/logo.png?w=400&c=v0.59.26#w200)  
+![mids](https://static.openfintech.io/vendors/mids/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/mids/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/mids/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![mids](https://static.openfintech.io/vendors/mids/icon.png?w=278&c=v0.59.26#w100)  
+![mids](https://static.openfintech.io/vendors/mids/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/mids/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/mids/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 

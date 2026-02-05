@@ -1274,7 +1274,7 @@
 |![michinoku_bank](https://static.openfintech.io/vendors/michinoku_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Michinoku Bank**](michinoku_bank/)|`michinoku_bank`| 
 |![micropaymentgmbh](https://static.openfintech.io/vendors/micropaymentgmbh/logo.png?w=600&c=v0.59.26#w200) |[**micropayment™ GmbH**](micropaymentgmbh/)|`micropaymentgmbh`| 
 |![micropayments](https://static.openfintech.io/vendors/micropayments/logo.svg?w=600&c=v0.59.26#w200) |[**Micropayment AG**](micropayments/)|`micropayments`| 
-|![mids](https://static.openfintech.io/vendors/mids/logo.png?w=600&c=v0.59.26#w200) |[**MIDs**](mids/)|`mids`| 
+|![mids](https://static.openfintech.io/vendors/mids/logo.svg?w=600&c=v0.59.26#w200) |[**MIDs**](mids/)|`mids`| 
 |![mie_bank](https://static.openfintech.io/vendors/mie_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Mie Bank**](mie_bank/)|`mie_bank`| 
 |![mifinity](https://static.openfintech.io/vendors/mifinity/logo.svg?w=600&c=v0.59.26#w200) |[**MiFinity**](mifinity/)|`mifinity`| 
 |![mikolayivske_ruprivatbank_m_mikolayiv](https://static.openfintech.io/vendors/mikolayivske_ruprivatbank_m_mikolayiv/logo.svg?w=600&c=v0.59.26#w200) |[**ФІЛІЯ 'МИКОЛАЇВСЬКЕ РЕГІОНАЛЬНЕ УПРАВЛІННЯ' ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](mikolayivske_ruprivatbank_m_mikolayiv/)|`mikolayivske_ruprivatbank_m_mikolayiv`| 

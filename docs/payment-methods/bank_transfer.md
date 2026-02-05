@@ -140,6 +140,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![pay4fungo](https://static.openfintech.io/payment_providers/pay4fungo/icon.png?w=278&c=v0.59.26#w100) |[Pay4funGo](/payment-providers/pay4fungo/)|`pay4fungo`| 
 |![inswitch](https://static.openfintech.io/payment_providers/inswitch/icon.png?w=278&c=v0.59.26#w100) |[Inswitch](/payment-providers/inswitch/)|`inswitch`| 
 |![kora](https://static.openfintech.io/payment_providers/kora/icon.svg?w=278&c=v0.59.26#w100) |[Kora](/payment-providers/kora/)|`kora`| 
+|![mids](https://static.openfintech.io/payment_providers/mids/icon.svg?w=278&c=v0.59.26#w100) |[MIDs](/payment-providers/mids/)|`mids`| 
 |![gateiq](https://static.openfintech.io/payment_providers/gateiq/icon.svg?w=278&c=v0.59.26#w100) |[GateIQ](/payment-providers/gateiq/)|`gateiq`| 
 |![aspay](https://static.openfintech.io/payment_providers/aspay/icon.png?w=278&c=v0.59.26#w100) |[AsPay](/payment-providers/aspay/)|`aspay`| 
 |![hellopayment](https://static.openfintech.io/payment_providers/hellopayment/icon.png?w=278&c=v0.59.26#w100) |[Hello Payment Solutions](/payment-providers/hellopayment/)|`hellopayment`| 

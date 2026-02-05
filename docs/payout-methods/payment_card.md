@@ -114,6 +114,16 @@ The list of [Payout Services](/payout-services/) based on the _Card_
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_cve](/payout-services/payment_card_cve/)|`payment_card_cve`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_sll](/payout-services/payment_card_sll/)|`payment_card_sll`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_bwp](/payout-services/payment_card_bwp/)|`payment_card_bwp`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_pab](/payout-services/payment_card_pab/)|`payment_card_pab`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_nio](/payout-services/payment_card_nio/)|`payment_card_nio`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_bob](/payout-services/payment_card_bob/)|`payment_card_bob`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_xof](/payout-services/payment_card_xof/)|`payment_card_xof`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_dop](/payout-services/payment_card_dop/)|`payment_card_dop`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_svc](/payout-services/payment_card_svc/)|`payment_card_svc`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_pyg](/payout-services/payment_card_pyg/)|`payment_card_pyg`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_ves](/payout-services/payment_card_ves/)|`payment_card_ves`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_cop](/payout-services/payment_card_cop/)|`payment_card_cop`| 
+|![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_gtq](/payout-services/payment_card_gtq/)|`payment_card_gtq`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_bhd](/payout-services/payment_card_bhd/)|`payment_card_bhd`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_omr](/payout-services/payment_card_omr/)|`payment_card_omr`| 
 |![payment_card](https://static.openfintech.io/payout_methods/payment_card/icon.svg?w=278&c=v0.59.26#w40) |[payment_card_bdt](/payout-services/payment_card_bdt/)|`payment_card_bdt`| 
@@ -563,7 +573,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![optipay](https://static.openfintech.io/payment_providers/optipay/icon.svg?w=278&c=v0.59.26#w100) |[Optipay](/payment-providers/optipay/)|`optipay`| 
 |![connectivity](https://static.openfintech.io/payment_providers/connectivity/icon.png?w=278&c=v0.59.26#w100) |[Connectivity](/payment-providers/connectivity/)|`connectivity`| 
 |![kora](https://static.openfintech.io/payment_providers/kora/icon.svg?w=278&c=v0.59.26#w100) |[Kora](/payment-providers/kora/)|`kora`| 
-|![mids](https://static.openfintech.io/payment_providers/mids/icon.png?w=278&c=v0.59.26#w100) |[MIDs](/payment-providers/mids/)|`mids`| 
+|![mids](https://static.openfintech.io/payment_providers/mids/icon.svg?w=278&c=v0.59.26#w100) |[MIDs](/payment-providers/mids/)|`mids`| 
 |![paywisesolutions](https://static.openfintech.io/payment_providers/paywisesolutions/icon.png?w=278&c=v0.59.26#w100) |[Paywise Solutions](/payment-providers/paywisesolutions/)|`paywisesolutions`| 
 |![wirebloom](https://static.openfintech.io/payment_providers/wirebloom/icon.png?w=278&c=v0.59.26#w100) |[Wirebloom](/payment-providers/wirebloom/)|`wirebloom`| 
 |![creditum](https://static.openfintech.io/payment_providers/creditum/icon.png?w=278&c=v0.59.26#w100) |[Creditum](/payment-providers/creditum/)|`creditum`| 

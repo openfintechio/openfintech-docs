@@ -97,6 +97,7 @@ The list of [Payment Providers](/payment-providers/) that support the _iDEAL_
 |![todapay](https://static.openfintech.io/payment_providers/todapay/icon.png?w=278&c=v0.59.26#w100) |[TODA Pay](/payment-providers/todapay/)|`todapay`| 
 |![siquro](https://static.openfintech.io/payment_providers/siquro/icon.png?w=278&c=v0.59.26#w100) |[Siquro](/payment-providers/siquro/)|`siquro`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
+|![mids](https://static.openfintech.io/payment_providers/mids/icon.svg?w=278&c=v0.59.26#w100) |[MIDs](/payment-providers/mids/)|`mids`| 
 |![rampnow](https://static.openfintech.io/payment_providers/rampnow/icon.svg?w=278&c=v0.59.26#w100) |[Rampnow](/payment-providers/rampnow/)|`rampnow`| 
 |![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 
 |![btcbit](https://static.openfintech.io/payment_providers/btcbit/icon.png?w=278&c=v0.59.26#w100) |[Btcbit](/payment-providers/btcbit/)|`btcbit`| 

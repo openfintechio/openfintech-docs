@@ -49,6 +49,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PSE_
 |![spoynt](https://static.openfintech.io/payment_providers/spoynt/icon.svg?w=278&c=v0.59.26#w100) |[Spoynt](/payment-providers/spoynt/)|`spoynt`| 
 |![payretailers](https://static.openfintech.io/payment_providers/payretailers/icon.svg?w=278&c=v0.59.26#w100) |[PayRetailers](/payment-providers/payretailers/)|`payretailers`| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
+|![mids](https://static.openfintech.io/payment_providers/mids/icon.svg?w=278&c=v0.59.26#w100) |[MIDs](/payment-providers/mids/)|`mids`| 
 |![payok](https://static.openfintech.io/payment_providers/payok/icon.png?w=278&c=v0.59.26#w100) |[Payok](/payment-providers/payok/)|`payok`| 
 |![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
 |![paylivre](https://static.openfintech.io/payment_providers/paylivre/icon.png?w=278&c=v0.59.26#w100) |[Paylivre](/payment-providers/paylivre/)|`paylivre`| 

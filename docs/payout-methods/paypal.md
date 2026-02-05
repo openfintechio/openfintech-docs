@@ -86,6 +86,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PayPal_
 |![yuupay](https://static.openfintech.io/payment_providers/yuupay/icon.png?w=278&c=v0.59.26#w100) |[YuuPay ](/payment-providers/yuupay/)|`yuupay`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
 |![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.png?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
+|![mids](https://static.openfintech.io/payment_providers/mids/icon.svg?w=278&c=v0.59.26#w100) |[MIDs](/payment-providers/mids/)|`mids`| 
 |![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
  
 

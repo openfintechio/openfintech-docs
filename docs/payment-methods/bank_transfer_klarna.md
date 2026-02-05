@@ -71,6 +71,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Klarna ba
 |![klarna](https://static.openfintech.io/payment_providers/klarna/icon.svg?w=278&c=v0.59.26#w100) |[Klarna](/payment-providers/klarna/)|`klarna`| 
 |![todapay](https://static.openfintech.io/payment_providers/todapay/icon.png?w=278&c=v0.59.26#w100) |[TODA Pay](/payment-providers/todapay/)|`todapay`| 
 |![siquro](https://static.openfintech.io/payment_providers/siquro/icon.png?w=278&c=v0.59.26#w100) |[Siquro](/payment-providers/siquro/)|`siquro`| 
+|![mids](https://static.openfintech.io/payment_providers/mids/icon.svg?w=278&c=v0.59.26#w100) |[MIDs](/payment-providers/mids/)|`mids`| 
 |![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 
 |![creditumnew](https://static.openfintech.io/payment_providers/creditumnew/icon.png?w=278&c=v0.59.26#w100) |[Creditum (new)](/payment-providers/creditumnew/)|`creditumnew`| 
  

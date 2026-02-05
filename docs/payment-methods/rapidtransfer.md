@@ -62,6 +62,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Rapid Tra
 |![todapay](https://static.openfintech.io/payment_providers/todapay/icon.png?w=278&c=v0.59.26#w100) |[TODA Pay](/payment-providers/todapay/)|`todapay`| 
 |![gatetwoway](https://static.openfintech.io/payment_providers/gatetwoway/icon.svg?w=278&c=v0.59.26#w100) |[Gate2way](/payment-providers/gatetwoway/)|`gatetwoway`| 
 |![siquro](https://static.openfintech.io/payment_providers/siquro/icon.png?w=278&c=v0.59.26#w100) |[Siquro](/payment-providers/siquro/)|`siquro`| 
+|![mids](https://static.openfintech.io/payment_providers/mids/icon.svg?w=278&c=v0.59.26#w100) |[MIDs](/payment-providers/mids/)|`mids`| 
 |![gateiq](https://static.openfintech.io/payment_providers/gateiq/icon.svg?w=278&c=v0.59.26#w100) |[GateIQ](/payment-providers/gateiq/)|`gateiq`| 
 |![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 
 |![btcbit](https://static.openfintech.io/payment_providers/btcbit/icon.png?w=278&c=v0.59.26#w100) |[Btcbit](/payment-providers/btcbit/)|`btcbit`| 

@@ -1,0 +1,34 @@
+
+# Payment card (service) 
+![payment_card_ves_hpp](https://static.openfintech.io/payment_methods/payment_card_ves_hpp/logo.svg?w=400&c=v0.59.26#w200)  
+
+## General 
+ 
+**Code:** `payment_card_ves_hpp` 
+ 
+**Method:** `payment_card` 
+ [show -->](/payment-methods/payment_card/) 
+ 
+**Currency:** `VES` [show -->](/currencies/VES/) 
+ 
+**Name:** 
+ 
+:	[EN] Payment card 
+:	[RU] Платежная карта 
+:	[UK] Платіжна карта 
+ 
+**Amount limits:** from `0.01` to `38000000` VES 
+
+## JSON Object 
+
+```json
+{
+  "code":"payment_card_ves_hpp",
+  "flow":"hpp",
+  "method":"payment_card",
+  "currency":"VES",
+  "fields":null,
+  "amount_min":0.01,
+  "amount_max":38000000
+}
+```  

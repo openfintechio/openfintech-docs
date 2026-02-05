@@ -131,6 +131,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Apple Pay
 |![jmitsolutions](https://static.openfintech.io/payment_providers/jmitsolutions/icon.svg?w=278&c=v0.59.26#w100) |[JM IT Solutions](/payment-providers/jmitsolutions/)|`jmitsolutions`| 
 |![altitudepay](https://static.openfintech.io/payment_providers/altitudepay/icon.svg?w=278&c=v0.59.26#w100) |[Altitude Pay](/payment-providers/altitudepay/)|`altitudepay`| 
 |![paycc](https://static.openfintech.io/payment_providers/paycc/icon.svg?w=278&c=v0.59.26#w100) |[Pay CC](/payment-providers/paycc/)|`paycc`| 
+|![mids](https://static.openfintech.io/payment_providers/mids/icon.svg?w=278&c=v0.59.26#w100) |[MIDs](/payment-providers/mids/)|`mids`| 
 |![gateiq](https://static.openfintech.io/payment_providers/gateiq/icon.svg?w=278&c=v0.59.26#w100) |[GateIQ](/payment-providers/gateiq/)|`gateiq`| 
 |![tillpayments](https://static.openfintech.io/payment_providers/tillpayments/icon.png?w=278&c=v0.59.26#w100) |[Till Payments](/payment-providers/tillpayments/)|`tillpayments`| 
 |![rampnow](https://static.openfintech.io/payment_providers/rampnow/icon.svg?w=278&c=v0.59.26#w100) |[Rampnow](/payment-providers/rampnow/)|`rampnow`| 

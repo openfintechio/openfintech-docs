@@ -65,6 +65,7 @@ The list of [Payment Providers](/payment-providers/) that support the _BLIK_
 |![betterbro](https://static.openfintech.io/payment_providers/betterbro/icon.png?w=278&c=v0.59.26#w100) |[Betterbro](/payment-providers/betterbro/)|`betterbro`| 
 |![freepayment](https://static.openfintech.io/payment_providers/freepayment/icon.png?w=278&c=v0.59.26#w100) |[FreePayment](/payment-providers/freepayment/)|`freepayment`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
+|![mids](https://static.openfintech.io/payment_providers/mids/icon.svg?w=278&c=v0.59.26#w100) |[MIDs](/payment-providers/mids/)|`mids`| 
 |![gateiq](https://static.openfintech.io/payment_providers/gateiq/icon.svg?w=278&c=v0.59.26#w100) |[GateIQ](/payment-providers/gateiq/)|`gateiq`| 
 |![bizon](https://static.openfintech.io/payment_providers/bizon/icon.png?w=278&c=v0.59.26#w100) |[Bizon](/payment-providers/bizon/)|`bizon`| 
 |![rampnow](https://static.openfintech.io/payment_providers/rampnow/icon.svg?w=278&c=v0.59.26#w100) |[Rampnow](/payment-providers/rampnow/)|`rampnow`| 

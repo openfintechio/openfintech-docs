@@ -124,6 +124,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Google Pa
 |![jmitsolutions](https://static.openfintech.io/payment_providers/jmitsolutions/icon.svg?w=278&c=v0.59.26#w100) |[JM IT Solutions](/payment-providers/jmitsolutions/)|`jmitsolutions`| 
 |![altitudepay](https://static.openfintech.io/payment_providers/altitudepay/icon.svg?w=278&c=v0.59.26#w100) |[Altitude Pay](/payment-providers/altitudepay/)|`altitudepay`| 
 |![paycc](https://static.openfintech.io/payment_providers/paycc/icon.svg?w=278&c=v0.59.26#w100) |[Pay CC](/payment-providers/paycc/)|`paycc`| 
+|![mids](https://static.openfintech.io/payment_providers/mids/icon.svg?w=278&c=v0.59.26#w100) |[MIDs](/payment-providers/mids/)|`mids`| 
 |![gateiq](https://static.openfintech.io/payment_providers/gateiq/icon.svg?w=278&c=v0.59.26#w100) |[GateIQ](/payment-providers/gateiq/)|`gateiq`| 
 |![pluspedirect](https://static.openfintech.io/payment_providers/pluspedirect/icon.svg?w=278&c=v0.59.26#w100) |[PlusPeDirect](/payment-providers/pluspedirect/)|`pluspedirect`| 
 |![rampnow](https://static.openfintech.io/payment_providers/rampnow/icon.svg?w=278&c=v0.59.26#w100) |[Rampnow](/payment-providers/rampnow/)|`rampnow`| 

@@ -569,7 +569,7 @@
 |![mfstream](https://static.openfintech.io/payment_providers/mfstream/logo.png?w=600&c=v0.59.26#w100) |[**MF Stream**](mfstream/)|`mfstream`| 
 |![micropaymentgmbh](https://static.openfintech.io/payment_providers/micropaymentgmbh/logo.png?w=600&c=v0.59.26#w100) |[**micropayment™ GmbH**](micropaymentgmbh/)|`micropaymentgmbh`| 
 |![micropayments](https://static.openfintech.io/payment_providers/micropayments/logo.svg?w=600&c=v0.59.26#w100) |[**Micropayment AG**](micropayments/)|`micropayments`| 
-|![mids](https://static.openfintech.io/payment_providers/mids/logo.png?w=600&c=v0.59.26#w100) |[**MIDs**](mids/)|`mids`| 
+|![mids](https://static.openfintech.io/payment_providers/mids/logo.svg?w=600&c=v0.59.26#w100) |[**MIDs**](mids/)|`mids`| 
 |![mifinity](https://static.openfintech.io/payment_providers/mifinity/logo.svg?w=600&c=v0.59.26#w100) |[**MiFinity**](mifinity/)|`mifinity`| 
 |![millikart](https://static.openfintech.io/payment_providers/millikart/logo.png?w=600&c=v0.59.26#w100) |[**MilliKart**](millikart/)|`millikart`| 
 |![mineexchange](https://static.openfintech.io/payment_providers/mineexchange/logo.png?w=600&c=v0.59.26#w100) |[**MineExchange**](mineexchange/)|`mineexchange`| 
