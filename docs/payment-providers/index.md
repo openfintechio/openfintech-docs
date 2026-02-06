@@ -527,6 +527,7 @@
 |![kunapaycrypto](https://static.openfintech.io/payment_providers/kunapaycrypto/logo.svg?w=600&c=v0.59.26#w100) |[**KUNA Pay Crypto**](kunapaycrypto/)|`kunapaycrypto`| 
 |![kvitum](https://static.openfintech.io/payment_providers/kvitum/logo.svg?w=600&c=v0.59.26#w100) |[**Qostiq**](kvitum/)|`kvitum`| 
 || **L** ||
+|![lapsa](https://static.openfintech.io/payment_providers/lapsa/logo.png?w=600&c=v0.59.26#w100) |[**Lapsa**](lapsa/)|`lapsa`| 
 |![lateralpaymentsolutions](https://static.openfintech.io/payment_providers/lateralpaymentsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Lateral Payment Solutions**](lateralpaymentsolutions/)|`lateralpaymentsolutions`| 
 |![lava](https://static.openfintech.io/payment_providers/lava/logo.svg?w=600&c=v0.59.26#w100) |[**Lava**](lava/)|`lava`| 
 |![leikur](https://static.openfintech.io/payment_providers/leikur/logo.svg?w=600&c=v0.59.26#w100) |[**Leikur**](leikur/)|`leikur`| 

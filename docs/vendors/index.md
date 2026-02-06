@@ -1203,6 +1203,7 @@
 || **L** ||
 |![lacaixa](https://static.openfintech.io/vendors/lacaixa/logo.png?w=600&c=v0.59.26#w200) |[**La Caixa**](lacaixa/)|`lacaixa`| 
 |![lansforsakringar](https://static.openfintech.io/vendors/lansforsakringar/logo.png?w=600&c=v0.59.26#w200) |[**Länsförsäkringar**](lansforsakringar/)|`lansforsakringar`| 
+|![lapsa](https://static.openfintech.io/vendors/lapsa/logo.png?w=600&c=v0.59.26#w200) |[**Lapsa**](lapsa/)|`lapsa`| 
 |![lateralpaymentsolutions](https://static.openfintech.io/vendors/lateralpaymentsolutions/logo.png?w=600&c=v0.59.26#w200) |[**Lateral Payment Solutions**](lateralpaymentsolutions/)|`lateralpaymentsolutions`| 
 |![lava](https://static.openfintech.io/vendors/lava/logo.svg?w=600&c=v0.59.26#w200) |[**Lava**](lava/)|`lava`| 
 |![lavapay](https://static.openfintech.io/vendors/lavapay/logo.svg?w=600&c=v0.59.26#w200) |[**LavaPay**](lavapay/)|`lavapay`| 
