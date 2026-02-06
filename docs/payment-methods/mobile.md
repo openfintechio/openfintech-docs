@@ -41,6 +41,7 @@ The list of [Payment Services](/payment-services/) based on the _Mobile_
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_ghs_hpp](/payment-services/mobile_ghs_hpp/)|`mobile_ghs_hpp`| 
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_ugx_hpp](/payment-services/mobile_ugx_hpp/)|`mobile_ugx_hpp`| 
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_inr_hpp](/payment-services/mobile_inr_hpp/)|`mobile_inr_hpp`| 
+|![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_rwf_hpp](/payment-services/mobile_rwf_hpp/)|`mobile_rwf_hpp`| 
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_xaf_hpp](/payment-services/mobile_xaf_hpp/)|`mobile_xaf_hpp`| 
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_xaf_invoice](/payment-services/mobile_xaf_invoice/)|`mobile_xaf_invoice`| 
 |![mobile](https://static.openfintech.io/payment_methods/mobile/icon.svg?w=278&c=v0.59.26#w100) |[mobile_xof_hpp](/payment-services/mobile_xof_hpp/)|`mobile_xof_hpp`| 
