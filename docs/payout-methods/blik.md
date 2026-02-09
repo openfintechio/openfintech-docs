@@ -73,6 +73,7 @@ The list of [Payment Providers](/payment-providers/) that support the _BLIK_
 |![utorg](https://static.openfintech.io/payment_providers/utorg/icon.png?w=278&c=v0.59.26#w100) |[Utorg](/payment-providers/utorg/)|`utorg`| 
 |![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 
 |![pspark](https://static.openfintech.io/payment_providers/pspark/icon.svg?w=278&c=v0.59.26#w100) |[PSPARK](/payment-providers/pspark/)|`pspark`| 
+|![embily](https://static.openfintech.io/payment_providers/embily/icon.png?w=278&c=v0.59.26#w100) |[Embily](/payment-providers/embily/)|`embily`| 
  
 
 ## JSON Object 

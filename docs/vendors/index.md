@@ -706,6 +706,7 @@
 |![elo](https://static.openfintech.io/vendors/elo/logo.png?w=600&c=v0.59.26#w200) |[**Elo**](elo/)|`elo`| 
 |![elsom](https://static.openfintech.io/vendors/elsom/logo.svg?w=600&c=v0.59.26#w200) |[**Элсом**](elsom/)|`elsom`| 
 |![ematters](https://static.openfintech.io/vendors/ematters/logo.png?w=600&c=v0.59.26#w200) |[**eMatters**](ematters/)|`ematters`| 
+|![embily](https://static.openfintech.io/vendors/embily/logo.png?w=600&c=v0.59.26#w200) |[**Embily**](embily/)|`embily`| 
 |![emblaze](https://static.openfintech.io/vendors/emblaze/logo.svg?w=600&c=v0.59.26#w200) |[**eMblaze One**](emblaze/)|`emblaze`| 
 |![emerald24](https://static.openfintech.io/vendors/emerald24/logo.svg?w=600&c=v0.59.26#w200) |[**Emerald24**](emerald24/)|`emerald24`| 
 |![emerchantpay](https://static.openfintech.io/vendors/emerchantpay/logo.svg?w=600&c=v0.59.26#w200) |[**EmerchantPay**](emerchantpay/)|`emerchantpay`| 

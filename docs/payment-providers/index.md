@@ -325,6 +325,7 @@
 |![eleospay](https://static.openfintech.io/payment_providers/eleospay/logo.png?w=600&c=v0.59.26#w100) |[**EleosPay**](eleospay/)|`eleospay`| 
 |![elitepay](https://static.openfintech.io/payment_providers/elitepay/logo.png?w=600&c=v0.59.26#w100) |[**Elitepay**](elitepay/)|`elitepay`| 
 |![ematters](https://static.openfintech.io/payment_providers/ematters/logo.svg?w=600&c=v0.59.26#w100) |[**eMatters**](ematters/)|`ematters`| 
+|![embily](https://static.openfintech.io/payment_providers/embily/logo.png?w=600&c=v0.59.26#w100) |[**Embily**](embily/)|`embily`| 
 |![emblaze](https://static.openfintech.io/payment_providers/emblaze/logo.png?w=600&c=v0.59.26#w100) |[**eMblaze One**](emblaze/)|`emblaze`| 
 |![emerald24](https://static.openfintech.io/payment_providers/emerald24/logo.svg?w=600&c=v0.59.26#w100) |[**Emerald24**](emerald24/)|`emerald24`| 
 |![emerchantpay](https://static.openfintech.io/payment_providers/emerchantpay/logo.svg?w=600&c=v0.59.26#w100) |[**emerchantpay**](emerchantpay/)|`emerchantpay`| 
