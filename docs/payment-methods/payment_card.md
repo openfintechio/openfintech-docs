@@ -53,6 +53,7 @@ The list of [Payment Services](/payment-services/) based on the _Payment card_
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_uyu_hpp](/payment-services/payment_card_uyu_hpp/)|`payment_card_uyu_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_ves_hpp](/payment-services/payment_card_ves_hpp/)|`payment_card_ves_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_srd_hpp](/payment-services/payment_card_srd_hpp/)|`payment_card_srd_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_rsd_hpp](/payment-services/payment_card_rsd_hpp/)|`payment_card_rsd_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_xaf_hpp](/payment-services/payment_card_xaf_hpp/)|`payment_card_xaf_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_cve_hpp](/payment-services/payment_card_cve_hpp/)|`payment_card_cve_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_sll_hpp](/payment-services/payment_card_sll_hpp/)|`payment_card_sll_hpp`| 
