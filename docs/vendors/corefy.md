@@ -9,6 +9,8 @@
 **Name:** 
  
 :	[EN] Corefy 
+:	[RU] Corefy 
+:	[UK] Corefy 
  
 **Status:** `active` 
  
@@ -40,7 +42,9 @@ https://static.openfintech.io/vendors/corefy/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"corefy",
   "name":{
-    "en":"Corefy"
+    "en":"Corefy",
+    "ru":"Corefy",
+    "uk":"Corefy"
   },
   "status":"active",
   "description":null,

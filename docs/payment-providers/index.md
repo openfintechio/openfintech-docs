@@ -243,6 +243,7 @@
 |![contiant](https://static.openfintech.io/payment_providers/contiant/logo.png?w=600&c=v0.59.26#w100) |[**Contiant**](contiant/)|`contiant`| 
 |![convergegate](https://static.openfintech.io/payment_providers/convergegate/logo.svg?w=600&c=v0.59.26#w100) |[**Converge Gate**](convergegate/)|`convergegate`| 
 |![copay](https://static.openfintech.io/payment_providers/copay/logo.svg?w=600&c=v0.59.26#w100) |[**Copay**](copay/)|`copay`| 
+|![corefy](https://static.openfintech.io/payment_providers/corefy/logo.svg?w=600&c=v0.59.26#w100) |[**Corefy**](corefy/)|`corefy`| 
 |![corvuspay](https://static.openfintech.io/payment_providers/corvuspay/logo.svg?w=600&c=v0.59.26#w100) |[**CorvusPay**](corvuspay/)|`corvuspay`| 
 |![cpay](https://static.openfintech.io/payment_providers/cpay/logo.png?w=600&c=v0.59.26#w100) |[**C.Pay**](cpay/)|`cpay`| 
 |![cps](https://static.openfintech.io/payment_providers/cps/logo.svg?w=600&c=v0.59.26#w100) |[**CPS**](cps/)|`cps`| 

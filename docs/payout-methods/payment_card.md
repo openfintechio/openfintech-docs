@@ -685,6 +685,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![solvex](https://static.openfintech.io/payment_providers/solvex/icon.svg?w=278&c=v0.59.26#w100) |[Solvex](/payment-providers/solvex/)|`solvex`| 
 |![paytech](https://static.openfintech.io/payment_providers/paytech/icon.png?w=278&c=v0.59.26#w100) |[Paytech](/payment-providers/paytech/)|`paytech`| 
 |![lapsa](https://static.openfintech.io/payment_providers/lapsa/icon.png?w=278&c=v0.59.26#w100) |[Lapsa](/payment-providers/lapsa/)|`lapsa`| 
+|![corefy](https://static.openfintech.io/payment_providers/corefy/icon.svg?w=278&c=v0.59.26#w100) |[Corefy](/payment-providers/corefy/)|`corefy`| 
  
 
 ## JSON Object 
