@@ -599,6 +599,7 @@
 |![multicards](https://static.openfintech.io/payment_providers/multicards/logo.png?w=600&c=v0.59.26#w100) |[**MultiCards Internet Billing**](multicards/)|`multicards`| 
 |![multisafepay](https://static.openfintech.io/payment_providers/multisafepay/logo.png?w=600&c=v0.59.26#w100) |[**MultiSafepay**](multisafepay/)|`multisafepay`| 
 |![mxpay](https://static.openfintech.io/payment_providers/mxpay/logo.png?w=600&c=v0.59.26#w100) |[**MXPay**](mxpay/)|`mxpay`| 
+|![myfatoorah](https://static.openfintech.io/payment_providers/myfatoorah/logo.png?w=600&c=v0.59.26#w100) |[**MyFatoorah**](myfatoorah/)|`myfatoorah`| 
 |![mygate](https://static.openfintech.io/payment_providers/mygate/logo.png?w=600&c=v0.59.26#w100) |[**MyGate**](mygate/)|`mygate`| 
 || **N** ||
 |![nagad](https://static.openfintech.io/payment_providers/nagad/logo.png?w=600&c=v0.59.26#w100) |[**Nagad**](nagad/)|`nagad`| 

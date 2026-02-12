@@ -700,6 +700,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![paytech](https://static.openfintech.io/payment_providers/paytech/icon.png?w=278&c=v0.59.26#w100) |[Paytech](/payment-providers/paytech/)|`paytech`| 
 |![lapsa](https://static.openfintech.io/payment_providers/lapsa/icon.png?w=278&c=v0.59.26#w100) |[Lapsa](/payment-providers/lapsa/)|`lapsa`| 
 |![corefy](https://static.openfintech.io/payment_providers/corefy/icon.svg?w=278&c=v0.59.26#w100) |[Corefy](/payment-providers/corefy/)|`corefy`| 
+|![myfatoorah](https://static.openfintech.io/payment_providers/myfatoorah/icon.png?w=278&c=v0.59.26#w100) |[MyFatoorah](/payment-providers/myfatoorah/)|`myfatoorah`| 
  
 
 ## JSON Object 

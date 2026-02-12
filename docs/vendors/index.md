@@ -1340,6 +1340,7 @@
 |![mxpay](https://static.openfintech.io/vendors/mxpay/logo.png?w=600&c=v0.59.26#w200) |[**MXPay**](mxpay/)|`mxpay`| 
 |![my-xchange](https://static.openfintech.io/vendors/my-xchange/logo.svg?w=600&c=v0.59.26#w200) |[**My-Xchange**](my-xchange/)|`my-xchange`| 
 |![mybank2](https://static.openfintech.io/vendors/mybank2/logo.png?w=600&c=v0.59.26#w200) |[**MyBank**](mybank2/)|`mybank2`| 
+|![myfatoorah](https://static.openfintech.io/vendors/myfatoorah/logo.png?w=600&c=v0.59.26#w200) |[**MyFatoorah**](myfatoorah/)|`myfatoorah`| 
 |![mygate](https://static.openfintech.io/vendors/mygate/logo.png?w=600&c=v0.59.26#w200) |[**MyGate**](mygate/)|`mygate`| 
 |![mypaywizard](https://static.openfintech.io/vendors/mypaywizard/logo.png?w=600&c=v0.59.26#w200) |[**MyPayWizard**](mypaywizard/)|`mypaywizard`| 
 || **N** ||
