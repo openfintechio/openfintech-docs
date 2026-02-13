@@ -52,6 +52,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![nequi](https://static.openfintech.io/payment_methods/nequi/icon.svg?w=278&c=v0.59.26#w100) |[nequi](/payment-methods/nequi/)|`nequi`| 
 |![transfiya](https://static.openfintech.io/payment_methods/transfiya/icon.svg?w=278&c=v0.59.26#w100) |[transfiya](/payment-methods/transfiya/)|`transfiya`| 
 |![efecty](https://static.openfintech.io/payment_methods/efecty/icon.svg?w=278&c=v0.59.26#w100) |[efecty](/payment-methods/efecty/)|`efecty`| 
+|![spei](https://static.openfintech.io/payment_methods/spei/icon.svg?w=278&c=v0.59.26#w100) |[spei](/payment-methods/spei/)|`spei`| 
+|![codi](https://static.openfintech.io/payment_methods/codi/icon.svg?w=278&c=v0.59.26#w100) |[codi](/payment-methods/codi/)|`codi`| 
  
 
 ## Payout Methods 
@@ -87,7 +89,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "pse",
     "nequi",
     "transfiya",
-    "efecty"
+    "efecty",
+    "spei",
+    "codi"
   ],
   "payout_method":[
     "pix",
