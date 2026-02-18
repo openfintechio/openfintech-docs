@@ -47,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bkash p2p
 |:---:|:---:|:---:| 
 |![kodapay](https://static.openfintech.io/payment_providers/kodapay/icon.png?w=278&c=v0.59.26#w100) |[KodaPay](/payment-providers/kodapay/)|`kodapay`| 
 |![assanpay](https://static.openfintech.io/payment_providers/assanpay/icon.png?w=278&c=v0.59.26#w100) |[AssanPay](/payment-providers/assanpay/)|`assanpay`| 
+|![tp24bdt](https://static.openfintech.io/payment_providers/tp24bdt/icon.svg?w=278&c=v0.59.26#w100) |[TP24BDT](/payment-providers/tp24bdt/)|`tp24bdt`| 
  
 
 ## JSON Object 
