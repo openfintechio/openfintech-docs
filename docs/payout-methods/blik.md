@@ -70,6 +70,7 @@ The list of [Payment Providers](/payment-providers/) that support the _BLIK_
 |![bizon](https://static.openfintech.io/payment_providers/bizon/icon.png?w=278&c=v0.59.26#w100) |[Bizon](/payment-providers/bizon/)|`bizon`| 
 |![rampnow](https://static.openfintech.io/payment_providers/rampnow/icon.svg?w=278&c=v0.59.26#w100) |[Rampnow](/payment-providers/rampnow/)|`rampnow`| 
 |![bitandpay](https://static.openfintech.io/payment_providers/bitandpay/icon.png?w=278&c=v0.59.26#w100) |[BitAndPay](/payment-providers/bitandpay/)|`bitandpay`| 
+|![aeteredge](https://static.openfintech.io/payment_providers/aeteredge/icon.svg?w=278&c=v0.59.26#w100) |[AeterEdge](/payment-providers/aeteredge/)|`aeteredge`| 
 |![utorg](https://static.openfintech.io/payment_providers/utorg/icon.png?w=278&c=v0.59.26#w100) |[Utorg](/payment-providers/utorg/)|`utorg`| 
 |![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 
 |![pspark](https://static.openfintech.io/payment_providers/pspark/icon.svg?w=278&c=v0.59.26#w100) |[PSPARK](/payment-providers/pspark/)|`pspark`| 

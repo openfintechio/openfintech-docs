@@ -2251,6 +2251,7 @@
 |![tov_ukrayinska_platizhna_sistema](https://static.openfintech.io/vendors/tov_ukrayinska_platizhna_sistema/logo.svg?w=600&c=v0.59.26#w200) |[**ТОВ 'УКРАЇНСЬКА ПЛАТІЖНА СИСТЕМА'**](tov_ukrayinska_platizhna_sistema/)|`tov_ukrayinska_platizhna_sistema`| 
 |![towa_bank](https://static.openfintech.io/vendors/towa_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Towa Bank**](towa_bank/)|`towa_bank`| 
 |![toyama_bank](https://static.openfintech.io/vendors/toyama_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Toyama Bank**](toyama_bank/)|`toyama_bank`| 
+|![tp24bdt](https://static.openfintech.io/vendors/tp24bdt/logo.svg?w=600&c=v0.59.26#w200) |[**TP24BDT**](tp24bdt/)|`tp24bdt`| 
 |![tpaycom](https://static.openfintech.io/vendors/tpaycom/logo.png?w=600&c=v0.59.26#w200) |[**tpay.com**](tpaycom/)|`tpaycom`| 
 |![transact](https://static.openfintech.io/vendors/transact/logo.png?w=600&c=v0.59.26#w200) |[**Transact Europe**](transact/)|`transact`| 
 |![transact24](https://static.openfintech.io/vendors/transact24/logo.png?w=600&c=v0.59.26#w200) |[**Transact24**](transact24/)|`transact24`| 

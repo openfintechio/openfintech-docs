@@ -149,6 +149,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![btqfinance](https://static.openfintech.io/payment_providers/btqfinance/icon.png?w=278&c=v0.59.26#w100) |[BTQ Finance](/payment-providers/btqfinance/)|`btqfinance`| 
 |![startbutton](https://static.openfintech.io/payment_providers/startbutton/icon.png?w=278&c=v0.59.26#w100) |[Startbutton](/payment-providers/startbutton/)|`startbutton`| 
 |![payok](https://static.openfintech.io/payment_providers/payok/icon.png?w=278&c=v0.59.26#w100) |[Payok](/payment-providers/payok/)|`payok`| 
+|![aeteredge](https://static.openfintech.io/payment_providers/aeteredge/icon.svg?w=278&c=v0.59.26#w100) |[AeterEdge](/payment-providers/aeteredge/)|`aeteredge`| 
 |![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
 |![spayz](https://static.openfintech.io/payment_providers/spayz/icon.svg?w=278&c=v0.59.26#w100) |[SPAYZ.io](/payment-providers/spayz/)|`spayz`| 
 |![payelu](https://static.openfintech.io/payment_providers/payelu/icon.png?w=278&c=v0.59.26#w100) |[Payelu](/payment-providers/payelu/)|`payelu`| 
