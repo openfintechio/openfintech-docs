@@ -1038,6 +1038,7 @@
 |![ibox](https://static.openfintech.io/vendors/ibox/logo.svg?w=600&c=v0.59.26#w200) |[**iBox**](ibox/)|`ibox`| 
 |![iboxbank](https://static.openfintech.io/vendors/iboxbank/logo.png?w=600&c=v0.59.26#w200) |[**Ibox Bank**](iboxbank/)|`iboxbank`| 
 |![icabanken](https://static.openfintech.io/vendors/icabanken/logo.png?w=600&c=v0.59.26#w200) |[**ICA-Banken**](icabanken/)|`icabanken`| 
+|![icard](https://static.openfintech.io/vendors/icard/logo.png?w=600&c=v0.59.26#w200) |[**iCard**](icard/)|`icard`| 
 |![icepay](https://static.openfintech.io/vendors/icepay/logo.png?w=600&c=v0.59.26#w200) |[**ICEPAY**](icepay/)|`icepay`| 
 |![icicinetbanking](https://static.openfintech.io/vendors/icicinetbanking/logo.png?w=600&c=v0.59.26#w200) |[**ICICI netbanking**](icicinetbanking/)|`icicinetbanking`| 
 |![ideal](https://static.openfintech.io/vendors/ideal/logo.svg?w=600&c=v0.59.26#w200) |[**iDEAL**](ideal/)|`ideal`| 

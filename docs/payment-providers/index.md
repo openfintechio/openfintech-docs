@@ -459,6 +459,7 @@
 |![iatspayments](https://static.openfintech.io/payment_providers/iatspayments/logo.png?w=600&c=v0.59.26#w100) |[**iATS Payments**](iatspayments/)|`iatspayments`| 
 |![ibox](https://static.openfintech.io/payment_providers/ibox/logo.svg?w=600&c=v0.59.26#w100) |[**iBox**](ibox/)|`ibox`| 
 |![iboxbank](https://static.openfintech.io/payment_providers/iboxbank/logo.png?w=600&c=v0.59.26#w100) |[**Ibox Bank**](iboxbank/)|`iboxbank`| 
+|![icard](https://static.openfintech.io/payment_providers/icard/logo.png?w=600&c=v0.59.26#w100) |[**iCard**](icard/)|`icard`| 
 |![icepay](https://static.openfintech.io/payment_providers/icepay/logo.png?w=600&c=v0.59.26#w100) |[**ICEPAY**](icepay/)|`icepay`| 
 |![ikajo](https://static.openfintech.io/payment_providers/ikajo/logo.svg?w=600&c=v0.59.26#w100) |[**Ikajo**](ikajo/)|`ikajo`| 
 |![ikorunapaymentsystems](https://static.openfintech.io/payment_providers/ikorunapaymentsystems/logo.png?w=600&c=v0.59.26#w100) |[**IKoruna**](ikorunapaymentsystems/)|`ikorunapaymentsystems`| 

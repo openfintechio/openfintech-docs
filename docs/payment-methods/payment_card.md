@@ -501,6 +501,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![noda](https://static.openfintech.io/payment_providers/noda/icon.svg?w=278&c=v0.59.26#w100) |[Noda](/payment-providers/noda/)|`noda`| 
 |![blablapay](https://static.openfintech.io/payment_providers/blablapay/icon.svg?w=278&c=v0.59.26#w100) |[BlaBlaPay](/payment-providers/blablapay/)|`blablapay`| 
 |![usbxpay](https://static.openfintech.io/payment_providers/usbxpay/icon.png?w=278&c=v0.59.26#w100) |[USBxPAY](/payment-providers/usbxpay/)|`usbxpay`| 
+|![icard](https://static.openfintech.io/payment_providers/icard/icon.png?w=278&c=v0.59.26#w100) |[iCard](/payment-providers/icard/)|`icard`| 
 |![paydex](https://static.openfintech.io/payment_providers/paydex/icon.svg?w=278&c=v0.59.26#w100) |[Paydex](/payment-providers/paydex/)|`paydex`| 
 |![nummuspay](https://static.openfintech.io/payment_providers/nummuspay/icon.png?w=278&c=v0.59.26#w100) |[NummusPay](/payment-providers/nummuspay/)|`nummuspay`| 
 |![uniongate](https://static.openfintech.io/payment_providers/uniongate/icon.png?w=278&c=v0.59.26#w100) |[UnionGate](/payment-providers/uniongate/)|`uniongate`| 
