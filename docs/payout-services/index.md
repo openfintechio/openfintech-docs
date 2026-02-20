@@ -268,6 +268,7 @@
 |![Bank Transfer Aggregated](https://static.openfintech.io/payout_methods/bank_transfer_aggregated/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer Aggregated**](/payout-methods/bank_transfer_aggregated/)|[`bank_transfer_aggregated_usd`](bank_transfer_aggregated_usd/)|`USD`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_ars`](bank_transfer_ars/)|`ARS`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_aud`](bank_transfer_aud/)|`AUD`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_azn`](bank_transfer_azn/)|`AZN`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_bdt`](bank_transfer_bdt/)|`BRL`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_bgn`](bank_transfer_bgn/)|`BGN`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_bob`](bank_transfer_bob/)|`BOB`| 
