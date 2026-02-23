@@ -34,7 +34,7 @@
 |`payer_zip_code`|✗|`string`|`/^[0-9\-\s]{1,20}$/`| 
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
 |`document_type`|✗|`string`|`/^.{1,32}$/`| 
-|`document_id`|✗|`string`|`/^[a-zA-Z0-9\-]{1,100}$/`| 
+|`document_id`|✗|`string`|`/^[a-zA-Z0-9\.\-]{1,100}$/`| 
  
 
 ### Details 
@@ -205,7 +205,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[a-zA-Z0-9\-]{1,100}$/` 
+	Regexp: `/^[a-zA-Z0-9\.\-]{1,100}$/` 
  
 	Required: `` 
  
@@ -392,7 +392,7 @@
     {
       "key":"document_id",
       "type":"string",
-      "regexp":"\/^[a-zA-Z0-9\\-]{1,100}$\/",
+      "regexp":"\/^[a-zA-Z0-9\\.\\-]{1,100}$\/",
       "required":false,
       "position":10,
       "label":{

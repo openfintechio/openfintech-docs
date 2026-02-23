@@ -51,6 +51,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![pse](https://static.openfintech.io/payment_methods/pse/icon.svg?w=278&c=v0.59.26#w100) |[pse](/payment-methods/pse/)|`pse`| 
 |![nequi](https://static.openfintech.io/payment_methods/nequi/icon.svg?w=278&c=v0.59.26#w100) |[nequi](/payment-methods/nequi/)|`nequi`| 
 |![transfiya](https://static.openfintech.io/payment_methods/transfiya/icon.svg?w=278&c=v0.59.26#w100) |[transfiya](/payment-methods/transfiya/)|`transfiya`| 
+|![breb](https://static.openfintech.io/payment_methods/breb/icon.png?w=278&c=v0.59.26#w100) |[breb](/payment-methods/breb/)|`breb`| 
 |![efecty](https://static.openfintech.io/payment_methods/efecty/icon.svg?w=278&c=v0.59.26#w100) |[efecty](/payment-methods/efecty/)|`efecty`| 
 |![spei](https://static.openfintech.io/payment_methods/spei/icon.svg?w=278&c=v0.59.26#w100) |[spei](/payment-methods/spei/)|`spei`| 
 |![codi](https://static.openfintech.io/payment_methods/codi/icon.svg?w=278&c=v0.59.26#w100) |[codi](/payment-methods/codi/)|`codi`| 
@@ -89,6 +90,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "pse",
     "nequi",
     "transfiya",
+    "breb",
     "efecty",
     "spei",
     "codi"

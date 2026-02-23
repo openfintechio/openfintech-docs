@@ -467,6 +467,7 @@
 |![Boleto Bancario](https://static.openfintech.io/payment_methods/boleto_bancario/logo.png?w=400&c=v0.59.26#w200) |[**Boleto Bancario**](/payment-methods/boleto_bancario/)|[`boleto_bancario_mxn_hpp`](boleto_bancario_mxn_hpp/)| 
 |![Boleto Bancario](https://static.openfintech.io/payment_methods/boleto_bancario/logo.png?w=400&c=v0.59.26#w200) |[**Boleto Bancario**](/payment-methods/boleto_bancario/)|[`boleto_bancario_pen_hpp`](boleto_bancario_pen_hpp/)| 
 |![Boost](https://static.openfintech.io/payment_methods/boost/logo.svg?w=400&c=v0.59.26#w200) |[**Boost**](/payment-methods/boost/)|[`boost_myr_hpp`](boost_myr_hpp/)| 
+|![Bre-B](https://static.openfintech.io/payment_methods/breb/logo.png?w=400&c=v0.59.26#w200) |[**Bre-B**](/payment-methods/breb/)|[`breb_cop_hpp`](breb_cop_hpp/)| 
 |![BRI Bank](https://static.openfintech.io/payment_methods/bri_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BRI Bank**](/payment-methods/bri_bank/)|[`bri_bank_cny_hpp`](bri_bank_cny_hpp/)| 
 |![BRIVA](https://static.openfintech.io/payment_methods/bri_va/logo.svg?w=400&c=v0.59.26#w200) |[**BRIVA**](/payment-methods/bri_va/)|[`bri_va_idr_hpp`](bri_va_idr_hpp/)| 
 |![BSIVA](https://static.openfintech.io/payment_methods/bsi_va/logo.svg?w=400&c=v0.59.26#w200) |[**BSIVA**](/payment-methods/bsi_va/)|[`bsi_va_idr_hpp`](bsi_va_idr_hpp/)| 
