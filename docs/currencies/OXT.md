@@ -1,14 +1,14 @@
 
-# XLM 
-![XLM](https://static.openfintech.io/currencies/XLM/icon.svg?w=278&c=v0.59.26#w100)  
+# OXT 
+![OXT](https://static.openfintech.io/currencies/OXT/icon.svg?w=278&c=v0.59.26#w100)  
 
 ## General 
  
-**Code:** `XLM` 
+**Code:** `OXT` 
  
 **Name:** 
  
-:	[EN] XLM 
+:	[EN] OXT 
  
 **Category:** `cryptocurrency` 
  
@@ -20,26 +20,26 @@
  
 **Metadata:** 
  
-:	jsons_code: `XLM` 
+:	jsons_code: `OXT` 
  
 
 ## Images 
 
 ### Icon 
  
-![XLM](https://static.openfintech.io/currencies/XLM/icon.svg?w=278&c=v0.59.26#w100)  
+![OXT](https://static.openfintech.io/currencies/OXT/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/currencies/XLM/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/currencies/OXT/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 
 
 ```json
 {
-  "code":"XLM",
+  "code":"OXT",
   "name":{
-    "en":"XLM"
+    "en":"OXT"
   },
   "type":"crypto",
   "exponent":8,
@@ -50,7 +50,7 @@ https://static.openfintech.io/currencies/XLM/icon.svg?w=278&c=v0.59.26#w100
   "symbol":null,
   "native_symbol":null,
   "metadata":{
-    "jsons_code":"XLM"
+    "jsons_code":"OXT"
   }
 }
 ```  

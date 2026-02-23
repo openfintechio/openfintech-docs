@@ -1,14 +1,14 @@
 
-# XLM 
-![XLM](https://static.openfintech.io/currencies/XLM/icon.svg?w=278&c=v0.59.26#w100)  
+# KSM 
+![KSM](https://static.openfintech.io/currencies/KSM/icon.svg?w=278&c=v0.59.26#w100)  
 
 ## General 
  
-**Code:** `XLM` 
+**Code:** `KSM` 
  
 **Name:** 
  
-:	[EN] XLM 
+:	[EN] KSM 
  
 **Category:** `cryptocurrency` 
  
@@ -20,26 +20,26 @@
  
 **Metadata:** 
  
-:	jsons_code: `XLM` 
+:	jsons_code: `KSM` 
  
 
 ## Images 
 
 ### Icon 
  
-![XLM](https://static.openfintech.io/currencies/XLM/icon.svg?w=278&c=v0.59.26#w100)  
+![KSM](https://static.openfintech.io/currencies/KSM/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/currencies/XLM/icon.svg?w=278&c=v0.59.26#w100
+https://static.openfintech.io/currencies/KSM/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 
 
 ```json
 {
-  "code":"XLM",
+  "code":"KSM",
   "name":{
-    "en":"XLM"
+    "en":"KSM"
   },
   "type":"crypto",
   "exponent":8,
@@ -50,7 +50,7 @@ https://static.openfintech.io/currencies/XLM/icon.svg?w=278&c=v0.59.26#w100
   "symbol":null,
   "native_symbol":null,
   "metadata":{
-    "jsons_code":"XLM"
+    "jsons_code":"KSM"
   }
 }
 ```  

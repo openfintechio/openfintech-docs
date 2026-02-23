@@ -4,6 +4,7 @@
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 || **A** ||
+|![AAVE](https://static.openfintech.io/currencies/AAVE/icon.svg?w=278&c=v0.59.26#w100) |[**AAVE**](AAVE/)|`AAVE`| 
 |![ABCBCNY](https://static.openfintech.io/currencies/ABCBCNY/icon.svg?w=278&c=v0.59.26#w100) |[**ABCBCNY**](ABCBCNY/)|`ABCBCNY`| 
 |![ABSTBRUB](https://static.openfintech.io/currencies/ABSTBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**ABSTBRUB**](ABSTBRUB/)|`ABSTBRUB`| 
 |![ACCEUR](https://static.openfintech.io/currencies/ACCEUR/icon.svg?w=278&c=v0.59.26#w100) |[**ACCEUR**](ACCEUR/)|`ACCEUR`| 
@@ -40,22 +41,30 @@
 |![ANLKRUB](https://static.openfintech.io/currencies/ANLKRUB/icon.svg?w=278&c=v0.59.26#w100) |[**ANLKRUB**](ANLKRUB/)|`ANLKRUB`| 
 |![ANLKUSD](https://static.openfintech.io/currencies/ANLKUSD/icon.svg?w=278&c=v0.59.26#w100) |[**ANLKUSD**](ANLKUSD/)|`ANLKUSD`| 
 |![AOA](https://static.openfintech.io/currencies/AOA/icon.svg?w=278&c=v0.59.26#w100) |[**Kwanza**](AOA/)|`AOA`| 
+|![APE](https://static.openfintech.io/currencies/APE/icon.svg?w=278&c=v0.59.26#w100) |[**APE**](APE/)|`APE`| 
+|![ARB](https://static.openfintech.io/currencies/ARB/icon.svg?w=278&c=v0.59.26#w100) |[**ARB**](ARB/)|`ARB`| 
 |![ARCAAMD](https://static.openfintech.io/currencies/ARCAAMD/icon.svg?w=278&c=v0.59.26#w100) |[**ARCAAMD**](ARCAAMD/)|`ARCAAMD`| 
+|![ARKM](https://static.openfintech.io/currencies/ARKM/icon.svg?w=278&c=v0.59.26#w100) |[**ARKM**](ARKM/)|`ARKM`| 
 |![ARS](https://static.openfintech.io/currencies/ARS/icon.svg?w=278&c=v0.59.26#w100) |[**Argentine Peso**](ARS/)|`ARS`| 
 |![ASCTBKZT](https://static.openfintech.io/currencies/ASCTBKZT/icon.svg?w=278&c=v0.59.26#w100) |[**ASCTBKZT**](ASCTBKZT/)|`ASCTBKZT`| 
 |![ASKBTCUSD](https://static.openfintech.io/currencies/ASKBTCUSD/icon.svg?w=278&c=v0.59.26#w100) |[**ASKBTCUSD**](ASKBTCUSD/)|`ASKBTCUSD`| 
 |![ATFBKZT](https://static.openfintech.io/currencies/ATFBKZT/icon.svg?w=278&c=v0.59.26#w100) |[**ATFBKZT**](ATFBKZT/)|`ATFBKZT`| 
 |![ATFBUSD](https://static.openfintech.io/currencies/ATFBUSD/icon.svg?w=278&c=v0.59.26#w100) |[**ATFBUSD**](ATFBUSD/)|`ATFBUSD`| 
 |![ATNBKZT](https://static.openfintech.io/currencies/ATNBKZT/icon.svg?w=278&c=v0.59.26#w100) |[**ATNBKZT**](ATNBKZT/)|`ATNBKZT`| 
+|![ATOM](https://static.openfintech.io/currencies/ATOM/icon.svg?w=278&c=v0.59.26#w100) |[**ATOM**](ATOM/)|`ATOM`| 
 |![ATRPUSD](https://static.openfintech.io/currencies/ATRPUSD/icon.svg?w=278&c=v0.59.26#w100) |[**ATRPUSD**](ATRPUSD/)|`ATRPUSD`| 
 |![AUD](https://static.openfintech.io/currencies/AUD/icon.svg?w=278&c=v0.59.26#w100) |[**Australian Dollar**](AUD/)|`AUD`| 
+|![AUDIO](https://static.openfintech.io/currencies/AUDIO/icon.svg?w=278&c=v0.59.26#w100) |[**AUDIO**](AUDIO/)|`AUDIO`| 
+|![AVAX](https://static.openfintech.io/currencies/AVAX/icon.svg?w=278&c=v0.59.26#w100) |[**AVAX**](AVAX/)|`AVAX`| 
 |![AVBRUB](https://static.openfintech.io/currencies/AVBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**AVBRUB**](AVBRUB/)|`AVBRUB`| 
 |![AWG](https://static.openfintech.io/currencies/AWG/icon.svg?w=278&c=v0.59.26#w100) |[**Aruban Florin**](AWG/)|`AWG`| 
+|![AXS](https://static.openfintech.io/currencies/AXS/icon.svg?w=278&c=v0.59.26#w100) |[**AXS**](AXS/)|`AXS`| 
 |![AZN](https://static.openfintech.io/currencies/AZN/icon.svg?w=278&c=v0.59.26#w100) |[**Azerbaijani Manat**](AZN/)|`AZN`| 
 || **B** ||
 |![B1NKBKZT](https://static.openfintech.io/currencies/B1NKBKZT/icon.svg?w=278&c=v0.59.26#w100) |[**B1NKBKZT**](B1NKBKZT/)|`B1NKBKZT`| 
 |![BALTBRUB](https://static.openfintech.io/currencies/BALTBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**BALTBRUB**](BALTBRUB/)|`BALTBRUB`| 
 |![BAM](https://static.openfintech.io/currencies/BAM/icon.svg?w=278&c=v0.59.26#w100) |[**Bosnia-Herzegovina Convertible Mark**](BAM/)|`BAM`| 
+|![BAT](https://static.openfintech.io/currencies/BAT/icon.svg?w=278&c=v0.59.26#w100) |[**BAT**](BAT/)|`BAT`| 
 |![BBD](https://static.openfintech.io/currencies/BBD/icon.svg?w=278&c=v0.59.26#w100) |[**Barbados Dollar**](BBD/)|`BBD`| 
 |![BBRUB](https://static.openfintech.io/currencies/BBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**BBRUB**](BBRUB/)|`BBRUB`| 
 |![BCBCNY](https://static.openfintech.io/currencies/BCBCNY/icon.svg?w=278&c=v0.59.26#w100) |[**BCBCNY**](BCBCNY/)|`BCBCNY`| 
@@ -73,14 +82,18 @@
 |![BLRBRUB](https://static.openfintech.io/currencies/BLRBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**BLRBRUB**](BLRBRUB/)|`BLRBRUB`| 
 |![BLRBUSD](https://static.openfintech.io/currencies/BLRBUSD/icon.svg?w=278&c=v0.59.26#w100) |[**BLRBUSD**](BLRBUSD/)|`BLRBUSD`| 
 |![BLSBBYN](https://static.openfintech.io/currencies/BLSBBYN/icon.svg?w=278&c=v0.59.26#w100) |[**BLSBBYN**](BLSBBYN/)|`BLSBBYN`| 
+|![BLUR](https://static.openfintech.io/currencies/BLUR/icon.svg?w=278&c=v0.59.26#w100) |[**BLUR**](BLUR/)|`BLUR`| 
 |![BMD](https://static.openfintech.io/currencies/BMD/icon.svg?w=278&c=v0.59.26#w100) |[**Bermudian Dollar**](BMD/)|`BMD`| 
 |![BNB](https://static.openfintech.io/currencies/BNB/icon.svg?w=278&c=v0.59.26#w100) |[**BNB**](BNB/)|`BNB`| 
 |![BNBRUB](https://static.openfintech.io/currencies/BNBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**BNBRUB**](BNBRUB/)|`BNBRUB`| 
 |![BND](https://static.openfintech.io/currencies/BND/icon.svg?w=278&c=v0.59.26#w100) |[**Brunei Dollar**](BND/)|`BND`| 
 |![BOB](https://static.openfintech.io/currencies/BOB/icon.svg?w=278&c=v0.59.26#w100) |[**Bolivian Boliviano**](BOB/)|`BOB`| 
+|![BOBA](https://static.openfintech.io/currencies/BOBA/icon.svg?w=278&c=v0.59.26#w100) |[**BOBA**](BOBA/)|`BOBA`| 
 |![BOCCNY](https://static.openfintech.io/currencies/BOCCNY/icon.svg?w=278&c=v0.59.26#w100) |[**BOCCNY**](BOCCNY/)|`BOCCNY`| 
 |![BOCUSD](https://static.openfintech.io/currencies/BOCUSD/icon.svg?w=278&c=v0.59.26#w100) |[**BOCUSD**](BOCUSD/)|`BOCUSD`| 
+|![BONK](https://static.openfintech.io/currencies/BONK/icon.svg?w=278&c=v0.59.26#w100) |[**BONK**](BONK/)|`BONK`| 
 |![BOV](https://static.openfintech.io/currencies/BOV/icon.svg?w=278&c=v0.59.26#w100) |[**Mvdol**](BOV/)|`BOV`| 
+|![BRETT](https://static.openfintech.io/currencies/BRETT/icon.svg?w=278&c=v0.59.26#w100) |[**BRETT**](BRETT/)|`BRETT`| 
 |![BRL](https://static.openfintech.io/currencies/BRL/icon.svg?w=278&c=v0.59.26#w100) |[**Brazilian Real**](BRL/)|`BRL`| 
 |![BSD](https://static.openfintech.io/currencies/BSD/icon.svg?w=278&c=v0.59.26#w100) |[**Bahamian Dollar**](BSD/)|`BSD`| 
 |![BSV](https://static.openfintech.io/currencies/BSV/icon.svg?w=278&c=v0.59.26#w100) |[**BSV**](BSV/)|`BSV`| 
@@ -122,7 +135,9 @@
 |![BZD](https://static.openfintech.io/currencies/BZD/icon.svg?w=278&c=v0.59.26#w100) |[**Belize Dollar**](BZD/)|`BZD`| 
 || **C** ||
 |![C4PUSD](https://static.openfintech.io/currencies/C4PUSD/icon.svg?w=278&c=v0.59.26#w100) |[**C4PUSD**](C4PUSD/)|`C4PUSD`| 
+|![C98](https://static.openfintech.io/currencies/C98/icon.svg?w=278&c=v0.59.26#w100) |[**C98**](C98/)|`C98`| 
 |![CAD](https://static.openfintech.io/currencies/CAD/icon.svg?w=278&c=v0.59.26#w100) |[**Canadian Dollar**](CAD/)|`CAD`| 
+|![CAKE](https://static.openfintech.io/currencies/CAKE/icon.svg?w=278&c=v0.59.26#w100) |[**CAKE**](CAKE/)|`CAKE`| 
 |![CARDAMD](https://static.openfintech.io/currencies/CARDAMD/icon.svg?w=278&c=v0.59.26#w100) |[**CARDAMD**](CARDAMD/)|`CARDAMD`| 
 |![CARDBYN](https://static.openfintech.io/currencies/CARDBYN/icon.svg?w=278&c=v0.59.26#w100) |[**CARDBYN**](CARDBYN/)|`CARDBYN`| 
 |![CARDEUR](https://static.openfintech.io/currencies/CARDEUR/icon.svg?w=278&c=v0.59.26#w100) |[**CARDEUR**](CARDEUR/)|`CARDEUR`| 
@@ -145,6 +160,7 @@
 |![CASHTHB](https://static.openfintech.io/currencies/CASHTHB/icon.svg?w=278&c=v0.59.26#w100) |[**CASHTHB**](CASHTHB/)|`CASHTHB`| 
 |![CASHUAH](https://static.openfintech.io/currencies/CASHUAH/icon.svg?w=278&c=v0.59.26#w100) |[**CASHUAH**](CASHUAH/)|`CASHUAH`| 
 |![CASHUSD](https://static.openfintech.io/currencies/CASHUSD/icon.svg?w=278&c=v0.59.26#w100) |[**CASHUSD**](CASHUSD/)|`CASHUSD`| 
+|![CATI](https://static.openfintech.io/currencies/CATI/icon.svg?w=278&c=v0.59.26#w100) |[**CATI**](CATI/)|`CATI`| 
 |![CBEKR](https://static.openfintech.io/currencies/CBEKR/icon.svg?w=278&c=v0.59.26#w100) |[**CBEKR**](CBEKR/)|`CBEKR`| 
 |![CCBCNY](https://static.openfintech.io/currencies/CCBCNY/icon.svg?w=278&c=v0.59.26#w100) |[**CCBCNY**](CCBCNY/)|`CCBCNY`| 
 |![CCBKZT](https://static.openfintech.io/currencies/CCBKZT/icon.svg?w=278&c=v0.59.26#w100) |[**CCBKZT**](CCBKZT/)|`CCBKZT`| 
@@ -155,6 +171,7 @@
 |![CGUSD](https://static.openfintech.io/currencies/CGUSD/icon.svg?w=278&c=v0.59.26#w100) |[**CGUSD**](CGUSD/)|`CGUSD`| 
 |![CHE](https://static.openfintech.io/currencies/CHE/icon.svg?w=278&c=v0.59.26#w100) |[**WIR Euro**](CHE/)|`CHE`| 
 |![CHF](https://static.openfintech.io/currencies/CHF/icon.svg?w=278&c=v0.59.26#w100) |[**Swiss Franc**](CHF/)|`CHF`| 
+|![CHILLGUY](https://static.openfintech.io/currencies/CHILLGUY/icon.svg?w=278&c=v0.59.26#w100) |[**CHILLGUY**](CHILLGUY/)|`CHILLGUY`| 
 |![CHW](https://static.openfintech.io/currencies/CHW/icon.svg?w=278&c=v0.59.26#w100) |[**WIR Franc**](CHW/)|`CHW`| 
 |![CLAM](https://static.openfintech.io/currencies/CLAM/icon.svg?w=278&c=v0.59.26#w100) |[**CLAM**](CLAM/)|`CLAM`| 
 |![CLF](https://static.openfintech.io/currencies/CLF/icon.svg?w=278&c=v0.59.26#w100) |[**Unidad de Fomento**](CLF/)|`CLF`| 
@@ -167,6 +184,7 @@
 |![CNTUSD](https://static.openfintech.io/currencies/CNTUSD/icon.svg?w=278&c=v0.59.26#w100) |[**CNTUSD**](CNTUSD/)|`CNTUSD`| 
 |![CNVRSBAMD](https://static.openfintech.io/currencies/CNVRSBAMD/icon.svg?w=278&c=v0.59.26#w100) |[**CNVRSBAMD**](CNVRSBAMD/)|`CNVRSBAMD`| 
 |![CNY](https://static.openfintech.io/currencies/CNY/icon.svg?w=278&c=v0.59.26#w100) |[**Chinese Yuan**](CNY/)|`CNY`| 
+|![COMP](https://static.openfintech.io/currencies/COMP/icon.svg?w=278&c=v0.59.26#w100) |[**COMP**](COMP/)|`COMP`| 
 |![COP](https://static.openfintech.io/currencies/COP/icon.svg?w=278&c=v0.59.26#w100) |[**Colombian Peso**](COP/)|`COP`| 
 |![COU](https://static.openfintech.io/currencies/COU/icon.svg?w=278&c=v0.59.26#w100) |[**Unidad de Valor Real**](COU/)|`COU`| 
 |![CPLTUSD](https://static.openfintech.io/currencies/CPLTUSD/icon.svg?w=278&c=v0.59.26#w100) |[**CPLTUSD**](CPLTUSD/)|`CPLTUSD`| 
@@ -180,6 +198,7 @@
 |![CRERBRUB](https://static.openfintech.io/currencies/CRERBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**CRERBRUB**](CRERBRUB/)|`CRERBRUB`| 
 |![CRPTCHUSD](https://static.openfintech.io/currencies/CRPTCHUSD/icon.svg?w=278&c=v0.59.26#w100) |[**CRPTCHUSD**](CRPTCHUSD/)|`CRPTCHUSD`| 
 |![CRTCHKUSD](https://static.openfintech.io/currencies/CRTCHKUSD/icon.svg?w=278&c=v0.59.26#w100) |[**CRTCHKUSD**](CRTCHKUSD/)|`CRTCHKUSD`| 
+|![CRV](https://static.openfintech.io/currencies/CRV/icon.svg?w=278&c=v0.59.26#w100) |[**CRV**](CRV/)|`CRV`| 
 |![CSH4PUSD](https://static.openfintech.io/currencies/CSH4PUSD/icon.svg?w=278&c=v0.59.26#w100) |[**CSH4PUSD**](CSH4PUSD/)|`CSH4PUSD`| 
 |![CSTRMTEUR](https://static.openfintech.io/currencies/CSTRMTEUR/icon.svg?w=278&c=v0.59.26#w100) |[**CSTRMTEUR**](CSTRMTEUR/)|`CSTRMTEUR`| 
 |![CSTRMTUSD](https://static.openfintech.io/currencies/CSTRMTUSD/icon.svg?w=278&c=v0.59.26#w100) |[**CSTRMTUSD**](CSTRMTUSD/)|`CSTRMTUSD`| 
@@ -196,6 +215,7 @@
 |![DAIBEP20](https://static.openfintech.io/currencies/DAIBEP20/icon.svg?w=278&c=v0.59.26#w100) |[**DAIBEP20**](DAIBEP20/)|`DAIBEP20`| 
 |![DAIERC20](https://static.openfintech.io/currencies/DAIERC20/icon.svg?w=278&c=v0.59.26#w100) |[**DAIERC20**](DAIERC20/)|`DAIERC20`| 
 |![DASH](https://static.openfintech.io/currencies/DASH/icon.png?w=278&c=v0.59.26#w100) |[**DASH**](DASH/)|`DASH`| 
+|![DCK](https://static.openfintech.io/currencies/DCK/icon.svg?w=278&c=v0.59.26#w100) |[**DCK**](DCK/)|`DCK`| 
 |![DJF](https://static.openfintech.io/currencies/DJF/icon.svg?w=278&c=v0.59.26#w100) |[**Djiboutian Franc**](DJF/)|`DJF`| 
 |![DKEUR](https://static.openfintech.io/currencies/DKEUR/icon.svg?w=278&c=v0.59.26#w100) |[**DKEUR**](DKEUR/)|`DKEUR`| 
 |![DKK](https://static.openfintech.io/currencies/DKK/icon.svg?w=278&c=v0.59.26#w100) |[**Danish Krone**](DKK/)|`DKK`| 
@@ -205,12 +225,15 @@
 |![DMDNGBRUB](https://static.openfintech.io/currencies/DMDNGBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**DMDNGBRUB**](DMDNGBRUB/)|`DMDNGBRUB`| 
 |![DMRBUSD](https://static.openfintech.io/currencies/DMRBUSD/icon.svg?w=278&c=v0.59.26#w100) |[**DMRBUSD**](DMRBUSD/)|`DMRBUSD`| 
 |![DOGE](https://static.openfintech.io/currencies/DOGE/icon.png?w=278&c=v0.59.26#w100) |[**DOGE**](DOGE/)|`DOGE`| 
+|![DOGS](https://static.openfintech.io/currencies/DOGS/icon.svg?w=278&c=v0.59.26#w100) |[**DOGS**](DOGS/)|`DOGS`| 
 |![DOP](https://static.openfintech.io/currencies/DOP/icon.svg?w=278&c=v0.59.26#w100) |[**Dominican Peso**](DOP/)|`DOP`| 
+|![DOT](https://static.openfintech.io/currencies/DOT/icon.svg?w=278&c=v0.59.26#w100) |[**DOT**](DOT/)|`DOT`| 
 |![DPBTC](https://static.openfintech.io/currencies/DPBTC/icon.svg?w=278&c=v0.59.26#w100) |[**DPBTC**](DPBTC/)|`DPBTC`| 
 |![DPUSD](https://static.openfintech.io/currencies/DPUSD/icon.svg?w=278&c=v0.59.26#w100) |[**DPUSD**](DPUSD/)|`DPUSD`| 
 |![DTBBYR](https://static.openfintech.io/currencies/DTBBYR/icon.svg?w=278&c=v0.59.26#w100) |[**DTBBYR**](DTBBYR/)|`DTBBYR`| 
 |![DTBKZKZT](https://static.openfintech.io/currencies/DTBKZKZT/icon.svg?w=278&c=v0.59.26#w100) |[**DTBKZKZT**](DTBKZKZT/)|`DTBKZKZT`| 
 |![DTBUAH](https://static.openfintech.io/currencies/DTBUAH/icon.svg?w=278&c=v0.59.26#w100) |[**DTBUAH**](DTBUAH/)|`DTBUAH`| 
+|![DYDX](https://static.openfintech.io/currencies/DYDX/icon.svg?w=278&c=v0.59.26#w100) |[**DYDX**](DYDX/)|`DYDX`| 
 |![DZD](https://static.openfintech.io/currencies/DZD/icon.svg?w=278&c=v0.59.26#w100) |[**Algerian Dinar**](DZD/)|`DZD`| 
 || **E** ||
 |![EBCUR](https://static.openfintech.io/currencies/EBCUR/icon.svg?w=278&c=v0.59.26#w100) |[**EBCUR**](EBCUR/)|`EBCUR`| 
@@ -225,11 +248,13 @@
 |![EDR](https://static.openfintech.io/currencies/EDR/icon.svg?w=278&c=v0.59.26#w100) |[**EDR**](EDR/)|`EDR`| 
 |![EDRC](https://static.openfintech.io/currencies/EDRC/icon.svg?w=278&c=v0.59.26#w100) |[**EDRC**](EDRC/)|`EDRC`| 
 |![EDRM](https://static.openfintech.io/currencies/EDRM/icon.svg?w=278&c=v0.59.26#w100) |[**EDRM**](EDRM/)|`EDRM`| 
+|![EDU](https://static.openfintech.io/currencies/EDU/icon.svg?w=278&c=v0.59.26#w100) |[**EDU**](EDU/)|`EDU`| 
 |![EEK](https://static.openfintech.io/currencies/EEK/icon.svg?w=278&c=v0.59.26#w100) |[**Estonian Kroon**](EEK/)|`EEK`| 
 |![EGCEUR](https://static.openfintech.io/currencies/EGCEUR/icon.svg?w=278&c=v0.59.26#w100) |[**EGCEUR**](EGCEUR/)|`EGCEUR`| 
 |![EGCUSD](https://static.openfintech.io/currencies/EGCUSD/icon.svg?w=278&c=v0.59.26#w100) |[**EGCUSD**](EGCUSD/)|`EGCUSD`| 
 |![EGP](https://static.openfintech.io/currencies/EGP/icon.svg?w=278&c=v0.59.26#w100) |[**Egyptian Pound**](EGP/)|`EGP`| 
 |![EKZT](https://static.openfintech.io/currencies/EKZT/icon.svg?w=278&c=v0.59.26#w100) |[**EKZT**](EKZT/)|`EKZT`| 
+|![ELON](https://static.openfintech.io/currencies/ELON/icon.svg?w=278&c=v0.59.26#w100) |[**ELON**](ELON/)|`ELON`| 
 |![EMC](https://static.openfintech.io/currencies/EMC/icon.svg?w=278&c=v0.59.26#w100) |[**EMC**](EMC/)|`EMC`| 
 |![EMMDL](https://static.openfintech.io/currencies/EMMDL/icon.svg?w=278&c=v0.59.26#w100) |[**EMMDL**](EMMDL/)|`EMMDL`| 
 |![EOS](https://static.openfintech.io/currencies/EOS/icon.svg?w=278&c=v0.59.26#w100) |[**EOS**](EOS/)|`EOS`| 
@@ -252,6 +277,7 @@
 |![EUR](https://static.openfintech.io/currencies/EUR/icon.svg?w=278&c=v0.59.26#w100) |[**Euro**](EUR/)|`EUR`| 
 |![EURBKZT](https://static.openfintech.io/currencies/EURBKZT/icon.svg?w=278&c=v0.59.26#w100) |[**EURBKZT**](EURBKZT/)|`EURBKZT`| 
 |![EURBUSD](https://static.openfintech.io/currencies/EURBUSD/icon.svg?w=278&c=v0.59.26#w100) |[**EURBUSD**](EURBUSD/)|`EURBUSD`| 
+|![EURT](https://static.openfintech.io/currencies/EURT/icon.svg?w=278&c=v0.59.26#w100) |[**EURT**](EURT/)|`EURT`| 
 |![EXMBTC](https://static.openfintech.io/currencies/EXMBTC/icon.svg?w=278&c=v0.59.26#w100) |[**EXMBTC**](EXMBTC/)|`EXMBTC`| 
 |![EXMEUR](https://static.openfintech.io/currencies/EXMEUR/icon.svg?w=278&c=v0.59.26#w100) |[**EXMEUR**](EXMEUR/)|`EXMEUR`| 
 |![EXMRUB](https://static.openfintech.io/currencies/EXMRUB/icon.svg?w=278&c=v0.59.26#w100) |[**EXMRUB**](EXMRUB/)|`EXMRUB`| 
@@ -259,16 +285,20 @@
 |![EXMUSD](https://static.openfintech.io/currencies/EXMUSD/icon.svg?w=278&c=v0.59.26#w100) |[**EXMUSD**](EXMUSD/)|`EXMUSD`| 
 || **F** ||
 |![FDOBUAH](https://static.openfintech.io/currencies/FDOBUAH/icon.svg?w=278&c=v0.59.26#w100) |[**FDOBUAH**](FDOBUAH/)|`FDOBUAH`| 
+|![FDUSD](https://static.openfintech.io/currencies/FDUSD/icon.svg?w=278&c=v0.59.26#w100) |[**FDUSD**](FDUSD/)|`FDUSD`| 
 |![FETUSD](https://static.openfintech.io/currencies/FETUSD/icon.svg?w=278&c=v0.59.26#w100) |[**FETUSD**](FETUSD/)|`FETUSD`| 
 |![FJD](https://static.openfintech.io/currencies/FJD/icon.svg?w=278&c=v0.59.26#w100) |[**Fiji Dollar**](FJD/)|`FJD`| 
 |![FKP](https://static.openfintech.io/currencies/FKP/icon.svg?w=278&c=v0.59.26#w100) |[**Falkland Islands Pound**](FKP/)|`FKP`| 
+|![FLOKI](https://static.openfintech.io/currencies/FLOKI/icon.svg?w=278&c=v0.59.26#w100) |[**FLOKI**](FLOKI/)|`FLOKI`| 
 |![FLPNCAD](https://static.openfintech.io/currencies/FLPNCAD/icon.svg?w=278&c=v0.59.26#w100) |[**FLPNCAD**](FLPNCAD/)|`FLPNCAD`| 
 |![FMBRUB](https://static.openfintech.io/currencies/FMBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**FMBRUB**](FMBRUB/)|`FMBRUB`| 
 |![FPIDR](https://static.openfintech.io/currencies/FPIDR/icon.svg?w=278&c=v0.59.26#w100) |[**FPIDR**](FPIDR/)|`FPIDR`| 
 |![FPUSD](https://static.openfintech.io/currencies/FPUSD/icon.svg?w=278&c=v0.59.26#w100) |[**FPUSD**](FPUSD/)|`FPUSD`| 
 |![FRTBKZT](https://static.openfintech.io/currencies/FRTBKZT/icon.svg?w=278&c=v0.59.26#w100) |[**FRTBKZT**](FRTBKZT/)|`FRTBKZT`| 
 |![FRTBUSD](https://static.openfintech.io/currencies/FRTBUSD/icon.svg?w=278&c=v0.59.26#w100) |[**FRTBUSD**](FRTBUSD/)|`FRTBUSD`| 
+|![FTRB](https://static.openfintech.io/currencies/FTRB/icon.svg?w=278&c=v0.59.26#w100) |[**FTRB**](FTRB/)|`FTRB`| 
 |![FWDBUAH](https://static.openfintech.io/currencies/FWDBUAH/icon.svg?w=278&c=v0.59.26#w100) |[**FWDBUAH**](FWDBUAH/)|`FWDBUAH`| 
+|![FXS](https://static.openfintech.io/currencies/FXS/icon.svg?w=278&c=v0.59.26#w100) |[**FXS**](FXS/)|`FXS`| 
 || **G** ||
 |![GBP](https://static.openfintech.io/currencies/GBP/icon.svg?w=278&c=v0.59.26#w100) |[**British Pound Sterling**](GBP/)|`GBP`| 
 |![GCMTEUR](https://static.openfintech.io/currencies/GCMTEUR/icon.svg?w=278&c=v0.59.26#w100) |[**GCMTEUR**](GCMTEUR/)|`GCMTEUR`| 
@@ -279,6 +309,7 @@
 |![GEL](https://static.openfintech.io/currencies/GEL/icon.svg?w=278&c=v0.59.26#w100) |[**Georgian Lari**](GEL/)|`GEL`| 
 |![GGP](https://static.openfintech.io/currencies/GGP/icon.svg?w=278&c=v0.59.26#w100) |[**Guernsey Pound**](GGP/)|`GGP`| 
 |![GHS](https://static.openfintech.io/currencies/GHS/icon.svg?w=278&c=v0.59.26#w100) |[**Ghanaian Cedi**](GHS/)|`GHS`| 
+|![GHST](https://static.openfintech.io/currencies/GHST/icon.svg?w=278&c=v0.59.26#w100) |[**GHST**](GHST/)|`GHST`| 
 |![GIP](https://static.openfintech.io/currencies/GIP/icon.svg?w=278&c=v0.59.26#w100) |[**Gibraltar Pound**](GIP/)|`GIP`| 
 |![GMD](https://static.openfintech.io/currencies/GMD/icon.svg?w=278&c=v0.59.26#w100) |[**Dalasi**](GMD/)|`GMD`| 
 |![GNF](https://static.openfintech.io/currencies/GNF/icon.svg?w=278&c=v0.59.26#w100) |[**Guinean Franc**](GNF/)|`GNF`| 
@@ -288,6 +319,7 @@
 |![GRGBGEL](https://static.openfintech.io/currencies/GRGBGEL/icon.svg?w=278&c=v0.59.26#w100) |[**GRGBGEL**](GRGBGEL/)|`GRGBGEL`| 
 |![GRN](https://static.openfintech.io/currencies/GRN/icon.svg?w=278&c=v0.59.26#w100) |[**GRN**](GRN/)|`GRN`| 
 |![GRNTBTRY](https://static.openfintech.io/currencies/GRNTBTRY/icon.svg?w=278&c=v0.59.26#w100) |[**GRNTBTRY**](GRNTBTRY/)|`GRNTBTRY`| 
+|![GRT](https://static.openfintech.io/currencies/GRT/icon.svg?w=278&c=v0.59.26#w100) |[**GRT**](GRT/)|`GRT`| 
 |![GTQ](https://static.openfintech.io/currencies/GTQ/icon.svg?w=278&c=v0.59.26#w100) |[**Guatemalan Quetzal**](GTQ/)|`GTQ`| 
 |![GYD](https://static.openfintech.io/currencies/GYD/icon.svg?w=278&c=v0.59.26#w100) |[**Guyana Dollar**](GYD/)|`GYD`| 
 || **H** ||
@@ -301,6 +333,7 @@
 |![HLXUSD](https://static.openfintech.io/currencies/HLXUSD/icon.svg?w=278&c=v0.59.26#w100) |[**HLXUSD**](HLXUSD/)|`HLXUSD`| 
 |![HMEUR](https://static.openfintech.io/currencies/HMEUR/icon.svg?w=278&c=v0.59.26#w100) |[**HMEUR**](HMEUR/)|`HMEUR`| 
 |![HMRUB](https://static.openfintech.io/currencies/HMRUB/icon.svg?w=278&c=v0.59.26#w100) |[**HMRUB**](HMRUB/)|`HMRUB`| 
+|![HMSTR](https://static.openfintech.io/currencies/HMSTR/icon.svg?w=278&c=v0.59.26#w100) |[**HMSTR**](HMSTR/)|`HMSTR`| 
 |![HMUAH](https://static.openfintech.io/currencies/HMUAH/icon.svg?w=278&c=v0.59.26#w100) |[**HMUAH**](HMUAH/)|`HMUAH`| 
 |![HMUSD](https://static.openfintech.io/currencies/HMUSD/icon.svg?w=278&c=v0.59.26#w100) |[**HMUSD**](HMUSD/)|`HMUSD`| 
 |![HNDBRUB](https://static.openfintech.io/currencies/HNDBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**HNDBRUB**](HNDBRUB/)|`HNDBRUB`| 
@@ -311,13 +344,17 @@
 || **I** ||
 |![ICBCCNY](https://static.openfintech.io/currencies/ICBCCNY/icon.svg?w=278&c=v0.59.26#w100) |[**ICBCCNY**](ICBCCNY/)|`ICBCCNY`| 
 |![ICQM](https://static.openfintech.io/currencies/ICQM/icon.svg?w=278&c=v0.59.26#w100) |[**ICQM**](ICQM/)|`ICQM`| 
+|![IDC](https://static.openfintech.io/currencies/IDC/icon.svg?w=278&c=v0.59.26#w100) |[**IDC**](IDC/)|`IDC`| 
 |![IDR](https://static.openfintech.io/currencies/IDR/icon.svg?w=278&c=v0.59.26#w100) |[**Indonesian Rupiah**](IDR/)|`IDR`| 
 |![IDRMAMD](https://static.openfintech.io/currencies/IDRMAMD/icon.svg?w=278&c=v0.59.26#w100) |[**IDRMAMD**](IDRMAMD/)|`IDRMAMD`| 
 |![ILS](https://static.openfintech.io/currencies/ILS/icon.svg?w=278&c=v0.59.26#w100) |[**Israeli New Sheqel**](ILS/)|`ILS`| 
+|![ILV](https://static.openfintech.io/currencies/ILV/icon.svg?w=278&c=v0.59.26#w100) |[**ILV**](ILV/)|`ILV`| 
 |![IMBRUB](https://static.openfintech.io/currencies/IMBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**IMBRUB**](IMBRUB/)|`IMBRUB`| 
 |![IMP](https://static.openfintech.io/currencies/IMP/icon.svg?w=278&c=v0.59.26#w100) |[**Isle of Man Pound**](IMP/)|`IMP`| 
 |![IMUAH](https://static.openfintech.io/currencies/IMUAH/icon.svg?w=278&c=v0.59.26#w100) |[**IMUAH**](IMUAH/)|`IMUAH`| 
+|![IMX](https://static.openfintech.io/currencies/IMX/icon.svg?w=278&c=v0.59.26#w100) |[**IMX**](IMX/)|`IMX`| 
 |![INCRUB](https://static.openfintech.io/currencies/INCRUB/icon.svg?w=278&c=v0.59.26#w100) |[**INCRUB**](INCRUB/)|`INCRUB`| 
+|![INJ](https://static.openfintech.io/currencies/INJ/icon.svg?w=278&c=v0.59.26#w100) |[**INJ**](INJ/)|`INJ`| 
 |![INR](https://static.openfintech.io/currencies/INR/icon.svg?w=278&c=v0.59.26#w100) |[**Indian Rupee**](INR/)|`INR`| 
 |![IQD](https://static.openfintech.io/currencies/IQD/icon.svg?w=278&c=v0.59.26#w100) |[**Iraqi Dinar**](IQD/)|`IQD`| 
 |![IRR](https://static.openfintech.io/currencies/IRR/icon.svg?w=278&c=v0.59.26#w100) |[**Iranian Rial**](IRR/)|`IRR`| 
@@ -342,6 +379,7 @@
 |![KRGSRBTHB](https://static.openfintech.io/currencies/KRGSRBTHB/icon.svg?w=278&c=v0.59.26#w100) |[**KRGSRBTHB**](KRGSRBTHB/)|`KRGSRBTHB`| 
 |![KRW](https://static.openfintech.io/currencies/KRW/icon.svg?w=278&c=v0.59.26#w100) |[**South Korean Won**](KRW/)|`KRW`| 
 |![KSKNBTHB](https://static.openfintech.io/currencies/KSKNBTHB/icon.svg?w=278&c=v0.59.26#w100) |[**KSKNBTHB**](KSKNBTHB/)|`KSKNBTHB`| 
+|![KSM](https://static.openfintech.io/currencies/KSM/icon.svg?w=278&c=v0.59.26#w100) |[**KSM**](KSM/)|`KSM`| 
 |![KSPBCKZT](https://static.openfintech.io/currencies/KSPBCKZT/icon.svg?w=278&c=v0.59.26#w100) |[**KSPBCKZT**](KSPBCKZT/)|`KSPBCKZT`| 
 |![KSPBDKZT](https://static.openfintech.io/currencies/KSPBDKZT/icon.svg?w=278&c=v0.59.26#w100) |[**KSPBDKZT**](KSPBDKZT/)|`KSPBDKZT`| 
 |![KSPBKZT](https://static.openfintech.io/currencies/KSPBKZT/icon.svg?w=278&c=v0.59.26#w100) |[**KSPBKZT**](KSPBKZT/)|`KSPBKZT`| 
@@ -355,6 +393,7 @@
 |![LAK](https://static.openfintech.io/currencies/LAK/icon.svg?w=278&c=v0.59.26#w100) |[**Lao Kip**](LAK/)|`LAK`| 
 |![LBP](https://static.openfintech.io/currencies/LBP/icon.svg?w=278&c=v0.59.26#w100) |[**Lebanese Pound**](LBP/)|`LBP`| 
 |![LCKBRUB](https://static.openfintech.io/currencies/LCKBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**LCKBRUB**](LCKBRUB/)|`LCKBRUB`| 
+|![LINK](https://static.openfintech.io/currencies/LINK/icon.svg?w=278&c=v0.59.26#w100) |[**LINK**](LINK/)|`LINK`| 
 |![LKR](https://static.openfintech.io/currencies/LKR/icon.svg?w=278&c=v0.59.26#w100) |[**Sri Lankan Rupee**](LKR/)|`LKR`| 
 |![LPAUD](https://static.openfintech.io/currencies/LPAUD/icon.svg?w=278&c=v0.59.26#w100) |[**LPAUD**](LPAUD/)|`LPAUD`| 
 |![LPCAD](https://static.openfintech.io/currencies/LPCAD/icon.svg?w=278&c=v0.59.26#w100) |[**LPCAD**](LPCAD/)|`LPCAD`| 
@@ -362,12 +401,14 @@
 |![LPEUR](https://static.openfintech.io/currencies/LPEUR/icon.svg?w=278&c=v0.59.26#w100) |[**LPEUR**](LPEUR/)|`LPEUR`| 
 |![LPGBP](https://static.openfintech.io/currencies/LPGBP/icon.svg?w=278&c=v0.59.26#w100) |[**LPGBP**](LPGBP/)|`LPGBP`| 
 |![LPRUB](https://static.openfintech.io/currencies/LPRUB/icon.svg?w=278&c=v0.59.26#w100) |[**LPRUB**](LPRUB/)|`LPRUB`| 
+|![LPT](https://static.openfintech.io/currencies/LPT/icon.svg?w=278&c=v0.59.26#w100) |[**LPT**](LPT/)|`LPT`| 
 |![LPUAH](https://static.openfintech.io/currencies/LPUAH/icon.svg?w=278&c=v0.59.26#w100) |[**LPUAH**](LPUAH/)|`LPUAH`| 
 |![LPUSD](https://static.openfintech.io/currencies/LPUSD/icon.svg?w=278&c=v0.59.26#w100) |[**LPUSD**](LPUSD/)|`LPUSD`| 
 |![LQEUR](https://static.openfintech.io/currencies/LQEUR/icon.svg?w=278&c=v0.59.26#w100) |[**LQEUR**](LQEUR/)|`LQEUR`| 
 |![LQRUB](https://static.openfintech.io/currencies/LQRUB/icon.svg?w=278&c=v0.59.26#w100) |[**LQRUB**](LQRUB/)|`LQRUB`| 
 |![LQUAH](https://static.openfintech.io/currencies/LQUAH/icon.svg?w=278&c=v0.59.26#w100) |[**LQUAH**](LQUAH/)|`LQUAH`| 
 |![LQUSD](https://static.openfintech.io/currencies/LQUSD/icon.svg?w=278&c=v0.59.26#w100) |[**LQUSD**](LQUSD/)|`LQUSD`| 
+|![LRC](https://static.openfintech.io/currencies/LRC/icon.svg?w=278&c=v0.59.26#w100) |[**LRC**](LRC/)|`LRC`| 
 |![LRD](https://static.openfintech.io/currencies/LRD/icon.svg?w=278&c=v0.59.26#w100) |[**Liberian Dollar**](LRD/)|`LRD`| 
 |![LREUR](https://static.openfintech.io/currencies/LREUR/icon.svg?w=278&c=v0.59.26#w100) |[**LREUR**](LREUR/)|`LREUR`| 
 |![LRG](https://static.openfintech.io/currencies/LRG/icon.svg?w=278&c=v0.59.26#w100) |[**LRG**](LRG/)|`LRG`| 
@@ -397,8 +438,11 @@
 || **M** ||
 |![MAD](https://static.openfintech.io/currencies/MAD/icon.svg?w=278&c=v0.59.26#w100) |[**Moroccan Dirham**](MAD/)|`MAD`| 
 |![MAID](https://static.openfintech.io/currencies/MAID/icon.svg?w=278&c=v0.59.26#w100) |[**MAID**](MAID/)|`MAID`| 
+|![MANA](https://static.openfintech.io/currencies/MANA/icon.svg?w=278&c=v0.59.26#w100) |[**MANA**](MANA/)|`MANA`| 
+|![MASK](https://static.openfintech.io/currencies/MASK/icon.svg?w=278&c=v0.59.26#w100) |[**MASK**](MASK/)|`MASK`| 
 |![MATIC](https://static.openfintech.io/currencies/MATIC/icon.svg?w=278&c=v0.59.26#w100) |[**MATIC**](MATIC/)|`MATIC`| 
 |![MBDRMAMD](https://static.openfintech.io/currencies/MBDRMAMD/icon.svg?w=278&c=v0.59.26#w100) |[**MBDRMAMD**](MBDRMAMD/)|`MBDRMAMD`| 
+|![MBOX](https://static.openfintech.io/currencies/MBOX/icon.svg?w=278&c=v0.59.26#w100) |[**MBOX**](MBOX/)|`MBOX`| 
 |![MDL](https://static.openfintech.io/currencies/MDL/icon.svg?w=278&c=v0.59.26#w100) |[**Moldovan Leu**](MDL/)|`MDL`| 
 |![MDNDCBUSD](https://static.openfintech.io/currencies/MDNDCBUSD/icon.svg?w=278&c=v0.59.26#w100) |[**MDNDCBUSD**](MDNDCBUSD/)|`MDNDCBUSD`| 
 |![MGA](https://static.openfintech.io/currencies/MGA/icon.svg?w=278&c=v0.59.26#w100) |[**Malagasy Ariary**](MGA/)|`MGA`| 
@@ -438,6 +482,7 @@
 || **N** ||
 |![NAD](https://static.openfintech.io/currencies/NAD/icon.svg?w=278&c=v0.59.26#w100) |[**Namibian Dollar**](NAD/)|`NAD`| 
 |![NEAR](https://static.openfintech.io/currencies/NEAR/icon.svg?w=278&c=v0.59.26#w100) |[**NEAR**](NEAR/)|`NEAR`| 
+|![NEIRO](https://static.openfintech.io/currencies/NEIRO/icon.svg?w=278&c=v0.59.26#w100) |[**NEIRO**](NEIRO/)|`NEIRO`| 
 |![NEOS](https://static.openfintech.io/currencies/NEOS/icon.svg?w=278&c=v0.59.26#w100) |[**NEOS**](NEOS/)|`NEOS`| 
 |![NGN](https://static.openfintech.io/currencies/NGN/icon.svg?w=278&c=v0.59.26#w100) |[**Nigerian Naira**](NGN/)|`NGN`| 
 |![NIO](https://static.openfintech.io/currencies/NIO/icon.svg?w=278&c=v0.59.26#w100) |[**Nicaraguan Córdoba**](NIO/)|`NIO`| 
@@ -451,10 +496,12 @@
 |![NIXMSVC](https://static.openfintech.io/currencies/NIXMSVC/icon.svg?w=278&c=v0.59.26#w100) |[**NIXMSVC**](NIXMSVC/)|`NIXMSVC`| 
 |![NIXUSD](https://static.openfintech.io/currencies/NIXUSD/icon.svg?w=278&c=v0.59.26#w100) |[**NIXUSD**](NIXUSD/)|`NIXUSD`| 
 |![NIXXBL](https://static.openfintech.io/currencies/NIXXBL/icon.svg?w=278&c=v0.59.26#w100) |[**NIXXBL**](NIXXBL/)|`NIXXBL`| 
+|![NKN](https://static.openfintech.io/currencies/NKN/icon.svg?w=278&c=v0.59.26#w100) |[**NKN**](NKN/)|`NKN`| 
 |![NLMUSD](https://static.openfintech.io/currencies/NLMUSD/icon.svg?w=278&c=v0.59.26#w100) |[**NLMUSD**](NLMUSD/)|`NLMUSD`| 
 |![NMC](https://static.openfintech.io/currencies/NMC/icon.svg?w=278&c=v0.59.26#w100) |[**NMC**](NMC/)|`NMC`| 
 |![NNMUSD](https://static.openfintech.io/currencies/NNMUSD/icon.svg?w=278&c=v0.59.26#w100) |[**NNMUSD**](NNMUSD/)|`NNMUSD`| 
 |![NOK](https://static.openfintech.io/currencies/NOK/icon.svg?w=278&c=v0.59.26#w100) |[**Norwegian Krone**](NOK/)|`NOK`| 
+|![NOT](https://static.openfintech.io/currencies/NOT/icon.svg?w=278&c=v0.59.26#w100) |[**NOT**](NOT/)|`NOT`| 
 |![NPR](https://static.openfintech.io/currencies/NPR/icon.svg?w=278&c=v0.59.26#w100) |[**Nepalese Rupee**](NPR/)|`NPR`| 
 |![NTLREUR](https://static.openfintech.io/currencies/NTLREUR/icon.svg?w=278&c=v0.59.26#w100) |[**NTLREUR**](NTLREUR/)|`NTLREUR`| 
 |![NTLRUSD](https://static.openfintech.io/currencies/NTLRUSD/icon.svg?w=278&c=v0.59.26#w100) |[**NTLRUSD**](NTLRUSD/)|`NTLRUSD`| 
@@ -471,6 +518,8 @@
 |![OKRUB](https://static.openfintech.io/currencies/OKRUB/icon.svg?w=278&c=v0.59.26#w100) |[**OKRUB**](OKRUB/)|`OKRUB`| 
 |![OKUSD](https://static.openfintech.io/currencies/OKUSD/icon.svg?w=278&c=v0.59.26#w100) |[**OKUSD**](OKUSD/)|`OKUSD`| 
 |![OMR](https://static.openfintech.io/currencies/OMR/icon.svg?w=278&c=v0.59.26#w100) |[**Omani Rial**](OMR/)|`OMR`| 
+|![ONDO](https://static.openfintech.io/currencies/ONDO/icon.svg?w=278&c=v0.59.26#w100) |[**ONDO**](ONDO/)|`ONDO`| 
+|![ONEINCH](https://static.openfintech.io/currencies/ONEINCH/icon.svg?w=278&c=v0.59.26#w100) |[**ONEINCH**](ONEINCH/)|`ONEINCH`| 
 |![OPAYEUR](https://static.openfintech.io/currencies/OPAYEUR/icon.svg?w=278&c=v0.59.26#w100) |[**OPAYEUR**](OPAYEUR/)|`OPAYEUR`| 
 |![OPAYRUB](https://static.openfintech.io/currencies/OPAYRUB/icon.svg?w=278&c=v0.59.26#w100) |[**OPAYRUB**](OPAYRUB/)|`OPAYRUB`| 
 |![OPAYUSD](https://static.openfintech.io/currencies/OPAYUSD/icon.svg?w=278&c=v0.59.26#w100) |[**OPAYUSD**](OPAYUSD/)|`OPAYUSD`| 
@@ -479,6 +528,7 @@
 |![OSHBUAH](https://static.openfintech.io/currencies/OSHBUAH/icon.svg?w=278&c=v0.59.26#w100) |[**OSHBUAH**](OSHBUAH/)|`OSHBUAH`| 
 |![OTPBRUB](https://static.openfintech.io/currencies/OTPBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**OTPBRUB**](OTPBRUB/)|`OTPBRUB`| 
 |![OTPBUAH](https://static.openfintech.io/currencies/OTPBUAH/icon.svg?w=278&c=v0.59.26#w100) |[**OTPBUAH**](OTPBUAH/)|`OTPBUAH`| 
+|![OXT](https://static.openfintech.io/currencies/OXT/icon.svg?w=278&c=v0.59.26#w100) |[**OXT**](OXT/)|`OXT`| 
 || **P** ||
 |![P24EUR](https://static.openfintech.io/currencies/P24EUR/icon.svg?w=278&c=v0.59.26#w100) |[**P24EUR**](P24EUR/)|`P24EUR`| 
 |![P24RUB](https://static.openfintech.io/currencies/P24RUB/icon.svg?w=278&c=v0.59.26#w100) |[**P24RUB**](P24RUB/)|`P24RUB`| 
@@ -487,9 +537,14 @@
 |![PAB](https://static.openfintech.io/currencies/PAB/icon.svg?w=278&c=v0.59.26#w100) |[**Panamanian Balboa**](PAB/)|`PAB`| 
 |![PAEUR](https://static.openfintech.io/currencies/PAEUR/icon.svg?w=278&c=v0.59.26#w100) |[**PAEUR**](PAEUR/)|`PAEUR`| 
 |![PAUSD](https://static.openfintech.io/currencies/PAUSD/icon.svg?w=278&c=v0.59.26#w100) |[**PAUSD**](PAUSD/)|`PAUSD`| 
+|![PAXG](https://static.openfintech.io/currencies/PAXG/icon.svg?w=278&c=v0.59.26#w100) |[**PAXG**](PAXG/)|`PAXG`| 
 |![PCDBUAH](https://static.openfintech.io/currencies/PCDBUAH/icon.svg?w=278&c=v0.59.26#w100) |[**PCDBUAH**](PCDBUAH/)|`PCDBUAH`| 
 |![PEN](https://static.openfintech.io/currencies/PEN/icon.svg?w=278&c=v0.59.26#w100) |[**Peruvian Nuevo Sol**](PEN/)|`PEN`| 
+|![PENDLE](https://static.openfintech.io/currencies/PENDLE/icon.svg?w=278&c=v0.59.26#w100) |[**PENDLE**](PENDLE/)|`PENDLE`| 
+|![PENGU](https://static.openfintech.io/currencies/PENGU/icon.svg?w=278&c=v0.59.26#w100) |[**PENGU**](PENGU/)|`PENGU`| 
+|![PEPE](https://static.openfintech.io/currencies/PEPE/icon.svg?w=278&c=v0.59.26#w100) |[**PEPE**](PEPE/)|`PEPE`| 
 |![PGK](https://static.openfintech.io/currencies/PGK/icon.svg?w=278&c=v0.59.26#w100) |[**Kina**](PGK/)|`PGK`| 
+|![PHB](https://static.openfintech.io/currencies/PHB/icon.svg?w=278&c=v0.59.26#w100) |[**PHB**](PHB/)|`PHB`| 
 |![PHP](https://static.openfintech.io/currencies/PHP/icon.svg?w=278&c=v0.59.26#w100) |[**Philippine Peso**](PHP/)|`PHP`| 
 |![PIN](https://static.openfintech.io/currencies/PIN/icon.svg?w=278&c=v0.59.26#w100) |[**PIN**](PIN/)|`PIN`| 
 |![PKR](https://static.openfintech.io/currencies/PKR/icon.svg?w=278&c=v0.59.26#w100) |[**Pakistani Rupee**](PKR/)|`PKR`| 
@@ -508,6 +563,7 @@
 |![PMVUSD](https://static.openfintech.io/currencies/PMVUSD/icon.svg?w=278&c=v0.59.26#w100) |[**PMVUSD**](PMVUSD/)|`PMVUSD`| 
 |![PMXAU](https://static.openfintech.io/currencies/PMXAU/icon.svg?w=278&c=v0.59.26#w100) |[**Gold Ounce**](PMXAU/)|`PMXAU`| 
 |![PNRUSD](https://static.openfintech.io/currencies/PNRUSD/icon.svg?w=278&c=v0.59.26#w100) |[**PNRUSD**](PNRUSD/)|`PNRUSD`| 
+|![POL](https://static.openfintech.io/currencies/POL/icon.svg?w=278&c=v0.59.26#w100) |[**POL**](POL/)|`POL`| 
 |![POSTBRUB](https://static.openfintech.io/currencies/POSTBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**POSTBRUB**](POSTBRUB/)|`POSTBRUB`| 
 |![PPAUD](https://static.openfintech.io/currencies/PPAUD/icon.svg?w=278&c=v0.59.26#w100) |[**PPAUD**](PPAUD/)|`PPAUD`| 
 |![PPC](https://static.openfintech.io/currencies/PPC/icon.svg?w=278&c=v0.59.26#w100) |[**PPC**](PPC/)|`PPC`| 
@@ -534,10 +590,13 @@
 |![PXMUSD](https://static.openfintech.io/currencies/PXMUSD/icon.svg?w=278&c=v0.59.26#w100) |[**PXMUSD**](PXMUSD/)|`PXMUSD`| 
 |![PXUSD](https://static.openfintech.io/currencies/PXUSD/icon.svg?w=278&c=v0.59.26#w100) |[**PXUSD**](PXUSD/)|`PXUSD`| 
 |![PYG](https://static.openfintech.io/currencies/PYG/icon.svg?w=278&c=v0.59.26#w100) |[**Paraguayan Guarani**](PYG/)|`PYG`| 
+|![PYR](https://static.openfintech.io/currencies/PYR/icon.svg?w=278&c=v0.59.26#w100) |[**PYR**](PYR/)|`PYR`| 
+|![PYUSD](https://static.openfintech.io/currencies/PYUSD/icon.svg?w=278&c=v0.59.26#w100) |[**PYUSD**](PYUSD/)|`PYUSD`| 
 |![PZEUR](https://static.openfintech.io/currencies/PZEUR/icon.svg?w=278&c=v0.59.26#w100) |[**PZEUR**](PZEUR/)|`PZEUR`| 
 |![PZUSD](https://static.openfintech.io/currencies/PZUSD/icon.svg?w=278&c=v0.59.26#w100) |[**PZUSD**](PZUSD/)|`PZUSD`| 
 || **Q** ||
 |![QAR](https://static.openfintech.io/currencies/QAR/icon.svg?w=278&c=v0.59.26#w100) |[**Qatari Rial**](QAR/)|`QAR`| 
+|![QNT](https://static.openfintech.io/currencies/QNT/icon.svg?w=278&c=v0.59.26#w100) |[**QNT**](QNT/)|`QNT`| 
 |![QWEUR](https://static.openfintech.io/currencies/QWEUR/icon.svg?w=278&c=v0.59.26#w100) |[**QWEUR**](QWEUR/)|`QWEUR`| 
 |![QWKZT](https://static.openfintech.io/currencies/QWKZT/icon.svg?w=278&c=v0.59.26#w100) |[**QWKZT**](QWKZT/)|`QWKZT`| 
 |![QWRUB](https://static.openfintech.io/currencies/QWRUB/icon.svg?w=278&c=v0.59.26#w100) |[**QWRUB**](QWRUB/)|`QWRUB`| 
@@ -558,6 +617,7 @@
 |![RFBRUB](https://static.openfintech.io/currencies/RFBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**RFBRUB**](RFBRUB/)|`RFBRUB`| 
 |![RFBUAH](https://static.openfintech.io/currencies/RFBUAH/icon.svg?w=278&c=v0.59.26#w100) |[**RFBUAH**](RFBUAH/)|`RFBUAH`| 
 |![RKTBRUB](https://static.openfintech.io/currencies/RKTBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**RKTBRUB**](RKTBRUB/)|`RKTBRUB`| 
+|![RLC](https://static.openfintech.io/currencies/RLC/icon.svg?w=278&c=v0.59.26#w100) |[**RLC**](RLC/)|`RLC`| 
 |![RMTFEUR](https://static.openfintech.io/currencies/RMTFEUR/icon.svg?w=278&c=v0.59.26#w100) |[**RMTFEUR**](RMTFEUR/)|`RMTFEUR`| 
 |![RMTFUSD](https://static.openfintech.io/currencies/RMTFUSD/icon.svg?w=278&c=v0.59.26#w100) |[**RMTFUSD**](RMTFUSD/)|`RMTFUSD`| 
 |![RNKBRUB](https://static.openfintech.io/currencies/RNKBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**RNKBRUB**](RNKBRUB/)|`RNKBRUB`| 
@@ -566,11 +626,15 @@
 |![RPUSD](https://static.openfintech.io/currencies/RPUSD/icon.svg?w=278&c=v0.59.26#w100) |[**RPUSD**](RPUSD/)|`RPUSD`| 
 |![RSD](https://static.openfintech.io/currencies/RSD/icon.svg?w=278&c=v0.59.26#w100) |[**Serbian Dinar**](RSD/)|`RSD`| 
 |![RSHBRUB](https://static.openfintech.io/currencies/RSHBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**RSHBRUB**](RSHBRUB/)|`RSHBRUB`| 
+|![RSR](https://static.openfintech.io/currencies/RSR/icon.svg?w=278&c=v0.59.26#w100) |[**RSR**](RSR/)|`RSR`| 
 |![RSSBRUB](https://static.openfintech.io/currencies/RSSBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**RSSBRUB**](RSSBRUB/)|`RSSBRUB`| 
+|![RTF](https://static.openfintech.io/currencies/RTF/icon.svg?w=278&c=v0.59.26#w100) |[**RTF**](RTF/)|`RTF`| 
 |![RUB](https://static.openfintech.io/currencies/RUB/icon.svg?w=278&c=v0.59.26#w100) |[**Russian Ruble**](RUB/)|`RUB`| 
 |![RUSSTRUB](https://static.openfintech.io/currencies/RUSSTRUB/icon.svg?w=278&c=v0.59.26#w100) |[**RUSSTRUB**](RUSSTRUB/)|`RUSSTRUB`| 
 |![RWF](https://static.openfintech.io/currencies/RWF/icon.svg?w=278&c=v0.59.26#w100) |[**Rwandan Franc**](RWF/)|`RWF`| 
 || **S** ||
+|![SAND](https://static.openfintech.io/currencies/SAND/icon.svg?w=278&c=v0.59.26#w100) |[**SAND**](SAND/)|`SAND`| 
+|![SANTOS](https://static.openfintech.io/currencies/SANTOS/icon.svg?w=278&c=v0.59.26#w100) |[**SANTOS**](SANTOS/)|`SANTOS`| 
 |![SAR](https://static.openfintech.io/currencies/SAR/icon.svg?w=278&c=v0.59.26#w100) |[**Saudi Riyal**](SAR/)|`SAR`| 
 |![SBD](https://static.openfintech.io/currencies/SBD/icon.svg?w=278&c=v0.59.26#w100) |[**Solomon Islands Dollar**](SBD/)|`SBD`| 
 |![SBERKZT](https://static.openfintech.io/currencies/SBERKZT/icon.svg?w=278&c=v0.59.26#w100) |[**SBERKZT**](SBERKZT/)|`SBERKZT`| 
@@ -588,29 +652,38 @@
 |![SGD](https://static.openfintech.io/currencies/SGD/icon.svg?w=278&c=v0.59.26#w100) |[**Singapore Dollar**](SGD/)|`SGD`| 
 |![SGMTEUR](https://static.openfintech.io/currencies/SGMTEUR/icon.svg?w=278&c=v0.59.26#w100) |[**SGMTEUR**](SGMTEUR/)|`SGMTEUR`| 
 |![SGMTUSD](https://static.openfintech.io/currencies/SGMTUSD/icon.svg?w=278&c=v0.59.26#w100) |[**SGMTUSD**](SGMTUSD/)|`SGMTUSD`| 
+|![SHIB](https://static.openfintech.io/currencies/SHIB/icon.svg?w=278&c=v0.59.26#w100) |[**SHIB**](SHIB/)|`SHIB`| 
 |![SHP](https://static.openfintech.io/currencies/SHP/icon.svg?w=278&c=v0.59.26#w100) |[**Saint Helena Pound**](SHP/)|`SHP`| 
+|![SKL](https://static.openfintech.io/currencies/SKL/icon.svg?w=278&c=v0.59.26#w100) |[**SKL**](SKL/)|`SKL`| 
 |![SKLEUR](https://static.openfintech.io/currencies/SKLEUR/icon.svg?w=278&c=v0.59.26#w100) |[**SKLEUR**](SKLEUR/)|`SKLEUR`| 
 |![SKLUSD](https://static.openfintech.io/currencies/SKLUSD/icon.svg?w=278&c=v0.59.26#w100) |[**SKLUSD**](SKLUSD/)|`SKLUSD`| 
 |![SLL](https://static.openfintech.io/currencies/SLL/icon.svg?w=278&c=v0.59.26#w100) |[**Leone**](SLL/)|`SLL`| 
+|![SLP](https://static.openfintech.io/currencies/SLP/icon.svg?w=278&c=v0.59.26#w100) |[**SLP**](SLP/)|`SLP`| 
 |![SMEUR](https://static.openfintech.io/currencies/SMEUR/icon.svg?w=278&c=v0.59.26#w100) |[**SMEUR**](SMEUR/)|`SMEUR`| 
 |![SMPBRUB](https://static.openfintech.io/currencies/SMPBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**SMPBRUB**](SMPBRUB/)|`SMPBRUB`| 
 |![SMRUB](https://static.openfintech.io/currencies/SMRUB/icon.svg?w=278&c=v0.59.26#w100) |[**SMRUB**](SMRUB/)|`SMRUB`| 
 |![SMSRUB](https://static.openfintech.io/currencies/SMSRUB/icon.svg?w=278&c=v0.59.26#w100) |[**SMSRUB**](SMSRUB/)|`SMSRUB`| 
 |![SMUAH](https://static.openfintech.io/currencies/SMUAH/icon.svg?w=278&c=v0.59.26#w100) |[**SMUAH**](SMUAH/)|`SMUAH`| 
 |![SMUSD](https://static.openfintech.io/currencies/SMUSD/icon.svg?w=278&c=v0.59.26#w100) |[**SMUSD**](SMUSD/)|`SMUSD`| 
+|![SNC](https://static.openfintech.io/currencies/SNC/icon.svg?w=278&c=v0.59.26#w100) |[**SNC**](SNC/)|`SNC`| 
+|![SNX](https://static.openfintech.io/currencies/SNX/icon.svg?w=278&c=v0.59.26#w100) |[**SNX**](SNX/)|`SNX`| 
 |![SOL](https://static.openfintech.io/currencies/SOL/icon.svg?w=278&c=v0.59.26#w100) |[**SOL**](SOL/)|`SOL`| 
 |![SOS](https://static.openfintech.io/currencies/SOS/icon.svg?w=278&c=v0.59.26#w100) |[**Somali Shilling**](SOS/)|`SOS`| 
 |![SPBBRUB](https://static.openfintech.io/currencies/SPBBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**SPBBRUB**](SPBBRUB/)|`SPBBRUB`| 
 |![SRD](https://static.openfintech.io/currencies/SRD/icon.svg?w=278&c=v0.59.26#w100) |[**Surinam Dollar**](SRD/)|`SRD`| 
 |![SSP](https://static.openfintech.io/currencies/SSP/icon.svg?w=278&c=v0.59.26#w100) |[**South Sudanese Pound**](SSP/)|`SSP`| 
 |![STD](https://static.openfintech.io/currencies/STD/icon.svg?w=278&c=v0.59.26#w100) |[**Dobra**](STD/)|`STD`| 
+|![STG](https://static.openfintech.io/currencies/STG/icon.svg?w=278&c=v0.59.26#w100) |[**STG**](STG/)|`STG`| 
 |![STLMRUB](https://static.openfintech.io/currencies/STLMRUB/icon.svg?w=278&c=v0.59.26#w100) |[**STLMRUB**](STLMRUB/)|`STLMRUB`| 
 |![STN](https://static.openfintech.io/currencies/STN/icon.svg?w=278&c=v0.59.26#w100) |[**Dobra**](STN/)|`STN`| 
 |![STPEUR](https://static.openfintech.io/currencies/STPEUR/icon.svg?w=278&c=v0.59.26#w100) |[**STPEUR**](STPEUR/)|`STPEUR`| 
 |![STPRUB](https://static.openfintech.io/currencies/STPRUB/icon.svg?w=278&c=v0.59.26#w100) |[**STPRUB**](STPRUB/)|`STPRUB`| 
 |![STPUSD](https://static.openfintech.io/currencies/STPUSD/icon.svg?w=278&c=v0.59.26#w100) |[**STPUSD**](STPUSD/)|`STPUSD`| 
+|![STRK](https://static.openfintech.io/currencies/STRK/icon.svg?w=278&c=v0.59.26#w100) |[**STRK**](STRK/)|`STRK`| 
 |![STRUB](https://static.openfintech.io/currencies/STRUB/icon.svg?w=278&c=v0.59.26#w100) |[**STRUB**](STRUB/)|`STRUB`| 
 |![STUSD](https://static.openfintech.io/currencies/STUSD/icon.svg?w=278&c=v0.59.26#w100) |[**STUSD**](STUSD/)|`STUSD`| 
+|![SUI](https://static.openfintech.io/currencies/SUI/icon.svg?w=278&c=v0.59.26#w100) |[**SUI**](SUI/)|`SUI`| 
+|![SUSHI](https://static.openfintech.io/currencies/SUSHI/icon.svg?w=278&c=v0.59.26#w100) |[**SUSHI**](SUSHI/)|`SUSHI`| 
 |![SVBRUB](https://static.openfintech.io/currencies/SVBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**SVBRUB**](SVBRUB/)|`SVBRUB`| 
 |![SVC](https://static.openfintech.io/currencies/SVC/icon.svg?w=278&c=v0.59.26#w100) |[**El Salvador Colon**](SVC/)|`SVC`| 
 |![SVCMBRUB](https://static.openfintech.io/currencies/SVCMBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**SVCMBRUB**](SVCMBRUB/)|`SVCMBRUB`| 
@@ -630,6 +703,7 @@
 |![THB](https://static.openfintech.io/currencies/THB/icon.svg?w=278&c=v0.59.26#w100) |[**Thai Baht**](THB/)|`THB`| 
 |![THIBTHB](https://static.openfintech.io/currencies/THIBTHB/icon.svg?w=278&c=v0.59.26#w100) |[**THIBTHB**](THIBTHB/)|`THIBTHB`| 
 |![TJS](https://static.openfintech.io/currencies/TJS/icon.svg?w=278&c=v0.59.26#w100) |[**Somoni**](TJS/)|`TJS`| 
+|![TMM](https://static.openfintech.io/currencies/TMM/icon.svg?w=278&c=v0.59.26#w100) |[**TMM**](TMM/)|`TMM`| 
 |![TMRUB](https://static.openfintech.io/currencies/TMRUB/icon.svg?w=278&c=v0.59.26#w100) |[**TMRUB**](TMRUB/)|`TMRUB`| 
 |![TMT](https://static.openfintech.io/currencies/TMT/icon.svg?w=278&c=v0.59.26#w100) |[**Turkmenistan New Manat**](TMT/)|`TMT`| 
 |![TNCUSD](https://static.openfintech.io/currencies/TNCUSD/icon.svg?w=278&c=v0.59.26#w100) |[**TNCUSD**](TNCUSD/)|`TNCUSD`| 
@@ -637,14 +711,17 @@
 |![TOCHRUB](https://static.openfintech.io/currencies/TOCHRUB/icon.svg?w=278&c=v0.59.26#w100) |[**TOCHRUB**](TOCHRUB/)|`TOCHRUB`| 
 |![TON](https://static.openfintech.io/currencies/TON/icon.svg?w=278&c=v0.59.26#w100) |[**TON**](TON/)|`TON`| 
 |![TOP](https://static.openfintech.io/currencies/TOP/icon.svg?w=278&c=v0.59.26#w100) |[**Tongan Paʻanga**](TOP/)|`TOP`| 
+|![TRAC](https://static.openfintech.io/currencies/TRAC/icon.svg?w=278&c=v0.59.26#w100) |[**TRAC**](TRAC/)|`TRAC`| 
 |![TRBRUB](https://static.openfintech.io/currencies/TRBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**TRBRUB**](TRBRUB/)|`TRBRUB`| 
 |![TRPEUR](https://static.openfintech.io/currencies/TRPEUR/icon.svg?w=278&c=v0.59.26#w100) |[**TRPEUR**](TRPEUR/)|`TRPEUR`| 
+|![TRUMP](https://static.openfintech.io/currencies/TRUMP/icon.svg?w=278&c=v0.59.26#w100) |[**TRUMP**](TRUMP/)|`TRUMP`| 
 |![TRX](https://static.openfintech.io/currencies/TRX/icon.svg?w=278&c=v0.59.26#w100) |[**TRX**](TRX/)|`TRX`| 
 |![TRY](https://static.openfintech.io/currencies/TRY/icon.svg?w=278&c=v0.59.26#w100) |[**Turkish Lira**](TRY/)|`TRY`| 
 |![TSNBKZT](https://static.openfintech.io/currencies/TSNBKZT/icon.svg?w=278&c=v0.59.26#w100) |[**TSNBKZT**](TSNBKZT/)|`TSNBKZT`| 
 |![TTD](https://static.openfintech.io/currencies/TTD/icon.svg?w=278&c=v0.59.26#w100) |[**Trinidad and Tobago Dollar**](TTD/)|`TTD`| 
 |![TTRUSD](https://static.openfintech.io/currencies/TTRUSD/icon.svg?w=278&c=v0.59.26#w100) |[**TTRUSD**](TTRUSD/)|`TTRUSD`| 
 |![TWD](https://static.openfintech.io/currencies/TWD/icon.svg?w=278&c=v0.59.26#w100) |[**New Taiwan Dollar**](TWD/)|`TWD`| 
+|![TWT](https://static.openfintech.io/currencies/TWT/icon.svg?w=278&c=v0.59.26#w100) |[**TWT**](TWT/)|`TWT`| 
 |![TZS](https://static.openfintech.io/currencies/TZS/icon.svg?w=278&c=v0.59.26#w100) |[**Tanzanian Shilling**](TZS/)|`TZS`| 
 || **U** ||
 |![UAH](https://static.openfintech.io/currencies/UAH/icon.svg?w=278&c=v0.59.26#w100) |[**Ukrainian Hryvnia**](UAH/)|`UAH`| 
@@ -658,11 +735,13 @@
 |![UMUSD](https://static.openfintech.io/currencies/UMUSD/icon.svg?w=278&c=v0.59.26#w100) |[**UMUSD**](UMUSD/)|`UMUSD`| 
 |![UNCBRUB](https://static.openfintech.io/currencies/UNCBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**UNCBRUB**](UNCBRUB/)|`UNCBRUB`| 
 |![UNCBUAH](https://static.openfintech.io/currencies/UNCBUAH/icon.svg?w=278&c=v0.59.26#w100) |[**UNCBUAH**](UNCBUAH/)|`UNCBUAH`| 
+|![UNI](https://static.openfintech.io/currencies/UNI/icon.svg?w=278&c=v0.59.26#w100) |[**UNI**](UNI/)|`UNI`| 
 |![UNVBUAH](https://static.openfintech.io/currencies/UNVBUAH/icon.svg?w=278&c=v0.59.26#w100) |[**UNVBUAH**](UNVBUAH/)|`UNVBUAH`| 
 |![URSBRUB](https://static.openfintech.io/currencies/URSBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**URSBRUB**](URSBRUB/)|`URSBRUB`| 
 |![USBRUB](https://static.openfintech.io/currencies/USBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**USBRUB**](USBRUB/)|`USBRUB`| 
 |![USBUAH](https://static.openfintech.io/currencies/USBUAH/icon.svg?w=278&c=v0.59.26#w100) |[**USBUAH**](USBUAH/)|`USBUAH`| 
 |![USD](https://static.openfintech.io/currencies/USD/icon.svg?w=278&c=v0.59.26#w100) |[**US Dollar**](USD/)|`USD`| 
+|![USD1](https://static.openfintech.io/currencies/USD1/icon.svg?w=278&c=v0.59.26#w100) |[**USD1**](USD1/)|`USD1`| 
 |![USDC](https://static.openfintech.io/currencies/USDC/icon.svg?w=278&c=v0.59.26#w100) |[**USDC**](USDC/)|`USDC`| 
 |![USDCBEP20](https://static.openfintech.io/currencies/USDCBEP20/icon.svg?w=278&c=v0.59.26#w100) |[**USDCBEP20**](USDCBEP20/)|`USDCBEP20`| 
 |![USDCERC20](https://static.openfintech.io/currencies/USDCERC20/icon.svg?w=278&c=v0.59.26#w100) |[**USDCERC20**](USDCERC20/)|`USDCERC20`| 
@@ -745,6 +824,7 @@
 |![WEXEUR](https://static.openfintech.io/currencies/WEXEUR/icon.svg?w=278&c=v0.59.26#w100) |[**WEXEUR**](WEXEUR/)|`WEXEUR`| 
 |![WEXRUB](https://static.openfintech.io/currencies/WEXRUB/icon.svg?w=278&c=v0.59.26#w100) |[**WEXRUB**](WEXRUB/)|`WEXRUB`| 
 |![WEXUSD](https://static.openfintech.io/currencies/WEXUSD/icon.svg?w=278&c=v0.59.26#w100) |[**WEXUSD**](WEXUSD/)|`WEXUSD`| 
+|![WILD](https://static.openfintech.io/currencies/WILD/icon.svg?w=278&c=v0.59.26#w100) |[**WILD**](WILD/)|`WILD`| 
 |![WIREBYR](https://static.openfintech.io/currencies/WIREBYR/icon.svg?w=278&c=v0.59.26#w100) |[**WIREBYR**](WIREBYR/)|`WIREBYR`| 
 |![WIRECNY](https://static.openfintech.io/currencies/WIRECNY/icon.svg?w=278&c=v0.59.26#w100) |[**WIRECNY**](WIRECNY/)|`WIRECNY`| 
 |![WIRECZK](https://static.openfintech.io/currencies/WIRECZK/icon.svg?w=278&c=v0.59.26#w100) |[**WIRECZK**](WIRECZK/)|`WIRECZK`| 
@@ -758,8 +838,10 @@
 |![WIRETHB](https://static.openfintech.io/currencies/WIRETHB/icon.svg?w=278&c=v0.59.26#w100) |[**WIRETHB**](WIRETHB/)|`WIRETHB`| 
 |![WIREUAH](https://static.openfintech.io/currencies/WIREUAH/icon.svg?w=278&c=v0.59.26#w100) |[**WIREUAH**](WIREUAH/)|`WIREUAH`| 
 |![WIREUSD](https://static.openfintech.io/currencies/WIREUSD/icon.svg?w=278&c=v0.59.26#w100) |[**WIREUSD**](WIREUSD/)|`WIREUSD`| 
+|![WLD](https://static.openfintech.io/currencies/WLD/icon.svg?w=278&c=v0.59.26#w100) |[**WLD**](WLD/)|`WLD`| 
 |![WLDCEUR](https://static.openfintech.io/currencies/WLDCEUR/icon.svg?w=278&c=v0.59.26#w100) |[**WLDCEUR**](WLDCEUR/)|`WLDCEUR`| 
 |![WLDCUSD](https://static.openfintech.io/currencies/WLDCUSD/icon.svg?w=278&c=v0.59.26#w100) |[**WLDCUSD**](WLDCUSD/)|`WLDCUSD`| 
+|![WLFI](https://static.openfintech.io/currencies/WLFI/icon.svg?w=278&c=v0.59.26#w100) |[**WLFI**](WLFI/)|`WLFI`| 
 |![WMB](https://static.openfintech.io/currencies/WMB/icon.svg?w=278&c=v0.59.26#w100) |[**WMB**](WMB/)|`WMB`| 
 |![WMC](https://static.openfintech.io/currencies/WMC/icon.svg?w=278&c=v0.59.26#w100) |[**WMC**](WMC/)|`WMC`| 
 |![WME](https://static.openfintech.io/currencies/WME/icon.svg?w=278&c=v0.59.26#w100) |[**WME**](WME/)|`WME`| 
@@ -821,6 +903,8 @@
 || **Y** ||
 |![YAMRUB](https://static.openfintech.io/currencies/YAMRUB/icon.svg?w=278&c=v0.59.26#w100) |[**YAMRUB**](YAMRUB/)|`YAMRUB`| 
 |![YER](https://static.openfintech.io/currencies/YER/icon.svg?w=278&c=v0.59.26#w100) |[**Yemeni Rial**](YER/)|`YER`| 
+|![YGG](https://static.openfintech.io/currencies/YGG/icon.svg?w=278&c=v0.59.26#w100) |[**YGG**](YGG/)|`YGG`| 
+|![YLD](https://static.openfintech.io/currencies/YLD/icon.svg?w=278&c=v0.59.26#w100) |[**YLD**](YLD/)|`YLD`| 
 |![YOBITRUB](https://static.openfintech.io/currencies/YOBITRUB/icon.svg?w=278&c=v0.59.26#w100) |[**YOBITRUB**](YOBITRUB/)|`YOBITRUB`| 
 |![YOBITUSD](https://static.openfintech.io/currencies/YOBITUSD/icon.svg?w=278&c=v0.59.26#w100) |[**YOBITUSD**](YOBITUSD/)|`YOBITUSD`| 
 |![YUBTRUB](https://static.openfintech.io/currencies/YUBTRUB/icon.svg?w=278&c=v0.59.26#w100) |[**YUBTRUB**](YUBTRUB/)|`YUBTRUB`| 
@@ -828,6 +912,7 @@
 || **Z** ||
 |![ZAR](https://static.openfintech.io/currencies/ZAR/icon.svg?w=278&c=v0.59.26#w100) |[**South African Rand**](ZAR/)|`ZAR`| 
 |![ZEC](https://static.openfintech.io/currencies/ZEC/icon.png?w=278&c=v0.59.26#w100) |[**ZEC**](ZEC/)|`ZEC`| 
+|![ZIL](https://static.openfintech.io/currencies/ZIL/icon.svg?w=278&c=v0.59.26#w100) |[**ZIL**](ZIL/)|`ZIL`| 
 |![ZMK](https://static.openfintech.io/currencies/ZMK/icon.svg?w=278&c=v0.59.26#w100) |[**Zambian Kwacha**](ZMK/)|`ZMK`| 
 |![ZMW](https://static.openfintech.io/currencies/ZMW/icon.svg?w=278&c=v0.59.26#w100) |[**Zambian Kwacha**](ZMW/)|`ZMW`| 
 |![ZNX](https://static.openfintech.io/currencies/ZNX/icon.svg?w=278&c=v0.59.26#w100) |[**ZNX**](ZNX/)|`ZNX`| 

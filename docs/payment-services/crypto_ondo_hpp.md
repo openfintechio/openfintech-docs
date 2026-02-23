@@ -1,0 +1,32 @@
+
+# CRYPTO (service) 
+![crypto_ondo_hpp](https://static.openfintech.io/payment_methods/crypto_ondo_hpp/logo.svg?w=400&c=v0.59.26#w200)  
+
+## General 
+ 
+**Code:** `crypto_ondo_hpp` 
+ 
+**Method:** `crypto` 
+ [show -->](/payment-methods/crypto/) 
+ 
+**Currency:** `ONDO` [show -->](/currencies/ONDO/) 
+ 
+**Name:** 
+ 
+:	[EN] CRYPTO 
+ 
+**Amount limits:** from `0.02` to `200000` ONDO 
+
+## JSON Object 
+
+```json
+{
+  "code":"crypto_ondo_hpp",
+  "flow":"hpp",
+  "method":"crypto",
+  "currency":"ONDO",
+  "fields":null,
+  "amount_min":0.02,
+  "amount_max":200000
+}
+```  

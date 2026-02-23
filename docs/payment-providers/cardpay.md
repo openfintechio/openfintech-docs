@@ -55,6 +55,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![online_banking](https://static.openfintech.io/payment_methods/online_banking/icon.svg?w=278&c=v0.59.26#w100) |[online_banking](/payment-methods/online_banking/)|`online_banking`| 
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay](/payment-methods/applepay/)|`applepay`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay](/payment-methods/googlepay/)|`googlepay`| 
+|![crypto](https://static.openfintech.io/payment_methods/crypto/icon.svg?w=278&c=v0.59.26#w100) |[crypto](/payment-methods/crypto/)|`crypto`| 
  
 
 ## Payout Methods 
@@ -90,7 +91,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "sepa_transfer",
     "online_banking",
     "applepay",
-    "googlepay"
+    "googlepay",
+    "crypto"
   ],
   "payout_method":[
     "payment_card",
