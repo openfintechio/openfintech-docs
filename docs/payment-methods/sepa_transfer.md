@@ -40,12 +40,6 @@ The list of [Payment Services](/payment-services/) based on the _Sepa Transfer_
 |![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_gbp_hpp](/payment-services/sepa_transfer_gbp_hpp/)|`sepa_transfer_gbp_hpp`| 
 |![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_cad_hpp](/payment-services/sepa_transfer_cad_hpp/)|`sepa_transfer_cad_hpp`| 
 |![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_usd_hpp](/payment-services/sepa_transfer_usd_hpp/)|`sepa_transfer_usd_hpp`| 
-|![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_bhd_hpp](/payment-services/sepa_transfer_bhd_hpp/)|`sepa_transfer_bhd_hpp`| 
-|![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_aed_hpp](/payment-services/sepa_transfer_aed_hpp/)|`sepa_transfer_aed_hpp`| 
-|![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_sar_hpp](/payment-services/sepa_transfer_sar_hpp/)|`sepa_transfer_sar_hpp`| 
-|![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_kwd_hpp](/payment-services/sepa_transfer_kwd_hpp/)|`sepa_transfer_kwd_hpp`| 
-|![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_qar_hpp](/payment-services/sepa_transfer_qar_hpp/)|`sepa_transfer_qar_hpp`| 
-|![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_omr_hpp](/payment-services/sepa_transfer_omr_hpp/)|`sepa_transfer_omr_hpp`| 
  
 
 ## Payment Providers 
