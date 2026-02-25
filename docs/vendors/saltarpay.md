@@ -1,5 +1,5 @@
 
-# SaltarPay 
+# TouraPay 
 ![saltarpay](https://static.openfintech.io/vendors/saltarpay/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,14 +8,14 @@
  
 **Name:** 
  
-:	[EN] SaltarPay 
-:	[RU] SaltarPay 
-:	[UK] SaltarPay 
+:	[EN] TouraPay 
+:	[RU] TouraPay 
+:	[UK] TouraPay 
  
 **Status:** `active` 
  
 **Links:** 
-: website [https://www.saltarpay.com](https://www.saltarpay.com) 
+: website [https://www.tourapay.com](https://www.tourapay.com) 
  
 
 ## Images 
@@ -42,14 +42,14 @@ https://static.openfintech.io/vendors/saltarpay/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"saltarpay",
   "name":{
-    "en":"SaltarPay",
-    "ru":"SaltarPay",
-    "uk":"SaltarPay"
+    "en":"TouraPay",
+    "ru":"TouraPay",
+    "uk":"TouraPay"
   },
   "status":"active",
   "description":null,
   "links":{
-    "website":"https:\/\/www.saltarpay.com"
+    "website":"https:\/\/www.tourapay.com"
   },
   "countries":null,
   "contacts":null,

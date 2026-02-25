@@ -1998,7 +1998,7 @@
 |![sagepay3](https://static.openfintech.io/vendors/sagepay3/logo.svg?w=600&c=v0.59.26#w200) |[**Sage Pay**](sagepay3/)|`sagepay3`| 
 |![saikyo_bank](https://static.openfintech.io/vendors/saikyo_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Saikyo Bank**](saikyo_bank/)|`saikyo_bank`| 
 |![saitama_resona_bank](https://static.openfintech.io/vendors/saitama_resona_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Saitama Resona Bank**](saitama_resona_bank/)|`saitama_resona_bank`| 
-|![saltarpay](https://static.openfintech.io/vendors/saltarpay/logo.png?w=600&c=v0.59.26#w200) |[**SaltarPay**](saltarpay/)|`saltarpay`| 
+|![saltarpay](https://static.openfintech.io/vendors/saltarpay/logo.png?w=600&c=v0.59.26#w200) |[**TouraPay**](saltarpay/)|`saltarpay`| 
 |![saltedge](https://static.openfintech.io/vendors/saltedge/logo.svg?w=600&c=v0.59.26#w200) |[**Salt Edge**](saltedge/)|`saltedge`| 
 |![san_in_godo_bank](https://static.openfintech.io/vendors/san_in_godo_bank/logo.svg?w=600&c=v0.59.26#w200) |[**SAN-IN GODO BANK**](san_in_godo_bank/)|`san_in_godo_bank`| 
 |![santander](https://static.openfintech.io/vendors/santander/logo.png?w=600&c=v0.59.26#w200) |[**Santander**](santander/)|`santander`| 

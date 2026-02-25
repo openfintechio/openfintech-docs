@@ -1,5 +1,5 @@
 
-# SaltarPay 
+# TouraPay 
 ![saltarpay](https://static.openfintech.io/payment_providers/saltarpay/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] SaltarPay 
-:	[RU] SaltarPay 
-:	[UK] SaltarPay 
+:	[EN] TouraPay 
+:	[RU] TouraPay 
+:	[UK] TouraPay 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"SaltarPay",
-    "ru":"SaltarPay",
-    "uk":"SaltarPay"
+    "en":"TouraPay",
+    "ru":"TouraPay",
+    "uk":"TouraPay"
   }
 }
 ```  

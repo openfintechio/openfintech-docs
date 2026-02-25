@@ -520,7 +520,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![totalprocessing](https://static.openfintech.io/payment_providers/totalprocessing/icon.png?w=278&c=v0.59.26#w100) |[Total Processing](/payment-providers/totalprocessing/)|`totalprocessing`| 
 |![prismpay](https://static.openfintech.io/payment_providers/prismpay/icon.png?w=278&c=v0.59.26#w100) |[Prismpay](/payment-providers/prismpay/)|`prismpay`| 
 |![empayre](https://static.openfintech.io/payment_providers/empayre/icon.svg?w=278&c=v0.59.26#w100) |[Empayre](/payment-providers/empayre/)|`empayre`| 
-|![saltarpay](https://static.openfintech.io/payment_providers/saltarpay/icon.png?w=278&c=v0.59.26#w100) |[SaltarPay](/payment-providers/saltarpay/)|`saltarpay`| 
+|![saltarpay](https://static.openfintech.io/payment_providers/saltarpay/icon.png?w=278&c=v0.59.26#w100) |[TouraPay](/payment-providers/saltarpay/)|`saltarpay`| 
 |![sgate](https://static.openfintech.io/payment_providers/sgate/icon.svg?w=278&c=v0.59.26#w100) |[Sgate](/payment-providers/sgate/)|`sgate`| 
 |![aliumpay](https://static.openfintech.io/payment_providers/aliumpay/icon.svg?w=278&c=v0.59.26#w100) |[AliumPay](/payment-providers/aliumpay/)|`aliumpay`| 
 |![cpay](https://static.openfintech.io/payment_providers/cpay/icon.png?w=278&c=v0.59.26#w100) |[C.Pay](/payment-providers/cpay/)|`cpay`| 
