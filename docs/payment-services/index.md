@@ -1359,8 +1359,11 @@
 |![NEQUI PUSH](https://static.openfintech.io/payment_methods/nequi/logo.svg?w=400&c=v0.59.26#w200) |[**NEQUI PUSH**](/payment-methods/nequi/)|[`nequi_cop_hpp`](nequi_cop_hpp/)| 
 |![NEQUI PUSH](https://static.openfintech.io/payment_methods/nequi/logo.svg?w=400&c=v0.59.26#w200) |[**NEQUI PUSH**](/payment-methods/nequi/)|[`nequi_cop_invoice`](nequi_cop_invoice/)| 
 |![NEQUI QR](https://static.openfintech.io/payment_methods/nequi_qr/logo.svg?w=400&c=v0.59.26#w200) |[**NEQUI QR**](/payment-methods/nequi_qr/)|[`nequi_qr_cop_hpp`](nequi_qr_cop_hpp/)| 
+|![Pay with bank](https://static.openfintech.io/payment_methods/net_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Pay with bank**](/payment-methods/net_banking/)|[`net_banking_cad_hpp`](net_banking_cad_hpp/)| 
+|![Pay with bank](https://static.openfintech.io/payment_methods/net_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Pay with bank**](/payment-methods/net_banking/)|[`net_banking_eur_hpp`](net_banking_eur_hpp/)| 
 |![Pay with bank](https://static.openfintech.io/payment_methods/net_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Pay with bank**](/payment-methods/net_banking/)|[`net_banking_inr_hpp`](net_banking_inr_hpp/)| 
 |![Pay with bank](https://static.openfintech.io/payment_methods/net_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Pay with bank**](/payment-methods/net_banking/)|[`net_banking_ngn_hpp`](net_banking_ngn_hpp/)| 
+|![Pay with bank](https://static.openfintech.io/payment_methods/net_banking/logo.svg?w=400&c=v0.59.26#w200) |[**Pay with bank**](/payment-methods/net_banking/)|[`net_banking_usd_hpp`](net_banking_usd_hpp/)| 
 |![NETELLER](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](/payment-methods/neteller/)|[`neteller_aed_hpp`](neteller_aed_hpp/)| 
 |![NETELLER](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](/payment-methods/neteller/)|[`neteller_aud_hpp`](neteller_aud_hpp/)| 
 |![NETELLER](https://static.openfintech.io/payment_methods/neteller/logo.svg?w=400&c=v0.59.26#w200) |[**NETELLER**](/payment-methods/neteller/)|[`neteller_azn_hpp`](neteller_azn_hpp/)| 

@@ -36,6 +36,9 @@ The list of [Payment Services](/payment-services/) based on the _Pay with bank_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![net_banking](https://static.openfintech.io/payment_methods/net_banking/icon.svg?w=278&c=v0.59.26#w100) |[net_banking_eur_hpp](/payment-services/net_banking_eur_hpp/)|`net_banking_eur_hpp`| 
+|![net_banking](https://static.openfintech.io/payment_methods/net_banking/icon.svg?w=278&c=v0.59.26#w100) |[net_banking_usd_hpp](/payment-services/net_banking_usd_hpp/)|`net_banking_usd_hpp`| 
+|![net_banking](https://static.openfintech.io/payment_methods/net_banking/icon.svg?w=278&c=v0.59.26#w100) |[net_banking_cad_hpp](/payment-services/net_banking_cad_hpp/)|`net_banking_cad_hpp`| 
 |![net_banking](https://static.openfintech.io/payment_methods/net_banking/icon.svg?w=278&c=v0.59.26#w100) |[net_banking_ngn_hpp](/payment-services/net_banking_ngn_hpp/)|`net_banking_ngn_hpp`| 
 |![net_banking](https://static.openfintech.io/payment_methods/net_banking/icon.svg?w=278&c=v0.59.26#w100) |[net_banking_inr_hpp](/payment-services/net_banking_inr_hpp/)|`net_banking_inr_hpp`| 
  
@@ -48,6 +51,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Pay with 
 |:---:|:---:|:---:| 
 |![zotapay](https://static.openfintech.io/payment_providers/zotapay/icon.png?w=278&c=v0.59.26#w100) |[Zotapay](/payment-providers/zotapay/)|`zotapay`| 
 |![changecoins](https://static.openfintech.io/payment_providers/changecoins/icon.png?w=278&c=v0.59.26#w100) |[Сhangecoins Pay](/payment-providers/changecoins/)|`changecoins`| 
+|![zenpays](https://static.openfintech.io/payment_providers/zenpays/icon.png?w=278&c=v0.59.26#w100) |[ZenPays](/payment-providers/zenpays/)|`zenpays`| 
  
 
 ## JSON Object 

@@ -2526,6 +2526,7 @@
 |![zaypay](https://static.openfintech.io/vendors/zaypay/logo.png?w=600&c=v0.59.26#w200) |[**Zaypay**](zaypay/)|`zaypay`| 
 |![zchex](https://static.openfintech.io/vendors/zchex/logo.png?w=600&c=v0.59.26#w200) |[**ZCHEX**](zchex/)|`zchex`| 
 |![zenith_bank_ghana](https://static.openfintech.io/vendors/zenith_bank_ghana/logo.svg?w=600&c=v0.59.26#w200) |[**Zenith Bank Ghana**](zenith_bank_ghana/)|`zenith_bank_ghana`| 
+|![zenpays](https://static.openfintech.io/vendors/zenpays/logo.png?w=600&c=v0.59.26#w200) |[**ZenPays**](zenpays/)|`zenpays`| 
 |![zenwallet](https://static.openfintech.io/vendors/zenwallet/logo.svg?w=600&c=v0.59.26#w200) |[**ZEN.COM**](zenwallet/)|`zenwallet`| 
 |![zepto](https://static.openfintech.io/vendors/zepto/logo.svg?w=600&c=v0.59.26#w200) |[**Zepto**](zepto/)|`zepto`| 
 |![zhilstrojsberbank](https://static.openfintech.io/vendors/zhilstrojsberbank/logo.svg?w=600&c=v0.59.26#w200) |[**Жилстройсбербанк**](zhilstrojsberbank/)|`zhilstrojsberbank`| 

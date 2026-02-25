@@ -81,6 +81,7 @@ The list of [Payment Providers](/payment-providers/) that support the _UPI_
 |![cashix](https://static.openfintech.io/payment_providers/cashix/icon.png?w=278&c=v0.59.26#w100) |[Cashix](/payment-providers/cashix/)|`cashix`| 
 |![rudraxpay](https://static.openfintech.io/payment_providers/rudraxpay/icon.png?w=278&c=v0.59.26#w100) |[RudraxPay](/payment-providers/rudraxpay/)|`rudraxpay`| 
 |![cardpaymentz](https://static.openfintech.io/payment_providers/cardpaymentz/icon.png?w=278&c=v0.59.26#w100) |[Card Paymentz](/payment-providers/cardpaymentz/)|`cardpaymentz`| 
+|![zenpays](https://static.openfintech.io/payment_providers/zenpays/icon.png?w=278&c=v0.59.26#w100) |[ZenPays](/payment-providers/zenpays/)|`zenpays`| 
  
 
 ## JSON Object 
