@@ -1,0 +1,34 @@
+
+# Sepa Transfer (service) 
+![sepa_transfer_bhd_hpp](https://static.openfintech.io/payment_methods/sepa_transfer_bhd_hpp/logo.svg?w=400&c=v0.59.26#w200)  
+
+## General 
+ 
+**Code:** `sepa_transfer_bhd_hpp` 
+ 
+**Method:** `sepa_transfer` 
+ [show -->](/payment-methods/sepa_transfer/) 
+ 
+**Currency:** `BHD` [show -->](/currencies/BHD/) 
+ 
+**Name:** 
+ 
+:	[EN] Sepa Transfer 
+:	[RU] Sepa Transfer 
+:	[UK] Sepa Transfer 
+ 
+**Amount limits:** from `0.001` to `40000` BHD 
+
+## JSON Object 
+
+```json
+{
+  "code":"sepa_transfer_bhd_hpp",
+  "flow":"hpp",
+  "method":"sepa_transfer",
+  "currency":"BHD",
+  "fields":null,
+  "amount_min":0.001,
+  "amount_max":40000
+}
+```  
