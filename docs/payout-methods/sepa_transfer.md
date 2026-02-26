@@ -38,6 +38,12 @@ The list of [Payout Services](/payout-services/) based on the _Sepa Transfer_
 |:---:|:---:|:---:| 
 |![sepa_transfer](https://static.openfintech.io/payout_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w40) |[sepa_transfer_eur](/payout-services/sepa_transfer_eur/)|`sepa_transfer_eur`| 
 |![sepa_transfer](https://static.openfintech.io/payout_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w40) |[sepa_transfer_gbp](/payout-services/sepa_transfer_gbp/)|`sepa_transfer_gbp`| 
+|![sepa_transfer](https://static.openfintech.io/payout_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w40) |[sepa_transfer_bhd](/payout-services/sepa_transfer_bhd/)|`sepa_transfer_bhd`| 
+|![sepa_transfer](https://static.openfintech.io/payout_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w40) |[sepa_transfer_aed](/payout-services/sepa_transfer_aed/)|`sepa_transfer_aed`| 
+|![sepa_transfer](https://static.openfintech.io/payout_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w40) |[sepa_transfer_sar](/payout-services/sepa_transfer_sar/)|`sepa_transfer_sar`| 
+|![sepa_transfer](https://static.openfintech.io/payout_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w40) |[sepa_transfer_kwd](/payout-services/sepa_transfer_kwd/)|`sepa_transfer_kwd`| 
+|![sepa_transfer](https://static.openfintech.io/payout_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w40) |[sepa_transfer_qar](/payout-services/sepa_transfer_qar/)|`sepa_transfer_qar`| 
+|![sepa_transfer](https://static.openfintech.io/payout_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w40) |[sepa_transfer_omr](/payout-services/sepa_transfer_omr/)|`sepa_transfer_omr`| 
  
 
 ## Payment Providers 
