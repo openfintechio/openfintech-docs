@@ -425,6 +425,7 @@
 |![Bosak MFB](https://static.openfintech.io/payout_methods/bosak_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Bosak MFB**](/payout-methods/bosak_mfb/)|[`bosak_mfb_ngn`](bosak_mfb_ngn/)|`NGN`| 
 |![Bowen MFB](https://static.openfintech.io/payout_methods/bowen_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Bowen MFB**](/payout-methods/bowen_mfb/)|[`bowen_mfb_ngn`](bowen_mfb_ngn/)|`NGN`| 
 |![Gang](https://static.openfintech.io/payout_methods/bratva/logo.png?w=400&c=v0.59.26#w24) |[**Gang**](/payout-methods/bratva/)|[`bratva_uah`](bratva_uah/)|`UAH`| 
+|![Bre-B](https://static.openfintech.io/payout_methods/breb/logo.png?w=400&c=v0.59.26#w24) |[**Bre-B**](/payout-methods/breb/)|[`breb_cop`](breb_cop/)|`COP`| 
 |![Brent Mortgage Bank](https://static.openfintech.io/payout_methods/brent_mortgage_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Brent Mortgage Bank**](/payout-methods/brent_mortgage_bank/)|[`brent_mortgage_bank_ngn`](brent_mortgage_bank_ngn/)|`NGN`| 
 |![Brethren MFB](https://static.openfintech.io/payout_methods/brethren_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Brethren MFB**](/payout-methods/brethren_mfb/)|[`brethren_mfb_ngn`](brethren_mfb_ngn/)|`NGN`| 
 |![BRI Bank](https://static.openfintech.io/payout_methods/bri_bank/logo.svg?w=400&c=v0.59.26#w24) |[**BRI Bank**](/payout-methods/bri_bank/)|[`bri_bank_idr`](bri_bank_idr/)|`IDR`| 

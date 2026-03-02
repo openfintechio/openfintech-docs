@@ -65,6 +65,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |:---:|:---:|:---:| 
 |![pix](https://static.openfintech.io/payout_methods/pix/icon.svg?w=278&c=v0.59.26#w40) |[pix](payout-methodspix/)|`pix`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
+|![breb](https://static.openfintech.io/payout_methods/breb/icon.png?w=278&c=v0.59.26#w40) |[breb](payout-methodsbreb/)|`breb`| 
 |![transfiya](https://static.openfintech.io/payout_methods/transfiya/icon.svg?w=278&c=v0.59.26#w40) |[transfiya](payout-methodstransfiya/)|`transfiya`| 
  
 
@@ -98,6 +99,7 @@ The list of supported [Payout Methods](/payout-methods/)
   "payout_method":[
     "pix",
     "bank_transfer",
+    "breb",
     "transfiya"
   ],
   "metadata":null,
