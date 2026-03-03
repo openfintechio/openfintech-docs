@@ -584,6 +584,7 @@
 |![esoe_mfb](https://static.openfintech.io/payout_methods/esoe_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Eso-E MFB**](esoe_mfb/)|`esoe_mfb`| 
 |![ethereum](https://static.openfintech.io/payout_methods/ethereum/logo.svg?w=400&c=v0.59.26#w24) |[**Ethereum**](ethereum/)|`ethereum`| 
 |![etherlink](https://static.openfintech.io/payout_methods/etherlink/logo.svg?w=400&c=v0.59.26#w24) |[**Etherlink**](etherlink/)|`etherlink`| 
+|![etisalat](https://static.openfintech.io/payout_methods/etisalat/logo.svg?w=400&c=v0.59.26#w24) |[**Etisalat**](etisalat/)|`etisalat`| 
 |![etisalat_cash](https://static.openfintech.io/payout_methods/etisalat_cash/logo.svg?w=400&c=v0.59.26#w24) |[**Etisalat Cash**](etisalat_cash/)|`etisalat_cash`| 
 |![etranzact](https://static.openfintech.io/payout_methods/etranzact/logo.svg?w=400&c=v0.59.26#w24) |[**Etranzact**](etranzact/)|`etranzact`| 
 |![eurogroshi](https://static.openfintech.io/payout_methods/eurogroshi/logo.svg?w=400&c=v0.59.26#w24) |[**Eurogroshi**](eurogroshi/)|`eurogroshi`| 
@@ -3136,6 +3137,7 @@
 |![vodafone-po-nomeru-telefona](https://static.openfintech.io/payout_methods/vodafone-po-nomeru-telefona/logo.svg?w=400&c=v0.59.26#w24) |[**Vodafone (by phone number)**](vodafone-po-nomeru-telefona/)|`vodafone-po-nomeru-telefona`| 
 |![vodafone_cash](https://static.openfintech.io/payout_methods/vodafone_cash/logo.svg?w=400&c=v0.59.26#w24) |[**Vodafone Cash**](vodafone_cash/)|`vodafone_cash`| 
 |![vodafone_contract](https://static.openfintech.io/payout_methods/vodafone_contract/logo.svg?w=400&c=v0.59.26#w24) |[**Vodafone (contract)**](vodafone_contract/)|`vodafone_contract`| 
+|![vodafone_egypt](https://static.openfintech.io/payout_methods/vodafone_egypt/logo.svg?w=400&c=v0.59.26#w24) |[**Vodafone Egypt**](vodafone_egypt/)|`vodafone_egypt`| 
 |![vodafone_ghana](https://static.openfintech.io/payout_methods/vodafone_ghana/logo.png?w=400&c=v0.59.26#w24) |[**Vodafone Ghana**](vodafone_ghana/)|`vodafone_ghana`| 
 |![vodafone_mpesa](https://static.openfintech.io/payout_methods/vodafone_mpesa/logo.png?w=400&c=v0.59.26#w24) |[**Vodafone-Mpesa**](vodafone_mpesa/)|`vodafone_mpesa`| 
 |![vodafone_phone](https://static.openfintech.io/payout_methods/vodafone_phone/logo.svg?w=400&c=v0.59.26#w24) |[**Vodafone (by phone number)**](vodafone_phone/)|`vodafone_phone`| 

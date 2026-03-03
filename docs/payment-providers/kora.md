@@ -95,6 +95,9 @@ The list of supported [Payout Methods](/payout-methods/)
 |![ned_bank](https://static.openfintech.io/payout_methods/ned_bank/icon.svg?w=278&c=v0.59.26#w40) |[ned_bank](payout-methodsned_bank/)|`ned_bank`| 
 |![standard_bank](https://static.openfintech.io/payout_methods/standard_bank/icon.svg?w=278&c=v0.59.26#w40) |[standard_bank](payout-methodsstandard_bank/)|`standard_bank`| 
 |![tyme_bank](https://static.openfintech.io/payout_methods/tyme_bank/icon.svg?w=278&c=v0.59.26#w40) |[tyme_bank](payout-methodstyme_bank/)|`tyme_bank`| 
+|![etisalat](https://static.openfintech.io/payout_methods/etisalat/icon.svg?w=278&c=v0.59.26#w40) |[etisalat](payout-methodsetisalat/)|`etisalat`| 
+|![vodafone_egypt](https://static.openfintech.io/payout_methods/vodafone_egypt/icon.svg?w=278&c=v0.59.26#w40) |[vodafone_egypt](payout-methodsvodafone_egypt/)|`vodafone_egypt`| 
+|![orange_money](https://static.openfintech.io/payout_methods/orange_money/icon.png?w=278&c=v0.59.26#w40) |[orange_money](payout-methodsorange_money/)|`orange_money`| 
  
 
 ## JSON Object 
@@ -156,7 +159,10 @@ The list of supported [Payout Methods](/payout-methods/)
     "investec_bank",
     "ned_bank",
     "standard_bank",
-    "tyme_bank"
+    "tyme_bank",
+    "etisalat",
+    "vodafone_egypt",
+    "orange_money"
   ],
   "metadata":null,
   "name":{
