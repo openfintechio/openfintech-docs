@@ -27,6 +27,7 @@
 |`document_type`|✗|`string`|`/^[A-Z]{2,4}$/`| 
 |`document_id`|✗|`string`|`/^[a-zA-Z0-9]{6,15}$/`| 
 |`phone_number`|✗|`string`|`/^\+\d{10,14}$/`| 
+|`destination_key`|✗|`string`|`/^.{1,64}$/`| 
  
 
 ### Details 
@@ -84,6 +85,24 @@
 	: [EN] Enter phone number 
 	: [RU] Введите номер телефона 
 	: [UK] Введіть номер телефону 
+ 
+4. **`destination_key`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{1,64}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bre-b Key 
+	: [RU] Ключ Bre-b 
+	: [UK] Ключ Bre-b 
+ 
+	Hint:  
+	: [EN] Enter Bre-b Key (the beneficiary identifier for this payout method) 
+	: [RU] Введите ключ Bre-b (идентификатор получателя для этого метода выплаты) 
+	: [UK] Введіть ключ Bre-b (ідентифікатор отримувача для цього методу виплати) 
  
 
 ## JSON Object 
@@ -144,6 +163,23 @@
       "regexp":"\/^\\+\\d{10,14}$\/",
       "required":false,
       "position":3
+    },
+    {
+      "key":"destination_key",
+      "type":"string",
+      "label":{
+        "en":"Bre-b Key",
+        "ru":"\u041a\u043b\u044e\u0447 Bre-b",
+        "uk":"\u041a\u043b\u044e\u0447 Bre-b"
+      },
+      "hint":{
+        "en":"Enter Bre-b Key (the beneficiary identifier for this payout method)",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043b\u044e\u0447 Bre-b (\u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f \u0434\u043b\u044f \u044d\u0442\u043e\u0433\u043e \u043c\u0435\u0442\u043e\u0434\u0430 \u0432\u044b\u043f\u043b\u0430\u0442\u044b)",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043b\u044e\u0447 Bre-b (\u0456\u0434\u0435\u043d\u0442\u0438\u0444\u0456\u043a\u0430\u0442\u043e\u0440 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430 \u0434\u043b\u044f \u0446\u044c\u043e\u0433\u043e \u043c\u0435\u0442\u043e\u0434\u0443 \u0432\u0438\u043f\u043b\u0430\u0442\u0438)"
+      },
+      "regexp":"\/^.{1,64}$\/",
+      "required":false,
+      "position":4
     }
   ],
   "amount_min":40,
