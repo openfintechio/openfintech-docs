@@ -79,6 +79,7 @@ The list of [Payment Services](/payment-services/) based on the _Payment card_
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_bgn_hpp](/payment-services/payment_card_bgn_hpp/)|`payment_card_bgn_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_sek_hpp](/payment-services/payment_card_sek_hpp/)|`payment_card_sek_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_uah_hpp](/payment-services/payment_card_uah_hpp/)|`payment_card_uah_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_uah_invoice](/payment-services/payment_card_uah_invoice/)|`payment_card_uah_invoice`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_zar_hpp](/payment-services/payment_card_zar_hpp/)|`payment_card_zar_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_inr_hpp](/payment-services/payment_card_inr_hpp/)|`payment_card_inr_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_mxn_hpp](/payment-services/payment_card_mxn_hpp/)|`payment_card_mxn_hpp`| 
