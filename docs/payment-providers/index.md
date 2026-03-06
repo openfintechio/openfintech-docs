@@ -1091,6 +1091,7 @@
 |![universepay](https://static.openfintech.io/payment_providers/universepay/logo.png?w=600&c=v0.59.26#w100) |[**UniversePay**](universepay/)|`universepay`| 
 |![unlimco](https://static.openfintech.io/payment_providers/unlimco/logo.svg?w=600&c=v0.59.26#w100) |[**Unlimco**](unlimco/)|`unlimco`| 
 |![unonapay](https://static.openfintech.io/payment_providers/unonapay/logo.png?w=600&c=v0.59.26#w100) |[**UnonaPay**](unonapay/)|`unonapay`| 
+|![upay](https://static.openfintech.io/payment_providers/upay/logo.png?w=600&c=v0.59.26#w100) |[**UPay**](upay/)|`upay`| 
 |![upc](https://static.openfintech.io/payment_providers/upc/logo.png?w=600&c=v0.59.26#w100) |[**Ukrainian Processing Center (UPC)**](upc/)|`upc`| 
 |![upclick](https://static.openfintech.io/payment_providers/upclick/logo.png?w=600&c=v0.59.26#w100) |[**Upclick**](upclick/)|`upclick`| 
 |![usaepay](https://static.openfintech.io/payment_providers/usaepay/logo.png?w=600&c=v0.59.26#w100) |[**USAePay**](usaepay/)|`usaepay`| 

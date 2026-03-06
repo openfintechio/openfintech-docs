@@ -2325,6 +2325,7 @@
 |![unlimco](https://static.openfintech.io/vendors/unlimco/logo.svg?w=600&c=v0.59.26#w200) |[**Unlimco**](unlimco/)|`unlimco`| 
 |![unonapay](https://static.openfintech.io/vendors/unonapay/logo.png?w=600&c=v0.59.26#w200) |[**UnonaPay**](unonapay/)|`unonapay`| 
 |![uobmen.ru](https://static.openfintech.io/vendors/uobmen.ru/logo.svg?w=600&c=v0.59.26#w200) |[**UObmen**](uobmen.ru/)|`uobmen.ru`| 
+|![upay](https://static.openfintech.io/vendors/upay/logo.png?w=600&c=v0.59.26#w200) |[**UPay**](upay/)|`upay`| 
 |![upc](https://static.openfintech.io/vendors/upc/logo.png?w=600&c=v0.59.26#w200) |[**Ukrainian Processing Center (UPC)**](upc/)|`upc`| 
 |![upclick](https://static.openfintech.io/vendors/upclick/logo.png?w=600&c=v0.59.26#w200) |[**Upclick**](upclick/)|`upclick`| 
 |![upravlinnya_nbu_u_hmelnickij_oblasti](https://static.openfintech.io/vendors/upravlinnya_nbu_u_hmelnickij_oblasti/logo.svg?w=600&c=v0.59.26#w200) |[**Управління Національного банку України  у Хмельницькій області**](upravlinnya_nbu_u_hmelnickij_oblasti/)|`upravlinnya_nbu_u_hmelnickij_oblasti`| 
