@@ -1990,6 +1990,7 @@
 |![s3cpay](https://static.openfintech.io/vendors/s3cpay/logo.png?w=600&c=v0.59.26#w200) |[**S3СРАY**](s3cpay/)|`s3cpay`| 
 |![saastopankki](https://static.openfintech.io/vendors/saastopankki/logo.png?w=600&c=v0.59.26#w200) |[**Säästöpankki**](saastopankki/)|`saastopankki`| 
 |![safecharge](https://static.openfintech.io/vendors/safecharge/logo.svg?w=600&c=v0.59.26#w200) |[**Nuvei**](safecharge/)|`safecharge`| 
+|![safegatepayments](https://static.openfintech.io/vendors/safegatepayments/logo.png?w=600&c=v0.59.26#w200) |[**SafeGate Payments**](safegatepayments/)|`safegatepayments`| 
 |![safepay.ua](https://static.openfintech.io/vendors/safepay.ua/logo.svg?w=600&c=v0.59.26#w200) |[**SafePay**](safepay.ua/)|`safepay.ua`| 
 |![safetypay](https://static.openfintech.io/vendors/safetypay/logo.png?w=600&c=v0.59.26#w200) |[**SafetyPay**](safetypay/)|`safetypay`| 
 |![safexpay](https://static.openfintech.io/vendors/safexpay/logo.png?w=600&c=v0.59.26#w200) |[**Safexpay**](safexpay/)|`safexpay`| 

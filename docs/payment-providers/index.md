@@ -936,6 +936,7 @@
 || **S** ||
 |![s3cpay](https://static.openfintech.io/payment_providers/s3cpay/logo.png?w=600&c=v0.59.26#w100) |[**S3СРАY**](s3cpay/)|`s3cpay`| 
 |![safecharge](https://static.openfintech.io/payment_providers/safecharge/logo.svg?w=600&c=v0.59.26#w100) |[**Nuvei**](safecharge/)|`safecharge`| 
+|![safegatepayments](https://static.openfintech.io/payment_providers/safegatepayments/logo.png?w=600&c=v0.59.26#w100) |[**SafeGate Payments**](safegatepayments/)|`safegatepayments`| 
 |![safetypay](https://static.openfintech.io/payment_providers/safetypay/logo.png?w=600&c=v0.59.26#w100) |[**SafetyPay**](safetypay/)|`safetypay`| 
 |![safexpay](https://static.openfintech.io/payment_providers/safexpay/logo.png?w=600&c=v0.59.26#w100) |[**Safexpay**](safexpay/)|`safexpay`| 
 |![sagepay3](https://static.openfintech.io/payment_providers/sagepay3/logo.svg?w=600&c=v0.59.26#w100) |[**Sage Pay**](sagepay3/)|`sagepay3`| 

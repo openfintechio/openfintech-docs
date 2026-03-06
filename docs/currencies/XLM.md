@@ -14,7 +14,7 @@
  
 **Type:** `crypto` 
  
-**Exponent:** `8` 
+**Exponent:** `2` 
  
 **Parent currency multiplier:** `1` 
  
@@ -42,7 +42,7 @@ https://static.openfintech.io/currencies/XLM/icon.svg?w=278&c=v0.59.26#w100
     "en":"XLM"
   },
   "type":"crypto",
-  "exponent":8,
+  "exponent":2,
   "parent_currency_multiplier":1,
   "category":"cryptocurrency",
   "iso_numeric3_code":null,
