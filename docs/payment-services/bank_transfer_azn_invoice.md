@@ -1,15 +1,15 @@
 
 # Bank Transfer (service) 
-![bank_transfer_try_invoice](https://static.openfintech.io/payment_methods/bank_transfer_try_invoice/logo.svg?w=400&c=v0.59.26#w200)  
+![bank_transfer_azn_invoice](https://static.openfintech.io/payment_methods/bank_transfer_azn_invoice/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `bank_transfer_try_invoice` 
+**Code:** `bank_transfer_azn_invoice` 
  
 **Method:** `bank_transfer` 
  [show -->](/payment-methods/bank_transfer/) 
  
-**Currency:** `TRY` [show -->](/currencies/TRY/) 
+**Currency:** `AZN` [show -->](/currencies/AZN/) 
  
 **Name:** 
  
@@ -17,7 +17,7 @@
 :	[RU] Банковский перевод 
 :	[UK] Банківський переказ 
  
-**Amount limits:** from `1` to `1900000` TRY 
+**Amount limits:** from `0.01` to `1200000000` AZN 
 
 ## Fields 
 
@@ -72,10 +72,10 @@
 
 ```json
 {
-  "code":"bank_transfer_try_invoice",
+  "code":"bank_transfer_azn_invoice",
   "flow":"invoice",
   "method":"bank_transfer",
-  "currency":"TRY",
+  "currency":"AZN",
   "fields":[
     {
       "key":"bank_name",
@@ -114,7 +114,7 @@
       "example":"1234567890"
     }
   ],
-  "amount_min":1,
-  "amount_max":1900000
+  "amount_min":0.01,
+  "amount_max":1200000000
 }
 ```  

@@ -162,6 +162,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![ozow](https://static.openfintech.io/payment_providers/ozow/icon.png?w=278&c=v0.59.26#w100) |[Ozow](/payment-providers/ozow/)|`ozow`| 
 |![apay](https://static.openfintech.io/payment_providers/apay/icon.svg?w=278&c=v0.59.26#w100) |[Apay](/payment-providers/apay/)|`apay`| 
 |![smartfastpay](https://static.openfintech.io/payment_providers/smartfastpay/icon.png?w=278&c=v0.59.26#w100) |[SmartFastPay](/payment-providers/smartfastpay/)|`smartfastpay`| 
+|![safegatepayments](https://static.openfintech.io/payment_providers/safegatepayments/icon.png?w=278&c=v0.59.26#w100) |[SafeGate Payments](/payment-providers/safegatepayments/)|`safegatepayments`| 
  
 
 ## JSON Object 
