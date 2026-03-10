@@ -157,6 +157,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![rixsus](https://static.openfintech.io/payment_providers/rixsus/icon.png?w=278&c=v0.59.26#w100) |[Rixsus](/payment-providers/rixsus/)|`rixsus`| 
 |![nixxe](https://static.openfintech.io/payment_providers/nixxe/icon.svg?w=278&c=v0.59.26#w100) |[Nixxe](/payment-providers/nixxe/)|`nixxe`| 
 |![contiant](https://static.openfintech.io/payment_providers/contiant/icon.svg?w=278&c=v0.59.26#w100) |[Contiant](/payment-providers/contiant/)|`contiant`| 
+|![pspark](https://static.openfintech.io/payment_providers/pspark/icon.svg?w=278&c=v0.59.26#w100) |[PSPARK](/payment-providers/pspark/)|`pspark`| 
 |![matrixpay](https://static.openfintech.io/payment_providers/matrixpay/icon.png?w=278&c=v0.59.26#w100) |[MatrixPay](/payment-providers/matrixpay/)|`matrixpay`| 
 |![okto](https://static.openfintech.io/payment_providers/okto/icon.png?w=278&c=v0.59.26#w100) |[OKTO](/payment-providers/okto/)|`okto`| 
 |![ozow](https://static.openfintech.io/payment_providers/ozow/icon.png?w=278&c=v0.59.26#w100) |[Ozow](/payment-providers/ozow/)|`ozow`| 
