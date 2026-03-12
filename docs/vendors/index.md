@@ -1353,6 +1353,7 @@
 |![nakartu](https://static.openfintech.io/vendors/nakartu/logo.svg?w=600&c=v0.59.26#w200) |[**NaKartu**](nakartu/)|`nakartu`| 
 |![nalichnye](https://static.openfintech.io/vendors/nalichnye/logo.svg?w=600&c=v0.59.26#w200) |[**Наличные**](nalichnye/)|`nalichnye`| 
 |![nanto_bank](https://static.openfintech.io/vendors/nanto_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Nanto Bank**](nanto_bank/)|`nanto_bank`| 
+|![naranjax](https://static.openfintech.io/vendors/naranjax/logo.png?w=600&c=v0.59.26#w200) |[**Naranja X**](naranjax/)|`naranjax`| 
 |![nationalach](https://static.openfintech.io/vendors/nationalach/logo.png?w=600&c=v0.59.26#w200) |[**NationalACH**](nationalach/)|`nationalach`| 
 |![nayem](https://static.openfintech.io/vendors/nayem/logo.png?w=600&c=v0.59.26#w200) |[**Nayem**](nayem/)|`nayem`| 
 |![nbkr](https://static.openfintech.io/vendors/nbkr/logo.svg?w=600&c=v0.59.26#w200) |[**National Bank of the Kyrgyz Republic**](nbkr/)|`nbkr`| 

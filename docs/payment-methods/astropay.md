@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Astropay_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![astropay](https://static.openfintech.io/payment_methods/astropay/icon.svg?w=278&c=v0.59.26#w100) |[astropay_try_hpp](/payment-services/astropay_try_hpp/)|`astropay_try_hpp`| 
+|![astropay](https://static.openfintech.io/payment_methods/astropay/icon.svg?w=278&c=v0.59.26#w100) |[astropay_ars_hpp](/payment-services/astropay_ars_hpp/)|`astropay_ars_hpp`| 
  
 
 ## Payment Providers 
@@ -46,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Astropay_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![maldopay](https://static.openfintech.io/payment_providers/maldopay/icon.png?w=278&c=v0.59.26#w100) |[MaldoPay](/payment-providers/maldopay/)|`maldopay`| 
+|![betterbro](https://static.openfintech.io/payment_providers/betterbro/icon.png?w=278&c=v0.59.26#w100) |[Betterbro](/payment-providers/betterbro/)|`betterbro`| 
  
 
 ## JSON Object 

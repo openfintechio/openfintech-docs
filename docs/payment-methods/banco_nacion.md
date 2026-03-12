@@ -46,6 +46,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Banco Nac
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payretailers](https://static.openfintech.io/payment_providers/payretailers/icon.svg?w=278&c=v0.59.26#w100) |[PayRetailers](/payment-providers/payretailers/)|`payretailers`| 
+|![betterbro](https://static.openfintech.io/payment_providers/betterbro/icon.png?w=278&c=v0.59.26#w100) |[Betterbro](/payment-providers/betterbro/)|`betterbro`| 
  
 
 ## JSON Object 

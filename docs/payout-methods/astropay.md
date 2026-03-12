@@ -46,6 +46,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Astropay_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![maldopay](https://static.openfintech.io/payment_providers/maldopay/icon.png?w=278&c=v0.59.26#w100) |[MaldoPay](/payment-providers/maldopay/)|`maldopay`| 
+|![betterbro](https://static.openfintech.io/payment_providers/betterbro/icon.png?w=278&c=v0.59.26#w100) |[Betterbro](/payment-providers/betterbro/)|`betterbro`| 
  
 
 ## JSON Object 
