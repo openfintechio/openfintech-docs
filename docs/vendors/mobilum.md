@@ -14,9 +14,6 @@
  
 **Status:** `active` 
  
-**Links:** 
-: website [https://mobilum.com](https://mobilum.com) 
- 
 
 ## Images 
 
@@ -48,9 +45,7 @@ https://static.openfintech.io/vendors/mobilum/icon.png?w=278&c=v0.59.26#w100
   },
   "status":"active",
   "description":null,
-  "links":{
-    "website":"https:\/\/mobilum.com"
-  },
+  "links":null,
   "countries":null,
   "contacts":null,
   "address":null,
