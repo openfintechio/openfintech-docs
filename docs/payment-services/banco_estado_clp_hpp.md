@@ -25,7 +25,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`personal_id`|✔|`string`|`/^.{1,128}$/`| 
+|`personal_id`|✗|`string`|`/^.{1,128}$/`| 
 |`document_type`|✗|`string`|`/^[A-Z]{2,3}$/`| 
 |`document_id`|✗|`string`|`/^[a-zA-Z0-9\.\-]{1,30}$/`| 
  
@@ -38,7 +38,7 @@
  
 	Regexp: `/^.{1,128}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Personal ID 
@@ -100,7 +100,7 @@
       "key":"personal_id",
       "type":"string",
       "regexp":"\/^.{1,128}$\/",
-      "required":true,
+      "required":false,
       "position":1,
       "label":{
         "en":"Personal ID",

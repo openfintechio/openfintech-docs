@@ -56,6 +56,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![binancepay](https://static.openfintech.io/payout_methods/binancepay/icon.svg?w=278&c=v0.59.26#w40) |[binancepay](payout-methodsbinancepay/)|`binancepay`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
  
 
 ## JSON Object 
@@ -78,7 +79,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "banco_nacion"
   ],
   "payout_method":[
-    "binancepay"
+    "binancepay",
+    "bank_transfer"
   ],
   "metadata":null,
   "name":{
