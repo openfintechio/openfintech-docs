@@ -47,6 +47,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix](/payment-methods/pix/)|`pix`| 
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay](/payment-methods/applepay/)|`applepay`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay](/payment-methods/googlepay/)|`googlepay`| 
+|![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking](/payment-methods/openbanking/)|`openbanking`| 
  
 
 ## Payout Methods 
@@ -76,7 +77,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "payment_card",
     "pix",
     "applepay",
-    "googlepay"
+    "googlepay",
+    "openbanking"
   ],
   "payout_method":[
     "payment_card",
