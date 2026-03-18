@@ -61,6 +61,9 @@ The list of [Payment Services](/payment-services/) based on the _Cash_
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_kzt_invoice](/payment-services/cash_kzt_invoice/)|`cash_kzt_invoice`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_egp_invoice](/payment-services/cash_egp_invoice/)|`cash_egp_invoice`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_krw_invoice](/payment-services/cash_krw_invoice/)|`cash_krw_invoice`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_hnl_hpp](/payment-services/cash_hnl_hpp/)|`cash_hnl_hpp`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_bob_hpp](/payment-services/cash_bob_hpp/)|`cash_bob_hpp`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_gtq_hpp](/payment-services/cash_gtq_hpp/)|`cash_gtq_hpp`| 
  
 
 ## Payment Providers 

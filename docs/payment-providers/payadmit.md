@@ -78,6 +78,9 @@ The list of supported [Payment Methods](/payment-methods/)
 |![epay](https://static.openfintech.io/payment_methods/epay/icon.svg?w=278&c=v0.59.26#w100) |[epay](/payment-methods/epay/)|`epay`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash](/payment-methods/cash/)|`cash`| 
 |![mach](https://static.openfintech.io/payment_methods/mach/icon.png?w=278&c=v0.59.26#w100) |[mach](/payment-methods/mach/)|`mach`| 
+|![qr_code](https://static.openfintech.io/payment_methods/qr_code/icon.svg?w=278&c=v0.59.26#w100) |[qr_code](/payment-methods/qr_code/)|`qr_code`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash](/payment-methods/cash/)|`cash`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
 |![qr_payment_aggregated](https://static.openfintech.io/payment_methods/qr_payment_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[qr_payment_aggregated](/payment-methods/qr_payment_aggregated/)|`qr_payment_aggregated`| 
 |![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix](/payment-methods/pix/)|`pix`| 
  
@@ -140,6 +143,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "epay",
     "cash",
     "mach",
+    "qr_code",
+    "cash",
+    "bank_transfer",
     "qr_payment_aggregated",
     "pix"
   ],

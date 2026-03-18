@@ -91,6 +91,10 @@ The list of [Payment Services](/payment-services/) based on the _Bank Transfer_
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_pyg_invoice](/payment-services/bank_transfer_pyg_invoice/)|`bank_transfer_pyg_invoice`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_pyg_hpp](/payment-services/bank_transfer_pyg_hpp/)|`bank_transfer_pyg_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_bhd_hpp](/payment-services/bank_transfer_bhd_hpp/)|`bank_transfer_bhd_hpp`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_uyu_hpp](/payment-services/bank_transfer_uyu_hpp/)|`bank_transfer_uyu_hpp`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_hnl_hpp](/payment-services/bank_transfer_hnl_hpp/)|`bank_transfer_hnl_hpp`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_bob_hpp](/payment-services/bank_transfer_bob_hpp/)|`bank_transfer_bob_hpp`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_gtq_hpp](/payment-services/bank_transfer_gtq_hpp/)|`bank_transfer_gtq_hpp`| 
  
 
 ## Payment Providers 
@@ -140,6 +144,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![payfuture](https://static.openfintech.io/payment_providers/payfuture/icon.svg?w=278&c=v0.59.26#w100) |[Payfuture](/payment-providers/payfuture/)|`payfuture`| 
 |![paysecure](https://static.openfintech.io/payment_providers/paysecure/icon.png?w=278&c=v0.59.26#w100) |[Paysecure](/payment-providers/paysecure/)|`paysecure`| 
 |![pay4fungo](https://static.openfintech.io/payment_providers/pay4fungo/icon.png?w=278&c=v0.59.26#w100) |[Pay4funGo](/payment-providers/pay4fungo/)|`pay4fungo`| 
+|![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
 |![inswitch](https://static.openfintech.io/payment_providers/inswitch/icon.png?w=278&c=v0.59.26#w100) |[Inswitch](/payment-providers/inswitch/)|`inswitch`| 
 |![kora](https://static.openfintech.io/payment_providers/kora/icon.svg?w=278&c=v0.59.26#w100) |[Kora](/payment-providers/kora/)|`kora`| 
 |![mids](https://static.openfintech.io/payment_providers/mids/icon.svg?w=278&c=v0.59.26#w100) |[MIDs](/payment-providers/mids/)|`mids`| 

@@ -794,6 +794,7 @@
 |![qiwi](https://static.openfintech.io/payment_methods/qiwi/logo.svg?w=400&c=v0.59.26#w200) |[**VISA QIWI Wallet**](qiwi/)|`qiwi`| 
 |![qnb_finansbank](https://static.openfintech.io/payment_methods/qnb_finansbank/logo.svg?w=400&c=v0.59.26#w200) |[**QNB Finansbank**](qnb_finansbank/)|`qnb_finansbank`| 
 |![qqpay](https://static.openfintech.io/payment_methods/qqpay/logo.svg?w=400&c=v0.59.26#w200) |[**QQPay**](qqpay/)|`qqpay`| 
+|![qr_code](https://static.openfintech.io/payment_methods/qr_code/logo.svg?w=400&c=v0.59.26#w200) |[**QR Code**](qr_code/)|`qr_code`| 
 |![qr_payment_aggregated](https://static.openfintech.io/payment_methods/qr_payment_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**QR Payment Aggregated**](qr_payment_aggregated/)|`qr_payment_aggregated`| 
 |![qr_ph](https://static.openfintech.io/payment_methods/qr_ph/logo.svg?w=400&c=v0.59.26#w200) |[**Qr Ph**](qr_ph/)|`qr_ph`| 
 |![qris](https://static.openfintech.io/payment_methods/qris/logo.svg?w=400&c=v0.59.26#w200) |[**QRIS**](qris/)|`qris`| 
