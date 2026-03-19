@@ -34,13 +34,13 @@ The list of [Payment Services](/payment-services/) based on the _QR Code_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
-|![qr_code](https://static.openfintech.io/payment_methods/qr_code/icon.svg?w=278&c=v0.59.26#w100) |[qr_uyu_hpp](/payment-services/qr_uyu_hpp/)|`qr_uyu_hpp`| 
-|![qr_code](https://static.openfintech.io/payment_methods/qr_code/icon.svg?w=278&c=v0.59.26#w100) |[qr_hnl_hpp](/payment-services/qr_hnl_hpp/)|`qr_hnl_hpp`| 
-|![qr_code](https://static.openfintech.io/payment_methods/qr_code/icon.svg?w=278&c=v0.59.26#w100) |[qr_bob_hpp](/payment-services/qr_bob_hpp/)|`qr_bob_hpp`| 
-|![qr_code](https://static.openfintech.io/payment_methods/qr_code/icon.svg?w=278&c=v0.59.26#w100) |[qr_gtq_hpp](/payment-services/qr_gtq_hpp/)|`qr_gtq_hpp`| 
-|![qr_code](https://static.openfintech.io/payment_methods/qr_code/icon.svg?w=278&c=v0.59.26#w100) |[qr_usd_hpp](/payment-services/qr_usd_hpp/)|`qr_usd_hpp`| 
-|![qr_code](https://static.openfintech.io/payment_methods/qr_code/icon.svg?w=278&c=v0.59.26#w100) |[qr_cop_hpp](/payment-services/qr_cop_hpp/)|`qr_cop_hpp`| 
-|![qr_code](https://static.openfintech.io/payment_methods/qr_code/icon.svg?w=278&c=v0.59.26#w100) |[qr_ars_hpp](/payment-services/qr_ars_hpp/)|`qr_ars_hpp`| 
+|![qr_code](https://static.openfintech.io/payment_methods/qr_code/icon.svg?w=278&c=v0.59.26#w100) |[qr_code_uyu_hpp](/payment-services/qr_code_uyu_hpp/)|`qr_code_uyu_hpp`| 
+|![qr_code](https://static.openfintech.io/payment_methods/qr_code/icon.svg?w=278&c=v0.59.26#w100) |[qr_code_hnl_hpp](/payment-services/qr_code_hnl_hpp/)|`qr_code_hnl_hpp`| 
+|![qr_code](https://static.openfintech.io/payment_methods/qr_code/icon.svg?w=278&c=v0.59.26#w100) |[qr_code_bob_hpp](/payment-services/qr_code_bob_hpp/)|`qr_code_bob_hpp`| 
+|![qr_code](https://static.openfintech.io/payment_methods/qr_code/icon.svg?w=278&c=v0.59.26#w100) |[qr_code_gtq_hpp](/payment-services/qr_code_gtq_hpp/)|`qr_code_gtq_hpp`| 
+|![qr_code](https://static.openfintech.io/payment_methods/qr_code/icon.svg?w=278&c=v0.59.26#w100) |[qr_code_usd_hpp](/payment-services/qr_code_usd_hpp/)|`qr_code_usd_hpp`| 
+|![qr_code](https://static.openfintech.io/payment_methods/qr_code/icon.svg?w=278&c=v0.59.26#w100) |[qr_code_cop_hpp](/payment-services/qr_code_cop_hpp/)|`qr_code_cop_hpp`| 
+|![qr_code](https://static.openfintech.io/payment_methods/qr_code/icon.svg?w=278&c=v0.59.26#w100) |[qr_code_ars_hpp](/payment-services/qr_code_ars_hpp/)|`qr_code_ars_hpp`| 
  
 
 ## Payment Providers 
