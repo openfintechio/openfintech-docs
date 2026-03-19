@@ -37,6 +37,7 @@ The list of [Payout Services](/payout-services/) based on the _Interac Online_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![interac](https://static.openfintech.io/payout_methods/interac/icon.svg?w=278&c=v0.59.26#w40) |[interac_cad](/payout-services/interac_cad/)|`interac_cad`| 
+|![interac](https://static.openfintech.io/payout_methods/interac/icon.svg?w=278&c=v0.59.26#w40) |[interac_eur](/payout-services/interac_eur/)|`interac_eur`| 
  
 
 ## Payment Providers 
