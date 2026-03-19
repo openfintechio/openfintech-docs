@@ -504,6 +504,7 @@
 |![ciberpay](https://static.openfintech.io/vendors/ciberpay/logo.png?w=600&c=v0.59.26#w200) |[**Ciber Pay**](ciberpay/)|`ciberpay`| 
 |![cielo](https://static.openfintech.io/vendors/cielo/logo.png?w=600&c=v0.59.26#w200) |[**Cielo**](cielo/)|`cielo`| 
 |![cimbclicksinternetbanking](https://static.openfintech.io/vendors/cimbclicksinternetbanking/logo.png?w=600&c=v0.59.26#w200) |[**CIMBClicks**](cimbclicksinternetbanking/)|`cimbclicksinternetbanking`| 
+|![circoflows](https://static.openfintech.io/vendors/circoflows/logo.png?w=600&c=v0.59.26#w200) |[**CircoFlows**](circoflows/)|`circoflows`| 
 |![circulopayments](https://static.openfintech.io/vendors/circulopayments/logo.png?w=600&c=v0.59.26#w200) |[**Circulo Payments**](circulopayments/)|`circulopayments`| 
 |![cirxuspay](https://static.openfintech.io/vendors/cirxuspay/logo.png?w=600&c=v0.59.26#w200) |[**Cirxus Pay**](cirxuspay/)|`cirxuspay`| 
 |![citadelelatvia](https://static.openfintech.io/vendors/citadelelatvia/logo.png?w=600&c=v0.59.26#w200) |[**Citadele Latvia**](citadelelatvia/)|`citadelelatvia`| 
