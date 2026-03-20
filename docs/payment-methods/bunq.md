@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bunq_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![spoynt](https://static.openfintech.io/payment_providers/spoynt/icon.svg?w=278&c=v0.59.26#w100) |[Spoynt](/payment-providers/spoynt/)|`spoynt`| 
 |![saltedge](https://static.openfintech.io/payment_providers/saltedge/icon.svg?w=278&c=v0.59.26#w100) |[Salt Edge](/payment-providers/saltedge/)|`saltedge`| 
  
 

@@ -969,6 +969,7 @@
 |![truemoney](https://static.openfintech.io/payment_methods/truemoney/logo.png?w=400&c=v0.59.26#w200) |[**True Money Wallet**](truemoney/)|`truemoney`| 
 |![trustly](https://static.openfintech.io/payment_methods/trustly/logo.svg?w=400&c=v0.59.26#w200) |[**Trustly**](trustly/)|`trustly`| 
 |![trustly_paynplay](https://static.openfintech.io/payment_methods/trustly_paynplay/logo.svg?w=400&c=v0.59.26#w200) |[**Trustly Pay N Play**](trustly_paynplay/)|`trustly_paynplay`| 
+|![tunzer](https://static.openfintech.io/payment_methods/tunzer/logo.png?w=400&c=v0.59.26#w200) |[**Tunzer**](tunzer/)|`tunzer`| 
 |![tupay](https://static.openfintech.io/payment_methods/tupay/logo.svg?w=400&c=v0.59.26#w200) |[**Tupay**](tupay/)|`tupay`| 
 |![tupay_bank_transfers](https://static.openfintech.io/payment_methods/tupay_bank_transfers/logo.svg?w=400&c=v0.59.26#w200) |[**Tupay Bank Transfers**](tupay_bank_transfers/)|`tupay_bank_transfers`| 
 |![tupay_qr](https://static.openfintech.io/payment_methods/tupay_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Tupay QR**](tupay_qr/)|`tupay_qr`| 

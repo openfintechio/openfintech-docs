@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Capitec P
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![spoynt](https://static.openfintech.io/payment_providers/spoynt/icon.svg?w=278&c=v0.59.26#w100) |[Spoynt](/payment-providers/spoynt/)|`spoynt`| 
 |![ozow](https://static.openfintech.io/payment_providers/ozow/icon.png?w=278&c=v0.59.26#w100) |[Ozow](/payment-providers/ozow/)|`ozow`| 
  
 

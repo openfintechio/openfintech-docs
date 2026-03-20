@@ -58,9 +58,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![mb_way](https://static.openfintech.io/payment_methods/mb_way/icon.svg?w=278&c=v0.59.26#w100) |[mb_way](/payment-methods/mb_way/)|`mb_way`| 
 |![multibanco](https://static.openfintech.io/payment_methods/multibanco/icon.png?w=278&c=v0.59.26#w100) |[multibanco](/payment-methods/multibanco/)|`multibanco`| 
 |![payshop](https://static.openfintech.io/payment_methods/payshop/icon.png?w=278&c=v0.59.26#w100) |[payshop](/payment-methods/payshop/)|`payshop`| 
-|![bizum](https://static.openfintech.io/payment_methods/bizum/icon.png?w=278&c=v0.59.26#w100) |[bizum](/payment-methods/bizum/)|`bizum`| 
 |![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik](/payment-methods/blik/)|`blik`| 
-|![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.png?w=278&c=v0.59.26#w100) |[przelewy24](/payment-methods/przelewy24/)|`przelewy24`| 
 |![eps](https://static.openfintech.io/payment_methods/eps/icon.png?w=278&c=v0.59.26#w100) |[eps](/payment-methods/eps/)|`eps`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
 |![swiffy_eft](https://static.openfintech.io/payment_methods/swiffy_eft/icon.png?w=278&c=v0.59.26#w100) |[swiffy_eft](/payment-methods/swiffy_eft/)|`swiffy_eft`| 
@@ -98,6 +96,13 @@ The list of supported [Payment Methods](/payment-methods/)
 |![card_transfer](https://static.openfintech.io/payment_methods/card_transfer/icon.svg?w=278&c=v0.59.26#w100) |[card_transfer](/payment-methods/card_transfer/)|`card_transfer`| 
 |![m10](https://static.openfintech.io/payment_methods/m10/icon.png?w=278&c=v0.59.26#w100) |[m10](/payment-methods/m10/)|`m10`| 
 |![emanat](https://static.openfintech.io/payment_methods/emanat/icon.png?w=278&c=v0.59.26#w100) |[emanat](/payment-methods/emanat/)|`emanat`| 
+|![sepa_transfer_instant](https://static.openfintech.io/payment_methods/sepa_transfer_instant/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_instant](/payment-methods/sepa_transfer_instant/)|`sepa_transfer_instant`| 
+|![revolut_bank](https://static.openfintech.io/payment_methods/revolut_bank/icon.png?w=278&c=v0.59.26#w100) |[revolut_bank](/payment-methods/revolut_bank/)|`revolut_bank`| 
+|![wise](https://static.openfintech.io/payment_methods/wise/icon.svg?w=278&c=v0.59.26#w100) |[wise](/payment-methods/wise/)|`wise`| 
+|![n26_bank](https://static.openfintech.io/payment_methods/n26_bank/icon.png?w=278&c=v0.59.26#w100) |[n26_bank](/payment-methods/n26_bank/)|`n26_bank`| 
+|![bunq](https://static.openfintech.io/payment_methods/bunq/icon.png?w=278&c=v0.59.26#w100) |[bunq](/payment-methods/bunq/)|`bunq`| 
+|![capitec_pay](https://static.openfintech.io/payment_methods/capitec_pay/icon.svg?w=278&c=v0.59.26#w100) |[capitec_pay](/payment-methods/capitec_pay/)|`capitec_pay`| 
+|![vodafone_pay](https://static.openfintech.io/payment_methods/vodafone_pay/icon.png?w=278&c=v0.59.26#w100) |[vodafone_pay](/payment-methods/vodafone_pay/)|`vodafone_pay`| 
  
 
 ## Payout Methods 
@@ -186,9 +191,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "mb_way",
     "multibanco",
     "payshop",
-    "bizum",
     "blik",
-    "przelewy24",
     "eps",
     "bank_transfer",
     "swiffy_eft",
@@ -225,7 +228,14 @@ The list of supported [Payout Methods](/payout-methods/)
     "interac",
     "card_transfer",
     "m10",
-    "emanat"
+    "emanat",
+    "sepa_transfer_instant",
+    "revolut_bank",
+    "wise",
+    "n26_bank",
+    "bunq",
+    "capitec_pay",
+    "vodafone_pay"
   ],
   "payout_method":[
     "payment_card",

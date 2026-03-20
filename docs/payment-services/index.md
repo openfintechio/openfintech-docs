@@ -2102,6 +2102,10 @@
 |![Trustly](https://static.openfintech.io/payment_methods/trustly/logo.svg?w=400&c=v0.59.26#w200) |[**Trustly**](/payment-methods/trustly/)|[`trustly_gbp_hpp`](trustly_gbp_hpp/)| 
 |![Trustly Pay N Play](https://static.openfintech.io/payment_methods/trustly_paynplay/logo.svg?w=400&c=v0.59.26#w200) |[**Trustly Pay N Play**](/payment-methods/trustly_paynplay/)|[`trustly_paynplay_eur_hpp`](trustly_paynplay_eur_hpp/)| 
 |![Trustly](https://static.openfintech.io/payment_methods/trustly/logo.svg?w=400&c=v0.59.26#w200) |[**Trustly**](/payment-methods/trustly/)|[`trustly_pln_hpp`](trustly_pln_hpp/)| 
+|![Tunzer](https://static.openfintech.io/payment_methods/tunzer/logo.png?w=400&c=v0.59.26#w200) |[**Tunzer**](/payment-methods/tunzer/)|[`tunzer_dkk_hpp`](tunzer_dkk_hpp/)| 
+|![Tunzer](https://static.openfintech.io/payment_methods/tunzer/logo.png?w=400&c=v0.59.26#w200) |[**Tunzer**](/payment-methods/tunzer/)|[`tunzer_eur_hpp`](tunzer_eur_hpp/)| 
+|![Tunzer](https://static.openfintech.io/payment_methods/tunzer/logo.png?w=400&c=v0.59.26#w200) |[**Tunzer**](/payment-methods/tunzer/)|[`tunzer_gbp_hpp`](tunzer_gbp_hpp/)| 
+|![Tunzer](https://static.openfintech.io/payment_methods/tunzer/logo.png?w=400&c=v0.59.26#w200) |[**Tunzer**](/payment-methods/tunzer/)|[`tunzer_pln_hpp`](tunzer_pln_hpp/)| 
 |![Tupay Bank Transfers](https://static.openfintech.io/payment_methods/tupay_bank_transfers/logo.svg?w=400&c=v0.59.26#w200) |[**Tupay Bank Transfers**](/payment-methods/tupay_bank_transfers/)|[`tupay_bank_transfers_pen_hpp`](tupay_bank_transfers_pen_hpp/)| 
 |![Tupay](https://static.openfintech.io/payment_methods/tupay/logo.svg?w=400&c=v0.59.26#w200) |[**Tupay**](/payment-methods/tupay/)|[`tupay_pen_hpp`](tupay_pen_hpp/)| 
 |![Tupay QR](https://static.openfintech.io/payment_methods/tupay_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Tupay QR**](/payment-methods/tupay_qr/)|[`tupay_qr_pen_hpp`](tupay_qr_pen_hpp/)| 
