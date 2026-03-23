@@ -46,6 +46,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Sepa Tran
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![spoynt](https://static.openfintech.io/payment_providers/spoynt/icon.svg?w=278&c=v0.59.26#w100) |[Spoynt](/payment-providers/spoynt/)|`spoynt`| 
+|![token](https://static.openfintech.io/payment_providers/token/icon.png?w=278&c=v0.59.26#w100) |[Token.io](/payment-providers/token/)|`token`| 
 |![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 
 |![saltedge](https://static.openfintech.io/payment_providers/saltedge/icon.svg?w=278&c=v0.59.26#w100) |[Salt Edge](/payment-providers/saltedge/)|`saltedge`| 
  

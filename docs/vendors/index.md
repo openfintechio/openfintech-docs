@@ -2209,6 +2209,7 @@
 |![todapay](https://static.openfintech.io/vendors/todapay/logo.png?w=600&c=v0.59.26#w200) |[**TODA Pay**](todapay/)|`todapay`| 
 |![toditocash](https://static.openfintech.io/vendors/toditocash/logo.png?w=600&c=v0.59.26#w200) |[**Todito Cash**](toditocash/)|`toditocash`| 
 |![tohoku_bank](https://static.openfintech.io/vendors/tohoku_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Tohoku Bank**](tohoku_bank/)|`tohoku_bank`| 
+|![token](https://static.openfintech.io/vendors/token/logo.svg?w=600&c=v0.59.26#w200) |[**Token.io**](token/)|`token`| 
 |![tokushima_bank](https://static.openfintech.io/vendors/tokushima_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Tokushima Bank**](tokushima_bank/)|`tokushima_bank`| 
 |![tokyo_star_bank](https://static.openfintech.io/vendors/tokyo_star_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Tokyo Star Bank**](tokyo_star_bank/)|`tokyo_star_bank`| 
 |![tomato_bank](https://static.openfintech.io/vendors/tomato_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Tomato Bank**](tomato_bank/)|`tomato_bank`| 

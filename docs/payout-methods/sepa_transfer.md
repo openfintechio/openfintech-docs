@@ -60,6 +60,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Sepa Tran
 |![noda](https://static.openfintech.io/payment_providers/noda/icon.svg?w=278&c=v0.59.26#w100) |[Noda](/payment-providers/noda/)|`noda`| 
 |![katarun](https://static.openfintech.io/payment_providers/katarun/icon.png?w=278&c=v0.59.26#w100) |[Katarun](/payment-providers/katarun/)|`katarun`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
+|![token](https://static.openfintech.io/payment_providers/token/icon.png?w=278&c=v0.59.26#w100) |[Token.io](/payment-providers/token/)|`token`| 
 |![vendo](https://static.openfintech.io/payment_providers/vendo/icon.png?w=278&c=v0.59.26#w100) |[Vendo](/payment-providers/vendo/)|`vendo`| 
 |![yotta](https://static.openfintech.io/payment_providers/yotta/icon.svg?w=278&c=v0.59.26#w100) |[Yotta Pay](/payment-providers/yotta/)|`yotta`| 
 |![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 

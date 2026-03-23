@@ -40,6 +40,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik](/payment-methods/blik/)|`blik`| 
+|![mobilum](https://static.openfintech.io/payment_methods/mobilum/icon.png?w=278&c=v0.59.26#w100) |[mobilum](/payment-methods/mobilum/)|`mobilum`| 
  
 
 ## JSON Object 
@@ -52,7 +53,8 @@ The list of supported [Payment Methods](/payment-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    "blik"
+    "blik",
+    "mobilum"
   ],
   "payout_method":null,
   "metadata":null,
