@@ -44,6 +44,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay](/payment-methods/applepay/)|`applepay`| 
 |![revolut_bank](https://static.openfintech.io/payment_methods/revolut_bank/icon.png?w=278&c=v0.59.26#w100) |[revolut_bank](/payment-methods/revolut_bank/)|`revolut_bank`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
+|![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w100) |[paysafecard](/payment-methods/paysafecard/)|`paysafecard`| 
 |![payskin](https://static.openfintech.io/payment_methods/payskin/icon.svg?w=278&c=v0.59.26#w100) |[payskin](/payment-methods/payskin/)|`payskin`| 
 |![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether](/payment-methods/tether/)|`tether`| 
 |![n26_bank](https://static.openfintech.io/payment_methods/n26_bank/icon.png?w=278&c=v0.59.26#w100) |[n26_bank](/payment-methods/n26_bank/)|`n26_bank`| 
@@ -69,6 +70,7 @@ The list of supported [Payment Methods](/payment-methods/)
     "applepay",
     "revolut_bank",
     "bank_transfer",
+    "paysafecard",
     "payskin",
     "tether",
     "n26_bank",
