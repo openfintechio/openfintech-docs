@@ -34,6 +34,8 @@
 |`beneficiary_country`|✗|`string`|`/^[A-Z]{2}$/`| 
 |`beneficiary_country_code_iso`|✗|`string`|`/^.{2,6}$/`| 
 |`beneficiary_date_of_birth`|✗|`string`|`/^\d{4}-\d{2}-\d{2}$/`| 
+|`bic_number`|✗|`string`|`/^[A-Z]{4}[A-Z]{2}[A-Z0-9]{2}([A-Z0-9]{3})?$/`| 
+|`beneficiary_state`|✗|`string`|`/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/`| 
  
 
 ### Details 
@@ -217,6 +219,42 @@
 	: [EN] Date of birth 
 	: [RU] Дата рождения 
 	: [UK] Дата народження 
+ 
+11. **`bic_number`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Z]{4}[A-Z]{2}[A-Z0-9]{2}([A-Z0-9]{3})?$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] BIC number 
+	: [RU] Номер BIC 
+	: [UK] Номер BIC 
+ 
+	Hint:  
+	: [EN] Enter BIC number 
+	: [RU] Введите номер BIC 
+	: [UK] Введіть номер BIC 
+ 
+12. **`beneficiary_state`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-zА-Яа-я,\s\-\d]{2,64}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary state 
+	: [RU] Beneficiary state 
+	: [UK] Beneficiary state 
+ 
+	Hint:  
+	: [EN] Enter beneficiary state 
+	: [RU] Введите beneficiary state 
+	: [UK] Введіть beneficiary state 
  
 
 ## JSON Object 
@@ -404,6 +442,41 @@
       "required":false,
       "position":10,
       "example":"1999-02-02"
+    },
+    {
+      "key":"bic_number",
+      "type":"string",
+      "label":{
+        "en":"BIC number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 BIC",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 BIC"
+      },
+      "hint":{
+        "en":"Enter BIC number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 BIC",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 BIC"
+      },
+      "regexp":"\/^[A-Z]{4}[A-Z]{2}[A-Z0-9]{2}([A-Z0-9]{3})?$\/",
+      "required":false,
+      "position":11,
+      "example":"ABCDEEU1XXX"
+    },
+    {
+      "key":"beneficiary_state",
+      "type":"string",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f,\\s\\-\\d]{2,64}$\/",
+      "required":false,
+      "position":12,
+      "label":{
+        "en":"Beneficiary state",
+        "ru":"Beneficiary state",
+        "uk":"Beneficiary state"
+      },
+      "hint":{
+        "en":"Enter beneficiary state",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 beneficiary state",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c beneficiary state"
+      }
     }
   ],
   "amount_min":"0.01",
