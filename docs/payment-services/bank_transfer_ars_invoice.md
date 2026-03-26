@@ -27,7 +27,7 @@
 |:---:|:---:|:---:|:---:| 
 |`document_type`|✗|`string`|`/^.{1,3}$/`| 
 |`document_id`|✗|`string`|`/^[0-9]{1,100}$/`| 
-|`bank_name`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
+|`bank_name`|✗|`string`|`/^.{2,50}$/`| 
 |`beneficiary_account_number`|✗|`string`|`/^.{1,50}$/`| 
  
 
@@ -73,7 +73,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-z0-9]{2,20}$/` 
+	Regexp: `/^.{2,50}$/` 
  
 	Required: `` 
  
@@ -153,7 +153,7 @@
     {
       "key":"bank_name",
       "type":"string",
-      "regexp":"\/^[A-Za-z0-9]{2,20}$\/",
+      "regexp":"\/^.{2,50}$\/",
       "required":false,
       "position":2,
       "label":{
