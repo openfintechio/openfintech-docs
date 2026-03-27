@@ -46,6 +46,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Nagad Dig
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![assanpay](https://static.openfintech.io/payment_providers/assanpay/icon.png?w=278&c=v0.59.26#w100) |[AssanPay](/payment-providers/assanpay/)|`assanpay`| 
+|![lqpay](https://static.openfintech.io/payment_providers/lqpay/icon.png?w=278&c=v0.59.26#w100) |[Lqpay](/payment-providers/lqpay/)|`lqpay`| 
  
 
 ## JSON Object 
