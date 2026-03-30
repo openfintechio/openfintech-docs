@@ -1082,6 +1082,7 @@
 |![ipaymu](https://static.openfintech.io/vendors/ipaymu/logo.png?w=600&c=v0.59.26#w200) |[**IPAYMU**](ipaymu/)|`ipaymu`| 
 |![ipaytotal](https://static.openfintech.io/vendors/ipaytotal/logo.svg?w=600&c=v0.59.26#w200) |[**IPaytotal**](ipaytotal/)|`ipaytotal`| 
 |![ippayments](https://static.openfintech.io/vendors/ippayments/logo.png?w=600&c=v0.59.26#w200) |[**IP Payments**](ippayments/)|`ippayments`| 
+|![isx](https://static.openfintech.io/vendors/isx/logo.svg?w=600&c=v0.59.26#w200) |[**ISX**](isx/)|`isx`| 
 |![ivano_frankivska_region_fprat_ufg](https://static.openfintech.io/vendors/ivano_frankivska_region_fprat_ufg/logo.svg?w=600&c=v0.59.26#w200) |[**Івано-Франківська регіональна філія ПрАТ 'Українська фінансова група'**](ivano_frankivska_region_fprat_ufg/)|`ivano_frankivska_region_fprat_ufg`| 
 |![ivrbilling](https://static.openfintech.io/vendors/ivrbilling/logo.png?w=600&c=v0.59.26#w200) |[**IVR Billing**](ivrbilling/)|`ivrbilling`| 
 |![iwate_bank](https://static.openfintech.io/vendors/iwate_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Iwate Bank**](iwate_bank/)|`iwate_bank`| 

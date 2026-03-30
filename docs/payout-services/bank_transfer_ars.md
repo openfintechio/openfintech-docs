@@ -32,7 +32,7 @@
 |`bank_account`|✗|`string`|`/^[0-9]{1,30}$/`| 
 |`bank_branch`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`beneficiary_address`|✗|`string`|`/^.{1,255}$/`| 
-|`beneficiary_document_id`|✗|`string`|`/^[A-Z0-9]{3,20}$/`| 
+|`beneficiary_document_id`|✗|`string`|`/^[a-zA-Z0-9\.\-]{1,100}$/`| 
 |`beneficiary_country_code_iso`|✗|`string`|`/^[A-Z]{2}$/`| 
 |`beneficiary_email`|✗|`string`|`/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$$/`| 
 |`beneficiary_phone`|✗|`string`|`/^\d{10,14}$/`| 
@@ -46,7 +46,7 @@
 |`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
 |`bank_branch_code`|✗|`string`|`/^[A-Za-z0-9]{2,100}$/`| 
 |`document_type`|✗|`string`|`/^.{1,32}$/`| 
-|`document_id`|✗|`string`|`/^[0-9]{1,30}$/`| 
+|`document_id`|✗|`string`|`/^[a-zA-Z0-9\.\-]{1,100}$/`| 
 |`cbu_cvu_alias`|✗|`string`|`/^[a-zA-Z0-9.\-]{6,20}$/`| 
  
 
@@ -200,7 +200,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z0-9]{3,20}$/` 
+	Regexp: `/^[a-zA-Z0-9\.\-]{1,100}$/` 
  
 	Required: `` 
  
@@ -452,7 +452,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9]{1,30}$/` 
+	Regexp: `/^[a-zA-Z0-9\.\-]{1,100}$/` 
  
 	Required: `` 
  
@@ -633,7 +633,7 @@
     {
       "key":"beneficiary_document_id",
       "type":"string",
-      "regexp":"\/^[A-Z0-9]{3,20}$\/",
+      "regexp":"\/^[a-zA-Z0-9\\.\\-]{1,100}$\/",
       "required":false,
       "position":9,
       "label":{
@@ -878,7 +878,7 @@
     {
       "key":"document_id",
       "type":"string",
-      "regexp":"\/^[0-9]{1,30}$\/",
+      "regexp":"\/^[a-zA-Z0-9\\.\\-]{1,100}$\/",
       "required":false,
       "position":23,
       "label":{

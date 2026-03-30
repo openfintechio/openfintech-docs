@@ -492,6 +492,7 @@
 |![ipaymu](https://static.openfintech.io/payment_providers/ipaymu/logo.png?w=600&c=v0.59.26#w100) |[**IPAYMU**](ipaymu/)|`ipaymu`| 
 |![ipaytotal](https://static.openfintech.io/payment_providers/ipaytotal/logo.png?w=600&c=v0.59.26#w100) |[**IPaytotal**](ipaytotal/)|`ipaytotal`| 
 |![ippayments](https://static.openfintech.io/payment_providers/ippayments/logo.png?w=600&c=v0.59.26#w100) |[**IP Payments**](ippayments/)|`ippayments`| 
+|![isx](https://static.openfintech.io/payment_providers/isx/logo.svg?w=600&c=v0.59.26#w100) |[**ISX**](isx/)|`isx`| 
 |![iyzipayments](https://static.openfintech.io/payment_providers/iyzipayments/logo.png?w=600&c=v0.59.26#w100) |[**iyzico**](iyzipayments/)|`iyzipayments`| 
 || **J** ||
 |![jambopay](https://static.openfintech.io/payment_providers/jambopay/logo.png?w=600&c=v0.59.26#w100) |[**Jambopay**](jambopay/)|`jambopay`| 

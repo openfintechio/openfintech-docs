@@ -26,7 +26,7 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`document_type`|✗|`string`|`/^.{1,32}$/`| 
-|`document_id`|✗|`string`|`/^[0-9]{1,11}$/`| 
+|`document_id`|✗|`string`|`/^[a-zA-Z0-9\.\-]{1,100}$/`| 
  
 
 ### Details 
@@ -53,7 +53,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9]{1,11}$/` 
+	Regexp: `/^[a-zA-Z0-9\.\-]{1,100}$/` 
  
 	Required: `` 
  
@@ -97,7 +97,7 @@
     {
       "key":"document_id",
       "type":"string",
-      "regexp":"\/^[0-9]{1,11}$\/",
+      "regexp":"\/^[a-zA-Z0-9\\.\\-]{1,100}$\/",
       "required":false,
       "position":2,
       "label":{
