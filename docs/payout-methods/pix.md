@@ -57,6 +57,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PIX_
 |![onlineips](https://static.openfintech.io/payment_providers/onlineips/icon.png?w=278&c=v0.59.26#w100) |[Online IPS](/payment-providers/onlineips/)|`onlineips`| 
 |![paycos](https://static.openfintech.io/payment_providers/paycos/icon.svg?w=278&c=v0.59.26#w100) |[PAYCOS](/payment-providers/paycos/)|`paycos`| 
 |![payretailers](https://static.openfintech.io/payment_providers/payretailers/icon.svg?w=278&c=v0.59.26#w100) |[PayRetailers](/payment-providers/payretailers/)|`payretailers`| 
+|![starpago](https://static.openfintech.io/payment_providers/starpago/icon.png?w=278&c=v0.59.26#w100) |[Starpago](/payment-providers/starpago/)|`starpago`| 
 |![pagsmile](https://static.openfintech.io/payment_providers/pagsmile/icon.png?w=278&c=v0.59.26#w100) |[Pagsmile](/payment-providers/pagsmile/)|`pagsmile`| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
 |![paysecure](https://static.openfintech.io/payment_providers/paysecure/icon.png?w=278&c=v0.59.26#w100) |[Paysecure](/payment-providers/paysecure/)|`paysecure`| 

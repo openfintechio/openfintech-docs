@@ -2130,6 +2130,7 @@
 |![standard_chartered_bank_ghana_limited](https://static.openfintech.io/vendors/standard_chartered_bank_ghana_limited/logo.svg?w=600&c=v0.59.26#w200) |[**Standard Chartered Bank Ghana Limited**](standard_chartered_bank_ghana_limited/)|`standard_chartered_bank_ghana_limited`| 
 |![standard_chartered_bank_kenya](https://static.openfintech.io/vendors/standard_chartered_bank_kenya/logo.svg?w=600&c=v0.59.26#w200) |[**Standard Chartered Bank Kenya**](standard_chartered_bank_kenya/)|`standard_chartered_bank_kenya`| 
 |![starkbank](https://static.openfintech.io/vendors/starkbank/logo.png?w=600&c=v0.59.26#w200) |[**STARK BANK**](starkbank/)|`starkbank`| 
+|![starpago](https://static.openfintech.io/vendors/starpago/logo.png?w=600&c=v0.59.26#w200) |[**Starpago**](starpago/)|`starpago`| 
 |![start2pay](https://static.openfintech.io/vendors/start2pay/logo.png?w=600&c=v0.59.26#w200) |[**Start2Pay**](start2pay/)|`start2pay`| 
 |![startbutton](https://static.openfintech.io/vendors/startbutton/logo.png?w=600&c=v0.59.26#w200) |[**Startbutton**](startbutton/)|`startbutton`| 
 |![stellar](https://static.openfintech.io/vendors/stellar/logo.svg?w=600&c=v0.59.26#w200) |[**Stellar**](stellar/)|`stellar`| 
