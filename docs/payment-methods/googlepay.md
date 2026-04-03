@@ -122,6 +122,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Google Pa
 |![libernetix](https://static.openfintech.io/payment_providers/libernetix/icon.svg?w=278&c=v0.59.26#w100) |[Libernetix](/payment-providers/libernetix/)|`libernetix`| 
 |![aliumpay](https://static.openfintech.io/payment_providers/aliumpay/icon.svg?w=278&c=v0.59.26#w100) |[AliumPay](/payment-providers/aliumpay/)|`aliumpay`| 
 |![btgate](https://static.openfintech.io/payment_providers/btgate/icon.png?w=278&c=v0.59.26#w100) |[btGate](/payment-providers/btgate/)|`btgate`| 
+|![freepayment](https://static.openfintech.io/payment_providers/freepayment/icon.png?w=278&c=v0.59.26#w100) |[FreePayment](/payment-providers/freepayment/)|`freepayment`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
 |![jmitsolutions](https://static.openfintech.io/payment_providers/jmitsolutions/icon.svg?w=278&c=v0.59.26#w100) |[JM IT Solutions](/payment-providers/jmitsolutions/)|`jmitsolutions`| 
 |![altitudepay](https://static.openfintech.io/payment_providers/altitudepay/icon.svg?w=278&c=v0.59.26#w100) |[Altitude Pay](/payment-providers/altitudepay/)|`altitudepay`| 
