@@ -42,6 +42,7 @@
 |`document_id`|✗|`string`|`/^.{1,100}$/`| 
 |`account_type`|✗|`string`|`/^(CPF\|CNPJ\|EVP\|PHONE\|EMAIL\|RANDOMKEY)$/`| 
 |`bank_account_type`|✗|`string`|`/^(saving\|personal)$/`| 
+|`account_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
  
 
 ### Details 
@@ -370,6 +371,24 @@
 	: [RU] Введите тип банковского аккаунта получателя 
 	: [UK] Введіть тип банковського облікового запису отримувача 
  
+19. **`account_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Account name 
+	: [RU] Название счета 
+	: [UK] Назва рахунку 
+ 
+	Hint:  
+	: [EN] Enter account name 
+	: [RU] Введите название счета 
+	: [UK] Введіть назву рахунку 
+ 
 
 ## JSON Object 
 
@@ -692,6 +711,24 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u043f\u0438\u0441\u0443 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
       },
       "example":"personal"
+    },
+    {
+      "key":"account_name",
+      "type":"string",
+      "label":{
+        "en":"Account name",
+        "ru":"\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u041d\u0430\u0437\u0432\u0430 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter account name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0441\u0447\u0435\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u0430\u0437\u0432\u0443 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
+      },
+      "example":"Empresa XYZ Ltda",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\d\\s]{2,100}$\/",
+      "required":false,
+      "position":19
     }
   ],
   "amount_min":1,
