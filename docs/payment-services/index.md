@@ -463,6 +463,7 @@
 |![BLIK](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](/payment-methods/blik/)|[`blik_pln_hpp`](blik_pln_hpp/)| 
 |![BLIK](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](/payment-methods/blik/)|[`blik_pln_invoice`](blik_pln_invoice/)| 
 |![BLIK](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](/payment-methods/blik/)|[`blik_usd_hpp`](blik_usd_hpp/)| 
+|![Blik widget](https://static.openfintech.io/payment_methods/blik_widget_m/logo.svg?w=400&c=v0.59.26#w200) |[**Blik widget**](/payment-methods/blik_widget_m/)|[`blik_widget_m_pln_invoice`](blik_widget_m_pln_invoice/)| 
 |![BNCVA](https://static.openfintech.io/payment_methods/bnc_va/logo.svg?w=400&c=v0.59.26#w200) |[**BNCVA**](/payment-methods/bnc_va/)|[`bnc_va_idr_hpp`](bnc_va_idr_hpp/)| 
 |![BNIVA](https://static.openfintech.io/payment_methods/bni_va/logo.svg?w=400&c=v0.59.26#w200) |[**BNIVA**](/payment-methods/bni_va/)|[`bni_va_idr_hpp`](bni_va_idr_hpp/)| 
 |![BNP Paribas Bank](https://static.openfintech.io/payment_methods/bnp_paribas_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BNP Paribas Bank**](/payment-methods/bnp_paribas_bank/)|[`bnp_paribas_bank_eur_hpp`](bnp_paribas_bank_eur_hpp/)| 

@@ -193,6 +193,7 @@
 |![bkash_p2p](https://static.openfintech.io/payment_methods/bkash_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**Bkash p2p**](bkash_p2p/)|`bkash_p2p`| 
 |![bkmexpress](https://static.openfintech.io/payment_methods/bkmexpress/logo.png?w=400&c=v0.59.26#w200) |[**BKM Express**](bkmexpress/)|`bkmexpress`| 
 |![blik](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](blik/)|`blik`| 
+|![blik_widget_m](https://static.openfintech.io/payment_methods/blik_widget_m/logo.svg?w=400&c=v0.59.26#w200) |[**Blik widget**](blik_widget_m/)|`blik_widget_m`| 
 |![bnc_va](https://static.openfintech.io/payment_methods/bnc_va/logo.svg?w=400&c=v0.59.26#w200) |[**BNCVA**](bnc_va/)|`bnc_va`| 
 |![bni_va](https://static.openfintech.io/payment_methods/bni_va/logo.svg?w=400&c=v0.59.26#w200) |[**BNIVA**](bni_va/)|`bni_va`| 
 |![bnp_paribas_bank](https://static.openfintech.io/payment_methods/bnp_paribas_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BNP Paribas Bank**](bnp_paribas_bank/)|`bnp_paribas_bank`| 
