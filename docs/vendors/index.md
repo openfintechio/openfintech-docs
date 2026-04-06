@@ -2227,6 +2227,7 @@
 |![tottori_bank](https://static.openfintech.io/vendors/tottori_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Tottori Bank**](tottori_bank/)|`tottori_bank`| 
 |![touchngo](https://static.openfintech.io/vendors/touchngo/logo.svg?w=600&c=v0.59.26#w200) |[**Touch‘n Go**](touchngo/)|`touchngo`| 
 |![touhou_bank](https://static.openfintech.io/vendors/touhou_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Touhou Bank**](touhou_bank/)|`touhou_bank`| 
+|![tourapay](https://static.openfintech.io/vendors/tourapay/logo.png?w=600&c=v0.59.26#w200) |[**TouraPay**](tourapay/)|`tourapay`| 
 |![tov_24_onlajn](https://static.openfintech.io/vendors/tov_24_onlajn/logo.svg?w=600&c=v0.59.26#w200) |[**ТОВ '24 ОНЛАЙН'**](tov_24_onlajn/)|`tov_24_onlajn`| 
 |![tov_aj_ti_finans](https://static.openfintech.io/vendors/tov_aj_ti_finans/logo.svg?w=600&c=v0.59.26#w200) |[**Товариство з Обмеженою відповідальністю  'АЙ ТІ ФІНАНС'**](tov_aj_ti_finans/)|`tov_aj_ti_finans`| 
 |![tov_dsd_finans](https://static.openfintech.io/vendors/tov_dsd_finans/logo.svg?w=600&c=v0.59.26#w200) |[**ТОВ 'ДСД ФІНАНС'**](tov_dsd_finans/)|`tov_dsd_finans`| 

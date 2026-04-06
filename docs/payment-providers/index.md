@@ -1054,6 +1054,7 @@
 |![toshani](https://static.openfintech.io/payment_providers/toshani/logo.png?w=600&c=v0.59.26#w100) |[**Toshani Digital**](toshani/)|`toshani`| 
 |![totalprocessing](https://static.openfintech.io/payment_providers/totalprocessing/logo.svg?w=600&c=v0.59.26#w100) |[**Total Processing**](totalprocessing/)|`totalprocessing`| 
 |![totalwebsolutions](https://static.openfintech.io/payment_providers/totalwebsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Total Web Solutions**](totalwebsolutions/)|`totalwebsolutions`| 
+|![tourapay](https://static.openfintech.io/payment_providers/tourapay/logo.png?w=600&c=v0.59.26#w100) |[**TouraPay**](tourapay/)|`tourapay`| 
 |![tp24bdt](https://static.openfintech.io/payment_providers/tp24bdt/logo.svg?w=600&c=v0.59.26#w100) |[**TP24BDT**](tp24bdt/)|`tp24bdt`| 
 |![tpaycom](https://static.openfintech.io/payment_providers/tpaycom/logo.png?w=600&c=v0.59.26#w100) |[**tpay.com**](tpaycom/)|`tpaycom`| 
 |![transact](https://static.openfintech.io/payment_providers/transact/logo.png?w=600&c=v0.59.26#w100) |[**Transact Europe**](transact/)|`transact`| 

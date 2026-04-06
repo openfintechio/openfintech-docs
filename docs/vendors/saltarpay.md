@@ -12,7 +12,7 @@
 :	[RU] TouraPay 
 :	[UK] TouraPay 
  
-**Status:** `active` 
+**Status:** `deprecated` 
  
 **Links:** 
 : website [https://www.tourapay.com](https://www.tourapay.com) 
@@ -46,7 +46,7 @@ https://static.openfintech.io/vendors/saltarpay/icon.png?w=278&c=v0.59.26#w100
     "ru":"TouraPay",
     "uk":"TouraPay"
   },
-  "status":"active",
+  "status":"deprecated",
   "description":null,
   "links":{
     "website":"https:\/\/www.tourapay.com"
