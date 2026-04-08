@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Sepa Transfer I
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![sepa_transfer_instant](https://static.openfintech.io/payment_methods/sepa_transfer_instant/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_instant_eur_hpp](/payment-services/sepa_transfer_instant_eur_hpp/)|`sepa_transfer_instant_eur_hpp`| 
+|![sepa_transfer_instant](https://static.openfintech.io/payment_methods/sepa_transfer_instant/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_instant_gbp_hpp](/payment-services/sepa_transfer_instant_gbp_hpp/)|`sepa_transfer_instant_gbp_hpp`| 
  
 
 ## Payment Providers 
