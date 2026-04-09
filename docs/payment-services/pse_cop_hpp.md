@@ -27,6 +27,8 @@
 |:---:|:---:|:---:|:---:| 
 |`document_type`|✗|`string`|`/^[A-Z]{2,4}$/`| 
 |`document_id`|✗|`string`|`/^[a-zA-Z0-9]{6,15}$/`| 
+|`document_number`|✗|`string`|`/^.{1,50}$/`| 
+|`bank_code`|✗|`string`|`/^[0-9]{1,12}$/`| 
  
 
 ### Details 
@@ -66,6 +68,42 @@
 	: [EN] Enter payer personal identification number 
 	: [RU] Введите номер документа плательщика 
 	: [UK] Введіть номер документа платника 
+ 
+3. **`document_number`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{1,50}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Document Number 
+	: [RU] Номер документа 
+	: [UK] Номер документу 
+ 
+	Hint:  
+	: [EN] Enter document number 
+	: [RU] Введите номер документа 
+	: [UK] Введіть номер документу 
+ 
+4. **`bank_code`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{1,12}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank code 
+	: [RU] Код банка 
+	: [UK] Код банку 
+ 
+	Hint:  
+	: [EN] Enter bank code 
+	: [RU] Введите код банка 
+	: [UK] Введіть код банку 
  
 
 ## JSON Object 
@@ -109,6 +147,40 @@
         "en":"Enter payer personal identification number",
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043b\u0430\u0442\u0435\u043b\u044c\u0449\u0438\u043a\u0430",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
+      }
+    },
+    {
+      "key":"document_number",
+      "type":"string",
+      "regexp":"\/^.{1,50}$\/",
+      "required":false,
+      "position":3,
+      "label":{
+        "en":"Document Number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
+      },
+      "hint":{
+        "en":"Enter document number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
+      }
+    },
+    {
+      "key":"bank_code",
+      "type":"string",
+      "regexp":"\/^[0-9]{1,12}$\/",
+      "required":false,
+      "position":4,
+      "label":{
+        "en":"Bank code",
+        "ru":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter bank code",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443"
       }
     }
   ],
