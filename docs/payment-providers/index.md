@@ -726,6 +726,7 @@
 |![payiban](https://static.openfintech.io/payment_providers/payiban/logo.png?w=600&c=v0.59.26#w100) |[**PayIBAN**](payiban/)|`payiban`| 
 |![payjunction](https://static.openfintech.io/payment_providers/payjunction/logo.png?w=600&c=v0.59.26#w100) |[**PayJunction**](payjunction/)|`payjunction`| 
 |![paylama](https://static.openfintech.io/payment_providers/paylama/logo.svg?w=600&c=v0.59.26#w100) |[**PayLama**](paylama/)|`paylama`| 
+|![payland](https://static.openfintech.io/payment_providers/payland/logo.png?w=600&c=v0.59.26#w100) |[**PayLand**](payland/)|`payland`| 
 |![paylane](https://static.openfintech.io/payment_providers/paylane/logo.png?w=600&c=v0.59.26#w100) |[**PayLane**](paylane/)|`paylane`| 
 |![payleap](https://static.openfintech.io/payment_providers/payleap/logo.png?w=600&c=v0.59.26#w100) |[**Payleap**](payleap/)|`payleap`| 
 |![payler](https://static.openfintech.io/payment_providers/payler/logo.svg?w=600&c=v0.59.26#w100) |[**Payler**](payler/)|`payler`| 

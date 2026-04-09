@@ -1686,6 +1686,7 @@
 |![payiban](https://static.openfintech.io/vendors/payiban/logo.png?w=600&c=v0.59.26#w200) |[**PayIBAN**](payiban/)|`payiban`| 
 |![payjunction](https://static.openfintech.io/vendors/payjunction/logo.png?w=600&c=v0.59.26#w200) |[**PayJunction**](payjunction/)|`payjunction`| 
 |![paylama](https://static.openfintech.io/vendors/paylama/logo.svg?w=600&c=v0.59.26#w200) |[**PayLama**](paylama/)|`paylama`| 
+|![payland](https://static.openfintech.io/vendors/payland/logo.png?w=600&c=v0.59.26#w200) |[**PayLand**](payland/)|`payland`| 
 |![paylane](https://static.openfintech.io/vendors/paylane/logo.png?w=600&c=v0.59.26#w200) |[**PayLane**](paylane/)|`paylane`| 
 |![payleap](https://static.openfintech.io/vendors/payleap/logo.png?w=600&c=v0.59.26#w200) |[**Payleap**](payleap/)|`payleap`| 
 |![payler](https://static.openfintech.io/vendors/payler/logo.svg?w=600&c=v0.59.26#w200) |[**Payler**](payler/)|`payler`| 
