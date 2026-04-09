@@ -366,6 +366,7 @@
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/logo.svg?w=600&c=v0.59.26#w100) |[**Exxogate**](exxogate/)|`exxogate`| 
 |![ezeebill](https://static.openfintech.io/payment_providers/ezeebill/logo.svg?w=600&c=v0.59.26#w100) |[**Ezeebill**](ezeebill/)|`ezeebill`| 
 |![ezic](https://static.openfintech.io/payment_providers/ezic/logo.png?w=600&c=v0.59.26#w100) |[**Ezic**](ezic/)|`ezic`| 
+|![ezzygate](https://static.openfintech.io/payment_providers/ezzygate/logo.png?w=600&c=v0.59.26#w100) |[**Ezzygate**](ezzygate/)|`ezzygate`| 
 || **F** ||
 |![facilero](https://static.openfintech.io/payment_providers/facilero/logo.png?w=600&c=v0.59.26#w100) |[**Facilero**](facilero/)|`facilero`| 
 |![facilitapay](https://static.openfintech.io/payment_providers/facilitapay/logo.svg?w=600&c=v0.59.26#w100) |[**FacilitaPay**](facilitapay/)|`facilitapay`| 

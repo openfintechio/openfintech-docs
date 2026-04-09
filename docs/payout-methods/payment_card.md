@@ -689,6 +689,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![lapsa](https://static.openfintech.io/payment_providers/lapsa/icon.png?w=278&c=v0.59.26#w100) |[Lapsa](/payment-providers/lapsa/)|`lapsa`| 
 |![corefy](https://static.openfintech.io/payment_providers/corefy/icon.svg?w=278&c=v0.59.26#w100) |[Corefy](/payment-providers/corefy/)|`corefy`| 
 |![myfatoorah](https://static.openfintech.io/payment_providers/myfatoorah/icon.png?w=278&c=v0.59.26#w100) |[MyFatoorah](/payment-providers/myfatoorah/)|`myfatoorah`| 
+|![ezzygate](https://static.openfintech.io/payment_providers/ezzygate/icon.png?w=278&c=v0.59.26#w100) |[Ezzygate](/payment-providers/ezzygate/)|`ezzygate`| 
 |![circoflows](https://static.openfintech.io/payment_providers/circoflows/icon.png?w=278&c=v0.59.26#w100) |[CircoFlows](/payment-providers/circoflows/)|`circoflows`| 
 |![isx](https://static.openfintech.io/payment_providers/isx/icon.svg?w=278&c=v0.59.26#w100) |[ISX](/payment-providers/isx/)|`isx`| 
  

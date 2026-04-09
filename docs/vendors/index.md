@@ -769,6 +769,7 @@
 |![exxogate](https://static.openfintech.io/vendors/exxogate/logo.svg?w=600&c=v0.59.26#w200) |[**Exxogate**](exxogate/)|`exxogate`| 
 |![ezeebill](https://static.openfintech.io/vendors/ezeebill/logo.svg?w=600&c=v0.59.26#w200) |[**Ezeebill**](ezeebill/)|`ezeebill`| 
 |![ezic](https://static.openfintech.io/vendors/ezic/logo.png?w=600&c=v0.59.26#w200) |[**Ezic**](ezic/)|`ezic`| 
+|![ezzygate](https://static.openfintech.io/vendors/ezzygate/logo.png?w=600&c=v0.59.26#w200) |[**Ezzygate**](ezzygate/)|`ezzygate`| 
 || **F** ||
 |![f1ex](https://static.openfintech.io/vendors/f1ex/logo.svg?w=600&c=v0.59.26#w200) |[**F1Ex**](f1ex/)|`f1ex`| 
 |![f_ya_at_ukreksimbank_cherkasi](https://static.openfintech.io/vendors/f_ya_at_ukreksimbank_cherkasi/logo.svg?w=600&c=v0.59.26#w200) |[**Філія ПАТ 'Державний експортно-імпортний банк України' в м.Черкасах**](f_ya_at_ukreksimbank_cherkasi/)|`f_ya_at_ukreksimbank_cherkasi`| 
