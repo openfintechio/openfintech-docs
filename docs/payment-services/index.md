@@ -1249,6 +1249,7 @@
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_pkr_invoice`](mobile_pkr_invoice/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_rub_hpp`](mobile_rub_hpp/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_rwf_hpp`](mobile_rwf_hpp/)| 
+|![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_tzs_hpp`](mobile_tzs_hpp/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_tzs_invoice`](mobile_tzs_invoice/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_ugx_hpp`](mobile_ugx_hpp/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_ugx_invoice`](mobile_ugx_invoice/)| 
