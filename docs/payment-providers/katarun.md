@@ -50,6 +50,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![payshop](https://static.openfintech.io/payment_methods/payshop/icon.png?w=278&c=v0.59.26#w100) |[payshop](/payment-methods/payshop/)|`payshop`| 
 |![bizum](https://static.openfintech.io/payment_methods/bizum/icon.png?w=278&c=v0.59.26#w100) |[bizum](/payment-methods/bizum/)|`bizum`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
+|![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik](/payment-methods/blik/)|`blik`| 
  
 
 ## Payout Methods 
@@ -80,7 +81,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "multibanco",
     "payshop",
     "bizum",
-    "bank_transfer"
+    "bank_transfer",
+    "blik"
   ],
   "payout_method":[
     "bank_transfer",
