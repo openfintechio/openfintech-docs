@@ -1,6 +1,6 @@
 
 # Alphapo 
-![alphapo](https://static.openfintech.io/payment_providers/alphapo/logo.png?w=400&c=v0.59.26#w100)  
+![alphapo](https://static.openfintech.io/payment_providers/alphapo/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,10 +19,10 @@
 
 ### Logo 
  
-![alphapo](https://static.openfintech.io/payment_providers/alphapo/logo.png?w=400&c=v0.59.26#w100)  
+![alphapo](https://static.openfintech.io/payment_providers/alphapo/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/alphapo/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/alphapo/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
@@ -56,6 +56,8 @@ The list of supported [Payout Methods](/payout-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether](payout-methodstether/)|`tether`| 
+|![ethereum](https://static.openfintech.io/payout_methods/ethereum/icon.svg?w=278&c=v0.59.26#w40) |[ethereum](payout-methodsethereum/)|`ethereum`| 
+|![bitcoin](https://static.openfintech.io/payout_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w40) |[bitcoin](payout-methodsbitcoin/)|`bitcoin`| 
 |![usd_coin](https://static.openfintech.io/payout_methods/usd_coin/icon.png?w=278&c=v0.59.26#w40) |[usd_coin](payout-methodsusd_coin/)|`usd_coin`| 
  
 
@@ -80,6 +82,8 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "payout_method":[
     "tether",
+    "ethereum",
+    "bitcoin",
     "usd_coin"
   ],
   "metadata":null,

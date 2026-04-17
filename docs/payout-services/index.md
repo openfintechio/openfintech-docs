@@ -735,6 +735,7 @@
 |![Esewa](https://static.openfintech.io/payout_methods/esewa/logo.png?w=400&c=v0.59.26#w24) |[**Esewa**](/payout-methods/esewa/)|[`esewa_npr`](esewa_npr/)|`NPR`| 
 |![Eso-E MFB](https://static.openfintech.io/payout_methods/esoe_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Eso-E MFB**](/payout-methods/esoe_mfb/)|[`esoe_mfb_ngn`](esoe_mfb_ngn/)|`NGN`| 
 |![Ethereum](https://static.openfintech.io/payout_methods/ethereum/logo.svg?w=400&c=v0.59.26#w24) |[**Ethereum**](/payout-methods/ethereum/)|[`ethereum_arbitrum_eth`](ethereum_arbitrum_eth/)|`ETH`| 
+|![Ethereum](https://static.openfintech.io/payout_methods/ethereum/logo.svg?w=400&c=v0.59.26#w24) |[**Ethereum**](/payout-methods/ethereum/)|[`ethereum_arbitrum_usd`](ethereum_arbitrum_usd/)|`USD`| 
 |![Ethereum](https://static.openfintech.io/payout_methods/ethereum/logo.svg?w=400&c=v0.59.26#w24) |[**Ethereum**](/payout-methods/ethereum/)|[`ethereum_bep20_eth`](ethereum_bep20_eth/)|`ETH`| 
 |![Ethereum](https://static.openfintech.io/payout_methods/ethereum/logo.svg?w=400&c=v0.59.26#w24) |[**Ethereum**](/payout-methods/ethereum/)|[`ethereum_chf`](ethereum_chf/)|`CHF`| 
 |![Ethereum](https://static.openfintech.io/payout_methods/ethereum/logo.svg?w=400&c=v0.59.26#w24) |[**Ethereum**](/payout-methods/ethereum/)|[`ethereum_erc20_eth`](ethereum_erc20_eth/)|`ETH`| 
