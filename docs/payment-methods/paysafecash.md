@@ -40,6 +40,7 @@ The list of [Payment Services](/payment-services/) based on the _Paysafecash_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![paysafecash](https://static.openfintech.io/payment_methods/paysafecash/icon.svg?w=278&c=v0.59.26#w100) |[paysafecash_eur_hpp](/payment-services/paysafecash_eur_hpp/)|`paysafecash_eur_hpp`| 
+|![paysafecash](https://static.openfintech.io/payment_methods/paysafecash/icon.svg?w=278&c=v0.59.26#w100) |[paysafecash_pln_hpp](/payment-services/paysafecash_pln_hpp/)|`paysafecash_pln_hpp`| 
  
 
 ## Payment Providers 

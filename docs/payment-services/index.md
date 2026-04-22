@@ -1658,6 +1658,7 @@
 |![Paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](/payment-methods/paysafecard/)|[`paysafecard_sek_hpp`](paysafecard_sek_hpp/)| 
 |![Paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](/payment-methods/paysafecard/)|[`paysafecard_usd_hpp`](paysafecard_usd_hpp/)| 
 |![Paysafecash](https://static.openfintech.io/payment_methods/paysafecash/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecash**](/payment-methods/paysafecash/)|[`paysafecash_eur_hpp`](paysafecash_eur_hpp/)| 
+|![Paysafecash](https://static.openfintech.io/payment_methods/paysafecash/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecash**](/payment-methods/paysafecash/)|[`paysafecash_pln_hpp`](paysafecash_pln_hpp/)| 
 |![Paysage Crypto](https://static.openfintech.io/payment_methods/paysage_crypto/logo.svg?w=400&c=v0.59.26#w200) |[**Paysage Crypto**](/payment-methods/paysage_crypto/)|[`paysage_crypto_eur_hpp`](paysage_crypto_eur_hpp/)| 
 |![PaySense](https://static.openfintech.io/payment_methods/paysense/logo.svg?w=400&c=v0.59.26#w200) |[**PaySense**](/payment-methods/paysense/)|[`paysense_uah_invoice`](paysense_uah_invoice/)| 
 |![Payser](https://static.openfintech.io/payment_methods/payser/logo.svg?w=400&c=v0.59.26#w200) |[**Payser**](/payment-methods/payser/)|[`payser_crc_hpp`](payser_crc_hpp/)| 
