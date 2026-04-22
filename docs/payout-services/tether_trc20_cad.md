@@ -1,22 +1,22 @@
 
-# USD Coin (service) 
-![usd_coin_erc20_gbp](https://static.openfintech.io/payout_methods/usd_coin_erc20_gbp/logo.svg?w=400&c=v0.59.26#w24)  
+# Tether (service) 
+![tether_trc20_cad](https://static.openfintech.io/payout_methods/tether_trc20_cad/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
  
-**Code:** `usd_coin_erc20_gbp` 
+**Code:** `tether_trc20_cad` 
  
-**Method:** `usd_coin` [show -->](/payout-methods/usd_coin/) 
+**Method:** `tether` [show -->](/payout-methods/tether/) 
  
-**Currency:** `GBP` [show -->](/currencies/GBP/) 
+**Currency:** `CAD` [show -->](/currencies/CAD/) 
  
 **Name:** 
  
-:	[EN] USD Coin 
-:	[RU] USD Coin 
-:	[UK] USD Coin 
+:	[EN] Tether 
+:	[RU] Tether 
+:	[UK] Tether 
  
-**Amount limits:** from `0.01` to `1000000` GBP 
+**Amount limits:** from `0.01` to `1000000` CAD 
 
 ## Fields 
 
@@ -39,14 +39,14 @@
 	Required: `1` 
  
 	Label:  
-	: [EN] USDC ERC-20 wallet 
-	: [RU] USDC ERC-20 кошелёк 
-	: [UK] USDC ERC-20 гаманець 
+	: [EN] Tether TRC-20 wallet 
+	: [RU] Tether TRC-20 кошелёк 
+	: [UK] Tether TRC-20 гаманець 
  
 	Hint:  
-	: [EN] USDC ERC-20 wallet 
-	: [RU] USDC ERC-20 кошелёк 
-	: [UK] USDC ERC-20 гаманець 
+	: [EN] Tether TRC-20 wallet 
+	: [RU] Tether TRC-20 кошелёк 
+	: [UK] Tether TRC-20 гаманець 
  
 2. **`network_fee_level`** 
  
@@ -71,22 +71,22 @@
 
 ```json
 {
-  "code":"usd_coin_erc20_gbp",
-  "method":"usd_coin",
-  "currency":"GBP",
+  "code":"tether_trc20_cad",
+  "method":"tether",
+  "currency":"CAD",
   "fields":[
     {
       "key":"wallet_id",
       "type":"string",
       "label":{
-        "en":"USDC ERC-20 wallet",
-        "ru":"USDC ERC-20 \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
-        "uk":"USDC ERC-20 \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
+        "en":"Tether TRC-20 wallet",
+        "ru":"Tether TRC-20 \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
+        "uk":"Tether TRC-20 \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
       },
       "hint":{
-        "en":"USDC ERC-20 wallet",
-        "ru":"USDC ERC-20 \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
-        "uk":"USDC ERC-20 \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
+        "en":"Tether TRC-20 wallet",
+        "ru":"Tether TRC-20 \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
+        "uk":"Tether TRC-20 \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
       },
       "regexp":"\/^.{10,64}$\/",
       "required":true,

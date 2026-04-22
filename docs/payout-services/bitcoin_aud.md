@@ -1,22 +1,22 @@
 
-# USD Coin (service) 
-![usd_coin_erc20_gbp](https://static.openfintech.io/payout_methods/usd_coin_erc20_gbp/logo.svg?w=400&c=v0.59.26#w24)  
+# Bitcoin (service) 
+![bitcoin_aud](https://static.openfintech.io/payout_methods/bitcoin_aud/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
  
-**Code:** `usd_coin_erc20_gbp` 
+**Code:** `bitcoin_aud` 
  
-**Method:** `usd_coin` [show -->](/payout-methods/usd_coin/) 
+**Method:** `bitcoin` [show -->](/payout-methods/bitcoin/) 
  
-**Currency:** `GBP` [show -->](/currencies/GBP/) 
+**Currency:** `AUD` [show -->](/currencies/AUD/) 
  
 **Name:** 
  
-:	[EN] USD Coin 
-:	[RU] USD Coin 
-:	[UK] USD Coin 
+:	[EN] Bitcoin 
+:	[RU] Bitcoin 
+:	[UK] Bitcoin 
  
-**Amount limits:** from `0.01` to `1000000` GBP 
+**Amount limits:** from `1` to `500000` AUD 
 
 ## Fields 
 
@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`wallet_id`|✔|`string`|`/^.{10,64}$/`| 
+|`wallet_id`|✔|`string`|`/^(bc1\|[13])[a-zA-HJ-NP-Z0-9]{25,39}$/`| 
 |`network_fee_level`|✗|`string`|`/^.{1,64}$/`| 
  
 
@@ -34,19 +34,19 @@
  
 	Type: `string` 
  
-	Regexp: `/^.{10,64}$/` 
+	Regexp: `/^(bc1|[13])[a-zA-HJ-NP-Z0-9]{25,39}$/` 
  
 	Required: `1` 
  
 	Label:  
-	: [EN] USDC ERC-20 wallet 
-	: [RU] USDC ERC-20 кошелёк 
-	: [UK] USDC ERC-20 гаманець 
+	: [EN] Bitcoin wallet 
+	: [RU] Bitcoin кошелёк 
+	: [UK] Bitcoin гаманець 
  
 	Hint:  
-	: [EN] USDC ERC-20 wallet 
-	: [RU] USDC ERC-20 кошелёк 
-	: [UK] USDC ERC-20 гаманець 
+	: [EN] Enter Bitcoin wallet 
+	: [RU] Введите Bitcoin кошелёк 
+	: [UK] Введіть Bitcoin гаманець 
  
 2. **`network_fee_level`** 
  
@@ -71,27 +71,26 @@
 
 ```json
 {
-  "code":"usd_coin_erc20_gbp",
-  "method":"usd_coin",
-  "currency":"GBP",
+  "code":"bitcoin_aud",
+  "method":"bitcoin",
+  "currency":"AUD",
   "fields":[
     {
       "key":"wallet_id",
       "type":"string",
       "label":{
-        "en":"USDC ERC-20 wallet",
-        "ru":"USDC ERC-20 \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
-        "uk":"USDC ERC-20 \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
+        "en":"Bitcoin wallet",
+        "ru":"Bitcoin \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
+        "uk":"Bitcoin \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
       },
       "hint":{
-        "en":"USDC ERC-20 wallet",
-        "ru":"USDC ERC-20 \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
-        "uk":"USDC ERC-20 \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
+        "en":"Enter Bitcoin wallet",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Bitcoin \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Bitcoin \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
       },
-      "regexp":"\/^.{10,64}$\/",
+      "regexp":"\/^(bc1|[13])[a-zA-HJ-NP-Z0-9]{25,39}$\/",
       "required":true,
-      "position":1,
-      "example":"0x501906Ce564be7bA80Eb55A29EE31ECfaE41b6f2"
+      "position":1
     },
     {
       "key":"network_fee_level",
@@ -111,7 +110,7 @@
       "position":2
     }
   ],
-  "amount_min":"0.01",
-  "amount_max":"1000000"
+  "amount_min":"1",
+  "amount_max":"500000"
 }
 ```  

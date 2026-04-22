@@ -1,22 +1,22 @@
 
-# USD Coin (service) 
-![usd_coin_erc20_gbp](https://static.openfintech.io/payout_methods/usd_coin_erc20_gbp/logo.svg?w=400&c=v0.59.26#w24)  
+# Ethereum (service) 
+![ethereum_cad](https://static.openfintech.io/payout_methods/ethereum_cad/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
  
-**Code:** `usd_coin_erc20_gbp` 
+**Code:** `ethereum_cad` 
  
-**Method:** `usd_coin` [show -->](/payout-methods/usd_coin/) 
+**Method:** `ethereum` [show -->](/payout-methods/ethereum/) 
  
-**Currency:** `GBP` [show -->](/currencies/GBP/) 
+**Currency:** `CAD` [show -->](/currencies/CAD/) 
  
 **Name:** 
  
-:	[EN] USD Coin 
-:	[RU] USD Coin 
-:	[UK] USD Coin 
+:	[EN] Ethereum 
+:	[RU] Ethereum 
+:	[UK] Ethereum 
  
-**Amount limits:** from `0.01` to `1000000` GBP 
+**Amount limits:** from `1` to `500000` CAD 
 
 ## Fields 
 
@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`wallet_id`|✔|`string`|`/^.{10,64}$/`| 
+|`wallet_id`|✔|`string`|`/^0x[a-fA-F0-9]{40}$/`| 
 |`network_fee_level`|✗|`string`|`/^.{1,64}$/`| 
  
 
@@ -34,19 +34,19 @@
  
 	Type: `string` 
  
-	Regexp: `/^.{10,64}$/` 
+	Regexp: `/^0x[a-fA-F0-9]{40}$/` 
  
 	Required: `1` 
  
 	Label:  
-	: [EN] USDC ERC-20 wallet 
-	: [RU] USDC ERC-20 кошелёк 
-	: [UK] USDC ERC-20 гаманець 
+	: [EN] Ethereum wallet 
+	: [RU] Ethereum кошелёк 
+	: [UK] Ethereum гаманець 
  
 	Hint:  
-	: [EN] USDC ERC-20 wallet 
-	: [RU] USDC ERC-20 кошелёк 
-	: [UK] USDC ERC-20 гаманець 
+	: [EN] Enter Ethereum wallet 
+	: [RU] Введите Ethereum кошелёк 
+	: [UK] Введіть Ethereum гаманець 
  
 2. **`network_fee_level`** 
  
@@ -71,27 +71,26 @@
 
 ```json
 {
-  "code":"usd_coin_erc20_gbp",
-  "method":"usd_coin",
-  "currency":"GBP",
+  "code":"ethereum_cad",
+  "method":"ethereum",
+  "currency":"CAD",
   "fields":[
     {
       "key":"wallet_id",
       "type":"string",
       "label":{
-        "en":"USDC ERC-20 wallet",
-        "ru":"USDC ERC-20 \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
-        "uk":"USDC ERC-20 \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
+        "en":"Ethereum wallet",
+        "ru":"Ethereum \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
+        "uk":"Ethereum \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
       },
       "hint":{
-        "en":"USDC ERC-20 wallet",
-        "ru":"USDC ERC-20 \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
-        "uk":"USDC ERC-20 \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
+        "en":"Enter Ethereum wallet",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Ethereum \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Ethereum \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c"
       },
-      "regexp":"\/^.{10,64}$\/",
+      "regexp":"\/^0x[a-fA-F0-9]{40}$\/",
       "required":true,
-      "position":1,
-      "example":"0x501906Ce564be7bA80Eb55A29EE31ECfaE41b6f2"
+      "position":1
     },
     {
       "key":"network_fee_level",
@@ -111,7 +110,7 @@
       "position":2
     }
   ],
-  "amount_min":"0.01",
-  "amount_max":"1000000"
+  "amount_min":"1",
+  "amount_max":"500000"
 }
 ```  

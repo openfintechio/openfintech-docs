@@ -1,14 +1,14 @@
 
 # USD Coin (service) 
-![usd_coin_erc20_gbp](https://static.openfintech.io/payout_methods/usd_coin_erc20_gbp/logo.svg?w=400&c=v0.59.26#w24)  
+![usd_coin_erc20_aud](https://static.openfintech.io/payout_methods/usd_coin_erc20_aud/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
  
-**Code:** `usd_coin_erc20_gbp` 
+**Code:** `usd_coin_erc20_aud` 
  
 **Method:** `usd_coin` [show -->](/payout-methods/usd_coin/) 
  
-**Currency:** `GBP` [show -->](/currencies/GBP/) 
+**Currency:** `AUD` [show -->](/currencies/AUD/) 
  
 **Name:** 
  
@@ -16,7 +16,7 @@
 :	[RU] USD Coin 
 :	[UK] USD Coin 
  
-**Amount limits:** from `0.01` to `1000000` GBP 
+**Amount limits:** from `0.01` to `1000000` AUD 
 
 ## Fields 
 
@@ -71,9 +71,9 @@
 
 ```json
 {
-  "code":"usd_coin_erc20_gbp",
+  "code":"usd_coin_erc20_aud",
   "method":"usd_coin",
-  "currency":"GBP",
+  "currency":"AUD",
   "fields":[
     {
       "key":"wallet_id",

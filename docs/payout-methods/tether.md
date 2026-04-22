@@ -41,6 +41,8 @@ The list of [Payout Services](/payout-services/) based on the _Tether_
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_polygon_usdt](/payout-services/tether_polygon_usdt/)|`tether_polygon_usdt`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_usd](/payout-services/tether_usd/)|`tether_usd`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_erc20_usd](/payout-services/tether_erc20_usd/)|`tether_erc20_usd`| 
+|![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_erc20_cad](/payout-services/tether_erc20_cad/)|`tether_erc20_cad`| 
+|![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_erc20_aud](/payout-services/tether_erc20_aud/)|`tether_erc20_aud`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_arbitrum_usdt](/payout-services/tether_arbitrum_usdt/)|`tether_arbitrum_usdt`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_cchain_usdt](/payout-services/tether_cchain_usdt/)|`tether_cchain_usdt`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_near_usdt](/payout-services/tether_near_usdt/)|`tether_near_usdt`| 
@@ -51,6 +53,8 @@ The list of [Payout Services](/payout-services/) based on the _Tether_
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_bep20_usdt](/payout-services/tether_bep20_usdt/)|`tether_bep20_usdt`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_eos_usdt](/payout-services/tether_eos_usdt/)|`tether_eos_usdt`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_trc20_usd](/payout-services/tether_trc20_usd/)|`tether_trc20_usd`| 
+|![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_trc20_cad](/payout-services/tether_trc20_cad/)|`tether_trc20_cad`| 
+|![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_trc20_aud](/payout-services/tether_trc20_aud/)|`tether_trc20_aud`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_erc20_uah](/payout-services/tether_erc20_uah/)|`tether_erc20_uah`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_trc20_uah](/payout-services/tether_trc20_uah/)|`tether_trc20_uah`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_erc20_eur](/payout-services/tether_erc20_eur/)|`tether_erc20_eur`| 
@@ -107,10 +111,6 @@ The list of [Payout Services](/payout-services/) based on the _Tether_
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_bep20_usd](/payout-services/tether_bep20_usd/)|`tether_bep20_usd`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_erc20_gbp](/payout-services/tether_erc20_gbp/)|`tether_erc20_gbp`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_erc20_chf](/payout-services/tether_erc20_chf/)|`tether_erc20_chf`| 
-|![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[usd_coin_erc20_usd](/payout-services/usd_coin_erc20_usd/)|`usd_coin_erc20_usd`| 
-|![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[usd_coin_erc20_eur](/payout-services/usd_coin_erc20_eur/)|`usd_coin_erc20_eur`| 
-|![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[usd_coin_erc20_gbp](/payout-services/usd_coin_erc20_gbp/)|`usd_coin_erc20_gbp`| 
-|![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[usd_coin_erc20_chf](/payout-services/usd_coin_erc20_chf/)|`usd_coin_erc20_chf`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_bep20_gbp](/payout-services/tether_bep20_gbp/)|`tether_bep20_gbp`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_bep20_chf](/payout-services/tether_bep20_chf/)|`tether_bep20_chf`| 
 |![tether](https://static.openfintech.io/payout_methods/tether/icon.svg?w=278&c=v0.59.26#w40) |[tether_trc20_gbp](/payout-services/tether_trc20_gbp/)|`tether_trc20_gbp`| 
