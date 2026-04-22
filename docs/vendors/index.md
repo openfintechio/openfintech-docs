@@ -424,6 +424,7 @@
 |![cardgate](https://static.openfintech.io/vendors/cardgate/logo.svg?w=600&c=v0.59.26#w200) |[**CardGate**](cardgate/)|`cardgate`| 
 |![cardgateplus](https://static.openfintech.io/vendors/cardgateplus/logo.png?w=600&c=v0.59.26#w200) |[**CardGate**](cardgateplus/)|`cardgateplus`| 
 |![cardiful](https://static.openfintech.io/vendors/cardiful/logo.svg?w=600&c=v0.59.26#w200) |[**Cardiful**](cardiful/)|`cardiful`| 
+|![cardifulpaycorp](https://static.openfintech.io/vendors/cardifulpaycorp/logo.svg?w=600&c=v0.59.26#w200) |[**Cardiful Paycorp**](cardifulpaycorp/)|`cardifulpaycorp`| 
 |![cardifyx](https://static.openfintech.io/vendors/cardifyx/logo.png?w=600&c=v0.59.26#w200) |[**CardifyX**](cardifyx/)|`cardifyx`| 
 |![cardinalcommerce](https://static.openfintech.io/vendors/cardinalcommerce/logo.png?w=600&c=v0.59.26#w200) |[**CardinalCommerce**](cardinalcommerce/)|`cardinalcommerce`| 
 |![cardinity](https://static.openfintech.io/vendors/cardinity/logo.png?w=600&c=v0.59.26#w200) |[**Nomupay**](cardinity/)|`cardinity`| 
