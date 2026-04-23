@@ -98,6 +98,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![etisalat](https://static.openfintech.io/payout_methods/etisalat/icon.svg?w=278&c=v0.59.26#w40) |[etisalat](payout-methodsetisalat/)|`etisalat`| 
 |![vodafone_egypt](https://static.openfintech.io/payout_methods/vodafone_egypt/icon.svg?w=278&c=v0.59.26#w40) |[vodafone_egypt](payout-methodsvodafone_egypt/)|`vodafone_egypt`| 
 |![orange_money](https://static.openfintech.io/payout_methods/orange_money/icon.png?w=278&c=v0.59.26#w40) |[orange_money](payout-methodsorange_money/)|`orange_money`| 
+|![airteltigo](https://static.openfintech.io/payout_methods/airteltigo/icon.svg?w=278&c=v0.59.26#w40) |[airteltigo](payout-methodsairteltigo/)|`airteltigo`| 
  
 
 ## JSON Object 
@@ -162,7 +163,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "tyme_bank",
     "etisalat",
     "vodafone_egypt",
-    "orange_money"
+    "orange_money",
+    "airteltigo"
   ],
   "metadata":null,
   "name":{
