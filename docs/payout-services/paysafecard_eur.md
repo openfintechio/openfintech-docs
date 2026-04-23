@@ -24,10 +24,11 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`account_id`|✔|`string`|`/^[-0-9a-zA-Z.+_]+@[-0-9a-zA-ZА-Яа-я.+_]+[.][a-zA-ZА-Яа-я]{2,4}\|\d{12}$/`| 
-|`date_of_birth`|✔|`string`|`/^\d{4}-\d{2}-\d{2}$/`| 
-|`first_name`|✔|`string`|`/^[A-Za-z]{2,64}$/`| 
-|`last_name`|✔|`string`|`/^[A-Za-z]{2,64}$/`| 
+|`account_id`|✗|`string`|`/^[-0-9a-zA-Z.+_]+@[-0-9a-zA-ZА-Яа-я.+_]+[.][a-zA-ZА-Яа-я]{2,4}\|\d{12}$/`| 
+|`date_of_birth`|✗|`string`|`/^\d{4}-\d{2}-\d{2}$/`| 
+|`first_name`|✗|`string`|`/^[A-Za-z]{2,64}$/`| 
+|`last_name`|✗|`string`|`/^[A-Za-z]{2,64}$/`| 
+|`email`|✗|`string`|`/^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,4})$/`| 
  
 
 ### Details 
@@ -38,7 +39,7 @@
  
 	Regexp: `/^[-0-9a-zA-Z.+_]+@[-0-9a-zA-ZА-Яа-я.+_]+[.][a-zA-ZА-Яа-я]{2,4}|\d{12}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Account ID 
@@ -56,7 +57,7 @@
  
 	Regexp: `/^\d{4}-\d{2}-\d{2}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Date of birth 
@@ -74,7 +75,7 @@
  
 	Regexp: `/^[A-Za-z]{2,64}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] First name 
@@ -92,7 +93,7 @@
  
 	Regexp: `/^[A-Za-z]{2,64}$/` 
  
-	Required: `1` 
+	Required: `` 
  
 	Label:  
 	: [EN] Last name 
@@ -103,6 +104,24 @@
 	: [EN] Enter last name 
 	: [RU] Введите фамилию получателя 
 	: [UK] Введіть прізвище отримувача 
+ 
+5. **`email`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,4})$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Email 
+	: [RU] Email 
+	: [UK] Email 
+ 
+	Hint:  
+	: [EN] Enter the recipient email 
+	: [RU] Введите email получателя 
+	: [UK] Введіть email одержувача  
  
 
 ## JSON Object 
@@ -128,7 +147,7 @@
       },
       "example":"447624222721",
       "regexp":"\/^[-0-9a-zA-Z.+_]+@[-0-9a-zA-Z\u0410-\u042f\u0430-\u044f.+_]+[.][a-zA-Z\u0410-\u042f\u0430-\u044f]{2,4}|\\d{12}$\/",
-      "required":true,
+      "required":false,
       "position":1
     },
     {
@@ -146,7 +165,7 @@
       },
       "regexp":"\/^\\d{4}-\\d{2}-\\d{2}$\/",
       "example":"1996-10-20",
-      "required":true,
+      "required":false,
       "position":2
     },
     {
@@ -164,7 +183,7 @@
       },
       "regexp":"\/^[A-Za-z]{2,64}$\/",
       "example":"Max",
-      "required":true,
+      "required":false,
       "position":3
     },
     {
@@ -182,8 +201,25 @@
       },
       "regexp":"\/^[A-Za-z]{2,64}$\/",
       "example":"Power",
-      "required":true,
+      "required":false,
       "position":4
+    },
+    {
+      "key":"email",
+      "type":"string",
+      "label":{
+        "en":"Email",
+        "ru":"Email",
+        "uk":"Email"
+      },
+      "hint":{
+        "en":"Enter the recipient email",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 email \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c email \u043e\u0434\u0435\u0440\u0436\u0443\u0432\u0430\u0447\u0430 "
+      },
+      "regexp":"\/^[_a-zA-Z0-9-]+(\\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\\.[a-zA-Z0-9-]+)*(\\.[a-zA-Z]{2,4})$\/",
+      "required":false,
+      "position":5
     }
   ],
   "amount_min":"1",
