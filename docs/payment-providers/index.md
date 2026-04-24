@@ -165,7 +165,7 @@
 |![cardgate](https://static.openfintech.io/payment_providers/cardgate/logo.svg?w=600&c=v0.59.26#w100) |[**CardGate**](cardgate/)|`cardgate`| 
 |![cardgateplus](https://static.openfintech.io/payment_providers/cardgateplus/logo.png?w=600&c=v0.59.26#w100) |[**CardGate**](cardgateplus/)|`cardgateplus`| 
 |![cardiful](https://static.openfintech.io/payment_providers/cardiful/logo.svg?w=600&c=v0.59.26#w100) |[**Cardiful**](cardiful/)|`cardiful`| 
-|![cardifulpaycorp](https://static.openfintech.io/payment_providers/cardifulpaycorp/logo.svg?w=600&c=v0.59.26#w100) |[**Cardiful Paycorp**](cardifulpaycorp/)|`cardifulpaycorp`| 
+|![cardifulnew](https://static.openfintech.io/payment_providers/cardifulnew/logo.svg?w=600&c=v0.59.26#w100) |[**Cardiful New**](cardifulnew/)|`cardifulnew`| 
 |![cardifyx](https://static.openfintech.io/payment_providers/cardifyx/logo.png?w=600&c=v0.59.26#w100) |[**CardifyX**](cardifyx/)|`cardifyx`| 
 |![cardinalcommerce](https://static.openfintech.io/payment_providers/cardinalcommerce/logo.svg?w=600&c=v0.59.26#w100) |[**CardinalCommerce**](cardinalcommerce/)|`cardinalcommerce`| 
 |![cardinity](https://static.openfintech.io/payment_providers/cardinity/logo.png?w=600&c=v0.59.26#w100) |[**Nomupay**](cardinity/)|`cardinity`| 

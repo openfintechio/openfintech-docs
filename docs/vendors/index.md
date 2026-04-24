@@ -424,7 +424,7 @@
 |![cardgate](https://static.openfintech.io/vendors/cardgate/logo.svg?w=600&c=v0.59.26#w200) |[**CardGate**](cardgate/)|`cardgate`| 
 |![cardgateplus](https://static.openfintech.io/vendors/cardgateplus/logo.png?w=600&c=v0.59.26#w200) |[**CardGate**](cardgateplus/)|`cardgateplus`| 
 |![cardiful](https://static.openfintech.io/vendors/cardiful/logo.svg?w=600&c=v0.59.26#w200) |[**Cardiful**](cardiful/)|`cardiful`| 
-|![cardifulpaycorp](https://static.openfintech.io/vendors/cardifulpaycorp/logo.svg?w=600&c=v0.59.26#w200) |[**Cardiful Paycorp**](cardifulpaycorp/)|`cardifulpaycorp`| 
+|![cardifulnew](https://static.openfintech.io/vendors/cardifulnew/logo.svg?w=600&c=v0.59.26#w200) |[**Cardiful New**](cardifulnew/)|`cardifulnew`| 
 |![cardifyx](https://static.openfintech.io/vendors/cardifyx/logo.png?w=600&c=v0.59.26#w200) |[**CardifyX**](cardifyx/)|`cardifyx`| 
 |![cardinalcommerce](https://static.openfintech.io/vendors/cardinalcommerce/logo.png?w=600&c=v0.59.26#w200) |[**CardinalCommerce**](cardinalcommerce/)|`cardinalcommerce`| 
 |![cardinity](https://static.openfintech.io/vendors/cardinity/logo.png?w=600&c=v0.59.26#w200) |[**Nomupay**](cardinity/)|`cardinity`| 
@@ -2054,7 +2054,7 @@
 |![sev_f_pat_kbprivatbank_m_sevastopol](https://static.openfintech.io/vendors/sev_f_pat_kbprivatbank_m_sevastopol/logo.svg?w=600&c=v0.59.26#w200) |[**СЕВАСТОПОЛЬСЬКА ФІЛІЯ ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](sev_f_pat_kbprivatbank_m_sevastopol/)|`sev_f_pat_kbprivatbank_m_sevastopol`| 
 |![seven_bank](https://static.openfintech.io/vendors/seven_bank/logo.svg?w=600&c=v0.59.26#w200) |[**SEVEN BANK**](seven_bank/)|`seven_bank`| 
 |![sgate](https://static.openfintech.io/vendors/sgate/logo.svg?w=600&c=v0.59.26#w200) |[**Sgate**](sgate/)|`sgate`| 
-|![shift4](https://static.openfintech.io/vendors/shift4/logo.svg?w=600&c=v0.59.26#w200) |[**Shift4**](shift4/)|`shift4`| 
+|![shift4](https://static.openfintech.io/vendors/shift4/logo.svg?w=600&c=v0.59.26#w200) |[**Shift4 EU**](shift4/)|`shift4`| 
 |![shiftfour](https://static.openfintech.io/vendors/shiftfour/logo.svg?w=600&c=v0.59.26#w200) |[**Shift4**](shiftfour/)|`shiftfour`| 
 |![shiga_bank](https://static.openfintech.io/vendors/shiga_bank/logo.svg?w=600&c=v0.59.26#w200) |[**THE SHIGA BANK**](shiga_bank/)|`shiga_bank`| 
 |![shikoku_bank](https://static.openfintech.io/vendors/shikoku_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Shikoku Bank**](shikoku_bank/)|`shikoku_bank`| 

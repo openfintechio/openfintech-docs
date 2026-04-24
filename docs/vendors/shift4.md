@@ -1,5 +1,5 @@
 
-# Shift4 
+# Shift4 EU 
 ![shift4](https://static.openfintech.io/vendors/shift4/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Shift4 
-:	[RU] Shift4 
-:	[UK] Shift4 
+:	[EN] Shift4 EU 
+:	[RU] Shift4 EU 
+:	[UK] Shift4 EU 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/shift4/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"shift4",
   "name":{
-    "en":"Shift4",
-    "ru":"Shift4",
-    "uk":"Shift4"
+    "en":"Shift4 EU",
+    "ru":"Shift4 EU",
+    "uk":"Shift4 EU"
   },
   "status":"active",
   "description":null,
