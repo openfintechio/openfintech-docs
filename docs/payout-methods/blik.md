@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _BLIK_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![cardpay](https://static.openfintech.io/payment_providers/cardpay/icon.svg?w=278&c=v0.59.26#w100) |[Unlimit](/payment-providers/cardpay/)|`cardpay`| 
 |![ppro](https://static.openfintech.io/payment_providers/ppro/icon.svg?w=278&c=v0.59.26#w100) |[PPRO](/payment-providers/ppro/)|`ppro`| 
 |![stripe](https://static.openfintech.io/payment_providers/stripe/icon.svg?w=278&c=v0.59.26#w100) |[Stripe](/payment-providers/stripe/)|`stripe`| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 

@@ -56,6 +56,9 @@ The list of supported [Payment Methods](/payment-methods/)
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay](/payment-methods/applepay/)|`applepay`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay](/payment-methods/googlepay/)|`googlepay`| 
 |![cardpay_crypto](https://static.openfintech.io/payment_methods/cardpay_crypto/icon.svg?w=278&c=v0.59.26#w100) |[cardpay_crypto](/payment-methods/cardpay_crypto/)|`cardpay_crypto`| 
+|![bancontact](https://static.openfintech.io/payment_methods/bancontact/icon.png?w=278&c=v0.59.26#w100) |[bancontact](/payment-methods/bancontact/)|`bancontact`| 
+|![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik](/payment-methods/blik/)|`blik`| 
+|![ideal](https://static.openfintech.io/payment_methods/ideal/icon.svg?w=278&c=v0.59.26#w100) |[ideal](/payment-methods/ideal/)|`ideal`| 
  
 
 ## Payout Methods 
@@ -92,7 +95,10 @@ The list of supported [Payout Methods](/payout-methods/)
     "online_banking",
     "applepay",
     "googlepay",
-    "cardpay_crypto"
+    "cardpay_crypto",
+    "bancontact",
+    "blik",
+    "ideal"
   ],
   "payout_method":[
     "payment_card",
