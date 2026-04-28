@@ -140,6 +140,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Google Pa
 |![xmgate](https://static.openfintech.io/payment_providers/xmgate/icon.svg?w=278&c=v0.59.26#w100) |[Xmgate](/payment-providers/xmgate/)|`xmgate`| 
 |![paynearme](https://static.openfintech.io/payment_providers/paynearme/icon.svg?w=278&c=v0.59.26#w100) |[PayNearMe](/payment-providers/paynearme/)|`paynearme`| 
 |![apay](https://static.openfintech.io/payment_providers/apay/icon.svg?w=278&c=v0.59.26#w100) |[Apay](/payment-providers/apay/)|`apay`| 
+|![solvex](https://static.openfintech.io/payment_providers/solvex/icon.svg?w=278&c=v0.59.26#w100) |[Solvex](/payment-providers/solvex/)|`solvex`| 
 |![paytech](https://static.openfintech.io/payment_providers/paytech/icon.png?w=278&c=v0.59.26#w100) |[Paytech](/payment-providers/paytech/)|`paytech`| 
 |![lapsa](https://static.openfintech.io/payment_providers/lapsa/icon.png?w=278&c=v0.59.26#w100) |[Lapsa](/payment-providers/lapsa/)|`lapsa`| 
 |![cardifulnew](https://static.openfintech.io/payment_providers/cardifulnew/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful New](/payment-providers/cardifulnew/)|`cardifulnew`| 
