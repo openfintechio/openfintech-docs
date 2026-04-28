@@ -1,5 +1,5 @@
 
-# Banco DAVIVIENDA S.A. (service) 
+# DAVIPLATA (service) 
 ![daviplata_cop](https://static.openfintech.io/payout_methods/daviplata_cop/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,9 +12,9 @@
  
 **Name:** 
  
-:	[EN] Banco DAVIVIENDA S.A. 
-:	[RU] Banco DAVIVIENDA S.A. 
-:	[UK] Banco DAVIVIENDA S.A. 
+:	[EN] DAVIPLATA 
+:	[RU] DAVIPLATA 
+:	[UK] DAVIPLATA 
  
 **Amount limits:** from `0.01` to `500000000` COP 
 

@@ -1,5 +1,5 @@
 
-# BBVA Colombia 
+# BANCO BBVA COLOMBIA S.A. 
 ![bbva_colombia](https://static.openfintech.io/payment_methods/bbva_colombia/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,9 +7,9 @@
  
 **Name:** 
  
-:	[EN] BBVA Colombia 
-:	[RU] BBVA Colombia 
-:	[UK] BBVA Colombia 
+:	[EN] BANCO BBVA COLOMBIA S.A. 
+:	[RU] BANCO BBVA COLOMBIA S.A. 
+:	[UK] BANCO BBVA COLOMBIA S.A. 
  
 **Category:** `bank_transfer` 
  
@@ -32,7 +32,7 @@ https://static.openfintech.io/payment_methods/bbva_colombia/icon.svg?w=278&c=v0.
 
 ## Payout Services 
  
-The list of [Payout Services](/payout-services/) based on the _BBVA Colombia_ 
+The list of [Payout Services](/payout-services/) based on the _BANCO BBVA COLOMBIA S.A._ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -41,7 +41,7 @@ The list of [Payout Services](/payout-services/) based on the _BBVA Colombia_
 
 ## Payment Providers 
  
-The list of [Payment Providers](/payment-providers/) that support the _BBVA Colombia_ 
+The list of [Payment Providers](/payment-providers/) that support the _BANCO BBVA COLOMBIA S.A._ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -55,9 +55,9 @@ The list of [Payment Providers](/payment-providers/) that support the _BBVA Colo
   "code":"bbva_colombia",
   "vendor":null,
   "name":{
-    "en":"BBVA Colombia",
-    "ru":"BBVA Colombia",
-    "uk":"BBVA Colombia"
+    "en":"BANCO BBVA COLOMBIA S.A.",
+    "ru":"BANCO BBVA COLOMBIA S.A.",
+    "uk":"BANCO BBVA COLOMBIA S.A."
   },
   "description":null,
   "countries":null,

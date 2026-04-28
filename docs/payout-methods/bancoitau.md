@@ -1,5 +1,5 @@
 
-# Banco Itaú 
+# BANCO ITAU 
 ![bancoitau](https://static.openfintech.io/payment_methods/bancoitau/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,9 +7,9 @@
  
 **Name:** 
  
-:	[EN] Banco Itaú 
-:	[RU] Banco Itaú 
-:	[UK] Banco Itaú 
+:	[EN] BANCO ITAU 
+:	[RU] BANCO ITAU 
+:	[UK] BANCO ITAU 
  
 **Category:** `bank_transfer` 
  
@@ -32,7 +32,7 @@ https://static.openfintech.io/payment_methods/bancoitau/icon.png?w=278&c=v0.59.2
 
 ## Payout Services 
  
-The list of [Payout Services](/payout-services/) based on the _Banco Itaú_ 
+The list of [Payout Services](/payout-services/) based on the _BANCO ITAU_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -41,7 +41,7 @@ The list of [Payout Services](/payout-services/) based on the _Banco Itaú_
 
 ## Payment Providers 
  
-The list of [Payment Providers](/payment-providers/) that support the _Banco Itaú_ 
+The list of [Payment Providers](/payment-providers/) that support the _BANCO ITAU_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -60,9 +60,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Banco Ita
   "code":"bancoitau",
   "vendor":null,
   "name":{
-    "en":"Banco Ita\u00fa",
-    "ru":"Banco Ita\u00fa",
-    "uk":"Banco Ita\u00fa"
+    "en":"BANCO ITAU",
+    "ru":"BANCO ITAU",
+    "uk":"BANCO ITAU"
   },
   "description":null,
   "countries":null,

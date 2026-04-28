@@ -693,6 +693,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![circoflows](https://static.openfintech.io/payment_providers/circoflows/icon.png?w=278&c=v0.59.26#w100) |[CircoFlows](/payment-providers/circoflows/)|`circoflows`| 
 |![isx](https://static.openfintech.io/payment_providers/isx/icon.svg?w=278&c=v0.59.26#w100) |[ISX](/payment-providers/isx/)|`isx`| 
 |![payland](https://static.openfintech.io/payment_providers/payland/icon.png?w=278&c=v0.59.26#w100) |[PayLand](/payment-providers/payland/)|`payland`| 
+|![paydeca](https://static.openfintech.io/payment_providers/paydeca/icon.png?w=278&c=v0.59.26#w100) |[Paydeca](/payment-providers/paydeca/)|`paydeca`| 
  
 
 ## JSON Object 

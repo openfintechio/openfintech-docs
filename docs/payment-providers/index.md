@@ -702,6 +702,7 @@
 |![paycific](https://static.openfintech.io/payment_providers/paycific/logo.png?w=600&c=v0.59.26#w100) |[**PayCific**](paycific/)|`paycific`| 
 |![payclub](https://static.openfintech.io/payment_providers/payclub/logo.png?w=600&c=v0.59.26#w100) |[**PayClub**](payclub/)|`payclub`| 
 |![paycos](https://static.openfintech.io/payment_providers/paycos/logo.svg?w=600&c=v0.59.26#w100) |[**PAYCOS**](paycos/)|`paycos`| 
+|![paydeca](https://static.openfintech.io/payment_providers/paydeca/logo.png?w=600&c=v0.59.26#w100) |[**Paydeca**](paydeca/)|`paydeca`| 
 |![paydex](https://static.openfintech.io/payment_providers/paydex/logo.svg?w=600&c=v0.59.26#w100) |[**Paydex**](paydex/)|`paydex`| 
 |![paydoo](https://static.openfintech.io/payment_providers/paydoo/logo.png?w=600&c=v0.59.26#w100) |[**Paynt**](paydoo/)|`paydoo`| 
 |![payease](https://static.openfintech.io/payment_providers/payease/logo.png?w=600&c=v0.59.26#w100) |[**PayEase**](payease/)|`payease`| 

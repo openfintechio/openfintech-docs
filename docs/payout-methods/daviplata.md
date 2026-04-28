@@ -1,5 +1,5 @@
 
-# Banco DAVIVIENDA S.A. 
+# DAVIPLATA 
 ![daviplata](https://static.openfintech.io/payment_methods/daviplata/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,9 +7,9 @@
  
 **Name:** 
  
-:	[EN] Banco DAVIVIENDA S.A. 
-:	[RU] Banco DAVIVIENDA S.A. 
-:	[UK] Banco DAVIVIENDA S.A. 
+:	[EN] DAVIPLATA 
+:	[RU] DAVIPLATA 
+:	[UK] DAVIPLATA 
  
 **Category:** `digital_wallet` 
  
@@ -32,7 +32,7 @@ https://static.openfintech.io/payment_methods/daviplata/icon.svg?w=278&c=v0.59.2
 
 ## Payout Services 
  
-The list of [Payout Services](/payout-services/) based on the _Banco DAVIVIENDA S.A._ 
+The list of [Payout Services](/payout-services/) based on the _DAVIPLATA_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -46,9 +46,9 @@ The list of [Payout Services](/payout-services/) based on the _Banco DAVIVIENDA 
   "code":"daviplata",
   "vendor":null,
   "name":{
-    "en":"Banco DAVIVIENDA S.A.",
-    "ru":"Banco DAVIVIENDA S.A.",
-    "uk":"Banco DAVIVIENDA S.A."
+    "en":"DAVIPLATA",
+    "ru":"DAVIPLATA",
+    "uk":"DAVIPLATA"
   },
   "description":null,
   "countries":null,

@@ -1,5 +1,5 @@
 
-# Scotiabank 
+# SCOTIABANK COLPATRIA 
 ![scotiabank](https://static.openfintech.io/payment_methods/scotiabank/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,9 +7,9 @@
  
 **Name:** 
  
-:	[EN] Scotiabank 
-:	[RU] Scotiabank 
-:	[UK] Scotiabank 
+:	[EN] SCOTIABANK COLPATRIA 
+:	[RU] SCOTIABANK COLPATRIA 
+:	[UK] SCOTIABANK COLPATRIA 
  
 **Category:** `bank_transfer` 
  
@@ -32,7 +32,7 @@ https://static.openfintech.io/payment_methods/scotiabank/icon.png?w=278&c=v0.59.
 
 ## Payout Services 
  
-The list of [Payout Services](/payout-services/) based on the _Scotiabank_ 
+The list of [Payout Services](/payout-services/) based on the _SCOTIABANK COLPATRIA_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -41,7 +41,7 @@ The list of [Payout Services](/payout-services/) based on the _Scotiabank_
 
 ## Payment Providers 
  
-The list of [Payment Providers](/payment-providers/) that support the _Scotiabank_ 
+The list of [Payment Providers](/payment-providers/) that support the _SCOTIABANK COLPATRIA_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -58,9 +58,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Scotiaban
   "code":"scotiabank",
   "vendor":null,
   "name":{
-    "en":"Scotiabank",
-    "ru":"Scotiabank",
-    "uk":"Scotiabank"
+    "en":"SCOTIABANK COLPATRIA",
+    "ru":"SCOTIABANK COLPATRIA",
+    "uk":"SCOTIABANK COLPATRIA"
   },
   "description":null,
   "countries":null,

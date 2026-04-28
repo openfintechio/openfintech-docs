@@ -1,5 +1,5 @@
 
-# BANCOLOMBIA QA (service) 
+# BANCOLOMBIA (service) 
 ![colombia_bank_cop](https://static.openfintech.io/payout_methods/colombia_bank_cop/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,9 +12,9 @@
  
 **Name:** 
  
-:	[EN] BANCOLOMBIA QA 
-:	[RU] BANCOLOMBIA QA 
-:	[UK] BANCOLOMBIA QA 
+:	[EN] BANCOLOMBIA 
+:	[RU] BANCOLOMBIA 
+:	[UK] BANCOLOMBIA 
  
 **Amount limits:** from `0.01` to `500000000` COP 
 

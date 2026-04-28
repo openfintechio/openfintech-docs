@@ -1,5 +1,5 @@
 
-# Banco Popular (service) 
+# BANCO POPULAR (service) 
 ![bancopopular_cop](https://static.openfintech.io/payout_methods/bancopopular_cop/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,9 +12,9 @@
  
 **Name:** 
  
-:	[EN] Banco Popular 
-:	[RU] Banco Popular 
-:	[UK] Banco Popular 
+:	[EN] BANCO POPULAR 
+:	[RU] BANCO POPULAR 
+:	[UK] BANCO POPULAR 
  
 **Amount limits:** from `0.01` to `500000000` COP 
 

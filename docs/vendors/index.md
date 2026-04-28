@@ -1659,6 +1659,7 @@
 |![paycore](https://static.openfintech.io/vendors/paycore/logo.svg?w=600&c=v0.59.26#w200) |[**PayCore.io**](paycore/)|`paycore`| 
 |![paycos](https://static.openfintech.io/vendors/paycos/logo.svg?w=600&c=v0.59.26#w200) |[**PAYCOS**](paycos/)|`paycos`| 
 |![payd](https://static.openfintech.io/vendors/payd/logo.png?w=600&c=v0.59.26#w200) |[**payD**](payd/)|`payd`| 
+|![paydeca](https://static.openfintech.io/vendors/paydeca/logo.png?w=600&c=v0.59.26#w200) |[**Paydeca**](paydeca/)|`paydeca`| 
 |![paydex](https://static.openfintech.io/vendors/paydex/logo.svg?w=600&c=v0.59.26#w200) |[**Paydex**](paydex/)|`paydex`| 
 |![paydirekt](https://static.openfintech.io/vendors/paydirekt/logo.svg?w=600&c=v0.59.26#w200) |[**paydirekt**](paydirekt/)|`paydirekt`| 
 |![paydoo](https://static.openfintech.io/vendors/paydoo/logo.png?w=600&c=v0.59.26#w200) |[**Paynt**](paydoo/)|`paydoo`| 

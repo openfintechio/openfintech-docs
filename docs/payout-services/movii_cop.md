@@ -1,5 +1,5 @@
 
-# Movii (service) 
+# MOVII (service) 
 ![movii_cop](https://static.openfintech.io/payout_methods/movii_cop/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,9 +12,9 @@
  
 **Name:** 
  
-:	[EN] Movii 
-:	[RU] Movii 
-:	[UK] Movii 
+:	[EN] MOVII 
+:	[RU] MOVII 
+:	[UK] MOVII 
  
 **Amount limits:** from `0.01` to `500000000` COP 
 

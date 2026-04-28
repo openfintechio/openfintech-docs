@@ -1,5 +1,5 @@
 
-# BANCOLOMBIA QA 
+# BANCOLOMBIA 
 ![colombia_bank](https://static.openfintech.io/payment_methods/colombia_bank/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,9 +7,9 @@
  
 **Name:** 
  
-:	[EN] BANCOLOMBIA QA 
-:	[RU] BANCOLOMBIA QA 
-:	[UK] BANCOLOMBIA QA 
+:	[EN] BANCOLOMBIA 
+:	[RU] BANCOLOMBIA 
+:	[UK] BANCOLOMBIA 
  
 **Category:** `bank_transfer` 
  
@@ -32,7 +32,7 @@ https://static.openfintech.io/payment_methods/colombia_bank/icon.svg?w=278&c=v0.
 
 ## Payout Services 
  
-The list of [Payout Services](/payout-services/) based on the _BANCOLOMBIA QA_ 
+The list of [Payout Services](/payout-services/) based on the _BANCOLOMBIA_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -41,7 +41,7 @@ The list of [Payout Services](/payout-services/) based on the _BANCOLOMBIA QA_
 
 ## Payment Providers 
  
-The list of [Payment Providers](/payment-providers/) that support the _BANCOLOMBIA QA_ 
+The list of [Payment Providers](/payment-providers/) that support the _BANCOLOMBIA_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -55,9 +55,9 @@ The list of [Payment Providers](/payment-providers/) that support the _BANCOLOMB
   "code":"colombia_bank",
   "vendor":null,
   "name":{
-    "en":"BANCOLOMBIA QA",
-    "ru":"BANCOLOMBIA QA",
-    "uk":"BANCOLOMBIA QA"
+    "en":"BANCOLOMBIA",
+    "ru":"BANCOLOMBIA",
+    "uk":"BANCOLOMBIA"
   },
   "description":null,
   "countries":null,

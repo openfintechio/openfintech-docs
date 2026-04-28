@@ -1,5 +1,5 @@
 
-# Scotiabank (service) 
+# SCOTIABANK COLPATRIA (service) 
 ![scotiabank_cop](https://static.openfintech.io/payout_methods/scotiabank_cop/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,9 +12,9 @@
  
 **Name:** 
  
-:	[EN] Scotiabank 
-:	[RU] Scotiabank 
-:	[UK] Scotiabank 
+:	[EN] SCOTIABANK COLPATRIA 
+:	[RU] SCOTIABANK COLPATRIA 
+:	[UK] SCOTIABANK COLPATRIA 
  
 **Amount limits:** from `0.01` to `500000000` COP 
 

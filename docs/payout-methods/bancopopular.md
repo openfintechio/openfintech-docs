@@ -1,5 +1,5 @@
 
-# Banco Popular 
+# BANCO POPULAR 
 ![bancopopular](https://static.openfintech.io/payment_methods/bancopopular/logo.png?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,9 +7,9 @@
  
 **Name:** 
  
-:	[EN] Banco Popular 
-:	[RU] Banco Popular 
-:	[UK] Banco Popular 
+:	[EN] BANCO POPULAR 
+:	[RU] BANCO POPULAR 
+:	[UK] BANCO POPULAR 
  
 **Category:** `bank_transfer` 
  
@@ -32,7 +32,7 @@ https://static.openfintech.io/payment_methods/bancopopular/icon.png?w=278&c=v0.5
 
 ## Payout Services 
  
-The list of [Payout Services](/payout-services/) based on the _Banco Popular_ 
+The list of [Payout Services](/payout-services/) based on the _BANCO POPULAR_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -41,7 +41,7 @@ The list of [Payout Services](/payout-services/) based on the _Banco Popular_
 
 ## Payment Providers 
  
-The list of [Payment Providers](/payment-providers/) that support the _Banco Popular_ 
+The list of [Payment Providers](/payment-providers/) that support the _BANCO POPULAR_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -57,9 +57,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Banco Pop
   "code":"bancopopular",
   "vendor":null,
   "name":{
-    "en":"Banco Popular",
-    "ru":"Banco Popular",
-    "uk":"Banco Popular"
+    "en":"BANCO POPULAR",
+    "ru":"BANCO POPULAR",
+    "uk":"BANCO POPULAR"
   },
   "description":null,
   "countries":null,

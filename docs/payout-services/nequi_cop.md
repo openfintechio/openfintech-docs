@@ -1,5 +1,5 @@
 
-# Nequi (service) 
+# NEQUI (service) 
 ![nequi_cop](https://static.openfintech.io/payout_methods/nequi_cop/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,9 +12,9 @@
  
 **Name:** 
  
-:	[EN] Nequi 
-:	[RU] Nequi 
-:	[UK] Nequi 
+:	[EN] NEQUI 
+:	[RU] NEQUI 
+:	[UK] NEQUI 
  
 **Amount limits:** from `0.01` to `500000000` COP 
 

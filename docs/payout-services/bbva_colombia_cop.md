@@ -1,5 +1,5 @@
 
-# BBVA Colombia (service) 
+# BANCO BBVA COLOMBIA S.A. (service) 
 ![bbva_colombia_cop](https://static.openfintech.io/payout_methods/bbva_colombia_cop/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,9 +12,9 @@
  
 **Name:** 
  
-:	[EN] BBVA Colombia 
-:	[RU] BBVA Colombia 
-:	[UK] BBVA Colombia 
+:	[EN] BANCO BBVA COLOMBIA S.A. 
+:	[RU] BANCO BBVA COLOMBIA S.A. 
+:	[UK] BANCO BBVA COLOMBIA S.A. 
  
 **Amount limits:** from `0.01` to `500000000` COP 
 

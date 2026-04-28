@@ -1,5 +1,5 @@
 
-# Nequi 
+# NEQUI 
 ![nequi](https://static.openfintech.io/payment_methods/nequi/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,9 +7,9 @@
  
 **Name:** 
  
-:	[EN] Nequi 
-:	[RU] Nequi 
-:	[UK] Nequi 
+:	[EN] NEQUI 
+:	[RU] NEQUI 
+:	[UK] NEQUI 
  
 **Category:** `digital_wallet` 
  
@@ -32,7 +32,7 @@ https://static.openfintech.io/payment_methods/nequi/icon.svg?w=278&c=v0.59.26#w1
 
 ## Payout Services 
  
-The list of [Payout Services](/payout-services/) based on the _Nequi_ 
+The list of [Payout Services](/payout-services/) based on the _NEQUI_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -41,7 +41,7 @@ The list of [Payout Services](/payout-services/) based on the _Nequi_
 
 ## Payment Providers 
  
-The list of [Payment Providers](/payment-providers/) that support the _Nequi_ 
+The list of [Payment Providers](/payment-providers/) that support the _NEQUI_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -62,9 +62,9 @@ The list of [Payment Providers](/payment-providers/) that support the _Nequi_
   "code":"nequi",
   "vendor":null,
   "name":{
-    "en":"Nequi",
-    "ru":"Nequi",
-    "uk":"Nequi"
+    "en":"NEQUI",
+    "ru":"NEQUI",
+    "uk":"NEQUI"
   },
   "description":null,
   "countries":null,

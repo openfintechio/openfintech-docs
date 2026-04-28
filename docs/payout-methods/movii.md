@@ -1,5 +1,5 @@
 
-# Movii 
+# MOVII 
 ![movii](https://static.openfintech.io/payment_methods/movii/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -7,9 +7,9 @@
  
 **Name:** 
  
-:	[EN] Movii 
-:	[RU] Movii 
-:	[UK] Movii 
+:	[EN] MOVII 
+:	[RU] MOVII 
+:	[UK] MOVII 
  
 **Category:** `digital_wallet` 
  
@@ -32,7 +32,7 @@ https://static.openfintech.io/payment_methods/movii/icon.svg?w=278&c=v0.59.26#w1
 
 ## Payout Services 
  
-The list of [Payout Services](/payout-services/) based on the _Movii_ 
+The list of [Payout Services](/payout-services/) based on the _MOVII_ 
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
@@ -46,9 +46,9 @@ The list of [Payout Services](/payout-services/) based on the _Movii_
   "code":"movii",
   "vendor":null,
   "name":{
-    "en":"Movii",
-    "ru":"Movii",
-    "uk":"Movii"
+    "en":"MOVII",
+    "ru":"MOVII",
+    "uk":"MOVII"
   },
   "description":null,
   "countries":null,
