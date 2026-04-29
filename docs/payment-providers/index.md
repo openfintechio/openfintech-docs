@@ -90,7 +90,7 @@
 |![axipays](https://static.openfintech.io/payment_providers/axipays/logo.png?w=600&c=v0.59.26#w100) |[**Axipays**](axipays/)|`axipays`| 
 |![azulpay](https://static.openfintech.io/payment_providers/azulpay/logo.png?w=600&c=v0.59.26#w100) |[**Azul Pay**](azulpay/)|`azulpay`| 
 || **B** ||
-|![b2pay](https://static.openfintech.io/payment_providers/b2pay/logo.png?w=600&c=v0.59.26#w100) |[**b2pay.io**](b2pay/)|`b2pay`| 
+|![b2pay](https://static.openfintech.io/payment_providers/b2pay/logo.png?w=600&c=v0.59.26#w100) |[**Paylink**](b2pay/)|`b2pay`| 
 |![baianltd](https://static.openfintech.io/payment_providers/baianltd/logo.png?w=600&c=v0.59.26#w100) |[**Baian Ltd.**](baianltd/)|`baianltd`| 
 |![balticpay](https://static.openfintech.io/payment_providers/balticpay/logo.svg?w=600&c=v0.59.26#w100) |[**BalticPay Corporation**](balticpay/)|`balticpay`| 
 |![bambora](https://static.openfintech.io/payment_providers/bambora/logo.png?w=600&c=v0.59.26#w100) |[**Bambora**](bambora/)|`bambora`| 

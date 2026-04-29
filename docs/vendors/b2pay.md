@@ -1,6 +1,6 @@
 
-# b2pay.io 
-![b2pay](https://static.openfintech.io/vendors/b2pay/logo.png?w=400&c=v0.59.26#w200)  
+# Paylink 
+![b2pay](https://static.openfintech.io/vendors/b2pay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
@@ -8,32 +8,32 @@
  
 **Name:** 
  
-:	[EN] b2pay.io 
-:	[RU] b2pay.io 
-:	[UK] b2pay.io 
+:	[EN] Paylink 
+:	[RU] Paylink 
+:	[UK] Paylink 
  
 **Status:** `active` 
  
 **Links:** 
-: website [https://b2pay.io/](https://b2pay.io/) 
+: website [https://paylink.work/](https://paylink.work/) 
  
 
 ## Images 
 
 ### Logo 
  
-![b2pay](https://static.openfintech.io/vendors/b2pay/logo.png?w=400&c=v0.59.26#w200)  
+![b2pay](https://static.openfintech.io/vendors/b2pay/logo.svg?w=400&c=v0.59.26#w200)  
 
 ```
-https://static.openfintech.io/vendors/b2pay/logo.png?w=400&c=v0.59.26#w200
+https://static.openfintech.io/vendors/b2pay/logo.svg?w=400&c=v0.59.26#w200
 ```  
 
 ### Icon 
  
-![b2pay](https://static.openfintech.io/vendors/b2pay/icon.png?w=278&c=v0.59.26#w100)  
+![b2pay](https://static.openfintech.io/vendors/b2pay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/vendors/b2pay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/vendors/b2pay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## JSON Object 
@@ -42,14 +42,14 @@ https://static.openfintech.io/vendors/b2pay/icon.png?w=278&c=v0.59.26#w100
 {
   "code":"b2pay",
   "name":{
-    "en":"b2pay.io",
-    "ru":"b2pay.io",
-    "uk":"b2pay.io"
+    "en":"Paylink",
+    "ru":"Paylink",
+    "uk":"Paylink"
   },
   "status":"active",
   "description":null,
   "links":{
-    "website":"https:\/\/b2pay.io\/"
+    "website":"https:\/\/paylink.work\/"
   },
   "countries":null,
   "contacts":null,

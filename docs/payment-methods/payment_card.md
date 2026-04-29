@@ -509,7 +509,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![fiatsystems](https://static.openfintech.io/payment_providers/fiatsystems/icon.png?w=278&c=v0.59.26#w100) |[FiatSystems](/payment-providers/fiatsystems/)|`fiatsystems`| 
 |![bitexpro](https://static.openfintech.io/payment_providers/bitexpro/icon.png?w=278&c=v0.59.26#w100) |[BitexPRO](/payment-providers/bitexpro/)|`bitexpro`| 
 |![antrpay](https://static.openfintech.io/payment_providers/antrpay/icon.png?w=278&c=v0.59.26#w100) |[Antrpay](/payment-providers/antrpay/)|`antrpay`| 
-|![b2pay](https://static.openfintech.io/payment_providers/b2pay/icon.png?w=278&c=v0.59.26#w100) |[b2pay.io](/payment-providers/b2pay/)|`b2pay`| 
+|![b2pay](https://static.openfintech.io/payment_providers/b2pay/icon.png?w=278&c=v0.59.26#w100) |[Paylink](/payment-providers/b2pay/)|`b2pay`| 
 |![maldopay](https://static.openfintech.io/payment_providers/maldopay/icon.png?w=278&c=v0.59.26#w100) |[MaldoPay](/payment-providers/maldopay/)|`maldopay`| 
 |![sirpaga](https://static.openfintech.io/payment_providers/sirpaga/icon.png?w=278&c=v0.59.26#w100) |[Sirpaga](/payment-providers/sirpaga/)|`sirpaga`| 
 |![prmoney](https://static.openfintech.io/payment_providers/prmoney/icon.png?w=278&c=v0.59.26#w100) |[PrMoney](/payment-providers/prmoney/)|`prmoney`| 
