@@ -1,5 +1,5 @@
 
-# Shift4 
+# Shift4 EU 
 ![shift4](https://static.openfintech.io/payment_providers/shift4/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Shift4 
-:	[RU] Shift4 
-:	[UK] Shift4 
+:	[EN] Shift4 EU 
+:	[RU] Shift4 EU 
+:	[UK] Shift4 EU 
  
 
 ## Images 
@@ -57,9 +57,9 @@ The list of supported [Payment Methods](/payment-methods/)
   "payout_method":null,
   "metadata":null,
   "name":{
-    "en":"Shift4",
-    "ru":"Shift4",
-    "uk":"Shift4"
+    "en":"Shift4 EU",
+    "ru":"Shift4 EU",
+    "uk":"Shift4 EU"
   }
 }
 ```  
