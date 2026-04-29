@@ -700,6 +700,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![smartfastpay](https://static.openfintech.io/payment_providers/smartfastpay/icon.png?w=278&c=v0.59.26#w100) |[SmartFastPay](/payment-providers/smartfastpay/)|`smartfastpay`| 
 |![solvex](https://static.openfintech.io/payment_providers/solvex/icon.svg?w=278&c=v0.59.26#w100) |[Solvex](/payment-providers/solvex/)|`solvex`| 
 |![paytech](https://static.openfintech.io/payment_providers/paytech/icon.png?w=278&c=v0.59.26#w100) |[Paytech](/payment-providers/paytech/)|`paytech`| 
+|![transactpro](https://static.openfintech.io/payment_providers/transactpro/icon.png?w=278&c=v0.59.26#w100) |[Transact Pro](/payment-providers/transactpro/)|`transactpro`| 
 |![lapsa](https://static.openfintech.io/payment_providers/lapsa/icon.png?w=278&c=v0.59.26#w100) |[Lapsa](/payment-providers/lapsa/)|`lapsa`| 
 |![corefy](https://static.openfintech.io/payment_providers/corefy/icon.svg?w=278&c=v0.59.26#w100) |[Corefy](/payment-providers/corefy/)|`corefy`| 
 |![myfatoorah](https://static.openfintech.io/payment_providers/myfatoorah/icon.png?w=278&c=v0.59.26#w100) |[MyFatoorah](/payment-providers/myfatoorah/)|`myfatoorah`| 

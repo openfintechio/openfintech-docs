@@ -142,6 +142,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Google Pa
 |![apay](https://static.openfintech.io/payment_providers/apay/icon.svg?w=278&c=v0.59.26#w100) |[Apay](/payment-providers/apay/)|`apay`| 
 |![solvex](https://static.openfintech.io/payment_providers/solvex/icon.svg?w=278&c=v0.59.26#w100) |[Solvex](/payment-providers/solvex/)|`solvex`| 
 |![paytech](https://static.openfintech.io/payment_providers/paytech/icon.png?w=278&c=v0.59.26#w100) |[Paytech](/payment-providers/paytech/)|`paytech`| 
+|![transactpro](https://static.openfintech.io/payment_providers/transactpro/icon.png?w=278&c=v0.59.26#w100) |[Transact Pro](/payment-providers/transactpro/)|`transactpro`| 
 |![lapsa](https://static.openfintech.io/payment_providers/lapsa/icon.png?w=278&c=v0.59.26#w100) |[Lapsa](/payment-providers/lapsa/)|`lapsa`| 
 |![cardifulnew](https://static.openfintech.io/payment_providers/cardifulnew/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful New](/payment-providers/cardifulnew/)|`cardifulnew`| 
  

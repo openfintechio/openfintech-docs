@@ -11,11 +11,9 @@
 **Name:** 
  
 :	[EN] Transact Pro 
+:	[RU] Transact Pro 
+:	[UK] Transact Pro 
  
- 
-**Countries:** 
- 
-:	![EE](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ee.svg#w24) 	![DE](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/de.svg#w24) 	![IS](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/is.svg#w24) 	![LV](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/lv.svg#w24) 	![LT](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/lt.svg#w24) 	![RW](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/rw.svg#w24) 	![AE](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ae.svg#w24)  
 
 ## Images 
 
@@ -35,6 +33,17 @@ https://static.openfintech.io/payment_providers/transactpro/logo.png?w=400&c=v0.
 https://static.openfintech.io/payment_providers/transactpro/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Methods 
+ 
+The list of supported [Payment Methods](/payment-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay](/payment-methods/applepay/)|`applepay`| 
+|![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay](/payment-methods/googlepay/)|`googlepay`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -43,22 +52,18 @@ https://static.openfintech.io/payment_providers/transactpro/icon.png?w=278&c=v0.
   "description":null,
   "vendor":"transactpro",
   "categories":null,
-  "countries":[
-    "EE",
-    "DE",
-    "IS",
-    "LV",
-    "LT",
-    "RW",
-    "AE"
+  "countries":null,
+  "payment_method":[
+    "applepay",
+    "googlepay",
+    "payment_card"
   ],
-  "payment_method":null,
   "payout_method":null,
-  "metadata":{
-    "about_payments_code":"transactpro"
-  },
+  "metadata":null,
   "name":{
-    "en":"Transact Pro"
+    "en":"Transact Pro",
+    "ru":"Transact Pro",
+    "uk":"Transact Pro"
   }
 }
 ```  
