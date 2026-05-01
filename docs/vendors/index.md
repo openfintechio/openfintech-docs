@@ -1646,6 +1646,7 @@
 |![payadmit](https://static.openfintech.io/vendors/payadmit/logo.svg?w=600&c=v0.59.26#w200) |[**Payadmit**](payadmit/)|`payadmit`| 
 |![payanyway](https://static.openfintech.io/vendors/payanyway/logo.png?w=600&c=v0.59.26#w200) |[**PayAnyWay.com**](payanyway/)|`payanyway`| 
 |![payassist](https://static.openfintech.io/vendors/payassist/logo.png?w=600&c=v0.59.26#w200) |[**PayAssist**](payassist/)|`payassist`| 
+|![payball](https://static.openfintech.io/vendors/payball/logo.png?w=600&c=v0.59.26#w200) |[**Payball**](payball/)|`payball`| 
 |![paybis](https://static.openfintech.io/vendors/paybis/logo.png?w=600&c=v0.59.26#w200) |[**Paybis**](paybis/)|`paybis`| 
 |![payboutique](https://static.openfintech.io/vendors/payboutique/logo.png?w=600&c=v0.59.26#w200) |[**Payboutique **](payboutique/)|`payboutique`| 
 |![paybox](https://static.openfintech.io/vendors/paybox/logo.svg?w=600&c=v0.59.26#w200) |[**Paybox**](paybox/)|`paybox`| 
