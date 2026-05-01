@@ -39,6 +39,8 @@
 |`beneficiary_state`|✗|`string`|`/^.{1,100}$/`| 
 |`beneficiary_postcode`|✗|`string`|`/^.{1,255}$/`| 
 |`dialcode`|✗|`string`|`/^[0-9]{1,4}$/`| 
+|`beneficiary_bank_code`|✗|`string`|`/^[A-Z]{6}[A-Z0-9]{2}([A-Z0-9]{3})?$/`| 
+|`beneficiary_bank_name`|✗|`string`|`/^.{1,128}$/`| 
  
 
 ### Details 
@@ -313,6 +315,42 @@
 	: [RU] Введите код набора 
 	: [UK] Введіть Код набору 
  
+16. **`beneficiary_bank_code`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Z]{6}[A-Z0-9]{2}([A-Z0-9]{3})?$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary Bank code 
+	: [RU] Код банка получателя 
+	: [UK] Код банку отримувача 
+ 
+	Hint:  
+	: [EN] Enter Beneficiary Bank code 
+	: [RU] Введите код банка получателя 
+	: [UK] Введіть код банку отримувача 
+ 
+17. **`beneficiary_bank_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{1,128}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary Bank Name 
+	: [RU] Название банка получателя 
+	: [UK] Назва банку 
+ 
+	Hint:  
+	: [EN] Enter bank name 
+	: [RU] Введите название банка 
+	: [UK] Введіть назву банку 
+ 
 
 ## JSON Object 
 
@@ -586,6 +624,42 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u041a\u043e\u0434 \u043d\u0430\u0431\u043e\u0440\u0443"
       },
       "example":"1234"
+    },
+    {
+      "key":"beneficiary_bank_code",
+      "type":"string",
+      "label":{
+        "en":"Beneficiary Bank code",
+        "ru":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter Beneficiary Bank code",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "regexp":"\/^[A-Z]{6}[A-Z0-9]{2}([A-Z0-9]{3})?$\/",
+      "required":false,
+      "position":16,
+      "example":"LEABCD5805N"
+    },
+    {
+      "key":"beneficiary_bank_name",
+      "type":"string",
+      "label":{
+        "en":"Beneficiary Bank Name",
+        "ru":"\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0431\u0430\u043d\u043a\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u041d\u0430\u0437\u0432\u0430 \u0431\u0430\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter bank name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u0430\u0437\u0432\u0443 \u0431\u0430\u043d\u043a\u0443"
+      },
+      "regexp":"\/^.{1,128}$\/",
+      "required":false,
+      "position":17,
+      "example":"Bank of Lemuria"
     }
   ],
   "amount_min":"0.01",

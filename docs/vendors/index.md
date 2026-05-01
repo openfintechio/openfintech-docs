@@ -1981,6 +1981,7 @@
 |![rnkbank](https://static.openfintech.io/vendors/rnkbank/logo.svg?w=600&c=v0.59.26#w200) |[**РНК банк**](rnkbank/)|`rnkbank`| 
 |![robokassa](https://static.openfintech.io/vendors/robokassa/logo.png?w=600&c=v0.59.26#w200) |[**Robokassa**](robokassa/)|`robokassa`| 
 |![rocketchange.ru](https://static.openfintech.io/vendors/rocketchange.ru/logo.svg?w=600&c=v0.59.26#w200) |[**RocketChange**](rocketchange.ru/)|`rocketchange.ru`| 
+|![rocketfuel](https://static.openfintech.io/vendors/rocketfuel/logo.svg?w=600&c=v0.59.26#w200) |[**RocketFuel**](rocketfuel/)|`rocketfuel`| 
 |![rocketgate](https://static.openfintech.io/vendors/rocketgate/logo.png?w=600&c=v0.59.26#w200) |[**RocketGate**](rocketgate/)|`rocketgate`| 
 |![roketbank](https://static.openfintech.io/vendors/roketbank/logo.svg?w=600&c=v0.59.26#w200) |[**Рокетбанк**](roketbank/)|`roketbank`| 
 |![rosbank](https://static.openfintech.io/vendors/rosbank/logo.svg?w=600&c=v0.59.26#w200) |[**Росбанк**](rosbank/)|`rosbank`| 
