@@ -39,6 +39,7 @@ The list of [Payment Services](/payment-services/) based on the _Easypaisa_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![easypaisa](https://static.openfintech.io/payment_methods/easypaisa/icon.svg?w=278&c=v0.59.26#w100) |[easypaisa_pkr_hpp](/payment-services/easypaisa_pkr_hpp/)|`easypaisa_pkr_hpp`| 
+|![easypaisa](https://static.openfintech.io/payment_methods/easypaisa/icon.svg?w=278&c=v0.59.26#w100) |[easypaisa_pkr_invoice](/payment-services/easypaisa_pkr_invoice/)|`easypaisa_pkr_invoice`| 
 |![easypaisa](https://static.openfintech.io/payment_methods/easypaisa/icon.svg?w=278&c=v0.59.26#w100) |[easypaisa_pkr_transfer](/payment-services/easypaisa_pkr_transfer/)|`easypaisa_pkr_transfer`| 
  
 

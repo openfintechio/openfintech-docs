@@ -39,6 +39,7 @@ The list of [Payment Services](/payment-services/) based on the _JazzCash_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![jazzcash](https://static.openfintech.io/payment_methods/jazzcash/icon.svg?w=278&c=v0.59.26#w100) |[jazzcash_pkr_hpp](/payment-services/jazzcash_pkr_hpp/)|`jazzcash_pkr_hpp`| 
+|![jazzcash](https://static.openfintech.io/payment_methods/jazzcash/icon.svg?w=278&c=v0.59.26#w100) |[jazzcash_pkr_invoice](/payment-services/jazzcash_pkr_invoice/)|`jazzcash_pkr_invoice`| 
 |![jazzcash](https://static.openfintech.io/payment_methods/jazzcash/icon.svg?w=278&c=v0.59.26#w100) |[jazzcash_pkr_transfer](/payment-services/jazzcash_pkr_transfer/)|`jazzcash_pkr_transfer`| 
  
 
