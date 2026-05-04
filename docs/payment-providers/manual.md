@@ -57,6 +57,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![etisalat_cash](https://static.openfintech.io/payout_methods/etisalat_cash/icon.svg?w=278&c=v0.59.26#w40) |[etisalat_cash](payout-methodsetisalat_cash/)|`etisalat_cash`| 
 |![cib_smart_wallet](https://static.openfintech.io/payout_methods/cib_smart_wallet/icon.svg?w=278&c=v0.59.26#w40) |[cib_smart_wallet](payout-methodscib_smart_wallet/)|`cib_smart_wallet`| 
 |![vodafone_cash](https://static.openfintech.io/payout_methods/vodafone_cash/icon.svg?w=278&c=v0.59.26#w40) |[vodafone_cash](payout-methodsvodafone_cash/)|`vodafone_cash`| 
+|![jazzcash](https://static.openfintech.io/payout_methods/jazzcash/icon.png?w=278&c=v0.59.26#w40) |[jazzcash](payout-methodsjazzcash/)|`jazzcash`| 
  
 
 ## JSON Object 
@@ -82,7 +83,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "nagad_wallet",
     "etisalat_cash",
     "cib_smart_wallet",
-    "vodafone_cash"
+    "vodafone_cash",
+    "jazzcash"
   ],
   "metadata":null,
   "name":{
