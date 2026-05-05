@@ -57,6 +57,7 @@ The list of [Payment Providers](/payment-providers/) that support the _BLIK_
 |![skrill](https://static.openfintech.io/payment_providers/skrill/icon.svg?w=278&c=v0.59.26#w100) |[Skrill](/payment-providers/skrill/)|`skrill`| 
 |![paymaster](https://static.openfintech.io/payment_providers/paymaster/icon.svg?w=278&c=v0.59.26#w100) |[Paymaster](/payment-providers/paymaster/)|`paymaster`| 
 |![spoynt](https://static.openfintech.io/payment_providers/spoynt/icon.svg?w=278&c=v0.59.26#w100) |[Spoynt](/payment-providers/spoynt/)|`spoynt`| 
+|![fyst](https://static.openfintech.io/payment_providers/fyst/icon.png?w=278&c=v0.59.26#w100) |[FYST](/payment-providers/fyst/)|`fyst`| 
 |![paysage](https://static.openfintech.io/payment_providers/paysage/icon.png?w=278&c=v0.59.26#w100) |[COLIBRIX](/payment-providers/paysage/)|`paysage`| 
 |![justipay](https://static.openfintech.io/payment_providers/justipay/icon.png?w=278&c=v0.59.26#w100) |[Justipay](/payment-providers/justipay/)|`justipay`| 
 |![todapay](https://static.openfintech.io/payment_providers/todapay/icon.png?w=278&c=v0.59.26#w100) |[TODA Pay](/payment-providers/todapay/)|`todapay`| 
