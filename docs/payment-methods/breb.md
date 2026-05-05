@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bre-B_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![starpago](https://static.openfintech.io/payment_providers/starpago/icon.png?w=278&c=v0.59.26#w100) |[Starpago](/payment-providers/starpago/)|`starpago`| 
 |![smartfastpay](https://static.openfintech.io/payment_providers/smartfastpay/icon.png?w=278&c=v0.59.26#w100) |[SmartFastPay](/payment-providers/smartfastpay/)|`smartfastpay`| 
  
 
