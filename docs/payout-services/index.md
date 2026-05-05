@@ -2273,6 +2273,7 @@
 |![Société Générale South Africa](https://static.openfintech.io/payout_methods/societe_generale_south_africa/logo.svg?w=400&c=v0.59.26#w24) |[**Société Générale South Africa**](/payout-methods/societe_generale_south_africa/)|[`societe_generale_south_africa_zar`](societe_generale_south_africa_zar/)|`ZAR`| 
 |![Softlink (Киев)](https://static.openfintech.io/payout_methods/softlink-kiev/logo.svg?w=400&c=v0.59.26#w24) |[**Softlink (Киев)**](/payout-methods/softlink-kiev/)|[`softlink-kiev_uah`](softlink-kiev_uah/)|`UAH`| 
 |![SOHONET](https://static.openfintech.io/payout_methods/sohonet/logo.png?w=400&c=v0.59.26#w24) |[**SOHONET**](/payout-methods/sohonet/)|[`sohonet_uah`](sohonet_uah/)|`UAH`| 
+|![Solana](https://static.openfintech.io/payout_methods/solana/logo.svg?w=400&c=v0.59.26#w24) |[**Solana**](/payout-methods/solana/)|[`solana_sol`](solana_sol/)|`SOL`| 
 |![Solana](https://static.openfintech.io/payout_methods/solana/logo.svg?w=400&c=v0.59.26#w24) |[**Solana**](/payout-methods/solana/)|[`solana_usdc`](solana_usdc/)|`USDC`| 
 |![Sony Bank](https://static.openfintech.io/payout_methods/sony_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Sony Bank**](/payout-methods/sony_bank/)|[`sony_bank_jpy`](sony_bank_jpy/)|`JPY`| 
 |![South African Bank of Athens](https://static.openfintech.io/payout_methods/south_african_bank_of_athens/logo.svg?w=400&c=v0.59.26#w24) |[**South African Bank of Athens**](/payout-methods/south_african_bank_of_athens/)|[`south_african_bank_of_athens_zar`](south_african_bank_of_athens_zar/)|`ZAR`| 

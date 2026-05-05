@@ -39,6 +39,7 @@ The list of [Payout Services](/payout-services/) based on the _Solana_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![solana](https://static.openfintech.io/payout_methods/solana/icon.svg?w=278&c=v0.59.26#w40) |[solana_usdc](/payout-services/solana_usdc/)|`solana_usdc`| 
+|![solana](https://static.openfintech.io/payout_methods/solana/icon.svg?w=278&c=v0.59.26#w40) |[solana_sol](/payout-services/solana_sol/)|`solana_sol`| 
  
 
 ## Payment Providers 
