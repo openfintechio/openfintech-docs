@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Sofort ub
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![fyst](https://static.openfintech.io/payment_providers/fyst/icon.png?w=278&c=v0.59.26#w100) |[FYST](/payment-providers/fyst/)|`fyst`| 
 |![token](https://static.openfintech.io/payment_providers/token/icon.png?w=278&c=v0.59.26#w100) |[Token.io](/payment-providers/token/)|`token`| 
 |![saltedge](https://static.openfintech.io/payment_providers/saltedge/icon.svg?w=278&c=v0.59.26#w100) |[Salt Edge](/payment-providers/saltedge/)|`saltedge`| 
  
