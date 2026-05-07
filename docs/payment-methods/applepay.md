@@ -146,6 +146,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Apple Pay
 |![xmgate](https://static.openfintech.io/payment_providers/xmgate/icon.svg?w=278&c=v0.59.26#w100) |[Xmgate](/payment-providers/xmgate/)|`xmgate`| 
 |![paynearme](https://static.openfintech.io/payment_providers/paynearme/icon.svg?w=278&c=v0.59.26#w100) |[PayNearMe](/payment-providers/paynearme/)|`paynearme`| 
 |![apay](https://static.openfintech.io/payment_providers/apay/icon.svg?w=278&c=v0.59.26#w100) |[Apay](/payment-providers/apay/)|`apay`| 
+|![matrixpaysolution](https://static.openfintech.io/payment_providers/matrixpaysolution/icon.png?w=278&c=v0.59.26#w100) |[MatrixPaySolution](/payment-providers/matrixpaysolution/)|`matrixpaysolution`| 
 |![solvex](https://static.openfintech.io/payment_providers/solvex/icon.svg?w=278&c=v0.59.26#w100) |[Solvex](/payment-providers/solvex/)|`solvex`| 
 |![paytech](https://static.openfintech.io/payment_providers/paytech/icon.png?w=278&c=v0.59.26#w100) |[Paytech](/payment-providers/paytech/)|`paytech`| 
 |![transactpro](https://static.openfintech.io/payment_providers/transactpro/icon.png?w=278&c=v0.59.26#w100) |[Transact Pro](/payment-providers/transactpro/)|`transactpro`| 
