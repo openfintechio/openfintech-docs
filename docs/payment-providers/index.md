@@ -598,6 +598,7 @@
 |![monobank](https://static.openfintech.io/payment_providers/monobank/logo.svg?w=600&c=v0.59.26#w100) |[**Monobank**](monobank/)|`monobank`| 
 |![mopay](https://static.openfintech.io/payment_providers/mopay/logo.png?w=600&c=v0.59.26#w100) |[**mopay**](mopay/)|`mopay`| 
 |![mozcompayeasy](https://static.openfintech.io/payment_providers/mozcompayeasy/logo.png?w=600&c=v0.59.26#w100) |[**Mozcom PayEasy**](mozcompayeasy/)|`mozcompayeasy`| 
+|![mpay](https://static.openfintech.io/payment_providers/mpay/logo.png?w=600&c=v0.59.26#w100) |[**MPay**](mpay/)|`mpay`| 
 |![mpay24](https://static.openfintech.io/payment_providers/mpay24/logo.png?w=600&c=v0.59.26#w100) |[**mPay24**](mpay24/)|`mpay24`| 
 |![mtb](https://static.openfintech.io/payment_providers/mtb/logo.svg?w=600&c=v0.59.26#w100) |[**MTB**](mtb/)|`mtb`| 
 |![mtb2](https://static.openfintech.io/payment_providers/mtb2/logo.svg?w=600&c=v0.59.26#w100) |[**MTB2**](mtb2/)|`mtb2`| 
