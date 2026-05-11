@@ -384,6 +384,7 @@
 |![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_btc`](bitcoin_btc/)|`BTC`| 
 |![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_cad`](bitcoin_cad/)|`CAD`| 
 |![Bitcoin cash](https://static.openfintech.io/payout_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w24) |[**Bitcoin cash**](/payout-methods/bitcoin_cash/)|[`bitcoin_cash_bch`](bitcoin_cash_bch/)|`BCH`| 
+|![Bitcoin cash](https://static.openfintech.io/payout_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w24) |[**Bitcoin cash**](/payout-methods/bitcoin_cash/)|[`bitcoin_cash_cad`](bitcoin_cash_cad/)|`CAD`| 
 |![Bitcoin cash](https://static.openfintech.io/payout_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w24) |[**Bitcoin cash**](/payout-methods/bitcoin_cash/)|[`bitcoin_cash_eur`](bitcoin_cash_eur/)|`EUR`| 
 |![Bitcoin cash](https://static.openfintech.io/payout_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w24) |[**Bitcoin cash**](/payout-methods/bitcoin_cash/)|[`bitcoin_cash_uah`](bitcoin_cash_uah/)|`UAH`| 
 |![Bitcoin cash](https://static.openfintech.io/payout_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w24) |[**Bitcoin cash**](/payout-methods/bitcoin_cash/)|[`bitcoin_cash_usd`](bitcoin_cash_usd/)|`USD`| 
@@ -459,6 +460,7 @@
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`card`](card/)|`XXX`| 
 |![Card](https://static.openfintech.io/payout_methods/payment_card/logo.svg?w=400&c=v0.59.26#w24) |[**Card**](/payout-methods/payment_card/)|[`card_token`](card_token/)|`XXX`| 
 |![Cardano](https://static.openfintech.io/payout_methods/cardano/logo.svg?w=400&c=v0.59.26#w24) |[**Cardano**](/payout-methods/cardano/)|[`cardano_ada`](cardano_ada/)|`ADA`| 
+|![Cardano](https://static.openfintech.io/payout_methods/cardano/logo.svg?w=400&c=v0.59.26#w24) |[**Cardano**](/payout-methods/cardano/)|[`cardano_cad`](cardano_cad/)|`CAD`| 
 |![CASH](https://static.openfintech.io/payout_methods/cash/logo.png?w=400&c=v0.59.26#w24) |[**CASH**](/payout-methods/cash/)|[`cash_aud`](cash_aud/)|`AUD`| 
 |![CASH](https://static.openfintech.io/payout_methods/cash/logo.png?w=400&c=v0.59.26#w24) |[**CASH**](/payout-methods/cash/)|[`cash_cad`](cash_cad/)|`CAD`| 
 |![CASH](https://static.openfintech.io/payout_methods/cash/logo.png?w=400&c=v0.59.26#w24) |[**CASH**](/payout-methods/cash/)|[`cash_cop`](cash_cop/)|`COP`| 
@@ -669,6 +671,7 @@
 |![Dneprvodokanal](https://static.openfintech.io/payout_methods/dneprvodokanal/logo.png?w=400&c=v0.59.26#w24) |[**Dneprvodokanal**](/payout-methods/dneprvodokanal/)|[`dneprvodokanal_uah`](dneprvodokanal_uah/)|`UAH`| 
 |![dobovo.com](https://static.openfintech.io/payout_methods/dobovo-com/logo.png?w=400&c=v0.59.26#w24) |[**dobovo.com**](/payout-methods/dobovo-com/)|[`dobovo-com_uah`](dobovo-com_uah/)|`UAH`| 
 |![Dobropolskoe PUVKH (water of Donbass)](https://static.openfintech.io/payout_methods/dobropolskoe-puvkkh-voda-donbassa/logo.png?w=400&c=v0.59.26#w24) |[**Dobropolskoe PUVKH (water of Donbass)**](/payout-methods/dobropolskoe-puvkkh-voda-donbassa/)|[`dobropolskoe-puvkkh-voda-donbassa_uah`](dobropolskoe-puvkkh-voda-donbassa_uah/)|`UAH`| 
+|![Dogecoin](https://static.openfintech.io/payout_methods/dogecoin/logo.svg?w=400&c=v0.59.26#w24) |[**Dogecoin**](/payout-methods/dogecoin/)|[`dogecoin_cad`](dogecoin_cad/)|`CAD`| 
 |![Dogecoin](https://static.openfintech.io/payout_methods/dogecoin/logo.svg?w=400&c=v0.59.26#w24) |[**Dogecoin**](/payout-methods/dogecoin/)|[`dogecoin_doge`](dogecoin_doge/)|`DOGE`| 
 |![DOM.RIA](https://static.openfintech.io/payout_methods/dom-ria/logo.png?w=400&c=v0.59.26#w24) |[**DOM.RIA**](/payout-methods/dom-ria/)|[`dom-ria_uah`](dom-ria_uah/)|`UAH`| 
 |![Home Network (Kiev)](https://static.openfintech.io/payout_methods/domashniaia-set-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Home Network (Kiev)**](/payout-methods/domashniaia-set-kiev/)|[`domashniaia-set-kiev_uah`](domashniaia-set-kiev_uah/)|`UAH`| 
@@ -1350,6 +1353,7 @@
 |![PT Fintek Karya Nusantara Linkaja e-wallet](https://static.openfintech.io/payout_methods/linkaja/logo.svg?w=400&c=v0.59.26#w24) |[**PT Fintek Karya Nusantara Linkaja e-wallet**](/payout-methods/linkaja/)|[`linkaja_idr`](linkaja_idr/)|`IDR`| 
 |![Linknet (Донецька)](https://static.openfintech.io/payout_methods/linknet-donetska/logo.svg?w=400&c=v0.59.26#w24) |[**Linknet (Донецька)**](/payout-methods/linknet-donetska/)|[`linknet-donetska_uah`](linknet-donetska_uah/)|`UAH`| 
 |![Липецьке РВЕ АК "Харківобленерго" (за послуги до 31.12.2018)](https://static.openfintech.io/payout_methods/lipetske-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Липецьке РВЕ АК "Харківобленерго" (за послуги до 31.12.2018)**](/payout-methods/lipetske-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|[`lipetske-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018_uah`](lipetske-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018_uah/)|`UAH`| 
+|![Litecoin](https://static.openfintech.io/payout_methods/litecoin/logo.png?w=400&c=v0.59.26#w24) |[**Litecoin**](/payout-methods/litecoin/)|[`litecoin_cad`](litecoin_cad/)|`CAD`| 
 |![Litecoin](https://static.openfintech.io/payout_methods/litecoin/logo.png?w=400&c=v0.59.26#w24) |[**Litecoin**](/payout-methods/litecoin/)|[`litecoin_eur`](litecoin_eur/)|`EUR`| 
 |![Litecoin](https://static.openfintech.io/payout_methods/litecoin/logo.png?w=400&c=v0.59.26#w24) |[**Litecoin**](/payout-methods/litecoin/)|[`litecoin_ltc`](litecoin_ltc/)|`LTC`| 
 |![Litecoin](https://static.openfintech.io/payout_methods/litecoin/logo.png?w=400&c=v0.59.26#w24) |[**Litecoin**](/payout-methods/litecoin/)|[`litecoin_rub`](litecoin_rub/)|`RUB`| 
@@ -2098,6 +2102,7 @@
 |![RIA.com](https://static.openfintech.io/payout_methods/ria-com/logo.png?w=400&c=v0.59.26#w24) |[**RIA.com**](/payout-methods/ria-com/)|[`ria-com_uah`](ria-com_uah/)|`UAH`| 
 |![Richway MFB](https://static.openfintech.io/payout_methods/richway_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Richway MFB**](/payout-methods/richway_mfb/)|[`richway_mfb_ngn`](richway_mfb_ngn/)|`NGN`| 
 |![RIOT](https://static.openfintech.io/payout_methods/riot/logo.png?w=400&c=v0.59.26#w24) |[**RIOT**](/payout-methods/riot/)|[`riot_uah`](riot_uah/)|`UAH`| 
+|![Ripple](https://static.openfintech.io/payout_methods/ripple/logo.svg?w=400&c=v0.59.26#w24) |[**Ripple**](/payout-methods/ripple/)|[`ripple_cad`](ripple_cad/)|`CAD`| 
 |![Ripple](https://static.openfintech.io/payout_methods/ripple/logo.svg?w=400&c=v0.59.26#w24) |[**Ripple**](/payout-methods/ripple/)|[`ripple_eur`](ripple_eur/)|`EUR`| 
 |![Ripple](https://static.openfintech.io/payout_methods/ripple/logo.svg?w=400&c=v0.59.26#w24) |[**Ripple**](/payout-methods/ripple/)|[`ripple_uah`](ripple_uah/)|`UAH`| 
 |![Ripple](https://static.openfintech.io/payout_methods/ripple/logo.svg?w=400&c=v0.59.26#w24) |[**Ripple**](/payout-methods/ripple/)|[`ripple_usd`](ripple_usd/)|`USD`| 
@@ -2273,6 +2278,7 @@
 |![Société Générale South Africa](https://static.openfintech.io/payout_methods/societe_generale_south_africa/logo.svg?w=400&c=v0.59.26#w24) |[**Société Générale South Africa**](/payout-methods/societe_generale_south_africa/)|[`societe_generale_south_africa_zar`](societe_generale_south_africa_zar/)|`ZAR`| 
 |![Softlink (Киев)](https://static.openfintech.io/payout_methods/softlink-kiev/logo.svg?w=400&c=v0.59.26#w24) |[**Softlink (Киев)**](/payout-methods/softlink-kiev/)|[`softlink-kiev_uah`](softlink-kiev_uah/)|`UAH`| 
 |![SOHONET](https://static.openfintech.io/payout_methods/sohonet/logo.png?w=400&c=v0.59.26#w24) |[**SOHONET**](/payout-methods/sohonet/)|[`sohonet_uah`](sohonet_uah/)|`UAH`| 
+|![Solana](https://static.openfintech.io/payout_methods/solana/logo.svg?w=400&c=v0.59.26#w24) |[**Solana**](/payout-methods/solana/)|[`solana_cad`](solana_cad/)|`CAD`| 
 |![Solana](https://static.openfintech.io/payout_methods/solana/logo.svg?w=400&c=v0.59.26#w24) |[**Solana**](/payout-methods/solana/)|[`solana_sol`](solana_sol/)|`SOL`| 
 |![Solana](https://static.openfintech.io/payout_methods/solana/logo.svg?w=400&c=v0.59.26#w24) |[**Solana**](/payout-methods/solana/)|[`solana_usdc`](solana_usdc/)|`USDC`| 
 |![Sony Bank](https://static.openfintech.io/payout_methods/sony_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Sony Bank**](/payout-methods/sony_bank/)|[`sony_bank_jpy`](sony_bank_jpy/)|`JPY`| 
@@ -3135,6 +3141,7 @@
 |![TRC Mriya - Television (Ovruch)](https://static.openfintech.io/payout_methods/trk-mriia-televidenie-ovruch/logo.png?w=400&c=v0.59.26#w24) |[**TRC Mriya - Television (Ovruch)**](/payout-methods/trk-mriia-televidenie-ovruch/)|[`trk-mriia-televidenie-ovruch_uah`](trk-mriia-televidenie-ovruch_uah/)|`UAH`| 
 |![Planet Broadcasting Company (Chernivtsi)](https://static.openfintech.io/payout_methods/trk-planeta-chernivtsi/logo.png?w=400&c=v0.59.26#w24) |[**Planet Broadcasting Company (Chernivtsi)**](/payout-methods/trk-planeta-chernivtsi/)|[`trk-planeta-chernivtsi_uah`](trk-planeta-chernivtsi_uah/)|`UAH`| 
 |![TRK Ros Telecom (Kiev)](https://static.openfintech.io/payout_methods/trk-ros-telekom-kiev/logo.png?w=400&c=v0.59.26#w24) |[**TRK Ros Telecom (Kiev)**](/payout-methods/trk-ros-telekom-kiev/)|[`trk-ros-telekom-kiev_uah`](trk-ros-telekom-kiev_uah/)|`UAH`| 
+|![TRON](https://static.openfintech.io/payout_methods/tron/logo.svg?w=400&c=v0.59.26#w24) |[**TRON**](/payout-methods/tron/)|[`tron_cad`](tron_cad/)|`CAD`| 
 |![TRON](https://static.openfintech.io/payout_methods/tron/logo.svg?w=400&c=v0.59.26#w24) |[**TRON**](/payout-methods/tron/)|[`tron_trx`](tron_trx/)|`TRX`| 
 |![Trustbank MFB](https://static.openfintech.io/payout_methods/trustbank_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Trustbank MFB**](/payout-methods/trustbank_mfb/)|[`trustbank_mfb_ngn`](trustbank_mfb_ngn/)|`NGN`| 
 |![Trustfund MFB](https://static.openfintech.io/payout_methods/trustfund_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Trustfund MFB**](/payout-methods/trustfund_mfb/)|[`trustfund_mfb_ngn`](trustfund_mfb_ngn/)|`NGN`| 

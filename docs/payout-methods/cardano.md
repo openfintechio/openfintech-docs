@@ -39,6 +39,7 @@ The list of [Payout Services](/payout-services/) based on the _Cardano_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![cardano](https://static.openfintech.io/payout_methods/cardano/icon.svg?w=278&c=v0.59.26#w40) |[cardano_ada](/payout-services/cardano_ada/)|`cardano_ada`| 
+|![cardano](https://static.openfintech.io/payout_methods/cardano/icon.svg?w=278&c=v0.59.26#w40) |[cardano_cad](/payout-services/cardano_cad/)|`cardano_cad`| 
  
 
 ## Payment Providers 

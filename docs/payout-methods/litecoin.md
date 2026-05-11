@@ -40,6 +40,7 @@ The list of [Payout Services](/payout-services/) based on the _Litecoin_
 |![litecoin](https://static.openfintech.io/payout_methods/litecoin/icon.png?w=278&c=v0.59.26#w40) |[litecoin_uah](/payout-services/litecoin_uah/)|`litecoin_uah`| 
 |![litecoin](https://static.openfintech.io/payout_methods/litecoin/icon.png?w=278&c=v0.59.26#w40) |[litecoin_rub](/payout-services/litecoin_rub/)|`litecoin_rub`| 
 |![litecoin](https://static.openfintech.io/payout_methods/litecoin/icon.png?w=278&c=v0.59.26#w40) |[litecoin_usd](/payout-services/litecoin_usd/)|`litecoin_usd`| 
+|![litecoin](https://static.openfintech.io/payout_methods/litecoin/icon.png?w=278&c=v0.59.26#w40) |[litecoin_cad](/payout-services/litecoin_cad/)|`litecoin_cad`| 
 |![litecoin](https://static.openfintech.io/payout_methods/litecoin/icon.png?w=278&c=v0.59.26#w40) |[litecoin_eur](/payout-services/litecoin_eur/)|`litecoin_eur`| 
  
 

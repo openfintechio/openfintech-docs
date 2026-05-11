@@ -37,6 +37,7 @@ The list of [Payout Services](/payout-services/) based on the _TRON_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![tron](https://static.openfintech.io/payout_methods/tron/icon.png?w=278&c=v0.59.26#w40) |[tron_trx](/payout-services/tron_trx/)|`tron_trx`| 
+|![tron](https://static.openfintech.io/payout_methods/tron/icon.png?w=278&c=v0.59.26#w40) |[tron_cad](/payout-services/tron_cad/)|`tron_cad`| 
  
 
 ## Payment Providers 

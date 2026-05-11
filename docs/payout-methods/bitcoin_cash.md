@@ -39,6 +39,7 @@ The list of [Payout Services](/payout-services/) based on the _Bitcoin cash_
 |![bitcoin_cash](https://static.openfintech.io/payout_methods/bitcoin_cash/icon.png?w=278&c=v0.59.26#w40) |[bitcoin_cash_bch](/payout-services/bitcoin_cash_bch/)|`bitcoin_cash_bch`| 
 |![bitcoin_cash](https://static.openfintech.io/payout_methods/bitcoin_cash/icon.png?w=278&c=v0.59.26#w40) |[bitcoin_cash_uah](/payout-services/bitcoin_cash_uah/)|`bitcoin_cash_uah`| 
 |![bitcoin_cash](https://static.openfintech.io/payout_methods/bitcoin_cash/icon.png?w=278&c=v0.59.26#w40) |[bitcoin_cash_usd](/payout-services/bitcoin_cash_usd/)|`bitcoin_cash_usd`| 
+|![bitcoin_cash](https://static.openfintech.io/payout_methods/bitcoin_cash/icon.png?w=278&c=v0.59.26#w40) |[bitcoin_cash_cad](/payout-services/bitcoin_cash_cad/)|`bitcoin_cash_cad`| 
 |![bitcoin_cash](https://static.openfintech.io/payout_methods/bitcoin_cash/icon.png?w=278&c=v0.59.26#w40) |[bitcoin_cash_eur](/payout-services/bitcoin_cash_eur/)|`bitcoin_cash_eur`| 
  
 

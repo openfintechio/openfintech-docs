@@ -39,6 +39,7 @@ The list of [Payout Services](/payout-services/) based on the _Ripple_
 |![ripple](https://static.openfintech.io/payout_methods/ripple/icon.svg?w=278&c=v0.59.26#w40) |[ripple_xrp](/payout-services/ripple_xrp/)|`ripple_xrp`| 
 |![ripple](https://static.openfintech.io/payout_methods/ripple/icon.svg?w=278&c=v0.59.26#w40) |[ripple_uah](/payout-services/ripple_uah/)|`ripple_uah`| 
 |![ripple](https://static.openfintech.io/payout_methods/ripple/icon.svg?w=278&c=v0.59.26#w40) |[ripple_usd](/payout-services/ripple_usd/)|`ripple_usd`| 
+|![ripple](https://static.openfintech.io/payout_methods/ripple/icon.svg?w=278&c=v0.59.26#w40) |[ripple_cad](/payout-services/ripple_cad/)|`ripple_cad`| 
 |![ripple](https://static.openfintech.io/payout_methods/ripple/icon.svg?w=278&c=v0.59.26#w40) |[ripple_eur](/payout-services/ripple_eur/)|`ripple_eur`| 
  
 

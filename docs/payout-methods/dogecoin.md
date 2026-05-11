@@ -39,6 +39,7 @@ The list of [Payout Services](/payout-services/) based on the _Dogecoin_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![dogecoin](https://static.openfintech.io/payout_methods/dogecoin/icon.svg?w=278&c=v0.59.26#w40) |[dogecoin_doge](/payout-services/dogecoin_doge/)|`dogecoin_doge`| 
+|![dogecoin](https://static.openfintech.io/payout_methods/dogecoin/icon.svg?w=278&c=v0.59.26#w40) |[dogecoin_cad](/payout-services/dogecoin_cad/)|`dogecoin_cad`| 
  
 
 ## Payment Providers 

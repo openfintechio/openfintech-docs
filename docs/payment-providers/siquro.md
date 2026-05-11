@@ -63,6 +63,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |![snsbank](https://static.openfintech.io/payment_methods/snsbank/icon.png?w=278&c=v0.59.26#w100) |[snsbank](/payment-methods/snsbank/)|`snsbank`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![sepa_transfer](https://static.openfintech.io/payout_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w40) |[sepa_transfer](payout-methodssepa_transfer/)|`sepa_transfer`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -96,7 +105,9 @@ The list of supported [Payment Methods](/payment-methods/)
     "abn_amro_bank",
     "snsbank"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "sepa_transfer"
+  ],
   "metadata":null,
   "name":{
     "en":"Siquro",
