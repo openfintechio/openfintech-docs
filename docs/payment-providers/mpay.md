@@ -1,6 +1,6 @@
 
 # MPay 
-![mpay](https://static.openfintech.io/payment_providers/mpay/logo.png?w=400&c=v0.59.26#w100)  
+![mpay](https://static.openfintech.io/payment_providers/mpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ## General 
  
@@ -19,18 +19,18 @@
 
 ### Logo 
  
-![mpay](https://static.openfintech.io/payment_providers/mpay/logo.png?w=400&c=v0.59.26#w100)  
+![mpay](https://static.openfintech.io/payment_providers/mpay/logo.svg?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/mpay/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/mpay/logo.svg?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![mpay](https://static.openfintech.io/payment_providers/mpay/icon.png?w=278&c=v0.59.26#w100)  
+![mpay](https://static.openfintech.io/payment_providers/mpay/icon.svg?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/mpay/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/mpay/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 

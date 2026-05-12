@@ -1330,7 +1330,7 @@
 |![mopay](https://static.openfintech.io/vendors/mopay/logo.png?w=600&c=v0.59.26#w200) |[**mopay**](mopay/)|`mopay`| 
 |![moskovskijkreditnyjbank](https://static.openfintech.io/vendors/moskovskijkreditnyjbank/logo.svg?w=600&c=v0.59.26#w200) |[**Московский кредитный банк**](moskovskijkreditnyjbank/)|`moskovskijkreditnyjbank`| 
 |![mozcompayeasy](https://static.openfintech.io/vendors/mozcompayeasy/logo.png?w=600&c=v0.59.26#w200) |[**Mozcom PayEasy**](mozcompayeasy/)|`mozcompayeasy`| 
-|![mpay](https://static.openfintech.io/vendors/mpay/logo.png?w=600&c=v0.59.26#w200) |[**MPay**](mpay/)|`mpay`| 
+|![mpay](https://static.openfintech.io/vendors/mpay/logo.svg?w=600&c=v0.59.26#w200) |[**MPay**](mpay/)|`mpay`| 
 |![mpay24](https://static.openfintech.io/vendors/mpay24/logo.png?w=600&c=v0.59.26#w200) |[**mPay24**](mpay24/)|`mpay24`| 
 |![mpayaisthailand](https://static.openfintech.io/vendors/mpayaisthailand/logo.png?w=600&c=v0.59.26#w200) |[**mPAY**](mpayaisthailand/)|`mpayaisthailand`| 
 |![mtb](https://static.openfintech.io/vendors/mtb/logo.svg?w=600&c=v0.59.26#w200) |[**MTB**](mtb/)|`mtb`| 
