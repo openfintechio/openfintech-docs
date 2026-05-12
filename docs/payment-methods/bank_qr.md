@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Bank QR_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bank_qr](https://static.openfintech.io/payment_methods/bank_qr/icon.svg?w=278&c=v0.59.26#w100) |[bank_qr_vnd_hpp](/payment-services/bank_qr_vnd_hpp/)|`bank_qr_vnd_hpp`| 
+|![bank_qr](https://static.openfintech.io/payment_methods/bank_qr/icon.svg?w=278&c=v0.59.26#w100) |[bank_qr_pkr_transfer](/payment-services/bank_qr_pkr_transfer/)|`bank_qr_pkr_transfer`| 
  
 
 ## Payment Providers 
@@ -46,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank QR_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![okpay](https://static.openfintech.io/payment_providers/okpay/icon.png?w=278&c=v0.59.26#w100) |[Okpay](/payment-providers/okpay/)|`okpay`| 
+|![assanpay](https://static.openfintech.io/payment_providers/assanpay/icon.png?w=278&c=v0.59.26#w100) |[AssanPay](/payment-providers/assanpay/)|`assanpay`| 
 |![cashix](https://static.openfintech.io/payment_providers/cashix/icon.png?w=278&c=v0.59.26#w100) |[Cashix](/payment-providers/cashix/)|`cashix`| 
  
 

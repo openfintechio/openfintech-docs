@@ -45,6 +45,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![nagad_wallet_p2p](https://static.openfintech.io/payment_methods/nagad_wallet_p2p/icon.svg?w=278&c=v0.59.26#w100) |[nagad_wallet_p2p](/payment-methods/nagad_wallet_p2p/)|`nagad_wallet_p2p`| 
 |![easypaisa](https://static.openfintech.io/payment_methods/easypaisa/icon.svg?w=278&c=v0.59.26#w100) |[easypaisa](/payment-methods/easypaisa/)|`easypaisa`| 
 |![jazzcash](https://static.openfintech.io/payment_methods/jazzcash/icon.svg?w=278&c=v0.59.26#w100) |[jazzcash](/payment-methods/jazzcash/)|`jazzcash`| 
+|![bank_qr](https://static.openfintech.io/payment_methods/bank_qr/icon.svg?w=278&c=v0.59.26#w100) |[bank_qr](/payment-methods/bank_qr/)|`bank_qr`| 
  
 
 ## Payout Methods 
@@ -74,7 +75,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "bkash_p2p",
     "nagad_wallet_p2p",
     "easypaisa",
-    "jazzcash"
+    "jazzcash",
+    "bank_qr"
   ],
   "payout_method":[
     "bkash_limited",
