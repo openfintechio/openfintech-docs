@@ -40,9 +40,6 @@ The list of supported [Payment Methods](/payment-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix](/payment-methods/pix/)|`pix`| 
-|![breb](https://static.openfintech.io/payment_methods/breb/icon.png?w=278&c=v0.59.26#w100) |[breb](/payment-methods/breb/)|`breb`| 
-|![pse](https://static.openfintech.io/payment_methods/pse/icon.svg?w=278&c=v0.59.26#w100) |[pse](/payment-methods/pse/)|`pse`| 
-|![nequi](https://static.openfintech.io/payment_methods/nequi/icon.svg?w=278&c=v0.59.26#w100) |[nequi](/payment-methods/nequi/)|`nequi`| 
  
 
 ## Payout Methods 
@@ -96,10 +93,7 @@ The list of supported [Payout Methods](/payout-methods/)
   "categories":null,
   "countries":null,
   "payment_method":[
-    "pix",
-    "breb",
-    "pse",
-    "nequi"
+    "pix"
   ],
   "payout_method":[
     "pix",
