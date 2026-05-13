@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _PagoMóvil_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![pagomovil](https://static.openfintech.io/payment_methods/pagomovil/icon.png?w=278&c=v0.59.26#w100) |[pagomovil_ves_invoice](/payment-services/pagomovil_ves_invoice/)|`pagomovil_ves_invoice`| 
+|![pagomovil](https://static.openfintech.io/payment_methods/pagomovil/icon.png?w=278&c=v0.59.26#w100) |[pagomovil_ves_hpp](/payment-services/pagomovil_ves_hpp/)|`pagomovil_ves_hpp`| 
  
 
 ## Payment Providers 
