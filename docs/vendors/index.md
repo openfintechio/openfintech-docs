@@ -1389,6 +1389,7 @@
 |![networx](https://static.openfintech.io/vendors/networx/logo.png?w=600&c=v0.59.26#w200) |[**Networx**](networx/)|`networx`| 
 |![nevabank](https://static.openfintech.io/vendors/nevabank/logo.svg?w=600&c=v0.59.26#w200) |[**НеваБанк**](nevabank/)|`nevabank`| 
 |![newline.online](https://static.openfintech.io/vendors/newline.online/logo.svg?w=600&c=v0.59.26#w200) |[**NewLine**](newline.online/)|`newline.online`| 
+|![nexpay](https://static.openfintech.io/vendors/nexpay/logo.png?w=600&c=v0.59.26#w200) |[**Nexpay**](nexpay/)|`nexpay`| 
 |![nextpay](https://static.openfintech.io/vendors/nextpay/logo.png?w=600&c=v0.59.26#w200) |[**NextPay**](nextpay/)|`nextpay`| 
 |![nganluong](https://static.openfintech.io/vendors/nganluong/logo.png?w=600&c=v0.59.26#w200) |[**Ngan Luong **](nganluong/)|`nganluong`| 
 |![ngb](https://static.openfintech.io/vendors/ngb/logo.svg?w=600&c=v0.59.26#w200) |[**Central Bank of Nigeria**](ngb/)|`ngb`| 

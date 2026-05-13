@@ -626,6 +626,7 @@
 |![nets](https://static.openfintech.io/payment_providers/nets/logo.png?w=600&c=v0.59.26#w100) |[**Nets**](nets/)|`nets`| 
 |![netsellerpay](https://static.openfintech.io/payment_providers/netsellerpay/logo.png?w=600&c=v0.59.26#w100) |[**Netsellerpay**](netsellerpay/)|`netsellerpay`| 
 |![networx](https://static.openfintech.io/payment_providers/networx/logo.png?w=600&c=v0.59.26#w100) |[**Networx**](networx/)|`networx`| 
+|![nexpay](https://static.openfintech.io/payment_providers/nexpay/logo.png?w=600&c=v0.59.26#w100) |[**Nexpay**](nexpay/)|`nexpay`| 
 |![nextpay](https://static.openfintech.io/payment_providers/nextpay/logo.png?w=600&c=v0.59.26#w100) |[**NextPay**](nextpay/)|`nextpay`| 
 |![nganluong](https://static.openfintech.io/payment_providers/nganluong/logo.png?w=600&c=v0.59.26#w100) |[**Ngan Luong **](nganluong/)|`nganluong`| 
 |![nihaopay](https://static.openfintech.io/payment_providers/nihaopay/logo.png?w=600&c=v0.59.26#w100) |[**NihaoPay**](nihaopay/)|`nihaopay`| 
