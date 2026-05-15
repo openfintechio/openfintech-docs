@@ -460,6 +460,7 @@
 |![Bizum](https://static.openfintech.io/payment_methods/bizum/logo.png?w=400&c=v0.59.26#w200) |[**Bizum**](/payment-methods/bizum/)|[`bizum_eur_hpp`](bizum_eur_hpp/)| 
 |![Bkash Limited](https://static.openfintech.io/payment_methods/bkash_limited/logo.png?w=400&c=v0.59.26#w200) |[**Bkash Limited**](/payment-methods/bkash_limited/)|[`bkash_limited_bdt_hpp`](bkash_limited_bdt_hpp/)| 
 |![Bkash p2p](https://static.openfintech.io/payment_methods/bkash_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**Bkash p2p**](/payment-methods/bkash_p2p/)|[`bkash_p2p_bdt_hpp`](bkash_p2p_bdt_hpp/)| 
+|![BLIK](https://static.openfintech.io/payment_methods/blik_crypto/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](/payment-methods/blik_crypto/)|[`blik_crypto_pln_hpp`](blik_crypto_pln_hpp/)| 
 |![BLIK](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](/payment-methods/blik/)|[`blik_czk_hpp`](blik_czk_hpp/)| 
 |![BLIK](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](/payment-methods/blik/)|[`blik_eur_hpp`](blik_eur_hpp/)| 
 |![BLIK](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](/payment-methods/blik/)|[`blik_pln_hpp`](blik_pln_hpp/)| 
