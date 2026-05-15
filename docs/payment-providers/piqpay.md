@@ -51,6 +51,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |:---:|:---:|:---:| 
 |![bkash_limited](https://static.openfintech.io/payout_methods/bkash_limited/icon.png?w=278&c=v0.59.26#w40) |[bkash_limited](payout-methodsbkash_limited/)|`bkash_limited`| 
 |![nagad_wallet](https://static.openfintech.io/payout_methods/nagad_wallet/icon.svg?w=278&c=v0.59.26#w40) |[nagad_wallet](payout-methodsnagad_wallet/)|`nagad_wallet`| 
+|![jazzcash](https://static.openfintech.io/payout_methods/jazzcash/icon.png?w=278&c=v0.59.26#w40) |[jazzcash](payout-methodsjazzcash/)|`jazzcash`| 
  
 
 ## JSON Object 
@@ -68,7 +69,8 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "payout_method":[
     "bkash_limited",
-    "nagad_wallet"
+    "nagad_wallet",
+    "jazzcash"
   ],
   "metadata":null,
   "name":{
