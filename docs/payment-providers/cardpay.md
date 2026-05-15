@@ -59,6 +59,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![bancontact](https://static.openfintech.io/payment_methods/bancontact/icon.png?w=278&c=v0.59.26#w100) |[bancontact](/payment-methods/bancontact/)|`bancontact`| 
 |![blik](https://static.openfintech.io/payment_methods/blik/icon.png?w=278&c=v0.59.26#w100) |[blik](/payment-methods/blik/)|`blik`| 
 |![ideal](https://static.openfintech.io/payment_methods/ideal/icon.svg?w=278&c=v0.59.26#w100) |[ideal](/payment-methods/ideal/)|`ideal`| 
+|![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.png?w=278&c=v0.59.26#w100) |[przelewy24](/payment-methods/przelewy24/)|`przelewy24`| 
  
 
 ## Payout Methods 
@@ -98,7 +99,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "cardpay_crypto",
     "bancontact",
     "blik",
-    "ideal"
+    "ideal",
+    "przelewy24"
   ],
   "payout_method":[
     "payment_card",

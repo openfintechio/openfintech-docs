@@ -698,6 +698,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![payland](https://static.openfintech.io/payment_providers/payland/icon.png?w=278&c=v0.59.26#w100) |[PayLand](/payment-providers/payland/)|`payland`| 
 |![cardifulnew](https://static.openfintech.io/payment_providers/cardifulnew/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful New](/payment-providers/cardifulnew/)|`cardifulnew`| 
 |![paydeca](https://static.openfintech.io/payment_providers/paydeca/icon.png?w=278&c=v0.59.26#w100) |[Paydeca](/payment-providers/paydeca/)|`paydeca`| 
+|![qorepayments](https://static.openfintech.io/payment_providers/qorepayments/icon.svg?w=278&c=v0.59.26#w100) |[QorePayments](/payment-providers/qorepayments/)|`qorepayments`| 
  
 
 ## JSON Object 

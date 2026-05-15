@@ -1933,6 +1933,7 @@
 |![qipri](https://static.openfintech.io/vendors/qipri/logo.svg?w=600&c=v0.59.26#w200) |[**Qipri**](qipri/)|`qipri`| 
 |![qiwi](https://static.openfintech.io/vendors/qiwi/logo.svg?w=600&c=v0.59.26#w200) |[**Qiwi**](qiwi/)|`qiwi`| 
 |![qiwivoucher](https://static.openfintech.io/vendors/qiwivoucher/logo.svg?w=600&c=v0.59.26#w200) |[**Qiwi voucher**](qiwivoucher/)|`qiwivoucher`| 
+|![qorepayments](https://static.openfintech.io/vendors/qorepayments/logo.svg?w=600&c=v0.59.26#w200) |[**QorePayments**](qorepayments/)|`qorepayments`| 
 |![quickchange.cc](https://static.openfintech.io/vendors/quickchange.cc/logo.svg?w=600&c=v0.59.26#w200) |[**quickchange.cc**](quickchange.cc/)|`quickchange.cc`| 
 |![quickpay](https://static.openfintech.io/vendors/quickpay/logo.png?w=600&c=v0.59.26#w200) |[**QuickPay**](quickpay/)|`quickpay`| 
 || **R** ||
