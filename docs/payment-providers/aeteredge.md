@@ -76,6 +76,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![transfiya](https://static.openfintech.io/payment_methods/transfiya/icon.svg?w=278&c=v0.59.26#w100) |[transfiya](/payment-methods/transfiya/)|`transfiya`| 
 |![upi](https://static.openfintech.io/payment_methods/upi/icon.svg?w=278&c=v0.59.26#w100) |[upi](/payment-methods/upi/)|`upi`| 
 |![webpay](https://static.openfintech.io/payment_methods/webpay/icon.svg?w=278&c=v0.59.26#w100) |[webpay](/payment-methods/webpay/)|`webpay`| 
+|![bancontact](https://static.openfintech.io/payment_methods/bancontact/icon.png?w=278&c=v0.59.26#w100) |[bancontact](/payment-methods/bancontact/)|`bancontact`| 
+|![eps](https://static.openfintech.io/payment_methods/eps/icon.png?w=278&c=v0.59.26#w100) |[eps](/payment-methods/eps/)|`eps`| 
  
 
 ## Payout Methods 
@@ -143,7 +145,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "spei",
     "transfiya",
     "upi",
-    "webpay"
+    "webpay",
+    "bancontact",
+    "eps"
   ],
   "payout_method":[
     "payment_card",
