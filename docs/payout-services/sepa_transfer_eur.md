@@ -40,6 +40,7 @@
 |`beneficiary_document_id`|✗|`string`|`/^[A-Z0-9]{3,20}$/`| 
 |`beneficiary_state`|✗|`string`|`/^.{1,100}$/`| 
 |`dialcode`|✗|`string`|`/^[0-9]{1,4}$/`| 
+|`bank_name`|✗|`string`|`/^.{1,128}$/`| 
  
 
 ### Details 
@@ -331,6 +332,24 @@
 	: [EN] Enter dial code 
 	: [RU] Введите код набора 
 	: [UK] Введіть Код набору 
+ 
+17. **`bank_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{1,128}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank name 
+	: [RU] Название банка 
+	: [UK] Назва банку 
+ 
+	Hint:  
+	: [EN] Enter bank name 
+	: [RU] Введите название банка 
+	: [UK] Введіть назву банку 
  
 
 ## JSON Object 
@@ -625,6 +644,24 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u041a\u043e\u0434 \u043d\u0430\u0431\u043e\u0440\u0443"
       },
       "example":"1234"
+    },
+    {
+      "key":"bank_name",
+      "type":"string",
+      "regexp":"\/^.{1,128}$\/",
+      "required":false,
+      "position":17,
+      "label":{
+        "en":"Bank name",
+        "ru":"\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u041d\u0430\u0437\u0432\u0430 \u0431\u0430\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter bank name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u0430\u0437\u0432\u0443 \u0431\u0430\u043d\u043a\u0443"
+      },
+      "example":"Bnk of Athenes"
     }
   ],
   "amount_min":"0.01",
