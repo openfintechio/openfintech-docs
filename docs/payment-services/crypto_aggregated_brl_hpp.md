@@ -1,15 +1,15 @@
 
 # Crypto Aggregated (service) 
-![crypto_aggregated_usd_hpp](https://static.openfintech.io/payment_methods/crypto_aggregated_usd_hpp/logo.svg?w=400&c=v0.59.26#w200)  
+![crypto_aggregated_brl_hpp](https://static.openfintech.io/payment_methods/crypto_aggregated_brl_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `crypto_aggregated_usd_hpp` 
+**Code:** `crypto_aggregated_brl_hpp` 
  
 **Method:** `crypto_aggregated` 
  [show -->](/payment-methods/crypto_aggregated/) 
  
-**Currency:** `USD` [show -->](/currencies/USD/) 
+**Currency:** `BRL` [show -->](/currencies/BRL/) 
  
 **Name:** 
  
@@ -17,7 +17,7 @@
 :	[RU] Crypto Aggregated 
 :	[UK] Crypto Aggregated 
  
-**Amount limits:** from `0.01` to `9999999` USD 
+**Amount limits:** from `1` to `1000000` BRL 
 
 ## Fields 
 
@@ -110,10 +110,10 @@
 
 ```json
 {
-  "code":"crypto_aggregated_usd_hpp",
+  "code":"crypto_aggregated_brl_hpp",
   "flow":"hpp",
   "method":"crypto_aggregated",
-  "currency":"USD",
+  "currency":"BRL",
   "fields":[
     {
       "key":"crypto_currency",
@@ -188,7 +188,7 @@
       "example":"credit_debit_card"
     }
   ],
-  "amount_min":0.01,
-  "amount_max":9999999
+  "amount_min":1,
+  "amount_max":1000000
 }
 ```  

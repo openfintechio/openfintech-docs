@@ -2277,6 +2277,7 @@
 |![transacto](https://static.openfintech.io/vendors/transacto/logo.png?w=600&c=v0.59.26#w200) |[**TRANSACTO**](transacto/)|`transacto`| 
 |![transactpro](https://static.openfintech.io/vendors/transactpro/logo.png?w=600&c=v0.59.26#w200) |[**Transact Pro**](transactpro/)|`transactpro`| 
 |![transactworld](https://static.openfintech.io/vendors/transactworld/logo.png?w=600&c=v0.59.26#w200) |[**TransactWorld**](transactworld/)|`transactworld`| 
+|![transak](https://static.openfintech.io/vendors/transak/logo.png?w=600&c=v0.59.26#w200) |[**Transak**](transak/)|`transak`| 
 |![transecute](https://static.openfintech.io/vendors/transecute/logo.png?w=600&c=v0.59.26#w200) |[**Transecute**](transecute/)|`transecute`| 
 |![transfer24.pro](https://static.openfintech.io/vendors/transfer24.pro/logo.svg?w=600&c=v0.59.26#w200) |[**Transfer24**](transfer24.pro/)|`transfer24.pro`| 
 |![transferhub](https://static.openfintech.io/vendors/transferhub/logo.svg?w=600&c=v0.59.26#w200) |[**TransferHub**](transferhub/)|`transferhub`| 

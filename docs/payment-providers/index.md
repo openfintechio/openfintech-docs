@@ -1071,6 +1071,7 @@
 |![transacto](https://static.openfintech.io/payment_providers/transacto/logo.png?w=600&c=v0.59.26#w100) |[**TRANSACTO**](transacto/)|`transacto`| 
 |![transactpro](https://static.openfintech.io/payment_providers/transactpro/logo.png?w=600&c=v0.59.26#w100) |[**Transact Pro**](transactpro/)|`transactpro`| 
 |![transactworld](https://static.openfintech.io/payment_providers/transactworld/logo.png?w=600&c=v0.59.26#w100) |[**TransactWorld**](transactworld/)|`transactworld`| 
+|![transak](https://static.openfintech.io/payment_providers/transak/logo.png?w=600&c=v0.59.26#w100) |[**Transak**](transak/)|`transak`| 
 |![transecute](https://static.openfintech.io/payment_providers/transecute/logo.png?w=600&c=v0.59.26#w100) |[**Transecute**](transecute/)|`transecute`| 
 |![transferhub](https://static.openfintech.io/payment_providers/transferhub/logo.svg?w=600&c=v0.59.26#w100) |[**TransferHub**](transferhub/)|`transferhub`| 
 |![transflofintech](https://static.openfintech.io/payment_providers/transflofintech/logo.png?w=600&c=v0.59.26#w100) |[**Transflo**](transflofintech/)|`transflofintech`| 
