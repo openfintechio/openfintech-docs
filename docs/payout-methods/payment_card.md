@@ -661,6 +661,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![rastpay](https://static.openfintech.io/payment_providers/rastpay/icon.svg?w=278&c=v0.59.26#w100) |[Rastpay](/payment-providers/rastpay/)|`rastpay`| 
 |![visanetconnect](https://static.openfintech.io/payment_providers/visanetconnect/icon.svg?w=278&c=v0.59.26#w100) |[VisaNet Connect](/payment-providers/visanetconnect/)|`visanetconnect`| 
 |![tompayment](https://static.openfintech.io/payment_providers/tompayment/icon.svg?w=278&c=v0.59.26#w100) |[TomPayment](/payment-providers/tompayment/)|`tompayment`| 
+|![sends](https://static.openfintech.io/payment_providers/sends/icon.svg?w=278&c=v0.59.26#w100) |[Sends](/payment-providers/sends/)|`sends`| 
 |![velpay](https://static.openfintech.io/payment_providers/velpay/icon.png?w=278&c=v0.59.26#w100) |[VelPay](/payment-providers/velpay/)|`velpay`| 
 |![novacasp](https://static.openfintech.io/payment_providers/novacasp/icon.svg?w=278&c=v0.59.26#w100) |[NovaCasp](/payment-providers/novacasp/)|`novacasp`| 
 |![xmgate](https://static.openfintech.io/payment_providers/xmgate/icon.svg?w=278&c=v0.59.26#w100) |[Xmgate](/payment-providers/xmgate/)|`xmgate`| 
