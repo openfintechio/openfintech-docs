@@ -2060,6 +2060,7 @@
 |![sev_f_pat_kbprivatbank_m_sevastopol](https://static.openfintech.io/vendors/sev_f_pat_kbprivatbank_m_sevastopol/logo.svg?w=600&c=v0.59.26#w200) |[**СЕВАСТОПОЛЬСЬКА ФІЛІЯ ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](sev_f_pat_kbprivatbank_m_sevastopol/)|`sev_f_pat_kbprivatbank_m_sevastopol`| 
 |![seven_bank](https://static.openfintech.io/vendors/seven_bank/logo.svg?w=600&c=v0.59.26#w200) |[**SEVEN BANK**](seven_bank/)|`seven_bank`| 
 |![sgate](https://static.openfintech.io/vendors/sgate/logo.svg?w=600&c=v0.59.26#w200) |[**Sgate**](sgate/)|`sgate`| 
+|![sharpay](https://static.openfintech.io/vendors/sharpay/logo.png?w=600&c=v0.59.26#w200) |[**Sharpay**](sharpay/)|`sharpay`| 
 |![shift4](https://static.openfintech.io/vendors/shift4/logo.svg?w=600&c=v0.59.26#w200) |[**Shift4 EU**](shift4/)|`shift4`| 
 |![shiftfour](https://static.openfintech.io/vendors/shiftfour/logo.svg?w=600&c=v0.59.26#w200) |[**Shift4**](shiftfour/)|`shiftfour`| 
 |![shiga_bank](https://static.openfintech.io/vendors/shiga_bank/logo.svg?w=600&c=v0.59.26#w200) |[**THE SHIGA BANK**](shiga_bank/)|`shiga_bank`| 
