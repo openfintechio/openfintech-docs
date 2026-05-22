@@ -686,6 +686,7 @@
 |![passpoint](https://static.openfintech.io/payment_providers/passpoint/logo.png?w=600&c=v0.59.26#w100) |[**Passpoint**](passpoint/)|`passpoint`| 
 |![pavpay](https://static.openfintech.io/payment_providers/pavpay/logo.svg?w=600&c=v0.59.26#w100) |[**PavPay**](pavpay/)|`pavpay`| 
 |![pay2kassa](https://static.openfintech.io/payment_providers/pay2kassa/logo.svg?w=600&c=v0.59.26#w100) |[**Pay2Kassa**](pay2kassa/)|`pay2kassa`| 
+|![pay2local](https://static.openfintech.io/payment_providers/pay2local/logo.svg?w=600&c=v0.59.26#w100) |[**Pay2Local**](pay2local/)|`pay2local`| 
 |![pay2play](https://static.openfintech.io/payment_providers/pay2play/logo.svg?w=600&c=v0.59.26#w100) |[**pay2play**](pay2play/)|`pay2play`| 
 |![pay4](https://static.openfintech.io/payment_providers/pay4/logo.png?w=600&c=v0.59.26#w100) |[**PAY4**](pay4/)|`pay4`| 
 |![pay4fun](https://static.openfintech.io/payment_providers/pay4fun/logo.png?w=600&c=v0.59.26#w100) |[**Pay4fun**](pay4fun/)|`pay4fun`| 

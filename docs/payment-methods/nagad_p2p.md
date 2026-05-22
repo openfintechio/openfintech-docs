@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Nagad p2p_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![nagad_p2p](https://static.openfintech.io/payment_methods/nagad_p2p/icon.svg?w=278&c=v0.59.26#w100) |[nagad_p2p_bdt_hpp](/payment-services/nagad_p2p_bdt_hpp/)|`nagad_p2p_bdt_hpp`| 
+|![nagad_p2p](https://static.openfintech.io/payment_methods/nagad_p2p/icon.svg?w=278&c=v0.59.26#w100) |[nagad_p2p_bdt_invoice](/payment-services/nagad_p2p_bdt_invoice/)|`nagad_p2p_bdt_invoice`| 
  
 
 ## Payment Providers 
@@ -46,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Nagad p2p
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![tp24bdt](https://static.openfintech.io/payment_providers/tp24bdt/icon.svg?w=278&c=v0.59.26#w100) |[TP24BDT](/payment-providers/tp24bdt/)|`tp24bdt`| 
+|![pay2local](https://static.openfintech.io/payment_providers/pay2local/icon.svg?w=278&c=v0.59.26#w100) |[Pay2Local](/payment-providers/pay2local/)|`pay2local`| 
  
 
 ## JSON Object 

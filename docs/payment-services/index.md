@@ -460,6 +460,7 @@
 |![Bizum](https://static.openfintech.io/payment_methods/bizum/logo.png?w=400&c=v0.59.26#w200) |[**Bizum**](/payment-methods/bizum/)|[`bizum_eur_hpp`](bizum_eur_hpp/)| 
 |![Bkash Limited](https://static.openfintech.io/payment_methods/bkash_limited/logo.png?w=400&c=v0.59.26#w200) |[**Bkash Limited**](/payment-methods/bkash_limited/)|[`bkash_limited_bdt_hpp`](bkash_limited_bdt_hpp/)| 
 |![Bkash p2p](https://static.openfintech.io/payment_methods/bkash_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**Bkash p2p**](/payment-methods/bkash_p2p/)|[`bkash_p2p_bdt_hpp`](bkash_p2p_bdt_hpp/)| 
+|![Bkash p2p](https://static.openfintech.io/payment_methods/bkash_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**Bkash p2p**](/payment-methods/bkash_p2p/)|[`bkash_p2p_bdt_invoice`](bkash_p2p_bdt_invoice/)| 
 |![BLIK](https://static.openfintech.io/payment_methods/blik_crypto/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](/payment-methods/blik_crypto/)|[`blik_crypto_pln_hpp`](blik_crypto_pln_hpp/)| 
 |![BLIK](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](/payment-methods/blik/)|[`blik_czk_hpp`](blik_czk_hpp/)| 
 |![BLIK](https://static.openfintech.io/payment_methods/blik/logo.png?w=400&c=v0.59.26#w200) |[**BLIK**](/payment-methods/blik/)|[`blik_eur_hpp`](blik_eur_hpp/)| 
@@ -1352,6 +1353,7 @@
 ||| **N** ||
 |![N26 Bank](https://static.openfintech.io/payment_methods/n26_bank/logo.png?w=400&c=v0.59.26#w200) |[**N26 Bank**](/payment-methods/n26_bank/)|[`n26_bank_eur_hpp`](n26_bank_eur_hpp/)| 
 |![Nagad p2p](https://static.openfintech.io/payment_methods/nagad_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**Nagad p2p**](/payment-methods/nagad_p2p/)|[`nagad_p2p_bdt_hpp`](nagad_p2p_bdt_hpp/)| 
+|![Nagad p2p](https://static.openfintech.io/payment_methods/nagad_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**Nagad p2p**](/payment-methods/nagad_p2p/)|[`nagad_p2p_bdt_invoice`](nagad_p2p_bdt_invoice/)| 
 |![Nagad Digital Financial Service](https://static.openfintech.io/payment_methods/nagad_wallet/logo.png?w=400&c=v0.59.26#w200) |[**Nagad Digital Financial Service**](/payment-methods/nagad_wallet/)|[`nagad_wallet_bdt_hpp`](nagad_wallet_bdt_hpp/)| 
 |![Nagad Digital Financial Service](https://static.openfintech.io/payment_methods/nagad_wallet/logo.png?w=400&c=v0.59.26#w200) |[**Nagad Digital Financial Service**](/payment-methods/nagad_wallet/)|[`nagad_wallet_bdt_invoice`](nagad_wallet_bdt_invoice/)| 
 |![Nagad Digital Financial Service(P2P)](https://static.openfintech.io/payment_methods/nagad_wallet_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**Nagad Digital Financial Service(P2P)**](/payment-methods/nagad_wallet_p2p/)|[`nagad_wallet_p2p_bdt_hpp`](nagad_wallet_p2p_bdt_hpp/)| 

@@ -1640,6 +1640,7 @@
 |![pavpay](https://static.openfintech.io/vendors/pavpay/logo.svg?w=600&c=v0.59.26#w200) |[**PavPay**](pavpay/)|`pavpay`| 
 |![paxum](https://static.openfintech.io/vendors/paxum/logo.png?w=600&c=v0.59.26#w200) |[**Paxum**](paxum/)|`paxum`| 
 |![pay2kassa](https://static.openfintech.io/vendors/pay2kassa/logo.svg?w=600&c=v0.59.26#w200) |[**Pay2Kassa**](pay2kassa/)|`pay2kassa`| 
+|![pay2local](https://static.openfintech.io/vendors/pay2local/logo.svg?w=600&c=v0.59.26#w200) |[**Pay2Local**](pay2local/)|`pay2local`| 
 |![pay2play](https://static.openfintech.io/vendors/pay2play/logo.svg?w=600&c=v0.59.26#w200) |[**pay2play**](pay2play/)|`pay2play`| 
 |![pay4](https://static.openfintech.io/vendors/pay4/logo.png?w=600&c=v0.59.26#w200) |[**PAY4**](pay4/)|`pay4`| 
 |![pay4bit.biz](https://static.openfintech.io/vendors/pay4bit.biz/logo.svg?w=600&c=v0.59.26#w200) |[**Pay4Bit**](pay4bit.biz/)|`pay4bit.biz`| 
