@@ -566,6 +566,7 @@
 |![creditumnew](https://static.openfintech.io/vendors/creditumnew/logo.svg?w=600&c=v0.59.26#w200) |[**Creditum (new)**](creditumnew/)|`creditumnew`| 
 |![credorax](https://static.openfintech.io/vendors/credorax/logo.png?w=600&c=v0.59.26#w200) |[**Credorax**](credorax/)|`credorax`| 
 |![creedo](https://static.openfintech.io/vendors/creedo/logo.png?w=600&c=v0.59.26#w200) |[**Creedo.Capital**](creedo/)|`creedo`| 
+|![crossbill](https://static.openfintech.io/vendors/crossbill/logo.png?w=600&c=v0.59.26#w200) |[**Crossbill**](crossbill/)|`crossbill`| 
 |![crosspay](https://static.openfintech.io/vendors/crosspay/logo.png?w=600&c=v0.59.26#w200) |[**CrossPay**](crosspay/)|`crosspay`| 
 |![cryptocapitalco](https://static.openfintech.io/vendors/cryptocapitalco/logo.svg?w=600&c=v0.59.26#w200) |[**cryptocapital.co**](cryptocapitalco/)|`cryptocapitalco`| 
 |![cryptocheck](https://static.openfintech.io/vendors/cryptocheck/logo.svg?w=600&c=v0.59.26#w200) |[**Cryptocheck**](cryptocheck/)|`cryptocheck`| 

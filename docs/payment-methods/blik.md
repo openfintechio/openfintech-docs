@@ -83,6 +83,7 @@ The list of [Payment Providers](/payment-providers/) that support the _BLIK_
 |![pspark](https://static.openfintech.io/payment_providers/pspark/icon.svg?w=278&c=v0.59.26#w100) |[PSPARK](/payment-providers/pspark/)|`pspark`| 
 |![embily](https://static.openfintech.io/payment_providers/embily/icon.png?w=278&c=v0.59.26#w100) |[Embily](/payment-providers/embily/)|`embily`| 
 |![mobilum](https://static.openfintech.io/payment_providers/mobilum/icon.svg?w=278&c=v0.59.26#w100) |[Mobilum](/payment-providers/mobilum/)|`mobilum`| 
+|![crossbill](https://static.openfintech.io/payment_providers/crossbill/icon.png?w=278&c=v0.59.26#w100) |[Crossbill](/payment-providers/crossbill/)|`crossbill`| 
  
 
 ## JSON Object 
