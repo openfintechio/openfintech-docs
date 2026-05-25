@@ -26,13 +26,13 @@
 |:---:|:---:|:---:|:---:| 
 |`account_type`|✗|`string`|`/^[A-Z]{1}$/`| 
 |`bank_code`|✗|`string`|`/^[0-9]{1,3}$/`| 
-|`beneficiary_document_type`|✗|`string`|`/^[A-Za-z.\-]{2,20}$/`| 
+|`beneficiary_document_type`|✗|`string`|`/^[A-Za-z]{2,20}$/`| 
 |`beneficiary_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
 |`beneficiary_lastname`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
 |`bank_account`|✗|`string`|`/^[0-9]{1,30}$/`| 
 |`bank_branch`|✗|`string`|`/^[A-Za-z,0-9]{2,100}$/`| 
 |`beneficiary_address`|✗|`string`|`/^.{1,255}$/`| 
-|`beneficiary_document_id`|✗|`string`|`/^[A-Z0-9]{3,20}$/`| 
+|`beneficiary_document_id`|✗|`string`|`/^[A-Z0-9.-]{3,20}$/`| 
 |`beneficiary_country_code_iso`|✗|`string`|`/^[A-Z]{2}$/`| 
 |`beneficiary_email`|✗|`string`|`/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$$/`| 
 |`beneficiary_phone`|✗|`string`|`/^\d{10,14}$/`| 
@@ -83,7 +83,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Za-z.\-]{2,20}$/` 
+	Regexp: `/^[A-Za-z]{2,20}$/` 
  
 	Required: `` 
  
@@ -191,7 +191,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z0-9]{3,20}$/` 
+	Regexp: `/^[A-Z0-9.-]{3,20}$/` 
  
 	Required: `` 
  
@@ -359,7 +359,7 @@
     {
       "key":"beneficiary_document_type",
       "type":"string",
-      "regexp":"\/^[A-Za-z.\\-]{2,20}$\/",
+      "regexp":"\/^[A-Za-z]{2,20}$\/",
       "required":false,
       "position":3,
       "label":{
@@ -462,7 +462,7 @@
     {
       "key":"beneficiary_document_id",
       "type":"string",
-      "regexp":"\/^[A-Z0-9]{3,20}$\/",
+      "regexp":"\/^[A-Z0-9.-]{3,20}$\/",
       "required":false,
       "position":9,
       "label":{
