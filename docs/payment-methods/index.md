@@ -140,7 +140,10 @@
 |![bank_simpanan_nasional_fpx](https://static.openfintech.io/payment_methods/bank_simpanan_nasional_fpx/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Simpanan Nasional (FPX), Malaysia**](bank_simpanan_nasional_fpx/)|`bank_simpanan_nasional_fpx`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](bank_transfer/)|`bank_transfer`| 
 |![bank_transfer_aggregated](https://static.openfintech.io/payment_methods/bank_transfer_aggregated/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer Aggregated**](bank_transfer_aggregated/)|`bank_transfer_aggregated`| 
+|![bank_transfer_cvu](https://static.openfintech.io/payment_methods/bank_transfer_cvu/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer CVU**](bank_transfer_cvu/)|`bank_transfer_cvu`| 
+|![bank_transfer_cvux](https://static.openfintech.io/payment_methods/bank_transfer_cvux/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer CVUX**](bank_transfer_cvux/)|`bank_transfer_cvux`| 
 |![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/logo.svg?w=400&c=v0.59.26#w200) |[**Klarna bank transfer**](bank_transfer_klarna/)|`bank_transfer_klarna`| 
+|![bank_transfer_mpx](https://static.openfintech.io/payment_methods/bank_transfer_mpx/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer MPX**](bank_transfer_mpx/)|`bank_transfer_mpx`| 
 |![bank_transfer_p2p](https://static.openfintech.io/payment_methods/bank_transfer_p2p/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer (P2P)**](bank_transfer_p2p/)|`bank_transfer_p2p`| 
 |![bank_transfer_qr](https://static.openfintech.io/payment_methods/bank_transfer_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer QR**](bank_transfer_qr/)|`bank_transfer_qr`| 
 |![bank_transfer_va](https://static.openfintech.io/payment_methods/bank_transfer_va/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer VA**](bank_transfer_va/)|`bank_transfer_va`| 
