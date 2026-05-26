@@ -75,6 +75,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![efecty](https://static.openfintech.io/payment_methods/efecty/icon.svg?w=278&c=v0.59.26#w100) |[efecty](/payment-methods/efecty/)|`efecty`| 
 |![pse](https://static.openfintech.io/payment_methods/pse/icon.svg?w=278&c=v0.59.26#w100) |[pse](/payment-methods/pse/)|`pse`| 
 |![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix](/payment-methods/pix/)|`pix`| 
+|![breb](https://static.openfintech.io/payment_methods/breb/icon.png?w=278&c=v0.59.26#w100) |[breb](/payment-methods/breb/)|`breb`| 
+|![breb_qr](https://static.openfintech.io/payment_methods/breb_qr/icon.svg?w=278&c=v0.59.26#w100) |[breb_qr](/payment-methods/breb_qr/)|`breb_qr`| 
  
 
 ## Payout Methods 
@@ -203,7 +205,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "nequi",
     "efecty",
     "pse",
-    "pix"
+    "pix",
+    "breb",
+    "breb_qr"
   ],
   "payout_method":[
     "bangko_bank",

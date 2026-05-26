@@ -45,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bre-B_
 
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
+|![payok](https://static.openfintech.io/payment_providers/payok/icon.png?w=278&c=v0.59.26#w100) |[Payok](/payment-providers/payok/)|`payok`| 
 |![smartfastpay](https://static.openfintech.io/payment_providers/smartfastpay/icon.png?w=278&c=v0.59.26#w100) |[SmartFastPay](/payment-providers/smartfastpay/)|`smartfastpay`| 
  
 

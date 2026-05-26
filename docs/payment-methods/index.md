@@ -208,6 +208,7 @@
 |![bpay](https://static.openfintech.io/payment_methods/bpay/logo.png?w=400&c=v0.59.26#w200) |[**BPAY**](bpay/)|`bpay`| 
 |![bradescocomercioeletronico](https://static.openfintech.io/payment_methods/bradescocomercioeletronico/logo.png?w=400&c=v0.59.26#w200) |[**Bradesco Comércio Eletrônico**](bradescocomercioeletronico/)|`bradescocomercioeletronico`| 
 |![breb](https://static.openfintech.io/payment_methods/breb/logo.png?w=400&c=v0.59.26#w200) |[**Bre-B**](breb/)|`breb`| 
+|![breb_qr](https://static.openfintech.io/payment_methods/breb_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Bre-B QR**](breb_qr/)|`breb_qr`| 
 |![bri_bank](https://static.openfintech.io/payment_methods/bri_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BRI Bank**](bri_bank/)|`bri_bank`| 
 |![bri_va](https://static.openfintech.io/payment_methods/bri_va/logo.svg?w=400&c=v0.59.26#w200) |[**BRIVA**](bri_va/)|`bri_va`| 
 |![bsi_va](https://static.openfintech.io/payment_methods/bsi_va/logo.svg?w=400&c=v0.59.26#w200) |[**BSIVA**](bsi_va/)|`bsi_va`| 

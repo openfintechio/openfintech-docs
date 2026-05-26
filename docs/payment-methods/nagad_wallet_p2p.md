@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Nagad Digital F
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![nagad_wallet_p2p](https://static.openfintech.io/payment_methods/nagad_wallet_p2p/icon.svg?w=278&c=v0.59.26#w100) |[nagad_wallet_p2p_bdt_hpp](/payment-services/nagad_wallet_p2p_bdt_hpp/)|`nagad_wallet_p2p_bdt_hpp`| 
+|![nagad_wallet_p2p](https://static.openfintech.io/payment_methods/nagad_wallet_p2p/icon.svg?w=278&c=v0.59.26#w100) |[nagad_wallet_p2p_bdt_invoice](/payment-services/nagad_wallet_p2p_bdt_invoice/)|`nagad_wallet_p2p_bdt_invoice`| 
  
 
 ## Payment Providers 
