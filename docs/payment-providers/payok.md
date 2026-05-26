@@ -140,6 +140,22 @@ The list of supported [Payout Methods](/payout-methods/)
 |![shopeepay](https://static.openfintech.io/payout_methods/shopeepay/icon.svg?w=278&c=v0.59.26#w40) |[shopeepay](payout-methodsshopeepay/)|`shopeepay`| 
 |![pix](https://static.openfintech.io/payout_methods/pix/icon.svg?w=278&c=v0.59.26#w40) |[pix](payout-methodspix/)|`pix`| 
 |![imps](https://static.openfintech.io/payout_methods/imps/icon.png?w=278&c=v0.59.26#w40) |[imps](payout-methodsimps/)|`imps`| 
+|![bancamia](https://static.openfintech.io/payout_methods/bancamia/icon.svg?w=278&c=v0.59.26#w40) |[bancamia](payout-methodsbancamia/)|`bancamia`| 
+|![banco_agrario](https://static.openfintech.io/payout_methods/banco_agrario/icon.svg?w=278&c=v0.59.26#w40) |[banco_agrario](payout-methodsbanco_agrario/)|`banco_agrario`| 
+|![banco_av_villas](https://static.openfintech.io/payout_methods/banco_av_villas/icon.svg?w=278&c=v0.59.26#w40) |[banco_av_villas](payout-methodsbanco_av_villas/)|`banco_av_villas`| 
+|![banco_caja_social](https://static.openfintech.io/payout_methods/banco_caja_social/icon.svg?w=278&c=v0.59.26#w40) |[banco_caja_social](payout-methodsbanco_caja_social/)|`banco_caja_social`| 
+|![coopcentral](https://static.openfintech.io/payout_methods/coopcentral/icon.svg?w=278&c=v0.59.26#w40) |[coopcentral](payout-methodscoopcentral/)|`coopcentral`| 
+|![credifinanciera](https://static.openfintech.io/payout_methods/credifinanciera/icon.svg?w=278&c=v0.59.26#w40) |[credifinanciera](payout-methodscredifinanciera/)|`credifinanciera`| 
+|![banco_falabella](https://static.openfintech.io/payout_methods/banco_falabella/icon.svg?w=278&c=v0.59.26#w40) |[banco_falabella](payout-methodsbanco_falabella/)|`banco_falabella`| 
+|![banco_serfinanza](https://static.openfintech.io/payout_methods/banco_serfinanza/icon.svg?w=278&c=v0.59.26#w40) |[banco_serfinanza](payout-methodsbanco_serfinanza/)|`banco_serfinanza`| 
+|![banco_union](https://static.openfintech.io/payout_methods/banco_union/icon.svg?w=278&c=v0.59.26#w40) |[banco_union](payout-methodsbanco_union/)|`banco_union`| 
+|![cfa_cooperativa](https://static.openfintech.io/payout_methods/cfa_cooperativa/icon.svg?w=278&c=v0.59.26#w40) |[cfa_cooperativa](payout-methodscfa_cooperativa/)|`cfa_cooperativa`| 
+|![coltefinanciera](https://static.openfintech.io/payout_methods/coltefinanciera/icon.svg?w=278&c=v0.59.26#w40) |[coltefinanciera](payout-methodscoltefinanciera/)|`coltefinanciera`| 
+|![confiar_cooperativa](https://static.openfintech.io/payout_methods/confiar_cooperativa/icon.svg?w=278&c=v0.59.26#w40) |[confiar_cooperativa](payout-methodsconfiar_cooperativa/)|`confiar_cooperativa`| 
+|![coofinep](https://static.openfintech.io/payout_methods/coofinep/icon.svg?w=278&c=v0.59.26#w40) |[coofinep](payout-methodscoofinep/)|`coofinep`| 
+|![cotrafa](https://static.openfintech.io/payout_methods/cotrafa/icon.svg?w=278&c=v0.59.26#w40) |[cotrafa](payout-methodscotrafa/)|`cotrafa`| 
+|![iris](https://static.openfintech.io/payout_methods/iris/icon.svg?w=278&c=v0.59.26#w40) |[iris](payout-methodsiris/)|`iris`| 
+|![lulo_bank](https://static.openfintech.io/payout_methods/lulo_bank/icon.svg?w=278&c=v0.59.26#w40) |[lulo_bank](payout-methodslulo_bank/)|`lulo_bank`| 
  
 
 ## JSON Object 
@@ -246,7 +262,23 @@ The list of supported [Payout Methods](/payout-methods/)
     "linkaja",
     "shopeepay",
     "pix",
-    "imps"
+    "imps",
+    "bancamia",
+    "banco_agrario",
+    "banco_av_villas",
+    "banco_caja_social",
+    "coopcentral",
+    "credifinanciera",
+    "banco_falabella",
+    "banco_serfinanza",
+    "banco_union",
+    "cfa_cooperativa",
+    "coltefinanciera",
+    "confiar_cooperativa",
+    "coofinep",
+    "cotrafa",
+    "iris",
+    "lulo_bank"
   ],
   "metadata":null,
   "name":{
