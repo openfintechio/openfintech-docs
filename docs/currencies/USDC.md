@@ -14,7 +14,7 @@
  
 **Type:** `crypto` 
  
-**Exponent:** `2` 
+**Exponent:** `6` 
  
 **Parent currency multiplier:** `1` 
  
@@ -42,7 +42,7 @@ https://static.openfintech.io/currencies/USDC/icon.svg?w=278&c=v0.59.26#w100
     "en":"USDC"
   },
   "type":"crypto",
-  "exponent":2,
+  "exponent":6,
   "parent_currency_multiplier":1,
   "category":"cryptocurrency",
   "iso_numeric3_code":null,
