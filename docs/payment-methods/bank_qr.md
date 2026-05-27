@@ -38,6 +38,7 @@ The list of [Payment Services](/payment-services/) based on the _Bank QR_
 |:---:|:---:|:---:| 
 |![bank_qr](https://static.openfintech.io/payment_methods/bank_qr/icon.svg?w=278&c=v0.59.26#w100) |[bank_qr_vnd_hpp](/payment-services/bank_qr_vnd_hpp/)|`bank_qr_vnd_hpp`| 
 |![bank_qr](https://static.openfintech.io/payment_methods/bank_qr/icon.svg?w=278&c=v0.59.26#w100) |[bank_qr_pkr_transfer](/payment-services/bank_qr_pkr_transfer/)|`bank_qr_pkr_transfer`| 
+|![bank_qr](https://static.openfintech.io/payment_methods/bank_qr/icon.svg?w=278&c=v0.59.26#w100) |[bank_qr_pkr_invoice](/payment-services/bank_qr_pkr_invoice/)|`bank_qr_pkr_invoice`| 
  
 
 ## Payment Providers 
