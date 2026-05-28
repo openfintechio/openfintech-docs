@@ -2154,6 +2154,7 @@
 |![streampay](https://static.openfintech.io/vendors/streampay/logo.png?w=600&c=v0.59.26#w200) |[**StreamPay**](streampay/)|`streampay`| 
 |![stripe](https://static.openfintech.io/vendors/stripe/logo.svg?w=600&c=v0.59.26#w200) |[**Stripe**](stripe/)|`stripe`| 
 |![stspayone](https://static.openfintech.io/vendors/stspayone/logo.png?w=600&c=v0.59.26#w200) |[**STS PayOne**](stspayone/)|`stspayone`| 
+|![sudalink](https://static.openfintech.io/vendors/sudalink/logo.svg?w=600&c=v0.59.26#w200) |[**Sudalink**](sudalink/)|`sudalink`| 
 |![suhyup_bank](https://static.openfintech.io/vendors/suhyup_bank/logo.png?w=600&c=v0.59.26#w200) |[**Suhyup Bank**](suhyup_bank/)|`suhyup_bank`| 
 |![sumishin_sbi_net_bank](https://static.openfintech.io/vendors/sumishin_sbi_net_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Sumishin SBI Net Bank**](sumishin_sbi_net_bank/)|`sumishin_sbi_net_bank`| 
 |![sumitomo_mitsui_banking_corporation](https://static.openfintech.io/vendors/sumitomo_mitsui_banking_corporation/logo.svg?w=600&c=v0.59.26#w200) |[**Sumitomo Mitsui Banking Corporation**](sumitomo_mitsui_banking_corporation/)|`sumitomo_mitsui_banking_corporation`| 

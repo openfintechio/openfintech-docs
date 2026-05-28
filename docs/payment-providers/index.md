@@ -1027,6 +1027,7 @@
 |![streampay](https://static.openfintech.io/payment_providers/streampay/logo.png?w=600&c=v0.59.26#w100) |[**StreamPay**](streampay/)|`streampay`| 
 |![stripe](https://static.openfintech.io/payment_providers/stripe/logo.svg?w=600&c=v0.59.26#w100) |[**Stripe**](stripe/)|`stripe`| 
 |![stspayone](https://static.openfintech.io/payment_providers/stspayone/logo.png?w=600&c=v0.59.26#w100) |[**STS PayOne**](stspayone/)|`stspayone`| 
+|![sudalink](https://static.openfintech.io/payment_providers/sudalink/logo.svg?w=600&c=v0.59.26#w100) |[**Sudalink**](sudalink/)|`sudalink`| 
 |![swiffy](https://static.openfintech.io/payment_providers/swiffy/logo.png?w=600&c=v0.59.26#w100) |[**Swiffy**](swiffy/)|`swiffy`| 
 |![swipehq](https://static.openfintech.io/payment_providers/swipehq/logo.png?w=600&c=v0.59.26#w100) |[**Swipe Checkout**](swipehq/)|`swipehq`| 
 |![swishme](https://static.openfintech.io/payment_providers/swishme/logo.png?w=600&c=v0.59.26#w100) |[**Swish Payments Ltd**](swishme/)|`swishme`| 

@@ -50,6 +50,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Easypaisa
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![okpay](https://static.openfintech.io/payment_providers/okpay/icon.png?w=278&c=v0.59.26#w100) |[Okpay](/payment-providers/okpay/)|`okpay`| 
+|![sudalink](https://static.openfintech.io/payment_providers/sudalink/icon.svg?w=278&c=v0.59.26#w100) |[Sudalink](/payment-providers/sudalink/)|`sudalink`| 
 |![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
 |![odeonpay](https://static.openfintech.io/payment_providers/odeonpay/icon.png?w=278&c=v0.59.26#w100) |[OdeonPay](/payment-providers/odeonpay/)|`odeonpay`| 
 |![gamespay](https://static.openfintech.io/payment_providers/gamespay/icon.svg?w=278&c=v0.59.26#w100) |[PayGames](/payment-providers/gamespay/)|`gamespay`| 
