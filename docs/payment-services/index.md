@@ -2011,6 +2011,7 @@
 |![SWIFT](https://static.openfintech.io/payment_methods/swift/logo.svg?w=400&c=v0.59.26#w200) |[**SWIFT**](/payment-methods/swift/)|[`swift_kzt_invoice`](swift_kzt_invoice/)| 
 |![SWIFT](https://static.openfintech.io/payment_methods/swift/logo.svg?w=400&c=v0.59.26#w200) |[**SWIFT**](/payment-methods/swift/)|[`swift_rub_invoice`](swift_rub_invoice/)| 
 |![SWIFT](https://static.openfintech.io/payment_methods/swift/logo.svg?w=400&c=v0.59.26#w200) |[**SWIFT**](/payment-methods/swift/)|[`swift_usd_invoice`](swift_usd_invoice/)| 
+|![Swish](https://static.openfintech.io/payment_methods/swish/logo.svg?w=400&c=v0.59.26#w200) |[**Swish**](/payment-methods/swish/)|[`swish_sek_hpp`](swish_sek_hpp/)| 
 ||| **T** ||
 |![Tambo](https://static.openfintech.io/payment_methods/tambo_cash/logo.png?w=400&c=v0.59.26#w200) |[**Tambo**](/payment-methods/tambo_cash/)|[`tambo_cash_pen_hpp`](tambo_cash_pen_hpp/)| 
 |![Tambo](https://static.openfintech.io/payment_methods/tambo/logo.svg?w=400&c=v0.59.26#w200) |[**Tambo**](/payment-methods/tambo/)|[`tambo_pen_hpp`](tambo_pen_hpp/)| 
@@ -2312,4 +2313,8 @@
 |![Zantel ezypesa](https://static.openfintech.io/payment_methods/zantel_ezypesa/logo.png?w=400&c=v0.59.26#w200) |[**Zantel ezypesa**](/payment-methods/zantel_ezypesa/)|[`zantel_ezypesa_zmw_invoice`](zantel_ezypesa_zmw_invoice/)| 
 |![Zen wallet](https://static.openfintech.io/payment_methods/zen_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**Zen wallet**](/payment-methods/zen_wallet/)|[`zen_wallet_eur_invoice`](zen_wallet_eur_invoice/)| 
 |![Zen wallet](https://static.openfintech.io/payment_methods/zen_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**Zen wallet**](/payment-methods/zen_wallet/)|[`zen_wallet_usd_invoice`](zen_wallet_usd_invoice/)| 
+|![Zimpler](https://static.openfintech.io/payment_methods/zimpler/logo.svg?w=400&c=v0.59.26#w200) |[**Zimpler**](/payment-methods/zimpler/)|[`zimpler_brl_hpp`](zimpler_brl_hpp/)| 
+|![Zimpler](https://static.openfintech.io/payment_methods/zimpler/logo.svg?w=400&c=v0.59.26#w200) |[**Zimpler**](/payment-methods/zimpler/)|[`zimpler_dkk_hpp`](zimpler_dkk_hpp/)| 
+|![Zimpler](https://static.openfintech.io/payment_methods/zimpler/logo.svg?w=400&c=v0.59.26#w200) |[**Zimpler**](/payment-methods/zimpler/)|[`zimpler_eur_hpp`](zimpler_eur_hpp/)| 
+|![Zimpler](https://static.openfintech.io/payment_methods/zimpler/logo.svg?w=400&c=v0.59.26#w200) |[**Zimpler**](/payment-methods/zimpler/)|[`zimpler_sek_hpp`](zimpler_sek_hpp/)| 
 |![Ziraat Bankası](https://static.openfintech.io/payment_methods/ziraat_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Ziraat Bankası**](/payment-methods/ziraat_bank/)|[`ziraat_bank_try_invoice`](ziraat_bank_try_invoice/)| 

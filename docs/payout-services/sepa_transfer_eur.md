@@ -41,6 +41,7 @@
 |`beneficiary_state`|✗|`string`|`/^.{1,100}$/`| 
 |`dialcode`|✗|`string`|`/^[0-9]{1,4}$/`| 
 |`bank_name`|✗|`string`|`/^.{1,128}$/`| 
+|`country_code`|✗|`string`|`/^[A-Z]{2}$/`| 
  
 
 ### Details 
@@ -350,6 +351,24 @@
 	: [EN] Enter bank name 
 	: [RU] Введите название банка 
 	: [UK] Введіть назву банку 
+ 
+18. **`country_code`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Z]{2}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Country Code 
+	: [RU] Код страны 
+	: [UK] Код країни 
+ 
+	Hint:  
+	: [EN] ISO 3166-1 alpha-2 country code 
+	: [RU] Двухбуквенный код страны по ISO 3166-1 
+	: [UK] Двобуквений код країни за ISO 3166-1 
  
 
 ## JSON Object 
@@ -662,6 +681,24 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u0430\u0437\u0432\u0443 \u0431\u0430\u043d\u043a\u0443"
       },
       "example":"Bnk of Athenes"
+    },
+    {
+      "key":"country_code",
+      "type":"string",
+      "label":{
+        "en":"Country Code",
+        "ru":"\u041a\u043e\u0434 \u0441\u0442\u0440\u0430\u043d\u044b",
+        "uk":"\u041a\u043e\u0434 \u043a\u0440\u0430\u0457\u043d\u0438"
+      },
+      "hint":{
+        "en":"ISO 3166-1 alpha-2 country code",
+        "ru":"\u0414\u0432\u0443\u0445\u0431\u0443\u043a\u0432\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434 \u0441\u0442\u0440\u0430\u043d\u044b \u043f\u043e ISO 3166-1",
+        "uk":"\u0414\u0432\u043e\u0431\u0443\u043a\u0432\u0435\u043d\u0438\u0439 \u043a\u043e\u0434 \u043a\u0440\u0430\u0457\u043d\u0438 \u0437\u0430 ISO 3166-1"
+      },
+      "regexp":"\/^[A-Z]{2}$\/",
+      "required":false,
+      "position":18,
+      "example":"DE"
     }
   ],
   "amount_min":"0.01",

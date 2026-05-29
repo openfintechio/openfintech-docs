@@ -2360,6 +2360,7 @@
 |![SWIFT](https://static.openfintech.io/payout_methods/swift/logo.svg?w=400&c=v0.59.26#w24) |[**SWIFT**](/payout-methods/swift/)|[`swift_kzt`](swift_kzt/)|`KZT`| 
 |![SWIFT](https://static.openfintech.io/payout_methods/swift/logo.svg?w=400&c=v0.59.26#w24) |[**SWIFT**](/payout-methods/swift/)|[`swift_rub`](swift_rub/)|`RUB`| 
 |![SWIFT](https://static.openfintech.io/payout_methods/swift/logo.svg?w=400&c=v0.59.26#w24) |[**SWIFT**](/payout-methods/swift/)|[`swift_usd`](swift_usd/)|`USD`| 
+|![Swish](https://static.openfintech.io/payout_methods/swish/logo.svg?w=400&c=v0.59.26#w24) |[**Swish**](/payout-methods/swish/)|[`swish_sek`](swish_sek/)|`SEK`| 
 |![Sword](https://static.openfintech.io/payout_methods/sword/logo.png?w=400&c=v0.59.26#w24) |[**Sword**](/payout-methods/sword/)|[`sword_uah`](sword_uah/)|`UAH`| 
 ||| **T** ||
 |![T-Kash](https://static.openfintech.io/payout_methods/t_kash/logo.svg?w=400&c=v0.59.26#w24) |[**T-Kash**](/payout-methods/t_kash/)|[`t_kash_kes`](t_kash_kes/)|`KES`| 
@@ -3458,6 +3459,9 @@
 |![ZhKP 'Housing-center'](https://static.openfintech.io/payout_methods/zhkp-zhitlo-tsentr/logo.png?w=400&c=v0.59.26#w24) |[**ZhKP 'Housing-center'**](/payout-methods/zhkp-zhitlo-tsentr/)|[`zhkp-zhitlo-tsentr_uah`](zhkp-zhitlo-tsentr_uah/)|`UAH`| 
 |![ЖРЭУ (г.Борисполь, Киевской обл)](https://static.openfintech.io/payout_methods/zhreu-g-borispol-kievskoi-obl/logo.svg?w=400&c=v0.59.26#w24) |[**ЖРЭУ (г.Борисполь, Киевской обл)**](/payout-methods/zhreu-g-borispol-kievskoi-obl/)|[`zhreu-g-borispol-kievskoi-obl_uah`](zhreu-g-borispol-kievskoi-obl_uah/)|`UAH`| 
 |![Zhuhai Rural Credit Cooperatives](https://static.openfintech.io/payout_methods/zhuhai_rural_credit_cooperatives/logo.png?w=400&c=v0.59.26#w24) |[**Zhuhai Rural Credit Cooperatives**](/payout-methods/zhuhai_rural_credit_cooperatives/)|[`zhuhai_rural_credit_cooperatives_cny`](zhuhai_rural_credit_cooperatives_cny/)|`CNY`| 
+|![Zimpler](https://static.openfintech.io/payout_methods/zimpler/logo.svg?w=400&c=v0.59.26#w24) |[**Zimpler**](/payout-methods/zimpler/)|[`zimpler_dkk`](zimpler_dkk/)|`DKK`| 
+|![Zimpler](https://static.openfintech.io/payout_methods/zimpler/logo.svg?w=400&c=v0.59.26#w24) |[**Zimpler**](/payout-methods/zimpler/)|[`zimpler_eur`](zimpler_eur/)|`EUR`| 
+|![Zimpler](https://static.openfintech.io/payout_methods/zimpler/logo.svg?w=400&c=v0.59.26#w24) |[**Zimpler**](/payout-methods/zimpler/)|[`zimpler_sek`](zimpler_sek/)|`SEK`| 
 |![Zinternet](https://static.openfintech.io/payout_methods/zinternet/logo.svg?w=400&c=v0.59.26#w24) |[**Zinternet**](/payout-methods/zinternet/)|[`zinternet_ngn`](zinternet_ngn/)|`NGN`| 
 |![Ziraat Bank](https://static.openfintech.io/payout_methods/ziraat_bank/logo.png?w=400&c=v0.59.26#w24) |[**Ziraat Bank**](/payout-methods/ziraat_bank/)|[`ziraat_bank_dkk`](ziraat_bank_dkk/)|`DKK`| 
 |![Ziraat Bank](https://static.openfintech.io/payout_methods/ziraat_bank/logo.png?w=400&c=v0.59.26#w24) |[**Ziraat Bank**](/payout-methods/ziraat_bank/)|[`ziraat_bank_eur`](ziraat_bank_eur/)|`EUR`| 

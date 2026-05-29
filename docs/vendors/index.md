@@ -2169,7 +2169,7 @@
 |![swiffy](https://static.openfintech.io/vendors/swiffy/logo.png?w=600&c=v0.59.26#w200) |[**Swiffy**](swiffy/)|`swiffy`| 
 |![swift](https://static.openfintech.io/vendors/swift/logo.svg?w=600&c=v0.59.26#w200) |[**SWIFT**](swift/)|`swift`| 
 |![swipehq](https://static.openfintech.io/vendors/swipehq/logo.png?w=600&c=v0.59.26#w200) |[**Swipe Checkout**](swipehq/)|`swipehq`| 
-|![swishme](https://static.openfintech.io/vendors/swishme/logo.png?w=600&c=v0.59.26#w200) |[**Swish Payments Ltd**](swishme/)|`swishme`| 
+|![swish](https://static.openfintech.io/vendors/swish/logo.svg?w=600&c=v0.59.26#w200) |[**Swish Payments Ltd**](swish/)|`swish`| 
 |![swisspay24](https://static.openfintech.io/vendors/swisspay24/logo.png?w=600&c=v0.59.26#w200) |[**SwissPay24**](swisspay24/)|`swisspay24`| 
 |![swisssecurepayment](https://static.openfintech.io/vendors/swisssecurepayment/logo.png?w=600&c=v0.59.26#w200) |[**Swiss Secure Payment™**](swisssecurepayment/)|`swisssecurepayment`| 
 |![symoco](https://static.openfintech.io/vendors/symoco/logo.png?w=600&c=v0.59.26#w200) |[**Symoco**](symoco/)|`symoco`| 

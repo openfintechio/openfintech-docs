@@ -934,6 +934,7 @@
 |![swedbank](https://static.openfintech.io/payment_methods/swedbank/logo.png?w=400&c=v0.59.26#w200) |[**Swedbank**](swedbank/)|`swedbank`| 
 |![swiffy_eft](https://static.openfintech.io/payment_methods/swiffy_eft/logo.png?w=400&c=v0.59.26#w200) |[**Swiffy EFT**](swiffy_eft/)|`swiffy_eft`| 
 |![swift](https://static.openfintech.io/payment_methods/swift/logo.svg?w=400&c=v0.59.26#w200) |[**SWIFT**](swift/)|`swift`| 
+|![swish](https://static.openfintech.io/payment_methods/swish/logo.svg?w=400&c=v0.59.26#w200) |[**Swish**](swish/)|`swish`| 
 || **T** ||
 |![tambo](https://static.openfintech.io/payment_methods/tambo/logo.svg?w=400&c=v0.59.26#w200) |[**Tambo**](tambo/)|`tambo`| 
 |![tambo_cash](https://static.openfintech.io/payment_methods/tambo_cash/logo.png?w=400&c=v0.59.26#w200) |[**Tambo**](tambo_cash/)|`tambo_cash`| 
@@ -1084,7 +1085,7 @@
 |![zantel_ezypesa](https://static.openfintech.io/payment_methods/zantel_ezypesa/logo.png?w=400&c=v0.59.26#w200) |[**Zantel ezypesa**](zantel_ezypesa/)|`zantel_ezypesa`| 
 |![zapp](https://static.openfintech.io/payment_methods/zapp/logo.png?w=400&c=v0.59.26#w200) |[**Zapp**](zapp/)|`zapp`| 
 |![zen_wallet](https://static.openfintech.io/payment_methods/zen_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**Zen wallet**](zen_wallet/)|`zen_wallet`| 
-|![zimpler](https://static.openfintech.io/payment_methods/zimpler/logo.png?w=400&c=v0.59.26#w200) |[**Zimpler**](zimpler/)|`zimpler`| 
+|![zimpler](https://static.openfintech.io/payment_methods/zimpler/logo.svg?w=400&c=v0.59.26#w200) |[**Zimpler**](zimpler/)|`zimpler`| 
 |![zipmark](https://static.openfintech.io/payment_methods/zipmark/logo.png?w=400&c=v0.59.26#w200) |[**Zipmark**](zipmark/)|`zipmark`| 
 |![ziraat_bank](https://static.openfintech.io/payment_methods/ziraat_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Ziraat Bankası**](ziraat_bank/)|`ziraat_bank`| 
  

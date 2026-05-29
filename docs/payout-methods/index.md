@@ -2211,6 +2211,7 @@
 |![sweet-tv-mariupol](https://static.openfintech.io/payout_methods/sweet-tv-mariupol/logo.png?w=400&c=v0.59.26#w24) |[**Sweet.tv (Mariupol)**](sweet-tv-mariupol/)|`sweet-tv-mariupol`| 
 |![sweet-tv-ukrayina](https://static.openfintech.io/payout_methods/sweet-tv-ukrayina/logo.svg?w=400&c=v0.59.26#w24) |[**Sweet.tv (Україна)**](sweet-tv-ukrayina/)|`sweet-tv-ukrayina`| 
 |![swift](https://static.openfintech.io/payout_methods/swift/logo.svg?w=400&c=v0.59.26#w24) |[**SWIFT**](swift/)|`swift`| 
+|![swish](https://static.openfintech.io/payout_methods/swish/logo.svg?w=400&c=v0.59.26#w24) |[**Swish**](swish/)|`swish`| 
 |![sword](https://static.openfintech.io/payout_methods/sword/logo.png?w=400&c=v0.59.26#w24) |[**Sword**](sword/)|`sword`| 
 || **T** ||
 |![t_kash](https://static.openfintech.io/payout_methods/t_kash/logo.svg?w=400&c=v0.59.26#w24) |[**T-Kash**](t_kash/)|`t_kash`| 
@@ -3282,6 +3283,7 @@
 |![zhmerinka-pat-vinnitsiaoblenergo](https://static.openfintech.io/payout_methods/zhmerinka-pat-vinnitsiaoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Zhmerinka PJSC 'Vinnitsaoblenergo'**](zhmerinka-pat-vinnitsiaoblenergo/)|`zhmerinka-pat-vinnitsiaoblenergo`| 
 |![zhreu-g-borispol-kievskoi-obl](https://static.openfintech.io/payout_methods/zhreu-g-borispol-kievskoi-obl/logo.svg?w=400&c=v0.59.26#w24) |[**ЖРЭУ (г.Борисполь, Киевской обл)**](zhreu-g-borispol-kievskoi-obl/)|`zhreu-g-borispol-kievskoi-obl`| 
 |![zhuhai_rural_credit_cooperatives](https://static.openfintech.io/payout_methods/zhuhai_rural_credit_cooperatives/logo.png?w=400&c=v0.59.26#w24) |[**Zhuhai Rural Credit Cooperatives**](zhuhai_rural_credit_cooperatives/)|`zhuhai_rural_credit_cooperatives`| 
+|![zimpler](https://static.openfintech.io/payout_methods/zimpler/logo.svg?w=400&c=v0.59.26#w24) |[**Zimpler**](zimpler/)|`zimpler`| 
 |![zinternet](https://static.openfintech.io/payout_methods/zinternet/logo.svg?w=400&c=v0.59.26#w24) |[**Zinternet**](zinternet/)|`zinternet`| 
 |![ziraat_bank](https://static.openfintech.io/payout_methods/ziraat_bank/logo.png?w=400&c=v0.59.26#w24) |[**Ziraat Bank**](ziraat_bank/)|`ziraat_bank`| 
 |![zmiyivskii-rem-ak-kharkivoblenergo](https://static.openfintech.io/payout_methods/zmiyivskii-rem-ak-kharkivoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Zmievskaya RES AK 'Kharkovoblenergo'**](zmiyivskii-rem-ak-kharkivoblenergo/)|`zmiyivskii-rem-ak-kharkivoblenergo`| 

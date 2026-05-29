@@ -1030,7 +1030,7 @@
 |![sudalink](https://static.openfintech.io/payment_providers/sudalink/logo.svg?w=600&c=v0.59.26#w100) |[**Sudalink**](sudalink/)|`sudalink`| 
 |![swiffy](https://static.openfintech.io/payment_providers/swiffy/logo.png?w=600&c=v0.59.26#w100) |[**Swiffy**](swiffy/)|`swiffy`| 
 |![swipehq](https://static.openfintech.io/payment_providers/swipehq/logo.png?w=600&c=v0.59.26#w100) |[**Swipe Checkout**](swipehq/)|`swipehq`| 
-|![swishme](https://static.openfintech.io/payment_providers/swishme/logo.png?w=600&c=v0.59.26#w100) |[**Swish Payments Ltd**](swishme/)|`swishme`| 
+|![swish](https://static.openfintech.io/payment_providers/swish/logo.svg?w=600&c=v0.59.26#w100) |[**Swish Payments Ltd**](swish/)|`swish`| 
 |![swisspay24](https://static.openfintech.io/payment_providers/swisspay24/logo.png?w=600&c=v0.59.26#w100) |[**SwissPay24**](swisspay24/)|`swisspay24`| 
 |![swisssecurepayment](https://static.openfintech.io/payment_providers/swisssecurepayment/logo.png?w=600&c=v0.59.26#w100) |[**Swiss Secure Payment™**](swisssecurepayment/)|`swisssecurepayment`| 
 |![symoco](https://static.openfintech.io/payment_providers/symoco/logo.png?w=600&c=v0.59.26#w100) |[**Symoco**](symoco/)|`symoco`| 
@@ -1206,6 +1206,7 @@
 |![zenpays](https://static.openfintech.io/payment_providers/zenpays/logo.png?w=600&c=v0.59.26#w100) |[**ZenPays**](zenpays/)|`zenpays`| 
 |![zenwallet](https://static.openfintech.io/payment_providers/zenwallet/logo.svg?w=600&c=v0.59.26#w100) |[**ZEN.COM**](zenwallet/)|`zenwallet`| 
 |![zepto](https://static.openfintech.io/payment_providers/zepto/logo.svg?w=600&c=v0.59.26#w100) |[**Zepto**](zepto/)|`zepto`| 
+|![zimpler](https://static.openfintech.io/payment_providers/zimpler/logo.svg?w=600&c=v0.59.26#w100) |[**Zimpler**](zimpler/)|`zimpler`| 
 |![zombaio](https://static.openfintech.io/payment_providers/zombaio/logo.png?w=600&c=v0.59.26#w100) |[**Zombaio**](zombaio/)|`zombaio`| 
 |![zong](https://static.openfintech.io/payment_providers/zong/logo.png?w=600&c=v0.59.26#w100) |[**Zong**](zong/)|`zong`| 
 |![zoopay](https://static.openfintech.io/payment_providers/zoopay/logo.png?w=600&c=v0.59.26#w100) |[**ZooPay**](zoopay/)|`zoopay`| 
