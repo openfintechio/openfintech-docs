@@ -86,6 +86,8 @@ The list of supported [Payout Methods](/payout-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill](payout-methodsskrill/)|`skrill`| 
+|![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller](payout-methodsneteller/)|`neteller`| 
+|![paysafecard](https://static.openfintech.io/payout_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w40) |[paysafecard](payout-methodspaysafecard/)|`paysafecard`| 
  
 
 ## JSON Object 
@@ -138,7 +140,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "bank_transfer_klarna"
   ],
   "payout_method":[
-    "skrill"
+    "skrill",
+    "neteller",
+    "paysafecard"
   ],
   "metadata":{
     "about_payments_code":"skrill"
