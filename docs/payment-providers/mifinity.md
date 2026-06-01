@@ -54,6 +54,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bank_transfer_aggregated](https://static.openfintech.io/payout_methods/bank_transfer_aggregated/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_aggregated](payout-methodsbank_transfer_aggregated/)|`bank_transfer_aggregated`| 
+|![mifinity_wallet](https://static.openfintech.io/payout_methods/mifinity_wallet/icon.svg?w=278&c=v0.59.26#w40) |[mifinity_wallet](payout-methodsmifinity_wallet/)|`mifinity_wallet`| 
  
 
 ## JSON Object 
@@ -72,7 +73,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "mifinity"
   ],
   "payout_method":[
-    "bank_transfer_aggregated"
+    "bank_transfer_aggregated",
+    "mifinity_wallet"
   ],
   "metadata":null,
   "name":{

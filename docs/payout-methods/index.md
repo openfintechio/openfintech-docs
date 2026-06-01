@@ -1264,6 +1264,7 @@
 |![microvis_mfb](https://static.openfintech.io/payout_methods/microvis_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Microvis MFB**](microvis_mfb/)|`microvis_mfb`| 
 |![midland_mfb](https://static.openfintech.io/payout_methods/midland_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Midland MFB**](midland_mfb/)|`midland_mfb`| 
 |![mie_bank](https://static.openfintech.io/payout_methods/mie_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Mie Bank**](mie_bank/)|`mie_bank`| 
+|![mifinity_wallet](https://static.openfintech.io/payout_methods/mifinity_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**MiFinity**](mifinity_wallet/)|`mifinity_wallet`| 
 |![mii-drug-mbf-tsspm](https://static.openfintech.io/payout_methods/mii-drug-mbf-tsspm/logo.png?w=400&c=v0.59.26#w24) |[**My Friend - ICF DSPM '**](mii-drug-mbf-tsspm/)|`mii-drug-mbf-tsspm`| 
 |![miit](https://static.openfintech.io/payout_methods/miit/logo.png?w=400&c=v0.59.26#w24) |[**MIIT**](miit/)|`miit`| 
 |![miks-taksi-kiev](https://static.openfintech.io/payout_methods/miks-taksi-kiev/logo.png?w=400&c=v0.59.26#w24) |[**Mix Taxi (Kiev)**](miks-taksi-kiev/)|`miks-taksi-kiev`| 
