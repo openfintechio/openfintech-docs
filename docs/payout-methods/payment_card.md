@@ -702,6 +702,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![paydeca](https://static.openfintech.io/payment_providers/paydeca/icon.png?w=278&c=v0.59.26#w100) |[Paydeca](/payment-providers/paydeca/)|`paydeca`| 
 |![qorepayments](https://static.openfintech.io/payment_providers/qorepayments/icon.svg?w=278&c=v0.59.26#w100) |[QorePayments](/payment-providers/qorepayments/)|`qorepayments`| 
 |![crossbill](https://static.openfintech.io/payment_providers/crossbill/icon.png?w=278&c=v0.59.26#w100) |[Crossbill](/payment-providers/crossbill/)|`crossbill`| 
+|![mintcash](https://static.openfintech.io/payment_providers/mintcash/icon.png?w=278&c=v0.59.26#w100) |[MintCash](/payment-providers/mintcash/)|`mintcash`| 
  
 
 ## JSON Object 

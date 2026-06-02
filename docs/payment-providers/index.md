@@ -583,6 +583,7 @@
 |![mifinity](https://static.openfintech.io/payment_providers/mifinity/logo.svg?w=600&c=v0.59.26#w100) |[**MiFinity**](mifinity/)|`mifinity`| 
 |![millikart](https://static.openfintech.io/payment_providers/millikart/logo.png?w=600&c=v0.59.26#w100) |[**MilliKart**](millikart/)|`millikart`| 
 |![mineexchange](https://static.openfintech.io/payment_providers/mineexchange/logo.png?w=600&c=v0.59.26#w100) |[**MineExchange**](mineexchange/)|`mineexchange`| 
+|![mintcash](https://static.openfintech.io/payment_providers/mintcash/logo.png?w=600&c=v0.59.26#w100) |[**MintCash**](mintcash/)|`mintcash`| 
 |![mistralpay2](https://static.openfintech.io/payment_providers/mistralpay2/logo.png?w=600&c=v0.59.26#w100) |[**MistralPay**](mistralpay2/)|`mistralpay2`| 
 |![mobilum](https://static.openfintech.io/payment_providers/mobilum/logo.svg?w=600&c=v0.59.26#w100) |[**Mobilum**](mobilum/)|`mobilum`| 
 |![mobipaid](https://static.openfintech.io/payment_providers/mobipaid/logo.png?w=600&c=v0.59.26#w100) |[**Mobipaid**](mobipaid/)|`mobipaid`| 

@@ -1294,6 +1294,7 @@
 |![minato_bank](https://static.openfintech.io/vendors/minato_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Minato Bank**](minato_bank/)|`minato_bank`| 
 |![mineexchange](https://static.openfintech.io/vendors/mineexchange/logo.png?w=600&c=v0.59.26#w200) |[**MineExchange**](mineexchange/)|`mineexchange`| 
 |![minitix](https://static.openfintech.io/vendors/minitix/logo.png?w=600&c=v0.59.26#w200) |[**Minitix**](minitix/)|`minitix`| 
+|![mintcash](https://static.openfintech.io/vendors/mintcash/logo.png?w=600&c=v0.59.26#w200) |[**MintCash**](mintcash/)|`mintcash`| 
 |![mistralpay2](https://static.openfintech.io/vendors/mistralpay2/logo.png?w=600&c=v0.59.26#w200) |[**MistralPay**](mistralpay2/)|`mistralpay2`| 
 |![mitsubishi_ufj_bank](https://static.openfintech.io/vendors/mitsubishi_ufj_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Mitsubishi UFJ Financial Group**](mitsubishi_ufj_bank/)|`mitsubishi_ufj_bank`| 
 |![mitsubishi_ufj_trust_and_banking](https://static.openfintech.io/vendors/mitsubishi_ufj_trust_and_banking/logo.svg?w=600&c=v0.59.26#w200) |[**Mitsubishi UFJ Trust and Banking**](mitsubishi_ufj_trust_and_banking/)|`mitsubishi_ufj_trust_and_banking`| 

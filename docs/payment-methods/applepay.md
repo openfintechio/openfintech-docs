@@ -153,6 +153,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Apple Pay
 |![lapsa](https://static.openfintech.io/payment_providers/lapsa/icon.png?w=278&c=v0.59.26#w100) |[Lapsa](/payment-providers/lapsa/)|`lapsa`| 
 |![cardifulnew](https://static.openfintech.io/payment_providers/cardifulnew/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful New](/payment-providers/cardifulnew/)|`cardifulnew`| 
 |![crossbill](https://static.openfintech.io/payment_providers/crossbill/icon.png?w=278&c=v0.59.26#w100) |[Crossbill](/payment-providers/crossbill/)|`crossbill`| 
+|![mintcash](https://static.openfintech.io/payment_providers/mintcash/icon.png?w=278&c=v0.59.26#w100) |[MintCash](/payment-providers/mintcash/)|`mintcash`| 
  
 
 ## JSON Object 
