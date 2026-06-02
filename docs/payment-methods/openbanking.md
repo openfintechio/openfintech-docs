@@ -59,6 +59,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Openbanki
 |![betterbro](https://static.openfintech.io/payment_providers/betterbro/icon.png?w=278&c=v0.59.26#w100) |[Betterbro](/payment-providers/betterbro/)|`betterbro`| 
 |![siquro](https://static.openfintech.io/payment_providers/siquro/icon.png?w=278&c=v0.59.26#w100) |[Siquro](/payment-providers/siquro/)|`siquro`| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
+|![concryt](https://static.openfintech.io/payment_providers/concryt/icon.svg?w=278&c=v0.59.26#w100) |[Concryt](/payment-providers/concryt/)|`concryt`| 
 |![benker](https://static.openfintech.io/payment_providers/benker/icon.png?w=278&c=v0.59.26#w100) |[Benker](/payment-providers/benker/)|`benker`| 
 |![btqfinance](https://static.openfintech.io/payment_providers/btqfinance/icon.png?w=278&c=v0.59.26#w100) |[BTQ Finance](/payment-providers/btqfinance/)|`btqfinance`| 
 |![aeteredge](https://static.openfintech.io/payment_providers/aeteredge/icon.svg?w=278&c=v0.59.26#w100) |[AeterEdge](/payment-providers/aeteredge/)|`aeteredge`| 
