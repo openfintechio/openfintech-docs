@@ -66,6 +66,16 @@ The list of supported [Payment Methods](/payment-methods/)
 |![unicredit](https://static.openfintech.io/payment_methods/unicredit/icon.png?w=278&c=v0.59.26#w100) |[unicredit](/payment-methods/unicredit/)|`unicredit`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![sepa_transfer](https://static.openfintech.io/payout_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w40) |[sepa_transfer](payout-methodssepa_transfer/)|`sepa_transfer`| 
+|![interac](https://static.openfintech.io/payout_methods/interac/icon.svg?w=278&c=v0.59.26#w40) |[interac](payout-methodsinterac/)|`interac`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -102,7 +112,10 @@ The list of supported [Payment Methods](/payment-methods/)
     "snsbank",
     "unicredit"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "sepa_transfer",
+    "interac"
+  ],
   "metadata":null,
   "name":{
     "en":"TODA Pay",
