@@ -38,6 +38,7 @@ The list of [Payment Services](/payment-services/) based on the _Sepa Transfer_
 |:---:|:---:|:---:| 
 |![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_eur_hpp](/payment-services/sepa_transfer_eur_hpp/)|`sepa_transfer_eur_hpp`| 
 |![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_gbp_hpp](/payment-services/sepa_transfer_gbp_hpp/)|`sepa_transfer_gbp_hpp`| 
+|![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_pln_hpp](/payment-services/sepa_transfer_pln_hpp/)|`sepa_transfer_pln_hpp`| 
 |![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_cad_hpp](/payment-services/sepa_transfer_cad_hpp/)|`sepa_transfer_cad_hpp`| 
 |![sepa_transfer](https://static.openfintech.io/payment_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w100) |[sepa_transfer_usd_hpp](/payment-services/sepa_transfer_usd_hpp/)|`sepa_transfer_usd_hpp`| 
  

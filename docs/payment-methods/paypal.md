@@ -44,6 +44,7 @@ The list of [Payment Services](/payment-services/) based on the _PayPal_
 |![paypal](https://static.openfintech.io/payment_methods/paypal/icon.svg?w=278&c=v0.59.26#w100) |[paypal_eur_hpp](/payment-services/paypal_eur_hpp/)|`paypal_eur_hpp`| 
 |![paypal](https://static.openfintech.io/payment_methods/paypal/icon.svg?w=278&c=v0.59.26#w100) |[paypal_huf_hpp](/payment-services/paypal_huf_hpp/)|`paypal_huf_hpp`| 
 |![paypal](https://static.openfintech.io/payment_methods/paypal/icon.svg?w=278&c=v0.59.26#w100) |[paypal_gbp_hpp](/payment-services/paypal_gbp_hpp/)|`paypal_gbp_hpp`| 
+|![paypal](https://static.openfintech.io/payment_methods/paypal/icon.svg?w=278&c=v0.59.26#w100) |[paypal_pln_hpp](/payment-services/paypal_pln_hpp/)|`paypal_pln_hpp`| 
 |![paypal](https://static.openfintech.io/payment_methods/paypal/icon.svg?w=278&c=v0.59.26#w100) |[paypal_cad_hpp](/payment-services/paypal_cad_hpp/)|`paypal_cad_hpp`| 
 |![paypal](https://static.openfintech.io/payment_methods/paypal/icon.svg?w=278&c=v0.59.26#w100) |[paypal_aud_hpp](/payment-services/paypal_aud_hpp/)|`paypal_aud_hpp`| 
 |![paypal](https://static.openfintech.io/payment_methods/paypal/icon.svg?w=278&c=v0.59.26#w100) |[paypal_crc_hpp](/payment-services/paypal_crc_hpp/)|`paypal_crc_hpp`| 
