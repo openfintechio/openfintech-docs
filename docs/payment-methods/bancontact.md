@@ -56,6 +56,7 @@ The list of [Payment Providers](/payment-providers/) that support the _bancontac
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
 |![rampnow](https://static.openfintech.io/payment_providers/rampnow/icon.svg?w=278&c=v0.59.26#w100) |[Rampnow](/payment-providers/rampnow/)|`rampnow`| 
 |![aeteredge](https://static.openfintech.io/payment_providers/aeteredge/icon.svg?w=278&c=v0.59.26#w100) |[AeterEdge](/payment-providers/aeteredge/)|`aeteredge`| 
+|![creditumnew](https://static.openfintech.io/payment_providers/creditumnew/icon.png?w=278&c=v0.59.26#w100) |[Creditum (new)](/payment-providers/creditumnew/)|`creditumnew`| 
  
 
 ## JSON Object 

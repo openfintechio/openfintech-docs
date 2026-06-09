@@ -52,6 +52,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![rapidtransfer](https://static.openfintech.io/payment_methods/rapidtransfer/icon.png?w=278&c=v0.59.26#w100) |[rapidtransfer](/payment-methods/rapidtransfer/)|`rapidtransfer`| 
 |![epay](https://static.openfintech.io/payment_methods/epay/icon.svg?w=278&c=v0.59.26#w100) |[epay](/payment-methods/epay/)|`epay`| 
 |![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_klarna](/payment-methods/bank_transfer_klarna/)|`bank_transfer_klarna`| 
+|![bancontact](https://static.openfintech.io/payment_methods/bancontact/icon.png?w=278&c=v0.59.26#w100) |[bancontact](/payment-methods/bancontact/)|`bancontact`| 
  
 
 ## JSON Object 
@@ -76,7 +77,8 @@ The list of supported [Payment Methods](/payment-methods/)
     "mybank2",
     "rapidtransfer",
     "epay",
-    "bank_transfer_klarna"
+    "bank_transfer_klarna",
+    "bancontact"
   ],
   "payout_method":null,
   "metadata":null,
