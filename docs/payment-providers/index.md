@@ -471,6 +471,7 @@
 |![impaya](https://static.openfintech.io/payment_providers/impaya/logo.png?w=600&c=v0.59.26#w100) |[**Impaya**](impaya/)|`impaya`| 
 |![inatecpayment](https://static.openfintech.io/payment_providers/inatecpayment/logo.png?w=600&c=v0.59.26#w100) |[**Inatec Payment**](inatecpayment/)|`inatecpayment`| 
 |![indiapay](https://static.openfintech.io/payment_providers/indiapay/logo.png?w=600&c=v0.59.26#w100) |[**IndiaPay**](indiapay/)|`indiapay`| 
+|![infinitypay](https://static.openfintech.io/payment_providers/infinitypay/logo.svg?w=600&c=v0.59.26#w100) |[**InfinityPay**](infinitypay/)|`infinitypay`| 
 |![infinityspace](https://static.openfintech.io/payment_providers/infinityspace/logo.png?w=600&c=v0.59.26#w100) |[**Infinity Space**](infinityspace/)|`infinityspace`| 
 |![infotrend](https://static.openfintech.io/payment_providers/infotrend/logo.png?w=600&c=v0.59.26#w100) |[**Infotrend**](infotrend/)|`infotrend`| 
 |![ingbankpl](https://static.openfintech.io/payment_providers/ingbankpl/logo.svg?w=600&c=v0.59.26#w100) |[**ING Bank Poland**](ingbankpl/)|`ingbankpl`| 
