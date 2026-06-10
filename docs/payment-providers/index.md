@@ -997,6 +997,7 @@
 |![skpay](https://static.openfintech.io/payment_providers/skpay/logo.png?w=600&c=v0.59.26#w100) |[**SKPay**](skpay/)|`skpay`| 
 |![skrill](https://static.openfintech.io/payment_providers/skrill/logo.svg?w=600&c=v0.59.26#w100) |[**Skrill**](skrill/)|`skrill`| 
 |![skypay](https://static.openfintech.io/payment_providers/skypay/logo.png?w=600&c=v0.59.26#w100) |[**Skypay**](skypay/)|`skypay`| 
+|![slikair](https://static.openfintech.io/payment_providers/slikair/logo.png?w=600&c=v0.59.26#w100) |[**Slikair**](slikair/)|`slikair`| 
 |![slimpay](https://static.openfintech.io/payment_providers/slimpay/logo.png?w=600&c=v0.59.26#w100) |[**SlimPay**](slimpay/)|`slimpay`| 
 |![slyse](https://static.openfintech.io/payment_providers/slyse/logo.png?w=600&c=v0.59.26#w100) |[**SLYSE**](slyse/)|`slyse`| 
 |![smart2pay](https://static.openfintech.io/payment_providers/smart2pay/logo.png?w=600&c=v0.59.26#w100) |[**Smart2Pay**](smart2pay/)|`smart2pay`| 

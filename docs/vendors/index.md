@@ -2094,6 +2094,7 @@
 |![skpay](https://static.openfintech.io/vendors/skpay/logo.png?w=600&c=v0.59.26#w200) |[**SKPay**](skpay/)|`skpay`| 
 |![skrill](https://static.openfintech.io/vendors/skrill/logo.svg?w=600&c=v0.59.26#w200) |[**Skrill**](skrill/)|`skrill`| 
 |![skypay](https://static.openfintech.io/vendors/skypay/logo.png?w=600&c=v0.59.26#w200) |[**Skypay**](skypay/)|`skypay`| 
+|![slikair](https://static.openfintech.io/vendors/slikair/logo.png?w=600&c=v0.59.26#w200) |[**Slikair**](slikair/)|`slikair`| 
 |![slimpay](https://static.openfintech.io/vendors/slimpay/logo.png?w=600&c=v0.59.26#w200) |[**SlimPay**](slimpay/)|`slimpay`| 
 |![slotoking](https://static.openfintech.io/vendors/slotoking/logo.svg?w=600&c=v0.59.26#w200) |[**Slotoking**](slotoking/)|`slotoking`| 
 |![slovenskasporitelna](https://static.openfintech.io/vendors/slovenskasporitelna/logo.png?w=600&c=v0.59.26#w200) |[**Slovenská Sporitelña**](slovenskasporitelna/)|`slovenskasporitelna`| 
