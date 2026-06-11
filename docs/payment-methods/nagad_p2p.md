@@ -47,7 +47,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Nagad p2p
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![tp24bdt](https://static.openfintech.io/payment_providers/tp24bdt/icon.svg?w=278&c=v0.59.26#w100) |[TP24BDT](/payment-providers/tp24bdt/)|`tp24bdt`| 
-|![pay2local](https://static.openfintech.io/payment_providers/pay2local/icon.svg?w=278&c=v0.59.26#w100) |[Pay2Local](/payment-providers/pay2local/)|`pay2local`| 
  
 
 ## JSON Object 

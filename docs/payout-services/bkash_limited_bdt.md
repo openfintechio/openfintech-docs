@@ -28,6 +28,7 @@
 |`beneficiary_email`|✗|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/`| 
 |`beneficiary_phone`|✗|`string`|`/^\d{10,14}$/`| 
 |`beneficiary_country_code`|✗|`string`|`/^[A-Z]{2}$/`| 
+|`phone_number`|✗|`string`|`/^\d{10,14}$/`| 
  
 
 ### Details 
@@ -82,9 +83,9 @@
 	: [UK] Номер телефону 
  
 	Hint:  
-	: [EN] Enter phone number 
-	: [RU] Введите номер телефона 
-	: [UK] Введіть номер телефону 
+	: [EN] Enter beneficiary phone number 
+	: [RU] Введите beneficiary номер телефона 
+	: [UK] Введіть beneficiary номер телефону 
  
 4. **`beneficiary_country_code`** 
  
@@ -103,6 +104,24 @@
 	: [EN] Enter beneficiary country code 
 	: [RU] Введите beneficiary country code 
 	: [UK] Введіть beneficiary country code 
+ 
+5. **`phone_number`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^\d{10,14}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Phone number 
+	: [RU] Номер телефона 
+	: [UK] Номер телефону 
+ 
+	Hint:  
+	: [EN] Enter phone number 
+	: [RU] Введите номер телефона 
+	: [UK] Введіть номер телефону 
  
 
 ## JSON Object 
@@ -157,9 +176,9 @@
         "uk":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
       },
       "hint":{
-        "en":"Enter phone number",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
+        "en":"Enter beneficiary phone number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 beneficiary \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c beneficiary \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
       },
       "example":"0001787300000",
       "regexp":"\/^\\d{10,14}$\/",
@@ -182,6 +201,24 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 beneficiary country code",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c beneficiary country code"
       }
+    },
+    {
+      "key":"phone_number",
+      "type":"string",
+      "label":{
+        "en":"Phone number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
+      },
+      "hint":{
+        "en":"Enter phone number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
+      },
+      "example":"0001787300000",
+      "regexp":"\/^\\d{10,14}$\/",
+      "required":false,
+      "position":5
     }
   ],
   "amount_min":"1",
