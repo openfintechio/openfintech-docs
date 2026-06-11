@@ -41,6 +41,10 @@ The list of [Payment Services](/payment-services/) based on the _eps e-payment_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![eps](https://static.openfintech.io/payment_methods/eps/icon.png?w=278&c=v0.59.26#w100) |[eps_eur_hpp](/payment-services/eps_eur_hpp/)|`eps_eur_hpp`| 
+|![eps](https://static.openfintech.io/payment_methods/eps/icon.png?w=278&c=v0.59.26#w100) |[eps_usd_hpp](/payment-services/eps_usd_hpp/)|`eps_usd_hpp`| 
+|![eps](https://static.openfintech.io/payment_methods/eps/icon.png?w=278&c=v0.59.26#w100) |[eps_cad_hpp](/payment-services/eps_cad_hpp/)|`eps_cad_hpp`| 
+|![eps](https://static.openfintech.io/payment_methods/eps/icon.png?w=278&c=v0.59.26#w100) |[eps_gbp_hpp](/payment-services/eps_gbp_hpp/)|`eps_gbp_hpp`| 
+|![eps](https://static.openfintech.io/payment_methods/eps/icon.png?w=278&c=v0.59.26#w100) |[eps_aud_hpp](/payment-services/eps_aud_hpp/)|`eps_aud_hpp`| 
 |![eps](https://static.openfintech.io/payment_methods/eps/icon.png?w=278&c=v0.59.26#w100) |[eps_czk_hpp](/payment-services/eps_czk_hpp/)|`eps_czk_hpp`| 
 |![eps](https://static.openfintech.io/payment_methods/eps/icon.png?w=278&c=v0.59.26#w100) |[eps_pln_hpp](/payment-services/eps_pln_hpp/)|`eps_pln_hpp`| 
  
@@ -80,6 +84,7 @@ The list of [Payment Providers](/payment-providers/) that support the _eps e-pay
 |![aeteredge](https://static.openfintech.io/payment_providers/aeteredge/icon.svg?w=278&c=v0.59.26#w100) |[AeterEdge](/payment-providers/aeteredge/)|`aeteredge`| 
 |![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 
 |![creditumnew](https://static.openfintech.io/payment_providers/creditumnew/icon.png?w=278&c=v0.59.26#w100) |[Creditum (new)](/payment-providers/creditumnew/)|`creditumnew`| 
+|![cardifulnew](https://static.openfintech.io/payment_providers/cardifulnew/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful New](/payment-providers/cardifulnew/)|`cardifulnew`| 
 |![crossbill](https://static.openfintech.io/payment_providers/crossbill/icon.png?w=278&c=v0.59.26#w100) |[Crossbill](/payment-providers/crossbill/)|`crossbill`| 
  
 

@@ -46,6 +46,8 @@ The list of [Payment Services](/payment-services/) based on the _Klarna bank tra
 |![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_klarna_pln_hpp](/payment-services/bank_transfer_klarna_pln_hpp/)|`bank_transfer_klarna_pln_hpp`| 
 |![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_klarna_eur_hpp](/payment-services/bank_transfer_klarna_eur_hpp/)|`bank_transfer_klarna_eur_hpp`| 
 |![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_klarna_usd_hpp](/payment-services/bank_transfer_klarna_usd_hpp/)|`bank_transfer_klarna_usd_hpp`| 
+|![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_klarna_aud_hpp](/payment-services/bank_transfer_klarna_aud_hpp/)|`bank_transfer_klarna_aud_hpp`| 
+|![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_klarna_cad_hpp](/payment-services/bank_transfer_klarna_cad_hpp/)|`bank_transfer_klarna_cad_hpp`| 
 |![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_klarna_gbp_hpp](/payment-services/bank_transfer_klarna_gbp_hpp/)|`bank_transfer_klarna_gbp_hpp`| 
  
 
@@ -75,6 +77,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Klarna ba
 |![aeteredge](https://static.openfintech.io/payment_providers/aeteredge/icon.svg?w=278&c=v0.59.26#w100) |[AeterEdge](/payment-providers/aeteredge/)|`aeteredge`| 
 |![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 
 |![creditumnew](https://static.openfintech.io/payment_providers/creditumnew/icon.png?w=278&c=v0.59.26#w100) |[Creditum (new)](/payment-providers/creditumnew/)|`creditumnew`| 
+|![cardifulnew](https://static.openfintech.io/payment_providers/cardifulnew/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful New](/payment-providers/cardifulnew/)|`cardifulnew`| 
  
 
 ## JSON Object 

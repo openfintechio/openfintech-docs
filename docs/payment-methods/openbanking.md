@@ -38,6 +38,8 @@ The list of [Payment Services](/payment-services/) based on the _Openbanking_
 |:---:|:---:|:---:| 
 |![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking_eur_hpp](/payment-services/openbanking_eur_hpp/)|`openbanking_eur_hpp`| 
 |![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking_usd_hpp](/payment-services/openbanking_usd_hpp/)|`openbanking_usd_hpp`| 
+|![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking_aud_hpp](/payment-services/openbanking_aud_hpp/)|`openbanking_aud_hpp`| 
+|![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking_cad_hpp](/payment-services/openbanking_cad_hpp/)|`openbanking_cad_hpp`| 
 |![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking_pln_hpp](/payment-services/openbanking_pln_hpp/)|`openbanking_pln_hpp`| 
 |![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking_gbp_hpp](/payment-services/openbanking_gbp_hpp/)|`openbanking_gbp_hpp`| 
  
@@ -65,6 +67,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Openbanki
 |![aeteredge](https://static.openfintech.io/payment_providers/aeteredge/icon.svg?w=278&c=v0.59.26#w100) |[AeterEdge](/payment-providers/aeteredge/)|`aeteredge`| 
 |![inpay](https://static.openfintech.io/payment_providers/inpay/icon.png?w=278&c=v0.59.26#w100) |[inpay](/payment-providers/inpay/)|`inpay`| 
 |![apay](https://static.openfintech.io/payment_providers/apay/icon.svg?w=278&c=v0.59.26#w100) |[Apay](/payment-providers/apay/)|`apay`| 
+|![cardifulnew](https://static.openfintech.io/payment_providers/cardifulnew/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful New](/payment-providers/cardifulnew/)|`cardifulnew`| 
  
 
 ## JSON Object 

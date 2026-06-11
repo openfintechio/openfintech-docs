@@ -40,6 +40,10 @@ The list of [Payment Services](/payment-services/) based on the _ePay.bg_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![epaybg](https://static.openfintech.io/payment_methods/epaybg/icon.svg?w=278&c=v0.59.26#w100) |[epaybg_eur_hpp](/payment-services/epaybg_eur_hpp/)|`epaybg_eur_hpp`| 
+|![epaybg](https://static.openfintech.io/payment_methods/epaybg/icon.svg?w=278&c=v0.59.26#w100) |[epaybg_usd_hpp](/payment-services/epaybg_usd_hpp/)|`epaybg_usd_hpp`| 
+|![epaybg](https://static.openfintech.io/payment_methods/epaybg/icon.svg?w=278&c=v0.59.26#w100) |[epaybg_cad_hpp](/payment-services/epaybg_cad_hpp/)|`epaybg_cad_hpp`| 
+|![epaybg](https://static.openfintech.io/payment_methods/epaybg/icon.svg?w=278&c=v0.59.26#w100) |[epaybg_gbp_hpp](/payment-services/epaybg_gbp_hpp/)|`epaybg_gbp_hpp`| 
+|![epaybg](https://static.openfintech.io/payment_methods/epaybg/icon.svg?w=278&c=v0.59.26#w100) |[epaybg_aud_hpp](/payment-services/epaybg_aud_hpp/)|`epaybg_aud_hpp`| 
  
 
 ## Payment Providers 
@@ -49,6 +53,7 @@ The list of [Payment Providers](/payment-providers/) that support the _ePay.bg_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![skrill](https://static.openfintech.io/payment_providers/skrill/icon.svg?w=278&c=v0.59.26#w100) |[Skrill](/payment-providers/skrill/)|`skrill`| 
+|![cardifulnew](https://static.openfintech.io/payment_providers/cardifulnew/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful New](/payment-providers/cardifulnew/)|`cardifulnew`| 
 |![crossbill](https://static.openfintech.io/payment_providers/crossbill/icon.png?w=278&c=v0.59.26#w100) |[Crossbill](/payment-providers/crossbill/)|`crossbill`| 
  
 

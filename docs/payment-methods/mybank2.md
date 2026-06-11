@@ -45,6 +45,10 @@ The list of [Payment Services](/payment-services/) based on the _MyBank_
 |:---:|:---:|:---:| 
 |![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2_pln_hpp](/payment-services/mybank2_pln_hpp/)|`mybank2_pln_hpp`| 
 |![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2_eur_hpp](/payment-services/mybank2_eur_hpp/)|`mybank2_eur_hpp`| 
+|![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2_usd_hpp](/payment-services/mybank2_usd_hpp/)|`mybank2_usd_hpp`| 
+|![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2_cad_hpp](/payment-services/mybank2_cad_hpp/)|`mybank2_cad_hpp`| 
+|![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2_gbp_hpp](/payment-services/mybank2_gbp_hpp/)|`mybank2_gbp_hpp`| 
+|![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2_aud_hpp](/payment-services/mybank2_aud_hpp/)|`mybank2_aud_hpp`| 
 |![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2_bgn_hpp](/payment-services/mybank2_bgn_hpp/)|`mybank2_bgn_hpp`| 
 |![mybank2](https://static.openfintech.io/payment_methods/mybank2/icon.png?w=278&c=v0.59.26#w100) |[mybank2_czk_hpp](/payment-services/mybank2_czk_hpp/)|`mybank2_czk_hpp`| 
  
@@ -72,6 +76,7 @@ The list of [Payment Providers](/payment-providers/) that support the _MyBank_
 |![aeteredge](https://static.openfintech.io/payment_providers/aeteredge/icon.svg?w=278&c=v0.59.26#w100) |[AeterEdge](/payment-providers/aeteredge/)|`aeteredge`| 
 |![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 
 |![creditumnew](https://static.openfintech.io/payment_providers/creditumnew/icon.png?w=278&c=v0.59.26#w100) |[Creditum (new)](/payment-providers/creditumnew/)|`creditumnew`| 
+|![cardifulnew](https://static.openfintech.io/payment_providers/cardifulnew/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful New](/payment-providers/cardifulnew/)|`cardifulnew`| 
 |![crossbill](https://static.openfintech.io/payment_providers/crossbill/icon.png?w=278&c=v0.59.26#w100) |[Crossbill](/payment-providers/crossbill/)|`crossbill`| 
  
 

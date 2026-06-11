@@ -46,6 +46,7 @@ The list of [Payment Services](/payment-services/) based on the _Rapid Transfer_
 |:---:|:---:|:---:| 
 |![rapidtransfer](https://static.openfintech.io/payment_methods/rapidtransfer/icon.png?w=278&c=v0.59.26#w100) |[rapidtransfer_eur_hpp](/payment-services/rapidtransfer_eur_hpp/)|`rapidtransfer_eur_hpp`| 
 |![rapidtransfer](https://static.openfintech.io/payment_methods/rapidtransfer/icon.png?w=278&c=v0.59.26#w100) |[rapidtransfer_usd_hpp](/payment-services/rapidtransfer_usd_hpp/)|`rapidtransfer_usd_hpp`| 
+|![rapidtransfer](https://static.openfintech.io/payment_methods/rapidtransfer/icon.png?w=278&c=v0.59.26#w100) |[rapidtransfer_gbp_hpp](/payment-services/rapidtransfer_gbp_hpp/)|`rapidtransfer_gbp_hpp`| 
 |![rapidtransfer](https://static.openfintech.io/payment_methods/rapidtransfer/icon.png?w=278&c=v0.59.26#w100) |[rapidtransfer_pln_hpp](/payment-services/rapidtransfer_pln_hpp/)|`rapidtransfer_pln_hpp`| 
 |![rapidtransfer](https://static.openfintech.io/payment_methods/rapidtransfer/icon.png?w=278&c=v0.59.26#w100) |[rapidtransfer_nok_hpp](/payment-services/rapidtransfer_nok_hpp/)|`rapidtransfer_nok_hpp`| 
 |![rapidtransfer](https://static.openfintech.io/payment_methods/rapidtransfer/icon.png?w=278&c=v0.59.26#w100) |[rapidtransfer_aud_hpp](/payment-services/rapidtransfer_aud_hpp/)|`rapidtransfer_aud_hpp`| 
@@ -68,6 +69,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Rapid Tra
 |![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 
 |![btcbit](https://static.openfintech.io/payment_providers/btcbit/icon.png?w=278&c=v0.59.26#w100) |[Btcbit](/payment-providers/btcbit/)|`btcbit`| 
 |![creditumnew](https://static.openfintech.io/payment_providers/creditumnew/icon.png?w=278&c=v0.59.26#w100) |[Creditum (new)](/payment-providers/creditumnew/)|`creditumnew`| 
+|![cardifulnew](https://static.openfintech.io/payment_providers/cardifulnew/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful New](/payment-providers/cardifulnew/)|`cardifulnew`| 
 |![crossbill](https://static.openfintech.io/payment_providers/crossbill/icon.png?w=278&c=v0.59.26#w100) |[Crossbill](/payment-providers/crossbill/)|`crossbill`| 
  
 

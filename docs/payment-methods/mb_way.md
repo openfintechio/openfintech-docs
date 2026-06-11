@@ -42,6 +42,10 @@ The list of [Payment Services](/payment-services/) based on the _MB WAY_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![mb_way](https://static.openfintech.io/payment_methods/mb_way/icon.svg?w=278&c=v0.59.26#w100) |[mb_way_eur_hpp](/payment-services/mb_way_eur_hpp/)|`mb_way_eur_hpp`| 
+|![mb_way](https://static.openfintech.io/payment_methods/mb_way/icon.svg?w=278&c=v0.59.26#w100) |[mb_way_usd_hpp](/payment-services/mb_way_usd_hpp/)|`mb_way_usd_hpp`| 
+|![mb_way](https://static.openfintech.io/payment_methods/mb_way/icon.svg?w=278&c=v0.59.26#w100) |[mb_way_cad_hpp](/payment-services/mb_way_cad_hpp/)|`mb_way_cad_hpp`| 
+|![mb_way](https://static.openfintech.io/payment_methods/mb_way/icon.svg?w=278&c=v0.59.26#w100) |[mb_way_gbp_hpp](/payment-services/mb_way_gbp_hpp/)|`mb_way_gbp_hpp`| 
+|![mb_way](https://static.openfintech.io/payment_methods/mb_way/icon.svg?w=278&c=v0.59.26#w100) |[mb_way_aud_hpp](/payment-services/mb_way_aud_hpp/)|`mb_way_aud_hpp`| 
 |![mb_way](https://static.openfintech.io/payment_methods/mb_way/icon.svg?w=278&c=v0.59.26#w100) |[mb_way_eur_invoice](/payment-services/mb_way_eur_invoice/)|`mb_way_eur_invoice`| 
  
 
@@ -63,6 +67,7 @@ The list of [Payment Providers](/payment-providers/) that support the _MB WAY_
 |![katarun](https://static.openfintech.io/payment_providers/katarun/icon.png?w=278&c=v0.59.26#w100) |[Katarun](/payment-providers/katarun/)|`katarun`| 
 |![siquro](https://static.openfintech.io/payment_providers/siquro/icon.png?w=278&c=v0.59.26#w100) |[Siquro](/payment-providers/siquro/)|`siquro`| 
 |![mids](https://static.openfintech.io/payment_providers/mids/icon.svg?w=278&c=v0.59.26#w100) |[MIDs](/payment-providers/mids/)|`mids`| 
+|![cardifulnew](https://static.openfintech.io/payment_providers/cardifulnew/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful New](/payment-providers/cardifulnew/)|`cardifulnew`| 
  
 
 ## JSON Object 

@@ -43,6 +43,7 @@ The list of [Payment Services](/payment-services/) based on the _NETELLER_
 |![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_eur_hpp](/payment-services/neteller_eur_hpp/)|`neteller_eur_hpp`| 
 |![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_inr_hpp](/payment-services/neteller_inr_hpp/)|`neteller_inr_hpp`| 
 |![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_usd_hpp](/payment-services/neteller_usd_hpp/)|`neteller_usd_hpp`| 
+|![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_gbp_hpp](/payment-services/neteller_gbp_hpp/)|`neteller_gbp_hpp`| 
 |![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_azn_hpp](/payment-services/neteller_azn_hpp/)|`neteller_azn_hpp`| 
 |![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_uzs_hpp](/payment-services/neteller_uzs_hpp/)|`neteller_uzs_hpp`| 
 |![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller_pkr_hpp](/payment-services/neteller_pkr_hpp/)|`neteller_pkr_hpp`| 
@@ -87,6 +88,7 @@ The list of [Payment Providers](/payment-providers/) that support the _NETELLER_
 |![cardiful](https://static.openfintech.io/payment_providers/cardiful/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful](/payment-providers/cardiful/)|`cardiful`| 
 |![btcbit](https://static.openfintech.io/payment_providers/btcbit/icon.png?w=278&c=v0.59.26#w100) |[Btcbit](/payment-providers/btcbit/)|`btcbit`| 
 |![creditumnew](https://static.openfintech.io/payment_providers/creditumnew/icon.png?w=278&c=v0.59.26#w100) |[Creditum (new)](/payment-providers/creditumnew/)|`creditumnew`| 
+|![cardifulnew](https://static.openfintech.io/payment_providers/cardifulnew/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful New](/payment-providers/cardifulnew/)|`cardifulnew`| 
  
 
 ## JSON Object 
