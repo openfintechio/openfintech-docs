@@ -395,6 +395,7 @@
 |![Binance Pay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](/payment-methods/binancepay/)|[`binancepay_try_hpp`](binancepay_try_hpp/)| 
 |![Binance Pay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](/payment-methods/binancepay/)|[`binancepay_uah_hpp`](binancepay_uah_hpp/)| 
 |![Binance Pay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](/payment-methods/binancepay/)|[`binancepay_usd_hpp`](binancepay_usd_hpp/)| 
+|![Binance Pay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](/payment-methods/binancepay/)|[`binancepay_usdc_hpp`](binancepay_usdc_hpp/)| 
 |![Binance Pay](https://static.openfintech.io/payment_methods/binancepay/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Pay**](/payment-methods/binancepay/)|[`binancepay_uzs_hpp`](binancepay_uzs_hpp/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_aud_hpp`](bitcoin_aud_hpp/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_bch_hpp`](bitcoin_bch_hpp/)| 
@@ -497,6 +498,7 @@
 |![Bank KB Bukopin](https://static.openfintech.io/payment_methods/bukopin_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Bank KB Bukopin**](/payment-methods/bukopin_bank/)|[`bukopin_bank_idr_hpp`](bukopin_bank_idr_hpp/)| 
 |![Bunq](https://static.openfintech.io/payment_methods/bunq/logo.png?w=400&c=v0.59.26#w200) |[**Bunq**](/payment-methods/bunq/)|[`bunq_eur_hpp`](bunq_eur_hpp/)| 
 |![Busan Bank](https://static.openfintech.io/payment_methods/busan_bank/logo.png?w=400&c=v0.59.26#w200) |[**Busan Bank**](/payment-methods/busan_bank/)|[`busan_bank_krw_hpp`](busan_bank_krw_hpp/)| 
+|![Bybit Pay](https://static.openfintech.io/payment_methods/bybit_pay/logo.png?w=400&c=v0.59.26#w200) |[**Bybit Pay**](/payment-methods/bybit_pay/)|[`bybit_pay_usdc_hpp`](bybit_pay_usdc_hpp/)| 
 |![Bybit Pay](https://static.openfintech.io/payment_methods/bybit_pay/logo.png?w=400&c=v0.59.26#w200) |[**Bybit Pay**](/payment-methods/bybit_pay/)|[`bybit_pay_usdt_hpp`](bybit_pay_usdt_hpp/)| 
 ||| **C** ||
 |![Caja Arequipa](https://static.openfintech.io/payment_methods/caja_arequipa_cash/logo.png?w=400&c=v0.59.26#w200) |[**Caja Arequipa**](/payment-methods/caja_arequipa_cash/)|[`caja_arequipa_cash_pen_hpp`](caja_arequipa_cash_pen_hpp/)| 

@@ -38,6 +38,7 @@ The list of [Payment Services](/payment-services/) based on the _Binance Pay_
 |:---:|:---:|:---:| 
 |![binancepay](https://static.openfintech.io/payment_methods/binancepay/icon.svg?w=278&c=v0.59.26#w100) |[binancepay_uah_hpp](/payment-services/binancepay_uah_hpp/)|`binancepay_uah_hpp`| 
 |![binancepay](https://static.openfintech.io/payment_methods/binancepay/icon.svg?w=278&c=v0.59.26#w100) |[binancepay_usd_hpp](/payment-services/binancepay_usd_hpp/)|`binancepay_usd_hpp`| 
+|![binancepay](https://static.openfintech.io/payment_methods/binancepay/icon.svg?w=278&c=v0.59.26#w100) |[binancepay_usdc_hpp](/payment-services/binancepay_usdc_hpp/)|`binancepay_usdc_hpp`| 
 |![binancepay](https://static.openfintech.io/payment_methods/binancepay/icon.svg?w=278&c=v0.59.26#w100) |[binancepay_eur_hpp](/payment-services/binancepay_eur_hpp/)|`binancepay_eur_hpp`| 
 |![binancepay](https://static.openfintech.io/payment_methods/binancepay/icon.svg?w=278&c=v0.59.26#w100) |[binancepay_inr_hpp](/payment-services/binancepay_inr_hpp/)|`binancepay_inr_hpp`| 
 |![binancepay](https://static.openfintech.io/payment_methods/binancepay/icon.svg?w=278&c=v0.59.26#w100) |[binancepay_kzt_hpp](/payment-services/binancepay_kzt_hpp/)|`binancepay_kzt_hpp`| 
