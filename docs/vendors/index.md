@@ -1821,6 +1821,7 @@
 |![paywisesolutions](https://static.openfintech.io/vendors/paywisesolutions/logo.png?w=600&c=v0.59.26#w200) |[**Paywise Solutions**](paywisesolutions/)|`paywisesolutions`| 
 |![paywizard](https://static.openfintech.io/vendors/paywizard/logo.png?w=600&c=v0.59.26#w200) |[**PayWizard**](paywizard/)|`paywizard`| 
 |![payxpert](https://static.openfintech.io/vendors/payxpert/logo.png?w=600&c=v0.59.26#w200) |[**PayXpert**](payxpert/)|`payxpert`| 
+|![payyd](https://static.openfintech.io/vendors/payyd/logo.svg?w=600&c=v0.59.26#w200) |[**Payyd**](payyd/)|`payyd`| 
 |![payza](https://static.openfintech.io/vendors/payza/logo.png?w=600&c=v0.59.26#w200) |[**Payza**](payza/)|`payza`| 
 |![payzang](https://static.openfintech.io/vendors/payzang/logo.png?w=600&c=v0.59.26#w200) |[**PayZang**](payzang/)|`payzang`| 
 |![payzeasy](https://static.openfintech.io/vendors/payzeasy/logo.png?w=600&c=v0.59.26#w200) |[**PayzEasy**](payzeasy/)|`payzeasy`| 

@@ -857,6 +857,7 @@
 |![paywisesolutions](https://static.openfintech.io/payment_providers/paywisesolutions/logo.png?w=600&c=v0.59.26#w100) |[**Paywise Solutions**](paywisesolutions/)|`paywisesolutions`| 
 |![paywizard](https://static.openfintech.io/payment_providers/paywizard/logo.png?w=600&c=v0.59.26#w100) |[**PayWizard**](paywizard/)|`paywizard`| 
 |![payxpert](https://static.openfintech.io/payment_providers/payxpert/logo.png?w=600&c=v0.59.26#w100) |[**PayXpert**](payxpert/)|`payxpert`| 
+|![payyd](https://static.openfintech.io/payment_providers/payyd/logo.svg?w=600&c=v0.59.26#w100) |[**Payyd**](payyd/)|`payyd`| 
 |![payza](https://static.openfintech.io/payment_providers/payza/logo.png?w=600&c=v0.59.26#w100) |[**Payza**](payza/)|`payza`| 
 |![payzang](https://static.openfintech.io/payment_providers/payzang/logo.png?w=600&c=v0.59.26#w100) |[**PayZang**](payzang/)|`payzang`| 
 |![payzeasy](https://static.openfintech.io/payment_providers/payzeasy/logo.png?w=600&c=v0.59.26#w100) |[**PayzEasy**](payzeasy/)|`payzeasy`| 
