@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Esewa_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![esewa](https://static.openfintech.io/payment_methods/esewa/icon.png?w=278&c=v0.59.26#w100) |[esewa_npr_hpp](/payment-services/esewa_npr_hpp/)|`esewa_npr_hpp`| 
+|![esewa](https://static.openfintech.io/payment_methods/esewa/icon.png?w=278&c=v0.59.26#w100) |[esewa_npr_invoice](/payment-services/esewa_npr_invoice/)|`esewa_npr_invoice`| 
  
 
 ## Payment Providers 
@@ -46,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Esewa_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![gamespay](https://static.openfintech.io/payment_providers/gamespay/icon.svg?w=278&c=v0.59.26#w100) |[PayGames](/payment-providers/gamespay/)|`gamespay`| 
+|![finaxis](https://static.openfintech.io/payment_providers/finaxis/icon.png?w=278&c=v0.59.26#w100) |[FinAxis](/payment-providers/finaxis/)|`finaxis`| 
  
 
 ## JSON Object 

@@ -67,6 +67,8 @@ The list of [Payment Services](/payment-services/) based on the _Bank Transfer_
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_sar_hpp](/payment-services/bank_transfer_sar_hpp/)|`bank_transfer_sar_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_sgd_hpp](/payment-services/bank_transfer_sgd_hpp/)|`bank_transfer_sgd_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_inr_invoice](/payment-services/bank_transfer_inr_invoice/)|`bank_transfer_inr_invoice`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_npr_invoice](/payment-services/bank_transfer_npr_invoice/)|`bank_transfer_npr_invoice`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_aud_invoice](/payment-services/bank_transfer_aud_invoice/)|`bank_transfer_aud_invoice`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_pkr_hpp](/payment-services/bank_transfer_pkr_hpp/)|`bank_transfer_pkr_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_php_hpp](/payment-services/bank_transfer_php_hpp/)|`bank_transfer_php_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_krw_hpp](/payment-services/bank_transfer_krw_hpp/)|`bank_transfer_krw_hpp`| 
@@ -171,6 +173,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![apay](https://static.openfintech.io/payment_providers/apay/icon.svg?w=278&c=v0.59.26#w100) |[Apay](/payment-providers/apay/)|`apay`| 
 |![smartfastpay](https://static.openfintech.io/payment_providers/smartfastpay/icon.png?w=278&c=v0.59.26#w100) |[SmartFastPay](/payment-providers/smartfastpay/)|`smartfastpay`| 
 |![safegatepayments](https://static.openfintech.io/payment_providers/safegatepayments/icon.png?w=278&c=v0.59.26#w100) |[SafeGate Payments](/payment-providers/safegatepayments/)|`safegatepayments`| 
+|![finaxis](https://static.openfintech.io/payment_providers/finaxis/icon.png?w=278&c=v0.59.26#w100) |[FinAxis](/payment-providers/finaxis/)|`finaxis`| 
 |![crossbill](https://static.openfintech.io/payment_providers/crossbill/icon.png?w=278&c=v0.59.26#w100) |[Crossbill](/payment-providers/crossbill/)|`crossbill`| 
  
 

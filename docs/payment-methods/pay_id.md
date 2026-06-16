@@ -53,6 +53,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PayID_
 |![unityfinance](https://static.openfintech.io/payment_providers/unityfinance/icon.svg?w=278&c=v0.59.26#w100) |[UnityFinance](/payment-providers/unityfinance/)|`unityfinance`| 
 |![zepto](https://static.openfintech.io/payment_providers/zepto/icon.svg?w=278&c=v0.59.26#w100) |[Zepto](/payment-providers/zepto/)|`zepto`| 
 |![impaya](https://static.openfintech.io/payment_providers/impaya/icon.png?w=278&c=v0.59.26#w100) |[Impaya](/payment-providers/impaya/)|`impaya`| 
+|![finaxis](https://static.openfintech.io/payment_providers/finaxis/icon.png?w=278&c=v0.59.26#w100) |[FinAxis](/payment-providers/finaxis/)|`finaxis`| 
  
 
 ## JSON Object 
