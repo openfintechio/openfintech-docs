@@ -1846,7 +1846,9 @@
 |![QNB Finansbank](https://static.openfintech.io/payment_methods/qnb_finansbank/logo.svg?w=400&c=v0.59.26#w200) |[**QNB Finansbank**](/payment-methods/qnb_finansbank/)|[`qnb_finansbank_try_invoice`](qnb_finansbank_try_invoice/)| 
 |![QQPay](https://static.openfintech.io/payment_methods/qqpay/logo.svg?w=400&c=v0.59.26#w200) |[**QQPay**](/payment-methods/qqpay/)|[`qqpay_cny_hpp`](qqpay_cny_hpp/)| 
 |![QR Code](https://static.openfintech.io/payment_methods/qr_code/logo.svg?w=400&c=v0.59.26#w200) |[**QR Code**](/payment-methods/qr_code/)|[`qr_code_ars_hpp`](qr_code_ars_hpp/)| 
+|![QR Code](https://static.openfintech.io/payment_methods/qr_code/logo.svg?w=400&c=v0.59.26#w200) |[**QR Code**](/payment-methods/qr_code/)|[`qr_code_ars_invoice`](qr_code_ars_invoice/)| 
 |![QR Code](https://static.openfintech.io/payment_methods/qr_code/logo.svg?w=400&c=v0.59.26#w200) |[**QR Code**](/payment-methods/qr_code/)|[`qr_code_bob_hpp`](qr_code_bob_hpp/)| 
+|![QR Code](https://static.openfintech.io/payment_methods/qr_code/logo.svg?w=400&c=v0.59.26#w200) |[**QR Code**](/payment-methods/qr_code/)|[`qr_code_bob_invoice`](qr_code_bob_invoice/)| 
 |![QR Code](https://static.openfintech.io/payment_methods/qr_code/logo.svg?w=400&c=v0.59.26#w200) |[**QR Code**](/payment-methods/qr_code/)|[`qr_code_cop_hpp`](qr_code_cop_hpp/)| 
 |![QR Code](https://static.openfintech.io/payment_methods/qr_code/logo.svg?w=400&c=v0.59.26#w200) |[**QR Code**](/payment-methods/qr_code/)|[`qr_code_gtq_hpp`](qr_code_gtq_hpp/)| 
 |![QR Code](https://static.openfintech.io/payment_methods/qr_code/logo.svg?w=400&c=v0.59.26#w200) |[**QR Code**](/payment-methods/qr_code/)|[`qr_code_hnl_hpp`](qr_code_hnl_hpp/)| 

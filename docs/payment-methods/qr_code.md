@@ -41,6 +41,8 @@ The list of [Payment Services](/payment-services/) based on the _QR Code_
 |![qr_code](https://static.openfintech.io/payment_methods/qr_code/icon.svg?w=278&c=v0.59.26#w100) |[qr_code_usd_hpp](/payment-services/qr_code_usd_hpp/)|`qr_code_usd_hpp`| 
 |![qr_code](https://static.openfintech.io/payment_methods/qr_code/icon.svg?w=278&c=v0.59.26#w100) |[qr_code_cop_hpp](/payment-services/qr_code_cop_hpp/)|`qr_code_cop_hpp`| 
 |![qr_code](https://static.openfintech.io/payment_methods/qr_code/icon.svg?w=278&c=v0.59.26#w100) |[qr_code_ars_hpp](/payment-services/qr_code_ars_hpp/)|`qr_code_ars_hpp`| 
+|![qr_code](https://static.openfintech.io/payment_methods/qr_code/icon.svg?w=278&c=v0.59.26#w100) |[qr_code_ars_invoice](/payment-services/qr_code_ars_invoice/)|`qr_code_ars_invoice`| 
+|![qr_code](https://static.openfintech.io/payment_methods/qr_code/icon.svg?w=278&c=v0.59.26#w100) |[qr_code_bob_invoice](/payment-services/qr_code_bob_invoice/)|`qr_code_bob_invoice`| 
  
 
 ## Payment Providers 
@@ -50,6 +52,7 @@ The list of [Payment Providers](/payment-providers/) that support the _QR Code_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
+|![stbl](https://static.openfintech.io/payment_providers/stbl/icon.png?w=278&c=v0.59.26#w100) |[STBL](/payment-providers/stbl/)|`stbl`| 
  
 
 ## JSON Object 

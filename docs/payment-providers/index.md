@@ -1029,6 +1029,7 @@
 |![starpago](https://static.openfintech.io/payment_providers/starpago/logo.png?w=600&c=v0.59.26#w100) |[**Starpago**](starpago/)|`starpago`| 
 |![start2pay](https://static.openfintech.io/payment_providers/start2pay/logo.png?w=600&c=v0.59.26#w100) |[**Start2Pay**](start2pay/)|`start2pay`| 
 |![startbutton](https://static.openfintech.io/payment_providers/startbutton/logo.png?w=600&c=v0.59.26#w100) |[**Startbutton**](startbutton/)|`startbutton`| 
+|![stbl](https://static.openfintech.io/payment_providers/stbl/logo.png?w=600&c=v0.59.26#w100) |[**STBL**](stbl/)|`stbl`| 
 |![stepfourpay](https://static.openfintech.io/payment_providers/stepfourpay/logo.svg?w=600&c=v0.59.26#w100) |[**Step4Pay**](stepfourpay/)|`stepfourpay`| 
 |![streampay](https://static.openfintech.io/payment_providers/streampay/logo.png?w=600&c=v0.59.26#w100) |[**StreamPay**](streampay/)|`streampay`| 
 |![stripe](https://static.openfintech.io/payment_providers/stripe/logo.svg?w=600&c=v0.59.26#w100) |[**Stripe**](stripe/)|`stripe`| 
