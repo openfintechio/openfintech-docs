@@ -305,6 +305,7 @@
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_ngn`](bank_transfer_ngn/)|`NGN`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_nio`](bank_transfer_nio/)|`NIO`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_nok`](bank_transfer_nok/)|`NOK`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_npr`](bank_transfer_npr/)|`NPR`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_pen`](bank_transfer_pen/)|`PEN`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_php`](bank_transfer_php/)|`PHP`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_pkr`](bank_transfer_pkr/)|`PKR`| 
