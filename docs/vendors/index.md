@@ -139,6 +139,7 @@
 |![applepay](https://static.openfintech.io/vendors/applepay/logo.svg?w=600&c=v0.59.26#w200) |[**Apple Pay**](applepay/)|`applepay`| 
 |![aps](https://static.openfintech.io/vendors/aps/logo.png?w=600&c=v0.59.26#w200) |[**Advanced Payment Solutions (APS)**](aps/)|`aps`| 
 |![aramorpayments](https://static.openfintech.io/vendors/aramorpayments/logo.png?w=600&c=v0.59.26#w200) |[**Aramor Payments**](aramorpayments/)|`aramorpayments`| 
+|![arapay](https://static.openfintech.io/vendors/arapay/logo.svg?w=600&c=v0.59.26#w200) |[**AraPay**](arapay/)|`arapay`| 
 |![arca](https://static.openfintech.io/vendors/arca/logo.svg?w=600&c=v0.59.26#w200) |[**ArCa**](arca/)|`arca`| 
 |![aretosystems](https://static.openfintech.io/vendors/aretosystems/logo.png?w=600&c=v0.59.26#w200) |[**Areto Systems**](aretosystems/)|`aretosystems`| 
 |![argencard](https://static.openfintech.io/vendors/argencard/logo.png?w=600&c=v0.59.26#w200) |[**Argencard**](argencard/)|`argencard`| 

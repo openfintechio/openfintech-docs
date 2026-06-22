@@ -169,6 +169,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![safegatepayments](https://static.openfintech.io/payment_providers/safegatepayments/icon.png?w=278&c=v0.59.26#w100) |[SafeGate Payments](/payment-providers/safegatepayments/)|`safegatepayments`| 
 |![finaxis](https://static.openfintech.io/payment_providers/finaxis/icon.png?w=278&c=v0.59.26#w100) |[FinAxis](/payment-providers/finaxis/)|`finaxis`| 
 |![crossbill](https://static.openfintech.io/payment_providers/crossbill/icon.png?w=278&c=v0.59.26#w100) |[Crossbill](/payment-providers/crossbill/)|`crossbill`| 
+|![arapay](https://static.openfintech.io/payment_providers/arapay/icon.svg?w=278&c=v0.59.26#w100) |[AraPay](/payment-providers/arapay/)|`arapay`| 
 |![stbl](https://static.openfintech.io/payment_providers/stbl/icon.png?w=278&c=v0.59.26#w100) |[STBL](/payment-providers/stbl/)|`stbl`| 
  
 
