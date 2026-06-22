@@ -37,6 +37,7 @@ The list of [Payment Services](/payment-services/) based on the _Bkash p2p_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bkash_p2p](https://static.openfintech.io/payment_methods/bkash_p2p/icon.svg?w=278&c=v0.59.26#w100) |[bkash_p2p_bdt_hpp](/payment-services/bkash_p2p_bdt_hpp/)|`bkash_p2p_bdt_hpp`| 
+|![bkash_p2p](https://static.openfintech.io/payment_methods/bkash_p2p/icon.svg?w=278&c=v0.59.26#w100) |[bkash_p2p_bdt_transfer](/payment-services/bkash_p2p_bdt_transfer/)|`bkash_p2p_bdt_transfer`| 
 |![bkash_p2p](https://static.openfintech.io/payment_methods/bkash_p2p/icon.svg?w=278&c=v0.59.26#w100) |[bkash_p2p_bdt_invoice](/payment-services/bkash_p2p_bdt_invoice/)|`bkash_p2p_bdt_invoice`| 
  
 
