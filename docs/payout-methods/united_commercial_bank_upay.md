@@ -49,6 +49,7 @@ The list of [Payment Providers](/payment-providers/) that support the _United Co
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
 |![gamespay](https://static.openfintech.io/payment_providers/gamespay/icon.svg?w=278&c=v0.59.26#w100) |[PayGames](/payment-providers/gamespay/)|`gamespay`| 
 |![kodapay](https://static.openfintech.io/payment_providers/kodapay/icon.png?w=278&c=v0.59.26#w100) |[KodaPay](/payment-providers/kodapay/)|`kodapay`| 
+|![tp24bdt](https://static.openfintech.io/payment_providers/tp24bdt/icon.svg?w=278&c=v0.59.26#w100) |[TP24BDT](/payment-providers/tp24bdt/)|`tp24bdt`| 
  
 
 ## JSON Object 

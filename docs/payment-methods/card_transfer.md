@@ -97,6 +97,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card tran
 |![cashix](https://static.openfintech.io/payment_providers/cashix/icon.png?w=278&c=v0.59.26#w100) |[Cashix](/payment-providers/cashix/)|`cashix`| 
 |![platcore](https://static.openfintech.io/payment_providers/platcore/icon.png?w=278&c=v0.59.26#w100) |[Platcore](/payment-providers/platcore/)|`platcore`| 
 |![upay](https://static.openfintech.io/payment_providers/upay/icon.png?w=278&c=v0.59.26#w100) |[UPay](/payment-providers/upay/)|`upay`| 
+|![arapay](https://static.openfintech.io/payment_providers/arapay/icon.svg?w=278&c=v0.59.26#w100) |[AraPay](/payment-providers/arapay/)|`arapay`| 
  
 
 ## JSON Object 
