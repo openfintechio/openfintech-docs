@@ -2971,6 +2971,7 @@
 |![trostianets-pat-vinnitsiaoblenergo](https://static.openfintech.io/payout_methods/trostianets-pat-vinnitsiaoblenergo/logo.png?w=400&c=v0.59.26#w24) |[**Trostyanets PJSC 'Vinnitsaoblenergo'**](trostianets-pat-vinnitsiaoblenergo/)|`trostianets-pat-vinnitsiaoblenergo`| 
 |![trustbank_mfb](https://static.openfintech.io/payout_methods/trustbank_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Trustbank MFB**](trustbank_mfb/)|`trustbank_mfb`| 
 |![trustfund_mfb](https://static.openfintech.io/payout_methods/trustfund_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Trustfund MFB**](trustfund_mfb/)|`trustfund_mfb`| 
+|![trustly](https://static.openfintech.io/payout_methods/trustly/logo.svg?w=400&c=v0.59.26#w24) |[**Trustly**](trustly/)|`trustly`| 
 |![tsarichanskii-rem-tsok-tsarichanskogo-r-nu](https://static.openfintech.io/payout_methods/tsarichanskii-rem-tsok-tsarichanskogo-r-nu/logo.png?w=400&c=v0.59.26#w24) |[**Tsarichansky RES (CSC Tsarichansky district)**](tsarichanskii-rem-tsok-tsarichanskogo-r-nu/)|`tsarichanskii-rem-tsok-tsarichanskogo-r-nu`| 
 |![tsentr-sp-maibutnogo-bank-likiv](https://static.openfintech.io/payout_methods/tsentr-sp-maibutnogo-bank-likiv/logo.png?w=400&c=v0.59.26#w24) |[**Maybutnogo SP Center (Bank Likiv)**](tsentr-sp-maibutnogo-bank-likiv/)|`tsentr-sp-maibutnogo-bank-likiv`| 
 |![tsentr-sp-maibutnogo-diti-meteliki](https://static.openfintech.io/payout_methods/tsentr-sp-maibutnogo-diti-meteliki/logo.png?w=400&c=v0.59.26#w24) |[**Maybutnogo SP Center (Children meteliki)**](tsentr-sp-maibutnogo-diti-meteliki/)|`tsentr-sp-maibutnogo-diti-meteliki`| 

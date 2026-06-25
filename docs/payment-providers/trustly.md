@@ -50,6 +50,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
+|![trustly](https://static.openfintech.io/payout_methods/trustly/icon.svg?w=278&c=v0.59.26#w40) |[trustly](payout-methodstrustly/)|`trustly`| 
  
 
 ## JSON Object 
@@ -66,7 +67,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "trustly_paynplay"
   ],
   "payout_method":[
-    "bank_transfer"
+    "bank_transfer",
+    "trustly"
   ],
   "metadata":null,
   "name":{
