@@ -2160,6 +2160,7 @@
 |![stolichna_filiya_pat_kbprivatbank_kiyiv](https://static.openfintech.io/vendors/stolichna_filiya_pat_kbprivatbank_kiyiv/logo.svg?w=600&c=v0.59.26#w200) |[**СТОЛИЧНА ФІЛІЯ ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](stolichna_filiya_pat_kbprivatbank_kiyiv/)|`stolichna_filiya_pat_kbprivatbank_kiyiv`| 
 |![straal](https://static.openfintech.io/vendors/straal/logo.png?w=600&c=v0.59.26#w200) |[**Straal**](straal/)|`straal`| 
 |![streampay](https://static.openfintech.io/vendors/streampay/logo.png?w=600&c=v0.59.26#w200) |[**StreamPay**](streampay/)|`streampay`| 
+|![streampayments](https://static.openfintech.io/vendors/streampayments/logo.png?w=600&c=v0.59.26#w200) |[**StreamPayments**](streampayments/)|`streampayments`| 
 |![stripe](https://static.openfintech.io/vendors/stripe/logo.svg?w=600&c=v0.59.26#w200) |[**Stripe**](stripe/)|`stripe`| 
 |![stspayone](https://static.openfintech.io/vendors/stspayone/logo.png?w=600&c=v0.59.26#w200) |[**STS PayOne**](stspayone/)|`stspayone`| 
 |![sudalink](https://static.openfintech.io/vendors/sudalink/logo.svg?w=600&c=v0.59.26#w200) |[**Sudalink**](sudalink/)|`sudalink`| 

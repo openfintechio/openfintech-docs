@@ -1033,6 +1033,7 @@
 |![stbl](https://static.openfintech.io/payment_providers/stbl/logo.png?w=600&c=v0.59.26#w100) |[**STBL**](stbl/)|`stbl`| 
 |![stepfourpay](https://static.openfintech.io/payment_providers/stepfourpay/logo.svg?w=600&c=v0.59.26#w100) |[**Step4Pay**](stepfourpay/)|`stepfourpay`| 
 |![streampay](https://static.openfintech.io/payment_providers/streampay/logo.png?w=600&c=v0.59.26#w100) |[**StreamPay**](streampay/)|`streampay`| 
+|![streampayments](https://static.openfintech.io/payment_providers/streampayments/logo.png?w=600&c=v0.59.26#w100) |[**StreamPayments**](streampayments/)|`streampayments`| 
 |![stripe](https://static.openfintech.io/payment_providers/stripe/logo.svg?w=600&c=v0.59.26#w100) |[**Stripe**](stripe/)|`stripe`| 
 |![stspayone](https://static.openfintech.io/payment_providers/stspayone/logo.png?w=600&c=v0.59.26#w100) |[**STS PayOne**](stspayone/)|`stspayone`| 
 |![sudalink](https://static.openfintech.io/payment_providers/sudalink/logo.svg?w=600&c=v0.59.26#w100) |[**Sudalink**](sudalink/)|`sudalink`| 

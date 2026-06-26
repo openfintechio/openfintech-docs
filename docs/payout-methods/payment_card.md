@@ -706,6 +706,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![crossbill](https://static.openfintech.io/payment_providers/crossbill/icon.png?w=278&c=v0.59.26#w100) |[Crossbill](/payment-providers/crossbill/)|`crossbill`| 
 |![mintcash](https://static.openfintech.io/payment_providers/mintcash/icon.png?w=278&c=v0.59.26#w100) |[MintCash](/payment-providers/mintcash/)|`mintcash`| 
 |![payyd](https://static.openfintech.io/payment_providers/payyd/icon.svg?w=278&c=v0.59.26#w100) |[Payyd](/payment-providers/payyd/)|`payyd`| 
+|![streampayments](https://static.openfintech.io/payment_providers/streampayments/icon.png?w=278&c=v0.59.26#w100) |[StreamPayments](/payment-providers/streampayments/)|`streampayments`| 
  
 
 ## JSON Object 
