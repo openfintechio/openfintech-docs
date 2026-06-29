@@ -1982,6 +1982,7 @@
 |![rakhivskii-rem-zakarpattia-oe](https://static.openfintech.io/payout_methods/rakhivskii-rem-zakarpattia-oe/logo.png?w=400&c=v0.59.26#w24) |[**Rakhiv RES of Transcarpathia OE**](rakhivskii-rem-zakarpattia-oe/)|`rakhivskii-rem-zakarpattia-oe`| 
 |![rakuten_bank](https://static.openfintech.io/payout_methods/rakuten_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Rakuten Bank**](rakuten_bank/)|`rakuten_bank`| 
 |![rand_merchant_bank](https://static.openfintech.io/payout_methods/rand_merchant_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Rand Merchant Bank**](rand_merchant_bank/)|`rand_merchant_bank`| 
+|![rapidtransfer](https://static.openfintech.io/payout_methods/rapidtransfer/logo.png?w=400&c=v0.59.26#w24) |[**Rapid Transfer**](rapidtransfer/)|`rapidtransfer`| 
 |![rapipago](https://static.openfintech.io/payout_methods/rapipago/logo.png?w=400&c=v0.59.26#w24) |[**Rapipago**](rapipago/)|`rapipago`| 
 |![rappelz](https://static.openfintech.io/payout_methods/rappelz/logo.png?w=400&c=v0.59.26#w24) |[**Rappelz**](rappelz/)|`rappelz`| 
 |![rappipay](https://static.openfintech.io/payout_methods/rappipay/logo.svg?w=400&c=v0.59.26#w24) |[**RappiPay Compañía de Financiamiento S.A**](rappipay/)|`rappipay`| 

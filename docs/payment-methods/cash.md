@@ -48,6 +48,7 @@ The list of [Payment Services](/payment-services/) based on the _Cash_
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_uyu_hpp](/payment-services/cash_uyu_hpp/)|`cash_uyu_hpp`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_ars_hpp](/payment-services/cash_ars_hpp/)|`cash_ars_hpp`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_mxn_hpp](/payment-services/cash_mxn_hpp/)|`cash_mxn_hpp`| 
+|![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_mxn_invoice](/payment-services/cash_mxn_invoice/)|`cash_mxn_invoice`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_clp_hpp](/payment-services/cash_clp_hpp/)|`cash_clp_hpp`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_pen_hpp](/payment-services/cash_pen_hpp/)|`cash_pen_hpp`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash_uah_invoice](/payment-services/cash_uah_invoice/)|`cash_uah_invoice`| 

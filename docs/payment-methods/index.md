@@ -328,6 +328,7 @@
 |![danskebank](https://static.openfintech.io/payment_methods/danskebank/logo.png?w=400&c=v0.59.26#w200) |[**Danske Bank**](danskebank/)|`danskebank`| 
 |![davivienda_bank](https://static.openfintech.io/payment_methods/davivienda_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BANCO DAVIVIENDA**](davivienda_bank/)|`davivienda_bank`| 
 |![dcb_bank_india](https://static.openfintech.io/payment_methods/dcb_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Development Credit Bank**](dcb_bank_india/)|`dcb_bank_india`| 
+|![debin](https://static.openfintech.io/payment_methods/debin/logo.svg?w=400&c=v0.59.26#w200) |[**DEBIN**](debin/)|`debin`| 
 |![debitobradesco](https://static.openfintech.io/payment_methods/debitobradesco/logo.png?w=400&c=v0.59.26#w200) |[**Debito Bradesco**](debitobradesco/)|`debitobradesco`| 
 |![deutsche_bank](https://static.openfintech.io/payment_methods/deutsche_bank/logo.png?w=400&c=v0.59.26#w200) |[**Deutsche Bank**](deutsche_bank/)|`deutsche_bank`| 
 |![deutsche_bank_india](https://static.openfintech.io/payment_methods/deutsche_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Deutsche Bank AG India**](deutsche_bank_india/)|`deutsche_bank_india`| 

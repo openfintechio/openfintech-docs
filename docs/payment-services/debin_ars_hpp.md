@@ -1,21 +1,21 @@
 
-# Rapipago (service) 
-![rapipago_ars_invoice](https://static.openfintech.io/payment_methods/rapipago_ars_invoice/logo.svg?w=400&c=v0.59.26#w200)  
+# DEBIN (service) 
+![debin_ars_hpp](https://static.openfintech.io/payment_methods/debin_ars_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `rapipago_ars_invoice` 
+**Code:** `debin_ars_hpp` 
  
-**Method:** `rapipago` 
- [show -->](/payment-methods/rapipago/) 
+**Method:** `debin` 
+ [show -->](/payment-methods/debin/) 
  
 **Currency:** `ARS` [show -->](/currencies/ARS/) 
  
 **Name:** 
  
-:	[EN] Rapipago 
+:	[EN] DEBIN 
  
-**Amount limits:** from `10` to `100000000` ARS 
+**Amount limits:** from `1` to `150000000` ARS 
 
 ## Fields 
 
@@ -108,9 +108,9 @@
 
 ```json
 {
-  "code":"rapipago_ars_invoice",
-  "flow":"invoice",
-  "method":"rapipago",
+  "code":"debin_ars_hpp",
+  "flow":"hpp",
+  "method":"debin",
   "currency":"ARS",
   "fields":[
     {
@@ -185,7 +185,7 @@
       "example":"Doe"
     }
   ],
-  "amount_min":10,
-  "amount_max":100000000
+  "amount_min":1,
+  "amount_max":150000000
 }
 ```  

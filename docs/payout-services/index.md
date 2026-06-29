@@ -2081,6 +2081,7 @@
 |![Rakuten Bank](https://static.openfintech.io/payout_methods/rakuten_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Rakuten Bank**](/payout-methods/rakuten_bank/)|[`rakuten_bank_jpy`](rakuten_bank_jpy/)|`JPY`| 
 |![Rand Merchant Bank](https://static.openfintech.io/payout_methods/rand_merchant_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Rand Merchant Bank**](/payout-methods/rand_merchant_bank/)|[`rand_merchant_bank_ngn`](rand_merchant_bank_ngn/)|`NGN`| 
 |![Rand Merchant Bank](https://static.openfintech.io/payout_methods/rand_merchant_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Rand Merchant Bank**](/payout-methods/rand_merchant_bank/)|[`rand_merchant_bank_zar`](rand_merchant_bank_zar/)|`ZAR`| 
+|![Rapid Transfer](https://static.openfintech.io/payout_methods/rapidtransfer/logo.png?w=400&c=v0.59.26#w24) |[**Rapid Transfer**](/payout-methods/rapidtransfer/)|[`rapidtransfer_eur`](rapidtransfer_eur/)|`EUR`| 
 |![Rapipago](https://static.openfintech.io/payout_methods/rapipago/logo.png?w=400&c=v0.59.26#w24) |[**Rapipago**](/payout-methods/rapipago/)|[`rapipago_ars`](rapipago_ars/)|`ARS`| 
 |![Rappelz](https://static.openfintech.io/payout_methods/rappelz/logo.png?w=400&c=v0.59.26#w24) |[**Rappelz**](/payout-methods/rappelz/)|[`rappelz_uah`](rappelz_uah/)|`UAH`| 
 |![RappiPay Compañía de Financiamiento S.A](https://static.openfintech.io/payout_methods/rappipay/logo.svg?w=400&c=v0.59.26#w24) |[**RappiPay Compañía de Financiamiento S.A**](/payout-methods/rappipay/)|[`rappipay_cop`](rappipay_cop/)|`COP`| 

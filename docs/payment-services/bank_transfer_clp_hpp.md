@@ -35,6 +35,7 @@
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
 |`document_type`|✗|`string`|`/^.{1,32}$/`| 
 |`document_id`|✗|`string`|`/^[a-zA-Z0-9\.\-]{1,100}$/`| 
+|`payer_email`|✗|`string`|`/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$/`| 
  
 
 ### Details 
@@ -218,6 +219,24 @@
 	: [EN] Enter beneficiary's personal identification number 
 	: [RU] Введите номер документа получателя 
 	: [UK] Введіть номер документа отримувача 
+ 
+11. **`payer_email`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Payer email 
+	: [RU] Email плательщика 
+	: [UK] Email платника 
+ 
+	Hint:  
+	: [EN] Enter payer email 
+	: [RU] Введите email плательщика 
+	: [UK] Введіть email платника 
  
 
 ## JSON Object 
@@ -406,6 +425,23 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
       },
       "example":"50284414727"
+    },
+    {
+      "key":"payer_email",
+      "type":"string",
+      "label":{
+        "en":"Payer email",
+        "ru":"Email \u043f\u043b\u0430\u0442\u0435\u043b\u044c\u0449\u0438\u043a\u0430",
+        "uk":"Email \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
+      },
+      "hint":{
+        "en":"Enter payer email",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 email \u043f\u043b\u0430\u0442\u0435\u043b\u044c\u0449\u0438\u043a\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c email \u043f\u043b\u0430\u0442\u043d\u0438\u043a\u0430"
+      },
+      "regexp":"\/^([a-z0-9_-]+\\.)*[a-z0-9_-]+@[a-z0-9_-]+(\\.[a-z0-9_-]+)*\\.[a-z]{2,6}$\/",
+      "required":false,
+      "position":11
     }
   ],
   "amount_min":1,

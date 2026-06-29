@@ -658,6 +658,7 @@
 |![Cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200) |[**Cash**](/payment-methods/cash/)|[`cash_kzt_hpp`](cash_kzt_hpp/)| 
 |![Cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200) |[**Cash**](/payment-methods/cash/)|[`cash_kzt_invoice`](cash_kzt_invoice/)| 
 |![Cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200) |[**Cash**](/payment-methods/cash/)|[`cash_mxn_hpp`](cash_mxn_hpp/)| 
+|![Cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200) |[**Cash**](/payment-methods/cash/)|[`cash_mxn_invoice`](cash_mxn_invoice/)| 
 |![Cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200) |[**Cash**](/payment-methods/cash/)|[`cash_pen_hpp`](cash_pen_hpp/)| 
 |![Cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200) |[**Cash**](/payment-methods/cash/)|[`cash_pln_invoice`](cash_pln_invoice/)| 
 |![Cash](https://static.openfintech.io/payment_methods/cash/logo.png?w=400&c=v0.59.26#w200) |[**Cash**](/payment-methods/cash/)|[`cash_rub_hpp`](cash_rub_hpp/)| 
@@ -816,6 +817,7 @@
 |![Danamon Bank](https://static.openfintech.io/payment_methods/danamon_bank/logo.png?w=400&c=v0.59.26#w200) |[**Danamon Bank**](/payment-methods/danamon_bank/)|[`danamon_bank_idr_hpp`](danamon_bank_idr_hpp/)| 
 |![Dankort](https://static.openfintech.io/payment_methods/dankort/logo.png?w=400&c=v0.59.26#w200) |[**Dankort**](/payment-methods/dankort/)|[`dankort_eur_hpp`](dankort_eur_hpp/)| 
 |![Development Credit Bank](https://static.openfintech.io/payment_methods/dcb_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Development Credit Bank**](/payment-methods/dcb_bank_india/)|[`dcb_bank_india_inr_hpp`](dcb_bank_india_inr_hpp/)| 
+|![DEBIN](https://static.openfintech.io/payment_methods/debin/logo.svg?w=400&c=v0.59.26#w200) |[**DEBIN**](/payment-methods/debin/)|[`debin_ars_hpp`](debin_ars_hpp/)| 
 |![Deutsche Bank](https://static.openfintech.io/payment_methods/deutsche_bank/logo.png?w=400&c=v0.59.26#w200) |[**Deutsche Bank**](/payment-methods/deutsche_bank/)|[`deutsche_bank_eur_hpp`](deutsche_bank_eur_hpp/)| 
 |![Deutsche Bank AG India](https://static.openfintech.io/payment_methods/deutsche_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Deutsche Bank AG India**](/payment-methods/deutsche_bank_india/)|[`deutsche_bank_india_inr_hpp`](deutsche_bank_india_inr_hpp/)| 
 |![Dhanlaxmi Bank](https://static.openfintech.io/payment_methods/dhanalaxmi_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Dhanlaxmi Bank**](/payment-methods/dhanalaxmi_bank_india/)|[`dhanalaxmi_bank_india_inr_hpp`](dhanalaxmi_bank_india_inr_hpp/)| 

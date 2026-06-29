@@ -605,6 +605,7 @@
 |![datatrans](https://static.openfintech.io/vendors/datatrans/logo.png?w=600&c=v0.59.26#w200) |[**Datatrans**](datatrans/)|`datatrans`| 
 |![db_financial_investment_bank](https://static.openfintech.io/vendors/db_financial_investment_bank/logo.png?w=600&c=v0.59.26#w200) |[**DB FINANCIAL INVESTMENT CO.**](db_financial_investment_bank/)|`db_financial_investment_bank`| 
 |![dbs_bank_india](https://static.openfintech.io/vendors/dbs_bank_india/logo.svg?w=600&c=v0.59.26#w200) |[**DBS Bank India**](dbs_bank_india/)|`dbs_bank_india`| 
+|![debin](https://static.openfintech.io/vendors/debin/logo.svg?w=600&c=v0.59.26#w200) |[**DEBIN**](debin/)|`debin`| 
 |![debitobradesco](https://static.openfintech.io/vendors/debitobradesco/logo.png?w=600&c=v0.59.26#w200) |[**Debito Bradesco**](debitobradesco/)|`debitobradesco`| 
 |![debitway](https://static.openfintech.io/vendors/debitway/logo.png?w=600&c=v0.59.26#w200) |[**DebitWay**](debitway/)|`debitway`| 
 |![decard](https://static.openfintech.io/vendors/decard/logo.svg?w=600&c=v0.59.26#w200) |[**Decard**](decard/)|`decard`| 

@@ -87,6 +87,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |:---:|:---:|:---:| 
 |![skrill](https://static.openfintech.io/payout_methods/skrill/icon.svg?w=278&c=v0.59.26#w40) |[skrill](payout-methodsskrill/)|`skrill`| 
 |![neteller](https://static.openfintech.io/payout_methods/neteller/icon.png?w=278&c=v0.59.26#w40) |[neteller](payout-methodsneteller/)|`neteller`| 
+|![rapidtransfer](https://static.openfintech.io/payout_methods/rapidtransfer/icon.png?w=278&c=v0.59.26#w40) |[rapidtransfer](payout-methodsrapidtransfer/)|`rapidtransfer`| 
 |![paysafecard](https://static.openfintech.io/payout_methods/paysafecard/icon.svg?w=278&c=v0.59.26#w40) |[paysafecard](payout-methodspaysafecard/)|`paysafecard`| 
  
 
@@ -142,6 +143,7 @@ The list of supported [Payout Methods](/payout-methods/)
   "payout_method":[
     "skrill",
     "neteller",
+    "rapidtransfer",
     "paysafecard"
   ],
   "metadata":{
