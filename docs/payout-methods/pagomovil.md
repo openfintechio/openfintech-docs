@@ -47,6 +47,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PagoMóvi
 |:---:|:---:|:---:| 
 |![aeteredge](https://static.openfintech.io/payment_providers/aeteredge/icon.svg?w=278&c=v0.59.26#w100) |[AeterEdge](/payment-providers/aeteredge/)|`aeteredge`| 
 |![payelu](https://static.openfintech.io/payment_providers/payelu/icon.png?w=278&c=v0.59.26#w100) |[Payelu](/payment-providers/payelu/)|`payelu`| 
+|![stbl](https://static.openfintech.io/payment_providers/stbl/icon.png?w=278&c=v0.59.26#w100) |[STBL](/payment-providers/stbl/)|`stbl`| 
  
 
 ## JSON Object 
