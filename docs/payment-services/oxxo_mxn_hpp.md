@@ -26,7 +26,7 @@
 |`document_type`|✗|`string`|`/^[A-Z]{3,4}$/`| 
 |`document_id`|✗|`string`|`/^[a-zA-Z0-9]{8,18}$/`| 
 |`email`|✗|`string`|`/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$$/`| 
-|`phone`|✗|`string`|`/^\+\d{10,14}$/`| 
+|`phone`|✗|`string`|`/^\+?\d{10,14}$/`| 
 |`payer_first_name`|✗|`string`|`/^[A-Z\-\sa-z\p{L}]{2,100}$/u`| 
 |`payer_last_name`|✗|`string`|`/^[A-Z\-\sa-z\p{L}]{2,100}$/u`| 
  
@@ -91,7 +91,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^\+\d{10,14}$/` 
+	Regexp: `/^\+?\d{10,14}$/` 
  
 	Required: `` 
  
@@ -215,7 +215,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443"
       },
-      "regexp":"\/^\\+\\d{10,14}$\/",
+      "regexp":"\/^\\+?\\d{10,14}$\/",
       "required":false,
       "position":4
     },
