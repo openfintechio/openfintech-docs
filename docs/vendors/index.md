@@ -924,6 +924,7 @@
 |![gcash](https://static.openfintech.io/vendors/gcash/logo.png?w=600&c=v0.59.26#w200) |[**GCash**](gcash/)|`gcash`| 
 |![gcashwallet](https://static.openfintech.io/vendors/gcashwallet/logo.png?w=600&c=v0.59.26#w200) |[**GCASH**](gcashwallet/)|`gcashwallet`| 
 |![gcb_bank_limited_ghana](https://static.openfintech.io/vendors/gcb_bank_limited_ghana/logo.svg?w=600&c=v0.59.26#w200) |[**GCB Bank Limited**](gcb_bank_limited_ghana/)|`gcb_bank_limited_ghana`| 
+|![gdpaytech](https://static.openfintech.io/vendors/gdpaytech/logo.svg?w=600&c=v0.59.26#w200) |[**Mobilum (GDPaytech)**](gdpaytech/)|`gdpaytech`| 
 |![geeexchange](https://static.openfintech.io/vendors/geeexchange/logo.svg?w=600&c=v0.59.26#w200) |[**geeexchange.com**](geeexchange/)|`geeexchange`| 
 |![gemoney](https://static.openfintech.io/vendors/gemoney/logo.png?w=600&c=v0.59.26#w200) |[**GE Money**](gemoney/)|`gemoney`| 
 |![genome](https://static.openfintech.io/vendors/genome/logo.svg?w=600&c=v0.59.26#w200) |[**Genome**](genome/)|`genome`| 

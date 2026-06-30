@@ -420,6 +420,7 @@
 |![gateiq](https://static.openfintech.io/payment_providers/gateiq/logo.svg?w=600&c=v0.59.26#w100) |[**GateIQ**](gateiq/)|`gateiq`| 
 |![gatetwoway](https://static.openfintech.io/payment_providers/gatetwoway/logo.svg?w=600&c=v0.59.26#w100) |[**Gate2way**](gatetwoway/)|`gatetwoway`| 
 |![gatewaypay](https://static.openfintech.io/payment_providers/gatewaypay/logo.png?w=600&c=v0.59.26#w100) |[**GatewayPay**](gatewaypay/)|`gatewaypay`| 
+|![gdpaytech](https://static.openfintech.io/payment_providers/gdpaytech/logo.svg?w=600&c=v0.59.26#w100) |[**Mobilum (GDPaytech)**](gdpaytech/)|`gdpaytech`| 
 |![genome](https://static.openfintech.io/payment_providers/genome/logo.svg?w=600&c=v0.59.26#w100) |[**Genome**](genome/)|`genome`| 
 |![geopaynet](https://static.openfintech.io/payment_providers/geopaynet/logo.svg?w=600&c=v0.59.26#w100) |[**GEO Pay**](geopaynet/)|`geopaynet`| 
 |![gestpay](https://static.openfintech.io/payment_providers/gestpay/logo.png?w=600&c=v0.59.26#w100) |[**GestPay**](gestpay/)|`gestpay`| 
