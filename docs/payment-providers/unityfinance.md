@@ -87,6 +87,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![paytm](https://static.openfintech.io/payout_methods/paytm/icon.svg?w=278&c=v0.59.26#w40) |[paytm](payout-methodspaytm/)|`paytm`| 
 |![sepa_transfer](https://static.openfintech.io/payout_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w40) |[sepa_transfer](payout-methodssepa_transfer/)|`sepa_transfer`| 
 |![blik](https://static.openfintech.io/payout_methods/blik/icon.png?w=278&c=v0.59.26#w40) |[blik](payout-methodsblik/)|`blik`| 
+|![pay_id](https://static.openfintech.io/payout_methods/pay_id/icon.png?w=278&c=v0.59.26#w40) |[pay_id](payout-methodspay_id/)|`pay_id`| 
  
 
 ## JSON Object 
@@ -140,7 +141,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "imps",
     "paytm",
     "sepa_transfer",
-    "blik"
+    "blik",
+    "pay_id"
   ],
   "metadata":null,
   "name":{

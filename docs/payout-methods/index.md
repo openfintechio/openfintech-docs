@@ -1834,6 +1834,7 @@
 |![pavlogradski-mem-tsok-pavlogradskogo-r-nu](https://static.openfintech.io/payout_methods/pavlogradski-mem-tsok-pavlogradskogo-r-nu/logo.png?w=400&c=v0.59.26#w24) |[**Pavlograd MES (CSC Pavlograd district)**](pavlogradski-mem-tsok-pavlogradskogo-r-nu/)|`pavlogradski-mem-tsok-pavlogradskogo-r-nu`| 
 |![pavlogradski-rem-tsok-pavlogradskogo-r-nu](https://static.openfintech.io/payout_methods/pavlogradski-rem-tsok-pavlogradskogo-r-nu/logo.png?w=400&c=v0.59.26#w24) |[**Pavlograd RES (CSC Pavlograd district)**](pavlogradski-rem-tsok-pavlogradskogo-r-nu/)|`pavlogradski-rem-tsok-pavlogradskogo-r-nu`| 
 |![pay4fun](https://static.openfintech.io/payout_methods/pay4fun/logo.png?w=400&c=v0.59.26#w24) |[**Pay4Fun**](pay4fun/)|`pay4fun`| 
+|![pay_id](https://static.openfintech.io/payout_methods/pay_id/logo.png?w=400&c=v0.59.26#w24) |[**PayID**](pay_id/)|`pay_id`| 
 |![pay_maya](https://static.openfintech.io/payout_methods/pay_maya/logo.png?w=400&c=v0.59.26#w24) |[**Maya Philippines**](pay_maya/)|`pay_maya`| 
 |![payattitude_online](https://static.openfintech.io/payout_methods/payattitude_online/logo.svg?w=400&c=v0.59.26#w24) |[**Payattitude Online**](payattitude_online/)|`payattitude_online`| 
 |![paybol](https://static.openfintech.io/payout_methods/paybol/logo.svg?w=400&c=v0.59.26#w24) |[**Paybol**](paybol/)|`paybol`| 
