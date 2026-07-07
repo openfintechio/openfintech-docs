@@ -56,6 +56,10 @@ The list of [Payment Services](/payment-services/) based on the _Usd Coin_
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_erc20_gbp_hpp](/payment-services/usd_coin_erc20_gbp_hpp/)|`usd_coin_erc20_gbp_hpp`| 
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_erc20_chf_hpp](/payment-services/usd_coin_erc20_chf_hpp/)|`usd_coin_erc20_chf_hpp`| 
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_bep20_usdc_hpp](/payment-services/usd_coin_bep20_usdc_hpp/)|`usd_coin_bep20_usdc_hpp`| 
+|![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_arbitrum_usdc_hpp](/payment-services/usd_coin_arbitrum_usdc_hpp/)|`usd_coin_arbitrum_usdc_hpp`| 
+|![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_base_usdc_hpp](/payment-services/usd_coin_base_usdc_hpp/)|`usd_coin_base_usdc_hpp`| 
+|![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_polygon_usdc_hpp](/payment-services/usd_coin_polygon_usdc_hpp/)|`usd_coin_polygon_usdc_hpp`| 
+|![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_sol_usdc_hpp](/payment-services/usd_coin_sol_usdc_hpp/)|`usd_coin_sol_usdc_hpp`| 
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_bep20_usd_hpp](/payment-services/usd_coin_bep20_usd_hpp/)|`usd_coin_bep20_usd_hpp`| 
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_bep20_eur_hpp](/payment-services/usd_coin_bep20_eur_hpp/)|`usd_coin_bep20_eur_hpp`| 
 |![usd_coin](https://static.openfintech.io/payment_methods/usd_coin/icon.png?w=278&c=v0.59.26#w100) |[usd_coin_bep20_gbp_hpp](/payment-services/usd_coin_bep20_gbp_hpp/)|`usd_coin_bep20_gbp_hpp`| 

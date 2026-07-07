@@ -36,6 +36,7 @@
 |`document_type`|✗|`string`|`/^.{1,32}$/`| 
 |`document_id`|✗|`string`|`/^[a-zA-Z0-9\.\-]{1,100}$/`| 
 |`payer_email`|✗|`string`|`/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$/`| 
+|`document_number`|✗|`string`|`/^.{1,50}$/`| 
  
 
 ### Details 
@@ -237,6 +238,24 @@
 	: [EN] Enter payer email 
 	: [RU] Введите email плательщика 
 	: [UK] Введіть email платника 
+ 
+12. **`document_number`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{1,50}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Document Number 
+	: [RU] Номер документа 
+	: [UK] Номер документу 
+ 
+	Hint:  
+	: [EN] Enter document number 
+	: [RU] Введите номер документа 
+	: [UK] Введіть номер документу 
  
 
 ## JSON Object 
@@ -442,6 +461,23 @@
       "regexp":"\/^([a-z0-9_-]+\\.)*[a-z0-9_-]+@[a-z0-9_-]+(\\.[a-z0-9_-]+)*\\.[a-z]{2,6}$\/",
       "required":false,
       "position":11
+    },
+    {
+      "key":"document_number",
+      "type":"string",
+      "regexp":"\/^.{1,50}$\/",
+      "required":false,
+      "position":12,
+      "label":{
+        "en":"Document Number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
+      },
+      "hint":{
+        "en":"Enter document number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
+      }
     }
   ],
   "amount_min":1,
