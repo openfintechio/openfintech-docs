@@ -50,6 +50,7 @@ The list of [Payment Services](/payment-services/) based on the _Apple Pay_
 |![applepay_crypto](https://static.openfintech.io/payment_methods/applepay_crypto/icon.svg?w=278&c=v0.59.26#w100) |[applepay_crypto_egp_hpp](/payment-services/applepay_crypto_egp_hpp/)|`applepay_crypto_egp_hpp`| 
 |![applepay_crypto](https://static.openfintech.io/payment_methods/applepay_crypto/icon.svg?w=278&c=v0.59.26#w100) |[applepay_crypto_inr_hpp](/payment-services/applepay_crypto_inr_hpp/)|`applepay_crypto_inr_hpp`| 
 |![applepay_crypto](https://static.openfintech.io/payment_methods/applepay_crypto/icon.svg?w=278&c=v0.59.26#w100) |[applepay_crypto_try_hpp](/payment-services/applepay_crypto_try_hpp/)|`applepay_crypto_try_hpp`| 
+|![applepay_crypto](https://static.openfintech.io/payment_methods/applepay_crypto/icon.svg?w=278&c=v0.59.26#w100) |[applepay_crypto_aed_hpp](/payment-services/applepay_crypto_aed_hpp/)|`applepay_crypto_aed_hpp`| 
  
 
 ## Payment Providers 

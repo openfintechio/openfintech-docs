@@ -50,6 +50,7 @@ The list of [Payment Services](/payment-services/) based on the _Google Pay_
 |![googlepay_crypto](https://static.openfintech.io/payment_methods/googlepay_crypto/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_crypto_egp_hpp](/payment-services/googlepay_crypto_egp_hpp/)|`googlepay_crypto_egp_hpp`| 
 |![googlepay_crypto](https://static.openfintech.io/payment_methods/googlepay_crypto/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_crypto_inr_hpp](/payment-services/googlepay_crypto_inr_hpp/)|`googlepay_crypto_inr_hpp`| 
 |![googlepay_crypto](https://static.openfintech.io/payment_methods/googlepay_crypto/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_crypto_try_hpp](/payment-services/googlepay_crypto_try_hpp/)|`googlepay_crypto_try_hpp`| 
+|![googlepay_crypto](https://static.openfintech.io/payment_methods/googlepay_crypto/icon.svg?w=278&c=v0.59.26#w100) |[googlepay_crypto_aed_hpp](/payment-services/googlepay_crypto_aed_hpp/)|`googlepay_crypto_aed_hpp`| 
  
 
 ## Payment Providers 
