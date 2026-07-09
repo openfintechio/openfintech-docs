@@ -24,10 +24,13 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`document_type`|✗|`string`|`/^[A-Z]{2,4}$/`| 
+|`document_type`|✗|`string`|`/^.{1,32}$/`| 
 |`document_id`|✗|`string`|`/^[a-zA-Z0-9]{6,15}$/`| 
 |`phone_number`|✗|`string`|`/^\+\d{10,14}$/`| 
 |`destination_key`|✗|`string`|`/^.{1,64}$/`| 
+|`document_number`|✗|`string`|`/^\d{1,15}$/`| 
+|`bank_account_type`|✗|`string`|`/^(saving\|personal\|checking\|SAVING\|PERSONAL\|CHECKING)$/`| 
+|`account_number`|✗|`string`|`/^[A-Z]{2}(\w){13,29}$/`| 
  
 
 ### Details 
@@ -36,7 +39,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z]{2,4}$/` 
+	Regexp: `/^.{1,32}$/` 
  
 	Required: `` 
  
@@ -46,9 +49,9 @@
 	: [UK] Тип документу 
  
 	Hint:  
-	: [EN] Enter Document Type (CC, NIT, CE, PASS, PPT) 
-	: [RU] Введите тип документа (CC, NIT, CE, PASS, PPT) 
-	: [UK] Введіть тип документу (CC, NIT, CE, PASS, PPT) 
+	: [EN] Enter Document Type 
+	: [RU] Введите тип документа 
+	: [UK] Введіть тип документу 
  
 2. **`document_id`** 
  
@@ -104,6 +107,60 @@
 	: [RU] Введите ключ Bre-b (идентификатор получателя для этого метода выплаты) 
 	: [UK] Введіть ключ Bre-b (ідентифікатор отримувача для цього методу виплати) 
  
+5. **`document_number`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^\d{1,15}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Document Number 
+	: [RU] Номер документа 
+	: [UK] Номер документу 
+ 
+	Hint:  
+	: [EN] Enter Document Number 
+	: [RU] Введите номер документа 
+	: [UK] Введіть номер документу 
+ 
+6. **`bank_account_type`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^(saving|personal|checking|SAVING|PERSONAL|CHECKING)$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary's bank account type 
+	: [RU] Тип банковского аккаунта получателя 
+	: [UK] Тип банковського облікового запису банку 
+ 
+	Hint:  
+	: [EN] Enter beneficiary's bank account type 
+	: [RU] Введите тип банковского аккаунта получателя 
+	: [UK] Введіть тип банковського облікового запису отримувача 
+ 
+7. **`account_number`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Z]{2}(\w){13,29}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Account Number or IBAN 
+	: [RU] Номер счета или IBAN-код 
+	: [UK] Номер рахунку або IBAN-код 
+ 
+	Hint:  
+	: [EN] Enter the Account Number or IBAN 
+	: [RU] Введите номер счета или IBAN 
+	: [UK] Введіть номер рахунку або IBAN 
+ 
 
 ## JSON Object 
 
@@ -116,7 +173,7 @@
     {
       "key":"document_type",
       "type":"string",
-      "regexp":"\/^[A-Z]{2,4}$\/",
+      "regexp":"\/^.{1,32}$\/",
       "required":false,
       "position":1,
       "label":{
@@ -125,9 +182,9 @@
         "uk":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
       },
       "hint":{
-        "en":"Enter Document Type (CC, NIT, CE, PASS, PPT)",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 (CC, NIT, CE, PASS, PPT)",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443 (CC, NIT, CE, PASS, PPT)"
+        "en":"Enter Document Type",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
       }
     },
     {
@@ -180,6 +237,59 @@
       "regexp":"\/^.{1,64}$\/",
       "required":false,
       "position":4
+    },
+    {
+      "key":"document_number",
+      "type":"string",
+      "regexp":"\/^\\d{1,15}$\/",
+      "required":false,
+      "position":5,
+      "label":{
+        "en":"Document Number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
+      },
+      "hint":{
+        "en":"Enter Document Number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
+      }
+    },
+    {
+      "key":"bank_account_type",
+      "type":"string",
+      "regexp":"\/^(saving|personal|checking|SAVING|PERSONAL|CHECKING)$\/",
+      "required":false,
+      "position":6,
+      "label":{
+        "en":"Beneficiary's bank account type",
+        "ru":"\u0422\u0438\u043f \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0422\u0438\u043f \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u043f\u0438\u0441\u0443 \u0431\u0430\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter beneficiary's bank account type",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u043f\u0438\u0441\u0443 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "example":"personal"
+    },
+    {
+      "key":"account_number",
+      "type":"string",
+      "label":{
+        "en":"Account Number or IBAN",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430 \u0438\u043b\u0438 IBAN-\u043a\u043e\u0434",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 \u0430\u0431\u043e IBAN-\u043a\u043e\u0434"
+      },
+      "hint":{
+        "en":"Enter the Account Number or IBAN",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430 \u0438\u043b\u0438 IBAN",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 \u0430\u0431\u043e IBAN"
+      },
+      "regexp":"\/^[A-Z]{2}(\\w){13,29}$\/",
+      "required":false,
+      "position":7,
+      "example":"GB97BARC20031877565489"
     }
   ],
   "amount_min":40,

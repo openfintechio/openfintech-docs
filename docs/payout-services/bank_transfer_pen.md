@@ -43,6 +43,10 @@
 |`sender_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
 |`document_type`|✗|`string`|`/^.{1,32}$/`| 
 |`document_id`|✗|`string`|`/^[a-zA-Z0-9]{1,30}$/`| 
+|`bank_account_type`|✗|`string`|`/^(saving\|personal\|checking\|SAVING\|PERSONAL\|CHECKING)$/`| 
+|`bank_name`|✗|`string`|`/^[A-Z\-\ a-z0-9_]{2,100}$/`| 
+|`document_number`|✗|`string`|`/^\d{1,15}$/`| 
+|`bank_account_number`|✗|`string`|`/^[0-9]{5,100}$/`| 
  
 
 ### Details 
@@ -389,6 +393,78 @@
 	: [RU] Введите номер документа получателя 
 	: [UK] Введіть номер документа отримувача 
  
+20. **`bank_account_type`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^(saving|personal|checking|SAVING|PERSONAL|CHECKING)$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary's bank account type 
+	: [RU] Тип банковского аккаунта получателя 
+	: [UK] Тип банковського облікового запису банку 
+ 
+	Hint:  
+	: [EN] Enter beneficiary's bank account type 
+	: [RU] Введите тип банковского аккаунта получателя 
+	: [UK] Введіть тип банковського облікового запису отримувача 
+ 
+21. **`bank_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Z\-\ a-z0-9_]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank Name 
+	: [RU] Имя банка 
+	: [UK] Ім'я банку 
+ 
+	Hint:  
+	: [EN] Enter recipient bank name 
+	: [RU] Введите название банка получателя 
+	: [UK] Введіть назву банку одержувача 
+ 
+22. **`document_number`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^\d{1,15}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Document Number 
+	: [RU] Номер документа 
+	: [UK] Номер документу 
+ 
+	Hint:  
+	: [EN] Enter Document Number 
+	: [RU] Введите номер документа 
+	: [UK] Введіть номер документу 
+ 
+23. **`bank_account_number`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{5,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank Account Number 
+	: [RU] Bank Account Number 
+	: [UK] Bank Account Number 
+ 
+	Hint:  
+	: [EN] Enter Bank Account Number 
+	: [RU] Введите Bank Account Number 
+	: [UK] Введіть Bank Account Number 
+ 
 
 ## JSON Object 
 
@@ -727,6 +803,75 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
       },
       "example":"50284414727\u0410\u0412\u041c\u0421"
+    },
+    {
+      "key":"bank_account_type",
+      "type":"string",
+      "regexp":"\/^(saving|personal|checking|SAVING|PERSONAL|CHECKING)$\/",
+      "required":false,
+      "position":20,
+      "label":{
+        "en":"Beneficiary's bank account type",
+        "ru":"\u0422\u0438\u043f \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0422\u0438\u043f \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u043f\u0438\u0441\u0443 \u0431\u0430\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter beneficiary's bank account type",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u043f\u0438\u0441\u0443 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "example":"personal"
+    },
+    {
+      "key":"bank_name",
+      "type":"string",
+      "label":{
+        "en":"Bank Name",
+        "ru":"\u0418\u043c\u044f \u0431\u0430\u043d\u043a\u0430",
+        "uk":"\u0406\u043c'\u044f \u0431\u0430\u043d\u043a\u0443"
+      },
+      "hint":{
+        "en":"Enter recipient bank name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0431\u0430\u043d\u043a\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u0430\u0437\u0432\u0443 \u0431\u0430\u043d\u043a\u0443 \u043e\u0434\u0435\u0440\u0436\u0443\u0432\u0430\u0447\u0430"
+      },
+      "regexp":"\/^[A-Z\\-\\ a-z0-9_]{2,100}$\/",
+      "required":false,
+      "position":21
+    },
+    {
+      "key":"document_number",
+      "type":"string",
+      "regexp":"\/^\\d{1,15}$\/",
+      "required":false,
+      "position":22,
+      "label":{
+        "en":"Document Number",
+        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
+        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
+      },
+      "hint":{
+        "en":"Enter Document Number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
+      }
+    },
+    {
+      "key":"bank_account_number",
+      "type":"string",
+      "label":{
+        "en":"Bank Account Number",
+        "ru":"Bank Account Number",
+        "uk":"Bank Account Number"
+      },
+      "hint":{
+        "en":"Enter Bank Account Number",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Bank Account Number",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Bank Account Number"
+      },
+      "regexp":"\/^[0-9]{5,100}$\/",
+      "required":false,
+      "position":23
     }
   ],
   "amount_min":"0.01",

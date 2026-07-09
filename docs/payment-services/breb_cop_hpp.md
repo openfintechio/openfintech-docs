@@ -25,7 +25,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`document_type`|✗|`string`|`/^[A-Z]{2,4}$/`| 
+|`document_type`|✗|`string`|`/^.{1,32}$/`| 
 |`document_id`|✗|`string`|`/^[a-zA-Z0-9]{6,15}$/`| 
 |`document_number`|✗|`string`|`/^.{1,50}$/`| 
 |`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
@@ -37,7 +37,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z]{2,4}$/` 
+	Regexp: `/^.{1,32}$/` 
  
 	Required: `` 
  
@@ -47,9 +47,9 @@
 	: [UK] Тип документу 
  
 	Hint:  
-	: [EN] Enter Document Type (CC, NIT, CE, PASS, PPT) 
-	: [RU] Введите тип документа (CC, NIT, CE, PASS, PPT) 
-	: [UK] Введіть тип документу (CC, NIT, CE, PASS, PPT) 
+	: [EN] Enter Document Type 
+	: [RU] Введите тип документа 
+	: [UK] Введіть тип документу 
  
 2. **`document_id`** 
  
@@ -118,7 +118,7 @@
     {
       "key":"document_type",
       "type":"string",
-      "regexp":"\/^[A-Z]{2,4}$\/",
+      "regexp":"\/^.{1,32}$\/",
       "required":false,
       "position":1,
       "label":{
@@ -127,9 +127,9 @@
         "uk":"\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
       },
       "hint":{
-        "en":"Enter Document Type (CC, NIT, CE, PASS, PPT)",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 (CC, NIT, CE, PASS, PPT)",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443 (CC, NIT, CE, PASS, PPT)"
+        "en":"Enter Document Type",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0442\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443"
       }
     },
     {
