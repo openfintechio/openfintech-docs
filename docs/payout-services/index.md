@@ -390,6 +390,7 @@
 |![Bitcoin cash](https://static.openfintech.io/payout_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w24) |[**Bitcoin cash**](/payout-methods/bitcoin_cash/)|[`bitcoin_cash_uah`](bitcoin_cash_uah/)|`UAH`| 
 |![Bitcoin cash](https://static.openfintech.io/payout_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w24) |[**Bitcoin cash**](/payout-methods/bitcoin_cash/)|[`bitcoin_cash_usd`](bitcoin_cash_usd/)|`USD`| 
 |![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_chf`](bitcoin_chf/)|`CHF`| 
+|![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_clp`](bitcoin_clp/)|`CLP`| 
 |![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_eur`](bitcoin_eur/)|`EUR`| 
 |![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_gbp`](bitcoin_gbp/)|`GBP`| 
 |![Bitcoin](https://static.openfintech.io/payout_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w24) |[**Bitcoin**](/payout-methods/bitcoin/)|[`bitcoin_uah`](bitcoin_uah/)|`UAH`| 
@@ -1355,6 +1356,7 @@
 |![Linknet (Донецька)](https://static.openfintech.io/payout_methods/linknet-donetska/logo.svg?w=400&c=v0.59.26#w24) |[**Linknet (Донецька)**](/payout-methods/linknet-donetska/)|[`linknet-donetska_uah`](linknet-donetska_uah/)|`UAH`| 
 |![Липецьке РВЕ АК "Харківобленерго" (за послуги до 31.12.2018)](https://static.openfintech.io/payout_methods/lipetske-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/logo.svg?w=400&c=v0.59.26#w24) |[**Липецьке РВЕ АК "Харківобленерго" (за послуги до 31.12.2018)**](/payout-methods/lipetske-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018/)|[`lipetske-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018_uah`](lipetske-rve-ak-kharkivoblenergo-za-poslugi-do-31-12-2018_uah/)|`UAH`| 
 |![Litecoin](https://static.openfintech.io/payout_methods/litecoin/logo.png?w=400&c=v0.59.26#w24) |[**Litecoin**](/payout-methods/litecoin/)|[`litecoin_cad`](litecoin_cad/)|`CAD`| 
+|![Litecoin](https://static.openfintech.io/payout_methods/litecoin/logo.png?w=400&c=v0.59.26#w24) |[**Litecoin**](/payout-methods/litecoin/)|[`litecoin_clp`](litecoin_clp/)|`CLP`| 
 |![Litecoin](https://static.openfintech.io/payout_methods/litecoin/logo.png?w=400&c=v0.59.26#w24) |[**Litecoin**](/payout-methods/litecoin/)|[`litecoin_eur`](litecoin_eur/)|`EUR`| 
 |![Litecoin](https://static.openfintech.io/payout_methods/litecoin/logo.png?w=400&c=v0.59.26#w24) |[**Litecoin**](/payout-methods/litecoin/)|[`litecoin_ltc`](litecoin_ltc/)|`LTC`| 
 |![Litecoin](https://static.openfintech.io/payout_methods/litecoin/logo.png?w=400&c=v0.59.26#w24) |[**Litecoin**](/payout-methods/litecoin/)|[`litecoin_rub`](litecoin_rub/)|`RUB`| 

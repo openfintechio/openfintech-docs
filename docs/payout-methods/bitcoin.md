@@ -42,6 +42,7 @@ The list of [Payout Services](/payout-services/) based on the _Bitcoin_
 |![bitcoin](https://static.openfintech.io/payout_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w40) |[bitcoin_cad](/payout-services/bitcoin_cad/)|`bitcoin_cad`| 
 |![bitcoin](https://static.openfintech.io/payout_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w40) |[bitcoin_aud](/payout-services/bitcoin_aud/)|`bitcoin_aud`| 
 |![bitcoin](https://static.openfintech.io/payout_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w40) |[bitcoin_eur](/payout-services/bitcoin_eur/)|`bitcoin_eur`| 
+|![bitcoin](https://static.openfintech.io/payout_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w40) |[bitcoin_clp](/payout-services/bitcoin_clp/)|`bitcoin_clp`| 
 |![bitcoin](https://static.openfintech.io/payout_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w40) |[bitcoin_gbp](/payout-services/bitcoin_gbp/)|`bitcoin_gbp`| 
 |![bitcoin](https://static.openfintech.io/payout_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w40) |[bitcoin_chf](/payout-services/bitcoin_chf/)|`bitcoin_chf`| 
  

@@ -428,6 +428,7 @@
 |![Bitcoin Cash](https://static.openfintech.io/payment_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w200) |[**Bitcoin Cash**](/payment-methods/bitcoin_cash/)|[`bitcoin_cash_usd_hpp`](bitcoin_cash_usd_hpp/)| 
 |![Bitcoin Cash](https://static.openfintech.io/payment_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w200) |[**Bitcoin Cash**](/payment-methods/bitcoin_cash/)|[`bitcoin_cash_usd_invoice`](bitcoin_cash_usd_invoice/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_chf_hpp`](bitcoin_chf_hpp/)| 
+|![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_clp_hpp`](bitcoin_clp_hpp/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_eth_hpp`](bitcoin_eth_hpp/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_eur_hpp`](bitcoin_eur_hpp/)| 
 |![Bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](/payment-methods/bitcoin/)|[`bitcoin_eur_invoice`](bitcoin_eur_invoice/)| 
@@ -1230,6 +1231,7 @@
 |![Litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200) |[**Litecoin**](/payment-methods/litecoin/)|[`litecoin_btc_hpp`](litecoin_btc_hpp/)| 
 |![Litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200) |[**Litecoin**](/payment-methods/litecoin/)|[`litecoin_btc_invoice`](litecoin_btc_invoice/)| 
 |![Litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200) |[**Litecoin**](/payment-methods/litecoin/)|[`litecoin_cad_hpp`](litecoin_cad_hpp/)| 
+|![Litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200) |[**Litecoin**](/payment-methods/litecoin/)|[`litecoin_clp_hpp`](litecoin_clp_hpp/)| 
 |![Litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200) |[**Litecoin**](/payment-methods/litecoin/)|[`litecoin_eth_hpp`](litecoin_eth_hpp/)| 
 |![Litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200) |[**Litecoin**](/payment-methods/litecoin/)|[`litecoin_eur_hpp`](litecoin_eur_hpp/)| 
 |![Litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200) |[**Litecoin**](/payment-methods/litecoin/)|[`litecoin_eur_invoice`](litecoin_eur_invoice/)| 
