@@ -1641,6 +1641,7 @@
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card_crypto/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card_crypto/)|[`payment_card_crypto_usd_hpp`](payment_card_crypto_usd_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_cve_hpp`](payment_card_cve_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_czk_hpp`](payment_card_czk_hpp/)| 
+|![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_djf_hpp`](payment_card_djf_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_dkk_hpp`](payment_card_dkk_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_dop_hpp`](payment_card_dop_hpp/)| 
 |![Payment card](https://static.openfintech.io/payment_methods/payment_card/logo.svg?w=400&c=v0.59.26#w200) |[**Payment card**](/payment-methods/payment_card/)|[`payment_card_egp_hpp`](payment_card_egp_hpp/)| 
