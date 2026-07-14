@@ -44,6 +44,15 @@ The list of supported [Payment Methods](/payment-methods/)
 |![pagomovil](https://static.openfintech.io/payment_methods/pagomovil/icon.png?w=278&c=v0.59.26#w100) |[pagomovil](/payment-methods/pagomovil/)|`pagomovil`| 
  
 
+## Payout Methods 
+ 
+The list of supported [Payout Methods](/payout-methods/) 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
+ 
+
 ## JSON Object 
 
 ```json
@@ -58,7 +67,9 @@ The list of supported [Payment Methods](/payment-methods/)
     "qr_code",
     "pagomovil"
   ],
-  "payout_method":null,
+  "payout_method":[
+    "bank_transfer"
+  ],
   "metadata":null,
   "name":{
     "en":"STBL",
