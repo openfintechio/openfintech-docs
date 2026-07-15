@@ -2520,6 +2520,7 @@
 |![xn--e1aidfgi0j.ua](https://static.openfintech.io/vendors/xn--e1aidfgi0j.ua/logo.svg?w=600&c=v0.59.26#w200) |[**Menyaiko**](xn--e1aidfgi0j.ua/)|`xn--e1aidfgi0j.ua`| 
 |![xoompay](https://static.openfintech.io/vendors/xoompay/logo.png?w=600&c=v0.59.26#w200) |[**Xoompay**](xoompay/)|`xoompay`| 
 |![xpate](https://static.openfintech.io/vendors/xpate/logo.svg?w=600&c=v0.59.26#w200) |[**Xpate**](xpate/)|`xpate`| 
+|![xpatenew](https://static.openfintech.io/vendors/xpatenew/logo.svg?w=600&c=v0.59.26#w200) |[**Xpate New**](xpatenew/)|`xpatenew`| 
 |![xpayua](https://static.openfintech.io/vendors/xpayua/logo.svg?w=600&c=v0.59.26#w200) |[**XPAY**](xpayua/)|`xpayua`| 
 |![xpresspayio](https://static.openfintech.io/vendors/xpresspayio/logo.svg?w=600&c=v0.59.26#w200) |[**XpressPay.io**](xpresspayio/)|`xpresspayio`| 
 |![xsellmoney](https://static.openfintech.io/vendors/xsellmoney/logo.png?w=600&c=v0.59.26#w200) |[**Xsell.money**](xsellmoney/)|`xsellmoney`| 

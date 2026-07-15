@@ -1193,6 +1193,7 @@
 |![xmgate](https://static.openfintech.io/payment_providers/xmgate/logo.svg?w=600&c=v0.59.26#w100) |[**Xmgate**](xmgate/)|`xmgate`| 
 |![xoompay](https://static.openfintech.io/payment_providers/xoompay/logo.png?w=600&c=v0.59.26#w100) |[**Xoompay**](xoompay/)|`xoompay`| 
 |![xpate](https://static.openfintech.io/payment_providers/xpate/logo.svg?w=600&c=v0.59.26#w100) |[**Xpate**](xpate/)|`xpate`| 
+|![xpatenew](https://static.openfintech.io/payment_providers/xpatenew/logo.svg?w=600&c=v0.59.26#w100) |[**Xpate New**](xpatenew/)|`xpatenew`| 
 |![xpayua](https://static.openfintech.io/payment_providers/xpayua/logo.svg?w=600&c=v0.59.26#w100) |[**XPAY**](xpayua/)|`xpayua`| 
 |![xpresspayio](https://static.openfintech.io/payment_providers/xpresspayio/logo.svg?w=600&c=v0.59.26#w100) |[**XpressPay.io**](xpresspayio/)|`xpresspayio`| 
 |![xsellmoney](https://static.openfintech.io/payment_providers/xsellmoney/logo.png?w=600&c=v0.59.26#w100) |[**Xsell.money**](xsellmoney/)|`xsellmoney`| 
