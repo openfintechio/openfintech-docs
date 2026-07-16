@@ -39,6 +39,7 @@ The list of [Payout Services](/payout-services/) based on the _MiFinity_
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![mifinity_wallet](https://static.openfintech.io/payout_methods/mifinity_wallet/icon.svg?w=278&c=v0.59.26#w40) |[mifinity_wallet_eur](/payout-services/mifinity_wallet_eur/)|`mifinity_wallet_eur`| 
+|![mifinity_wallet](https://static.openfintech.io/payout_methods/mifinity_wallet/icon.svg?w=278&c=v0.59.26#w40) |[mifinity_wallet_cad](/payout-services/mifinity_wallet_cad/)|`mifinity_wallet_cad`| 
  
 
 ## JSON Object 

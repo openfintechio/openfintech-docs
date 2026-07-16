@@ -1434,6 +1434,7 @@
 |![Microvis MFB](https://static.openfintech.io/payout_methods/microvis_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Microvis MFB**](/payout-methods/microvis_mfb/)|[`microvis_mfb_ngn`](microvis_mfb_ngn/)|`NGN`| 
 |![Midland MFB](https://static.openfintech.io/payout_methods/midland_mfb/logo.svg?w=400&c=v0.59.26#w24) |[**Midland MFB**](/payout-methods/midland_mfb/)|[`midland_mfb_ngn`](midland_mfb_ngn/)|`NGN`| 
 |![Mie Bank](https://static.openfintech.io/payout_methods/mie_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Mie Bank**](/payout-methods/mie_bank/)|[`mie_bank_jpy`](mie_bank_jpy/)|`JPY`| 
+|![MiFinity](https://static.openfintech.io/payout_methods/mifinity_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**MiFinity**](/payout-methods/mifinity_wallet/)|[`mifinity_wallet_cad`](mifinity_wallet_cad/)|`CAD`| 
 |![MiFinity](https://static.openfintech.io/payout_methods/mifinity_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**MiFinity**](/payout-methods/mifinity_wallet/)|[`mifinity_wallet_eur`](mifinity_wallet_eur/)|`EUR`| 
 |![My Friend - ICF DSPM '](https://static.openfintech.io/payout_methods/mii-drug-mbf-tsspm/logo.png?w=400&c=v0.59.26#w24) |[**My Friend - ICF DSPM '**](/payout-methods/mii-drug-mbf-tsspm/)|[`mii-drug-mbf-tsspm_uah`](mii-drug-mbf-tsspm_uah/)|`UAH`| 
 |![MIIT](https://static.openfintech.io/payout_methods/miit/logo.png?w=400&c=v0.59.26#w24) |[**MIIT**](/payout-methods/miit/)|[`miit_uah`](miit_uah/)|`UAH`| 
