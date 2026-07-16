@@ -55,6 +55,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PayID_
 |![impaya](https://static.openfintech.io/payment_providers/impaya/icon.png?w=278&c=v0.59.26#w100) |[Impaya](/payment-providers/impaya/)|`impaya`| 
 |![finaxis](https://static.openfintech.io/payment_providers/finaxis/icon.png?w=278&c=v0.59.26#w100) |[FinAxis](/payment-providers/finaxis/)|`finaxis`| 
 |![payyd](https://static.openfintech.io/payment_providers/payyd/icon.svg?w=278&c=v0.59.26#w100) |[Payyd](/payment-providers/payyd/)|`payyd`| 
+|![transact365](https://static.openfintech.io/payment_providers/transact365/icon.png?w=278&c=v0.59.26#w100) |[Transact 365](/payment-providers/transact365/)|`transact365`| 
  
 
 ## JSON Object 

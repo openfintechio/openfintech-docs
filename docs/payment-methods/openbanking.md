@@ -68,6 +68,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Openbanki
 |![inpay](https://static.openfintech.io/payment_providers/inpay/icon.png?w=278&c=v0.59.26#w100) |[inpay](/payment-providers/inpay/)|`inpay`| 
 |![apay](https://static.openfintech.io/payment_providers/apay/icon.svg?w=278&c=v0.59.26#w100) |[Apay](/payment-providers/apay/)|`apay`| 
 |![cardifulnew](https://static.openfintech.io/payment_providers/cardifulnew/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful New](/payment-providers/cardifulnew/)|`cardifulnew`| 
+|![transact365](https://static.openfintech.io/payment_providers/transact365/icon.png?w=278&c=v0.59.26#w100) |[Transact 365](/payment-providers/transact365/)|`transact365`| 
  
 
 ## JSON Object 

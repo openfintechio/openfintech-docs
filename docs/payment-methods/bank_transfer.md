@@ -99,6 +99,8 @@ The list of [Payment Services](/payment-services/) based on the _Bank Transfer_
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_hnl_hpp](/payment-services/bank_transfer_hnl_hpp/)|`bank_transfer_hnl_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_bob_hpp](/payment-services/bank_transfer_bob_hpp/)|`bank_transfer_bob_hpp`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_gtq_hpp](/payment-services/bank_transfer_gtq_hpp/)|`bank_transfer_gtq_hpp`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_mad_hpp](/payment-services/bank_transfer_mad_hpp/)|`bank_transfer_mad_hpp`| 
+|![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_egp_hpp](/payment-services/bank_transfer_egp_hpp/)|`bank_transfer_egp_hpp`| 
  
 
 ## Payment Providers 
@@ -179,6 +181,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![finaxis](https://static.openfintech.io/payment_providers/finaxis/icon.png?w=278&c=v0.59.26#w100) |[FinAxis](/payment-providers/finaxis/)|`finaxis`| 
 |![crossbill](https://static.openfintech.io/payment_providers/crossbill/icon.png?w=278&c=v0.59.26#w100) |[Crossbill](/payment-providers/crossbill/)|`crossbill`| 
 |![stbl](https://static.openfintech.io/payment_providers/stbl/icon.png?w=278&c=v0.59.26#w100) |[STBL](/payment-providers/stbl/)|`stbl`| 
+|![transact365](https://static.openfintech.io/payment_providers/transact365/icon.png?w=278&c=v0.59.26#w100) |[Transact 365](/payment-providers/transact365/)|`transact365`| 
  
 
 ## JSON Object 

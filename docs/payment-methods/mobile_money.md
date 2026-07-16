@@ -39,6 +39,8 @@ The list of [Payment Services](/payment-services/) based on the _Mobile Money_
 |![mobile_money](https://static.openfintech.io/payment_methods/mobile_money/icon.svg?w=278&c=v0.59.26#w100) |[mobile_money_ghs_hpp](/payment-services/mobile_money_ghs_hpp/)|`mobile_money_ghs_hpp`| 
 |![mobile_money](https://static.openfintech.io/payment_methods/mobile_money/icon.svg?w=278&c=v0.59.26#w100) |[mobile_money_usd_hpp](/payment-services/mobile_money_usd_hpp/)|`mobile_money_usd_hpp`| 
 |![mobile_money](https://static.openfintech.io/payment_methods/mobile_money/icon.svg?w=278&c=v0.59.26#w100) |[mobile_money_kes_hpp](/payment-services/mobile_money_kes_hpp/)|`mobile_money_kes_hpp`| 
+|![mobile_money](https://static.openfintech.io/payment_methods/mobile_money/icon.svg?w=278&c=v0.59.26#w100) |[mobile_money_mad_hpp](/payment-services/mobile_money_mad_hpp/)|`mobile_money_mad_hpp`| 
+|![mobile_money](https://static.openfintech.io/payment_methods/mobile_money/icon.svg?w=278&c=v0.59.26#w100) |[mobile_money_egp_hpp](/payment-services/mobile_money_egp_hpp/)|`mobile_money_egp_hpp`| 
  
 
 ## Payment Providers 
@@ -50,6 +52,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Mobile Mo
 |![aeteredge](https://static.openfintech.io/payment_providers/aeteredge/icon.svg?w=278&c=v0.59.26#w100) |[AeterEdge](/payment-providers/aeteredge/)|`aeteredge`| 
 |![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
 |![smartfastpay](https://static.openfintech.io/payment_providers/smartfastpay/icon.png?w=278&c=v0.59.26#w100) |[SmartFastPay](/payment-providers/smartfastpay/)|`smartfastpay`| 
+|![transact365](https://static.openfintech.io/payment_providers/transact365/icon.png?w=278&c=v0.59.26#w100) |[Transact 365](/payment-providers/transact365/)|`transact365`| 
  
 
 ## JSON Object 

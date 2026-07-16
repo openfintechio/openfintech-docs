@@ -298,6 +298,7 @@
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_cop_hpp`](bank_transfer_cop_hpp/)| 
 |![Bank Transfer CVU](https://static.openfintech.io/payment_methods/bank_transfer_cvu/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer CVU**](/payment-methods/bank_transfer_cvu/)|[`bank_transfer_cvu_ars_hpp`](bank_transfer_cvu_ars_hpp/)| 
 |![Bank Transfer CVUX](https://static.openfintech.io/payment_methods/bank_transfer_cvux/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer CVUX**](/payment-methods/bank_transfer_cvux/)|[`bank_transfer_cvux_ars_hpp`](bank_transfer_cvux_ars_hpp/)| 
+|![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_egp_hpp`](bank_transfer_egp_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_eur_hpp`](bank_transfer_eur_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_eur_invoice`](bank_transfer_eur_invoice/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_gbp_hpp`](bank_transfer_gbp_hpp/)| 
@@ -323,6 +324,7 @@
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_krw_invoice`](bank_transfer_krw_invoice/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_kzt_hpp`](bank_transfer_kzt_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_kzt_invoice`](bank_transfer_kzt_invoice/)| 
+|![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_mad_hpp`](bank_transfer_mad_hpp/)| 
 |![Bank Transfer MPX](https://static.openfintech.io/payment_methods/bank_transfer_mpx/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer MPX**](/payment-methods/bank_transfer_mpx/)|[`bank_transfer_mpx_ars_hpp`](bank_transfer_mpx_ars_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_mxn_hpp`](bank_transfer_mxn_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_mxn_invoice`](bank_transfer_mxn_invoice/)| 
@@ -1318,8 +1320,10 @@
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_inr_hpp`](mobile_inr_hpp/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_kes_hpp`](mobile_kes_hpp/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_kes_invoice`](mobile_kes_invoice/)| 
+|![Mobile Money](https://static.openfintech.io/payment_methods/mobile_money/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile Money**](/payment-methods/mobile_money/)|[`mobile_money_egp_hpp`](mobile_money_egp_hpp/)| 
 |![Mobile Money](https://static.openfintech.io/payment_methods/mobile_money/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile Money**](/payment-methods/mobile_money/)|[`mobile_money_ghs_hpp`](mobile_money_ghs_hpp/)| 
 |![Mobile Money](https://static.openfintech.io/payment_methods/mobile_money/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile Money**](/payment-methods/mobile_money/)|[`mobile_money_kes_hpp`](mobile_money_kes_hpp/)| 
+|![Mobile Money](https://static.openfintech.io/payment_methods/mobile_money/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile Money**](/payment-methods/mobile_money/)|[`mobile_money_mad_hpp`](mobile_money_mad_hpp/)| 
 |![Mobile Money](https://static.openfintech.io/payment_methods/mobile_money/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile Money**](/payment-methods/mobile_money/)|[`mobile_money_usd_hpp`](mobile_money_usd_hpp/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_pkr_hpp`](mobile_pkr_hpp/)| 
 |![Mobile](https://static.openfintech.io/payment_methods/mobile/logo.svg?w=400&c=v0.59.26#w200) |[**Mobile**](/payment-methods/mobile/)|[`mobile_pkr_invoice`](mobile_pkr_invoice/)| 
