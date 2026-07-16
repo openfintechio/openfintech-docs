@@ -634,6 +634,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![yardpay](https://static.openfintech.io/payment_providers/yardpay/icon.png?w=278&c=v0.59.26#w100) |[YardPay](/payment-providers/yardpay/)|`yardpay`| 
 |![paytently](https://static.openfintech.io/payment_providers/paytently/icon.svg?w=278&c=v0.59.26#w100) |[Paytently](/payment-providers/paytently/)|`paytently`| 
 |![paystrax](https://static.openfintech.io/payment_providers/paystrax/icon.png?w=278&c=v0.59.26#w100) |[Paystrax](/payment-providers/paystrax/)|`paystrax`| 
+|![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
 |![spectrepayments](https://static.openfintech.io/payment_providers/spectrepayments/icon.png?w=278&c=v0.59.26#w100) |[Spectre Payments](/payment-providers/spectrepayments/)|`spectrepayments`| 
 |![s3cpay](https://static.openfintech.io/payment_providers/s3cpay/icon.png?w=278&c=v0.59.26#w100) |[S3СРАY](/payment-providers/s3cpay/)|`s3cpay`| 
 |![slyse](https://static.openfintech.io/payment_providers/slyse/icon.png?w=278&c=v0.59.26#w100) |[SLYSE](/payment-providers/slyse/)|`slyse`| 
