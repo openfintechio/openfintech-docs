@@ -815,6 +815,7 @@
 |![rapidpagos](https://static.openfintech.io/payment_methods/rapidpagos/logo.svg?w=400&c=v0.59.26#w200) |[**RapidPagos**](rapidpagos/)|`rapidpagos`| 
 |![rapidtransfer](https://static.openfintech.io/payment_methods/rapidtransfer/logo.png?w=400&c=v0.59.26#w200) |[**Rapid Transfer**](rapidtransfer/)|`rapidtransfer`| 
 |![rapipago](https://static.openfintech.io/payment_methods/rapipago/logo.png?w=400&c=v0.59.26#w200) |[**Rapipago**](rapipago/)|`rapipago`| 
+|![rapyd](https://static.openfintech.io/payment_methods/rapyd/logo.svg?w=400&c=v0.59.26#w200) |[**Rapyd**](rapyd/)|`rapyd`| 
 |![rbkmoney](https://static.openfintech.io/payment_methods/rbkmoney/logo.png?w=400&c=v0.59.26#w200) |[**RBK Money**](rbkmoney/)|`rbkmoney`| 
 |![rbl_bank](https://static.openfintech.io/payment_methods/rbl_bank/logo.png?w=400&c=v0.59.26#w200) |[**RBL Bank**](rbl_bank/)|`rbl_bank`| 
 |![rcbc](https://static.openfintech.io/payment_methods/rcbc/logo.svg?w=400&c=v0.59.26#w200) |[**RCBC over-the-counter**](rcbc/)|`rcbc`| 
