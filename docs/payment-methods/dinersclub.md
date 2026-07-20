@@ -41,6 +41,7 @@ The list of [Payment Services](/payment-services/) based on the _Diners Club Int
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![dinersclub](https://static.openfintech.io/payment_methods/dinersclub/icon.svg?w=278&c=v0.59.26#w100) |[dinersclub_eur_hpp](/payment-services/dinersclub_eur_hpp/)|`dinersclub_eur_hpp`| 
+|![dinersclub](https://static.openfintech.io/payment_methods/dinersclub/icon.svg?w=278&c=v0.59.26#w100) |[dinersclub_clp_hpp](/payment-services/dinersclub_clp_hpp/)|`dinersclub_clp_hpp`| 
  
 
 ## Payment Providers 
@@ -93,6 +94,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Diners Cl
 |![2c2p](https://static.openfintech.io/payment_providers/2c2p/icon.png?w=278&c=v0.59.26#w100) |[2C2P](/payment-providers/2c2p/)|`2c2p`| 
 |![yuupay](https://static.openfintech.io/payment_providers/yuupay/icon.png?w=278&c=v0.59.26#w100) |[YuuPay ](/payment-providers/yuupay/)|`yuupay`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
+|![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
  
 
 ## JSON Object 

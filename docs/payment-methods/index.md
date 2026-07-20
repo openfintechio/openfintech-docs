@@ -942,6 +942,7 @@
 |![tambo_cash](https://static.openfintech.io/payment_methods/tambo_cash/logo.png?w=400&c=v0.59.26#w200) |[**Tambo**](tambo_cash/)|`tambo_cash`| 
 |![tamilnad_mercantile_bank_india](https://static.openfintech.io/payment_methods/tamilnad_mercantile_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Tamilnad Mercantile Bank Limited**](tamilnad_mercantile_bank_india/)|`tamilnad_mercantile_bank_india`| 
 |![tapiola](https://static.openfintech.io/payment_methods/tapiola/logo.png?w=400&c=v0.59.26#w200) |[**Tapiola**](tapiola/)|`tapiola`| 
+|![tapp](https://static.openfintech.io/payment_methods/tapp/logo.svg?w=400&c=v0.59.26#w200) |[**Tapp**](tapp/)|`tapp`| 
 |![tarjetanaranjacreditcard](https://static.openfintech.io/payment_methods/tarjetanaranjacreditcard/logo.png?w=400&c=v0.59.26#w200) |[**tarjeta naranja**](tarjetanaranjacreditcard/)|`tarjetanaranjacreditcard`| 
 |![tarjetaripley](https://static.openfintech.io/payment_methods/tarjetaripley/logo.png?w=400&c=v0.59.26#w200) |[**Ripley**](tarjetaripley/)|`tarjetaripley`| 
 |![tatrabanka](https://static.openfintech.io/payment_methods/tatrabanka/logo.png?w=400&c=v0.59.26#w200) |[**Tatra Banka**](tatrabanka/)|`tatrabanka`| 
