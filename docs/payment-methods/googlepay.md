@@ -102,6 +102,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Google Pa
 |![gate](https://static.openfintech.io/payment_providers/gate/icon.svg?w=278&c=v0.59.26#w100) |[Gate](/payment-providers/gate/)|`gate`| 
 |![alfabank](https://static.openfintech.io/payment_providers/alfabank/icon.svg?w=278&c=v0.59.26#w100) |[Sense Bank](/payment-providers/alfabank/)|`alfabank`| 
 |![concord](https://static.openfintech.io/payment_providers/concord/icon.svg?w=278&c=v0.59.26#w100) |[Concord Bank](/payment-providers/concord/)|`concord`| 
+|![exactly](https://static.openfintech.io/payment_providers/exactly/icon.svg?w=278&c=v0.59.26#w100) |[exactly](/payment-providers/exactly/)|`exactly`| 
 |![paysafe](https://static.openfintech.io/payment_providers/paysafe/icon.svg?w=278&c=v0.59.26#w100) |[Paysafe](/payment-providers/paysafe/)|`paysafe`| 
 |![paysage](https://static.openfintech.io/payment_providers/paysage/icon.png?w=278&c=v0.59.26#w100) |[COLIBRIX](/payment-providers/paysage/)|`paysage`| 
 |![tome](https://static.openfintech.io/payment_providers/tome/icon.svg?w=278&c=v0.59.26#w100) |[Tome](/payment-providers/tome/)|`tome`| 
