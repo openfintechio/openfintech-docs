@@ -290,6 +290,7 @@
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_crc`](bank_transfer_crc/)|`CRC`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_czk`](bank_transfer_czk/)|`CZK`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_dop`](bank_transfer_dop/)|`DOP`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_egp`](bank_transfer_egp/)|`EGP`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_eur`](bank_transfer_eur/)|`EUR`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_gbp`](bank_transfer_gbp/)|`GBP`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_ghs`](bank_transfer_ghs/)|`GHS`| 
@@ -300,6 +301,7 @@
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_jpy`](bank_transfer_jpy/)|`JPY`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_kes`](bank_transfer_kes/)|`KES`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_krw`](bank_transfer_krw/)|`KRW`| 
+|![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_mad`](bank_transfer_mad/)|`MAD`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_mxn`](bank_transfer_mxn/)|`MXN`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_myr`](bank_transfer_myr/)|`MYR`| 
 |![Bank Transfer](https://static.openfintech.io/payout_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w24) |[**Bank Transfer**](/payout-methods/bank_transfer/)|[`bank_transfer_ngn`](bank_transfer_ngn/)|`NGN`| 
@@ -1463,6 +1465,8 @@
 |![МКП МУКАЧІВВОДОКАНАЛ](https://static.openfintech.io/payout_methods/mkp-mukachivvodokanal/logo.png?w=400&c=v0.59.26#w24) |[**МКП МУКАЧІВВОДОКАНАЛ**](/payout-methods/mkp-mukachivvodokanal/)|[`mkp-mukachivvodokanal_uah`](mkp-mukachivvodokanal_uah/)|`UAH`| 
 |![Mobile](https://static.openfintech.io/payout_methods/mobile/logo.svg?w=400&c=v0.59.26#w24) |[**Mobile**](/payout-methods/mobile/)|[`mobile_egp`](mobile_egp/)|`EGP`| 
 |![Mobile](https://static.openfintech.io/payout_methods/mobile/logo.svg?w=400&c=v0.59.26#w24) |[**Mobile**](/payout-methods/mobile/)|[`mobile_kes`](mobile_kes/)|`KES`| 
+|![Mobile Money](https://static.openfintech.io/payout_methods/mobile_money/logo.svg?w=400&c=v0.59.26#w24) |[**Mobile Money**](/payout-methods/mobile_money/)|[`mobile_money_egp`](mobile_money_egp/)|`EGP`| 
+|![Mobile Money](https://static.openfintech.io/payout_methods/mobile_money/logo.svg?w=400&c=v0.59.26#w24) |[**Mobile Money**](/payout-methods/mobile_money/)|[`mobile_money_mad`](mobile_money_mad/)|`MAD`| 
 |![Mobile](https://static.openfintech.io/payout_methods/mobile/logo.svg?w=400&c=v0.59.26#w24) |[**Mobile**](/payout-methods/mobile/)|[`mobile_pkr`](mobile_pkr/)|`PKR`| 
 |![Mobile](https://static.openfintech.io/payout_methods/mobile/logo.svg?w=400&c=v0.59.26#w24) |[**Mobile**](/payout-methods/mobile/)|[`mobile_rub`](mobile_rub/)|`RUB`| 
 |![Mobile](https://static.openfintech.io/payout_methods/mobile/logo.svg?w=400&c=v0.59.26#w24) |[**Mobile**](/payout-methods/mobile/)|[`mobile_uah`](mobile_uah/)|`UAH`| 

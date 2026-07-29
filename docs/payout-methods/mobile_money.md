@@ -1,0 +1,70 @@
+
+# Mobile Money 
+![mobile_money](https://static.openfintech.io/payment_methods/mobile_money/logo.svg?w=400&c=v0.59.26#w200)  
+
+## General 
+**Code:** `mobile_money` 
+ 
+**Name:** 
+ 
+:	[EN] Mobile Money 
+:	[RU] Mobile Money 
+:	[UK] Mobile Money 
+ 
+**Category:** `mobile_payment` 
+ 
+
+## Images 
+
+### Logo 
+![mobile_money](https://static.openfintech.io/payment_methods/mobile_money/logo.svg?w=400&c=v0.59.26#w200)  
+
+```
+https://static.openfintech.io/payment_methods/mobile_money/logo.svg?w=400&c=v0.59.26#w200
+```  
+
+### Icon 
+![mobile_money](https://static.openfintech.io/payment_methods/mobile_money/icon.svg?w=278&c=v0.59.26#w100)  
+
+```
+https://static.openfintech.io/payment_methods/mobile_money/icon.svg?w=278&c=v0.59.26#w100
+```  
+
+## Payout Services 
+ 
+The list of [Payout Services](/payout-services/) based on the _Mobile Money_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![mobile_money](https://static.openfintech.io/payout_methods/mobile_money/icon.svg?w=278&c=v0.59.26#w40) |[mobile_money_mad](/payout-services/mobile_money_mad/)|`mobile_money_mad`| 
+|![mobile_money](https://static.openfintech.io/payout_methods/mobile_money/icon.svg?w=278&c=v0.59.26#w40) |[mobile_money_egp](/payout-services/mobile_money_egp/)|`mobile_money_egp`| 
+ 
+
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Mobile Money_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![aeteredge](https://static.openfintech.io/payment_providers/aeteredge/icon.svg?w=278&c=v0.59.26#w100) |[AeterEdge](/payment-providers/aeteredge/)|`aeteredge`| 
+|![d24](https://static.openfintech.io/payment_providers/d24/icon.svg?w=278&c=v0.59.26#w100) |[D24](/payment-providers/d24/)|`d24`| 
+|![smartfastpay](https://static.openfintech.io/payment_providers/smartfastpay/icon.png?w=278&c=v0.59.26#w100) |[SmartFastPay](/payment-providers/smartfastpay/)|`smartfastpay`| 
+|![transact365](https://static.openfintech.io/payment_providers/transact365/icon.png?w=278&c=v0.59.26#w100) |[Transact 365](/payment-providers/transact365/)|`transact365`| 
+ 
+
+## JSON Object 
+
+```json
+{
+  "code":"mobile_money",
+  "vendor":null,
+  "name":{
+    "en":"Mobile Money",
+    "ru":"Mobile Money",
+    "uk":"Mobile Money"
+  },
+  "description":null,
+  "countries":null,
+  "category":"mobile_payment"
+}
+```  
