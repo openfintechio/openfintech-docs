@@ -1734,6 +1734,12 @@
 |![PayPal](https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](/payment-methods/paypal/)|[`paypal_aud_hpp`](paypal_aud_hpp/)| 
 |![PayPal](https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](/payment-methods/paypal/)|[`paypal_cad_hpp`](paypal_cad_hpp/)| 
 |![PayPal](https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](/payment-methods/paypal/)|[`paypal_crc_hpp`](paypal_crc_hpp/)| 
+|![PayPal](https://static.openfintech.io/payment_methods/paypal_crypto/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](/payment-methods/paypal_crypto/)|[`paypal_crypto_aud_hpp`](paypal_crypto_aud_hpp/)| 
+|![PayPal](https://static.openfintech.io/payment_methods/paypal_crypto/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](/payment-methods/paypal_crypto/)|[`paypal_crypto_cad_hpp`](paypal_crypto_cad_hpp/)| 
+|![PayPal](https://static.openfintech.io/payment_methods/paypal_crypto/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](/payment-methods/paypal_crypto/)|[`paypal_crypto_eur_hpp`](paypal_crypto_eur_hpp/)| 
+|![PayPal](https://static.openfintech.io/payment_methods/paypal_crypto/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](/payment-methods/paypal_crypto/)|[`paypal_crypto_mxn_hpp`](paypal_crypto_mxn_hpp/)| 
+|![PayPal](https://static.openfintech.io/payment_methods/paypal_crypto/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](/payment-methods/paypal_crypto/)|[`paypal_crypto_pln_hpp`](paypal_crypto_pln_hpp/)| 
+|![PayPal](https://static.openfintech.io/payment_methods/paypal_crypto/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](/payment-methods/paypal_crypto/)|[`paypal_crypto_usd_hpp`](paypal_crypto_usd_hpp/)| 
 |![PayPal](https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](/payment-methods/paypal/)|[`paypal_eur_hpp`](paypal_eur_hpp/)| 
 |![PayPal](https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](/payment-methods/paypal/)|[`paypal_gbp_hpp`](paypal_gbp_hpp/)| 
 |![PayPal](https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](/payment-methods/paypal/)|[`paypal_huf_hpp`](paypal_huf_hpp/)| 

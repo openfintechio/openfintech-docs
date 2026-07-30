@@ -54,6 +54,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![payment_card_crypto](https://static.openfintech.io/payment_methods/payment_card_crypto/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_crypto](/payment-methods/payment_card_crypto/)|`payment_card_crypto`| 
 |![fawry_crypto](https://static.openfintech.io/payment_methods/fawry_crypto/icon.png?w=278&c=v0.59.26#w100) |[fawry_crypto](/payment-methods/fawry_crypto/)|`fawry_crypto`| 
 |![blik_crypto](https://static.openfintech.io/payment_methods/blik_crypto/icon.png?w=278&c=v0.59.26#w100) |[blik_crypto](/payment-methods/blik_crypto/)|`blik_crypto`| 
+|![paypal_crypto](https://static.openfintech.io/payment_methods/paypal_crypto/icon.svg?w=278&c=v0.59.26#w100) |[paypal_crypto](/payment-methods/paypal_crypto/)|`paypal_crypto`| 
  
 
 ## JSON Object 
@@ -78,7 +79,8 @@ The list of supported [Payment Methods](/payment-methods/)
     "googlepay_crypto",
     "payment_card_crypto",
     "fawry_crypto",
-    "blik_crypto"
+    "blik_crypto",
+    "paypal_crypto"
   ],
   "payout_method":null,
   "metadata":null,

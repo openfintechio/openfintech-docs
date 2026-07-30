@@ -725,6 +725,7 @@
 |![paynearme](https://static.openfintech.io/payment_methods/paynearme/logo.png?w=400&c=v0.59.26#w200) |[**PayNearMe**](paynearme/)|`paynearme`| 
 |![paynet](https://static.openfintech.io/payment_methods/paynet/logo.svg?w=400&c=v0.59.26#w200) |[**PayNet**](paynet/)|`paynet`| 
 |![paypal](https://static.openfintech.io/payment_methods/paypal/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](paypal/)|`paypal`| 
+|![paypal_crypto](https://static.openfintech.io/payment_methods/paypal_crypto/logo.svg?w=400&c=v0.59.26#w200) |[**PayPal**](paypal_crypto/)|`paypal_crypto`| 
 |![paypay](https://static.openfintech.io/payment_methods/paypay/logo.png?w=400&c=v0.59.26#w200) |[**PayPay**](paypay/)|`paypay`| 
 |![payphone](https://static.openfintech.io/payment_methods/payphone/logo.svg?w=400&c=v0.59.26#w200) |[**Payphone**](payphone/)|`payphone`| 
 |![paysafecard](https://static.openfintech.io/payment_methods/paysafecard/logo.svg?w=400&c=v0.59.26#w200) |[**Paysafecard**](paysafecard/)|`paysafecard`| 
