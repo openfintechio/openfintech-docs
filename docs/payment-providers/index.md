@@ -617,6 +617,7 @@
 |![mxpay](https://static.openfintech.io/payment_providers/mxpay/logo.png?w=600&c=v0.59.26#w100) |[**MXPay**](mxpay/)|`mxpay`| 
 |![myfatoorah](https://static.openfintech.io/payment_providers/myfatoorah/logo.png?w=600&c=v0.59.26#w100) |[**MyFatoorah**](myfatoorah/)|`myfatoorah`| 
 |![mygate](https://static.openfintech.io/payment_providers/mygate/logo.png?w=600&c=v0.59.26#w100) |[**MyGate**](mygate/)|`mygate`| 
+|![mytu](https://static.openfintech.io/payment_providers/mytu/logo.svg?w=600&c=v0.59.26#w100) |[**myTU**](mytu/)|`mytu`| 
 || **N** ||
 |![nagad](https://static.openfintech.io/payment_providers/nagad/logo.png?w=600&c=v0.59.26#w100) |[**Nagad**](nagad/)|`nagad`| 
 |![nationalach](https://static.openfintech.io/payment_providers/nationalach/logo.png?w=600&c=v0.59.26#w100) |[**NationalACH**](nationalach/)|`nationalach`| 

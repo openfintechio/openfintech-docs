@@ -1360,6 +1360,7 @@
 |![myfatoorah](https://static.openfintech.io/vendors/myfatoorah/logo.png?w=600&c=v0.59.26#w200) |[**MyFatoorah**](myfatoorah/)|`myfatoorah`| 
 |![mygate](https://static.openfintech.io/vendors/mygate/logo.png?w=600&c=v0.59.26#w200) |[**MyGate**](mygate/)|`mygate`| 
 |![mypaywizard](https://static.openfintech.io/vendors/mypaywizard/logo.png?w=600&c=v0.59.26#w200) |[**MyPayWizard**](mypaywizard/)|`mypaywizard`| 
+|![mytu](https://static.openfintech.io/vendors/mytu/logo.svg?w=600&c=v0.59.26#w200) |[**myTU**](mytu/)|`mytu`| 
 || **N** ||
 |![nacionalnij_bank_ukrayini](https://static.openfintech.io/vendors/nacionalnij_bank_ukrayini/logo.svg?w=600&c=v0.59.26#w200) |[**Національний банк України**](nacionalnij_bank_ukrayini/)|`nacionalnij_bank_ukrayini`| 
 |![nagad](https://static.openfintech.io/vendors/nagad/logo.png?w=600&c=v0.59.26#w200) |[**Nagad**](nagad/)|`nagad`| 

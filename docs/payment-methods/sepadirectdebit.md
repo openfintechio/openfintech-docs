@@ -65,6 +65,7 @@ The list of [Payment Providers](/payment-providers/) that support the _SEPA Dire
 |![europeanmerchantservices](https://static.openfintech.io/payment_providers/europeanmerchantservices/icon.png?w=278&c=v0.59.26#w100) |[EMS](/payment-providers/europeanmerchantservices/)|`europeanmerchantservices`| 
 |![klikpay](https://static.openfintech.io/payment_providers/klikpay/icon.png?w=278&c=v0.59.26#w100) |[Klik & Pay](/payment-providers/klikpay/)|`klikpay`| 
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
+|![mytu](https://static.openfintech.io/payment_providers/mytu/icon.png?w=278&c=v0.59.26#w100) |[myTU](/payment-providers/mytu/)|`mytu`| 
  
 
 ## JSON Object 
