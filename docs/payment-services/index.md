@@ -1975,6 +1975,7 @@
 |![Sepa Transfer Instant](https://static.openfintech.io/payment_methods/sepa_transfer_instant/logo.svg?w=400&c=v0.59.26#w200) |[**Sepa Transfer Instant**](/payment-methods/sepa_transfer_instant/)|[`sepa_transfer_instant_gbp_hpp`](sepa_transfer_instant_gbp_hpp/)| 
 |![Sepa Transfer](https://static.openfintech.io/payment_methods/sepa_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Sepa Transfer**](/payment-methods/sepa_transfer/)|[`sepa_transfer_pln_hpp`](sepa_transfer_pln_hpp/)| 
 |![Sepa Transfer](https://static.openfintech.io/payment_methods/sepa_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Sepa Transfer**](/payment-methods/sepa_transfer/)|[`sepa_transfer_usd_hpp`](sepa_transfer_usd_hpp/)| 
+|![SEPA Direct Debit](https://static.openfintech.io/payment_methods/sepadirectdebit/logo.svg?w=400&c=v0.59.26#w200) |[**SEPA Direct Debit**](/payment-methods/sepadirectdebit/)|[`sepadirectdebit_eur_invoice`](sepadirectdebit_eur_invoice/)| 
 |![Servipag](https://static.openfintech.io/payment_methods/servipag/logo.png?w=400&c=v0.59.26#w200) |[**Servipag**](/payment-methods/servipag/)|[`servipag_clp_hpp`](servipag_clp_hpp/)| 
 |![ServiPagos](https://static.openfintech.io/payment_methods/servipagos/logo.svg?w=400&c=v0.59.26#w200) |[**ServiPagos**](/payment-methods/servipagos/)|[`servipagos_usd_hpp`](servipagos_usd_hpp/)| 
 |![SettlePay Wallet](https://static.openfintech.io/payment_methods/settlepay_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**SettlePay Wallet**](/payment-methods/settlepay_wallet/)|[`settlepay_wallet_uah_hpp`](settlepay_wallet_uah_hpp/)| 

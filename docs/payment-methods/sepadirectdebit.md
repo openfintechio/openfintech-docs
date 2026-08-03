@@ -37,6 +37,15 @@ https://static.openfintech.io/payment_methods/sepadirectdebit/logo.svg?w=400&c=v
 https://static.openfintech.io/payment_methods/sepadirectdebit/icon.svg?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _SEPA Direct Debit_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![sepadirectdebit](https://static.openfintech.io/payment_methods/sepadirectdebit/icon.svg?w=278&c=v0.59.26#w100) |[sepadirectdebit_eur_invoice](/payment-services/sepadirectdebit_eur_invoice/)|`sepadirectdebit_eur_invoice`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _SEPA Direct Debit_ 
