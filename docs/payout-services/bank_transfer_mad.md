@@ -27,9 +27,9 @@
 |`account_number`|✗|`string`|`/^\d{1,20}$/`| 
 |`beneficiary_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\s]{2,100}$/`| 
 |`beneficiary_lastname`|✗|`string`|`/^[A-Za-zА-Яа-я\-\s]{2,100}$/`| 
-|`beneficiary_document_id`|✗|`string`|`/^[A-Z0-9]{3,20}$/`| 
+|`beneficiary_document_id`|✗|`string`|`/^[A-Za-z0-9\-]{3,20}$/`| 
 |`beneficiary_phone`|✗|`string`|`/^\d{10,14}$/`| 
-|`bank_code`|✗|`string`|`/^[0-9]{1,3}$/`| 
+|`bank_code`|✗|`string`|`/^[A-Za-z0-9]{2,20}$/`| 
  
 
 ### Details 
@@ -92,7 +92,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[A-Z0-9]{3,20}$/` 
+	Regexp: `/^[A-Za-z0-9\-]{3,20}$/` 
  
 	Required: `` 
  
@@ -128,7 +128,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^[0-9]{1,3}$/` 
+	Regexp: `/^[A-Za-z0-9]{2,20}$/` 
  
 	Required: `` 
  
@@ -206,7 +206,7 @@
     {
       "key":"beneficiary_document_id",
       "type":"string",
-      "regexp":"\/^[A-Z0-9]{3,20}$\/",
+      "regexp":"\/^[A-Za-z0-9\\-]{3,20}$\/",
       "required":false,
       "position":4,
       "label":{
@@ -241,7 +241,7 @@
     {
       "key":"bank_code",
       "type":"string",
-      "regexp":"\/^[0-9]{1,3}$\/",
+      "regexp":"\/^[A-Za-z0-9]{2,20}$\/",
       "label":{
         "en":"Bank Code",
         "ru":"\u041a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
@@ -252,6 +252,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0430",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0443"
       },
+      "example":"NGP01336",
       "required":false,
       "position":6
     }
