@@ -71,6 +71,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller](/payment-methods/neteller/)|`neteller`| 
 |![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking](/payment-methods/openbanking/)|`openbanking`| 
 |![pay_id](https://static.openfintech.io/payment_methods/pay_id/icon.svg?w=278&c=v0.59.26#w100) |[pay_id](/payment-methods/pay_id/)|`pay_id`| 
+|![interac](https://static.openfintech.io/payment_methods/interac/icon.png?w=278&c=v0.59.26#w100) |[interac](/payment-methods/interac/)|`interac`| 
  
 
 ## Payout Methods 
@@ -88,6 +89,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![sepa_transfer](https://static.openfintech.io/payout_methods/sepa_transfer/icon.svg?w=278&c=v0.59.26#w40) |[sepa_transfer](payout-methodssepa_transfer/)|`sepa_transfer`| 
 |![blik](https://static.openfintech.io/payout_methods/blik/icon.png?w=278&c=v0.59.26#w40) |[blik](payout-methodsblik/)|`blik`| 
 |![pay_id](https://static.openfintech.io/payout_methods/pay_id/icon.png?w=278&c=v0.59.26#w40) |[pay_id](payout-methodspay_id/)|`pay_id`| 
+|![interac](https://static.openfintech.io/payout_methods/interac/icon.svg?w=278&c=v0.59.26#w40) |[interac](payout-methodsinterac/)|`interac`| 
  
 
 ## JSON Object 
@@ -131,7 +133,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "skrill",
     "neteller",
     "openbanking",
-    "pay_id"
+    "pay_id",
+    "interac"
   ],
   "payout_method":[
     "payment_card",
@@ -142,7 +145,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "paytm",
     "sepa_transfer",
     "blik",
-    "pay_id"
+    "pay_id",
+    "interac"
   ],
   "metadata":null,
   "name":{
