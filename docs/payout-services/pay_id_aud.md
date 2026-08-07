@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`code`|✗|`string`|`/^\d{6}$/`| 
+|`code`|✗|`string`|`/^.{1,100}$/`| 
 |`phone`|✗|`string`|`/^\d{10,14}$/`| 
  
 
@@ -34,7 +34,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^\d{6}$/` 
+	Regexp: `/^.{1,100}$/` 
  
 	Required: `` 
  
@@ -78,7 +78,7 @@
     {
       "key":"code",
       "type":"string",
-      "regexp":"\/^\\d{6}$\/",
+      "regexp":"\/^.{1,100}$\/",
       "required":false,
       "position":1,
       "label":{
