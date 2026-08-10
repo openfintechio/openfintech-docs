@@ -422,6 +422,7 @@
 |![Battle of the Farmers](https://static.openfintech.io/payout_methods/bitva-fermerov/logo.png?w=400&c=v0.59.26#w24) |[**Battle of the Farmers**](/payout-methods/bitva-fermerov/)|[`bitva-fermerov_uah`](bitva-fermerov_uah/)|`UAH`| 
 |![Clash of the Titans](https://static.openfintech.io/payout_methods/bitva-titanov/logo.png?w=400&c=v0.59.26#w24) |[**Clash of the Titans**](/payout-methods/bitva-titanov/)|[`bitva-titanov_uah`](bitva-titanov_uah/)|`UAH`| 
 |![Bkash Limited](https://static.openfintech.io/payout_methods/bkash_limited/logo.png?w=400&c=v0.59.26#w24) |[**Bkash Limited**](/payout-methods/bkash_limited/)|[`bkash_limited_bdt`](bkash_limited_bdt/)|`BDT`| 
+|![Bkash p2c](https://static.openfintech.io/payout_methods/bkash_p2c/logo.svg?w=400&c=v0.59.26#w24) |[**Bkash p2c**](/payout-methods/bkash_p2c/)|[`bkash_p2c_bdt`](bkash_p2c_bdt/)|`BDT`| 
 |![BKM (Bila Tserkva)](https://static.openfintech.io/payout_methods/bkm-g-belaia-tserkov/logo.png?w=400&c=v0.59.26#w24) |[**BKM (Bila Tserkva)**](/payout-methods/bkm-g-belaia-tserkov/)|[`bkm-g-belaia-tserkov_uah`](bkm-g-belaia-tserkov_uah/)|`UAH`| 
 |![CHARITABLE FUND OF Alexandria](https://static.openfintech.io/payout_methods/blagodiinii-fond-oleksandriiskii/logo.png?w=400&c=v0.59.26#w24) |[**CHARITABLE FUND OF Alexandria**](/payout-methods/blagodiinii-fond-oleksandriiskii/)|[`blagodiinii-fond-oleksandriiskii_uah`](blagodiinii-fond-oleksandriiskii_uah/)|`UAH`| 
 |![BLIK](https://static.openfintech.io/payout_methods/blik/logo.png?w=400&c=v0.59.26#w24) |[**BLIK**](/payout-methods/blik/)|[`blik_pln`](blik_pln/)|`PLN`| 
@@ -1530,6 +1531,7 @@
 ||| **N** ||
 |![N-Line (Kiev)](https://static.openfintech.io/payout_methods/n-line-kiev/logo.png?w=400&c=v0.59.26#w24) |[**N-Line (Kiev)**](/payout-methods/n-line-kiev/)|[`n-line-kiev_uah`](n-line-kiev_uah/)|`UAH`| 
 |![Mercenaries](https://static.openfintech.io/payout_methods/naemniki/logo.png?w=400&c=v0.59.26#w24) |[**Mercenaries**](/payout-methods/naemniki/)|[`naemniki_uah`](naemniki_uah/)|`UAH`| 
+|![Nagad p2c](https://static.openfintech.io/payout_methods/nagad_p2c/logo.svg?w=400&c=v0.59.26#w24) |[**Nagad p2c**](/payout-methods/nagad_p2c/)|[`nagad_p2c_bdt`](nagad_p2c_bdt/)|`BDT`| 
 |![Nagad Digital Financial Service](https://static.openfintech.io/payout_methods/nagad_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**Nagad Digital Financial Service**](/payout-methods/nagad_wallet/)|[`nagad_wallet_bdt`](nagad_wallet_bdt/)|`BDT`| 
 |![Nagano Bank](https://static.openfintech.io/payout_methods/nagano_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Nagano Bank**](/payout-methods/nagano_bank/)|[`nagano_bank_jpy`](nagano_bank_jpy/)|`JPY`| 
 |![Nagasaki Bank](https://static.openfintech.io/payout_methods/nagasaki_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Nagasaki Bank**](/payout-methods/nagasaki_bank/)|[`nagasaki_bank_jpy`](nagasaki_bank_jpy/)|`JPY`| 

@@ -299,6 +299,7 @@
 |![bitva-fermerov](https://static.openfintech.io/payout_methods/bitva-fermerov/logo.png?w=400&c=v0.59.26#w24) |[**Battle of the Farmers**](bitva-fermerov/)|`bitva-fermerov`| 
 |![bitva-titanov](https://static.openfintech.io/payout_methods/bitva-titanov/logo.png?w=400&c=v0.59.26#w24) |[**Clash of the Titans**](bitva-titanov/)|`bitva-titanov`| 
 |![bkash_limited](https://static.openfintech.io/payout_methods/bkash_limited/logo.png?w=400&c=v0.59.26#w24) |[**Bkash Limited**](bkash_limited/)|`bkash_limited`| 
+|![bkash_p2c](https://static.openfintech.io/payout_methods/bkash_p2c/logo.svg?w=400&c=v0.59.26#w24) |[**Bkash p2c**](bkash_p2c/)|`bkash_p2c`| 
 |![bkm-g-belaia-tserkov](https://static.openfintech.io/payout_methods/bkm-g-belaia-tserkov/logo.png?w=400&c=v0.59.26#w24) |[**BKM (Bila Tserkva)**](bkm-g-belaia-tserkov/)|`bkm-g-belaia-tserkov`| 
 |![blagodiinii-fond-oleksandriiskii](https://static.openfintech.io/payout_methods/blagodiinii-fond-oleksandriiskii/logo.png?w=400&c=v0.59.26#w24) |[**CHARITABLE FUND OF Alexandria**](blagodiinii-fond-oleksandriiskii/)|`blagodiinii-fond-oleksandriiskii`| 
 |![blik](https://static.openfintech.io/payout_methods/blik/logo.png?w=400&c=v0.59.26#w24) |[**BLIK**](blik/)|`blik`| 
@@ -1344,6 +1345,7 @@
 || **N** ||
 |![n-line-kiev](https://static.openfintech.io/payout_methods/n-line-kiev/logo.png?w=400&c=v0.59.26#w24) |[**N-Line (Kiev)**](n-line-kiev/)|`n-line-kiev`| 
 |![naemniki](https://static.openfintech.io/payout_methods/naemniki/logo.png?w=400&c=v0.59.26#w24) |[**Mercenaries**](naemniki/)|`naemniki`| 
+|![nagad_p2c](https://static.openfintech.io/payout_methods/nagad_p2c/logo.svg?w=400&c=v0.59.26#w24) |[**Nagad p2c**](nagad_p2c/)|`nagad_p2c`| 
 |![nagad_wallet](https://static.openfintech.io/payout_methods/nagad_wallet/logo.svg?w=400&c=v0.59.26#w24) |[**Nagad Digital Financial Service**](nagad_wallet/)|`nagad_wallet`| 
 |![nagano_bank](https://static.openfintech.io/payout_methods/nagano_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Nagano Bank**](nagano_bank/)|`nagano_bank`| 
 |![nagasaki_bank](https://static.openfintech.io/payout_methods/nagasaki_bank/logo.svg?w=400&c=v0.59.26#w24) |[**Nagasaki Bank**](nagasaki_bank/)|`nagasaki_bank`| 

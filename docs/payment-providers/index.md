@@ -71,6 +71,7 @@
 |![aps](https://static.openfintech.io/payment_providers/aps/logo.png?w=600&c=v0.59.26#w100) |[**Advanced Payment Solutions (APS)**](aps/)|`aps`| 
 |![aramorpayments](https://static.openfintech.io/payment_providers/aramorpayments/logo.svg?w=600&c=v0.59.26#w100) |[**Aramor Payments**](aramorpayments/)|`aramorpayments`| 
 |![arapay](https://static.openfintech.io/payment_providers/arapay/logo.svg?w=600&c=v0.59.26#w100) |[**AraPay**](arapay/)|`arapay`| 
+|![arbitrix](https://static.openfintech.io/payment_providers/arbitrix/logo.svg?w=600&c=v0.59.26#w100) |[**Arbitrix**](arbitrix/)|`arbitrix`| 
 |![aretosystems](https://static.openfintech.io/payment_providers/aretosystems/logo.png?w=600&c=v0.59.26#w100) |[**Areto Systems**](aretosystems/)|`aretosystems`| 
 |![arvatofinance](https://static.openfintech.io/payment_providers/arvatofinance/logo.svg?w=600&c=v0.59.26#w100) |[**arvato Finance Services Ltd.**](arvatofinance/)|`arvatofinance`| 
 |![asiapay](https://static.openfintech.io/payment_providers/asiapay/logo.png?w=600&c=v0.59.26#w100) |[**AsiaPay**](asiapay/)|`asiapay`| 
