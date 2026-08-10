@@ -935,6 +935,7 @@
 |![ggu_nbu](https://static.openfintech.io/vendors/ggu_nbu/logo.svg?w=600&c=v0.59.26#w200) |[**Головне господарське управління Національного банку України**](ggu_nbu/)|`ggu_nbu`| 
 |![ghlsystemsberhad](https://static.openfintech.io/vendors/ghlsystemsberhad/logo.png?w=600&c=v0.59.26#w200) |[**GHL Systems Berhad**](ghlsystemsberhad/)|`ghlsystemsberhad`| 
 |![gigadat](https://static.openfintech.io/vendors/gigadat/logo.png?w=600&c=v0.59.26#w200) |[**Gigadat**](gigadat/)|`gigadat`| 
+|![gigibit](https://static.openfintech.io/vendors/gigibit/logo.svg?w=600&c=v0.59.26#w200) |[**Gigibit**](gigibit/)|`gigibit`| 
 |![gingerpayments](https://static.openfintech.io/vendors/gingerpayments/logo.png?w=600&c=v0.59.26#w200) |[**Ginger Payments**](gingerpayments/)|`gingerpayments`| 
 |![girocard](https://static.openfintech.io/vendors/girocard/logo.png?w=600&c=v0.59.26#w200) |[**girocard**](girocard/)|`girocard`| 
 |![giropay](https://static.openfintech.io/vendors/giropay/logo.svg?w=600&c=v0.59.26#w200) |[**Giropay**](giropay/)|`giropay`| 
