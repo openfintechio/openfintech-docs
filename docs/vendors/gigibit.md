@@ -1,5 +1,5 @@
 
-# Gigibit 
+# GigiBit 
 ![gigibit](https://static.openfintech.io/vendors/gigibit/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -8,9 +8,9 @@
  
 **Name:** 
  
-:	[EN] Gigibit 
-:	[RU] Gigibit 
-:	[UK] Gigibit 
+:	[EN] GigiBit 
+:	[RU] GigiBit 
+:	[UK] GigiBit 
  
 **Status:** `active` 
  
@@ -42,9 +42,9 @@ https://static.openfintech.io/vendors/gigibit/icon.svg?w=278&c=v0.59.26#w100
 {
   "code":"gigibit",
   "name":{
-    "en":"Gigibit",
-    "ru":"Gigibit",
-    "uk":"Gigibit"
+    "en":"GigiBit",
+    "ru":"GigiBit",
+    "uk":"GigiBit"
   },
   "status":"active",
   "description":null,

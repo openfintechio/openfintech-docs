@@ -428,7 +428,7 @@
 |![getapay](https://static.openfintech.io/payment_providers/getapay/logo.svg?w=600&c=v0.59.26#w100) |[**GetaPay**](getapay/)|`getapay`| 
 |![ghlsystemsberhad](https://static.openfintech.io/payment_providers/ghlsystemsberhad/logo.png?w=600&c=v0.59.26#w100) |[**GHL Systems Berhad**](ghlsystemsberhad/)|`ghlsystemsberhad`| 
 |![gigadat](https://static.openfintech.io/payment_providers/gigadat/logo.png?w=600&c=v0.59.26#w100) |[**Gigadat**](gigadat/)|`gigadat`| 
-|![gigibit](https://static.openfintech.io/payment_providers/gigibit/logo.svg?w=600&c=v0.59.26#w100) |[**Gigibit**](gigibit/)|`gigibit`| 
+|![gigibit](https://static.openfintech.io/payment_providers/gigibit/logo.svg?w=600&c=v0.59.26#w100) |[**GigiBit**](gigibit/)|`gigibit`| 
 |![gingerpayments](https://static.openfintech.io/payment_providers/gingerpayments/logo.png?w=600&c=v0.59.26#w100) |[**Ginger Payments**](gingerpayments/)|`gingerpayments`| 
 |![girosolution](https://static.openfintech.io/payment_providers/girosolution/logo.png?w=600&c=v0.59.26#w100) |[**GiroSolution**](girosolution/)|`girosolution`| 
 |![globalcloudpay](https://static.openfintech.io/payment_providers/globalcloudpay/logo.png?w=600&c=v0.59.26#w100) |[**GlobalCloudPay**](globalcloudpay/)|`globalcloudpay`| 
