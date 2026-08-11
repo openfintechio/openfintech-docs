@@ -71,6 +71,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![neteller](https://static.openfintech.io/payment_methods/neteller/icon.png?w=278&c=v0.59.26#w100) |[neteller](/payment-methods/neteller/)|`neteller`| 
 |![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking](/payment-methods/openbanking/)|`openbanking`| 
 |![pay_id](https://static.openfintech.io/payment_methods/pay_id/icon.svg?w=278&c=v0.59.26#w100) |[pay_id](/payment-methods/pay_id/)|`pay_id`| 
+|![postepay](https://static.openfintech.io/payment_methods/postepay/icon.png?w=278&c=v0.59.26#w100) |[postepay](/payment-methods/postepay/)|`postepay`| 
 |![interac](https://static.openfintech.io/payment_methods/interac/icon.png?w=278&c=v0.59.26#w100) |[interac](/payment-methods/interac/)|`interac`| 
  
 
@@ -134,6 +135,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "neteller",
     "openbanking",
     "pay_id",
+    "postepay",
     "interac"
   ],
   "payout_method":[
