@@ -26,6 +26,7 @@
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
 |`iban_number`|✗|`string`|`/^[A-Z]{2}[A-Z0-9]{13,32}$\|^[0-9]{3,15}$/`| 
+|`bank_id`|✗|`string`|`/^.{2,64}$/`| 
  
 
 ### Details 
@@ -47,6 +48,24 @@
 	: [EN] Enter IBAN number 
 	: [RU] Введите номер IBAN 
 	: [UK] Введіть номер IBAN 
+ 
+2. **`bank_id`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{2,64}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Bank Id 
+	: [RU] Bank Id 
+	: [UK] Bank Id 
+ 
+	Hint:  
+	: [EN] Enter Bank Id 
+	: [RU] Введите Bank Id 
+	: [UK] Введіть Bank Id 
  
 
 ## JSON Object 
@@ -75,6 +94,24 @@
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 IBAN"
       },
       "example":"GB97BARC20031877565489"
+    },
+    {
+      "key":"bank_id",
+      "type":"string",
+      "regexp":"\/^.{2,64}$\/",
+      "required":false,
+      "position":2,
+      "label":{
+        "en":"Bank Id",
+        "ru":"Bank Id",
+        "uk":"Bank Id"
+      },
+      "hint":{
+        "en":"Enter Bank Id",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Bank Id",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Bank Id"
+      },
+      "example":"revolut_eu"
     }
   ],
   "amount_min":0.01,
