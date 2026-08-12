@@ -120,6 +120,8 @@ The list of supported [Payout Methods](/payout-methods/)
 |![standard_chartered_bank_kenya](https://static.openfintech.io/payout_methods/standard_chartered_bank_kenya/icon.svg?w=278&c=v0.59.26#w40) |[standard_chartered_bank_kenya](payout-methodsstandard_chartered_bank_kenya/)|`standard_chartered_bank_kenya`| 
 |![stanbic_bank_kenya_limited](https://static.openfintech.io/payout_methods/stanbic_bank_kenya_limited/icon.svg?w=278&c=v0.59.26#w40) |[stanbic_bank_kenya_limited](payout-methodsstanbic_bank_kenya_limited/)|`stanbic_bank_kenya_limited`| 
 |![united_bank_for_africa_kenya_ltd](https://static.openfintech.io/payout_methods/united_bank_for_africa_kenya_ltd/icon.svg?w=278&c=v0.59.26#w40) |[united_bank_for_africa_kenya_ltd](payout-methodsunited_bank_for_africa_kenya_ltd/)|`united_bank_for_africa_kenya_ltd`| 
+|![mtn](https://static.openfintech.io/payout_methods/mtn/icon.svg?w=278&c=v0.59.26#w40) |[mtn](payout-methodsmtn/)|`mtn`| 
+|![airtel_money](https://static.openfintech.io/payout_methods/airtel_money/icon.png?w=278&c=v0.59.26#w40) |[airtel_money](payout-methodsairtel_money/)|`airtel_money`| 
  
 
 ## JSON Object 
@@ -206,7 +208,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "ncba_bank_kenya",
     "standard_chartered_bank_kenya",
     "stanbic_bank_kenya_limited",
-    "united_bank_for_africa_kenya_ltd"
+    "united_bank_for_africa_kenya_ltd",
+    "mtn",
+    "airtel_money"
   ],
   "metadata":null,
   "name":{
