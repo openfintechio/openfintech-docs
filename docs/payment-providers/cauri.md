@@ -1,5 +1,5 @@
 
-# Kale 
+# Cauri 
 ![cauri](https://static.openfintech.io/payment_providers/cauri/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] Kale 
-:	[RU] Kale 
-:	[UK] Kale 
+:	[EN] Cauri 
+:	[RU] Cauri 
+:	[UK] Cauri 
  
 
 ## Images 
@@ -67,9 +67,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"Kale",
-    "ru":"Kale",
-    "uk":"Kale"
+    "en":"Cauri",
+    "ru":"Cauri",
+    "uk":"Cauri"
   }
 }
 ```  

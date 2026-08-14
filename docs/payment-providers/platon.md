@@ -1,5 +1,5 @@
 
-# TrustyPay 
+# PSP Platon 
 ![platon](https://static.openfintech.io/payment_providers/platon/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
@@ -10,9 +10,9 @@
  
 **Name:** 
  
-:	[EN] TrustyPay 
-:	[RU] TrustyPay 
-:	[UK] TrustyPay 
+:	[EN] PSP Platon 
+:	[RU] PSP Platon 
+:	[UK] PSP Platon 
  
 
 ## Images 
@@ -68,9 +68,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"TrustyPay",
-    "ru":"TrustyPay",
-    "uk":"TrustyPay"
+    "en":"PSP Platon",
+    "ru":"PSP Platon",
+    "uk":"PSP Platon"
   }
 }
 ```  

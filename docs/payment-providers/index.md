@@ -188,7 +188,7 @@
 |![cashrun](https://static.openfintech.io/payment_providers/cashrun/logo.svg?w=600&c=v0.59.26#w100) |[**CashRun**](cashrun/)|`cashrun`| 
 |![cashsender](https://static.openfintech.io/payment_providers/cashsender/logo.svg?w=600&c=v0.59.26#w100) |[**CashSender**](cashsender/)|`cashsender`| 
 |![catalunyacaixa](https://static.openfintech.io/payment_providers/catalunyacaixa/logo.png?w=600&c=v0.59.26#w100) |[**CatalunyaCaixa**](catalunyacaixa/)|`catalunyacaixa`| 
-|![cauri](https://static.openfintech.io/payment_providers/cauri/logo.png?w=600&c=v0.59.26#w100) |[**Kale**](cauri/)|`cauri`| 
+|![cauri](https://static.openfintech.io/payment_providers/cauri/logo.png?w=600&c=v0.59.26#w100) |[**Cauri**](cauri/)|`cauri`| 
 |![ccbill](https://static.openfintech.io/payment_providers/ccbill/logo.png?w=600&c=v0.59.26#w100) |[**CCBill**](ccbill/)|`ccbill`| 
 |![ccnow](https://static.openfintech.io/payment_providers/ccnow/logo.png?w=600&c=v0.59.26#w100) |[**CCNow**](ccnow/)|`ccnow`| 
 |![ccvpay](https://static.openfintech.io/payment_providers/ccvpay/logo.png?w=600&c=v0.59.26#w100) |[**CCV Pay**](ccvpay/)|`ccvpay`| 
@@ -888,7 +888,7 @@
 |![planetpayment](https://static.openfintech.io/payment_providers/planetpayment/logo.png?w=600&c=v0.59.26#w100) |[**Planet Payment**](planetpayment/)|`planetpayment`| 
 |![platcore](https://static.openfintech.io/payment_providers/platcore/logo.png?w=600&c=v0.59.26#w100) |[**Platcore**](platcore/)|`platcore`| 
 |![platio](https://static.openfintech.io/payment_providers/platio/logo.svg?w=600&c=v0.59.26#w100) |[**Platio**](platio/)|`platio`| 
-|![platon](https://static.openfintech.io/payment_providers/platon/logo.png?w=600&c=v0.59.26#w100) |[**TrustyPay**](platon/)|`platon`| 
+|![platon](https://static.openfintech.io/payment_providers/platon/logo.png?w=600&c=v0.59.26#w100) |[**PSP Platon**](platon/)|`platon`| 
 |![platron](https://static.openfintech.io/payment_providers/platron/logo.png?w=600&c=v0.59.26#w100) |[**Platron**](platron/)|`platron`| 
 |![pluspedirect](https://static.openfintech.io/payment_providers/pluspedirect/logo.svg?w=600&c=v0.59.26#w100) |[**PlusPeDirect**](pluspedirect/)|`pluspedirect`| 
 |![pmsolutions](https://static.openfintech.io/payment_providers/pmsolutions/logo.png?w=600&c=v0.59.26#w100) |[**PMSolutions**](pmsolutions/)|`pmsolutions`| 

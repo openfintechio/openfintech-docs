@@ -261,7 +261,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![cybersource](https://static.openfintech.io/payment_providers/cybersource/icon.svg?w=278&c=v0.59.26#w100) |[CyberSource](/payment-providers/cybersource/)|`cybersource`| 
 |![fibonatix](https://static.openfintech.io/payment_providers/fibonatix/icon.png?w=278&c=v0.59.26#w100) |[Fibonatix](/payment-providers/fibonatix/)|`fibonatix`| 
 |![ecommpay](https://static.openfintech.io/payment_providers/ecommpay/icon.png?w=278&c=v0.59.26#w100) |[Ecommpay](/payment-providers/ecommpay/)|`ecommpay`| 
-|![platon](https://static.openfintech.io/payment_providers/platon/icon.png?w=278&c=v0.59.26#w100) |[TrustyPay](/payment-providers/platon/)|`platon`| 
+|![platon](https://static.openfintech.io/payment_providers/platon/icon.png?w=278&c=v0.59.26#w100) |[PSP Platon](/payment-providers/platon/)|`platon`| 
 |![trustypay](https://static.openfintech.io/payment_providers/trustypay/icon.png?w=278&c=v0.59.26#w100) |[TrustyPay](/payment-providers/trustypay/)|`trustypay`| 
 |![paymentz](https://static.openfintech.io/payment_providers/paymentz/icon.png?w=278&c=v0.59.26#w100) |[Paio](/payment-providers/paymentz/)|`paymentz`| 
 |![certusfinance](https://static.openfintech.io/payment_providers/certusfinance/icon.png?w=278&c=v0.59.26#w100) |[Certus Finance](/payment-providers/certusfinance/)|`certusfinance`| 
@@ -315,7 +315,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![alikassa](https://static.openfintech.io/payment_providers/alikassa/icon.svg?w=278&c=v0.59.26#w100) |[AliKassa](/payment-providers/alikassa/)|`alikassa`| 
 |![paysafe](https://static.openfintech.io/payment_providers/paysafe/icon.svg?w=278&c=v0.59.26#w100) |[Paysafe](/payment-providers/paysafe/)|`paysafe`| 
 |![raiffeisenbank](https://static.openfintech.io/payment_providers/raiffeisenbank/icon.svg?w=278&c=v0.59.26#w100) |[Raiffeisen Bank](/payment-providers/raiffeisenbank/)|`raiffeisenbank`| 
-|![cauri](https://static.openfintech.io/payment_providers/cauri/icon.png?w=278&c=v0.59.26#w100) |[Kale](/payment-providers/cauri/)|`cauri`| 
+|![cauri](https://static.openfintech.io/payment_providers/cauri/icon.png?w=278&c=v0.59.26#w100) |[Cauri](/payment-providers/cauri/)|`cauri`| 
 |![ipaytotal](https://static.openfintech.io/payment_providers/ipaytotal/icon.png?w=278&c=v0.59.26#w100) |[IPaytotal](/payment-providers/ipaytotal/)|`ipaytotal`| 
 |![pumb](https://static.openfintech.io/payment_providers/pumb/icon.svg?w=278&c=v0.59.26#w100) |[PUMB](/payment-providers/pumb/)|`pumb`| 
 |![twoclick](https://static.openfintech.io/payment_providers/twoclick/icon.png?w=278&c=v0.59.26#w100) |[2click](/payment-providers/twoclick/)|`twoclick`| 
