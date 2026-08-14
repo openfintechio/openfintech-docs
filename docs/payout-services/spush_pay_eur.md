@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`account_number`|✔|`string`|`/^\d{13}[A-Z]{3}$/`| 
+|`account_number`|✔|`string`|`/^(?:[A-Z0-9]{13}\|[A-Z0-9]{15})[A-Z]{3}$/`| 
  
 
 ### Details 
@@ -33,7 +33,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^\d{13}[A-Z]{3}$/` 
+	Regexp: `/^(?:[A-Z0-9]{13}|[A-Z0-9]{15})[A-Z]{3}$/` 
  
 	Required: `1` 
  
@@ -59,7 +59,7 @@
     {
       "key":"account_number",
       "type":"string",
-      "regexp":"\/^\\d{13}[A-Z]{3}$\/",
+      "regexp":"\/^(?:[A-Z0-9]{13}|[A-Z0-9]{15})[A-Z]{3}$\/",
       "required":true,
       "position":1,
       "label":{
