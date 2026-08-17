@@ -106,6 +106,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Apple Pay
 |![cardgate](https://static.openfintech.io/payment_providers/cardgate/icon.svg?w=278&c=v0.59.26#w100) |[CardGate](/payment-providers/cardgate/)|`cardgate`| 
 |![gate](https://static.openfintech.io/payment_providers/gate/icon.svg?w=278&c=v0.59.26#w100) |[Gate](/payment-providers/gate/)|`gate`| 
 |![alfabank](https://static.openfintech.io/payment_providers/alfabank/icon.svg?w=278&c=v0.59.26#w100) |[Sense Bank](/payment-providers/alfabank/)|`alfabank`| 
+|![sensebank](https://static.openfintech.io/payment_providers/sensebank/icon.svg?w=278&c=v0.59.26#w100) |[Sense Bank](/payment-providers/sensebank/)|`sensebank`| 
 |![concord](https://static.openfintech.io/payment_providers/concord/icon.svg?w=278&c=v0.59.26#w100) |[Concord Bank](/payment-providers/concord/)|`concord`| 
 |![exactly](https://static.openfintech.io/payment_providers/exactly/icon.svg?w=278&c=v0.59.26#w100) |[exactly](/payment-providers/exactly/)|`exactly`| 
 |![paysafe](https://static.openfintech.io/payment_providers/paysafe/icon.svg?w=278&c=v0.59.26#w100) |[Paysafe](/payment-providers/paysafe/)|`paysafe`| 
