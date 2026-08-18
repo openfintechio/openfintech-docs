@@ -3215,6 +3215,7 @@
 |![wing_bank_cambodia](https://static.openfintech.io/payout_methods/wing_bank_cambodia/logo.svg?w=400&c=v0.59.26#w24) |[**Wing Bank**](wing_bank_cambodia/)|`wing_bank_cambodia`| 
 |![winpay](https://static.openfintech.io/payout_methods/winpay/logo.svg?w=400&c=v0.59.26#w24) |[**WinPay**](winpay/)|`winpay`| 
 |![wintelecom-vinnitsa](https://static.openfintech.io/payout_methods/wintelecom-vinnitsa/logo.png?w=400&c=v0.59.26#w24) |[**Wintelecom (Vinnitsa)**](wintelecom-vinnitsa/)|`wintelecom-vinnitsa`| 
+|![wiretransfer](https://static.openfintech.io/payout_methods/wiretransfer/logo.svg?w=400&c=v0.59.26#w24) |[**Wire Transfer**](wiretransfer/)|`wiretransfer`| 
 |![wise](https://static.openfintech.io/payout_methods/wise/logo.svg?w=400&c=v0.59.26#w24) |[**Wise**](wise/)|`wise`| 
 |![wizards-world-oplata-po-niku](https://static.openfintech.io/payout_methods/wizards-world-oplata-po-niku/logo.png?w=400&c=v0.59.26#w24) |[**Wizards World Nick payment**](wizards-world-oplata-po-niku/)|`wizards-world-oplata-po-niku`| 
 |![wizards-world-oplata-po-wid](https://static.openfintech.io/payout_methods/wizards-world-oplata-po-wid/logo.png?w=400&c=v0.59.26#w24) |[**Wizards World WID payment**](wizards-world-oplata-po-wid/)|`wizards-world-oplata-po-wid`| 

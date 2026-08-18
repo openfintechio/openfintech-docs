@@ -3401,6 +3401,7 @@
 |![WinPay](https://static.openfintech.io/payout_methods/winpay/logo.svg?w=400&c=v0.59.26#w24) |[**WinPay**](/payout-methods/winpay/)|[`winpay_rub`](winpay_rub/)|`RUB`| 
 |![WinPay](https://static.openfintech.io/payout_methods/winpay/logo.svg?w=400&c=v0.59.26#w24) |[**WinPay**](/payout-methods/winpay/)|[`winpay_usd`](winpay_usd/)|`USD`| 
 |![Wintelecom (Vinnitsa)](https://static.openfintech.io/payout_methods/wintelecom-vinnitsa/logo.png?w=400&c=v0.59.26#w24) |[**Wintelecom (Vinnitsa)**](/payout-methods/wintelecom-vinnitsa/)|[`wintelecom-vinnitsa_uah`](wintelecom-vinnitsa_uah/)|`UAH`| 
+|![Wire Transfer](https://static.openfintech.io/payout_methods/wiretransfer/logo.svg?w=400&c=v0.59.26#w24) |[**Wire Transfer**](/payout-methods/wiretransfer/)|[`wiretransfer_mad`](wiretransfer_mad/)|`MAD`| 
 |![Wise](https://static.openfintech.io/payout_methods/wise/logo.svg?w=400&c=v0.59.26#w24) |[**Wise**](/payout-methods/wise/)|[`wise_uah`](wise_uah/)|`UAH`| 
 |![Wizards World Nick payment](https://static.openfintech.io/payout_methods/wizards-world-oplata-po-niku/logo.png?w=400&c=v0.59.26#w24) |[**Wizards World Nick payment**](/payout-methods/wizards-world-oplata-po-niku/)|[`wizards-world-oplata-po-niku_uah`](wizards-world-oplata-po-niku_uah/)|`UAH`| 
 |![Wizards World WID payment](https://static.openfintech.io/payout_methods/wizards-world-oplata-po-wid/logo.png?w=400&c=v0.59.26#w24) |[**Wizards World WID payment**](/payout-methods/wizards-world-oplata-po-wid/)|[`wizards-world-oplata-po-wid_uah`](wizards-world-oplata-po-wid_uah/)|`UAH`| 

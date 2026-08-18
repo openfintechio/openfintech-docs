@@ -56,6 +56,8 @@ The list of supported [Payout Methods](/payout-methods/)
 |![pay_id](https://static.openfintech.io/payout_methods/pay_id/icon.png?w=278&c=v0.59.26#w40) |[pay_id](payout-methodspay_id/)|`pay_id`| 
 |![mobile_money](https://static.openfintech.io/payout_methods/mobile_money/icon.svg?w=278&c=v0.59.26#w40) |[mobile_money](payout-methodsmobile_money/)|`mobile_money`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer](payout-methodsbank_transfer/)|`bank_transfer`| 
+|![instapay](https://static.openfintech.io/payout_methods/instapay/icon.svg?w=278&c=v0.59.26#w40) |[instapay](payout-methodsinstapay/)|`instapay`| 
+|![wiretransfer](https://static.openfintech.io/payout_methods/wiretransfer/icon.svg?w=278&c=v0.59.26#w40) |[wiretransfer](payout-methodswiretransfer/)|`wiretransfer`| 
  
 
 ## JSON Object 
@@ -78,7 +80,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "interac",
     "pay_id",
     "mobile_money",
-    "bank_transfer"
+    "bank_transfer",
+    "instapay",
+    "wiretransfer"
   ],
   "metadata":null,
   "name":{
