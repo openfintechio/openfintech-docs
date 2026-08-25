@@ -44,6 +44,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![pse](https://static.openfintech.io/payment_methods/pse/icon.svg?w=278&c=v0.59.26#w100) |[pse](/payment-methods/pse/)|`pse`| 
 |![nequi](https://static.openfintech.io/payment_methods/nequi/icon.svg?w=278&c=v0.59.26#w100) |[nequi](/payment-methods/nequi/)|`nequi`| 
 |![breb](https://static.openfintech.io/payment_methods/breb/icon.png?w=278&c=v0.59.26#w100) |[breb](/payment-methods/breb/)|`breb`| 
+|![bank_transfer_cvu](https://static.openfintech.io/payment_methods/bank_transfer_cvu/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_cvu](/payment-methods/bank_transfer_cvu/)|`bank_transfer_cvu`| 
+|![bank_transfer_cbu](https://static.openfintech.io/payment_methods/bank_transfer_cbu/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_cbu](/payment-methods/bank_transfer_cbu/)|`bank_transfer_cbu`| 
  
 
 ## Payout Methods 
@@ -71,7 +73,9 @@ The list of supported [Payout Methods](/payout-methods/)
     "bank_transfer",
     "pse",
     "nequi",
-    "breb"
+    "breb",
+    "bank_transfer_cvu",
+    "bank_transfer_cbu"
   ],
   "payout_method":[
     "payment_card",

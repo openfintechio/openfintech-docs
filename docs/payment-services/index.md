@@ -293,6 +293,7 @@
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_bob_hpp`](bank_transfer_bob_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_brl_hpp`](bank_transfer_brl_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_cad_hpp`](bank_transfer_cad_hpp/)| 
+|![Bank Transfer CBU](https://static.openfintech.io/payment_methods/bank_transfer_cbu/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer CBU**](/payment-methods/bank_transfer_cbu/)|[`bank_transfer_cbu_ars_hpp`](bank_transfer_cbu_ars_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_clp_hpp`](bank_transfer_clp_hpp/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_clp_invoice`](bank_transfer_clp_invoice/)| 
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bank_transfer_cop_hpp`](bank_transfer_cop_hpp/)| 

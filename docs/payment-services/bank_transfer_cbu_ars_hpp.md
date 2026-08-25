@@ -1,19 +1,19 @@
 
-# Bank Transfer CVU (service) 
-![bank_transfer_cvu_ars_hpp](https://static.openfintech.io/payment_methods/bank_transfer_cvu_ars_hpp/logo.svg?w=400&c=v0.59.26#w200)  
+# Bank Transfer CBU (service) 
+![bank_transfer_cbu_ars_hpp](https://static.openfintech.io/payment_methods/bank_transfer_cbu_ars_hpp/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
  
-**Code:** `bank_transfer_cvu_ars_hpp` 
+**Code:** `bank_transfer_cbu_ars_hpp` 
  
-**Method:** `bank_transfer_cvu` 
- [show -->](/payment-methods/bank_transfer_cvu/) 
+**Method:** `bank_transfer_cbu` 
+ [show -->](/payment-methods/bank_transfer_cbu/) 
  
 **Currency:** `ARS` [show -->](/currencies/ARS/) 
  
 **Name:** 
  
-:	[EN] Bank Transfer CVU 
+:	[EN] Bank Transfer CBU 
  
 **Amount limits:** from `0.01` to `1000000000` ARS 
 
@@ -25,7 +25,6 @@
 |:---:|:---:|:---:|:---:| 
 |`document_id`|✗|`string`|`/^[a-zA-Z0-9\.\-]{1,100}$/`| 
 |`document_type`|✗|`string`|`/^.{1,32}$/`| 
-|`account_number`|✗|`string`|`/^[A-Z0-9]{5,100}$/`| 
 |`phone`|✗|`string`|`/^\+?[-\d]{9,32}$/`| 
  
 
@@ -67,25 +66,7 @@
 	: [RU] Введите тип документа 
 	: [UK] Введіть тип документу 
  
-3. **`account_number`** 
- 
-	Type: `string` 
- 
-	Regexp: `/^[A-Z0-9]{5,100}$/` 
- 
-	Required: `` 
- 
-	Label:  
-	: [EN] Account number 
-	: [RU] Номер счета 
-	: [UK] Номер рахунку 
- 
-	Hint:  
-	: [EN] Enter account number 
-	: [RU] Введите номер счета 
-	: [UK] Введіть номер рахунку 
- 
-4. **`phone`** 
+3. **`phone`** 
  
 	Type: `string` 
  
@@ -108,9 +89,9 @@
 
 ```json
 {
-  "code":"bank_transfer_cvu_ars_hpp",
+  "code":"bank_transfer_cbu_ars_hpp",
   "flow":"hpp",
-  "method":"bank_transfer_cvu",
+  "method":"bank_transfer_cbu",
   "currency":"ARS",
   "fields":[
     {
@@ -148,28 +129,10 @@
       }
     },
     {
-      "key":"account_number",
-      "type":"string",
-      "required":false,
-      "position":3,
-      "label":{
-        "en":"Account number",
-        "ru":"\u041d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430",
-        "uk":"\u041d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
-      },
-      "hint":{
-        "en":"Enter account number",
-        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430",
-        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043d\u043e\u043c\u0435\u0440 \u0440\u0430\u0445\u0443\u043d\u043a\u0443"
-      },
-      "regexp":"\/^[A-Z0-9]{5,100}$\/",
-      "example":"3410002602000400003579"
-    },
-    {
       "key":"phone",
       "type":"string",
       "required":false,
-      "position":4,
+      "position":3,
       "label":{
         "en":"Phone number",
         "ru":"\u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
