@@ -35,6 +35,8 @@
 |`beneficiary_bank_swift_code`|✗|`string`|`/^[A-Z]{6}[A-Z0-9]{2}([A-Z0-9]{3})?$/`| 
 |`beneficiary_bank_name`|✗|`string`|`/^[A-Z\-\ a-z0-9_]{2,100}$/`| 
 |`beneficiary_postcode`|✗|`string`|`/^[\w\-\s]{1,64}$/`| 
+|`security_question`|✗|`string`|`/^.{1,200}$/`| 
+|`security_answer`|✗|`string`|`/^.{1,200}$/`| 
  
 
 ### Details 
@@ -236,6 +238,42 @@
 	: [EN] Enter beneficiary postcode 
 	: [RU] Введите beneficiary postcode 
 	: [UK] Введіть beneficiary postcode 
+ 
+12. **`security_question`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{1,200}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Security question 
+	: [RU] Секретный вопрос 
+	: [UK] Секретне запитання 
+ 
+	Hint:  
+	: [EN] Enter security question 
+	: [RU] Введите секретный вопрос 
+	: [UK] Введіть секретне запитання 
+ 
+13. **`security_answer`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^.{1,200}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Security answer 
+	: [RU] Секретный ответ 
+	: [UK] Секретна відповідь 
+ 
+	Hint:  
+	: [EN] Enter security answer 
+	: [RU] Введите секретный ответ 
+	: [UK] Введіть секретну відповідь 
  
 
 ## JSON Object 
@@ -441,6 +479,40 @@
         "en":"Enter beneficiary postcode",
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 beneficiary postcode",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c beneficiary postcode"
+      }
+    },
+    {
+      "key":"security_question",
+      "type":"string",
+      "regexp":"\/^.{1,200}$\/",
+      "required":false,
+      "position":12,
+      "label":{
+        "en":"Security question",
+        "ru":"\u0421\u0435\u043a\u0440\u0435\u0442\u043d\u044b\u0439 \u0432\u043e\u043f\u0440\u043e\u0441",
+        "uk":"\u0421\u0435\u043a\u0440\u0435\u0442\u043d\u0435 \u0437\u0430\u043f\u0438\u0442\u0430\u043d\u043d\u044f"
+      },
+      "hint":{
+        "en":"Enter security question",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0441\u0435\u043a\u0440\u0435\u0442\u043d\u044b\u0439 \u0432\u043e\u043f\u0440\u043e\u0441",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0441\u0435\u043a\u0440\u0435\u0442\u043d\u0435 \u0437\u0430\u043f\u0438\u0442\u0430\u043d\u043d\u044f"
+      }
+    },
+    {
+      "key":"security_answer",
+      "type":"string",
+      "regexp":"\/^.{1,200}$\/",
+      "required":false,
+      "position":13,
+      "label":{
+        "en":"Security answer",
+        "ru":"\u0421\u0435\u043a\u0440\u0435\u0442\u043d\u044b\u0439 \u043e\u0442\u0432\u0435\u0442",
+        "uk":"\u0421\u0435\u043a\u0440\u0435\u0442\u043d\u0430 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u044c"
+      },
+      "hint":{
+        "en":"Enter security answer",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0441\u0435\u043a\u0440\u0435\u0442\u043d\u044b\u0439 \u043e\u0442\u0432\u0435\u0442",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u0441\u0435\u043a\u0440\u0435\u0442\u043d\u0443 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u044c"
       }
     }
   ],
