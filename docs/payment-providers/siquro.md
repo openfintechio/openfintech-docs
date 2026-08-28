@@ -61,6 +61,11 @@ The list of supported [Payment Methods](/payment-methods/)
 |![rabobank](https://static.openfintech.io/payment_methods/rabobank/icon.png?w=278&c=v0.59.26#w100) |[rabobank](/payment-methods/rabobank/)|`rabobank`| 
 |![abn_amro_bank](https://static.openfintech.io/payment_methods/abn_amro_bank/icon.svg?w=278&c=v0.59.26#w100) |[abn_amro_bank](/payment-methods/abn_amro_bank/)|`abn_amro_bank`| 
 |![snsbank](https://static.openfintech.io/payment_methods/snsbank/icon.png?w=278&c=v0.59.26#w100) |[snsbank](/payment-methods/snsbank/)|`snsbank`| 
+|![n26_bank](https://static.openfintech.io/payment_methods/n26_bank/icon.png?w=278&c=v0.59.26#w100) |[n26_bank](/payment-methods/n26_bank/)|`n26_bank`| 
+|![wise](https://static.openfintech.io/payment_methods/wise/icon.svg?w=278&c=v0.59.26#w100) |[wise](/payment-methods/wise/)|`wise`| 
+|![postepay](https://static.openfintech.io/payment_methods/postepay/icon.png?w=278&c=v0.59.26#w100) |[postepay](/payment-methods/postepay/)|`postepay`| 
+|![postepay_ibancard](https://static.openfintech.io/payment_methods/postepay_ibancard/icon.png?w=278&c=v0.59.26#w100) |[postepay_ibancard](/payment-methods/postepay_ibancard/)|`postepay_ibancard`| 
+|![intesa_sanpaolo](https://static.openfintech.io/payment_methods/intesa_sanpaolo/icon.png?w=278&c=v0.59.26#w100) |[intesa_sanpaolo](/payment-methods/intesa_sanpaolo/)|`intesa_sanpaolo`| 
  
 
 ## Payout Methods 
@@ -103,7 +108,12 @@ The list of supported [Payout Methods](/payout-methods/)
     "ing",
     "rabobank",
     "abn_amro_bank",
-    "snsbank"
+    "snsbank",
+    "n26_bank",
+    "wise",
+    "postepay",
+    "postepay_ibancard",
+    "intesa_sanpaolo"
   ],
   "payout_method":[
     "sepa_transfer"

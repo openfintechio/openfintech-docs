@@ -499,6 +499,7 @@
 |![interbank](https://static.openfintech.io/payment_methods/interbank/logo.png?w=400&c=v0.59.26#w200) |[**Interbank**](interbank/)|`interbank`| 
 |![interkassa](https://static.openfintech.io/payment_methods/interkassa/logo.svg?w=400&c=v0.59.26#w200) |[**Interkassa**](interkassa/)|`interkassa`| 
 |![international_bank_of_azerbaijan](https://static.openfintech.io/payment_methods/international_bank_of_azerbaijan/logo.svg?w=400&c=v0.59.26#w200) |[**Bank ABB**](international_bank_of_azerbaijan/)|`international_bank_of_azerbaijan`| 
+|![intesa_sanpaolo](https://static.openfintech.io/payment_methods/intesa_sanpaolo/logo.png?w=400&c=v0.59.26#w200) |[**Intesa Sanpaolo**](intesa_sanpaolo/)|`intesa_sanpaolo`| 
 |![ivrbilling](https://static.openfintech.io/payment_methods/ivrbilling/logo.png?w=400&c=v0.59.26#w200) |[**IVR Billing**](ivrbilling/)|`ivrbilling`| 
 || **J** ||
 |![j_k_bank_india](https://static.openfintech.io/payment_methods/j_k_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Jammu & Kashmir Bank**](j_k_bank_india/)|`j_k_bank_india`| 
@@ -771,6 +772,7 @@
 |![popular_bank](https://static.openfintech.io/payment_methods/popular_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BANCO POPULAR**](popular_bank/)|`popular_bank`| 
 |![postbank](https://static.openfintech.io/payment_methods/postbank/logo.png?w=400&c=v0.59.26#w200) |[**Deutsche Postbank**](postbank/)|`postbank`| 
 |![postepay](https://static.openfintech.io/payment_methods/postepay/logo.png?w=400&c=v0.59.26#w200) |[**Postepay**](postepay/)|`postepay`| 
+|![postepay_ibancard](https://static.openfintech.io/payment_methods/postepay_ibancard/logo.png?w=400&c=v0.59.26#w200) |[**PostePay - IBAN Card**](postepay_ibancard/)|`postepay_ibancard`| 
 |![postfinancecard](https://static.openfintech.io/payment_methods/postfinancecard/logo.png?w=400&c=v0.59.26#w200) |[**PostFinance Card**](postfinancecard/)|`postfinancecard`| 
 |![postfinanceefinance](https://static.openfintech.io/payment_methods/postfinanceefinance/logo.png?w=400&c=v0.59.26#w200) |[**PostFinance E-Finance**](postfinanceefinance/)|`postfinanceefinance`| 
 |![postovabanka](https://static.openfintech.io/payment_methods/postovabanka/logo.png?w=400&c=v0.59.26#w200) |[**Postová Banka**](postovabanka/)|`postovabanka`| 

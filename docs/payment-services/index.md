@@ -1116,6 +1116,7 @@
 |![Interkassa](https://static.openfintech.io/payment_methods/interkassa/logo.svg?w=400&c=v0.59.26#w200) |[**Interkassa**](/payment-methods/interkassa/)|[`interkassa_wmu_hpp`](interkassa_wmu_hpp/)| 
 |![Interkassa](https://static.openfintech.io/payment_methods/interkassa/logo.svg?w=400&c=v0.59.26#w200) |[**Interkassa**](/payment-methods/interkassa/)|[`interkassa_wmz_hpp`](interkassa_wmz_hpp/)| 
 |![Bank ABB](https://static.openfintech.io/payment_methods/international_bank_of_azerbaijan/logo.svg?w=400&c=v0.59.26#w200) |[**Bank ABB**](/payment-methods/international_bank_of_azerbaijan/)|[`international_bank_of_azerbaijan_azn_invoice`](international_bank_of_azerbaijan_azn_invoice/)| 
+|![Intesa Sanpaolo](https://static.openfintech.io/payment_methods/intesa_sanpaolo/logo.png?w=400&c=v0.59.26#w200) |[**Intesa Sanpaolo**](/payment-methods/intesa_sanpaolo/)|[`intesa_sanpaolo_eur_hpp`](intesa_sanpaolo_eur_hpp/)| 
 ||| **J** ||
 |![Jammu & Kashmir Bank](https://static.openfintech.io/payment_methods/j_k_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Jammu & Kashmir Bank**](/payment-methods/j_k_bank_india/)|[`j_k_bank_india_inr_hpp`](j_k_bank_india_inr_hpp/)| 
 |![JazzCash](https://static.openfintech.io/payment_methods/jazzcash/logo.svg?w=400&c=v0.59.26#w200) |[**JazzCash**](/payment-methods/jazzcash/)|[`jazzcash_pkr_hpp`](jazzcash_pkr_hpp/)| 
@@ -1831,6 +1832,7 @@
 |![BANCO POPULAR](https://static.openfintech.io/payment_methods/popular_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BANCO POPULAR**](/payment-methods/popular_bank/)|[`popularmin_cop_hpp`](popularmin_cop_hpp/)| 
 |![Deutsche Postbank](https://static.openfintech.io/payment_methods/postbank/logo.png?w=400&c=v0.59.26#w200) |[**Deutsche Postbank**](/payment-methods/postbank/)|[`postbank_eur_hpp`](postbank_eur_hpp/)| 
 |![Postepay](https://static.openfintech.io/payment_methods/postepay/logo.png?w=400&c=v0.59.26#w200) |[**Postepay**](/payment-methods/postepay/)|[`postepay_eur_hpp`](postepay_eur_hpp/)| 
+|![PostePay - IBAN Card](https://static.openfintech.io/payment_methods/postepay_ibancard/logo.png?w=400&c=v0.59.26#w200) |[**PostePay - IBAN Card**](/payment-methods/postepay_ibancard/)|[`postepay_ibancard_eur_hpp`](postepay_ibancard_eur_hpp/)| 
 |![Powwi](https://static.openfintech.io/payment_methods/powwi/logo.svg?w=400&c=v0.59.26#w200) |[**Powwi**](/payment-methods/powwi/)|[`powwiin_cop_hpp`](powwiin_cop_hpp/)| 
 |![Privat24](https://static.openfintech.io/payment_methods/privat24/logo.svg?w=400&c=v0.59.26#w200) |[**Privat24**](/payment-methods/privat24/)|[`privat24_eur_hpp`](privat24_eur_hpp/)| 
 |![Privat24](https://static.openfintech.io/payment_methods/privat24/logo.svg?w=400&c=v0.59.26#w200) |[**Privat24**](/payment-methods/privat24/)|[`privat24_rub_hpp`](privat24_rub_hpp/)| 
