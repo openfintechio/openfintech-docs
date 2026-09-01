@@ -153,6 +153,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Google Pa
 |![crossbill](https://static.openfintech.io/payment_providers/crossbill/icon.png?w=278&c=v0.59.26#w100) |[Crossbill](/payment-providers/crossbill/)|`crossbill`| 
 |![mintcash](https://static.openfintech.io/payment_providers/mintcash/icon.png?w=278&c=v0.59.26#w100) |[MintCash](/payment-providers/mintcash/)|`mintcash`| 
 |![flynance](https://static.openfintech.io/payment_providers/flynance/icon.svg?w=278&c=v0.59.26#w100) |[Flynance](/payment-providers/flynance/)|`flynance`| 
+|![gigibit](https://static.openfintech.io/payment_providers/gigibit/icon.svg?w=278&c=v0.59.26#w100) |[GigiBit](/payment-providers/gigibit/)|`gigibit`| 
  
 
 ## JSON Object 
