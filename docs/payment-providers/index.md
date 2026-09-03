@@ -665,6 +665,7 @@
 |![okto](https://static.openfintech.io/payment_providers/okto/logo.svg?w=600&c=v0.59.26#w100) |[**OKTO**](okto/)|`okto`| 
 |![olpays](https://static.openfintech.io/payment_providers/olpays/logo.png?w=600&c=v0.59.26#w100) |[**Olpays**](olpays/)|`olpays`| 
 |![ombaug](https://static.openfintech.io/payment_providers/ombaug/logo.png?w=600&c=v0.59.26#w100) |[**omba**](ombaug/)|`ombaug`| 
+|![omnikeea](https://static.openfintech.io/payment_providers/omnikeea/logo.png?w=600&c=v0.59.26#w100) |[**Omnikeea**](omnikeea/)|`omnikeea`| 
 |![omnipayment](https://static.openfintech.io/payment_providers/omnipayment/logo.png?w=600&c=v0.59.26#w100) |[**OmniPayment**](omnipayment/)|`omnipayment`| 
 |![omno](https://static.openfintech.io/payment_providers/omno/logo.png?w=600&c=v0.59.26#w100) |[**OMNO**](omno/)|`omno`| 
 |![onepay](https://static.openfintech.io/payment_providers/onepay/logo.png?w=600&c=v0.59.26#w100) |[**OnePAY**](onepay/)|`onepay`| 

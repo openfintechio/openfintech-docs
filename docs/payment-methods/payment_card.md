@@ -724,6 +724,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![qorepayments](https://static.openfintech.io/payment_providers/qorepayments/icon.svg?w=278&c=v0.59.26#w100) |[QorePayments](/payment-providers/qorepayments/)|`qorepayments`| 
 |![crossbill](https://static.openfintech.io/payment_providers/crossbill/icon.png?w=278&c=v0.59.26#w100) |[Crossbill](/payment-providers/crossbill/)|`crossbill`| 
 |![mintcash](https://static.openfintech.io/payment_providers/mintcash/icon.png?w=278&c=v0.59.26#w100) |[MintCash](/payment-providers/mintcash/)|`mintcash`| 
+|![omnikeea](https://static.openfintech.io/payment_providers/omnikeea/icon.png?w=278&c=v0.59.26#w100) |[Omnikeea](/payment-providers/omnikeea/)|`omnikeea`| 
 |![arapay](https://static.openfintech.io/payment_providers/arapay/icon.svg?w=278&c=v0.59.26#w100) |[AraPay](/payment-providers/arapay/)|`arapay`| 
 |![streampayments](https://static.openfintech.io/payment_providers/streampayments/icon.png?w=278&c=v0.59.26#w100) |[StreamPayments](/payment-providers/streampayments/)|`streampayments`| 
 |![gigibit](https://static.openfintech.io/payment_providers/gigibit/icon.svg?w=278&c=v0.59.26#w100) |[GigiBit](/payment-providers/gigibit/)|`gigibit`| 

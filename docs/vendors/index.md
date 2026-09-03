@@ -1465,6 +1465,7 @@
 |![okto](https://static.openfintech.io/vendors/okto/logo.svg?w=600&c=v0.59.26#w200) |[**OKTO**](okto/)|`okto`| 
 |![olpays](https://static.openfintech.io/vendors/olpays/logo.png?w=600&c=v0.59.26#w200) |[**Olpays**](olpays/)|`olpays`| 
 |![ombaug](https://static.openfintech.io/vendors/ombaug/logo.png?w=600&c=v0.59.26#w200) |[**omba**](ombaug/)|`ombaug`| 
+|![omnikeea](https://static.openfintech.io/vendors/omnikeea/logo.png?w=600&c=v0.59.26#w200) |[**Omnikeea**](omnikeea/)|`omnikeea`| 
 |![omnipayment](https://static.openfintech.io/vendors/omnipayment/logo.png?w=600&c=v0.59.26#w200) |[**OmniPayment**](omnipayment/)|`omnipayment`| 
 |![omno](https://static.openfintech.io/vendors/omno/logo.png?w=600&c=v0.59.26#w200) |[**OMNO**](omno/)|`omno`| 
 |![onecard](https://static.openfintech.io/vendors/onecard/logo.png?w=600&c=v0.59.26#w200) |[**OneCard**](onecard/)|`onecard`| 
