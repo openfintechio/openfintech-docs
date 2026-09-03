@@ -114,6 +114,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Apple Pay
 |![ukrgasbank](https://static.openfintech.io/payment_providers/ukrgasbank/icon.png?w=278&c=v0.59.26#w100) |[Ukrgasbank](/payment-providers/ukrgasbank/)|`ukrgasbank`| 
 |![gumballpay](https://static.openfintech.io/payment_providers/gumballpay/icon.png?w=278&c=v0.59.26#w100) |[Finera](/payment-providers/gumballpay/)|`gumballpay`| 
 |![solidgate](https://static.openfintech.io/payment_providers/solidgate/icon.svg?w=278&c=v0.59.26#w100) |[Solidgate](/payment-providers/solidgate/)|`solidgate`| 
+|![ikajo](https://static.openfintech.io/payment_providers/ikajo/icon.svg?w=278&c=v0.59.26#w100) |[Ikajo](/payment-providers/ikajo/)|`ikajo`| 
 |![paysoftsolutions](https://static.openfintech.io/payment_providers/paysoftsolutions/icon.png?w=278&c=v0.59.26#w100) |[PaySoft Solutions](/payment-providers/paysoftsolutions/)|`paysoftsolutions`| 
 |![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
 |![justipay](https://static.openfintech.io/payment_providers/justipay/icon.png?w=278&c=v0.59.26#w100) |[Justipay](/payment-providers/justipay/)|`justipay`| 
