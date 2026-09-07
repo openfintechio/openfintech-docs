@@ -403,6 +403,7 @@
 |![faster_payments](https://static.openfintech.io/payment_methods/faster_payments/logo.svg?w=400&c=v0.59.26#w200) |[**Faster Payments**](faster_payments/)|`faster_payments`| 
 |![fawry_crypto](https://static.openfintech.io/payment_methods/fawry_crypto/logo.png?w=400&c=v0.59.26#w200) |[**Fawry**](fawry_crypto/)|`fawry_crypto`| 
 |![federal_bank_india](https://static.openfintech.io/payment_methods/federal_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Federal Bank of India**](federal_bank_india/)|`federal_bank_india`| 
+|![fintoc](https://static.openfintech.io/payment_methods/fintoc/logo.svg?w=400&c=v0.59.26#w200) |[**Fintoc**](fintoc/)|`fintoc`| 
 |![flexepinemoneyvouchers](https://static.openfintech.io/payment_methods/flexepinemoneyvouchers/logo.png?w=400&c=v0.59.26#w200) |[**Flexepin**](flexepinemoneyvouchers/)|`flexepinemoneyvouchers`| 
 |![forexbank](https://static.openfintech.io/payment_methods/forexbank/logo.png?w=400&c=v0.59.26#w200) |[**Forex Bank**](forexbank/)|`forexbank`| 
 |![fpx](https://static.openfintech.io/payment_methods/fpx/logo.svg?w=400&c=v0.59.26#w200) |[**FPX**](fpx/)|`fpx`| 
