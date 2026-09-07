@@ -2095,6 +2095,7 @@
 |![simplex](https://static.openfintech.io/vendors/simplex/logo.png?w=600&c=v0.59.26#w200) |[**Simplex**](simplex/)|`simplex`| 
 |![simplifycommerce](https://static.openfintech.io/vendors/simplifycommerce/logo.png?w=600&c=v0.59.26#w200) |[**Simplify Commerce**](simplifycommerce/)|`simplifycommerce`| 
 |![siquro](https://static.openfintech.io/vendors/siquro/logo.png?w=600&c=v0.59.26#w200) |[**Siquro**](siquro/)|`siquro`| 
+|![siquronew](https://static.openfintech.io/vendors/siquronew/logo.png?w=600&c=v0.59.26#w200) |[**Siquro New**](siquronew/)|`siquronew`| 
 |![sirpaga](https://static.openfintech.io/vendors/sirpaga/logo.png?w=600&c=v0.59.26#w200) |[**Sirpaga**](sirpaga/)|`sirpaga`| 
 |![sirumobile](https://static.openfintech.io/vendors/sirumobile/logo.png?w=600&c=v0.59.26#w200) |[**Siru Mobile**](sirumobile/)|`sirumobile`| 
 |![sisow](https://static.openfintech.io/vendors/sisow/logo.png?w=600&c=v0.59.26#w200) |[**Sisow**](sisow/)|`sisow`| 

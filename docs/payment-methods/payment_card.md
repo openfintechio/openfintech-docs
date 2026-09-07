@@ -548,6 +548,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![cpay](https://static.openfintech.io/payment_providers/cpay/icon.png?w=278&c=v0.59.26#w100) |[C.Pay](/payment-providers/cpay/)|`cpay`| 
 |![techtopay](https://static.openfintech.io/payment_providers/techtopay/icon.png?w=278&c=v0.59.26#w100) |[TechToPay](/payment-providers/techtopay/)|`techtopay`| 
 |![siquro](https://static.openfintech.io/payment_providers/siquro/icon.png?w=278&c=v0.59.26#w100) |[Siquro](/payment-providers/siquro/)|`siquro`| 
+|![siquronew](https://static.openfintech.io/payment_providers/siquronew/icon.png?w=278&c=v0.59.26#w100) |[Siquro New](/payment-providers/siquronew/)|`siquronew`| 
 |![paysecure](https://static.openfintech.io/payment_providers/paysecure/icon.png?w=278&c=v0.59.26#w100) |[Paysecure](/payment-providers/paysecure/)|`paysecure`| 
 |![paylinkio](https://static.openfintech.io/payment_providers/paylinkio/icon.png?w=278&c=v0.59.26#w100) |[Paylinkio](/payment-providers/paylinkio/)|`paylinkio`| 
 |![btgate](https://static.openfintech.io/payment_providers/btgate/icon.png?w=278&c=v0.59.26#w100) |[btGate](/payment-providers/btgate/)|`btgate`| 

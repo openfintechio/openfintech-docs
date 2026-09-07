@@ -999,6 +999,7 @@
 |![simplepay](https://static.openfintech.io/payment_providers/simplepay/logo.png?w=600&c=v0.59.26#w100) |[**SimplePay**](simplepay/)|`simplepay`| 
 |![simplifycommerce](https://static.openfintech.io/payment_providers/simplifycommerce/logo.png?w=600&c=v0.59.26#w100) |[**Simplify Commerce**](simplifycommerce/)|`simplifycommerce`| 
 |![siquro](https://static.openfintech.io/payment_providers/siquro/logo.png?w=600&c=v0.59.26#w100) |[**Siquro**](siquro/)|`siquro`| 
+|![siquronew](https://static.openfintech.io/payment_providers/siquronew/logo.png?w=600&c=v0.59.26#w100) |[**Siquro New**](siquronew/)|`siquronew`| 
 |![sirpaga](https://static.openfintech.io/payment_providers/sirpaga/logo.png?w=600&c=v0.59.26#w100) |[**Sirpaga**](sirpaga/)|`sirpaga`| 
 |![sirumobile](https://static.openfintech.io/payment_providers/sirumobile/logo.png?w=600&c=v0.59.26#w100) |[**Siru Mobile**](sirumobile/)|`sirumobile`| 
 |![sisow](https://static.openfintech.io/payment_providers/sisow/logo.png?w=600&c=v0.59.26#w100) |[**Sisow**](sisow/)|`sisow`| 
