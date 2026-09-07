@@ -39,6 +39,15 @@ The list of [Payment Services](/payment-services/) based on the _Fintoc_
 |![fintoc](https://static.openfintech.io/payment_methods/fintoc/icon.svg?w=278&c=v0.59.26#w100) |[fintoc_clp_hpp](/payment-services/fintoc_clp_hpp/)|`fintoc_clp_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Fintoc_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![payretailers](https://static.openfintech.io/payment_providers/payretailers/icon.svg?w=278&c=v0.59.26#w100) |[PayRetailers](/payment-providers/payretailers/)|`payretailers`| 
+ 
+
 ## JSON Object 
 
 ```json

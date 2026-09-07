@@ -115,6 +115,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![tigo](https://static.openfintech.io/payment_methods/tigo/icon.png?w=278&c=v0.59.26#w100) |[tigo](/payment-methods/tigo/)|`tigo`| 
 |![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money](/payment-methods/airtel_money/)|`airtel_money`| 
 |![bank_transfer](https://static.openfintech.io/payment_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer](/payment-methods/bank_transfer/)|`bank_transfer`| 
+|![fintoc](https://static.openfintech.io/payment_methods/fintoc/icon.svg?w=278&c=v0.59.26#w100) |[fintoc](/payment-methods/fintoc/)|`fintoc`| 
 |![cash](https://static.openfintech.io/payment_methods/cash/icon.png?w=278&c=v0.59.26#w100) |[cash](/payment-methods/cash/)|`cash`| 
  
 
@@ -213,6 +214,7 @@ The list of supported [Payout Methods](/payout-methods/)
     "tigo",
     "airtel_money",
     "bank_transfer",
+    "fintoc",
     "cash"
   ],
   "payout_method":[
