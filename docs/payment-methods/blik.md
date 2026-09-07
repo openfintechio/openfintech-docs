@@ -67,6 +67,7 @@ The list of [Payment Providers](/payment-providers/) that support the _BLIK_
 |![convergegate](https://static.openfintech.io/payment_providers/convergegate/icon.svg?w=278&c=v0.59.26#w100) |[Converge Gate](/payment-providers/convergegate/)|`convergegate`| 
 |![gatetwoway](https://static.openfintech.io/payment_providers/gatetwoway/icon.svg?w=278&c=v0.59.26#w100) |[Gate2way](/payment-providers/gatetwoway/)|`gatetwoway`| 
 |![cashbulls](https://static.openfintech.io/payment_providers/cashbulls/icon.png?w=278&c=v0.59.26#w100) |[Cash Bulls](/payment-providers/cashbulls/)|`cashbulls`| 
+|![paydex](https://static.openfintech.io/payment_providers/paydex/icon.svg?w=278&c=v0.59.26#w100) |[Paydex](/payment-providers/paydex/)|`paydex`| 
 |![pionpay](https://static.openfintech.io/payment_providers/pionpay/icon.png?w=278&c=v0.59.26#w100) |[PionPay](/payment-providers/pionpay/)|`pionpay`| 
 |![katarun](https://static.openfintech.io/payment_providers/katarun/icon.png?w=278&c=v0.59.26#w100) |[Katarun](/payment-providers/katarun/)|`katarun`| 
 |![betterbro](https://static.openfintech.io/payment_providers/betterbro/icon.png?w=278&c=v0.59.26#w100) |[Betterbro](/payment-providers/betterbro/)|`betterbro`| 

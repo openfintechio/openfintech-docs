@@ -52,6 +52,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Binance P
 |![geopaynet](https://static.openfintech.io/payment_providers/geopaynet/icon.svg?w=278&c=v0.59.26#w100) |[GEO Pay](/payment-providers/geopaynet/)|`geopaynet`| 
 |![spoynt](https://static.openfintech.io/payment_providers/spoynt/icon.svg?w=278&c=v0.59.26#w100) |[Spoynt](/payment-providers/spoynt/)|`spoynt`| 
 |![payelata](https://static.openfintech.io/payment_providers/payelata/icon.svg?w=278&c=v0.59.26#w100) |[Payelata](/payment-providers/payelata/)|`payelata`| 
+|![paydex](https://static.openfintech.io/payment_providers/paydex/icon.svg?w=278&c=v0.59.26#w100) |[Paydex](/payment-providers/paydex/)|`paydex`| 
 |![betterbro](https://static.openfintech.io/payment_providers/betterbro/icon.png?w=278&c=v0.59.26#w100) |[Betterbro](/payment-providers/betterbro/)|`betterbro`| 
 |![aeteredge](https://static.openfintech.io/payment_providers/aeteredge/icon.svg?w=278&c=v0.59.26#w100) |[AeterEdge](/payment-providers/aeteredge/)|`aeteredge`| 
  

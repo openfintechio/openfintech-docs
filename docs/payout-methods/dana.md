@@ -50,6 +50,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Dana_
 |![decard](https://static.openfintech.io/payment_providers/decard/icon.svg?w=278&c=v0.59.26#w100) |[Decard](/payment-providers/decard/)|`decard`| 
 |![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
+|![paydex](https://static.openfintech.io/payment_providers/paydex/icon.svg?w=278&c=v0.59.26#w100) |[Paydex](/payment-providers/paydex/)|`paydex`| 
 |![payok](https://static.openfintech.io/payment_providers/payok/icon.png?w=278&c=v0.59.26#w100) |[Payok](/payment-providers/payok/)|`payok`| 
 |![aeteredge](https://static.openfintech.io/payment_providers/aeteredge/icon.svg?w=278&c=v0.59.26#w100) |[AeterEdge](/payment-providers/aeteredge/)|`aeteredge`| 
 |![spayz](https://static.openfintech.io/payment_providers/spayz/icon.svg?w=278&c=v0.59.26#w100) |[SPAYZ.io](/payment-providers/spayz/)|`spayz`| 

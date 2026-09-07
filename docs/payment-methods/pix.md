@@ -71,6 +71,7 @@ The list of [Payment Providers](/payment-providers/) that support the _PIX_
 |![starpago](https://static.openfintech.io/payment_providers/starpago/icon.png?w=278&c=v0.59.26#w100) |[Starpago](/payment-providers/starpago/)|`starpago`| 
 |![pagsmile](https://static.openfintech.io/payment_providers/pagsmile/icon.png?w=278&c=v0.59.26#w100) |[Pagsmile](/payment-providers/pagsmile/)|`pagsmile`| 
 |![exxogate](https://static.openfintech.io/payment_providers/exxogate/icon.svg?w=278&c=v0.59.26#w100) |[Exxogate](/payment-providers/exxogate/)|`exxogate`| 
+|![paydex](https://static.openfintech.io/payment_providers/paydex/icon.svg?w=278&c=v0.59.26#w100) |[Paydex](/payment-providers/paydex/)|`paydex`| 
 |![paysecure](https://static.openfintech.io/payment_providers/paysecure/icon.png?w=278&c=v0.59.26#w100) |[Paysecure](/payment-providers/paysecure/)|`paysecure`| 
 |![pay4fungo](https://static.openfintech.io/payment_providers/pay4fungo/icon.png?w=278&c=v0.59.26#w100) |[Pay4funGo](/payment-providers/pay4fungo/)|`pay4fungo`| 
 |![anspacepay](https://static.openfintech.io/payment_providers/anspacepay/icon.png?w=278&c=v0.59.26#w100) |[AnSpacePay](/payment-providers/anspacepay/)|`anspacepay`| 
