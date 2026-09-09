@@ -622,6 +622,7 @@
 |![mytu](https://static.openfintech.io/payment_providers/mytu/logo.svg?w=600&c=v0.59.26#w100) |[**myTU**](mytu/)|`mytu`| 
 || **N** ||
 |![nagad](https://static.openfintech.io/payment_providers/nagad/logo.png?w=600&c=v0.59.26#w100) |[**Nagad**](nagad/)|`nagad`| 
+|![napoleonpay](https://static.openfintech.io/payment_providers/napoleonpay/logo.png?w=600&c=v0.59.26#w100) |[**NapoleonPay**](napoleonpay/)|`napoleonpay`| 
 |![nationalach](https://static.openfintech.io/payment_providers/nationalach/logo.png?w=600&c=v0.59.26#w100) |[**NationalACH**](nationalach/)|`nationalach`| 
 |![nayem](https://static.openfintech.io/payment_providers/nayem/logo.png?w=600&c=v0.59.26#w100) |[**Nayem**](nayem/)|`nayem`| 
 |![nebeus](https://static.openfintech.io/payment_providers/nebeus/logo.svg?w=600&c=v0.59.26#w100) |[**Nebeus**](nebeus/)|`nebeus`| 
