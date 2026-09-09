@@ -96,6 +96,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card tran
 |![btqfinance](https://static.openfintech.io/payment_providers/btqfinance/icon.png?w=278&c=v0.59.26#w100) |[BTQ Finance](/payment-providers/btqfinance/)|`btqfinance`| 
 |![cashix](https://static.openfintech.io/payment_providers/cashix/icon.png?w=278&c=v0.59.26#w100) |[Cashix](/payment-providers/cashix/)|`cashix`| 
 |![platcore](https://static.openfintech.io/payment_providers/platcore/icon.png?w=278&c=v0.59.26#w100) |[Platcore](/payment-providers/platcore/)|`platcore`| 
+|![safegatepayments](https://static.openfintech.io/payment_providers/safegatepayments/icon.png?w=278&c=v0.59.26#w100) |[SafeGate Payments](/payment-providers/safegatepayments/)|`safegatepayments`| 
 |![upay](https://static.openfintech.io/payment_providers/upay/icon.png?w=278&c=v0.59.26#w100) |[UPay](/payment-providers/upay/)|`upay`| 
 |![arapay](https://static.openfintech.io/payment_providers/arapay/icon.svg?w=278&c=v0.59.26#w100) |[AraPay](/payment-providers/arapay/)|`arapay`| 
  

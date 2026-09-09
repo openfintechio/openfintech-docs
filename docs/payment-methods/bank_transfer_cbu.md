@@ -35,6 +35,7 @@ The list of [Payment Services](/payment-services/) based on the _Bank Transfer C
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![bank_transfer_cbu](https://static.openfintech.io/payment_methods/bank_transfer_cbu/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_cbu_ars_hpp](/payment-services/bank_transfer_cbu_ars_hpp/)|`bank_transfer_cbu_ars_hpp`| 
+|![bank_transfer_cbu](https://static.openfintech.io/payment_methods/bank_transfer_cbu/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_cbu_ars_invoice](/payment-services/bank_transfer_cbu_ars_invoice/)|`bank_transfer_cbu_ars_invoice`| 
  
 
 ## Payment Providers 
@@ -44,6 +45,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |Icon|Name|Code| 
 |:---:|:---:|:---:| 
 |![payplanet](https://static.openfintech.io/payment_providers/payplanet/icon.svg?w=278&c=v0.59.26#w100) |[PayPlanet](/payment-providers/payplanet/)|`payplanet`| 
+|![safegatepayments](https://static.openfintech.io/payment_providers/safegatepayments/icon.png?w=278&c=v0.59.26#w100) |[SafeGate Payments](/payment-providers/safegatepayments/)|`safegatepayments`| 
  
 
 ## JSON Object 
