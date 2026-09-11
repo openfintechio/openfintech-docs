@@ -19,7 +19,7 @@
  
 **Countries:** 
  
-:	![CZ](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/cz.svg#w24) 	![SK](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/sk.svg#w24)  
+:	![CZ](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/cz.svg#w24) 	![SK](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/sk.svg#w24) 	![DE](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/de.svg#w24) 	![AT](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/at.svg#w24) 	![CH](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ch.svg#w24)  
 
 ## Images 
 
@@ -37,6 +37,15 @@ https://static.openfintech.io/payment_methods/volksbank/logo.png?w=400&c=v0.59.2
 https://static.openfintech.io/payment_methods/volksbank/icon.png?w=278&c=v0.59.26#w100
 ```  
 
+## Payment Services 
+ 
+The list of [Payment Services](/payment-services/) based on the _Volksbank_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![volksbank](https://static.openfintech.io/payment_methods/volksbank/icon.png?w=278&c=v0.59.26#w100) |[volksbank_eur_hpp](/payment-services/volksbank_eur_hpp/)|`volksbank_eur_hpp`| 
+ 
+
 ## Payment Providers 
  
 The list of [Payment Providers](/payment-providers/) that support the _Volksbank_ 
@@ -49,6 +58,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Volksbank
 |![payzoff](https://static.openfintech.io/payment_providers/payzoff/icon.png?w=278&c=v0.59.26#w100) |[Payzoff](/payment-providers/payzoff/)|`payzoff`| 
 |![adyen](https://static.openfintech.io/payment_providers/adyen/icon.svg?w=278&c=v0.59.26#w100) |[Adyen](/payment-providers/adyen/)|`adyen`| 
 |![kingpaypayments](https://static.openfintech.io/payment_providers/kingpaypayments/icon.png?w=278&c=v0.59.26#w100) |[KingPay](/payment-providers/kingpaypayments/)|`kingpaypayments`| 
+|![payadmit](https://static.openfintech.io/payment_providers/payadmit/icon.svg?w=278&c=v0.59.26#w100) |[Payadmit](/payment-providers/payadmit/)|`payadmit`| 
  
 
 ## JSON Object 
@@ -65,7 +75,10 @@ The list of [Payment Providers](/payment-providers/) that support the _Volksbank
   },
   "countries":[
     "CZ",
-    "SK"
+    "SK",
+    "DE",
+    "AT",
+    "CH"
   ],
   "category":"online_banking"
 }

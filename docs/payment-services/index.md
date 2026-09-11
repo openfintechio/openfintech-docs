@@ -2043,6 +2043,7 @@
 |![Solana](https://static.openfintech.io/payment_methods/solana/logo.svg?w=400&c=v0.59.26#w200) |[**Solana**](/payment-methods/solana/)|[`solana_usd_hpp`](solana_usd_hpp/)| 
 |![Soriana](https://static.openfintech.io/payment_methods/soriana_cash/logo.png?w=400&c=v0.59.26#w200) |[**Soriana**](/payment-methods/soriana_cash/)|[`soriana_cash_mxn_hpp`](soriana_cash_mxn_hpp/)| 
 |![South Indian Bank](https://static.openfintech.io/payment_methods/south_indian_bank/logo.png?w=400&c=v0.59.26#w200) |[**South Indian Bank**](/payment-methods/south_indian_bank/)|[`south_indian_bank_inr_hpp`](south_indian_bank_inr_hpp/)| 
+|![Sparkasse](https://static.openfintech.io/payment_methods/sparkasse/logo.png?w=400&c=v0.59.26#w200) |[**Sparkasse**](/payment-methods/sparkasse/)|[`sparkasse_eur_hpp`](sparkasse_eur_hpp/)| 
 |![The Surat Peoples Co-Operative Bank Limited](https://static.openfintech.io/payment_methods/spcbl/logo.png?w=400&c=v0.59.26#w200) |[**The Surat Peoples Co-Operative Bank Limited**](/payment-methods/spcbl/)|[`spcbl_inr_hpp`](spcbl_inr_hpp/)| 
 |![SPEI](https://static.openfintech.io/payment_methods/spei/logo.svg?w=400&c=v0.59.26#w200) |[**SPEI**](/payment-methods/spei/)|[`spei_mxn_hpp`](spei_mxn_hpp/)| 
 |![SPEI](https://static.openfintech.io/payment_methods/spei/logo.svg?w=400&c=v0.59.26#w200) |[**SPEI**](/payment-methods/spei/)|[`spei_mxn_invoice`](spei_mxn_invoice/)| 
@@ -2340,6 +2341,7 @@
 |![Vodafone Pay](https://static.openfintech.io/payment_methods/vodafone_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Vodafone Pay**](/payment-methods/vodafone_pay/)|[`vodafone_pay_ghs_hpp`](vodafone_pay_ghs_hpp/)| 
 |![Vodafone Pay](https://static.openfintech.io/payment_methods/vodafone_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Vodafone Pay**](/payment-methods/vodafone_pay/)|[`vodafone_pay_ghs_invoice`](vodafone_pay_ghs_invoice/)| 
 |![Vodafone Pay](https://static.openfintech.io/payment_methods/vodafone_pay/logo.svg?w=400&c=v0.59.26#w200) |[**Vodafone Pay**](/payment-methods/vodafone_pay/)|[`vodafone_pay_tzs_hpp`](vodafone_pay_tzs_hpp/)| 
+|![Volksbank](https://static.openfintech.io/payment_methods/volksbank/logo.png?w=400&c=v0.59.26#w200) |[**Volksbank**](/payment-methods/volksbank/)|[`volksbank_eur_hpp`](volksbank_eur_hpp/)| 
 |![Vietnam Prosperity Joint‑Stock Commercial Bank Qr](https://static.openfintech.io/payment_methods/vp_bank_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Vietnam Prosperity Joint‑Stock Commercial Bank Qr**](/payment-methods/vp_bank_qr/)|[`vp_bank_qr_vnd_invoice`](vp_bank_qr_vnd_invoice/)| 
 |![Vietnam Prosperity Joint‑Stock Commercial Bank](https://static.openfintech.io/payment_methods/vp_bank/logo.png?w=400&c=v0.59.26#w200) |[**Vietnam Prosperity Joint‑Stock Commercial Bank**](/payment-methods/vp_bank/)|[`vp_bank_vnd_hpp`](vp_bank_vnd_hpp/)| 
 |![Vietnam - Russia Joint Venture Bank](https://static.openfintech.io/payment_methods/vrb_bank/logo.png?w=400&c=v0.59.26#w200) |[**Vietnam - Russia Joint Venture Bank**](/payment-methods/vrb_bank/)|[`vrb_bank_vnd_hpp`](vrb_bank_vnd_hpp/)| 
