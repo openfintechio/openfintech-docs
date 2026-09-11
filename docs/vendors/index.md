@@ -1914,6 +1914,7 @@
 |![presto](https://static.openfintech.io/vendors/presto/logo.png?w=600&c=v0.59.26#w200) |[**Presto**](presto/)|`presto`| 
 |![prima_master_bank](https://static.openfintech.io/vendors/prima_master_bank/logo.svg?w=600&c=v0.59.26#w200) |[**PRIMA MASTER BANK**](prima_master_bank/)|`prima_master_bank`| 
 |![primabanka](https://static.openfintech.io/vendors/primabanka/logo.png?w=600&c=v0.59.26#w200) |[**Prima Banka**](primabanka/)|`primabanka`| 
+|![prime](https://static.openfintech.io/vendors/prime/logo.png?w=600&c=v0.59.26#w200) |[**Prime**](prime/)|`prime`| 
 |![primeiropay](https://static.openfintech.io/vendors/primeiropay/logo.png?w=600&c=v0.59.26#w200) |[**PrimeiroPay**](primeiropay/)|`primeiropay`| 
 |![prismpay](https://static.openfintech.io/vendors/prismpay/logo.png?w=600&c=v0.59.26#w200) |[**Prismpay**](prismpay/)|`prismpay`| 
 |![privat_bank](https://static.openfintech.io/vendors/privat_bank/logo.svg?w=600&c=v0.59.26#w200) |[**Приват банк**](privat_bank/)|`privat_bank`| 

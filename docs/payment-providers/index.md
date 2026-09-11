@@ -901,6 +901,7 @@
 |![powerpay21](https://static.openfintech.io/payment_providers/powerpay21/logo.png?w=600&c=v0.59.26#w100) |[**powerpay21**](powerpay21/)|`powerpay21`| 
 |![ppro](https://static.openfintech.io/payment_providers/ppro/logo.svg?w=600&c=v0.59.26#w100) |[**PPRO**](ppro/)|`ppro`| 
 |![praxispay](https://static.openfintech.io/payment_providers/praxispay/logo.png?w=600&c=v0.59.26#w100) |[**Praxispay**](praxispay/)|`praxispay`| 
+|![prime](https://static.openfintech.io/payment_providers/prime/logo.png?w=600&c=v0.59.26#w100) |[**Prime**](prime/)|`prime`| 
 |![primeiropay](https://static.openfintech.io/payment_providers/primeiropay/logo.png?w=600&c=v0.59.26#w100) |[**PrimeiroPay**](primeiropay/)|`primeiropay`| 
 |![prismpay](https://static.openfintech.io/payment_providers/prismpay/logo.png?w=600&c=v0.59.26#w100) |[**Prismpay**](prismpay/)|`prismpay`| 
 |![prmoney](https://static.openfintech.io/payment_providers/prmoney/logo.png?w=600&c=v0.59.26#w100) |[**PrMoney**](prmoney/)|`prmoney`| 
