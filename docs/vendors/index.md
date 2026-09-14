@@ -2123,6 +2123,7 @@
 |![smashpay](https://static.openfintech.io/vendors/smashpay/logo.png?w=600&c=v0.59.26#w200) |[**SmashPay**](smashpay/)|`smashpay`| 
 |![smbc_trust_bank](https://static.openfintech.io/vendors/smbc_trust_bank/logo.svg?w=600&c=v0.59.26#w200) |[**SMBC Trust Bank**](smbc_trust_bank/)|`smbc_trust_bank`| 
 |![smilepayments](https://static.openfintech.io/vendors/smilepayments/logo.png?w=600&c=v0.59.26#w200) |[**Smile Payments**](smilepayments/)|`smilepayments`| 
+|![smilepayz](https://static.openfintech.io/vendors/smilepayz/logo.png?w=600&c=v0.59.26#w200) |[**Smilepayz**](smilepayz/)|`smilepayz`| 
 |![smpbank](https://static.openfintech.io/vendors/smpbank/logo.svg?w=600&c=v0.59.26#w200) |[**СМП банк**](smpbank/)|`smpbank`| 
 |![smsbilling](https://static.openfintech.io/vendors/smsbilling/logo.png?w=600&c=v0.59.26#w200) |[**SMS Billing**](smsbilling/)|`smsbilling`| 
 |![sobini](https://static.openfintech.io/vendors/sobini/logo.svg?w=600&c=v0.59.26#w200) |[**Sobini**](sobini/)|`sobini`| 

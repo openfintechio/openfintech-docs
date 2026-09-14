@@ -24,6 +24,8 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
+|`beneficiary_full_name`|✗|`string`|`/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/`| 
+|`cci_key`|✗|`string`|`/^[0-9]{20}$/`| 
 |`account_number`|✗|`string`|`/^[0-9]{5,100}$/`| 
 |`beneficiary_name`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
 |`beneficiary_lastname`|✗|`string`|`/^[A-Z\-\sa-z]{2,100}$/`| 
@@ -51,7 +53,43 @@
 
 ### Details 
  
-1. **`account_number`** 
+1. **`beneficiary_full_name`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[A-Za-zА-Яа-я\-\d\s]{2,100}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Beneficiary full name 
+	: [RU] Полное имя получателя 
+	: [UK] Повне імʼя отримувача 
+ 
+	Hint:  
+	: [EN] Enter beneficiary full name 
+	: [RU] Введите полное имя получателя 
+	: [UK] Введіть повне імʼя отримувача 
+ 
+2. **`cci_key`** 
+ 
+	Type: `string` 
+ 
+	Regexp: `/^[0-9]{20}$/` 
+ 
+	Required: `` 
+ 
+	Label:  
+	: [EN] Cci key 
+	: [RU] Cci ключ 
+	: [UK] Cci ключ 
+ 
+	Hint:  
+	: [EN] Enter Cci Key 
+	: [RU] Введите Cci ключ 
+	: [UK] Введіть Cci ключ 
+ 
+3. **`account_number`** 
  
 	Type: `string` 
  
@@ -69,7 +107,7 @@
 	: [RU] Введите номер счёта 
 	: [UK] Введіть номер рахунку 
  
-2. **`beneficiary_name`** 
+4. **`beneficiary_name`** 
  
 	Type: `string` 
  
@@ -87,7 +125,7 @@
 	: [RU] Введите имя получателя 
 	: [UK] Введіть імʼя отримувача 
  
-3. **`beneficiary_lastname`** 
+5. **`beneficiary_lastname`** 
  
 	Type: `string` 
  
@@ -105,7 +143,7 @@
 	: [RU] Введите фамилию получателя 
 	: [UK] Введіть прізвище отримувача 
  
-4. **`beneficiary_document_id`** 
+6. **`beneficiary_document_id`** 
  
 	Type: `string` 
  
@@ -123,7 +161,7 @@
 	: [RU] Введите номер документа получателя 
 	: [UK] Введіть номер документу отримувача 
  
-5. **`bank_code`** 
+7. **`bank_code`** 
  
 	Type: `string` 
  
@@ -141,7 +179,7 @@
 	: [RU] Введите код банка 
 	: [UK] Введіть код банку 
  
-6. **`document_type`** 
+8. **`document_type`** 
  
 	Type: `string` 
  
@@ -159,7 +197,7 @@
 	: [RU] Введите тип документа 
 	: [UK] Введіть тип документу 
  
-7. **`account_type`** 
+9. **`account_type`** 
  
 	Type: `string` 
  
@@ -177,7 +215,7 @@
 	: [RU] Введите тип аккаунта 
 	: [UK] Введіть тип акаунту 
  
-8. **`beneficiary_email`** 
+10. **`beneficiary_email`** 
  
 	Type: `string` 
  
@@ -195,7 +233,7 @@
 	: [RU] Введите Email 
 	: [UK] Введіть Email 
  
-9. **`beneficiary_phone`** 
+11. **`beneficiary_phone`** 
  
 	Type: `string` 
  
@@ -213,7 +251,7 @@
 	: [RU] Введите номер телефона 
 	: [UK] Введіть номер телефону 
  
-10. **`beneficiary_dob`** 
+12. **`beneficiary_dob`** 
  
 	Type: `string` 
  
@@ -231,7 +269,7 @@
 	: [RU] Введите дату рождения 
 	: [UK] Введіть дату народження 
  
-11. **`beneficiary_city`** 
+13. **`beneficiary_city`** 
  
 	Type: `string` 
  
@@ -249,7 +287,7 @@
 	: [RU] Enter city 
 	: [UK] Enter city 
  
-12. **`beneficiary_postcode`** 
+14. **`beneficiary_postcode`** 
  
 	Type: `string` 
  
@@ -267,7 +305,7 @@
 	: [RU] Enter postcode 
 	: [UK] Enter postcode 
  
-13. **`beneficiary_country_code_iso`** 
+15. **`beneficiary_country_code_iso`** 
  
 	Type: `string` 
  
@@ -285,7 +323,7 @@
 	: [RU] Введите beneficiary country code 
 	: [UK] Введіть beneficiary country code 
  
-14. **`beneficiary_address`** 
+16. **`beneficiary_address`** 
  
 	Type: `string` 
  
@@ -303,7 +341,7 @@
 	: [RU] Enter address 
 	: [UK] Enter address 
  
-15. **`bank_branch`** 
+17. **`bank_branch`** 
  
 	Type: `string` 
  
@@ -321,7 +359,7 @@
 	: [RU] Введите Bank Branch 
 	: [UK] Введіть Bank Branch 
  
-16. **`bank_account`** 
+18. **`bank_account`** 
  
 	Type: `string` 
  
@@ -339,7 +377,7 @@
 	: [RU] Введите номер банковского счета 
 	: [UK] Введіть номер банківського рахунку 
  
-17. **`sender_full_name`** 
+19. **`sender_full_name`** 
  
 	Type: `string` 
  
@@ -357,7 +395,7 @@
 	: [RU] Введите полное имя отправителя 
 	: [UK] Введіть повне імʼя відправкника 
  
-18. **`document_type`** 
+20. **`document_type`** 
  
 	Type: `string` 
  
@@ -375,7 +413,7 @@
 	: [RU] Введите тип документа 
 	: [UK] Введіть тип документу 
  
-19. **`document_id`** 
+21. **`document_id`** 
  
 	Type: `string` 
  
@@ -393,7 +431,7 @@
 	: [RU] Введите номер документа получателя 
 	: [UK] Введіть номер документа отримувача 
  
-20. **`bank_account_type`** 
+22. **`bank_account_type`** 
  
 	Type: `string` 
  
@@ -411,7 +449,7 @@
 	: [RU] Введите тип банковского аккаунта получателя 
 	: [UK] Введіть тип банковського облікового запису отримувача 
  
-21. **`bank_name`** 
+23. **`bank_name`** 
  
 	Type: `string` 
  
@@ -429,7 +467,7 @@
 	: [RU] Введите название банка получателя 
 	: [UK] Введіть назву банку одержувача 
  
-22. **`document_number`** 
+24. **`document_number`** 
  
 	Type: `string` 
  
@@ -447,7 +485,7 @@
 	: [RU] Введите номер документа 
 	: [UK] Введіть номер документу 
  
-23. **`bank_account_number`** 
+25. **`bank_account_number`** 
  
 	Type: `string` 
  
@@ -474,6 +512,40 @@
   "method":"bank_transfer",
   "currency":"PEN",
   "fields":[
+    {
+      "key":"beneficiary_full_name",
+      "type":"string",
+      "regexp":"\/^[A-Za-z\u0410-\u042f\u0430-\u044f\\-\\d\\s]{2,100}$\/",
+      "required":false,
+      "position":19,
+      "label":{
+        "en":"Beneficiary full name",
+        "ru":"\u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u041f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      },
+      "hint":{
+        "en":"Enter beneficiary full name",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u0435\u043b\u044f",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043f\u043e\u0432\u043d\u0435 \u0456\u043c\u02bc\u044f \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0447\u0430"
+      }
+    },
+    {
+      "key":"cci_key",
+      "type":"string",
+      "regexp":"\/^[0-9]{20}$\/",
+      "required":false,
+      "position":20,
+      "label":{
+        "en":"Cci key",
+        "ru":"Cci \u043a\u043b\u044e\u0447",
+        "uk":"Cci \u043a\u043b\u044e\u0447"
+      },
+      "hint":{
+        "en":"Enter Cci Key",
+        "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 Cci \u043a\u043b\u044e\u0447",
+        "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c Cci \u043a\u043b\u044e\u0447"
+      }
+    },
     {
       "key":"account_number",
       "type":"string",

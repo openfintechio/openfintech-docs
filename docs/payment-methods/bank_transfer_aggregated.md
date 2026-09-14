@@ -86,6 +86,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |![kasha](https://static.openfintech.io/payment_providers/kasha/icon.png?w=278&c=v0.59.26#w100) |[Kasha](/payment-providers/kasha/)|`kasha`| 
 |![cyberpay](https://static.openfintech.io/payment_providers/cyberpay/icon.png?w=278&c=v0.59.26#w100) |[Cyberpay](/payment-providers/cyberpay/)|`cyberpay`| 
 |![citrinepay](https://static.openfintech.io/payment_providers/citrinepay/icon.png?w=278&c=v0.59.26#w100) |[Citrine Merchant Services](/payment-providers/citrinepay/)|`citrinepay`| 
+|![smilepayz](https://static.openfintech.io/payment_providers/smilepayz/icon.png?w=278&c=v0.59.26#w100) |[Smilepayz](/payment-providers/smilepayz/)|`smilepayz`| 
  
 
 ## JSON Object 
