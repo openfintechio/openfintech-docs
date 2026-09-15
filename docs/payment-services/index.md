@@ -219,6 +219,7 @@
 |![Bank Transfer](https://static.openfintech.io/payment_methods/bank_transfer/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Transfer**](/payment-methods/bank_transfer/)|[`bancotestin_cop_hpp`](bancotestin_cop_hpp/)| 
 |![Bandhan Bank](https://static.openfintech.io/payment_methods/bandhan_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Bandhan Bank**](/payment-methods/bandhan_bank/)|[`bandhan_bank_inr_hpp`](bandhan_bank_inr_hpp/)| 
 |![Bangkok Bank](https://static.openfintech.io/payment_methods/bangko_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Bangkok Bank**](/payment-methods/bangko_bank/)|[`bangko_bank_thb_hpp`](bangko_bank_thb_hpp/)| 
+|![Bank Argentina](https://static.openfintech.io/payment_methods/bank_argentina/logo.svg?w=400&c=v0.59.26#w200) |[**Bank Argentina**](/payment-methods/bank_argentina/)|[`bank_argentina_ars_hpp`](bank_argentina_ars_hpp/)| 
 |![Card](https://static.openfintech.io/payment_methods/bank_card/logo.svg?w=400&c=v0.59.26#w200) |[**Card**](/payment-methods/bank_card/)|[`bank_card_eur_hpp`](bank_card_eur_hpp/)| 
 |![Card](https://static.openfintech.io/payment_methods/bank_card/logo.svg?w=400&c=v0.59.26#w200) |[**Card**](/payment-methods/bank_card/)|[`bank_card_gbp_hpp`](bank_card_gbp_hpp/)| 
 |![Card](https://static.openfintech.io/payment_methods/bank_card/logo.svg?w=400&c=v0.59.26#w200) |[**Card**](/payment-methods/bank_card/)|[`bank_card_gel_hpp`](bank_card_gel_hpp/)| 
@@ -501,6 +502,7 @@
 |![Bre-B QR](https://static.openfintech.io/payment_methods/breb_qr/logo.svg?w=400&c=v0.59.26#w200) |[**Bre-B QR**](/payment-methods/breb_qr/)|[`breb_qr_cop_hpp`](breb_qr_cop_hpp/)| 
 |![BRI Bank](https://static.openfintech.io/payment_methods/bri_bank/logo.svg?w=400&c=v0.59.26#w200) |[**BRI Bank**](/payment-methods/bri_bank/)|[`bri_bank_cny_hpp`](bri_bank_cny_hpp/)| 
 |![BRIVA](https://static.openfintech.io/payment_methods/bri_va/logo.svg?w=400&c=v0.59.26#w200) |[**BRIVA**](/payment-methods/bri_va/)|[`bri_va_idr_hpp`](bri_va_idr_hpp/)| 
+|![Brubank](https://static.openfintech.io/payment_methods/brubank/logo.svg?w=400&c=v0.59.26#w200) |[**Brubank**](/payment-methods/brubank/)|[`brubank_ars_hpp`](brubank_ars_hpp/)| 
 |![BSIVA](https://static.openfintech.io/payment_methods/bsi_va/logo.svg?w=400&c=v0.59.26#w200) |[**BSIVA**](/payment-methods/bsi_va/)|[`bsi_va_idr_hpp`](bsi_va_idr_hpp/)| 
 |![BTN Bank](https://static.openfintech.io/payment_methods/btn_bank/logo.png?w=400&c=v0.59.26#w200) |[**BTN Bank**](/payment-methods/btn_bank/)|[`btn_bank_idr_hpp`](btn_bank_idr_hpp/)| 
 |![Bank BTPN](https://static.openfintech.io/payment_methods/btpn_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Bank BTPN**](/payment-methods/btpn_bank/)|[`btpn_bank_idr_hpp`](btpn_bank_idr_hpp/)| 
@@ -826,6 +828,7 @@
 |![Dankort](https://static.openfintech.io/payment_methods/dankort/logo.png?w=400&c=v0.59.26#w200) |[**Dankort**](/payment-methods/dankort/)|[`dankort_eur_hpp`](dankort_eur_hpp/)| 
 |![Development Credit Bank](https://static.openfintech.io/payment_methods/dcb_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Development Credit Bank**](/payment-methods/dcb_bank_india/)|[`dcb_bank_india_inr_hpp`](dcb_bank_india_inr_hpp/)| 
 |![DEBIN](https://static.openfintech.io/payment_methods/debin/logo.svg?w=400&c=v0.59.26#w200) |[**DEBIN**](/payment-methods/debin/)|[`debin_ars_hpp`](debin_ars_hpp/)| 
+|![Deuna](https://static.openfintech.io/payment_methods/deuna/logo.svg?w=400&c=v0.59.26#w200) |[**Deuna**](/payment-methods/deuna/)|[`deuna_usd_hpp`](deuna_usd_hpp/)| 
 |![Deutsche Bank](https://static.openfintech.io/payment_methods/deutsche_bank/logo.png?w=400&c=v0.59.26#w200) |[**Deutsche Bank**](/payment-methods/deutsche_bank/)|[`deutsche_bank_eur_hpp`](deutsche_bank_eur_hpp/)| 
 |![Deutsche Bank AG India](https://static.openfintech.io/payment_methods/deutsche_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Deutsche Bank AG India**](/payment-methods/deutsche_bank_india/)|[`deutsche_bank_india_inr_hpp`](deutsche_bank_india_inr_hpp/)| 
 |![Dhanlaxmi Bank](https://static.openfintech.io/payment_methods/dhanalaxmi_bank_india/logo.png?w=400&c=v0.59.26#w200) |[**Dhanlaxmi Bank**](/payment-methods/dhanalaxmi_bank_india/)|[`dhanalaxmi_bank_india_inr_hpp`](dhanalaxmi_bank_india_inr_hpp/)| 
@@ -1036,6 +1039,7 @@
 |![Halo pessa](https://static.openfintech.io/payment_methods/halo_pesa/logo.png?w=400&c=v0.59.26#w200) |[**Halo pessa**](/payment-methods/halo_pesa/)|[`halo_pesa_tzs_invoice`](halo_pesa_tzs_invoice/)| 
 |![Halotel](https://static.openfintech.io/payment_methods/halotel/logo.png?w=400&c=v0.59.26#w200) |[**Halotel**](/payment-methods/halotel/)|[`halotel_tzs_invoice`](halotel_tzs_invoice/)| 
 |![Hana Bank](https://static.openfintech.io/payment_methods/hana_bank/logo.png?w=400&c=v0.59.26#w200) |[**Hana Bank**](/payment-methods/hana_bank/)|[`hana_bank_krw_hpp`](hana_bank_krw_hpp/)| 
+|![Havale](https://static.openfintech.io/payment_methods/havale/logo.svg?w=400&c=v0.59.26#w200) |[**Havale**](/payment-methods/havale/)|[`havale_try_hpp`](havale_try_hpp/)| 
 |![Housing Development Commercial Joint Stock Bank](https://static.openfintech.io/payment_methods/hd_bank/logo.png?w=400&c=v0.59.26#w200) |[**Housing Development Commercial Joint Stock Bank**](/payment-methods/hd_bank/)|[`hd_bank_vnd_hpp`](hd_bank_vnd_hpp/)| 
 |![HDFC Bank](https://static.openfintech.io/payment_methods/hdfc_bank/logo.svg?w=400&c=v0.59.26#w200) |[**HDFC Bank**](/payment-methods/hdfc_bank/)|[`hdfc_bank_inr_hpp`](hdfc_bank_inr_hpp/)| 
 |![Hero Payments](https://static.openfintech.io/payment_methods/hero_payments/logo.svg?w=400&c=v0.59.26#w200) |[**Hero Payments**](/payment-methods/hero_payments/)|[`hero_payments_aed_hpp`](hero_payments_aed_hpp/)| 
@@ -1214,6 +1218,7 @@
 |![La Perla](https://static.openfintech.io/payment_methods/la_perla/logo.svg?w=400&c=v0.59.26#w200) |[**La Perla**](/payment-methods/la_perla/)|[`laperlain_cop_hpp`](laperlain_cop_hpp/)| 
 |![Latam](https://static.openfintech.io/payment_methods/latam/logo.svg?w=400&c=v0.59.26#w200) |[**Latam**](/payment-methods/latam/)|[`latam_usd_hpp`](latam_usd_hpp/)| 
 |![Lakshmi Vilas Bank](https://static.openfintech.io/payment_methods/laxmi_vilas_bank/logo.svg?w=400&c=v0.59.26#w200) |[**Lakshmi Vilas Bank**](/payment-methods/laxmi_vilas_bank/)|[`laxmi_vilas_bank_inr_hpp`](laxmi_vilas_bank_inr_hpp/)| 
+|![Lemon Cash](https://static.openfintech.io/payment_methods/lemon_cash/logo.svg?w=400&c=v0.59.26#w200) |[**Lemon Cash**](/payment-methods/lemon_cash/)|[`lemon_cash_ars_hpp`](lemon_cash_ars_hpp/)| 
 |![Digimeth](https://static.openfintech.io/payment_methods/leobank/logo.svg?w=400&c=v0.59.26#w200) |[**Digimeth**](/payment-methods/leobank/)|[`leobank_azn_invoice`](leobank_azn_invoice/)| 
 |![Lider](https://static.openfintech.io/payment_methods/lider_cash/logo.png?w=400&c=v0.59.26#w200) |[**Lider**](/payment-methods/lider_cash/)|[`lider_cash_clp_hpp`](lider_cash_clp_hpp/)| 
 |![LienVietPostBank](https://static.openfintech.io/payment_methods/lien_viet_post_bank/logo.png?w=400&c=v0.59.26#w200) |[**LienVietPostBank**](/payment-methods/lien_viet_post_bank/)|[`lien_viet_post_bank_vnd_hpp`](lien_viet_post_bank_vnd_hpp/)| 
@@ -1787,6 +1792,7 @@
 |![PayU](https://static.openfintech.io/payment_methods/payu/logo.png?w=400&c=v0.59.26#w200) |[**PayU**](/payment-methods/payu/)|[`payu_czk_hpp`](payu_czk_hpp/)| 
 |![PayU](https://static.openfintech.io/payment_methods/payu/logo.png?w=400&c=v0.59.26#w200) |[**PayU**](/payment-methods/payu/)|[`payu_eur_hpp`](payu_eur_hpp/)| 
 |![PayU](https://static.openfintech.io/payment_methods/payu/logo.png?w=400&c=v0.59.26#w200) |[**PayU**](/payment-methods/payu/)|[`payu_pln_hpp`](payu_pln_hpp/)| 
+|![PayValida](https://static.openfintech.io/payment_methods/payvalida/logo.svg?w=400&c=v0.59.26#w200) |[**PayValida**](/payment-methods/payvalida/)|[`payvalida_pen_hpp`](payvalida_pen_hpp/)| 
 |![PayWise Cash transfer](https://static.openfintech.io/payment_methods/paywise_cash/logo.svg?w=400&c=v0.59.26#w200) |[**PayWise Cash transfer**](/payment-methods/paywise_cash/)|[`paywise_cash_ttd_invoice`](paywise_cash_ttd_invoice/)| 
 |![PayWise Cash transfer](https://static.openfintech.io/payment_methods/paywise_cash/logo.svg?w=400&c=v0.59.26#w200) |[**PayWise Cash transfer**](/payment-methods/paywise_cash/)|[`paywise_cash_usd_invoice`](paywise_cash_usd_invoice/)| 
 |![HDFC PayZapp](https://static.openfintech.io/payment_methods/payzapp/logo.png?w=400&c=v0.59.26#w200) |[**HDFC PayZapp**](/payment-methods/payzapp/)|[`payzapp_inr_hpp`](payzapp_inr_hpp/)| 
