@@ -125,6 +125,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Paysafeca
 |![embily](https://static.openfintech.io/payment_providers/embily/icon.png?w=278&c=v0.59.26#w100) |[Embily](/payment-providers/embily/)|`embily`| 
 |![cardifulnew](https://static.openfintech.io/payment_providers/cardifulnew/icon.svg?w=278&c=v0.59.26#w100) |[Cardiful New](/payment-providers/cardifulnew/)|`cardifulnew`| 
 |![crossbill](https://static.openfintech.io/payment_providers/crossbill/icon.png?w=278&c=v0.59.26#w100) |[Crossbill](/payment-providers/crossbill/)|`crossbill`| 
+|![bergopay](https://static.openfintech.io/payment_providers/bergopay/icon.png?w=278&c=v0.59.26#w100) |[BergoPay](/payment-providers/bergopay/)|`bergopay`| 
  
 
 ## JSON Object 

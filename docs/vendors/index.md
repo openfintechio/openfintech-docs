@@ -324,6 +324,7 @@
 |![bennupay](https://static.openfintech.io/vendors/bennupay/logo.png?w=600&c=v0.59.26#w200) |[**Bennupay**](bennupay/)|`bennupay`| 
 |![beonpay](https://static.openfintech.io/vendors/beonpay/logo.png?w=600&c=v0.59.26#w200) |[**BeonPay**](beonpay/)|`beonpay`| 
 |![beonpaypayouts](https://static.openfintech.io/vendors/beonpaypayouts/logo.png?w=600&c=v0.59.26#w200) |[**VP Payouts**](beonpaypayouts/)|`beonpaypayouts`| 
+|![bergopay](https://static.openfintech.io/vendors/bergopay/logo.svg?w=600&c=v0.59.26#w200) |[**BergoPay**](bergopay/)|`bergopay`| 
 |![best-obmen](https://static.openfintech.io/vendors/best-obmen/logo.png?w=600&c=v0.59.26#w200) |[**best-obmen**](best-obmen/)|`best-obmen`| 
 |![bestcoin.cc](https://static.openfintech.io/vendors/bestcoin.cc/logo.svg?w=600&c=v0.59.26#w200) |[**bestcoin.cc**](bestcoin.cc/)|`bestcoin.cc`| 
 |![bestobmin.net](https://static.openfintech.io/vendors/bestobmin.net/logo.svg?w=600&c=v0.59.26#w200) |[**BestObmin**](bestobmin.net/)|`bestobmin.net`| 
