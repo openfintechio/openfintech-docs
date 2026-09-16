@@ -41,6 +41,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |:---:|:---:|:---:| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card](/payment-methods/payment_card/)|`payment_card`| 
 |![qiwi](https://static.openfintech.io/payment_methods/qiwi/icon.svg?w=278&c=v0.59.26#w100) |[qiwi](/payment-methods/qiwi/)|`qiwi`| 
+|![pix](https://static.openfintech.io/payment_methods/pix/icon.svg?w=278&c=v0.59.26#w100) |[pix](/payment-methods/pix/)|`pix`| 
  
 
 ## JSON Object 
@@ -54,7 +55,8 @@ The list of supported [Payment Methods](/payment-methods/)
   "countries":null,
   "payment_method":[
     "payment_card",
-    "qiwi"
+    "qiwi",
+    "pix"
   ],
   "payout_method":null,
   "metadata":null,
