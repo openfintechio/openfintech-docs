@@ -47,6 +47,7 @@ The list of [Payment Services](/payment-services/) based on the _MB WAY_
 |![mb_way](https://static.openfintech.io/payment_methods/mb_way/icon.svg?w=278&c=v0.59.26#w100) |[mb_way_gbp_hpp](/payment-services/mb_way_gbp_hpp/)|`mb_way_gbp_hpp`| 
 |![mb_way](https://static.openfintech.io/payment_methods/mb_way/icon.svg?w=278&c=v0.59.26#w100) |[mb_way_aud_hpp](/payment-services/mb_way_aud_hpp/)|`mb_way_aud_hpp`| 
 |![mb_way](https://static.openfintech.io/payment_methods/mb_way/icon.svg?w=278&c=v0.59.26#w100) |[mb_way_eur_invoice](/payment-services/mb_way_eur_invoice/)|`mb_way_eur_invoice`| 
+|![mb_way](https://static.openfintech.io/payment_methods/mb_way/icon.svg?w=278&c=v0.59.26#w100) |[mb_way_eur_transfer](/payment-services/mb_way_eur_transfer/)|`mb_way_eur_transfer`| 
  
 
 ## Payment Providers 

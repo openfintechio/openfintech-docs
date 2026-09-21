@@ -1294,6 +1294,7 @@
 |![MB WAY](https://static.openfintech.io/payment_methods/mb_way/logo.svg?w=400&c=v0.59.26#w200) |[**MB WAY**](/payment-methods/mb_way/)|[`mb_way_cad_hpp`](mb_way_cad_hpp/)| 
 |![MB WAY](https://static.openfintech.io/payment_methods/mb_way/logo.svg?w=400&c=v0.59.26#w200) |[**MB WAY**](/payment-methods/mb_way/)|[`mb_way_eur_hpp`](mb_way_eur_hpp/)| 
 |![MB WAY](https://static.openfintech.io/payment_methods/mb_way/logo.svg?w=400&c=v0.59.26#w200) |[**MB WAY**](/payment-methods/mb_way/)|[`mb_way_eur_invoice`](mb_way_eur_invoice/)| 
+|![MB WAY](https://static.openfintech.io/payment_methods/mb_way/logo.svg?w=400&c=v0.59.26#w200) |[**MB WAY**](/payment-methods/mb_way/)|[`mb_way_eur_transfer`](mb_way_eur_transfer/)| 
 |![MB WAY](https://static.openfintech.io/payment_methods/mb_way/logo.svg?w=400&c=v0.59.26#w200) |[**MB WAY**](/payment-methods/mb_way/)|[`mb_way_gbp_hpp`](mb_way_gbp_hpp/)| 
 |![MB WAY](https://static.openfintech.io/payment_methods/mb_way/logo.svg?w=400&c=v0.59.26#w200) |[**MB WAY**](/payment-methods/mb_way/)|[`mb_way_usd_hpp`](mb_way_usd_hpp/)| 
 |![Mefete](https://static.openfintech.io/payment_methods/mefete/logo.png?w=400&c=v0.59.26#w200) |[**Mefete**](/payment-methods/mefete/)|[`mefete_try_hpp`](mefete_try_hpp/)| 
