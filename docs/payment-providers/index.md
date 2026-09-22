@@ -926,6 +926,7 @@
 |![qantani](https://static.openfintech.io/payment_providers/qantani/logo.png?w=600&c=v0.59.26#w100) |[**Qantani**](qantani/)|`qantani`| 
 |![qiwi](https://static.openfintech.io/payment_providers/qiwi/logo.svg?w=600&c=v0.59.26#w100) |[**Qiwi**](qiwi/)|`qiwi`| 
 |![qorepayments](https://static.openfintech.io/payment_providers/qorepayments/logo.svg?w=600&c=v0.59.26#w100) |[**QorePayments**](qorepayments/)|`qorepayments`| 
+|![quantapayments](https://static.openfintech.io/payment_providers/quantapayments/logo.png?w=600&c=v0.59.26#w100) |[**QuantaPayments**](quantapayments/)|`quantapayments`| 
 |![quickpay](https://static.openfintech.io/payment_providers/quickpay/logo.png?w=600&c=v0.59.26#w100) |[**QuickPay**](quickpay/)|`quickpay`| 
 || **R** ||
 |![raboomnikassa](https://static.openfintech.io/payment_providers/raboomnikassa/logo.png?w=600&c=v0.59.26#w100) |[**Rabo OmniKassa**](raboomnikassa/)|`raboomnikassa`| 
