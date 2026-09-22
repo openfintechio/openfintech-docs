@@ -412,6 +412,7 @@
 |![buckzy](https://static.openfintech.io/vendors/buckzy/logo.png?w=600&c=v0.59.26#w200) |[**Buckzy**](buckzy/)|`buckzy`| 
 |![budpay](https://static.openfintech.io/vendors/budpay/logo.png?w=600&c=v0.59.26#w200) |[**Budpay**](budpay/)|`budpay`| 
 |![busan_bank](https://static.openfintech.io/vendors/busan_bank/logo.png?w=600&c=v0.59.26#w200) |[**BNK Busan Bank**](busan_bank/)|`busan_bank`| 
+|![buzipay](https://static.openfintech.io/vendors/buzipay/logo.svg?w=600&c=v0.59.26#w200) |[**BuziPay**](buzipay/)|`buzipay`| 
 |![byware.net](https://static.openfintech.io/vendors/byware.net/logo.svg?w=600&c=v0.59.26#w200) |[**Byware**](byware.net/)|`byware.net`| 
 |![bzpay](https://static.openfintech.io/vendors/bzpay/logo.png?w=600&c=v0.59.26#w200) |[**BZPAY**](bzpay/)|`bzpay`| 
 || **C** ||

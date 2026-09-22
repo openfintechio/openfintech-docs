@@ -47,6 +47,8 @@ The list of supported [Payment Methods](/payment-methods/)
 |![mb_way](https://static.openfintech.io/payment_methods/mb_way/icon.svg?w=278&c=v0.59.26#w100) |[mb_way](/payment-methods/mb_way/)|`mb_way`| 
 |![pay_id](https://static.openfintech.io/payment_methods/pay_id/icon.svg?w=278&c=v0.59.26#w100) |[pay_id](/payment-methods/pay_id/)|`pay_id`| 
 |![multibanco](https://static.openfintech.io/payment_methods/multibanco/icon.png?w=278&c=v0.59.26#w100) |[multibanco](/payment-methods/multibanco/)|`multibanco`| 
+|![openbanking](https://static.openfintech.io/payment_methods/openbanking/icon.svg?w=278&c=v0.59.26#w100) |[openbanking](/payment-methods/openbanking/)|`openbanking`| 
+|![revolut_bank](https://static.openfintech.io/payment_methods/revolut_bank/icon.png?w=278&c=v0.59.26#w100) |[revolut_bank](/payment-methods/revolut_bank/)|`revolut_bank`| 
 |![applepay](https://static.openfintech.io/payment_methods/applepay/icon.svg?w=278&c=v0.59.26#w100) |[applepay](/payment-methods/applepay/)|`applepay`| 
 |![googlepay](https://static.openfintech.io/payment_methods/googlepay/icon.svg?w=278&c=v0.59.26#w100) |[googlepay](/payment-methods/googlepay/)|`googlepay`| 
  
@@ -67,6 +69,8 @@ The list of supported [Payment Methods](/payment-methods/)
     "mb_way",
     "pay_id",
     "multibanco",
+    "openbanking",
+    "revolut_bank",
     "applepay",
     "googlepay"
   ],
