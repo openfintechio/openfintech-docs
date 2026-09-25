@@ -716,6 +716,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![napoleonpay](https://static.openfintech.io/payment_providers/napoleonpay/icon.png?w=278&c=v0.59.26#w100) |[NapoleonPay](/payment-providers/napoleonpay/)|`napoleonpay`| 
 |![buzipay](https://static.openfintech.io/payment_providers/buzipay/icon.png?w=278&c=v0.59.26#w100) |[BuziPay](/payment-providers/buzipay/)|`buzipay`| 
 |![quantapayments](https://static.openfintech.io/payment_providers/quantapayments/icon.png?w=278&c=v0.59.26#w100) |[QuantaPayments](/payment-providers/quantapayments/)|`quantapayments`| 
+|![payracks](https://static.openfintech.io/payment_providers/payracks/icon.svg?w=278&c=v0.59.26#w100) |[Payracks](/payment-providers/payracks/)|`payracks`| 
  
 
 ## JSON Object 
