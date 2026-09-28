@@ -1207,6 +1207,9 @@
 |![lulo_bank](https://static.openfintech.io/payout_methods/lulo_bank/logo.svg?w=400&c=v0.59.26#w24) |[**LULO BANK**](lulo_bank/)|`lulo_bank`| 
 |![lumina-vyshgorod](https://static.openfintech.io/payout_methods/lumina-vyshgorod/logo.png?w=400&c=v0.59.26#w24) |[**LUMINA (Vyshgorod)**](lumina-vyshgorod/)|`lumina-vyshgorod`| 
 |![luxlite-kiev](https://static.openfintech.io/payout_methods/luxlite-kiev/logo.png?w=400&c=v0.59.26#w24) |[**LuxLite (Kiev)**](luxlite-kiev/)|`luxlite-kiev`| 
+|![luxon_email](https://static.openfintech.io/payout_methods/luxon_email/logo.png?w=400&c=v0.59.26#w24) |[**Luxon Pay by Email**](luxon_email/)|`luxon_email`| 
+|![luxon_phone](https://static.openfintech.io/payout_methods/luxon_phone/logo.png?w=400&c=v0.59.26#w24) |[**Luxon Pay by Phone**](luxon_phone/)|`luxon_phone`| 
+|![luxon_wallet](https://static.openfintech.io/payout_methods/luxon_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Luxon Pay Wallet**](luxon_wallet/)|`luxon_wallet`| 
 || **M** ||
 |![m-tel-uman](https://static.openfintech.io/payout_methods/m-tel-uman/logo.png?w=400&c=v0.59.26#w24) |[**M-TEL (Uman)**](m-tel-uman/)|`m-tel-uman`| 
 |![m10](https://static.openfintech.io/payout_methods/m10/logo.png?w=400&c=v0.59.26#w24) |[**M10**](m10/)|`m10`| 

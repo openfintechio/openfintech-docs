@@ -1248,6 +1248,7 @@
 |![lpb](https://static.openfintech.io/vendors/lpb/logo.svg?w=600&c=v0.59.26#w200) |[**LPB**](lpb/)|`lpb`| 
 |![lqpay](https://static.openfintech.io/vendors/lqpay/logo.png?w=600&c=v0.59.26#w200) |[**Lqpay**](lqpay/)|`lqpay`| 
 |![lugan_f_ya_pat_kbprivatbankm_lugansk](https://static.openfintech.io/vendors/lugan_f_ya_pat_kbprivatbankm_lugansk/logo.svg?w=600&c=v0.59.26#w200) |[**ЛУГАНСЬКА ФІЛІЯ ПАТ КОМЕРЦІЙНОГО БАНКУ 'ПРИВАТБАНК'**](lugan_f_ya_pat_kbprivatbankm_lugansk/)|`lugan_f_ya_pat_kbprivatbankm_lugansk`| 
+|![luxonpay](https://static.openfintech.io/vendors/luxonpay/logo.png?w=600&c=v0.59.26#w200) |[**Luxon Pay**](luxonpay/)|`luxonpay`| 
 |![lyubojbanktailanda](https://static.openfintech.io/vendors/lyubojbanktailanda/logo.svg?w=600&c=v0.59.26#w200) |[**Любой банк Таиланда**](lyubojbanktailanda/)|`lyubojbanktailanda`| 
 || **M** ||
 |![macropay](https://static.openfintech.io/vendors/macropay/logo.png?w=600&c=v0.59.26#w200) |[**Macropay**](macropay/)|`macropay`| 

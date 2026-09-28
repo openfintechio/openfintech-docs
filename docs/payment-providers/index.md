@@ -563,6 +563,7 @@
 |![localpayments](https://static.openfintech.io/payment_providers/localpayments/logo.svg?w=600&c=v0.59.26#w100) |[**Localpayment**](localpayments/)|`localpayments`| 
 |![lpb](https://static.openfintech.io/payment_providers/lpb/logo.svg?w=600&c=v0.59.26#w100) |[**LPB**](lpb/)|`lpb`| 
 |![lqpay](https://static.openfintech.io/payment_providers/lqpay/logo.png?w=600&c=v0.59.26#w100) |[**Lqpay**](lqpay/)|`lqpay`| 
+|![luxonpay](https://static.openfintech.io/payment_providers/luxonpay/logo.png?w=600&c=v0.59.26#w100) |[**Luxon Pay**](luxonpay/)|`luxonpay`| 
 || **M** ||
 |![macropay](https://static.openfintech.io/payment_providers/macropay/logo.png?w=600&c=v0.59.26#w100) |[**Macropay**](macropay/)|`macropay`| 
 |![madfin](https://static.openfintech.io/payment_providers/madfin/logo.png?w=600&c=v0.59.26#w100) |[**MADFIN**](madfin/)|`madfin`| 

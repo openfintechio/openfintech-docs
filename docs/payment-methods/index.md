@@ -567,6 +567,7 @@
 |![liqpay_wallet](https://static.openfintech.io/payment_methods/liqpay_wallet/logo.svg?w=400&c=v0.59.26#w200) |[**LiqPay wallet**](liqpay_wallet/)|`liqpay_wallet`| 
 |![litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200) |[**Litecoin**](litecoin/)|`litecoin`| 
 |![loteria](https://static.openfintech.io/payment_methods/loteria/logo.png?w=400&c=v0.59.26#w200) |[**Lotericas Voucher based payment method**](loteria/)|`loteria`| 
+|![luxon_wallet](https://static.openfintech.io/payment_methods/luxon_wallet/logo.png?w=400&c=v0.59.26#w200) |[**Luxon Pay Wallet**](luxon_wallet/)|`luxon_wallet`| 
 || **M** ||
 |![m10](https://static.openfintech.io/payment_methods/m10/logo.png?w=400&c=v0.59.26#w200) |[**m10**](m10/)|`m10`| 
 |![m_pesa](https://static.openfintech.io/payment_methods/m_pesa/logo.png?w=400&c=v0.59.26#w200) |[**M-Pesa**](m_pesa/)|`m_pesa`| 

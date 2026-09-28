@@ -1381,6 +1381,12 @@
 |![LULO BANK](https://static.openfintech.io/payout_methods/lulo_bank/logo.svg?w=400&c=v0.59.26#w24) |[**LULO BANK**](/payout-methods/lulo_bank/)|[`lulo_bank_cop`](lulo_bank_cop/)|`COP`| 
 |![LUMINA (Vyshgorod)](https://static.openfintech.io/payout_methods/lumina-vyshgorod/logo.png?w=400&c=v0.59.26#w24) |[**LUMINA (Vyshgorod)**](/payout-methods/lumina-vyshgorod/)|[`lumina-vyshgorod_uah`](lumina-vyshgorod_uah/)|`UAH`| 
 |![LuxLite (Kiev)](https://static.openfintech.io/payout_methods/luxlite-kiev/logo.png?w=400&c=v0.59.26#w24) |[**LuxLite (Kiev)**](/payout-methods/luxlite-kiev/)|[`luxlite-kiev_uah`](luxlite-kiev_uah/)|`UAH`| 
+|![Luxon Pay by Email](https://static.openfintech.io/payout_methods/luxon_email/logo.png?w=400&c=v0.59.26#w24) |[**Luxon Pay by Email**](/payout-methods/luxon_email/)|[`luxon_email_cad`](luxon_email_cad/)|`CAD`| 
+|![Luxon Pay by Email](https://static.openfintech.io/payout_methods/luxon_email/logo.png?w=400&c=v0.59.26#w24) |[**Luxon Pay by Email**](/payout-methods/luxon_email/)|[`luxon_email_usd`](luxon_email_usd/)|`USD`| 
+|![Luxon Pay by Phone](https://static.openfintech.io/payout_methods/luxon_phone/logo.png?w=400&c=v0.59.26#w24) |[**Luxon Pay by Phone**](/payout-methods/luxon_phone/)|[`luxon_phone_cad`](luxon_phone_cad/)|`CAD`| 
+|![Luxon Pay by Phone](https://static.openfintech.io/payout_methods/luxon_phone/logo.png?w=400&c=v0.59.26#w24) |[**Luxon Pay by Phone**](/payout-methods/luxon_phone/)|[`luxon_phone_usd`](luxon_phone_usd/)|`USD`| 
+|![Luxon Pay Wallet](https://static.openfintech.io/payout_methods/luxon_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Luxon Pay Wallet**](/payout-methods/luxon_wallet/)|[`luxon_wallet_cad`](luxon_wallet_cad/)|`CAD`| 
+|![Luxon Pay Wallet](https://static.openfintech.io/payout_methods/luxon_wallet/logo.png?w=400&c=v0.59.26#w24) |[**Luxon Pay Wallet**](/payout-methods/luxon_wallet/)|[`luxon_wallet_usd`](luxon_wallet_usd/)|`USD`| 
 ||| **M** ||
 |![M-TEL (Uman)](https://static.openfintech.io/payout_methods/m-tel-uman/logo.png?w=400&c=v0.59.26#w24) |[**M-TEL (Uman)**](/payout-methods/m-tel-uman/)|[`m-tel-uman_uah`](m-tel-uman_uah/)|`UAH`| 
 |![M10](https://static.openfintech.io/payout_methods/m10/logo.png?w=400&c=v0.59.26#w24) |[**M10**](/payout-methods/m10/)|[`m10_azn`](m10_azn/)|`AZN`| 

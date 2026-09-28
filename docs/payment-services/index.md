@@ -1259,6 +1259,8 @@
 |![Litecoin](https://static.openfintech.io/payment_methods/litecoin/logo.png?w=400&c=v0.59.26#w200) |[**Litecoin**](/payment-methods/litecoin/)|[`litecoin_usd_invoice`](litecoin_usd_invoice/)| 
 |![Lotericas Voucher based payment method](https://static.openfintech.io/payment_methods/loteria/logo.png?w=400&c=v0.59.26#w200) |[**Lotericas Voucher based payment method**](/payment-methods/loteria/)|[`loteria_brl_hpp`](loteria_brl_hpp/)| 
 |![Lotericas Voucher based payment method](https://static.openfintech.io/payment_methods/loteria/logo.png?w=400&c=v0.59.26#w200) |[**Lotericas Voucher based payment method**](/payment-methods/loteria/)|[`loterica_brl_hpp`](loterica_brl_hpp/)| 
+|![Luxon Pay Wallet](https://static.openfintech.io/payment_methods/luxon_wallet/logo.png?w=400&c=v0.59.26#w200) |[**Luxon Pay Wallet**](/payment-methods/luxon_wallet/)|[`luxon_wallet_cad_hpp`](luxon_wallet_cad_hpp/)| 
+|![Luxon Pay Wallet](https://static.openfintech.io/payment_methods/luxon_wallet/logo.png?w=400&c=v0.59.26#w200) |[**Luxon Pay Wallet**](/payment-methods/luxon_wallet/)|[`luxon_wallet_usd_hpp`](luxon_wallet_usd_hpp/)| 
 ||| **M** ||
 |![m10](https://static.openfintech.io/payment_methods/m10/logo.png?w=400&c=v0.59.26#w200) |[**m10**](/payment-methods/m10/)|[`m10_azn_hpp`](m10_azn_hpp/)| 
 |![m10](https://static.openfintech.io/payment_methods/m10/logo.png?w=400&c=v0.59.26#w200) |[**m10**](/payment-methods/m10/)|[`m10_azn_invoice`](m10_azn_invoice/)| 
